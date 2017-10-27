@@ -9,57 +9,57 @@ udver: '2'
 There are 166 `ADV` lemmas (5%), 175 `ADV` types (4%) and 521 `ADV` tokens (5%).
 Out of 16 observed tags, the rank of `ADV` is: 6 in number of lemmas, 6 in number of types and 7 in number of tokens.
 
-The 10 most frequent `ADV` lemmas: tež wjele tak zwjetša hišće něhdźe hižo tu bórze potom
+The 10 most frequent `ADV` lemmas: <em>tež, wjele, tak, zwjetša, hišće, něhdźe, hižo, tu, bórze, potom</em>
 
-The 10 most frequent `ADV` types:  tež tak zwjetša hišće wjele něhdźe hižo tu wjace najprjedy
+The 10 most frequent `ADV` types:  <em>tež, tak, zwjetša, hišće, wjele, něhdźe, hižo, tu, wjace, najprjedy</em>
 
-The 10 most frequent ambiguous lemmas: tu (<tt><a href="hsb-pos-ADV.html">ADV</a></tt> 10, <tt><a href="hsb-pos-X.html">X</a></tt> 1), mnoho (<tt><a href="hsb-pos-ADV.html">ADV</a></tt> 6, <tt><a href="hsb-pos-DET.html">DET</a></tt> 1), zdźěla (<tt><a href="hsb-pos-ADV.html">ADV</a></tt> 5, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), wokoło (<tt><a href="hsb-pos-ADP.html">ADP</a></tt> 3, <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 3), blisko (<tt><a href="hsb-pos-ADP.html">ADP</a></tt> 2, <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 2), to (<tt><a href="hsb-pos-PRON.html">PRON</a></tt> 58, <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 2), t (<tt><a href="hsb-pos-ADV.html">ADV</a></tt> 1, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), znutřka (<tt><a href="hsb-pos-ADP.html">ADP</a></tt> 2, <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 1), zwonka (<tt><a href="hsb-pos-ADV.html">ADV</a></tt> 1, <tt><a href="hsb-pos-ADP.html">ADP</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>tu</em> (<tt><a href="hsb-pos-ADV.html">ADV</a></tt> 10, <tt><a href="hsb-pos-X.html">X</a></tt> 1), <em>mnoho</em> (<tt><a href="hsb-pos-ADV.html">ADV</a></tt> 6, <tt><a href="hsb-pos-DET.html">DET</a></tt> 1), <em>zdźěla</em> (<tt><a href="hsb-pos-ADV.html">ADV</a></tt> 5, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), <em>wokoło</em> (<tt><a href="hsb-pos-ADP.html">ADP</a></tt> 3, <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 3), <em>blisko</em> (<tt><a href="hsb-pos-ADP.html">ADP</a></tt> 2, <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 2), <em>to</em> (<tt><a href="hsb-pos-PRON.html">PRON</a></tt> 58, <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 2), <em>t</em> (<tt><a href="hsb-pos-ADV.html">ADV</a></tt> 1, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), <em>znutřka</em> (<tt><a href="hsb-pos-ADP.html">ADP</a></tt> 2, <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 1), <em>zwonka</em> (<tt><a href="hsb-pos-ADV.html">ADV</a></tt> 1, <tt><a href="hsb-pos-ADP.html">ADP</a></tt> 1)
 
-The 10 most frequent ambiguous types:  tu (<tt><a href="hsb-pos-ADV.html">ADV</a></tt> 8, <tt><a href="hsb-pos-X.html">X</a></tt> 1, <tt><a href="hsb-pos-DET.html">DET</a></tt> 1), zdźěla (<tt><a href="hsb-pos-ADV.html">ADV</a></tt> 5, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), dołho (<tt><a href="hsb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1), wokoło (<tt><a href="hsb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="hsb-pos-ADP.html">ADP</a></tt> 2), krótko (<tt><a href="hsb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1), to (<tt><a href="hsb-pos-PRON.html">PRON</a></tt> 16, <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 2), blisko (<tt><a href="hsb-pos-ADP.html">ADP</a></tt> 2, <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 1), da (<tt><a href="hsb-pos-VERB.html">VERB</a></tt> 2, <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 1), jendź (<tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 1), t (<tt><a href="hsb-pos-PRON.html">PRON</a></tt> 3, <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 1, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>tu</em> (<tt><a href="hsb-pos-ADV.html">ADV</a></tt> 8, <tt><a href="hsb-pos-DET.html">DET</a></tt> 1, <tt><a href="hsb-pos-X.html">X</a></tt> 1), <em>zdźěla</em> (<tt><a href="hsb-pos-ADV.html">ADV</a></tt> 5, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), <em>dołho</em> (<tt><a href="hsb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1), <em>wokoło</em> (<tt><a href="hsb-pos-ADV.html">ADV</a></tt> 3, <tt><a href="hsb-pos-ADP.html">ADP</a></tt> 2), <em>krótko</em> (<tt><a href="hsb-pos-ADV.html">ADV</a></tt> 2, <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1), <em>to</em> (<tt><a href="hsb-pos-PRON.html">PRON</a></tt> 16, <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 2), <em>blisko</em> (<tt><a href="hsb-pos-ADP.html">ADP</a></tt> 2, <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 1), <em>da</em> (<tt><a href="hsb-pos-VERB.html">VERB</a></tt> 2, <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 1), <em>jendź</em> (<tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 1), <em>t</em> (<tt><a href="hsb-pos-PRON.html">PRON</a></tt> 3, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 1)
 
 
-* tu
-  * <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 8: Jejkowe bańki zawostawaja w archegonijach a so <b>tu</b> wopłodźuja .
-  * <tt><a href="hsb-pos-X.html">X</a></tt> 1: Serbski institut kooperuje z druhimi wědomostnymi zarjadnišćemi w <b>tu</b> - a wukraju .
-  * <tt><a href="hsb-pos-DET.html">DET</a></tt> 1: Samotar narysowa na pěskojte dno smuhu a praji : » Přez <b>tu</b> smuhu njesměš . «
-* zdźěla
-  * <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 5: 1 leži <b>zdźěla</b> w Europje .
-  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1: Tute přesunjenje wokalow dźe na indoeuropski přechad wróćo a hodźi so tohodla , <b>zdźěla</b> pola samsnych werbow , we wjacorych rěčach wobkedźbować , na př .
-* dołho
-  * <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 3: Historikarjo njejsu sej wěsći , kak <b>dołho</b> so tuta zběrka zakonjow wobkedźbowaše .
-  * <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1: Wón je <b>dołho</b> - špindlojty hač krótko - boblojty .
-* wokoło
-  * <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 3: Španisce rěči <b>wokoło</b> 360 milionow ludźi .
-  * <tt><a href="hsb-pos-ADP.html">ADP</a></tt> 2: Na swěće je <b>wokoło</b> 24 - 30 tysac družinow rybow .
-* krótko
-  * <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 2: Nacionalsocializm ( prěnjotnje němsce Nationalsozialismus , tež <b>krótko</b> nacizm ) je njedemokratiska , antikomunistiska a antisemitiska ( a tež antisłowjanska ) ideologija , swětonahlad , kotry bu załoženy wot Adolfa Hitlera a jeho strony w dobje Weimarskeje republiki .
-  * <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1: Wón je dołho - špindlojty hač <b>krótko</b> - boblojty .
-* to
-  * <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 16: Pod škrějnym dypkom bywa kruta maćizna , a <b>to</b> lód .
-  * <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 2: Jeli někotři wužiwarjo listowany namjet podpěruja , <b>to</b> so dyrbi předłohu { { Ekscelentny } } z nastawka wotstronić .
-* blisko
-  * <tt><a href="hsb-pos-ADP.html">ADP</a></tt> 2: Wjacore tutych kralowskich rowow namakachu <b>blisko</b> města Ur .
-  * <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 1: Šlešćina je <b>blisko</b> přiwuzna z Pólskej rěču , tak zo bu jako dialekt Pólšćiny wot někotrych linguistikow wotwažowana .
-* da
-  * <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 2: Princ Wilhelm Oranski <b>da</b> Leidenčanam , jako myto za spjećowanje přećiwo Španičanam , uniwersitu .
-  * <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 1: Padnje - li 29 . , 30 . abo 31 . december na póndźelu , <b>da</b> přiliča so dny wot póndźele prěnjemu protykowemu tydźenju přichodneho lěta .
-* jendź
-  * <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1: Internet ( wot <b>jendź</b> . Interconnected : " hromadźe zwjazowane " a Networks : " syće " ) je elektroniske zwjazanje mjezy ličakowymi syćemi , ze cilom zhotowić zwjazanja mjezy jednotliwymi ličakami a tak wuměnić daty .
-  * <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 1: Wuměna datow mjezy jednotliwymi ličakami ( serwer , <b>jendź</b> . Server ) přewjedźe so z pomocu technisce normowanych internetowych protokolow .
-* t
-  * <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 3: Zo by so GNU - licenca dodźeržała , dyrbi so při tym 3 - 5 tamnišich <b>t</b> . mj . hłownych awtorow mjenować .
-  * <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 1: W času persiskeho knjejstwa bu aramejšćina mócnarstwowa rěč , <b>t</b> . mj . mócnarstwowa aramejšćina .
-  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1: 1 . Serbska centralna biblioteka je relatiwnje samostatne zarjadnišćo Serbskeho instituta z . <b>t</b> .
+* <em>tu</em>
+  * <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 8: <em>Jejkowe bańki zawostawaja w archegonijach a so <b>tu</b> wopłodźuja .</em>
+  * <tt><a href="hsb-pos-DET.html">DET</a></tt> 1: <em>Samotar narysowa na pěskojte dno smuhu a praji : » Přez <b>tu</b> smuhu njesměš . «</em>
+  * <tt><a href="hsb-pos-X.html">X</a></tt> 1: <em>Serbski institut kooperuje z druhimi wědomostnymi zarjadnišćemi w <b>tu</b> - a wukraju .</em>
+* <em>zdźěla</em>
+  * <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 5: <em>1 leži <b>zdźěla</b> w Europje .</em>
+  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1: <em>Tute přesunjenje wokalow dźe na indoeuropski přechad wróćo a hodźi so tohodla , <b>zdźěla</b> pola samsnych werbow , we wjacorych rěčach wobkedźbować , na př .</em>
+* <em>dołho</em>
+  * <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 3: <em>Historikarjo njejsu sej wěsći , kak <b>dołho</b> so tuta zběrka zakonjow wobkedźbowaše .</em>
+  * <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1: <em>Wón je <b>dołho</b> - špindlojty hač krótko - boblojty .</em>
+* <em>wokoło</em>
+  * <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 3: <em>Španisce rěči <b>wokoło</b> 360 milionow ludźi .</em>
+  * <tt><a href="hsb-pos-ADP.html">ADP</a></tt> 2: <em>Na swěće je <b>wokoło</b> 24 - 30 tysac družinow rybow .</em>
+* <em>krótko</em>
+  * <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 2: <em>Nacionalsocializm ( prěnjotnje němsce Nationalsozialismus , tež <b>krótko</b> nacizm ) je njedemokratiska , antikomunistiska a antisemitiska ( a tež antisłowjanska ) ideologija , swětonahlad , kotry bu załoženy wot Adolfa Hitlera a jeho strony w dobje Weimarskeje republiki .</em>
+  * <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1: <em>Wón je dołho - špindlojty hač <b>krótko</b> - boblojty .</em>
+* <em>to</em>
+  * <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 16: <em>Pod škrějnym dypkom bywa kruta maćizna , a <b>to</b> lód .</em>
+  * <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 2: <em>Jeli někotři wužiwarjo listowany namjet podpěruja , <b>to</b> so dyrbi předłohu { { Ekscelentny } } z nastawka wotstronić .</em>
+* <em>blisko</em>
+  * <tt><a href="hsb-pos-ADP.html">ADP</a></tt> 2: <em>Wjacore tutych kralowskich rowow namakachu <b>blisko</b> města Ur .</em>
+  * <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 1: <em>Šlešćina je <b>blisko</b> přiwuzna z Pólskej rěču , tak zo bu jako dialekt Pólšćiny wot někotrych linguistikow wotwažowana .</em>
+* <em>da</em>
+  * <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 2: <em>Princ Wilhelm Oranski <b>da</b> Leidenčanam , jako myto za spjećowanje přećiwo Španičanam , uniwersitu .</em>
+  * <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 1: <em>Padnje - li 29 . , 30 . abo 31 . december na póndźelu , <b>da</b> přiliča so dny wot póndźele prěnjemu protykowemu tydźenju přichodneho lěta .</em>
+* <em>jendź</em>
+  * <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1: <em>Internet ( wot <b>jendź</b> . Interconnected : " hromadźe zwjazowane " a Networks : " syće " ) je elektroniske zwjazanje mjezy ličakowymi syćemi , ze cilom zhotowić zwjazanja mjezy jednotliwymi ličakami a tak wuměnić daty .</em>
+  * <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 1: <em>Wuměna datow mjezy jednotliwymi ličakami ( serwer , <b>jendź</b> . Server ) přewjedźe so z pomocu technisce normowanych internetowych protokolow .</em>
+* <em>t</em>
+  * <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 3: <em>Zo by so GNU - licenca dodźeržała , dyrbi so při tym 3 - 5 tamnišich <b>t</b> . mj . hłownych awtorow mjenować .</em>
+  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1: <em>1 . Serbska centralna biblioteka je relatiwnje samostatne zarjadnišćo Serbskeho instituta z . <b>t</b> .</em>
+  * <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 1: <em>W času persiskeho knjejstwa bu aramejšćina mócnarstwowa rěč , <b>t</b> . mj . mócnarstwowa aramejšćina .</em>
 
 ## Morphology
 
 The form / lemma ratio of `ADV` is 1.054217 (the average of all parts of speech is 1.408237).
 
-The 1st highest number of forms (3) was observed with the lemma “wjele”: najwjace, wjace, wjele.
+The 1st highest number of forms (3) was observed with the lemma “wjele”: <em>najwjace, wjace, wjele</em>.
 
-The 2nd highest number of forms (2) was observed with the lemma “blisko”: blisko, najbliže.
+The 2nd highest number of forms (2) was observed with the lemma “blisko”: <em>blisko, najbliže</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “bórze”: najprjedy, zašo.
+The 3rd highest number of forms (2) was observed with the lemma “bórze”: <em>najprjedy, zašo</em>.
 
 `ADV` occurs with 8 features: <tt><a href="hsb-feat-Degree.html">Degree</a></tt> (218; 42% instances), <tt><a href="hsb-feat-PronType.html">PronType</a></tt> (133; 26% instances), <tt><a href="hsb-feat-NumType.html">NumType</a></tt> (36; 7% instances), <tt><a href="hsb-feat-Abbr.html">Abbr</a></tt> (6; 1% instances), <tt><a href="hsb-feat-AdvType.html">AdvType</a></tt> (4; 1% instances), <tt><a href="hsb-feat-Polarity.html">Polarity</a></tt> (2; 0% instances), <tt><a href="hsb-feat-Gender.html">Gender</a></tt> (1; 0% instances), <tt><a href="hsb-feat-Number.html">Number</a></tt> (1; 0% instances)
 
@@ -67,7 +67,7 @@ The 3rd highest number of forms (2) was observed with the lemma “bórze”: na
 
 `ADV` occurs with 19 feature combinations.
 The most frequent feature combination is `_` (195 tokens).
-Examples: tež zwjetša hišće hižo zaso přeco předewšěm zdźěla mjeztym nimale
+Examples: <em>tež, zwjetša, hišće, hižo, zaso, přeco, předewšěm, zdźěla, mjeztym, nimale</em>
 
 
 ## Relations

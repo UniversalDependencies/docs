@@ -22,26 +22,26 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 `ADJ` tokens may have the following values of `Degree`:
 
-* `Cmp` (18; 4% of non-empty `Degree`): Dlěši abstrakniše efektiwniše husćiša jasniši kompleksniše mjeńšich młódši pozdźiše starše
-* `Pos` (430; 90% of non-empty `Degree`): serbski wulki dalše wulke Ekscelentny ablawtowych posledni sewjernej wotpowědne wuznamne
-* `Sup` (30; 6% of non-empty `Degree`): najwjetše najwjetši najmjeńši najstarše najwažniša Najwažniše najhusćiša najnuzniša najrjeńšim najrozdźělnišich
-* `EMPTY` (898): druhe druhich Serbskeho prěni prěnje serbskeje wjacore wažne wulku wědomostnych
+* `Cmp` (18; 4% of non-empty `Degree`): <em>Dlěši, abstrakniše, efektiwniše, husćiša, jasniši, kompleksniše, mjeńšich, młódši, pozdźiše, starše</em>
+* `Pos` (430; 90% of non-empty `Degree`): <em>serbski, wulki, dalše, wulke, Ekscelentny, ablawtowych, posledni, sewjernej, wotpowědne, wuznamne</em>
+* `Sup` (30; 6% of non-empty `Degree`): <em>najwjetše, najwjetši, najmjeńši, najstarše, najwažniša, Najwažniše, najhusćiša, najnuzniša, najrjeńšim, najrozdźělnišich</em>
+* `EMPTY` (898): <em>druhe, druhich, Serbskeho, prěni, prěnje, serbskeje, wjacore, wažne, wulku, wědomostnych</em>
 
 <table>
   <tr><th>Paradigm <i>wulki</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>wulki</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td>Najwjetše</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>wulku</td><td></td><td>najwjetšu</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>wulke</td><td>wjetše</td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>wulke</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>wulkeje</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>wulkimi</td><td></td><td>najwjetšimi</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>wjetšimi</td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>wjetšim</td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>wulki</td><td></td><td>najwjetši</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td>najwjetša</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>wulke</td><td></td><td>najwjetše</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>Wulke</td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>wulki</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>Najwjetše</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>wulku</em></td><td></td><td><em>najwjetšu</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>wulke</em></td><td><em>wjetše</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>wulke</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>wulkeje</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>wulkimi</em></td><td></td><td><em>najwjetšimi</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>wjetšimi</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>wjetšim</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>wulki</em></td><td></td><td><em>najwjetši</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>najwjetša</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>wulke</em></td><td></td><td><em>najwjetše</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>Wulke</em></td><td></td><td></td></tr>
 </table>
 
 `Degree` seems to be **lexical feature** of `ADJ`. 96% lemmas (285) occur only with one value of `Degree`.
@@ -54,14 +54,14 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 `ADV` tokens may have the following values of `Degree`:
 
-* `Cmp` (31; 14% of non-empty `Degree`): bóle wjace dale pozdźišo mjenje lěpje rědšo zašo mjeńše
-* `Pos` (175; 80% of non-empty `Degree`): wjele němsce často cirka jara geografisce hłownje awtomatisce cyle dołho
-* `Sup` (12; 6% of non-empty `Degree`): najprjedy najbliže najbóle najskerje najwjace
-* `EMPTY` (303): tež tak zwjetša hišće něhdźe hižo tu potom zaso druhdy
+* `Cmp` (31; 14% of non-empty `Degree`): <em>bóle, wjace, dale, pozdźišo, mjenje, lěpje, rědšo, zašo, mjeńše</em>
+* `Pos` (175; 80% of non-empty `Degree`): <em>wjele, němsce, často, cirka, jara, geografisce, hłownje, awtomatisce, cyle, dołho</em>
+* `Sup` (12; 6% of non-empty `Degree`): <em>najprjedy, najbliže, najbóle, najskerje, najwjace</em>
+* `EMPTY` (303): <em>tež, tak, zwjetša, hišće, něhdźe, hižo, tu, potom, zaso, druhdy</em>
 
 <table>
   <tr><th>Paradigm <i>wjele</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
-  <tr><td><tt></tt></td><td>wjele</td><td>wjace</td><td>najwjace</td></tr>
+  <tr><td><tt></tt></td><td><em>wjele</em></td><td><em>wjace</em></td><td><em>najwjace</em></td></tr>
 </table>
 
 `Degree` seems to be **lexical feature** of `ADV`. 93% lemmas (99) occur only with one value of `Degree`.
@@ -72,6 +72,6 @@ The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="hsb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (23; 74%),
 <tt>ADV --[<tt><a href="hsb-dep-conj.html">conj</a></tt>]--> ADV</tt> (8; 89%),
 <tt>ADJ --[<tt><a href="hsb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1; 100%),
-<tt>ADV --[<tt><a href="hsb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1; 100%),
-<tt>ADJ --[<tt><a href="hsb-dep-cc.html">cc</a></tt>]--> ADV</tt> (1; 100%).
+<tt>ADJ --[<tt><a href="hsb-dep-cc.html">cc</a></tt>]--> ADV</tt> (1; 100%),
+<tt>ADV --[<tt><a href="hsb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1; 100%).
 

@@ -9,28 +9,28 @@ udver: '2'
 There are 177 `NUM` lemmas (6%), 187 `NUM` types (4%) and 366 `NUM` tokens (3%).
 Out of 16 observed tags, the rank of `NUM` is: 5 in number of lemmas, 5 in number of types and 9 in number of tokens.
 
-The 10 most frequent `NUM` lemmas: jedyn 2 1 6 dwaj 4 3 5 7 000
+The 10 most frequent `NUM` lemmas: <em>jedyn, 2, 1, 6, dwaj, 4, 3, 5, 7, 000</em>
 
-The 10 most frequent `NUM` types:  2 1 6 4 3 jedyn 5 7 000 10
+The 10 most frequent `NUM` types:  <em>2, 1, 6, 4, 3, jedyn, 5, 7, 000, 10</em>
 
-The 10 most frequent ambiguous lemmas: tři (<tt><a href="hsb-pos-NUM.html">NUM</a></tt> 6, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>tři</em> (<tt><a href="hsb-pos-NUM.html">NUM</a></tt> 6, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  sta (<tt><a href="hsb-pos-NUM.html">NUM</a></tt> 2, <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>sta</em> (<tt><a href="hsb-pos-NUM.html">NUM</a></tt> 2, <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 1)
 
 
-* sta
-  * <tt><a href="hsb-pos-NUM.html">NUM</a></tt> 2: Ma přestrjeń 8680 km ² a cirka tři <b>sta</b> tysac wobydlerjow .
-  * <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 1: Pisar <b>sta</b> so tak z nahladnej wosobu w towaršnosći .
+* <em>sta</em>
+  * <tt><a href="hsb-pos-NUM.html">NUM</a></tt> 2: <em>Ma přestrjeń 8680 km ² a cirka tři <b>sta</b> tysac wobydlerjow .</em>
+  * <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 1: <em>Pisar <b>sta</b> so tak z nahladnej wosobu w towaršnosći .</em>
 
 ## Morphology
 
 The form / lemma ratio of `NUM` is 1.056497 (the average of all parts of speech is 1.408237).
 
-The 1st highest number of forms (6) was observed with the lemma “jedyn”: jedna, jedneho, jednu, jedny, jednym, jedyn.
+The 1st highest number of forms (6) was observed with the lemma “jedyn”: <em>jedna, jedneho, jednu, jedny, jednym, jedyn</em>.
 
-The 2nd highest number of forms (4) was observed with the lemma “dwaj”: dwaj, dweju, dwě, dwěmaj.
+The 2nd highest number of forms (4) was observed with the lemma “dwaj”: <em>dwaj, dweju, dwě, dwěmaj</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “tři”: traje, tři.
+The 3rd highest number of forms (2) was observed with the lemma “tři”: <em>traje, tři</em>.
 
 `NUM` occurs with 6 features: <tt><a href="hsb-feat-NumType.html">NumType</a></tt> (366; 100% instances), <tt><a href="hsb-feat-Gender.html">Gender</a></tt> (31; 8% instances), <tt><a href="hsb-feat-Case.html">Case</a></tt> (29; 8% instances), <tt><a href="hsb-feat-Number.html">Number</a></tt> (27; 7% instances), <tt><a href="hsb-feat-Animacy.html">Animacy</a></tt> (15; 4% instances), <tt><a href="hsb-feat-Abbr.html">Abbr</a></tt> (4; 1% instances)
 
@@ -38,7 +38,7 @@ The 3rd highest number of forms (2) was observed with the lemma “tři”: traj
 
 `NUM` occurs with 22 feature combinations.
 The most frequent feature combination is `NumType=Card` (330 tokens).
-Examples: 2 1 6 4 3 5 7 000 10 100
+Examples: <em>2, 1, 6, 4, 3, 5, 7, 000, 10, 100</em>
 
 
 ## Relations

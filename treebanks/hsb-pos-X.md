@@ -9,57 +9,57 @@ udver: '2'
 There are 166 `X` lemmas (5%), 166 `X` types (4%) and 199 `X` tokens (2%).
 Out of 16 observed tags, the rank of `X` is: 7 in number of lemmas, 7 in number of types and 13 in number of tokens.
 
-The 10 most frequent `X` lemmas: a i vitis al backen o apg au b c
+The 10 most frequent `X` lemmas: <em>a, i, vitis, al, backen, o, apg, au, b, c</em>
 
-The 10 most frequent `X` types:  a i Vitis al backen o APG H au b
+The 10 most frequent `X` types:  <em>a, i, Vitis, al, backen, o, APG, H, au, b</em>
 
-The 10 most frequent ambiguous lemmas: a (<tt><a href="hsb-pos-CCONJ.html">CCONJ</a></tt> 325, <tt><a href="hsb-pos-X.html">X</a></tt> 5), c (<tt><a href="hsb-pos-X.html">X</a></tt> 2, <tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 1), dr (<tt><a href="hsb-pos-X.html">X</a></tt> 2, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), mj (<tt><a href="hsb-pos-VERB.html">VERB</a></tt> 2, <tt><a href="hsb-pos-X.html">X</a></tt> 2), und (<tt><a href="hsb-pos-X.html">X</a></tt> 2, <tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 1), center (<tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="hsb-pos-X.html">X</a></tt> 1), d (<tt><a href="hsb-pos-X.html">X</a></tt> 1, <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1), et (<tt><a href="hsb-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="hsb-pos-X.html">X</a></tt> 1), institut (<tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 16, <tt><a href="hsb-pos-X.html">X</a></tt> 1), k (<tt><a href="hsb-pos-ADP.html">ADP</a></tt> 46, <tt><a href="hsb-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>a</em> (<tt><a href="hsb-pos-CCONJ.html">CCONJ</a></tt> 325, <tt><a href="hsb-pos-X.html">X</a></tt> 5), <em>c</em> (<tt><a href="hsb-pos-X.html">X</a></tt> 2, <tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 1), <em>dr</em> (<tt><a href="hsb-pos-X.html">X</a></tt> 2, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), <em>mj</em> (<tt><a href="hsb-pos-VERB.html">VERB</a></tt> 2, <tt><a href="hsb-pos-X.html">X</a></tt> 2), <em>und</em> (<tt><a href="hsb-pos-X.html">X</a></tt> 2, <tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 1), <em>center</em> (<tt><a href="hsb-pos-X.html">X</a></tt> 1, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), <em>d</em> (<tt><a href="hsb-pos-X.html">X</a></tt> 1, <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1), <em>et</em> (<tt><a href="hsb-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="hsb-pos-X.html">X</a></tt> 1), <em>institut</em> (<tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 16, <tt><a href="hsb-pos-X.html">X</a></tt> 1), <em>k</em> (<tt><a href="hsb-pos-ADP.html">ADP</a></tt> 46, <tt><a href="hsb-pos-X.html">X</a></tt> 1)
 
-The 10 most frequent ambiguous types:  a (<tt><a href="hsb-pos-CCONJ.html">CCONJ</a></tt> 325, <tt><a href="hsb-pos-X.html">X</a></tt> 4), H (<tt><a href="hsb-pos-X.html">X</a></tt> 2, <tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 1), dr (<tt><a href="hsb-pos-X.html">X</a></tt> 2, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), mj (<tt><a href="hsb-pos-X.html">X</a></tt> 2, <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 2, <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1), n (<tt><a href="hsb-pos-DET.html">DET</a></tt> 35, <tt><a href="hsb-pos-X.html">X</a></tt> 2, <tt><a href="hsb-pos-ADP.html">ADP</a></tt> 2), und (<tt><a href="hsb-pos-X.html">X</a></tt> 2, <tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 1), INSTITUT (<tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="hsb-pos-X.html">X</a></tt> 1), et (<tt><a href="hsb-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="hsb-pos-X.html">X</a></tt> 1), k (<tt><a href="hsb-pos-ADP.html">ADP</a></tt> 39, <tt><a href="hsb-pos-X.html">X</a></tt> 1), m (<tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="hsb-pos-X.html">X</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="hsb-pos-CCONJ.html">CCONJ</a></tt> 325, <tt><a href="hsb-pos-X.html">X</a></tt> 4), <em>H</em> (<tt><a href="hsb-pos-X.html">X</a></tt> 2, <tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 1), <em>dr</em> (<tt><a href="hsb-pos-X.html">X</a></tt> 2, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), <em>mj</em> (<tt><a href="hsb-pos-X.html">X</a></tt> 2, <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 2, <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1), <em>n</em> (<tt><a href="hsb-pos-DET.html">DET</a></tt> 35, <tt><a href="hsb-pos-X.html">X</a></tt> 2, <tt><a href="hsb-pos-ADP.html">ADP</a></tt> 2), <em>und</em> (<tt><a href="hsb-pos-X.html">X</a></tt> 2, <tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 1), <em>INSTITUT</em> (<tt><a href="hsb-pos-X.html">X</a></tt> 1, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), <em>et</em> (<tt><a href="hsb-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="hsb-pos-X.html">X</a></tt> 1), <em>k</em> (<tt><a href="hsb-pos-ADP.html">ADP</a></tt> 39, <tt><a href="hsb-pos-X.html">X</a></tt> 1), <em>m</em> (<tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="hsb-pos-X.html">X</a></tt> 1)
 
 
-* a
-  * <tt><a href="hsb-pos-CCONJ.html">CCONJ</a></tt> 325: W tutej dobje rozłama jednota duchowneje <b>a</b> swětneje mocy .
-  * <tt><a href="hsb-pos-X.html">X</a></tt> 4: Jeli sy jedyn z mjenowanych njedostatkow skorigował ( <b>a</b> ) , wotstroń prošu potrjecheny parameter předłohi .
-* H
-  * <tt><a href="hsb-pos-X.html">X</a></tt> 2: Nuhel , kotryž dwaj O - <b>H</b> - wjazbaj začinitej , je 104 , 45 ° .
-  * <tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 1: Při ćežkej a přećežkej wodźe normalny wodźikowy atom ( protium , symbol <b>H</b> ) so přez jeju ćežkej izotopaj deuterium abo tritium naruna .
-* dr
-  * <tt><a href="hsb-pos-X.html">X</a></tt> 2: Su w germanšćinje sydom ablawtowych rjadow , znutřka kotrychž wokal so po krutym prawidle ablawtuje ( prěnjotna přičina za to su mj . <b>dr</b> . sćěhowace konsonanty ) .
-  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1: Zjawny přednošk w Serbskim instituće na Dwórnišćowej 6 ( PD <b>dr</b> . Sönke Friedreich , ISGV Drježdźany ) : " Vom Urlaub erzählen . Zur Erfahrungsgeschichte des Reisens in der DDR "
-* mj
-  * <tt><a href="hsb-pos-X.html">X</a></tt> 2: Su w germanšćinje sydom ablawtowych rjadow , znutřka kotrychž wokal so po krutym prawidle ablawtuje ( prěnjotna přičina za to su <b>mj</b> . dr . sćěhowace konsonanty ) .
-  * <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 2: Zo by so GNU - licenca dodźeržała , dyrbi so při tym 3 - 5 tamnišich t . <b>mj</b> . hłownych awtorow mjenować .
-  * <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1: W času persiskeho knjejstwa bu aramejšćina mócnarstwowa rěč , t . <b>mj</b> . mócnarstwowa aramejšćina .
-* n
-  * <tt><a href="hsb-pos-DET.html">DET</a></tt> 35: Klinowe pismo docpě wo 2700 př . <b>n</b> . l . swoju dokonjanosć .
-  * <tt><a href="hsb-pos-X.html">X</a></tt> 2: Lokalne adwerby móža akuzatiwny <b>n</b> měć , hdyž směr zwuraznjeja , na př . tie " tam , tamle " - tien " tam " .
-  * <tt><a href="hsb-pos-ADP.html">ADP</a></tt> 2: Stolica abo hłowne město je politiski , husto tež stawizniski centrum kraja abo stata a tuž zwjetša sydło najwyšich politiskich institucijow , kaž <b>n</b> . př . knježerstwa , sejma abo monarcha .
-* und
-  * <tt><a href="hsb-pos-X.html">X</a></tt> 2: Pod titlom " Wandel gestalten - Geschichten <b>und</b> Strategien um Identitäts - <b>und</b> Landschaftswandel in der Lausitz " wuhotuje Serbski institut na Gižkojskim kuble we Wikach pola Drjowka fachowu konferencu , na kotrejž wobdźěli so 16 referentow a referentkow z wobłukow wědomosće , hospodarstwa a regionalneho zarjadnistwa .
-  * <tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 1: Knižna premjera zwjazka 48 Spisow Serbskeho instituta " Stätten <b>und</b> Stationen religiösen Wirkens " w Smolerjec kniharni
-* INSTITUT
-  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1: SORBISCHES INSTITUT - SERBSKI <b>INSTITUT</b> | Bahnhofstraße / Dwórnišćowa 6 | D - 02625 Bautzen / Budyšin
-  * <tt><a href="hsb-pos-X.html">X</a></tt> 1: SORBISCHES <b>INSTITUT</b> - SERBSKI INSTITUT | Bahnhofstraße / Dwórnišćowa 6 | D - 02625 Bautzen / Budyšin
-* et
-  * <tt><a href="hsb-pos-CCONJ.html">CCONJ</a></tt> 2: Tež rozpjeće keramikowych formow jasnje woteběra ( Gasche <b>et</b> al . 1996 , 43 ) .
-  * <tt><a href="hsb-pos-X.html">X</a></tt> 1: W tu wužiwanej systematice po Adl <b>et</b> al . [ 2 ] so rostliny z twjerdźowymi rostlinami ( embryophyta ) na jednu runinu sadźa .
-* k
-  * <tt><a href="hsb-pos-ADP.html">ADP</a></tt> 39: Hlej <b>k</b> tomu tež tutón edit .
-  * <tt><a href="hsb-pos-X.html">X</a></tt> 1: Konsonant c so jako <b>k</b> wurjekuje .
-* m
-  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 2: Žołta barba pokaza disponujomnosć mjez 500 a 1700 <b>m</b> ³ .
-  * <tt><a href="hsb-pos-X.html">X</a></tt> 1: Nimo wokalow a / ā , i / ī , u / ū a diftongow o / au a e / ai so tež połwokale y a v jewja , nimo toho sanskrit sonantnej likwidaj ṛ a ḷ wužiwa , a tež nazalaj <b>m</b> a n móžetej wokalisku funkciju měć .
+* <em>a</em>
+  * <tt><a href="hsb-pos-CCONJ.html">CCONJ</a></tt> 325: <em>W tutej dobje rozłama jednota duchowneje <b>a</b> swětneje mocy .</em>
+  * <tt><a href="hsb-pos-X.html">X</a></tt> 4: <em>Jeli sy jedyn z mjenowanych njedostatkow skorigował ( <b>a</b> ) , wotstroń prošu potrjecheny parameter předłohi .</em>
+* <em>H</em>
+  * <tt><a href="hsb-pos-X.html">X</a></tt> 2: <em>Nuhel , kotryž dwaj O - <b>H</b> - wjazbaj začinitej , je 104 , 45 ° .</em>
+  * <tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 1: <em>Při ćežkej a přećežkej wodźe normalny wodźikowy atom ( protium , symbol <b>H</b> ) so přez jeju ćežkej izotopaj deuterium abo tritium naruna .</em>
+* <em>dr</em>
+  * <tt><a href="hsb-pos-X.html">X</a></tt> 2: <em>Su w germanšćinje sydom ablawtowych rjadow , znutřka kotrychž wokal so po krutym prawidle ablawtuje ( prěnjotna přičina za to su mj . <b>dr</b> . sćěhowace konsonanty ) .</em>
+  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1: <em>Zjawny přednošk w Serbskim instituće na Dwórnišćowej 6 ( PD <b>dr</b> . Sönke Friedreich , ISGV Drježdźany ) : " Vom Urlaub erzählen . Zur Erfahrungsgeschichte des Reisens in der DDR "</em>
+* <em>mj</em>
+  * <tt><a href="hsb-pos-X.html">X</a></tt> 2: <em>Su w germanšćinje sydom ablawtowych rjadow , znutřka kotrychž wokal so po krutym prawidle ablawtuje ( prěnjotna přičina za to su <b>mj</b> . dr . sćěhowace konsonanty ) .</em>
+  * <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 2: <em>Zo by so GNU - licenca dodźeržała , dyrbi so při tym 3 - 5 tamnišich t . <b>mj</b> . hłownych awtorow mjenować .</em>
+  * <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1: <em>W času persiskeho knjejstwa bu aramejšćina mócnarstwowa rěč , t . <b>mj</b> . mócnarstwowa aramejšćina .</em>
+* <em>n</em>
+  * <tt><a href="hsb-pos-DET.html">DET</a></tt> 35: <em>Klinowe pismo docpě wo 2700 př . <b>n</b> . l . swoju dokonjanosć .</em>
+  * <tt><a href="hsb-pos-X.html">X</a></tt> 2: <em>Lokalne adwerby móža akuzatiwny <b>n</b> měć , hdyž směr zwuraznjeja , na př . tie " tam , tamle " - tien " tam " .</em>
+  * <tt><a href="hsb-pos-ADP.html">ADP</a></tt> 2: <em>Stolica abo hłowne město je politiski , husto tež stawizniski centrum kraja abo stata a tuž zwjetša sydło najwyšich politiskich institucijow , kaž <b>n</b> . př . knježerstwa , sejma abo monarcha .</em>
+* <em>und</em>
+  * <tt><a href="hsb-pos-X.html">X</a></tt> 2: <em>Pod titlom " Wandel gestalten - Geschichten <b>und</b> Strategien um Identitäts - <b>und</b> Landschaftswandel in der Lausitz " wuhotuje Serbski institut na Gižkojskim kuble we Wikach pola Drjowka fachowu konferencu , na kotrejž wobdźěli so 16 referentow a referentkow z wobłukow wědomosće , hospodarstwa a regionalneho zarjadnistwa .</em>
+  * <tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 1: <em>Knižna premjera zwjazka 48 Spisow Serbskeho instituta " Stätten <b>und</b> Stationen religiösen Wirkens " w Smolerjec kniharni</em>
+* <em>INSTITUT</em>
+  * <tt><a href="hsb-pos-X.html">X</a></tt> 1: <em>SORBISCHES <b>INSTITUT</b> - SERBSKI INSTITUT | Bahnhofstraße / Dwórnišćowa 6 | D - 02625 Bautzen / Budyšin</em>
+  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1: <em>SORBISCHES INSTITUT - SERBSKI <b>INSTITUT</b> | Bahnhofstraße / Dwórnišćowa 6 | D - 02625 Bautzen / Budyšin</em>
+* <em>et</em>
+  * <tt><a href="hsb-pos-CCONJ.html">CCONJ</a></tt> 2: <em>Tež rozpjeće keramikowych formow jasnje woteběra ( Gasche <b>et</b> al . 1996 , 43 ) .</em>
+  * <tt><a href="hsb-pos-X.html">X</a></tt> 1: <em>W tu wužiwanej systematice po Adl <b>et</b> al . [ 2 ] so rostliny z twjerdźowymi rostlinami ( embryophyta ) na jednu runinu sadźa .</em>
+* <em>k</em>
+  * <tt><a href="hsb-pos-ADP.html">ADP</a></tt> 39: <em>Hlej <b>k</b> tomu tež tutón edit .</em>
+  * <tt><a href="hsb-pos-X.html">X</a></tt> 1: <em>Konsonant c so jako <b>k</b> wurjekuje .</em>
+* <em>m</em>
+  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 2: <em>Žołta barba pokaza disponujomnosć mjez 500 a 1700 <b>m</b> ³ .</em>
+  * <tt><a href="hsb-pos-X.html">X</a></tt> 1: <em>Nimo wokalow a / ā , i / ī , u / ū a diftongow o / au a e / ai so tež połwokale y a v jewja , nimo toho sanskrit sonantnej likwidaj ṛ a ḷ wužiwa , a tež nazalaj <b>m</b> a n móžetej wokalisku funkciju měć .</em>
 
 ## Morphology
 
 The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.408237).
 
-The 1st highest number of forms (1) was observed with the lemma “100px”: 100px.
+The 1st highest number of forms (1) was observed with the lemma “100px”: <em>100px</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “100x200px”: 100x200px.
+The 2nd highest number of forms (1) was observed with the lemma “100x200px”: <em>100x200px</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “a”: a.
+The 3rd highest number of forms (1) was observed with the lemma “a”: <em>a</em>.
 
 `X` occurs with 1 features: <tt><a href="hsb-feat-Abbr.html">Abbr</a></tt> (8; 4% instances)
 
@@ -67,7 +67,7 @@ The 3rd highest number of forms (1) was observed with the lemma “a”: a.
 
 `X` occurs with 2 feature combinations.
 The most frequent feature combination is `_` (191 tokens).
-Examples: a i Vitis al backen o H au b c
+Examples: <em>a, i, Vitis, al, backen, o, H, au, b, c</em>
 
 
 ## Relations

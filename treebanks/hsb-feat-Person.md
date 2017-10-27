@@ -22,21 +22,21 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 `VERB` tokens may have the following values of `Person`:
 
-* `1` (10; 2% of non-empty `Person`): prošu móžemy trjebamy Njewěm wothladamy činju
-* `2` (34; 6% of non-empty `Person`): móžeš hlej namakaš Pomhaj móžeće chceće dodaš dyrbiš namakaće njesměš
-* `3` (566; 93% of non-empty `Person`): ma leži móže wobsahuje su rěči běchu maja dyrbi eksistuja
-* `EMPTY` (170): nastać měć pisać přełožować wobkedźbować čitać dać definować dopokazać namakać
+* `1` (10; 2% of non-empty `Person`): <em>prošu, móžemy, trjebamy, Njewěm, wothladamy, činju</em>
+* `2` (34; 6% of non-empty `Person`): <em>móžeš, hlej, namakaš, Pomhaj, móžeće, chceće, dodaš, dyrbiš, namakaće, njesměš</em>
+* `3` (566; 93% of non-empty `Person`): <em>ma, leži, móže, wobsahuje, su, rěči, běchu, maja, dyrbi, eksistuja</em>
+* `EMPTY` (170): <em>nastać, měć, pisać, přełožować, wobkedźbować, čitać, dać, definować, dopokazać, namakać</em>
 
 <table>
   <tr><th>Paradigm <i>móc</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="hsb-feat-VerbType.html">VerbType</a></tt><tt>=Mod</tt></tt></td><td></td><td></td><td>móžetej</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td>njemóže</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td>móžeš</td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="hsb-feat-VerbType.html">VerbType</a></tt><tt>=Mod</tt></tt></td><td></td><td>móžeš</td><td>móže</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hsb-feat-VerbType.html">VerbType</a></tt><tt>=Mod</tt></tt></td><td></td><td></td><td>njemóžeše</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hsb-feat-VerbType.html">VerbType</a></tt><tt>=Mod</tt></tt></td><td></td><td></td><td>móžachu</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td>móžeja</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="hsb-feat-VerbType.html">VerbType</a></tt><tt>=Mod</tt></tt></td><td>móžemy</td><td>móžeće</td><td>móžeja, móža</td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="hsb-feat-VerbType.html">VerbType</a></tt><tt>=Mod</tt></tt></td><td></td><td></td><td><em>móžetej</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>njemóže</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>móžeš</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="hsb-feat-VerbType.html">VerbType</a></tt><tt>=Mod</tt></tt></td><td></td><td><em>móžeš</em></td><td><em>móže</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hsb-feat-VerbType.html">VerbType</a></tt><tt>=Mod</tt></tt></td><td></td><td></td><td><em>njemóžeše</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hsb-feat-VerbType.html">VerbType</a></tt><tt>=Mod</tt></tt></td><td></td><td></td><td><em>móžachu</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>móžeja</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="hsb-feat-VerbType.html">VerbType</a></tt><tt>=Mod</tt></tt></td><td><em>móžemy</em></td><td><em>móžeće</em></td><td><em>móža, móžeja</em></td></tr>
 </table>
 
 `Person` seems to be **lexical feature** of `VERB`. 95% lemmas (250) occur only with one value of `Person`.
@@ -49,28 +49,28 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 `AUX` tokens may have the following values of `Person`:
 
-* `2` (2; 1% of non-empty `Person`): sy
-* `3` (279; 99% of non-empty `Person`): je su bu bě buchu njeje by njejsu běchu buštej
-* `EMPTY` (4): być był była posłužić
+* `2` (2; 1% of non-empty `Person`): <em>sy</em>
+* `3` (279; 99% of non-empty `Person`): <em>je, su, bu, bě, buchu, njeje, by, njejsu, běchu, buštej</em>
+* `EMPTY` (4): <em>być, był, była, posłužić</em>
 
 <table>
   <tr><th>Paradigm <i>być</i></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>by</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>bychu</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td>njeje</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td>budu, budźe</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td>bě, bu</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hsb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td>bu</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>sy</td><td>je</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td>běštej</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hsb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td>buštej</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td>stej, staj</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td>njebuchu</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td>njejsu, njesu</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td>běchu, buchu</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hsb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td>buchu</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td>su</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td>buchu</td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>by</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>bychu</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>njeje</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td><em>budźe, budu</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>bě, bu</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hsb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>bu</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>sy</em></td><td><em>je</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>běštej</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hsb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>buštej</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>stej, staj</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>njebuchu</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>njejsu, njesu</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>běchu, buchu</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hsb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>buchu</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>su</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>buchu</em></td></tr>
 </table>
 
 ### `DET`
@@ -81,10 +81,10 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 `DET` tokens may have the following values of `Person`:
 
-* `1` (39; 52% of non-empty `Person`): n Naš naša našej našim
-* `2` (3; 4% of non-empty `Person`): twojim Wašu
-* `3` (33; 44% of non-empty `Person`): jeho jich jeje jeju
-* `EMPTY` (219): kotrež tute kotryž tutón kotraž swoje tuta wšě někotrych swoju
+* `1` (39; 52% of non-empty `Person`): <em>n, Naš, naša, našej, našim</em>
+* `2` (3; 4% of non-empty `Person`): <em>twojim, Wašu</em>
+* `3` (33; 44% of non-empty `Person`): <em>jeho, jich, jeje, jeju</em>
+* `EMPTY` (219): <em>kotrež, tute, kotryž, tutón, kotraž, swoje, tuta, wšě, někotrych, swoju</em>
 
 ### `PRON`
 
@@ -94,10 +94,10 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 
 `PRON` tokens may have the following values of `Person`:
 
-* `1` (2; 4% of non-empty `Person`): nam
-* `2` (2; 4% of non-empty `Person`): ty
-* `3` (52; 93% of non-empty `Person`): wona wón je wone wono jón Woni jeho Jej jeje
-* `EMPTY` (263): so to toho tym kiž čimž sej t sobu tomu
+* `1` (2; 4% of non-empty `Person`): <em>nam</em>
+* `2` (2; 4% of non-empty `Person`): <em>ty</em>
+* `3` (52; 93% of non-empty `Person`): <em>wona, wón, je, wone, wono, jón, Woni, jeho, Jej, jeje</em>
+* `EMPTY` (263): <em>so, to, toho, tym, kiž, čimž, sej, t, sobu, tomu</em>
 
 ## Relations with Agreement in `Person`
 

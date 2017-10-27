@@ -744,6 +744,24 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   </li>
 </ul>
 
+<h3>Reflexive Verbs</h3>
+
+<ul>
+  <li>This corpus contains 46 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: hodźić so, hodźeć so, mjenować so, započeć so, stać so, wobdźělić so, wotměć so, dóstać so, jewić so, měnić so, poradźić so, posłužić so, skónčić so, wobroćić so, wuwiwać so, zdać so, dać so, koncentrować so, kónčić so, nahromadźić so, pohnuć so, pokazać so, postać so, přeměnić so, rozeznawać so, rěkać so, wobhladać sej, wobkedźbować so, wospjetować so, wotbłyšćować so, wotměwać so, wuznamjeni so, wuznamjenić so, wuznamjenjeć so, wěsći sej, zasydlić so, zawěrać so, załožić so, zepěrać so, zestajić so, zetkawać so, zhubić so, zjewić so, změnić so, zrozumić so, złožować so</li>
+</ul>
+
+<h3>Reflexive Passive</h3>
+
+<ul>
+  <li>This corpus contains 66 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: rěčeć so, wužiwać so, dyrbjeć so, móc so, namakać so, pokazać so, rozeznawać so, dodać so, ličić so, měć so, narunać so, pisać so, tworić so, zhotowjeć so, Załožić so, ablawtować so, adaptować so, dodźeržeć so, dowěrjeć so, financować so, kombinować so, kultiwować so, měšeć so, namjetować so, napominać so, našćěpić so, podepřeć so, priwatizować so, předstajić so, přeměnjeć so, přesadźić so, přewjesć so, přewostajić so, přełožilić so, přiličeć so, připoznać so, rozbić so, sadźeć so, skłonjować so, směć so, spřistupnjeć so, swjećić so, sćahnyć so, trjebać so, wobchować so, wobkedźbować so, wopłodźować so, wotměć so, wočakować so, wujasnić so</li>
+</ul>
+
+<h3>Verbs with Reflexive Core Objects</h3>
+
+<ul>
+  <li>This corpus contains 14 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: formować so, mjenować so, měć so, pohrjebać so, pokazać so, přetworjować so, rozpušćeć so, stabilizować so, wobchadźeć so, wobdźělować so, wožiwić so, wužiwać so, započinacy so, zmjeńšować so</li>
+</ul>
+
 <h3>Relations Overview</h3>
 
 <ul>

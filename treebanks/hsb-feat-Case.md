@@ -22,18 +22,18 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 `NOUN` tokens may have the following values of `Case`:
 
-* `Acc` (469; 19% of non-empty `Case`): př rěč nastawki wobrazy přikład čas dataje lisćinu mócnarstwo předłohu
-* `Dat` (62; 3% of non-empty `Case`): akademiji dispoziciji rostlinam wotrjadam Wopytowarjam delće dnjej drohoćinkam ekliptice embryofytam
-* `Gen` (595; 25% of non-empty `Case`): rěčow lěta kilometrow wody kraja lěttysaca lět časa biblioteki instituta
-* `Ins` (151; 6% of non-empty `Case`): l pomocu ablawtom družinami hamorom krajemi kralom ličakami mjenom rostlinami
-* `Loc` (308; 13% of non-empty `Case`): lěće času běhu dobje rěči stronje wodźe zemi formje lětstotku
-* `Nom` (833; 34% of non-empty `Case`): město woda stolica rostliny institut pismo rěč stat dołhosć dźeń
-* `EMPTY` (21): km m CEST centrum dźěła jan přir raz t thumb
+* `Acc` (469; 19% of non-empty `Case`): <em>př, rěč, nastawki, wobrazy, přikład, čas, dataje, lisćinu, mócnarstwo, předłohu</em>
+* `Dat` (62; 3% of non-empty `Case`): <em>akademiji, dispoziciji, rostlinam, wotrjadam, Wopytowarjam, delće, dnjej, drohoćinkam, ekliptice, embryofytam</em>
+* `Gen` (595; 25% of non-empty `Case`): <em>rěčow, lěta, kilometrow, wody, kraja, lěttysaca, lět, časa, biblioteki, instituta</em>
+* `Ins` (151; 6% of non-empty `Case`): <em>l, pomocu, ablawtom, družinami, hamorom, krajemi, kralom, ličakami, mjenom, rostlinami</em>
+* `Loc` (308; 13% of non-empty `Case`): <em>lěće, času, běhu, dobje, rěči, stronje, wodźe, zemi, formje, lětstotku</em>
+* `Nom` (833; 34% of non-empty `Case`): <em>město, woda, stolica, rostliny, institut, pismo, rěč, stat, dołhosć, dźeń</em>
+* `EMPTY` (21): <em>km, m, CEST, centrum, dźěła, jan, přir, raz, t, thumb</em>
 
 <table>
   <tr><th>Paradigm <i>rěč</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>rěč</td><td>rěč, rěc</td><td>rěči</td><td>rěče</td><td>rěči, rěče</td><td>rěču</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>rěče</td><td>rěče</td><td></td><td>rěčow</td><td>rěčach</td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>rěč</em></td><td><em>rěč, rěc</em></td><td><em>rěči</em></td><td><em>rěče</em></td><td><em>rěči, rěče</em></td><td><em>rěču</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>rěče</em></td><td><em>rěče</em></td><td></td><td><em>rěčow</em></td><td><em>rěčach</em></td><td></td></tr>
 </table>
 
 ### `ADJ`
@@ -44,24 +44,24 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 `ADJ` tokens may have the following values of `Case`:
 
-* `Acc` (252; 19% of non-empty `Case`): wulku druhe wotpowědne prěni prěnje wikowanske wulke Klemenowu bohatu cyłe
-* `Dat` (37; 3% of non-empty `Case`): němskej Delnjej Hornjej Indusowej Jednotliwym Ludowemu Persiskemu Popłatkowemu ablawtowym definowanym
-* `Gen` (282; 21% of non-empty `Case`): druhich serbskeje Serbskeho ablawtowych wědomostnych Třećeho Zjednoćenych delnjeho mjenowanych persiskeho
-* `Ins` (52; 4% of non-empty `Case`): druhim druhimi jednotliwymi nowymi přiběracu samsnym Kapadociskej Persiskim Prěnju Pólskej
-* `Loc` (141; 10% of non-empty `Case`): Serbskim cyłym sewjernej babylonskej chemiskich druhej historiskim hornim hornjej wjacorych
-* `Nom` (597; 44% of non-empty `Case`): najwjetše Serbski wulki klinowe serbska wuznamne Ekscelentny dalše druhe kruta
-* `EMPTY` (15): němsko Awstro Tibeto d dołho duchowno hornjo krótko online politisko
+* `Acc` (252; 19% of non-empty `Case`): <em>wulku, druhe, wotpowědne, prěni, prěnje, wikowanske, wulke, Klemenowu, bohatu, cyłe</em>
+* `Dat` (37; 3% of non-empty `Case`): <em>němskej, Delnjej, Hornjej, Indusowej, Jednotliwym, Ludowemu, Persiskemu, Popłatkowemu, ablawtowym, definowanym</em>
+* `Gen` (282; 21% of non-empty `Case`): <em>druhich, serbskeje, Serbskeho, ablawtowych, wědomostnych, Třećeho, Zjednoćenych, delnjeho, mjenowanych, persiskeho</em>
+* `Ins` (52; 4% of non-empty `Case`): <em>druhim, druhimi, jednotliwymi, nowymi, přiběracu, samsnym, Kapadociskej, Persiskim, Prěnju, Pólskej</em>
+* `Loc` (141; 10% of non-empty `Case`): <em>Serbskim, cyłym, sewjernej, babylonskej, chemiskich, druhej, historiskim, hornim, hornjej, wjacorych</em>
+* `Nom` (597; 44% of non-empty `Case`): <em>najwjetše, Serbski, wulki, klinowe, serbska, wuznamne, Ekscelentny, dalše, druhe, kruta</em>
+* `EMPTY` (15): <em>němsko, Awstro, Tibeto, d, dołho, duchowno, hornjo, krótko, online, politisko</em>
 
 <table>
   <tr><th>Paradigm <i>serbski</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>Serbski, SERBSKI</td><td>serbski</td><td></td><td></td><td>Serbskim</td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>serbska</td><td></td><td></td><td>serbskeje</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>serbske</td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td>serbskemu</td><td>Serbskeho</td><td>Serbskim</td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td>serbskich</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>serbska</td><td>serbsku</td><td></td><td>serbskeje</td><td>serbskej</td><td>serbskej, serbsku</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td>serbskim</td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>serbske</td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Serbski, SERBSKI</em></td><td><em>serbski</em></td><td></td><td></td><td><em>Serbskim</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>serbska</em></td><td></td><td></td><td><em>serbskeje</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>serbske</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>serbskemu</em></td><td><em>Serbskeho</em></td><td><em>Serbskim</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td><em>serbskich</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>serbska</em></td><td><em>serbsku</em></td><td></td><td><em>serbskeje</em></td><td><em>serbskej</em></td><td><em>serbskej, serbsku</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>serbskim</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>serbske</em></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
 
 ### `PROPN`
@@ -72,18 +72,18 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 `PROPN` tokens may have the following values of `Case`:
 
-* `Acc` (16; 3% of non-empty `Case`): Esperanto Mezopotamisku Aziju Babylon Babylonsku Fenicisku Institut Israel Mnichow Palestinu
-* `Dat` (9; 2% of non-empty `Case`): Ešarrje Francoskej Hetitam Leidenčanam Mezopotamiskej Serbam Łužicy Španiskej Španičanam
-* `Gen` (118; 24% of non-empty `Case`): Mezopotamiskeje Sumeričanow Němskeje Aramejčanow Assyriskeje Serbow Syriskeje Tigrisa Łužicy Akkada
-* `Ins` (26; 5% of non-empty `Case`): Babylonom Eufratom Iranom Anatolskej Andrapradešom Assyriskej Awstriskej Azerbajdźanom Gowu Kazachstanom
-* `Loc` (69; 14% of non-empty `Case`): Europje Budyšinje Africe Mezopotamiskej Americe Babylonje Berlinje Indiskej Litawskej Nižozemskej
-* `Nom` (261; 52% of non-empty `Case`): Mezopotamiska Assur Assyriska Aššur Hammurabi Ur Assyričenjo Babylon Che Ernesto
-* `EMPTY` (67): Wikimedia Aššur C Commons Adl Angeles Gasche Los Tamil Tlustulimu
+* `Acc` (16; 3% of non-empty `Case`): <em>Esperanto, Mezopotamisku, Aziju, Babylon, Babylonsku, Fenicisku, Institut, Israel, Mnichow, Palestinu</em>
+* `Dat` (9; 2% of non-empty `Case`): <em>Ešarrje, Francoskej, Hetitam, Leidenčanam, Mezopotamiskej, Serbam, Łužicy, Španiskej, Španičanam</em>
+* `Gen` (118; 24% of non-empty `Case`): <em>Mezopotamiskeje, Sumeričanow, Němskeje, Aramejčanow, Assyriskeje, Serbow, Syriskeje, Tigrisa, Łužicy, Akkada</em>
+* `Ins` (26; 5% of non-empty `Case`): <em>Babylonom, Eufratom, Iranom, Anatolskej, Andrapradešom, Assyriskej, Awstriskej, Azerbajdźanom, Gowu, Kazachstanom</em>
+* `Loc` (69; 14% of non-empty `Case`): <em>Europje, Budyšinje, Africe, Mezopotamiskej, Americe, Babylonje, Berlinje, Indiskej, Litawskej, Nižozemskej</em>
+* `Nom` (261; 52% of non-empty `Case`): <em>Mezopotamiska, Assur, Assyriska, Aššur, Hammurabi, Ur, Assyričenjo, Babylon, Che, Ernesto</em>
+* `EMPTY` (67): <em>Wikimedia, Aššur, C, Commons, Adl, Angeles, Gasche, Los, Tamil, Tlustulimu</em>
 
 <table>
   <tr><th>Paradigm <i>Mezopotamiska</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt></tt></td><td></td><td></td><td></td><td>Mezopotamiskeje</td><td></td></tr>
-  <tr><td><tt></tt></td><td>Mezopotamiska</td><td>Mezopotamisku</td><td>Mezopotamiskej</td><td>Mezopotamiskeje, Mezopotamiskej</td><td>Mezopotamiskej</td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt></tt></td><td></td><td></td><td></td><td><em>Mezopotamiskeje</em></td><td></td></tr>
+  <tr><td><tt></tt></td><td><em>Mezopotamiska</em></td><td><em>Mezopotamisku</em></td><td><em>Mezopotamiskej</em></td><td><em>Mezopotamiskeje, Mezopotamiskej</em></td><td><em>Mezopotamiskej</em></td></tr>
 </table>
 
 ### `PRON`
@@ -94,49 +94,49 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (205; 65% of non-empty `Case`): so to je jeho jón ju ničo nju wšitko
-* `Dat` (11; 3% of non-empty `Case`): sej nam tomu Jej jeje njej sebi
-* `Gen` (19; 6% of non-empty `Case`): toho nich njeje
-* `Ins` (11; 3% of non-empty `Case`): tym sobu nimi
-* `Loc` (12; 4% of non-empty `Case`): tym čimž nim
-* `Nom` (58; 18% of non-empty `Case`): to kiž wona wón wone wono Woni ty t štož
-* `EMPTY` (3): t jón
+* `Acc` (205; 65% of non-empty `Case`): <em>so, to, je, jeho, jón, ju, ničo, nju, wšitko</em>
+* `Dat` (11; 3% of non-empty `Case`): <em>sej, nam, tomu, Jej, jeje, njej, sebi</em>
+* `Gen` (19; 6% of non-empty `Case`): <em>toho, nich, njeje</em>
+* `Ins` (11; 3% of non-empty `Case`): <em>tym, sobu, nimi</em>
+* `Loc` (12; 4% of non-empty `Case`): <em>tym, čimž, nim</em>
+* `Nom` (58; 18% of non-empty `Case`): <em>to, kiž, wona, wón, wone, wono, Woni, ty, t, štož</em>
+* `EMPTY` (3): <em>t, jón</em>
 
 <table>
   <tr><th>Paradigm <i>to</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Abbr.html">Abbr</a></tt><tt>=Yes</tt></tt></td><td>t</td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td>to</td><td>to</td><td>tomu</td><td>toho</td><td>tym</td><td>tym</td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Abbr.html">Abbr</a></tt><tt>=Yes</tt></tt></td><td><em>t</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>to</em></td><td><em>to</em></td><td><em>tomu</em></td><td><em>toho</em></td><td><em>tym</em></td><td><em>tym</em></td></tr>
 </table>
 
 ### `DET`
 
 259 <tt><a href="hsb-pos-DET.html">DET</a></tt> tokens (88% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="hsb-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (225; 87%), <tt><a href="hsb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (216; 83%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (216; 83%), <tt><a href="hsb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (187; 72%), <tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (176; 68%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (154; 59%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="hsb-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (225; 87%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (216; 83%), <tt><a href="hsb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (216; 83%), <tt><a href="hsb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (187; 72%), <tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (176; 68%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (154; 59%).
 
 `DET` tokens may have the following values of `Case`:
 
-* `Acc` (46; 18% of non-empty `Case`): swoje swoju tute tutu swój kóžde kóždy wšě wšěch žane
-* `Dat` (4; 2% of non-empty `Case`): kotrymž swojemu wšemu wšitkim
-* `Gen` (22; 8% of non-empty `Case`): tutych kotrychž tutoho tych kotrehož kotrejež kóždychžkuli někotrych swojeho swojeje
-* `Ins` (40; 15% of non-empty `Case`): n swojimi kotrymiž swojej tym
-* `Loc` (37; 14% of non-empty `Case`): někotrych tutej tutym kotrejž kotrychž swojich twojim wšěch kotrymž našej
-* `Nom` (110; 42% of non-empty `Case`): kotrež kotryž tute tutón kotraž tuta někotre wšě někotři Naš
-* `EMPTY` (35): jeho jich jeje mnoho n tójšto
+* `Acc` (46; 18% of non-empty `Case`): <em>swoje, swoju, tute, tutu, swój, kóžde, kóždy, wšě, wšěch, žane</em>
+* `Dat` (4; 2% of non-empty `Case`): <em>kotrymž, swojemu, wšemu, wšitkim</em>
+* `Gen` (22; 8% of non-empty `Case`): <em>tutych, kotrychž, tutoho, tych, kotrehož, kotrejež, kóždychžkuli, někotrych, swojeho, swojeje</em>
+* `Ins` (40; 15% of non-empty `Case`): <em>n, swojimi, kotrymiž, swojej, tym</em>
+* `Loc` (37; 14% of non-empty `Case`): <em>někotrych, tutej, tutym, kotrejž, kotrychž, swojich, twojim, wšěch, kotrymž, našej</em>
+* `Nom` (110; 42% of non-empty `Case`): <em>kotrež, kotryž, tute, tutón, kotraž, tuta, někotre, wšě, někotři, Naš</em>
+* `EMPTY` (35): <em>jeho, jich, jeje, mnoho, n, tójšto</em>
 
 <table>
   <tr><th>Paradigm <i>kotryž</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>kotryž</td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>kotřiž</td><td></td><td>kotrymž</td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>kotryž, kotrež</td><td>kotryž</td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>kotrež</td><td></td><td></td><td>kotrychž</td><td>kotrychž</td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>kotryž</td><td></td><td></td><td>kotrehož</td><td>kotrymž</td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>kotrež</td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>kotraž</td><td></td><td></td><td>kotrejež</td><td>kotrejž</td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>kotrež</td><td></td><td></td><td></td><td>kotrychž</td><td>kotrymiž</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>kotrež</td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Dual</tt></tt></td><td>kotrejž</td><td></td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>kotrež</td><td></td><td></td><td></td><td>kotrychž</td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>kotryž</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>kotřiž</em></td><td></td><td><em>kotrymž</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>kotryž, kotrež</em></td><td><em>kotryž</em></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>kotrež</em></td><td></td><td></td><td><em>kotrychž</em></td><td><em>kotrychž</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>kotryž</em></td><td></td><td></td><td><em>kotrehož</em></td><td><em>kotrymž</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>kotrež</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>kotraž</em></td><td></td><td></td><td><em>kotrejež</em></td><td><em>kotrejž</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>kotrež</em></td><td></td><td></td><td></td><td><em>kotrychž</em></td><td><em>kotrymiž</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>kotrež</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Dual</tt></tt></td><td><em>kotrejž</em></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>kotrež</em></td><td></td><td></td><td></td><td><em>kotrychž</em></td><td></td></tr>
 </table>
 
 ### `NUM`
@@ -147,19 +147,19 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 `NUM` tokens may have the following values of `Case`:
 
-* `Acc` (7; 24% of non-empty `Case`): dwaj jednu jedyn
-* `Gen` (4; 14% of non-empty `Case`): štyrjoch dweju jedneho
-* `Ins` (1; 3% of non-empty `Case`): dwěmaj
-* `Loc` (4; 14% of non-empty `Case`): dwěmaj jednym
-* `Nom` (13; 45% of non-empty `Case`): jedyn dwaj jedna dwě jedny
-* `EMPTY` (337): 2 1 6 4 3 5 7 000 10 100
+* `Acc` (7; 24% of non-empty `Case`): <em>dwaj, jednu, jedyn</em>
+* `Gen` (4; 14% of non-empty `Case`): <em>štyrjoch, dweju, jedneho</em>
+* `Ins` (1; 3% of non-empty `Case`): <em>dwěmaj</em>
+* `Loc` (4; 14% of non-empty `Case`): <em>dwěmaj, jednym</em>
+* `Nom` (13; 45% of non-empty `Case`): <em>jedyn, dwaj, jedna, dwě, jedny</em>
+* `EMPTY` (337): <em>2, 1, 6, 4, 3, 5, 7, 000, 10, 100</em>
 
 <table>
   <tr><th>Paradigm <i>dwaj</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td>dwaj</td><td>dwaj</td><td>dweju</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td>dwaj, dwě</td><td></td><td></td><td></td><td>dwěmaj</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td></td><td></td><td>dwěmaj</td><td></td></tr>
-  <tr><td><tt></tt></td><td></td><td>dwaj</td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>dwaj</em></td><td><em>dwaj</em></td><td><em>dweju</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>dwaj, dwě</em></td><td></td><td></td><td></td><td><em>dwěmaj</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td></td><td></td><td><em>dwěmaj</em></td><td></td></tr>
+  <tr><td><tt></tt></td><td></td><td><em>dwaj</em></td><td></td><td></td><td></td></tr>
 </table>
 
 ## Relations with Agreement in `Case`
@@ -172,7 +172,7 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>ADJ --[<tt><a href="hsb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (75; 90%),
 <tt>ADJ --[<tt><a href="hsb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (60; 97%),
 <tt>PROPN --[<tt><a href="hsb-dep-flat.html">flat</a></tt>]--> PROPN</tt> (49; 78%),
-<tt>NOUN --[<tt><a href="hsb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (40; 87%),
 <tt>PROPN --[<tt><a href="hsb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (40; 100%),
+<tt>NOUN --[<tt><a href="hsb-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (40; 87%),
 <tt>NOUN --[<tt><a href="hsb-dep-appos.html">appos</a></tt>]--> NOUN</tt> (32; 68%).
 

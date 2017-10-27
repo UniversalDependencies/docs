@@ -22,5 +22,5 @@ The most frequent other feature values with which `VERB` and `VerbType` co-occur
 
 `VERB` tokens may have the following values of `VerbType`:
 
-* `Mod` (47; 100% of non-empty `VerbType`): móže móžeš móžachu dyrbi ma móža móžeja móžemy móžeće chce
+* `Mod` (47; 100% of non-empty `VerbType`): <em>móže, móžeš, móžachu, dyrbi, ma, móža, móžeja, móžemy, móžeće, chce</em>
 

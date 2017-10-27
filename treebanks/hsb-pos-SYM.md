@@ -9,31 +9,31 @@ udver: '2'
 There are 12 `SYM` lemmas (0%), 12 `SYM` types (0%) and 32 `SYM` tokens (0%).
 Out of 16 observed tags, the rank of `SYM` is: 11 in number of lemmas, 13 in number of types and 15 in number of tokens.
 
-The 10 most frequent `SYM` lemmas: ° % ' * ² ³ † : = o2
+The 10 most frequent `SYM` lemmas: <em>°, %, ', *, ², ³, †, :, =, o2</em>
 
-The 10 most frequent `SYM` types:  ° % ' * ² ³ † : = O2
+The 10 most frequent `SYM` types:  <em>°, %, ', *, ², ³, †, :, =, O2</em>
 
-The 10 most frequent ambiguous lemmas: : (<tt><a href="hsb-pos-PUNCT.html">PUNCT</a></tt> 57, <tt><a href="hsb-pos-SYM.html">SYM</a></tt> 1), = (<tt><a href="hsb-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="hsb-pos-SYM.html">SYM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>:</em> (<tt><a href="hsb-pos-PUNCT.html">PUNCT</a></tt> 57, <tt><a href="hsb-pos-SYM.html">SYM</a></tt> 1), <em>=</em> (<tt><a href="hsb-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="hsb-pos-SYM.html">SYM</a></tt> 1)
 
-The 10 most frequent ambiguous types:  : (<tt><a href="hsb-pos-PUNCT.html">PUNCT</a></tt> 57, <tt><a href="hsb-pos-SYM.html">SYM</a></tt> 1), = (<tt><a href="hsb-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="hsb-pos-SYM.html">SYM</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>:</em> (<tt><a href="hsb-pos-PUNCT.html">PUNCT</a></tt> 57, <tt><a href="hsb-pos-SYM.html">SYM</a></tt> 1), <em>=</em> (<tt><a href="hsb-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="hsb-pos-SYM.html">SYM</a></tt> 1)
 
 
-* :
-  * <tt><a href="hsb-pos-PUNCT.html">PUNCT</a></tt> 57: Někotre z nich su <b>:</b>
-  * <tt><a href="hsb-pos-SYM.html">SYM</a></tt> 1: Woda wobsteji z wodźika a kislika w poměrje 2 <b>:</b> 1 .
-* =
-  * <tt><a href="hsb-pos-PUNCT.html">PUNCT</a></tt> 2: Kralojo tuteje doby mjenowachu so lugal ( <b>=</b> " wulki čłowjek " ) .
-  * <tt><a href="hsb-pos-SYM.html">SYM</a></tt> 1: W něhdyšej romskej protyce bě december poprawom dźesaty měsac ( přir . łać . decem <b>=</b> dźesać ) 304 dnjow trajaceho měsačkoweho kalendra .
+* <em>:</em>
+  * <tt><a href="hsb-pos-PUNCT.html">PUNCT</a></tt> 57: <em>Někotre z nich su <b>:</b></em>
+  * <tt><a href="hsb-pos-SYM.html">SYM</a></tt> 1: <em>Woda wobsteji z wodźika a kislika w poměrje 2 <b>:</b> 1 .</em>
+* <em>=</em>
+  * <tt><a href="hsb-pos-PUNCT.html">PUNCT</a></tt> 2: <em>Kralojo tuteje doby mjenowachu so lugal ( <b>=</b> " wulki čłowjek " ) .</em>
+  * <tt><a href="hsb-pos-SYM.html">SYM</a></tt> 1: <em>W něhdyšej romskej protyce bě december poprawom dźesaty měsac ( přir . łać . decem <b>=</b> dźesać ) 304 dnjow trajaceho měsačkoweho kalendra .</em>
 
 ## Morphology
 
 The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.408237).
 
-The 1st highest number of forms (1) was observed with the lemma “%”: %.
+The 1st highest number of forms (1) was observed with the lemma “%”: <em>%</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “'”: '.
+The 2nd highest number of forms (1) was observed with the lemma “'”: <em>'</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “*”: *.
+The 3rd highest number of forms (1) was observed with the lemma “*”: <em>*</em>.
 
 `SYM` occurs with 1 features: <tt><a href="hsb-feat-Abbr.html">Abbr</a></tt> (2; 6% instances)
 
@@ -41,7 +41,7 @@ The 3rd highest number of forms (1) was observed with the lemma “*”: *.
 
 `SYM` occurs with 2 feature combinations.
 The most frequent feature combination is `_` (30 tokens).
-Examples: ° % ' * ² ³ † : = ~
+Examples: <em>°, %, ', *, ², ³, †, :, =, ~</em>
 
 
 ## Relations

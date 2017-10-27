@@ -24,15 +24,15 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 `NOUN` tokens may have the following values of `Gender`:
 
-* `Fem` (896; 37% of non-empty `Gender`): l woda rěč rěčow stolica rostliny wody rěče knihi biblioteki
-* `Masc` (1097; 45% of non-empty `Gender`): př kilometrow nastawki kraja lěttysaca čas institut wobraz časa instituta
-* `Neut` (428; 18% of non-empty `Gender`): město lěta lěće mócnarstwo pismo lět města słowo hospodarstwo knjejstwa
-* `EMPTY` (18): km m CEST droždźemi duri dźěła hodź jan thumb zdźěla
+* `Fem` (896; 37% of non-empty `Gender`): <em>l, woda, rěč, rěčow, stolica, rostliny, wody, rěče, knihi, biblioteki</em>
+* `Masc` (1097; 45% of non-empty `Gender`): <em>př, kilometrow, nastawki, kraja, lěttysaca, čas, institut, wobraz, časa, instituta</em>
+* `Neut` (428; 18% of non-empty `Gender`): <em>město, lěta, lěće, mócnarstwo, pismo, lět, města, słowo, hospodarstwo, knjejstwa</em>
+* `EMPTY` (18): <em>km, m, CEST, droždźemi, duri, dźěła, hodź, jan, thumb, zdźěla</em>
 
 <table>
   <tr><th>Paradigm <i>dataja</i></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td>dataje, daty</td><td>daty</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td></td><td>datow</td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>dataje, daty</em></td><td><em>daty</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td></td><td><em>datow</em></td></tr>
 </table>
 
 `Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (987) occur only with one value of `Gender`.
@@ -45,26 +45,32 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 `ADJ` tokens may have the following values of `Gender`:
 
-* `Fem` (545; 41% of non-empty `Gender`): serbskeje wulku druhe serbska wotpowědne dalše druhich hornjej kruta němskej
-* `Masc` (555; 41% of non-empty `Gender`): serbski Serbskeho prěni wulki Ekscelentny Serbskim Třećeho Zjednoćenych ablawtowych cyłym
-* `Neut` (240; 18% of non-empty `Gender`): najwjetše wulke klinowe wuznamne prěnje Kaspiske Kaspiskeho aktualne bjezdawkowe běłe
-* `EMPTY` (36): němsko Awstro Planowane Tibeto d dołho druhich duchowno hornjo krótko
+* `Fem` (545; 41% of non-empty `Gender`): <em>serbskeje, wulku, druhe, serbska, wotpowědne, dalše, druhich, hornjej, kruta, němskej</em>
+* `Masc` (555; 41% of non-empty `Gender`): <em>serbski, Serbskeho, prěni, wulki, Ekscelentny, Serbskim, Třećeho, Zjednoćenych, ablawtowych, cyłym</em>
+* `Neut` (240; 18% of non-empty `Gender`): <em>najwjetše, wulke, klinowe, wuznamne, prěnje, Kaspiske, Kaspiskeho, aktualne, bjezdawkowe, běłe</em>
+* `EMPTY` (36): <em>němsko, Awstro, Planowane, Tibeto, d, dołho, druhich, duchowno, hornjo, krótko</em>
 
 <table>
-  <tr><th>Paradigm <i>serbski</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>serbski</td><td></td><td>serbske</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>serbsku</td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>serbskemu</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>serbskim</td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>serbskeje</td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>Serbskeho</td><td>serbskeje</td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>serbskich</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>serbsku, serbskej</td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>Serbskim</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>Serbskim</td><td>serbskej</td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>Serbski, SERBSKI</td><td>serbska</td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>serbska</td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td>serbske</td></tr>
+  <tr><th>Paradigm <i>wulki</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>wulki</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>Najwjetše</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>wulku</em></td><td><em>wulke</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>wulke</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>wjetše</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>najwjetšu</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>wulku</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>wulke</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>wulkeje</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>wulkeje</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>wulkich</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>wulkimi</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>najwjetšimi</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>wjetšim</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>wulkich</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>wulki</em></td><td></td><td><em>wulke</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>Wulke</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>najwjetši</em></td><td><em>najwjetša</em></td><td><em>najwjetše</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>wulke</em></td></tr>
 </table>
 
 ### `PROPN`
@@ -75,15 +81,15 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 `PROPN` tokens may have the following values of `Gender`:
 
-* `Fem` (200; 39% of non-empty `Gender`): Mezopotamiskeje Mezopotamiska Mezopotamiskej Wikimedia Łužicy Europje Assyriska Němskeje Africe Assyriskeje
-* `Masc` (261; 51% of non-empty `Gender`): Sumeričanow Assur Aššur Babylon Budyšinje Hammurabi Ur Akkada Aramejčanow Assyričenjo
-* `Neut` (48; 9% of non-empty `Gender`): Commons Esperanto Nadu Slepo Aleppo Baku Bangalore Bengaluru Esperanće GNU
-* `EMPTY` (57): Aššur C Adl Angeles Gasche Los Tamil Tlustulimu Beth Bilād
+* `Fem` (200; 39% of non-empty `Gender`): <em>Mezopotamiskeje, Mezopotamiska, Mezopotamiskej, Wikimedia, Łužicy, Europje, Assyriska, Němskeje, Africe, Assyriskeje</em>
+* `Masc` (261; 51% of non-empty `Gender`): <em>Sumeričanow, Assur, Aššur, Babylon, Budyšinje, Hammurabi, Ur, Akkada, Aramejčanow, Assyričenjo</em>
+* `Neut` (48; 9% of non-empty `Gender`): <em>Commons, Esperanto, Nadu, Slepo, Aleppo, Baku, Bangalore, Bengaluru, Esperanće, GNU</em>
+* `EMPTY` (57): <em>Aššur, C, Adl, Angeles, Gasche, Los, Tamil, Tlustulimu, Beth, Bilād</em>
 
 <table>
   <tr><th>Paradigm <i>Institut</i></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td>Institut</td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td></td><td>Institut</td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>Institut</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td></td><td><em>Institut</em></td></tr>
 </table>
 
 `Gender` seems to be **lexical feature** of `PROPN`. 99% lemmas (309) occur only with one value of `Gender`.
@@ -92,32 +98,32 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 254 <tt><a href="hsb-pos-DET.html">DET</a></tt> tokens (86% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="hsb-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (221; 87%), <tt><a href="hsb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (212; 83%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (212; 83%), <tt><a href="hsb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (183; 72%), <tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (171; 67%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (152; 60%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="hsb-feat-Abbr.html">Abbr</a></tt><tt>=EMPTY</tt> (221; 87%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (212; 83%), <tt><a href="hsb-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (212; 83%), <tt><a href="hsb-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (183; 72%), <tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (171; 67%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (152; 60%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (120; 47% of non-empty `Gender`): n kotrež kotraž tuta swoju tute tutej tutu kotrejž někotrych
-* `Masc` (97; 38% of non-empty `Gender`): kotrež kotryž tutón n swoje tute tutym kotrychž někotre někotři
-* `Neut` (37; 15% of non-empty `Gender`): kotrež tute kóžde žane swoje twojim Tajke Wobě kajke kotrejž
-* `EMPTY` (40): jeho jich jeje n Někotre Tutón Wšě mnoho tójšto wšěch
+* `Fem` (120; 47% of non-empty `Gender`): <em>n, kotrež, kotraž, tuta, swoju, tute, tutej, tutu, kotrejž, někotrych</em>
+* `Masc` (97; 38% of non-empty `Gender`): <em>kotrež, kotryž, tutón, n, swoje, tute, tutym, kotrychž, někotre, někotři</em>
+* `Neut` (37; 15% of non-empty `Gender`): <em>kotrež, tute, kóžde, žane, swoje, twojim, Tajke, Wobě, kajke, kotrejž</em>
+* `EMPTY` (40): <em>jeho, jich, jeje, n, Někotre, Tutón, Wšě, mnoho, tójšto, wšěch</em>
 
 <table>
   <tr><th>Paradigm <i>kotryž</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>kotrymž</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>kotryž</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>kotřiž</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>kotryž</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>kotrychž</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>kotrychž</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>kotryž, kotrež</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>kotrež</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>kotrehož</td><td>kotrejež</td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>kotrymiž</td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>kotrymž</td><td>kotrejž</td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>kotrychž</td><td>kotrychž</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>kotryž</td><td>kotraž</td><td>kotrež</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Dual</tt></tt></td><td></td><td></td><td>kotrejž</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>kotrež</td><td>kotrež</td><td>kotrež</td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>kotrymž</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>kotryž</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>kotřiž</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>kotryž</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>kotrychž</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>kotrychž</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>kotryž, kotrež</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>kotrež</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>kotrehož</em></td><td><em>kotrejež</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>kotrymiž</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>kotrymž</em></td><td><em>kotrejž</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>kotrychž</em></td><td><em>kotrychž</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>kotryž</em></td><td><em>kotraž</em></td><td><em>kotrež</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Dual</tt></tt></td><td></td><td></td><td><em>kotrejž</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>kotrež</em></td><td><em>kotrež</em></td><td><em>kotrež</em></td></tr>
 </table>
 
 ### `PRON`
@@ -128,46 +134,46 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (18; 16% of non-empty `Gender`): wona Jej je jeje ju njej njeje nju wone
-* `Masc` (22; 19% of non-empty `Gender`): wón jón Woni je jeho kiž nich nim
-* `Neut` (75; 65% of non-empty `Gender`): to toho tym wono wone čimž t tomu nimi ničo
-* `EMPTY` (204): so kiž je sej nam sobu ty sebi
+* `Fem` (18; 16% of non-empty `Gender`): <em>wona, Jej, je, jeje, ju, njej, njeje, nju, wone</em>
+* `Masc` (22; 19% of non-empty `Gender`): <em>wón, jón, Woni, je, jeho, kiž, nich, nim</em>
+* `Neut` (75; 65% of non-empty `Gender`): <em>to, toho, tym, wono, wone, čimž, t, tomu, nimi, ničo</em>
+* `EMPTY` (204): <em>so, kiž, je, sej, nam, sobu, ty, sebi</em>
 
 <table>
   <tr><th>Paradigm <i>wón</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>Woni</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>je</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>jeho</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>jón, jeho</td><td>ju, nju</td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>je</td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>njej, jeje, Jej</td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>njeje</td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>nich</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td>nimi</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>nim</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>wón</td><td>wona</td><td>wono, wone</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>wone</td><td>wone</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>jón</td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>Woni</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>je</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jeho</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jón, jeho</em></td><td><em>ju, nju</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>je</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>jeje, Jej, njej</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>njeje</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>nich</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>nimi</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>nim</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>wón</em></td><td><em>wona</em></td><td><em>wono, wone</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>wone</em></td><td><em>wone</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jón</em></td><td></td><td></td></tr>
 </table>
 
 ### `VERB`
 
 45 <tt><a href="hsb-pos-VERB.html">VERB</a></tt> tokens (6% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (43; 96%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (43; 96%), <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (43; 96%), <tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (43; 96%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (28; 62%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (43; 96%), <tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (43; 96%), <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (43; 96%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (43; 96%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (28; 62%).
 
 `VERB` tokens may have the following values of `Gender`:
 
-* `Fem` (11; 24% of non-empty `Gender`): dodźeržała eksistowali kontrolowali předstaja přeměniła přełožili přistupiła rostła stabilizowała wróćiła
-* `Masc` (28; 62% of non-empty `Gender`): přewzali wužiwali započał ilustrował mał mjenował měł nastał poradźił poznamjenili
-* `Neut` (6; 13% of non-empty `Gender`): móhli poradźiło předstajili stali stało wočakowało
-* `EMPTY` (735): ma leži móže wobsahuje móžeš hlej su maja rěči běchu
+* `Fem` (11; 24% of non-empty `Gender`): <em>dodźeržała, eksistowali, kontrolowali, předstaja, přeměniła, přełožili, přistupiła, rostła, stabilizowała, wróćiła</em>
+* `Masc` (28; 62% of non-empty `Gender`): <em>přewzali, wužiwali, započał, ilustrował, mał, mjenował, měł, nastał, poradźił, poznamjenili</em>
+* `Neut` (6; 13% of non-empty `Gender`): <em>móhli, poradźiło, předstajili, stali, stało, wočakowało</em>
+* `EMPTY` (735): <em>ma, leži, móže, wobsahuje, móžeš, hlej, su, maja, rěči, běchu</em>
 
 <table>
   <tr><th>Paradigm <i>předstajić</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td>předstaja</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td>předstaja</td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="hsb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td>předstajili</td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>předstaja</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>předstaja</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="hsb-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td></td><td><em>předstajili</em></td></tr>
 </table>
 
 `Gender` seems to be **lexical feature** of `VERB`. 92% lemmas (33) occur only with one value of `Gender`.
@@ -180,49 +186,49 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 `NUM` tokens may have the following values of `Gender`:
 
-* `Fem` (10; 32% of non-empty `Gender`): jedna jednu štyri dwaj dwě dwěmaj štyrjoch
-* `Masc` (17; 55% of non-empty `Gender`): jedyn dwaj dweju jedneho jedny traje štyrjoch
-* `Neut` (4; 13% of non-empty `Gender`): dwěmaj jednym
-* `EMPTY` (335): 2 1 6 4 3 5 7 000 10 100
+* `Fem` (10; 32% of non-empty `Gender`): <em>jedna, jednu, štyri, dwaj, dwě, dwěmaj, štyrjoch</em>
+* `Masc` (17; 55% of non-empty `Gender`): <em>jedyn, dwaj, dweju, jedneho, jedny, traje, štyrjoch</em>
+* `Neut` (4; 13% of non-empty `Gender`): <em>dwěmaj, jednym</em>
+* `EMPTY` (335): <em>2, 1, 6, 4, 3, 5, 7, 000, 10, 100</em>
 
 <table>
   <tr><th>Paradigm <i>jedyn</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td>jedyn, jedny</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td>jedyn</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td>jedneho</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td>jedyn</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td>jedyn</td><td>jednu</td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td></td><td></td><td>jednym</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td>jedyn</td><td>jedna</td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>jedny, jedyn</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>jedyn</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>jedneho</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>jedyn</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>jedyn</em></td><td><em>jednu</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td></td><td></td><td><em>jednym</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>jedyn</em></td><td><em>jedna</em></td><td></td></tr>
 </table>
 
 ### `AUX`
 
 2 <tt><a href="hsb-pos-AUX.html">AUX</a></tt> tokens (1% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2; 100%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2; 100%), <tt><a href="hsb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2; 100%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2; 100%), <tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (2; 100%), <tt><a href="hsb-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (2; 100%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%).
 
 `AUX` tokens may have the following values of `Gender`:
 
-* `Fem` (1; 50% of non-empty `Gender`): była
-* `Masc` (1; 50% of non-empty `Gender`): był
-* `EMPTY` (283): je su bu bě buchu njeje by njejsu běchu buštej
+* `Fem` (1; 50% of non-empty `Gender`): <em>była</em>
+* `Masc` (1; 50% of non-empty `Gender`): <em>był</em>
+* `EMPTY` (283): <em>je, su, bu, bě, buchu, njeje, by, njejsu, běchu, buštej</em>
 
 <table>
   <tr><th>Paradigm <i>być</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt></tt></td><td>był</td><td>była</td></tr>
+  <tr><td><tt></tt></td><td><em>był</em></td><td><em>była</em></td></tr>
 </table>
 
 ### `ADV`
 
 1 <tt><a href="hsb-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADV` and `Gender` co-occurred: <tt><a href="hsb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1; 100%).
+The most frequent other feature values with which `ADV` and `Gender` co-occurred: <tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (1; 100%), <tt><a href="hsb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `ADV` tokens may have the following values of `Gender`:
 
-* `Fem` (1; 100% of non-empty `Gender`): wuchodne
-* `EMPTY` (520): tež tak zwjetša hišće wjele něhdźe hižo tu wjace najprjedy
+* `Fem` (1; 100% of non-empty `Gender`): <em>wuchodne</em>
+* `EMPTY` (520): <em>tež, tak, zwjetša, hišće, wjele, něhdźe, hižo, tu, wjace, najprjedy</em>
 
 ## Relations with Agreement in `Gender`
 

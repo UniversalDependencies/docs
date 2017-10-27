@@ -9,49 +9,49 @@ udver: '2'
 There are 9 `PRON` lemmas (0%), 33 `PRON` types (1%) and 319 `PRON` tokens (3%).
 Out of 16 observed tags, the rank of `PRON` is: 14 in number of lemmas, 10 in number of types and 10 in number of tokens.
 
-The 10 most frequent `PRON` lemmas: so to wón kiž štož ja ty ništo wšitko
+The 10 most frequent `PRON` lemmas: <em>so, to, wón, kiž, štož, ja, ty, ništo, wšitko</em>
 
-The 10 most frequent `PRON` types:  so to toho tym wona wón kiž je wone wono
+The 10 most frequent `PRON` types:  <em>so, to, toho, tym, wona, wón, kiž, je, wone, wono</em>
 
-The 10 most frequent ambiguous lemmas: to (<tt><a href="hsb-pos-PRON.html">PRON</a></tt> 58, <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>to</em> (<tt><a href="hsb-pos-PRON.html">PRON</a></tt> 58, <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 2)
 
-The 10 most frequent ambiguous types:  to (<tt><a href="hsb-pos-PRON.html">PRON</a></tt> 16, <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 2), tym (<tt><a href="hsb-pos-PRON.html">PRON</a></tt> 15, <tt><a href="hsb-pos-DET.html">DET</a></tt> 2), je (<tt><a href="hsb-pos-AUX.html">AUX</a></tt> 101, <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 6, <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 5), t (<tt><a href="hsb-pos-PRON.html">PRON</a></tt> 3, <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 1, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), jeho (<tt><a href="hsb-pos-DET.html">DET</a></tt> 7, <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 2), jeje (<tt><a href="hsb-pos-DET.html">DET</a></tt> 3, <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 1), njeje (<tt><a href="hsb-pos-AUX.html">AUX</a></tt> 8, <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 1, <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="hsb-pos-PRON.html">PRON</a></tt> 16, <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 2), <em>tym</em> (<tt><a href="hsb-pos-PRON.html">PRON</a></tt> 15, <tt><a href="hsb-pos-DET.html">DET</a></tt> 2), <em>je</em> (<tt><a href="hsb-pos-AUX.html">AUX</a></tt> 101, <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 6, <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 5), <em>t</em> (<tt><a href="hsb-pos-PRON.html">PRON</a></tt> 3, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 1), <em>jeho</em> (<tt><a href="hsb-pos-DET.html">DET</a></tt> 7, <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 2), <em>jeje</em> (<tt><a href="hsb-pos-DET.html">DET</a></tt> 3, <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 1), <em>njeje</em> (<tt><a href="hsb-pos-AUX.html">AUX</a></tt> 8, <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 1, <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 1)
 
 
-* to
-  * <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 16: Pod škrějnym dypkom bywa kruta maćizna , a <b>to</b> lód .
-  * <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 2: Jeli někotři wužiwarjo listowany namjet podpěruja , <b>to</b> so dyrbi předłohu { { Ekscelentny } } z nastawka wotstronić .
-* tym
-  * <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 15: Pomhaj Wikipediju , z <b>tym</b> ty jón rozšěriš a nětko wudospołniš .
-  * <tt><a href="hsb-pos-DET.html">DET</a></tt> 2: Etat stata bě identiski z <b>tym</b> knježićela , tutón hospodarski system rěka oikosowe hospodarstwo .
-* je
-  * <tt><a href="hsb-pos-AUX.html">AUX</a></tt> 101: Biologija <b>je</b> wědomostny wobłuk , kotryž analyzuje žiwy swět .
-  * <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 6: Wón zběra a archiwěruje k tomu trěbne materialije , přihotuje <b>je</b> za wědomostne slědźenje a spřistupnja <b>je</b> zdobom zjawnosći .
-  * <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 5: Započatk <b>je</b> w 19 hodź .
-* t
-  * <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 3: Zo by so GNU - licenca dodźeržała , dyrbi so při tym 3 - 5 tamnišich <b>t</b> . mj . hłownych awtorow mjenować .
-  * <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 1: W času persiskeho knjejstwa bu aramejšćina mócnarstwowa rěč , <b>t</b> . mj . mócnarstwowa aramejšćina .
-  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1: 1 . Serbska centralna biblioteka je relatiwnje samostatne zarjadnišćo Serbskeho instituta z . <b>t</b> .
-* jeho
-  * <tt><a href="hsb-pos-DET.html">DET</a></tt> 7: Z <b>jeho</b> smjerću so tak mjenowane srjedźoassyriske mócnarstwo skónči .
-  * <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 2: Mróz a dešć běštej <b>jeho</b> wučerpałoj , tola wón so njepohnu .
-* jeje
-  * <tt><a href="hsb-pos-DET.html">DET</a></tt> 3: Čerstwa woda je najhusćiša při 4 ° C ; <b>jeje</b> hustosć wotewza , hdyž mjerznje abo so zhrěje .
-  * <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 1: Rotaciska wóska zemje njeje zrunana k ekliptice , ale ma k <b>jeje</b> padorunje nuhel wot něhdźe 23 ° 26 ' .
-* njeje
-  * <tt><a href="hsb-pos-AUX.html">AUX</a></tt> 8: Njewědźeše , hač wobsteji smuha tež potom , hdyž <b>njeje</b> hižo w pěsku zarysowana .
-  * <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 1: Tutón je wo wjele młódši zjaw hač indoeuropski ablawt , čehoždla ani <b>njeje</b> systematiski abo historiski zwisk ze změnu w ablawtowych rjadach a přezwuk so zwjetša k ablawtowym fenomenam njeliči .
-  * <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 1: Sukcesiwnje zadźěła so do <b>njeje</b> tež wobsah zažnišich bibliografijow ( dotal : w Budyšinje wušłe knihi wot 1958 ) .
+* <em>to</em>
+  * <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 16: <em>Pod škrějnym dypkom bywa kruta maćizna , a <b>to</b> lód .</em>
+  * <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 2: <em>Jeli někotři wužiwarjo listowany namjet podpěruja , <b>to</b> so dyrbi předłohu { { Ekscelentny } } z nastawka wotstronić .</em>
+* <em>tym</em>
+  * <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 15: <em>Pomhaj Wikipediju , z <b>tym</b> ty jón rozšěriš a nětko wudospołniš .</em>
+  * <tt><a href="hsb-pos-DET.html">DET</a></tt> 2: <em>Etat stata bě identiski z <b>tym</b> knježićela , tutón hospodarski system rěka oikosowe hospodarstwo .</em>
+* <em>je</em>
+  * <tt><a href="hsb-pos-AUX.html">AUX</a></tt> 101: <em>Biologija <b>je</b> wědomostny wobłuk , kotryž analyzuje žiwy swět .</em>
+  * <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 6: <em>Wón zběra a archiwěruje k tomu trěbne materialije , přihotuje <b>je</b> za wědomostne slědźenje a spřistupnja <b>je</b> zdobom zjawnosći .</em>
+  * <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 5: <em>Započatk <b>je</b> w 19 hodź .</em>
+* <em>t</em>
+  * <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 3: <em>Zo by so GNU - licenca dodźeržała , dyrbi so při tym 3 - 5 tamnišich <b>t</b> . mj . hłownych awtorow mjenować .</em>
+  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1: <em>1 . Serbska centralna biblioteka je relatiwnje samostatne zarjadnišćo Serbskeho instituta z . <b>t</b> .</em>
+  * <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 1: <em>W času persiskeho knjejstwa bu aramejšćina mócnarstwowa rěč , <b>t</b> . mj . mócnarstwowa aramejšćina .</em>
+* <em>jeho</em>
+  * <tt><a href="hsb-pos-DET.html">DET</a></tt> 7: <em>Z <b>jeho</b> smjerću so tak mjenowane srjedźoassyriske mócnarstwo skónči .</em>
+  * <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 2: <em>Mróz a dešć běštej <b>jeho</b> wučerpałoj , tola wón so njepohnu .</em>
+* <em>jeje</em>
+  * <tt><a href="hsb-pos-DET.html">DET</a></tt> 3: <em>Čerstwa woda je najhusćiša při 4 ° C ; <b>jeje</b> hustosć wotewza , hdyž mjerznje abo so zhrěje .</em>
+  * <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 1: <em>Rotaciska wóska zemje njeje zrunana k ekliptice , ale ma k <b>jeje</b> padorunje nuhel wot něhdźe 23 ° 26 ' .</em>
+* <em>njeje</em>
+  * <tt><a href="hsb-pos-AUX.html">AUX</a></tt> 8: <em>Njewědźeše , hač wobsteji smuha tež potom , hdyž <b>njeje</b> hižo w pěsku zarysowana .</em>
+  * <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 1: <em>Tutón je wo wjele młódši zjaw hač indoeuropski ablawt , čehoždla ani <b>njeje</b> systematiski abo historiski zwisk ze změnu w ablawtowych rjadach a přezwuk so zwjetša k ablawtowym fenomenam njeliči .</em>
+  * <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 1: <em>Sukcesiwnje zadźěła so do <b>njeje</b> tež wobsah zažnišich bibliografijow ( dotal : w Budyšinje wušłe knihi wot 1958 ) .</em>
 
 ## Morphology
 
 The form / lemma ratio of `PRON` is 3.666667 (the average of all parts of speech is 1.408237).
 
-The 1st highest number of forms (17) was observed with the lemma “wón”: Jej, Woni, je, jeho, jeje, ju, jón, nich, nim, nimi, njej, njeje, nju, wona, wone, wono, wón.
+The 1st highest number of forms (17) was observed with the lemma “wón”: <em>Jej, Woni, je, jeho, jeje, ju, jón, nich, nim, nimi, njej, njeje, nju, wona, wone, wono, wón</em>.
 
-The 2nd highest number of forms (5) was observed with the lemma “to”: t, to, toho, tomu, tym.
+The 2nd highest number of forms (5) was observed with the lemma “to”: <em>t, to, toho, tomu, tym</em>.
 
-The 3rd highest number of forms (4) was observed with the lemma “so”: sebi, sej, so, sobu.
+The 3rd highest number of forms (4) was observed with the lemma “so”: <em>sebi, sej, so, sobu</em>.
 
 `PRON` occurs with 8 features: <tt><a href="hsb-feat-Case.html">Case</a></tt> (316; 99% instances), <tt><a href="hsb-feat-PronType.html">PronType</a></tt> (314; 98% instances), <tt><a href="hsb-feat-Reflex.html">Reflex</a></tt> (189; 59% instances), <tt><a href="hsb-feat-Number.html">Number</a></tt> (125; 39% instances), <tt><a href="hsb-feat-Gender.html">Gender</a></tt> (115; 36% instances), <tt><a href="hsb-feat-Person.html">Person</a></tt> (56; 18% instances), <tt><a href="hsb-feat-Animacy.html">Animacy</a></tt> (5; 2% instances), <tt><a href="hsb-feat-Abbr.html">Abbr</a></tt> (3; 1% instances)
 
@@ -59,7 +59,7 @@ The 3rd highest number of forms (4) was observed with the lemma “so”: sebi, 
 
 `PRON` occurs with 40 feature combinations.
 The most frequent feature combination is `Case=Acc|PronType=Prs|Reflex=Yes` (183 tokens).
-Examples: so
+Examples: <em>so</em>
 
 
 ## Relations

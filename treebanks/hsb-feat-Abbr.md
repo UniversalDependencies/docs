@@ -22,8 +22,8 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 
 `NOUN` tokens may have the following values of `Abbr`:
 
-* `Yes` (74; 100% of non-empty `Abbr`): l př km m Mio CEST hodź jan dr nakł
-* `EMPTY` (2365): město woda rěč rěčow lěta stolica lěće kilometrow mócnarstwo nastawki
+* `Yes` (74; 100% of non-empty `Abbr`): <em>l, př, km, m, Mio, CEST, hodź, jan, dr, nakł</em>
+* `EMPTY` (2365): <em>město, woda, rěč, rěčow, lěta, stolica, lěće, kilometrow, mócnarstwo, nastawki</em>
 
 `Abbr` seems to be **lexical feature** of `NOUN`. 100% lemmas (13) occur only with one value of `Abbr`.
 
@@ -33,30 +33,30 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 
 `ADP` tokens may have the following values of `Abbr`:
 
-* `Yes` (36; 100% of non-empty `Abbr`): př n
-* `EMPTY` (1006): w na z wot za do k přez po při
+* `Yes` (36; 100% of non-empty `Abbr`): <em>př, n</em>
+* `EMPTY` (1006): <em>w, na, z, wot, za, do, k, přez, po, při</em>
 
 ### `DET`
 
 35 <tt><a href="hsb-pos-DET.html">DET</a></tt> tokens (12% of all `DET` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `DET` and `Abbr` co-occurred: <tt><a href="hsb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (34; 97%), <tt><a href="hsb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt> (34; 97%), <tt><a href="hsb-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (34; 97%), <tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Ins</tt> (34; 97%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=1</tt> (34; 97%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (34; 97%), <tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (31; 89%), <tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (29; 83%).
+The most frequent other feature values with which `DET` and `Abbr` co-occurred: <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (34; 97%), <tt><a href="hsb-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (34; 97%), <tt><a href="hsb-feat-Poss.html">Poss</a></tt><tt>=Yes</tt> (34; 97%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=1</tt> (34; 97%), <tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Ins</tt> (34; 97%), <tt><a href="hsb-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt> (34; 97%), <tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (31; 89%), <tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (29; 83%).
 
 `DET` tokens may have the following values of `Abbr`:
 
-* `Yes` (35; 100% of non-empty `Abbr`): n
-* `EMPTY` (259): kotrež jeho jich tute kotryž tutón kotraž swoje tuta wšě
+* `Yes` (35; 100% of non-empty `Abbr`): <em>n</em>
+* `EMPTY` (259): <em>kotrež, jeho, jich, tute, kotryž, tutón, kotraž, swoje, tuta, wšě</em>
 
 ### `PROPN`
 
 10 <tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> tokens (2% of all `PROPN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7; 70%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (7; 70%), <tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6; 60%).
+The most frequent other feature values with which `PROPN` and `Abbr` co-occurred: <tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (10; 100%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (7; 70%), <tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7; 70%), <tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6; 60%).
 
 `PROPN` tokens may have the following values of `Abbr`:
 
-* `Yes` (10; 100% of non-empty `Abbr`): C GNU CET KPD OZN H ISGV NDR
-* `EMPTY` (556): Mezopotamiskeje Aššur Mezopotamiska Mezopotamiskej Wikimedia Łužicy Europje Sumeričanow Assur Assyriska
+* `Yes` (10; 100% of non-empty `Abbr`): <em>C, GNU, CET, KPD, OZN, H, ISGV, NDR</em>
+* `EMPTY` (556): <em>Mezopotamiskeje, Aššur, Mezopotamiska, Mezopotamiskej, Wikimedia, Łužicy, Europje, Sumeričanow, Assur, Assyriska</em>
 
 ### `X`
 
@@ -64,8 +64,8 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 
 `X` tokens may have the following values of `Abbr`:
 
-* `Yes` (8; 100% of non-empty `Abbr`): APG DDR PD SORBISCHES dr m mj
-* `EMPTY` (191): a i Vitis al backen o H au b c
+* `Yes` (8; 100% of non-empty `Abbr`): <em>APG, DDR, PD, SORBISCHES, dr, m, mj</em>
+* `EMPTY` (191): <em>a, i, Vitis, al, backen, o, H, au, b, c</em>
 
 ### `ADV`
 
@@ -75,8 +75,8 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 
 `ADV` tokens may have the following values of `Abbr`:
 
-* `Yes` (6; 100% of non-empty `Abbr`): resp atd łać jendź t
-* `EMPTY` (515): tež tak zwjetša hišće wjele něhdźe hižo tu wjace najprjedy
+* `Yes` (6; 100% of non-empty `Abbr`): <em>resp, atd, łać, jendź, t</em>
+* `EMPTY` (515): <em>tež, tak, zwjetša, hišće, wjele, něhdźe, hižo, tu, wjace, najprjedy</em>
 
 ### `NUM`
 
@@ -86,41 +86,41 @@ The most frequent other feature values with which `NUM` and `Abbr` co-occurred: 
 
 `NUM` tokens may have the following values of `Abbr`:
 
-* `Yes` (4; 100% of non-empty `Abbr`): III 02625
-* `EMPTY` (362): 2 1 6 4 3 jedyn 5 7 000 10
+* `Yes` (4; 100% of non-empty `Abbr`): <em>III, 02625</em>
+* `EMPTY` (362): <em>2, 1, 6, 4, 3, jedyn, 5, 7, 000, 10</em>
 
 ### `ADJ`
 
 4 <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 75%), <tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (3; 75%).
+The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (3; 75%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 75%).
 
 `ADJ` tokens may have the following values of `Abbr`:
 
-* `Yes` (4; 100% of non-empty `Abbr`): d jendź mj z
-* `EMPTY` (1372): serbski druhe druhich najwjetše serbskeje Serbskeho prěni prěnje wulke wulki
-
-### `VERB`
-
-3 <tt><a href="hsb-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Abbr`.
-
-The most frequent other feature values with which `VERB` and `Abbr` co-occurred: <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3; 100%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3; 100%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt> (3; 100%), <tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3; 100%).
-
-`VERB` tokens may have the following values of `Abbr`:
-
-* `Yes` (3; 100% of non-empty `Abbr`): mj r
-* `EMPTY` (777): ma leži móže wobsahuje móžeš hlej su maja rěči běchu
+* `Yes` (4; 100% of non-empty `Abbr`): <em>d, jendź, mj, z</em>
+* `EMPTY` (1372): <em>serbski, druhe, druhich, najwjetše, serbskeje, Serbskeho, prěni, prěnje, wulke, wulki</em>
 
 ### `PRON`
 
 3 <tt><a href="hsb-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `PRON` and `Abbr` co-occurred: <tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (3; 100%), <tt><a href="hsb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 67%), <tt><a href="hsb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2; 67%).
+The most frequent other feature values with which `PRON` and `Abbr` co-occurred: <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Neut</tt> (3; 100%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="hsb-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2; 67%), <tt><a href="hsb-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (2; 67%).
 
 `PRON` tokens may have the following values of `Abbr`:
 
-* `Yes` (3; 100% of non-empty `Abbr`): t
-* `EMPTY` (316): so to toho tym wona wón kiž je wone wono
+* `Yes` (3; 100% of non-empty `Abbr`): <em>t</em>
+* `EMPTY` (316): <em>so, to, toho, tym, wona, wón, kiž, je, wone, wono</em>
+
+### `VERB`
+
+3 <tt><a href="hsb-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Abbr`.
+
+The most frequent other feature values with which `VERB` and `Abbr` co-occurred: <tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3; 100%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3; 100%), <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3; 100%), <tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3; 100%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt> (3; 100%).
+
+`VERB` tokens may have the following values of `Abbr`:
+
+* `Yes` (3; 100% of non-empty `Abbr`): <em>mj, r</em>
+* `EMPTY` (777): <em>ma, leži, móže, wobsahuje, móžeš, hlej, su, maja, rěči, běchu</em>
 
 ### `SYM`
 
@@ -128,8 +128,8 @@ The most frequent other feature values with which `PRON` and `Abbr` co-occurred:
 
 `SYM` tokens may have the following values of `Abbr`:
 
-* `Yes` (2; 100% of non-empty `Abbr`): O2 O3
-* `EMPTY` (30): ° % ' * ² ³ † : = ~
+* `Yes` (2; 100% of non-empty `Abbr`): <em>O2, O3</em>
+* `EMPTY` (30): <em>°, %, ', *, ², ³, †, :, =, ~</em>
 
 ## Relations with Agreement in `Abbr`
 
@@ -139,6 +139,6 @@ The 10 most frequent relations where parent and child node agree in `Abbr`:
 <tt>PRON --[<tt><a href="hsb-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (3; 100%),
 <tt>X --[<tt><a href="hsb-dep-fixed.html">fixed</a></tt>]--> X</tt> (1; 100%),
 <tt>ADV --[<tt><a href="hsb-dep-fixed.html">fixed</a></tt>]--> ADJ</tt> (1; 100%),
-<tt>ADP --[<tt><a href="hsb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1; 100%),
-<tt>SYM --[<tt><a href="hsb-dep-conj.html">conj</a></tt>]--> SYM</tt> (1; 100%).
+<tt>SYM --[<tt><a href="hsb-dep-conj.html">conj</a></tt>]--> SYM</tt> (1; 100%),
+<tt>ADP --[<tt><a href="hsb-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1; 100%).
 

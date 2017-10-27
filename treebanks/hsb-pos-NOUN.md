@@ -9,55 +9,55 @@ udver: '2'
 There are 1002 `NOUN` lemmas (33%), 1510 `NOUN` types (35%) and 2439 `NOUN` tokens (23%).
 Out of 16 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in number of types and 1 in number of tokens.
 
-The 10 most frequent `NOUN` lemmas: rěč lěto lětoličba woda město přikład nastawk čas kraj rostlina
+The 10 most frequent `NOUN` lemmas: <em>rěč, lěto, lětoličba, woda, město, přikład, nastawk, čas, kraj, rostlina</em>
 
-The 10 most frequent `NOUN` types:  l př město woda rěč rěčow lěta stolica lěće kilometrow
+The 10 most frequent `NOUN` types:  <em>l, př, město, woda, rěč, rěčow, lěta, stolica, lěće, kilometrow</em>
 
-The 10 most frequent ambiguous lemmas: institut (<tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 16, <tt><a href="hsb-pos-X.html">X</a></tt> 1), dźeń (<tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 12, <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1), móc (<tt><a href="hsb-pos-VERB.html">VERB</a></tt> 38, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 4), kotryž (<tt><a href="hsb-pos-DET.html">DET</a></tt> 69, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 3), Assyričan (<tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), Gutejčan (<tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), center (<tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="hsb-pos-X.html">X</a></tt> 1), dr (<tt><a href="hsb-pos-X.html">X</a></tt> 2, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), m (<tt><a href="hsb-pos-X.html">X</a></tt> 1, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), mjez (<tt><a href="hsb-pos-ADP.html">ADP</a></tt> 24, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>institut</em> (<tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 16, <tt><a href="hsb-pos-X.html">X</a></tt> 1), <em>dźeń</em> (<tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 12, <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1), <em>móc</em> (<tt><a href="hsb-pos-VERB.html">VERB</a></tt> 38, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 4), <em>kotryž</em> (<tt><a href="hsb-pos-DET.html">DET</a></tt> 69, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 3), <em>Assyričan</em> (<tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), <em>Gutejčan</em> (<tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 1), <em>center</em> (<tt><a href="hsb-pos-X.html">X</a></tt> 1, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), <em>dr</em> (<tt><a href="hsb-pos-X.html">X</a></tt> 2, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), <em>m</em> (<tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="hsb-pos-X.html">X</a></tt> 1), <em>mjez</em> (<tt><a href="hsb-pos-ADP.html">ADP</a></tt> 24, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1)
 
-The 10 most frequent ambiguous types:  př (<tt><a href="hsb-pos-ADP.html">ADP</a></tt> 34, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 19), rěči (<tt><a href="hsb-pos-VERB.html">VERB</a></tt> 7, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 6), kotřiž (<tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="hsb-pos-DET.html">DET</a></tt> 2), prawa (<tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1), dnja (<tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), m (<tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="hsb-pos-X.html">X</a></tt> 1), Assyričenjo (<tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), Babylon (<tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), Hammurabi (<tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), Mezopotamiska (<tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 6, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>př</em> (<tt><a href="hsb-pos-ADP.html">ADP</a></tt> 34, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 19), <em>rěči</em> (<tt><a href="hsb-pos-VERB.html">VERB</a></tt> 7, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 6), <em>kotřiž</em> (<tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="hsb-pos-DET.html">DET</a></tt> 2), <em>prawa</em> (<tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1), <em>dnja</em> (<tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), <em>m</em> (<tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="hsb-pos-X.html">X</a></tt> 1), <em>Assyričenjo</em> (<tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), <em>Babylon</em> (<tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), <em>Hammurabi</em> (<tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1), <em>Mezopotamiska</em> (<tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 6, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1)
 
 
-* př
-  * <tt><a href="hsb-pos-ADP.html">ADP</a></tt> 34: Klinowe pismo docpě wo 2700 <b>př</b> . n . l . swoju dokonjanosć .
-  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 19: Wón so často w Interneće wužiwa , kaž na <b>př</b> . w šleskej Wikipediji .
-* rěči
-  * <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 7: W Etiopiskej so <b>rěči</b> 84 rěčow .
-  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 6: Dlěši tekst w němskej <b>rěči</b> móžeće tu čitać .
-* kotřiž
-  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 3: Ale tež eksistuja žiwochi , <b>kotřiž</b> njetrjebaja kislik , předewšěm při jednobańkowcach .
-  * <tt><a href="hsb-pos-DET.html">DET</a></tt> 2: Tež w Babylonje běchu wliwapołni překupcy , <b>kotřiž</b> ze swojimi swójbami hotowe dynastije tworjachu .
-* prawa
-  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 3: W 280 paragrafach prawidłowaše aspekty ciwilneho <b>prawa</b> , chłostanske prawo a zarjadniske prawo .
-  * <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1: Tuta definicija njeje pak geografisce ale tež tektonisce <b>prawa</b> , dokelž teritorije pak na awstralskej , pacifiskej a někotrych mjeńšich platach leža .
-* dnja
-  * <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1: Do 4 . lěttysaca př . n . l . wužiwachu wobydlerjo Mezopotamiskeje tak mjenowane ličenske kamuški za ličenske nadawki wšědneho <b>dnja</b> .
-  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1: K dnjej archiwow přeprošuje Serbski kulturny archiw w Budyšinje na Dwórnišćowu 6 - sobotu , <b>dnja</b> 6 . měrca wot 14 hodź .
-* m
-  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 2: Žołta barba pokaza disponujomnosć mjez 500 a 1700 <b>m</b> ³ .
-  * <tt><a href="hsb-pos-X.html">X</a></tt> 1: Nimo wokalow a / ā , i / ī , u / ū a diftongow o / au a e / ai so tež połwokale y a v jewja , nimo toho sanskrit sonantnej likwidaj ṛ a ḷ wužiwa , a tež nazalaj <b>m</b> a n móžetej wokalisku funkciju měć .
-* Assyričenjo
-  * <tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 3: Tak wjele pozdźišo samo <b>Assyričenjo</b> w swojich stawiznach wo Sargonje rozprawichu .
-  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1: <b>Assyričenjo</b> poněčim pismo a rěč wot Aramejčanow přejimachu .
-* Babylon
-  * <tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 4: Po spadźe Assyriskeje <b>Babylon</b> zaso na mocy naby .
-  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1: <b>Babylon</b> připadny w lěće 31 krala Šamšu - ditana k Hetitam pod Muršili I .
-* Hammurabi
-  * <tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 4: Hammurabi je znaty , dokelž spisa jednu z prěnich traděrowanych zběrkow zakonjow , tak mjenowany kodeks <b>Hammurabi</b> .
-  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1: <b>Hammurabi</b> je znaty , dokelž spisa jednu z prěnich traděrowanych zběrkow zakonjow , tak mjenowany kodeks Hammurabi .
-* Mezopotamiska
-  * <tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 6: <b>Mezopotamiska</b> wikowaše ze susodnymi krajemi .
-  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1: <b>Mezopotamiska</b> ( grjeksce : Μεσοποταμία Mesopotamia , aramejsce : ܒܝܬܢܗܪܝܢ Beth Nahrin , kurdisce : Mezopotamya arabsce : بلاد مابين النهرين Bilād mā bain an - Nahrain ) woznamjenja ( kraj ) mjez ( dwěmaj ) rěkomaj abo tež krótko Mjezyrěčina a woznamjenja w historiskim zmysle kónčinu dólnych runinow mjez rěkomaj Eufratom a Tigrisom , w kotrejž měšćanske staty Sumeričanow , Babylonjanow , Aramejčanow a Assyričanow ležachu .
+* <em>př</em>
+  * <tt><a href="hsb-pos-ADP.html">ADP</a></tt> 34: <em>Klinowe pismo docpě wo 2700 <b>př</b> . n . l . swoju dokonjanosć .</em>
+  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 19: <em>Wón so často w Interneće wužiwa , kaž na <b>př</b> . w šleskej Wikipediji .</em>
+* <em>rěči</em>
+  * <tt><a href="hsb-pos-VERB.html">VERB</a></tt> 7: <em>W Etiopiskej so <b>rěči</b> 84 rěčow .</em>
+  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 6: <em>Dlěši tekst w němskej <b>rěči</b> móžeće tu čitać .</em>
+* <em>kotřiž</em>
+  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 3: <em>Ale tež eksistuja žiwochi , <b>kotřiž</b> njetrjebaja kislik , předewšěm při jednobańkowcach .</em>
+  * <tt><a href="hsb-pos-DET.html">DET</a></tt> 2: <em>Tež w Babylonje běchu wliwapołni překupcy , <b>kotřiž</b> ze swojimi swójbami hotowe dynastije tworjachu .</em>
+* <em>prawa</em>
+  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 3: <em>W 280 paragrafach prawidłowaše aspekty ciwilneho <b>prawa</b> , chłostanske prawo a zarjadniske prawo .</em>
+  * <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1: <em>Tuta definicija njeje pak geografisce ale tež tektonisce <b>prawa</b> , dokelž teritorije pak na awstralskej , pacifiskej a někotrych mjeńšich platach leža .</em>
+* <em>dnja</em>
+  * <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 1: <em>Do 4 . lěttysaca př . n . l . wužiwachu wobydlerjo Mezopotamiskeje tak mjenowane ličenske kamuški za ličenske nadawki wšědneho <b>dnja</b> .</em>
+  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1: <em>K dnjej archiwow přeprošuje Serbski kulturny archiw w Budyšinje na Dwórnišćowu 6 - sobotu , <b>dnja</b> 6 . měrca wot 14 hodź .</em>
+* <em>m</em>
+  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 2: <em>Žołta barba pokaza disponujomnosć mjez 500 a 1700 <b>m</b> ³ .</em>
+  * <tt><a href="hsb-pos-X.html">X</a></tt> 1: <em>Nimo wokalow a / ā , i / ī , u / ū a diftongow o / au a e / ai so tež połwokale y a v jewja , nimo toho sanskrit sonantnej likwidaj ṛ a ḷ wužiwa , a tež nazalaj <b>m</b> a n móžetej wokalisku funkciju měć .</em>
+* <em>Assyričenjo</em>
+  * <tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 3: <em>Tak wjele pozdźišo samo <b>Assyričenjo</b> w swojich stawiznach wo Sargonje rozprawichu .</em>
+  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1: <em><b>Assyričenjo</b> poněčim pismo a rěč wot Aramejčanow přejimachu .</em>
+* <em>Babylon</em>
+  * <tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 4: <em>Po spadźe Assyriskeje <b>Babylon</b> zaso na mocy naby .</em>
+  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1: <em><b>Babylon</b> připadny w lěće 31 krala Šamšu - ditana k Hetitam pod Muršili I .</em>
+* <em>Hammurabi</em>
+  * <tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 4: <em>Hammurabi je znaty , dokelž spisa jednu z prěnich traděrowanych zběrkow zakonjow , tak mjenowany kodeks <b>Hammurabi</b> .</em>
+  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1: <em><b>Hammurabi</b> je znaty , dokelž spisa jednu z prěnich traděrowanych zběrkow zakonjow , tak mjenowany kodeks Hammurabi .</em>
+* <em>Mezopotamiska</em>
+  * <tt><a href="hsb-pos-PROPN.html">PROPN</a></tt> 6: <em><b>Mezopotamiska</b> wikowaše ze susodnymi krajemi .</em>
+  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 1: <em><b>Mezopotamiska</b> ( grjeksce : Μεσοποταμία Mesopotamia , aramejsce : ܒܝܬܢܗܪܝܢ Beth Nahrin , kurdisce : Mezopotamya arabsce : بلاد مابين النهرين Bilād mā bain an - Nahrain ) woznamjenja ( kraj ) mjez ( dwěmaj ) rěkomaj abo tež krótko Mjezyrěčina a woznamjenja w historiskim zmysle kónčinu dólnych runinow mjez rěkomaj Eufratom a Tigrisom , w kotrejž měšćanske staty Sumeričanow , Babylonjanow , Aramejčanow a Assyričanow ležachu .</em>
 
 ## Morphology
 
 The form / lemma ratio of `NOUN` is 1.506986 (the average of all parts of speech is 1.408237).
 
-The 1st highest number of forms (9) was observed with the lemma “kraj”: kraj, kraja, krajach, krajam, kraje, krajemi, krajom, krajow, kraju.
+The 1st highest number of forms (9) was observed with the lemma “kraj”: <em>kraj, kraja, krajach, krajam, kraje, krajemi, krajom, krajow, kraju</em>.
 
-The 2nd highest number of forms (8) was observed with the lemma “lěto”: lět, lěta, lětach, lěto, lětomaj, lětow, lětu, lěće.
+The 2nd highest number of forms (8) was observed with the lemma “lěto”: <em>lět, lěta, lětach, lěto, lětomaj, lětow, lětu, lěće</em>.
 
-The 3rd highest number of forms (7) was observed with the lemma “kral”: Kralej, Kralojo, kral, krala, kralemi, kralom, kralow.
+The 3rd highest number of forms (7) was observed with the lemma “kral”: <em>Kralej, Kralojo, kral, krala, kralemi, kralom, kralow</em>.
 
 `NOUN` occurs with 6 features: <tt><a href="hsb-feat-Number.html">Number</a></tt> (2423; 99% instances), <tt><a href="hsb-feat-Gender.html">Gender</a></tt> (2421; 99% instances), <tt><a href="hsb-feat-Case.html">Case</a></tt> (2418; 99% instances), <tt><a href="hsb-feat-Animacy.html">Animacy</a></tt> (1095; 45% instances), <tt><a href="hsb-feat-Abbr.html">Abbr</a></tt> (74; 3% instances), <tt><a href="hsb-feat-NumType.html">NumType</a></tt> (5; 0% instances)
 
@@ -65,7 +65,7 @@ The 3rd highest number of forms (7) was observed with the lemma “kral”: Kral
 
 `NOUN` occurs with 85 feature combinations.
 The most frequent feature combination is `Case=Nom|Gender=Fem|Number=Sing` (228 tokens).
-Examples: woda stolica rěč dołhosć biologija systematika diskusija kategorija Lisćina biblioteka
+Examples: <em>woda, stolica, rěč, dołhosć, biologija, systematika, diskusija, kategorija, Lisćina, biblioteka</em>
 
 
 ## Relations

@@ -22,9 +22,9 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 
 `ADJ` tokens may have the following values of `Voice`:
 
-* `Act` (24; 13% of non-empty `Voice`): přiběracu wušłe Bywša Přiběrace Rozrostowace Slědowace běžace dalokosahace ekspandowaceho florěrowace
-* `Pass` (161; 87% of non-empty `Voice`): mjenowany mjenowanych namakane rozdźělene Zjednoćenych listowany mjenowane natwarjene pisane přełožena
-* `EMPTY` (1191): serbski druhe druhich najwjetše serbskeje Serbskeho prěni prěnje wulke wulki
+* `Act` (24; 13% of non-empty `Voice`): <em>přiběracu, wušłe, Bywša, Přiběrace, Rozrostowace, Slědowace, běžace, dalokosahace, ekspandowaceho, florěrowace</em>
+* `Pass` (161; 87% of non-empty `Voice`): <em>mjenowany, mjenowanych, namakane, rozdźělene, Zjednoćenych, listowany, mjenowane, natwarjene, pisane, přełožena</em>
+* `EMPTY` (1191): <em>serbski, druhe, druhich, najwjetše, serbskeje, Serbskeho, prěni, prěnje, wulke, wulki</em>
 
 `Voice` seems to be **lexical feature** of `ADJ`. 100% lemmas (130) occur only with one value of `Voice`.
 
@@ -32,13 +32,13 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 
 49 <tt><a href="hsb-pos-VERB.html">VERB</a></tt> tokens (6% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (49; 100%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (47; 96%), <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (47; 96%), <tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (47; 96%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (28; 57%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (49; 100%), <tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (47; 96%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (47; 96%), <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (47; 96%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (28; 57%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (47; 96% of non-empty `Voice`): přewzali wužiwali započał změnili dodźeržała eksistowali ilustrował kontrolowali mał mjenował
-* `Pass` (2; 4% of non-empty `Voice`): bu
-* `EMPTY` (731): ma leži móže wobsahuje móžeš hlej su maja rěči běchu
+* `Act` (47; 96% of non-empty `Voice`): <em>přewzali, wužiwali, započał, změnili, dodźeržała, eksistowali, ilustrował, kontrolowali, mał, mjenował</em>
+* `Pass` (2; 4% of non-empty `Voice`): <em>bu</em>
+* `EMPTY` (731): <em>ma, leži, móže, wobsahuje, móžeš, hlej, su, maja, rěči, běchu</em>
 
 `Voice` seems to be **lexical feature** of `VERB`. 100% lemmas (40) occur only with one value of `Voice`.
 
@@ -50,24 +50,24 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 
 `AUX` tokens may have the following values of `Voice`:
 
-* `Act` (2; 5% of non-empty `Voice`): był była
-* `Pass` (42; 95% of non-empty `Voice`): bu buchu buštej
-* `EMPTY` (241): je su bě njeje by njejsu běchu stej bu bychu
+* `Act` (2; 5% of non-empty `Voice`): <em>był, była</em>
+* `Pass` (42; 95% of non-empty `Voice`): <em>bu, buchu, buštej</em>
+* `EMPTY` (241): <em>je, su, bě, njeje, by, njejsu, běchu, stej, bu, bychu</em>
 
 <table>
   <tr><th>Paradigm <i>być</i></th><th><tt>Act</tt></th><th><tt>Pass</tt></th></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td>był</td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td>była</td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td>bu</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td>buštej</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td>buchu</td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td>buchu</td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>był</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>była</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>bu</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>buštej</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>buchu</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>buchu</em></td></tr>
 </table>
 
 ## Relations with Agreement in `Voice`
 
 The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>ADJ --[<tt><a href="hsb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (4; 57%),
-<tt>VERB --[<tt><a href="hsb-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (1; 100%),
-<tt>ADJ --[<tt><a href="hsb-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (1; 100%).
+<tt>ADJ --[<tt><a href="hsb-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (1; 100%),
+<tt>VERB --[<tt><a href="hsb-dep-parataxis.html">parataxis</a></tt>]--> ADJ</tt> (1; 100%).
 

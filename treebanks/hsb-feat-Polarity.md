@@ -18,12 +18,12 @@ The feature is used with 5 part-of-speech tags: <tt><a href="hsb-pos-VERB.html">
 
 27 <tt><a href="hsb-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (27; 100%), <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (27; 100%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt> (25; 93%), <tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (18; 67%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17; 63%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (27; 100%), <tt><a href="hsb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (27; 100%), <tt><a href="hsb-feat-Person.html">Person</a></tt><tt>=3</tt> (25; 93%), <tt><a href="hsb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (18; 67%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17; 63%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
-* `Neg` (27; 100% of non-empty `Polarity`): njeje njesłuša Njewědźeše Njewěm njeběchu njefunguja njeliča njeliči njemóže njemóžeše
-* `EMPTY` (753): ma leži móže wobsahuje móžeš hlej su maja rěči běchu
+* `Neg` (27; 100% of non-empty `Polarity`): <em>njeje, njesłuša, Njewědźeše, Njewěm, njeběchu, njefunguja, njeliča, njeliči, njemóže, njemóžeše</em>
+* `EMPTY` (753): <em>ma, leži, móže, wobsahuje, móžeš, hlej, su, maja, rěči, běchu</em>
 
 `Polarity` seems to be **lexical feature** of `VERB`. 100% lemmas (17) occur only with one value of `Polarity`.
 
@@ -35,19 +35,8 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 `AUX` tokens may have the following values of `Polarity`:
 
-* `Neg` (17; 100% of non-empty `Polarity`): njeje njejsu njebuchu njesu
-* `EMPTY` (268): je su bu bě buchu by běchu buštej stej bychu
-
-### `ADJ`
-
-10 <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Polarity`.
-
-The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (8; 80%), <tt><a href="hsb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (8; 80%), <tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7; 70%), <tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7; 70%), <tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (7; 70%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6; 60%), <tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6; 60%).
-
-`ADJ` tokens may have the following values of `Polarity`:
-
-* `Neg` (10; 100% of non-empty `Polarity`): njedemokratiska njeparujomna njeparujomny njeprawe njepřizjewjene njerozpušćomny njewonjaty njewotemrěne njewotwisnych nježiwych
-* `EMPTY` (1366): serbski druhe druhich najwjetše serbskeje Serbskeho prěni prěnje wulke wulki
+* `Neg` (17; 100% of non-empty `Polarity`): <em>njeje, njejsu, njebuchu, njesu</em>
+* `EMPTY` (268): <em>je, su, bu, bě, buchu, by, běchu, buštej, stej, bychu</em>
 
 ### `PART`
 
@@ -55,8 +44,19 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 
 `PART` tokens may have the following values of `Polarity`:
 
-* `Neg` (10; 100% of non-empty `Polarity`): nic
-* `EMPTY` (13): jenož hakle
+* `Neg` (10; 100% of non-empty `Polarity`): <em>nic</em>
+* `EMPTY` (13): <em>jenož, hakle</em>
+
+### `ADJ`
+
+10 <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Polarity`.
+
+The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="hsb-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (8; 80%), <tt><a href="hsb-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (8; 80%), <tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (7; 70%), <tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7; 70%), <tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (7; 70%), <tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6; 60%), <tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6; 60%).
+
+`ADJ` tokens may have the following values of `Polarity`:
+
+* `Neg` (10; 100% of non-empty `Polarity`): <em>njedemokratiska, njeparujomna, njeparujomny, njeprawe, njepřizjewjene, njerozpušćomny, njewonjaty, njewotemrěne, njewotwisnych, nježiwych</em>
+* `EMPTY` (1366): <em>serbski, druhe, druhich, najwjetše, serbskeje, Serbskeho, prěni, prěnje, wulke, wulki</em>
 
 ### `ADV`
 
@@ -66,6 +66,6 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 
 `ADV` tokens may have the following values of `Polarity`:
 
-* `Neg` (2; 100% of non-empty `Polarity`): njederje njesamostatnje
-* `EMPTY` (519): tež tak zwjetša hišće wjele něhdźe hižo tu wjace najprjedy
+* `Neg` (2; 100% of non-empty `Polarity`): <em>njederje, njesamostatnje</em>
+* `EMPTY` (519): <em>tež, tak, zwjetša, hišće, wjele, něhdźe, hižo, tu, wjace, najprjedy</em>
 

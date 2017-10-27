@@ -9,48 +9,48 @@ udver: '2'
 There are 26 `DET` lemmas (1%), 76 `DET` types (2%) and 294 `DET` tokens (3%).
 Out of 16 observed tags, the rank of `DET` is: 9 in number of lemmas, 8 in number of types and 11 in number of tokens.
 
-The 10 most frequent `DET` lemmas: kotryž tutón naš swój wšě jeho jich někotry tón žadyn
+The 10 most frequent `DET` lemmas: <em>kotryž, tutón, naš, swój, wšě, jeho, jich, někotry, tón, žadyn</em>
 
-The 10 most frequent `DET` types:  n kotrež jeho jich tute kotryž tutón kotraž swoje tuta
+The 10 most frequent `DET` types:  <em>n, kotrež, jeho, jich, tute, kotryž, tutón, kotraž, swoje, tuta</em>
 
-The 10 most frequent ambiguous lemmas: kotryž (<tt><a href="hsb-pos-DET.html">DET</a></tt> 69, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 3), wšelaki (<tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="hsb-pos-DET.html">DET</a></tt> 2), mnoho (<tt><a href="hsb-pos-ADV.html">ADV</a></tt> 6, <tt><a href="hsb-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>kotryž</em> (<tt><a href="hsb-pos-DET.html">DET</a></tt> 69, <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 3), <em>wšelaki</em> (<tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="hsb-pos-DET.html">DET</a></tt> 2), <em>mnoho</em> (<tt><a href="hsb-pos-ADV.html">ADV</a></tt> 6, <tt><a href="hsb-pos-DET.html">DET</a></tt> 1)
 
-The 10 most frequent ambiguous types:  n (<tt><a href="hsb-pos-DET.html">DET</a></tt> 35, <tt><a href="hsb-pos-X.html">X</a></tt> 2, <tt><a href="hsb-pos-ADP.html">ADP</a></tt> 2), jeho (<tt><a href="hsb-pos-DET.html">DET</a></tt> 7, <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 2), jeje (<tt><a href="hsb-pos-DET.html">DET</a></tt> 3, <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 1), kotřiž (<tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="hsb-pos-DET.html">DET</a></tt> 2), tym (<tt><a href="hsb-pos-PRON.html">PRON</a></tt> 15, <tt><a href="hsb-pos-DET.html">DET</a></tt> 2), wšelake (<tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="hsb-pos-DET.html">DET</a></tt> 2), tu (<tt><a href="hsb-pos-ADV.html">ADV</a></tt> 8, <tt><a href="hsb-pos-X.html">X</a></tt> 1, <tt><a href="hsb-pos-DET.html">DET</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>n</em> (<tt><a href="hsb-pos-DET.html">DET</a></tt> 35, <tt><a href="hsb-pos-X.html">X</a></tt> 2, <tt><a href="hsb-pos-ADP.html">ADP</a></tt> 2), <em>jeho</em> (<tt><a href="hsb-pos-DET.html">DET</a></tt> 7, <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 2), <em>jeje</em> (<tt><a href="hsb-pos-DET.html">DET</a></tt> 3, <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 1), <em>kotřiž</em> (<tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="hsb-pos-DET.html">DET</a></tt> 2), <em>tym</em> (<tt><a href="hsb-pos-PRON.html">PRON</a></tt> 15, <tt><a href="hsb-pos-DET.html">DET</a></tt> 2), <em>wšelake</em> (<tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="hsb-pos-DET.html">DET</a></tt> 2), <em>tu</em> (<tt><a href="hsb-pos-ADV.html">ADV</a></tt> 8, <tt><a href="hsb-pos-DET.html">DET</a></tt> 1, <tt><a href="hsb-pos-X.html">X</a></tt> 1)
 
 
-* n
-  * <tt><a href="hsb-pos-DET.html">DET</a></tt> 35: Klinowe pismo docpě wo 2700 př . <b>n</b> . l . swoju dokonjanosć .
-  * <tt><a href="hsb-pos-X.html">X</a></tt> 2: Lokalne adwerby móža akuzatiwny <b>n</b> měć , hdyž směr zwuraznjeja , na př . tie " tam , tamle " - tien " tam " .
-  * <tt><a href="hsb-pos-ADP.html">ADP</a></tt> 2: Stolica abo hłowne město je politiski , husto tež stawizniski centrum kraja abo stata a tuž zwjetša sydło najwyšich politiskich institucijow , kaž <b>n</b> . př . knježerstwa , sejma abo monarcha .
-* jeho
-  * <tt><a href="hsb-pos-DET.html">DET</a></tt> 7: Z <b>jeho</b> smjerću so tak mjenowane srjedźoassyriske mócnarstwo skónči .
-  * <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 2: Mróz a dešć běštej <b>jeho</b> wučerpałoj , tola wón so njepohnu .
-* jeje
-  * <tt><a href="hsb-pos-DET.html">DET</a></tt> 3: Čerstwa woda je najhusćiša při 4 ° C ; <b>jeje</b> hustosć wotewza , hdyž mjerznje abo so zhrěje .
-  * <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 1: Rotaciska wóska zemje njeje zrunana k ekliptice , ale ma k <b>jeje</b> padorunje nuhel wot něhdźe 23 ° 26 ' .
-* kotřiž
-  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 3: Ale tež eksistuja žiwochi , <b>kotřiž</b> njetrjebaja kislik , předewšěm při jednobańkowcach .
-  * <tt><a href="hsb-pos-DET.html">DET</a></tt> 2: Tež w Babylonje běchu wliwapołni překupcy , <b>kotřiž</b> ze swojimi swójbami hotowe dynastije tworjachu .
-* tym
-  * <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 15: Pomhaj Wikipediju , z <b>tym</b> ty jón rozšěriš a nětko wudospołniš .
-  * <tt><a href="hsb-pos-DET.html">DET</a></tt> 2: Etat stata bě identiski z <b>tym</b> knježićela , tutón hospodarski system rěka oikosowe hospodarstwo .
-* wšelake
-  * <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 2: Hodźi so jenakorazny , zwjetša nic dokładnje jenaki system ablawtowych rjadow wobkedźbować , dokelž su so <b>wšelake</b> zwukowe přesunjenja stali .
-  * <tt><a href="hsb-pos-DET.html">DET</a></tt> 2: Zelene rostliny , <b>wšelake</b> algi , ale tež někotre jednobańkowcy płodźa jón přez rozpačenje wot wody .
-* tu
-  * <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 8: Jejkowe bańki zawostawaja w archegonijach a so <b>tu</b> wopłodźuja .
-  * <tt><a href="hsb-pos-X.html">X</a></tt> 1: Serbski institut kooperuje z druhimi wědomostnymi zarjadnišćemi w <b>tu</b> - a wukraju .
-  * <tt><a href="hsb-pos-DET.html">DET</a></tt> 1: Samotar narysowa na pěskojte dno smuhu a praji : » Přez <b>tu</b> smuhu njesměš . «
+* <em>n</em>
+  * <tt><a href="hsb-pos-DET.html">DET</a></tt> 35: <em>Klinowe pismo docpě wo 2700 př . <b>n</b> . l . swoju dokonjanosć .</em>
+  * <tt><a href="hsb-pos-X.html">X</a></tt> 2: <em>Lokalne adwerby móža akuzatiwny <b>n</b> měć , hdyž směr zwuraznjeja , na př . tie " tam , tamle " - tien " tam " .</em>
+  * <tt><a href="hsb-pos-ADP.html">ADP</a></tt> 2: <em>Stolica abo hłowne město je politiski , husto tež stawizniski centrum kraja abo stata a tuž zwjetša sydło najwyšich politiskich institucijow , kaž <b>n</b> . př . knježerstwa , sejma abo monarcha .</em>
+* <em>jeho</em>
+  * <tt><a href="hsb-pos-DET.html">DET</a></tt> 7: <em>Z <b>jeho</b> smjerću so tak mjenowane srjedźoassyriske mócnarstwo skónči .</em>
+  * <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 2: <em>Mróz a dešć běštej <b>jeho</b> wučerpałoj , tola wón so njepohnu .</em>
+* <em>jeje</em>
+  * <tt><a href="hsb-pos-DET.html">DET</a></tt> 3: <em>Čerstwa woda je najhusćiša při 4 ° C ; <b>jeje</b> hustosć wotewza , hdyž mjerznje abo so zhrěje .</em>
+  * <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 1: <em>Rotaciska wóska zemje njeje zrunana k ekliptice , ale ma k <b>jeje</b> padorunje nuhel wot něhdźe 23 ° 26 ' .</em>
+* <em>kotřiž</em>
+  * <tt><a href="hsb-pos-NOUN.html">NOUN</a></tt> 3: <em>Ale tež eksistuja žiwochi , <b>kotřiž</b> njetrjebaja kislik , předewšěm při jednobańkowcach .</em>
+  * <tt><a href="hsb-pos-DET.html">DET</a></tt> 2: <em>Tež w Babylonje běchu wliwapołni překupcy , <b>kotřiž</b> ze swojimi swójbami hotowe dynastije tworjachu .</em>
+* <em>tym</em>
+  * <tt><a href="hsb-pos-PRON.html">PRON</a></tt> 15: <em>Pomhaj Wikipediju , z <b>tym</b> ty jón rozšěriš a nětko wudospołniš .</em>
+  * <tt><a href="hsb-pos-DET.html">DET</a></tt> 2: <em>Etat stata bě identiski z <b>tym</b> knježićela , tutón hospodarski system rěka oikosowe hospodarstwo .</em>
+* <em>wšelake</em>
+  * <tt><a href="hsb-pos-ADJ.html">ADJ</a></tt> 2: <em>Hodźi so jenakorazny , zwjetša nic dokładnje jenaki system ablawtowych rjadow wobkedźbować , dokelž su so <b>wšelake</b> zwukowe přesunjenja stali .</em>
+  * <tt><a href="hsb-pos-DET.html">DET</a></tt> 2: <em>Zelene rostliny , <b>wšelake</b> algi , ale tež někotre jednobańkowcy płodźa jón přez rozpačenje wot wody .</em>
+* <em>tu</em>
+  * <tt><a href="hsb-pos-ADV.html">ADV</a></tt> 8: <em>Jejkowe bańki zawostawaja w archegonijach a so <b>tu</b> wopłodźuja .</em>
+  * <tt><a href="hsb-pos-DET.html">DET</a></tt> 1: <em>Samotar narysowa na pěskojte dno smuhu a praji : » Přez <b>tu</b> smuhu njesměš . «</em>
+  * <tt><a href="hsb-pos-X.html">X</a></tt> 1: <em>Serbski institut kooperuje z druhimi wědomostnymi zarjadnišćemi w <b>tu</b> - a wukraju .</em>
 
 ## Morphology
 
 The form / lemma ratio of `DET` is 2.923077 (the average of all parts of speech is 1.408237).
 
-The 1st highest number of forms (10) was observed with the lemma “kotryž”: kotraž, kotrehož, kotrejež, kotrejž, kotrež, kotrychž, kotrymiž, kotrymž, kotryž, kotřiž.
+The 1st highest number of forms (10) was observed with the lemma “kotryž”: <em>kotraž, kotrehož, kotrejež, kotrejž, kotrež, kotrychž, kotrymiž, kotrymž, kotryž, kotřiž</em>.
 
-The 2nd highest number of forms (10) was observed with the lemma “tutón”: tuta, tute, tuteho, tutej, tuteje, tutoho, tutu, tutych, tutym, tutón.
+The 2nd highest number of forms (10) was observed with the lemma “tutón”: <em>tuta, tute, tuteho, tutej, tuteje, tutoho, tutu, tutych, tutym, tutón</em>.
 
-The 3rd highest number of forms (9) was observed with the lemma “swój”: swoje, swojeho, swojej, swojeje, swojemu, swojich, swojimi, swoju, swój.
+The 3rd highest number of forms (9) was observed with the lemma “swój”: <em>swoje, swojeho, swojej, swojeje, swojemu, swojich, swojimi, swoju, swój</em>.
 
 `DET` occurs with 12 features: <tt><a href="hsb-feat-PronType.html">PronType</a></tt> (289; 98% instances), <tt><a href="hsb-feat-Case.html">Case</a></tt> (259; 88% instances), <tt><a href="hsb-feat-Number.html">Number</a></tt> (259; 88% instances), <tt><a href="hsb-feat-Gender.html">Gender</a></tt> (254; 86% instances), <tt><a href="hsb-feat-Poss.html">Poss</a></tt> (104; 35% instances), <tt><a href="hsb-feat-Animacy.html">Animacy</a></tt> (83; 28% instances), <tt><a href="hsb-feat-Number-psor.html">Number[psor]</a></tt> (75; 26% instances), <tt><a href="hsb-feat-Person.html">Person</a></tt> (75; 26% instances), <tt><a href="hsb-feat-Abbr.html">Abbr</a></tt> (35; 12% instances), <tt><a href="hsb-feat-Reflex.html">Reflex</a></tt> (29; 10% instances), <tt><a href="hsb-feat-Gender-psor.html">Gender[psor]</a></tt> (18; 6% instances), <tt><a href="hsb-feat-NumType.html">NumType</a></tt> (4; 1% instances)
 
@@ -58,7 +58,7 @@ The 3rd highest number of forms (9) was observed with the lemma “swój”: swo
 
 `DET` occurs with 119 feature combinations.
 The most frequent feature combination is `Abbr=Yes|Case=Ins|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs` (29 tokens).
-Examples: n
+Examples: <em>n</em>
 
 
 ## Relations

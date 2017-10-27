@@ -22,6 +22,6 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 
 `DET` tokens may have the following values of `Poss`:
 
-* `Yes` (104; 100% of non-empty `Poss`): n jeho jich swoje swoju jeje swojich swojimi swój Naš
-* `EMPTY` (190): kotrež tute kotryž tutón kotraž tuta wšě někotrych kotrychž někotre
+* `Yes` (104; 100% of non-empty `Poss`): <em>n, jeho, jich, swoje, swoju, jeje, swojich, swojimi, swój, Naš</em>
+* `EMPTY` (190): <em>kotrež, tute, kotryž, tutón, kotraž, tuta, wšě, někotrych, kotrychž, někotre</em>
 

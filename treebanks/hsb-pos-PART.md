@@ -9,9 +9,9 @@ udver: '2'
 There are 3 `PART` lemmas (0%), 3 `PART` types (0%) and 23 `PART` tokens (0%).
 Out of 16 observed tags, the rank of `PART` is: 15 in number of lemmas, 16 in number of types and 16 in number of tokens.
 
-The 10 most frequent `PART` lemmas: jenož nic hakle
+The 10 most frequent `PART` lemmas: <em>jenož, nic, hakle</em>
 
-The 10 most frequent `PART` types:  jenož nic hakle
+The 10 most frequent `PART` types:  <em>jenož, nic, hakle</em>
 
 The 10 most frequent ambiguous lemmas: 
 
@@ -23,11 +23,11 @@ The 10 most frequent ambiguous types:
 
 The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.408237).
 
-The 1st highest number of forms (1) was observed with the lemma “hakle”: hakle.
+The 1st highest number of forms (1) was observed with the lemma “hakle”: <em>hakle</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “jenož”: jenož.
+The 2nd highest number of forms (1) was observed with the lemma “jenož”: <em>jenož</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “nic”: nic.
+The 3rd highest number of forms (1) was observed with the lemma “nic”: <em>nic</em>.
 
 `PART` occurs with 1 features: <tt><a href="hsb-feat-Polarity.html">Polarity</a></tt> (10; 43% instances)
 
@@ -35,7 +35,7 @@ The 3rd highest number of forms (1) was observed with the lemma “nic”: nic.
 
 `PART` occurs with 2 feature combinations.
 The most frequent feature combination is `_` (13 tokens).
-Examples: jenož hakle
+Examples: <em>jenož, hakle</em>
 
 
 ## Relations

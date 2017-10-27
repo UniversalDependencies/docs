@@ -9,28 +9,28 @@ udver: '2'
 There are 10 `SCONJ` lemmas (0%), 10 `SCONJ` types (0%) and 147 `SCONJ` tokens (1%).
 Out of 16 observed tags, the rank of `SCONJ` is: 12 in number of lemmas, 14 in number of types and 14 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: jako hač zo kaž dokelž jeli hdyž doniž li hačrunjež
+The 10 most frequent `SCONJ` lemmas: <em>jako, hač, zo, kaž, dokelž, jeli, hdyž, doniž, li, hačrunjež</em>
 
-The 10 most frequent `SCONJ` types:  jako hač zo kaž dokelž Jeli hdyž doniž li Hačrunjež
+The 10 most frequent `SCONJ` types:  <em>jako, hač, zo, kaž, dokelž, Jeli, hdyž, doniž, li, Hačrunjež</em>
 
-The 10 most frequent ambiguous lemmas: hač (<tt><a href="hsb-pos-SCONJ.html">SCONJ</a></tt> 27, <tt><a href="hsb-pos-CCONJ.html">CCONJ</a></tt> 7)
+The 10 most frequent ambiguous lemmas: <em>hač</em> (<tt><a href="hsb-pos-SCONJ.html">SCONJ</a></tt> 27, <tt><a href="hsb-pos-CCONJ.html">CCONJ</a></tt> 7)
 
-The 10 most frequent ambiguous types:  hač (<tt><a href="hsb-pos-SCONJ.html">SCONJ</a></tt> 26, <tt><a href="hsb-pos-CCONJ.html">CCONJ</a></tt> 7)
+The 10 most frequent ambiguous types:  <em>hač</em> (<tt><a href="hsb-pos-SCONJ.html">SCONJ</a></tt> 26, <tt><a href="hsb-pos-CCONJ.html">CCONJ</a></tt> 7)
 
 
-* hač
-  * <tt><a href="hsb-pos-SCONJ.html">SCONJ</a></tt> 26: Kraj podleži <b>hač</b> do 1960 francoskemu kolonialnemu knjejstwu .
-  * <tt><a href="hsb-pos-CCONJ.html">CCONJ</a></tt> 7: Wón je dołho - špindlojty <b>hač</b> krótko - boblojty .
+* <em>hač</em>
+  * <tt><a href="hsb-pos-SCONJ.html">SCONJ</a></tt> 26: <em>Kraj podleži <b>hač</b> do 1960 francoskemu kolonialnemu knjejstwu .</em>
+  * <tt><a href="hsb-pos-CCONJ.html">CCONJ</a></tt> 7: <em>Wón je dołho - špindlojty <b>hač</b> krótko - boblojty .</em>
 
 ## Morphology
 
 The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.408237).
 
-The 1st highest number of forms (1) was observed with the lemma “dokelž”: dokelž.
+The 1st highest number of forms (1) was observed with the lemma “dokelž”: <em>dokelž</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “doniž”: doniž.
+The 2nd highest number of forms (1) was observed with the lemma “doniž”: <em>doniž</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “hač”: hač.
+The 3rd highest number of forms (1) was observed with the lemma “hač”: <em>hač</em>.
 
 `SCONJ` does not occur with any features.
 

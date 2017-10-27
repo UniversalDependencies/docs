@@ -23,12 +23,12 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (56; 18% of non-empty `PronType`): to toho tym tomu t
-* `Neg` (1; 0% of non-empty `PronType`): ničo
-* `Prs` (245; 78% of non-empty `PronType`): so wona wón je wone wono jón sej Woni jeho
-* `Rel` (11; 4% of non-empty `PronType`): kiž čimž štož
-* `Tot` (1; 0% of non-empty `PronType`): wšitko
-* `EMPTY` (5): kiž t
+* `Dem` (56; 18% of non-empty `PronType`): <em>to, toho, tym, tomu, t</em>
+* `Neg` (1; 0% of non-empty `PronType`): <em>ničo</em>
+* `Prs` (245; 78% of non-empty `PronType`): <em>so, wona, wón, je, wone, wono, jón, sej, Woni, jeho</em>
+* `Rel` (11; 4% of non-empty `PronType`): <em>kiž, čimž, štož</em>
+* `Tot` (1; 0% of non-empty `PronType`): <em>wšitko</em>
+* `EMPTY` (5): <em>kiž, t</em>
 
 ### `DET`
 
@@ -38,13 +38,13 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 `DET` tokens may have the following values of `PronType`:
 
-* `Dem` (64; 22% of non-empty `PronType`): tute tutón tuta tutej tutu tutych tutym tych tutoho tym
-* `Ind` (19; 7% of non-empty `PronType`): někotrych někotre někotři wšelake kóždychžkuli mnoho někajke
-* `Neg` (7; 2% of non-empty `PronType`): žane žadyn žana žanu
-* `Prs` (103; 36% of non-empty `PronType`): n jeho jich swoje swoju jeje swojich swój Naš swojej
-* `Rel` (70; 24% of non-empty `PronType`): kotrež kotryž kotraž kotrychž kotrejž kotrymž kotřiž kajke kotrehož kotrejež
-* `Tot` (26; 9% of non-empty `PronType`): wšě wšěch kóžde kóždy Kóždu Wobě woběmaj wšeho wšemu wšitke
-* `EMPTY` (5): kotry n swojimi tudyšej tutej
+* `Dem` (64; 22% of non-empty `PronType`): <em>tute, tutón, tuta, tutej, tutu, tutych, tutym, tych, tutoho, tym</em>
+* `Ind` (19; 7% of non-empty `PronType`): <em>někotrych, někotre, někotři, wšelake, kóždychžkuli, mnoho, někajke</em>
+* `Neg` (7; 2% of non-empty `PronType`): <em>žane, žadyn, žana, žanu</em>
+* `Prs` (103; 36% of non-empty `PronType`): <em>n, jeho, jich, swoje, swoju, jeje, swojich, swój, Naš, swojej</em>
+* `Rel` (70; 24% of non-empty `PronType`): <em>kotrež, kotryž, kotraž, kotrychž, kotrejž, kotrymž, kotřiž, kajke, kotrehož, kotrejež</em>
+* `Tot` (26; 9% of non-empty `PronType`): <em>wšě, wšěch, kóžde, kóždy, Kóždu, Wobě, woběmaj, wšeho, wšemu, wšitke</em>
+* `EMPTY` (5): <em>kotry, n, swojimi, tudyšej, tutej</em>
 
 `PronType` seems to be **lexical feature** of `DET`. 100% lemmas (24) occur only with one value of `PronType`.
 
@@ -56,12 +56,12 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 `ADV` tokens may have the following values of `PronType`:
 
-* `Dem` (70; 53% of non-empty `PronType`): tak tu potom tam nětko tohodla potajkim Pódla Tuchwilu to
-* `Ind` (56; 42% of non-empty `PronType`): něhdźe wjele druhdy wjace mjenje něhdy tróšku najwjace mjeńše
-* `Int,Rel` (4; 3% of non-empty `PronType`): kak
-* `Neg` (1; 1% of non-empty `PronType`): nihdźe
-* `Rel` (2; 2% of non-empty `PronType`): hdźež čehoždla
-* `EMPTY` (388): tež zwjetša hišće hižo najprjedy zaso němsce přeco často bóle
+* `Dem` (70; 53% of non-empty `PronType`): <em>tak, tu, potom, tam, nětko, tohodla, potajkim, Pódla, Tuchwilu, to</em>
+* `Ind` (56; 42% of non-empty `PronType`): <em>něhdźe, wjele, druhdy, wjace, mjenje, něhdy, tróšku, najwjace, mjeńše</em>
+* `Int,Rel` (4; 3% of non-empty `PronType`): <em>kak</em>
+* `Neg` (1; 1% of non-empty `PronType`): <em>nihdźe</em>
+* `Rel` (2; 2% of non-empty `PronType`): <em>hdźež, čehoždla</em>
+* `EMPTY` (388): <em>tež, zwjetša, hišće, hižo, najprjedy, zaso, němsce, přeco, často, bóle</em>
 
 `PronType` seems to be **lexical feature** of `ADV`. 100% lemmas (29) occur only with one value of `PronType`.
 
