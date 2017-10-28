@@ -45,7 +45,7 @@ udver: '2'
 ### Nominal Features
 
 * Nominal words ([NOUN](), [PROPN]() and [PRON]()) have an inherent [Gender]() feature with one of three values: `Masc`, `Fem` or `Neut`.
-  * The following parts of speech inflect for `Gender` and `Animacy` because they must agree with nouns: [ADJ](), [DET](),
+  * The following parts of speech inflect for `Gender` because they must agree with nouns: [ADJ](), [DET](),
     [VERB](), [AUX](). For verbs (including auxiliaries), only participles can inflect for gender. Finite verbs don't.
 * The two main values of the [Number]() feature are `Sing` and `Plur`. The following parts of speech inflect for number:
   [NOUN](), [PROPN](), [PRON](), [ADJ](), [DET](), [VERB](), [AUX]() (finite and participles).
@@ -66,6 +66,8 @@ udver: '2'
   * In the subjunctive mood, the tense feature is used to distinguish Konjunktiv I (`Pres`) and Konjunktiv II (`Past`).
   * Imperative forms do not have the `Tense` feature.
   * The `Tense` feature is also used to distinguish present and past participles (_kommend_ “coming” vs. _gekommen_ “come”).
+* The features [Aspect]() and [Voice]() are not used in German because
+  both the perfect aspect and the passive voice are expressed periphrastically.
 
 ### Pronouns, Determiners, Quantifiers
 
