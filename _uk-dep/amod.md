@@ -23,7 +23,7 @@ amod(apple, green)
 <!--~~~-->
 
 ~~~ sdparse
-Ігор взяв десятитисячну позику . \n Igor has taken a ten-thousand loan .
+Ігор взяв десятитисячну позику . \n Igor has taken (a) ten-thousand loan .
 amod(позику, десятитисячну)
 amod(loan, ten-thousand)
 ~~~
