@@ -21,7 +21,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="de-pos-DET.html">DE
 
 1229 <tt><a href="de-pos-DET.html">DET</a></tt> tokens (3% of all `DET` tokens) have a non-empty value of `Gender[psor]`.
 
-The most frequent other feature values with which `DET` and `Gender[psor]` co-occurred: <tt><a href="de-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1229; 100%), <tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1229; 100%), <tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1229; 100%), <tt><a href="de-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1229; 100%), <tt><a href="de-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1229; 100%).
+The most frequent other feature values with which `DET` and `Gender[psor]` co-occurred: <tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1229; 100%), <tt><a href="de-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1229; 100%), <tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1229; 100%), <tt><a href="de-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1229; 100%), <tt><a href="de-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1229; 100%).
 
 `DET` tokens may have the following values of `Gender[psor]`:
 
@@ -30,7 +30,7 @@ The most frequent other feature values with which `DET` and `Gender[psor]` co-oc
 
 152 <tt><a href="de-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Gender[psor]`.
 
-The most frequent other feature values with which `PRON` and `Gender[psor]` co-occurred: <tt><a href="de-feat-Person.html">Person</a></tt><tt>=3</tt> (152; 100%), <tt><a href="de-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (152; 100%), <tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (152; 100%), <tt><a href="de-feat-Number.html">Number</a></tt><tt>=Sing</tt> (101; 66%).
+The most frequent other feature values with which `PRON` and `Gender[psor]` co-occurred: <tt><a href="de-feat-Person.html">Person</a></tt><tt>=3</tt> (152; 100%), <tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (152; 100%), <tt><a href="de-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (152; 100%), <tt><a href="de-feat-Number.html">Number</a></tt><tt>=Sing</tt> (101; 66%).
 
 `PRON` tokens may have the following values of `Gender[psor]`:
 

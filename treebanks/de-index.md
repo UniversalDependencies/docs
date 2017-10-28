@@ -27,14 +27,20 @@ Questions, comments?
 General annotation questions (either German-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_German/issues).
 If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&nbsp;mff&nbsp;•&nbsp;cuni&nbsp;•&nbsp;cz].
+Development of the treebank happens directly in the UD repository, so you may submit bug fixes as pull requests against the dev branch.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
-| XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Lemmas | assigned by a program, not checked manually |
+| UPOS | annotated manually in non-UD style, automatically converted to UD |
+| XPOS | assigned by a program, not checked manually |
+| Features | assigned by a program, not checked manually |
+| Relations | annotated manually in non-UD style, automatically converted to UD |
+
+The German UD is converted from the content head version of the universal
+dependency treebank v2.0 (legacy):
+
+https://code.google.com/p/uni-dep-tb/
 
 
 

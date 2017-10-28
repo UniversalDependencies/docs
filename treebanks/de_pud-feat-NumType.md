@@ -26,7 +26,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="de_pud-pos-NUM.html
 
 1 <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1; 100%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1; 100%), <tt><a href="de_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt> (1; 100%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="de_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1; 100%).
 
 `ADJ` tokens may have the following values of `NumType`:
 

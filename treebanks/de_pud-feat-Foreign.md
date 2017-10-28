@@ -14,16 +14,14 @@ It occurs with 1 different values: `Yes`.
 1 lemmas (17%) occur at least once with a non-empty value of `Foreign`.
 The feature is used with 3 part-of-speech tags: <tt><a href="de_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="de_pud-pos-X.html">X</a></tt> (1; 0% instances).
 
-### `NOUN`
+### `X`
 
-1 <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Foreign`.
+1 <tt><a href="de_pud-pos-X.html">X</a></tt> tokens (3% of all `X` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1; 100%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
+`X` tokens may have the following values of `Foreign`:
 
-`NOUN` tokens may have the following values of `Foreign`:
-
-* `Yes` (1; 100% of non-empty `Foreign`): <em>tipo</em>
-* `EMPTY` (4260): <em>Jahr, Jahre, Zeit, Jahren, Menschen, Regierung, Stadt, Geschichte, Teil, Jahrhundert</em>
+* `Yes` (1; 100% of non-empty `Foreign`): <em>mojorum</em>
+* `EMPTY` (30): <em>E, Multi, Bundes, Demografie, Druck, Einzel, Ex, Fjögur, Handels, Hey</em>
 
 ### `ADP`
 
@@ -34,14 +32,16 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 * `Yes` (1; 100% of non-empty `Foreign`): <em>de</em>
 * `EMPTY` (2042): <em>in, von, zu, mit, für, an, auf, nach, bei, über</em>
 
-### `X`
+### `NOUN`
 
-1 <tt><a href="de_pud-pos-X.html">X</a></tt> tokens (3% of all `X` tokens) have a non-empty value of `Foreign`.
+1 <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Foreign`.
 
-`X` tokens may have the following values of `Foreign`:
+The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1; 100%), <tt><a href="de_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="de_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%).
 
-* `Yes` (1; 100% of non-empty `Foreign`): <em>mojorum</em>
-* `EMPTY` (30): <em>E, Multi, Bundes, Demografie, Druck, Einzel, Ex, Fjögur, Handels, Hey</em>
+`NOUN` tokens may have the following values of `Foreign`:
+
+* `Yes` (1; 100% of non-empty `Foreign`): <em>tipo</em>
+* `EMPTY` (4260): <em>Jahr, Jahre, Zeit, Jahren, Menschen, Regierung, Stadt, Geschichte, Teil, Jahrhundert</em>
 
 ## Relations with Agreement in `Foreign`
 

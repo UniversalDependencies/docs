@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="de-pos-PRON.html">P
 
 2 <tt><a href="de-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Typo`.
 
-The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="de-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2; 100%), <tt><a href="de-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%).
+The most frequent other feature values with which `PRON` and `Typo` co-occurred: <tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2; 100%), <tt><a href="de-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="de-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2; 100%).
 
 `PRON` tokens may have the following values of `Typo`:
 

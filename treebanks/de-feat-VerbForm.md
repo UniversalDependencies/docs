@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="de-pos-VERB.html">V
 
 23915 <tt><a href="de-pos-VERB.html">VERB</a></tt> tokens (97% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (19137; 80%), <tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (19137; 80%), <tt><a href="de-feat-Person.html">Person</a></tt><tt>=3</tt> (13726; 57%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (19137; 80%), <tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (19137; 80%), <tt><a href="de-feat-Person.html">Person</a></tt><tt>=3</tt> (13726; 57%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
@@ -93,6 +93,6 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="de-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (126; 50%),
 <tt>VERB --[<tt><a href="de-dep-dep.html">dep</a></tt>]--> VERB</tt> (12; 63%),
 <tt>AUX --[<tt><a href="de-dep-conj.html">conj</a></tt>]--> AUX</tt> (9; 100%),
-<tt>VERB --[<tt><a href="de-dep-cc.html">cc</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="de-dep-xcomp.html">xcomp</a></tt>]--> AUX</tt> (1; 100%).
+<tt>VERB --[<tt><a href="de-dep-xcomp.html">xcomp</a></tt>]--> AUX</tt> (1; 100%),
+<tt>VERB --[<tt><a href="de-dep-cc.html">cc</a></tt>]--> VERB</tt> (1; 100%).
 

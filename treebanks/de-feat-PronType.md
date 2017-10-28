@@ -33,8 +33,8 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 <table>
   <tr><th>Paradigm <i>der</i></th><th><tt>Art</tt></th><th><tt>Rel</tt></th><th><tt>Dem</tt></th></tr>
-  <tr><td><tt>_</tt></td><td></td><td><em>deren, die, der, dem, dessen, das, den</em></td><td><em>deren, dessen, das, die, den, der</em></td></tr>
-  <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td></td><td><em>die, den, das</em></td><td></td></tr>
+  <tr><td><tt>_</tt></td><td></td><td><em>deren, die, dem, der, dessen, das, den</em></td><td><em>deren, dessen, das, die, der, den</em></td></tr>
+  <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td></td><td><em>das, den, die</em></td><td></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de-feat-Definite.html">Definite</a></tt><tt>=Def</tt></tt></td><td><em>die, das, den</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="de-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>dem</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="de-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>den</em></td><td></td><td></td></tr>
@@ -48,7 +48,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>die</em></td><td><em>die</em></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>das</em></td><td><em>das</em></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>das</em></td></tr>
-  <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>dessen, die</em></td><td><em>das, Die, dessen</em></td></tr>
+  <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>dessen, die</em></td><td><em>das, dessen, Die</em></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td></td><td><em>dem, der</em></td><td></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de-feat-Definite.html">Definite</a></tt><tt>=Def</tt></tt></td><td><em>dem, der, den</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="de-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>dem</em></td><td></td><td></td></tr>
@@ -70,7 +70,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="de-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>der, dem</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td></td><td><em>der, die</em></td><td><em>das</em></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de-feat-Definite.html">Definite</a></tt><tt>=Def</tt></tt></td><td><em>die, der, das</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="de-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>des, dem</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="de-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>dem, des</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="de-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>der, den</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="de-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>die, der, Das</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>die</em></td><td></td><td></td></tr>
@@ -132,6 +132,6 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>DET --[<tt><a href="de-dep-det.html">det</a></tt>]--> DET</tt> (1; 100%),
-<tt>PRON --[<tt><a href="de-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (1; 100%).
+<tt>PRON --[<tt><a href="de-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (1; 100%),
+<tt>DET --[<tt><a href="de-dep-det.html">det</a></tt>]--> DET</tt> (1; 100%).
 

@@ -41,7 +41,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 171 <tt><a href="de-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (171; 100%), <tt><a href="de-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (171; 100%), <tt><a href="de-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (171; 100%), <tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (139; 81%).
+The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="de-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (171; 100%), <tt><a href="de-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (171; 100%), <tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (171; 100%), <tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (139; 81%).
 
 `PRON` tokens may have the following values of `NumType`:
 
@@ -52,7 +52,7 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 
 1 <tt><a href="de-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (1; 100%), <tt><a href="de-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="de-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="de-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="de-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="de-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="de-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (1; 100%).
 
 `DET` tokens may have the following values of `NumType`:
 
@@ -67,8 +67,8 @@ The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<tt><a href="de-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (58; 100%),
 <tt>NUM --[<tt><a href="de-dep-compound.html">compound</a></tt>]--> NUM</tt> (27; 100%),
 <tt>NUM --[<tt><a href="de-dep-appos.html">appos</a></tt>]--> NUM</tt> (11; 100%),
-<tt>ADJ --[<tt><a href="de-dep-conj.html">conj</a></tt>]--> ADJ</tt> (4; 57%),
 <tt>NUM --[<tt><a href="de-dep-amod.html">amod</a></tt>]--> NUM</tt> (4; 100%),
+<tt>ADJ --[<tt><a href="de-dep-conj.html">conj</a></tt>]--> ADJ</tt> (4; 57%),
 <tt>NUM --[<tt><a href="de-dep-obj.html">obj</a></tt>]--> NUM</tt> (2; 100%),
 <tt>NUM --[<tt><a href="de-dep-dep.html">dep</a></tt>]--> NUM</tt> (1; 100%).
 

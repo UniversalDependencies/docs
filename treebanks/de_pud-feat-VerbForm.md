@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="de_pud-pos-VERB.htm
 
 58 <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> tokens (3% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (58; 100%), <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (58; 100%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (58; 100%), <tt><a href="de_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (39; 67%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (58; 100%), <tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (58; 100%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (58; 100%), <tt><a href="de_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (39; 67%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
@@ -30,7 +30,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 4 <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="de_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (3; 75%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="de_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (3; 75%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 

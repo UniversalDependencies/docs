@@ -19,7 +19,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="de-pos-VERB.html">V
 
 14223 <tt><a href="de-pos-VERB.html">VERB</a></tt> tokens (58% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="de-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14223; 100%), <tt><a href="de-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10041; 71%), <tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (9783; 69%), <tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (9783; 69%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="de-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (14223; 100%), <tt><a href="de-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10041; 71%), <tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (9783; 69%), <tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (9783; 69%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -116,7 +116,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 1795 <tt><a href="de-pos-DET.html">DET</a></tt> tokens (5% of all `DET` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1795; 100%), <tt><a href="de-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1795; 100%), <tt><a href="de-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1793; 100%), <tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1793; 100%), <tt><a href="de-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1793; 100%).
+The most frequent other feature values with which `DET` and `Person` co-occurred: <tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1795; 100%), <tt><a href="de-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1795; 100%), <tt><a href="de-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1793; 100%), <tt><a href="de-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1793; 100%), <tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1793; 100%).
 
 `DET` tokens may have the following values of `Person`:
 

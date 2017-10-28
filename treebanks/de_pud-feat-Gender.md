@@ -94,7 +94,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 1 <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="de_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1; 100%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="de_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="de_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="de_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="de_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (1; 100%).
 
 `AUX` tokens may have the following values of `Gender`:
 

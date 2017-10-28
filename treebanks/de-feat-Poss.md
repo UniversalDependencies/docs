@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="de-pos-DET.html">DE
 
 1795 <tt><a href="de-pos-DET.html">DET</a></tt> tokens (5% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="de-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1795; 100%), <tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1795; 100%), <tt><a href="de-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1793; 100%), <tt><a href="de-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1793; 100%), <tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1793; 100%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1795; 100%), <tt><a href="de-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1795; 100%), <tt><a href="de-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1793; 100%), <tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1793; 100%), <tt><a href="de-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1793; 100%).
 
 `DET` tokens may have the following values of `Poss`:
 
@@ -29,7 +29,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 
 604 <tt><a href="de-pos-PRON.html">PRON</a></tt> tokens (4% of all `PRON` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="de-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (604; 100%), <tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (604; 100%), <tt><a href="de-feat-Number.html">Number</a></tt><tt>=Sing</tt> (399; 66%).
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (604; 100%), <tt><a href="de-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (604; 100%), <tt><a href="de-feat-Number.html">Number</a></tt><tt>=Sing</tt> (399; 66%).
 
 `PRON` tokens may have the following values of `Poss`:
 
