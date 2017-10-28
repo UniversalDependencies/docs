@@ -133,7 +133,7 @@ udver: '2'
     or a noun phrase.
     In accord with the current UD guidelines, we label the relation
     between the verb and the clitic as [expl:pv](), not `compound`. Example: _wir müssen uns beeilen_ “we must hurry.”
-* In passive clauses (both reflexive and periphrastic passive), the subject is labeled with [nsubj:pass]() or [csubj:pass](), respectively.
+* In passive clauses, the subject is labeled with [nsubj:pass]() or [csubj:pass](), respectively.
   * The auxiliary verb in periphrastic passive is labeled [aux:pass]().
   * If the demoted agent is present, it has the form of a bare instrumental phrase and its relation is labeled [obl:agent]().
 
