@@ -46,7 +46,7 @@ ParTUT data can be downloaded [here](http://www.di.unito.it/~tutreeb/treebanks.h
 
 ## UD_Italian-PoSTWITA  
 
-PoSTWITA-UD was created by enriching the dataset used for the [EVALITA 2016 task of Part-of-Speech tagging of Social Media](http://www.evalita.it/2016/tasks/postwita) (see (Bosco et al. 2016)).
+PoSTWITA-UD was created by enriching the dataset used for the [EVALITA 2016 task of Part-of-Speech tagging of Social Media](http://www.evalita.it/2016/tasks/postwita) (Bosco et al. 2016).
 The original corpus consists of 6,438 tweets of the development set (114,967 tokens) and 300 tweets of the test set (4,759 tokens), annotated at PoS level only. 
 The conversion and syntactic annotation process was carried out through alternating steps of automatic scripting and manual revision, and finally with some out-of-domain parsing experiments. Parsing results also underwent a manual revision by two independent annotators.
 
