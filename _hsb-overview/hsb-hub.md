@@ -57,12 +57,12 @@ udver: '2'
   Feminine and neuter nominals do not distinguish animacy grammatically.
   * The following parts of speech inflect for `Gender` and `Animacy` because they must agree with nouns: [ADJ](), [DET](), [NUM](),
     [VERB](), [AUX](). For verbs (including auxiliaries), only participles inflect for gender. Finite verbs don't.
-* The two main values of the [Number]() feature are `Sing`, `Dual` and `Plur`. The following parts of speech inflect for number:
-  [NOUN](), [PROPN](), [PRON](), [ADJ](), [DET](), [VERB](), [AUX]() (finite, participles and converbs), marginally [NUM]().
+* The three main values of the [Number]() feature are `Sing`, `Dual` and `Plur`. The following parts of speech inflect for number:
+  [NOUN](), [PROPN](), [PRON](), [ADJ](), [DET](), [VERB](), [AUX]() (finite, participles and converbs).
   * Selected nouns are plurale tantum (`Ptan`) or singulare tantum (`Coll`). These two values are lexical and cannot be used with
     the agreeing adjectives, determiners or verbs. They also never occur with pronouns.
 * [Case]() has 7 possible values: `Nom`, `Gen`, `Dat`, `Acc`, `Voc`, `Loc`, `Ins`.
-  It occurs with the nominal words, i.e., [NOUN](), [PROPN](), [PRON](), [ADJ](), [DET](), [NUM]().
+  It occurs with the nominal words, i.e., [NOUN](), [PROPN](), [PRON](), [ADJ](), [DET](), and marginally [NUM]().
   It can occur with participles but only with those tagged as `ADJ`. It never occurs with verbs.
   * The `Case` feature also occurs with prepositions ([ADP]()). Here it is a lexical feature. Prepositions do not inflect for case
     but they subcategorize for the case of their noun phrase.
@@ -90,7 +90,7 @@ udver: '2'
   Note that `Tense=Pres` is also used with forms of perfective verbs, which are formally present, but semantically future.
   Hence both _du domoj_ “I am going home” and _přińdu domoj_ “I will come home” end up marked as `Tense=Pres`.
   On the other hand, a few imperfective verbs can form a genuine future form using prefixes, and they are marked `Tense=Fut`:
-  _póńdu domů_ “I will go home”.
+  _póńdu domoj_ “I will go home”.
   * Imperative and conditional forms do not have the `Tense` feature (note that past and present conditionals are distinguished
     analytically).
   * The `Tense` feature is also used to mark present adjectival participles (_dźěłacy_ “doing”).
@@ -190,10 +190,8 @@ udver: '2'
 
 ## Treebanks
 
-There are [five](../../treebanks/cs-comparison.html) Upper Sorbian UD treebanks:
+There is one Upper Sorbian UD treebank:
 
-  * [Upper Sorbian](../../treebanks/cs-index.html)
-  * [Upper Sorbian-CAC](../../treebanks/cs_cac-index.html)
-  * [Upper Sorbian-CLTT](../../treebanks/cs_cltt-index.html)
-  * [Upper Sorbian-FicTree](../../treebanks/cs_fictree-index.html)
-  * [Upper Sorbian-PUD](../../treebanks/cs_pud-index.html)
+  * [Upper Sorbian](../../treebanks/hsb-index.html)
+
+[Czech-Upper Sorbian comparison](../../treebanks/cs-hsb-comparison.html)
