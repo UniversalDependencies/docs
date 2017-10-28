@@ -30,17 +30,17 @@ amod(loan, ten-thousand)
 ~~~
 
 ~~~ sdparse
-Перший бігун був швидкий . \n (The) first racer was fast .
+Перший бігун був швидкий . \n The-first racer was fast .
 amod(бігун, Перший)
-amod(racer, First)
+amod(racer, The-first)
 nsubj(швидкий, бігун)
 nsubj(fast, racer)
 ~~~
 
 ~~~ sdparse
-Швидкий бігун був перший . \n (The) fast racer was first .
+Швидкий бігун був перший . \n The-fast racer was first .
 amod(бігун, Швидкий)
-amod(racer, Fast)
+amod(racer, The-fast)
 nsubj(перший, бігун)
 nsubj(first, racer)
 ~~~
