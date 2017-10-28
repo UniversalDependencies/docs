@@ -36,10 +36,11 @@ udver: '2'
   * _werden_ for future tense (_ich werde reisen_ “I will travel”) and for the passive (_es wurde gegessen_ “it was eaten”)
   * modal verbs _dürfen_ “may”, _können_ “can”, _mögen_ “want”, _müssen_ “must”, _sollen_ “shall”, _wollen_ “want”
   * The verbs _sein, haben_ and _werden_ can also occur as normal verbs ([VERB]()), meaning “be, have, become”.
-* There are three main (de)verbal forms, distinguished by the UPOS tag and the value of the [VerbForm]() feature:
+* There are four main (de)verbal forms, distinguished by the UPOS tag and the value of the [VerbForm]() feature:
   * Infinitive `Inf`, tagged [VERB]() or [AUX]().
   * Finite verb `Fin`, tagged [VERB]() or [AUX]().
   * Participle `Part`, tagged [VERB]() or [AUX]().
+  * Verbal noun `Vnoun`, tagged [NOUN](), looks like a capitalized infinitive but has an article and may inflect.
 
 ### Nominal Features
 
@@ -47,7 +48,7 @@ udver: '2'
   * The following parts of speech inflect for `Gender` and `Animacy` because they must agree with nouns: [ADJ](), [DET](),
     [VERB](), [AUX](). For verbs (including auxiliaries), only participles can inflect for gender. Finite verbs don't.
 * The two main values of the [Number]() feature are `Sing` and `Plur`. The following parts of speech inflect for number:
-  [NOUN](), [PROPN](), [PRON](), [ADJ](), [DET](), [VERB](), [AUX]() (finite, participles and converbs).
+  [NOUN](), [PROPN](), [PRON](), [ADJ](), [DET](), [VERB](), [AUX]() (finite and participles).
 * [Case]() has 4 possible values: `Nom`, `Gen`, `Dat`, `Acc`.
   It occurs with the nominal words, i.e., [NOUN](), [PROPN](), [PRON](), [ADJ](), [DET]().
   However, case forms of nouns are extremely ambiguous and most of the time the case is distinguished only by the form of the article.
@@ -69,85 +70,75 @@ udver: '2'
 ### Pronouns, Determiners, Quantifiers
 
 * [PronType]() is used with pronouns ([PRON]()), determiners ([DET]()) and adverbs ([ADV]()).
-* [NumType]() is used with numerals ([NUM]()), adjectives ([ADJ]()), determiners ([DET]()) and adverbs ([ADV]()).
-* The [Poss]() feature marks possessive personal determiners (e.g. _můj_ “my”),
-  possessive interrogative, indefinite or negative determiners (e.g. _čí_ “whose”),
-  possessive relative determiners (e.g. _jehož_ “whose”)
-  and possessive adjectives (e.g. _otcův_ “father's”).
-* The [Reflex]() feature marks reflexive pronouns _(se, si)_ and determiners _(svůj)_.
-  In German it is always used together with `PronType=Prs`.
+* [NumType]() is used with numerals ([NUM]()), adjectives ([ADJ]()) and determiners ([DET]()).
+* The [Poss]() feature marks possessive personal determiners (e.g. _mein_ “my”),
+  possessive interrogative or relative determiners (e.g. _wessen_ “whose”).
+* The [Reflex]() feature is always used together with `PronType=Prs` and it marks reflexive pronouns _(mich, dich, sich, uns, euch)._
+  Note that their forms in the first and second person are ambiguous with irreflexive accusative forms, and the `Reflex` feature
+  must be decided by context.
 * [Person]() is a lexical feature of personal pronouns ([PRON]()) and has three values, `1`, `2` and `3`.
   With personal possessive determiners ([DET]()), the feature actually encodes the person of the possessor.
   Person is not marked on other types of pronouns and on nouns, although they can be almost always interpreted as the 3rd person.
   * As a cross-reference to subject, person is also marked on finite verbs ([VERB](), [AUX]()).
+* The [Polite]() feature distinguishes informal second-person pronouns (_du, ihr,_ `Polite=Infm`)
+  from the formal _Sie_ (`Polite=Form`).
+  The formal pronoun is phonologically equivalent in all its case forms to the third-person plural _sie_
+  but it is distinguished in orthography by the capital letter _S._
+  We tag it as second person (because that is its meaning) and we do not tag its number (because it is used both
+  for singular and plural addressees) despite the fact that it combines with third-person plural verbs.
+  The parser must learn that `Person=2|Polite=Form` subject attaches to `Number=Plur|Person=3` verbs,
+  while `Number=Sing|Person=2|Polite=Infm` subject attaches to `Number=Sing|Person=2` verbs.
 * There are two [layered features](../../u/overview/feat-layers.html), [Gender[psor]]() and [Number[psor]]().
-  They appear with certain possessive adjectives and determiners and encode the lexical gender/number of the possessor.
+  They appear with certain possessive determiners and encode the lexical gender/number of the possessor.
   The extra layer is needed to distinguish these lexical features from the inflectional gender and number
   that mark agreement with the modified (possessed) noun.
 
 ### Other Features
 
 * Besides the layered features listed above, there are several other language-specific features:
-  * [NumForm]()
-  * [NumValue]()
-  * [NameType]()
-  * [AdpType]()
-  * [ConjType]()
-  * [Hyph]()
-  * [Style]()
-  * [PrepCase]()
-  * [Variant]() ... distinguishes short and long forms of adjectives, a Slavic-wide phenomenon
-* The following universal features are not used in German: [Definite](), [Evident](), [Polite]().
+  * [Typo]()
+* The following universal features are not used in German: [Animacy](), [Evident]().
 
 ## Syntax
-
-This is an overview only. For more detailed discussion and examples, see the list of [German relations](../dep/index.html),
-as well as German-specific examples scattered across the documentation of constructions.
 
 ### Core Arguments, Oblique Arguments and Adjuncts
 
 * Nominal subject ([nsubj]()) is a noun phrase in the nominative case, without preposition.
-  * If the noun phrase is quantified, it may be in the genitive, which is required by the quantifier.
-    If this is the case, then the quantifier is attached using a special relation, either [nummod:gov]() or [det:numgov]().
-  * An infinitive verb may serve as the subject and is labeled as clausal subject, [csubj]().
-    On the other hand, verbal nouns as subjects are just `nsubj`.
   * A finite subordinate clause may serve as the subject and is labeled `csubj`.
-* Objects defined in the German grammar may be bare noun phrases in accusative, dative, genitive or instrumental,
-  or prepositional phrases in accusative, dative, genitive, locative or instrumental.
+  * If an infinitive verb is to serve as the subject, it becomes a verbal noun
+    (it gets the neuter singular nominative article and it is capitalized in writing),
+    thus it is labeled `nsubj`.
+* Objects defined in the German grammar may be bare noun phrases in accusative, dative or genitive,
+  or prepositional phrases in accusative, dative or genitive.
   For the purpose of UD the objects are divided to core objects, labeled [obj]() or [iobj](),
   and oblique objects, labeled [obl:arg]().
-  * Bare accusative, dative, genitive and instrumental objects are considered core.
+  * Bare accusative, dative and genitive objects are considered core.
   * All prepositional objects are considered oblique.
   * Accusative objects of some verbs alternate with finite clausal complements, which are labeled [ccomp]().
-  * If a verb subcategorizes for the infinitive (e.g. modal verbs or verbs of control), the infinitival complement is labeled [xcomp]().
+  * If a verb subcategorizes for the infinitive (e.g. phasal verbs or verbs of control), the infinitival complement is labeled [xcomp]().
   * If a verb subcategorizes for two core objects, one of them accusative (or `ccomp`) and the other non-accusative,
     then the non-accusative object is labeled [iobj]().
     Core nominal objects in other situations are labeled just [obj]().
 * Adjuncts (or, following the German grammar, adverbial modifiers realized as noun phrases) are usually
   prepositional phrases, but they can be bare noun phrases as well. They are labeled [obl]():
-  * Temporal modifiers realized as accusative noun phrases: _přijedu příští sobotu_ “I will come next Saturday.”
-  * Dative noun phrases with benefactive or possessive role (i.e. if the verb does not subcategorize for a single dative object
-    and if it is not a verb of giving (or similar), where the dative could be interpreted as the recipient.
-    Example: _uvařila mu oběd_ “she cooked (for) him a lunch.”
-  * Instrumental noun phrases expressing the way or means with which something was done.
-    Example: _zbil psa klackem_ “he beat up the dog with a stick.”
+  * Temporal modifiers realized as accusative noun phrases: _ich arbeite jeden Tag_ “I work every day.”
   * All prepositional phrases that are not prepositional objects (i.e., their role and form is not defined lexically by the predicate)
     are adjuncts.
-* Extra attention has to be paid to clitic forms of reflexive pronouns _se_ (accusative) and _si_ (dative). They can function as:
-  * Core objects ([obj]() or [iobj]()): _spatřil se/sebe v zrcadle_ “he sighted himself in the mirror,” _ublížila si/sobě_ “she hurt herself.”
-  * Reciprocal core objects (`obj` or `iobj`): _líbali se_ “they were kissing each other,”
-    _vykali si_ “they used the polite form of address for each other.”
-  * Reflexive passive ([expl:pass]()): _oběd se vaří_ “the lunch is being cooked,” lit. “the lunch cooks itself.”
-  * Inherently reflexive verb, cannot exist without the reflexive clitic. In accord with the current UD guidelines, we label the relation
-    between the verb and the clitic as [expl:pv](), not `compound`. Example: _smála se_ “she laughed,” _zvykla si_ “she got used to it.”
+* Extra attention has to be paid to the reflexive pronoun _sich_. It can function as:
+  * Core object ([obj]() or [iobj]()): _er sah sich im Spiegel_ “he sighted himself in the mirror.”
+  * Reciprocal core objects (`obj` or `iobj`): _sie küssten sich_ “they were kissing each other.”
+  * Inherently reflexive verb, cannot exist without the reflexive clitic, and the clitic cannot be substituted by an irreflexive pronoun
+    or a noun phrase.
+    In accord with the current UD guidelines, we label the relation
+    between the verb and the clitic as [expl:pv](), not `compound`. Example: _wir müssen uns beeilen_ “we must hurry.”
 * In passive clauses (both reflexive and periphrastic passive), the subject is labeled with [nsubj:pass]() or [csubj:pass](), respectively.
   * The auxiliary verb in periphrastic passive is labeled [aux:pass]().
   * If the demoted agent is present, it has the form of a bare instrumental phrase and its relation is labeled [obl:agent]().
 
 ### Non-verbal Clauses
 
-* The copula verb _být_ (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses.
-  Purely existential clauses (without indicating location) use _být_ as well but it is treated as the head of the clause and tagged [VERB]().
+* The copula verb _sein_ (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses.
+  * Existential clauses use a different verb, _geben_ (give) with an accusative object: _es gibt Essen_ “there is food.”
 
 ### Relations Overview
 
@@ -157,13 +148,10 @@ as well as German-specific examples scattered across the documentation of constr
   * [obl:agent]() for agents of passive verbs
   * [obl:arg]() for prepositional objects
   * [expl:pv]() for reflexive clitics of inherently reflexive verbs
-  * [expl:pass]() for reflexive clitics in reflexive passives
   * [aux:pass]() for passive auxiliaries
-  * [nummod:gov]() for cardinal numbers that are attached as children of the counted noun but govern its case
-  * [det:numgov]() for pronominal quantifiers that are attached as children of the quantified noun but govern its case
-  * [det:nummod]() for pronominal quantifiers in cases in which they do not govern the case of the quantified noun
-  * [advmod:emph]() for adverbs or particles that modify noun phrases and emphasize or negate them
-  * [flat:foreign]() for non-first words in quoted foreign phrases
+  * [compound:prt]() for separable verb prefixes
+  * [det:poss]() for possessive determiners
+  * [nmod:poss]() for possessive modifier phrases
 * The following main types are not used alone and must be subtyped:
   [expl]()
 * The following relation types are not used in German at all:
@@ -171,10 +159,7 @@ as well as German-specific examples scattered across the documentation of constr
 
 ## Treebanks
 
-There are [five](../../treebanks/cs-comparison.html) German UD treebanks:
+There are [two](../../treebanks/de-comparison.html) German UD treebanks:
 
-  * [German](../../treebanks/cs-index.html)
-  * [German-CAC](../../treebanks/cs_cac-index.html)
-  * [German-CLTT](../../treebanks/cs_cltt-index.html)
-  * [German-FicTree](../../treebanks/cs_fictree-index.html)
-  * [German-PUD](../../treebanks/cs_pud-index.html)
+  * [German](../../treebanks/de-index.html)
+  * [German-PUD](../../treebanks/de_pud-index.html)
