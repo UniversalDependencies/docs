@@ -30,21 +30,6 @@ We refer to (Bosco, Montemagni, Simi, 2013 and 2014) for a discussion.
 
 The first preliminary release was issued in January 2015.
 
-### Corpus composition
-
-<table>
-<tr style="background-color: #eee"><th>Original format</th><th>Source</th><th>Genre</th><th>Size in tokens</th><th>Size in sentences</th>
-</tr>
-<tr><td>TUT-CONLL</td><td>Evalita 2011 Dependency parsing</td><td>Legal texts, news articles, Wikipedia articles</td><td>101,309</td><td>3,842</td></tr>
-<tr><td>ISST-TANL</td><td>Evalita 2011 Domain adaptation task</td><td>Newspaper articles</td><td>80,967</td><td>4,135</td></tr>
-<tr><td>ISST-TANL</td><td>SPLeT 2012 </td><td>Legal texts: European directives</td><td>6,166</td><td>260</td></tr>
-<tr><td>MIDT</td><td>Several QA competitions</td><td>Questions</td><td>20,680</td><td>2,228</td></tr>
-<tr><td>MIDT</td><td>Evalita 2014 Dependency parsing:test data set (partial)</td><td>News articles</td><td>7,618</td><td>304</td></tr>
-<tr><td>TUT-CONLL</td><td>Parallel TUT (Italian part)</td><td>Various genres</td><td>55,942</td><td>2,131</td></tr
-<tr><td>UD</td><td>Due Parole</td><td>Simplified Italian news</td><td>19,992</td><td>1,138</td></tr>
-<tr><td>UD2</td><td>New data</td><td>Various sentences</td><td>2,504</td><td>150</td></tr>
-<tr><td></td><td></td><td>TOTAL</td><td><b>295,178</b></td><td><b>14,188</b></td></tr>
-</table>
 
 ## UD_Italian-ParTUT 
 
@@ -54,17 +39,7 @@ ParTUT is a morpho-syntactically annotated collection of Italian/French/English 
 which includes texts from different sources and representing different genres and domains, released in several formats.
 
 ParTUT comprises approximately 167,000 tokens, with an average amount
-of 2,100 sentences per language. The texts of the collection currently available were
-gathered from a large number of sources and domains:
-* the [Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0) open license;
-* the [DGT-Translation Memory](https://ec.europa.eu/jrc/en/language-technologies/dgt-translation-memory)
-* the [Europarl](http://www.statmt.org/europarl/) parallel corpus (section ep_00_01_17);
-* publicly available pages from [Facebook website](https://www.facebook.com/help/345121355559712/);
-* the [JRC-Acquis multilingual parallel corpus](http://optima.jrc.it/Acquis/index_2.2.html) (section jrc52006DC243);
-* several articles from [Project Syndicate©](https://www.project-syndicate.org/);
-* the [Universal Declaration of Human Rights](http://www.ohchr.org/EN/UDHR/Pages/SearchByLang.aspx);
-* Wikipedia articles retrieved in the English section and then translated into Italian only by graduate students in Translation  Studies;
-* the [Web Inventory of Translated Talks](https://wit3.fbk.eu/mt.php?release=2012-02) .
+of 2,100 sentences per language. 
 
 ParTUT data can be downloaded [here](http://www.di.unito.it/~tutreeb/treebanks.html) and [here](https://github.com/msang/partut-repo) (CoNLL format only).
 
