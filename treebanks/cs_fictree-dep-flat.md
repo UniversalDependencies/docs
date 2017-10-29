@@ -45,7 +45,7 @@ The following 1 pairs of parts of speech are connected with `flat`: <tt><a href=
 21	o	o	ADP	RR--6----------	AdpType=Prep|Case=Loc	24	case	_	_
 22	svých	svůj	DET	P8IP6----------	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	24	det	_	_
 23	čtrnácti	čtrnáct	NUM	Cn-P6----------	Case=Loc|Number=Plur|NumForm=Word|NumType=Card	24	nummod	_	_
-24	dnech	den	NOUN	NNIP6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos	19	iobj	_	_
+24	dnech	den	NOUN	NNIP6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos	19	obl:arg	_	_
 25	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~

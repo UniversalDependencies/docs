@@ -31,7 +31,7 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 
 4 <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4; 100%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3; 75%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3; 75%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (3; 75%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 100%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (3; 75%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3; 75%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3; 75%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 
@@ -42,7 +42,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 
 1 <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `ADV` and `Abbr` co-occurred: <tt><a href="cs_fictree-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%).
+The most frequent other feature values with which `ADV` and `Abbr` co-occurred: <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_fictree-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `ADV` tokens may have the following values of `Abbr`:
 

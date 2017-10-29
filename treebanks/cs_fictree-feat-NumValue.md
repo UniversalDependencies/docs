@@ -31,7 +31,7 @@ The most frequent other feature values with which `NUM` and `NumValue` co-occurr
 
 3 <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `NumValue`.
 
-The most frequent other feature values with which `ADJ` and `NumValue` co-occurred: <tt><a href="cs_fictree-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt> (3; 100%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (2; 67%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2; 67%).
+The most frequent other feature values with which `ADJ` and `NumValue` co-occurred: <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt> (3; 100%), <tt><a href="cs_fictree-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (2; 67%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2; 67%).
 
 `ADJ` tokens may have the following values of `NumValue`:
 

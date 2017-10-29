@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="es-pos-VERB.html">V
 
 27390 <tt><a href="es-pos-VERB.html">VERB</a></tt> tokens (67% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="es-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (24267; 89%), <tt><a href="es-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (24267; 89%), <tt><a href="es-feat-Person.html">Person</a></tt><tt>=3</tt> (23582; 86%), <tt><a href="es-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (23241; 85%), <tt><a href="es-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21041; 77%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="es-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (24267; 89%), <tt><a href="es-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (24267; 89%), <tt><a href="es-feat-Person.html">Person</a></tt><tt>=3</tt> (23582; 86%), <tt><a href="es-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (23241; 85%), <tt><a href="es-feat-Number.html">Number</a></tt><tt>=Sing</tt> (21041; 77%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -37,7 +37,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
   <tr><td><tt><tt><a href="es-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>somos</em></td><td></td><td><em>somos</em></td><td><em>seamos</em></td></tr>
   <tr><td><tt><tt><a href="es-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>son</em></td><td><em>serán</em></td><td><em>fueron, Son, fui</em></td><td><em>eran, serían</em></td></tr>
   <tr><td><tt><tt><a href="es-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="es-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sea</em></td><td></td><td></td><td><em>fuese</em></td></tr>
-  <tr><td><tt><tt><a href="es-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="es-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sean</em></td><td></td><td></td><td><em>fueran, fuesen, Eran, fueron</em></td></tr>
+  <tr><td><tt><tt><a href="es-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="es-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>sean</em></td><td></td><td></td><td><em>fueran, fuesen, fueron, Eran</em></td></tr>
 </table>
 
 ### `AUX`
@@ -72,9 +72,9 @@ The 10 most frequent relations where parent and child node agree in `Tense`:
 <tt>VERB --[<tt><a href="es-dep-conj.html">conj</a></tt>]--> VERB</tt> (1666; 60%),
 <tt>VERB --[<tt><a href="es-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (957; 57%),
 <tt>VERB --[<tt><a href="es-dep-cc.html">cc</a></tt>]--> VERB</tt> (14; 58%),
-<tt>AUX --[<tt><a href="es-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (2; 67%),
 <tt>AUX --[<tt><a href="es-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
+<tt>AUX --[<tt><a href="es-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (2; 67%),
 <tt>VERB --[<tt><a href="es-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (2; 67%),
-<tt>AUX --[<tt><a href="es-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="es-dep-dep.html">dep</a></tt>]--> AUX</tt> (1; 100%).
+<tt>VERB --[<tt><a href="es-dep-dep.html">dep</a></tt>]--> AUX</tt> (1; 100%),
+<tt>AUX --[<tt><a href="es-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (1; 100%).
 

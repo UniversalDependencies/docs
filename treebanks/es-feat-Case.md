@@ -48,7 +48,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 15 <tt><a href="es-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="es-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="es-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (15; 100%), <tt><a href="es-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (14; 93%), <tt><a href="es-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10; 67%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="es-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (15; 100%), <tt><a href="es-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (15; 100%), <tt><a href="es-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (14; 93%), <tt><a href="es-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10; 67%).
 
 `DET` tokens may have the following values of `Case`:
 

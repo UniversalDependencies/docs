@@ -132,7 +132,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 <table>
   <tr><th>Paradigm <i>haber</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="es-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>haber, han</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="es-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>han, haber</em></td><td></td></tr>
   <tr><td><tt><tt><a href="es-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="es-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>has</em></td></tr>
   <tr><td><tt><tt><a href="es-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="es-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>habría</em></td><td><em>habrían</em></td></tr>
   <tr><td><tt><tt><a href="es-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td></td><td><em>habíamos</em></td></tr>

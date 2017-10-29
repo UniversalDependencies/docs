@@ -78,7 +78,7 @@ The following 15 pairs of parts of speech are connected with `parataxis`: <tt><a
 4	kometou	kometa	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	2	obl	_	_
 5	,	,	PUNCT	Z:-------------	_	9	punct	_	_
 6	o	o	ADP	RR--6----------	AdpType=Prep|Case=Loc	7	case	_	_
-7	tom	ten	DET	PDNS6----------	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	9	obj	_	_
+7	tom	ten	DET	PDNS6----------	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	9	obl:arg	_	_
 8	jsem	být	AUX	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	_
 9	přesvědčen	přesvědčený	ADJ	VsMS------AP---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	2	parataxis	_	_
 10	,	,	PUNCT	Z:-------------	_	11	punct	_	_

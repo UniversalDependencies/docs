@@ -29,7 +29,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 
 221 <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> tokens (2% of all `ADJ` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="cs_fictree-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (221; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (221; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (184; 83%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (130; 59%).
+The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (221; 100%), <tt><a href="cs_fictree-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (221; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (184; 83%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (130; 59%).
 
 `ADJ` tokens may have the following values of `Poss`:
 

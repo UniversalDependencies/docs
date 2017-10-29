@@ -56,6 +56,15 @@ The most frequent other feature values with which `X` and `Polarity` co-occurred
 * `Neg` (3; 100% of non-empty `Polarity`): <em>no, so</em>
 * `EMPTY` (1982): <em>ex, hab, 's, etc., ya, C, ², x, i, mm</em>
 
+### `ADP`
+
+1 <tt><a href="es-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Polarity`.
+
+`ADP` tokens may have the following values of `Polarity`:
+
+* `Neg` (1; 100% of non-empty `Polarity`): <em>para</em>
+* `EMPTY` (71075): <em>de, en, a, por, con, para, como, entre, desde, sobre</em>
+
 ### `ADJ`
 
 1 <tt><a href="es-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Polarity`.
@@ -66,13 +75,4 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 
 * `Neg` (1; 100% of non-empty `Polarity`): <em>gran</em>
 * `EMPTY` (24894): <em>gran, primera, primer, mismo, mayor, nuevo, estadounidense, total, mejor, nacional</em>
-
-### `ADP`
-
-1 <tt><a href="es-pos-ADP.html">ADP</a></tt> tokens (0% of all `ADP` tokens) have a non-empty value of `Polarity`.
-
-`ADP` tokens may have the following values of `Polarity`:
-
-* `Neg` (1; 100% of non-empty `Polarity`): <em>para</em>
-* `EMPTY` (71075): <em>de, en, a, por, con, para, como, entre, desde, sobre</em>
 

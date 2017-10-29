@@ -43,7 +43,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 539 <tt><a href="es-pos-PRON.html">PRON</a></tt> tokens (4% of all `PRON` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="es-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (539; 100%), <tt><a href="es-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (539; 100%), <tt><a href="es-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (539; 100%), <tt><a href="es-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (539; 100%), <tt><a href="es-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (358; 66%), <tt><a href="es-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (352; 65%), <tt><a href="es-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (318; 59%).
+The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="es-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (539; 100%), <tt><a href="es-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (539; 100%), <tt><a href="es-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (539; 100%), <tt><a href="es-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (539; 100%), <tt><a href="es-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (358; 66%), <tt><a href="es-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (352; 65%), <tt><a href="es-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (318; 59%).
 
 `PRON` tokens may have the following values of `NumType`:
 
@@ -74,6 +74,6 @@ The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<tt><a href="es-dep-dep.html">dep</a></tt>]--> NUM</tt> (49; 100%),
 <tt>NUM --[<tt><a href="es-dep-appos.html">appos</a></tt>]--> NUM</tt> (16; 100%),
 <tt>ADJ --[<tt><a href="es-dep-conj.html">conj</a></tt>]--> ADJ</tt> (7; 64%),
-<tt>NUM --[<tt><a href="es-dep-compound.html">compound</a></tt>]--> NUM</tt> (1; 100%),
-<tt>NUM --[<tt><a href="es-dep-cc.html">cc</a></tt>]--> NUM</tt> (1; 100%).
+<tt>NUM --[<tt><a href="es-dep-cc.html">cc</a></tt>]--> NUM</tt> (1; 100%),
+<tt>NUM --[<tt><a href="es-dep-compound.html">compound</a></tt>]--> NUM</tt> (1; 100%).
 

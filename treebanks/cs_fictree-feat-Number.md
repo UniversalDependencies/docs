@@ -138,7 +138,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 8093 <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> tokens (96% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (6697; 83%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6697; 83%), <tt><a href="cs_fictree-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (5949; 74%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5406; 67%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6697; 83%), <tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (6697; 83%), <tt><a href="cs_fictree-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (5949; 74%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5406; 67%).
 
 `DET` tokens may have the following values of `Number`:
 
@@ -185,7 +185,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 <table>
   <tr><th>Paradigm <i>on</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_fictree-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td><em>něho, něj</em></td><td><em>ně</em></td></tr>
+  <tr><td><tt><tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_fictree-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td><em>něj, něho</em></td><td><em>ně</em></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>jeho</em></td><td><em>je</em></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_fictree-feat-Style.html">Style</a></tt><tt>=Arch</tt></tt></td><td><em>jej</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>ho</em></td><td></td></tr>
@@ -225,7 +225,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>mu</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_fictree-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td><em>ní</em></td><td><em>nich</em></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>jí</em></td><td><em>jich</em></td></tr>
-  <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_fictree-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td><em>něho, něj</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_fictree-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td><em>něj, něho</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>jich</em></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td><em>ho</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_fictree-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td><em>ní</em></td><td><em>nimi</em></td></tr>
@@ -242,7 +242,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 5611 <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> tokens (86% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5140; 92%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4878; 87%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4601; 82%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4601; 82%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4130; 74%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3824; 68%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=1</tt> (3023; 54%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (5140; 92%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (4878; 87%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (4601; 82%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (4601; 82%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4130; 74%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (3824; 68%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=1</tt> (3023; 54%).
 
 `AUX` tokens may have the following values of `Number`:
 
@@ -308,7 +308,7 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 
 1242 <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> tokens (88% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="cs_fictree-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1237; 100%), <tt><a href="cs_fictree-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (1237; 100%), <tt><a href="cs_fictree-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (844; 68%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (775; 62%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="cs_fictree-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (1237; 100%), <tt><a href="cs_fictree-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1237; 100%), <tt><a href="cs_fictree-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (844; 68%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (775; 62%).
 
 `NUM` tokens may have the following values of `Number`:
 
@@ -338,9 +338,9 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="cs_fictree-dep-obl.html">obl</a></tt>]--> NOUN</tt> (4399; 66%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4390; 97%),
 <tt>NOUN --[<tt><a href="cs_fictree-dep-det.html">det</a></tt>]--> DET</tt> (4086; 100%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-obj.html">obj</a></tt>]--> NOUN</tt> (3496; 58%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-obj.html">obj</a></tt>]--> NOUN</tt> (3041; 58%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-aux.html">aux</a></tt>]--> AUX</tt> (2950; 74%),
 <tt>NOUN --[<tt><a href="cs_fictree-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2266; 67%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-obj.html">obj</a></tt>]--> PRON</tt> (1830; 51%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-obj.html">obj</a></tt>]--> PRON</tt> (1608; 51%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1328; 70%).
 

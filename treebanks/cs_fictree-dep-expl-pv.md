@@ -54,7 +54,7 @@ The following 3 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 6	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	5	expl:pv	_	_
 7	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	9	case	_	_
 8	zlověstného	zlověstný	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	9	amod	_	_
-9	dusotu	dusot	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	5	obj	_	_
+9	dusotu	dusot	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	5	obl:arg	_	_
 10	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~

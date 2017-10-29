@@ -95,7 +95,7 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 
 180 <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="cs_fictree-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (180; 100%), <tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (180; 100%), <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (180; 100%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (180; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (178; 99%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (115; 64%).
+The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="cs_fictree-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (180; 100%), <tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (180; 100%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (180; 100%), <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (180; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (178; 99%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (115; 64%).
 
 `DET` tokens may have the following values of `Degree`:
 
@@ -106,7 +106,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 
 1 <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Degree`.
 
-The most frequent other feature values with which `NOUN` and `Degree` co-occurred: <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1; 100%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (1; 100%).
+The most frequent other feature values with which `NOUN` and `Degree` co-occurred: <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1; 100%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1; 100%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (1; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1; 100%).
 
 `NOUN` tokens may have the following values of `Degree`:
 
@@ -124,6 +124,6 @@ The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADV --[<tt><a href="cs_fictree-dep-cc.html">cc</a></tt>]--> ADV</tt> (4; 100%),
 <tt>ADJ --[<tt><a href="cs_fictree-dep-xcomp.html">xcomp</a></tt>]--> ADJ</tt> (4; 67%),
 <tt>ADJ --[<tt><a href="cs_fictree-dep-csubj.html">csubj</a></tt>]--> ADJ</tt> (4; 100%),
-<tt>ADJ --[<tt><a href="cs_fictree-dep-obl.html">obl</a></tt>]--> ADJ</tt> (3; 60%),
-<tt>ADV --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> ADV</tt> (3; 60%).
+<tt>ADV --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> ADV</tt> (3; 60%),
+<tt>ADJ --[<tt><a href="cs_fictree-dep-obl.html">obl</a></tt>]--> ADJ</tt> (3; 60%).
 

@@ -34,6 +34,30 @@ The following 3 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 expl:pass	color:blue
+1	Sledovala	sledovat	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+2	jsem	být	AUX	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	_	_
+3	měnící	měnící	ADJ	AGFS4-----A----	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	5	amod	_	_
+4	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	3	expl:pass	_	_
+5	krajinu	krajina	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	1	obj	_	_
+6	kolem	kolem	ADP	RR--2----------	AdpType=Prep|Case=Gen	7	case	_	_
+7	sebe	se	PRON	P6--2----------	Case=Gen|PronType=Prs|Reflex=Yes	5	nmod	_	_
+8	a	a	CCONJ	J^-------------	_	9	cc	_	_
+9	snažila	snažit	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	conj	_	_
+10	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	9	expl:pv	_	_
+11	smazat	smazat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	9	xcomp	_	_
+12	pocit	pocit	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	11	obj	_	_
+13	trapnosti	trapnost	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	12	nmod	_	_
+14	.	.	PUNCT	Z:-------------	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 31	bgColor:blue
 # visual-style 31	fgColor:white
 # visual-style 30	bgColor:blue
@@ -86,33 +110,9 @@ The following 3 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 45	nikdo	nikdo	PRON	PWM-1----------	Animacy=Anim|Case=Nom|Gender=Masc|PronType=Neg	49	nsubj	_	_
 46	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	49	expl:pv	_	_
 47	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	48	case	_	_
-48	ničemu	nic	PRON	PW--3----------	Case=Dat|PronType=Neg	49	obj	_	_
+48	ničemu	nic	PRON	PW--3----------	Case=Dat|PronType=Neg	49	obl:arg	_	_
 49	neměl	mít	VERB	VpMS----R-NA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	3	conj	_	_
 50	.	.	PUNCT	Z:-------------	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 expl:pass	color:blue
-1	Sledovala	sledovat	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-2	jsem	být	AUX	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	_	_
-3	měnící	měnící	ADJ	AGFS4-----A----	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	5	amod	_	_
-4	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	3	expl:pass	_	_
-5	krajinu	krajina	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	1	obj	_	_
-6	kolem	kolem	ADP	RR--2----------	AdpType=Prep|Case=Gen	7	case	_	_
-7	sebe	se	PRON	P6--2----------	Case=Gen|PronType=Prs|Reflex=Yes	5	nmod	_	_
-8	a	a	CCONJ	J^-------------	_	9	cc	_	_
-9	snažila	snažit	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	conj	_	_
-10	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	9	expl:pv	_	_
-11	smazat	smazat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	9	xcomp	_	_
-12	pocit	pocit	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	11	obj	_	_
-13	trapnosti	trapnost	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	12	nmod	_	_
-14	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 

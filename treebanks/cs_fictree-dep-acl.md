@@ -47,7 +47,7 @@ The following 23 pairs of parts of speech are connected with `acl`: <tt><a href=
 1	Děkoval	děkovat	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 2	jsem	být	AUX	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	_	_
 3	za	za	ADP	RR--4----------	AdpType=Prep|Case=Acc	4	case	_	_
-4	to	ten	DET	PDNS4----------	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	1	obj	_	_
+4	to	ten	DET	PDNS4----------	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	1	obl:arg	_	_
 5	,	,	PUNCT	Z:-------------	_	8	punct	_	_
 6	že	že	SCONJ	J,-------------	_	8	mark	_	_
 7	mi	já	PRON	PH-S3--1-------	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	8	obl	_	_

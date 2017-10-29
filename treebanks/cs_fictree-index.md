@@ -53,7 +53,7 @@ Do not submit pull requests against the UD repository.
 
 ## Relations
 
-[acl](cs_fictree-dep-acl.html) – [advcl](cs_fictree-dep-advcl.html) – [advmod](cs_fictree-dep-advmod.html) – [advmod:emph](cs_fictree-dep-advmod-emph.html) – [amod](cs_fictree-dep-amod.html) – [appos](cs_fictree-dep-appos.html) – [aux](cs_fictree-dep-aux.html) – [aux:pass](cs_fictree-dep-aux-pass.html) – [case](cs_fictree-dep-case.html) – [cc](cs_fictree-dep-cc.html) – [ccomp](cs_fictree-dep-ccomp.html) – [compound](cs_fictree-dep-compound.html) – [conj](cs_fictree-dep-conj.html) – [cop](cs_fictree-dep-cop.html) – [csubj](cs_fictree-dep-csubj.html) – [csubj:pass](cs_fictree-dep-csubj-pass.html) – [dep](cs_fictree-dep-dep.html) – [det](cs_fictree-dep-det.html) – [det:numgov](cs_fictree-dep-det-numgov.html) – [det:nummod](cs_fictree-dep-det-nummod.html) – [discourse](cs_fictree-dep-discourse.html) – [expl:pass](cs_fictree-dep-expl-pass.html) – [expl:pv](cs_fictree-dep-expl-pv.html) – [fixed](cs_fictree-dep-fixed.html) – [flat](cs_fictree-dep-flat.html) – [iobj](cs_fictree-dep-iobj.html) – [mark](cs_fictree-dep-mark.html) – [nmod](cs_fictree-dep-nmod.html) – [nsubj](cs_fictree-dep-nsubj.html) – [nsubj:pass](cs_fictree-dep-nsubj-pass.html) – [nummod](cs_fictree-dep-nummod.html) – [nummod:gov](cs_fictree-dep-nummod-gov.html) – [obj](cs_fictree-dep-obj.html) – [obl](cs_fictree-dep-obl.html) – [orphan](cs_fictree-dep-orphan.html) – [parataxis](cs_fictree-dep-parataxis.html) – [punct](cs_fictree-dep-punct.html) – [root](cs_fictree-dep-root.html) – [vocative](cs_fictree-dep-vocative.html) – [xcomp](cs_fictree-dep-xcomp.html)
+[acl](cs_fictree-dep-acl.html) – [advcl](cs_fictree-dep-advcl.html) – [advmod](cs_fictree-dep-advmod.html) – [advmod:emph](cs_fictree-dep-advmod-emph.html) – [amod](cs_fictree-dep-amod.html) – [appos](cs_fictree-dep-appos.html) – [aux](cs_fictree-dep-aux.html) – [aux:pass](cs_fictree-dep-aux-pass.html) – [case](cs_fictree-dep-case.html) – [cc](cs_fictree-dep-cc.html) – [ccomp](cs_fictree-dep-ccomp.html) – [compound](cs_fictree-dep-compound.html) – [conj](cs_fictree-dep-conj.html) – [cop](cs_fictree-dep-cop.html) – [csubj](cs_fictree-dep-csubj.html) – [csubj:pass](cs_fictree-dep-csubj-pass.html) – [dep](cs_fictree-dep-dep.html) – [det](cs_fictree-dep-det.html) – [det:numgov](cs_fictree-dep-det-numgov.html) – [det:nummod](cs_fictree-dep-det-nummod.html) – [discourse](cs_fictree-dep-discourse.html) – [expl:pass](cs_fictree-dep-expl-pass.html) – [expl:pv](cs_fictree-dep-expl-pv.html) – [fixed](cs_fictree-dep-fixed.html) – [flat](cs_fictree-dep-flat.html) – [iobj](cs_fictree-dep-iobj.html) – [mark](cs_fictree-dep-mark.html) – [nmod](cs_fictree-dep-nmod.html) – [nsubj](cs_fictree-dep-nsubj.html) – [nsubj:pass](cs_fictree-dep-nsubj-pass.html) – [nummod](cs_fictree-dep-nummod.html) – [nummod:gov](cs_fictree-dep-nummod-gov.html) – [obj](cs_fictree-dep-obj.html) – [obl](cs_fictree-dep-obl.html) – [obl:arg](cs_fictree-dep-obl-arg.html) – [orphan](cs_fictree-dep-orphan.html) – [parataxis](cs_fictree-dep-parataxis.html) – [punct](cs_fictree-dep-punct.html) – [root](cs_fictree-dep-root.html) – [vocative](cs_fictree-dep-vocative.html) – [xcomp](cs_fictree-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -61,17 +61,39 @@ Do not submit pull requests against the UD repository.
 <li>This corpus contains 12860 sentences, 166536 tokens and 167114 syntactic words.</li>
 <li>All tokens in this corpus are followed by a space.</li>
 <li>This corpus does not contain words with spaces.</li>
-<li>This corpus contains 11 types of words that contain both letters and punctuation: A-ano, Cutter's, D-dobře, Ha-vel, J-já, Ji-jistě, O-po-nu, Za-pla-tit, bytí-na-zemi, pr-chá, t-tento</li>
+<li>This corpus contains 11 types of words that contain both letters and punctuation. Examples: Ha-vel, O-po-nu, pr-chá, A-ano, Cutter's, D-dobře, J-já, Ji-jistě, Za-pla-tit, bytí-na-zemi, t-tento</li>
 <li>This corpus contains 578 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 13 types of multi-word tokens: Nač, aby, abych, abychom, abys, abyste, kdyby, kdybych, kdybychom, kdybys, kdybyste, oč, zač.</li>
+<li>There are 13 types of multi-word tokens. Examples: aby, abych, kdyby, kdybych, abys, abychom, abyste, kdybyste, kdybys, kdybychom, oč, Nač, zač.</li>
 </ul>
 
 <h2>Morphology</h2>
+
+<h3>Tags</h3>
 
 <ul>
 <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: SYM</li>
 <li>This corpus contains 124 word types tagged as particles (PART): A-ano, Což, Dobře, Díky, Fakt, Jestlipak, Ji-jistě, Neee, Nejenomže, Náhodou, Pardon, Pozor, Príma, ahoj, ale, alespoň, ani, ano, asi, aspoň, ať, až, ba, bezesporu, beztak, bohužel, budiž, bůhví, celkem, co, copak, div, dobrá, dokonce, doopravdy, dozajista, hned, i, jasně, jednoduše, jen, jenom, ještě, jistě, již, jo, kdepak, kdoví, když, klidně, koneckonců, konečně, kupodivu, kéž, leda, možná, nakonec, naneštěstí, naopak, například, natož, ne, nejen, nejenže, nejspíš, nepochybně, nesporně, nicméně, nikoli, nikoliv, no, opravdu, ostatně, ovšem, patrně, pochopitelně, prakticky, pravděpodobně, prej, prostě, právě, prý, přece, přeci, především, přesně, přímo, rozhodně, samozřejmě, sbohem, skoro, skutečně, snad, sotva, spíš, spíše, stejně, tak, takříkajíc, teda, tedy, teprve, to, totiž, třeba, určitě, už, viď, viďte, vlastně, vážně, však, vůbec, vždyť, zajisté, zas, zase, zejména, zkrátka, zrovna, zvláště, zvlášť, zřejmě, že</li>
+</ul>
+
+<ul>
+<li>This corpus contains 34 lemmas tagged as pronouns (PRON): být, bůhvíco, co, cokoli, copak, cos, cosi, což, cože, jenž, já, kdeco, kdekdo, kdo, kdokoli, kdopak, kdosi, leccos, ledaco, my, málokdo, nic, nikdo, něco, někdo, on, pražádný, samy, samý, se, ty, veškerý, von, všecek</li>
+</ul>
+
+<ul>
+<li>This corpus contains 52 lemmas tagged as determiners (DET): bůhvíkolik, hodně, jaký, jakýkoli, jakýpak, jakýs, jakýsi, jeho, jenž, každý, kdekterý, kdovíjaký, kolik, které, který, lecjaký, leckterý, mnoho, moc, my, málo, méně, můj, nijaký, nějaký, několik, některý, něčí, onen, svůj, sám, takový, takovýhle, takovýto, takýs, tamhleten, tamten, ten, tenhle, tenhleten, tento, tentýž, to, tolik, tvůj, týž, víc, více, všechen, všelijaký, čí, žádný</li>
+</ul>
+
+<ul>
+<li>Out of the above, 2 lemmas occurred sometimes as PRON and sometimes as DET: jenž, my</li>
+</ul>
+
+<ul>
+<li>This corpus contains 4 lemmas tagged as auxiliaries (AUX): být, bývat, jít, stát</li>
+</ul>
+
+<ul>
+<li>Out of the above, 4 lemmas occurred sometimes as AUX and sometimes as VERB: být, bývat, jít, stát</li>
 </ul>
 
 <ul>
@@ -546,8 +568,8 @@ Do not submit pull requests against the UD repository.
     <li>Neg
       <ul>
         <li>ADV: nikdy, nijak, nikde, nikam</li>
-        <li>DET: žádný, žádné, žádnou, žádná, žádném, žádného, žádnej, nijaké, pražádný, žádnému</li>
-        <li>PRON: nic, nikdo, nikoho, nikomu, ničeho, ničemu, nikým, ničím, ničem</li>
+        <li>DET: žádný, žádné, žádnou, žádná, žádném, žádného, žádnej, nijaké, žádnému</li>
+        <li>PRON: nic, nikdo, nikoho, nikomu, ničeho, ničemu, nikým, ničím, ničem, pražádný</li>
       </ul>
     </li>
     <li>Prs
@@ -809,9 +831,9 @@ Do not submit pull requests against the UD repository.
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 4 lemmas as copulas (<a>cop</a>): být, bývat, jít, stát.</li>
-<li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>): být, bývat, ztracený.</li>
-<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>): být.</li>
+<li>This corpus uses 4 lemmas as copulas (<a>cop</a>). Examples: být, bývat, jít, stát.</li>
+<li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: být, bývat, ztracený.</li>
+<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -843,144 +865,58 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB-Conv--NOUN-Acc (16)</li>
-      <li>VERB-Conv--NOUN-Acc-ADP(na) (1)</li>
-      <li>VERB-Conv--NOUN-Acc-ADP(v) (1)</li>
       <li>VERB-Conv--NOUN-Dat (2)</li>
       <li>VERB-Conv--NOUN-Gen (1)</li>
       <li>VERB-Conv--NOUN-Ins (3)</li>
       <li>VERB-Conv--PRON-Acc (1)</li>
-      <li>VERB-Conv--PRON-Acc-ADP(na) (1)</li>
       <li>VERB-Conv--PRON-Nom (1)</li>
       <li>VERB-Fin--NOUN-Acc (1128)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(na) (61)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(nad) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(o) (28)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(pro) (4)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(v) (7)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(za) (11)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(pro) (1)</li>
       <li>VERB-Fin--NOUN-Dat (54)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(k) (13)</li>
       <li>VERB-Fin--NOUN-Gen (85)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(do) (8)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(kolem) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(o) (2)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(od) (4)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(z) (12)</li>
       <li>VERB-Fin--NOUN-Ins (43)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(nad) (2)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(s) (26)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(za) (2)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(na) (2)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(o) (17)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(po) (3)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(v) (7)</li>
+      <li>VERB-Fin--NOUN-Loc-ADP(o) (3)</li>
       <li>VERB-Fin--NOUN-Nom (3)</li>
       <li>VERB-Fin--PRON (1)</li>
       <li>VERB-Fin--PRON-Acc (731)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(na) (47)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(o) (18)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(pro) (1)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(o) (2)</li>
       <li>VERB-Fin--PRON-Dat (221)</li>
-      <li>VERB-Fin--PRON-Dat-ADP(do) (1)</li>
-      <li>VERB-Fin--PRON-Dat-ADP(k) (2)</li>
       <li>VERB-Fin--PRON-Gen (27)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(do) (2)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(od) (1)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(z) (7)</li>
       <li>VERB-Fin--PRON-Ins (2)</li>
-      <li>VERB-Fin--PRON-Ins-ADP(nad) (1)</li>
-      <li>VERB-Fin--PRON-Ins-ADP(s) (41)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(na) (8)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(o) (13)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(po) (5)</li>
+      <li>VERB-Fin--PRON-Ins-ADP(s) (1)</li>
       <li>VERB-Fin--PRON-Nom (2)</li>
       <li>VERB-Inf--NOUN-Acc (677)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(na) (52)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(o) (11)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(přes) (1)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(v) (2)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(za) (3)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(na) (1)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(o) (1)</li>
       <li>VERB-Inf--NOUN-Dat (34)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(k) (3)</li>
       <li>VERB-Inf--NOUN-Gen (45)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(do) (12)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(na) (1)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(z) (6)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(z) (1)</li>
       <li>VERB-Inf--NOUN-Ins (20)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(nad) (1)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(před) (1)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(s) (17)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(na) (1)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(o) (9)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(po) (2)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(v) (6)</li>
+      <li>VERB-Inf--NOUN-Loc-ADP(o) (1)</li>
       <li>VERB-Inf--NOUN-Nom (2)</li>
       <li>VERB-Inf--PRON (1)</li>
       <li>VERB-Inf--PRON-Acc (467)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(na) (25)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(o) (11)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(v) (1)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(za) (2)</li>
       <li>VERB-Inf--PRON-Dat (91)</li>
       <li>VERB-Inf--PRON-Gen (13)</li>
-      <li>VERB-Inf--PRON-Gen-ADP(od) (2)</li>
       <li>VERB-Inf--PRON-Ins (3)</li>
-      <li>VERB-Inf--PRON-Ins-ADP(mezi) (1)</li>
-      <li>VERB-Inf--PRON-Ins-ADP(nad) (1)</li>
-      <li>VERB-Inf--PRON-Ins-ADP(před) (1)</li>
-      <li>VERB-Inf--PRON-Ins-ADP(s) (41)</li>
-      <li>VERB-Inf--PRON-Loc-ADP(na) (1)</li>
-      <li>VERB-Inf--PRON-Loc-ADP(o) (7)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
-      <li>VERB-Inf--PRON-Nom-ADP(proti) (1)</li>
       <li>VERB-Part--NOUN-Acc (2695)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(na) (147)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(o) (38)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(pro) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(v) (15)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(za) (9)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(na) (4)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(o) (2)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(za) (1)</li>
       <li>VERB-Part--NOUN-Dat (123)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(k) (38)</li>
       <li>VERB-Part--NOUN-Gen (157)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(do) (35)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(na) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(od) (6)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(z) (14)</li>
       <li>VERB-Part--NOUN-Ins (128)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(nad) (3)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(před) (2)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(s) (59)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(za) (1)</li>
+      <li>VERB-Part--NOUN-Ins-ADP(s) (2)</li>
       <li>VERB-Part--NOUN-Loc (1)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(na) (16)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(o) (29)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(po) (12)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(v) (8)</li>
+      <li>VERB-Part--NOUN-Loc-ADP(na) (1)</li>
+      <li>VERB-Part--NOUN-Loc-ADP(o) (1)</li>
       <li>VERB-Part--NOUN-Nom (13)</li>
       <li>VERB-Part--PRON (7)</li>
       <li>VERB-Part--PRON-Acc (1314)</li>
-      <li>VERB-Part--PRON-Acc-ADP(na) (117)</li>
-      <li>VERB-Part--PRON-Acc-ADP(o) (14)</li>
-      <li>VERB-Part--PRON-Acc-ADP(pro) (1)</li>
-      <li>VERB-Part--PRON-Acc-ADP(za) (2)</li>
       <li>VERB-Part--PRON-Dat (449)</li>
-      <li>VERB-Part--PRON-Dat-ADP(k) (13)</li>
-      <li>VERB-Part--PRON-Dat-ADP(proti) (2)</li>
       <li>VERB-Part--PRON-Gen (48)</li>
-      <li>VERB-Part--PRON-Gen-ADP(bez) (1)</li>
-      <li>VERB-Part--PRON-Gen-ADP(do) (7)</li>
-      <li>VERB-Part--PRON-Gen-ADP(od) (3)</li>
-      <li>VERB-Part--PRON-Gen-ADP(s) (2)</li>
-      <li>VERB-Part--PRON-Gen-ADP(z) (11)</li>
       <li>VERB-Part--PRON-Ins (17)</li>
-      <li>VERB-Part--PRON-Ins-ADP(nad) (1)</li>
-      <li>VERB-Part--PRON-Ins-ADP(před) (1)</li>
-      <li>VERB-Part--PRON-Ins-ADP(s) (34)</li>
-      <li>VERB-Part--PRON-Ins-ADP(za) (1)</li>
-      <li>VERB-Part--PRON-Loc-ADP(na) (2)</li>
-      <li>VERB-Part--PRON-Loc-ADP(o) (14)</li>
-      <li>VERB-Part--PRON-Loc-ADP(po) (11)</li>
-      <li>VERB-Part--PRON-Loc-ADP(v) (1)</li>
       <li>VERB-Part--PRON-Nom (1)</li>
     </ul>
   </li>
@@ -992,109 +928,62 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--PRON-Acc (1)</li>
       <li>VERB-Conv--PRON-Dat (1)</li>
       <li>VERB-Fin--NOUN-Acc (21)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(na) (5)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(o) (3)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(v) (2)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(za) (13)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(na) (1)</li>
       <li>VERB-Fin--NOUN-Dat (34)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(k) (1)</li>
       <li>VERB-Fin--NOUN-Gen (4)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(do) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(na) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(od) (2)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(z) (7)</li>
       <li>VERB-Fin--NOUN-Ins (8)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(před) (2)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(s) (6)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(za) (1)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(na) (1)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(o) (4)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(v) (3)</li>
+      <li>VERB-Fin--NOUN-Ins-ADP(před) (1)</li>
+      <li>VERB-Fin--NOUN-Ins-ADP(s) (1)</li>
       <li>VERB-Fin--PRON-Acc (46)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(na) (1)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(za) (2)</li>
       <li>VERB-Fin--PRON-Dat (208)</li>
-      <li>VERB-Fin--PRON-Dat-ADP(k) (1)</li>
       <li>VERB-Fin--PRON-Gen (3)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(od) (9)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(z) (5)</li>
       <li>VERB-Fin--PRON-Ins (1)</li>
-      <li>VERB-Fin--PRON-Ins-ADP(před) (2)</li>
-      <li>VERB-Fin--PRON-Ins-ADP(s) (3)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(o) (11)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(po) (1)</li>
       <li>VERB-Inf--NOUN-Acc (10)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(na) (1)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(v) (2)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(za) (4)</li>
       <li>VERB-Inf--NOUN-Dat (26)</li>
-      <li>VERB-Inf--NOUN-Dat-ADP(k) (1)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(na) (1)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(od) (3)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(z) (4)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(za) (1)</li>
       <li>VERB-Inf--NOUN-Ins (5)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(před) (8)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(s) (6)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(o) (2)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(v) (1)</li>
       <li>VERB-Inf--PRON-Acc (13)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(na) (1)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(o) (1)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(za) (3)</li>
       <li>VERB-Inf--PRON-Dat (119)</li>
       <li>VERB-Inf--PRON-Gen (3)</li>
-      <li>VERB-Inf--PRON-Gen-ADP(do) (1)</li>
-      <li>VERB-Inf--PRON-Gen-ADP(z) (1)</li>
       <li>VERB-Inf--PRON-Ins (2)</li>
-      <li>VERB-Inf--PRON-Ins-ADP(před) (3)</li>
-      <li>VERB-Inf--PRON-Ins-ADP(s) (4)</li>
-      <li>VERB-Inf--PRON-Loc-ADP(na) (1)</li>
-      <li>VERB-Inf--PRON-Loc-ADP(o) (2)</li>
       <li>VERB-Part--NOUN-Acc (57)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(na) (16)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(o) (16)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(pro) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(v) (4)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(za) (12)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(v) (1)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(za) (1)</li>
       <li>VERB-Part--NOUN-Dat (97)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(k) (8)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(proti) (2)</li>
       <li>VERB-Part--NOUN-Gen (20)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(do) (7)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(od) (10)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(z) (17)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(za) (1)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(do) (1)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(od) (1)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(z) (1)</li>
       <li>VERB-Part--NOUN-Ins (20)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(před) (5)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(s) (12)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(na) (1)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(o) (7)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(v) (2)</li>
       <li>VERB-Part--PRON-Acc (79)</li>
-      <li>VERB-Part--PRON-Acc-ADP(na) (16)</li>
-      <li>VERB-Part--PRON-Acc-ADP(o) (4)</li>
-      <li>VERB-Part--PRON-Acc-ADP(pro) (1)</li>
-      <li>VERB-Part--PRON-Acc-ADP(za) (1)</li>
       <li>VERB-Part--PRON-Dat (463)</li>
-      <li>VERB-Part--PRON-Dat-ADP(k) (1)</li>
       <li>VERB-Part--PRON-Gen (21)</li>
-      <li>VERB-Part--PRON-Gen-ADP(od) (7)</li>
-      <li>VERB-Part--PRON-Gen-ADP(z) (2)</li>
-      <li>VERB-Part--PRON-Ins-ADP(s) (4)</li>
-      <li>VERB-Part--PRON-Ins-ADP(se) (1)</li>
-      <li>VERB-Part--PRON-Loc-ADP(na) (3)</li>
-      <li>VERB-Part--PRON-Loc-ADP(o) (5)</li>
-      <li>VERB-Part--PRON-Loc-ADP(po) (2)</li>
     </ul>
   </li>
+</ul>
+
+<h3>Reflexive Verbs</h3>
+
+<ul>
+  <li>This corpus contains 1026 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: stát se, dívat se, zeptat se, zdát se, snažit se, ptát se, vrátit se, podívat se, myslet si, všimnout si, usmát se, bát se, rozhodnout se, dát se, zastavit se, chovat se, smát se, uvědomit si, dostat se, dotknout se, objevit se, vydat se, představit si, starat se, vzpomenout si, cítit se, ozvat se, posadit se, podařit se, uvědomovat si, vracet se, líbit se, divit se, narodit se, obrátit se, prohlížet si, představovat si, dít se, otočit se, těšit se, jmenovat se, otázat se, stěžovat si, bránit se, pustit se, přát si, stávat se, blížit se, dozvědět se, probudit se</li>
+</ul>
+
+<h3>Reflexive Passive</h3>
+
+<ul>
+  <li>This corpus contains 201 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: dát se, otevřít se, chtít se, říkat se, muset se, dělat se, začít se, vědět se, mluvit se, najít se, používat se, psát se, rozkřiknout se, moci se, měnit se, počítat se, připravovat se, příst se, vařit se, vysílat se, zbarvovat se, změnit se, bojovat se, chodit se, dostat se, dělávat se, hrnout se, hrát se, jet se, kouřit se, mít se, nabízet se, otevírat se, pootevřít se, posílat se, poznat se, prodlužovat se, prodávat se, proměnit se, propouštět se, pěstovat se, předpokládat se, přestavět se, rozkmitat se, roznést se, stavět se, svítit se, uvidět se, vcházet se, vyhodit se</li>
+</ul>
+
+<h3>Verbs with Reflexive Core Objects</h3>
+
+<ul>
+  <li>This corpus contains 263 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: říkat si, koupit si, říci si, svlékat se, svléknout se, mít se, schovat se, nalít si, převléknout se, přečíst si, slyšet se, vidět se, nabídnout se, vyčítat si, znát se, nasadit si, nechat si, odpovědět si, opakovat si, prostřít se, zabít se, navonět se, odpustit si, pomoci si, ponechat si, potkat se, psát si, přesvědčit se, převlékat se, připomenout si, přiznat si, schovávat se, udržet se, ujistit se, chytnout se, držet se, dělat si, kupovat si, milující se, namlouvat si, nazvat se, obléknout se, obout se, odradit se, odvést se, odvézt se, ohlásit se, omlouvat se, omluvit se, osvobozovat se</li>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 9 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a></li>
+<li>This corpus uses 10 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

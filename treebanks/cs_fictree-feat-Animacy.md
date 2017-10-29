@@ -42,7 +42,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 8583 <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> tokens (34% of all `VERB` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (8583; 100%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8583; 100%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (8583; 100%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (8583; 100%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (8562; 100%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (8559; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (7722; 90%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7010; 82%).
+The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (8583; 100%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8583; 100%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (8583; 100%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (8583; 100%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (8562; 100%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (8559; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (7722; 90%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7010; 82%).
 
 `VERB` tokens may have the following values of `Animacy`:
 
@@ -156,7 +156,7 @@ The most frequent other feature values with which `DET` and `Animacy` co-occurre
 
 1391 <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> tokens (62% of all `PROPN` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1391; 100%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1391; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1313; 94%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt> (854; 61%).
+The most frequent other feature values with which `PROPN` and `Animacy` co-occurred: <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1391; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1391; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1313; 94%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt> (854; 61%).
 
 `PROPN` tokens may have the following values of `Animacy`:
 
@@ -178,7 +178,7 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
 
 475 <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> tokens (7% of all `AUX` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (475; 100%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (475; 100%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (475; 100%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (475; 100%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (475; 100%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (475; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (438; 92%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (388; 82%).
+The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (475; 100%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (475; 100%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (475; 100%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (475; 100%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (475; 100%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (475; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (438; 92%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (388; 82%).
 
 `AUX` tokens may have the following values of `Animacy`:
 
@@ -198,7 +198,7 @@ The most frequent other feature values with which `AUX` and `Animacy` co-occurre
 
 467 <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> tokens (33% of all `NUM` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (467; 100%), <tt><a href="cs_fictree-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (467; 100%), <tt><a href="cs_fictree-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (467; 100%), <tt><a href="cs_fictree-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (467; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt> (247; 53%).
+The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="cs_fictree-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (467; 100%), <tt><a href="cs_fictree-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (467; 100%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (467; 100%), <tt><a href="cs_fictree-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (467; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt> (247; 53%).
 
 `NUM` tokens may have the following values of `Animacy`:
 

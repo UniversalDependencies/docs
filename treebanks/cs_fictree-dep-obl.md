@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Czech-FicTree: Relations: `obl`
 
 This relation is universal.
+There are 1 language-specific subtypes of `obl`: <tt><a href="cs_fictree-dep-obl-arg.html">obl:arg</a></tt>.
 
 9998 nodes (6%) are attached to their parents as `obl`.
 

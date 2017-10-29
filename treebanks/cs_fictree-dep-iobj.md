@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1742 nodes (1%) are attached to their parents as `iobj`.
+1385 nodes (1%) are attached to their parents as `iobj`.
 
-891 instances of `iobj` (51%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.01836969001148.
+713 instances of `iobj` (51%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.79638989169675.
 
-The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (1059; 61% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (510; 29% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (78; 4% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (69; 4% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (24; 1% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> (2; 0% instances).
+The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (960; 69% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (311; 22% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (56; 4% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (41; 3% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (15; 1% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -41,33 +41,35 @@ The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href=
 ~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 iobj	color:blue
-1	"	"	PUNCT	Z:-------------	_	6	punct	_	_
-2	Nic	nic	PRON	PW--4----------	Case=Acc|PronType=Neg	6	obj	_	_
-3	jsem	být	AUX	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
-4	o	o	ADP	RR--6----------	AdpType=Prep|Case=Loc	5	case	_	_
-5	životě	život	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	6	iobj	_	_
-6	nevěděla	vědět	VERB	VpFS----R-NA---	Gender=Fem|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-7	.	.	PUNCT	Z:-------------	_	6	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 5 iobj	color:blue
+1	Jednou	jednou	ADV	Db-------------	_	3	advmod	_	_
+2	jsem	být	AUX	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
+3	přinesl	přinést	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+4	své	svůj	DET	P8FS3---------1	Case=Dat|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	5	det	_	_
+5	pratetě	prateta	NOUN	NNFS3-----A----	Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos	3	iobj	_	_
+6	květinu	květina	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	3	obj	_	_
+7	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 iobj	color:blue
-1	Co	co	PRON	PQ--4----------	Animacy=Inan|Case=Acc|PronType=Int,Rel	4	obj	_	_
-2	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	3	case	_	_
-3	to	ten	DET	PDNS4----------	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	4	iobj	_	_
-4	říct	říci	VERB	Vf--------A---1	Polarity=Pos|VerbForm=Inf	0	root	_	_
-5	.	.	PUNCT	Z:-------------	_	4	punct	_	_
-6	.	.	PUNCT	Z:-------------	_	4	punct	_	_
-7	.	.	PUNCT	Z:-------------	_	4	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 iobj	color:blue
+1	"	"	PUNCT	Z:-------------	_	4	punct	_	_
+2	Tatínku	tatínek	NOUN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing|Polarity=Pos	4	vocative	_	_
+3	,	,	PUNCT	Z:-------------	_	4	punct	_	_
+4	můžu	moci	VERB	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	dát	dát	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	4	xcomp	_	_
+6	Ježíškovi	Ježíšek	PROPN	NNMS3-----A----	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	5	iobj	_	_
+7	bonbón	bonbón	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	5	obj	_	_
+8	?	?	PUNCT	Z:-------------	_	4	punct	_	_
+9	"	"	PUNCT	Z:-------------	_	4	punct	_	_
 
 ~~~
 

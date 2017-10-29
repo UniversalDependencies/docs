@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 
 323 <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> tokens (4% of all `DET` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (323; 100%), <tt><a href="cs_fictree-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (323; 100%), <tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (323; 100%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (323; 100%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (323; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (323; 100%), <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (217; 67%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt> (167; 52%).
+The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (323; 100%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (323; 100%), <tt><a href="cs_fictree-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (323; 100%), <tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (323; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (323; 100%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (323; 100%), <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (217; 67%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt> (167; 52%).
 
 `DET` tokens may have the following values of `NumType`:
 
@@ -76,7 +76,7 @@ The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<tt><a href="cs_fictree-dep-compound.html">compound</a></tt>]--> NUM</tt> (30; 100%),
 <tt>NUM --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> NUM</tt> (16; 100%),
 <tt>ADJ --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> ADJ</tt> (5; 63%),
-<tt>DET --[<tt><a href="cs_fictree-dep-det-nummod.html">det:nummod</a></tt>]--> DET</tt> (1; 100%),
+<tt>DET --[<tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt>]--> NUM</tt> (1; 100%),
 <tt>NUM --[<tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt>]--> NUM</tt> (1; 100%),
-<tt>DET --[<tt><a href="cs_fictree-dep-advcl.html">advcl</a></tt>]--> NUM</tt> (1; 100%).
+<tt>DET --[<tt><a href="cs_fictree-dep-det-nummod.html">det:nummod</a></tt>]--> DET</tt> (1; 100%).
 

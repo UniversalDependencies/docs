@@ -71,7 +71,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 3 <tt><a href="es-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="es-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="es-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (3; 100%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="es-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="es-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (3; 100%).
 
 `ADV` tokens may have the following values of `PronType`:
 
@@ -83,8 +83,8 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<tt><a href="es-dep-conj.html">conj</a></tt>]--> PRON</tt> (40; 87%),
 <tt>DET --[<tt><a href="es-dep-conj.html">conj</a></tt>]--> DET</tt> (9; 69%),
-<tt>PRON --[<tt><a href="es-dep-dep.html">dep</a></tt>]--> PRON</tt> (1; 100%),
-<tt>PRON --[<tt><a href="es-dep-advmod.html">advmod</a></tt>]--> PRON</tt> (1; 100%),
+<tt>PRON --[<tt><a href="es-dep-iobj.html">iobj</a></tt>]--> PRON</tt> (1; 100%),
 <tt>DET --[<tt><a href="es-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (1; 100%),
-<tt>PRON --[<tt><a href="es-dep-iobj.html">iobj</a></tt>]--> PRON</tt> (1; 100%).
+<tt>PRON --[<tt><a href="es-dep-dep.html">dep</a></tt>]--> PRON</tt> (1; 100%),
+<tt>PRON --[<tt><a href="es-dep-advmod.html">advmod</a></tt>]--> PRON</tt> (1; 100%).
 

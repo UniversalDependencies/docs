@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="es-pos-PRON.html">P
 
 13 <tt><a href="es-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Polite`.
 
-The most frequent other feature values with which `PRON` and `Polite` co-occurred: <tt><a href="es-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (13; 100%), <tt><a href="es-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="es-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (13; 100%), <tt><a href="es-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="es-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="es-feat-Person.html">Person</a></tt><tt>=2</tt> (13; 100%), <tt><a href="es-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8; 62%).
+The most frequent other feature values with which `PRON` and `Polite` co-occurred: <tt><a href="es-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (13; 100%), <tt><a href="es-feat-Case.html">Case</a></tt><tt>=Acc,Nom</tt> (13; 100%), <tt><a href="es-feat-Person.html">Person</a></tt><tt>=2</tt> (13; 100%), <tt><a href="es-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="es-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="es-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="es-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8; 62%).
 
 `PRON` tokens may have the following values of `Polite`:
 

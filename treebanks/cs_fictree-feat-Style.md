@@ -60,7 +60,7 @@ The most frequent other feature values with which `ADJ` and `Style` co-occurred:
 
 25 <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `PRON` and `Style` co-occurred: <tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (25; 100%), <tt><a href="cs_fictree-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (25; 100%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt> (24; 96%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (24; 96%), <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (21; 84%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=3</tt> (21; 84%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (18; 72%).
+The most frequent other feature values with which `PRON` and `Style` co-occurred: <tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (25; 100%), <tt><a href="cs_fictree-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (25; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (24; 96%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt> (24; 96%), <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (21; 84%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=3</tt> (21; 84%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (18; 72%).
 
 `PRON` tokens may have the following values of `Style`:
 
@@ -78,7 +78,7 @@ The most frequent other feature values with which `PRON` and `Style` co-occurred
 
 19 <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (17; 89%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (17; 89%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (17; 89%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (16; 84%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (16; 84%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (14; 74%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (14; 74%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (14; 74%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (14; 74%).
+The most frequent other feature values with which `VERB` and `Style` co-occurred: <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (17; 89%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (17; 89%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (17; 89%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (16; 84%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (16; 84%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (14; 74%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt> (14; 74%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (14; 74%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (14; 74%).
 
 `VERB` tokens may have the following values of `Style`:
 
@@ -88,7 +88,7 @@ The most frequent other feature values with which `VERB` and `Style` co-occurred
 
 13 <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `DET` and `Style` co-occurred: <tt><a href="cs_fictree-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (9; 69%), <tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (9; 69%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9; 69%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (9; 69%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9; 69%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt> (7; 54%).
+The most frequent other feature values with which `DET` and `Style` co-occurred: <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9; 69%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (9; 69%), <tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (9; 69%), <tt><a href="cs_fictree-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (9; 69%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9; 69%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt> (7; 54%).
 
 `DET` tokens may have the following values of `Style`:
 
@@ -98,7 +98,7 @@ The most frequent other feature values with which `DET` and `Style` co-occurred:
 
 6 <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> tokens (0% of all `AUX` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `AUX` and `Style` co-occurred: <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (6; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 67%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=2</tt> (4; 67%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4; 67%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4; 67%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4; 67%).
+The most frequent other feature values with which `AUX` and `Style` co-occurred: <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (6; 100%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4; 67%), <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (4; 67%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=2</tt> (4; 67%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 67%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4; 67%).
 
 `AUX` tokens may have the following values of `Style`:
 

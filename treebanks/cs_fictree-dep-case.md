@@ -70,7 +70,7 @@ The following 15 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 3 2 case	color:blue
 1	nebudu	být	AUX	VB-S---1F-NA---	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	_
 2	o	o	ADP	RR--6----------	AdpType=Prep|Case=Loc	3	case	_	_
-3	tom	ten	DET	PDNS6----------	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	5	obj	_	_
+3	tom	ten	DET	PDNS6----------	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	5	obl:arg	_	_
 4	radši	rád	ADV	Dg-------2A---1	Degree=Cmp|Polarity=Pos	5	advmod	_	_
 5	mluvit	mluvit	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	1	parataxis	_	_
 6	.	.	PUNCT	Z:-------------	_	1	punct	_	_

@@ -82,7 +82,7 @@ The following 16 pairs of parts of speech are connected with `discourse`: <tt><a
 7	podívat	podívat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	5	csubj	_	_
 8	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	7	expl:pv	_	_
 9	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	10	case	_	_
-10	obrázek	obrázek	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	7	obj	_	_
+10	obrázek	obrázek	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	7	obl:arg	_	_
 11	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
 ~~~

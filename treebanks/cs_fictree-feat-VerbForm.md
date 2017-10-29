@@ -152,8 +152,8 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="cs_fictree-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (65; 78%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt>]--> VERB</tt> (35; 88%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> VERB</tt> (34; 83%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> ADJ</tt> (2; 67%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-cop.html">cop</a></tt>]--> AUX</tt> (2; 100%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-advmod.html">advmod</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-aux.html">aux</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>VERB --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> ADJ</tt> (2; 67%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-aux.html">aux</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>AUX --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> VERB</tt> (1; 100%).
 

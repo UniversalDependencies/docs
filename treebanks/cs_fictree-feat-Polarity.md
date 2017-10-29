@@ -40,7 +40,7 @@ The most frequent other feature values with which `NOUN` and `Polarity` co-occur
 
 24939 <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (21338; 86%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18250; 73%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (17640; 71%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (17640; 71%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (16356; 66%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (14467; 58%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (14464; 58%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="cs_fictree-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (21338; 86%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (18250; 73%), <tt><a href="cs_fictree-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (17640; 71%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (17640; 71%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (16356; 66%), <tt><a href="cs_fictree-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (14467; 58%), <tt><a href="cs_fictree-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (14464; 58%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
@@ -182,7 +182,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 
 2255 <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> tokens (100% of all `PROPN` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `PROPN` and `Polarity` co-occurred: <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2143; 95%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1391; 62%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1278; 57%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (1278; 57%).
+The most frequent other feature values with which `PROPN` and `Polarity` co-occurred: <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2143; 95%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1391; 62%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (1278; 57%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1278; 57%).
 
 `PROPN` tokens may have the following values of `Polarity`:
 
@@ -194,7 +194,7 @@ The most frequent other feature values with which `PROPN` and `Polarity` co-occu
 
 180 <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `DET` and `Polarity` co-occurred: <tt><a href="cs_fictree-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (180; 100%), <tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (180; 100%), <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (180; 100%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (180; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (178; 99%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (115; 64%).
+The most frequent other feature values with which `DET` and `Polarity` co-occurred: <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (180; 100%), <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (180; 100%), <tt><a href="cs_fictree-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (180; 100%), <tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (180; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (178; 99%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (115; 64%).
 
 `DET` tokens may have the following values of `Polarity`:
 
@@ -205,7 +205,7 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 
 5 <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `PRON` and `Polarity` co-occurred: <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5; 100%), <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5; 100%), <tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 100%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=2</tt> (5; 100%), <tt><a href="cs_fictree-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5; 100%).
+The most frequent other feature values with which `PRON` and `Polarity` co-occurred: <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=2</tt> (5; 100%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5; 100%), <tt><a href="cs_fictree-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (5; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 100%), <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5; 100%).
 
 `PRON` tokens may have the following values of `Polarity`:
 
@@ -217,7 +217,7 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 The 10 most frequent relations where parent and child node agree in `Polarity`:
 <tt>NOUN --[<tt><a href="cs_fictree-dep-amod.html">amod</a></tt>]--> ADJ</tt> (7079; 92%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-obl.html">obl</a></tt>]--> NOUN</tt> (6396; 95%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-obj.html">obj</a></tt>]--> NOUN</tt> (5472; 91%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-obj.html">obj</a></tt>]--> NOUN</tt> (4791; 91%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> VERB</tt> (4506; 85%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4195; 92%),
 <tt>NOUN --[<tt><a href="cs_fictree-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3384; 100%),
