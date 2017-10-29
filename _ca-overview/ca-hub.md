@@ -22,7 +22,7 @@ udver: '2'
     Example: _al = a + el_ “to the”, _del = de + el_ “of the”.
   * Certain verb forms (infinitives, imperatives, present participles) are writen together with
     object clitic pronouns, while with other verb forms the clitics are written as separate words.
-    Examples: _convertirse = convertir + se_ “to become” (lit. “to convert itself”), _hacerlo_ “to do it”.
+    Examples: _convertir-se = convertir + se_ “to become” (lit. “to convert itself”), _fer-ho_ “to do it”.
 
 ## Morphology
 
@@ -33,26 +33,25 @@ udver: '2'
 * TODO: rules for the PRON vs. DET distinction.
 * Catalan auxiliary verbs ([AUX]()) are:
   * _ser_ and _estar_ “to be”, used as copulas
-  * _ser_ “to be” for the passive (_la sentencia fue publicada_ “the sentence was published”)
-  * _estar_ “to be” for the progressive (_mis hijos están estudiando inglés_ “my children are studying English”)
-  * _haber_ “to be” for the perfect tenses (_ha venido hoy_ “he came today”)
+  * _ser_ “to be” for the passive (_la guia va ser presentada_ “the guide will be presented”)
+  * _estar_ “to be” for the progressive (_la globalització està causant els canvis_ “globalization is causing changes”)
+  * _haver_ “to be” for the perfect tenses (_¿Què ha passat?_ “What happened?”)
 * There are four main (de)verbal forms, distinguished by the UPOS tag and the value of the [VerbForm]() feature:
   * Infinitive `Inf`, tagged [VERB]() or [AUX](), e.g. _estudiar_ “to study”.
-  * Finite verb `Fin`, tagged [VERB]() or [AUX](), e.g. _estudio_ “I study”.
-  * Participle `Part`, tagged [VERB]() or [AUX](), e.g. _estudiado_ “studied”.
-  * Gerund `Ger` (Catalan _gerundio_) or present participle, e.g. _estudiando_ “studying”.
+  * Finite verb `Fin`, tagged [VERB]() or [AUX](), e.g. _estudiarem_ “we will study”.
+  * Participle `Part`, tagged [VERB]() or [AUX](), e.g. _estudiat_ “studied”.
+  * Gerund `Ger` (Catalan _gerundio_) or present participle, e.g. _estudiant_ “studying”.
 
 ### Nominal Features
 
 * Nominal words ([NOUN](), [PROPN]() and [PRON]()) have an inherent [Gender]() feature with one of two values: `Masc` or `Fem`.
   * The following parts of speech inflect for `Gender` because they must agree with nouns: [ADJ](), [DET]().
-    Only a subset of adjectives can inflect for gender, with the suffix _-o_ indicating the masculine
-    and _-a_ the feminine. A large group of adjectives (e.g. _grande_ “big” or _feliz_ “happy”)
+    Only a subset of adjectives can inflect for gender. A large group of adjectives (e.g. _firal_ “fair” or _gran_ “big”)
     have just one form regardless of the gender of the modified noun. These adjectives have the
     gender feature empty.
 * The two values of the [Number]() feature are `Sing` and `Plur`. The following parts of speech inflect for number:
   [NOUN](), [PROPN](), [PRON](), [ADJ](), [DET](), [VERB](), [AUX]() (finite and participles).
-* [Case]() has 4 possible values: `Nom`, `Dat`, `Acc`, `Com`.
+* [Case]() has three possible values: `Nom`, `Dat`, `Acc`.
   It occurs only with personal pronouns ([PRON]()).
   The “case” (i.e., role w.r.t. predicates or other phrases) of other nominals is expressed using prepositions, not morphologically.
 * [Definite]() has 2 values: `Ind`, `Def`. It is used to distinguish the indefinite and definite articles ([DET]()).
@@ -82,18 +81,17 @@ udver: '2'
 
 * [PronType]() is used with pronouns ([PRON]()) and determiners ([DET]()).
 * [NumType]() is used with numerals ([NUM]()), adjectives ([ADJ]()) and determiners ([DET]()).
-* The [Poss]() feature marks possessive personal determiners (e.g. _mi_ “my”),
-  possessive personal pronouns (e.g. _mío_ “mine”), and
-  possessive interrogative or relative determiners (e.g. _cuyo_ “whose”).
-* The [Reflex]() feature is always used together with `PronType=Prs` and it marks reflexive pronouns _(me, te, se, nos, os)._
+* The [Poss]() feature marks possessive personal determiners (e.g. _meu_ “my”),
+  possessive personal pronouns (e.g. _meva_ “mine”).
+* The [Reflex]() feature is always used together with `PronType=Prs` and it marks reflexive pronouns.
   Note that their forms in the first and second person are ambiguous with irreflexive accusative forms, and the `Reflex` feature
   must be decided by context.
 * [Person]() is a lexical feature of personal pronouns ([PRON]()) and has three values, `1`, `2` and `3`.
   With personal possessive determiners ([DET]()), the feature actually encodes the person of the possessor.
   Person is not marked on other types of pronouns and on nouns, although they can be almost always interpreted as the 3rd person.
   * As a cross-reference to subject, person is also marked on finite verbs ([VERB](), [AUX]()).
-* The [Polite]() feature distinguishes informal second-person pronouns (_tú, vosotros,_ `Polite=Infm`)
-  from the formal _usted, ustedes_ (`Polite=Form`).
+* The [Polite]() feature distinguishes informal second-person pronouns (_tu, vosaltres,_ `Polite=Infm`)
+  from the formal _vostè, vostès_ (`Polite=Form`).
 * There is one [layered feature](../../u/overview/feat-layers.html), [Number[psor]]().
   It appears with possessive determiners and encodes the lexical number of the possessor.
   The extra layer is needed to distinguish this lexical feature from the inflectional number
@@ -113,23 +111,22 @@ udver: '2'
 * Direct nominal object ([obj]()) is either a bare noun phrase (for inanimate objects)
   or a prepositional phrase with the preposition _a_ (for animate objects)
   or a personal pronoun in the accusative form.
-* Extra attention has to be paid to the reflexive pronoun _se_. It can function as:
-  * Core object ([obj]() or [iobj]()): _él se vio en el espejo_ “he sighted himself in the mirror.”
-  * Reciprocal core objects (`obj` or `iobj`): _se besaron_ “they kissed each other.”
-  * Reflexive passive ([expl:pass]()): _se celebran los cien años del club_ “hundred years of the club are celebrated” (lit.  “celebrate themselves”); _se dice que la escribió en París_ “it is said that he wrote it in Paris.”
+* Extra attention has to be paid to the reflexive pronoun _es_. It can function as:
+  * Core object ([obj]() or [iobj]()): _es va veure al mirall_ “he sighted himself in the mirror.”
+  * Reciprocal core objects (`obj` or `iobj`): _es van besar_ “they kissed each other.”
+  * Reflexive passive ([expl:pass]()): _s'ha ofert una atenció psicològica a les persones afectades_ “psychological attention has been offered to the people affected” (lit.  “offered itself”).
   * Inherently reflexive verb, cannot exist without the reflexive clitic, and the clitic cannot be substituted by an irreflexive pronoun
     or a noun phrase. In many cases, an irreflexive counterpart of the verb actually exists but its meaning is different because it
     denotes a different action performed by the agent.
     In accord with the current UD guidelines, we label the relation
-    between the verb and the clitic as [expl:pv](), not `compound`. Example: _se trataba de un negocio nuevo_ “the matter is a new contract.”
+    between the verb and the clitic as [expl:pv](), not `compound`. Example: _es tracta d'una immigració_ “the matter is immigration;”
+    _s'havia de riure_ “he had to laugh.”
 * In passive clauses, the subject is labeled with [nsubj:pass]() or [csubj:pass](), respectively.
   * The auxiliary verb in periphrastic passive is labeled [aux:pass]().
 
 ### Non-verbal Clauses
 
 * The copula verbs _ser_ and _estar_ (be) are used in equational, attributional, locative, possessive and benefactory nonverbal clauses.
-  * Existential clauses use a different verb, _hay_ (be), and the entity whose existence is asserted is its object:
-    _hay algo para comer_ “there is something to eat.”
 
 ### Relations Overview
 
@@ -143,8 +140,8 @@ udver: '2'
 
 ## Treebanks
 
-There are [three](../../treebanks/es-comparison.html) Catalan UD treebanks:
+There is one Catalan UD treebank:
 
-  * [Catalan](../../treebanks/es-index.html)
-  * [Catalan-AnCora](../../treebanks/es_ancora-index.html)
-  * [Catalan-PUD](../../treebanks/es_pud-index.html)
+  * [Catalan](../../treebanks/ca-index.html)
+
+[Spanish-Catalan comparison](../../treebanks/es-ca-comparison.html)
