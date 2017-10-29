@@ -35,7 +35,7 @@ udver: '2'
 * TODO: rules for the PRON vs. DET distinction.
 * Catalan auxiliary verbs ([AUX]()) are:
   * _ser_ and _estar_ “to be”, used as copulas
-  * _ser_ “to be” for the passive (_la guia va ser presentada_ “the guide will be presented”)
+  * _ser_ “to be” for the passive (_la guia va ser presentada_ “the guide was presented”)
   * _estar_ “to be” for the progressive (_la globalització està causant els canvis_ “globalization is causing changes”)
   * _haver_ “to be” for the perfect tenses (_¿Què ha passat?_ “What happened?”)
 * There are four main (de)verbal forms, distinguished by the UPOS tag and the value of the [VerbForm]() feature:
