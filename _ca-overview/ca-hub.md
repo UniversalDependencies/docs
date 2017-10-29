@@ -23,6 +23,8 @@ udver: '2'
   * Certain verb forms (infinitives, imperatives, present participles) are writen together with
     object clitic pronouns, while with other verb forms the clitics are written as separate words.
     Examples: _convertir-se = convertir + se_ “to become” (lit. “to convert itself”), _fer-ho_ “to do it”.
+    Since the verb-clitic combination is written with a hyphen in Catalan, it could be split during the low-level tokenization.
+    However, we treat it as a multi-word token to emphasize parallelism with Spanish, where it is written as one word.
 
 ## Morphology
 
