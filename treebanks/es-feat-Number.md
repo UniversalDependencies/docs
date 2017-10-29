@@ -132,13 +132,13 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 <table>
   <tr><th>Paradigm <i>haber</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="es-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>han, haber</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="es-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>haber, han</em></td><td></td></tr>
   <tr><td><tt><tt><a href="es-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="es-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>has</em></td></tr>
   <tr><td><tt><tt><a href="es-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="es-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>habría</em></td><td><em>habrían</em></td></tr>
   <tr><td><tt><tt><a href="es-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td></td><td><em>habíamos</em></td></tr>
   <tr><td><tt><tt><a href="es-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="es-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>he</em></td><td><em>hemos</em></td></tr>
   <tr><td><tt><tt><a href="es-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="es-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>has</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="es-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>Habría, habrá</em></td><td><em>habrán</em></td></tr>
+  <tr><td><tt><tt><a href="es-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>habrá, Habría</em></td><td><em>habrán</em></td></tr>
   <tr><td><tt><tt><a href="es-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>había, habría</em></td><td><em>habían</em></td></tr>
   <tr><td><tt><tt><a href="es-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>hubo</em></td><td></td></tr>
   <tr><td><tt><tt><a href="es-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ha, hay</em></td><td><em>han</em></td></tr>

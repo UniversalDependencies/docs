@@ -39,7 +39,7 @@ The most frequent other feature values with which `PRON` and `PrepCase` co-occur
 
 2 <tt><a href="es-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `PrepCase`.
 
-The most frequent other feature values with which `DET` and `PrepCase` co-occurred: <tt><a href="es-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2; 100%), <tt><a href="es-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2; 100%).
+The most frequent other feature values with which `DET` and `PrepCase` co-occurred: <tt><a href="es-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (2; 100%), <tt><a href="es-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (2; 100%).
 
 `DET` tokens may have the following values of `PrepCase`:
 

@@ -49,7 +49,7 @@ The most frequent other feature values with which `PROPN` and `Polarity` co-occu
 
 3 <tt><a href="es-pos-X.html">X</a></tt> tokens (0% of all `X` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `X` and `Polarity` co-occurred: <tt><a href="es-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 67%), <tt><a href="es-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 67%).
+The most frequent other feature values with which `X` and `Polarity` co-occurred: <tt><a href="es-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2; 67%), <tt><a href="es-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2; 67%).
 
 `X` tokens may have the following values of `Polarity`:
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `X` and `Polarity` co-occurred
 
 1 <tt><a href="es-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="es-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%), <tt><a href="es-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%).
+The most frequent other feature values with which `ADJ` and `Polarity` co-occurred: <tt><a href="es-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1; 100%), <tt><a href="es-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1; 100%).
 
 `ADJ` tokens may have the following values of `Polarity`:
 

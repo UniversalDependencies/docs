@@ -71,7 +71,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 3 <tt><a href="es-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="es-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="es-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (3; 100%).
+The most frequent other feature values with which `ADV` and `PronType` co-occurred: <tt><a href="es-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (3; 100%), <tt><a href="es-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (3; 100%).
 
 `ADV` tokens may have the following values of `PronType`:
 

@@ -96,7 +96,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
   <tr><td><tt><tt><a href="es-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="es-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>has</em></td></tr>
   <tr><td><tt><tt><a href="es-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="es-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>habría</em></td></tr>
   <tr><td><tt><tt><a href="es-feat-Mood.html">Mood</a></tt><tt>=Cnd</tt>|<tt><a href="es-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>habrían</em></td></tr>
-  <tr><td><tt><tt><a href="es-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td></td><td><em>Habría, habrá</em></td></tr>
+  <tr><td><tt><tt><a href="es-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td></td><td><em>habrá, Habría</em></td></tr>
   <tr><td><tt><tt><a href="es-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td></td><td></td><td><em>había, habría</em></td></tr>
   <tr><td><tt><tt><a href="es-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>hubo</em></td></tr>
   <tr><td><tt><tt><a href="es-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="es-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>he</em></td><td><em>has</em></td><td><em>ha, hay</em></td></tr>
@@ -177,5 +177,5 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="es-dep-cc.html">cc</a></tt>]--> VERB</tt> (17; 71%),
 <tt>PRON --[<tt><a href="es-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (13; 54%),
 <tt>PRON --[<tt><a href="es-dep-conj.html">conj</a></tt>]--> PRON</tt> (8; 57%),
-<tt>VERB --[<tt><a href="es-dep-advmod.html">advmod</a></tt>]--> PRON</tt> (6; 67%).
+<tt>VERB --[<tt><a href="es-dep-advcl.html">advcl</a></tt>]--> PRON</tt> (6; 67%).
 
