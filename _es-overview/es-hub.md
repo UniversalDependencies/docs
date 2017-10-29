@@ -16,66 +16,76 @@ udver: '2'
 * In general, words are delimited by whitespace characters. Description of exceptions follows.
 * According to typographical rules, many punctuation marks are attached to a neighboring word.
   We usually tokenize them as separate tokens (words)
-  with the exception of abbreviations such as _usw._ “etc.” which are kept as one token with the period.
-* Spanish compounds are written as one word and we do not split them.
-* There is one class of multi-word tokens: the contractions of prepositions and definite articles.
-  Example: _zum = zu + dem_ “to the”.
+  with the exception of abbreviations such as _etc._ “etc.” which are kept as one token with the period.
+* There are two main classes of multi-word tokens:
+  * Contractions of prepositions and definite articles.
+    Example: _al = a + el_ “to the”, _del = de + el_ “of the”.
+  * Certain verb forms (infinitives, imperatives, present participles) are writen together with
+    object clitic pronouns, while with other verb forms the clitics are written as separate words.
+    Examples: _convertirse = convertir + se_ “to become” (lit. “to convert itself”), _hacerlo_ “to do it”.
 
 ## Morphology
 
 ### Tags
 
 * Spanish uses all 17 universal POS categories, including particles ([PART]()).
-* The following words are particles in Spanish: _nicht_ “not”, and the infinitive marker _zu_ “to”.
-* The pronoun ([PRON]()) vs. determiner ([DET]()) distinction is based on word lists because the traditional grammar does not define determiners.
-  In general, words that inflect for gender, to be able to agree with a modified noun, are tagged [DET](), even if they
-  act independently in a given sentence; that includes possessives.
+* The only word to be tagged as particle is _no_ “not”.
+* TODO: rules for the PRON vs. DET distinction.
 * Spanish auxiliary verbs ([AUX]()) are:
-  * _sein_ for perfect tenses of some verbs (_ich bin gekommen_ “I have come”) and as copula (_er ist alt_ “he is old”)
-  * _haben_ for perfect tenses of the remaining verbs (_ich habe gegessen_ “I have eaten”)
-  * _werden_ for future tense (_ich werde reisen_ “I will travel”) and for the passive (_es wurde gegessen_ “it was eaten”)
-  * modal verbs _dürfen_ “may”, _können_ “can”, _mögen_ “want”, _müssen_ “must”, _sollen_ “shall”, _wollen_ “want”
-  * The verbs _sein, haben_ and _werden_ can also occur as normal verbs ([VERB]()), meaning “be, have, become”.
+  * _ser_ and _estar_ “to be”, used as copulas
+  * _ser_ “to be” for the passive (_la sentencia fue publicada_ “the sentence was published”)
+  * _estar_ “to be” for the progressive (_mis hijos están estudiando inglés_ “my children are studying English”)
+  * _haber_ “to be” for the perfect tenses (_ha venido hoy_ “he came today”)
 * There are four main (de)verbal forms, distinguished by the UPOS tag and the value of the [VerbForm]() feature:
-  * Infinitive `Inf`, tagged [VERB]() or [AUX]().
-  * Finite verb `Fin`, tagged [VERB]() or [AUX]().
-  * Participle `Part`, tagged [VERB]() or [AUX]().
-  * Verbal noun `Vnoun`, tagged [NOUN](), looks like a capitalized infinitive but has an article and may inflect.
+  * Infinitive `Inf`, tagged [VERB]() or [AUX](), e.g. _estudiar_ “to study”.
+  * Finite verb `Fin`, tagged [VERB]() or [AUX](), e.g. _estudio_ “I study”.
+  * Participle `Part`, tagged [VERB]() or [AUX](), e.g. _estudiado_ “studied”.
+  * Gerund `Ger` (Spanish _gerundio_) or present participle, e.g. _estudiando_ “studying”.
 
 ### Nominal Features
 
-* Nominal words ([NOUN](), [PROPN]() and [PRON]()) have an inherent [Gender]() feature with one of three values: `Masc`, `Fem` or `Neut`.
-  * The following parts of speech inflect for `Gender` because they must agree with nouns: [ADJ](), [DET](),
-    [VERB](), [AUX](). For verbs (including auxiliaries), only participles can inflect for gender. Finite verbs don't.
-* The two main values of the [Number]() feature are `Sing` and `Plur`. The following parts of speech inflect for number:
+* Nominal words ([NOUN](), [PROPN]() and [PRON]()) have an inherent [Gender]() feature with one of two values: `Masc` or `Fem`.
+  * The following parts of speech inflect for `Gender` because they must agree with nouns: [ADJ](), [DET]().
+    Only a subset of adjectives can inflect for gender, with the suffix _-o_ indicating the masculine
+    and _-a_ the feminine. A large group of adjectives (e.g. _grande_ “big” or _feliz_ “happy”)
+    have just one form regardless of the gender of the modified noun. These adjectives have the
+    gender feature empty.
+* The two values of the [Number]() feature are `Sing` and `Plur`. The following parts of speech inflect for number:
   [NOUN](), [PROPN](), [PRON](), [ADJ](), [DET](), [VERB](), [AUX]() (finite and participles).
-* [Case]() has 4 possible values: `Nom`, `Gen`, `Dat`, `Acc`.
-  It occurs with the nominal words, i.e., [NOUN](), [PROPN](), [PRON](), [ADJ](), [DET]().
-  However, case forms of nouns are extremely ambiguous and most of the time the case is distinguished only by the form of the article.
+* [Case]() has 4 possible values: `Nom`, `Dat`, `Acc`, `Com`.
+  It occurs only with personal pronouns ([PRON]()).
+  The “case” (i.e., role w.r.t. predicates or other phrases) of other nominals is expressed using prepositions, not morphologically.
 * [Definite]() has 2 values: `Ind`, `Def`. It is used to distinguish the indefinite and definite articles ([DET]()).
 
 ### Degree and Polarity
 
-* [Degree]() applies to adjectives ([ADJ]()) and adverbs ([ADV]()) and has one of three possible values: `Pos`, `Cmp`, `Sup`.
-* [Polarity]() is used to mark the negative particle _nicht,_ i.e., only the `Neg` value is used.
+* [Degree]() applies to adjectives ([ADJ]()) and adverbs ([ADV]()) and has one of three possible values: `Pos`, `Cmp`, `Abs`.
+  The absolute superlative is marked morphologically on adjectives.
+  Otherwise, the comparative and superlative of most adjectives is formed periphrastically,
+  and `Degree=Cmp` is only used with a few irregular forms.
+* [Polarity]() is used to mark the negative particle _no,_ i.e., only the `Neg` value is used.
 
 ### Verbal Features
 
-* Finite verbs always have one of three values of [Mood](): `Ind`, `Imp` or `Sub` (called _Konjunktiv_ in Spanish).
-* Indicative and subjunctive verbs always have one of two values of [Tense](): `Past`, `Pres`.
-  * In the subjunctive mood, the tense feature is used to distinguish Konjunktiv I (`Pres`) and Konjunktiv II (`Past`).
-  * Imperative forms do not have the `Tense` feature.
-  * The `Tense` feature is also used to distinguish present and past participles (_kommend_ “coming” vs. _gekommen_ “come”).
-* The features [Aspect]() and [Voice]() are not used in Spanish because
-  both the perfect aspect and the passive voice are expressed periphrastically.
+* Finite verbs always have one of four values of [Mood](): `Ind`, `Imp`, `Sub` and `Cnd`.
+* Finite verbs can have one of four values of [Tense](): `Past`, `Imp`, `Pres`, `Fut`.
+  * Imperative and conditional forms do not have the `Tense` feature.
+    (In Spanish grammar, the conditional is itself often classified as a tense.
+    However, it is a mood in Universal Dependencies.)
+  * The `Tense` feature is also used with the past participles (_venido_ “come”).
+* The [Aspect]() feature is currently not used in Spanish.
+  It is not needed for the imperfect past tense because UD has the special value `Tense=Imp`.
+  And it is not needed for the perfect tenses because they are constructed periphrastically.
+* The [Voice]() feature is not used in Spanish because the passive voice is expressed periphrastically.
 
 ### Pronouns, Determiners, Quantifiers
 
-* [PronType]() is used with pronouns ([PRON]()), determiners ([DET]()) and adverbs ([ADV]()).
+* [PronType]() is used with pronouns ([PRON]()) and determiners ([DET]()).
 * [NumType]() is used with numerals ([NUM]()), adjectives ([ADJ]()) and determiners ([DET]()).
-* The [Poss]() feature marks possessive personal determiners (e.g. _mein_ “my”),
-  possessive interrogative or relative determiners (e.g. _wessen_ “whose”).
-* The [Reflex]() feature is always used together with `PronType=Prs` and it marks reflexive pronouns _(mich, dich, sich, uns, euch)._
+* The [Poss]() feature marks possessive personal determiners (e.g. _mi_ “my”),
+  possessive personal pronouns (e.g. _mío_ “mine”), and
+  possessive interrogative or relative determiners (e.g. _cuyo_ “whose”).
+* The [Reflex]() feature is always used together with `PronType=Prs` and it marks reflexive pronouns _(me, te, se, nos, os)._
   Note that their forms in the first and second person are ambiguous with irreflexive accusative forms, and the `Reflex` feature
   must be decided by context.
 * [Person]() is a lexical feature of personal pronouns ([PRON]()) and has three values, `1`, `2` and `3`.
