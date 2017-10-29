@@ -92,86 +92,59 @@ udver: '2'
   With personal possessive determiners ([DET]()), the feature actually encodes the person of the possessor.
   Person is not marked on other types of pronouns and on nouns, although they can be almost always interpreted as the 3rd person.
   * As a cross-reference to subject, person is also marked on finite verbs ([VERB](), [AUX]()).
-* The [Polite]() feature distinguishes informal second-person pronouns (_du, ihr,_ `Polite=Infm`)
-  from the formal _Sie_ (`Polite=Form`).
-  The formal pronoun is phonologically equivalent in all its case forms to the third-person plural _sie_
-  but it is distinguished in orthography by the capital letter _S._
-  We tag it as second person (because that is its meaning) and we do not tag its number (because it is used both
-  for singular and plural addressees) despite the fact that it combines with third-person plural verbs.
-  The parser must learn that `Person=2|Polite=Form` subject attaches to `Number=Plur|Person=3` verbs,
-  while `Number=Sing|Person=2|Polite=Infm` subject attaches to `Number=Sing|Person=2` verbs.
-* There are two [layered features](../../u/overview/feat-layers.html), [Gender[psor]]() and [Number[psor]]().
-  They appear with certain possessive determiners and encode the lexical gender/number of the possessor.
-  The extra layer is needed to distinguish these lexical features from the inflectional gender and number
-  that mark agreement with the modified (possessed) noun.
+* The [Polite]() feature distinguishes informal second-person pronouns (_tú, vosotros,_ `Polite=Infm`)
+  from the formal _usted, ustedes_ (`Polite=Form`).
+* There is one [layered feature](../../u/overview/feat-layers.html), [Number[psor]]().
+  It appears with possessive determiners and encodes the lexical number of the possessor.
+  The extra layer is needed to distinguish this lexical feature from the inflectional number
+  that marks agreement with the modified (possessed) noun.
 
 ### Other Features
 
-* Besides the layered features listed above, there are several other language-specific features:
-  * [Typo]()
 * The following universal features are not used in Spanish: [Animacy](), [Evident]().
 
 ## Syntax
 
 ### Core Arguments, Oblique Arguments and Adjuncts
 
-* Nominal subject ([nsubj]()) is a noun phrase in the nominative case, without preposition.
-  * A finite subordinate clause may serve as the subject and is labeled `csubj`.
-  * If an infinitive verb is to serve as the subject, it becomes a verbal noun
-    (it gets the neuter singular nominative article and it is capitalized in writing),
-    thus it is labeled `nsubj`.
-* Objects defined in the Spanish grammar may be bare noun phrases in accusative, dative or genitive,
-  or prepositional phrases in accusative, dative or genitive.
-  For the purpose of UD the objects are divided to core objects, labeled [obj]() or [iobj](),
-  and oblique objects, labeled [obl:arg]().
-  * Bare accusative, dative and genitive objects are considered core.
-  * All prepositional objects are considered oblique.
-  * Accusative objects of some verbs alternate with finite clausal complements, which are labeled [ccomp]().
-  * If a verb subcategorizes for the infinitive (e.g. phasal verbs or verbs of control), the infinitival complement is labeled [xcomp]().
-  * If a verb subcategorizes for two core objects, one of them accusative (or `ccomp`) and the other non-accusative,
-    then the non-accusative object is labeled [iobj]().
-    Core nominal objects in other situations are labeled just [obj]().
-* Adjuncts (or, following the Spanish grammar, adverbial modifiers realized as noun phrases) are usually
-  prepositional phrases, but they can be bare noun phrases as well. They are labeled [obl]():
-  * Temporal modifiers realized as accusative noun phrases: _ich arbeite jeden Tag_ “I work every day.”
-  * All prepositional phrases that are not prepositional objects (i.e., their role and form is not defined lexically by the predicate)
-    are adjuncts.
-* Extra attention has to be paid to the reflexive pronoun _sich_. It can function as:
-  * Core object ([obj]() or [iobj]()): _er sah sich im Spiegel_ “he sighted himself in the mirror.”
-  * Reciprocal core objects (`obj` or `iobj`): _sie küssten sich_ “they were kissing each other.”
+* Nominal subject ([nsubj]()) is a bare noun phrase without preposition.
+  If it is a personal pronoun, it must be in the nominative form
+  (note however that Spanish is a pro-drop language, where pronominal subjects can be omitted).
+* Direct nominal object ([obj]()) is either a bare noun phrase (for inanimate objects)
+  or a prepositional phrase with the preposition _a_ (for animate objects)
+  or a personal pronoun in the accusative form.
+* Extra attention has to be paid to the reflexive pronoun _se_. It can function as:
+  * Core object ([obj]() or [iobj]()): _él se vio en el espejo_ “he sighted himself in the mirror.”
+  * Reciprocal core objects (`obj` or `iobj`): _se besaron_ “they kissed each other.”
+  * Reflexive passive ([expl:pass]()): _se celebran los cien años del club_ “hundred years of the club are celebrated” (lit.  “celebrate themselves”); _se dice que la escribió en París_ “it is said that he wrote it in Paris.”
   * Inherently reflexive verb, cannot exist without the reflexive clitic, and the clitic cannot be substituted by an irreflexive pronoun
-    or a noun phrase.
+    or a noun phrase. In many cases, an irreflexive counterpart of the verb actually exists but its meaning is different because it
+    denotes a different action performed by the agent.
     In accord with the current UD guidelines, we label the relation
-    between the verb and the clitic as [expl:pv](), not `compound`. Example: _wir müssen uns beeilen_ “we must hurry.”
+    between the verb and the clitic as [expl:pv](), not `compound`. Example: _se trataba de un negocio nuevo_ “the matter is a new contract.”
 * In passive clauses, the subject is labeled with [nsubj:pass]() or [csubj:pass](), respectively.
   * The auxiliary verb in periphrastic passive is labeled [aux:pass]().
-  * If the demoted agent is present, it has the form of a bare instrumental phrase and its relation is labeled [obl:agent]().
 
 ### Non-verbal Clauses
 
-* The copula verb _sein_ (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses.
-  * Existential clauses use a different verb, _geben_ (give) with an accusative object: _es gibt Essen_ “there is food.”
+* The copula verbs _ser_ and _estar_ (be) are used in equational, attributional, locative, possessive and benefactory nonverbal clauses.
+  * Existential clauses use a different verb, _hay_ (be), and the entity whose existence is asserted is its object:
+    _hay algo para comer_ “there is something to eat.”
 
 ### Relations Overview
 
 * The following relation subtypes are used in Spanish:
+  * [acl:relcl]() for relative clauses
   * [nsubj:pass]() for nominal subjects of passive verbs
   * [csubj:pass]() for clausal subjects of passive verbs
-  * [obl:agent]() for agents of passive verbs
-  * [obl:arg]() for prepositional objects
-  * [expl:pv]() for reflexive clitics of inherently reflexive verbs
   * [aux:pass]() for passive auxiliaries
-  * [compound:prt]() for separable verb prefixes
-  * [det:poss]() for possessive determiners
-  * [nmod:poss]() for possessive modifier phrases
-* The following main types are not used alone and must be subtyped:
-  [expl]()
 * The following relation types are not used in Spanish at all:
   [clf](), [dislocated]()
 
 ## Treebanks
 
-There are [two](../../treebanks/de-comparison.html) Spanish UD treebanks:
+There are [three](../../treebanks/es-comparison.html) Spanish UD treebanks:
 
-  * [Spanish](../../treebanks/de-index.html)
-  * [Spanish-PUD](../../treebanks/de_pud-index.html)
+  * [Spanish](../../treebanks/es-index.html)
+  * [Spanish-AnCora](../../treebanks/es_ancora-index.html)
+  * [Spanish-PUD](../../treebanks/es_pud-index.html)
