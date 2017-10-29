@@ -88,7 +88,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 234 <tt><a href="es_pud-pos-VERB.html">VERB</a></tt> tokens (9% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (234; 100%), <tt><a href="es_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (234; 100%), <tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (234; 100%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (234; 100%), <tt><a href="es_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (234; 100%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (153; 65%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="es_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (234; 100%), <tt><a href="es_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (234; 100%), <tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (234; 100%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (234; 100%), <tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (234; 100%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (153; 65%).
 
 `VERB` tokens may have the following values of `Gender`:
 
@@ -100,7 +100,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 12 <tt><a href="es_pud-pos-AUX.html">AUX</a></tt> tokens (4% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="es_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="es_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8; 67%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="es_pud-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="es_pud-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="es_pud-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="es_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="es_pud-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (12; 100%), <tt><a href="es_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8; 67%).
 
 `AUX` tokens may have the following values of `Gender`:
 

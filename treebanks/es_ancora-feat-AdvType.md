@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="es_ancora-pos-NOUN.
 
 1887 <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `AdvType`.
 
-The most frequent other feature values with which `NOUN` and `AdvType` co-occurred: <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1886; 100%), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1886; 100%).
+The most frequent other feature values with which `NOUN` and `AdvType` co-occurred: <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1886; 100%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (1886; 100%).
 
 `NOUN` tokens may have the following values of `AdvType`:
 
@@ -30,7 +30,7 @@ The most frequent other feature values with which `NOUN` and `AdvType` co-occurr
 
 13 <tt><a href="es_ancora-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `AdvType`.
 
-The most frequent other feature values with which `ADJ` and `AdvType` co-occurred: <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="es_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (13; 100%).
+The most frequent other feature values with which `ADJ` and `AdvType` co-occurred: <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="es_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (13; 100%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (13; 100%).
 
 `ADJ` tokens may have the following values of `AdvType`:
 

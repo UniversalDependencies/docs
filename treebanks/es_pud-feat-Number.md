@@ -107,5 +107,5 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="es_pud-dep-compound-prt.html">compound:prt</a></tt>]--> PRON</tt> (205; 75%),
 <tt>NOUN --[<tt><a href="es_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (200; 77%),
 <tt>PROPN --[<tt><a href="es_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (159; 100%),
-<tt>VERB --[<tt><a href="es_pud-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (156; 85%).
+<tt>VERB --[<tt><a href="es_pud-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (156; 80%).
 

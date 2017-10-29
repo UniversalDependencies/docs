@@ -170,21 +170,21 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 <table>
   <tr><th>Paradigm <i>él</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>lo, le, Les</em></td><td><em>los, les</em></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>lo, Les, le</em></td><td><em>los, les</em></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>la</em></td><td><em>las</em></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>le, se, les</em></td><td><em>les</em></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>le, se</em></td><td><em>les</em></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>él</em></td><td><em>ellos</em></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>ella</em></td><td><em>ellas, les</em></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>me</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>ello</em></td><td><em>Les, se</em></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>ello</em></td><td><em>se, Les</em></td></tr>
 </table>
 
 ### `NUM`
 
 2866 <tt><a href="es_ancora-pos-NUM.html">NUM</a></tt> tokens (33% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="es_ancora-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (2865; 100%), <tt><a href="es_ancora-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (2865; 100%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="es_ancora-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (2865; 100%), <tt><a href="es_ancora-feat-NumForm.html">NumForm</a></tt><tt>=EMPTY</tt> (2865; 100%).
 
 `NUM` tokens may have the following values of `Number`:
 

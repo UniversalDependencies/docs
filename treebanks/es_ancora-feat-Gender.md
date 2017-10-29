@@ -91,7 +91,7 @@ The most frequent other feature values with which `ADP` and `Gender` co-occurred
 
 4581 <tt><a href="es_ancora-pos-VERB.html">VERB</a></tt> tokens (10% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="es_ancora-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4580; 100%), <tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4580; 100%), <tt><a href="es_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (4580; 100%), <tt><a href="es_ancora-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (4580; 100%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4276; 93%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="es_ancora-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4580; 100%), <tt><a href="es_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (4580; 100%), <tt><a href="es_ancora-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (4580; 100%), <tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4580; 100%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4276; 93%).
 
 `VERB` tokens may have the following values of `Gender`:
 
@@ -119,7 +119,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 <table>
   <tr><th>Paradigm <i>él</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>lo, Les, le</em></td><td><em>la</em></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>lo, le, Les</em></td><td><em>la</em></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>los, les</em></td><td><em>las</em></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>él</em></td><td><em>ella</em></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ellos</em></td><td><em>ellas, les</em></td></tr>
@@ -129,7 +129,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 662 <tt><a href="es_ancora-pos-AUX.html">AUX</a></tt> tokens (4% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="es_ancora-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (662; 100%), <tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (662; 100%), <tt><a href="es_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (662; 100%), <tt><a href="es_ancora-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (662; 100%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (645; 97%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="es_ancora-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (662; 100%), <tt><a href="es_ancora-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (662; 100%), <tt><a href="es_ancora-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (662; 100%), <tt><a href="es_ancora-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (662; 100%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (645; 97%).
 
 `AUX` tokens may have the following values of `Gender`:
 

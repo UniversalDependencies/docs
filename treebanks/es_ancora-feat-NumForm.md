@@ -30,7 +30,7 @@ The most frequent other feature values with which `NUM` and `NumForm` co-occurre
 
 649 <tt><a href="es_ancora-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `NumForm`.
 
-The most frequent other feature values with which `NOUN` and `NumForm` co-occurred: <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (649; 100%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (649; 100%).
+The most frequent other feature values with which `NOUN` and `NumForm` co-occurred: <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (649; 100%), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (649; 100%).
 
 `NOUN` tokens may have the following values of `NumForm`:
 
@@ -59,8 +59,8 @@ The 10 most frequent relations where parent and child node agree in `NumForm`:
 <tt>SYM --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> SYM</tt> (14; 100%),
 <tt>NUM --[<tt><a href="es_ancora-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (13; 93%),
 <tt>NUM --[<tt><a href="es_ancora-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (4; 100%),
-<tt>SYM --[<tt><a href="es_ancora-dep-appos.html">appos</a></tt>]--> SYM</tt> (3; 100%),
-<tt>NOUN --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3; 60%),
 <tt>SYM --[<tt><a href="es_ancora-dep-nmod.html">nmod</a></tt>]--> SYM</tt> (3; 100%),
+<tt>NOUN --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3; 60%),
+<tt>SYM --[<tt><a href="es_ancora-dep-appos.html">appos</a></tt>]--> SYM</tt> (3; 100%),
 <tt>NUM --[<tt><a href="es_ancora-dep-advmod.html">advmod</a></tt>]--> NUM</tt> (2; 100%).
 

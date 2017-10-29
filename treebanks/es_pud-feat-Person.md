@@ -60,6 +60,6 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="es_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (45; 63%),
 <tt>VERB --[<tt><a href="es_pud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (39; 53%),
 <tt>VERB --[<tt><a href="es_pud-dep-iobj.html">iobj</a></tt>]--> PRON</tt> (28; 58%),
-<tt>VERB --[<tt><a href="es_pud-dep-conj.html">conj</a></tt>]--> PRON</tt> (1; 100%),
-<tt>VERB --[<tt><a href="es_pud-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="es_pud-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="es_pud-dep-conj.html">conj</a></tt>]--> PRON</tt> (1; 100%).
 

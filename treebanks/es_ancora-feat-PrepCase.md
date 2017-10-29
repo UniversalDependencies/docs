@@ -18,7 +18,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="es_ancora-pos-PRON.
 
 129 <tt><a href="es_ancora-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `PrepCase`.
 
-The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (129; 100%), <tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (129; 100%), <tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (129; 100%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (74; 57%).
+The most frequent other feature values with which `PRON` and `PrepCase` co-occurred: <tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (129; 100%), <tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (129; 100%), <tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (129; 100%), <tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt> (74; 57%).
 
 `PRON` tokens may have the following values of `PrepCase`:
 
