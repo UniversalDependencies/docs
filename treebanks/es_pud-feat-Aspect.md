@@ -47,7 +47,7 @@ The 10 most frequent relations where parent and child node agree in `Aspect`:
 <tt>VERB --[<tt><a href="es_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (41; 56%),
 <tt>VERB --[<tt><a href="es_pud-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (9; 90%),
 <tt>VERB --[<tt><a href="es_pud-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (7; 64%),
+<tt>VERB --[<tt><a href="es_pud-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (1; 100%),
 <tt>VERB --[<tt><a href="es_pud-dep-discourse.html">discourse</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="es_pud-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="es_pud-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="es_pud-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (1; 100%).
 

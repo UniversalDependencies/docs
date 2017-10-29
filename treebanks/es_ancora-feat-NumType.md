@@ -73,7 +73,7 @@ The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>ADJ --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> ADJ</tt> (16; 76%),
 <tt>SYM --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> SYM</tt> (12; 92%),
 <tt>SYM --[<tt><a href="es_ancora-dep-appos.html">appos</a></tt>]--> SYM</tt> (2; 100%),
-<tt>SYM --[<tt><a href="es_ancora-dep-nmod.html">nmod</a></tt>]--> SYM</tt> (1; 100%),
 <tt>SYM --[<tt><a href="es_ancora-dep-parataxis.html">parataxis</a></tt>]--> SYM</tt> (1; 100%),
-<tt>ADJ --[<tt><a href="es_ancora-dep-acl.html">acl</a></tt>]--> ADJ</tt> (1; 100%).
+<tt>ADJ --[<tt><a href="es_ancora-dep-acl.html">acl</a></tt>]--> ADJ</tt> (1; 100%),
+<tt>SYM --[<tt><a href="es_ancora-dep-nmod.html">nmod</a></tt>]--> SYM</tt> (1; 100%).
 

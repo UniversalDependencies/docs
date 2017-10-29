@@ -80,6 +80,6 @@ The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>DET --[<tt><a href="es_ancora-dep-conj.html">conj</a></tt>]--> DET</tt> (4; 80%),
 <tt>PRON --[<tt><a href="es_ancora-dep-advcl.html">advcl</a></tt>]--> PRON</tt> (2; 100%),
 <tt>PRON --[<tt><a href="es_ancora-dep-det.html">det</a></tt>]--> PRON</tt> (2; 100%),
-<tt>DET --[<tt><a href="es_ancora-dep-fixed.html">fixed</a></tt>]--> DET</tt> (1; 100%),
-<tt>PRON --[<tt><a href="es_ancora-dep-compound.html">compound</a></tt>]--> PRON</tt> (1; 100%).
+<tt>PRON --[<tt><a href="es_ancora-dep-compound.html">compound</a></tt>]--> PRON</tt> (1; 100%),
+<tt>DET --[<tt><a href="es_ancora-dep-fixed.html">fixed</a></tt>]--> DET</tt> (1; 100%).
 
