@@ -584,7 +584,7 @@ nmod(discussed, which)
 case(which, with)
 ~~~
 
-The `acl:relcl` relation is also used in free relatives, which are discussed in [](### Free relatives).
+The `acl:relcl` relation is also used in free relatives; see [the section on free relatives](#free-relatives).
 
 Relatives clauses are not, however, the only type of clausal modifiers of nouns. For one example, reduced relative clauses are not typed `acl:relcl`, but rather `acl`.
 
