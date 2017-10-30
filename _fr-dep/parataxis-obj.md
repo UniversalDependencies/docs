@@ -5,7 +5,7 @@ shortdef: 'parataxis object'
 udver: '2'
 ---
 
-The `parataxis:obj` relation is used for direct speech when it is governed by a verb. 
+In FrencSpoken, the `parataxis:obj` relation is used for direct speech when it is governed by a verb. 
 
 ~~~ sdparse
 Ma mère m'a dit tu dois ranger ta chambre. \n My mother told me you have to clean your room.
