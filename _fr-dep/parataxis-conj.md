@@ -5,7 +5,7 @@ shortdef: 'parataxis conjunct'
 udver: '2'
 ---
 
-The `parataxis:conj` relation is used to link two juxtaposed illocutary units. 
+ For FrenchSpoken, the `parataxis:conj` relation is used to link two juxtaposed illocutary units. 
 
 ~~~ sdparse
 Marie est restée chez elle : elle était malade toute la soirée. \n Marie stayed at home: she was thick all night.
