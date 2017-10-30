@@ -5,7 +5,7 @@ shortdef: 'parataxis dislocated'
 udver: '2'
 ---
 
-The `parataxis:dislocated` relation is used for pre-nucleus clauses that function like dislocations. 
+In FrenchSpoken, the `parataxis:dislocated` relation is used for pre-nucleus clauses that function like dislocations. 
 They  cannot be considered as illocutary units since they are not autonomous.
 
 For instance, in the following example, _j'ai le copain de ma copine_ could not be an autonomous sentence. Furthermore it commutes with the nominal phrase _le copain de ma copine_ and works like a dislocation, that is why the `parataxis:dislocated` relation is appropriate.
