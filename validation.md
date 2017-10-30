@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-30T16:17:54Z">2017-10-30T16:17:54 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-30T16:51:46Z">2017-10-30T16:51:46 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2355,8 +2355,8 @@ python tools/validate.py --lang it_postwita UD-dev-branches/UD_Italian-PoSTWITA/
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Japanese</span>
 <span class="widespan">ja</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-28T19:15:23Z">2017-10-28T19:15:23 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-30T16:51:37Z">2017-10-30T16:51:37 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2376,16 +2376,7 @@ python tools/validate.py --lang ja UD-dev-branches/UD_Japanese/ja-ud-test.conllu
 
 python tools/validate.py --lang ja UD-dev-branches/UD_Japanese/ja-ud-train.conllu
 
-[Tree number 203 on line 5074]: Non-tree structure. Words 3,4,5,6,7,8,9,10,11,12,13,14,15 are not reachable from the root 0.
-[Tree number 1447 on line 36337]: Non-tree structure. Words 2,3,4,5,6,7,8,9,10,11,12,13,14 are not reachable from the root 0.
-[Tree number 2191 on line 54739]: Non-tree structure. Words 18,19,20,21,22,23,24,25,26,27,28,29,30 are not reachable from the root 0.
-[Tree number 2620 on line 65879]: Non-tree structure. Words 3,4,5,6 are not reachable from the root 0.
-[Tree number 3730 on line 94175]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20 are not reachable from the root 0.
-[Tree number 6612 on line 169390]: Non-tree structure. Words 6,7,8,9,10,11,12,13,14,15,16,17 are not reachable from the root 0.
-[Tree number 7020 on line 179667]: Non-tree structure. Words 16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31 are not reachable from the root 0.
-[Tree number 7125 on line 182278]: Non-tree structure. Words 1,2,3,4,5 are not reachable from the root 0.
-*** FAILED *** with 8 errors
-Syntax errors: 8
+*** PASSED ***
 
 
 ******************
