@@ -4,9 +4,6 @@ title: 'mark'
 shortdef: 'marker'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `mark`.
-
 A marker is the word introducing a finite or non-finite clause subordinate to another clause. The tag  `mark` in related to dependent of the subordinate clause head. Although in some languages such as English it is used in [complement clauses](ccomp) or [adverbial clauses](advcl), in Basque, in those cases, we do not need the marker, since being an agglutinative language those marks are suffixed to words. 
 
 *neskak solasa hausnartzen zuen **bitartean** .* 
