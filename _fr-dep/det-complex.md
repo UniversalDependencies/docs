@@ -5,7 +5,7 @@ shortdef: 'complex determiner'
 udver: '2'
 ---
 
-The `det:complex` relation is used to annotate complex determiners. Some corpora of the French treebank analyze them with a [fixed]() relation but FrenchSpoken does not: complex determiners are considered as regular constructions and as such, they are syntactically analyzed.
+In FrenchSpoken the `det:complex` relation is used to annotate complex determiners. Some corpora of the French treebank analyze them with a [fixed]() relation but FrenchSpoken does not: complex determiners are considered as regular constructions and as such, they are syntactically analyzed.
 Like complex prepositions (see the [case:complex]() relation), complex determiners can be coordinated: _Il y a trop de beurre et de sucre dans ce gâteau._
 
 Here are come examples of complex determiners that follow the pattern "Adv+de+N" like _trop de chocolat_, _beaucoup de fraises_, _énormément d'étoiles_ etc. 
