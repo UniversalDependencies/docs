@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-30T00:12:09Z">2017-10-30T00:12:09 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-30T09:53:23Z">2017-10-30T09:53:23 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2285,25 +2285,25 @@ python tools/validate.py --lang it_partut UD-dev-branches/UD_Italian-ParTUT/it_p
 <span class="doublewidespan" style="padding-left:3em">UD Italian-PoSTWITA</span>
 <span class="widespan">it postwita</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-29T10:15:27Z">2017-10-29T10:15:27 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-30T09:53:19Z">2017-10-30T09:53:19 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it_postwita /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian-PoSTWITA/it_postwita-ud-dev.conllu
+python tools/validate.py --lang it_postwita UD-dev-branches/UD_Italian-PoSTWITA/it_postwita-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it_postwita /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian-PoSTWITA/it_postwita-ud-test.conllu
+python tools/validate.py --lang it_postwita UD-dev-branches/UD_Italian-PoSTWITA/it_postwita-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang it_postwita /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Italian-PoSTWITA/it_postwita-ud-train.conllu
+python tools/validate.py --lang it_postwita UD-dev-branches/UD_Italian-PoSTWITA/it_postwita-ud-train.conllu
 
 *** PASSED ***
 
