@@ -46,3 +46,21 @@ these constructions and how they are applied.
 * Superlative [en]: _This is the biggest car of all._
 * Superlative [cs]: _Tohle je největší auto ze všech._ “This is the biggest car of all.”
 * Decreasing superlative [cs]: _Letošní model je nejméně propracovaný za posledních pět let._ “This year's model is the least elaborated of the previous five years.”
+
+## Coding Strategies across Languages
+
+### Morphological Gradation of Adjectives and Adverbs
+
+Adjectives in some languages have an inflectional category that expresses
+degree of comparison. Special forms are used when the adjective appears in
+an inequality scalar comparison: A form called _comparative_ is used when
+the modified noun has a greater degree of the quality denoted by the adjective
+than the standard of comparison. A form called _superlative_ is used when
+the modified noun has a greater degree of the quality denoted by the adjective
+than all entities in a certain set. In UD, morphological comparatives and
+superlatives are tagged using the [Degree]() feature: `Degree=Cmp` and `Degree=Sup`,
+respectively. If a language has morphological comparative and/or superlative,
+then the base forms of ajdectives should be tagged as the _positive_ degree
+(`Degree=Pos`). Note that the positive degree should not be confused with the
+positive [Polarity](). Even negative adjectives can be compared, therefore they
+can also have the positive (basic) degree.
