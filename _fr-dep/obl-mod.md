@@ -15,5 +15,5 @@ obl:mod(prends, heures)
 obl:mod (prends, matin)
 ~~~
 
-For prepositional phrases which are required by the verb (or the adjective), we use the [obl:comp]() relation.
-For non-core nominal dependents of a verb, we can also use the [obl:periph]() relation.
+For prepositional phrases which are required by the verb (or the adjective), the [obl:comp]() relation is used.
+For non-core nominal dependents of a verb, we can use the [obl:periph]() relation.
