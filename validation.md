@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-30T10:07:50Z">2017-10-30T10:07:50 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-30T11:18:01Z">2017-10-30T11:18:01 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -469,12 +469,35 @@ Metadata errors: 453
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Chinese-HK</span>
 <span class="widespan">zh hk</span>
-<span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T14:48:36Z">2017-10-05T14:48:36 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-30T11:18:01Z">2017-10-30T11:18:01 zulu</time></span>
 </div>
 <div>
 <pre>
-No data
+python tools/validate.py --lang zh_hk UD-dev-branches/UD_Chinese-HK/zh-cfl-test.conllu
+
+[Line                   31]: Unknown UD DEPREL: mark:relzr
+[Line                   41]: Unknown UD DEPREL: mark:relzr
+[Line                   333]: Unknown UD DEPREL: mark:relzr
+[Line                   357]: Unknown UD DEPREL: aux:aspect
+[Line                   656]: Unknown UD DEPREL: mark:relzr
+[Line                   750]: Unknown UD DEPREL: mark:relzr
+[Line                   815]: Unknown UD DEPREL: aux:aspect
+[Line                   986]: Invalid DEPREL value _
+[Line                   986]: Unknown UD DEPREL: _
+[Line                   987]: Undefined ID in HEAD: _
+[Tree number 110 on line 981]: Empty head for word ID 6
+[Tree number 110 on line 981]: Non-tree structure. Words 6 are not reachable from the root 0.
+[Line                   2497]: Missing empty line after the last tree.
+[Line                   2497]: Only the unix-style LF line terminator is allowed
+*** FAILED *** with 14 errors
+Format errors: 4
+Syntax errors: 10
+
+
+******************
+
+
 </pre>
 </div>
 <div>
