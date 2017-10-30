@@ -34,3 +34,15 @@ comparison is provided in Haspelmath (2017).
 There are no UD relations designed specifically to mark comparative
 constructions. This page documents what regular UD means are used to analyze
 these constructions and how they are applied.
+
+## Equality, Direction and Degree
+
+* Equality comparison [en]: _The car is as big as mine._
+* Equality comparison [cs]: _To auto je stejně velké jako moje._ “The car is as big as mine.” Alternatives: _To auto je tak velké jako moje. To auto je velké jako moje._
+* Similarity comparison [cs]: _To auto je podobně velké jako moje._ “The car is similarly big to mine.”
+* Inequality non-scalar comparison [cs]: _To auto je jinak velké než moje._ “The car's size is different from mine.” (lit. “The car is differently big than mine.”)
+* Scalar decreasing comparison (inferiority) [cs]: _Loňský model byl méně propracovaný než letošní._ “The last year's model was less elaborated than this year's.”
+* Scalar increasing comparison (superiority) [cs]: _Letošní model je propracovanější než loňský._ “This year's model is more elaborated than last year's.”
+* Superlative [en]: _This is the biggest car of all._
+* Superlative [cs]: _Tohle je největší auto ze všech._ “This is the biggest car of all.”
+* Decreasing superlative [cs]: _Letošní model je nejméně propracovaný za posledních pět let._ “This year's model is the least elaborated of the previous five years.”
