@@ -5,7 +5,7 @@ shortdef: 'causative auxiliary'
 udver: '2'
 ---
 
-The `aux:caus` relation is used to link the infinitive verb (i.e. the governor) and the causative verb in a causative construction.
+FrenchSpoken uses the `aux:caus` relation to link the infinitive verb (i.e. the governor) and the causative verb in a causative construction.
 The syntactical subject of the sentence (i.e. the causer) receives a [nsubj:caus]() link.
 The initial agent of the action described by the sentence is demoted and will either be anotated with an [iobj:agent](), an [obj:agent]() or an [obl:agent]() relation.
 
