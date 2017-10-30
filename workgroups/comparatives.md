@@ -95,3 +95,17 @@ Czech:
 
 ~~~
 
+~~~ conllu
+1	Vyšetření	vyšetření	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Vnoun	3	nsubj	_	Gloss=exam
+2	je	být	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	Gloss=is
+3	nepříjemné	příjemný	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Neg	0	root	_	Gloss=unpleasant|SpaceAfter=No
+4	,	,	PUNCT	_	_	8	punct	_	Gloss=,
+5	ale	ale	CCONJ	_	_	8	cc	_	Gloss=but
+6	operace	operace	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	Gloss=surgery
+7	je	být	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	Gloss=is
+8	nepříjemnější	příjemný	ADJ	_	Case=Nom|Degree=Cmp|Gender=Fem|Number=Sing|Polarity=Neg	3	conj	_	Gloss=more-unpleasant|SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+~~~
+
+
