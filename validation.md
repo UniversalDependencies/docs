@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-30T20:38:12Z">2017-10-30T20:38:12 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-30T20:43:11Z">2017-10-30T20:43:11 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1438,16 +1438,14 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr /home/ginter/UD_PROJ
 <span class="doublewidespan" style="padding-left:3em">UD French-FTB</span>
 <span class="widespan">fr ftb</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:16:03Z">2017-10-05T15:16:03 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-30T20:42:34Z">2017-10-30T20:42:34 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang fr_ftb UD-dev-branches/UD_French-FTB/fr_ftb-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_ftb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French-FTB/fr_ftb-ud-dev.conllu
 
 [Line                   9]: Unknown UD DEPREL: nmod:poss
 [Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is '...'
-[Line                   22]: Unknown UD DEPREL: nsubj:pass
-[Line                   28]: Unknown UD DEPREL: aux:pass
 [Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
 [Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
 [Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
@@ -1467,35 +1465,34 @@ python tools/validate.py --lang fr_ftb UD-dev-branches/UD_French-FTB/fr_ftb-ud-d
 [Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
 [Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
 ...suppressing further errors regarding Metadata
-[Line                   96]: Unknown UD DEPREL: acl:relcl
 [Line                   183]: Unknown UD DEPREL: nmod:poss
-[Line                   199]: Unknown UD DEPREL: nsubj:pass
-[Line                   206]: Unknown UD DEPREL: flat:name
-[Line                   216]: Unknown UD DEPREL: aux:pass
-[Line                   234]: Unknown UD DEPREL: flat:name
-[Line                   240]: Unknown UD DEPREL: nsubj:pass
-[Line                   250]: Unknown UD DEPREL: aux:pass
-[Line                   259]: Unknown UD DEPREL: flat:name
 [Line                   307]: Unknown UD DEPREL: nmod:poss
 [Line                   419]: Unknown UD DEPREL: nmod:poss
-[Line                   427]: Unknown UD DEPREL: acl:relcl
-[Line                   492]: Unknown UD DEPREL: acl:relcl
-[Line                   553]: Unknown UD DEPREL: nsubj:pass
-[Line                   559]: Unknown UD DEPREL: aux:pass
-[Line                   571]: Unknown UD DEPREL: acl:relcl
+[Line                   618]: Unknown UD DEPREL: nmod:poss
+[Line                   965]: Unknown UD DEPREL: nmod:poss
+[Line                   1420]: Unknown UD DEPREL: nmod:poss
+[Line                   1472]: Unknown UD DEPREL: nmod:poss
+[Line                   1535]: Unknown UD DEPREL: nmod:poss
+[Line                   1555]: Unknown UD DEPREL: nmod:poss
+[Line                   1596]: Unknown UD DEPREL: nmod:poss
+[Line                   1599]: Unknown UD DEPREL: nmod:poss
+[Line                   1753]: Unknown UD DEPREL: nmod:poss
+[Line                   1935]: Unknown UD DEPREL: nmod:poss
+[Line                   1940]: Unknown UD DEPREL: nmod:poss
+[Line                   1968]: Unknown UD DEPREL: nmod:poss
+[Line                   1973]: Unknown UD DEPREL: nmod:poss
+[Line                   2098]: Unknown UD DEPREL: nmod:poss
+[Line                   2118]: Unknown UD DEPREL: nmod:poss
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 34292 errors
+*** FAILED *** with 33112 errors
 Metadata errors: 32794
-Syntax errors: 1498
-The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.fr_ftb does not exist.
+Syntax errors: 318
 
 
 ******************
 
-python tools/validate.py --lang fr_ftb UD-dev-branches/UD_French-FTB/fr_ftb-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_ftb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French-FTB/fr_ftb-ud-test.conllu
 
-[Line                   4]: Unknown UD DEPREL: nsubj:pass
-[Line                   39]: Unknown UD DEPREL: aux:pass
 [Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
 [Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
 [Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
@@ -1516,33 +1513,34 @@ python tools/validate.py --lang fr_ftb UD-dev-branches/UD_French-FTB/fr_ftb-ud-t
 [Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
 [Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
 ...suppressing further errors regarding Metadata
-[Line                   80]: Unknown UD DEPREL: acl:relcl
-[Line                   87]: Unknown UD DEPREL: nsubj:pass
-[Line                   96]: Unknown UD DEPREL: aux:pass
-[Line                   125]: Unknown UD DEPREL: nsubj:pass
-[Line                   126]: Unknown UD DEPREL: aux:pass
-[Line                   199]: Unknown UD DEPREL: nsubj:pass
-[Line                   201]: Unknown UD DEPREL: aux:pass
-[Line                   220]: Unknown UD DEPREL: acl:relcl
-[Line                   266]: Unknown UD DEPREL: aux:pass
 [Line                   286]: Unknown UD DEPREL: nmod:poss
 [Line                   311]: Unknown UD DEPREL: nmod:poss
 [Line                   332]: Unknown UD DEPREL: nmod:poss
 [Line                   372]: Unknown UD DEPREL: nmod:poss
-[Line                   379]: Unknown UD DEPREL: nsubj:pass
-[Line                   389]: Unknown UD DEPREL: aux:pass
-[Line                   423]: Unknown UD DEPREL: acl:relcl
 [Line                   471]: Unknown UD DEPREL: nmod:poss
+[Line                   896]: Unknown UD DEPREL: nmod:poss
+[Line                   1070]: Unknown UD DEPREL: nmod:poss
+[Line                   1599]: Unknown UD DEPREL: nmod:poss
+[Line                   1603]: Unknown UD DEPREL: nmod:poss
+[Line                   2027]: Unknown UD DEPREL: nmod:poss
+[Line                   2074]: Unknown UD DEPREL: nmod:poss
+[Line                   2194]: Unknown UD DEPREL: nmod:poss
+[Line                   2221]: Unknown UD DEPREL: nmod:poss
+[Line                   2262]: Unknown UD DEPREL: nmod:poss
+[Line                   2524]: Unknown UD DEPREL: nmod:poss
+[Line                   2585]: Unknown UD DEPREL: nmod:poss
+[Line                   2821]: Unknown UD DEPREL: nmod:poss
+[Line                   2875]: Unknown UD DEPREL: nmod:poss
+[Line                   3028]: Unknown UD DEPREL: nmod:poss
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 65302 errors
+*** FAILED *** with 63395 errors
 Metadata errors: 62756
-Syntax errors: 2546
-The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.fr_ftb does not exist.
+Syntax errors: 639
 
 
 ******************
 
-python tools/validate.py --lang fr_ftb UD-dev-branches/UD_French-FTB/fr_ftb-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_ftb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French-FTB/fr_ftb-ud-train.conllu
 
 [Line                   16]: Unknown UD DEPREL: nmod:poss
 [Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
@@ -1566,28 +1564,27 @@ python tools/validate.py --lang fr_ftb UD-dev-branches/UD_French-FTB/fr_ftb-ud-t
 [Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
 ...suppressing further errors regarding Metadata
 [Line                   65]: Unknown UD DEPREL: nmod:poss
-[Line                   100]: Unknown UD DEPREL: acl:relcl
-[Line                   149]: Unknown UD DEPREL: acl:relcl
 [Line                   168]: Unknown UD DEPREL: nmod:poss
-[Line                   213]: Unknown UD DEPREL: acl:relcl
 [Line                   217]: Unknown UD DEPREL: nmod:poss
-[Line                   246]: Unknown UD DEPREL: acl:relcl
-[Line                   271]: Unknown UD DEPREL: flat:name
 [Line                   305]: Unknown UD DEPREL: nmod:poss
 [Line                   310]: Unknown UD DEPREL: nmod:poss
 [Line                   317]: Unknown UD DEPREL: nmod:poss
-[Line                   434]: Unknown UD DEPREL: acl:relcl
-[Line                   541]: Unknown UD DEPREL: flat:name
 [Line                   544]: Unknown UD DEPREL: nmod:poss
-[Line                   548]: Unknown UD DEPREL: flat:name
 [Line                   569]: Unknown UD DEPREL: nmod:poss
-[Line                   641]: Unknown UD DEPREL: acl:relcl
-[Line                   717]: Unknown UD DEPREL: acl:relcl
+[Line                   895]: Unknown UD DEPREL: nmod:poss
+[Line                   1016]: Unknown UD DEPREL: nmod:poss
+[Line                   1102]: Unknown UD DEPREL: nmod:poss
+[Line                   1138]: Unknown UD DEPREL: nmod:poss
+[Line                   1476]: Unknown UD DEPREL: nmod:poss
+[Line                   1563]: Unknown UD DEPREL: nmod:poss
+[Line                   1644]: Unknown UD DEPREL: nmod:poss
+[Line                   1795]: Unknown UD DEPREL: nmod:poss
+[Line                   1798]: Unknown UD DEPREL: nmod:poss
+[Line                   2256]: Unknown UD DEPREL: nmod:poss
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 386946 errors
+*** FAILED *** with 374700 errors
 Metadata errors: 370803
-Syntax errors: 16143
-The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.fr_ftb does not exist.
+Syntax errors: 3897
 
 
 ******************
