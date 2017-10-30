@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-30T12:30:27Z">2017-10-30T12:30:27 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-30T14:13:41Z">2017-10-30T14:13:41 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1893,27 +1893,27 @@ python tools/validate.py --lang got UD-dev-branches/UD_Gothic/got-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Greek</span>
 <span class="widespan">el</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-30T11:36:22Z">2017-10-30T11:36:22 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-30T14:13:32Z">2017-10-30T14:13:32 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang el UD-dev-branches/UD_Greek/el-ud-dev.conllu
 
-[Line                   1041]: Unknown UD DEPREL: obl:arg
-[Line                   2521]: Unknown UD DEPREL: obl:arg
-[Line                   2792]: Unknown UD DEPREL: obl:arg
-[Line                   5563]: Unknown UD DEPREL: obl:arg
-[Line                   5770]: Unknown UD DEPREL: obl:arg
-[Line                   7559]: Unknown UD DEPREL: obl:arg
-[Line                   7716]: Unknown UD DEPREL: obl:arg
-[Line                   8786]: Unknown UD DEPREL: obl:arg
-[Line                   9463]: Unknown UD DEPREL: obl:arg
-[Line                   9742]: Unknown UD DEPREL: obl:arg
-[Line                   10049]: Unknown UD DEPREL: obl:arg
-[Line                   10662]: Unknown UD DEPREL: obl:arg
-[Line                   10685]: Unknown UD DEPREL: obl:arg
-[Line                   10782]: Unknown UD DEPREL: obl:arg
-[Line                   11504]: Unknown UD DEPREL: obl:arg
+[Line                   1042]: Unknown UD DEPREL: obl:arg
+[Line                   2525]: Unknown UD DEPREL: obl:arg
+[Line                   2797]: Unknown UD DEPREL: obl:arg
+[Line                   5576]: Unknown UD DEPREL: obl:arg
+[Line                   5783]: Unknown UD DEPREL: obl:arg
+[Line                   7578]: Unknown UD DEPREL: obl:arg
+[Line                   7735]: Unknown UD DEPREL: obl:arg
+[Line                   8807]: Unknown UD DEPREL: obl:arg
+[Line                   9485]: Unknown UD DEPREL: obl:arg
+[Line                   9765]: Unknown UD DEPREL: obl:arg
+[Line                   10073]: Unknown UD DEPREL: obl:arg
+[Line                   10688]: Unknown UD DEPREL: obl:arg
+[Line                   10711]: Unknown UD DEPREL: obl:arg
+[Line                   10808]: Unknown UD DEPREL: obl:arg
+[Line                   11531]: Unknown UD DEPREL: obl:arg
 *** FAILED *** with 15 errors
 Syntax errors: 15
 
@@ -1922,25 +1922,25 @@ Syntax errors: 15
 
 python tools/validate.py --lang el UD-dev-branches/UD_Greek/el-ud-test.conllu
 
-[Line                   571]: Unknown UD DEPREL: obl:arg
-[Line                   762]: Unknown UD DEPREL: obl:arg
-[Line                   1047]: Unknown UD DEPREL: obl:arg
-[Line                   2620]: Unknown UD DEPREL: obl:arg
-[Line                   2701]: Unknown UD DEPREL: obl:arg
-[Line                   2710]: Unknown UD DEPREL: obl:arg
-[Line                   2832]: Unknown UD DEPREL: obl:arg
-[Line                   3069]: Unknown UD DEPREL: obl:arg
-[Line                   3298]: Unknown UD DEPREL: obl:arg
-[Line                   3337]: Unknown UD DEPREL: obl:arg
-[Line                   3894]: Unknown UD DEPREL: obl:arg
-[Line                   4055]: Unknown UD DEPREL: obl:arg
-[Line                   5162]: Unknown UD DEPREL: obl:arg
-[Line                   5801]: Unknown UD DEPREL: obl:arg
-[Line                   6109]: Unknown UD DEPREL: obl:arg
-[Line                   6418]: Unknown UD DEPREL: obl:arg
-[Line                   6605]: Unknown UD DEPREL: obl:arg
-[Line                   6614]: Unknown UD DEPREL: obl:arg
-[Line                   7015]: Unknown UD DEPREL: obl:arg
+[Line                   572]: Unknown UD DEPREL: obl:arg
+[Line                   764]: Unknown UD DEPREL: obl:arg
+[Line                   1050]: Unknown UD DEPREL: obl:arg
+[Line                   2628]: Unknown UD DEPREL: obl:arg
+[Line                   2709]: Unknown UD DEPREL: obl:arg
+[Line                   2718]: Unknown UD DEPREL: obl:arg
+[Line                   2840]: Unknown UD DEPREL: obl:arg
+[Line                   3077]: Unknown UD DEPREL: obl:arg
+[Line                   3306]: Unknown UD DEPREL: obl:arg
+[Line                   3345]: Unknown UD DEPREL: obl:arg
+[Line                   3905]: Unknown UD DEPREL: obl:arg
+[Line                   4066]: Unknown UD DEPREL: obl:arg
+[Line                   5174]: Unknown UD DEPREL: obl:arg
+[Line                   5816]: Unknown UD DEPREL: obl:arg
+[Line                   6124]: Unknown UD DEPREL: obl:arg
+[Line                   6433]: Unknown UD DEPREL: obl:arg
+[Line                   6621]: Unknown UD DEPREL: obl:arg
+[Line                   6630]: Unknown UD DEPREL: obl:arg
+[Line                   7032]: Unknown UD DEPREL: obl:arg
 ...suppressing further errors regarding Syntax
 *** FAILED *** with 28 errors
 Syntax errors: 28
@@ -1950,25 +1950,25 @@ Syntax errors: 28
 
 python tools/validate.py --lang el UD-dev-branches/UD_Greek/el-ud-train.conllu
 
-[Line                   1377]: Unknown UD DEPREL: obl:arg
-[Line                   1609]: Unknown UD DEPREL: obl:arg
-[Line                   2496]: Unknown UD DEPREL: obl:arg
-[Line                   2669]: Unknown UD DEPREL: obl:arg
-[Line                   3011]: Unknown UD DEPREL: obl:arg
-[Line                   3090]: Unknown UD DEPREL: obl:arg
-[Line                   3265]: Unknown UD DEPREL: obl:arg
-[Line                   3591]: Unknown UD DEPREL: obl:arg
-[Line                   3853]: Unknown UD DEPREL: obl:arg
-[Line                   4772]: Unknown UD DEPREL: obl:arg
-[Line                   5331]: Unknown UD DEPREL: obl:arg
-[Line                   5468]: Unknown UD DEPREL: obl:arg
-[Line                   6046]: Unknown UD DEPREL: obl:arg
-[Line                   6557]: Unknown UD DEPREL: obl:arg
-[Line                   8171]: Unknown UD DEPREL: obl:arg
-[Line                   8640]: Unknown UD DEPREL: obl:arg
-[Line                   9400]: Unknown UD DEPREL: obl:arg
-[Line                   9752]: Unknown UD DEPREL: obl:arg
-[Line                   9900]: Unknown UD DEPREL: obl:arg
+[Line                   1384]: Unknown UD DEPREL: obl:arg
+[Line                   1616]: Unknown UD DEPREL: obl:arg
+[Line                   2506]: Unknown UD DEPREL: obl:arg
+[Line                   2679]: Unknown UD DEPREL: obl:arg
+[Line                   3021]: Unknown UD DEPREL: obl:arg
+[Line                   3101]: Unknown UD DEPREL: obl:arg
+[Line                   3276]: Unknown UD DEPREL: obl:arg
+[Line                   3603]: Unknown UD DEPREL: obl:arg
+[Line                   3866]: Unknown UD DEPREL: obl:arg
+[Line                   4788]: Unknown UD DEPREL: obl:arg
+[Line                   5347]: Unknown UD DEPREL: obl:arg
+[Line                   5485]: Unknown UD DEPREL: obl:arg
+[Line                   6063]: Unknown UD DEPREL: obl:arg
+[Line                   6574]: Unknown UD DEPREL: obl:arg
+[Line                   8195]: Unknown UD DEPREL: obl:arg
+[Line                   8666]: Unknown UD DEPREL: obl:arg
+[Line                   9428]: Unknown UD DEPREL: obl:arg
+[Line                   9780]: Unknown UD DEPREL: obl:arg
+[Line                   9928]: Unknown UD DEPREL: obl:arg
 ...suppressing further errors regarding Syntax
 *** FAILED *** with 91 errors
 Syntax errors: 91
