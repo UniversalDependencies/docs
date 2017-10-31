@@ -6,7 +6,7 @@ shortdef: 'number'
 
 In Armenian, `Number` is a feature of [nouns](hy-pos/NOUN) and other parts of speech that mark agreement with nouns, i.e. personal [pronouns](hy-pos/PRON), and [verbs](hy-pos/VERB). 
 
-Some geographical names appear only in the plural form (e.g. _<b>Ալպեր</b>_ “Alps”, _<b>Ապալաչներ</b>_ “Appalachian Mountains”) even though they denote one thing (semantic singular). We don’t mark these proper nouns as `Ptan`. Grammatically they behave like plurals, so `Plur` is obviously the back-off value here.
+Some geographical names appear only in the plural form (e.g. _<b>Ալպեր</b>_ “Alps”, _<b>Ապալաչներ</b>_ “Appalachian Mountains”) even though they denote one thing (semantic singular). We don’t mark these [proper nouns](hy-pos/PROPN) as `Ptan`. Grammatically they behave like plurals, so `Plur` is obviously the back-off value here.
 
 ### `Sing`: singular
 
@@ -18,8 +18,8 @@ A singular noun denotes one person, animal or thing.
 
 Pronouns that refer to a single person, an animal or a thing are also marked with this feature.
 
-* _<b>Ես</b>_, <b>ինքս</b>_, <b>իմ</b>_; <b>դու</b>_, <b>ինքդ</b>_, <b>քո</b>_; <b>նա</b>_, <b>ինքը</b>_, <b>նրա</b>_
-* _I, myself, my; you, yourself, your; he, himself, his, she, herself, her, it, itself, its_
+* _<b>Ես, ինքս, իմ</b>; <b>դու, ինքդ, քո</b>; <b>նա, ինքը, նրա</b>_
+* _I, myself, my; you, yourself, your; he, himself, his; she, herself, her; it, itself, its_
 
 Demonstrative pronouns that refer to singular nouns, but not demonstrative determiners of singular or plural nouns (e.g. _<b>այս գիրքը/գրքերը</b>_ “this/these book/books”; _<b>այդ գիրքը/գրքերը</b>_ “that/those book/books (medial), _<b>այն գիրքը/գրքերը</b>_ “that/those book/books”), are also marked with this feature.
 
@@ -38,7 +38,7 @@ A plural noun denotes several persons, animals or things.
 
 Pronouns that refer to several persons, animals or things are also marked with this feature.
 
-* _<b>մենք</b>_, <b>ինքներս</b>_, <b>մեր</b>_; <b>դուք</b>_, <b>ինքներդ</b>_, <b>ձեր</b>_; <b>նրանք</b>_, <b>ինքները</b>_, <b>նրանց</b>_
+* _<b>մենք, ինքներս, մեր</b>; <b>դուք, ինքներդ, ձեր</b>; <b>նրանք, ինքները, նրանց</b>_
 * _we, ourselves, our; you, yourselves, your; they, themselves, their_
 
 Demonstrative pronouns that refer to plural nouns, but not demonstrative determiners of singular or plural nouns (e.g. _<b>այս գիրքը/գրքերը</b>_ “this/these book/books”; _<b>այդ գիրքը/գրքերը</b>_ “that/those book/books (medial), _<b>այն գիրքը/գրքերը</b>_ “that/those book/books”), are also marked with this feature.
@@ -60,7 +60,7 @@ Collective or mass or singulare tantum is a special case of singular. It applies
 
 ### `Assopl`: associative plural
 
-In Armenian some [nouns](hy-pos/NOUN), [proper nouns](hy-pos/PROPN) and [pronouns](hy-pos/PRON) appear in the plural form, which denotes constructions like ‘X and other people associated with X’. These plural forms consist of a noun X (typically of human reference, usually a person's name or a kin term) and one of the suffixes _<b>-ենք</b>_, _<b>-անք</b>_, _<b>-ոնք</b>_, _<b>-ունք</b>_.
+In Armenian some nouns, proper nouns and pronouns appear in the plural form, which denotes constructions like ‘X and other people associated with X’. These plural forms consist of a noun X (typically of human reference, usually a person's name or a kin term) and one of the suffixes _<b>-ենք</b>_, _<b>-անք</b>_, _<b>-ոնք</b>_, _<b>-ունք</b>_.
 
 As nominal syntactic subjects, associative plural forms are grammaticalty indefinte (even though they are known and concrete).
 
