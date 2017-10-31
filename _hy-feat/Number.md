@@ -79,4 +79,4 @@ As nominal syntactic subjects, associative plural forms are grammaticalty indefi
 
 ### Eastern Armenian National Corpus
 
-The EANC tagset grammaticaly does not distinguish `Coll` from `Sing`. Therefore, there are a lexical subcategory _“collective noun”_ for `Coll`.
+The EANC tagset grammaticaly does not distinguish `Coll` from `Sing`. Therefore, there is a lexical subcategory _“collective noun”_ for `Coll`.
