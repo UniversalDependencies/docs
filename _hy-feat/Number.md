@@ -18,7 +18,7 @@ A singular noun denotes one person, animal or thing.
 
 Pronouns that refer to a single person, an animal or a thing are also marked with this feature.
 
-* _Ես, ինքս, իմ; դու, ինքդ, քո; նա, ինքը, նրա_
+* _<b>Ես</b>_, <b>ինքս</b>_, <b>իմ</b>_; <b>դու</b>_, <b>ինքդ</b>_, <b>քո</b>_; <b>նա</b>_, <b>ինքը</b>_, <b>նրա</b>_
 * _I, myself, my; you, yourself, your; he, himself, his, she, herself, her, it, itself, its_
 
 Demonstrative pronouns that refer to singular nouns, but not demonstrative determiners of singular or plural nouns (e.g. _<b>այս գիրքը/գրքերը</b>_ “this/these book/books”; _<b>այդ գիրքը/գրքերը</b>_ “that/those book/books (medial), _<b>այն գիրքը/գրքերը</b>_ “that/those book/books”), are also marked with this feature.
@@ -38,7 +38,7 @@ A plural noun denotes several persons, animals or things.
 
 Pronouns that refer to several persons, animals or things are also marked with this feature.
 
-* _մենք, ինքներս, մեր; դուք, ինքներդ, ձեր; նրանք, ինքները, նրանց
+* _<b>մենք</b>_, <b>ինքներս</b>_, <b>մեր</b>_; <b>դուք</b>_, <b>ինքներդ</b>_, <b>ձեր</b>_; <b>նրանք</b>_, <b>ինքները</b>_, <b>նրանց</b>_
 * _we, ourselves, our; you, yourselves, your; they, themselves, their_
 
 Demonstrative pronouns that refer to plural nouns, but not demonstrative determiners of singular or plural nouns (e.g. _<b>այս գիրքը/գրքերը</b>_ “this/these book/books”; _<b>այդ գիրքը/գրքերը</b>_ “that/those book/books (medial), _<b>այն գիրքը/գրքերը</b>_ “that/those book/books”), are also marked with this feature.
@@ -74,3 +74,9 @@ As nominal syntactic subjects, associative plural forms are grammaticalty indefi
 * _<b>ձերոնք</b>_ “you (`Plur`) father and other people associated with you”
 * _<b>Վարդանանք</b>_ “Vardan and other people associated with him”
 * _<b>Արամենք</b>_ “Aram and other people associated with him”
+
+#### Diffs
+
+### Eastern Armenian National Corpus
+
+The EANC tagset grammaticaly does not distinguish `Coll` from `Sing`. Therefore, there are a lexical subcategory _“collective noun”_ for `Coll`.
