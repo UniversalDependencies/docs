@@ -71,7 +71,7 @@ As nominal syntactic subjects, associative plural forms are grammaticalty indefi
 * _<b>իմոնք</b>_ “me and other people associated with me”
 * _<b>մերոնք</b>_ “we and other people associated with us”
 * _<b>քոնոնք</b>_ “you (`Sing`) and other people associated with you”
-* _<b>ձերոնք</b>_ “you (`Plur`) father and other people associated with you”
+* _<b>ձերոնք</b>_ “you (`Plur`) and other people associated with you”
 * _<b>Վարդանանք</b>_ “Vardan and other people associated with him”
 * _<b>Արամենք</b>_ “Aram and other people associated with him”
 
