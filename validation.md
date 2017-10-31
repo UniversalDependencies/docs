@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-31T21:51:47Z">2017-10-31T21:51:47 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-31T21:52:39Z">2017-10-31T21:52:39 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -4016,91 +4016,28 @@ python tools/validate.py --lang tr_pud UD-dev-branches/UD_Turkish-PUD/tr_pud-ud-
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Ukrainian</span>
 <span class="widespan">uk</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-31T21:51:44Z">2017-10-31T21:51:44 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-31T21:52:29Z">2017-10-31T21:52:29 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang uk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Ukrainian/uk-ud-dev.conllu
+python tools/validate.py --lang uk UD-dev-branches/UD_Ukrainian/uk-ud-dev.conllu
 
-[Line                   741]: Unknown attribute-value pair PrepCase=Pre
-[Line                   790]: Unknown attribute-value pair PrepCase=Pre
-[Line                   792]: Unknown attribute-value pair Style=Odd
-[Line                   909]: Unknown UD DEPREL: aux:pass
-[Line                   1134]: Unknown attribute-value pair Style=Odd
-[Line                   1170]: Unknown attribute-value pair Style=Odd
-[Line                   1211]: Unknown attribute-value pair Style=Rare
-[Line                   1233]: Unknown attribute-value pair Style=Odd
-[Line                   1259]: Unknown attribute-value pair Style=Odd
-[Line                   1313]: Unknown attribute-value pair Style=Rare
-[Line                   1421]: Unknown attribute-value pair Style=Odd
-[Line                   1498]: Unknown attribute-value pair Style=Odd
-[Line                   1763]: Unknown attribute-value pair Style=Odd
-[Line                   1786]: Unknown attribute-value pair Style=Odd
-[Line                   1823]: Unknown attribute-value pair Style=Odd
-[Line                   1848]: Unknown attribute-value pair Style=Odd
-[Line                   1946]: Unknown attribute-value pair Style=Odd
-[Line                   2082]: Unknown attribute-value pair Style=Odd
-[Line                   2095]: Unknown attribute-value pair Style=Odd
-[Line                   2102]: Unknown attribute-value pair PrepCase=Pre
-...suppressing further errors regarding Morpho
-[Line                   7361]: Unknown UD DEPREL: aux:pass
-[Line                   8157]: Unknown UD DEPREL: aux:pass
-[Line                   10185]: Unknown UD DEPREL: aux:pass
-[Line                   13819]: Unknown UD DEPREL: aux:pass
-[Line                   14167]: Unknown UD DEPREL: aux:pass
-*** FAILED *** with 108 errors
-Morpho errors: 102
-Syntax errors: 6
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang uk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Ukrainian/uk-ud-test.conllu
+python tools/validate.py --lang uk UD-dev-branches/UD_Ukrainian/uk-ud-test.conllu
 
-[Line                   25]: Unknown attribute-value pair PrepCase=Pre
-[Line                   55]: Unknown attribute-value pair Style=Odd
-[Line                   402]: Unknown attribute-value pair Style=Rare
-[Line                   632]: Unknown attribute-value pair Style=Odd
-[Line                   877]: Unknown attribute-value pair Style=Odd
-[Line                   882]: Unknown attribute-value pair Style=Odd
-[Line                   896]: Unknown attribute-value pair Style=Rare
-[Line                   906]: Unknown attribute-value pair Style=Odd
-[Line                   1022]: Unknown attribute-value pair Style=Coll
-[Line                   1399]: Unknown attribute-value pair Style=Odd
-[Line                   1463]: Unknown attribute-value pair Style=Odd
-[Line                   1755]: Unknown attribute-value pair PrepCase=Pre
-[Line                   2061]: Unknown attribute-value pair Style=Rare
-[Line                   2088]: Unknown attribute-value pair PrepCase=Pre
-[Line                   2292]: Unknown attribute-value pair Style=Odd
-[Line                   2601]: Unknown attribute-value pair PrepCase=Pre
-[Line                   2654]: Unknown attribute-value pair Style=Odd
-[Line                   2932]: Unknown attribute-value pair Style=Rare
-[Line                   3135]: Unknown attribute-value pair PrepCase=Pre
-...suppressing further errors regarding Morpho
-[Line                   4780]: Unknown UD DEPREL: aux:pass
-[Line                   5383]: Unknown UD DEPREL: aux:pass
-[Line                   5388]: Unknown UD DEPREL: aux:pass
-[Line                   5718]: Unknown UD DEPREL: aux:pass
-[Line                   7527]: Unknown UD DEPREL: aux:pass
-[Line                   9216]: Unknown UD DEPREL: aux:pass
-[Line                   9565]: Unknown UD DEPREL: aux:pass
-*** FAILED *** with 211 errors
-Morpho errors: 204
-Syntax errors: 7
+*** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang uk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Ukrainian/uk-ud-train.conllu
+python tools/validate.py --lang uk UD-dev-branches/UD_Ukrainian/uk-ud-train.conllu
 
-[Line                   242]: Unknown attribute-value pair Style=Odd
-[Line                   246]: Unknown attribute-value pair Style=Odd
-[Line                   250]: Unknown attribute-value pair Style=Odd
-[Line                   342]: Unknown attribute-value pair Style=Odd
-[Line                   593]: Unknown attribute-value pair Style=Odd
-*** FAILED *** with 5 errors
-Morpho errors: 5
+*** PASSED ***
 
 
 ******************
