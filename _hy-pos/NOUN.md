@@ -10,9 +10,9 @@ Nouns are a part of speech typically denoting a person, place, thing, animal or 
 
 The `NOUN` tag is intended for common nouns only. See [PROPN]() for proper nouns and [PRON]() for pronouns.
 
-Armenian nouns have the lexical feature [Animacy]() and [Materiality](). Furthermore, the nouns inflect for [Number]() and [Case]().
+Armenian nouns have lexical features [Animacy]() and [Materiality](). Furthermore, the nouns inflect for [Number](), [Case]() and [Definite]().
 
-All adjectives and some of the adverbs may function as a noun without additional derivation. In this cases, we keep the POS tag of the original word, but assign nominal features to the word. (TODO: this needs more discussion)
+Note that _infinitives_ in Armenian share properties and usage of nouns and verbs. Depending on context, they may be classified as either [VERB]() or `NOUN` (e.g. _վազել_&nbsp; “to run” and _վազել(ը)_&nbsp; “running”). They have full case and reduced number inflectional paradigms.
 
 ### Examples
 
@@ -23,3 +23,4 @@ All adjectives and some of the adverbs may function as a noun without additional
 - _գեղեցկություն_&nbsp; “beauty”
 - _լող_&nbsp; “swimming”
 - _վազք_&nbsp; “run”
+- _վազելը_&nbsp; “running”

@@ -31,7 +31,7 @@ All adjectives and some of the adverbs may function as a noun without additional
 -	_առաջին, երկրորդ, երրորդ_ “first, second, third”
 -	_խմելու, գրելու_ “(for) drinking, (for) writing”
 -	_կառուցված/կառուցվող/կառուցվելիք շենք_ “a built house, a house, that is being built, a house that will be built” (resultative, subject, destinative passive participial adjective)
--	_հնչող/հնչած/հնչելիք զանգ_ “a ringing call, a call that ringed, a call that will ring” (resultative, subject, destinative participial adjective)
+-	_հնչած/հնչող/հնչելիք զանգ_ “a ringing call, a call that ringed, a call that will ring” (resultative, subject, destinative participial adjective)
 
 ### Border cases
 
