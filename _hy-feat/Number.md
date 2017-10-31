@@ -21,7 +21,7 @@ Pronouns that refer to a single person, an animal or a thing are also marked wit
 * _<b>Ես, ինքս, իմ</b>; <b>դու, ինքդ, քո</b>; <b>նա, ինքը, նրա</b>_
 * _I, myself, my; you, yourself, your; he, himself, his; she, herself, her; it, itself, its_
 
-Demonstrative pronouns that refer to singular nouns, but not demonstrative determiners of singular or plural nouns (e.g. _<b>այս գիրքը/գրքերը</b>_ “this/these book/books”; _<b>այդ գիրքը/գրքերը</b>_ “that/those book/books (medial), _<b>այն գիրքը/գրքերը</b>_ “that/those book/books”), are also marked with this feature.
+Demonstrative pronouns that refer to singular nouns, but not demonstrative determiners of singular or plural nouns (e.g. _<b>այս գիրքը/գրքերը</b>_ “this/these book/books”; _<b>այդ գիրքը/գրքերը</b>_ “that/those book/books (medial)”, _<b>այն գիրքը/գրքերը</b>_ “that/those book/books”), are also marked with this feature.
 
 * _<b>սա</b>_ “this”
 * _<b>դա</b>_ “that (medial)”
@@ -41,7 +41,7 @@ Pronouns that refer to several persons, animals or things are also marked with t
 * _<b>մենք, ինքներս, մեր</b>; <b>դուք, ինքներդ, ձեր</b>; <b>նրանք, ինքները, նրանց</b>_
 * _we, ourselves, our; you, yourselves, your; they, themselves, their_
 
-Demonstrative pronouns that refer to plural nouns, but not demonstrative determiners of singular or plural nouns (e.g. _<b>այս գիրքը/գրքերը</b>_ “this/these book/books”; _<b>այդ գիրքը/գրքերը</b>_ “that/those book/books (medial), _<b>այն գիրքը/գրքերը</b>_ “that/those book/books”), are also marked with this feature.
+Demonstrative pronouns that refer to plural nouns, but not demonstrative determiners of singular or plural nouns (e.g. _<b>այս գիրքը/գրքերը</b>_ “this/these book/books”; _<b>այդ գիրքը/գրքերը</b>_ “that/those book/books (medial)”, _<b>այն գիրքը/գրքերը</b>_ “that/those book/books”), are also marked with this feature.
 
 * _<b>սրանք</b>_ “these”
 * _<b>դրանք</b>_ “those (medial)”
