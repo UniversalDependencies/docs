@@ -174,8 +174,8 @@ feature and they can be viewed themselves as (irregular) degree forms of two
 basic adverbs: _much – more – most; little – less – least._
 
 ~~~ conllu
-1	Martin	Martin	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
-2	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+1	Martin	Martin	PROPN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	more	much	ADV	_	Degree=Cmp	4	advmod	_	_
 4	intelligent	intelligent	ADJ	_	Degree=Pos	0	root	_	_
 5	than	than	SCONJ	_	_	6	case	_	_
@@ -185,9 +185,9 @@ basic adverbs: _much – more – most; little – less – least._
 ~~~
 
 ~~~ conllu
-1	Martin	Martin	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
-2	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
-3	the	the	DET	_	Definite=Def|PronType=Art	6	_	_
+1	Martin	Martin	PROPN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+2	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+3	the	the	DET	_	Definite=Def|PronType=Art	6	det	_	_
 4	most	much	ADV	_	Degree=Sup	5	advmod	_	_
 5	intelligent	intelligent	ADJ	_	Degree=Pos	6	amod	_	_
 6	guy	guy	NOUN	_	Number=Sing	0	root	_	_
