@@ -160,7 +160,7 @@ Wolfenden 1971:103) Haspelmath (2017):
 3	kasinggwapo	gwapo	ADJ	_	Degree=Equ	0	root	_	Gloss=as-handsome
 4	ni	ni	ADP	_	_	5	case	_	Gloss=of
 5	Juan	Juan	PROPN	_	_	3	obl	_	Gloss=Juan|SpaceAfter=No
-4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 ~~~
 
