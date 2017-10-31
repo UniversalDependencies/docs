@@ -108,4 +108,59 @@ Czech:
 
 ~~~
 
+Similarly, the degree morphology also applies to Czech adverbs:
+
+~~~ conllu
+1	Martin	Martin	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=Martin
+2	běhá	běhat	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Gloss=runs
+3	rychle	rychle	ADV	_	Degree=Pos|Polarity=Pos	2	advmod	_	Gloss=fast|SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+~~~
+
+~~~ conllu
+1	Martin	Martin	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=Martin
+2	běhá	běhat	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Gloss=runs
+3	rychleji	rychle	ADV	_	Degree=Cmp|Polarity=Pos	2	advmod	_	Gloss=faster
+4	než	než	SCONJ	_	_	5	case	_	Gloss=than
+5	Vojta	Vojta	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	3	obl	_	Gloss=Vojta|SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+~~~
+
+~~~ conllu
+1	Martin	Martin	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Gloss=Martin
+2	běhá	běhat	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Gloss=runs
+3	nejrychleji	rychle	ADV	_	Degree=Sup|Polarity=Pos	2	advmod	_	Gloss=fastest
+4	ze	z	ADP	_	_	5	case	_	Gloss=of
+5	všech	všechen	PRON	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot	3	obl	_	Gloss=all|SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+~~~
+
+There are also languages with morphologically expressed equative degree, used
+in equality comparisons. One such language is Hiligaynon [hil] (Philippinic;
+Wolfenden 1971:103) Haspelmath (2017):
+
+“Pedro is handsome.”
+
+~~~ conllu
+1	Si	si	ADP	_	_	2	case	_	Gloss=TOPIC
+2	Pedro	Pedro	PROPN	_	_	3	nsubj	_	Gloss=Pedro
+3	gwapo	gwapo	ADJ	_	Degree=Pos	0	root	_	Gloss=handsome|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+~~~
+
+“Pedro is as handsome as Juan.”
+
+~~~ conllu
+1	Si	si	ADP	_	_	2	case	_	Gloss=TOPIC
+2	Pedro	Pedro	PROPN	_	_	3	nsubj	_	Gloss=Pedro
+3	kasinggwapo	gwapo	ADJ	_	Degree=Equ	0	root	_	Gloss=as-handsome
+4	ni	ni	ADP	_	_	5	case	_	Gloss=of
+5	Juan	Juan	PROPN	_	_	3	obl	_	Gloss=Juan|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+~~~
 
