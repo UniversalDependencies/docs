@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-31T14:33:40Z">2017-10-31T14:33:40 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-31T14:58:13Z">2017-10-31T14:58:13 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2902,11 +2902,115 @@ python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PR
 <span class="doublewidespan" style="padding-left:3em">UD Marathi</span>
 <span class="widespan">mr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-31T14:08:43Z">2017-10-31T14:08:43 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-31T14:58:12Z">2017-10-31T14:58:12 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang mr UD-dev-branches/UD_Marathi/UD_Marathi.conllu
+python tools/validate.py --lang mr UD-dev-branches/UD_Marathi/mr-ud-dev.conllu
+
+[Line                   3]: Unknown UD DEPREL: compound:lvc
+[Line                   10]: Unknown attribute-value pair Case=Obl
+[Line                   10]: Unknown attribute-value pair Distance=Dist
+[Line                   12]: Unknown attribute-value pair Case=Obl
+[Line                   26]: Unknown UD DEPREL: compound:lvc
+[Line                   59]: Unknown attribute-value pair Distance=Prox
+[Line                   64]: Unknown UD DEPREL: compound:lvc
+[Line                   76]: Unknown attribute-value pair Case=Obl
+[Line                   76]: Unknown UD DEPREL: nmod:poss
+[Line                   80]: Unknown UD DEPREL: compound:svc
+[Line                   86]: Unknown attribute-value pair Case=Obl
+[Line                   86]: Unknown UD DEPREL: nmod:poss
+[Line                   93]: Unknown attribute-value pair Distance=Dist
+[Line                   104]: Unknown attribute-value pair Case=Obl
+[Line                   106]: Unknown UD DEPREL: compound:lvc
+[Line                   112]: Unknown UD DEPREL: nmod:poss
+[Line                   113]: Unknown attribute-value pair Case=Obl
+[Line                   128]: Unknown UD DEPREL: nmod:poss
+[Line                   129]: Unknown attribute-value pair Case=Obl
+[Line                   142]: Unknown attribute-value pair Case=Obl
+[Line                   147]: Unknown attribute-value pair Case=Obl
+[Line                   159]: Unknown attribute-value pair Case=Inst
+[Line                   166]: Unknown attribute-value pair Distance=Dist
+[Line                   188]: Unknown attribute-value pair Clusivity=Incl
+[Line                   201]: Unknown attribute-value pair Clusivity=Incl
+[Line                   203]: Unknown attribute-value pair Case=Obl
+[Line                   205]: Unknown UD DEPREL: compound:lvc
+[Line                   209]: Unknown attribute-value pair Distance=Dist
+[Line                   216]: Unknown attribute-value pair Case=Obl
+...suppressing further errors regarding Morpho
+[Line                   223]: Unknown UD DEPREL: nmod:poss
+[Line                   242]: Unknown UD DEPREL: nmod:poss
+[Line                   259]: Unknown UD DEPREL: nmod:poss
+[Line                   269]: Unknown UD DEPREL: nsubj:pass
+[Line                   271]: Unknown UD DEPREL: aux:pass
+[Line                   275]: Unknown UD DEPREL: nsubj:pass
+[Line                   277]: Unknown UD DEPREL: aux:pass
+[Line                   286]: Unknown UD DEPREL: nsubj:pass
+[Line                   287]: Unknown UD DEPREL: compound:lvc
+...suppressing further errors regarding Syntax
+*** FAILED *** with 120 errors
+Morpho errors: 85
+Syntax errors: 35
+The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.mr does not exist.
+The language-specific file /home/ginter/UD_PROJHOOK/tools/data/feat_val.mr does not exist.
+python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PROJHOOK/tools/data/feat_val.mr
+
+
+******************
+
+python tools/validate.py --lang mr UD-dev-branches/UD_Marathi/mr-ud-test.conllu
+
+[Line                   3]: Unknown attribute-value pair Distance=Dist
+[Line                   4]: Unknown attribute-value pair InfForm=Dict
+[Line                   6]: Unknown attribute-value pair Distance=Dist
+[Line                   6]: Unknown UD DEPREL: nmod:poss
+[Line                   7]: Unknown attribute-value pair Case=Obl
+[Line                   9]: Unknown attribute-value pair Case=Obl
+[Line                   17]: Unknown attribute-value pair Case=Obl
+[Line                   20]: Unknown attribute-value pair Case=Obl
+[Line                   27]: Unknown attribute-value pair Case=Obl
+[Line                   27]: Unknown UD DEPREL: nmod:poss
+[Line                   38]: Unknown attribute-value pair Distance=Dist
+[Line                   39]: Unknown UD DEPREL: compound:lvc
+[Line                   48]: Unknown attribute-value pair Distance=Dist
+[Line                   50]: Unknown attribute-value pair Case=Obl
+[Line                   50]: Unknown UD DEPREL: nmod:poss
+[Line                   60]: Unknown attribute-value pair Distance=Prox
+[Line                   67]: Unknown attribute-value pair Case=Obl
+[Line                   67]: Unknown attribute-value pair Distance=Prox
+[Line                   69]: Unknown attribute-value pair Case=Obl
+[Line                   69]: Unknown UD DEPREL: nmod:poss
+[Line                   84]: Unknown attribute-value pair Case=Obl
+[Line                   94]: Unknown attribute-value pair Case=Obl
+[Line                   94]: Unknown UD DEPREL: nmod:poss
+[Line                   95]: Unknown attribute-value pair Case=Obl
+[Line                   98]: Unknown UD DEPREL: compound:lvc
+[Line                   106]: Unknown attribute-value pair Distance=Dist
+[Line                   106]: Unknown UD DEPREL: nmod:poss
+...suppressing further errors regarding Morpho
+[Line                   118]: Unknown UD DEPREL: nmod:poss
+[Line                   194]: Unknown UD DEPREL: nmod:poss
+[Line                   230]: Unknown UD DEPREL: nmod:poss
+[Line                   287]: Unknown UD DEPREL: nmod:poss
+[Line                   306]: Unknown UD DEPREL: compound:svc
+[Line                   316]: Unknown UD DEPREL: nmod:poss
+[Line                   338]: Unknown UD DEPREL: nmod:poss
+[Line                   356]: Unknown UD DEPREL: nmod:poss
+[Line                   364]: Unknown UD DEPREL: nmod:poss
+[Line                   381]: Unknown UD DEPREL: nmod:poss
+[Line                   394]: Unknown UD DEPREL: compound:lvc
+...suppressing further errors regarding Syntax
+*** FAILED *** with 103 errors
+Morpho errors: 70
+Syntax errors: 33
+The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.mr does not exist.
+The language-specific file /home/ginter/UD_PROJHOOK/tools/data/feat_val.mr does not exist.
+python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PROJHOOK/tools/data/feat_val.mr
+
+
+******************
+
+python tools/validate.py --lang mr UD-dev-branches/UD_Marathi/mr-ud-train.conllu
 
 [Line                   10]: Unknown attribute-value pair Distance=Dist
 [Line                   25]: Unknown attribute-value pair Distance=Dist
@@ -2948,9 +3052,9 @@ python tools/validate.py --lang mr UD-dev-branches/UD_Marathi/UD_Marathi.conllu
 [Line                   552]: Unknown UD DEPREL: nmod:poss
 [Line                   608]: Unknown UD DEPREL: nmod:poss
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 928 errors
-Morpho errors: 671
-Syntax errors: 257
+*** FAILED *** with 705 errors
+Morpho errors: 516
+Syntax errors: 189
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.mr does not exist.
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/feat_val.mr does not exist.
 python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PROJHOOK/tools/data/feat_val.mr
