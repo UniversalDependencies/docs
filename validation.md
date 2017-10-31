@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-31T14:08:44Z">2017-10-31T14:08:44 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-31T14:28:15Z">2017-10-31T14:28:15 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -976,22 +976,42 @@ Syntax errors: 205
 <span class="doublewidespan" style="padding-left:3em">UD Dutch-LassySmall</span>
 <span class="widespan">nl lassysmall</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-31T13:29:50Z">2017-10-31T13:29:50 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-31T14:28:09Z">2017-10-31T14:28:09 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-dev.conllu
 
+[Line                   254]: Unknown UD DEPREL: nmod:poss
+[Line                   397]: Unknown UD DEPREL: nmod:poss
 [Line                   429]: SpaceAfter=No is missing in the MISC field of node #12 because the text is '», Jerom in «De doll[...]'
 [Line                   429]: SpaceAfter=No is missing in the MISC field of node #35 because the text is ').'
+[Line                   622]: Unknown UD DEPREL: nmod:poss
+[Line                   647]: Unknown UD DEPREL: nmod:poss
 [Line                   834]: SpaceAfter=No is missing in the MISC field of node #28 because the text is 'reeks») In deze verh[...]'
 [Line                   901]: SpaceAfter=No is missing in the MISC field of node #10 because the text is 'of, nog heter, geroo[...]'
 [Line                   1076]: SpaceAfter=No is missing in the MISC field of node #34 because the text is '4).'
+[Line                   1082]: Unknown UD DEPREL: nmod:poss
+[Line                   1231]: Unknown UD DEPREL: nmod:poss
 [Line                   1587]: SpaceAfter=No is missing in the MISC field of node #21 because the text is '».'
+[Line                   1615]: Unknown UD DEPREL: nmod:poss
+[Line                   1679]: Unknown UD DEPREL: nmod:poss
+[Line                   1978]: Unknown UD DEPREL: nmod:poss
 [Line                   2037]: SpaceAfter=No is missing in the MISC field of node #4 because the text is '"Wil" tekende Vander[...]'
 [Line                   2037]: SpaceAfter=No is missing in the MISC field of node #26 because the text is '"De Dag".'
 [Line                   2037]: SpaceAfter=No is missing in the MISC field of node #29 because the text is '".'
+[Line                   2125]: Unknown UD DEPREL: nmod:poss
 [Line                   2302]: SpaceAfter=No is missing in the MISC field of node #3 because the text is 'film); een film uit 1995'
+[Line                   2319]: Unknown UD DEPREL: nmod:poss
+[Line                   2440]: Unknown UD DEPREL: nmod:poss
+[Line                   2484]: Unknown UD DEPREL: nmod:poss
+[Line                   2549]: Unknown UD DEPREL: nmod:poss
+[Line                   2593]: Unknown UD DEPREL: nmod:poss
+[Line                   2600]: Unknown UD DEPREL: nmod:poss
+[Line                   2614]: Unknown UD DEPREL: nmod:poss
+[Line                   2826]: Unknown UD DEPREL: nmod:poss
+[Line                   2841]: Unknown UD DEPREL: nmod:poss
+...suppressing further errors regarding Syntax
 [Line                   3032]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'Gerolf, Emma en Tosca.'
 [Line                   3090]: SpaceAfter=No is missing in the MISC field of node #2 because the text is 'leden, die ontevrede[...]'
 [Line                   3410]: SpaceAfter=No is missing in the MISC field of node #9 because the text is '"De Seefhoek" als zo[...]'
@@ -1002,8 +1022,9 @@ python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmal
 [Line                   4093]: SpaceAfter=No is missing in the MISC field of node #10 because the text is '), de BWP werd de Be[...]'
 [Line                   4093]: SpaceAfter=No is missing in the MISC field of node #40 because the text is ').'
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 100 errors
+*** FAILED *** with 182 errors
 Metadata errors: 100
+Syntax errors: 82
 
 
 ******************
@@ -1011,27 +1032,48 @@ Metadata errors: 100
 python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-test.conllu
 
 [Line                   40]: SpaceAfter=No is missing in the MISC field of node #25 because the text is ').'
+[Line                   47]: Unknown UD DEPREL: nmod:poss
+[Line                   84]: Unknown UD DEPREL: nmod:poss
+[Line                   107]: Unknown UD DEPREL: nmod:poss
+[Line                   196]: Unknown UD DEPREL: nmod:poss
 [Line                   243]: SpaceAfter=No is missing in the MISC field of node #18 because the text is 'kiezers.'
+[Line                   400]: Unknown UD DEPREL: nmod:poss
 [Line                   554]: SpaceAfter=No is missing in the MISC field of node #17 because the text is 'opstand.'
+[Line                   578]: Unknown UD DEPREL: nmod:poss
 [Line                   734]: SpaceAfter=No is missing in the MISC field of node #19 because the text is '"zwarte dood" zorgde[...]'
 [Line                   734]: SpaceAfter=No is missing in the MISC field of node #32 because the text is 'werd.'
 [Line                   891]: SpaceAfter=No is missing in the MISC field of node #9 because the text is '», en «Pats» / «Tits».'
 [Line                   891]: SpaceAfter=No is missing in the MISC field of node #18 because the text is '».'
 [Line                   997]: SpaceAfter=No is missing in the MISC field of node #47 because the text is 'zijn.'
+[Line                   1182]: Unknown UD DEPREL: nmod:poss
 [Line                   1435]: SpaceAfter=No is missing in the MISC field of node #2 because the text is ''Rat der Deutschspra[...]'
 [Line                   1435]: SpaceAfter=No is missing in the MISC field of node #10 because the text is '', ook wel 'Parlamen[...]'
 [Line                   1435]: SpaceAfter=No is missing in the MISC field of node #14 because the text is ''Parlament der Deuts[...]'
 [Line                   1435]: SpaceAfter=No is missing in the MISC field of node #18 because the text is 'Gemeinschaft' genoem[...]'
+[Line                   1727]: Unknown UD DEPREL: nmod:poss
+[Line                   1836]: Unknown UD DEPREL: nmod:poss
+[Line                   1879]: Unknown UD DEPREL: nmod:poss
 [Line                   1909]: SpaceAfter=No is missing in the MISC field of node #34 because the text is '».'
 [Line                   2075]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'Nete, Kleine Nete'
 [Line                   2100]: SpaceAfter=No is missing in the MISC field of node #7 because the text is ''Anders Gaan Leven' [...]'
+[Line                   2214]: Unknown UD DEPREL: nmod:poss
+[Line                   2271]: Unknown UD DEPREL: nmod:poss
+[Line                   2468]: Unknown UD DEPREL: nmod:poss
+[Line                   2498]: Unknown UD DEPREL: nmod:poss
+[Line                   2518]: Unknown UD DEPREL: nmod:poss
 [Line                   2554]: SpaceAfter=No is missing in the MISC field of node #25 because the text is 'was.'
 [Line                   2567]: SpaceAfter=No is missing in the MISC field of node #9 because the text is ');'
+[Line                   2626]: Unknown UD DEPREL: nmod:poss
+[Line                   2733]: Unknown UD DEPREL: nmod:poss
+[Line                   2745]: Unknown UD DEPREL: nmod:poss
 [Line                   2763]: SpaceAfter=No is missing in the MISC field of node #20 because the text is '"Er is maar één oplo[...]'
+[Line                   2799]: Unknown UD DEPREL: nmod:poss
+...suppressing further errors regarding Syntax
 [Line                   3117]: SpaceAfter=No is missing in the MISC field of node #14 because the text is '"Pro Luce" in de voo[...]'
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 61 errors
+*** FAILED *** with 148 errors
 Metadata errors: 61
+Syntax errors: 87
 
 
 ******************
@@ -1041,34 +1083,46 @@ python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmal
 [Line                   55]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'dienstplicht.'
 [Line                   118]: SpaceAfter=No is missing in the MISC field of node #3 because the text is ''Vlaanderen' verwijs[...]'
 [Line                   118]: SpaceAfter=No is missing in the MISC field of node #10 because the text is ''Vlaamse gemeenschap[...]'
+[Line                   312]: Unknown UD DEPREL: nmod:poss
 [Line                   436]: SpaceAfter=No is missing in the MISC field of node #24 because the text is 'hem.'
+[Line                   442]: Unknown UD DEPREL: nmod:poss
 [Line                   573]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'Waals: «Lidje», Duit[...]'
 [Line                   616]: SpaceAfter=No is missing in the MISC field of node #34 because the text is 'Vandersteen, onder d[...]'
 [Line                   659]: SpaceAfter=No is missing in the MISC field of node #22 because the text is 'is.'
+[Line                   808]: Unknown UD DEPREL: nmod:poss
 [Line                   835]: SpaceAfter=No is missing in the MISC field of node #7 because the text is 'reeks) (1955-1962, n[...]'
+[Line                   882]: Unknown UD DEPREL: nmod:poss
+[Line                   933]: Unknown UD DEPREL: nmod:poss
+[Line                   951]: Unknown UD DEPREL: nmod:poss
 [Line                   1059]: SpaceAfter=No is missing in the MISC field of node #19 because the text is 'bevolking, immers op[...]'
 [Line                   1059]: SpaceAfter=No is missing in the MISC field of node #58 because the text is 'is, terwijl de verho[...]'
 [Line                   1059]: SpaceAfter=No is missing in the MISC field of node #67 because the text is 'is.'
+[Line                   1428]: Unknown UD DEPREL: nmod:poss
 [Line                   1541]: SpaceAfter=No is missing in the MISC field of node #40 because the text is ').'
 [Line                   1816]: SpaceAfter=No is missing in the MISC field of node #15 because the text is '6-3.'
 [Line                   1861]: SpaceAfter=No is missing in the MISC field of node #9 because the text is '6-3) in de halve finale.'
+[Line                   1868]: Unknown UD DEPREL: nmod:poss
 [Line                   1937]: SpaceAfter=No is missing in the MISC field of node #13 because the text is 'door.'
+[Line                   1992]: Unknown UD DEPREL: nmod:poss
+[Line                   2023]: Unknown UD DEPREL: nmod:poss
 [Line                   2135]: SpaceAfter=No is missing in the MISC field of node #11 because the text is '"Franse" Nederlanden[...]'
 [Line                   2331]: SpaceAfter=No is missing in the MISC field of node #5 because the text is '"Viane"'
+[Line                   2414]: Unknown UD DEPREL: nmod:poss
 [Line                   2454]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'laag, waarbij het sc[...]'
+[Line                   2473]: Unknown UD DEPREL: nmod:poss
+[Line                   2489]: Unknown UD DEPREL: nmod:poss
+[Line                   2518]: Unknown UD DEPREL: nmod:poss
 [Line                   2630]: SpaceAfter=No is missing in the MISC field of node #14 because the text is '66»; vroeger afgekor[...]'
 ...suppressing further errors regarding Metadata
-[Line                   35341]: DEPREL must be "root" if HEAD is 0
-[Line                   35341]: DEPREL must be "root" if HEAD is 0
-[Tree number 2180 on line 35338]: Multiple root words: [1, 2, 3]
-[Line                   40209]: DEPREL must be "root" if HEAD is 0
-[Line                   40209]: DEPREL must be "root" if HEAD is 0
-[Tree number 2495 on line 40206]: Multiple root words: [1, 2, 3]
-[Line                   55220]: DEPREL must be "root" if HEAD is 0
-[Tree number 3400 on line 55218]: Multiple root words: [1, 2]
-*** FAILED *** with 705 errors
+[Line                   2738]: Unknown UD DEPREL: nmod:poss
+[Line                   3004]: Unknown UD DEPREL: nmod:poss
+[Line                   3328]: Unknown UD DEPREL: nmod:poss
+[Line                   3392]: Unknown UD DEPREL: nmod:poss
+[Line                   3399]: Unknown UD DEPREL: nmod:poss
+...suppressing further errors regarding Syntax
+*** FAILED *** with 1318 errors
 Metadata errors: 697
-Syntax errors: 8
+Syntax errors: 621
 
 
 ******************
