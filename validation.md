@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-31T13:29:58Z">2017-10-31T13:29:58 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-31T13:32:47Z">2017-10-31T13:32:47 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -839,11 +839,11 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Dutch</span>
 <span class="widespan">nl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-30T20:36:54Z">2017-10-30T20:36:54 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-31T13:32:30Z">2017-10-31T13:32:30 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch/nl-ud-dev.conllu
+python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-dev.conllu
 
 [Line                   367]: SpaceAfter=No is missing in the MISC field of node #22 because the text is '6) was de grootste v[...]'
 [Line                   728]: SpaceAfter=No is missing in the MISC field of node #26 because the text is 'en, in de slotfase, [...]'
@@ -871,7 +871,7 @@ Metadata errors: 66
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch/nl-ud-test.conllu
+python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-test.conllu
 
 [Line                   147]: SpaceAfter=No is missing in the MISC field of node #2 because the text is ''mobilisatie' van de[...]'
 [Line                   193]: SpaceAfter=No is missing in the MISC field of node #9 because the text is ''alle grote vragen v[...]'
@@ -920,7 +920,7 @@ Syntax errors: 20
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch/nl-ud-train.conllu
+python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-train.conllu
 
 [Line                   139]: SpaceAfter=No is missing in the MISC field of node #7 because the text is 'op, vindt Djindjic.'
 [Line                   508]: SpaceAfter=No is missing in the MISC field of node #14 because the text is ''kleine' nadelen.'
