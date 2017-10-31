@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-31T11:06:14Z">2017-10-31T11:06:14 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-31T12:57:55Z">2017-10-31T12:57:55 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1501,91 +1501,28 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr /home/ginter/UD_PROJ
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD French-FTB</span>
 <span class="widespan">fr ftb</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-31T10:57:40Z">2017-10-31T10:57:40 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-31T12:57:05Z">2017-10-31T12:57:05 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang fr_ftb UD-dev-branches/UD_French-FTB/fr_ftb-ud-dev.conllu
 
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is '...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-...suppressing further errors regarding Metadata
-*** FAILED *** with 32794 errors
-Metadata errors: 32794
+*** PASSED ***
 
 
 ******************
 
 python tools/validate.py --lang fr_ftb UD-dev-branches/UD_French-FTB/fr_ftb-ud-test.conllu
 
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-...suppressing further errors regarding Metadata
-*** FAILED *** with 62756 errors
-Metadata errors: 62756
+*** PASSED ***
 
 
 ******************
 
 python tools/validate.py --lang fr_ftb UD-dev-branches/UD_French-FTB/fr_ftb-ud-train.conllu
 
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-...suppressing further errors regarding Metadata
-*** FAILED *** with 370803 errors
-Metadata errors: 370803
+*** PASSED ***
 
 
 ******************
