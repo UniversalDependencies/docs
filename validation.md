@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-31T14:28:15Z">2017-10-31T14:28:15 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-31T14:33:40Z">2017-10-31T14:33:40 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -839,16 +839,36 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Dutch</span>
 <span class="widespan">nl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-31T13:36:31Z">2017-10-31T13:36:31 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-31T14:33:22Z">2017-10-31T14:33:22 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-dev.conllu
 
+[Line                   4]: Unknown UD DEPREL: nmod:poss
+[Line                   67]: Unknown UD DEPREL: nmod:poss
+[Line                   119]: Unknown UD DEPREL: nmod:poss
+[Line                   311]: Unknown UD DEPREL: nmod:poss
 [Line                   367]: SpaceAfter=No is missing in the MISC field of node #22 because the text is '6) was de grootste v[...]'
+[Line                   504]: Unknown UD DEPREL: nmod:poss
+[Line                   515]: Unknown UD DEPREL: nmod:poss
+[Line                   565]: Unknown UD DEPREL: nmod:poss
+[Line                   582]: Unknown UD DEPREL: nmod:poss
 [Line                   728]: SpaceAfter=No is missing in the MISC field of node #26 because the text is 'en, in de slotfase, [...]'
+[Line                   744]: Unknown UD DEPREL: nmod:poss
+[Line                   1071]: Unknown UD DEPREL: nmod:poss
 [Line                   1181]: SpaceAfter=No is missing in the MISC field of node #11 because the text is '1), na een fout van [...]'
+[Line                   1193]: Unknown UD DEPREL: nmod:poss
 [Line                   1324]: SpaceAfter=No is missing in the MISC field of node #21 because the text is ''rood' zag.'
+[Line                   1414]: Unknown UD DEPREL: nmod:poss
+[Line                   1429]: Unknown UD DEPREL: nmod:poss
+[Line                   1513]: Unknown UD DEPREL: nmod:poss
+[Line                   1551]: Unknown UD DEPREL: nmod:poss
+[Line                   1811]: Unknown UD DEPREL: nmod:poss
+[Line                   1880]: Unknown UD DEPREL: nmod:poss
+[Line                   2436]: Unknown UD DEPREL: nmod:poss
+[Line                   2485]: Unknown UD DEPREL: nmod:poss
+...suppressing further errors regarding Syntax
 [Line                   2912]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'het, want de Bankgir[...]'
 [Line                   3086]: SpaceAfter=No is missing in the MISC field of node #2 because the text is ''rotsituatie' vond B[...]'
 [Line                   3967]: SpaceAfter=No is missing in the MISC field of node #3 because the text is ''per ongeluk' ontvoe[...]'
@@ -865,18 +885,39 @@ python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-dev.conllu
 [Tree number 316 on line 5548]: Mismatch between the text attribute and the FORM field. Form is 'zijn' but text is ' riep volgens overleveri...'
 [Tree number 316 on line 5548]: Mismatch between the text attribute and the FORM field. Form is 'bezoek' but text is ' riep volgens overlevering...'
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 66 errors
+*** FAILED *** with 184 errors
 Metadata errors: 66
+Syntax errors: 118
 
 
 ******************
 
 python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-test.conllu
 
+[Line                   53]: Unknown UD DEPREL: nmod:poss
 [Line                   147]: SpaceAfter=No is missing in the MISC field of node #2 because the text is ''mobilisatie' van de[...]'
 [Line                   193]: SpaceAfter=No is missing in the MISC field of node #9 because the text is ''alle grote vragen v[...]'
 [Line                   261]: SpaceAfter=No is missing in the MISC field of node #31 because the text is ''stem van de armen' [...]'
+[Line                   277]: Unknown UD DEPREL: nmod:poss
+[Line                   339]: Unknown UD DEPREL: nmod:poss
+[Line                   348]: Unknown UD DEPREL: nmod:poss
+[Line                   526]: Unknown UD DEPREL: nmod:poss
+[Line                   628]: Unknown UD DEPREL: nmod:poss
 [Line                   645]: SpaceAfter=No is missing in the MISC field of node #9 because the text is ''Geen Kritiek' de Ph[...]'
+[Line                   864]: Unknown UD DEPREL: nmod:poss
+[Line                   910]: Unknown UD DEPREL: nmod:poss
+[Line                   960]: Unknown UD DEPREL: nmod:poss
+[Line                   995]: Unknown UD DEPREL: nmod:poss
+[Line                   1045]: Unknown UD DEPREL: nmod:poss
+[Line                   1062]: Unknown UD DEPREL: nmod:poss
+[Line                   1155]: Unknown UD DEPREL: nmod:poss
+[Line                   1253]: Unknown UD DEPREL: nmod:poss
+[Line                   1256]: Unknown UD DEPREL: nmod:poss
+[Line                   1272]: Unknown UD DEPREL: nmod:poss
+[Line                   1277]: Unknown UD DEPREL: nmod:poss
+[Line                   1338]: Unknown UD DEPREL: nmod:poss
+[Line                   1348]: Unknown UD DEPREL: nmod:poss
+...suppressing further errors regarding Syntax
 [Line                   1651]: SpaceAfter=No is missing in the MISC field of node #5 because the text is ''Culturele Hoofdstad[...]'
 [Line                   1901]: SpaceAfter=No is missing in the MISC field of node #11 because the text is ''flikkers', of roept[...]'
 [Line                   1901]: SpaceAfter=No is missing in the MISC field of node #13 because the text is '', of roept hard ' t[...]'
@@ -886,8 +927,6 @@ python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-test.conllu
 [Line                   2650]: SpaceAfter=No is missing in the MISC field of node #58 because the text is ''.'
 [Line                   2851]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'werk'', zei De Vries[...]'
 [Line                   3200]: SpaceAfter=No is missing in the MISC field of node #7 because the text is 'is, maar wil verder [...]'
-[Line                   3378]: DEPREL must be "root" if HEAD is 0
-[Tree number 148 on line 3356]: Multiple root words: [5, 6]
 [Line                   3456]: SpaceAfter=No is missing in the MISC field of node #13 because the text is ''oude' Konmar.'
 [Line                   3636]: SpaceAfter=No is missing in the MISC field of node #15 because the text is ''voller, verser en v[...]'
 [Line                   3697]: SpaceAfter=No is missing in the MISC field of node #20 because the text is ''rondje om de kerk' [...]'
@@ -895,27 +934,9 @@ python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-test.conllu
 [Tree number 168 on line 3778]: Mismatch between the text attribute and the FORM field. Form is 'opleveren' but text is ' moeten opleveren....'
 [Tree number 168 on line 3778]: Mismatch between the text attribute and the FORM field. Form is '.' but text is ' moeten opleveren....'
 ...suppressing further errors regarding Metadata
-[Line                   6627]: DEPREL must be "root" if HEAD is 0
-[Tree number 303 on line 6616]: Multiple root words: [1, 2]
-[Line                   6655]: DEPREL must be "root" if HEAD is 0
-[Tree number 305 on line 6652]: Multiple root words: [1, 2]
-[Line                   6727]: DEPREL must be "root" if HEAD is 0
-[Tree number 309 on line 6723]: Multiple root words: [1, 2]
-[Line                   6750]: DEPREL must be "root" if HEAD is 0
-[Tree number 311 on line 6746]: Multiple root words: [1, 2]
-[Line                   6778]: DEPREL must be "root" if HEAD is 0
-[Tree number 313 on line 6773]: Multiple root words: [1, 2]
-[Line                   6844]: DEPREL must be "root" if HEAD is 0
-[Tree number 316 on line 6840]: Multiple root words: [1, 2]
-[Line                   11311]: DEPREL must be "root" if HEAD is 0
-[Tree number 524 on line 11308]: Multiple root words: [1, 2]
-[Line                   11483]: DEPREL must be "root" if HEAD is 0
-[Tree number 532 on line 11480]: Multiple root words: [1, 2]
-[Line                   11587]: DEPREL must be "root" if HEAD is 0
-...suppressing further errors regarding Syntax
-*** FAILED *** with 77 errors
+*** FAILED *** with 144 errors
 Metadata errors: 57
-Syntax errors: 20
+Syntax errors: 87
 
 
 ******************
@@ -923,20 +944,38 @@ Syntax errors: 20
 python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-train.conllu
 
 [Line                   139]: SpaceAfter=No is missing in the MISC field of node #7 because the text is 'op, vindt Djindjic.'
+[Line                   235]: Unknown UD DEPREL: nmod:poss
+[Line                   449]: Unknown UD DEPREL: nmod:poss
 [Line                   508]: SpaceAfter=No is missing in the MISC field of node #14 because the text is ''kleine' nadelen.'
+[Line                   727]: Unknown UD DEPREL: nmod:poss
+[Line                   748]: Unknown UD DEPREL: nmod:poss
+[Line                   829]: Unknown UD DEPREL: nmod:poss
+[Line                   839]: Unknown UD DEPREL: nmod:poss
+[Line                   967]: Unknown UD DEPREL: nmod:poss
+[Line                   1033]: Unknown UD DEPREL: nmod:poss
+[Line                   1049]: Unknown UD DEPREL: nmod:poss
+[Line                   1118]: Unknown UD DEPREL: nmod:poss
+[Line                   1150]: Unknown UD DEPREL: nmod:poss
+[Line                   1167]: Unknown UD DEPREL: nmod:poss
+[Line                   1210]: Unknown UD DEPREL: nmod:poss
 [Line                   1214]: SpaceAfter=No is missing in the MISC field of node #10 because the text is ''Leontien is best we[...]'
+[Line                   1354]: Unknown UD DEPREL: nmod:poss
+[Line                   1426]: Unknown UD DEPREL: nmod:poss
 [Line                   1519]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'was, was de stemming[...]'
+[Line                   1555]: Unknown UD DEPREL: nmod:poss
+[Line                   1604]: Unknown UD DEPREL: nmod:poss
 [Line                   1611]: SpaceAfter=No is missing in the MISC field of node #28 because the text is '"grote onderwerpen i[...]'
 [Line                   1611]: SpaceAfter=No is missing in the MISC field of node #39 because the text is '"de slaaf van zijn e[...]'
+[Line                   1691]: Unknown UD DEPREL: nmod:poss
+[Line                   1694]: Unknown UD DEPREL: nmod:poss
 [Line                   1948]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'bedrijfsleven, die g[...]'
+...suppressing further errors regarding Syntax
 [Line                   2085]: SpaceAfter=No is missing in the MISC field of node #30 because the text is 'is.'
 [Line                   2939]: SpaceAfter=No is missing in the MISC field of node #11 because the text is '"bezet" kunstenaarsh[...]'
 [Line                   2939]: SpaceAfter=No is missing in the MISC field of node #12 because the text is 'bezet" kunstenaarshu[...]'
 [Line                   3387]: SpaceAfter=No is missing in the MISC field of node #32 because the text is ').'
 [Line                   3847]: SpaceAfter=No is missing in the MISC field of node #24 because the text is 'hadden, vleeswaren h[...]'
 [Line                   3893]: SpaceAfter=No is missing in the MISC field of node #12 because the text is 'is.'
-[Line                   4419]: DEPREL must be "root" if HEAD is 0
-[Tree number 206 on line 4415]: Multiple root words: [1, 2]
 [Line                   4477]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'kalm", zegt zij.'
 [Line                   5110]: SpaceAfter=No is missing in the MISC field of node #30 because the text is 'compagnie, een pelot[...]'
 [Line                   5750]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'van, of als gevolg v[...]'
@@ -944,27 +983,9 @@ python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-train.conllu
 [Line                   5774]: SpaceAfter=No is missing in the MISC field of node #20 because the text is 'is.'
 [Line                   5926]: SpaceAfter=No is missing in the MISC field of node #2 because the text is 'ook? Luis Ocana, de [...]'
 ...suppressing further errors regarding Metadata
-[Line                   14701]: DEPREL must be "root" if HEAD is 0
-[Tree number 669 on line 14678]: Multiple root words: [1, 3]
-[Line                   26723]: DEPREL must be "root" if HEAD is 0
-[Line                   29255]: DEPREL must be "root" if HEAD is 0
-[Tree number 1285 on line 29238]: Multiple root words: [1, 3]
-[Line                   32744]: DEPREL must be "root" if HEAD is 0
-[Tree number 1440 on line 32711]: Multiple root words: [1, 2]
-[Line                   39357]: DEPREL must be "root" if HEAD is 0
-[Tree number 1721 on line 39338]: Multiple root words: [3, 7]
-[Line                   49771]: DEPREL must be "root" if HEAD is 0
-[Tree number 2178 on line 49765]: Multiple root words: [1, 2]
-[Line                   58744]: DEPREL must be "root" if HEAD is 0
-[Line                   58744]: DEPREL can only be "root" if HEAD is 0
-[Line                   84158]: DEPREL must be "root" if HEAD is 0
-[Tree number 3719 on line 84114]: Multiple root words: [1, 3]
-[Line                   84192]: DEPREL must be "root" if HEAD is 0
-[Tree number 3720 on line 84161]: Multiple root words: [1, 2]
-...suppressing further errors regarding Syntax
-*** FAILED *** with 1185 errors
+*** FAILED *** with 2626 errors
 Metadata errors: 980
-Syntax errors: 205
+Syntax errors: 1646
 
 
 ******************
