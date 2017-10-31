@@ -164,3 +164,52 @@ Wolfenden 1971:103) Haspelmath (2017):
 
 ~~~
 
+### Periphrastic Gradation
+
+Other languages, like English, have a mixed system. Some English adjectives
+have morphological degrees like in Czech, e.g., _smart – smarter – smartest._
+Other adjectives must be compared periphrastically with the help of the words
+_more, most, less_ and _least._ These function words provide the degree
+feature and they can be viewed themselves as (irregular) degree forms of two
+basic adverbs: _much – more – most; little – less – least._
+
+~~~ conllu
+1	Martin	Martin	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	more	much	ADV	_	Degree=Cmp	4	advmod	_	_
+4	intelligent	intelligent	ADJ	_	Degree=Pos	0	root	_	_
+5	than	than	SCONJ	_	_	6	case	_	_
+6	Donald	Donald	PROPN	_	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+~~~
+
+~~~ conllu
+1	Martin	Martin	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
+2	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	the	the	DET	_	Definite=Def|PronType=Art	6	_	_
+4	most	much	ADV	_	Degree=Sup	5	advmod	_	_
+5	intelligent	intelligent	ADJ	_	Degree=Pos	6	amod	_	_
+6	guy	guy	NOUN	_	Number=Sing	0	root	_	_
+7	of	of	ADP	_	_	8	case	_	_
+8	all	all	PRON	_	PronType=Tot	5	obl	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	6	punct	_	_
+
+~~~
+
+The comparative and superlative represent increasing degrees of the quality
+compared. Decreasing degrees can also be expressed, e.g., instead of saying
+that _Martin is more intelligent than Donald,_ we could say that _Donald is
+less intelligent than Martin._ The coding of decreasing degrees is
+periphrastic even in Czech:
+
+~~~ conllu
+1	Vojta	Vojta	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Gloss=Vojta
+2	je	být	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	Gloss=is
+3	méně	málo	ADV	_	Degree=Cmp|Polarity=Pos	4	advmod	_	Gloss=less
+4	inteligentní	inteligentní	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	Gloss=intelligent
+5	než	než	SCONJ	_	_	6	case	_	Gloss=than
+6	Martin	Martin	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	4	obl	_	Gloss=Martin|SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+~~~
