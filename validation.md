@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-31T13:36:44Z">2017-10-31T13:36:44 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-10-31T14:08:44Z">2017-10-31T14:08:44 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2827,192 +2827,55 @@ python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PR
 <span class="doublewidespan" style="padding-left:3em">UD Marathi</span>
 <span class="widespan">mr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-26T13:01:28Z">2017-10-26T13:01:28 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-31T14:08:43Z">2017-10-31T14:08:43 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang mr UD-dev-branches/UD_Marathi/UD_Marathi.conlluTraceback (most recent call last):
-  File "tools/validate.py", line 735, in &lt;module&gt;
-    validate(inp,out,args,tagsets,known_sent_ids)
-  File "tools/validate.py", line 613, in validate
-    for comments,tree in trees(inp,tag_sets,args):
-  File "tools/validate.py", line 96, in trees
-    validate_cols(cols,tag_sets,args)
-  File "tools/validate.py", line 213, in validate_cols
-    validate_token_empty_vals(cols)
-  File "tools/validate.py", line 274, in validate_token_empty_vals
-    if cols[col_idx]!=u"_":
-IndexError: list index out of range
+python tools/validate.py --lang mr UD-dev-branches/UD_Marathi/UD_Marathi.conllu
 
-
-
-[Line                   2]: Morphological features must be sorted: 'Person=3|Gender=Neut|Number=Sing|Distance=Dist'
-[Line                   2]: Unknown attribute-value pair Distance=Dist
-[Line                   2]: Unknown UPOS tag: _
-[Line                   2]: Invalid UPOSTAG value _
-[Line                   3]: Morphological features must be sorted: 'VerbForm=Inf|InfForm=Dict'
-[Line                   3]: Unknown attribute-value pair InfForm=Dict
-[Line                   3]: Unknown UPOS tag: _
-[Line                   3]: Invalid UPOSTAG value _
-[Line                   4]: The line has 8 columns, but 10 are expected.
-[Line                   4]: Exception caught!
-*** FAILED *** with 10 errors
-Format errors: 2
-Morpho errors: 8
-The language-specific file /home/ginter/UD_PROJHOOK/tools/data/feat_val.mr does not exist.
-python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PROJHOOK/tools/data/feat_val.mr
-
-
-******************
-
-python tools/validate.py --lang mr UD-dev-branches/UD_Marathi/UD_Marathi.test.conllu
-
-[Line                   2]: Morphological features must be sorted: 'Gender=Masc|Number=Plur|Case=Nom'
-[Line                   2]: Unknown UPOS tag: _
-[Line                   2]: Invalid UPOSTAG value _
-[Line                   3]: Morphological features must be sorted: 'VerbForm=Conv|Aspect=Perf'
-[Line                   3]: Unknown UPOS tag: _
-[Line                   3]: Invalid UPOSTAG value _
-[Line                   4]: Unknown UPOS tag: _
-[Line                   4]: Invalid UPOSTAG value _
-[Line                   5]: Morphological features must be sorted: 'Gender=Neut|Number=Sing|Case=Nom'
-[Line                   5]: Unknown UPOS tag: _
-[Line                   5]: Invalid UPOSTAG value _
-[Line                   6]: Morphological features must be sorted: 'VerbForm=Conv|Aspect=Perf'
-[Line                   6]: Unknown UPOS tag: _
-[Line                   6]: Invalid UPOSTAG value _
-[Line                   7]: Morphological features must be sorted: 'Person=3|Gender=Masc|Number=Sing|Case=Nom|Distance=Dist'
-[Line                   7]: Unknown attribute-value pair Distance=Dist
-[Line                   7]: Unknown UPOS tag: _
-[Line                   7]: Invalid UPOSTAG value _
-[Line                   8]: Unknown UPOS tag: _
+[Line                   10]: Unknown attribute-value pair Distance=Dist
+[Line                   25]: Unknown attribute-value pair Distance=Dist
+[Line                   26]: Unknown UD DEPREL: compound:lvc
+[Line                   36]: Unknown attribute-value pair Case=Obl
+[Line                   38]: Unknown attribute-value pair Distance=Dist
+[Line                   49]: Unknown attribute-value pair Distance=Prox
+[Line                   51]: Unknown UD DEPREL: compound:svc
+[Line                   71]: Unknown attribute-value pair Distance=Prox
+[Line                   82]: Unknown attribute-value pair Distance=Dist
+[Line                   90]: Unknown attribute-value pair Distance=Dist
+[Line                   94]: Unknown attribute-value pair Distance=Dist
+[Line                   102]: Unknown attribute-value pair Case=Obl
+[Line                   113]: Unknown attribute-value pair Distance=Dist
+[Line                   115]: Unknown attribute-value pair InfForm=Dict
+[Line                   115]: Unknown UD DEPREL: compound:svc
+[Line                   118]: Unknown attribute-value pair Case=Obl
+[Line                   118]: Unknown UD DEPREL: nmod:poss
+[Line                   123]: Unknown attribute-value pair Distance=Dist
+[Line                   126]: Unknown attribute-value pair Case=Obl
+[Line                   131]: Unknown attribute-value pair Distance=Dist
+[Line                   148]: Unknown attribute-value pair Case=Obl
+[Line                   150]: Unknown attribute-value pair Distance=Dist
+[Line                   164]: Unknown attribute-value pair Case=Obl
+[Line                   167]: Unknown UD DEPREL: compound:svc
 ...suppressing further errors regarding Morpho
-[Line                   17]: Missing the sent_id attribute.
-[Line                   17]: Missing the text attribute.
-[Line                   23]: Missing the sent_id attribute.
-[Line                   23]: Missing the text attribute.
-[Line                   26]: Unknown UD DEPREL: nmod:poss
-[Tree number 3 on line 25]: Multiple root words: [11, 5]
-[Line                   40]: Missing the sent_id attribute.
-[Line                   40]: Missing the text attribute.
-[Line                   48]: Missing the sent_id attribute.
-[Line                   48]: Missing the text attribute.
-[Line                   56]: Missing the sent_id attribute.
-[Line                   56]: Missing the text attribute.
-[Line                   62]: Missing the sent_id attribute.
-[Line                   62]: Missing the text attribute.
-[Line                   66]: Unknown UD DEPREL: compound:lvc
-[Line                   68]: Unknown UD DEPREL: compound:svc
-[Line                   70]: Missing the sent_id attribute.
-[Line                   70]: Missing the text attribute.
-[Line                   77]: Missing the sent_id attribute.
-[Line                   77]: Missing the text attribute.
-[Line                   88]: Missing the sent_id attribute.
-[Line                   88]: Missing the text attribute.
-[Line                   94]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-[Line                   116]: Unknown UD DEPREL: nmod:poss
-[Line                   151]: Unknown UD DEPREL: compound:svc
-[Line                   162]: DEPREL must be "root" if HEAD is 0
-[Tree number 17 on line 155]: Multiple root words: [1, 2]
-[Line                   170]: Unknown UD DEPREL: nmod:poss
-[Tree number 18 on line 164]: Multiple root words: [9, 2]
-[Line                   183]: Unknown UD DEPREL: nmod:poss
-[Line                   187]: Unknown UD DEPREL: nmod:poss
-[Tree number 19 on line 177]: Multiple root words: [2, 11]
-[Line                   202]: DEPREL must be "root" if HEAD is 0
-[Line                   205]: Unknown UD DEPREL: nmod:poss
-[Line                   233]: Unknown UD DEPREL: compound:lvc
-[Line                   261]: Unknown UD DEPREL: nmod:poss
-[Line                   290]: Unknown UD DEPREL: acl:relcl
-[Line                   298]: Unknown UD DEPREL: nmod:poss
+[Line                   186]: Unknown UD DEPREL: nmod:poss
+[Line                   211]: Unknown UD DEPREL: nmod:poss
+[Line                   235]: Unknown UD DEPREL: nmod:poss
+[Line                   249]: Unknown UD DEPREL: nmod:poss
+[Line                   294]: Unknown UD DEPREL: nmod:poss
+[Line                   318]: Unknown UD DEPREL: compound:lvc
+[Line                   370]: Unknown UD DEPREL: nmod:poss
+[Line                   374]: Unknown UD DEPREL: compound:svc
+[Line                   402]: Unknown UD DEPREL: nmod:poss
+[Line                   428]: Unknown UD DEPREL: nmod:poss
+[Line                   437]: Unknown UD DEPREL: nmod:poss
+[Line                   452]: Unknown UD DEPREL: nmod:poss
+[Line                   552]: Unknown UD DEPREL: nmod:poss
+[Line                   608]: Unknown UD DEPREL: nmod:poss
 ...suppressing further errors regarding Syntax
-*** FAILED *** with 1522 errors
-Metadata errors: 114
-Morpho errors: 1368
-Syntax errors: 40
-The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.mr does not exist.
-The language-specific file /home/ginter/UD_PROJHOOK/tools/data/feat_val.mr does not exist.
-python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PROJHOOK/tools/data/feat_val.mr
-
-
-******************
-
-python tools/validate.py --lang mr UD-dev-branches/UD_Marathi/UD_Marathi.train.conllu
-
-[Line                   2]: Morphological features must be sorted: 'Person=3|Gender=Neut|Number=Sing|Distance=Dist'
-[Line                   2]: Unknown attribute-value pair Distance=Dist
-[Line                   2]: Unknown UPOS tag: _
-[Line                   2]: Invalid UPOSTAG value _
-[Line                   3]: Morphological features must be sorted: 'VerbForm=Inf|InfForm=Dict'
-[Line                   3]: Unknown attribute-value pair InfForm=Dict
-[Line                   3]: Unknown UPOS tag: _
-[Line                   3]: Invalid UPOSTAG value _
-[Line                   5]: Morphological features must be sorted: 'Person=3|Gender=Masc|Number=Sing|Distance=Dist'
-[Line                   5]: Unknown attribute-value pair Distance=Dist
-[Line                   5]: Unknown UPOS tag: _
-[Line                   5]: Invalid UPOSTAG value _
-[Line                   5]: Unknown UD DEPREL: nmod:poss
-[Line                   6]: Unknown attribute-value pair Case=Obl
-[Line                   6]: Unknown attribute-value pair Gender=TODO
-[Line                   6]: Unknown attribute-value pair Number=TODO
-[Line                   6]: Unknown UPOS tag: _
-[Line                   6]: Invalid UPOSTAG value _
-[Line                   8]: Morphological features must be sorted: 'Gender=Masc|Number=Sing|Case=Obl'
-[Line                   8]: Unknown attribute-value pair Case=Obl
-...suppressing further errors regarding Morpho
-[Line                   13]: Missing the sent_id attribute.
-[Line                   13]: Missing the text attribute.
-[Line                   20]: Missing the sent_id attribute.
-[Line                   20]: Missing the text attribute.
-[Line                   36]: Missing the sent_id attribute.
-[Line                   36]: Missing the text attribute.
-[Line                   43]: Missing the sent_id attribute.
-[Line                   43]: Missing the text attribute.
-[Line                   46]: Unknown UD DEPREL: nmod:poss
-[Line                   51]: Missing the sent_id attribute.
-[Line                   51]: Missing the text attribute.
-[Line                   60]: Missing the sent_id attribute.
-[Line                   60]: Missing the text attribute.
-[Line                   67]: Missing the sent_id attribute.
-[Line                   67]: Missing the text attribute.
-[Line                   73]: Unknown UD DEPREL: compound:svc
-[Line                   75]: Missing the sent_id attribute.
-[Line                   75]: Missing the text attribute.
-[Line                   87]: Missing the sent_id attribute.
-[Line                   87]: Missing the text attribute.
-[Line                   94]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-[Line                   112]: Unknown UD DEPREL: nmod:poss
-[Line                   124]: Unknown UD DEPREL: nmod:poss
-[Line                   136]: Unknown UD DEPREL: compound:svc
-[Line                   147]: Unknown UD DEPREL: compound:lvc
-[Line                   153]: Unknown UD DEPREL: compound:svc
-[Line                   158]: Unknown UD DEPREL: nmod:poss
-[Line                   189]: Unknown UD DEPREL: nmod:poss
-[Line                   192]: Unknown UD DEPREL: nmod:poss
-[Line                   195]: Unknown UD DEPREL: nmod:poss
-[Line                   212]: Unknown UD DEPREL: nmod:poss
-[Line                   241]: Unknown UD DEPREL: nmod:poss
-[Tree number 21 on line 235]: HEAD == ID for 7
-[Tree number 21 on line 235]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9,10,12 are not reachable from the root 0.
-[Line                   253]: Unknown UD DEPREL: nmod:poss
-[Line                   272]: Unknown UD DEPREL: compound:svc
-[Line                   288]: Unknown UD DEPREL: nmod:poss
-[Line                   310]: Unknown UD DEPREL: nmod:poss
-...suppressing further errors regarding Syntax
-[Tree number 44 on line 511]: HEAD == ID for 8
-[Line                   1434]: Spurious empty line.
-[Line                   2173]: Spurious empty line.
-[Tree number 240 on line 2584]: HEAD == ID for 13
-[Line                   2621]: Spurious empty line.
-[Line                   3330]: White space not allowed in the DEPREL column: 'punct @punct'
-[Line                   3667]: Spurious empty line.
-*** FAILED *** with 9097 errors
-Format errors: 8
-Metadata errors: 692
-Morpho errors: 8186
-Syntax errors: 211
+*** FAILED *** with 928 errors
+Morpho errors: 671
+Syntax errors: 257
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.mr does not exist.
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/feat_val.mr does not exist.
 python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PROJHOOK/tools/data/feat_val.mr
