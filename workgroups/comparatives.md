@@ -556,3 +556,23 @@ Finnish [fi]:
 6	thought	think	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	2	advcl	_	_
 
 ~~~
+
+An optional oblique argument may quantify the difference between the comparee
+and the standard of comparison:
+
+Czech [cs]:
+
+“Pavel is taller than Klára by ten centimeters.”
+
+~~~ conllu
+1	Pavel	Pavel	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Gloss=Pavel
+2	je	být	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	Gloss=is
+3	o	o	ADP	_	Case=Acc	5	case	_	Gloss=by
+4	deset	deset	NUM	_	Case=Acc	5	nummod:gov	_	Gloss=ten
+5	centimetrů	centimetr	NOUN	_	Case=Gen	6	obl	_	Gloss=centimeters
+6	vyšší	vysoký	ADJ	_	Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing	0	root	_	Gloss=taller
+7	než	než	SCONJ	_	_	8	case	_	Gloss=than
+8	Klára	Klára	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	6	obl	_	Gloss=Klára|SpaceAfter=No
+9	.	.	PUNCT	_	_	6	punct	_	Gloss=.
+
+~~~
