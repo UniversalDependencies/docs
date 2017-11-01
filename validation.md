@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-01T16:03:43Z">2017-11-01T16:03:43 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-01T16:11:11Z">2017-11-01T16:11:11 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2684,58 +2684,41 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Maltese</span>
 <span class="widespan">mt</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:46:33Z">2017-10-05T15:46:33 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-01T16:11:11Z">2017-11-01T16:11:11 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang mt UD-dev-branches/UD_Maltese/mt-ud-sample.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang mt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Maltese/mt-ud-sample.conllu
 
-[Line                   12]: Unknown attribute-value pair AdpType=Prep
-[Line                   24]: Unknown attribute-value pair AdpType=Prep
-[Line                   36]: Unknown attribute-value pair AdpType=Prep
-[Line                   38]: Unknown UD DEPREL: flat:name
-[Line                   40]: Unknown attribute-value pair AdpType=Prep
-[Line                   51]: Unknown attribute-value pair AdpType=Prep
-[Line                   53]: Unknown attribute-value pair AdpType=Prep
-[Line                   56]: Unknown attribute-value pair AdpType=Prep
-[Line                   66]: Unknown attribute-value pair AdpType=Prep
-[Line                   74]: Unknown attribute-value pair AdpType=Prep
-[Line                   79]: Unknown attribute-value pair AdpType=Prep
-[Line                   81]: Unknown UD DEPREL: det:poss
-[Line                   84]: Unknown attribute-value pair AdpType=Prep
-[Line                   90]: Unknown attribute-value pair AdpType=Prep
-[Line                   92]: Unknown attribute-value pair AdpType=Prep
-[Line                   103]: Unknown attribute-value pair AdpType=Prep
-[Line                   106]: Unknown attribute-value pair AdpType=Prep
-[Line                   109]: Unknown attribute-value pair AdpType=Prep
-[Line                   114]: Unknown attribute-value pair AdpType=Prep
-[Line                   120]: Unknown attribute-value pair AdpType=Prep
-[Line                   122]: Unknown attribute-value pair AdpType=Prep
-...suppressing further errors regarding Morpho
-[Line                   154]: Unknown UD DEPREL: det:poss
-[Line                   218]: Unknown UD DEPREL: det:poss
-[Line                   243]: Unknown UD DEPREL: det:poss
 [Line                   296]: DEPREL must be "root" if HEAD is 0
-[Line                   366]: Unknown UD DEPREL: det:poss
-[Line                   441]: Unknown UD DEPREL: flat:name
-[Line                   518]: Unknown UD DEPREL: nsubj:pass
-[Line                   521]: Unknown UD DEPREL: aux:pass
-[Line                   525]: Unknown UD DEPREL: flat:name
-[Line                   526]: Unknown UD DEPREL: flat:name
-[Line                   547]: Unknown UD DEPREL: flat:name
-[Line                   548]: Unknown UD DEPREL: flat:name
+[Line                   303]: Unknown attribute-value pair NumType=Gen
+[Line                   303]: Unknown attribute-value pair NumValue=1
+[Line                   312]: Unknown attribute-value pair NumType=Gen
+[Line                   312]: Unknown attribute-value pair NumValue=1
 [Line                   557]: DEPREL must be "root" if HEAD is 0
-[Line                   583]: Unknown UD DEPREL: nsubj:pass
-[Line                   627]: Unknown UD DEPREL: det:poss
-[Line                   639]: Unknown UD DEPREL: det:poss
-[Line                   692]: Unknown UD DEPREL: det:poss
-...suppressing further errors regarding Syntax
-*** FAILED *** with 441 errors
-Morpho errors: 373
-Syntax errors: 68
-The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.mt does not exist.
-The language-specific file /home/ginter/UD_PROJHOOK/tools/data/feat_val.mt does not exist.
-python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PROJHOOK/tools/data/feat_val.mt
+[Line                   792]: DEPREL must be "root" if HEAD is 0
+[Line                   952]: Unknown attribute-value pair NumType=Gen
+[Line                   952]: Unknown attribute-value pair NumValue=1
+[Line                   1027]: Unknown attribute-value pair AdvType=Ex
+[Line                   1131]: Unknown attribute-value pair NumForm=Digit
+[Line                   1206]: Unknown attribute-value pair AdvType=Ex
+[Line                   1477]: Unknown attribute-value pair NumForm=Digit
+[Line                   1496]: Unknown UD DEPREL: acl:relcl
+[Line                   1670]: Unknown UD DEPREL: punc
+[Line                   1832]: Unknown attribute-value pair AdvType=Ex
+[Line                   1892]: Unknown attribute-value pair AdpType=Preppron
+[Line                   1940]: DEPREL can only be "root" if HEAD is 0
+[Line                   1960]: Unknown attribute-value pair AdpType=Preppron
+[Line                   2205]: Unknown attribute-value pair NumType=Gen
+[Line                   2205]: Unknown attribute-value pair NumValue=1
+[Line                   2239]: Unknown attribute-value pair NumType=Gen
+[Line                   2239]: Unknown attribute-value pair NumValue=1
+[Line                   2453]: Unknown attribute-value pair AdpType=Preppron
+[Line                   2653]: Unknown attribute-value pair AdvType=Ex
+...suppressing further errors regarding Morpho
+*** FAILED *** with 27 errors
+Morpho errors: 21
+Syntax errors: 6
 
 
 ******************
