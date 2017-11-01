@@ -259,3 +259,30 @@ Japanese [ja]: “English is easier than Japanese.”
 
 ~~~
 
+### Coding of the Standard of Comparison
+
+The standard of comparison can be a nominal or a clause. If it is a clause, it
+may be marked by a subordinating conjunction: either one whose primary function
+is comparison (English _than,_ Czech _než_) or a more general one (Spanish
+_que_). It is not uncommon that different conjunctions are used in inequality
+comparisons _(than, než, que)_ and in equality comparisons _(as, jako, como)._
+
+If the same conjunction is used with bare nominals, we still tag it [SCONJ]()
+(but we use dependency relations that are reserved for nominals, see below).
+However, if a language has a function word that is primarily used with nominal
+standards of comparison, it will be tagged [ADP]().
+
+Nominal standards of comparison can also be marked morphologically by a
+_comparative_ [Case](), as in Nepali [ne]:
+
+“This flower is beautiful.”
+
+~~~ conllu
+1	यो	यो	DET	_	PronType=Dem	2	det	_	Translit=yo|Gloss=this
+2	फूल	फूल	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	Translit=phūl|Gloss=flower
+3	राम्रो	राम्रो	ADJ	_	_	0	root	_	Translit=rāmro|Gloss=beautiful
+4	छ	छुनु	AUX	_	_	3	cop	_	Translit=cha|Gloss=is|SpaceAfter=No
+5	।	।	PUNCT	_	_	3	punct	_	Translit=.|Gloss=.
+
+~~~
+
