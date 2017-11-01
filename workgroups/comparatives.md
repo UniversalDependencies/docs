@@ -336,7 +336,7 @@ genitive in Russian [ru]:
 2	отец	отец	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Translit=otec|Gloss=father
 3	старше	старый	ADJ	_	Degree=Cmp	0	root	_	Translit=starše|Gloss=older
 4	твоего	твой	DET	_	Case=Gen|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	3	obl	_	Translit=tvoego|Gloss=of-yours|SpaceAfter=No
-5	.	.	PUNCT	_	_	4	punct	_	Translit=.|Gloss=.
+5	.	.	PUNCT	_	_	3	punct	_	Translit=.|Gloss=.
 
 ~~~
 
@@ -363,4 +363,48 @@ Haspelmath (2017):
 6	.	.	PUNCT	_	_	3	punct	_	Translit=.|Gloss=.
 
 ~~~
+
+## Relations in Equality Comparison
+
+In constructions of the form _as X as Y_ or _the same X as Y,_ X and Y can be
+of a range of syntactic types, leading to surface forms such as those
+exemplified below:
+
+* _Commitment is as important as a player's talent._
+* _Get the cash to him as soon as possible._
+* _I put in as much flour as the recipe called for._
+
+We note that the head of the whole construction appears to be the head of the
+X phrase, i.e., the property whose degree is compared. We can simply say:
+
+* _Commitment is important._
+* _Get the cash to him soon._
+* _I put in flour._
+
+We then say that the first _as_ is an independent modifier in the comparative,
+modifying something in the X phrase, in part because the following _as Y_ is
+fairly optional:
+
+* _Commitment is (just) as important._
+* _?Get the cash to him (just) as soon._
+* _I put in (just) as much flour._
+
+However, this first _as_ may not modify the head of X, it may modify an
+existing modifier of the head of X. Its role is adverbial ([advmod]()),
+consistent with other kinds of degree modification:
+
+~~~ conllu
+1	Commitment	commitment	NOUN	_	Number=Sing	4	nsubj	_	_
+2	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	as	as	SCONJ	_	_	4	advmod	_	_
+4	important	important	ADJ	_	Degree=Pos	0	root	_	_
+5	as	as	SCONJ	_	_	9	case	_	_
+6	a	a	DET	_	Definite=Ind|PronType=Art	7	det	_	_
+7	player	player	NOUN	_	Number=Sing	9	nmod	_	_
+8	's	's	PART	_	_	7	case	_	_
+9	talent	talent	NOUN	_	Number=Sing	4	obl	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	_
+
+~~~
+
 
