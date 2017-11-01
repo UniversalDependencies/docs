@@ -49,13 +49,13 @@ see [archived v1 guidelines](docsv1/index.html)
 and [changes from v1 to v2](v2/summary.html).
 </small>
 
-## UD Treebanks
+## Current UD Languages
 
 <div id="accordion" class="jquery-ui-accordion">
 {% include at_glance.html %}
 </div>
 
-### Upcoming UD Treebanks
+### Upcoming UD Languages
 
 <div id="accordion" class="jquery-ui-accordion">
 {% include at_glance_empty.html %}
