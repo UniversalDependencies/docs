@@ -30,4 +30,5 @@ Links: <a href="https://github.com/UniversalDependencies/UD_Chinese-CFL/">Github
 ## UD Chinese-HK
 
 This treebank is the Mandarin Chinese half of a Mandarin-Cantonese parallel treebank currently in development.  The texts were adopted from the subtitles of two films created by stduents from School of Creative Media. More information on this treebank along with brief descriptions of its annotation guidelines are available at the link below as well as in sub-sections within various webpages of the UD guidelines for Chinese.
+
 Links: <a href="https://github.com/UniversalDependencies/UD_Chinese-HK/">Github repository</a>
