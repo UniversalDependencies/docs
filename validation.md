@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-01T06:51:46Z">2017-11-01T06:51:46 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-01T07:53:10Z">2017-11-01T07:53:10 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -469,16 +469,14 @@ Metadata errors: 453
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Chinese-HK</span>
 <span class="widespan">zh hk</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-01T06:51:46Z">2017-11-01T06:51:46 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-01T07:53:10Z">2017-11-01T07:53:10 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang zh_hk UD-dev-branches/UD_Chinese-HK/zh_hk-ud-test.conllu
 
-[Line                   2498]: Only the unix-style LF line terminator is allowed
-*** FAILED *** with 1 errors
-Format errors: 1
+*** PASSED ***
 
 
 ******************
