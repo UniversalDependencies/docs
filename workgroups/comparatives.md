@@ -286,3 +286,16 @@ _comparative_ [Case](), as in Nepali [ne]:
 
 ~~~
 
+“This flower is more beautiful than that flower.”
+
+~~~ conllu
+1	यो	यो	DET	_	PronType=Dem	2	det	_	Translit=yo|Gloss=this
+2	फूल	फूल	NOUN	_	Case=Nom|Number=Sing	5	nsubj	_	Translit=phūla|Gloss=flower
+3	त्यो	त्यो	DET	_	PronType=Dem	4	det	_	Translit=tyo|Gloss=that
+4	फूलभन्दा	फूल	NOUN	_	Case=Cmp|Number=Sing	5	obl	_	Translit=phūlabhandā|Gloss=flower-than
+5	राम्रो	राम्रो	ADJ	_	_	0	root	_	Translit=rāmro|Gloss=beautiful
+6	छ	छुनु	AUX	_	_	5	cop	_	Translit=cha|Gloss=is|SpaceAfter=No
+7	।	।	PUNCT	_	_	5	punct	_	Translit=.|Gloss=.
+
+~~~
+
