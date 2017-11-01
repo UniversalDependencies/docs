@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-01T00:15:03Z">2017-11-01T00:15:03 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-01T00:22:38Z">2017-11-01T00:22:38 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3436,16 +3436,14 @@ python tools/validate.py --lang ru_pud UD-dev-branches/UD_Russian-PUD/ru_pud-ud-
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Russian-SynTagRus</span>
 <span class="widespan">ru syntagrus</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-01T00:13:34Z">2017-11-01T00:13:34 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-01T00:21:12Z">2017-11-01T00:21:12 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-dev.conllu
 
-[Line                   121450]: Undefined ID in DEPS: 9.2
-*** FAILED *** with 1 errors
-Format errors: 1
+*** PASSED ***
 
 
 ******************
