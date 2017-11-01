@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-01T11:04:35Z">2017-11-01T11:04:35 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-01T12:55:53Z">2017-11-01T12:55:53 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3039,7 +3039,7 @@ python tools/validate.py --lang sme UD-dev-branches/UD_North_Sami/sme-ud.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-Bokmaal</span>
 <span class="widespan">no bokmaal</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-17T08:22:00Z">2017-10-17T08:22:00 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-01T12:55:21Z">2017-11-01T12:55:21 zulu</time></span>
 </div>
 <div>
 <pre>
