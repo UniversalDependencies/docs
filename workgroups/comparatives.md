@@ -311,3 +311,17 @@ _comparative_ [Case](), as in Nepali [ne]:
 
 ~~~
 
+A few languages also have an equative case that marks the standard in equality
+comparisons. One example is East Greenlandic [kl] (Eskimo; Mennecier 1995:460)
+Haspelmath (2017):
+
+“He is as tall as me.”
+
+~~~ conllu
+1	Taanna	_	PRON	_	PronType=Dem	3	nsubj	_	Gloss=that-one
+2	uattut	_	PRON	_	Case=Equ|Number=Sing|Person=1|PronType=Prs	3	obl	_	Gloss=as-I
+3	attiivuq	_	VERB	_	Degree=Equ	0	root	_	Gloss=is-as-tall|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+~~~
+
