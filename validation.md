@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-01T20:32:23Z">2017-11-01T20:32:23 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-01T20:37:55Z">2017-11-01T20:37:55 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1692,86 +1692,28 @@ python tools/validate.py --lang got UD-dev-branches/UD_Gothic/got-ud-train.conll
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Greek</span>
 <span class="widespan">el</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-30T14:13:32Z">2017-10-30T14:13:32 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-01T20:37:50Z">2017-11-01T20:37:50 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang el UD-dev-branches/UD_Greek/el-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang el /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Greek/el-ud-dev.conllu
 
-[Line                   1042]: Unknown UD DEPREL: obl:arg
-[Line                   2525]: Unknown UD DEPREL: obl:arg
-[Line                   2797]: Unknown UD DEPREL: obl:arg
-[Line                   5576]: Unknown UD DEPREL: obl:arg
-[Line                   5783]: Unknown UD DEPREL: obl:arg
-[Line                   7578]: Unknown UD DEPREL: obl:arg
-[Line                   7735]: Unknown UD DEPREL: obl:arg
-[Line                   8807]: Unknown UD DEPREL: obl:arg
-[Line                   9485]: Unknown UD DEPREL: obl:arg
-[Line                   9765]: Unknown UD DEPREL: obl:arg
-[Line                   10073]: Unknown UD DEPREL: obl:arg
-[Line                   10688]: Unknown UD DEPREL: obl:arg
-[Line                   10711]: Unknown UD DEPREL: obl:arg
-[Line                   10808]: Unknown UD DEPREL: obl:arg
-[Line                   11531]: Unknown UD DEPREL: obl:arg
-*** FAILED *** with 15 errors
-Syntax errors: 15
+*** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang el UD-dev-branches/UD_Greek/el-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang el /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Greek/el-ud-test.conllu
 
-[Line                   572]: Unknown UD DEPREL: obl:arg
-[Line                   764]: Unknown UD DEPREL: obl:arg
-[Line                   1050]: Unknown UD DEPREL: obl:arg
-[Line                   2628]: Unknown UD DEPREL: obl:arg
-[Line                   2709]: Unknown UD DEPREL: obl:arg
-[Line                   2718]: Unknown UD DEPREL: obl:arg
-[Line                   2840]: Unknown UD DEPREL: obl:arg
-[Line                   3077]: Unknown UD DEPREL: obl:arg
-[Line                   3306]: Unknown UD DEPREL: obl:arg
-[Line                   3345]: Unknown UD DEPREL: obl:arg
-[Line                   3905]: Unknown UD DEPREL: obl:arg
-[Line                   4066]: Unknown UD DEPREL: obl:arg
-[Line                   5174]: Unknown UD DEPREL: obl:arg
-[Line                   5816]: Unknown UD DEPREL: obl:arg
-[Line                   6124]: Unknown UD DEPREL: obl:arg
-[Line                   6433]: Unknown UD DEPREL: obl:arg
-[Line                   6621]: Unknown UD DEPREL: obl:arg
-[Line                   6630]: Unknown UD DEPREL: obl:arg
-[Line                   7032]: Unknown UD DEPREL: obl:arg
-...suppressing further errors regarding Syntax
-*** FAILED *** with 28 errors
-Syntax errors: 28
+*** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang el UD-dev-branches/UD_Greek/el-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang el /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Greek/el-ud-train.conllu
 
-[Line                   1384]: Unknown UD DEPREL: obl:arg
-[Line                   1616]: Unknown UD DEPREL: obl:arg
-[Line                   2506]: Unknown UD DEPREL: obl:arg
-[Line                   2679]: Unknown UD DEPREL: obl:arg
-[Line                   3021]: Unknown UD DEPREL: obl:arg
-[Line                   3101]: Unknown UD DEPREL: obl:arg
-[Line                   3276]: Unknown UD DEPREL: obl:arg
-[Line                   3603]: Unknown UD DEPREL: obl:arg
-[Line                   3866]: Unknown UD DEPREL: obl:arg
-[Line                   4788]: Unknown UD DEPREL: obl:arg
-[Line                   5347]: Unknown UD DEPREL: obl:arg
-[Line                   5485]: Unknown UD DEPREL: obl:arg
-[Line                   6063]: Unknown UD DEPREL: obl:arg
-[Line                   6574]: Unknown UD DEPREL: obl:arg
-[Line                   8195]: Unknown UD DEPREL: obl:arg
-[Line                   8666]: Unknown UD DEPREL: obl:arg
-[Line                   9428]: Unknown UD DEPREL: obl:arg
-[Line                   9780]: Unknown UD DEPREL: obl:arg
-[Line                   9928]: Unknown UD DEPREL: obl:arg
-...suppressing further errors regarding Syntax
-*** FAILED *** with 91 errors
-Syntax errors: 91
+*** PASSED ***
 
 
 ******************
