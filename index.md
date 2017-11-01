@@ -9,7 +9,8 @@ udver: '2'
 Universal Dependencies (UD) is a framework for cross-linguistically consistent grammatical annotation
 and an open community effort with over 200 contributors producing almost 100 treebanks in over 50 languages.
 
-* [Short introduction to Universal Dependencies](introduction.html)
+* [Short introduction to UD](introduction.html)
+* [UD annotation guidelines](guidelines.html)
 * More information on UD:
   * [How to contribute to UD](contribute.html)
   * [Tools for working with UD](tools.html)
@@ -21,33 +22,6 @@ and an open community effort with over 200 contributors producing almost 100 tre
 
 If you want to receive news about Universal Dependencies, you can subscribe to the
 [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud).
-
-## UD Guidelines
-
-* Basic principles
-  * [Tokenization and word segmentation](u/overview/tokenization.html)
-  * [Morphology](u/overview/morphology.html)
-  * [Syntax](u/overview/syntax.html)
-  * [Enhanced dependencies](u/overview/enhanced-syntax.html)
-  * [CoNLL-U format](format.html)
-* Annotation guidelines
-  * [Nominals](u/overview/nominal-syntax.html)
-  * [Simple clauses](u/overview/simple-syntax.html)
-  * [Complex clauses](u/overview/complex-syntax.html)
-  * [Other constructions](u/overview/specific-syntax.html)
-* Documentation of tags, features and relations
-  * [POS tags](u/pos/index.html) ([single document](u/pos/all.html))
-  * [Features](u/feat/index.html) ([single document](u/feat/all.html))
-    * [Language-specific features](ext-feat-index.html)
-  * [Syntactic relations](u/dep/index.html) ([single document](u/dep/all.html))
-    * [Relation subtypes](ext-dep-index.html)
-  * [Conversion from other tagsets to UD tags and features](tagset-conversion/index.html)
-
-<small>
-This is the online documentation of UD v2 (2016-12-01). For earlier versions,
-see [archived v1 guidelines](docsv1/index.html)
-and [changes from v1 to v2](v2/summary.html).
-</small>
 
 ## Current UD Languages
 
