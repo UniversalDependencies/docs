@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-01T12:55:53Z">2017-11-01T12:55:53 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-01T20:18:49Z">2017-11-01T20:18:49 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -759,36 +759,16 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Dutch</span>
 <span class="widespan">nl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-01T08:40:29Z">2017-11-01T08:40:29 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-01T16:01:40Z">2017-11-01T16:01:40 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch/nl-ud-dev.conllu
 
-[Line                   4]: Unknown UD DEPREL: nmod:poss
-[Line                   67]: Unknown UD DEPREL: nmod:poss
-[Line                   119]: Unknown UD DEPREL: nmod:poss
-[Line                   311]: Unknown UD DEPREL: nmod:poss
 [Line                   367]: SpaceAfter=No is missing in the MISC field of node #22 because the text is '6) was de grootste v[...]'
-[Line                   504]: Unknown UD DEPREL: nmod:poss
-[Line                   515]: Unknown UD DEPREL: nmod:poss
-[Line                   565]: Unknown UD DEPREL: nmod:poss
-[Line                   582]: Unknown UD DEPREL: nmod:poss
 [Line                   728]: SpaceAfter=No is missing in the MISC field of node #26 because the text is 'en, in de slotfase, [...]'
-[Line                   744]: Unknown UD DEPREL: nmod:poss
-[Line                   1071]: Unknown UD DEPREL: nmod:poss
 [Line                   1181]: SpaceAfter=No is missing in the MISC field of node #11 because the text is '1), na een fout van [...]'
-[Line                   1193]: Unknown UD DEPREL: nmod:poss
 [Line                   1324]: SpaceAfter=No is missing in the MISC field of node #21 because the text is ''rood' zag.'
-[Line                   1414]: Unknown UD DEPREL: nmod:poss
-[Line                   1429]: Unknown UD DEPREL: nmod:poss
-[Line                   1513]: Unknown UD DEPREL: nmod:poss
-[Line                   1551]: Unknown UD DEPREL: nmod:poss
-[Line                   1811]: Unknown UD DEPREL: nmod:poss
-[Line                   1880]: Unknown UD DEPREL: nmod:poss
-[Line                   2436]: Unknown UD DEPREL: nmod:poss
-[Line                   2485]: Unknown UD DEPREL: nmod:poss
-...suppressing further errors regarding Syntax
 [Line                   2912]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'het, want de Bankgir[...]'
 [Line                   3086]: SpaceAfter=No is missing in the MISC field of node #2 because the text is ''rotsituatie' vond B[...]'
 [Line                   3967]: SpaceAfter=No is missing in the MISC field of node #3 because the text is ''per ongeluk' ontvoe[...]'
@@ -805,39 +785,18 @@ python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-dev.conllu
 [Tree number 316 on line 5548]: Mismatch between the text attribute and the FORM field. Form is 'zijn' but text is ' riep volgens overleveri...'
 [Tree number 316 on line 5548]: Mismatch between the text attribute and the FORM field. Form is 'bezoek' but text is ' riep volgens overlevering...'
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 184 errors
+*** FAILED *** with 66 errors
 Metadata errors: 66
-Syntax errors: 118
 
 
 ******************
 
-python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch/nl-ud-test.conllu
 
-[Line                   53]: Unknown UD DEPREL: nmod:poss
 [Line                   147]: SpaceAfter=No is missing in the MISC field of node #2 because the text is ''mobilisatie' van de[...]'
 [Line                   193]: SpaceAfter=No is missing in the MISC field of node #9 because the text is ''alle grote vragen v[...]'
 [Line                   261]: SpaceAfter=No is missing in the MISC field of node #31 because the text is ''stem van de armen' [...]'
-[Line                   277]: Unknown UD DEPREL: nmod:poss
-[Line                   339]: Unknown UD DEPREL: nmod:poss
-[Line                   348]: Unknown UD DEPREL: nmod:poss
-[Line                   526]: Unknown UD DEPREL: nmod:poss
-[Line                   628]: Unknown UD DEPREL: nmod:poss
 [Line                   645]: SpaceAfter=No is missing in the MISC field of node #9 because the text is ''Geen Kritiek' de Ph[...]'
-[Line                   864]: Unknown UD DEPREL: nmod:poss
-[Line                   910]: Unknown UD DEPREL: nmod:poss
-[Line                   960]: Unknown UD DEPREL: nmod:poss
-[Line                   995]: Unknown UD DEPREL: nmod:poss
-[Line                   1045]: Unknown UD DEPREL: nmod:poss
-[Line                   1062]: Unknown UD DEPREL: nmod:poss
-[Line                   1155]: Unknown UD DEPREL: nmod:poss
-[Line                   1253]: Unknown UD DEPREL: nmod:poss
-[Line                   1256]: Unknown UD DEPREL: nmod:poss
-[Line                   1272]: Unknown UD DEPREL: nmod:poss
-[Line                   1277]: Unknown UD DEPREL: nmod:poss
-[Line                   1338]: Unknown UD DEPREL: nmod:poss
-[Line                   1348]: Unknown UD DEPREL: nmod:poss
-...suppressing further errors regarding Syntax
 [Line                   1651]: SpaceAfter=No is missing in the MISC field of node #5 because the text is ''Culturele Hoofdstad[...]'
 [Line                   1901]: SpaceAfter=No is missing in the MISC field of node #11 because the text is ''flikkers', of roept[...]'
 [Line                   1901]: SpaceAfter=No is missing in the MISC field of node #13 because the text is '', of roept hard ' t[...]'
@@ -847,6 +806,8 @@ python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-test.conllu
 [Line                   2650]: SpaceAfter=No is missing in the MISC field of node #58 because the text is ''.'
 [Line                   2851]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'werk'', zei De Vries[...]'
 [Line                   3200]: SpaceAfter=No is missing in the MISC field of node #7 because the text is 'is, maar wil verder [...]'
+[Line                   3378]: DEPREL must be "root" if HEAD is 0
+[Tree number 148 on line 3356]: Multiple root words: [5, 6]
 [Line                   3456]: SpaceAfter=No is missing in the MISC field of node #13 because the text is ''oude' Konmar.'
 [Line                   3636]: SpaceAfter=No is missing in the MISC field of node #15 because the text is ''voller, verser en v[...]'
 [Line                   3697]: SpaceAfter=No is missing in the MISC field of node #20 because the text is ''rondje om de kerk' [...]'
@@ -854,48 +815,48 @@ python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-test.conllu
 [Tree number 168 on line 3778]: Mismatch between the text attribute and the FORM field. Form is 'opleveren' but text is ' moeten opleveren....'
 [Tree number 168 on line 3778]: Mismatch between the text attribute and the FORM field. Form is '.' but text is ' moeten opleveren....'
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 144 errors
+[Line                   6627]: DEPREL must be "root" if HEAD is 0
+[Tree number 303 on line 6616]: Multiple root words: [1, 2]
+[Line                   6655]: DEPREL must be "root" if HEAD is 0
+[Tree number 305 on line 6652]: Multiple root words: [1, 2]
+[Line                   6727]: DEPREL must be "root" if HEAD is 0
+[Tree number 309 on line 6723]: Multiple root words: [1, 2]
+[Line                   6750]: DEPREL must be "root" if HEAD is 0
+[Tree number 311 on line 6746]: Multiple root words: [1, 2]
+[Line                   6778]: DEPREL must be "root" if HEAD is 0
+[Tree number 313 on line 6773]: Multiple root words: [1, 2]
+[Line                   6844]: DEPREL must be "root" if HEAD is 0
+[Tree number 316 on line 6840]: Multiple root words: [1, 2]
+[Line                   11311]: DEPREL must be "root" if HEAD is 0
+[Tree number 524 on line 11308]: Multiple root words: [1, 2]
+[Line                   11483]: DEPREL must be "root" if HEAD is 0
+[Tree number 532 on line 11480]: Multiple root words: [1, 2]
+[Line                   11587]: DEPREL must be "root" if HEAD is 0
+...suppressing further errors regarding Syntax
+*** FAILED *** with 77 errors
 Metadata errors: 57
-Syntax errors: 87
+Syntax errors: 20
 
 
 ******************
 
-python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch/nl-ud-train.conllu
 
 [Line                   139]: SpaceAfter=No is missing in the MISC field of node #7 because the text is 'op, vindt Djindjic.'
-[Line                   235]: Unknown UD DEPREL: nmod:poss
-[Line                   449]: Unknown UD DEPREL: nmod:poss
 [Line                   508]: SpaceAfter=No is missing in the MISC field of node #14 because the text is ''kleine' nadelen.'
-[Line                   727]: Unknown UD DEPREL: nmod:poss
-[Line                   748]: Unknown UD DEPREL: nmod:poss
-[Line                   829]: Unknown UD DEPREL: nmod:poss
-[Line                   839]: Unknown UD DEPREL: nmod:poss
-[Line                   967]: Unknown UD DEPREL: nmod:poss
-[Line                   1033]: Unknown UD DEPREL: nmod:poss
-[Line                   1049]: Unknown UD DEPREL: nmod:poss
-[Line                   1118]: Unknown UD DEPREL: nmod:poss
-[Line                   1150]: Unknown UD DEPREL: nmod:poss
-[Line                   1167]: Unknown UD DEPREL: nmod:poss
-[Line                   1210]: Unknown UD DEPREL: nmod:poss
 [Line                   1214]: SpaceAfter=No is missing in the MISC field of node #10 because the text is ''Leontien is best we[...]'
-[Line                   1354]: Unknown UD DEPREL: nmod:poss
-[Line                   1426]: Unknown UD DEPREL: nmod:poss
 [Line                   1519]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'was, was de stemming[...]'
-[Line                   1555]: Unknown UD DEPREL: nmod:poss
-[Line                   1604]: Unknown UD DEPREL: nmod:poss
 [Line                   1611]: SpaceAfter=No is missing in the MISC field of node #28 because the text is '"grote onderwerpen i[...]'
 [Line                   1611]: SpaceAfter=No is missing in the MISC field of node #39 because the text is '"de slaaf van zijn e[...]'
-[Line                   1691]: Unknown UD DEPREL: nmod:poss
-[Line                   1694]: Unknown UD DEPREL: nmod:poss
 [Line                   1948]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'bedrijfsleven, die g[...]'
-...suppressing further errors regarding Syntax
 [Line                   2085]: SpaceAfter=No is missing in the MISC field of node #30 because the text is 'is.'
 [Line                   2939]: SpaceAfter=No is missing in the MISC field of node #11 because the text is '"bezet" kunstenaarsh[...]'
 [Line                   2939]: SpaceAfter=No is missing in the MISC field of node #12 because the text is 'bezet" kunstenaarshu[...]'
 [Line                   3387]: SpaceAfter=No is missing in the MISC field of node #32 because the text is ').'
 [Line                   3847]: SpaceAfter=No is missing in the MISC field of node #24 because the text is 'hadden, vleeswaren h[...]'
 [Line                   3893]: SpaceAfter=No is missing in the MISC field of node #12 because the text is 'is.'
+[Line                   4419]: DEPREL must be "root" if HEAD is 0
+[Tree number 206 on line 4415]: Multiple root words: [1, 2]
 [Line                   4477]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'kalm", zegt zij.'
 [Line                   5110]: SpaceAfter=No is missing in the MISC field of node #30 because the text is 'compagnie, een pelot[...]'
 [Line                   5750]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'van, of als gevolg v[...]'
@@ -903,9 +864,27 @@ python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-train.conllu
 [Line                   5774]: SpaceAfter=No is missing in the MISC field of node #20 because the text is 'is.'
 [Line                   5926]: SpaceAfter=No is missing in the MISC field of node #2 because the text is 'ook? Luis Ocana, de [...]'
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 2626 errors
+[Line                   14701]: DEPREL must be "root" if HEAD is 0
+[Tree number 669 on line 14678]: Multiple root words: [1, 3]
+[Line                   26723]: DEPREL must be "root" if HEAD is 0
+[Line                   29255]: DEPREL must be "root" if HEAD is 0
+[Tree number 1285 on line 29238]: Multiple root words: [1, 3]
+[Line                   32744]: DEPREL must be "root" if HEAD is 0
+[Tree number 1440 on line 32711]: Multiple root words: [1, 2]
+[Line                   39357]: DEPREL must be "root" if HEAD is 0
+[Tree number 1721 on line 39338]: Multiple root words: [3, 7]
+[Line                   49771]: DEPREL must be "root" if HEAD is 0
+[Tree number 2178 on line 49765]: Multiple root words: [1, 2]
+[Line                   58744]: DEPREL must be "root" if HEAD is 0
+[Line                   58744]: DEPREL can only be "root" if HEAD is 0
+[Line                   84158]: DEPREL must be "root" if HEAD is 0
+[Tree number 3719 on line 84114]: Multiple root words: [1, 3]
+[Line                   84192]: DEPREL must be "root" if HEAD is 0
+[Tree number 3720 on line 84161]: Multiple root words: [1, 2]
+...suppressing further errors regarding Syntax
+*** FAILED *** with 1185 errors
 Metadata errors: 980
-Syntax errors: 1646
+Syntax errors: 205
 
 
 ******************
@@ -917,42 +896,22 @@ Syntax errors: 1646
 <span class="doublewidespan" style="padding-left:3em">UD Dutch-LassySmall</span>
 <span class="widespan">nl lassysmall</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-01T08:34:57Z">2017-11-01T08:34:57 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-01T16:01:57Z">2017-11-01T16:01:57 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl_lassysmall /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-dev.conllu
 
-[Line                   254]: Unknown UD DEPREL: nmod:poss
-[Line                   397]: Unknown UD DEPREL: nmod:poss
 [Line                   429]: SpaceAfter=No is missing in the MISC field of node #12 because the text is '», Jerom in «De doll[...]'
 [Line                   429]: SpaceAfter=No is missing in the MISC field of node #35 because the text is ').'
-[Line                   622]: Unknown UD DEPREL: nmod:poss
-[Line                   647]: Unknown UD DEPREL: nmod:poss
 [Line                   834]: SpaceAfter=No is missing in the MISC field of node #28 because the text is 'reeks») In deze verh[...]'
 [Line                   901]: SpaceAfter=No is missing in the MISC field of node #10 because the text is 'of, nog heter, geroo[...]'
 [Line                   1076]: SpaceAfter=No is missing in the MISC field of node #34 because the text is '4).'
-[Line                   1082]: Unknown UD DEPREL: nmod:poss
-[Line                   1231]: Unknown UD DEPREL: nmod:poss
 [Line                   1587]: SpaceAfter=No is missing in the MISC field of node #21 because the text is '».'
-[Line                   1615]: Unknown UD DEPREL: nmod:poss
-[Line                   1679]: Unknown UD DEPREL: nmod:poss
-[Line                   1978]: Unknown UD DEPREL: nmod:poss
 [Line                   2037]: SpaceAfter=No is missing in the MISC field of node #4 because the text is '"Wil" tekende Vander[...]'
 [Line                   2037]: SpaceAfter=No is missing in the MISC field of node #26 because the text is '"De Dag".'
 [Line                   2037]: SpaceAfter=No is missing in the MISC field of node #29 because the text is '".'
-[Line                   2125]: Unknown UD DEPREL: nmod:poss
 [Line                   2302]: SpaceAfter=No is missing in the MISC field of node #3 because the text is 'film); een film uit 1995'
-[Line                   2319]: Unknown UD DEPREL: nmod:poss
-[Line                   2440]: Unknown UD DEPREL: nmod:poss
-[Line                   2484]: Unknown UD DEPREL: nmod:poss
-[Line                   2549]: Unknown UD DEPREL: nmod:poss
-[Line                   2593]: Unknown UD DEPREL: nmod:poss
-[Line                   2600]: Unknown UD DEPREL: nmod:poss
-[Line                   2614]: Unknown UD DEPREL: nmod:poss
-[Line                   2826]: Unknown UD DEPREL: nmod:poss
-[Line                   2841]: Unknown UD DEPREL: nmod:poss
-...suppressing further errors regarding Syntax
 [Line                   3032]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'Gerolf, Emma en Tosca.'
 [Line                   3090]: SpaceAfter=No is missing in the MISC field of node #2 because the text is 'leden, die ontevrede[...]'
 [Line                   3410]: SpaceAfter=No is missing in the MISC field of node #9 because the text is '"De Seefhoek" als zo[...]'
@@ -963,107 +922,73 @@ python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmal
 [Line                   4093]: SpaceAfter=No is missing in the MISC field of node #10 because the text is '), de BWP werd de Be[...]'
 [Line                   4093]: SpaceAfter=No is missing in the MISC field of node #40 because the text is ').'
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 182 errors
+*** FAILED *** with 100 errors
 Metadata errors: 100
-Syntax errors: 82
 
 
 ******************
 
-python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl_lassysmall /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-test.conllu
 
 [Line                   40]: SpaceAfter=No is missing in the MISC field of node #25 because the text is ').'
-[Line                   47]: Unknown UD DEPREL: nmod:poss
-[Line                   84]: Unknown UD DEPREL: nmod:poss
-[Line                   107]: Unknown UD DEPREL: nmod:poss
-[Line                   196]: Unknown UD DEPREL: nmod:poss
 [Line                   243]: SpaceAfter=No is missing in the MISC field of node #18 because the text is 'kiezers.'
-[Line                   400]: Unknown UD DEPREL: nmod:poss
 [Line                   554]: SpaceAfter=No is missing in the MISC field of node #17 because the text is 'opstand.'
-[Line                   578]: Unknown UD DEPREL: nmod:poss
 [Line                   734]: SpaceAfter=No is missing in the MISC field of node #19 because the text is '"zwarte dood" zorgde[...]'
 [Line                   734]: SpaceAfter=No is missing in the MISC field of node #32 because the text is 'werd.'
 [Line                   891]: SpaceAfter=No is missing in the MISC field of node #9 because the text is '», en «Pats» / «Tits».'
 [Line                   891]: SpaceAfter=No is missing in the MISC field of node #18 because the text is '».'
 [Line                   997]: SpaceAfter=No is missing in the MISC field of node #47 because the text is 'zijn.'
-[Line                   1182]: Unknown UD DEPREL: nmod:poss
 [Line                   1435]: SpaceAfter=No is missing in the MISC field of node #2 because the text is ''Rat der Deutschspra[...]'
 [Line                   1435]: SpaceAfter=No is missing in the MISC field of node #10 because the text is '', ook wel 'Parlamen[...]'
 [Line                   1435]: SpaceAfter=No is missing in the MISC field of node #14 because the text is ''Parlament der Deuts[...]'
 [Line                   1435]: SpaceAfter=No is missing in the MISC field of node #18 because the text is 'Gemeinschaft' genoem[...]'
-[Line                   1727]: Unknown UD DEPREL: nmod:poss
-[Line                   1836]: Unknown UD DEPREL: nmod:poss
-[Line                   1879]: Unknown UD DEPREL: nmod:poss
 [Line                   1909]: SpaceAfter=No is missing in the MISC field of node #34 because the text is '».'
 [Line                   2075]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'Nete, Kleine Nete'
 [Line                   2100]: SpaceAfter=No is missing in the MISC field of node #7 because the text is ''Anders Gaan Leven' [...]'
-[Line                   2214]: Unknown UD DEPREL: nmod:poss
-[Line                   2271]: Unknown UD DEPREL: nmod:poss
-[Line                   2468]: Unknown UD DEPREL: nmod:poss
-[Line                   2498]: Unknown UD DEPREL: nmod:poss
-[Line                   2518]: Unknown UD DEPREL: nmod:poss
 [Line                   2554]: SpaceAfter=No is missing in the MISC field of node #25 because the text is 'was.'
 [Line                   2567]: SpaceAfter=No is missing in the MISC field of node #9 because the text is ');'
-[Line                   2626]: Unknown UD DEPREL: nmod:poss
-[Line                   2733]: Unknown UD DEPREL: nmod:poss
-[Line                   2745]: Unknown UD DEPREL: nmod:poss
 [Line                   2763]: SpaceAfter=No is missing in the MISC field of node #20 because the text is '"Er is maar één oplo[...]'
-[Line                   2799]: Unknown UD DEPREL: nmod:poss
-...suppressing further errors regarding Syntax
 [Line                   3117]: SpaceAfter=No is missing in the MISC field of node #14 because the text is '"Pro Luce" in de voo[...]'
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 148 errors
+*** FAILED *** with 61 errors
 Metadata errors: 61
-Syntax errors: 87
 
 
 ******************
 
-python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang nl_lassysmall /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Dutch-LassySmall/nl_lassysmall-ud-train.conllu
 
 [Line                   55]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'dienstplicht.'
 [Line                   118]: SpaceAfter=No is missing in the MISC field of node #3 because the text is ''Vlaanderen' verwijs[...]'
 [Line                   118]: SpaceAfter=No is missing in the MISC field of node #10 because the text is ''Vlaamse gemeenschap[...]'
-[Line                   312]: Unknown UD DEPREL: nmod:poss
 [Line                   436]: SpaceAfter=No is missing in the MISC field of node #24 because the text is 'hem.'
-[Line                   442]: Unknown UD DEPREL: nmod:poss
 [Line                   573]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'Waals: «Lidje», Duit[...]'
 [Line                   616]: SpaceAfter=No is missing in the MISC field of node #34 because the text is 'Vandersteen, onder d[...]'
 [Line                   659]: SpaceAfter=No is missing in the MISC field of node #22 because the text is 'is.'
-[Line                   808]: Unknown UD DEPREL: nmod:poss
 [Line                   835]: SpaceAfter=No is missing in the MISC field of node #7 because the text is 'reeks) (1955-1962, n[...]'
-[Line                   882]: Unknown UD DEPREL: nmod:poss
-[Line                   933]: Unknown UD DEPREL: nmod:poss
-[Line                   951]: Unknown UD DEPREL: nmod:poss
 [Line                   1059]: SpaceAfter=No is missing in the MISC field of node #19 because the text is 'bevolking, immers op[...]'
 [Line                   1059]: SpaceAfter=No is missing in the MISC field of node #58 because the text is 'is, terwijl de verho[...]'
 [Line                   1059]: SpaceAfter=No is missing in the MISC field of node #67 because the text is 'is.'
-[Line                   1428]: Unknown UD DEPREL: nmod:poss
 [Line                   1541]: SpaceAfter=No is missing in the MISC field of node #40 because the text is ').'
 [Line                   1816]: SpaceAfter=No is missing in the MISC field of node #15 because the text is '6-3.'
 [Line                   1861]: SpaceAfter=No is missing in the MISC field of node #9 because the text is '6-3) in de halve finale.'
-[Line                   1868]: Unknown UD DEPREL: nmod:poss
 [Line                   1937]: SpaceAfter=No is missing in the MISC field of node #13 because the text is 'door.'
-[Line                   1992]: Unknown UD DEPREL: nmod:poss
-[Line                   2023]: Unknown UD DEPREL: nmod:poss
 [Line                   2135]: SpaceAfter=No is missing in the MISC field of node #11 because the text is '"Franse" Nederlanden[...]'
 [Line                   2331]: SpaceAfter=No is missing in the MISC field of node #5 because the text is '"Viane"'
-[Line                   2414]: Unknown UD DEPREL: nmod:poss
 [Line                   2454]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'laag, waarbij het sc[...]'
-[Line                   2473]: Unknown UD DEPREL: nmod:poss
-[Line                   2489]: Unknown UD DEPREL: nmod:poss
-[Line                   2518]: Unknown UD DEPREL: nmod:poss
 [Line                   2630]: SpaceAfter=No is missing in the MISC field of node #14 because the text is '66»; vroeger afgekor[...]'
 ...suppressing further errors regarding Metadata
-[Line                   2738]: Unknown UD DEPREL: nmod:poss
-[Line                   3004]: Unknown UD DEPREL: nmod:poss
-[Line                   3328]: Unknown UD DEPREL: nmod:poss
-[Line                   3392]: Unknown UD DEPREL: nmod:poss
-[Line                   3399]: Unknown UD DEPREL: nmod:poss
-...suppressing further errors regarding Syntax
-*** FAILED *** with 1318 errors
+[Line                   35341]: DEPREL must be "root" if HEAD is 0
+[Line                   35341]: DEPREL must be "root" if HEAD is 0
+[Tree number 2180 on line 35338]: Multiple root words: [1, 2, 3]
+[Line                   40209]: DEPREL must be "root" if HEAD is 0
+[Line                   40209]: DEPREL must be "root" if HEAD is 0
+[Tree number 2495 on line 40206]: Multiple root words: [1, 2, 3]
+[Line                   55220]: DEPREL must be "root" if HEAD is 0
+[Tree number 3400 on line 55218]: Multiple root words: [1, 2]
+*** FAILED *** with 705 errors
 Metadata errors: 697
-Syntax errors: 621
+Syntax errors: 8
 
 
 ******************
@@ -1465,25 +1390,25 @@ python tools/validate.py --lang fi_pud UD-dev-branches/UD_Finnish-PUD/fi_pud-ud-
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-01T02:53:55Z">2017-11-01T02:53:55 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-01T16:02:06Z">2017-11-01T16:02:06 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French/fr-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French/fr-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French/fr-ud-train.conllu
 
 *** PASSED ***
 
@@ -1497,25 +1422,25 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD French-FTB</span>
 <span class="widespan">fr ftb</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-31T12:57:05Z">2017-10-31T12:57:05 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-01T16:02:39Z">2017-11-01T16:02:39 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang fr_ftb UD-dev-branches/UD_French-FTB/fr_ftb-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_ftb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French-FTB/fr_ftb-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang fr_ftb UD-dev-branches/UD_French-FTB/fr_ftb-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_ftb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French-FTB/fr_ftb-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang fr_ftb UD-dev-branches/UD_French-FTB/fr_ftb-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_ftb /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_French-FTB/fr_ftb-ud-train.conllu
 
 *** PASSED ***
 
@@ -1579,7 +1504,7 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang fr_partut /home/ginter/
 <span class="doublewidespan" style="padding-left:3em">UD French-Sequoia</span>
 <span class="widespan">fr sequoia</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-30T20:37:40Z">2017-10-30T20:37:40 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-01T16:03:27Z">2017-11-01T16:03:27 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2684,25 +2609,25 @@ python tools/validate.py --lang la_proiel UD-dev-branches/UD_Latin-PROIEL/la_pro
 <span class="doublewidespan" style="padding-left:3em">UD Latvian</span>
 <span class="widespan">lv</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-30T20:37:49Z">2017-10-30T20:37:49 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-01T20:18:38Z">2017-11-01T20:18:38 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang lv /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latvian/lv-ud-dev.conllu
+python tools/validate.py --lang lv UD-dev-branches/UD_Latvian/lv-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang lv /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latvian/lv-ud-test.conllu
+python tools/validate.py --lang lv UD-dev-branches/UD_Latvian/lv-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang lv /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Latvian/lv-ud-train.conllu
+python tools/validate.py --lang lv UD-dev-branches/UD_Latvian/lv-ud-train.conllu
 
 *** PASSED ***
 
@@ -2759,58 +2684,26 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Maltese</span>
 <span class="widespan">mt</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:46:33Z">2017-10-05T15:46:33 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-01T16:18:07Z">2017-11-01T16:18:07 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang mt UD-dev-branches/UD_Maltese/mt-ud-sample.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang mt /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Maltese/mt-ud-sample.conllu
 
-[Line                   12]: Unknown attribute-value pair AdpType=Prep
-[Line                   24]: Unknown attribute-value pair AdpType=Prep
-[Line                   36]: Unknown attribute-value pair AdpType=Prep
-[Line                   38]: Unknown UD DEPREL: flat:name
-[Line                   40]: Unknown attribute-value pair AdpType=Prep
-[Line                   51]: Unknown attribute-value pair AdpType=Prep
-[Line                   53]: Unknown attribute-value pair AdpType=Prep
-[Line                   56]: Unknown attribute-value pair AdpType=Prep
-[Line                   66]: Unknown attribute-value pair AdpType=Prep
-[Line                   74]: Unknown attribute-value pair AdpType=Prep
-[Line                   79]: Unknown attribute-value pair AdpType=Prep
-[Line                   81]: Unknown UD DEPREL: det:poss
-[Line                   84]: Unknown attribute-value pair AdpType=Prep
-[Line                   90]: Unknown attribute-value pair AdpType=Prep
-[Line                   92]: Unknown attribute-value pair AdpType=Prep
-[Line                   103]: Unknown attribute-value pair AdpType=Prep
-[Line                   106]: Unknown attribute-value pair AdpType=Prep
-[Line                   109]: Unknown attribute-value pair AdpType=Prep
-[Line                   114]: Unknown attribute-value pair AdpType=Prep
-[Line                   120]: Unknown attribute-value pair AdpType=Prep
-[Line                   122]: Unknown attribute-value pair AdpType=Prep
-...suppressing further errors regarding Morpho
-[Line                   154]: Unknown UD DEPREL: det:poss
-[Line                   218]: Unknown UD DEPREL: det:poss
-[Line                   243]: Unknown UD DEPREL: det:poss
 [Line                   296]: DEPREL must be "root" if HEAD is 0
-[Line                   366]: Unknown UD DEPREL: det:poss
-[Line                   441]: Unknown UD DEPREL: flat:name
-[Line                   518]: Unknown UD DEPREL: nsubj:pass
-[Line                   521]: Unknown UD DEPREL: aux:pass
-[Line                   525]: Unknown UD DEPREL: flat:name
-[Line                   526]: Unknown UD DEPREL: flat:name
-[Line                   547]: Unknown UD DEPREL: flat:name
-[Line                   548]: Unknown UD DEPREL: flat:name
+[Line                   303]: Unknown attribute-value pair NumType=Gen
+[Line                   312]: Unknown attribute-value pair NumType=Gen
 [Line                   557]: DEPREL must be "root" if HEAD is 0
-[Line                   583]: Unknown UD DEPREL: nsubj:pass
-[Line                   627]: Unknown UD DEPREL: det:poss
-[Line                   639]: Unknown UD DEPREL: det:poss
-[Line                   692]: Unknown UD DEPREL: det:poss
-...suppressing further errors regarding Syntax
-*** FAILED *** with 441 errors
-Morpho errors: 373
-Syntax errors: 68
-The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.mt does not exist.
-The language-specific file /home/ginter/UD_PROJHOOK/tools/data/feat_val.mt does not exist.
-python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PROJHOOK/tools/data/feat_val.mt
+[Line                   792]: DEPREL must be "root" if HEAD is 0
+[Line                   952]: Unknown attribute-value pair NumType=Gen
+[Line                   1670]: Unknown UD DEPREL: punc
+[Line                   1940]: DEPREL can only be "root" if HEAD is 0
+[Line                   2205]: Unknown attribute-value pair NumType=Gen
+[Line                   2239]: Unknown attribute-value pair NumType=Gen
+[Line                   2694]: Unknown attribute-value pair NumType=Gen
+*** FAILED *** with 11 errors
+Morpho errors: 6
+Syntax errors: 5
 
 
 ******************
@@ -2822,162 +2715,56 @@ python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PR
 <span class="doublewidespan" style="padding-left:3em">UD Marathi</span>
 <span class="widespan">mr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-31T15:01:32Z">2017-10-31T15:01:32 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-01T16:20:52Z">2017-11-01T16:20:52 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang mr UD-dev-branches/UD_Marathi/mr-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang mr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Marathi/mr-ud-dev.conllu
 
-[Line                   3]: Unknown UD DEPREL: compound:lvc
-[Line                   10]: Unknown attribute-value pair Case=Obl
-[Line                   10]: Unknown attribute-value pair Distance=Dist
-[Line                   12]: Unknown attribute-value pair Case=Obl
-[Line                   26]: Unknown UD DEPREL: compound:lvc
-[Line                   59]: Unknown attribute-value pair Distance=Prox
-[Line                   64]: Unknown UD DEPREL: compound:lvc
-[Line                   76]: Unknown attribute-value pair Case=Obl
-[Line                   76]: Unknown UD DEPREL: nmod:poss
-[Line                   80]: Unknown UD DEPREL: compound:svc
-[Line                   86]: Unknown attribute-value pair Case=Obl
-[Line                   86]: Unknown UD DEPREL: nmod:poss
-[Line                   93]: Unknown attribute-value pair Distance=Dist
-[Line                   104]: Unknown attribute-value pair Case=Obl
-[Line                   106]: Unknown UD DEPREL: compound:lvc
-[Line                   112]: Unknown UD DEPREL: nmod:poss
-[Line                   113]: Unknown attribute-value pair Case=Obl
-[Line                   128]: Unknown UD DEPREL: nmod:poss
-[Line                   129]: Unknown attribute-value pair Case=Obl
-[Line                   142]: Unknown attribute-value pair Case=Obl
-[Line                   147]: Unknown attribute-value pair Case=Obl
 [Line                   159]: Unknown attribute-value pair Case=Inst
-[Line                   166]: Unknown attribute-value pair Distance=Dist
-[Line                   188]: Unknown attribute-value pair Clusivity=Incl
-[Line                   201]: Unknown attribute-value pair Clusivity=Incl
-[Line                   203]: Unknown attribute-value pair Case=Obl
-[Line                   205]: Unknown UD DEPREL: compound:lvc
-[Line                   209]: Unknown attribute-value pair Distance=Dist
-[Line                   216]: Unknown attribute-value pair Case=Obl
-...suppressing further errors regarding Morpho
-[Line                   223]: Unknown UD DEPREL: nmod:poss
-[Line                   242]: Unknown UD DEPREL: nmod:poss
-[Line                   259]: Unknown UD DEPREL: nmod:poss
-[Line                   269]: Unknown UD DEPREL: nsubj:pass
-[Line                   271]: Unknown UD DEPREL: aux:pass
-[Line                   275]: Unknown UD DEPREL: nsubj:pass
-[Line                   277]: Unknown UD DEPREL: aux:pass
-[Line                   286]: Unknown UD DEPREL: nsubj:pass
-[Line                   287]: Unknown UD DEPREL: compound:lvc
-...suppressing further errors regarding Syntax
-*** FAILED *** with 120 errors
-Morpho errors: 85
-Syntax errors: 35
-The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.mr does not exist.
-The language-specific file /home/ginter/UD_PROJHOOK/tools/data/feat_val.mr does not exist.
-python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PROJHOOK/tools/data/feat_val.mr
+[Line                   543]: Unknown attribute-value pair Case=Inst
+*** FAILED *** with 2 errors
+Morpho errors: 2
 
 
 ******************
 
-python tools/validate.py --lang mr UD-dev-branches/UD_Marathi/mr-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang mr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Marathi/mr-ud-test.conllu
 
-[Line                   3]: Unknown attribute-value pair Distance=Dist
-[Line                   4]: Unknown attribute-value pair InfForm=Dict
-[Line                   6]: Unknown attribute-value pair Distance=Dist
-[Line                   6]: Unknown UD DEPREL: nmod:poss
-[Line                   7]: Unknown attribute-value pair Case=Obl
-[Line                   9]: Unknown attribute-value pair Case=Obl
-[Line                   17]: Unknown attribute-value pair Case=Obl
-[Line                   20]: Unknown attribute-value pair Case=Obl
-[Line                   27]: Unknown attribute-value pair Case=Obl
-[Line                   27]: Unknown UD DEPREL: nmod:poss
-[Line                   38]: Unknown attribute-value pair Distance=Dist
-[Line                   39]: Unknown UD DEPREL: compound:lvc
-[Line                   48]: Unknown attribute-value pair Distance=Dist
-[Line                   50]: Unknown attribute-value pair Case=Obl
-[Line                   50]: Unknown UD DEPREL: nmod:poss
-[Line                   60]: Unknown attribute-value pair Distance=Prox
-[Line                   67]: Unknown attribute-value pair Case=Obl
-[Line                   67]: Unknown attribute-value pair Distance=Prox
-[Line                   69]: Unknown attribute-value pair Case=Obl
-[Line                   69]: Unknown UD DEPREL: nmod:poss
-[Line                   84]: Unknown attribute-value pair Case=Obl
-[Line                   94]: Unknown attribute-value pair Case=Obl
-[Line                   94]: Unknown UD DEPREL: nmod:poss
-[Line                   95]: Unknown attribute-value pair Case=Obl
-[Line                   98]: Unknown UD DEPREL: compound:lvc
-[Line                   106]: Unknown attribute-value pair Distance=Dist
-[Line                   106]: Unknown UD DEPREL: nmod:poss
-...suppressing further errors regarding Morpho
-[Line                   118]: Unknown UD DEPREL: nmod:poss
-[Line                   194]: Unknown UD DEPREL: nmod:poss
-[Line                   230]: Unknown UD DEPREL: nmod:poss
-[Line                   287]: Unknown UD DEPREL: nmod:poss
-[Line                   306]: Unknown UD DEPREL: compound:svc
-[Line                   316]: Unknown UD DEPREL: nmod:poss
-[Line                   338]: Unknown UD DEPREL: nmod:poss
-[Line                   356]: Unknown UD DEPREL: nmod:poss
-[Line                   364]: Unknown UD DEPREL: nmod:poss
-[Line                   381]: Unknown UD DEPREL: nmod:poss
-[Line                   394]: Unknown UD DEPREL: compound:lvc
-...suppressing further errors regarding Syntax
-*** FAILED *** with 103 errors
-Morpho errors: 70
-Syntax errors: 33
-The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.mr does not exist.
-The language-specific file /home/ginter/UD_PROJHOOK/tools/data/feat_val.mr does not exist.
-python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PROJHOOK/tools/data/feat_val.mr
+[Line                   109]: Unknown attribute-value pair Case=Inst
+[Line                   472]: Unknown attribute-value pair Case=Inst
+[Line                   492]: Unknown attribute-value pair Case=Inst
+[Line                   575]: Unknown attribute-value pair VerbForm=Supine
+*** FAILED *** with 4 errors
+Morpho errors: 4
 
 
 ******************
 
-python tools/validate.py --lang mr UD-dev-branches/UD_Marathi/mr-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang mr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Marathi/mr-ud-train.conllu
 
-[Line                   10]: Unknown attribute-value pair Distance=Dist
-[Line                   25]: Unknown attribute-value pair Distance=Dist
-[Line                   26]: Unknown UD DEPREL: compound:lvc
-[Line                   36]: Unknown attribute-value pair Case=Obl
-[Line                   38]: Unknown attribute-value pair Distance=Dist
-[Line                   49]: Unknown attribute-value pair Distance=Prox
-[Line                   51]: Unknown UD DEPREL: compound:svc
-[Line                   71]: Unknown attribute-value pair Distance=Prox
-[Line                   82]: Unknown attribute-value pair Distance=Dist
-[Line                   90]: Unknown attribute-value pair Distance=Dist
-[Line                   94]: Unknown attribute-value pair Distance=Dist
-[Line                   102]: Unknown attribute-value pair Case=Obl
-[Line                   113]: Unknown attribute-value pair Distance=Dist
-[Line                   115]: Unknown attribute-value pair InfForm=Dict
-[Line                   115]: Unknown UD DEPREL: compound:svc
-[Line                   118]: Unknown attribute-value pair Case=Obl
-[Line                   118]: Unknown UD DEPREL: nmod:poss
-[Line                   123]: Unknown attribute-value pair Distance=Dist
-[Line                   126]: Unknown attribute-value pair Case=Obl
-[Line                   131]: Unknown attribute-value pair Distance=Dist
-[Line                   148]: Unknown attribute-value pair Case=Obl
-[Line                   150]: Unknown attribute-value pair Distance=Dist
-[Line                   164]: Unknown attribute-value pair Case=Obl
-[Line                   167]: Unknown UD DEPREL: compound:svc
+[Line                   203]: Unknown attribute-value pair VerbForm=Supine
+[Line                   221]: Unknown attribute-value pair Case=Soc
+[Line                   679]: Unknown attribute-value pair Case=Inst
+[Line                   991]: Unknown attribute-value pair Case=Inst
+[Line                   996]: Unknown attribute-value pair Case=Inst
+[Line                   1070]: Unknown attribute-value pair Case=Inst
+[Line                   1335]: Unknown attribute-value pair VerbForm=Supine
+[Line                   1392]: Unknown attribute-value pair Case=Inst
+[Line                   1394]: Unknown attribute-value pair VerbForm=Supine
+[Line                   2077]: Unknown attribute-value pair VerbForm=Supine
+[Line                   2156]: Unknown attribute-value pair Case=Inst
+[Line                   2394]: Unknown attribute-value pair VerbForm=Supine
+[Line                   2599]: Unknown attribute-value pair Case=Inst
+[Line                   2628]: Unknown attribute-value pair Case=Inst
+[Line                   2974]: Unknown attribute-value pair VerbForm=Supine
+[Line                   3173]: Unknown attribute-value pair Case=Soc
+[Line                   3214]: Unknown attribute-value pair Case=Inst
+[Line                   3392]: Unknown attribute-value pair Case=Soc
+[Line                   3393]: Unknown attribute-value pair VerbForm=Supine
 ...suppressing further errors regarding Morpho
-[Line                   186]: Unknown UD DEPREL: nmod:poss
-[Line                   211]: Unknown UD DEPREL: nmod:poss
-[Line                   235]: Unknown UD DEPREL: nmod:poss
-[Line                   249]: Unknown UD DEPREL: nmod:poss
-[Line                   294]: Unknown UD DEPREL: nmod:poss
-[Line                   318]: Unknown UD DEPREL: compound:lvc
-[Line                   370]: Unknown UD DEPREL: nmod:poss
-[Line                   374]: Unknown UD DEPREL: compound:svc
-[Line                   402]: Unknown UD DEPREL: nmod:poss
-[Line                   428]: Unknown UD DEPREL: nmod:poss
-[Line                   437]: Unknown UD DEPREL: nmod:poss
-[Line                   452]: Unknown UD DEPREL: nmod:poss
-[Line                   552]: Unknown UD DEPREL: nmod:poss
-[Line                   608]: Unknown UD DEPREL: nmod:poss
-...suppressing further errors regarding Syntax
-*** FAILED *** with 705 errors
-Morpho errors: 516
-Syntax errors: 189
-The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.mr does not exist.
-The language-specific file /home/ginter/UD_PROJHOOK/tools/data/feat_val.mr does not exist.
-python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PROJHOOK/tools/data/feat_val.mr
+*** FAILED *** with 23 errors
+Morpho errors: 23
 
 
 ******************
@@ -3999,25 +3786,25 @@ python tools/validate.py --lang tr_pud UD-dev-branches/UD_Turkish-PUD/tr_pud-ud-
 <span class="doublewidespan" style="padding-left:3em">UD Ukrainian</span>
 <span class="widespan">uk</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-31T21:52:29Z">2017-10-31T21:52:29 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-01T16:03:33Z">2017-11-01T16:03:33 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang uk UD-dev-branches/UD_Ukrainian/uk-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang uk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Ukrainian/uk-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang uk UD-dev-branches/UD_Ukrainian/uk-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang uk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Ukrainian/uk-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang uk UD-dev-branches/UD_Ukrainian/uk-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang uk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Ukrainian/uk-ud-train.conllu
 
 *** PASSED ***
 
