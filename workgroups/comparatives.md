@@ -339,3 +339,28 @@ genitive in Russian [ru]:
 5	.	.	PUNCT	_	_	4	punct	_	Translit=.|Gloss=.
 
 ~~~
+
+### Other Coding Strategies
+
+Some languages need a verb to compare degrees of properties, e.g., instead
+of saying _John is taller than Tom,_ they say _John surpasses Tom in height,_
+and instead of _John is as tall as Dan,_ they say _John reaches Dan's
+height._ Such constructions do not differ significantly from normal clauses
+and we do not discuss them further on this page.
+
+A rather unique equative construction exists in Persian [fa] (Mace 2003:52)
+Haspelmath (2017):
+
+“This is as fast as that.” (Lit.
+“This is to the speed of that.”)
+
+~~~ conllu
+1	این	_	PRON	_	PronType=Dem	3	nsubj	_	Translit=in|Gloss=this
+2	به	_	ADP	_	_	3	case	_	Translit=be|Gloss=to
+3	تندی	_	NOUN	_	_	0	root	_	Translit=tondī-ye|Gloss=speed-EZ
+4	آن	_	PRON	_	PronType=Dem	3	nmod	_	Translit=ān|Gloss=that
+5	است	_	AUX	_	_	3	cop	_	Translit=ast|Gloss=is|SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	Translit=.|Gloss=.
+
+~~~
+
