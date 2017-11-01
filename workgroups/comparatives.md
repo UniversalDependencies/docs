@@ -246,3 +246,16 @@ Chinese [zh]: “Zhangsan is fatter than him.”
 5	。	。	PUNCT	_	_	4	punct	_	Translit=.|Gloss=.|SpaceAfter=No
 
 ~~~
+
+Japanese [ja]: “English is easier than Japanese.”
+
+~~~ conllu
+1	日本語	日本語	NOUN	_	_	5	obl	_	Translit=nihongo|Gloss=Japanese|SpaceAfter=No
+2	より	より	ADP	_	_	1	case	_	Translit=yori|Gloss=than|SpaceAfter=No
+3	英語	英語	NOUN	_	_	5	nsubj	_	Translit=eigo|Gloss=English|SpaceAfter=No
+4	の方が	の方が	ADP	_	_	3	case	_	Translit=nohouga|Gloss=direction|SpaceAfter=No
+5	易しい	易しい	ADJ	_	_	0	root	_	Translit=yasashii|Gloss=easy|SpaceAfter=No
+6	。	。	PUNCT	_	_	5	punct	_	Translit=.|Gloss=.|SpaceAfter=No
+
+~~~
+
