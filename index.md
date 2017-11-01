@@ -55,7 +55,7 @@ and [changes from v1 to v2](v2/summary.html).
 {% include at_glance.html %}
 </div>
 
-### Upcoming UD Languages
+## Upcoming UD Languages
 
 <div id="accordion" class="jquery-ui-accordion">
 {% include at_glance_empty.html %}
@@ -65,7 +65,7 @@ and [changes from v1 to v2](v2/summary.html).
 
 <a name="download"></a>
 
-# Download
+## Download
 
 The data is released through LINDAT/CLARIN.
 
