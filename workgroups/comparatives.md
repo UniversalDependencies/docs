@@ -578,11 +578,11 @@ Czech [cs]:
 ~~~
 
 Note that the quantification is not necessarily definite and numerical; for example,
-one could say that \textit{John is significantly more intelligent than Martin.}
+one could say that _John is significantly more intelligent than Martin._
 Like with the standard of comparison, one has to decide where the quantifying phrase
 is attached in periphrastic comparatives. Again, it might be appealing to attach it
 to the degree adverb; elsewhere adverbs do modify other adverbs, as in
-\textit{The prices are dropping very rapidly.}
+_The prices are dropping very rapidly._
 Nevertheless, if the degree adverb modifies an adjective, we attach the quantifying
 adverb or phrase directly to that adjective, for the same reasons as those we listed
 for the standard of comparison:
