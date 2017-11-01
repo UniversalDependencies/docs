@@ -43,7 +43,6 @@ Features are not currently implemented.
 
 Lemmas are not used in this treebank since Mandarin is majorly isolating.
 
-The lemma is the same as the word, except when the word contains a spelling error. See <a href="http://universaldependencies.org/zh/overview/tokenization.html#UD">Tokenization section for UD Chinese-CFL</a> for a definition of a spelling error.
 ### Features
 
 Features are not used in this treebank since Mandarin is majorly isolating.
