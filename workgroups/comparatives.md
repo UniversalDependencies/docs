@@ -407,4 +407,19 @@ consistent with other kinds of degree modification:
 
 ~~~
 
+~~~ conllu
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	put	put	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	in	in	ADP	_	_	2	compound:prt	_	_
+4	as	as	SCONJ	_	_	5	advmod	_	_
+5	much	much	ADV	_	Degree=Pos	6	amod	_	_
+6	flour	flour	NOUN	_	Number=Coll	2	obj	_	_
+7	as	as	SCONJ	_	_	10	mark	_	_
+8	the	the	DET	_	Definite=Def|PronType=Art	9	det	_	_
+9	recipe	recipe	NOUN	_	Number=Sing	10	nsubj	_	_
+10	called	call	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	5	advcl	_	_
+11	for	for	ADP	_	_	10	obl	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+~~~
 
