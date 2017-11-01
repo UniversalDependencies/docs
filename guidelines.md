@@ -1,4 +1,10 @@
-## UD Guidelines
+---
+layout: base
+title:  'Universal Dependencies'
+udver: '2'
+---
+
+# UD Guidelines
 
 * Basic principles
   * [Tokenization and word segmentation](u/overview/tokenization.html)
@@ -20,7 +26,7 @@
   * [Conversion from other tagsets to UD tags and features](tagset-conversion/index.html)
 
 <small>
-This is the online documentation of UD v2 (2016-12-01). For earlier versions,
+This is the online documentation of UD guidelines v2 (2016-12-01). For earlier versions,
 see [archived v1 guidelines](docsv1/index.html)
 and [changes from v1 to v2](v2/summary.html).
 </small>
