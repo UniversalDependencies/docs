@@ -448,3 +448,23 @@ as indicated above. For that reason, we usually make the complement an
 16	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
+
+We take the _as Y_ clause as a dependent of the content word whose degree
+is being assessed (here _often_). We take its head to be the head of the
+clause, here _heard._ An initially plausible alternative analysis would be to
+make the clausal dependent headed by _as_ as a dependent of the comparative
+modifier _as, more,_ or _less,_ and indeed this is the analysis which
+Huddleston and Pullum (2002) argue for in English. However, there are several
+reasons to doubt this analysis. One is the general principles of UD in
+favoring content words as heads. A second argument is motivated by a desire
+for crosslinguistic adequacy: in languages such as Finnish and Japanese, this
+functional element is not present.
+
+Since the first _as_ is a functional element, the dependent can be understood
+to modify the whole phrase _as often,_ and therefore is attached to the head
+of that phrase. Additionally, it might be noted that comparatives without a
+comparative word occur in certain varieties of English. For example in Indian
+English you find usages such as _So don't worry if you think that you have a
+girlfriend, who is intelligent than you._ One further argument is that
+morphological comparatives will receive an analysis parallel to the
+periphrastic ones.
