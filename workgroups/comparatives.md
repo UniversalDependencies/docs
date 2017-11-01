@@ -576,3 +576,33 @@ Czech [cs]:
 9	.	.	PUNCT	_	_	6	punct	_	Gloss=.
 
 ~~~
+
+Note that the quantification is not necessarily definite and numerical; for example,
+one could say that \textit{John is significantly more intelligent than Martin.}
+Like with the standard of comparison, one has to decide where the quantifying phrase
+is attached in periphrastic comparatives. Again, it might be appealing to attach it
+to the degree adverb; elsewhere adverbs do modify other adverbs, as in
+\textit{The prices are dropping very rapidly.}
+Nevertheless, if the degree adverb modifies an adjective, we attach the quantifying
+adverb or phrase directly to that adjective, for the same reasons as those we listed
+for the standard of comparison:
+structures will be parallel between periphrastic and morphological comparative, which
+includes parallelism across languages. Moreover, it would be counterintuitive to
+attach one modifier of the comparative (the standard of comparison) to the adjective
+and the other modifier (the quantifying phrase) to the degree adverb.
+
+Interestingly enough, some quantified inequality comparisons use function words that
+are otherwise used with equality comparisons, as in this English example:
+
+~~~ conllu
+1	John	John	PROPN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+2	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	twice	twice	ADV	_	NumType=Mult	5	advmod	_	_
+4	as	as	SCONJ	_	_	5	advmod	_	_
+5	tall	tall	ADJ	_	Degree=Pos	0	root	_	_
+6	as	as	SCONJ	_	_	7	case	_	_
+7	Peter	Peter	PROPN	_	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+~~~
+
