@@ -299,3 +299,15 @@ _comparative_ [Case](), as in Nepali [ne]:
 
 ~~~
 
+“This is the most beautiful flower of all.”
+
+~~~ conllu
+1	यो	यो	DET	_	PronType=Dem	2	det	_	Translit=yo|Gloss=this
+2	फूल	फूल	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	Translit=phūla|Gloss=flower
+3	सबैभन्दा	सबै	PRON	_	Case=Cmp|PronType=Tot	4	obl	_	Translit=sabaibhandā|Gloss=all-than
+4	राम्रो	राम्रो	ADJ	_	_	0	root	_	Translit=rāmro|Gloss=beautiful
+5	छ	छुनु	AUX	_	_	4	cop	_	Translit=cha|Gloss=is|SpaceAfter=No
+6	।	।	PUNCT	_	_	4	punct	_	Translit=.|Gloss=.
+
+~~~
+
