@@ -325,3 +325,17 @@ Haspelmath (2017):
 
 ~~~
 
+In other languages, the standard of comparison may be marked morphologically
+by a case that is not dedicated specifically to comparison, such as the
+genitive in Russian [ru]:
+
+“My father is older than yours.”
+
+~~~ conllu
+1	Мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	Translit=Moj|Gloss=my
+2	отец	отец	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Translit=otec|Gloss=father
+3	старше	старый	ADJ	_	Degree=Cmp	0	root	_	Translit=starše|Gloss=older
+4	твоего	твой	DET	_	Case=Gen|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	3	obl	_	Translit=tvoego|Gloss=of-yours|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	Translit=.|Gloss=.
+
+~~~
