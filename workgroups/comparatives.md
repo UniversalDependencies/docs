@@ -546,3 +546,13 @@ Finnish [fi]:
 3	luulit	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	1	advcl	_	Gloss=you-thought
 
 ~~~
+
+~~~ conllu
+1	a	a	DET	_	Definite=Ind|PronType=Art	3	det	_	_
+2	smarter	smart	ADJ	_	Degree=Cmp	3	amod	_	_
+3	boy	boy	NOUN	_	Number=Sing	0	root	_	_
+4	than	than	SCONJ	_	_	6	mark	_	_
+5	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	_
+6	thought	think	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	2	advcl	_	_
+
+~~~
