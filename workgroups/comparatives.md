@@ -565,8 +565,8 @@ Czech [cs]:
 “Pavel is taller than Klára by ten centimeters.”
 
 ~~~ conllu
-1	Pavel	Pavel	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Gloss=Pavel
-2	je	být	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	Gloss=is
+1	Pavel	Pavel	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	Gloss=Pavel
+2	je	být	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	Gloss=is
 3	o	o	ADP	_	Case=Acc	5	case	_	Gloss=by
 4	deset	deset	NUM	_	Case=Acc	5	nummod:gov	_	Gloss=ten
 5	centimetrů	centimetr	NOUN	_	Case=Gen	6	obl	_	Gloss=centimeters
