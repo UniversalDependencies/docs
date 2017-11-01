@@ -423,3 +423,28 @@ consistent with other kinds of degree modification:
 
 ~~~
 
+We then take the complement of the comparative (that is, the standard of
+comparison) as an oblique dependent of the first part. It is clear that the
+material in the complement _as Y_ can be clausal. It is also usually optional,
+as indicated above. For that reason, we usually make the complement an
+[advcl](), with the second _as_ analyzed as [mark](). That gives us:
+
+~~~ conllu
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	do	do	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	n't	not	PART	_	Polarity=Neg	4	advmod	_	_
+4	hear	hear	VERB	_	VerbForm=Inf	0	root	_	_
+5	from	from	ADP	_	_	7	case	_	_
+6	my	my	DET	_	Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
+7	brother	brother	NOUN	_	Number=Sing	_	_
+8	as	as	SCONJ	_	_	9	advmod	_	_
+9	often	often	ADV	_	Degree=Pos	4	advmod	_	_
+10	as	as	SCONJ	_	_	13	mark	_	_
+11	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
+12	previously	previously	ADV	_	Degree=Pos	13	advmod	_	_
+13	heard	call	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	9	advcl	_	_
+14	from	from	ADP	_	_	15	case	_	_
+15	him	he	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	obl	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	4	punct	_	_
+
+~~~
