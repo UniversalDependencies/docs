@@ -436,7 +436,7 @@ as indicated above. For that reason, we usually make the complement an
 4	hear	hear	VERB	_	VerbForm=Inf	0	root	_	_
 5	from	from	ADP	_	_	7	case	_	_
 6	my	my	DET	_	Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
-7	brother	brother	NOUN	_	Number=Sing	_	_
+7	brother	brother	NOUN	_	Number=Sing	4	obl	_	_
 8	as	as	SCONJ	_	_	9	advmod	_	_
 9	often	often	ADV	_	Degree=Pos	4	advmod	_	_
 10	as	as	SCONJ	_	_	13	mark	_	_
