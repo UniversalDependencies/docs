@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-01T16:18:08Z">2017-11-01T16:18:08 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-01T16:20:53Z">2017-11-01T16:20:53 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2715,82 +2715,56 @@ Syntax errors: 5
 <span class="doublewidespan" style="padding-left:3em">UD Marathi</span>
 <span class="widespan">mr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-01T16:15:25Z">2017-11-01T16:15:25 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-01T16:20:52Z">2017-11-01T16:20:52 zulu</time></span>
 </div>
 <div>
 <pre>
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang mr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Marathi/mr-ud-dev.conllu
 
 [Line                   159]: Unknown attribute-value pair Case=Inst
-[Line                   270]: Unknown attribute-value pair InfForm=Dict
-[Line                   276]: Unknown attribute-value pair InfForm=Dict
-[Line                   288]: Unknown attribute-value pair InfForm=Dict
-[Line                   336]: Unknown attribute-value pair InfForm=Dict
-[Line                   455]: Unknown attribute-value pair InfForm=Incp
-[Line                   516]: Unknown attribute-value pair InfForm=Dict
-[Line                   531]: Unknown attribute-value pair InfForm=Incp
 [Line                   543]: Unknown attribute-value pair Case=Inst
-[Line                   592]: Unknown attribute-value pair InfForm=Incp
-[Line                   600]: Unknown attribute-value pair InfForm=Incp
-[Line                   614]: Unknown attribute-value pair InfForm=Incp
-*** FAILED *** with 12 errors
-Morpho errors: 12
+*** FAILED *** with 2 errors
+Morpho errors: 2
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang mr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Marathi/mr-ud-test.conllu
 
-[Line                   4]: Unknown attribute-value pair InfForm=Dict
 [Line                   109]: Unknown attribute-value pair Case=Inst
-[Line                   395]: Unknown UD DEPREL: acl:relcl
-[Line                   427]: Unknown UD DEPREL: nsubj:own
-[Line                   442]: Unknown UD DEPREL: acl:relcl
-[Line                   456]: Unknown attribute-value pair InfForm=Dict
 [Line                   472]: Unknown attribute-value pair Case=Inst
-[Line                   483]: Unknown attribute-value pair InfForm=Dict
 [Line                   492]: Unknown attribute-value pair Case=Inst
-[Line                   509]: Unknown attribute-value pair InfForm=Dict
 [Line                   575]: Unknown attribute-value pair VerbForm=Supine
-*** FAILED *** with 11 errors
-Morpho errors: 8
-Syntax errors: 3
+*** FAILED *** with 4 errors
+Morpho errors: 4
 
 
 ******************
 
 python /home/ginter/UD_PROJHOOK/tools/validate.py --lang mr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Marathi/mr-ud-train.conllu
 
-[Line                   115]: Unknown attribute-value pair InfForm=Dict
 [Line                   203]: Unknown attribute-value pair VerbForm=Supine
 [Line                   221]: Unknown attribute-value pair Case=Soc
-[Line                   636]: Unknown UD DEPREL: compound:redup
 [Line                   679]: Unknown attribute-value pair Case=Inst
-[Line                   719]: Unknown UD DEPREL: acl:relcl
-[Line                   768]: Unknown attribute-value pair InfForm=Incp
-[Line                   829]: Unknown attribute-value pair InfForm=Incp
-[Line                   850]: Unknown attribute-value pair InfForm=Incp
-[Line                   881]: Unknown attribute-value pair InfForm=Incp
 [Line                   991]: Unknown attribute-value pair Case=Inst
 [Line                   996]: Unknown attribute-value pair Case=Inst
 [Line                   1070]: Unknown attribute-value pair Case=Inst
-[Line                   1073]: Unknown attribute-value pair InfForm=Dict
-[Line                   1166]: Unknown attribute-value pair InfForm=Dict
 [Line                   1335]: Unknown attribute-value pair VerbForm=Supine
-[Line                   1370]: Unknown attribute-value pair InfForm=Incp
 [Line                   1392]: Unknown attribute-value pair Case=Inst
 [Line                   1394]: Unknown attribute-value pair VerbForm=Supine
-[Line                   1410]: Unknown attribute-value pair InfForm=Incp
-[Line                   1477]: Unknown attribute-value pair InfForm=Dict
+[Line                   2077]: Unknown attribute-value pair VerbForm=Supine
+[Line                   2156]: Unknown attribute-value pair Case=Inst
+[Line                   2394]: Unknown attribute-value pair VerbForm=Supine
+[Line                   2599]: Unknown attribute-value pair Case=Inst
+[Line                   2628]: Unknown attribute-value pair Case=Inst
+[Line                   2974]: Unknown attribute-value pair VerbForm=Supine
+[Line                   3173]: Unknown attribute-value pair Case=Soc
+[Line                   3214]: Unknown attribute-value pair Case=Inst
+[Line                   3392]: Unknown attribute-value pair Case=Soc
+[Line                   3393]: Unknown attribute-value pair VerbForm=Supine
 ...suppressing further errors regarding Morpho
-[Line                   1860]: Unknown UD DEPREL: acl:relcl
-[Line                   2045]: Unknown UD DEPREL: acl:relcl
-[Line                   3409]: Unknown UD DEPREL: nsubj:own
-[Line                   3422]: Unknown UD DEPREL: nsubj:own
-[Line                   3429]: Unknown UD DEPREL: nsubj:own
-*** FAILED *** with 60 errors
-Morpho errors: 53
-Syntax errors: 7
+*** FAILED *** with 23 errors
+Morpho errors: 23
 
 
 ******************
