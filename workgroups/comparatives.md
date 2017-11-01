@@ -468,3 +468,81 @@ English you find usages such as _So don't worry if you think that you have a
 girlfriend, who is intelligent than you._ One further argument is that
 morphological comparatives will receive an analysis parallel to the
 periphrastic ones.
+
+## Inequality Scalar Comparison
+
+More often than not, inequality scalar comparative structures are similar to
+equative structures in the same language. In English periphrastic comparatives,
+_more_ and _less_ are parallel to the first use of _as_ in equality
+comparison, except that _more_ can also directly modify a noun (comparing
+quantity). In such cases the relation of _more_ to the noun is [amod](),
+and the standard of comparison depends directly on _more,_ roughly seeing it
+as elliptical for _more numerous._ In general, the standard of comparison
+always depends on an adjective or adverb, and is usually an [advcl]() or
+[obl]().
+
+~~~ conllu
+1	more	much	ADV	_	Degree=Cmp	2	advmod	_	_
+2	important	important	ADJ	_	Degree=Pos	0	root	_	_
+3	than	than	SCONJ	_	_	5	mark	_	_
+4	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	_
+5	thought	think	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	2	advcl	_	_
+
+~~~
+
+~~~ conllu
+1	more	much	ADV	_	Degree=Cmp	2	advmod	_	_
+2	rapidly	rapidly	ADV	_	Degree=Pos	0	root	_	_
+3	than	than	SCONJ	_	_	5	mark	_	_
+4	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	_
+5	thought	think	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	2	advcl	_	_
+
+~~~
+
+~~~ conllu
+1	more	much	ADV	_	Degree=Cmp	2	amod	_	_
+2	problems	problem	NOUN	_	Number=Plur	0	root	_	_
+3	than	than	SCONJ	_	_	5	mark	_	_
+4	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	_
+5	thought	think	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	1	advcl	_	_
+6	of	of	ADP	_	_	5	obl	_	_
+7	last	last	ADJ	_	Degree=Pos	8	amod	_	_
+8	week	week	NOUN	_	Number=Sing	5	obl	_	_
+
+~~~
+
+~~~ conllu
+1	a	a	DET	_	Definite=Ind|PronType=Art	4	det	_	_
+2	more	much	ADV	_	Degree=Cmp	3	advmod	_	_
+3	difficult	difficult	ADJ	_	Degree=Pos	4	amod	_	_
+4	problem	problem	NOUN	_	Number=Sing	0	root	_	_
+5	than	than	SCONJ	_	_	7	mark	_	_
+6	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	_
+7	thought	think	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	3	advcl	_	_
+
+~~~
+
+In addition to crosslinguistic adequacy, we can see here another possible
+advantage of not attaching the _than_ clause to _more:_ This analysis then
+means that the dependency structure is more parallel between cases with a
+periphrastic comparative like _more intelligent_ and a morphological
+comparative like _smarter._
+
+~~~ conllu
+1	smarter	smart	ADJ	_	Degree=Cmp	0	root	_	_
+2	than	than	SCONJ	_	_	4	mark	_	_
+3	you	you	PRON	_	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	_
+4	thought	think	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	1	advcl	_	_
+
+~~~
+
+Finnish [fi]:
+
+“smarter than you thought”
+
+~~~ conllu
+1	fiksumpi	_	ADJ	_	Degree=Cmp	0	root	_	Gloss=smarter
+2	kuin	_	SCONJ	_	_	3	mark	_	Gloss=than
+3	luulit	_	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	1	advcl	_	Gloss=you-thought
+
+~~~
