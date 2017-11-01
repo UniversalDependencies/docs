@@ -213,3 +213,36 @@ periphrastic even in Czech:
 7	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
 ~~~
+
+Other languages, e.g. Spanish, lack the morphological degree almost entirely;
+except for a few irregular forms, such as _mejor_ “better” and _mayor_
+“bigger”, all adjectives are compared periphrastically:
+
+~~~ conllu
+1	Miguel	Miguel	PROPN	_	Gender=Masc|Number=Sing	4	nsubj	_	Gloss=Miguel
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Gloss=is
+3	más	mucho	ADV	_	Degree=Cmp	4	advmod	_	Gloss=more
+4	inteligente	inteligente	ADJ	_	_	0	root	_	Gloss=intelligent
+5	que	que	SCONJ	_	_	6	case	_	Gloss=than
+6	Martín	Martín	PROPN	_	Gender=Masc|Number=Sing	4	obl	_	Gloss=Martín|SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+~~~
+
+### Unmarked Degree
+
+Finally, there are languages where the compared adjective is neither marked
+morphologically, nor modified by a degree adverb. The base form of the
+adjective is used and the fact that it is being compared must be derived from
+the coding of the other participants, e.g., the standard of comparison.
+
+Chinese [zh]: “Zhangsan is fatter than him.”
+
+~~~ conllu
+1	张三	张三	PROPN	_	_	4	nsubj	_	Translit=zhāngsān|Gloss=Zhangsan|SpaceAfter=No
+2	比	比	ADP	_	_	3	case	_	Translit=bǐ|Gloss=than|SpaceAfter=No
+3	他	他	PRON	_	_	4	obl	_	Translit=tā|Gloss=he|SpaceAfter=No
+4	胖	胖	ADJ	_	_	0	root	_	Translit=pàng|Gloss=fat|SpaceAfter=No
+5	。	。	PUNCT	_	_	4	punct	_	Translit=.|Gloss=.|SpaceAfter=No
+
+~~~
