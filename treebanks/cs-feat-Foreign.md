@@ -81,7 +81,7 @@ The most frequent other feature values with which `ADP` and `Foreign` co-occurre
 
 119 <tt><a href="cs-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `VERB` and `Foreign` co-occurred: <tt><a href="cs-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (119; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (113; 95%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (112; 94%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (65; 55%), <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (62; 52%), <tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (62; 52%), <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (60; 50%).
+The most frequent other feature values with which `VERB` and `Foreign` co-occurred: <tt><a href="cs-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (119; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (113; 95%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (112; 94%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (65; 55%), <tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (62; 52%), <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (62; 52%), <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (60; 50%).
 
 `VERB` tokens may have the following values of `Foreign`:
 
@@ -116,7 +116,7 @@ The most frequent other feature values with which `ADV` and `Foreign` co-occurre
 
 62 <tt><a href="cs-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `PRON` and `Foreign` co-occurred: <tt><a href="cs-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (62; 100%), <tt><a href="cs-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (61; 98%), <tt><a href="cs-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (61; 98%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (45; 73%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (42; 68%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (32; 52%).
+The most frequent other feature values with which `PRON` and `Foreign` co-occurred: <tt><a href="cs-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (62; 100%), <tt><a href="cs-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (61; 98%), <tt><a href="cs-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (61; 98%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (45; 73%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (42; 68%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (32; 52%).
 
 `PRON` tokens may have the following values of `Foreign`:
 
@@ -129,7 +129,7 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 
 29 <tt><a href="cs-pos-NUM.html">NUM</a></tt> tokens (0% of all `NUM` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `NUM` and `Foreign` co-occurred: <tt><a href="cs-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (29; 100%), <tt><a href="cs-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (29; 100%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (26; 90%), <tt><a href="cs-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (24; 83%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt> (22; 76%).
+The most frequent other feature values with which `NUM` and `Foreign` co-occurred: <tt><a href="cs-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (29; 100%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (29; 100%), <tt><a href="cs-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (29; 100%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (26; 90%), <tt><a href="cs-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (24; 83%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt> (22; 76%).
 
 `NUM` tokens may have the following values of `Foreign`:
 
@@ -142,7 +142,7 @@ The most frequent other feature values with which `NUM` and `Foreign` co-occurre
 
 18 <tt><a href="cs-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `DET` and `Foreign` co-occurred: <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (17; 94%), <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (14; 78%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (13; 72%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13; 72%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12; 67%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (10; 56%).
+The most frequent other feature values with which `DET` and `Foreign` co-occurred: <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (17; 94%), <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (14; 78%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (13; 72%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (13; 72%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12; 67%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (10; 56%).
 
 `DET` tokens may have the following values of `Foreign`:
 

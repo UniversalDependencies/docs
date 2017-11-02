@@ -229,7 +229,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 
 1152 <tt><a href="cs-pos-DET.html">DET</a></tt> tokens (2% of all `DET` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `DET` and `Polarity` co-occurred: <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1152; 100%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (1152; 100%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1152; 100%), <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1152; 100%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1137; 99%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (764; 66%).
+The most frequent other feature values with which `DET` and `Polarity` co-occurred: <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (1152; 100%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Tot</tt> (1152; 100%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1152; 100%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1152; 100%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1137; 99%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (764; 66%).
 
 `DET` tokens may have the following values of `Polarity`:
 

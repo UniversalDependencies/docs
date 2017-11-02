@@ -125,7 +125,7 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 50959 <tt><a href="cs-pos-DET.html">DET</a></tt> tokens (90% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (46991; 92%), <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (46991; 92%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (43973; 86%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (42091; 83%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (35791; 70%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (46991; 92%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (46991; 92%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (43973; 86%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (42091; 83%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (35791; 70%).
 
 `DET` tokens may have the following values of `Case`:
 

@@ -192,7 +192,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 44826 <tt><a href="cs-pos-DET.html">DET</a></tt> tokens (79% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (41360; 92%), <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (41360; 92%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (37839; 84%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (37267; 83%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (36207; 81%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (41360; 92%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (41360; 92%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (37839; 84%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (37267; 83%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (36207; 81%).
 
 `DET` tokens may have the following values of `Gender`:
 
@@ -275,7 +275,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 6779 <tt><a href="cs-pos-AUX.html">AUX</a></tt> tokens (16% of all `AUX` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6779; 100%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6779; 100%), <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (6779; 100%), <tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (6775; 100%), <tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (6775; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6107; 90%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3918; 58%).
+The most frequent other feature values with which `AUX` and `Gender` co-occurred: <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6779; 100%), <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (6779; 100%), <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (6779; 100%), <tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (6775; 100%), <tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (6775; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (6107; 90%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3918; 58%).
 
 `AUX` tokens may have the following values of `Gender`:
 
@@ -302,7 +302,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 4759 <tt><a href="cs-pos-NUM.html">NUM</a></tt> tokens (11% of all `NUM` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="cs-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (4417; 93%), <tt><a href="cs-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (4417; 93%), <tt><a href="cs-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (4417; 93%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2795; 59%).
+The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="cs-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (4417; 93%), <tt><a href="cs-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (4417; 93%), <tt><a href="cs-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (4417; 93%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2795; 59%).
 
 `NUM` tokens may have the following values of `Gender`:
 

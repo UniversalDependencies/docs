@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="cs-pos-PRON.html">P
 
 27181 <tt><a href="cs-pos-PRON.html">PRON</a></tt> tokens (61% of all `PRON` tokens) have a non-empty value of `Variant`.
 
-The most frequent other feature values with which `PRON` and `Variant` co-occurred: <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (27181; 100%), <tt><a href="cs-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (27181; 100%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (25948; 95%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (25163; 93%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (25163; 93%), <tt><a href="cs-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (25163; 93%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Acc</tt> (22246; 82%).
+The most frequent other feature values with which `PRON` and `Variant` co-occurred: <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (27181; 100%), <tt><a href="cs-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (27181; 100%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (25948; 95%), <tt><a href="cs-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt> (25163; 93%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (25163; 93%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (25163; 93%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Acc</tt> (22246; 82%).
 
 `PRON` tokens may have the following values of `Variant`:
 

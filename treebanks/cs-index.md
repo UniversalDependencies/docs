@@ -39,13 +39,13 @@ Do not submit pull requests against the UD repository.
 | Features | annotated manually in non-UD style, automatically converted to UD |
 | Relations | annotated manually in non-UD style, automatically converted to UD |
 
-## Summary
+## Description
 
 The Czech UD treebank is based on the Prague Dependency Treebank 3.0 (PDT),
 created at the Charles University in Prague.
 
 
-## Introduction
+
 
 The Czech-PDT UD treebank consists of 87,913
 sentences (1.5 M tokens) and its domain is mainly newswire, reaching also to
