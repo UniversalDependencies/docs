@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-02T17:00:23Z">2017-11-02T17:00:23 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-02T17:02:24Z">2017-11-02T17:02:24 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1729,7 +1729,7 @@ python tools/validate.py --lang fr_pud UD-dev-branches/UD_French-PUD/fr_pud-ud-t
 <span class="doublewidespan" style="padding-left:3em">UD French-ParTUT</span>
 <span class="widespan">fr partut</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-02T17:00:21Z">2017-11-02T17:00:21 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-02T17:02:22Z">2017-11-02T17:02:22 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1737,9 +1737,8 @@ python tools/validate.py --lang fr_partut UD-dev-branches/UD_French-ParTUT/fr_pa
 
 [Tree number 62 on line 1716]: HEAD == ID for 4
 [Tree number 62 on line 1716]: Non-tree structure. Words 3,4 are not reachable from the root 0.
-[Line                   3817]: Only the unix-style LF line terminator is allowed
-*** FAILED *** with 3 errors
-Format errors: 2
+*** FAILED *** with 2 errors
+Format errors: 1
 Syntax errors: 1
 
 
@@ -1747,18 +1746,14 @@ Syntax errors: 1
 
 python tools/validate.py --lang fr_partut UD-dev-branches/UD_French-ParTUT/fr_partut-ud-test.conllu
 
-[Line                   1418]: Only the unix-style LF line terminator is allowed
-*** FAILED *** with 1 errors
-Format errors: 1
+*** PASSED ***
 
 
 ******************
 
 python tools/validate.py --lang fr_partut UD-dev-branches/UD_French-ParTUT/fr_partut-ud-train.conllu
 
-[Line                   27358]: Only the unix-style LF line terminator is allowed
-*** FAILED *** with 1 errors
-Format errors: 1
+*** PASSED ***
 
 
 ******************
