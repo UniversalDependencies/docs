@@ -301,7 +301,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 11649 <tt><a href="cs-pos-NUM.html">NUM</a></tt> tokens (28% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="cs-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (11307; 97%), <tt><a href="cs-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (11307; 97%), <tt><a href="cs-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (8050; 69%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6890; 59%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="cs-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (11307; 97%), <tt><a href="cs-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (11307; 97%), <tt><a href="cs-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (8050; 69%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6890; 59%).
 
 `NUM` tokens may have the following values of `Number`:
 

@@ -100,7 +100,7 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
 
 12708 <tt><a href="cs-pos-VERB.html">VERB</a></tt> tokens (9% of all `VERB` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (12708; 100%), <tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (12708; 100%), <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (12708; 100%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12708; 100%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt> (12708; 100%), <tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (12708; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (11594; 91%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (8400; 66%).
+The most frequent other feature values with which `VERB` and `Animacy` co-occurred: <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt> (12708; 100%), <tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (12708; 100%), <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (12708; 100%), <tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (12708; 100%), <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (12708; 100%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (12708; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (11594; 91%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (8400; 66%).
 
 `VERB` tokens may have the following values of `Animacy`:
 
@@ -120,7 +120,7 @@ The most frequent other feature values with which `VERB` and `Animacy` co-occurr
 
 6987 <tt><a href="cs-pos-DET.html">DET</a></tt> tokens (12% of all `DET` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (6987; 100%), <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (6602; 94%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6602; 94%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (6020; 86%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4024; 58%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt> (3980; 57%).
+The most frequent other feature values with which `DET` and `Animacy` co-occurred: <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (6987; 100%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6602; 94%), <tt><a href="cs-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (6602; 94%), <tt><a href="cs-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (6020; 86%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4024; 58%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt> (3980; 57%).
 
 `DET` tokens may have the following values of `Animacy`:
 
@@ -158,7 +158,7 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 
 1282 <tt><a href="cs-pos-AUX.html">AUX</a></tt> tokens (3% of all `AUX` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1282; 100%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1282; 100%), <tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1282; 100%), <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1282; 100%), <tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1282; 100%), <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1282; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1151; 90%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt> (878; 68%).
+The most frequent other feature values with which `AUX` and `Animacy` co-occurred: <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (1282; 100%), <tt><a href="cs-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1282; 100%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt> (1282; 100%), <tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (1282; 100%), <tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1282; 100%), <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1282; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1151; 90%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt> (878; 68%).
 
 `AUX` tokens may have the following values of `Animacy`:
 
@@ -178,7 +178,7 @@ The most frequent other feature values with which `AUX` and `Animacy` co-occurre
 
 303 <tt><a href="cs-pos-NUM.html">NUM</a></tt> tokens (1% of all `NUM` tokens) have a non-empty value of `Animacy`.
 
-The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="cs-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (303; 100%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (303; 100%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (303; 100%), <tt><a href="cs-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (303; 100%), <tt><a href="cs-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (303; 100%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Acc</tt> (303; 100%).
+The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (303; 100%), <tt><a href="cs-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (303; 100%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (303; 100%), <tt><a href="cs-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (303; 100%), <tt><a href="cs-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (303; 100%), <tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Acc</tt> (303; 100%).
 
 `NUM` tokens may have the following values of `Animacy`:
 

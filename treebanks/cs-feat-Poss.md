@@ -31,7 +31,7 @@ The most frequent other feature values with which `DET` and `Poss` co-occurred: 
 
 2707 <tt><a href="cs-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="cs-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (2707; 100%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2707; 100%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2189; 81%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1602; 59%).
+The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2707; 100%), <tt><a href="cs-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (2707; 100%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2189; 81%), <tt><a href="cs-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (1602; 59%).
 
 `ADJ` tokens may have the following values of `Poss`:
 

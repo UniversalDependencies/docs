@@ -18,7 +18,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="cs-pos-VERB.html">V
 
 60733 <tt><a href="cs-pos-VERB.html">VERB</a></tt> tokens (45% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (60731; 100%), <tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (60731; 100%), <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (59847; 99%), <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (59845; 99%), <tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (59246; 98%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (53110; 87%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (41711; 69%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (60731; 100%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (60731; 100%), <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (59847; 99%), <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (59845; 99%), <tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (59246; 98%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (53110; 87%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (41711; 69%).
 
 `VERB` tokens may have the following values of `Person`:
 
@@ -41,7 +41,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 27307 <tt><a href="cs-pos-AUX.html">AUX</a></tt> tokens (66% of all `AUX` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (27307; 100%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (27307; 100%), <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (23770; 87%), <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (23770; 87%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (21488; 79%), <tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (19264; 71%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17772; 65%).
+The most frequent other feature values with which `AUX` and `Person` co-occurred: <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (27307; 100%), <tt><a href="cs-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (27307; 100%), <tt><a href="cs-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (23770; 87%), <tt><a href="cs-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (23770; 87%), <tt><a href="cs-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (21488; 79%), <tt><a href="cs-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (19264; 71%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (17772; 65%).
 
 `AUX` tokens may have the following values of `Person`:
 
@@ -78,7 +78,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 11130 <tt><a href="cs-pos-PRON.html">PRON</a></tt> tokens (25% of all `PRON` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="cs-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (11130; 100%), <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (11130; 100%), <tt><a href="cs-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (9112; 82%), <tt><a href="cs-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (8406; 76%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6628; 60%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5766; 52%).
+The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="cs-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (11130; 100%), <tt><a href="cs-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (11130; 100%), <tt><a href="cs-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (9112; 82%), <tt><a href="cs-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (8406; 76%), <tt><a href="cs-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6628; 60%), <tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5766; 52%).
 
 `PRON` tokens may have the following values of `Person`:
 
@@ -109,7 +109,7 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="cs-dep-appos.html">appos</a></tt>]--> VERB</tt> (72; 64%),
 <tt>PRON --[<tt><a href="cs-dep-appos.html">appos</a></tt>]--> PRON</tt> (3; 75%),
 <tt>PRON --[<tt><a href="cs-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (2; 67%),
-<tt>PRON --[<tt><a href="cs-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1; 100%),
+<tt>PRON --[<tt><a href="cs-dep-dep.html">dep</a></tt>]--> VERB</tt> (1; 100%),
 <tt>PRON --[<tt><a href="cs-dep-acl.html">acl</a></tt>]--> PRON</tt> (1; 100%),
-<tt>PRON --[<tt><a href="cs-dep-dep.html">dep</a></tt>]--> VERB</tt> (1; 100%).
+<tt>PRON --[<tt><a href="cs-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1; 100%).
 

@@ -39,8 +39,15 @@ Do not submit pull requests against the UD repository.
 | Features | annotated manually in non-UD style, automatically converted to UD |
 | Relations | annotated manually in non-UD style, automatically converted to UD |
 
+## Summary
+
 The Czech UD treebank is based on the Prague Dependency Treebank 3.0 (PDT),
-created at the Charles University in Prague. The treebank consists of 87,913
+created at the Charles University in Prague.
+
+
+## Introduction
+
+The Czech-PDT UD treebank consists of 87,913
 sentences (1.5 M tokens) and its domain is mainly newswire, reaching also to
 business and popular scientific articles from the 1990s. The treebank is
 licensed under the terms of CC BY-NC-SA 3.0 and its original (non-UD) version
@@ -50,27 +57,10 @@ http://hdl.handle.net/11858/00-097C-0000-0023-1AAF-3.
 
 The morphological and syntactic annotation of the Czech UD treebank is created
 through a conversion of PDT data. The conversion procedure has been designed by
-Dan Zeman.
-
-NOTE: Earlier releases of the treebank had four training data files. This was
-due to Github restrictions on file size. We have now re-joined the training
-files in the official release package (beginning with UD v1.3), so there is
-just one training file as in all other languages, and it is named
-cs-ud-train.conllu. The four files in previous releases corresponded to the
-four sources of the original texts; the sources may still be distinguished,
-if desirable, by the prefixes of sentence ids. All of them are newspapers, but
-
-* l (ln) and m (mf) are mainstream daily papers (news, commentaries, but also
-  sports results and TV programs)
-* c (cmpr) is a business weekly
-* v (vesm) contains popular scientific articles (the hardest to parse: long
-  sentences and unusual vocabulary)
-
-The dev and test sets contain all four sources and their size is proportional
-to the sizes of the respective training parts.
+Dan Zeman and implemented in Treex.
 
 
-Acknowledgments
+## Acknowledgments
 
 We wish to thank all of the contributors to the original PDT annotation effort,
 including Eduard Bejček, Eva Hajičová, Jan Hajič, Pavlína Jínová,
@@ -78,17 +68,22 @@ Václava Kettnerová, Veronika Kolářová, Marie Mikulová, Jiří Mírovský,
 Anna Nedoluzhko, Jarmila Panevová, Lucie Poláková, Magda Ševčíková,
 Jan Štěpánek, and Šárka Zikánová.
 
-
-References
+## References
 
 * Eduard Bejček, Eva Hajičová, Jan Hajič, Pavlína Jínová, Václava Kettnerová,
-  Veronika Kolářová, Marie Mikulová, Jiří Mírovský, Anna Nedoluzhko,
-  Jarmila Panevová, Lucie Poláková, Magda Ševčíková, Jan Štěpánek,
-  and Šárka Zikánová. 2013. Prague Dependency Treebank 3.0,
-  LINDAT/CLARIN digital library at Institute of Formal and Applied Linguistics,
-  Charles University in Prague,
-  http://hdl.handle.net/11858/00-097C-0000-0023-1AAF-3.
+Veronika Kolářová, Marie Mikulová, Jiří Mírovský, Anna Nedoluzhko,
+Jarmila Panevová, Lucie Poláková, Magda Ševčíková, Jan Štěpánek,
+and Šárka Zikánová. 2013. Prague Dependency Treebank 3.0,
+LINDAT/CLARIN digital library at Institute of Formal and Applied Linguistics,
+Charles University in Prague,
+http://hdl.handle.net/11858/00-097C-0000-0023-1AAF-3.
 
+* Eduard Bejček, Jarmila Panevová, Jan Popelka, Pavel Straňák, Magda Ševčíková,
+Jan Štěpánek, and Zdeněk Žabokrtský. 2012. Prague Dependency Treebank 2.5 –
+a revisited version of PDT 2.0.
+In: Proceedings of the 24th International Conference on Computational
+Linguistics (Coling 2012), Mumbai, India, pp. 231-246.
+http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
 
 
 # Statistics of UD Czech
@@ -111,16 +106,38 @@ References
 <li>This corpus contains 87913 sentences, 1503732 tokens and 1506484 syntactic words.</li>
 <li>This corpus contains 216384 tokens (14%) that are not followed by a space.</li>
 <li>This corpus does not contain words with spaces.</li>
-<li>This corpus contains 4 types of words that contain both letters and punctuation: Preud'homma, Preud'homme, Ze'ev, nemusej'</li>
+<li>This corpus contains 4 types of words that contain both letters and punctuation. Examples: Preud'homma, Preud'homme, Ze'ev, nemusej'</li>
 <li>This corpus contains 2752 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 10 types of multi-word tokens: Kdybys, Neníť, aby, abych, abychom, abyste, kdyby, kdybych, kdybychom, kdybyste.</li>
+<li>There are 10 types of multi-word tokens. Examples: aby, kdyby, abychom, abych, kdybychom, kdybych, abyste, kdybyste, Kdybys, Neníť.</li>
 </ul>
 
 <h2>Morphology</h2>
 
+<h3>Tags</h3>
+
 <ul>
 <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus contains 82 word types tagged as particles (PART): Achtung, Bah, Bienvenue, CA, Což, Cožpak, Dobrá, L, Mnohem, Naneštěstí, Nejenomže, Nu, On, Please, Sic, So, Vot, Zaplaťpánbůh, ahoj, al, ano, anti, arciť, asi, at, ať, až, ba, bene, bohužel, by, bůhsuď, bůhví, ciao, co, copak, džambo, el, gala, hele, hop, ja, jen, jenom, jo, ka, kdoví, kéž, leda, li, n, natož, ne, nechť, nejen, netto, neřkuli, než, nie, no, non, not, nuže, off, oui, ovšem, ovšemže, pozor, právěže, prý, s, sbohem, sorry, t, takříkajíc, to, tož, viva, viďte, we, zaplaťpánbu, žel</li>
+</ul>
+
+<ul>
+<li>This corpus contains 56 lemmas tagged as pronouns (PRON): Everything, I, all, bůhvíco, co, cokoliv, copak, cosi, což, gdo, he, it, ja, jenž, já, kdeco, kdekdo, kdo, kdokoliv, kdopak, kdosi, lecco, leccos, leckdo, ledacos, ledasco, man, máloco, málokdo, nic, nihil, nikdo, nothing, něco, někdo, on, ourselves, pranic, q, sa, samý, se, some, sotvakdo, takýs, ty, veškerý, von, vy, všecek, všechno, was, we, who, you, čo</li>
+</ul>
+
+<ul>
+<li>This corpus contains 70 lemmas tagged as determiners (DET): Notre, Your, bůhvíjaký, c, ce, cui, hodně, jaký, jakýkoliv, jakýpak, jakýs, jakýsi, jeho, jenž, každý, kdejaký, kdovíjaký, kolik, který, kterýkoliv, kterýžto, ktorý, lecjaký, leckterý, ledajaký, mio, mnoho, moc, my, málo, málokterý, míň, móóc, můj, nejeden, nemnoho, nemálo, nespočet, nějaký, několik, několikátý, některý, něčí, onen, přemnoho, some, suus, svůj, sám, takový, takovýhle, takovýto, taký, takýs, ten, tenhle, tenhleten, tento, tentýž, that, this, tolik, toť, tvůj, týž, více, všechen, všelijaký, čí, žádný</li>
+</ul>
+
+<ul>
+<li>Out of the above, 3 lemmas occurred sometimes as PRON and sometimes as DET: jenž, some, takýs</li>
+</ul>
+
+<ul>
+<li>This corpus contains 6 lemmas tagged as auxiliaries (AUX): být, bývat, bývávat, moci, mít, stát</li>
+</ul>
+
+<ul>
+<li>Out of the above, 6 lemmas occurred sometimes as AUX and sometimes as VERB: být, bývat, bývávat, moci, mít, stát</li>
 </ul>
 
 <ul>
@@ -1171,9 +1188,9 @@ References
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 6 lemmas as copulas (<a>cop</a>): být, bývat, bývávat, moci, mít, stát.</li>
-<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>): být, bývat.</li>
-<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>): být, bývat.</li>
+<li>This corpus uses 6 lemmas as copulas (<a>cop</a>). Examples: být, bývat, bývávat, stát, moci, mít.</li>
+<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: být, bývat.</li>
+<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být, bývat.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -1316,6 +1333,24 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--PRON-Ins (3)</li>
     </ul>
   </li>
+</ul>
+
+<h3>Reflexive Verbs</h3>
+
+<ul>
+  <li>This corpus contains 1534 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: stát se, podařit se, snažit se, zdát se, dostat se, zabývat se, objevit se, rozhodnout se, vrátit se, domnívat se, týkat se, myslit si, podílet se, pohybovat se, zúčastnit se, pokusit se, dohodnout se, stávat se, jednat se, vracet se, konat se, ptát se, sejít se, změnit se, věnovat se, zvýšit se, setkat se, uvědomit si, dozvědět se, lišit se, objevovat se, pokoušet se, dařit se, účastnit se, bát se, obávat se, představit si, přát si, vyjádřit se, cítit se, projevit se, zeptat se, dopustit se, ukázat se, dít se, narodit se, obrátit se, týkající se, chovat se, líbit se</li>
+</ul>
+
+<h3>Reflexive Passive</h3>
+
+<ul>
+  <li>This corpus contains 951 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: dát se, mít se, uskutečnit se, hrát se, moci se, muset se, počítat se, předpokládat se, uvádět se, očekávat se, mluvit se, prodávat se, říkat se, začít se, konat se, zvýšit se, hovořit se, platit se, najít se, změnit se, používat se, psát se, nabízet se, prodat se, jednat se, připravovat se, dostat se, rozhodnout se, ukázat se, dostávat se, měnit se, vědět se, obchodovat se, snížit se, uvažovat se, diskutovat se, potvrdit se, odhadovat se, hledat se, provádět se, snižovat se, vést se, dělat se, chystat se, vrátit se, vytvořit se, čekat se, dělit se, považovat se, ukazovat se</li>
+</ul>
+
+<h3>Verbs with Reflexive Core Objects</h3>
+
+<ul>
+  <li>This corpus contains 659 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: představit se, seznámit se, koupit si, říci si, prosadit se, přečíst si, nechat se, klást si, dát si, připomenout si, připsat si, spojit se, nechat si, položit si, střídat se, říkat si, zajistit si, ponechat si, poradit si, prezentovat se, vysvětlovat si, připravit se, učit se, znát se, bránit se, protnout se, považovat se, představovat se, vysvětlit si, dostat se, připomínat si, připravovat se, uživit se, vystřídat se, zařadit se, dovolit si, kupovat si, pomáhat si, přihlásit se, přizpůsobit se, stanovit si, zapsat se, živit se, orientovat se, pomoci si, ponechávat si, prosazovat se, skrývat se, udržet se, ujasnit si</li>
 </ul>
 
 <h3>Relations Overview</h3>
