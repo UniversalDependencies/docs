@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-02T16:55:14Z">2017-11-02T16:55:14 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-02T16:58:19Z">2017-11-02T16:58:19 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1323,28 +1323,34 @@ python tools/validate.py --lang en_pud UD-dev-branches/UD_English-PUD/en_pud-ud-
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD English-ParTUT</span>
 <span class="widespan">en partut</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-21T22:13:42Z">2017-10-21T22:13:42 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-02T16:58:16Z">2017-11-02T16:58:16 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang en_partut UD-dev-branches/UD_English-ParTUT/en_partut-ud-dev.conllu
 
-*** PASSED ***
+[Line                   5292]: Only the unix-style LF line terminator is allowed
+*** FAILED *** with 1 errors
+Format errors: 1
 
 
 ******************
 
 python tools/validate.py --lang en_partut UD-dev-branches/UD_English-ParTUT/en_partut-ud-test.conllu
 
-*** PASSED ***
+[Line                   1727]: Only the unix-style LF line terminator is allowed
+*** FAILED *** with 1 errors
+Format errors: 1
 
 
 ******************
 
 python tools/validate.py --lang en_partut UD-dev-branches/UD_English-ParTUT/en_partut-ud-train.conllu
 
-*** PASSED ***
+[Line                   48931]: Only the unix-style LF line terminator is allowed
+*** FAILED *** with 1 errors
+Format errors: 1
 
 
 ******************
