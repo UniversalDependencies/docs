@@ -850,3 +850,14 @@ Greek [el] periphrastic comparative: “Water is considered more important than 
 
 ~~~
 
+Greek [el] clausal standard of comparison: “He contributes more than he receives.”
+
+~~~ conllu
+1	εισφέρει	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=eisferei|Gloss=he-contributes
+2	περισσότερα	_	ADV	_	Degree=Cmp	1	obj	_	Translit=perissotera|Gloss=more
+3	από	_	ADP	_	_	5	mark	_	Translit=apo|Gloss=from
+4	όσα	_	PRON	_	PronType=Rel	5	obj	_	Translit=osa|Gloss=how-much
+5	εισπράττει	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	Translit=eisprattei|Gloss=he-receives
+
+~~~
+
