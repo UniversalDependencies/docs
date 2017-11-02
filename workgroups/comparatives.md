@@ -883,3 +883,15 @@ Russian [ru]: “Misha is smarter than his brother.”
 
 ~~~
 
+Russian [ru]: “Misha is the smartest of them all.”
+
+~~~ conllu
+1	Миша	Миша	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Translit=Miša|Gloss=Misha
+2	самый	самый	ADJ	_	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	3	amod	_	Translit=samyj|Gloss=most
+3	умный	умный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	Translit=umnyj|Gloss=smart
+4	из	из	ADP	_	_	5	case	_	Translit=iz|Gloss=from
+5	всех	все	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Tot	3	obl	_	Translit=vsex|Gloss=all|SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	Translit=.|Gloss=.
+
+~~~
+
