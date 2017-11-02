@@ -836,3 +836,17 @@ Greek [el] morphological comparative: “Water is considered more important than
 
 ~~~
 
+Greek [el] periphrastic comparative: “Water is considered more important than oil.”
+
+~~~ conllu
+1	το	_	DET	_	Definite=Def|PronType=Art	2	det	_	Translit=to|Gloss=the
+2	νερό	_	NOUN	_	Case=Nom	3	nsubj	_	Translit=nero|Gloss=water
+3	θεωρείται	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Translit=theôreitai|Gloss=is-considered
+4	πιο	_	ADV	_	Degree=Cmp	5	advmod	_	Translit=pio|Gloss=more
+5	σημαντικό	_	ADJ	_	Degree=Pos	3	xcomp	_	Translit=sîmantiko|Gloss=important
+6	από	_	ADP	_	_	8	case	_	Translit=apo|Gloss=from
+7	το	_	DET	_	Definite=Def|PronType=Art	8	det	_	Translit=to|Gloss=the
+8	πετρέλαιο	_	NOUN	_	_	5	obl	_	Translit=petrelaio|Gloss=oil
+
+~~~
+
