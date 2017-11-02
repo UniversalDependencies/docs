@@ -54,7 +54,7 @@ the contents of the file is also displayed by Github when readers land on the Gi
 At the same time, certain pre-defined parts of the `README` file are automatically copied to the UD website to places
 where individual treebanks are described. In these cases, the contents is interpreted as MarkDown and you can use the
 [MarkDown syntax](https://guides.github.com/features/mastering-markdown/)
-to add a little formatting (but please remember that some users will read directly the `README` file, so it should remain
+to add a little formatting (but please remember that some users will read directly the `README` file, so it should stay
 reasonably human-readable).
 The last part of the `README` file contains machine-readable metadata (described below) where selected vital information
 must be provided in a fixed pre-defined way.
