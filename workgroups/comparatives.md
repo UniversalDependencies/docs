@@ -950,3 +950,15 @@ conjunction _kuin:_
 5	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
 ~~~
+
+An equality comparison in Finnish [fi]: “I am reading the same book as Pekka.”
+
+~~~ conllu
+1	Luin	_	VERB	_	_	0	root	_	Gloss=I-read
+2	saman	_	ADJ	_	_	3	amod	_	Gloss=same
+3	kirjan	_	NOUN	_	Case=Gen	1	obj	_	Gloss=book
+4	kuin	_	SCONJ	_	_	5	case	_	Gloss=as
+5	Pekka	_	PROPN	_	Case=Nom	2	obl	_	Gloss=Pekka|SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+~~~
