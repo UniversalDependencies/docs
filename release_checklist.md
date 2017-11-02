@@ -49,18 +49,53 @@ Repositories of released treebanks also contain a `stats.xml` file, which is gen
 
 ## The README file
 
+The `README` file is distributed together with the data and summarizes information about the treebank for its users;
+the contents of the file is also displayed by Github when readers land on the Github homepage of the treebank repository.
+At the same time, certain pre-defined parts of the `README` file are automatically copied to the UD website to places
+where individual treebanks are described. In these cases, the contents is interpreted as MarkDown and you can use the
+[MarkDown syntax](https://guides.github.com/features/mastering-markdown/)
+to add a little formatting (but please remember that some users will read directly the `README` file, so it should remain
+reasonably human-readable).
+The last part of the `README` file contains machine-readable metadata (described below) where selected vital information
+must be provided in a fixed pre-defined way.
+
+MarkDown source files usually have the `.md` extension (`README.md`); but for historical reasons,
+it is also possible to name the file `README.txt`.
+
 The `README` file should minimally contain the following information:
 
-1. A machine-readable section with treebank metadata. This is described below.
-2. A description of the treebank and its origin (creation method, data sources, etc.)
-3. A description of how the data was split into training, development and test sets
-4. Basic statistics about number of sentences, tokens, etc.
-5. Acknowledgments and references that should be cited when using the treebank
-6. A Changelog section for treebanks that appear in more than one UD releases.
+1. A description of the treebank and its origin (creation method, data sources, etc.)
+2. A description of how the data was split into training, development and test sets
+3. Acknowledgments and references that should be cited when using the treebank
+4. A [changelog](http://en.wikipedia.org/wiki/Changelog) section for treebanks that will be released for the second (or subsequent) time
+5. A machine-readable section with treebank metadata. This is described below.
 
-Note that the basic statistics can be produced using the script `conllu-stats.py`available from the `tools` repository and run as follows:
+MarkDown uses the `#` character to mark section headings. Several sections with fixed names are expected in every `README`
+and will be searched for by various scripts. Use the following template (from Swedish) to adjust your `README`.
+The first section, called _Summary_, should be rather short (one-two lines), so it can appear in an index page listing all
+treebanks. An automatically generated treebank page in the UD documentation will take over the sections _Summary, Introduction_
+and _Acknowledgments._
 
-    $ python conllu-stats.py --stats ../UD_Finnish/*.conllu
+<pre>
+# Summary
+
+UD Swedish-TP is a conversion of the Prose section of Talbanken, originally annotated in the MAMBA annotation scheme, and consisting
+of a variety of informative text genres, including textbooks, information brochures and newspaper articles. 
+
+# Introduction
+
+UD Swedish-TP is a conversion of the Prose section of Talbanken (Einarsson, 1976), originally annotated by a team led by Ulf Teleman
+at Lund University according to the MAMBA annotation scheme (Teleman, 1974). It consists of roughly 6,000 sentences and 95,000 tokens 
+taken from a variety of informative text genres, including textbooks, information brochures, and newspaper articles. The syntactic annotation 
+is converted directly from the original MAMBA annotation, while the morphological annotation is based on the reannotation performed when 
+incorporating Talbanken into the Swedish Treebank (Nivre and Megyesi, 2007). 
+
+# Acknowledgments 
+
+The new conversion has been performed by Joakim Nivre and Aaron Smith at Uppsala University. We thank everyone who has been involved 
+in previous conversion efforts at Växjö University and Uppsala University, including Bengt Dahlqvist, Sofia Gustafson-Capkova, Johan Hall,
+Anna Sågvall Hein, Beáta Megyesi, Jens Nilsson, and Filip Salomonsson. Special thanks also to Lars Borin and Markus Forsberg at 
+Språkbanken for help with the lemmatization. Finally, we owe a huge debt to the team who produced the original treebank in the 1970s.</pre>
 
 For previously released corpora, the README file should also include a "[changelog](http://en.wikipedia.org/wiki/Changelog)" section summarizing changes between versions e.g. as follows
 
