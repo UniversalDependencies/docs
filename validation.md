@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-02T13:43:44Z">2017-11-02T13:43:44 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-02T13:50:35Z">2017-11-02T13:50:35 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2900,49 +2900,28 @@ Syntax errors: 5
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Marathi</span>
 <span class="widespan">mr</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-02T13:43:43Z">2017-11-02T13:43:43 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-02T13:50:34Z">2017-11-02T13:50:34 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang mr UD-dev-branches/UD_Marathi/mr-ud-dev.conllu
 
-[Line                   159]: Unknown attribute-value pair Case=Inst
-[Line                   543]: Unknown attribute-value pair Case=Inst
-*** FAILED *** with 2 errors
-Morpho errors: 2
+*** PASSED ***
 
 
 ******************
 
 python tools/validate.py --lang mr UD-dev-branches/UD_Marathi/mr-ud-test.conllu
 
-[Line                   109]: Unknown attribute-value pair Case=Inst
-[Line                   472]: Unknown attribute-value pair Case=Inst
-[Line                   492]: Unknown attribute-value pair Case=Inst
-[Line                   575]: Unknown attribute-value pair VerbForm=Supine
-*** FAILED *** with 4 errors
-Morpho errors: 4
+*** PASSED ***
 
 
 ******************
 
 python tools/validate.py --lang mr UD-dev-branches/UD_Marathi/mr-ud-train.conllu
 
-[Line                   203]: Unknown attribute-value pair VerbForm=Supine
-[Line                   221]: Unknown attribute-value pair Case=Soc
-[Line                   1335]: Unknown attribute-value pair VerbForm=Supine
-[Line                   1394]: Unknown attribute-value pair VerbForm=Supine
-[Line                   2077]: Unknown attribute-value pair VerbForm=Supine
-[Line                   2394]: Unknown attribute-value pair VerbForm=Supine
-[Line                   2974]: Unknown attribute-value pair VerbForm=Supine
-[Line                   3173]: Unknown attribute-value pair Case=Soc
-[Line                   3392]: Unknown attribute-value pair Case=Soc
-[Line                   3393]: Unknown attribute-value pair VerbForm=Supine
-[Line                   3656]: Unknown attribute-value pair Case=Soc
-[Line                   4221]: Unknown attribute-value pair VerbForm=Supine
-*** FAILED *** with 12 errors
-Morpho errors: 12
+*** PASSED ***
 
 
 ******************
