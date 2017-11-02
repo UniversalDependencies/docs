@@ -178,7 +178,7 @@ If you want to see what web content will be generated from your README file, run
 `generate_treebank_hub.pl` script from the tools repository on your treebank folder,
 e.g.
 
-    generate_treebank_hub.pl UD_Czech > for_web.md
+    tools/generate_treebank_hub.pl UD_Czech > for_web.md
 
 ## Repository branches
 
