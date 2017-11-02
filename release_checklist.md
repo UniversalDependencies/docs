@@ -12,6 +12,7 @@ Contents:
 
 * [Executive summary](#executive-summary)
 * [Repository and files](#repository-and-files)
+  - [The README file](#the-readme-file)
   - [Treebank metadata](#treebank-metadata)
   - [Repository branches](#repository-branches)
 * [Validation](#validation)
