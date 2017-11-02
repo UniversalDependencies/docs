@@ -993,3 +993,17 @@ Egyptian [egy]: “the one who is older than me”
 4	𓀀	_	PRON	_	Number=Sing|Person=1|PronType=Prs	2	obl	_	Translit=ȧ|Gloss=I
 
 ~~~
+
+## References
+
+* Joan W. Bresnan. Syntax of the comparative clause construction in English.
+  Linguistic Inquiry, IV(3):275–343, 1973.
+* Martin Haspelmath. Equative constructions in world-wide perspective.
+  In Yvonne Treis and Martine Vanhove, editors, Similative and Equative Constructions.
+  A cross-linguistic perspective, volume 117 of Typological Studies in Language,
+  pages 9–32.
+  John Benjamins Publishing Company, Amsterdam / Philadelphia, 2017.
+  ISBN 978-90-272-0698-5.
+  doi: 10.1075/tsl.117.02has.
+* Rodney Huddleston and Geoffrey K. Pullum. The Cambridge Grammar of the English Language.
+  Cambridge University Press, Cambridge, UK, 2002.
