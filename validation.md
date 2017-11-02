@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-02T09:23:09Z">2017-11-02T09:23:09 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-02T10:07:06Z">2017-11-02T10:07:06 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -207,6 +207,97 @@ python tools/validate.py --lang ar_pud UD-dev-branches/UD_Arabic-PUD/ar_pud-ud-t
 <div>
 <pre>
 No data
+</pre>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">UD Bambara</span>
+<span class="widespan">bm</span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-02T10:04:47Z">2017-11-02T10:04:47 zulu</time></span>
+</div>
+<div>
+<pre>
+python tools/validate.py --lang bm UD-dev-branches/UD_Bambara/bam-ud-dev.conllu
+
+[Line                   5]: Unknown attribute-value pair ASpect=Perf
+[Line                   5]: Unknown attribute-value pair Valency=1
+[Line                   5]: Invalid DEPREL value _
+[Line                   5]: Unknown UD DEPREL: _
+[Line                   6]: Unknown UD DEPREL: nmod:poss
+[Line                   7]: Unknown UD DEPREL: nmod:poss
+[Line                   8]: Unknown UD DEPREL: nmod:poss
+[Line                   13]: Undefined ID in HEAD: _
+[Tree number 1 on line 3]: Empty head for word ID 3
+[Tree number 1 on line 3]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9,10 are not reachable from the root 0.
+[Line                   13]: SpaceAfter=No is missing in the MISC field of node #10 because the text is '1976.'
+[Line                   13]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: '.'
+[Line                   16]: Unknown UD DEPREL: nmod:poss
+[Line                   18]: Morphological features must be sorted: 'Aspectpect=Perf|Valency=1|Polarity=Pos'
+[Line                   18]: Unknown attribute-value pair Aspectpect=Perf
+[Line                   18]: Unknown attribute-value pair Valency=1
+[Line                   18]: Invalid DEPREL value _
+[Line                   18]: Unknown UD DEPREL: _
+[Line                   19]: Unknown UD DEPREL: nmod:poss
+[Line                   20]: Unknown UD DEPREL: nmod:poss
+[Line                   24]: Undefined ID in HEAD: _
+[Tree number 2 on line 16]: Empty head for word ID 3
+[Tree number 2 on line 16]: Non-tree structure. Words 1,2,3,4,5,6,7,8 are not reachable from the root 0.
+[Line                   24]: The forward slash is reserved for special use in parallel treebanks: ../kibaru543_03dunbuya_konta-bamako_jumamisiriba.dis.html:2
+[Line                   24]: SpaceAfter=No is missing in the MISC field of node #7 because the text is '8.'
+[Line                   27]: Morphological features must be sorted: 'PronType=Prs|Number=Sing|Person=3'
+[Line                   27]: Unknown UD DEPREL: nmod:poss
+[Line                   29]: Repeated features are disallowed: Tense=Past|Tense=Past
+[Line                   31]: Unknown UD DEPREL: nmod:poss
+[Line                   34]: Invalid DEPREL value _
+[Line                   34]: Unknown UD DEPREL: _
+[Line                   38]: Unknown UD DEPREL: flat:name
+[Line                   39]: Unknown UD DEPREL: flat:name
+[Line                   40]: Unknown UD DEPREL: flat:name
+...suppressing further errors regarding Syntax
+[Line                   43]: Undefined ID in HEAD: _
+[Tree number 3 on line 27]: Empty head for word ID 8
+[Line                   43]: The forward slash is reserved for special use in parallel treebanks: ../kibaru543_03dunbuya_konta-bamako_jumamisiriba.dis.html:3
+[Line                   43]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'bolo, Cɛrino Amadu U[...]'
+[Line                   43]: SpaceAfter=No is missing in the MISC field of node #15 because the text is 'Jalo.'
+[Line                   53]: Repeated features are disallowed: Tense=Past|Tense=Past
+[Line                   55]: Morphological features must be sorted: 'PronType=Prs|Number=Sing|Person=3'
+[Line                   59]: Undefined ID in HEAD: _
+[Tree number 4 on line 46]: Empty head for word ID 2
+[Line                   59]: The forward slash is reserved for special use in parallel treebanks: ../kibaru543_03dunbuya_konta-bamako_jumamisiriba.dis.html:4
+[Line                   59]: SpaceAfter=No is missing in the MISC field of node #2 because the text is 'lasigiden, Masiwudi [...]'
+[Line                   59]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'b'a kɛnɛ kan.'
+[Line                   59]: SpaceAfter=No is missing in the MISC field of node #12 because the text is 'kan.'
+[Line                   74]: Morphological features must be sorted: 'PronType=Prs|Number=Plur'
+[Line                   75]: Repeated features are disallowed: Tense=Past|Tense=Past
+[Line                   77]: Morphological features must be sorted: 'PronType=Prs|Number=Sing|Person=3'
+[Line                   81]: Undefined ID in HEAD: _
+[Tree number 5 on line 62]: Empty head for word ID 3
+[Line                   81]: The forward slash is reserved for special use in parallel treebanks: ../kibaru543_03dunbuya_konta-bamako_jumamisiriba.dis.html:5
+[Line                   81]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'Diko, misiriba alima[...]'
+[Line                   81]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'alimami, Mahamudu Ka[...]'
+[Line                   81]: SpaceAfter=No is missing in the MISC field of node #11 because the text is 'Kale, olu tun b'a kɛ[...]'
+[Line                   81]: SpaceAfter=No is missing in the MISC field of node #15 because the text is 'b'a kɛnɛ kan.'
+[Line                   81]: SpaceAfter=No is missing in the MISC field of node #18 because the text is 'kan.'
+[Line                   95]: Morphological features must be sorted: 'PronType=Prs|Number=Plur'
+[Line                   96]: Unknown attribute-value pair AdjType=Attr
+[Line                   97]: Repeated features are disallowed: Tense=Past|Tense=Past
+[Line                   99]: Morphological features must be sorted: 'PronType=Prs|Number=Sing|Person=3'
+[Line                   103]: The forward slash is reserved for special use in parallel treebanks: ../kibaru543_03dunbuya_konta-bamako_jumamisiriba.dis.html:6
+[Line                   103]: SpaceAfter=No is missing in the MISC field of node #3 because the text is 'lasigidenw, Bamakɔ s[...]'
+...suppressing further errors regarding Metadata
+*** FAILED *** with 90 errors
+Format errors: 10
+Metadata errors: 23
+Morpho errors: 16
+Syntax errors: 41
+The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.bm does not exist.
+The language-specific file /home/ginter/UD_PROJHOOK/tools/data/feat_val.bm does not exist.
+python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PROJHOOK/tools/data/feat_val.bm
+
+
+******************
+
+
 </pre>
 </div>
 <div>
@@ -1254,6 +1345,166 @@ python tools/validate.py --lang en_partut UD-dev-branches/UD_English-ParTUT/en_p
 python tools/validate.py --lang en_partut UD-dev-branches/UD_English-ParTUT/en_partut-ud-train.conllu
 
 *** PASSED ***
+
+
+******************
+
+
+</pre>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">UD Erzya</span>
+<span class="widespan">myv</span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-02T10:04:47Z">2017-11-02T10:04:47 zulu</time></span>
+</div>
+<div>
+<pre>
+python tools/validate.py --lang myv UD-dev-branches/UD_Erzya/myv_BryzhinskijMixail_Kirdazht_manu_Pers_Chap-01.conlluTraceback (most recent call last):
+  File "tools/validate.py", line 735, in &lt;module&gt;
+    validate(inp,out,args,tagsets,known_sent_ids)
+  File "tools/validate.py", line 625, in validate
+    validate_text_meta(comments,tree)
+  File "tools/validate.py", line 165, in validate_text_meta
+    if u"NoSpaceAfter=Yes" in cols[MISC]:
+IndexError: list index out of range
+
+
+
+[Line                   33]: Morphological features must be sorted: 'Sem/Ant_Mal|Number=Sing,Plur|Case=Gen|Definite=Ind'
+[Line                   33]: Spurious morphological feature: 'Sem/Ant_Mal'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   33]: If an attribute has multiple values, these must be sorted as well: 'Number=Sing,Plur'
+[Line                   34]: Morphological features must be sorted: 'Valency=2|Mood=Ind|Tense=Prt1|Number[subj]=Plur|Person[subj]=3|Number[obj]=Sing|Person[obj]=3'
+[Line                   34]: Unknown attribute-value pair Valency=2
+[Line                   34]: Unknown attribute-value pair Tense=Prt1
+[Line                   34]: Unknown attribute-value pair Number[subj]=Plur
+[Line                   34]: Unknown attribute-value pair Person[subj]=3
+[Line                   34]: Unknown attribute-value pair Number[obj]=Sing
+[Line                   34]: Unknown attribute-value pair Person[obj]=3
+[Line                   35]: The line has 9 columns, but 10 are expected.
+[Line                   35]: Morphological features must be sorted: 'Valency=2|Derivation=NomAg|Number=Sing|Case=Nom|Definite=Ind'
+[Line                   35]: Unknown attribute-value pair Valency=2
+[Line                   35]: Unknown attribute-value pair Derivation=NomAg
+[Line                   35]: Failed for parse DEPS: налкставтыця
+[Line                   35]: Malformed head:deprel pair 'налкставтыця'
+[Line                   36]: Morphological features must be sorted: 'Sem/Ani|Number=Plur|Case=Nom|Definite=Ind'
+[Line                   36]: Spurious morphological feature: 'Sem/Ani'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   37]: Spurious morphological feature: 'CLB'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   38]: Failed for parse DEPS: налкставтыця
+[Line                   38]: Failed to parse DEPS: налкставтыця
+[Line                   38]: Spurious sent_id line: '#sent_id = chapID1:paragID1:sentID1' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   38]: Missing the sent_id attribute.
+[Line                   38]: Exception caught!
+*** FAILED *** with 24 errors
+Format errors: 4
+Metadata errors: 2
+Morpho errors: 16
+Syntax errors: 2
+The language-specific file /home/ginter/UD_PROJHOOK/tools/data/feat_val.myv does not exist.
+python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PROJHOOK/tools/data/feat_val.myv
+
+
+******************
+
+python tools/validate.py --lang myv UD-dev-branches/UD_Erzya/myv_KutorkinAndrej_LazhnicyaSuraII_1976_Pers_Part01-Chap01.conlluTraceback (most recent call last):
+  File "tools/validate.py", line 735, in &lt;module&gt;
+    validate(inp,out,args,tagsets,known_sent_ids)
+  File "tools/validate.py", line 625, in validate
+    validate_text_meta(comments,tree)
+  File "tools/validate.py", line 165, in validate_text_meta
+    if u"NoSpaceAfter=Yes" in cols[MISC]:
+IndexError: list index out of range
+
+
+
+[Line                   33]: Morphological features must be sorted: 'Number=Sing|Case=Nom|Definite=Def'
+[Line                   33]: Unknown UD DEPREL: nsubj:cop
+[Line                   34]: Morphological features must be sorted: 'Valency=1|Mood=Ind|Tense=Prt1|Number[subj]=Sing|Person[subj]=3'
+[Line                   34]: Unknown attribute-value pair Valency=1
+[Line                   34]: Unknown attribute-value pair Tense=Prt1
+[Line                   34]: Unknown attribute-value pair Number[subj]=Sing
+[Line                   34]: Unknown attribute-value pair Person[subj]=3
+[Line                   35]: Morphological features must be sorted: 'Number=Sing,Plur|Case=Gen|Definite=Ind'
+[Line                   35]: If an attribute has multiple values, these must be sorted as well: 'Number=Sing,Plur'
+[Line                   35]: Unknown UD DEPREL: nmod:poss
+[Line                   36]: Morphological features must be sorted: 'Number=Sing|Case=Nom|Definite=Ind'
+[Line                   38]: Spurious sent_id line: '#sent_id = partID1:chapID1:paragID1:sentID1: pgNo="5"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   38]: Missing the sent_id attribute.
+[Line                   38]: SpaceAfter=No is missing in the MISC field of node #4 because the text is 'сочельник.'
+[Line                   41]: Morphological features must be sorted: 'Valency=2|Mood=Ind|Tense=Prt1|Number[subj]=Sing|Person[subj]=3'
+[Line                   41]: Unknown attribute-value pair Valency=2
+[Line                   41]: Unknown attribute-value pair Tense=Prt1
+[Line                   41]: Unknown attribute-value pair Number[subj]=Sing
+[Line                   41]: Unknown attribute-value pair Person[subj]=3
+[Line                   42]: Spurious morphological feature: 'Attr'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   43]: Morphological features must be sorted: 'Number=Sing|Case=Nom|Definite=Ind'
+[Line                   45]: Morphological features must be sorted: 'Number=Sing|Case=Nom|Definite=Ind'
+[Line                   46]: Morphological features must be sorted: 'Number=Sing,Plur|Case=Gen|Definite=Ind'
+[Line                   46]: If an attribute has multiple values, these must be sorted as well: 'Number=Sing,Plur'
+...suppressing further errors regarding Morpho
+[Line                   50]: Unknown UD DEPREL: nmod:poss
+[Line                   53]: Spurious sent_id line: '#sent_id = partID1:chapID1:paragID1:sentID2: pgNo="5"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   53]: Missing the sent_id attribute.
+[Line                   53]: SpaceAfter=No is missing in the MISC field of node #11 because the text is 'ломанть.'
+[Line                   66]: Spurious sent_id line: '#sent_id = partID1:chapID1:paragID2:sentID1: pgNo="5"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   66]: Missing the sent_id attribute.
+[Line                   66]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'ланга, прок лайшесь.'
+[Line                   66]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'лайшесь.'
+[Line                   69]: Unknown UD DEPREL: nmod:poss
+[Line                   74]: Spurious sent_id line: '#sent_id = partID1:chapID1:paragID3:sentID1: pgNo="5"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   74]: Missing the sent_id attribute.
+[Line                   74]: SpaceAfter=No is missing in the MISC field of node #4 because the text is 'сыль.'
+[Line                   80]: Unknown UD DEPREL: flat:name
+[Line                   81]: Unknown UD DEPREL: nmod:poss
+[Line                   84]: Spurious sent_id line: '#sent_id = partID1:chapID1:paragID3:sentID2: pgNo="5"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   84]: Missing the sent_id attribute.
+[Line                   84]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'Груня.'
+[Line                   89]: Unknown UD DEPREL: nmod:poss
+[Line                   92]: Unknown UD DEPREL: nmod:poss
+[Line                   101]: Spurious sent_id line: '#sent_id = partID1:chapID1:paragID3:sentID3: pgNo="5"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   101]: Missing the sent_id attribute.
+[Line                   101]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'пилензэ, теке бокава[...]'
+...suppressing further errors regarding Metadata
+[Line                   130]: Unknown UD DEPREL: nmod:poss
+[Line                   136]: Invalid DEPREL value 7
+[Line                   136]: Failed for parse DEPS: punct
+[Line                   136]: Unknown UD DEPREL: 7
+[Line                   136]: Malformed head:deprel pair 'punct'
+[Line                   137]: Invalid DEPREL value _
+[Line                   137]: Unknown UD DEPREL: _
+[Line                   141]: Invalid DEPREL value _
+[Line                   141]: Unknown UD DEPREL: _
+[Line                   149]: Undefined ID in HEAD: _
+[Line                   149]: Failed for parse DEPS: punct
+[Line                   149]: Undefined ID in HEAD: _
+[Line                   149]: Undefined ID in HEAD: _
+[Line                   149]: Failed to parse DEPS: punct
+[Tree number 9 on line 129]: Empty head for word ID 8
+[Tree number 9 on line 129]: Empty head for word ID 9
+[Tree number 9 on line 129]: Empty head for word ID 13
+[Tree number 9 on line 129]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20 are not reachable from the root 0.
+[Line                   161]: Unknown UD DEPREL: aux:subj
+...suppressing further errors regarding Syntax
+[Line                   369]: Undefined ID in HEAD: _
+[Tree number 26 on line 356]: Empty head for word ID 4
+[Line                   498]: Undefined ID in HEAD: _
+[Line                   498]: Failed for parse DEPS: punct
+[Line                   498]: Failed to parse DEPS: punct
+[Tree number 37 on line 486]: Empty head for word ID 10
+[Tree number 44 on line 566]: HEAD == ID for 2
+[Line                   712]: Undefined ID in HEAD: nmod:poss
+[Tree number 55 on line 694]: Non-integer head for word ID 7
+[Line                   912]: Undefined ID in HEAD: obj
+[Tree number 71 on line 900]: Non-integer head for word ID 11
+...suppressing further errors regarding Format
+*** FAILED *** with 3011 errors
+Format errors: 39
+Metadata errors: 529
+Morpho errors: 2315
+Syntax errors: 128
+The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.myv does not exist.
+The language-specific file /home/ginter/UD_PROJHOOK/tools/data/feat_val.myv does not exist.
+python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PROJHOOK/tools/data/feat_val.myv
 
 
 ******************
@@ -3060,6 +3311,122 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-test.conllu
 python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conllu
 
 *** PASSED ***
+
+
+******************
+
+
+</pre>
+</div>
+<div>
+<span class="doublewidespan" style="padding-left:3em">UD Romanian-Nonstandard</span>
+<span class="widespan">ro nonstandard</span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-02T10:07:05Z">2017-11-02T10:07:05 zulu</time></span>
+</div>
+<div>
+<pre>
+python tools/validate.py --lang ro_nonstandard UD-dev-branches/UD_Romanian-Nonstandard/ro_nonstandard-ud-test.conlluTraceback (most recent call last):
+  File "tools/validate.py", line 735, in &lt;module&gt;
+    validate(inp,out,args,tagsets,known_sent_ids)
+  File "tools/validate.py", line 613, in validate
+    for comments,tree in trees(inp,tag_sets,args):
+  File "tools/validate.py", line 96, in trees
+    validate_cols(cols,tag_sets,args)
+  File "tools/validate.py", line 211, in validate_cols
+    validate_character_constraints(cols)
+  File "tools/validate.py", line 382, in validate_character_constraints
+    if any(deprel for head, deprel in deps_list(cols)
+TypeError: 'NoneType' object is not iterable
+
+
+
+[Line                   7]: Morphological features must be sorted: 'Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Fem|'
+[Line                   7]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   10]: Missing the sent_id attribute.
+[Line                   10]: Missing the text attribute.
+[Line                   21]: Morphological features must be sorted: 'Gender=Masc|Number=Sing|Mood=Part|Polarity=Pos|VerbForm=Fin'
+[Line                   21]: Unknown attribute-value pair Mood=Part
+[Line                   25]: Missing the sent_id attribute.
+[Line                   25]: Missing the text attribute.
+[Line                   42]: Missing the sent_id attribute.
+[Line                   42]: Missing the text attribute.
+[Line                   63]: Unknown UPOS tag: _
+[Line                   63]: Invalid UPOSTAG value _
+[Line                   65]: Missing the sent_id attribute.
+[Line                   65]: Missing the text attribute.
+[Line                   74]: Unknown attribute-value pair Compound=Yes
+[Line                   88]: Missing the sent_id attribute.
+[Line                   88]: Missing the text attribute.
+[Line                   106]: Missing the sent_id attribute.
+[Line                   106]: Missing the text attribute.
+[Line                   112]: Unknown attribute-value pair Compound=Yes
+[Line                   120]: Unknown attribute-value pair Compound=Yes
+[Line                   128]: Missing the sent_id attribute.
+[Line                   128]: Missing the text attribute.
+[Line                   143]: Unknown attribute-value pair Compound=Yes
+[Line                   147]: Unknown attribute-value pair Mood=Part
+[Line                   148]: Morphological features must be sorted: 'Case=Acc,Nom|Gender=Fem|Number=Plur|Poss=Yes|'
+[Line                   148]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   151]: Missing the sent_id attribute.
+[Line                   151]: Missing the text attribute.
+[Line                   169]: Missing the sent_id attribute.
+[Line                   169]: Missing the text attribute.
+[Line                   187]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
+[Line                   241]: Unknown attribute-value pair Compound=Yes
+[Line                   322]: Unknown attribute-value pair Compound=Yes
+[Line                   328]: Unknown attribute-value pair PronType=Refl
+[Line                   335]: The line has 11 columns, but 10 are expected.
+[Line                   335]: Empty value in column HEAD
+[Line                   335]: Invalid DEPREL value 5
+[Line                   335]: Failed for parse DEPS: discourse
+[Line                   335]: Unknown UD DEPREL: 5
+[Line                   335]: Malformed head:deprel pair 'discourse'
+[Line                   346]: Unknown UPOS tag: _
+[Line                   346]: Invalid UPOSTAG value _
+[Line                   347]: Unknown UPOS tag: _
+...suppressing further errors regarding Morpho
+[Line                   349]: Undefined ID in HEAD: 
+[Line                   349]: Failed for parse DEPS: discourse
+[Line                   349]: Failed to parse DEPS: discourse
+[Tree number 19 on line 334]: Non-integer head for word ID 2
+[Tree number 19 on line 334]: Non-tree structure. Words 1,2 are not reachable from the root 0.
+[Line                   369]: Trailing whitespace not allowed in column FORM
+[Line                   369]: 'pînă ' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   416]: Trailing whitespace not allowed in column XPOSTAG
+[Line                   416]: White space not allowed in the XPOSTAG column: 'Pp3fso '
+[Line                   424]: Trailing whitespace not allowed in column XPOSTAG
+[Line                   424]: White space not allowed in the XPOSTAG column: 'Pp3fsa--------w '
+[Line                   429]: Trailing whitespace not allowed in column XPOSTAG
+[Line                   429]: White space not allowed in the XPOSTAG column: 'Pp3fsa--------w '
+[Line                   436]: The line has 11 columns, but 10 are expected.
+[Line                   436]: Empty value in column HEAD
+[Line                   436]: Invalid DEPREL value 11
+[Line                   436]: Failed for parse DEPS: cc
+[Line                   436]: Unknown UD DEPREL: 11
+[Line                   436]: Malformed head:deprel pair 'cc'
+[Line                   438]: Trailing whitespace not allowed in column XPOSTAG
+[Line                   438]: White space not allowed in the XPOSTAG column: 'Pp3msr '
+[Line                   444]: Trailing whitespace not allowed in column XPOSTAG
+...suppressing further errors regarding Format
+[Line                   471]: Invalid DEPREL value 37
+[Line                   471]: Failed for parse DEPS: nsubj
+[Line                   471]: Unknown UD DEPREL: 37
+[Line                   471]: Malformed head:deprel pair 'nsubj'
+[Tree number 23 on line 436]: Non-tree structure. Words 1,36 are not reachable from the root 0.
+[Line                   518]: Invalid DEPREL value 9
+[Line                   518]: Failed for parse DEPS: obj
+[Line                   518]: Unknown UD DEPREL: 9
+[Line                   518]: Malformed head:deprel pair 'obj'
+[Tree number 25 on line 511]: Non-tree structure. Words 8 are not reachable from the root 0.
+...suppressing further errors regarding Syntax
+*** FAILED *** with 8162 errors
+Format errors: 2979
+Metadata errors: 1348
+Morpho errors: 2065
+Syntax errors: 1770
+The language-specific file /home/ginter/UD_PROJHOOK/tools/data/tokens_w_space.ro_nonstandard does not exist.
 
 
 ******************
