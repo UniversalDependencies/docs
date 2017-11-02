@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-02T10:07:06Z">2017-11-02T10:07:06 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-02T13:41:59Z">2017-11-02T13:41:59 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -4176,19 +4176,14 @@ python tools/validate.py --lang ur UD-dev-branches/UD_Urdu/ur-ud-train.conllu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Uyghur</span>
 <span class="widespan">ug</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-21T20:34:57Z">2017-10-21T20:34:57 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-02T13:41:58Z">2017-11-02T13:41:58 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang ug UD-dev-branches/UD_Uyghur/ug-ud-dev.conllu
 
-[Line                   3044]: Unknown UD DEPREL: compound:reduo
-[Line                   4406]: Unknown UD DEPREL: conj-
-[Line                   5788]: Unknown UD DEPREL: nmod:cmp
-[Line                   6243]: Unknown UD DEPREL: disclose
-*** FAILED *** with 4 errors
-Syntax errors: 4
+*** PASSED ***
 
 
 ******************
