@@ -606,3 +606,142 @@ are otherwise used with equality comparisons, as in this English example:
 
 ~~~
 
+Very commonly the complement clause in a comparative undergoes various amounts
+of partial reduction or ellipsis, sometimes to a quite extreme extent. If the
+head is elided, then the functional element can be promoted:
+
+~~~ conllu
+1	Wheat	wheat	NOUN	_	Number=Coll	2	nsubj	_	_
+2	raises	raise	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	blood	blood	NOUN	_	Number=Coll	4	nmod	_	_
+4	sugar	sugar	NOUN	_	Number=Coll	2	obj	_	_
+5	even	even	ADV	_	_	6	advmod	_	_
+6	more	much	ADV	_	Degree=Cmp	2	advmod	_	_
+7	than	than	SCONJ	_	_	9	mark	_	_
+8	sugar	sugar	NOUN	_	Number=Coll	9	nsubj	_	_
+9	does	do	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+~~~
+
+“Wheat raises blood sugar even more than how much sugar raises it.”
+
+In general, we treat whatever remnant that remains as still an [advcl]():
+
+~~~ conllu
+1	I	I	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	put	put	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	in	in	ADP	_	_	2	compound:prt	_	_
+4	as	as	SCONJ	_	_	5	advmod	_	_
+5	much	much	ADV	_	Degree=Pos	6	amod	_	_
+6	flour	flour	NOUN	_	Number=Coll	2	obj	_	_
+7	as	as	SCONJ	_	_	10	mark	_	_
+8	the	the	DET	_	Definite=Def|PronType=Art	9	det	_	_
+9	recipe	recipe	NOUN	_	Number=Sing	10	nsubj	_	_
+10	called	call	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	5	advcl	_	_
+11	for	for	ADP	_	_	10	obl	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+~~~
+
+“I put in as much flour as for how much flour the recipe called.”
+
+~~~ conllu
+1	He	he	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	plays	play	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	better	well	ADV	_	Degree=Cmp	2	advmod	_	_
+4	drunk	drunk	ADJ	_	Tense=Past|VerbForm=Part	1	acl	_	_
+5	than	than	SCONJ	_	_	6	mark	_	_
+6	sober	sober	ADJ	_	Degree=Pos	3	advcl	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+~~~
+
+“He plays better when he is drunk than how he plays when he is sober.”
+
+~~~ conllu
+1	Your	your	PRON	_	Person=2|Poss=Yes|PronType=Prs	2	det	_	_
+2	hair	hair	NOUN	_	Number=Coll	4	nsubj	_	_
+3	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+4	pinker	pink	ADJ	_	Degree=Cmp	0	root	_	_
+5	than	than	SCONJ	_	_	6	mark	_	_
+6	ever	ever	ADV	_	_	4	advcl	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+~~~
+
+“Your hair is more pink than how pink it ever was.”
+
+However, a limiting case of this is that only a nominal is present:
+
+* _as important as a player's talent_
+* _more important than a player's talent_
+
+The analysis in this case is unclear: Should the comparative complement still
+be analyzed as an extremely reduced complement clause or analyzed simply as a
+nominal modifier? There are arguments for both positions. For English, there
+is a long discussion of the arguments in section 2.2 of chapter 13 of
+Huddleston and Pullum (2002). We err on the side of minimizing the postulation
+of unobserved structure and opt to treat these cases as just an oblique
+nominal complement. In consequence, the subordinating conjunction is attached
+as [case]() rather than [mark]():
+
+~~~ conllu
+1	as	as	SCONJ	_	_	2	advmod	_	_
+2	important	important	ADJ	_	Degree=Pos	0	root	_	_
+3	as	as	SCONJ	_	_	7	case	_	_
+4	a	a	DET	_	Definite=Ind|PronType=Art	5	det	_	_
+5	player	player	NOUN	_	Number=Sing	7	nmod	_	_
+6	's	's	PART	_	_	5	case	_	_
+7	talent	talent	NOUN	_	Number=Sing	2	obl	_	_
+
+~~~
+
+~~~ conllu
+1	more	much	ADV	_	Degree=Cmp	2	advmod	_	_
+2	important	important	ADJ	_	Degree=Pos	0	root	_	_
+3	than	than	SCONJ	_	_	7	case	_	_
+4	a	a	DET	_	Definite=Ind|PronType=Art	5	det	_	_
+5	player	player	NOUN	_	Number=Sing	7	nmod	_	_
+6	's	's	PART	_	_	5	case	_	_
+7	talent	talent	NOUN	_	Number=Sing	2	obl	_	_
+
+~~~
+
+This analysis is also used when the nominal itself is reduced, i.e., the head
+noun is elided and a modifying adjective, determiner or numeral is promoted.
+A Czech example:
+
+“I like red wine more than white.”
+
+~~~ conllu
+1	Červené	červený	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	2	amod	_	Gloss=red
+2	víno	víno	NOUN	_	Case=Acc|Gender=Neut|Number=Coll	3	obj	_	Gloss=wine
+3	mám	mít	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Gloss=I-have
+4	raději	rád	ADJ	_	Degree=Cmp|Polarity=Pos	3	advmod	_	Gloss=more-liking
+5	než	než	SCONJ	_	_	6	case	_	Gloss=than
+6	bílé	bílý	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	4	obl	_	Gloss=white|SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+~~~
+
+“depends more on the state of the line than on the speed of the device”
+
+~~~ conllu
+# sent_id = cmpr9406-001-p4s5
+# text = Ve skutečnosti to sice trvá zhruba minutu, protože doba přenosu více závisí na stavu telefonní linky než na rychlosti přístroje, ale i tak je přenos informace faxem zhruba třikrát rychlejší než řeč.
+# orig_file_sentence cmpr9406_001#8
+1=12
+1	více	hodně	ADV	Dg-------2A----	Degree=Cmp|Polarity=Pos	2	advmod	_	Gloss=more
+2	závisí	záviset	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Gloss=depends
+3	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	4	case	_	Gloss=on
+4	stavu	stav	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	2	obl:arg	_	Gloss=state
+5	telefonní	telefonní	ADJ	AAFS2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	6	amod	_	Gloss=phone
+6	linky	linka	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	4	nmod	_	Gloss=line
+7	než	než	SCONJ	J,-------------	_	9	case	_	Gloss=than
+8	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	9	case	_	Gloss=on
+9	rychlosti	rychlost	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	1	obl	_	Gloss=speed
+10	přístroje	přístroj	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	9	nmod	_	Gloss=of-device|SpaceAfter=No
+
+~~~
+
