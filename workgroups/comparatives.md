@@ -871,3 +871,15 @@ Russian [ru]: “Misha is smarter than his brother.”
 
 ~~~
 
+Russian [ru]: “Misha is smarter than his brother.”
+
+~~~ conllu
+1	Миша	Миша	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Translit=Miša|Gloss=Misha
+2	умнее	умный	ADJ	_	Degree=Cmp	0	root	_	Translit=umnee|Gloss=smarter|SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	Translit=,|Gloss=,
+4	чем	чем	SCONJ	_	_	5	case	_	Translit=čem|Gloss=than
+5	брат	брат	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	obl	_	Translit=brat|Gloss=brother|SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	Translit=.|Gloss=.
+
+~~~
+
