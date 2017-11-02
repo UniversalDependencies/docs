@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-02T14:52:53Z">2017-11-02T14:52:53 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-02T15:20:16Z">2017-11-02T15:20:16 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -213,11 +213,11 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Bambara</span>
 <span class="widespan">bm</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-02T10:04:47Z">2017-11-02T10:04:47 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-02T15:20:16Z">2017-11-02T15:20:16 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang bm UD-dev-branches/UD_Bambara/bam-ud-dev.conllu
+python tools/validate.py --lang bm UD-dev-branches/UD_Bambara/bm-ud-dev.conllu
 
 [Line                   5]: Unknown attribute-value pair ASpect=Perf
 [Line                   5]: Unknown attribute-value pair Valency=1
