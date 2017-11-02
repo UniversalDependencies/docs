@@ -940,7 +940,7 @@ and the car owned by Pekka is not explicitly present in the sentence.
 ~~~
 
 In Finnish, it is also possible to make comparisons without the comparative
-conjunction _kuin:_
+conjunction _kuin:_ “The living room is bigger than the kitchen.”
 
 ~~~ conllu
 1	Olohuone	_	NOUN	_	Case=Nom	4	nsubj:cop	_	Gloss=living-room
@@ -960,5 +960,14 @@ An equality comparison in Finnish [fi]: “I am reading the same book as Pekka.�
 4	kuin	_	SCONJ	_	_	5	case	_	Gloss=as
 5	Pekka	_	PROPN	_	Case=Nom	2	obl	_	Gloss=Pekka|SpaceAfter=No
 6	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+~~~
+
+Finnish [fi] superlative: “Finland's best cook”
+
+~~~ conllu
+1	Suomen	_	PROPN	_	Case=Gen	2	obl	_	Gloss=Finland's
+2	paras	_	ADJ	_	Degree=Sup	3	amod	_	Gloss=best
+3	kokki	_	NOUN	_	Case=Nom	0	root	_	Gloss=cook
 
 ~~~
