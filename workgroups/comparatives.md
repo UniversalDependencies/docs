@@ -791,3 +791,48 @@ If there is no number (because the indefinite article functions as the number
 5	ago	ago	ADP	_	_	4	case	_	_
 
 ~~~
+
+## More Examples
+
+French [fr] inequality: “Mathilde is kinder than you think.”
+
+~~~ conllu
+1	Mathilde	Mathilde	PROPN	_	Gender=Fem|Number=Sing	4	nsubj	_	Gloss=Mathilde
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Gloss=is
+3	plus	plus	ADV	_	Degree=Cmp	4	advmod	_	Gloss=more
+4	gentille	gentil	ADJ	_	Gender=Fem|Number=Sing	0	root	_	Gloss=kind
+5	que	que	SCONJ	_	_	9	mark	_	Gloss=than
+6	tu	tu	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	Gloss=you
+7	ne	ne	PART	_	Polarity=Neg	9	advmod	_	Gloss=not
+8	le	il	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	Gloss=it
+9	penses	penser	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	advcl	_	Gloss=think|SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+~~~
+
+French [fr] equality: “Patrick is as brave as Pierre.”
+
+~~~ conllu
+1	Patrick	Patrick	PROPN	_	Gender=Masc|Number=Sing	4	nsubj	_	Gloss=Patrick
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	Gloss=is
+3	aussi	aussi	ADV	_	Degree=Pos	4	advmod	_	Gloss=as
+4	courageux	courageux	ADJ	_	Gender=Masc|Number=Sing	0	root	_	Gloss=brave
+5	que	que	SCONJ	_	_	6	case	_	Gloss=as
+6	Pierre	Pierre	PROPN	_	Gender=Masc|Number=Sing	4	obl	_	Gloss=Pierre|SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+~~~
+
+Greek [el] morphological comparative: “Water is considered more important than oil.”
+
+~~~ conllu
+1	το	_	DET	_	Definite=Def|PronType=Art	2	det	_	Translit=to|Gloss=the
+2	νερό	_	NOUN	_	Case=Nom	3	nsubj	_	Translit=nero|Gloss=water
+3	θεωρείται	_	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Translit=theôreitai|Gloss=is-considered
+4	σημαντικότερο	_	ADJ	_	Degree=Cmp	3	xcomp	_	Translit=sîmantikotero|Gloss=more-important
+5	από	_	ADP	_	_	7	case	_	Translit=apo|Gloss=from
+6	το	_	DET	_	Definite=Def|PronType=Art	7	det	_	Translit=to|Gloss=the
+7	πετρέλαιο	_	NOUN	_	_	4	obl	_	Translit=petrelaio|Gloss=oil
+
+~~~
+
