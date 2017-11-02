@@ -136,7 +136,6 @@ Here is an example of the treebank metadata block from the [Czech README file](h
     Contributors: Zeman, Daniel; Hajič, Jan
     Contributing: elsewhere
     Contact: zeman@ufal.mff.cuni.cz
-    Paragraphs to web: 12
     ===============================================================================
 
 This block should be the last thing in the `README` file. The properties are as follows:
