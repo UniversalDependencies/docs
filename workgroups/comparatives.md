@@ -746,3 +746,48 @@ A Czech example:
 
 ~~~
 
+## “More than” as a Multi-Word Expression
+
+In certain contexts the comparative complement combines both the action or
+adjective that is being compared and the standard of comparison:
+
+* _more than 90 percent (= over 90 percent)_
+* _more than likely_
+* _Home prices have more than doubled in the past decade._
+
+In these cases we consider _more than_ to be a fixed multi-word expression
+because the two words are inseparable. One cannot say _*more percent than 90._
+
+~~~ conllu
+1	That	that	PRON	_	PronType=Dem	5	nsubj	_	_
+2	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+3	more	much	ADV	_	Degree=Cmp	5	advmod	_	_
+4	than	than	SCONJ	_	_	3	fixed	_	_
+5	likely	likely	ADJ	_	Degree=Pos	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
+
+~~~
+
+If the expression modifies a counted noun phrase, it attaches directly to the
+modified number:
+
+~~~ conllu
+1	more	much	ADV	_	Degree=Cmp	3	advmod	_	_
+2	than	than	SCONJ	_	_	1	fixed	_	_
+3	two	two	NUM	_	_	4	nummod	_	_
+4	years	year	NOUN	_	Number=Plur	0	root	_	_
+5	ago	ago	ADP	_	_	4	case	_	_
+
+~~~
+
+If there is no number (because the indefinite article functions as the number
+“one”), it attaches directly to the head noun:
+
+~~~ conllu
+1	more	much	ADV	_	Degree=Cmp	4	advmod	_	_
+2	than	than	SCONJ	_	_	1	fixed	_	_
+3	a	a	DET	_	Definite=Ind|PronType=Art	4	det	_	_
+4	year	year	NOUN	_	Number=Sing	0	root	_	_
+5	ago	ago	ADP	_	_	4	case	_	_
+
+~~~
