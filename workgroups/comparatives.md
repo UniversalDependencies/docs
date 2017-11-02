@@ -606,6 +606,8 @@ are otherwise used with equality comparisons, as in this English example:
 
 ~~~
 
+## Ellipsis in Comparative Constructions
+
 Very commonly the complement clause in a comparative undergoes various amounts
 of partial reduction or ellipsis, sometimes to a quite extreme extent. If the
 head is elided, then the functional element can be promoted:
@@ -731,7 +733,6 @@ A Czech example:
 # sent_id = cmpr9406-001-p4s5
 # text = Ve skutečnosti to sice trvá zhruba minutu, protože doba přenosu více závisí na stavu telefonní linky než na rychlosti přístroje, ale i tak je přenos informace faxem zhruba třikrát rychlejší než řeč.
 # orig_file_sentence cmpr9406_001#8
-1=12
 1	více	hodně	ADV	Dg-------2A----	Degree=Cmp|Polarity=Pos	2	advmod	_	Gloss=more
 2	závisí	záviset	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Gloss=depends
 3	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	4	case	_	Gloss=on
