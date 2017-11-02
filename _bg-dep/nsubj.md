@@ -4,9 +4,6 @@ title: 'nsubj'
 shortdef: 'nominal subject'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `nsubj`.
-
 A nominal subject is a nominal phrase which is the syntactic subject of a clause;
 in Bulgarian, the phrase is condsidered to be in nominative (in spite of the fact that nouns in Bulgarian do not have declension) .
 (See [csubj]() for when the subject is clausal.

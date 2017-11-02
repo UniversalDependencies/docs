@@ -4,9 +4,6 @@ title: 'xcomp'
 shortdef: 'open clausal complement'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `xcomp`.
-
 An open clausal complement (`xcomp`) of a verb or an adjective is a
 predicative or clausal complement without its own subject. The
 reference of the subject is necessarily determined by an argument

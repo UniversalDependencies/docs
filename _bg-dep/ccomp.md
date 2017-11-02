@@ -4,9 +4,6 @@ title: 'ccomp'
 shortdef: 'clausal complement'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `ccomp`.
-
 A clausal complement of a verb or adjective is a dependent clause 
 which is a core argument. That is, it functions like an object of the verb, or
 adjective.
