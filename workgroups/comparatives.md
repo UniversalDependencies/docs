@@ -971,3 +971,15 @@ Finnish [fi] superlative: “Finland's best cook”
 3	kokki	_	NOUN	_	Case=Nom	0	root	_	Gloss=cook
 
 ~~~
+
+A phrase headed by a superlative adjective can act as a noun phrase, e.g.,
+the subject of the sentence: “The most beautiful of flowers was on the windowsill.”
+
+~~~ conllu
+1	Kukista	_	NOUN	_	Case=Ela	2	obl	_	Gloss=from-flowers
+2	kaunein	_	ADJ	_	Degree=Sup	4	nsubj:cop	_	Gloss=most-beautiful
+3	oli	_	AUX	_	Tense=Past	4	cop	_	Gloss=was
+4	ikkunalaudalla	_	NOUN	_	Case=Ade	0	root	_	Gloss=on-windowsill|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+~~~
