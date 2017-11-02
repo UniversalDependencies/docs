@@ -100,6 +100,8 @@ The new conversion has been performed by Joakim Nivre and Aaron Smith at Uppsala
 * 2015-05-15 v1.1
   * Added lemmas
   * Corrected tokenization in sentences 123 and 456
+* 2015-01-15 v1.0
+  * First release in UD
 
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 (described in more detail below)
