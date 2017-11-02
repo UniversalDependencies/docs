@@ -983,3 +983,13 @@ the subject of the sentence: “The most beautiful of flowers was on the windows
 5	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
 ~~~
+
+Egyptian [egy]: “the one who is older than me”
+
+~~~ conllu
+1	𓅮	_	PRON	_	PronType=Dem	0	root	_	Translit=pa|Gloss=the-one
+2	𓉻𓏛	_	ADJ	_	_	1	acl	_	Translit=āa|Gloss=who-is-old
+3	𓂋	_	ADP	_	_	4	case	_	Translit=er|Gloss=than
+4	𓀀	_	PRON	_	Number=Sing|Person=1|PronType=Prs	2	obl	_	Translit=ȧ|Gloss=I
+
+~~~
