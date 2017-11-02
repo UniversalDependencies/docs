@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-02T13:41:59Z">2017-11-02T13:41:59 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-02T13:43:44Z">2017-11-02T13:43:44 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2901,11 +2901,11 @@ Syntax errors: 5
 <span class="doublewidespan" style="padding-left:3em">UD Marathi</span>
 <span class="widespan">mr</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-01T16:20:52Z">2017-11-01T16:20:52 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-02T13:43:43Z">2017-11-02T13:43:43 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang mr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Marathi/mr-ud-dev.conllu
+python tools/validate.py --lang mr UD-dev-branches/UD_Marathi/mr-ud-dev.conllu
 
 [Line                   159]: Unknown attribute-value pair Case=Inst
 [Line                   543]: Unknown attribute-value pair Case=Inst
@@ -2915,7 +2915,7 @@ Morpho errors: 2
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang mr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Marathi/mr-ud-test.conllu
+python tools/validate.py --lang mr UD-dev-branches/UD_Marathi/mr-ud-test.conllu
 
 [Line                   109]: Unknown attribute-value pair Case=Inst
 [Line                   472]: Unknown attribute-value pair Case=Inst
@@ -2927,30 +2927,22 @@ Morpho errors: 4
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang mr /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Marathi/mr-ud-train.conllu
+python tools/validate.py --lang mr UD-dev-branches/UD_Marathi/mr-ud-train.conllu
 
 [Line                   203]: Unknown attribute-value pair VerbForm=Supine
 [Line                   221]: Unknown attribute-value pair Case=Soc
-[Line                   679]: Unknown attribute-value pair Case=Inst
-[Line                   991]: Unknown attribute-value pair Case=Inst
-[Line                   996]: Unknown attribute-value pair Case=Inst
-[Line                   1070]: Unknown attribute-value pair Case=Inst
 [Line                   1335]: Unknown attribute-value pair VerbForm=Supine
-[Line                   1392]: Unknown attribute-value pair Case=Inst
 [Line                   1394]: Unknown attribute-value pair VerbForm=Supine
 [Line                   2077]: Unknown attribute-value pair VerbForm=Supine
-[Line                   2156]: Unknown attribute-value pair Case=Inst
 [Line                   2394]: Unknown attribute-value pair VerbForm=Supine
-[Line                   2599]: Unknown attribute-value pair Case=Inst
-[Line                   2628]: Unknown attribute-value pair Case=Inst
 [Line                   2974]: Unknown attribute-value pair VerbForm=Supine
 [Line                   3173]: Unknown attribute-value pair Case=Soc
-[Line                   3214]: Unknown attribute-value pair Case=Inst
 [Line                   3392]: Unknown attribute-value pair Case=Soc
 [Line                   3393]: Unknown attribute-value pair VerbForm=Supine
-...suppressing further errors regarding Morpho
-*** FAILED *** with 23 errors
-Morpho errors: 23
+[Line                   3656]: Unknown attribute-value pair Case=Soc
+[Line                   4221]: Unknown attribute-value pair VerbForm=Supine
+*** FAILED *** with 12 errors
+Morpho errors: 12
 
 
 ******************
