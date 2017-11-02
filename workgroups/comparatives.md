@@ -939,3 +939,14 @@ and the car owned by Pekka is not explicitly present in the sentence.
 
 ~~~
 
+In Finnish, it is also possible to make comparisons without the comparative
+conjunction _kuin:_
+
+~~~ conllu
+1	Olohuone	_	NOUN	_	Case=Nom	4	nsubj:cop	_	Gloss=living-room
+2	on	_	AUX	_	_	4	cop	_	Gloss=is
+3	keittiötä	_	NOUN	_	Case=Par	4	obl	_	Gloss=than-kitchen
+4	suurempi	_	ADJ	_	Degree=Cmp	0	root	_	Gloss=bigger|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+~~~
