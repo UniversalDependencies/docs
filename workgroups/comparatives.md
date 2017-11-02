@@ -886,7 +886,7 @@ Russian [ru]: “Misha is smarter than his brother.”
 Russian [ru]: “Misha is the smartest of them all.”
 
 ~~~ conllu
-1	Миша	Миша	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Translit=Miša|Gloss=Misha
+1	Миша	Миша	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	Translit=Miša|Gloss=Misha
 2	самый	самый	ADJ	_	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	3	amod	_	Translit=samyj|Gloss=most
 3	умный	умный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	Translit=umnyj|Gloss=smart
 4	из	из	ADP	_	_	5	case	_	Translit=iz|Gloss=from
@@ -908,6 +908,18 @@ Russian [ru]: “Misha is as smart as his brother.”
 8	его	его	DET	_	Gender[psor]=Masc|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	Translit=ego|Gloss=his
 9	брат	брат	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	obl	_	Translit=brat|Gloss=brother|SpaceAfter=No
 10	.	.	PUNCT	_	_	4	punct	_	Translit=.|Gloss=.
+
+~~~
+
+Finnish [fi]: “The kitchen is smaller than the living room.”
+
+~~~ conllu
+1	Keittiö	_	NOUN	_	Case=Nom	3	nsubj:cop	_	Gloss=kitchen
+2	on	_	AUX	_	_	3	cop	_	Gloss=is
+3	pienempi	_	ADJ	_	Degree=Cmp	0	root	_	Gloss=smaller
+4	kuin	_	SCONJ	_	_	5	case	_	Gloss=than
+5	olohuone	_	NOUN	_	Case=Nom	3	obl	_	Gloss=living-room|SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 ~~~
 
