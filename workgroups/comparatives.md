@@ -895,3 +895,19 @@ Russian [ru]: “Misha is the smartest of them all.”
 
 ~~~
 
+Russian [ru]: “Misha is as smart as his brother.”
+
+~~~ conllu
+1	Миша	Миша	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Translit=Miša|Gloss=Misha
+2	так	так	ADV	_	PronType=Dem	4	advmod	_	Translit=tak|Gloss=so
+3	же	же	PART	_	_	2	discourse	_	Translit=že|Gloss=then
+4	умен	умный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	0	root	_	Translit=umen|Gloss=smart|SpaceAfter=No
+5	,	,	PUNCT	_	_	9	punct	_	Translit=,|Gloss=,
+6	как	как	ADV	_	PronType=Rel	9	case	_	Translit=kak|Gloss=how
+7	и	и	CCONJ	_	_	9	cc	_	Translit=i|Gloss=also
+8	его	его	DET	_	Gender[psor]=Masc|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	Translit=ego|Gloss=his
+9	брат	брат	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	obl	_	Translit=brat|Gloss=brother|SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	Translit=.|Gloss=.
+
+~~~
+
