@@ -861,3 +861,13 @@ Greek [el] clausal standard of comparison: “He contributes more than he receiv
 
 ~~~
 
+Russian [ru]: “Misha is smarter than his brother.”
+
+~~~ conllu
+1	Миша	Миша	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	Translit=Miša|Gloss=Misha
+2	умнее	умный	ADJ	_	Degree=Cmp	0	root	_	Translit=umnee|Gloss=smarter
+3	брата	брат	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	obl	_	Translit=brata|Gloss=of-brother|SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	Translit=.|Gloss=.
+
+~~~
+
