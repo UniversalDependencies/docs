@@ -66,9 +66,10 @@ The `README` file should minimally contain the following information:
 
 1. A description of the treebank and its origin (creation method, data sources, etc.)
 2. A description of how the data was split into training, development and test sets
-3. Acknowledgments and references that should be cited when using the treebank
-4. A [changelog](http://en.wikipedia.org/wiki/Changelog) section for treebanks that will be released for the second (or subsequent) time
-5. A machine-readable section with treebank metadata. This is described below.
+3. If there are multiple genres/domains, can they be told apart by sentence ids? Does the treebank consist of complete documents, or just randomly shuffled sentences?
+4. Acknowledgments and references that should be cited when using the treebank
+5. A [changelog](http://en.wikipedia.org/wiki/Changelog) section for treebanks that will be released for the second (or subsequent) time
+6. A machine-readable section with treebank metadata. This is described below.
 
 MarkDown uses the `#` character to mark section headings. Several sections with fixed names are expected in every `README`
 and will be searched for by various scripts. Use the following template (from Swedish) to adjust your `README`.
@@ -79,32 +80,29 @@ and _Acknowledgments._
 <pre>
 # Summary
 
-UD Swedish-TP is a conversion of the Prose section of Talbanken, originally annotated in the MAMBA annotation scheme, and consisting
-of a variety of informative text genres, including textbooks, information brochures and newspaper articles. 
+UD Swedish-TP is a conversion of the Prose section of Talbanken, originally annotated in the MAMBA annotation scheme,
+and consisting of a variety of informative text genres, including textbooks, information brochures and newspaper articles. 
 
 # Introduction
 
-UD Swedish-TP is a conversion of the Prose section of Talbanken (Einarsson, 1976), originally annotated by a team led by Ulf Teleman
-at Lund University according to the MAMBA annotation scheme (Teleman, 1974). It consists of roughly 6,000 sentences and 95,000 tokens 
-taken from a variety of informative text genres, including textbooks, information brochures, and newspaper articles. The syntactic annotation 
-is converted directly from the original MAMBA annotation, while the morphological annotation is based on the reannotation performed when 
-incorporating Talbanken into the Swedish Treebank (Nivre and Megyesi, 2007). 
+UD Swedish-TP is a conversion of the Prose section of Talbanken (Einarsson, 1976), originally annotated…
 
 # Acknowledgments 
 
-The new conversion has been performed by Joakim Nivre and Aaron Smith at Uppsala University. We thank everyone who has been involved 
-in previous conversion efforts at Växjö University and Uppsala University, including Bengt Dahlqvist, Sofia Gustafson-Capkova, Johan Hall,
-Anna Sågvall Hein, Beáta Megyesi, Jens Nilsson, and Filip Salomonsson. Special thanks also to Lars Borin and Markus Forsberg at 
-Språkbanken for help with the lemmatization. Finally, we owe a huge debt to the team who produced the original treebank in the 1970s.</pre>
+The new conversion has been performed by Joakim Nivre and Aaron Smith at Uppsala University. We thank everyone who…
 
-For previously released corpora, the README file should also include a "[changelog](http://en.wikipedia.org/wiki/Changelog)" section summarizing changes between versions e.g. as follows
+# (possibly any number of extra sections)
 
-<pre>
-Changelog
+…
 
-2015-05-15 v1.1
-    * Added lemmas
-    * Corrected tokenization in sentences 123 and 456
+# Changelog
+
+* 2015-05-15 v1.1
+  * Added lemmas
+  * Corrected tokenization in sentences 123 and 456
+
+=== Machine-readable metadata (DO NOT REMOVE!) ================================
+(described in more detail below)
 </pre>
 
 ## Treebank metadata
