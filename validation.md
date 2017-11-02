@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-02T17:05:16Z">2017-11-02T17:05:16 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-02T17:06:00Z">2017-11-02T17:06:00 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1722,18 +1722,14 @@ python tools/validate.py --lang fr_pud UD-dev-branches/UD_French-PUD/fr_pud-ud-t
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD French-ParTUT</span>
 <span class="widespan">fr partut</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-02T17:02:22Z">2017-11-02T17:02:22 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-02T17:05:58Z">2017-11-02T17:05:58 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang fr_partut UD-dev-branches/UD_French-ParTUT/fr_partut-ud-dev.conllu
 
-[Tree number 62 on line 1716]: HEAD == ID for 4
-[Tree number 62 on line 1716]: Non-tree structure. Words 3,4 are not reachable from the root 0.
-*** FAILED *** with 2 errors
-Format errors: 1
-Syntax errors: 1
+*** PASSED ***
 
 
 ******************
