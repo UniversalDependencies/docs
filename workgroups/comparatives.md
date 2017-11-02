@@ -923,3 +923,19 @@ Finnish [fi]: “The kitchen is smaller than the living room.”
 
 ~~~
 
+Finnish [fi] non-projective: “Matti has a bigger car than Pekka.”
+The example also shows that comparative structures are often elliptical in
+some way. The sentence does not compare Matti and Pekka but rather their cars,
+and the car owned by Pekka is not explicitly present in the sentence.
+
+~~~ conllu
+1	Matilla	_	PROPN	_	Case=Ade	2	nmod:own	_	Gloss=at-Matti
+2	on	_	AUX	_	_	0	root	_	Gloss=is
+3	isompi	_	ADJ	_	Degree=Cmp	4	amod	_	Gloss=bigger
+4	auto	_	NOUN	_	Case=Nom	2	nsubj	_	Gloss=car
+5	kuin	_	SCONJ	_	_	6	case	_	Gloss=than
+6	Pekalla	_	PROPN	_	Case=Ade	3	obl	_	Gloss=at-Pekka|SpaceAfter=No
+7	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+~~~
+
