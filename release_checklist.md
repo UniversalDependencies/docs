@@ -139,9 +139,11 @@ Here is an example of the treebank metadata block from the [Czech README file](h
     Paragraphs to web: 12
     ===============================================================================
 
-This block should be the first thing in the README file. The properties are as follows:
+This block should be the last thing in the `README` file. The properties are as follows:
 
-* `Data available since` can be `UD v1.0`, `UD v1.1`, `UD v1.2`, `UD v1.3`, `UD v1.4`, `UD v2.0` and `UD v2.1`.
+* `Data available since` can be `UD v1.0`, `UD v1.1`, `UD v1.2`, `UD v1.3`, `UD v1.4`, `UD v2.0`, `UD v2.1` etc.
+  Pick the number of the first release where this treebank appears.
+  Do not change it when the treebank is released the next time.
 * `License`: anything containing the string `BY-NC-SA` will be given the CC non-commercial logo, `BY-SA` or `BY` the CC logo, and `GNU` the GNU logo. To add any other license, please provide a suitable icon to ginter@cs.utu.fi and zeman@ufal.mff.cuni.cz.
   * `Includes text`: Most treebanks should say `yes` here. But there are a few instances where
     the license of the underlying text does not allow redistribution. Here, the UD repository
@@ -165,16 +167,12 @@ This block should be the first thing in the README file. The properties are as f
   * `XPOS` ... `manual native | automatic | not available`
   * `Features` ... `manual native | converted from manual | automatic | not available`
   * `Relations` ... `manual native | converted from manual`
-* `Contributors`: the list of contributors to be included with the data release and in the LINDAT download page. This is a semicolon-separated list where every name is in the `Last, First` form and the readme file should be utf-8 encoded to make sure special characters are preserved correctly.
+* `Contributors`: the list of contributors to be included with the data release and in the LINDAT download page. This is a semicolon-separated list where every name is in the `Last, First` form and the `README` file should be utf-8 encoded to make sure special characters are preserved correctly.
 * `Contributing`:
   * `here` ... The changes are done directly in the dev branch of the UD repository. Bugs can be fixed via pull requests.
   * `elsewhere` ... Do not submit pull requests; create issues. Main development happens somewhere else. If there is a bug, either the original data or the conversion procedure must be fixed.
   * `to be adopted` ... The treebank currently misses a maintainer. If you know the language, please consider adopting the treebank.
 * `Contact`: please add an e-mail address where the current maintainer of the data can be contacted. You can also include several e-mail addresses separated by commas.
-* `Paragraphs to web`: typically, a part of the README file (but not the entire file) is automatically
-  copied to the treebank info page in the UD documentation. This field indicates how many paragraphs
-  immediately following the metadata should be copied. (The software actually just counts empty lines;
-  if there are two consecutive empty lines, an empty paragraph will be counted.)
 
 If you want to see what web content will be generated from your README file, run the
 `generate_treebank_hub.pl` script from the tools repository on your treebank folder,
