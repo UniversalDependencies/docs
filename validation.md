@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-03T14:48:57Z">2017-11-03T14:48:57 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-03T14:53:48Z">2017-11-03T14:53:48 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -882,7 +882,7 @@ python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Dutch-LassySmall</span>
 <span class="widespan">nl lassysmall</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:48:51Z">2017-11-03T14:48:51 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:53:41Z">2017-11-03T14:53:41 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2870,7 +2870,7 @@ python tools/validate.py --lang no_nynorsk UD-dev-branches/UD_Norwegian-Nynorsk/
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-NynorskLIA</span>
 <span class="widespan">no nynorsklia</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-30T14:48:46Z">2017-10-30T14:48:46 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:49:12Z">2017-11-03T14:49:12 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2895,7 +2895,7 @@ python tools/validate.py --lang no_nynorsklia UD-dev-branches/UD_Norwegian-Nynor
 <span class="doublewidespan" style="padding-left:3em">UD Old Church Slavonic</span>
 <span class="widespan">cu</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:52:13Z">2017-10-05T15:52:13 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:50:06Z">2017-11-03T14:50:06 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2927,7 +2927,7 @@ python tools/validate.py --lang cu UD-dev-branches/UD_Old_Church_Slavonic/cu-ud-
 <span class="doublewidespan" style="padding-left:3em">UD Old French</span>
 <span class="widespan">fro</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:52:20Z">2017-10-05T15:52:20 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:50:19Z">2017-11-03T14:50:19 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2938,7 +2938,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Persian</span>
 <span class="widespan">fa</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:53:14Z">2017-10-05T15:53:14 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:51:27Z">2017-11-03T14:51:27 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2970,25 +2970,25 @@ python tools/validate.py --lang fa UD-dev-branches/UD_Persian/fa-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Polish</span>
 <span class="widespan">pl</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-30T20:37:57Z">2017-10-30T20:37:57 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:52:26Z">2017-11-03T14:52:26 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Polish/pl-ud-dev.conllu
+python tools/validate.py --lang pl UD-dev-branches/UD_Polish/pl-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Polish/pl-ud-test.conllu
+python tools/validate.py --lang pl UD-dev-branches/UD_Polish/pl-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang pl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Polish/pl-ud-train.conllu
+python tools/validate.py --lang pl UD-dev-branches/UD_Polish/pl-ud-train.conllu
 
 *** PASSED ***
 
