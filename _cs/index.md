@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Czech UD'
-permalink: cs/overview/cs-hub.html
 udver: '2'
 ---
 
