@@ -140,9 +140,12 @@ body {
   overflow-y: scroll;
 }
 
+h1 {
+  margin-top: 2.5em;
+}
+
 h2 {
-/*  margin-top: 2em; */
-  margin-top: 0em;
+  margin-top: 2em;
 }
 
 h2.nomargin {
