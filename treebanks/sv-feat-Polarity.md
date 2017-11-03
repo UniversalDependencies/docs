@@ -27,6 +27,15 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 
 `Polarity` seems to be **lexical feature** of `ADV`. 100% lemmas (13) occur only with one value of `Polarity`.
 
+### `CCONJ`
+
+1 <tt><a href="sv-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `Polarity`.
+
+`CCONJ` tokens may have the following values of `Polarity`:
+
+* `Neg` (1; 100% of non-empty `Polarity`): <em>varken</em>
+* `EMPTY` (4275): <em>och, eller, som, men, än, både, utan, dels, såväl, samt</em>
+
 ### `PRON`
 
 1 <tt><a href="sv-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Polarity`.
@@ -37,13 +46,4 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 
 * `Neg` (1; 100% of non-empty `Polarity`): <em>sig</em>
 * `EMPTY` (5967): <em>det, som, man, de, sig, vi, den, du, detta, dem</em>
-
-### `CCONJ`
-
-1 <tt><a href="sv-pos-CCONJ.html">CCONJ</a></tt> tokens (0% of all `CCONJ` tokens) have a non-empty value of `Polarity`.
-
-`CCONJ` tokens may have the following values of `Polarity`:
-
-* `Neg` (1; 100% of non-empty `Polarity`): <em>varken</em>
-* `EMPTY` (4275): <em>och, eller, som, men, än, både, utan, dels, såväl, samt</em>
 
