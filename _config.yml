@@ -36,6 +36,8 @@ collections:
 #
 # Czech
 #
+  cs:
+    output: true
   cs-pos:
     output: true
     permalink: /cs/pos/:path.html
