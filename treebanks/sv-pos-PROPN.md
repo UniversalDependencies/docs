@@ -35,11 +35,11 @@ The 10 most frequent ambiguous types:  <em>Björn</em> (<tt><a href="sv-pos-PROP
   * <tt><a href="sv-pos-NOUN.html">NOUN</a></tt> 2: <em>Diagrammet överst på <b>s</b> 72 visar flerfamiljshusens fördelning på olika ägandekategorier .</em>
   * <tt><a href="sv-pos-PROPN.html">PROPN</a></tt> 1: <em>Palme och ( <b>s</b> ) fick lämna tillbaka en hel del kommuniströster som man ' lånade ' 68 .</em>
 * <em>Children</em>
-  * <tt><a href="sv-pos-PROPN.html">PROPN</a></tt> 1: <em>Publicerad i <b>Children</b> 1958 , Vol. 5 , 179-184 .</em>
   * <tt><a href="sv-pos-NOUN.html">NOUN</a></tt> 1: <em>7. För en närmare beskrivning av testmetoderna och resultaten , se A. I. Rabin : Infants and <b>Children</b> under Conditions of ' Intermittent ' Mothering in the Kibbutz .</em>
+  * <tt><a href="sv-pos-PROPN.html">PROPN</a></tt> 1: <em>Publicerad i <b>Children</b> 1958 , Vol. 5 , 179-184 .</em>
 * <em>Handelsbanken</em>
-  * <tt><a href="sv-pos-PROPN.html">PROPN</a></tt> 1: <em>Kvinnornas frånvaro har enligt <b>Handelsbanken</b> minskat under 60-talet , särskilt i Stockholm .</em>
   * <tt><a href="sv-pos-NOUN.html">NOUN</a></tt> 1: <em>Ett tjänstemannaföretag som Svenska <b>Handelsbanken</b> med 6000 anställda ( 60 procent kvinnor ) har extremt gynnsamma siffror för antalet frånvarodagar per anställd 1969 :</em>
+  * <tt><a href="sv-pos-PROPN.html">PROPN</a></tt> 1: <em>Kvinnornas frånvaro har enligt <b>Handelsbanken</b> minskat under 60-talet , särskilt i Stockholm .</em>
 * <em>I</em>
   * <tt><a href="sv-pos-ADP.html">ADP</a></tt> 266: <em><b>I</b> och med att kvinnan axlar mer krävande uppgifter får hon högre lön .</em>
   * <tt><a href="sv-pos-ADJ.html">ADJ</a></tt> 1: <em>1 <b>I</b> Kor. 7:2 .</em>
@@ -47,8 +47,8 @@ The 10 most frequent ambiguous types:  <em>Björn</em> (<tt><a href="sv-pos-PROP
   * <tt><a href="sv-pos-NUM.html">NUM</a></tt> 1: <em>De åldersgrupper , som lekcirkeln i första hand är tänkt för är - förutom babybarnen - småbarn ( 1-3 år ) , förskolebarn ( 4-6 år ) , skolbarn <b>I</b> ( 7-9 år ) och skolbarn II ( 10-12 år ) .</em>
   * <tt><a href="sv-pos-PROPN.html">PROPN</a></tt> 1: <em>De nationalitetsbeteckningar som bör användas i förbindelse med postnummer till utlandet är följande : Belgien B Danmark DK Finland SF Frankrike F Italien <b>I</b> Liechtenstein FL Norge N Schweiz CH Västtyskland D Österrike A</em>
 * <em>SKB</em>
-  * <tt><a href="sv-pos-PROPN.html">PROPN</a></tt> 1: <em>2 <b>SKB</b> , s. 421 .</em>
   * <tt><a href="sv-pos-NOUN.html">NOUN</a></tt> 1: <em>1 <b>SKB</b> , sid. 240 .</em>
+  * <tt><a href="sv-pos-PROPN.html">PROPN</a></tt> 1: <em>2 <b>SKB</b> , s. 421 .</em>
 * <em>Ännu</em>
   * <tt><a href="sv-pos-ADV.html">ADV</a></tt> 5: <em><b>Ännu</b> har vi tid att ändra den väg vi är inne på .</em>
   * <tt><a href="sv-pos-PROPN.html">PROPN</a></tt> 1: <em><b>Ännu</b> återstår den s k C14-undersökningen , genom vilken man definitivt skall datera fynden , men redan nu är man på riksantikvarieämbetet på det klara med att man gjort ett strålande kap .</em>
