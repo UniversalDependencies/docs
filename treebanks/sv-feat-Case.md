@@ -115,7 +115,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 49 <tt><a href="sv-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="sv-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (49; 100%), <tt><a href="sv-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (49; 100%), <tt><a href="sv-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (49; 100%), <tt><a href="sv-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (49; 100%).
+The most frequent other feature values with which `VERB` and `Case` co-occurred: <tt><a href="sv-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (49; 100%), <tt><a href="sv-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (49; 100%), <tt><a href="sv-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (49; 100%), <tt><a href="sv-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (49; 100%).
 
 `VERB` tokens may have the following values of `Case`:
 

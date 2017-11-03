@@ -83,7 +83,7 @@ The most frequent other feature values with which `PRON` and `Definite` co-occur
 
 4562 <tt><a href="sv-pos-ADJ.html">ADJ</a></tt> tokens (54% of all `ADJ` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="sv-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4556; 100%), <tt><a href="sv-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4129; 91%), <tt><a href="sv-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (3919; 86%), <tt><a href="sv-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (3919; 86%), <tt><a href="sv-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (3632; 80%).
+The most frequent other feature values with which `ADJ` and `Definite` co-occurred: <tt><a href="sv-feat-Case.html">Case</a></tt><tt>=Nom</tt> (4556; 100%), <tt><a href="sv-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4129; 91%), <tt><a href="sv-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (3919; 86%), <tt><a href="sv-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (3919; 86%), <tt><a href="sv-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (3632; 80%).
 
 `ADJ` tokens may have the following values of `Definite`:
 
@@ -115,7 +115,7 @@ The most frequent other feature values with which `NUM` and `Definite` co-occurr
 
 27 <tt><a href="sv-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="sv-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (27; 100%), <tt><a href="sv-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (27; 100%), <tt><a href="sv-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (27; 100%), <tt><a href="sv-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (27; 100%).
+The most frequent other feature values with which `VERB` and `Definite` co-occurred: <tt><a href="sv-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (27; 100%), <tt><a href="sv-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (27; 100%), <tt><a href="sv-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (27; 100%), <tt><a href="sv-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (27; 100%).
 
 `VERB` tokens may have the following values of `Definite`:
 

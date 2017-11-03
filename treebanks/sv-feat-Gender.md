@@ -81,7 +81,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 3141 <tt><a href="sv-pos-ADJ.html">ADJ</a></tt> tokens (37% of all `ADJ` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="sv-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3136; 100%), <tt><a href="sv-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3130; 100%), <tt><a href="sv-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (3030; 96%), <tt><a href="sv-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2578; 82%), <tt><a href="sv-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2578; 82%), <tt><a href="sv-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (2573; 82%).
+The most frequent other feature values with which `ADJ` and `Gender` co-occurred: <tt><a href="sv-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3136; 100%), <tt><a href="sv-feat-Case.html">Case</a></tt><tt>=Nom</tt> (3130; 100%), <tt><a href="sv-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (3030; 96%), <tt><a href="sv-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (2578; 82%), <tt><a href="sv-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (2578; 82%), <tt><a href="sv-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (2573; 82%).
 
 `ADJ` tokens may have the following values of `Gender`:
 
@@ -117,7 +117,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 27 <tt><a href="sv-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="sv-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (27; 100%), <tt><a href="sv-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (27; 100%), <tt><a href="sv-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (27; 100%), <tt><a href="sv-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (27; 100%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="sv-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (27; 100%), <tt><a href="sv-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (27; 100%), <tt><a href="sv-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (27; 100%), <tt><a href="sv-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (27; 100%).
 
 `VERB` tokens may have the following values of `Gender`:
 

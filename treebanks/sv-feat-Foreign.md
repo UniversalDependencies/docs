@@ -18,7 +18,7 @@ The feature is used with 5 part-of-speech tags: <tt><a href="sv-pos-NOUN.html">N
 
 28 <tt><a href="sv-pos-NOUN.html">NOUN</a></tt> tokens (0% of all `NOUN` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="sv-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (28; 100%), <tt><a href="sv-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (28; 100%), <tt><a href="sv-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (28; 100%), <tt><a href="sv-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (28; 100%).
+The most frequent other feature values with which `NOUN` and `Foreign` co-occurred: <tt><a href="sv-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (28; 100%), <tt><a href="sv-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (28; 100%), <tt><a href="sv-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (28; 100%), <tt><a href="sv-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (28; 100%).
 
 `NOUN` tokens may have the following values of `Foreign`:
 
@@ -31,7 +31,7 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 
 6 <tt><a href="sv-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Foreign`.
 
-The most frequent other feature values with which `ADJ` and `Foreign` co-occurred: <tt><a href="sv-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="sv-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="sv-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="sv-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="sv-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="sv-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="sv-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (6; 100%).
+The most frequent other feature values with which `ADJ` and `Foreign` co-occurred: <tt><a href="sv-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="sv-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="sv-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="sv-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="sv-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="sv-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="sv-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (6; 100%).
 
 `ADJ` tokens may have the following values of `Foreign`:
 
