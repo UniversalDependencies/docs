@@ -154,7 +154,7 @@ This block should be the last thing in the `README` file. The properties are as 
 * Source of annotation of lemmas, POS tags, morphological features and dependency relations.
   There are several possible values:
   * `manual native` ... means that the annotation was done manually, directly in the UD annotation scheme.
-    Note that manual verification of automatic annotation (e.g. you pre-parse the texts before you give it to humans)
+    Note that manual verification of automatic annotation (e.g. you pre-parse the text before you give it to humans)
     counts as manual annotation.
   * `converted from manual` ... means that it was originally annotated in a non-UD scheme, then converted to UD by a program,
     but the converted annotation has not been verified by a human annotator.
