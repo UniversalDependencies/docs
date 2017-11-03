@@ -152,24 +152,31 @@ This block should be the last thing in the `README` file. The properties are as 
     channel. Such treebanks should say `no` here.
 * `Genre`: this is simply a space-separated list of genres which gets mapped into symbols in the table. The possible genres are listed in [this file](https://github.com/UniversalDependencies/docs/blob/pages-source/gen_index/genre_symbols.json) in the repository. If you don't see yours, just edit the file on GitHub and add your genre, choosing one of the symbols from [the *FontAwesome* list](https://fortawesome.github.io/Font-Awesome/icons/). Please make sure you get the syntax right, since this is a machine-readable JSON file. It is also possible to not add the genre to the `genre_symbols.json` file, in which case the default symbol will be used automatically. The genre name will still remain visible in the mouse-over tooltip.
 * Source of annotation of lemmas, POS tags, morphological features and dependency relations.
-  There are up to four possible values: `manual native`, `converted from manual`, `automatic` and `not available`.
-  Manual native means that the annotation was done manually, directly in the UD annotation scheme.
-  Note that manual verification of automatic annotation (e.g. you pre-parse the texts before you give it to humans)
-  counts as manual annotation.
-  Converted from manual means that it was originally annotated in a non-UD scheme, then converted to UD by a program,
-  but the converted annotation has not been verified by a human annotator.
-  Automatic means that the annotation was predicted by a program such as tagger or parser.
-  Not available means that this type of annotation is not present.
-  Note that some values are available only for some types of annotation.
+  There are several possible values:
+  * `manual native` ... means that the annotation was done manually, directly in the UD annotation scheme.
+    Note that manual verification of automatic annotation (e.g. you pre-parse the texts before you give it to humans)
+    counts as manual annotation.
+  * `converted from manual` ... means that it was originally annotated in a non-UD scheme, then converted to UD by a program,
+    but the converted annotation has not been verified by a human annotator.
+  * `converted from manual and checked` ... significant spot-checking and manual corrections occurred after the conversion;
+    however, it does not qualify as full manual annotation because not all words were visited systematically.
+    This is an intermediate level between “converted from manual” and “manual native”.
+  * `automatic` ... means that the annotation was predicted by a program such as tagger or parser.
+  * `automatic and checked` ... significant spot-checking and manual corrections occurred after the automatic prediction;
+    however, it does not qualify as full manual annotation because not all words were visited systematically.
+    This is an intermediate level between “automatic” and “manual native”.
+  * `not available` ... means that this type of annotation is not present.
+* Note that some values are available only for some types of annotation.
   UPOS tags and relations must always be available and cannot be automatic.
-  * `Lemmas` ... `manual native | converted from manual | automatic | not available`
-  * `UPOS` ... `manual native | converted from manual`
-  * `XPOS` ... `manual native | automatic | not available`
-  * `Features` ... `manual native | converted from manual | automatic | not available`
-  * `Relations` ... `manual native | converted from manual`
+  * `Lemmas` ... `manual native | converted from manual (and checked) | automatic (and checked) | not available`
+  * `UPOS` ... `manual native | converted from manual (and checked)`
+  * `XPOS` ... `manual native | automatic (and checked) | not available`
+  * `Features` ... `manual native | converted from manual (and checked) | automatic (and checked) | not available`
+  * `Relations` ... `manual native | converted from manual (and checked)`
 * `Contributors`: the list of contributors to be included with the data release and in the LINDAT download page. This is a semicolon-separated list where every name is in the `Last, First` form and the `README` file should be utf-8 encoded to make sure special characters are preserved correctly.
 * `Contributing`:
   * `here` ... The changes are done directly in the dev branch of the UD repository. Bugs can be fixed via pull requests.
+  * `here source` ... The changes are done in the UD repository but not directly in the final CoNLL-U files. Instead, there is a folder called `not-to-release` where source files have to be located and fixed.
   * `elsewhere` ... Do not submit pull requests; create issues. Main development happens somewhere else. If there is a bug, either the original data or the conversion procedure must be fixed.
   * `to be adopted` ... The treebank currently misses a maintainer. If you know the language, please consider adopting the treebank.
 * `Contact`: please add an e-mail address where the current maintainer of the data can be contacted. You can also include several e-mail addresses separated by commas.
