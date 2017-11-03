@@ -5,6 +5,8 @@ permalink: cs/overview/introduction.html
 udver: '2'
 ---
 
+<strong>See the new overview of Czech-specific guidelines [here](cs-hub.html).</strong>
+
 # Introduction
 
 The Czech UD treebank is based on the [Prague Dependency Treebank 3.0](http://ufal.mff.cuni.cz/pdt3.0) (PDT),
@@ -46,7 +48,7 @@ Jan Štěpánek, and Šárka Zikánová.
 * Eduard Bejček, Eva Hajičová, Jan Hajič, Pavlína Jínová, Václava Kettnerová, Veronika Kolářová,
   Marie Mikulová, Jiří Mírovský, Anna Nedoluzhko, Jarmila Panevová, Lucie Poláková, Magda Ševčíková,
   Jan Štěpánek, and Šárka Zikánová. 2013.
-  Prague Dependency Treebank 3.0, LINDAT/CLARIN digital library at Institute of Formal and Applied Linguistics, Charles University in Prague, 
+  Prague Dependency Treebank 3.0, LINDAT/CLARIN digital library at Institute of Formal and Applied Linguistics, Charles University in Prague,
   [http://hdl.handle.net/11858/00-097C-0000-0023-1AAF-3](http://hdl.handle.net/11858/00-097C-0000-0023-1AAF-3).
 * Eduard Bejček, Jarmila Panevová, Jan Popelka, Pavel Straňák, Magda Ševčíková, Jan Štěpánek, and Zdeněk Žabokrtský. 2012.
   [Prague Dependency Treebank 2.5 – a revisited version of PDT 2.0](http://ufal.mff.cuni.cz/pdt3.0/doc/03_COLING_2012.pdf).

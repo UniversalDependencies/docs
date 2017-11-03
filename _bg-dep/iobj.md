@@ -4,9 +4,6 @@ title: 'iobj'
 shortdef: 'indirect object'
 ---
 
-This document is a placeholder for the language-specific documentation
-for `iobj`.
-
 The indirect object of a verb is any nominal phrase that is a core
 argument of the verb but is not its subject or [direct object](obj).
 A prototypical example is the recipient of ditransitive verbs of

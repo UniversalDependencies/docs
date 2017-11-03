@@ -16,7 +16,3 @@ ROOT Când a intrat preotul , toți în genunchi .
 root(ROOT, genunchi)
 nsubj(genunchi, toți)
 ~~~
-
-
-This document is a placeholder for the language-specific documentation
-for `orphan`.

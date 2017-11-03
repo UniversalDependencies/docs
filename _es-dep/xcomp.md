@@ -4,7 +4,7 @@ title: 'xcomp'
 shortdef: 'open clausal complement'
 ---
 
-This document is a placeholder for the language-specific documentation
+This document is a stub for the language-specific documentation
 for `xcomp`.
 
 ~~~ sdparse
