@@ -482,6 +482,11 @@ h4, h5, h6 {
     width: 16%;
 }
 
+.triplewidespan {
+    display: inline-block;
+    width: 24%;
+}
+
 
 .tagspan {
     display: inline-block;
