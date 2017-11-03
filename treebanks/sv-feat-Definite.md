@@ -135,6 +135,6 @@ The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>ADJ --[<tt><a href="sv-dep-conj.html">conj</a></tt>]--> ADJ</tt> (153; 78%),
 <tt>NOUN --[<tt><a href="sv-dep-obl.html">obl</a></tt>]--> NOUN</tt> (133; 56%),
 <tt>NOUN --[<tt><a href="sv-dep-acl.html">acl</a></tt>]--> NOUN</tt> (55; 57%),
-<tt>PRON --[<tt><a href="sv-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (23; 59%),
-<tt>PRON --[<tt><a href="sv-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (23; 66%).
+<tt>PRON --[<tt><a href="sv-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (23; 66%),
+<tt>PRON --[<tt><a href="sv-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (23; 59%).
 

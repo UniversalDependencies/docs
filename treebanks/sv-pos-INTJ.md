@@ -15,7 +15,7 @@ The 10 most frequent `INTJ` types:  <em>ja, Jo, nej, ha, ho, Javisst, Jodå, Nå
 
 The 10 most frequent ambiguous lemmas: <em>ja</em> (<tt><a href="sv-pos-INTJ.html">INTJ</a></tt> 11, <tt><a href="sv-pos-NOUN.html">NOUN</a></tt> 1), <em>ha</em> (<tt><a href="sv-pos-VERB.html">VERB</a></tt> 589, <tt><a href="sv-pos-AUX.html">AUX</a></tt> 577, <tt><a href="sv-pos-INTJ.html">INTJ</a></tt> 2), <em>visst</em> (<tt><a href="sv-pos-ADV.html">ADV</a></tt> 4, <tt><a href="sv-pos-INTJ.html">INTJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>ja</em> (<tt><a href="sv-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="sv-pos-NOUN.html">NOUN</a></tt> 1), <em>ha</em> (<tt><a href="sv-pos-VERB.html">VERB</a></tt> 117, <tt><a href="sv-pos-AUX.html">AUX</a></tt> 25, <tt><a href="sv-pos-INTJ.html">INTJ</a></tt> 1), <em>visst</em> (<tt><a href="sv-pos-ADJ.html">ADJ</a></tt> 13, <tt><a href="sv-pos-ADV.html">ADV</a></tt> 1, <tt><a href="sv-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>ja</em> (<tt><a href="sv-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="sv-pos-NOUN.html">NOUN</a></tt> 1), <em>ha</em> (<tt><a href="sv-pos-VERB.html">VERB</a></tt> 117, <tt><a href="sv-pos-AUX.html">AUX</a></tt> 25, <tt><a href="sv-pos-INTJ.html">INTJ</a></tt> 1), <em>visst</em> (<tt><a href="sv-pos-ADJ.html">ADJ</a></tt> 13, <tt><a href="sv-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="sv-pos-ADV.html">ADV</a></tt> 1)
 
 
 * <em>ja</em>
@@ -27,8 +27,8 @@ The 10 most frequent ambiguous types:  <em>ja</em> (<tt><a href="sv-pos-INTJ.htm
   * <tt><a href="sv-pos-INTJ.html">INTJ</a></tt> 1: <em>' Ha <b>ha</b> .</em>
 * <em>visst</em>
   * <tt><a href="sv-pos-ADJ.html">ADJ</a></tt> 13: <em>Man kan med fog påstå att ett <b>visst</b> spekulationsbygge ägde rum .</em>
-  * <tt><a href="sv-pos-ADV.html">ADV</a></tt> 1: <em>Avlöning , säger någon , <b>visst</b> får jag avlöning , min man lägger alla pengarna på bordet då han kommer hem på avlöningsdagen .</em>
   * <tt><a href="sv-pos-INTJ.html">INTJ</a></tt> 1: <em>Jo <b>visst</b> har vi sjukförsäkring , sex kronor om dagen .</em>
+  * <tt><a href="sv-pos-ADV.html">ADV</a></tt> 1: <em>Avlöning , säger någon , <b>visst</b> får jag avlöning , min man lägger alla pengarna på bordet då han kommer hem på avlöningsdagen .</em>
 
 ## Morphology
 
