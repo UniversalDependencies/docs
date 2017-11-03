@@ -41,7 +41,7 @@ Monsieur Dupont habitait près de la ligne Maginot. \n Mister Dupont lived close
 nmod:appos(Monsieur, Dupont)
 ~~~
 
-N.B.: for phrases like "la ville de Paris" we use the [nmod]() relation because of the preposition (which cannot be removed *la ville Paris)
+N.B.: for phrases like "la ville de Paris" the [nmod]() relation seems more appropriate because of the preposition (which cannot be removed *la ville Paris)
 
 ~~~ sdparse
 la ville de Paris
@@ -49,7 +49,7 @@ nmod(ville, Paris)
 case(Paris, de)
 ~~~
 
-We use `nmod:appos`, instead of flat, for "le président Macron", which follows in French the same pattern as other `nmod:appos`. The relation is also used between first and second name:
+The `nmod:appos` relation is used instead of `flat`, for "le président Macron", which follows in French the same pattern as other `nmod:appos`. The relation is also used between first and second name:
 
 ~~~ sdparse
 le président Macron

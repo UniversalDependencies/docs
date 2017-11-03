@@ -5,7 +5,7 @@ shortdef: 'parataxis parenthesical'
 udver: '2'
 ---
 
-The `parataxis:parenth` relation is used for parenthetical clauses. They could constitute autonomous sentences but they are inserted within another illocutary unit.
+In FrenchSpoken, the `parataxis:parenth` relation is used for parenthetical clauses. They could constitute autonomous sentences but they are inserted within another illocutary unit.
 
 ~~~ sdparse
 Les enfants ont le droit d'avoir du temps libre ( voir ci-dessous ) \n Children have a right to free time ( see below )

@@ -39,4 +39,10 @@ Features are not currently implemented.
 
 ## UD Chinese-HK
 
-[Description not currently available.]
+### Lemmas
+
+Lemmas are not used in this treebank since Mandarin is majorly isolating.
+
+### Features
+
+Features are not used in this treebank since Mandarin is majorly isolating.

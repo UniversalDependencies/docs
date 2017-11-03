@@ -15,4 +15,4 @@ nsubj:expl(arrivé, il)
 nsubj:quasi(arrivé, malheur)
 ~~~
 
-When the other dependent of the impersonal construction's predicate is a clause, the [csubj:quasi]() relationis used.
+When the other dependent of the impersonal construction's predicate is a clause, the [csubj:quasi]() relation is used.

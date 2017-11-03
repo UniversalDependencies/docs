@@ -69,10 +69,20 @@ nmod(is-smarter, than-his-brother)
 
 ~~~ sdparse
 Миша умнее , чем брат . \n Misha is-smarter , than his-brother .
-amod(умнее, брат)
-amod(is-smarter, his-brother)
+nmod(умнее, брат)
+nmod(is-smarter, his-brother)
 case(брат, чем)
 case(his-brother, than)
+~~~
+
+~~~ sdparse
+Миша более опасен , чем Ваня . \n Misha is-more dangerous , than Vanya .
+nmod(опасен, Ваня)
+nmod(dangerous, Vanya)
+case(Ваня, чем)
+case(Vanya, than)
+advmod(опасен, более)
+advmod(dangerous, is-more)
 ~~~
 
 ~~~ sdparse
@@ -86,15 +96,23 @@ amod(smart, is-the-most)
 ~~~
 
 ~~~ sdparse
-Миша так же умен , как и его брат . \n Misha as then smart , as his brother .
-amod(умен, брат)
-amod(smart, brother)
+Миша так же умен , как и его брат . \n Misha so then smart , as his brother .
+nmod(умен, брат)
+nmod(smart, brother)
 case(брат, как)
-case(brother, as-17)
+case(brother, as)
 advmod(умен, так)
-advmod(smart, as-13)
-discourse(так, же)
-discourse(as-13, then)
+advmod(smart, so)
+fixed(так, же)
+fixed(so, then)
+~~~
+
+~~~ sdparse
+Миша умнее , чем хочет казаться . \n Misha is-smarter , than he-wants to-appear .
+advcl(умнее, хочет)
+advcl(is-smarter, he-wants)
+mark(хочет, чем)
+mark(he-wants, than)
 ~~~
 
 ## Noun phrases with quantifiers

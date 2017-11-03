@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-10-11T12:18:53Z">2017-10-11T12:18:53 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-03T14:53:48Z">2017-11-03T14:53:48 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -13,7 +13,7 @@ Regenerated: <time class="timeago" datetime="2017-10-11T12:18:53Z">2017-10-11T12
 <span class="doublewidespan" style="padding-left:3em">UD Afrikaans</span>
 <span class="widespan">af</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T14:32:49Z">2017-10-05T14:32:49 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T13:27:23Z">2017-11-03T13:27:23 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -45,7 +45,7 @@ python tools/validate.py --lang af UD-dev-branches/UD_Afrikaans/af-ud-train.conl
 <span class="doublewidespan" style="padding-left:3em">UD Amharic</span>
 <span class="widespan">am</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T14:32:55Z">2017-10-05T14:32:55 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T13:27:29Z">2017-11-03T13:27:29 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -56,7 +56,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Ancient Greek</span>
 <span class="widespan">grc</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T14:34:02Z">2017-10-05T14:34:02 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T13:28:37Z">2017-11-03T13:28:37 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -88,7 +88,7 @@ python tools/validate.py --lang grc UD-dev-branches/UD_Ancient_Greek/grc-ud-trai
 <span class="doublewidespan" style="padding-left:3em">UD Ancient Greek-PROIEL</span>
 <span class="widespan">grc proiel</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T14:35:21Z">2017-10-05T14:35:21 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T13:29:58Z">2017-11-03T13:29:58 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -120,7 +120,7 @@ python tools/validate.py --lang grc_proiel UD-dev-branches/UD_Ancient_Greek-PROI
 <span class="doublewidespan" style="padding-left:3em">UD Arabic</span>
 <span class="widespan">ar</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T14:36:53Z">2017-10-05T14:36:53 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T13:31:35Z">2017-11-03T13:31:35 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -152,7 +152,7 @@ python tools/validate.py --lang ar UD-dev-branches/UD_Arabic/ar-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Arabic-NYUAD</span>
 <span class="widespan">ar nyuad</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T14:39:05Z">2017-10-05T14:39:05 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T13:33:53Z">2017-11-03T13:33:53 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -184,7 +184,7 @@ python tools/validate.py --lang ar_nyuad UD-dev-branches/UD_Arabic-NYUAD/ar_nyua
 <span class="doublewidespan" style="padding-left:3em">UD Arabic-PUD</span>
 <span class="widespan">ar pud</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T14:40:45Z">2017-10-05T14:40:45 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T13:35:39Z">2017-11-03T13:35:39 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -202,7 +202,7 @@ python tools/validate.py --lang ar_pud UD-dev-branches/UD_Arabic-PUD/ar_pud-ud-t
 <span class="doublewidespan" style="padding-left:3em">UD Armenian</span>
 <span class="widespan">hy</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T14:40:50Z">2017-10-05T14:40:50 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T13:35:44Z">2017-11-03T13:35:44 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -210,10 +210,101 @@ No data
 </pre>
 </div>
 <div>
+<span class="doublewidespan" style="padding-left:3em">UD Bambara</span>
+<span class="widespan">bm</span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T13:36:23Z">2017-11-03T13:36:23 zulu</time></span>
+</div>
+<div>
+<pre>
+python tools/validate.py --lang bm UD-dev-branches/UD_Bambara/bm-ud-dev.conllu
+
+[Line                   5]: Unknown attribute-value pair ASpect=Perf
+[Line                   5]: Unknown attribute-value pair Valency=1
+[Line                   5]: Invalid DEPREL value _
+[Line                   5]: Unknown UD DEPREL: _
+[Line                   6]: Unknown UD DEPREL: nmod:poss
+[Line                   7]: Unknown UD DEPREL: nmod:poss
+[Line                   8]: Unknown UD DEPREL: nmod:poss
+[Line                   13]: Undefined ID in HEAD: _
+[Tree number 1 on line 3]: Empty head for word ID 3
+[Tree number 1 on line 3]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9,10 are not reachable from the root 0.
+[Line                   13]: SpaceAfter=No is missing in the MISC field of node #10 because the text is '1976.'
+[Line                   13]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: '.'
+[Line                   16]: Unknown UD DEPREL: nmod:poss
+[Line                   18]: Morphological features must be sorted: 'Aspectpect=Perf|Valency=1|Polarity=Pos'
+[Line                   18]: Unknown attribute-value pair Aspectpect=Perf
+[Line                   18]: Unknown attribute-value pair Valency=1
+[Line                   18]: Invalid DEPREL value _
+[Line                   18]: Unknown UD DEPREL: _
+[Line                   19]: Unknown UD DEPREL: nmod:poss
+[Line                   20]: Unknown UD DEPREL: nmod:poss
+[Line                   24]: Undefined ID in HEAD: _
+[Tree number 2 on line 16]: Empty head for word ID 3
+[Tree number 2 on line 16]: Non-tree structure. Words 1,2,3,4,5,6,7,8 are not reachable from the root 0.
+[Line                   24]: The forward slash is reserved for special use in parallel treebanks: ../kibaru543_03dunbuya_konta-bamako_jumamisiriba.dis.html:2
+[Line                   24]: SpaceAfter=No is missing in the MISC field of node #7 because the text is '8.'
+[Line                   27]: Morphological features must be sorted: 'PronType=Prs|Number=Sing|Person=3'
+[Line                   27]: Unknown UD DEPREL: nmod:poss
+[Line                   29]: Repeated features are disallowed: Tense=Past|Tense=Past
+[Line                   31]: Unknown UD DEPREL: nmod:poss
+[Line                   34]: Invalid DEPREL value _
+[Line                   34]: Unknown UD DEPREL: _
+[Line                   38]: Unknown UD DEPREL: flat:name
+[Line                   39]: Unknown UD DEPREL: flat:name
+[Line                   40]: Unknown UD DEPREL: flat:name
+...suppressing further errors regarding Syntax
+[Line                   43]: Undefined ID in HEAD: _
+[Tree number 3 on line 27]: Empty head for word ID 8
+[Line                   43]: The forward slash is reserved for special use in parallel treebanks: ../kibaru543_03dunbuya_konta-bamako_jumamisiriba.dis.html:3
+[Line                   43]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'bolo, Cɛrino Amadu U[...]'
+[Line                   43]: SpaceAfter=No is missing in the MISC field of node #15 because the text is 'Jalo.'
+[Line                   53]: Repeated features are disallowed: Tense=Past|Tense=Past
+[Line                   55]: Morphological features must be sorted: 'PronType=Prs|Number=Sing|Person=3'
+[Line                   59]: Undefined ID in HEAD: _
+[Tree number 4 on line 46]: Empty head for word ID 2
+[Line                   59]: The forward slash is reserved for special use in parallel treebanks: ../kibaru543_03dunbuya_konta-bamako_jumamisiriba.dis.html:4
+[Line                   59]: SpaceAfter=No is missing in the MISC field of node #2 because the text is 'lasigiden, Masiwudi [...]'
+[Line                   59]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'b'a kɛnɛ kan.'
+[Line                   59]: SpaceAfter=No is missing in the MISC field of node #12 because the text is 'kan.'
+[Line                   74]: Morphological features must be sorted: 'PronType=Prs|Number=Plur'
+[Line                   75]: Repeated features are disallowed: Tense=Past|Tense=Past
+[Line                   77]: Morphological features must be sorted: 'PronType=Prs|Number=Sing|Person=3'
+[Line                   81]: Undefined ID in HEAD: _
+[Tree number 5 on line 62]: Empty head for word ID 3
+[Line                   81]: The forward slash is reserved for special use in parallel treebanks: ../kibaru543_03dunbuya_konta-bamako_jumamisiriba.dis.html:5
+[Line                   81]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'Diko, misiriba alima[...]'
+[Line                   81]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'alimami, Mahamudu Ka[...]'
+[Line                   81]: SpaceAfter=No is missing in the MISC field of node #11 because the text is 'Kale, olu tun b'a kɛ[...]'
+[Line                   81]: SpaceAfter=No is missing in the MISC field of node #15 because the text is 'b'a kɛnɛ kan.'
+[Line                   81]: SpaceAfter=No is missing in the MISC field of node #18 because the text is 'kan.'
+[Line                   95]: Morphological features must be sorted: 'PronType=Prs|Number=Plur'
+[Line                   96]: Unknown attribute-value pair AdjType=Attr
+[Line                   97]: Repeated features are disallowed: Tense=Past|Tense=Past
+[Line                   99]: Morphological features must be sorted: 'PronType=Prs|Number=Sing|Person=3'
+[Line                   103]: The forward slash is reserved for special use in parallel treebanks: ../kibaru543_03dunbuya_konta-bamako_jumamisiriba.dis.html:6
+[Line                   103]: SpaceAfter=No is missing in the MISC field of node #3 because the text is 'lasigidenw, Bamakɔ s[...]'
+...suppressing further errors regarding Metadata
+*** FAILED *** with 90 errors
+Format errors: 10
+Metadata errors: 23
+Morpho errors: 16
+Syntax errors: 41
+The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.bm does not exist.
+The language-specific file /home/ginter/UD_PROJHOOK/tools/data/feat_val.bm does not exist.
+python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PROJHOOK/tools/data/feat_val.bm
+
+
+******************
+
+
+</pre>
+</div>
+<div>
 <span class="doublewidespan" style="padding-left:3em">UD Bangla</span>
 <span class="widespan">bn</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T14:40:53Z">2017-10-05T14:40:53 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T13:36:26Z">2017-11-03T13:36:26 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -224,7 +315,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Basque</span>
 <span class="widespan">eu</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T14:41:51Z">2017-10-05T14:41:51 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T13:37:25Z">2017-11-03T13:37:25 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -255,8 +346,8 @@ python tools/validate.py --lang eu UD-dev-branches/UD_Basque/eu-ud-train.conllu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Belarusian</span>
 <span class="widespan">be</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T14:42:40Z">2017-10-05T14:42:40 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T13:38:14Z">2017-11-03T13:38:14 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -276,12 +367,7 @@ python tools/validate.py --lang be UD-dev-branches/UD_Belarusian/be-ud-test.conl
 
 python tools/validate.py --lang be UD-dev-branches/UD_Belarusian/be-ud-train.conllu
 
-[Line                   4861]: Unknown UD DEPREL: nsubj:pass
-[Line                   4922]: Unknown UD DEPREL: nsubj:pass
-[Line                   4932]: Unknown UD DEPREL: nsubj:pass
-[Line                   5851]: Unknown UD DEPREL: nsubj:pass
-*** FAILED *** with 4 errors
-Syntax errors: 4
+*** PASSED ***
 
 
 ******************
@@ -293,7 +379,7 @@ Syntax errors: 4
 <span class="doublewidespan" style="padding-left:3em">UD Bengali-DDS</span>
 <span class="widespan">bn dds</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T14:42:44Z">2017-10-05T14:42:44 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T13:38:18Z">2017-11-03T13:38:18 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -304,7 +390,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Bulgarian</span>
 <span class="widespan">bg</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T14:43:46Z">2017-10-05T14:43:46 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T13:39:18Z">2017-11-03T13:39:18 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -336,7 +422,7 @@ python tools/validate.py --lang bg UD-dev-branches/UD_Bulgarian/bg-ud-train.conl
 <span class="doublewidespan" style="padding-left:3em">UD Buryat</span>
 <span class="widespan">bxr</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T14:44:39Z">2017-10-05T14:44:39 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T13:40:11Z">2017-11-03T13:40:11 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -361,7 +447,7 @@ python tools/validate.py --lang bxr UD-dev-branches/UD_Buryat/bxr-ud-test.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Cantonese</span>
 <span class="widespan">yue</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T14:44:43Z">2017-10-05T14:44:43 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T13:40:14Z">2017-11-03T13:40:14 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -372,7 +458,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Catalan</span>
 <span class="widespan">ca</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T14:46:16Z">2017-10-05T14:46:16 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T13:41:45Z">2017-11-03T13:41:45 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -404,7 +490,7 @@ python tools/validate.py --lang ca UD-dev-branches/UD_Catalan/ca-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Chinese</span>
 <span class="widespan">zh</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T14:47:47Z">2017-10-05T14:47:47 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T13:43:10Z">2017-11-03T13:43:10 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -436,7 +522,7 @@ python tools/validate.py --lang zh UD-dev-branches/UD_Chinese/zh-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Chinese-CFL</span>
 <span class="widespan">zh cfl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T14:48:33Z">2017-10-05T14:48:33 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T13:43:55Z">2017-11-03T13:43:55 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -474,19 +560,26 @@ Metadata errors: 453
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Chinese-HK</span>
 <span class="widespan">zh hk</span>
-<span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T14:48:36Z">2017-10-05T14:48:36 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T13:44:40Z">2017-11-03T13:44:40 zulu</time></span>
 </div>
 <div>
 <pre>
-No data
+python tools/validate.py --lang zh_hk UD-dev-branches/UD_Chinese-HK/zh_hk-ud-test.conllu
+
+*** PASSED ***
+
+
+******************
+
+
 </pre>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Chinese-PUD</span>
 <span class="widespan">zh pud</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T14:49:18Z">2017-10-05T14:49:18 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T13:45:21Z">2017-11-03T13:45:21 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -504,7 +597,7 @@ python tools/validate.py --lang zh_pud UD-dev-branches/UD_Chinese-PUD/zh_pud-ud-
 <span class="doublewidespan" style="padding-left:3em">UD Coptic</span>
 <span class="widespan">cop</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T14:50:07Z">2017-10-05T14:50:07 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T13:46:02Z">2017-11-03T13:46:02 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -536,7 +629,7 @@ python tools/validate.py --lang cop UD-dev-branches/UD_Coptic/cop-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Croatian</span>
 <span class="widespan">hr</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T14:51:07Z">2017-10-05T14:51:07 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T13:47:07Z">2017-11-03T13:47:07 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -568,7 +661,7 @@ python tools/validate.py --lang hr UD-dev-branches/UD_Croatian/hr-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Czech</span>
 <span class="widespan">cs</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T14:55:06Z">2017-10-05T14:55:06 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T13:51:11Z">2017-11-03T13:51:11 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -621,7 +714,7 @@ python tools/validate.py --lang cs UD-dev-branches/UD_Czech/cs-ud-train-v.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CAC</span>
 <span class="widespan">cs cac</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T14:58:45Z">2017-10-05T14:58:45 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T13:54:53Z">2017-11-03T13:54:53 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -653,7 +746,7 @@ python tools/validate.py --lang cs_cac UD-dev-branches/UD_Czech-CAC/cs_cac-ud-tr
 <span class="doublewidespan" style="padding-left:3em">UD Czech-CLTT</span>
 <span class="widespan">cs cltt</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:00:08Z">2017-10-05T15:00:08 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T13:56:17Z">2017-11-03T13:56:17 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -685,7 +778,7 @@ python tools/validate.py --lang cs_cltt UD-dev-branches/UD_Czech-CLTT/cs_cltt-ud
 <span class="doublewidespan" style="padding-left:3em">UD Czech-FicTree</span>
 <span class="widespan">cs fictree</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:00:14Z">2017-10-05T15:00:14 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T13:56:23Z">2017-11-03T13:56:23 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -696,7 +789,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Czech-PUD</span>
 <span class="widespan">cs pud</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:00:57Z">2017-10-05T15:00:57 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T13:57:07Z">2017-11-03T13:57:07 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -714,7 +807,7 @@ python tools/validate.py --lang cs_pud UD-dev-branches/UD_Czech-PUD/cs_pud-ud-te
 <span class="doublewidespan" style="padding-left:3em">UD Danish</span>
 <span class="widespan">da</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:01:52Z">2017-10-05T15:01:52 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T13:58:00Z">2017-11-03T13:58:00 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -746,7 +839,7 @@ python tools/validate.py --lang da UD-dev-branches/UD_Danish/da-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Dargwa</span>
 <span class="widespan">dar</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:02:02Z">2017-10-05T15:02:02 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T13:58:11Z">2017-11-03T13:58:11 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -757,7 +850,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Dutch</span>
 <span class="widespan">nl</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:03:10Z">2017-10-05T15:03:10 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T13:59:18Z">2017-11-03T13:59:18 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -789,7 +882,7 @@ python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Dutch-LassySmall</span>
 <span class="widespan">nl lassysmall</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:04:15Z">2017-10-05T15:04:15 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:53:41Z">2017-11-03T14:53:41 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -821,7 +914,7 @@ python tools/validate.py --lang nl_lassysmall UD-dev-branches/UD_Dutch-LassySmal
 <span class="doublewidespan" style="padding-left:3em">UD English</span>
 <span class="widespan">en</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:05:27Z">2017-10-05T15:05:27 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:01:15Z">2017-11-03T14:01:15 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -853,7 +946,7 @@ python tools/validate.py --lang en UD-dev-branches/UD_English/en-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD English-ESL</span>
 <span class="widespan">en esl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:06:29Z">2017-10-05T15:06:29 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:02:19Z">2017-11-03T14:02:19 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1004,7 +1097,7 @@ Syntax errors: 6400
 <span class="doublewidespan" style="padding-left:3em">UD English-LinES</span>
 <span class="widespan">en lines</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:07:19Z">2017-10-05T15:07:19 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:03:12Z">2017-11-03T14:03:12 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1036,7 +1129,7 @@ python tools/validate.py --lang en_lines UD-dev-branches/UD_English-LinES/en_lin
 <span class="doublewidespan" style="padding-left:3em">UD English-PUD</span>
 <span class="widespan">en pud</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:08:54Z">2017-10-05T15:08:54 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:04:44Z">2017-11-03T14:04:44 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1054,7 +1147,7 @@ python tools/validate.py --lang en_pud UD-dev-branches/UD_English-PUD/en_pud-ud-
 <span class="doublewidespan" style="padding-left:3em">UD English-ParTUT</span>
 <span class="widespan">en partut</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:08:10Z">2017-10-05T15:08:10 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:03:59Z">2017-11-03T14:03:59 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1083,10 +1176,170 @@ python tools/validate.py --lang en_partut UD-dev-branches/UD_English-ParTUT/en_p
 </pre>
 </div>
 <div>
+<span class="doublewidespan" style="padding-left:3em">UD Erzya</span>
+<span class="widespan">myv</span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:05:22Z">2017-11-03T14:05:22 zulu</time></span>
+</div>
+<div>
+<pre>
+python tools/validate.py --lang myv UD-dev-branches/UD_Erzya/myv_BryzhinskijMixail_Kirdazht_manu_Pers_Chap-01.conlluTraceback (most recent call last):
+  File "tools/validate.py", line 735, in &lt;module&gt;
+    validate(inp,out,args,tagsets,known_sent_ids)
+  File "tools/validate.py", line 625, in validate
+    validate_text_meta(comments,tree)
+  File "tools/validate.py", line 165, in validate_text_meta
+    if u"NoSpaceAfter=Yes" in cols[MISC]:
+IndexError: list index out of range
+
+
+
+[Line                   33]: Morphological features must be sorted: 'Sem/Ant_Mal|Number=Sing,Plur|Case=Gen|Definite=Ind'
+[Line                   33]: Spurious morphological feature: 'Sem/Ant_Mal'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   33]: If an attribute has multiple values, these must be sorted as well: 'Number=Sing,Plur'
+[Line                   34]: Morphological features must be sorted: 'Valency=2|Mood=Ind|Tense=Prt1|Number[subj]=Plur|Person[subj]=3|Number[obj]=Sing|Person[obj]=3'
+[Line                   34]: Unknown attribute-value pair Valency=2
+[Line                   34]: Unknown attribute-value pair Tense=Prt1
+[Line                   34]: Unknown attribute-value pair Number[subj]=Plur
+[Line                   34]: Unknown attribute-value pair Person[subj]=3
+[Line                   34]: Unknown attribute-value pair Number[obj]=Sing
+[Line                   34]: Unknown attribute-value pair Person[obj]=3
+[Line                   35]: The line has 9 columns, but 10 are expected.
+[Line                   35]: Morphological features must be sorted: 'Valency=2|Derivation=NomAg|Number=Sing|Case=Nom|Definite=Ind'
+[Line                   35]: Unknown attribute-value pair Valency=2
+[Line                   35]: Unknown attribute-value pair Derivation=NomAg
+[Line                   35]: Failed for parse DEPS: налкставтыця
+[Line                   35]: Malformed head:deprel pair 'налкставтыця'
+[Line                   36]: Morphological features must be sorted: 'Sem/Ani|Number=Plur|Case=Nom|Definite=Ind'
+[Line                   36]: Spurious morphological feature: 'Sem/Ani'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   37]: Spurious morphological feature: 'CLB'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   38]: Failed for parse DEPS: налкставтыця
+[Line                   38]: Failed to parse DEPS: налкставтыця
+[Line                   38]: Spurious sent_id line: '#sent_id = chapID1:paragID1:sentID1' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   38]: Missing the sent_id attribute.
+[Line                   38]: Exception caught!
+*** FAILED *** with 24 errors
+Format errors: 4
+Metadata errors: 2
+Morpho errors: 16
+Syntax errors: 2
+The language-specific file /home/ginter/UD_PROJHOOK/tools/data/feat_val.myv does not exist.
+python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PROJHOOK/tools/data/feat_val.myv
+
+
+******************
+
+python tools/validate.py --lang myv UD-dev-branches/UD_Erzya/myv_KutorkinAndrej_LazhnicyaSuraII_1976_Pers_Part01-Chap01.conlluTraceback (most recent call last):
+  File "tools/validate.py", line 735, in &lt;module&gt;
+    validate(inp,out,args,tagsets,known_sent_ids)
+  File "tools/validate.py", line 625, in validate
+    validate_text_meta(comments,tree)
+  File "tools/validate.py", line 165, in validate_text_meta
+    if u"NoSpaceAfter=Yes" in cols[MISC]:
+IndexError: list index out of range
+
+
+
+[Line                   33]: Morphological features must be sorted: 'Number=Sing|Case=Nom|Definite=Def'
+[Line                   33]: Unknown UD DEPREL: nsubj:cop
+[Line                   34]: Morphological features must be sorted: 'Valency=1|Mood=Ind|Tense=Prt1|Number[subj]=Sing|Person[subj]=3'
+[Line                   34]: Unknown attribute-value pair Valency=1
+[Line                   34]: Unknown attribute-value pair Tense=Prt1
+[Line                   34]: Unknown attribute-value pair Number[subj]=Sing
+[Line                   34]: Unknown attribute-value pair Person[subj]=3
+[Line                   35]: Morphological features must be sorted: 'Number=Sing,Plur|Case=Gen|Definite=Ind'
+[Line                   35]: If an attribute has multiple values, these must be sorted as well: 'Number=Sing,Plur'
+[Line                   35]: Unknown UD DEPREL: nmod:poss
+[Line                   36]: Morphological features must be sorted: 'Number=Sing|Case=Nom|Definite=Ind'
+[Line                   38]: Spurious sent_id line: '#sent_id = partID1:chapID1:paragID1:sentID1: pgNo="5"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   38]: Missing the sent_id attribute.
+[Line                   38]: SpaceAfter=No is missing in the MISC field of node #4 because the text is 'сочельник.'
+[Line                   41]: Morphological features must be sorted: 'Valency=2|Mood=Ind|Tense=Prt1|Number[subj]=Sing|Person[subj]=3'
+[Line                   41]: Unknown attribute-value pair Valency=2
+[Line                   41]: Unknown attribute-value pair Tense=Prt1
+[Line                   41]: Unknown attribute-value pair Number[subj]=Sing
+[Line                   41]: Unknown attribute-value pair Person[subj]=3
+[Line                   42]: Spurious morphological feature: 'Attr'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   43]: Morphological features must be sorted: 'Number=Sing|Case=Nom|Definite=Ind'
+[Line                   45]: Morphological features must be sorted: 'Number=Sing|Case=Nom|Definite=Ind'
+[Line                   46]: Morphological features must be sorted: 'Number=Sing,Plur|Case=Gen|Definite=Ind'
+[Line                   46]: If an attribute has multiple values, these must be sorted as well: 'Number=Sing,Plur'
+...suppressing further errors regarding Morpho
+[Line                   50]: Unknown UD DEPREL: nmod:poss
+[Line                   53]: Spurious sent_id line: '#sent_id = partID1:chapID1:paragID1:sentID2: pgNo="5"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   53]: Missing the sent_id attribute.
+[Line                   53]: SpaceAfter=No is missing in the MISC field of node #11 because the text is 'ломанть.'
+[Line                   66]: Spurious sent_id line: '#sent_id = partID1:chapID1:paragID2:sentID1: pgNo="5"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   66]: Missing the sent_id attribute.
+[Line                   66]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'ланга, прок лайшесь.'
+[Line                   66]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'лайшесь.'
+[Line                   69]: Unknown UD DEPREL: nmod:poss
+[Line                   74]: Spurious sent_id line: '#sent_id = partID1:chapID1:paragID3:sentID1: pgNo="5"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   74]: Missing the sent_id attribute.
+[Line                   74]: SpaceAfter=No is missing in the MISC field of node #4 because the text is 'сыль.'
+[Line                   80]: Unknown UD DEPREL: flat:name
+[Line                   81]: Unknown UD DEPREL: nmod:poss
+[Line                   84]: Spurious sent_id line: '#sent_id = partID1:chapID1:paragID3:sentID2: pgNo="5"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   84]: Missing the sent_id attribute.
+[Line                   84]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'Груня.'
+[Line                   89]: Unknown UD DEPREL: nmod:poss
+[Line                   92]: Unknown UD DEPREL: nmod:poss
+[Line                   101]: Spurious sent_id line: '#sent_id = partID1:chapID1:paragID3:sentID3: pgNo="5"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   101]: Missing the sent_id attribute.
+[Line                   101]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'пилензэ, теке бокава[...]'
+...suppressing further errors regarding Metadata
+[Line                   130]: Unknown UD DEPREL: nmod:poss
+[Line                   136]: Invalid DEPREL value 7
+[Line                   136]: Failed for parse DEPS: punct
+[Line                   136]: Unknown UD DEPREL: 7
+[Line                   136]: Malformed head:deprel pair 'punct'
+[Line                   137]: Invalid DEPREL value _
+[Line                   137]: Unknown UD DEPREL: _
+[Line                   141]: Invalid DEPREL value _
+[Line                   141]: Unknown UD DEPREL: _
+[Line                   149]: Undefined ID in HEAD: _
+[Line                   149]: Failed for parse DEPS: punct
+[Line                   149]: Undefined ID in HEAD: _
+[Line                   149]: Undefined ID in HEAD: _
+[Line                   149]: Failed to parse DEPS: punct
+[Tree number 9 on line 129]: Empty head for word ID 8
+[Tree number 9 on line 129]: Empty head for word ID 9
+[Tree number 9 on line 129]: Empty head for word ID 13
+[Tree number 9 on line 129]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20 are not reachable from the root 0.
+[Line                   161]: Unknown UD DEPREL: aux:subj
+...suppressing further errors regarding Syntax
+[Line                   369]: Undefined ID in HEAD: _
+[Tree number 26 on line 356]: Empty head for word ID 4
+[Line                   498]: Undefined ID in HEAD: _
+[Line                   498]: Failed for parse DEPS: punct
+[Line                   498]: Failed to parse DEPS: punct
+[Tree number 37 on line 486]: Empty head for word ID 10
+[Tree number 44 on line 566]: HEAD == ID for 2
+[Line                   712]: Undefined ID in HEAD: nmod:poss
+[Tree number 55 on line 694]: Non-integer head for word ID 7
+[Line                   912]: Undefined ID in HEAD: obj
+[Tree number 71 on line 900]: Non-integer head for word ID 11
+...suppressing further errors regarding Format
+*** FAILED *** with 3011 errors
+Format errors: 39
+Metadata errors: 529
+Morpho errors: 2315
+Syntax errors: 128
+The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.myv does not exist.
+The language-specific file /home/ginter/UD_PROJHOOK/tools/data/feat_val.myv does not exist.
+python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PROJHOOK/tools/data/feat_val.myv
+
+
+******************
+
+
+</pre>
+</div>
+<div>
 <span class="doublewidespan" style="padding-left:3em">UD Estonian</span>
 <span class="widespan">et</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:09:40Z">2017-10-05T15:09:40 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:06:13Z">2017-11-03T14:06:13 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1118,7 +1371,7 @@ python tools/validate.py --lang et UD-dev-branches/UD_Estonian/et-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Faroese</span>
 <span class="widespan">fo</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:09:46Z">2017-10-05T15:09:46 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:06:24Z">2017-11-03T14:06:24 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1129,7 +1382,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Finnish</span>
 <span class="widespan">fi</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:10:32Z">2017-10-05T15:10:32 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:07:06Z">2017-11-03T14:07:06 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1161,7 +1414,7 @@ python tools/validate.py --lang fi UD-dev-branches/UD_Finnish/fi-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Finnish-FTB</span>
 <span class="widespan">fi ftb</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:11:50Z">2017-10-05T15:11:50 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:08:23Z">2017-11-03T14:08:23 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1193,7 +1446,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD Finnish-PUD</span>
 <span class="widespan">fi pud</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:12:44Z">2017-10-05T15:12:44 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:09:16Z">2017-11-03T14:09:16 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1210,8 +1463,8 @@ python tools/validate.py --lang fi_pud UD-dev-branches/UD_Finnish-PUD/fi_pud-ud-
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD French</span>
 <span class="widespan">fr</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-10T02:03:17Z">2017-10-10T02:03:17 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:10:38Z">2017-11-03T14:10:38 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1231,9 +1484,7 @@ python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-test.conllu
 
 python tools/validate.py --lang fr UD-dev-branches/UD_French/fr-ud-train.conllu
 
-[Line                   96512]: Unknown UD DEPREL: aux:caus
-*** FAILED *** with 1 errors
-Syntax errors: 1
+*** PASSED ***
 
 
 ******************
@@ -1244,157 +1495,28 @@ Syntax errors: 1
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD French-FTB</span>
 <span class="widespan">fr ftb</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:16:03Z">2017-10-05T15:16:03 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:12:38Z">2017-11-03T14:12:38 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang fr_ftb UD-dev-branches/UD_French-FTB/fr_ftb-ud-dev.conllu
 
-[Line                   9]: Unknown UD DEPREL: nmod:poss
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is '...'
-[Line                   22]: Unknown UD DEPREL: nsubj:pass
-[Line                   28]: Unknown UD DEPREL: aux:pass
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 2 on line 21]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-...suppressing further errors regarding Metadata
-[Line                   96]: Unknown UD DEPREL: acl:relcl
-[Line                   183]: Unknown UD DEPREL: nmod:poss
-[Line                   199]: Unknown UD DEPREL: nsubj:pass
-[Line                   206]: Unknown UD DEPREL: flat:name
-[Line                   216]: Unknown UD DEPREL: aux:pass
-[Line                   234]: Unknown UD DEPREL: flat:name
-[Line                   240]: Unknown UD DEPREL: nsubj:pass
-[Line                   250]: Unknown UD DEPREL: aux:pass
-[Line                   259]: Unknown UD DEPREL: flat:name
-[Line                   307]: Unknown UD DEPREL: nmod:poss
-[Line                   419]: Unknown UD DEPREL: nmod:poss
-[Line                   427]: Unknown UD DEPREL: acl:relcl
-[Line                   492]: Unknown UD DEPREL: acl:relcl
-[Line                   553]: Unknown UD DEPREL: nsubj:pass
-[Line                   559]: Unknown UD DEPREL: aux:pass
-[Line                   571]: Unknown UD DEPREL: acl:relcl
-...suppressing further errors regarding Syntax
-*** FAILED *** with 34292 errors
-Metadata errors: 32794
-Syntax errors: 1498
-The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.fr_ftb does not exist.
+*** PASSED ***
 
 
 ******************
 
 python tools/validate.py --lang fr_ftb UD-dev-branches/UD_French-FTB/fr_ftb-ud-test.conllu
 
-[Line                   4]: Unknown UD DEPREL: nsubj:pass
-[Line                   39]: Unknown UD DEPREL: aux:pass
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ' _ _ _ _ _ _ _ _ _ _ ...'
-...suppressing further errors regarding Metadata
-[Line                   80]: Unknown UD DEPREL: acl:relcl
-[Line                   87]: Unknown UD DEPREL: nsubj:pass
-[Line                   96]: Unknown UD DEPREL: aux:pass
-[Line                   125]: Unknown UD DEPREL: nsubj:pass
-[Line                   126]: Unknown UD DEPREL: aux:pass
-[Line                   199]: Unknown UD DEPREL: nsubj:pass
-[Line                   201]: Unknown UD DEPREL: aux:pass
-[Line                   220]: Unknown UD DEPREL: acl:relcl
-[Line                   266]: Unknown UD DEPREL: aux:pass
-[Line                   286]: Unknown UD DEPREL: nmod:poss
-[Line                   311]: Unknown UD DEPREL: nmod:poss
-[Line                   332]: Unknown UD DEPREL: nmod:poss
-[Line                   372]: Unknown UD DEPREL: nmod:poss
-[Line                   379]: Unknown UD DEPREL: nsubj:pass
-[Line                   389]: Unknown UD DEPREL: aux:pass
-[Line                   423]: Unknown UD DEPREL: acl:relcl
-[Line                   471]: Unknown UD DEPREL: nmod:poss
-...suppressing further errors regarding Syntax
-*** FAILED *** with 65302 errors
-Metadata errors: 62756
-Syntax errors: 2546
-The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.fr_ftb does not exist.
+*** PASSED ***
 
 
 ******************
 
 python tools/validate.py --lang fr_ftb UD-dev-branches/UD_French-FTB/fr_ftb-ud-train.conllu
 
-[Line                   16]: Unknown UD DEPREL: nmod:poss
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-[Tree number 1 on line 4]: Mismatch between the text attribute and the FORM field. Form is '_' but text is ', _ _ _ _ _ _ _ _ _ _...'
-...suppressing further errors regarding Metadata
-[Line                   65]: Unknown UD DEPREL: nmod:poss
-[Line                   100]: Unknown UD DEPREL: acl:relcl
-[Line                   149]: Unknown UD DEPREL: acl:relcl
-[Line                   168]: Unknown UD DEPREL: nmod:poss
-[Line                   213]: Unknown UD DEPREL: acl:relcl
-[Line                   217]: Unknown UD DEPREL: nmod:poss
-[Line                   246]: Unknown UD DEPREL: acl:relcl
-[Line                   271]: Unknown UD DEPREL: flat:name
-[Line                   305]: Unknown UD DEPREL: nmod:poss
-[Line                   310]: Unknown UD DEPREL: nmod:poss
-[Line                   317]: Unknown UD DEPREL: nmod:poss
-[Line                   434]: Unknown UD DEPREL: acl:relcl
-[Line                   541]: Unknown UD DEPREL: flat:name
-[Line                   544]: Unknown UD DEPREL: nmod:poss
-[Line                   548]: Unknown UD DEPREL: flat:name
-[Line                   569]: Unknown UD DEPREL: nmod:poss
-[Line                   641]: Unknown UD DEPREL: acl:relcl
-[Line                   717]: Unknown UD DEPREL: acl:relcl
-...suppressing further errors regarding Syntax
-*** FAILED *** with 386946 errors
-Metadata errors: 370803
-Syntax errors: 16143
-The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.fr_ftb does not exist.
+*** PASSED ***
 
 
 ******************
@@ -1406,7 +1528,7 @@ The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.fr_ftb doe
 <span class="doublewidespan" style="padding-left:3em">UD French-PUD</span>
 <span class="widespan">fr pud</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:18:10Z">2017-10-05T15:18:10 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:14:40Z">2017-11-03T14:14:40 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1424,7 +1546,7 @@ python tools/validate.py --lang fr_pud UD-dev-branches/UD_French-PUD/fr_pud-ud-t
 <span class="doublewidespan" style="padding-left:3em">UD French-ParTUT</span>
 <span class="widespan">fr partut</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:17:25Z">2017-10-05T15:17:25 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:13:56Z">2017-11-03T14:13:56 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1455,65 +1577,28 @@ python tools/validate.py --lang fr_partut UD-dev-branches/UD_French-ParTUT/fr_pa
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD French-Sequoia</span>
 <span class="widespan">fr sequoia</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-09T17:45:04Z">2017-10-09T17:45:04 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:15:27Z">2017-11-03T14:15:27 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang fr_sequoia UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-dev.conllu
 
-[Line                   1051]: Unknown UD DEPREL: aux:caus
-[Line                   2909]: Unknown UD DEPREL: aux:caus
-[Line                   4886]: Unknown UD DEPREL: aux:caus
-[Line                   6128]: Unknown UD DEPREL: aux:caus
-[Line                   8341]: Unknown UD DEPREL: aux:caus
-[Line                   8772]: Unknown UD DEPREL: aux:caus
-[Line                   10342]: Unknown UD DEPREL: aux:caus
-[Line                   10642]: Unknown UD DEPREL: aux:caus
-*** FAILED *** with 8 errors
-Syntax errors: 8
+*** PASSED ***
 
 
 ******************
 
 python tools/validate.py --lang fr_sequoia UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-test.conllu
 
-[Line                   2772]: Unknown UD DEPREL: aux:caus
-[Line                   3259]: Unknown UD DEPREL: aux:caus
-[Line                   4257]: Unknown UD DEPREL: aux:caus
-[Line                   4474]: Unknown UD DEPREL: aux:caus
-[Line                   8059]: Unknown UD DEPREL: aux:caus
-[Line                   8608]: Unknown UD DEPREL: aux:caus
-[Line                   8866]: Unknown UD DEPREL: aux:caus
-[Line                   9039]: Unknown UD DEPREL: aux:caus
-*** FAILED *** with 8 errors
-Syntax errors: 8
+*** PASSED ***
 
 
 ******************
 
 python tools/validate.py --lang fr_sequoia UD-dev-branches/UD_French-Sequoia/fr_sequoia-ud-train.conllu
 
-[Line                   1045]: Unknown UD DEPREL: aux:caus
-[Line                   2141]: Unknown UD DEPREL: aux:caus
-[Line                   3021]: Unknown UD DEPREL: aux:caus
-[Line                   4083]: Unknown UD DEPREL: aux:caus
-[Line                   4156]: Unknown UD DEPREL: aux:caus
-[Line                   4339]: Unknown UD DEPREL: aux:caus
-[Line                   4622]: Unknown UD DEPREL: aux:caus
-[Line                   5489]: Unknown UD DEPREL: aux:caus
-[Line                   9799]: Unknown UD DEPREL: aux:caus
-[Line                   31038]: Unknown UD DEPREL: aux:caus
-[Line                   32762]: Unknown UD DEPREL: aux:caus
-[Line                   34496]: Unknown UD DEPREL: aux:caus
-[Line                   35174]: Unknown UD DEPREL: aux:caus
-[Line                   35481]: Unknown UD DEPREL: aux:caus
-[Line                   40259]: Unknown UD DEPREL: aux:caus
-[Line                   46350]: Unknown UD DEPREL: aux:caus
-[Line                   46987]: Unknown UD DEPREL: aux:caus
-[Line                   52497]: Unknown UD DEPREL: aux:caus
-*** FAILED *** with 18 errors
-Syntax errors: 18
+*** PASSED ***
 
 
 ******************
@@ -1525,7 +1610,7 @@ Syntax errors: 18
 <span class="doublewidespan" style="padding-left:3em">UD French-Spoken</span>
 <span class="widespan">fr spoken</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:19:09Z">2017-10-05T15:19:09 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:15:37Z">2017-11-03T14:15:37 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1536,7 +1621,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Galician</span>
 <span class="widespan">gl</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:20:02Z">2017-10-05T15:20:02 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:16:32Z">2017-11-03T14:16:32 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1568,7 +1653,7 @@ python tools/validate.py --lang gl UD-dev-branches/UD_Galician/gl-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Galician-TreeGal</span>
 <span class="widespan">gl treegal</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:20:54Z">2017-10-05T15:20:54 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:17:23Z">2017-11-03T14:17:23 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1600,7 +1685,7 @@ python tools/validate.py --lang gl_treegal UD-dev-branches/UD_Galician-TreeGal/g
 <span class="doublewidespan" style="padding-left:3em">UD German</span>
 <span class="widespan">de</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:22:09Z">2017-10-05T15:22:09 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:18:48Z">2017-11-03T14:18:48 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1632,7 +1717,7 @@ python tools/validate.py --lang de UD-dev-branches/UD_German/de-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD German-PUD</span>
 <span class="widespan">de pud</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:23:09Z">2017-10-05T15:23:09 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:19:49Z">2017-11-03T14:19:49 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1650,7 +1735,7 @@ python tools/validate.py --lang de_pud UD-dev-branches/UD_German-PUD/de_pud-ud-t
 <span class="doublewidespan" style="padding-left:3em">UD Gothic</span>
 <span class="widespan">got</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:23:55Z">2017-10-05T15:23:55 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:20:38Z">2017-11-03T14:20:38 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1681,35 +1766,14 @@ python tools/validate.py --lang got UD-dev-branches/UD_Gothic/got-ud-train.conll
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Greek</span>
 <span class="widespan">el</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:24:49Z">2017-10-05T15:24:49 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:21:28Z">2017-11-03T14:21:28 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang el UD-dev-branches/UD_Greek/el-ud-dev.conllu
 
-[Line                   392]: Unknown UD DEPREL: xcomp:sc
-[Line                   512]: Unknown UD DEPREL: xcomp:sc
-[Line                   597]: Unknown UD DEPREL: xcomp:sc
-[Line                   682]: Unknown UD DEPREL: xcomp:sc
-[Line                   840]: Unknown UD DEPREL: xcomp:sc
-[Line                   946]: Unknown UD DEPREL: xcomp:sc
-[Line                   1003]: Unknown UD DEPREL: xcomp:sc
-[Line                   1041]: Unknown UD DEPREL: obl:arg
-[Line                   1194]: Unknown UD DEPREL: xcomp:sc
-[Line                   1656]: Unknown UD DEPREL: xcomp:sc
-[Line                   1751]: Unknown UD DEPREL: xcomp:sc
-[Line                   2521]: Unknown UD DEPREL: obl:arg
-[Line                   2792]: Unknown UD DEPREL: obl:arg
-[Line                   2976]: Unknown UD DEPREL: xcomp:sc
-[Line                   3428]: Unknown UD DEPREL: xcomp:sc
-[Line                   4033]: Unknown UD DEPREL: xcomp:sc
-[Line                   4222]: Unknown UD DEPREL: xcomp:sc
-[Line                   4265]: Unknown UD DEPREL: xcomp:sc
-[Line                   4291]: Unknown UD DEPREL: xcomp:sc
-...suppressing further errors regarding Syntax
-*** FAILED *** with 62 errors
-Syntax errors: 62
+*** PASSED ***
 
 
 ******************
@@ -1723,28 +1787,7 @@ python tools/validate.py --lang el UD-dev-branches/UD_Greek/el-ud-test.conllu
 
 python tools/validate.py --lang el UD-dev-branches/UD_Greek/el-ud-train.conllu
 
-[Line                   675]: Unknown UD DEPREL: xcomp:sc
-[Line                   697]: Unknown UD DEPREL: xcomp:sc
-[Line                   704]: Unknown UD DEPREL: xcomp:oc
-[Line                   1268]: Unknown UD DEPREL: xcomp:sc
-[Line                   1270]: Unknown UD DEPREL: xcomp:sc
-[Line                   1377]: Unknown UD DEPREL: obl:arg
-[Line                   1425]: Unknown UD DEPREL: xcomp:sc
-[Line                   1431]: Unknown UD DEPREL: xcomp:sc
-[Line                   1609]: Unknown UD DEPREL: obl:arg
-[Line                   1613]: Unknown UD DEPREL: xcomp:sc
-[Line                   1734]: Unknown UD DEPREL: xcomp:sc
-[Line                   2279]: Unknown UD DEPREL: xcomp:sc
-[Line                   2496]: Unknown UD DEPREL: obl:arg
-[Line                   2565]: Unknown UD DEPREL: xcomp:sc
-[Line                   2636]: Unknown UD DEPREL: xcomp:oc
-[Line                   2669]: Unknown UD DEPREL: obl:arg
-[Line                   2908]: Unknown UD DEPREL: xcomp:sc
-[Line                   2957]: Unknown UD DEPREL: xcomp:sc
-[Line                   2980]: Unknown UD DEPREL: xcomp:sc
-...suppressing further errors regarding Syntax
-*** FAILED *** with 357 errors
-Syntax errors: 357
+*** PASSED ***
 
 
 ******************
@@ -1756,7 +1799,7 @@ Syntax errors: 357
 <span class="doublewidespan" style="padding-left:3em">UD Hebrew</span>
 <span class="widespan">he</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:25:49Z">2017-10-05T15:25:49 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:22:27Z">2017-11-03T14:22:27 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1788,7 +1831,7 @@ python tools/validate.py --lang he UD-dev-branches/UD_Hebrew/he-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Hindi</span>
 <span class="widespan">hi</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:27:23Z">2017-10-05T15:27:23 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:23:58Z">2017-11-03T14:23:58 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1820,7 +1863,7 @@ python tools/validate.py --lang hi UD-dev-branches/UD_Hindi/hi-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Hindi-PUD</span>
 <span class="widespan">hi pud</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:28:32Z">2017-10-05T15:28:32 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:25:05Z">2017-11-03T14:25:05 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1838,7 +1881,7 @@ python tools/validate.py --lang hi_pud UD-dev-branches/UD_Hindi-PUD/hi_pud-ud-te
 <span class="doublewidespan" style="padding-left:3em">UD Hungarian</span>
 <span class="widespan">hu</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:29:16Z">2017-10-05T15:29:16 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:25:48Z">2017-11-03T14:25:48 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1870,7 +1913,7 @@ python tools/validate.py --lang hu UD-dev-branches/UD_Hungarian/hu-ud-train.conl
 <span class="doublewidespan" style="padding-left:3em">UD Indonesian</span>
 <span class="widespan">id</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:30:10Z">2017-10-05T15:30:10 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:26:40Z">2017-11-03T14:26:40 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1902,7 +1945,7 @@ python tools/validate.py --lang id UD-dev-branches/UD_Indonesian/id-ud-train.con
 <span class="doublewidespan" style="padding-left:3em">UD Indonesian-PUD</span>
 <span class="widespan">id pud</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:30:57Z">2017-10-05T15:30:57 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:27:27Z">2017-11-03T14:27:27 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1983,7 +2026,7 @@ Syntax errors: 20528
 <span class="doublewidespan" style="padding-left:3em">UD Irish</span>
 <span class="widespan">ga</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:31:41Z">2017-10-05T15:31:41 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:28:10Z">2017-11-03T14:28:10 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2015,18 +2058,11 @@ python tools/validate.py --lang ga UD-dev-branches/UD_Irish/ga-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Italian</span>
 <span class="widespan">it</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:32:50Z">2017-10-05T15:32:50 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:29:24Z">2017-11-03T14:29:24 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-dev.conllu
-
-*** PASSED ***
-
-
-******************
-
-python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-test.conllu
 
 *** PASSED ***
 
@@ -2047,7 +2083,7 @@ python tools/validate.py --lang it UD-dev-branches/UD_Italian/it-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Italian-PUD</span>
 <span class="widespan">it pud</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:34:43Z">2017-10-05T15:34:43 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:32:06Z">2017-11-03T14:32:06 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2065,11 +2101,18 @@ python tools/validate.py --lang it_pud UD-dev-branches/UD_Italian-PUD/it_pud-ud-
 <span class="doublewidespan" style="padding-left:3em">UD Italian-ParTUT</span>
 <span class="widespan">it partut</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:33:53Z">2017-10-05T15:33:53 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:30:25Z">2017-11-03T14:30:25 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang it_partut UD-dev-branches/UD_Italian-ParTUT/it_partut-ud-dev.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang it_partut UD-dev-branches/UD_Italian-ParTUT/it_partut-ud-test.conllu
 
 *** PASSED ***
 
@@ -2089,19 +2132,40 @@ python tools/validate.py --lang it_partut UD-dev-branches/UD_Italian-ParTUT/it_p
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Italian-PoSTWITA</span>
 <span class="widespan">it postwita</span>
-<span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:33:59Z">2017-10-05T15:33:59 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:31:20Z">2017-11-03T14:31:20 zulu</time></span>
 </div>
 <div>
 <pre>
-No data
+python tools/validate.py --lang it_postwita UD-dev-branches/UD_Italian-PoSTWITA/it_postwita-ud-dev.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang it_postwita UD-dev-branches/UD_Italian-PoSTWITA/it_postwita-ud-test.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang it_postwita UD-dev-branches/UD_Italian-PoSTWITA/it_postwita-ud-train.conllu
+
+*** PASSED ***
+
+
+******************
+
+
 </pre>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Japanese</span>
 <span class="widespan">ja</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:35:40Z">2017-10-05T15:35:40 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:33:07Z">2017-11-03T14:33:07 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2133,7 +2197,7 @@ python tools/validate.py --lang ja UD-dev-branches/UD_Japanese/ja-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Japanese-KTC</span>
 <span class="widespan">ja ktc</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:36:41Z">2017-10-05T15:36:41 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:34:08Z">2017-11-03T14:34:08 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2284,7 +2348,7 @@ Syntax errors: 9850
 <span class="doublewidespan" style="padding-left:3em">UD Japanese-PUD</span>
 <span class="widespan">ja pud</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:37:33Z">2017-10-05T15:37:33 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:35:11Z">2017-11-03T14:35:11 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2302,7 +2366,7 @@ python tools/validate.py --lang ja_pud UD-dev-branches/UD_Japanese-PUD/ja_pud-ud
 <span class="doublewidespan" style="padding-left:3em">UD Kazakh</span>
 <span class="widespan">kk</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:38:18Z">2017-10-05T15:38:18 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:35:53Z">2017-11-03T14:35:53 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2327,7 +2391,7 @@ python tools/validate.py --lang kk UD-dev-branches/UD_Kazakh/kk-ud-test.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Korean</span>
 <span class="widespan">ko</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:39:06Z">2017-10-05T15:39:06 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:36:37Z">2017-11-03T14:36:37 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2352,7 +2416,7 @@ python tools/validate.py --lang ko UD-dev-branches/UD_Korean/ko-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Korean-PUD</span>
 <span class="widespan">ko pud</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:39:56Z">2017-10-05T15:39:56 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:37:22Z">2017-11-03T14:37:22 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2433,7 +2497,7 @@ Syntax errors: 18326
 <span class="doublewidespan" style="padding-left:3em">UD Kurmanji</span>
 <span class="widespan">kmr</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:40:37Z">2017-10-05T15:40:37 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:38:02Z">2017-11-03T14:38:02 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2458,7 +2522,7 @@ python tools/validate.py --lang kmr UD-dev-branches/UD_Kurmanji/kmr-ud-test.conl
 <span class="doublewidespan" style="padding-left:3em">UD Latin</span>
 <span class="widespan">la</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:41:20Z">2017-10-05T15:41:20 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:38:44Z">2017-11-03T14:38:44 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2490,7 +2554,7 @@ python tools/validate.py --lang la UD-dev-branches/UD_Latin/la-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Latin-ITTB</span>
 <span class="widespan">la ittb</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:42:42Z">2017-10-05T15:42:42 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:40:06Z">2017-11-03T14:40:06 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2522,7 +2586,7 @@ python tools/validate.py --lang la_ittb UD-dev-branches/UD_Latin-ITTB/la_ittb-ud
 <span class="doublewidespan" style="padding-left:3em">UD Latin-PROIEL</span>
 <span class="widespan">la proiel</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:44:06Z">2017-10-05T15:44:06 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:41:28Z">2017-11-03T14:41:28 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2554,7 +2618,7 @@ python tools/validate.py --lang la_proiel UD-dev-branches/UD_Latin-PROIEL/la_pro
 <span class="doublewidespan" style="padding-left:3em">UD Latvian</span>
 <span class="widespan">lv</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-08T11:49:39Z">2017-10-08T11:49:39 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:42:12Z">2017-11-03T14:42:12 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2586,7 +2650,7 @@ python tools/validate.py --lang lv UD-dev-branches/UD_Latvian/lv-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Lithuanian</span>
 <span class="widespan">lt</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:45:50Z">2017-10-05T15:45:50 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:43:01Z">2017-11-03T14:43:01 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2618,7 +2682,7 @@ python tools/validate.py --lang lt UD-dev-branches/UD_Lithuanian/lt-ud-train.con
 <span class="doublewidespan" style="padding-left:3em">UD Lithuanian-Alksnis</span>
 <span class="widespan">lt alksnis</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:45:53Z">2017-10-05T15:45:53 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:43:05Z">2017-11-03T14:43:05 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2629,58 +2693,26 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Maltese</span>
 <span class="widespan">mt</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:46:33Z">2017-10-05T15:46:33 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:43:44Z">2017-11-03T14:43:44 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang mt UD-dev-branches/UD_Maltese/mt-ud-sample.conllu
 
-[Line                   12]: Unknown attribute-value pair AdpType=Prep
-[Line                   24]: Unknown attribute-value pair AdpType=Prep
-[Line                   36]: Unknown attribute-value pair AdpType=Prep
-[Line                   38]: Unknown UD DEPREL: flat:name
-[Line                   40]: Unknown attribute-value pair AdpType=Prep
-[Line                   51]: Unknown attribute-value pair AdpType=Prep
-[Line                   53]: Unknown attribute-value pair AdpType=Prep
-[Line                   56]: Unknown attribute-value pair AdpType=Prep
-[Line                   66]: Unknown attribute-value pair AdpType=Prep
-[Line                   74]: Unknown attribute-value pair AdpType=Prep
-[Line                   79]: Unknown attribute-value pair AdpType=Prep
-[Line                   81]: Unknown UD DEPREL: det:poss
-[Line                   84]: Unknown attribute-value pair AdpType=Prep
-[Line                   90]: Unknown attribute-value pair AdpType=Prep
-[Line                   92]: Unknown attribute-value pair AdpType=Prep
-[Line                   103]: Unknown attribute-value pair AdpType=Prep
-[Line                   106]: Unknown attribute-value pair AdpType=Prep
-[Line                   109]: Unknown attribute-value pair AdpType=Prep
-[Line                   114]: Unknown attribute-value pair AdpType=Prep
-[Line                   120]: Unknown attribute-value pair AdpType=Prep
-[Line                   122]: Unknown attribute-value pair AdpType=Prep
-...suppressing further errors regarding Morpho
-[Line                   154]: Unknown UD DEPREL: det:poss
-[Line                   218]: Unknown UD DEPREL: det:poss
-[Line                   243]: Unknown UD DEPREL: det:poss
 [Line                   296]: DEPREL must be "root" if HEAD is 0
-[Line                   366]: Unknown UD DEPREL: det:poss
-[Line                   441]: Unknown UD DEPREL: flat:name
-[Line                   518]: Unknown UD DEPREL: nsubj:pass
-[Line                   521]: Unknown UD DEPREL: aux:pass
-[Line                   525]: Unknown UD DEPREL: flat:name
-[Line                   526]: Unknown UD DEPREL: flat:name
-[Line                   547]: Unknown UD DEPREL: flat:name
-[Line                   548]: Unknown UD DEPREL: flat:name
+[Line                   303]: Unknown attribute-value pair NumType=Gen
+[Line                   312]: Unknown attribute-value pair NumType=Gen
 [Line                   557]: DEPREL must be "root" if HEAD is 0
-[Line                   583]: Unknown UD DEPREL: nsubj:pass
-[Line                   627]: Unknown UD DEPREL: det:poss
-[Line                   639]: Unknown UD DEPREL: det:poss
-[Line                   692]: Unknown UD DEPREL: det:poss
-...suppressing further errors regarding Syntax
-*** FAILED *** with 441 errors
-Morpho errors: 373
-Syntax errors: 68
-The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.mt does not exist.
-The language-specific file /home/ginter/UD_PROJHOOK/tools/data/feat_val.mt does not exist.
-python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PROJHOOK/tools/data/feat_val.mt
+[Line                   792]: DEPREL must be "root" if HEAD is 0
+[Line                   952]: Unknown attribute-value pair NumType=Gen
+[Line                   1670]: Unknown UD DEPREL: punc
+[Line                   1940]: DEPREL can only be "root" if HEAD is 0
+[Line                   2205]: Unknown attribute-value pair NumType=Gen
+[Line                   2239]: Unknown attribute-value pair NumType=Gen
+[Line                   2694]: Unknown attribute-value pair NumType=Gen
+*** FAILED *** with 11 errors
+Morpho errors: 6
+Syntax errors: 5
 
 
 ******************
@@ -2691,19 +2723,40 @@ python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PR
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Marathi</span>
 <span class="widespan">mr</span>
-<span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-09T10:40:26Z">2017-10-09T10:40:26 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:44:24Z">2017-11-03T14:44:24 zulu</time></span>
 </div>
 <div>
 <pre>
-No data
+python tools/validate.py --lang mr UD-dev-branches/UD_Marathi/mr-ud-dev.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang mr UD-dev-branches/UD_Marathi/mr-ud-test.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang mr UD-dev-branches/UD_Marathi/mr-ud-train.conllu
+
+*** PASSED ***
+
+
+******************
+
+
 </pre>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Naija</span>
 <span class="widespan">pcm</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:46:40Z">2017-10-05T15:46:40 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:44:27Z">2017-11-03T14:44:27 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2714,7 +2767,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD North Sami</span>
 <span class="widespan">sme</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:47:26Z">2017-10-05T15:47:26 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:45:14Z">2017-11-03T14:45:14 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2753,7 +2806,7 @@ python tools/validate.py --lang sme UD-dev-branches/UD_North_Sami/sme-ud.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-Bokmaal</span>
 <span class="widespan">no bokmaal</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:48:46Z">2017-10-05T15:48:46 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:46:36Z">2017-11-03T14:46:36 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2785,7 +2838,7 @@ python tools/validate.py --lang no_bokmaal UD-dev-branches/UD_Norwegian-Bokmaal/
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-Nynorsk</span>
 <span class="widespan">no nynorsk</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:50:24Z">2017-10-05T15:50:24 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:48:11Z">2017-11-03T14:48:11 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2816,28 +2869,21 @@ python tools/validate.py --lang no_nynorsk UD-dev-branches/UD_Norwegian-Nynorsk/
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-NynorskLIA</span>
 <span class="widespan">no nynorsklia</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-11T12:18:51Z">2017-10-11T12:18:51 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:49:12Z">2017-11-03T14:49:12 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang no_nynorsklia /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Norwegian-NynorskLIA/no_nynorsklia-ud-dev.conllu
+python tools/validate.py --lang no_nynorsklia UD-dev-branches/UD_Norwegian-NynorskLIA/no_nynorsklia-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang no_nynorsklia /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Norwegian-NynorskLIA/no_nynorsklia-ud-test.conllu
+python tools/validate.py --lang no_nynorsklia UD-dev-branches/UD_Norwegian-NynorskLIA/no_nynorsklia-ud-test.conllu
 
-[Line                   5220]: Invalid DEPREL value FINV
-[Line                   5220]: Unknown UD DEPREL: FINV
-[Line                   9603]: Invalid DEPREL value FINV
-[Line                   9603]: Unknown UD DEPREL: FINV
-[Line                   13039]: Invalid DEPREL value FINV
-[Line                   13039]: Unknown UD DEPREL: FINV
-*** FAILED *** with 6 errors
-Syntax errors: 6
+*** PASSED ***
 
 
 ******************
@@ -2849,7 +2895,7 @@ Syntax errors: 6
 <span class="doublewidespan" style="padding-left:3em">UD Old Church Slavonic</span>
 <span class="widespan">cu</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:52:13Z">2017-10-05T15:52:13 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:50:06Z">2017-11-03T14:50:06 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2881,7 +2927,7 @@ python tools/validate.py --lang cu UD-dev-branches/UD_Old_Church_Slavonic/cu-ud-
 <span class="doublewidespan" style="padding-left:3em">UD Old French</span>
 <span class="widespan">fro</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:52:20Z">2017-10-05T15:52:20 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:50:19Z">2017-11-03T14:50:19 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2892,7 +2938,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Persian</span>
 <span class="widespan">fa</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:53:14Z">2017-10-05T15:53:14 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:51:27Z">2017-11-03T14:51:27 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2924,7 +2970,7 @@ python tools/validate.py --lang fa UD-dev-branches/UD_Persian/fa-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Polish</span>
 <span class="widespan">pl</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:54:15Z">2017-10-05T15:54:15 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:52:26Z">2017-11-03T14:52:26 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2956,7 +3002,7 @@ python tools/validate.py --lang pl UD-dev-branches/UD_Polish/pl-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Portuguese</span>
 <span class="widespan">pt</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:55:25Z">2017-10-05T15:55:25 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-27T13:10:03Z">2017-10-27T13:10:03 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3067,6 +3113,122 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 </pre>
 </div>
 <div>
+<span class="doublewidespan" style="padding-left:3em">UD Romanian-Nonstandard</span>
+<span class="widespan">ro nonstandard</span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-02T10:07:05Z">2017-11-02T10:07:05 zulu</time></span>
+</div>
+<div>
+<pre>
+python tools/validate.py --lang ro_nonstandard UD-dev-branches/UD_Romanian-Nonstandard/ro_nonstandard-ud-test.conlluTraceback (most recent call last):
+  File "tools/validate.py", line 735, in &lt;module&gt;
+    validate(inp,out,args,tagsets,known_sent_ids)
+  File "tools/validate.py", line 613, in validate
+    for comments,tree in trees(inp,tag_sets,args):
+  File "tools/validate.py", line 96, in trees
+    validate_cols(cols,tag_sets,args)
+  File "tools/validate.py", line 211, in validate_cols
+    validate_character_constraints(cols)
+  File "tools/validate.py", line 382, in validate_character_constraints
+    if any(deprel for head, deprel in deps_list(cols)
+TypeError: 'NoneType' object is not iterable
+
+
+
+[Line                   7]: Morphological features must be sorted: 'Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Fem|'
+[Line                   7]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   10]: Missing the sent_id attribute.
+[Line                   10]: Missing the text attribute.
+[Line                   21]: Morphological features must be sorted: 'Gender=Masc|Number=Sing|Mood=Part|Polarity=Pos|VerbForm=Fin'
+[Line                   21]: Unknown attribute-value pair Mood=Part
+[Line                   25]: Missing the sent_id attribute.
+[Line                   25]: Missing the text attribute.
+[Line                   42]: Missing the sent_id attribute.
+[Line                   42]: Missing the text attribute.
+[Line                   63]: Unknown UPOS tag: _
+[Line                   63]: Invalid UPOSTAG value _
+[Line                   65]: Missing the sent_id attribute.
+[Line                   65]: Missing the text attribute.
+[Line                   74]: Unknown attribute-value pair Compound=Yes
+[Line                   88]: Missing the sent_id attribute.
+[Line                   88]: Missing the text attribute.
+[Line                   106]: Missing the sent_id attribute.
+[Line                   106]: Missing the text attribute.
+[Line                   112]: Unknown attribute-value pair Compound=Yes
+[Line                   120]: Unknown attribute-value pair Compound=Yes
+[Line                   128]: Missing the sent_id attribute.
+[Line                   128]: Missing the text attribute.
+[Line                   143]: Unknown attribute-value pair Compound=Yes
+[Line                   147]: Unknown attribute-value pair Mood=Part
+[Line                   148]: Morphological features must be sorted: 'Case=Acc,Nom|Gender=Fem|Number=Plur|Poss=Yes|'
+[Line                   148]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   151]: Missing the sent_id attribute.
+[Line                   151]: Missing the text attribute.
+[Line                   169]: Missing the sent_id attribute.
+[Line                   169]: Missing the text attribute.
+[Line                   187]: Missing the sent_id attribute.
+...suppressing further errors regarding Metadata
+[Line                   241]: Unknown attribute-value pair Compound=Yes
+[Line                   322]: Unknown attribute-value pair Compound=Yes
+[Line                   328]: Unknown attribute-value pair PronType=Refl
+[Line                   335]: The line has 11 columns, but 10 are expected.
+[Line                   335]: Empty value in column HEAD
+[Line                   335]: Invalid DEPREL value 5
+[Line                   335]: Failed for parse DEPS: discourse
+[Line                   335]: Unknown UD DEPREL: 5
+[Line                   335]: Malformed head:deprel pair 'discourse'
+[Line                   346]: Unknown UPOS tag: _
+[Line                   346]: Invalid UPOSTAG value _
+[Line                   347]: Unknown UPOS tag: _
+...suppressing further errors regarding Morpho
+[Line                   349]: Undefined ID in HEAD: 
+[Line                   349]: Failed for parse DEPS: discourse
+[Line                   349]: Failed to parse DEPS: discourse
+[Tree number 19 on line 334]: Non-integer head for word ID 2
+[Tree number 19 on line 334]: Non-tree structure. Words 1,2 are not reachable from the root 0.
+[Line                   369]: Trailing whitespace not allowed in column FORM
+[Line                   369]: 'pînă ' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Line                   416]: Trailing whitespace not allowed in column XPOSTAG
+[Line                   416]: White space not allowed in the XPOSTAG column: 'Pp3fso '
+[Line                   424]: Trailing whitespace not allowed in column XPOSTAG
+[Line                   424]: White space not allowed in the XPOSTAG column: 'Pp3fsa--------w '
+[Line                   429]: Trailing whitespace not allowed in column XPOSTAG
+[Line                   429]: White space not allowed in the XPOSTAG column: 'Pp3fsa--------w '
+[Line                   436]: The line has 11 columns, but 10 are expected.
+[Line                   436]: Empty value in column HEAD
+[Line                   436]: Invalid DEPREL value 11
+[Line                   436]: Failed for parse DEPS: cc
+[Line                   436]: Unknown UD DEPREL: 11
+[Line                   436]: Malformed head:deprel pair 'cc'
+[Line                   438]: Trailing whitespace not allowed in column XPOSTAG
+[Line                   438]: White space not allowed in the XPOSTAG column: 'Pp3msr '
+[Line                   444]: Trailing whitespace not allowed in column XPOSTAG
+...suppressing further errors regarding Format
+[Line                   471]: Invalid DEPREL value 37
+[Line                   471]: Failed for parse DEPS: nsubj
+[Line                   471]: Unknown UD DEPREL: 37
+[Line                   471]: Malformed head:deprel pair 'nsubj'
+[Tree number 23 on line 436]: Non-tree structure. Words 1,36 are not reachable from the root 0.
+[Line                   518]: Invalid DEPREL value 9
+[Line                   518]: Failed for parse DEPS: obj
+[Line                   518]: Unknown UD DEPREL: 9
+[Line                   518]: Malformed head:deprel pair 'obj'
+[Tree number 25 on line 511]: Non-tree structure. Words 8 are not reachable from the root 0.
+...suppressing further errors regarding Syntax
+*** FAILED *** with 8162 errors
+Format errors: 2979
+Metadata errors: 1348
+Morpho errors: 2065
+Syntax errors: 1770
+The language-specific file /home/ginter/UD_PROJHOOK/tools/data/tokens_w_space.ro_nonstandard does not exist.
+
+
+******************
+
+
+</pre>
+</div>
+<div>
 <span class="doublewidespan" style="padding-left:3em">UD Romansh</span>
 <span class="widespan">rm</span>
 <span class="validationfail">EMPTY</span>
@@ -3141,16 +3303,14 @@ python tools/validate.py --lang ru_pud UD-dev-branches/UD_Russian-PUD/ru_pud-ud-
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Russian-SynTagRus</span>
 <span class="widespan">ru syntagrus</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T16:26:40Z">2017-10-05T16:26:40 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-01T00:21:12Z">2017-11-01T00:21:12 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-SynTagRus/ru_syntagrus-ud-dev.conllu
 
-[Line                   121450]: Empty node id 9.2, expected 9.1
-*** FAILED *** with 1 errors
-Format errors: 1
+*** PASSED ***
 
 
 ******************
@@ -3176,7 +3336,7 @@ python tools/validate.py --lang ru_syntagrus UD-dev-branches/UD_Russian-SynTagRu
 <span class="doublewidespan" style="padding-left:3em">UD Sanskrit</span>
 <span class="widespan">sa</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-11T12:18:52Z">2017-10-11T12:18:52 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-15T11:42:14Z">2017-10-15T11:42:14 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3212,25 +3372,25 @@ python tools/validate.py --lang sr UD-dev-branches/UD_Serbian/sr-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Slovak</span>
 <span class="widespan">sk</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T16:30:37Z">2017-10-05T16:30:37 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-30T20:38:03Z">2017-10-30T20:38:03 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang sk UD-dev-branches/UD_Slovak/sk-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovak/sk-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang sk UD-dev-branches/UD_Slovak/sk-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovak/sk-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang sk UD-dev-branches/UD_Slovak/sk-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang sk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Slovak/sk-ud-train.conllu
 
 *** PASSED ***
 
@@ -3330,7 +3490,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Spanish</span>
 <span class="widespan">es</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T16:34:06Z">2017-10-05T16:34:06 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-28T21:21:52Z">2017-10-28T21:21:52 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3362,7 +3522,7 @@ python tools/validate.py --lang es UD-dev-branches/UD_Spanish/es-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Spanish-AnCora</span>
 <span class="widespan">es ancora</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T16:36:08Z">2017-10-05T16:36:08 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-29T20:47:42Z">2017-10-29T20:47:42 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3394,7 +3554,7 @@ python tools/validate.py --lang es_ancora UD-dev-branches/UD_Spanish-AnCora/es_a
 <span class="doublewidespan" style="padding-left:3em">UD Spanish-PUD</span>
 <span class="widespan">es pud</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T16:37:26Z">2017-10-05T16:37:26 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-29T20:49:52Z">2017-10-29T20:49:52 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3412,7 +3572,7 @@ python tools/validate.py --lang es_pud UD-dev-branches/UD_Spanish-PUD/es_pud-ud-
 <span class="doublewidespan" style="padding-left:3em">UD Swedish</span>
 <span class="widespan">sv</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T16:38:17Z">2017-10-05T16:38:17 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-02T22:17:33Z">2017-11-02T22:17:33 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3444,7 +3604,7 @@ python tools/validate.py --lang sv UD-dev-branches/UD_Swedish/sv-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Swedish-LinES</span>
 <span class="widespan">sv lines</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T16:39:12Z">2017-10-05T16:39:12 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T09:48:49Z">2017-11-03T09:48:49 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3476,7 +3636,7 @@ python tools/validate.py --lang sv_lines UD-dev-branches/UD_Swedish-LinES/sv_lin
 <span class="doublewidespan" style="padding-left:3em">UD Swedish-PUD</span>
 <span class="widespan">sv pud</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T16:39:59Z">2017-10-05T16:39:59 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:33:27Z">2017-11-03T14:33:27 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3493,76 +3653,28 @@ python tools/validate.py --lang sv_pud UD-dev-branches/UD_Swedish-PUD/sv_pud-ud-
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Swedish Sign Language</span>
 <span class="widespan">swl</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T16:40:38Z">2017-10-05T16:40:38 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-30T20:38:11Z">2017-10-30T20:38:11 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang swl UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang swl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-dev.conllu
 
-[Line                   3]: Missing the sent_id attribute.
-[Line                   3]: Missing the text attribute.
-[Line                   7]: Unknown UD DEPREL: dobj
-[Line                   9]: Missing the sent_id attribute.
-[Line                   9]: Missing the text attribute.
-[Line                   13]: Missing the sent_id attribute.
-[Line                   13]: Missing the text attribute.
-[Line                   18]: Unknown UD DEPREL: dobj
-[Line                   20]: Missing the sent_id attribute.
-[Line                   20]: Missing the text attribute.
-[Line                   29]: Missing the sent_id attribute.
-[Line                   29]: Missing the text attribute.
-[Line                   33]: Unknown UD DEPREL: dobj
-[Line                   36]: Missing the sent_id attribute.
-[Line                   36]: Missing the text attribute.
-[Line                   49]: Missing the sent_id attribute.
-[Line                   49]: Missing the text attribute.
-[Line                   54]: Unknown UD DEPREL: dobj
-[Line                   56]: Missing the sent_id attribute.
-[Line                   56]: Missing the text attribute.
-*** FAILED *** with 20 errors
-Metadata errors: 16
-Syntax errors: 4
+*** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang swl UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang swl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-test.conllu
 
-[Line                   11]: Missing the sent_id attribute.
-[Line                   11]: Missing the text attribute.
-[Line                   15]: Unknown UD DEPREL: dobj
-[Line                   25]: Missing the sent_id attribute.
-[Line                   25]: Missing the text attribute.
-[Line                   30]: Missing the sent_id attribute.
-[Line                   30]: Missing the text attribute.
-[Line                   38]: Missing the sent_id attribute.
-[Line                   38]: Missing the text attribute.
-[Line                   44]: Missing the sent_id attribute.
-[Line                   44]: Missing the text attribute.
-[Line                   47]: Missing the sent_id attribute.
-[Line                   47]: Missing the text attribute.
-[Line                   52]: Missing the sent_id attribute.
-[Line                   52]: Missing the text attribute.
-[Line                   63]: Missing the sent_id attribute.
-[Line                   63]: Missing the text attribute.
-[Line                   65]: Missing the sent_id attribute.
-[Line                   65]: Missing the text attribute.
-[Line                   68]: Unknown UD DEPREL: dobj
-[Line                   70]: Unknown UD DEPREL: dobj
-[Line                   74]: Missing the sent_id attribute.
-...suppressing further errors regarding Metadata
-[Line                   85]: Unknown UD DEPREL: dobj
-[Line                   95]: Unknown UD DEPREL: dobj
-[Line                   100]: Unknown UD DEPREL: dobj
-[Line                   198]: Unknown UD DEPREL: dobj
-[Line                   250]: Unknown UD DEPREL: dobj
-[Line                   289]: Unknown UD DEPREL: dobj
-[Line                   322]: Unknown UD DEPREL: dobj
-[Line                   340]: Unknown UD DEPREL: dobj
-*** FAILED *** with 103 errors
-Metadata errors: 92
-Syntax errors: 11
+*** PASSED ***
+
+
+******************
+
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang swl /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Swedish_Sign_Language/swl-ud-train.conllu
+
+*** PASSED ***
 
 
 ******************
@@ -3605,12 +3717,33 @@ python tools/validate.py --lang ta UD-dev-branches/UD_Tamil/ta-ud-train.conllu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Telugu</span>
 <span class="widespan">te</span>
-<span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T16:41:23Z">2017-10-05T16:41:23 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-02T16:25:33Z">2017-11-02T16:25:33 zulu</time></span>
 </div>
 <div>
 <pre>
-No data
+python tools/validate.py --lang te UD-dev-branches/UD_Telugu/dev-tescript.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang te UD-dev-branches/UD_Telugu/test-tescript.conllu
+
+*** PASSED ***
+
+
+******************
+
+python tools/validate.py --lang te UD-dev-branches/UD_Telugu/train-tescript.conllu
+
+*** PASSED ***
+
+
+******************
+
+
 </pre>
 </div>
 <div>
@@ -3749,25 +3882,25 @@ python tools/validate.py --lang tr_pud UD-dev-branches/UD_Turkish-PUD/tr_pud-ud-
 <span class="doublewidespan" style="padding-left:3em">UD Ukrainian</span>
 <span class="widespan">uk</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T16:44:26Z">2017-10-05T16:44:26 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-01T16:03:33Z">2017-11-01T16:03:33 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang uk UD-dev-branches/UD_Ukrainian/uk-ud-dev.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang uk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Ukrainian/uk-ud-dev.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang uk UD-dev-branches/UD_Ukrainian/uk-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang uk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Ukrainian/uk-ud-test.conllu
 
 *** PASSED ***
 
 
 ******************
 
-python tools/validate.py --lang uk UD-dev-branches/UD_Ukrainian/uk-ud-train.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang uk /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Ukrainian/uk-ud-train.conllu
 
 *** PASSED ***
 
@@ -3781,7 +3914,7 @@ python tools/validate.py --lang uk UD-dev-branches/UD_Ukrainian/uk-ud-train.conl
 <span class="doublewidespan" style="padding-left:3em">UD Upper Sorbian</span>
 <span class="widespan">hsb</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T16:45:08Z">2017-10-05T16:45:08 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-10-26T20:07:51Z">2017-10-26T20:07:51 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3838,7 +3971,7 @@ python tools/validate.py --lang ur UD-dev-branches/UD_Urdu/ur-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Uyghur</span>
 <span class="widespan">ug</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T16:46:55Z">2017-10-05T16:46:55 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-02T13:41:58Z">2017-11-02T13:41:58 zulu</time></span>
 </div>
 <div>
 <pre>

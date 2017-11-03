@@ -5,7 +5,7 @@ shortdef: 'parataxis insert'
 udver: '2'
 ---
 
-The `parataxis:insert` relation is used for parenthetical clauses which could not be considered as independent sentences, since they are not saturated. 
+In FrenchSpoken, the `parataxis:insert` relation is used for parenthetical clauses which could not be considered as independent sentences, since they are not saturated. 
 In French such clauses can usually be found in formal writings (news, tales etc.). They are also typically caracterized by an inversion of the subject.
 
 N.B.: When the parenthetical clause is saturated, the [parataxis:parenth]() relation is more appropriate.

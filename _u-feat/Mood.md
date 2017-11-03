@@ -38,6 +38,7 @@ happen, without adding any attitude of the speaker.
   university."
 * [de] _<b>Du studierst</b> an der Universität._ "<b>You study</b> at
   the university."
+* [fr] _Tu le <b>fais</b>._ "You <b>do</b> it."
 * [tr] *eve <b>gidiyor</b>* "she is going home"
 * [tr] *eve <b>gitti</b>* "she went home"
 
@@ -53,6 +54,7 @@ action of the verb.
 * [tr] *eve <b>git</b>* "go home!"
 * [tr] *eve <b>gidin</b>* "go home!" (plural)
 * [tr] *eve <b>gitsin</b>* "[let him] go home!" (3rd person imperative)
+* [sa] <b>ब्रूहि</b> राजः / _<b>brūhi</b> rājaḥ_ "<b>tell</b> the king"
 
 ### <a name="Cnd">`Cnd`</a>: conditional
 
@@ -80,7 +82,7 @@ tenses (past and present).
 
 The action of the verb is possible but not certain.
 This mood corresponds to the modal verbs _can, might, be able to_.
-Used e.g. in Finnish.
+Used e.g. in Finnish. See also the optative.
 
 #### Examples
 
@@ -99,11 +101,15 @@ conditional meaning.
 * [fr] <i>Je veux que tu le <b>fasses</b></i> "I want you to do it" lit. <i>I
   want that you it do</i><tt>.Sub</tt>
 
-### <a name="Jus">`Jus`</a>: jussive
+### <a name="Jus">`Jus`</a>: jussive / injunctive
 
 The jussive mood expresses the desire that the action happens; it is thus close to both imperative and optative.
 Unlike in desiderative, it is the speaker, not the subject who wishes that it happens.
-Used e.g. in Arabic.
+Used e.g. in Arabic. We also map the Sanskrit injunctive to `Mood=Jus`.
+
+#### Examples
+
+* [sa] मैवं <b>वोचः</b> / <i>maivaṁ <b>vocaḥ</b></i> "Do not <b>speak</b> this way"
 
 ### <a name="Prp">`Prp`</a>: purposive
 
@@ -117,10 +123,12 @@ The quotative mood is used e.g. in Estonian to denote direct speech.
 
 Expresses exclamations like "May you have a long life!" or "If only I were rich!"
 In Turkish it also expresses suggestions.
+In Sanskrit it may express possibility (cf. the potential mood in other languages).
 
 #### Examples
 
 * [tr] *eve <b>gidelim</b>* 'let's go home'
+* [sa] अप्रधानः प्रधानः <b>स्यात्</b> / _apradhānaḥ pradhānaḥ <b>syāt</b>_ "the unimportant person <b>may be (become)</b> important"
 
 ### <a name="Des">`Des`</a>: desiderative
 

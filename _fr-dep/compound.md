@@ -34,5 +34,5 @@ elle voit le garçon pâtissier \n she can see the young pastry chef
 compound(garçon,pâtissier)
 ~~~
 
-N.B.: noun compounds must not be confused with apposed nominal modifiers, which are annotated with the [nmod:appos]() relation.
+N.B.: noun compounds must not be confused with apposed nominal modifiers, which are annotated with the [nmod:appos]() relation in the FrenchSpoken corpus.
 

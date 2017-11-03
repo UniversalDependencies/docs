@@ -16,9 +16,9 @@ In accordance with the UD approach, adjectival ordinal numerals _(առաջին, 
 
 Note that participles are word forms that may share properties and usage of adjectives and verbs. Depending on context, they may be classified as either [VERB]() or `ADJ`.
 
-In Armenian the Adjectives inflect for [Degree](). Degree can also be specified by a set of [adverbs](hy-pos/ADV).
+In Armenian adjectives inflect for [Degree](). Degree can also be specified by [adverb](hy-pos/ADV) _ավելի_.
 
-Note that some adjectives and most adverbs in Armenian don’t have a Degree feature.
+Note that some adjectives and most adverbs in Armenian don’t have a degree feature.
 
 All adjectives and some of the adverbs may function as a noun without additional derivation, in these cases, we keep the POS tag of the original word, but assign nominal features to the word.
 
@@ -31,7 +31,7 @@ All adjectives and some of the adverbs may function as a noun without additional
 -	_առաջին, երկրորդ, երրորդ_ “first, second, third”
 -	_խմելու, գրելու_ “(for) drinking, (for) writing”
 -	_կառուցված/կառուցվող/կառուցվելիք շենք_ “a built house, a house, that is being built, a house that will be built” (resultative, subject, destinative passive participial adjective)
--	_հնչող/հնչած/հնչելիք զանգ_ “a ringing call, a call that ringed, a call that will ring” (resultative, subject, destinative participial adjective)
+-	_հնչած/հնչող/հնչելիք զանգ_ “a ringing call, a call that ringed, a call that will ring” (resultative, subject, destinative participial adjective)
 
 ### Border cases
 

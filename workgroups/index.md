@@ -10,3 +10,5 @@ As discussed at the [brainstorming meeting in Pisa](http://universaldependencies
 
 1. [Enhanced dependencies](enhanced.html) 
 2. [Multiword expressions](mwe.html)
+2. [Existentials](existentials.html)
+2. [Comparative constructions](comparatives.html)
