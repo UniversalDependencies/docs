@@ -35,6 +35,8 @@ If you want to receive news about Universal Dependencies, you can subscribe to t
 {% include at_glance_empty.html %}
 </div>
 
+<small>Language families (and genera for families with more than one genus represented) are taken from [WALS Online](http://wals.info)</small>
+
 <small>Disclaimer: Our use of flags to symbolise languages is only intended as a visual enhancement of the website and should not be interpreted as a political statement in any way.</small>
 
 <a name="download"></a>
