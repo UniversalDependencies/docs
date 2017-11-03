@@ -158,21 +158,21 @@ This block should be the last thing in the `README` file. The properties are as 
     counts as manual annotation.
   * `converted from manual` ... means that it was originally annotated in a non-UD scheme, then converted to UD by a program,
     but the converted annotation has not been verified by a human annotator.
-  * `converted from manual and checked` ... significant spot-checking and manual corrections occurred after the conversion;
+  * `converted with corrections` ... significant spot-checking and manual corrections occurred after the conversion;
     however, it does not qualify as full manual annotation because not all words were visited systematically.
     This is an intermediate level between “converted from manual” and “manual native”.
   * `automatic` ... means that the annotation was predicted by a program such as tagger or parser.
-  * `automatic and checked` ... significant spot-checking and manual corrections occurred after the automatic prediction;
+  * `automatic with corrections` ... significant spot-checking and manual corrections occurred after the automatic prediction;
     however, it does not qualify as full manual annotation because not all words were visited systematically.
     This is an intermediate level between “automatic” and “manual native”.
   * `not available` ... means that this type of annotation is not present.
 * Note that some values are available only for some types of annotation.
   UPOS tags and relations must always be available and cannot be automatic.
-  * `Lemmas` ... `manual native | converted from manual (and checked) | automatic (and checked) | not available`
-  * `UPOS` ... `manual native | converted from manual (and checked)`
-  * `XPOS` ... `manual native | automatic (and checked) | not available`
-  * `Features` ... `manual native | converted from manual (and checked) | automatic (and checked) | not available`
-  * `Relations` ... `manual native | converted from manual (and checked)`
+  * `Lemmas` ... `manual native | converted from manual | converted with corrections | automatic | automatic with corrections | not available`
+  * `UPOS` ... `manual native | converted from manual | converted with corrections`
+  * `XPOS` ... `manual native | automatic | automatic with corrections | not available`
+  * `Features` ... `manual native | converted from manual | converted with corrections | automatic | automatic with corrections | not available`
+  * `Relations` ... `manual native | converted from manual | converted with corrections`
 * `Contributors`: the list of contributors to be included with the data release and in the LINDAT download page. This is a semicolon-separated list where every name is in the `Last, First` form and the `README` file should be utf-8 encoded to make sure special characters are preserved correctly.
 * `Contributing`:
   * `here` ... The changes are done directly in the dev branch of the UD repository. Bugs can be fixed via pull requests.
