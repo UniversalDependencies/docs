@@ -36,13 +36,13 @@ a.fronta:visited {
 }
 .smallgray {
   font-size: 80%;
-  color:gray; 
+  color:gray;
 }
 .smallgray a {
-  color:gray; 
+  color:gray;
 }
 .smallgray a:visited {
-  color:#aaaaaa; 
+  color:#aaaaaa;
 }
 
 span.tt {
@@ -132,7 +132,7 @@ img.icon {
   margin-bottom: 0;
 }
 
-body { 
+body {
 /*   font-family: 'Open Sans', arial, sans-serif; */
 /*  font-family: 'Open Sans', Arial, freesans, sans-serif; */
   font-family: 'Source Sans Pro', Arial, freesans, sans-serif;
@@ -141,7 +141,8 @@ body {
 }
 
 h2 {
-  margin-top: 2em;
+/*  margin-top: 2em; */
+  margin-top: 0em;
 }
 
 h2.nomargin {
@@ -154,7 +155,7 @@ h3 {
 }
 
 .infolabel {
-  font-weight: bold;  
+  font-weight: bold;
   display: inline-block;
   width: 10em;
 }
@@ -177,7 +178,7 @@ div.center {
 #menulogo {
   padding-top: 0.5em;
   padding-right: 1em;
-  float: right;  
+  float: right;
 }
 #hp-header span a {
   text-decoration: none; /* no underline in menu */
@@ -250,10 +251,10 @@ div.center {
 }
 
 .image {
-  margin-left: 2em;    
+  margin-left: 2em;
 }
 
-.image .caption { 
+.image .caption {
   font-size: 85%;
   font-family: sans-serif;
   text-align: center;
@@ -265,7 +266,7 @@ div.center {
   margin-right: auto;
 }
 
-.annotation_wrapper { 
+.annotation_wrapper {
   margin-left: 2em;
   border: 1px solid;
   border-color: rgb(136, 136, 136);
@@ -376,7 +377,7 @@ td.none {
 }
 .center-wrapper {
   width: 5em;
-  height: 5em; 
+  height: 5em;
   display: table;
 }
 .center-wrapper p {
@@ -403,7 +404,7 @@ div.example {
 }
 
 #indextable td.right {
-  text-align: right;  
+  text-align: right;
 }
 
 #indextable th {
@@ -501,7 +502,7 @@ h4, h5, h6 {
     margin-left: auto;
     margin-right: auto;
 }
-   
+
 
 .flag {
     vertical-align: middle;
