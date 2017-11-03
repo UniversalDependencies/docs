@@ -33,7 +33,7 @@ The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<tt><a href="sv-dep-conj.html">conj</a></tt>]--> NUM</tt> (23; 100%),
 <tt>NUM --[<tt><a href="sv-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (10; 100%),
 <tt>NUM --[<tt><a href="sv-dep-obl.html">obl</a></tt>]--> NUM</tt> (10; 100%),
-<tt>NUM --[<tt><a href="sv-dep-nsubj.html">nsubj</a></tt>]--> NUM</tt> (2; 100%),
 <tt>NUM --[<tt><a href="sv-dep-appos.html">appos</a></tt>]--> NUM</tt> (2; 100%),
+<tt>NUM --[<tt><a href="sv-dep-nsubj.html">nsubj</a></tt>]--> NUM</tt> (2; 100%),
 <tt>NUM --[<tt><a href="sv-dep-acl.html">acl</a></tt>]--> NUM</tt> (1; 100%).
 

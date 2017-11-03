@@ -35,7 +35,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 3780 <tt><a href="sv-pos-AUX.html">AUX</a></tt> tokens (90% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="sv-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3780; 100%), <tt><a href="sv-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3780; 100%), <tt><a href="sv-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3772; 100%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="sv-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (3780; 100%), <tt><a href="sv-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3780; 100%), <tt><a href="sv-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (3772; 100%).
 
 `AUX` tokens may have the following values of `Tense`:
 
@@ -53,7 +53,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 
 1564 <tt><a href="sv-pos-ADJ.html">ADJ</a></tt> tokens (18% of all `ADJ` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="sv-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1564; 100%), <tt><a href="sv-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1564; 100%), <tt><a href="sv-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1556; 99%), <tt><a href="sv-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1001; 64%), <tt><a href="sv-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (921; 59%).
+The most frequent other feature values with which `ADJ` and `Tense` co-occurred: <tt><a href="sv-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1564; 100%), <tt><a href="sv-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (1564; 100%), <tt><a href="sv-feat-Case.html">Case</a></tt><tt>=Nom</tt> (1556; 99%), <tt><a href="sv-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (1001; 64%), <tt><a href="sv-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (921; 59%).
 
 `ADJ` tokens may have the following values of `Tense`:
 

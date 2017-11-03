@@ -38,7 +38,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 6814 <tt><a href="sv-pos-ADJ.html">ADJ</a></tt> tokens (80% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="sv-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6799; 100%), <tt><a href="sv-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (5767; 85%), <tt><a href="sv-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (5767; 85%), <tt><a href="sv-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (5708; 84%), <tt><a href="sv-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3678; 54%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="sv-feat-Case.html">Case</a></tt><tt>=Nom</tt> (6799; 100%), <tt><a href="sv-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (5767; 85%), <tt><a href="sv-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (5767; 85%), <tt><a href="sv-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (5708; 84%), <tt><a href="sv-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3678; 54%).
 
 `ADJ` tokens may have the following values of `Number`:
 
@@ -102,7 +102,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 92 <tt><a href="sv-pos-NUM.html">NUM</a></tt> tokens (5% of all `NUM` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="sv-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (92; 100%), <tt><a href="sv-feat-Case.html">Case</a></tt><tt>=Nom</tt> (92; 100%).
+The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="sv-feat-Case.html">Case</a></tt><tt>=Nom</tt> (92; 100%), <tt><a href="sv-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (92; 100%).
 
 `NUM` tokens may have the following values of `Number`:
 
@@ -113,7 +113,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 
 49 <tt><a href="sv-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="sv-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (49; 100%), <tt><a href="sv-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (49; 100%), <tt><a href="sv-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (49; 100%), <tt><a href="sv-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (49; 100%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="sv-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (49; 100%), <tt><a href="sv-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (49; 100%), <tt><a href="sv-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (49; 100%), <tt><a href="sv-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (49; 100%).
 
 `VERB` tokens may have the following values of `Number`:
 

@@ -31,7 +31,7 @@ The most frequent other feature values with which `ADV` and `Abbr` co-occurred: 
 
 346 <tt><a href="sv-pos-NOUN.html">NOUN</a></tt> tokens (2% of all `NOUN` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="sv-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (346; 100%), <tt><a href="sv-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (346; 100%), <tt><a href="sv-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (346; 100%), <tt><a href="sv-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (346; 100%).
+The most frequent other feature values with which `NOUN` and `Abbr` co-occurred: <tt><a href="sv-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (346; 100%), <tt><a href="sv-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (346; 100%), <tt><a href="sv-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (346; 100%), <tt><a href="sv-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (346; 100%).
 
 `NOUN` tokens may have the following values of `Abbr`:
 
@@ -44,7 +44,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 
 9 <tt><a href="sv-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="sv-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="sv-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="sv-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="sv-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="sv-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="sv-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="sv-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (9; 100%).
+The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: <tt><a href="sv-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="sv-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="sv-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="sv-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="sv-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="sv-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (9; 100%), <tt><a href="sv-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (9; 100%).
 
 `ADJ` tokens may have the following values of `Abbr`:
 
@@ -55,7 +55,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 
 7 <tt><a href="sv-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `VERB` and `Abbr` co-occurred: <tt><a href="sv-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7; 100%), <tt><a href="sv-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7; 100%), <tt><a href="sv-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="sv-feat-Mood.html">Mood</a></tt><tt>=Imp</tt> (7; 100%).
+The most frequent other feature values with which `VERB` and `Abbr` co-occurred: <tt><a href="sv-feat-Mood.html">Mood</a></tt><tt>=Imp</tt> (7; 100%), <tt><a href="sv-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (7; 100%), <tt><a href="sv-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7; 100%), <tt><a href="sv-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7; 100%).
 
 `VERB` tokens may have the following values of `Abbr`:
 
