@@ -11,7 +11,8 @@ udver: '2'
 
 # UD Swedish
 
-Language: [Swedish](../sv/overview/sv-hub.html) (code: `sv`)
+Language: [Swedish](../sv/overview/sv-hub.html) (code: `sv`)<br/>
+Family: Indo-European, Germanic
 
 This treebank has been part of Universal Dependencies since the UD v1.0 release.
 
