@@ -25,6 +25,9 @@ If you want to receive news about Universal Dependencies, you can subscribe to t
 
 ## Current UD Languages
 
+<small>Information about language families (and genera for families with multiple branches) is normally taken from 
+[WALS Online](http://wals.info) (IE = Indo-European).</small>
+
 <div id="accordion" class="jquery-ui-accordion">
 {% include at_glance.html %}
 </div>
@@ -34,9 +37,6 @@ If you want to receive news about Universal Dependencies, you can subscribe to t
 <div id="accordion" class="jquery-ui-accordion">
 {% include at_glance_empty.html %}
 </div>
-
-<small>Information about language families (and genera for families with multiple branches) is normally taken from 
-[WALS Online](http://wals.info) (IE = Indo-European).</small>
 
 <small>Disclaimer: Our use of flags to symbolise languages is only intended as a visual enhancement of the website and should not be interpreted as a political statement in any way.</small>
 
