@@ -6,9 +6,6 @@ permalink: es/overview/morphology.html
 
 # Morphology
 
-This document is a placeholder for the language-specific overview of
-guidelines for part-of-speech tags and features.
-
 Token level morphology features and lemmas have been added automatically using the parsers/taggers in Bohnet et al. 2013* trained on the Ancora** treebank and converted automatically to UD standards.
 
 Various heuristics have been added to improve the output of the tagger, fix obvious errors and add features that
