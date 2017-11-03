@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-03T14:45:17Z">2017-11-03T14:45:17 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-03T14:48:57Z">2017-11-03T14:48:57 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -882,7 +882,7 @@ python tools/validate.py --lang nl UD-dev-branches/UD_Dutch/nl-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Dutch-LassySmall</span>
 <span class="widespan">nl lassysmall</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:45:10Z">2017-11-03T14:45:10 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:48:51Z">2017-11-03T14:48:51 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2767,7 +2767,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD North Sami</span>
 <span class="widespan">sme</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-05T15:47:26Z">2017-10-05T15:47:26 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:45:14Z">2017-11-03T14:45:14 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2806,7 +2806,7 @@ python tools/validate.py --lang sme UD-dev-branches/UD_North_Sami/sme-ud.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-Bokmaal</span>
 <span class="widespan">no bokmaal</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-01T12:55:21Z">2017-11-01T12:55:21 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:46:36Z">2017-11-03T14:46:36 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -2838,7 +2838,7 @@ python tools/validate.py --lang no_bokmaal UD-dev-branches/UD_Norwegian-Bokmaal/
 <span class="doublewidespan" style="padding-left:3em">UD Norwegian-Nynorsk</span>
 <span class="widespan">no nynorsk</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-10-17T08:23:16Z">2017-10-17T08:23:16 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:48:11Z">2017-11-03T14:48:11 zulu</time></span>
 </div>
 <div>
 <pre>
