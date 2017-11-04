@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-04T10:09:51Z">2017-11-04T10:09:51 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-04T10:14:09Z">2017-11-04T10:14:09 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1199,11 +1199,11 @@ python tools/validate.py --lang en_partut UD-dev-branches/UD_English-ParTUT/en_p
 <span class="doublewidespan" style="padding-left:3em">UD Erzya</span>
 <span class="widespan">myv</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T16:28:26Z">2017-11-03T16:28:26 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-04T10:14:09Z">2017-11-04T10:14:09 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang myv UD-dev-branches/UD_Erzya/myv_BryzhinskijMixail_Kirdazht_manu_Pers_Chap-01.conlluTraceback (most recent call last):
+python tools/validate.py --lang myv UD-dev-branches/UD_Erzya/myv-ud-dev.conlluTraceback (most recent call last):
   File "tools/validate.py", line 735, in &lt;module&gt;
     validate(inp,out,args,tagsets,known_sent_ids)
   File "tools/validate.py", line 625, in validate
@@ -1214,76 +1214,30 @@ IndexError: list index out of range
 
 
 
-[Line                   33]: Morphological features must be sorted: 'Sem/Ant_Mal|Number=Sing,Plur|Case=Gen|Definite=Ind'
-[Line                   33]: Spurious morphological feature: 'Sem/Ant_Mal'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   33]: If an attribute has multiple values, these must be sorted as well: 'Number=Sing,Plur'
-[Line                   34]: Morphological features must be sorted: 'Valency=2|Mood=Ind|Tense=Prt1|Number[subj]=Plur|Person[subj]=3|Number[obj]=Sing|Person[obj]=3'
-[Line                   34]: Unknown attribute-value pair Valency=2
-[Line                   34]: Unknown attribute-value pair Tense=Prt1
-[Line                   34]: Unknown attribute-value pair Number[subj]=Plur
-[Line                   34]: Unknown attribute-value pair Person[subj]=3
-[Line                   34]: Unknown attribute-value pair Number[obj]=Sing
-[Line                   34]: Unknown attribute-value pair Person[obj]=3
-[Line                   35]: The line has 9 columns, but 10 are expected.
-[Line                   35]: Morphological features must be sorted: 'Valency=2|Derivation=NomAg|Number=Sing|Case=Nom|Definite=Ind'
-[Line                   35]: Unknown attribute-value pair Valency=2
-[Line                   35]: Unknown attribute-value pair Derivation=NomAg
-[Line                   35]: Failed for parse DEPS: налкставтыця
-[Line                   35]: Malformed head:deprel pair 'налкставтыця'
-[Line                   36]: Morphological features must be sorted: 'Sem/Ani|Number=Plur|Case=Nom|Definite=Ind'
-[Line                   36]: Spurious morphological feature: 'Sem/Ani'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   37]: Spurious morphological feature: 'CLB'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   38]: Failed for parse DEPS: налкставтыця
-[Line                   38]: Failed to parse DEPS: налкставтыця
-[Line                   38]: Spurious sent_id line: '#sent_id = chapID1:paragID1:sentID1' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   38]: Missing the sent_id attribute.
-[Line                   38]: Exception caught!
-*** FAILED *** with 24 errors
-Format errors: 4
-Metadata errors: 2
-Morpho errors: 16
-Syntax errors: 2
-The language-specific file /home/ginter/UD_PROJHOOK/tools/data/feat_val.myv does not exist.
-python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PROJHOOK/tools/data/feat_val.myv
-
-
-******************
-
-python tools/validate.py --lang myv UD-dev-branches/UD_Erzya/myv_KutorkinAndrej_LazhnicyaSuraII_1976_Pers_Part01-Chap01.conlluTraceback (most recent call last):
-  File "tools/validate.py", line 735, in &lt;module&gt;
-    validate(inp,out,args,tagsets,known_sent_ids)
-  File "tools/validate.py", line 625, in validate
-    validate_text_meta(comments,tree)
-  File "tools/validate.py", line 165, in validate_text_meta
-    if u"NoSpaceAfter=Yes" in cols[MISC]:
-IndexError: list index out of range
-
-
-
-[Line                   33]: Morphological features must be sorted: 'Number=Sing|Case=Nom|Definite=Def'
+[Line                   33]: Morphological features must be sorted: 'Sg|Nom|Def'
+[Line                   33]: Spurious morphological feature: 'Sg'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   33]: Spurious morphological feature: 'Nom'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   33]: Spurious morphological feature: 'Def'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
 [Line                   33]: Unknown UD DEPREL: nsubj:cop
-[Line                   34]: Morphological features must be sorted: 'Valency=1|Mood=Ind|Tense=Prt1|Number[subj]=Sing|Person[subj]=3'
-[Line                   34]: Unknown attribute-value pair Valency=1
-[Line                   34]: Unknown attribute-value pair Tense=Prt1
-[Line                   34]: Unknown attribute-value pair Number[subj]=Sing
-[Line                   34]: Unknown attribute-value pair Person[subj]=3
-[Line                   35]: Morphological features must be sorted: 'Number=Sing,Plur|Case=Gen|Definite=Ind'
-[Line                   35]: If an attribute has multiple values, these must be sorted as well: 'Number=Sing,Plur'
+[Line                   34]: Morphological features must be sorted: 'IV|Ind|Prt1|ScSg3'
+[Line                   34]: Spurious morphological feature: 'IV'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   34]: Spurious morphological feature: 'Ind'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   34]: Spurious morphological feature: 'Prt1'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   34]: Spurious morphological feature: 'ScSg3'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   35]: Morphological features must be sorted: 'SP|Gen|Indef'
+[Line                   35]: Spurious morphological feature: 'SP'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   35]: Spurious morphological feature: 'Gen'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   35]: Spurious morphological feature: 'Indef'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
 [Line                   35]: Unknown UD DEPREL: nmod:poss
-[Line                   36]: Morphological features must be sorted: 'Number=Sing|Case=Nom|Definite=Ind'
+[Line                   36]: Morphological features must be sorted: 'Sg|Nom|Indef'
+[Line                   36]: Spurious morphological feature: 'Sg'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   36]: Spurious morphological feature: 'Nom'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   36]: Spurious morphological feature: 'Indef'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
 [Line                   38]: Spurious sent_id line: '#sent_id = partID1:chapID1:paragID1:sentID1: pgNo="5"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   38]: Missing the sent_id attribute.
 [Line                   38]: SpaceAfter=No is missing in the MISC field of node #4 because the text is 'сочельник.'
-[Line                   41]: Morphological features must be sorted: 'Valency=2|Mood=Ind|Tense=Prt1|Number[subj]=Sing|Person[subj]=3'
-[Line                   41]: Unknown attribute-value pair Valency=2
-[Line                   41]: Unknown attribute-value pair Tense=Prt1
-[Line                   41]: Unknown attribute-value pair Number[subj]=Sing
-[Line                   41]: Unknown attribute-value pair Person[subj]=3
-[Line                   42]: Spurious morphological feature: 'Attr'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   43]: Morphological features must be sorted: 'Number=Sing|Case=Nom|Definite=Ind'
-[Line                   45]: Morphological features must be sorted: 'Number=Sing|Case=Nom|Definite=Ind'
-[Line                   46]: Morphological features must be sorted: 'Number=Sing,Plur|Case=Gen|Definite=Ind'
-[Line                   46]: If an attribute has multiple values, these must be sorted as well: 'Number=Sing,Plur'
+[Line                   41]: Morphological features must be sorted: 'TV|Ind|Prt1|ScSg3'
+[Line                   41]: Spurious morphological feature: 'TV'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
 ...suppressing further errors regarding Morpho
 [Line                   50]: Unknown UD DEPREL: nmod:poss
 [Line                   53]: Spurious sent_id line: '#sent_id = partID1:chapID1:paragID1:sentID2: pgNo="5"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
@@ -1304,6 +1258,7 @@ IndexError: list index out of range
 [Line                   84]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'Груня.'
 [Line                   89]: Unknown UD DEPREL: nmod:poss
 [Line                   92]: Unknown UD DEPREL: nmod:poss
+[Line                   94]: Unknown UD DEPREL: nsubj:cop
 [Line                   101]: Spurious sent_id line: '#sent_id = partID1:chapID1:paragID3:sentID3: pgNo="5"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   101]: Missing the sent_id attribute.
 [Line                   101]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'пилензэ, теке бокава[...]'
@@ -1326,7 +1281,6 @@ IndexError: list index out of range
 [Tree number 9 on line 129]: Empty head for word ID 9
 [Tree number 9 on line 129]: Empty head for word ID 13
 [Tree number 9 on line 129]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20 are not reachable from the root 0.
-[Line                   161]: Unknown UD DEPREL: aux:subj
 ...suppressing further errors regarding Syntax
 [Line                   369]: Undefined ID in HEAD: _
 [Tree number 26 on line 356]: Empty head for word ID 4
@@ -1340,14 +1294,12 @@ IndexError: list index out of range
 [Line                   912]: Undefined ID in HEAD: obj
 [Tree number 71 on line 900]: Non-integer head for word ID 11
 ...suppressing further errors regarding Format
-*** FAILED *** with 3011 errors
+*** FAILED *** with 4225 errors
 Format errors: 39
 Metadata errors: 529
-Morpho errors: 2315
-Syntax errors: 128
+Morpho errors: 3528
+Syntax errors: 129
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.myv does not exist.
-The language-specific file /home/ginter/UD_PROJHOOK/tools/data/feat_val.myv does not exist.
-python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PROJHOOK/tools/data/feat_val.myv
 
 
 ******************
