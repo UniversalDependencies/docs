@@ -35,6 +35,8 @@ collections:
     permalink: /u/ext-feat/:path.html
   cs:
     output: true
+  en:
+    output: true
 
 
 excerpt_separator: "\n\n"
