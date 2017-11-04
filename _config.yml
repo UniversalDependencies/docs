@@ -41,6 +41,10 @@ collections:
     output: true
   fi:
     output: true
+  af:
+    output: true
+  ar:
+    output: true
 
 
 excerpt_separator: "\n\n"
