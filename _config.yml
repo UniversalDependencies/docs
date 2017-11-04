@@ -73,6 +73,20 @@ collections:
     output: true
   fa:
     output: true
+  fo:
+    output: true
+  fr:
+    output: true
+  fro:
+    output: true
+  ga:
+    output: true
+  gl:
+    output: true
+  got:
+    output: true
+  grc:
+    output: true
 
 
 excerpt_separator: "\n\n"
