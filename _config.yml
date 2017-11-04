@@ -45,6 +45,16 @@ collections:
     output: true
   ar:
     output: true
+  be:
+    output: true
+  bg:
+    output: true
+  ca:
+    output: true
+  ckb:
+    output: true
+  cop:
+    output: true
 
 
 excerpt_separator: "\n\n"
