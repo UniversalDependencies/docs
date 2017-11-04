@@ -4,7 +4,7 @@ title: 'compound:svc'
 shortdef: 'serial compound verb'
 ---
 
-`compound:svc` marks compound verb constructs, in non-nominal complex predicates. 
+`compound:svc` marks compound verb constructs, in non-nominal complex predicates.
 These typically consist of a non-finite verb and a semantically bleached finite verb, although both verbs being finite is not impossible.
 The relation is governed by the finite verb that controls the argument structure of the construct, and the same finite verb also governs all relevant arguments.
 If both verbs are finite, the finite verb that controls the argument structure is the head. These verbs are also often the semantic heads of the clause.
