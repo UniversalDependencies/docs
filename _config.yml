@@ -111,8 +111,6 @@ collections:
     output: true
   nl:
     output: true
-  no:
-    output: true
 
 
 excerpt_separator: "\n\n"
