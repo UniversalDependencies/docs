@@ -65,6 +65,14 @@ collections:
     output: true
   el:
     output: true
+  es:
+    output: true
+  et:
+    output: true
+  eu:
+    output: true
+  fa:
+    output: true
 
 
 excerpt_separator: "\n\n"
