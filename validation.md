@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-03T16:53:10Z">2017-11-03T16:53:10 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-04T08:10:19Z">2017-11-04T08:10:19 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -522,7 +522,7 @@ python tools/validate.py --lang zh UD-dev-branches/UD_Chinese/zh-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Chinese-CFL</span>
 <span class="widespan">zh cfl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T13:43:55Z">2017-11-03T13:43:55 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-04T08:10:19Z">2017-11-04T08:10:19 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -550,6 +550,30 @@ python tools/validate.py --lang zh_cfl UD-dev-branches/UD_Chinese-CFL/zh-cfl-tes
 ...suppressing further errors regarding Metadata
 *** FAILED *** with 453 errors
 Metadata errors: 453
+
+
+******************
+
+python tools/validate.py --lang zh_cfl UD-dev-branches/UD_Chinese-CFL/zh-clf-test.conlluTraceback (most recent call last):
+  File "tools/validate.py", line 735, in &lt;module&gt;
+    validate(inp,out,args,tagsets,known_sent_ids)
+  File "tools/validate.py", line 613, in validate
+    for comments,tree in trees(inp,tag_sets,args):
+  File "tools/validate.py", line 74, in trees
+    for line_counter, line in enumerate(inp):
+  File "/usr/lib/python2.7/codecs.py", line 612, in next
+    line = self.readline()
+  File "/usr/lib/python2.7/codecs.py", line 527, in readline
+    data = self.read(readsize, firstline=True)
+  File "/usr/lib/python2.7/codecs.py", line 474, in read
+    newchars, decodedbytes = self.decode(data, self.errors)
+UnicodeDecodeError: 'utf8' codec can't decode byte 0xff in position 0: invalid start byte
+
+
+
+[Line                   0]: Exception caught!
+*** FAILED *** with 1 errors
+Format errors: 1
 
 
 ******************
