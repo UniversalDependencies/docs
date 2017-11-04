@@ -87,6 +87,26 @@ collections:
     output: true
   grc:
     output: true
+  hsb:
+    output: true
+  hu:
+    output: true
+  hy:
+    output: true
+  it:
+    output: true
+  ja:
+    output: true
+  kk:
+    output: true
+  kmr:
+    output: true
+  ko:
+    output: true
+  la:
+    output: true
+  lv:
+    output: true
 
 
 excerpt_separator: "\n\n"
