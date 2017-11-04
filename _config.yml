@@ -113,12 +113,6 @@ collections:
     output: true
   no:
     output: true
-  pcm:
-    output: true
-  pl:
-    output: true
-  pt:
-    output: true
 
 
 excerpt_separator: "\n\n"
