@@ -55,6 +55,16 @@ collections:
     output: true
   cop:
     output: true
+  cu:
+    output: true
+  da:
+    output: true
+  dar:
+    output: true
+  de:
+    output: true
+  el:
+    output: true
 
 
 excerpt_separator: "\n\n"
