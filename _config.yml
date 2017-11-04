@@ -37,6 +37,10 @@ collections:
     output: true
   en:
     output: true
+  sv:
+    output: true
+  fi:
+    output: true
 
 
 excerpt_separator: "\n\n"
