@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Upper Sorbian UD'
-permalink: hsb/overview/hsb-hub.html
 udver: '2'
 ---
 

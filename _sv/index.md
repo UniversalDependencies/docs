@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Swedish UD'
-permalink: sv/overview/sv-hub.html
 udver: '2'
 ---
 

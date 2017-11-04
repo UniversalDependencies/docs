@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Catalan UD'
-permalink: ca/overview/ca-hub.html
 udver: '2'
 ---
 

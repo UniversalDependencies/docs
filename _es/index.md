@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Spanish UD'
-permalink: es/overview/es-hub.html
 udver: '2'
 ---
 

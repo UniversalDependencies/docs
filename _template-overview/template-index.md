@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  '<LanguageName> UD'
-permalink: '<lcode>/overview/<lcode>-hub.html'
 udver: '2'
 ---
 

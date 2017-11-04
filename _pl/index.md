@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Polish UD'
-permalink: pl/overview/pl-hub.html
 udver: '2'
 ---
 

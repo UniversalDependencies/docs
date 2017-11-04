@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'German UD'
-permalink: de/overview/de-hub.html
 udver: '2'
 ---
 

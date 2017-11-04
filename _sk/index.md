@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Slovak UD'
-permalink: sk/overview/sk-hub.html
 udver: '2'
 ---
 
