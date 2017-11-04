@@ -109,6 +109,8 @@ collections:
     output: true
   mr:
     output: true
+  no:
+    output: true
   nl:
     output: true
   pcm:
