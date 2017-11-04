@@ -148,6 +148,30 @@ collections:
     output: true
 
 
+
+#
+# Tagset conversion tables (even for languages that do not have their sections yet)
+#
+  tagset-conversion:
+    output: true
+    permalink: /tagset-conversion/:path.html
+#
+# Meeting materials
+#
+  2015-08-23-uppsala:
+    output: true
+    permalink: /2015-08-23-uppsala/:path.html
+  v2_prelim:
+    output: true
+    permalink: /v2_prelim/:path.html
+  v2:
+    output: true
+    permalink: /v2/:path.html
+  misc:
+    output: true
+    permalink: /misc/:path.html
+
+
 excerpt_separator: "\n\n"
 
 # URL configuration
