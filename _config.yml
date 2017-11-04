@@ -33,6 +33,8 @@ collections:
   ext-feat:
     output: true
     permalink: /u/ext-feat/:path.html
+  cs:
+    output: true
 
 
 excerpt_separator: "\n\n"
