@@ -9,10 +9,3 @@ udver: '2'
 # POS tags
 
 {% include fro-pos-table.html %}
-
-----------
-
-Alphabetical listing
-
-{% assign sorted = site.fro-pos | sort: 'title' %}{% for p in sorted %}
-* [{{ p.title }}](): {{ p.shortdef }}{% endfor %}

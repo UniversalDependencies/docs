@@ -19,10 +19,3 @@ We present first the [common list](#common-list) of relations used in most Treeb
 
 ## Full list
 {% include fr-dep-table.html %}
-
-----------
-
-Alphabetical listing
-
-{% assign sorted = site.fr-dep | sort: 'title' %}{% for p in sorted %}
-* [{{ p.title }}](): {{ p.shortdef }}{% endfor %}
