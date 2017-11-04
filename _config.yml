@@ -41,362 +41,1027 @@ collections:
 #
 # English
 #
-  en:
+  en-pos:
+    output: true
+    permalink: /en/pos/:path.html
+  en-feat:
+    output: true
+    permalink: /en/feat/:path.html
+  en-dep:
+    output: true
+    permalink: /en/dep/:path.html
+  en-overview:
     output: true
 #
 # Finnish
 #
-  fi:
+  fi-pos:
+    output: true
+    permalink: /fi/pos/:path.html
+  fi-feat:
+    output: true
+    permalink: /fi/feat/:path.html
+  fi-dep:
+    output: true
+    permalink: /fi/dep/:path.html
+  fi-overview:
     output: true
 #
 # Swedish
 #
-  sv:
+  sv-pos:
+    output: true
+    permalink: /sv/pos/:path.html
+  sv-feat:
+    output: true
+    permalink: /sv/feat/:path.html
+  sv-dep:
+    output: true
+    permalink: /sv/dep/:path.html
+  sv-overview:
     output: true
 #
 # Hungarian
 #
-  hu:
+  hu-pos:
+    output: true
+    permalink: /hu/pos/:path.html
+  hu-feat:
+    output: true
+    permalink: /hu/feat/:path.html
+  hu-dep:
+    output: true
+    permalink: /hu/dep/:path.html
+  hu-overview:
     output: true
 #
 # Irish
 #
-  ga:
+  ga-pos:
+    output: true
+    permalink: /ga/pos/:path.html
+  ga-feat:
+    output: true
+    permalink: /ga/feat/:path.html
+  ga-dep:
+    output: true
+    permalink: /ga/dep/:path.html
+  ga-overview:
     output: true
 #
 # Bulgarian
 #
-  bg:
+  bg-pos:
+    output: true
+    permalink: /bg/pos/:path.html
+  bg-feat:
+    output: true
+    permalink: /bg/feat/:path.html
+  bg-dep:
+    output: true
+    permalink: /bg/dep/:path.html
+  bg-overview:
     output: true
 #
 # Persian
 #
-  fa:
+  fa-pos:
+    output: true
+    permalink: /fa/pos/:path.html
+  fa-feat:
+    output: true
+    permalink: /fa/feat/:path.html
+  fa-dep:
+    output: true
+    permalink: /fa/dep/:path.html
+  fa-overview:
     output: true
 #
 # Hebrew
 #
-  he:
+  he-pos:
+    output: true
+    permalink: /he/pos/:path.html
+  he-feat:
+    output: true
+    permalink: /he/feat/:path.html
+  he-dep:
+    output: true
+    permalink: /he/dep/:path.html
+  he-overview:
     output: true
 #
 # Spanish
 #
-  es:
+  es-pos:
+    output: true
+    permalink: /es/pos/:path.html
+  es-feat:
+    output: true
+    permalink: /es/feat/:path.html
+  es-dep:
+    output: true
+    permalink: /es/dep/:path.html
+  es-overview:
     output: true
 #
 # French
 #
-  fr:
+  fr-pos:
+    output: true
+    permalink: /fr/pos/:path.html
+  fr-feat:
+    output: true
+    permalink: /fr/feat/:path.html
+  fr-dep:
+    output: true
+    permalink: /fr/dep/:path.html
+  fr-overview:
     output: true
 #
 # German
 #
-  de:
+  de-pos:
+    output: true
+    permalink: /de/pos/:path.html
+  de-feat:
+    output: true
+    permalink: /de/feat/:path.html
+  de-dep:
+    output: true
+    permalink: /de/dep/:path.html
+  de-overview:
     output: true
 #
 # Greek
 #
-  el:
+  el-pos:
+    output: true
+    permalink: /el/pos/:path.html
+  el-feat:
+    output: true
+    permalink: /el/feat/:path.html
+  el-dep:
+    output: true
+    permalink: /el/dep/:path.html
+  el-overview:
     output: true
 #
 # Basque
 #
-  eu:
+  eu-pos:
+    output: true
+    permalink: /eu/pos/:path.html
+  eu-feat:
+    output: true
+    permalink: /eu/feat/:path.html
+  eu-dep:
+    output: true
+    permalink: /eu/dep/:path.html
+  eu-overview:
     output: true
 #
 # Italian
 #
-  it:
+  it-pos:
+    output: true
+    permalink: /it/pos/:path.html
+  it-feat:
+    output: true
+    permalink: /it/feat/:path.html
+  it-dep:
+    output: true
+    permalink: /it/dep/:path.html
+  it-overview:
     output: true
 #
 # Korean
 #
-  ko:
+  ko-pos:
+    output: true
+    permalink: /ko/pos/:path.html
+  ko-feat:
+    output: true
+    permalink: /ko/feat/:path.html
+  ko-dep:
+    output: true
+    permalink: /ko/dep/:path.html
+  ko-overview:
     output: true
 #
 # Japanese
 #
-  ja:
+  ja-pos:
+    output: true
+    permalink: /ja/pos/:path.html
+  ja-feat:
+    output: true
+    permalink: /ja/feat/:path.html
+  ja-dep:
+    output: true
+    permalink: /ja/dep/:path.html
+  ja-overview:
     output: true
 #
 # Chinese
 #
-  zh:
+  zh-pos:
+    output: true
+    permalink: /zh/pos/:path.html
+  zh-feat:
+    output: true
+    permalink: /zh/feat/:path.html
+  zh-dep:
+    output: true
+    permalink: /zh/dep/:path.html
+  zh-overview:
     output: true
 #
 # Romanian
 #
-  ro:
+  ro-pos:
+    output: true
+    permalink: /ro/pos/:path.html
+  ro-feat:
+    output: true
+    permalink: /ro/feat/:path.html
+  ro-dep:
+    output: true
+    permalink: /ro/dep/:path.html
+  ro-overview:
     output: true
 #
 # Slovenian
 #
-  sl:
+  sl-pos:
+    output: true
+    permalink: /sl/pos/:path.html
+  sl-feat:
+    output: true
+    permalink: /sl/feat/:path.html
+  sl-dep:
+    output: true
+    permalink: /sl/dep/:path.html
+  sl-overview:
     output: true
 #
 # Danish
 #
-  da:
+  da-pos:
+    output: true
+    permalink: /da/pos/:path.html
+  da-feat:
+    output: true
+    permalink: /da/feat/:path.html
+  da-dep:
+    output: true
+    permalink: /da/dep/:path.html
+  da-overview:
     output: true
 #
 # Croatian
 #
-  hr:
+  hr-pos:
+    output: true
+    permalink: /hr/pos/:path.html
+  hr-feat:
+    output: true
+    permalink: /hr/feat/:path.html
+  hr-dep:
+    output: true
+    permalink: /hr/dep/:path.html
+  hr-overview:
     output: true
 #
 # Indonesian
 #
-  id:
+  id-pos:
+    output: true
+    permalink: /id/pos/:path.html
+  id-feat:
+    output: true
+    permalink: /id/feat/:path.html
+  id-dep:
+    output: true
+    permalink: /id/dep/:path.html
+  id-overview:
     output: true
 #
 # Amharic
 #
-  am:
+  am-pos:
+    output: true
+    permalink: /am/pos/:path.html
+  am-feat:
+    output: true
+    permalink: /am/feat/:path.html
+  am-dep:
+    output: true
+    permalink: /am/dep/:path.html
+  am-overview:
     output: true
 #
 # Hindi
 #
-  hi:
+  hi-pos:
+    output: true
+    permalink: /hi/pos/:path.html
+  hi-feat:
+    output: true
+    permalink: /hi/feat/:path.html
+  hi-dep:
+    output: true
+    permalink: /hi/dep/:path.html
+  hi-overview:
     output: true
 #
 # Ancient Greek
 #
-  grc:
+  grc-pos:
+    output: true
+    permalink: /grc/pos/:path.html
+  grc-feat:
+    output: true
+    permalink: /grc/feat/:path.html
+  grc-dep:
+    output: true
+    permalink: /grc/dep/:path.html
+  grc-overview:
     output: true
 #
 # Latin
 #
-  la:
+  la-pos:
+    output: true
+    permalink: /la/pos/:path.html
+  la-feat:
+    output: true
+    permalink: /la/feat/:path.html
+  la-dep:
+    output: true
+    permalink: /la/dep/:path.html
+  la-overview:
     output: true
 #
 # Catalan
 #
-  ca:
+  ca-pos:
+    output: true
+    permalink: /ca/pos/:path.html
+  ca-feat:
+    output: true
+    permalink: /ca/feat/:path.html
+  ca-dep:
+    output: true
+    permalink: /ca/dep/:path.html
+  ca-overview:
     output: true
 #
 # Arabic
 #
-  ar:
+  ar-pos:
+    output: true
+    permalink: /ar/pos/:path.html
+  ar-feat:
+    output: true
+    permalink: /ar/feat/:path.html
+  ar-dep:
+    output: true
+    permalink: /ar/dep/:path.html
+  ar-overview:
     output: true
 #
 # Estonian
 #
-  et:
+  et-pos:
+    output: true
+    permalink: /et/pos/:path.html
+  et-feat:
+    output: true
+    permalink: /et/feat/:path.html
+  et-dep:
+    output: true
+    permalink: /et/dep/:path.html
+  et-overview:
     output: true
 #
 # Portuguese
 #
-  pt:
+  pt-pos:
+    output: true
+    permalink: /pt/pos/:path.html
+  pt-feat:
+    output: true
+    permalink: /pt/feat/:path.html
+  pt-dep:
+    output: true
+    permalink: /pt/dep/:path.html
+  pt-overview:
     output: true
 #
 # Dutch
 #
-  nl:
+  nl-pos:
+    output: true
+    permalink: /nl/pos/:path.html
+  nl-feat:
+    output: true
+    permalink: /nl/feat/:path.html
+  nl-dep:
+    output: true
+    permalink: /nl/dep/:path.html
+  nl-overview:
     output: true
 #
 # Tamil
 #
-  ta:
+  ta-pos:
+    output: true
+    permalink: /ta/pos/:path.html
+  ta-feat:
+    output: true
+    permalink: /ta/feat/:path.html
+  ta-dep:
+    output: true
+    permalink: /ta/dep/:path.html
+  ta-overview:
     output: true
 #
 # Polish
 #
-  pl:
+  pl-pos:
+    output: true
+    permalink: /pl/pos/:path.html
+  pl-feat:
+    output: true
+    permalink: /pl/feat/:path.html
+  pl-dep:
+    output: true
+    permalink: /pl/dep/:path.html
+  pl-overview:
     output: true
 #
 # Norwegian
 #
-  no:
+  no-pos:
+    output: true
+    permalink: /no/pos/:path.html
+  no-feat:
+    output: true
+    permalink: /no/feat/:path.html
+  no-dep:
+    output: true
+    permalink: /no/dep/:path.html
+  no-overview:
     output: true
 #
 # Church Slavonic
 #
-  cu:
+  cu-pos:
+    output: true
+    permalink: /cu/pos/:path.html
+  cu-feat:
+    output: true
+    permalink: /cu/feat/:path.html
+  cu-dep:
+    output: true
+    permalink: /cu/dep/:path.html
+  cu-overview:
     output: true
 #
 # Gothic
 #
-  got:
+  got-pos:
+    output: true
+    permalink: /got/pos/:path.html
+  got-feat:
+    output: true
+    permalink: /got/feat/:path.html
+  got-dep:
+    output: true
+    permalink: /got/dep/:path.html
+  got-overview:
     output: true
 #
 # Kazakh
 #
-  kk:
+  kk-pos:
+    output: true
+    permalink: /kk/pos/:path.html
+  kk-feat:
+    output: true
+    permalink: /kk/feat/:path.html
+  kk-dep:
+    output: true
+    permalink: /kk/dep/:path.html
+  kk-overview:
     output: true
 #
 # Ukrainian
 #
-  uk:
+  uk-pos:
+    output: true
+    permalink: /uk/pos/:path.html
+  uk-feat:
+    output: true
+    permalink: /uk/feat/:path.html
+  uk-dep:
+    output: true
+    permalink: /uk/dep/:path.html
+  uk-overview:
     output: true
 #
 # Galician
 #
-  gl:
+  gl-pos:
+    output: true
+    permalink: /gl/pos/:path.html
+  gl-feat:
+    output: true
+    permalink: /gl/feat/:path.html
+  gl-dep:
+    output: true
+    permalink: /gl/dep/:path.html
+  gl-overview:
     output: true
 #
 # Russian
 #
-  ru:
+  ru-pos:
+    output: true
+    permalink: /ru/pos/:path.html
+  ru-feat:
+    output: true
+    permalink: /ru/feat/:path.html
+  ru-dep:
+    output: true
+    permalink: /ru/dep/:path.html
+  ru-overview:
     output: true
 #
 # Latvian
 #
-  lv:
+  lv-pos:
     output: true
+    permalink: /lv/pos/:path.html
+  lv-feat:
+    output: true
+    permalink: /lv/feat/:path.html
+  lv-dep:
+    output: true
+    permalink: /lv/dep/:path.html
+  lv-overview:
+    output: true
+
 #
 # Turkish
 #
-  tr:
+  tr-pos:
     output: true
+    permalink: /tr/pos/:path.html
+  tr-feat:
+    output: true
+    permalink: /tr/feat/:path.html
+  tr-dep:
+    output: true
+    permalink: /tr/dep/:path.html
+  tr-overview:
+    output: true
+
+
 #
 # Coptic
 #
-  cop:
+  cop-pos:
+    output: true
+    permalink: /cop/pos/:path.html
+  cop-feat:
+    output: true
+    permalink: /cop/feat/:path.html
+  cop-dep:
+    output: true
+    permalink: /cop/dep/:path.html
+  cop-overview:
     output: true
 #
 # Vietnamese
 #
-  vi:
+  vi-pos:
+    output: true
+    permalink: /vi/pos/:path.html
+  vi-feat:
+    output: true
+    permalink: /vi/feat/:path.html
+  vi-dep:
+    output: true
+    permalink: /vi/dep/:path.html
+  vi-overview:
     output: true
 #
 # Uralic
 #
-  urj:
+  urj-pos:
+    output: true
+    permalink: /urj/pos/:path.html
+  urj-feat:
+    output: true
+    permalink: /urj/feat/:path.html
+  urj-dep:
+    output: true
+    permalink: /urj/dep/:path.html
+  urj-overview:
     output: true
 #
 # Uyghur
 #
-  ug:
+  ug-pos:
+    output: true
+    permalink: /ug/pos/:path.html
+  ug-feat:
+    output: true
+    permalink: /ug/feat/:path.html
+  ug-dep:
+    output: true
+    permalink: /ug/dep/:path.html
+  ug-overview:
     output: true
 #
 # Buryat
 #
-  bxr:
+  bxr-pos:
+    output: true
+    permalink: /bxr/pos/:path.html
+  bxr-feat:
+    output: true
+    permalink: /bxr/feat/:path.html
+  bxr-dep:
+    output: true
+    permalink: /bxr/dep/:path.html
+  bxr-overview:
     output: true
 #
 # Sanskrit
 #
-  sa:
+  sa-pos:
+    output: true
+    permalink: /sa/pos/:path.html
+  sa-feat:
+    output: true
+    permalink: /sa/feat/:path.html
+  sa-dep:
+    output: true
+    permalink: /sa/dep/:path.html
+  sa-overview:
     output: true
 #
 # Urdu
 #
-  ur:
+  ur-pos:
+    output: true
+    permalink: /ur/pos/:path.html
+  ur-feat:
+    output: true
+    permalink: /ur/feat/:path.html
+  ur-dep:
+    output: true
+    permalink: /ur/dep/:path.html
+  ur-overview:
     output: true
 #
 # Faroese
 #
-  fo:
+  fo-pos:
+    output: true
+    permalink: /fo/pos/:path.html
+  fo-feat:
+    output: true
+    permalink: /fo/feat/:path.html
+  fo-dep:
+    output: true
+    permalink: /fo/dep/:path.html
+  fo-overview:
     output: true
 #
 # Slavic
 #
-  sla:
+  sla-pos:
+    output: true
+    permalink: /sla/pos/:path.html
+  sla-feat:
+    output: true
+    permalink: /sla/feat/:path.html
+  sla-dep:
+    output: true
+    permalink: /sla/dep/:path.html
+  sla-overview:
     output: true
 #
 # Swedish_Sign_Language
 #
-  swl:
+  swl-pos:
+    output: true
+    permalink: /swl/pos/:path.html
+  swl-feat:
+    output: true
+    permalink: /swl/feat/:path.html
+  swl-dep:
+    output: true
+    permalink: /swl/dep/:path.html
+  swl-overview:
     output: true
 #
 # Serbian
 #
-  sr:
+  sr-pos:
+    output: true
+    permalink: /sr/pos/:path.html
+  sr-feat:
+    output: true
+    permalink: /sr/feat/:path.html
+  sr-dep:
+    output: true
+    permalink: /sr/dep/:path.html
+  sr-overview:
     output: true
 #
 # Somali
 #
-  so:
+  so-pos:
+    output: true
+    permalink: /so/pos/:path.html
+  so-feat:
+    output: true
+    permalink: /so/feat/:path.html
+  so-dep:
+    output: true
+    permalink: /so/dep/:path.html
+  so-overview:
     output: true
 #
 # Kurmanji
 #
-  kmr:
+  kmr-pos:
+    output: true
+    permalink: /kmr/pos/:path.html
+  kmr-feat:
+    output: true
+    permalink: /kmr/feat/:path.html
+  kmr-dep:
+    output: true
+    permalink: /kmr/dep/:path.html
+  kmr-overview:
     output: true
 #
 # Sorani
 #
-  ckb:
+  ckb-pos:
+    output: true
+    permalink: /ckb/pos/:path.html
+  ckb-feat:
+    output: true
+    permalink: /ckb/feat/:path.html
+  ckb-dep:
+    output: true
+    permalink: /ckb/dep/:path.html
+  ckb-overview:
     output: true
 #
 # Cantonese
 #
-  yue:
+  yue-pos:
+    output: true
+    permalink: /yue/pos/:path.html
+  yue-feat:
+    output: true
+    permalink: /yue/feat/:path.html
+  yue-dep:
+    output: true
+    permalink: /yue/dep/:path.html
+  yue-overview:
     output: true
 #
 # Slovak
 #
-  sk:
+  sk-pos:
+    output: true
+    permalink: /sk/pos/:path.html
+  sk-feat:
+    output: true
+    permalink: /sk/feat/:path.html
+  sk-dep:
+    output: true
+    permalink: /sk/dep/:path.html
+  sk-overview:
     output: true
 #
 # Marathi
 #
-  mr:
+  mr-pos:
+    output: true
+    permalink: /mr/pos/:path.html
+  mr-feat:
+    output: true
+    permalink: /mr/feat/:path.html
+  mr-dep:
+    output: true
+    permalink: /mr/dep/:path.html
+  mr-overview:
     output: true
 #
 # Belarusian
 #
-  be:
+  be-pos:
+    output: true
+    permalink: /be/pos/:path.html
+  be-feat:
+    output: true
+    permalink: /be/feat/:path.html
+  be-dep:
+    output: true
+    permalink: /be/dep/:path.html
+  be-overview:
     output: true
 #
 # Lithuanian
 #
-  lt:
+  lt-pos:
+    output: true
+    permalink: /lt/pos/:path.html
+  lt-feat:
+    output: true
+    permalink: /lt/feat/:path.html
+  lt-dep:
+    output: true
+    permalink: /lt/dep/:path.html
+  lt-overview:
     output: true
 #
 # Dargwa
 #
-  dar:
+  dar-pos:
+    output: true
+    permalink: /dar/pos/:path.html
+  dar-feat:
+    output: true
+    permalink: /dar/feat/:path.html
+  dar-dep:
+    output: true
+    permalink: /dar/dep/:path.html
+  dar-overview:
     output: true
 #
 # North_Sami
 #
-  sme:
+  sme-pos:
+    output: true
+    permalink: /sme/pos/:path.html
+  sme-feat:
+    output: true
+    permalink: /sme/feat/:path.html
+  sme-dep:
+    output: true
+    permalink: /sme/dep/:path.html
+  sme-overview:
     output: true
 #
 # Upper_Sorbian
 #
-  hsb:
+  hsb-pos:
+    output: true
+    permalink: /hsb/pos/:path.html
+  hsb-feat:
+    output: true
+    permalink: /hsb/feat/:path.html
+  hsb-dep:
+    output: true
+    permalink: /hsb/dep/:path.html
+  hsb-overview:
     output: true
 #
 # Romansh
 #
-  rm:
+  rm-pos:
+    output: true
+    permalink: /rm/pos/:path.html
+  rm-feat:
+    output: true
+    permalink: /rm/feat/:path.html
+  rm-dep:
+    output: true
+    permalink: /rm/dep/:path.html
+  rm-overview:
     output: true
 #
 # Naija
 #
-  pcm:
+  pcm-pos:
+    output: true
+    permalink: /pcm/pos/:path.html
+  pcm-feat:
+    output: true
+    permalink: /pcm/feat/:path.html
+  pcm-dep:
+    output: true
+    permalink: /pcm/dep/:path.html
+  pcm-overview:
     output: true
 #
 # Old_French
 #
-  fro:
+  fro-pos:
+    output: true
+    permalink: /fro/pos/:path.html
+  fro-feat:
+    output: true
+    permalink: /fro/feat/:path.html
+  fro-dep:
+    output: true
+    permalink: /fro/dep/:path.html
+  fro-overview:
     output: true
 #
 # Armenian
 #
-  hy:
+  hy-pos:
+    output: true
+    permalink: /hy/pos/:path.html
+  hy-feat:
+    output: true
+    permalink: /hy/feat/:path.html
+  hy-dep:
+    output: true
+    permalink: /hy/dep/:path.html
+  hy-overview:
     output: true
 #
 # Maltese
 #
-  mt:
+  mt-pos:
+    output: true
+    permalink: /mt/pos/:path.html
+  mt-feat:
+    output: true
+    permalink: /mt/feat/:path.html
+  mt-dep:
+    output: true
+    permalink: /mt/dep/:path.html
+  mt-overview:
     output: true
 #
 # Afrikaans
 #
-  af:
+  af-pos:
+    output: true
+    permalink: /af/pos/:path.html
+  af-feat:
+    output: true
+    permalink: /af/feat/:path.html
+  af-dep:
+    output: true
+    permalink: /af/dep/:path.html
+  af-overview:
     output: true
 #
 # Bangla
 #
-  bn:
+  bn-pos:
+    output: true
+    permalink: /bn/pos/:path.html
+  bn-feat:
+    output: true
+    permalink: /bn/feat/:path.html
+  bn-dep:
+    output: true
+    permalink: /bn/dep/:path.html
+  bn-overview:
     output: true
 #
 # Telugu
 #
-  te:
+  te-pos:
+    output: true
+    permalink: /te/pos/:path.html
+  te-feat:
+    output: true
+    permalink: /te/feat/:path.html
+  te-dep:
+    output: true
+    permalink: /te/dep/:path.html
+  te-overview:
+    output: true
+#
+# Template
+#
+  template-pos:
+    output: true
+    permalink: /template/pos/:path.html
+  template-feat:
+    output: true
+    permalink: /template/feat/:path.html
+  template-dep:
+    output: true
+    permalink: /template/dep/:path.html
+  template-overview:
     output: true
 #
 # Tagset conversion tables (even for languages that do not have their sections yet)
