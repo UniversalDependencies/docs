@@ -111,6 +111,22 @@ collections:
     output: true
   nl:
     output: true
+  pcm:
+    output: true
+  pl:
+    output: true
+  pt:
+    output: true
+  ro:
+    output: true
+  ru:
+    output: true
+  sk:
+    output: true
+  sl:
+    output: true
+  sla:
+    output: true
 
 
 excerpt_separator: "\n\n"
