@@ -9,10 +9,3 @@ udver: '2'
 # Dependencies
 
 {% include cop-dep-table.html %}
-
-----------
-
-Alphabetical listing
-
-{% assign sorted = site.cop-dep | sort: 'title' %}{% for p in sorted %}
-* [{{ p.title }}](): {{ p.shortdef }}{% endfor %}
