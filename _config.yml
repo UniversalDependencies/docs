@@ -127,6 +127,22 @@ collections:
     output: true
   sla:
     output: true
+  swl:
+    output: true
+  ta:
+    output: true
+  tr:
+    output: true
+  uk:
+    output: true
+  urj:
+    output: true
+  vi:
+    output: true
+  yue:
+    output: true
+  zh:
+    output: true
 
 
 excerpt_separator: "\n\n"

@@ -8,13 +8,6 @@ udver: '2'
 
 # Dependencies
 
-The following table lists the 52 syntactic relations used in UD v2 for Mandarin Chinese, [36 of which are standard UD relations](http://universaldependencies.org/u/dep/) and 16 of which are specific to Mandarin Chinese. 
+The following table lists the 52 syntactic relations used in UD v2 for Mandarin Chinese, [36 of which are standard UD relations](http://universaldependencies.org/u/dep/) and 16 of which are specific to Mandarin Chinese.
 
 {% include zh-dep-table.html %}
-
-----------
-
-Alphabetical listing
-
-{% assign sorted = site.zh-dep | sort: 'title' %}{% for p in sorted %}
-* [{{ p.title }}](): {{ p.shortdef }}{% endfor %}
