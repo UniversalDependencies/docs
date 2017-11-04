@@ -50,7 +50,7 @@ collections:
   en-dep:
     output: true
     permalink: /en/dep/:path.html
-  en-overview:
+  en:
     output: true
 #
 # Finnish
@@ -64,7 +64,7 @@ collections:
   fi-dep:
     output: true
     permalink: /fi/dep/:path.html
-  fi-overview:
+  fi:
     output: true
 #
 # Swedish
@@ -78,7 +78,7 @@ collections:
   sv-dep:
     output: true
     permalink: /sv/dep/:path.html
-  sv-overview:
+  sv:
     output: true
 #
 # Hungarian
@@ -92,7 +92,7 @@ collections:
   hu-dep:
     output: true
     permalink: /hu/dep/:path.html
-  hu-overview:
+  hu:
     output: true
 #
 # Irish
@@ -106,7 +106,7 @@ collections:
   ga-dep:
     output: true
     permalink: /ga/dep/:path.html
-  ga-overview:
+  ga:
     output: true
 #
 # Bulgarian
@@ -120,7 +120,7 @@ collections:
   bg-dep:
     output: true
     permalink: /bg/dep/:path.html
-  bg-overview:
+  bg:
     output: true
 #
 # Persian
@@ -134,7 +134,7 @@ collections:
   fa-dep:
     output: true
     permalink: /fa/dep/:path.html
-  fa-overview:
+  fa:
     output: true
 #
 # Hebrew
@@ -148,7 +148,7 @@ collections:
   he-dep:
     output: true
     permalink: /he/dep/:path.html
-  he-overview:
+  he:
     output: true
 #
 # Spanish
@@ -162,7 +162,7 @@ collections:
   es-dep:
     output: true
     permalink: /es/dep/:path.html
-  es-overview:
+  es:
     output: true
 #
 # French
@@ -176,7 +176,7 @@ collections:
   fr-dep:
     output: true
     permalink: /fr/dep/:path.html
-  fr-overview:
+  fr:
     output: true
 #
 # German
@@ -190,7 +190,7 @@ collections:
   de-dep:
     output: true
     permalink: /de/dep/:path.html
-  de-overview:
+  de:
     output: true
 #
 # Greek
@@ -204,7 +204,7 @@ collections:
   el-dep:
     output: true
     permalink: /el/dep/:path.html
-  el-overview:
+  el:
     output: true
 #
 # Basque
@@ -218,7 +218,7 @@ collections:
   eu-dep:
     output: true
     permalink: /eu/dep/:path.html
-  eu-overview:
+  eu:
     output: true
 #
 # Italian
@@ -232,7 +232,7 @@ collections:
   it-dep:
     output: true
     permalink: /it/dep/:path.html
-  it-overview:
+  it:
     output: true
 #
 # Korean
@@ -246,7 +246,7 @@ collections:
   ko-dep:
     output: true
     permalink: /ko/dep/:path.html
-  ko-overview:
+  ko:
     output: true
 #
 # Japanese
@@ -260,7 +260,7 @@ collections:
   ja-dep:
     output: true
     permalink: /ja/dep/:path.html
-  ja-overview:
+  ja:
     output: true
 #
 # Chinese
@@ -274,7 +274,7 @@ collections:
   zh-dep:
     output: true
     permalink: /zh/dep/:path.html
-  zh-overview:
+  zh:
     output: true
 #
 # Romanian
@@ -288,7 +288,7 @@ collections:
   ro-dep:
     output: true
     permalink: /ro/dep/:path.html
-  ro-overview:
+  ro:
     output: true
 #
 # Slovenian
@@ -302,7 +302,7 @@ collections:
   sl-dep:
     output: true
     permalink: /sl/dep/:path.html
-  sl-overview:
+  sl:
     output: true
 #
 # Danish
@@ -316,7 +316,7 @@ collections:
   da-dep:
     output: true
     permalink: /da/dep/:path.html
-  da-overview:
+  da:
     output: true
 #
 # Croatian
@@ -330,7 +330,7 @@ collections:
   hr-dep:
     output: true
     permalink: /hr/dep/:path.html
-  hr-overview:
+  hr:
     output: true
 #
 # Indonesian
@@ -344,7 +344,7 @@ collections:
   id-dep:
     output: true
     permalink: /id/dep/:path.html
-  id-overview:
+  id:
     output: true
 #
 # Amharic
@@ -358,7 +358,7 @@ collections:
   am-dep:
     output: true
     permalink: /am/dep/:path.html
-  am-overview:
+  am:
     output: true
 #
 # Hindi
@@ -372,7 +372,7 @@ collections:
   hi-dep:
     output: true
     permalink: /hi/dep/:path.html
-  hi-overview:
+  hi:
     output: true
 #
 # Ancient Greek
@@ -386,7 +386,7 @@ collections:
   grc-dep:
     output: true
     permalink: /grc/dep/:path.html
-  grc-overview:
+  grc:
     output: true
 #
 # Latin
@@ -400,7 +400,7 @@ collections:
   la-dep:
     output: true
     permalink: /la/dep/:path.html
-  la-overview:
+  la:
     output: true
 #
 # Catalan
@@ -414,7 +414,7 @@ collections:
   ca-dep:
     output: true
     permalink: /ca/dep/:path.html
-  ca-overview:
+  ca:
     output: true
 #
 # Arabic
@@ -428,7 +428,7 @@ collections:
   ar-dep:
     output: true
     permalink: /ar/dep/:path.html
-  ar-overview:
+  ar:
     output: true
 #
 # Estonian
@@ -442,7 +442,7 @@ collections:
   et-dep:
     output: true
     permalink: /et/dep/:path.html
-  et-overview:
+  et:
     output: true
 #
 # Portuguese
@@ -456,7 +456,7 @@ collections:
   pt-dep:
     output: true
     permalink: /pt/dep/:path.html
-  pt-overview:
+  pt:
     output: true
 #
 # Dutch
@@ -470,7 +470,7 @@ collections:
   nl-dep:
     output: true
     permalink: /nl/dep/:path.html
-  nl-overview:
+  nl:
     output: true
 #
 # Tamil
@@ -484,7 +484,7 @@ collections:
   ta-dep:
     output: true
     permalink: /ta/dep/:path.html
-  ta-overview:
+  ta:
     output: true
 #
 # Polish
@@ -498,7 +498,7 @@ collections:
   pl-dep:
     output: true
     permalink: /pl/dep/:path.html
-  pl-overview:
+  pl:
     output: true
 #
 # Norwegian
@@ -512,7 +512,7 @@ collections:
   no-dep:
     output: true
     permalink: /no/dep/:path.html
-  no-overview:
+  no:
     output: true
 #
 # Church Slavonic
@@ -526,7 +526,7 @@ collections:
   cu-dep:
     output: true
     permalink: /cu/dep/:path.html
-  cu-overview:
+  cu:
     output: true
 #
 # Gothic
@@ -540,7 +540,7 @@ collections:
   got-dep:
     output: true
     permalink: /got/dep/:path.html
-  got-overview:
+  got:
     output: true
 #
 # Kazakh
@@ -554,7 +554,7 @@ collections:
   kk-dep:
     output: true
     permalink: /kk/dep/:path.html
-  kk-overview:
+  kk:
     output: true
 #
 # Ukrainian
@@ -568,7 +568,7 @@ collections:
   uk-dep:
     output: true
     permalink: /uk/dep/:path.html
-  uk-overview:
+  uk:
     output: true
 #
 # Galician
@@ -582,7 +582,7 @@ collections:
   gl-dep:
     output: true
     permalink: /gl/dep/:path.html
-  gl-overview:
+  gl:
     output: true
 #
 # Russian
@@ -596,7 +596,7 @@ collections:
   ru-dep:
     output: true
     permalink: /ru/dep/:path.html
-  ru-overview:
+  ru:
     output: true
 #
 # Latvian
@@ -610,7 +610,7 @@ collections:
   lv-dep:
     output: true
     permalink: /lv/dep/:path.html
-  lv-overview:
+  lv:
     output: true
 
 #
@@ -625,7 +625,7 @@ collections:
   tr-dep:
     output: true
     permalink: /tr/dep/:path.html
-  tr-overview:
+  tr:
     output: true
 
 
@@ -641,7 +641,7 @@ collections:
   cop-dep:
     output: true
     permalink: /cop/dep/:path.html
-  cop-overview:
+  cop:
     output: true
 #
 # Vietnamese
@@ -655,7 +655,7 @@ collections:
   vi-dep:
     output: true
     permalink: /vi/dep/:path.html
-  vi-overview:
+  vi:
     output: true
 #
 # Uralic
@@ -669,7 +669,7 @@ collections:
   urj-dep:
     output: true
     permalink: /urj/dep/:path.html
-  urj-overview:
+  urj:
     output: true
 #
 # Uyghur
@@ -683,7 +683,7 @@ collections:
   ug-dep:
     output: true
     permalink: /ug/dep/:path.html
-  ug-overview:
+  ug:
     output: true
 #
 # Buryat
@@ -697,7 +697,7 @@ collections:
   bxr-dep:
     output: true
     permalink: /bxr/dep/:path.html
-  bxr-overview:
+  bxr:
     output: true
 #
 # Sanskrit
@@ -711,7 +711,7 @@ collections:
   sa-dep:
     output: true
     permalink: /sa/dep/:path.html
-  sa-overview:
+  sa:
     output: true
 #
 # Urdu
@@ -725,7 +725,7 @@ collections:
   ur-dep:
     output: true
     permalink: /ur/dep/:path.html
-  ur-overview:
+  ur:
     output: true
 #
 # Faroese
@@ -739,7 +739,7 @@ collections:
   fo-dep:
     output: true
     permalink: /fo/dep/:path.html
-  fo-overview:
+  fo:
     output: true
 #
 # Slavic
@@ -753,7 +753,7 @@ collections:
   sla-dep:
     output: true
     permalink: /sla/dep/:path.html
-  sla-overview:
+  sla:
     output: true
 #
 # Swedish_Sign_Language
@@ -767,7 +767,7 @@ collections:
   swl-dep:
     output: true
     permalink: /swl/dep/:path.html
-  swl-overview:
+  swl:
     output: true
 #
 # Serbian
@@ -781,7 +781,7 @@ collections:
   sr-dep:
     output: true
     permalink: /sr/dep/:path.html
-  sr-overview:
+  sr:
     output: true
 #
 # Somali
@@ -795,7 +795,7 @@ collections:
   so-dep:
     output: true
     permalink: /so/dep/:path.html
-  so-overview:
+  so:
     output: true
 #
 # Kurmanji
@@ -809,7 +809,7 @@ collections:
   kmr-dep:
     output: true
     permalink: /kmr/dep/:path.html
-  kmr-overview:
+  kmr:
     output: true
 #
 # Sorani
@@ -823,7 +823,7 @@ collections:
   ckb-dep:
     output: true
     permalink: /ckb/dep/:path.html
-  ckb-overview:
+  ckb:
     output: true
 #
 # Cantonese
@@ -837,7 +837,7 @@ collections:
   yue-dep:
     output: true
     permalink: /yue/dep/:path.html
-  yue-overview:
+  yue:
     output: true
 #
 # Slovak
@@ -851,7 +851,7 @@ collections:
   sk-dep:
     output: true
     permalink: /sk/dep/:path.html
-  sk-overview:
+  sk:
     output: true
 #
 # Marathi
@@ -865,7 +865,7 @@ collections:
   mr-dep:
     output: true
     permalink: /mr/dep/:path.html
-  mr-overview:
+  mr:
     output: true
 #
 # Belarusian
@@ -879,7 +879,7 @@ collections:
   be-dep:
     output: true
     permalink: /be/dep/:path.html
-  be-overview:
+  be:
     output: true
 #
 # Lithuanian
@@ -893,7 +893,7 @@ collections:
   lt-dep:
     output: true
     permalink: /lt/dep/:path.html
-  lt-overview:
+  lt:
     output: true
 #
 # Dargwa
@@ -907,7 +907,7 @@ collections:
   dar-dep:
     output: true
     permalink: /dar/dep/:path.html
-  dar-overview:
+  dar:
     output: true
 #
 # North_Sami
@@ -921,7 +921,7 @@ collections:
   sme-dep:
     output: true
     permalink: /sme/dep/:path.html
-  sme-overview:
+  sme:
     output: true
 #
 # Upper_Sorbian
@@ -935,7 +935,7 @@ collections:
   hsb-dep:
     output: true
     permalink: /hsb/dep/:path.html
-  hsb-overview:
+  hsb:
     output: true
 #
 # Romansh
@@ -949,7 +949,7 @@ collections:
   rm-dep:
     output: true
     permalink: /rm/dep/:path.html
-  rm-overview:
+  rm:
     output: true
 #
 # Naija
@@ -963,7 +963,7 @@ collections:
   pcm-dep:
     output: true
     permalink: /pcm/dep/:path.html
-  pcm-overview:
+  pcm:
     output: true
 #
 # Old_French
@@ -977,7 +977,7 @@ collections:
   fro-dep:
     output: true
     permalink: /fro/dep/:path.html
-  fro-overview:
+  fro:
     output: true
 #
 # Armenian
@@ -991,7 +991,7 @@ collections:
   hy-dep:
     output: true
     permalink: /hy/dep/:path.html
-  hy-overview:
+  hy:
     output: true
 #
 # Maltese
@@ -1005,7 +1005,7 @@ collections:
   mt-dep:
     output: true
     permalink: /mt/dep/:path.html
-  mt-overview:
+  mt:
     output: true
 #
 # Afrikaans
@@ -1019,7 +1019,7 @@ collections:
   af-dep:
     output: true
     permalink: /af/dep/:path.html
-  af-overview:
+  af:
     output: true
 #
 # Bangla
@@ -1033,7 +1033,7 @@ collections:
   bn-dep:
     output: true
     permalink: /bn/dep/:path.html
-  bn-overview:
+  bn:
     output: true
 #
 # Telugu
@@ -1047,7 +1047,7 @@ collections:
   te-dep:
     output: true
     permalink: /te/dep/:path.html
-  te-overview:
+  te:
     output: true
 #
 # Template
