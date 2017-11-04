@@ -6,8 +6,8 @@ udver: '2'
 
 # Universal Dependencies
 
-Universal Dependencies (UD) is a framework for cross-linguistically consistent grammatical annotation
-and an open community effort with over 200 contributors producing almost 100 treebanks in over 50 languages.
+Universal Dependencies (UD) is a framework for cross-linguistically consistent grammatical annotation and 
+an open community effort with over 200 contributors producing more than 100 treebanks in over 60 languages.
 
 * [Short introduction to UD](introduction.html)
 * [UD annotation guidelines](guidelines.html)
