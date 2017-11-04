@@ -9,10 +9,3 @@ udver: '2'
 # Features
 
 {% include cs-feat-table.html %}
-
-----------
-
-Alphabetical listing
-
-{% assign sorted = site.cs-feat | sort: 'title' %}{% for p in sorted %}
-* [{{ p.title }}](): {{ p.shortdef }}{% endfor %}
