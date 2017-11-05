@@ -37,7 +37,7 @@ foreach my $file (@files)
         }
     }
 }
-print STDERR ("Total $n files scheduled for removal.\n");
+print("Total $n files scheduled for removal.\n");
 
 
 
@@ -48,6 +48,7 @@ sub remove
 {
     my $path = shift;
     # Debugging: only write the file name.
-    print STDERR ("To be removed: $path\n");
+    print("Removing: $path\n");
+    system("git rm $path");
     $n++;
 }
