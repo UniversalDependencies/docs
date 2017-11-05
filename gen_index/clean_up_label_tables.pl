@@ -14,15 +14,16 @@ binmode(STDERR, ':utf8');
 # - it is not "status". Remove them all.
 # - the corresponding _$lcode/dep|feat|pos-index.md exists.
 # - or $lcode is "no". I have not been able to rename the _no-overview collection to _no, but the index pages exist.
+# - or $lcode is "u". The universal tables should be preserved although the folder structure is currently different.
 opendir(DIR, '_includes') or die("Cannot read _includes: $!");
-my @files = grep {m/-table\.html$/} (readdir(DIR));
+my @files = sort(grep {m/-table\.html$/} (readdir(DIR)));
 closedir(DIR);
 local $n = 0;
 foreach my $file (@files)
 {
     my $path = "_includes/$file";
-    # Save Norwegian.
-    next if($file =~ m/^no-/);
+    # Save Norwegian and Universal.
+    next if($file =~ m/^(no|u)-/);
     # Remove all status tables.
     remove($path) if($file =~ m/-status-table\.html$/);
     # For pos, feat and dep, check whether the page exists that may want to include the table.
