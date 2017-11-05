@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-05T00:06:58Z">2017-11-05T00:06:58 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-05T08:35:32Z">2017-11-05T08:35:32 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -522,19 +522,13 @@ python tools/validate.py --lang zh UD-dev-branches/UD_Chinese/zh-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Chinese-CFL</span>
 <span class="widespan">zh cfl</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-04T10:22:29Z">2017-11-04T10:22:29 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-05T08:35:31Z">2017-11-05T08:35:31 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang zh_cfl UD-dev-branches/UD_Chinese-CFL/zh-cfl-test.conllu
 
-[Line                   2168]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'KTV，我跟常见的老板打招呼后，对他说“[...]'
-[Line                   2427]: SpaceAfter=No is missing in the MISC field of node #4 because the text is 'KTV时很小心。'
-[Line                   3135]: DEPREL can only be "root" if HEAD is 0
-[Tree number 198 on line 3126]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9 are not reachable from the root 0.
-*** FAILED *** with 4 errors
-Metadata errors: 2
-Syntax errors: 2
+*** PASSED ***
 
 
 ******************
