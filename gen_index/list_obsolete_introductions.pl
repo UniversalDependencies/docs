@@ -35,6 +35,8 @@ foreach my $i (@introductions)
 {
     $i =~ s:^(\./)?_::;
     $i =~ s/\.md$/.html/;
+    $i =~ s:/:/overview/:;
+    $i =~ s:-overview/overview:/overview:;
     my $text = $i;
     if($text =~ m:^(.+?)/:)
     {
