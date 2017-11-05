@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-05T21:18:23Z">2017-11-05T21:18:23 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-05T21:35:33Z">2017-11-05T21:35:33 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1132,7 +1132,7 @@ python tools/validate.py --lang en_lines UD-dev-branches/UD_English-LinES/en_lin
 <span class="doublewidespan" style="padding-left:3em">UD English-PUD</span>
 <span class="widespan">en pud</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-05T21:18:22Z">2017-11-05T21:18:22 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-05T21:35:31Z">2017-11-05T21:35:31 zulu</time></span>
 </div>
 <div>
 <pre>
