@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-06T20:03:53Z">2017-11-06T20:03:53 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-06T20:04:18Z">2017-11-06T20:04:18 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2378,7 +2378,7 @@ python tools/validate.py --lang ko UD-dev-branches/UD_Korean/ko-ud-train.conllu
 <span class="doublewidespan" style="padding-left:3em">UD Korean-PUD</span>
 <span class="widespan">ko pud</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-05T22:47:30Z">2017-11-05T22:47:30 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-06T20:04:17Z">2017-11-06T20:04:17 zulu</time></span>
 </div>
 <div>
 <pre>
