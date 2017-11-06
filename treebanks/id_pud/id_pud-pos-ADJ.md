@@ -1,0 +1,95 @@
+---
+layout: base
+title:  'Statistics of ADJ in UD_Indonesian-PUD'
+udver: '2'
+---
+
+## Treebank Statistics: UD_Indonesian-PUD: POS Tags: `ADJ`
+
+There are 1 `ADJ` lemmas (8%), 427 `ADJ` types (11%) and 1361 `ADJ` tokens (5%).
+Out of 13 observed tags, the rank of `ADJ` is: 1 in number of lemmas, 3 in number of types and 6 in number of tokens.
+
+The 10 most frequent `ADJ` lemmas: <em>_</em>
+
+The 10 most frequent `ADJ` types:  <em>besar, banyak, lain, baru, sama, baik, pertama, biasa, tinggi, nyata</em>
+
+The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 7053, <tt><a href="id_pud-pos-AFFIX.html">AFFIX</a></tt> 5333, <tt><a href="id_pud-pos-ADP.html">ADP</a></tt> 2832, <tt><a href="id_pud-pos-PUNCT.html">PUNCT</a></tt> 2576, <tt><a href="id_pud-pos-VERB.html">VERB</a></tt> 2154, <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 1361, <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 1049, <tt><a href="id_pud-pos-PRON.html">PRON</a></tt> 989, <tt><a href="id_pud-pos-CONJ.html">CONJ</a></tt> 612, <tt><a href="id_pud-pos-NUM.html">NUM</a></tt> 569, <tt><a href="id_pud-pos-DET.html">DET</a></tt> 522, <tt><a href="id_pud-pos-X.html">X</a></tt> 126, <tt><a href="id_pud-pos-PRT.html">PRT</a></tt> 49)
+
+The 10 most frequent ambiguous types:  <em>banyak</em> (<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 55, <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 8), <em>baru</em> (<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 31, <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 7, <tt><a href="id_pud-pos-X.html">X</a></tt> 6), <em>sama</em> (<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 30, <tt><a href="id_pud-pos-X.html">X</a></tt> 3, <tt><a href="id_pud-pos-ADP.html">ADP</a></tt> 1, <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 1), <em>baik</em> (<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 26, <tt><a href="id_pud-pos-CONJ.html">CONJ</a></tt> 4, <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 1, <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>pertama</em> (<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 23, <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="id_pud-pos-NUM.html">NUM</a></tt> 1), <em>tinggi</em> (<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 18, <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>nyata</em> (<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 18, <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 1, <tt><a href="id_pud-pos-X.html">X</a></tt> 1), <em>jelas</em> (<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 17, <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 3, <tt><a href="id_pud-pos-VERB.html">VERB</a></tt> 2, <tt><a href="id_pud-pos-X.html">X</a></tt> 2), <em>tahan</em> (<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 16, <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>kuat</em> (<tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 15, <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 1)
+
+
+* <em>banyak</em>
+  * <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 55: <em>Pedoman besi baru ber arti di perlu kan lebih <b>banyak</b> donor .</em>
+  * <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 8: <em>Pada saat itu , ia se makin <b>banyak</b> ber pikir tentang masa depan .</em>
+* <em>baru</em>
+  * <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 31: <em>Pe ngeluar an <b>baru</b> ini di pasok oleh rekening bank gemuk Clinton .</em>
+  * <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 7: <em>Tapi , Republik Tiongkok yang <b>baru</b> di diri kan meng anggap Mongolia sebagai bagi an dari wilayah nya .</em>
+  * <tt><a href="id_pud-pos-X.html">X</a></tt> 6: <em>Australia , di tempa oleh per tanding an mereka baru - <b>baru</b> ini di Ke juara an Rugby , lebih habis - habis an .</em>
+* <em>sama</em>
+  * <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 30: <em>Dan hasil nya <b>sama</b> se kali tidak tidak bisa di kata kan istimewa</em>
+  * <tt><a href="id_pud-pos-X.html">X</a></tt> 3: <em>Serpih an - serpih an itu mem bentuk se buah cincin di se kitar khatulistiwa Bumi dan akhir nya di tarik ber sama - <b>sama</b> oleh gravitasi untuk mem bentuk bulan .</em>
+  * <tt><a href="id_pud-pos-ADP.html">ADP</a></tt> 1: <em>Tekan an , ironi halus , sindir an kasar dan perangkat verbal lain yang di guna kan dengan baik pas dengan orasi parlementer , tapi me nyerang terhadap satu <b>sama</b> lain dan komedi dagelan tidak pas .</em>
+  * <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 1: <em>Namun , manajemen nya belum <b>sama</b> se kali tanpa kritik .</em>
+* <em>baik</em>
+  * <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 26: <em>Para konsevasionis me nyambut <b>baik</b> peng umum an komisi itu .</em>
+  * <tt><a href="id_pud-pos-CONJ.html">CONJ</a></tt> 4: <em>Di Eropa , sebelum pecah nya perang , Sekutu me milik i ke unggul an signifikan <b>baik</b> dalam hal populasi maupun ekonomi .</em>
+  * <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 1: <em>Beberapa analis telah me nyaran kan bahwa Huawai paling <b>baik</b> di tempat kan untuk meng ambil ke untung an dari ke mundur an Samsung .</em>
+  * <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 1: <em>Namun , ter lalu ber orientasi pada pos - pos kecil di Barat dan per siap an nya tidak sama <b>baik</b> nya untuk konflik di luar negeri .</em>
+* <em>pertama</em>
+  * <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 23: <em>Raja <b>pertama</b> nya adalah Mojmír I ( ber kuasa 830 – 846 ) .</em>
+  * <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 2: <em>Pandu an nya ber masalah , <b>pertama</b> - tama karena pandu an itu di kembang kan “ dalam konteks ke ada an darurat ” .</em>
+  * <tt><a href="id_pud-pos-NUM.html">NUM</a></tt> 1: <em>Laut Karibia tidak di ke tahu i oleh pen duduk Eurasia hinga tahun 1492 , saat Christopher Columbus <b>pertama</b> kali ber layar ke per air an Karibia dalam per jalan an nya men cari rute laut ke Asia .</em>
+* <em>tinggi</em>
+  * <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 18: <em>Malam ini kami men jalan kan hukum an meng guna kan balok <b>tinggi</b> , tulis posting an itu .</em>
+  * <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 1: <em>Sisa - sisa per ibadat an yang di temu kan di tempat itu adalah jajar an batu - batu besar yang ber diri , yang di kenal sebagai massebot , yang ber orientasi utara - selatan ; batu ter tinggi <b>tinggi</b> nya 3 meter , dengan struktur seperti altar di tengah , dan bak besar ber bentuk per segi .</em>
+* <em>nyata</em>
+  * <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 18: <em>Paling <b>nyata</b> saat nama se orang selebriti awal nya cukup langka .</em>
+  * <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 1: <em>Tapi tidak ada hal lain yang <b>nyata</b> - nyata artistik tentang dia dalam perilaku nya terhadap orang lain .</em>
+  * <tt><a href="id_pud-pos-X.html">X</a></tt> 1: <em>Tapi tidak ada hal lain yang nyata - <b>nyata</b> artistik tentang dia dalam perilaku nya terhadap orang lain .</em>
+* <em>jelas</em>
+  * <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 17: <em>Sekarang cuma tidak <b>jelas</b> , di dalam yang mana .</em>
+  * <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 3: <em>Foto itu <b>jelas</b> me nunjuk kan bilah tampil an sentuh tipis di atas keyboard yang telah di antisipasi dalam rumor .</em>
+  * <tt><a href="id_pud-pos-VERB.html">VERB</a></tt> 2: <em>Di Tiongkok , rambut biasa nya men jalan i proses mandi kimia untuk meng hilang kan kutikula nya se penuh nya , <b>jelas</b> .</em>
+  * <tt><a href="id_pud-pos-X.html">X</a></tt> 2: <em>Dia terus muncul di lumbung ku dan saya ber kelakar kepada orang itu bahwa dia jelas - <b>jelas</b> tidak ingin di jual .</em>
+* <em>tahan</em>
+  * <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 16: <em>Kemudia ia meng hadap i juara ber <b>tahan</b> dan pe main top Sara Errani , namun kalah .</em>
+  * <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> 1: <em>Ramesses , yang secara logistik tidak dapat ber <b>tahan</b> dalam pe ngepung an panjang , kembali ke Mesir .</em>
+* <em>kuat</em>
+  * <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> 15: <em>Kadang kala seperti ke <b>kuat</b> an super .</em>
+  * <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> 1: <em>Pada usia 20 , ia adalah suara yang <b>kuat</b> me nentang tindak an bullying dan suara yang positif dalam mem bantu gadis - gadis me nyelam i standar ke cantik an mereka sendiri .</em>
+
+## Morphology
+
+The form / lemma ratio of `ADJ` is 427.000000 (the average of all parts of speech is 309.769231).
+
+The 1st highest number of forms (427) was observed with the lemma “_”: <em>Agung, American, Associated, Australian, British, Canadian, Civil, Controlled, Demokratik, Environmental, Episkopal, Gemar, Golden, Good, Great, Hitam, Honorary, International, Jermanis, Kristiani, Liberal, Lower, Mycenaean, National, New, Phoenician, Renewable, Republican, Royal, Sectorial, Shaky, Simple, Slavik, Suci, Talking, Undersea, Universal, Wajar, Wild, abadi, abai, adil, administratif, afrika, agresif, ajaib, aktif, aktual, akur, akurat, akut, alami, aman, andal, angkuh, antusias, arogan, artistik, asing, autosomal, bagus, bahagia, baik, bangga, bangkrut, banyak, baru, basah, basi, bebas, beku, benar, benci, berat, bersih, besar, betul, biasa, bijak, bingung, biru, bobrok, bodoh, buram, buruk, buta, cantik, capak, cedera, cepat, cerah, cerdas, ceroboh, cinta, dahsyat, dalam, damai, damping, dangkal, datar, definitif, dekat, dewasa, digital, dingin, domestik, dominan, dominna, drastis, efektif, eksekutif, eksistensial, ekstensif, eksternal, emosional, enggan, epik, erat, esktrem, etis, etnis, faktual, fatal, federal, finansial, fundamental, geger, gelap, gelisah, gembira, gemuk, genetis, genting, gigih, global, gratis, gugup, halus, hangat, harmonis, hati, hebat, hemat, heran, hijau, historis, hormat, hormonal, ideal, ilegal, ilmiah, imbang, indah, independen, individual, inkumben, intelektual, intensif, internasional, istimewa, jahat, jauh, jelas, jemu, jengkel, jenius, jernih, jijik, kacau, kagum, kasar, kaya, kecewa, kecil, kedaluwarsa, kejut, kendur, kental, keras, kerdil, kering, kesal, khawatir, khusus, klasik, komersial, komersil, kompeten, komunal, komunikatif, konseptual, konservatif, kontroversial, konyol, kosong, kreatif, kriminal, kuat, kuning, kuno, kurang, labuh, lain, laju, lama, lambat, lampau, langka, langsung, lanjut, lapang, lapar, laris, larut, layak, lebih, legal, legislatif, lekat, lelap, lemah, lembut, lengkap, lepas, lezat, lisan, lokal, longgar, lowong, luang, luas, lumayan, lumpuh, lunak, mada, madat, mahal, mahir, maju, makmur, maksimal, mampu, manas, mantan, marah, masti, medis, megah, menuh, merah, merdeka, mewah, middle, militan, mirip, mistis, modern, monoton, mual, muas, muda, mudah, musikal, naif, nakut, nanggap, nasional, negak, neliti, nentu, ngabur, ngagum, ngejut, ngeri, ngesal, nguat, ngukuh, nikmat, normal, numismatik, nyadar, nyakit, nyalah, nyama, nyaman, nyamar, nyata, nyayang, nyelamat, nyelidik, nyenang, nyesak, online, optimis, oriental, otonom, panas, pandai, panjang, pantas, parah, paralel, pas, pasti, patah, payah, pedas, penting, penuh, persis, pertama, pesat, politis, populer, positif, praktis, prihatin, privat, proaktif, profesional, progresif, puas, punah, putih, radikal, ragu, rahasia, ramah, ramai, rasial, rasional, rasis, rata, raya, real, remaja, remeh, rendah, rentan, resah, resmi, retak, retrospektif, riang, rinci, rindu, ringan, ringkas, rugi, rumit, rusak, sah, sakit, salah, saleh, sama, samar, sarat, sayang, sedang, sederhana, sedikit, sehat, seksis, selamat, selidik, sempurna, senang, sendiri, sensitif, sepi, seram, seri, sesak, setia, sia, signifikan, simbolik, sinematik, singkat, sinoptik, sipil, sosial, stabil, statis, substansial, suka, sukses, sulit, sungguh, super, swasta, taat, tahan, tajam, tawar, tegang, teguh, teliti, tematis, tenang, tenar, tentu, teoretis, tepat, terampil, teritorial, tetap, timbal, timbang, tinggi, tipis, top, tradisional, tropis, tua, tunggal, ulung, umum, unggul, untung, urban, urut, utama, verbal, vulkanik, yakin</em>.
+
+`ADJ` occurs with 1 features: <tt><a href="id_pud-feat-id/proper.html">id/proper</a></tt> (1361; 100% instances)
+
+`ADJ` occurs with 2 feature-value pairs: `id/proper=false`, `id/proper=true`
+
+`ADJ` occurs with 2 feature combinations.
+The most frequent feature combination is `id/proper=false` (1295 tokens).
+Examples: <em>besar, banyak, lain, baru, sama, baik, pertama, biasa, nyata, penting</em>
+
+
+## Relations
+
+`ADJ` nodes are attached to their parents using 29 different relations: <tt><a href="id_pud-dep-amod.html">amod</a></tt> (548; 40% instances), <tt><a href="id_pud-dep-rcmod.html">rcmod</a></tt> (154; 11% instances), <tt><a href="id_pud-dep-ROOT.html">ROOT</a></tt> (108; 8% instances), <tt><a href="id_pud-dep-conj.html">conj</a></tt> (65; 5% instances), <tt><a href="id_pud-dep-advcl.html">advcl</a></tt> (63; 5% instances), <tt><a href="id_pud-dep-acomp.html">acomp</a></tt> (60; 4% instances), <tt><a href="id_pud-dep-pobj.html">pobj</a></tt> (47; 3% instances), <tt><a href="id_pud-dep-dobj.html">dobj</a></tt> (45; 3% instances), <tt><a href="id_pud-dep-nn.html">nn</a></tt> (43; 3% instances), <tt><a href="id_pud-dep-aux.html">aux</a></tt> (31; 2% instances), <tt><a href="id_pud-dep-ccomp.html">ccomp</a></tt> (31; 2% instances), <tt><a href="id_pud-dep-nsubj.html">nsubj</a></tt> (26; 2% instances), <tt><a href="id_pud-dep-parataxis.html">parataxis</a></tt> (17; 1% instances), <tt><a href="id_pud-dep-advmod.html">advmod</a></tt> (16; 1% instances), <tt><a href="id_pud-dep-mwn.html">mwn</a></tt> (15; 1% instances), <tt><a href="id_pud-dep-det.html">det</a></tt> (14; 1% instances), <tt><a href="id_pud-dep-mwa.html">mwa</a></tt> (10; 1% instances), <tt><a href="id_pud-dep-pcomp.html">pcomp</a></tt> (10; 1% instances), <tt><a href="id_pud-dep-redup.html">redup</a></tt> (10; 1% instances), <tt><a href="id_pud-dep-mwe.html">mwe</a></tt> (9; 1% instances), <tt><a href="id_pud-dep-xcomp.html">xcomp</a></tt> (9; 1% instances), <tt><a href="id_pud-dep-nsubjpass.html">nsubjpass</a></tt> (8; 1% instances), <tt><a href="id_pud-dep-attr.html">attr</a></tt> (7; 1% instances), <tt><a href="id_pud-dep-mark.html">mark</a></tt> (7; 1% instances), <tt><a href="id_pud-dep-appos.html">appos</a></tt> (4; 0% instances), <tt><a href="id_pud-dep-csubjpass.html">csubjpass</a></tt> (1; 0% instances), <tt><a href="id_pud-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="id_pud-dep-npadvmod.html">npadvmod</a></tt> (1; 0% instances), <tt><a href="id_pud-dep-oblcomp.html">oblcomp</a></tt> (1; 0% instances)
+
+Parents of `ADJ` nodes belong to 8 different parts of speech: <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (753; 55% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (302; 22% instances), <tt><a href="id_pud-dep-ROOT.html">ROOT</a></tt> (108; 8% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (89; 7% instances), <tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (70; 5% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt> (21; 2% instances), <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (9; 1% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (9; 1% instances)
+
+575 (42%) `ADJ` nodes are leaves.
+
+238 (17%) `ADJ` nodes have one child.
+
+172 (13%) `ADJ` nodes have two children.
+
+376 (28%) `ADJ` nodes have three or more children.
+
+The highest child degree of a `ADJ` node is 10.
+
+Children of `ADJ` nodes are attached using 39 different relations: <tt><a href="id_pud-dep-pref.html">pref</a></tt> (382; 17% instances), <tt><a href="id_pud-dep-suff.html">suff</a></tt> (339; 15% instances), <tt><a href="id_pud-dep-mark.html">mark</a></tt> (226; 10% instances), <tt><a href="id_pud-dep-p.html">p</a></tt> (218; 10% instances), <tt><a href="id_pud-dep-prep.html">prep</a></tt> (162; 7% instances), <tt><a href="id_pud-dep-advmod.html">advmod</a></tt> (145; 6% instances), <tt><a href="id_pud-dep-nsubj.html">nsubj</a></tt> (144; 6% instances), <tt><a href="id_pud-dep-conj.html">conj</a></tt> (68; 3% instances), <tt><a href="id_pud-dep-dobj.html">dobj</a></tt> (66; 3% instances), <tt><a href="id_pud-dep-nn.html">nn</a></tt> (66; 3% instances), <tt><a href="id_pud-dep-aux.html">aux</a></tt> (59; 3% instances), <tt><a href="id_pud-dep-cc.html">cc</a></tt> (54; 2% instances), <tt><a href="id_pud-dep-neg.html">neg</a></tt> (48; 2% instances), <tt><a href="id_pud-dep-advcl.html">advcl</a></tt> (29; 1% instances), <tt><a href="id_pud-dep-det.html">det</a></tt> (25; 1% instances), <tt><a href="id_pud-dep-amod.html">amod</a></tt> (20; 1% instances), <tt><a href="id_pud-dep-ccomp.html">ccomp</a></tt> (20; 1% instances), <tt><a href="id_pud-dep-mwe.html">mwe</a></tt> (19; 1% instances), <tt><a href="id_pud-dep-rcmod.html">rcmod</a></tt> (19; 1% instances), <tt><a href="id_pud-dep-nsubjpass.html">nsubjpass</a></tt> (18; 1% instances), <tt><a href="id_pud-dep-xcomp.html">xcomp</a></tt> (17; 1% instances), <tt><a href="id_pud-dep-poss.html">poss</a></tt> (15; 1% instances), <tt><a href="id_pud-dep-mwn.html">mwn</a></tt> (11; 0% instances), <tt><a href="id_pud-dep-parataxis.html">parataxis</a></tt> (10; 0% instances), <tt><a href="id_pud-dep-redup.html">redup</a></tt> (10; 0% instances), <tt><a href="id_pud-dep-appos.html">appos</a></tt> (7; 0% instances), <tt><a href="id_pud-dep-mes.html">mes</a></tt> (7; 0% instances), <tt><a href="id_pud-dep-dep.html">dep</a></tt> (6; 0% instances), <tt><a href="id_pud-dep-goeswith.html">goeswith</a></tt> (6; 0% instances), <tt><a href="id_pud-dep-npadvmod.html">npadvmod</a></tt> (6; 0% instances), <tt><a href="id_pud-dep-tmod.html">tmod</a></tt> (6; 0% instances), <tt><a href="id_pud-dep-csubj.html">csubj</a></tt> (5; 0% instances), <tt><a href="id_pud-dep-mwa.html">mwa</a></tt> (4; 0% instances), <tt><a href="id_pud-dep-acomp.html">acomp</a></tt> (3; 0% instances), <tt><a href="id_pud-dep-dislocated.html">dislocated</a></tt> (2; 0% instances), <tt><a href="id_pud-dep-csubjpass.html">csubjpass</a></tt> (1; 0% instances), <tt><a href="id_pud-dep-mwv.html">mwv</a></tt> (1; 0% instances), <tt><a href="id_pud-dep-num.html">num</a></tt> (1; 0% instances), <tt><a href="id_pud-dep-oblcomp.html">oblcomp</a></tt> (1; 0% instances)
+
+Children of `ADJ` nodes belong to 12 different parts of speech: <tt><a href="id_pud-pos-AFFIX.html">AFFIX</a></tt> (721; 32% instances), <tt><a href="id_pud-pos-ADP.html">ADP</a></tt> (386; 17% instances), <tt><a href="id_pud-pos-NOUN.html">NOUN</a></tt> (301; 13% instances), <tt><a href="id_pud-pos-ADV.html">ADV</a></tt> (237; 11% instances), <tt><a href="id_pud-pos-PUNCT.html">PUNCT</a></tt> (217; 10% instances), <tt><a href="id_pud-pos-VERB.html">VERB</a></tt> (118; 5% instances), <tt><a href="id_pud-pos-ADJ.html">ADJ</a></tt> (89; 4% instances), <tt><a href="id_pud-pos-PRON.html">PRON</a></tt> (67; 3% instances), <tt><a href="id_pud-pos-CONJ.html">CONJ</a></tt> (59; 3% instances), <tt><a href="id_pud-pos-DET.html">DET</a></tt> (23; 1% instances), <tt><a href="id_pud-pos-NUM.html">NUM</a></tt> (21; 1% instances), <tt><a href="id_pud-pos-X.html">X</a></tt> (7; 0% instances)
+
