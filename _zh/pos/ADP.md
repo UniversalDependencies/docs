@@ -26,7 +26,7 @@ Localizers (also known as 方位詞 / _fāngwèicí_), typically indicate spa
 ### Examples
 
 - Coverbs / prepositions
-  - 在 / _zài_ "in, on, at", 對 / _duì_ "to, toward", 跟 / _gēn_ "with" (comitative), 用 / _yòng_ "with" (instrumental), 幫 / _bāng_ "for" (benefactive), 為了 / _wèile_ "for (sake of)"
+  - 在 / _zài_ "in, on, at", 對 / _duì_ "to, toward", 跟 / _gēn_ "with" (comitative), 用 / _yòng_ "with" (instrumental), 為了 / _wèile_ "for (sake of)"
 - Valence markers
   - 把 / _bǎ_ (disposal), 將 / _jiāng_ (disposal), 被 / _bèi_ (long passive only)
 - Localizers / postpositions
