@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-06T16:46:19Z">2017-11-06T16:46:19 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-06T17:47:21Z">2017-11-06T17:47:21 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1301,7 +1301,7 @@ The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.myv does n
 <span class="doublewidespan" style="padding-left:3em">UD Estonian</span>
 <span class="widespan">et</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:06:13Z">2017-11-03T14:06:13 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-06T17:47:13Z">2017-11-06T17:47:13 zulu</time></span>
 </div>
 <div>
 <pre>
