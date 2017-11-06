@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-06T21:53:16Z">2017-11-06T21:53:16 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-06T21:58:34Z">2017-11-06T21:58:34 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3866,7 +3866,7 @@ python tools/validate.py --lang hsb UD-dev-branches/UD_Upper_Sorbian/hsb-ud-test
 <span class="doublewidespan" style="padding-left:3em">UD Urdu</span>
 <span class="widespan">ur</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T15:49:03Z">2017-11-03T15:49:03 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-06T21:58:23Z">2017-11-06T21:58:23 zulu</time></span>
 </div>
 <div>
 <pre>
