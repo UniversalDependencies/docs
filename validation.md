@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-07T12:54:04Z">2017-11-07T12:54:04 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-07T12:57:08Z">2017-11-07T12:57:08 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3043,7 +3043,7 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Romanian-Nonstandard</span>
 <span class="widespan">ro nonstandard</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T12:54:02Z">2017-11-07T12:54:02 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T12:57:06Z">2017-11-07T12:57:06 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3072,29 +3072,29 @@ python tools/validate.py --lang ro_nonstandard UD-dev-branches/UD_Romanian-Nonst
 [Tree number 38 on line 834]: Mismatch between the text attribute and the FORM field. Form is 'iisrailteanii' but text is 'israilteanii....'
 [Tree number 38 on line 834]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'israilteanii....'
 [Line                   867]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'israilteanii.'
-[Tree number 45 on line 1056]: Mismatch between the text attribute and the FORM field. Form is 'Iară' but text is '44	Iară deaca să întoars...'
-[Tree number 45 on line 1056]: Mismatch between the text attribute and the FORM field. Form is 'deaca' but text is '44	Iară deaca să întoarsă...'
-[Tree number 45 on line 1056]: Mismatch between the text attribute and the FORM field. Form is 'să' but text is '44	Iară deaca să întoa...'
-[Tree number 45 on line 1056]: Mismatch between the text attribute and the FORM field. Form is 'întoarsără' but text is '44	Iară deaca să întoarsără ei...'
-[Tree number 45 on line 1056]: Mismatch between the text attribute and the FORM field. Form is 'ei' but text is '44	Iară deaca să întoa...'
-[Tree number 45 on line 1056]: Mismatch between the text attribute and the FORM field. Form is ',' but text is '44	Iară deaca să înto...'
-[Tree number 45 on line 1056]: Mismatch between the text attribute and the FORM field. Form is 'iaca' but text is '44	Iară deaca să întoars...'
-[Tree number 45 on line 1056]: Mismatch between the text attribute and the FORM field. Form is 'îngerul' but text is '44	Iară deaca să întoarsără...'
-[Tree number 45 on line 1056]: Mismatch between the text attribute and the FORM field. Form is 'Domnului' but text is '44	Iară deaca să întoarsără ...'
-[Tree number 45 on line 1056]: Mismatch between the text attribute and the FORM field. Form is 'să' but text is '44	Iară deaca să întoa...'
-[Tree number 45 on line 1056]: Mismatch between the text attribute and the FORM field. Form is 'arătă' but text is '44	Iară deaca să întoarsă...'
-[Tree number 45 on line 1056]: Mismatch between the text attribute and the FORM field. Form is 'în' but text is '44	Iară deaca să întoa...'
-[Tree number 45 on line 1056]: Mismatch between the text attribute and the FORM field. Form is 'somn' but text is '44	Iară deaca să întoars...'
-[Tree number 45 on line 1056]: Mismatch between the text attribute and the FORM field. Form is 'lui' but text is '44	Iară deaca să întoar...'
-[Tree number 45 on line 1056]: Mismatch between the text attribute and the FORM field. Form is 'Iosif' but text is '44	Iară deaca să întoarsă...'
-[Tree number 45 on line 1056]: Mismatch between the text attribute and the FORM field. Form is ',' but text is '44	Iară deaca să înto...'
+[Line                   1105]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'ei, iaca îngerul Dom[...]'
+[Line                   1105]: SpaceAfter=No is missing in the MISC field of node #15 because the text is 'Iosif, zicînd: Scoal[...]'
+[Line                   1105]: SpaceAfter=No is missing in the MISC field of node #17 because the text is 'zicînd: Scoală şi ia[...]'
+[Line                   1105]: SpaceAfter=No is missing in the MISC field of node #37 because the text is 'ţie, că va să caute [...]'
+[Line                   1105]: SpaceAfter=No is missing in the MISC field of node #46 because the text is 'să-l piarză.'
+[Line                   1105]: SpaceAfter=No is missing in the MISC field of node #48 because the text is 'piarză.'
+[Tree number 59 on line 1436]: Mismatch between the text attribute and the FORM field. Form is 'pocăinţei' but text is 'pocăinței....'
+[Tree number 59 on line 1436]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'pocăinței....'
+[Line                   1439]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'pocăinței.'
+[Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is 'i' but text is '-i de carea e zis pre...'
+[Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is 'de' but text is '-i de carea e zis pre ...'
+[Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is 'carea' but text is '-i de carea e zis pre Isa...'
+[Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is 'e' but text is '-i de carea e zis pre...'
+[Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is 'zis' but text is '-i de carea e zis pre I...'
+[Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is 'pre' but text is '-i de carea e zis pre I...'
+[Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is 'Isaiia' but text is '-i de carea e zis pre Isai...'
 ...suppressing further errors regarding Metadata
 [Line                   16066]: 'de la' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
 [Tree number 1068 on line 22672]: Multiple root words: [2, 12]
 [Tree number 1137 on line 24094]: Multiple root words: [4, 6]
-*** FAILED *** with 2643 errors
+*** FAILED *** with 2599 errors
 Format errors: 1
-Metadata errors: 578
+Metadata errors: 534
 Morpho errors: 2062
 Syntax errors: 2
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/tokens_w_space.ro_nonstandard does not exist.
