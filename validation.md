@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-07T15:30:26Z">2017-11-07T15:30:26 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-07T15:36:14Z">2017-11-07T15:36:14 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3050,20 +3050,15 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Romanian-Nonstandard</span>
 <span class="widespan">ro nonstandard</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T15:30:24Z">2017-11-07T15:30:24 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T15:36:12Z">2017-11-07T15:36:12 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang ro_nonstandard UD-dev-branches/UD_Romanian-Nonstandard/ro_nonstandard-ud-test.conllu
 
-[Line                   867]: SpaceAfter=No is missing in the MISC field of node #32 because the text is 'israilteanii.'
 [Tree number 59 on line 1436]: Mismatch between the text attribute and the FORM field. Form is 'pocăinţei' but text is 'pocăinței....'
 [Tree number 59 on line 1436]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'pocăinței....'
 [Line                   1439]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'pocăinței.'
-[Line                   1524]: SpaceAfter=No is missing in the MISC field of node #11 because the text is 'zicînd: glasul strig[...]'
-[Line                   1524]: SpaceAfter=No is missing in the MISC field of node #16 because the text is 'pustie: gătiţi calea[...]'
-[Line                   1524]: SpaceAfter=No is missing in the MISC field of node #20 because the text is 'Domului, dereapte fa[...]'
-[Line                   1524]: SpaceAfter=No is missing in the MISC field of node #25 because the text is 'lui.'
 [Tree number 112 on line 2674]: Mismatch between the text attribute and the FORM field. Form is 'fericiţi' but text is 'fericiți....'
 [Tree number 112 on line 2674]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'fericiți....'
 [Line                   2678]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'fericiți.'
@@ -3075,13 +3070,18 @@ python tools/validate.py --lang ro_nonstandard UD-dev-branches/UD_Romanian-Nonst
 [Tree number 124 on line 2775]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'pizmașilor....'
 [Line                   2778]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'pizmașilor.'
 [Tree number 125 on line 2782]: Mismatch between the text attribute and the FORM field. Form is 'Săvîrşirea' but text is 'Săvârșirea....'
+[Tree number 125 on line 2782]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'Săvârșirea....'
+[Line                   2784]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'Săvârșirea.'
+[Tree number 180 on line 4157]: Mismatch between the text attribute and the FORM field. Form is 'fraţilor' but text is 'fraților....'
+[Tree number 180 on line 4157]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'fraților....'
+[Line                   4160]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'fraților.'
 ...suppressing further errors regarding Metadata
 [Line                   7623]: Unknown attribute-value pair NumType=Col
 [Line                   12560]: Unknown attribute-value pair NumType=Col
 [Line                   14707]: Unknown attribute-value pair NumType=Col
 [Line                   18478]: Unknown attribute-value pair NumType=Col
-*** FAILED *** with 508 errors
-Metadata errors: 504
+*** FAILED *** with 503 errors
+Metadata errors: 499
 Morpho errors: 4
 
 
