@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-07T15:21:55Z">2017-11-07T15:21:55 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-07T15:25:31Z">2017-11-07T15:25:31 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3050,7 +3050,7 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Romanian-Nonstandard</span>
 <span class="widespan">ro nonstandard</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T15:21:53Z">2017-11-07T15:21:53 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T15:25:29Z">2017-11-07T15:25:29 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3064,8 +3064,6 @@ python tools/validate.py --lang ro_nonstandard UD-dev-branches/UD_Romanian-Nonst
 [Line                   1524]: SpaceAfter=No is missing in the MISC field of node #16 because the text is 'pustie: gătiţi calea[...]'
 [Line                   1524]: SpaceAfter=No is missing in the MISC field of node #20 because the text is 'Domului, dereapte fa[...]'
 [Line                   1524]: SpaceAfter=No is missing in the MISC field of node #25 because the text is 'lui.'
-[Line                   1776]: Morphological features must be sorted: 'Gender=Masc|Number=Sing|VerbForm=Part|Polarity=Neg|VerbForm=Fin'
-[Line                   1776]: Repeated features are disallowed: Gender=Masc|Number=Sing|VerbForm=Part|Polarity=Neg|VerbForm=Fin
 [Tree number 112 on line 2674]: Mismatch between the text attribute and the FORM field. Form is 'fericiţi' but text is 'fericiți....'
 [Tree number 112 on line 2674]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'fericiți....'
 [Line                   2678]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'fericiți.'
@@ -3083,22 +3081,22 @@ python tools/validate.py --lang ro_nonstandard UD-dev-branches/UD_Romanian-Nonst
 [Line                   12150]: Invalid UPOSTAG value _
 [Line                   12560]: Unknown attribute-value pair NumType=Col
 [Line                   14707]: Unknown attribute-value pair NumType=Col
-[Line                   14833]: Morphological features must be sorted: 'Gender=Fem|Number=Plur|VerbForm=Part|Polarity=Neg|VerbForm=Fin'
-[Line                   14833]: Repeated features are disallowed: Gender=Fem|Number=Plur|VerbForm=Part|Polarity=Neg|VerbForm=Fin
-[Line                   17625]: Morphological features must be sorted: 'Gender=Fem|Number=Plur|VerbForm=Part|Polarity=Neg|VerbForm=Fin'
-[Line                   17625]: Repeated features are disallowed: Gender=Fem|Number=Plur|VerbForm=Part|Polarity=Neg|VerbForm=Fin
 [Line                   18478]: Unknown attribute-value pair NumType=Col
 [Line                   20054]: Unknown UPOS tag: _
 [Line                   20054]: Invalid UPOSTAG value _
-[Line                   21965]: Morphological features must be sorted: 'Case=Dat,Gen|Number=Plur|Person=2|PronType=Prs|Polit=Yes'
-[Line                   21965]: Unknown attribute-value pair Polit=Yes
+[Line                   21965]: Morphological features must be sorted: 'Case=Dat,Gen|Number=Plur|Person=2|PronType=Prs|Polite=Yes'
+[Line                   21965]: Unknown attribute-value pair Polite=Yes
 [Line                   25093]: Unknown UPOS tag: _
 [Line                   25093]: Invalid UPOSTAG value _
 [Line                   25100]: Unknown UPOS tag: _
-...suppressing further errors regarding Morpho
-*** FAILED *** with 528 errors
+[Line                   25100]: Invalid UPOSTAG value _
+[Line                   25158]: Unknown UPOS tag: _
+[Line                   25158]: Invalid UPOSTAG value _
+[Line                   25313]: Unknown UPOS tag: _
+[Line                   25313]: Invalid UPOSTAG value _
+*** FAILED *** with 522 errors
 Metadata errors: 504
-Morpho errors: 24
+Morpho errors: 18
 
 
 ******************
