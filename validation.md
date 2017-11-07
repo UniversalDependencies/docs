@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-07T14:47:04Z">2017-11-07T14:47:04 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-07T15:13:50Z">2017-11-07T15:13:50 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3050,61 +3050,55 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Romanian-Nonstandard</span>
 <span class="widespan">ro nonstandard</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T13:35:59Z">2017-11-07T13:35:59 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T15:13:48Z">2017-11-07T15:13:48 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang ro_nonstandard UD-dev-branches/UD_Romanian-Nonstandard/ro_nonstandard-ud-test.conllu
 
-[Line                   384]: Unknown UPOS tag: _
-[Line                   384]: Invalid UPOSTAG value _
-[Line                   385]: Unknown UPOS tag: _
-[Line                   385]: Invalid UPOSTAG value _
-[Line                   467]: Unknown UPOS tag: _
-[Line                   467]: Invalid UPOSTAG value _
-[Line                   612]: Unknown attribute-value pair WordForm=Compound
-[Line                   623]: Unknown UPOS tag: _
-[Line                   623]: Invalid UPOSTAG value _
-[Line                   709]: Unknown attribute-value pair WordForm=Compound
-[Line                   764]: Unknown UPOS tag: _
-[Line                   764]: Invalid UPOSTAG value _
-[Tree number 38 on line 834]: Mismatch between the text attribute and the FORM field. Form is 'iisrailteanii' but text is 'israilteanii....'
-[Tree number 38 on line 834]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'israilteanii....'
-[Line                   867]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'israilteanii.'
-[Line                   920]: Unknown attribute-value pair WordForm=Compound
-[Line                   935]: Unknown UPOS tag: _
-[Line                   935]: Invalid UPOSTAG value _
-[Line                   975]: Unknown attribute-value pair WordForm=Compound
-[Line                   1041]: Unknown attribute-value pair WordForm=Compound
-[Line                   1057]: Unknown attribute-value pair WordForm=Compound
-[Line                   1273]: Unknown attribute-value pair WordForm=Compound
-...suppressing further errors regarding Morpho
+[Line                   867]: SpaceAfter=No is missing in the MISC field of node #32 because the text is 'israilteanii.'
 [Tree number 59 on line 1436]: Mismatch between the text attribute and the FORM field. Form is 'pocăinţei' but text is 'pocăinței....'
 [Tree number 59 on line 1436]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'pocăinței....'
 [Line                   1439]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'pocăinței.'
-[Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is 'i' but text is '-i de carea e zis pre...'
-[Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is 'de' but text is '-i de carea e zis pre ...'
-[Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is 'carea' but text is '-i de carea e zis pre Isa...'
-[Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is 'e' but text is '-i de carea e zis pre...'
-[Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is 'zis' but text is '-i de carea e zis pre I...'
-[Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is 'pre' but text is '-i de carea e zis pre I...'
-[Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is 'Isaiia' but text is '-i de carea e zis pre Isai...'
-[Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is 'prorocul' but text is '-i de carea e zis pre Isaiia...'
-[Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is 'zicînd' but text is '-i de carea e zis pre Isai...'
-[Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is ':' but text is '-i de carea e zis pre...'
-[Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is 'glasul' but text is '-i de carea e zis pre Isai...'
-[Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is 'strigătoriulu' but text is '-i de carea e zis pre Isaiia pror...'
-[Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is 'în' but text is '-i de carea e zis pre ...'
+[Line                   1524]: SpaceAfter=No is missing in the MISC field of node #11 because the text is 'zicînd: glasul strig[...]'
+[Line                   1524]: SpaceAfter=No is missing in the MISC field of node #16 because the text is 'pustie: gătiţi calea[...]'
+[Line                   1524]: SpaceAfter=No is missing in the MISC field of node #20 because the text is 'Domului, dereapte fa[...]'
+[Line                   1524]: SpaceAfter=No is missing in the MISC field of node #25 because the text is 'lui.'
+[Line                   1640]: If an attribute has multiple values, these must be sorted as well: 'VerbForm=Long,Fin'
+[Line                   1640]: Unknown attribute-value pair VerbForm=Long
+[Line                   1776]: Morphological features must be sorted: 'Gender=Masc|Number=Sing|VerbForm=Part|Polarity=Neg|VerbForm=Fin'
+[Line                   1776]: Repeated features are disallowed: Gender=Masc|Number=Sing|VerbForm=Part|Polarity=Neg|VerbForm=Fin
+[Tree number 112 on line 2674]: Mismatch between the text attribute and the FORM field. Form is 'fericiţi' but text is 'fericiți....'
+[Tree number 112 on line 2674]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'fericiți....'
+[Line                   2678]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'fericiți.'
+[Tree number 121 on line 2752]: Mismatch between the text attribute and the FORM field. Form is 'Tăiarea' but text is 'Tăierea mâinei....'
+[Tree number 121 on line 2752]: Mismatch between the text attribute and the FORM field. Form is 'mîinei' but text is 'Tăierea mâinei....'
+[Tree number 121 on line 2752]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'Tăierea mâinei....'
+[Line                   2755]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'Tăierea mâinei.'
+[Tree number 124 on line 2775]: Mismatch between the text attribute and the FORM field. Form is 'pizmaşilor' but text is 'pizmașilor....'
+[Tree number 124 on line 2775]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'pizmașilor....'
+[Line                   2778]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'pizmașilor.'
+[Tree number 125 on line 2782]: Mismatch between the text attribute and the FORM field. Form is 'Săvîrşirea' but text is 'Săvârșirea....'
 ...suppressing further errors regarding Metadata
-[Line                   16065]: 'de la' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Tree number 1068 on line 22671]: Multiple root words: [2, 12]
-[Tree number 1137 on line 24093]: Multiple root words: [4, 6]
-*** FAILED *** with 852 errors
-Format errors: 1
-Metadata errors: 527
-Morpho errors: 322
-Syntax errors: 2
-The language-specific file /home/ginter/UD_PROJHOOK/tools/data/tokens_w_space.ro_nonstandard does not exist.
+[Line                   2961]: Unknown attribute-value pair Mood=Inf
+[Line                   3332]: Morphological features must be sorted: 'Case=Acc,Nom||Number=Sing|Person=3|PronType=Ind'
+[Line                   3332]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   3523]: Morphological features must be sorted: 'Case=Acc,Nom||Number=Sing|Person=3|PronType=Ind'
+[Line                   3523]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   3575]: Morphological features must be sorted: 'Case=Acc,Nom||Gender=Masc|Number=Sing|Person=3|PronType=Ind'
+[Line                   3575]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   3620]: Morphological features must be sorted: 'Case=Acc,Nom||Gender=Masc|Number=Sing|Person=3|PronType=Ind'
+[Line                   3620]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   3643]: Morphological features must be sorted: 'Case=Acc,Nom||Number=Sing|Person=3|PronType=Ind'
+[Line                   3643]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   3730]: If an attribute has multiple values, these must be sorted as well: 'VerbForm=Long,Fin'
+[Line                   3730]: Unknown attribute-value pair VerbForm=Long
+[Line                   3863]: If an attribute has multiple values, these must be sorted as well: 'VerbForm=Long,Fin'
+[Line                   3863]: Unknown attribute-value pair VerbForm=Long
+...suppressing further errors regarding Morpho
+*** FAILED *** with 704 errors
+Metadata errors: 504
+Morpho errors: 200
 
 
 ******************
