@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-07T12:17:02Z">2017-11-07T12:17:02 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-07T12:26:59Z">2017-11-07T12:26:59 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3043,24 +3043,13 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Romanian-Nonstandard</span>
 <span class="widespan">ro nonstandard</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T08:11:54Z">2017-11-07T08:11:54 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T12:26:57Z">2017-11-07T12:26:57 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ro_nonstandard /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Romanian-Nonstandard/ro_nonstandard-ud-test.conlluTraceback (most recent call last):
-  File "/home/ginter/UD_PROJHOOK/tools/validate.py", line 735, in &lt;module&gt;
-    validate(inp,out,args,tagsets,known_sent_ids)
-  File "/home/ginter/UD_PROJHOOK/tools/validate.py", line 625, in validate
-    validate_text_meta(comments,tree)
-  File "/home/ginter/UD_PROJHOOK/tools/validate.py", line 165, in validate_text_meta
-    if u"NoSpaceAfter=Yes" in cols[MISC]:
-IndexError: list index out of range
-
-
+python tools/validate.py --lang ro_nonstandard UD-dev-branches/UD_Romanian-Nonstandard/ro_nonstandard-ud-test.conllu
 
 [Line                   12]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'EVANGHELIE.'
-[Line                   25]: Morphological features must be sorted: 'Gender=Masc|Number=Sing|Mood=Part|Polarity=Pos|VerbForm=Fin'
-[Line                   25]: Unknown attribute-value pair Mood=Part
 [Line                   29]: SpaceAfter=No is missing in the MISC field of node #12 because the text is 'părinţilor.'
 [Line                   48]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'Hristos, fiiul lui D[...]'
 [Line                   48]: SpaceAfter=No is missing in the MISC field of node #10 because the text is 'David, fiiul lui Avraam.'
@@ -3077,58 +3066,50 @@ IndexError: list index out of range
 [Line                   142]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'Rahav, iară Vooz năs[...]'
 [Line                   142]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'Ruta, Ovid născu pre[...]'
 [Line                   142]: SpaceAfter=No is missing in the MISC field of node #19 because the text is 'Isei.'
-[Line                   163]: Unknown attribute-value pair Mood=Part
 [Line                   167]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'craiu, iară David cr[...]'
 [Line                   167]: SpaceAfter=No is missing in the MISC field of node #12 because the text is 'Solomon, den muiarea[...]'
 ...suppressing further errors regarding Metadata
-[Line                   169]: Spurious line: '@ citation-part=MATT 1.7'. All non-empty lines should start with a digit or the # character.
 [Line                   364]: Unknown attribute-value pair PronType=Refl
 [Line                   384]: Unknown UPOS tag: _
 [Line                   384]: Invalid UPOSTAG value _
 [Line                   385]: Unknown UPOS tag: _
 [Line                   385]: Invalid UPOSTAG value _
-[Line                   429]: Unknown attribute-value pair Mood=Ger
-[Line                   430]: Morphological features must be sorted: 'Case=Acc,Nom|Gender=Fem|Number=Sing|Mood=Part|Polarity=Pos|VerbForm=Fin'
-[Line                   430]: Unknown attribute-value pair Mood=Part
 [Line                   441]: Unknown attribute-value pair PronType=Refl
 [Line                   446]: Unknown attribute-value pair PronType=Refl
-[Line                   447]: Morphological features must be sorted: 'Case=Acc,Nom|Gender=Fem|Number=Sing|Mood=Part|Polarity=Pos|VerbForm=Fin'
-[Line                   447]: Unknown attribute-value pair Mood=Part
-[Line                   462]: Unknown attribute-value pair Mood=Ger
+[Line                   462]: Morphological features must be sorted: 'Polarity=Pos|VerbForm=Ger|VerbForm=Fin'
+[Line                   462]: Repeated features are disallowed: Polarity=Pos|VerbForm=Ger|VerbForm=Fin
 [Line                   467]: Unknown UPOS tag: _
 [Line                   467]: Invalid UPOSTAG value _
 [Line                   472]: Unknown attribute-value pair PartType=Sub
+[Line                   483]: Morphological features must be sorted: 'Polarity=Pos|VerbForm=Ger|VerbForm=Fin'
+[Line                   483]: Repeated features are disallowed: Polarity=Pos|VerbForm=Ger|VerbForm=Fin
+[Line                   491]: Unknown attribute-value pair PronType=Refl
+[Line                   497]: Morphological features must be sorted: 'Polarity=Pos|VerbForm=Ger|VerbForm=Fin'
+[Line                   497]: Repeated features are disallowed: Polarity=Pos|VerbForm=Ger|VerbForm=Fin
+[Line                   510]: Unknown attribute-value pair Mood=Inf
+[Line                   514]: Unknown attribute-value pair PronType=Poss
 ...suppressing further errors regarding Morpho
-[Line                   2820]: Spurious line: '@ citation-part=MATT 5.3'. All non-empty lines should start with a digit or the # character.
-[Line                   5986]: Invalid DEPREL value ROOT
-[Line                   5986]: Unknown UD DEPREL: ROOT
-[Line                   6599]: Invalid DEPREL value ROOT
-[Line                   6599]: Unknown UD DEPREL: ROOT
-[Line                   12069]: 'de la' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   12916]: Spurious line: ' '. All non-empty lines should start with a digit or the # character.
+[Line                   5998]: DEPREL can only be "root" if HEAD is 0
+[Line                   6604]: DEPREL can only be "root" if HEAD is 0
+[Line                   12907]: The line has 20 columns, but 10 are expected.
+[Line                   12915]: Spurious line: ' '. All non-empty lines should start with a digit or the # character.
+[Line                   12916]: Spurious comment line.
 [Line                   12917]: Spurious comment line.
 [Line                   12918]: Spurious comment line.
-[Line                   12919]: Spurious comment line.
-[Tree number 606 on line 12897]: Words do not form a sequence. Got: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,1,2,3,4,5,6,7,8,9,10,11.
-[Line                   12931]: Loop from 9
-[Line                   12931]: Loop from 10
-[Line                   12931]: Loop from 11
-[Tree number 606 on line 12897]: Non-tree structure. Words 20,21,22,23,24,25,26,27,28,29,30 are not reachable from the root 0.
-[Line                   14255]: Empty value in column XPOSTAG
-[Line                   14502]: 'de la' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   16055]: 'de la' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   20220]: The line has 9 columns, but 10 are expected.
-[Line                   20220]: Invalid DEPREL value _
-[Line                   20220]: Unknown UD DEPREL: _
-[Line                   20241]: Undefined ID in HEAD: cop
-[Tree number 960 on line 20220]: Non-integer head for word ID 1
-[Tree number 960 on line 20220]: Non-tree structure. Words 1 are not reachable from the root 0.
-[Line                   20241]: Exception caught!
-*** FAILED *** with 5480 errors
-Format errors: 15
-Metadata errors: 3209
-Morpho errors: 2245
-Syntax errors: 11
+[Tree number 606 on line 12897]: Words do not form a sequence. Got: 1,2,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,1,2,3,4,5,6,7,8,9,10,11.
+[Line                   12930]: Loop from 9
+[Line                   12930]: Loop from 10
+[Line                   12930]: Loop from 11
+[Tree number 606 on line 12897]: Non-tree structure. Words 12,20,21,22,23,24,25,26,27,28,29 are not reachable from the root 0.
+[Line                   16054]: 'de la' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Tree number 1067 on line 22658]: Multiple root words: [2, 12]
+[Tree number 1136 on line 24080]: Multiple root words: [4, 6]
+[Line                   25468]: Missing empty line after the last tree.
+*** FAILED *** with 6921 errors
+Format errors: 8
+Metadata errors: 4379
+Morpho errors: 2526
+Syntax errors: 8
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/tokens_w_space.ro_nonstandard does not exist.
 
 
