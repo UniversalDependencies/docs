@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-07T13:30:26Z">2017-11-07T13:30:26 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-07T13:32:39Z">2017-11-07T13:32:39 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3050,11 +3050,11 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Romanian-Nonstandard</span>
 <span class="widespan">ro nonstandard</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T13:30:24Z">2017-11-07T13:30:24 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T13:32:37Z">2017-11-07T13:32:37 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang ro_nonstandard UD-dev-branches/UD_Romanian-Nonstandard/ro_nonstandard-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ro_nonstandard /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Romanian-Nonstandard/ro_nonstandard-ud-test.conllu
 
 [Line                   384]: Unknown UPOS tag: _
 [Line                   384]: Invalid UPOSTAG value _
@@ -3062,22 +3062,22 @@ python tools/validate.py --lang ro_nonstandard UD-dev-branches/UD_Romanian-Nonst
 [Line                   385]: Invalid UPOSTAG value _
 [Line                   467]: Unknown UPOS tag: _
 [Line                   467]: Invalid UPOSTAG value _
-[Line                   472]: Unknown attribute-value pair PartType=Sub
-[Line                   565]: Unknown attribute-value pair PartType=Sub
 [Line                   612]: Unknown attribute-value pair WordForm=Compound
 [Line                   623]: Unknown UPOS tag: _
 [Line                   623]: Invalid UPOSTAG value _
 [Line                   709]: Unknown attribute-value pair WordForm=Compound
-[Line                   763]: Unknown attribute-value pair PartType=Sub
 [Line                   764]: Unknown UPOS tag: _
 [Line                   764]: Invalid UPOSTAG value _
-[Line                   805]: Unknown attribute-value pair PartType=Sub
 [Tree number 38 on line 834]: Mismatch between the text attribute and the FORM field. Form is 'iisrailteanii' but text is 'israilteanii....'
 [Tree number 38 on line 834]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'israilteanii....'
 [Line                   867]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'israilteanii.'
 [Line                   920]: Unknown attribute-value pair WordForm=Compound
-[Line                   930]: Unknown attribute-value pair PartType=Sub
-[Line                   934]: Unknown attribute-value pair PartType=Sub
+[Line                   935]: Unknown UPOS tag: _
+[Line                   935]: Invalid UPOSTAG value _
+[Line                   975]: Unknown attribute-value pair WordForm=Compound
+[Line                   1041]: Unknown attribute-value pair WordForm=Compound
+[Line                   1057]: Unknown attribute-value pair WordForm=Compound
+[Line                   1273]: Unknown attribute-value pair WordForm=Compound
 ...suppressing further errors regarding Morpho
 [Tree number 59 on line 1436]: Mismatch between the text attribute and the FORM field. Form is 'pocăinţei' but text is 'pocăinței....'
 [Tree number 59 on line 1436]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'pocăinței....'
@@ -3099,10 +3099,10 @@ python tools/validate.py --lang ro_nonstandard UD-dev-branches/UD_Romanian-Nonst
 [Line                   16065]: 'de la' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
 [Tree number 1068 on line 22671]: Multiple root words: [2, 12]
 [Tree number 1137 on line 24093]: Multiple root words: [4, 6]
-*** FAILED *** with 1184 errors
+*** FAILED *** with 852 errors
 Format errors: 1
 Metadata errors: 527
-Morpho errors: 654
+Morpho errors: 322
 Syntax errors: 2
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/tokens_w_space.ro_nonstandard does not exist.
 
