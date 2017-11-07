@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-07T12:29:07Z">2017-11-07T12:29:07 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-07T12:35:35Z">2017-11-07T12:35:35 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3043,7 +3043,7 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Romanian-Nonstandard</span>
 <span class="widespan">ro nonstandard</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T12:26:57Z">2017-11-07T12:26:57 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T12:35:34Z">2017-11-07T12:35:34 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3059,15 +3059,15 @@ python tools/validate.py --lang ro_nonstandard UD-dev-branches/UD_Romanian-Nonst
 [Line                   73]: SpaceAfter=No is missing in the MISC field of node #20 because the text is 'lui.'
 [Line                   98]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'Tamar, iară Fares nă[...]'
 [Line                   98]: SpaceAfter=No is missing in the MISC field of node #20 because the text is 'Aram.'
-[Line                   118]: The text attribute must not end with a whitespace
 [Line                   118]: SpaceAfter=No is missing in the MISC field of node #4 because the text is 'Aminadav, iară Amina[...]'
 [Line                   118]: SpaceAfter=No is missing in the MISC field of node #10 because the text is 'Nasson, Nasson născu[...]'
-[Line                   118]: SpaceAfter=No is missing in the MISC field of node #15 because the text is 'Salmon. '
+[Line                   118]: SpaceAfter=No is missing in the MISC field of node #15 because the text is 'Salmon.'
 [Line                   142]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'Rahav, iară Vooz năs[...]'
 [Line                   142]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'Ruta, Ovid născu pre[...]'
 [Line                   142]: SpaceAfter=No is missing in the MISC field of node #19 because the text is 'Isei.'
 [Line                   167]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'craiu, iară David cr[...]'
 [Line                   167]: SpaceAfter=No is missing in the MISC field of node #12 because the text is 'Solomon, den muiarea[...]'
+[Line                   167]: SpaceAfter=No is missing in the MISC field of node #20 because the text is 'Uriei.'
 ...suppressing further errors regarding Metadata
 [Line                   364]: Unknown attribute-value pair PronType=Refl
 [Line                   384]: Unknown UPOS tag: _
@@ -3092,24 +3092,15 @@ python tools/validate.py --lang ro_nonstandard UD-dev-branches/UD_Romanian-Nonst
 [Line                   5998]: DEPREL can only be "root" if HEAD is 0
 [Line                   6604]: DEPREL can only be "root" if HEAD is 0
 [Line                   12907]: The line has 20 columns, but 10 are expected.
-[Line                   12915]: Spurious line: ' '. All non-empty lines should start with a digit or the # character.
-[Line                   12916]: Spurious comment line.
-[Line                   12917]: Spurious comment line.
-[Line                   12918]: Spurious comment line.
-[Tree number 606 on line 12897]: Words do not form a sequence. Got: 1,2,3,4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,1,2,3,4,5,6,7,8,9,10,11.
-[Line                   12930]: Loop from 9
-[Line                   12930]: Loop from 10
-[Line                   12930]: Loop from 11
-[Tree number 606 on line 12897]: Non-tree structure. Words 12,20,21,22,23,24,25,26,27,28,29 are not reachable from the root 0.
-[Line                   16054]: 'de la' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Tree number 1067 on line 22658]: Multiple root words: [2, 12]
-[Tree number 1136 on line 24080]: Multiple root words: [4, 6]
-[Line                   25468]: Missing empty line after the last tree.
-*** FAILED *** with 6921 errors
-Format errors: 8
-Metadata errors: 4379
+[Line                   16055]: 'de la' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Tree number 1068 on line 22659]: Multiple root words: [2, 12]
+[Tree number 1137 on line 24081]: Multiple root words: [4, 6]
+[Line                   25469]: Missing empty line after the last tree.
+*** FAILED *** with 6890 errors
+Format errors: 3
+Metadata errors: 4357
 Morpho errors: 2526
-Syntax errors: 8
+Syntax errors: 4
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/tokens_w_space.ro_nonstandard does not exist.
 
 
