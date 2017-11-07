@@ -223,6 +223,7 @@ The contents of the comments and metadata is basically unrestricted and will var
 
 * A treebank-wide unique sentence id (`sent_id`), formatted as in the examples below. In sentence ids, the slash character ("/") is reserved for specialized downstream use and should be avoided in UD treebanks. (The specialized use deals with multiple annotations of one sentence within one file, or with parallel data within one file. See [Issue 321](https://github.com/UniversalDependencies/docs/issues/321) for more details. UD releases include some parallel treebanks but these are distributed separately by languages, hence sentence ids with slashes are not used.)
 * Comments used to specify the unannotated sentence as a single string (`text`) should also be formatted as below. If the original text is not available, the providers of the UD treebanks must approximate the `text` attribute using detokenization heuristics.
+  * If you provided the `Translit` attribute in MISC (see above), maybe you want to also provide the transliteration of the entire sentence as a sentence-level comment; use `# translit = ...`. In contrast to the `text` attribute, `translit` is optional.
 
 Example:
 
