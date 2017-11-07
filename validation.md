@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-07T13:07:38Z">2017-11-07T13:07:38 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-07T13:30:26Z">2017-11-07T13:30:26 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3050,35 +3050,35 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Romanian-Nonstandard</span>
 <span class="widespan">ro nonstandard</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T13:03:46Z">2017-11-07T13:03:46 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T13:30:24Z">2017-11-07T13:30:24 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang ro_nonstandard UD-dev-branches/UD_Romanian-Nonstandard/ro_nonstandard-ud-test.conllu
 
-[Line                   364]: Unknown attribute-value pair PronType=Refl
 [Line                   384]: Unknown UPOS tag: _
 [Line                   384]: Invalid UPOSTAG value _
 [Line                   385]: Unknown UPOS tag: _
 [Line                   385]: Invalid UPOSTAG value _
-[Line                   441]: Unknown attribute-value pair PronType=Refl
-[Line                   446]: Unknown attribute-value pair PronType=Refl
 [Line                   467]: Unknown UPOS tag: _
 [Line                   467]: Invalid UPOSTAG value _
 [Line                   472]: Unknown attribute-value pair PartType=Sub
-[Line                   491]: Unknown attribute-value pair PronType=Refl
-[Line                   510]: Unknown attribute-value pair Mood=Inf
-[Line                   514]: Unknown attribute-value pair PronType=Poss
-[Line                   522]: Unknown attribute-value pair PronType=Refl
-[Line                   523]: Unknown attribute-value pair Mood=Inf
-[Line                   535]: Unknown attribute-value pair Mood=Inf
-[Line                   541]: Unknown attribute-value pair Mood=Inf
-[Line                   549]: Unknown attribute-value pair Mood=Inf
-[Line                   552]: Unknown attribute-value pair PronType=Poss
-...suppressing further errors regarding Morpho
+[Line                   565]: Unknown attribute-value pair PartType=Sub
+[Line                   612]: Unknown attribute-value pair WordForm=Compound
+[Line                   623]: Unknown UPOS tag: _
+[Line                   623]: Invalid UPOSTAG value _
+[Line                   709]: Unknown attribute-value pair WordForm=Compound
+[Line                   763]: Unknown attribute-value pair PartType=Sub
+[Line                   764]: Unknown UPOS tag: _
+[Line                   764]: Invalid UPOSTAG value _
+[Line                   805]: Unknown attribute-value pair PartType=Sub
 [Tree number 38 on line 834]: Mismatch between the text attribute and the FORM field. Form is 'iisrailteanii' but text is 'israilteanii....'
 [Tree number 38 on line 834]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'israilteanii....'
 [Line                   867]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'israilteanii.'
+[Line                   920]: Unknown attribute-value pair WordForm=Compound
+[Line                   930]: Unknown attribute-value pair PartType=Sub
+[Line                   934]: Unknown attribute-value pair PartType=Sub
+...suppressing further errors regarding Morpho
 [Tree number 59 on line 1436]: Mismatch between the text attribute and the FORM field. Form is 'pocăinţei' but text is 'pocăinței....'
 [Tree number 59 on line 1436]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'pocăinței....'
 [Line                   1439]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'pocăinței.'
@@ -3099,10 +3099,10 @@ python tools/validate.py --lang ro_nonstandard UD-dev-branches/UD_Romanian-Nonst
 [Line                   16065]: 'de la' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
 [Tree number 1068 on line 22671]: Multiple root words: [2, 12]
 [Tree number 1137 on line 24093]: Multiple root words: [4, 6]
-*** FAILED *** with 2592 errors
+*** FAILED *** with 1184 errors
 Format errors: 1
 Metadata errors: 527
-Morpho errors: 2062
+Morpho errors: 654
 Syntax errors: 2
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/tokens_w_space.ro_nonstandard does not exist.
 
