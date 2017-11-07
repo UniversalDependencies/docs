@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-07T12:35:35Z">2017-11-07T12:35:35 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-07T12:39:03Z">2017-11-07T12:39:03 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3043,7 +3043,7 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Romanian-Nonstandard</span>
 <span class="widespan">ro nonstandard</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T12:35:34Z">2017-11-07T12:35:34 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T12:39:01Z">2017-11-07T12:39:01 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3076,18 +3076,18 @@ python tools/validate.py --lang ro_nonstandard UD-dev-branches/UD_Romanian-Nonst
 [Line                   385]: Invalid UPOSTAG value _
 [Line                   441]: Unknown attribute-value pair PronType=Refl
 [Line                   446]: Unknown attribute-value pair PronType=Refl
-[Line                   462]: Morphological features must be sorted: 'Polarity=Pos|VerbForm=Ger|VerbForm=Fin'
-[Line                   462]: Repeated features are disallowed: Polarity=Pos|VerbForm=Ger|VerbForm=Fin
 [Line                   467]: Unknown UPOS tag: _
 [Line                   467]: Invalid UPOSTAG value _
 [Line                   472]: Unknown attribute-value pair PartType=Sub
-[Line                   483]: Morphological features must be sorted: 'Polarity=Pos|VerbForm=Ger|VerbForm=Fin'
-[Line                   483]: Repeated features are disallowed: Polarity=Pos|VerbForm=Ger|VerbForm=Fin
 [Line                   491]: Unknown attribute-value pair PronType=Refl
-[Line                   497]: Morphological features must be sorted: 'Polarity=Pos|VerbForm=Ger|VerbForm=Fin'
-[Line                   497]: Repeated features are disallowed: Polarity=Pos|VerbForm=Ger|VerbForm=Fin
 [Line                   510]: Unknown attribute-value pair Mood=Inf
 [Line                   514]: Unknown attribute-value pair PronType=Poss
+[Line                   522]: Unknown attribute-value pair PronType=Refl
+[Line                   523]: Unknown attribute-value pair Mood=Inf
+[Line                   535]: Unknown attribute-value pair Mood=Inf
+[Line                   541]: Unknown attribute-value pair Mood=Inf
+[Line                   549]: Unknown attribute-value pair Mood=Inf
+[Line                   552]: Unknown attribute-value pair PronType=Poss
 ...suppressing further errors regarding Morpho
 [Line                   5998]: DEPREL can only be "root" if HEAD is 0
 [Line                   6604]: DEPREL can only be "root" if HEAD is 0
@@ -3096,10 +3096,10 @@ python tools/validate.py --lang ro_nonstandard UD-dev-branches/UD_Romanian-Nonst
 [Tree number 1068 on line 22659]: Multiple root words: [2, 12]
 [Tree number 1137 on line 24081]: Multiple root words: [4, 6]
 [Line                   25469]: Missing empty line after the last tree.
-*** FAILED *** with 6890 errors
+*** FAILED *** with 6426 errors
 Format errors: 3
 Metadata errors: 4357
-Morpho errors: 2526
+Morpho errors: 2062
 Syntax errors: 4
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/tokens_w_space.ro_nonstandard does not exist.
 
