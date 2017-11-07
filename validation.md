@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-07T15:25:31Z">2017-11-07T15:25:31 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-07T15:26:52Z">2017-11-07T15:26:52 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3050,7 +3050,7 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Romanian-Nonstandard</span>
 <span class="widespan">ro nonstandard</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T15:25:29Z">2017-11-07T15:25:29 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T15:26:50Z">2017-11-07T15:26:50 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3084,7 +3084,6 @@ python tools/validate.py --lang ro_nonstandard UD-dev-branches/UD_Romanian-Nonst
 [Line                   18478]: Unknown attribute-value pair NumType=Col
 [Line                   20054]: Unknown UPOS tag: _
 [Line                   20054]: Invalid UPOSTAG value _
-[Line                   21965]: Morphological features must be sorted: 'Case=Dat,Gen|Number=Plur|Person=2|PronType=Prs|Polite=Yes'
 [Line                   21965]: Unknown attribute-value pair Polite=Yes
 [Line                   25093]: Unknown UPOS tag: _
 [Line                   25093]: Invalid UPOSTAG value _
@@ -3094,9 +3093,9 @@ python tools/validate.py --lang ro_nonstandard UD-dev-branches/UD_Romanian-Nonst
 [Line                   25158]: Invalid UPOSTAG value _
 [Line                   25313]: Unknown UPOS tag: _
 [Line                   25313]: Invalid UPOSTAG value _
-*** FAILED *** with 522 errors
+*** FAILED *** with 521 errors
 Metadata errors: 504
-Morpho errors: 18
+Morpho errors: 17
 
 
 ******************
