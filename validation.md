@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-07T15:26:52Z">2017-11-07T15:26:52 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-07T15:30:26Z">2017-11-07T15:30:26 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3050,7 +3050,7 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Romanian-Nonstandard</span>
 <span class="widespan">ro nonstandard</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T15:26:50Z">2017-11-07T15:26:50 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T15:30:24Z">2017-11-07T15:30:24 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3077,25 +3077,12 @@ python tools/validate.py --lang ro_nonstandard UD-dev-branches/UD_Romanian-Nonst
 [Tree number 125 on line 2782]: Mismatch between the text attribute and the FORM field. Form is 'Săvîrşirea' but text is 'Săvârșirea....'
 ...suppressing further errors regarding Metadata
 [Line                   7623]: Unknown attribute-value pair NumType=Col
-[Line                   12150]: Unknown UPOS tag: _
-[Line                   12150]: Invalid UPOSTAG value _
 [Line                   12560]: Unknown attribute-value pair NumType=Col
 [Line                   14707]: Unknown attribute-value pair NumType=Col
 [Line                   18478]: Unknown attribute-value pair NumType=Col
-[Line                   20054]: Unknown UPOS tag: _
-[Line                   20054]: Invalid UPOSTAG value _
-[Line                   21965]: Unknown attribute-value pair Polite=Yes
-[Line                   25093]: Unknown UPOS tag: _
-[Line                   25093]: Invalid UPOSTAG value _
-[Line                   25100]: Unknown UPOS tag: _
-[Line                   25100]: Invalid UPOSTAG value _
-[Line                   25158]: Unknown UPOS tag: _
-[Line                   25158]: Invalid UPOSTAG value _
-[Line                   25313]: Unknown UPOS tag: _
-[Line                   25313]: Invalid UPOSTAG value _
-*** FAILED *** with 521 errors
+*** FAILED *** with 508 errors
 Metadata errors: 504
-Morpho errors: 17
+Morpho errors: 4
 
 
 ******************
