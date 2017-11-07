@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-07T11:33:41Z">2017-11-07T11:33:41 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-07T12:12:22Z">2017-11-07T12:12:22 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -536,7 +536,7 @@ python tools/validate.py --lang zh_cfl UD-dev-branches/UD_Chinese-CFL/zh_cfl-ud-
 <span class="doublewidespan" style="padding-left:3em">UD Chinese-HK</span>
 <span class="widespan">zh hk</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T13:44:40Z">2017-11-03T13:44:40 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T12:12:22Z">2017-11-07T12:12:22 zulu</time></span>
 </div>
 <div>
 <pre>
