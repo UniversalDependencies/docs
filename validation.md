@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-07T12:57:08Z">2017-11-07T12:57:08 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-07T13:00:24Z">2017-11-07T13:00:24 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3043,7 +3043,7 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Romanian-Nonstandard</span>
 <span class="widespan">ro nonstandard</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T12:57:06Z">2017-11-07T12:57:06 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T13:00:21Z">2017-11-07T13:00:21 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3089,12 +3089,12 @@ python tools/validate.py --lang ro_nonstandard UD-dev-branches/UD_Romanian-Nonst
 [Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is 'pre' but text is '-i de carea e zis pre I...'
 [Tree number 64 on line 1498]: Mismatch between the text attribute and the FORM field. Form is 'Isaiia' but text is '-i de carea e zis pre Isai...'
 ...suppressing further errors regarding Metadata
-[Line                   16066]: 'de la' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Tree number 1068 on line 22672]: Multiple root words: [2, 12]
-[Tree number 1137 on line 24094]: Multiple root words: [4, 6]
-*** FAILED *** with 2599 errors
+[Line                   16065]: 'de la' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
+[Tree number 1068 on line 22671]: Multiple root words: [2, 12]
+[Tree number 1137 on line 24093]: Multiple root words: [4, 6]
+*** FAILED *** with 2598 errors
 Format errors: 1
-Metadata errors: 534
+Metadata errors: 533
 Morpho errors: 2062
 Syntax errors: 2
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/tokens_w_space.ro_nonstandard does not exist.
