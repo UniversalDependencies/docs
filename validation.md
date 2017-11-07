@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-07T15:13:50Z">2017-11-07T15:13:50 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-07T15:16:23Z">2017-11-07T15:16:23 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3050,11 +3050,11 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Romanian-Nonstandard</span>
 <span class="widespan">ro nonstandard</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T15:13:48Z">2017-11-07T15:13:48 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T15:16:21Z">2017-11-07T15:16:21 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang ro_nonstandard UD-dev-branches/UD_Romanian-Nonstandard/ro_nonstandard-ud-test.conllu
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ro_nonstandard /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Romanian-Nonstandard/ro_nonstandard-ud-test.conllu
 
 [Line                   867]: SpaceAfter=No is missing in the MISC field of node #32 because the text is 'israilteanii.'
 [Tree number 59 on line 1436]: Mismatch between the text attribute and the FORM field. Form is 'pocăinţei' but text is 'pocăinței....'
