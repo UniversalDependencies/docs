@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-07T12:45:13Z">2017-11-07T12:45:13 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-07T12:45:29Z">2017-11-07T12:45:29 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3043,7 +3043,7 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Romanian-Nonstandard</span>
 <span class="widespan">ro nonstandard</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T12:39:01Z">2017-11-07T12:39:01 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T12:45:27Z">2017-11-07T12:45:27 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3089,18 +3089,14 @@ python tools/validate.py --lang ro_nonstandard UD-dev-branches/UD_Romanian-Nonst
 [Line                   549]: Unknown attribute-value pair Mood=Inf
 [Line                   552]: Unknown attribute-value pair PronType=Poss
 ...suppressing further errors regarding Morpho
-[Line                   5998]: DEPREL can only be "root" if HEAD is 0
-[Line                   6604]: DEPREL can only be "root" if HEAD is 0
-[Line                   12907]: The line has 20 columns, but 10 are expected.
 [Line                   16055]: 'de la' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
 [Tree number 1068 on line 22659]: Multiple root words: [2, 12]
 [Tree number 1137 on line 24081]: Multiple root words: [4, 6]
-[Line                   25469]: Missing empty line after the last tree.
-*** FAILED *** with 6426 errors
-Format errors: 3
+*** FAILED *** with 6422 errors
+Format errors: 1
 Metadata errors: 4357
 Morpho errors: 2062
-Syntax errors: 4
+Syntax errors: 2
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/tokens_w_space.ro_nonstandard does not exist.
 
 
