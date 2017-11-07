@@ -13,11 +13,6 @@ udver: '2'
   * Abbreviations are treated as single words and may contain punctuation or whitespace: *t.ex.*, *bl a*.
 * Multiword tokens are not used in Swedish.
 
----
-**Instruction**: Describe the general rules for delimiting words (for example, based on whitespace and punctuation) and exceptions to these rules. Specify whether words with spaces and/or multiword tokens occur. Include links to further language-specific documentation if available.
-
----
-
 ## Morphology
 
 ### Tags
@@ -34,11 +29,6 @@ udver: '2'
 
 For more information, see the list of [Swedish POS tags](../pos/index.html).
 
----
-**Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
-
----
-
 ### Features
 
 * Nouns have inherent [Gender]() and inflect for [Number]() (singular or plural), [Definite]() (indefinite or definite) and [Case]() (nominative or genitive).
@@ -49,11 +39,6 @@ For more information, see the list of [Swedish POS tags](../pos/index.html).
 * Determiners agree with nouns in the same way as adjectives.
 
 For more information, see the list of [Swedish features](../feat/index.html).
-
----
-**Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
----
 
 ## Syntax
 
@@ -80,22 +65,12 @@ For more information, see the list of [Swedish features](../feat/index.html).
 
 For more information, see the list of [Swedish relations](../dep/index.html).
 
----
-**Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.
-
----
-
 ## Treebanks
 
 There are three Swedish UD treebanks:
 
-  * Swedish
-  * Swedish-LinES
-  * Swedish-PUD
-
----
-**Where do we link to for the treebanks?**
-
----
+  * |Swedish-TP](http://universaldependencies.org/treebanks/sv/index.html)
+  * [Swedish-LinES](http://universaldependencies.org/treebanks/sv_lines/index.html)
+  * [Swedish-PUD](http://universaldependencies.org/treebanks/sv_pud/index.html)
 
 
