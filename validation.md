@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-07T15:19:58Z">2017-11-07T15:19:58 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-07T15:21:55Z">2017-11-07T15:21:55 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3050,7 +3050,7 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Romanian-Nonstandard</span>
 <span class="widespan">ro nonstandard</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T15:18:56Z">2017-11-07T15:18:56 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T15:21:53Z">2017-11-07T15:21:53 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3078,27 +3078,27 @@ python tools/validate.py --lang ro_nonstandard UD-dev-branches/UD_Romanian-Nonst
 [Line                   2778]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'pizmașilor.'
 [Tree number 125 on line 2782]: Mismatch between the text attribute and the FORM field. Form is 'Săvîrşirea' but text is 'Săvârșirea....'
 ...suppressing further errors regarding Metadata
-[Line                   2961]: Unknown attribute-value pair Mood=Inf
-[Line                   3332]: Morphological features must be sorted: 'Case=Acc,Nom||Number=Sing|Person=3|PronType=Ind'
-[Line                   3332]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   3523]: Morphological features must be sorted: 'Case=Acc,Nom||Number=Sing|Person=3|PronType=Ind'
-[Line                   3523]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   3575]: Morphological features must be sorted: 'Case=Acc,Nom||Gender=Masc|Number=Sing|Person=3|PronType=Ind'
-[Line                   3575]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   3620]: Morphological features must be sorted: 'Case=Acc,Nom||Gender=Masc|Number=Sing|Person=3|PronType=Ind'
-[Line                   3620]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   3643]: Morphological features must be sorted: 'Case=Acc,Nom||Number=Sing|Person=3|PronType=Ind'
-[Line                   3643]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   3873]: Morphological features must be sorted: 'Case=Acc,Nom||Gender=Masc|Number=Sing|Person=3|PronType=Ind'
-[Line                   3873]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   3919]: Morphological features must be sorted: 'Case=Acc,Nom||Gender=Masc|Number=Sing|Person=3|PronType=Ind'
-[Line                   3919]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   4451]: Unknown attribute-value pair Mood=Inf
-[Line                   4895]: Morphological features must be sorted: 'Case=Acc,Nom||Gender=Masc|Number=Sing|Person=3|PronType=Ind'
+[Line                   7623]: Unknown attribute-value pair NumType=Col
+[Line                   12150]: Unknown UPOS tag: _
+[Line                   12150]: Invalid UPOSTAG value _
+[Line                   12560]: Unknown attribute-value pair NumType=Col
+[Line                   14707]: Unknown attribute-value pair NumType=Col
+[Line                   14833]: Morphological features must be sorted: 'Gender=Fem|Number=Plur|VerbForm=Part|Polarity=Neg|VerbForm=Fin'
+[Line                   14833]: Repeated features are disallowed: Gender=Fem|Number=Plur|VerbForm=Part|Polarity=Neg|VerbForm=Fin
+[Line                   17625]: Morphological features must be sorted: 'Gender=Fem|Number=Plur|VerbForm=Part|Polarity=Neg|VerbForm=Fin'
+[Line                   17625]: Repeated features are disallowed: Gender=Fem|Number=Plur|VerbForm=Part|Polarity=Neg|VerbForm=Fin
+[Line                   18478]: Unknown attribute-value pair NumType=Col
+[Line                   20054]: Unknown UPOS tag: _
+[Line                   20054]: Invalid UPOSTAG value _
+[Line                   21965]: Morphological features must be sorted: 'Case=Dat,Gen|Number=Plur|Person=2|PronType=Prs|Polit=Yes'
+[Line                   21965]: Unknown attribute-value pair Polit=Yes
+[Line                   25093]: Unknown UPOS tag: _
+[Line                   25093]: Invalid UPOSTAG value _
+[Line                   25100]: Unknown UPOS tag: _
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 668 errors
+*** FAILED *** with 528 errors
 Metadata errors: 504
-Morpho errors: 164
+Morpho errors: 24
 
 
 ******************
