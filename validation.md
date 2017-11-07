@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-07T13:01:24Z">2017-11-07T13:01:24 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-07T13:03:48Z">2017-11-07T13:03:48 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3043,7 +3043,7 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Romanian-Nonstandard</span>
 <span class="widespan">ro nonstandard</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T13:01:22Z">2017-11-07T13:01:22 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T13:03:46Z">2017-11-07T13:03:46 zulu</time></span>
 </div>
 <div>
 <pre>
