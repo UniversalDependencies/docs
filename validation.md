@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-07T15:16:23Z">2017-11-07T15:16:23 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-07T15:18:58Z">2017-11-07T15:18:58 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3050,11 +3050,11 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Romanian-Nonstandard</span>
 <span class="widespan">ro nonstandard</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T15:16:21Z">2017-11-07T15:16:21 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T15:18:56Z">2017-11-07T15:18:56 zulu</time></span>
 </div>
 <div>
 <pre>
-python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ro_nonstandard /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Romanian-Nonstandard/ro_nonstandard-ud-test.conllu
+python tools/validate.py --lang ro_nonstandard UD-dev-branches/UD_Romanian-Nonstandard/ro_nonstandard-ud-test.conllu
 
 [Line                   867]: SpaceAfter=No is missing in the MISC field of node #32 because the text is 'israilteanii.'
 [Tree number 59 on line 1436]: Mismatch between the text attribute and the FORM field. Form is 'pocăinţei' but text is 'pocăinței....'
@@ -3064,8 +3064,6 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ro_nonstandard /home/gi
 [Line                   1524]: SpaceAfter=No is missing in the MISC field of node #16 because the text is 'pustie: gătiţi calea[...]'
 [Line                   1524]: SpaceAfter=No is missing in the MISC field of node #20 because the text is 'Domului, dereapte fa[...]'
 [Line                   1524]: SpaceAfter=No is missing in the MISC field of node #25 because the text is 'lui.'
-[Line                   1640]: If an attribute has multiple values, these must be sorted as well: 'VerbForm=Long,Fin'
-[Line                   1640]: Unknown attribute-value pair VerbForm=Long
 [Line                   1776]: Morphological features must be sorted: 'Gender=Masc|Number=Sing|VerbForm=Part|Polarity=Neg|VerbForm=Fin'
 [Line                   1776]: Repeated features are disallowed: Gender=Masc|Number=Sing|VerbForm=Part|Polarity=Neg|VerbForm=Fin
 [Tree number 112 on line 2674]: Mismatch between the text attribute and the FORM field. Form is 'fericiţi' but text is 'fericiți....'
@@ -3091,14 +3089,16 @@ python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ro_nonstandard /home/gi
 [Line                   3620]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
 [Line                   3643]: Morphological features must be sorted: 'Case=Acc,Nom||Number=Sing|Person=3|PronType=Ind'
 [Line                   3643]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   3730]: If an attribute has multiple values, these must be sorted as well: 'VerbForm=Long,Fin'
-[Line                   3730]: Unknown attribute-value pair VerbForm=Long
-[Line                   3863]: If an attribute has multiple values, these must be sorted as well: 'VerbForm=Long,Fin'
-[Line                   3863]: Unknown attribute-value pair VerbForm=Long
+[Line                   3873]: Morphological features must be sorted: 'Case=Acc,Nom||Gender=Masc|Number=Sing|Person=3|PronType=Ind'
+[Line                   3873]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   3919]: Morphological features must be sorted: 'Case=Acc,Nom||Gender=Masc|Number=Sing|Person=3|PronType=Ind'
+[Line                   3919]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   4451]: Unknown attribute-value pair Mood=Inf
+[Line                   4895]: Morphological features must be sorted: 'Case=Acc,Nom||Gender=Masc|Number=Sing|Person=3|PronType=Ind'
 ...suppressing further errors regarding Morpho
-*** FAILED *** with 704 errors
+*** FAILED *** with 668 errors
 Metadata errors: 504
-Morpho errors: 200
+Morpho errors: 164
 
 
 ******************
