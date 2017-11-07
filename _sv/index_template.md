@@ -89,9 +89,9 @@ For more information, see the list of [Swedish relations](../dep/index.html).
 
 There are three Swedish UD treebanks:
 
-  * Swedish
-  * Swedish-LinES
-  * Swedish-PUD
+  * |Swedish-TP](http://universaldependencies.org/treebanks/sv/index.html)
+  * [Swedish-LinES](http://universaldependencies.org/treebanks/sv_lines/index.html)
+  * [Swedish-PUD](http://universaldependencies.org/treebanks/sv_pud/index.html)
 
 ---
 **Instruction**: List the available treebanks and link to their hub pages.
