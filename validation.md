@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-07T06:07:32Z">2017-11-07T06:07:32 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-07T07:48:41Z">2017-11-07T07:48:41 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3043,110 +3043,97 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Romanian-Nonstandard</span>
 <span class="widespan">ro nonstandard</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-05T23:00:27Z">2017-11-05T23:00:27 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T07:48:39Z">2017-11-07T07:48:39 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang ro_nonstandard UD-dev-branches/UD_Romanian-Nonstandard/ro_nonstandard-ud-test.conlluTraceback (most recent call last):
   File "tools/validate.py", line 735, in &lt;module&gt;
     validate(inp,out,args,tagsets,known_sent_ids)
-  File "tools/validate.py", line 613, in validate
-    for comments,tree in trees(inp,tag_sets,args):
-  File "tools/validate.py", line 96, in trees
-    validate_cols(cols,tag_sets,args)
-  File "tools/validate.py", line 211, in validate_cols
-    validate_character_constraints(cols)
-  File "tools/validate.py", line 382, in validate_character_constraints
-    if any(deprel for head, deprel in deps_list(cols)
-TypeError: 'NoneType' object is not iterable
+  File "tools/validate.py", line 625, in validate
+    validate_text_meta(comments,tree)
+  File "tools/validate.py", line 165, in validate_text_meta
+    if u"NoSpaceAfter=Yes" in cols[MISC]:
+IndexError: list index out of range
 
 
 
-[Line                   7]: Morphological features must be sorted: 'Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Fem|'
-[Line                   7]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   10]: Missing the sent_id attribute.
-[Line                   10]: Missing the text attribute.
-[Line                   21]: Morphological features must be sorted: 'Gender=Masc|Number=Sing|Mood=Part|Polarity=Pos|VerbForm=Fin'
-[Line                   21]: Unknown attribute-value pair Mood=Part
-[Line                   25]: Missing the sent_id attribute.
-[Line                   25]: Missing the text attribute.
-[Line                   42]: Missing the sent_id attribute.
-[Line                   42]: Missing the text attribute.
-[Line                   63]: Unknown UPOS tag: _
-[Line                   63]: Invalid UPOSTAG value _
-[Line                   65]: Missing the sent_id attribute.
-[Line                   65]: Missing the text attribute.
-[Line                   74]: Unknown attribute-value pair Compound=Yes
-[Line                   88]: Missing the sent_id attribute.
-[Line                   88]: Missing the text attribute.
-[Line                   106]: Missing the sent_id attribute.
-[Line                   106]: Missing the text attribute.
-[Line                   112]: Unknown attribute-value pair Compound=Yes
-[Line                   120]: Unknown attribute-value pair Compound=Yes
-[Line                   128]: Missing the sent_id attribute.
-[Line                   128]: Missing the text attribute.
-[Line                   143]: Unknown attribute-value pair Compound=Yes
-[Line                   147]: Unknown attribute-value pair Mood=Part
-[Line                   148]: Morphological features must be sorted: 'Case=Acc,Nom|Gender=Fem|Number=Plur|Poss=Yes|'
-[Line                   148]: Spurious morphological feature: ''. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   151]: Missing the sent_id attribute.
-[Line                   151]: Missing the text attribute.
-[Line                   169]: Missing the sent_id attribute.
-[Line                   169]: Missing the text attribute.
-[Line                   187]: Missing the sent_id attribute.
+[Line                   12]: Spurious sent_id line: '# sent_id = test-1  ' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   12]: Missing the sent_id attribute.
+[Line                   12]: The text attribute must not end with a whitespace
+[Line                   12]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'EVANGHELIE.						'
+[Line                   25]: Morphological features must be sorted: 'Gender=Masc|Number=Sing|Mood=Part|Polarity=Pos|VerbForm=Fin'
+[Line                   25]: Unknown attribute-value pair Mood=Part
+[Line                   29]: Spurious sent_id line: '# sent_id = test-2 ' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   29]: Missing the sent_id attribute.
+[Line                   29]: The text attribute must not end with a whitespace
+[Line                   29]: SpaceAfter=No is missing in the MISC field of node #12 because the text is 'părinţilor.									'
+[Line                   48]: Spurious sent_id line: '# sent_id = test-3 ' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   48]: Missing the sent_id attribute.
+[Line                   48]: The text attribute must not end with a whitespace
+[Line                   48]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'Hristos, fiiul lui D[...]'
+[Line                   48]: SpaceAfter=No is missing in the MISC field of node #10 because the text is 'David, fiiul lui Avr[...]'
+[Line                   48]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'Avraam.												'
+[Line                   73]: Spurious sent_id line: '# sent_id = test-4 ' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   73]: Missing the sent_id attribute.
+[Line                   73]: The text attribute must not end with a whitespace
+[Line                   73]: SpaceAfter=No is missing in the MISC field of node #4 because the text is 'Isaac, iară Isaac nă[...]'
+[Line                   73]: SpaceAfter=No is missing in the MISC field of node #10 because the text is 'Iacov, iară Iacov nă[...]'
 ...suppressing further errors regarding Metadata
-[Line                   241]: Unknown attribute-value pair Compound=Yes
-[Line                   322]: Unknown attribute-value pair Compound=Yes
-[Line                   328]: Unknown attribute-value pair PronType=Refl
-[Line                   335]: The line has 11 columns, but 10 are expected.
-[Line                   335]: Empty value in column HEAD
-[Line                   335]: Invalid DEPREL value 5
-[Line                   335]: Failed for parse DEPS: discourse
-[Line                   335]: Unknown UD DEPREL: 5
-[Line                   335]: Malformed head:deprel pair 'discourse'
-[Line                   346]: Unknown UPOS tag: _
-[Line                   346]: Invalid UPOSTAG value _
-[Line                   347]: Unknown UPOS tag: _
+[Line                   84]: Unknown attribute-value pair Compound=Yes
+[Line                   126]: Unknown attribute-value pair Compound=Yes
+[Line                   134]: Unknown attribute-value pair Compound=Yes
+[Line                   159]: Unknown attribute-value pair Compound=Yes
+[Line                   163]: Unknown attribute-value pair Mood=Part
+[Line                   169]: Spurious line: '@ citation-part=MATT 1.7'. All non-empty lines should start with a digit or the # character.
+[Line                   269]: Unknown attribute-value pair Compound=Yes
+[Line                   358]: Unknown attribute-value pair Compound=Yes
+[Line                   364]: Unknown attribute-value pair PronType=Refl
+[Line                   384]: Unknown UPOS tag: _
+[Line                   384]: Invalid UPOSTAG value _
+[Line                   385]: Unknown UPOS tag: _
+[Line                   385]: Invalid UPOSTAG value _
+[Line                   405]: Unknown attribute-value pair Compound=Yes
+[Line                   407]: Unknown attribute-value pair Compound=Yes
+[Line                   429]: Unknown attribute-value pair Mood=Ger
+[Line                   430]: Morphological features must be sorted: 'Case=Acc,Nom|Gender=Fem|Number=Sing|Mood=Part|Polarity=Pos|VerbForm=Fin'
+[Line                   430]: Unknown attribute-value pair Mood=Part
 ...suppressing further errors regarding Morpho
-[Line                   349]: Undefined ID in HEAD: 
-[Line                   349]: Failed for parse DEPS: discourse
-[Line                   349]: Failed to parse DEPS: discourse
-[Tree number 19 on line 334]: Non-integer head for word ID 2
-[Tree number 19 on line 334]: Non-tree structure. Words 1,2 are not reachable from the root 0.
-[Line                   369]: Trailing whitespace not allowed in column FORM
-[Line                   369]: 'pînă ' in column FORM is not on the list of exceptions allowed to contain whitespace (data/tokens_w_space.ud and data/tokens_w_space.LANG files).
-[Line                   416]: Trailing whitespace not allowed in column XPOSTAG
-[Line                   416]: White space not allowed in the XPOSTAG column: 'Pp3fso '
-[Line                   424]: Trailing whitespace not allowed in column XPOSTAG
-[Line                   424]: White space not allowed in the XPOSTAG column: 'Pp3fsa--------w '
-[Line                   429]: Trailing whitespace not allowed in column XPOSTAG
-[Line                   429]: White space not allowed in the XPOSTAG column: 'Pp3fsa--------w '
-[Line                   436]: The line has 11 columns, but 10 are expected.
-[Line                   436]: Empty value in column HEAD
-[Line                   436]: Invalid DEPREL value 11
-[Line                   436]: Failed for parse DEPS: cc
-[Line                   436]: Unknown UD DEPREL: 11
-[Line                   436]: Malformed head:deprel pair 'cc'
-[Line                   438]: Trailing whitespace not allowed in column XPOSTAG
-[Line                   438]: White space not allowed in the XPOSTAG column: 'Pp3msr '
-[Line                   444]: Trailing whitespace not allowed in column XPOSTAG
+[Line                   490]: Trailing whitespace not allowed in column XPOSTAG
+[Line                   490]: White space not allowed in the XPOSTAG column: 'Pp3-sd--------w '
+[Line                   520]: Trailing whitespace not allowed in column XPOSTAG
+[Line                   520]: White space not allowed in the XPOSTAG column: 'Pp3fsa--------s '
+[Line                   555]: White space not allowed in the FEATS column: 'Case=Dat, Gen|Number=Plur|Person=3|PronType=Prs'
+[Line                   621]: Trailing whitespace not allowed in column XPOSTAG
+[Line                   621]: White space not allowed in the XPOSTAG column: 'Pp3-sd--------w '
+[Line                   765]: Trailing whitespace not allowed in column XPOSTAG
+[Line                   765]: White space not allowed in the XPOSTAG column: 'Pp3msd--------s '
+[Line                   782]: Trailing whitespace not allowed in column XPOSTAG
+[Line                   782]: White space not allowed in the XPOSTAG column: 'Pp3msa--------s '
+[Line                   801]: Trailing whitespace not allowed in column XPOSTAG
+[Line                   801]: White space not allowed in the XPOSTAG column: 'Pp3mpa--------s '
+[Line                   885]: Trailing whitespace not allowed in column XPOSTAG
+[Line                   885]: White space not allowed in the XPOSTAG column: 'Pp3mpa--------s '
+[Line                   900]: Trailing whitespace not allowed in column XPOSTAG
+[Line                   900]: White space not allowed in the XPOSTAG column: 'Pp3mpa--------w '
+[Line                   903]: Trailing whitespace not allowed in column XPOSTAG
 ...suppressing further errors regarding Format
-[Line                   471]: Invalid DEPREL value 37
-[Line                   471]: Failed for parse DEPS: nsubj
-[Line                   471]: Unknown UD DEPREL: 37
-[Line                   471]: Malformed head:deprel pair 'nsubj'
-[Tree number 23 on line 436]: Non-tree structure. Words 1,36 are not reachable from the root 0.
-[Line                   518]: Invalid DEPREL value 9
-[Line                   518]: Failed for parse DEPS: obj
-[Line                   518]: Unknown UD DEPREL: 9
-[Line                   518]: Malformed head:deprel pair 'obj'
-[Tree number 25 on line 511]: Non-tree structure. Words 8 are not reachable from the root 0.
-...suppressing further errors regarding Syntax
-*** FAILED *** with 8162 errors
-Format errors: 2979
-Metadata errors: 1348
-Morpho errors: 2065
-Syntax errors: 1770
+[Line                   5986]: Invalid DEPREL value ROOT
+[Line                   5986]: Unknown UD DEPREL: ROOT
+[Line                   6599]: Invalid DEPREL value ROOT
+[Line                   6599]: Unknown UD DEPREL: ROOT
+[Line                   12931]: Loop from 9
+[Line                   12931]: Loop from 10
+[Line                   12931]: Loop from 11
+[Tree number 606 on line 12897]: Non-tree structure. Words 20,21,22,23,24,25,26,27,28,29,30 are not reachable from the root 0.
+[Line                   20220]: Invalid DEPREL value _
+[Line                   20220]: Unknown UD DEPREL: _
+[Tree number 960 on line 20220]: Non-tree structure. Words 1 are not reachable from the root 0.
+*** FAILED *** with 7881 errors
+Format errors: 942
+Metadata errors: 4390
+Morpho errors: 2538
+Syntax errors: 11
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/tokens_w_space.ro_nonstandard does not exist.
 
 
