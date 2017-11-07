@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-07T08:04:22Z">2017-11-07T08:04:22 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-07T08:11:56Z">2017-11-07T08:11:56 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3043,16 +3043,16 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Romanian-Nonstandard</span>
 <span class="widespan">ro nonstandard</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T08:04:21Z">2017-11-07T08:04:21 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T08:11:54Z">2017-11-07T08:11:54 zulu</time></span>
 </div>
 <div>
 <pre>
-python tools/validate.py --lang ro_nonstandard UD-dev-branches/UD_Romanian-Nonstandard/ro_nonstandard-ud-test.conlluTraceback (most recent call last):
-  File "tools/validate.py", line 735, in &lt;module&gt;
+python /home/ginter/UD_PROJHOOK/tools/validate.py --lang ro_nonstandard /home/ginter/UD_PROJHOOK/UD-dev-branches/UD_Romanian-Nonstandard/ro_nonstandard-ud-test.conlluTraceback (most recent call last):
+  File "/home/ginter/UD_PROJHOOK/tools/validate.py", line 735, in &lt;module&gt;
     validate(inp,out,args,tagsets,known_sent_ids)
-  File "tools/validate.py", line 625, in validate
+  File "/home/ginter/UD_PROJHOOK/tools/validate.py", line 625, in validate
     validate_text_meta(comments,tree)
-  File "tools/validate.py", line 165, in validate_text_meta
+  File "/home/ginter/UD_PROJHOOK/tools/validate.py", line 165, in validate_text_meta
     if u"NoSpaceAfter=Yes" in cols[MISC]:
 IndexError: list index out of range
 
@@ -3068,36 +3068,36 @@ IndexError: list index out of range
 [Line                   73]: SpaceAfter=No is missing in the MISC field of node #4 because the text is 'Isaac, iară Isaac nă[...]'
 [Line                   73]: SpaceAfter=No is missing in the MISC field of node #10 because the text is 'Iacov, iară Iacov nă[...]'
 [Line                   73]: SpaceAfter=No is missing in the MISC field of node #20 because the text is 'lui.'
-[Line                   84]: Unknown attribute-value pair Compound=Yes
 [Line                   98]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'Tamar, iară Fares nă[...]'
 [Line                   98]: SpaceAfter=No is missing in the MISC field of node #20 because the text is 'Aram.'
 [Line                   118]: The text attribute must not end with a whitespace
 [Line                   118]: SpaceAfter=No is missing in the MISC field of node #4 because the text is 'Aminadav, iară Amina[...]'
 [Line                   118]: SpaceAfter=No is missing in the MISC field of node #10 because the text is 'Nasson, Nasson născu[...]'
 [Line                   118]: SpaceAfter=No is missing in the MISC field of node #15 because the text is 'Salmon. '
-[Line                   126]: Unknown attribute-value pair Compound=Yes
-[Line                   134]: Unknown attribute-value pair Compound=Yes
 [Line                   142]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'Rahav, iară Vooz năs[...]'
 [Line                   142]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'Ruta, Ovid născu pre[...]'
 [Line                   142]: SpaceAfter=No is missing in the MISC field of node #19 because the text is 'Isei.'
-[Line                   159]: Unknown attribute-value pair Compound=Yes
 [Line                   163]: Unknown attribute-value pair Mood=Part
 [Line                   167]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'craiu, iară David cr[...]'
 [Line                   167]: SpaceAfter=No is missing in the MISC field of node #12 because the text is 'Solomon, den muiarea[...]'
 ...suppressing further errors regarding Metadata
 [Line                   169]: Spurious line: '@ citation-part=MATT 1.7'. All non-empty lines should start with a digit or the # character.
-[Line                   269]: Unknown attribute-value pair Compound=Yes
-[Line                   358]: Unknown attribute-value pair Compound=Yes
 [Line                   364]: Unknown attribute-value pair PronType=Refl
 [Line                   384]: Unknown UPOS tag: _
 [Line                   384]: Invalid UPOSTAG value _
 [Line                   385]: Unknown UPOS tag: _
 [Line                   385]: Invalid UPOSTAG value _
-[Line                   405]: Unknown attribute-value pair Compound=Yes
-[Line                   407]: Unknown attribute-value pair Compound=Yes
 [Line                   429]: Unknown attribute-value pair Mood=Ger
 [Line                   430]: Morphological features must be sorted: 'Case=Acc,Nom|Gender=Fem|Number=Sing|Mood=Part|Polarity=Pos|VerbForm=Fin'
 [Line                   430]: Unknown attribute-value pair Mood=Part
+[Line                   441]: Unknown attribute-value pair PronType=Refl
+[Line                   446]: Unknown attribute-value pair PronType=Refl
+[Line                   447]: Morphological features must be sorted: 'Case=Acc,Nom|Gender=Fem|Number=Sing|Mood=Part|Polarity=Pos|VerbForm=Fin'
+[Line                   447]: Unknown attribute-value pair Mood=Part
+[Line                   462]: Unknown attribute-value pair Mood=Ger
+[Line                   467]: Unknown UPOS tag: _
+[Line                   467]: Invalid UPOSTAG value _
+[Line                   472]: Unknown attribute-value pair PartType=Sub
 ...suppressing further errors regarding Morpho
 [Line                   2820]: Spurious line: '@ citation-part=MATT 5.3'. All non-empty lines should start with a digit or the # character.
 [Line                   5986]: Invalid DEPREL value ROOT
@@ -3124,10 +3124,10 @@ IndexError: list index out of range
 [Tree number 960 on line 20220]: Non-integer head for word ID 1
 [Tree number 960 on line 20220]: Non-tree structure. Words 1 are not reachable from the root 0.
 [Line                   20241]: Exception caught!
-*** FAILED *** with 5726 errors
+*** FAILED *** with 5480 errors
 Format errors: 15
 Metadata errors: 3209
-Morpho errors: 2491
+Morpho errors: 2245
 Syntax errors: 11
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/tokens_w_space.ro_nonstandard does not exist.
 
