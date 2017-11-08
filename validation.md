@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-08T14:50:45Z">2017-11-08T14:50:45 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-08T14:52:34Z">2017-11-08T14:52:34 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3049,35 +3049,14 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Romanian-Nonstandard</span>
 <span class="widespan">ro nonstandard</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-08T14:50:43Z">2017-11-08T14:50:43 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-08T14:52:32Z">2017-11-08T14:52:32 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang ro_nonstandard UD-dev-branches/UD_Romanian-Nonstandard/ro_nonstandard-ud-test.conllu
 
-[Line                   2755]: SpaceAfter=No is missing in the MISC field of node #2 because the text is 'mâinei.'
-[Line                   13697]: SpaceAfter=No is missing in the MISC field of node #2 because the text is 'apropiindu-să ucenic[...]'
-[Line                   13697]: SpaceAfter=No is missing in the MISC field of node #12 because the text is 'îngrupară, și venind[...]'
-[Line                   13697]: SpaceAfter=No is missing in the MISC field of node #15 because the text is 'venind, spusără lui [...]'
-[Line                   13697]: SpaceAfter=No is missing in the MISC field of node #19 because the text is 'Iisus.'
-[Line                   22351]: SpaceAfter=No is missing in the MISC field of node #16 because the text is 'plânge: „Așteaptă-mă[...]'
-[Line                   22351]: SpaceAfter=No is missing in the MISC field of node #18 because the text is '„Așteaptă-mă, frățio[...]'
-[Line                   22351]: SpaceAfter=No is missing in the MISC field of node #19 because the text is 'Așteaptă-mă, frățioa[...]'
-[Line                   22351]: SpaceAfter=No is missing in the MISC field of node #20 because the text is '-mă, frățioare, Să-m[...]'
-[Line                   22351]: SpaceAfter=No is missing in the MISC field of node #22 because the text is 'frățioare, Să-mi mai[...]'
-[Line                   22351]: SpaceAfter=No is missing in the MISC field of node #24 because the text is 'Să-mi mai crească ar[...]'
-[Line                   22351]: SpaceAfter=No is missing in the MISC field of node #28 because the text is 'aripioare!“'
-[Line                   22351]: SpaceAfter=No is missing in the MISC field of node #29 because the text is '!“'
-[Line                   22379]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'răspundeau: „Noi de [...]'
-[Line                   22379]: SpaceAfter=No is missing in the MISC field of node #10 because the text is '„Noi de masă-ți mulț[...]'
-[Line                   22379]: SpaceAfter=No is missing in the MISC field of node #13 because the text is 'masă-ți mulțumim, Că[...]'
-[Line                   22379]: SpaceAfter=No is missing in the MISC field of node #15 because the text is 'mulțumim, Că n-am ve[...]'
-[Line                   22379]: SpaceAfter=No is missing in the MISC field of node #18 because the text is 'n-am venit să prânzim“.'
-[Line                   22379]: SpaceAfter=No is missing in the MISC field of node #22 because the text is 'prânzim“.'
-...suppressing further errors regarding Metadata
-*** FAILED *** with 24 errors
-Metadata errors: 24
+*** PASSED ***
 
 
 ******************
