@@ -62,6 +62,7 @@ must be provided in a fixed pre-defined way.
 
 MarkDown source files usually have the `.md` extension (`README.md`); but for historical reasons,
 it is also possible to name the file `README.txt`.
+Only one of these files must be present, it is not permitted to have both `README.md` and `README.txt`!
 
 The `README` file should minimally contain the following information:
 
