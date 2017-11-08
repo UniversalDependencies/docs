@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-08T15:51:01Z">2017-11-08T15:51:01 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-08T16:12:24Z">2017-11-08T16:12:24 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3560,8 +3560,8 @@ python tools/validate.py --lang ta UD-dev-branches/UD_Tamil/ta-ud-train.conllu
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Telugu</span>
 <span class="widespan">te</span>
-<span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T20:02:30Z">2017-11-07T20:02:30 zulu</time></span>
+<span class="validationpass">PASS</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-08T16:12:23Z">2017-11-08T16:12:23 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3581,11 +3581,7 @@ python tools/validate.py --lang te UD-dev-branches/UD_Telugu/te-ud-test.conllu
 
 python tools/validate.py --lang te UD-dev-branches/UD_Telugu/te-ud-train.conllu
 
-[Tree number 120 on line 1075]: Mismatch between the text attribute and the FORM field. Form is 'ekkuwa' but text is 'ఎక్కువ ....'
-[Tree number 120 on line 1075]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'ఎక్కువ ....'
-[Line                   1079]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'ఎక్కువ .'
-*** FAILED *** with 3 errors
-Metadata errors: 3
+*** PASSED ***
 
 
 ******************
