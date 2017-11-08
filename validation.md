@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-08T16:12:24Z">2017-11-08T16:12:24 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-08T16:49:08Z">2017-11-08T16:49:08 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1154,7 +1154,7 @@ python tools/validate.py --lang en_partut UD-dev-branches/UD_English-ParTUT/en_p
 <span class="doublewidespan" style="padding-left:3em">UD Erzya</span>
 <span class="widespan">myv</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-06T09:20:24Z">2017-11-06T09:20:24 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-08T16:49:08Z">2017-11-08T16:49:08 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1255,6 +1255,152 @@ Metadata errors: 529
 Morpho errors: 3528
 Syntax errors: 129
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.myv does not exist.
+
+
+******************
+
+python tools/validate.py --lang myv UD-dev-branches/UD_Erzya/myv_BryzhinskijMixail_Kirdazht_manu_Pers_Chap-01.conlluTraceback (most recent call last):
+  File "tools/validate.py", line 735, in &lt;module&gt;
+    validate(inp,out,args,tagsets,known_sent_ids)
+  File "tools/validate.py", line 625, in validate
+    validate_text_meta(comments,tree)
+  File "tools/validate.py", line 165, in validate_text_meta
+    if u"NoSpaceAfter=Yes" in cols[MISC]:
+IndexError: list index out of range
+
+
+
+[Line                   33]: Morphological features must be sorted: 'Sem/Ant_Mal|Number=Sing,Plur|Case=Gen|Definite=Ind'
+[Line                   33]: Spurious morphological feature: 'Sem/Ant_Mal'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   33]: If an attribute has multiple values, these must be sorted as well: 'Number=Sing,Plur'
+[Line                   34]: Morphological features must be sorted: 'Valency=2|Mood=Ind|Tense=Prt1|Number[subj]=Plur|Person[subj]=3|Number[obj]=Sing|Person[obj]=3'
+[Line                   34]: Unknown attribute-value pair Valency=2
+[Line                   34]: Unknown attribute-value pair Tense=Prt1
+[Line                   34]: Unknown attribute-value pair Number[subj]=Plur
+[Line                   34]: Unknown attribute-value pair Person[subj]=3
+[Line                   34]: Unknown attribute-value pair Number[obj]=Sing
+[Line                   34]: Unknown attribute-value pair Person[obj]=3
+[Line                   35]: The line has 9 columns, but 10 are expected.
+[Line                   35]: Morphological features must be sorted: 'Valency=2|Derivation=NomAg|Number=Sing|Case=Nom|Definite=Ind'
+[Line                   35]: Unknown attribute-value pair Valency=2
+[Line                   35]: Unknown attribute-value pair Derivation=NomAg
+[Line                   35]: Failed for parse DEPS: налкставтыця
+[Line                   35]: Malformed head:deprel pair 'налкставтыця'
+[Line                   36]: Morphological features must be sorted: 'Sem/Ani|Number=Plur|Case=Nom|Definite=Ind'
+[Line                   36]: Spurious morphological feature: 'Sem/Ani'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   37]: Spurious morphological feature: 'CLB'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   38]: Failed for parse DEPS: налкставтыця
+[Line                   38]: Failed to parse DEPS: налкставтыця
+[Line                   38]: Spurious sent_id line: '#sent_id = chapID1:paragID1:sentID1' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   38]: Missing the sent_id attribute.
+[Line                   38]: Exception caught!
+*** FAILED *** with 24 errors
+Format errors: 4
+Metadata errors: 2
+Morpho errors: 16
+Syntax errors: 2
+The language-specific file /home/ginter/UD_PROJHOOK/tools/data/feat_val.myv does not exist.
+python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PROJHOOK/tools/data/feat_val.myv
+
+
+******************
+
+python tools/validate.py --lang myv UD-dev-branches/UD_Erzya/myv_ChetvergovJevgenij_Velenj-vajgeljtj_1992_UD-dev-2011.conlluTraceback (most recent call last):
+  File "tools/validate.py", line 735, in &lt;module&gt;
+    validate(inp,out,args,tagsets,known_sent_ids)
+  File "tools/validate.py", line 618, in validate
+    validate_ID_references(tree)
+  File "tools/validate.py", line 472, in validate_ID_references
+    if HEAD &gt;= len(cols):
+UnboundLocalError: local variable 'cols' referenced before assignment
+
+
+
+[Line                   29]: Morphological features must be sorted: 'Sem/Plc|Number=Sing|Case=Nom|Definite=Ind'
+[Line                   29]: Spurious morphological feature: 'Sem/Plc'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   31]: Morphological features must be sorted: 'Sem/Plc|Number=Sing|Case=Nom|Definite=Ind'
+[Line                   31]: Spurious morphological feature: 'Sem/Plc'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   33]: Spurious morphological feature: 'Ideoph'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   34]: Morphological features must be sorted: 'Sem/Plc|Number=Sing|Case=Nom|Definite=Ind'
+[Line                   34]: Spurious morphological feature: 'Sem/Plc'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   36]: Spurious sent_id line: '#sent_id = paragID="1" sentID="1" pgNo="0005"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   36]: Missing the sent_id attribute.
+[Line                   36]: SpaceAfter=No is missing in the MISC field of node #1 because the text is 'Вай, веле, веле, жой[...]'
+[Line                   36]: SpaceAfter=No is missing in the MISC field of node #3 because the text is 'веле, веле, жой веле...'
+[Line                   36]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'веле, жой веле...'
+[Line                   36]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'веле...'
+[Line                   43]: Morphological features must be sorted: 'Number=Sing|Case=Gen|Definite=Def'
+[Line                   43]: Unknown UD DEPREL: nmod:exist
+[Line                   45]: Morphological features must be sorted: 'Valency=1|Mood=Ind|Tense=Pres|Number[subj]=Sing|Person[subj]=3'
+[Line                   45]: Unknown attribute-value pair Valency=1
+[Line                   45]: Unknown attribute-value pair Number[subj]=Sing
+[Line                   45]: Unknown attribute-value pair Person[subj]=3
+[Line                   45]: Unknown UD DEPREL: cop:exist
+[Line                   46]: Morphological features must be sorted: 'Sem/Plc|Number=Sing|Case=Nom|Definite=Ind'
+[Line                   46]: Spurious morphological feature: 'Sem/Plc'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   48]: Morphological features must be sorted: 'PronType=Rel|Sel|Number=Sing|Case=Nom|Definite=Ind'
+[Line                   48]: Spurious morphological feature: 'Sel'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   49]: Morphological features must be sorted: 'Valency=1|Mood=Ind|Tense=Pres|Number[subj]=Sing|Person[subj]=3'
+[Line                   49]: Unknown attribute-value pair Valency=1
+[Line                   49]: Unknown attribute-value pair Number[subj]=Sing
+...suppressing further errors regarding Morpho
+[Line                   49]: Unknown UD DEPREL: acl:relcl
+[Line                   52]: Unknown UD DEPREL: nmod:abs
+[Line                   56]: Spurious sent_id line: '#sent_id = storyIDЛОВНЫЦЯНТЕНЬ:paragID1:sentID1: pgNo="0005"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   56]: Missing the sent_id attribute.
+[Line                   56]: SpaceAfter=No is missing in the MISC field of node #4 because the text is 'мастор, кона моли аш[...]'
+[Line                   56]: SpaceAfter=No is missing in the MISC field of node #12 because the text is 'ёнов.'
+[Line                   60]: Unknown UD DEPREL: nmod:poss
+[Line                   63]: Unknown UD DEPREL: nmod:abs
+[Line                   66]: Spurious sent_id line: '#sent_id = storyIDЛОВНЫЦЯНТЕНЬ: paragID1:sentID2: pgNo="0005"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   66]: Missing the sent_id attribute.
+[Line                   66]: SpaceAfter=No is missing in the MISC field of node #5 because the text is 'пинге.'
+[Line                   71]: Unknown UD DEPREL: advmod:neg
+[Line                   74]: Unknown UD DEPREL: nmod:exist
+[Line                   78]: Unknown UD DEPREL: advmod:neg
+[Line                   83]: Unknown UD DEPREL: nmod:cmpstandard
+[Line                   86]: Unknown UD DEPREL: advmod:neg
+[Line                   89]: Spurious sent_id line: '#sent_id = storyIDЛОВНЫЦЯНТЕНЬ: paragID1:sentID3: pgNo="0005"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   89]: Missing the sent_id attribute.
+[Line                   89]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'тундо, кадык а лымби[...]'
+[Line                   89]: SpaceAfter=No is missing in the MISC field of node #12 because the text is 'иневедь, сондензэ ма[...]'
+[Line                   89]: SpaceAfter=No is missing in the MISC field of node #18 because the text is 'муят.'
+[Line                   98]: Spurious sent_id line: '#sent_id = storyIDЛОВНЫЦЯНТЕНЬ:paragID1:sentID4: pgNo="0005"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+...suppressing further errors regarding Metadata
+[Line                   120]: Unknown UD DEPREL: orphan:obj
+[Line                   142]: Unknown UD DEPREL: nmod:poss
+[Line                   160]: Unknown UD DEPREL: nmod:poss
+[Line                   174]: Invalid DEPREL value _
+[Line                   174]: Unknown UD DEPREL: _
+[Line                   176]: Invalid DEPREL value _
+[Line                   176]: Unknown UD DEPREL: _
+[Line                   177]: Unknown UD DEPREL: nmod:instr
+[Line                   181]: Undefined ID in HEAD: _
+[Line                   181]: Undefined ID in HEAD: _
+[Line                   181]: Undefined ID in HEAD: conj
+[Tree number 14 on line 168]: Empty head for word ID 7
+[Tree number 14 on line 168]: Empty head for word ID 9
+[Tree number 14 on line 168]: Non-integer head for word ID 12
+...suppressing further errors regarding Syntax
+[Line                   391]: Undefined ID in HEAD: _
+[Tree number 27 on line 378]: Empty head for word ID 4
+[Line                   606]: Undefined ID in HEAD: advmod:neg
+[Tree number 41 on line 585]: Non-integer head for word ID 11
+[Line                   833]: Undefined ID in HEAD: _
+[Tree number 57 on line 820]: Empty head for word ID 12
+[Line                   893]: Undefined ID in HEAD: _
+[Tree number 62 on line 882]: Empty head for word ID 6
+[Line                   1027]: Spurious empty line.
+[Line                   1056]: Missing empty line after the last tree.
+[Line                   1056]: Exception caught!
+*** FAILED *** with 1711 errors
+Format errors: 17
+Metadata errors: 380
+Morpho errors: 1207
+Syntax errors: 107
+The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.myv does not exist.
+The language-specific file /home/ginter/UD_PROJHOOK/tools/data/feat_val.myv does not exist.
+python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PROJHOOK/tools/data/feat_val.myv
 
 
 ******************
