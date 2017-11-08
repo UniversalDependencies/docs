@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-08T13:57:44Z">2017-11-08T13:57:44 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-08T14:38:33Z">2017-11-08T14:38:33 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3050,39 +3050,34 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Romanian-Nonstandard</span>
 <span class="widespan">ro nonstandard</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-07T15:36:12Z">2017-11-07T15:36:12 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-08T14:38:32Z">2017-11-08T14:38:32 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang ro_nonstandard UD-dev-branches/UD_Romanian-Nonstandard/ro_nonstandard-ud-test.conllu
 
-[Tree number 59 on line 1436]: Mismatch between the text attribute and the FORM field. Form is 'pocăinţei' but text is 'pocăinței....'
-[Tree number 59 on line 1436]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'pocăinței....'
-[Line                   1439]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'pocăinței.'
-[Tree number 112 on line 2674]: Mismatch between the text attribute and the FORM field. Form is 'fericiţi' but text is 'fericiți....'
-[Tree number 112 on line 2674]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'fericiți....'
-[Line                   2678]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'fericiți.'
-[Tree number 121 on line 2752]: Mismatch between the text attribute and the FORM field. Form is 'Tăiarea' but text is 'Tăierea mâinei....'
-[Tree number 121 on line 2752]: Mismatch between the text attribute and the FORM field. Form is 'mîinei' but text is 'Tăierea mâinei....'
-[Tree number 121 on line 2752]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'Tăierea mâinei....'
-[Line                   2755]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'Tăierea mâinei.'
-[Tree number 124 on line 2775]: Mismatch between the text attribute and the FORM field. Form is 'pizmaşilor' but text is 'pizmașilor....'
-[Tree number 124 on line 2775]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'pizmașilor....'
-[Line                   2778]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'pizmașilor.'
-[Tree number 125 on line 2782]: Mismatch between the text attribute and the FORM field. Form is 'Săvîrşirea' but text is 'Săvârșirea....'
-[Tree number 125 on line 2782]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'Săvârșirea....'
-[Line                   2784]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'Săvârșirea.'
-[Tree number 180 on line 4157]: Mismatch between the text attribute and the FORM field. Form is 'fraţilor' but text is 'fraților....'
-[Tree number 180 on line 4157]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'fraților....'
-[Line                   4160]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'fraților.'
+[Line                   1439]: SpaceAfter=No is missing in the MISC field of node #2 because the text is 'pocăinței.'
+[Line                   2678]: SpaceAfter=No is missing in the MISC field of node #3 because the text is 'fericiți.'
+[Tree number 121 on line 2752]: Mismatch between the text attribute and the FORM field. Form is 'mîinei' but text is 'mâinei....'
+[Tree number 121 on line 2752]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'mâinei....'
+[Line                   2755]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'mâinei.'
+[Line                   2778]: SpaceAfter=No is missing in the MISC field of node #2 because the text is 'pizmașilor.'
+[Line                   2784]: SpaceAfter=No is missing in the MISC field of node #1 because the text is 'Săvîrșirea.'
+[Line                   4160]: SpaceAfter=No is missing in the MISC field of node #2 because the text is 'fraților.'
+[Line                   4189]: SpaceAfter=No is missing in the MISC field of node #3 because the text is 'bogățiia.'
+[Line                   6178]: SpaceAfter=No is missing in the MISC field of node #13 because the text is '-e, curățeaște-te.'
+[Line                   6178]: SpaceAfter=No is missing in the MISC field of node #15 because the text is 'curățeaște-te.'
+[Line                   6178]: SpaceAfter=No is missing in the MISC field of node #16 because the text is '-te.'
+[Line                   6637]: SpaceAfter=No is missing in the MISC field of node #7 because the text is 'cărtulariu, de-i zis[...]'
+[Line                   6637]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'de-i zise Lui: Învăț[...]'
+[Line                   6637]: SpaceAfter=No is missing in the MISC field of node #12 because the text is 'Lui: Învățătoriule, [...]'
+[Line                   6637]: SpaceAfter=No is missing in the MISC field of node #14 because the text is 'Învățătoriule, mearg[...]'
+[Line                   6637]: SpaceAfter=No is missing in the MISC field of node #19 because the text is 'Tine, vareunde vei m[...]'
+[Line                   6637]: SpaceAfter=No is missing in the MISC field of node #23 because the text is 'mearge.'
+[Line                   6693]: SpaceAfter=No is missing in the MISC field of node #20 because the text is '-mieu.'
 ...suppressing further errors regarding Metadata
-[Line                   7623]: Unknown attribute-value pair NumType=Col
-[Line                   12560]: Unknown attribute-value pair NumType=Col
-[Line                   14707]: Unknown attribute-value pair NumType=Col
-[Line                   18478]: Unknown attribute-value pair NumType=Col
-*** FAILED *** with 503 errors
-Metadata errors: 499
-Morpho errors: 4
+*** FAILED *** with 170 errors
+Metadata errors: 170
 
 
 ******************
