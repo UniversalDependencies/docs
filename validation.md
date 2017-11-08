@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-08T12:47:03Z">2017-11-08T12:47:03 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-08T12:55:08Z">2017-11-08T12:55:08 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -2463,7 +2463,7 @@ python tools/validate.py --lang kmr UD-dev-branches/UD_Kurmanji/kmr-ud-test.conl
 <span class="doublewidespan" style="padding-left:3em">UD Latin</span>
 <span class="widespan">la</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-08T12:47:01Z">2017-11-08T12:47:01 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-08T12:55:05Z">2017-11-08T12:55:05 zulu</time></span>
 </div>
 <div>
 <pre>
