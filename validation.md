@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-08T14:45:39Z">2017-11-08T14:45:39 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-08T14:46:43Z">2017-11-08T14:46:43 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3050,7 +3050,7 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Romanian-Nonstandard</span>
 <span class="widespan">ro nonstandard</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-08T14:45:37Z">2017-11-08T14:45:37 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-08T14:46:42Z">2017-11-08T14:46:42 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -3069,15 +3069,15 @@ python tools/validate.py --lang ro_nonstandard UD-dev-branches/UD_Romanian-Nonst
 [Line                   22351]: SpaceAfter=No is missing in the MISC field of node #24 because the text is 'Să-mi mai crească ar[...]'
 [Line                   22351]: SpaceAfter=No is missing in the MISC field of node #28 because the text is 'aripioare!“'
 [Line                   22351]: SpaceAfter=No is missing in the MISC field of node #29 because the text is '!“'
-[Tree number 1055 on line 22355]: Mismatch between the text attribute and the FORM field. Form is 'răspundeau' but text is 'răspundeanu: „Noi de masă-ți m...'
-[Tree number 1055 on line 22355]: Mismatch between the text attribute and the FORM field. Form is ':' but text is 'răspundeanu: „Noi de ...'
-[Tree number 1055 on line 22355]: Mismatch between the text attribute and the FORM field. Form is '„' but text is 'răspundeanu: „Noi de ...'
-[Tree number 1055 on line 22355]: Mismatch between the text attribute and the FORM field. Form is 'Noi' but text is 'răspundeanu: „Noi de ma...'
-[Tree number 1055 on line 22355]: Mismatch between the text attribute and the FORM field. Form is 'de' but text is 'răspundeanu: „Noi de m...'
-[Tree number 1055 on line 22355]: Mismatch between the text attribute and the FORM field. Form is 'masă' but text is 'răspundeanu: „Noi de mas...'
+[Line                   22379]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'răspundeau: „Noi de [...]'
+[Line                   22379]: SpaceAfter=No is missing in the MISC field of node #10 because the text is '„Noi de masă-ți mulț[...]'
+[Line                   22379]: SpaceAfter=No is missing in the MISC field of node #13 because the text is 'masă-ți mulțumim, Că[...]'
+[Line                   22379]: SpaceAfter=No is missing in the MISC field of node #15 because the text is 'mulțumim, Că n-am ve[...]'
+[Line                   22379]: SpaceAfter=No is missing in the MISC field of node #18 because the text is 'n-am venit să prânzim“.'
+[Line                   22379]: SpaceAfter=No is missing in the MISC field of node #22 because the text is 'prânzim“.'
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 46 errors
-Metadata errors: 46
+*** FAILED *** with 35 errors
+Metadata errors: 35
 
 
 ******************
