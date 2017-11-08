@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-08T14:40:56Z">2017-11-08T14:40:56 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-08T14:43:41Z">2017-11-08T14:43:41 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3050,34 +3050,34 @@ python tools/validate.py --lang ro UD-dev-branches/UD_Romanian/ro-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Romanian-Nonstandard</span>
 <span class="widespan">ro nonstandard</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-08T14:40:54Z">2017-11-08T14:40:54 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-08T14:43:39Z">2017-11-08T14:43:39 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang ro_nonstandard UD-dev-branches/UD_Romanian-Nonstandard/ro_nonstandard-ud-test.conllu
 
-[Tree number 121 on line 2752]: Mismatch between the text attribute and the FORM field. Form is 'mîinei' but text is 'mâinei....'
-[Tree number 121 on line 2752]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'mâinei....'
-[Line                   2755]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'mâinei.'
-[Tree number 648 on line 13677]: Mismatch between the text attribute and the FORM field. Form is '-să' but text is 'să ucenicii lui, luară ...'
-[Tree number 648 on line 13677]: Mismatch between the text attribute and the FORM field. Form is 'ucenicii' but text is 'să ucenicii lui, luară trupu...'
-[Tree number 648 on line 13677]: Mismatch between the text attribute and the FORM field. Form is 'lui' but text is 'să ucenicii lui, luară ...'
-[Tree number 648 on line 13677]: Mismatch between the text attribute and the FORM field. Form is ',' but text is 'să ucenicii lui, luar...'
-[Tree number 648 on line 13677]: Mismatch between the text attribute and the FORM field. Form is 'luară' but text is 'să ucenicii lui, luară tr...'
-[Tree number 648 on line 13677]: Mismatch between the text attribute and the FORM field. Form is 'trupul' but text is 'să ucenicii lui, luară tru...'
-[Tree number 648 on line 13677]: Mismatch between the text attribute and the FORM field. Form is 'lui' but text is 'să ucenicii lui, luară ...'
-[Tree number 648 on line 13677]: Mismatch between the text attribute and the FORM field. Form is 'și' but text is 'să ucenicii lui, luară...'
-[Tree number 648 on line 13677]: Mismatch between the text attribute and the FORM field. Form is '-l' but text is 'să ucenicii lui, luară...'
-[Tree number 648 on line 13677]: Mismatch between the text attribute and the FORM field. Form is 'îngrupară' but text is 'să ucenicii lui, luară trupul...'
-[Tree number 648 on line 13677]: Mismatch between the text attribute and the FORM field. Form is ',' but text is 'să ucenicii lui, luar...'
-[Tree number 648 on line 13677]: Mismatch between the text attribute and the FORM field. Form is 'și' but text is 'să ucenicii lui, luară...'
-[Tree number 648 on line 13677]: Mismatch between the text attribute and the FORM field. Form is 'venind' but text is 'să ucenicii lui, luară tru...'
-[Tree number 648 on line 13677]: Mismatch between the text attribute and the FORM field. Form is ',' but text is 'să ucenicii lui, luar...'
-[Tree number 648 on line 13677]: Mismatch between the text attribute and the FORM field. Form is 'spusără' but text is 'să ucenicii lui, luară trup...'
-[Tree number 648 on line 13677]: Mismatch between the text attribute and the FORM field. Form is 'lui' but text is 'să ucenicii lui, luară ...'
+[Line                   2755]: SpaceAfter=No is missing in the MISC field of node #2 because the text is 'mâinei.'
+[Line                   13697]: SpaceAfter=No is missing in the MISC field of node #2 because the text is 'apropiindu-să ucenic[...]'
+[Line                   13697]: SpaceAfter=No is missing in the MISC field of node #12 because the text is 'îngrupară, și venind[...]'
+[Line                   13697]: SpaceAfter=No is missing in the MISC field of node #15 because the text is 'venind, spusără lui [...]'
+[Line                   13697]: SpaceAfter=No is missing in the MISC field of node #19 because the text is 'Iisus.'
+[Tree number 1054 on line 22321]: Mismatch between the text attribute and the FORM field. Form is 'plânge' but text is 'pânge: „Așteaptă-mă, frăți...'
+[Tree number 1054 on line 22321]: Mismatch between the text attribute and the FORM field. Form is ':' but text is 'pânge: „Așteaptă-mă, ...'
+[Tree number 1054 on line 22321]: Mismatch between the text attribute and the FORM field. Form is '„' but text is 'pânge: „Așteaptă-mă, ...'
+[Tree number 1054 on line 22321]: Mismatch between the text attribute and the FORM field. Form is 'Așteaptă' but text is 'pânge: „Așteaptă-mă, frățioa...'
+[Tree number 1054 on line 22321]: Mismatch between the text attribute and the FORM field. Form is '-mă' but text is 'pânge: „Așteaptă-mă, fr...'
+[Tree number 1054 on line 22321]: Mismatch between the text attribute and the FORM field. Form is ',' but text is 'pânge: „Așteaptă-mă, ...'
+[Tree number 1054 on line 22321]: Mismatch between the text attribute and the FORM field. Form is 'frățioare' but text is 'pânge: „Așteaptă-mă, frățioar...'
+[Tree number 1054 on line 22321]: Mismatch between the text attribute and the FORM field. Form is ',' but text is 'pânge: „Așteaptă-mă, ...'
+[Tree number 1054 on line 22321]: Mismatch between the text attribute and the FORM field. Form is 'Să' but text is 'pânge: „Așteaptă-mă, f...'
+[Tree number 1054 on line 22321]: Mismatch between the text attribute and the FORM field. Form is '-mi' but text is 'pânge: „Așteaptă-mă, fr...'
+[Tree number 1054 on line 22321]: Mismatch between the text attribute and the FORM field. Form is 'mai' but text is 'pânge: „Așteaptă-mă, fr...'
+[Tree number 1054 on line 22321]: Mismatch between the text attribute and the FORM field. Form is 'crească' but text is 'pânge: „Așteaptă-mă, frățio...'
+[Tree number 1054 on line 22321]: Mismatch between the text attribute and the FORM field. Form is 'aripioare' but text is 'pânge: „Așteaptă-mă, frățioar...'
+[Tree number 1054 on line 22321]: Mismatch between the text attribute and the FORM field. Form is '!' but text is 'pânge: „Așteaptă-mă, ...'
 ...suppressing further errors regarding Metadata
-*** FAILED *** with 71 errors
-Metadata errors: 71
+*** FAILED *** with 54 errors
+Metadata errors: 54
 
 
 ******************
