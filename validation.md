@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-09T15:47:45Z">2017-11-09T15:47:45 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-09T16:02:43Z">2017-11-09T16:02:43 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1747,7 +1747,7 @@ python tools/validate.py --lang gl UD-dev-branches/UD_Galician/gl-ud-train.conll
 <span class="doublewidespan" style="padding-left:3em">UD Galician-TreeGal</span>
 <span class="widespan">gl treegal</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-06T18:05:35Z">2017-11-06T18:05:35 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-09T16:02:41Z">2017-11-09T16:02:41 zulu</time></span>
 </div>
 <div>
 <pre>
