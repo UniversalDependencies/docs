@@ -12,7 +12,7 @@ udver: '2'
 nummod(դրամ, հազար)
 nummod(rubles, thousand)
 compound(հազար, 5-3)
-compound(thousand, 5-4)
+compound(thousand, 5-13)
 ~~~
 
 ~~~ sdparse
