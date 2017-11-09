@@ -17,11 +17,14 @@ udver: '2'
 In Armenian animacy is a lexical feature of [nouns](NOUN). Armenian distinguish three values, human vs. non-human
 animate vs. inanimate.
 
-Note that some school grammars of Armenian distinguish between human animate Dat vs. non-human animate and inanimate Dat vs. human, animate and inanimate Acc as inflectional feature of nouns. There is a firm connection with the [definiteness](Definite).
+Note that some school grammars of Armenian distinguish between inflectional `Hum` vs. `Nhum` or `Anim` vs. `Inan` features of nouns.
+
+There is an another classification: nouns that are `Hum` and inflected as humans (as [obj](hy-dep/obj) in [Dat](Case));
+nouns that are `Nhum` or `Inan` and inflected as animate (as [obj](hy-dep/obj) in [Dat](Case)); nouns that are `Hum`, `Anim` or `Inan` and inflected as inanimate (as [obj](hy-dep/obj) in [Nom/Acc](Case)).
 
 ### <a name="Anim">`Anim`</a>: animate
 
-In Armenian this value generally is used for non-human animates. It also includes human beings, fictional characters, names of professions etc. are all animate. Even nouns that are normally inanimate can be inflected as animate if they are personified. For instance, consider a children's story about cars where cars live and talk as people; then the cars may become and be inflected as animates.
+Human beings, animals, fictional characters, names of professions etc. are all animate. Even nouns that are normally inanimate can be inflected as animate if they are personified. For instance, consider a children's story about cars where cars live and talk as people; then the cars may become and be inflected as animates.
 
 - _ձի_ “horse”, _եղնիկ_ “deer”, _աղավնի_ “pigeon”
 
@@ -33,6 +36,6 @@ Nouns that are not animate are inanimate.
 
 ### <a name="Hum">`Hum`</a>: human
 
-In Armenian this value includes human beings, personified characters, fictional characters, names of professions etc., but not animals.
+A subset of animates that only includes human beings (personified characters, fictional characters, names of professions etc.) but not animals.
 
-- _մարդ_  “man”, _նախարար_  “minister”, _նախագահ_  “president”, _տնօրեն_ “director”, _ճարտարապետ_ “architect”
+- _մարդ_ “man”, _նախարար_ “minister”, _նախագահ_ “president”, _տնօրեն_ “director”, _ճարտարապետ_ “architect”
