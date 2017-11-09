@@ -2,6 +2,7 @@
 layout: postag
 title: 'INTJ'
 shortdef: 'interjection'
+udver: '2'
 ---
 
 ### Definition
@@ -12,7 +13,7 @@ Note that words primarily belonging to another part of speech retains their orig
 
 As a special case of interjections, we recognize feedback particles such as _այո՛_, _ո՛չ_, _անշո՛ւշտ_, etc.
 
-Interjections contain “infixed” punctuation (exclamation and emphasis marks).
+Interjections contain _infixed punctuation_ (exclamation and emphasis marks).
 
 ### Examples
 
@@ -23,5 +24,3 @@ cannot serve to judge the part of speech from the English perspective.)
 - _օհո՜&nbsp;_ “wow”
 - _դե՛, դե՛հ&nbsp;_ “well”
 - _Աստվա՜ծ իմ&nbsp;_ “for God's sake”
-
-
