@@ -19,9 +19,9 @@ compound(5, thousand-13)
 Սա առավելագույնը հարյուր հիսունհինգ հազար դրամ կարժենա ։ \n It will cost hundred fifty-five thousand drams .
 nummod(դրամ, հարյուր)
 nummod(drams, hundred)
-compound(հարյուր, հիսունհինգ-3)
-compound(hundred, fifty-five-3)
-compound(հիսունհինգ, հազար-4)
+compound(հարյուր, հիսունհինգ-4)
+compound(hundred, fifty-five-4)
+compound(հիսունհինգ, հազար-5)
 compound(fifty-five, thousand-16)
 ~~~
 x
