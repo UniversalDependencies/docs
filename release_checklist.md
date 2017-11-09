@@ -105,6 +105,7 @@ The new conversion has been performed by Joakim Nivre and Aaron Smith at Uppsala
 * 2015-01-15 v1.0
   * First release in UD
 
+&lt;pre&gt;
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 (described in more detail below)
 </pre>
@@ -125,6 +126,7 @@ UD list of contributors.
 
 Here is an example of the treebank metadata block from the [Czech README file](https://github.com/UniversalDependencies/UD_Czech/blob/dev/README.txt)
 
+    &lt;pre&gt;
     === Machine-readable metadata (DO NOT REMOVE!) ================================
     Data available since: UD v1.0
     License: CC BY-NC-SA 3.0
@@ -139,6 +141,7 @@ Here is an example of the treebank metadata block from the [Czech README file](h
     Contributing: elsewhere
     Contact: zeman@ufal.mff.cuni.cz
     ===============================================================================
+    &lt;/pre&gt;
 
 This block should be the last thing in the `README` file. The properties are as follows:
 
