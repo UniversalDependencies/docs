@@ -19,8 +19,8 @@ animate vs. inanimate.
 
 Note that some school grammars of Armenian distinguish between inflectional `Hum` vs. `Nhum` or `Anim` vs. `Inan` features of nouns.
 
-There is an another classification: nouns that are `Hum` and inflected as humans (as [obj](hy-dep/obj) in [Dat](Case));
-nouns that are `Nhum` or `Inan` and inflected as animate (as [obj](hy-dep/obj) in [Dat](Case)); nouns that are `Hum`, `Anim` or `Inan` and inflected as inanimate (as [obj](hy-dep/obj) in [Nom/Acc](Case)).
+There is an another classification: nouns that are `Hum` and inflected as human (as [obj](hy-dep/obj) in [Dat](Case));
+nouns that are `Anim` or `Inan` and inflected as animate (as [obj](hy-dep/obj) in [Dat](Case)); nouns that are `Hum`, `Anim` or `Inan` and inflected as inanimate (as [obj](hy-dep/obj) in [Nom/Acc](Case)).
 
 ### <a name="Anim">`Anim`</a>: animate
 
