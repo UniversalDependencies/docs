@@ -2,6 +2,7 @@
 layout: postag
 title: 'PUNCT'
 shortdef: 'punctuation'
+udver: '2'
 ---
 
 ### Definition
@@ -12,7 +13,7 @@ used in many languages to delimit linguistic units in printed text.
 Punctuation is not taken to include logograms such as _$_, _%_, and
 _§_, which are instead tagged as [SYM]().
 
-There is “infixed” punctuation (exclamation, emphasis and question marks). We refer to such cases as multiword tokens.
+There is _infixed punctuation_ (exclamation, emphasis and question marks). We refer to such cases as _multiword tokens_.
 
 1-2 ինչո՞ւ
 
