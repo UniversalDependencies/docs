@@ -27,7 +27,7 @@ From the syntactic point of view, some numtypes behave like adjectives and some 
 
 Note that there are no _adverbial ordinal_ and _multiplicative numerals_ in Armenian.
 
-### <a name="Card">`Card`</a>: cardinal number or corresponding interrogative / relative / indefinite / demonstrative word
+### <a name="Card">`Card`</a>: cardinal number
 
 Note that in some Indo-European languages there is a fuzzy borderline
 between numerals and nouns for _thousand, million_ and _billion._
@@ -37,7 +37,7 @@ between numerals and nouns for _thousand, million_ and _billion._
 * _1, 2, 3_
 * _մեկ, երկու, երեք_; "how many";
 
-### <a name="Ord">`Ord`</a>: ordinal number or corresponding interrogative / relative / indefinite / demonstrative word
+### <a name="Ord">`Ord`</a>: ordinal number
 
 This is a subtype of adjective.
 
@@ -71,4 +71,4 @@ This could be considered a subtype of cardinal numbers (provided tokenization le
 #### Examples
 
 * _չորս-հինգ_ "four-five" ("eiter four or five")
-* _չորս-հինգ_ "ten-fifteen" ("from ten to fifteen")
+* _տասից-տասնհինգ_ "ten-fifteen" ("from ten to fifteen")
