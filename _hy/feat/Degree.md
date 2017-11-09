@@ -14,11 +14,11 @@ udver: '2'
 </tr>
 </table>
 
-Degree of comparison is inflectional feature of some [adjectives](hy-pos/ADJ) and [adverbs](hy-pos/ADV).
+Degree of comparison is inflectional feature of some [adjectives](ADJ) and [adverbs](ADV).
 
 The second degree of adjective or adverb is modified through adverb _ավելի_ “more” e.g. _ավելի գեղեցիկ_ “more beautiful”; _ավելի արագ_ “more quickly”. We only annotate this adverb with the second degree feature.
 
-Note that the third degree of adverbs in Armenian is constructed with the feature of [Definite](hy-feat/Definite).
+Note that the third degree of adverbs in Armenian is constructed with the feature of [Definite](Definite).
 
 ### <a name="Pos">`Pos`</a>: positive, first degree
 
