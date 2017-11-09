@@ -2,6 +2,7 @@
 layout: postag
 title: 'ADJ'
 shortdef: 'adjective'
+udver: '2'
 ---
 
 ### Definition
@@ -16,7 +17,7 @@ In accordance with the UD approach, adjectival ordinal numerals _(առաջին, 
 
 Note that participles are word forms that may share properties and usage of adjectives and verbs. Depending on context, they may be classified as either [VERB]() or `ADJ`.
 
-In Armenian adjectives inflect for [Degree](). Degree can also be specified by [adverb](hy-pos/ADV) _ավելի_.
+In Armenian adjectives inflect for [Degree](). Degree can also be specified by [adverb](ADV) _ավելի_.
 
 Note that some adjectives and most adverbs in Armenian don’t have a degree feature.
 
