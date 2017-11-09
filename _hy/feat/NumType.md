@@ -35,7 +35,7 @@ between numerals and nouns for _thousand, million_ and _billion._
 #### Examples
 
 * _1, 2, 3_
-* _մեկ, երկու, երեք_; "how many";
+* _մեկ_ "one", _երկու_ "two", _երեք_ "three"
 
 ### <a name="Ord">`Ord`</a>: ordinal number
 
@@ -44,7 +44,7 @@ This is a subtype of adjective.
 #### Examples
 
 * _1-ին, 2-րդ, 3-րդ_
-* _առաջին_ "first"; _երկրորդ_ "second", _երրորդ_ "third"
+* _առաջին_ "first", _երկրորդ_ "second", _երրորդ_ "third"
 
 ### <a name="Frac">`Frac`</a>: fraction
 
@@ -53,7 +53,7 @@ This is a subtype of cardinal numbers. It may denote a fraction or just the deno
 #### Examples
 
 * _երեք <b>քառորդ</b>_ "three-quarters"
-* _կես_ "half"; _մեկ <b>երրորդ</b>_ մասը "one third"; _քառորդ_ "quarter"
+* _կես_ "half", _մեկ <b>երրորդ</b>_ մասը "one third", _քառորդ_ "quarter"
 
 ### <a name="Dist">`Dist`</a>: distributive numeral
 
@@ -65,8 +65,7 @@ Used to express that the same quantity is distributed to each member in a set of
 
 ### <a name="Range">`Range`</a>: range of values
 
-This could be considered a subtype of cardinal numbers (provided tokenization leaves it as
-  one token.)
+This could be considered a subtype of cardinal numbers (provided tokenization leaves it as one token.)
 
 #### Examples
 
