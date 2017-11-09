@@ -2,6 +2,7 @@
 layout: postag
 title: 'PART'
 shortdef: 'particle'
+udver: '2'
 ---
 
 ### Definition
@@ -13,12 +14,12 @@ Note that particles like _այո_ “yes”, _ոչ_ “no”, _անշուշտ_ �
 
 ### Examples
 
-- Affirmativ particle: անպատճառ, իհարկե, հարկավ
-- Concession particle: ինչևէ, այնուամենայնիվ
-- Demonstration particle: ահա, ահավասիկ
-- Dubitation particle: ասես, գուցե, կարծես, հավանաբար
-- Emphatic particle: ախար, մանավանդ, հատկապես
-- Limitation particle: գեթ, լոկ, միայն
-- Negation particle: ոչ, չէ, բնավ, ամենևին
-- Wish particle: երանի, երնեկ
-- Volition particle: ապա, դե, թող
+- Affirmativ particle: _անպատճառ, իհարկե, հարկավ_
+- Concession particle: _ինչևէ, այնուամենայնիվ_
+- Demonstration particle: _ահա, ահավասիկ_
+- Dubitation particle: _ասես, գուցե, կարծես, հավանաբար_
+- Emphatic particle: _ախար, մանավանդ, հատկապես_
+- Limitation particle: _գեթ, լոկ, միայն_
+- Negation particle: _ոչ, չէ, բնավ, ամենևին_
+- Wish particle: _երանի, երնեկ_
+- Volition particle: _ապա, դե, թող_
