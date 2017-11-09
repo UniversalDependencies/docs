@@ -9,19 +9,18 @@ udver: '2'
 
 ~~~ sdparse
 Սա առավելագույնը 5 հազար դրամ կարժենա ։ \n It will cost at-most 5 thousand drams .
-nummod(դրամ, 5)
+nummod(դրամ, հինգ)
 nummod(drams, 5)
-compound(5, հազար-4)
-compound(5, thousand-13)
+compound(հինգ, հազար-4)
+compound(5, thousand-14)
 ~~~
 
 ~~~ sdparse
-Սա առավելագույնը հարյուր հիսունհինգ հազար դրամ կարժենա ։ \n It will cost hundred fifty-five thousand drams .
+Սա առավելագույնը հարյուր հիսունհինգ հազար դրամ կարժենա ։ \n It will cost at-most hundred fifty-five thousand drams .
 nummod(դրամ, հարյուր)
 nummod(drams, hundred)
 compound(հարյուր, հիսունհինգ-4)
-compound(hundred, fifty-five-4)
+compound(hundred, fifty-five)
 compound(հիսունհինգ, հազար-5)
-compound(fifty-five, thousand-16)
+compound(fifty-five, thousand)
 ~~~
-x
