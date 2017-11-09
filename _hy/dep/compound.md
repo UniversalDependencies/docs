@@ -11,7 +11,7 @@ udver: '2'
 Սա առավելագույնը 5 հազար դրամ կարժենա ։ \n It will cost at-most 5 thousand drams .
 nummod(դրամ, 5)
 nummod(drams, 5)
-compound(5, հազար-3)
+compound(5, հազար-4)
 compound(5, thousand-13)
 ~~~
 
