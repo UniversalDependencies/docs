@@ -126,7 +126,7 @@ UD list of contributors.
 
 Here is an example of the treebank metadata block from the [Czech README file](https://github.com/UniversalDependencies/UD_Czech/blob/dev/README.txt)
 
-    &lt;pre&gt;
+    <pre>
     === Machine-readable metadata (DO NOT REMOVE!) ================================
     Data available since: UD v1.0
     License: CC BY-NC-SA 3.0
@@ -141,7 +141,7 @@ Here is an example of the treebank metadata block from the [Czech README file](h
     Contributing: elsewhere
     Contact: zeman@ufal.mff.cuni.cz
     ===============================================================================
-    &lt;/pre&gt;
+    </pre>
 
 This block should be the last thing in the `README` file. The properties are as follows:
 
