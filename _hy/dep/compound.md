@@ -17,11 +17,11 @@ compound(5, thousand-13)
 
 ~~~ sdparse
 Սա առավելագույնը հարյուր հիսունհինգ հազար դրամ կարժենա ։ \n It will cost hundred fifty-five thousand drams .
-nummod(դրամ, հազար)
-nummod(rubles, thousand)
-compound(հարյուր, հիսունհինգ-4)
-compound(thousand, fifty-five-4)
-compound(հազար, հարյուր-3)
-compound(thousand, thousand-16)
+nummod(դրամ, հարյուր)
+nummod(drams, hundred)
+compound(հարյուր, հիսունհինգ-3)
+compound(hundred, fifty-five-3)
+compound(հիսունհինգ, հազար-4)
+compound(fifty-five, thousand-16)
 ~~~
 x
