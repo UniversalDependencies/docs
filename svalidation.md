@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- Syntactic validation'
 udver:  '2'
 ---
 
-Regenerated <time class="timeago" datetime="2017-11-10T10:20:45Z">2017-11-10T10:20:45 zulu</time>
+Regenerated <time class="timeago" datetime="2017-11-10T17:01:59Z">2017-11-10T17:01:59 zulu</time>
 
 # Aux chain
 
@@ -45,55 +45,36 @@ aux(left, have)
 </div>
 <div>
 <table>
-<tr><th/> <th>ADJ</th><th>AUX</th><th>VERB</th> </tr>
-<tr><td>UD_Afrikaans</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Afrikaans-dev">2</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Afrikaans-dev">126</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Afrikaans-dev">4</a></td>
-</tr>
+<tr><th/> <th>AUX</th><th>VERB</th> </tr>
 <tr><td>UD_Croatian</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Croatian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Croatian-dev">4</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Croatian-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Galician</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Galician-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Galician-dev">3</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Galician-dev">11</a></td>
 </tr>
 <tr><td>UD_Hindi</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Hindi-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Hindi-dev">6692</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Hindi-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Hungarian</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Hungarian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Hungarian-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Hungarian-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Swedish_Sign_Language</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Swedish_Sign_Language-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Swedish_Sign_Language-dev">1</a></td>
 </tr>
 <tr><td>UD_Uyghur</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Uyghur-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Uyghur-dev">4</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Uyghur-dev">4</a></td>
 </tr>
 <tr><td>UD_Vietnamese</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Vietnamese-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Vietnamese-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Vietnamese-dev">49</a></td>
 </tr>
 </table>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Afrikaans</span>
-<span class="widespan">132 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Afrikaans-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Croatian</span>
@@ -185,20 +166,10 @@ flat(Gustaf, Carl)
 <div>
 <table>
 <tr><th/> <th>PROPN</th> </tr>
-<tr><td>UD_Afrikaans</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Cflat%40R+_&db=UD_Afrikaans-dev">20</a></td>
-</tr>
 <tr><td>UD_Bambara</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Cflat%40R+_&db=UD_Bambara-dev">1</a></td>
 </tr>
 </table>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Afrikaans</span>
-<span class="widespan">20 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Cflat%40R+_&db=UD_Afrikaans-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Bambara</span>
@@ -340,23 +311,6 @@ conj(honest, big)
 <div>
 <table>
 <tr><th/> <th>ADJ</th><th>ADP</th><th>ADV</th><th>AUX</th><th>CCONJ</th><th>DET</th><th>INTJ</th><th>NOUN</th><th>NUM</th><th>PRON</th><th>PROPN</th><th>PUNCT</th><th>SYM</th><th>VERB</th><th>X</th> </tr>
-<tr><td>UD_Afrikaans</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cconj%40R+_&db=UD_Afrikaans-dev">4</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Cconj%40R+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3Cconj%40R+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Cconj%40R+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CCONJ+%3Cconj%40R+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Cconj%40R+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=INTJ+%3Cconj%40R+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Cconj%40R+_&db=UD_Afrikaans-dev">4</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Cconj%40R+_&db=UD_Afrikaans-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Cconj%40R+_&db=UD_Afrikaans-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Cconj%40R+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3Cconj%40R+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SYM+%3Cconj%40R+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Cconj%40R+_&db=UD_Afrikaans-dev">3</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Cconj%40R+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-</tr>
 <tr><td>UD_Bulgarian</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cconj%40R+_&db=UD_Bulgarian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Cconj%40R+_&db=UD_Bulgarian-dev">&nbsp;</a></td>
@@ -494,13 +448,6 @@ conj(honest, big)
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Cconj%40R+_&db=UD_Uyghur-dev">&nbsp;</a></td>
 </tr>
 </table>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Afrikaans</span>
-<span class="widespan">13 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Cconj%40R+_&db=UD_Afrikaans-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Bulgarian</span>
@@ -798,19 +745,6 @@ Search expression: `(!(AUX|PRON)) <cop _`
 <div>
 <table>
 <tr><th/> <th>ADJ</th><th>ADP</th><th>ADV</th><th>CCONJ</th><th>NOUN</th><th>NUM</th><th>PART</th><th>PROPN</th><th>PUNCT</th><th>SCONJ</th><th>VERB</th> </tr>
-<tr><td>UD_Afrikaans</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Ccop+_&db=UD_Afrikaans-dev">28</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Ccop+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3Ccop+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CCONJ+%3Ccop+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Ccop+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Ccop+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3Ccop+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Ccop+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3Ccop+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%3Ccop+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Ccop+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-</tr>
 <tr><td>UD_Coptic</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Ccop+_&db=UD_Coptic-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Ccop+_&db=UD_Coptic-dev">&nbsp;</a></td>
@@ -942,13 +876,6 @@ Search expression: `(!(AUX|PRON)) <cop _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Ccop+_&db=UD_Vietnamese-dev">&nbsp;</a></td>
 </tr>
 </table>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Afrikaans</span>
-<span class="widespan">28 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=%28%21%28AUX%7CPRON%29%29+%3Ccop+_&db=UD_Afrikaans-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Coptic</span>
@@ -1157,13 +1084,6 @@ Search expression: `(!DET&!PRON) <det _`
 Hits table not produced since the query does not start with the simple token spec '_'. Please add 'expr-pos' to the test which starts with '_' that will be substituted for the various POS in the links
 </div>
 <div>
-<span class="doublewidespan" style="padding-left:3em">UD_Afrikaans</span>
-<span class="widespan">20 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Afrikaans-dev">Go to search</a><p/>
-</div>
-<div>
 <span class="doublewidespan" style="padding-left:3em">UD_Bulgarian</span>
 <span class="widespan">5 hits</span>
 </div>
@@ -1274,13 +1194,6 @@ Search expression: `!PUNCT <punct _`
 Hits table not produced since the query does not start with the simple token spec '_'. Please add 'expr-pos' to the test which starts with '_' that will be substituted for the various POS in the links
 </div>
 <div>
-<span class="doublewidespan" style="padding-left:3em">UD_Afrikaans</span>
-<span class="widespan">2 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=%21PUNCT+%3Cpunct+_&db=UD_Afrikaans-dev">Go to search</a><p/>
-</div>
-<div>
 <span class="doublewidespan" style="padding-left:3em">UD_Croatian</span>
 <span class="widespan">20 hits</span>
 </div>
@@ -1354,13 +1267,6 @@ Search expression: `PUNCT (<!punct&<!root) _`
 </div>
 <div>
 Hits table not produced since the query does not start with the simple token spec '_'. Please add 'expr-pos' to the test which starts with '_' that will be substituted for the various POS in the links
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Afrikaans</span>
-<span class="widespan">20 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%28%3C%21punct%26%3C%21root%29+_&db=UD_Afrikaans-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Bulgarian</span>
@@ -1567,13 +1473,6 @@ Search expression: `NUM&!NumType`
 </div>
 <div>
 Hits table not produced since the query does not start with the simple token spec '_'. Please add 'expr-pos' to the test which starts with '_' that will be substituted for the various POS in the links
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Afrikaans</span>
-<span class="widespan">218 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM%26%21NumType&db=UD_Afrikaans-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Bambara</span>
@@ -1808,13 +1707,6 @@ Search expression: `(VerbForm=Fin)&!Mood`
 Hits table not produced since the query does not start with the simple token spec '_'. Please add 'expr-pos' to the test which starts with '_' that will be substituted for the various POS in the links
 </div>
 <div>
-<span class="doublewidespan" style="padding-left:3em">UD_Afrikaans</span>
-<span class="widespan">375 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=%28VerbForm%3DFin%29%26%21Mood&db=UD_Afrikaans-dev">Go to search</a><p/>
-</div>
-<div>
 <span class="doublewidespan" style="padding-left:3em">UD_Finnish-FTB</span>
 <span class="widespan">3018 hits</span>
 </div>
@@ -1846,13 +1738,6 @@ Search expression: `Degree&!ADJ&!ADV`
 </div>
 <div>
 Hits table not produced since the query does not start with the simple token spec '_'. Please add 'expr-pos' to the test which starts with '_' that will be substituted for the various POS in the links
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Afrikaans</span>
-<span class="widespan">15 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=Degree%26%21ADJ%26%21ADV&db=UD_Afrikaans-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Bulgarian</span>
@@ -1915,22 +1800,6 @@ Search expression: `_ >nsubj|>csubj|>nsubj:pass|>csubj:pass _ >nsubj|>csubj|>nsu
 <div>
 <table>
 <tr><th/> <th>ADJ</th><th>ADP</th><th>ADV</th><th>AUX</th><th>CCONJ</th><th>DET</th><th>INTJ</th><th>NOUN</th><th>NUM</th><th>PRON</th><th>PROPN</th><th>PUNCT</th><th>SCONJ</th><th>VERB</th> </tr>
-<tr><td>UD_Afrikaans</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_&db=UD_Afrikaans-dev">2</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CCONJ+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=INTJ+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_&db=UD_Afrikaans-dev">255</a></td>
-</tr>
 <tr><td>UD_Bulgarian</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_&db=UD_Bulgarian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_&db=UD_Bulgarian-dev">&nbsp;</a></td>
@@ -2190,13 +2059,6 @@ Search expression: `_ >nsubj|>csubj|>nsubj:pass|>csubj:pass _ >nsubj|>csubj|>nsu
 </table>
 </div>
 <div>
-<span class="doublewidespan" style="padding-left:3em">UD_Afrikaans</span>
-<span class="widespan">257 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_+%3Ensubj%7C%3Ecsubj%7C%3Ensubj%3Apass%7C%3Ecsubj%3Apass+_&db=UD_Afrikaans-dev">Go to search</a><p/>
-</div>
-<div>
 <span class="doublewidespan" style="padding-left:3em">UD_Bulgarian</span>
 <span class="widespan">1 hits</span>
 </div>
@@ -2327,20 +2189,6 @@ Search expression: `_ >obj|>ccomp _ >obj|>ccomp _`
 <div>
 <table>
 <tr><th/> <th>ADJ</th><th>ADP</th><th>ADV</th><th>AUX</th><th>CCONJ</th><th>NOUN</th><th>PRON</th><th>PROPN</th><th>PUNCT</th><th>SCONJ</th><th>VERB</th><th>X</th> </tr>
-<tr><td>UD_Afrikaans</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Eobj%7C%3Eccomp+_+%3Eobj%7C%3Eccomp+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Eobj%7C%3Eccomp+_+%3Eobj%7C%3Eccomp+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3Eobj%7C%3Eccomp+_+%3Eobj%7C%3Eccomp+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Eobj%7C%3Eccomp+_+%3Eobj%7C%3Eccomp+_&db=UD_Afrikaans-dev">3</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CCONJ+%3Eobj%7C%3Eccomp+_+%3Eobj%7C%3Eccomp+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Eobj%7C%3Eccomp+_+%3Eobj%7C%3Eccomp+_&db=UD_Afrikaans-dev">3</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Eobj%7C%3Eccomp+_+%3Eobj%7C%3Eccomp+_&db=UD_Afrikaans-dev">4</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Eobj%7C%3Eccomp+_+%3Eobj%7C%3Eccomp+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3Eobj%7C%3Eccomp+_+%3Eobj%7C%3Eccomp+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%3Eobj%7C%3Eccomp+_+%3Eobj%7C%3Eccomp+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Eobj%7C%3Eccomp+_+%3Eobj%7C%3Eccomp+_&db=UD_Afrikaans-dev">119</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Eobj%7C%3Eccomp+_+%3Eobj%7C%3Eccomp+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-</tr>
 <tr><td>UD_Bulgarian</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Eobj%7C%3Eccomp+_+%3Eobj%7C%3Eccomp+_&db=UD_Bulgarian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Eobj%7C%3Eccomp+_+%3Eobj%7C%3Eccomp+_&db=UD_Bulgarian-dev">&nbsp;</a></td>
@@ -2566,13 +2414,6 @@ Search expression: `_ >obj|>ccomp _ >obj|>ccomp _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Eobj%7C%3Eccomp+_+%3Eobj%7C%3Eccomp+_&db=UD_Vietnamese-dev">&nbsp;</a></td>
 </tr>
 </table>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Afrikaans</span>
-<span class="widespan">129 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Eobj%7C%3Eccomp+_+%3Eobj%7C%3Eccomp+_&db=UD_Afrikaans-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Bulgarian</span>
@@ -2845,13 +2686,6 @@ Search expression: `ADP >!conj&>!cc&>!punct&>!fixed _`
 </div>
 <div>
 Hits table not produced since the query does not start with the simple token spec '_'. Please add 'expr-pos' to the test which starts with '_' that will be substituted for the various POS in the links
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Afrikaans</span>
-<span class="widespan">251 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3E%21conj%26%3E%21cc%26%3E%21punct%26%3E%21fixed+_&db=UD_Afrikaans-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Bulgarian</span>
@@ -3336,13 +3170,6 @@ Search expression: `(!ADV) <advmod _`
 Hits table not produced since the query does not start with the simple token spec '_'. Please add 'expr-pos' to the test which starts with '_' that will be substituted for the various POS in the links
 </div>
 <div>
-<span class="doublewidespan" style="padding-left:3em">UD_Afrikaans</span>
-<span class="widespan">206 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=%28%21ADV%29+%3Cadvmod+_&db=UD_Afrikaans-dev">Go to search</a><p/>
-</div>
-<div>
 <span class="doublewidespan" style="padding-left:3em">UD_Bambara</span>
 <span class="widespan">1 hits</span>
 </div>
@@ -3508,24 +3335,6 @@ Search expression: `_ <advmod (NOUN|PROPN|NUM|PRON)`
 <div>
 <table>
 <tr><th/> <th>ADJ</th><th>ADP</th><th>ADV</th><th>AUX</th><th>CCONJ</th><th>DET</th><th>INTJ</th><th>NOUN</th><th>NUM</th><th>PART</th><th>PRON</th><th>PROPN</th><th>SCONJ</th><th>SYM</th><th>VERB</th><th>X</th> </tr>
-<tr><td>UD_Afrikaans</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Afrikaans-dev">124</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CCONJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=INTJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Afrikaans-dev">7</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SYM+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Afrikaans-dev">&nbsp;</a></td>
-</tr>
 <tr><td>UD_Bambara</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Bambara-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Bambara-dev">&nbsp;</a></td>
@@ -3905,13 +3714,6 @@ Search expression: `_ <advmod (NOUN|PROPN|NUM|PRON)`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Vietnamese-dev">315</a></td>
 </tr>
 </table>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Afrikaans</span>
-<span class="widespan">131 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Afrikaans-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Bambara</span>
@@ -4440,9 +4242,6 @@ Search expression: `NUM (<!nummod&<!nmod&<!compound) _`
 <div>
 <table>
 <tr><th/> <th>NUM</th> </tr>
-<tr><td>UD_Afrikaans</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Afrikaans-dev">56</a></td>
-</tr>
 <tr><td>UD_Bambara</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Bambara-dev">1</a></td>
 </tr>
@@ -4507,13 +4306,6 @@ Search expression: `NUM (<!nummod&<!nmod&<!compound) _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Vietnamese-dev">85</a></td>
 </tr>
 </table>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Afrikaans</span>
-<span class="widespan">56 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Afrikaans-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Bambara</span>
@@ -4681,20 +4473,6 @@ Search expression: `!NUM <nummod _`
 <div>
 <table>
 <tr><th/> <th>ADJ</th><th>ADP</th><th>ADV</th><th>CCONJ</th><th>DET</th><th>NOUN</th><th>PRON</th><th>PROPN</th><th>PUNCT</th><th>SYM</th><th>VERB</th><th>X</th> </tr>
-<tr><td>UD_Afrikaans</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cnummod+_&db=UD_Afrikaans-dev">52</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Cnummod+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3Cnummod+_&db=UD_Afrikaans-dev">3</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CCONJ+%3Cnummod+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Cnummod+_&db=UD_Afrikaans-dev">211</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Cnummod+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Cnummod+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Cnummod+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3Cnummod+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SYM+%3Cnummod+_&db=UD_Afrikaans-dev">45</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Cnummod+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Cnummod+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-</tr>
 <tr><td>UD_Bulgarian</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cnummod+_&db=UD_Bulgarian-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Cnummod+_&db=UD_Bulgarian-dev">&nbsp;</a></td>
@@ -4908,13 +4686,6 @@ Search expression: `!NUM <nummod _`
 </table>
 </div>
 <div>
-<span class="doublewidespan" style="padding-left:3em">UD_Afrikaans</span>
-<span class="widespan">311 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=%21NUM+%3Cnummod+_&db=UD_Afrikaans-dev">Go to search</a><p/>
-</div>
-<div>
 <span class="doublewidespan" style="padding-left:3em">UD_Bulgarian</span>
 <span class="widespan">2 hits</span>
 </div>
@@ -5038,9 +4809,6 @@ Search expression: `AUX (<!aux&<!aux:pass) _`
 <div>
 <table>
 <tr><th/> <th>AUX</th> </tr>
-<tr><td>UD_Afrikaans</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%28%3C%21aux%26%3C%21aux%3Apass%29+_&db=UD_Afrikaans-dev">776</a></td>
-</tr>
 <tr><td>UD_Bambara</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%28%3C%21aux%26%3C%21aux%3Apass%29+_&db=UD_Bambara-dev">4</a></td>
 </tr>
@@ -5102,13 +4870,6 @@ Search expression: `AUX (<!aux&<!aux:pass) _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%28%3C%21aux%26%3C%21aux%3Apass%29+_&db=UD_Vietnamese-dev">412</a></td>
 </tr>
 </table>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Afrikaans</span>
-<span class="widespan">776 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%28%3C%21aux%26%3C%21aux%3Apass%29+_&db=UD_Afrikaans-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Bambara</span>
@@ -5269,22 +5030,6 @@ Search expression: `!AUX (<aux|<aux:pass) _`
 <div>
 <table>
 <tr><th/> <th>ADJ</th><th>ADP</th><th>ADV</th><th>CCONJ</th><th>DET</th><th>NOUN</th><th>NUM</th><th>PART</th><th>PRON</th><th>PROPN</th><th>PUNCT</th><th>SCONJ</th><th>VERB</th><th>X</th> </tr>
-<tr><td>UD_Afrikaans</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CCONJ+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Afrikaans-dev">39</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-</tr>
 <tr><td>UD_Bambara</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Bambara-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Bambara-dev">&nbsp;</a></td>
@@ -5544,13 +5289,6 @@ Search expression: `!AUX (<aux|<aux:pass) _`
 </table>
 </div>
 <div>
-<span class="doublewidespan" style="padding-left:3em">UD_Afrikaans</span>
-<span class="widespan">39 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=%21AUX+%28%3Caux%7C%3Caux%3Apass%29+_&db=UD_Afrikaans-dev">Go to search</a><p/>
-</div>
-<div>
 <span class="doublewidespan" style="padding-left:3em">UD_Bambara</span>
 <span class="widespan">4 hits</span>
 </div>
@@ -5680,13 +5418,6 @@ Search expression: `(!CCONJ&!SYM&!ADV) <cc _`
 </div>
 <div>
 Hits table not produced since the query does not start with the simple token spec '_'. Please add 'expr-pos' to the test which starts with '_' that will be substituted for the various POS in the links
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Afrikaans</span>
-<span class="widespan">54 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=%28%21CCONJ%26%21SYM%26%21ADV%29+%3Ccc+_&db=UD_Afrikaans-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Bulgarian</span>
@@ -5840,24 +5571,6 @@ Search expression: `_ < (_ <cc _)`
 <div>
 <table>
 <tr><th/> <th>ADJ</th><th>ADP</th><th>ADV</th><th>CCONJ</th><th>DET</th><th>INTJ</th><th>NOUN</th><th>NUM</th><th>PART</th><th>PRON</th><th>PROPN</th><th>PUNCT</th><th>SCONJ</th><th>SYM</th><th>VERB</th><th>X</th> </tr>
-<tr><td>UD_Afrikaans</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3C+%28_+%3Ccc+_%29&db=UD_Afrikaans-dev">2</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3C+%28_+%3Ccc+_%29&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3C+%28_+%3Ccc+_%29&db=UD_Afrikaans-dev">4</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CCONJ+%3C+%28_+%3Ccc+_%29&db=UD_Afrikaans-dev">6</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3C+%28_+%3Ccc+_%29&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=INTJ+%3C+%28_+%3Ccc+_%29&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3C+%28_+%3Ccc+_%29&db=UD_Afrikaans-dev">2</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3C+%28_+%3Ccc+_%29&db=UD_Afrikaans-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3C+%28_+%3Ccc+_%29&db=UD_Afrikaans-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3C+%28_+%3Ccc+_%29&db=UD_Afrikaans-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3C+%28_+%3Ccc+_%29&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3C+%28_+%3Ccc+_%29&db=UD_Afrikaans-dev">9</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%3C+%28_+%3Ccc+_%29&db=UD_Afrikaans-dev">9</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SYM+%3C+%28_+%3Ccc+_%29&db=UD_Afrikaans-dev">8</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3C+%28_+%3Ccc+_%29&db=UD_Afrikaans-dev">3</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3C+%28_+%3Ccc+_%29&db=UD_Afrikaans-dev">&nbsp;</a></td>
-</tr>
 <tr><td>UD_Bulgarian</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3C+%28_+%3Ccc+_%29&db=UD_Bulgarian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3C+%28_+%3Ccc+_%29&db=UD_Bulgarian-dev">&nbsp;</a></td>
@@ -6165,13 +5878,6 @@ Search expression: `_ < (_ <cc _)`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3C+%28_+%3Ccc+_%29&db=UD_Vietnamese-dev">5</a></td>
 </tr>
 </table>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Afrikaans</span>
-<span class="widespan">46 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3C+%28_+%3Ccc+_%29&db=UD_Afrikaans-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Bulgarian</span>
@@ -6741,22 +6447,6 @@ Search expression: `_ >xcomp _`
 <div>
 <table>
 <tr><th/> <th>ADJ</th><th>ADP</th><th>ADV</th><th>AUX</th><th>CCONJ</th><th>DET</th><th>NOUN</th><th>NUM</th><th>PART</th><th>PRON</th><th>PROPN</th><th>SCONJ</th><th>VERB</th><th>X</th> </tr>
-<tr><td>UD_Afrikaans</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Excomp+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Excomp+_&db=UD_Afrikaans-dev">17</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3Excomp+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Excomp+_&db=UD_Afrikaans-dev">2</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CCONJ+%3Excomp+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Excomp+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Excomp+_&db=UD_Afrikaans-dev">186</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Excomp+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3Excomp+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Excomp+_&db=UD_Afrikaans-dev">2</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Excomp+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%3Excomp+_&db=UD_Afrikaans-dev">7</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Excomp+_&db=UD_Afrikaans-dev">85</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Excomp+_&db=UD_Afrikaans-dev">&nbsp;</a></td>
-</tr>
 <tr><td>UD_Bulgarian</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Excomp+_&db=UD_Bulgarian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Excomp+_&db=UD_Bulgarian-dev">&nbsp;</a></td>
@@ -7078,13 +6768,6 @@ Search expression: `_ >xcomp _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Excomp+_&db=UD_Vietnamese-dev">2</a></td>
 </tr>
 </table>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Afrikaans</span>
-<span class="widespan">299 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Excomp+_&db=UD_Afrikaans-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Bulgarian</span>
