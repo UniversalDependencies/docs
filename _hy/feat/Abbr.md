@@ -22,7 +22,7 @@ Boolean feature. Is this an abbreviation? Note that the abbreviated word typical
   _ՀՀ (Հայաստանի Հանրապետություն)&nbsp;_ “Republic of Armenia”,
   _ՄԱԿ (Միավորված ազգերի կազմակերպություն)&nbsp;_ “United Nations Organization”,
   _բուհ (բարձրագույն ուսումնական հաստատություն)&nbsp;_ “institute of higher education”,
-  _հէկ (հիդրոէլեկտրակայան)&nbsp;_ “hydroelectric ['hai-] power station”,
+  _հէկ (հիդրոէլեկտրակայան)&nbsp;_ “hydroelectric power station”,
   _սոցապ (սոցիալական ապահովություն)&nbsp;_ “social protection”
   _շրջժողկրթբաժին (շրջանային ժողովրդական կրթության բաժին)&nbsp;_ “local education authorities”
   _ՀամԼԿԵՄ (Համամիութենական լենինյան կոմունիստական երիտասարդական միություն)&nbsp;_ “The All-Union Leninist Young Communist League” 
@@ -31,9 +31,11 @@ Boolean feature. Is this an abbreviation? Note that the abbreviated word typical
   _<b>թ</b>. (թվական)&nbsp;_ “year”,
   _<b>դդ</b>. (դարեր)&nbsp;_ “centuries”,
   _<b>օր</b>. (օրինակ)&nbsp;_ “for example”,
-  _<b>հմմտ</b>. (համեմատել, համեմատիր)&nbsp;_ “metaphor”,
   _<b>փխբ</b>. (փոխաբերություն)&nbsp;_ “metaphor”,
   _<b>հեռ</b>. (հեռախոս)&nbsp;_ “phone”
+  _<b>հմմտ</b>. (համեմատել, համեմատիր)&nbsp;_ “compare”
+  _<b>դ-ր</b> (դոկտոր)&nbsp;_ “Doctor”,
+  _<b>իմա</b> (իմացիր, այսինքն)&nbsp;_ “to be known”
 
 #### Countrexamples
 
