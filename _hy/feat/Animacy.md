@@ -14,17 +14,15 @@ udver: '2'
 </tr>
 </table>
 
-In Armenian animacy is a lexical feature of [nouns](NOUN). Armenian distinguishes three values, human vs. non-human
-animate vs. inanimate.
+In Armenian animacy is a lexical feature of [nouns](NOUN)  and inflectional feature of some [pronouns](PRON).
 
-Note that some school grammars of Armenian distinguish between inflectional `Hum` vs. `Nhum` or `Anim` vs. `Inan` features of nouns.
+Armenian distinguishes three values, human vs. non-human animate vs. inanimate: nouns that are `Hum` and inflected as human (as [obj](hy-dep/obj) in [Dat](Case)); nouns that are `Anim` or `Inan` and inflected as animate (as [obj](hy-dep/obj) in [Dat](Case)); nouns that are `Hum`, `Anim` or `Inan` and inflected as inanimate (as [obj](hy-dep/obj) in [Nom/Acc](Case)).
 
-There is another classification: nouns that are `Hum` and inflected as human (as [obj](hy-dep/obj) in [Dat](Case));
-nouns that are `Anim` or `Inan` and inflected as animate (as [obj](hy-dep/obj) in [Dat](Case)); nouns that are `Hum`, `Anim` or `Inan` and inflected as inanimate (as [obj](hy-dep/obj) in [Nom/Acc](Case)).
+Note that some school grammars of Armenian distinguish between `Hum` vs. `Nhum` or `Anim` vs. `Inan` features of nouns.
 
 ### <a name="Anim">`Anim`</a>: animate
 
-Human beings, animals, fictional characters, names of professions etc. are all animate. Even nouns that are normally inanimate can be inflected as animate if they are personified. For instance, consider a children's story about cars where cars live and talk as people; then the cars may become and be inflected as animates.
+In Armenian animate are all animals. Even nouns that are normally inanimate can be inflected as animate if they are personified. For instance, consider a children's story about cars where cars live and talk as people; then the cars may become and be inflected as animates. 
 
 - _ձի_ “horse”, _եղնիկ_ “deer”, _աղավնի_ “pigeon”
 
