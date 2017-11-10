@@ -1,0 +1,44 @@
+---
+layout: feature
+title: 'Abbr'
+shortdef: 'abbreviation'
+udver: '2'
+---
+
+<table class="typeindex" border="1">
+<tr>
+  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Yes">Yes</a></td>
+</tr>
+</table>
+
+Boolean feature. Is this an abbreviation? Note that the abbreviated word typically belongs to a part of speech other than [X]().
+
+### <a name="Yes">`Yes`</a>: it is abbreviation
+
+#### Examples
+
+* Acronyms:
+  _ՀՀ (Հայաստանի Հանրապետություն)&nbsp;_ “Republic of Armenia”,
+  _ՄԱԿ (Միավորված ազգերի կազմակերպություն)&nbsp;_ “United Nations Organization”,
+  _բուհ (բարձրագույն ուսումնական հաստատություն)&nbsp;_ “institute of higher education”,
+  _հէկ (հիդրոէլեկտրակայան)&nbsp;_ “hydroelectric ['hai-] power station”,
+  _սոցապ (սոցիալական ապահովություն)&nbsp;_ “social protection”
+  _շրջժողկրթբաժին (շրջանային ժողովրդական կրթության բաժին)&nbsp;_ “local education authorities”
+  _ՀամԼԿԵՄ (Համամիութենական լենինյան կոմունիստական երիտասարդական միություն)&nbsp;_ “The All-Union Leninist Young Communist League” 
+* Initials: _<b>Հովհ</b>., <b>Թ</b>., <b>Հր</b>., <b>Ք</b>., <b>Վ</b>., <b>Տ</b>._
+* Abbreviations:
+  _<b>թ</b>. (թվական)&nbsp;_ “year”,
+  _<b>դդ</b>. (դարեր)&nbsp;_ “centuries”,
+  _<b>օր</b>. (օրինակ)&nbsp;_ “for example”,
+  _<b>հմմտ</b>. (համեմատել, համեմատիր)&nbsp;_ “metaphor”,
+  _<b>փխբ</b>. (փոխաբերություն)&nbsp;_ “metaphor”,
+  _<b>հեռ</b>. (հեռախոս)&nbsp;_ “phone”
+
+#### Countrexamples
+
+Note that some Russian acronyms are loan words in Armenian:
+  _ՏԱՍՍ (Телеграфное агентство Советского Союза)&nbsp; “TASS, Telegraph Agency of the Soviet Union”,
+  _զագս (запись актов гражданского состояния)&nbsp; “registry office”,
+  _սովխոզ (советское хозяйство)&nbsp; “state farm, sovkhoz”
+  
