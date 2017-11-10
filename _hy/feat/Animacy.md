@@ -8,9 +8,9 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Anim">Anim</a></td>
   <td><a href="#Hum">Hum</a></td>
   <td><a href="#Inan">Inan</a></td>
+  <td><a href="#Nhum">Nhum</a></td>
 </tr>
 </table>
 
@@ -27,13 +27,13 @@ There is antother classifaction:
 
 ### <a name="Inan">`Inan`</a>: inanimate
 
-Nouns that are not animate are inanimate. Even nouns that are normally inanimate can be inflected as animate if they are personified. For instance, consider a children's story about cars where cars live and talk as people; then the cars may become and be inflected as humans.
+Nouns that are not animate are inanimate. Even nouns that are normally inanimate can be inflected as animate if they are personified. For instance, consider a children's story about cars where cars live and talk as people; then the cars may become and be inflected as animates.
 
 - _տարի_ “year”, _օրենք_ “law”, _պետություն_ “state”, _լեռ_ “mountain”, _ծառ_ “tree”
 
 ### <a name="Hum">`Hum`</a>: human
 
-Human beings, fictional characters, names of professions etc. but not animals are all humans.
+Human beings, fictional characters, names of professions etc. (but not animals) are all humans.
 
 - _մարդ_ “man”, _երեխա_ “child”, _աղջիկ_ “girl”, _ամուսին_ “husband”, _ուսուցիչ_ “teacher”, _նախագահ_ “president”, _տնօրեն_ “director”
 
