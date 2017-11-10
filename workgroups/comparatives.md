@@ -746,6 +746,23 @@ A Czech example:
 
 ~~~
 
+In some languages, ellipsis in comparative clauses may involve patterns similar to gapping in coordination.
+The literal translation of the following Swedish example would be _Dan plays badminton better than Joakim tennis._
+Such comparative gapping is analyzed using the [orphan]() relation, much like the more widespread coordinate
+gapping:
+
+~~~ conllu
+1	Dan	Dan	PROPN	_	Case=Nom|Gender=Com|Number=Sing	2	nsubj	_	Gloss=Dan
+2	spelar	spela	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Gloss=plays
+3	badminton	badminton	NOUN	_	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	2	obj	_	Gloss=badminton
+4	bättre	bra	ADV	_	Degree=Cmp	2	advmod	_	Gloss=better
+5	än	än	SCONJ	_	_	6	mark	_	Gloss=than
+6	Joakim	Joakim	PROPN	_	Case=Nom|Gender=Com|Number=Sing	4	advcl	_	Gloss=Joakim
+7 tennis  tennis  NOUN  _ Case=Nom|Definite=Ind|Gender=Com|Number=Sing  6 orphan  _ Gloss=tennis|SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+~~~
+
 ## “More than” as a Multi-Word Expression
 
 In certain contexts the comparative complement combines both the action or
