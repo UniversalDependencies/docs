@@ -27,13 +27,13 @@ There is antother classifaction:
 
 ### <a name="Inan">`Inan`</a>: inanimate
 
-Nouns that are not animate are inanimate. Even nouns that are normally inanimate can be inflected as animate if they are personified. For instance, consider a children's story about cars where cars live and talk as people; then the cars may become and be inflected as animates. 
+Nouns that are not animate are inanimate. Even nouns that are normally inanimate can be inflected as animate if they are personified. For instance, consider a children's story about cars where cars live and talk as people; then the cars may become and be inflected as humans.
 
 - _տարի_ “year”, _օրենք_ “law”, _պետություն_ “state”, _լեռ_ “mountain”, _ծառ_ “tree”
 
 ### <a name="Hum">`Hum`</a>: human
 
-A subset of animates that includes human beings (and fictional characters, names of professions etc.) but not animals.
+Human beings, fictional characters, names of professions etc. but not animals are all humans.
 
 - _մարդ_ “man”, _երեխա_ “child”, _աղջիկ_ “girl”, _ամուսին_ “husband”, _ուսուցիչ_ “teacher”, _նախագահ_ “president”, _տնօրեն_ “director”
 
