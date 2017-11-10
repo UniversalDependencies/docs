@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-09T16:02:43Z">2017-11-09T16:02:43 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-10T09:24:53Z">2017-11-10T09:24:53 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1175,7 +1175,7 @@ python tools/validate.py --lang en_partut UD-dev-branches/UD_English-ParTUT/en_p
 <span class="doublewidespan" style="padding-left:3em">UD Erzya</span>
 <span class="widespan">myv</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-08T16:49:08Z">2017-11-08T16:49:08 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-10T09:24:53Z">2017-11-10T09:24:53 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1393,15 +1393,13 @@ UnboundLocalError: local variable 'cols' referenced before assignment
 [Line                   160]: Unknown UD DEPREL: nmod:poss
 [Line                   174]: Invalid DEPREL value _
 [Line                   174]: Unknown UD DEPREL: _
-[Line                   176]: Invalid DEPREL value _
-[Line                   176]: Unknown UD DEPREL: _
 [Line                   177]: Unknown UD DEPREL: nmod:instr
-[Line                   181]: Undefined ID in HEAD: _
 [Line                   181]: Undefined ID in HEAD: _
 [Line                   181]: Undefined ID in HEAD: conj
 [Tree number 14 on line 168]: Empty head for word ID 7
-[Tree number 14 on line 168]: Empty head for word ID 9
 [Tree number 14 on line 168]: Non-integer head for word ID 12
+[Tree number 14 on line 168]: Non-tree structure. Words 7,8,9,10,11,12 are not reachable from the root 0.
+[Line                   200]: Unknown UD DEPREL: nmod:abs
 ...suppressing further errors regarding Syntax
 [Line                   391]: Undefined ID in HEAD: _
 [Tree number 27 on line 378]: Empty head for word ID 4
@@ -1412,13 +1410,121 @@ UnboundLocalError: local variable 'cols' referenced before assignment
 [Line                   893]: Undefined ID in HEAD: _
 [Tree number 62 on line 882]: Empty head for word ID 6
 [Line                   1027]: Spurious empty line.
-[Line                   1056]: Missing empty line after the last tree.
-[Line                   1056]: Exception caught!
-*** FAILED *** with 1711 errors
-Format errors: 17
-Metadata errors: 380
-Morpho errors: 1207
+[Line                   1126]: The line has 1 columns, but 10 are expected.
+[Line                   1126]: White space not allowed in the ID column: '1       «       «       CLB     _       _       2       punct   _       _'
+[Line                   1126]: Unexpected ID format 1       «       «       CLB     _       _       2       punct   _       _
+[Line                   1127]: The line has 1 columns, but 10 are expected.
+[Line                   1127]: White space not allowed in the ID column: '2       Ансяк   ансяк   Adv     _       _       0       root    _       Gloss[eng]=but'
+[Line                   1127]: Unexpected ID format 2       Ансяк   ансяк   Adv     _       _       0       root    _       Gloss[eng]=but
+...suppressing further errors regarding Format
+*** FAILED *** with 1832 errors
+Format errors: 26
+Metadata errors: 409
+Morpho errors: 1290
 Syntax errors: 107
+The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.myv does not exist.
+The language-specific file /home/ginter/UD_PROJHOOK/tools/data/feat_val.myv does not exist.
+python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PROJHOOK/tools/data/feat_val.myv
+
+
+******************
+
+python tools/validate.py --lang myv UD-dev-branches/UD_Erzya/myv_KutorkinAndrej_LazhnicyaSuraII_1976_Pers_Part01-Chap01.conlluTraceback (most recent call last):
+  File "tools/validate.py", line 735, in &lt;module&gt;
+    validate(inp,out,args,tagsets,known_sent_ids)
+  File "tools/validate.py", line 625, in validate
+    validate_text_meta(comments,tree)
+  File "tools/validate.py", line 165, in validate_text_meta
+    if u"NoSpaceAfter=Yes" in cols[MISC]:
+IndexError: list index out of range
+
+
+
+[Line                   33]: Morphological features must be sorted: 'Number=Sing|Case=Nom|Definite=Def'
+[Line                   33]: Unknown UD DEPREL: nsubj:cop
+[Line                   34]: Morphological features must be sorted: 'Valency=1|Mood=Ind|Tense=Prt1|Number[subj]=Sing|Person[subj]=3'
+[Line                   34]: Unknown attribute-value pair Valency=1
+[Line                   34]: Unknown attribute-value pair Tense=Prt1
+[Line                   34]: Unknown attribute-value pair Number[subj]=Sing
+[Line                   34]: Unknown attribute-value pair Person[subj]=3
+[Line                   35]: Morphological features must be sorted: 'Number=Sing,Plur|Case=Gen|Definite=Ind'
+[Line                   35]: If an attribute has multiple values, these must be sorted as well: 'Number=Sing,Plur'
+[Line                   35]: Unknown UD DEPREL: nmod:poss
+[Line                   36]: Morphological features must be sorted: 'Number=Sing|Case=Nom|Definite=Ind'
+[Line                   38]: Spurious sent_id line: '#sent_id = partID1:chapID1:paragID1:sentID1: pgNo="5"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   38]: Missing the sent_id attribute.
+[Line                   38]: SpaceAfter=No is missing in the MISC field of node #4 because the text is 'сочельник.'
+[Line                   41]: Morphological features must be sorted: 'Valency=2|Mood=Ind|Tense=Prt1|Number[subj]=Sing|Person[subj]=3'
+[Line                   41]: Unknown attribute-value pair Valency=2
+[Line                   41]: Unknown attribute-value pair Tense=Prt1
+[Line                   41]: Unknown attribute-value pair Number[subj]=Sing
+[Line                   41]: Unknown attribute-value pair Person[subj]=3
+[Line                   42]: Spurious morphological feature: 'Attr'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   43]: Morphological features must be sorted: 'Number=Sing|Case=Nom|Definite=Ind'
+[Line                   45]: Morphological features must be sorted: 'Number=Sing|Case=Nom|Definite=Ind'
+[Line                   46]: Morphological features must be sorted: 'Number=Sing,Plur|Case=Gen|Definite=Ind'
+[Line                   46]: If an attribute has multiple values, these must be sorted as well: 'Number=Sing,Plur'
+...suppressing further errors regarding Morpho
+[Line                   50]: Unknown UD DEPREL: nmod:poss
+[Line                   53]: Spurious sent_id line: '#sent_id = partID1:chapID1:paragID1:sentID2: pgNo="5"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   53]: Missing the sent_id attribute.
+[Line                   53]: SpaceAfter=No is missing in the MISC field of node #11 because the text is 'ломанть.'
+[Line                   66]: Spurious sent_id line: '#sent_id = partID1:chapID1:paragID2:sentID1: pgNo="5"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   66]: Missing the sent_id attribute.
+[Line                   66]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'ланга, прок лайшесь.'
+[Line                   66]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'лайшесь.'
+[Line                   69]: Unknown UD DEPREL: nmod:poss
+[Line                   74]: Spurious sent_id line: '#sent_id = partID1:chapID1:paragID3:sentID1: pgNo="5"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   74]: Missing the sent_id attribute.
+[Line                   74]: SpaceAfter=No is missing in the MISC field of node #4 because the text is 'сыль.'
+[Line                   80]: Unknown UD DEPREL: flat:name
+[Line                   81]: Unknown UD DEPREL: nmod:poss
+[Line                   84]: Spurious sent_id line: '#sent_id = partID1:chapID1:paragID3:sentID2: pgNo="5"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   84]: Missing the sent_id attribute.
+[Line                   84]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'Груня.'
+[Line                   89]: Unknown UD DEPREL: nmod:poss
+[Line                   92]: Unknown UD DEPREL: nmod:poss
+[Line                   101]: Spurious sent_id line: '#sent_id = partID1:chapID1:paragID3:sentID3: pgNo="5"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   101]: Missing the sent_id attribute.
+[Line                   101]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'пилензэ, теке бокава[...]'
+...suppressing further errors regarding Metadata
+[Line                   130]: Unknown UD DEPREL: nmod:poss
+[Line                   136]: Invalid DEPREL value 7
+[Line                   136]: Failed for parse DEPS: punct
+[Line                   136]: Unknown UD DEPREL: 7
+[Line                   136]: Malformed head:deprel pair 'punct'
+[Line                   137]: Invalid DEPREL value _
+[Line                   137]: Unknown UD DEPREL: _
+[Line                   141]: Invalid DEPREL value _
+[Line                   141]: Unknown UD DEPREL: _
+[Line                   149]: Undefined ID in HEAD: _
+[Line                   149]: Failed for parse DEPS: punct
+[Line                   149]: Undefined ID in HEAD: _
+[Line                   149]: Undefined ID in HEAD: _
+[Line                   149]: Failed to parse DEPS: punct
+[Tree number 9 on line 129]: Empty head for word ID 8
+[Tree number 9 on line 129]: Empty head for word ID 9
+[Tree number 9 on line 129]: Empty head for word ID 13
+[Tree number 9 on line 129]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20 are not reachable from the root 0.
+[Line                   161]: Unknown UD DEPREL: aux:subj
+...suppressing further errors regarding Syntax
+[Line                   369]: Undefined ID in HEAD: _
+[Tree number 26 on line 356]: Empty head for word ID 4
+[Line                   498]: Undefined ID in HEAD: _
+[Line                   498]: Failed for parse DEPS: punct
+[Line                   498]: Failed to parse DEPS: punct
+[Tree number 37 on line 486]: Empty head for word ID 10
+[Tree number 44 on line 566]: HEAD == ID for 2
+[Line                   712]: Undefined ID in HEAD: nmod:poss
+[Tree number 55 on line 694]: Non-integer head for word ID 7
+[Line                   912]: Undefined ID in HEAD: obj
+[Tree number 71 on line 900]: Non-integer head for word ID 11
+...suppressing further errors regarding Format
+*** FAILED *** with 3013 errors
+Format errors: 39
+Metadata errors: 529
+Morpho errors: 2317
+Syntax errors: 128
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.myv does not exist.
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/feat_val.myv does not exist.
 python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PROJHOOK/tools/data/feat_val.myv
