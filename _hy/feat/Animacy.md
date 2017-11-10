@@ -16,7 +16,7 @@ udver: '2'
 
 In Armenian animacy is a lexical feature of [nouns](NOUN)  and inflectional feature of some [pronouns](PRON).
 
-Armenian distinguishes three values, human vs. non-human animate vs. inanimate: nouns that are `Hum` and inflected as human (as [obj](hy-dep/obj) in [Dat](Case)); nouns that are `Anim` or `Inan` and inflected as animate (as [obj](hy-dep/obj) in [Dat](Case)); nouns that are `Hum`, `Anim` or `Inan` and inflected as inanimate (as [obj](hy-dep/obj) in [Nom/Acc](Case)).
+Armenian distinguishes three values, human vs. (non-human) animate vs. inanimate: nouns that are human and inflected as `Hum` (as [obj](hy-dep/obj) in [Dat](Case)); nouns that are animate or inanimate and inflected as `Anim` (as [obj](hy-dep/obj) in [Dat](Case)); nouns that are human, animate or inanimate and inflected as `Inan` (as [obj](hy-dep/obj) in [Nom/Acc](Case)).
 
 Note that some school grammars of Armenian distinguish between `Hum` vs. `Nhum` or `Anim` vs. `Inan` features of nouns.
 
