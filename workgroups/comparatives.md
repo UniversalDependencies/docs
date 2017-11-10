@@ -747,7 +747,7 @@ A Czech example:
 ~~~
 
 In some languages, ellipsis in comparative clauses may involve patterns similar to gapping in coordination.
-The literal translation of the following Swedish example would be _Dan plays badminton better than Joakim tennis._
+The literal translation of the following Swedish [sv] example would be _Dan plays badminton better than Joakim tennis._
 Such comparative gapping is analyzed using the [orphan]() relation, much like the more widespread coordinate
 gapping:
 
@@ -758,7 +758,7 @@ gapping:
 4	bättre	bra	ADV	_	Degree=Cmp	2	advmod	_	Gloss=better
 5	än	än	SCONJ	_	_	6	mark	_	Gloss=than
 6	Joakim	Joakim	PROPN	_	Case=Nom|Gender=Com|Number=Sing	4	advcl	_	Gloss=Joakim
-7 tennis  tennis  NOUN  _ Case=Nom|Definite=Ind|Gender=Com|Number=Sing  6 orphan  _ Gloss=tennis|SpaceAfter=No
+7	tennis	tennis	NOUN	_	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	6	orphan	_	Gloss=tennis|SpaceAfter=No
 8	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 ~~~
