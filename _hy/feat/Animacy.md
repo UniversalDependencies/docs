@@ -21,15 +21,9 @@ See also the related feature of [Definite]().
 Note that some school grammars of Armenian distinguish between lexical `Hum` vs. `Nhum` or `Anim` vs. `Inan` features of nouns.
 
 There is antother classifaction:
-- nouns that are human and inflected as `Hum` (as [obj](hy-dep/obj) in [Dat](Case)),
-- nouns that are animate or inanimate and inflected as `Anim` (as [obj](hy-dep/obj) in [Dat](Case)),
-- nouns that are human, animate or inanimate and inflected as `Inan` (as [obj](hy-dep/obj) in [Nom/Acc](Case)).
-
-### <a name="Inan">`Inan`</a>: inanimate
-
-Nouns that are not animate are inanimate. Even nouns that are normally inanimate can be inflected as animate if they are personified. For instance, consider a children's story about cars where cars live and talk as people; then the cars may become and be inflected as animates.
-
-- _տարի_ “year”, _օրենք_ “law”, _պետություն_ “state”, _լեռ_ “mountain”, _ծառ_ “tree”
+* nouns that are human and inflected as `Hum` (as [obj](hy-dep/obj) in [Dat](Case)),
+* nouns that are animate or inanimate and inflected as `Anim` (as [obj](hy-dep/obj) in [Dat](Case)),
+* nouns that are human, animate or inanimate and inflected as `Inan` (as [obj](hy-dep/obj) in [Nom/Acc](Case)).
 
 ### <a name="Hum">`Hum`</a>: human
 
@@ -42,3 +36,9 @@ Human beings, fictional characters, names of professions etc. (but not animals) 
 This value is used only for non-human animates (only animals).
 
 - _ձի_ “horse”, _կով_ “cow”, _առյուծ_ “lion”, _արագիլ_ “stork”, _ձուկ_ “fish”
+
+### <a name="Inan">`Inan`</a>: inanimate
+
+Nouns that are not animate are inanimate. Even nouns that are normally inanimate can be inflected as animate if they are personified. For instance, consider a children's story about cars where cars live and talk as people; then the cars may become and be inflected as animates.
+
+- _տարի_ “year”, _օրենք_ “law”, _պետություն_ “state”, _լեռ_ “mountain”, _ծառ_ “tree”
