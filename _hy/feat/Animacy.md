@@ -22,7 +22,7 @@ Note that some school grammars of Armenian distinguish between `Hum` vs. `Nhum` 
 
 ### <a name="Anim">`Anim`</a>: animate
 
-In Armenian animate are all animals. Even nouns that are normally inanimate can be inflected as animate if they are personified. For instance, consider a children's story about cars where cars live and talk as people; then the cars may become and be inflected as animates. 
+Animals, fictional characters, names of professions etc. are all animate. Even nouns that are normally inanimate can be inflected as animate if they are personified. For instance, consider a children's story about cars where cars live and talk as people; then the cars may become and be inflected as animates. 
 
 - _ձի_ “horse”, _եղնիկ_ “deer”, _աղավնի_ “pigeon”
 
@@ -34,6 +34,6 @@ Nouns that are not animate are inanimate.
 
 ### <a name="Hum">`Hum`</a>: human
 
-A subset of animates that only includes human beings (personified characters, fictional characters, names of professions etc.) but not animals.
+A subset of animates that only includes human beings (and names of professions etc.) but not animals.
 
 - _մարդ_ “man”, _նախարար_ “minister”, _նախագահ_ “president”, _տնօրեն_ “director”, _ճարտարապետ_ “architect”
