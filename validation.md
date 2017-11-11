@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-11T13:03:12Z">2017-11-11T13:03:12 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-11T13:03:25Z">2017-11-11T13:03:25 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1646,7 +1646,7 @@ python tools/validate.py --lang fi_ftb UD-dev-branches/UD_Finnish-FTB/fi_ftb-ud-
 <span class="doublewidespan" style="padding-left:3em">UD Finnish-PUD</span>
 <span class="widespan">fi pud</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:09:16Z">2017-11-03T14:09:16 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-11T13:03:24Z">2017-11-11T13:03:24 zulu</time></span>
 </div>
 <div>
 <pre>
