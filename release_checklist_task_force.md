@@ -23,9 +23,8 @@ See [here](release_checklist.html) for the checklist for data contributors.
   * The release script must know the list of treebanks that are included in the shared task. Only these treebanks will have the detokenized and predicted versions mentioned above. Only these treebanks will be also checked again that their repository does not contain the test data. The remaining treebanks are allowed to include test data.
 * Update statistics in the `stats.xml` file in each repository:<br />
   <code>for i in UD_* ; do echo $i ; cd $i ; ( cat *.conllu | ../tools/conllu-stats.pl > stats.xml ) ; git add stats.xml ; git commit -m 'Updated statistics.' ; git push ; cd .. ; echo ; done</code>
-* Run the same script again (but with different settings) and generate the long statistics that are displayed in the docs:
-  This time the script is run for every language (not every treebank):<br />
-  <code>for l in ar be bg ca cop cs cu da de el en es et eu fa fi fr ga gl got grc he hi hr hu id it ja kk ko la lt lv nl no pl pt ro ru sa sk sl sv ta tr ug uk ur vi zh ; do perl tools/conllu-stats.pl --detailed --data . --docs docs --lang $l ; done ; cd docs ; git add --all _includes/stats ; git commit -m 'Updated statistics.' ; git push</code>
+* Run the same script again (but with different settings) and generate the long statistics that are displayed in the docs:<br />
+  <code>cd docs ; git pull --no-edit ; cd .. ; for i in UD_* ; do echo $i ; tools/conllu-stats.pl --oformat newdetailed --treebank $i --docs docs ; echo ; done ; cd docs ; git add treebanks/*/*.md ; git commit -m 'Updated statistics.' ; git push ; cd ..</code>
 * Merge the `dev` branch into `master` in every UD_* repository.
   The `master` branch should not be touched the next six months and it should have exactly the contents that was officially
   released. In fact, the individual data providers should never commit anything to the `master` branch, only to `dev` branch.
