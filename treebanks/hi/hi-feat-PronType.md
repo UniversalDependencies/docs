@@ -62,7 +62,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
   <tr><td><tt><tt><a href="hi-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hi-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>यह</td><td></td></tr>
   <tr><td><tt><tt><a href="hi-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hi-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>यह, यही, इस, इसे</td><td>यह</td></tr>
   <tr><td><tt><tt><a href="hi-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hi-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td>ये</td><td></td></tr>
-  <tr><td><tt><tt><a href="hi-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hi-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hi-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>ये, यह, वे</td><td></td></tr>
+  <tr><td><tt><tt><a href="hi-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hi-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hi-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>ये, वे, यह</td><td></td></tr>
 </table>
 
 `PronType` seems to be **lexical feature** of `PRON`. 95% lemmas (62) occur only with one value of `PronType`.
@@ -82,7 +82,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 <table>
   <tr><th>Paradigm <i>कौन</i></th><th><tt>Int</tt></th><th><tt>Dem</tt></th></tr>
-  <tr><td><tt>_</tt></td><td>किस, कौन, किन</td><td></td></tr>
+  <tr><td><tt>_</tt></td><td>किस, किन, कौन</td><td></td></tr>
   <tr><td><tt><tt><a href="hi-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td>किस</td><td></td></tr>
   <tr><td><tt><tt><a href="hi-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hi-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>किस</td><td></td></tr>
   <tr><td><tt><tt><a href="hi-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hi-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hi-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>किन</td><td>किन</td></tr>

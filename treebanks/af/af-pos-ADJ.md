@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Afrikaans: POS Tags: `ADJ`
 
-There are 775 `ADJ` lemmas (14%), 877 `ADJ` types (14%) and 3172 `ADJ` tokens (6%).
-Out of 16 observed tags, the rank of `ADJ` is: 2 in number of lemmas, 3 in number of types and 8 in number of tokens.
+There are 778 `ADJ` lemmas (14%), 886 `ADJ` types (14%) and 3172 `ADJ` tokens (6%).
+Out of 16 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 8 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: ander nasionaal Suid-Afrikaans nodig groot openbaar maatskaplik nuut plaaslik voorlopig
 
@@ -22,7 +22,7 @@ The 10 most frequent ambiguous types:  ander (<tt><a href="af-pos-ADJ.html">ADJ<
   * <tt><a href="af-pos-ADJ.html">ADJ</a></tt> 117: Die GCIS kan gerieflikheidshalwe skakels met <b>ander</b> webwerwe verskaf .
   * <tt><a href="af-pos-PRON.html">PRON</a></tt> 13: Sommige assesseringskodes is meer gepas vir sekere doeleindes as <b>ander</b> .
 * nodig
-  * <tt><a href="af-pos-ADJ.html">ADJ</a></tt> 32: In hierdie opsig sal ons , waar <b>nodig</b> , kreatiewe maniere vind om fondse in te samel .
+  * <tt><a href="af-pos-ADJ.html">ADJ</a></tt> 32: Vul die vorm in hoofletters en drukskrif in en verskaf 'n geskrewe motivering waar <b>nodig</b> .
   * <tt><a href="af-pos-ADV.html">ADV</a></tt> 15: Hulp <b>nodig</b> met probleme wat op die webtuiste ervaar word ?
 * eerste
   * <tt><a href="af-pos-ADJ.html">ADJ</a></tt> 29: Verlede jaar het ons ons <b>eerste</b> resessie in 17 jaar ervaar .
@@ -51,13 +51,13 @@ The 10 most frequent ambiguous types:  ander (<tt><a href="af-pos-ADJ.html">ADJ<
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.131613 (the average of all parts of speech is 1.120202).
+The form / lemma ratio of `ADJ` is 1.138817 (the average of all parts of speech is 1.122045).
 
-The 1st highest number of forms (4) was observed with the lemma “doeltreffend”: doeltreffend, doeltreffende, doeltreffender, doeltreffendste.
+The 1st highest number of forms (5) was observed with the lemma “hoog”: hoog, hoogste, hoÃ«r, hoë, hoër.
 
-The 2nd highest number of forms (4) was observed with the lemma “goed”: beste, beter, goed, goeie.
+The 2nd highest number of forms (4) was observed with the lemma “doeltreffend”: doeltreffend, doeltreffende, doeltreffender, doeltreffendste.
 
-The 3rd highest number of forms (4) was observed with the lemma “hoog”: hoog, hoogste, hoë, hoër.
+The 3rd highest number of forms (4) was observed with the lemma “goed”: beste, beter, goed, goeie.
 
 `ADJ` occurs with 3 features: <tt><a href="af-feat-AdjType.html">AdjType</a></tt> (3172; 100% instances), <tt><a href="af-feat-Case.html">Case</a></tt> (3172; 100% instances), <tt><a href="af-feat-Degree.html">Degree</a></tt> (3172; 100% instances)
 

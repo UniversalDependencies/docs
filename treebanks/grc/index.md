@@ -12,7 +12,7 @@ udver: '2'
 # UD Ancient Greek
 
 Language: [Ancient Greek](../grc/overview/grc-hub.html) (code: `grc`)<br/>
-Family: Indo-European, Hellenic
+Family: Indo-European, Greek
 
 This treebank has been part of Universal Dependencies since the UD v2.0 release.
 
@@ -39,7 +39,87 @@ If you want to collaborate, please contact [celano&nbsp;(æt)&nbsp;informatik&nb
 
 ## Description
 
+This Universal Dependencies Ancient Greek Treebank consists of an automatic
+conversion of a selection of passages from the Ancient Greek and Latin
+Dependency Treebank 2.1
+
+
+
+The current UD treebank derives from texts taken from
+the Ancient Greek and Latin Dependency Treebank 2.1 available at
+
+* https://github.com/PerseusDL/treebank_data/tree/master/v2.1/Greek
+
+The original data have been semi-automatically annotated. More precisely,
+morphological annotation and lemmatization have been performed with the help of
+the Morpheus morphological analyzer, while syntactic annotation has been done
+manually. The following guidelines have been followed:
+
+* http://nlp.perseus.tufts.edu/syntax/treebank/agdt/1.7/docs/guidelines.pdf
+* https://github.com/PerseusDL/treebank_data/tree/master/AGDT2/guidelines
+
+Further details can be found at:
+
+* https://github.com/PerseusDL/treebank_data/tree/master/v2.1/Greek
+
+The release contains parts of the following works:
+
+| author | work |
+| --- | --- |
+| Aesop | Fabulae |
+| Aeschylus | Agamemnon |
+| Aeschylus | Eumenides |
+| Aeschylus | Libation Bearers |
+| Aeschylus | Prometheus Bound |
+| Aeschylus | Persians |
+| Aeschylus | Seven Against Thebes |
+| Aeschylus | Supplian Women |
+| Anonymous | Hymn to Demeter |
+| Apollodorus | Library |
+| Athenaeus | The Deipnosophists |
+| Diodorus Siculus | Bibliotheca Historica |
+| Herodotus | Histories |
+| Hesiod | Shield of Heracles |
+| Hesiod | Theogony |
+| Hesiod | Works and Days |
+| Homer | Iliad |
+| Lysias | Against Pancleon |
+| Lysias | Alcybiades 1 |
+| Lysias | Alcybiades 2 |
+| Lysias | On the Murder of Eratosthenes |
+| Plutarch | Alcibiades |
+| Plutarch | Lycurgus |
+| Plybius | Histories |
+| Pseudo-Homer | Hymn to Demeter |
+| Sophocles | Ajax |
+| Sophocles | Antigone |
+| Sophocles | Electra |
+| Sophocles | Oedipus Tyrannus |
+| Sophocles | Trachinae |
+| Thucydides | Histories |
+
 ## Acknowledgments
+
+The current UD data have been converted by Giuseppe G. A. Celano.
+
+The Ancient Greek and Latin treebank is a result of a joint effort between
+Tufts University and Leipzig University (DH) under the supervision of Prof.
+Gregory Crane. Current editors of the treebank are Giuseppe G. A. Celano,
+Gregory Crane, and Bridget Almas.
+
+Authors of the annotations are (in alphabetical order):
+
+Giuseppe G. A. Celano, J. F. Gentile, Robert Gorman, Vanessa Gorman,
+Jordan Hawkesworth, Yoana Ivanova, Tovah Keynton, Florin Leonte, Alex Lessie,
+Daniel Lim Libatique, Meg Luthin, Francesco Mambrini, George Matthews,
+Jack Mitchell, Molly Miller, Jessica Nord, Sean Stewart, Anthony D. Yates,
+Polina Yordanova, and Sam Zukoff.
+
+Further details can be found at:
+
+* http://perseusdl.github.io/treebank_data/
+
+
 # Statistics of UD Ancient Greek
 
 ## POS Tags

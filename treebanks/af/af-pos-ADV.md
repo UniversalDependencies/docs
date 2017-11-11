@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Afrikaans: POS Tags: `ADV`
 
-There are 342 `ADV` lemmas (6%), 357 `ADV` types (6%) and 2034 `ADV` tokens (4%).
+There are 343 `ADV` lemmas (6%), 359 `ADV` types (6%) and 2034 `ADV` tokens (4%).
 Out of 16 observed tags, the rank of `ADV` is: 4 in number of lemmas, 4 in number of types and 9 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: nie ook in saam nog uit aan egter reeds slegs
@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  nie (<tt><a href="af-pos-PART.html">PART<
   * <tt><a href="af-pos-NOUN.html">NOUN</a></tt> 1: As 'n individu 'n belasbare inkomste verdien wat nie onderworpe is aan aftrekkings vir standaard inkomstebelasting op werknemers ( SIBW ) of die lopende betaalstelsel ( LBS ) , ( bv. rente , huur of besigheidsinkomste ) nie , moet hy of sy voorlopige belasting <b>op</b> hierdie inkomste betaal .
 * so
   * <tt><a href="af-pos-ADV.html">ADV</a></tt> 16: Jou aansoek sal <b>so</b> gou en doeltreffend as moontlik hanteer word .
-  * <tt><a href="af-pos-SCONJ.html">SCONJ</a></tt> 16: Daarom is die groeikoers van uitvoere nie <b>so</b> hoog soos in vergelykbare lande nie .
+  * <tt><a href="af-pos-SCONJ.html">SCONJ</a></tt> 16: Die addisionele taal behoort <b>so</b> vroeg moontlik as vak bekendgestel te word .
 * af
   * <tt><a href="af-pos-ADV.html">ADV</a></tt> 18: Dit hang ook <b>af</b> van die onderwyser se professionele oordeel .
   * <tt><a href="af-pos-ADP.html">ADP</a></tt> 10: In daardie geval beveel ons aan dat jy dit na jou rekenaar aflaai en liewer van daar <b>af</b> oopmaak .
@@ -44,7 +44,7 @@ The 10 most frequent ambiguous types:  nie (<tt><a href="af-pos-PART.html">PART<
   * <tt><a href="af-pos-ADV.html">ADV</a></tt> 15: Jou aansoek sal so gou en <b>doeltreffend</b> as moontlik hanteer word .
   * <tt><a href="af-pos-ADJ.html">ADJ</a></tt> 1: Soos wat die agbare lede weet , is sommige van hierdie inisiatiewe alreeds van stapel gestuur ; maar ons is seker dat indien dit op 'n geïntegreerde en aanvullende wyse uitgevoer word , die uitwerking daarvan baie meer <b>doeltreffend</b> sal wees in die bekamping van misdaad .
 * nodig
-  * <tt><a href="af-pos-ADJ.html">ADJ</a></tt> 32: In hierdie opsig sal ons , waar <b>nodig</b> , kreatiewe maniere vind om fondse in te samel .
+  * <tt><a href="af-pos-ADJ.html">ADJ</a></tt> 32: Vul die vorm in hoofletters en drukskrif in en verskaf 'n geskrewe motivering waar <b>nodig</b> .
   * <tt><a href="af-pos-ADV.html">ADV</a></tt> 15: Hulp <b>nodig</b> met probleme wat op die webtuiste ervaar word ?
 * duidelik
   * <tt><a href="af-pos-ADV.html">ADV</a></tt> 13: Al die betrokke leerders en onderwysers moet ook die doel van die assessering <b>duidelik</b> verstaan .
@@ -52,13 +52,13 @@ The 10 most frequent ambiguous types:  nie (<tt><a href="af-pos-PART.html">PART<
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.043860 (the average of all parts of speech is 1.120202).
+The form / lemma ratio of `ADV` is 1.046647 (the average of all parts of speech is 1.122045).
 
 The 1st highest number of forms (3) was observed with the lemma “baie”: meer, mees, meeste.
 
 The 2nd highest number of forms (3) was observed with the lemma “ver”: ver, verder, verre.
 
-The 3rd highest number of forms (2) was observed with the lemma “algemeen”: algemeen, algemene.
+The 3rd highest number of forms (3) was observed with the lemma “vroeg”: vroeg, vroeÃ«r, vroeër.
 
 `ADV` occurs with 1 features: <tt><a href="af-feat-Degree.html">Degree</a></tt> (2034; 100% instances)
 

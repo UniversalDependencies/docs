@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `det`: <tt><a href="it-dep-det-poss.html">det:poss</a></tt>, <tt><a href="it-dep-det-predet.html">det:predet</a></tt>.
 
-43770 nodes (15%) are attached to their parents as `det`.
+45404 nodes (15%) are attached to their parents as `det`.
 
-43756 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.14441398217958.
+45390 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.14492115232138.
 
-The following 12 pairs of parts of speech are connected with `det`: <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (38567; 88% instances), <tt><a href="it-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (2993; 7% instances), <tt><a href="it-pos-NUM.html">NUM</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (1028; 2% instances), <tt><a href="it-pos-PRON.html">PRON</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (549; 1% instances), <tt><a href="it-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (285; 1% instances), <tt><a href="it-pos-VERB.html">VERB</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (151; 0% instances), <tt><a href="it-pos-ADV.html">ADV</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (90; 0% instances), <tt><a href="it-pos-SYM.html">SYM</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (79; 0% instances), <tt><a href="it-pos-X.html">X</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (17; 0% instances), <tt><a href="it-pos-ADP.html">ADP</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="it-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="it-pos-ADV.html">ADV</a></tt>-<tt><a href="it-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `det`: <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (39998; 88% instances), <tt><a href="it-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (3106; 7% instances), <tt><a href="it-pos-NUM.html">NUM</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (1060; 2% instances), <tt><a href="it-pos-PRON.html">PRON</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (569; 1% instances), <tt><a href="it-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (302; 1% instances), <tt><a href="it-pos-VERB.html">VERB</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (158; 0% instances), <tt><a href="it-pos-ADV.html">ADV</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (97; 0% instances), <tt><a href="it-pos-SYM.html">SYM</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (83; 0% instances), <tt><a href="it-pos-X.html">X</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (19; 0% instances), <tt><a href="it-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="it-pos-ADP.html">ADP</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="it-pos-ADV.html">ADV</a></tt>-<tt><a href="it-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

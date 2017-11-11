@@ -93,7 +93,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 `DET` tokens may have the following values of `Person`:
 
 * `1` (550; 39% of non-empty `Person`): <em>moje, můj, naše, mého, náš, mé, mých, mým, mojí, moji</em>
-* `2` (138; 10% of non-empty `Person`): <em>vaše, tvůj, tvoje, tvé, váš, tvou, tvá, vaši, vaší, tvojí</em>
+* `2` (138; 10% of non-empty `Person`): <em>vaše, tvůj, tvoje, tvé, váš, vaší, tvou, tvá, tvojí, tvého</em>
 * `3` (708; 51% of non-empty `Person`): <em>jeho, její, jejich, jejím, jejího, jejích, jehož, jejímu, jejichž, jejíž</em>
 * `EMPTY` (7020): <em>to, který, ten, které, která, tom, všechno, toho, své, tím</em>
 

@@ -49,7 +49,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>τὰς</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>τὰς</em></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>τὸ, τό, ὅ, ὃ</em></td></tr>
-  <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>τὸ, ὁ, ὃ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>τὸ, ὃ, ὁ</em></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>τὰ, τά</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>τὰ, τά</em></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="grc_proiel-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>τῷ</em></td></tr>
@@ -108,7 +108,7 @@ The most frequent other feature values with which `ADV` and `PronType` co-occurr
 
 <table>
   <tr><th>Paradigm <i>ὡς</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>ὡς, ὥς</em></td><td><em>ὡς, ὥς, ὣς, ὧς</em></td></tr>
+  <tr><td><tt></tt></td><td><em>ὡς, ὥς</em></td><td><em>ὡς, ὥς, ὧς, ὣς</em></td></tr>
 </table>
 
 `PronType` seems to be **lexical feature** of `ADV`. 91% lemmas (30) occur only with one value of `PronType`.

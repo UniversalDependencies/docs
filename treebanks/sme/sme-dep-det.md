@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-108 nodes (1%) are attached to their parents as `det`.
+219 nodes (1%) are attached to their parents as `det`.
 
-105 instances of `det` (97%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.12037037037037.
+204 instances of `det` (93%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.12785388127854.
 
-The following 5 pairs of parts of speech are connected with `det`: <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-PRON.html">PRON</a></tt> (92; 85% instances), <tt><a href="sme-pos-NUM.html">NUM</a></tt>-<tt><a href="sme-pos-PRON.html">PRON</a></tt> (8; 7% instances), <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-PRON.html">PRON</a></tt> (4; 4% instances), <tt><a href="sme-pos-PRON.html">PRON</a></tt>-<tt><a href="sme-pos-PRON.html">PRON</a></tt> (2; 2% instances), <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-PRON.html">PRON</a></tt> (2; 2% instances).
+The following 5 pairs of parts of speech are connected with `det`: <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-PRON.html">PRON</a></tt> (182; 83% instances), <tt><a href="sme-pos-NUM.html">NUM</a></tt>-<tt><a href="sme-pos-PRON.html">PRON</a></tt> (11; 5% instances), <tt><a href="sme-pos-PRON.html">PRON</a></tt>-<tt><a href="sme-pos-PRON.html">PRON</a></tt> (11; 5% instances), <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-PRON.html">PRON</a></tt> (10; 5% instances), <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-PRON.html">PRON</a></tt> (5; 2% instances).
 
 
 ~~~ conllu
@@ -55,21 +55,16 @@ The following 5 pairs of parts of speech are connected with `det`: <tt><a href="
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 det	color:blue
-1	Dán	dát	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	2	det	_	_
-2	konkrehta	konkrehta	ADJ	A	_	3	amod	_	_
-3	háve	hávvi	NOUN	N	Case=Gen|Number=Sing	4	obl	_	_
-4	gustojedje	gustot	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-5	gáržžideamit	gáržžideapmi	NOUN	N	Case=Nom|Number=Plur	4	nsubj	_	_
-6	nappo	nappo	ADV	Adv	_	4	advmod	_	_
-7	earáide	eará	PRON	Pron	Case=Ill|Number=Plur|PronType=Ind	4	obl	_	_
-8	go	go	SCONJ	CS	_	9	mark	_	_
-9	boazosápmelaččaide	boazosápmelaš	NOUN	N	Case=Ill|Number=Plur	7	advcl	_	SpaceAfter=No
-10	.	.	PUNCT	CLB	_	4	punct	_	_
+# visual-style 1 3 det	color:blue
+1	Doai	don	PRON	Pron	Case=Nom|Number=Dual|Person=2|PronType=Prs	4	nsubj	_	_
+2	galgabeahtti	galgat	VERB	V	Mood=Ind|Number=Dual|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	ieža	ieš	PRON	Pron	Case=Nom|Number=Dual|PronType=Prs|Reflex=Yes	1	det	_	_
+4	mannat	mannat	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
 

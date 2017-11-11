@@ -64,7 +64,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 <table>
   <tr><th>Paradigm <i>zijn</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="nl-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>was</em></td><td><em>waren</em></td></tr>
-  <tr><td><tt><tt><a href="nl-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>is, ben, bent, ware, zij, Wees, zijn</em></td><td><em>zijn</em></td></tr>
+  <tr><td><tt><tt><a href="nl-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>is, ben, bent, zij, ware, Wees, zijn</em></td><td><em>zijn</em></td></tr>
 </table>
 
 ### `PROPN`

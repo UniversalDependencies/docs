@@ -17,26 +17,26 @@ The following 8 pairs of parts of speech are connected with `goeswith`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 goeswith	color:blue
-1	Ruski	ruski	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
-2	Lukoil	Lukoil	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
-3	do	do	ADP	_	Case=Gen	4	goeswith	_	_
-4	sada	sada	ADV	_	Degree=Pos	9	advmod	_	_
-5	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	9	aux	_	_
-6	u	u	ADP	_	Case=Loc	8	case	_	_
-7	ovoj	ovaj	PRON	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
-8	godini	godina	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	9	obl	_	_
-9	investirao	investirati	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
-10	56	56	NUM	_	NumType=Card	12	nummod:gov	_	_
-11	miliona	milion	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	10	flat	_	_
-12	evra	evro	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	9	obj	_	_
-13	u	u	ADP	_	Case=Loc	14	case	_	_
-14	Hrvatskoj	Hrvatska	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	9	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 goeswith	color:blue
+1	To	taj	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	_
+2	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	5	aux	_	_
+3	bilo	biti	AUX	_	Gender=Neut|Number=Sing|VerbForm=Part	5	cop	_	_
+4	najgore	zlo	ADJ	_	Case=Nom|Definite=Def|Degree=Sup|Gender=Neut|Number=Sing	5	amod	_	_
+5	nasilje	nasilje	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+6	od	od	ADP	_	Case=Gen	7	goeswith	_	_
+7	kada	kada	ADV	_	Degree=Pos	10	mark	_	_
+8	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	10	aux	_	_
+9	Kosovo	Kosovo	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+10	proglasilo	proglasiti	VERB	_	Gender=Neut|Number=Sing|VerbForm=Part	5	advcl	_	_
+11	nezavisnost	nezavisnost	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	_
+12	pre	pre	ADP	_	Case=Gen	14	case	_	_
+13	četiri	četiri	NUM	_	NumType=Card	14	nummod	_	_
+14	nedelje	nedelja	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

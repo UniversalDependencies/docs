@@ -55,7 +55,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><th>Paradigm <i>tema</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="et-feat-Case.html">Case</a></tt><tt>=Abl</tt></tt></td><td><em>temalt</em></td><td><em>neilt</em></td></tr>
   <tr><td><tt><tt><a href="et-feat-Case.html">Case</a></tt><tt>=Ade</tt></tt></td><td><em>tal, temal, temalgi</em></td><td><em>neil, nendel</em></td></tr>
-  <tr><td><tt><tt><a href="et-feat-Case.html">Case</a></tt><tt>=All</tt></tt></td><td><em>talle, temale</em></td><td><em>neile, nendele, neilegi</em></td></tr>
+  <tr><td><tt><tt><a href="et-feat-Case.html">Case</a></tt><tt>=All</tt></tt></td><td><em>talle, temale</em></td><td><em>neile, neilegi, nendele</em></td></tr>
   <tr><td><tt><tt><a href="et-feat-Case.html">Case</a></tt><tt>=Com</tt></tt></td><td><em>temaga</em></td><td><em>nendega</em></td></tr>
   <tr><td><tt><tt><a href="et-feat-Case.html">Case</a></tt><tt>=Ela</tt></tt></td><td><em>temast, tast, temastki</em></td><td><em>neist, nendest</em></td></tr>
   <tr><td><tt><tt><a href="et-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>tema, ta</em></td><td><em>nende</em></td></tr>
@@ -189,7 +189,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
   <tr><td><tt><tt><a href="et-feat-Case.html">Case</a></tt><tt>=Ade</tt></tt></td><td><em>kümnel</em></td><td></td></tr>
   <tr><td><tt><tt><a href="et-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>kümne</em></td><td></td></tr>
   <tr><td><tt><tt><a href="et-feat-Case.html">Case</a></tt><tt>=Ill</tt></tt></td><td></td><td><em>kümnetesse</em></td></tr>
-  <tr><td><tt><tt><a href="et-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>kümme, kümmet, kümnest</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="et-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>kümme, kümnest, kümmet</em></td><td></td></tr>
   <tr><td><tt><tt><a href="et-feat-Case.html">Case</a></tt><tt>=Par</tt></tt></td><td><em>kümmet</em></td><td><em>kümneid</em></td></tr>
 </table>
 

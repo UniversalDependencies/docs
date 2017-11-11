@@ -19,10 +19,10 @@ The 10 most frequent ambiguous types:  <em>mora</em> (<tt><a href="sr-pos-VERB.h
 
 
 * <em>mora</em>
-  * <tt><a href="sr-pos-VERB.html">VERB</a></tt> 52: <em>Međutim , on <b>mora</b> da premosti više izazova da bi uradio to .</em>
+  * <tt><a href="sr-pos-VERB.html">VERB</a></tt> 52: <em>Efekat globalizacije takođe se <b>mora</b> imati u vidu .</em>
   * <tt><a href="sr-pos-NOUN.html">NOUN</a></tt> 12: <em>Oni su razgovarali o bezbednosnim pitanjima u regionu Crnog <b>mora</b> .</em>
 * <em>radi</em>
-  * <tt><a href="sr-pos-VERB.html">VERB</a></tt> 21: <em>Morala bih da dam otkaz i ostavim decu i provedem mesec dana da proučim i shvatim ko šta <b>radi</b> . "</em>
+  * <tt><a href="sr-pos-VERB.html">VERB</a></tt> 21: <em>Najpoznatiji makedonski režiser Milčo Mančevski počeo je da <b>radi</b> na svom trećem igranom filmu " Kosti " .</em>
   * <tt><a href="sr-pos-ADP.html">ADP</a></tt> 8: <em>Liberalizacija režima azila jedan je od kriterijuma koji se moraju ispuniti <b>radi</b> usklađivanja sa EU standardima .</em>
 * <em>nalaze</em>
   * <tt><a href="sr-pos-VERB.html">VERB</a></tt> 18: <em>Pretpostavlja se da se u Poljskoj <b>nalaze</b> neka od najvećih nalazišta uljanog škriljca u Evropi .</em>
@@ -32,18 +32,18 @@ The 10 most frequent ambiguous types:  <em>mora</em> (<tt><a href="sr-pos-VERB.h
   * <tt><a href="sr-pos-NOUN.html">NOUN</a></tt> 3: <em>Zbog nedobijanja <b>poziva</b> za NATO Makedonija ubrzava pregovore u sporu oko imena</em>
 * <em>vode</em>
   * <tt><a href="sr-pos-VERB.html">VERB</a></tt> 14: <em>Zemlje <b>vode</b> političke elite koje daju prednost saradnji umesto sukobima .</em>
-  * <tt><a href="sr-pos-NOUN.html">NOUN</a></tt> 12: <em>Treba da budemo sigurni da u slučaju curenja ove <b>vode</b> neće doći do ugrožavanja životne sredine ...</em>
+  * <tt><a href="sr-pos-NOUN.html">NOUN</a></tt> 12: <em>On je ranije pokušao da kupi proizvođača najprodavanije kisele <b>vode</b> u Srbiji , Knjaz Miloš .</em>
 * <em>koristi</em>
   * <tt><a href="sr-pos-VERB.html">VERB</a></tt> 13: <em>Posebno objektom , dodao je Dimitrov , koji <b>koristi</b> zastarelu rusku tehnologiju .</em>
   * <tt><a href="sr-pos-NOUN.html">NOUN</a></tt> 4: <em>Ta partnerstva su , međutim , nedovoljno definisana kada se radi o konkretnoj ekonomskoj saradnji i obostranoj <b>koristi</b> .</em>
 * <em>pomoći</em>
-  * <tt><a href="sr-pos-NOUN.html">NOUN</a></tt> 12: <em>Grčka zaustavila flotilu <b>pomoći</b> za Gazu</em>
+  * <tt><a href="sr-pos-NOUN.html">NOUN</a></tt> 12: <em>Svaka porodica može da dobije do otprilike 500 evra <b>pomoći</b> .</em>
   * <tt><a href="sr-pos-VERB.html">VERB</a></tt> 12: <em>" SAD će vam <b>pomoći</b> da prođete kroz ta vrata " .</em>
 * <em>odnose</em>
   * <tt><a href="sr-pos-NOUN.html">NOUN</a></tt> 13: <em>Oni su se složili da nastave da razvijaju bilateralne ekonomske <b>odnose</b> .</em>
   * <tt><a href="sr-pos-VERB.html">VERB</a></tt> 11: <em>Visoke cene <b>odnose</b> ogroman deo plata Srba .</em>
 * <em>biće</em>
-  * <tt><a href="sr-pos-AUX.html">AUX</a></tt> 32: <em>Na vrhu njegovog programa <b>biće</b> rešavanje političkog zastoja .</em>
+  * <tt><a href="sr-pos-AUX.html">AUX</a></tt> 32: <em>Jahta nekadašnjeg diktatora <b>biće</b> renovirana u muzej na vodi .</em>
   * <tt><a href="sr-pos-VERB.html">VERB</a></tt> 10: <em>Ti krediti Svetske banke <b>biće</b> odvojeni od strategije banke za pomoć zemlji .</em>
   * <tt><a href="sr-pos-NOUN.html">NOUN</a></tt> 2: <em>Bonovi za hranu , novac za decu i odmore <b>biće</b> oporezovani 16 odsto .</em>
 * <em>moći</em>

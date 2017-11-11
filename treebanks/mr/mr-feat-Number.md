@@ -81,7 +81,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 <table>
   <tr><th>Paradigm <i>तो</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="mr-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="mr-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td>तो, त्याला, _</td><td></td></tr>
+  <tr><td><tt><tt><a href="mr-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="mr-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td>त्याला, _, तो</td><td></td></tr>
   <tr><td><tt><tt><a href="mr-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="mr-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td>ती</td><td></td></tr>
   <tr><td><tt><tt><a href="mr-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="mr-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td>ते, त्याला</td><td></td></tr>
   <tr><td><tt><tt><a href="mr-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="mr-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td>त्याला</td><td>त्यांना</td></tr>

@@ -12,7 +12,7 @@ udver: '2'
 # UD Spanish PUD
 
 Language: [Spanish](../es/overview/es-hub.html) (code: `es`)<br/>
-Family: Indo-European, Italic
+Family: Indo-European, Romance
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
@@ -76,6 +76,7 @@ employ ten-fold cross-validation.
 
 
 ## Acknowledgments
+
 # Statistics of UD Spanish PUD
 
 ## POS Tags

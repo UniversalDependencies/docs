@@ -116,7 +116,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
   <tr><td><tt>_</tt></td><td><em>miten</em></td><td><em>miten</em></td><td><em>miten</em></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Ka</tt></tt></td><td><em>mitenkä</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_ftb-feat-Clitic.html">Clitic</a></tt><tt>=Ka,S</tt></tt></td><td><em>mitenkäs</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi_ftb-feat-Style.html">Style</a></tt><tt>=Coll</tt></tt></td><td><em>Mite, mitem, Mites</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_ftb-feat-Style.html">Style</a></tt><tt>=Coll</tt></tt></td><td><em>mitem, Mite, Mites</em></td><td></td><td></td></tr>
 </table>
 
 ### `ADJ`

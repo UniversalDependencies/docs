@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Afrikaans: POS Tags: `VERB`
 
-There are 774 `VERB` lemmas (14%), 940 `VERB` types (15%) and 4317 `VERB` tokens (9%).
-Out of 16 observed tags, the rank of `VERB` is: 3 in number of lemmas, 2 in number of types and 5 in number of tokens.
+There are 780 `VERB` lemmas (14%), 950 `VERB` types (15%) and 4317 `VERB` tokens (9%).
+Out of 16 observed tags, the rank of `VERB` is: 2 in number of lemmas, 2 in number of types and 5 in number of tokens.
 
 The 10 most frequent `VERB` lemmas: doen maak het stel gebruik verbeter verseker betaal verskaf neem
 
@@ -51,13 +51,13 @@ The 10 most frequent ambiguous types:  doen (<tt><a href="af-pos-VERB.html">VERB
 
 ## Morphology
 
-The form / lemma ratio of `VERB` is 1.214470 (the average of all parts of speech is 1.120202).
+The form / lemma ratio of `VERB` is 1.217949 (the average of all parts of speech is 1.122045).
 
-The 1st highest number of forms (3) was observed with the lemma “het”: gehad, het, hê.
+The 1st highest number of forms (4) was observed with the lemma “het”: gehad, het, hÃª, hê.
 
-The 2nd highest number of forms (3) was observed with the lemma “maak”: gemaak, maak, make.
+The 2nd highest number of forms (3) was observed with the lemma “implementeer”: geÃ¯mplementeer, geïmplementeer, implementeer.
 
-The 3rd highest number of forms (2) was observed with the lemma “aanbied”: aanbied, aangebied.
+The 3rd highest number of forms (3) was observed with the lemma “inspireer”: geÃ¯nspireer, geïnspireer, inspireer.
 
 `VERB` occurs with 3 features: <tt><a href="af-feat-Subcat.html">Subcat</a></tt> (4317; 100% instances), <tt><a href="af-feat-Tense.html">Tense</a></tt> (4317; 100% instances), <tt><a href="af-feat-VerbForm.html">VerbForm</a></tt> (4317; 100% instances)
 

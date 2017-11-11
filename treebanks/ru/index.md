@@ -12,7 +12,7 @@ udver: '2'
 # UD Russian
 
 Language: [Russian](../ru/overview/ru-hub.html) (code: `ru`)<br/>
-Family: Indo-European, Balto-Slavic
+Family: Indo-European, Slavic
 
 This treebank has been part of Universal Dependencies since the UD v1.3 release.
 
@@ -40,6 +40,7 @@ If you want to collaborate, please contact [olesar&nbsp;(Ã¦t)&nbsp;yandex&nbsp;â
 ## Description
 
 ## Acknowledgments
+
 # Statistics of UD Russian
 
 ## POS Tags

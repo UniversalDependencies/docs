@@ -12,7 +12,7 @@ udver: '2'
 # UD Czech CAC
 
 Language: [Czech](../cs/overview/cs-hub.html) (code: `cs`)<br/>
-Family: Indo-European, Balto-Slavic
+Family: Indo-European, Slavic
 
 This treebank has been part of Universal Dependencies since the UD v1.3 release.
 
@@ -94,6 +94,7 @@ https://ufal.mff.cuni.cz/pbml/89/pbml89.pdf
 (On the language of non-fiction style from the quantitative point of view).
 In: Slovo a slovesnost, vol. 44, no. 4, pp. 275-283, Praha, 1983.
 http://sas.ujc.cas.cz/archiv.php?art=2911
+
 
 
 # Statistics of UD Czech CAC

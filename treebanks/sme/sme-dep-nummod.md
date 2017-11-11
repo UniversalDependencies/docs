@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-82 nodes (1%) are attached to their parents as `nummod`.
+239 nodes (1%) are attached to their parents as `nummod`.
 
-80 instances of `nummod` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.32926829268293.
+224 instances of `nummod` (94%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.1673640167364.
 
-The following 3 pairs of parts of speech are connected with `nummod`: <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-NUM.html">NUM</a></tt> (79; 96% instances), <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="sme-pos-ADV.html">ADV</a></tt>-<tt><a href="sme-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-NUM.html">NUM</a></tt> (233; 97% instances), <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-NUM.html">NUM</a></tt> (4; 2% instances), <tt><a href="sme-pos-ADV.html">ADV</a></tt>-<tt><a href="sme-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="sme-pos-PRON.html">PRON</a></tt>-<tt><a href="sme-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

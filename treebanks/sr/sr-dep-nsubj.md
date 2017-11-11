@@ -17,21 +17,19 @@ The following 41 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 nsubj	color:blue
-1	Bitići	Bitići	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
-2	kaže	kazati	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
-3	da	da	SCONJ	_	_	7	mark	_	_
-4	bi	biti	AUX	_	Number=Plur|Person=3|Tense=Past	7	aux	_	_
-5	jači	jak	ADJ	_	Case=Nom|Definite=Def|Degree=Cmp|Gender=Masc|Number=Plur	6	amod	_	_
-6	sindikati	sindikat	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
-7	doneli	doneti	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	2	ccomp	_	_
-8	bolje	dobar	ADJ	_	Case=Acc|Definite=Def|Degree=Cmp|Gender=Masc|Number=Plur	9	amod	_	_
-9	ishode	ishod	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	7	obj	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 nsubj	color:blue
+1	Druga	drugi	NUM	_	Case=Nom|Gender=Fem|Number=Sing|NumType=Ord	2	nummod	_	_
+2	dvojica	dvojica	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+3	su	biti	AUX	_	Number=Plur|Person=3|Tense=Pres	4	aux	_	_
+4	rekli	reći	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
+5	da	da	SCONJ	_	_	7	mark	_	_
+6	neće	hteti	AUX	_	Number=Sing|Person=3|Tense=Pres	7	aux	_	_
+7	prisustvovati	prisustvovati	VERB	_	VerbForm=Inf	4	ccomp	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
@@ -42,36 +40,34 @@ The following 41 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 nsubj	color:blue
-1	Bitići	Bitići	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
-2	kaže	kazati	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
-3	da	da	SCONJ	_	_	7	mark	_	_
-4	bi	biti	AUX	_	Number=Plur|Person=3|Tense=Past	7	aux	_	_
-5	jači	jak	ADJ	_	Case=Nom|Definite=Def|Degree=Cmp|Gender=Masc|Number=Plur	6	amod	_	_
-6	sindikati	sindikat	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
-7	doneli	doneti	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	2	ccomp	_	_
-8	bolje	dobar	ADJ	_	Case=Acc|Definite=Def|Degree=Cmp|Gender=Masc|Number=Plur	9	amod	_	_
-9	ishode	ishod	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	7	obj	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	2	punct	_	_
+1	Nikica	Nikica	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+2	može	moći	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
+3	da	da	SCONJ	_	_	4	mark	_	_
+4	pojede	pojesti	VERB	_	Number=Sing|Person=3|Tense=Pres	2	xcomp	_	_
+5	50	50	NUM	_	NumType=Card	6	nummod:gov	_	_
+6	kilograma	kilogram	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	obl	_	_
+7	hleba	hleb	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+8	dnevno	dnevno	ADV	_	Degree=Pos	4	advmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 nsubj	color:blue
-1	Bar	bar	ADV	_	Degree=Pos	6	discourse	_	_
-2	na	na	ADP	_	Case=Loc	3	case	_	_
-3	papiru	papir	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	3	punct	_	_
-5	to	taj	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	_
-6	izgleda	izgledati	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
-7	kao	kao	SCONJ	_	_	9	case	_	_
-8	odlična	odličan	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
-9	ideja	ideja	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	6	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 nsubj	color:blue
+1	"	"	PUNCT	_	_	3	punct	_	SpaceAfter=No
+2	Ona	on	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	voli	voleti	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
+4	blato	blato	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
+5	više	mnogo	ADV	_	Degree=Cmp	3	advmod	_	_
+6	nego	nego	CCONJ	_	_	8	cc	_	_
+7	sam	sam	ADJ	_	Animacy=Inan|Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	život	život	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	conj	_	SpaceAfter=No
+9	"	"	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

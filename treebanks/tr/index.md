@@ -12,7 +12,7 @@ udver: '2'
 # UD Turkish
 
 Language: [Turkish](../tr/overview/tr-hub.html) (code: `tr`)<br/>
-Family: Turkic
+Family: Altaic, Turkic
 
 This treebank has been part of Universal Dependencies since the UD v1.3 release.
 
@@ -51,6 +51,7 @@ The UD Turkish Treebank, also called the IMST-UD Treebank, is a semi-automatic c
 ## Acknowledgments
 
 This treebank follows a set of morphosyntactic annotation guidelines based on those established by Çağrı Çöltekin, and later revised and restructured by Memduh Gökırmak, Francis Tyers, and Umut Sulubacak. The conversion from the IMST Treebank was done by Umut Sulubacak. The contributors would also like to thank Birsel Karakoç, Hüner Kaşıkara, and Tuğba Pamay for their discussions and insights.
+
 
 # Statistics of UD Turkish
 

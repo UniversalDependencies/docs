@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-17 nodes (0%) are attached to their parents as `csubj`.
+53 nodes (0%) are attached to their parents as `csubj`.
 
-17 instances of `csubj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.64705882352941.
+51 instances of `csubj` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.56603773584906.
 
-The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (11; 65% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (5; 29% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (1; 6% instances).
+The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (32; 60% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (13; 25% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (8; 15% instances).
 
 
 ~~~ conllu
@@ -60,16 +60,12 @@ The following 3 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 3 csubj	color:blue
-1	Mihttomearrin	mihttomearri	NOUN	N	Case=Ess	2	advmod	_	_
-2	lea	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	sihkkarastit	sihkkarastit	VERB	V	VerbForm=Inf	2	csubj	_	_
-4	dássásašvuođa	dássásašvuohta	NOUN	N	Case=Acc|Number=Sing	3	obj	_	_
-5	ja	ja	CCONJ	CC	_	4	cc	_	_
-6	ovttalágan	ovttalágan	ADJ	A	_	7	amod	_	_
-7	ovdánanvejolašvuođaid	ovdánanvejolašvuohta	NOUN	N	Case=Acc|Number=Plur	4	conj	_	_
-8	buot	buot	PRON	Pron	PronType=Ind	9	amod	_	_
-9	olmmoščearddaide	olmmoščearda	NOUN	N	Case=Ill|Number=Plur	3	nmod	_	SpaceAfter=No
-10	.	.	PUNCT	CLB	_	2	punct	_	_
+1	Govt	govt	ADV	Adv	_	2	advmod	_	_
+2	lei	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	vuodjit	vuodjit	VERB	V	VerbForm=Inf	2	csubj	_	_
+4	Olmmáivákkis	Olmmáivággi	PROPN	N	Case=Loc|Number=Sing	3	nmod	_	_
+5	deike	deike	ADV	Adv	_	3	advmod	_	SpaceAfter=No
+6	?	?	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
 

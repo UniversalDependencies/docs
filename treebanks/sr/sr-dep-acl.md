@@ -17,62 +17,68 @@ The following 28 pairs of parts of speech are connected with `acl`: <tt><a href=
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 acl	color:blue
+1	Postoji	postojati	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
+2	osećaj	osećaj	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
+3	da	da	SCONJ	_	_	5	mark	_	_
+4	su	biti	AUX	_	Number=Plur|Person=3|Tense=Pres	5	aux	_	_
+5	žrtvovali	žrtvovati	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	2	acl	_	_
+6	sve	sve	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ind	5	obj	_	_
+7	zarad	zarad	ADP	_	Case=Gen	8	case	_	_
+8	statusa	status	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	obl	_	_
+9	Kosova	Kosovo	PROPN	_	Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 5 acl	color:blue
+1	Zgrada	zgrada	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+2	u	u	ADP	_	Case=Loc	3	case	_	_
+3	Tirani	Tirana	PROPN	_	Case=Loc|Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	poznata	poznat	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	1	acl	_	_
+6	kao	kao	SCONJ	_	_	7	case	_	_
+7	piramida	piramida	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	obl	_	_
+8	se	sebe	PRON	_	Case=Acc|Number=Sing|Reflex=Yes	9	compound	_	_
+9	nalazi	nalaziti	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
+10	u	u	ADP	_	Case=Loc	11	case	_	_
+11	centru	centar	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	9	obl	_	_
+12	debate	debata	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	9	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 7 acl	color:blue
-1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
-2	Postoji	postojati	VERB	_	Number=Sing|Person=1|Tense=Pres	0	root	_	_
-3	oko	oko	ADV	_	Degree=Pos	4	advmod	_	_
-4	375	375	NUM	_	NumType=Card	5	nummod:gov	_	_
-5	narko-kartela	narko-kartel	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	2	nsubj	_	_
-6	koji	koji	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	7	nsubj	_	_
-7	snabdevaju	snabdevati	VERB	_	Number=Plur|Person=3|Tense=Pres	5	acl	_	_
-8	Evropu	Evropa	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	_
-9	i	i	CCONJ	_	_	10	cc	_	_
-10	Rusiju	Rusija	PROPN	_	Case=Acc|Gender=Fem|Number=Sing	8	conj	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 acl	color:blue
-1	Hrvatska	Hrvatska	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
-2	pozvana	pozvati	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
-3	da	da	SCONJ	_	_	4	mark	_	_
-4	ubrza	ubrzati	VERB	_	Number=Sing|Person=3|Tense=Pres	2	ccomp	_	_
-5	reforme	reforma	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	4	obj	_	_
-6	potrebne	potreban	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur	5	acl	_	_
-7	za	za	ADP	_	Case=Acc	8	case	_	_
-8	ulazak	ulazak	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obl	_	_
-9	u	u	ADP	_	Case=Acc	10	case	_	_
-10	EU	EU	PROPN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	nmod	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 7 acl	color:blue
-1	Vlasti	vlast	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	4	nsubj	_	_
-2	EU	EU	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	nmod	_	_
-3	su	biti	AUX	_	Number=Plur|Person=3|Tense=Pres	4	cop	_	_
-4	te	taj	PRON	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	0	root	_	_
-5	koje	koji	PRON	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Ind	7	nsubj	_	_
-6	nisu	biti	AUX	_	Number=Plur|Person=3|Tense=Pres	7	aux	_	_
-7	ispunile	ispuniti	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	4	acl	_	_
-8	svoja	svoj	PRON	_	Case=Acc|Gender=Neut|Number=Plur|Reflex=Yes	9	det	_	_
-9	obećanja	obećanje	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	7	obj	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	4	punct	_	_
+1	Nikica	Nikica	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	3	cop	_	_
+3	poznata	poznat	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
+4	po	po	ADP	_	Case=Loc	5	case	_	_
+5	tome	taj	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	3	obl	_	_
+6	da	da	SCONJ	_	_	7	mark	_	_
+7	jede	jesti	VERB	_	Number=Sing|Person=3|Tense=Pres	5	acl	_	_
+8	i	i	CCONJ	_	_	11	advmod	_	_
+9	do	do	ADP	_	Case=Gen	11	case	_	_
+10	50	50	NUM	_	NumType=Card	11	nummod:gov	_	_
+11	kilograma	kilogram	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	7	obl	_	_
+12	hleba	hleb	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+13	dnevno	dnevno	ADV	_	Degree=Pos	7	advmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

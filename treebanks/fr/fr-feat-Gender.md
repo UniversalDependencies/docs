@@ -50,7 +50,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 <table>
   <tr><th>Paradigm <i>le</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
   <tr><td><tt><tt><a href="fr-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>la</em></td></tr>
-  <tr><td><tt><tt><a href="fr-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>le, l', l</em></td><td><em>la, l', l, là, Les</em></td></tr>
+  <tr><td><tt><tt><a href="fr-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>le, l', l</em></td><td><em>la, l', l, Les, là</em></td></tr>
   <tr><td><tt><tt><a href="fr-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>les</em></td><td><em>les, L</em></td></tr>
 </table>
 

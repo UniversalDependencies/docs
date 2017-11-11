@@ -13,19 +13,19 @@ The 10 most frequent `X` lemmas: <em>Ha-vel, Jom, kippur, o-po-nu, pr-chá, Sole
 
 The 10 most frequent `X` types:  <em>Ha-vel, Jom, O-po-nu, kippur, pr-chá, Combien, Dě, Soleil, Baalšem, Bitte</em>
 
-The 10 most frequent ambiguous lemmas: 
+The 10 most frequent ambiguous lemmas: <em>O</em> (<tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="cs_fictree-pos-X.html">X</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>O</em> (<tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> 25, <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="cs_fictree-pos-X.html">X</a></tt> 1)
 
 
 * <em>O</em>
-  * <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> 25: <em><b>O</b> květině mé pratety bohužel film natočený nebyl .</em>
+  * <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> 25: <em><b>O</b> tohle jde : neurazit se .</em>
   * <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> 1: <em>" Chcete - li si vyjasnit vztah k životu , doporučuji vám jednu hru , " řekl psychiatr <b>O</b> .</em>
   * <tt><a href="cs_fictree-pos-X.html">X</a></tt> 1: <em>S chutí četl <b>O</b> ' Henryho a Čechovovy povídky , i Maupassanta , Simenona nebo Gardnera .</em>
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.966826).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.973661).
 
 The 1st highest number of forms (1) was observed with the lemma “Baalšem”: <em>Baalšem</em>.
 

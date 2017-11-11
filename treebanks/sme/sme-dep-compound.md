@@ -9,33 +9,29 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `compound`: <tt><a href="sme-dep-compound-nn.html">compound:nn</a></tt>.
 
-19 nodes (0%) are attached to their parents as `compound`.
+26 nodes (0%) are attached to their parents as `compound`.
 
-18 instances of `compound` (95%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.47368421052632.
+25 instances of `compound` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.65384615384615.
 
-The following 2 pairs of parts of speech are connected with `compound`: <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (15; 79% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-ADJ.html">ADJ</a></tt> (4; 21% instances).
+The following 4 pairs of parts of speech are connected with `compound`: <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (20; 77% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-ADJ.html">ADJ</a></tt> (4; 15% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-PRON.html">PRON</a></tt> (1; 4% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-PROPN.html">PROPN</a></tt> (1; 4% instances).
 
 
 ~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 compound	color:blue
-1	Liná	Liná	PROPN	N	Case=Nom|Number=Sing	10	nsubj	_	_
-2	ja	ja	CCONJ	CC	_	1	cc	_	_
-3	Ájlin	Ájlin	PROPN	N	Case=Nom|Number=Sing	1	conj	_	_
-4	leigga	leat	VERB	V	Mood=Ind|Number=Dual|Person=3|Tense=Past|VerbForm=Fin	10	aux	_	_
-5	vuosttaš	vuosttaš	ADJ	A	_	6	amod	_	_
-6	skuvla-	skuvla	NOUN	N	_	7	compound	_	_
-7	jagi	jahki	NOUN	N	Case=Gen|Number=Sing	10	obl	_	_
-8	rájes	rájes	ADP	Po	_	7	case	_	_
-9	juo	juo	ADV	Adv	_	10	advmod	_	_
-10	vázzán	vázzit	VERB	V	Aspect=Perf|VerbForm=Part	0	root	_	_
-11	seamma	seammá	PRON	Pron	PronType=Ind	12	amod	_	_
-12	luohká	luohkká	NOUN	N	Case=Acc|Number=Sing	10	obj	_	SpaceAfter=No
-13	.	.	PUNCT	CLB	_	10	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 compound	color:blue
+1	Reivelonuhallan	reivelonuhit	NOUN	V*	Case=Nom|Number=Sing	5	nsubj	_	_
+2	sámi	sápmi	NOUN	N	Case=Gen|Number=Sing	3	nmod:poss	_	_
+3	institušuvnnaiguin	institušuvdna	NOUN	N	Case=Com|Number=Plur	5	obl	_	_
+4	galgá	galgat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	dahkkot	dahkat	VERB	V*	VerbForm=Inf|Voice=Pass	0	root	_	_
+6	sáme-	sápmi	NOUN	N	_	8	compound	_	_
+7	ja	ja	CCONJ	CC	_	6	cc	_	_
+8	dárogillii	dárogiella	NOUN	N	Case=Ill|Number=Sing	5	obl	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	5	punct	_	_
 
 ~~~
 
@@ -59,6 +55,31 @@ The following 2 pairs of parts of speech are connected with `compound`: <tt><a h
 11	sosiálafága	sosiálafága	NOUN	N	Case=Gen|Number=Sing	9	conj	_	_
 12	vuođđokursa	vuođđokursa	NOUN	N	Case=Nom|Number=Sing	7	nsubj	_	SpaceAfter=No
 13	.	.	PUNCT	CLB	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 9 compound	color:blue
+1	Ulbmil	ulbmil	NOUN	N	Case=Nom|Number=Sing	6	nsubj	_	_
+2	seammádássásaš	seammadássásaš	ADJ	A	_	3	amod	_	_
+3	bohtosiid	boađus	NOUN	N	Case=Gen|Number=Plur	4	nmod:poss	_	_
+4	juksamis	juksat	NOUN	V*	Case=Loc|Number=Sing	6	obl	_	_
+5	galgá	galgat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	gustot	gustot	VERB	V	VerbForm=Inf	0	root	_	_
+7	álo	álo	ADV	Adv	_	6	advmod	_	_
+8	beroškeahttá	beroštit	VERB	V	Case=Abe|VerbForm=Ger	6	advcl	_	_
+9	makkár	makkár	PRON	Pron	PronType=Int	12	compound	_	_
+10	giella-	giella	NOUN	N	_	9	conj	_	_
+11	dahje	dahje	CCONJ	CC	_	10	cc	_	_
+12	kulturduogáš	kulturduogáš	NOUN	N	Case=Nom|Number=Sing	14	nsubj	_	_
+13	dárbbašeaddjis	dárbbašit	NOUN	V*	Case=Loc|Number=Sing	14	obl	_	_
+14	lea	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	SpaceAfter=No
+15	.	.	PUNCT	CLB	_	6	punct	_	_
 
 ~~~
 

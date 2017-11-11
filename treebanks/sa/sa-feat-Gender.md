@@ -32,7 +32,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="sa-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sa-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>अर्थम्</td><td>अर्थम्</td></tr>
   <tr><td><tt><tt><a href="sa-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="sa-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>अर्थस्य</td><td></td></tr>
   <tr><td><tt><tt><a href="sa-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="sa-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>अर्थेन</td><td></td></tr>
-  <tr><td><tt><tt><a href="sa-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sa-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>अर्थः</td><td>अर्थ, अर्थम्</td></tr>
+  <tr><td><tt><tt><a href="sa-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sa-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>अर्थः</td><td>अर्थम्, अर्थ</td></tr>
   <tr><td><tt><tt><a href="sa-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sa-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>अर्थाः</td><td></td></tr>
   <tr><td><tt><tt><a href="sa-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>अर्थ</td><td></td></tr>
 </table>

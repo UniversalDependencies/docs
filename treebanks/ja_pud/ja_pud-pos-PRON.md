@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Japanese-PUD: POS Tags: `PRON`
 
 There are 26 `PRON` lemmas (0%), 26 `PRON` types (0%) and 435 `PRON` tokens (2%).
-Out of 14 observed tags, the rank of `PRON` is: 9 in number of lemmas, 9 in number of types and 10 in number of tokens.
+Out of 15 observed tags, the rank of `PRON` is: 9 in number of lemmas, 9 in number of types and 10 in number of tokens.
 
 The 10 most frequent `PRON` lemmas: 彼, それ, 彼女, 私, これ, 彼ら, これら, そこ, 私たち, 誰
 
@@ -49,21 +49,21 @@ Examples: 彼, それ, 彼女, これ, 彼ら, そこ, これら, ここ, それ
 
 ## Relations
 
-`PRON` nodes are attached to their parents using 6 different relations: <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (223; 51% instances), <tt><a href="ja_pud-dep-nmod.html">nmod</a></tt> (117; 27% instances), <tt><a href="ja_pud-dep-obl.html">obl</a></tt> (42; 10% instances), <tt><a href="ja_pud-dep-iobj.html">iobj</a></tt> (29; 7% instances), <tt><a href="ja_pud-dep-obj.html">obj</a></tt> (22; 5% instances), <tt><a href="ja_pud-dep-root.html">root</a></tt> (2; 0% instances)
+`PRON` nodes are attached to their parents using 6 different relations: <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (221; 51% instances), <tt><a href="ja_pud-dep-nmod.html">nmod</a></tt> (117; 27% instances), <tt><a href="ja_pud-dep-obl.html">obl</a></tt> (44; 10% instances), <tt><a href="ja_pud-dep-iobj.html">iobj</a></tt> (29; 7% instances), <tt><a href="ja_pud-dep-obj.html">obj</a></tt> (22; 5% instances), <tt><a href="ja_pud-dep-root.html">root</a></tt> (2; 0% instances)
 
-Parents of `PRON` nodes belong to 8 different parts of speech: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (265; 61% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (134; 31% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (21; 5% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances),  (2; 0% instances), <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
+Parents of `PRON` nodes belong to 8 different parts of speech: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (255; 59% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (143; 33% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (21; 5% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (6; 1% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances),  (2; 0% instances), <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances)
 
 6 (1%) `PRON` nodes are leaves.
 
-324 (74%) `PRON` nodes have one child.
+325 (75%) `PRON` nodes have one child.
 
-85 (20%) `PRON` nodes have two children.
+84 (19%) `PRON` nodes have two children.
 
 20 (5%) `PRON` nodes have three or more children.
 
 The highest child degree of a `PRON` node is 4.
 
-Children of `PRON` nodes are attached using 15 different relations: <tt><a href="ja_pud-dep-case.html">case</a></tt> (441; 79% instances), <tt><a href="ja_pud-dep-punct.html">punct</a></tt> (73; 13% instances), <tt><a href="ja_pud-dep-acl.html">acl</a></tt> (12; 2% instances), <tt><a href="ja_pud-dep-fixed.html">fixed</a></tt> (8; 1% instances), <tt><a href="ja_pud-dep-cop.html">cop</a></tt> (6; 1% instances), <tt><a href="ja_pud-dep-mark.html">mark</a></tt> (6; 1% instances), <tt><a href="ja_pud-dep-nmod.html">nmod</a></tt> (5; 1% instances), <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="ja_pud-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="ja_pud-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="ja_pud-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="ja_pud-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="ja_pud-dep-det.html">det</a></tt> (1; 0% instances), <tt><a href="ja_pud-dep-nummod.html">nummod</a></tt> (1; 0% instances), <tt><a href="ja_pud-dep-obl.html">obl</a></tt> (1; 0% instances)
+Children of `PRON` nodes are attached using 15 different relations: <tt><a href="ja_pud-dep-case.html">case</a></tt> (441; 79% instances), <tt><a href="ja_pud-dep-punct.html">punct</a></tt> (73; 13% instances), <tt><a href="ja_pud-dep-acl.html">acl</a></tt> (11; 2% instances), <tt><a href="ja_pud-dep-fixed.html">fixed</a></tt> (8; 1% instances), <tt><a href="ja_pud-dep-cop.html">cop</a></tt> (6; 1% instances), <tt><a href="ja_pud-dep-mark.html">mark</a></tt> (6; 1% instances), <tt><a href="ja_pud-dep-nmod.html">nmod</a></tt> (5; 1% instances), <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="ja_pud-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="ja_pud-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="ja_pud-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="ja_pud-dep-dep.html">dep</a></tt> (1; 0% instances), <tt><a href="ja_pud-dep-det.html">det</a></tt> (1; 0% instances), <tt><a href="ja_pud-dep-nummod.html">nummod</a></tt> (1; 0% instances), <tt><a href="ja_pud-dep-obl.html">obl</a></tt> (1; 0% instances)
 
-Children of `PRON` nodes belong to 12 different parts of speech: <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (441; 79% instances), <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (73; 13% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (15; 3% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="ja_pud-pos-PART.html">PART</a></tt> (5; 1% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances)
+Children of `PRON` nodes belong to 13 different parts of speech: <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (441; 79% instances), <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (73; 13% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (15; 3% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="ja_pud-pos-PART.html">PART</a></tt> (5; 1% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ja_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 

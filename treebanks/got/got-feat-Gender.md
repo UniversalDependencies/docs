@@ -56,15 +56,13 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 * `EMPTY` (57): <em>izwis, mik, ik, mis, sis, unsis, igqis, jus, uns, þu</em>
 
 <table>
-  <tr><th>Paradigm <i>saei</i></th><th><tt>Masc</tt></th><th><tt>Masc,Neut</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="got-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="got-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>þanei, þane</em></td><td></td><td><em>þoei</em></td><td><em>þatei</em></td></tr>
-  <tr><td><tt><tt><a href="got-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="got-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>þanzei</em></td><td></td><td><em>þozei, þoze</em></td><td><em>þoei</em></td></tr>
-  <tr><td><tt><tt><a href="got-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="got-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>þammei</em></td><td><em>þammei</em></td><td><em>þizaiei</em></td><td><em>þammei</em></td></tr>
-  <tr><td><tt><tt><a href="got-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="got-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>þaimei</em></td><td></td><td><em>þaimei</em></td><td><em>þaimei</em></td></tr>
-  <tr><td><tt><tt><a href="got-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="got-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>þizei, þize</em></td><td></td><td><em>þizozei</em></td><td><em>þizei, þize</em></td></tr>
-  <tr><td><tt><tt><a href="got-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="got-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>þizeei, þizeiei</em></td><td></td><td></td><td><em>þizeei</em></td></tr>
-  <tr><td><tt><tt><a href="got-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="got-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>saei</em></td><td></td><td><em>soei, sei</em></td><td><em>þatei</em></td></tr>
-  <tr><td><tt><tt><a href="got-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="got-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>þaiei, izei</em></td><td></td><td><em>þozei</em></td><td><em>þoei</em></td></tr>
+  <tr><th>Paradigm <i>ik</i></th><th><tt>Fem,Masc</tt></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><tt><a href="got-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="got-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>mik</em></td><td><em>mik</em></td><td><em>mik</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="got-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="got-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>mis</em></td><td><em>mis</em></td><td><em>mis</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="got-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="got-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>unsis</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="got-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="got-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>meina</em></td><td><em>meina</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="got-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="got-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ik</em></td><td><em>ik</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="got-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="got-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td><em>meina</em></td></tr>
 </table>
 
 ### `ADJ`

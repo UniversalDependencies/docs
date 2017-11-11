@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 <table>
   <tr><th>Paradigm <i>राजन्</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Ins</tt></th><th><tt>Abl</tt></th></tr>
-  <tr><td><tt></tt></td><td>राजा</td><td>राजानम्</td><td>राज्ञे</td><td>राजः, राज्ञः</td><td>राज्ञा</td><td>राज्ञः</td></tr>
+  <tr><td><tt></tt></td><td>राजा</td><td>राजानम्</td><td>राज्ञे</td><td>राज्ञः, राजः</td><td>राज्ञा</td><td>राज्ञः</td></tr>
 </table>
 
 `Case` seems to be **lexical feature** of `NOUN`. 90% lemmas (294) occur only with one value of `Case`.
@@ -88,9 +88,9 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 * `EMPTY` (15): मृत, अजात, आकर्ण्य, इन्द्रिय, उचित, गम्भीर, तथ्य, दूर, प्रभूत, मूढ
 
 <table>
-  <tr><th>Paradigm <i>जात</i></th><th><tt>Nom</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt><tt><a href="sa-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>जातेन</td></tr>
-  <tr><td><tt><tt><a href="sa-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="sa-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td>अजातौ</td><td></td></tr>
+  <tr><th>Paradigm <i>सकल</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
+  <tr><td><tt><tt><a href="sa-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td>सकलाम्</td></tr>
+  <tr><td><tt></tt></td><td>सकल</td><td>सकल</td></tr>
 </table>
 
 `Case` seems to be **lexical feature** of `ADJ`. 95% lemmas (74) occur only with one value of `Case`.

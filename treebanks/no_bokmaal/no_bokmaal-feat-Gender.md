@@ -55,7 +55,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 <table>
   <tr><th>Paradigm <i>en</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
   <tr><td><tt><tt><a href="no_bokmaal-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>ens</em></td><td></td><td></td></tr>
-  <tr><td><tt></tt></td><td><em>en</em></td><td><em>ei</em></td><td><em>et, at, er, ett</em></td></tr>
+  <tr><td><tt></tt></td><td><em>en</em></td><td><em>ei</em></td><td><em>et, er, at, ett</em></td></tr>
 </table>
 
 ### `PRON`

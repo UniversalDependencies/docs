@@ -17,20 +17,14 @@ The following 2 pairs of parts of speech are connected with `nummod:gov`: <tt><a
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 nummod:gov	color:blue
-1	"	"	PUNCT	Z:-------------	_	2	punct	_	_
-2	Beru	brát	VERB	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	si	se	PRON	P7--3----------	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	2	expl:pv	_	_
-4	ho	on	PRON	PHIS4--3-------	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	2	obj	_	_
-5	jednou	jednou	ADV	Cv-------------	NumType=Mult	2	obl	_	_
-6	za	za	ADP	RR--4----------	AdpType=Prep|Case=Acc	8	case	_	_
-7	pár	pár	NUM	Cn-S4----------	Case=Acc|Number=Sing|NumForm=Word|NumType=Card	8	nummod:gov	_	_
-8	let	rok	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	5	obl	_	_
-9	.	.	PUNCT	Z:-------------	_	2	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 nummod:gov	color:blue
+1	Dvacet	dvacet	NUM	Cn-S1----------	Case=Nom|Number=Sing|NumForm=Word|NumType=Card	2	nummod:gov	_	_
+2	minut	minuta	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	Z:-------------	_	2	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -46,12 +40,12 @@ The following 2 pairs of parts of speech are connected with `nummod:gov`: <tt><a
 3	pár	pár	NUM	Cn-S1----------	Case=Nom|Number=Sing|NumForm=Word|NumType=Card	4	nummod:gov	_	_
 4	jich	on	PRON	PPMP2--3-------	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	10	nsubj	_	_
 5	toho	ten	DET	PDIS2----------	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
-6	"	"	PUNCT	Z:-------------	_	8	punct	_	_
+6	"	"	PUNCT	Z:-------------	_	8	punct	_	SpaceAfter=No
 7	odpadního	odpadní	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	8	amod	_	_
-8	materiálu	materiál	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	10	obj	_	_
+8	materiálu	materiál	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	10	obj	_	SpaceAfter=No
 9	"	"	PUNCT	Z:-------------	_	8	punct	_	_
-10	využilo	využít	VERB	VpNS----R-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-11	.	.	PUNCT	Z:-------------	_	10	punct	_	_
+10	využilo	využít	VERB	VpNS----R-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	Z:-------------	_	10	punct	_	SpaceAfter=No
 
 ~~~
 

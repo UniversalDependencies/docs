@@ -50,7 +50,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `ADJ`
 
-80 <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> tokens (9% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
+80 <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> tokens (11% of all `ADJ` tokens) have a non-empty value of `VerbForm`.
 
 The most frequent other feature values with which `ADJ` and `VerbForm` co-occurred: <tt><a href="ja_pud-feat-Form.html">Form</a></tt><tt>=EMPTY</tt> (80; 100%).
 
@@ -58,7 +58,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 
 * `Fin` (21; 26% of non-empty `VerbForm`): ない, 低い, 素晴らしい, いい, 多い, 少ない, 弱い, 良い, 速い, 高い
 * `Ger` (59; 74% of non-empty `VerbForm`): なく, なかっ, 上手く, 大きく, うまく, 余儀なく, 少なく, 広く, 著しく, 間違いなく
-* `EMPTY` (825): この, その, 新しい, 大きな, 高い, 必要, 非常, 完全, 様々, 同じ
+* `EMPTY` (644): 新しい, 大きな, 高い, 必要, 非常, 完全, 様々, 同じ, 重要, ない
 
 <table>
   <tr><th>Paradigm <i>ない</i></th><th><tt>Fin</tt></th><th><tt>Ger</tt></th></tr>
@@ -94,4 +94,10 @@ The most frequent other feature values with which `ADP` and `VerbForm` co-occurr
 
 * `Ger` (1; 100% of non-empty `VerbForm`): で
 * `EMPTY` (871): て, と, が, ため, で, ば, ので, ながら, から, し
+
+## Relations with Agreement in `VerbForm`
+
+The 10 most frequent relations where parent and child node agree in `VerbForm`:
+<tt>ADJ --[<tt><a href="ja_pud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (2; 100%),
+<tt>VERB --[<tt><a href="ja_pud-dep-advcl.html">advcl</a></tt>]--> ADJ</tt> (2; 67%).
 

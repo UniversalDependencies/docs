@@ -12,11 +12,11 @@ udver: '2'
 # UD Russian SynTagRus
 
 Language: [Russian](../ru/overview/ru-hub.html) (code: `ru`)<br/>
-Family: Indo-European, Balto-Slavic
+Family: Indo-European, Slavic
 
 This treebank has been part of Universal Dependencies since the UD v1.3 release.
 
-The following people have contributed to making this treebank part of UD: Kira Droganova, Olga Lyashevskaya, Daniel Zeman, Lena Shakurova, Nina Mustafina.
+The following people have contributed to making this treebank part of UD: Kira Droganova, Olga Lyashevskaya, Daniel Zeman.
 
 Repository: [UD_Russian-SynTagRus](https://github.com/UniversalDependencies/UD_Russian-SynTagRus)
 
@@ -27,19 +27,56 @@ Genre: news, nonfiction, fiction
 Questions, comments?
 General annotation questions (either Russian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Russian-SynTagRus/issues).
-If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&nbsp;mff&nbsp;•&nbsp;cuni&nbsp;•&nbsp;cz].
+If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&nbsp;mff&nbsp;•&nbsp;cuni&nbsp;•&nbsp;cz, droganova&nbsp;(æt)&nbsp;ufal&nbsp;•&nbsp;mff&nbsp;•&nbsp;cuni&nbsp;•&nbsp;cz].
+Development of the treebank happens outside the UD repository.
+If there are bugs, either the original data source or the conversion procedure must be fixed.
+Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
-| XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Lemmas | annotated manually in non-UD style, automatically converted to UD |
+| UPOS | annotated manually in non-UD style, automatically converted to UD |
+| XPOS | not available |
+| Features | annotated manually in non-UD style, automatically converted to UD |
+| Relations | annotated manually in non-UD style, automatically converted to UD |
 
 ## Description
 
+Russian data from the SynTagRus corpus.
+
+
+
+The SynTagRus dependency treebank is being developed by the Computational
+Linguistics Laboratory, A.A.Kharkevich Institute of Information Transmission
+Problems, Russian Academy of Sciences, located in Moscow.
+
+Currently the treebank contains over 1,000,000 tokens (over 66,000 sentences)
+belonging to texts from a variety of genres (contemporary fiction, popular
+science, newspaper and journal articles dated between 1960 and 2016, texts of
+online news etc.)
+
+The treebank is so far the only human-corrected corpus of Russian supplied
+with comprehensive morphological annotation and syntactic annotation in the
+form of a complete dependency tree provided for every sentence. Additionally,
+the original version of SynTagRus contains other types of annotation, first of
+all lexical functional annotation in terms of lexical functions as defined
+in the Meaning-Text model.
+
+It is an integral but fully autonomous part of the Russian National Corpus
+developed in a nationwide research project and can be freely consulted on the
+Web: http://www.ruscorpora.ru/instruction-syntax.html
+
+For more details, see the recently published paper (in Russian):
+
+Дяченко П.В., Иомдин Л.Л., Лазурский А.В., Митюшин Л.Г., Подлесская О.Ю.,
+Сизов В.Г., Фролова Т.И., Цинман Л.Л. Современное состояние глубоко
+аннотированного корпуса текстов русского языка (СинТагРус) // Сборник
+«Национальный корпус русского языка: 10 лет проекту». Труды Института русского
+языка им. В.В. Виноградова. М., 2015. Вып. 6. С. 272-299.
+
+
 ## Acknowledgments
+
 # Statistics of UD Russian SynTagRus
 
 ## POS Tags
@@ -52,15 +89,15 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
 
 ## Relations
 
-[_](ru_syntagrus-dep-_.html) – [acl](ru_syntagrus-dep-acl.html) – [acl:relcl](ru_syntagrus-dep-acl-relcl.html) – [advcl](ru_syntagrus-dep-advcl.html) – [advmod](ru_syntagrus-dep-advmod.html) – [amod](ru_syntagrus-dep-amod.html) – [appos](ru_syntagrus-dep-appos.html) – [aux](ru_syntagrus-dep-aux.html) – [aux:pass](ru_syntagrus-dep-aux-pass.html) – [case](ru_syntagrus-dep-case.html) – [cc](ru_syntagrus-dep-cc.html) – [ccomp](ru_syntagrus-dep-ccomp.html) – [compound](ru_syntagrus-dep-compound.html) – [conj](ru_syntagrus-dep-conj.html) – [cop](ru_syntagrus-dep-cop.html) – [dep](ru_syntagrus-dep-dep.html) – [discourse](ru_syntagrus-dep-discourse.html) – [expl](ru_syntagrus-dep-expl.html) – [fixed](ru_syntagrus-dep-fixed.html) – [flat](ru_syntagrus-dep-flat.html) – [flat:foreign](ru_syntagrus-dep-flat-foreign.html) – [flat:name](ru_syntagrus-dep-flat-name.html) – [iobj](ru_syntagrus-dep-iobj.html) – [mark](ru_syntagrus-dep-mark.html) – [nmod](ru_syntagrus-dep-nmod.html) – [nsubj](ru_syntagrus-dep-nsubj.html) – [nsubj:pass](ru_syntagrus-dep-nsubj-pass.html) – [nummod](ru_syntagrus-dep-nummod.html) – [nummod:entity](ru_syntagrus-dep-nummod-entity.html) – [nummod:gov](ru_syntagrus-dep-nummod-gov.html) – [obj](ru_syntagrus-dep-obj.html) – [obl](ru_syntagrus-dep-obl.html) – [obl:agent](ru_syntagrus-dep-obl-agent.html) – [orphan](ru_syntagrus-dep-orphan.html) – [parataxis](ru_syntagrus-dep-parataxis.html) – [punct](ru_syntagrus-dep-punct.html) – [root](ru_syntagrus-dep-root.html) – [vocative](ru_syntagrus-dep-vocative.html) – [xcomp](ru_syntagrus-dep-xcomp.html)
+[_](ru_syntagrus-dep-_.html) – [acl](ru_syntagrus-dep-acl.html) – [acl:relcl](ru_syntagrus-dep-acl-relcl.html) – [advcl](ru_syntagrus-dep-advcl.html) – [advmod](ru_syntagrus-dep-advmod.html) – [amod](ru_syntagrus-dep-amod.html) – [appos](ru_syntagrus-dep-appos.html) – [aux](ru_syntagrus-dep-aux.html) – [aux:pass](ru_syntagrus-dep-aux-pass.html) – [case](ru_syntagrus-dep-case.html) – [cc](ru_syntagrus-dep-cc.html) – [ccomp](ru_syntagrus-dep-ccomp.html) – [compound](ru_syntagrus-dep-compound.html) – [conj](ru_syntagrus-dep-conj.html) – [cop](ru_syntagrus-dep-cop.html) – [csubj](ru_syntagrus-dep-csubj.html) – [csubj:pass](ru_syntagrus-dep-csubj-pass.html) – [dep](ru_syntagrus-dep-dep.html) – [det](ru_syntagrus-dep-det.html) – [discourse](ru_syntagrus-dep-discourse.html) – [expl](ru_syntagrus-dep-expl.html) – [fixed](ru_syntagrus-dep-fixed.html) – [flat](ru_syntagrus-dep-flat.html) – [flat:foreign](ru_syntagrus-dep-flat-foreign.html) – [flat:name](ru_syntagrus-dep-flat-name.html) – [iobj](ru_syntagrus-dep-iobj.html) – [mark](ru_syntagrus-dep-mark.html) – [nmod](ru_syntagrus-dep-nmod.html) – [nsubj](ru_syntagrus-dep-nsubj.html) – [nsubj:pass](ru_syntagrus-dep-nsubj-pass.html) – [nummod](ru_syntagrus-dep-nummod.html) – [nummod:entity](ru_syntagrus-dep-nummod-entity.html) – [nummod:gov](ru_syntagrus-dep-nummod-gov.html) – [obj](ru_syntagrus-dep-obj.html) – [obl](ru_syntagrus-dep-obl.html) – [orphan](ru_syntagrus-dep-orphan.html) – [parataxis](ru_syntagrus-dep-parataxis.html) – [punct](ru_syntagrus-dep-punct.html) – [root](ru_syntagrus-dep-root.html) – [vocative](ru_syntagrus-dep-vocative.html) – [xcomp](ru_syntagrus-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 <ul>
-<li>This corpus contains 61889 sentences and 1107250 tokens.</li>
-<li>This corpus contains 192546 tokens (17%) that are not followed by a space.</li>
+<li>This corpus contains 61889 sentences and 1107182 tokens.</li>
+<li>This corpus contains 192545 tokens (17%) that are not followed by a space.</li>
 <li>This corpus does not contain words with spaces.</li>
-<li>This corpus contains 1834 types of words that contain both letters and punctuation. Examples: а_также, из-за, г., что-то, в., А., все-таки, так_и, как-то, кто-то, д., во-первых, м., н., п., во-вторых, какой-то, И., какие-то, по-прежнему, с., е., какое-то, тыс., где-то, т.д., когда-то, чем-то, почему-то, г-н, каким-то, 90-х, им., Гран-при, из-под, т.д, гг., л., 1990-х, по-видимому, что-нибудь, см., а_то_и, кого-то, т.е., т., ГУ-ВШЭ, каких-то, какой-нибудь, о.</li>
+<li>This corpus contains 1835 types of words that contain both letters and punctuation. Examples: а_также, из-за, г., что-то, в., А., все-таки, так_и, как-то, кто-то, д., во-первых, м., н., п., во-вторых, какой-то, И., какие-то, по-прежнему, с., е., какое-то, тыс., где-то, т.д., когда-то, чем-то, почему-то, г-н, каким-то, 90-х, им., Гран-при, из-под, т.д, гг., л., 1990-х, по-видимому, что-нибудь, см., а_то_и, кого-то, т.е., т., ГУ-ВШЭ, каких-то, какой-нибудь, о.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -69,18 +106,19 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
 
 <ul>
 <li>This corpus uses 18 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a>, <a>_</a></li>
-<li>This corpus contains 99 word types tagged as particles (PART): Абу, Ага, Ле, Мол, Ну-у, Пущай, Увы, Что, а, абы, аж, аль, б, бен, бишь, будто, бы, было, ван, ведь, вон, вот, все, все-таки, всего, всё, всё-таки, да, даже, де, делла, дель, ди, душ, едва, единственно, ей-богу, еле, еле-еле, ж, же, зато, и, ибн, именно, ишь, ка, кое, ла, ладно, ли, лишь, минус, нате, не, невесть, нет, нет-нет, неужели, ни, ни-ни, ничего, нон, ну, о'кей, ох, плюс, попало, попросту, просто, просто-напросто, просто-таки, прямо, прямо-таки, пускай, пусть, разве, себе, словно, так, таки, там, то, тоже, только, только-только, точно, уж, фон, хотя, черт-те, чуть-чуть, эвон, эль, этим, это, этого, этом, этому</li>
+<li>This corpus contains 95 word types tagged as particles (PART): Абу, Ага, Ле, Мол, Ну-у, Пущай, Увы, Что, а, абы, аж, аль, б, бен, бишь, будто, бы, было, ван, ведь, вон, вот, все, все-таки, всего, всё, всё-таки, да, даже, де, делла, дель, ди, душ, едва, единственно, ей-богу, еле, еле-еле, ж, же, зато, и, ибн, именно, ишь, ка, кое, ла, ладно, ли, лишь, минус, нате, не, невесть, нет, нет-нет, неужели, ни, ни-ни, ничего, нон, ну, о'кей, ох, плюс, попало, попросту, просто, просто-напросто, просто-таки, прямо, прямо-таки, пускай, пусть, разве, себе, словно, так, таки, там, то, тоже, только, только-только, точно, уж, фон, хотя, черт-те, чуть-чуть, эвон, эль, это</li>
 </ul>
 
 <ul>
-<li>This corpus contains 23 lemmas tagged as pronouns (PRON): все, вы, который, кто, мы, наша, некого, некто, нечего, нечто, никто, ничто, он, она, они, оно, прочее, себя, то, ты, что, это, я</li>
+<li>This corpus contains 35 lemmas tagged as pronouns (PRON): весь, все, вы, какой, который, кто, кто-то, мой, мы, наш, некого, некоторый, некто, нечего, нечто, никакой, никто, ничто, он, она, они, оно, прочее, свой, себя, такой, твой, тем, то, тот, ты, что, это, этот, я</li>
 </ul>
 
 <ul>
-<li>This corpus contains 22 lemmas tagged as determiners (DET): ваш, весь, всякий, какой, какой-либо, какой-нибудь, кое-какой, кой, мой, наш, некий, некоторый, никакой, никой, полпути, свой, сей, такой, твой, тот, чей, этот</li>
+<li>This corpus contains 23 lemmas tagged as determiners (DET): ваш, весь, всякий, какой, какой-либо, какой-нибудь, кое-какой, кой, мой, наш, наша, некий, некоторый, никакой, никой, полпути, свой, сей, такой, твой, тот, чей, этот</li>
 </ul>
 
 <ul>
+<li>Out of the above, 11 lemmas occurred sometimes as PRON and sometimes as DET: весь, какой, мой, наш, некоторый, никакой, свой, такой, твой, тот, этот</li>
 </ul>
 
 <ul>
@@ -131,7 +169,7 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>ADJ: российской, другой, должна, новой, самой, первую, государственной, политической, первой, сама</li>
         <li>AUX-Fin: была</li>
         <li>DET: этой, своей, эта, свою, нашей, эту, такой, той, такая, всей</li>
-        <li>NOUN: жизни, власти, страны, деньги, работы, жизнь, системы, стороны, экономики, стране</li>
+        <li>NOUN: жизни, власти, страны, работы, деньги, системы, стороны, экономики, стране, жизнь</li>
         <li>NUM: одной, две, одна, одну, обе, обеих, обеими, обеим, двух, полторы</li>
         <li>PRON: ее, она, нее, ней, ей, её, ею, нею, неё, тем</li>
         <li>PROPN: России, Россия, Москве, Москвы, РФ, Россию, Германии, Земли, Европе, РАН</li>
@@ -144,11 +182,11 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>ADJ: сам, должен, первый, каждый, новый, самый, другой, нового, второй, главный</li>
         <li>AUX-Fin: был</li>
         <li>AUX-Part: бывший, бывшем</li>
-        <li>DET: этот, тот, этом, этого, такой, таким, свой, своего, наш, весь</li>
-        <li>NOUN: года, лет, году, %, раз, человек, люди, людей, человека, случае</li>
+        <li>DET: этот, тот, этом, этого, таким, такой, свой, своего, наш, весь</li>
+        <li>NOUN: года, лет, году, раз, человек, людей, люди, человека, случае, год</li>
         <li>NUM: один, два, одного, одним, одном, полтора, одному, оба, обоих, двух</li>
         <li>PRON: он, его, ему, него, ним, нем, им, нему, нём, все</li>
-        <li>PROPN: СССР, В., Путин, А., Владимир, Путина, Сергей, Александр, Института, НДС</li>
+        <li>PROPN: СССР, Путин, В., Владимир, А., Сергей, Путина, Александр, Галилей, Института</li>
         <li>VERB-Fin: стал, сказал, мог, заявил, был, сообщил, говорил, оказался, видел, получил</li>
         <li>VERB-Part: связан, называемый, создан, устроен, избран, принят, ранен, сделан, созданный, имеющий</li>
       </ul>
@@ -158,10 +196,10 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>ADJ: нужно, самом, известно, необходимо, самое, невозможно, должно, важно, другое, трудно</li>
         <li>AUX-Fin: было</li>
         <li>DET: это, все, то, такое, том, свое, этого, этом, своего, наше</li>
-        <li>NOUN: время, дело, времени, развития, государства, образования, место, числе, общества, словам</li>
+        <li>NOUN: время, времени, развития, дело, государства, образования, место, числе, общества, словам</li>
         <li>NUM: одно, два, одним, одного, одном, одному, оба, полтора, обоих</li>
         <li>PRON: это, то, того, том, все, этом, тем, этого, всего, оно</li>
-        <li>PROPN: СМИ, РИА, МВД, СНГ, Солнца, НАТО, МЧС, Солнце, Минэкономразвития, ИТ</li>
+        <li>PROPN: Дело, РИА, МВД, СНГ, Правительство, Солнца, Солнце, НАТО, МЧС, Министерство</li>
         <li>VERB-Fin: было, стало, удалось, оказалось, казалось, пришлось, произошло, могло, хотелось, выяснилось</li>
         <li>VERB-Part: связано, сделано, принято, сказано, написано, решено, исключено, запрещено, происходящее, установлено</li>
       </ul>
@@ -174,18 +212,18 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
     <li>Anim
       <ul>
         <li>ADJ: других, самого, многих, другого, каждого, новых, самих, молодых, российских, одного</li>
-        <li>NOUN: человек, люди, людей, человека, ученые, президента, президент, друг, детей, ученых</li>
+        <li>NOUN: человек, людей, люди, человека, президента, ученые, друг, детей, президент, ученых</li>
         <li>NUM: одного, двух, троих, трех, двоих, нескольких, обоих, четверых, шестерых, пятерых</li>
         <li>PRON: все, всех, всем, всеми, кого, кем, кому</li>
-        <li>PROPN: В., Путин, А., Путина, Владимир, Сергей, Александр, М., Н., Медведев</li>
+        <li>PROPN: В., Путин, А., Владимир, Сергей, Путина, Александр, Галилей, М., Медведев</li>
         <li>VERB-Part: желающих, имеющих, спящего, Оставшихся, владеющих, задержанных, находящегося, пользующегося, похищенного, прибывающих</li>
       </ul>
     </li>
     <li>Inan
       <ul>
         <li>ADJ: последние, новые, первый, первую, каждый, другие, настоящее, новый, первые, самые</li>
-        <li>DET: то, каких, какую, какие, кой</li>
-        <li>NOUN: время, года, лет, году, %, раз, жизни, власти, страны, дело</li>
+        <li>DET: то, каких, какую, какие, кой, н.э.</li>
+        <li>NOUN: года, время, лет, году, раз, жизни, власти, страны, случае, времени</li>
         <li>NUM: несколько, два, три, один, четыре, две, обе, оба, двое, одни</li>
         <li>PRON: это, то, того, том, все, этом, тем, этого, всего, тому</li>
         <li>PROPN: России, США, СССР, Россия, Москве, Москвы, РФ, Россию, Германии, Земли</li>
@@ -202,11 +240,11 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>ADJ: других, многие, другие, должны, новые, многих, последние, новых, сами, самых</li>
         <li>AUX-Fin: были, будут, будем, есть, будете, будьте, суть</li>
         <li>AUX-Part: бывшие</li>
-        <li>DET: все, эти, всех, тех, свои, этих, те, своих, такие, таких</li>
-        <li>NOUN: лет, люди, людей, %, деньги, годы, тысяч, словам, человек, стран</li>
+        <li>DET: все, эти, всех, свои, этих, тех, те, своих, такие, таких</li>
+        <li>NOUN: лет, людей, люди, деньги, годы, тысяч, словам, человек, стран, пор</li>
         <li>PRON: их, мы, они, них, нас, вы, нам, им, все, вас</li>
-        <li>PROPN: США, СМИ, Новости, НИ, Цилиндры, НКО, Цилиндров, Итогам, Сил, Альпах</li>
-        <li>VERB-Fin: могут, есть, стали, говорят, могли, имеют, скажем, являются, сообщили, были</li>
+        <li>PROPN: США, Люди, Новости, Ученые, Цилиндры, НИ, НКО, Цилиндров, Эксперты, Деньги</li>
+        <li>VERB-Fin: могут, есть, стали, говорят, могли, имеют, скажем, являются, были, сообщили</li>
         <li>VERB-Part: связаны, связанных, называемые, полученные, вынуждены, называемых, погибших, связанные, работающих, приняты</li>
       </ul>
     </li>
@@ -215,10 +253,10 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>ADJ: нужно, другой, сам, должен, первый, самом, каждый, российской, второй, должна</li>
         <li>AUX-Fin: было, был, будет, была, есть, буду, будь, будешь</li>
         <li>AUX-Part: бывший, бывшем</li>
-        <li>DET: этот, этой, такой, этом, этого, своей, это, эта, свою, том</li>
-        <li>NOUN: время, года, году, жизни, раз, дело, человека, случае, времени, власти</li>
+        <li>DET: этот, этой, такой, этого, этом, своей, это, эта, свою, том</li>
+        <li>NOUN: года, время, году, жизни, раз, человека, случае, времени, власти, страны</li>
         <li>PRON: он, это, его, я, ее, она, то, того, том, все</li>
-        <li>PROPN: России, СССР, Россия, В., Москве, Путин, А., Москвы, Путина, РФ</li>
+        <li>PROPN: России, СССР, Россия, В., Путин, А., Москве, Владимир, Сергей, Москвы</li>
         <li>VERB-Fin: может, есть, нет, было, является, стал, сказал, говорит, стало, стоит</li>
         <li>VERB-Part: связано, сделано, окружающей, принято, связана, связан, сказано, называемый, написано, создана</li>
       </ul>
@@ -253,8 +291,8 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
     <li>Gen
       <ul>
         <li>ADJ: других, нового, новых, российской, самых, российских, другой, многих, российского, самого</li>
-        <li>DET: этого, тех, всех, этих, этой, своего, таких, такого, своих, нашей</li>
-        <li>NOUN: года, лет, %, людей, страны, жизни, развития, человека, экономики, времени</li>
+        <li>DET: этого, тех, всех, этих, этой, своего, таких, своих, такого, нашей</li>
+        <li>NOUN: года, лет, людей, страны, жизни, развития, человека, экономики, власти, времени</li>
         <li>NUM: двух, трех, нескольких, одного, одной, пяти, четырех, десяти, семи, двадцати</li>
         <li>PRON: его, их, того, ее, ничего, которых, нас, них, чего, которого</li>
         <li>PROPN: России, США, СССР, Москвы, РФ, Путина, Земли, Европы, Института, РАН</li>
@@ -265,10 +303,10 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
       <ul>
         <li>ADJ: самым, первым, другими, главным, большим, другим, главной, каждым, каким-то, новым</li>
         <li>DET: таким, своим, своими, своей, этим, тем, этой, всеми, такими, каким</li>
-        <li>NOUN: образом, помощью, людьми, временем, целью, человеком, вечером, ночью, словами, президентом</li>
+        <li>NOUN: образом, помощью, людьми, временем, целью, человеком, вечером, словами, президентом, силой</li>
         <li>NUM: одним, двумя, одной, тремя, несколькими, пятью, семью, шестью, четырьмя, обеими</li>
         <li>PRON: тем, собой, чем, ним, которыми, ними, которым, им, этим, кем</li>
-        <li>PROPN: Россией, Путиным, США, В., Москвой, Владимиром, А., Европой, Кремлем, Александром</li>
+        <li>PROPN: Россией, Путиным, США, Словом, В., Москвой, Ночью, Утром, Владимиром, А.</li>
         <li>VERB-Part: полученными, связанными, доминирующей, закрытой, закрытыми, называемым, окружающей, вооруженными, действующей, дрожащими</li>
       </ul>
     </li>
@@ -288,11 +326,11 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
       <ul>
         <li>ADJ: многие, сам, другие, сами, каждый, первый, самое, самый, другой, новые</li>
         <li>AUX-Part: бывшие, бывший</li>
-        <li>DET: все, эти, эта, этот, те, тот, такие, это, такая, некоторые</li>
-        <li>NOUN: люди, человек, дело, вопрос, ученые, система, часть, президент, речь, друг</li>
+        <li>DET: все, эти, эта, этот, те, тот, это, такие, некоторые, такая</li>
+        <li>NOUN: люди, человек, дело, система, вопрос, ученые, часть, друг, ситуация, большинство</li>
         <li>NUM: один, несколько, три, два, одна, две, пять, одно, четыре, двое</li>
         <li>PRON: он, это, что, я, которые, мы, они, кто, она, который</li>
-        <li>PROPN: Россия, Путин, Владимир, Сергей, Александр, В., Медведев, А., Галилей, Ильич</li>
+        <li>PROPN: Россия, Путин, Владимир, Сергей, Александр, Галилей, Дело, В., А., Медведев</li>
         <li>VERB-Part: связанные, называемый, полученные, называемая, называемые, работающие, имеющие, имеющий, действующие, находящийся</li>
       </ul>
     </li>
@@ -304,7 +342,7 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
     </li>
     <li>Voc
       <ul>
-        <li>NOUN: господи, боже, Серег, дедуль</li>
+        <li>NOUN: боже, Серег, господи, дедуль</li>
         <li>PROPN: Господи, Боже, Володь</li>
       </ul>
     </li>
@@ -328,6 +366,8 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>ADJ: других, нужно, другой, многие, другие, должны, сам, должен, первый, самом</li>
         <li>ADV: так, уже, еще, можно, как, очень, однако, где, сейчас, например</li>
         <li>DET: какой</li>
+        <li>NOUN: э</li>
+        <li>PROPN: Великий, Русская, Неизвестно, Русский, Великая, Верно, Неизвестные, Ведущими, Великое, Горько</li>
       </ul>
     </li>
     <li>Sup
@@ -354,6 +394,7 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
     <li>Short
       <ul>
         <li>ADJ: нужно, должны, должен, должна, известно, необходимо, невозможно, должно, важно, трудно</li>
+        <li>PROPN: Неизвестно, Верно, Горько, Неизвестны</li>
         <li>VERB-Part: связано, связаны, сделано, принято, связана, связан, сказано, написано, создана, создан</li>
       </ul>
     </li>
@@ -530,8 +571,8 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 7 lemmas as copulas (<a>cop</a>). Examples: быть, это, пробыть, вот, =, побыть, пребыть.</li>
-<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: бы, быть.</li>
+<li>This corpus uses 4 lemmas as copulas (<a>cop</a>). Examples: быть, это, вот, =.</li>
+<li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: бы, быть, модель.</li>
 <li>This corpus uses 4 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: быть, было, бывать, график.</li>
 </ul>
 
@@ -541,49 +582,41 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (20)</li>
-      <li>VERB-Fin--NOUN-ADP(до) (2)</li>
-      <li>VERB-Fin--NOUN-Acc (5)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(в) (1)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(по) (7)</li>
-      <li>VERB-Fin--NOUN-Gen (1691)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(без) (1)</li>
+      <li>VERB-Fin--NOUN (1)</li>
+      <li>VERB-Fin--NOUN-Acc (4)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(по) (8)</li>
+      <li>VERB-Fin--NOUN-Gen (1948)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(в) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(во) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(до) (12)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(около) (57)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(от) (6)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(по) (10)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(порядка) (4)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(свыше) (10)</li>
-      <li>VERB-Fin--NOUN-Ins (1)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(с) (1)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(в) (1)</li>
-      <li>VERB-Fin--NOUN-Nom (31202)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(во) (6)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(до) (10)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(около) (48)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(от) (5)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(по) (11)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(порядка) (3)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(свыше) (8)</li>
+      <li>VERB-Fin--NOUN-Nom (29218)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(во) (5)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(для) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(до) (1)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(к)-ADP(для) (1)</li>
-      <li>VERB-Fin--NOUN-Par (5)</li>
+      <li>VERB-Fin--NOUN-Par (8)</li>
       <li>VERB-Fin--PRON (6)</li>
-      <li>VERB-Fin--PRON-Gen (235)</li>
+      <li>VERB-Fin--PRON-Gen (282)</li>
       <li>VERB-Fin--PRON-Gen-ADP(у) (1)</li>
-      <li>VERB-Fin--PRON-Ins (2)</li>
+      <li>VERB-Fin--PRON-Ins (1)</li>
       <li>VERB-Fin--PRON-Loc-ADP(в) (1)</li>
-      <li>VERB-Fin--PRON-Nom (15222)</li>
-      <li>VERB-Inf--NOUN-Gen (11)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(около) (2)</li>
-      <li>VERB-Inf--NOUN-Nom (509)</li>
+      <li>VERB-Fin--PRON-Nom (15453)</li>
+      <li>VERB-Inf--NOUN-Gen (9)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(около) (1)</li>
+      <li>VERB-Inf--NOUN-Nom (481)</li>
       <li>VERB-Inf--PRON-Gen (1)</li>
-      <li>VERB-Inf--PRON-Ins (1)</li>
-      <li>VERB-Inf--PRON-Nom (288)</li>
-      <li>VERB-Part--NOUN-Gen (125)</li>
+      <li>VERB-Inf--PRON-Nom (292)</li>
+      <li>VERB-Part--NOUN-Gen (121)</li>
       <li>VERB-Part--NOUN-Gen-ADP(до) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(около) (11)</li>
-      <li>VERB-Part--NOUN-Nom (1513)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(около) (10)</li>
+      <li>VERB-Part--NOUN-Nom (1436)</li>
       <li>VERB-Part--NOUN-Nom-ADP(менее) (1)</li>
-      <li>VERB-Part--NOUN-Nom-ADP(по) (1)</li>
       <li>VERB-Part--PRON-Gen (8)</li>
-      <li>VERB-Part--PRON-Nom (299)</li>
+      <li>VERB-Part--PRON-Nom (300)</li>
     </ul>
   </li>
 </ul>
@@ -592,21 +625,25 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN-Acc (1)</li>
-      <li>VERB-Conv--NOUN-Acc (1470)</li>
+      <li>VERB-Conv--NOUN-Acc (1466)</li>
+      <li>VERB-Conv--NOUN-Nom (2)</li>
       <li>VERB-Conv--PRON-Acc (157)</li>
-      <li>VERB-Fin--NOUN-Acc (14788)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(в) (1)</li>
+      <li>VERB-Fin--NOUN-Acc (14600)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(во) (2)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(на) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(с) (1)</li>
-      <li>VERB-Fin--PRON-Acc (3487)</li>
-      <li>VERB-Inf--NOUN-Acc (9240)</li>
+      <li>VERB-Fin--NOUN-Nom (26)</li>
+      <li>VERB-Fin--PRON (1)</li>
+      <li>VERB-Fin--PRON-Acc (3480)</li>
+      <li>VERB-Inf--NOUN (1)</li>
+      <li>VERB-Inf--NOUN-Acc (9167)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(из) (1)</li>
-      <li>VERB-Inf--PRON-Acc (1779)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(о) (1)</li>
-      <li>VERB-Part--NOUN-Acc (1385)</li>
+      <li>VERB-Inf--NOUN-Nom (11)</li>
+      <li>VERB-Inf--PRON-Acc (1785)</li>
+      <li>VERB-Part--NOUN-Acc (1377)</li>
       <li>VERB-Part--NOUN-Acc-ADP(во) (1)</li>
-      <li>VERB-Part--PRON-Acc (115)</li>
+      <li>VERB-Part--NOUN-Nom (5)</li>
+      <li>VERB-Part--PRON-Acc (112)</li>
     </ul>
   </li>
 </ul>
@@ -614,81 +651,27 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Conv--NOUN-Gen-ADP(до) (1)</li>
-      <li>VERB-Conv--NOUN-Gen-ADP(с) (3)</li>
-      <li>VERB-Fin--NOUN-Dat (69)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(к) (2)</li>
-      <li>VERB-Fin--NOUN-Gen (20)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(без) (2)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(более)-ADP(в) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(в) (31)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(вблизи) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(вне) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(внутрь) (3)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(во) (2)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(возле) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(для) (76)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(до) (57)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(за) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(из) (101)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(из-за) (3)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(из-под) (2)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(между) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(на) (18)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(напротив) (2)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(ниже) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(около) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(от) (84)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(относительно) (2)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(после) (4)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(с) (64)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(среди) (12)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(у) (61)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(через) (4)</li>
-      <li>VERB-Fin--PRON-Dat (121)</li>
-      <li>VERB-Fin--PRON-Dat-ADP(к) (7)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(для) (10)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(до) (2)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(из) (3)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(от) (10)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(с) (13)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(у) (45)</li>
-      <li>VERB-Inf--NOUN-Dat (24)</li>
-      <li>VERB-Inf--NOUN-Gen (1)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(для) (2)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(до) (4)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(из) (4)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(от) (6)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(с) (5)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(у) (1)</li>
-      <li>VERB-Inf--PRON-Dat (29)</li>
-      <li>VERB-Inf--PRON-Gen-ADP(для) (1)</li>
-      <li>VERB-Inf--PRON-Gen-ADP(до) (1)</li>
-      <li>VERB-Inf--PRON-Gen-ADP(из) (1)</li>
-      <li>VERB-Inf--PRON-Gen-ADP(от) (1)</li>
-      <li>VERB-Inf--PRON-Gen-ADP(с) (2)</li>
-      <li>VERB-Inf--PRON-Gen-ADP(у) (1)</li>
-      <li>VERB-Part--NOUN-Dat (6)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(к) (1)</li>
-      <li>VERB-Part--NOUN-Gen (23)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(более)-ADP(на) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(в) (3)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(вблизи) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(для) (4)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(до) (2)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(из) (26)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(из-под) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(на) (6)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(около) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(от) (11)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(против) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(с) (8)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(среди) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(у) (2)</li>
-      <li>VERB-Part--PRON-Dat (4)</li>
-      <li>VERB-Part--PRON-Dat-ADP(к) (1)</li>
-      <li>VERB-Part--PRON-Gen-ADP(из) (1)</li>
-      <li>VERB-Part--PRON-Gen-ADP(у) (3)</li>
+      <li>VERB--NOUN-Dat (1)</li>
+      <li>VERB-Conv--NOUN-Dat (89)</li>
+      <li>VERB-Conv--NOUN-Gen (7)</li>
+      <li>VERB-Conv--NOUN-Nom (1)</li>
+      <li>VERB-Conv--PRON-Dat (27)</li>
+      <li>VERB-Fin--NOUN-Dat (1720)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(во) (1)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(с) (1)</li>
+      <li>VERB-Fin--NOUN-Gen (46)</li>
+      <li>VERB-Fin--NOUN-Nom (6)</li>
+      <li>VERB-Fin--PRON-Dat (1838)</li>
+      <li>VERB-Fin--PRON-Gen (11)</li>
+      <li>VERB-Inf--NOUN-Dat (605)</li>
+      <li>VERB-Inf--NOUN-Gen (15)</li>
+      <li>VERB-Inf--NOUN-Nom (5)</li>
+      <li>VERB-Inf--PRON-Dat (386)</li>
+      <li>VERB-Part--NOUN-Dat (366)</li>
+      <li>VERB-Part--NOUN-Gen (62)</li>
+      <li>VERB-Part--NOUN-Nom (3)</li>
+      <li>VERB-Part--PRON-Dat (142)</li>
+      <li>VERB-Part--PRON-Gen (1)</li>
     </ul>
   </li>
 </ul>
@@ -699,6 +682,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>nummod:entity</a>, <a>nummod:gov</a>, <a>obl:agent</a></li>
-<li>The following 7 relation types are not used in this corpus at all: <a>csubj</a>, <a>dislocated</a>, <a>det</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>nummod:entity</a>, <a>nummod:gov</a></li>
+<li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

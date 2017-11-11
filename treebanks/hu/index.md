@@ -12,7 +12,7 @@ udver: '2'
 # UD Hungarian
 
 Language: [Hungarian](../hu/overview/hu-hub.html) (code: `hu`)<br/>
-Family: Uralic, Finno-Ugric
+Family: Uralic, Ugric
 
 This treebank has been part of Universal Dependencies since the UD v1.0 release.
 
@@ -40,6 +40,7 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
 ## Description
 
 ## Acknowledgments
+
 # Statistics of UD Hungarian
 
 ## POS Tags

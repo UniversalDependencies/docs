@@ -12,7 +12,7 @@ udver: '2'
 # UD Czech FicTree
 
 Language: [Czech](../cs/overview/cs-hub.html) (code: `cs`)<br/>
-Family: Indo-European, Balto-Slavic
+Family: Indo-European, Slavic
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
@@ -42,11 +42,37 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-A treebank of Czech fiction.
+FicTree is a treebank of Czech fiction, automatically converted into the UD
+format. The treebank was built at Charles University in Prague.
 
+
+
+
+The treebank consists of 12,760 sentences (166,432 tokens). The texts come from
+eight literary works published in the Czech Republic between 1991 and 2007.
+The text data was manually annotated according to the Prague Dependency Treebank
+guidelines, then converted into the UD format.
+To comply with agreements concluded with the copyright holders, the texts are
+shuffled into random chunks of maximum 100 words.
+The treebank is licensed under the terms of [CC BY-NC-SA 3.0]
+(http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
 
 ## Acknowledgments
+
+We wish to thank the participants in the annotation effort, including Milena
+Hnátková, Tomáš Jelínek, Ivana Klímová, Alena Kropíková, Hana Skoumalová and
+Olga Zitová; as well as Dan Zeman for the data conversion.
+
+
+## References
+
+* Tomáš Jelínek. 2017. FicTree: a Manually Annotated Treebank of Czech Fiction.
+In: J. Hlaváčová (Ed.): ITAT 2017 Proceedings, pp. 181–185.
+http://ceur-ws.org/Vol-1885/181.pdf
+
+
+
 # Statistics of UD Czech FicTree
 
 ## POS Tags
@@ -59,13 +85,13 @@ A treebank of Czech fiction.
 
 ## Relations
 
-[acl](cs_fictree-dep-acl.html) – [advcl](cs_fictree-dep-advcl.html) – [advmod](cs_fictree-dep-advmod.html) – [advmod:emph](cs_fictree-dep-advmod-emph.html) – [amod](cs_fictree-dep-amod.html) – [appos](cs_fictree-dep-appos.html) – [aux](cs_fictree-dep-aux.html) – [aux:pass](cs_fictree-dep-aux-pass.html) – [case](cs_fictree-dep-case.html) – [cc](cs_fictree-dep-cc.html) – [ccomp](cs_fictree-dep-ccomp.html) – [compound](cs_fictree-dep-compound.html) – [conj](cs_fictree-dep-conj.html) – [cop](cs_fictree-dep-cop.html) – [csubj](cs_fictree-dep-csubj.html) – [csubj:pass](cs_fictree-dep-csubj-pass.html) – [dep](cs_fictree-dep-dep.html) – [det](cs_fictree-dep-det.html) – [det:numgov](cs_fictree-dep-det-numgov.html) – [det:nummod](cs_fictree-dep-det-nummod.html) – [discourse](cs_fictree-dep-discourse.html) – [expl:pass](cs_fictree-dep-expl-pass.html) – [expl:pv](cs_fictree-dep-expl-pv.html) – [fixed](cs_fictree-dep-fixed.html) – [flat](cs_fictree-dep-flat.html) – [iobj](cs_fictree-dep-iobj.html) – [mark](cs_fictree-dep-mark.html) – [nmod](cs_fictree-dep-nmod.html) – [nsubj](cs_fictree-dep-nsubj.html) – [nsubj:pass](cs_fictree-dep-nsubj-pass.html) – [nummod](cs_fictree-dep-nummod.html) – [nummod:gov](cs_fictree-dep-nummod-gov.html) – [obj](cs_fictree-dep-obj.html) – [obl](cs_fictree-dep-obl.html) – [obl:arg](cs_fictree-dep-obl-arg.html) – [orphan](cs_fictree-dep-orphan.html) – [parataxis](cs_fictree-dep-parataxis.html) – [punct](cs_fictree-dep-punct.html) – [root](cs_fictree-dep-root.html) – [vocative](cs_fictree-dep-vocative.html) – [xcomp](cs_fictree-dep-xcomp.html)
+[acl](cs_fictree-dep-acl.html) – [advcl](cs_fictree-dep-advcl.html) – [advmod](cs_fictree-dep-advmod.html) – [advmod:emph](cs_fictree-dep-advmod-emph.html) – [amod](cs_fictree-dep-amod.html) – [appos](cs_fictree-dep-appos.html) – [aux](cs_fictree-dep-aux.html) – [aux:pass](cs_fictree-dep-aux-pass.html) – [case](cs_fictree-dep-case.html) – [cc](cs_fictree-dep-cc.html) – [ccomp](cs_fictree-dep-ccomp.html) – [compound](cs_fictree-dep-compound.html) – [conj](cs_fictree-dep-conj.html) – [cop](cs_fictree-dep-cop.html) – [csubj](cs_fictree-dep-csubj.html) – [csubj:pass](cs_fictree-dep-csubj-pass.html) – [dep](cs_fictree-dep-dep.html) – [det](cs_fictree-dep-det.html) – [det:numgov](cs_fictree-dep-det-numgov.html) – [det:nummod](cs_fictree-dep-det-nummod.html) – [discourse](cs_fictree-dep-discourse.html) – [expl:pass](cs_fictree-dep-expl-pass.html) – [expl:pv](cs_fictree-dep-expl-pv.html) – [fixed](cs_fictree-dep-fixed.html) – [flat](cs_fictree-dep-flat.html) – [iobj](cs_fictree-dep-iobj.html) – [mark](cs_fictree-dep-mark.html) – [nmod](cs_fictree-dep-nmod.html) – [nsubj](cs_fictree-dep-nsubj.html) – [nsubj:pass](cs_fictree-dep-nsubj-pass.html) – [nummod](cs_fictree-dep-nummod.html) – [nummod:gov](cs_fictree-dep-nummod-gov.html) – [obj](cs_fictree-dep-obj.html) – [obl](cs_fictree-dep-obl.html) – [obl:agent](cs_fictree-dep-obl-agent.html) – [obl:arg](cs_fictree-dep-obl-arg.html) – [orphan](cs_fictree-dep-orphan.html) – [parataxis](cs_fictree-dep-parataxis.html) – [punct](cs_fictree-dep-punct.html) – [root](cs_fictree-dep-root.html) – [vocative](cs_fictree-dep-vocative.html) – [xcomp](cs_fictree-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 <ul>
-<li>This corpus contains 12860 sentences, 166536 tokens and 167114 syntactic words.</li>
-<li>All tokens in this corpus are followed by a space.</li>
+<li>This corpus contains 12760 sentences, 166432 tokens and 167010 syntactic words.</li>
+<li>This corpus contains 44419 tokens (27%) that are not followed by a space.</li>
 <li>This corpus does not contain words with spaces.</li>
 <li>This corpus contains 11 types of words that contain both letters and punctuation. Examples: Ha-vel, O-po-nu, pr-chá, A-ano, Cutter's, D-dobře, J-já, Ji-jistě, Za-pla-tit, bytí-na-zemi, t-tento</li>
 <li>This corpus contains 578 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
@@ -83,11 +109,11 @@ A treebank of Czech fiction.
 </ul>
 
 <ul>
-<li>This corpus contains 34 lemmas tagged as pronouns (PRON): být, bůhvíco, co, cokoli, copak, cos, cosi, což, cože, jenž, já, kdeco, kdekdo, kdo, kdokoli, kdopak, kdosi, leccos, ledaco, my, málokdo, nic, nikdo, něco, někdo, on, pražádný, samy, samý, se, ty, veškerý, von, všecek</li>
+<li>This corpus contains 34 lemmas tagged as pronouns (PRON): být, bůhvíco, co, cokoli, copak, cos, cosi, což, cože, jenž, já, kdeco, kdekdo, kdo, kdokoli, kdopak, kdosi, leccos, ledaco, my, málokdo, nic, nikdo, něco, někdo, on, samy, samý, se, takýs, ty, veškerý, von, všecek</li>
 </ul>
 
 <ul>
-<li>This corpus contains 52 lemmas tagged as determiners (DET): bůhvíkolik, hodně, jaký, jakýkoli, jakýpak, jakýs, jakýsi, jeho, jenž, každý, kdekterý, kdovíjaký, kolik, které, který, lecjaký, leckterý, mnoho, moc, my, málo, méně, můj, nijaký, nějaký, několik, některý, něčí, onen, svůj, sám, takový, takovýhle, takovýto, takýs, tamhleten, tamten, ten, tenhle, tenhleten, tento, tentýž, to, tolik, tvůj, týž, víc, více, všechen, všelijaký, čí, žádný</li>
+<li>This corpus contains 52 lemmas tagged as determiners (DET): bůhvíkolik, hodně, jaký, jakýkoli, jakýpak, jakýs, jakýsi, jeho, jenž, každý, kdekterý, kdovíjaký, kolik, které, který, lecjaký, leckterý, mnoho, moc, my, málo, méně, můj, nijaký, nějaký, několik, některý, něčí, onen, pražádný, svůj, sám, takový, takovýhle, takovýto, tamhleten, tamten, ten, tenhle, tenhleten, tento, tentýž, to, tolik, tvůj, týž, víc, více, všechen, všelijaký, čí, žádný</li>
 </ul>
 
 <ul>
@@ -574,8 +600,8 @@ A treebank of Czech fiction.
     <li>Neg
       <ul>
         <li>ADV: nikdy, nijak, nikde, nikam</li>
-        <li>DET: žádný, žádné, žádnou, žádná, žádném, žádného, žádnej, nijaké, žádnému</li>
-        <li>PRON: nic, nikdo, nikoho, nikomu, ničeho, ničemu, nikým, ničím, ničem, pražádný</li>
+        <li>DET: žádný, žádné, žádnou, žádná, žádném, žádného, žádnej, nijaké, pražádný, žádnému</li>
+        <li>PRON: nic, nikdo, nikoho, nikomu, ničeho, ničemu, nikým, ničím, ničem</li>
       </ul>
     </li>
     <li>Prs
@@ -673,7 +699,7 @@ A treebank of Czech fiction.
       <ul>
         <li>AUX-Fin: jste, jsi, byste, bys, budeš, budete, nebudeš, si, buď, buďte</li>
         <li>CCONJ: Vždyťs</li>
-        <li>DET: vaše, tvůj, tvoje, tvé, váš, tvou, tvá, vaši, vaší, tvojí</li>
+        <li>DET: vaše, tvůj, tvoje, tvé, váš, vaší, tvou, tvá, tvojí, tvého</li>
         <li>PRON: ti, ty, tě, vás, vám, vy, tebe, ses, tebou, tobě</li>
         <li>VERB-Fin: víš, máš, víte, chceš, můžeš, máte, řekni, myslíš, musíš, dej</li>
       </ul>
@@ -734,8 +760,8 @@ A treebank of Czech fiction.
     <li>Yes
       <ul>
         <li>ADV: apod</li>
-        <li>NOUN: d, elektro, p</li>
-        <li>PROPN: K, M, L, T, J, V, A, C, E, F</li>
+        <li>NOUN: dr, elektro, prof</li>
+        <li>PROPN: K, M, L, T, V, A, C, J, E, F</li>
       </ul>
     </li>
   </ul>
@@ -781,7 +807,7 @@ A treebank of Czech fiction.
   <ul>
     <li>Digit
       <ul>
-        <li>NUM: 1, 11, 1942, 1948, 1953, 20, 10, 1945, 2, 7</li>
+        <li>NUM: 1, 1942, 1948, 1953, 11, 1945, 20, 10, 1938, 1943</li>
       </ul>
     </li>
     <li>Word
@@ -877,11 +903,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--PRON-Acc (1)</li>
       <li>VERB-Conv--PRON-Nom (1)</li>
       <li>VERB-Fin--NOUN-Acc (1128)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(pro) (1)</li>
       <li>VERB-Fin--NOUN-Dat (54)</li>
       <li>VERB-Fin--NOUN-Gen (85)</li>
       <li>VERB-Fin--NOUN-Ins (43)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(o) (3)</li>
       <li>VERB-Fin--NOUN-Nom (3)</li>
       <li>VERB-Fin--PRON (1)</li>
       <li>VERB-Fin--PRON-Acc (731)</li>
@@ -889,16 +913,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Dat (221)</li>
       <li>VERB-Fin--PRON-Gen (27)</li>
       <li>VERB-Fin--PRON-Ins (2)</li>
-      <li>VERB-Fin--PRON-Ins-ADP(s) (1)</li>
       <li>VERB-Fin--PRON-Nom (2)</li>
       <li>VERB-Inf--NOUN-Acc (677)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(na) (1)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(o) (1)</li>
       <li>VERB-Inf--NOUN-Dat (34)</li>
       <li>VERB-Inf--NOUN-Gen (45)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(z) (1)</li>
       <li>VERB-Inf--NOUN-Ins (20)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(o) (1)</li>
       <li>VERB-Inf--NOUN-Nom (2)</li>
       <li>VERB-Inf--PRON (1)</li>
       <li>VERB-Inf--PRON-Acc (467)</li>
@@ -907,16 +926,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Ins (3)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN-Acc (2695)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(na) (4)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(o) (2)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(za) (1)</li>
       <li>VERB-Part--NOUN-Dat (123)</li>
       <li>VERB-Part--NOUN-Gen (157)</li>
       <li>VERB-Part--NOUN-Ins (128)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(s) (2)</li>
       <li>VERB-Part--NOUN-Loc (1)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(na) (1)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(o) (1)</li>
       <li>VERB-Part--NOUN-Nom (13)</li>
       <li>VERB-Part--PRON (7)</li>
       <li>VERB-Part--PRON-Acc (1314)</li>
@@ -934,12 +947,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--PRON-Acc (1)</li>
       <li>VERB-Conv--PRON-Dat (1)</li>
       <li>VERB-Fin--NOUN-Acc (21)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(na) (1)</li>
       <li>VERB-Fin--NOUN-Dat (34)</li>
       <li>VERB-Fin--NOUN-Gen (4)</li>
       <li>VERB-Fin--NOUN-Ins (8)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(před) (1)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(s) (1)</li>
       <li>VERB-Fin--PRON-Acc (46)</li>
       <li>VERB-Fin--PRON-Dat (208)</li>
       <li>VERB-Fin--PRON-Gen (3)</li>
@@ -953,13 +963,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Gen (3)</li>
       <li>VERB-Inf--PRON-Ins (2)</li>
       <li>VERB-Part--NOUN-Acc (57)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(v) (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(za) (1)</li>
       <li>VERB-Part--NOUN-Dat (97)</li>
       <li>VERB-Part--NOUN-Gen (20)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(do) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(od) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(z) (1)</li>
       <li>VERB-Part--NOUN-Ins (20)</li>
       <li>VERB-Part--PRON-Acc (79)</li>
       <li>VERB-Part--PRON-Dat (463)</li>
@@ -989,7 +994,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 10 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:arg</a></li>
+<li>This corpus uses 11 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

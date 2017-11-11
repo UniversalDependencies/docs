@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-734 nodes (0%) are attached to their parents as `compound`.
+757 nodes (0%) are attached to their parents as `compound`.
 
-734 instances of `compound` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.15803814713896.
+757 instances of `compound` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.16248348745046.
 
-The following 10 pairs of parts of speech are connected with `compound`: <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-NOUN.html">NOUN</a></tt> (635; 87% instances), <tt><a href="it-pos-NUM.html">NUM</a></tt>-<tt><a href="it-pos-NUM.html">NUM</a></tt> (76; 10% instances), <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-X.html">X</a></tt> (10; 1% instances), <tt><a href="it-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="it-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="it-pos-X.html">X</a></tt>-<tt><a href="it-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="it-pos-NUM.html">NUM</a></tt>-<tt><a href="it-pos-X.html">X</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `compound`: <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-NOUN.html">NOUN</a></tt> (653; 86% instances), <tt><a href="it-pos-NUM.html">NUM</a></tt>-<tt><a href="it-pos-NUM.html">NUM</a></tt> (79; 10% instances), <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-X.html">X</a></tt> (11; 1% instances), <tt><a href="it-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="it-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="it-pos-X.html">X</a></tt>-<tt><a href="it-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="it-pos-NUM.html">NUM</a></tt>-<tt><a href="it-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -38,24 +38,16 @@ The following 10 pairs of parts of speech are connected with `compound`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 compound	color:blue
-1	In	in	ADP	E	_	3	case	_	_
-2	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	1971	1971	NUM	N	NumType=Card	10	obl	_	_
-4	-	-	PUNCT	FF	_	3	punct	_	_
-5	72	72	NUM	N	NumType=Card	3	compound	_	SpaceAfter=No
-6	,	,	PUNCT	FF	_	3	punct	_	_
-7	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No
-8	ampia	ampio	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	_
-9	purga	purga	NOUN	S	Gender=Fem|Number=Sing	10	nsubj	_	_
-10	colpisce	colpire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
-12	dissidenti	dissidente	NOUN	S	Number=Plur	10	obj	_	SpaceAfter=No
-13	.	.	PUNCT	FS	_	10	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 compound	color:blue
+1	Feb	Feb	PROPN	SP	_	0	root	_	_
+2	26	26	NUM	N	NumType=Card	1	nummod	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	2014	2014	NUM	N	NumType=Card	2	compound	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	1	punct	_	_
 
 ~~~
 

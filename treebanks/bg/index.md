@@ -12,7 +12,7 @@ udver: '2'
 # UD Bulgarian
 
 Language: [Bulgarian](../bg/overview/bg-hub.html) (code: `bg`)<br/>
-Family: Indo-European, Balto-Slavic
+Family: Indo-European, Slavic
 
 This treebank has been part of Universal Dependencies since the UD v1.1 release.
 
@@ -40,6 +40,7 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
 ## Description
 
 ## Acknowledgments
+
 # Statistics of UD Bulgarian
 
 ## POS Tags

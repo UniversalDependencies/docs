@@ -19,12 +19,12 @@ The 10 most frequent ambiguous types:  <em>što</em> (<tt><a href="sr-pos-PRON.h
 
 
 * <em>što</em>
-  * <tt><a href="sr-pos-PRON.html">PRON</a></tt> 123: <em>Žalim <b>što</b> ih , zbog sopstvenih slabosti , nismo ispunili prošle godine .</em>
+  * <tt><a href="sr-pos-PRON.html">PRON</a></tt> 123: <em>" Šteta <b>što</b> je došlo do ovoga .</em>
   * <tt><a href="sr-pos-SCONJ.html">SCONJ</a></tt> 122: <em>" Zemlji su potrebni političari kao <b>što</b> je Komšić .</em>
   * <tt><a href="sr-pos-PART.html">PART</a></tt> 1: <em>Bogdanović je nazvao incident " terorističkim činom " , koji bi " trebalo da bude razotkriven <b>što</b> pre " .</em>
 * <em>sve</em>
-  * <tt><a href="sr-pos-PRON.html">PRON</a></tt> 52: <em>" Pozdravljam <b>sve</b> napore uložene da se zaustavi konvoj " , dodao je on .</em>
-  * <tt><a href="sr-pos-PART.html">PART</a></tt> 19: <em>U <b>sve</b> kompleksnijem geopolitičkom okruženju , ulazak u Alijansu ne rešava sve probleme .</em>
+  * <tt><a href="sr-pos-PRON.html">PRON</a></tt> 52: <em>A ako je <b>sve</b> u redu , mogu da otpočnu projekat " , kaže Božinov .</em>
+  * <tt><a href="sr-pos-PART.html">PART</a></tt> 19: <em>" Narod je <b>sve</b> nezadovoljniji " , kaže lider pokreta Vetvendosje Aljbin Kurti tells SETimes .</em>
   * <tt><a href="sr-pos-ADJ.html">ADJ</a></tt> 14: <em>To će biti korisno za <b>sve</b> ljude na Kosovu . "</em>
   * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 4: <em>Uprkos ekonomskoj krizi , <b>sve</b> veći broj žena ima svoje firme ili se prijavljuje za rukovodeće pozicije u drugim kompanijama .</em>
 * <em>te</em>
@@ -48,7 +48,7 @@ The 10 most frequent ambiguous types:  <em>što</em> (<tt><a href="sr-pos-PRON.h
   * <tt><a href="sr-pos-PRON.html">PRON</a></tt> 14: <em>Obe stranke su odbacile <b>tu</b> ideju , a kampanja je do sada bila žestoka .</em>
   * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 6: <em>I <b>tu</b> ima mnogo uspešnih slučajeva .</em>
 * <em>kome</em>
-  * <tt><a href="sr-pos-PRON.html">PRON</a></tt> 11: <em>Međutim , nameću se pitanja o stepenu u <b>kome</b> članstvo u NATO-u utiče na ekonomski razvoj .</em>
+  * <tt><a href="sr-pos-PRON.html">PRON</a></tt> 11: <em>Ta ustanova objavila je saopštenje u <b>kome</b> kaže da je svoje nalaze podnela predsedništvu .</em>
   * <tt><a href="sr-pos-NOUN.html">NOUN</a></tt> 1: <em>Moskva tvrdi da poslednji predlog rezolucije praktično podržava plan specijalnog izaslanika UN Martija Ahtisarija , po <b>kome</b> bi Kosovo dobilo nadziranu nezavisnost .</em>
 * <em>nekim</em>
   * <tt><a href="sr-pos-PRON.html">PRON</a></tt> 11: <em>Međutim , region se i dalje suočava sa <b>nekim</b> ozbiljnim problemima .</em>

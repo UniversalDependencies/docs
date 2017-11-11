@@ -79,7 +79,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 <table>
   <tr><th>Paradigm <i>mór</i></th><th><tt>Gen</tt></th><th><tt>NomAcc</tt></th></tr>
-  <tr><td><tt><tt><a href="ga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>mhóir</em></td><td><em>mór, ró-mhór, ollmhór, mhór</em></td></tr>
+  <tr><td><tt><tt><a href="ga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>mhóir</em></td><td><em>mór, mhór, ró-mhór, ollmhór</em></td></tr>
   <tr><td><tt><tt><a href="ga-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>mhór</em></td></tr>
   <tr><td><tt><tt><a href="ga-feat-NounType.html">NounType</a></tt><tt>=NotSlender</tt>|<tt><a href="ga-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>móra</em></td></tr>
   <tr><td><tt><tt><a href="ga-feat-NounType.html">NounType</a></tt><tt>=Strong</tt>|<tt><a href="ga-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>móra</em></td><td></td></tr>

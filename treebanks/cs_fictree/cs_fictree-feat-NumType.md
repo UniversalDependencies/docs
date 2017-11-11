@@ -10,38 +10,38 @@ This feature is universal.
 It occurs with 5 different values: `Card`, `Frac`, `Mult`, `Ord`, `Sets`.
 Some words have combined values of the feature; 1 combinations have been observed: `Mult|Sets`.
 
-2237 tokens (1%) have a non-empty value of `NumType`.
-386 types (1%) occur at least once with a non-empty value of `NumType`.
-242 lemmas (2%) occur at least once with a non-empty value of `NumType`.
-The feature is used with 4 part-of-speech tags: <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> (1412; 1% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (361; 0% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (323; 0% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (141; 0% instances).
+2137 tokens (1%) have a non-empty value of `NumType`.
+301 types (1%) occur at least once with a non-empty value of `NumType`.
+157 lemmas (1%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 4 part-of-speech tags: <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> (1313; 1% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (360; 0% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (323; 0% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (141; 0% instances).
 
 ### `NUM`
 
-1412 <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+1313 <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="cs_fictree-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (1237; 88%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (945; 67%), <tt><a href="cs_fictree-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (844; 60%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (740; 52%).
+The most frequent other feature values with which `NUM` and `NumType` co-occurred: <tt><a href="cs_fictree-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (1237; 94%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (846; 64%), <tt><a href="cs_fictree-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (844; 64%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (740; 56%).
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (1407; 100% of non-empty `NumType`): <em>pár, jeden, dva, dvě, jednoho, tři, jedna, jednu, oba, čtyři</em>
+* `Card` (1308; 100% of non-empty `NumType`): <em>pár, jeden, dva, dvě, jednoho, tři, jedna, jednu, oba, čtyři</em>
 * `Frac` (5; 0% of non-empty `NumType`): <em>desetin, čtvrtiny, třetinu</em>
 
-`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (179) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (95) occur only with one value of `NumType`.
 
 ### `ADJ`
 
-361 <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `NumType`.
+360 <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> tokens (3% of all `ADJ` tokens) have a non-empty value of `NumType`.
 
-The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="cs_fictree-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (361; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (361; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (328; 91%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (202; 56%).
+The most frequent other feature values with which `ADJ` and `NumType` co-occurred: <tt><a href="cs_fictree-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (360; 100%), <tt><a href="cs_fictree-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (360; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (328; 91%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (201; 56%).
 
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Mult,Sets` (8; 2% of non-empty `NumType`): <em>Obojí, dvojí, dvojím, oboje, obého</em>
-* `Ord` (350; 97% of non-empty `NumType`): <em>první, druhý, druhé, třetí, prvním, druhou, druhá, druhém, druhého, prvního</em>
+* `Ord` (349; 97% of non-empty `NumType`): <em>první, druhý, druhé, třetí, prvním, druhou, druhá, druhém, druhého, prvního</em>
 * `Sets` (3; 1% of non-empty `NumType`): <em>jedny, jedněch</em>
 * `EMPTY` (10539): <em>celý, rád, další, jiného, poslední, malé, celé, celou, velké, vlastní</em>
 
-`NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (30) occur only with one value of `NumType`.
+`NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (29) occur only with one value of `NumType`.
 
 ### `DET`
 

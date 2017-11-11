@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nmod`: <tt><a href="sme-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-61 nodes (1%) are attached to their parents as `nmod`.
+153 nodes (1%) are attached to their parents as `nmod`.
 
-59 instances of `nmod` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.16393442622951.
+150 instances of `nmod` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.3921568627451.
 
-The following 9 pairs of parts of speech are connected with `nmod`: <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (35; 57% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (8; 13% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-PROPN.html">PROPN</a></tt> (4; 7% instances), <tt><a href="sme-pos-PRON.html">PRON</a></tt>-<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (4; 7% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-ADP.html">ADP</a></tt> (3; 5% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-PROPN.html">PROPN</a></tt> (3; 5% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="sme-pos-PRON.html">PRON</a></tt>-<tt><a href="sme-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 12 pairs of parts of speech are connected with `nmod`: <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (84; 55% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-ADP.html">ADP</a></tt> (19; 12% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (12; 8% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-PROPN.html">PROPN</a></tt> (8; 5% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-PROPN.html">PROPN</a></tt> (8; 5% instances), <tt><a href="sme-pos-PRON.html">PRON</a></tt>-<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (6; 4% instances), <tt><a href="sme-pos-PRON.html">PRON</a></tt>-<tt><a href="sme-pos-PRON.html">PRON</a></tt> (6; 4% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-PRON.html">PRON</a></tt> (4; 3% instances), <tt><a href="sme-pos-PRON.html">PRON</a></tt>-<tt><a href="sme-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -37,6 +37,26 @@ The following 9 pairs of parts of speech are connected with `nmod`: <tt><a href=
 
 
 ~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 9 nmod	color:blue
+1	Veháš	veháš	ADV	Adv	_	2	advmod	_	_
+2	dan	dat	PRON	Pron	Case=Gen|Number=Sing|PronType=Dem	5	obl	_	_
+3	maŋŋil	maŋŋel	ADP	Po	_	2	case	_	_
+4	sii	son	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
+5	oidne	oaidnit	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	olbmá	olmmái	NOUN	N	Case=Acc|Number=Sing	7	nsubj	_	_
+7	oađđimin	oađđit	VERB	V	Case=Ess|VerbForm=Ger	5	ccomp	_	_
+8	viesu	viessu	NOUN	N	Case=Gen|Number=Sing	9	obl	_	_
+9	ovddabealde	ovddabealde	ADP	Po	_	7	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	CLB	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 1	bgColor:blue
@@ -46,26 +66,6 @@ The following 9 pairs of parts of speech are connected with `nmod`: <tt><a href=
 2	buorre	buorre	ADJ	A	Case=Nom|Number=Sing	3	amod	_	_
 3	šiehtadussii	šiehtadus	NOUN	N	Case=Ill|Number=Sing	1	nmod	_	SpaceAfter=No
 4	.	.	PUNCT	CLB	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 nmod	color:blue
-1	(	(	PUNCT	PUNCT	_	2	punct	_	SpaceAfter=No
-2	Gáldu	gáldu	NOUN	N	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
-3	:	:	PUNCT	CLB	_	2	punct	_	_
-4	Muitalusat	muitalus	NOUN	N	Case=Nom|Number=Plur	2	parataxis	_	_
-5	ja	ja	CCONJ	CC	_	4	cc	_	_
-6	dáhpáhusat	dáhpáhus	NOUN	N	Case=Nom|Number=Plur	4	conj	_	_
-7	Guovdageainnus	Guovdageaidnu	PROPN	N	Case=Loc|Number=Sing	6	nmod	_	_
-8	8	8	NUM	Num	Case=Nom|Number=Sing|NumType=Card	7	nummod	_	SpaceAfter=No
-9	)	)	PUNCT	PUNCT	_	2	punct	_	_
-10	¶	¶	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
 

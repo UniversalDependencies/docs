@@ -17,20 +17,20 @@ The following 10 pairs of parts of speech are connected with `nummod:gov`: <tt><
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 2 nummod:gov	color:blue
-1	"	"	PUNCT	_	_	8	punct	_	SpaceAfter=No
-2	Jedna	jedan	NUM	_	Case=Nom|Gender=Fem|Number=Sing|NumType=Card	6	nummod:gov	_	_
-3	od	od	ADP	_	Case=Gen	6	case	_	_
-4	najvažnijih	važan	ADJ	_	Case=Gen|Definite=Def|Degree=Sup|Gender=Fem|Number=Plur	6	amod	_	_
-5	državnih	državni	ADJ	_	Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur	6	amod	_	_
-6	institucija	institucija	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	8	nsubj	_	_
-7	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	8	cop	_	_
-8	paralisana	paralisati	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	8	punct	_	_
+# visual-style 6 5 nummod:gov	color:blue
+1	Nikica	Nikica	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+2	može	moći	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
+3	da	da	SCONJ	_	_	4	mark	_	_
+4	pojede	pojesti	VERB	_	Number=Sing|Person=3|Tense=Pres	2	xcomp	_	_
+5	50	50	NUM	_	NumType=Card	6	nummod:gov	_	_
+6	kilograma	kilogram	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	obl	_	_
+7	hleba	hleb	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+8	dnevno	dnevno	ADV	_	Degree=Pos	4	advmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

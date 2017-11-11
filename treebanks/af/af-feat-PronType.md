@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 7 different values: `Art`, `Dem`, `Ind`, `Int`, `Prs`, `Rcp`, `Rel`.
 
 9059 tokens (18%) have a non-empty value of `PronType`.
-172 types (3%) occur at least once with a non-empty value of `PronType`.
-125 lemmas (2%) occur at least once with a non-empty value of `PronType`.
+173 types (3%) occur at least once with a non-empty value of `PronType`.
+126 lemmas (2%) occur at least once with a non-empty value of `PronType`.
 The feature is used with 2 part-of-speech tags: <tt><a href="af-pos-DET.html">DET</a></tt> (5341; 11% instances), <tt><a href="af-pos-PRON.html">PRON</a></tt> (3718; 8% instances).
 
 ### `DET`
@@ -23,10 +23,10 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 `DET` tokens may have the following values of `PronType`:
 
 * `Art` (4541; 85% of non-empty `PronType`): die 'n de dien
-* `Dem` (451; 8% of non-empty `PronType`): hierdie daardie dié sodanige sulke daar sodanig
+* `Dem` (451; 8% of non-empty `PronType`): hierdie daardie dié sodanige sulke daar diÃ© sodanig
 * `Ind` (349; 7% of non-empty `PronType`): alle meer al baie paar sommige laaste soveel talle min
 
-`PronType` seems to be **lexical feature** of `DET`. 100% lemmas (30) occur only with one value of `PronType`.
+`PronType` seems to be **lexical feature** of `DET`. 100% lemmas (31) occur only with one value of `PronType`.
 
 ### `PRON`
 

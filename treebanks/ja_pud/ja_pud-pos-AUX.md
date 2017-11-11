@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Japanese-PUD: POS Tags: `AUX`
 
 There are 47 `AUX` lemmas (1%), 107 `AUX` types (2%) and 3738 `AUX` tokens (14%).
-Out of 14 observed tags, the rank of `AUX` is: 7 in number of lemmas, 6 in number of types and 3 in number of tokens.
+Out of 15 observed tags, the rank of `AUX` is: 7 in number of lemmas, 6 in number of types and 3 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: た, する, だ, いる, れる, ない, ます, ようだ, う, られる
 

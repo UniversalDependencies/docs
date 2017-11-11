@@ -52,9 +52,9 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
 * `EMPTY` (5): <em>Р, В., М, П.</em>
 
 <table>
-  <tr><th>Paradigm <i>аўдронюс</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><tt><a href="be-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td></td><td><em>Аўдронюса</em></td></tr>
-  <tr><td><tt><tt><a href="be-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Аўдронюс</em></td><td></td></tr>
+  <tr><th>Paradigm <i>Ажубаліс</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
+  <tr><td><tt><tt><a href="be-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td></td><td><em>Ажубаліса</em></td></tr>
+  <tr><td><tt><tt><a href="be-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Ажубаліс</em></td><td></td></tr>
 </table>
 
 `Animacy` seems to be **lexical feature** of `PROPN`. 99% lemmas (216) occur only with one value of `Animacy`.

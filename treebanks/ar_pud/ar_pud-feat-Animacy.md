@@ -28,7 +28,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
 
 <table>
   <tr><th>Paradigm <i>EAlam_1</i></th><th><tt>Nhum</tt></th><th><tt>Hum</tt></th></tr>
-  <tr><td><tt><tt><a href="ar_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ar_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>العالم, عالم, لعالم, عالمٍ</td><td></td></tr>
+  <tr><td><tt><tt><a href="ar_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ar_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>العالم, عالمٍ, لعالم, عالم</td><td></td></tr>
   <tr><td><tt><tt><a href="ar_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ar_pud-feat-Number.html">Number</a></tt><tt>=Dual</tt></tt></td><td></td><td>العالمين</td></tr>
   <tr><td><tt><tt><a href="ar_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="ar_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>عالمٍ</td><td></td></tr>
   <tr><td><tt><tt><a href="ar_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ar_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ar_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>العالم</td><td>العالم</td></tr>

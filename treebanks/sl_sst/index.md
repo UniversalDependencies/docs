@@ -12,7 +12,7 @@ udver: '2'
 # UD Slovenian SST
 
 Language: [Slovenian](../sl/overview/sl-hub.html) (code: `sl`)<br/>
-Family: Indo-European, Balto-Slavic
+Family: Indo-European, Slavic
 
 This treebank has been part of Universal Dependencies since the UD v1.3 release.
 
@@ -28,18 +28,40 @@ Questions, comments?
 General annotation questions (either Slovenian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Slovenian-SST/issues).
 If you want to collaborate, please contact [kaja&nbsp;•&nbsp;dobrovoljc&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com].
+Development of the treebank happens outside the UD repository.
+If there are bugs, either the original data source or the conversion procedure must be fixed.
+Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
-| XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Lemmas | annotated manually, natively in UD style |
+| UPOS | annotated manually, natively in UD style |
+| XPOS | annotated manually |
+| Features | annotated manually, natively in UD style |
+| Relations | annotated manually, natively in UD style |
 
 ## Description
 
+The Spoken Slovenian UD Treebank (SST) is the first syntactically annotated corpus of spoken Slovenian, based on a sample of the reference GOS corpus, a collection of transcribed audio recordings of monologic, dialogic and multi-party spontaneous speech in different everyday situations.
+
+
+
+The Spoken Slovenian UD Treebank (SST) is the first syntactically annotated corpus of spoken Slovenian. The manual annotations have been performed on a representative sample of the reference Gos corpus of spoken Slovenian (Zwitter Vitez et al. 2013), a collection of transcribed audio recordings of monologic, dialogic and multi-party spontaneous speech in different everyday situations. The treebank is representative of speakers (sex, age, region, education), communication channels (TV, radio, telephone, personal contact) and communication settings (TV and radio shows, lectures, meetings, consultations, services, conversations between friends etc.).
+
+The spelling, tokenization and segmentation principles follow the transcription guidelines of the reference corpus (Verdonik et al. 2013) with the syntactic trees spanning over individual utterances (semantically, syntactically and acoustically delimited units, roughly corresponding to written sentences). The morphological and syntactic analysis in the SST treebank has been performed on top of normalized transcriptions that reduce the number of token types due to regional, colloquial and other pronunciation variation. However, information on pronunciation-based transcription and tokenization has been included as part of the MISC column.
+
+The SST treebank includes manual annotations of lemmas, part-of-speech categories, morphological features and dependency relations in accordance with the Universal Dependencies annotation scheme. In addition to language-specific extensions, in line with the written Slovenian UD Treebank, the SST treebank also includes new speech-specific extensions to accommodate the structural and pragmatic particularities of spoken language syntax, such as disfluencies, fillers, parentheticals, general extenders etc. More information on the treebank construction and annotation is given in Dobrovoljc and Nivre (2016).
+
+
+The current version of the SST treebank includes 3,188 utterances (sentences) or 29,488 tokens, produced by 606 speakers in 287 different speech events. As opposed to SST treebank releases in previous (UDv1) releases, in which the treebank has been linearly split into training (80%), development (10%) and test (10%) sets, the utterances have been randomly shuffled to ensure equal genre distributions across the training (9,487 tokens), development (10,001 tokens) and testing (10,000) data subsets, which have been resized according to the CONLL-ST 2017 requirements.. The original order of the utterances can be restored by sentence IDs.
+
 ## Acknowledgments
+
+Kaja Dobrovoljc (treebank construction and annotation)
+Joakim Nivre (guidelines consulting)
+
+
+
 # Statistics of UD Slovenian SST
 
 ## POS Tags

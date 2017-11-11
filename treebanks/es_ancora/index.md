@@ -12,7 +12,7 @@ udver: '2'
 # UD Spanish AnCora
 
 Language: [Spanish](../es/overview/es-hub.html) (code: `es`)<br/>
-Family: Indo-European, Italic
+Family: Indo-European, Romance
 
 This treebank has been part of Universal Dependencies since the UD v1.3 release.
 
@@ -45,6 +45,7 @@ Spanish data from the AnCora corpus.
 
 
 ## Acknowledgments
+
 # Statistics of UD Spanish AnCora
 
 ## POS Tags

@@ -17,18 +17,20 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 3 compound	color:blue
-1	"	"	PUNCT	Z:-------------	_	6	punct	_	_
-2	Deset	deset	NUM	Cn-S1----------	Case=Nom|Number=Sing|NumForm=Word|NumType=Card	6	dep	_	_
-3	tisíc	tisíc	NUM	ClIS2----------	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3	2	compound	_	_
-4	,	,	PUNCT	Z:-------------	_	6	punct	_	_
-5	"	"	PUNCT	Z:-------------	_	6	punct	_	_
-6	povídám	povídat	VERB	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-7	.	.	PUNCT	Z:-------------	_	6	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 compound	color:blue
+1	Před	před	ADP	RR--7----------	AdpType=Prep|Case=Ins	4	case	_	_
+2	čtyřmi	čtyři	NUM	ClNP7----------	Case=Ins|Gender=Neut|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3	3	compound	_	_
+3	sty	sto	NUM	ClNP7----------	Case=Ins|Gender=Neut|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3	4	nummod	_	_
+4	lety	rok	NOUN	NNNP7-----A----	Case=Ins|Gender=Neut|Number=Plur|Polarity=Pos	5	obl	_	_
+5	zdomácněl	zdomácnět	VERB	VpIS----R-AA---	Animacy=Inan|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+6	i	i	PART	TT-------------	_	8	advmod:emph	_	_
+7	u	u	ADP	RR--2----------	AdpType=Prep|Case=Gen	8	case	_	_
+8	nás	já	PRON	PP-P2--1-------	Case=Gen|Number=Plur|Person=1|PronType=Prs	5	obl	_	SpaceAfter=No
+9	.	.	PUNCT	Z:-------------	_	5	punct	_	SpaceAfter=No
 
 ~~~
 

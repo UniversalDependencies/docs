@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-93 nodes (0%) are attached to their parents as `iobj`.
+108 nodes (0%) are attached to their parents as `iobj`.
 
-93 instances of `iobj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.01075268817204.
+108 instances of `iobj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.77777777777778.
 
-The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href="ko-pos-VERB.html">VERB</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (83; 89% instances), <tt><a href="ko-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (6; 6% instances), <tt><a href="ko-pos-VERB.html">VERB</a></tt>-<tt><a href="ko-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="ko-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `iobj`: <tt><a href="ko-pos-VERB.html">VERB</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (98; 91% instances), <tt><a href="ko-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (6; 6% instances), <tt><a href="ko-pos-VERB.html">VERB</a></tt>-<tt><a href="ko-pos-PRON.html">PRON</a></tt> (3; 3% instances), <tt><a href="ko-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

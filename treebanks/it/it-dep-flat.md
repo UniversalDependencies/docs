@@ -9,53 +9,54 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `flat`: <tt><a href="it-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="it-dep-flat-name.html">flat:name</a></tt>.
 
-515 nodes (0%) are attached to their parents as `flat`.
+536 nodes (0%) are attached to their parents as `flat`.
 
-515 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.33009708737864.
+536 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.33022388059702.
 
-The following 5 pairs of parts of speech are connected with `flat`: <tt><a href="it-pos-NUM.html">NUM</a></tt>-<tt><a href="it-pos-NOUN.html">NOUN</a></tt> (245; 48% instances), <tt><a href="it-pos-NUM.html">NUM</a></tt>-<tt><a href="it-pos-NUM.html">NUM</a></tt> (213; 41% instances), <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-NUM.html">NUM</a></tt> (53; 10% instances), <tt><a href="it-pos-NUM.html">NUM</a></tt>-<tt><a href="it-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="it-pos-NUM.html">NUM</a></tt>-<tt><a href="it-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 5 pairs of parts of speech are connected with `flat`: <tt><a href="it-pos-NUM.html">NUM</a></tt>-<tt><a href="it-pos-NOUN.html">NOUN</a></tt> (255; 48% instances), <tt><a href="it-pos-NUM.html">NUM</a></tt>-<tt><a href="it-pos-NUM.html">NUM</a></tt> (223; 42% instances), <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-NUM.html">NUM</a></tt> (54; 10% instances), <tt><a href="it-pos-NUM.html">NUM</a></tt>-<tt><a href="it-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="it-pos-NUM.html">NUM</a></tt>-<tt><a href="it-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 flat	color:blue
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 flat	color:blue
 1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	14	14	NUM	N	NumType=Card	6	nmod	_	_
-3	luglio	luglio	NOUN	S	Gender=Masc|Number=Sing	2	flat	_	_
-4	un'	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
-5	altra	altro	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
-6	storia	storia	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
-7	drammatica	drammatico	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	SpaceAfter=No
-8	:	:	PUNCT	FC	_	6	punct	_	_
+2	mandato	mandato	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+3	di	di	ADP	E	_	6	case	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
+5	altro	altro	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+6	giudice	giudice	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+7	scade	scadere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	6	6	NUM	N	NumType=Card	7	obl	_	_
+10	ottobre	ottobre	NOUN	S	Gender=Masc|Number=Sing	9	flat	_	_
+11	2012	2012	NUM	N	NumType=Card	9	flat	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	7	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 flat	color:blue
-1	Secondo	secondo	ADP	E	_	3	case	_	_
-2	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
-3	Onu	Onu	PROPN	SP	_	5	obl	_	_
-4	sono	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-5	200	200	NUM	N	NumType=Card	0	root	_	_
-6	mila	mila	NUM	N	NumType=Card	5	flat	_	_
-7	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
-8	persone	persona	NOUN	S	Gender=Fem|Number=Plur	5	nsubj	_	_
-9	in	in	ADP	E	_	10	case	_	_
-10	fuga	fuga	NOUN	S	Gender=Fem|Number=Sing	8	nmod	_	_
-11	(	(	PUNCT	FB	_	12	punct	_	SpaceAfter=No
-12	foto	foto	NOUN	S	Gender=Fem	5	nmod	_	_
-13	Reuter	Reuter	PROPN	SP	_	12	nmod	_	SpaceAfter=No
-14	)	)	PUNCT	FB	_	12	punct	_	SpaceAfter=No
-15	.	.	PUNCT	FS	_	5	punct	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 11 flat	color:blue
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	mandato	mandato	NOUN	S	Gender=Masc|Number=Sing	7	nsubj	_	_
+3	di	di	ADP	E	_	6	case	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	6	det	_	_
+5	altro	altro	ADJ	A	Gender=Masc|Number=Sing	6	amod	_	_
+6	giudice	giudice	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+7	scade	scadere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	6	6	NUM	N	NumType=Card	7	obl	_	_
+10	ottobre	ottobre	NOUN	S	Gender=Masc|Number=Sing	9	flat	_	_
+11	2012	2012	NUM	N	NumType=Card	9	flat	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	7	punct	_	_
 
 ~~~
 

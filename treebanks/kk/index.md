@@ -12,7 +12,7 @@ udver: '2'
 # UD Kazakh
 
 Language: [Kazakh](../kk/overview/kk-hub.html) (code: `kk`)<br/>
-Family: Turkic
+Family: Altaic, Turkic
 
 This treebank has been part of Universal Dependencies since the UD v1.3 release.
 
@@ -76,6 +76,7 @@ booktitle = {3rd International Conference on Turkic Languages Processing,
 pages = {338--350},
 year = {2015},
 }
+
 
 # Statistics of UD Kazakh
 

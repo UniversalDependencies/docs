@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-12 nodes (5%) are attached to their parents as `conj`.
+39 nodes (6%) are attached to their parents as `conj`.
 
-12 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.58333333333333.
+38 instances of `conj` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.33333333333333.
 
-The following 2 pairs of parts of speech are connected with `conj`: <tt><a href="yue-pos-VERB.html">VERB</a></tt>-<tt><a href="yue-pos-VERB.html">VERB</a></tt> (11; 92% instances), <tt><a href="yue-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue-pos-NOUN.html">NOUN</a></tt> (1; 8% instances).
+The following 8 pairs of parts of speech are connected with `conj`: <tt><a href="yue-pos-VERB.html">VERB</a></tt>-<tt><a href="yue-pos-VERB.html">VERB</a></tt> (24; 62% instances), <tt><a href="yue-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue-pos-ADJ.html">ADJ</a></tt> (3; 8% instances), <tt><a href="yue-pos-ADJ.html">ADJ</a></tt>-<tt><a href="yue-pos-VERB.html">VERB</a></tt> (3; 8% instances), <tt><a href="yue-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue-pos-NUM.html">NUM</a></tt> (3; 8% instances), <tt><a href="yue-pos-VERB.html">VERB</a></tt>-<tt><a href="yue-pos-ADJ.html">ADJ</a></tt> (3; 8% instances), <tt><a href="yue-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue-pos-NOUN.html">NOUN</a></tt> (1; 3% instances), <tt><a href="yue-pos-VERB.html">VERB</a></tt>-<tt><a href="yue-pos-ADV.html">ADV</a></tt> (1; 3% instances), <tt><a href="yue-pos-VERB.html">VERB</a></tt>-<tt><a href="yue-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -40,19 +40,41 @@ The following 2 pairs of parts of speech are connected with `conj`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 5 conj	color:blue
-1	三	_	NUM	_	_	2	nummod	_	SpaceAfter=No
-2	歲	_	NOUN	_	_	7	nsubj	_	SpaceAfter=No
-3	到	_	ADP	_	_	5	case	_	SpaceAfter=No
-4	卅	_	NUM	_	_	5	nummod	_	SpaceAfter=No
-5	歲	_	NOUN	_	_	2	conj	_	SpaceAfter=No
-6	都	_	ADV	_	_	7	advmod	_	SpaceAfter=No
-7	沉迷	_	VERB	_	_	0	root	_	SpaceAfter=No
-8	。	_	PUNCT	_	_	7	punct	_	SpaceAfter=No
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 14 conj	color:blue
+1	好	_	ADJ	_	_	0	root	_	SpaceAfter=No
+2	喇	_	PART	_	_	1	discourse:sp	_	SpaceAfter=No
+3	！	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	媽咪	_	NOUN	_	_	6	nsubj	_	SpaceAfter=No
+5	聽日	_	NOUN	_	_	6	obl:tmod	_	SpaceAfter=No
+6	煮	_	VERB	_	_	1	conj	_	SpaceAfter=No
+7	雞翼	_	NOUN	_	_	6	obj	_	SpaceAfter=No
+8	獎勵	_	VERB	_	_	6	advcl	_	SpaceAfter=No
+9	你	_	PRON	_	_	8	obj	_	SpaceAfter=No
+10	喇	_	PART	_	_	6	discourse:sp	_	SpaceAfter=No
+11	，	_	PUNCT	_	_	12	punct	_	SpaceAfter=No
+12	好	_	ADJ	_	_	6	conj	_	SpaceAfter=No
+13	唔	_	ADV	_	_	14	advmod	_	SpaceAfter=No
+14	好	_	ADJ	_	_	12	conj	_	SpaceAfter=No
+15	？	_	PUNCT	_	_	6	punct	_	SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 conj	color:blue
+1	好	_	ADJ	_	_	0	root	_	SpaceAfter=No
+2	，	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	收	_	VERB	_	_	1	conj	_	SpaceAfter=No
+4	到	_	VERB	_	_	3	compound:vv	_	SpaceAfter=No
+5	。	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 ~~~
 

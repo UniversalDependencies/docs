@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Japanese-PUD: POS Tags: `ADP`
 
 There are 39 `ADP` lemmas (1%), 43 `ADP` types (1%) and 6335 `ADP` tokens (24%).
-Out of 14 observed tags, the rank of `ADP` is: 8 in number of lemmas, 8 in number of types and 1 in number of tokens.
+Out of 15 observed tags, the rank of `ADP` is: 8 in number of lemmas, 8 in number of types and 1 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: の, は, を, に, が, と, で, も, から, や
 

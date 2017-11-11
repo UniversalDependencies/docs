@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `cc`: <tt><a href="sme-dep-cc-preconj.html">cc:preconj</a></tt>.
 
-514 nodes (5%) are attached to their parents as `cc`.
+984 nodes (4%) are attached to their parents as `cc`.
 
-468 instances of `cc` (91%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.34241245136187.
+891 instances of `cc` (91%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.21849593495935.
 
-The following 7 pairs of parts of speech are connected with `cc`: <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-CCONJ.html">CCONJ</a></tt> (231; 45% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-CCONJ.html">CCONJ</a></tt> (204; 40% instances), <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-CCONJ.html">CCONJ</a></tt> (32; 6% instances), <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-CCONJ.html">CCONJ</a></tt> (28; 5% instances), <tt><a href="sme-pos-ADV.html">ADV</a></tt>-<tt><a href="sme-pos-CCONJ.html">CCONJ</a></tt> (12; 2% instances), <tt><a href="sme-pos-PRON.html">PRON</a></tt>-<tt><a href="sme-pos-CCONJ.html">CCONJ</a></tt> (4; 1% instances), <tt><a href="sme-pos-NUM.html">NUM</a></tt>-<tt><a href="sme-pos-CCONJ.html">CCONJ</a></tt> (3; 1% instances).
+The following 7 pairs of parts of speech are connected with `cc`: <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-CCONJ.html">CCONJ</a></tt> (448; 46% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-CCONJ.html">CCONJ</a></tt> (385; 39% instances), <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-CCONJ.html">CCONJ</a></tt> (63; 6% instances), <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-CCONJ.html">CCONJ</a></tt> (59; 6% instances), <tt><a href="sme-pos-ADV.html">ADV</a></tt>-<tt><a href="sme-pos-CCONJ.html">CCONJ</a></tt> (17; 2% instances), <tt><a href="sme-pos-PRON.html">PRON</a></tt>-<tt><a href="sme-pos-CCONJ.html">CCONJ</a></tt> (9; 1% instances), <tt><a href="sme-pos-NUM.html">NUM</a></tt>-<tt><a href="sme-pos-CCONJ.html">CCONJ</a></tt> (3; 0% instances).
 
 
 ~~~ conllu

@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 2 different values: `Neg`, `Pos`.
 
 73671 tokens (44%) have a non-empty value of `Polarity`.
-28001 types (103%) occur at least once with a non-empty value of `Polarity`.
-12825 lemmas (93%) occur at least once with a non-empty value of `Polarity`.
+28002 types (103%) occur at least once with a non-empty value of `Polarity`.
+12819 lemmas (94%) occur at least once with a non-empty value of `Polarity`.
 The feature is used with 8 part-of-speech tags: <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (27596; 17% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (24939; 15% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (10316; 6% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (5253; 3% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (3127; 2% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (2255; 1% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (180; 0% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (5; 0% instances).
 
 ### `NOUN`
@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Polarity` co-occur
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Pozornost</em></td><td></td></tr>
 </table>
 
-`Polarity` seems to be **lexical feature** of `NOUN`. 100% lemmas (5247) occur only with one value of `Polarity`.
+`Polarity` seems to be **lexical feature** of `NOUN`. 100% lemmas (5246) occur only with one value of `Polarity`.
 
 ### `VERB`
 
@@ -78,7 +78,7 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 
 * `Neg` (315; 3% of non-empty `Polarity`): <em>nerad, nebezpečné, neznámý, nerada, nedaleké, nekonečnou, nekonečné, nepříjemné, neznámému, nešťastná</em>
 * `Pos` (10001; 97% of non-empty `Polarity`): <em>celý, rád, další, jiného, poslední, malé, celé, celou, velké, vlastní</em>
-* `EMPTY` (584): <em>první, druhý, druhé, třetí, prvním, druhou, druhá, druhém, druhého, prvního</em>
+* `EMPTY` (583): <em>první, druhý, druhé, třetí, prvním, druhou, druhá, druhém, druhého, prvního</em>
 
 <table>
   <tr><th>Paradigm <i>celý</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
@@ -188,7 +188,7 @@ The most frequent other feature values with which `PROPN` and `Polarity` co-occu
 
 * `Pos` (2255; 100% of non-empty `Polarity`): <em>Láďa, Leoš, Valentýna, Eduard, Havel, Alžběta, Flajšman, Veronika, Havlena, Filip</em>
 
-`Polarity` seems to be **lexical feature** of `PROPN`. 100% lemmas (428) occur only with one value of `Polarity`.
+`Polarity` seems to be **lexical feature** of `PROPN`. 100% lemmas (423) occur only with one value of `Polarity`.
 
 ### `DET`
 
@@ -216,8 +216,8 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
 <tt>NOUN --[<tt><a href="cs_fictree-dep-amod.html">amod</a></tt>]--> ADJ</tt> (7079; 92%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-obl.html">obl</a></tt>]--> NOUN</tt> (6396; 95%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-obj.html">obj</a></tt>]--> NOUN</tt> (4791; 91%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-obl.html">obl</a></tt>]--> NOUN</tt> (6397; 95%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-obj.html">obj</a></tt>]--> NOUN</tt> (4774; 91%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> VERB</tt> (4506; 85%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4195; 92%),
 <tt>NOUN --[<tt><a href="cs_fictree-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (3384; 100%),

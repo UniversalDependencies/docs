@@ -28,18 +28,34 @@ Questions, comments?
 General annotation questions (either Afrikaans-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Afrikaans/issues).
 If you want to collaborate, please contact [peter&nbsp;•&nbsp;dirix&nbsp;(æt)&nbsp;kuleuven&nbsp;•&nbsp;be, liesbeth&nbsp;•&nbsp;augustinus&nbsp;(æt)&nbsp;kuleuven&nbsp;•&nbsp;be].
+Development of the treebank happens directly in the UD repository, so you may submit bug fixes as pull requests against the dev branch.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
-| XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Lemmas | annotated manually in non-UD style, automatically converted to UD |
+| UPOS | annotated manually in non-UD style, automatically converted to UD |
+| XPOS | annotated manually |
+| Features | annotated manually in non-UD style, automatically converted to UD |
+| Relations | annotated manually in non-UD style, automatically converted to UD |
 
 ## Description
 
+UD Afrikaans is a conversion of the AfriBooms Dependency Treebank, originally annotated with a simplified PoS set and dependency relations according to a subset of the Stanford tag set. The corpus consists of public government documents.
+
+
+
+UD Afrikaans is a conversion AfriBooms Dependency Treebank, which is based on the Afrikaans section of the NCHLT Annotated Text Corpora and is available from the South African Language Resource Management Agency, Potchefstroom. We will be working on manually verifying the treebank.
+
+Size of the differents parts:
+- train size = 1315 sentences
+- dev size = 194 sentences
+- test size = 425 sentences
+
 ## Acknowledgments
+
+The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at the University of Leuven and by Daniel van Niekerk at the Potchefstroom campus of North West University.
+
+
 # Statistics of UD Afrikaans
 
 ## POS Tags
@@ -60,7 +76,7 @@ If you want to collaborate, please contact [peter&nbsp;•&nbsp;dirix&nbsp;(æt)
 <li>This corpus contains 1934 sentences and 49276 tokens.</li>
 <li>This corpus contains 4514 tokens (9%) that are not followed by a space.</li>
 <li>This corpus does not contain words with spaces.</li>
-<li>This corpus contains 383 types of words that contain both letters and punctuation. Examples: 'n, Suid-Afrika, Suid-Afrikaanse, Suid-Afrikaners, Direkteur-generaal, 6-opgawe, top-prioriteite, werke-program, Mariene-, R-9, bv., Afrika-Unie, Algemene-Onderwys-en-Opleidingsband, OKD-kantoor, Suider-Afrikaanse, Tale-leerareaverklaring, nie-seksistiese, rekreasie-invoerpermit, veeartseny-invoerpermit, Midde-Ooste, Regeringsdienste-webtuiste, SAID-kantoor, Wêreldbeker-sokkertoernooi, e-pos, leer-, makro-ekonomiese, metro's, nie-rassige, onderwys-, -inligtingstelsel, -voorwaardes, 12-riglyne, 2004-verkiesing, 6-opgawes, Anglo-, Comore-eilande, DEA&T, Dienste-inligting, ID-nommer, IRP5-sertifikaat, Inter-Ministeriële, MIV-infeksies, Noord-Amerika, PDF-dokumente, Regeringskommunikasie-, SAID-doeane-en-aksynskantoor, SAID-takkantoor, SIBW-, Suid-Afrikaner, Suider-Afrika</li>
+<li>This corpus contains 407 types of words that contain both letters and punctuation. Examples: 'n, Suid-Afrika, Suid-Afrikaanse, Suid-Afrikaners, Direkteur-generaal, 6-opgawe, top-prioriteite, werke-program, Mariene-, R-9, bv., finansiÃ«le, Afrika-Unie, Algemene-Onderwys-en-Opleidingsband, OKD-kantoor, Suider-Afrikaanse, Tale-leerareaverklaring, hoÃ«r, maatreÃ«ls, nie-seksistiese, rekreasie-invoerpermit, veeartseny-invoerpermit, weerspieÃ«l, Midde-Ooste, Regeringsdienste-webtuiste, SAID-kantoor, Wêreldbeker-sokkertoernooi, breÃ«, e-pos, leer-, makro-ekonomiese, metro's, nie-rassige, nÃ¡, onderwys-, -inligtingstelsel, -voorwaardes, 12-riglyne, 2004-verkiesing, 6-opgawes, Anglo-, Comore-eilande, DEA&T, Dienste-inligting, ID-nommer, IRP5-sertifikaat, Inter-Ministeriële, MIV-infeksies, Noord-Amerika, PDF-dokumente</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -78,7 +94,7 @@ If you want to collaborate, please contact [peter&nbsp;•&nbsp;dirix&nbsp;(æt)
 </ul>
 
 <ul>
-<li>This corpus contains 29 lemmas tagged as determiners (DET): 'n, al, baie, beide, bietjie, daar, daardie, de, die, dien, dié, enkel, etlike, hierdie, laaste, magdom, meer, menige, miljoen, min, paar, party, sodanig, sommige, soveel, sulke, tal, tweeduisend, veel</li>
+<li>This corpus contains 30 lemmas tagged as determiners (DET): 'n, al, baie, beide, bietjie, daar, daardie, de, die, dien, diÃ©, dié, enkel, etlike, hierdie, laaste, magdom, meer, menige, miljoen, min, paar, party, sodanig, sommige, soveel, sulke, tal, tweeduisend, veel</li>
 </ul>
 
 <ul>
@@ -181,8 +197,8 @@ If you want to collaborate, please contact [peter&nbsp;•&nbsp;dirix&nbsp;(æt)
   <ul>
     <li>Cmp
       <ul>
-        <li>ADJ: beter, hoër, groter, ouer, sterker, laer, minder, jonger, langer, stadiger</li>
-        <li>ADV: verder, beter, later, langer, vinniger, harder, vroeër, minder, sterker, armer</li>
+        <li>ADJ: beter, hoër, groter, ouer, sterker, hoÃ«r, laer, minder, jonger, langer</li>
+        <li>ADV: verder, beter, later, langer, vinniger, harder, minder, vroeër, sterker, armer</li>
       </ul>
     </li>
     <li>Dim
@@ -241,7 +257,7 @@ If you want to collaborate, please contact [peter&nbsp;•&nbsp;dirix&nbsp;(æt)
     </li>
     <li>Dem
       <ul>
-        <li>DET: hierdie, daardie, dié, sodanige, sulke, daar, sodanig</li>
+        <li>DET: hierdie, daardie, dié, sodanige, sulke, daar, diÃ©, sodanig</li>
       </ul>
     </li>
     <li>Ind

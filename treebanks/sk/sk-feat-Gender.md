@@ -225,7 +225,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 <table>
   <tr><th>Paradigm <i>on</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ho, neho, Jeho</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ho, Jeho, neho</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ich, nich</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>mu, nemu, jemu</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>im, nim</em></td><td></td><td></td></tr>
@@ -248,7 +248,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
   <tr><td><tt><tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ňom</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="sk-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>nich</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ju, ňu</em></td><td><em>ho</em></td></tr>
-  <tr><td><tt><tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>ne, ich</em></td><td><em>ich</em></td></tr>
+  <tr><td><tt><tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>ich, ne</em></td><td><em>ich</em></td></tr>
   <tr><td><tt><tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>jej, nej</em></td><td><em>mu</em></td></tr>
   <tr><td><tt><tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>im</em></td><td></td></tr>
   <tr><td><tt><tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>ňom</em></td></tr>

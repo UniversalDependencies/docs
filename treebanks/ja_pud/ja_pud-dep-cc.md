@@ -22,7 +22,7 @@ The following 3 pairs of parts of speech are connected with `cc`: <tt><a href="j
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 cc	color:blue
-1	この	この	ADJ	DT	_	2	det	_	GHEAD=2|GHEADH=2|GID=1|GUPOS=DET|Match=Yes|SpaceAfter=No
+1	この	この	DET	DT	_	2	det	_	GHEAD=2|GHEADH=2|GID=1|GUPOS=DET|Match=Yes|SpaceAfter=No
 2	取組	取組	NOUN	NN	_	10	nsubj	_	GHEAD=10|GHEADH=10|GID=2|Match=Yes|SpaceAfter=No
 3	は	は	ADP	DP	_	2	case	_	GDPRL=compound:prt|GHEAD=2|GHEADH=2|GID=3|GUPOS=PART|Match=Yes|SpaceAfter=No
 4	スポンサー	スポンサー	NOUN	NN	_	6	nmod	_	GDPRL=advmod|GHEAD=8|GHEADH=8|GID=4|Match=Yes|SpaceAfter=No
@@ -98,7 +98,7 @@ The following 3 pairs of parts of speech are connected with `cc`: <tt><a href="j
 21	世	世	NOUN	SFN	_	20	mark	_	GDPRL=snum|GHEAD=18|GHEADH=20|GID=19|GUPOS=PART|Match=Yes|SpaceAfter=No
 22	や	や	ADP	OP	_	20	cc	_	GHEAD=22|GHEADH=24|GID=20|GUPOS=PART|Match=Yes|SpaceAfter=No
 23	リチャード	リチャード	PROPN	NNP	_	24	compound	_	GHEAD=22|GHEADH=24|GID=21|Match=Yes|SpaceAfter=No
-24	3	3	NUM	CD	_	27	nummod	_	GDPRL=conj|GHEAD=18|GHEADH=20|GID=22|Match=Yes|SpaceAfter=No
+24	3	3	NUM	CD	_	27	obj	_	GDPRL=conj|GHEAD=18|GHEADH=20|GID=22|Match=Yes|SpaceAfter=No
 25	世	世	NOUN	SFN	_	24	mark	_	GDPRL=snum|GHEAD=22|GHEADH=24|GID=23|GUPOS=PART|Match=Yes|SpaceAfter=No
 26	を	を	ADP	CM	Case=Acc	24	case	_	GDPRL=compound:prt|GHEAD=18|GHEADH=20|GID=24|GUPOS=PART|Match=Yes|SpaceAfter=No
 27	含む	含む	VERB	VV	Form=Adn	31	acl	_	GDPRL=acl:relcl|GHEAD=28|GHEADH=31|GID=25|Match=Yes|SpaceAfter=No
@@ -107,9 +107,9 @@ The following 3 pairs of parts of speech are connected with `cc`: <tt><a href="j
 30	の	の	ADP	CM	Case=Gen	28	case	_	GDPRL=compound:prt|GHEAD=26|GHEADH=28,29|GID=27|GUPOS=PART|Match=Yes|SpaceAfter=No
 31	子孫	子孫	NOUN	NN	_	33	nsubj	_	GHEAD=30|GHEADH=33|GID=28|Match=Yes|SpaceAfter=No
 32	が	が	ADP	CM	Case=Nom	31	case	_	GDPRL=compound:prt|GHEAD=28|GHEADH=31|GID=29|GUPOS=PART|Match=Yes|SpaceAfter=No
-33	生まれ	生まれる	VERB	VV	VerbForm=Ger	49	acl	_	GDPRL=advcl|GHEAD=43|GHEADH=47|GID=30|Match=Yes|SpaceAfter=No
+33	生まれ	生まれる	VERB	VV	VerbForm=Ger	47	advcl	_	GDPRL=advcl|GHEAD=43|GHEADH=47|GID=30|Match=Yes|SpaceAfter=No
 34	、	、	PUNCT	,	_	33	punct	_	GHEAD=30|GHEADH=33|GID=31|Match=Yes|SpaceAfter=No
-35	ジョーン	ジョーン	PROPN	NNP	_	49	nsubj	_	GHEAD=43|GHEADH=47|GID=32|Match=Yes|SpaceAfter=No
+35	ジョーン	ジョーン	PROPN	NNP	_	47	nsubj	_	GHEAD=43|GHEADH=47|GID=32|Match=Yes|SpaceAfter=No
 36	は	は	ADP	DP	_	35	case	_	GDPRL=compound:prt|GHEAD=32|GHEADH=35|GID=33|GUPOS=PART|Match=Yes|SpaceAfter=No
 37	イングランド	イングランド	PROPN	NNP	_	40	compound	_	GHEAD=35|GHEADH=38|GID=34|Match=Yes|SpaceAfter=No
 38	王国	王国	NOUN	NN	_	40	compound	_	GHEAD=36|GHEADH=39,40|GID=35|Match=Yes|SpaceAfter=No

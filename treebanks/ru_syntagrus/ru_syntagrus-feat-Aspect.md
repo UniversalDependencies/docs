@@ -9,20 +9,20 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Imp`, `Perf`.
 
-131848 tokens (12%) have a non-empty value of `Aspect`.
+131850 tokens (12%) have a non-empty value of `Aspect`.
 33904 types (29%) occur at least once with a non-empty value of `Aspect`.
-6098 lemmas (14%) occur at least once with a non-empty value of `Aspect`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (123693; 11% instances), <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (8155; 1% instances).
+6099 lemmas (14%) occur at least once with a non-empty value of `Aspect`.
+The feature is used with 2 part-of-speech tags: <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (123706; 11% instances), <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (8144; 1% instances).
 
 ### `VERB`
 
-123693 <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Aspect`.
+123706 <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (110814; 90%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (86224; 70%), <tt><a href="ru_syntagrus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (84962; 69%), <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (83392; 67%), <tt><a href="ru_syntagrus-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (78283; 63%), <tt><a href="ru_syntagrus-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (77273; 62%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (63455; 51%).
+The most frequent other feature values with which `VERB` and `Aspect` co-occurred: <tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (110827; 90%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (86232; 70%), <tt><a href="ru_syntagrus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (84975; 69%), <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (83403; 67%), <tt><a href="ru_syntagrus-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (78293; 63%), <tt><a href="ru_syntagrus-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (77283; 62%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (63462; 51%).
 
 `VERB` tokens may have the following values of `Aspect`:
 
-* `Imp` (70252; 57% of non-empty `Aspect`): <em>может, есть, нет, могут, было, является, быть, говорит, стоит, делать</em>
+* `Imp` (70265; 57% of non-empty `Aspect`): <em>может, есть, нет, могут, было, является, быть, говорит, стоит, делать</em>
 * `Perf` (53441; 43% of non-empty `Aspect`): <em>стал, сказал, стало, стали, сделать, сказать, заявил, получить, удалось, стать</em>
 * `EMPTY` (12): <em>не, и.о.</em>
 
@@ -52,25 +52,25 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 ### `AUX`
 
-8155 <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Aspect`.
+8144 <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `Aspect`.
 
-The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="ru_syntagrus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (8155; 100%), <tt><a href="ru_syntagrus-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7380; 90%), <tt><a href="ru_syntagrus-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7353; 90%), <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6071; 74%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5497; 67%), <tt><a href="ru_syntagrus-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5301; 65%).
+The most frequent other feature values with which `AUX` and `Aspect` co-occurred: <tt><a href="ru_syntagrus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (8144; 100%), <tt><a href="ru_syntagrus-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7372; 91%), <tt><a href="ru_syntagrus-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7345; 90%), <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6062; 74%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5490; 67%), <tt><a href="ru_syntagrus-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5295; 65%).
 
 `AUX` tokens may have the following values of `Aspect`:
 
-* `Imp` (8155; 100% of non-empty `Aspect`): <em>было, был, были, будет, была, быть, будут, есть, будем, буду</em>
+* `Imp` (8144; 100% of non-empty `Aspect`): <em>было, был, были, будет, была, быть, будут, есть, будем, буду</em>
 
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>VERB --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> VERB</tt> (12035; 81%),
-<tt>VERB --[<tt><a href="ru_syntagrus-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (6052; 62%),
-<tt>VERB --[<tt><a href="ru_syntagrus-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (2315; 59%),
-<tt>VERB --[<tt><a href="ru_syntagrus-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (1032; 60%),
+<tt>VERB --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> VERB</tt> (12342; 80%),
+<tt>VERB --[<tt><a href="ru_syntagrus-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (4882; 67%),
+<tt>VERB --[<tt><a href="ru_syntagrus-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (2417; 59%),
+<tt>VERB --[<tt><a href="ru_syntagrus-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (2043; 50%),
+<tt>VERB --[<tt><a href="ru_syntagrus-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (997; 60%),
 <tt>VERB --[<tt><a href="ru_syntagrus-dep-aux.html">aux</a></tt>]--> AUX</tt> (917; 100%),
-<tt>VERB --[<tt><a href="ru_syntagrus-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (451; 51%),
-<tt>VERB --[<tt><a href="ru_syntagrus-dep-acl.html">acl</a></tt>]--> VERB</tt> (134; 58%),
-<tt>VERB --[<tt><a href="ru_syntagrus-dep-advmod.html">advmod</a></tt>]--> VERB</tt> (96; 56%),
-<tt>VERB --[<tt><a href="ru_syntagrus-dep-orphan.html">orphan</a></tt>]--> VERB</tt> (39; 53%),
-<tt>VERB --[<tt><a href="ru_syntagrus-dep-obl.html">obl</a></tt>]--> VERB</tt> (35; 56%).
+<tt>VERB --[<tt><a href="ru_syntagrus-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (58; 55%),
+<tt>VERB --[<tt><a href="ru_syntagrus-dep-appos.html">appos</a></tt>]--> VERB</tt> (30; 100%),
+<tt>VERB --[<tt><a href="ru_syntagrus-dep-amod.html">amod</a></tt>]--> VERB</tt> (15; 94%),
+<tt>VERB --[<tt><a href="ru_syntagrus-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (14; 93%).
 

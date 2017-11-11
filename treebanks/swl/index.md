@@ -40,6 +40,7 @@ If you want to collaborate, please contact [robert&nbsp;(æt)&nbsp;ling&nbsp;•
 ## Description
 
 ## Acknowledgments
+
 # Statistics of UD Swedish Sign Language
 
 ## POS Tags

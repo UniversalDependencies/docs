@@ -17,60 +17,67 @@ The following 26 pairs of parts of speech are connected with `cc`: <tt><a href="
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 cc	color:blue
+1	"	"	PUNCT	_	_	3	punct	_	SpaceAfter=No
+2	Ona	on	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	voli	voleti	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
+4	blato	blato	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
+5	više	mnogo	ADV	_	Degree=Cmp	3	advmod	_	_
+6	nego	nego	CCONJ	_	_	8	cc	_	_
+7	sam	sam	ADJ	_	Animacy=Inan|Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	život	život	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	conj	_	SpaceAfter=No
+9	"	"	PUNCT	_	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 cc	color:blue
-1	Novi	nov	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
-2	predsednik	predsednik	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
-3	Moldavije	Moldavija	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
-4	fokusiraće	fokusirati	VERB	_	Number=Sing|Person=3|Tense=Fut	0	root	_	_
-5	se	sebe	PRON	_	Case=Acc|Number=Sing|Reflex=Yes	4	compound	_	_
-6	na	na	ADP	_	Case=Acc	7	case	_	_
-7	reforme	reforma	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	4	obl	_	_
+1	Bakojanis	Bakojanis	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+2	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	6	aux	_	_
+3	u	u	ADP	_	Case=Acc	4	case	_	_
+4	petak	petak	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obl	_	_
+5	ujutru	ujutru	ADV	_	Degree=Pos	6	advmod	_	_
+6	posetila	posetiti	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+7	ambasadu	ambasada	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
 8	i	i	CCONJ	_	_	9	cc	_	_
-9	integraciju	integracija	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	conj	_	_
+9	osudila	osuditi	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	6	conj	_	_
+10	napad	napad	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 9 cc	color:blue
-1	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
-2	Da	da	SCONJ	_	_	4	mark	_	_
-3	li	li	PART	_	_	2	fixed	_	_
-4	želite	želeti	VERB	_	Number=Plur|Person=2|Tense=Pres	0	root	_	_
-5	da	da	SCONJ	_	_	8	mark	_	_
-6	se	sebe	PRON	_	Case=Acc|Number=Sing|Reflex=Yes	8	compound	_	_
-7	zakon	zakon	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
-8	poštuje	poštovati	VERB	_	Number=Sing|Person=3|Tense=Pres	4	ccomp	_	_
-9	ili	ili	CCONJ	_	_	4	cc	_	_
-10	ne	ne	PART	_	_	4	orphan	_	SpaceAfter=No
-11	?	?	PUNCT	_	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 cc	color:blue
-1	"	"	PUNCT	_	_	6	punct	_	SpaceAfter=No
-2	Politika	politika	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
-3	Turske	Turska	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
-4	veoma	veoma	ADV	_	Degree=Pos	6	advmod	_	_
-5	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	6	cop	_	_
-6	jasna	jasan	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
-7	i	i	CCONJ	_	_	8	cc	_	_
-8	odlučna	odlučan	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	6	conj	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	6	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 10 cc	color:blue
+1	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
+2	Nikica	Nikica	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+3	ga	on	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+4	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	5	aux	_	_
+5	odbila	odbiti	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+6	od	od	ADP	_	Case=Gen	8	case	_	_
+7	samog	sam	ADJ	_	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	početka	početak	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	14	punct	_	_
+10	ali	ali	CCONJ	_	_	14	cc	_	_
+11	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	14	aux	_	_
+12	on	on	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+13	bio	biti	AUX	_	Gender=Masc|Number=Sing|VerbForm=Part	14	cop	_	_
+14	uporan	uporan	ADJ	_	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	conj	_	SpaceAfter=No
+15	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

@@ -23,35 +23,16 @@ The following 10 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 det	color:blue
-1	Tuhle	tenhle	DET	PDFS4----------	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
-2	větu	věta	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	4	obj	_	_
-3	si	se	PRON	P7--3----------	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	4	expl:pv	_	_
-4	připomínám	připomínat	VERB	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-5	léta	rok	NOUN	NNNP4-----A---2	Case=Acc|Gender=Neut|Number=Plur|Polarity=Pos|Style=Arch	4	obl	_	_
-6	.	.	PUNCT	Z:-------------	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 12 det	color:blue
-1	Člověk	člověk	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	2	nsubj	_	_
-2	musí	muset	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	někomu	někdo	PRON	PZM-3----------	Animacy=Anim|Case=Dat|Gender=Masc|PronType=Ind	4	iobj	_	_
-4	splnit	splnit	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	2	xcomp	_	_
-5	sen	sen	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	4	obj	_	_
-6	,	,	PUNCT	Z:-------------	_	10	punct	_	_
-7	aby	aby	SCONJ	J,-------------	_	10	mark	_	_
-8	by	být	AUX	Vc-------------	Mood=Cnd|Person=3|VerbForm=Fin	10	aux	_	_
-9	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	10	expl:pv	_	_
-10	splnil	splnit	VERB	VpIS----R-AA---	Animacy=Inan|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	2	advcl	_	_
-11	ten	ten	DET	PDIS1----------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	10	nsubj	_	_
-12	jeho	jeho	DET	PSIS1MS3-------	Animacy=Inan|Case=Nom|Gender=Masc|Gender[psor]=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
-13	.	.	PUNCT	Z:-------------	_	2	punct	_	_
+1	Tím	ten	DET	PDIS7----------	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	smíchem	smích	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	4	obl	_	_
+3	ale	ale	CCONJ	J^-------------	_	4	cc	_	_
+4	dodávala	dodávat	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+5	každému	každý	DET	PLIS3----1A----	Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|PronType=Tot	6	det	_	_
+6	jevu	jev	NOUN	NNIS3-----A----	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	4	iobj	_	_
+7	nějaký	nějaký	DET	PZIS4----------	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	9	det	_	_
+8	snesitelnější	snesitelný	ADJ	AAIS4----2A----	Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing|Polarity=Pos	9	amod	_	_
+9	smysl	smysl	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	4	obj	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -59,19 +40,42 @@ The following 10 pairs of parts of speech are connected with `det`: <tt><a href=
 ~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 det	color:blue
-1	"	"	PUNCT	Z:-------------	_	7	punct	_	_
-2	A	a	CCONJ	J^-------------	_	7	cc	_	_
-3	ten	ten	DET	PDMS1----------	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
-4	Sam	Sam	PROPN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	7	nsubj	_	_
-5	,	,	PUNCT	Z:-------------	_	7	punct	_	_
-6	jakou	jaký	DET	P4FS4----------	Case=Acc|Gender=Fem|Number=Sing|PronType=Int,Rel	8	det	_	_
-7	má	mít	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-8	barvu	barva	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	7	obj	_	_
-9	?	?	PUNCT	Z:-------------	_	7	punct	_	_
-10	"	"	PUNCT	Z:-------------	_	7	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 det	color:blue
+1	Nad	nad	ADP	RR--7----------	AdpType=Prep|Case=Ins	2	case	_	_
+2	tím	ten	DET	PDNS7----------	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	5	obl	_	_
+3	vším	všechen	DET	PLNS7----------	Case=Ins|Gender=Neut|Number=Sing|PronType=Tot	2	det	_	_
+4	byl	být	AUX	VpIS----R-AA---	Animacy=Inan|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	aux:pass	_	_
+5	vyveden	vyvedený	ADJ	VsIS------AP---	Animacy=Inan|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+6	nápis	nápis	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	5	nsubj:pass	_	_
+7	Bitva	bitva	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	6	nmod	_	_
+8	u	u	ADP	RR--2----------	AdpType=Prep|Case=Gen	9	case	_	_
+9	Krásné	Krásná	PROPN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	7	nmod	_	_
+10	a	a	CCONJ	J^-------------	_	11	cc	_	_
+11	letopočet	letopočet	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	6	conj	_	_
+12	1427	1427	NUM	C=-------------	NumForm=Digit|NumType=Card	11	nummod	_	SpaceAfter=No
+13	.	.	PUNCT	Z:-------------	_	5	punct	_	SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 det	color:blue
+1	Snad	snad	PART	TT-------------	_	5	advmod	_	_
+2	byste	být	AUX	Vc-P---2-------	Mood=Cnd|Number=Plur|Person=2|VerbForm=Fin	5	aux	_	_
+3	nám	já	PRON	PP-P3--1-------	Case=Dat|Number=Plur|Person=1|PronType=Prs	8	iobj	_	_
+4	tady	tady	ADV	Db-------------	PronType=Dem	5	advmod	_	_
+5	nechtěla	chtít	VERB	VpFS----R-NA---	Gender=Fem|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+6	tu	ten	DET	PDFS4----------	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
+7	Vídeň	Vídeň	PROPN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	8	obj	_	_
+8	předvádět	předvádět	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	5	xcomp	_	SpaceAfter=No
+9	!	!	PUNCT	Z:-------------	_	5	punct	_	SpaceAfter=No
+10	"	"	PUNCT	Z:-------------	_	5	punct	_	SpaceAfter=No
 
 ~~~
 

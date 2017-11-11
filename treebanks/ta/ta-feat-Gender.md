@@ -53,7 +53,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 <table>
   <tr><th>Paradigm <i>தமிழர்</i></th><th><tt>Neut</tt></th><th><tt>Com</tt></th></tr>
   <tr><td><tt><tt><a href="ta-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ta-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ta-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>தமிழர்களை, தமிழர்களைச்</td></tr>
-  <tr><td><tt><tt><a href="ta-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ta-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ta-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>தமிழர்களுக்க், தமிழர்களுக்குத், தமிழர்களுக்கு</td></tr>
+  <tr><td><tt><tt><a href="ta-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ta-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ta-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>தமிழர்களுக்க், தமிழர்களுக்கு, தமிழர்களுக்குத்</td></tr>
   <tr><td><tt><tt><a href="ta-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="ta-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ta-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>தமிழர்களின்</td></tr>
   <tr><td><tt><tt><a href="ta-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="ta-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>தமிழர்களிடம்</td><td></td></tr>
   <tr><td><tt><tt><a href="ta-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ta-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>தமிழர்</td><td></td></tr>

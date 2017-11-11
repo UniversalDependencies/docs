@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 2 different values: `Anim`, `Inan`.
 
 33244 tokens (20%) have a non-empty value of `Animacy`.
-11553 types (42%) occur at least once with a non-empty value of `Animacy`.
-6384 lemmas (46%) occur at least once with a non-empty value of `Animacy`.
+11553 types (43%) occur at least once with a non-empty value of `Animacy`.
+6380 lemmas (47%) occur at least once with a non-empty value of `Animacy`.
 The feature is used with 8 part-of-speech tags: <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (11898; 7% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (8583; 5% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (4616; 3% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (3127; 2% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (2687; 2% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (1391; 1% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (475; 0% instances), <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> (467; 0% instances).
 
 ### `NOUN`
@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>duchové</em></td><td></td></tr>
 </table>
 
-`Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (2179) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `NOUN`. 100% lemmas (2178) occur only with one value of `Animacy`.
 
 ### `VERB`
 
@@ -68,7 +68,7 @@ The most frequent other feature values with which `ADJ` and `Animacy` co-occurre
 
 * `Anim` (1722; 37% of non-empty `Animacy`): <em>rád, mladý, ostatní, starý, malý, rádi, bohatý, druhý, první, další</em>
 * `Inan` (2894; 63% of non-empty `Animacy`): <em>celý, další, první, druhý, malý, jediný, nový, plný, dobrý, velký</em>
-* `EMPTY` (6284): <em>první, jiného, poslední, celou, celá, malé, další, ráda, velké, druhé</em>
+* `EMPTY` (6283): <em>první, jiného, poslední, celou, celá, malé, další, ráda, velké, druhé</em>
 
 <table>
   <tr><th>Paradigm <i>celý</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -172,7 +172,7 @@ The most frequent other feature values with which `PROPN` and `Animacy` co-occur
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td></td><td><em>Amadeus</em></td></tr>
 </table>
 
-`Animacy` seems to be **lexical feature** of `PROPN`. 100% lemmas (294) occur only with one value of `Animacy`.
+`Animacy` seems to be **lexical feature** of `PROPN`. 100% lemmas (291) occur only with one value of `Animacy`.
 
 ### `AUX`
 
@@ -196,7 +196,7 @@ The most frequent other feature values with which `AUX` and `Animacy` co-occurre
 
 ### `NUM`
 
-467 <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> tokens (33% of all `NUM` tokens) have a non-empty value of `Animacy`.
+467 <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> tokens (36% of all `NUM` tokens) have a non-empty value of `Animacy`.
 
 The most frequent other feature values with which `NUM` and `Animacy` co-occurred: <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (467; 100%), <tt><a href="cs_fictree-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (467; 100%), <tt><a href="cs_fictree-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (467; 100%), <tt><a href="cs_fictree-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (467; 100%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt> (247; 53%).
 
@@ -204,7 +204,7 @@ The most frequent other feature values with which `NUM` and `Animacy` co-occurre
 
 * `Anim` (213; 46% of non-empty `Animacy`): <em>jeden, dva, oba, jednoho, čtyři, tři, dvěma, jedním, jednomu, tří</em>
 * `Inan` (254; 54% of non-empty `Animacy`): <em>dva, jeden, jednoho, tři, čtyři, tisíc, dvou, jedním, dvěma, jednom</em>
-* `EMPTY` (945): <em>pár, dvě, jedna, jednu, jedné, deset, jedno, tři, dvacet, obě</em>
+* `EMPTY` (846): <em>pár, dvě, jedna, jednu, jedné, deset, jedno, tři, dvacet, obě</em>
 
 <table>
   <tr><th>Paradigm <i>jeden</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>

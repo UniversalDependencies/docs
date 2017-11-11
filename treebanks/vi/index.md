@@ -12,7 +12,7 @@ udver: '2'
 # UD Vietnamese
 
 Language: [Vietnamese](../vi/overview/vi-hub.html) (code: `vi`)<br/>
-Family: Austroasiatic
+Family: Austro-Asiatic
 
 This treebank has been part of Universal Dependencies since the UD v1.4 release.
 
@@ -40,6 +40,7 @@ If you want to collaborate, please contact [luongnt&nbsp;(æt)&nbsp;dlu&nbsp;•
 ## Description
 
 ## Acknowledgments
+
 # Statistics of UD Vietnamese
 
 ## POS Tags

@@ -22,16 +22,19 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 aux:pass	color:blue
-1	Cosi	cosi	PRON	PZ--1----------	Case=Nom|PronType=Ind	0	root	_	_
-2	,	,	PUNCT	Z:-------------	_	5	punct	_	_
-3	co	co	PRON	PQ--1----------	Animacy=Inan|Case=Nom|PronType=Int,Rel	5	nsubj:pass	_	_
-4	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux:pass	_	_
-5	míněno	míněný	ADJ	VsNS------AP---	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	1	amod	_	_
-6	zcela	zcela	ADV	Db-------------	_	9	advmod	_	_
-7	a	a	CCONJ	J^-------------	_	8	cc	_	_
-8	naprosto	naprosto	ADV	Db-------------	_	6	conj	_	_
-9	jinak	jinak	ADV	Db-------------	_	5	advmod	_	_
-10	?	?	PUNCT	Z:-------------	_	1	punct	_	_
+1	Nad	nad	ADP	RR--7----------	AdpType=Prep|Case=Ins	2	case	_	_
+2	tím	ten	DET	PDNS7----------	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	5	obl	_	_
+3	vším	všechen	DET	PLNS7----------	Case=Ins|Gender=Neut|Number=Sing|PronType=Tot	2	det	_	_
+4	byl	být	AUX	VpIS----R-AA---	Animacy=Inan|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	aux:pass	_	_
+5	vyveden	vyvedený	ADJ	VsIS------AP---	Animacy=Inan|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+6	nápis	nápis	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	5	nsubj:pass	_	_
+7	Bitva	bitva	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	6	nmod	_	_
+8	u	u	ADP	RR--2----------	AdpType=Prep|Case=Gen	9	case	_	_
+9	Krásné	Krásná	PROPN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	7	nmod	_	_
+10	a	a	CCONJ	J^-------------	_	11	cc	_	_
+11	letopočet	letopočet	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	6	conj	_	_
+12	1427	1427	NUM	C=-------------	NumForm=Digit|NumType=Card	11	nummod	_	SpaceAfter=No
+13	.	.	PUNCT	Z:-------------	_	5	punct	_	SpaceAfter=No
 
 ~~~
 

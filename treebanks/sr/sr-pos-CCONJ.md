@@ -19,10 +19,10 @@ The 10 most frequent ambiguous types:  <em>i</em> (<tt><a href="sr-pos-CCONJ.htm
 
 
 * <em>i</em>
-  * <tt><a href="sr-pos-CCONJ.html">CCONJ</a></tt> 2335: <em>" Dobro je da se postigne konsenzus <b>i</b> da imamo jednog kandidata .</em>
+  * <tt><a href="sr-pos-CCONJ.html">CCONJ</a></tt> 2335: <em>Nikica je poznata po tome da jede <b>i</b> do 50 kilograma hleba dnevno .</em>
   * <tt><a href="sr-pos-PART.html">PART</a></tt> 2: <em>Njime je Beogradu i Zagrebu omogućeno da se <b>i</b> dalje mešaju u unutrašnja pitanja BiH .</em>
 * <em>nego</em>
-  * <tt><a href="sr-pos-CCONJ.html">CCONJ</a></tt> 37: <em>" On nikada nije isticao jedan narod , <b>nego</b> se borio za zemlju , za BiH .</em>
+  * <tt><a href="sr-pos-CCONJ.html">CCONJ</a></tt> 37: <em>" Ona voli blato više <b>nego</b> sam život "</em>
   * <tt><a href="sr-pos-SCONJ.html">SCONJ</a></tt> 18: <em>Stvarni rok je pre <b>nego</b> što Komisija predstavi svoje preporuke .</em>
 * <em>niti</em>
   * <tt><a href="sr-pos-CCONJ.html">CCONJ</a></tt> 9: <em>A1 TV i četiri novine zatvoreni su zato što nisu plaćali porez , <b>niti</b> ispunjavali obaveze prema kreditorima .</em>
@@ -31,8 +31,8 @@ The 10 most frequent ambiguous types:  <em>i</em> (<tt><a href="sr-pos-CCONJ.htm
   * <tt><a href="sr-pos-PART.html">PART</a></tt> 18: <em>" Nikada se nikome nisam nudio , čak <b>ni</b> HDZ-u " , istakao je Jurčić .</em>
   * <tt><a href="sr-pos-CCONJ.html">CCONJ</a></tt> 5: <em>Posle završetka razgovora u Briselu šef delegacije Vlade Srbije Borislav Stefanović insistirao je da rezultati dijaloga ne znače " <b>ni</b> eksplicitno <b>ni</b> implicitno priznavanje nezavisnosti Kosova " .</em>
 * <em>bilo</em>
-  * <tt><a href="sr-pos-AUX.html">AUX</a></tt> 58: <em>" Čuli smo jak prasak ; <b>bilo</b> je puno dima i štete . "</em>
-  * <tt><a href="sr-pos-PART.html">PART</a></tt> 30: <em>U Bulgartabaku su odbili <b>bilo</b> kakav komentar .</em>
+  * <tt><a href="sr-pos-AUX.html">AUX</a></tt> 58: <em>Ni u jednom incidentu nije <b>bilo</b> žrtava .</em>
+  * <tt><a href="sr-pos-PART.html">PART</a></tt> 30: <em>Čanak je rekao da policija nije pronašla <b>bilo</b> kakvu eksplozivnu napravu .</em>
   * <tt><a href="sr-pos-CCONJ.html">CCONJ</a></tt> 2: <em>Tu je i etnička komponenta , s obzirom da pojedinci iz različitih zajednica mogu da kažu da je diskriminacija -- <b>bilo</b> sada ili ranije -- uticala na njihovu mogućnost ostvarivanja koristi od privatizacije .</em>
 * <em>te</em>
   * <tt><a href="sr-pos-PRON.html">PRON</a></tt> 36: <em>Sami Neza razmatra <b>te</b> izglede .</em>
@@ -42,7 +42,7 @@ The 10 most frequent ambiguous types:  <em>i</em> (<tt><a href="sr-pos-CCONJ.htm
   * <tt><a href="sr-pos-SCONJ.html">SCONJ</a></tt> 17: <em>Ta zemlja je u političkoj krizi od aprila 2009 , <b>pošto</b> parlament nije uspeo da izabere predsednika .</em>
   * <tt><a href="sr-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Pored toga , Ren je istakao da , <b>pošto</b> je spor između Hrvatske i Slovenije oko prekograničnog saobraćaja rešen , nema više razloga za odlaganje pregovora o ribarenju i spoljnoj politici .</em>
 * <em>u</em>
-  * <tt><a href="sr-pos-ADP.html">ADP</a></tt> 2719: <em>Kazna medijskom mogulu obnovila debatu <b>u</b> Makedoniji</em>
+  * <tt><a href="sr-pos-ADP.html">ADP</a></tt> 2719: <em>Nikica je živela <b>u</b> odmaralištu od svoje treće godine .</em>
   * <tt><a href="sr-pos-CCONJ.html">CCONJ</a></tt> 1: <em>U svom pozdravnom govoru , Gul je istakao da su i Turska <b>u</b> Saudijska Arabija pretrpele terorističke napade i da bi konflikti trebalo da se rešavaju dijalogom .</em>
 * <em>već</em>
   * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 31: <em>Svi susedi Srbije su ili <b>već</b> u NATO-u ili teže članstvu .</em>

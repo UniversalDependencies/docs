@@ -17,40 +17,17 @@ The following 41 pairs of parts of speech are connected with `obl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 3 obl	color:blue
-1	Bar	bar	ADV	_	Degree=Pos	6	discourse	_	_
-2	na	na	ADP	_	Case=Loc	3	case	_	_
-3	papiru	papir	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	3	punct	_	_
-5	to	taj	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	_
-6	izgleda	izgledati	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
-7	kao	kao	SCONJ	_	_	9	case	_	_
-8	odlična	odličan	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
-9	ideja	ideja	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 8 obl	color:blue
-1	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
-2	Ovde	ovde	ADV	_	Degree=Pos	5	advmod	_	_
-3	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	5	cop	_	_
-4	glavni	glavni	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
-5	problem	problem	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
-6	nepostojanje	nepostojanje	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
-7	pravih	prav	ADJ	_	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	8	amod	_	_
-8	sindikata	sindikat	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	6	obl	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	5	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 obl	color:blue
+1	Crnogorski	crnogorski	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+2	nilski	nilski	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	konj	konj	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+4	Nikica	Nikica	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	3	flat	_	_
+5	ide	ići	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
+6	kući	kuća	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	obl	_	_
 
 ~~~
 
@@ -61,12 +38,33 @@ The following 41 pairs of parts of speech are connected with `obl`: <tt><a href=
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 5 obl	color:blue
-1	Feronikel	Feronikel	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
-2	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	3	aux	_	_
-3	privatizovan	privatizovati	ADJ	_	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
-4	2007.	2007.	NUM	_	NumType=Ord	5	nummod	_	_
-5	godine	godina	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	3	punct	_	_
+1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	Tražiću	tražiti	VERB	_	Number=Sing|Person=1|Tense=Fut	0	root	_	_
+3	održavanje	održavanje	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	_
+4	zajedničke	zajednički	ADJ	_	Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	sednice	sednica	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	obl	_	_
+6	parlamenta	parlament	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 9 obl	color:blue
+1	Pejović	Pejović	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	kaže	kazati	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
+3	da	da	SCONJ	_	_	7	mark	_	_
+4	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	7	aux	_	_
+5	romansa	romansa	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+6	bila	biti	AUX	_	Gender=Fem|Number=Sing|VerbForm=Part	7	aux	_	_
+7	osuđena	osuditi	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part	2	ccomp	_	_
+8	na	na	ADP	_	Case=Acc	9	case	_	_
+9	propast	propast	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

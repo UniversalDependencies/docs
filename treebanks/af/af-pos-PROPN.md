@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Afrikaans: POS Tags: `PROPN`
 
-There are 308 `PROPN` lemmas (5%), 308 `PROPN` types (5%) and 590 `PROPN` tokens (1%).
+There are 309 `PROPN` lemmas (5%), 309 `PROPN` types (5%) and 590 `PROPN` tokens (1%).
 Out of 16 observed tags, the rank of `PROPN` is: 5 in number of lemmas, 5 in number of types and 13 in number of tokens.
 
 The 10 most frequent `PROPN` lemmas: Suid-Afrika Afrika Februarie Madiba Crime Mandela of Bafana Maart Tambo
@@ -19,7 +19,7 @@ The 10 most frequent ambiguous types:  of (<tt><a href="af-pos-CCONJ.html">CCONJ
 
 
 * of
-  * <tt><a href="af-pos-CCONJ.html">CCONJ</a></tt> 371: Vorms kan per hand afgelewer <b>of</b> per pos gestuur word .
+  * <tt><a href="af-pos-CCONJ.html">CCONJ</a></tt> 371: Maar ons twyfel nie dat dit wel een <b>of</b> ander tyd sal aanbreek nie .
   * <tt><a href="af-pos-SCONJ.html">SCONJ</a></tt> 16: Bel die permitkantoor om uit te vind <b>of</b> die permit gereed is voordat jy dit gaan haal .
   * <tt><a href="af-pos-PROPN.html">PROPN</a></tt> 7: Ons verwelkom vandag dr Imtiaz Sooliman van Gift <b>of</b> the Givers in hierdie huis .
   * <tt><a href="af-pos-X.html">X</a></tt> 4: Die aansoek moet by 'n registrasiebeampte of 'n aangewese persoon ingedien word wat jou dan van 'n erkenning van ontvangs van die aansoek moet voorsien in die vorm van Vorm B : Acknowledgement <b>of</b> receipt <b>of</b> application for registration <b>of</b> customary marriage .
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  of (<tt><a href="af-pos-CCONJ.html">CCONJ
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.120202).
+The form / lemma ratio of `PROPN` is 1.000000 (the average of all parts of speech is 1.122045).
 
 The 1st highest number of forms (1) was observed with the lemma “(SACU)-Mercusor”: (SACU)-Mercusor.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-1339 nodes (13%) are attached to their parents as `punct`.
+4143 nodes (15%) are attached to their parents as `punct`.
 
-1201 instances of `punct` (90%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.79014189693801.
+3796 instances of `punct` (92%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.03113685734975.
 
-The following 10 pairs of parts of speech are connected with `punct`: <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-PUNCT.html">PUNCT</a></tt> (1108; 83% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-PUNCT.html">PUNCT</a></tt> (131; 10% instances), <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-PUNCT.html">PUNCT</a></tt> (71; 5% instances), <tt><a href="sme-pos-PRON.html">PRON</a></tt>-<tt><a href="sme-pos-PUNCT.html">PUNCT</a></tt> (14; 1% instances), <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-PUNCT.html">PUNCT</a></tt> (7; 1% instances), <tt><a href="sme-pos-ADV.html">ADV</a></tt>-<tt><a href="sme-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="sme-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sme-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="sme-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sme-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="sme-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="sme-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="sme-pos-NUM.html">NUM</a></tt>-<tt><a href="sme-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `punct`: <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-PUNCT.html">PUNCT</a></tt> (3425; 83% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-PUNCT.html">PUNCT</a></tt> (363; 9% instances), <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-PUNCT.html">PUNCT</a></tt> (287; 7% instances), <tt><a href="sme-pos-PRON.html">PRON</a></tt>-<tt><a href="sme-pos-PUNCT.html">PUNCT</a></tt> (31; 1% instances), <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-PUNCT.html">PUNCT</a></tt> (22; 1% instances), <tt><a href="sme-pos-ADV.html">ADV</a></tt>-<tt><a href="sme-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="sme-pos-NUM.html">NUM</a></tt>-<tt><a href="sme-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="sme-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="sme-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="sme-pos-INTJ.html">INTJ</a></tt>-<tt><a href="sme-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="sme-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="sme-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

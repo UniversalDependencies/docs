@@ -18,18 +18,19 @@ The following 15 pairs of parts of speech are connected with `nummod`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 4 nummod	color:blue
-1	Esat	Esat	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
-2	Beriša	Beriša	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	flat	_	_
-3	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	6	cop	_	_
-4	jedan	jedan	NUM	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	6	nummod	_	_
-5	takav	takav	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
-6	primer	primer	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 nummod	color:blue
+1	Druga	drugi	NUM	_	Case=Nom|Gender=Fem|Number=Sing|NumType=Ord	2	nummod	_	_
+2	dvojica	dvojica	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+3	su	biti	AUX	_	Number=Plur|Person=3|Tense=Pres	4	aux	_	_
+4	rekli	reći	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
+5	da	da	SCONJ	_	_	7	mark	_	_
+6	neće	hteti	AUX	_	Number=Sing|Person=3|Tense=Pres	7	aux	_	_
+7	prisustvovati	prisustvovati	VERB	_	VerbForm=Inf	4	ccomp	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
@@ -40,14 +41,13 @@ The following 15 pairs of parts of speech are connected with `nummod`: <tt><a hr
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 5 nummod	color:blue
-1	Trenutno	trenutno	ADV	_	Degree=Pos	4	advmod	_	_
-2	putnički	putnički	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	3	amod	_	_
-3	vozovi	voz	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
-4	saobraćaju	saobraćati	VERB	_	Number=Plur|Person=3|Tense=Pres	0	root	_	_
-5	dva	dva	NUM	_	NumType=Card	6	nummod	_	_
-6	puta	put	ADV	_	Degree=Pos	4	obl	_	_
-7	dnevno	dnevno	ADV	_	Degree=Pos	6	advmod	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	4	punct	_	_
+1	Trenutna	trenutan	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	stopa	stopa	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+3	nezaposlenosti	nezaposlenost	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+4	iznosi	iznositi	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
+5	12,4	12,4	NUM	_	NumType=Card	6	nummod	_	_
+6	odsto	odsto	ADV	_	Degree=Pos	4	advmod	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

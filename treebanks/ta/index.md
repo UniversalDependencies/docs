@@ -12,7 +12,7 @@ udver: '2'
 # UD Tamil
 
 Language: [Tamil](../ta/overview/ta-hub.html) (code: `ta`)<br/>
-Family: Dravidian
+Family: Dravidian, Southern
 
 This treebank has been part of Universal Dependencies since the UD v1.2 release.
 
@@ -78,6 +78,7 @@ url = {http://www.lrec-conf.org/proceedings/lrec2012/summaries/456.html}
 
 
 ## Acknowledgments
+
 # Statistics of UD Tamil
 
 ## POS Tags

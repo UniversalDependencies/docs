@@ -19,19 +19,19 @@ The 10 most frequent ambiguous types:  <em>se</em> (<tt><a href="cs_fictree-pos-
 
 
 * <em>se</em>
-  * <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> 4448: <em>Syn <b>se</b> mě pevně držel za ruku , občas ke mně vzhlédl .</em>
-  * <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> 185: <em>Ještě je směšné , <b>se</b> svým užaslým pohledem .</em>
+  * <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> 4448: <em>Daly jsme <b>se</b> do řeči .</em>
+  * <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> 185: <em>Ale tohle setkání <b>se</b> zachráněným kotětem mi dodalo sílu .</em>
 * <em>kolem</em>
-  * <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> 87: <em>Pevně mne svíral rukama <b>kolem</b> krku .</em>
-  * <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> 14: <em>Zastaví se a rozhlédne <b>kolem</b> .</em>
+  * <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> 87: <em>Zvedl jsem se a prošel <b>kolem</b> řeky a práce mi opravdu šla líp .</em>
+  * <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> 14: <em>Mužíček oběhl s trakařem třikrát <b>kolem</b> a přitom odříkával :</em>
 * <em>bez</em>
-  * <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> 77: <em>Obálka <b>bez</b> adresy .</em>
+  * <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> 77: <em>Jemně a lehce , <b>bez</b> jediného zbytečného pohybu .</em>
   * <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> 1: <em>Černý <b>bez</b> je vysoký keř .</em>
 * <em>vedle</em>
   * <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> 41: <em>Babička stála <b>vedle</b> mě pod jabloní .</em>
   * <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> 5: <em>Bydlí <b>vedle</b> v domě a někdy chodí společně bruslit .</em>
 * <em>místo</em>
-  * <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> 39: <em>Věděl jsem , že na moje <b>místo</b> najde okamžitě deset náhradníků .</em>
+  * <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> 39: <em>A vybrala <b>místo</b> .</em>
   * <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> 14: <em>" No , za to , že jste si vzala <b>místo</b> dcery mateřskou dovolenou . "</em>
   * <tt><a href="cs_fictree-pos-SCONJ.html">SCONJ</a></tt> 4: <em>Počítač , <b>místo</b> aby by mi pomáhal , tak mě zdržuje .</em>
   * <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> 3: <em>Druhý den mě nechala doma a <b>místo</b> do školy mě odvedla na nádraží .</em>
@@ -39,11 +39,11 @@ The 10 most frequent ambiguous types:  <em>se</em> (<tt><a href="cs_fictree-pos-
   * <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> 21: <em>Byl <b>uprostřed</b> práce , kterou chtěl dokončit , a náhle uviděl její konec .</em>
   * <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> 2: <em>Nůžkami ji <b>uprostřed</b> rozstřihl .</em>
 * <em>přede</em>
-  * <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> 12: <em>Rozbalil ji <b>přede</b> mnou a čekal , co já na to .</em>
+  * <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> 12: <em>Co když má nějakou nemoc , kterou <b>přede</b> mnou tají ?</em>
   * <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> 2: <em>" Takto , Haničko , takto , takto se <b>přede</b> zlato .</em>
 * <em>naproti</em>
-  * <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> 5: <em>ne , <b>naproti</b> němu nesedí žádná cizí žena v těle jeho dívky ;</em>
-  * <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> 3: <em>Vystoupal jsem po schodech k němu a on mi vyšel pár kroků <b>naproti</b> .</em>
+  * <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> 5: <em>Seděl opět v křesle <b>naproti</b> ředitelce ;</em>
+  * <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> 3: <em>Musíme mu jít přece <b>naproti</b> , když by přijel .</em>
 * <em>skrz</em>
   * <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> 6: <em>' Když nepovolím , zemřeš za dva dny hlady , ' cedila mušle <b>skrz</b> zavřenou ulitu .</em>
   * <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> 1: <em>Ten pospíchal k otci , otevřel dveře , zahlédl , že něco padá , ale dřív než se ho to mohlo dotknout , tasil svůj meč a probodl tu věc <b>skrz</b> naskrz .</em>
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>se</em> (<tt><a href="cs_fictree-pos-
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.196429 (the average of all parts of speech is 1.966826).
+The form / lemma ratio of `ADP` is 1.196429 (the average of all parts of speech is 1.973661).
 
 The 1st highest number of forms (2) was observed with the lemma “bez”: <em>bez, beze</em>.
 

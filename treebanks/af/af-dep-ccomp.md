@@ -38,24 +38,26 @@ The following 12 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 
 
 ~~~ conllu
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 7 ccomp	color:blue
-1	Wat	wat	PRON	PB	PronType=Rel	7	nsubj	_	_
-2	huishoudelike	huishoudelik	ADJ	ASA	AdjType=Attr|Case=Nom|Degree=Pos	3	amod	_	_
-3	toegang	toegang	NOUN	NA	Number=Sing	7	obj	_	_
-4	tot	tot	ADP	SVS	AdpType=Prep	6	case	_	_
-5	basiese	basies	ADJ	ASA	AdjType=Attr|Case=Nom|Degree=Pos	6	amod	_	_
-6	dienste	diens	NOUN	NSM	Number=Plur	3	nmod	_	_
-7	aanbetref	aanbetref	VERB	VTHOG	Subcat=Tran|Tense=Pres|VerbForm=Fin,Inf	9	ccomp	_	SpaceAfter=No
-8	,	,	PUNCT	ZM	_	7	punct	_	_
-9	spreek	spreek	VERB	VTHOG	Subcat=Tran|Tense=Pres|VerbForm=Fin,Inf	0	root	_	_
-10	die	die	DET	LB	Definite=Def|PronType=Art	11	det	_	_
-11	syfers	syfer	NOUN	NSM	Number=Plur	9	nsubj	_	_
-12	vanself	vanself	ADV	BS	Degree=Pos	9	advmod	_	SpaceAfter=No
-13	.	.	PUNCT	ZE	_	9	punct	_	_
+# visual-style 7 13 ccomp	color:blue
+1	Ons	ons	PRON	PEMP	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	_
+2	moet	moet	AUX	VTUOM	Tense=Pres|VerbForm=Fin,Inf|VerbType=Mod	7	aux	_	_
+3	egter	egter	ADV	BS	Degree=Pos	7	advmod	_	_
+4	nie	nie	ADV	BS	Degree=Pos	7	advmod	_	_
+5	die	die	DET	LB	Definite=Def|PronType=Art	6	det	_	_
+6	uitdagings	uitdaging	NOUN	NSM	Number=Plur	7	obj	_	_
+7	onderskat	onderskat	VERB	VTHOG	Subcat=Tran|Tense=Pres|VerbForm=Fin,Inf	0	root	_	_
+8	wat	wat	PRON	PB	PronType=Rel	13	nsubj	_	_
+9	ons	ons	PRON	PEMP	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs	13	obj	_	_
+10	in	in	ADP	SVS	AdpType=Prep	12	case	_	_
+11	die	die	DET	LB	Definite=Def|PronType=Art	12	det	_	_
+12	gesig	gesig	NOUN	NSE	Number=Sing	13	obl	_	_
+13	staar	staar	VERB	VTHOG	Subcat=Tran|Tense=Pres|VerbForm=Fin,Inf	7	ccomp	_	_
+14	nie	nie	PART	UPO	PartType=Neg	13	advmod	_	SpaceAfter=No
+15	.	.	PUNCT	ZE	_	13	punct	_	_
 
 ~~~
 

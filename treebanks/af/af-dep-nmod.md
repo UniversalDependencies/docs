@@ -39,26 +39,27 @@ The following 22 pairs of parts of speech are connected with `nmod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 8 nmod	color:blue
-1	In	in	ADP	SVS	AdpType=Prep	3	case	_	_
-2	hierdie	hierdie	DET	PA	PronType=Dem	3	det	_	_
-3	opsig	opsig	NOUN	NSE	Number=Sing	4	obl	_	_
-4	gee	gee	VERB	VTHOG	Subcat=Tran|Tense=Pres|VerbForm=Fin,Inf	0	root	_	_
-5	ons	ons	PRON	PEMP	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
-6	erkenning	erkenning	NOUN	NA	Number=Sing	4	obj	_	_
-7	aan	aan	ADP	SVS	AdpType=Prep	8	case	_	_
-8	Onkgopotse	Onkgopotse	PROPN	NEE	Number=Sing	11	nmod	_	_
-9	Tiro	Tiro	PROPN	NEE	Number=Sing	8	flat	_	_
-10	se	se	PART	UPS	PartType=Gen	8	case	_	_
-11	neef	neef	NOUN	NSE	Number=Sing	4	obl	_	SpaceAfter=No
-12	,	,	PUNCT	ZM	_	11	punct	_	_
-13	Pat	Pat	PROPN	NEE	Number=Sing	11	amod	_	_
-14	Tlhagwana	Tlhagwana	PROPN	NEE	Number=Sing	13	flat	_	SpaceAfter=No
-15	.	.	PUNCT	ZE	_	4	punct	_	_
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 13 nmod	color:blue
+1	Ons	ons	PRON	PEMP	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
+2	is	is	AUX	VTHOK	Tense=Pres|VerbForm=Fin,Inf|VerbType=Cop	4	cop	_	_
+3	veral	veral	ADV	BS	Degree=Pos	2	advmod	_	_
+4	bekommerd	bekommerd	ADJ	ASP	AdjType=Pred|Case=Nom|Degree=Pos	0	root	_	_
+5	oor	oor	ADP	SVS	AdpType=Prep	8	case	_	_
+6	die	die	DET	LB	Definite=Def|PronType=Art	8	det	_	_
+7	sinnelose	sinneloos	ADJ	ASA	AdjType=Attr|Case=Nom|Degree=Pos	8	amod	_	_
+8	geweld	geweld	NOUN	NA	Number=Sing	4	obl	_	_
+9	en	en	CCONJ	KN	_	8	cc	_	_
+10	moorde	moord	NOUN	NSM	Number=Plur	8	conj	_	_
+11	in	in	ADP	SVS	AdpType=Prep	13	case	_	_
+12	beide	beide	NUM	THAB	_	13	nummod	_	_
+13	Kenia	Kenia	PROPN	NEE	Number=Sing	10	nmod	_	_
+14	en	en	CCONJ	KN	_	13	cc	_	_
+15	Tsjad	Tsjad	PROPN	NEE	Number=Sing	13	flat	_	SpaceAfter=No
+16	.	.	PUNCT	ZE	_	2	punct	_	_
 
 ~~~
 

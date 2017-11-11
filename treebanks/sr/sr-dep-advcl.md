@@ -17,23 +17,23 @@ The following 25 pairs of parts of speech are connected with `advcl`: <tt><a hre
 
 
 ~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 3 advcl	color:blue
-1	Ako	ako	SCONJ	_	_	3	mark	_	_
-2	se	sebe	PRON	_	Case=Acc|Number=Sing|Reflex=Yes	3	compound	_	_
-3	beži	bežati	VERB	_	Number=Sing|Person=3|Tense=Pres	7	advcl	_	_
-4	od	od	ADP	_	Case=Gen	5	case	_	_
-5	obaveza	obaveza	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	3	obl	_	SpaceAfter=No
-6	,	,	PUNCT	_	_	3	punct	_	_
-7	gubi	gubiti	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
-8	se	sebe	PRON	_	Case=Acc|Number=Sing|Reflex=Yes	7	compound	_	_
-9	smisao	smisao	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
-10	političkog	politički	ADJ	_	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
-11	dijaloga	dijalog	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	7	punct	_	_
+# visual-style 3 8 advcl	color:blue
+1	Hiljade	hiljada	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	_
+2	ljudi	čovek	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
+3	okupilo	okupiti	VERB	_	Gender=Neut|Number=Sing|VerbForm=Part	0	root	_	_
+4	se	sebe	PRON	_	Case=Acc|Number=Sing|Reflex=Yes	3	compound	_	_
+5	na	na	ADP	_	Case=Loc	6	case	_	_
+6	Kipru	Kipar	PROPN	_	Case=Loc|Gender=Masc|Number=Sing	3	obl	_	_
+7	da	da	SCONJ	_	_	8	mark	_	_
+8	vidi	videti	VERB	_	Number=Sing|Person=3|Tense=Pres	3	advcl	_	_
+9	papu	papa	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	8	obj	_	_
+10	Benedikta	Benedikt	PROPN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	9	flat	_	_
+11	XVI	xvi	NUM	_	NumType=Ord	10	flat	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

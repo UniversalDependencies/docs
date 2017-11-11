@@ -12,7 +12,7 @@ udver: '2'
 # UD Finnish PUD
 
 Language: [Finnish](../fi/overview/fi-hub.html) (code: `fi`)<br/>
-Family: Uralic, Finno-Ugric
+Family: Uralic, Finnic
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
@@ -40,6 +40,7 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
 ## Description
 
 ## Acknowledgments
+
 # Statistics of UD Finnish PUD
 
 ## POS Tags

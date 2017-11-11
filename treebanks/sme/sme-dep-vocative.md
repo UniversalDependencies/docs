@@ -8,12 +8,32 @@ udver: '2'
 
 This relation is universal.
 
-5 nodes (0%) are attached to their parents as `vocative`.
+16 nodes (0%) are attached to their parents as `vocative`.
 
-3 instances of `vocative` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.4.
+11 instances of `vocative` (69%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.375.
 
-The following 4 pairs of parts of speech are connected with `vocative`: <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-PROPN.html">PROPN</a></tt> (2; 40% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-PROPN.html">PROPN</a></tt> (1; 20% instances), <tt><a href="sme-pos-PRON.html">PRON</a></tt>-<tt><a href="sme-pos-PRON.html">PRON</a></tt> (1; 20% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (1; 20% instances).
+The following 6 pairs of parts of speech are connected with `vocative`: <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (6; 38% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-PROPN.html">PROPN</a></tt> (4; 25% instances), <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-PROPN.html">PROPN</a></tt> (2; 13% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-PROPN.html">PROPN</a></tt> (2; 13% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="sme-pos-PRON.html">PRON</a></tt>-<tt><a href="sme-pos-PRON.html">PRON</a></tt> (1; 6% instances).
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 vocative	color:blue
+1	Hearrá	hearrá	NOUN	N	Case=Nom|Number=Sing	3	vocative	_	SpaceAfter=No
+2	,	,	PUNCT	CLB	_	3	punct	_	_
+3	suova	suovvat	VERB	V	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+4	mu	mun	PRON	Pron	Case=Acc|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
+5	vuos	vuos	ADV	Adv	_	3	advmod	_	_
+6	mannat	mannat	VERB	V	VerbForm=Inf	3	ccomp	_	_
+7	ruoktot	ruoktot	ADV	Adv	_	6	advmod	_	_
+8	hávdádit	hávdádit	VERB	V	VerbForm=Inf	3	advcl	_	_
+9	áhččán	áhčči	NOUN	N	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=1	8	obj	_	SpaceAfter=No
+10	.	.	PUNCT	CLB	_	3	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -40,38 +60,17 @@ The following 4 pairs of parts of speech are connected with `vocative`: <tt><a h
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 vocative	color:blue
-1	Biera	Biera	PROPN	N	Case=Nom|Number=Sing	4	vocative	_	SpaceAfter=No
-2	,	,	PUNCT	CLB	_	4	punct	_	_
-3	du	don	PRON	Pron	Case=Gen|Number=Sing|Person=2|PronType=Prs	4	nmod:poss	_	_
-4	sabehiid	sabet	NOUN	N	Case=Acc|Number=Plur	0	root	_	SpaceAfter=No
-5	!	^excl	PUNCT	CLB	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 1 vocative	color:blue
-1	Mun	mun	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	vocative	_	SpaceAfter=No
-2	,	,	PUNCT	CLB	_	6	punct	_	_
-3	Johanas	Johanas	PROPN	N	Case=Nom|Number=Sing	1	appos	_	SpaceAfter=No
-4	,	,	PUNCT	CLB	_	6	punct	_	_
-5	lean	leat	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	_
-6	dat	dat	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	0	root	_	_
-7	guhte	guhte	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	9	nsubj	_	_
-8	lean	leat	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
-9	gullan	gullat	VERB	V	Aspect=Perf|VerbForm=Part	6	acl:relcl	_	_
-10	ja	ja	CCONJ	CC	_	9	cc	_	_
-11	oaidnán	oaidnit	VERB	V	Aspect=Perf|VerbForm=Part	9	conj	_	_
-12	buot	buot	ADV	Adv	_	13	advmod	_	_
-13	dán	dát	PRON	Pron	Case=Acc|Number=Sing|PronType=Dem	11	obj	_	SpaceAfter=No
-14	.	.	PUNCT	CLB	_	6	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 1 vocative	color:blue
+1	Elizabeth	Elizabeth	PROPN	N	Case=Nom|Number=Sing	7	vocative	_	SpaceAfter=No
+2	,	,	PUNCT	CLB	_	7	punct	_	_
+3	gal	gal	ADV	Adv	_	7	advmod	_	_
+4	don	don	PRON	Pron	Case=Nom|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	_
+5	juo	juo	ADV	Adv	_	7	advmod	_	_
+6	leat	leat	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	čáppat	čáppat	ADJ	A	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	CLB	_	7	punct	_	_
 
 ~~~
 

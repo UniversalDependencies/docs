@@ -17,65 +17,58 @@ The following 58 pairs of parts of speech are connected with `conj`: <tt><a href
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 conj	color:blue
+1	Lekari	lekar	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	_
+2	i	i	CCONJ	_	_	3	cc	_	_
+3	nastavnici	nastavnik	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	1	conj	_	_
+4	sada	sada	ADV	_	Degree=Pos	5	advmod	_	_
+5	dobijaju	dobijati	VERB	_	Number=Plur|Person=3|Tense=Pres	0	root	_	_
+6	oko	oko	ADV	_	Degree=Pos	7	advmod	_	_
+7	400	400	NUM	_	NumType=Card	8	nummod:gov	_	_
+8	evra	evro	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	5	obl	_	_
+9	mesečno	mesečno	ADV	_	Degree=Pos	5	advmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 9 conj	color:blue
-1	Novi	nov	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
-2	predsednik	predsednik	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
-3	Moldavije	Moldavija	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
-4	fokusiraće	fokusirati	VERB	_	Number=Sing|Person=3|Tense=Fut	0	root	_	_
-5	se	sebe	PRON	_	Case=Acc|Number=Sing|Reflex=Yes	4	compound	_	_
-6	na	na	ADP	_	Case=Acc	7	case	_	_
-7	reforme	reforma	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	4	obl	_	_
-8	i	i	CCONJ	_	_	9	cc	_	_
-9	integraciju	integracija	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	conj	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 10 conj	color:blue
-1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
-2	Dobro	dobro	ADV	_	Degree=Pos	0	root	_	_
-3	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	2	cop	_	_
-4	da	da	SCONJ	_	_	6	mark	_	_
-5	se	sebe	PRON	_	Case=Acc|Number=Sing|Reflex=Yes	6	compound	_	_
-6	postigne	postignuti	VERB	_	Number=Sing|Person=3|Tense=Pres	2	csubj	_	_
-7	konsenzus	konsenzus	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	obj	_	_
-8	i	i	CCONJ	_	_	10	cc	_	_
-9	da	da	SCONJ	_	_	10	mark	_	_
-10	imamo	imati	VERB	_	Number=Plur|Person=1|Tense=Pres	6	conj	_	_
-11	jednog	jedan	NUM	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|NumType=Card	12	nummod	_	_
-12	kandidata	kandidat	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	10	obj	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 6 9 conj	color:blue
+1	Bakojanis	Bakojanis	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+2	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	6	aux	_	_
+3	u	u	ADP	_	Case=Acc	4	case	_	_
+4	petak	petak	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	obl	_	_
+5	ujutru	ujutru	ADV	_	Degree=Pos	6	advmod	_	_
+6	posetila	posetiti	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+7	ambasadu	ambasada	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	_
+8	i	i	CCONJ	_	_	9	cc	_	_
+9	osudila	osuditi	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	6	conj	_	_
+10	napad	napad	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obj	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 7 conj	color:blue
-1	U	u	ADP	_	Case=Loc	2	case	_	_
-2	martu	mart	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	2	punct	_	_
-4	u	u	ADP	_	Case=Loc	5	case	_	_
-5	Sarajevu	Sarajevo	PROPN	_	Case=Loc|Gender=Neut|Number=Sing	8	obl	_	_
-6	i	i	CCONJ	_	_	7	cc	_	_
-7	Bugojnu	Bugojno	PROPN	_	Case=Loc|Gender=Neut|Number=Sing	5	conj	_	_
-8	izvedena	izvesti	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
-9	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	8	aux	_	_
-10	šira	širok	ADJ	_	Case=Nom|Definite=Def|Degree=Cmp|Gender=Fem|Number=Sing	11	amod	_	_
-11	operacija	operacija	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	8	nsubj	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	8	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 conj	color:blue
+1	Otopljavanje	otopljavanje	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	odnosa	odnos	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	1	obl	_	_
+3	između	između	ADP	_	Case=Gen	4	case	_	_
+4	Hrvatske	Hrvatska	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	_
+5	i	i	CCONJ	_	_	6	cc	_	_
+6	Slovenije	Slovenija	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	4	conj	_	_
 
 ~~~
 

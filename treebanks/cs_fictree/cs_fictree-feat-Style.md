@@ -9,10 +9,10 @@ udver: '2'
 This feature is language-specific.
 It occurs with 2 different values: `Arch`, `Coll`.
 
-183 tokens (0%) have a non-empty value of `Style`.
-70 types (0%) occur at least once with a non-empty value of `Style`.
+185 tokens (0%) have a non-empty value of `Style`.
+71 types (0%) occur at least once with a non-empty value of `Style`.
 56 lemmas (0%) occur at least once with a non-empty value of `Style`.
-The feature is used with 8 part-of-speech tags: <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (51; 0% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (38; 0% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (26; 0% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (25; 0% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (19; 0% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (13; 0% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (5; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (51; 0% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (38; 0% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (26; 0% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (26; 0% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (19; 0% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> (5; 0% instances).
 
 ### `ADV`
 
@@ -58,14 +58,14 @@ The most frequent other feature values with which `ADJ` and `Style` co-occurred:
 
 ### `PRON`
 
-25 <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Style`.
+26 <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `PRON` and `Style` co-occurred: <tt><a href="cs_fictree-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (25; 100%), <tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (25; 100%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt> (24; 96%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (24; 96%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=3</tt> (21; 84%), <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (21; 84%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (18; 72%).
+The most frequent other feature values with which `PRON` and `Style` co-occurred: <tt><a href="cs_fictree-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (26; 100%), <tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (26; 100%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt> (25; 96%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (25; 96%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=3</tt> (22; 85%), <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (22; 85%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (18; 69%).
 
 `PRON` tokens may have the following values of `Style`:
 
-* `Arch` (17; 68% of non-empty `Style`): <em>jej</em>
-* `Coll` (8; 32% of non-empty `Style`): <em>jí, veškeru, jenž, samý</em>
+* `Arch` (17; 65% of non-empty `Style`): <em>jej</em>
+* `Coll` (9; 35% of non-empty `Style`): <em>jí, veškeru, jenž, samý</em>
 
 <table>
   <tr><th>Paradigm <i>on</i></th><th><tt>Arch</tt></th><th><tt>Coll</tt></th></tr>
@@ -86,13 +86,13 @@ The most frequent other feature values with which `VERB` and `Style` co-occurred
 
 ### `DET`
 
-13 <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Style`.
+14 <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Style`.
 
-The most frequent other feature values with which `DET` and `Style` co-occurred: <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (9; 69%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (9; 69%), <tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (9; 69%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9; 69%), <tt><a href="cs_fictree-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (9; 69%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt> (7; 54%).
+The most frequent other feature values with which `DET` and `Style` co-occurred: <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10; 71%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (9; 64%), <tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (9; 64%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (9; 64%), <tt><a href="cs_fictree-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (9; 64%), <tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Acc</tt> (8; 57%).
 
 `DET` tokens may have the following values of `Style`:
 
-* `Coll` (13; 100% of non-empty `Style`): <em>který, tvýho, žádnej, každý, které, mý, naše, takovýho, támhleten, tý</em>
+* `Coll` (14; 100% of non-empty `Style`): <em>který, tvýho, žádnej, každý, které, mý, naše, takovýho, támhleten, tý</em>
 
 ### `AUX`
 

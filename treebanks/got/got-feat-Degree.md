@@ -78,8 +78,8 @@ The most frequent other feature values with which `ADV` and `Degree` co-occurred
 * `EMPTY` (4986): <em>ni, þan, jah, auk, nu, unte, swe, swaswe, swa, aftra</em>
 
 <table>
-  <tr><th>Paradigm <i>fram</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>fram</em></td><td><em>framis</em></td></tr>
+  <tr><th>Paradigm <i>sniumundo</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>sniumundo</em></td><td><em>sniumundos</em></td></tr>
 </table>
 
 ## Relations with Agreement in `Degree`

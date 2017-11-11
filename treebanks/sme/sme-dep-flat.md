@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-38 nodes (0%) are attached to their parents as `flat`.
+129 nodes (0%) are attached to their parents as `flat`.
 
-38 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.13157894736842.
+129 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.03875968992248.
 
-The following 4 pairs of parts of speech are connected with `flat`: <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-PROPN.html">PROPN</a></tt> (33; 87% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-PROPN.html">PROPN</a></tt> (3; 8% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-NUM.html">NUM</a></tt> (1; 3% instances), <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (1; 3% instances).
+The following 5 pairs of parts of speech are connected with `flat`: <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-PROPN.html">PROPN</a></tt> (107; 83% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-PROPN.html">PROPN</a></tt> (12; 9% instances), <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (6; 5% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -55,21 +55,21 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 flat	color:blue
-1	Dearvvašvuođaásahusas	dearvvašvuođaásahus	NOUN	N	Case=Loc|Number=Sing	2	obl	_	_
-2	mearriduvvo	mearridit	VERB	V*	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
-3	divvun	divvun	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	_
-4	dahje	dahje	CCONJ	CC	_	3	cc	_	_
-5	sihkkun	sihkkun	NOUN	N	Case=Nom|Number=Sing	3	conj	_	_
-6	dearvvašvuođabargiidlága	dearvvašvuođabargiidláhka	NOUN	N	Case=Gen|Number=Sing	7	nmod:poss	_	_
-7	§	§	NOUN	N	_	5	obl	_	_
-8	44	44	NUM	Num	Case=Gen|Number=Sing|NumType=Card	7	flat	_	_
-9	mielde	mielde	ADP	Po	_	8	case	_	SpaceAfter=No
-10	.	.	PUNCT	CLB	_	2	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 flat	color:blue
+1	Eriksen	Eriksen	PROPN	N	Case=Nom|Number=Sing	4	nsubj	_	_
+2	lea	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	ge	ge	PART	Pcle	_	4	discourse	_	_
+4	soahpan	soahpat	VERB	V	Aspect=Perf|VerbForm=Part	0	root	_	_
+5	Anders	Anders	PROPN	N	_	8	nmod:poss	_	_
+6	M.	m	NOUN	N	_	5	flat	_	_
+7	Lango	Lango	PROPN	N	Case=Gen|Number=Sing	6	flat	_	_
+8	gehččui	geahčču	NOUN	N	Case=Ill|Number=Sing	4	obl	_	_
+9	bohccuid	boazu	NOUN	N	Case=Acc|Number=Plur	4	obj	_	SpaceAfter=No
+10	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
 

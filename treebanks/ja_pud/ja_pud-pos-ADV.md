@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Japanese-PUD: POS Tags: `ADV`
 
 There are 88 `ADV` lemmas (2%), 88 `ADV` types (2%) and 249 `ADV` tokens (1%).
-Out of 14 observed tags, the rank of `ADV` is: 6 in number of lemmas, 7 in number of types and 12 in number of tokens.
+Out of 15 observed tags, the rank of `ADV` is: 6 in number of lemmas, 7 in number of types and 12 in number of tokens.
 
 The 10 most frequent `ADV` lemmas: さらに, 最も, ほとんど, 初めて, 特に, まだ, 主に, 再び, 常に, 既に
 

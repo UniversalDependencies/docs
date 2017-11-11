@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-154 nodes (0%) are attached to their parents as `cc`.
+176 nodes (0%) are attached to their parents as `cc`.
 
-148 instances of `cc` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.64285714285714.
+168 instances of `cc` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.64204545454545.
 
-The following 5 pairs of parts of speech are connected with `cc`: <tt><a href="ko-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko-pos-CCONJ.html">CCONJ</a></tt> (124; 81% instances), <tt><a href="ko-pos-ADV.html">ADV</a></tt>-<tt><a href="ko-pos-CCONJ.html">CCONJ</a></tt> (17; 11% instances), <tt><a href="ko-pos-VERB.html">VERB</a></tt>-<tt><a href="ko-pos-CCONJ.html">CCONJ</a></tt> (11; 7% instances), <tt><a href="ko-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="ko-pos-NUM.html">NUM</a></tt>-<tt><a href="ko-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
+The following 5 pairs of parts of speech are connected with `cc`: <tt><a href="ko-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko-pos-CCONJ.html">CCONJ</a></tt> (139; 79% instances), <tt><a href="ko-pos-ADV.html">ADV</a></tt>-<tt><a href="ko-pos-CCONJ.html">CCONJ</a></tt> (22; 13% instances), <tt><a href="ko-pos-VERB.html">VERB</a></tt>-<tt><a href="ko-pos-CCONJ.html">CCONJ</a></tt> (13; 7% instances), <tt><a href="ko-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances), <tt><a href="ko-pos-NUM.html">NUM</a></tt>-<tt><a href="ko-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -38,27 +38,23 @@ The following 5 pairs of parts of speech are connected with `cc`: <tt><a href="k
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 cc	color:blue
-1	재정여력이	_	NOUN	NOUN	_	5	nsubj	_	_
-2	거의	_	ADV	ADV	_	5	advmod	_	_
-3	또는	_	CCONJ	CONJ	_	4	cc	_	_
-4	아예	_	ADV	ADV	_	2	conj	_	_
-5	없는	_	VERB	PREDREL	_	6	acl:relcl	_	_
-6	국가로는	_	ADV	ADV	_	15	advmod	_	_
-7	그리스	_	NOUN	PNOUN	_	15	nsubj:pass	_	SpaceAfter=No
-8	,	_	PUNCT	.	_	9	punct	_	_
-9	포르투갈	_	NOUN	PNOUN	_	7	conj	_	SpaceAfter=No
-10	,	_	PUNCT	.	_	11	punct	_	_
-11	이탈리아	_	NOUN	PNOUN	_	7	conj	_	SpaceAfter=No
-12	,	_	PUNCT	.	_	7	punct	_	_
-13	일본	_	NOUN	PNOUN	_	7	conj	_	_
-14	등이	_	NOUN	NOUN	_	13	dep	_	_
-15	거론됐다	_	VERB	VERB	_	0	root	_	SpaceAfter=No
-16	.	.	PUNCT	.	_	15	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 cc	color:blue
+1	또	_	ADV	ADV	_	11	advmod	_	_
+2	제주지법	_	NOUN	PNOUN	_	10	advmod	_	_
+3	민사과에	_	ADV	ADV	_	2	flat	_	_
+4	선거효력정지	_	NOUN	NOUN	_	7	advmod	_	_
+5	및	_	CCONJ	CONJ	_	6	cc	_	_
+6	직무집행정지에	_	ADV	ADV	_	4	conj	_	_
+7	대한	_	VERB	PREDREL	_	8	dep	_	_
+8	가처분	_	NOUN	NOUN	_	10	obj	_	_
+9	신청을	_	NOUN	NOUN	_	8	flat	_	_
+10	할	_	VERB	PREDREL	_	11	dep	_	_
+11	계획이다	_	VERB	NOMCOP	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	11	punct	_	_
 
 ~~~
 

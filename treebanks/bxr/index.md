@@ -12,7 +12,7 @@ udver: '2'
 # UD Buryat
 
 Language: [Buryat](../bxr/overview/bxr-hub.html) (code: `bxr`)<br/>
-Family: Mongolic
+Family: Altaic, Mongolic
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
@@ -27,19 +27,42 @@ Genre: grammar-examples, news, fiction
 Questions, comments?
 General annotation questions (either Buryat-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Buryat/issues).
-If you want to collaborate, please contact [ftyers&nbsp;(æt)&nbsp;prompsit&nbsp;•&nbsp;com].
+If you want to collaborate, please contact [ftyers&nbsp;(æt)&nbsp;prompsit&nbsp;•&nbsp;com, lenab23&nbsp;•&nbsp;02&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com].
+Development of the treebank happens outside the UD repository.
+If there are bugs, either the original data source or the conversion procedure must be fixed.
+Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
+| Lemmas | (unrecognized value: "manual") |
+| UPOS | (unrecognized value: "manual") |
 | XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Features | assigned by a program, not checked manually |
+| Relations | annotated manually, natively in UD style |
 
 ## Description
 
+The UD Buryat treebank was annotated manually natively in UD and contains grammar book sentences, along with
+news and some fiction.
+
+
+
+The treebank was annotated manually for part-of-speech, lemmas and dependency relations, and morphological
+features were added automatically using a finite-state transducer based on these.
+
 ## Acknowledgments
+
+If you use this treebank please cite:
+
+@inproceedings{badmaeva:2017,
+author = {Elena Badmaeva and Francis M. Tyers},
+title = {Dependency Treebank for Buryat},
+booktitle = {Proceedings of the 15th International Workshop on Treebanks and Linguistic Theories (TLT15)},
+pages = {1--12},
+year = 2017
+}
+
+
 # Statistics of UD Buryat
 
 ## POS Tags

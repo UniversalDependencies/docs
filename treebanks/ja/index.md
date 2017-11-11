@@ -12,11 +12,11 @@ udver: '2'
 # UD Japanese
 
 Language: [Japanese](../ja/overview/ja-hub.html) (code: `ja`)<br/>
-Family: Japonic
+Family: Japanese
 
 This treebank has been part of Universal Dependencies since the UD v1.4 release.
 
-The following people have contributed to making this treebank part of UD: Ryan McDonald, Joakim Nivre, Daniel Zeman, Masayuki Asahara, Hiroshi Kanayama, Yuji Matsumoto, Yusuke Miyao, Shunsuke Mori, Takaaki Tanaka, Sumire Uematsu.
+The following people have contributed to making this treebank part of UD: Hiroshi Kanayama, Masayuki Asahara, Yusuke Miyao, Takaaki Tanaka, Ryan McDonald, Joakim Nivre, Daniel Zeman, Yuji Matsumoto, Shinsuke Mori, Sumire Uematsu.
 
 Repository: [UD_Japanese](https://github.com/UniversalDependencies/UD_Japanese)
 
@@ -31,15 +31,55 @@ If you want to collaborate, please contact [hkana&nbsp;(æt)&nbsp;jp&nbsp;•&nb
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
-| XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Lemmas | assigned by a program, with some manual corrections, but not a full manual verification |
+| UPOS | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
+| XPOS | not available |
+| Features | not available |
+| Relations | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
 
 ## Description
 
+This Universal Dependencies (UD) Japanese treebank is based on the definition of UD Japanese convention described in the UD documentation. The original sentences are from Google UDT 2.0.
+
+
+
+
+The Japanese UD treebank contains the sentences from Google Universal Dependency Treebanks v2.0 (legacy): https://github.com/ryanmcd/uni-dep-tb. First, Google UDT v2.0 was converted to UD-style with bunsetsu-based word units (say "master" corpus).
+
+The word units in "master" is significantly different from the definition of the documents based on Short Word Unit (SWU) [1], then the sentences are automatically re-processed by Hiroshi Kanayama in Feb 2017. It is the Japanese_UD v2.0 and used in the CoNLL 2017 shared task.
+In November 2017, UD_Japanese v2.0 is merged with the "master" data so that the manual annotations for dependencies can be reflected to the corpus. It reduced the errors in the dependency structures and relation labels.
+
+Still there are slight differences in the word unit between UD_Japanese v2.1 and UD_Japanese-KTC 1.3. The manual segmentation work is ongoing by the group of Masayuki Asahara so that the divergence of the two Japanese treebanks should be fixed in the future.
+
+
+
 ## Acknowledgments
+
+The original treebank was provided by:
+
+- Adam LaMontagne
+- Milan Souček
+- Timo Järvinen
+- Alessandra Radici
+
+via
+
+- Dan Zeman.
+
+The corpus was converted by:
+
+- Hiroshi Kanayama
+
+through discussion and validation with
+
+- Yusuke Miyao
+- Masayuki Asahara
+- Takaaki Tanaka
+- Yuji Matsumoto
+- Shinsuke Mori
+- Sumire Uematsu
+
+
 # Statistics of UD Japanese
 
 ## POS Tags

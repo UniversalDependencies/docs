@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `xcomp`: <tt><a href="sme-dep-xcomp-obj.html">xcomp:obj</a></tt>, <tt><a href="sme-dep-xcomp-pred.html">xcomp:pred</a></tt>.
 
-60 nodes (1%) are attached to their parents as `xcomp`.
+170 nodes (1%) are attached to their parents as `xcomp`.
 
-56 instances of `xcomp` (93%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.68333333333333.
+159 instances of `xcomp` (94%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.05882352941176.
 
-The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (24; 40% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-ADJ.html">ADJ</a></tt> (19; 32% instances), <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (6; 10% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (5; 8% instances), <tt><a href="sme-pos-PRON.html">PRON</a></tt>-<tt><a href="sme-pos-ADJ.html">ADJ</a></tt> (3; 5% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-PROPN.html">PROPN</a></tt> (2; 3% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-NUM.html">NUM</a></tt> (1; 2% instances).
+The following 10 pairs of parts of speech are connected with `xcomp`: <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (78; 46% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-ADJ.html">ADJ</a></tt> (60; 35% instances), <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (12; 7% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (5; 3% instances), <tt><a href="sme-pos-PRON.html">PRON</a></tt>-<tt><a href="sme-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

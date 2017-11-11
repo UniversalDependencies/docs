@@ -32,7 +32,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
   <tr><td><tt><tt><a href="it_postwita-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>i, gli</em></td></tr>
   <tr><td><tt><tt><a href="it_postwita-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>la</em></td></tr>
   <tr><td><tt><tt><a href="it_postwita-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>le</em></td></tr>
-  <tr><td><tt><tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>kol</em></td><td><em>l', a, ll, Lle</em></td></tr>
+  <tr><td><tt><tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>kol</em></td><td><em>l', ll, a, Lle</em></td></tr>
 </table>
 
 ### `PRON`

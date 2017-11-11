@@ -19,7 +19,7 @@ The 10 most frequent ambiguous types:  daar (<tt><a href="af-pos-PRON.html">PRON
 
 
 * daar
-  * <tt><a href="af-pos-PRON.html">PRON</a></tt> 56: Ons wil hierdie werk , waarmee <b>daar</b> reeds begin is , vanjaar afhandel .
+  * <tt><a href="af-pos-PRON.html">PRON</a></tt> 56: Maar <b>daar</b> is ook geen twyfel dat <b>daar</b> nog baie uitdagings is nie .
   * <tt><a href="af-pos-ADV.html">ADV</a></tt> 2: Hierdie bepalings en voorwaardes vir gebruik stel die hele professionele of ander verhouding tussen die BCIS en die gebruiker van hierdie webwerf <b>daar</b> .
   * <tt><a href="af-pos-DET.html">DET</a></tt> 1: In daardie geval beveel ons aan dat jy dit na jou rekenaar aflaai en liewer van <b>daar</b> af oopmaak .
 * elke
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  daar (<tt><a href="af-pos-PRON.html">PRON
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.000000 (the average of all parts of speech is 1.120202).
+The form / lemma ratio of `PRON` is 1.000000 (the average of all parts of speech is 1.122045).
 
 The 1st highest number of forms (2) was observed with the lemma “elk”: elk, elke.
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="yue-dep-advcl.html">advcl</a></tt>.
 
-3 nodes (1%) are attached to their parents as `advcl:coverb`.
+5 nodes (1%) are attached to their parents as `advcl:coverb`.
 
-3 instances of `advcl:coverb` (100%) are right-to-left (child precedes parent).
+5 instances of `advcl:coverb` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.
 
-The following 1 pairs of parts of speech are connected with `advcl:coverb`: <tt><a href="yue-pos-VERB.html">VERB</a></tt>-<tt><a href="yue-pos-ADP.html">ADP</a></tt> (3; 100% instances).
+The following 1 pairs of parts of speech are connected with `advcl:coverb`: <tt><a href="yue-pos-VERB.html">VERB</a></tt>-<tt><a href="yue-pos-ADP.html">ADP</a></tt> (5; 100% instances).
 
 
 ~~~ conllu

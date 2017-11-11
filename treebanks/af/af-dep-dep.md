@@ -39,19 +39,25 @@ The following 136 pairs of parts of speech are connected with `dep`: <tt><a href
 
 
 ~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 7 dep	color:blue
-1	Hulle	hulle	PRON	PDMP	Case=Acc,Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	_
-2	is	is	AUX	VTHOK	Tense=Pres|VerbForm=Fin,Inf|VerbType=Cop	4	cop	_	_
-3	ook	ook	ADV	BS	Degree=Pos	2	advmod	_	_
-4	bekend	bekend	ADJ	ASP	AdjType=Pred|Case=Nom|Degree=Pos	0	root	_	_
-5	as	as	SCONJ	KO	_	4	amod	_	_
-6	organiese	organies	ADJ	ASA	AdjType=Attr|Case=Nom|Degree=Pos	7	amod	_	_
-7	misstowwe	misstof	NOUN	NSM	Number=Plur	5	dep	_	SpaceAfter=No
-8	.	.	PUNCT	ZE	_	2	punct	_	_
+# visual-style 7 11 dep	color:blue
+1	Maar	maar	CCONJ	KN	_	3	amod	_	_
+2	daar	daar	PRON	UXD	PronType=Ind	3	amod	_	_
+3	is	is	AUX	VTHOK	Tense=Pres|VerbForm=Fin,Inf|VerbType=Cop	6	cop	_	_
+4	ook	ook	ADV	BS	Degree=Pos	3	advmod	_	_
+5	geen	geen	NUM	THAB	_	6	nummod	_	_
+6	twyfel	twyfel	NOUN	NA	Number=Sing	0	root	_	_
+7	dat	dat	SCONJ	KO	_	6	amod	_	_
+8	daar	daar	PRON	UXD	PronType=Ind	12	amod	_	_
+9	nog	nog	ADV	BS	Degree=Pos	12	advmod	_	_
+10	baie	baie	DET	THAO	PronType=Ind	11	nummod	_	_
+11	uitdagings	uitdaging	NOUN	NSM	Number=Plur	7	dep	_	_
+12	is	is	AUX	VTHOK	Tense=Pres|VerbForm=Fin,Inf|VerbType=Cop	11	cop	_	_
+13	nie	nie	PART	UPO	PartType=Neg	12	advmod	_	SpaceAfter=No
+14	.	.	PUNCT	ZE	_	12	punct	_	_
 
 ~~~
 

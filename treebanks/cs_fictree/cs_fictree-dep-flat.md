@@ -26,14 +26,14 @@ The following 1 pairs of parts of speech are connected with `flat`: <tt><a href=
 2	jsem	být	AUX	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	_	_
 3	si	se	PRON	P7--3----------	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	1	expl:pv	_	_
 4	chudáka	chudák	NOUN	NNMS4-----A----	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	5	nmod	_	_
-5	Meiera	Meier	PROPN	NNMS4-----A----	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	1	obj	_	_
+5	Meiera	Meier	PROPN	NNMS4-----A----	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	1	obj	_	SpaceAfter=No
 6	,	,	PUNCT	Z:-------------	_	9	punct	_	_
-7	"	"	PUNCT	Z:-------------	_	9	punct	_	_
+7	"	"	PUNCT	Z:-------------	_	9	punct	_	SpaceAfter=No
 8	nějakého	nějaký	DET	PZMS4----------	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	9	det	_	_
-9	Meiera	Meier	PROPN	NNMS4-----A----	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	5	flat	_	_
-10	"	"	PUNCT	Z:-------------	_	9	punct	_	_
+9	Meiera	Meier	PROPN	NNMS4-----A----	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	5	flat	_	SpaceAfter=No
+10	"	"	PUNCT	Z:-------------	_	9	punct	_	SpaceAfter=No
 11	,	,	PUNCT	Z:-------------	_	9	punct	_	_
-12	nemocného	nemocný	NOUN	NNMS4-----A----	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	5	appos	_	_
+12	nemocného	nemocný	NOUN	NNMS4-----A----	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	5	appos	_	SpaceAfter=No
 13	,	,	PUNCT	Z:-------------	_	15	punct	_	_
 14	který	který	DET	P4MS1----------	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|PronType=Int,Rel	15	nsubj	_	_
 15	dostane	dostat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	12	acl	_	_
@@ -45,8 +45,8 @@ The following 1 pairs of parts of speech are connected with `flat`: <tt><a href=
 21	o	o	ADP	RR--6----------	AdpType=Prep|Case=Loc	24	case	_	_
 22	svých	svůj	DET	P8IP6----------	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	24	det	_	_
 23	čtrnácti	čtrnáct	NUM	Cn-P6----------	Case=Loc|Number=Plur|NumForm=Word|NumType=Card	24	nummod	_	_
-24	dnech	den	NOUN	NNIP6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos	19	obl:arg	_	_
-25	.	.	PUNCT	Z:-------------	_	1	punct	_	_
+24	dnech	den	NOUN	NNIP6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos	19	obl:arg	_	SpaceAfter=No
+25	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
 
 ~~~
 

@@ -24,14 +24,14 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 3 9 csubj:pass	color:blue
 1	Zřejmě	zřejmě	PART	TT-------------	_	3	advmod	_	_
 2	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	3	expl:pass	_	_
-3	předpokládalo	předpokládat	VERB	VpNS----R-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+3	předpokládalo	předpokládat	VERB	VpNS----R-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	Z:-------------	_	9	punct	_	_
 5	že	že	SCONJ	J,-------------	_	9	mark	_	_
 6	hudbu	hudba	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	9	obj	_	_
 7	si	se	PRON	P7--3----------	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	9	expl:pv	_	_
 8	obecenstvo	obecenstvo	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	9	nsubj	_	_
-9	domyslí	domyslet	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	csubj:pass	_	_
-10	.	.	PUNCT	Z:-------------	_	3	punct	_	_
+9	domyslí	domyslet	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	csubj:pass	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	3	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -42,11 +42,11 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 10 csubj:pass	color:blue
-1	"	"	PUNCT	Z:-------------	_	5	punct	_	_
+1	"	"	PUNCT	Z:-------------	_	5	punct	_	SpaceAfter=No
 2	Tomu	ten	DET	PDMS3----------	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|PronType=Dem	5	obj	_	_
 3	druhému	druhý	ADJ	CrMS3----------	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|NumType=Ord	2	amod	_	_
 4	bylo	být	AUX	VpNS----R-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	aux:pass	_	_
-5	souzeno	souzený	ADJ	VsNS------AP---	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	_
+5	souzeno	souzený	ADJ	VsNS------AP---	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	Z:-------------	_	10	punct	_	_
 7	že	že	SCONJ	J,-------------	_	10	mark	_	_
 8	ten	ten	DET	PDIS4----------	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	_
@@ -55,8 +55,8 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 11	peněženku	peněženka	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	10	obj	_	_
 12	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	14	case	_	_
 13	tisíci	tisíc	NOUN	NNIP7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos	14	nmod	_	_
-14	dináry	dinár	NOUN	NNIP7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos	11	nmod	_	_
-15	.	.	PUNCT	Z:-------------	_	5	punct	_	_
+14	dináry	dinár	NOUN	NNIP7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos	11	nmod	_	SpaceAfter=No
+15	.	.	PUNCT	Z:-------------	_	5	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -71,7 +71,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 2	ve	v	ADP	RV--6----------	AdpType=Voc|Case=Loc	3	case	_	_
 3	vesnici	vesnice	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	5	obl	_	_
 4	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	5	expl:pass	_	_
-5	říká	říkat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	říká	říkat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	Z:-------------	_	13	punct	_	_
 7	že	že	SCONJ	J,-------------	_	13	mark	_	_
 8	některé	některý	DET	PZIP1----------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	10	det	_	_
@@ -85,9 +85,9 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 16	je	on	PRON	PPIP4--3-------	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	obj	_	_
 17	zkoušejí	zkoušet	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	13	conj	_	_
 18	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	19	case	_	_
-19	dobrovolnících	dobrovolník	NOUN	NNMP6-----A----	Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos	17	obl	_	_
-20	.	.	PUNCT	Z:-------------	_	5	punct	_	_
-21	"	"	PUNCT	Z:-------------	_	5	punct	_	_
+19	dobrovolnících	dobrovolník	NOUN	NNMP6-----A----	Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos	17	obl	_	SpaceAfter=No
+20	.	.	PUNCT	Z:-------------	_	5	punct	_	SpaceAfter=No
+21	"	"	PUNCT	Z:-------------	_	5	punct	_	SpaceAfter=No
 
 ~~~
 

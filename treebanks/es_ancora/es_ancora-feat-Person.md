@@ -96,7 +96,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 <table>
   <tr><th>Paradigm <i>él</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
   <tr><td><tt>_</tt></td><td></td><td><em>se</em></td></tr>
-  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>lo, Les, le</em></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>lo, le, Les</em></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>los, les</em></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>la</em></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>las</em></td></tr>
@@ -111,7 +111,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
   <tr><td><tt><tt><a href="es_ancora-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ellas, les</em></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>me</em></td><td></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>ello</em></td></tr>
-  <tr><td><tt><tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>se, Les</em></td></tr>
+  <tr><td><tt><tt><a href="es_ancora-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>Les, se</em></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt>|<tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>sí, consigo</em></td></tr>
   <tr><td><tt><tt><a href="es_ancora-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>se</em></td></tr>
 </table>

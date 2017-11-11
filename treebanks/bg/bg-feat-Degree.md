@@ -29,7 +29,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 <table>
   <tr><th>Paradigm <i>голям</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
-  <tr><td><tt><tt><a href="bg-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="bg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="bg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>големият, големия</em></td><td><em>по-големия</em></td><td><em>най-големия, най-големият</em></td></tr>
+  <tr><td><tt><tt><a href="bg-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="bg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="bg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>големият, големия</em></td><td><em>по-големия</em></td><td><em>най-големият, най-големия</em></td></tr>
   <tr><td><tt><tt><a href="bg-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="bg-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="bg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>голямата</em></td><td><em>по-голямата</em></td><td><em>най-голямата</em></td></tr>
   <tr><td><tt><tt><a href="bg-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="bg-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="bg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>по-голямото</em></td><td><em>най-голямото</em></td></tr>
   <tr><td><tt><tt><a href="bg-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="bg-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>големите</em></td><td><em>по-големите</em></td><td><em>най-големите</em></td></tr>

@@ -12,7 +12,7 @@ udver: '2'
 # UD Marathi
 
 Language: [Marathi](../mr/overview/mr-hub.html) (code: `mr`)<br/>
-Family: Indo-European, Indo-Iranian
+Family: Indo-European, Indic
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
@@ -49,6 +49,7 @@ UD Marathi is a manually annotated treebank consisting primarily of stories from
 ## Acknowledgments
 
 The treebank has been manually annotated by Vinit Ravishankar. We thank Dan Zeman, Francis Tyers, Memduh Gökırmak and everyone actively helping with issues on Github for their input.
+
 
 # Statistics of UD Marathi
 

@@ -22,19 +22,37 @@ The following 12 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
 # visual-style 9 8 amod	color:blue
-1	Řekl	říci	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-2	bych	být	AUX	Vc-S---1-------	Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin	1	aux	_	_
-3	skoro	skoro	ADV	Db-------------	_	1	advmod	_	_
-4	,	,	PUNCT	Z:-------------	_	7	punct	_	_
-5	že	že	SCONJ	J,-------------	_	7	mark	_	_
-6	děti	dítě	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	7	nsubj	_	_
-7	mají	mít	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
-8	jiná	jiný	ADJ	AANP4----1A----	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur|Polarity=Pos	9	amod	_	_
-9	ústa	ústa	NOUN	NNNP4-----A----	Case=Acc|Gender=Neut|Number=Plur|Polarity=Pos	7	obj	_	_
-10	než	než	SCONJ	J,-------------	_	12	mark	_	_
-11	velcí	velký	ADJ	AAMP1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	12	amod	_	_
-12	lidé	člověk	NOUN	NNMP1-----A---1	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	8	advcl	_	_
-13	.	.	PUNCT	Z:-------------	_	1	punct	_	_
+1	Tím	ten	DET	PDIS7----------	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
+2	smíchem	smích	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	4	obl	_	_
+3	ale	ale	CCONJ	J^-------------	_	4	cc	_	_
+4	dodávala	dodávat	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+5	každému	každý	DET	PLIS3----1A----	Animacy=Inan|Case=Dat|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|PronType=Tot	6	det	_	_
+6	jevu	jev	NOUN	NNIS3-----A----	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	4	iobj	_	_
+7	nějaký	nějaký	DET	PZIS4----------	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	9	det	_	_
+8	snesitelnější	snesitelný	ADJ	AAIS4----2A----	Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing|Polarity=Pos	9	amod	_	_
+9	smysl	smysl	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	4	obj	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 amod	color:blue
+1	Chci	chtít	VERB	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	hovořit	hovořit	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	1	xcomp	_	_
+3	o	o	ADP	RR--6----------	AdpType=Prep|Case=Loc	4	case	_	_
+4	něčem	něco	PRON	PZ--6----------	Case=Loc|PronType=Ind	2	obl:arg	_	_
+5	jiném	jiný	ADJ	AANS6----1A----	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	4	amod	_	SpaceAfter=No
+6	,	,	PUNCT	Z:-------------	_	10	punct	_	_
+7	a	a	CCONJ	J^-------------	_	8	cc	_	_
+8	to	to	PART	TT-------------	_	10	cc	_	_
+9	o	o	ADP	RR--6----------	AdpType=Prep|Case=Loc	10	case	_	_
+10	symbolu	symbol	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	4	appos	_	SpaceAfter=No
+11	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -42,28 +60,13 @@ The following 12 pairs of parts of speech are connected with `amod`: <tt><a href
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 amod	color:blue
-1	Nic	nic	PRON	PW--1----------	Case=Nom|PronType=Neg	6	nsubj	_	_
-2	jiného	jiný	ADJ	AANS2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	1	amod	_	_
-3	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	5	case	_	_
-4	tom	ten	DET	PDIS6----------	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
-5	dopise	dopis	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	6	obl	_	_
-6	nebylo	být	VERB	VpNS----R-NA---	Gender=Neut|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-7	.	.	PUNCT	Z:-------------	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 amod	color:blue
-1	Milí	milý	ADJ	AAMS5----1A---7	Animacy=Anim|Case=Voc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos|Style=Coll	2	amod	_	_
-2	Ježíšku	Ježíšek	PROPN	NNMS5-----A----	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 amod	color:blue
+1	Mont	Mont	PROPN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	3	nmod	_	_
+2	Saint	Saint	ADJ	AAMS1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	3	amod	_	_
+3	Michel	Michel	PROPN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	Z:-------------	_	3	punct	_	SpaceAfter=No
 
 ~~~
 

@@ -40,6 +40,7 @@ If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æ
 ## Description
 
 ## Acknowledgments
+
 # Statistics of UD Hebrew
 
 ## POS Tags

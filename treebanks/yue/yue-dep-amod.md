@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3 nodes (1%) are attached to their parents as `amod`.
+4 nodes (1%) are attached to their parents as `amod`.
 
-3 instances of `amod` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.66666666666667.
+4 instances of `amod` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.75.
 
-The following 2 pairs of parts of speech are connected with `amod`: <tt><a href="yue-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue-pos-ADJ.html">ADJ</a></tt> (2; 67% instances), <tt><a href="yue-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue-pos-NOUN.html">NOUN</a></tt> (1; 33% instances).
+The following 2 pairs of parts of speech are connected with `amod`: <tt><a href="yue-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue-pos-ADJ.html">ADJ</a></tt> (3; 75% instances), <tt><a href="yue-pos-PROPN.html">PROPN</a></tt>-<tt><a href="yue-pos-NOUN.html">NOUN</a></tt> (1; 25% instances).
 
 
 ~~~ conllu
@@ -55,7 +55,7 @@ The following 2 pairs of parts of speech are connected with `amod`: <tt><a href=
 8	新	_	ADJ	_	_	10	amod	_	SpaceAfter=No
 9	一	_	NUM	_	_	10	nummod	_	SpaceAfter=No
 10	集	_	NOUN	_	_	12	amod	_	SpaceAfter=No
-11	嘅	_	PART	_	_	10	case	_	SpaceAfter=No
+11	嘅	_	PART	_	_	10	mark:rel	_	SpaceAfter=No
 12	龍珠	_	PROPN	_	_	7	obj	_	SpaceAfter=No
 13	呀	_	PART	_	_	7	discourse:sp	_	SpaceAfter=No
 14	？	_	PUNCT	_	_	7	punct	_	SpaceAfter=No

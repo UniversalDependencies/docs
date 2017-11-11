@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3 nodes (1%) are attached to their parents as `dislocated`.
+8 nodes (1%) are attached to their parents as `dislocated`.
 
-3 instances of `dislocated` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.33333333333333.
+7 instances of `dislocated` (88%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.75.
 
-The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a href="yue-pos-VERB.html">VERB</a></tt>-<tt><a href="yue-pos-PRON.html">PRON</a></tt> (2; 67% instances), <tt><a href="yue-pos-VERB.html">VERB</a></tt>-<tt><a href="yue-pos-NOUN.html">NOUN</a></tt> (1; 33% instances).
+The following 5 pairs of parts of speech are connected with `dislocated`: <tt><a href="yue-pos-VERB.html">VERB</a></tt>-<tt><a href="yue-pos-PRON.html">PRON</a></tt> (3; 38% instances), <tt><a href="yue-pos-VERB.html">VERB</a></tt>-<tt><a href="yue-pos-NOUN.html">NOUN</a></tt> (2; 25% instances), <tt><a href="yue-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue-pos-PRON.html">PRON</a></tt> (1; 13% instances), <tt><a href="yue-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue-pos-VERB.html">VERB</a></tt> (1; 13% instances), <tt><a href="yue-pos-VERB.html">VERB</a></tt>-<tt><a href="yue-pos-VERB.html">VERB</a></tt> (1; 13% instances).
 
 
 ~~~ conllu
@@ -48,6 +48,22 @@ The following 2 pairs of parts of speech are connected with `dislocated`: <tt><a
 5	咗	_	AUX	_	_	4	aux	_	SpaceAfter=No
 6	嘞	_	PART	_	_	4	discourse:sp	_	SpaceAfter=No
 7	。	_	PUNCT	_	_	4	punct	_	SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 dislocated	color:blue
+1	我	_	PRON	_	_	4	dislocated	_	SpaceAfter=No
+2	默書	_	VERB	_	_	4	dislocated	_	SpaceAfter=No
+3	一百	_	NUM	_	_	4	nummod	_	SpaceAfter=No
+4	分	_	NOUN	_	_	0	root	_	SpaceAfter=No
+5	呀	_	PART	_	_	4	discourse:sp	_	SpaceAfter=No
+6	。	_	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 ~~~
 

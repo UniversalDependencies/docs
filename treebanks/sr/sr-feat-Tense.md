@@ -30,7 +30,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 <table>
   <tr><th>Paradigm <i>biti</i></th><th><tt>Pres</tt></th><th><tt>Fut</tt></th><th><tt>Past</tt></th></tr>
   <tr><td><tt><tt><a href="sr-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sr-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>sam, nisam, jesam</em></td><td></td><td><em>bih</em></td></tr>
-  <tr><td><tt><tt><a href="sr-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sr-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>je, nije, bude, jeste, biće, su, za</em></td><td><em>biće</em></td><td><em>bi</em></td></tr>
+  <tr><td><tt><tt><a href="sr-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="sr-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>je, nije, bude, jeste, biće, za, su</em></td><td><em>biće</em></td><td><em>bi</em></td></tr>
   <tr><td><tt><tt><a href="sr-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sr-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>smo, nismo, budemo</em></td><td><em>Bićemo</em></td><td><em>bismo</em></td></tr>
   <tr><td><tt><tt><a href="sr-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sr-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>ste, jeste</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="sr-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="sr-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>su, nisu, budu, Nišu</em></td><td><em>biće</em></td><td><em>bi</em></td></tr>

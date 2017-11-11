@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-522 nodes (5%) are attached to their parents as `amod`.
+1203 nodes (4%) are attached to their parents as `amod`.
 
-515 instances of `amod` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.18773946360153.
+1193 instances of `amod` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.13466334164589.
 
-The following 11 pairs of parts of speech are connected with `amod`: <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-ADJ.html">ADJ</a></tt> (361; 69% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-PRON.html">PRON</a></tt> (123; 24% instances), <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-PRON.html">PRON</a></tt> (10; 2% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-NUM.html">NUM</a></tt> (9; 2% instances), <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-ADJ.html">ADJ</a></tt> (8; 2% instances), <tt><a href="sme-pos-NUM.html">NUM</a></tt>-<tt><a href="sme-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="sme-pos-PRON.html">PRON</a></tt>-<tt><a href="sme-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="sme-pos-NUM.html">NUM</a></tt>-<tt><a href="sme-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `amod`: <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-ADJ.html">ADJ</a></tt> (833; 69% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-PRON.html">PRON</a></tt> (265; 22% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-NUM.html">NUM</a></tt> (32; 3% instances), <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-ADJ.html">ADJ</a></tt> (27; 2% instances), <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-PRON.html">PRON</a></tt> (13; 1% instances), <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-ADJ.html">ADJ</a></tt> (13; 1% instances), <tt><a href="sme-pos-NUM.html">NUM</a></tt>-<tt><a href="sme-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="sme-pos-NUM.html">NUM</a></tt>-<tt><a href="sme-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="sme-pos-NUM.html">NUM</a></tt>-<tt><a href="sme-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="sme-pos-PRON.html">PRON</a></tt>-<tt><a href="sme-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="sme-pos-ADV.html">ADV</a></tt>-<tt><a href="sme-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -56,12 +56,13 @@ The following 11 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 amod	color:blue
-1	Makkár	makkár	PRON	Pron	PronType=Int	2	amod	_	_
-2	lágán	lágan	ADJ	A	_	3	amod	_	_
-3	diŋggaid	diŋga	NOUN	N	Case=Acc|Number=Plur	5	obj	_	_
-4	lávet	lávet	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	_
-5	gávdnat	gávdnat	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
-6	?	?	PUNCT	CLB	_	5	punct	_	_
+1	Guovtti	guokte	NUM	Num	Case=Loc|Number=Sing|NumType=Card	2	amod	_	_
+2	diimmus	diibmu	NOUN	N	Case=Loc|Number=Sing	4	obl	_	_
+3	ii	ii	VERB	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	4	aux:neg	_	_
+4	ollen	ollet	VERB	V	Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+5	báljo	báljo	ADV	Adv	_	4	advmod	_	_
+6	maidege	mihkkege	PRON	Pron	Case=Acc|Number=Sing|PronType=Ind	4	obj	_	SpaceAfter=No
+7	.	.	PUNCT	CLB	_	4	punct	_	_
 
 ~~~
 

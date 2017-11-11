@@ -17,57 +17,61 @@ The following 28 pairs of parts of speech are connected with `advmod:emph`: <tt>
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 advmod:emph	color:blue
+1	I	i	PART	TT-------------	_	3	advmod:emph	_	_
+2	za	za	ADP	RR--4----------	AdpType=Prep|Case=Acc	3	case	_	_
+3	rok	rok	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	Z:-------------	_	3	punct	_	SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 advmod:emph	color:blue
+1	Vím	vědět	VERB	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	jen	jen	PART	TT-------------	_	1	advmod:emph	_	SpaceAfter=No
+3	,	,	PUNCT	Z:-------------	_	13	punct	_	_
+4	že	že	SCONJ	J,-------------	_	13	mark	_	_
+5	jsem	být	AUX	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	13	aux	_	_
+6	jí	on	PRON	PPFS3--3-------	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obl	_	_
+7	já	já	PRON	PP-S1--1-------	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	Z:-------------	_	11	punct	_	_
+9	malá	malý	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	11	amod	_	_
+10	hloupá	hloupý	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	11	amod	_	_
+11	holka	holka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	7	appos	_	SpaceAfter=No
+12	,	,	PUNCT	Z:-------------	_	11	punct	_	_
+13	zachránila	zachránit	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	ccomp	_	_
+14	život	život	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	13	obj	_	SpaceAfter=No
+15	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+16	"	"	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 advmod:emph	color:blue
-1	Tohle	tenhle	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	nsubj	_	_
-2	byla	být	AUX	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	4	cop	_	_
+1	Plody	plod	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	2	obj	_	_
+2	má	mít	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	jen	jen	PART	TT-------------	_	4	advmod:emph	_	_
-4	chvíle	chvíle	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
-5	.	.	PUNCT	Z:-------------	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 advmod:emph	color:blue
-1	A	a	CCONJ	J^-------------	_	5	cc	_	_
-2	už	už	ADV	Db-------------	_	5	advmod	_	_
-3	jsem	být	AUX	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
-4	jen	jen	PART	TT-------------	_	5	advmod:emph	_	_
-5	čekal	čekat	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-6	a	a	CCONJ	J^-------------	_	7	cc	_	_
-7	díval	dívat	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	conj	_	_
-8	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	7	expl:pv	_	_
-9	.	.	PUNCT	Z:-------------	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 advmod:emph	color:blue
-1	A	a	CCONJ	J^-------------	_	11	cc	_	_
-2	pak	pak	ADV	Db-------------	_	11	advmod	_	_
-3	,	,	PUNCT	Z:-------------	_	6	punct	_	_
-4	když	když	SCONJ	J,-------------	_	6	mark	_	_
-5	vítr	vítr	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	6	nsubj	_	_
-6	zašelestil	zašelestit	VERB	VpIS----R-AA---	Animacy=Inan|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	11	advcl	_	_
-7	zvlášť	zvlášť	PART	TT-------------	_	8	advmod:emph	_	_
-8	strašidelně	strašidelně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	6	advmod	_	_
-9	,	,	PUNCT	Z:-------------	_	6	punct	_	_
-10	syn	syn	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	11	nsubj	_	_
-11	promluvil	promluvit	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-12	.	.	PUNCT	Z:-------------	_	11	punct	_	_
+4	jednou	jednou	ADV	Cv-------------	NumType=Mult	2	obl	_	_
+5	za	za	ADP	RR--4----------	AdpType=Prep|Case=Acc	9	case	_	_
+6	čtyři	čtyři	NUM	ClNP4----------	Case=Acc|Gender=Neut|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3	9	nummod:gov	_	_
+7	až	až	CCONJ	J^-------------	_	8	cc	_	_
+8	šest	šest	NUM	Cn-S4----------	Case=Acc|Number=Sing|NumForm=Word|NumType=Card	6	conj	_	_
+9	let	rok	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	4	obl	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	2	punct	_	SpaceAfter=No
 
 ~~~
 

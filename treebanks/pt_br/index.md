@@ -12,7 +12,7 @@ udver: '2'
 # UD Portuguese BR
 
 Language: [Portuguese](../pt/overview/pt-hub.html) (code: `pt`)<br/>
-Family: Indo-European, Italic
+Family: Indo-European, Romance
 
 This treebank has been part of Universal Dependencies since the UD v1.3 release.
 
@@ -40,6 +40,7 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
 ## Description
 
 ## Acknowledgments
+
 # Statistics of UD Portuguese BR
 
 ## POS Tags

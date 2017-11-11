@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `expl`: <tt><a href="it-dep-expl-impers.html">expl:impers</a></tt>, <tt><a href="it-dep-expl-pass.html">expl:pass</a></tt>.
 
-2075 nodes (1%) are attached to their parents as `expl`.
+2149 nodes (1%) are attached to their parents as `expl`.
 
-1666 instances of `expl` (80%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.22650602409639.
+1726 instances of `expl` (80%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.22475570032573.
 
-The following 7 pairs of parts of speech are connected with `expl`: <tt><a href="it-pos-VERB.html">VERB</a></tt>-<tt><a href="it-pos-PRON.html">PRON</a></tt> (2061; 99% instances), <tt><a href="it-pos-ADV.html">ADV</a></tt>-<tt><a href="it-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="it-pos-AUX.html">AUX</a></tt>-<tt><a href="it-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="it-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it-pos-PRON.html">PRON</a></tt>-<tt><a href="it-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it-pos-VERB.html">VERB</a></tt>-<tt><a href="it-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `expl`: <tt><a href="it-pos-VERB.html">VERB</a></tt>-<tt><a href="it-pos-PRON.html">PRON</a></tt> (2134; 99% instances), <tt><a href="it-pos-ADV.html">ADV</a></tt>-<tt><a href="it-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="it-pos-AUX.html">AUX</a></tt>-<tt><a href="it-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="it-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it-pos-PRON.html">PRON</a></tt>-<tt><a href="it-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it-pos-VERB.html">VERB</a></tt>-<tt><a href="it-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

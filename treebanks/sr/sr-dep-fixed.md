@@ -62,22 +62,17 @@ The following 27 pairs of parts of speech are connected with `fixed`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 3 fixed	color:blue
-1	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
-2	Da	da	SCONJ	_	_	4	mark	_	_
-3	li	li	PART	_	_	2	fixed	_	_
-4	želite	želeti	VERB	_	Number=Plur|Person=2|Tense=Pres	0	root	_	_
-5	da	da	SCONJ	_	_	8	mark	_	_
-6	se	sebe	PRON	_	Case=Acc|Number=Sing|Reflex=Yes	8	compound	_	_
-7	zakon	zakon	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
-8	poštuje	poštovati	VERB	_	Number=Sing|Person=3|Tense=Pres	4	ccomp	_	_
-9	ili	ili	CCONJ	_	_	4	cc	_	_
-10	ne	ne	PART	_	_	4	orphan	_	SpaceAfter=No
-11	?	?	PUNCT	_	_	4	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 fixed	color:blue
+1	Da	da	SCONJ	_	_	4	mark	_	_
+2	li	li	PART	_	_	1	fixed	_	_
+3	Turska	Turska	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+4	može	moći	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
+5	sama	sam	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	4	xcomp	_	SpaceAfter=No
+6	?	?	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

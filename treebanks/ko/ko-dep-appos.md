@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-165 nodes (0%) are attached to their parents as `appos`.
+197 nodes (0%) are attached to their parents as `appos`.
 
-164 instances of `appos` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.52727272727273.
+194 instances of `appos` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.39086294416244.
 
-The following 9 pairs of parts of speech are connected with `appos`: <tt><a href="ko-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (127; 77% instances), <tt><a href="ko-pos-ADV.html">ADV</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (15; 9% instances), <tt><a href="ko-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko-pos-VERB.html">VERB</a></tt> (7; 4% instances), <tt><a href="ko-pos-VERB.html">VERB</a></tt>-<tt><a href="ko-pos-VERB.html">VERB</a></tt> (6; 4% instances), <tt><a href="ko-pos-VERB.html">VERB</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (5; 3% instances), <tt><a href="ko-pos-ADV.html">ADV</a></tt>-<tt><a href="ko-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="ko-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="ko-pos-NUM.html">NUM</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ko-pos-PRON.html">PRON</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 10 pairs of parts of speech are connected with `appos`: <tt><a href="ko-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (151; 77% instances), <tt><a href="ko-pos-ADV.html">ADV</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (19; 10% instances), <tt><a href="ko-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko-pos-VERB.html">VERB</a></tt> (8; 4% instances), <tt><a href="ko-pos-VERB.html">VERB</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (6; 3% instances), <tt><a href="ko-pos-VERB.html">VERB</a></tt>-<tt><a href="ko-pos-VERB.html">VERB</a></tt> (6; 3% instances), <tt><a href="ko-pos-ADV.html">ADV</a></tt>-<tt><a href="ko-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="ko-pos-ADV.html">ADV</a></tt>-<tt><a href="ko-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="ko-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="ko-pos-NUM.html">NUM</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ko-pos-PRON.html">PRON</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu

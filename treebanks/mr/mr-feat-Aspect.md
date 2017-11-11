@@ -41,7 +41,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
   <tr><td><tt><tt><a href="mr-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="mr-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="mr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="mr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td>करतात</td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="mr-feat-VerbForm.html">VerbForm</a></tt><tt>=Conv</tt></tt></td><td></td><td>करून</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="mr-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td></td><td></td><td>करणार</td></tr>
-  <tr><td><tt><tt><a href="mr-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td>करत, करीत</td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="mr-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td>करीत, करत</td><td></td><td></td><td></td></tr>
 </table>
 
 ### `AUX`

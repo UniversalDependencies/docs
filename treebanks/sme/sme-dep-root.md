@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-865 nodes (9%) are attached to their parents as `root`.
+3122 nodes (12%) are attached to their parents as `root`.
 
-865 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.78728323699422.
+3122 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.31710442024343.
 
-The following 6 pairs of parts of speech are connected with `root`: -<tt><a href="sme-pos-VERB.html">VERB</a></tt> (736; 85% instances), -<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (69; 8% instances), -<tt><a href="sme-pos-ADJ.html">ADJ</a></tt> (49; 6% instances), -<tt><a href="sme-pos-PRON.html">PRON</a></tt> (7; 1% instances), -<tt><a href="sme-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), -<tt><a href="sme-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `root`: -<tt><a href="sme-pos-VERB.html">VERB</a></tt> (2603; 83% instances), -<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (249; 8% instances), -<tt><a href="sme-pos-ADJ.html">ADJ</a></tt> (231; 7% instances), -<tt><a href="sme-pos-PRON.html">PRON</a></tt> (20; 1% instances), -<tt><a href="sme-pos-PROPN.html">PROPN</a></tt> (15; 0% instances), -<tt><a href="sme-pos-NUM.html">NUM</a></tt> (4; 0% instances).
 
 
 ~~~ conllu

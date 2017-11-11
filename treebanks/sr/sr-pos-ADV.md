@@ -19,22 +19,22 @@ The 10 most frequent ambiguous types:  <em>takođe</em> (<tt><a href="sr-pos-ADV
 
 
 * <em>takođe</em>
-  * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 134: <em>Analitičari su <b>takođe</b> različito reagovali na dogovore .</em>
+  * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 134: <em>Strane investicije se <b>takođe</b> smanjuju .</em>
   * <tt><a href="sr-pos-PRON.html">PRON</a></tt> 1: <em>Džavdžav <b>takođe</b> tvrdi da su dva igrača Gendžlerbirligija bila umešana u nameštanje utakmica tokom sezone ' 85 - ' 86.</em>
 * <em>više</em>
-  * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 101: <em>Međutim , on mora da premosti <b>više</b> izazova da bi uradio to .</em>
+  * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 101: <em>" Ona voli blato <b>više</b> nego sam život "</em>
   * <tt><a href="sr-pos-ADJ.html">ADJ</a></tt> 2: <em>Stalni predstavnik MMF-a u Beogradu Harald Hiršhofer takođe ukazuje da vlada treba da obrati <b>više</b> pažnje na monopole u prehrambenoj industriji .</em>
 * <em>samo</em>
-  * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 83: <em>" Lideri moraju da vode , a ne <b>samo</b> da prate svoje pristalice . "</em>
+  * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 83: <em>Pričinjena šteta <b>samo</b> na infrastrukturi iznosi oko 175 miliona evra .</em>
   * <tt><a href="sr-pos-ADJ.html">ADJ</a></tt> 1: <em>" Biće potrebno mnogo godina pre nego što se smanjena količina otpada u rekama odrazi na <b>samo</b> more . "</em>
 * <em>sada</em>
-  * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 69: <em>" Prljavi predizborni napadi dostigli su do <b>sada</b> nezabeleženi nivo .</em>
+  * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 69: <em>Lekari i nastavnici <b>sada</b> dobijaju oko 400 evra mesečno .</em>
   * <tt><a href="sr-pos-PROPN.html">PROPN</a></tt> 1: <em>Uprkos ratu rečima oko planirane komemoracije , gradonačelnica Novog <b>sada</b> Maja Gojković , inače članica Srpske radikalne stranke , pojavila se na Petrovaradinu prvog dana festivala i nasmejana se fotografisala sa posetiocima .</em>
 * <em>oko</em>
-  * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 56: <em>" Postoji <b>oko</b> 375 narko-kartela koji snabdevaju Evropu i Rusiju .</em>
-  * <tt><a href="sr-pos-ADP.html">ADP</a></tt> 47: <em>SETimes : Kakav je stav poslovne zajednice na Kosovu <b>oko</b> tog pitanja ?</em>
+  * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 56: <em>Lekari i nastavnici sada dobijaju <b>oko</b> 400 evra mesečno .</em>
+  * <tt><a href="sr-pos-ADP.html">ADP</a></tt> 47: <em>Svađa <b>oko</b> piramide u Tirani</em>
 * <em>dalje</em>
-  * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 40: <em>Međutim , neki Rumuni su i <b>dalje</b> oprezni .</em>
+  * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 40: <em>" Više nismo znali [ zašto ] i <b>dalje</b> protestuju " , rekao je on .</em>
   * <tt><a href="sr-pos-ADJ.html">ADJ</a></tt> 1: <em>Drucas , čija bi zemlja trebalo da preuzme šestomesečno predsedavanje Predsedništvu EU od Litvanije 1. januara 2014 , takođe ukazuje na potrebu oživljavanja procesa <b>dalje</b> ekspanzije , uprkos " umoru od proširenja " koje danas osećaju mnoge države članice .</em>
 * <em>već</em>
   * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 31: <em>Svi susedi Srbije su ili <b>već</b> u NATO-u ili teže članstvu .</em>
@@ -47,7 +47,7 @@ The 10 most frequent ambiguous types:  <em>takođe</em> (<tt><a href="sr-pos-ADV
   * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 23: <em>Zemlja je bila bez lidera <b>skoro</b> tri godine .</em>
   * <tt><a href="sr-pos-ADJ.html">ADJ</a></tt> 1: <em>EPP je u svojoj rezoluciji pozvala Tursku da " utiče na <b>skoro</b> povlačenje svojih snaga shodno relevantnim rezolucijama UN-a i u skladu sa preciznim vremenskim okvirom " .</em>
 * <em>manje</em>
-  * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 23: <em>Za SETimes kaže da sporazum znači <b>manje</b> briga oko putovanja ..</em>
+  * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 23: <em>Aktivističke grupe bile su <b>manje</b> obazrive .</em>
   * <tt><a href="sr-pos-ADJ.html">ADJ</a></tt> 2: <em>Jedna stvar je sigurna : uticaj Turske u BiH -- na bolje ili na gore -- izaziva snažnu reakciju u redovima te <b>manje</b> zemlje .</em>
 
 ## Morphology

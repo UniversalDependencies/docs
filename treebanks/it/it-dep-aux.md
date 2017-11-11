@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `aux`: <tt><a href="it-dep-aux-pass.html">aux:pass</a></tt>.
 
-5677 nodes (2%) are attached to their parents as `aux`.
+5871 nodes (2%) are attached to their parents as `aux`.
 
-5666 instances of `aux` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.38981856614409.
+5860 instances of `aux` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.39175608925226.
 
-The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="it-pos-VERB.html">VERB</a></tt>-<tt><a href="it-pos-AUX.html">AUX</a></tt> (5429; 96% instances), <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-AUX.html">AUX</a></tt> (118; 2% instances), <tt><a href="it-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it-pos-AUX.html">AUX</a></tt> (92; 2% instances), <tt><a href="it-pos-PRON.html">PRON</a></tt>-<tt><a href="it-pos-AUX.html">AUX</a></tt> (25; 0% instances), <tt><a href="it-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="it-pos-ADV.html">ADV</a></tt>-<tt><a href="it-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="it-pos-NUM.html">NUM</a></tt>-<tt><a href="it-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="it-pos-VERB.html">VERB</a></tt>-<tt><a href="it-pos-AUX.html">AUX</a></tt> (5614; 96% instances), <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-AUX.html">AUX</a></tt> (123; 2% instances), <tt><a href="it-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it-pos-AUX.html">AUX</a></tt> (95; 2% instances), <tt><a href="it-pos-PRON.html">PRON</a></tt>-<tt><a href="it-pos-AUX.html">AUX</a></tt> (26; 0% instances), <tt><a href="it-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it-pos-AUX.html">AUX</a></tt> (8; 0% instances), <tt><a href="it-pos-ADV.html">ADV</a></tt>-<tt><a href="it-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="it-pos-NUM.html">NUM</a></tt>-<tt><a href="it-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -41,15 +41,17 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 5 aux	color:blue
-1	Esordire	esordire	VERB	V	VerbForm=Inf	8	csubj	_	_
-2	quasi	quasi	ADV	B	_	4	advmod	_	_
-3	da	da	ADP	E	_	4	case	_	_
-4	bambino	bambino	NOUN	S	Gender=Masc|Number=Sing	1	obl	_	_
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	gara	gara	NOUN	S	Gender=Fem|Number=Sing	8	nsubj	_	_
+3	di	di	ADP	E	_	4	case	_	_
+4	Goteborg	Goteborg	PROPN	SP	_	2	nmod	_	_
 5	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
-6	stato	essere	AUX	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	cop	_	_
+6	stata	essere	AUX	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	8	cop	_	_
 7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-8	problema	problema	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-9	?	?	PUNCT	FS	_	8	punct	_	_
+8	passaggio	passaggio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+9	di	di	ADP	E	_	10	case	_	_
+10	consegne	consegna	NOUN	S	Gender=Fem|Number=Plur	8	nmod	_	SpaceAfter=No
+11	:	:	PUNCT	FC	_	8	punct	_	_
 
 ~~~
 

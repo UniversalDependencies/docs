@@ -12,7 +12,7 @@ udver: '2'
 # UD Lithuanian
 
 Language: [Lithuanian](../lt/overview/lt-hub.html) (code: `lt`)<br/>
-Family: Indo-European, Balto-Slavic
+Family: Indo-European, Baltic
 
 This treebank has been part of Universal Dependencies since the UD v2.0 release.
 
@@ -39,7 +39,12 @@ If you want to collaborate, please contact [olesar&nbsp;(Ã¦t)&nbsp;yandex&nbsp;â
 
 ## Description
 
+Lithuanian treebank annotated manually (dependencies) using the Morphological Annotator by CCL, Vytautas Magnus University (http://tekstynas.vdu.lt/) and manual disambiguation.
+A pilot version which includes news and an essay by Tomas Venclova is available here.
+
+
 ## Acknowledgments
+
 # Statistics of UD Lithuanian
 
 ## POS Tags

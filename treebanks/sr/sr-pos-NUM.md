@@ -19,7 +19,7 @@ The 10 most frequent ambiguous types:  <em>jedan</em> (<tt><a href="sr-pos-NUM.h
 
 
 * <em>jedan</em>
-  * <tt><a href="sr-pos-NUM.html">NUM</a></tt> 64: <em>Esat Beriša je <b>jedan</b> takav primer .</em>
+  * <tt><a href="sr-pos-NUM.html">NUM</a></tt> 64: <em>Strano učešće još <b>jedan</b> je važan faktor privatizacije .</em>
   * <tt><a href="sr-pos-ADJ.html">ADJ</a></tt> 1: <em>Mnogi očekuju da će se novi zakon slabo sprovoditi , kao i onaj prethodni iz 1996. godine u kojem se ni na <b>jedan</b> način ne opominje na monopolističke aktivnosti .</em>
 * <em>dve</em>
   * <tt><a href="sr-pos-NUM.html">NUM</a></tt> 46: <em>Očigledno smo lagali proteklih godinu i po do <b>dve</b> .</em>
@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  <em>jedan</em> (<tt><a href="sr-pos-NUM.h
   * <tt><a href="sr-pos-NUM.html">NUM</a></tt> 14: <em>Da li bi ukidanje tih dažbina koristilo ekonomskom razvoju <b>obe</b> zemlje ?</em>
   * <tt><a href="sr-pos-PRON.html">PRON</a></tt> 1: <em>Carinska saradnja između Albanije i Kosova može da doprinese ekonomskom razvoju <b>obe</b> zemlje .</em>
 * <em>druga</em>
-  * <tt><a href="sr-pos-NUM.html">NUM</a></tt> 11: <em>" Ne radi se ovde o tome da jedna politička opcija kaže da piramidu ne bi trebalo rušiti , a <b>druga</b> da treba .</em>
+  * <tt><a href="sr-pos-NUM.html">NUM</a></tt> 11: <em>" Albanija je postala <b>druga</b> zemlja od pada komunizma " , kaže Remzi Lani , bivši urednik novina Glas mladih .</em>
   * <tt><a href="sr-pos-ADJ.html">ADJ</a></tt> 2: <em>" U tri <b>druga</b> naselja u toku su projekti izgradnje novih ili dogradnje postojećih postrojenja , " stoji u odgovoru .</em>
 * <em>drugo</em>
   * <tt><a href="sr-pos-NUM.html">NUM</a></tt> 10: <em>Pronađene su i jedna ručna bomba , municija i <b>drugo</b> naoružanje .</em>
@@ -45,10 +45,10 @@ The 10 most frequent ambiguous types:  <em>jedan</em> (<tt><a href="sr-pos-NUM.h
   * <tt><a href="sr-pos-NUM.html">NUM</a></tt> 8: <em>Tokom <b>devedesetih</b> oko 25 odsto stanovništva napustilo je Albaniju .</em>
   * <tt><a href="sr-pos-NOUN.html">NOUN</a></tt> 1: <em>Srbi se još uvek sećaju kada su tokom <b>devedesetih</b> nosili devetocifrene novčanice u svojim novčanicima .</em>
 * <em>prvo</em>
-  * <tt><a href="sr-pos-NUM.html">NUM</a></tt> 5: <em>Bugarska je osvojila <b>prvo</b> mesto u ženskom atletskom finalu na 62.</em>
+  * <tt><a href="sr-pos-NUM.html">NUM</a></tt> 5: <em>To neće biti <b>prvo</b> renoviranje Galeba .</em>
   * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 3: <em>Druga trojica mogla bi da budu izručena MKSJ-u nakon kraće procedure , ali sa tim se <b>prvo</b> mora složiti srpska vlada .</em>
 * <em>drugoj</em>
-  * <tt><a href="sr-pos-NUM.html">NUM</a></tt> 5: <em>Na <b>drugoj</b> strani , Srbija se našla u diplomatskom škripcu .</em>
+  * <tt><a href="sr-pos-NUM.html">NUM</a></tt> 5: <em>Izvoznici , na <b>drugoj</b> strani , strahuju od posledica tog " izvlačenja " .</em>
   * <tt><a href="sr-pos-ADJ.html">ADJ</a></tt> 1: <em>" Verujem da je ova odluka takođe bila proaktivan korak koji služi <b>drugoj</b> svrsi : vlada AKP pokušava da redefiniše ' tursko državljanstvo ' u liberalnijem , civilnijem i modernijem smislu -- što neki pogrešno tumače kao neootomanizam " , kaže Čakir .</em>
 
 ## Morphology

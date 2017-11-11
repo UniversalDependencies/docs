@@ -25,13 +25,13 @@ The 10 most frequent ambiguous types:  dat (<tt><a href="af-pos-SCONJ.html">SCON
   * <tt><a href="af-pos-SCONJ.html">SCONJ</a></tt> 30: Let wel : dit word slegs gedoen <b>indien</b> jy daartoe instem .
   * <tt><a href="af-pos-VERB.html">VERB</a></tt> 15: Betaal die registrasiefooi vooruit of wanneer jy jou aansoek <b>indien</b> .
 * of
-  * <tt><a href="af-pos-CCONJ.html">CCONJ</a></tt> 371: Vorms kan per hand afgelewer <b>of</b> per pos gestuur word .
+  * <tt><a href="af-pos-CCONJ.html">CCONJ</a></tt> 371: Maar ons twyfel nie dat dit wel een <b>of</b> ander tyd sal aanbreek nie .
   * <tt><a href="af-pos-SCONJ.html">SCONJ</a></tt> 16: Bel die permitkantoor om uit te vind <b>of</b> die permit gereed is voordat jy dit gaan haal .
   * <tt><a href="af-pos-PROPN.html">PROPN</a></tt> 7: Ons verwelkom vandag dr Imtiaz Sooliman van Gift <b>of</b> the Givers in hierdie huis .
   * <tt><a href="af-pos-X.html">X</a></tt> 4: Die aansoek moet by 'n registrasiebeampte of 'n aangewese persoon ingedien word wat jou dan van 'n erkenning van ontvangs van die aansoek moet voorsien in die vorm van Vorm B : Acknowledgement <b>of</b> receipt <b>of</b> application for registration <b>of</b> customary marriage .
 * so
   * <tt><a href="af-pos-ADV.html">ADV</a></tt> 16: Jou aansoek sal <b>so</b> gou en doeltreffend as moontlik hanteer word .
-  * <tt><a href="af-pos-SCONJ.html">SCONJ</a></tt> 16: Daarom is die groeikoers van uitvoere nie <b>so</b> hoog soos in vergelykbare lande nie .
+  * <tt><a href="af-pos-SCONJ.html">SCONJ</a></tt> 16: Die addisionele taal behoort <b>so</b> vroeg moontlik as vak bekendgestel te word .
 * anders
   * <tt><a href="af-pos-SCONJ.html">SCONJ</a></tt> 5: Die oorspronklike aansoek moet gepos word , <b>anders</b> sal 'n permit nie uitgereik word nie .
   * <tt><a href="af-pos-ADJ.html">ADJ</a></tt> 4: As jy namens iemand <b>anders</b> aansoek doen , moet jy sorg die betaling onder daardie persoon se naam of maatskappynaam geskied .
@@ -49,7 +49,7 @@ The 10 most frequent ambiguous types:  dat (<tt><a href="af-pos-SCONJ.html">SCON
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.032258 (the average of all parts of speech is 1.120202).
+The form / lemma ratio of `SCONJ` is 1.032258 (the average of all parts of speech is 1.122045).
 
 The 1st highest number of forms (2) was observed with the lemma “so”: so, só.
 

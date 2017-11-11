@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-149 nodes (1%) are attached to their parents as `parataxis`.
+324 nodes (1%) are attached to their parents as `parataxis`.
 
-144 instances of `parataxis` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.3489932885906.
+300 instances of `parataxis` (93%) are left-to-right (parent precedes child).
+Average distance between parent and child is 7.14506172839506.
 
-The following 6 pairs of parts of speech are connected with `parataxis`: <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (116; 78% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (9; 6% instances), <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (8; 5% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-ADJ.html">ADJ</a></tt> (8; 5% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (5; 3% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (3; 2% instances).
+The following 9 pairs of parts of speech are connected with `parataxis`: <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (244; 75% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (30; 9% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-ADJ.html">ADJ</a></tt> (18; 6% instances), <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (17; 5% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (7; 2% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (5; 2% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -55,23 +55,19 @@ The following 6 pairs of parts of speech are connected with `parataxis`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 10 parataxis	color:blue
-1	Liná	Liná	PROPN	N	Case=Nom|Number=Sing	3	nsubj	_	_
-2	lei	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
-3	giitevaš	giitevaš	ADJ	A	Case=Nom|Number=Sing	0	root	_	_
-4	go	go	SCONJ	CS	_	6	mark	_	_
-5	Áilu	Áilu	PROPN	N	Case=Nom|Number=Sing	6	nsubj	_	_
-6	bođii	boahtit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	advcl	_	SpaceAfter=No
-7	,	,	PUNCT	CLB	_	6	punct	_	_
-8	son	son	PRON	Pron	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
-9	beasai	beassat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	aux	_	_
-10	vázzát	vázzát	VERB	V	VerbForm=Inf	3	parataxis	_	_
-11	eret	eret	ADV	Adv	_	10	advmod	_	SpaceAfter=No
-12	.	.	PUNCT	CLB	_	3	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 7 parataxis	color:blue
+1	Matrosain	matrosa	NOUN	N	Case=Loc|Number=Plur	2	obl	_	_
+2	lea	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	riekta	riekta	ADJ	A	Case=Nom|Number=Sing	2	nsubj	_	SpaceAfter=No
+4	:	:	PUNCT	CLB	_	2	punct	_	_
+5	Pippi	Pippi	PROPN	N	Case=Nom|Number=Sing	7	nsubj	_	_
+6	lei	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
+7	earenoamáš	erenoamáš	ADJ	A	Case=Nom|Number=Sing	2	parataxis	_	SpaceAfter=No
+8	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
 

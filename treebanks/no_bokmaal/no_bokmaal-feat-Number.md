@@ -94,7 +94,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
   <tr><td><tt><tt><a href="no_bokmaal-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>ens</em></td><td></td></tr>
   <tr><td><tt><tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>en</em></td><td></td></tr>
   <tr><td><tt><tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>ei</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>et, at, er, ett</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>et, er, at, ett</em></td><td></td></tr>
   <tr><td><tt></tt></td><td></td><td><em>En</em></td></tr>
 </table>
 

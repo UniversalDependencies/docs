@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Japanese-PUD: POS Tags: `SYM`
 
 There are 7 `SYM` lemmas (0%), 7 `SYM` types (0%) and 206 `SYM` tokens (1%).
-Out of 14 observed tags, the rank of `SYM` is: 14 in number of lemmas, 14 in number of types and 13 in number of tokens.
+Out of 15 observed tags, the rank of `SYM` is: 14 in number of lemmas, 14 in number of types and 13 in number of tokens.
 
 The 10 most frequent `SYM` lemmas: ・, 』, &, ..., –, 」、「(, 〜
 

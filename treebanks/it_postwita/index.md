@@ -12,7 +12,7 @@ udver: '2'
 # UD Italian PoSTWITA
 
 Language: [Italian](../it/overview/it-hub.html) (code: `it`)<br/>
-Family: Indo-European, Italic
+Family: Indo-European, Romance
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
@@ -55,6 +55,12 @@ The conversion and syntactic annotation process was carried out through alternat
 ## Acknowledgments
 
 The treebank development has also been possible thanks to the contribution of Fabio Tamburini (University of Bologna), who used AnIta for lemmatization and morphological analysis, and of Alberto Lavelli (FBK, Trento) and Alessandro Mazzei (University of Turin), who worked on the parsing experiments.
+
+## References
+
+* Manuela Sanguinetti, Cristina Bosco, Alessandro Mazzei, Alberto Lavelli, Fabio Tamburini. 2017. Annotating Italian Social Media Texts in Universal Dependencies. In: Proceedings of the Fourth International Conference on Dependency Linguistics (Depling 2017), Pisa (Italy), pp. 229–239
+
+* Cristina Bosco, Fabio Tamburini, Andrea Bolioli, Alessandro Mazzei. 2016. Overview of the EVALITA 2016 Part Of Speech on TWitter for ITAlian task. In: Proceedings of Evalita 2016
 
 
 # Statistics of UD Italian PoSTWITA

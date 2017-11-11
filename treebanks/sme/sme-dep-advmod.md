@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-852 nodes (9%) are attached to their parents as `advmod`.
+2079 nodes (8%) are attached to their parents as `advmod`.
 
-508 instances of `advmod` (60%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.87793427230047.
+1221 instances of `advmod` (59%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.79365079365079.
 
-The following 10 pairs of parts of speech are connected with `advmod`: <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-ADV.html">ADV</a></tt> (665; 78% instances), <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-ADV.html">ADV</a></tt> (61; 7% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-ADV.html">ADV</a></tt> (52; 6% instances), <tt><a href="sme-pos-ADV.html">ADV</a></tt>-<tt><a href="sme-pos-ADV.html">ADV</a></tt> (27; 3% instances), <tt><a href="sme-pos-NUM.html">NUM</a></tt>-<tt><a href="sme-pos-ADV.html">ADV</a></tt> (17; 2% instances), <tt><a href="sme-pos-PRON.html">PRON</a></tt>-<tt><a href="sme-pos-ADV.html">ADV</a></tt> (16; 2% instances), <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-ADV.html">ADV</a></tt> (6; 1% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `advmod`: <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-ADV.html">ADV</a></tt> (1604; 77% instances), <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-ADV.html">ADV</a></tt> (173; 8% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-ADV.html">ADV</a></tt> (136; 7% instances), <tt><a href="sme-pos-ADV.html">ADV</a></tt>-<tt><a href="sme-pos-ADV.html">ADV</a></tt> (53; 3% instances), <tt><a href="sme-pos-PRON.html">PRON</a></tt>-<tt><a href="sme-pos-ADV.html">ADV</a></tt> (39; 2% instances), <tt><a href="sme-pos-NUM.html">NUM</a></tt>-<tt><a href="sme-pos-ADV.html">ADV</a></tt> (38; 2% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (20; 1% instances), <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-ADV.html">ADV</a></tt> (10; 0% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-ADJ.html">ADJ</a></tt> (5; 0% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

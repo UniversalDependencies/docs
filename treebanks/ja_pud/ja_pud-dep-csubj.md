@@ -22,7 +22,7 @@ The following 5 pairs of parts of speech are connected with `csubj`: <tt><a href
 # visual-style 13	bgColor:blue
 # visual-style 13	fgColor:white
 # visual-style 13 4 csubj	color:blue
-1	この	この	ADJ	DT	_	2	det	_	GHEAD=2|GHEADH=2|GID=1|GUPOS=DET|Match=Yes|SpaceAfter=No
+1	この	この	DET	DT	_	2	det	_	GHEAD=2|GHEADH=2|GID=1|GUPOS=DET|Match=Yes|SpaceAfter=No
 2	地	地	NOUN	NN	_	4	obj	_	GHEAD=4|GHEADH=4|GID=2|Match=Yes|SpaceAfter=No
 3	を	を	ADP	CM	Case=Acc	2	case	_	GDPRL=compound:prt|GHEAD=2|GHEADH=2|GID=3|GUPOS=PART|Match=Yes|SpaceAfter=No
 4	去っ	去る	VERB	VV	VerbForm=Ger	13	csubj	_	GDPRL=nomc|GHEAD=6|GHEADH=6|GID=4|Match=Yes|SpaceAfter=No

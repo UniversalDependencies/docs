@@ -16,7 +16,7 @@ Family: Indo-European, Germanic
 
 This treebank has been part of Universal Dependencies since the UD v1.2 release.
 
-The following people have contributed to making this treebank part of UD: Lilja Øvrelid, Fredrik Jørgensen.
+The following people have contributed to making this treebank part of UD: Lilja Øvrelid, Fredrik Jørgensen, Petter Hohle.
 
 Repository: [UD_Norwegian-Bokmaal](https://github.com/UniversalDependencies/UD_Norwegian-Bokmaal)
 
@@ -28,18 +28,130 @@ Questions, comments?
 General annotation questions (either Norwegian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Norwegian-Bokmaal/issues).
 If you want to collaborate, please contact [liljao&nbsp;(æt)&nbsp;ifi&nbsp;•&nbsp;uio&nbsp;•&nbsp;no].
+Development of the treebank happens outside the UD repository.
+If there are bugs, either the original data source or the conversion procedure must be fixed.
+Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
-| XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Lemmas | annotated manually in non-UD style, automatically converted to UD |
+| UPOS | annotated manually in non-UD style, automatically converted to UD |
+| XPOS | not available |
+| Features | annotated manually in non-UD style, automatically converted to UD |
+| Relations | annotated manually in non-UD style, automatically converted to UD |
 
 ## Description
 
+The Norwegian UD treebank is based on the Bokmål section of the Norwegian
+Dependency Treebank (NDT), which is a syntactic treebank of Norwegian. NDT has been automatically converted to the UD
+scheme by Lilja Øvrelid at the University of Oslo.
+
+
+
+NDT was developed 2011-2014 at the National Library of Norway in collaboration
+with the Text Laboratory and the Department of Informatics at the
+University of Oslo. NDT contains around 300,000 tokens taken from a variety of genres.
+The treebank texts have been manually annotated for morphosyntactic
+information. The morphological annotation mainly follows mainly
+the [Oslo-Bergen Tagger](http://tekstlab.uio.no/obt-ny/). The syntactic
+annotation follows, to a large extent, the Norwegian Reference
+Grammar, as well as a dependency annotation scheme formulated at the
+outset of the annotation project and iteratively refined throughout
+the construction of the treebank. For more information, see the
+references below.
+
+### DATA SPLITS
+
+In creating the data splits, care has been taken to preserve
+contiguous texts in the different splits and also to keep a fair
+balance of genres in each of the splits. Petter Hohle created the
+splits for the Norwegian UD treebank. The splits were created by
+concatenating the following files (available with the distribution of
+NDT):
+
+Training data (15696 sentences, 180 individual files):
+
+- ap001\_0000 -- ap012\_0002 (53 files)
+- bt001\_0000 -- bt005\_0001 (28 files)
+- db001a\_0000 -- db013\_0004 (42 files)
+- kk001\_0000 -- kk005\_0001 (10 files)
+- sp-bm001\_0000 -- sp-bm001\_0008 (9 files)
+- vg001\_0000 -- vg002\_0003 (8 files)
+- blogg-bm001\_0000 -- blogg-bm003\_0000 (9 files)
+- nou001\_0000 -- nou004\_0000 (10 files)
+- st001\_0000 -- st005\_0000 (11 files)
+
+Development data (2410 sentences, 26 individual files):
+
+- ap012\_0003 -- ap014\_0002 (7 files)
+- bt005\_0002 -- bt005\_0005 (4 files)
+- db013\_0005 -- db014\_0002 (5 files)
+- kk006\_00001 -- kk007\_0000 (2 files)
+- sp-bm002\_0000 -- sp-bm002\_0001 (2 files)
+- vg002\_0004 (1 file)
+- blogg-bm003\_0001 -- blogg-bm003\_0002 (2 files)
+- nou004\_0001 (1 file)
+- st005\_0001 -- st005\_0002 (2 files)
+
+Test data (1939 sentences, 26 individual files):
+
+- ap014\_0003 -- ap015\_0002 (7 files)
+- bt005\_0006 -- bt006\_0001 (4 files)
+- db014\_0003 -- db014\_0007 (5 files)
+- kk007\_0001 -- kk008\_0000 (2 files)
+- sp-bm003\_0000 -- sp-bm003\_0001 (2 files)
+- vg002\_0005 (1 file)
+- blogg-bm003\_0003 -- blogg-bm003\_0004 (2 files)
+- nou004\_0002 (1 file)
+- st005\_0003 -- st005\_0004 (2 files)
+
+
+### BASIC STATISTICS
+
+Tree count: 20045
+
+Word count: 311277
+
+Token count: 311277
+
+Dep. relations: 35 of which 2 language specific
+
+POS tags: 17
+
+Category=value feature pairs: 31
+
+### TOKENIZATION
+White space always indicates a token boundary and punctuation constitute separate tokens, except:
+
+* numbers with periods, commas or colons, e.g. *1.3*, *0,6*, *10:13*
+* abbreviations, e.g. *f.eks.*, *Carl J. Hambro*
+* URLs, e.g. *http://www.ifi.uio.no*
+
+The treebank does not contain multiword tokens.
+
+### MORPHOLOGY
+The PoS-tags follow the universal tag set and does not add any
+language-specific PoS-tags. The morphological features follow the
+Oslo-Bergen Tagger scheme (Hagen et. al., 2000). PoS-tags and
+morphological features were converted automatically to the UD scheme.
+
+### SYNTAX
+The syntactic annotation in the Norwegian UD treebank conforms to the
+UD guidelines, adding language-specific relations for relative clauses (`acl:relcl`)
+and verb particles (`compound:prt`). The annotation has been automatically converted to
+UD from the original dependency scheme described in Solberg
+et. al. (2014) and further described in the NDT guidelines (Kinn
+et. al.).
+The conversion has not been manually checked. There are a few known discrepancies from UD:
+
+* no mwe analysis in the treebank. This is also information that is not present in the original data.
+
 ## Acknowledgments
+
+NDT has been automatically converted to the UD scheme by Lilja Øvrelid at the University of Oslo. Petter Hohle created the data splits and Fredrik Jørgensen aligned the treebank to the original texts.
+We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn and Per Erik Solberg.
+
+
 # Statistics of UD Norwegian Bokmaal
 
 ## POS Tags

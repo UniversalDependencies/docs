@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="it-dep-det.html">det</a></tt>.
 There are also 1 other language-specific subtypes of `det`: <tt><a href="it-dep-det-poss.html">det:poss</a></tt>.
 
-379 nodes (0%) are attached to their parents as `det:predet`.
+394 nodes (0%) are attached to their parents as `det:predet`.
 
-379 instances of `det:predet` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.12664907651715.
+394 instances of `det:predet` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.1243654822335.
 
-The following 6 pairs of parts of speech are connected with `det:predet`: <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (357; 94% instances), <tt><a href="it-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (15; 4% instances), <tt><a href="it-pos-PRON.html">PRON</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="it-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="it-pos-NUM.html">NUM</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="it-pos-VERB.html">VERB</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `det:predet`: <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (371; 94% instances), <tt><a href="it-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (16; 4% instances), <tt><a href="it-pos-PRON.html">PRON</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (3; 1% instances), <tt><a href="it-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="it-pos-NUM.html">NUM</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="it-pos-VERB.html">VERB</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

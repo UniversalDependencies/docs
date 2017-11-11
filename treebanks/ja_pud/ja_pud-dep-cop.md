@@ -88,7 +88,7 @@ The following 7 pairs of parts of speech are connected with `cop`: <tt><a href="
 4	が	が	ADP	CM	Case=Nom	3	case	_	GDPRL=compound:prt|GHEAD=3|GHEADH=3|GID=4|GUPOS=PART|Match=Yes|SpaceAfter=No
 5	エージェント	エージェント	NOUN	NN	_	7	obl	_	GDPRL=advmod|GHEAD=7|GHEADH=7|GID=5|Match=Yes|SpaceAfter=No
 6	に対して	に対して	ADP	CM	Case=Advb	5	case	_	GDPRL=compound:prt|GHEAD=5|GHEADH=5|GID=6|GUPOS=PART|Match=Yes|SpaceAfter=No
-7	課す	課す	VERB	VV	Form=Adn	10	acl	_	GDPRL=acl:relcl|GHEAD=10|GHEADH=12,13|GID=7|Match=Yes|SpaceAfter=No
+7	課す	課す	VERB	VV	Form=Adn	13	acl	_	GDPRL=acl:relcl|GHEAD=10|GHEADH=12,13|GID=7|Match=Yes|SpaceAfter=No
 8	こと	こと	NOUN	_	_	7	aux	_	GDPRL=aux|GF/Form=Adn|GFORM=ことのできる|GHEAD=7|GHEADH=7|GID=8|GUPOS=VERB|GXPOS=VXP|SpaceAfter=No
 9	の	の	ADP	_	_	7	case	_	GDPRL=aux|GF/Form=Adn|GFORM=ことのできる|GHEAD=7|GHEADH=7|GID=8|GUPOS=VERB|GXPOS=VXP|SpaceAfter=No
 10	できる	できる	VERB	_	_	13	acl	_	GDPRL=aux|GF/Form=Adn|GFORM=ことのできる|GHEAD=7|GHEADH=7|GID=8|GUPOS=VERB|GXPOS=VXP|SpaceAfter=No

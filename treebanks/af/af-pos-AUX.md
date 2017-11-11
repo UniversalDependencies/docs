@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Afrikaans: POS Tags: `AUX`
 
 There are 29 `AUX` lemmas (1%), 38 `AUX` types (1%) and 3274 `AUX` tokens (7%).
-Out of 16 observed tags, the rank of `AUX` is: 11 in number of lemmas, 10 in number of types and 7 in number of tokens.
+Out of 16 observed tags, the rank of `AUX` is: 12 in number of lemmas, 10 in number of types and 7 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: is word sal het moet kan wees wil mag behoort
 
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  het (<tt><a href="af-pos-AUX.html">AUX</a
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 1.310345 (the average of all parts of speech is 1.120202).
+The form / lemma ratio of `AUX` is 1.310345 (the average of all parts of speech is 1.122045).
 
 The 1st highest number of forms (2) was observed with the lemma “blyk”: blyk, geblyk.
 

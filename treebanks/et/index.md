@@ -12,7 +12,7 @@ udver: '2'
 # UD Estonian
 
 Language: [Estonian](../et/overview/et-hub.html) (code: `et`)<br/>
-Family: Uralic, Finno-Ugric
+Family: Uralic, Finnic
 
 This treebank has been part of Universal Dependencies since the UD v1.2 release.
 
@@ -40,7 +40,33 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 ## Description
 
+UD Estonian is a conversion of a subpart of Estonian Dependency Treebank (EDT), originally annotated in the Constraint Grammar (CG) annotation scheme, and consisting of genres of fiction, newspaper texts and scientific texts.
+
+
+
+The Estonian UD v2.1 treebank contains a subpart of UD v1.3 treebank which has been automatically converted and then manually reviewed and reannotated.
+
+The original texts belong to the following text genres:
+
+* fiction (58504 tokens, 48175 tokens without punctuation, 5148 sentences): ilu_indrikson_ud2.conllu, ilu_kanep_ud2.conllu, ilu_kivirahk_ud2.conllu, ilu_maailm_ud2.conllu, ilu_orlau_ud2.conllu, ilu_remsu_ud2.conllu, ilu_ruben_ud2.conllu, ilu_valton_ud2.conllu, ilu_vilep_ud2.conllu;
+
+* newspapers (18179 tokens, 15089 tokens without punctuation, 1198 sentences): aja_epl20070812_ud2.conllu, aja_sloleht20071217_ud2.conllu;
+
+* scientific text (20362 tokens, 17683 tokens without punctuation, 1127 sentences): tea_toohoive_ud2.conllu.
+
+* Also, the subpart of Estonian part of HamleDT 3.0 treebank has been reannotated and included in the treebank; it contains 9200 tokens.
+
+The Estonian UD treebank is based on the [Estonian Dependency Treebank] (https://github.com/EstSyntax/) (EDT), created at the University of Tartu. The treebank consists of ca 430 000 tokens (punctuation included) in ca 30 000 sentences and covers 3 different genres, namely newspaper texts, fiction and scientific texts.
+
+The current version, Estonian UD v 2.1 has been created by semi-automatic conversion of v 1.3 annotations; some constructions were also re-annotated manually. Among the most frequent of those needing manual effort one can name determing the heads of copular constructions.
+
 ## Acknowledgments
+
+We wish to thank all of the contributors to the original EDT annotation effort, especially Eleri Aedmaa, Riin Kirt and Dage Särg. Also, we wish to thank Andriela Rääbis for her great job with v 2.1 annotations.
+
+This work was financed by the National Programme for Estonian Language Technology (https://www.keeletehnoloogia.ee/en?set_language=en) and Estonian Ministery of Education and Research (grant 20-56 IUT20-56 "Computational models for Estonian").
+
+
 # Statistics of UD Estonian
 
 ## POS Tags

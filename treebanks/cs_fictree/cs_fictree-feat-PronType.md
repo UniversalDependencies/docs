@@ -23,9 +23,9 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Ind` (433; 3% of non-empty `PronType`): <em>něco, někdo, někoho, cosi, někomu, cokoli, něčím, kdosi, něčem, kdekdo</em>
+* `Ind` (434; 3% of non-empty `PronType`): <em>něco, někdo, někoho, cosi, někomu, cokoli, něčím, kdosi, něčem, kdekdo</em>
 * `Int,Rel` (963; 7% of non-empty `PronType`): <em>co, kdo, čím, čem, koho, čeho, čemu, komu, kým, copak</em>
-* `Neg` (415; 3% of non-empty `PronType`): <em>nic, nikdo, nikoho, nikomu, ničeho, ničemu, nikým, ničím, ničem, pražádný</em>
+* `Neg` (414; 3% of non-empty `PronType`): <em>nic, nikdo, nikoho, nikomu, ničeho, ničemu, nikým, ničím, ničem</em>
 * `Prs` (12068; 86% of non-empty `PronType`): <em>se, si, mi, mě, ho, já, mu, ji, je, jí</em>
 * `Rel` (165; 1% of non-empty `PronType`): <em>což, níž, jež, nichž, němž, jenž, nímž, nimiž, něhož, jehož</em>
 * `Tot` (62; 0% of non-empty `PronType`): <em>všecko, samé, veškeré, samá, veškerá, samého, samých, samým, veškeru, veškerý</em>
@@ -42,9 +42,9 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 * `Dem` (3688; 44% of non-empty `PronType`): <em>to, ten, tom, toho, tím, té, ta, tu, tomu, tohle</em>
 * `Emp` (217; 3% of non-empty `PronType`): <em>sám, sama, sami, samo, samy, samu</em>
-* `Ind` (476; 6% of non-empty `PronType`): <em>několik, nějaký, nějaké, nějakou, několika, mnoho, hodně, moc, víc, málo</em>
+* `Ind` (475; 6% of non-empty `PronType`): <em>několik, nějaký, nějaké, nějakou, několika, mnoho, hodně, moc, víc, málo</em>
 * `Int,Rel` (1117; 13% of non-empty `PronType`): <em>který, které, která, kterou, kteří, kolik, jaké, kterého, kterým, jakou</em>
-* `Neg` (97; 1% of non-empty `PronType`): <em>žádný, žádné, žádnou, žádná, žádném, žádného, žádnej, nijaké, žádnému</em>
+* `Neg` (98; 1% of non-empty `PronType`): <em>žádný, žádné, žádnou, žádná, žádném, žádného, žádnej, nijaké, pražádný, žádnému</em>
 * `Prs` (2116; 25% of non-empty `PronType`): <em>jeho, své, její, jejich, moje, svou, svého, můj, svým, svůj</em>
 * `Rel` (23; 0% of non-empty `PronType`): <em>jehož, jejichž, jejíž, jejímž</em>
 * `Tot` (682; 8% of non-empty `PronType`): <em>všechno, každý, všichni, všechny, všech, každou, vše, každé, všeho, všem</em>
@@ -81,5 +81,5 @@ The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>PRON --[<tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt>]--> PRON</tt> (3; 75%),
 <tt>DET --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> DET</tt> (2; 100%),
 <tt>PRON --[<tt><a href="cs_fictree-dep-orphan.html">orphan</a></tt>]--> DET</tt> (2; 67%),
-<tt>DET --[<tt><a href="cs_fictree-dep-cc.html">cc</a></tt>]--> DET</tt> (1; 100%).
+<tt>DET --[<tt><a href="cs_fictree-dep-det-nummod.html">det:nummod</a></tt>]--> DET</tt> (1; 100%).
 

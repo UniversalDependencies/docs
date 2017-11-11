@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="sme-dep-aux.html">aux</a></tt>.
 
-149 nodes (1%) are attached to their parents as `aux:neg`.
+430 nodes (2%) are attached to their parents as `aux:neg`.
 
-138 instances of `aux:neg` (93%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.12080536912752.
+408 instances of `aux:neg` (95%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.04883720930233.
 
-The following 4 pairs of parts of speech are connected with `aux:neg`: <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (138; 93% instances), <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (6; 4% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (4; 3% instances), <tt><a href="sme-pos-PRON.html">PRON</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `aux:neg`: <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (379; 88% instances), <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (30; 7% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (20; 5% instances), <tt><a href="sme-pos-PRON.html">PRON</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

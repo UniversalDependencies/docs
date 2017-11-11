@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-362 nodes (1%) are attached to their parents as `nummod`.
+431 nodes (1%) are attached to their parents as `nummod`.
 
-301 instances of `nummod` (83%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.13259668508287.
+358 instances of `nummod` (83%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.15313225058005.
 
-The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="ko-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko-pos-NUM.html">NUM</a></tt> (252; 70% instances), <tt><a href="ko-pos-ADV.html">ADV</a></tt>-<tt><a href="ko-pos-NUM.html">NUM</a></tt> (72; 20% instances), <tt><a href="ko-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (21; 6% instances), <tt><a href="ko-pos-VERB.html">VERB</a></tt>-<tt><a href="ko-pos-NUM.html">NUM</a></tt> (11; 3% instances), <tt><a href="ko-pos-ADV.html">ADV</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="ko-pos-ADP.html">ADP</a></tt>-<tt><a href="ko-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `nummod`: <tt><a href="ko-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko-pos-NUM.html">NUM</a></tt> (304; 71% instances), <tt><a href="ko-pos-ADV.html">ADV</a></tt>-<tt><a href="ko-pos-NUM.html">NUM</a></tt> (83; 19% instances), <tt><a href="ko-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (24; 6% instances), <tt><a href="ko-pos-VERB.html">VERB</a></tt>-<tt><a href="ko-pos-NUM.html">NUM</a></tt> (14; 3% instances), <tt><a href="ko-pos-ADV.html">ADV</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="ko-pos-ADP.html">ADP</a></tt>-<tt><a href="ko-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -63,23 +63,22 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 9 nummod	color:blue
-1	살진	_	VERB	PREDREL	_	2	acl:relcl	_	_
-2	휴	_	NOUN	PNOUN	_	5	obj	_	_
-3	드	_	NOUN	PNOUN	_	2	flat	_	_
-4	크레싱햄를	_	NOUN	PNOUN	_	2	flat	_	_
-5	포함하여	_	VERB	PREDCONJ	_	11	advcl	_	_
-6	마리마둑을	_	NOUN	PNOUN	_	7	obj	_	_
-7	따르던	_	VERB	PREDREL	_	8	acl:relcl	_	_
-8	기사	_	NOUN	NOUN	_	11	nsubj	_	_
-9	백여	_	NOUN	NUMNOUN	_	8	nummod	_	_
-10	명은	_	NOUN	NOUN	_	8	flat	_	_
-11	살해당했다	_	VERB	VERB	_	0	root	_	SpaceAfter=No
-12	.	.	PUNCT	.	_	11	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 nummod	color:blue
+1	현재까지	_	ADV	ADV	_	4	advmod	_	_
+2	400여	_	NOUN	NUMNOUN	_	3	nummod	_	_
+3	명이	_	NOUN	NOUN	_	4	nsubj	_	_
+4	사망했고	_	VERB	PREDCONJ	_	0	root	_	_
+5	피해	_	NOUN	NOUN	_	8	nsubj	_	_
+6	규모는	_	NOUN	NOUN	_	5	flat	_	_
+7	더	_	ADV	ADV	_	8	advmod	_	_
+8	커질	_	VERB	PREDREL	_	9	dep	_	_
+9	것으로	_	ADV	ADV	_	10	advmod	_	_
+10	보입니다	_	VERB	VERB	_	4	conj	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	10	punct	_	_
 
 ~~~
 

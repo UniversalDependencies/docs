@@ -136,10 +136,10 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
   <tr><td><tt><tt><a href="kmr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="kmr-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="kmr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>î, yî</td><td></td></tr>
   <tr><td><tt><tt><a href="kmr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="kmr-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kmr-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td>bû, bûm</td><td>bûn</td></tr>
   <tr><td><tt><tt><a href="kmr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="kmr-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kmr-feat-Tense.html">Tense</a></tt><tt>=Pqp</tt></tt></td><td>bû bû</td><td>bû bûn</td></tr>
-  <tr><td><tt><tt><a href="kmr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="kmr-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kmr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>e, ye, dibe, a, ya</td><td>in, ne, dibin</td></tr>
+  <tr><td><tt><tt><a href="kmr-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="kmr-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kmr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>e, ye, dibe, ya, a</td><td>in, ne, dibin</td></tr>
   <tr><td><tt><tt><a href="kmr-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="kmr-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="kmr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>bibim</td><td>bibin</td></tr>
   <tr><td><tt><tt><a href="kmr-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="kmr-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="kmr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>bibî</td><td></td></tr>
-  <tr><td><tt><tt><a href="kmr-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="kmr-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kmr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>be, bibe, bit, bin, nebe, nebit</td><td></td></tr>
+  <tr><td><tt><tt><a href="kmr-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="kmr-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kmr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>be, bibe, bin, bit, nebe, nebit</td><td></td></tr>
 </table>
 
 ### `DET`

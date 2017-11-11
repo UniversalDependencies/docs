@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="sme-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-60 nodes (1%) are attached to their parents as `acl`.
+127 nodes (0%) are attached to their parents as `acl`.
 
-39 instances of `acl` (65%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.5.
+72 instances of `acl` (57%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.54330708661417.
 
-The following 5 pairs of parts of speech are connected with `acl`: <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (56; 93% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="sme-pos-PRON.html">PRON</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 6 pairs of parts of speech are connected with `acl`: <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (115; 91% instances), <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-ADJ.html">ADJ</a></tt> (4; 3% instances), <tt><a href="sme-pos-PRON.html">PRON</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (2; 2% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -33,22 +33,23 @@ The following 5 pairs of parts of speech are connected with `acl`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 9 acl	color:blue
-1	Tommi	Tommi	PROPN	N	Case=Nom|Number=Sing	5	nsubj	_	_
-2	ii	ii	VERB	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	5	aux:neg	_	_
-3	lean	leat	VERB	V	Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin	5	aux	_	_
-4	goassege	goassege	ADV	Adv	_	5	advmod	_	_
-5	oaidnán	oaidnit	VERB	V	Aspect=Perf|VerbForm=Part	0	root	_	_
-6	nieiddaža	nieiddaš	NOUN	N	Case=Acc|Number=Sing	5	obj	_	SpaceAfter=No
-7	,	,	PUNCT	CLB	_	5	punct	_	_
-8	gii_nu	gii_nu	PRON	Pron	Case=Nom|Number=Sing|PronType=Ind	9	nsubj	_	_
-9	imaš	imaš	NOUN	N	Case=Nom|Number=Sing	6	acl	_	_
-10	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	SpaceAfter=No
-11	.	.	PUNCT	CLB	_	5	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 7 acl	color:blue
+1	Ánne	Ánne	PROPN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+2	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	nuorra	nuorra	ADJ	A	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	CLB	_	3	punct	_	_
+5	Biret	Biret	PROPN	N	Case=Nom|Number=Sing	7	nsubj	_	_
+6	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+7	nuorat	nuorra	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	3	acl	_	_
+8	ja	ja	CCONJ	CC	_	7	cc	_	_
+9	Inger	Inger	PROPN	N	Case=Nom|Number=Sing	10	nsubj	_	_
+10	lea	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
+11	nuoramus	nuorra	ADJ	A	Case=Nom|Degree=Sup|Number=Sing	10	xcomp	_	SpaceAfter=No
+12	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 

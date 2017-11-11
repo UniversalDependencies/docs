@@ -12,7 +12,7 @@ udver: '2'
 # UD Japanese KTC
 
 Language: [Japanese](../ja/overview/ja-hub.html) (code: `ja`)<br/>
-Family: Japonic
+Family: Japanese
 
 This treebank has been part of Universal Dependencies since the UD v1.2 release.
 
@@ -20,7 +20,7 @@ The following people have contributed to making this treebank part of UD: Masayu
 
 Repository: [UD_Japanese-KTC](https://github.com/UniversalDependencies/UD_Japanese-KTC)
 
-License: CC BY-SA 4.0
+License: CC BY-SA 4.0. The underlying text is not included; the user must obtain it separately and then merge with the UD annotation using a script distributed with UD
 
 Genre: news
 
@@ -28,18 +28,22 @@ Questions, comments?
 General annotation questions (either Japanese-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Japanese-KTC/issues).
 If you want to collaborate, please contact [hkana&nbsp;(æt)&nbsp;jp&nbsp;•&nbsp;ibm&nbsp;•&nbsp;com].
+Development of the treebank happens outside the UD repository.
+If there are bugs, either the original data source or the conversion procedure must be fixed.
+Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
-| XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Lemmas | annotated manually in non-UD style, automatically converted to UD |
+| UPOS | annotated manually in non-UD style, automatically converted to UD |
+| XPOS | not available |
+| Features | annotated manually in non-UD style, automatically converted to UD |
+| Relations | annotated manually in non-UD style, automatically converted to UD |
 
 ## Description
 
 ## Acknowledgments
+
 # Statistics of UD Japanese KTC
 
 ## POS Tags

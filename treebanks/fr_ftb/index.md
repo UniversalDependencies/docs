@@ -12,34 +12,58 @@ udver: '2'
 # UD French FTB
 
 Language: [French](../fr/overview/fr-hub.html) (code: `fr`)<br/>
-Family: Indo-European, Italic
+Family: Indo-European, Romance
 
-This treebank has been part of Universal Dependencies since the UD v2.1 release.
+This treebank has been part of Universal Dependencies since the UD v2.0 release.
 
-The following people have contributed to making this treebank part of UD: Marie Candito, Bruno Guillaume, Teresa Lynn, Héctor Martínez Alonso, Benoit Sagot, Djamé Seddah, Eric de la Clergerie.
+The following people have contributed to making this treebank part of UD: Marie Candito, Bruno Guillaume, Teresa Lynn, Héctor Martínez Alonso, Benoît Sagot, Djamé Seddah, Eric Villemonte de la Clergerie.
 
 Repository: [UD_French-FTB](https://github.com/UniversalDependencies/UD_French-FTB)
 
-License: CC BY-NC-SA 4.0
+License: LGPL-LR. The underlying text is not included; the user must obtain it separately and then merge with the UD annotation using a script distributed with UD
 
-Genre: nonfiction, news
+Genre: newswire
 
 Questions, comments?
 General annotation questions (either French-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_French-FTB/issues).
 If you want to collaborate, please contact [djame&nbsp;•&nbsp;seddah&nbsp;(æt)&nbsp;paris-sorbonne&nbsp;•&nbsp;fr, marie&nbsp;•&nbsp;candito&nbsp;(æt)&nbsp;linguist&nbsp;•&nbsp;univ-paris-diderot&nbsp;•&nbsp;fr].
+Development of the treebank happens outside the UD repository.
+If there are bugs, either the original data source or the conversion procedure must be fixed.
+Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
-| XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Lemmas | annotated manually in non-UD style, automatically converted to UD |
+| UPOS | annotated manually in non-UD style, automatically converted to UD |
+| XPOS | not available |
+| Features | annotated manually in non-UD style, automatically converted to UD |
+| Relations | annotated manually in non-UD style, automatically converted to UD |
 
 ## Description
+The Universal Dependency version of the French Treebank (Abeillé et al., 2003), hereafter UD_French-FTB, is a treebank of sentences from the newspaper Le Monde, initially manually annotated with morphological information and phrase-structure and then converted to the Universal Dependencies annotation scheme.
+
+
+UD_French-FTB 2.1 is an automatic conversion of the [French Treebank](http://ftb.linguist.univ-paris-diderot.fr/index.php?langue=en).
+The French Treebank constituency trees were first converted to dependency trees following (Candito et al., 2010), then the dependency trees were converted to UD scheme using B. Guillaume's [Sequoia treebank UD conversion rules](https://gitlab.inria.fr/grew/SSQ_UD). Finally a data-driven cross-treebank annotation transfer process (Seddah et al, 2017, forthcoming) was applied.
+
+<!-- This release of the French Treebank (Abeille et al, 2003) UD 2.1 version is based on the FTB SPMRL release (Seddah et al, 2013)
+whose tokenization has been changed to match the [UD 2.0 specifications](http://universaldependencies.org/u/overview/tokenization.html) . Its native depedency scheme was converted via the use of the [Sequoia treebank UD conversion rules](https://gitlab.inria.fr/grew/SSQ_UD) and a data-driven cross-treebank annotation transfer process (Seddah et al, 2017, forthcoming).
+-->
+
+An evaluation on a gold standard leads to 94.75% of LAS, 99.40% UAS on the test set, on par with other high quality UD treebanks such as UD_English.
+
 
 ## Acknowledgments
+
+contributors:
+Marie Candito, Bruno Guillaume, Teresa Lynn, Hector Martinez-Alonso, Benoit Sagot, Djamé Seddah, Eric Villemonte de la Clergerie
+
+contact:
+Djamé Seddah: djame.seddah@paris-sorbonne.fr
+Marie Candito: marie.candito@linguist.univ-paris-diderot.fr
+
+
 # Statistics of UD French FTB
 
 ## POS Tags

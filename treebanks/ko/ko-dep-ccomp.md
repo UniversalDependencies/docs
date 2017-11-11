@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-583 nodes (1%) are attached to their parents as `ccomp`.
+696 nodes (1%) are attached to their parents as `ccomp`.
 
-583 instances of `ccomp` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.24185248713551.
+695 instances of `ccomp` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.26005747126437.
 
-The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href="ko-pos-VERB.html">VERB</a></tt>-<tt><a href="ko-pos-VERB.html">VERB</a></tt> (504; 86% instances), <tt><a href="ko-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko-pos-VERB.html">VERB</a></tt> (36; 6% instances), <tt><a href="ko-pos-VERB.html">VERB</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (29; 5% instances), <tt><a href="ko-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="ko-pos-ADV.html">ADV</a></tt>-<tt><a href="ko-pos-VERB.html">VERB</a></tt> (5; 1% instances), <tt><a href="ko-pos-ADV.html">ADV</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ko-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `ccomp`: <tt><a href="ko-pos-VERB.html">VERB</a></tt>-<tt><a href="ko-pos-VERB.html">VERB</a></tt> (609; 88% instances), <tt><a href="ko-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko-pos-VERB.html">VERB</a></tt> (39; 6% instances), <tt><a href="ko-pos-VERB.html">VERB</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (32; 5% instances), <tt><a href="ko-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="ko-pos-ADV.html">ADV</a></tt>-<tt><a href="ko-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="ko-pos-ADV.html">ADV</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ko-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

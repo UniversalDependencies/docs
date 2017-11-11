@@ -62,7 +62,7 @@ The following 14 pairs of parts of speech are connected with `amod`: <tt><a href
 12	時点	時点	NOUN	_	_	15	nmod	_	GDPRL=advmod|GFORM=現時点|GHEAD=15|GHEADH=15|GID=12|GUPOS=NOUN|GXPOS=NN|SpaceAfter=No
 13	で	で	ADP	CM	Case=Advb	12	case	_	GDPRL=compound:prt|GHEAD=12|GHEADH=11,12|GID=13|GUPOS=PART|Match=Yes|SpaceAfter=No
 14	の	の	PART	CM	Case=Gen	12	case	_	GDPRL=compound:prt|GHEAD=12|GHEADH=11,12|GID=14|Match=Yes|SpaceAfter=No
-15	貢献	貢献	NOUN	NN	_	24	nsubj	_	GDPRL=advmod|GHEAD=24|GHEADH=24|GID=15|Match=Yes|SpaceAfter=No
+15	貢献	貢献	NOUN	NN	_	24	obl	_	GDPRL=advmod|GHEAD=24|GHEADH=24|GID=15|Match=Yes|SpaceAfter=No
 16	で	で	ADP	CM	Case=Advb	15	case	_	GDPRL=compound:prt|GHEAD=15|GHEADH=15|GID=16|GUPOS=PART|Match=Yes|SpaceAfter=No
 17	は	は	ADP	DP	_	15	case	_	GDPRL=compound:prt|GHEAD=15|GHEADH=15|GID=17|GUPOS=PART|Match=Yes|SpaceAfter=No
 18	1.5	1.5	NUM	_	_	21	nummod	_	GDPRL=compound|GFORM=1.5℃|GHEAD=20|GHEADH=20,21|GID=18|GUPOS=NUM|GXPOS=CD|SpaceAfter=No
@@ -87,7 +87,7 @@ The following 14 pairs of parts of speech are connected with `amod`: <tt><a href
 2	一	一	NUM	CD	_	5	nummod	_	GDPRL=advmod|GHEAD=4|GHEADH=5|GID=2|Match=Yes|SpaceAfter=No
 3	人	人	NOUN	_	_	5	compound	_	GDPRL=snum|GFORM=人あたり|GHEAD=2|GHEADH=2|GID=3|GUPOS=PART|GXPOS=SFN|SpaceAfter=No
 4	あたり	あたり	NOUN	_	_	5	compound	_	GDPRL=snum|GFORM=人あたり|GHEAD=2|GHEADH=2|GID=3|GUPOS=PART|GXPOS=SFN|SpaceAfter=No
-5	5,000	5,000	NUM	CD	_	9	nummod	_	GDPRL=nsubj:pass|GHEAD=8|GHEADH=9|GID=4|Match=Yes|SpaceAfter=No
+5	5,000	5,000	NUM	CD	_	9	nsubj	_	GDPRL=nsubj:pass|GHEAD=8|GHEADH=9|GID=4|Match=Yes|SpaceAfter=No
 6	ドル	ドル	NOUN	SFN	_	5	mark	_	GDPRL=snum|GHEAD=4|GHEADH=5|GID=5|GUPOS=PART|Match=Yes|SpaceAfter=No
 7	が	が	ADP	CM	Case=Nom	5	case	_	GDPRL=compound:prt|GHEAD=4|GHEADH=5|GID=6|GUPOS=PART|Match=Yes|SpaceAfter=No
 8	、	、	PUNCT	,	_	5	punct	_	GHEAD=4|GHEADH=5|GID=7|Match=Yes|SpaceAfter=No

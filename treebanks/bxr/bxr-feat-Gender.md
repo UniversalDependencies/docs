@@ -27,8 +27,10 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 * `EMPTY` (325): Байгал Энэдхэг Хойто Россиин Улаан-Үдэ Баянгаза Улаан-Үдэдэ Агын Зүдхэлиин Зүүн
 
 <table>
-  <tr><th>Paradigm <i>Борисович</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt></tt></td><td>Борисович</td><td>Борисовна</td></tr>
+  <tr><th>Paradigm <i>Шенхоров</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt><tt><a href="bxr-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td></td><td>Шенхоровагай</td></tr>
+  <tr><td><tt><tt><a href="bxr-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="bxr-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>Шенхоровтоной</td><td></td></tr>
+  <tr><td><tt><tt><a href="bxr-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td>Шенхоров</td><td>Шенхорова</td></tr>
 </table>
 
 `Gender` seems to be **lexical feature** of `PROPN`. 96% lemmas (189) occur only with one value of `Gender`.

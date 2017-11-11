@@ -117,10 +117,9 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 * `Neut` (166; 9% of non-empty `Gender`): <em>Κάστρο, Παγγαίου, Ελσίνκι, Μάλι, Αιγαίου, Στρασβούργο, Βέλγιο, Βίδο, Κάστρου, Πατητήρι</em>
 
 <table>
-  <tr><th>Paradigm <i>Αχέροντας</i></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="el-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td></td><td><em>Αχέροντα</em></td></tr>
-  <tr><td><tt><tt><a href="el-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>Αχέροντα</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="el-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Αχέροντας</em></td><td></td></tr>
+  <tr><th>Paradigm <i>πατητήρι</i></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><tt><a href="el-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>Πατητήρι</em></td><td><em>Πατητήρι</em></td></tr>
+  <tr><td><tt><tt><a href="el-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td></td><td><em>Πατητήρι</em></td></tr>
 </table>
 
 `Gender` seems to be **lexical feature** of `PROPN`. 99% lemmas (595) occur only with one value of `Gender`.

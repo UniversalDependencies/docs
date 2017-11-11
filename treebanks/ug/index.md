@@ -12,7 +12,7 @@ udver: '2'
 # UD Uyghur
 
 Language: [Uyghur](../ug/overview/ug-hub.html) (code: `ug`)<br/>
-Family: Turkic
+Family: Altaic, Turkic
 
 This treebank has been part of Universal Dependencies since the UD v1.4 release.
 
@@ -40,6 +40,7 @@ If you want to collaborate, please contact [marhaba&nbsp;(æt)&nbsp;xju&nbsp;•
 ## Description
 
 ## Acknowledgments
+
 # Statistics of UD Uyghur
 
 ## POS Tags

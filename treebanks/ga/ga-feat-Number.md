@@ -134,7 +134,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
   <tr><th>Paradigm <i>mór</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="ga-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>mhóir</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ga-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ga-feat-NounType.html">NounType</a></tt><tt>=Strong</tt></tt></td><td></td><td><em>móra</em></td></tr>
-  <tr><td><tt><tt><a href="ga-feat-Case.html">Case</a></tt><tt>=NomAcc</tt>|<tt><a href="ga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>mór, mhór, ollmhór, ró-mhór</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ga-feat-Case.html">Case</a></tt><tt>=NomAcc</tt>|<tt><a href="ga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>mór, ollmhór, mhór, ró-mhór</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ga-feat-Case.html">Case</a></tt><tt>=NomAcc</tt>|<tt><a href="ga-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>mhór</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ga-feat-Case.html">Case</a></tt><tt>=NomAcc</tt>|<tt><a href="ga-feat-NounType.html">NounType</a></tt><tt>=NotSlender</tt></tt></td><td></td><td><em>móra</em></td></tr>
 </table>

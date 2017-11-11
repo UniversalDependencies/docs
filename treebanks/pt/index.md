@@ -12,11 +12,11 @@ udver: '2'
 # UD Portuguese
 
 Language: [Portuguese](../pt/overview/pt-hub.html) (code: `pt`)<br/>
-Family: Indo-European, Italic
+Family: Indo-European, Romance
 
 This treebank has been part of Universal Dependencies since the UD v1.2 release.
 
-The following people have contributed to making this treebank part of UD: Cláudia Freitas, Eckhard Bick, Fabricio Chalub, Alexandre Rademaker, Livy Real, Valeria de Paiva, Daniel Zeman, Martin Popel, David Mareček, Natalia Silveira, André Martins.
+The following people have contributed to making this treebank part of UD: Alexandre Rademaker, Eckhard Bick, Fabricio Chalub, Cláudia Freitas, Livy Real, Valeria de Paiva, Daniel Zeman, Martin Popel, David Mareček, Natalia Silveira, André Martins.
 
 Repository: [UD_Portuguese](https://github.com/UniversalDependencies/UD_Portuguese)
 
@@ -28,18 +28,94 @@ Questions, comments?
 General annotation questions (either Portuguese-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Portuguese/issues).
 If you want to collaborate, please contact [arademaker&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com].
+Development of the treebank happens outside the UD repository.
+If there are bugs, either the original data source or the conversion procedure must be fixed.
+Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
+| Lemmas | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
+| UPOS | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
 | XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Features | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
+| Relations | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
 
 ## Description
 
+This Universal Dependencies (UD) Portuguese treebank is based on the
+Constraint Grammar converted version of the Bosque, which is part of
+the Floresta Sintá(c)tica treebank.
+
+
+
+This Universal Dependencies (UD) Portuguese treebank is based on
+the Constraint Grammar converted version of the Bosque, which is part
+of the Floresta Sintá(c)tica treebank.
+
+Eckhard Bick has maintained since 2008 an experimental version of the
+dependency Bosque for research, which was not aligned with either the
+Linguateca published constituent version or the 7.4 dependency version
+of the Bosque. In 2016, Eckhard Bick wrote UD conversion rules for
+Constraint Grammar input, and applied these to the updated version of
+the dependency Bosque (Linguateca site version 7.5 of March 2016).
+
+In October 2016, Alexandre Rademaker, Cláudia Freitas, Fabricio
+Chalub, Valeria de Paiva and Livy Maria Real Coelho, aiming at full
+compatibility with ConLL UD specifications, consistency-checked and
+discussed the 7.5 UD Bosque, leading to a further round of manual
+treebank corrections and conversion rule changes by Bick. The
+conversion grammar used contains some 530 rules. Of these 70 were
+simple feature mapping rules, and 130 were local MWE splitting rules,
+assigning internal structure, POS and features to MWE's from the
+Bosque. The remainder of the rules handle UD-specific dependency and
+function label changes in a context-dependent fashion. The main
+issues were raising of copula dependents to subject complements,
+inversion of prepositional dependency and a change from syntactic to
+semantic verb chain dependency.
+
+The new UD treebank retains the additional tags for NP definiteness
+and complex tenses, as well as the original syntactic function tags
+and secondary morphological tags of the original Bosque. Thus the
+treebank retains its original linguistic focus, in addition to coping
+with the machine learning uses targeted by the ConLL UD format.
+
 ## Acknowledgments
+
+The UD_Portuguese releases 1.2 to 1.4 were based on a different
+conversion of Bosque, used in the CoNLL-X Shared Task in dependency
+parsing (2006); the CoNLL version was taken and converted to the
+Prague dependency style as a part of HamleDT (since 2011). Later
+versions of HamleDT added a conversion to the Stanford dependencies
+(2014) and to Universal Dependencies (HamleDT 3.0, 2015).
+
+UD release 1.4 contained two conversions of Bosque: one labeled
+UD_Portuguese (via CoNLL 2006 and HamleDT) and another labeled
+UD_Portuguese-Bosque (the new conversion described above).
+
+The two versions were merged (and labeled UD_Portuguese) in UD release
+2.0. The merged version is based mostly on the new conversion by Bick
+et al.. The conversion by Zeman et al. was used to
+cross-validate. After the alignment of the sentences from the two
+versions, the data was split in dev, test and train following the
+distribution of sentences from Zeman et al.
+
+The conversion was implemented by Eckhard Bick and revised by:
+
+- Alexandre Rademaker
+- Fabricio Chalub
+- Claudia Freitas
+- Livy Real
+- Valeria Paiva
+
+The HamleDT conversion was implemented by Dan Zeman and revised by:
+
+- Martin Popel
+- David Mareček
+- Daniel Zeman
+- Natalia Silveira
+- André Martins
+
+
 # Statistics of UD Portuguese
 
 ## POS Tags

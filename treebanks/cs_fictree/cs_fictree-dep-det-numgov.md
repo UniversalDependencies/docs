@@ -20,19 +20,18 @@ The following 3 pairs of parts of speech are connected with `det:numgov`: <tt><a
 ~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 7 det:numgov	color:blue
-1	Mně	já	PRON	PP-S3--1-------	Case=Dat|Number=Sing|Person=1|PronType=Prs	5	obj	_	_
-2	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	5	expl:pv	_	_
-3	těch	ten	DET	PDNP2----------	Case=Gen|Gender=Neut|Number=Plur|PronType=Dem	4	det	_	_
-4	přání	přání	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	5	nsubj	_	_
-5	nesplnilo	splnit	VERB	VpNS----R-NA---	Gender=Neut|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-6	už	už	PART	TT-------------	_	7	advmod:emph	_	_
-7	tolik	tolik	DET	Ca--1----------	Case=Nom|NumType=Card|PronType=Dem	4	det:numgov	_	_
-8	.	.	PUNCT	Z:-------------	_	5	punct	_	_
-9	.	.	PUNCT	Z:-------------	_	5	punct	_	_
-10	.	.	PUNCT	Z:-------------	_	5	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 det:numgov	color:blue
+1	Víte	vědět	VERB	VB-P---2P-AA---	Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	Z:-------------	_	3	punct	_	_
+3	mrzí	mrzet	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+4	mě	já	PRON	PH-S4--1-------	Case=Acc|Number=Sing|Person=1|PronType=Prs|Variant=Short	3	obj	_	_
+5	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	6	case	_	_
+6	životě	život	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	3	obl	_	_
+7	hodně	hodně	DET	Ca--1----------	Case=Nom|NumType=Card|PronType=Ind	8	det:numgov	_	_
+8	věcí	věc	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	3	nsubj	_	SpaceAfter=No
+9	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -51,8 +50,8 @@ The following 3 pairs of parts of speech are connected with `det:numgov`: <tt><a
 6	několik	několik	DET	Ca--1----------	Case=Nom|NumType=Card|PronType=Ind	5	det:numgov	_	_
 7	spadne	spadnout	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 8	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	9	case	_	_
-9	zem	země	NOUN	NNFS4-----A---1	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	7	obl	_	_
-10	.	.	PUNCT	Z:-------------	_	7	punct	_	_
+9	zem	země	NOUN	NNFS4-----A---1	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	7	obl	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	7	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -68,7 +67,7 @@ The following 3 pairs of parts of speech are connected with `det:numgov`: <tt><a
 3	velká	velký	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	4	amod	_	_
 4	nouze	nouze	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	2	nsubj	_	_
 5	o	o	ADP	RR--4----------	AdpType=Prep|Case=Acc	6	case	_	_
-6	byty	byt	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	4	nmod	_	_
+6	byty	byt	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	4	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	Z:-------------	_	8	punct	_	_
 8	přišlo	přijít	VERB	VpNS----R-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	2	conj	_	_
 9	sem	sem	ADV	Db-------------	_	8	advmod	_	_
@@ -81,8 +80,8 @@ The following 3 pairs of parts of speech are connected with `det:numgov`: <tt><a
 16	emigrantů	emigrant	NOUN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	12	conj	_	_
 17	ze	z	ADP	RV--2----------	AdpType=Voc|Case=Gen	19	case	_	_
 18	sousedních	sousední	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	19	amod	_	_
-19	zemí	země	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	16	nmod	_	_
-20	.	.	PUNCT	Z:-------------	_	2	punct	_	_
+19	zemí	země	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	16	nmod	_	SpaceAfter=No
+20	.	.	PUNCT	Z:-------------	_	2	punct	_	SpaceAfter=No
 
 ~~~
 

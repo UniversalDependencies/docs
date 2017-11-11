@@ -12,7 +12,7 @@ udver: '2'
 # UD Polish
 
 Language: [Polish](../pl/overview/pl-hub.html) (code: `pl`)<br/>
-Family: Indo-European, Balto-Slavic
+Family: Indo-European, Slavic
 
 This treebank has been part of Universal Dependencies since the UD v1.2 release.
 
@@ -72,6 +72,7 @@ year = {2014}
 
 
 ## Acknowledgments
+
 # Statistics of UD Polish
 
 ## POS Tags

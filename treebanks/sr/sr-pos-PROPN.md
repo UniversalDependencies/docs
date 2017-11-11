@@ -19,25 +19,25 @@ The 10 most frequent ambiguous types:  <em>Kosovo</em> (<tt><a href="sr-pos-PROP
 
 
 * <em>Kosovo</em>
-  * <tt><a href="sr-pos-PROPN.html">PROPN</a></tt> 83: <em><b>Kosovo</b> i Albanija rešavaju carinski nesporazum</em>
+  * <tt><a href="sr-pos-PROPN.html">PROPN</a></tt> 83: <em><b>Kosovo</b> je politički problem i tako sa njim treba postupati .</em>
   * <tt><a href="sr-pos-ADP.html">ADP</a></tt> 1: <em>" International conflicts cannot be solved by force , violence and violations of international law , " Serbian Secretary for <b>Kosovo</b> Oliver Ivanovic said .</em>
 * <em>Turska</em>
-  * <tt><a href="sr-pos-PROPN.html">PROPN</a></tt> 43: <em><b>Turska</b> promenila ustav</em>
+  * <tt><a href="sr-pos-PROPN.html">PROPN</a></tt> 43: <em>Da li <b>Turska</b> može sama ?</em>
   * <tt><a href="sr-pos-ADJ.html">ADJ</a></tt> 1: <em><b>Turska</b> vlada je objavila uredbu kojom se otvara put povratku stotina poseda zaplenjenih od verskih manjina posle 1936. godine .</em>
 * <em>Turske</em>
-  * <tt><a href="sr-pos-PROPN.html">PROPN</a></tt> 40: <em>On je takođe čvrsto podržao kandidaturu <b>Turske</b> za prijem u EU .</em>
+  * <tt><a href="sr-pos-PROPN.html">PROPN</a></tt> 40: <em>" Ako usklade aranžman MMF sa interesima <b>Turske</b> , potpisaćemo ga ...</em>
   * <tt><a href="sr-pos-ADJ.html">ADJ</a></tt> 1: <em>" Nama treba novac od MMF-a , ali ovo je ozbiljno pitanje i ne može se raditi pre kolena " , izjavio je Mehmet Bujukeksi , predsednik <b>Turske</b> skupštine izvoznika ( TIM ) .</em>
 * <em>Bugarska</em>
   * <tt><a href="sr-pos-PROPN.html">PROPN</a></tt> 38: <em><b>Bugarska</b> je osvojila prvo mesto u ženskom atletskom finalu na 62.</em>
   * <tt><a href="sr-pos-ADJ.html">ADJ</a></tt> 2: <em><b>Bugarska</b> vojska pomaže u raščišćavanju štete izazvane poplavama</em>
 * <em>Hrvatska</em>
-  * <tt><a href="sr-pos-PROPN.html">PROPN</a></tt> 37: <em><b>Hrvatska</b> pozvana da ubrza reforme potrebne za ulazak u EU</em>
+  * <tt><a href="sr-pos-PROPN.html">PROPN</a></tt> 37: <em><b>Hrvatska</b> dobija 150 benzinskih stanica od ruskog naftnog giganta .</em>
   * <tt><a href="sr-pos-ADJ.html">ADJ</a></tt> 7: <em><b>Hrvatska</b> kompanija za naftu i gas INA uzela je udruženi kredit od 741 miliona evra , navodi se u zvaničnom saopštenju Zagrebačke berze .</em>
 * <em>SETimes</em>
   * <tt><a href="sr-pos-ADP.html">ADP</a></tt> 70: <em><b>SETimes</b> : Da li ste kontaktirali vlasti u Tirani ?</em>
   * <tt><a href="sr-pos-PROPN.html">PROPN</a></tt> 34: <em>KFOR uopšte nije bio umešan " , izjavio je Novicki za <b>SETimes</b> .</em>
 * <em>Hrvatske</em>
-  * <tt><a href="sr-pos-PROPN.html">PROPN</a></tt> 29: <em>Dvostruka prekretnica <b>Hrvatske</b></em>
+  * <tt><a href="sr-pos-PROPN.html">PROPN</a></tt> 29: <em>Otopljavanje odnosa između <b>Hrvatske</b> i Slovenije</em>
   * <tt><a href="sr-pos-ADJ.html">ADJ</a></tt> 4: <em>Čovek prolazi pored izbornog plakata <b>Hrvatske</b> narodne stranke u Zagrebu .</em>
 * <em>Bugarske</em>
   * <tt><a href="sr-pos-PROPN.html">PROPN</a></tt> 27: <em>Težnja <b>Bugarske</b> za smanjenjem energetske zavisnosti zabrinjava eko-aktiviste</em>

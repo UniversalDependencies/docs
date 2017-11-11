@@ -242,8 +242,9 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 * `EMPTY` (314): <em>[name:personal], [name:surname], [name:address], [name:organisation], [name:place]</em>
 
 <table>
-  <tr><th>Paradigm <i>Herman</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>herman</em></td><td><em>hermani</em></td></tr>
+  <tr><th>Paradigm <i>Slovenec</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="sl_sst-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>slovenca</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sl_sst-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>slovenec</em></td><td><em>slovenci</em></td></tr>
 </table>
 
 `Number` seems to be **lexical feature** of `PROPN`. 99% lemmas (304) occur only with one value of `Number`.

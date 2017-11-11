@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 2 different values: `Past`, `Pres`.
 
 7591 tokens (15%) have a non-empty value of `Tense`.
-1020 types (17%) occur at least once with a non-empty value of `Tense`.
-791 lemmas (15%) occur at least once with a non-empty value of `Tense`.
+1030 types (17%) occur at least once with a non-empty value of `Tense`.
+797 lemmas (15%) occur at least once with a non-empty value of `Tense`.
 The feature is used with 2 part-of-speech tags: <tt><a href="af-pos-VERB.html">VERB</a></tt> (4317; 9% instances), <tt><a href="af-pos-AUX.html">AUX</a></tt> (3274; 7% instances).
 
 ### `VERB`

@@ -60,29 +60,28 @@ The following 11 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 
 
 ~~~ conllu
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
 # visual-style 16	bgColor:blue
 # visual-style 16	fgColor:white
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 17 16 xcomp	color:blue
-1	In	in	ADP	SVS	AdpType=Prep	3	case	_	_
-2	hierdie	hierdie	DET	PA	PronType=Dem	3	det	_	_
-3	opsig	opsig	NOUN	NSE	Number=Sing	8	obl	_	_
-4	is	is	AUX	VTHOK	Tense=Pres|VerbForm=Fin,Inf|VerbType=Cop	8	cop	_	_
-5	daar	daar	PRON	UXD	PronType=Ind	4	amod	_	_
-6	'n	'n	DET	LO	Definite=Ind|PronType=Art	8	det	_	_
-7	dringende	dring	ADJ	ASA	AdjType=Attr|Case=Nom|Degree=Pos	8	amod	_	_
-8	behoefte	behoefte	NOUN	NSE	Number=Sing	0	root	_	_
-9	om	om	ADP	SVS	AdpType=Prep	17	case	_	_
+# visual-style 16 15 xcomp	color:blue
+1	Wanneer	wanneer	PRON	PB	PronType=Rel	9	amod	_	_
+2	die	die	DET	LB	Definite=Def|PronType=Art	3	det	_	_
+3	saadlot	saadlot	NOUN	NSE	Number=Sing	4	nsubj	_	_
+4	gereed	gereed	ADJ	ASP	AdjType=Pred|Case=Nom|Degree=Pos	1	obj	_	_
+5	is	is	AUX	VTHOK	Tense=Pres|VerbForm=Fin,Inf|VerbType=Cop	4	cop	_	_
+6	vir	vir	ADP	SVS	AdpType=Prep	7	case	_	_
+7	monsterneming	monsterneming	NOUN	NSE	Number=Sing	4	obl	_	SpaceAfter=No
+8	,	,	PUNCT	ZM	_	7	punct	_	_
+9	kontak	kontak	VERB	VTHOG	Subcat=Tran|Tense=Pres|VerbForm=Fin,Inf	0	root	_	_
 10	die	die	DET	LB	Definite=Def|PronType=Art	11	det	_	_
-11	menseregte-krisis	menseregte-krisis	NOUN	NSE	Number=Sing	17	obj	_	_
-12	in	in	ADP	SVS	AdpType=Prep	14	case	_	_
-13	daardie	daardie	DET	PA	PronType=Dem	14	det	_	_
-14	land	land	NOUN	NSE	Number=Sing	17	obl	_	_
-15	te	te	PART	UPI	PartType=Inf	17	mark	_	_
-16	help	help	AUX	VTUOA	Tense=Pres|VerbForm=Fin,Inf|VerbType=Aux	17	xcomp	_	_
-17	aanspreek	aanspreek	VERB	VTHSG	Subcat=Tran|Tense=Pres|VerbForm=Fin,Inf	8	nmod	_	SpaceAfter=No
-18	.	.	PUNCT	ZE	_	17	punct	_	_
+11	ouditbeampte	ouditbeampte	NOUN	NSE	Number=Sing	9	obj	_	_
+12	om	om	ADP	SVS	AdpType=Prep	16	case	_	_
+13	monsters	monster	NOUN	NSM	Number=Plur	16	obj	_	_
+14	te	te	PART	UPI	PartType=Inf	16	mark	_	_
+15	kom	kom	AUX	VTUOA	Tense=Pres|VerbForm=Fin,Inf|VerbType=Aux	16	xcomp	_	_
+16	neem	neem	VERB	VTHOG	Subcat=Tran|Tense=Pres|VerbForm=Fin,Inf	11	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	ZE	_	16	punct	_	_
 
 ~~~
 

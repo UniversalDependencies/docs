@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-15512 nodes (5%) are attached to their parents as `amod`.
+16100 nodes (5%) are attached to their parents as `amod`.
 
-10725 instances of `amod` (69%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.26869520371325.
+11122 instances of `amod` (69%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.26701863354037.
 
-The following 11 pairs of parts of speech are connected with `amod`: <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-ADJ.html">ADJ</a></tt> (14777; 95% instances), <tt><a href="it-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it-pos-ADJ.html">ADJ</a></tt> (390; 3% instances), <tt><a href="it-pos-PRON.html">PRON</a></tt>-<tt><a href="it-pos-ADJ.html">ADJ</a></tt> (143; 1% instances), <tt><a href="it-pos-VERB.html">VERB</a></tt>-<tt><a href="it-pos-ADJ.html">ADJ</a></tt> (97; 1% instances), <tt><a href="it-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it-pos-ADJ.html">ADJ</a></tt> (64; 0% instances), <tt><a href="it-pos-NUM.html">NUM</a></tt>-<tt><a href="it-pos-ADJ.html">ADJ</a></tt> (21; 0% instances), <tt><a href="it-pos-ADV.html">ADV</a></tt>-<tt><a href="it-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="it-pos-X.html">X</a></tt>-<tt><a href="it-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="it-pos-SYM.html">SYM</a></tt>-<tt><a href="it-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="it-pos-X.html">X</a></tt>-<tt><a href="it-pos-X.html">X</a></tt> (2; 0% instances).
+The following 11 pairs of parts of speech are connected with `amod`: <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-ADJ.html">ADJ</a></tt> (15340; 95% instances), <tt><a href="it-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it-pos-ADJ.html">ADJ</a></tt> (404; 3% instances), <tt><a href="it-pos-PRON.html">PRON</a></tt>-<tt><a href="it-pos-ADJ.html">ADJ</a></tt> (148; 1% instances), <tt><a href="it-pos-VERB.html">VERB</a></tt>-<tt><a href="it-pos-ADJ.html">ADJ</a></tt> (99; 1% instances), <tt><a href="it-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it-pos-ADJ.html">ADJ</a></tt> (67; 0% instances), <tt><a href="it-pos-NUM.html">NUM</a></tt>-<tt><a href="it-pos-ADJ.html">ADJ</a></tt> (21; 0% instances), <tt><a href="it-pos-ADV.html">ADV</a></tt>-<tt><a href="it-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="it-pos-SYM.html">SYM</a></tt>-<tt><a href="it-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="it-pos-X.html">X</a></tt>-<tt><a href="it-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="it-pos-X.html">X</a></tt>-<tt><a href="it-pos-X.html">X</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -61,22 +61,22 @@ The following 11 pairs of parts of speech are connected with `amod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 amod	color:blue
-1	È	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
-2	duro	duro	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
-3	ammetter	ammettere	VERB	V	VerbForm=Inf	2	csubj	_	_
-4	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
-5	,	,	PUNCT	FF	_	10	punct	_	_
-6	ma	ma	CCONJ	CC	_	10	cc	_	_
-7	qualcuno	qualcuno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	10	nsubj	_	_
-8	insostituibile	insostituibile	ADJ	A	Number=Sing	7	amod	_	_
-9	c'	ci	PRON	PC	Clitic=Yes|PronType=Prs	10	expl	_	SpaceAfter=No
-10	è	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	SpaceAfter=No
-11	.	.	PUNCT	FS	_	2	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 amod	color:blue
+1	Quale	quale	DET	DQ	Number=Sing|PronType=Int	2	det	_	_
+2	animale	animale	ADJ	A	Number=Sing	3	nsubj	_	_
+3	ha	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
+5	impronte	impronta	NOUN	S	Gender=Fem|Number=Plur	3	obj	_	_
+6	digitali	digitale	ADJ	A	Number=Plur	5	amod	_	_
+7	simili	simile	ADJ	A	Number=Plur	5	amod	_	_
+8	a	a	ADP	E	_	9	case	_	_
+9	quelle	quello	PRON	PD	Gender=Fem|Number=Plur|PronType=Dem	7	obl	_	_
+10	umane	umano	ADJ	A	Gender=Fem|Number=Plur	9	amod	_	SpaceAfter=No
+11	?	?	PUNCT	FS	_	3	punct	_	_
 
 ~~~
 

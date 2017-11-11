@@ -17,21 +17,17 @@ The following 23 pairs of parts of speech are connected with `amod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 amod	color:blue
-1	Bar	bar	ADV	_	Degree=Pos	6	discourse	_	_
-2	na	na	ADP	_	Case=Loc	3	case	_	_
-3	papiru	papir	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	3	punct	_	_
-5	to	taj	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	_
-6	izgleda	izgledati	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
-7	kao	kao	SCONJ	_	_	9	case	_	_
-8	odlična	odličan	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
-9	ideja	ideja	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	6	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 amod	color:blue
+1	Crnogorski	crnogorski	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+2	nilski	nilski	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	konj	konj	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+4	Nikica	Nikica	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	3	flat	_	_
+5	ide	ići	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
+6	kući	kuća	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	5	obl	_	_
 
 ~~~
 
@@ -42,14 +38,14 @@ The following 23 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 amod	color:blue
-1	Sporazume	sporazum	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	4	obj	_	_
-2	su	biti	AUX	_	Number=Plur|Person=3|Tense=Pres	4	aux	_	_
-3	različito	različito	ADV	_	Degree=Pos	4	advmod	_	_
-4	primili	primiti	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
-5	i	i	CCONJ	_	_	7	advmod	_	_
-6	kosovski	kosovski	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	7	amod	_	_
-7	Srbi	Srbin	PROPN	_	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	4	punct	_	_
+1	Domaćin	domaćin	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
+2	konvencije	konvencija	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
+3	bio	biti	AUX	_	Gender=Masc|Number=Sing|VerbForm=Part	5	cop	_	_
+4	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	5	aux	_	_
+5	Savez	savez	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+6	vojvođanskih	vojvođanski	ADJ	_	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	7	amod	_	_
+7	Mađara	Mađar	PROPN	_	Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

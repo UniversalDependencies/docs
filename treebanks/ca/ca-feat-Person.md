@@ -91,7 +91,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 <table>
   <tr><th>Paradigm <i>es</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
   <tr><td><tt>_</tt></td><td></td><td><em>es, s', s, se</em></td></tr>
-  <tr><td><tt><tt><a href="ca-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>nos, 'ns</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ca-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>'ns, nos</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ca-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td></td><td><em>es, s'</em></td></tr>
 </table>
 

@@ -52,7 +52,9 @@ The most frequent other feature values with which `VERB` and `Form` co-occurred:
 
 ### `ADJ`
 
-104 <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> tokens (11% of all `ADJ` tokens) have a non-empty value of `Form`.
+104 <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> tokens (14% of all `ADJ` tokens) have a non-empty value of `Form`.
+
+The most frequent other feature values with which `ADJ` and `Form` co-occurred: <tt><a href="ja_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (104; 100%).
 
 `ADJ` tokens may have the following values of `Form`:
 

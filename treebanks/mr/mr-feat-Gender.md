@@ -76,7 +76,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 <table>
   <tr><th>Paradigm <i>तो</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="mr-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="mr-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>_, त्याला, तो</td><td>ती</td><td>त्याला, ते</td></tr>
+  <tr><td><tt><tt><a href="mr-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="mr-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>तो, _, त्याला</td><td>ती</td><td>ते, त्याला</td></tr>
   <tr><td><tt><tt><a href="mr-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="mr-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>त्याला</td><td>तिला</td><td>त्याला</td></tr>
   <tr><td><tt><tt><a href="mr-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="mr-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>त्यांना</td><td></td><td>त्यांना</td></tr>
   <tr><td><tt><tt><a href="mr-feat-Case.html">Case</a></tt><tt>=Erg</tt>|<tt><a href="mr-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>त्याने</td><td>तिने</td><td></td></tr>
@@ -149,9 +149,8 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 * `EMPTY` (65): थोड्या सुखी अंधाऱ्या काही जुन्या तेथील दूर मोठ्या लहान साऱ्या
 
 <table>
-  <tr><th>Paradigm <i>जुना</i></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="mr-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>जुने</td></tr>
-  <tr><td><tt><tt><a href="mr-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>जुने</td><td></td></tr>
+  <tr><th>Paradigm <i>असा</i></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt></tt></td><td>असा, _</td><td>असे</td></tr>
 </table>
 
 ### `DET`

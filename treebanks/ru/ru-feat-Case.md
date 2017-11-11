@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 <table>
   <tr><th>Paradigm <i>ХОД</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th><th><tt>Par</tt></th></tr>
-  <tr><td><tt><tt><a href="ru-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ход</em></td><td><em>ход</em></td><td><em>ходу</em></td><td><em>ходу, хода</em></td><td><em>ходе</em></td><td><em>ходом</em></td><td><em>ходу</em></td></tr>
+  <tr><td><tt><tt><a href="ru-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ход</em></td><td><em>ход</em></td><td><em>ходу</em></td><td><em>хода, ходу</em></td><td><em>ходе</em></td><td><em>ходом</em></td><td><em>ходу</em></td></tr>
   <tr><td><tt><tt><a href="ru-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td><em>ходов</em></td><td></td><td></td><td></td></tr>
 </table>
 

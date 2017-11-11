@@ -17,44 +17,46 @@ The following 23 pairs of parts of speech are connected with `obj`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 9 obj	color:blue
-1	Bitići	Bitići	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
-2	kaže	kazati	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
-3	da	da	SCONJ	_	_	7	mark	_	_
-4	bi	biti	AUX	_	Number=Plur|Person=3|Tense=Past	7	aux	_	_
-5	jači	jak	ADJ	_	Case=Nom|Definite=Def|Degree=Cmp|Gender=Masc|Number=Plur	6	amod	_	_
-6	sindikati	sindikat	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
-7	doneli	doneti	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	2	ccomp	_	_
-8	bolje	dobar	ADJ	_	Case=Acc|Definite=Def|Degree=Cmp|Gender=Masc|Number=Plur	9	amod	_	_
-9	ishode	ishod	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	7	obj	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 obj	color:blue
+1	"	"	PUNCT	_	_	3	punct	_	SpaceAfter=No
+2	Ona	on	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	voli	voleti	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
+4	blato	blato	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
+5	više	mnogo	ADV	_	Degree=Cmp	3	advmod	_	_
+6	nego	nego	CCONJ	_	_	8	cc	_	_
+7	sam	sam	ADJ	_	Animacy=Inan|Case=Acc|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	život	život	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	conj	_	SpaceAfter=No
+9	"	"	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 12 obj	color:blue
-1	Međutim	međutim	ADV	_	Degree=Pos	4	discourse	_	SpaceAfter=No
-2	,	,	PUNCT	_	_	1	punct	_	_
-3	on	on	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-4	mora	morati	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
-5	da	da	SCONJ	_	_	6	mark	_	_
-6	premosti	premostiti	VERB	_	Number=Sing|Person=3|Tense=Pres	4	xcomp	_	_
-7	više	mnogo	ADV	_	Degree=Cmp	8	det:numgov	_	_
-8	izazova	izazov	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	6	obj	_	_
-9	da	da	SCONJ	_	_	11	mark	_	_
-10	bi	biti	AUX	_	Number=Sing|Person=3|Tense=Past	11	aux	_	_
-11	uradio	uraditi	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	6	ccomp	_	_
-12	to	taj	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	11	obj	_	SpaceAfter=No
-13	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 obj	color:blue
+1	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
+2	Nikica	Nikica	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+3	ga	on	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	obj	_	_
+4	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	5	aux	_	_
+5	odbila	odbiti	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+6	od	od	ADP	_	Case=Gen	8	case	_	_
+7	samog	sam	ADJ	_	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	početka	početak	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	14	punct	_	_
+10	ali	ali	CCONJ	_	_	14	cc	_	_
+11	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	14	aux	_	_
+12	on	on	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
+13	bio	biti	AUX	_	Gender=Masc|Number=Sing|VerbForm=Part	14	cop	_	_
+14	uporan	uporan	ADJ	_	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	conj	_	SpaceAfter=No
+15	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

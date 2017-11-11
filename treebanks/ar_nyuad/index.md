@@ -20,7 +20,7 @@ The following people have contributed to making this treebank part of UD: Nizar 
 
 Repository: [UD_Arabic-NYUAD](https://github.com/UniversalDependencies/UD_Arabic-NYUAD)
 
-License: CC BY-SA 4.0
+License: CC BY-SA 4.0. The underlying text is not included; the user must obtain it separately and then merge with the UD annotation using a script distributed with UD
 
 Genre: news
 
@@ -28,18 +28,36 @@ Questions, comments?
 General annotation questions (either Arabic-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Arabic-NYUAD/issues).
 If you want to collaborate, please contact [dima&nbsp;•&nbsp;taji&nbsp;(æt)&nbsp;nyu&nbsp;•&nbsp;edu].
+Development of the treebank happens outside the UD repository.
+If there are bugs, either the original data source or the conversion procedure must be fixed.
+Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
-| XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Lemmas | annotated manually in non-UD style, automatically converted to UD |
+| UPOS | annotated manually in non-UD style, automatically converted to UD |
+| XPOS | annotated manually |
+| Features | annotated manually in non-UD style, automatically converted to UD |
+| Relations | annotated manually in non-UD style, automatically converted to UD |
 
 ## Description
 
+The NYUAD Arabic UD treebank is based on the Penn Arabic Treebank (PATB), parts 1, 2, and 3, through conversion to CATiB dependency trees.
+
+
+
+
+The treebank consists of 19,738 sentences (738889 tokens), and its domain is mainly newswire. The annotation is licensed under the terms of CC BY-SA 4.0, and the original PATB can be obtained from the LDC’s official website.
+
+The morphological and syntactic annotation of the NYUAD Arabic UD treebank is created through automatic conversion of the PATB data.
+
+
 ## Acknowledgments
+
+We would like to thank the Linguistic Data Consortium's Arabic language group, and particularly Dr. Mohamed Maamouri and Drs Ann Bies and Seth Kulick, as well as the rest of the annotation team who participated in creating the Penn Arabic Treebank. We also would like to thank Reem Faraj, Ryan Roth and the annotators of the Columbia Arabic Treebank. The development of the the NYUAD Arabic UD treebank relied heavily on these two efforts.
+
+
+
 # Statistics of UD Arabic NYUAD
 
 ## POS Tags

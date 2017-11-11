@@ -19,19 +19,19 @@ The 10 most frequent ambiguous types:  <em>u</em> (<tt><a href="sr-pos-ADP.html"
 
 
 * <em>u</em>
-  * <tt><a href="sr-pos-ADP.html">ADP</a></tt> 2719: <em>Kazna medijskom mogulu obnovila debatu <b>u</b> Makedoniji</em>
+  * <tt><a href="sr-pos-ADP.html">ADP</a></tt> 2719: <em>Nikica je živela <b>u</b> odmaralištu od svoje treće godine .</em>
   * <tt><a href="sr-pos-CCONJ.html">CCONJ</a></tt> 1: <em>U svom pozdravnom govoru , Gul je istakao da su i Turska <b>u</b> Saudijska Arabija pretrpele terorističke napade i da bi konflikti trebalo da se rešavaju dijalogom .</em>
 * <em>za</em>
-  * <tt><a href="sr-pos-ADP.html">ADP</a></tt> 1116: <em>" Nezavisan pravosudni sistem je ključan <b>za</b> razvoj zemlje .</em>
+  * <tt><a href="sr-pos-ADP.html">ADP</a></tt> 1116: <em>Međutim , Vesna Đurović iznela je seno i hleb <b>za</b> veliku vegetarijanku .</em>
   * <tt><a href="sr-pos-AUX.html">AUX</a></tt> 1: <em>Jahta <b>za</b> zaplenjena i stavljena na aukciju pošto vlasnik , brodovlasnički magnat Džon Pol Papanikolau , nije platio lučku naknadu u Luci Lenac , gde je planirao da bude renovirana .</em>
 * <em>od</em>
-  * <tt><a href="sr-pos-ADP.html">ADP</a></tt> 478: <em>" Jedna <b>od</b> najvažnijih državnih institucija je paralisana .</em>
+  * <tt><a href="sr-pos-ADP.html">ADP</a></tt> 478: <em>Nikica je živela u odmaralištu <b>od</b> svoje treće godine .</em>
   * <tt><a href="sr-pos-SCONJ.html">SCONJ</a></tt> 4: <em>Odnosi dveju zemalja zategnuti su <b>od</b> kako je Makedonija prošle godine priznala Kosovo .</em>
 * <em>posle</em>
   * <tt><a href="sr-pos-ADP.html">ADP</a></tt> 85: <em>Oružje kojim je izvršeno ubistvo pronađeno je ubrzo <b>posle</b> toga .</em>
   * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 2: <em>Bugarska je prodala svoju monopolističku firmu za proizvodnju duvana Bulgartabak <b>posle</b> pet neuspešnih pokušaja u proteklih trinaest godina .</em>
 * <em>po</em>
-  * <tt><a href="sr-pos-ADP.html">ADP</a></tt> 78: <em>Zdeslav Vrdoljak i Samir Varać postigli su <b>po</b> jedan .</em>
+  * <tt><a href="sr-pos-ADP.html">ADP</a></tt> 78: <em>Nikica je poznata <b>po</b> tome da jede i do 50 kilograma hleba dnevno .</em>
   * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 3: <em>Očigledno smo lagali proteklih godinu i <b>po</b> do dve .</em>
 * <em>SETimes</em>
   * <tt><a href="sr-pos-ADP.html">ADP</a></tt> 70: <em><b>SETimes</b> : Da li ste kontaktirali vlasti u Tirani ?</em>
@@ -42,8 +42,8 @@ The 10 most frequent ambiguous types:  <em>u</em> (<tt><a href="sr-pos-ADP.html"
   * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 6: <em>" Moj život nije kao što je bio <b>pre</b> .</em>
   * <tt><a href="sr-pos-NOUN.html">NOUN</a></tt> 1: <em>Banke očekuju da kreditne , <b>pre</b> nego debitne kartice , dožive najspektakularniji rast .</em>
 * <em>oko</em>
-  * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 56: <em>" Postoji <b>oko</b> 375 narko-kartela koji snabdevaju Evropu i Rusiju .</em>
-  * <tt><a href="sr-pos-ADP.html">ADP</a></tt> 47: <em>SETimes : Kakav je stav poslovne zajednice na Kosovu <b>oko</b> tog pitanja ?</em>
+  * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 56: <em>Lekari i nastavnici sada dobijaju <b>oko</b> 400 evra mesečno .</em>
+  * <tt><a href="sr-pos-ADP.html">ADP</a></tt> 47: <em>Svađa <b>oko</b> piramide u Tirani</em>
 * <em>preko</em>
   * <tt><a href="sr-pos-ADP.html">ADP</a></tt> 38: <em>Trgovinske transakcije <b>preko</b> interneta takođe su u porastu .</em>
   * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 1: <em>Premijer je odluku o ostavci prvi put najavio 7. jula , dan nakon što je Ustavni sud delimično odbacio reformske nacrte zakona koji su <b>preko</b> potrebni za prijem Rumunije u EU 2007. godine .</em>

@@ -28,18 +28,51 @@ Questions, comments?
 General annotation questions (either Irish-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Irish/issues).
 If you want to collaborate, please contact [teresa&nbsp;•&nbsp;lynn&nbsp;(æt)&nbsp;adaptcentre&nbsp;•&nbsp;ie; jennifer&nbsp;•&nbsp;foster&nbsp;(æt)&nbsp;dcu&nbsp;•&nbsp;ie].
+Development of the treebank happens outside the UD repository.
+If there are bugs, either the original data source or the conversion procedure must be fixed.
+Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
-| XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Lemmas | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
+| UPOS | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
+| XPOS | assigned by a program, with some manual corrections, but not a full manual verification |
+| Features | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
+| Relations | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
 
 ## Description
 
+A Universal Dependencies 1020-sentence treebank for modern Irish.
+
+
+
+The Irish UD Treebank is a conversion of the Irish Dependency Treebank
+(IDT).
+
+IDT development was part of a PhD research project by Teresa Lynn at Dublin City University, Ireland (Lynn, 2016). The IDT data has
+been released on [GitHub] (https://github.com/tlynn747/IrishDependencyTreebank). The Treebank
+contains 1020 sentences taken from the New Corpus of Ireland-Irish
+(NCII), with text from books, newswire, websites and other media. These sentences are a subset of a gold-standard POS-tagged corpus for Irish.
+
+The conversion from the IDT annotation scheme to the UD annotation scheme was designed by Teresa Lynn and Jennifer Foster at Dublin City University, Ireland. The mapping to UD is reported in Lynn et al., (2016)
+
+The UD Treebank is split into three sets as follows:
+
+* 454 trees (test)
+* 445 trees - 11,533 tokens (dev)
+* 121 trees - 3425 tokens (train)
+
+Note: the split was formerly 150- test, 150-dev, 720-train, but have split as above for the 2017 CoNLL shared task on dependency parsing.
+
 ## Acknowledgments
+
+We wish to thank all of the contributors to the original IDT annotation, including Elaine Uí Dhonnchadha for her gold POS-tagged corpus and linguistic advice. We would also like to acknowledge linguistic advice offered by Kevin Scannell in the conversion to UD effort.
+
+This research is partially supported by Science Foundation Ireland through the ADAPT Centre for Digital Content Technology. The ADAPT Centre for Digital Content Technology is funded under the SFI Research Centres Programme (Grant 13/RC/2106)
+and is co-funded under the European Regional Development Fund.
+
+
+
 # Statistics of UD Irish
 
 ## POS Tags

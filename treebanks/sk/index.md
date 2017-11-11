@@ -12,7 +12,7 @@ udver: '2'
 # UD Slovak
 
 Language: [Slovak](../sk/overview/sk-hub.html) (code: `sk`)<br/>
-Family: Indo-European, Balto-Slavic
+Family: Indo-European, Slavic
 
 This treebank has been part of Universal Dependencies since the UD v1.4 release.
 
@@ -87,6 +87,7 @@ vol. 68, no. 2, pp. 385-395
 
 
 ## Acknowledgments
+
 # Statistics of UD Slovak
 
 ## POS Tags

@@ -12,7 +12,7 @@ udver: '2'
 # UD Hindi
 
 Language: [Hindi](../hi/overview/hi-hub.html) (code: `hi`)<br/>
-Family: Indo-European, Indo-Iranian
+Family: Indo-European, Indic
 
 This treebank has been part of Universal Dependencies since the UD v1.2 release.
 
@@ -40,6 +40,7 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
 ## Description
 
 ## Acknowledgments
+
 # Statistics of UD Hindi
 
 ## POS Tags

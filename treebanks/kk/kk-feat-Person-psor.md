@@ -75,7 +75,7 @@ The most frequent other feature values with which `PRON` and `Person[psor]` co-o
 
 <table>
   <tr><th>Paradigm <i>өз</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="kk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kk-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur,Sing</tt>|<tt><a href="kk-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>өзін-өзі, өзін</em></td></tr>
+  <tr><td><tt><tt><a href="kk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="kk-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur,Sing</tt>|<tt><a href="kk-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>өзін, өзін-өзі</em></td></tr>
   <tr><td><tt><tt><a href="kk-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="kk-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="kk-feat-Person-psor.html">Person[psor]</a></tt><tt>=2</tt>|<tt><a href="kk-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td></td><td><em>өзіңіздің</em></td><td></td></tr>
   <tr><td><tt><tt><a href="kk-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="kk-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur,Sing</tt>|<tt><a href="kk-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>өзінің</em></td></tr>
   <tr><td><tt><tt><a href="kk-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="kk-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt>|<tt><a href="kk-feat-Person-psor.html">Person[psor]</a></tt><tt>=1</tt></tt></td><td><em>өзіміздің</em></td><td></td><td></td></tr>

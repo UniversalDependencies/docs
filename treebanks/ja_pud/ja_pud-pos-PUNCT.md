@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Japanese-PUD: POS Tags: `PUNCT`
 
 There are 10 `PUNCT` lemmas (0%), 13 `PUNCT` types (0%) and 2956 `PUNCT` tokens (11%).
-Out of 14 observed tags, the rank of `PUNCT` is: 13 in number of lemmas, 13 in number of types and 4 in number of tokens.
+Out of 15 observed tags, the rank of `PUNCT` is: 13 in number of lemmas, 13 in number of types and 4 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: 、, 。, 「, 」, ), (, 『, ?, 。」, .
 
@@ -40,7 +40,7 @@ The 3rd highest number of forms (2) was observed with the lemma “」”: 」, 
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 2 different relations: <tt><a href="ja_pud-dep-punct.html">punct</a></tt> (2875; 97% instances), <tt><a href="ja_pud-dep-compound.html">compound</a></tt> (81; 3% instances)
+`PUNCT` nodes are attached to their parents using 1 different relations: <tt><a href="ja_pud-dep-punct.html">punct</a></tt> (2956; 100% instances)
 
 Parents of `PUNCT` nodes belong to 12 different parts of speech: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (1370; 46% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (900; 30% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (254; 9% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (143; 5% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (80; 3% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (73; 2% instances), <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (60; 2% instances), <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (32; 1% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (30; 1% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (8; 0% instances), <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="ja_pud-pos-PART.html">PART</a></tt> (2; 0% instances)
 

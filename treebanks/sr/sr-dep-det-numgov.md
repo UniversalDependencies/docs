@@ -17,16 +17,18 @@ The following 6 pairs of parts of speech are connected with `det:numgov`: <tt><a
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 det:numgov	color:blue
-1	Toliko	toliko	ADV	_	Degree=Pos	3	det:numgov	_	_
-2	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	4	aux	_	_
-3	radnika	radnik	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	obj	_	_
-4	otpušteno	otpustiti	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part	0	root	_	SpaceAfter=No
-5	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 4 det:numgov	color:blue
+1	I	i	CCONJ	_	_	3	discourse	_	_
+2	tu	tu	ADV	_	Degree=Pos	3	advmod	_	_
+3	ima	imati	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
+4	mnogo	mnogo	ADV	_	Degree=Pos	6	det:numgov	_	_
+5	uspešnih	uspešan	ADJ	_	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	6	amod	_	_
+6	slučajeva	slučaj	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	3	nsubj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

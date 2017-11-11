@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Afrikaans: POS Tags: `NOUN`
 
-There are 2780 `NOUN` lemmas (48%), 3169 `NOUN` types (49%) and 10459 `NOUN` tokens (21%).
+There are 2787 `NOUN` lemmas (48%), 3177 `NOUN` types (49%) and 10459 `NOUN` tokens (21%).
 Out of 16 observed tags, the rank of `NOUN` is: 1 in number of lemmas, 1 in number of types and 1 in number of tokens.
 
 The 10 most frequent `NOUN` lemmas: jaar land aansoek leerder regering mens inligting diens departement gebruiker
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  staat (<tt><a href="af-pos-NOUN.html">NOU
 
 ## Morphology
 
-The form / lemma ratio of `NOUN` is 1.139928 (the average of all parts of speech is 1.120202).
+The form / lemma ratio of `NOUN` is 1.139935 (the average of all parts of speech is 1.122045).
 
 The 1st highest number of forms (3) was observed with the lemma “belastingverpligting”: belastingverpligting, belastingverpligtinge, belastingverpligtings.
 

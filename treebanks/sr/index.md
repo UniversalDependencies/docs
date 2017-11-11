@@ -12,7 +12,7 @@ udver: '2'
 # UD Serbian
 
 Language: [Serbian](../sr/overview/sr-hub.html) (code: `sr`)<br/>
-Family: Indo-European, Balto-Slavic
+Family: Indo-European, Slavic
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
@@ -27,7 +27,7 @@ Genre: news, wiki
 Questions, comments?
 General annotation questions (either Serbian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Serbian/issues).
-If you want to collaborate, please contact [].
+If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(æt)&nbsp;uzh&nbsp;•&nbsp;ch].
 
 | Annotation | Source |
 |------------|--------|
@@ -40,6 +40,7 @@ If you want to collaborate, please contact [].
 ## Description
 
 ## Acknowledgments
+
 # Statistics of UD Serbian
 
 ## POS Tags

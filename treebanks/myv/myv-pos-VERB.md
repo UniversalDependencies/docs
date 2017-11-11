@@ -1,0 +1,73 @@
+---
+layout: base
+title:  'Statistics of VERB in UD_Erzya'
+udver: '2'
+---
+
+## Treebank Statistics: UD_Erzya: POS Tags: `VERB`
+
+There are 239 `VERB` lemmas (30%), 341 `VERB` types (28%) and 387 `VERB` tokens (19%).
+Out of 27 observed tags, the rank of `VERB` is: 1 in number of lemmas, 2 in number of types and 3 in number of tokens.
+
+The 10 most frequent `VERB` lemmas: кармамс меремс самс молемс учомс теемс кандомс саемс ютамс лисемс
+
+The 10 most frequent `VERB` types:  мерсь кармась арсезевсь лиссь лоткась меремс пурнавозь сась учо Сайсь
+
+The 10 most frequent ambiguous lemmas: арсемс (<tt><a href="myv-feat-Hom1.html">Hom1</a></tt> 3, <tt><a href="myv-pos-VERB.html">VERB</a></tt> 3), марямс (<tt><a href="myv-pos-VERB.html">VERB</a></tt> 3, <tt><a href="myv-feat-Ger.html">Ger</a></tt> 1), пелемс (<tt><a href="myv-pos-VERB.html">VERB</a></tt> 3, <tt><a href="myv-feat-Hom1.html">Hom1</a></tt> 1), аволь (<tt><a href="myv-pos-PART.html">PART</a></tt> 1, <tt><a href="myv-pos-VERB.html">VERB</a></tt> 1), кирнявтомс (<tt><a href="myv-feat-Ger.html">Ger</a></tt> 1, <tt><a href="myv-pos-VERB.html">VERB</a></tt> 1), комамс (<tt><a href="myv-feat-Ger.html">Ger</a></tt> 1, <tt><a href="myv-pos-VERB.html">VERB</a></tt> 1), кутмордамс (<tt><a href="myv-feat-Ger.html">Ger</a></tt> 1, <tt><a href="myv-pos-VERB.html">VERB</a></tt> 1), кутькавтомс (<tt><a href="myv-feat-Ger.html">Ger</a></tt> 1, <tt><a href="myv-pos-VERB.html">VERB</a></tt> 1), лепштямс (<tt><a href="myv-feat-Ger.html">Ger</a></tt> 1, <tt><a href="myv-pos-VERB.html">VERB</a></tt> 1), поводемс (<tt><a href="myv-feat-Ger.html">Ger</a></tt> 1, <tt><a href="myv-pos-VERB.html">VERB</a></tt> 1)
+
+The 10 most frequent ambiguous types:  Сынь (<tt><a href="myv-pos-PRON.html">PRON</a></tt> 1, <tt><a href="myv-pos-VERB.html">VERB</a></tt> 1), Я (<tt><a href="myv-pos-ADV.html">ADV</a></tt> 1, <tt><a href="myv-pos-INJ.html">INJ</a></tt> 1, <tt><a href="myv-pos-VERB.html">VERB</a></tt> 1), арсесь (<tt><a href="myv-feat-Hom1.html">Hom1</a></tt> 1, <tt><a href="myv-pos-VERB.html">VERB</a></tt> 1), лепштязь (<tt><a href="myv-feat-Ger.html">Ger</a></tt> 1, <tt><a href="myv-pos-VERB.html">VERB</a></tt> 1)
+
+
+* Сынь
+  * <tt><a href="myv-pos-PRON.html">PRON</a></tt> 1: <b>Сынь</b> кутькавтозь якасть чамаумарьганзо , сельме кертнева , эцесть пилес .
+  * <tt><a href="myv-pos-VERB.html">VERB</a></tt> 1: <b>Сынь</b> вана кудов .
+* Я
+  * <tt><a href="myv-pos-ADV.html">ADV</a></tt> 1: <b>Я</b> , тесэ цела промкс ашти .
+  * <tt><a href="myv-pos-INJ.html">INJ</a></tt> 1: — <b>Я</b> , мекс тонсь молят ? — кевкстизе сон Грунянь .
+  * <tt><a href="myv-pos-VERB.html">VERB</a></tt> 1: — <b>Я</b> , тынь эно , цёрат , — мерсь кудазоравась , — кортнеде ськамонк .
+* арсесь
+  * <tt><a href="myv-feat-Hom1.html">Hom1</a></tt> 1: Нейгак цёрась лангс ваномс ён , » — яла <b>арсесь</b> Урван .
+  * <tt><a href="myv-pos-VERB.html">VERB</a></tt> 1: Нать , <b>арсесь</b> , эрявомо карми мартонзо ве кедь лангс молицякс , мирдензэ каршо сонзэ кисэ пшкадицякс .
+* лепштязь
+  * <tt><a href="myv-feat-Ger.html">Ger</a></tt> 1: Мизолдыця турванзо кедьсэ <b>лепштязь</b> , ёжовсто цитнесь сельмсэнзэ лелянть ёнов .
+  * <tt><a href="myv-pos-VERB.html">VERB</a></tt> 1: Вить коморсо <b>лепштязь</b> нуланть эйстэ рудаз ведесь чуди кирьгаванзо .
+
+## Morphology
+
+The form / lemma ratio of `VERB` is 1.426778 (the average of all parts of speech is 1.538755).
+
+The 1st highest number of forms (8) was observed with the lemma “молемс”: молемс, молиця, молицякс, молицятнень, мольсть, мольсь, молян, молят.
+
+The 2nd highest number of forms (8) was observed with the lemma “самс”: Сынь, сазь, сак, само, самось, самоськак, сась, сыль.
+
+The 3rd highest number of forms (5) was observed with the lemma “кандомс”: кандоволь, кандозь, кандомс, кандсь, кандызе.
+
+`VERB` occurs with 59 features: <tt><a href="myv-feat-Ind.html">Ind</a></tt> (246; 64% instances), <tt><a href="myv-feat-ScSg3.html">ScSg3</a></tt> (196; 51% instances), <tt><a href="myv-feat-Prt1.html">Prt1</a></tt> (193; 50% instances), <tt><a href="myv-feat-IV.html">IV</a></tt> (168; 43% instances), <tt><a href="myv-feat-TV.html">TV</a></tt> (131; 34% instances), <tt><a href="myv-feat-Prs.html">Prs</a></tt> (51; 13% instances), <tt><a href="myv-feat-ScPl3.html">ScPl3</a></tt> (50; 13% instances), <tt><a href="myv-feat-Inf.html">Inf</a></tt> (46; 12% instances), <tt><a href="myv-feat-OcSg3.html">OcSg3</a></tt> (44; 11% instances), <tt><a href="myv-feat-Ger.html">Ger</a></tt> (31; 8% instances), <tt><a href="myv-feat-N.html">N</a></tt> (27; 7% instances), <tt><a href="myv-feat-Der/Озь.html">Der/Озь</a></tt> (25; 6% instances), <tt><a href="myv-feat-Loc.html">Loc</a></tt> (24; 6% instances), <tt><a href="myv-feat-Indef.html">Indef</a></tt> (21; 5% instances), <tt><a href="myv-feat-Sg.html">Sg</a></tt> (21; 5% instances), <tt><a href="myv-feat-Der/NomAg.html">Der/NomAg</a></tt> (18; 5% instances), <tt><a href="myv-feat-Nom.html">Nom</a></tt> (18; 5% instances), <tt><a href="myv-feat-ConNeg.html">ConNeg</a></tt> (13; 3% instances), <tt><a href="myv-feat-ScSg2.html">ScSg2</a></tt> (12; 3% instances), <tt><a href="myv-feat-Prt2.html">Prt2</a></tt> (11; 3% instances), <tt><a href="myv-feat-Def.html">Def</a></tt> (9; 2% instances), <tt><a href="myv-feat-OcPl3.html">OcPl3</a></tt> (9; 2% instances), <tt><a href="myv-feat-Imprt.html">Imprt</a></tt> (8; 2% instances), <tt><a href="myv-feat-SP.html">SP</a></tt> (8; 2% instances), <tt><a href="myv-feat-Abl.html">Abl</a></tt> (7; 2% instances), <tt><a href="myv-feat-Der/NomAct.html">Der/NomAct</a></tt> (7; 2% instances), <tt><a href="myv-feat-Foc/Гак.html">Foc/Гак</a></tt> (7; 2% instances), <tt><a href="myv-feat-OcSg1.html">OcSg1</a></tt> (7; 2% instances), <tt><a href="myv-feat-ScSg1.html">ScSg1</a></tt> (7; 2% instances), <tt><a href="myv-feat-Act.html">Act</a></tt> (5; 1% instances), <tt><a href="myv-feat-Neg.html">Neg</a></tt> (5; 1% instances), <tt><a href="myv-feat-PrsPrc.html">PrsPrc</a></tt> (5; 1% instances), <tt><a href="myv-feat-Tra.html">Tra</a></tt> (5; 1% instances), <tt><a href="myv-feat-Clt/Cop.html">Clt/Cop</a></tt> (4; 1% instances), <tt><a href="myv-feat-Der/ОвОмс.html">Der/ОвОмс</a></tt> (4; 1% instances), <tt><a href="myv-feat-Der/Ыця.html">Der/Ыця</a></tt> (4; 1% instances), <tt><a href="myv-feat-Ela.html">Ela</a></tt> (4; 1% instances), <tt><a href="myv-feat-Gen.html">Gen</a></tt> (4; 1% instances), <tt><a href="myv-feat-A.html">A</a></tt> (3; 1% instances), <tt><a href="myv-feat-ConNegII.html">ConNegII</a></tt> (3; 1% instances), <tt><a href="myv-feat-Conj.html">Conj</a></tt> (3; 1% instances), <tt><a href="myv-feat-Inch.html">Inch</a></tt> (3; 1% instances), <tt><a href="myv-feat-V.html">V</a></tt> (3; 1% instances), <tt><a href="myv-feat-Der/ОкшнОмс.html">Der/ОкшнОмс</a></tt> (2; 1% instances), <tt><a href="myv-feat-Ill.html">Ill</a></tt> (2; 1% instances), <tt><a href="myv-feat-Pl.html">Pl</a></tt> (2; 1% instances), <tt><a href="myv-feat-ScPl2.html">ScPl2</a></tt> (2; 1% instances), <tt><a href="myv-feat-Aux.html">Aux</a></tt> (1; 0% instances), <tt><a href="myv-feat-Der/Cop.html">Der/Cop</a></tt> (1; 0% instances), <tt><a href="myv-feat-Der/MWN.html">Der/MWN</a></tt> (1; 0% instances), <tt><a href="myv-feat-Der/VGen.html">Der/VGen</a></tt> (1; 0% instances), <tt><a href="myv-feat-Der/Омка.html">Der/Омка</a></tt> (1; 0% instances), <tt><a href="myv-feat-Der/немс.html">Der/немс</a></tt> (1; 0% instances), <tt><a href="myv-feat-Des.html">Des</a></tt> (1; 0% instances), <tt><a href="myv-feat-Obj3.html">Obj3</a></tt> (1; 0% instances), <tt><a href="myv-feat-OcSg2.html">OcSg2</a></tt> (1; 0% instances), <tt><a href="myv-feat-PxPl3.html">PxPl3</a></tt> (1; 0% instances), <tt><a href="myv-feat-PxSg2.html">PxSg2</a></tt> (1; 0% instances), <tt><a href="myv-feat-PxSg3.html">PxSg3</a></tt> (1; 0% instances)
+
+`VERB` occurs with 59 feature-value pairs: `A`, `Abl`, `Act`, `Aux`, `Clt/Cop`, `ConNeg`, `ConNegII`, `Conj`, `Def`, `Der/Cop`, `Der/MWN`, `Der/NomAct`, `Der/NomAg`, `Der/VGen`, `Der/ОвОмс`, `Der/Озь`, `Der/ОкшнОмс`, `Der/Омка`, `Der/Ыця`, `Der/немс`, `Des`, `Ela`, `Foc/Гак`, `Gen`, `Ger`, `IV`, `Ill`, `Imprt`, `Inch`, `Ind`, `Indef`, `Inf`, `Loc`, `N`, `Neg`, `Nom`, `Obj3`, `OcPl3`, `OcSg1`, `OcSg2`, `OcSg3`, `Pl`, `Prs`, `PrsPrc`, `Prt1`, `Prt2`, `PxPl3`, `PxSg2`, `PxSg3`, `SP`, `ScPl2`, `ScPl3`, `ScSg1`, `ScSg2`, `ScSg3`, `Sg`, `TV`, `Tra`, `V`
+
+`VERB` occurs with 102 feature combinations.
+The most frequent feature combination is `IV|Ind|Prt1|ScSg3` (52 tokens).
+Examples: мерсь кармась арсезевсь лиссь сась ацавсь лоткась пшкадсь удось чийсь
+
+
+## Relations
+
+`VERB` nodes are attached to their parents using 21 different relations: <tt><a href="myv-dep-root.html">root</a></tt> (152; 39% instances), <tt><a href="myv-dep-conj.html">conj</a></tt> (87; 22% instances), <tt><a href="myv-dep-advcl.html">advcl</a></tt> (34; 9% instances), <tt><a href="myv-dep-xcomp.html">xcomp</a></tt> (31; 8% instances), <tt><a href="myv-dep-parataxis.html">parataxis</a></tt> (19; 5% instances), <tt><a href="myv-dep-ccomp.html">ccomp</a></tt> (13; 3% instances), <tt><a href="myv-dep-advmod.html">advmod</a></tt> (9; 2% instances), <tt><a href="myv-dep-amod.html">amod</a></tt> (9; 2% instances), <tt><a href="myv-dep-acl.html">acl</a></tt> (6; 2% instances), <tt><a href="myv-dep-csubj.html">csubj</a></tt> (5; 1% instances), <tt><a href="myv-dep-nsubj.html">nsubj</a></tt> (4; 1% instances), <tt><a href="myv-dep-obl.html">obl</a></tt> (4; 1% instances), <tt><a href="myv-dep-appos.html">appos</a></tt> (3; 1% instances), <tt><a href="myv-dep-aux-neg.html">aux:neg</a></tt> (3; 1% instances), <tt><a href="myv-dep-_.html">_</a></tt> (2; 1% instances), <tt><a href="myv-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="myv-dep-aux.html">aux</a></tt> (1; 0% instances), <tt><a href="myv-dep-cc.html">cc</a></tt> (1; 0% instances), <tt><a href="myv-dep-fixed.html">fixed</a></tt> (1; 0% instances), <tt><a href="myv-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="myv-dep-punct.html">punct</a></tt> (1; 0% instances)
+
+Parents of `VERB` nodes belong to 11 different parts of speech: <tt><a href="myv-pos-VERB.html">VERB</a></tt> (186; 48% instances),  (155; 40% instances), <tt><a href="myv-pos-NOUN.html">NOUN</a></tt> (26; 7% instances), <tt><a href="myv-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="myv-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="myv-feat-Ger.html">Ger</a></tt> (3; 1% instances), <tt><a href="myv-feat-Hom1.html">Hom1</a></tt> (3; 1% instances), <tt><a href="myv-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="myv-feat-Act.html">Act</a></tt> (1; 0% instances), <tt><a href="myv-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="myv-dep-_.html">_</a></tt> (1; 0% instances)
+
+31 (8%) `VERB` nodes are leaves.
+
+53 (14%) `VERB` nodes have one child.
+
+79 (20%) `VERB` nodes have two children.
+
+224 (58%) `VERB` nodes have three or more children.
+
+The highest child degree of a `VERB` node is 8.
+
+Children of `VERB` nodes are attached using 32 different relations: <tt><a href="myv-dep-punct.html">punct</a></tt> (312; 27% instances), <tt><a href="myv-dep-obl.html">obl</a></tt> (165; 14% instances), <tt><a href="myv-dep-advmod.html">advmod</a></tt> (147; 13% instances), <tt><a href="myv-dep-nsubj.html">nsubj</a></tt> (129; 11% instances), <tt><a href="myv-dep-obj.html">obj</a></tt> (96; 8% instances), <tt><a href="myv-dep-conj.html">conj</a></tt> (86; 7% instances), <tt><a href="myv-dep-advcl.html">advcl</a></tt> (41; 4% instances), <tt><a href="myv-dep-cc.html">cc</a></tt> (35; 3% instances), <tt><a href="myv-dep-xcomp.html">xcomp</a></tt> (34; 3% instances), <tt><a href="myv-dep-mark.html">mark</a></tt> (17; 1% instances), <tt><a href="myv-dep-parataxis.html">parataxis</a></tt> (16; 1% instances), <tt><a href="myv-dep-aux-subj.html">aux:subj</a></tt> (12; 1% instances), <tt><a href="myv-dep-advmod-neg.html">advmod:neg</a></tt> (11; 1% instances), <tt><a href="myv-dep-ccomp.html">ccomp</a></tt> (11; 1% instances), <tt><a href="myv-dep-discourse.html">discourse</a></tt> (9; 1% instances), <tt><a href="myv-dep-aux.html">aux</a></tt> (8; 1% instances), <tt><a href="myv-dep-aux-neg.html">aux:neg</a></tt> (7; 1% instances), <tt><a href="myv-dep-csubj.html">csubj</a></tt> (4; 0% instances), <tt><a href="myv-dep-vocative.html">vocative</a></tt> (4; 0% instances), <tt><a href="myv-dep-nmod-gsubj.html">nmod:gsubj</a></tt> (3; 0% instances), <tt><a href="myv-dep-adv.html">adv</a></tt> (2; 0% instances), <tt><a href="myv-dep-advmod-multprf.html">advmod:multprf</a></tt> (2; 0% instances), <tt><a href="myv-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="myv-dep-aux-obj.html">aux:obj</a></tt> (2; 0% instances), <tt><a href="myv-dep-nmod-poss.html">nmod:poss</a></tt> (2; 0% instances), <tt><a href="myv-dep-2.html">2</a></tt> (1; 0% instances), <tt><a href="myv-dep-advmov.html">advmov</a></tt> (1; 0% instances), <tt><a href="myv-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="myv-dep-expl.html">expl</a></tt> (1; 0% instances), <tt><a href="myv-dep-nmod.html">nmod</a></tt> (1; 0% instances), <tt><a href="myv-dep-nmod-dsubj.html">nmod:dsubj</a></tt> (1; 0% instances), <tt><a href="myv-dep-root.html">root</a></tt> (1; 0% instances)
+
+Children of `VERB` nodes belong to 19 different parts of speech: <tt><a href="myv-pos-PUNCT.html">PUNCT</a></tt> (308; 26% instances), <tt><a href="myv-pos-NOUN.html">NOUN</a></tt> (292; 25% instances), <tt><a href="myv-pos-VERB.html">VERB</a></tt> (186; 16% instances), <tt><a href="myv-pos-ADV.html">ADV</a></tt> (119; 10% instances), <tt><a href="myv-pos-PRON.html">PRON</a></tt> (65; 6% instances), <tt><a href="myv-pos-PROPN.html">PROPN</a></tt> (52; 4% instances), <tt><a href="myv-pos-CCONJ.html">CCONJ</a></tt> (35; 3% instances), <tt><a href="myv-pos-PART.html">PART</a></tt> (35; 3% instances), <tt><a href="myv-pos-ADP.html">ADP</a></tt> (13; 1% instances), <tt><a href="myv-pos-SCONJ.html">SCONJ</a></tt> (12; 1% instances), <tt><a href="myv-feat-Ger.html">Ger</a></tt> (11; 1% instances), <tt><a href="myv-pos-INJ.html">INJ</a></tt> (8; 1% instances), <tt><a href="myv-pos-ADJ.html">ADJ</a></tt> (7; 1% instances), <tt><a href="myv-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="myv-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="myv-dep-_.html">_</a></tt> (5; 0% instances), <tt><a href="myv-feat-Hom1.html">Hom1</a></tt> (2; 0% instances), <tt><a href="myv-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="myv-pos-X.html">X</a></tt> (1; 0% instances)
+

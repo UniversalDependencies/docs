@@ -12,8 +12,8 @@ It occurs with 3 different values: `Dual`, `Plur`, `Sing`.
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="cs_fictree-feat-Number.html">Number</a></tt>, <tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt>.
 
 83698 tokens (50%) have a non-empty value of `Number`.
-26705 types (98%) occur at least once with a non-empty value of `Number`.
-12071 lemmas (87%) occur at least once with a non-empty value of `Number`.
+26706 types (98%) occur at least once with a non-empty value of `Number`.
+12065 lemmas (88%) occur at least once with a non-empty value of `Number`.
 The feature is used with 8 part-of-speech tags: <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (27596; 17% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (21819; 13% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (10889; 7% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (8093; 5% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (6193; 4% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (5611; 3% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (2255; 1% instances), <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> (1242; 1% instances).
 
 ### `NOUN`
@@ -80,7 +80,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 * `Dual` (43; 0% of non-empty `Number`): <em>holýma, Moravskýma, velkýma, otevřenýma, složenýma, černýma, andělskýma, bystrýma, dětskýma, inteligentníma</em>
 * `Plur` (2504; 23% of non-empty `Number`): <em>další, ostatní, celé, jiná, rádi, jiné, malé, velké, bílé, staré</em>
 * `Sing` (8342; 77% of non-empty `Number`): <em>celý, první, rád, jiného, poslední, další, celou, malý, druhý, hlavní</em>
-* `EMPTY` (11): <em>marx, I, Saint, dvou, make, ping, show, troj, tří, československo</em>
+* `EMPTY` (10): <em>marx, Saint, dvou, make, ping, show, troj, tří, československo</em>
 
 <table>
   <tr><th>Paradigm <i>velký</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
@@ -302,11 +302,11 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Němec</em></td><td><em>Němci</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 98% lemmas (419) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 98% lemmas (414) occur only with one value of `Number`.
 
 ### `NUM`
 
-1242 <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> tokens (88% of all `NUM` tokens) have a non-empty value of `Number`.
+1242 <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> tokens (95% of all `NUM` tokens) have a non-empty value of `Number`.
 
 The most frequent other feature values with which `NUM` and `Number` co-occurred: <tt><a href="cs_fictree-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (1237; 100%), <tt><a href="cs_fictree-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (1237; 100%), <tt><a href="cs_fictree-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (844; 68%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (775; 62%).
 
@@ -315,7 +315,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 * `Dual` (1; 0% of non-empty `Number`): <em>oběma</em>
 * `Plur` (501; 40% of non-empty `Number`): <em>dva, dvě, tři, oba, čtyři, dvou, obě, dvěma, pár, pěti</em>
 * `Sing` (740; 60% of non-empty `Number`): <em>jeden, pár, jednoho, jedna, jednu, jedné, deset, jedno, dvacet, jedním</em>
-* `EMPTY` (170): <em>1, 11, 1942, 1948, 1953, 20, 10, 1945, 2, 7</em>
+* `EMPTY` (71): <em>1, 1942, 1948, 1953, 11, 1945, 20, 10, 1938, 1943</em>
 
 <table>
   <tr><th>Paradigm <i>pár</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -338,9 +338,9 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="cs_fictree-dep-obl.html">obl</a></tt>]--> NOUN</tt> (4399; 66%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4390; 97%),
 <tt>NOUN --[<tt><a href="cs_fictree-dep-det.html">det</a></tt>]--> DET</tt> (4086; 100%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-obj.html">obj</a></tt>]--> NOUN</tt> (3041; 58%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-obj.html">obj</a></tt>]--> NOUN</tt> (3030; 58%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-aux.html">aux</a></tt>]--> AUX</tt> (2950; 74%),
 <tt>NOUN --[<tt><a href="cs_fictree-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2266; 67%),
-<tt>VERB --[<tt><a href="cs_fictree-dep-obj.html">obj</a></tt>]--> PRON</tt> (1608; 51%),
+<tt>VERB --[<tt><a href="cs_fictree-dep-obj.html">obj</a></tt>]--> PRON</tt> (1607; 51%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1328; 70%).
 

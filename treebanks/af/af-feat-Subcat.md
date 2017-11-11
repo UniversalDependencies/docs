@@ -10,8 +10,8 @@ This feature is language-specific.
 It occurs with 3 different values: `Intr`, `Prep`, `Tran`.
 
 4317 tokens (9%) have a non-empty value of `Subcat`.
-990 types (16%) occur at least once with a non-empty value of `Subcat`.
-774 lemmas (15%) occur at least once with a non-empty value of `Subcat`.
+1000 types (16%) occur at least once with a non-empty value of `Subcat`.
+780 lemmas (15%) occur at least once with a non-empty value of `Subcat`.
 The feature is used with 1 part-of-speech tags: <tt><a href="af-pos-VERB.html">VERB</a></tt> (4317; 9% instances).
 
 ### `VERB`

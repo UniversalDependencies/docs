@@ -12,8 +12,8 @@ It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt>, <tt><a href="cs_fictree-feat-Gender-psor.html">Gender[psor]</a></tt>.
 
 68808 tokens (41%) have a non-empty value of `Gender`.
-23540 types (86%) occur at least once with a non-empty value of `Gender`.
-11566 lemmas (84%) occur at least once with a non-empty value of `Gender`.
+23541 types (87%) occur at least once with a non-empty value of `Gender`.
+11560 lemmas (84%) occur at least once with a non-empty value of `Gender`.
 The feature is used with 8 part-of-speech tags: <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (27596; 17% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (14516; 9% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (10889; 7% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (8093; 5% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (3610; 2% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (2255; 1% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (1010; 1% instances), <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> (839; 1% instances).
 
 ### `NOUN`
@@ -44,7 +44,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Voc</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>děti</em></td><td></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (5250) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (5249) occur only with one value of `Gender`.
 
 ### `VERB`
 
@@ -84,7 +84,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 * `Fem` (4428; 41% of non-empty `Gender`): <em>celou, poslední, první, ráda, celá, další, malá, hlavní, velké, malou</em>
 * `Masc` (4616; 42% of non-empty `Gender`): <em>celý, rád, další, první, malý, druhý, starý, jediný, ostatní, mladý</em>
 * `Neut` (1845; 17% of non-empty `Gender`): <em>jiného, jasné, možné, jiná, malé, celé, první, druhé, lepší, těžké</em>
-* `EMPTY` (11): <em>marx, I, Saint, dvou, make, ping, show, troj, tří, československo</em>
+* `EMPTY` (10): <em>marx, Saint, dvou, make, ping, show, troj, tří, československo</em>
 
 <table>
   <tr><th>Paradigm <i>celý</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -234,7 +234,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td></td><td><em>mu</em></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_fictree-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td></td><td><em>nim</em></td><td><em>nim</em></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>jim</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_fictree-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td></td><td><em>ní</em></td><td><em>něj, něho</em></td></tr>
+  <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_fictree-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td></td><td><em>ní</em></td><td><em>něho, něj</em></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>jí</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=Short</tt></tt></td><td></td><td></td><td><em>ho</em></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_fictree-feat-PrepCase.html">PrepCase</a></tt><tt>=Pre</tt></tt></td><td></td><td><em>nich</em></td><td></td></tr>
@@ -267,7 +267,7 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
   <tr><td><tt></tt></td><td></td><td><em>K</em></td></tr>
 </table>
 
-`Gender` seems to be **lexical feature** of `PROPN`. 98% lemmas (418) occur only with one value of `Gender`.
+`Gender` seems to be **lexical feature** of `PROPN`. 98% lemmas (413) occur only with one value of `Gender`.
 
 ### `AUX`
 
@@ -301,7 +301,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 ### `NUM`
 
-839 <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> tokens (59% of all `NUM` tokens) have a non-empty value of `Gender`.
+839 <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> tokens (64% of all `NUM` tokens) have a non-empty value of `Gender`.
 
 The most frequent other feature values with which `NUM` and `Gender` co-occurred: <tt><a href="cs_fictree-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (834; 99%), <tt><a href="cs_fictree-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (834; 99%), <tt><a href="cs_fictree-feat-NumValue.html">NumValue</a></tt><tt>=1,2,3</tt> (834; 99%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt> (425; 51%).
 
@@ -310,7 +310,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 * `Fem` (268; 32% of non-empty `Gender`): <em>dvě, jedna, jednu, jedné, tři, obě, jednou, dvou, čtyři, obou</em>
 * `Masc` (467; 56% of non-empty `Gender`): <em>jeden, dva, jednoho, oba, tři, čtyři, jedním, dvěma, tisíc, dvou</em>
 * `Neut` (104; 12% of non-empty `Gender`): <em>jedno, dvě, jednom, tři, jednoho, obě, jedním, půl, čtyř, čtyři</em>
-* `EMPTY` (573): <em>pár, deset, dvacet, pět, třicet, šest, dvanáct, pěti, čtrnáct, devět</em>
+* `EMPTY` (474): <em>pár, deset, dvacet, pět, třicet, šest, dvanáct, pěti, čtrnáct, devět</em>
 
 <table>
   <tr><th>Paradigm <i>jeden</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>

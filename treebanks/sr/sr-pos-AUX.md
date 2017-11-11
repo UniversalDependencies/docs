@@ -19,14 +19,14 @@ The 10 most frequent ambiguous types:  <em>je</em> (<tt><a href="sr-pos-AUX.html
 
 
 * <em>je</em>
-  * <tt><a href="sr-pos-AUX.html">AUX</a></tt> 2927: <em>Esat Beriša <b>je</b> jedan takav primer .</em>
+  * <tt><a href="sr-pos-AUX.html">AUX</a></tt> 2927: <em>To <b>je</b> viđeno kao znak snažne podrške budućnosti BiH kao suverene države .</em>
   * <tt><a href="sr-pos-PRON.html">PRON</a></tt> 10: <em>" Jahta je spasena od kupovine nekoga ko bi <b>je</b> prodao u staro gvožđe .</em>
 * <em>bilo</em>
-  * <tt><a href="sr-pos-AUX.html">AUX</a></tt> 58: <em>" Čuli smo jak prasak ; <b>bilo</b> je puno dima i štete . "</em>
-  * <tt><a href="sr-pos-PART.html">PART</a></tt> 30: <em>U Bulgartabaku su odbili <b>bilo</b> kakav komentar .</em>
+  * <tt><a href="sr-pos-AUX.html">AUX</a></tt> 58: <em>Ni u jednom incidentu nije <b>bilo</b> žrtava .</em>
+  * <tt><a href="sr-pos-PART.html">PART</a></tt> 30: <em>Čanak je rekao da policija nije pronašla <b>bilo</b> kakvu eksplozivnu napravu .</em>
   * <tt><a href="sr-pos-CCONJ.html">CCONJ</a></tt> 2: <em>Tu je i etnička komponenta , s obzirom da pojedinci iz različitih zajednica mogu da kažu da je diskriminacija -- <b>bilo</b> sada ili ranije -- uticala na njihovu mogućnost ostvarivanja koristi od privatizacije .</em>
 * <em>biće</em>
-  * <tt><a href="sr-pos-AUX.html">AUX</a></tt> 32: <em>Na vrhu njegovog programa <b>biće</b> rešavanje političkog zastoja .</em>
+  * <tt><a href="sr-pos-AUX.html">AUX</a></tt> 32: <em>Jahta nekadašnjeg diktatora <b>biće</b> renovirana u muzej na vodi .</em>
   * <tt><a href="sr-pos-VERB.html">VERB</a></tt> 10: <em>Ti krediti Svetske banke <b>biće</b> odvojeni od strategije banke za pomoć zemlji .</em>
   * <tt><a href="sr-pos-NOUN.html">NOUN</a></tt> 2: <em>Bonovi za hranu , novac za decu i odmore <b>biće</b> oporezovani 16 odsto .</em>
 * <em>sam</em>
@@ -39,7 +39,7 @@ The 10 most frequent ambiguous types:  <em>je</em> (<tt><a href="sr-pos-AUX.html
   * <tt><a href="sr-pos-VERB.html">VERB</a></tt> 9: <em>" Građani Kosova imaju pravo da <b>vrše</b> pritisak na svoje institucije .</em>
   * <tt><a href="sr-pos-AUX.html">AUX</a></tt> 1: <em>Na primer , u Francuskoj , ombudsman postavlja građane koji svake nedelje <b>vrše</b> inspekcije zatvora i kaznenih institucija , " kaže Delevoaj .</em>
 * <em>za</em>
-  * <tt><a href="sr-pos-ADP.html">ADP</a></tt> 1116: <em>" Nezavisan pravosudni sistem je ključan <b>za</b> razvoj zemlje .</em>
+  * <tt><a href="sr-pos-ADP.html">ADP</a></tt> 1116: <em>Međutim , Vesna Đurović iznela je seno i hleb <b>za</b> veliku vegetarijanku .</em>
   * <tt><a href="sr-pos-AUX.html">AUX</a></tt> 1: <em>Jahta <b>za</b> zaplenjena i stavljena na aukciju pošto vlasnik , brodovlasnički magnat Džon Pol Papanikolau , nije platio lučku naknadu u Luci Lenac , gde je planirao da bude renovirana .</em>
 
 ## Morphology

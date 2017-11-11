@@ -39,7 +39,14 @@ If you want to collaborate, please contact [tswong-c&nbsp;(æt)&nbsp;my&nbsp;•
 
 ## Description
 
+
+ORIGIN
+
 ## Acknowledgments
+
+This work was partially supported by a grant from the PROCORE-France/Hong Kong Joint Research Scheme sponsored by the Research Grants Council and the Consulate General of France in Hong Kong (Reference No.: F-CityU107/15 and N 35322RG); and by two Strategic Research Grants (Project No. 7004494 and No. 7004736) from City University of Hong Kong.
+
+
 # Statistics of UD Chinese HK
 
 ## POS Tags

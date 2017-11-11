@@ -6,15 +6,15 @@ udver: '2'
 
 ## Treebank Statistics: UD_Cantonese: Relations: `compound:dir`
 
-This relation is a language-specific subtype of .
+This relation is a language-specific subtype of <tt><a href="yue-dep-compound.html">compound</a></tt>.
 There are also 1 other language-specific subtypes of `compound`: <tt><a href="yue-dep-compound-vv.html">compound:vv</a></tt>.
 
-2 nodes (1%) are attached to their parents as `compound:dir`.
+5 nodes (1%) are attached to their parents as `compound:dir`.
 
-2 instances of `compound:dir` (100%) are left-to-right (parent precedes child).
+5 instances of `compound:dir` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.
 
-The following 1 pairs of parts of speech are connected with `compound:dir`: <tt><a href="yue-pos-VERB.html">VERB</a></tt>-<tt><a href="yue-pos-VERB.html">VERB</a></tt> (2; 100% instances).
+The following 1 pairs of parts of speech are connected with `compound:dir`: <tt><a href="yue-pos-VERB.html">VERB</a></tt>-<tt><a href="yue-pos-VERB.html">VERB</a></tt> (5; 100% instances).
 
 
 ~~~ conllu

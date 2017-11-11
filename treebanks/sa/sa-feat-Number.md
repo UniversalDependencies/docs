@@ -34,7 +34,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
   <tr><td><tt><tt><a href="sa-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="sa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td>अर्थस्य</td><td></td></tr>
   <tr><td><tt><tt><a href="sa-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="sa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td>अर्थेन</td><td></td></tr>
   <tr><td><tt><tt><a href="sa-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td>अर्थः</td><td>अर्थाः</td></tr>
-  <tr><td><tt><tt><a href="sa-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sa-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td>अर्थ, अर्थम्</td><td></td></tr>
+  <tr><td><tt><tt><a href="sa-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sa-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td>अर्थम्, अर्थ</td><td></td></tr>
   <tr><td><tt><tt><a href="sa-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td>अर्थ</td><td></td></tr>
 </table>
 

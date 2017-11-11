@@ -12,7 +12,7 @@ udver: '2'
 # UD Bambara
 
 Language: [Bambara](../bm/overview/bm-hub.html) (code: `bm`)<br/>
-Family: Niger-Congo
+Family: Mande
 
 This treebank has been part of Universal Dependencies since the UD v2.2 release.
 
@@ -53,6 +53,7 @@ Tbd.
 The conversion and annotation has been done by Katya Aplonova and Francis M. Tyers at the Higher School of Economics
 in Moscow. We would like to thank the developers and annotators of the Corpus Référence du Bambara for permission
 to base this on their work.
+
 
 
 # Statistics of UD Bambara

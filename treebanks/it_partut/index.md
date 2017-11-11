@@ -12,7 +12,7 @@ udver: '2'
 # UD Italian ParTUT
 
 Language: [Italian](../it/overview/it-hub.html) (code: `it`)<br/>
-Family: Indo-European, Italic
+Family: Indo-European, Romance
 
 This treebank has been part of Universal Dependencies since the UD v2.0 release.
 
@@ -73,6 +73,18 @@ NOTE: While the Italian section of ParTUT is already included in [UD_Italian](ht
 
 ## Acknowledgments
 We are deeply grateful to Project Syndicate© for letting us download and exploit their articles as text material, under the terms of educational use.
+
+## References
+
+* Manuela Sanguinetti, Cristina Bosco. 2014. PartTUT: The Turin University Parallel Treebank.
+In Basili, Bosco, Delmonte, Moschitti, Simi (editors) Harmonization and development of resources and tools for Italian Natural Language Processing within the PARLI project, LNCS, Springer Verlag
+
+* Manuela Sanguinetti, Cristina Bosco. 2014. Converting the parallel treebank ParTUT in Universal Stanford Dependencies.
+In Proceedings of the 1rst Conference for Italian Computational Linguistics (CLiC-it 2014), Pisa (Italy)
+
+* Cristina Bosco, Manuela Sanguinetti. 2014. Towards a Universal Stanford Dependencies parallel treebank.
+In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13), Tubingen (Germany)
+
 
 
 # Statistics of UD Italian ParTUT

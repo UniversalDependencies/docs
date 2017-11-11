@@ -12,7 +12,7 @@ udver: '2'
 # UD French Sequoia
 
 Language: [French](../fr/overview/fr-hub.html) (code: `fr`)<br/>
-Family: Indo-European, Italic
+Family: Indo-European, Romance
 
 This treebank has been part of Universal Dependencies since the UD v2.0 release.
 
@@ -72,6 +72,7 @@ The original sentences of the corpus are taken from:
 The conversion has been performed by Bruno Guillaume with the Graph Rewriting System [described here](https://gitlab.inria.fr/grew/SSQ_UD) developed by Bruno Guillaume and Guy Perrier.
 
 The Sequoia Corpus was presented in (Candito & Seddah, 2012) and revised later, notably during the project of deep annotation described in (Candito & al. 2014) and (Perrier & al. 2014).
+
 
 # Statistics of UD French Sequoia
 

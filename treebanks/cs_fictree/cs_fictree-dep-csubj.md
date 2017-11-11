@@ -18,61 +18,64 @@ The following 14 pairs of parts of speech are connected with `csubj`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 13 csubj	color:blue
-1	Pak	pak	ADV	Db-------------	_	5	advmod	_	_
-2	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	3	case	_	_
-3	mě	já	PRON	PH-S4--1-------	Case=Acc|Number=Sing|Person=1|PronType=Prs|Variant=Short	5	obl	_	_
-4	plaše	plaše	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	5	advmod	_	_
-5	mžikla	mžiknout	VERB	VpFS----R-AA--1	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-6	a	a	CCONJ	J^-------------	_	7	cc	_	_
-7	bylo	být	VERB	VpNS----R-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	conj	_	_
-8	znát	znát	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	7	ccomp	_	_
-9	,	,	PUNCT	Z:-------------	_	13	punct	_	_
-10	že	že	SCONJ	J,-------------	_	13	mark	_	_
-11	mě	já	PRON	PH-S4--1-------	Case=Acc|Number=Sing|Person=1|PronType=Prs|Variant=Short	13	obj	_	_
-12	horečně	horečně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	13	advmod	_	_
-13	pozoruje	pozorovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	csubj	_	_
-14	.	.	PUNCT	Z:-------------	_	5	punct	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 11 csubj	color:blue
+1	A	a	CCONJ	J^-------------	_	5	cc	_	_
+2	jednou	jednou	ADV	Db-------------	_	5	advmod	_	_
+3	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	5	expl:pv	_	_
+4	mi	já	PRON	PH-S3--1-------	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	5	obj	_	_
+5	stalo	stát	VERB	VpNS----R-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	Z:-------------	_	11	punct	_	_
+7	že	že	SCONJ	J,-------------	_	11	mark	_	_
+8	jsem	být	AUX	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	11	aux	_	_
+9	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	10	case	_	_
+10	práci	práce	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	11	obl	_	_
+11	usnul	usnout	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	csubj	_	SpaceAfter=No
+12	.	.	PUNCT	Z:-------------	_	5	punct	_	SpaceAfter=No
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 6 csubj	color:blue
-1	Je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
-2	ale	ale	CCONJ	J^-------------	_	4	cc	_	_
-3	také	také	ADV	Db-------------	_	4	advmod	_	_
-4	možné	možný	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	0	root	_	_
-5	pokorně	pokorně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	6	advmod	_	_
-6	mlčet	mlčet	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	4	csubj	_	_
-7	.	.	PUNCT	Z:-------------	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 8 csubj	color:blue
-1	Potíž	potíž	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
-2	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	cop	_	_
-3	,	,	PUNCT	Z:-------------	_	8	punct	_	_
-4	že	že	SCONJ	J,-------------	_	8	mark	_	_
-5	takových	takový	DET	PDMP2----------	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|PronType=Dem	6	det	_	_
-6	lidí	člověk	NOUN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	8	obj	_	_
-7	moc	moc	DET	Ca--4----------	Case=Acc|NumType=Card|PronType=Ind	6	det:numgov	_	_
-8	nemáme	mít	VERB	VB-P---1P-NA---	Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	1	csubj	_	_
-9	.	.	PUNCT	Z:-------------	_	1	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 csubj	color:blue
+1	Zadržet	zadržet	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	4	csubj	_	_
+2	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+3	ji	on	PRON	PPFS4--3-------	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	1	obj	_	_
+4	možno	možný	ADJ	ACNS------A----	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short	0	root	_	_
+5	jen	jen	PART	TT-------------	_	7	advmod:emph	_	_
+6	ve	v	ADP	RV--6----------	AdpType=Voc|Case=Loc	7	case	_	_
+7	chvilkách	chvilka	NOUN	NNFP6-----A----	Case=Loc|Gender=Fem|Number=Plur|Polarity=Pos	4	obl	_	_
+8	osamění	osamění	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	7	nmod	_	SpaceAfter=No
+9	.	.	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
+10	)	)	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 4 csubj	color:blue
+1	Co	co	PRON	PQ--1----------	Animacy=Inan|Case=Nom|PronType=Int,Rel	4	nsubj	_	_
+2	prý	prý	PART	TT-------------	_	4	advmod	_	_
+3	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	4	expl:pv	_	_
+4	děje	dít	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	10	csubj	_	_
+5	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	7	case	_	_
+6	té	ten	DET	PDFS6----------	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
+7	kuchyni	kuchyně	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	4	obl	_	SpaceAfter=No
+8	,	,	PUNCT	Z:-------------	_	4	punct	_	_
+9	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
+10	hrůza	hrůza	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	Z:-------------	_	10	punct	_	SpaceAfter=No
 
 ~~~
 

@@ -12,7 +12,7 @@ udver: '2'
 # UD Basque
 
 Language: [Basque](../eu/overview/eu-hub.html) (code: `eu`)<br/>
-Family: Isolate (Vasconic)
+Family: Basque
 
 This treebank has been part of Universal Dependencies since the UD v1.1 release.
 
@@ -22,24 +22,40 @@ Repository: [UD_Basque](https://github.com/UniversalDependencies/UD_Basque)
 
 License: CC BY-NC-SA 3.0
 
-Genre: news, fiction
+Genre: news
 
 Questions, comments?
 General annotation questions (either Basque-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Basque/issues).
 If you want to collaborate, please contact [koldo&nbsp;•&nbsp;gojenola&nbsp;(æt)&nbsp;ehu&nbsp;•&nbsp;eus].
+Development of the treebank happens outside the UD repository.
+If there are bugs, either the original data source or the conversion procedure must be fixed.
+Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
-| XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Lemmas | assigned by a program, not checked manually |
+| UPOS | annotated manually in non-UD style, automatically converted to UD |
+| XPOS | annotated manually in non-UD style, automatically converted to UD |
+| Features | annotated manually in non-UD style, automatically converted to UD |
+| Relations | annotated manually in non-UD style, automatically converted to UD |
 
 ## Description
 
+The Basque UD treebank is based on a automatic conversion from part of the Basque Dependency Treebank (BDT), created at the University of of the Basque Country by the IXA NLP research group. The treebank consists of 8.993 sentences (121.443 tokens) and covers mainly literary and journalistic texts.
+
+
+
+The Basque UD treebank is based on a automatic conversion from part of the Basque Dependency Treebank (BDT) (Aduriz et al., 2003), created at the University of of the Basque Country by the IXA NLP research group. The treebank consists of 5274 sentences (60563 tokens) and covers mainly literary and journalistic texts. The Basque language can be described as a morphologically rich, agglutinative language with a high capacity of generating inflected word-forms, with free constituent order of sentence elements. It can be considered a head-final language, as the syntactic head of phrases is located at the end of the last word of the phrase, in the form of a suffix. BDT is a pure dependency treebank from its original design, annotated in the CoNLL-X format, and it shares with UD a lexicalist hypothesis in syntax, where dependencies occur between whole individual wordforms. Under this lexicalist approach, each word shows several morphosyntactic associated features, corresponding to affixes (prefixes and suffixes) attached to the base forms, such as case (there are 14 morphological cases in Basque), number, definiteness or type of subordinate sentence (adversative, conditional, ...). These suffixes usually appear as separated wordforms in non agglutinative languages. The last version of BDT contains 150,000 tokens forming 11,225 sentences, with 1.3% of non-projective arcs. BDT encodes 16 different POS and 28 dependencies. Although BDT was in accord with many UD guidelines, the process was not trivial, converting around 80% of the tokens (121.443 tokens). The set of remaining sentences correspond to either special cases not accounted by the conversion rules or other types of less frequent phenomena which have not been dealt with at the moment.
+
+
 ## Acknowledgments
+
+The conversion of the original treebank has been performed by Aitziber Atutxa, Iakes Goenaga and Koldo Gojenola at University of the Basque Country (EHU/UPV). In contrast, the conversion of the UD treebank v1.2 to v2.0 has been performed by Dan Zeman. We thank everyone who has collaborate in the transformation of the Basque Dependency Treebank.
+
+Sentences were randomized and divided in 60-20-20 splits for the train, dev and test files, repectively.
+
+
 # Statistics of UD Basque
 
 ## POS Tags

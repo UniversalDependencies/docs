@@ -38,19 +38,20 @@ The following 12 pairs of parts of speech are connected with `nummod`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 1 nummod	color:blue
-1	Geen	geen	NUM	THBB	_	3	nummod	_	_
-2	lewende	leef	ADJ	ASA	AdjType=Attr|Case=Nom|Degree=Pos	3	amod	_	_
-3	seewatervis	seewatervis	NOUN	NM	Number=Sing	5	nsubj:pass	_	_
-4	mag	mag	AUX	VTUOM	Tense=Pres|VerbForm=Fin,Inf|VerbType=Mod	5	aux	_	_
-5	ingevoer	invoer	VERB	VVHOG	Subcat=Tran|Tense=Past|VerbForm=Part	0	root	_	_
-6	word	word	AUX	VTUOP	Tense=Pres|VerbForm=Fin,Inf|VerbType=Pas	5	aux:pass	_	_
-7	nie	nie	PART	UPO	PartType=Neg	5	advmod	_	SpaceAfter=No
-8	.	.	PUNCT	ZE	_	5	punct	_	_
+# visual-style 3 2 nummod	color:blue
+1	In	in	ADP	SVS	AdpType=Prep	3	case	_	_
+2	albei	albei	NUM	THAB	_	3	nummod	_	_
+3	gevalle	geval	NOUN	NSM	Number=Plur	6	obl	_	_
+4	is	is	AUX	VTHOK	Tense=Pres|VerbForm=Fin,Inf|VerbType=Cop	6	cop	_	_
+5	die	die	DET	LB	Definite=Def|PronType=Art	6	det	_	_
+6	privaatsektor	privaatsektor	NOUN	NSE	Number=Sing	0	root	_	_
+7	ver	ver	ADV	BS	Degree=Pos	4	advmod	_	_
+8	agter	agter	ADP	SVS	AdpType=Prep	4	amod	_	SpaceAfter=No
+9	.	.	PUNCT	ZE	_	4	punct	_	_
 
 ~~~
 

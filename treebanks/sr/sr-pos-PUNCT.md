@@ -19,7 +19,7 @@ The 10 most frequent ambiguous types:  <em>...</em> (<tt><a href="sr-pos-PUNCT.h
 
 
 * <em>...</em>
-  * <tt><a href="sr-pos-PUNCT.html">PUNCT</a></tt> 14: <em>Mi treba da <b>...</b> damo podršku Jeremiću .</em>
+  * <tt><a href="sr-pos-PUNCT.html">PUNCT</a></tt> 14: <em>" Ako usklade aranžman MMF sa interesima Turske , potpisaćemo ga <b>...</b></em>
   * <tt><a href="sr-pos-ADJ.html">ADJ</a></tt> 1: <em>" To je veoma važan korak jer preduzimamo stvarne mere u stvaranju zone slobodnog kretanja u regionu , koja je odraz izvrsne <b>...</b> saradnje koja postoji u drugim domenima .</em>
 
 ## Morphology

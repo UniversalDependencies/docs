@@ -20,7 +20,7 @@ The following people have contributed to making this treebank part of UD: Lilja 
 
 Repository: [UD_Norwegian-NynorskLIA](https://github.com/UniversalDependencies/UD_Norwegian-NynorskLIA)
 
-License: CC BY-SA
+License: CC BY-SA 4.0
 
 Genre: spoken
 
@@ -28,18 +28,36 @@ Questions, comments?
 General annotation questions (either Norwegian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Norwegian-NynorskLIA/issues).
 If you want to collaborate, please contact [liljao&nbsp;(æt)&nbsp;ifi&nbsp;•&nbsp;uio&nbsp;•&nbsp;no].
+Development of the treebank happens outside the UD repository.
+If there are bugs, either the original data source or the conversion procedure must be fixed.
+Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
+| Lemmas | annotated manually in non-UD style, automatically converted to UD |
+| UPOS | annotated manually in non-UD style, automatically converted to UD |
 | XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Features | annotated manually in non-UD style, automatically converted to UD |
+| Relations | annotated manually in non-UD style, automatically converted to UD |
 
 ## Description
 
+This Norwegian treebank is based on the LIA treebank of transcribed spoken Norwegian dialects.
+The treebank has been automatically converted to the UD scheme by Lilja Øvrelid at the University of Oslo.
+
+
+
+The LIA treebank consists of dialect recordings made in the
+period between 1950--1990, which have been digitised, transcribed,
+and subsequently annotated with morphological and dependency-style
+syntactic analysis as part of the [LIA (Language Infrastructure made
+Accessible)](http://www.hf.uio.no/iln/english/research/projects/language-infrastructure-made-accessible/) project at the University of Oslo. The morphosyntactic annotation of the original treebank follows that of the Norwegian Dependency Treebank, extended to account for spoken language phenomena such as repairs and deletions.
+
 ## Acknowledgments
+
+We thank the annotators of the original treebank and in particular Andre Kaasen.
+
+
 # Statistics of UD Norwegian NynorskLIA
 
 ## POS Tags

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5612 nodes (9%) are attached to their parents as `punct`.
+6633 nodes (9%) are attached to their parents as `punct`.
 
-5262 instances of `punct` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.33392729864576.
+6233 instances of `punct` (94%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.32232775516358.
 
-The following 9 pairs of parts of speech are connected with `punct`: <tt><a href="ko-pos-VERB.html">VERB</a></tt>-<tt><a href="ko-pos-PUNCT.html">PUNCT</a></tt> (3666; 65% instances), <tt><a href="ko-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko-pos-PUNCT.html">PUNCT</a></tt> (1267; 23% instances), <tt><a href="ko-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko-pos-PUNCT.html">PUNCT</a></tt> (509; 9% instances), <tt><a href="ko-pos-ADV.html">ADV</a></tt>-<tt><a href="ko-pos-PUNCT.html">PUNCT</a></tt> (129; 2% instances), <tt><a href="ko-pos-NUM.html">NUM</a></tt>-<tt><a href="ko-pos-PUNCT.html">PUNCT</a></tt> (33; 1% instances), <tt><a href="ko-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ko-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="ko-pos-PRON.html">PRON</a></tt>-<tt><a href="ko-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="ko-pos-ADP.html">ADP</a></tt>-<tt><a href="ko-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="ko-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ko-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `punct`: <tt><a href="ko-pos-VERB.html">VERB</a></tt>-<tt><a href="ko-pos-PUNCT.html">PUNCT</a></tt> (4347; 66% instances), <tt><a href="ko-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko-pos-PUNCT.html">PUNCT</a></tt> (1444; 22% instances), <tt><a href="ko-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko-pos-PUNCT.html">PUNCT</a></tt> (661; 10% instances), <tt><a href="ko-pos-ADV.html">ADV</a></tt>-<tt><a href="ko-pos-PUNCT.html">PUNCT</a></tt> (138; 2% instances), <tt><a href="ko-pos-NUM.html">NUM</a></tt>-<tt><a href="ko-pos-PUNCT.html">PUNCT</a></tt> (35; 1% instances), <tt><a href="ko-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ko-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="ko-pos-PRON.html">PRON</a></tt>-<tt><a href="ko-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="ko-pos-ADP.html">ADP</a></tt>-<tt><a href="ko-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="ko-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ko-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

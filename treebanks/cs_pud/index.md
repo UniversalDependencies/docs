@@ -12,7 +12,7 @@ udver: '2'
 # UD Czech PUD
 
 Language: [Czech](../cs/overview/cs-hub.html) (code: `cs`)<br/>
-Family: Indo-European, Balto-Slavic
+Family: Indo-European, Slavic
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
@@ -75,6 +75,7 @@ employ ten-fold cross-validation.
 
 
 ## Acknowledgments
+
 # Statistics of UD Czech PUD
 
 ## POS Tags

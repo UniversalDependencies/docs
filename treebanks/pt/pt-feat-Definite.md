@@ -33,7 +33,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
   <tr><td><tt><tt><a href="pt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pt-feat-Number.html">Number</a></tt><tt>=Unsp</tt></tt></td><td></td><td><em>o(s)</em></td></tr>
   <tr><td><tt><tt><a href="pt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="pt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>a, as</em></td></tr>
   <tr><td><tt><tt><a href="pt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="pt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>as</em></td></tr>
-  <tr><td><tt><tt><a href="pt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td><em>a, as</em></td></tr>
+  <tr><td><tt><tt><a href="pt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td><em>as, a</em></td></tr>
   <tr><td><tt><tt><a href="pt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>o</em></td></tr>
   <tr><td><tt></tt></td><td></td><td><em>a, as</em></td></tr>
 </table>

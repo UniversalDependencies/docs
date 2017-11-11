@@ -16,14 +16,14 @@ The feature is used with 4 part-of-speech tags: <tt><a href="ru_syntagrus-pos-PR
 
 ### `PROPN`
 
-2302 <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> tokens (6% of all `PROPN` tokens) have a non-empty value of `Foreign`.
+2302 <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> tokens (5% of all `PROPN` tokens) have a non-empty value of `Foreign`.
 
 The most frequent other feature values with which `PROPN` and `Foreign` co-occurred: <tt><a href="ru_syntagrus-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (2291; 100%), <tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2291; 100%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2291; 100%), <tt><a href="ru_syntagrus-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (2291; 100%).
 
 `PROPN` tokens may have the following values of `Foreign`:
 
 * `Yes` (2302; 100% of non-empty `Foreign`): <em>MBA, FIA, ButtKicker, PM, RoboCup, FOXP2, Weta, XGR, Bazelevs, FAI</em>
-* `EMPTY` (38636): <em>России, США, СССР, Россия, В., Москве, Путин, А., Москвы, Путина</em>
+* `EMPTY` (43594): <em>России, США, СССР, Россия, В., Путин, А., Москве, Владимир, Сергей</em>
 
 `Foreign` seems to be **lexical feature** of `PROPN`. 100% lemmas (1281) occur only with one value of `Foreign`.
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADJ` and `Foreign` co-occurre
 `ADJ` tokens may have the following values of `Foreign`:
 
 * `Yes` (3; 100% of non-empty `Foreign`): <em>Afghan, Islamic, daily</em>
-* `EMPTY` (111906): <em>других, нужно, другой, многие, другие, должны, сам, должен, первый, самом</em>
+* `EMPTY` (111834): <em>других, нужно, другой, многие, другие, должны, сам, должен, первый, самом</em>
 
 ### `NOUN`
 
@@ -58,14 +58,14 @@ The most frequent other feature values with which `NOUN` and `Foreign` co-occurr
 `NOUN` tokens may have the following values of `Foreign`:
 
 * `Yes` (2; 100% of non-empty `Foreign`): <em>D., Ph.D</em>
-* `EMPTY` (272399): <em>время, года, лет, году, %, раз, человек, жизни, люди, людей</em>
+* `EMPTY` (266257): <em>года, время, лет, году, раз, человек, жизни, людей, власти, страны</em>
 
 ## Relations with Agreement in `Foreign`
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
-<tt>PROPN --[<tt><a href="ru_syntagrus-dep-flat-foreign.html">flat:foreign</a></tt>]--> PROPN</tt> (695; 87%),
-<tt>PROPN --[<tt><a href="ru_syntagrus-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (108; 94%),
-<tt>X --[<tt><a href="ru_syntagrus-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (106; 100%),
+<tt>PROPN --[<tt><a href="ru_syntagrus-dep-flat-foreign.html">flat:foreign</a></tt>]--> PROPN</tt> (696; 86%),
+<tt>PROPN --[<tt><a href="ru_syntagrus-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (108; 91%),
+<tt>X --[<tt><a href="ru_syntagrus-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (107; 100%),
 <tt>X --[<tt><a href="ru_syntagrus-dep-flat-foreign.html">flat:foreign</a></tt>]--> PROPN</tt> (85; 100%),
 <tt>X --[<tt><a href="ru_syntagrus-dep-appos.html">appos</a></tt>]--> X</tt> (34; 100%),
 <tt>PROPN --[<tt><a href="ru_syntagrus-dep-appos.html">appos</a></tt>]--> X</tt> (20; 87%),

@@ -12,7 +12,7 @@ udver: '2'
 # UD Croatian
 
 Language: [Croatian](../hr/overview/hr-hub.html) (code: `hr`)<br/>
-Family: Indo-European, Balto-Slavic
+Family: Indo-European, Slavic
 
 This treebank has been part of Universal Dependencies since the UD v1.1 release.
 
@@ -40,6 +40,7 @@ If you want to collaborate, please contact [zeljko&nbsp;•&nbsp;agic&nbsp;(æt)
 ## Description
 
 ## Acknowledgments
+
 # Statistics of UD Croatian
 
 ## POS Tags

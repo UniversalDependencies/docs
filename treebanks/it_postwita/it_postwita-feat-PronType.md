@@ -32,7 +32,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 <table>
   <tr><th>Paradigm <i>tutto</i></th><th><tt>Tot</tt></th><th><tt>Ind</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><em>tutti, tutto, Tutta, tutte</em></td><td><em>tutti, tutto, tutta, tutte</em></td></tr>
+  <tr><td><tt>_</tt></td><td><em>tutti, tutto, tutte, Tutta</em></td><td><em>tutti, tutto, tutta, tutte</em></td></tr>
   <tr><td><tt><tt><a href="it_postwita-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>tutti</em></td></tr>
 </table>
 

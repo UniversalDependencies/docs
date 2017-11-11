@@ -9,58 +9,59 @@ udver: '2'
 This feature is universal but the values `Coll` are language-specific.
 It occurs with 7 different values: `Coll`, `Dem`, `Ind`, `Int`, `Prs`, `Rcp`, `Rel`.
 
-1011 tokens (10%) have a non-empty value of `PronType`.
-200 types (5%) occur at least once with a non-empty value of `PronType`.
-58 lemmas (2%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sme-pos-PRON.html">PRON</a></tt> (997; 10% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (14; 0% instances).
+2887 tokens (11%) have a non-empty value of `PronType`.
+312 types (4%) occur at least once with a non-empty value of `PronType`.
+73 lemmas (2%) occur at least once with a non-empty value of `PronType`.
+The feature is used with 2 part-of-speech tags: <tt><a href="sme-pos-PRON.html">PRON</a></tt> (2847; 11% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (40; 0% instances).
 
 ### `PRON`
 
-997 <tt><a href="sme-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+2847 <tt><a href="sme-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="sme-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (671; 67%), <tt><a href="sme-feat-Number.html">Number</a></tt><tt>=Sing</tt> (569; 57%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="sme-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1624; 57%), <tt><a href="sme-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1493; 52%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (325; 33% of non-empty `PronType`): dat dan dán dát dakkár daid das dasa dainna dákkár
-* `Ind` (153; 15% of non-empty `PronType`): eará buot juohke muhtun muhtin nubbi unnán oktage seamma maidege
-* `Int` (13; 1% of non-empty `PronType`): makkár Gii Maid maidba
-* `Prs` (368; 37% of non-empty `PronType`): son sii mun su mii don iežas sin mu min
-* `Rcp` (6; 1% of non-empty `PronType`): guhtet guimmiideaset guimmiideasetguin nubbi nuppiin
-* `Rel` (132; 13% of non-empty `PronType`): maid mii geat mat gii geain guhte gean mas masa
+* `Dem` (645; 23% of non-empty `PronType`): dat dan dán dát dakkár daid dasa das dákkár dainna
+* `Ind` (342; 12% of non-empty `PronType`): buot juohke eará muhtun unnán muhtin seamma oktage nubbi makkárge
+* `Int` (50; 2% of non-empty `PronType`): makkár maid Mii gii Gean Goabbá maidba
+* `Prs` (1537; 54% of non-empty `PronType`): son mun mii sii mu don su iežas soai min
+* `Rcp` (8; 0% of non-empty `PronType`): guhtet goabbat guimmiideaset guimmiideasetguin guoimmiska nubbi nuppiin
+* `Rel` (265; 9% of non-empty `PronType`): mii maid geat mat gii mas gean guhte man geain
 
 <table>
-  <tr><th>Paradigm <i>mii</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th></tr>
-  <tr><td><tt><tt><a href="sme-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sme-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>maidba, Maid</td><td>maid, man</td></tr>
-  <tr><td><tt><tt><a href="sme-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sme-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>maid</td></tr>
-  <tr><td><tt><tt><a href="sme-feat-Case.html">Case</a></tt><tt>=Com</tt>|<tt><a href="sme-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>mainna</td></tr>
-  <tr><td><tt><tt><a href="sme-feat-Case.html">Case</a></tt><tt>=Com</tt>|<tt><a href="sme-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>maiguin</td></tr>
-  <tr><td><tt><tt><a href="sme-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="sme-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>man</td></tr>
-  <tr><td><tt><tt><a href="sme-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="sme-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>maid</td></tr>
-  <tr><td><tt><tt><a href="sme-feat-Case.html">Case</a></tt><tt>=Ill</tt>|<tt><a href="sme-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>masa</td></tr>
-  <tr><td><tt><tt><a href="sme-feat-Case.html">Case</a></tt><tt>=Ill</tt>|<tt><a href="sme-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>maidda</td></tr>
-  <tr><td><tt><tt><a href="sme-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="sme-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>mas</td></tr>
-  <tr><td><tt><tt><a href="sme-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="sme-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>main</td></tr>
-  <tr><td><tt><tt><a href="sme-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sme-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>mii</td></tr>
-  <tr><td><tt><tt><a href="sme-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sme-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>mat</td></tr>
+  <tr><th>Paradigm <i>mii</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th><th><tt>Ind</tt></th></tr>
+  <tr><td><tt><tt><a href="sme-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sme-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>maid, maidba</td><td>maid, man</td><td>maid</td></tr>
+  <tr><td><tt><tt><a href="sme-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sme-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>maid</td><td></td></tr>
+  <tr><td><tt><tt><a href="sme-feat-Case.html">Case</a></tt><tt>=Com</tt>|<tt><a href="sme-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>mainna</td><td></td></tr>
+  <tr><td><tt><tt><a href="sme-feat-Case.html">Case</a></tt><tt>=Com</tt>|<tt><a href="sme-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>maiguin</td><td></td></tr>
+  <tr><td><tt><tt><a href="sme-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="sme-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>man</td><td></td></tr>
+  <tr><td><tt><tt><a href="sme-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="sme-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>maid</td><td></td></tr>
+  <tr><td><tt><tt><a href="sme-feat-Case.html">Case</a></tt><tt>=Ill</tt>|<tt><a href="sme-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>masa</td><td></td></tr>
+  <tr><td><tt><tt><a href="sme-feat-Case.html">Case</a></tt><tt>=Ill</tt>|<tt><a href="sme-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>maidda</td><td></td></tr>
+  <tr><td><tt><tt><a href="sme-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="sme-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>mas</td><td></td></tr>
+  <tr><td><tt><tt><a href="sme-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="sme-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>main</td><td></td></tr>
+  <tr><td><tt><tt><a href="sme-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sme-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>Mii</td><td>mii</td><td></td></tr>
+  <tr><td><tt><tt><a href="sme-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sme-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>mat</td><td></td></tr>
 </table>
-
-`PronType` seems to be **lexical feature** of `PRON`. 92% lemmas (45) occur only with one value of `PronType`.
 
 ### `NOUN`
 
-14 <tt><a href="sme-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `PronType`.
+40 <tt><a href="sme-pos-NOUN.html">NOUN</a></tt> tokens (1% of all `NOUN` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `NOUN` and `PronType` co-occurred: <tt><a href="sme-feat-Number.html">Number</a></tt><tt>=Sing</tt> (14; 100%), <tt><a href="sme-feat-Case.html">Case</a></tt><tt>=Nom</tt> (12; 86%).
+The most frequent other feature values with which `NOUN` and `PronType` co-occurred: <tt><a href="sme-feat-Number.html">Number</a></tt><tt>=Sing</tt> (38; 95%), <tt><a href="sme-feat-Case.html">Case</a></tt><tt>=Nom</tt> (29; 73%).
 
 `NOUN` tokens may have the following values of `PronType`:
 
-* `Coll` (14; 100% of non-empty `PronType`): máŋggas guovttis Biera-guovttos Biret-guovttos Isabellá-guovttos golmmas máná-guovttos nieidda-guovttuin olbmáguoktái
-* `EMPTY` (2528): sámi jagi mánáid stáhta internáhtas mánát olbmot olbmo sámegiela sámiid
+* `Coll` (40; 100% of non-empty `PronType`): máŋggas guovttis Máŋgasat golbmasa golbmasis golmmas guovttos máná-guovttos viđas Biera-guovttos
+* `EMPTY` (6379): sámi jagi olbmot mánát sámegiela eadni beaivvi gánda oahpaheaddji olmmoš
+
+`PronType` seems to be **lexical feature** of `NOUN`. 100% lemmas (17) occur only with one value of `PronType`.
 
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>PRON --[<tt><a href="sme-dep-conj.html">conj</a></tt>]--> PRON</tt> (2; 100%),
-<tt>PRON --[<tt><a href="sme-dep-det.html">det</a></tt>]--> PRON</tt> (2; 100%).
+<tt>PRON --[<tt><a href="sme-dep-det.html">det</a></tt>]--> PRON</tt> (11; 100%),
+<tt>PRON --[<tt><a href="sme-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (6; 100%),
+<tt>PRON --[<tt><a href="sme-dep-conj.html">conj</a></tt>]--> PRON</tt> (2; 100%).
 

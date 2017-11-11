@@ -28,18 +28,26 @@ Questions, comments?
 General annotation questions (either Chinese-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Chinese/issues).
 If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&nbsp;mff&nbsp;•&nbsp;cuni&nbsp;•&nbsp;cz].
+The UD version of this treebank currently does not have a maintainer.
+If you know the language and want to help, please consider adopting the treebank.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
-| XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Lemmas | assigned by a program, not checked manually |
+| UPOS | annotated manually in non-UD style, automatically converted to UD |
+| XPOS | annotated manually |
+| Features | assigned by a program, not checked manually |
+| Relations | annotated manually in non-UD style, automatically converted to UD |
 
 ## Description
 
+Traditional Chinese Universal Dependencies Treebank annotated and converted by
+Google.
+
+
+
 ## Acknowledgments
+
 # Statistics of UD Chinese
 
 ## POS Tags

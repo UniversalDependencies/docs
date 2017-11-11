@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="sme-dep-compound.html">compound</a></tt>.
 
-9 nodes (0%) are attached to their parents as `compound:nn`.
+30 nodes (0%) are attached to their parents as `compound:nn`.
 
-9 instances of `compound:nn` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.
+30 instances of `compound:nn` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.1.
 
-The following 2 pairs of parts of speech are connected with `compound:nn`: <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (5; 56% instances), <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-PROPN.html">PROPN</a></tt> (4; 44% instances).
+The following 3 pairs of parts of speech are connected with `compound:nn`: <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (23; 77% instances), <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-PROPN.html">PROPN</a></tt> (6; 20% instances), <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-ADJ.html">ADJ</a></tt> (1; 3% instances).
 
 
 ~~~ conllu
@@ -50,6 +50,32 @@ The following 2 pairs of parts of speech are connected with `compound:nn`: <tt><
 8	Paddan	Paddan	PROPN	N	Case=Nom|Number=Sing	9	compound:nn	_	_
 9	Aramis	Aram	PROPN	N	Case=Loc|Number=Sing	6	obl	_	SpaceAfter=No
 10	.	.	PUNCT	CLB	_	4	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 5 compound:nn	color:blue
+1	Sii	son	PRON	Pron	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	leat	leat	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	Ohcejogas	Ohcejohka	PROPN	N	Case=Loc|Number=Sing	2	obl	_	_
+4	golggotmánu	golggotmánnu	NOUN	N	Case=Gen|Number=Sing	5	nmod:poss	_	_
+5	vuosttaš	vuosttaš	ADJ	A	_	8	compound:nn	_	_
+6	beaivvi	beaivi	NOUN	N	Case=Gen|Number=Sing	5	conj	_	SpaceAfter=No
+7	,	,	PUNCT	CLB	_	2	punct	_	_
+8	Gáregasnjárggas	Gáregasnjárga	PROPN	N	Case=Loc|Number=Sing	2	obl	_	_
+9	nuppi	nubbi	ADJ	A	Case=Gen|Number=Sing	15	nmod:poss	_	_
+10	beaivvi	beaivi	NOUN	N	Case=Gen|Number=Sing	9	conj	_	_
+11	ja	ja	CCONJ	CC	_	10	cc	_	_
+12	Njuorggámis	Njuorggán	PROPN	N	Case=Loc|Number=Sing	2	obl	_	_
+13	ges	ges	PART	Pcle	_	12	discourse	_	_
+14	goalmmát	goalmmát	ADJ	A	_	15	amod	_	_
+15	beaivvi	beaivi	NOUN	N	Case=Gen|Number=Sing	2	obl	_	SpaceAfter=No
+16	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
 

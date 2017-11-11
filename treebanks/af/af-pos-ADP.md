@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Afrikaans: POS Tags: `ADP`
 
-There are 64 `ADP` lemmas (1%), 65 `ADP` types (1%) and 6286 `ADP` tokens (13%).
+There are 65 `ADP` lemmas (1%), 66 `ADP` types (1%) and 6286 `ADP` tokens (13%).
 Out of 16 observed tags, the rank of `ADP` is: 9 in number of lemmas, 9 in number of types and 2 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: van om in vir op met aan deur tot by
@@ -45,7 +45,7 @@ The 10 most frequent ambiguous types:  van (<tt><a href="af-pos-ADP.html">ADP</a
   * <tt><a href="af-pos-ADP.html">ADP</a></tt> 147: Die Staatsrede bied 'n breë oorsig <b>oor</b> ons aksieplan .
   * <tt><a href="af-pos-ADV.html">ADV</a></tt> 4: Wanneer dit gedoen word , verloor punte hul nut om spesifieke inligting <b>oor</b> te dra .
 * na
-  * <tt><a href="af-pos-ADP.html">ADP</a></tt> 98: Die lêer sal afgelaai word <b>na</b> die plek wat jy aangedui het .
+  * <tt><a href="af-pos-ADP.html">ADP</a></tt> 98: Dit is nie 'n strewe <b>na</b> 'n sogenaamde rassistiese agenda nie .
   * <tt><a href="af-pos-ADV.html">ADV</a></tt> 11: Dink <b>na</b> oor en ondersoek 'n verskeidenheid strategieë om doeltreffender te leer .
 * teen
   * <tt><a href="af-pos-ADP.html">ADP</a></tt> 71: Ons ontmoet hier <b>teen</b> die agtergrond van 'n wêreldwye ekonomiese krisis .
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  van (<tt><a href="af-pos-ADP.html">ADP</a
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.015625 (the average of all parts of speech is 1.120202).
+The form / lemma ratio of `ADP` is 1.015385 (the average of all parts of speech is 1.122045).
 
 The 1st highest number of forms (2) was observed with the lemma “insluit”: insluitend, insluitende.
 

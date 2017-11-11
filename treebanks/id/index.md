@@ -28,18 +28,30 @@ Questions, comments?
 General annotation questions (either Indonesian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Indonesian/issues).
 If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&nbsp;mff&nbsp;•&nbsp;cuni&nbsp;•&nbsp;cz].
+The UD version of this treebank currently does not have a maintainer.
+If you know the language and want to help, please consider adopting the treebank.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
-| XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Lemmas | not available |
+| UPOS | annotated manually in non-UD style, automatically converted to UD |
+| XPOS | not available |
+| Features | not available |
+| Relations | annotated manually in non-UD style, automatically converted to UD |
 
 ## Description
 
+The Indonesian UD is converted from the content head version of the [universal
+dependency treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
+
+
+
+
+The Indonesian UD conforms to the UD guidelines, but there are some exceptions.
+The primary exception is that there are no morphological features defined.
+
 ## Acknowledgments
+
 # Statistics of UD Indonesian
 
 ## POS Tags

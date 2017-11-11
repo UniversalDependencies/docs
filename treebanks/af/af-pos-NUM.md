@@ -22,7 +22,7 @@ The 10 most frequent ambiguous types:  geen (<tt><a href="af-pos-NUM.html">NUM</
   * <tt><a href="af-pos-NUM.html">NUM</a></tt> 32: Maar daar is ook <b>geen</b> twyfel dat daar nog baie uitdagings is nie .
   * <tt><a href="af-pos-ADJ.html">ADJ</a></tt> 1: Die voortgesette onbestendigheid van ons geldeenheid het ook <b>geen</b> goed vir ons uitvoerindustrie voorspel nie .
 * beide
-  * <tt><a href="af-pos-NUM.html">NUM</a></tt> 8: Dit sluit eerstens hoër beleggingskoerse in , <b>beide</b> deur die openbare en privaatsektor .
+  * <tt><a href="af-pos-NUM.html">NUM</a></tt> 8: Ons is veral bekommerd oor die sinnelose geweld en moorde in <b>beide</b> Kenia en Tsjad .
   * <tt><a href="af-pos-DET.html">DET</a></tt> 1: Dit behels die koördinering van staatsondernemings se planne en toesig oor al die infrastruktuurplanne , insluitend vrag en ander logistiek , energiepypleidings , inligting- en kommunikasietegnologie , paaie-infrastruktuur , en water en elektrisiteit , ten opsigte van <b>beide</b> hul tydsberekening en geografiese ligging .
 * vier
   * <tt><a href="af-pos-VERB.html">VERB</a></tt> 13: Ons moet hierdie groot prestasie inderdaad <b>vier</b> .
@@ -33,7 +33,7 @@ The 10 most frequent ambiguous types:  geen (<tt><a href="af-pos-NUM.html">NUM</
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.120202).
+The form / lemma ratio of `NUM` is 1.000000 (the average of all parts of speech is 1.122045).
 
 The 1st highest number of forms (1) was observed with the lemma “Tweehonderd”: Tweehonderd.
 

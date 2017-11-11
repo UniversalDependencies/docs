@@ -48,7 +48,7 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 
 * `Act` (263; 45% of non-empty `Voice`): <em>následující, rozhodující, třesoucí, nastávající, povznášející, stojící, vynikající, zbývající, blížícího, bušícím</em>
 * `Pass` (319; 55% of non-empty `Voice`): <em>přesvědčen, řečeno, oblečena, uspořádány, napsáno, obklopen, poslán, pozván, zakázáno, ztraceno</em>
-* `EMPTY` (10318): <em>první, celý, rád, další, jiného, poslední, malé, celé, celou, velké</em>
+* `EMPTY` (10317): <em>první, celý, rád, další, jiného, poslední, malé, celé, celou, velké</em>
 
 `Voice` seems to be **lexical feature** of `ADJ`. 100% lemmas (406) occur only with one value of `Voice`.
 

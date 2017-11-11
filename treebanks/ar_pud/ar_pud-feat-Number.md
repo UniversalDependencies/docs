@@ -30,7 +30,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 <table>
   <tr><th>Paradigm <i>minoTaqap_1</i></th><th><tt>Sing</tt></th><th><tt>Dual</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="ar_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt></tt></td><td>منطقة, المنطقة</td><td></td><td>المناطق</td></tr>
-  <tr><td><tt><tt><a href="ar_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt></tt></td><td>منطقة, المنطقة, منطقت, لمنطقة</td><td></td><td>المناطق, مناطق</td></tr>
+  <tr><td><tt><tt><a href="ar_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt></tt></td><td>المنطقة, منطقة, لمنطقة, منطقت</td><td></td><td>المناطق, مناطق</td></tr>
   <tr><td><tt><tt><a href="ar_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt></tt></td><td>منطقة</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="ar_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ar_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt></tt></td><td>المنطقة, منطقة</td><td>منطقتا</td><td></td></tr>
 </table>

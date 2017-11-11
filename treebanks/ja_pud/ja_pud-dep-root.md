@@ -37,7 +37,7 @@ The following 8 pairs of parts of speech are connected with `root`: -<tt><a href
 13	にとって	にとって	PART	CM	Case=Advb	12	case	_	GDPRL=compound:prt|GHEAD=14|GHEADH=12|GID=15|Match=Yes|SpaceAfter=No
 14	は	は	ADP	DP	_	12	case	_	GDPRL=compound:prt|GHEAD=14|GHEADH=12|GID=16|GUPOS=PART|Match=Yes|SpaceAfter=No
 15	、	、	PUNCT	,	_	12	punct	_	GHEAD=14|GHEADH=12|GID=17|Match=Yes|SpaceAfter=No
-16	この	この	ADJ	DT	_	17	det	_	GHEAD=19|GHEADH=17|GID=18|GUPOS=DET|Match=Yes|SpaceAfter=No
+16	この	この	DET	DT	_	17	det	_	GHEAD=19|GHEADH=17|GID=18|GUPOS=DET|Match=Yes|SpaceAfter=No
 17	こと	こと	NOUN	NNB	_	20	nsubj	_	GHEAD=22|GHEADH=20|GID=19|Match=Yes|SpaceAfter=No
 18	は	は	ADP	DP	_	17	case	_	GDPRL=compound:prt|GHEAD=19|GHEADH=17|GID=20|GUPOS=PART|Match=Yes|SpaceAfter=No
 19	少し	少し	ADV	RB	_	20	advmod	_	GHEAD=22|GHEADH=20|GID=21|Match=Yes|SpaceAfter=No

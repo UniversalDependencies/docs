@@ -12,7 +12,7 @@ udver: '2'
 # UD Romanian
 
 Language: [Romanian](../ro/overview/ro-hub.html) (code: `ro`)<br/>
-Family: Indo-European, Italic
+Family: Indo-European, Romance
 
 This treebank has been part of Universal Dependencies since the UD v1.2 release.
 
@@ -22,7 +22,7 @@ Repository: [UD_Romanian](https://github.com/UniversalDependencies/UD_Romanian)
 
 License: CC BY-SA 4.0
 
-Genre: 
+Genre: wiki, legal, news, fiction, medical, nonfiction, science
 
 Questions, comments?
 General annotation questions (either Romanian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
@@ -51,6 +51,7 @@ It is based on RACAI-RoTb (Irimia and Barbu Mititelu, 2015) and on UAIC-RoTb (Pe
 ## Acknowledgments
 
 This work was supported by a grant of the Romanian National Authority for Scientific Research and Innovation, CNCS - UEFISCDI, project number PN-II-RU-TE-2014-4-1362.
+
 
 # Statistics of UD Romanian
 

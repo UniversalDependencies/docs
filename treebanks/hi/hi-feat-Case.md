@@ -129,7 +129,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
   <tr><td><tt><tt><a href="hi-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="hi-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td></td><td></td><td>उनकी</td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hi-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="hi-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td></td><td></td><td>उनकी</td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hi-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi-feat-Polite.html">Polite</a></tt><tt>=Form</tt>|<tt><a href="hi-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td></td><td></td><td>उनके, उनकी, उनका, उनको</td><td></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hi-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td>उन्हें, उनको, उनकी, उनसे</td><td>उन्होंने, उन्‍होंने, उसने, उन्होनें</td><td></td><td>उनमें</td><td>उनसे</td><td>वे, वो, वह</td><td>उन, वे, उन्होंने</td></tr>
+  <tr><td><tt><tt><a href="hi-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td>उन्हें, उनको, उनसे, उनकी</td><td>उन्होंने, उन्‍होंने, उसने, उन्होनें</td><td></td><td>उनमें</td><td>उनसे</td><td>वे, वो, वह</td><td>उन, वे, उन्होंने</td></tr>
   <tr><td><tt><tt><a href="hi-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td></td><td></td><td>उसके, उनके, उसकी, उस, उसका</td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hi-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>उसे, उसको, उन्हें</td><td>उसने, उन्होंने</td><td></td><td>उसमें</td><td>उससे, उनसे</td><td>वह, वही, वो, वे</td><td>उस, उसी, वह, उसके</td></tr>
   <tr><td><tt><tt><a href="hi-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hi-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td></td><td></td><td>उनके, उनकी, उनका, उन्हें</td><td></td><td></td><td></td><td></td></tr>
@@ -200,7 +200,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
   <tr><td><tt><tt><a href="hi-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hi-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td></td><td></td><td>करने</td></tr>
   <tr><td><tt><tt><a href="hi-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hi-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td></td><td></td><td>करने, करवाने</td></tr>
   <tr><td><tt><tt><a href="hi-feat-Poss.html">Poss</a></tt><tt>=Yes</tt></tt></td><td>करके</td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hi-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td></td><td>करना, करने, करवाना</td><td>करने, करना, कराने, करवाना</td></tr>
+  <tr><td><tt><tt><a href="hi-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt></tt></td><td></td><td>करना, करने, करवाना</td><td>करने, करना, करवाना, कराने</td></tr>
   <tr><td><tt><tt><a href="hi-feat-VerbForm.html">VerbForm</a></tt><tt>=Inf</tt>|<tt><a href="hi-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td>करना</td><td>करना</td></tr>
 </table>
 
@@ -227,7 +227,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
   <tr><td><tt><tt><a href="hi-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="hi-feat-Polite.html">Polite</a></tt><tt>=Form</tt></tt></td><td></td><td>इन</td></tr>
   <tr><td><tt><tt><a href="hi-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hi-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>यह, इस, यही, ये, इसी</td><td>इस, इसी, यह</td></tr>
   <tr><td><tt><tt><a href="hi-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>इस</td></tr>
-  <tr><td><tt><tt><a href="hi-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hi-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>ये, इन, यह, यही</td><td>इन, इन्हीं, ये</td></tr>
+  <tr><td><tt><tt><a href="hi-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hi-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>ये, यह, यही, इन</td><td>इन, इन्हीं, ये</td></tr>
 </table>
 
 ### `ADV`

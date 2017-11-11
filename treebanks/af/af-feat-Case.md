@@ -11,8 +11,8 @@ It occurs with 2 different values: `Acc`, `Nom`.
 Some words have combined values of the feature; 1 combinations have been observed: `Acc|Nom`.
 
 4642 tokens (9%) have a non-empty value of `Case`.
-996 types (16%) occur at least once with a non-empty value of `Case`.
-788 lemmas (15%) occur at least once with a non-empty value of `Case`.
+1005 types (16%) occur at least once with a non-empty value of `Case`.
+791 lemmas (15%) occur at least once with a non-empty value of `Case`.
 The feature is used with 2 part-of-speech tags: <tt><a href="af-pos-ADJ.html">ADJ</a></tt> (3172; 6% instances), <tt><a href="af-pos-PRON.html">PRON</a></tt> (1470; 3% instances).
 
 ### `ADJ`
@@ -25,7 +25,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 * `Nom` (3172; 100% of non-empty `Case`): ander nasionale Suid-Afrikaanse openbare maatskaplike voorlopige nuwe plaaslike ekonomiese groot
 
-`Case` seems to be **lexical feature** of `ADJ`. 100% lemmas (775) occur only with one value of `Case`.
+`Case` seems to be **lexical feature** of `ADJ`. 100% lemmas (778) occur only with one value of `Case`.
 
 ### `PRON`
 

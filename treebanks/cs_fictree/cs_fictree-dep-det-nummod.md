@@ -18,19 +18,19 @@ The following 3 pairs of parts of speech are connected with `det:nummod`: <tt><a
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 det:nummod	color:blue
-1	Poprvé	poprvé	ADV	Cv-------------	NumType=Ord	7	obl	_	_
-2	po	po	ADP	RR--6----------	AdpType=Prep|Case=Loc	4	case	_	_
-3	kolika	kolik	DET	C?--6----------	Case=Loc|NumType=Card|PronType=Int,Rel	4	det:nummod	_	_
-4	týdnech	týden	NOUN	NNIP6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos	1	obl	_	_
-5	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	7	expl:pv	_	_
-6	mi	já	PRON	PH-S3--1-------	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	7	obj	_	_
-7	ulevilo	ulevit	VERB	VpNS----R-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-8	.	.	PUNCT	Z:-------------	_	7	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 det:nummod	color:blue
+1	Hlavní	hlavní	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	2	amod	_	_
+2	sestra	sestra	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	4	nsubj	_	_
+3	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	4	expl:pv	_	_
+4	dostavila	dostavit	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+5	během	během	ADP	RR--2----------	AdpType=Prep|Case=Gen	7	case	_	_
+6	několika	několik	DET	Ca--2----------	Case=Gen|NumType=Card|PronType=Ind	7	det:nummod	_	_
+7	minut	minuta	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	4	obl	_	SpaceAfter=No
+8	.	.	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -49,8 +49,8 @@ The following 3 pairs of parts of speech are connected with `det:nummod`: <tt><a
 6	vrčení	vrčení	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	4	advcl	_	_
 7	mašiny	mašina	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	6	nmod	_	_
 8	odkudsi	odkudsi	ADV	Db-------------	PronType=Ind	9	advmod	_	_
-9	zezadu	zezadu	ADV	Db-------------	_	6	advmod	_	_
-10	.	.	PUNCT	Z:-------------	_	1	punct	_	_
+9	zezadu	zezadu	ADV	Db-------------	_	6	advmod	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -63,7 +63,7 @@ The following 3 pairs of parts of speech are connected with `det:nummod`: <tt><a
 # visual-style 11 10 det:nummod	color:blue
 1	Potom	potom	ADV	Db-------------	_	3	advmod	_	_
 2	dlaň	dlaň	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	3	obj	_	_
-3	otevřela	otevřít	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+3	otevřela	otevřít	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	Z:-------------	_	5	punct	_	_
 5	leželo	ležet	VERB	VpNS----R-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	3	conj	_	_
 6	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	7	case	_	_
@@ -84,8 +84,8 @@ The following 3 pairs of parts of speech are connected with `det:nummod`: <tt><a
 21	jako	jako	SCONJ	J,-------------	_	22	mark	_	_
 22	stovky	stovka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	20	xcomp	_	_
 23	malých	malý	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	24	amod	_	_
-24	jizviček	jizvička	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	22	nmod	_	_
-25	.	.	PUNCT	Z:-------------	_	3	punct	_	_
+24	jizviček	jizvička	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	22	nmod	_	SpaceAfter=No
+25	.	.	PUNCT	Z:-------------	_	3	punct	_	SpaceAfter=No
 
 ~~~
 

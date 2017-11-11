@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-170 nodes (2%) are attached to their parents as `cop`.
+617 nodes (2%) are attached to their parents as `cop`.
 
-157 instances of `cop` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.67058823529412.
+569 instances of `cop` (92%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.72123176661264.
 
-The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-AUX.html">AUX</a></tt> (84; 49% instances), <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-AUX.html">AUX</a></tt> (75; 44% instances), <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-AUX.html">AUX</a></tt> (5; 3% instances), <tt><a href="sme-pos-PRON.html">PRON</a></tt>-<tt><a href="sme-pos-AUX.html">AUX</a></tt> (4; 2% instances), <tt><a href="sme-pos-NUM.html">NUM</a></tt>-<tt><a href="sme-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-AUX.html">AUX</a></tt> (290; 47% instances), <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-AUX.html">AUX</a></tt> (289; 47% instances), <tt><a href="sme-pos-PRON.html">PRON</a></tt>-<tt><a href="sme-pos-AUX.html">AUX</a></tt> (17; 3% instances), <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-AUX.html">AUX</a></tt> (16; 3% instances), <tt><a href="sme-pos-NUM.html">NUM</a></tt>-<tt><a href="sme-pos-AUX.html">AUX</a></tt> (4; 1% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -59,20 +59,25 @@ The following 6 pairs of parts of speech are connected with `cop`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 cop	color:blue
-1	Tubal-Kainas	Tubal-Kain	PROPN	N	Case=Loc|Number=Sing	2	obl	_	_
-2	lei	leat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	oabbá	oabbá	NOUN	N	Case=Nom|Number=Sing	2	nsubj	_	SpaceAfter=No
-4	,	,	PUNCT	CLB	_	2	punct	_	_
-5	gean	gii	PRON	Pron	Case=Gen|Number=Sing|PronType=Rel	6	nmod:poss	_	_
-6	namma	namma	NOUN	N	Case=Nom|Number=Sing	8	nsubj	_	_
-7	lei	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_
-8	Naama	Naama	PROPN	N	Case=Nom|Number=Sing	3	acl:relcl	_	SpaceAfter=No
-9	.	.	PUNCT	CLB	_	2	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 cop	color:blue
+1	Mun	mun	PRON	Pron	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	vocative	_	SpaceAfter=No
+2	,	,	PUNCT	CLB	_	6	punct	_	_
+3	Johanas	Johanas	PROPN	N	Case=Nom|Number=Sing	1	appos	_	SpaceAfter=No
+4	,	,	PUNCT	CLB	_	6	punct	_	_
+5	lean	leat	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	cop	_	_
+6	dat	dat	PRON	Pron	Case=Nom|Number=Sing|PronType=Dem	0	root	_	_
+7	guhte	guhte	PRON	Pron	Case=Nom|Number=Sing|PronType=Rel	9	nsubj	_	_
+8	lean	leat	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	gullan	gullat	VERB	V	Aspect=Perf|VerbForm=Part	6	acl:relcl	_	_
+10	ja	ja	CCONJ	CC	_	9	cc	_	_
+11	oaidnán	oaidnit	VERB	V	Aspect=Perf|VerbForm=Part	9	conj	_	_
+12	buot	buot	ADV	Adv	_	13	advmod	_	_
+13	dán	dát	PRON	Pron	Case=Acc|Number=Sing|PronType=Dem	11	obj	_	SpaceAfter=No
+14	.	.	PUNCT	CLB	_	6	punct	_	_
 
 ~~~
 

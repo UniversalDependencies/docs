@@ -27,8 +27,8 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 * `EMPTY` (115): <em>ez, ezt, azt, ezen, ebben, ilyen, e, arra, az, azokat</em>
 
 <table>
-  <tr><th>Paradigm <i>milyen</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>milyen</em></td><td><em>milyen</em></td></tr>
+  <tr><th>Paradigm <i>valamennyi</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>valamennyi</em></td><td><em>valamennyi</em></td></tr>
 </table>
 
 `Definite` seems to be **lexical feature** of `DET`. 93% lemmas (28) occur only with one value of `Definite`.

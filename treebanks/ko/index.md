@@ -12,7 +12,7 @@ udver: '2'
 # UD Korean
 
 Language: [Korean](../ko/overview/ko-hub.html) (code: `ko`)<br/>
-Family: Koreanic
+Family: Korean
 
 This treebank has been part of Universal Dependencies since the UD v2.0 release.
 
@@ -28,18 +28,26 @@ Questions, comments?
 General annotation questions (either Korean-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Korean/issues).
 If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&nbsp;mff&nbsp;•&nbsp;cuni&nbsp;•&nbsp;cz].
+Development of the treebank happens directly in the UD repository, so you may submit bug fixes as pull requests against the dev branch.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
-| XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Lemmas | not available |
+| UPOS | annotated manually in non-UD style, automatically converted to UD |
+| XPOS | annotated manually |
+| Features | not available |
+| Relations | annotated manually in non-UD style, automatically converted to UD |
 
 ## Description
 
+The Korean UD is converted from the content head version of the [universal
+dependency treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
+
+
+
+
 ## Acknowledgments
+
 # Statistics of UD Korean
 
 ## POS Tags
@@ -57,10 +65,10 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
 <h2>Tokenization and Word Segmentation</h2>
 
 <ul>
-<li>This corpus contains 5350 sentences and 63426 tokens.</li>
-<li>This corpus contains 5532 tokens (9%) that are not followed by a space.</li>
+<li>This corpus contains 6339 sentences and 74352 tokens.</li>
+<li>This corpus contains 6550 tokens (9%) that are not followed by a space.</li>
 <li>This corpus does not contain words with spaces.</li>
-<li>This corpus contains 2021 types of words that contain both letters and punctuation. Examples: 있다"고, 것"이라고, 한다"고, 있다"며, 것"이라며, "우리는, "이는, "이번, 없다"고, 했다"고, "그, "다만, "이, &amp;, day(데이, 바란다"고, 있다"면서, 있었다"고, "건담, "경기, "그러나, "내가, "북한의, "올, "유권자들이, "지금, "지난, "최근, "특히, "현재, '네덜란드의, '단일화, '박근혜, '스타골든벨, '최고의, (pizza, 10%를, 30%는, 4%의, Gee(지), L-29, 같다"고, 같다"며, 계획"이라고, 금상(1팀), 데이)의, 동상(2팀), 부장판사)는, 없다"면서, 예정"이라고</li>
+<li>This corpus contains 2282 types of words that contain both letters and punctuation. Examples: 있다"고, 것"이라고, 한다"고, 것"이라며, 있다"며, "이, 없다"고, "그, "우리는, "이는, "이번, 있다"면서, 있었다"고, 했다"고, "다만, "미국, &amp;, day(데이, 같다"고, 바란다"고, 전망"이라고, 파운드(약, "건담, "경기, "그러나, "그런, "내가, "북한의, "쇼트프로그램에서, "순두부찌게, "올, "유권자들이, "지금, "지난, "최근, "특히, "하지만, "현재, &lt;아이들, '날려라, '네덜란드의, '단일화, '더, '무한도전'에서는, '박근혜, '베트남전'의, '스타골든벨, '워리어스, '전, '정정당당한</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -122,7 +130,7 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
   <ul>
     <li>Card
       <ul>
-        <li>NUM: 한, 두, 첫, 세, 하나, 1, 하나는, 하나의, 2011, 3</li>
+        <li>NUM: 한, 두, 첫, 세, 하나, 1, 다섯, 하나는, 하나의, 네</li>
       </ul>
     </li>
   </ul>
@@ -152,9 +160,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (4886)</li>
+      <li>VERB--NOUN (5854)</li>
       <li>VERB--NOUN-ADP(_) (6)</li>
-      <li>VERB--PRON (246)</li>
+      <li>VERB--PRON (295)</li>
     </ul>
   </li>
 </ul>
@@ -162,9 +170,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (4387)</li>
+      <li>VERB--NOUN (5172)</li>
       <li>VERB--NOUN-ADP(_) (2)</li>
-      <li>VERB--PRON (56)</li>
+      <li>VERB--PRON (67)</li>
     </ul>
   </li>
 </ul>
@@ -172,7 +180,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB--NOUN (83)</li>
+      <li>VERB--NOUN (98)</li>
       <li>VERB--PRON (3)</li>
     </ul>
   </li>

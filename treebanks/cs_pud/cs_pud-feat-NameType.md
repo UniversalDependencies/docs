@@ -36,11 +36,9 @@ The most frequent other feature values with which `PROPN` and `NameType` co-occu
 * `Sur` (312; 29% of non-empty `NameType`): <em>Clintonové, Trump, Trumpa, Bluntová, Mišima, Seagal, Winstone, Wright, Šen, Aldrin</em>
 
 <table>
-  <tr><th>Paradigm <i>Karel</i></th><th><tt>Giv</tt></th><th><tt>Sur</tt></th></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>Karla</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>Karel</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td><em>Karel</em></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td><em>Karel</em></td></tr>
+  <tr><th>Paradigm <i>Rona</i></th><th><tt>Geo</tt></th><th><tt>Giv</tt></th></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>Roně</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Rona</em></td><td><em>Rona</em></td></tr>
 </table>
 
 `NameType` seems to be **lexical feature** of `PROPN`. 99% lemmas (769) occur only with one value of `NameType`.

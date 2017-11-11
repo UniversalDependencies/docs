@@ -12,7 +12,7 @@ udver: '2'
 # UD Belarusian
 
 Language: [Belarusian](../be/overview/be-hub.html) (code: `be`)<br/>
-Family: Indo-European, Balto-Slavic
+Family: Indo-European, Slavic
 
 This treebank has been part of Universal Dependencies since the UD v2.0 release.
 
@@ -40,6 +40,7 @@ If you want to collaborate, please contact [olesar&nbsp;(Ã¦t)&nbsp;yandex&nbsp;â
 ## Description
 
 ## Acknowledgments
+
 # Statistics of UD Belarusian
 
 ## POS Tags

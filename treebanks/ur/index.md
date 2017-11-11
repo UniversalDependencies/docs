@@ -12,7 +12,7 @@ udver: '2'
 # UD Urdu
 
 Language: [Urdu](../ur/overview/ur-hub.html) (code: `ur`)<br/>
-Family: Indo-European, Indo-Iranian
+Family: Indo-European, Indic
 
 This treebank has been part of Universal Dependencies since the UD v2.0 release.
 
@@ -28,18 +28,51 @@ Questions, comments?
 General annotation questions (either Urdu-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Urdu/issues).
 If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&nbsp;mff&nbsp;•&nbsp;cuni&nbsp;•&nbsp;cz].
+Development of the treebank happens outside the UD repository.
+If there are bugs, either the original data source or the conversion procedure must be fixed.
+Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
-| XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Lemmas | annotated manually in non-UD style, automatically converted to UD |
+| UPOS | annotated manually in non-UD style, automatically converted to UD |
+| XPOS | annotated manually |
+| Features | annotated manually in non-UD style, automatically converted to UD |
+| Relations | annotated manually in non-UD style, automatically converted to UD |
 
 ## Description
 
+The Urdu Universal Dependency Treebank was automatically converted from Urdu Dependency Treebank (UDTB) which is part of an ongoing effort of creating multi-layered treebanks for Hindi and Urdu.
+
+
+
 ## Acknowledgments
+
+UDTB is developed at IIIT-H India. The project is supported by NSF Grant (Award Number: CNS 0751202; CFDA Number: 47.070).
+
+Any publication reporting the work done using this data should cite the following references:
+
+Riyaz Ahmad Bhat, Rajesh Bhatt, Annahita Farudi, Prescott Klassen, Bhuvana Narasimhan, Martha Palmer, Owen Rambow, Dipti Misra Sharma, Ashwini Vaidya, Sri Ramagurumurthy Vishnu, and Fei Xia. The Hindi/Urdu Treebank Project. In the Handbook of Linguistic Annotation (edited by Nancy Ide and James Pustejovsky), Springer Press
+
+@InCollection{bhathindi,
+Title = {The Hindi/Urdu Treebank Project},
+Author = {Bhat, Riyaz Ahmad and Bhatt, Rajesh and Farudi, Annahita and Klassen, Prescott and Narasimhan, Bhuvana and Palmer, Martha and Rambow, Owen and Sharma, Dipti Misra and Vaidya, Ashwini and Vishnu, Sri Ramagurumurthy and others},
+Booktitle = {Handbook of Linguistic Annotation},
+Publisher = {Springer Press}
+}
+
+Martha Palmer, Rajesh Bhatt, Bhuvana Narasimhan, Owen Rambow, Dipti Misra Sharma, Fei Xia. Hindi Syntax: Annotating Dependency, Lexical Predicate-Argument Structure, and Phrase Structure. In the Proceedings of the 7th International Conference on Natural Language Processing, ICON-2009, Hyderabad, India, Dec 14-17, 2009.
+
+@inproceedings{palmer2009hindi,
+title={Hindi syntax: Annotating dependency, lexical predicate-argument structure, and phrase structure},
+author={Palmer, Martha and Bhatt, Rajesh and Narasimhan, Bhuvana and Rambow, Owen and Sharma, Dipti Misra and Xia, Fei},
+booktitle={The 7th International Conference on Natural Language Processing},
+pages={14--17},
+year={2009}
+}
+
+
+
 # Statistics of UD Urdu
 
 ## POS Tags

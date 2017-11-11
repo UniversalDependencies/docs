@@ -17,22 +17,17 @@ The following 3 pairs of parts of speech are connected with `compound`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 6 compound	color:blue
-1	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
-2	Da	da	SCONJ	_	_	4	mark	_	_
-3	li	li	PART	_	_	2	fixed	_	_
-4	želite	želeti	VERB	_	Number=Plur|Person=2|Tense=Pres	0	root	_	_
-5	da	da	SCONJ	_	_	8	mark	_	_
-6	se	sebe	PRON	_	Case=Acc|Number=Sing|Reflex=Yes	8	compound	_	_
-7	zakon	zakon	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
-8	poštuje	poštovati	VERB	_	Number=Sing|Person=3|Tense=Pres	4	ccomp	_	_
-9	ili	ili	CCONJ	_	_	4	cc	_	_
-10	ne	ne	PART	_	_	4	orphan	_	SpaceAfter=No
-11	?	?	PUNCT	_	_	4	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 compound	color:blue
+1	Strane	stran	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur	2	amod	_	_
+2	investicije	investicija	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	_
+3	se	sebe	PRON	_	Case=Acc|Number=Sing|Reflex=Yes	5	compound	_	_
+4	takođe	takođe	ADV	_	Degree=Pos	5	advmod	_	_
+5	smanjuju	smanjivati	VERB	_	Number=Plur|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

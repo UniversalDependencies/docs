@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Japanese-PUD: POS Tags: `CCONJ`
 
 There are 17 `CCONJ` lemmas (0%), 18 `CCONJ` types (0%) and 130 `CCONJ` tokens (0%).
-Out of 14 observed tags, the rank of `CCONJ` is: 10 in number of lemmas, 11 in number of types and 14 in number of tokens.
+Out of 15 observed tags, the rank of `CCONJ` is: 10 in number of lemmas, 11 in number of types and 15 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: しかし, また, および, または, そして, 一方, それに, あるいは, さもなくば, しかしながら
 
@@ -47,15 +47,15 @@ The 3rd highest number of forms (1) was observed with the lemma “さもなく�
 
 Parents of `CCONJ` nodes belong to 7 different parts of speech: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (75; 58% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (37; 28% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (10; 8% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (4; 3% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (1; 1% instances)
 
-67 (52%) `CCONJ` nodes are leaves.
+68 (52%) `CCONJ` nodes are leaves.
 
-62 (48%) `CCONJ` nodes have one child.
+61 (47%) `CCONJ` nodes have one child.
 
 1 (1%) `CCONJ` nodes have two children.
 
 The highest child degree of a `CCONJ` node is 2.
 
-Children of `CCONJ` nodes are attached using 3 different relations: <tt><a href="ja_pud-dep-punct.html">punct</a></tt> (60; 94% instances), <tt><a href="ja_pud-dep-nmod.html">nmod</a></tt> (3; 5% instances), <tt><a href="ja_pud-dep-acl.html">acl</a></tt> (1; 2% instances)
+Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="ja_pud-dep-punct.html">punct</a></tt> (60; 95% instances), <tt><a href="ja_pud-dep-nmod.html">nmod</a></tt> (3; 5% instances)
 
-Children of `CCONJ` nodes belong to 5 different parts of speech: <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (60; 94% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (1; 2% instances)
+Children of `CCONJ` nodes belong to 4 different parts of speech: <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (60; 95% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (1; 2% instances)
 

@@ -34,8 +34,8 @@ The 3rd highest number of forms (1) was observed with the lemma “fɔlɔw”: f
 `NUM` occurs with 2 feature-value pairs: `NumType=Card`, `Number=Plur`
 
 `NUM` occurs with 3 feature combinations.
-The most frequent feature combination is `NumType=Card` (1 tokens).
-Examples: 8
+The most frequent feature combination is `Number=Plur` (1 tokens).
+Examples: fɔlɔw
 
 
 ## Relations

@@ -67,7 +67,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 <table>
   <tr><th>Paradigm <i>е</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="kk-feat-Evident.html">Evident</a></tt><tt>=Fh</tt>|<tt><a href="kk-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kk-feat-Tense.html">Tense</a></tt><tt>=Aor</tt></tt></td><td><em>екен</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="kk-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="kk-feat-Tense.html">Tense</a></tt><tt>=Aor</tt></tt></td><td><em>мын</em></td><td><em>терміз, міз, піз, быз</em></td></tr>
+  <tr><td><tt><tt><a href="kk-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="kk-feat-Tense.html">Tense</a></tt><tt>=Aor</tt></tt></td><td><em>мын</em></td><td><em>быз, піз, міз, терміз</em></td></tr>
   <tr><td><tt><tt><a href="kk-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kk-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="kk-feat-Tense.html">Tense</a></tt><tt>=Aor</tt></tt></td><td><em>емес</em></td><td></td></tr>
   <tr><td><tt><tt><a href="kk-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="kk-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>еді</em></td><td></td></tr>
 </table>

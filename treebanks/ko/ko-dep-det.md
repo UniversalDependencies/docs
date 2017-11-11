@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `det`: <tt><a href="ko-dep-det-poss.html">det:poss</a></tt>.
 
-460 nodes (1%) are attached to their parents as `det`.
+539 nodes (1%) are attached to their parents as `det`.
 
-456 instances of `det` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.03695652173913.
+534 instances of `det` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.03710575139147.
 
-The following 6 pairs of parts of speech are connected with `det`: <tt><a href="ko-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko-pos-DET.html">DET</a></tt> (329; 72% instances), <tt><a href="ko-pos-ADV.html">ADV</a></tt>-<tt><a href="ko-pos-DET.html">DET</a></tt> (105; 23% instances), <tt><a href="ko-pos-VERB.html">VERB</a></tt>-<tt><a href="ko-pos-DET.html">DET</a></tt> (23; 5% instances), <tt><a href="ko-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ko-pos-NUM.html">NUM</a></tt>-<tt><a href="ko-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ko-pos-PRON.html">PRON</a></tt>-<tt><a href="ko-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `det`: <tt><a href="ko-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko-pos-DET.html">DET</a></tt> (380; 71% instances), <tt><a href="ko-pos-ADV.html">ADV</a></tt>-<tt><a href="ko-pos-DET.html">DET</a></tt> (126; 23% instances), <tt><a href="ko-pos-VERB.html">VERB</a></tt>-<tt><a href="ko-pos-DET.html">DET</a></tt> (30; 6% instances), <tt><a href="ko-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ko-pos-NUM.html">NUM</a></tt>-<tt><a href="ko-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ko-pos-PRON.html">PRON</a></tt>-<tt><a href="ko-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

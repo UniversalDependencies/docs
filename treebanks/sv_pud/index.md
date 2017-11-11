@@ -59,6 +59,7 @@ on the Stockholm-Ume√• Corpus and the Swedish-TP treebank, developed by Robert √
 Aaron Smith and Joakim, and available from https://github.com/robertostling/efselab.
 The syntactic annotation was checked and corrected manually by Joakim Nivre.
 
+
 # Statistics of UD Swedish PUD
 
 ## POS Tags

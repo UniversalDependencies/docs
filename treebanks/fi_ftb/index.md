@@ -12,7 +12,7 @@ udver: '2'
 # UD Finnish FTB
 
 Language: [Finnish](../fi/overview/fi-hub.html) (code: `fi`)<br/>
-Family: Uralic, Finno-Ugric
+Family: Uralic, Finnic
 
 This treebank has been part of Universal Dependencies since the UD v1.1 release.
 
@@ -40,6 +40,7 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
 ## Description
 
 ## Acknowledgments
+
 # Statistics of UD Finnish FTB
 
 ## POS Tags

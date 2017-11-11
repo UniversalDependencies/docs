@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
 13193 tokens (27%) have a non-empty value of `Number`.
-3740 types (61%) occur at least once with a non-empty value of `Number`.
-3117 lemmas (59%) occur at least once with a non-empty value of `Number`.
+3749 types (61%) occur at least once with a non-empty value of `Number`.
+3125 lemmas (59%) occur at least once with a non-empty value of `Number`.
 The feature is used with 3 part-of-speech tags: <tt><a href="af-pos-NOUN.html">NOUN</a></tt> (10459; 21% instances), <tt><a href="af-pos-PRON.html">PRON</a></tt> (2144; 4% instances), <tt><a href="af-pos-PROPN.html">PROPN</a></tt> (590; 1% instances).
 
 ### `NOUN`
@@ -50,7 +50,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 * `Sing` (590; 100% of non-empty `Number`): Suid-Afrika Afrika Februarie Madiba Crime Mandela of Bafana Maart Tambo
 
-`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (308) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 100% lemmas (309) occur only with one value of `Number`.
 
 ## Relations with Agreement in `Number`
 

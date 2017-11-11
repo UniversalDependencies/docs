@@ -12,7 +12,7 @@ udver: '2'
 # UD Catalan
 
 Language: [Catalan](../ca/overview/ca-hub.html) (code: `ca`)<br/>
-Family: Indo-European, Italic
+Family: Indo-European, Romance
 
 This treebank has been part of Universal Dependencies since the UD v1.3 release.
 
@@ -45,6 +45,7 @@ Catalan data from the AnCora corpus.
 
 
 ## Acknowledgments
+
 # Statistics of UD Catalan
 
 ## POS Tags

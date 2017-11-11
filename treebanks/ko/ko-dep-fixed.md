@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-12 nodes (0%) are attached to their parents as `fixed`.
+13 nodes (0%) are attached to their parents as `fixed`.
 
-12 instances of `fixed` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.25.
+13 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.23076923076923.
 
-The following 3 pairs of parts of speech are connected with `fixed`: <tt><a href="ko-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko-pos-VERB.html">VERB</a></tt> (9; 75% instances), <tt><a href="ko-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko-pos-ADV.html">ADV</a></tt> (2; 17% instances), <tt><a href="ko-pos-PRON.html">PRON</a></tt>-<tt><a href="ko-pos-VERB.html">VERB</a></tt> (1; 8% instances).
+The following 3 pairs of parts of speech are connected with `fixed`: <tt><a href="ko-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko-pos-VERB.html">VERB</a></tt> (10; 77% instances), <tt><a href="ko-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko-pos-ADV.html">ADV</a></tt> (2; 15% instances), <tt><a href="ko-pos-PRON.html">PRON</a></tt>-<tt><a href="ko-pos-VERB.html">VERB</a></tt> (1; 8% instances).
 
 
 ~~~ conllu

@@ -12,7 +12,7 @@ udver: '2'
 # UD Czech CLTT
 
 Language: [Czech](../cs/overview/cs-hub.html) (code: `cs`)<br/>
-Family: Indo-European, Balto-Slavic
+Family: Indo-European, Slavic
 
 This treebank has been part of Universal Dependencies since the UD v1.3 release.
 
@@ -70,6 +70,7 @@ Czech Legal Text Treebank,
 LINDAT/CLARIN digital library at Institute of Formal and Applied Linguistics,
 Charles University in Prague,
 http://hdl.handle.net/11234/1-1516.
+
 
 
 # Statistics of UD Czech CLTT

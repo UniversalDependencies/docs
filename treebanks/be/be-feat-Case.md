@@ -100,7 +100,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 <table>
   <tr><th>Paradigm <i>які</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><em>які, якія</em></td><td></td><td></td><td><em>якога</em></td><td><em>якой, якім</em></td><td></td></tr>
+  <tr><td><tt>_</tt></td><td><em>якія, які</em></td><td></td><td></td><td><em>якога</em></td><td><em>якой, якім</em></td><td></td></tr>
   <tr><td><tt><tt><a href="be-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="be-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="be-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td><em>якіх</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="be-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="be-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="be-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="be-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td><em>які</em></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="be-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="be-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="be-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td><em>якія</em></td><td></td><td></td><td></td><td></td></tr>

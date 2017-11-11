@@ -10,8 +10,8 @@ This feature is universal but the values `Dim` are language-specific.
 It occurs with 4 different values: `Cmp`, `Dim`, `Pos`, `Sup`.
 
 5221 tokens (11%) have a non-empty value of `Degree`.
-1315 types (21%) occur at least once with a non-empty value of `Degree`.
-992 lemmas (19%) occur at least once with a non-empty value of `Degree`.
+1325 types (21%) occur at least once with a non-empty value of `Degree`.
+996 lemmas (19%) occur at least once with a non-empty value of `Degree`.
 The feature is used with 3 part-of-speech tags: <tt><a href="af-pos-ADJ.html">ADJ</a></tt> (3172; 6% instances), <tt><a href="af-pos-ADV.html">ADV</a></tt> (2034; 4% instances), <tt><a href="af-pos-NOUN.html">NOUN</a></tt> (15; 0% instances).
 
 ### `ADJ`
@@ -22,7 +22,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 `ADJ` tokens may have the following values of `Degree`:
 
-* `Cmp` (63; 2% of non-empty `Degree`): beter hoër groter ouer sterker laer minder jonger langer stadiger
+* `Cmp` (63; 2% of non-empty `Degree`): beter hoër groter ouer sterker hoÃ«r laer minder jonger langer
 * `Pos` (3058; 96% of non-empty `Degree`): ander nasionale Suid-Afrikaanse openbare maatskaplike voorlopige nuwe plaaslike ekonomiese groot
 * `Sup` (51; 2% of non-empty `Degree`): naaste beste grootste belangrikste hoogste enigste ergste meeste doeltreffendste jongste
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt><tt><a href="af-feat-AdjType.html">AdjType</a></tt><tt>=Pred</tt></tt></td><td>groot</td><td>groter</td><td>grootste</td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADJ`. 97% lemmas (754) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADJ`. 97% lemmas (757) occur only with one value of `Degree`.
 
 ### `ADV`
 
@@ -40,7 +40,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 `ADV` tokens may have the following values of `Degree`:
 
-* `Cmp` (72; 4% of non-empty `Degree`): verder beter later langer vinniger harder vroeër minder sterker armer
+* `Cmp` (72; 4% of non-empty `Degree`): verder beter later langer vinniger harder minder vroeër sterker armer
 * `Pos` (1950; 96% of non-empty `Degree`): nie ook in saam nog uit aan egter reeds slegs
 * `Sup` (12; 1% of non-empty `Degree`): mees ergste minste meeste sterkste swaarste
 
@@ -49,7 +49,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
   <tr><td><tt></tt></td><td>goed</td><td>beter</td></tr>
 </table>
 
-`Degree` seems to be **lexical feature** of `ADV`. 96% lemmas (330) occur only with one value of `Degree`.
+`Degree` seems to be **lexical feature** of `ADV`. 97% lemmas (331) occur only with one value of `Degree`.
 
 ### `NOUN`
 

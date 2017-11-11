@@ -63,7 +63,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><tt><a href="en-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>is, 's, s, ’s, ai</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="en-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>was</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="en-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>were</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="en-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>are, 'm, 're, m, r, re, is, ´m, ai, ’m</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="en-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>are, 'm, 're, m, r, re, ai, is, ´m, ’m</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="en-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>been</em></td><td></td></tr>
 </table>
 

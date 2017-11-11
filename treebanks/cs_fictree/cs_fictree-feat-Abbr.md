@@ -10,8 +10,8 @@ This feature is universal.
 It occurs with 1 different values: `Yes`.
 
 116 tokens (0%) have a non-empty value of `Abbr`.
-34 types (0%) occur at least once with a non-empty value of `Abbr`.
-41 lemmas (0%) occur at least once with a non-empty value of `Abbr`.
+35 types (0%) occur at least once with a non-empty value of `Abbr`.
+35 lemmas (0%) occur at least once with a non-empty value of `Abbr`.
 The feature is used with 3 part-of-speech tags: <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (111; 0% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `PROPN`
@@ -22,10 +22,10 @@ The most frequent other feature values with which `PROPN` and `Abbr` co-occurred
 
 `PROPN` tokens may have the following values of `Abbr`:
 
-* `Yes` (111; 100% of non-empty `Abbr`): <em>K, M, L, T, J, V, A, C, E, F</em>
+* `Yes` (111; 100% of non-empty `Abbr`): <em>K, M, L, T, V, A, C, J, E, F</em>
 * `EMPTY` (2144): <em>Láďa, Leoš, Valentýna, Eduard, Havel, Alžběta, Flajšman, Veronika, Havlena, Filip</em>
 
-`Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (36) occur only with one value of `Abbr`.
+`Abbr` seems to be **lexical feature** of `PROPN`. 100% lemmas (31) occur only with one value of `Abbr`.
 
 ### `NOUN`
 
@@ -35,7 +35,7 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 
 `NOUN` tokens may have the following values of `Abbr`:
 
-* `Yes` (4; 100% of non-empty `Abbr`): <em>d, elektro, p</em>
+* `Yes` (4; 100% of non-empty `Abbr`): <em>dr, elektro, prof</em>
 * `EMPTY` (27592): <em>chvíli, život, oči, dítě, den, člověk, plod, dívka, profesor, ruce</em>
 
 ### `ADV`

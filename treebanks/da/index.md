@@ -40,6 +40,7 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
 ## Description
 
 ## Acknowledgments
+
 # Statistics of UD Danish
 
 ## POS Tags

@@ -51,7 +51,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><th>Paradigm <i>zijn</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
   <tr><td><tt>_</tt></td><td></td><td><em>zijn</em></td><td><em>geweest, zijnde</em></td></tr>
   <tr><td><tt><tt><a href="nl-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="nl-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>was</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="nl-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="nl-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>is, ben, bent, ware, zij, zijn, Wees</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="nl-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="nl-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>is, ben, bent, zij, ware, zijn, Wees</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="nl-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="nl-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>waren</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="nl-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="nl-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>zijn</em></td><td></td><td></td></tr>
 </table>

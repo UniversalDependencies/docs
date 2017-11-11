@@ -12,7 +12,7 @@ udver: '2'
 # UD Finnish
 
 Language: [Finnish](../fi/overview/fi-hub.html) (code: `fi`)<br/>
-Family: Uralic, Finno-Ugric
+Family: Uralic, Finnic
 
 This treebank has been part of Universal Dependencies since the UD v1.0 release.
 
@@ -61,6 +61,7 @@ We are grateful for the funding received from:
 * Turku University Foundation
 
 We thank all the authors who kindly allowed us to include their texts into the treebank, either by explicit permission, or by releasing their text under an open license in the first place.
+
 
 # Statistics of UD Finnish
 

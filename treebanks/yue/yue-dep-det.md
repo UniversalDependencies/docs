@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6 nodes (3%) are attached to their parents as `det`.
+14 nodes (2%) are attached to their parents as `det`.
 
-6 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.16666666666667.
+14 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.07142857142857.
 
-The following 3 pairs of parts of speech are connected with `det`: <tt><a href="yue-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue-pos-NOUN.html">NOUN</a></tt> (4; 67% instances), <tt><a href="yue-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue-pos-DET.html">DET</a></tt> (1; 17% instances), <tt><a href="yue-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue-pos-PRON.html">PRON</a></tt> (1; 17% instances).
+The following 4 pairs of parts of speech are connected with `det`: <tt><a href="yue-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue-pos-NOUN.html">NOUN</a></tt> (8; 57% instances), <tt><a href="yue-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue-pos-DET.html">DET</a></tt> (4; 29% instances), <tt><a href="yue-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue-pos-PART.html">PART</a></tt> (1; 7% instances), <tt><a href="yue-pos-NOUN.html">NOUN</a></tt>-<tt><a href="yue-pos-PRON.html">PRON</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
@@ -58,23 +58,21 @@ The following 3 pairs of parts of speech are connected with `det`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 det	color:blue
-1	成日	_	ADV	_	_	3	advmod	_	SpaceAfter=No
-2	都	_	ADV	_	_	3	advmod	_	SpaceAfter=No
-3	講	_	VERB	_	_	0	root	_	SpaceAfter=No
-4	埋	_	PART	_	_	3	advmod	_	SpaceAfter=No
-5	啲	_	NOUN	_	_	7	det	_	SpaceAfter=No
-6	咩	_	PRON	_	_	7	det	_	SpaceAfter=No
-7	龜波氣功	_	NOUN	_	_	3	obj	_	SpaceAfter=No
-8	吖	_	PART	_	_	3	discourse:sp	_	SpaceAfter=No
-9	，	_	PUNCT	_	_	10	punct	_	SpaceAfter=No
-10	打交	_	VERB	_	_	3	conj	_	SpaceAfter=No
-11	喇	_	PART	_	_	10	discourse:sp	_	SpaceAfter=No
-12	。	_	PUNCT	_	_	3	punct	_	SpaceAfter=No
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 det	color:blue
+1	呢	_	PART	_	_	2	det	_	SpaceAfter=No
+2	張	_	NOUN	_	_	8	nsubj	_	SpaceAfter=No
+3	唔	_	ADV	_	_	4	advmod	_	SpaceAfter=No
+4	係	_	AUX	_	_	8	cop	_	SpaceAfter=No
+5	你	_	PRON	_	_	6	nsubj	_	SpaceAfter=No
+6	中意	_	VERB	_	_	8	acl	_	SpaceAfter=No
+7	嘅	_	PART	_	_	6	mark:rel	_	SpaceAfter=No
+8	孫悟空	_	PROPN	_	_	0	root	_	SpaceAfter=No
+9	咩	_	PART	_	_	8	discourse:sp	_	SpaceAfter=No
+10	？	_	PUNCT	_	_	8	punct	_	SpaceAfter=No
 
 ~~~
 

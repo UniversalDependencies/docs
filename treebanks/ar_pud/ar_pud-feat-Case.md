@@ -29,7 +29,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 <table>
   <tr><th>Paradigm <i>EAm_1</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th></tr>
-  <tr><td><tt><tt><a href="ar_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ar_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>عام, العام</td><td></td><td>عام, العام</td></tr>
+  <tr><td><tt><tt><a href="ar_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ar_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>العام, عام</td><td></td><td>عام, العام</td></tr>
   <tr><td><tt><tt><a href="ar_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ar_pud-feat-Number.html">Number</a></tt><tt>=Dual</tt></tt></td><td></td><td></td><td>عامي, العامين</td></tr>
   <tr><td><tt><tt><a href="ar_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="ar_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>عاماً, عام</td><td>عامٍ, عام</td></tr>
   <tr><td><tt><tt><a href="ar_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="ar_pud-feat-Number.html">Number</a></tt><tt>=Dual</tt></tt></td><td></td><td></td><td>عامين</td></tr>
@@ -52,7 +52,7 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
   <tr><th>Paradigm <i>>aw~al_2</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th></tr>
   <tr><td><tt><tt><a href="ar_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ar_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>الأول, أول</td><td>الأول</td><td>الأول</td></tr>
   <tr><td><tt><tt><a href="ar_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ar_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td>أوائل</td></tr>
-  <tr><td><tt><tt><a href="ar_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ar_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>الأولى, أولى</td><td>الأولى</td><td>الأولى</td></tr>
+  <tr><td><tt><tt><a href="ar_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="ar_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>أولى, الأولى</td><td>الأولى</td><td>الأولى</td></tr>
   <tr><td><tt><tt><a href="ar_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt></tt></td><td></td><td></td><td>أول</td></tr>
   <tr><td><tt><tt><a href="ar_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="ar_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>أول</td><td>أول</td></tr>
   <tr><td><tt><tt><a href="ar_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt>|<tt><a href="ar_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>أولى</td><td>أولى</td></tr>

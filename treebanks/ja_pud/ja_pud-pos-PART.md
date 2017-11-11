@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Japanese-PUD: POS Tags: `PART`
 
 There are 16 `PART` lemmas (0%), 19 `PART` types (0%) and 326 `PART` tokens (1%).
-Out of 14 observed tags, the rank of `PART` is: 11 in number of lemmas, 10 in number of types and 11 in number of tokens.
+Out of 15 observed tags, the rank of `PART` is: 11 in number of lemmas, 10 in number of types and 11 in number of tokens.
 
 The 10 most frequent `PART` lemmas: の, か, 約, において, 第, 紀元前, における, さ, にとって, とともに
 

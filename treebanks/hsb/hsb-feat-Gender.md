@@ -51,26 +51,20 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 * `EMPTY` (36): <em>němsko, Awstro, Planowane, Tibeto, d, dołho, druhich, duchowno, hornjo, krótko</em>
 
 <table>
-  <tr><th>Paradigm <i>wulki</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>wulki</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>Najwjetše</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>wulku</em></td><td><em>wulke</em></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>wulke</em></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>wjetše</em></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>najwjetšu</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>wulku</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>wulke</em></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>wulkeje</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>wulkeje</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>wulkich</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>wulkimi</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>najwjetšimi</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>wjetšim</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>wulkich</em></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>wulki</em></td><td></td><td><em>wulke</em></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>Wulke</em></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>najwjetši</em></td><td><em>najwjetša</em></td><td><em>najwjetše</em></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>wulke</em></td></tr>
+  <tr><th>Paradigm <i>serbski</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>serbski</em></td><td></td><td><em>serbske</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>serbsku</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>serbskemu</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>serbskim</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>serbskeje</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Serbskeho</em></td><td><em>serbskeje</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>serbskich</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>serbskej, serbsku</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Serbskim</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Serbskim</em></td><td><em>serbskej</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Serbski, SERBSKI</em></td><td><em>serbska</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>serbska</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>serbske</em></td></tr>
 </table>
 
 ### `PROPN`
@@ -146,7 +140,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
   <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jeho</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jón, jeho</em></td><td><em>ju, nju</em></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>je</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Jej, jeje, njej</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>njej, jeje, Jej</em></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>njeje</em></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>nich</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hsb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>nimi</em></td></tr>
@@ -193,7 +187,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 <table>
   <tr><th>Paradigm <i>jedyn</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>jedny, jedyn</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>jedyn, jedny</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>jedyn</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>jedneho</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>jedyn</em></td><td></td><td></td></tr>

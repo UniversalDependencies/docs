@@ -56,11 +56,11 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 <table>
   <tr><th>Paradigm <i>तो</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Erg</tt></th><th><tt>Dat</tt></th><th><tt>Ins</tt></th><th><tt>Obl</tt></th></tr>
-  <tr><td><tt><tt><a href="mr-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="mr-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>तो, _</td><td>तो, _, त्याला</td><td>त्याने</td><td>त्याला</td><td>त्याने</td><td>_</td></tr>
+  <tr><td><tt><tt><a href="mr-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="mr-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>तो, _</td><td>त्याला, तो, _</td><td>त्याने</td><td>त्याला</td><td>त्याने</td><td>_</td></tr>
   <tr><td><tt><tt><a href="mr-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="mr-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>ते</td><td></td><td>त्यांनी</td><td>त्यांना</td><td></td><td>_</td></tr>
   <tr><td><tt><tt><a href="mr-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="mr-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="mr-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td>ते</td><td></td><td></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="mr-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="mr-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>ती</td><td>ती</td><td>तिने</td><td>तिला</td><td></td><td>_</td></tr>
-  <tr><td><tt><tt><a href="mr-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="mr-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>ते, _</td><td>त्याला, ते</td><td></td><td>त्याला</td><td>_</td><td>_</td></tr>
+  <tr><td><tt><tt><a href="mr-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="mr-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>ते, _</td><td>ते, त्याला</td><td></td><td>त्याला</td><td>_</td><td>_</td></tr>
   <tr><td><tt><tt><a href="mr-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="mr-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>ती</td><td></td><td>त्यांनी</td><td>त्यांना</td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="mr-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td></td><td></td><td>_</td></tr>
   <tr><td><tt></tt></td><td></td><td></td><td></td><td></td><td></td><td>_</td></tr>

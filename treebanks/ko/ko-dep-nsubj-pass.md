@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ko-dep-nsubj.html">nsubj</a></tt>.
 
-470 nodes (1%) are attached to their parents as `nsubj:pass`.
+533 nodes (1%) are attached to their parents as `nsubj:pass`.
 
-470 instances of `nsubj:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.3468085106383.
+533 instances of `nsubj:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.27954971857411.
 
-The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="ko-pos-VERB.html">VERB</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (443; 94% instances), <tt><a href="ko-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (14; 3% instances), <tt><a href="ko-pos-VERB.html">VERB</a></tt>-<tt><a href="ko-pos-PRON.html">PRON</a></tt> (8; 2% instances), <tt><a href="ko-pos-ADV.html">ADV</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="ko-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ko-pos-VERB.html">VERB</a></tt>-<tt><a href="ko-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="ko-pos-VERB.html">VERB</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (505; 95% instances), <tt><a href="ko-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (15; 3% instances), <tt><a href="ko-pos-VERB.html">VERB</a></tt>-<tt><a href="ko-pos-PRON.html">PRON</a></tt> (8; 2% instances), <tt><a href="ko-pos-ADV.html">ADV</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="ko-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ko-pos-VERB.html">VERB</a></tt>-<tt><a href="ko-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -42,28 +42,23 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 2 nsubj:pass	color:blue
-1	이러한	_	DET	DET	_	2	det	_	_
-2	침엽수는	_	NOUN	NOUN	_	10	nsubj:pass	_	_
-3	건축	_	NOUN	NOUN	_	10	advmod	_	SpaceAfter=No
-4	,	_	PUNCT	.	_	5	punct	_	_
-5	토목	_	NOUN	NOUN	_	3	conj	_	SpaceAfter=No
-6	,	_	PUNCT	.	_	3	punct	_	_
-7	제지	_	NOUN	NOUN	_	3	conj	_	_
-8	용으로	_	ADV	ADV	_	3	flat	_	_
-9	두루	_	ADV	ADV	_	10	advmod	_	_
-10	쓰이기	_	NOUN	NOUN	_	13	nmod	_	_
-11	때문에	_	ADP	ADP	_	10	case	_	_
-12	임업이	_	NOUN	NOUN	_	13	nsubj	_	_
-13	발달할	_	VERB	PREDREL	_	14	dep	_	_
-14	수	_	NOUN	NOUN	_	15	nsubj	_	_
-15	있게	_	VERB	PREDCX	_	0	root	_	_
-16	한다	_	VERB	VERB	_	15	flat	_	SpaceAfter=No
-17	.	.	PUNCT	.	_	16	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 3 nsubj:pass	color:blue
+1	이날	_	NOUN	NOUN	_	8	advmod	_	_
+2	회의에서는	_	ADV	ADV	_	1	flat	_	_
+3	비준안	_	NOUN	NOUN	_	8	nsubj:pass	_	_
+4	처리시기와	_	NOUN	NOMCONJ	_	3	flat	_	_
+5	야당과의	_	NOUN	NOUN	_	3	conj	_	_
+6	협상대책	_	NOUN	NOUN	_	5	flat	_	_
+7	등이	_	NOUN	NOUN	_	5	dep	_	_
+8	집중	_	NOUN	NOUN	_	10	dep	_	_
+9	논의될	_	VERB	PREDREL	_	8	flat	_	_
+10	것으로	_	ADV	ADV	_	11	advmod	_	_
+11	알려졌다	_	VERB	VERB	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	11	punct	_	_
 
 ~~~
 

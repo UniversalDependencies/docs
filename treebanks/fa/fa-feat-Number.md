@@ -60,7 +60,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
   <tr><td><tt><tt><a href="fa-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="fa-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td>نکردند</td></tr>
   <tr><td><tt><tt><a href="fa-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="fa-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>نمی‌کند, نمی‌شود</td><td>نمی‌کنند</td></tr>
   <tr><td><tt><tt><a href="fa-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="fa-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td>نکرده, نشده</td><td>نکرده‌اند</td></tr>
-  <tr><td><tt><tt><a href="fa-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td>کرد, می‌کرد, شد, نکرد, می‌شد, نشد, نمی‌شد, کرده</td><td>کردند, می‌کردند, شدند, می‌شدند, کنند</td></tr>
+  <tr><td><tt><tt><a href="fa-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td>کرد, می‌کرد, شد, نکرد, می‌شد, نشد, نمی‌شد, کرده</td><td>کردند, می‌کردند, شدند, کنند, می‌شدند</td></tr>
   <tr><td><tt><tt><a href="fa-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>می‌کند, می‌شود, نمی‌شود</td><td>می‌کنند, می‌شوند</td></tr>
   <tr><td><tt><tt><a href="fa-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td>کرده, شده</td><td>کرده‌اند</td></tr>
 </table>
@@ -109,7 +109,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
   <tr><td><tt><tt><a href="fa-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="fa-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td>نشده‌اند</td></tr>
   <tr><td><tt><tt><a href="fa-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="fa-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td>نمی‌شوند</td></tr>
   <tr><td><tt><tt><a href="fa-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="fa-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td>نشده</td><td>نشده‌اند</td></tr>
-  <tr><td><tt><tt><a href="fa-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td>شد, می‌شد, نشد, نمی‌شد, می‌کرد, کرد</td><td>شدند, می‌شدند</td></tr>
+  <tr><td><tt><tt><a href="fa-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td>شد, می‌شد, نشد, نمی‌شد, کرد, می‌کرد</td><td>شدند, می‌شدند</td></tr>
   <tr><td><tt><tt><a href="fa-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>می‌شود, نمی‌شود</td><td>می‌شوند, نمی‌شوند, می‌کنند</td></tr>
   <tr><td><tt><tt><a href="fa-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td>شده, نشده</td><td></td></tr>
 </table>

@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_Afrikaans: POS Tags: `CCONJ`
 
-There are 6 `CCONJ` lemmas (0%), 8 `CCONJ` types (0%) and 1946 `CCONJ` tokens (4%).
+There are 6 `CCONJ` lemmas (0%), 9 `CCONJ` types (0%) and 1946 `CCONJ` tokens (4%).
 Out of 16 observed tags, the rank of `CCONJ` is: 15 in number of lemmas, 15 in number of types and 10 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: en of maar asook want plus
 
-The 10 most frequent `CCONJ` types:  en of maar asook want én óf plus
+The 10 most frequent `CCONJ` types:  en of maar asook want én óf plus Ã©n
 
 The 10 most frequent ambiguous lemmas: of (<tt><a href="af-pos-CCONJ.html">CCONJ</a></tt> 375, <tt><a href="af-pos-SCONJ.html">SCONJ</a></tt> 16, <tt><a href="af-pos-PROPN.html">PROPN</a></tt> 7, <tt><a href="af-pos-X.html">X</a></tt> 4), plus (<tt><a href="af-pos-ADV.html">ADV</a></tt> 1, <tt><a href="af-pos-CCONJ.html">CCONJ</a></tt> 1)
 
@@ -19,7 +19,7 @@ The 10 most frequent ambiguous types:  of (<tt><a href="af-pos-CCONJ.html">CCONJ
 
 
 * of
-  * <tt><a href="af-pos-CCONJ.html">CCONJ</a></tt> 371: Vorms kan per hand afgelewer <b>of</b> per pos gestuur word .
+  * <tt><a href="af-pos-CCONJ.html">CCONJ</a></tt> 371: Maar ons twyfel nie dat dit wel een <b>of</b> ander tyd sal aanbreek nie .
   * <tt><a href="af-pos-SCONJ.html">SCONJ</a></tt> 16: Bel die permitkantoor om uit te vind <b>of</b> die permit gereed is voordat jy dit gaan haal .
   * <tt><a href="af-pos-PROPN.html">PROPN</a></tt> 7: Ons verwelkom vandag dr Imtiaz Sooliman van Gift <b>of</b> the Givers in hierdie huis .
   * <tt><a href="af-pos-X.html">X</a></tt> 4: Die aansoek moet by 'n registrasiebeampte of 'n aangewese persoon ingedien word wat jou dan van 'n erkenning van ontvangs van die aansoek moet voorsien in die vorm van Vorm B : Acknowledgement <b>of</b> receipt <b>of</b> application for registration <b>of</b> customary marriage .
@@ -29,9 +29,9 @@ The 10 most frequent ambiguous types:  of (<tt><a href="af-pos-CCONJ.html">CCONJ
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.333333 (the average of all parts of speech is 1.120202).
+The form / lemma ratio of `CCONJ` is 1.500000 (the average of all parts of speech is 1.122045).
 
-The 1st highest number of forms (2) was observed with the lemma “en”: en, én.
+The 1st highest number of forms (3) was observed with the lemma “en”: en, Ã©n, én.
 
 The 2nd highest number of forms (2) was observed with the lemma “of”: of, óf.
 

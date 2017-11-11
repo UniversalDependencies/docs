@@ -9,34 +9,34 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-1782 tokens (1%) have a non-empty value of `Poss`.
+1846 tokens (1%) have a non-empty value of `Poss`.
 32 types (0%) occur at least once with a non-empty value of `Poss`.
 12 lemmas (0%) occur at least once with a non-empty value of `Poss`.
-The feature is used with 3 part-of-speech tags: <tt><a href="it-pos-DET.html">DET</a></tt> (1751; 1% instances), <tt><a href="it-pos-PRON.html">PRON</a></tt> (30; 0% instances), <tt><a href="it-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="it-pos-DET.html">DET</a></tt> (1812; 1% instances), <tt><a href="it-pos-PRON.html">PRON</a></tt> (33; 0% instances), <tt><a href="it-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 ### `DET`
 
-1751 <tt><a href="it-pos-DET.html">DET</a></tt> tokens (4% of all `DET` tokens) have a non-empty value of `Poss`.
+1812 <tt><a href="it-pos-DET.html">DET</a></tt> tokens (4% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="it-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1751; 100%), <tt><a href="it-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1751; 100%), <tt><a href="it-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1066; 61%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="it-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (1812; 100%), <tt><a href="it-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1812; 100%), <tt><a href="it-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1109; 61%).
 
 `DET` tokens may have the following values of `Poss`:
 
-* `Yes` (1751; 100% of non-empty `Poss`): <em>sua, suo, loro, suoi, sue, proprio, nostra, mio, nostro, nostri</em>
-* `EMPTY` (44207): <em>il, la, i, l', le, un, gli, una, lo, quale</em>
+* `Yes` (1812; 100% of non-empty `Poss`): <em>sua, suo, loro, suoi, sue, proprio, nostra, mio, nostro, propria</em>
+* `EMPTY` (45858): <em>il, la, i, l', le, un, gli, una, lo, quale</em>
 
 `Poss` seems to be **lexical feature** of `DET`. 100% lemmas (11) occur only with one value of `Poss`.
 
 ### `PRON`
 
-30 <tt><a href="it-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Poss`.
+33 <tt><a href="it-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="it-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (30; 100%), <tt><a href="it-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (30; 100%), <tt><a href="it-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (30; 100%), <tt><a href="it-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (21; 70%), <tt><a href="it-feat-Number.html">Number</a></tt><tt>=Sing</tt> (20; 67%).
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="it-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (33; 100%), <tt><a href="it-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (33; 100%), <tt><a href="it-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (33; 100%), <tt><a href="it-feat-Number.html">Number</a></tt><tt>=Sing</tt> (23; 70%), <tt><a href="it-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (22; 67%).
 
 `PRON` tokens may have the following values of `Poss`:
 
-* `Yes` (30; 100% of non-empty `Poss`): <em>suo, suoi, sua, tuo, miei, mio, nostro, proprio, tua, loro</em>
-* `EMPTY` (10742): <em>si, che, chi, ci, cui, lo, ne, qual, mi, quanto</em>
+* `Yes` (33; 100% of non-empty `Poss`): <em>sua, suo, suoi, proprio, tuo, mia, miei, mio, nostro, tua</em>
+* `EMPTY` (11151): <em>si, che, chi, ci, cui, lo, ne, qual, quanto, mi</em>
 
 ### `ADJ`
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `ADJ` and `Poss` co-occurred: 
 `ADJ` tokens may have the following values of `Poss`:
 
 * `Yes` (1; 100% of non-empty `Poss`): <em>propria</em>
-* `EMPTY` (18437): <em>primo, prima, grande, nuovo, presente, altri, altro, stesso, comune, italiana</em>
+* `EMPTY` (19117): <em>primo, prima, grande, nuovo, presente, altri, altro, stesso, comune, italiana</em>
 
 ## Relations with Agreement in `Poss`
 

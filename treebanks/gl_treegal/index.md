@@ -12,7 +12,7 @@ udver: '2'
 # UD Galician TreeGal
 
 Language: [Galician](../gl/overview/gl-hub.html) (code: `gl`)<br/>
-Family: Indo-European, Italic
+Family: Indo-European, Romance
 
 This treebank has been part of Universal Dependencies since the UD v1.4 release.
 
@@ -28,18 +28,39 @@ Questions, comments?
 General annotation questions (either Galician-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Galician-TreeGal/issues).
 If you want to collaborate, please contact [marcos&nbsp;•&nbsp;garcia&nbsp;•&nbsp;gonzalez&nbsp;(æt)&nbsp;udc&nbsp;•&nbsp;gal].
+Development of the treebank happens outside the UD repository.
+If there are bugs, either the original data source or the conversion procedure must be fixed.
+Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
-| XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Lemmas | annotated manually, natively in UD style |
+| UPOS | annotated manually, natively in UD style |
+| XPOS | annotated manually |
+| Features | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
+| Relations | annotated manually, natively in UD style |
 
 ## Description
 
+The Galician-TreeGal is a treebank for Galician developed at LyS Group (Universidade da Coruña).
+
+
+
+The resource derives from a subset (called *xeral*) of the XIADA corpus (v2.6), created at the Centro Ramón Piñeiro para a Investigación en Humanidades (http://corpus.cirp.es/xiada/).
+
+All the information except the syntactic one was semi-automatically converted to UD from the original resource. The dependency labels were assigned using cross-lingual parsing techniques, and then manually corrected by a linguist (see the references for more information).
+
+Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens), and it is divided 20-40-40 splits (train-dev-test).
+
 ## Acknowledgments
+
+* Garcia, Marcos, 2016. *Universal Dependencies Guidelines for the Galician-TreeGal Treebank.* Technical Report. LyS Group, Universidade da Coruña.
+
+* Garcia, Marcos, Carlos Gómez-Rodríguez and Miguel A. Alonso, 2017. *New treebank or repurposed? On the feasibility of cross-lingual parsing of Romance languages with Universal Dependencies.* Natural Language Engineering, doi:10.1017/S1351324917000377
+
+* Rojo, Guillermo, Marisol López Martínez, Eva Domínguez Noya and Fco. Mario Barcala, 2015. *Corpus de adestramento do Etiquetador/Lematizador do Galego Actual (XIADA),* v2.6. Centro Ramón Piñeiro para a Investigación en Humanidades.
+
+
 # Statistics of UD Galician TreeGal
 
 ## POS Tags

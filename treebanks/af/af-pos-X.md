@@ -19,7 +19,7 @@ The 10 most frequent ambiguous types:  of (<tt><a href="af-pos-CCONJ.html">CCONJ
 
 
 * of
-  * <tt><a href="af-pos-CCONJ.html">CCONJ</a></tt> 371: Vorms kan per hand afgelewer <b>of</b> per pos gestuur word .
+  * <tt><a href="af-pos-CCONJ.html">CCONJ</a></tt> 371: Maar ons twyfel nie dat dit wel een <b>of</b> ander tyd sal aanbreek nie .
   * <tt><a href="af-pos-SCONJ.html">SCONJ</a></tt> 16: Bel die permitkantoor om uit te vind <b>of</b> die permit gereed is voordat jy dit gaan haal .
   * <tt><a href="af-pos-PROPN.html">PROPN</a></tt> 7: Ons verwelkom vandag dr Imtiaz Sooliman van Gift <b>of</b> the Givers in hierdie huis .
   * <tt><a href="af-pos-X.html">X</a></tt> 4: Die aansoek moet by 'n registrasiebeampte of 'n aangewese persoon ingedien word wat jou dan van 'n erkenning van ontvangs van die aansoek moet voorsien in die vorm van Vorm B : Acknowledgement <b>of</b> receipt <b>of</b> application for registration <b>of</b> customary marriage .
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  of (<tt><a href="af-pos-CCONJ.html">CCONJ
 
 ## Morphology
 
-The form / lemma ratio of `X` is 0.996016 (the average of all parts of speech is 1.120202).
+The form / lemma ratio of `X` is 0.996016 (the average of all parts of speech is 1.122045).
 
 The 1st highest number of forms (1) was observed with the lemma “(e)”: (e).
 

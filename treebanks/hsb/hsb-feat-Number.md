@@ -186,7 +186,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>je</em></td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt>|<tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>jeho</em></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>jón, jeho</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>ju, nju</em></td><td><em>je</em></td></tr>
+  <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>nju, ju</em></td><td><em>je</em></td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td></td><td><em>je</em></td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>Jej, jeje, njej</em></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>nich</em></td></tr>

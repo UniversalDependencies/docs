@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-13402 nodes (5%) are attached to their parents as `root`.
+13884 nodes (5%) are attached to their parents as `root`.
 
-13402 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.67713774063573.
+13884 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.67278882166523.
 
-The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="it-pos-VERB.html">VERB</a></tt> (9244; 69% instances), -<tt><a href="it-pos-NOUN.html">NOUN</a></tt> (2329; 17% instances), -<tt><a href="it-pos-ADJ.html">ADJ</a></tt> (742; 6% instances), -<tt><a href="it-pos-PRON.html">PRON</a></tt> (662; 5% instances), -<tt><a href="it-pos-PROPN.html">PROPN</a></tt> (238; 2% instances), -<tt><a href="it-pos-NUM.html">NUM</a></tt> (92; 1% instances), -<tt><a href="it-pos-ADV.html">ADV</a></tt> (75; 1% instances), -<tt><a href="it-pos-INTJ.html">INTJ</a></tt> (7; 0% instances), -<tt><a href="it-pos-X.html">X</a></tt> (6; 0% instances), -<tt><a href="it-pos-AUX.html">AUX</a></tt> (3; 0% instances), -<tt><a href="it-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), -<tt><a href="it-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="it-pos-VERB.html">VERB</a></tt> (9609; 69% instances), -<tt><a href="it-pos-NOUN.html">NOUN</a></tt> (2393; 17% instances), -<tt><a href="it-pos-ADJ.html">ADJ</a></tt> (758; 5% instances), -<tt><a href="it-pos-PRON.html">PRON</a></tt> (692; 5% instances), -<tt><a href="it-pos-PROPN.html">PROPN</a></tt> (245; 2% instances), -<tt><a href="it-pos-NUM.html">NUM</a></tt> (92; 1% instances), -<tt><a href="it-pos-ADV.html">ADV</a></tt> (75; 1% instances), -<tt><a href="it-pos-INTJ.html">INTJ</a></tt> (7; 0% instances), -<tt><a href="it-pos-X.html">X</a></tt> (6; 0% instances), -<tt><a href="it-pos-AUX.html">AUX</a></tt> (3; 0% instances), -<tt><a href="it-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), -<tt><a href="it-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

@@ -12,7 +12,7 @@ udver: '2'
 # UD Italian
 
 Language: [Italian](../it/overview/it-hub.html) (code: `it`)<br/>
-Family: Indo-European, Italic
+Family: Indo-European, Romance
 
 This treebank has been part of Universal Dependencies since the UD v1.0 release.
 
@@ -28,18 +28,37 @@ Questions, comments?
 General annotation questions (either Italian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Italian/issues).
 If you want to collaborate, please contact [simi&nbsp;(æt)&nbsp;di&nbsp;•&nbsp;unipi&nbsp;•&nbsp;it].
+Development of the treebank happens outside the UD repository.
+If there are bugs, either the original data source or the conversion procedure must be fixed.
+Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
-| XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Lemmas | annotated manually in non-UD style, automatically converted to UD |
+| UPOS | annotated manually in non-UD style, automatically converted to UD |
+| XPOS | annotated manually |
+| Features | annotated manually in non-UD style, automatically converted to UD |
+| Relations | annotated manually in non-UD style, automatically converted to UD |
 
 ## Description
 
+The Italian corpus annotated according to the UD annotation scheme was obtained by conversion from ISDT (Italian Stanford Dependency Treebank), released for the dependency parsing shared task of Evalita-2014 (Bosco et al. 2014).
+
+
+
+ISDT is a resource annotated according to the Stanford dependencies scheme (de Marneffe et al. 2008, 2013a, 2013b, 2014), obtained through a semi-automatic conversion process starting from MIDT (the Merged Italian Dependency Treebank). MIDT, in turn, is the result of a previous effort in the direction of improving interoperability of data sets available for Italian by harmonizing and merging two existing dependency–based resources, differing both in corpus composition and adopted annotation schemes, namely:
+
+* TUT, the Turin University Treebank (Bosco et al. 2000);
+* ISST-TANL, first released as ISST-CoNLL for the CoNLL-2007 shared task (Montemagni, Simi 2007), which was developed as a joint effort by the Istituto di Linguistica Computazionale (ILC–CNR) and the University of Pisa and originating from the Italian Syntactic–Semantic Treebank (ISST, Montemagni et al. 2003).
+
+The details of the harmonization and conversion process leading to MIDT are discussed in (Bosco, Montemagni, Simi, 2012). The Stanford annotation scheme, obtained from an enriched version of MIDT, was adapted to the specificity of the Italian language. We refer to (Bosco, Montemagni, Simi, 2013 and 2014) for a discussion.
+
 ## Acknowledgments
+
+We wish to thank all of the contributors to the original annotation efforts, as well as the supporting organizations, i.e. the Institute for Computational Linguistics "A. Zampolli", the University of Pisa, and the University of Torino. Thanks go to Chiara Alzetta and Giulia Venturi for the good work in defining the error detection methodology and the manual revision / correction of automatically identified errors in Version 2.1.
+
+
+
 # Statistics of UD Italian
 
 ## POS Tags
@@ -52,17 +71,17 @@ If you want to collaborate, please contact [simi&nbsp;(æt)&nbsp;di&nbsp;•&nbs
 
 ## Relations
 
-[acl](it-dep-acl.html) – [acl:relcl](it-dep-acl-relcl.html) – [advcl](it-dep-advcl.html) – [advmod](it-dep-advmod.html) – [amod](it-dep-amod.html) – [appos](it-dep-appos.html) – [aux](it-dep-aux.html) – [aux:pass](it-dep-aux-pass.html) – [case](it-dep-case.html) – [cc](it-dep-cc.html) – [ccomp](it-dep-ccomp.html) – [compound](it-dep-compound.html) – [conj](it-dep-conj.html) – [cop](it-dep-cop.html) – [csubj](it-dep-csubj.html) – [csubj:pass](it-dep-csubj-pass.html) – [dep](it-dep-dep.html) – [det](it-dep-det.html) – [det:poss](it-dep-det-poss.html) – [det:predet](it-dep-det-predet.html) – [discourse](it-dep-discourse.html) – [dislocated](it-dep-dislocated.html) – [expl](it-dep-expl.html) – [expl:impers](it-dep-expl-impers.html) – [expl:pass](it-dep-expl-pass.html) – [fixed](it-dep-fixed.html) – [flat](it-dep-flat.html) – [flat:foreign](it-dep-flat-foreign.html) – [flat:name](it-dep-flat-name.html) – [iobj](it-dep-iobj.html) – [mark](it-dep-mark.html) – [nmod](it-dep-nmod.html) – [nsubj](it-dep-nsubj.html) – [nsubj:pass](it-dep-nsubj-pass.html) – [nummod](it-dep-nummod.html) – [obj](it-dep-obj.html) – [obl](it-dep-obl.html) – [obl:agent](it-dep-obl-agent.html) – [orphan](it-dep-orphan.html) – [parataxis](it-dep-parataxis.html) – [punct](it-dep-punct.html) – [root](it-dep-root.html) – [vocative](it-dep-vocative.html) – [xcomp](it-dep-xcomp.html)
+[acl](it-dep-acl.html) – [acl:relcl](it-dep-acl-relcl.html) – [advcl](it-dep-advcl.html) – [advmod](it-dep-advmod.html) – [amod](it-dep-amod.html) – [appos](it-dep-appos.html) – [aux](it-dep-aux.html) – [aux:pass](it-dep-aux-pass.html) – [case](it-dep-case.html) – [cc](it-dep-cc.html) – [ccomp](it-dep-ccomp.html) – [compound](it-dep-compound.html) – [conj](it-dep-conj.html) – [cop](it-dep-cop.html) – [csubj](it-dep-csubj.html) – [csubj:pass](it-dep-csubj-pass.html) – [dep](it-dep-dep.html) – [det](it-dep-det.html) – [det:poss](it-dep-det-poss.html) – [det:predet](it-dep-det-predet.html) – [discourse](it-dep-discourse.html) – [dislocated](it-dep-dislocated.html) – [expl](it-dep-expl.html) – [expl:impers](it-dep-expl-impers.html) – [expl:pass](it-dep-expl-pass.html) – [fixed](it-dep-fixed.html) – [flat](it-dep-flat.html) – [flat:foreign](it-dep-flat-foreign.html) – [flat:name](it-dep-flat-name.html) – [goeswith](it-dep-goeswith.html) – [iobj](it-dep-iobj.html) – [mark](it-dep-mark.html) – [nmod](it-dep-nmod.html) – [nsubj](it-dep-nsubj.html) – [nsubj:pass](it-dep-nsubj-pass.html) – [nummod](it-dep-nummod.html) – [obj](it-dep-obj.html) – [obl](it-dep-obl.html) – [obl:agent](it-dep-obl-agent.html) – [orphan](it-dep-orphan.html) – [parataxis](it-dep-parataxis.html) – [punct](it-dep-punct.html) – [root](it-dep-root.html) – [vocative](it-dep-vocative.html) – [xcomp](it-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 <ul>
-<li>This corpus contains 13402 sentences, 263764 tokens and 282611 syntactic words.</li>
-<li>This corpus contains 37826 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 13884 sentences, 273444 tokens and 293028 syntactic words.</li>
+<li>This corpus contains 39252 tokens (14%) that are not followed by a space.</li>
 <li>This corpus does not contain words with spaces.</li>
-<li>This corpus contains 202 types of words that contain both letters and punctuation. Examples: l', d', un', l’, art., c', quest', cos', po', v., n., e', s', dov', 's, d’, l., quest’, c’, un’, anch', att., quell', S., check-up, e-mail, ss., tutt', Sant', cinquant', Cost., F., artt., ecc., n', trent', dell', distr., s.p.a., sett., vent', Civ., Cod., H., Proc., T., W., al., cm., com'</li>
-<li>This corpus contains 18822 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 788 types of multi-word tokens. Examples: del, della, dei, al, nel, dell', delle, alla, dal, all', nella, degli, ai, dalla, alle, nei, sul, nell', nelle, sulla, dall', dalle, dello, dai, negli, sulle, sull', agli, sui, dell’, dagli, allo, nello, col, dallo, sugli, all’, farsi, sullo, farlo, esserci, essersi, farne, nell’, coi, dall’, muoversi, osservarsi, farle, impegnarsi.</li>
+<li>This corpus contains 206 types of words that contain both letters and punctuation. Examples: l', d', un', l’, art., c', quest', cos', po', v., n., e', s', dov', 's, d’, l., quest’, c’, un’, anch', att., quell', check-up, S., Sant', e-mail, tutt', ss., cinquant', Cost., F., artt., ecc., n', trent', com', dell', distr., s.p.a., sett., vent', Civ., Cod., H., Proc., T., W., al., cm.</li>
+<li>This corpus contains 19558 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 809 types of multi-word tokens. Examples: del, della, dei, al, nel, dell', delle, alla, dal, all', nella, degli, dalla, ai, alle, nei, sul, nell', nelle, sulla, dall', dalle, dello, dai, negli, sulle, sull', agli, sui, dell’, dagli, allo, nello, col, sugli, dallo, all’, sullo, farsi, farlo, esserci, essersi, farne, nell’, dall’, coi, muoversi, osservarsi, renderlo, servirsi.</li>
 </ul>
 
 <h2>Morphology</h2>
@@ -105,8 +124,8 @@ If you want to collaborate, please contact [simi&nbsp;(æt)&nbsp;di&nbsp;•&nbs
   </li>
   <li>Ger
   <ul>
-    <li>AUX: essendo, avendo, dovendo, potendo</li>
-    <li>VERB: considerando, facendo, portando, cercando, seguendo, tenendo, dando, lasciando, parlando, passando</li>
+    <li>AUX: essendo, avendo, dovendo, potendo, volendo</li>
+    <li>VERB: considerando, facendo, portando, cercando, lasciando, seguendo, tenendo, dando, parlando, passando</li>
   </ul>
   </li>
   <li>Inf
@@ -134,8 +153,8 @@ If you want to collaborate, please contact [simi&nbsp;(æt)&nbsp;di&nbsp;•&nbs
       <ul>
         <li>ADJ: prima, italiana, altra, stessa, altre, nuova, nuove, economica, seconda, alta</li>
         <li>AUX-Part: stata, state, potuta, andata, fatta</li>
-        <li>DET: la, le, una, sua, un', questa, sue, queste, tutte, molte</li>
-        <li>NOUN: città, parte, società, legge, persone, proprietà, attività, vita, commissione, servitù</li>
+        <li>DET: la, le, una, sua, un', questa, sue, queste, tutte, tutta</li>
+        <li>NOUN: città, parte, legge, società, persone, proprietà, attività, vita, servitù, commissione</li>
         <li>PRON: la, le, quella, quelle, una, questa, essa, esse, altra, lei</li>
         <li>PROPN: hye</li>
         <li>VERB-Part: fatta, stabilite, dovuta, fatte, vista, considerata, costituita, fondata, nata, chiamata</li>
@@ -146,13 +165,13 @@ If you want to collaborate, please contact [simi&nbsp;(æt)&nbsp;di&nbsp;•&nbs
         <li>ADJ: primo, nuovo, altri, altro, stesso, vero, europeo, secondo, terzo, pubblico</li>
         <li>ADP: del, du</li>
         <li>ADV: pochissimo</li>
-        <li>AUX-Part: stato, stati, potuto, dovuto, voluto, andato, fatto</li>
+        <li>AUX-Part: stato, stati, potuto, dovuto, voluto, andato, fatto, potuti</li>
         <li>DET: il, i, un, gli, lo, suo, questo, tutti, suoi, alcuni</li>
-        <li>NOUN: anni, presidente, fondo, diritto, anno, proprietario, film, stato, mondo, caso</li>
+        <li>NOUN: anni, presidente, fondo, diritto, anno, stato, film, proprietario, mondo, caso</li>
         <li>NOUN-Part: previsto</li>
-        <li>PRON: lo, quello, uno, questo, li, gli, lui, tutto, ciò, tutti</li>
+        <li>PRON: lo, quello, uno, li, questo, gli, lui, tutto, ciò, tutti</li>
         <li>VERB-Fin: chiamati</li>
-        <li>VERB-Part: fatto, visto, vinto, avuto, tenuto, detto, nato, ricevuto, dato, messo</li>
+        <li>VERB-Part: fatto, visto, vinto, avuto, tenuto, detto, nato, dato, ricevuto, messo</li>
         <li>X: mixer</li>
       </ul>
     </li>
@@ -164,29 +183,29 @@ If you want to collaborate, please contact [simi&nbsp;(æt)&nbsp;di&nbsp;•&nbs
   <ul>
     <li>Plur
       <ul>
-        <li>ADJ: grandi, altri, seguenti, nazionali, speciali, altre, locali, importanti, internazionali, principali</li>
-        <li>AUX-Fin: sono, hanno, possono, erano, siano, devono, abbiamo, possiamo, siamo, furono</li>
-        <li>AUX-Part: stati, state</li>
+        <li>ADJ: altri, grandi, seguenti, nazionali, speciali, altre, locali, importanti, internazionali, principali</li>
+        <li>AUX-Fin: sono, hanno, possono, erano, siano, devono, abbiamo, possiamo, siamo, vengono</li>
+        <li>AUX-Part: stati, state, potuti</li>
         <li>DET: i, le, gli, tutti, suoi, alcuni, quanti, sue, questi, queste</li>
-        <li>NOUN: anni, persone, paesi, opere, diritti, giorni, membri, cittadini, donne, condizioni</li>
+        <li>NOUN: anni, persone, opere, paesi, diritti, giorni, membri, cittadini, donne, stati</li>
         <li>PRON: ci, li, noi, tutti, altri, loro, quelli, quelle, quali, vi</li>
         <li>PROPN: hye</li>
-        <li>VERB-Fin: hanno, sono, fanno, trovano, applicano, partecipano, abbiamo, vivono, esistono, vanno</li>
-        <li>VERB-Part: stabilite, fatti, stabiliti, fatte, derivanti, esistenti, chiamati, appartenenti, compresi, posti</li>
+        <li>VERB-Fin: hanno, sono, fanno, trovano, applicano, partecipano, abbiamo, esistono, vivono, vanno</li>
+        <li>VERB-Part: stabilite, fatti, stabiliti, fatte, derivanti, esistenti, chiamati, appartenenti, compresi, costituite</li>
       </ul>
     </li>
     <li>Sing
       <ul>
-        <li>ADJ: grande, presente, primo, comune, internazionale, prima, nazionale, mondiale, possibile, sociale</li>
+        <li>ADJ: grande, presente, primo, comune, prima, internazionale, nazionale, possibile, mondiale, sociale</li>
         <li>ADP: del, du</li>
         <li>ADV: pochissimo</li>
         <li>AUX-Fin: è, ha, può, era, deve, sia, fu, viene, aveva, venne</li>
         <li>AUX-Part: stato, stata, potuto, dovuto, voluto, andato, potuta, andata, fatta, fatto</li>
         <li>DET: il, la, l', un, una, lo, quale, sua, suo, un'</li>
-        <li>NOUN: presidente, parte, fondo, diritto, anno, legge, proprietario, stato, mondo, caso</li>
+        <li>NOUN: presidente, parte, fondo, diritto, anno, legge, stato, proprietario, mondo, caso</li>
         <li>NOUN-Part: previsto</li>
-        <li>PRON: lo, qual, mi, quanto, quale, quello, uno, la, questo, gli</li>
-        <li>VERB-Fin: ha, è, trova, fa, chiama, dice, morì, significa, vede, riguarda</li>
+        <li>PRON: lo, qual, quanto, mi, quale, quello, uno, la, questo, cosa</li>
+        <li>VERB-Fin: ha, è, trova, fa, chiama, dice, morì, significa, vede, sembra</li>
         <li>VERB-Part: fatto, visto, vinto, avuto, tenuto, detto, nato, dato, ricevuto, messo</li>
         <li>X: cultural, state</li>
       </ul>
@@ -253,14 +272,14 @@ If you want to collaborate, please contact [simi&nbsp;(æt)&nbsp;di&nbsp;•&nbs
   <ul>
     <li>Cnd
       <ul>
-        <li>AUX-Fin: sarebbe, potrebbe, avrebbe, dovrebbero, dovrebbe, potrebbero, sarebbero, vorrei, avrebbero, dovremmo</li>
-        <li>VERB-Fin: bisognerebbe, comporterebbe, consentirebbe, direi, sarebbe, sarebbero, vorrei, avrebbe, farebbe, gradirei</li>
+        <li>AUX-Fin: sarebbe, potrebbe, avrebbe, dovrebbe, dovrebbero, potrebbero, sarebbero, vorrei, avrebbero, dovremmo</li>
+        <li>VERB-Fin: bisognerebbe, comporterebbe, consentirebbe, direi, sarebbe, vorrei, avrebbe, sarebbero, farebbe, gradirei</li>
       </ul>
     </li>
     <li>Imp
       <ul>
         <li>AUX-Fin: devi, dovete, sii</li>
-        <li>VERB-Fin: v., Nomina, Dimmi, Elenca, vedi, Dammi, clicca, usa, vai, andate</li>
+        <li>VERB-Fin: v., Nomina, Dimmi, Elenca, vedi, Dammi, clicca, ricorda, usa, vai</li>
       </ul>
     </li>
     <li>Ind
@@ -271,7 +290,7 @@ If you want to collaborate, please contact [simi&nbsp;(æt)&nbsp;di&nbsp;•&nbs
     </li>
     <li>Sub
       <ul>
-        <li>AUX-Fin: sia, siano, possa, abbia, fosse, venga, avesse, possano, debba, fossero</li>
+        <li>AUX-Fin: sia, siano, possa, abbia, fosse, venga, avesse, debba, possano, fossero</li>
         <li>VERB-Fin: abbia, sia, faccia, abbiano, veda, siano, facciano, tratti, disponga, permetta</li>
       </ul>
     </li>
@@ -297,7 +316,7 @@ If you want to collaborate, please contact [simi&nbsp;(æt)&nbsp;di&nbsp;•&nbs
         <li>AUX-Fin: fu, venne, furono, vennero, potè, Fui, dovette, poterono</li>
         <li>AUX-Part: stato, stata, stati, state, potuto, dovuto, voluto, andato, potuta, andata</li>
         <li>NOUN-Part: previsto</li>
-        <li>VERB-Fin: morì, scrisse, nacque, ebbe, vide, fu, divenne, iniziò, portò, avvenne</li>
+        <li>VERB-Fin: morì, scrisse, nacque, ebbe, fu, vide, avvenne, divenne, portò, fece</li>
         <li>VERB-Part: fatto, visto, vinto, avuto, tenuto, detto, nato, dato, ricevuto, messo</li>
       </ul>
     </li>
@@ -336,14 +355,14 @@ If you want to collaborate, please contact [simi&nbsp;(æt)&nbsp;di&nbsp;•&nbs
     </li>
     <li>Ind
       <ul>
-        <li>DET: ogni, alcuni, qualche, molti, più, qualsiasi, molte, diversi, alcune, pochi</li>
+        <li>DET: ogni, alcuni, qualche, molti, più, qualsiasi, molte, diversi, alcune, alcuna</li>
         <li>PRON: uno, tutto, tutti, altri, una, altro, nessuno, più, molti, nulla</li>
       </ul>
     </li>
     <li>Int
       <ul>
         <li>DET: quale, che, quanti, quante, quali, quanta, quanto, Qual, quel</li>
-        <li>PRON: chi, qual, cosa, quanto, cos', che, quale, Quanti, Quali, Quante</li>
+        <li>PRON: chi, qual, cosa, quanto, cos', che, quale, quanti, Quali, Quante</li>
       </ul>
     </li>
     <li>Neg
@@ -354,7 +373,7 @@ If you want to collaborate, please contact [simi&nbsp;(æt)&nbsp;di&nbsp;•&nbs
     <li>Prs
       <ul>
         <li>ADJ: propria</li>
-        <li>DET: sua, suo, loro, suoi, sue, proprio, nostra, mio, nostro, nostri</li>
+        <li>DET: sua, suo, loro, suoi, sue, proprio, nostra, mio, nostro, propria</li>
         <li>PRON: si, ci, lo, ne, mi, c', la, li, gli, lui</li>
       </ul>
     </li>
@@ -398,8 +417,8 @@ If you want to collaborate, please contact [simi&nbsp;(æt)&nbsp;di&nbsp;•&nbs
     <li>Yes
       <ul>
         <li>ADJ: propria</li>
-        <li>DET: sua, suo, loro, suoi, sue, proprio, nostra, mio, nostro, nostri</li>
-        <li>PRON: suo, suoi, sua, tuo, miei, mio, nostro, proprio, tua, loro</li>
+        <li>DET: sua, suo, loro, suoi, sue, proprio, nostra, mio, nostro, propria</li>
+        <li>PRON: sua, suo, suoi, proprio, tuo, mia, miei, mio, nostro, tua</li>
       </ul>
     </li>
   </ul>
@@ -412,19 +431,19 @@ If you want to collaborate, please contact [simi&nbsp;(æt)&nbsp;di&nbsp;•&nbs
       <ul>
         <li>AUX-Fin: ho, abbiamo, possiamo, siamo, sono, vorrei, dobbiamo, devo, stiamo, posso</li>
         <li>PRON: ci, mi, noi, io, me, I, ce, m', ve</li>
-        <li>VERB-Fin: credo, abbiamo, vediamo, so, ho, faccio, mettiamo, metto, sappiamo, facciamo</li>
+        <li>VERB-Fin: credo, abbiamo, vediamo, so, ho, faccio, mettiamo, facciamo, metto, sappiamo</li>
       </ul>
     </li>
     <li>2
       <ul>
-        <li>AUX-Fin: puoi, devi, hai, sei, avete, siete, vuoi, volete, Dovevi, abbiate</li>
+        <li>AUX-Fin: puoi, devi, sei, hai, avete, siete, vuoi, volete, Dovevi, abbiate</li>
         <li>PRON: ti, vi, te, tu, voi</li>
-        <li>VERB-Fin: v., Nomina, Dimmi, fai, vedi, Elenca, hai, ricevi, Dammi, crei</li>
+        <li>VERB-Fin: v., Nomina, Dimmi, vedi, fai, Elenca, hai, ricevi, Dammi, crei</li>
       </ul>
     </li>
     <li>3
       <ul>
-        <li>AUX-Fin: è, ha, sono, può, hanno, era, deve, possono, sia, fu</li>
+        <li>AUX-Fin: è, sono, ha, può, hanno, era, deve, possono, sia, fu</li>
         <li>PRON: si, lo, la, li, gli, lui, le, l', loro, se</li>
         <li>VERB-Fin: ha, è, hanno, trova, sono, fa, chiama, dice, morì, fanno</li>
       </ul>
@@ -452,7 +471,7 @@ If you want to collaborate, please contact [simi&nbsp;(æt)&nbsp;di&nbsp;•&nbs
       <ul>
         <li>NOUN: Award</li>
         <li>PROPN: Les, Nobody, barbares, knows</li>
-        <li>X: Illusions, perdues, De, ad, home, la, Come, Damage, Done, Ecce</li>
+        <li>X: Illusions, de, perdues, ad, home, la, Come, Damage, Ecce, bombo</li>
       </ul>
     </li>
   </ul>
@@ -474,15 +493,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (3555)</li>
-      <li>VERB-Fin--PRON (1764)</li>
-      <li>VERB-Ger--NOUN (44)</li>
+      <li>VERB-Fin--NOUN (3680)</li>
+      <li>VERB-Fin--PRON (1842)</li>
+      <li>VERB-Ger--NOUN (46)</li>
       <li>VERB-Ger--PRON (21)</li>
-      <li>VERB-Inf--NOUN (572)</li>
-      <li>VERB-Inf--PRON (181)</li>
-      <li>VERB-Part--NOUN (1188)</li>
+      <li>VERB-Inf--NOUN (590)</li>
+      <li>VERB-Inf--PRON (188)</li>
+      <li>VERB-Part--NOUN (1232)</li>
       <li>VERB-Part--NOUN-ADP(di) (2)</li>
-      <li>VERB-Part--PRON (537)</li>
+      <li>VERB-Part--PRON (549)</li>
     </ul>
   </li>
 </ul>
@@ -490,15 +509,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (3307)</li>
-      <li>VERB-Fin--PRON (744)</li>
-      <li>VERB-Ger--NOUN (346)</li>
-      <li>VERB-Ger--PRON (51)</li>
-      <li>VERB-Inf--NOUN (2736)</li>
+      <li>VERB-Fin--NOUN (3445)</li>
+      <li>VERB-Fin--PRON (765)</li>
+      <li>VERB-Ger--NOUN (360)</li>
+      <li>VERB-Ger--PRON (53)</li>
+      <li>VERB-Inf--NOUN (2806)</li>
       <li>VERB-Inf--NOUN-ADP(in) (1)</li>
-      <li>VERB-Inf--PRON (425)</li>
-      <li>VERB-Part--NOUN (1249)</li>
-      <li>VERB-Part--PRON (296)</li>
+      <li>VERB-Inf--PRON (448)</li>
+      <li>VERB-Part--NOUN (1285)</li>
+      <li>VERB-Part--PRON (308)</li>
     </ul>
   </li>
 </ul>
@@ -506,10 +525,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--PRON (299)</li>
+      <li>VERB-Fin--PRON (307)</li>
       <li>VERB-Ger--PRON (26)</li>
-      <li>VERB-Inf--PRON (166)</li>
-      <li>VERB-Part--PRON (151)</li>
+      <li>VERB-Inf--PRON (171)</li>
+      <li>VERB-Part--PRON (157)</li>
     </ul>
   </li>
 </ul>
@@ -518,7 +537,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Passive</h3>
 
 <ul>
-  <li>This corpus contains 147 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: applicare si, osservare si, vedere si, fare si, registrare si, presumere si, usare si, aprire si, considerare si, intendere si, misurare si, produrre si, rendere si, effettuare si, esercitare si, pagare si, parlare si, ripartire si, tradurre si, trasferire si, conservare si, eseguire si, indicare si, istituire si, ottenere si, prescrivere si, valutare si, acquistare si, cambiare si, compiere si, comprendere si, computare si, costruire si, determinare si, formare si, giocare si, incontrare si, incorporare si, mettere si, operare si, paragonare si, prevedere si, raggiungere si, ricavare si, richiedere si, ricordare si, ripetere si, ritenere si, sostenere si, superare si</li>
+  <li>This corpus contains 150 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: applicare si, osservare si, vedere si, fare si, presumere si, registrare si, usare si, aprire si, considerare si, intendere si, misurare si, produrre si, rendere si, trasferire si, effettuare si, esercitare si, pagare si, parlare si, prescrivere si, ripartire si, tradurre si, conservare si, eseguire si, indicare si, istituire si, ottenere si, ricavare si, valutare si, acquistare si, cambiare si, compiere si, comprendere si, computare si, concedere si, costruire si, determinare si, formare si, giocare si, incontrare si, incorporare si, mettere si, operare si, paragonare si, prevedere si, raggiungere si, richiedere si, ricordare si, ripetere si, ritenere si, sostenere si</li>
 </ul>
 
 
@@ -526,5 +545,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:poss</a>, <a>det:predet</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
-<li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>reparandum</a></li>
 </ul>

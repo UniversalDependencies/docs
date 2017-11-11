@@ -17,60 +17,60 @@ The following 49 pairs of parts of speech are connected with `advmod`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 advmod	color:blue
-1	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
-2	Deceniju	decenija	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	advmod	_	_
-3	kasnije	kasno	ADV	_	Degree=Cmp	4	advmod	_	_
-4	vidimo	videti	VERB	_	Number=Plur|Person=1|Tense=Pres	0	root	_	_
-5	da	da	SCONJ	_	_	9	mark	_	_
-6	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	9	cop	_	_
-7	ekonomija	ekonomija	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
-8	užasno	užasno	ADV	_	Degree=Pos	9	advmod	_	_
-9	nestrukturirana	nestrukturiran	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	4	ccomp	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 advmod	color:blue
-1	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
-2	Deceniju	decenija	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	3	advmod	_	_
-3	kasnije	kasno	ADV	_	Degree=Cmp	4	advmod	_	_
-4	vidimo	videti	VERB	_	Number=Plur|Person=1|Tense=Pres	0	root	_	_
-5	da	da	SCONJ	_	_	9	mark	_	_
-6	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	9	cop	_	_
-7	ekonomija	ekonomija	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
-8	užasno	užasno	ADV	_	Degree=Pos	9	advmod	_	_
-9	nestrukturirana	nestrukturiran	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	4	ccomp	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 8 advmod	color:blue
+1	Nikica	Nikica	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+2	može	moći	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
+3	da	da	SCONJ	_	_	4	mark	_	_
+4	pojede	pojesti	VERB	_	Number=Sing|Person=3|Tense=Pres	2	xcomp	_	_
+5	50	50	NUM	_	NumType=Card	6	nummod:gov	_	_
+6	kilograma	kilogram	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	obl	_	_
+7	hleba	hleb	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+8	dnevno	dnevno	ADV	_	Degree=Pos	4	advmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 2 advmod	color:blue
-1	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
-2	Ovde	ovde	ADV	_	Degree=Pos	5	advmod	_	_
-3	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	5	cop	_	_
-4	glavni	glavni	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	5	amod	_	_
-5	problem	problem	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
-6	nepostojanje	nepostojanje	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
-7	pravih	prav	ADJ	_	Case=Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	8	amod	_	_
-8	sindikata	sindikat	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	6	obl	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	5	punct	_	_
+# visual-style 5 4 advmod	color:blue
+1	Njegove	njegov	PRON	_	Case=Nom|Gender=Fem|Number=Plur|Person=3|Poss=Yes	2	det	_	_
+2	izjave	izjava	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	_
+3	su	biti	AUX	_	Number=Plur|Person=3|Tense=Pres	5	cop	_	_
+4	dobro	dobro	ADV	_	Degree=Pos	5	advmod	_	_
+5	primljene	primiti	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	posebno	posebno	ADV	_	Degree=Pos	9	advmod	_	_
+8	među	među	ADP	_	Case=Ins	9	case	_	_
+9	političarima	političar	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	5	parataxis	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 7 advmod	color:blue
+1	Njegove	njegov	PRON	_	Case=Nom|Gender=Fem|Number=Plur|Person=3|Poss=Yes	2	det	_	_
+2	izjave	izjava	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	_
+3	su	biti	AUX	_	Number=Plur|Person=3|Tense=Pres	5	cop	_	_
+4	dobro	dobro	ADV	_	Degree=Pos	5	advmod	_	_
+5	primljene	primiti	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	posebno	posebno	ADV	_	Degree=Pos	9	advmod	_	_
+8	među	među	ADP	_	Case=Ins	9	case	_	_
+9	političarima	političar	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	5	parataxis	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

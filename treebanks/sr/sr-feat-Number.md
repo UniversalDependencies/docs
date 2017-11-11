@@ -144,7 +144,7 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
   <tr><td><tt><tt><a href="sr-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="sr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>ste, jeste</em></td></tr>
   <tr><td><tt><tt><a href="sr-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sr-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>biće</em></td><td><em>biće</em></td></tr>
   <tr><td><tt><tt><a href="sr-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sr-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>bi</em></td><td><em>bi</em></td></tr>
-  <tr><td><tt><tt><a href="sr-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>je, nije, bude, jeste, za, su, biće</em></td><td><em>su, nisu, budu, Nišu</em></td></tr>
+  <tr><td><tt><tt><a href="sr-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="sr-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>je, nije, bude, jeste, biće, su, za</em></td><td><em>su, nisu, budu, Nišu</em></td></tr>
 </table>
 
 ### `PRON`

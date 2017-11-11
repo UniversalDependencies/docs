@@ -17,19 +17,20 @@ The following 23 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 5 xcomp	color:blue
-1	Mi	mi	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
-2	treba	trebati	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
-3	da	da	SCONJ	_	_	5	mark	_	SpaceAfter=No
-4	...	...	PUNCT	_	_	5	punct	_	_
-5	damo	dati	VERB	_	Number=Plur|Person=1|Tense=Pres	2	xcomp	_	_
-6	podršku	podrška	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
-7	Jeremiću	Jeremić	PROPN	_	Case=Dat|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 2 4 xcomp	color:blue
+1	Nikica	Nikica	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+2	može	moći	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
+3	da	da	SCONJ	_	_	4	mark	_	_
+4	pojede	pojesti	VERB	_	Number=Sing|Person=3|Tense=Pres	2	xcomp	_	_
+5	50	50	NUM	_	NumType=Card	6	nummod:gov	_	_
+6	kilograma	kilogram	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	obl	_	_
+7	hleba	hleb	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+8	dnevno	dnevno	ADV	_	Degree=Pos	4	advmod	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
@@ -56,21 +57,18 @@ The following 23 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 xcomp	color:blue
-1	Španija	Španija	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
-2	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	3	aux	_	_
-3	postala	postati	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
-4	12.	12.	NUM	_	NumType=Ord	5	nummod	_	_
-5	članica	članica	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	xcomp	_	_
-6	koja	koji	PRON	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	8	nsubj	_	_
-7	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	8	aux	_	_
-8	ratifikovala	ratifikovati	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	5	acl	_	_
-9	protokol	protokol	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	3	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 6 xcomp	color:blue
+1	To	taj	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	_
+2	se	sebe	PRON	_	Case=Acc|Number=Sing|Reflex=Yes	3	compound	_	_
+3	može	moći	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
+4	smatrati	smatrati	VERB	_	VerbForm=Inf	3	xcomp	_	_
+5	uspešnom	uspešan	ADJ	_	Case=Ins|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
+6	fazom	faza	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	4	xcomp	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

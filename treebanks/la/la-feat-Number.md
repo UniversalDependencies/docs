@@ -108,7 +108,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
   <tr><td><tt><tt><a href="la-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>magnus</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>magna, maxuma</em></td><td><em>magnae</em></td></tr>
   <tr><td><tt><tt><a href="la-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>magnum, maxumum</em></td><td><em>magna</em></td></tr>
-  <tr><td><tt><tt><a href="la-feat-Case.html">Case</a></tt><tt>=Voc</tt>|<tt><a href="la-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>maxime, magne</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la-feat-Case.html">Case</a></tt><tt>=Voc</tt>|<tt><a href="la-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>magne, maxime</em></td><td></td></tr>
 </table>
 
 ### `PRON`

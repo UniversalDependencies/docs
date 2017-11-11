@@ -12,7 +12,7 @@ udver: '2'
 # UD Latvian
 
 Language: [Latvian](../lv/overview/lv-hub.html) (code: `lv`)<br/>
-Family: Indo-European, Balto-Slavic
+Family: Indo-European, Baltic
 
 This treebank has been part of Universal Dependencies since the UD v1.3 release.
 
@@ -51,6 +51,7 @@ The UD Latvian treebank consists of 6,296 sentences (90,639 tokens), and it has 
 ## Acknowledgments
 
 This work is supported by European Regional Development Fund under the grant agreement No. 1.1.1.1/16/A/219 (Full Stack of Language Resources for Natural Language Understanding and Generation in Latvian). The pilot project was supported by State Research Programme "National Identity".
+
 
 # Statistics of UD Latvian
 

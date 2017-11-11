@@ -58,6 +58,7 @@ Coptic POS tags come from the Coptic Scriptorium tag set, which is available fro
 
 The underlying POS tagged material was produced as part of the projects Coptic Scriptorium, KOMeT and KELLIA, funded by the NEH in the USA and BMBF and DFG in Germany (see http://copticscriptorium.org/ for more details). Treebank annotation was done by Liz Davidson and Amir Zeldes.
 
+
 # Statistics of UD Coptic
 
 ## POS Tags

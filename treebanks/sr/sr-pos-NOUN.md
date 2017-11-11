@@ -32,18 +32,18 @@ The 10 most frequent ambiguous types:  <em>vlada</em> (<tt><a href="sr-pos-NOUN.
   * <tt><a href="sr-pos-PROPN.html">PROPN</a></tt> 1: <em>Đinđićevi saradnici , poput Vladimira Popovića , optužili su moćne snage u zemlji , uključujući delove Vojske Srbije i Crne <b>Gore</b> , Pravoslavne crkve i Akademije nauka i umetnosti , da stoje iza ubistva .</em>
 * <em>put</em>
   * <tt><a href="sr-pos-NOUN.html">NOUN</a></tt> 23: <em>Uprkos tome , samit je otvorio <b>put</b> prvoj misiji NATO-a u Iraku .</em>
-  * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 16: <em>Stranke uvek obećavaju i svaki <b>put</b> nas iznevere i ostave da živimo u siromaštvu . "</em>
+  * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 16: <em>Usvajanjem amandmana Ustav Turske je izmenjen već deveti <b>put</b> od 1982. godine .</em>
 * <em>izbore</em>
-  * <tt><a href="sr-pos-NOUN.html">NOUN</a></tt> 21: <em>Za manje od dve nedelje birači na Kosovu izaći će na vanredne <b>izbore</b> .</em>
+  * <tt><a href="sr-pos-NOUN.html">NOUN</a></tt> 21: <em>Marko Blagojević iz Centra za slobodne <b>izbore</b> i demokratiju se slaže .</em>
   * <tt><a href="sr-pos-VERB.html">VERB</a></tt> 1: <em>Dok se političari i nevladine organizacije trude da mobilizuju birače i <b>izbore</b> se sa apatijom , internet dobija na snazi kao jedno od sredstava za kampanju .</em>
 * <em>Gori</em>
   * <tt><a href="sr-pos-NOUN.html">NOUN</a></tt> 18: <em>Čekajući dugu u Crnoj <b>Gori</b></em>
   * <tt><a href="sr-pos-PROPN.html">PROPN</a></tt> 1: <em>Nasuprot tome , u BiH i Srbiji i Crnoj <b>Gori</b> uglavnom su korišćeni vaučeri .</em>
 * <em>muzej</em>
-  * <tt><a href="sr-pos-NOUN.html">NOUN</a></tt> 13: <em>Novi <b>muzej</b> biće u potpunosti funkcionalan 2009. godine .</em>
+  * <tt><a href="sr-pos-NOUN.html">NOUN</a></tt> 13: <em>Jahta nekadašnjeg diktatora biće renovirana u <b>muzej</b> na vodi .</em>
   * <tt><a href="sr-pos-ADJ.html">ADJ</a></tt> 1: <em>Tender za izbor najboljeg projekta za <b>muzej</b> biće održan u septembru , rekao je ministar .</em>
 * <em>pravo</em>
-  * <tt><a href="sr-pos-NOUN.html">NOUN</a></tt> 16: <em>Ne postoji <b>pravo</b> žalbe na odluku Vrhovnog suda .</em>
+  * <tt><a href="sr-pos-NOUN.html">NOUN</a></tt> 16: <em>" Građani Kosova imaju <b>pravo</b> da vrše pritisak na svoje institucije .</em>
   * <tt><a href="sr-pos-ADJ.html">ADJ</a></tt> 2: <em>" Oblast Balkana je <b>pravo</b> mesto za Srbiju i Crnu Goru , koja je dobro mesto za investicije iz više razloga .</em>
 * <em>promene</em>
   * <tt><a href="sr-pos-NOUN.html">NOUN</a></tt> 16: <em>Voz Priština-Skoplje simbol <b>promene</b></em>

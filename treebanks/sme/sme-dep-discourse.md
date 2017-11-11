@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-51 nodes (1%) are attached to their parents as `discourse`.
+270 nodes (1%) are attached to their parents as `discourse`.
 
-26 instances of `discourse` (51%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.7843137254902.
+147 instances of `discourse` (54%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.64814814814815.
 
-The following 8 pairs of parts of speech are connected with `discourse`: <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-PART.html">PART</a></tt> (27; 53% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-PART.html">PART</a></tt> (8; 16% instances), <tt><a href="sme-pos-PRON.html">PRON</a></tt>-<tt><a href="sme-pos-PART.html">PART</a></tt> (5; 10% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-INTJ.html">INTJ</a></tt> (4; 8% instances), <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-PART.html">PART</a></tt> (2; 4% instances), <tt><a href="sme-pos-PART.html">PART</a></tt>-<tt><a href="sme-pos-PART.html">PART</a></tt> (2; 4% instances), <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-PART.html">PART</a></tt> (2; 4% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-INTJ.html">INTJ</a></tt> (1; 2% instances).
+The following 10 pairs of parts of speech are connected with `discourse`: <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-PART.html">PART</a></tt> (185; 69% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-PART.html">PART</a></tt> (27; 10% instances), <tt><a href="sme-pos-PRON.html">PRON</a></tt>-<tt><a href="sme-pos-PART.html">PART</a></tt> (17; 6% instances), <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-PART.html">PART</a></tt> (14; 5% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-INTJ.html">INTJ</a></tt> (9; 3% instances), <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-PART.html">PART</a></tt> (6; 2% instances), <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-INTJ.html">INTJ</a></tt> (5; 2% instances), <tt><a href="sme-pos-ADV.html">ADV</a></tt>-<tt><a href="sme-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="sme-pos-PART.html">PART</a></tt>-<tt><a href="sme-pos-PART.html">PART</a></tt> (3; 1% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

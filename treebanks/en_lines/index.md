@@ -28,14 +28,17 @@ Questions, comments?
 General annotation questions (either English-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_English-LinES/issues).
 If you want to collaborate, please contact [lars&nbsp;•&nbsp;ahrenberg&nbsp;(æt)&nbsp;liu&nbsp;•&nbsp;se].
+Development of the treebank happens outside the UD repository.
+If there are bugs, either the original data source or the conversion procedure must be fixed.
+Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
-| XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Lemmas | annotated manually in non-UD style, automatically converted to UD |
+| UPOS | annotated manually in non-UD style, automatically converted to UD |
+| XPOS | (unrecognized value: "manual") |
+| Features | not available |
+| Relations | (unrecognized value: "converted from manual and corrected") |
 
 ## Description
 
@@ -61,6 +64,7 @@ The treebank is being developed continuously.
 Three of the source texts were collected as part of the Linköping Translation Corpus Corpus
 (Merkel, 1999). The treebank was first developed in the project 'Micro- and macro-level
 analysis of translations' funded by the Swedish Research Council (Ahrenberg, 2007).
+
 
 # Statistics of UD English LinES
 

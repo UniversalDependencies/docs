@@ -55,26 +55,27 @@ The following 61 pairs of parts of speech are connected with `conj`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 13 conj	color:blue
-1	Ons	ons	PRON	PEMP	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
-2	sal	sal	AUX	VTUOM	Tense=Pres|VerbForm=Fin,Inf|VerbType=Mod	4	aux	_	_
-3	nogtans	nogtans	ADV	BS	Degree=Pos	4	advmod	_	_
-4	verseker	verseker	VERB	VTHOG	Subcat=Tran|Tense=Pres|VerbForm=Fin,Inf	0	root	_	_
-5	dat	dat	SCONJ	KO	_	4	amod	_	_
-6	die	die	DET	LB	Definite=Def|PronType=Art	7	det	_	_
-7	leningsvlakke	leningsvlak	NOUN	NSM	Number=Plur	11	nsubj	_	_
-8	van	van	ADP	SVS	AdpType=Prep	10	case	_	_
-9	die	die	DET	LB	Definite=Def|PronType=Art	10	det	_	_
-10	Regering	regering	NOUN	NSE	Number=Sing	7	nmod	_	_
-11	versigtig	versigtig	ADJ	ASP	AdjType=Pred|Case=Nom|Degree=Pos	5	dep	_	_
-12	en	en	CCONJ	KN	_	11	cc	_	_
-13	volhoubaar	volhoubaar	ADJ	ASP	AdjType=Pred|Case=Nom|Degree=Pos	11	conj	_	_
-14	is	is	AUX	VTHOK	Tense=Pres|VerbForm=Fin,Inf|VerbType=Cop	11	cop	_	SpaceAfter=No
-15	.	.	PUNCT	ZE	_	14	punct	_	_
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 10 conj	color:blue
+1	Die	die	DET	LB	Definite=Def|PronType=Art	2	det	_	_
+2	kodes	kode	NOUN	NSM	Number=Plur	8	nsubj	_	_
+3	wat	wat	PRON	PB	PronType=Rel	4	nsubj:pass	_	_
+4	gebruik	gebruik	VERB	VTHOG	Subcat=Tran|Tense=Pres|VerbForm=Fin,Inf	2	ccomp	_	_
+5	word	word	AUX	VTUOP	Tense=Pres|VerbForm=Fin,Inf|VerbType=Pas	4	aux:pass	_	SpaceAfter=No
+6	,	,	PUNCT	ZM	_	5	punct	_	_
+7	moet	moet	AUX	VTUOM	Tense=Pres|VerbForm=Fin,Inf|VerbType=Mod	15	aux	_	_
+8	duidelik	duidelik	ADJ	ASP	AdjType=Pred|Case=Nom|Degree=Pos	0	root	_	_
+9	en	en	CCONJ	KN	_	8	cc	_	_
+10	verstaanbaar	verstaanbaar	ADJ	ASP	AdjType=Pred|Case=Nom|Degree=Pos	8	conj	_	_
+11	vir	vir	ADP	SVS	AdpType=Prep	12	case	_	_
+12	leerders	leerder	NOUN	NSM	Number=Plur	10	obl	_	_
+13	en	en	CCONJ	KN	_	12	cc	_	_
+14	ouers	ouer	NOUN	NSM	Number=Plur	12	conj	_	_
+15	wees	wees	AUX	VTHOK	Tense=Pres|VerbForm=Fin,Inf|VerbType=Cop	8	cop	_	SpaceAfter=No
+16	.	.	PUNCT	ZE	_	15	punct	_	_
 
 ~~~
 

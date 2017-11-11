@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-663 nodes (0%) are attached to their parents as `iobj`.
+683 nodes (0%) are attached to their parents as `iobj`.
 
-469 instances of `iobj` (71%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.33333333333333.
+483 instances of `iobj` (71%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.33382137628111.
 
-The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href="it-pos-VERB.html">VERB</a></tt>-<tt><a href="it-pos-PRON.html">PRON</a></tt> (642; 97% instances), <tt><a href="it-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it-pos-PRON.html">PRON</a></tt> (14; 2% instances), <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="it-pos-ADV.html">ADV</a></tt>-<tt><a href="it-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="it-pos-AUX.html">AUX</a></tt>-<tt><a href="it-pos-PRON.html">PRON</a></tt> (2; 0% instances).
+The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href="it-pos-VERB.html">VERB</a></tt>-<tt><a href="it-pos-PRON.html">PRON</a></tt> (661; 97% instances), <tt><a href="it-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it-pos-PRON.html">PRON</a></tt> (15; 2% instances), <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="it-pos-ADV.html">ADV</a></tt>-<tt><a href="it-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="it-pos-AUX.html">AUX</a></tt>-<tt><a href="it-pos-PRON.html">PRON</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -38,21 +38,17 @@ The following 5 pairs of parts of speech are connected with `iobj`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 iobj	color:blue
-1	Erano	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	cop	_	_
-2	slegati	slegare	ADJ	A	Gender=Masc|Number=Plur	0	root	_	_
-3	e	e	CCONJ	CC	_	9	cc	_	_
-4	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	cosa	cosa	NOUN	S	Gender=Fem|Number=Sing	9	nsubj	_	_
-6	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
-7	stata	essere	AUX	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	cop	_	_
-8	loro	loro	PRON	PE	Number=Plur|Person=3|PronType=Prs	9	iobj	_	_
-9	fatale	fatale	ADJ	A	Number=Sing	2	conj	_	SpaceAfter=No
-10	.	.	PUNCT	FS	_	2	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 iobj	color:blue
+1	Le	lo	PRON	PC	Clitic=Yes|Gender=Fem|Person=3|PronType=Prs	3	iobj	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	simpatica	simpatico	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+4	Nicole	Nicole	PROPN	SP	_	3	nsubj	_	_
+5	Kidman	Kidman	PROPN	SP	_	4	flat:name	_	SpaceAfter=No
+6	?	?	PUNCT	FS	_	3	punct	_	_
 
 ~~~
 

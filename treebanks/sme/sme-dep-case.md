@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-221 nodes (2%) are attached to their parents as `case`.
+478 nodes (2%) are attached to their parents as `case`.
 
-207 instances of `case` (94%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.30769230769231.
+437 instances of `case` (91%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.19037656903766.
 
-The following 4 pairs of parts of speech are connected with `case`: <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-ADP.html">ADP</a></tt> (163; 74% instances), <tt><a href="sme-pos-PRON.html">PRON</a></tt>-<tt><a href="sme-pos-ADP.html">ADP</a></tt> (38; 17% instances), <tt><a href="sme-pos-NUM.html">NUM</a></tt>-<tt><a href="sme-pos-ADP.html">ADP</a></tt> (10; 5% instances), <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-ADP.html">ADP</a></tt> (10; 5% instances).
+The following 6 pairs of parts of speech are connected with `case`: <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-ADP.html">ADP</a></tt> (345; 72% instances), <tt><a href="sme-pos-PRON.html">PRON</a></tt>-<tt><a href="sme-pos-ADP.html">ADP</a></tt> (89; 19% instances), <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-ADP.html">ADP</a></tt> (24; 5% instances), <tt><a href="sme-pos-NUM.html">NUM</a></tt>-<tt><a href="sme-pos-ADP.html">ADP</a></tt> (13; 3% instances), <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-ADP.html">ADP</a></tt> (5; 1% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-ADP.html">ADP</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -52,18 +52,17 @@ The following 4 pairs of parts of speech are connected with `case`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 6 case	color:blue
-1	Dábálaččat	dábálaččat	ADV	Adv	_	2	advmod	_	_
-2	leat	leat	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	joddut	joddu	NOUN	N	Case=Nom|Number=Plur	2	nsubj	_	_
-4	sullii	sullii	ADV	Adv	_	5	advmod	_	_
-5	ovtta	okta	NUM	Num	Case=Gen|Number=Sing|NumType=Card	2	obl	_	_
-6	guhku	guhku	ADP	Po	_	5	case	_	SpaceAfter=No
-7	.	.	PUNCT	CLB	_	2	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 case	color:blue
+1	Willy	Willy	PROPN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+2	ganjalčalmmiiguin	ganjalčalbmi	NOUN	N	Case=Com|Number=Plur	3	obl	_	_
+3	manai	mannat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	Tommi	Tommi	PROPN	N	Case=Gen|Number=Sing	3	obl	_	_
+5	maŋŋái	maŋŋái	ADP	Po	_	4	case	_	SpaceAfter=No
+6	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 

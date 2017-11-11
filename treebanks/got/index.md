@@ -27,19 +27,34 @@ Genre: bible
 Questions, comments?
 General annotation questions (either Gothic-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Gothic/issues).
-If you want to collaborate, please contact [d&nbsp;•&nbsp;t&nbsp;•&nbsp;t&nbsp;•&nbsp;haug&nbsp;(æt)&nbsp;ifikk&nbsp;•&nbsp;uio&nbsp;•&nbsp;no].
+If you want to collaborate, please contact [daghaug&nbsp;(æt)&nbsp;ifikk&nbsp;•&nbsp;uio&nbsp;•&nbsp;no].
+Development of the treebank happens outside the UD repository.
+If there are bugs, either the original data source or the conversion procedure must be fixed.
+Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
-| XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Lemmas | annotated manually in non-UD style, automatically converted to UD |
+| UPOS | annotated manually in non-UD style, automatically converted to UD |
+| XPOS | annotated manually |
+| Features | annotated manually in non-UD style, automatically converted to UD |
+| Relations | annotated manually in non-UD style, automatically converted to UD |
 
 ## Description
 
+The UD Gothic treebank is based on the Gothic data from the PROIEL treebank, and consists of Wulfila's Bible translation.
+
+
+
+The UD Gothic treebank is based on the Gothic data in the PROIEL treebank, which is maintained at the Department of Philosophy, Classics, History of Arts and Ideas at the University of Oslo. The conversion is based on the 20170214 release of the PROIEL treebank available from https://github.com/proiel/proiel-treebank/releases. The original annotators are acknowledged in the files available there. The conversion code is available in the Rubygem proiel-cli, https://github.com/proiel/proiel-cli.
+
+The treebank contains the text of Wulfila's Bible translation. The original annotation guidelines are available at http://folk.uio.no/daghaug/syntactic_guidelines.pdf. The text and tokenization comes from the Wulfila project www.wulfila.be.
+
 ## Acknowledgments
+
+The data have been automatically converted to the UD scheme by Dag Haug. Thanks to all the original annotators!
+
+
 # Statistics of UD Gothic
 
 ## POS Tags

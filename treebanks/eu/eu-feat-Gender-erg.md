@@ -27,8 +27,8 @@ The most frequent other feature values with which `AUX` and `Gender[erg]` co-occ
 
 <table>
   <tr><th>Paradigm <i>*edun</i></th><th><tt>Fem</tt></th><th><tt>Masc</tt></th></tr>
-  <tr><td><tt><tt><a href="eu-feat-Gender-erg.html">Gender[erg]</a></tt><tt>=Fem</tt></tt></td><td><em>dunala, dun</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="eu-feat-Gender-erg.html">Gender[erg]</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>duk, duan</em></td></tr>
+  <tr><td><tt><tt><a href="eu-feat-Gender-erg.html">Gender[erg]</a></tt><tt>=Fem</tt></tt></td><td><em>dun, dunala</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="eu-feat-Gender-erg.html">Gender[erg]</a></tt><tt>=Masc</tt></tt></td><td></td><td><em>duan, duk</em></td></tr>
 </table>
 
 ### `VERB`

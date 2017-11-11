@@ -106,9 +106,11 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 * `EMPTY` (5): <em>Р, В., М, П.</em>
 
 <table>
-  <tr><th>Paradigm <i>аэс</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="be-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>АЭС</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="be-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>АЭС</em></td><td><em>АЭС</em></td></tr>
+  <tr><th>Paradigm <i>мзс</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="be-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>МЗС</em></td><td><em>МЗС</em></td></tr>
+  <tr><td><tt><tt><a href="be-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td><em>МЗС</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="be-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td><em>МЗС</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="be-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>МЗС</em></td><td></td></tr>
 </table>
 
 `Number` seems to be **lexical feature** of `PROPN`. 99% lemmas (216) occur only with one value of `Number`.

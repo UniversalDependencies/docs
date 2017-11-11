@@ -12,7 +12,7 @@ udver: '2'
 # UD Galician
 
 Language: [Galician](../gl/overview/gl-hub.html) (code: `gl`)<br/>
-Family: Indo-European, Italic
+Family: Indo-European, Romance
 
 This treebank has been part of Universal Dependencies since the UD v1.3 release.
 
@@ -40,6 +40,7 @@ If you want to collaborate, please contact [xgg&nbsp;(æt)&nbsp;uvigo&nbsp;•&n
 ## Description
 
 ## Acknowledgments
+
 # Statistics of UD Galician
 
 ## POS Tags

@@ -27,11 +27,10 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 * `EMPTY` (871): <em>eikä, tehdä, liittyen, lukien, olemassa, tullut, johtaa, johtuen, käytetty, käyttämällä</em>
 
 <table>
-  <tr><th>Paradigm <i>tulla</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
-  <tr><td><tt><tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=0</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>tulee</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>tulee</em></td><td><em>tuli</em></td></tr>
-  <tr><td><tt><tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>tulevat</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>tullaan</em></td><td></td></tr>
+  <tr><th>Paradigm <i>sanoa</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
+  <tr><td><tt><tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>sanoo</em></td><td><em>sanoi</em></td></tr>
+  <tr><td><tt><tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>sanovat</em></td><td><em>sanoivat</em></td></tr>
+  <tr><td><tt><tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>sanotaan</em></td><td></td></tr>
 </table>
 
 ### `AUX`

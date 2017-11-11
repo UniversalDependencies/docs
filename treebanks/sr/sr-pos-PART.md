@@ -19,33 +19,33 @@ The 10 most frequent ambiguous types:  <em>bilo</em> (<tt><a href="sr-pos-AUX.ht
 
 
 * <em>bilo</em>
-  * <tt><a href="sr-pos-AUX.html">AUX</a></tt> 58: <em>" Čuli smo jak prasak ; <b>bilo</b> je puno dima i štete . "</em>
-  * <tt><a href="sr-pos-PART.html">PART</a></tt> 30: <em>U Bulgartabaku su odbili <b>bilo</b> kakav komentar .</em>
+  * <tt><a href="sr-pos-AUX.html">AUX</a></tt> 58: <em>Ni u jednom incidentu nije <b>bilo</b> žrtava .</em>
+  * <tt><a href="sr-pos-PART.html">PART</a></tt> 30: <em>Čanak je rekao da policija nije pronašla <b>bilo</b> kakvu eksplozivnu napravu .</em>
   * <tt><a href="sr-pos-CCONJ.html">CCONJ</a></tt> 2: <em>Tu je i etnička komponenta , s obzirom da pojedinci iz različitih zajednica mogu da kažu da je diskriminacija -- <b>bilo</b> sada ili ranije -- uticala na njihovu mogućnost ostvarivanja koristi od privatizacije .</em>
 * <em>ni</em>
   * <tt><a href="sr-pos-PART.html">PART</a></tt> 18: <em>" Nikada se nikome nisam nudio , čak <b>ni</b> HDZ-u " , istakao je Jurčić .</em>
   * <tt><a href="sr-pos-CCONJ.html">CCONJ</a></tt> 5: <em>Posle završetka razgovora u Briselu šef delegacije Vlade Srbije Borislav Stefanović insistirao je da rezultati dijaloga ne znače " <b>ni</b> eksplicitno <b>ni</b> implicitno priznavanje nezavisnosti Kosova " .</em>
 * <em>sve</em>
-  * <tt><a href="sr-pos-PRON.html">PRON</a></tt> 52: <em>" Pozdravljam <b>sve</b> napore uložene da se zaustavi konvoj " , dodao je on .</em>
-  * <tt><a href="sr-pos-PART.html">PART</a></tt> 19: <em>U <b>sve</b> kompleksnijem geopolitičkom okruženju , ulazak u Alijansu ne rešava sve probleme .</em>
+  * <tt><a href="sr-pos-PRON.html">PRON</a></tt> 52: <em>A ako je <b>sve</b> u redu , mogu da otpočnu projekat " , kaže Božinov .</em>
+  * <tt><a href="sr-pos-PART.html">PART</a></tt> 19: <em>" Narod je <b>sve</b> nezadovoljniji " , kaže lider pokreta Vetvendosje Aljbin Kurti tells SETimes .</em>
   * <tt><a href="sr-pos-ADJ.html">ADJ</a></tt> 14: <em>To će biti korisno za <b>sve</b> ljude na Kosovu . "</em>
   * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 4: <em>Uprkos ekonomskoj krizi , <b>sve</b> veći broj žena ima svoje firme ili se prijavljuje za rukovodeće pozicije u drugim kompanijama .</em>
 * <em>i</em>
-  * <tt><a href="sr-pos-CCONJ.html">CCONJ</a></tt> 2335: <em>" Dobro je da se postigne konsenzus <b>i</b> da imamo jednog kandidata .</em>
+  * <tt><a href="sr-pos-CCONJ.html">CCONJ</a></tt> 2335: <em>Nikica je poznata po tome da jede <b>i</b> do 50 kilograma hleba dnevno .</em>
   * <tt><a href="sr-pos-PART.html">PART</a></tt> 2: <em>Njime je Beogradu i Zagrebu omogućeno da se <b>i</b> dalje mešaju u unutrašnja pitanja BiH .</em>
 * <em>kako</em>
-  * <tt><a href="sr-pos-SCONJ.html">SCONJ</a></tt> 91: <em>Bulatović je , <b>kako</b> se navodi , oslobođen svih optužbi .</em>
+  * <tt><a href="sr-pos-SCONJ.html">SCONJ</a></tt> 91: <em>Fond je osnovala vlada prošle godine <b>kako</b> bi podstakla ekonomski razvoj .</em>
   * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 14: <em>Trenutno je , <b>kako</b> se čini , Rusija taj put .</em>
-  * <tt><a href="sr-pos-PART.html">PART</a></tt> 2: <em>" Nijedan dokument ili jednostran potez posle 25. juna 1991. godine -- kada su dve zemlje proglasile nezavisnost od bivše Jugoslavije -- nema bilo kakav pravni efekat u rešavanju graničnog spora , <b>kako</b> pred arbitražnim sudom tako i tokom pregovora o pridruživanju EU " , navodi se u pismu .</em>
+  * <tt><a href="sr-pos-PART.html">PART</a></tt> 2: <em>" Koridor 10 je ključna regionalna transportna veza i EBRD je pomagao njegovu modernizaciju investicijama <b>kako</b> u železnički , tako i u drumski saobraćaj u Mađarskoj , Hrvatskoj , Srbiji i Makedoniji , u vrednosti od ukupno 854 miliona evra " , rekla je direktorka za transport EBRD Sju Baret .</em>
 * <em>tako</em>
-  * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 17: <em>" Nijedna zemlja u Evropi nije bila <b>tako</b> bezobzirna .</em>
+  * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 17: <em>Kosovo je politički problem i <b>tako</b> sa njim treba postupati .</em>
   * <tt><a href="sr-pos-SCONJ.html">SCONJ</a></tt> 7: <em>Ministar pravde i predsednik Vrhovnog suda takođe su članovi Saveta , <b>tako</b> da je njihov ukupan broj petnaest .</em>
-  * <tt><a href="sr-pos-PART.html">PART</a></tt> 2: <em>" Nijedan dokument ili jednostran potez posle 25. juna 1991. godine -- kada su dve zemlje proglasile nezavisnost od bivše Jugoslavije -- nema bilo kakav pravni efekat u rešavanju graničnog spora , kako pred arbitražnim sudom <b>tako</b> i tokom pregovora o pridruživanju EU " , navodi se u pismu .</em>
+  * <tt><a href="sr-pos-PART.html">PART</a></tt> 2: <em>" Koridor 10 je ključna regionalna transportna veza i EBRD je pomagao njegovu modernizaciju investicijama kako u železnički , <b>tako</b> i u drumski saobraćaj u Mađarskoj , Hrvatskoj , Srbiji i Makedoniji , u vrednosti od ukupno 854 miliona evra " , rekla je direktorka za transport EBRD Sju Baret .</em>
 * <em>niti</em>
   * <tt><a href="sr-pos-CCONJ.html">CCONJ</a></tt> 9: <em>A1 TV i četiri novine zatvoreni su zato što nisu plaćali porez , <b>niti</b> ispunjavali obaveze prema kreditorima .</em>
   * <tt><a href="sr-pos-PART.html">PART</a></tt> 1: <em>" Sporni snimak sadrži elemente kompjuterske montaže ; nije ni autentičan , <b>niti</b> je vešto napravljena kopija od autentičnog snimka " , rekao je Basesku , predstavljajući zaključak na 18 stranica .</em>
 * <em>što</em>
-  * <tt><a href="sr-pos-PRON.html">PRON</a></tt> 123: <em>Žalim <b>što</b> ih , zbog sopstvenih slabosti , nismo ispunili prošle godine .</em>
+  * <tt><a href="sr-pos-PRON.html">PRON</a></tt> 123: <em>" Šteta <b>što</b> je došlo do ovoga .</em>
   * <tt><a href="sr-pos-SCONJ.html">SCONJ</a></tt> 122: <em>" Zemlji su potrebni političari kao <b>što</b> je Komšić .</em>
   * <tt><a href="sr-pos-PART.html">PART</a></tt> 1: <em>Bogdanović je nazvao incident " terorističkim činom " , koji bi " trebalo da bude razotkriven <b>što</b> pre " .</em>
 

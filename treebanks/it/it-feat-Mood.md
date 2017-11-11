@@ -9,24 +9,24 @@ udver: '2'
 This feature is universal.
 It occurs with 4 different values: `Cnd`, `Imp`, `Ind`, `Sub`.
 
-19622 tokens (7%) have a non-empty value of `Mood`.
-3637 types (14%) occur at least once with a non-empty value of `Mood`.
-1273 lemmas (7%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="it-pos-VERB.html">VERB</a></tt> (9931; 4% instances), <tt><a href="it-pos-AUX.html">AUX</a></tt> (9691; 3% instances).
+20353 tokens (7%) have a non-empty value of `Mood`.
+3701 types (14%) occur at least once with a non-empty value of `Mood`.
+1288 lemmas (7%) occur at least once with a non-empty value of `Mood`.
+The feature is used with 2 part-of-speech tags: <tt><a href="it-pos-VERB.html">VERB</a></tt> (10314; 4% instances), <tt><a href="it-pos-AUX.html">AUX</a></tt> (10039; 3% instances).
 
 ### `VERB`
 
-9931 <tt><a href="it-pos-VERB.html">VERB</a></tt> tokens (41% of all `VERB` tokens) have a non-empty value of `Mood`.
+10314 <tt><a href="it-pos-VERB.html">VERB</a></tt> tokens (41% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="it-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9931; 100%), <tt><a href="it-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9931; 100%), <tt><a href="it-feat-Person.html">Person</a></tt><tt>=3</tt> (8706; 88%), <tt><a href="it-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (7677; 77%), <tt><a href="it-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7021; 71%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="it-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10314; 100%), <tt><a href="it-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10314; 100%), <tt><a href="it-feat-Person.html">Person</a></tt><tt>=3</tt> (9059; 88%), <tt><a href="it-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (7985; 77%), <tt><a href="it-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7323; 71%).
 
 `VERB` tokens may have the following values of `Mood`:
 
-* `Cnd` (101; 1% of non-empty `Mood`): <em>bisognerebbe, comporterebbe, consentirebbe, direi, sarebbe, sarebbero, vorrei, avrebbe, farebbe, gradirei</em>
-* `Imp` (232; 2% of non-empty `Mood`): <em>v., Nomina, Dimmi, Elenca, vedi, Dammi, clicca, usa, vai, andate</em>
-* `Ind` (9080; 91% of non-empty `Mood`): <em>ha, è, hanno, trova, sono, fa, chiama, dice, morì, fanno</em>
-* `Sub` (518; 5% of non-empty `Mood`): <em>abbia, sia, faccia, abbiano, veda, siano, facciano, tratti, disponga, permetta</em>
-* `EMPTY` (14366): <em>fare, fatto, far, visto, vedere, vinto, avuto, avere, tenuto, detto</em>
+* `Cnd` (108; 1% of non-empty `Mood`): <em>bisognerebbe, comporterebbe, consentirebbe, direi, sarebbe, vorrei, avrebbe, sarebbero, farebbe, gradirei</em>
+* `Imp` (243; 2% of non-empty `Mood`): <em>v., Nomina, Dimmi, Elenca, vedi, Dammi, clicca, ricorda, usa, vai</em>
+* `Ind` (9431; 91% of non-empty `Mood`): <em>ha, è, hanno, trova, sono, fa, chiama, dice, morì, fanno</em>
+* `Sub` (532; 5% of non-empty `Mood`): <em>abbia, sia, faccia, abbiano, veda, siano, facciano, tratti, disponga, permetta</em>
+* `EMPTY` (14847): <em>fare, fatto, far, visto, vedere, vinto, avuto, avere, tenuto, detto</em>
 
 <table>
   <tr><th>Paradigm <i>fare</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>
@@ -48,17 +48,17 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-9691 <tt><a href="it-pos-AUX.html">AUX</a></tt> tokens (88% of all `AUX` tokens) have a non-empty value of `Mood`.
+10039 <tt><a href="it-pos-AUX.html">AUX</a></tt> tokens (88% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="it-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9691; 100%), <tt><a href="it-feat-Person.html">Person</a></tt><tt>=3</tt> (9107; 94%), <tt><a href="it-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (8323; 86%), <tt><a href="it-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6955; 72%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="it-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (10039; 100%), <tt><a href="it-feat-Person.html">Person</a></tt><tt>=3</tt> (9438; 94%), <tt><a href="it-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (8617; 86%), <tt><a href="it-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7217; 72%).
 
 `AUX` tokens may have the following values of `Mood`:
 
-* `Cnd` (382; 4% of non-empty `Mood`): <em>sarebbe, potrebbe, avrebbe, dovrebbero, dovrebbe, potrebbero, sarebbero, vorrei, avrebbero, dovremmo</em>
+* `Cnd` (388; 4% of non-empty `Mood`): <em>sarebbe, potrebbe, avrebbe, dovrebbe, dovrebbero, potrebbero, sarebbero, vorrei, avrebbero, dovremmo</em>
 * `Imp` (3; 0% of non-empty `Mood`): <em>devi, dovete, sii</em>
-* `Ind` (8760; 90% of non-empty `Mood`): <em>è, sono, ha, può, hanno, era, deve, possono, fu, erano</em>
-* `Sub` (546; 6% of non-empty `Mood`): <em>sia, siano, possa, abbia, fosse, venga, avesse, possano, debba, fossero</em>
-* `EMPTY` (1367): <em>essere, stato, stata, stati, aver, state, poter, potuto, dovuto, esser</em>
+* `Ind` (9086; 91% of non-empty `Mood`): <em>è, sono, ha, può, hanno, era, deve, possono, fu, erano</em>
+* `Sub` (562; 6% of non-empty `Mood`): <em>sia, siano, possa, abbia, fosse, venga, avesse, debba, possano, fossero</em>
+* `EMPTY` (1424): <em>essere, stato, stata, stati, aver, state, poter, potuto, dovuto, esser</em>
 
 <table>
   <tr><th>Paradigm <i>essere</i></th><th><tt>Ind</tt></th><th><tt>Imp</tt></th><th><tt>Cnd</tt></th><th><tt>Sub</tt></th></tr>
@@ -71,10 +71,11 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
   <tr><td><tt><tt><a href="it-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>sarà</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>era</em></td><td></td><td></td><td><em>fosse</em></td></tr>
   <tr><td><tt><tt><a href="it-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>fu</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="it-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>è, e', É, E’, sono, E`</em></td><td></td><td><em>sarebbe</em></td><td><em>sia</em></td></tr>
+  <tr><td><tt><tt><a href="it-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>è, e', É, E’, E`, sono</em></td><td></td><td><em>sarebbe</em></td><td><em>sia</em></td></tr>
   <tr><td><tt><tt><a href="it-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="it-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>saremo</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="it-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>eravamo</em></td><td></td><td></td><td><em>fossimo</em></td></tr>
   <tr><td><tt><tt><a href="it-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="it-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>siamo</em></td><td></td><td><em>saremmo</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="it-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="it-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>eravate</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="it-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>siete</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>saranno</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="it-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="it-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td><em>erano</em></td><td></td><td></td><td><em>fossero</em></td></tr>
@@ -85,6 +86,6 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="it-dep-conj.html">conj</a></tt>]--> VERB</tt> (755; 65%),
+<tt>VERB --[<tt><a href="it-dep-conj.html">conj</a></tt>]--> VERB</tt> (776; 64%),
 <tt>AUX --[<tt><a href="it-dep-conj.html">conj</a></tt>]--> AUX</tt> (3; 100%).
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="it-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="it-dep-flat-foreign.html">flat:foreign</a></tt>.
 
-3266 nodes (1%) are attached to their parents as `flat:name`.
+3382 nodes (1%) are attached to their parents as `flat:name`.
 
-3266 instances of `flat:name` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.14145744029394.
+3382 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.13897102306328.
 
-The following 11 pairs of parts of speech are connected with `flat:name`: <tt><a href="it-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it-pos-PROPN.html">PROPN</a></tt> (3160; 97% instances), <tt><a href="it-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it-pos-NUM.html">NUM</a></tt> (56; 2% instances), <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-PROPN.html">PROPN</a></tt> (25; 1% instances), <tt><a href="it-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="it-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it-pos-SYM.html">SYM</a></tt> (8; 0% instances), <tt><a href="it-pos-X.html">X</a></tt>-<tt><a href="it-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="it-pos-X.html">X</a></tt>-<tt><a href="it-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="it-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="it-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="it-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="it-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `flat:name`: <tt><a href="it-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it-pos-PROPN.html">PROPN</a></tt> (3276; 97% instances), <tt><a href="it-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it-pos-NUM.html">NUM</a></tt> (56; 2% instances), <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-PROPN.html">PROPN</a></tt> (25; 1% instances), <tt><a href="it-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="it-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it-pos-SYM.html">SYM</a></tt> (8; 0% instances), <tt><a href="it-pos-X.html">X</a></tt>-<tt><a href="it-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="it-pos-X.html">X</a></tt>-<tt><a href="it-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="it-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="it-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="it-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="it-pos-PROPN.html">PROPN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

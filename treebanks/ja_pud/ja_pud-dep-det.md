@@ -13,7 +13,7 @@ This relation is universal.
 181 instances of `det` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 1.25966850828729.
 
-The following 4 pairs of parts of speech are connected with `det`: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (176; 97% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `det`: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-DET.html">DET</a></tt> (176; 97% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="ja_pud-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ja_pud-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt>-<tt><a href="ja_pud-pos-DET.html">DET</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 4 pairs of parts of speech are connected with `det`: <tt><a href="
 6	行く	行く	VERB	VV	VerbForm=Fin	12	acl	_	GDPRL=advcl|GHEAD=16|GHEADH=14|GID=8|Match=Yes|SpaceAfter=No
 7	が	が	SCONJ	CP	_	6	mark	_	GDPRL=compound:prt|GHEAD=8|GHEADH=6|GID=9|GUPOS=PART|Match=Yes|SpaceAfter=No
 8	、	、	PUNCT	,	_	6	punct	_	GHEAD=8|GHEADH=6|GID=10|Match=Yes|SpaceAfter=No
-9	その	その	ADJ	DT	_	10	det	_	GHEAD=12|GHEADH=10|GID=11|GUPOS=DET|Match=Yes|SpaceAfter=No
+9	その	その	DET	DT	_	10	det	_	GHEAD=12|GHEADH=10|GID=11|GUPOS=DET|Match=Yes|SpaceAfter=No
 10	価値	価値	NOUN	NN	_	12	nsubj	_	GHEAD=14|GHEADH=12|GID=12|Match=Yes|SpaceAfter=No
 11	が	が	ADP	CM	Case=Nom	10	case	_	GDPRL=compound:prt|GHEAD=12|GHEADH=10|GID=13|GUPOS=PART|Match=Yes|SpaceAfter=No
 12	あり	ある	VERB	VV	VerbForm=Ger	0	root	_	GDPRL=acl:relcl|GHEAD=16|GHEADH=14|GID=14|Match=Yes|SpaceAfter=No
@@ -47,16 +47,16 @@ The following 4 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 11	bgColor:blue
 # visual-style 11	fgColor:white
 # visual-style 11 10 det	color:blue
-1	その	その	ADJ	DT	_	3	det	_	GHEAD=2|GHEADH=2,3|GID=1|GUPOS=DET|Match=Yes|SpaceAfter=No
+1	その	その	DET	DT	_	3	det	_	GHEAD=2|GHEADH=2,3|GID=1|GUPOS=DET|Match=Yes|SpaceAfter=No
 2	警官	警官	NOUN	_	_	3	compound	_	GDPRL=nsubj|GFORM=警官たち|GHEAD=15|GHEADH=16|GID=2|GUPOS=NOUN|GXPOS=NN|SpaceAfter=No
-3	たち	たち	NOUN	_	_	20	nsubj	_	GDPRL=nsubj|GFORM=警官たち|GHEAD=15|GHEADH=16|GID=2|GUPOS=NOUN|GXPOS=NN|SpaceAfter=No
+3	たち	たち	NOUN	_	_	16	nsubj	_	GDPRL=nsubj|GFORM=警官たち|GHEAD=15|GHEADH=16|GID=2|GUPOS=NOUN|GXPOS=NN|SpaceAfter=No
 4	は	は	ADP	DP	_	3	case	_	GDPRL=compound:prt|GHEAD=2|GHEADH=2,3|GID=3|GUPOS=PART|Match=Yes|SpaceAfter=No
 5	日曜	日曜	NOUN	NN	_	6	compound	_	GHEAD=5|GHEADH=6|GID=4|Match=Yes|SpaceAfter=No
 6	朝	朝	NOUN	NN	_	8	nmod	_	GDPRL=compound|GHEAD=7|GHEADH=8|GID=5|Match=Yes|SpaceAfter=No
 7	の	の	ADP	CM	Case=Gen	6	case	_	GDPRL=compound:prt|GHEAD=5|GHEADH=6|GID=6|GUPOS=PART|Match=Yes|SpaceAfter=No
 8	行動	行動	NOUN	NN	_	16	obl	_	GDPRL=advmod|GHEAD=15|GHEADH=16|GID=7|Match=Yes|SpaceAfter=No
 9	で	で	ADP	CM	Case=Advb	8	case	_	GDPRL=compound:prt|GHEAD=7|GHEADH=8|GID=8|GUPOS=PART|Match=Yes|SpaceAfter=No
-10	その	その	ADJ	DT	_	11	det	_	GHEAD=13|GHEADH=14|GID=9|GUPOS=DET|Match=Yes|SpaceAfter=No
+10	その	その	DET	DT	_	11	det	_	GHEAD=13|GHEADH=14|GID=9|GUPOS=DET|Match=Yes|SpaceAfter=No
 11	53	53	NUM	CD	_	14	nummod	_	GDPRL=compound|GHEAD=13|GHEADH=14|GID=10|Match=Yes|SpaceAfter=No
 12	歳	歳	NOUN	SFN	_	11	mark	_	GDPRL=snum|GHEAD=10|GHEADH=11|GID=11|GUPOS=PART|Match=Yes|SpaceAfter=No
 13	の	の	ADP	CM	Case=Gen	11	case	_	GDPRL=compound:prt|GHEAD=10|GHEADH=11|GID=12|GUPOS=PART|Match=Yes|SpaceAfter=No
@@ -96,7 +96,7 @@ The following 4 pairs of parts of speech are connected with `det`: <tt><a href="
 15	かかわら	かかわる	VERB	_	_	26	acl	_	GDPRL=compound:prt|GFORM=にもかかわらず|GHEAD=13|GHEADH=12|GID=14|GUPOS=PART|GXPOS=CP|SpaceAfter=No
 16	ず	ない	AUX	_	_	15	aux	_	GDPRL=compound:prt|GFORM=にもかかわらず|GHEAD=13|GHEADH=12|GID=14|GUPOS=PART|GXPOS=CP|SpaceAfter=No
 17	、	、	PUNCT	,	_	15	punct	_	GHEAD=13|GHEADH=12|GID=15|Match=Yes|SpaceAfter=No
-18	その	その	ADJ	DT	_	19	det	_	GHEAD=19|GHEADH=21|GID=16|GUPOS=DET|Match=Yes|SpaceAfter=No
+18	その	その	DET	DT	_	19	det	_	GHEAD=19|GHEADH=21|GID=16|GUPOS=DET|Match=Yes|SpaceAfter=No
 19	ドイツ	ドイツ	PROPN	NNP	_	21	nmod	_	GDPRL=compound|GHEAD=19|GHEADH=21|GID=17|Match=Yes|SpaceAfter=No
 20	の	の	ADP	CM	Case=Gen	19	case	_	GDPRL=compound:prt|GHEAD=17|GHEADH=19|GID=18|GUPOS=PART|Match=Yes|SpaceAfter=No
 21	会社	会社	NOUN	NN	_	26	nsubj	_	GHEAD=23|GHEADH=26|GID=19|Match=Yes|SpaceAfter=No

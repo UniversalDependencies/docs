@@ -17,38 +17,40 @@ The following 42 pairs of parts of speech are connected with `appos`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 8 appos	color:blue
-1	Tak	tak	PART	TT-------------	_	3	discourse	_	_
-2	mě	já	PRON	PH-S4--1-------	Case=Acc|Number=Sing|Person=1|PronType=Prs|Variant=Short	3	obj	_	_
-3	dali	dát	VERB	VpMP----R-AA---	Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-4	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	5	case	_	_
-5	lázní	lázně	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	3	obl	_	_
-6	,	,	PUNCT	Z:-------------	_	8	punct	_	_
-7	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	8	case	_	_
-8	hotelu	hotel	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	5	appos	_	_
-9	,	,	PUNCT	Z:-------------	_	10	punct	_	_
-10	pracovala	pracovat	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	3	conj	_	_
-11	jsem	být	AUX	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	_	_
-12	jako	jako	SCONJ	J,-------------	_	13	mark	_	_
-13	servírka	servírka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	10	xcomp	_	_
-14	.	.	PUNCT	Z:-------------	_	3	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 appos	color:blue
+1	Její	jeho	DET	PSMS1FS3-------	Animacy=Anim|Case=Nom|Gender=Masc|Gender[psor]=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+2	bratr	bratr	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	10	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	Z:-------------	_	5	punct	_	_
+4	můj	můj	DET	PSMS1-S1-------	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+5	prastrýc	prastrýc	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	2	appos	_	SpaceAfter=No
+6	,	,	PUNCT	Z:-------------	_	5	punct	_	_
+7	byl	být	AUX	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	10	cop	_	_
+8	slavný	slavný	ADJ	AAMS1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	10	amod	_	_
+9	pražský	pražský	ADJ	AAMS1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	10	amod	_	_
+10	zahradník	zahradník	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	Z:-------------	_	10	punct	_	SpaceAfter=No
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 3 appos	color:blue
-1	Kůra	kůra	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	_
-2	:	:	PUNCT	Z:-------------	_	3	punct	_	_
-3	hnědá	hnědý	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	1	appos	_	_
+# visual-style 1 4 appos	color:blue
+1	Kůra	kůra	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	SpaceAfter=No
+2	:	:	PUNCT	Z:-------------	_	4	punct	_	_
+3	tmavě	tmavě	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	4	advmod	_	_
+4	šedá	šedý	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	1	appos	_	_
+5	až	až	CCONJ	J^-------------	_	6	cc	_	_
+6	hnědá	hnědý	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	4	conj	_	SpaceAfter=No
+7	,	,	PUNCT	Z:-------------	_	8	punct	_	_
+8	popraskaná	popraskaný	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	4	conj	_	SpaceAfter=No
 
 ~~~
 
@@ -59,15 +61,18 @@ The following 42 pairs of parts of speech are connected with `appos`: <tt><a hre
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 8 appos	color:blue
-1	Jenže	jenže	CCONJ	J^-------------	_	5	cc	_	_
-2	někomu	někdo	PRON	PZM-3----------	Animacy=Anim|Case=Dat|Gender=Masc|PronType=Ind	5	obj	_	_
-3	jsem	být	AUX	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
-4	určitě	určitě	PART	TT-------------	_	5	advmod	_	_
-5	děkoval	děkovat	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-6	,	,	PUNCT	Z:-------------	_	8	punct	_	_
-7	vroucně	vroucně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	8	advmod	_	_
-8	děkoval	děkovat	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	appos	_	_
-9	.	.	PUNCT	Z:-------------	_	5	punct	_	_
+1	A	a	CCONJ	J^-------------	_	5	cc	_	_
+2	vtom	vtom	ADV	Db-------------	_	5	advmod	_	_
+3	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	5	expl:pv	_	_
+4	to	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	_
+5	stalo	stát	VERB	VpNS----R-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
+6	:	:	PUNCT	Z:-------------	_	8	punct	_	_
+7	porodnice	porodnice	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	8	nsubj	_	_
+8	dostala	dostat	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	appos	_	_
+9	zásah	zásah	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	8	obj	_	_
+10	německou	německý	ADJ	AAFS7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	11	amod	_	_
+11	pumou	puma	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	9	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	Z:-------------	_	5	punct	_	SpaceAfter=No
 
 ~~~
 

@@ -12,7 +12,7 @@ udver: '2'
 # UD Kurmanji
 
 Language: [Kurmanji](../kmr/overview/kmr-hub.html) (code: `kmr`)<br/>
-Family: Indo-European, Indo-Iranian
+Family: Indo-European, Iranian
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
@@ -60,6 +60,7 @@ booktitle = {Proceedings of the Fourth International Conference on Dependency Li
 pages = {64--73},
 year = 2017
 }
+
 
 # Statistics of UD Kurmanji
 

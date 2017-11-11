@@ -12,7 +12,7 @@ udver: '2'
 # UD Upper Sorbian
 
 Language: [Upper Sorbian](../hsb/overview/hsb-hub.html) (code: `hsb`)<br/>
-Family: Indo-European, Balto-Slavic
+Family: Indo-European, Slavic
 
 This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
@@ -53,6 +53,7 @@ Sentences in the W2C corpus are shuffled.
 
 
 ## Acknowledgments
+
 # Statistics of UD Upper Sorbian
 
 ## POS Tags

@@ -17,52 +17,58 @@ The following 10 pairs of parts of speech are connected with `root`: -<tt><a hre
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 0	bgColor:blue
-# visual-style 0	fgColor:white
-# visual-style 0 6 root	color:blue
-1	Bar	bar	ADV	_	Degree=Pos	6	discourse	_	_
-2	na	na	ADP	_	Case=Loc	3	case	_	_
-3	papiru	papir	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	3	punct	_	_
-5	to	taj	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	_
-6	izgleda	izgledati	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
-7	kao	kao	SCONJ	_	_	9	case	_	_
-8	odlična	odličan	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
-9	ideja	ideja	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 4 root	color:blue
-1	Toliko	toliko	ADV	_	Degree=Pos	3	det:numgov	_	_
-2	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	4	aux	_	_
-3	radnika	radnik	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	4	obj	_	_
-4	otpušteno	otpustiti	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part	0	root	_	SpaceAfter=No
-5	.	.	PUNCT	_	_	4	punct	_	_
+1	Druga	drugi	NUM	_	Case=Nom|Gender=Fem|Number=Sing|NumType=Ord	2	nummod	_	_
+2	dvojica	dvojica	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+3	su	biti	AUX	_	Number=Plur|Person=3|Tense=Pres	4	aux	_	_
+4	rekli	reći	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
+5	da	da	SCONJ	_	_	7	mark	_	_
+6	neće	hteti	AUX	_	Number=Sing|Person=3|Tense=Pres	7	aux	_	_
+7	prisustvovati	prisustvovati	VERB	_	VerbForm=Inf	4	ccomp	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 6 root	color:blue
-1	Proces	proces	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
-2	privatizacije	privatizacija	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
-3	na	na	ADP	_	Case=Loc	4	case	_	_
-4	Kosovu	Kosovo	PROPN	_	Case=Loc|Gender=Neut|Number=Sing	2	nmod	_	_
-5	pod	pod	ADP	_	Case=Ins	6	case	_	_
-6	lupom	lupa	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	0	root	_	_
+# visual-style 0 5 root	color:blue
+1	Njegove	njegov	PRON	_	Case=Nom|Gender=Fem|Number=Plur|Person=3|Poss=Yes	2	det	_	_
+2	izjave	izjava	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	_
+3	su	biti	AUX	_	Number=Plur|Person=3|Tense=Pres	5	cop	_	_
+4	dobro	dobro	ADV	_	Degree=Pos	5	advmod	_	_
+5	primljene	primiti	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	posebno	posebno	ADV	_	Degree=Pos	9	advmod	_	_
+8	među	među	ADP	_	Case=Ins	9	case	_	_
+9	političarima	političar	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	5	parataxis	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	5	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 8 root	color:blue
+1	Poreklom	poreklo	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	6	parataxis	_	_
+2	iz	iz	ADP	_	Case=Gen	3	case	_	_
+3	Afrike	Afrika	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	nilski	nilski	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	6	amod	_	_
+6	konji	konj	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	_
+7	su	biti	AUX	_	Number=Plur|Person=3|Tense=Pres	8	cop	_	_
+8	vegetarijanci	vegetarijanac	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	_	_
 
 ~~~
 

@@ -17,33 +17,21 @@ The following 22 pairs of parts of speech are connected with `case`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 case	color:blue
-1	Proces	proces	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
-2	privatizacije	privatizacija	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
-3	na	na	ADP	_	Case=Loc	4	case	_	_
-4	Kosovu	Kosovo	PROPN	_	Case=Loc|Gender=Neut|Number=Sing	2	nmod	_	_
-5	pod	pod	ADP	_	Case=Ins	6	case	_	_
-6	lupom	lupa	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	0	root	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 case	color:blue
-1	Proces	proces	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
-2	privatizacije	privatizacija	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	_
-3	na	na	ADP	_	Case=Loc	4	case	_	_
-4	Kosovu	Kosovo	PROPN	_	Case=Loc|Gender=Neut|Number=Sing	2	nmod	_	_
-5	pod	pod	ADP	_	Case=Ins	6	case	_	_
-6	lupom	lupa	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	0	root	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 case	color:blue
+1	Njegove	njegov	PRON	_	Case=Nom|Gender=Fem|Number=Plur|Person=3|Poss=Yes	2	det	_	_
+2	izjave	izjava	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	_
+3	su	biti	AUX	_	Number=Plur|Person=3|Tense=Pres	5	cop	_	_
+4	dobro	dobro	ADV	_	Degree=Pos	5	advmod	_	_
+5	primljene	primiti	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	posebno	posebno	ADV	_	Degree=Pos	9	advmod	_	_
+8	među	među	ADP	_	Case=Ins	9	case	_	_
+9	političarima	političar	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	5	parataxis	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 
@@ -54,15 +42,39 @@ The following 22 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 case	color:blue
-1	Svaki	svaki	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	4	nsubj	_	_
-2	od	od	ADP	_	Case=Gen	3	case	_	_
-3	njih	oni	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	1	obl	_	_
-4	ima	imati	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
-5	sopstvenu	sopstven	ADJ	_	Case=Acc|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	_
-6	oznaku	oznaka	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	_
-7	i	i	CCONJ	_	_	8	cc	_	_
-8	žig	žig	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	6	conj	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	4	punct	_	_
+1	Poreklom	poreklo	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	6	parataxis	_	_
+2	iz	iz	ADP	_	Case=Gen	3	case	_	_
+3	Afrike	Afrika	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	_	_
+5	nilski	nilski	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	6	amod	_	_
+6	konji	konj	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	_
+7	su	biti	AUX	_	Number=Plur|Person=3|Tense=Pres	8	cop	_	_
+8	vegetarijanci	vegetarijanac	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	8	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 case	color:blue
+1	Nikica	Nikica	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+2	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	3	cop	_	_
+3	poznata	poznat	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
+4	po	po	ADP	_	Case=Loc	5	case	_	_
+5	tome	taj	PRON	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	3	obl	_	_
+6	da	da	SCONJ	_	_	7	mark	_	_
+7	jede	jesti	VERB	_	Number=Sing|Person=3|Tense=Pres	5	acl	_	_
+8	i	i	CCONJ	_	_	11	advmod	_	_
+9	do	do	ADP	_	Case=Gen	11	case	_	_
+10	50	50	NUM	_	NumType=Card	11	nummod:gov	_	_
+11	kilograma	kilogram	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	7	obl	_	_
+12	hleba	hleb	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	_
+13	dnevno	dnevno	ADV	_	Degree=Pos	7	advmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

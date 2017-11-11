@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-99 nodes (0%) are attached to their parents as `vocative`.
+102 nodes (0%) are attached to their parents as `vocative`.
 
-83 instances of `vocative` (84%) are right-to-left (child precedes parent).
-Average distance between parent and child is 7.5959595959596.
+86 instances of `vocative` (84%) are right-to-left (child precedes parent).
+Average distance between parent and child is 7.49019607843137.
 
-The following 12 pairs of parts of speech are connected with `vocative`: <tt><a href="it-pos-VERB.html">VERB</a></tt>-<tt><a href="it-pos-NOUN.html">NOUN</a></tt> (69; 70% instances), <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-NOUN.html">NOUN</a></tt> (11; 11% instances), <tt><a href="it-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="it-pos-VERB.html">VERB</a></tt>-<tt><a href="it-pos-PROPN.html">PROPN</a></tt> (4; 4% instances), <tt><a href="it-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="it-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="it-pos-ADV.html">ADV</a></tt>-<tt><a href="it-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="it-pos-AUX.html">AUX</a></tt>-<tt><a href="it-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="it-pos-PRON.html">PRON</a></tt>-<tt><a href="it-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="it-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="it-pos-VERB.html">VERB</a></tt>-<tt><a href="it-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `vocative`: <tt><a href="it-pos-VERB.html">VERB</a></tt>-<tt><a href="it-pos-NOUN.html">NOUN</a></tt> (71; 70% instances), <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-NOUN.html">NOUN</a></tt> (11; 11% instances), <tt><a href="it-pos-VERB.html">VERB</a></tt>-<tt><a href="it-pos-PROPN.html">PROPN</a></tt> (5; 5% instances), <tt><a href="it-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it-pos-NOUN.html">NOUN</a></tt> (4; 4% instances), <tt><a href="it-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it-pos-PROPN.html">PROPN</a></tt> (3; 3% instances), <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="it-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="it-pos-ADV.html">ADV</a></tt>-<tt><a href="it-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="it-pos-AUX.html">AUX</a></tt>-<tt><a href="it-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="it-pos-PRON.html">PRON</a></tt>-<tt><a href="it-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="it-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="it-pos-VERB.html">VERB</a></tt>-<tt><a href="it-pos-ADJ.html">ADJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -59,28 +59,19 @@ The following 12 pairs of parts of speech are connected with `vocative`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 1 vocative	color:blue
-1	Signor	signore	NOUN	S	Gender=Masc|Number=Sing	11	vocative	_	_
-2	presidente	presidente	NOUN	S	Number=Sing	1	compound	_	SpaceAfter=No
-3	,	,	PUNCT	FF	_	1	punct	_	_
-4	in	in	ADP	E	_	6	case	_	_
-5	questo	questo	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
-6	tipo	tipo	NOUN	S	Gender=Masc|Number=Sing	11	obl	_	_
-7	di	di	ADP	E	_	8	case	_	_
-8	regolamentazioni	regolamentazione	NOUN	S	Gender=Fem|Number=Plur	6	nmod	_	_
-9	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
-10	molto	molto	ADV	B	_	11	advmod	_	_
-11	importante	importante	ADJ	A	Number=Sing	0	root	_	_
-12	sforzar	sforzare	VERB	V	VerbForm=Inf	11	csubj	_	_
-13	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl	_	_
-14	di	di	ADP	E	_	16	mark	_	_
-15	essere	essere	AUX	V	VerbForm=Inf	16	cop	_	_
-16	flessibili	flessibile	ADJ	A	Number=Plur	12	xcomp	_	SpaceAfter=No
-17	;	;	PUNCT	FC	_	11	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 vocative	color:blue
+1	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+2	Chirac	Chirac	PROPN	SP	_	4	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	FF	_	2	punct	_	_
+4	ricorda	ricordare	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	ti	ti	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	4	expl	_	_
+6	Hiroshima	Hiroshima	PROPN	SP	_	4	obj	_	SpaceAfter=No
+7	"	"	PUNCT	FB	_	4	punct	_	SpaceAfter=No
+8	.	.	PUNCT	FS	_	4	punct	_	_
 
 ~~~
 

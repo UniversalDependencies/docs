@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-782 nodes (3%) are attached to their parents as `obj`.
+796 nodes (3%) are attached to their parents as `obj`.
 
-782 instances of `obj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.54987212276215.
+796 instances of `obj` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.58417085427136.
 
-The following 5 pairs of parts of speech are connected with `obj`: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (698; 89% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (55; 7% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (22; 3% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
+The following 8 pairs of parts of speech are connected with `obj`: <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (694; 87% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (53; 7% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (19; 2% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt>-<tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (14; 2% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -45,32 +45,33 @@ The following 5 pairs of parts of speech are connected with `obj`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 7 obj	color:blue
-1	しかし	しかし	CCONJ	CC	_	20	advmod	_	GDPRL=mark|GHEAD=20|GHEADH=20|GID=1|Match=Yes|SpaceAfter=No
-2	、	、	PUNCT	,	_	1	punct	_	GHEAD=1|GHEADH=1|GID=2|Match=Yes|SpaceAfter=No
-3	私	私	PRON	PRP	Person=1	11	nsubj	_	GHEAD=14|GHEADH=14|GID=3|Match=Yes|SpaceAfter=No
-4	が	が	ADP	CM	Case=Nom	3	case	_	GDPRL=compound:prt|GHEAD=3|GHEADH=3|GID=4|GUPOS=PART|Match=Yes|SpaceAfter=No
-5	彼女	彼女	PRON	PRP	Person=3	11	iobj	_	GDPRL=advmod|GHEAD=14|GHEADH=14|GID=5|Match=Yes|SpaceAfter=No
-6	に	に	ADP	CM	Case=Advb	5	case	_	GDPRL=compound:prt|GHEAD=5|GHEADH=5|GID=6|GUPOS=PART|Match=Yes|SpaceAfter=No
-7	フランク	フランク	PROPN	NNP	_	11	obj	_	GHEAD=9|GHEADH=9|GID=7|Match=Yes|SpaceAfter=No
-8	を	を	ADP	CM	Case=Acc	7	case	_	GDPRL=compound:prt|GHEAD=7|GHEADH=7|GID=8|GUPOS=PART|Match=Yes|SpaceAfter=No
-9	モデル	モデル	NOUN	NN	_	11	iobj	_	GDPRL=acl:relcl|GHEAD=12|GHEADH=12|GID=9|Match=Yes|SpaceAfter=No
-10	に	に	ADP	CM	Case=Comp	9	case	_	GDPRL=compound:prt|GHEAD=9|GHEADH=9|GID=10|GUPOS=PART|Match=Yes|SpaceAfter=No
-11	する	する	VERB	VV	Form=Adn	14	acl	_	GDPRL=cop|GHEAD=9|GHEADH=9|GID=11|GUPOS=AUX|Match=Yes|SpaceAfter=No
-12	こと	こと	NOUN	NNB	_	11	aux	_	GDPRL=obj|GHEAD=14|GHEADH=14|GID=12|Match=Yes|SpaceAfter=No
-13	を	を	ADP	CM	Case=Acc	11	case	_	GDPRL=compound:prt|GHEAD=12|GHEADH=12|GID=13|GUPOS=PART|Match=Yes|SpaceAfter=No
-14	提案	提案	VERB	NN	_	20	acl	_	GDPRL=advcl|GHEAD=20|GHEADH=20|GID=14|GUPOS=NOUN|Match=Yes|SpaceAfter=No
-15	する	する	AUX	VV	VerbForm=Fin	14	aux	_	GDPRL=compound:v|GHEAD=14|GHEADH=14|GID=15|GUPOS=VERB|Match=Yes|SpaceAfter=No
-16	と	と	SCONJ	CP	_	14	mark	_	GDPRL=compound:prt|GHEAD=14|GHEADH=14|GID=16|GUPOS=PART|Match=Yes|SpaceAfter=No
-17	、	、	PUNCT	,	_	14	punct	_	GHEAD=14|GHEADH=14|GID=17|Match=Yes|SpaceAfter=No
-18	彼女	彼女	PRON	PRP	Person=3	20	nsubj	_	GHEAD=20|GHEADH=20|GID=18|Match=Yes|SpaceAfter=No
-19	は	は	ADP	DP	_	18	case	_	GDPRL=compound:prt|GHEAD=18|GHEADH=18|GID=19|GUPOS=PART|Match=Yes|SpaceAfter=No
-20	笑う	笑う	VERB	VV	VerbForm=Fin	0	root	_	GHEAD=0|GID=20|Match=Yes|SpaceAfter=No
-21	。	。	PUNCT	.	_	20	punct	_	Match=Yes|GID=21|GHEAD=20|GHEADH=20
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 12 obj	color:blue
+1	ミリカン	ミリカン	PROPN	NNP	_	3	nsubj	_	GHEAD=3|GHEADH=3|GID=1|Match=Yes|SpaceAfter=No
+2	が	が	ADP	CM	Case=Nom	1	case	_	GDPRL=compound:prt|GHEAD=1|GHEADH=1|GID=2|GUPOS=PART|Match=Yes|SpaceAfter=No
+3	死ん	死ぬ	VERB	VV	VerbForm=Ger	5	acl	_	GDPRL=acl:relcl|GHEAD=5|GHEADH=5|GID=3|Match=Yes|SpaceAfter=No
+4	だ	た	AUX	VXP	Form=Adn|Tense=Past	3	aux	_	GHEAD=3|GHEADH=3|GID=4|GUPOS=VERB|Match=Yes|SpaceAfter=No
+5	時	時	NOUN	NNB	_	20	obl	_	GDPRL=obl:tmod|GHEAD=20|GHEADH=20|GID=5|Match=Yes|SpaceAfter=No
+6	、	、	PUNCT	,	_	5	punct	_	GHEAD=5|GHEADH=5|GID=6|Match=Yes|SpaceAfter=No
+7	壊れ	壊れる	VERB	VV	VerbForm=Ger	12	acl	_	GDPRL=acl:relcl|GHEAD=12|GHEADH=12|GID=7|Match=Yes|SpaceAfter=No
+8	やすい	やすい	AUX	JX	Form=Adn	7	aux	_	GDPRL=auxvv|GHEAD=7|GHEADH=7|GID=8|GUPOS=ADJ|Match=Yes|SpaceAfter=No
+9	、	、	PUNCT	,	_	7	punct	_	GHEAD=10|GHEADH=10|GID=9|Match=Yes|SpaceAfter=No
+10	落ち着か	落ち着く	VERB	VV	Form=Irr	12	acl	_	GDPRL=parataxis|GHEAD=7|GHEADH=7|GID=10|Match=Yes|SpaceAfter=No
+11	ない	ない	AUX	VXP	Form=Adn|Polarity=Neg	10	aux	_	GDPRL=advmod|GHEAD=10|GHEADH=10|GID=11|Match=Yes|SpaceAfter=No
+12	オディ	オディ	PROPN	NNP	_	14	obj	_	GHEAD=14|GHEADH=14|GID=12|Match=Yes|SpaceAfter=No
+13	を	を	ADP	CM	Case=Acc	12	case	_	GDPRL=compound:prt|GHEAD=12|GHEADH=12|GID=13|GUPOS=PART|Match=Yes|SpaceAfter=No
+14	見る	見る	VERB	VV	Form=Adn	17	acl	_	GDPRL=nomc|GHEAD=15|GHEADH=15|GID=14|Match=Yes|SpaceAfter=No
+15	の	の	PART	PP	_	14	mark	_	GDPRL=nomcsubj|GHEAD=17|GHEADH=17|GID=15|Match=Yes|SpaceAfter=No
+16	も	も	ADP	DP	_	14	case	_	GDPRL=compound:prt|GHEAD=15|GHEADH=15|GID=16|GUPOS=PART|Match=Yes|SpaceAfter=No
+17	最後	最後	NOUN	NN	_	20	obl	_	GDPRL=ccomp|GHEAD=20|GHEADH=20|GID=17|Match=Yes|SpaceAfter=No
+18	だ	だ	AUX	VXP	VerbForm=Fin	17	cop	_	GDPRL=aux|GHEAD=17|GHEADH=17|GID=18|GUPOS=VERB|Match=Yes|SpaceAfter=No
+19	と	と	ADP	CM	Case=Comp	17	case	_	GDPRL=compound:prt|GHEAD=17|GHEADH=17|GID=19|GUPOS=PART|Match=Yes|SpaceAfter=No
+20	思っ	思う	VERB	VV	VerbForm=Ger	0	root	_	GHEAD=0|GID=20|Match=Yes|SpaceAfter=No
+21	た	た	AUX	VXP	Tense=Past|VerbForm=Fin	20	aux	_	GHEAD=20|GHEADH=20|GID=21|GUPOS=VERB|Match=Yes|SpaceAfter=No
+22	。	。	PUNCT	.	_	20	punct	_	Match=Yes|GID=22|GHEAD=20|GHEADH=20
 
 ~~~
 

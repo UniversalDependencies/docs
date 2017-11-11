@@ -123,11 +123,11 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
   <tr><td><tt><tt><a href="lv-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="lv-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="lv-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>lielajai</em></td><td><em>lielām, lielajām</em></td></tr>
   <tr><td><tt><tt><a href="lv-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="lv-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="lv-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>lielākajai</em></td><td></td></tr>
   <tr><td><tt><tt><a href="lv-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lv-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="lv-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>liela</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lv-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lv-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="lv-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>lielas, lielās</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lv-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lv-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="lv-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>lielās, lielas</em></td><td></td></tr>
   <tr><td><tt><tt><a href="lv-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="lv-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="lv-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>lielajā, lielā</em></td><td></td></tr>
   <tr><td><tt><tt><a href="lv-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="lv-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="lv-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>lielākajā</em></td><td></td></tr>
   <tr><td><tt><tt><a href="lv-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lv-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="lv-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>liela, lielā</em></td><td><em>lielas, lielās</em></td></tr>
-  <tr><td><tt><tt><a href="lv-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lv-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="lv-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>lielākā, lielāka</em></td><td><em>lielākas</em></td></tr>
+  <tr><td><tt><tt><a href="lv-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lv-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="lv-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>lielāka, lielākā</em></td><td><em>lielākas</em></td></tr>
   <tr><td><tt><tt><a href="lv-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lv-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="lv-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td><em>vislielākās</em></td></tr>
 </table>
 
@@ -145,10 +145,10 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 * `EMPTY` (410): <em>SIA, ZAAO, ES, LETA, IKP, IMS, UNESCO, AS, DUS, ST</em>
 
 <table>
-  <tr><th>Paradigm <i>Vītols</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="lv-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>Vītolu</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lv-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td></td><td><em>Vītolu</em></td></tr>
-  <tr><td><tt><tt><a href="lv-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Vītols</em></td><td></td></tr>
+  <tr><th>Paradigm <i>Dora</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="lv-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>Doru</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lv-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>Dorai</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lv-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td></td><td><em>Doru</em></td></tr>
 </table>
 
 `Number` seems to be **lexical feature** of `PROPN`. 99% lemmas (1135) occur only with one value of `Number`.

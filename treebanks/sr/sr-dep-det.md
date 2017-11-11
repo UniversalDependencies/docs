@@ -18,18 +18,21 @@ The following 16 pairs of parts of speech are connected with `det`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 det	color:blue
-1	Esat	Esat	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
-2	Beriša	Beriša	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	1	flat	_	_
-3	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	6	cop	_	_
-4	jedan	jedan	NUM	_	Case=Nom|Gender=Masc|Number=Sing|NumType=Card	6	nummod	_	_
-5	takav	takav	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
-6	primer	primer	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	6	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 det	color:blue
+1	Njegove	njegov	PRON	_	Case=Nom|Gender=Fem|Number=Plur|Person=3|Poss=Yes	2	det	_	_
+2	izjave	izjava	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	_
+3	su	biti	AUX	_	Number=Plur|Person=3|Tense=Pres	5	cop	_	_
+4	dobro	dobro	ADV	_	Degree=Pos	5	advmod	_	_
+5	primljene	primiti	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	posebno	posebno	ADV	_	Degree=Pos	9	advmod	_	_
+8	među	među	ADP	_	Case=Ins	9	case	_	_
+9	političarima	političar	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	5	parataxis	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

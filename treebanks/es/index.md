@@ -12,7 +12,7 @@ udver: '2'
 # UD Spanish
 
 Language: [Spanish](../es/overview/es-hub.html) (code: `es`)<br/>
-Family: Indo-European, Italic
+Family: Indo-European, Romance
 
 This treebank has been part of Universal Dependencies since the UD v1.0 release.
 
@@ -64,6 +64,7 @@ Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
 
 
 ## Acknowledgments
+
 # Statistics of UD Spanish
 
 ## POS Tags

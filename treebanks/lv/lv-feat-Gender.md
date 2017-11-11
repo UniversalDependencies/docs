@@ -27,12 +27,11 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 * `EMPTY` (100): <em>kino, papildu, milzu, eiro, radio, bezvadu, auto, foto, padomju, reiki</em>
 
 <table>
-  <tr><th>Paradigm <i>asins</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><tt><a href="lv-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="lv-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>asinis</em></td></tr>
-  <tr><td><tt><tt><a href="lv-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="lv-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>asinīm</em></td></tr>
-  <tr><td><tt><tt><a href="lv-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lv-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>asins</em></td></tr>
-  <tr><td><tt><tt><a href="lv-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lv-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>asiņu</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="lv-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lv-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>asinis</em></td></tr>
+  <tr><th>Paradigm <i>jūlijs</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt><tt><a href="lv-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>Jūliju</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lv-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>jūlijam</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lv-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td><em>jūlijā</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lv-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Jūlijs</em></td><td><em>Jūlija</em></td></tr>
 </table>
 
 `Gender` seems to be **lexical feature** of `NOUN`. 100% lemmas (4755) occur only with one value of `Gender`.
@@ -57,7 +56,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
   <tr><td><tt><tt><a href="lv-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="lv-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="lv-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>lielajai</em></td></tr>
   <tr><td><tt><tt><a href="lv-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="lv-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="lv-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>lielām, lielajām</em></td></tr>
   <tr><td><tt><tt><a href="lv-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="lv-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="lv-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>lielākajai</em></td></tr>
-  <tr><td><tt><tt><a href="lv-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lv-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="lv-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>liela</em></td><td><em>lielas, lielās</em></td></tr>
+  <tr><td><tt><tt><a href="lv-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lv-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="lv-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>liela</em></td><td><em>lielās, lielas</em></td></tr>
   <tr><td><tt><tt><a href="lv-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="lv-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="lv-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>lielajā, lielā</em></td></tr>
   <tr><td><tt><tt><a href="lv-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="lv-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="lv-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>lielākajā</em></td></tr>
   <tr><td><tt><tt><a href="lv-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lv-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="lv-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>liela, lielā</em></td></tr>

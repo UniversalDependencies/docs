@@ -72,7 +72,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 <table>
   <tr><th>Paradigm <i>see</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th><th><tt>Par</tt></th><th><tt>Tra</tt></th><th><tt>Com</tt></th><th><tt>Abe</tt></th><th><tt>Ine</tt></th><th><tt>Ill</tt></th><th><tt>Ela</tt></th><th><tt>Ade</tt></th><th><tt>All</tt></th><th><tt>Abl</tt></th><th><tt>Ter</tt></th></tr>
-  <tr><td><tt><tt><a href="et-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>see, seegi</em></td><td><em>selle, sellegi</em></td><td><em>seda, sedagi</em></td><td><em>selleks, Seks</em></td><td><em>sellega</em></td><td><em>selleta</em></td><td><em>selles, ses</em></td><td><em>sellesse</em></td><td><em>sellest, sest, sellestki</em></td><td><em>sel, sellel</em></td><td><em>sellele</em></td><td><em>sellelt</em></td><td><em>selleni</em></td></tr>
+  <tr><td><tt><tt><a href="et-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>see, seegi</em></td><td><em>selle, sellegi</em></td><td><em>seda, sedagi</em></td><td><em>selleks, Seks</em></td><td><em>sellega</em></td><td><em>selleta</em></td><td><em>selles, ses</em></td><td><em>sellesse</em></td><td><em>sellest, sellestki, sest</em></td><td><em>sel, sellel</em></td><td><em>sellele</em></td><td><em>sellelt</em></td><td><em>selleni</em></td></tr>
   <tr><td><tt><tt><a href="et-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>need, needki</em></td><td><em>nende</em></td><td><em>neid</em></td><td><em>Nendeks</em></td><td><em>nendega</em></td><td></td><td><em>neis, nendes</em></td><td><em>neisse</em></td><td><em>neist, nendest</em></td><td><em>neil</em></td><td><em>neile</em></td><td></td><td></td></tr>
 </table>
 
@@ -222,8 +222,9 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 * `EMPTY` (1): <em>kogu</em>
 
 <table>
-  <tr><th>Paradigm <i>see</i></th><th><tt>Gen</tt></th><th><tt>Ine</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>selle</em></td><td><em>Selles</em></td></tr>
+  <tr><th>Paradigm <i>üks</i></th><th><tt>Nom</tt></th><th><tt>Par</tt></th></tr>
+  <tr><td><tt><tt><a href="et-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>ühtegi, ühtki</em></td></tr>
+  <tr><td><tt><tt><a href="et-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ühed</em></td><td></td></tr>
 </table>
 
 ### `SYM`

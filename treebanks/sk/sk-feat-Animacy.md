@@ -156,7 +156,7 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 
 <table>
   <tr><th>Paradigm <i>on</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
-  <tr><td><tt><tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ho, neho, Jeho</em></td><td><em>ho, neho</em></td></tr>
+  <tr><td><tt><tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ho, Jeho, neho</em></td><td><em>ho, neho</em></td></tr>
   <tr><td><tt><tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>ich, nich</em></td><td><em>ich, ne</em></td></tr>
   <tr><td><tt><tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>mu, nemu, jemu</em></td><td><em>nemu, mu</em></td></tr>
   <tr><td><tt><tt><a href="sk-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="sk-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>im, nim</em></td><td><em>im, nim</em></td></tr>

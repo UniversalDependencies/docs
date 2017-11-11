@@ -19,17 +19,17 @@ The 10 most frequent ambiguous types:  <em>nove</em> (<tt><a href="sr-pos-ADJ.ht
 
 
 * <em>nove</em>
-  * <tt><a href="sr-pos-ADJ.html">ADJ</a></tt> 29: <em>Grčka se nada da će moći da počne <b>nove</b> pregovore sa Velikom Britanijom .</em>
+  * <tt><a href="sr-pos-ADJ.html">ADJ</a></tt> 29: <em>" Nove ideje zahtevaju <b>nove</b> ljude .</em>
   * <tt><a href="sr-pos-NOUN.html">NOUN</a></tt> 1: <em>" U okviru aranžmana ... deo sredstava je planiran za renoviranje i modernizaciju pet stalnih naplatnih rampi i izgradnju četiri <b>nove</b> u Tabanovcima , Negotinu , Demir Kapiji i Đevđeliji " , kaže za SETimes direktorka Državne agencije za puteve Nataša Valkanovska .</em>
 * <em>politički</em>
   * <tt><a href="sr-pos-ADJ.html">ADJ</a></tt> 21: <em>Kosovo je <b>politički</b> problem i tako sa njim treba postupati .</em>
   * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 5: <em>Predsednik Ustavnog suda Mahmut Jusufi i sudija Bajram Položani ustvrdili su da je odluka <b>politički</b> motivisana .</em>
 * <em>ekonomski</em>
-  * <tt><a href="sr-pos-ADJ.html">ADJ</a></tt> 17: <em>Glavni fokus njegove posete su investicije i <b>ekonomski</b> odnosi .</em>
+  * <tt><a href="sr-pos-ADJ.html">ADJ</a></tt> 17: <em>Fond je osnovala vlada prošle godine kako bi podstakla <b>ekonomski</b> razvoj .</em>
   * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 2: <em>Danas su " ljudi <b>ekonomski</b> daleko bogatiji i daleko bogatiji u svom identitetu " , kaže taj novinar .</em>
 * <em>sve</em>
-  * <tt><a href="sr-pos-PRON.html">PRON</a></tt> 52: <em>" Pozdravljam <b>sve</b> napore uložene da se zaustavi konvoj " , dodao je on .</em>
-  * <tt><a href="sr-pos-PART.html">PART</a></tt> 19: <em>U <b>sve</b> kompleksnijem geopolitičkom okruženju , ulazak u Alijansu ne rešava sve probleme .</em>
+  * <tt><a href="sr-pos-PRON.html">PRON</a></tt> 52: <em>A ako je <b>sve</b> u redu , mogu da otpočnu projekat " , kaže Božinov .</em>
+  * <tt><a href="sr-pos-PART.html">PART</a></tt> 19: <em>" Narod je <b>sve</b> nezadovoljniji " , kaže lider pokreta Vetvendosje Aljbin Kurti tells SETimes .</em>
   * <tt><a href="sr-pos-ADJ.html">ADJ</a></tt> 14: <em>To će biti korisno za <b>sve</b> ljude na Kosovu . "</em>
   * <tt><a href="sr-pos-ADV.html">ADV</a></tt> 4: <em>Uprkos ekonomskoj krizi , <b>sve</b> veći broj žena ima svoje firme ili se prijavljuje za rukovodeće pozicije u drugim kompanijama .</em>
 * <em>strane</em>

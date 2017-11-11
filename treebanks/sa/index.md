@@ -12,7 +12,7 @@ udver: '2'
 # UD Sanskrit
 
 Language: [Sanskrit](../sa/overview/sa-hub.html) (code: `sa`)<br/>
-Family: Indo-European, Indo-Iranian
+Family: Indo-European, Indic
 
 This treebank has been part of Universal Dependencies since the UD v1.4 release.
 
@@ -63,6 +63,7 @@ first section called Mitrabheda.
 The [Sanskrit Reader](http://sanskrit.inria.fr/) by Gérard Huet was of
 immense help during the segmentation, lemmatization and morphological
 analysis of the text.
+
 
 
 # Statistics of UD Sanskrit

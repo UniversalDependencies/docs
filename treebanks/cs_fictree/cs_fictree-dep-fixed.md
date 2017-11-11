@@ -22,14 +22,20 @@ The following 11 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 fixed	color:blue
-1	Seděla	sedět	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-2	dlouho	dlouho	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	1	advmod	_	_
-3	,	,	PUNCT	Z:-------------	_	7	punct	_	_
-4	i	i	CCONJ	J^-------------	_	7	mark	_	_
+1	Ptám	ptát	VERB	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	1	expl:pv	_	SpaceAfter=No
+3	,	,	PUNCT	Z:-------------	_	6	punct	_	_
+4	i	i	CCONJ	J^-------------	_	6	mark	_	_
 5	když	když	SCONJ	J,-------------	_	4	fixed	_	_
-6	už	už	ADV	Db-------------	_	7	advmod	_	_
-7	dopila	dopít	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	advcl	_	_
-8	.	.	PUNCT	Z:-------------	_	1	punct	_	_
+6	vím	vědět	VERB	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	Z:-------------	_	9	punct	_	_
+8	že	že	SCONJ	J,-------------	_	9	mark	_	_
+9	má	mít	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	6	ccomp	_	_
+10	od	od	ADP	RR--2----------	AdpType=Prep|Case=Gen	12	case	_	_
+11	tohohle	tenhle	DET	PDIS2----------	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	12	det	_	_
+12	domu	dům	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	13	nmod	_	_
+13	klíče	klíč	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	9	obj	_	SpaceAfter=No
+14	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -48,8 +54,8 @@ The following 11 pairs of parts of speech are connected with `fixed`: <tt><a hre
 6	mě	já	PRON	PH-S4--1-------	Case=Acc|Number=Sing|Person=1|PronType=Prs|Variant=Short	5	obj	_	_
 7	směrem	směr	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	9	case	_	_
 8	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	7	fixed	_	_
-9	ní	on	PRON	P5FS3--3-------	Case=Dat|Gender=Fem|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs	5	obl	_	_
-10	.	.	PUNCT	Z:-------------	_	3	punct	_	_
+9	ní	on	PRON	P5FS3--3-------	Case=Dat|Gender=Fem|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs	5	obl	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	3	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -67,8 +73,8 @@ The following 11 pairs of parts of speech are connected with `fixed`: <tt><a hre
 5	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	8	expl:pv	_	_
 6	nic	nic	PRON	PW--1----------	Case=Nom|PronType=Neg	8	nsubj	_	_
 7	mimořádného	mimořádný	ADJ	AANS2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	6	amod	_	_
-8	nestalo	stát	VERB	VpNS----R-NA---	Gender=Neut|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-9	.	.	PUNCT	Z:-------------	_	8	punct	_	_
+8	nestalo	stát	VERB	VpNS----R-NA---	Gender=Neut|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	Z:-------------	_	8	punct	_	SpaceAfter=No
 
 ~~~
 

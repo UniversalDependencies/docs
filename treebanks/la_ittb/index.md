@@ -12,7 +12,7 @@ udver: '2'
 # UD Latin ITTB
 
 Language: [Latin](../la/overview/la-hub.html) (code: `la`)<br/>
-Family: Indo-European, Italic
+Family: Indo-European, Latin
 
 This treebank has been part of Universal Dependencies since the UD v1.2 release.
 
@@ -40,6 +40,7 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
 ## Description
 
 ## Acknowledgments
+
 # Statistics of UD Latin ITTB
 
 ## POS Tags

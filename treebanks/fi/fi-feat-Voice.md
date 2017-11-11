@@ -261,7 +261,7 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
   <tr><td><tt><tt><a href="fi-feat-Mood.html">Mood</a></tt><tt>=Pot</tt>|<tt><a href="fi-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi-feat-Person.html">Person</a></tt><tt>=0</tt>|<tt><a href="fi-feat-Typo.html">Typo</a></tt><tt>=Yes</tt>|<tt><a href="fi-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>lie</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fi-feat-Mood.html">Mood</a></tt><tt>=Pot</tt>|<tt><a href="fi-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi-feat-Person.html">Person</a></tt><tt>=0</tt>|<tt><a href="fi-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>lienee</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fi-feat-Mood.html">Mood</a></tt><tt>=Pot</tt>|<tt><a href="fi-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fi-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>lienee</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fi-feat-Mood.html">Mood</a></tt><tt>=Pot</tt>|<tt><a href="fi-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fi-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>lie, lienevät</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi-feat-Mood.html">Mood</a></tt><tt>=Pot</tt>|<tt><a href="fi-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fi-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>lienevät, lie</em></td><td></td></tr>
 </table>
 
 ## Relations with Agreement in `Voice`

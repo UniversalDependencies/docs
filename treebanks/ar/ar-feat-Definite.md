@@ -55,7 +55,7 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
 
 <table>
   <tr><th>Paradigm <i>أَوَّل</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th><th><tt>Com</tt></th><th><tt>Cons</tt></th></tr>
-  <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>أول, أولاً, اولا, اول, اولاً, أولا</td><td>الاول, الأول</td><td></td><td>أول, اول</td></tr>
+  <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>أول, أولاً, اول, اولا, أولا, اولاً</td><td>الاول, الأول</td><td></td><td>أول, اول</td></tr>
   <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td>الأولى</td><td></td></tr>
   <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>الاولى, الأولى</td><td></td><td>أولى, اولى</td></tr>
   <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>أول, اول</td><td>الاول, الأول</td><td></td><td>أول, اول</td></tr>

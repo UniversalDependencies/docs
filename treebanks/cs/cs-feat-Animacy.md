@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
   <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>členů</em></td><td><em>členů</em></td></tr>
   <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>členem</em></td><td><em>ČLENEM</em></td></tr>
   <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>členy</em></td><td><em>členy</em></td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>členovi, členu</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>členu, členovi</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>členech</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>člen</em></td><td><em>člen</em></td></tr>
   <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>členové</em></td><td></td></tr>

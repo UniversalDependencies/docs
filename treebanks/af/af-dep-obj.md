@@ -61,29 +61,25 @@ The following 32 pairs of parts of speech are connected with `obj`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 8 obj	color:blue
-1	In	in	ADP	SVS	AdpType=Prep	3	case	_	_
-2	hierdie	hierdie	DET	PA	PronType=Dem	3	det	_	_
-3	opsig	opsig	NOUN	NSE	Number=Sing	12	obl	_	_
-4	sal	sal	AUX	VTUOM	Tense=Pres|VerbForm=Fin,Inf|VerbType=Mod	12	aux	_	_
-5	ons	ons	PRON	PEMP	Case=Acc,Nom|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	SpaceAfter=No
-6	,	,	PUNCT	ZM	_	7	punct	_	_
-7	waar	waar	PRON	PB	PronType=Rel	12	amod	_	_
-8	nodig	nodig	ADJ	ASP	AdjType=Pred|Case=Nom|Degree=Pos	7	obj	_	SpaceAfter=No
-9	,	,	PUNCT	ZM	_	8	punct	_	_
-10	kreatiewe	kreatief	ADJ	ASA	AdjType=Attr|Case=Nom|Degree=Pos	11	amod	_	_
-11	maniere	manier	NOUN	NSM	Number=Plur	12	obj	_	_
-12	vind	vind	VERB	VTHOG	Subcat=Tran|Tense=Pres|VerbForm=Fin,Inf	0	root	_	_
-13	om	om	ADP	SVS	AdpType=Prep	17	case	_	_
-14	fondse	fonds	NOUN	NSM	Number=Plur	17	obj	_	_
-15	in	in	ADV	UPW	Degree=Pos	17	compound:prt	_	_
-16	te	te	PART	UPI	PartType=Inf	17	mark	_	_
-17	samel	samel	VERB	VTHOG	Subcat=Tran|Tense=Pres|VerbForm=Fin,Inf	12	obl	_	SpaceAfter=No
-18	.	.	PUNCT	ZE	_	17	punct	_	_
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 12 obj	color:blue
+1	Ons	ons	PRON	PEMB	Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+2	beleid	beleid	NOUN	NSE	Number=Sing	7	nsubj	_	_
+3	is	is	AUX	VTHOK	Tense=Pres|VerbForm=Fin,Inf|VerbType=Cop	7	cop	_	_
+4	om	om	ADP	SVS	AdpType=Prep	7	case	_	_
+5	inligting	inligting	NOUN	NM	Number=Sing	7	obj	_	_
+6	te	te	PART	UPI	PartType=Inf	7	mark	_	_
+7	verskaf	verskaf	VERB	VTHOG	Subcat=Tran|Tense=Pres|VerbForm=Fin,Inf	0	root	_	_
+8	soos	soos	SCONJ	UPV	_	7	amod	_	_
+9	en	en	CCONJ	KN	_	8	cc	_	_
+10	wanneer	wanneer	PRON	PB	PronType=Rel	8	conj	_	_
+11	dit	dit	PRON	PDOENP	Case=Nom|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+12	beskikbaar	beskikbaar	ADJ	ASP	AdjType=Pred|Case=Nom|Degree=Pos	10	obj	_	_
+13	word	word	AUX	VTHOK	Tense=Pres|VerbForm=Fin,Inf|VerbType=Cop	12	cop	_	SpaceAfter=No
+14	.	.	PUNCT	ZE	_	13	punct	_	_
 
 ~~~
 

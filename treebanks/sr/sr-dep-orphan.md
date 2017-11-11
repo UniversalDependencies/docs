@@ -22,15 +22,15 @@ The following 21 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 8 orphan	color:blue
-1	Linda	Linda	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
-2	Karadaku	Karadaku	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	1	flat	_	_
+1	Alina	Alina	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	Radu	Radu	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	1	flat	_	_
 3	za	za	ADP	_	Case=Acc	4	case	_	_
 4	Southeast	southeast	ADP	_	_	1	orphan	_	_
 5	European	european	ADP	_	_	4	flat	_	_
 6	Times	times	ADP	_	_	4	flat	_	_
 7	iz	iz	ADP	_	Case=Gen	8	case	_	_
-8	Prištine	Priština	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	1	orphan	_	_
-9	4.7.2011.	4.7.2011.	NUM	_	NumType=Mult	1	orphan	_	_
+8	Čisinaua	Čisinau	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	1	orphan	_	_
+9	25.11.2010.	25.11.2010.	NUM	_	NumType=Ord	1	orphan	_	_
 
 ~~~
 
@@ -41,31 +41,35 @@ The following 21 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 orphan	color:blue
-1	Linda	Linda	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
-2	Karadaku	Karadaku	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	1	flat	_	_
+1	Alina	Alina	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
+2	Radu	Radu	PROPN	_	Case=Nom|Gender=Fem|Number=Sing	1	flat	_	_
 3	za	za	ADP	_	Case=Acc	4	case	_	_
 4	Southeast	southeast	ADP	_	_	1	orphan	_	_
 5	European	european	ADP	_	_	4	flat	_	_
 6	Times	times	ADP	_	_	4	flat	_	_
 7	iz	iz	ADP	_	Case=Gen	8	case	_	_
-8	Prištine	Priština	PROPN	_	Case=Gen|Gender=Fem|Number=Sing	1	orphan	_	_
-9	4.7.2011.	4.7.2011.	NUM	_	NumType=Mult	1	orphan	_	_
+8	Čisinaua	Čisinau	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	1	orphan	_	_
+9	25.11.2010.	25.11.2010.	NUM	_	NumType=Ord	1	orphan	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 orphan	color:blue
-1	Petorka	petorka	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
-2	protiv	protiv	ADP	_	Case=Gen	3	case	_	_
-3	narkotika	narkotik	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	1	orphan	_	_
-4	na	na	ADP	_	Case=Loc	5	case	_	_
-5	Balkanu	Balkan	PROPN	_	Case=Loc|Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
-6	?	?	PUNCT	_	_	1	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 9 orphan	color:blue
+1	Dvadeset	dvadeset	NUM	_	NumType=Card	4	nummod:gov	_	_
+2	i	i	CCONJ	_	_	1	flat	_	_
+3	pet	pet	NUM	_	NumType=Card	1	flat	_	_
+4	šefova	šef	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	0	root	_	_
+5	država	država	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	4	nmod	_	_
+6	novoprosirene	novoproširena	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	7	amod	_	_
+7	EU	EU	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	5	nmod	_	_
+8	prvog	prvi	NUM	_	Case=Gen|Gender=Masc|Number=Sing|NumType=Ord	9	nummod	_	_
+9	maja	maj	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	4	orphan	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

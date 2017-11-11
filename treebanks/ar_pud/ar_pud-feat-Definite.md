@@ -74,7 +74,7 @@ The most frequent other feature values with which `PROPN` and `Definite` co-occu
 <table>
   <tr><th>Paradigm <i>jaziyrap_1</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
   <tr><td><tt><tt><a href="ar_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>جزيرة</td><td>جزيرة, الجزيرة</td></tr>
-  <tr><td><tt><tt><a href="ar_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>الجزر, جزر</td></tr>
+  <tr><td><tt><tt><a href="ar_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>جزر, الجزر</td></tr>
   <tr><td><tt><tt><a href="ar_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ar_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td>جزر</td></tr>
 </table>
 

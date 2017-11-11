@@ -6,12 +6,12 @@ udver: '2'
 
 ## Treebank Statistics: UD_Japanese-PUD: POS Tags: `ADJ`
 
-There are 324 `ADJ` lemmas (6%), 356 `ADJ` types (6%) and 905 `ADJ` tokens (3%).
-Out of 14 observed tags, the rank of `ADJ` is: 4 in number of lemmas, 4 in number of types and 7 in number of tokens.
+There are 320 `ADJ` lemmas (6%), 352 `ADJ` types (6%) and 724 `ADJ` tokens (3%).
+Out of 15 observed tags, the rank of `ADJ` is: 4 in number of lemmas, 4 in number of types and 8 in number of tokens.
 
-The 10 most frequent `ADJ` lemmas: この, その, ない, 新しい, 高い, 大きな, 必要, 非常, 完全, 様々
+The 10 most frequent `ADJ` lemmas: ない, 新しい, 高い, 大きな, 必要, 非常, 完全, 様々, 同じ, 重要
 
-The 10 most frequent `ADJ` types:  この, その, 新しい, ない, 大きな, 高い, 必要, 非常, 完全, 様々
+The 10 most frequent `ADJ` types:  新しい, ない, 大きな, 高い, 必要, 非常, 完全, 様々, 同じ, 重要
 
 The 10 most frequent ambiguous lemmas: ない (<tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> 173, <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> 30), 必要 (<tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 16, <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> 12), 非常 (<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> 12, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 2), 同 (<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1), 可能 (<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1), 別 (<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1), 良い (<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> 4, <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> 1), 主要 (<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 1), 元 (<tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> 3, <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> 2), すぐ (<tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> 5, <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> 2)
 
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  ない (<tt><a href="ja_pud-pos-AUX.html"
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.098765 (the average of all parts of speech is 1.052891).
+The form / lemma ratio of `ADJ` is 1.100000 (the average of all parts of speech is 1.052891).
 
 The 1st highest number of forms (4) was observed with the lemma “ない”: ない, なかっ, なく, なけれ.
 
@@ -59,32 +59,32 @@ The 2nd highest number of forms (4) was observed with the lemma “多い”: �
 
 The 3rd highest number of forms (3) was observed with the lemma “低い”: 低, 低い, 低く.
 
-`ADJ` occurs with 2 features: <tt><a href="ja_pud-feat-Form.html">Form</a></tt> (104; 11% instances), <tt><a href="ja_pud-feat-VerbForm.html">VerbForm</a></tt> (80; 9% instances)
+`ADJ` occurs with 2 features: <tt><a href="ja_pud-feat-Form.html">Form</a></tt> (104; 14% instances), <tt><a href="ja_pud-feat-VerbForm.html">VerbForm</a></tt> (80; 11% instances)
 
 `ADJ` occurs with 5 feature-value pairs: `Form=Adn`, `Form=Real`, `Form=Spcf`, `VerbForm=Fin`, `VerbForm=Ger`
 
 `ADJ` occurs with 6 feature combinations.
-The most frequent feature combination is `_` (721 tokens).
-Examples: この, その, 大きな, 必要, 非常, 完全, 様々, 同じ, 重要, 他の
+The most frequent feature combination is `_` (540 tokens).
+Examples: 大きな, 必要, 非常, 完全, 様々, 同じ, 重要, 他の, 同, 小さな
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 5 different relations: <tt><a href="ja_pud-dep-acl.html">acl</a></tt> (553; 61% instances), <tt><a href="ja_pud-dep-det.html">det</a></tt> (181; 20% instances), <tt><a href="ja_pud-dep-amod.html">amod</a></tt> (117; 13% instances), <tt><a href="ja_pud-dep-root.html">root</a></tt> (53; 6% instances), <tt><a href="ja_pud-dep-csubj.html">csubj</a></tt> (1; 0% instances)
+`ADJ` nodes are attached to their parents using 6 different relations: <tt><a href="ja_pud-dep-acl.html">acl</a></tt> (535; 74% instances), <tt><a href="ja_pud-dep-amod.html">amod</a></tt> (117; 16% instances), <tt><a href="ja_pud-dep-root.html">root</a></tt> (53; 7% instances), <tt><a href="ja_pud-dep-advcl.html">advcl</a></tt> (9; 1% instances), <tt><a href="ja_pud-dep-ccomp.html">ccomp</a></tt> (9; 1% instances), <tt><a href="ja_pud-dep-csubj.html">csubj</a></tt> (1; 0% instances)
 
-Parents of `ADJ` nodes belong to 8 different parts of speech: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (581; 64% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (216; 24% instances),  (53; 6% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (33; 4% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (15; 2% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances)
+Parents of `ADJ` nodes belong to 8 different parts of speech: <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (408; 56% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (214; 30% instances),  (53; 7% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (32; 4% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (13; 2% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
-378 (42%) `ADJ` nodes are leaves.
+198 (27%) `ADJ` nodes are leaves.
 
-299 (33%) `ADJ` nodes have one child.
+297 (41%) `ADJ` nodes have one child.
 
-69 (8%) `ADJ` nodes have two children.
+69 (10%) `ADJ` nodes have two children.
 
-159 (18%) `ADJ` nodes have three or more children.
+160 (22%) `ADJ` nodes have three or more children.
 
 The highest child degree of a `ADJ` node is 10.
 
-Children of `ADJ` nodes are attached using 18 different relations: <tt><a href="ja_pud-dep-aux.html">aux</a></tt> (485; 40% instances), <tt><a href="ja_pud-dep-punct.html">punct</a></tt> (135; 11% instances), <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (116; 9% instances), <tt><a href="ja_pud-dep-acl.html">acl</a></tt> (111; 9% instances), <tt><a href="ja_pud-dep-obl.html">obl</a></tt> (95; 8% instances), <tt><a href="ja_pud-dep-case.html">case</a></tt> (65; 5% instances), <tt><a href="ja_pud-dep-advmod.html">advmod</a></tt> (55; 4% instances), <tt><a href="ja_pud-dep-mark.html">mark</a></tt> (51; 4% instances), <tt><a href="ja_pud-dep-fixed.html">fixed</a></tt> (31; 3% instances), <tt><a href="ja_pud-dep-iobj.html">iobj</a></tt> (24; 2% instances), <tt><a href="ja_pud-dep-compound.html">compound</a></tt> (22; 2% instances), <tt><a href="ja_pud-dep-cop.html">cop</a></tt> (10; 1% instances), <tt><a href="ja_pud-dep-nummod.html">nummod</a></tt> (8; 1% instances), <tt><a href="ja_pud-dep-obj.html">obj</a></tt> (5; 0% instances), <tt><a href="ja_pud-dep-amod.html">amod</a></tt> (4; 0% instances), <tt><a href="ja_pud-dep-csubj.html">csubj</a></tt> (3; 0% instances), <tt><a href="ja_pud-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="ja_pud-dep-dep.html">dep</a></tt> (1; 0% instances)
+Children of `ADJ` nodes are attached using 19 different relations: <tt><a href="ja_pud-dep-aux.html">aux</a></tt> (485; 40% instances), <tt><a href="ja_pud-dep-punct.html">punct</a></tt> (143; 12% instances), <tt><a href="ja_pud-dep-nsubj.html">nsubj</a></tt> (114; 9% instances), <tt><a href="ja_pud-dep-acl.html">acl</a></tt> (106; 9% instances), <tt><a href="ja_pud-dep-obl.html">obl</a></tt> (101; 8% instances), <tt><a href="ja_pud-dep-case.html">case</a></tt> (65; 5% instances), <tt><a href="ja_pud-dep-advmod.html">advmod</a></tt> (55; 5% instances), <tt><a href="ja_pud-dep-mark.html">mark</a></tt> (51; 4% instances), <tt><a href="ja_pud-dep-fixed.html">fixed</a></tt> (31; 3% instances), <tt><a href="ja_pud-dep-iobj.html">iobj</a></tt> (24; 2% instances), <tt><a href="ja_pud-dep-compound.html">compound</a></tt> (14; 1% instances), <tt><a href="ja_pud-dep-cop.html">cop</a></tt> (10; 1% instances), <tt><a href="ja_pud-dep-obj.html">obj</a></tt> (5; 0% instances), <tt><a href="ja_pud-dep-amod.html">amod</a></tt> (4; 0% instances), <tt><a href="ja_pud-dep-nummod.html">nummod</a></tt> (4; 0% instances), <tt><a href="ja_pud-dep-advcl.html">advcl</a></tt> (3; 0% instances), <tt><a href="ja_pud-dep-csubj.html">csubj</a></tt> (3; 0% instances), <tt><a href="ja_pud-dep-nmod.html">nmod</a></tt> (3; 0% instances), <tt><a href="ja_pud-dep-dep.html">dep</a></tt> (1; 0% instances)
 
-Children of `ADJ` nodes belong to 14 different parts of speech: <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (507; 41% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (226; 18% instances), <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (143; 12% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (81; 7% instances), <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (65; 5% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (46; 4% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (43; 4% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (33; 3% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (23; 2% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (21; 2% instances), <tt><a href="ja_pud-pos-PART.html">PART</a></tt> (16; 1% instances), <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (10; 1% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="ja_pud-pos-SYM.html">SYM</a></tt> (2; 0% instances)
+Children of `ADJ` nodes belong to 14 different parts of speech: <tt><a href="ja_pud-pos-AUX.html">AUX</a></tt> (507; 41% instances), <tt><a href="ja_pud-pos-NOUN.html">NOUN</a></tt> (226; 18% instances), <tt><a href="ja_pud-pos-PUNCT.html">PUNCT</a></tt> (143; 12% instances), <tt><a href="ja_pud-pos-VERB.html">VERB</a></tt> (80; 7% instances), <tt><a href="ja_pud-pos-ADP.html">ADP</a></tt> (65; 5% instances), <tt><a href="ja_pud-pos-ADV.html">ADV</a></tt> (46; 4% instances), <tt><a href="ja_pud-pos-SCONJ.html">SCONJ</a></tt> (43; 4% instances), <tt><a href="ja_pud-pos-ADJ.html">ADJ</a></tt> (32; 3% instances), <tt><a href="ja_pud-pos-PROPN.html">PROPN</a></tt> (23; 2% instances), <tt><a href="ja_pud-pos-PRON.html">PRON</a></tt> (21; 2% instances), <tt><a href="ja_pud-pos-PART.html">PART</a></tt> (16; 1% instances), <tt><a href="ja_pud-pos-CCONJ.html">CCONJ</a></tt> (10; 1% instances), <tt><a href="ja_pud-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="ja_pud-pos-SYM.html">SYM</a></tt> (2; 0% instances)
 

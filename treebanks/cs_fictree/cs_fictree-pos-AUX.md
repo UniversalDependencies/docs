@@ -19,40 +19,40 @@ The 10 most frequent ambiguous types:  <em>jsem</em> (<tt><a href="cs_fictree-po
 
 
 * <em>jsem</em>
-  * <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> 2291: <em>Myslel <b>jsem</b> , že <b>jsem</b> neporozuměl .</em>
-  * <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> 19: <em>Smál se mi , že <b>jsem</b> jako mladý psík , s Ajaxem dvojče .</em>
+  * <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> 2291: <em>A odjel <b>jsem</b> .</em>
+  * <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> 19: <em>" Jenom <b>jsem</b> na příkladu . "</em>
 * <em>by</em>
-  * <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> 800: <em>Člověk musí někomu splnit sen , aby <b>by</b> se splnil ten jeho .</em>
+  * <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> 800: <em>Cítily <b>by</b> se zahanbené a směšné .</em>
   * <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> 7: <em>Nenápadně kývla , že <b>by</b> ráda , ale že nemůže .</em>
 * <em>je</em>
-  * <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> 619: <em>" Že <b>je</b> pravdivý , vám ale budu moci snadno dokázat .</em>
-  * <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> 244: <em>Pak jsem si všiml , že na zadní straně obálky <b>je</b> ještě něco .</em>
-  * <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> 228: <em>Já jí <b>je</b> nedal .</em>
+  * <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> 619: <em>Jaká <b>je</b> to příležitost !</em>
+  * <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> 244: <em>" Kolik jí <b>je</b> ? "</em>
+  * <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> 228: <em>Každé čtyři roky <b>je</b> musíš sázet znovu .</em>
 * <em>byl</em>
-  * <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> 288: <em>Dítě vedlo toho anděla za kůlnu a anděl <b>byl</b> pěkně rozpačitý .</em>
-  * <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> 64: <em>Jenže Izáček <b>byl</b> už - Kde ?</em>
+  * <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> 288: <em>Její bratr , můj prastrýc , <b>byl</b> slavný pražský zahradník .</em>
+  * <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> 64: <em>Svět <b>byl</b> stále na svém místě .</em>
 * <em>bych</em>
-  * <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> 283: <em>Řekl <b>bych</b> skoro , že děti mají jiná ústa než velcí lidé .</em>
+  * <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> 283: <em>Scházela jsem po schodech a bylo mi , jako <b>bych</b> létala .</em>
   * <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> 3: <em>" Víš , co <b>bych</b> hrozně ráda ? " uvítala jsem ho ve dveřích .</em>
 * <em>jsme</em>
-  * <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> 275: <em>Jednou <b>jsme</b> cítili kolem krku ručky malých poutníků .</em>
+  * <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> 275: <em>Daly <b>jsme</b> se do řeči .</em>
   * <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> 6: <em>To víte , tady <b>jsme</b> na pracovišti . "</em>
 * <em>byla</em>
-  * <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> 201: <em>Pro mě to <b>byla</b> obyčejná cesta za špatného počasí .</em>
-  * <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> 68: <em>V městečku <b>byla</b> jen jedna hospoda a s kůlnou jsem se taky nemohl splést .</em>
+  * <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> 201: <em>Ach přátelé , to <b>byla</b> noc , to <b>byla</b> nádherná noc !</em>
+  * <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> 68: <em>Rut <b>byla</b> v zoufalém stavu .</em>
 * <em>bylo</em>
-  * <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> 153: <em>Ale <b>bylo</b> mi jí hrozně líto .</em>
-  * <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> 96: <em>Pak na mě plaše mžikla a <b>bylo</b> znát , že mě horečně pozoruje .</em>
+  * <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> 153: <em>To stvořeníčko , které <b>bylo</b> dopisem , poslaným Stvořitelem .</em>
+  * <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> 96: <em>Scházela jsem po schodech a <b>bylo</b> mi , jako bych létala .</em>
 * <em>bude</em>
-  * <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> 131: <em>" Snad si říkáte - ta <b>bude</b> mít hodně pěkných šperků , " usmála se na mě .</em>
-  * <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> 37: <em>" Tam <b>bude</b> kolik mrtvých . . . "</em>
+  * <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> 131: <em>Ale tahle s tím obrázkem mě <b>bude</b> strašit do smrti .</em>
+  * <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> 37: <em>" Šestatřicet . . . mi <b>bude</b> . "</em>
 * <em>jsou</em>
-  * <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> 121: <em>" Prozraďte mi , proč že <b>jsou</b> tak poničené ?</em>
-  * <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> 29: <em>a teď <b>jsou</b> u mne .</em>
+  * <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> 121: <em>Velké listy topolu <b>jsou</b> na spodní straně bílé a plstěné .</em>
+  * <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> 29: <em>Žaludy <b>jsou</b> v dřevnatém kalíšku .</em>
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 14.750000 (the average of all parts of speech is 1.966826).
+The form / lemma ratio of `AUX` is 14.750000 (the average of all parts of speech is 1.973661).
 
 The 1st highest number of forms (48) was observed with the lemma “být”: <em>Buďme, Nebuď, bude, budeme, budete, budeš, budou, budu, buď, buďte, by, bych, bychom, byl, byla, byli, bylo, byly, bys, bysme, byste, být, je, jsem, jsi, jsme, jsou, jsouc, jste, nebude, nebudeme, nebudeš, nebudou, nebudu, nebyl, nebyla, nebyli, nebylo, nebyly, nebýt, nejsem, nejseš, nejsi, nejsme, nejsou, nejste, není, si</em>.
 

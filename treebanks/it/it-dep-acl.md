@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="it-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-3194 nodes (1%) are attached to their parents as `acl`.
+3286 nodes (1%) are attached to their parents as `acl`.
 
-3115 instances of `acl` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.81183469004383.
+3205 instances of `acl` (98%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.79914790018259.
 
-The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-VERB.html">VERB</a></tt> (2899; 91% instances), <tt><a href="it-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it-pos-VERB.html">VERB</a></tt> (157; 5% instances), <tt><a href="it-pos-PRON.html">PRON</a></tt>-<tt><a href="it-pos-VERB.html">VERB</a></tt> (112; 4% instances), <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-NOUN.html">NOUN</a></tt> (12; 0% instances), <tt><a href="it-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it-pos-X.html">X</a></tt>-<tt><a href="it-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-VERB.html">VERB</a></tt> (2982; 91% instances), <tt><a href="it-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it-pos-VERB.html">VERB</a></tt> (163; 5% instances), <tt><a href="it-pos-PRON.html">PRON</a></tt>-<tt><a href="it-pos-VERB.html">VERB</a></tt> (115; 3% instances), <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-NOUN.html">NOUN</a></tt> (12; 0% instances), <tt><a href="it-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it-pos-VERB.html">VERB</a></tt> (6; 0% instances), <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-ADJ.html">ADJ</a></tt> (6; 0% instances), <tt><a href="it-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="it-pos-X.html">X</a></tt>-<tt><a href="it-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -33,23 +33,16 @@ The following 8 pairs of parts of speech are connected with `acl`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 acl	color:blue
-1	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-2	Caschi	Caschi	PROPN	SP	_	0	root	_	_
-3	blu	blu	ADJ	A	_	2	amod	_	_
-4	impiegati	impiegare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	2	acl	_	_
-5	come	come	ADP	E	_	6	case	_	_
-6	scudi	scudo	NOUN	S	Gender=Masc|Number=Plur	4	obl	_	_
-7	umani	umano	ADJ	A	Gender=Masc|Number=Plur	6	amod	_	_
-8	durante	durante	ADP	E	_	10	case	_	_
-9	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	10	det	_	SpaceAfter=No
-10	offensiva	offensiva	NOUN	S	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
-11	"	"	PUNCT	FB	_	2	punct	_	SpaceAfter=No
-12	.	.	PUNCT	FS	_	2	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 1 acl	color:blue
+1	Evacuata	evacuare	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	acl	_	_
+2	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+3	Tate	Tate	PROPN	SP	_	0	root	_	_
+4	Gallery	Gallery	PROPN	SP	_	3	flat:name	_	SpaceAfter=No
+5	.	.	PUNCT	FS	_	3	punct	_	_
 
 ~~~
 

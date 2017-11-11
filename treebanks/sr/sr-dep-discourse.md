@@ -19,38 +19,16 @@ The following 34 pairs of parts of speech are connected with `discourse`: <tt><a
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 1 discourse	color:blue
-1	Bar	bar	ADV	_	Degree=Pos	6	discourse	_	_
-2	na	na	ADP	_	Case=Loc	3	case	_	_
-3	papiru	papir	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
-4	,	,	PUNCT	_	_	3	punct	_	_
-5	to	taj	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	_
-6	izgleda	izgledati	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
-7	kao	kao	SCONJ	_	_	9	case	_	_
-8	odlična	odličan	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
-9	ideja	ideja	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	6	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 discourse	color:blue
-1	I	i	CCONJ	_	_	2	discourse	_	_
-2	verujem	verovati	VERB	_	Number=Sing|Person=1|Tense=Pres	0	root	_	_
-3	da	da	SCONJ	_	_	6	mark	_	_
-4	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	6	cop	_	_
-5	to	taj	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	_
-6	ideja	ideja	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	ccomp	_	_
-7	evropske	evropski	ADJ	_	Case=Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	8	amod	_	_
-8	integracije	integracija	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	2	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 1 discourse	color:blue
+1	Međutim	međutim	ADV	_	Degree=Pos	5	discourse	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	vladu	vlada	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	_
+4	više	mnogo	ADV	_	Degree=Cmp	5	advmod	_	_
+5	brine	brinuti	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
+6	inflacija	inflacija	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 
@@ -61,15 +39,39 @@ The following 34 pairs of parts of speech are connected with `discourse`: <tt><a
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 1 discourse	color:blue
-1	Međutim	međutim	ADV	_	Degree=Pos	8	discourse	_	SpaceAfter=No
+1	A	a	CCONJ	_	_	8	discourse	_	_
+2	ako	ako	SCONJ	_	_	6	mark	_	_
+3	je	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	6	cop	_	_
+4	sve	sve	PRON	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	6	nsubj	_	_
+5	u	u	ADP	_	Case=Loc	6	case	_	_
+6	redu	red	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	8	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	mogu	moći	VERB	_	Number=Plur|Person=3|Tense=Pres	0	root	_	_
+9	da	da	SCONJ	_	_	10	mark	_	_
+10	otpočnu	otpočeti	VERB	_	Number=Plur|Person=3|Tense=Pres	8	xcomp	_	_
+11	projekat	projekat	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obj	_	_
+12	"	"	PUNCT	_	_	8	punct	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	kaže	kazati	VERB	_	Number=Sing|Person=3|Tense=Pres	8	parataxis	_	_
+15	Božinov	Božinov	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	8	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 1 discourse	color:blue
+1	Međutim	međutim	ADV	_	Degree=Pos	6	discourse	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
-3	neki	neki	PRON	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Ind	4	det	_	_
-4	Rumuni	Rumun	PROPN	_	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	_
-5	su	biti	AUX	_	Number=Plur|Person=3|Tense=Pres	8	cop	_	_
-6	i	i	CCONJ	_	_	8	discourse	_	_
-7	dalje	daleko	ADV	_	Degree=Cmp	8	advmod	_	_
-8	oprezni	oprezan	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	8	punct	_	_
+3	sastanak	sastanak	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
+4	nikada	nikada	ADV	_	Degree=Pos	6	advmod	_	_
+5	nije	biti	AUX	_	Number=Sing|Person=3|Tense=Pres	6	aux	_	_
+6	održan	održati	ADJ	_	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
 

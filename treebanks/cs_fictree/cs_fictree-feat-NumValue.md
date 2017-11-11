@@ -17,7 +17,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="cs_fictree-pos-NUM.
 
 ### `NUM`
 
-844 <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> tokens (60% of all `NUM` tokens) have a non-empty value of `NumValue`.
+844 <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> tokens (64% of all `NUM` tokens) have a non-empty value of `NumValue`.
 
 The most frequent other feature values with which `NUM` and `NumValue` co-occurred: <tt><a href="cs_fictree-feat-NumForm.html">NumForm</a></tt><tt>=Word</tt> (844; 100%), <tt><a href="cs_fictree-feat-NumType.html">NumType</a></tt><tt>=Card</tt> (844; 100%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (467; 55%).
 

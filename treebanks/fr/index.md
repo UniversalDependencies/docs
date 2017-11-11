@@ -12,7 +12,7 @@ udver: '2'
 # UD French
 
 Language: [French](../fr/overview/fr-hub.html) (code: `fr`)<br/>
-Family: Indo-European, Italic
+Family: Indo-European, Romance
 
 This treebank has been part of Universal Dependencies since the UD v1.0 release.
 
@@ -32,30 +32,46 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
+| Lemmas | assigned by a program, with some manual corrections, but not a full manual verification |
 | UPOS | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
 | XPOS | not available |
-| Features | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
+| Features | assigned by a program, with some manual corrections, but not a full manual verification |
 | Relations | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
 
 ## Description
-UD French data comes from the universal Google dataset (version 2.0). These sentences come from a mix of Google News (Blogger), Wikipedia, and Google Local reviews, and were then converted from the content head version of [universal dependency treebank 2.0 (legacy)](https://code.google.com/p/uni-dep-tb/).
+The French UD was converted in 2015 from the content head version of the universal
+dependency treebank v2.0 (https://github.com/ryanmcd/uni-dep-tb).
+It is updated since 2015 independently from the previous source.
 
 
+The French UD is converted from the content head version of the universal
+dependency treebank v2.0 (https://github.com/ryanmcd/uni-dep-tb).
+The README for the original project is available in the file `README_Google_dataset.txt`.
 
-UD French data comes from the universal Google dataset, and the conversion to the UD format was done automatically using heuristic rules and fixed lists of words created by native French speakers. Sentence ids are not related to genre or domain the sentences originally came from.
+The French data consists of 402,404 words (16,448 sentences).
+No sentence id were available in the original resource, so new `sent_id` were automatically introduced in the converted corpus with prefixes `fr-ud-train`, `fr-ud-dev` and `fr-ud-test` on the correponding original files, followed by a 5 digit number following the order of sentences.
 
-The French data consists of 402,197 words (16,448 sentences), divided into train (356,419 words; 14,554 sentences), dev (38,758 words; 1,596 sentences) and test (7,020 words; 298 sentences) sets. Note that for the CoNLL shared task, the last 3,000 tokens from dev was appended to test to reach the 10,000 syntactic tokens minimum. This data was in shared_task_fr_test.conllu (10,020 words; 416 sentences).
+:warning: to meet the size requirements of test data of 10K words, a part of the dev original file was moved to the test file!
+Since version 2.0, the splitting of data is:
 
-The French UD conforms to the UD guidelines, but there are some exceptions. All the morphological features are not present in the data yet. Cleft constructions are not yet analyzed following the UD guidelines.
+* file `fr-ud-train.conll`: 14,554 sentences; 356,613 words
+* `fr-ud-train_00001` to `fr-ud-train_14554`
+* file `fr-ud-dev.conll`: 1,478 sentences; 35,771 words
+* `fr-ud-dev_00001` to `fr-ud-dev_01478`
+* file `fr-ud-test.conll`: 416 sentences; 10,020 words
+* `fr_ud-test_00001` to `fr_ud-test_00298`
+* `fr-ud-dev_01479` to `fr-ud-dev_01596`
+
+Sentences are shuffled and there is no way to know what is the genre of a given sentence.
+
+Probably due to some bug in a conversion program, version 1.2 contains many truncated sentences (date missing for instance). Almost every truncated sentence is from Wikipedia, so it was possible to recover the original text. Most of the truncated sentences were completed in version 1.3. Some sentences were completed later. There are probably still some truncated sentences.
 
 ## Acknowledgments
 
-Contributors to this project are Marie-Catherine de Marneffe, Bruno Guillaume, Ryan McDonald, Alane Suhr, Joakim Nivre, and Matias Grioni. Original contributors are Yvonne Quirmbach-Brundage, Adam LaMontagne, Milan Souček, Timo Järvinen, and Radici Alessandra.
+The latest version of the corpus was produced by Marie-Catherine de Marneffe, Bruno Guillaume and Matias Grioni.
+Automatic modifications and consistency checking were partly done using the Grew software (see http://grew.loria.fr).
 
-More information on the original Google data can be found in the following paper:
-
-*Universal Dependency Annotation for Multilingual Parsing* Ryan McDonald, Joakim Nivre, Yvonne Quirmbach-Brundage, Yoav Goldberg, Dipanjan Das, Kuzman Ganchev, Keith Hall, Slav Petrov, Hao Zhang, Oscar Tackstrom, Claudia Bedini, Nuria Bertomeu Castello and Jungmee Lee Proceedings of ACL 2013
+See file `README_Google_dataset.txt` for references and acknowledgments concerning the original corpus.
 
 
 # Statistics of UD French

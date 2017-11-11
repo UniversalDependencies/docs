@@ -23,7 +23,7 @@ The most frequent other feature values with which `ADJ` and `Aspect` co-occurred
 `ADJ` tokens may have the following values of `Aspect`:
 
 * `Imp` (263; 100% of non-empty `Aspect`): <em>následující, rozhodující, třesoucí, nastávající, povznášející, stojící, vynikající, zbývající, blížícího, bušícím</em>
-* `EMPTY` (10637): <em>první, celý, rád, další, jiného, poslední, malé, celé, celou, velké</em>
+* `EMPTY` (10636): <em>první, celý, rád, další, jiného, poslední, malé, celé, celou, velké</em>
 
 `Aspect` seems to be **lexical feature** of `ADJ`. 100% lemmas (180) occur only with one value of `Aspect`.
 

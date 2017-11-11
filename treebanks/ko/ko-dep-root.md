@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5350 nodes (8%) are attached to their parents as `root`.
+6339 nodes (9%) are attached to their parents as `root`.
 
-5350 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.96242990654206.
+6339 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 9.86306988483988.
 
-The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="ko-pos-VERB.html">VERB</a></tt> (4051; 76% instances), -<tt><a href="ko-pos-ADJ.html">ADJ</a></tt> (769; 14% instances), -<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (512; 10% instances), -<tt><a href="ko-pos-ADV.html">ADV</a></tt> (9; 0% instances), -<tt><a href="ko-pos-PRON.html">PRON</a></tt> (7; 0% instances), -<tt><a href="ko-pos-NUM.html">NUM</a></tt> (1; 0% instances), -<tt><a href="ko-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `root`: -<tt><a href="ko-pos-VERB.html">VERB</a></tt> (4811; 76% instances), -<tt><a href="ko-pos-ADJ.html">ADJ</a></tt> (920; 15% instances), -<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (589; 9% instances), -<tt><a href="ko-pos-ADV.html">ADV</a></tt> (9; 0% instances), -<tt><a href="ko-pos-PRON.html">PRON</a></tt> (8; 0% instances), -<tt><a href="ko-pos-NUM.html">NUM</a></tt> (1; 0% instances), -<tt><a href="ko-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

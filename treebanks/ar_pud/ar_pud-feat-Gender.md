@@ -100,8 +100,9 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 * `EMPTY` (233): سي، بي، إن، إس، هونغ، كونغ، جي، آي، إف، إم
 
 <table>
-  <tr><th>Paradigm <i>kliynotuwn_1</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt></tt></td><td>كلينتون</td><td>كلينتون</td></tr>
+  <tr><th>Paradigm <i>bikiyn_1</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt><tt><a href="ar_pud-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt></tt></td><td>بكين</td><td>بكين</td></tr>
+  <tr><td><tt><tt><a href="ar_pud-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt></tt></td><td></td><td>بكين</td></tr>
 </table>
 
 `Gender` seems to be **lexical feature** of `PROPN`. 97% lemmas (901) occur only with one value of `Gender`.

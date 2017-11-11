@@ -12,34 +12,38 @@ udver: '2'
 # UD Ukrainian
 
 Language: [Ukrainian](../uk/overview/uk-hub.html) (code: `uk`)<br/>
-Family: Indo-European, Balto-Slavic
+Family: Indo-European, Slavic
 
 This treebank has been part of Universal Dependencies since the UD v1.4 release.
 
-The following people have contributed to making this treebank part of UD: Natalia Kotsyba, Bohdan Moskalevskyi.
+The following people have contributed to making this treebank part of UD: Natalia Kotsyba, Bohdan Moskalevskyi, Mykhailo Romanenko.
 
 Repository: [UD_Ukrainian](https://github.com/UniversalDependencies/UD_Ukrainian)
 
 License: CC BY-NC-SA 4.0
 
-Genre: fiction, grammar-examples
+Genre: news, fiction, legal, social, wiki, web, email
 
 Questions, comments?
 General annotation questions (either Ukrainian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Ukrainian/issues).
-If you want to collaborate, please contact [gnatko&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com].
+If you want to collaborate, please contact [org&nbsp;(æt)&nbsp;mova&nbsp;•&nbsp;institute].
+Development of the treebank happens outside the UD repository.
+If there are bugs, either the original data source or the conversion procedure must be fixed.
+Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
-| XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Lemmas | annotated manually, natively in UD style |
+| UPOS | annotated manually, natively in UD style |
+| XPOS | annotated manually |
+| Features | annotated manually, natively in UD style |
+| Relations | annotated manually, natively in UD style |
 
 ## Description
 
 ## Acknowledgments
+
 # Statistics of UD Ukrainian
 
 ## POS Tags

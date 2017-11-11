@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-248 nodes (2%) are attached to their parents as `mark`.
+534 nodes (2%) are attached to their parents as `mark`.
 
-248 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.65725806451613.
+533 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.48876404494382.
 
-The following 9 pairs of parts of speech are connected with `mark`: <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-SCONJ.html">SCONJ</a></tt> (183; 74% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-SCONJ.html">SCONJ</a></tt> (28; 11% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-CCONJ.html">CCONJ</a></tt> (18; 7% instances), <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-SCONJ.html">SCONJ</a></tt> (11; 4% instances), <tt><a href="sme-pos-PRON.html">PRON</a></tt>-<tt><a href="sme-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="sme-pos-ADV.html">ADV</a></tt>-<tt><a href="sme-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="sme-pos-NUM.html">NUM</a></tt>-<tt><a href="sme-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 9 pairs of parts of speech are connected with `mark`: <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-SCONJ.html">SCONJ</a></tt> (402; 75% instances), <tt><a href="sme-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sme-pos-SCONJ.html">SCONJ</a></tt> (65; 12% instances), <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-SCONJ.html">SCONJ</a></tt> (26; 5% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-CCONJ.html">CCONJ</a></tt> (24; 4% instances), <tt><a href="sme-pos-PRON.html">PRON</a></tt>-<tt><a href="sme-pos-SCONJ.html">SCONJ</a></tt> (9; 2% instances), <tt><a href="sme-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sme-pos-SCONJ.html">SCONJ</a></tt> (3; 1% instances), <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="sme-pos-ADV.html">ADV</a></tt>-<tt><a href="sme-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="sme-pos-NUM.html">NUM</a></tt>-<tt><a href="sme-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -55,26 +55,20 @@ The following 9 pairs of parts of speech are connected with `mark`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 8 5 mark	color:blue
-1	Ja	ja	CCONJ	CC	_	4	mark	_	_
-2	jos	jos	SCONJ	CS	_	1	conj	_	_
-3	meahccái	meahcci	NOUN	N	Case=Ill|Number=Sing	4	obl	_	_
-4	šaddá	šaddat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	ja	ja	CCONJ	CC	_	8	mark	_	_
-6	jos	jos	SCONJ	CS	_	5	conj	_	_
-7	iige	ii	VERB	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	8	aux:neg	_	_
-8	oaččo	oažžut	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	4	advcl	_	_
-9	dola	dolla	NOUN	N	Case=Acc|Number=Sing	8	obj	_	SpaceAfter=No
-10	,	,	PUNCT	CLB	_	4	punct	_	_
-11	de	de	ADV	Adv	_	13	advmod	_	_
-12	gale	gale	ADV	Adv	_	13	advmod	_	_
-13	galbmo	galbmot	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
-14	jámas	jámas	ADV	Adv	_	13	advmod	_	SpaceAfter=No
-15	.	.	PUNCT	CLB	_	4	punct	_	_
+# visual-style 8 7 mark	color:blue
+1	Gávpot	gávpot	NOUN	N	Case=Nom|Number=Sing	3	nsubj	_	_
+2	lei	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
+3	njealječiegat	njealječiegat	ADJ	A	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	CLB	_	3	punct	_	_
+5	seammá	seammá	ADV	Adv	_	6	advmod	_	_
+6	guhkki	guhkki	ADJ	A	Case=Nom|Number=Sing	3	conj	_	_
+7	go	go	SCONJ	CS	_	8	mark	_	_
+8	govdat	govdat	ADJ	A	Case=Nom|Number=Sing	6	advcl	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	3	punct	_	_
 
 ~~~
 

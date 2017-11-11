@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-324 nodes (1%) are attached to their parents as `mark`.
+372 nodes (1%) are attached to their parents as `mark`.
 
-324 instances of `mark` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.14814814814815.
+372 instances of `mark` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.13440860215054.
 
-The following 4 pairs of parts of speech are connected with `mark`: <tt><a href="ko-pos-VERB.html">VERB</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (243; 75% instances), <tt><a href="ko-pos-VERB.html">VERB</a></tt>-<tt><a href="ko-pos-ADV.html">ADV</a></tt> (73; 23% instances), <tt><a href="ko-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (6; 2% instances), <tt><a href="ko-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko-pos-ADV.html">ADV</a></tt> (2; 1% instances).
+The following 4 pairs of parts of speech are connected with `mark`: <tt><a href="ko-pos-VERB.html">VERB</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (281; 76% instances), <tt><a href="ko-pos-VERB.html">VERB</a></tt>-<tt><a href="ko-pos-ADV.html">ADV</a></tt> (83; 22% instances), <tt><a href="ko-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko-pos-NOUN.html">NOUN</a></tt> (6; 2% instances), <tt><a href="ko-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ko-pos-ADV.html">ADV</a></tt> (2; 1% instances).
 
 
 ~~~ conllu

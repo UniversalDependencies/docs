@@ -17,21 +17,22 @@ The following 14 pairs of parts of speech are connected with `csubj`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 5 csubj	color:blue
-1	Očekuje	očekivati	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
+# visual-style 1 6 csubj	color:blue
+1	Čini	činiti	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
 2	se	sebe	PRON	_	Case=Acc|Number=Sing|Reflex=Yes	1	compound	_	_
-3	da	da	SCONJ	_	_	5	mark	_	_
-4	Komisija	komisija	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
-5	predstavi	predstaviti	VERB	_	Number=Sing|Person=3|Tense=Pres	1	csubj	_	_
-6	svoje	svoj	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Reflex=Yes	7	det	_	_
-7	preporuke	preporuka	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	5	obj	_	_
-8	6.	6.	NUM	_	NumType=Ord	9	nummod	_	_
-9	decembra	decembar	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	1	punct	_	_
+3	da	da	SCONJ	_	_	6	mark	_	_
+4	zvanična	zvaničan	ADJ	_	Case=Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	statistika	statistika	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+6	ide	ići	VERB	_	Number=Sing|Person=3|Tense=Pres	1	csubj	_	_
+7	u	u	ADP	_	Case=Acc	8	case	_	_
+8	korist	korist	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	obl	_	_
+9	Jelašićevom	Jelašićev	ADJ	_	Case=Dat|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing|Poss=Yes	10	amod	_	_
+10	stavu	stav	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

@@ -20,27 +20,27 @@ The 10 most frequent ambiguous types:  <em>Cože</em> (<tt><a href="cs_fictree-p
 
 * <em>Cože</em>
   * <tt><a href="cs_fictree-pos-INTJ.html">INTJ</a></tt> 7: <em>" <b>Cože</b> ? "</em>
-  * <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> 3: <em>" <b>Cože</b> je co ? "</em>
+  * <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> 3: <em><b>Cože</b> to říkal ?</em>
 * <em>No</em>
-  * <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 48: <em>" <b>No</b> a ? "</em>
-  * <tt><a href="cs_fictree-pos-INTJ.html">INTJ</a></tt> 7: <em>" <b>No</b> , za to , že jste si vzala místo dcery mateřskou dovolenou . "</em>
+  * <tt><a href="cs_fictree-pos-PART.html">PART</a></tt> 48: <em>" <b>No</b> jo .</em>
+  * <tt><a href="cs_fictree-pos-INTJ.html">INTJ</a></tt> 7: <em>" <b>No</b> a co ?</em>
 * <em>fajn</em>
   * <tt><a href="cs_fictree-pos-INTJ.html">INTJ</a></tt> 3: <em>Tak jsem vyhrál , <b>fajn</b> .</em>
   * <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> 1: <em>Kamarádka Ilona poznala , že se se mnou něco děje a nabídla mi , že mě seznámí s jednou moc <b>fajn</b> holkou .</em>
 * <em>A</em>
-  * <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 577: <em><b>A</b> pak , když vítr zašelestil zvlášť strašidelně , syn promluvil .</em>
-  * <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> 5: <em>Paní <b>A</b> . C . , se zastavila a pozvedla hlavu k rozkvetlé koruně .</em>
+  * <tt><a href="cs_fictree-pos-CCONJ.html">CCONJ</a></tt> 577: <em><b>A</b> odjel jsem .</em>
+  * <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> 5: <em>Paní <b>A</b> . C . se zastavila a pozvedla hlavu k rozkvetlé koruně .</em>
   * <tt><a href="cs_fictree-pos-INTJ.html">INTJ</a></tt> 1: <em>" <b>A</b> , to jste vy !</em>
 * <em>Běda</em>
   * <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> 1: <em>" <b>Běda</b> mi ! " křičel .</em>
   * <tt><a href="cs_fictree-pos-INTJ.html">INTJ</a></tt> 1: <em><b>Běda</b> , přátelé , " zvolal pateticky Havel , " mé lásky ( smím - li je tak nazývat ) jsou podlahou jeviště , na kterém se nic neodehrává .</em>
 * <em>Na</em>
-  * <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> 159: <em><b>Na</b> pokoji tehdy nikdo kromě mého syna nebyl .</em>
+  * <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> 159: <em><b>Na</b> co ale oba zapomínali , byl jejich desetiletý syn .</em>
   * <tt><a href="cs_fictree-pos-INTJ.html">INTJ</a></tt> 1: <em>" <b>Na</b> , chceš kousnout ? "</em>
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.028571 (the average of all parts of speech is 1.966826).
+The form / lemma ratio of `INTJ` is 1.028571 (the average of all parts of speech is 1.973661).
 
 The 1st highest number of forms (2) was observed with the lemma “cože”: <em>COŽE, Cože</em>.
 

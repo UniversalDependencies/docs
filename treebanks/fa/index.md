@@ -12,7 +12,7 @@ udver: '2'
 # UD Persian
 
 Language: [Persian](../fa/overview/fa-hub.html) (code: `fa`)<br/>
-Family: Indo-European, Indo-Iranian
+Family: Indo-European, Iranian
 
 This treebank has been part of Universal Dependencies since the UD v1.1 release.
 
@@ -38,8 +38,17 @@ If you want to collaborate, please contact [mojgan&nbsp;•&nbsp;seraji96&nbsp;(
 | Relations | (undocumented) |
 
 ## Description
+The Persian Universal Dependency Treebank (Persian UD) is based on Uppsala Persian Dependency Treebank (UPDT). The conversion of the UPDT to the Universal Dependencies was performed semi-automatically with extensive manual checks and corrections.
+
+
+The Persian Universal Dependency Treebank (Persian UD) is the converted version of the <a href="https://sites.google.com/site/mojganserajicom/home/updt "> Uppsala Persian Dependency Treebank (UPDT)</a> (Seraji, 2015). The treebank has its original annotation scheme based on Stanford Typed Dependencies (de Marneffe et al., 2006; de Marneffe and Manning, 2008). The scheme was extended for Persian to include the language specific syntactic relations that could not be covered by the primary scheme developed for English. The treebank consists of ca 6000 annotated and validated sentences of written texts with large domain variations, in terms of different genres (containing newspaper articles, fictions, technical descriptions, and documents about culture and art) and tokenization. The variations in the tokenization are due to the orthographic variations of compound words and fixed expressions in the language.
+
+Apart from the universal annotation scheme and the general rules in the UD, the Persian UD and the UPDT differ further in tokenization. All words containing unsegmented clitics (pronominal and copula clitics) annotated with complex labels in the UPDT have been separated from the clitics and received distinct labels in the Persian UD.
+
+The conversion of the UPDT to the Universal Dependencies has been carried out semi-automatically. In this process, we used a conversion script for reversing the head and dependent relations in the prepositional modifier (prep) and object of a preposition (pobj). Furthermore, we have used other scripts tailored for Persian to separate different types of clitics from their host. Subsequently we added different rules for rewriting the coarse-grained part-of-speech tags and the dependency labels. Morphological features were then mapped semi-automatically. In the current release, lemmas are added for a large number of tokens. This process is further done semi-automatically. The entire process has been manually validated.
 
 ## Acknowledgments
+
 # Statistics of UD Persian
 
 ## POS Tags

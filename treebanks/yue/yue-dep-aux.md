@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6 nodes (3%) are attached to their parents as `aux`.
+14 nodes (2%) are attached to their parents as `aux`.
 
-3 instances of `aux` (50%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.66666666666667.
+8 instances of `aux` (57%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.42857142857143.
 
-The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="yue-pos-VERB.html">VERB</a></tt>-<tt><a href="yue-pos-AUX.html">AUX</a></tt> (5; 83% instances), <tt><a href="yue-pos-AUX.html">AUX</a></tt>-<tt><a href="yue-pos-AUX.html">AUX</a></tt> (1; 17% instances).
+The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="yue-pos-VERB.html">VERB</a></tt>-<tt><a href="yue-pos-AUX.html">AUX</a></tt> (13; 93% instances), <tt><a href="yue-pos-AUX.html">AUX</a></tt>-<tt><a href="yue-pos-AUX.html">AUX</a></tt> (1; 7% instances).
 
 
 ~~~ conllu
@@ -51,7 +51,7 @@ The following 2 pairs of parts of speech are connected with `aux`: <tt><a href="
 8	新	_	ADJ	_	_	10	amod	_	SpaceAfter=No
 9	一	_	NUM	_	_	10	nummod	_	SpaceAfter=No
 10	集	_	NOUN	_	_	12	amod	_	SpaceAfter=No
-11	嘅	_	PART	_	_	10	case	_	SpaceAfter=No
+11	嘅	_	PART	_	_	10	mark:rel	_	SpaceAfter=No
 12	龍珠	_	PROPN	_	_	7	obj	_	SpaceAfter=No
 13	呀	_	PART	_	_	7	discourse:sp	_	SpaceAfter=No
 14	？	_	PUNCT	_	_	7	punct	_	SpaceAfter=No

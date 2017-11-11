@@ -30,7 +30,7 @@ The following 12 pairs of parts of speech are connected with `advmod`: <tt><a hr
 6	行く	行く	VERB	VV	VerbForm=Fin	12	acl	_	GDPRL=advcl|GHEAD=16|GHEADH=14|GID=8|Match=Yes|SpaceAfter=No
 7	が	が	SCONJ	CP	_	6	mark	_	GDPRL=compound:prt|GHEAD=8|GHEADH=6|GID=9|GUPOS=PART|Match=Yes|SpaceAfter=No
 8	、	、	PUNCT	,	_	6	punct	_	GHEAD=8|GHEADH=6|GID=10|Match=Yes|SpaceAfter=No
-9	その	その	ADJ	DT	_	10	det	_	GHEAD=12|GHEADH=10|GID=11|GUPOS=DET|Match=Yes|SpaceAfter=No
+9	その	その	DET	DT	_	10	det	_	GHEAD=12|GHEADH=10|GID=11|GUPOS=DET|Match=Yes|SpaceAfter=No
 10	価値	価値	NOUN	NN	_	12	nsubj	_	GHEAD=14|GHEADH=12|GID=12|Match=Yes|SpaceAfter=No
 11	が	が	ADP	CM	Case=Nom	10	case	_	GDPRL=compound:prt|GHEAD=12|GHEADH=10|GID=13|GUPOS=PART|Match=Yes|SpaceAfter=No
 12	あり	ある	VERB	VV	VerbForm=Ger	0	root	_	GDPRL=acl:relcl|GHEAD=16|GHEADH=14|GID=14|Match=Yes|SpaceAfter=No
@@ -89,7 +89,7 @@ The following 12 pairs of parts of speech are connected with `advmod`: <tt><a hr
 11	ある	ある	AUX	_	_	9	fixed	_	GDPRL=aux|GF/Form=Adn|GFORM=である|GHEAD=9|GHEADH=9|GID=10|GUPOS=VERB|GXPOS=VXP|SpaceAfter=No
 12	場合	場合	NOUN	NN	_	18	obl	_	GDPRL=advmod|GHEAD=17|GHEADH=18|GID=11|Match=Yes|SpaceAfter=No
 13	、	、	PUNCT	,	_	12	punct	_	GHEAD=11|GHEADH=12|GID=12|Match=Yes|SpaceAfter=No
-14	この	この	ADJ	DT	_	15	det	_	GHEAD=14|GHEADH=15|GID=13|GUPOS=DET|Match=Yes|SpaceAfter=No
+14	この	この	DET	DT	_	15	det	_	GHEAD=14|GHEADH=15|GID=13|GUPOS=DET|Match=Yes|SpaceAfter=No
 15	こと	こと	NOUN	NNB	_	18	nsubj	_	GHEAD=17|GHEADH=18|GID=14|Match=Yes|SpaceAfter=No
 16	は	は	ADP	DP	_	15	case	_	GDPRL=compound:prt|GHEAD=14|GHEADH=15|GID=15|GUPOS=PART|Match=Yes|SpaceAfter=No
 17	最も	最も	ADV	RB	_	18	advmod	_	GHEAD=17|GHEADH=18|GID=16|Match=Yes|SpaceAfter=No

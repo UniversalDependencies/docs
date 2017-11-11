@@ -12,7 +12,7 @@ udver: '2'
 # UD Slovenian
 
 Language: [Slovenian](../sl/overview/sl-hub.html) (code: `sl`)<br/>
-Family: Indo-European, Balto-Slavic
+Family: Indo-European, Slavic
 
 This treebank has been part of Universal Dependencies since the UD v1.2 release.
 
@@ -28,18 +28,63 @@ Questions, comments?
 General annotation questions (either Slovenian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Slovenian/issues).
 If you want to collaborate, please contact [kaja&nbsp;•&nbsp;dobrovoljc&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com; tomaz&nbsp;•&nbsp;erjavec&nbsp;(æt)&nbsp;ijs&nbsp;•&nbsp;si; simon&nbsp;•&nbsp;krek&nbsp;(æt)&nbsp;ijs&nbsp;•&nbsp;si].
+Development of the treebank happens outside the UD repository.
+If there are bugs, either the original data source or the conversion procedure must be fixed.
+Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
-| XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Lemmas | annotated manually in non-UD style, automatically converted to UD |
+| UPOS | annotated manually in non-UD style, automatically converted to UD |
+| XPOS | annotated manually |
+| Features | annotated manually in non-UD style, automatically converted to UD |
+| Relations | annotated manually in non-UD style, automatically converted to UD |
 
 ## Description
 
+The Slovenian UD Treebank is a rule-based conversion of the ssj500k treebank, the largest collection of manually syntactically annotated data in Slovenian, originally annotated in the JOS annotation scheme.
+
+
+
+
+The Slovenian UD Treebank (Dobrovoljc et al. 2017) is based on the ssj500k treebank
+(Krek et al. 2015), a balanced collection of sampled texts from the FidaPLUS reference
+corpus of written Slovene (Arhar and Gorjanc 2007). The original ssj500k corpus has
+been manually segmented, tokenized, lemmatized and morphosyntactically tagged within
+JOS project, in which the annotation guidelines have also been developed (Erjavec et
+al. 2010). Additionally, approximately one half of the ssj500k treebank has been
+manually annotated for dependency relations, according to the JOS syntactic annotation
+scheme. The syntactically annotated part of the ssj500k corpus (known as ssj200k),
+consisting of 11,411 annotated sentences and 235,864 tokens, has been used as the
+basis for conversion to the Slovenian UD Treebank.
+
+The conversion from ssj200k to the Slovenian UD Treebank was completely automatic,
+based on a large set of rules for both morphosyntactic and syntactic layer,
+which include different lexical, morphological and dependency features. Due to the
+specifics of the original JOS syntactic annotation scheme, not all dependency relations
+from the original ssj200k treebank could be converted automatically, resulting in a
+smaller UD treebank size. The current version of the Slovenian UD Treebank thus contains
+8,000 sentences with 140,670 tokens taken from various text types, e.g. fiction,
+non-fiction and periodicals, dating from 1990-2000. The original JOS annotations are
+included as part of the POSTAG (JOS morphosyntactic tags) and MISC (JOS dependency
+heads and labels) columns in the CONLLU format.
+
+The corpus is linearly split into training (80%), development (10%) and test
+(10%) data.
+
+
 ## Acknowledgments
+
+We wish to thank all of the contributors to the original ssj500k
+training corpus: Kristina Bizjak, Živa Blaževič, Klara Canzutti, Lea
+Cibrič, Kaja Dobrovoljc, Tadeja Dušej, Tomaž Erjavec, Ivana Fekeža,
+Nanika Holz, Urška Kamenšek, Simon Krek, Andreja Košir, Robert Kuret,
+Nina Ledinek, Andrej Lovšin, Boštjan Marhold, Nina Mikulin, Barbara
+Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
+Šinkovec, Urška Vranjek, Jerneja Umer, Petra Žalodec.
+
+
+
 # Statistics of UD Slovenian
 
 ## POS Tags

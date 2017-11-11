@@ -11,7 +11,7 @@ It occurs with 3 different values: `Cmp`, `Pos`, `Sup`.
 
 12718 tokens (8%) have a non-empty value of `Degree`.
 6080 types (22%) occur at least once with a non-empty value of `Degree`.
-3231 lemmas (23%) occur at least once with a non-empty value of `Degree`.
+3231 lemmas (24%) occur at least once with a non-empty value of `Degree`.
 The feature is used with 4 part-of-speech tags: <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (9490; 6% instances), <tt><a href="cs_fictree-pos-ADV.html">ADV</a></tt> (3047; 2% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (180; 0% instances), <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `ADJ`
@@ -25,7 +25,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 * `Cmp` (261; 3% of non-empty `Degree`): <em>starší, lepší, větší, mladší, menší, vyšší, delší, horší, hezčí, silnější</em>
 * `Pos` (9043; 95% of non-empty `Degree`): <em>celý, další, jiného, poslední, malé, celé, celou, velké, vlastní, celá</em>
 * `Sup` (186; 2% of non-empty `Degree`): <em>nejlepší, největší, nejbližší, nejrychlejší, největším, nejkrásnější, nejmladší, nejbohatší, nejsladší, nejstarší</em>
-* `EMPTY` (1410): <em>první, rád, druhý, ráda, druhé, třetí, prvním, rádi, druhou, druhá</em>
+* `EMPTY` (1409): <em>první, rád, druhý, ráda, druhé, třetí, prvním, rádi, druhou, druhá</em>
 
 <table>
   <tr><th>Paradigm <i>malý</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
@@ -117,7 +117,7 @@ The most frequent other feature values with which `NOUN` and `Degree` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `Degree`:
 <tt>ADJ --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> ADJ</tt> (448; 89%),
-<tt>ADV --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> ADV</tt> (75; 86%),
+<tt>ADV --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> ADV</tt> (76; 86%),
 <tt>ADJ --[<tt><a href="cs_fictree-dep-amod.html">amod</a></tt>]--> ADJ</tt> (12; 75%),
 <tt>ADJ --[<tt><a href="cs_fictree-dep-appos.html">appos</a></tt>]--> ADJ</tt> (11; 92%),
 <tt>ADJ --[<tt><a href="cs_fictree-dep-dep.html">dep</a></tt>]--> ADJ</tt> (6; 67%),

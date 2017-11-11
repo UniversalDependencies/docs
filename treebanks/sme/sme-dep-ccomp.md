@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-76 nodes (1%) are attached to their parents as `ccomp`.
+198 nodes (1%) are attached to their parents as `ccomp`.
 
-70 instances of `ccomp` (92%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.98684210526316.
+182 instances of `ccomp` (92%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.55050505050505.
 
-The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (68; 89% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-ADJ.html">ADJ</a></tt> (5; 7% instances), <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (2; 3% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (1; 1% instances).
+The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (180; 91% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-ADJ.html">ADJ</a></tt> (10; 5% instances), <tt><a href="sme-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sme-pos-VERB.html">VERB</a></tt> (6; 3% instances), <tt><a href="sme-pos-VERB.html">VERB</a></tt>-<tt><a href="sme-pos-NOUN.html">NOUN</a></tt> (2; 1% instances).
 
 
 ~~~ conllu
@@ -54,34 +54,20 @@ The following 4 pairs of parts of speech are connected with `ccomp`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 11 ccomp	color:blue
-1	Ja	ja	CCONJ	CC	_	7	mark	_	_
-2	go	go	SCONJ	CS	_	1	conj	_	_
-3	johttámuš	johttát	NOUN	V*	Case=Nom|Number=Sing	7	nsubj	_	_
-4	dál	dál	ADV	Adv	_	7	advmod	_	_
-5	lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
-6	nu	nu	ADV	Adv	_	7	advmod	_	_
-7	áddjái	áddjái	ADJ	A	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
-8	,	,	PUNCT	CLB	_	11	punct	_	_
-9	ahte	ahte	SCONJ	CS	_	11	mark	_	_
-10	eai	ii	VERB	V	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|VerbForm=Fin	11	aux:neg	_	_
-11	beasa	beassat	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
-12	mátkái	mátki	NOUN	N	Case=Ill|Number=Sing	11	obl	_	SpaceAfter=No
-13	,	,	PUNCT	CLB	_	7	punct	_	_
-14	de	de	ADV	Adv	_	15	advmod	_	_
-15	šaddá	šaddat	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
-16	ein	ein	ADV	Adv	_	15	advmod	_	_
-17	čoaskáseabbu	čoaskkis	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	15	xcomp	_	_
-18	ilbmi	ilbmi	NOUN	N	Case=Nom|Number=Sing	15	nsubj	_	_
-19	ja	ja	CCONJ	CC	_	15	cc	_	_
-20	seavdnjadeapput	seavdnjat	ADJ	A	Case=Nom|Degree=Cmp|Number=Plur	21	xcomp	_	_
-21	šaddet	šaddat	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	conj	_	_
-22	ijat	idja	NOUN	N	Case=Nom|Number=Plur	21	nsubj	_	SpaceAfter=No
-23	.	.	PUNCT	CLB	_	7	punct	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 8 ccomp	color:blue
+1	Lea	leat	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	dehálaš	dehálaš	ADJ	A	Case=Nom|Number=Sing	0	root	_	_
+3	deattuhit	deattuhit	VERB	V	VerbForm=Inf	2	csubj	_	SpaceAfter=No
+4	,	,	PUNCT	CLB	_	8	punct	_	_
+5	ahte	ahte	SCONJ	CS	_	8	mark	_	_
+6	IKT	IKT	NOUN	N	Case=Nom|Number=Sing	8	nsubj	_	_
+7	ii	ii	VERB	V	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|VerbForm=Fin	8	aux:neg	_	_
+8	doaimma	doaibmat	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	_	SpaceAfter=No
+9	.	.	PUNCT	CLB	_	2	punct	_	_
 
 ~~~
 

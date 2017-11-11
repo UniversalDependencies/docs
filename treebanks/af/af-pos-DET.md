@@ -6,8 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_Afrikaans: POS Tags: `DET`
 
-There are 29 `DET` lemmas (1%), 34 `DET` types (1%) and 5341 `DET` tokens (11%).
-Out of 16 observed tags, the rank of `DET` is: 12 in number of lemmas, 11 in number of types and 3 in number of tokens.
+There are 30 `DET` lemmas (1%), 35 `DET` types (1%) and 5341 `DET` tokens (11%).
+Out of 16 observed tags, the rank of `DET` is: 11 in number of lemmas, 11 in number of types and 3 in number of tokens.
 
 The 10 most frequent `DET` lemmas: die 'n hierdie al baie daardie dié paar sommige sodanig
 
@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  meer (<tt><a href="af-pos-DET.html">DET</
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 1.172414 (the average of all parts of speech is 1.120202).
+The form / lemma ratio of `DET` is 1.166667 (the average of all parts of speech is 1.122045).
 
 The 1st highest number of forms (3) was observed with the lemma “baie”: baie, meer, meeste.
 
