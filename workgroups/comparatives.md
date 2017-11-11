@@ -765,6 +765,22 @@ gapping:
 
 ~~~
 
+“Nathan gives more to you than (how much) Fran (gives) to me.”
+
+~~~ conllu
+1	Nathan	Nathan	PROPN	_	Gender=Masc|Number=Sing	2	nsubj	_	_
+2	gives	give	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	more	much	ADV	_	Degree=Cmp	2	obj	_	_
+4	to	to	ADP	_	_	5	case	_	_
+5	you	you	PRON	_	Person=2|PronType=Prs	2	obl	_	_
+6	than	than	SCONJ	_	_	7	mark	_	_
+7	Fran	Fran	PROPN	_	Gender=Masc|Number=Sing	3	advcl	_	_
+8	to	to	ADP	_	_	9	case	_	_
+9	me	I	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	orphan	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	2	punct	_	_
+
+~~~
+
 ## “More than” as a Multi-Word Expression
 
 In certain contexts the comparative complement combines both the action or
