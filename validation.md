@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-11T13:24:17Z">2017-11-11T13:24:17 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-11T13:24:25Z">2017-11-11T13:24:25 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3134,7 +3134,7 @@ python tools/validate.py --lang cu UD-dev-branches/UD_Old_Church_Slavonic/cu-ud-
 <span class="doublewidespan" style="padding-left:3em">UD Old French</span>
 <span class="widespan">fro</span>
 <span class="validationfail">EMPTY</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:50:19Z">2017-11-03T14:50:19 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-11T13:24:25Z">2017-11-11T13:24:25 zulu</time></span>
 </div>
 <div>
 <pre>
