@@ -751,6 +751,8 @@ The literal translation of the following Swedish [sv] example would be _Dan play
 Such comparative gapping is analyzed using the [orphan]() relation, much like the more widespread coordinate
 gapping:
 
+“Dan plays badminton better than Joakim does tennis.”
+
 ~~~ conllu
 1	Dan	Dan	PROPN	_	Case=Nom|Gender=Com|Number=Sing	2	nsubj	_	Gloss=Dan
 2	spelar	spela	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Gloss=plays
