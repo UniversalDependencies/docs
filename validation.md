@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-11T18:05:59Z">2017-11-11T18:05:59 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-11T18:45:01Z">2017-11-11T18:45:01 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1175,7 +1175,7 @@ python tools/validate.py --lang en_partut UD-dev-branches/UD_English-ParTUT/en_p
 <span class="doublewidespan" style="padding-left:3em">UD Erzya</span>
 <span class="widespan">myv</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-11T18:05:58Z">2017-11-11T18:05:58 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-11T18:45:01Z">2017-11-11T18:45:01 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1429,79 +1429,90 @@ python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PR
 
 ******************
 
-python tools/validate.py --lang myv UD-dev-branches/UD_Erzya/myv_DunjashinAlex_Pidsi-palakst_1930_UD_2017.conllu
+python tools/validate.py --lang myv UD-dev-branches/UD_Erzya/myv_DunjashinAlex_Pidsi-palakst_1930_UD_2017.conlluTraceback (most recent call last):
+  File "tools/validate.py", line 735, in &lt;module&gt;
+    validate(inp,out,args,tagsets,known_sent_ids)
+  File "tools/validate.py", line 618, in validate
+    validate_ID_references(tree)
+  File "tools/validate.py", line 472, in validate_ID_references
+    if HEAD &gt;= len(cols):
+UnboundLocalError: local variable 'cols' referenced before assignment
 
-[Line                   33]: Morphological features must be sorted: 'Pers|Pl1|Gen'
-[Line                   33]: Spurious morphological feature: 'Pers'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   33]: Spurious morphological feature: 'Pl1'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   33]: Spurious morphological feature: 'Gen'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   33]: Unknown UPOS tag: Pron
-[Line                   33]: Invalid UPOSTAG value Pron
-[Line                   33]: Unknown UD DEPREL: nmod:exist
-[Line                   34]: Spurious morphological feature: 'Temp'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   34]: Unknown UPOS tag: Adv
-[Line                   34]: Invalid UPOSTAG value Adv
-[Line                   35]: Morphological features must be sorted: 'IV|Ind|Prs|ScPl3'
-[Line                   35]: Spurious morphological feature: 'IV'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   35]: Spurious morphological feature: 'Ind'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   35]: Spurious morphological feature: 'Prs'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   35]: Spurious morphological feature: 'ScPl3'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   35]: Unknown UPOS tag: V
-[Line                   35]: Unknown UD DEPREL: cop:exist
-[Line                   36]: Morphological features must be sorted: 'Neg|Intensive'
-[Line                   36]: Spurious morphological feature: 'Neg'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   36]: Spurious morphological feature: 'Intensive'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   36]: Unknown UPOS tag: Pcle
+
+
+[Line                   26]: Spurious morphological feature: 'Superl'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   26]: Unknown UPOS tag: Pcle
+[Line                   26]: Invalid UPOSTAG value Pcle
+[Line                   26]: Unknown UD DEPREL: advmod:superl
+[Line                   27]: Spurious morphological feature: 'Attr'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   27]: Unknown UPOS tag: A
+[Line                   28]: Unknown UPOS tag: CC
+[Line                   29]: Spurious morphological feature: 'Superl'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   29]: Unknown UPOS tag: Pcle
+[Line                   29]: Invalid UPOSTAG value Pcle
+[Line                   29]: Unknown UD DEPREL: advmod:superl
+[Line                   30]: Morphological features must be sorted: 'TV|Der/NomAct|N|Sg|Nom|Indef'
+[Line                   30]: Spurious morphological feature: 'TV'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   30]: Spurious morphological feature: 'Der/NomAct'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   30]: Spurious morphological feature: 'N'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   30]: Spurious morphological feature: 'Sg'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   30]: Spurious morphological feature: 'Nom'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   30]: Spurious morphological feature: 'Indef'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   30]: Unknown UPOS tag: V
+[Line                   31]: Morphological features must be sorted: 'Sg|Gen|PxSg1'
+[Line                   31]: Spurious morphological feature: 'Sg'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
 ...suppressing further errors regarding Morpho
-[Line                   36]: Unknown UD DEPREL: advmod:neg
-[Line                   38]: Unknown UD DEPREL: nmod:poss
-[Line                   41]: Unknown UD DEPREL: cop:exist
-[Line                   42]: Unknown UD DEPREL: nmod:poss
-[Line                   47]: Spurious sent_id line: '#sent_id storyID="«ПИДСИ-ПАЛАКСТНЭНЬ» СЁРМАДЫЦЯДОСТ" paragID="1" sentID="1" pgNo="0005"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   47]: Missing the sent_id attribute.
-[Line                   47]: SpaceAfter=No is missing in the MISC field of node #7 because the text is 'праванок, улить мора[...]'
-[Line                   47]: SpaceAfter=No is missing in the MISC field of node #10 because the text is 'морамонь, сёрмадоман[...]'
-[Line                   47]: SpaceAfter=No is missing in the MISC field of node #13 because the text is 'праваноккак.'
-[Line                   52]: Unknown UD DEPREL: advmod:neg
-[Line                   69]: DEPREL must be "root" if HEAD is 0
-[Line                   69]: Spurious sent_id line: '#sent_id storyID="«ПИДСИ-ПАЛАКСТНЭНЬ» СЁРМАДЫЦЯДОСТ" paragID="1" sentID="2" pgNo="0005"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   69]: Missing the sent_id attribute.
-[Line                   69]: SpaceAfter=No is missing in the MISC field of node #7 because the text is 'пелезь, салава ― пел[...]'
-[Line                   69]: SpaceAfter=No is missing in the MISC field of node #15 because the text is 'сялдсынзе,  пеедьсынзе.'
-[Line                   69]: SpaceAfter=No is missing in the MISC field of node #17 because the text is 'пеедьсынзе.'
-[Line                   83]: Spurious sent_id line: '#sent_id storyID="«ПИДСИ-ПАЛАКСТНЭНЬ» СЁРМАДЫЦЯДОСТ" paragID="1" sentID="3" pgNo="0005"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   83]: Missing the sent_id attribute.
-[Line                   83]: SpaceAfter=No is missing in the MISC field of node #4 because the text is 'моронок, эсь сёрмадо[...]'
-[Line                   83]: SpaceAfter=No is missing in the MISC field of node #9 because the text is 'печататано.'
-[Line                   91]: Unknown UD DEPREL: nmod:poss
-[Line                   98]: Unknown UD DEPREL: advmod:neg
-[Tree number 4 on line 87]: Words do not form a sequence. Got: 2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19.
-[Line                   105]: Spurious token interval 19-19
-[Tree number 4 on line 87]: Non-tree structure. Words 1 are not reachable from the root 0.
-[Line                   105]: Spurious sent_id line: '#sent_id storyID="«ПИДСИ-ПАЛАКСТНЭНЬ» СЁРМАДЫЦЯДОСТ" paragID="1" sentID="4" pgNo="0005"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
-[Line                   105]: Missing the sent_id attribute.
-[Tree number 4 on line 87]: Mismatch between the text attribute and the FORM field. Form is 'содаст' but text is 'Весе содаст, весе маряст м...'
-[Tree number 4 on line 87]: Mismatch between the text attribute and the FORM field. Form is ',' but text is 'Весе содаст, весе мар...'
-[Tree number 4 on line 87]: Mismatch between the text attribute and the FORM field. Form is 'весе' but text is 'Весе содаст, весе маряст...'
+[Line                   37]: Missing the sent_id attribute.
+[Tree number 1 on line 26]: Mismatch between the text attribute and the FORM field. Form is 'Сех' but text is 'сех вадря ды сех вечкем...'
+[Tree number 1 on line 26]: Mismatch between the text attribute and the FORM field. Form is 'вадря' but text is 'сех вадря ды сех вечкема ...'
+[Tree number 1 on line 26]: Mismatch between the text attribute and the FORM field. Form is 'ды' but text is 'сех вадря ды сех вечке...'
+[Tree number 1 on line 26]: Mismatch between the text attribute and the FORM field. Form is 'вечкема' but text is 'вадря ды сех вечкема ялгам ...'
+[Tree number 1 on line 26]: Mismatch between the text attribute and the FORM field. Form is 'ялгам' but text is 'вадря ды сех вечкема ялга...'
+[Tree number 1 on line 26]: Mismatch between the text attribute and the FORM field. Form is 'туртов' but text is 'вадря ды сех вечкема ялгам...'
+[Tree number 1 on line 26]: Mismatch between the text attribute and the FORM field. Form is 'казезь' but text is 'вадря ды сех вечкема ялгам...'
+[Tree number 1 on line 26]: Mismatch between the text attribute and the FORM field. Form is 'васень' but text is 'вадря ды сех вечкема ялгам...'
+[Tree number 1 on line 26]: Mismatch between the text attribute and the FORM field. Form is 'кинигам' but text is 'вадря ды сех вечкема ялгам ...'
+[Tree number 1 on line 26]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'вадря ды сех вечкема ...'
+[Line                   37]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'вадря ды сех вечкема ялгам туртов казезь васень кинигам'
+[Line                   44]: Unknown UD DEPREL: nmod:exist
+[Line                   46]: Unknown UD DEPREL: cop:exist
+[Line                   47]: Unknown UD DEPREL: advmod:neg
+[Line                   49]: Unknown UD DEPREL: nmod:poss
+[Line                   52]: Unknown UD DEPREL: cop:exist
+[Line                   53]: Unknown UD DEPREL: nmod:poss
+[Line                   58]: Spurious sent_id line: '#sent_id storyID="«ПИДСИ-ПАЛАКСТНЭНЬ» СЁРМАДЫЦЯДОСТ" paragID="1" sentID="1" pgNo="0005"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   58]: Missing the sent_id attribute.
+[Line                   58]: SpaceAfter=No is missing in the MISC field of node #7 because the text is 'праванок, улить мора[...]'
+[Line                   58]: SpaceAfter=No is missing in the MISC field of node #10 because the text is 'морамонь, сёрмадоман[...]'
+[Line                   58]: SpaceAfter=No is missing in the MISC field of node #13 because the text is 'праваноккак.'
+[Line                   63]: Unknown UD DEPREL: advmod:neg
+[Line                   80]: DEPREL must be "root" if HEAD is 0
+[Line                   80]: Spurious sent_id line: '#sent_id storyID="«ПИДСИ-ПАЛАКСТНЭНЬ» СЁРМАДЫЦЯДОСТ" paragID="1" sentID="2" pgNo="0005"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   80]: Missing the sent_id attribute.
 ...suppressing further errors regarding Metadata
-[Line                   110]: Unknown UD DEPREL: acl:relcl
-[Line                   114]: Unknown UD DEPREL: advmod:cmpstandard
-[Line                   119]: Unknown UD DEPREL: acl:relcl
-[Line                   132]: Unknown UD DEPREL: nmod:poss
-[Line                   136]: Unknown UD DEPREL: advmod:neg
-[Line                   145]: Unknown UD DEPREL: cop:exist
-[Line                   161]: Unknown UD DEPREL: advmod:neg
-[Line                   164]: Unknown UD DEPREL: nmod:poss
-[Tree number 11 on line 190]: HEAD == ID for 3
+[Line                   85]: Unknown UD DEPREL: nsubj:prspron
+[Line                   102]: Unknown UD DEPREL: nmod:poss
+[Line                   108]: Unknown UD DEPREL: nsubj:prspron
+[Line                   109]: Unknown UD DEPREL: advmod:neg
+[Line                   112]: Unknown UD DEPREL: nsubj:prspron
+[Tree number 5 on line 98]: Words do not form a sequence. Got: 2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19.
+[Line                   116]: Spurious token interval 19-19
+[Tree number 5 on line 98]: Non-tree structure. Words 1 are not reachable from the root 0.
+[Line                   121]: Unknown UD DEPREL: acl:relcl
+[Line                   125]: Unknown UD DEPREL: advmod:cmpstandard
+[Line                   130]: Unknown UD DEPREL: acl:relcl
 ...suppressing further errors regarding Syntax
-[Line                   477]: Spurious comment line.
-[Line                   477]: Missing empty line after the last tree.
-*** FAILED *** with 1563 errors
+[Tree number 12 on line 201]: HEAD == ID for 3
+[Line                   489]: Missing empty line after the last tree.
+[Line                   489]: Exception caught!
+*** FAILED *** with 916 errors
 Format errors: 5
-Metadata errors: 145
-Morpho errors: 1361
-Syntax errors: 52
+Metadata errors: 157
+Morpho errors: 687
+Syntax errors: 67
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.myv does not exist.
+The language-specific file /home/ginter/UD_PROJHOOK/tools/data/feat_val.myv does not exist.
+python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PROJHOOK/tools/data/feat_val.myv
 
 
 ******************
