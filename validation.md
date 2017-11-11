@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-11T13:00:52Z">2017-11-11T13:00:52 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-11T13:01:25Z">2017-11-11T13:01:25 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1539,7 +1539,7 @@ python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PR
 <span class="doublewidespan" style="padding-left:3em">UD Estonian</span>
 <span class="widespan">et</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-06T17:47:13Z">2017-11-06T17:47:13 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-11T13:01:17Z">2017-11-11T13:01:17 zulu</time></span>
 </div>
 <div>
 <pre>
