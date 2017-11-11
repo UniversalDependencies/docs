@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-11T13:01:34Z">2017-11-11T13:01:34 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-11T13:02:23Z">2017-11-11T13:02:23 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1582,7 +1582,7 @@ No data
 <span class="doublewidespan" style="padding-left:3em">UD Finnish</span>
 <span class="widespan">fi</span>
 <span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-03T14:07:06Z">2017-11-03T14:07:06 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-11T13:02:09Z">2017-11-11T13:02:09 zulu</time></span>
 </div>
 <div>
 <pre>
