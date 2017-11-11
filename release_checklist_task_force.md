@@ -31,7 +31,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
   (But we currently do not have means to enforce it. If someone commits to `master`, we will have to remove the commits from the history manually, using `git revert`.)<br />
   <code>for i in UD_* ; do echo $i ; cd $i ; git checkout master ; git pull --no-edit ; git merge dev ; git push ; git checkout dev ; cd .. ; echo ; done</code>
 * Check for conflicts from the previous step. If people misbehaved and pushed commits to `master`, even after a revert automatic merging may no longer be possible. We must resolve all conflicts manually before going on! The conflicted repositories are still switched to the `master` branch and git will not allow any further operations with them!<br />
-  <code>for i in UD_* ; do echo $i ; cd $i ; if ( git status | grep conflict ) ; then echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX CONFLICT XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX ; else echo OK ; fi ; cd .. ; echo ; done</code>
+  <code>for i in UD_* ; do echo $i ; cd $i ; if ( git status | grep conflict ) ; then echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX CONFLICT XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX ; sleep 2 ; else echo OK ; fi ; cd .. ; echo ; done</code>
 * After resolving the conflicts do not forget to checkout the `dev` branch again! (If there were no conflicts, we are already back in `dev`.)<br />
   <code>for i in UD_* ; do echo $i ; cd $i ; git checkout dev ; cd .. ; echo ; done</code>
 * The following steps are now performed by the script <tt>tools/package_ud_release.sh</tt>, which must find the release number in the environment, and its arguments are names of folders to be released (copy the list from the output of <tt>check_files.pl</tt>).<br />
