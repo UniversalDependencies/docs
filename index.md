@@ -25,7 +25,7 @@ If you want to receive news about Universal Dependencies, you can subscribe to t
 
 ## Current UD Languages
 
-<small>Information about language families (and genera for families with multiple branches) is normally taken from 
+<small>Information about language families (and genera for families with multiple branches) is mostly taken from 
 [WALS Online](http://wals.info) (IE = Indo-European).</small>
 
 <div id="accordion" class="jquery-ui-accordion">
