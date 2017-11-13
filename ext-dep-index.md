@@ -13,23 +13,15 @@ Labels of language-specific relations explictly encode the core UD relation that
 
 
 ## acl
-- [acl:acc]():
-Latvian
 - [acl:assoccoll]():
 Erzya
 - [acl:cleft]():
 French
-- [acl:dat]():
-Latvian
 - [acl:ger]():
 Erzya
 - [acl:inf]():
 Hebrew,
 Portuguese
-- [acl:loc]():
-Latvian
-- [acl:nom]():
-Latvian
 - [acl:part]():
 Portuguese
 - [acl:poss]():
@@ -39,7 +31,6 @@ Erzya
 - [acl:rel]():
 Erzya
 - [acl:relcl]():
-,
 Arabic,
 Belarusian,
 Chinese,
@@ -54,10 +45,8 @@ German,
 Greek,
 Hebrew,
 Hindi,
-Indonesian,
 Irish,
 Italian,
-Japanese,
 Kazakh,
 Korean,
 Lithuanian,
@@ -73,7 +62,6 @@ Spanish,
 Swedish,
 Swedish Sign Language,
 Telugu,
-Thai,
 Turkish,
 Urdu
 - [acl:subj]():
@@ -82,24 +70,16 @@ Erzya
 
 
 ## advcl
-- [advcl:compar]():
-Finnish
 - [advcl:cond]():
 Telugu,
 Uyghur
 - [advcl:coverb]():
 Cantonese
-- [advcl:kā]():
-Latvian
-- [advcl:nekā]():
-Latvian
 - [advcl:sp]():
 Ukrainian
 - [advcl:svc]():
 Ukrainian
 - [advcl:tcl]():
-Romanian
-- [advcl:tmod]():
 Romanian
 
 
@@ -110,22 +90,16 @@ Erzya
 - [advmod:cmpstandard]():
 Erzya
 - [advmod:df]():
-Cantonese,
 Chinese
 - [advmod:discourse]():
 Belarusian
 - [advmod:emph]():
-,
-Ancient Greek,
 Arabic,
 Catalan,
 Croatian,
 Czech,
-Gothic,
 Latin,
 Lithuanian,
-Old Church Slavonic,
-Polish,
 Sanskrit,
 Slovak,
 Tamil,
@@ -199,15 +173,12 @@ North Sami
 - [aux:obj]():
 Erzya
 - [aux:pass]():
-,
 Afrikaans,
 Ancient Greek,
 Arabic,
 Belarusian,
 Bulgarian,
 Buryat,
-Cantonese,
-Catalan,
 Chinese,
 Croatian,
 Czech,
@@ -220,13 +191,11 @@ German,
 Gothic,
 Hindi,
 Italian,
-Japanese,
 Latin,
 Lithuanian,
 Maltese,
 Marathi,
 Norwegian,
-Old Church Slavonic,
 Persian,
 Polish,
 Portuguese,
@@ -235,7 +204,6 @@ Russian,
 Slovak,
 Spanish,
 Swedish,
-Thai,
 Upper Sorbian,
 Vietnamese
 - [aux:q]():
@@ -271,18 +239,13 @@ Irish
 
 
 ## cc
-- [cc:postconj]():
-
 - [cc:preconj]():
-,
 Arabic,
 English,
 Erzya,
 Estonian,
 Finnish,
 German,
-Indonesian,
-Italian,
 North Sami,
 Persian,
 Portuguese,
@@ -290,14 +253,11 @@ Romanian,
 Russian,
 Slovenian,
 Spanish,
-Thai,
 Turkish
 
 
 
 ## ccomp
-- [ccomp:cleft]():
-French
 - [ccomp:obj]():
 Hungarian
 - [ccomp:obl]():
@@ -310,8 +270,6 @@ Hungarian
 
 
 ## compound
-- [compound:a]():
-Indonesian
 - [compound:abs]():
 Erzya
 - [compound:conjv]():
@@ -320,7 +278,6 @@ Hindi
 Cantonese,
 Chinese
 - [compound:ext]():
-Cantonese,
 Chinese
 - [compound:lvc]():
 Kazakh,
@@ -330,8 +287,6 @@ Persian,
 Telugu,
 Turkish,
 Uyghur
-- [compound:n]():
-Indonesian
 - [compound:nn]():
 Finnish,
 Kurmanji,
@@ -341,7 +296,6 @@ Indonesian
 - [compound:preverb]():
 Hungarian
 - [compound:prt]():
-,
 Afrikaans,
 Arabic,
 Danish,
@@ -350,24 +304,15 @@ English,
 Estonian,
 Finnish,
 German,
-Indonesian,
 Irish,
-Italian,
-Japanese,
-Korean,
 Norwegian,
 Persian,
 Portuguese,
 Spanish,
 Swedish,
 Swedish Sign Language,
-Tamil,
-Thai,
-Turkish
-- [compound:quant]():
-Cantonese
+Tamil
 - [compound:redup]():
-,
 Hindi,
 Kurmanji,
 Marathi,
@@ -377,16 +322,11 @@ Uyghur
 - [compound:smixut]():
 Hebrew
 - [compound:svc]():
-,
 Marathi,
 Swedish Sign Language,
 Telugu,
 Ukrainian
-- [compound:v]():
-Indonesian,
-Japanese
 - [compound:vo]():
-Cantonese,
 Chinese
 - [compound:vv]():
 Cantonese,
@@ -423,11 +363,9 @@ Estonian,
 Finnish,
 Irish
 - [csubj:pass]():
-Afrikaans,
 Ancient Greek,
 Arabic,
 Bulgarian,
-Cantonese,
 Catalan,
 Chinese,
 Croatian,
@@ -436,25 +374,19 @@ English,
 French,
 German,
 Gothic,
-Hindi,
 Indonesian,
 Italian,
 Latin,
 Latvian,
 Norwegian,
 Old Church Slavonic,
-Persian,
-Polish,
 Portuguese,
 Romanian,
 Russian,
 Sanskrit,
 Slovak,
 Spanish,
-Swedish,
-Thai,
-Ukrainian,
-Upper Sorbian
+Swedish
 
 
 
@@ -477,9 +409,7 @@ Upper Sorbian
 - [det:nummod]():
 Czech,
 Polish,
-Slovak,
-Ukrainian,
-Upper Sorbian
+Ukrainian
 - [det:poss]():
 German,
 Italian,
@@ -496,7 +426,6 @@ Italian,
 Persian,
 Portuguese,
 Spanish,
-Thai,
 Turkish
 - [det:quant]():
 Hebrew
@@ -518,9 +447,6 @@ Chinese
 ## dislocated
 - [dislocated:cleft]():
 French
-- [dislocated:vo]():
-Cantonese,
-Chinese
 
 
 
@@ -529,14 +455,10 @@ Chinese
 Italian,
 Romanian
 - [expl:pass]():
-Ancient Greek,
 Catalan,
 Czech,
-Gothic,
 Italian,
 Latin,
-Old Church Slavonic,
-Polish,
 Romanian,
 Slovak,
 Spanish,
@@ -557,7 +479,6 @@ Upper Sorbian
 
 ## flat
 - [flat:foreign]():
-Ancient Greek,
 Arabic,
 Buryat,
 Chinese,
@@ -568,20 +489,15 @@ Estonian,
 Finnish,
 French,
 Galician,
-Gothic,
-Irish,
 Italian,
 Latin,
 Latvian,
 Norwegian,
-Old Church Slavonic,
 Persian,
-Polish,
 Portuguese,
 Russian,
 Slovak,
 Slovenian,
-Thai,
 Ukrainian,
 Upper Sorbian
 - [flat:name]():
@@ -601,12 +517,9 @@ Gothic,
 Hebrew,
 Hindi,
 Hungarian,
-Indonesian,
 Irish,
 Italian,
-Japanese,
 Kazakh,
-Korean,
 Latin,
 Latvian,
 Maltese,
@@ -617,7 +530,6 @@ Russian,
 Slovenian,
 Spanish,
 Swedish,
-Thai,
 Turkish,
 Ukrainian
 - [flat:repeat]():
@@ -643,14 +555,11 @@ Kazakh
 
 ## mark
 - [mark:adv]():
-Cantonese,
 Chinese
 - [mark:advb]():
 Chinese
 - [mark:comp]():
 Chinese
-- [mark:comparator]():
-Finnish
 - [mark:prt]():
 Chinese,
 Irish
@@ -658,7 +567,6 @@ Irish
 Cantonese,
 Chinese
 - [mark:relcl]():
-,
 Chinese
 
 
@@ -668,20 +576,10 @@ Chinese
 Uyghur
 - [nmod:abs]():
 Erzya
-- [nmod:acc]():
-Latvian
 - [nmod:agent]():
 Romanian
-- [nmod:aiz]():
-Latvian
-- [nmod:ap]():
-Latvian
-- [nmod:apkārt]():
-Latvian
 - [nmod:appos]():
 Erzya
-- [nmod:ar]():
-Latvian
 - [nmod:arg]():
 Turkish
 - [nmod:att]():
@@ -690,14 +588,8 @@ Hungarian
 Hungarian
 - [nmod:bahuv]():
 Erzya
-- [nmod:bez]():
-Latvian
 - [nmod:cau]():
 Uyghur
-- [nmod:caur]():
-Latvian
-- [nmod:cauri]():
-Latvian
 - [nmod:clas]():
 Uyghur
 - [nmod:cmp]():
@@ -707,84 +599,49 @@ Erzya
 - [nmod:comp]():
 Uyghur
 - [nmod:dat]():
-Kurmanji,
-Latvian
+Kurmanji
 - [nmod:det]():
 Erzya
 - [nmod:dsubj]():
 Erzya
 - [nmod:exist]():
 Erzya
-- [nmod:gar]():
-Latvian
 - [nmod:gen]():
-Erzya,
-Latvian
+Erzya
 - [nmod:gmod]():
 Arabic,
 German,
 Russian
 - [nmod:gobj]():
 Erzya,
-Finnish,
-Russian
+Finnish
 - [nmod:gsubj]():
 Erzya,
 Finnish
-- [nmod:iepretim]():
-Latvian
-- [nmod:ins]():
-Uyghur
 - [nmod:instr]():
 Erzya
-- [nmod:lejpus]():
-Latvian
-- [nmod:loc]():
-Latvian,
-Uyghur
-- [nmod:līdz]():
-Latvian
 - [nmod:name]():
 Erzya
-- [nmod:no]():
-Latvian
-- [nmod:nom]():
-Latvian
 - [nmod:npmod]():
 English,
-Portuguese,
-Thai
+Portuguese
 - [nmod:obl]():
 Hungarian
 - [nmod:obllvc]():
 Hungarian
-- [nmod:otrpus]():
-Latvian
 - [nmod:own]():
 Buryat,
 Erzya,
 Finnish
-- [nmod:pa]():
-Latvian
-- [nmod:par]():
-Latvian
 - [nmod:part]():
 Uyghur
-- [nmod:pass]():
-Uyghur
-- [nmod:pie]():
-Latvian
-- [nmod:pirms]():
-Latvian
 - [nmod:pmod]():
 Romanian
 - [nmod:pos]():
 Erzya
 - [nmod:poss]():
-,
 Arabic,
 Bambara,
-Chinese,
 Danish,
 Dutch,
 English,
@@ -795,62 +652,28 @@ French,
 German,
 Hebrew,
 Hindi,
-Indonesian,
 Irish,
-Italian,
 Kazakh,
-Korean,
 Kurmanji,
 Marathi,
 North Sami,
 Persian,
 Russian,
 Sanskrit,
-Spanish,
 Swedish,
 Swedish Sign Language,
 Telugu,
-Thai,
 Turkish,
 Uyghur
-- [nmod:pret]():
-Latvian
-- [nmod:pār]():
-Latvian
-- [nmod:pāri]():
-Latvian
-- [nmod:pēc]():
-Latvian
 - [nmod:ref]():
 Uyghur
-- [nmod:starp]():
-Latvian
 - [nmod:tmod]():
-Arabic,
 Chinese,
 English,
-French,
-German,
-Hindi,
-Indonesian,
-Italian,
-Korean,
 Portuguese,
 Romanian,
-Russian,
-Spanish,
 Telugu,
-Thai,
-Turkish,
 Uyghur
-- [nmod:uz]():
-Latvian
-- [nmod:virs]():
-Latvian
-- [nmod:viņpus]():
-Latvian
-- [nmod:zem]():
-Latvian
 
 
 
@@ -862,13 +685,11 @@ Erzya
 - [nsubj:caus]():
 French
 - [nsubj:cop]():
-,
 Erzya,
 Estonian,
 Finnish,
 Hebrew,
-Sanskrit,
-Uyghur
+Sanskrit
 - [nsubj:exist]():
 Erzya
 - [nsubj:exit]():
@@ -886,14 +707,12 @@ Telugu
 Erzya,
 Marathi
 - [nsubj:pass]():
-,
 Afrikaans,
 Ancient Greek,
 Arabic,
 Belarusian,
 Bulgarian,
 Buryat,
-Cantonese,
 Catalan,
 Chinese,
 Croatian,
@@ -907,7 +726,6 @@ Gothic,
 Hindi,
 Indonesian,
 Italian,
-Japanese,
 Korean,
 Latin,
 Latvian,
@@ -925,10 +743,8 @@ Slovak,
 Spanish,
 Swedish,
 Tamil,
-Thai,
 Ukrainian,
-Upper Sorbian,
-Uyghur
+Upper Sorbian
 - [nsubj:prspron]():
 Erzya
 - [nsubj:qnt]():
@@ -943,11 +759,9 @@ Russian
 Belarusian,
 Czech,
 Lithuanian,
-Polish,
 Russian,
 Sanskrit,
 Serbian,
-Slovak,
 Ukrainian,
 Upper Sorbian
 
@@ -973,16 +787,9 @@ Erzya
 
 
 ## obl
-- [obl:-]():
-Latvian
-- [obl:Bez]():
-Latvian
-- [obl:acc]():
-Latvian
 - [obl:agent]():
 Ancient Greek,
 Belarusian,
-Cantonese,
 Chinese,
 Czech,
 English,
@@ -999,107 +806,26 @@ Russian,
 Sanskrit,
 Slovak,
 Swedish
-- [obl:aiz]():
-Latvian
-- [obl:ap]():
-Latvian
-- [obl:apkārt]():
-Latvian
-- [obl:ar]():
-Latvian
 - [obl:arg]():
-,
 Czech,
 Greek,
 Polish,
 Sanskrit,
 Slovak
-- [obl:atbilstoši]():
-Latvian
-- [obl:augšpus]():
-Latvian
-- [obl:bez]():
-Latvian
-- [obl:blakus]():
-Latvian
 - [obl:cau]():
 Telugu
-- [obl:caur]():
-Latvian
-- [obl:cauri]():
-Latvian
-- [obl:dat]():
-Latvian
-- [obl:dēļ]():
-Latvian
-- [obl:gar]():
-Latvian
-- [obl:garām]():
-Latvian
-- [obl:gen]():
-Latvian
 - [obl:gmod]():
-Arabic,
 Russian
-- [obl:klāt]():
-Latvian
-- [obl:kopš]():
-Latvian
-- [obl:labad]():
-Latvian
 - [obl:loc]():
-Danish,
-Latvian
-- [obl:līdz]():
-Latvian
-- [obl:līdzi]():
-Latvian
-- [obl:līdztekus]():
-Latvian
-- [obl:līdzās]():
-Latvian
-- [obl:no]():
-Latvian
-- [obl:nom]():
-Latvian
+Danish
 - [obl:npmod]():
-English,
-Thai
+English
 - [obl:own]():
 Kazakh
-- [obl:pa]():
-Latvian
-- [obl:par]():
-Latvian
 - [obl:patient]():
-Cantonese,
 Chinese
-- [obl:pie]():
-Latvian
-- [obl:pirms]():
-Latvian
-- [obl:poss]():
-Thai
 - [obl:prep]():
 Irish
-- [obl:pret]():
-Latvian
-- [obl:pretim]():
-Latvian
-- [obl:pretī]():
-Latvian
-- [obl:priekša]():
-Latvian
-- [obl:priekšā]():
-Latvian
-- [obl:pār]():
-Latvian
-- [obl:pāri]():
-Latvian
-- [obl:pēc]():
-Latvian
-- [obl:starp]():
-Latvian
 - [obl:tmod]():
 Arabic,
 Cantonese,
@@ -1110,33 +836,13 @@ French,
 German,
 Hebrew,
 Hindi,
-Indonesian,
 Irish,
 Italian,
-Japanese,
-Korean,
 Portuguese,
 Russian,
 Spanish,
 Telugu,
-Thai,
 Turkish
-- [obl:tuvu]():
-Latvian
-- [obl:tuvāk]():
-Latvian
-- [obl:uz]():
-Latvian
-- [obl:virs]():
-Latvian
-- [obl:virsū]():
-Latvian
-- [obl:visaplīk]():
-Latvian
-- [obl:zem]():
-Latvian
-- [obl:ārpus]():
-Latvian
 
 
 
