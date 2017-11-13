@@ -20,7 +20,9 @@ something known and concrete, or something general or unknown. It can
 be marked on definite and indefinite [articles](DET), or
 directly on [nouns](NOUN).
 
-Note that in Armenian the feature `Definite` can have only nouns(NOUN).
+Note that in Armenian the feature `Definite` can have only [nouns](NOUN).
+
+See also the related feature of [Possessor]().
 
 ### <a name="Ind">`Ind`</a>: indefinite
 
