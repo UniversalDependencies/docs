@@ -8,7 +8,7 @@ udver:  '2'
 
 In addition to the universal dependency taxonomy, it is desirable to recognize grammatical relations that are particular to one language or a small group of related languages. Such language-specific relations are necessary to accurately capture the genius of a particular language but will not involve concepts that generalize broadly. These language-specific relations should always be regarded as a subtype of an existing UD relation.
 
-Labels of language-specific relations explictly encode the core UD relation that the language-specific relation is a subtype of, following the format *universal:extension*.
+Labels of relation subtypes explictly encode the core UD relation that the language-specific relation is a subtype of, following the format *universal:extension*.
 
 
 
