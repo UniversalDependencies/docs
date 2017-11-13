@@ -14,7 +14,7 @@ udver: '2'
 </tr>
 </table>
 
-In Armenian animacy is a lexical feature of [nouns](NOUN). Armenian distinguishes three values, human vs. non-human animate vs. inanimate:
+In Armenian animacy is a lexical feature of [nouns](NOUN) and some [pronouns](PRON). Armenian distinguishes three values, human vs. non-human animate vs. inanimate:
 
 See also the related feature of [Definite]().
 
