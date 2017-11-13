@@ -5,3 +5,6 @@ udver: '2'
 ---
 
 # Working Group on Multiword Expressions
+
+* Names
+* Dates
