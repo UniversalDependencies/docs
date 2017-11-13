@@ -15,8 +15,7 @@ substitute for [adjectives](ADJ). Such words are not tagged `PRON`
 under our universal scheme. They are tagged as [determiners](DET) in
 order to annotate the same thing same way across languages.
 
-For instance, _այդ&nbsp;_ “that” is traditionally called pronoun in
-Armenian grammar, regardless of context (for the notion of determiners in some Armenian grammars, a term exists like _adjective-pronoun_ or _pronoun-adjective_).
+For instance, _այդ&nbsp;_ “that” is traditionally called pronoun in Armenian grammar, regardless of context (for the notion of determiners in some Armenian grammars, terms exist like _attributive pronouns_ or _pronominal adjectives_).
 To make the annotation parallel across languages, it should be now tagged `PRON` in _<b>Այդ</b> քո մեքենա՞ն է։&nbsp;_ “Is <b>that</b> your car?” and `DET` in _Ես <b>այդ</b> մեքենան երեկ եմ տեսել։&nbsp;_ “I saw <b>that</b> car yesterday.”
 
 ### Examples
