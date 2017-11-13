@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-12T18:03:16Z">2017-11-12T18:03:16 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-13T11:41:47Z">2017-11-13T11:41:47 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -3025,28 +3025,91 @@ Syntax errors: 5
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD Marathi</span>
 <span class="widespan">mr</span>
-<span class="validationpass">PASS</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-11T13:22:35Z">2017-11-11T13:22:35 zulu</time></span>
+<span class="validationfail">FAIL</span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-13T11:41:47Z">2017-11-13T11:41:47 zulu</time></span>
 </div>
 <div>
 <pre>
 python tools/validate.py --lang mr UD-dev-branches/UD_Marathi/mr-ud-dev.conllu
 
-*** PASSED ***
+[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '!' but text is ' !...'
+[Line                   6]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: ' !'
+[Tree number 2 on line 9]: Mismatch between the text attribute and the FORM field. Form is 'त्या' but text is ' त्या तुकड्याचे का कोणी ...'
+[Tree number 2 on line 9]: Mismatch between the text attribute and the FORM field. Form is 'तुकड्याचे' but text is ' त्या तुकड्याचे का कोणी हजार ...'
+[Line                   21]: There should not be a SpaceAfter=No entry for words which are a part of a token
+[Tree number 2 on line 9]: Mismatch between the text attribute and the FORM field. Form is 'का' but text is ' त्या तुकड्याचे का कोण...'
+[Tree number 2 on line 9]: Mismatch between the text attribute and the FORM field. Form is 'कोणी' but text is ' त्या तुकड्याचे का कोणी ...'
+[Tree number 2 on line 9]: Mismatch between the text attribute and the FORM field. Form is 'हजार' but text is ' त्या तुकड्याचे का कोणी ...'
+[Tree number 2 on line 9]: Mismatch between the text attribute and the FORM field. Form is 'रुपये' but text is ' त्या तुकड्याचे का कोणी ह...'
+[Tree number 2 on line 9]: Mismatch between the text attribute and the FORM field. Form is 'देईल' but text is ' त्या तुकड्याचे का कोणी ...'
+[Tree number 2 on line 9]: Mismatch between the text attribute and the FORM field. Form is '?' but text is ' त्या तुकड्याचे का को...'
+[Tree number 2 on line 9]: Mismatch between the text attribute and the FORM field. Form is '"' but text is ' त्या तुकड्याचे का को...'
+[Line                   21]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: ' त्या तुकड्याचे का कोणी हजार रुपये देईल ? "'
+[Tree number 3 on line 24]: Mismatch between the text attribute and the FORM field. Form is 'देवाला' but text is ' देवाला माहीत आहे ! "...'
+[Tree number 3 on line 24]: Mismatch between the text attribute and the FORM field. Form is 'माहीत' but text is ' देवाला माहीत आहे ! "...'
+[Tree number 3 on line 24]: Mismatch between the text attribute and the FORM field. Form is 'आहे' but text is ' देवाला माहीत आहे ! "...'
+[Tree number 3 on line 24]: Mismatch between the text attribute and the FORM field. Form is '!' but text is ' देवाला माहीत आहे ! "...'
+[Tree number 3 on line 24]: Mismatch between the text attribute and the FORM field. Form is '"' but text is ' देवाला माहीत आहे ! "...'
+[Line                   30]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: ' देवाला माहीत आहे ! "'
+...suppressing further errors regarding Metadata
+*** FAILED *** with 290 errors
+Metadata errors: 290
 
 
 ******************
 
 python tools/validate.py --lang mr UD-dev-branches/UD_Marathi/mr-ud-test.conllu
 
-*** PASSED ***
+[Line                   14]: There should not be a SpaceAfter=No entry for words which are a part of a token
+[Line                   14]: There should not be a SpaceAfter=No entry for words which are a part of a token
+[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '.' but text is ' ....'
+[Line                   14]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: ' .'
+[Tree number 2 on line 17]: Mismatch between the text attribute and the FORM field. Form is '.' but text is ' ....'
+[Line                   23]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: ' .'
+[Line                   34]: There should not be a SpaceAfter=No entry for words which are a part of a token
+[Tree number 3 on line 26]: Mismatch between the text attribute and the FORM field. Form is '.' but text is ' ....'
+[Line                   34]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: ' .'
+[Tree number 4 on line 37]: Mismatch between the text attribute and the FORM field. Form is '.' but text is ' ....'
+[Line                   43]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: ' .'
+[Line                   55]: There should not be a SpaceAfter=No entry for words which are a part of a token
+[Tree number 5 on line 46]: Mismatch between the text attribute and the FORM field. Form is '.' but text is ' ....'
+[Line                   55]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: ' .'
+[Tree number 6 on line 58]: Mismatch between the text attribute and the FORM field. Form is '?' but text is ' ?...'
+[Line                   64]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: ' ?'
+[Line                   74]: There should not be a SpaceAfter=No entry for words which are a part of a token
+[Tree number 7 on line 67]: Mismatch between the text attribute and the FORM field. Form is '.' but text is ' ....'
+[Line                   74]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: ' .'
+...suppressing further errors regarding Metadata
+*** FAILED *** with 265 errors
+Metadata errors: 265
 
 
 ******************
 
 python tools/validate.py --lang mr UD-dev-branches/UD_Marathi/mr-ud-train.conllu
 
-*** PASSED ***
+[Tree number 1 on line 3]: Mismatch between the text attribute and the FORM field. Form is '.' but text is ' ....'
+[Line                   7]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: ' .'
+[Tree number 2 on line 10]: Mismatch between the text attribute and the FORM field. Form is '.' but text is ' ....'
+[Line                   15]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: ' .'
+[Tree number 3 on line 18]: Mismatch between the text attribute and the FORM field. Form is '-' but text is ' - राणी त्याला जीव की...'
+[Tree number 3 on line 18]: Mismatch between the text attribute and the FORM field. Form is 'राणी' but text is ' - राणी त्याला जीव की प्...'
+[Tree number 3 on line 18]: Mismatch between the text attribute and the FORM field. Form is 'त्याला' but text is ' - राणी त्याला जीव की प्रा...'
+[Tree number 3 on line 18]: Mismatch between the text attribute and the FORM field. Form is 'जीव' but text is ' - राणी त्याला जीव की प...'
+[Tree number 3 on line 18]: Mismatch between the text attribute and the FORM field. Form is 'की' but text is ' - राणी त्याला जीव की ...'
+[Tree number 3 on line 18]: Mismatch between the text attribute and the FORM field. Form is 'प्राण' but text is ' - राणी त्याला जीव की प्र...'
+[Tree number 3 on line 18]: Mismatch between the text attribute and the FORM field. Form is 'करित' but text is ' - राणी त्याला जीव की प्...'
+[Tree number 3 on line 18]: Mismatch between the text attribute and the FORM field. Form is '.' but text is ' - राणी त्याला जीव की...'
+[Line                   31]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: ' - राणी त्याला जीव की प्राण करित .'
+[Line                   41]: There should not be a SpaceAfter=No entry for words which are a part of a token
+[Tree number 4 on line 34]: Mismatch between the text attribute and the FORM field. Form is '.' but text is ' ....'
+[Line                   41]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: ' .'
+[Tree number 5 on line 44]: Mismatch between the text attribute and the FORM field. Form is ',' but text is ' , " याला घालवून द्या...'
+[Tree number 5 on line 44]: Mismatch between the text attribute and the FORM field. Form is '"' but text is ' , " याला घालवून द्या...'
+[Tree number 5 on line 44]: Mismatch between the text attribute and the FORM field. Form is 'याला' but text is ' , " याला घालवून द्यावे ...'
+...suppressing further errors regarding Metadata
+*** FAILED *** with 1738 errors
+Metadata errors: 1738
 
 
 ******************
