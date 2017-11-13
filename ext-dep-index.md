@@ -3,8 +3,6 @@ layout: base
 title:  'Language-Specific Relations'
 ---
 
-<strong><font color="red">Note:</font></strong> Since the description of language-specific relations depends both on the universal guidelines and on the empirical facts of specific treebanks, it may not be fully updated to v2 until the first treebank release in March 2017. 
-
 # Language-Specific Relations
 
 In addition to the universal dependency taxonomy, it is desirable to recognize grammatical relations that are particular to one language or a small group of related languages. Such language-specific relations are necessary to accurately capture the genius of a particular language but will not involve concepts that generalize broadly. These language-specific relations should always be regarded as a subtype of an existing UD relation.
@@ -14,357 +12,1181 @@ Labels of language-specific relations explictly encode the core UD relation that
 
 
 ## acl
-- `acl:inf`:
-[Hebrew](he-dep/acl:inf),
-[Portuguese](pt-dep/acl:inf)
-- `acl:part`:
-[Portuguese](pt-dep/acl:part)
-- `acl:relcl`:
-[Chinese](zh-dep/acl:relcl),
-[Danish](da-dep/acl:relcl),
-[English](en-dep/acl:relcl),
-[Estonian](et-dep/acl:relcl),
-[Finnish](fi-dep/acl:relcl),
-[French](fr-dep/acl:relcl),
-[Greek](el-dep/acl:relcl),
-[Hebrew](he-dep/acl:relcl),
-[Hindi](hi-dep/acl:relcl),
-[Irish](ga-dep/acl:relcl),
-[Italian](it-dep/acl:relcl),
-[Norwegian](no-dep/acl:relcl),
-[Persian](fa-dep/acl:relcl),
-[Portuguese](pt-dep/acl:relcl),
-[Russian](ru-dep/acl:relcl),
-[Spanish](es-dep/acl:relcl),
-[Swedish](sv-dep/acl:relcl)
+- [acl:acc]():
+Latvian
+- [acl:assoccoll]():
+Erzya
+- [acl:cleft]():
+French
+- [acl:dat]():
+Latvian
+- [acl:ger]():
+Erzya
+- [acl:inf]():
+Hebrew,
+Portuguese
+- [acl:loc]():
+Latvian
+- [acl:nom]():
+Latvian
+- [acl:part]():
+Portuguese
+- [acl:poss]():
+Kazakh
+- [acl:prc]():
+Erzya
+- [acl:rel]():
+Erzya
+- [acl:relcl]():
+,
+Arabic,
+Belarusian,
+Chinese,
+Danish,
+Dutch,
+English,
+Erzya,
+Estonian,
+Finnish,
+French,
+German,
+Greek,
+Hebrew,
+Hindi,
+Indonesian,
+Irish,
+Italian,
+Japanese,
+Kazakh,
+Korean,
+Lithuanian,
+Maltese,
+Marathi,
+North Sami,
+Norwegian,
+Persian,
+Portuguese,
+Russian,
+Sanskrit,
+Spanish,
+Swedish,
+Swedish Sign Language,
+Telugu,
+Thai,
+Turkish,
+Urdu
+- [acl:subj]():
+Erzya
 
 
 
 ## advcl
-- `advcl:compar`:
-[Finnish](fi-dep/advcl:compar)
-- `advcl:tcl`:
-[Romanian](ro-dep/advcl:tcl)
-- `advcl:tmod`:
-[Romanian](ro-dep/advcl:tmod)
+- [advcl:compar]():
+Finnish
+- [advcl:cond]():
+Telugu,
+Uyghur
+- [advcl:coverb]():
+Cantonese
+- [advcl:kā]():
+Latvian
+- [advcl:nekā]():
+Latvian
+- [advcl:sp]():
+Ukrainian
+- [advcl:svc]():
+Ukrainian
+- [advcl:tcl]():
+Romanian
+- [advcl:tmod]():
+Romanian
 
 
 
 ## advmod
-- `advmod:emph`:
-[Ancient Greek](grc-dep/advmod:emph),
-[Arabic](ar-dep/advmod:emph),
-[Czech](cs-dep/advmod:emph),
-[Latin](la-dep/advmod:emph),
-[Portuguese](pt-dep/advmod:emph),
-[Tamil](ta-dep/advmod:emph),
-[Turkish](tr-dep/advmod:emph),
-[Uyghur](ug-dep/advmod:emph)
-- `advmod:inf`:
-[Hebrew](he-dep/advmod:inf)
-- `advmod:locy`:
-[Hungarian](hu-dep/advmod:locy)
-- `advmod:mode`:
-[Hungarian](hu-dep/advmod:mode)
-- `advmod:obl`:
-[Hungarian](hu-dep/advmod:obl)
-- `advmod:phrase`:
-[Hebrew](he-dep/advmod:phrase)
-- `advmod:quant`:
-[Estonian](et-dep/advmod:quant)
-- `advmod:que`:
-[Hungarian](hu-dep/advmod:que)
-- `advmod:tfrom`:
-[Hungarian](hu-dep/advmod:tfrom)
-- `advmod:tlocy`:
-[Hungarian](hu-dep/advmod:tlocy)
-- `advmod:tmod`:
-[Romanian](ro-dep/advmod:tmod)
-- `advmod:to`:
-[Hungarian](hu-dep/advmod:to)
-- `advmod:tto`:
-[Hungarian](hu-dep/advmod:tto)
+- [advmod:cmp]():
+Erzya
+- [advmod:cmpstandard]():
+Erzya
+- [advmod:df]():
+Cantonese,
+Chinese
+- [advmod:discourse]():
+Belarusian
+- [advmod:emph]():
+,
+Ancient Greek,
+Arabic,
+Catalan,
+Croatian,
+Czech,
+Gothic,
+Latin,
+Lithuanian,
+Old Church Slavonic,
+Polish,
+Sanskrit,
+Slovak,
+Tamil,
+Turkish,
+Upper Sorbian,
+Uyghur
+- [advmod:epist]():
+Erzya
+- [advmod:evid]():
+Erzya
+- [advmod:inf]():
+Hebrew
+- [advmod:locy]():
+Hungarian
+- [advmod:mode]():
+Hungarian
+- [advmod:multprf]():
+Erzya
+- [advmod:neg]():
+Buryat,
+Erzya,
+Kurmanji
+- [advmod:obl]():
+Hungarian
+- [advmod:phrase]():
+Hebrew
+- [advmod:q]():
+Erzya
+- [advmod:qnt]():
+Erzya
+- [advmod:quant]():
+Estonian
+- [advmod:que]():
+Hungarian
+- [advmod:sup]():
+Erzya
+- [advmod:tfrom]():
+Hungarian
+- [advmod:tlocy]():
+Hungarian
+- [advmod:tmod]():
+Romanian
+- [advmod:to]():
+Hungarian
+- [advmod:tto]():
+Hungarian
 
 
 
 ## amod
-- `amod:att`:
-[Hungarian](hu-dep/amod:att)
-- `amod:attlvc`:
-[Hungarian](hu-dep/amod:attlvc)
-- `amod:mode`:
-[Hungarian](hu-dep/amod:mode)
-- `amod:obl`:
-[Hungarian](hu-dep/amod:obl)
+- [amod:att]():
+Hungarian
+- [amod:attlvc]():
+Hungarian
+- [amod:mode]():
+Hungarian
+- [amod:obl]():
+Hungarian
 
 
 
 ## aux
-- `aux:caus`:
-[Chinese](zh-dep/aux:caus)
-- `aux:q`:
-[Hebrew](he-dep/aux:q),
-[Turkish](tr-dep/aux:q)
-
-
-
-## auxpass
-- `auxpass:reflex`:
-[Catalan](ca-dep/auxpass:reflex),
-[Czech](cs-dep/auxpass:reflex),
-[Latin](la-dep/auxpass:reflex),
-[Portuguese](pt-dep/auxpass:reflex),
-[Spanish](es-dep/auxpass:reflex)
+- [aux:caus]():
+Chinese,
+French
+- [aux:cop]():
+Erzya
+- [aux:neg]():
+Erzya,
+North Sami
+- [aux:obj]():
+Erzya
+- [aux:pass]():
+,
+Afrikaans,
+Ancient Greek,
+Arabic,
+Belarusian,
+Bulgarian,
+Buryat,
+Cantonese,
+Catalan,
+Chinese,
+Croatian,
+Czech,
+Dutch,
+English,
+Finnish,
+French,
+Galician,
+German,
+Gothic,
+Hindi,
+Italian,
+Japanese,
+Latin,
+Lithuanian,
+Maltese,
+Marathi,
+Norwegian,
+Old Church Slavonic,
+Persian,
+Polish,
+Portuguese,
+Romanian,
+Russian,
+Slovak,
+Spanish,
+Swedish,
+Thai,
+Upper Sorbian,
+Vietnamese
+- [aux:q]():
+Hebrew,
+Turkish,
+Uyghur
+- [aux:subj]():
+Erzya
 
 
 
 ## case
-- `case:acc`:
-[Hebrew](he-dep/case:acc)
-- `case:aspect`:
-[Chinese](zh-dep/case:aspect)
-- `case:dec`:
-[Chinese](zh-dep/case:dec)
-- `case:gen`:
-[Hebrew](he-dep/case:gen)
-- `case:pref`:
-[Chinese](zh-dep/case:pref)
-- `case:suff`:
-[Chinese](zh-dep/case:suff)
-- `case:voc`:
-[Irish](ga-dep/case:voc)
+- [case:acc]():
+Hebrew
+- [case:aspect]():
+Chinese
+- [case:circ]():
+Kurmanji
+- [case:dec]():
+Chinese
+- [case:gen]():
+Hebrew
+- [case:loc]():
+Cantonese,
+Chinese
+- [case:pref]():
+Chinese
+- [case:suff]():
+Chinese
+- [case:voc]():
+Irish
 
 
 
 ## cc
-- `cc:preconj`:
-[English](en-dep/cc:preconj),
-[Estonian](et-dep/cc:preconj),
-[Finnish](fi-dep/cc:preconj),
-[Persian](fa-dep/cc:preconj),
-[Romanian](ro-dep/cc:preconj),
-[Russian](ru-dep/cc:preconj),
-[Slovenian](sl-dep/cc:preconj)
+- [cc:postconj]():
+
+- [cc:preconj]():
+,
+Arabic,
+English,
+Erzya,
+Estonian,
+Finnish,
+German,
+Indonesian,
+Italian,
+North Sami,
+Persian,
+Portuguese,
+Romanian,
+Russian,
+Slovenian,
+Spanish,
+Thai,
+Turkish
 
 
 
 ## ccomp
-- `ccomp:obj`:
-[Hungarian](hu-dep/ccomp:obj)
-- `ccomp:obl`:
-[Hungarian](hu-dep/ccomp:obl)
-- `ccomp:pmod`:
-[Romanian](ro-dep/ccomp:pmod)
-- `ccomp:pred`:
-[Hungarian](hu-dep/ccomp:pred)
+- [ccomp:cleft]():
+French
+- [ccomp:obj]():
+Hungarian
+- [ccomp:obl]():
+Hungarian
+- [ccomp:pmod]():
+Romanian
+- [ccomp:pred]():
+Hungarian
 
 
 
 ## compound
-- `compound:lvc`:
-[Persian](fa-dep/compound:lvc),
-[Turkish](tr-dep/compound:lvc)
-- `compound:nn`:
-[Finnish](fi-dep/compound:nn)
-- `compound:preverb`:
-[Hungarian](hu-dep/compound:preverb)
-- `compound:prt`:
-[Danish](da-dep/compound:prt),
-[Dutch](nl-dep/compound:prt),
-[English](en-dep/compound:prt),
-[Estonian](et-dep/compound:prt),
-[Finnish](fi-dep/compound:prt),
-[Irish](ga-dep/compound:prt),
-[Norwegian](no-dep/compound:prt),
-[Persian](fa-dep/compound:prt),
-[Swedish](sv-dep/compound:prt),
-[Tamil](ta-dep/compound:prt)
-- `compound:redup`:
-[Turkish](tr-dep/compound:redup)
+- [compound:a]():
+Indonesian
+- [compound:abs]():
+Erzya
+- [compound:conjv]():
+Hindi
+- [compound:dir]():
+Cantonese,
+Chinese
+- [compound:ext]():
+Cantonese,
+Chinese
+- [compound:lvc]():
+Kazakh,
+Kurmanji,
+Marathi,
+Persian,
+Telugu,
+Turkish,
+Uyghur
+- [compound:n]():
+Indonesian
+- [compound:nn]():
+Finnish,
+Kurmanji,
+North Sami
+- [compound:plur]():
+Indonesian
+- [compound:preverb]():
+Hungarian
+- [compound:prt]():
+,
+Afrikaans,
+Arabic,
+Danish,
+Dutch,
+English,
+Estonian,
+Finnish,
+German,
+Indonesian,
+Irish,
+Italian,
+Japanese,
+Korean,
+Norwegian,
+Persian,
+Portuguese,
+Spanish,
+Swedish,
+Swedish Sign Language,
+Tamil,
+Thai,
+Turkish
+- [compound:quant]():
+Cantonese
+- [compound:redup]():
+,
+Hindi,
+Kurmanji,
+Marathi,
+Telugu,
+Turkish,
+Uyghur
+- [compound:smixut]():
+Hebrew
+- [compound:svc]():
+,
+Marathi,
+Swedish Sign Language,
+Telugu,
+Ukrainian
+- [compound:v]():
+Indonesian,
+Japanese
+- [compound:vo]():
+Cantonese,
+Chinese
+- [compound:vv]():
+Cantonese,
+Chinese
 
 
 
 ## conj
-- `conj:discourse`:
-[Hebrew](he-dep/conj:discourse)
-- `conj:extend`:
-[Slovenian](sl-dep/conj:extend)
-- `conj:preconj`:
-[Russian](ru-dep/conj:preconj)
+- [conj:discourse]():
+Hebrew
+- [conj:extend]():
+Slovenian
+- [conj:svc]():
+Ukrainian
+
+
+
+## cop
+- [cop:belong]():
+Erzya
+- [cop:exist]():
+Erzya
+- [cop:own]():
+Erzya,
+Finnish
 
 
 
 ## csubj
-- `csubj:cleft`:
-[Irish](ga-dep/csubj:cleft)
-- `csubj:cop`:
-[Estonian](et-dep/csubj:cop),
-[Finnish](fi-dep/csubj:cop),
-[Irish](ga-dep/csubj:cop)
+- [csubj:cleft]():
+Irish
+- [csubj:cop]():
+Estonian,
+Finnish,
+Irish
+- [csubj:pass]():
+Afrikaans,
+Ancient Greek,
+Arabic,
+Bulgarian,
+Cantonese,
+Catalan,
+Chinese,
+Croatian,
+Czech,
+English,
+French,
+German,
+Gothic,
+Hindi,
+Indonesian,
+Italian,
+Latin,
+Latvian,
+Norwegian,
+Old Church Slavonic,
+Persian,
+Polish,
+Portuguese,
+Romanian,
+Russian,
+Sanskrit,
+Slovak,
+Spanish,
+Swedish,
+Thai,
+Ukrainian,
+Upper Sorbian
+
+
+
+## dep
+- [dep:ig]():
+Turkish
 
 
 
 ## det
-- `det:def`:
-[Hebrew](he-dep/det:def)
-- `det:numgov`:
-[Czech](cs-dep/det:numgov),
-[Polish](pl-dep/det:numgov)
-- `det:nummod`:
-[Czech](cs-dep/det:nummod),
-[Dutch](nl-dep/det:nummod),
-[Polish](pl-dep/det:nummod)
-- `det:poss`:
-[Italian](it-dep/det:poss),
-[Portuguese](pt-dep/det:poss)
-- `det:predet`:
-[English](en-dep/det:predet),
-[Italian](it-dep/det:predet),
-[Persian](fa-dep/det:predet),
-[Russian](ru-dep/det:predet)
-- `det:quant`:
-[Hebrew](he-dep/det:quant)
+- [det:def]():
+Hebrew
+- [det:numgov]():
+Czech,
+Polish,
+Serbian,
+Slovak,
+Ukrainian,
+Upper Sorbian
+- [det:nummod]():
+Czech,
+Polish,
+Slovak,
+Ukrainian,
+Upper Sorbian
+- [det:poss]():
+German,
+Italian,
+Korean,
+Maltese,
+Portuguese
+- [det:predet]():
+Arabic,
+English,
+French,
+German,
+Hindi,
+Italian,
+Persian,
+Portuguese,
+Spanish,
+Thai,
+Turkish
+- [det:quant]():
+Hebrew
 
 
 
 ## discourse
-- `discourse:filler`:
-[Slovenian](sl-dep/discourse:filler)
+- [discourse:emo]():
+Italian
+- [discourse:filler]():
+Norwegian,
+Slovenian
+- [discourse:sp]():
+Cantonese,
+Chinese
 
 
 
-## dobj
-- `dobj:lvc`:
-[Hungarian](hu-dep/dobj:lvc)
+## dislocated
+- [dislocated:cleft]():
+French
+- [dislocated:vo]():
+Cantonese,
+Chinese
 
 
 
 ## expl
-- `expl:impers`:
-[Italian](it-dep/expl:impers),
-[Romanian](ro-dep/expl:impers)
-- `expl:pass`:
-[Romanian](ro-dep/expl:pass)
-- `expl:poss`:
-[Romanian](ro-dep/expl:poss)
-- `expl:pv`:
-[Romanian](ro-dep/expl:pv)
+- [expl:impers]():
+Italian,
+Romanian
+- [expl:pass]():
+Ancient Greek,
+Catalan,
+Czech,
+Gothic,
+Italian,
+Latin,
+Old Church Slavonic,
+Polish,
+Romanian,
+Slovak,
+Spanish,
+Upper Sorbian
+- [expl:poss]():
+Romanian
+- [expl:pv]():
+Croatian,
+Czech,
+German,
+Polish,
+Portuguese,
+Romanian,
+Slovak,
+Upper Sorbian
+
+
+
+## flat
+- [flat:foreign]():
+Ancient Greek,
+Arabic,
+Buryat,
+Chinese,
+Croatian,
+Czech,
+English,
+Estonian,
+Finnish,
+French,
+Galician,
+Gothic,
+Irish,
+Italian,
+Latin,
+Latvian,
+Norwegian,
+Old Church Slavonic,
+Persian,
+Polish,
+Portuguese,
+Russian,
+Slovak,
+Slovenian,
+Thai,
+Ukrainian,
+Upper Sorbian
+- [flat:name]():
+Ancient Greek,
+Arabic,
+Bambara,
+Belarusian,
+Chinese,
+Dutch,
+English,
+Erzya,
+Finnish,
+French,
+Galician,
+German,
+Gothic,
+Hebrew,
+Hindi,
+Hungarian,
+Indonesian,
+Irish,
+Italian,
+Japanese,
+Kazakh,
+Korean,
+Latin,
+Latvian,
+Maltese,
+Norwegian,
+Old Church Slavonic,
+Portuguese,
+Russian,
+Slovenian,
+Spanish,
+Swedish,
+Thai,
+Turkish,
+Ukrainian
+- [flat:repeat]():
+Ukrainian
+- [flat:title]():
+Ukrainian
+
+
+
+## goeswith
+- [goeswith:alt]():
+Upper Sorbian
+
+
+
+## iobj
+- [iobj:agent]():
+French
+- [iobj:caus]():
+Kazakh
 
 
 
 ## mark
-- `mark:comparator`:
-[Finnish](fi-dep/mark:comparator)
-- `mark:prt`:
-[Irish](ga-dep/mark:prt)
-
-
-
-## name
-- `name:hu`:
-[Hungarian](hu-dep/name:hu)
+- [mark:adv]():
+Cantonese,
+Chinese
+- [mark:advb]():
+Chinese
+- [mark:comp]():
+Chinese
+- [mark:comparator]():
+Finnish
+- [mark:prt]():
+Chinese,
+Irish
+- [mark:rel]():
+Cantonese,
+Chinese
+- [mark:relcl]():
+,
+Chinese
 
 
 
 ## nmod
-- `nmod:abl`:
-[Uyghur](ug-dep/nmod:abl)
-- `nmod:agent`:
-[Romanian](ro-dep/nmod:agent),
-[Russian](ru-dep/nmod:agent),
-[Swedish](sv-dep/nmod:agent)
-- `nmod:att`:
-[Hungarian](hu-dep/nmod:att)
-- `nmod:attlvc`:
-[Hungarian](hu-dep/nmod:attlvc)
-- `nmod:clas`:
-[Uyghur](ug-dep/nmod:clas)
-- `nmod:cmp`:
-[Uyghur](ug-dep/nmod:cmp)
-- `nmod:gobj`:
-[Finnish](fi-dep/nmod:gobj),
-[Russian](ru-dep/nmod:gobj)
-- `nmod:gsubj`:
-[Finnish](fi-dep/nmod:gsubj)
-- `nmod:ins`:
-[Uyghur](ug-dep/nmod:ins)
-- `nmod:loc`:
-[Danish](da-dep/nmod:loc),
-[Uyghur](ug-dep/nmod:loc)
-- `nmod:npmod`:
-[English](en-dep/nmod:npmod)
-- `nmod:obl`:
-[Hungarian](hu-dep/nmod:obl)
-- `nmod:obllvc`:
-[Hungarian](hu-dep/nmod:obllvc)
-- `nmod:own`:
-[Buryat](bxr-dep/nmod:own),
-[Finnish](fi-dep/nmod:own)
-- `nmod:pmod`:
-[Romanian](ro-dep/nmod:pmod)
-- `nmod:poss`:
-[Danish](da-dep/nmod:poss),
-[English](en-dep/nmod:poss),
-[Estonian](et-dep/nmod:poss),
-[Finnish](fi-dep/nmod:poss),
-[French](fr-dep/nmod:poss),
-[German](de-dep/nmod:poss),
-[Hebrew](he-dep/nmod:poss),
-[Irish](ga-dep/nmod:poss),
-[Kazakh](kk-dep/nmod:poss),
-[Persian](fa-dep/nmod:poss),
-[Spanish](es-dep/nmod:poss),
-[Swedish](sv-dep/nmod:poss),
-[Turkish](tr-dep/nmod:poss),
-[Uyghur](ug-dep/nmod:poss)
-- `nmod:prep`:
-[Irish](ga-dep/nmod:prep)
-- `nmod:smixut`:
-[Hebrew](he-dep/nmod:smixut)
-- `nmod:tmod`:
-[Chinese](zh-dep/nmod:tmod),
-[Danish](da-dep/nmod:tmod),
-[English](en-dep/nmod:tmod),
-[Hebrew](he-dep/nmod:tmod),
-[Irish](ga-dep/nmod:tmod),
-[Romanian](ro-dep/nmod:tmod),
-[Russian](ru-dep/nmod:tmod)
+- [nmod:abl]():
+Uyghur
+- [nmod:abs]():
+Erzya
+- [nmod:acc]():
+Latvian
+- [nmod:agent]():
+Romanian
+- [nmod:aiz]():
+Latvian
+- [nmod:ap]():
+Latvian
+- [nmod:apkārt]():
+Latvian
+- [nmod:appos]():
+Erzya
+- [nmod:ar]():
+Latvian
+- [nmod:arg]():
+Turkish
+- [nmod:att]():
+Hungarian
+- [nmod:attlvc]():
+Hungarian
+- [nmod:bahuv]():
+Erzya
+- [nmod:bez]():
+Latvian
+- [nmod:cau]():
+Uyghur
+- [nmod:caur]():
+Latvian
+- [nmod:cauri]():
+Latvian
+- [nmod:clas]():
+Uyghur
+- [nmod:cmp]():
+Telugu
+- [nmod:cmpstandard]():
+Erzya
+- [nmod:comp]():
+Uyghur
+- [nmod:dat]():
+Kurmanji,
+Latvian
+- [nmod:det]():
+Erzya
+- [nmod:dsubj]():
+Erzya
+- [nmod:exist]():
+Erzya
+- [nmod:gar]():
+Latvian
+- [nmod:gen]():
+Erzya,
+Latvian
+- [nmod:gmod]():
+Arabic,
+German,
+Russian
+- [nmod:gobj]():
+Erzya,
+Finnish,
+Russian
+- [nmod:gsubj]():
+Erzya,
+Finnish
+- [nmod:iepretim]():
+Latvian
+- [nmod:ins]():
+Uyghur
+- [nmod:instr]():
+Erzya
+- [nmod:lejpus]():
+Latvian
+- [nmod:loc]():
+Latvian,
+Uyghur
+- [nmod:līdz]():
+Latvian
+- [nmod:name]():
+Erzya
+- [nmod:no]():
+Latvian
+- [nmod:nom]():
+Latvian
+- [nmod:npmod]():
+English,
+Portuguese,
+Thai
+- [nmod:obl]():
+Hungarian
+- [nmod:obllvc]():
+Hungarian
+- [nmod:otrpus]():
+Latvian
+- [nmod:own]():
+Buryat,
+Erzya,
+Finnish
+- [nmod:pa]():
+Latvian
+- [nmod:par]():
+Latvian
+- [nmod:part]():
+Uyghur
+- [nmod:pass]():
+Uyghur
+- [nmod:pie]():
+Latvian
+- [nmod:pirms]():
+Latvian
+- [nmod:pmod]():
+Romanian
+- [nmod:pos]():
+Erzya
+- [nmod:poss]():
+,
+Arabic,
+Bambara,
+Chinese,
+Danish,
+Dutch,
+English,
+Erzya,
+Estonian,
+Finnish,
+French,
+German,
+Hebrew,
+Hindi,
+Indonesian,
+Irish,
+Italian,
+Kazakh,
+Korean,
+Kurmanji,
+Marathi,
+North Sami,
+Persian,
+Russian,
+Sanskrit,
+Spanish,
+Swedish,
+Swedish Sign Language,
+Telugu,
+Thai,
+Turkish,
+Uyghur
+- [nmod:pret]():
+Latvian
+- [nmod:pār]():
+Latvian
+- [nmod:pāri]():
+Latvian
+- [nmod:pēc]():
+Latvian
+- [nmod:ref]():
+Uyghur
+- [nmod:starp]():
+Latvian
+- [nmod:tmod]():
+Arabic,
+Chinese,
+English,
+French,
+German,
+Hindi,
+Indonesian,
+Italian,
+Korean,
+Portuguese,
+Romanian,
+Russian,
+Spanish,
+Telugu,
+Thai,
+Turkish,
+Uyghur
+- [nmod:uz]():
+Latvian
+- [nmod:virs]():
+Latvian
+- [nmod:viņpus]():
+Latvian
+- [nmod:zem]():
+Latvian
 
 
 
 ## nsubj
-- `nsubj:cop`:
-[Estonian](et-dep/nsubj:cop),
-[Finnish](fi-dep/nsubj:cop),
-[Hebrew](he-dep/nsubj:cop)
-- `nsubj:lvc`:
-[Hungarian](hu-dep/nsubj:lvc)
-- `nsubj:nc`:
-[Persian](fa-dep/nsubj:nc)
+- [nsubj:ascriptive]():
+Erzya
+- [nsubj:belong]():
+Erzya
+- [nsubj:caus]():
+French
+- [nsubj:cop]():
+,
+Erzya,
+Estonian,
+Finnish,
+Hebrew,
+Sanskrit,
+Uyghur
+- [nsubj:exist]():
+Erzya
+- [nsubj:exit]():
+Erzya
+- [nsubj:expl]():
+French
+- [nsubj:forpurpose]():
+Erzya
+- [nsubj:lvc]():
+Hungarian
+- [nsubj:nc]():
+Persian,
+Telugu
+- [nsubj:own]():
+Erzya,
+Marathi
+- [nsubj:pass]():
+,
+Afrikaans,
+Ancient Greek,
+Arabic,
+Belarusian,
+Bulgarian,
+Buryat,
+Cantonese,
+Catalan,
+Chinese,
+Croatian,
+Czech,
+Dutch,
+English,
+French,
+Galician,
+German,
+Gothic,
+Hindi,
+Indonesian,
+Italian,
+Japanese,
+Korean,
+Latin,
+Latvian,
+Maltese,
+Marathi,
+Norwegian,
+Old Church Slavonic,
+Persian,
+Polish,
+Portuguese,
+Romanian,
+Russian,
+Sanskrit,
+Slovak,
+Spanish,
+Swedish,
+Tamil,
+Thai,
+Ukrainian,
+Upper Sorbian,
+Uyghur
+- [nsubj:prspron]():
+Erzya
+- [nsubj:qnt]():
+Erzya
 
 
 
 ## nummod
-- `nummod:entity`:
-[Russian](ru-dep/nummod:entity)
-- `nummod:gov`:
-[Czech](cs-dep/nummod:gov),
-[Russian](ru-dep/nummod:gov)
+- [nummod:entity]():
+Russian
+- [nummod:gov]():
+Belarusian,
+Czech,
+Lithuanian,
+Polish,
+Russian,
+Sanskrit,
+Serbian,
+Slovak,
+Ukrainian,
+Upper Sorbian
+
+
+
+## obj
+- [obj:agent]():
+French
+- [obj:cau]():
+Uyghur
+- [obj:dir]():
+Ancient Greek,
+Gothic,
+Latin,
+Old Church Slavonic
+- [obj:emph]():
+Erzya
+- [obj:lvc]():
+Hungarian
+- [obj:prspron]():
+Erzya
+
+
+
+## obl
+- [obl:-]():
+Latvian
+- [obl:Bez]():
+Latvian
+- [obl:acc]():
+Latvian
+- [obl:agent]():
+Ancient Greek,
+Belarusian,
+Cantonese,
+Chinese,
+Czech,
+English,
+French,
+Gothic,
+Hindi,
+Italian,
+Latin,
+Lithuanian,
+Old Church Slavonic,
+Polish,
+Portuguese,
+Russian,
+Sanskrit,
+Slovak,
+Swedish
+- [obl:aiz]():
+Latvian
+- [obl:ap]():
+Latvian
+- [obl:apkārt]():
+Latvian
+- [obl:ar]():
+Latvian
+- [obl:arg]():
+,
+Czech,
+Greek,
+Polish,
+Sanskrit,
+Slovak
+- [obl:atbilstoši]():
+Latvian
+- [obl:augšpus]():
+Latvian
+- [obl:bez]():
+Latvian
+- [obl:blakus]():
+Latvian
+- [obl:cau]():
+Telugu
+- [obl:caur]():
+Latvian
+- [obl:cauri]():
+Latvian
+- [obl:dat]():
+Latvian
+- [obl:dēļ]():
+Latvian
+- [obl:gar]():
+Latvian
+- [obl:garām]():
+Latvian
+- [obl:gen]():
+Latvian
+- [obl:gmod]():
+Arabic,
+Russian
+- [obl:klāt]():
+Latvian
+- [obl:kopš]():
+Latvian
+- [obl:labad]():
+Latvian
+- [obl:loc]():
+Danish,
+Latvian
+- [obl:līdz]():
+Latvian
+- [obl:līdzi]():
+Latvian
+- [obl:līdztekus]():
+Latvian
+- [obl:līdzās]():
+Latvian
+- [obl:no]():
+Latvian
+- [obl:nom]():
+Latvian
+- [obl:npmod]():
+English,
+Thai
+- [obl:own]():
+Kazakh
+- [obl:pa]():
+Latvian
+- [obl:par]():
+Latvian
+- [obl:patient]():
+Cantonese,
+Chinese
+- [obl:pie]():
+Latvian
+- [obl:pirms]():
+Latvian
+- [obl:poss]():
+Thai
+- [obl:prep]():
+Irish
+- [obl:pret]():
+Latvian
+- [obl:pretim]():
+Latvian
+- [obl:pretī]():
+Latvian
+- [obl:priekša]():
+Latvian
+- [obl:priekšā]():
+Latvian
+- [obl:pār]():
+Latvian
+- [obl:pāri]():
+Latvian
+- [obl:pēc]():
+Latvian
+- [obl:starp]():
+Latvian
+- [obl:tmod]():
+Arabic,
+Cantonese,
+Chinese,
+Danish,
+English,
+French,
+German,
+Hebrew,
+Hindi,
+Indonesian,
+Irish,
+Italian,
+Japanese,
+Korean,
+Portuguese,
+Russian,
+Spanish,
+Telugu,
+Thai,
+Turkish
+- [obl:tuvu]():
+Latvian
+- [obl:tuvāk]():
+Latvian
+- [obl:uz]():
+Latvian
+- [obl:virs]():
+Latvian
+- [obl:virsū]():
+Latvian
+- [obl:visaplīk]():
+Latvian
+- [obl:zem]():
+Latvian
+- [obl:ārpus]():
+Latvian
+
+
+
+## orphan
+- [orphan:obj]():
+Erzya
+- [orphan:obl]():
+Erzya
+- [orphan:subjassoccoll]():
+Erzya
 
 
 
 ## parataxis
-- `parataxis:discourse`:
-[Slovenian](sl-dep/parataxis:discourse)
-- `parataxis:restart`:
-[Slovenian](sl-dep/parataxis:restart)
+- [parataxis:deletion]():
+Norwegian
+- [parataxis:discourse]():
+Slovenian,
+Ukrainian
+- [parataxis:hashtag]():
+Italian
+- [parataxis:insert]():
+Italian
+- [parataxis:newsent]():
+Ukrainian
+- [parataxis:nsubj]():
+Italian
+- [parataxis:obj]():
+Italian
+- [parataxis:restart]():
+Slovenian
+
+
+
+## vocative
+- [vocative:mention]():
+Italian
 
 
 
 ## xcomp
-- `xcomp:adj`:
-[Portuguese](pt-dep/xcomp:adj)
-- `xcomp:ds`:
-[Finnish](fi-dep/xcomp:ds)
-- `xcomp:pred`:
-[Irish](ga-dep/xcomp:pred)
+- [xcomp:adj]():
+Portuguese
+- [xcomp:ds]():
+Finnish
+- [xcomp:exist]():
+Erzya
+- [xcomp:obj]():
+North Sami
+- [xcomp:pred]():
+Irish,
+North Sami
+- [xcomp:sp]():
+Ukrainian
