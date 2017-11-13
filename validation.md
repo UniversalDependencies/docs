@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-13T11:45:43Z">2017-11-13T11:45:43 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-13T20:32:04Z">2017-11-13T20:32:04 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1175,7 +1175,7 @@ python tools/validate.py --lang en_partut UD-dev-branches/UD_English-ParTUT/en_p
 <span class="doublewidespan" style="padding-left:3em">UD Erzya</span>
 <span class="widespan">myv</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-11T18:45:01Z">2017-11-11T18:45:01 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-13T20:32:04Z">2017-11-13T20:32:04 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1366,6 +1366,7 @@ UnboundLocalError: local variable 'cols' referenced before assignment
 [Line                   49]: Unknown attribute-value pair Number[subj]=Sing
 ...suppressing further errors regarding Morpho
 [Line                   49]: Unknown UD DEPREL: acl:relcl
+[Line                   51]: Unknown UD DEPREL: acl:ger
 [Line                   52]: Unknown UD DEPREL: nmod:abs
 [Line                   56]: Spurious sent_id line: '#sent_id = storyIDЛОВНЫЦЯНТЕНЬ:paragID1:sentID1: pgNo="0005"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
 [Line                   56]: Missing the sent_id attribute.
@@ -1391,15 +1392,12 @@ UnboundLocalError: local variable 'cols' referenced before assignment
 [Line                   120]: Unknown UD DEPREL: orphan:obj
 [Line                   142]: Unknown UD DEPREL: nmod:poss
 [Line                   160]: Unknown UD DEPREL: nmod:poss
-[Line                   174]: Invalid DEPREL value _
-[Line                   174]: Unknown UD DEPREL: _
 [Line                   177]: Unknown UD DEPREL: nmod:instr
-[Line                   181]: Undefined ID in HEAD: _
+[Line                   178]: Unknown UD DEPREL: acl:ger
 [Line                   181]: Undefined ID in HEAD: conj
-[Tree number 14 on line 168]: Empty head for word ID 7
 [Tree number 14 on line 168]: Non-integer head for word ID 12
 [Tree number 14 on line 168]: Non-tree structure. Words 7,8,9,10,11,12 are not reachable from the root 0.
-[Line                   200]: Unknown UD DEPREL: nmod:abs
+[Line                   191]: Unknown UD DEPREL: acl:ger
 ...suppressing further errors regarding Syntax
 [Line                   391]: Undefined ID in HEAD: _
 [Tree number 27 on line 378]: Empty head for word ID 4
@@ -1416,12 +1414,14 @@ UnboundLocalError: local variable 'cols' referenced before assignment
 [Line                   1127]: The line has 1 columns, but 10 are expected.
 [Line                   1127]: White space not allowed in the ID column: '2       Ансяк   ансяк   Adv     _       _       0       root    _       Gloss[eng]=but'
 [Line                   1127]: Unexpected ID format 2       Ансяк   ансяк   Adv     _       _       0       root    _       Gloss[eng]=but
+[Line                   1128]: The line has 1 columns, but 10 are expected.
+[Line                   1128]: White space not allowed in the ID column: '3       »       »       _       _       _       2       punct   _       _'
 ...suppressing further errors regarding Format
-*** FAILED *** with 1832 errors
-Format errors: 26
+*** FAILED *** with 1817 errors
+Format errors: 24
 Metadata errors: 409
-Morpho errors: 1290
-Syntax errors: 107
+Morpho errors: 1275
+Syntax errors: 109
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.myv does not exist.
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/feat_val.myv does not exist.
 python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PROJHOOK/tools/data/feat_val.myv
@@ -1505,10 +1505,10 @@ UnboundLocalError: local variable 'cols' referenced before assignment
 [Tree number 12 on line 201]: HEAD == ID for 3
 [Line                   489]: Missing empty line after the last tree.
 [Line                   489]: Exception caught!
-*** FAILED *** with 916 errors
+*** FAILED *** with 913 errors
 Format errors: 5
 Metadata errors: 157
-Morpho errors: 687
+Morpho errors: 684
 Syntax errors: 67
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.myv does not exist.
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/feat_val.myv does not exist.
@@ -1577,42 +1577,32 @@ IndexError: list index out of range
 [Line                   101]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'пилензэ, теке бокава[...]'
 ...suppressing further errors regarding Metadata
 [Line                   130]: Unknown UD DEPREL: nmod:poss
-[Line                   136]: Invalid DEPREL value 7
-[Line                   136]: Failed for parse DEPS: punct
-[Line                   136]: Unknown UD DEPREL: 7
-[Line                   136]: Malformed head:deprel pair 'punct'
-[Line                   137]: Invalid DEPREL value _
-[Line                   137]: Unknown UD DEPREL: _
-[Line                   141]: Invalid DEPREL value _
-[Line                   141]: Unknown UD DEPREL: _
-[Line                   149]: Undefined ID in HEAD: _
-[Line                   149]: Failed for parse DEPS: punct
-[Line                   149]: Undefined ID in HEAD: _
-[Line                   149]: Undefined ID in HEAD: _
-[Line                   149]: Failed to parse DEPS: punct
-[Tree number 9 on line 129]: Empty head for word ID 8
-[Tree number 9 on line 129]: Empty head for word ID 9
-[Tree number 9 on line 129]: Empty head for word ID 13
-[Tree number 9 on line 129]: Non-tree structure. Words 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20 are not reachable from the root 0.
-[Line                   161]: Unknown UD DEPREL: aux:subj
+[Line                   161]: Unknown UD DEPREL: nsubj:prspron
+[Line                   184]: Unknown UD DEPREL: nsubj:cop
+[Line                   200]: Unknown UD DEPREL: nsubj:cop
+[Line                   201]: Unknown UD DEPREL: nmod:poss
+[Line                   208]: Unknown UD DEPREL: nsubj:cop
+[Line                   219]: Unknown UD DEPREL: nsubj:cop
+[Line                   251]: Unknown UD DEPREL: nmod:poss
+[Line                   261]: Unknown UD DEPREL: nsubj:cop
+[Line                   264]: Unknown UD DEPREL: nsubj:cop
+[Line                   274]: Unknown UD DEPREL: nmod:poss
 ...suppressing further errors regarding Syntax
-[Line                   369]: Undefined ID in HEAD: _
-[Tree number 26 on line 356]: Empty head for word ID 4
-[Line                   498]: Undefined ID in HEAD: _
-[Line                   498]: Failed for parse DEPS: punct
-[Line                   498]: Failed to parse DEPS: punct
-[Tree number 37 on line 486]: Empty head for word ID 10
 [Tree number 44 on line 566]: HEAD == ID for 2
-[Line                   712]: Undefined ID in HEAD: nmod:poss
-[Tree number 55 on line 694]: Non-integer head for word ID 7
-[Line                   912]: Undefined ID in HEAD: obj
-[Tree number 71 on line 900]: Non-integer head for word ID 11
-...suppressing further errors regarding Format
-*** FAILED *** with 3013 errors
-Format errors: 39
+[Line                   910]: The line has 11 columns, but 10 are expected.
+[Tree number 76 on line 974]: HEAD == ID for 6
+[Line                   1031]: Empty value in column DEPS
+[Line                   1037]: Failed for parse DEPS: 
+[Line                   1037]: Failed to parse DEPS: 
+[Tree number 98 on line 1291]: HEAD == ID for 11
+[Tree number 108 on line 1505]: HEAD == ID for 8
+[Line                   1724]: The line has 9 columns, but 10 are expected.
+[Line                   1739]: Exception caught!
+*** FAILED *** with 2932 errors
+Format errors: 10
 Metadata errors: 529
-Morpho errors: 2317
-Syntax errors: 128
+Morpho errors: 2299
+Syntax errors: 94
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.myv does not exist.
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/feat_val.myv does not exist.
 python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PROJHOOK/tools/data/feat_val.myv
