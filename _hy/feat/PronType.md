@@ -44,4 +44,13 @@ personal/possessive pronouns (e.g. _իրեն / իր&nbsp;_ see the
 
 #### Examples
 
-* մեկմեկու (մեկմեկի), միմյանց, իրար_ “one another, each other, each other”
+* մեկմեկու (մեկմեկի), միմյանց, իրար (իրարու)&nbsp;_ “one another, each other, each other”
+
+### <a name="Art">`Art`</a>: article
+
+Article is a special case of determiner that bears the feature of
+[definiteness](Definite). Note, that in Armenian `Def` feature is marked directly on nouns.
+
+#### Examples
+
+* _մի&nbsp;_ “a/an”
