@@ -49,7 +49,7 @@ personal/possessive pronouns (e.g. _իրեն / իր&nbsp;_ see the
 ### <a name="Art">`Art`</a>: article
 
 Article is a special case of determiner that bears the feature of
-[definiteness](Definite). Note, that in Armenian `Def` feature is marked directly on nouns.
+[definiteness](Definite). Note, that in Armenian `Def` value is marked directly on nouns.
 
 #### Examples
 
