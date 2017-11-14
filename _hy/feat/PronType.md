@@ -44,7 +44,7 @@ personal/possessive pronouns (e.g. _իրեն / իր&nbsp;_ see the
 
 #### Examples
 
-* մեկմեկու (մեկմեկի), միմյանց, իրար (իրարու)&nbsp;_ “one another, each other, each other”
+* _մեկմեկու (մեկմեկի), իրար (իրարու), միմյանց&nbsp;_ “one another, each other, each other”
 
 ### <a name="Art">`Art`</a>: article
 
