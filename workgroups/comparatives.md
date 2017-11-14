@@ -674,7 +674,9 @@ In general, we treat whatever remnant that remains as still an [advcl]():
 
 “Your hair is more pink than how pink it ever was.”
 
-Russian [ru]: “the bigger surface, the bigger friction”
+In the following Russian [ru] example, the standard of comparison is missing completely and the partially reduced adverbial clause quantifies the difference:
+
+“the bigger surface, the bigger friction”
 
 ~~~ conllu
 # 2011Nano.xml 71
