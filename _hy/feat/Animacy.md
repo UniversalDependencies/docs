@@ -20,13 +20,7 @@ See also the related feature of [Definite]().
 
 Note that some school grammars of Armenian distinguish between lexical `Hum` vs. `Nhum` or `Anim` vs. `Inan` features of nouns.
 
-There is antother classifaction:
-
-- nouns that are human and inflected as `Hum` (as [obj](hy-dep/obj) in [Dat](Case)),
-
-- nouns that are animate or inanimate and inflected as `Anim` (as [obj](hy-dep/obj) in [Dat](Case)),
-
-- nouns that are human, animate or inanimate and inflected as `Inan` (as [obj](hy-dep/obj) in [Nom/Acc](Case)).
+There is antother classifaction: nouns that are human and inflected as `Hum` (as [obj](hy-dep/obj) in [Dat](Case)) vs. nouns that are animate or inanimate and inflected as `Anim` (as [obj](hy-dep/obj) in [Dat](Case)) vs. nouns that are human, animate or inanimate and inflected as `Inan` (as [obj](hy-dep/obj) in [Nom/Acc](Case)).
 
 ### <a name="Hum">`Hum`</a>: human
 
@@ -36,7 +30,7 @@ Human beings, fictional characters, names of professions etc. (but not animals) 
 
 ### <a name="Nhum">`Nhum`</a>: non-human
 
-This value is used only for non-human animates (only animals).
+This value is used for non-human animates (only animals).
 
 - _ձի_ “horse”, _կով_ “cow”, _առյուծ_ “lion”, _արագիլ_ “stork”, _ձուկ_ “fish”
 
