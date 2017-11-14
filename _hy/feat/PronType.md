@@ -8,12 +8,15 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Art">Art</a></td>
   <td><a href="#Dem">Dem</a></td>
   <td><a href="#Emp">Emp</a></td>
+  <td><a href="#Exc">Exc</a></td>
   <td><a href="#Ind">Ind</a></td>
   <td><a href="#Int">Int</a></td>
   <td><a href="#Neg">Neg</a></td>
   <td><a href="#Prs">Prs</a></td>
+  <td><a href="#Rcp">Rcp</a></td>
   <td><a href="#Rel">Rel</a></td>
   <td><a href="#Tot">Tot</a></td>
 </tr>
@@ -36,3 +39,9 @@ personal/possessive pronouns (e.g. _իրեն / իր&nbsp;_ see the
 * _իմ, քո, նրա, մեր, ձեր, նրանց&nbsp;_ “my, your, his/her/its, our, your, their”
 * _ինձ, քեզ, իրեն, մեզ, ձեզ, իրենց&nbsp;_ “myself, yourself, oneself, ourselves, yourselves, themselves”
 * _իր, իրենց&nbsp;_ “one's own, themselves”
+
+### <a name="Rcp">`Rcp`</a>: reciprocal pronoun
+
+#### Examples
+
+* մեկմեկու (մեկմեկի), միմյանց, իրար_ “one another, each other, each other”
