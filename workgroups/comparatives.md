@@ -781,6 +781,32 @@ gapping:
 
 ~~~
 
+~~~ conllu
+# 2011Nano.xml 71
+# text = При уменьшении размера растет отношение площади поверхности к объему, а чем больше поверхность, тем больше трение.
+# sent_id = 28605
+1	При	при	ADP	_	_	2	case	2:case	_
+2	уменьшении	уменьшение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	obl	4:obl	_
+3	размера	размер	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	2:nmod	_
+4	растет	расти	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+5	отношение	отношение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	4:nsubj	_
+6	площади	площадь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	5:nmod	_
+7	поверхности	поверхность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	nmod	6:nmod	_
+8	к	к	ADP	_	_	9	case	9:case	_
+9	объему	объем	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	5	nmod	5:nmod	SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	9:punct	_
+11	а	а	CCONJ	_	_	13	cc	13:cc	_
+12	чем	чем	SCONJ	_	_	4	cc	4:cc	_
+13	больше	большой	ADJ	_	Degree=Cmp	4	conj	4:conj	_
+14	поверхность	поверхность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	nsubj	13:nsubj	SpaceAfter=No
+15	,	,	PUNCT	_	_	14	punct	14:punct	_
+16	тем	тем	SCONJ	_	_	17	mark	17:mark	_
+17	больше	большой	ADJ	_	Degree=Cmp	13	advcl	13:advcl	_
+18	трение	трение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	17	nsubj	17:nsubj	SpaceAfter=No
+19	.	.	PUNCT	_	_	18	punct	18:punct	_
+
+~~~
+
 ## “More than” as a Multi-Word Expression
 
 In certain contexts the comparative complement combines both the action or
