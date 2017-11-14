@@ -42,7 +42,7 @@ if a larger treebank of the same language exists and has training data.
 
 1. If you have less than 20K words:
    * Option A: Keep everything as test data. Users will have to do 10-fold cross-validation if they want to train on it.
-   * Option B: If there are no larger treebanks of this language, set aside a small sample (20 to 50 sentences) and call it “train” (or “sample”?) Consider translating and annotating the 20 examples from the [Cairo Cicling Corpus](https://github.com/UniversalDependencies/cairo/blob/master/translations.txt) (CCC) and providing them as the sample.
+   * Option B: If there are no larger treebanks of this language, keep almost everything as test data but set aside a small sample (20 to 50 sentences) and call it “train” (or “sample”?) Consider translating and annotating the 20 examples from the [Cairo Cicling Corpus](https://github.com/UniversalDependencies/cairo/blob/master/translations.txt) (CCC) and providing them as the sample.
 3. If you have between 20K and 30K words, take 10K as test data and the rest as training data.
 4. If you have between 30K and 100K words, take 10K as test data, 10K as dev data and the rest as training data.
 6. If you have more than 100K words, take 80% as training data, 10% (min 10K words) as dev data and 10% (min 10K words) as test data.
