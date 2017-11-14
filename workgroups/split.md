@@ -16,7 +16,7 @@ over time.
 <strong>Note that at present this is just a proposal under discussion and it may
 change without warning! When the discussion is over, the guidelines will be
 moved from here to the how-to-contribute pages.
-For discussion on the guidelines, see
+For discussion of the guidelines, see
 [Issue #506](https://github.com/UniversalDependencies/docs/issues/506).</strong>
 
 These guidelines are strong recommendations rather than strict rules. In some
