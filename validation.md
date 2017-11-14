@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- validation runs prior to the v1.3 release'
 udver: '2'
 ---
 
-Regenerated: <time class="timeago" datetime="2017-11-14T03:21:36Z">2017-11-14T03:21:36 zulu</time>
+Regenerated: <time class="timeago" datetime="2017-11-14T09:54:28Z">2017-11-14T09:54:28 zulu</time>
 
 <div id="accordion" class="jquery-ui-accordion">
 <!-- content of _includes/validation.html -->
@@ -1175,7 +1175,7 @@ python tools/validate.py --lang en_partut UD-dev-branches/UD_English-ParTUT/en_p
 <span class="doublewidespan" style="padding-left:3em">UD Erzya</span>
 <span class="widespan">myv</span>
 <span class="validationfail">FAIL</span>
-<span class="doublewidespan"> <time class="timeago" datetime="2017-11-13T20:32:04Z">2017-11-13T20:32:04 zulu</time></span>
+<span class="doublewidespan"> <time class="timeago" datetime="2017-11-14T09:54:28Z">2017-11-14T09:54:28 zulu</time></span>
 </div>
 <div>
 <pre>
@@ -1276,6 +1276,65 @@ Metadata errors: 529
 Morpho errors: 3528
 Syntax errors: 129
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.myv does not exist.
+
+
+******************
+
+python tools/validate.py --lang myv UD-dev-branches/UD_Erzya/myv_AnoshkinV_ValskenjGudok_1936_UD-dev-2017.conlluTraceback (most recent call last):
+  File "tools/validate.py", line 735, in &lt;module&gt;
+    validate(inp,out,args,tagsets,known_sent_ids)
+  File "tools/validate.py", line 618, in validate
+    validate_ID_references(tree)
+  File "tools/validate.py", line 472, in validate_ID_references
+    if HEAD &gt;= len(cols):
+UnboundLocalError: local variable 'cols' referenced before assignment
+
+
+
+[Line                   30]: Morphological features must be sorted: 'Number=Plur|Case=Nom|Definite=Def'
+[Line                   31]: Morphological features must be sorted: 'Valency=1|Mood=Ind|Tense=Prt1|Number[subj]=Plur|Person[subj]=3'
+[Line                   31]: Unknown attribute-value pair Valency=1
+[Line                   31]: Unknown attribute-value pair Tense=Prt1
+[Line                   31]: Unknown attribute-value pair Number[subj]=Plur
+[Line                   31]: Unknown attribute-value pair Person[subj]=3
+[Line                   32]: Spurious morphological feature: 'Spat'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   34]: Spurious morphological feature: 'Attr'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   35]: Morphological features must be sorted: 'Sem/Plc|Number=Sing,Plur|Case=Prl|Definite=Ind'
+[Line                   35]: Spurious morphological feature: 'Sem/Plc'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   35]: If an attribute has multiple values, these must be sorted as well: 'Number=Sing,Plur'
+[Line                   35]: Unknown attribute-value pair Case=Prl
+[Line                   38]: Spurious morphological feature: 'Attr'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   39]: Morphological features must be sorted: 'Number=Sing|Case=Nom|Definite=Ind'
+[Line                   40]: Unknown attribute-value pair Case=Prl
+[Line                   42]: Spurious sent_id line: '#sent_id storyIDВалскень гудок:paragID1:sentID1: pgNo="44"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   42]: Missing the sent_id attribute.
+[Line                   42]: SpaceAfter=No is missing in the MISC field of node #6 because the text is 'тропава, пек тусто р[...]'
+[Line                   42]: SpaceAfter=No is missing in the MISC field of node #11 because the text is 'юткова.'
+[Line                   46]: Morphological features must be sorted: 'Sem/Plc|Number=Sing,Plur|Case=Gen|Definite=Ind'
+[Line                   46]: Spurious morphological feature: 'Sem/Plc'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   46]: If an attribute has multiple values, these must be sorted as well: 'Number=Sing,Plur'
+[Line                   46]: Unknown UD DEPREL: nmod:poss
+[Line                   47]: Morphological features must be sorted: 'Number=Sing|Case=Nom|Definite=Def'
+...suppressing further errors regarding Morpho
+[Line                   48]: Unknown UD DEPREL: aux:neg
+[Line                   54]: Spurious sent_id line: '#sent_id storyIDВалскень гудок:paragID1:sentID2: pgNo="44"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   54]: Missing the sent_id attribute.
+[Line                   54]: SpaceAfter=No is missing in the MISC field of node #7 because the text is 'чипайсэнть.'
+[Line                   60]: Unknown UD DEPREL: nmod:poss
+[Line                   64]: Unknown UD DEPREL: nmod:poss
+[Line                   67]: Spurious sent_id line: '#sent_id storyIDВалскень гудок:paragID1:sentID3: pgNo="44"' Should look like '# sent_id = xxxxxx' where xxxx is not whitespace. Forward slash reserved for special purposes.
+[Line                   67]: Missing the sent_id attribute.
+[Line                   67]: SpaceAfter=No is missing in the MISC field of node #8 because the text is 'байгетне.'
+[Line                   68]: Missing empty line after the last tree.
+[Line                   68]: Exception caught!
+*** FAILED *** with 67 errors
+Format errors: 2
+Metadata errors: 10
+Morpho errors: 51
+Syntax errors: 4
+The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.myv does not exist.
+The language-specific file /home/ginter/UD_PROJHOOK/tools/data/feat_val.myv does not exist.
+python conllu-stats.py --catvals=langspec yourdata/*.conllu > /home/ginter/UD_PROJHOOK/tools/data/feat_val.myv
 
 
 ******************
@@ -1417,10 +1476,10 @@ UnboundLocalError: local variable 'cols' referenced before assignment
 [Line                   1128]: The line has 1 columns, but 10 are expected.
 [Line                   1128]: White space not allowed in the ID column: '3       »       »       _       _       _       2       punct   _       _'
 ...suppressing further errors regarding Format
-*** FAILED *** with 1817 errors
+*** FAILED *** with 1785 errors
 Format errors: 24
 Metadata errors: 409
-Morpho errors: 1275
+Morpho errors: 1243
 Syntax errors: 109
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.myv does not exist.
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/feat_val.myv does not exist.
@@ -1440,28 +1499,22 @@ UnboundLocalError: local variable 'cols' referenced before assignment
 
 
 
-[Line                   26]: Spurious morphological feature: 'Superl'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   26]: Unknown UPOS tag: Pcle
-[Line                   26]: Invalid UPOSTAG value Pcle
-[Line                   26]: Unknown UD DEPREL: advmod:superl
+[Line                   26]: Unknown UD DEPREL: advmod:sup
 [Line                   27]: Spurious morphological feature: 'Attr'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   27]: Unknown UPOS tag: A
-[Line                   28]: Unknown UPOS tag: CC
-[Line                   29]: Spurious morphological feature: 'Superl'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   29]: Unknown UPOS tag: Pcle
-[Line                   29]: Invalid UPOSTAG value Pcle
-[Line                   29]: Unknown UD DEPREL: advmod:superl
-[Line                   30]: Morphological features must be sorted: 'TV|Der/NomAct|N|Sg|Nom|Indef'
-[Line                   30]: Spurious morphological feature: 'TV'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   30]: Spurious morphological feature: 'Der/NomAct'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   30]: Spurious morphological feature: 'N'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   30]: Spurious morphological feature: 'Sg'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   30]: Spurious morphological feature: 'Nom'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   30]: Spurious morphological feature: 'Indef'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-[Line                   30]: Unknown UPOS tag: V
-[Line                   31]: Morphological features must be sorted: 'Sg|Gen|PxSg1'
-[Line                   31]: Spurious morphological feature: 'Sg'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
-...suppressing further errors regarding Morpho
+[Line                   29]: Unknown UD DEPREL: advmod:sup
+[Line                   30]: Morphological features must be sorted: 'Valency=2|VerbForm=Vnoun|Number=Sing|Case=Nom|Definite=Ind'
+[Line                   30]: Unknown attribute-value pair Valency=2
+[Line                   31]: Morphological features must be sorted: 'Number=Sing|Case=Gen|Number[psor]=Sing|Person[psor]=1'
+[Line                   31]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   31]: Unknown attribute-value pair Person[psor]=1
+[Line                   33]: Morphological features must be sorted: 'Valency=2|Der/Озь|VerbForm=Conv'
+[Line                   33]: Unknown attribute-value pair Valency=2
+[Line                   33]: Spurious morphological feature: 'Der/Озь'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   34]: Morphological features must be sorted: 'Ord|Number=Sing|Case=Nom|Definite=Ind'
+[Line                   34]: Spurious morphological feature: 'Ord'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
+[Line                   35]: Morphological features must be sorted: 'Number=Sing|Case=Nom|Number[psor]=Sing|Person[psor]=1'
+[Line                   35]: Unknown attribute-value pair Number[psor]=Sing
+[Line                   35]: Unknown attribute-value pair Person[psor]=1
 [Line                   37]: Missing the sent_id attribute.
 [Tree number 1 on line 26]: Mismatch between the text attribute and the FORM field. Form is 'Сех' but text is 'сех вадря ды сех вечкем...'
 [Tree number 1 on line 26]: Mismatch between the text attribute and the FORM field. Form is 'вадря' but text is 'сех вадря ды сех вечкема ...'
@@ -1474,7 +1527,13 @@ UnboundLocalError: local variable 'cols' referenced before assignment
 [Tree number 1 on line 26]: Mismatch between the text attribute and the FORM field. Form is 'кинигам' but text is 'вадря ды сех вечкема ялгам ...'
 [Tree number 1 on line 26]: Mismatch between the text attribute and the FORM field. Form is '.' but text is 'вадря ды сех вечкема ...'
 [Line                   37]: Extra characters at the end of the text attribute, not accounted for in the FORM fields: 'вадря ды сех вечкема ялгам туртов казезь васень кинигам'
+[Line                   44]: Morphological features must be sorted: 'PronType=Prs|Pl1|Case=Gen'
+[Line                   44]: Spurious morphological feature: 'Pl1'. Should be of the form attribute=value and must start with [A-Z0-9] and only contain [A-Za-z0-9].
 [Line                   44]: Unknown UD DEPREL: nmod:exist
+[Line                   45]: Unknown attribute-value pair AdvType=Temp
+[Line                   46]: Morphological features must be sorted: 'Valency=1|Mood=Ind|Tense=Pres|Number[subj]=Plur|Person[subj]=3'
+[Line                   46]: Unknown attribute-value pair Valency=1
+...suppressing further errors regarding Morpho
 [Line                   46]: Unknown UD DEPREL: cop:exist
 [Line                   47]: Unknown UD DEPREL: advmod:neg
 [Line                   49]: Unknown UD DEPREL: nmod:poss
@@ -1505,10 +1564,10 @@ UnboundLocalError: local variable 'cols' referenced before assignment
 [Tree number 12 on line 201]: HEAD == ID for 3
 [Line                   489]: Missing empty line after the last tree.
 [Line                   489]: Exception caught!
-*** FAILED *** with 913 errors
+*** FAILED *** with 878 errors
 Format errors: 5
 Metadata errors: 157
-Morpho errors: 684
+Morpho errors: 649
 Syntax errors: 67
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.myv does not exist.
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/feat_val.myv does not exist.
@@ -1598,10 +1657,10 @@ IndexError: list index out of range
 [Tree number 108 on line 1505]: HEAD == ID for 8
 [Line                   1724]: The line has 9 columns, but 10 are expected.
 [Line                   1739]: Exception caught!
-*** FAILED *** with 2932 errors
+*** FAILED *** with 2887 errors
 Format errors: 10
 Metadata errors: 529
-Morpho errors: 2299
+Morpho errors: 2254
 Syntax errors: 94
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/deprel.myv does not exist.
 The language-specific file /home/ginter/UD_PROJHOOK/tools/data/feat_val.myv does not exist.
