@@ -68,7 +68,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
   the persistent URL (handle.net) to the item; that is the URL that we want to publish on the UD website. At that moment the
   release is officially out and no changes to the data files are permitted (changes to metadata are possible if necessary,
   but this is done on demand only).
-* Update the title page of Universal Dependencies. Send out announcement to corpora@uib.no, ACL list etc.
+* Update the title page of Universal Dependencies. Send out announcement to ud@stp.lingfil.uu.se, corpora@uib.no, ACL list etc.
 * Upload the data to the search engines (SETS, PML-TQ, Kontext etc.)
 
 <small><code style='color:lightgrey'>
