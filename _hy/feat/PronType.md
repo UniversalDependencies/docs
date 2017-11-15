@@ -101,3 +101,13 @@ Note that Armenian make a distinction between proximal or first person (objects 
 * _այսչափ, այդչափ, այնչափ&nbsp;_ “this much, that much, so much”
 * _այստեղ, այդտեղ, այնտեղ&nbsp;_ “here, there, there”
 * _մյուս&nbsp;_ “another”
+
+### <a name="Emp">`Emp`</a>: emphatic pronoun or determiner
+
+As emphatic pro-adjectives (determiners) this emphasize the nominal they depend on. There are similarities with personal, reflexive and possessive pronouns / determiners.
+
+See also the related feature [possessor]().
+
+#### Examples
+
+* _ինքը, ինքները/իրենք&nbsp;_ “himself, themselves” as in _Նախագահն <b>ինքը</b> եկավ դա տեսնելու։_ “President <b>himself</b> came to see it.”
