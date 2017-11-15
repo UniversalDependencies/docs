@@ -85,3 +85,19 @@ Article is a special case of determiner that bears the feature of
 #### Examples
 
 * _մի&nbsp;_ “a/an”
+
+### <a name="Dem">`Dem`</a>: demonstrative pronoun, determiner or adverb
+
+Note that Armenian make a distinction between proximal or first person (objects near to the speaker), medial or second person (objects near to the addressee), and distal or third person (objects far from both) demonstratives. We do not distinguish a separate feature of distance.
+
+#### Examples
+
+* _սա, դա, նա&nbsp;_ “this, that, that”
+* _այս, այդ այն&nbsp;_ “this, that, that”
+* _սույն, նույն, միևնույն&nbsp;_ “this, same, same one”
+* _այսպիսի, այդպիսի, այնպիսի, նույնպիսի&nbsp;_ “such, such (medial), such (distal), same”
+* _այսպես, այդպես, այնպես, նույնպես&nbsp;_ “this way, that way (medial), that wey, same way”
+* _այսքան, այդքան, այնքան&nbsp;_ “this many, that many, so many”
+* _այսչափ, այդչափ, այնչափ&nbsp;_ “this much, that much, so much”
+* _այստեղ, այդտեղ, այնտեղ&nbsp;_ “here, there, there”
+* _մյուս&nbsp;_ “another”
