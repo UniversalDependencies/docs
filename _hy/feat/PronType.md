@@ -68,8 +68,8 @@ distinguished by the [Poss]() feature. Interrogative determiners can be used as 
 
 ### <a name="Rel">`Rel`</a>: relative pronoun or determiner or adverb
 
-Note that this class heavily overlaps with
-interrogatives, yet there are pronouns that are only relative.
+All pronouns and determiners that mark the beginning of a [relative clause](acl-relcl) have this feature. 
+Note that this class overlaps with interrogatives. There are no pronouns that are only relative.
 
 ### <a name="Rcp">`Rcp`</a>: reciprocal pronoun
 
