@@ -11,7 +11,6 @@ udver: '2'
   <td><a href="#Art">Art</a></td>
   <td><a href="#Dem">Dem</a></td>
   <td><a href="#Emp">Emp</a></td>
-  <td><a href="#Exc">Exc</a></td>
   <td><a href="#Ind">Ind</a></td>
   <td><a href="#Int">Int</a></td>
   <td><a href="#Neg">Neg</a></td>
@@ -43,7 +42,7 @@ personal/possessive pronouns (e.g. _իրեն / իր&nbsp;_ see the
 ### <a name="Int">`Int`</a>: interrogative pronoun, determiner or adverb
 
 Note that possessive interrogative determiners (_whose_) can be
-distinguished by the [Poss]() feature.
+distinguished by the [Poss]() feature. Interrogative determiners can be used as exclamatives with exclamation mark or stress. We dont distinguish them.
 
 #### Examples: 
 
@@ -66,6 +65,11 @@ distinguished by the [Poss]() feature.
 * _ե՞րբ&nbsp;_ “when”
 * _ինչպե՞ս&nbsp;_ “how”
 * _ինչո՞ւ&nbsp;_ “why”
+
+### <a name="Rel">`Rel`</a>: relative pronoun or determiner or adverb
+
+Note that this class heavily overlaps with
+interrogatives, yet there are pronouns that are only relative.
 
 ### <a name="Rcp">`Rcp`</a>: reciprocal pronoun
 
