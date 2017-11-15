@@ -79,8 +79,10 @@ cd /net/data ;
 tar xzf $path/release-2.1/ud-treebanks-v2.1.tgz ;
 mv ud-treebanks-v2.1 universal-dependencies-2.1 ;
 cd $HAMLEDT ;
-perl ./populate_ud21.pl
+perl ./populate_ud21.pl ;
 \# copy metadata to biblio
+\# add list of treebanks to $HAMLEDT/normalize/Makefile
+make qpmltq ;
 </code></small>
 
 ## Removing test data before release 2.0
