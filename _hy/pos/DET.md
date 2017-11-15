@@ -21,3 +21,6 @@ Note that an Armenian nominal usually allows one `DET` modifier, but there are o
 
 - possessive determiners: _իմ, քո, նրա, մեր, ձեր, նրանց, իրենց&nbsp;_ “my, your, his/her/its, our, your, their”
 - reflexive possessive determiner: _իր, իրենց&nbsp;_ “one's own, themselves”
+- demonstrative determiners: _այս&nbsp;_ as in _<b>Այս</b> մեքենան ես երեկ տեսել եմ։&nbsp;_ “I saw <b>this</b> car yesterday.”
+- interrogative determiners: _ո՞ր&nbsp;_ as in _<b>Ո՞ր</b> մեքենան ես հավանում։&nbsp;_ “<b>Which</b> car do you like?”
+- relative determiners: _որ&nbsp;_ as in _Զարմանում եմ, թե <b>որ</b> մեքենան ես հավանում։&nbsp;_ “I wonder <b>which</b> car you like.”
