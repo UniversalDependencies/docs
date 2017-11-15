@@ -25,6 +25,8 @@ See [here](release_checklist.html) for the checklist for data contributors.
   <code>for i in UD_* ; do echo $i ; cd $i ; ( cat *.conllu | ../tools/conllu-stats.pl > stats.xml ) ; git add stats.xml ; git commit -m 'Updated statistics.' ; git push ; cd .. ; echo ; done</code>
 * Run the same script again (but with different settings) and generate the long statistics that are displayed in the docs:<br />
   <code>cd docs ; git pull --no-edit ; cd .. ; for i in UD_* ; do echo $i ; tools/conllu-stats.pl --oformat newdetailed --treebank $i --docs docs ; echo ; done ; cd docs ; git add treebanks/*/*.md ; git commit -m 'Updated statistics.' ; git push ; cd ..</code>
+* Run two other scripts that generate the lists of language-specific features and dependency relation subtypes for the docs repository. Note that the first script does not directly rewrite the page in the docs repository, and its output is not a complete MarkDown source because it lacks the initial header. Therefore we must save the output in a text file, then open <code>docs/ext-feat-index.md</code> and copy the contents there. The second script, <code>survey_deprel_subtypes.pl</code>, accesses directly <code>docs/ext-dep-index.md</code>. Once the two files are updated, we must commit and push them to Github of course.<br />
+  <code>perl tools/survey_features.pl > features.txt ; perl tools/survey_deprel_subtypes.pl ; cd docs ; ...</code>
 * Merge the `dev` branch into `master` in every UD_* repository.
   The `master` branch should not be touched the next six months and it should have exactly the contents that was officially
   released. In fact, the individual data providers should never commit anything to the `master` branch, only to `dev` branch.
