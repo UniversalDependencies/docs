@@ -17,6 +17,11 @@ as a special subclass of [pronouns](PRON).
 
 Note that an Armenian nominal usually allows one `DET` modifier, but there are occasional cases of _addeterminers_, which appear outside the usual determiner, such as _այս_ in _<b>այս</b> բոլոր հարցերը&nbsp;_ “all <b>these</b> questions.” In such cases, both _այս&nbsp;_ “these” and _բոլոր&nbsp;_ “all” are given the POS `DET`.
 
-
 ### Examples
 
+- possessive determiners: _իմ, քո, նրա, մեր, ձեր, նրանց, իրենց&nbsp;_ “my, your, his/her/its, our, your, their”
+- reflexive possessive determiners: _իր, իրենց&nbsp;_ “one's own, themselves”
+- demonstrative determiners: _այս&nbsp;_ as in _<b>Այս</b> մեքենան ես երեկ տեսել եմ։&nbsp;_ “I saw <b>this</b> car yesterday.”
+- interrogative determiners: _ո՞ր&nbsp;_ as in _<b>Ո՞ր</b> մեքենան ես հավանում։&nbsp;_ “<b>Which</b> car do you like?”
+- relative determiners: _որ&nbsp;_ as in _Հետաքրքիր է՝ <b>որ</b> մեքենան ես հավանում։&nbsp;_ “I wonder <b>which</b> car you like.”
+- relative possessive determiners: _ում, որի&nbsp;_ “whose”

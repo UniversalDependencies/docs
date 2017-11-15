@@ -25,6 +25,8 @@ See [here](release_checklist.html) for the checklist for data contributors.
   <code>for i in UD_* ; do echo $i ; cd $i ; ( cat *.conllu | ../tools/conllu-stats.pl > stats.xml ) ; git add stats.xml ; git commit -m 'Updated statistics.' ; git push ; cd .. ; echo ; done</code>
 * Run the same script again (but with different settings) and generate the long statistics that are displayed in the docs:<br />
   <code>cd docs ; git pull --no-edit ; cd .. ; for i in UD_* ; do echo $i ; tools/conllu-stats.pl --oformat newdetailed --treebank $i --docs docs ; echo ; done ; cd docs ; git add treebanks/*/*.md ; git commit -m 'Updated statistics.' ; git push ; cd ..</code>
+* Run two other scripts that generate the lists of language-specific features and dependency relation subtypes for the docs repository. Note that the first script does not directly rewrite the page in the docs repository, and its output is not a complete MarkDown source because it lacks the initial header. Therefore we must save the output in a text file, then open <code>docs/ext-feat-index.md</code> and copy the contents there. The second script, <code>survey_deprel_subtypes.pl</code>, accesses directly <code>docs/ext-dep-index.md</code>. Once the two files are updated, we must commit and push them to Github of course.<br />
+  <code>perl tools/survey_features.pl > features.txt ; perl tools/survey_deprel_subtypes.pl ; cd docs ; ...</code>
 * Merge the `dev` branch into `master` in every UD_* repository.
   The `master` branch should not be touched the next six months and it should have exactly the contents that was officially
   released. In fact, the individual data providers should never commit anything to the `master` branch, only to `dev` branch.
@@ -46,14 +48,14 @@ See [here](release_checklist.html) for the checklist for data contributors.
     Note that this is archiving the MarkDown _source code_ of the documentation. See below for archiving the corresponding HTML.
   * The surface form of documentation (i.e. the web content visible to the reader) is automatically generated in a separate Github repository. WARNING! Many folders contain generated files `AUX.html` and `aux.html` (besides `AUX_.html` and `aux_.html`). These should _not_ be included in the package because that might prevent people from unpacking it in MS Windows (although some unpacking programs, like 7zip, will be able to overcome this by simply renaming the file to `_aux.html` before unpacking it). Note furthermore that we currently cannot force Jekyll (the page generator) to make all hyperlinks relative in order for the pages to work well offline. Many hyperlinks will be broken when viewing the pages, and the user will have to open individual pages from the file manager instead. However, it may still be useful to provide the HTML rendering, especially because of the embedded tree visualizations.
 * Make the release packages temporarily available for download somewhere and ask the treebank providers to check them before we archive them in Lindat.
-* Tag the current commit in all repositories with the tag of the current release (`git tag r2.0` for UD 2.0).
+* Tag the current commit in all repositories with the tag of the current release (`git tag r2.1` for UD 2.1).
   Push the tag to Github: `git push origin --tags`.
-  You may even tag a particular commit retroactively: `git tag -a r2.0 9fceb02`.
+  You may even tag a particular commit retroactively: `git tag -a r2.1 9fceb02`.
   If the repository is updated after you assigned the tag and you need to re-assign the tag to a newer commit,
-  this is how you remove the tag from where it is now: `git tag -d r2.0`.
-  And this is how you remove it from Github: `git push origin :refs/tags/r2.0`.
+  this is how you remove the tag from where it is now: `git tag -d r2.1`.
+  And this is how you remove it from Github: `git push origin :refs/tags/r2.1`.
   WARNING: The following command tags all UD repositories, including those that are not part of the current release.<br />
-  <code>for i in UD_* docs tools ; do echo $i ; cd $i ; git tag r2.0 ; git push --tags ; cd .. ; echo ; done</code>
+  <code>for i in UD_* docs tools ; do echo $i ; cd $i ; git tag r2.1 ; git push --tags ; cd .. ; echo ; done</code>
 * Update the list of licenses for Lindat. See the [LICENSE repository](https://github.com/UniversalDependencies/LICENSE).
   Send the new list to Lindat so they add it to their menu (they like to get it as a diff file against the previous license;
   they can be reached at lindat-help@ufal.mff.cuni.cz).
@@ -68,17 +70,19 @@ See [here](release_checklist.html) for the checklist for data contributors.
   the persistent URL (handle.net) to the item; that is the URL that we want to publish on the UD website. At that moment the
   release is officially out and no changes to the data files are permitted (changes to metadata are possible if necessary,
   but this is done on demand only).
-* Update the title page of Universal Dependencies. Send out announcement to corpora@uib.no, ACL list etc.
+* Update the title page of Universal Dependencies. Send out announcement to ud@stp.lingfil.uu.se, corpora@uib.no, ACL list etc.
 * Upload the data to the search engines (SETS, PML-TQ, Kontext etc.)
 
 <small><code style='color:lightgrey'>
 path=$(pwd) ;
 cd /net/data ;
-tar xzf $path/release-2.0/ud-treebanks-v2.0.tgz ;
-mv ud-treebanks-v2.0 universal-dependencies-2.0 ;
+tar xzf $path/release-2.1/ud-treebanks-v2.1.tgz ;
+mv ud-treebanks-v2.1 universal-dependencies-2.1 ;
 cd $HAMLEDT ;
-perl ./populate_ud20.pl
+perl ./populate_ud21.pl ;
 \# copy metadata to biblio
+\# add list of treebanks to $HAMLEDT/normalize/Makefile
+make qpmltq ;
 </code></small>
 
 ## Removing test data before release 2.0

@@ -77,7 +77,9 @@ MarkDown uses the `#` character to mark section headings. Several sections with 
 and will be searched for by various scripts. Use the following template (from Swedish) to adjust your `README`.
 The first section, called _Summary_, should be rather short (one-two lines), so it can appear in an index page listing all
 treebanks. An automatically generated treebank page in the UD documentation will take over the sections _Summary, Introduction_
-and _Acknowledgments._
+and _Acknowledgments._ Note that the pre-defined section headings must be top-level headings, i.e. just one `#` character
+at the beginning of the line! Any nested subsections (two or more `#` characters at the beginning of the line) are considered part
+of the superordinate section and will be copied with it.
 
 <pre>
 # Summary

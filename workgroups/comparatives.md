@@ -674,6 +674,24 @@ In general, we treat whatever remnant that remains as still an [advcl]():
 
 “Your hair is more pink than how pink it ever was.”
 
+In the following Russian [ru] example, the standard of comparison is missing completely and the partially reduced adverbial clause quantifies the difference:
+
+“the bigger surface, the bigger friction”
+
+~~~ conllu
+# 2011Nano.xml 71
+# text = При уменьшении размера растет отношение площади поверхности к объему, а чем больше поверхность, тем больше трение.
+# sent_id = 28605
+1	чем	чем	SCONJ	_	_	2	mark	_	Translit=čem|Gloss=the
+2	больше	большой	ADJ	_	Degree=Cmp	6	advcl	_	Translit=bol'še|Gloss=bigger
+3	поверхность	поверхность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	Translit=poverxnost'|Gloss=surface|SpaceAfter=No
+4	,	,	PUNCT	_	_	2	punct	_	Translit=,|Gloss=,
+5	тем	тем	SCONJ	_	_	6	mark	_	Translit=tem|Gloss=the
+6	больше	большой	ADJ	_	Degree=Cmp	0	root	_	Translit=bol'še|Gloss=bigger
+7	трение	трение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	Translit=trenie|Gloss=friction|SpaceAfter=No
+
+~~~
+
 However, a limiting case of this is that only a nominal is present:
 
 * _as important as a player's talent_

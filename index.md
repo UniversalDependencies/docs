@@ -46,13 +46,14 @@ If you want to receive news about Universal Dependencies, you can subscribe to t
 
 The data is released through LINDAT/CLARIN.
 
-* Version 2.0 treebanks are available at <a href="http://hdl.handle.net/11234/1-1983">http://hdl.handle.net/11234/1-1983</a>. 70 treebanks, 50 languages, released March 1, 2017.
-  * Test data 2.0 are available at <a href="http://hdl.handle.net/11234/1-2184">http://hdl.handle.net/11234/1-2184</a>, released May 18, 2017.
+* Version 2.1 treebanks are available at <a href="http://hdl.handle.net/11234/1-2515">http://hdl.handle.net/11234/1-2515</a>. 102 treebanks, 60 languages, released November 15, 2017.
+* Version 2.0 treebanks are archived at http://hdl.handle.net/11234/1-1983. 70 treebanks, 50 languages, released March 1, 2017.
+  * Test data 2.0 are archived at http://hdl.handle.net/11234/1-2184. 81 treebanks, 49 languages, released May 18, 2017.
 * Version 1.4 treebanks are archived at http://hdl.handle.net/11234/1-1827. 64 treebanks, 47 languages, released November 15, 2016.
 * Version 1.3 treebanks are archived at http://hdl.handle.net/11234/1-1699. 54 treebanks, 40 languages, released May 15, 2016.
-* Version 1.2 treebanks are archived at http://hdl.handle.net/11234/1-1548. 37 treebanks, 33 languages, released Nov 15, 2015.
+* Version 1.2 treebanks are archived at http://hdl.handle.net/11234/1-1548. 37 treebanks, 33 languages, released November 15, 2015.
 * Version 1.1 treebanks are archived at http://hdl.handle.net/11234/LRT-1478. 19 treebanks, 18 languages, released May 15, 2015.
-* Version 1.0 treebanks are archived at http://hdl.handle.net/11234/1-1464. 10 treebanks, 10 languages, released Jan 15, 2015.
-* In general, we intend to have regular treebank releases every six months. The v2.0 release was brought forward because of its usage in the [CoNLL 2017 Multilingual Parsing Shared Task](http://universaldependencies.org/conll17/).
-* The next release (v2.1) is scheduled for Nov 15, 2017.
+* Version 1.0 treebanks are archived at http://hdl.handle.net/11234/1-1464. 10 treebanks, 10 languages, released January 15, 2015.
+* In general, we intend to have regular treebank releases every six months. The v2.0 and v2.2 releases are brought forward because of their usage in the [CoNLL 2017 and 2018 Multilingual Parsing Shared Tasks](http://universaldependencies.org/conll17/).
+* The next release (v2.2) is scheduled for March 1, 2018.
 
