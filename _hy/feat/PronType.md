@@ -123,3 +123,12 @@ See also the related feature [possessor]().
 * _ամբողջ(ը)&nbsp;_ “all”
 * _համայն&nbsp;_ “all, whole”
 * _ամենյան&nbsp;_ “all, every”
+
+### <a name="Neg">`Neg`</a>: negative pronoun, determiner or adverb
+
+#### Examples
+
+* _ոչ ոք&nbsp;_ “nobody”
+* _ոչինչ&nbsp;_ “nothing”
+* _ոչ մեկը&nbsp;_ “no one”
+* _ոչ մի&nbsp;_ “no”
