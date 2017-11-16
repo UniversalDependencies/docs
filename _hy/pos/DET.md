@@ -26,3 +26,4 @@ Note that an Armenian nominal usually allows one `DET` modifier, but there are o
 - relative determiners: _որ&nbsp;_ as in _Հետաքրքիր է՝ <b>որ</b> մեքենան ես հավանում։&nbsp;_ “I wonder <b>which</b> car you like.”
 - relative possessive determiners: _ում, որի&nbsp;_ “whose”
 - total determiners: _ամեն, ամեն մի, բոլոր, յուրաքանչյուր, ողջ, ամբողջ, համայն, ամենյան;_ “every, each, all, each, whole, all, whole, all”
+- negative determiners: _ոչ մի&nbsp;_ “no”
