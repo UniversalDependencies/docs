@@ -98,7 +98,7 @@ See also the related feature [possessor]().
 
 #### Examples
 
-* _ինքը, իրենք&nbsp;_ “(he) himself, (they) themselves” as in _Նախագահն <b>ինքը</b> եկավ դա տեսնելու։_ “President <b>himself</b> came to see it.”
+* _ինքը, ինքները, իրենք/&nbsp;_ “(he) himself, (they) themselves” as in _Նախագահն <b>ինքը</b> եկավ դա տեսնելու։_ “President <b>himself</b> came to see it.”
 
 ### <a name="Tot">`Tot`</a>: total (collective) pronoun or determiner
 
