@@ -111,3 +111,26 @@ See also the related feature [possessor]().
 #### Examples
 
 * _ինքը, իրենք&nbsp;_ “(he) himself, (they) themselves” as in _Նախագահն <b>ինքը</b> եկավ դա տեսնելու։_ “President <b>himself</b> came to see it.”
+
+### <a name="Tot">`Tot`</a>: total (collective) pronoun or determiner
+
+#### Examples
+
+* _ամեն(ը)&nbsp;_ “every, each, all (of things)”
+* _բոլոր(ը)&nbsp;_ “all (of people)”
+* _յուրաքանչյուր(ը)&nbsp;_ “each (one)”
+* _ողջ(ը) &nbsp;_ “whole”
+* _ամբողջ(ը)&nbsp;_ “all”
+* _համայն&nbsp;_ “all, whole”
+* _ամենյան&nbsp;_ “all, every”
+
+### <a name="Neg">`Neg`</a>: negative pronoun or determiner
+
+Negative pronominal words are distinguished from negating [particles](PART) and from words that inflect for polarity (verbs, adjectives etc.) Those words do not use `PronType=Neg`, they use `Polarity=Neg` instead. See the [Polarity](Polarity) feature for further details.
+
+#### Examples
+
+* _ոչ ոք&nbsp;_ “nobody”
+* _ոչինչ&nbsp;_ “nothing”
+* _ոչ մեկը&nbsp;_ “no one”
+* _ոչ մի&nbsp;_ “no”
