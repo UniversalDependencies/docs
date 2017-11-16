@@ -124,7 +124,7 @@ See also the related feature [possessor]().
 * _համայն&nbsp;_ “all, whole”
 * _ամենյան&nbsp;_ “all, every”
 
-### <a name="Neg">`Neg`</a>: negative pronoun, determiner or adverb
+### <a name="Neg">`Neg`</a>: negative pronoun or determiner
 
 #### Examples
 
