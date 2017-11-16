@@ -126,6 +126,8 @@ See also the related feature [possessor]().
 
 ### <a name="Neg">`Neg`</a>: negative pronoun or determiner
 
+Negative pronominal words are distinguished from negating [particles](PART) and from words that inflect for polarity (verbs, adjectives etc.) Those words do not use `PronType=Neg`, they use `Polarity=Neg` instead. See the [Polarity](Polarity) feature for further details.
+
 #### Examples
 
 * _ոչ ոք&nbsp;_ “nobody”
