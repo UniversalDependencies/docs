@@ -28,14 +28,17 @@ Questions, comments?
 General annotation questions (either Persian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Persian/issues).
 If you want to collaborate, please contact [mojgan&nbsp;•&nbsp;seraji96&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com].
+Development of the treebank happens outside the UD repository.
+If there are bugs, either the original data source or the conversion procedure must be fixed.
+Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
-| XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Lemmas | annotated manually in non-UD style, automatically converted to UD |
+| UPOS | annotated manually in non-UD style, automatically converted to UD |
+| XPOS | annotated manually |
+| Features | annotated manually in non-UD style, automatically converted to UD |
+| Relations | annotated manually in non-UD style, automatically converted to UD |
 
 ## Description
 The Persian Universal Dependency Treebank (Persian UD) is based on Uppsala Persian Dependency Treebank (UPDT). The conversion of the UPDT to the Universal Dependencies was performed semi-automatically with extensive manual checks and corrections.
@@ -48,6 +51,8 @@ Apart from the universal annotation scheme and the general rules in the UD, the 
 The conversion of the UPDT to the Universal Dependencies has been carried out semi-automatically. In this process, we used a conversion script for reversing the head and dependent relations in the prepositional modifier (prep) and object of a preposition (pobj). Furthermore, we have used other scripts tailored for Persian to separate different types of clitics from their host. Subsequently we added different rules for rewriting the coarse-grained part-of-speech tags and the dependency labels. Morphological features were then mapped semi-automatically. In the current release, lemmas are added for a large number of tokens. This process is further done semi-automatically. The entire process has been manually validated.
 
 ## Acknowledgments
+The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji in collaboration with Filip Ginter. The annotations (PoS tags and dependency relations) were manually checked and corrected by Mojgan Seraji. The universal morphological features and lemmas were further added by Mojgan. The process has been carried out in consultation with Joakim Nivre. The original UPDT was also developed by Mojgan Seraji at Uppsala University. Mojgan is deeply thankful to Joakim Nivre and Carina Jahani for their consultations during the development of the UPDT.
+
 
 # Statistics of UD Persian
 
