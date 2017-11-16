@@ -44,7 +44,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><tt><a href="fa-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fa-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="fa-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td>نکردید</td><td>نکردند</td></tr>
   <tr><td><tt><tt><a href="fa-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fa-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="fa-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td>نمی‌کنید</td><td>نمی‌کنند</td></tr>
   <tr><td><tt><tt><a href="fa-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fa-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="fa-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td></td><td>نکرده‌اند</td></tr>
-  <tr><td><tt><tt><a href="fa-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fa-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td>کردیم</td><td>کردید</td><td>کردند, می‌کردند, شدند, می‌شدند, کنند</td></tr>
+  <tr><td><tt><tt><a href="fa-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fa-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td>کردیم</td><td>کردید</td><td>کردند, می‌کردند, شدند, کنند, می‌شدند</td></tr>
   <tr><td><tt><tt><a href="fa-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fa-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td>می‌کنیم</td><td>می‌کنید, می‌شوید, نمی‌کنید</td><td>می‌کنند, می‌شوند</td></tr>
   <tr><td><tt><tt><a href="fa-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fa-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td>کرده‌ایم</td><td></td><td>کرده‌اند</td></tr>
 </table>

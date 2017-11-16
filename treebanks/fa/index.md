@@ -34,10 +34,10 @@ Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | annotated manually in non-UD style, automatically converted to UD |
+| Lemmas | annotated manually, natively in UD style |
 | UPOS | annotated manually in non-UD style, automatically converted to UD |
 | XPOS | annotated manually |
-| Features | annotated manually in non-UD style, automatically converted to UD |
+| Features | annotated manually, natively in UD style |
 | Relations | annotated manually in non-UD style, automatically converted to UD |
 
 ## Description
