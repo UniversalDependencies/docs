@@ -134,3 +134,16 @@ Negative pronominal words are distinguished from negating [particles](PART) and 
 * _ոչինչ&nbsp;_ “nothing”
 * _ոչ մեկը&nbsp;_ “no one”
 * _ոչ մի&nbsp;_ “no”
+
+### <a name="Ind">`Ind`</a>: indefinite pronoun, determiner or adverb
+
+#### Examples
+
+* _ինչ-որ&nbsp;_ “some (of one thing)”, _ինչ-ինչ&nbsp;_ “some (of many thing)”
+* _մի քանի&nbsp;_ “several”, _մի քանիսը&nbsp;_ “several people”, _որոշ&nbsp;_ “definite”
+* _մեկը&nbsp;_ “one”, _մեկնումեկը&nbsp;_ “someone”, _մի&nbsp;_ “some, several”
+* _ոմն&nbsp;_ “someone”, _ոմանք&nbsp;_ “some people”
+* _ուրիշ&nbsp;_ “another”, _ուրիշը&nbsp;_ “somebody”, _այլ&nbsp;_ “other”
+* _որևէ, որևիցե&nbsp;_ “one or another”
+* _այսինչ, այնինչ&nbsp;_ “such”
+* _երբևէ, երբևիցե&nbsp;_ “sometime”
