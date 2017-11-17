@@ -17,7 +17,7 @@ Possessives may have two different numbers: that of the possessed object (number
 agreement with modified noun) and that of the possessor. The
 `PossNumber` feature captures the possessor's number. 
 
-Nothe that in traditional Armenian grammars besides the definite article, possessive, demonstrative and personal articles are distinguished.
+Nothe that in traditional Armenian grammars besides the definite article, possessive, demonstrative and personal articles are distinguished. Last thres make a distinction between the objects, that are near to the speaker (proximal, first person), near to the addressee (second person), and far from both (third person) or are with them (possesive).
 
 See also the relatived feature [PossPerson]().
 
