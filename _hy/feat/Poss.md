@@ -29,6 +29,6 @@ means that empty value has the `No` meaning.)
 #### Examples
 
 * possessive personal determiners: _իմ, քո, նրա, մեր, ձեր, նրանց, իրենց&nbsp;_ “my, your, his/her/its, our, your, their”
-* possessive reflexive determiner: _իր, իրենց&nbsp;_“one’s own, themselves”
-* possessive relative determinerս: _ում, որի&nbsp;_“whose”
+* possessive reflexive determiners: _իր, իրենց&nbsp;_ “one’s own, themselves”
+* possessive relative determiners: _ում, որի&nbsp;_ “whose”
 * possessive nouns: _հայրիկինը&nbsp;_ “father's”, _մայրիկինը&nbsp;_ “mother's”, _սեղանինը&nbsp;_ “of table”
