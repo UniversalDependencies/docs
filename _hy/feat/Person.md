@@ -15,10 +15,12 @@ udver: '2'
 </table>
 
 Person is a feature of personal and possessive
-[pronouns](PRON), and of [verbs](VERB). On verbs it is in
+[pronouns](PRON), [determiners](DET), [auxiliaries](AUX) and of [verbs](VERB). On verbs it is in
 fact an agreement feature that marks the person of the verb's subject. Person
 marked on verbs makes it unnecessary to always add a personal pronoun
 as subject and thus subjects are sometimes dropped (Armenian is a pro-drop language).
+
+We also apply the feature [PossPerson]() to denote the person of the possessor on nominal or pronominal elements.
 
 ### <a name="1">`1`</a>: first person
 
@@ -28,8 +30,8 @@ persons.
 
 #### Examples
 
-* _անում <b>եմ</b>&nbsp;_ “<b>I</b> do”
-* _անում <b>ենք</b>&nbsp;_ “<b>we</b> do”
+* _<b>անեմ</b>&nbsp;_ “<b>I</b> do”
+* _<b>անենք</b>&nbsp;_ “<b>we</b> do”
 
 ### <a name="2">`2`</a>: second person
 
@@ -39,8 +41,8 @@ optionally some third persons too.
 
 #### Examples
 
-* _անում <b>ես</b>&nbsp;_ “<b>you</b>.`Sing` do”
-* _անում <b>եք</b>&nbsp;_ “<b>you</b>.`Plur` do”
+* _<b>անես</b>&nbsp;_ “<b>you</b>.`Sing` do”
+* _<b>անեք</b>&nbsp;_ “<b>you</b>.`Plur` do”
 
 ### <a name="3">`3`</a>: third person
 
@@ -49,5 +51,5 @@ speakers nor addressees.
 
 #### Examples
 
-* _անում <b>է</b>&nbsp;_ “<b>he/she/it does</b>”
-* _անում <b>եմ</b>&nbsp;_ “<b>they</b> do”
+* _<b>անի</b>&nbsp;_ “<b>he/she/it does</b>”
+* _<b>անեն</b>&nbsp;_ “<b>they</b> do”
