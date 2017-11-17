@@ -37,7 +37,7 @@ personal/possessive pronouns (e.g. _իրեն / իր&nbsp;_ see the
 * _ես, դու, նա, մենք, դուք, նրանք&nbsp;_ “I, you, he/she/it, we, you, they”
 * _իմ, քո, նրա, մեր, ձեր, նրանց&nbsp;_ “my, your, his/her/its, our, your, their”
 * _ինձ, քեզ, իրեն, մեզ, ձեզ, իրենց&nbsp;_ “myself, yourself, oneself, ourselves, yourselves, themselves”
-* _իր, իրենց&nbsp;_ “one's own, themselves”
+* _իր, իրենց&nbsp;_ “one's own, their own”
 
 ### <a name="Int">`Int`</a>: interrogative pronoun, determiner or adverb
 
