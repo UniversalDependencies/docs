@@ -25,7 +25,7 @@ See also the relatived feature [PossPerson]().
 
 #### Examples
 
-* _տուն<b>ս</b>_ “<b>my</b> hous” `PossNumber=Sing|Number=Sing`
+* _տուն<b>ս</b>_ “<b>my</b> house” `PossNumber=Sing|Number=Sing`
 * _տներ<b>ս</b>_ “<b>my</b> houses” `PossNumber=Sing|Number=Plur`
 * _գալ<b>ս</b>_ “<b>my</b> coming” `PossNumber=Sing`
 * _ինք<b>ս</b>_ “<b>I myself</b>” `PossNumber=Sing|Number=Sing`
