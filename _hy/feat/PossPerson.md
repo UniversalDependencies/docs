@@ -42,7 +42,7 @@ See also the relatived feature [PossNumber]().
 * _տուն<b>դ</b>_ “<b>your.SING</b> hous” `PossPerson=2|PossNumber=Sing|Number=Sing`
 * _տներ<b>դ</b>_ “<b>your.SING</b> houses” `PossPerson=2|PossNumber=Sing|Number=Plur`
 * _գալ<b>դ</b>_ “<b>your.SING</b> coming” `PossPerson=2|PossNumber=Sing`
-* _(դու) ուսուցիչ<b>դ</b>_ “<b>You</b>.SING the teacher” or “<b>your.SING</b> teacher” `PossPerson=2|Number=Sing` օր `PossPerson=2|PossNumber=Sing|Number=Sing`
+* _(դու) ուսուցիչ<b>դ</b>_ “<b>You.SING</b> the teacher” or “<b>your.SING</b> teacher” `PossPerson=2|Number=Sing` օր `PossPerson=2|PossNumber=Sing|Number=Sing`
 * _ինք<b>դ</b>_ “<b>you.SING yourself</b>” `PossPerson=2|PossNumber=Sing|Number=Sing`
 * _հետ<b>դ</b>_ “with <b>you.SING</b>” `PossPerson=2|PossNumber=Sing`
 
