@@ -14,7 +14,7 @@ In Armenian, reflexive pronouns do not have various functions:
 Reflexive object of a verb means that the object is the same entity as the subject:
 
 - _Արմենն <b>իրեն</b> մեքենա է գնել։&nbsp;_ = “Armen bought <b>himself</b> a car.” vs.
-- _Արմենը նրան մեքենա է գնել։&nbsp;_ = “Jan bought him [someone else] a car.”
+- _Արմենը նրան մեքենա է գնել։&nbsp;_ = “Armen bought him [someone else] a car.”
 
 Reflexive possessives indicate that the subject of the clause is the possessor:
 
@@ -30,4 +30,4 @@ column. (Which means that empty value has the `No` meaning.)
 #### Examples
 
 * reflexive personal pronouns: _ինձ, քեզ, իրեն, մեզ, ձեզ, իրենց_ (occurs in various cases but not in nominative and distinguish [Number]())
-* reflexive possessive determiner: _իր, իրենց_
+* reflexive possessive determiners: _իր, իրենց_
