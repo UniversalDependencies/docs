@@ -39,12 +39,12 @@ See also the relatived feature [PossNumber]().
 
 #### Examples
 
-* _տուն<b>դ</b>_ “<b>your.SING</b> hous” `PossPerson=2|PossNumber=Sing|Number=Sing`
-* _տներ<b>դ</b>_ “<b>your.SING</b> houses” `PossPerson=2|PossNumber=Sing|Number=Plur`
-* _գալ<b>դ</b>_ “<b>your.SING</b> coming” `PossPerson=2|PossNumber=Sing`
-* _(դու) ուսուցիչ<b>դ</b>_ “<b>You.SING</b> the teacher” or “<b>your.SING</b> teacher” `PossPerson=2|Number=Sing` օր `PossPerson=2|PossNumber=Sing|Number=Sing`
-* _ինք<b>դ</b>_ “<b>you.SING yourself</b>” `PossPerson=2|PossNumber=Sing|Number=Sing`
-* _հետ<b>դ</b>_ “with <b>you.SING</b>” `PossPerson=2|PossNumber=Sing`
+* _տուն<b>դ</b>_ “<b>your</b>.`Sing` hous” `PossPerson=2|PossNumber=Sing|Number=Sing`
+* _տներ<b>դ</b>_ “<b>your</b>.`Sing` houses” `PossPerson=2|PossNumber=Sing|Number=Plur`
+* _գալ<b>դ</b>_ “<b>your</b>.`Sing` coming” `PossPerson=2|PossNumber=Sing`
+* _(դու) ուսուցիչ<b>դ</b>_ “<b>You</b>.`Sing` the teacher” or “<b>your</b>.`Sing` teacher” `PossPerson=2|Number=Sing` օր `PossPerson=2|PossNumber=Sing|Number=Sing`
+* _ինք<b>դ</b>_ “<b>you</b>.`Sing` <b>yourself</b>” `PossPerson=2|PossNumber=Sing|Number=Sing`
+* _հետ<b>դ</b>_ “with <b>you</b>.`Sing`” `PossPerson=2|PossNumber=Sing`
 
 ### <a name="3">`3`</a>: third person possessor
 
