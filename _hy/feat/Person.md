@@ -15,7 +15,7 @@ udver: '2'
 </table>
 
 Person is a feature of personal and possessive
-[pronouns](PRON), [determiners](DET), [auxiliaries](AUX) and of [verbs](VERB). On verbs it is in
+[pronouns](PRON), [determiners](DET), and of [auxiliaries](AUX) and [verbs](VERB). On verbs it is in
 fact an agreement feature that marks the person of the verb's subject. Person
 marked on verbs makes it unnecessary to always add a personal pronoun
 as subject and thus subjects are sometimes dropped (Armenian is a pro-drop language).
@@ -30,8 +30,8 @@ persons.
 
 #### Examples
 
-* _<b>անեմ</b>&nbsp;_ “<b>I</b> do”
-* _<b>անենք</b>&nbsp;_ “<b>we</b> do”
+* _<b>անեմ</b>&nbsp;_ “<b>I</b> do.`Cnd`”
+* _<b>անենք</b>&nbsp;_ “<b>we</b> do.`Cnd`”
 
 ### <a name="2">`2`</a>: second person
 
@@ -41,8 +41,8 @@ optionally some third persons too.
 
 #### Examples
 
-* _<b>անես</b>&nbsp;_ “<b>you</b>.`Sing` do”
-* _<b>անեք</b>&nbsp;_ “<b>you</b>.`Plur` do”
+* _<b>անես</b>&nbsp;_ “<b>you</b>.`Sing` do.`Cnd`”
+* _<b>անեք</b>&nbsp;_ “<b>you</b>.`Plur` do.`Cnd`”
 
 ### <a name="3">`3`</a>: third person
 
@@ -51,5 +51,5 @@ speakers nor addressees.
 
 #### Examples
 
-* _<b>անի</b>&nbsp;_ “<b>he/she/it does</b>”
-* _<b>անեն</b>&nbsp;_ “<b>they</b> do”
+* _<b>անի</b>&nbsp;_ “<b>he/she/it does</b>.`Cnd`”
+* _<b>անեն</b>&nbsp;_ “<b>they</b> do.`Cnd`”
