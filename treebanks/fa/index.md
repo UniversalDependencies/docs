@@ -38,7 +38,7 @@ Do not submit pull requests against the UD repository.
 | UPOS | annotated manually in non-UD style, automatically converted to UD |
 | XPOS | annotated manually |
 | Features | annotated manually, natively in UD style |
-| Relations | annotated manually in non-UD style, automatically converted to UD |
+| Relations | annotated manually, natively in UD style |
 
 ## Description
 The Persian Universal Dependency Treebank (Persian UD) is based on Uppsala Persian Dependency Treebank (UPDT). The conversion of the UPDT to the Universal Dependencies was performed semi-automatically with extensive manual checks and corrections.
