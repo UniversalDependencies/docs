@@ -31,7 +31,7 @@ See also the relatived feature [PossNumber]().
 * _գալ<b>ս</b>_ “<b>my</b> coming” `PossPerson=1|PossNumber=Sing`
 * _օրեր<b>ս</b>_ “in <b>this</b> days” `PossPerson=1|Number=Plur`
 * _քաղաք<b>ս</b>_ “<b>this</b> town” `PossPerson=1|Number=Sing`
-* _(ես) ուսուցիչ<b>ս</b>_ “I the teacher” or “<b>my</b> teacher” `PossPerson=1|Number=Sing` or `PossPerson=1||PossNumber=Sing|Number=Sing`
+* _(ես) ուսուցիչ<b>ս</b>_ “I the teacher” or “<b>my</b> teacher” `PossPerson=1|Number=Sing` or `PossPerson=1|PossNumber=Sing|Number=Sing`
 * _ինք<b>ս</b>_ “<b>I myself</b>” `PossPerson=1|PossNumber=Sing|Number=Sing`
 * _հետ<b>ս</b>_ “with <b>me</b>” `PossPerson=1|PossNumber=Sing`
 
@@ -42,7 +42,7 @@ See also the relatived feature [PossNumber]().
 * _տուն<b>դ</b>_ “<b>your.SING</b> hous” `PossPerson=2|PossNumber=Sing|Number=Sing`
 * _տներ<b>դ</b>_ “<b>your.SING</b> houses” `PossPerson=2|PossNumber=Sing|Number=Plur`
 * _գալ<b>դ</b>_ “<b>your.SING</b> coming” `PossPerson=2|PossNumber=Sing`
-* _(դու) ուսուցիչ<b>դ</b>_ “You.SING the teacher” or “<b>your.SING</b> teacher” `PossPerson=2|Number=Sing` օր `PossPerson=2||PossNumber=Sing|Number=Sing`
+* _(դու) ուսուցիչ<b>դ</b>_ “You.SING the teacher” or “<b>your.SING</b> teacher” `PossPerson=2|Number=Sing` օր `PossPerson=2|PossNumber=Sing|Number=Sing`
 * _ինք<b>դ</b>_ “<b>you.SING yourself</b>” `PossPerson=2|PossNumber=Sing|Number=Sing`
 * _հետ<b>դ</b>_ “with <b>you.SING</b>” `PossPerson=2|PossNumber=Sing`
 
