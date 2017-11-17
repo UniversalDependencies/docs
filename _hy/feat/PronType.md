@@ -70,6 +70,8 @@ Note that this class overlaps with interrogatives. There are no pronouns that ar
 Article is a special case of determiner that bears the feature of
 [definiteness](Definite). Note, that in Armenian `Def` value is marked directly on nouns.
 
+See also the related features [PossNumber]() and [PossPerson]().
+
 #### Examples
 
 * _մի&nbsp;_ “a/an”
@@ -94,11 +96,11 @@ Note that Armenian make a distinction between proximal or first person (objects 
 
 As emphatic pro-adjectives (determiners) this emphasize the nominal they depend on. There are similarities with personal, demonstratve, reflexive and possessive pronouns / determiners.
 
-See also the related feature [possessor]().
+See also the related features [PossNumber]() and [PossPerson]().
 
 #### Examples
 
-* _ինքը, ինքները, իրենք/&nbsp;_ “(he) himself, (they) themselves” as in _Նախագահն <b>ինքը</b> եկավ դա տեսնելու։_ “President <b>himself</b> came to see it.”
+* _ինքը, ինքները/իրենք&nbsp;_ “(he) himself, (they) themselves” as in _Նախագահն <b>ինքը</b> եկավ դա տեսնելու։_ “President <b>himself</b> came to see it.”
 
 ### <a name="Tot">`Tot`</a>: total (collective) pronoun or determiner
 
@@ -110,7 +112,7 @@ See also the related feature [possessor]().
 * _ողջ(ը) &nbsp;_ “whole”
 * _ամբողջ(ը)&nbsp;_ “all”
 * _համայն&nbsp;_ “all, whole”
-* _ամենյան&nbsp;_ “all, every”
+* _ամենայն&nbsp;_ “all, every”
 
 ### <a name="Neg">`Neg`</a>: negative pronoun or determiner
 
