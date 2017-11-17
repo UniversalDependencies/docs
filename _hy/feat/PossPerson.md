@@ -14,11 +14,11 @@ udver: '2'
 </tr>
 </table>
 
-PossPerson is possessor's person, marked e.g. on [nouns](NOUN), [emphatic pronouns/determiners](PronType), [infinitives](VerbForm), or [adpositions](ADP). These forms would be translated to English as possessive pronoun + noun.
+PossPerson is possessor's person, marked e.g. on [nouns](NOUN), [emphatic pronouns/determiners](PronType), [infinitives](VerbForm), or [adpositions](ADP). These forms would be translated in to English as possessive pronoun + noun.
 
 The `PossPerson` feature captures the possessor's person. We do not distinguish `PossPerson` for possessive pronouns, as they are actually identical to personal pronouns in the genitive case.
 
-Nothe that in traditional Armenian grammars besides the definite article, possessive, demonstrative and personal articles (suffixes) are distinguished. These make a distinction between the objects, that are near to the speaker (proximal, first person), near to the addressee (second person), and far from both (third person) or are possessed to them. We do not distinguish them as separate features.
+Note that in traditional Armenian grammars besides the definite article, possessive, demonstrative and personal articles (suffixes) are distinguished. These make a distinction between the objects, that are near to the speaker (proximal, first person), near to the addressee (second person), and far from both (third person) or are possessed to them. We do not distinguish them as separate features.
 
 See also the relatived feature [PossNumber]().
 
@@ -26,7 +26,7 @@ See also the relatived feature [PossNumber]().
 
 #### Examples
 
-* _տուն<b>ս</b>_ “<b>my</b> hous” `PossPerson=1|PossNumber=Sing|Number=Sing`
+* _տուն<b>ս</b>_ “<b>my</b> house” `PossPerson=1|PossNumber=Sing|Number=Sing`
 * _տներ<b>ս</b>_ “<b>my</b> houses” `PossPerson=1|PossNumber=Sing|Number=Plur`
 * _գալ<b>ս</b>_ “<b>my</b> coming” `PossPerson=1|PossNumber=Sing`
 * _օրեր<b>ս</b>_ “in <b>this</b> days” `PossPerson=1|Number=Plur`
@@ -39,7 +39,7 @@ See also the relatived feature [PossNumber]().
 
 #### Examples
 
-* _տուն<b>դ</b>_ “<b>your</b>.`Sing` hous” `PossPerson=2|PossNumber=Sing|Number=Sing`
+* _տուն<b>դ</b>_ “<b>your</b>.`Sing` house” `PossPerson=2|PossNumber=Sing|Number=Sing`
 * _տներ<b>դ</b>_ “<b>your</b>.`Sing` houses” `PossPerson=2|PossNumber=Sing|Number=Plur`
 * _գալ<b>դ</b>_ “<b>your</b>.`Sing` coming” `PossPerson=2|PossNumber=Sing`
 * _(դու) ուսուցիչ<b>դ</b>_ “<b>You</b>.`Sing` the teacher” or “<b>your</b>.`Sing` teacher” `PossPerson=2|Number=Sing` օր `PossPerson=2|PossNumber=Sing|Number=Sing`
@@ -50,7 +50,7 @@ See also the relatived feature [PossNumber]().
 
 #### Examples
 
-* _տուն<b>ն(ը)</b>_ “<b>his/her/its</b> hous” `PossPerson=3|PossNumber=Sing|Number=Sing` 
+* _տուն<b>ն(ը)</b>_ “<b>his/her/its</b> house” `PossPerson=3|PossNumber=Sing|Number=Sing` 
 * _տներ<b>ն(ը)</b>_ “<b>his/her/its</b> houses” `PossPerson=3|PossNumber=Sing|Number=Plur` 
 * _(նա) ուսուցիչ<b>ն(ը)</b>_ “<b>He/She</b> the teacher” or “<b>his/her/its</b> teacher” `PossPerson=3|Number=Sing` or `PossPerson=3|PossNumber=Sing|Number=Sing`
 * _գալ<b>ն(ը)</b>_ “<b>his/her/its</b> coming” `PossPerson=3|PossNumber=Sing`
