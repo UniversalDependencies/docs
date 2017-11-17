@@ -18,17 +18,17 @@ whether the word is possessive.
 While many tagsets would have “possessive” as one of the various
 pronoun types, this feature is intentionally separate from
 [PronType](), as it is orthogonal to pronominal types. Several of the
-pronominal types can be optionally possessive, and adjectives can too.
+pronominal types can be optionally possessive, and nouns can too.
 
 ### <a name="Yes">`Yes`</a>: it is possessive
 
 Note that there is no `No` value. If the word is not possessive, the
-`Poss` feature will just not be mentioned in the `FEAT` column. (Which
-means that empty value has the `No` meaning.)
+`Poss` feature will just not be mentioned in the `FEAT` column (which
+means that empty value has the `No` meaning).
 
 #### Examples
 
 * possessive personal determiners: _իմ, քո, նրա, մեր, ձեր, նրանց, իրենց&nbsp;_ “my, your, his/her/its, our, your, their”
-* possessive reflexive determiners: _իր, իրենց&nbsp;_ “one’s own, themselves”
+* possessive reflexive determiners: _իր, իրենց&nbsp;_ “one’s own, their own”
 * possessive relative determiners: _ում, որի&nbsp;_ “whose”
 * possessive nouns: _հայրիկինը&nbsp;_ “father's”, _մայրիկինը&nbsp;_ “mother's”, _սեղանինը&nbsp;_ “of table”
