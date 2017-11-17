@@ -9,7 +9,7 @@ udver: '2'
 
 Determiners are words that modify [nouns](NOUN) or noun phrases and express the reference of the noun phrase in context. That is, a determiner may indicate whether the noun is referring to a definite or indefinite element of a class, to a closer or more distant element, to an element belonging to a specified person or thing, to a particular number or quantity, etc.
 
-Determiners under this definition include both _articles_ and _pro-adjectives (pronominal adjectives)_. An important point to note is that the traditional grammar of Armenian does not define determiners as a separate word class. Most determiners are traditionally called pronouns; that is, an UD-conformant annotation of Armenian must distinguish between substantive pronouns (UD tag [PRON]()) and attributive pronouns (UD tag `DET`).
+Determiners under this definition include both _articles_ and _pro-adjectives (pronominal adjectives)_. An important point to note is that the traditional grammar of Armenian does not define determiners as a separate word class. Most determiners are traditionally called pronouns; that is, a UD-conformant annotation of Armenian must distinguish between substantive pronouns (UD tag [PRON]()) and attributive pronouns (UD tag `DET`).
 
 Also note that the `DET` tag includes (pronominal) _quantifiers_ (words
 like _քանի, այսքան, մի քանի, բոլոր, ողջ&nbsp;_ “how many, this many, several, all, whole”), which the traditional grammar classifies
