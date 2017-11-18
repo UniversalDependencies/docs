@@ -131,17 +131,10 @@ This is an automatically generated list of features and values (both universal a
 * AdvType=Deg	hi	372
 * AdvType=Deg	hi_pud	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * AdvType=Deg	ur	145
-* AdvType=Degree	myv	3
 * AdvType=Ex	mt	4
 * AdvType=Ex	nl	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * AdvType=Ex	nl_lassysmall	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* AdvType=Ind	myv	4
-* AdvType=Int	myv	39
-* AdvType=Manner	myv	51
 * AdvType=Mod	hsb	4
-* AdvType=Rel	myv	1
-* AdvType=Spat	myv	31
-* AdvType=Temp	myv	117
 * AdvType=Tim	ca	1693
 * AdvType=Tim	es_ancora	1902
 
@@ -349,7 +342,6 @@ This is an automatically generated list of features and values (both universal a
 * Case=Abe	fi	154
 * Case=Abe	fi_ftb	225
 * Case=Abe	fi_pud	4
-* Case=Abe	myv	8
 * Case=Abe	sme	11
 * Case=Abl	bxr	83
 * Case=Abl	et	266
@@ -365,7 +357,6 @@ This is an automatically generated list of features and values (both universal a
 * Case=Abl	la_ittb	22529
 * Case=Abl	la_proiel	17440
 * Case=Abl	mr	1
-* Case=Abl	myv	103
 * Case=Abl	sa	24
 * Case=Abl	tr	1072
 * Case=Abl	tr_pud	339
@@ -416,7 +407,7 @@ This is an automatically generated list of features and values (both universal a
 * Case=Acc	la_proiel	26835
 * Case=Acc	lt	382
 * Case=Acc	lv	7981
-* Case=Acc	mr	181
+* Case=Acc	mr	187
 * Case=Acc	nl	1405
 * Case=Acc	nl_lassysmall	342
 * Case=Acc	no_bokmaal	2852
@@ -470,11 +461,9 @@ This is an automatically generated list of features and values (both universal a
 * Case=Com	fi_ftb	95
 * Case=Com	fi_pud	4
 * Case=Com	mr	4
-* Case=Com	myv	2
 * Case=Com	sme	334
 * Case=Com	ta	13
 * Case=Comp	ja_pud	265
-* Case=Comp	myv	22
 * Case=Comp	zh	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Case=Comp	zh_pud	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Case=Con	kmr	1288
@@ -512,7 +501,6 @@ This is an automatically generated list of features and values (both universal a
 * Case=Dat	lt	137
 * Case=Dat	lv	4231
 * Case=Dat	mr	134
-* Case=Dat	myv	89
 * Case=Dat	nl	4
 * Case=Dat	pl	1010
 * Case=Dat	pt	228
@@ -539,7 +527,6 @@ This is an automatically generated list of features and values (both universal a
 * Case=Ela	fi_ftb	3459
 * Case=Ela	fi_pud	410
 * Case=Ela	hu	158
-* Case=Ela	myv	108
 * Case=Equ	tr	38
 * Case=Erg	eu	4402
 * Case=Erg	hi	1768
@@ -590,7 +577,6 @@ This is an automatically generated list of features and values (both universal a
 * Case=Gen	la_proiel	9048
 * Case=Gen	lt	659
 * Case=Gen	lv	9905
-* Case=Gen	myv	519
 * Case=Gen	nl	3
 * Case=Gen	no_bokmaal	2702
 * Case=Gen	no_nynorsk	958
@@ -621,7 +607,6 @@ This is an automatically generated list of features and values (both universal a
 * Case=Ill	fi_ftb	4169
 * Case=Ill	fi_pud	496
 * Case=Ill	hu	168
-* Case=Ill	myv	134
 * Case=Ill	sme	771
 * Case=Ine	et	2182
 * Case=Ine	eu	5755
@@ -630,7 +615,6 @@ This is an automatically generated list of features and values (both universal a
 * Case=Ine	fi_pud	497
 * Case=Ine	hi	482
 * Case=Ine	hu	968
-* Case=Ine	myv	155
 * Case=Ins	be	266
 * Case=Ins	cs	69473
 * Case=Ins	cs_cac	26576
@@ -666,7 +650,6 @@ This is an automatically generated list of features and values (both universal a
 * Case=Ins	ur	3
 * Case=Lat	eu	19
 * Case=Lat	fi_ftb	3395
-* Case=Lat	myv	67
 * Case=Loc	be	538
 * Case=Loc	cs	134749
 * Case=Loc	cs_cac	48766
@@ -687,7 +670,6 @@ This is an automatically generated list of features and values (both universal a
 * Case=Loc	lt	115
 * Case=Loc	lv	4471
 * Case=Loc	mr	71
-* Case=Loc	myv	72
 * Case=Loc	pl	7525
 * Case=Loc	ru	6624
 * Case=Loc	ru_pud	93
@@ -748,8 +730,7 @@ This is an automatically generated list of features and values (both universal a
 * Case=Nom	la_proiel	25716
 * Case=Nom	lt	820
 * Case=Nom	lv	14779
-* Case=Nom	mr	629
-* Case=Nom	myv	1170
+* Case=Nom	mr	623
 * Case=Nom	nl	4185
 * Case=Nom	nl_lassysmall	645
 * Case=Nom	no_bokmaal	9531
@@ -787,7 +768,6 @@ This is an automatically generated list of features and values (both universal a
 * Case=Par	fi_pud	1169
 * Case=Par	ru	2
 * Case=Par	ru_syntagrus	104
-* Case=Prl	myv	60
 * Case=Rel	zh	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Case=Rel	zh_pud	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Case=Sub	hu	567
@@ -802,7 +782,6 @@ This is an automatically generated list of features and values (both universal a
 * Case=Tra	fi_ftb	1156
 * Case=Tra	fi_pud	96
 * Case=Tra	hu	54
-* Case=Tra	myv	50
 * Case=Voc	bg	29
 * Case=Voc	cs	193
 * Case=Voc	cs_cac	107
@@ -838,7 +817,6 @@ This is an automatically generated list of features and values (both universal a
 
 [Clitic]()
 
-* Clitic=Cop	myv	49
 * Clitic=Han	fi	141
 * Clitic=Han	fi_ftb	335
 * Clitic=Han	fi_pud	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
@@ -865,13 +843,14 @@ This is an automatically generated list of features and values (both universal a
 * Clitic=Yes	it_partut	641
 * Clitic=Yes	it_postwita	1688
 * Clitic=Yes	it_pud	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* Clitic=Гак	myv	100
 
 ## Clusivity
 
 [Clusivity]()
 
+* Clusivity=Ex	id	28
 * Clusivity=Ex	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
+* Clusivity=In	id	65
 * Clusivity=In	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Clusivity=Incl	mr	5
 
@@ -953,7 +932,6 @@ This is an automatically generated list of features and values (both universal a
 * Definite=Def	lt	38
 * Definite=Def	lv	731
 * Definite=Def	mt	355
-* Definite=Def	myv	484
 * Definite=Def	nl	17442
 * Definite=Def	nl_lassysmall	8381
 * Definite=Def	no_bokmaal	23823
@@ -1001,7 +979,6 @@ This is an automatically generated list of features and values (both universal a
 * Definite=Ind	it_postwita	806
 * Definite=Ind	lt	538
 * Definite=Ind	lv	2163
-* Definite=Ind	myv	1376
 * Definite=Ind	nl	4430
 * Definite=Ind	nl_lassysmall	1729
 * Definite=Ind	no_bokmaal	51070
@@ -1120,6 +1097,7 @@ This is an automatically generated list of features and values (both universal a
 * Degree=Pos	hr	28243
 * Degree=Pos	hsb	647
 * Degree=Pos	hu	4722
+* Degree=Pos	id	6003
 * Degree=Pos	kmr	343
 * Degree=Pos	la	16
 * Degree=Pos	la_ittb	122523
@@ -1174,6 +1152,7 @@ This is an automatically generated list of features and values (both universal a
 * Degree=Sup	hr	914
 * Degree=Sup	hsb	42
 * Degree=Sup	hu	97
+* Degree=Sup	id	279
 * Degree=Sup	it_pud	22
 * Degree=Sup	kmr	3
 * Degree=Sup	la	90
@@ -1215,8 +1194,6 @@ This is an automatically generated list of features and values (both universal a
 * Derivation=Llinen	fi_pud	156
 * Derivation=Minen	fi	1758
 * Derivation=Minen	fi_pud	130
-* Derivation=NomAct	myv	26
-* Derivation=NomAg	myv	38
 * Derivation=Sti	fi	1720
 * Derivation=Sti	fi_pud	113
 * Derivation=Tar	fi	22
@@ -1399,6 +1376,7 @@ This is an automatically generated list of features and values (both universal a
 * Gender=Fem	hi_pud	3174
 * Gender=Fem	hr	36615
 * Gender=Fem	hsb	1870
+* Gender=Fem	id	3
 * Gender=Fem	it	51264
 * Gender=Fem	it_partut	10782
 * Gender=Fem	it_postwita	6897
@@ -1470,6 +1448,7 @@ This is an automatically generated list of features and values (both universal a
 * Gender=Masc	hi_pud	7943
 * Gender=Masc	hr	48274
 * Gender=Masc	hsb	2180
+* Gender=Masc	id	39
 * Gender=Masc	it	70266
 * Gender=Masc	it_partut	13359
 * Gender=Masc	it_postwita	11856
@@ -1748,7 +1727,6 @@ This is an automatically generated list of features and values (both universal a
 * Mood=Cnd	kk	49
 * Mood=Cnd	lt	39
 * Mood=Cnd	lv	496
-* Mood=Cnd	myv	6
 * Mood=Cnd	pl	167
 * Mood=Cnd	pt	342
 * Mood=Cnd	pt_pud	59
@@ -1764,7 +1742,6 @@ This is an automatically generated list of features and values (both universal a
 * Mood=CndGen	tr_pud	14
 * Mood=CndPot	tr	5
 * Mood=CndPot	tr_pud	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* Mood=Cnj	myv	16
 * Mood=Cont	hi_pud	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Mood=Des	bxr	186
 * Mood=Des	mr	6
@@ -1835,7 +1812,6 @@ This is an automatically generated list of features and values (both universal a
 * Mood=Imp	lt	8
 * Mood=Imp	lv	195
 * Mood=Imp	mr	80
-* Mood=Imp	myv	28
 * Mood=Imp	no_bokmaal	234
 * Mood=Imp	no_nynorsk	342
 * Mood=Imp	no_nynorsklia	3
@@ -1918,7 +1894,6 @@ This is an automatically generated list of features and values (both universal a
 * Mood=Ind	lt	443
 * Mood=Ind	lv	9390
 * Mood=Ind	mr	2
-* Mood=Ind	myv	693
 * Mood=Ind	no_bokmaal	34594
 * Mood=Ind	no_nynorsk	32357
 * Mood=Ind	no_nynorsklia	1702
@@ -1963,7 +1938,6 @@ This is an automatically generated list of features and values (both universal a
 * Mood=Opt	hi_pud	16
 * Mood=Opt	kk	31
 * Mood=Opt	kmr	6
-* Mood=Opt	myv	9
 * Mood=Opt	sa	6
 * Mood=Opt	sv_lines	1
 * Mood=Opt	tr	147
@@ -2193,7 +2167,7 @@ This is an automatically generated list of features and values (both universal a
 * NumType=Card	hr	3886
 * NumType=Card	hsb	424
 * NumType=Card	hu	1003
-* NumType=Card	id	4386
+* NumType=Card	id	4714
 * NumType=Card	it	5061
 * NumType=Card	it_partut	810
 * NumType=Card	it_postwita	733
@@ -2428,6 +2402,7 @@ This is an automatically generated list of features and values (both universal a
 * Number=Plur	hr	32971
 * Number=Plur	hsb	1833
 * Number=Plur	hu	3110
+* Number=Plur	id	532
 * Number=Plur	it	44319
 * Number=Plur	it_partut	9428
 * Number=Plur	it_postwita	6117
@@ -2442,7 +2417,6 @@ This is an automatically generated list of features and values (both universal a
 * Number=Plur	lv	11329
 * Number=Plur	mr	375
 * Number=Plur	mt	4
-* Number=Plur	myv	914
 * Number=Plur	nl	12205
 * Number=Plur	nl_lassysmall	6020
 * Number=Plur	no_bokmaal	32690
@@ -2525,6 +2499,7 @@ This is an automatically generated list of features and values (both universal a
 * Number=Sing	hr	85641
 * Number=Sing	hsb	3984
 * Number=Sing	hu	21024
+* Number=Sing	id	49803
 * Number=Sing	it	109882
 * Number=Sing	it_partut	20987
 * Number=Sing	it_postwita	20346
@@ -2538,7 +2513,6 @@ This is an automatically generated list of features and values (both universal a
 * Number=Sing	lv	30119
 * Number=Sing	mr	1764
 * Number=Sing	mt	7
-* Number=Sing	myv	1784
 * Number=Sing	nl	48099
 * Number=Sing	nl_lassysmall	24162
 * Number=Sing	no_bokmaal	84160
@@ -2604,9 +2578,7 @@ This is an automatically generated list of features and values (both universal a
 
 [Number[obj]]()
 
-* Number[obj]=Plur	myv	27
 * Number[obj]=Plur	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* Number[obj]=Sing	myv	129
 * Number[obj]=Sing	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 
 ## Number[psed]
@@ -2644,9 +2616,9 @@ This is an automatically generated list of features and values (both universal a
 * Number[psor]=Plur	hr	402
 * Number[psor]=Plur	hsb	56
 * Number[psor]=Plur	hu	176
+* Number[psor]=Plur	id	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Number[psor]=Plur	it_pud	64
 * Number[psor]=Plur	kk	1328
-* Number[psor]=Plur	myv	54
 * Number[psor]=Plur	nl	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Number[psor]=Plur	nl_lassysmall	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Number[psor]=Plur	pl	104
@@ -2684,9 +2656,9 @@ This is an automatically generated list of features and values (both universal a
 * Number[psor]=Sing	hr	395
 * Number[psor]=Sing	hsb	20
 * Number[psor]=Sing	hu	2614
+* Number[psor]=Sing	id	1877
 * Number[psor]=Sing	it_pud	163
 * Number[psor]=Sing	kk	1346
-* Number[psor]=Sing	myv	236
 * Number[psor]=Sing	nl	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Number[psor]=Sing	nl_lassysmall	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Number[psor]=Sing	pl	123
@@ -2704,13 +2676,6 @@ This is an automatically generated list of features and values (both universal a
 * Number[psor]=Sing	tr	7097
 * Number[psor]=Sing	tr_pud	2414
 * Number[psor]=Sing	ug	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-
-## Number[subj]
-
-[Number[subj]]()
-
-* Number[subj]=Plur	myv	182
-* Number[subj]=Sing	myv	622
 
 ## Orth
 
@@ -2825,6 +2790,7 @@ This is an automatically generated list of features and values (both universal a
 * Person=1	hr	1884
 * Person=1	hsb	53
 * Person=1	hu	255
+* Person=1	id	156
 * Person=1	it	1881
 * Person=1	it_partut	435
 * Person=1	it_postwita	2241
@@ -2910,6 +2876,7 @@ This is an automatically generated list of features and values (both universal a
 * Person=2	hr	875
 * Person=2	hsb	43
 * Person=2	hu	10
+* Person=2	id	109
 * Person=2	it	695
 * Person=2	it_partut	202
 * Person=2	it_postwita	1032
@@ -2997,6 +2964,7 @@ This is an automatically generated list of features and values (both universal a
 * Person=3	hr	18954
 * Person=3	hsb	965
 * Person=3	hu	4803
+* Person=3	id	885
 * Person=3	it	22384
 * Person=3	it_partut	3600
 * Person=3	it_postwita	4580
@@ -3010,7 +2978,6 @@ This is an automatically generated list of features and values (both universal a
 * Person=3	lt	506
 * Person=3	lv	9149
 * Person=3	mr	736
-* Person=3	myv	10
 * Person=3	nl	8234
 * Person=3	nl_lassysmall	2506
 * Person=3	no_bokmaal	12257
@@ -3078,11 +3045,8 @@ This is an automatically generated list of features and values (both universal a
 [Person[obj]]()
 
 * Person[obj]=0	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* Person[obj]=1	myv	8
 * Person[obj]=1	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* Person[obj]=2	myv	6
 * Person[obj]=2	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* Person[obj]=3	myv	142
 * Person[obj]=3	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 
 ## Person[psor]
@@ -3094,8 +3058,8 @@ This is an automatically generated list of features and values (both universal a
 * Person[psor]=1	fi_ftb	796
 * Person[psor]=1	fi_pud	20
 * Person[psor]=1	hu	107
+* Person[psor]=1	id	41
 * Person[psor]=1	kk	89
-* Person[psor]=1	myv	37
 * Person[psor]=1	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Person[psor]=1	sme	92
 * Person[psor]=1	tr	1052
@@ -3105,8 +3069,8 @@ This is an automatically generated list of features and values (both universal a
 * Person[psor]=2	fi	167
 * Person[psor]=2	fi_ftb	251
 * Person[psor]=2	fi_pud	2
+* Person[psor]=2	id	51
 * Person[psor]=2	kk	29
-* Person[psor]=2	myv	16
 * Person[psor]=2	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Person[psor]=2	sme	69
 * Person[psor]=2	tr	342
@@ -3118,22 +3082,14 @@ This is an automatically generated list of features and values (both universal a
 * Person[psor]=3	fi_ftb	2430
 * Person[psor]=3	fi_pud	275
 * Person[psor]=3	hu	2682
+* Person[psor]=3	id	1785
 * Person[psor]=3	kk	1280
-* Person[psor]=3	myv	237
 * Person[psor]=3	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Person[psor]=3	sme	257
 * Person[psor]=3	tr	6689
 * Person[psor]=3	tr_pud	2475
 * Person[psor]=3	ug	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Person[psor]=None	hu	10808
-
-## Person[subj]
-
-[Person[subj]]()
-
-* Person[subj]=1	myv	24
-* Person[subj]=2	myv	78
-* Person[subj]=3	myv	702
 
 ## Polarity
 
@@ -3180,7 +3136,7 @@ This is an automatically generated list of features and values (both universal a
 * Polarity=Neg	hi_pud	136
 * Polarity=Neg	hr	1150
 * Polarity=Neg	hsb	71
-* Polarity=Neg	id	538
+* Polarity=Neg	id	543
 * Polarity=Neg	it	15
 * Polarity=Neg	it_pud	117
 * Polarity=Neg	ja_pud	119
@@ -3191,7 +3147,6 @@ This is an automatically generated list of features and values (both universal a
 * Polarity=Neg	lv	1159
 * Polarity=Neg	mr	58
 * Polarity=Neg	mt	10
-* Polarity=Neg	myv	139
 * Polarity=Neg	no_bokmaal	3035
 * Polarity=Neg	no_nynorsk	2755
 * Polarity=Neg	no_nynorsklia	142
@@ -3253,6 +3208,7 @@ This is an automatically generated list of features and values (both universal a
 * Polite=Form	es_ancora	54
 * Polite=Form	hi	6188
 * Polite=Form	hi_pud	54
+* Polite=Form	id	53
 * Polite=Form	kk	67
 * Polite=Form	ro_nonstandard	1
 * Polite=Form	sa	10
@@ -3262,6 +3218,7 @@ This is an automatically generated list of features and values (both universal a
 * Polite=Infm	de	81
 * Polite=Infm	eu	72
 * Polite=Infm	hi	13
+* Polite=Infm	id	109
 * Polite=Infm	tr	1326
 * Polite=Infm	ur	20
 
@@ -3467,6 +3424,7 @@ This is an automatically generated list of features and values (both universal a
 * PronType=Dem	hr	3004
 * PronType=Dem	hsb	205
 * PronType=Dem	hu	1007
+* PronType=Dem	id	2048
 * PronType=Dem	it	1883
 * PronType=Dem	it_partut	529
 * PronType=Dem	it_postwita	370
@@ -3477,7 +3435,6 @@ This is an automatically generated list of features and values (both universal a
 * PronType=Dem	lv	2858
 * PronType=Dem	mr	82
 * PronType=Dem	mt	32
-* PronType=Dem	myv	59
 * PronType=Dem	nl	837
 * PronType=Dem	nl_lassysmall	207
 * PronType=Dem	no_bokmaal	6054
@@ -3543,6 +3500,7 @@ This is an automatically generated list of features and values (both universal a
 * PronType=Ind	hr	1202
 * PronType=Ind	hsb	82
 * PronType=Ind	hu	274
+* PronType=Ind	id	1138
 * PronType=Ind	it	2556
 * PronType=Ind	it_partut	592
 * PronType=Ind	it_postwita	773
@@ -3552,7 +3510,6 @@ This is an automatically generated list of features and values (both universal a
 * PronType=Ind	lv	877
 * PronType=Ind	mr	31
 * PronType=Ind	mt	20
-* PronType=Ind	myv	21
 * PronType=Ind	nl	1504
 * PronType=Ind	nl_lassysmall	440
 * PronType=Ind	no_bokmaal	985
@@ -3615,6 +3572,7 @@ This is an automatically generated list of features and values (both universal a
 * PronType=Int	hr	3906
 * PronType=Int	hsb	5
 * PronType=Int	hu	87
+* PronType=Int	id	573
 * PronType=Int	it	1838
 * PronType=Int	it_partut	27
 * PronType=Int	it_postwita	149
@@ -3625,7 +3583,6 @@ This is an automatically generated list of features and values (both universal a
 * PronType=Int	lv	860
 * PronType=Int	mr	29
 * PronType=Int	mt	1
-* PronType=Int	myv	31
 * PronType=Int	nl	977
 * PronType=Int	nl_lassysmall	55
 * PronType=Int	no_bokmaal	591
@@ -3730,6 +3687,7 @@ This is an automatically generated list of features and values (both universal a
 * PronType=Prs	hr	5918
 * PronType=Prs	hsb	362
 * PronType=Prs	hu	268
+* PronType=Prs	id	1136
 * PronType=Prs	it	7189
 * PronType=Prs	it_partut	1355
 * PronType=Prs	it_postwita	2482
@@ -3741,7 +3699,6 @@ This is an automatically generated list of features and values (both universal a
 * PronType=Prs	lv	3033
 * PronType=Prs	mr	13
 * PronType=Prs	mt	42
-* PronType=Prs	myv	100
 * PronType=Prs	nl	8744
 * PronType=Prs	nl_lassysmall	2264
 * PronType=Prs	no_bokmaal	22519
@@ -3793,7 +3750,6 @@ This is an automatically generated list of features and values (both universal a
 * PronType=Rcp	sv_lines	31
 * PronType=Rcp	tr_pud	4
 * PronType=Ref	kk	47
-* PronType=Refl	myv	36
 * PronType=Rel	af	1225
 * PronType=Rel	ar	2513
 * PronType=Rel	ar_nyuad	294
@@ -3838,7 +3794,6 @@ This is an automatically generated list of features and values (both universal a
 * PronType=Rel	la_proiel	5584
 * PronType=Rel	lv	969
 * PronType=Rel	mr	3
-* PronType=Rel	myv	35
 * PronType=Rel	nl	1509
 * PronType=Rel	nl_lassysmall	482
 * PronType=Rel	no_bokmaal	3317
@@ -3876,6 +3831,7 @@ This is an automatically generated list of features and values (both universal a
 * PronType=Tot	hr	869
 * PronType=Tot	hsb	29
 * PronType=Tot	hu	118
+* PronType=Tot	id	258
 * PronType=Tot	it	394
 * PronType=Tot	it_partut	90
 * PronType=Tot	it_postwita	11
@@ -4349,7 +4305,6 @@ This is an automatically generated list of features and values (both universal a
 * Tense=Pres	lt	342
 * Tense=Pres	lv	6100
 * Tense=Pres	mr	121
-* Tense=Pres	myv	319
 * Tense=Pres	nl	12827
 * Tense=Pres	nl_lassysmall	3407
 * Tense=Pres	no_bokmaal	25689
@@ -4378,8 +4333,6 @@ This is an automatically generated list of features and values (both universal a
 * Tense=Pres	uk	3356
 * Tense=Pres	ur	3962
 * Tense=PresHab	lt	3
-* Tense=Prt1	myv	403
-* Tense=Prt2	myv	39
 
 ## Topic
 
@@ -4409,8 +4362,6 @@ This is an automatically generated list of features and values (both universal a
 [Valency]()
 
 * Valency=1	bm	2
-* Valency=1	myv	395
-* Valency=2	myv	330
 
 ## Variant
 
@@ -4628,7 +4579,6 @@ This is an automatically generated list of features and values (both universal a
 * VerbForm=Inf	lt	139
 * VerbForm=Inf	lv	1811
 * VerbForm=Inf	mr	44
-* VerbForm=Inf	myv	126
 * VerbForm=Inf	nl	5862
 * VerbForm=Inf	nl_lassysmall	1168
 * VerbForm=Inf	no_bokmaal	9986
@@ -4803,6 +4753,7 @@ This is an automatically generated list of features and values (both universal a
 * Voice=Act	hr	6666
 * Voice=Act	hsb	77
 * Voice=Act	hu	3802
+* Voice=Act	id	9352
 * Voice=Act	it_pud	2129
 * Voice=Act	la	4705
 * Voice=Act	la_ittb	37830
@@ -4877,6 +4828,7 @@ This is an automatically generated list of features and values (both universal a
 * Voice=Pass	hi	2448
 * Voice=Pass	hr	928
 * Voice=Pass	hsb	208
+* Voice=Pass	id	3527
 * Voice=Pass	it_pud	337
 * Voice=Pass	ja_pud	271
 * Voice=Pass	kk	240
