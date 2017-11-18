@@ -31,10 +31,10 @@ perl -p -i -e 's/template/'"$lc"'/' "_$f"/*.md
 tmp=`mktemp addlanguage-tmp-XXX`
 
 # add the newly created collections to config.yml.
-(perl -pe 'exit if(/^# Template\s*$/)' _config.yml;
+(perl -pe 'exit if(/^# End of language collections/)' _config.yml;
  echo "  ${lc}:
     output: true"
- perl -pe '$past=1 if(/^# Template\s*$/); $_ = "" unless($past);' _config.yml;
+ perl -pe '$past=1 if(/^# End of language collections/); $_ = "" unless($past);' _config.yml;
 ) > $tmp; mv $tmp _config.yml
 
 git add _${lc} _config.yml

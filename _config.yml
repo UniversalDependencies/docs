@@ -103,6 +103,8 @@ collections:
     output: true
   ko:
     output: true
+  ky:
+    output: true
   la:
     output: true
   lv:
@@ -146,10 +148,10 @@ collections:
     output: true
   zh:
     output: true
+# End of language collections (do not remove this comment, addlanguage.sh looks for it)
 
 
 
-#
 # Tagset conversion tables (even for languages that do not have their sections yet)
 #
   tagset-conversion:
@@ -180,5 +182,3 @@ home: "http://universaldependencies.org/"
 tracker: "https://github.com/universaldependencies/docs/issues"
 git_raw: "https://raw.githubusercontent.com/universaldependencies/docs/pages-source"
 git_edit: "https://github.com/universaldependencies/docs/edit/pages-source"
-  ky:
-    output: true
