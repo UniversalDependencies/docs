@@ -38,7 +38,7 @@ tmp=`mktemp addlanguage-tmp-XXX`
 ) > $tmp; mv $tmp _config.yml
 
 git add _${lc} _config.yml
-git commit
+git commit -m "Added ${language}."
 
 echo "Please edit also codes_and_flags.yaml in the docs-automation repository."
 echo "And create at least one repository for a ${language} treebank in the form UD_${language}-TbkID."
