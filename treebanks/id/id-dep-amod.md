@@ -13,7 +13,7 @@ This relation is universal.
 4061 instances of `amod` (89%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.62614980289093.
 
-The following 42 pairs of parts of speech are connected with `amod`: <tt><a href="id-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id-pos-ADJ.html">ADJ</a></tt> (3060; 67% instances), <tt><a href="id-pos-VERB.html">VERB</a></tt>-<tt><a href="id-pos-ADJ.html">ADJ</a></tt> (484; 11% instances), <tt><a href="id-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id-pos-PROPN.html">PROPN</a></tt> (353; 8% instances), <tt><a href="id-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id-pos-ADJ.html">ADJ</a></tt> (185; 4% instances), <tt><a href="id-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id-pos-NOUN.html">NOUN</a></tt> (139; 3% instances), <tt><a href="id-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id-pos-ADJ.html">ADJ</a></tt> (89; 2% instances), <tt><a href="id-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id-pos-PROPN.html">PROPN</a></tt> (59; 1% instances), <tt><a href="id-pos-PRON.html">PRON</a></tt>-<tt><a href="id-pos-ADJ.html">ADJ</a></tt> (29; 1% instances), <tt><a href="id-pos-NUM.html">NUM</a></tt>-<tt><a href="id-pos-NUM.html">NUM</a></tt> (23; 1% instances), <tt><a href="id-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id-pos-NOUN.html">NOUN</a></tt> (23; 1% instances), <tt><a href="id-pos-ADV.html">ADV</a></tt>-<tt><a href="id-pos-ADJ.html">ADJ</a></tt> (18; 0% instances), <tt><a href="id-pos-DET.html">DET</a></tt>-<tt><a href="id-pos-ADJ.html">ADJ</a></tt> (15; 0% instances), <tt><a href="id-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id-pos-VERB.html">VERB</a></tt> (14; 0% instances), <tt><a href="id-pos-VERB.html">VERB</a></tt>-<tt><a href="id-pos-NOUN.html">NOUN</a></tt> (14; 0% instances), <tt><a href="id-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="id-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="id-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="id-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="id-pos-ADP.html">ADP</a></tt>-<tt><a href="id-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="id-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="id-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="id-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="id-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="id-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="id-pos-VERB.html">VERB</a></tt>-<tt><a href="id-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="id-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="id-pos-ADV.html">ADV</a></tt>-<tt><a href="id-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="id-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="id-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="id-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="id-pos-NUM.html">NUM</a></tt>-<tt><a href="id-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id-pos-NUM.html">NUM</a></tt>-<tt><a href="id-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="id-pos-PRON.html">PRON</a></tt>-<tt><a href="id-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="id-pos-PRON.html">PRON</a></tt>-<tt><a href="id-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="id-pos-PRON.html">PRON</a></tt>-<tt><a href="id-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="id-pos-PRON.html">PRON</a></tt>-<tt><a href="id-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="id-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="id-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="id-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="id-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="id-pos-VERB.html">VERB</a></tt>-<tt><a href="id-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="id-pos-VERB.html">VERB</a></tt>-<tt><a href="id-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="id-pos-VERB.html">VERB</a></tt>-<tt><a href="id-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The following 46 pairs of parts of speech are connected with `amod`: <tt><a href="id-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id-pos-ADJ.html">ADJ</a></tt> (3019; 66% instances), <tt><a href="id-pos-VERB.html">VERB</a></tt>-<tt><a href="id-pos-ADJ.html">ADJ</a></tt> (483; 11% instances), <tt><a href="id-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id-pos-PROPN.html">PROPN</a></tt> (353; 8% instances), <tt><a href="id-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id-pos-ADJ.html">ADJ</a></tt> (184; 4% instances), <tt><a href="id-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id-pos-NOUN.html">NOUN</a></tt> (137; 3% instances), <tt><a href="id-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id-pos-ADJ.html">ADJ</a></tt> (89; 2% instances), <tt><a href="id-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id-pos-PROPN.html">PROPN</a></tt> (59; 1% instances), <tt><a href="id-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id-pos-DET.html">DET</a></tt> (35; 1% instances), <tt><a href="id-pos-PRON.html">PRON</a></tt>-<tt><a href="id-pos-ADJ.html">ADJ</a></tt> (32; 1% instances), <tt><a href="id-pos-NUM.html">NUM</a></tt>-<tt><a href="id-pos-NUM.html">NUM</a></tt> (23; 1% instances), <tt><a href="id-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id-pos-NOUN.html">NOUN</a></tt> (23; 1% instances), <tt><a href="id-pos-ADV.html">ADV</a></tt>-<tt><a href="id-pos-ADJ.html">ADJ</a></tt> (18; 0% instances), <tt><a href="id-pos-DET.html">DET</a></tt>-<tt><a href="id-pos-ADJ.html">ADJ</a></tt> (15; 0% instances), <tt><a href="id-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id-pos-VERB.html">VERB</a></tt> (14; 0% instances), <tt><a href="id-pos-VERB.html">VERB</a></tt>-<tt><a href="id-pos-NOUN.html">NOUN</a></tt> (14; 0% instances), <tt><a href="id-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="id-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id-pos-NUM.html">NUM</a></tt> (8; 0% instances), <tt><a href="id-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="id-pos-ADP.html">ADP</a></tt>-<tt><a href="id-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="id-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="id-pos-PRON.html">PRON</a></tt>-<tt><a href="id-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="id-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="id-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="id-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="id-pos-PRON.html">PRON</a></tt>-<tt><a href="id-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="id-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="id-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="id-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="id-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="id-pos-VERB.html">VERB</a></tt>-<tt><a href="id-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="id-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="id-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="id-pos-ADV.html">ADV</a></tt>-<tt><a href="id-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="id-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="id-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="id-pos-NUM.html">NUM</a></tt>-<tt><a href="id-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="id-pos-NUM.html">NUM</a></tt>-<tt><a href="id-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="id-pos-PRON.html">PRON</a></tt>-<tt><a href="id-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="id-pos-PRON.html">PRON</a></tt>-<tt><a href="id-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="id-pos-PRON.html">PRON</a></tt>-<tt><a href="id-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="id-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="id-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="id-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="id-pos-VERB.html">VERB</a></tt>-<tt><a href="id-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="id-pos-VERB.html">VERB</a></tt>-<tt><a href="id-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="id-pos-VERB.html">VERB</a></tt>-<tt><a href="id-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="id-pos-VERB.html">VERB</a></tt>-<tt><a href="id-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,14 +22,14 @@ The following 42 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 amod	color:blue
-1	Liburan	_	NOUN	_	_	4	nsubj	_	_
-2	yang	_	PRON	_	_	3	nsubj	_	_
-3	indah	_	ADJ	_	_	1	amod	_	_
-4	mendadak	_	VERB	_	_	0	root	_	_
-5	menjadi	_	VERB	_	_	4	xcomp	_	_
-6	penuh	_	ADJ	_	_	5	obj	_	_
-7	darah	_	NOUN	_	_	6	compound	_	SpaceAfter=No
-8	.	_	PUNCT	_	_	4	punct	_	_
+1	Liburan	liburan	NOUN	NSD	Number=Sing	4	nsubj	_	MorphInd=^libur<n>+an_NSD$
+2	yang	yang	PRON	S--	_	3	nsubj	_	MorphInd=^yang<s>_S--$
+3	indah	indah	ADJ	ASP	Degree=Pos|Number=Sing	1	amod	_	MorphInd=^indah<a>_ASP$
+4	mendadak	mendadak	VERB	ASP	Degree=Pos|Number=Sing	0	root	_	MorphInd=^mendadak<a>_ASP$
+5	menjadi	menjadi	VERB	VSA	Number=Sing|Voice=Act	4	xcomp	_	MorphInd=^meN+jadi<a>_VSA$
+6	penuh	penuh	ADJ	ASP	Degree=Pos|Number=Sing	5	obj	_	MorphInd=^penuh<a>_ASP$
+7	darah	darah	NOUN	NSD	Number=Sing	6	compound	_	SpaceAfter=No|MorphInd=^darah<n>_NSD$
+8	.	.	PUNCT	Z--	_	4	punct	_	MorphInd=^.<z>_Z--$
 
 ~~~
 
@@ -40,17 +40,17 @@ The following 42 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 8 amod	color:blue
-1	Semakin	_	ADV	_	_	6	mark	_	_
-2	jauh	_	ADJ	_	_	1	amod	_	SpaceAfter=No
-3	,	_	PUNCT	_	_	6	punct	_	_
-4	maka	_	DET	_	_	5	det	_	_
-5	warnanya	_	NOUN	_	_	6	nsubj	_	_
-6	berubah	_	VERB	_	_	0	root	_	_
-7	dari	_	ADP	_	_	6	case	_	_
-8	jingga	_	ADJ	_	_	6	amod	_	_
-9	menjadi	_	VERB	_	_	6	ccomp	_	_
-10	biru	_	ADJ	_	_	9	amod	_	SpaceAfter=No
-11	.	_	PUNCT	_	_	6	punct	_	_
+1	Semakin	semakin	ADV	D--	_	6	mark	_	MorphInd=^semakin<d>_D--$
+2	jauh	jauh	ADJ	ASP	Degree=Pos|Number=Sing	1	amod	_	SpaceAfter=No|MorphInd=^jauh<a>_ASP$
+3	,	,	PUNCT	Z--	_	6	punct	_	MorphInd=^,<z>_Z--$
+4	maka	maka	DET	S--	_	5	det	_	MorphInd=^maka<s>_S--$
+5	warnanya	warna	NOUN	NSD+PS3	Number=Sing|Number[psor]=Sing|Person[psor]=3	6	nsubj	_	MorphInd=^warna<n>_NSD+dia<p>_PS3$
+6	berubah	berubah	VERB	VSA	Number=Sing|Voice=Act	0	root	_	MorphInd=^ber+ubah<v>_VSA$
+7	dari	dari	ADP	R--	_	6	case	_	MorphInd=^dari<r>_R--$
+8	jingga	jingga	ADJ	X--	_	6	amod	_	MorphInd=^jingga<x>_X--$
+9	menjadi	menjadi	VERB	VSA	Number=Sing|Voice=Act	6	ccomp	_	MorphInd=^meN+jadi<a>_VSA$
+10	biru	biru	ADJ	ASP	Degree=Pos|Number=Sing	9	amod	_	SpaceAfter=No|MorphInd=^biru<a>_ASP$
+11	.	.	PUNCT	Z--	_	6	punct	_	MorphInd=^.<z>_Z--$
 
 ~~~
 
@@ -61,17 +61,17 @@ The following 42 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 amod	color:blue
-1	The	_	PROPN	_	_	3	det	_	_
-2	Deadly	_	PROPN	_	_	3	amod	_	_
-3	Disciple	_	PROPN	_	_	5	nsubj	_	_
-4	adalah	_	AUX	_	_	5	cop	_	_
-5	film	_	NOUN	_	_	0	root	_	_
-6	laga	_	NOUN	_	_	5	compound	_	_
-7	komedi	_	NOUN	_	_	6	compound	_	_
-8	Malaysia	_	PROPN	_	_	6	flat	_	_
-9	tahun	_	NOUN	_	_	5	compound	_	_
-10	2001	_	NUM	_	NumType=Card	9	nummod	_	SpaceAfter=No
-11	.	_	PUNCT	_	_	5	punct	_	_
+1	The	the	PROPN	F--	_	3	det	_	MorphInd=^the<f>_F--$
+2	Deadly	deadly	PROPN	X--	_	3	amod	_	MorphInd=^deadly<x>_X--$
+3	Disciple	disciple	PROPN	X--	_	5	nsubj	_	MorphInd=^disciple<x>_X--$
+4	adalah	adalah	AUX	O--	_	5	cop	_	MorphInd=^adalah<o>_O--$
+5	film	film	NOUN	NSD	Number=Sing	0	root	_	MorphInd=^film<n>_NSD$
+6	laga	laga	NOUN	NSD	Number=Sing	5	compound	_	MorphInd=^laga<n>_NSD$
+7	komedi	komedi	NOUN	NSD	Number=Sing	6	compound	_	MorphInd=^komedi<n>_NSD$
+8	Malaysia	malaysia	PROPN	F--	_	6	flat	_	MorphInd=^malaysia<f>_F--$
+9	tahun	tahun	NOUN	NSD	Number=Sing	5	compound	_	MorphInd=^tahun<n>_NSD$
+10	2001	2001	NUM	CC-	NumType=Card	9	nummod	_	SpaceAfter=No|MorphInd=^2001<c>_CC-$
+11	.	.	PUNCT	Z--	_	5	punct	_	MorphInd=^.<z>_Z--$
 
 ~~~
 

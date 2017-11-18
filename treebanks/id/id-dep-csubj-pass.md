@@ -13,7 +13,7 @@ This relation is a language-specific subtype of <tt><a href="id-dep-csubj.html">
 8 instances of `csubj:pass` (100%) are right-to-left (child precedes parent).
 Average distance between parent and child is 7.25.
 
-The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="id-pos-VERB.html">VERB</a></tt>-<tt><a href="id-pos-VERB.html">VERB</a></tt> (6; 75% instances), <tt><a href="id-pos-VERB.html">VERB</a></tt>-<tt><a href="id-pos-NOUN.html">NOUN</a></tt> (1; 13% instances), <tt><a href="id-pos-VERB.html">VERB</a></tt>-<tt><a href="id-pos-PRON.html">PRON</a></tt> (1; 13% instances).
+The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="id-pos-VERB.html">VERB</a></tt>-<tt><a href="id-pos-VERB.html">VERB</a></tt> (6; 75% instances), <tt><a href="id-pos-VERB.html">VERB</a></tt>-<tt><a href="id-pos-PRON.html">PRON</a></tt> (2; 25% instances).
 
 
 ~~~ conllu
@@ -22,79 +22,21 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 6 csubj:pass	color:blue
-1	Pada	_	ADP	_	_	2	case	_	_
-2	pihak	_	NOUN	_	_	10	obl	_	_
-3	yang	_	PRON	_	_	4	nsubj	_	_
-4	lain	_	ADJ	_	_	2	amod	_	SpaceAfter=No
-5	,	_	PUNCT	_	_	10	punct	_	_
-6	berjenis	_	VERB	_	_	10	csubj:pass	_	_
-7	-	_	PUNCT	_	_	6	punct	_	_
-8	jenis	_	VERB	_	_	6	fixed	_	_
-9	ulat	_	NOUN	_	_	6	obj	_	_
-10	diketahui	_	VERB	_	_	0	root	_	_
-11	sebagai	_	ADP	_	_	12	case	_	_
-12	hama	_	NOUN	_	_	10	obl	_	_
-13	yang	_	PRON	_	_	14	nsubj	_	_
-14	rakus	_	ADJ	_	_	12	amod	_	SpaceAfter=No
-15	.	_	PUNCT	_	_	10	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 30	bgColor:blue
-# visual-style 30	fgColor:white
-# visual-style 34	bgColor:blue
-# visual-style 34	fgColor:white
-# visual-style 34 30 csubj:pass	color:blue
-1	Setelah	_	ADV	_	_	2	advmod	_	_
-2	sempat	_	VERB	_	_	13	advcl	_	_
-3	tertunda	_	VERB	_	_	2	xcomp	_	_
-4	selama	_	ADP	_	_	7	case	_	_
-5	lima	_	NUM	_	NumType=Card	7	nummod	_	_
-6	belas	_	NUM	_	NumType=Card	5	nummod	_	_
-7	tahun	_	NOUN	_	_	3	obl	_	SpaceAfter=No
-8	,	_	PUNCT	_	_	2	punct	_	_
-9	akhirnya	_	ADV	_	_	10	advmod	_	_
-10	album	_	NOUN	_	_	13	nsubj:pass	_	_
-11	CHINESE	_	PROPN	_	_	10	flat	_	_
-12	DEMOCRACY	_	PROPN	_	_	11	flat	_	_
-13	dirilis	_	VERB	_	_	0	root	_	_
-14	juga	_	ADV	_	_	13	advmod	_	_
-15	meski	_	ADV	_	_	20	advmod	_	_
-16	hanya	_	ADV	_	_	20	advmod	_	_
-17	secara	_	ADV	_	_	16	advmod	_	_
-18	eksklusif	_	ADJ	_	_	16	amod	_	_
-19	lewat	_	ADP	_	_	20	case	_	_
-20	Best	_	PROPN	_	_	13	obl	_	_
-21	Buy	_	PROPN	_	_	20	flat	_	SpaceAfter=No
-22	.	_	PUNCT	_	_	13	punct	_	_
-23	Lalu	_	SCONJ	_	_	25	mark	_	_
-24	setelah	_	ADV	_	_	25	advmod	_	_
-25	mengendap	_	ADP	_	_	34	advcl	_	_
-26	selama	_	ADP	_	_	29	case	_	_
-27	itu	_	DET	_	_	29	det	_	_
-28	di	_	ADP	_	_	29	case	_	_
-29	studio	_	NOUN	_	_	25	nmod	_	_
-30	apa	_	NOUN	_	_	34	csubj:pass	_	_
-31	sebenarnya	_	ADV	_	_	34	advmod	_	_
-32	yang	_	PRON	_	_	34	csubj:pass	_	_
-33	akan	_	ADV	_	_	34	advmod	_	_
-34	ditawarkan	_	VERB	_	_	13	dep	_	_
-35	Axl	_	PROPN	_	_	34	obj	_	_
-36	Rose	_	PROPN	_	_	35	flat	_	_
-37	yang	_	PRON	_	_	39	obj	_	_
-38	notabene	_	NOUN	_	_	39	amod	_	_
-39	tinggal	_	VERB	_	_	35	acl	_	_
-40	satu	_	NUM	_	NumType=Card	39	nummod	_	_
-41	-	_	PUNCT	_	_	40	punct	_	_
-42	satunya	_	NUM	_	NumType=Card	40	fixed	_	_
-43	personel	_	NOUN	_	_	39	compound	_	_
-44	awal	_	ADJ	_	_	43	amod	_	_
-45	Guns	_	PROPN	_	_	43	flat	_	_
-46	N	_	PROPN	_	_	45	flat	_	_
-47	Roses	_	PROPN	_	_	46	flat	_	SpaceAfter=No
-48	?	_	PUNCT	_	_	34	punct	_	_
+1	Pada	pada	ADP	R--	_	2	case	_	MorphInd=^pada<r>_R--$
+2	pihak	pihak	NOUN	NSD	Number=Sing	10	obl	_	MorphInd=^pihak<n>_NSD$
+3	yang	yang	PRON	S--	_	4	nsubj	_	MorphInd=^yang<s>_S--$
+4	lain	lain	ADJ	ASP	Degree=Pos|Number=Sing	2	amod	_	SpaceAfter=No|MorphInd=^lain<a>_ASP$
+5	,	,	PUNCT	Z--	_	10	punct	_	MorphInd=^,<z>_Z--$
+6	berjenis	berjenis	VERB	VSA	Number=Sing|Voice=Act	10	csubj:pass	_	MorphInd=^ber+jenis<n>_VSA$
+7	-	-	PUNCT	Z--	_	6	punct	_	MorphInd=^-<z>_Z--$
+8	jenis	jenis	VERB	NSD	Number=Sing	6	fixed	_	MorphInd=^jenis<n>_NSD$
+9	ulat	ulat	NOUN	NSD	Number=Sing	6	obj	_	MorphInd=^ulat<n>_NSD$
+10	diketahui	diketahui	VERB	VSP	Number=Sing|Voice=Pass	0	root	_	MorphInd=^di+ketahui<v>_VSP$
+11	sebagai	sebagai	ADP	R--	_	12	case	_	MorphInd=^sebagai<r>_R--$
+12	hama	hama	NOUN	X--	_	10	obl	_	MorphInd=^hama<x>_X--$
+13	yang	yang	PRON	S--	_	14	nsubj	_	MorphInd=^yang<s>_S--$
+14	rakus	rakus	ADJ	X--	_	12	amod	_	SpaceAfter=No|MorphInd=^rakus<x>_X--$
+15	.	.	PUNCT	Z--	_	10	punct	_	MorphInd=^.<z>_Z--$
 
 ~~~
 
@@ -105,54 +47,54 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 # visual-style 34	bgColor:blue
 # visual-style 34	fgColor:white
 # visual-style 34 32 csubj:pass	color:blue
-1	Setelah	_	ADV	_	_	2	advmod	_	_
-2	sempat	_	VERB	_	_	13	advcl	_	_
-3	tertunda	_	VERB	_	_	2	xcomp	_	_
-4	selama	_	ADP	_	_	7	case	_	_
-5	lima	_	NUM	_	NumType=Card	7	nummod	_	_
-6	belas	_	NUM	_	NumType=Card	5	nummod	_	_
-7	tahun	_	NOUN	_	_	3	obl	_	SpaceAfter=No
-8	,	_	PUNCT	_	_	2	punct	_	_
-9	akhirnya	_	ADV	_	_	10	advmod	_	_
-10	album	_	NOUN	_	_	13	nsubj:pass	_	_
-11	CHINESE	_	PROPN	_	_	10	flat	_	_
-12	DEMOCRACY	_	PROPN	_	_	11	flat	_	_
-13	dirilis	_	VERB	_	_	0	root	_	_
-14	juga	_	ADV	_	_	13	advmod	_	_
-15	meski	_	ADV	_	_	20	advmod	_	_
-16	hanya	_	ADV	_	_	20	advmod	_	_
-17	secara	_	ADV	_	_	16	advmod	_	_
-18	eksklusif	_	ADJ	_	_	16	amod	_	_
-19	lewat	_	ADP	_	_	20	case	_	_
-20	Best	_	PROPN	_	_	13	obl	_	_
-21	Buy	_	PROPN	_	_	20	flat	_	SpaceAfter=No
-22	.	_	PUNCT	_	_	13	punct	_	_
-23	Lalu	_	SCONJ	_	_	25	mark	_	_
-24	setelah	_	ADV	_	_	25	advmod	_	_
-25	mengendap	_	ADP	_	_	34	advcl	_	_
-26	selama	_	ADP	_	_	29	case	_	_
-27	itu	_	DET	_	_	29	det	_	_
-28	di	_	ADP	_	_	29	case	_	_
-29	studio	_	NOUN	_	_	25	nmod	_	_
-30	apa	_	NOUN	_	_	34	csubj:pass	_	_
-31	sebenarnya	_	ADV	_	_	34	advmod	_	_
-32	yang	_	PRON	_	_	34	csubj:pass	_	_
-33	akan	_	ADV	_	_	34	advmod	_	_
-34	ditawarkan	_	VERB	_	_	13	dep	_	_
-35	Axl	_	PROPN	_	_	34	obj	_	_
-36	Rose	_	PROPN	_	_	35	flat	_	_
-37	yang	_	PRON	_	_	39	obj	_	_
-38	notabene	_	NOUN	_	_	39	amod	_	_
-39	tinggal	_	VERB	_	_	35	acl	_	_
-40	satu	_	NUM	_	NumType=Card	39	nummod	_	_
-41	-	_	PUNCT	_	_	40	punct	_	_
-42	satunya	_	NUM	_	NumType=Card	40	fixed	_	_
-43	personel	_	NOUN	_	_	39	compound	_	_
-44	awal	_	ADJ	_	_	43	amod	_	_
-45	Guns	_	PROPN	_	_	43	flat	_	_
-46	N	_	PROPN	_	_	45	flat	_	_
-47	Roses	_	PROPN	_	_	46	flat	_	SpaceAfter=No
-48	?	_	PUNCT	_	_	34	punct	_	_
+1	Setelah	setelah	ADV	R--	_	2	advmod	_	MorphInd=^setelah<r>_R--$
+2	sempat	sempat	VERB	D--	_	13	advcl	_	MorphInd=^sempat<d>_D--$
+3	tertunda	tertunda	VERB	VSP	Number=Sing|Voice=Pass	2	xcomp	_	MorphInd=^ter+tunda<v>_VSP$
+4	selama	selama	ADP	R--	_	7	case	_	MorphInd=^selama<r>_R--$
+5	lima	lima	NUM	CC-	NumType=Card	7	nummod	_	MorphInd=^lima<c>_CC-$
+6	belas	belas	NUM	CC-	NumType=Card	5	nummod	_	MorphInd=^belas<c>_CC-$
+7	tahun	tahun	NOUN	NSD	Number=Sing	3	obl	_	SpaceAfter=No|MorphInd=^tahun<n>_NSD$
+8	,	,	PUNCT	Z--	_	2	punct	_	MorphInd=^,<z>_Z--$
+9	akhirnya	akhirnya	ADV	B--	_	10	advmod	_	MorphInd=^akhirnya<b>_B--$
+10	album	album	NOUN	NSD	Number=Sing	13	nsubj:pass	_	MorphInd=^album<n>_NSD$
+11	CHINESE	chinese	PROPN	X--	_	10	flat	_	MorphInd=^chinese<x>_X--$
+12	DEMOCRACY	democracy	PROPN	F--	_	11	flat	_	MorphInd=^democracy<f>_F--$
+13	dirilis	dirilis	VERB	VSP	Number=Sing|Voice=Pass	0	root	_	MorphInd=^di+rilis<v>_VSP$
+14	juga	juga	ADV	D--	_	13	advmod	_	MorphInd=^juga<d>_D--$
+15	meski	meski	ADV	S--	_	20	advmod	_	MorphInd=^meski<s>_S--$
+16	hanya	hanya	ADV	D--	_	20	advmod	_	MorphInd=^hanya<d>_D--$
+17	secara	secara	ADV	R--	_	16	advmod	_	MorphInd=^secara<r>_R--$
+18	eksklusif	eksklusif	ADJ	ASP	Degree=Pos|Number=Sing	16	amod	_	MorphInd=^eksklusif<a>_ASP$
+19	lewat	lewat	ADP	VSA	Number=Sing|Voice=Act	20	case	_	MorphInd=^lewat<v>_VSA$
+20	Best	best	PROPN	F--	_	13	obl	_	MorphInd=^best<f>_F--$
+21	Buy	buy	PROPN	F--	_	20	flat	_	SpaceAfter=No|MorphInd=^buy<f>_F--$
+22	.	.	PUNCT	Z--	_	13	punct	_	MorphInd=^.<z>_Z--$
+23	Lalu	lalu	SCONJ	ASP	Degree=Pos|Number=Sing	25	mark	_	MorphInd=^lalu<a>_ASP$
+24	setelah	setelah	ADV	R--	_	25	advmod	_	MorphInd=^setelah<r>_R--$
+25	mengendap	mengendap	ADP	X--	_	34	advcl	_	MorphInd=^mengendap<x>_X--$
+26	selama	selama	ADP	R--	_	29	case	_	MorphInd=^selama<r>_R--$
+27	itu	itu	DET	B--	PronType=Dem	29	det	_	MorphInd=^itu<b>_B--$
+28	di	di	ADP	R--	_	29	case	_	MorphInd=^di<r>_R--$
+29	studio	studio	NOUN	NSD	Number=Sing	25	nmod	_	MorphInd=^studio<n>_NSD$
+30	apa	apa	PRON	W--	PronType=Int	34	csubj:pass	_	MorphInd=^apa<w>_W--$
+31	sebenarnya	sebenarnya	ADV	D--	_	34	advmod	_	MorphInd=^sebenarnya<d>_D--$
+32	yang	yang	PRON	S--	_	34	csubj:pass	_	MorphInd=^yang<s>_S--$
+33	akan	akan	ADV	M--	_	34	advmod	_	MorphInd=^akan<m>_M--$
+34	ditawarkan	ditawarkan	VERB	VSP	Number=Sing|Voice=Pass	13	dep	_	MorphInd=^di+tawar<v>+kan_VSP$
+35	Axl	axl	PROPN	X--	_	34	obj	_	MorphInd=^axl<x>_X--$
+36	Rose	rose	PROPN	F--	_	35	flat	_	MorphInd=^rose<f>_F--$
+37	yang	yang	PRON	S--	_	39	obj	_	MorphInd=^yang<s>_S--$
+38	notabene	notabene	NOUN	X--	_	39	amod	_	MorphInd=^notabene<x>_X--$
+39	tinggal	tinggal	VERB	VSA	Number=Sing|Voice=Act	35	acl	_	MorphInd=^tinggal<v>_VSA$
+40	satu	satu	NUM	CC-	NumType=Card	39	nummod	_	MorphInd=^satu<c>_CC-$
+41	-	-	PUNCT	Z--	_	40	punct	_	MorphInd=^-<z>_Z--$
+42	satunya	satu	NUM	CC-+PS3	Number[psor]=Sing|NumType=Card|Person[psor]=3	40	fixed	_	MorphInd=^satu<c>_CC-+dia<p>_PS3$
+43	personel	personel	NOUN	NSD	Number=Sing	39	compound	_	MorphInd=^personel<n>_NSD$
+44	awal	awal	ADJ	NSD	Number=Sing	43	amod	_	MorphInd=^awal<n>_NSD$
+45	Guns	guns	PROPN	X--	_	43	flat	_	MorphInd=^guns<x>_X--$
+46	N	n	PROPN	F--	_	45	flat	_	MorphInd=^n<f>_F--$
+47	Roses	roses	PROPN	F--	_	46	flat	_	SpaceAfter=No|MorphInd=^roses<f>_F--$
+48	?	?	PUNCT	Z--	_	34	punct	_	MorphInd=^?<z>_Z--$
 
 ~~~
 

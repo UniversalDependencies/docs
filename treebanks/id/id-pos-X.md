@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Indonesian: POS Tags: `X`
 
-There are 1 `X` lemmas (6%), 25 `X` types (0%) and 39 `X` tokens (0%).
-Out of 16 observed tags, the rank of `X` is: 16 in number of lemmas, 14 in number of types and 16 in number of tokens.
+There are 25 `X` lemmas (0%), 25 `X` types (0%) and 39 `X` tokens (0%).
+Out of 16 observed tags, the rank of `X` is: 14 in number of lemmas, 14 in number of types and 16 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em>_</em>
+The 10 most frequent `X` lemmas: <em>jpg, an, www, anti, b, dkk, s, x, y, &amp;nbsp</em>
 
 The 10 most frequent `X` types:  <em>jpg, an, www, anti, b, dkk, s, x, y, &amp;nbsp</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="id-pos-NOUN.html">NOUN</a></tt> 27313, <tt><a href="id-pos-PROPN.html">PROPN</a></tt> 22844, <tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 18228, <tt><a href="id-pos-VERB.html">VERB</a></tt> 12202, <tt><a href="id-pos-ADP.html">ADP</a></tt> 12019, <tt><a href="id-pos-ADV.html">ADV</a></tt> 4760, <tt><a href="id-pos-ADJ.html">ADJ</a></tt> 4574, <tt><a href="id-pos-PRON.html">PRON</a></tt> 4397, <tt><a href="id-pos-NUM.html">NUM</a></tt> 4386, <tt><a href="id-pos-DET.html">DET</a></tt> 3963, <tt><a href="id-pos-CCONJ.html">CCONJ</a></tt> 3659, <tt><a href="id-pos-SCONJ.html">SCONJ</a></tt> 1475, <tt><a href="id-pos-AUX.html">AUX</a></tt> 1056, <tt><a href="id-pos-PART.html">PART</a></tt> 590, <tt><a href="id-pos-SYM.html">SYM</a></tt> 418, <tt><a href="id-pos-X.html">X</a></tt> 39)
+The 10 most frequent ambiguous lemmas: <em>jpg</em> (<tt><a href="id-pos-X.html">X</a></tt> 5, <tt><a href="id-pos-PROPN.html">PROPN</a></tt> 4), <em>an</em> (<tt><a href="id-pos-NUM.html">NUM</a></tt> 36, <tt><a href="id-pos-DET.html">DET</a></tt> 11, <tt><a href="id-pos-PROPN.html">PROPN</a></tt> 10, <tt><a href="id-pos-X.html">X</a></tt> 3), <em>anti</em> (<tt><a href="id-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="id-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="id-pos-X.html">X</a></tt> 2, <tt><a href="id-pos-PROPN.html">PROPN</a></tt> 1), <em>b</em> (<tt><a href="id-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="id-pos-PROPN.html">PROPN</a></tt> 7, <tt><a href="id-pos-X.html">X</a></tt> 2), <em>dkk</em> (<tt><a href="id-pos-X.html">X</a></tt> 2, <tt><a href="id-pos-PROPN.html">PROPN</a></tt> 1), <em>s</em> (<tt><a href="id-pos-PROPN.html">PROPN</a></tt> 7, <tt><a href="id-pos-ADP.html">ADP</a></tt> 2, <tt><a href="id-pos-X.html">X</a></tt> 2, <tt><a href="id-pos-NOUN.html">NOUN</a></tt> 1), <em>x</em> (<tt><a href="id-pos-PROPN.html">PROPN</a></tt> 13, <tt><a href="id-pos-X.html">X</a></tt> 2, <tt><a href="id-pos-NUM.html">NUM</a></tt> 1), <em>y</em> (<tt><a href="id-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="id-pos-X.html">X</a></tt> 2), <em>&amp;nbsp</em> (<tt><a href="id-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 1, <tt><a href="id-pos-X.html">X</a></tt> 1), <em>d</em> (<tt><a href="id-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="id-pos-ADP.html">ADP</a></tt> 2, <tt><a href="id-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="id-pos-X.html">X</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>an</em> (<tt><a href="id-pos-NUM.html">NUM</a></tt> 36, <tt><a href="id-pos-DET.html">DET</a></tt> 11, <tt><a href="id-pos-PROPN.html">PROPN</a></tt> 9, <tt><a href="id-pos-X.html">X</a></tt> 3), <em>anti</em> (<tt><a href="id-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="id-pos-ADJ.html">ADJ</a></tt> 5, <tt><a href="id-pos-X.html">X</a></tt> 2), <em>b</em> (<tt><a href="id-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="id-pos-X.html">X</a></tt> 2, <tt><a href="id-pos-PROPN.html">PROPN</a></tt> 1), <em>s</em> (<tt><a href="id-pos-ADP.html">ADP</a></tt> 2, <tt><a href="id-pos-X.html">X</a></tt> 2, <tt><a href="id-pos-NOUN.html">NOUN</a></tt> 1), <em>x</em> (<tt><a href="id-pos-PROPN.html">PROPN</a></tt> 5, <tt><a href="id-pos-X.html">X</a></tt> 2), <em>&amp;nbsp</em> (<tt><a href="id-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 1, <tt><a href="id-pos-X.html">X</a></tt> 1), <em>d</em> (<tt><a href="id-pos-ADP.html">ADP</a></tt> 2, <tt><a href="id-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="id-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="id-pos-X.html">X</a></tt> 1), <em>di</em> (<tt><a href="id-pos-ADP.html">ADP</a></tt> 2200, <tt><a href="id-pos-VERB.html">VERB</a></tt> 11, <tt><a href="id-pos-CCONJ.html">CCONJ</a></tt> 8, <tt><a href="id-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="id-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="id-pos-X.html">X</a></tt> 1), <em>ke</em> (<tt><a href="id-pos-ADP.html">ADP</a></tt> 356, <tt><a href="id-pos-NUM.html">NUM</a></tt> 62, <tt><a href="id-pos-DET.html">DET</a></tt> 9, <tt><a href="id-pos-VERB.html">VERB</a></tt> 1, <tt><a href="id-pos-X.html">X</a></tt> 1), <em>org</em> (<tt><a href="id-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="id-pos-X.html">X</a></tt> 1)
 
@@ -66,11 +66,21 @@ The 10 most frequent ambiguous types:  <em>an</em> (<tt><a href="id-pos-NUM.html
 
 ## Morphology
 
-The form / lemma ratio of `X` is 25.000000 (the average of all parts of speech is 1437.375000).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.045372).
 
-The 1st highest number of forms (25) was observed with the lemma “_”: <em>&amp;nbsp, Duhai, an, anti, b, d, di, dkk, html, id, iscs, jpg, ke, legacy, madabout_transcript090701, madaboutmusic, or, org, s, shows, w, wnyc, www, x, y</em>.
+The 1st highest number of forms (1) was observed with the lemma “&amp;nbsp”: <em>&amp;nbsp</em>.
 
-`X` does not occur with any features.
+The 2nd highest number of forms (1) was observed with the lemma “an”: <em>an</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “anti”: <em>anti</em>.
+
+`X` occurs with 2 features: <tt><a href="id-feat-Degree.html">Degree</a></tt> (2; 5% instances), <tt><a href="id-feat-Number.html">Number</a></tt> (2; 5% instances)
+
+`X` occurs with 2 feature-value pairs: `Degree=Pos`, `Number=Sing`
+
+`X` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (37 tokens).
+Examples: <em>jpg, an, www, b, dkk, s, x, y, &amp;nbsp, Duhai</em>
 
 
 ## Relations
@@ -89,7 +99,7 @@ Parents of `X` nodes belong to 6 different parts of speech: <tt><a href="id-pos-
 
 The highest child degree of a `X` node is 14.
 
-Children of `X` nodes are attached using 7 different relations: <tt><a href="id-dep-punct.html">punct</a></tt> (17; 53% instances), <tt><a href="id-dep-dep.html">dep</a></tt> (10; 31% instances), <tt><a href="id-dep-appos.html">appos</a></tt> (1; 3% instances), <tt><a href="id-dep-conj.html">conj</a></tt> (1; 3% instances), <tt><a href="id-dep-flat.html">flat</a></tt> (1; 3% instances), <tt><a href="id-dep-nmod.html">nmod</a></tt> (1; 3% instances), <tt><a href="id-dep-nummod.html">nummod</a></tt> (1; 3% instances)
+Children of `X` nodes are attached using 7 different relations: <tt><a href="id-dep-punct.html">punct</a></tt> (16; 52% instances), <tt><a href="id-dep-dep.html">dep</a></tt> (10; 32% instances), <tt><a href="id-dep-appos.html">appos</a></tt> (1; 3% instances), <tt><a href="id-dep-conj.html">conj</a></tt> (1; 3% instances), <tt><a href="id-dep-flat.html">flat</a></tt> (1; 3% instances), <tt><a href="id-dep-nmod.html">nmod</a></tt> (1; 3% instances), <tt><a href="id-dep-nummod.html">nummod</a></tt> (1; 3% instances)
 
-Children of `X` nodes belong to 6 different parts of speech: <tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> (13; 41% instances), <tt><a href="id-pos-X.html">X</a></tt> (10; 31% instances), <tt><a href="id-pos-SYM.html">SYM</a></tt> (4; 13% instances), <tt><a href="id-pos-NOUN.html">NOUN</a></tt> (2; 6% instances), <tt><a href="id-pos-PROPN.html">PROPN</a></tt> (2; 6% instances), <tt><a href="id-pos-NUM.html">NUM</a></tt> (1; 3% instances)
+Children of `X` nodes belong to 6 different parts of speech: <tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> (12; 39% instances), <tt><a href="id-pos-X.html">X</a></tt> (10; 32% instances), <tt><a href="id-pos-SYM.html">SYM</a></tt> (4; 13% instances), <tt><a href="id-pos-NOUN.html">NOUN</a></tt> (2; 6% instances), <tt><a href="id-pos-PROPN.html">PROPN</a></tt> (2; 6% instances), <tt><a href="id-pos-NUM.html">NUM</a></tt> (1; 3% instances)
 

@@ -13,7 +13,7 @@ This relation is universal.
 21 instances of `iobj` (95%) are left-to-right (parent precedes child).
 Average distance between parent and child is 2.90909090909091.
 
-The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href="id-pos-VERB.html">VERB</a></tt>-<tt><a href="id-pos-NOUN.html">NOUN</a></tt> (8; 36% instances), <tt><a href="id-pos-VERB.html">VERB</a></tt>-<tt><a href="id-pos-PROPN.html">PROPN</a></tt> (7; 32% instances), <tt><a href="id-pos-VERB.html">VERB</a></tt>-<tt><a href="id-pos-NUM.html">NUM</a></tt> (2; 9% instances), <tt><a href="id-pos-VERB.html">VERB</a></tt>-<tt><a href="id-pos-PRON.html">PRON</a></tt> (2; 9% instances), <tt><a href="id-pos-VERB.html">VERB</a></tt>-<tt><a href="id-pos-DET.html">DET</a></tt> (1; 5% instances), <tt><a href="id-pos-VERB.html">VERB</a></tt>-<tt><a href="id-pos-SYM.html">SYM</a></tt> (1; 5% instances), <tt><a href="id-pos-VERB.html">VERB</a></tt>-<tt><a href="id-pos-VERB.html">VERB</a></tt> (1; 5% instances).
+The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href="id-pos-VERB.html">VERB</a></tt>-<tt><a href="id-pos-NOUN.html">NOUN</a></tt> (7; 32% instances), <tt><a href="id-pos-VERB.html">VERB</a></tt>-<tt><a href="id-pos-PROPN.html">PROPN</a></tt> (7; 32% instances), <tt><a href="id-pos-VERB.html">VERB</a></tt>-<tt><a href="id-pos-PRON.html">PRON</a></tt> (3; 14% instances), <tt><a href="id-pos-VERB.html">VERB</a></tt>-<tt><a href="id-pos-NUM.html">NUM</a></tt> (2; 9% instances), <tt><a href="id-pos-VERB.html">VERB</a></tt>-<tt><a href="id-pos-DET.html">DET</a></tt> (1; 5% instances), <tt><a href="id-pos-VERB.html">VERB</a></tt>-<tt><a href="id-pos-SYM.html">SYM</a></tt> (1; 5% instances), <tt><a href="id-pos-VERB.html">VERB</a></tt>-<tt><a href="id-pos-VERB.html">VERB</a></tt> (1; 5% instances).
 
 
 ~~~ conllu
@@ -22,22 +22,22 @@ The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 11 iobj	color:blue
-1	Kapal	_	NOUN	_	_	4	nsubj	_	_
-2	ini	_	DET	_	_	1	det	_	_
-3	adalah	_	AUX	_	_	4	cop	_	_
-4	kapal	_	NOUN	_	_	0	root	_	_
-5	pukat	_	NOUN	_	_	4	compound	_	_
-6	ikan	_	NOUN	_	_	5	compound	_	_
-7	yang	_	PRON	_	_	8	obj	_	_
-8	dibeli	_	VERB	_	_	4	acl	_	_
-9	Greenpeace	_	PROPN	_	_	8	obj	_	_
-10	empat	_	NUM	_	NumType=Card	11	nummod	_	_
-11	tahun	_	NOUN	_	_	8	iobj	_	_
-12	setelah	_	ADP	_	_	13	case	_	_
-13	kapal	_	NOUN	_	_	8	obl	_	_
-14	pertama	_	NUM	_	NumType=Card	13	nummod	_	_
-15	tenggelam	_	VERB	_	_	13	advmod	_	SpaceAfter=No
-16	.	_	PUNCT	_	_	4	punct	_	_
+1	Kapal	kapal	NOUN	NSD	Number=Sing	4	nsubj	_	MorphInd=^kapal<n>_NSD$
+2	ini	ini	DET	B--	PronType=Dem	1	det	_	MorphInd=^ini<b>_B--$
+3	adalah	adalah	AUX	O--	_	4	cop	_	MorphInd=^adalah<o>_O--$
+4	kapal	kapal	NOUN	NSD	Number=Sing	0	root	_	MorphInd=^kapal<n>_NSD$
+5	pukat	pukat	NOUN	X--	_	4	compound	_	MorphInd=^pukat<x>_X--$
+6	ikan	ikan	NOUN	NSD	Number=Sing	5	compound	_	MorphInd=^ikan<n>_NSD$
+7	yang	yang	PRON	S--	_	8	obj	_	MorphInd=^yang<s>_S--$
+8	dibeli	dibeli	VERB	VSP	Number=Sing|Voice=Pass	4	acl	_	MorphInd=^di+beli<v>_VSP$
+9	Greenpeace	greenpeace	PROPN	X--	_	8	obj	_	MorphInd=^greenpeace<x>_X--$
+10	empat	empat	NUM	CC-	NumType=Card	11	nummod	_	MorphInd=^empat<c>_CC-$
+11	tahun	tahun	NOUN	NSD	Number=Sing	8	iobj	_	MorphInd=^tahun<n>_NSD$
+12	setelah	setelah	ADP	R--	_	13	case	_	MorphInd=^setelah<r>_R--$
+13	kapal	kapal	NOUN	NSD	Number=Sing	8	obl	_	MorphInd=^kapal<n>_NSD$
+14	pertama	pertama	NUM	CO-	NumType=Card	13	nummod	_	MorphInd=^pertama<c>_CO-$
+15	tenggelam	tenggelam	VERB	ASP	Degree=Pos|Number=Sing	13	advmod	_	SpaceAfter=No|MorphInd=^tenggelam<a>_ASP$
+16	.	.	PUNCT	Z--	_	4	punct	_	MorphInd=^.<z>_Z--$
 
 ~~~
 
@@ -48,35 +48,39 @@ The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href=
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 iobj	color:blue
-1	Bandar	_	NOUN	_	_	4	nsubj:pass	_	_
-2	udara	_	NOUN	_	_	1	compound	_	_
-3	ini	_	DET	_	_	1	det	_	_
-4	diberi	_	VERB	_	_	0	root	_	_
-5	nama	_	NOUN	_	_	4	obj	_	_
-6	Venustiano	_	PROPN	_	_	4	iobj	_	_
-7	Carranza	_	PROPN	_	_	6	flat	_	SpaceAfter=No
-8	,	_	PUNCT	_	_	6	punct	_	_
-9	seorang	_	DET	_	_	10	det	_	_
-10	presiden	_	NOUN	_	_	6	appos	_	_
-11	Meksiko	_	PROPN	_	_	10	flat	_	SpaceAfter=No
-12	.	_	PUNCT	_	_	4	punct	_	_
+1	Bandar	bandar	NOUN	NSD	Number=Sing	4	nsubj:pass	_	MorphInd=^bandar<n>_NSD$
+2	udara	udara	NOUN	NSD	Number=Sing	1	compound	_	MorphInd=^udara<n>_NSD$
+3	ini	ini	DET	B--	PronType=Dem	1	det	_	MorphInd=^ini<b>_B--$
+4	diberi	diberi	VERB	VSP	Number=Sing|Voice=Pass	0	root	_	MorphInd=^di+beri<v>_VSP$
+5	nama	nama	NOUN	NSD	Number=Sing	4	obj	_	MorphInd=^nama<n>_NSD$
+6	Venustiano	venustiano	PROPN	X--	_	4	iobj	_	MorphInd=^venustiano<x>_X--$
+7	Carranza	carranza	PROPN	X--	_	6	flat	_	SpaceAfter=No|MorphInd=^carranza<x>_X--$
+8	,	,	PUNCT	Z--	_	6	punct	_	MorphInd=^,<z>_Z--$
+9	seorang	seorang	DET	B--	PronType=Ind	10	det	_	MorphInd=^seorang<b>_B--$
+10	presiden	presiden	NOUN	NSD	Number=Sing	6	appos	_	MorphInd=^presiden<n>_NSD$
+11	Meksiko	meksiko	PROPN	NSD	Number=Sing	10	flat	_	SpaceAfter=No|MorphInd=^meksiko<n>_NSD$
+12	.	.	PUNCT	Z--	_	4	punct	_	MorphInd=^.<z>_Z--$
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 6 iobj	color:blue
-1	Kota	_	NOUN	_	_	3	nsubj	_	_
-2	ini	_	DET	_	_	1	det	_	_
-3	memiliki	_	VERB	_	_	0	root	_	_
-4	kode	_	NOUN	_	_	3	obj	_	_
-5	pos	_	NOUN	_	_	4	compound	_	_
-6	38019	_	NUM	_	NumType=Card	3	iobj	_	SpaceAfter=No
-7	.	_	PUNCT	_	_	3	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 iobj	color:blue
+1	Maukah	mau	ADV	D--+T--	_	4	advmod	_	MorphInd=^mau<d>_D--+kah<t>_T--$
+2	kalian	kalian	PRON	PP2	Number=Plur|Person=2|PronType=Prs	4	iobj	_	MorphInd=^kalian<p>_PP2$
+3	aku	aku	PRON	PS1	Number=Sing|Person=1|Polite=Infm|PronType=Prs	4	nsubj	_	MorphInd=^aku<p>_PS1$
+4	ceritakan	ceritakan	VERB	VSA	Number=Sing|Voice=Act	0	root	_	MorphInd=^cerita<n>+kan_VSA$
+5	kisah	kisah	NOUN	NSD	Number=Sing	4	obj	_	MorphInd=^kisah<n>_NSD$
+6	tentang	tentang	ADP	VSA	Number=Sing|Voice=Act	7	case	_	MorphInd=^tentang<v>_VSA$
+7	masuk	masuk	VERB	VSA	Number=Sing|Voice=Act	4	xcomp	_	MorphInd=^masuk<v>_VSA$
+8	Islamnya	islam	NOUN	NSD+PS3	Number=Sing|Number[psor]=Sing|Person[psor]=3	7	obj	_	MorphInd=^islam<n>_NSD+dia<p>_PS3$
+9	Abu	abu	PROPN	NSD	Number=Sing	7	nsubj	_	MorphInd=^abu<n>_NSD$
+10	Dzar	dzar	PROPN	X--	_	9	flat	_	SpaceAfter=No|MorphInd=^dzar<x>_X--$
+11	?	?	PUNCT	Z--	_	4	punct	_	MorphInd=^?<z>_Z--$
 
 ~~~
 

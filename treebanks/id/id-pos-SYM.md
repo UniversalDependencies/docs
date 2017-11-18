@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Indonesian: POS Tags: `SYM`
 
-There are 1 `SYM` lemmas (6%), 15 `SYM` types (0%) and 418 `SYM` tokens (0%).
-Out of 16 observed tags, the rank of `SYM` is: 14 in number of lemmas, 15 in number of types and 15 in number of tokens.
+There are 15 `SYM` lemmas (0%), 15 `SYM` types (0%) and 418 `SYM` tokens (0%).
+Out of 16 observed tags, the rank of `SYM` is: 15 in number of lemmas, 15 in number of types and 15 in number of tokens.
 
-The 10 most frequent `SYM` lemmas: <em>_</em>
+The 10 most frequent `SYM` lemmas: <em>/, %, =, *, km, &amp;, cm, °, #, +</em>
 
 The 10 most frequent `SYM` types:  <em>/, %, =, *, km, &amp;, cm, °, #, +</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="id-pos-NOUN.html">NOUN</a></tt> 27313, <tt><a href="id-pos-PROPN.html">PROPN</a></tt> 22844, <tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 18228, <tt><a href="id-pos-VERB.html">VERB</a></tt> 12202, <tt><a href="id-pos-ADP.html">ADP</a></tt> 12019, <tt><a href="id-pos-ADV.html">ADV</a></tt> 4760, <tt><a href="id-pos-ADJ.html">ADJ</a></tt> 4574, <tt><a href="id-pos-PRON.html">PRON</a></tt> 4397, <tt><a href="id-pos-NUM.html">NUM</a></tt> 4386, <tt><a href="id-pos-DET.html">DET</a></tt> 3963, <tt><a href="id-pos-CCONJ.html">CCONJ</a></tt> 3659, <tt><a href="id-pos-SCONJ.html">SCONJ</a></tt> 1475, <tt><a href="id-pos-AUX.html">AUX</a></tt> 1056, <tt><a href="id-pos-PART.html">PART</a></tt> 590, <tt><a href="id-pos-SYM.html">SYM</a></tt> 418, <tt><a href="id-pos-X.html">X</a></tt> 39)
+The 10 most frequent ambiguous lemmas: <em>m</em> (<tt><a href="id-pos-PROPN.html">PROPN</a></tt> 20, <tt><a href="id-pos-NOUN.html">NOUN</a></tt> 13, <tt><a href="id-pos-SYM.html">SYM</a></tt> 2)
 
 The 10 most frequent ambiguous types:  <em>m</em> (<tt><a href="id-pos-NOUN.html">NOUN</a></tt> 10, <tt><a href="id-pos-SYM.html">SYM</a></tt> 2, <tt><a href="id-pos-PROPN.html">PROPN</a></tt> 1)
 
@@ -25,11 +25,21 @@ The 10 most frequent ambiguous types:  <em>m</em> (<tt><a href="id-pos-NOUN.html
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 15.000000 (the average of all parts of speech is 1437.375000).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.045372).
 
-The 1st highest number of forms (15) was observed with the lemma “_”: <em>#, $, %, &amp;, *, +, /, =, cm, km, m, m², °, ±, €</em>.
+The 1st highest number of forms (1) was observed with the lemma “#”: <em>#</em>.
 
-`SYM` does not occur with any features.
+The 2nd highest number of forms (1) was observed with the lemma “$”: <em>$</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “%”: <em>%</em>.
+
+`SYM` occurs with 1 features: <tt><a href="id-feat-Number.html">Number</a></tt> (17; 4% instances)
+
+`SYM` occurs with 1 feature-value pairs: `Number=Sing`
+
+`SYM` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (401 tokens).
+Examples: <em>/, %, =, *, km, &amp;, °, #, +, $</em>
 
 
 ## Relations

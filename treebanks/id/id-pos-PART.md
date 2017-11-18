@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Indonesian: POS Tags: `PART`
 
-There are 1 `PART` lemmas (6%), 36 `PART` types (0%) and 590 `PART` tokens (0%).
-Out of 16 observed tags, the rank of `PART` is: 9 in number of lemmas, 13 in number of types and 14 in number of tokens.
+There are 30 `PART` lemmas (0%), 36 `PART` types (0%) and 590 `PART` tokens (0%).
+Out of 16 observed tags, the rank of `PART` is: 13 in number of lemmas, 13 in number of types and 14 in number of tokens.
 
-The 10 most frequent `PART` lemmas: <em>_</em>
+The 10 most frequent `PART` lemmas: <em>tidak, bukan, tak, pun, belum, kan, ya, jangan, non, tanpa</em>
 
 The 10 most frequent `PART` types:  <em>tidak, tak, bukan, pun, bukankah, belum, kan, bukanlah, ya, jangan</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="id-pos-NOUN.html">NOUN</a></tt> 27313, <tt><a href="id-pos-PROPN.html">PROPN</a></tt> 22844, <tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 18228, <tt><a href="id-pos-VERB.html">VERB</a></tt> 12202, <tt><a href="id-pos-ADP.html">ADP</a></tt> 12019, <tt><a href="id-pos-ADV.html">ADV</a></tt> 4760, <tt><a href="id-pos-ADJ.html">ADJ</a></tt> 4574, <tt><a href="id-pos-PRON.html">PRON</a></tt> 4397, <tt><a href="id-pos-NUM.html">NUM</a></tt> 4386, <tt><a href="id-pos-DET.html">DET</a></tt> 3963, <tt><a href="id-pos-CCONJ.html">CCONJ</a></tt> 3659, <tt><a href="id-pos-SCONJ.html">SCONJ</a></tt> 1475, <tt><a href="id-pos-AUX.html">AUX</a></tt> 1056, <tt><a href="id-pos-PART.html">PART</a></tt> 590, <tt><a href="id-pos-SYM.html">SYM</a></tt> 418, <tt><a href="id-pos-X.html">X</a></tt> 39)
+The 10 most frequent ambiguous lemmas: <em>tidak</em> (<tt><a href="id-pos-PART.html">PART</a></tt> 395, <tt><a href="id-pos-ADV.html">ADV</a></tt> 24, <tt><a href="id-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="id-pos-PROPN.html">PROPN</a></tt> 1), <em>bukan</em> (<tt><a href="id-pos-PART.html">PART</a></tt> 61, <tt><a href="id-pos-ADV.html">ADV</a></tt> 10), <em>tak</em> (<tt><a href="id-pos-PART.html">PART</a></tt> 45, <tt><a href="id-pos-ADV.html">ADV</a></tt> 7, <tt><a href="id-pos-PROPN.html">PROPN</a></tt> 4), <em>pun</em> (<tt><a href="id-pos-PART.html">PART</a></tt> 29, <tt><a href="id-pos-ADV.html">ADV</a></tt> 9, <tt><a href="id-pos-DET.html">DET</a></tt> 1), <em>belum</em> (<tt><a href="id-pos-ADV.html">ADV</a></tt> 30, <tt><a href="id-pos-PART.html">PART</a></tt> 11), <em>kan</em> (<tt><a href="id-pos-PART.html">PART</a></tt> 8, <tt><a href="id-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="id-pos-PROPN.html">PROPN</a></tt> 1), <em>ya</em> (<tt><a href="id-pos-PART.html">PART</a></tt> 5, <tt><a href="id-pos-PROPN.html">PROPN</a></tt> 3, <tt><a href="id-pos-ADV.html">ADV</a></tt> 1), <em>jangan</em> (<tt><a href="id-pos-PART.html">PART</a></tt> 4, <tt><a href="id-pos-ADV.html">ADV</a></tt> 1, <tt><a href="id-pos-VERB.html">VERB</a></tt> 1), <em>non</em> (<tt><a href="id-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="id-pos-PART.html">PART</a></tt> 4, <tt><a href="id-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="id-pos-NOUN.html">NOUN</a></tt> 1), <em>tanpa</em> (<tt><a href="id-pos-ADP.html">ADP</a></tt> 39, <tt><a href="id-pos-PART.html">PART</a></tt> 4, <tt><a href="id-pos-PROPN.html">PROPN</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>tidak</em> (<tt><a href="id-pos-PART.html">PART</a></tt> 374, <tt><a href="id-pos-ADV.html">ADV</a></tt> 24, <tt><a href="id-pos-PROPN.html">PROPN</a></tt> 1), <em>tak</em> (<tt><a href="id-pos-PART.html">PART</a></tt> 43, <tt><a href="id-pos-ADV.html">ADV</a></tt> 6), <em>bukan</em> (<tt><a href="id-pos-PART.html">PART</a></tt> 39, <tt><a href="id-pos-ADV.html">ADV</a></tt> 10), <em>pun</em> (<tt><a href="id-pos-PART.html">PART</a></tt> 29, <tt><a href="id-pos-ADV.html">ADV</a></tt> 9, <tt><a href="id-pos-DET.html">DET</a></tt> 1), <em>belum</em> (<tt><a href="id-pos-ADV.html">ADV</a></tt> 29, <tt><a href="id-pos-PART.html">PART</a></tt> 10), <em>ya</em> (<tt><a href="id-pos-PART.html">PART</a></tt> 3, <tt><a href="id-pos-ADV.html">ADV</a></tt> 1, <tt><a href="id-pos-PROPN.html">PROPN</a></tt> 1), <em>non</em> (<tt><a href="id-pos-ADJ.html">ADJ</a></tt> 9, <tt><a href="id-pos-PART.html">PART</a></tt> 4, <tt><a href="id-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="id-pos-PROPN.html">PROPN</a></tt> 1), <em>tanpa</em> (<tt><a href="id-pos-ADP.html">ADP</a></tt> 35, <tt><a href="id-pos-PART.html">PART</a></tt> 3), <em>tidakkah</em> (<tt><a href="id-pos-PART.html">PART</a></tt> 2, <tt><a href="id-pos-NOUN.html">NOUN</a></tt> 1), <em>tiada</em> (<tt><a href="id-pos-PART.html">PART</a></tt> 2, <tt><a href="id-pos-NOUN.html">NOUN</a></tt> 1)
 
@@ -56,16 +56,20 @@ The 10 most frequent ambiguous types:  <em>tidak</em> (<tt><a href="id-pos-PART.
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 36.000000 (the average of all parts of speech is 1437.375000).
+The form / lemma ratio of `PART` is 1.200000 (the average of all parts of speech is 1.045372).
 
-The 1st highest number of forms (36) was observed with the lemma “_”: <em>Berdasar, Hei, Iye, Jadi, Loh, Tuh, belum, bersorak, bukan, bukankah, bukanlah, bukannya, ga, hai, jangan, kan, keluar, kok, koq, lah, membelinya, non, nya, pun, silakan, tak, tanpa, tercetusnya, terkejutnya, tiada, tidak, tidakkah, tidaklah, tidaknya, ya, yang</em>.
+The 1st highest number of forms (4) was observed with the lemma “bukan”: <em>bukan, bukankah, bukanlah, bukannya</em>.
 
-`PART` occurs with 1 features: <tt><a href="id-feat-Polarity.html">Polarity</a></tt> (519; 88% instances)
+The 2nd highest number of forms (4) was observed with the lemma “tidak”: <em>tidak, tidakkah, tidaklah, tidaknya</em>.
 
-`PART` occurs with 1 feature-value pairs: `Polarity=Neg`
+The 3rd highest number of forms (1) was observed with the lemma “belum”: <em>belum</em>.
 
-`PART` occurs with 2 feature combinations.
-The most frequent feature combination is `Polarity=Neg` (519 tokens).
+`PART` occurs with 6 features: <tt><a href="id-feat-Polarity.html">Polarity</a></tt> (519; 88% instances), <tt><a href="id-feat-Number.html">Number</a></tt> (9; 2% instances), <tt><a href="id-feat-Voice.html">Voice</a></tt> (7; 1% instances), <tt><a href="id-feat-Number-psor.html">Number[psor]</a></tt> (5; 1% instances), <tt><a href="id-feat-Person-psor.html">Person[psor]</a></tt> (5; 1% instances), <tt><a href="id-feat-Degree.html">Degree</a></tt> (2; 0% instances)
+
+`PART` occurs with 7 feature-value pairs: `Degree=Pos`, `Number=Sing`, `Number[psor]=Sing`, `Person[psor]=3`, `Polarity=Neg`, `Voice=Act`, `Voice=Pass`
+
+`PART` occurs with 9 feature combinations.
+The most frequent feature combination is `Polarity=Neg` (517 tokens).
 Examples: <em>tidak, tak, bukan, bukankah, belum, bukanlah, jangan, tanpa, tidakkah, kan</em>
 
 
@@ -73,7 +77,7 @@ Examples: <em>tidak, tak, bukan, bukankah, belum, bukanlah, jangan, tanpa, tidak
 
 `PART` nodes are attached to their parents using 13 different relations: <tt><a href="id-dep-advmod.html">advmod</a></tt> (552; 94% instances), <tt><a href="id-dep-det.html">det</a></tt> (14; 2% instances), <tt><a href="id-dep-amod.html">amod</a></tt> (6; 1% instances), <tt><a href="id-dep-conj.html">conj</a></tt> (5; 1% instances), <tt><a href="id-dep-dep.html">dep</a></tt> (4; 1% instances), <tt><a href="id-dep-acl.html">acl</a></tt> (2; 0% instances), <tt><a href="id-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="id-dep-mark.html">mark</a></tt> (1; 0% instances), <tt><a href="id-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="id-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="id-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="id-dep-root.html">root</a></tt> (1; 0% instances), <tt><a href="id-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 11 different parts of speech: <tt><a href="id-pos-VERB.html">VERB</a></tt> (391; 66% instances), <tt><a href="id-pos-ADJ.html">ADJ</a></tt> (75; 13% instances), <tt><a href="id-pos-NOUN.html">NOUN</a></tt> (65; 11% instances), <tt><a href="id-pos-PROPN.html">PROPN</a></tt> (25; 4% instances), <tt><a href="id-pos-ADV.html">ADV</a></tt> (22; 4% instances), <tt><a href="id-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="id-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="id-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="id-pos-DET.html">DET</a></tt> (1; 0% instances),  (1; 0% instances), <tt><a href="id-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 11 different parts of speech: <tt><a href="id-pos-VERB.html">VERB</a></tt> (391; 66% instances), <tt><a href="id-pos-ADJ.html">ADJ</a></tt> (75; 13% instances), <tt><a href="id-pos-NOUN.html">NOUN</a></tt> (61; 10% instances), <tt><a href="id-pos-PROPN.html">PROPN</a></tt> (24; 4% instances), <tt><a href="id-pos-ADV.html">ADV</a></tt> (22; 4% instances), <tt><a href="id-pos-PRON.html">PRON</a></tt> (12; 2% instances), <tt><a href="id-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="id-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="id-pos-DET.html">DET</a></tt> (1; 0% instances),  (1; 0% instances), <tt><a href="id-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
 571 (97%) `PART` nodes are leaves.
 

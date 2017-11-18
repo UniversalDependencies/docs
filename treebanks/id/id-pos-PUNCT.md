@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Indonesian: POS Tags: `PUNCT`
 
-There are 1 `PUNCT` lemmas (6%), 39 `PUNCT` types (0%) and 18228 `PUNCT` tokens (15%).
+There are 37 `PUNCT` lemmas (0%), 39 `PUNCT` types (0%) and 18228 `PUNCT` tokens (15%).
 Out of 16 observed tags, the rank of `PUNCT` is: 12 in number of lemmas, 12 in number of types and 3 in number of tokens.
 
-The 10 most frequent `PUNCT` lemmas: <em>_</em>
+The 10 most frequent `PUNCT` lemmas: <em>,, ., -, ), (, ?, ", :, _, ;</em>
 
 The 10 most frequent `PUNCT` types:  <em>,, ., -, ), (, ?, ", :, ', ;</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="id-pos-NOUN.html">NOUN</a></tt> 27313, <tt><a href="id-pos-PROPN.html">PROPN</a></tt> 22844, <tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 18228, <tt><a href="id-pos-VERB.html">VERB</a></tt> 12202, <tt><a href="id-pos-ADP.html">ADP</a></tt> 12019, <tt><a href="id-pos-ADV.html">ADV</a></tt> 4760, <tt><a href="id-pos-ADJ.html">ADJ</a></tt> 4574, <tt><a href="id-pos-PRON.html">PRON</a></tt> 4397, <tt><a href="id-pos-NUM.html">NUM</a></tt> 4386, <tt><a href="id-pos-DET.html">DET</a></tt> 3963, <tt><a href="id-pos-CCONJ.html">CCONJ</a></tt> 3659, <tt><a href="id-pos-SCONJ.html">SCONJ</a></tt> 1475, <tt><a href="id-pos-AUX.html">AUX</a></tt> 1056, <tt><a href="id-pos-PART.html">PART</a></tt> 590, <tt><a href="id-pos-SYM.html">SYM</a></tt> 418, <tt><a href="id-pos-X.html">X</a></tt> 39)
+The 10 most frequent ambiguous lemmas: <em>.</em> (<tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 5637, <tt><a href="id-pos-PROPN.html">PROPN</a></tt> 1), <em>_</em> (<tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 176, <tt><a href="id-pos-PROPN.html">PROPN</a></tt> 24, <tt><a href="id-pos-NOUN.html">NOUN</a></tt> 2), <em>–</em> (<tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 53, <tt><a href="id-pos-NUM.html">NUM</a></tt> 1), <em>—</em> (<tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 11, <tt><a href="id-pos-NOUN.html">NOUN</a></tt> 1), <em>~</em> (<tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="id-pos-ADJ.html">ADJ</a></tt> 1), <em>&amp;nbsp</em> (<tt><a href="id-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 1, <tt><a href="id-pos-X.html">X</a></tt> 1), <em>banyak</em> (<tt><a href="id-pos-ADV.html">ADV</a></tt> 92, <tt><a href="id-pos-DET.html">DET</a></tt> 47, <tt><a href="id-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="id-pos-PRON.html">PRON</a></tt> 2, <tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 1), <em>habis</em> (<tt><a href="id-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="id-pos-ADV.html">ADV</a></tt> 1, <tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 1), <em>mengenai</em> (<tt><a href="id-pos-ADP.html">ADP</a></tt> 33, <tt><a href="id-pos-VERB.html">VERB</a></tt> 6, <tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 1), <em>ul</em> (<tt><a href="id-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>.</em> (<tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 5637, <tt><a href="id-pos-PROPN.html">PROPN</a></tt> 1), <em>'</em> (<tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 161, <tt><a href="id-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="id-pos-NOUN.html">NOUN</a></tt> 1), <em>–</em> (<tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 53, <tt><a href="id-pos-NUM.html">NUM</a></tt> 1), <em>''</em> (<tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 14, <tt><a href="id-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="id-pos-NOUN.html">NOUN</a></tt> 1), <em>—</em> (<tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 11, <tt><a href="id-pos-NOUN.html">NOUN</a></tt> 1), <em>~</em> (<tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="id-pos-ADJ.html">ADJ</a></tt> 1), <em>&amp;nbsp</em> (<tt><a href="id-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 1, <tt><a href="id-pos-X.html">X</a></tt> 1), <em>banyak</em> (<tt><a href="id-pos-ADV.html">ADV</a></tt> 86, <tt><a href="id-pos-DET.html">DET</a></tt> 33, <tt><a href="id-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="id-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 1), <em>habis</em> (<tt><a href="id-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="id-pos-ADV.html">ADV</a></tt> 1, <tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 1), <em>mengenai</em> (<tt><a href="id-pos-ADP.html">ADP</a></tt> 30, <tt><a href="id-pos-VERB.html">VERB</a></tt> 6, <tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>.</em> (<tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 5637, <tt><a href="id-pos-PROPN.html">PROPN</a></tt> 1), <em>'</em> (<tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 161, <tt><a href="id-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="id-pos-NOUN.html">NOUN</a></tt> 1), <em>–</em> (<tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 53, <tt><a href="id-pos-NUM.html">NUM</a></tt> 1), <em>''</em> (<tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 14, <tt><a href="id-pos-PROPN.html">PROPN</a></tt> 2, <tt><a href="id-pos-NOUN.html">NOUN</a></tt> 1), <em>—</em> (<tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 11, <tt><a href="id-pos-NOUN.html">NOUN</a></tt> 1), <em>~</em> (<tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 2, <tt><a href="id-pos-ADJ.html">ADJ</a></tt> 1), <em>&amp;nbsp</em> (<tt><a href="id-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 1, <tt><a href="id-pos-X.html">X</a></tt> 1), <em>banyak</em> (<tt><a href="id-pos-ADV.html">ADV</a></tt> 86, <tt><a href="id-pos-DET.html">DET</a></tt> 34, <tt><a href="id-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="id-pos-PRON.html">PRON</a></tt> 1, <tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 1), <em>habis</em> (<tt><a href="id-pos-ADJ.html">ADJ</a></tt> 2, <tt><a href="id-pos-ADV.html">ADV</a></tt> 1, <tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 1), <em>mengenai</em> (<tt><a href="id-pos-ADP.html">ADP</a></tt> 30, <tt><a href="id-pos-VERB.html">VERB</a></tt> 6, <tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 1)
 
 
 * <em>.</em>
@@ -44,9 +44,9 @@ The 10 most frequent ambiguous types:  <em>.</em> (<tt><a href="id-pos-PUNCT.htm
   * <tt><a href="id-pos-X.html">X</a></tt> 1: <em>Kota ini memiliki luas wilayah 3.849 <b>&amp;nbsp</b> ; km² dan populasi 17.440 jiwa ( 2004 ) .</em>
 * <em>banyak</em>
   * <tt><a href="id-pos-ADV.html">ADV</a></tt> 86: <em>Desain Romulan <b>banyak</b> terinspirasi oleh desainer Italia Carlo Scarpa .</em>
-  * <tt><a href="id-pos-DET.html">DET</a></tt> 33: <em>Tetapi Ia berkata kepada mereka : `` Berapa <b>banyak</b> roti yang ada padamu ?</em>
-  * <tt><a href="id-pos-ADJ.html">ADJ</a></tt> 2: <em>Bila pengguna ingin berbahasa Indonesia , dapat bergabung dengan # bawel , # pondok , # indo , # puncak , dan masih <b>banyak</b> lagi .</em>
-  * <tt><a href="id-pos-NOUN.html">NOUN</a></tt> 1: <em>Di album Sgt . Pepper's Lonely Hearts Club Band , band ini juga menggunakan beragam alat musik India dalam lagu ' Within You Without You ' , klarinet di ' When I ' m Sixty - Four ' , alat musik gesek di ' She's Leaving Home ' , harpsicord di ' Fixing a Hole ' , harmonium di ' Being the Benefit of Mr . Kite ' dan masih <b>banyak</b> lagi .</em>
+  * <tt><a href="id-pos-DET.html">DET</a></tt> 34: <em>Tetapi Ia berkata kepada mereka : `` Berapa <b>banyak</b> roti yang ada padamu ?</em>
+  * <tt><a href="id-pos-ADJ.html">ADJ</a></tt> 1: <em>Bila pengguna ingin berbahasa Indonesia , dapat bergabung dengan # bawel , # pondok , # indo , # puncak , dan masih <b>banyak</b> lagi .</em>
+  * <tt><a href="id-pos-PRON.html">PRON</a></tt> 1: <em>Di album Sgt . Pepper's Lonely Hearts Club Band , band ini juga menggunakan beragam alat musik India dalam lagu ' Within You Without You ' , klarinet di ' When I ' m Sixty - Four ' , alat musik gesek di ' She's Leaving Home ' , harpsicord di ' Fixing a Hole ' , harmonium di ' Being the Benefit of Mr . Kite ' dan masih <b>banyak</b> lagi .</em>
   * <tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 1: <em>Saat burung kembali ke koloni , ia akan menari dengan <b>banyak</b> pasangan , namun setelah beberapa tahun ia akan memilih satu sebagai pasangan yang akan bertahan seumur hidup .</em>
 * <em>habis</em>
   * <tt><a href="id-pos-ADJ.html">ADJ</a></tt> 2: <em>Pertempuran berlangsung seimbang tapi tidak berlangsung <b>habis</b> - habisan karena beberapa orang komandan kubu Pasukan Barat seperti Tani Morimoto pernah berguru kepada Hosokawa Yūsai yang dikenal ahli dalam seni menulis Kadō .</em>
@@ -59,18 +59,28 @@ The 10 most frequent ambiguous types:  <em>.</em> (<tt><a href="id-pos-PUNCT.htm
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 39.000000 (the average of all parts of speech is 1437.375000).
+The form / lemma ratio of `PUNCT` is 1.054054 (the average of all parts of speech is 1.045372).
 
-The 1st highest number of forms (39) was observed with the lemma “_”: <em>!, ", &amp;nbsp, ', '', (, ), ,, -, --, ., ..., :, ;, ?, [, \, ], _, `, ``, banyak, habis, mengenai, ul, |, ~, ·, ẹ, –, —, “, ”, …, ′, ‹, ›, 尹, （</em>.
+The 1st highest number of forms (3) was observed with the lemma “_”: <em>', '', _</em>.
 
-`PUNCT` does not occur with any features.
+The 2nd highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “"”: <em>"</em>.
+
+`PUNCT` occurs with 2 features: <tt><a href="id-feat-Degree.html">Degree</a></tt> (2; 0% instances), <tt><a href="id-feat-Number.html">Number</a></tt> (2; 0% instances)
+
+`PUNCT` occurs with 2 feature-value pairs: `Degree=Pos`, `Number=Sing`
+
+`PUNCT` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (18226 tokens).
+Examples: <em>,, ., -, ), (, ?, ", :, ', ;</em>
 
 
 ## Relations
 
 `PUNCT` nodes are attached to their parents using 9 different relations: <tt><a href="id-dep-punct.html">punct</a></tt> (18213; 100% instances), <tt><a href="id-dep-dep.html">dep</a></tt> (5; 0% instances), <tt><a href="id-dep-compound.html">compound</a></tt> (4; 0% instances), <tt><a href="id-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="id-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="id-dep-compound-plur.html">compound:plur</a></tt> (1; 0% instances), <tt><a href="id-dep-det.html">det</a></tt> (1; 0% instances), <tt><a href="id-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="id-dep-root.html">root</a></tt> (1; 0% instances)
 
-Parents of `PUNCT` nodes belong to 17 different parts of speech: <tt><a href="id-pos-VERB.html">VERB</a></tt> (7310; 40% instances), <tt><a href="id-pos-NOUN.html">NOUN</a></tt> (4823; 26% instances), <tt><a href="id-pos-PROPN.html">PROPN</a></tt> (4782; 26% instances), <tt><a href="id-pos-NUM.html">NUM</a></tt> (551; 3% instances), <tt><a href="id-pos-ADJ.html">ADJ</a></tt> (306; 2% instances), <tt><a href="id-pos-ADV.html">ADV</a></tt> (146; 1% instances), <tt><a href="id-pos-PRON.html">PRON</a></tt> (76; 0% instances), <tt><a href="id-pos-SYM.html">SYM</a></tt> (57; 0% instances), <tt><a href="id-pos-DET.html">DET</a></tt> (45; 0% instances), <tt><a href="id-pos-CCONJ.html">CCONJ</a></tt> (38; 0% instances), <tt><a href="id-pos-ADP.html">ADP</a></tt> (34; 0% instances), <tt><a href="id-pos-SCONJ.html">SCONJ</a></tt> (28; 0% instances), <tt><a href="id-pos-X.html">X</a></tt> (13; 0% instances), <tt><a href="id-pos-PART.html">PART</a></tt> (9; 0% instances), <tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="id-pos-AUX.html">AUX</a></tt> (1; 0% instances),  (1; 0% instances)
+Parents of `PUNCT` nodes belong to 17 different parts of speech: <tt><a href="id-pos-VERB.html">VERB</a></tt> (7327; 40% instances), <tt><a href="id-pos-PROPN.html">PROPN</a></tt> (4750; 26% instances), <tt><a href="id-pos-NOUN.html">NOUN</a></tt> (4698; 26% instances), <tt><a href="id-pos-NUM.html">NUM</a></tt> (550; 3% instances), <tt><a href="id-pos-ADJ.html">ADJ</a></tt> (310; 2% instances), <tt><a href="id-pos-PRON.html">PRON</a></tt> (216; 1% instances), <tt><a href="id-pos-ADV.html">ADV</a></tt> (144; 1% instances), <tt><a href="id-pos-SYM.html">SYM</a></tt> (57; 0% instances), <tt><a href="id-pos-DET.html">DET</a></tt> (45; 0% instances), <tt><a href="id-pos-CCONJ.html">CCONJ</a></tt> (38; 0% instances), <tt><a href="id-pos-ADP.html">ADP</a></tt> (34; 0% instances), <tt><a href="id-pos-SCONJ.html">SCONJ</a></tt> (28; 0% instances), <tt><a href="id-pos-X.html">X</a></tt> (12; 0% instances), <tt><a href="id-pos-PART.html">PART</a></tt> (9; 0% instances), <tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="id-pos-AUX.html">AUX</a></tt> (1; 0% instances),  (1; 0% instances)
 
 18204 (100%) `PUNCT` nodes are leaves.
 

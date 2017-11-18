@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Indonesian: POS Tags: `SCONJ`
 
-There are 1 `SCONJ` lemmas (6%), 88 `SCONJ` types (0%) and 1475 `SCONJ` tokens (1%).
-Out of 16 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 9 in number of types and 12 in number of tokens.
+There are 87 `SCONJ` lemmas (0%), 88 `SCONJ` types (0%) and 1475 `SCONJ` tokens (1%).
+Out of 16 observed tags, the rank of `SCONJ` is: 9 in number of lemmas, 9 in number of types and 12 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: <em>_</em>
+The 10 most frequent `SCONJ` lemmas: <em>karena, bahwa, namun, ketika, sehingga, maka, jika, setelah, yaitu, sementara</em>
 
 The 10 most frequent `SCONJ` types:  <em>karena, bahwa, namun, ketika, sehingga, maka, jika, setelah, yaitu, sementara</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="id-pos-NOUN.html">NOUN</a></tt> 27313, <tt><a href="id-pos-PROPN.html">PROPN</a></tt> 22844, <tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> 18228, <tt><a href="id-pos-VERB.html">VERB</a></tt> 12202, <tt><a href="id-pos-ADP.html">ADP</a></tt> 12019, <tt><a href="id-pos-ADV.html">ADV</a></tt> 4760, <tt><a href="id-pos-ADJ.html">ADJ</a></tt> 4574, <tt><a href="id-pos-PRON.html">PRON</a></tt> 4397, <tt><a href="id-pos-NUM.html">NUM</a></tt> 4386, <tt><a href="id-pos-DET.html">DET</a></tt> 3963, <tt><a href="id-pos-CCONJ.html">CCONJ</a></tt> 3659, <tt><a href="id-pos-SCONJ.html">SCONJ</a></tt> 1475, <tt><a href="id-pos-AUX.html">AUX</a></tt> 1056, <tt><a href="id-pos-PART.html">PART</a></tt> 590, <tt><a href="id-pos-SYM.html">SYM</a></tt> 418, <tt><a href="id-pos-X.html">X</a></tt> 39)
+The 10 most frequent ambiguous lemmas: <em>karena</em> (<tt><a href="id-pos-SCONJ.html">SCONJ</a></tt> 176, <tt><a href="id-pos-CCONJ.html">CCONJ</a></tt> 47, <tt><a href="id-pos-ADP.html">ADP</a></tt> 19), <em>bahwa</em> (<tt><a href="id-pos-SCONJ.html">SCONJ</a></tt> 173, <tt><a href="id-pos-ADP.html">ADP</a></tt> 24, <tt><a href="id-pos-PRON.html">PRON</a></tt> 9, <tt><a href="id-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="id-pos-ADV.html">ADV</a></tt> 1), <em>namun</em> (<tt><a href="id-pos-SCONJ.html">SCONJ</a></tt> 119, <tt><a href="id-pos-CCONJ.html">CCONJ</a></tt> 22, <tt><a href="id-pos-ADP.html">ADP</a></tt> 1, <tt><a href="id-pos-ADV.html">ADV</a></tt> 1), <em>ketika</em> (<tt><a href="id-pos-SCONJ.html">SCONJ</a></tt> 92, <tt><a href="id-pos-ADP.html">ADP</a></tt> 5, <tt><a href="id-pos-ADV.html">ADV</a></tt> 5, <tt><a href="id-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="id-pos-NOUN.html">NOUN</a></tt> 3), <em>sehingga</em> (<tt><a href="id-pos-SCONJ.html">SCONJ</a></tt> 89, <tt><a href="id-pos-ADP.html">ADP</a></tt> 4, <tt><a href="id-pos-CCONJ.html">CCONJ</a></tt> 1), <em>maka</em> (<tt><a href="id-pos-SCONJ.html">SCONJ</a></tt> 65, <tt><a href="id-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="id-pos-ADV.html">ADV</a></tt> 1, <tt><a href="id-pos-DET.html">DET</a></tt> 1), <em>jika</em> (<tt><a href="id-pos-SCONJ.html">SCONJ</a></tt> 58, <tt><a href="id-pos-ADP.html">ADP</a></tt> 2, <tt><a href="id-pos-CCONJ.html">CCONJ</a></tt> 2), <em>setelah</em> (<tt><a href="id-pos-ADP.html">ADP</a></tt> 142, <tt><a href="id-pos-SCONJ.html">SCONJ</a></tt> 55, <tt><a href="id-pos-ADV.html">ADV</a></tt> 15, <tt><a href="id-pos-CCONJ.html">CCONJ</a></tt> 3), <em>yaitu</em> (<tt><a href="id-pos-ADV.html">ADV</a></tt> 81, <tt><a href="id-pos-SCONJ.html">SCONJ</a></tt> 45, <tt><a href="id-pos-ADP.html">ADP</a></tt> 9, <tt><a href="id-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="id-pos-DET.html">DET</a></tt> 1), <em>sementara</em> (<tt><a href="id-pos-SCONJ.html">SCONJ</a></tt> 44, <tt><a href="id-pos-ADJ.html">ADJ</a></tt> 13, <tt><a href="id-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="id-pos-ADV.html">ADV</a></tt> 4)
 
 The 10 most frequent ambiguous types:  <em>karena</em> (<tt><a href="id-pos-SCONJ.html">SCONJ</a></tt> 152, <tt><a href="id-pos-CCONJ.html">CCONJ</a></tt> 45, <tt><a href="id-pos-ADP.html">ADP</a></tt> 16), <em>bahwa</em> (<tt><a href="id-pos-SCONJ.html">SCONJ</a></tt> 171, <tt><a href="id-pos-ADP.html">ADP</a></tt> 23, <tt><a href="id-pos-PRON.html">PRON</a></tt> 9, <tt><a href="id-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="id-pos-ADV.html">ADV</a></tt> 1), <em>namun</em> (<tt><a href="id-pos-SCONJ.html">SCONJ</a></tt> 72, <tt><a href="id-pos-CCONJ.html">CCONJ</a></tt> 12, <tt><a href="id-pos-ADP.html">ADP</a></tt> 1), <em>ketika</em> (<tt><a href="id-pos-SCONJ.html">SCONJ</a></tt> 58, <tt><a href="id-pos-ADV.html">ADV</a></tt> 5, <tt><a href="id-pos-ADP.html">ADP</a></tt> 4, <tt><a href="id-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="id-pos-NOUN.html">NOUN</a></tt> 3), <em>sehingga</em> (<tt><a href="id-pos-SCONJ.html">SCONJ</a></tt> 85, <tt><a href="id-pos-ADP.html">ADP</a></tt> 4, <tt><a href="id-pos-CCONJ.html">CCONJ</a></tt> 1), <em>maka</em> (<tt><a href="id-pos-SCONJ.html">SCONJ</a></tt> 50, <tt><a href="id-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="id-pos-DET.html">DET</a></tt> 1), <em>jika</em> (<tt><a href="id-pos-SCONJ.html">SCONJ</a></tt> 34, <tt><a href="id-pos-ADP.html">ADP</a></tt> 1, <tt><a href="id-pos-CCONJ.html">CCONJ</a></tt> 1), <em>setelah</em> (<tt><a href="id-pos-ADP.html">ADP</a></tt> 73, <tt><a href="id-pos-SCONJ.html">SCONJ</a></tt> 33, <tt><a href="id-pos-ADV.html">ADV</a></tt> 11, <tt><a href="id-pos-CCONJ.html">CCONJ</a></tt> 3), <em>yaitu</em> (<tt><a href="id-pos-ADV.html">ADV</a></tt> 79, <tt><a href="id-pos-SCONJ.html">SCONJ</a></tt> 45, <tt><a href="id-pos-ADP.html">ADP</a></tt> 9, <tt><a href="id-pos-CCONJ.html">CCONJ</a></tt> 6, <tt><a href="id-pos-DET.html">DET</a></tt> 1), <em>sementara</em> (<tt><a href="id-pos-SCONJ.html">SCONJ</a></tt> 24, <tt><a href="id-pos-ADJ.html">ADJ</a></tt> 13, <tt><a href="id-pos-ADV.html">ADV</a></tt> 3, <tt><a href="id-pos-CCONJ.html">CCONJ</a></tt> 2)
 
@@ -69,18 +69,28 @@ The 10 most frequent ambiguous types:  <em>karena</em> (<tt><a href="id-pos-SCON
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 88.000000 (the average of all parts of speech is 1437.375000).
+The form / lemma ratio of `SCONJ` is 1.011494 (the average of all parts of speech is 1.045372).
 
-The 1st highest number of forms (88) was observed with the lemma “_”: <em>Adapaun, Adapun, Akan, Bagaimana, Bagaimanapun, Baru, Dan, Dengan, Disamping, Juga, Kalo, Karenanya, Lantas, Pertama, Sejak, Selama, Semenjak, Sempat, Sesudah, Tatkala, agar, akhirnya, akibat, akibatnya, antara, apabila, apakah, bahkan, bahwa, bahwasanya, begitu, berikut, berkat, bila, darimana, demikian, di, dimana, hingga, itu, jadi, jika, kalau, karena, kecuali, kemudian, kerana, ketika, lalu, lantaran, maka, malahan, mana, melainkan, meski, meskipn, meskipun, misalnya, namun, padahal, saat, sambil, sampai, seandainya, sebab, sebagaimana, sebaliknya, sebelum, sedangkan, sedangkkan, sehingga, sekalipun, selain, sementara, seperti, serta, setelah, sewaktu, supaya, tapi, ternyata, tetapi, usai, waktu, walau, walaupun, yaitu, yakni</em>.
+The 1st highest number of forms (2) was observed with the lemma “akibat”: <em>akibat, akibatnya</em>.
 
-`SCONJ` does not occur with any features.
+The 2nd highest number of forms (1) was observed with the lemma “ada”: <em>Adapun</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “adapaun”: <em>Adapaun</em>.
+
+`SCONJ` occurs with 6 features: <tt><a href="id-feat-Number.html">Number</a></tt> (98; 7% instances), <tt><a href="id-feat-Degree.html">Degree</a></tt> (45; 3% instances), <tt><a href="id-feat-PronType.html">PronType</a></tt> (26; 2% instances), <tt><a href="id-feat-Voice.html">Voice</a></tt> (7; 0% instances), <tt><a href="id-feat-Number-psor.html">Number[psor]</a></tt> (4; 0% instances), <tt><a href="id-feat-Person-psor.html">Person[psor]</a></tt> (4; 0% instances)
+
+`SCONJ` occurs with 9 feature-value pairs: `Degree=Pos`, `Degree=Sup`, `Number=Sing`, `Number[psor]=Sing`, `Person[psor]=3`, `PronType=Dem`, `PronType=Int`, `Voice=Act`, `Voice=Pass`
+
+`SCONJ` occurs with 9 feature combinations.
+The most frequent feature combination is `_` (1351 tokens).
+Examples: <em>karena, bahwa, namun, ketika, sehingga, maka, jika, setelah, yaitu, sementara</em>
 
 
 ## Relations
 
 `SCONJ` nodes are attached to their parents using 2 different relations: <tt><a href="id-dep-mark.html">mark</a></tt> (1457; 99% instances), <tt><a href="id-dep-fixed.html">fixed</a></tt> (18; 1% instances)
 
-Parents of `SCONJ` nodes belong to 11 different parts of speech: <tt><a href="id-pos-VERB.html">VERB</a></tt> (1165; 79% instances), <tt><a href="id-pos-NOUN.html">NOUN</a></tt> (173; 12% instances), <tt><a href="id-pos-PROPN.html">PROPN</a></tt> (59; 4% instances), <tt><a href="id-pos-ADJ.html">ADJ</a></tt> (39; 3% instances), <tt><a href="id-pos-CCONJ.html">CCONJ</a></tt> (17; 1% instances), <tt><a href="id-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="id-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="id-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="id-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="id-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 11 different parts of speech: <tt><a href="id-pos-VERB.html">VERB</a></tt> (1165; 79% instances), <tt><a href="id-pos-NOUN.html">NOUN</a></tt> (162; 11% instances), <tt><a href="id-pos-PROPN.html">PROPN</a></tt> (58; 4% instances), <tt><a href="id-pos-ADJ.html">ADJ</a></tt> (39; 3% instances), <tt><a href="id-pos-PRON.html">PRON</a></tt> (20; 1% instances), <tt><a href="id-pos-CCONJ.html">CCONJ</a></tt> (17; 1% instances), <tt><a href="id-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="id-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="id-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="id-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances)
 
 1410 (96%) `SCONJ` nodes are leaves.
 

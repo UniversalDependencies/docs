@@ -9,18 +9,53 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Card`.
 
-4386 tokens (4%) have a non-empty value of `NumType`.
-909 types (5%) occur at least once with a non-empty value of `NumType`.
-1 lemmas (0) occur at least once with a non-empty value of `NumType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="id-pos-NUM.html">NUM</a></tt> (4386; 4% instances).
+4714 tokens (4%) have a non-empty value of `NumType`.
+917 types (5%) occur at least once with a non-empty value of `NumType`.
+896 lemmas (5%) occur at least once with a non-empty value of `NumType`.
+The feature is used with 4 part-of-speech tags: <tt><a href="id-pos-NUM.html">NUM</a></tt> (4383; 4% instances), <tt><a href="id-pos-DET.html">DET</a></tt> (243; 0% instances), <tt><a href="id-pos-ADV.html">ADV</a></tt> (82; 0% instances), <tt><a href="id-pos-PRON.html">PRON</a></tt> (6; 0% instances).
 
 ### `NUM`
 
-4386 <tt><a href="id-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
+4383 <tt><a href="id-pos-NUM.html">NUM</a></tt> tokens (100% of all `NUM` tokens) have a non-empty value of `NumType`.
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (4386; 100% of non-empty `NumType`): <em>dua, pertama, kedua, 1, satu, 2, 3, 5, tiga, 4</em>
+* `Card` (4383; 100% of non-empty `NumType`): <em>dua, pertama, kedua, 1, satu, 2, 3, 5, tiga, 4</em>
+
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (891) occur only with one value of `NumType`.
+
+### `DET`
+
+243 <tt><a href="id-pos-DET.html">DET</a></tt> tokens (6% of all `DET` tokens) have a non-empty value of `NumType`.
+
+The most frequent other feature values with which `DET` and `NumType` co-occurred: <tt><a href="id-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (240; 99%).
+
+`DET` tokens may have the following values of `NumType`:
+
+* `Card` (243; 100% of non-empty `NumType`): <em>beberapa, banyak, sejumlah, berapa, sepasang, Banyaknya</em>
+* `EMPTY` (3763): <em>ini, itu, sebuah, tersebut, satu, seorang, salah, para, berbagai, suatu</em>
+
+### `ADV`
+
+82 <tt><a href="id-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `NumType`.
+
+The most frequent other feature values with which `ADV` and `NumType` co-occurred: <tt><a href="id-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (82; 100%), <tt><a href="id-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (82; 100%).
+
+`ADV` tokens may have the following values of `NumType`:
+
+* `Card` (82; 100% of non-empty `NumType`): <em>banyak</em>
+* `EMPTY` (4678): <em>juga, akan, dapat, telah, lebih, kemudian, hanya, bisa, masih, sangat</em>
+
+### `PRON`
+
+6 <tt><a href="id-pos-PRON.html">PRON</a></tt> tokens (0% of all `PRON` tokens) have a non-empty value of `NumType`.
+
+The most frequent other feature values with which `PRON` and `NumType` co-occurred: <tt><a href="id-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="id-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6; 100%), <tt><a href="id-feat-PronType.html">PronType</a></tt><tt>=Ind</tt> (6; 100%).
+
+`PRON` tokens may have the following values of `NumType`:
+
+* `Card` (6; 100% of non-empty `NumType`): <em>sejumlah, banyak, beberapa</em>
+* `EMPTY` (4705): <em>yang, ia, mereka, dia, apa, kita, kamu, siapa, aku, engkau</em>
 
 ## Relations with Agreement in `NumType`
 

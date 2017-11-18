@@ -13,7 +13,7 @@ This relation is a language-specific subtype of <tt><a href="id-dep-compound.htm
 679 instances of `compound:plur` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.99410898379971.
 
-The following 10 pairs of parts of speech are connected with `compound:plur`: <tt><a href="id-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id-pos-NOUN.html">NOUN</a></tt> (535; 79% instances), <tt><a href="id-pos-ADV.html">ADV</a></tt>-<tt><a href="id-pos-ADV.html">ADV</a></tt> (37; 5% instances), <tt><a href="id-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id-pos-NOUN.html">NOUN</a></tt> (33; 5% instances), <tt><a href="id-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id-pos-ADJ.html">ADJ</a></tt> (28; 4% instances), <tt><a href="id-pos-DET.html">DET</a></tt>-<tt><a href="id-pos-DET.html">DET</a></tt> (26; 4% instances), <tt><a href="id-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id-pos-PROPN.html">PROPN</a></tt> (16; 2% instances), <tt><a href="id-pos-ADV.html">ADV</a></tt>-<tt><a href="id-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="id-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="id-pos-PRON.html">PRON</a></tt>-<tt><a href="id-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="id-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `compound:plur`: <tt><a href="id-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id-pos-NOUN.html">NOUN</a></tt> (534; 79% instances), <tt><a href="id-pos-ADV.html">ADV</a></tt>-<tt><a href="id-pos-ADV.html">ADV</a></tt> (37; 5% instances), <tt><a href="id-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id-pos-NOUN.html">NOUN</a></tt> (33; 5% instances), <tt><a href="id-pos-ADJ.html">ADJ</a></tt>-<tt><a href="id-pos-ADJ.html">ADJ</a></tt> (28; 4% instances), <tt><a href="id-pos-DET.html">DET</a></tt>-<tt><a href="id-pos-DET.html">DET</a></tt> (26; 4% instances), <tt><a href="id-pos-PROPN.html">PROPN</a></tt>-<tt><a href="id-pos-PROPN.html">PROPN</a></tt> (16; 2% instances), <tt><a href="id-pos-PRON.html">PRON</a></tt>-<tt><a href="id-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="id-pos-ADV.html">ADV</a></tt>-<tt><a href="id-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="id-pos-NOUN.html">NOUN</a></tt>-<tt><a href="id-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="id-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="id-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -22,20 +22,20 @@ The following 10 pairs of parts of speech are connected with `compound:plur`: <t
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 6 compound:plur	color:blue
-1	Sebagian	_	DET	_	_	4	det	_	_
-2	besar	_	ADJ	_	_	1	amod	_	_
-3	dari	_	ADP	_	_	4	case	_	_
-4	teks	_	NOUN	_	_	8	nsubj:pass	_	_
-5	-	_	PUNCT	_	_	4	punct	_	_
-6	teks	_	NOUN	_	_	4	compound:plur	_	_
-7	ini	_	DET	_	_	4	det	_	_
-8	ditulis	_	VERB	_	_	0	root	_	_
-9	setelah	_	ADP	_	_	10	case	_	_
-10	abad	_	NOUN	_	_	8	obl	_	_
-11	ke	_	NUM	_	NumType=Card	13	det	_	_
-12	-	_	PUNCT	_	_	13	punct	_	_
-13	11	_	NUM	_	NumType=Card	10	nummod	_	SpaceAfter=No
-14	.	_	PUNCT	_	_	8	punct	_	_
+1	Sebagian	sebagian	DET	ASP	Degree=Pos|Number=Sing	4	det	_	MorphInd=^sebagian<a>_ASP$
+2	besar	besar	ADJ	ASP	Degree=Pos|Number=Sing	1	amod	_	MorphInd=^besar<a>_ASP$
+3	dari	dari	ADP	R--	_	4	case	_	MorphInd=^dari<r>_R--$
+4	teks	teks	NOUN	NSD	Number=Sing	8	nsubj:pass	_	MorphInd=^teks<n>_NSD$
+5	-	-	PUNCT	Z--	_	4	punct	_	MorphInd=^-<z>_Z--$
+6	teks	teks	NOUN	NSD	Number=Sing	4	compound:plur	_	MorphInd=^teks<n>_NSD$
+7	ini	ini	DET	B--	PronType=Dem	4	det	_	MorphInd=^ini<b>_B--$
+8	ditulis	ditulis	VERB	VSP	Number=Sing|Voice=Pass	0	root	_	MorphInd=^di+tulis<v>_VSP$
+9	setelah	setelah	ADP	R--	_	10	case	_	MorphInd=^setelah<r>_R--$
+10	abad	abad	NOUN	NSD	Number=Sing	8	obl	_	MorphInd=^abad<n>_NSD$
+11	ke	ke	NUM	R--	NumType=Card	13	det	_	MorphInd=^ke<r>_R--$
+12	-	-	PUNCT	Z--	_	13	punct	_	MorphInd=^-<z>_Z--$
+13	11	11	NUM	CC-	NumType=Card	10	nummod	_	SpaceAfter=No|MorphInd=^11<c>_CC-$
+14	.	.	PUNCT	Z--	_	8	punct	_	MorphInd=^.<z>_Z--$
 
 ~~~
 
@@ -46,17 +46,17 @@ The following 10 pairs of parts of speech are connected with `compound:plur`: <t
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 compound:plur	color:blue
-1	Kira	_	ADV	_	_	0	root	_	_
-2	kira	_	ADV	_	_	1	compound:plur	_	_
-3	antara	_	ADP	_	_	4	case	_	_
-4	Tadase	_	PROPN	_	_	1	nmod	_	_
-5	dan	_	CCONJ	_	_	6	cc	_	_
-6	Ikuto	_	PROPN	_	_	4	conj	_	_
-7	mana	_	ADP	_	_	1	case	_	_
-8	yang	_	PRON	_	_	10	nsubj	_	_
-9	Amu	_	ADV	_	_	10	nsubj	_	_
-10	pilih	_	VERB	_	_	1	acl	_	SpaceAfter=No
-11	?	_	PUNCT	_	_	1	punct	_	_
+1	Kira	kira	ADV	VSA	Number=Sing|Voice=Act	0	root	_	MorphInd=^kira<v>_VSA$
+2	kira	kira	ADV	VSA	Number=Sing|Voice=Act	1	compound:plur	_	MorphInd=^kira<v>_VSA$
+3	antara	antara	ADP	R--	_	4	case	_	MorphInd=^antara<r>_R--$
+4	Tadase	tadase	PROPN	X--	_	1	nmod	_	MorphInd=^tadase<x>_X--$
+5	dan	dan	CCONJ	H--	_	6	cc	_	MorphInd=^dan<h>_H--$
+6	Ikuto	ikuto	PROPN	X--	_	4	conj	_	MorphInd=^ikuto<x>_X--$
+7	mana	mana	ADP	NSD	Number=Sing	1	case	_	MorphInd=^mana<n>_NSD$
+8	yang	yang	PRON	S--	_	10	nsubj	_	MorphInd=^yang<s>_S--$
+9	Amu	a	ADV	F--+PS2	Number[psor]=Sing|Person[psor]=2	10	nsubj	_	MorphInd=^a<f>_F--+kamu<p>_PS2$
+10	pilih	pilih	VERB	VSA	Number=Sing|Voice=Act	1	acl	_	SpaceAfter=No|MorphInd=^pilih<v>_VSA$
+11	?	?	PUNCT	Z--	_	1	punct	_	MorphInd=^?<z>_Z--$
 
 ~~~
 
@@ -67,17 +67,17 @@ The following 10 pairs of parts of speech are connected with `compound:plur`: <t
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 compound:plur	color:blue
-1	Teori	_	PROPN	_	_	7	nsubj	_	_
-2	-	_	PUNCT	_	_	1	punct	_	_
-3	teori	_	NOUN	_	_	1	compound:plur	_	_
-4	sosial	_	ADJ	_	_	1	amod	_	_
-5	melulu	_	ADV	_	_	7	advmod	_	_
-6	ingin	_	ADV	_	_	7	advmod	_	_
-7	menyalin	_	VERB	_	_	0	root	_	_
-8	fakta	_	NOUN	_	_	7	obj	_	_
-9	masa	_	NOUN	_	_	8	amod	_	_
-10	kini	_	ADJ	_	_	9	amod	_	SpaceAfter=No
-11	.	_	PUNCT	_	_	7	punct	_	_
+1	Teori	teori	PROPN	NSD	Number=Sing	7	nsubj	_	MorphInd=^teori<n>_NSD$
+2	-	-	PUNCT	Z--	_	1	punct	_	MorphInd=^-<z>_Z--$
+3	teori	teori	NOUN	NSD	Number=Sing	1	compound:plur	_	MorphInd=^teori<n>_NSD$
+4	sosial	sosial	ADJ	NSD	Number=Sing	1	amod	_	MorphInd=^sosial<n>_NSD$
+5	melulu	menlulu	ADV	VSA	Number=Sing|Voice=Act	7	advmod	_	MorphInd=^meN+lulu<f>_VSA$
+6	ingin	ingin	ADV	VSA	Number=Sing|Voice=Act	7	advmod	_	MorphInd=^ingin<v>_VSA$
+7	menyalin	mensalin	VERB	VSA	Number=Sing|Voice=Act	0	root	_	MorphInd=^meN+salin<v>_VSA$
+8	fakta	fakta	NOUN	NSD	Number=Sing	7	obj	_	MorphInd=^fakta<n>_NSD$
+9	masa	masa	NOUN	NSD	Number=Sing	8	amod	_	MorphInd=^masa<n>_NSD$
+10	kini	kini	ADJ	D--	_	9	amod	_	SpaceAfter=No|MorphInd=^kini<d>_D--$
+11	.	.	PUNCT	Z--	_	7	punct	_	MorphInd=^.<z>_Z--$
 
 ~~~
 
