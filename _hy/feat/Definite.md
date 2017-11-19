@@ -14,13 +14,11 @@ udver: '2'
 </tr>
 </table>
 
-Definiteness is typically a feature of nouns, adjectives and
+Definiteness is typically a feature of nouns and
 articles. Its value distinguishes whether we are talking about
 something known and concrete, or something general or unknown. It can
 be marked on indefinite [articles](DET), or
 directly on [nouns](NOUN).
-
-Note that in Armenian the feature `Definite` can have only [nouns](NOUN).
 
 See also the related features of [PossPerson]() and [PossNumber]().
 
