@@ -11,7 +11,7 @@ Out of 14 observed tags, the rank of `INTJ` is: 6 in number of lemmas, 11 in num
 
 The 10 most frequent `INTJ` lemmas: _
 
-The 10 most frequent `INTJ` types:  అరె భేష్ అడుగో అదుగో అబ్బా అబ్బో అయ్యో అరుగో ఒరేయ్ ఒసేయ్
+The 10 most frequent `INTJ` types:  అరె, భేష్, అడుగో, అదుగో, అబ్బా, అబ్బో, అయ్యో, అరుగో, ఒరేయ్, ఒసేయ్
 
 The 10 most frequent ambiguous lemmas: _ (<tt><a href="te-pos-PUNCT.html">PUNCT</a></tt> 1464, <tt><a href="te-pos-VERB.html">VERB</a></tt> 1463, <tt><a href="te-pos-NOUN.html">NOUN</a></tt> 1440, <tt><a href="te-pos-PRON.html">PRON</a></tt> 1107, <tt><a href="te-pos-ADV.html">ADV</a></tt> 255, <tt><a href="te-pos-PROPN.html">PROPN</a></tt> 254, <tt><a href="te-pos-DET.html">DET</a></tt> 161, <tt><a href="te-pos-NUM.html">NUM</a></tt> 92, <tt><a href="te-pos-ADJ.html">ADJ</a></tt> 64, <tt><a href="te-pos-ADP.html">ADP</a></tt> 58, <tt><a href="te-pos-SCONJ.html">SCONJ</a></tt> 56, <tt><a href="te-pos-PART.html">PART</a></tt> 23, <tt><a href="te-pos-INTJ.html">INTJ</a></tt> 16, <tt><a href="te-pos-CCONJ.html">CCONJ</a></tt> 12)
 
