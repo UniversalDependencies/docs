@@ -9,7 +9,7 @@ udver: '2'
 
 Adjectives are words that typically modify nouns and specify their properties or attributes. They may also function as predicates, as in
 
-_Մեքենան կանաչ է_ “The car is green.”
+_Մեքենան կանաչ է:_ “The car is green.”
 
 The `ADJ` tag is intended for ordinary adjectives only. See [DET]() for determiners and [NUM]() for numerals.
 
@@ -20,8 +20,6 @@ Note that participles are word forms that may share properties and usage of adje
 In Armenian adjectives inflect for [Degree](). Degree can also be specified by [adverb](ADV) _ավելի_.
 
 Note that some adjectives and most adverbs in Armenian don’t have a degree feature.
-
-All adjectives and some of the adverbs may function as a noun without additional derivation, in these cases, we keep the POS tag of the original word, but assign nominal features to the word.
 
 ### Examples
 
