@@ -19,6 +19,6 @@ We mark these expressions as `ADP` when they are used as postpositions.
 
 ### Examples
 
-- _առ&nbsp;_ “in, at”
-- _ի&nbsp;_ “to”
+- _առ&nbsp;_ “up to”
+- _ի&nbsp;_ “for the sake of”
 - _ընթացքում&nbsp;_ “during”
