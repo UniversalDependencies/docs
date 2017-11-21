@@ -12,6 +12,13 @@ by making one of them a constituent of the other. The subordinating
 conjunction typically marks the incorporated constituent which has the
 status of a (subordinate) clause.
 
+We recognizing these two subclasses as subordinating conjunctions:
+
+* Complementizers like _որ, թե&nbsp;_ “that”
+* Adverbial clause introducers like _երբ&nbsp;_ “when”, _որպեսզի&nbsp; “in order”, _որովհետև&nbsp_ “beacuse”, or _նախքան&nbsp;_ “before” (when introducing a clause not a nominal)
+
+Note also, that in Armenian there are no Relativizers. 
+
 For _coordinating conjunctions,_ see [CCONJ]().
 
 ### Examples
