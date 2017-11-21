@@ -1,7 +1,7 @@
 ---
 layout: base
 title:  'Tokenization'
-permalink: cs/overview/tokenization.html
+permalink: hy/overview/tokenization.html
 udver: '2'
 ---
 
