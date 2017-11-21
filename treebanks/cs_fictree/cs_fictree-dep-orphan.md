@@ -28,7 +28,7 @@ The following 75 pairs of parts of speech are connected with `orphan`: <tt><a hr
 4	nepřehledné	přehledný	ADJ	AANS1----1N----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Neg	5	amod	_	_
 5	množství	množství	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	2	orphan	_	_
 6	krve	krev	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	5	nmod	_	SpaceAfter=No
-7	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+7	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 
@@ -56,7 +56,7 @@ The following 75 pairs of parts of speech are connected with `orphan`: <tt><a hr
 15	nic	nic	PRON	PW--4----------	Case=Acc|PronType=Neg	16	obj	_	_
 16	slyšet	slyšet	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	14	xcomp	_	SpaceAfter=No
 17	.	.	PUNCT	Z:-------------	_	2	punct	_	SpaceAfter=No
-18	"	"	PUNCT	Z:-------------	_	2	punct	_	SpaceAfter=No
+18	"	"	PUNCT	Z:-------------	_	2	punct	_	_
 
 ~~~
 
@@ -77,7 +77,7 @@ The following 75 pairs of parts of speech are connected with `orphan`: <tt><a hr
 8	teď	teď	ADV	Db-------------	PronType=Dem	3	conj	_	_
 9	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	10	case	_	_
 10	život	život	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	8	orphan	_	SpaceAfter=No
-11	.	.	PUNCT	Z:-------------	_	3	punct	_	SpaceAfter=No
+11	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
 ~~~
 

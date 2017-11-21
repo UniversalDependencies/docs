@@ -32,7 +32,7 @@ The following 26 pairs of parts of speech are connected with `mark`: <tt><a href
 8	odešla	odejít	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	4	ccomp	_	_
 9	maminka	maminka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	8	nsubj	_	SpaceAfter=No
 10	?	?	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
-11	"	"	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
+11	"	"	PUNCT	Z:-------------	_	4	punct	_	_
 
 ~~~
 
@@ -55,7 +55,7 @@ The following 26 pairs of parts of speech are connected with `mark`: <tt><a href
 10	dětmi	dítě	NOUN	NNFP7-----A----	Case=Ins|Gender=Fem|Number=Plur|Polarity=Pos	6	advcl	_	_
 11	svých	svůj	DET	P8MP2----------	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	12	det	_	_
 12	rodičů	rodič	NOUN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	10	nmod	_	SpaceAfter=No
-13	.	.	PUNCT	Z:-------------	_	6	punct	_	SpaceAfter=No
+13	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
 ~~~
 
@@ -78,7 +78,7 @@ The following 26 pairs of parts of speech are connected with `mark`: <tt><a href
 10	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	_
 11	plný	plný	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	6	ccomp	_	_
 12	holek	holka	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	11	obj	_	SpaceAfter=No
-13	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+13	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 

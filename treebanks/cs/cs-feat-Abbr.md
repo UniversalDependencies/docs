@@ -106,7 +106,7 @@ The most frequent other feature values with which `DET` and `Abbr` co-occurred: 
 `DET` tokens may have the following values of `Abbr`:
 
 * `Yes` (21; 100% of non-empty `Abbr`): <em>t, n, mn, vš</em>
-* `EMPTY` (56444): <em>to, které, který, jeho, která, jejich, své, tím, kteří, tom</em>
+* `EMPTY` (56445): <em>to, které, který, jeho, která, jejich, své, tím, kteří, tom</em>
 
 ### `X`
 

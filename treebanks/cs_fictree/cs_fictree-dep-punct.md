@@ -27,7 +27,7 @@ The following 16 pairs of parts of speech are connected with `punct`: <tt><a hre
 3	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	1	expl:pv	_	_
 4	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	5	case	_	_
 5	řeči	řeč	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	1	obl:arg	_	SpaceAfter=No
-6	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+6	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 
@@ -39,7 +39,7 @@ The following 16 pairs of parts of speech are connected with `punct`: <tt><a hre
 # visual-style 1	fgColor:white
 # visual-style 1 2 punct	color:blue
 1	Tatínka	tatínek	NOUN	NNMS4-----A----	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	SpaceAfter=No
-2	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+2	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 
@@ -59,7 +59,7 @@ The following 16 pairs of parts of speech are connected with `punct`: <tt><a hre
 7	to	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	nsubj	_	_
 8	obzvlášť	obzvlášť	ADV	Db-------------	_	9	advmod	_	_
 9	smutné	smutný	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	Z:-------------	_	9	punct	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	9	punct	_	_
 
 ~~~
 

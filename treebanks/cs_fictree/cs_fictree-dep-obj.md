@@ -31,7 +31,7 @@ The following 25 pairs of parts of speech are connected with `obj`: <tt><a href=
 7	nějaký	nějaký	DET	PZIS4----------	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	9	det	_	_
 8	snesitelnější	snesitelný	ADJ	AAIS4----2A----	Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing|Polarity=Pos	9	amod	_	_
 9	smysl	smysl	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	4	obj	_	SpaceAfter=No
-10	.	.	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
 ~~~
 
@@ -46,7 +46,7 @@ The following 25 pairs of parts of speech are connected with `obj`: <tt><a href=
 2	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	3	case	_	_
 3	to	ten	DET	PDNS4----------	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	4	obl:arg	_	_
 4	říct	říci	VERB	Vf--------A---1	Polarity=Pos|VerbForm=Inf	0	root	_	SpaceAfter=No
-5	.	.	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
+5	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
 ~~~
 
@@ -59,7 +59,7 @@ The following 25 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 1 2 obj	color:blue
 1	Vím	vědět	VERB	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	to	ten	DET	PDNS4----------	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	1	obj	_	SpaceAfter=No
-3	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+3	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 

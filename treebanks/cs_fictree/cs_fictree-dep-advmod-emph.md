@@ -25,7 +25,7 @@ The following 28 pairs of parts of speech are connected with `advmod:emph`: <tt>
 1	I	i	PART	TT-------------	_	3	advmod:emph	_	_
 2	za	za	ADP	RR--4----------	AdpType=Prep|Case=Acc	3	case	_	_
 3	rok	rok	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	SpaceAfter=No
-4	!	!	PUNCT	Z:-------------	_	3	punct	_	SpaceAfter=No
+4	!	!	PUNCT	Z:-------------	_	3	punct	_	_
 
 ~~~
 
@@ -51,7 +51,7 @@ The following 28 pairs of parts of speech are connected with `advmod:emph`: <tt>
 13	zachránila	zachránit	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	ccomp	_	_
 14	život	život	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	13	obj	_	SpaceAfter=No
 15	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
-16	"	"	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+16	"	"	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 
@@ -71,7 +71,7 @@ The following 28 pairs of parts of speech are connected with `advmod:emph`: <tt>
 7	až	až	CCONJ	J^-------------	_	8	cc	_	_
 8	šest	šest	NUM	Cn-S4----------	Case=Acc|Number=Sing|NumForm=Word|NumType=Card	6	conj	_	_
 9	let	rok	NOUN	NNNP2-----A----	Case=Gen|Gender=Neut|Number=Plur|Polarity=Pos	4	obl	_	SpaceAfter=No
-10	.	.	PUNCT	Z:-------------	_	2	punct	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	2	punct	_	_
 
 ~~~
 

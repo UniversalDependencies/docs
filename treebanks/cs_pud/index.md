@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
 The following people have contributed to making this treebank part of UD: Václava Kettnerová, Jan Hajič jr., Silvie Cinková, Zdeňka Urešová, Milan Straka, Jan Hajič, Jaroslava Hlaváčová, Daniel Zeman.
 
-Repository: [UD_Czech-PUD](https://github.com/UniversalDependencies/UD_Czech-PUD)
+Repository: [UD_Czech-PUD](https://github.com/UniversalDependencies/UD_Czech-PUD)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_pud)
 
 License: CC BY-SA 4.0
 
@@ -1110,6 +1111,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
   <li>This corpus contains 36 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: dostat se, vrátit se, zapojit se, zapsat se, donést si, halit se, hledat se, hrát si, integrovat své, klást si, koupit si, měnit se, nasazovat si, nastěhovat se, naučit se, naštvat se, obrátit se, odklonit se, potopit se, prohlásit se, promísit se, prosadit se, přeměnit se, připravovat se, půjčit si, rozvíjet se, rozšiřovat se, smířit se, spasit se, spojit se, udržet se, ukázat se, vybrat si, zaměstnat se, zastavit se, zhoršovat se</li>
+    <ul>
+      <li>Out of those, 3 lemmas occurred more than once, but never without a reflexive dependent. Examples: vrátit, zapojit, zapsat, donést, halit, integrovat, koupit, měnit, nasazovat, nastěhovat, naštvat, obrátit, odklonit, potopit, promísit, prosadit, přeměnit, půjčit, rozšiřovat, smířit, spasit, spojit, zaměstnat, zhoršovat</li>
+    </ul>
 </ul>
 
 <h3>Relations Overview</h3>

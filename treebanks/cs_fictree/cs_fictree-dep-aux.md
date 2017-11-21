@@ -28,7 +28,7 @@ The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="
 3	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	1	expl:pv	_	_
 4	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	5	case	_	_
 5	řeči	řeč	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	1	obl:arg	_	SpaceAfter=No
-6	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+6	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 
@@ -46,7 +46,7 @@ The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="
 5	byl	být	AUX	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	7	cop	_	_
 6	jsem	být	AUX	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	_
 7	šťastný	šťastný	ADJ	AAMS1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	1	conj	_	SpaceAfter=No
-8	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+8	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 
@@ -66,7 +66,7 @@ The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="
 7	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	9	case	_	_
 8	lidské	lidský	ADJ	AAFS6----1A----	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	9	amod	_	_
 9	ruce	ruka	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	6	nmod	_	SpaceAfter=No
-10	.	.	PUNCT	Z:-------------	_	6	punct	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
 ~~~
 

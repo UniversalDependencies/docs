@@ -32,7 +32,7 @@ The following 42 pairs of parts of speech are connected with `appos`: <tt><a hre
 8	slavný	slavný	ADJ	AAMS1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	10	amod	_	_
 9	pražský	pražský	ADJ	AAMS1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	10	amod	_	_
 10	zahradník	zahradník	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	SpaceAfter=No
-11	.	.	PUNCT	Z:-------------	_	10	punct	_	SpaceAfter=No
+11	.	.	PUNCT	Z:-------------	_	10	punct	_	_
 
 ~~~
 
@@ -50,7 +50,7 @@ The following 42 pairs of parts of speech are connected with `appos`: <tt><a hre
 5	až	až	CCONJ	J^-------------	_	6	cc	_	_
 6	hnědá	hnědý	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	4	conj	_	SpaceAfter=No
 7	,	,	PUNCT	Z:-------------	_	8	punct	_	_
-8	popraskaná	popraskaný	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	4	conj	_	SpaceAfter=No
+8	popraskaná	popraskaný	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	4	conj	_	_
 
 ~~~
 
@@ -72,7 +72,7 @@ The following 42 pairs of parts of speech are connected with `appos`: <tt><a hre
 9	zásah	zásah	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	8	obj	_	_
 10	německou	německý	ADJ	AAFS7----1A----	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	11	amod	_	_
 11	pumou	puma	NOUN	NNFS7-----A----	Case=Ins|Gender=Fem|Number=Sing|Polarity=Pos	9	nmod	_	SpaceAfter=No
-12	.	.	PUNCT	Z:-------------	_	5	punct	_	SpaceAfter=No
+12	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
 ~~~
 

@@ -31,7 +31,7 @@ The following 27 pairs of parts of speech are connected with `nmod`: <tt><a href
 7	mi	já	PRON	PH-S3--1-------	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	8	iobj	_	_
 8	dodalo	dodat	VERB	VpNS----R-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 9	sílu	síla	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	8	obj	_	SpaceAfter=No
-10	.	.	PUNCT	Z:-------------	_	8	punct	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	8	punct	_	_
 
 ~~~
 
@@ -52,7 +52,7 @@ The following 27 pairs of parts of speech are connected with `nmod`: <tt><a href
 8	má	můj	DET	PSFS1-S1------1	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
 9	vlastní	vlastní	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	10	amod	_	_
 10	krev	krev	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	6	appos	_	SpaceAfter=No
-11	.	.	PUNCT	Z:-------------	_	2	punct	_	SpaceAfter=No
+11	.	.	PUNCT	Z:-------------	_	2	punct	_	_
 
 ~~~
 
@@ -76,7 +76,7 @@ The following 27 pairs of parts of speech are connected with `nmod`: <tt><a href
 11	o	o	ADP	RR--4----------	AdpType=Prep|Case=Acc	12	case	_	_
 12	mě	já	PRON	PH-S4--1-------	Case=Acc|Number=Sing|Person=1|PronType=Prs|Variant=Short	13	obl:arg	_	_
 13	postarají	postarat	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	7	ccomp	_	SpaceAfter=No
-14	.	.	PUNCT	Z:-------------	_	7	punct	_	SpaceAfter=No
+14	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
 ~~~
 

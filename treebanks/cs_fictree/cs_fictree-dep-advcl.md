@@ -31,7 +31,7 @@ The following 45 pairs of parts of speech are connected with `advcl`: <tt><a hre
 7	,	,	PUNCT	Z:-------------	_	6	punct	_	_
 8	umučí	umučit	VERB	VB-P---3P-AA---	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	_
 9	ho	on	PRON	PHMS4--3-------	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	8	obj	_	SpaceAfter=No
-10	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 
@@ -51,7 +51,7 @@ The following 45 pairs of parts of speech are connected with `advcl`: <tt><a hre
 7	to	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	nsubj	_	_
 8	obzvlášť	obzvlášť	ADV	Db-------------	_	9	advmod	_	_
 9	smutné	smutný	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	Z:-------------	_	9	punct	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	9	punct	_	_
 
 ~~~
 
@@ -74,7 +74,7 @@ The following 45 pairs of parts of speech are connected with `advcl`: <tt><a hre
 10	teplotě	teplota	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	8	nmod	_	_
 11	a	a	CCONJ	J^-------------	_	12	cc	_	_
 12	revma	revma	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	10	conj	_	SpaceAfter=No
-13	.	.	PUNCT	Z:-------------	_	6	punct	_	SpaceAfter=No
+13	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
 ~~~
 

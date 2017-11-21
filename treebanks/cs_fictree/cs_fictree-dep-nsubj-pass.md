@@ -33,7 +33,7 @@ The following 11 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 9	přesadí	přesadit	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	_	_
 10	a	a	CCONJ	J^-------------	_	11	cc	_	_
 11	hotovo	hotový	ADJ	ACNS------A----	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short	9	conj	_	SpaceAfter=No
-12	.	.	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
+12	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
 ~~~
 
@@ -56,7 +56,7 @@ The following 11 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 10	a	a	CCONJ	J^-------------	_	11	cc	_	_
 11	letopočet	letopočet	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	6	conj	_	_
 12	1427	1427	NUM	C=-------------	NumForm=Digit|NumType=Card	11	nummod	_	SpaceAfter=No
-13	.	.	PUNCT	Z:-------------	_	5	punct	_	SpaceAfter=No
+13	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
 ~~~
 
@@ -80,7 +80,7 @@ The following 11 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 11	jsi	být	AUX	VB-S---2P-AA---	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	13	aux	_	_
 12	ji	on	PRON	PPFS4--3-------	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
 13	poznal	poznat	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	6	advcl	_	SpaceAfter=No
-14	.	.	PUNCT	Z:-------------	_	6	punct	_	SpaceAfter=No
+14	.	.	PUNCT	Z:-------------	_	6	punct	_	_
 
 ~~~
 

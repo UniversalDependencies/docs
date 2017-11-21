@@ -68,7 +68,7 @@ The 10 most frequent ambiguous types:  <em>J</em> (<tt><a href="cs-pos-PROPN.htm
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.440457 (the average of all parts of speech is 2.181792).
+The form / lemma ratio of `PROPN` is 1.440457 (the average of all parts of speech is 2.181829).
 
 The 1st highest number of forms (11) was observed with the lemma “Čech”: <em>ČECH, ČEŠI, Čech, Čecha, Čechem, Čechovi, Čechy, Čechů, Čechům, Češi, Češích</em>.
 

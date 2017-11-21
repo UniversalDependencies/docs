@@ -33,7 +33,7 @@ The following 15 pairs of parts of speech are connected with `parataxis`: <tt><a
 9	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	11	case	_	_
 10	tímto	tento	DET	PDIS7----------	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|PronType=Dem	11	det	_	_
 11	úsměvem	úsměv	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	3	nmod	_	SpaceAfter=No
-12	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+12	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 
@@ -58,7 +58,7 @@ The following 15 pairs of parts of speech are connected with `parataxis`: <tt><a
 12	června	červen	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	5	obl	_	_
 13	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	14	case	_	_
 14	září	září	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	5	obl	_	SpaceAfter=No
-15	)	)	PUNCT	Z:-------------	_	5	punct	_	SpaceAfter=No
+15	)	)	PUNCT	Z:-------------	_	5	punct	_	_
 
 ~~~
 
@@ -90,7 +90,7 @@ The following 15 pairs of parts of speech are connected with `parataxis`: <tt><a
 19	pustím	pustit	VERB	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	13	ccomp	_	_
 20	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	21	case	_	_
 21	řidiče	řidič	NOUN	NNMS2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	19	obl:arg	_	SpaceAfter=No
-22	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+22	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 

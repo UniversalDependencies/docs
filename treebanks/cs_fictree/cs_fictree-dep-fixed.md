@@ -35,7 +35,7 @@ The following 11 pairs of parts of speech are connected with `fixed`: <tt><a hre
 11	tohohle	tenhle	DET	PDIS2----------	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	12	det	_	_
 12	domu	dům	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	13	nmod	_	_
 13	klíče	klíč	NOUN	NNIP4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|Polarity=Pos	9	obj	_	SpaceAfter=No
-14	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+14	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 
@@ -55,7 +55,7 @@ The following 11 pairs of parts of speech are connected with `fixed`: <tt><a hre
 7	směrem	směr	NOUN	NNIS7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	9	case	_	_
 8	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	7	fixed	_	_
 9	ní	on	PRON	P5FS3--3-------	Case=Dat|Gender=Fem|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs	5	obl	_	SpaceAfter=No
-10	.	.	PUNCT	Z:-------------	_	3	punct	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
 ~~~
 
@@ -74,7 +74,7 @@ The following 11 pairs of parts of speech are connected with `fixed`: <tt><a hre
 6	nic	nic	PRON	PW--1----------	Case=Nom|PronType=Neg	8	nsubj	_	_
 7	mimořádného	mimořádný	ADJ	AANS2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	6	amod	_	_
 8	nestalo	stát	VERB	VpNS----R-NA---	Gender=Neut|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
-9	.	.	PUNCT	Z:-------------	_	8	punct	_	SpaceAfter=No
+9	.	.	PUNCT	Z:-------------	_	8	punct	_	_
 
 ~~~
 

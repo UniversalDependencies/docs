@@ -32,7 +32,7 @@ The following 37 pairs of parts of speech are connected with `obl`: <tt><a href=
 7	nějaký	nějaký	DET	PZIS4----------	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	9	det	_	_
 8	snesitelnější	snesitelný	ADJ	AAIS4----2A----	Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing|Polarity=Pos	9	amod	_	_
 9	smysl	smysl	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	4	obj	_	SpaceAfter=No
-10	.	.	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
 ~~~
 
@@ -52,7 +52,7 @@ The following 37 pairs of parts of speech are connected with `obl`: <tt><a href=
 7	nadšením	nadšení	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	5	obl	_	SpaceAfter=No
 8	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
 9	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
-10	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 
@@ -73,7 +73,7 @@ The following 37 pairs of parts of speech are connected with `obl`: <tt><a href=
 8	nadřízeného	nadřízený	NOUN	NNMS4-----A----	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	6	obj	_	_
 9	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	10	case	_	_
 10	světě	svět	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	7	obl	_	SpaceAfter=No
-11	.	.	PUNCT	Z:-------------	_	2	punct	_	SpaceAfter=No
+11	.	.	PUNCT	Z:-------------	_	2	punct	_	_
 
 ~~~
 

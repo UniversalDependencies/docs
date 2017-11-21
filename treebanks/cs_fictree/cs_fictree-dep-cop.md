@@ -31,7 +31,7 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 7	to	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	nsubj	_	_
 8	obzvlášť	obzvlášť	ADV	Db-------------	_	9	advmod	_	_
 9	smutné	smutný	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	Z:-------------	_	9	punct	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	9	punct	_	_
 
 ~~~
 
@@ -52,7 +52,7 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 8	slavný	slavný	ADJ	AAMS1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	10	amod	_	_
 9	pražský	pražský	ADJ	AAMS1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	10	amod	_	_
 10	zahradník	zahradník	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	SpaceAfter=No
-11	.	.	PUNCT	Z:-------------	_	10	punct	_	SpaceAfter=No
+11	.	.	PUNCT	Z:-------------	_	10	punct	_	_
 
 ~~~
 
@@ -71,7 +71,7 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 6	jsem	být	AUX	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
 7	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	5	expl:pv	_	_
 8	bráchy	brácha	NOUN	NNMS2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	5	iobj	_	SpaceAfter=No
-9	.	.	PUNCT	Z:-------------	_	5	punct	_	SpaceAfter=No
+9	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
 ~~~
 

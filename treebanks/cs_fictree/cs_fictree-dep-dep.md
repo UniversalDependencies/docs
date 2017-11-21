@@ -32,7 +32,7 @@ The following 84 pairs of parts of speech are connected with `dep`: <tt><a href=
 8	řekla	říci	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 9	zase	zase	PART	TT-------------	_	10	advmod:emph	_	_
 10	doktorka	doktorka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	8	nsubj	_	SpaceAfter=No
-11	.	.	PUNCT	Z:-------------	_	8	punct	_	SpaceAfter=No
+11	.	.	PUNCT	Z:-------------	_	8	punct	_	_
 
 ~~~
 
@@ -57,7 +57,7 @@ The following 84 pairs of parts of speech are connected with `dep`: <tt><a href=
 12	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	11	expl:pv	_	_
 13	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	14	case	_	_
 14	něho	on	PRON	P5MS4--3------1	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Pre|PronType=Prs	11	obl:arg	_	SpaceAfter=No
-15	;	;	PUNCT	Z:-------------	_	7	punct	_	SpaceAfter=No
+15	;	;	PUNCT	Z:-------------	_	7	punct	_	_
 
 ~~~
 
@@ -72,7 +72,7 @@ The following 84 pairs of parts of speech are connected with `dep`: <tt><a href=
 2	jako	jako	SCONJ	J,-------------	_	4	mark	_	_
 3	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	4	case	_	_
 4	pubertě	puberta	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	1	dep	_	SpaceAfter=No
-5	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+5	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 

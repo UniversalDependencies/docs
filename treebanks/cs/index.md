@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 
 The following people have contributed to making this treebank part of UD: Daniel Zeman, Jan Hajič.
 
-Repository: [UD_Czech](https://github.com/UniversalDependencies/UD_Czech)
+Repository: [UD_Czech](https://github.com/UniversalDependencies/UD_Czech)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs)
 
 License: CC BY-NC-SA 3.0
 
@@ -122,15 +123,15 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
 </ul>
 
 <ul>
-<li>This corpus contains 56 lemmas tagged as pronouns (PRON): Everything, I, all, bůhvíco, co, cokoliv, copak, cosi, což, gdo, he, it, ja, jenž, já, kdeco, kdekdo, kdo, kdokoliv, kdopak, kdosi, lecco, leccos, leckdo, ledacos, ledasco, man, máloco, málokdo, nic, nihil, nikdo, nothing, něco, někdo, on, ourselves, pranic, q, sa, samý, se, some, sotvakdo, takýs, ty, veškerý, von, vy, všecek, všechno, was, we, who, you, čo</li>
+<li>This corpus contains 55 lemmas tagged as pronouns (PRON): Everything, I, all, bůhvíco, co, cokoliv, copak, cosi, což, gdo, he, it, ja, jenž, já, kdeco, kdekdo, kdo, kdokoliv, kdopak, kdosi, lecco, leccos, leckdo, ledacos, ledasco, man, máloco, málokdo, nic, nihil, nikdo, nothing, něco, někdo, on, ourselves, q, sa, samý, se, some, sotvakdo, takýs, ty, veškerý, von, vy, všecek, všechno, was, we, who, you, čo</li>
 </ul>
 
 <ul>
-<li>This corpus contains 70 lemmas tagged as determiners (DET): Notre, Your, bůhvíjaký, c, ce, cui, hodně, jaký, jakýkoliv, jakýpak, jakýs, jakýsi, jeho, jenž, každý, kdejaký, kdovíjaký, kolik, který, kterýkoliv, kterýžto, ktorý, lecjaký, leckterý, ledajaký, mio, mnoho, moc, my, málo, málokterý, míň, móóc, můj, nejeden, nemnoho, nemálo, nespočet, nějaký, několik, několikátý, některý, něčí, onen, přemnoho, some, suus, svůj, sám, takový, takovýhle, takovýto, taký, takýs, ten, tenhle, tenhleten, tento, tentýž, that, this, tolik, toť, tvůj, týž, více, všechen, všelijaký, čí, žádný</li>
+<li>This corpus contains 70 lemmas tagged as determiners (DET): Notre, Your, bůhvíjaký, c, ce, cui, hodně, jaký, jakýkoliv, jakýpak, jakýs, jakýsi, jeho, jenž, každý, kdejaký, kdovíjaký, kolik, který, kterýkoliv, kterýžto, ktorý, lecjaký, leckterý, ledajaký, mio, mnoho, moc, my, málo, málokterý, míň, móóc, můj, nejeden, nemnoho, nemálo, nespočet, nějaký, několik, několikátý, některý, něčí, onen, pranic, přemnoho, some, suus, svůj, sám, takový, takovýhle, takovýto, taký, ten, tenhle, tenhleten, tento, tentýž, that, this, tolik, toť, tvůj, týž, více, všechen, všelijaký, čí, žádný</li>
 </ul>
 
 <ul>
-<li>Out of the above, 3 lemmas occurred sometimes as PRON and sometimes as DET: jenž, some, takýs</li>
+<li>Out of the above, 2 lemmas occurred sometimes as PRON and sometimes as DET: jenž, some</li>
 </ul>
 
 <ul>
@@ -648,7 +649,7 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
       <ul>
         <li>ADV: nikdy, nijak, nikde, nikam, odnikud</li>
         <li>DET: žádné, žádný, žádná, žádnou, žádném, žádným, žádného, žádnému, žádných, žádnými</li>
-        <li>PRON: nic, nikdo, nikoho, nikomu, ničím, ničem, ničemu, nikým, ničeho, pranic</li>
+        <li>PRON: nic, nikdo, nikoho, nikomu, ničím, ničem, ničemu, nikým, ničeho, nihil</li>
       </ul>
     </li>
     <li>Prs
@@ -1265,7 +1266,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Ins (535)</li>
       <li>VERB-Fin--NOUN-Nom (43)</li>
       <li>VERB-Fin--NOUN-Voc (1)</li>
-      <li>VERB-Fin--PRON-Acc (2004)</li>
+      <li>VERB-Fin--PRON-Acc (2003)</li>
       <li>VERB-Fin--PRON-Dat (730)</li>
       <li>VERB-Fin--PRON-Gen (95)</li>
       <li>VERB-Fin--PRON-Ins (25)</li>
@@ -1289,7 +1290,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Ins (602)</li>
       <li>VERB-Part--NOUN-Nom (23)</li>
       <li>VERB-Part--PRON (3)</li>
-      <li>VERB-Part--PRON-Acc (1870)</li>
+      <li>VERB-Part--PRON-Acc (1869)</li>
       <li>VERB-Part--PRON-Dat (517)</li>
       <li>VERB-Part--PRON-Gen (70)</li>
       <li>VERB-Part--PRON-Ins (15)</li>
@@ -1352,6 +1353,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
   <li>This corpus contains 659 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: představit se, seznámit se, koupit si, říci si, prosadit se, přečíst si, nechat se, klást si, dát si, připomenout si, připsat si, spojit se, nechat si, položit si, střídat se, říkat si, zajistit si, ponechat si, poradit si, prezentovat se, vysvětlovat si, připravit se, učit se, znát se, bránit se, protnout se, považovat se, představovat se, vysvětlit si, dostat se, připomínat si, připravovat se, uživit se, vystřídat se, zařadit se, dovolit si, kupovat si, pomáhat si, přihlásit se, přizpůsobit se, stanovit si, zapsat se, živit se, orientovat se, pomoci si, ponechávat si, prosazovat se, skrývat se, udržet se, ujasnit si</li>
+    <ul>
+      <li>Out of those, 15 lemmas occurred more than once, but never without a reflexive dependent. Examples: připojistit, prolínat, transformující, dotýkat, koupat, navléknout, obalamutit, objímat, osamostatnit, potřást, překrývající, specializovat, vykoupat, zabarikádovat, zadlužit, blamovat, distancovat, dobrat, domlouvat, halící, hlásící, holit, izolující, konkurující, líbající, masakrovat, nabít, nalhávat, nalodit, namočit, napojovat, napíchat, naroubovat, nastěhovat, oblažit, obohacující, obtížit, odhlásit, odřezávat, odřít, osamostatňující, otipovat, ověsit, podobat, podvádět, pojišťovat, pokydat, políbit, poněmčovat, posilnit</li>
+    </ul>
 </ul>
 
 <h3>Relations Overview</h3>

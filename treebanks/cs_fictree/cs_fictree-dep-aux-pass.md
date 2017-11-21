@@ -34,7 +34,7 @@ The following 1 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 10	a	a	CCONJ	J^-------------	_	11	cc	_	_
 11	letopočet	letopočet	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	6	conj	_	_
 12	1427	1427	NUM	C=-------------	NumForm=Digit|NumType=Card	11	nummod	_	SpaceAfter=No
-13	.	.	PUNCT	Z:-------------	_	5	punct	_	SpaceAfter=No
+13	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
 ~~~
 

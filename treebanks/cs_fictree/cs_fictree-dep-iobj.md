@@ -31,7 +31,7 @@ The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href=
 7	mi	já	PRON	PH-S3--1-------	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	8	iobj	_	_
 8	dodalo	dodat	VERB	VpNS----R-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 9	sílu	síla	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	8	obj	_	SpaceAfter=No
-10	.	.	PUNCT	Z:-------------	_	8	punct	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	8	punct	_	_
 
 ~~~
 
@@ -51,7 +51,7 @@ The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href=
 7	nějaký	nějaký	DET	PZIS4----------	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	9	det	_	_
 8	snesitelnější	snesitelný	ADJ	AAIS4----2A----	Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing|Polarity=Pos	9	amod	_	_
 9	smysl	smysl	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	4	obj	_	SpaceAfter=No
-10	.	.	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
 ~~~
 
@@ -69,7 +69,7 @@ The following 6 pairs of parts of speech are connected with `iobj`: <tt><a href=
 5	šeptá	šeptat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
 6	něco	něco	PRON	PZ--4----------	Case=Acc|PronType=Ind	5	obj	_	_
 7	Magdičce	Magdička	PROPN	NNFS3-----A----	Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos	5	iobj	_	SpaceAfter=No
-8	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+8	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 

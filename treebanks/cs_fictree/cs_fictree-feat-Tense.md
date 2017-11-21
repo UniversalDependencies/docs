@@ -127,7 +127,7 @@ The most frequent other feature values with which `PRON` and `Tense` co-occurred
 `PRON` tokens may have the following values of `Tense`:
 
 * `Pres` (5; 100% of non-empty `Tense`): <em>Tys</em>
-* `EMPTY` (14101): <em>se, si, mi, co, mě, ho, já, mu, ji, nic</em>
+* `EMPTY` (14100): <em>se, si, mi, co, mě, ho, já, mu, ji, nic</em>
 
 ## Relations with Agreement in `Tense`
 

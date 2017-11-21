@@ -12,7 +12,7 @@ It occurs with 7 different values: `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `Nom`, `Vo
 76230 tokens (46%) have a non-empty value of `Case`.
 17410 types (64%) occur at least once with a non-empty value of `Case`.
 8697 lemmas (63%) occur at least once with a non-empty value of `Case`.
-The feature is used with 7 part-of-speech tags: <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (27596; 17% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (14074; 8% instances), <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> (12313; 7% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (10334; 6% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (8416; 5% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (2255; 1% instances), <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> (1242; 1% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (27596; 17% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (14073; 8% instances), <tt><a href="cs_fictree-pos-ADP.html">ADP</a></tt> (12313; 7% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (10334; 6% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (8417; 5% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (2255; 1% instances), <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> (1242; 1% instances).
 
 ### `NOUN`
 
@@ -38,13 +38,13 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 
 ### `PRON`
 
-14074 <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
+14073 <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (12068; 86%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (10947; 78%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10464; 74%), <tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (8362; 59%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8081; 57%), <tt><a href="cs_fictree-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (7963; 57%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (7881; 56%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (12068; 86%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (10947; 78%), <tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (10464; 74%), <tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=Short</tt> (8362; 59%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (8080; 57%), <tt><a href="cs_fictree-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (7962; 57%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=EMPTY</tt> (7881; 56%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (7470; 53% of non-empty `Case`): <em>se, mě, ho, co, ji, je, nic, něco, nás, tě</em>
+* `Acc` (7469; 53% of non-empty `Case`): <em>se, mě, ho, co, ji, je, nic, něco, nás, tě</em>
 * `Dat` (3460; 25% of non-empty `Case`): <em>si, mi, mu, jí, ti, nám, jim, vám, mně, sobě</em>
 * `Gen` (560; 4% of non-empty `Case`): <em>mě, nich, sebe, ní, něj, nás, ho, jich, něho, jí</em>
 * `Ins` (522; 4% of non-empty `Case`): <em>ním, sebou, mnou, ní, nimi, čím, námi, tebou, vámi, něčím</em>
@@ -131,13 +131,13 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 ### `DET`
 
-8416 <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Case`.
+8417 <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (7020; 83%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7020; 83%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6639; 79%), <tt><a href="cs_fictree-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (6272; 75%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5729; 68%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (7021; 83%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (7021; 83%), <tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt> (6640; 79%), <tt><a href="cs_fictree-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (6273; 75%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5729; 68%).
 
 `DET` tokens may have the following values of `Case`:
 
-* `Acc` (2626; 31% of non-empty `Case`): <em>to, tu, všechno, kterou, které, své, ten, svou, jeho, svůj</em>
+* `Acc` (2627; 31% of non-empty `Case`): <em>to, tu, všechno, kterou, které, své, ten, svou, jeho, svůj</em>
 * `Dat` (334; 4% of non-empty `Case`): <em>tomu, svému, své, jeho, svým, té, všem, které, kterým, mému</em>
 * `Gen` (825; 10% of non-empty `Case`): <em>toho, svého, jeho, té, těch, svých, všech, mého, své, jejich</em>
 * `Ins` (537; 6% of non-empty `Case`): <em>tím, svým, svou, svými, jeho, mým, tou, kterým, kterou, všemi</em>
@@ -162,7 +162,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
   <tr><td><tt><tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>mýma</em></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td><em>moje, mé</em></td><td><em>moje</em></td><td><em>mým</em></td><td><em>mých</em></td><td></td><td><em>mých</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td><em>naše</em></td><td><em>naše</em></td><td></td><td><em>našich</em></td><td></td><td><em>našich</em></td><td><em>našimi</em></td></tr>
-  <tr><td><tt><tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td><em>moje, mé</em></td><td><em>mé, moje</em></td><td><em>mému</em></td><td><em>mého</em></td><td></td><td><em>mém</em></td><td><em>mým</em></td></tr>
+  <tr><td><tt><tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td><em>moje, mé</em></td><td><em>moje, mé</em></td><td><em>mému</em></td><td><em>mého</em></td><td></td><td><em>mém</em></td><td><em>mým</em></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td><em>naše</em></td><td><em>naše</em></td><td><em>našemu</em></td><td><em>našeho</em></td><td></td><td><em>našem</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td><em>má</em></td><td><em>moje</em></td><td></td><td><em>mých</em></td><td></td><td></td><td><em>mými</em></td></tr>
   <tr><td><tt><tt><a href="cs_fictree-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="cs_fictree-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td><em>naše</em></td><td></td><td></td><td></td><td></td><td></td><td><em>našimi</em></td></tr>
@@ -219,7 +219,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="cs_fictree-dep-case.html">case</a></tt>]--> ADP</tt> (9111; 99%),
 <tt>NOUN --[<tt><a href="cs_fictree-dep-amod.html">amod</a></tt>]--> ADJ</tt> (7635; 99%),
-<tt>NOUN --[<tt><a href="cs_fictree-dep-det.html">det</a></tt>]--> DET</tt> (4080; 100%),
+<tt>NOUN --[<tt><a href="cs_fictree-dep-det.html">det</a></tt>]--> DET</tt> (4081; 100%),
 <tt>PRON --[<tt><a href="cs_fictree-dep-case.html">case</a></tt>]--> ADP</tt> (1811; 100%),
 <tt>NOUN --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1309; 95%),
 <tt>DET --[<tt><a href="cs_fictree-dep-case.html">case</a></tt>]--> ADP</tt> (581; 99%),

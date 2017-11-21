@@ -85,7 +85,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (3394; 30% of non-empty `Person`): <em>nás, nám, mi, já, mě, my, mne, námi, mně, mnou</em>
 * `2` (459; 4% of non-empty `Person`): <em>vám, vás, vy, vámi, ty, tě, ti, you, tobě, tebe</em>
 * `3` (7277; 65% of non-empty `Person`): <em>je, nich, mu, ji, ho, jim, ní, něj, jej, jí</em>
-* `EMPTY` (33795): <em>se, si, co, kdo, což, nic, něco, nichž, jež, nikdo</em>
+* `EMPTY` (33794): <em>se, si, co, kdo, což, nic, něco, nichž, jež, nikdo</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (15) occur only with one value of `Person`.
 
@@ -100,7 +100,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 * `1` (2656; 28% of non-empty `Person`): <em>naše, naší, našich, náš, našeho, naši, našem, můj, mého, moje</em>
 * `2` (267; 3% of non-empty `Person`): <em>vaše, vaší, váš, vašeho, vaši, vašich, vašem, vašimi, vaším, Your</em>
 * `3` (6494; 69% of non-empty `Person`): <em>jeho, jejich, její, jejichž, jehož, jejím, jejíž, jejího, jejích, jejímž</em>
-* `EMPTY` (47048): <em>to, které, který, která, své, tím, kteří, tom, této, tomu</em>
+* `EMPTY` (47049): <em>to, které, který, která, své, tím, kteří, tom, této, tomu</em>
 
 ## Relations with Agreement in `Person`
 

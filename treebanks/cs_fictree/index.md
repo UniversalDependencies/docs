@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
 The following people have contributed to making this treebank part of UD: Tomáš Jelínek.
 
-Repository: [UD_Czech-FicTree](https://github.com/UniversalDependencies/UD_Czech-FicTree)
+Repository: [UD_Czech-FicTree](https://github.com/UniversalDependencies/UD_Czech-FicTree)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_fictree)
 
 License: CC BY-NC-SA 4.0
 
@@ -91,7 +92,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
 
 <ul>
 <li>This corpus contains 12760 sentences, 166432 tokens and 167010 syntactic words.</li>
-<li>This corpus contains 44419 tokens (27%) that are not followed by a space.</li>
+<li>This corpus contains 31659 tokens (19%) that are not followed by a space.</li>
 <li>This corpus does not contain words with spaces.</li>
 <li>This corpus contains 11 types of words that contain both letters and punctuation. Examples: Ha-vel, O-po-nu, pr-chá, A-ano, Cutter's, D-dobře, J-já, Ji-jistě, Za-pla-tit, bytí-na-zemi, t-tento</li>
 <li>This corpus contains 578 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
@@ -109,11 +110,11 @@ http://ceur-ws.org/Vol-1885/181.pdf
 </ul>
 
 <ul>
-<li>This corpus contains 34 lemmas tagged as pronouns (PRON): být, bůhvíco, co, cokoli, copak, cos, cosi, což, cože, jenž, já, kdeco, kdekdo, kdo, kdokoli, kdopak, kdosi, leccos, ledaco, my, málokdo, nic, nikdo, něco, někdo, on, samy, samý, se, takýs, ty, veškerý, von, všecek</li>
+<li>This corpus contains 33 lemmas tagged as pronouns (PRON): být, bůhvíco, co, cokoli, copak, cos, cosi, což, cože, jenž, já, kdeco, kdekdo, kdo, kdokoli, kdopak, kdosi, leccos, ledaco, my, málokdo, nic, nikdo, něco, někdo, on, samy, samý, se, ty, veškerý, von, všecek</li>
 </ul>
 
 <ul>
-<li>This corpus contains 52 lemmas tagged as determiners (DET): bůhvíkolik, hodně, jaký, jakýkoli, jakýpak, jakýs, jakýsi, jeho, jenž, každý, kdekterý, kdovíjaký, kolik, které, který, lecjaký, leckterý, mnoho, moc, my, málo, méně, můj, nijaký, nějaký, několik, některý, něčí, onen, pražádný, svůj, sám, takový, takovýhle, takovýto, tamhleten, tamten, ten, tenhle, tenhleten, tento, tentýž, to, tolik, tvůj, týž, víc, více, všechen, všelijaký, čí, žádný</li>
+<li>This corpus contains 53 lemmas tagged as determiners (DET): bůhvíkolik, hodně, jaký, jakýkoli, jakýpak, jakýs, jakýsi, jeho, jenž, každý, kdekterý, kdovíjaký, kolik, které, který, lecjaký, leckterý, mnoho, moc, my, málo, méně, můj, nijaký, nějaký, několik, některý, něčí, onen, pražádný, svůj, sám, takový, takovýhle, takovýto, takýs, tamhleten, tamten, ten, tenhle, tenhleten, tento, tentýž, to, tolik, tvůj, týž, víc, více, všechen, všelijaký, čí, žádný</li>
 </ul>
 
 <ul>
@@ -989,6 +990,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
   <li>This corpus contains 263 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: říkat si, koupit si, říci si, svlékat se, svléknout se, mít se, schovat se, nalít si, převléknout se, přečíst si, slyšet se, vidět se, nabídnout se, vyčítat si, znát se, nasadit si, nechat si, odpovědět si, opakovat si, prostřít se, zabít se, navonět se, odpustit si, pomoci si, ponechat si, potkat se, psát si, přesvědčit se, převlékat se, připomenout si, přiznat si, schovávat se, udržet se, ujistit se, chytnout se, držet se, dělat si, kupovat si, milující se, namlouvat si, nazvat se, obléknout se, obout se, odradit se, odvést se, odvézt se, ohlásit se, omlouvat se, omluvit se, osvobozovat se</li>
+    <ul>
+      <li>Out of those, 12 lemmas occurred more than once, but never without a reflexive dependent. Examples: převléknout, prostřít, navonět, obout, převlékat, milující, omlouvat, omluvit, ptát, sprchovat, ubránit, zakoupit, bít, cuknout, dolít, dopřávat, hanobit, holit, kousat, krýt, naládovat, namazat, namáhat, nasazovat, nasytit, natřásat, naverbovat, oblíknout, obouvat, ochudit, omezovat, opojený, opít, ospravedlňovat, osprchovat, otrávit, ovládat, označit, podrbat, popovídat, posvětit, poškrábat, předhánět, přeřadit, přeříkat, přiopít, přiožrat, připodobňovat, přizpůsobovat, půjčovat</li>
+    </ul>
 </ul>
 
 <h3>Relations Overview</h3>

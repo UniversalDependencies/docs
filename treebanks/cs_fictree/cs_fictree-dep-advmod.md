@@ -30,7 +30,7 @@ The following 33 pairs of parts of speech are connected with `advmod`: <tt><a hr
 5	proč	proč	ADV	Db-------------	PronType=Int,Rel	7	advmod	_	_
 6	dítě	dítě	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	7	nsubj	_	_
 7	pláče	plakat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	SpaceAfter=No
-8	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+8	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 
@@ -50,7 +50,7 @@ The following 33 pairs of parts of speech are connected with `advmod`: <tt><a hr
 7	to	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	nsubj	_	_
 8	obzvlášť	obzvlášť	ADV	Db-------------	_	9	advmod	_	_
 9	smutné	smutný	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	Z:-------------	_	9	punct	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	9	punct	_	_
 
 ~~~
 
@@ -74,7 +74,7 @@ The following 33 pairs of parts of speech are connected with `advmod`: <tt><a hr
 11	opravdu	opravdu	PART	TT-------------	_	12	advmod	_	_
 12	šla	jít	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	conj	_	_
 13	líp	dobře	ADV	Dg-------2A---1	Degree=Cmp|Polarity=Pos	12	advmod	_	SpaceAfter=No
-14	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+14	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 

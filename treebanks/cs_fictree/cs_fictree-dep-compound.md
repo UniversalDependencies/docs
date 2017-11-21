@@ -30,7 +30,7 @@ The following 1 pairs of parts of speech are connected with `compound`: <tt><a h
 6	i	i	PART	TT-------------	_	8	advmod:emph	_	_
 7	u	u	ADP	RR--2----------	AdpType=Prep|Case=Gen	8	case	_	_
 8	nás	já	PRON	PP-P2--1-------	Case=Gen|Number=Plur|Person=1|PronType=Prs	5	obl	_	SpaceAfter=No
-9	.	.	PUNCT	Z:-------------	_	5	punct	_	SpaceAfter=No
+9	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
 ~~~
 

@@ -27,7 +27,7 @@ The following 15 pairs of parts of speech are connected with `case`: <tt><a href
 3	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	1	expl:pv	_	_
 4	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	5	case	_	_
 5	řeči	řeč	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	1	obl:arg	_	SpaceAfter=No
-6	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+6	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 
@@ -45,7 +45,7 @@ The following 15 pairs of parts of speech are connected with `case`: <tt><a href
 5	stoupla	stoupnout	VERB	VpFS----R-AA--1	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 6	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	7	case	_	_
 7	ceně	cena	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	5	obl	_	SpaceAfter=No
-8	.	.	PUNCT	Z:-------------	_	5	punct	_	SpaceAfter=No
+8	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
 ~~~
 
@@ -62,7 +62,7 @@ The following 15 pairs of parts of speech are connected with `case`: <tt><a href
 4	:	:	PUNCT	Z:-------------	_	5	punct	_	_
 5	neurazit	urazit	VERB	Vf--------N----	Polarity=Neg|VerbForm=Inf	2	appos	_	_
 6	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	5	expl:pv	_	SpaceAfter=No
-7	.	.	PUNCT	Z:-------------	_	3	punct	_	SpaceAfter=No
+7	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
 ~~~
 

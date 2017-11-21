@@ -32,7 +32,7 @@ The following 43 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 7	mi	já	PRON	PH-S3--1-------	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	8	iobj	_	_
 8	dodalo	dodat	VERB	VpNS----R-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 9	sílu	síla	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	8	obj	_	SpaceAfter=No
-10	.	.	PUNCT	Z:-------------	_	8	punct	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	8	punct	_	_
 
 ~~~
 
@@ -55,7 +55,7 @@ The following 43 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 10	"	"	PUNCT	Z:-------------	_	8	punct	_	_
 11	žaluje	žalovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 12	dítě	dítě	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	11	nsubj	_	SpaceAfter=No
-13	.	.	PUNCT	Z:-------------	_	11	punct	_	SpaceAfter=No
+13	.	.	PUNCT	Z:-------------	_	11	punct	_	_
 
 ~~~
 
@@ -71,7 +71,7 @@ The following 43 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 3	jí	on	PRON	PPFS3--3-------	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
 4	je	být	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 5	?	?	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
-6	"	"	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
+6	"	"	PUNCT	Z:-------------	_	4	punct	_	_
 
 ~~~
 

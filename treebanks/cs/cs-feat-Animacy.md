@@ -36,7 +36,7 @@ The most frequent other feature values with which `NOUN` and `Animacy` co-occurr
   <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>členů</em></td><td><em>členů</em></td></tr>
   <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>členem</em></td><td><em>ČLENEM</em></td></tr>
   <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>členy</em></td><td><em>členy</em></td></tr>
-  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>členu, členovi</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>členovi, členu</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>členech</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>člen</em></td><td><em>člen</em></td></tr>
   <tr><td><tt><tt><a href="cs-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>členové</em></td><td></td></tr>
@@ -126,7 +126,7 @@ The most frequent other feature values with which `DET` and `Animacy` co-occurre
 
 * `Anim` (3134; 45% of non-empty `Animacy`): <em>kteří, všichni, každý, ti, někteří, sami, naši, svého, každého, kterého</em>
 * `Inan` (3853; 55% of non-empty `Animacy`): <em>které, svůj, který, tento, tyto, každý, ty, některé, ten, všechny</em>
-* `EMPTY` (49478): <em>to, jeho, které, který, která, jejich, své, tím, tom, této</em>
+* `EMPTY` (49479): <em>to, jeho, které, který, která, jejich, své, tím, tom, této</em>
 
 <table>
   <tr><th>Paradigm <i>ten</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -145,7 +145,7 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 
 * `Anim` (1730; 48% of non-empty `Animacy`): <em>kdo, nikdo, někdo, oni, koho, komu, někoho, nikoho, nikomu, někomu</em>
 * `Inan` (1903; 52% of non-empty `Animacy`): <em>co, čím, čem, čeho, jež, čemu, veškeré, veškerý, ony, WAS</em>
-* `EMPTY` (41292): <em>se, si, nás, je, nám, nich, což, mu, ji, ho</em>
+* `EMPTY` (41291): <em>se, si, nás, je, nám, nich, což, mu, ji, ho</em>
 
 <table>
   <tr><th>Paradigm <i>on</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>

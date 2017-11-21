@@ -29,7 +29,7 @@ The following 3 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 4	přistavovat	přistavovat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	3	xcomp	_	_
 5	část	část	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	3	nsubj	_	_
 6	mlýna	mlýn	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	5	nmod	_	SpaceAfter=No
-7	.	.	PUNCT	Z:-------------	_	3	punct	_	SpaceAfter=No
+7	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
 ~~~
 
@@ -53,7 +53,7 @@ The following 3 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 11	smazat	smazat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	9	xcomp	_	_
 12	pocit	pocit	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	11	obj	_	_
 13	trapnosti	trapnost	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	12	nmod	_	SpaceAfter=No
-14	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+14	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 
@@ -113,7 +113,7 @@ The following 3 pairs of parts of speech are connected with `expl:pass`: <tt><a 
 47	k	k	ADP	RR--3----------	AdpType=Prep|Case=Dat	48	case	_	_
 48	ničemu	nic	PRON	PW--3----------	Case=Dat|PronType=Neg	49	obl:arg	_	_
 49	neměl	mít	VERB	VpMS----R-NA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	3	conj	_	SpaceAfter=No
-50	.	.	PUNCT	Z:-------------	_	3	punct	_	SpaceAfter=No
+50	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
 ~~~
 

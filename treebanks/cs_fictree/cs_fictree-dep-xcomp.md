@@ -28,7 +28,7 @@ The following 33 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 4	přistavovat	přistavovat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	3	xcomp	_	_
 5	část	část	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	3	nsubj	_	_
 6	mlýna	mlýn	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	5	nmod	_	SpaceAfter=No
-7	.	.	PUNCT	Z:-------------	_	3	punct	_	SpaceAfter=No
+7	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
 ~~~
 
@@ -48,7 +48,7 @@ The following 33 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 7	zamlklí	zamlklý	ADJ	AAMP1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	1	xcomp	_	_
 8	a	a	CCONJ	J^-------------	_	9	cc	_	_
 9	rozechvělí	rozechvělý	ADJ	AAMP1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	7	conj	_	SpaceAfter=No
-10	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 
@@ -65,7 +65,7 @@ The following 33 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 4	nejsem	být	VERB	VB-S---1P-NA---	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	sama	sám	DET	PLFS1----------	Case=Nom|Gender=Fem|Number=Sing|PronType=Emp	4	xcomp	_	SpaceAfter=No
 6	.	.	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
-7	"	"	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
+7	"	"	PUNCT	Z:-------------	_	4	punct	_	_
 
 ~~~
 

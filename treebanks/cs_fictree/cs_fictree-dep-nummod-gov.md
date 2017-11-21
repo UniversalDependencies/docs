@@ -24,7 +24,7 @@ The following 2 pairs of parts of speech are connected with `nummod:gov`: <tt><a
 # visual-style 2 1 nummod:gov	color:blue
 1	Dvacet	dvacet	NUM	Cn-S1----------	Case=Nom|Number=Sing|NumForm=Word|NumType=Card	2	nummod:gov	_	_
 2	minut	minuta	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	0	root	_	SpaceAfter=No
-3	.	.	PUNCT	Z:-------------	_	2	punct	_	SpaceAfter=No
+3	.	.	PUNCT	Z:-------------	_	2	punct	_	_
 
 ~~~
 
@@ -45,7 +45,7 @@ The following 2 pairs of parts of speech are connected with `nummod:gov`: <tt><a
 8	materiálu	materiál	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	10	obj	_	SpaceAfter=No
 9	"	"	PUNCT	Z:-------------	_	8	punct	_	_
 10	využilo	využít	VERB	VpNS----R-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	SpaceAfter=No
-11	.	.	PUNCT	Z:-------------	_	10	punct	_	SpaceAfter=No
+11	.	.	PUNCT	Z:-------------	_	10	punct	_	_
 
 ~~~
 

@@ -14,7 +14,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 83698 tokens (50%) have a non-empty value of `Number`.
 26706 types (98%) occur at least once with a non-empty value of `Number`.
 12065 lemmas (88%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (27596; 17% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (21819; 13% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (10889; 7% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (8093; 5% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (6193; 4% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (5611; 3% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (2255; 1% instances), <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> (1242; 1% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="cs_fictree-pos-NOUN.html">NOUN</a></tt> (27596; 17% instances), <tt><a href="cs_fictree-pos-VERB.html">VERB</a></tt> (21819; 13% instances), <tt><a href="cs_fictree-pos-ADJ.html">ADJ</a></tt> (10889; 7% instances), <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> (8094; 5% instances), <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> (6192; 4% instances), <tt><a href="cs_fictree-pos-AUX.html">AUX</a></tt> (5611; 3% instances), <tt><a href="cs_fictree-pos-PROPN.html">PROPN</a></tt> (2255; 1% instances), <tt><a href="cs_fictree-pos-NUM.html">NUM</a></tt> (1242; 1% instances).
 
 ### `NOUN`
 
@@ -136,15 +136,15 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `DET`
 
-8093 <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> tokens (96% of all `DET` tokens) have a non-empty value of `Number`.
+8094 <tt><a href="cs_fictree-pos-DET.html">DET</a></tt> tokens (96% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (6697; 83%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6697; 83%), <tt><a href="cs_fictree-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (5949; 74%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5406; 67%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="cs_fictree-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (6698; 83%), <tt><a href="cs_fictree-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (6698; 83%), <tt><a href="cs_fictree-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (5950; 74%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (5406; 67%).
 
 `DET` tokens may have the following values of `Number`:
 
 * `Dual` (7; 0% of non-empty `Number`): <em>svýma, jejich, jeho, mýma</em>
 * `Plur` (1447; 18% of non-empty `Number`): <em>které, jeho, ty, všichni, všechny, kteří, těch, svých, své, všech</em>
-* `Sing` (6639; 82% of non-empty `Number`): <em>to, jeho, který, ten, tom, všechno, která, toho, tím, té</em>
+* `Sing` (6640; 82% of non-empty `Number`): <em>to, jeho, který, ten, tom, všechno, která, toho, tím, té</em>
 * `EMPTY` (323): <em>několik, tolik, kolik, několika, mnoho, hodně, moc, víc, málo, mnoha</em>
 
 <table>
@@ -173,14 +173,14 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `PRON`
 
-6193 <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> tokens (44% of all `PRON` tokens) have a non-empty value of `Number`.
+6192 <tt><a href="cs_fictree-pos-PRON.html">PRON</a></tt> tokens (44% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="cs_fictree-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (6160; 99%), <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5990; 97%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4283; 69%), <tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (3620; 58%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="cs_fictree-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (6159; 99%), <tt><a href="cs_fictree-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5990; 97%), <tt><a href="cs_fictree-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (4283; 69%), <tt><a href="cs_fictree-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (3619; 58%).
 
 `PRON` tokens may have the following values of `Number`:
 
 * `Plur` (1207; 19% of non-empty `Number`): <em>je, nás, nám, nich, jim, vás, vám, vy, my, nimi</em>
-* `Sing` (4986; 81% of non-empty `Number`): <em>mi, mě, ho, já, mu, ji, jí, ní, ti, mně</em>
+* `Sing` (4985; 81% of non-empty `Number`): <em>mi, mě, ho, já, mu, ji, jí, ní, ti, mně</em>
 * `EMPTY` (7913): <em>se, si, co, nic, něco, kdo, sebe, nikdo, sobě, někdo</em>
 
 <table>
@@ -337,7 +337,7 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>VERB --[<tt><a href="cs_fictree-dep-conj.html">conj</a></tt>]--> VERB</tt> (4401; 87%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-obl.html">obl</a></tt>]--> NOUN</tt> (4399; 66%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (4390; 97%),
-<tt>NOUN --[<tt><a href="cs_fictree-dep-det.html">det</a></tt>]--> DET</tt> (4086; 100%),
+<tt>NOUN --[<tt><a href="cs_fictree-dep-det.html">det</a></tt>]--> DET</tt> (4087; 100%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-obj.html">obj</a></tt>]--> NOUN</tt> (3030; 58%),
 <tt>VERB --[<tt><a href="cs_fictree-dep-aux.html">aux</a></tt>]--> AUX</tt> (2950; 74%),
 <tt>NOUN --[<tt><a href="cs_fictree-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2266; 67%),

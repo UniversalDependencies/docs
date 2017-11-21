@@ -30,7 +30,7 @@ The following 3 pairs of parts of speech are connected with `det:nummod`: <tt><a
 5	během	během	ADP	RR--2----------	AdpType=Prep|Case=Gen	7	case	_	_
 6	několika	několik	DET	Ca--2----------	Case=Gen|NumType=Card|PronType=Ind	7	det:nummod	_	_
 7	minut	minuta	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	4	obl	_	SpaceAfter=No
-8	.	.	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
+8	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
 ~~~
 
@@ -50,7 +50,7 @@ The following 3 pairs of parts of speech are connected with `det:nummod`: <tt><a
 7	mašiny	mašina	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	6	nmod	_	_
 8	odkudsi	odkudsi	ADV	Db-------------	PronType=Ind	9	advmod	_	_
 9	zezadu	zezadu	ADV	Db-------------	_	6	advmod	_	SpaceAfter=No
-10	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 
@@ -85,7 +85,7 @@ The following 3 pairs of parts of speech are connected with `det:nummod`: <tt><a
 22	stovky	stovka	NOUN	NNFP1-----A----	Case=Nom|Gender=Fem|Number=Plur|Polarity=Pos	20	xcomp	_	_
 23	malých	malý	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	24	amod	_	_
 24	jizviček	jizvička	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	22	nmod	_	SpaceAfter=No
-25	.	.	PUNCT	Z:-------------	_	3	punct	_	SpaceAfter=No
+25	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
 ~~~
 

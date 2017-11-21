@@ -28,7 +28,7 @@ The following 3 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 3	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	1	expl:pv	_	_
 4	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	5	case	_	_
 5	řeči	řeč	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	1	obl:arg	_	SpaceAfter=No
-6	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+6	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 
@@ -53,7 +53,7 @@ The following 3 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 12	schopen	schopný	ADJ	ACMS------A----	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short	8	ccomp	_	_
 13	ho	on	PRON	PHIS4--3-------	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	14	obj	_	_
 14	nést	nést	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	12	xcomp	_	SpaceAfter=No
-15	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+15	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 
@@ -74,7 +74,7 @@ The following 3 pairs of parts of speech are connected with `expl:pv`: <tt><a hr
 8	bude	být	AUX	VB-S---3F-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin|Voice=Act	9	aux	_	_
 9	projíždět	projíždět	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	4	ccomp	_	_
 10	mistr	mistr	NOUN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	9	nsubj	_	SpaceAfter=No
-11	.	.	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
+11	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
 ~~~
 

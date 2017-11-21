@@ -31,7 +31,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 7	si	se	PRON	P7--3----------	Case=Dat|PronType=Prs|Reflex=Yes|Variant=Short	9	expl:pv	_	_
 8	obecenstvo	obecenstvo	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	9	nsubj	_	_
 9	domyslí	domyslet	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	csubj:pass	_	SpaceAfter=No
-10	.	.	PUNCT	Z:-------------	_	3	punct	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
 ~~~
 
@@ -56,7 +56,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 12	s	s	ADP	RR--7----------	AdpType=Prep|Case=Ins	14	case	_	_
 13	tisíci	tisíc	NOUN	NNIP7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos	14	nmod	_	_
 14	dináry	dinár	NOUN	NNIP7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos	11	nmod	_	SpaceAfter=No
-15	.	.	PUNCT	Z:-------------	_	5	punct	_	SpaceAfter=No
+15	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
 ~~~
 
@@ -87,7 +87,7 @@ The following 3 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 18	na	na	ADP	RR--6----------	AdpType=Prep|Case=Loc	19	case	_	_
 19	dobrovolnících	dobrovolník	NOUN	NNMP6-----A----	Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur|Polarity=Pos	17	obl	_	SpaceAfter=No
 20	.	.	PUNCT	Z:-------------	_	5	punct	_	SpaceAfter=No
-21	"	"	PUNCT	Z:-------------	_	5	punct	_	SpaceAfter=No
+21	"	"	PUNCT	Z:-------------	_	5	punct	_	_
 
 ~~~
 

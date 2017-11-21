@@ -33,7 +33,7 @@ The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 8	zakončeny	zakončený	ADJ	VsFP------AP---	Gender=Fem|Number=Plur|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	4	conj	_	_
 9	dlouhými	dlouhý	ADJ	AAIP7----1A----	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	10	amod	_	_
 10	trny	trn	NOUN	NNIP7-----A----	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur|Polarity=Pos	8	obl:agent	_	SpaceAfter=No
-11	.	.	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
+11	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
 ~~~
 
@@ -60,7 +60,7 @@ The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 14	byl	být	AUX	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	16	aux:pass	_	_
 15	tím	ten	DET	PDNS7----------	Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	16	obl:agent	_	_
 16	vzrušen	vzrušený	ADJ	VsMS------AP---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	1	conj	_	SpaceAfter=No
-17	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+17	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 
@@ -95,7 +95,7 @@ The following 4 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 22	jen	jen	PART	TT-------------	_	23	advmod:emph	_	_
 23	musela	muset	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	9	conj	_	_
 24	vyrovnat	vyrovnat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	23	xcomp	_	SpaceAfter=No
-25	.	.	PUNCT	Z:-------------	_	5	punct	_	SpaceAfter=No
+25	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
 ~~~
 

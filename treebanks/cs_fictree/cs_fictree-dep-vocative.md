@@ -32,7 +32,7 @@ The following 14 pairs of parts of speech are connected with `vocative`: <tt><a 
 8	odešla	odejít	VERB	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	4	ccomp	_	_
 9	maminka	maminka	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	8	nsubj	_	SpaceAfter=No
 10	?	?	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
-11	"	"	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
+11	"	"	PUNCT	Z:-------------	_	4	punct	_	_
 
 ~~~
 
@@ -53,7 +53,7 @@ The following 14 pairs of parts of speech are connected with `vocative`: <tt><a 
 8	řekl	říci	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 9	mi	já	PRON	PH-S3--1-------	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	8	iobj	_	_
 10	tiše	tiše	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	8	advmod	_	SpaceAfter=No
-11	.	.	PUNCT	Z:-------------	_	8	punct	_	SpaceAfter=No
+11	.	.	PUNCT	Z:-------------	_	8	punct	_	_
 
 ~~~
 
@@ -75,7 +75,7 @@ The following 14 pairs of parts of speech are connected with `vocative`: <tt><a 
 9	byla	být	AUX	VpFS----R-AA---	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	11	cop	_	_
 10	nádherná	nádherný	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	11	amod	_	_
 11	noc	noc	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	6	conj	_	SpaceAfter=No
-12	!	!	PUNCT	Z:-------------	_	6	punct	_	SpaceAfter=No
+12	!	!	PUNCT	Z:-------------	_	6	punct	_	_
 
 ~~~
 

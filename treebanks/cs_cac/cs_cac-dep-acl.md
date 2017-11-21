@@ -27,7 +27,7 @@ The following 37 pairs of parts of speech are connected with `acl`: <tt><a href=
 3	,	,	PUNCT	Z:-------------	_	6	punct	_	_
 4	kde	kde	ADV	Db-------------	PronType=Int,Rel	6	advmod	_	_
 5	kdysi	kdysi	ADV	Db-------------	PronType=Ind	6	advmod	_	_
-6	stávaly	stávat	VERB	VpTP---XR-AA---	Animacy=Inan|Aspect=Imp|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	2	acl	_	LId=stávat-3|LGloss=(někdo/něco_stojí,_např._na_nohou)|LDeriv=st-3
+6	stávaly	stávat	VERB	VpTP---XR-AA---	Animacy=Inan|Aspect=Imp|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	2	acl	_	LId=stávat-3|LGloss=(někdo/něco_stojí,_např._na_nohou)|LDeriv=stát
 7	Lidice	Lidice	PROPN	NNFP1-----A----	Case=Nom|Gender=Fem|NameType=Geo|Number=Plur|Polarity=Pos	6	nsubj	_	SpaceAfter=No
 8	,	,	PUNCT	Z:-------------	_	6	punct	_	_
 9	zazněla	zaznít	VERB	VpQW---XR-AA---	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_

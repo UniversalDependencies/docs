@@ -28,7 +28,7 @@ The following 12 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 3	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	1	expl:pv	_	_
 4	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	5	case	_	_
 5	řeči	řeč	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	1	obl:arg	_	SpaceAfter=No
-6	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+6	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 
@@ -51,7 +51,7 @@ The following 12 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 10	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	11	case	_	_
 11	nich	on	PRON	P5FP2--3-------	Case=Gen|Gender=Fem|Number=Plur|Person=3|PrepCase=Pre|PronType=Prs	12	obl:arg	_	_
 12	vrazil	vrazit	VERB	VpIS----R-AA---	Animacy=Inan|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	1	conj	_	SpaceAfter=No
-13	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+13	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 
@@ -68,7 +68,7 @@ The following 12 pairs of parts of speech are connected with `obl:arg`: <tt><a h
 4	:	:	PUNCT	Z:-------------	_	5	punct	_	_
 5	neurazit	urazit	VERB	Vf--------N----	Polarity=Neg|VerbForm=Inf	2	appos	_	_
 6	se	se	PRON	P7--4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	5	expl:pv	_	SpaceAfter=No
-7	.	.	PUNCT	Z:-------------	_	3	punct	_	SpaceAfter=No
+7	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
 ~~~
 

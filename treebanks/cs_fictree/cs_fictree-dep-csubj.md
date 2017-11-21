@@ -34,7 +34,7 @@ The following 14 pairs of parts of speech are connected with `csubj`: <tt><a hre
 9	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	10	case	_	_
 10	práci	práce	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	11	obl	_	_
 11	usnul	usnout	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	csubj	_	SpaceAfter=No
-12	.	.	PUNCT	Z:-------------	_	5	punct	_	SpaceAfter=No
+12	.	.	PUNCT	Z:-------------	_	5	punct	_	_
 
 ~~~
 
@@ -54,7 +54,7 @@ The following 14 pairs of parts of speech are connected with `csubj`: <tt><a hre
 7	chvilkách	chvilka	NOUN	NNFP6-----A----	Case=Loc|Gender=Fem|Number=Plur|Polarity=Pos	4	obl	_	_
 8	osamění	osamění	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	7	nmod	_	SpaceAfter=No
 9	.	.	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
-10	)	)	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
+10	)	)	PUNCT	Z:-------------	_	4	punct	_	_
 
 ~~~
 
@@ -75,7 +75,7 @@ The following 14 pairs of parts of speech are connected with `csubj`: <tt><a hre
 8	,	,	PUNCT	Z:-------------	_	4	punct	_	_
 9	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
 10	hrůza	hrůza	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	0	root	_	SpaceAfter=No
-11	.	.	PUNCT	Z:-------------	_	10	punct	_	SpaceAfter=No
+11	.	.	PUNCT	Z:-------------	_	10	punct	_	_
 
 ~~~
 

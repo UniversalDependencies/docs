@@ -31,7 +31,7 @@ The following 12 pairs of parts of speech are connected with `amod`: <tt><a href
 7	nějaký	nějaký	DET	PZIS4----------	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Ind	9	det	_	_
 8	snesitelnější	snesitelný	ADJ	AAIS4----2A----	Animacy=Inan|Case=Acc|Degree=Cmp|Gender=Masc|Number=Sing|Polarity=Pos	9	amod	_	_
 9	smysl	smysl	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	4	obj	_	SpaceAfter=No
-10	.	.	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
 ~~~
 
@@ -52,7 +52,7 @@ The following 12 pairs of parts of speech are connected with `amod`: <tt><a href
 8	to	to	PART	TT-------------	_	10	cc	_	_
 9	o	o	ADP	RR--6----------	AdpType=Prep|Case=Loc	10	case	_	_
 10	symbolu	symbol	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	4	appos	_	SpaceAfter=No
-11	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+11	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 
@@ -66,7 +66,7 @@ The following 12 pairs of parts of speech are connected with `amod`: <tt><a href
 1	Mont	Mont	PROPN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	3	nmod	_	_
 2	Saint	Saint	ADJ	AAMS1----1A----	Animacy=Anim|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	3	amod	_	_
 3	Michel	Michel	PROPN	NNMS1-----A----	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	0	root	_	SpaceAfter=No
-4	.	.	PUNCT	Z:-------------	_	3	punct	_	SpaceAfter=No
+4	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
 ~~~
 

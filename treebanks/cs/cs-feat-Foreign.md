@@ -121,7 +121,7 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 `PRON` tokens may have the following values of `Foreign`:
 
 * `Yes` (62; 100% of non-empty `Foreign`): <em>it, All, you, I, Me, We, Us, She, Some, WAS</em>
-* `EMPTY` (44863): <em>se, si, co, nás, je, nám, nich, kdo, což, mu</em>
+* `EMPTY` (44862): <em>se, si, co, nás, je, nám, nich, kdo, což, mu</em>
 
 `Foreign` seems to be **lexical feature** of `PRON`. 100% lemmas (23) occur only with one value of `Foreign`.
 
@@ -147,7 +147,7 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `DET` tokens may have the following values of `Foreign`:
 
 * `Yes` (18; 100% of non-empty `Foreign`): <em>My, That, This, Your, sua, C, Notre, Some, These, ce</em>
-* `EMPTY` (56447): <em>to, které, který, jeho, která, jejich, své, tím, kteří, tom</em>
+* `EMPTY` (56448): <em>to, které, který, jeho, která, jejich, své, tím, kteří, tom</em>
 
 `Foreign` seems to be **lexical feature** of `DET`. 100% lemmas (13) occur only with one value of `Foreign`.
 

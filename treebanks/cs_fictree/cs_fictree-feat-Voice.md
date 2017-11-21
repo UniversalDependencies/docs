@@ -61,7 +61,7 @@ The most frequent other feature values with which `PRON` and `Voice` co-occurred
 `PRON` tokens may have the following values of `Voice`:
 
 * `Act` (5; 100% of non-empty `Voice`): <em>Tys</em>
-* `EMPTY` (14101): <em>se, si, mi, co, mě, ho, já, mu, ji, nic</em>
+* `EMPTY` (14100): <em>se, si, mi, co, mě, ho, já, mu, ji, nic</em>
 
 ## Relations with Agreement in `Voice`
 

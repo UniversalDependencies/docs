@@ -34,7 +34,7 @@ The following 22 pairs of parts of speech are connected with `acl`: <tt><a href=
 10	odnesl	odnést	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 11	do	do	ADP	RR--2----------	AdpType=Prep|Case=Gen	12	case	_	_
 12	života	život	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	10	obl	_	SpaceAfter=No
-13	.	.	PUNCT	Z:-------------	_	10	punct	_	SpaceAfter=No
+13	.	.	PUNCT	Z:-------------	_	10	punct	_	_
 
 ~~~
 
@@ -55,7 +55,7 @@ The following 22 pairs of parts of speech are connected with `acl`: <tt><a href=
 8	spočívá	spočívat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 9	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	10	case	_	_
 10	poslání	poslání	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	8	obl:arg	_	SpaceAfter=No
-11	.	.	PUNCT	Z:-------------	_	8	punct	_	SpaceAfter=No
+11	.	.	PUNCT	Z:-------------	_	8	punct	_	_
 
 ~~~
 
@@ -75,7 +75,7 @@ The following 22 pairs of parts of speech are connected with `acl`: <tt><a href=
 7	jakým	jaký	DET	P4IS7----------	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|PronType=Int,Rel	9	obl	_	_
 8	byly	být	AUX	VpIP----R-AA---	Animacy=Inan|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	9	cop	_	_
 9	potrhány	potrhaný	ADJ	VsIP------AP---	Animacy=Inan|Gender=Masc|Number=Plur|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	5	acl	_	SpaceAfter=No
-10	.	.	PUNCT	Z:-------------	_	3	punct	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
 ~~~
 

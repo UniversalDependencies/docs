@@ -31,7 +31,7 @@ The following 106 pairs of parts of speech are connected with `conj`: <tt><a hre
 7	nadšením	nadšení	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	5	obl	_	SpaceAfter=No
 8	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
 9	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
-10	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 
@@ -44,7 +44,7 @@ The following 106 pairs of parts of speech are connected with `conj`: <tt><a hre
 # visual-style 1 3 conj	color:blue
 1	Srdce	srdce	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	0	root	_	_
 2	a	a	CCONJ	J^-------------	_	3	cc	_	_
-3	čas	čas	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	1	conj	_	SpaceAfter=No
+3	čas	čas	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	1	conj	_	_
 
 ~~~
 
@@ -61,7 +61,7 @@ The following 106 pairs of parts of speech are connected with `conj`: <tt><a hre
 4	zahanbené	zahanbený	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	1	obj	_	_
 5	a	a	CCONJ	J^-------------	_	6	cc	_	_
 6	směšné	směšný	ADJ	AAFP1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	4	conj	_	SpaceAfter=No
-7	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+7	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 

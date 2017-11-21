@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 
 The following people have contributed to making this treebank part of UD: Barbora Hladká, Daniel Zeman.
 
-Repository: [UD_Czech-CAC](https://github.com/UniversalDependencies/UD_Czech-CAC)
+Repository: [UD_Czech-CAC](https://github.com/UniversalDependencies/UD_Czech-CAC)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_cac)
 
 License: CC BY-SA 4.0
 
@@ -1236,6 +1237,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
   <li>This corpus contains 119 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: překonat sebe, připomenout si, říci si, klást si, položit si, přečíst si, vzdělávat se, dát si, obohacovat se, podobný si, ukázat si, vyprávět si, dát se, krýt se, odradit se, osvobodit se, ovlivňovat se, prohlašovat se, připomínat si, připoutat se, připravovat se, rozumět si, ukrýt se, uživit se, vidět sebe, zaplnit se, znát se, řeknout si, říkat si, adaptovat se, adekvátní sobě, blízký sobě, bránit se, chránit se, definovat sebe, demaskovat se, doléčovat se, dovolit si, hledat sebe, hlídat se, hostit sebe, klamat sebe, kompenzovat se, koupat se, koupit si, koupit sis, kupovat si, křížit se, léčit se, mít se</li>
+    <ul>
+      <li>Out of those, 2 lemmas occurred more than once, but never without a reflexive dependent. Examples: ukrýt, uživit, adaptovat, doléčovat, koupat, obeznámit, odepřít, plácnout, pokřivit, procvičovat, přemisťovat, přikrývat, připodobnit, telefonovat, vyplétat, vypomáhat, vyvažovat, zabarikádovat, zanadávat, zrekreovat</li>
+    </ul>
 </ul>
 
 <h3>Relations Overview</h3>

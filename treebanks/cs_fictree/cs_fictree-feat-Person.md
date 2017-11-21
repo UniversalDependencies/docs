@@ -48,7 +48,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (2362; 39% of non-empty `Person`): <em>mi, mě, já, nás, mně, nám, mnou, mne, my, námi</em>
 * `2` (694; 12% of non-empty `Person`): <em>ti, ty, tě, vás, vám, vy, tebe, ses, tebou, tobě</em>
 * `3` (2937; 49% of non-empty `Person`): <em>ho, mu, ji, je, jí, ní, on, něj, nich, jim</em>
-* `EMPTY` (8113): <em>se, si, co, nic, něco, kdo, sebe, nikdo, sobě, někdo</em>
+* `EMPTY` (8112): <em>se, si, co, nic, něco, kdo, sebe, nikdo, sobě, někdo</em>
 
 ### `AUX`
 
@@ -95,7 +95,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 * `1` (550; 39% of non-empty `Person`): <em>moje, můj, naše, mého, náš, mé, mých, mým, mojí, moji</em>
 * `2` (138; 10% of non-empty `Person`): <em>vaše, tvůj, tvoje, tvé, váš, vaší, tvou, tvá, tvojí, tvého</em>
 * `3` (708; 51% of non-empty `Person`): <em>jeho, její, jejich, jejím, jejího, jejích, jehož, jejímu, jejichž, jejíž</em>
-* `EMPTY` (7020): <em>to, který, ten, které, která, tom, všechno, toho, své, tím</em>
+* `EMPTY` (7021): <em>to, který, ten, které, která, tom, všechno, toho, své, tím</em>
 
 ### `CCONJ`
 

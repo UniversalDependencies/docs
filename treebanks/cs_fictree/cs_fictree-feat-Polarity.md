@@ -199,7 +199,7 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 `DET` tokens may have the following values of `Polarity`:
 
 * `Pos` (180; 100% of non-empty `Polarity`): <em>každý, každou, každé, každá, každým, každého, každém, každému</em>
-* `EMPTY` (8236): <em>to, jeho, který, ten, které, která, tom, všechno, toho, své</em>
+* `EMPTY` (8237): <em>to, jeho, který, ten, které, která, tom, všechno, toho, své</em>
 
 ### `PRON`
 
@@ -210,7 +210,7 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Pos` (5; 100% of non-empty `Polarity`): <em>Tys</em>
-* `EMPTY` (14101): <em>se, si, mi, co, mě, ho, já, mu, ji, nic</em>
+* `EMPTY` (14100): <em>se, si, mi, co, mě, ho, já, mu, ji, nic</em>
 
 ## Relations with Agreement in `Polarity`
 

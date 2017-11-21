@@ -29,7 +29,7 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 4	zabili	zabít	VERB	VpMP----R-AA---	Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 5	jednoho	jeden	NUM	ClMS4----------	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card|NumValue=1,2,3	6	nummod	_	_
 6	pána	pán	NOUN	NNMS4-----A----	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	4	obj	_	SpaceAfter=No
-7	.	.	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
+7	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
 ~~~
 
@@ -51,7 +51,7 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 9	dva	dva	NUM	ClMP1----------	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3	8	nummod	_	_
 10	teď	teď	ADV	Db-------------	PronType=Dem	11	advmod	_	_
 11	porozuměli	porozumět	VERB	VpMP----R-AA---	Animacy=Anim|Gender=Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	3	advcl	_	SpaceAfter=No
-12	.	.	PUNCT	Z:-------------	_	3	punct	_	SpaceAfter=No
+12	.	.	PUNCT	Z:-------------	_	3	punct	_	_
 
 ~~~
 
@@ -73,7 +73,7 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 9	tři	tři	NUM	ClMP1----------	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card|NumValue=1,2,3	8	nummod	_	_
 10	před	před	ADP	RR--4----------	AdpType=Prep|Case=Acc	11	case	_	_
 11	pavilón	pavilón	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	7	obl	_	SpaceAfter=No
-12	;	;	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
+12	;	;	PUNCT	Z:-------------	_	4	punct	_	_
 
 ~~~
 

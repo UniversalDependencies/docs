@@ -31,7 +31,7 @@ The following 3 pairs of parts of speech are connected with `det:numgov`: <tt><a
 6	životě	život	NOUN	NNIS6-----A----	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|Polarity=Pos	3	obl	_	_
 7	hodně	hodně	DET	Ca--1----------	Case=Nom|NumType=Card|PronType=Ind	8	det:numgov	_	_
 8	věcí	věc	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	3	nsubj	_	SpaceAfter=No
-9	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+9	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 
@@ -51,7 +51,7 @@ The following 3 pairs of parts of speech are connected with `det:numgov`: <tt><a
 7	spadne	spadnout	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 8	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	9	case	_	_
 9	zem	země	NOUN	NNFS4-----A---1	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	7	obl	_	SpaceAfter=No
-10	.	.	PUNCT	Z:-------------	_	7	punct	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	7	punct	_	_
 
 ~~~
 
@@ -81,7 +81,7 @@ The following 3 pairs of parts of speech are connected with `det:numgov`: <tt><a
 17	ze	z	ADP	RV--2----------	AdpType=Voc|Case=Gen	19	case	_	_
 18	sousedních	sousední	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	19	amod	_	_
 19	zemí	země	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	16	nmod	_	SpaceAfter=No
-20	.	.	PUNCT	Z:-------------	_	2	punct	_	SpaceAfter=No
+20	.	.	PUNCT	Z:-------------	_	2	punct	_	_
 
 ~~~
 

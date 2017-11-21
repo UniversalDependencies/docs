@@ -29,7 +29,7 @@ The following 14 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 5	proč	proč	ADV	Db-------------	PronType=Int,Rel	7	advmod	_	_
 6	dítě	dítě	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	7	nsubj	_	_
 7	pláče	plakat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	SpaceAfter=No
-8	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+8	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 
@@ -52,7 +52,7 @@ The following 14 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 10	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	_
 11	plný	plný	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	6	ccomp	_	_
 12	holek	holka	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	11	obj	_	SpaceAfter=No
-13	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+13	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 
@@ -72,7 +72,7 @@ The following 14 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 7	to	ten	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	nsubj	_	_
 8	je	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	_
 9	štěstí	štěstí	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	4	ccomp	_	SpaceAfter=No
-10	.	.	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
 ~~~
 

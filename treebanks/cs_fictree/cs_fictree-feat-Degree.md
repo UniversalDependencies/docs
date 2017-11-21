@@ -100,7 +100,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 `DET` tokens may have the following values of `Degree`:
 
 * `Pos` (180; 100% of non-empty `Degree`): <em>každý, každou, každé, každá, každým, každého, každém, každému</em>
-* `EMPTY` (8236): <em>to, jeho, který, ten, které, která, tom, všechno, toho, své</em>
+* `EMPTY` (8237): <em>to, jeho, který, ten, které, která, tom, všechno, toho, své</em>
 
 ### `NOUN`
 

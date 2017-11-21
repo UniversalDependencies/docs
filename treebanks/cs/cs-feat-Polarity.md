@@ -234,7 +234,7 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 `DET` tokens may have the following values of `Polarity`:
 
 * `Pos` (1152; 100% of non-empty `Polarity`): <em>každý, každé, každého, každém, každá, každou, každému, každým, každých</em>
-* `EMPTY` (55313): <em>to, které, který, jeho, která, jejich, své, tím, kteří, tom</em>
+* `EMPTY` (55314): <em>to, které, který, jeho, která, jejich, své, tím, kteří, tom</em>
 
 ## Relations with Agreement in `Polarity`
 

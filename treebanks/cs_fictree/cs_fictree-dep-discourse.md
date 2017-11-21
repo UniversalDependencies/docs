@@ -30,7 +30,7 @@ The following 16 pairs of parts of speech are connected with `discourse`: <tt><a
 6	čem	co	PRON	PQ--6----------	Animacy=Inan|Case=Loc|PronType=Int,Rel	8	obl:arg	_	_
 7	to	to	PART	TT-------------	_	8	discourse	_	_
 8	mluvím	mluvit	VERB	VB-S---1P-AA---	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl	_	SpaceAfter=No
-9	.	.	PUNCT	Z:-------------	_	1	punct	_	SpaceAfter=No
+9	.	.	PUNCT	Z:-------------	_	1	punct	_	_
 
 ~~~
 
@@ -52,7 +52,7 @@ The following 16 pairs of parts of speech are connected with `discourse`: <tt><a
 9	přesadí	přesadit	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	4	ccomp	_	_
 10	a	a	CCONJ	J^-------------	_	11	cc	_	_
 11	hotovo	hotový	ADJ	ACNS------A----	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short	9	conj	_	SpaceAfter=No
-12	.	.	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
+12	.	.	PUNCT	Z:-------------	_	4	punct	_	_
 
 ~~~
 
@@ -71,7 +71,7 @@ The following 16 pairs of parts of speech are connected with `discourse`: <tt><a
 6	po	po	ADP	RR--6----------	AdpType=Prep|Case=Loc	7	case	_	_
 7	ránu	ráno	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	8	obl	_	_
 8	děje	dít	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-9	?	?	PUNCT	Z:-------------	_	8	punct	_	SpaceAfter=No
+9	?	?	PUNCT	Z:-------------	_	8	punct	_	_
 
 ~~~
 
