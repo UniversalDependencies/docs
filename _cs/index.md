@@ -26,8 +26,8 @@ udver: '2'
 
 ### Tags
 
-This is an overview only. For more detailed discussion and examples, see the list of [Czech POS tags](../pos/index.html)
-and [Czech features](../feat/index.html).
+This is an overview only. For more detailed discussion and examples, see the list of [Czech POS tags](pos/index.html)
+and [Czech features](feat/index.html).
 
 * Czech uses all 17 universal POS categories, including particles ([PART]()).
   At present, more than 70 word types are tagged [PART](). This is a legacy of an existing Czech morphological analyzer
@@ -144,7 +144,7 @@ and [Czech features](../feat/index.html).
 
 ## Syntax
 
-This is an overview only. For more detailed discussion and examples, see the list of [Czech relations](../dep/index.html),
+This is an overview only. For more detailed discussion and examples, see the list of [Czech relations](dep/index.html),
 as well as Czech-specific examples scattered across the documentation of constructions.
 
 ### Core Arguments, Oblique Arguments and Adjuncts
