@@ -17,12 +17,14 @@ General objective of the working group:
 Note: Within a v2 release, there cannot be major modifications of the current enhanced guidelines, but we do also include in this page discussion from a broader perspective
 
 **Content:**
+
 * [Discussion on status of enhanced dependencies](#discussion-on-status-of-enhanced-dependencies)
 * [Treatment of semantically void syntactic dependencies ?](#treatment-of-semantically-void-syntactic-dependencies)
 * [Proposed additional cases of enhanced edges](#additional-cases-of-enhanced-edges)
 * [Neutralizing syntactic alternations](#neutralizing-syntactic-alternations)
 
 **Main points to decide:**
+
 * whether or not to leave the possibility to mark semantically void syntactic dependencies
 * whether or not to neutralize (some) syntactic alternations
 * consider obligatory control only, or leave the possibility to include arbitrary control too
