@@ -6,21 +6,17 @@ udver: '2'
 
 <table>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <h1>UD_Korean</h1>
 
   </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <h1>UD_Korean-PUD</h1>
-
-  </td>
-  <td width="33%" valign="top">
-<h1>UD_Korean-Sejong</h1>
 
   </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <h2>Tokenization and Word Segmentation</h2>
 
 <ul>
@@ -31,7 +27,7 @@ udver: '2'
 </ul>
 
   </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <h2>Tokenization and Word Segmentation</h2>
 
 <ul>
@@ -42,20 +38,9 @@ udver: '2'
 </ul>
 
   </td>
-  <td width="33%" valign="top">
-<h2>Tokenization and Word Segmentation</h2>
-
-<ul>
-<li>This corpus contains 4129 sentences and 89696 tokens.</li>
-<li>All tokens in this corpus are followed by a space.</li>
-<li>This corpus does not contain words with spaces.</li>
-<li>This corpus does not contain words that contain both letters and punctuation.</li>
-</ul>
-
-  </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <h2>Morphology</h2>
 
 <h3>Tags</h3>
@@ -66,7 +51,7 @@ udver: '2'
 </ul>
 
   </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <h2>Morphology</h2>
 
 <h3>Tags</h3>
@@ -77,33 +62,15 @@ udver: '2'
 </ul>
 
   </td>
-  <td width="33%" valign="top">
-<h2>Morphology</h2>
-
-<h3>Tags</h3>
-
-<ul>
-<li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>CONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
-<li>This corpus does not use the following tags: AUX, CCONJ</li>
-<li>This corpus contains 1 word types tagged as particles (PART): _</li>
-</ul>
-
-  </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <ul>
 <li>This corpus contains 1 lemmas tagged as pronouns (PRON): _</li>
 </ul>
 
   </td>
-  <td width="33%" valign="top">
-<ul>
-<li>This corpus contains 1 lemmas tagged as pronouns (PRON): _</li>
-</ul>
-
-  </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <ul>
 <li>This corpus contains 1 lemmas tagged as pronouns (PRON): _</li>
 </ul>
@@ -111,19 +78,13 @@ udver: '2'
   </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <ul>
 <li>This corpus contains 1 lemmas tagged as determiners (DET): _</li>
 </ul>
 
   </td>
-  <td width="33%" valign="top">
-<ul>
-<li>This corpus contains 1 lemmas tagged as determiners (DET): _</li>
-</ul>
-
-  </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <ul>
 <li>This corpus contains 1 lemmas tagged as determiners (DET): _</li>
 </ul>
@@ -131,19 +92,13 @@ udver: '2'
   </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <ul>
 <li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: _</li>
 </ul>
 
   </td>
-  <td width="33%" valign="top">
-<ul>
-<li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: _</li>
-</ul>
-
-  </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <ul>
 <li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: _</li>
 </ul>
@@ -151,19 +106,13 @@ udver: '2'
   </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <ul>
 <li>This corpus contains 0 lemmas tagged as auxiliaries (AUX): </li>
 </ul>
 
   </td>
-  <td width="33%" valign="top">
-<ul>
-<li>This corpus contains 0 lemmas tagged as auxiliaries (AUX): </li>
-</ul>
-
-  </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <ul>
 <li>This corpus contains 0 lemmas tagged as auxiliaries (AUX): </li>
 </ul>
@@ -171,36 +120,25 @@ udver: '2'
   </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <ul>
 </ul>
 
   </td>
-  <td width="33%" valign="top">
-<ul>
-</ul>
-
-  </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <ul>
 </ul>
 
   </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <ul>
 <li>This corpus does not use the VerbForm feature.</li>
 </ul>
 
   </td>
-  <td width="33%" valign="top">
-<ul>
-<li>This corpus does not use the VerbForm feature.</li>
-</ul>
-
-  </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <ul>
 <li>This corpus does not use the VerbForm feature.</li>
 </ul>
@@ -208,196 +146,143 @@ udver: '2'
   </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <h3>Nominal Features</h3>
 
 
   </td>
-  <td width="33%" valign="top">
-<h3>Nominal Features</h3>
-
-
-  </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <h3>Nominal Features</h3>
 
 
   </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <h3>Degree and Polarity</h3>
 
 
   </td>
-  <td width="33%" valign="top">
-<h3>Degree and Polarity</h3>
-
-
-  </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <h3>Degree and Polarity</h3>
 
 
   </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <h3>Verbal Features</h3>
 
 
   </td>
-  <td width="33%" valign="top">
-<h3>Verbal Features</h3>
-
-
-  </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <h3>Verbal Features</h3>
 
 
   </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
   </td>
-  <td width="33%" valign="top">
-<h3>Pronouns, Determiners, Quantifiers</h3>
-
-
-  </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
   </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <li><a>NumType</a>
   <ul>
     <li>Card
@@ -409,86 +294,65 @@ udver: '2'
 </li>
 
   </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <h3>Other Features</h3>
 
 
   </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <h3>Other Features</h3>
 
 <li><a>ko/case</a>
@@ -708,14 +572,9 @@ udver: '2'
 </li>
 
   </td>
-  <td width="33%" valign="top">
-<h3>Other Features</h3>
-
-
-  </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
@@ -726,7 +585,7 @@ udver: '2'
 </ul>
 
   </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
@@ -737,20 +596,9 @@ udver: '2'
 </ul>
 
   </td>
-  <td width="33%" valign="top">
-<h2>Syntax</h2>
-
-<h3>Auxiliary Verbs and Copula</h3>
-
-<ul>
-<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
-<li>This corpus does not contain auxiliaries.</li>
-</ul>
-
-  </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
 
 Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -765,7 +613,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </ul>
 
   </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
 
 Here we consider only relations between verbs (parent) and nouns or pronouns (child).
@@ -779,27 +627,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </ul>
 
   </td>
-  <td width="33%" valign="top">
-<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
-
-Here we consider only relations between verbs (parent) and nouns or pronouns (child).
-<ul>
-  <li><a>nsubj</a>
-    <ul>
-      <li>VERB--NOUN (259)</li>
-      <li>VERB--NOUN-ADP(_) (1693)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_) (152)</li>
-      <li>VERB--PRON (41)</li>
-      <li>VERB--PRON-ADP(_) (368)</li>
-      <li>VERB--PRON-ADP(_)-ADP(_) (16)</li>
-    </ul>
-  </li>
-</ul>
-
-  </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <ul>
   <li><a>obj</a>
     <ul>
@@ -811,16 +641,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </ul>
 
   </td>
-  <td width="33%" valign="top">
-<ul>
-  <li><a>obj</a>
-    <ul>
-    </ul>
-  </li>
-</ul>
-
-  </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <ul>
   <li><a>obj</a>
     <ul>
@@ -831,7 +652,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <ul>
   <li><a>iobj</a>
     <ul>
@@ -842,7 +663,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </ul>
 
   </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <ul>
   <li><a>iobj</a>
     <ul>
@@ -853,51 +674,33 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </ul>
 
   </td>
-  <td width="33%" valign="top">
-<ul>
-  <li><a>iobj</a>
-    <ul>
-    </ul>
-  </li>
-</ul>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
 
   </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 
   </td>
 </tr>
 <tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <h3>Relations Overview</h3>
 
 <ul>
@@ -907,21 +710,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </ul>
 
   </td>
-  <td width="33%" valign="top">
+  <td width="50%" valign="top">
 <h3>Relations Overview</h3>
 
 <ul>
 <li>This corpus does not use relation subtypes.</li>
 <li>The following 22 relation types are not used in this corpus at all: <a>obj</a>, <a>xcomp</a>, <a>obl</a>, <a>expl</a>, <a>dislocated</a>, <a>cop</a>, <a>mark</a>, <a>nmod</a>, <a>nummod</a>, <a>acl</a>, <a>clf</a>, <a>case</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>punct</a>, <a>root</a></li>
-</ul>
-
-  </td>
-  <td width="33%" valign="top">
-<h3>Relations Overview</h3>
-
-<ul>
-<li>This corpus does not use relation subtypes.</li>
-<li>The following 15 relation types are not used in this corpus at all: <a>obj</a>, <a>iobj</a>, <a>xcomp</a>, <a>obl</a>, <a>expl</a>, <a>dislocated</a>, <a>aux</a>, <a>mark</a>, <a>nummod</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a></li>
 </ul>
 
   </td>
