@@ -6,7 +6,7 @@ udver: '2'
 
 # Working Group on Enhanced Dependencies
 
-(Summary of discussions between Sebastian Schuster, Joakim Nivre, Guy Perrier, Djame Seddah, Bruno Guillaume and Marie Candito), and (Candito, Perrier, Guillaume, Seddah, depling 2017)
+(Summary of discussions between Sebastian Schuster, Joakim Nivre, Guy Perrier, Djame Seddah, Bruno Guillaume and Marie Candito)
 
 General objective of the working group:
 
@@ -18,7 +18,7 @@ Note: Within a v2 release, there cannot be major modifications of the current en
 
 
 * [Discussion on status of enhanced dependencies](#discussion-on-status-of-enhanced-dependencies)
-* [Treatment of semantically void syntactic dependencies ?](#treatment-of-semantically-void-syntactic-dependencies-?)
+* [Treatment of semantically void syntactic dependencies ?](#treatment-of-semantically-void-syntactic-dependencies)
 * [Proposed additional cases of enhanced edges](#additional-cases-of-enhanced-edges)
 * [Neutralizing syntactic alternations](#neutralizing-syntactic-alternations)
 
@@ -69,7 +69,9 @@ Marie: the types of propagated dependencies should maybe be constrained. E.g. it
 
 Dropping or marking of "semantically void" syntactic dependencies, more precisely edges that do not link a governor to one of its semantic argument (or the other way round). 
 
-## Treatment of semantically void syntactic dependencies ?
+## Treatment of semantically void syntactic dependencies
+**DECISION TO MAKE**
+
 One key question to address is whether "void" syntactic dependencies should / could be removed in the enhanced graphs, or whether this is postponed in further semantic processing.
 
 This concerns basic edges in which
@@ -79,6 +81,7 @@ This concerns basic edges in which
   - predicative complement : _we believe these sources to be reliable_ --> drop the obj(believe, sources) edge ?
  
 **PROS**: useful for semantic analysis
+
 **CONS**: not fully coherent with the UD commitment to syntactic representations. Can create unconnected nodes, might not be justified if enhanced deps are still to be syntactic
 
 A compromise could be to use special suffixes or substrings on the label for such cases (in the absence of features on dependencies). The v2 "expl" label would count as one of the substrings that signal semantically empty edges.
@@ -176,6 +179,7 @@ obj(hired, persons)
 ~~~
 
 ### Verb-modifying infinitival and participial clauses
+**DECISION TO MAKE**
 
 **NB: This is a non deterministic case (not fully determined by topology of syntaxtic tree). 
 So discussion on status of enhanced dependencies could rule out these cases.**
@@ -194,6 +198,8 @@ nsubj(saving, risked)
 
 ## Neutralizing syntactic alternations
 (proposed in Candito, Perrier, Guillaume, Seddah, LREC 2014; DEPLING 2017)
+
+**DECISION TO MAKE**
 
 Syntactic alternations (like passive) are known to cause variation in the observed verbal linking patterns in corpora, i.e. the grammatical functions born by the semantic arguments of a verb. Some syntactic alternations can be identified using morpho-syntactic clues, without resorting to semantic disambiguation. We propose in such cases to recover the canonical grammatical functions.
 
