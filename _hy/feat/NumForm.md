@@ -18,7 +18,7 @@ udver: '2'
 Feature of cardinal and ordinal numbers. Is the number expressed by
 digits or as a word?
 
-### <a name="Word">`Word`</a>: number expressed as word
+### <a name="Word">`Word`</a>: number expressed as a word
 
 #### Examples
 
