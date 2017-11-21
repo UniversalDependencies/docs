@@ -84,6 +84,7 @@ Dropping or marking of "semantically void" syntactic dependencies, more precisel
 One key question to address is whether "void" syntactic dependencies should / could be removed in the enhanced graphs, or whether this is postponed in further semantic processing.
 
 This concerns basic edges in which
+
 * the dependent is itself semantically void (expletives)
 * or the dependent can be contentful but is not a semantic argument of the governor. This would lead to drop certain dependencies in well-known syntactic-semantic mismatches:
   - raising : She seems to run fast --> drop the nsubj(seems, she) edge ?
@@ -108,8 +109,8 @@ Current enhancements do add dependents of infinitives in raising or control cons
 
 For subject of infinitives or gerunds, there are two possibilities:
 
-(1) Restrict cases to obligatory control (syntactic position of the subject of the infinitive/gerund is fixed, given the lexical item licensing the infinitival/gerund clause)
-(2) or extend to arbitrary control too (proposed in Candito et al depling 17)
+1. Restrict cases to obligatory control (syntactic position of the subject of the infinitive/gerund is fixed, given the lexical item licensing the infinitival/gerund clause)
+2. or extend to arbitrary control too (proposed in Candito et al depling 17)
 
 Discussion on status seems to favor solution (1).
 
@@ -222,6 +223,7 @@ From Sebastian: Need for a more cross-linguistic perspective. Can lead to incons
 Marie: added example from French (valid for romance languages): Depending on the verb, there are two possibilities for the inchoative version of a causative event like _"Paul a cassé le câble" (Paul broke the cable)_, one with a meaningless reflexive marker _Le câble s'est cassé (the cable SE-REFL is broken)_, and one without any mark (like in English): _Le câble a cassé (the cable has broken)_ _"the cable broke"_). With _casser (to break)_ both are possible while the former is much more frequent.
 
 Marie:
+
 * need to make more precise what morpho-syntactically marked means. Indeed it could be argued that the "unmarked" causative-inchoative alternation (Paul broke the cable / the cable broke) is indeed marked, since the transitivity changes.
 * The restriction to morpho-syntactically marked alternations that we implemented in our work on French and English derives more feasibility constraints more than from linguistic principles 
 * The question could be whether it is better to neutralize only some of the alternations, or none of them. I guess the inconsistencies that Sebastian mentions mean having different sets of enhanced grammatical functions for the same set of basic grammatical functions ("the vase(=nsubj@obj) REFL broke" versus "the vase(=nsubj) broke"). So I would say these are exactly the inconsistencies arising from the syntactic alternations themselves. 
