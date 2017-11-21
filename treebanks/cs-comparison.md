@@ -5511,7 +5511,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li>This corpus contains 659 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: představit se, seznámit se, koupit si, říci si, prosadit se, přečíst si, nechat se, klást si, dát si, připomenout si, připsat si, spojit se, nechat si, položit si, střídat se, říkat si, zajistit si, ponechat si, poradit si, prezentovat se, vysvětlovat si, připravit se, učit se, znát se, bránit se, protnout se, považovat se, představovat se, vysvětlit si, dostat se, připomínat si, připravovat se, uživit se, vystřídat se, zařadit se, dovolit si, kupovat si, pomáhat si, přihlásit se, přizpůsobit se, stanovit si, zapsat se, živit se, orientovat se, pomoci si, ponechávat si, prosazovat se, skrývat se, udržet se, ujasnit si</li>
     <ul>
-      <li>Out of those, 15 lemmas occurred more than once, but never without a reflexive dependent. Examples: připojistit, prolínat, transformující, dotýkat, koupat, navléknout, obalamutit, objímat, osamostatnit, potřást, překrývající, specializovat, vykoupat, zabarikádovat, zadlužit, blamovat, distancovat, dobrat, domlouvat, halící, hlásící, holit, izolující, konkurující, líbající, masakrovat, nabít, nalhávat, nalodit, namočit, napojovat, napíchat, naroubovat, nastěhovat, oblažit, obohacující, obtížit, odhlásit, odřezávat, odřít, osamostatňující, otipovat, ověsit, podobat, podvádět, pojišťovat, pokydat, políbit, poněmčovat, posilnit</li>
+      <li>Out of those, 15 lemmas occurred more than once, but never without a reflexive dependent. Examples: připojistit, prolínat, transformující, dotýkat, koupat, navléknout, obalamutit, objímat, osamostatnit, potřást, překrývající, specializovat, vykoupat, zabarikádovat, zadlužit</li>
     </ul>
 </ul>
 
@@ -5522,7 +5522,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li>This corpus contains 119 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: překonat sebe, připomenout si, říci si, klást si, položit si, přečíst si, vzdělávat se, dát si, obohacovat se, podobný si, ukázat si, vyprávět si, dát se, krýt se, odradit se, osvobodit se, ovlivňovat se, prohlašovat se, připomínat si, připoutat se, připravovat se, rozumět si, ukrýt se, uživit se, vidět sebe, zaplnit se, znát se, řeknout si, říkat si, adaptovat se, adekvátní sobě, blízký sobě, bránit se, chránit se, definovat sebe, demaskovat se, doléčovat se, dovolit si, hledat sebe, hlídat se, hostit sebe, klamat sebe, kompenzovat se, koupat se, koupit si, koupit sis, kupovat si, křížit se, léčit se, mít se</li>
     <ul>
-      <li>Out of those, 2 lemmas occurred more than once, but never without a reflexive dependent. Examples: ukrýt, uživit, adaptovat, doléčovat, koupat, obeznámit, odepřít, plácnout, pokřivit, procvičovat, přemisťovat, přikrývat, připodobnit, telefonovat, vyplétat, vypomáhat, vyvažovat, zabarikádovat, zanadávat, zrekreovat</li>
+      <li>Out of those, 2 lemmas occurred more than once, but never without a reflexive dependent. Examples: ukrýt, uživit</li>
     </ul>
 </ul>
 
@@ -5541,7 +5541,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li>This corpus contains 36 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: dostat se, vrátit se, zapojit se, zapsat se, donést si, halit se, hledat se, hrát si, integrovat své, klást si, koupit si, měnit se, nasazovat si, nastěhovat se, naučit se, naštvat se, obrátit se, odklonit se, potopit se, prohlásit se, promísit se, prosadit se, přeměnit se, připravovat se, půjčit si, rozvíjet se, rozšiřovat se, smířit se, spasit se, spojit se, udržet se, ukázat se, vybrat si, zaměstnat se, zastavit se, zhoršovat se</li>
     <ul>
-      <li>Out of those, 3 lemmas occurred more than once, but never without a reflexive dependent. Examples: vrátit, zapojit, zapsat, donést, halit, integrovat, koupit, měnit, nasazovat, nastěhovat, naštvat, obrátit, odklonit, potopit, promísit, prosadit, přeměnit, půjčit, rozšiřovat, smířit, spasit, spojit, zaměstnat, zhoršovat</li>
+      <li>Out of those, 3 lemmas occurred more than once, but never without a reflexive dependent. Examples: vrátit, zapojit, zapsat</li>
     </ul>
 </ul>
 
@@ -5552,7 +5552,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li>This corpus contains 263 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: říkat si, koupit si, říci si, svlékat se, svléknout se, mít se, schovat se, nalít si, převléknout se, přečíst si, slyšet se, vidět se, nabídnout se, vyčítat si, znát se, nasadit si, nechat si, odpovědět si, opakovat si, prostřít se, zabít se, navonět se, odpustit si, pomoci si, ponechat si, potkat se, psát si, přesvědčit se, převlékat se, připomenout si, přiznat si, schovávat se, udržet se, ujistit se, chytnout se, držet se, dělat si, kupovat si, milující se, namlouvat si, nazvat se, obléknout se, obout se, odradit se, odvést se, odvézt se, ohlásit se, omlouvat se, omluvit se, osvobozovat se</li>
     <ul>
-      <li>Out of those, 12 lemmas occurred more than once, but never without a reflexive dependent. Examples: převléknout, prostřít, navonět, obout, převlékat, milující, omlouvat, omluvit, ptát, sprchovat, ubránit, zakoupit, bít, cuknout, dolít, dopřávat, hanobit, holit, kousat, krýt, naládovat, namazat, namáhat, nasazovat, nasytit, natřásat, naverbovat, oblíknout, obouvat, ochudit, omezovat, opojený, opít, ospravedlňovat, osprchovat, otrávit, ovládat, označit, podrbat, popovídat, posvětit, poškrábat, předhánět, přeřadit, přeříkat, přiopít, přiožrat, připodobňovat, přizpůsobovat, půjčovat</li>
+      <li>Out of those, 12 lemmas occurred more than once, but never without a reflexive dependent. Examples: převléknout, prostřít, navonět, obout, převlékat, milující, omlouvat, omluvit, ptát, sprchovat, ubránit, zakoupit</li>
     </ul>
 </ul>
 
