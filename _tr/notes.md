@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Notes'
-permalink: tr/overview/notes.html
 ---
 
 # Introduction
@@ -14,7 +13,7 @@ documented in proper sections later.
 * In some cases when noun phrases are coordinated with suffix *-lA*
   it is not clear whether it is a conjunction or simply
   'commutative/instrumental' case marking.
-  
+
   ```
   (1) Annem-le     babam     eve       gitmiş
       My_mother-lA my_father house.DAT go.PAST.EVID
@@ -37,7 +36,7 @@ documented in proper sections later.
   phrase. If the *-lA* phrase modifies the subject (and it is clearly
   not a conjunction), we always attach it to the predicate. This
   avoids `orphan` relations where subject is not expressed in the sentence (see below for other missing heads).
-  
+
   Note that as in English PP attachment ambiguity, the `nmod` case can be ambiguous:
 
   ```
@@ -45,7 +44,7 @@ documented in proper sections later.
   Ali Ahmet.ACC  telecope-lA see.
   `Ali saw Ahmet with a telescope'.
   ```
-  With the right context, it is possible that the noun modified with 
+  With the right context, it is possible that the noun modified with
   the phrase with *-lA* is omitted in the sentence.
 
   ```
@@ -56,7 +55,7 @@ documented in proper sections later.
   In this case, we connect the phrase with *-lA* to the predicate with `orphan` relation.
 
   In case of coordination, if the second conjunct is a pronoun, it can
-  be omitted. 
+  be omitted.
 
   ```
   Annem-le      eve         gittik.
@@ -114,14 +113,14 @@ documented in proper sections later.
       `they appointed him *instead of* you.
   ```
   Note that the information about the (pro)noun being modified is
-  recoverable from the postposition (using the possessive agreement 
+  recoverable from the postposition (using the possessive agreement
   marker) but the noun phrase is missing.
 
   Alternatives are (1) treating these as regular nouns (METU-Sabancı
   does so),  (2) marking them as the head of the phrase when the noun
   phrase is missing, and (3) make sure the case marker introduces a
-  new IG, and mark the noun component of the postposition as the 
-  head of the postpositional phrase. This is somewhat similar to 
+  new IG, and mark the noun component of the postposition as the
+  head of the postpositional phrase. This is somewhat similar to
   the noun phrase analysis).
 
   **Suggestion:** (tentative) follow METU-Sabancı analysis.
@@ -131,8 +130,8 @@ documented in proper sections later.
 
   In Turkish, onomatopoeic words may get some suffixes. Most common
   case is the *-lA* suffix which derives a noun meaning making a sound
-  like it, e.g., *kedi miyav-la-r* 'cat meows'. 
-  
+  like it, e.g., *kedi miyav-la-r* 'cat meows'.
+
   In a rather infrequent usage, these words may also get copular
   suffixes (An example from the web: *Gitsin çay falan demlesin, ne o
   öyle yok havmış da yok miyavmış da bilmemneymiş.*. This also affects
@@ -156,8 +155,8 @@ documented in proper sections later.
   potentially be resolved in the linguistic context. On the other hand
   this seems to be against the current UD classification that lists
   pronouns as closed class words. (On a related note, one can stretch
-  this to verbal nouns too, e.g., *Bu hafta bir sürü kısa öykü yazdım. 
-  Daha sonradan yaztıklarım daha guzel oldu.* 
+  this to verbal nouns too, e.g., *Bu hafta bir sürü kısa öykü yazdım.
+  Daha sonradan yaztıklarım daha guzel oldu.*
   'I wrote many short stories today. The ones I wrote later were better'.)
 
   **Suggestion:** (tentative) Follow METU-Sabancı analysis, unless the
@@ -166,7 +165,7 @@ documented in proper sections later.
 
 ## Features
 
-* With the same set of TAM markers, tense/aspect/modality changes 
+* With the same set of TAM markers, tense/aspect/modality changes
   in subordinated predicates.
 
   **Suggestion:** keep the features as they are predicted for the
@@ -182,22 +181,22 @@ documented in proper sections later.
   TRmorph), but attach to the head of the conditional clause using the
   `discourse` relation.
 
-* The words *var* '(something) exists' and *yok* '(something) does not exist' 
+* The words *var* '(something) exists' and *yok* '(something) does not exist'
   are used for formimg "existential sentences". In this function, these words
   behave like nominal predicates. Although they do not function like
   adjectives in general, METU-Sabancı marks them as adjectives.
-  
+
   **Suggestion:** Follow METU-Sabancı analysis.
-  
+
 * Another special word is negative particle 'değil'. It mainly allows
   negating the nominal predicates. In this function, it behaves
   similar to copular verbs (*ol-*, *bulun-*). METU-Sabancı marks it as
   a verb, and uses a special relation `NEGATIVE.PARTICLE`.
 
   If değil is used as a predicate, we treat it similar to *ol-*, it is
-  marked as `VERB` with feature assignment `Negative=neg`. If it is used 
-  in a copular construction, we use the relation `cop` to connect it to 
-  the nominal predicate. 
+  marked as `VERB` with feature assignment `Negative=neg`. If it is used
+  in a copular construction, we use the relation `cop` to connect it to
+  the nominal predicate.
 ~~~~ sdparse
 Arabam mavi değil .\n My car is not blue .
 cop(mavi, değil)
@@ -206,7 +205,7 @@ cop(mavi, değil)
   *değil* can also be used with verbal predicates, acting as an
   auxiliary, in this case we relate it to the main verb with relating
   `aux`.
-  
+
 ~~~~ sdparse
 Öldürecek değiller . \n They are not going to kill (someone) .
 aux(öldürecek, değiller)
@@ -220,14 +219,14 @@ aux(öldürecek, değiller)
 
 ~~~~
 
-* *olarak* (copula *ol-* + suffix *-ArAk*) is somewhat different than 
+* *olarak* (copula *ol-* + suffix *-ArAk*) is somewhat different than
   other uses of the copula. It forms adverbial phrases.
 
 * Clitic *dA* (*de/da*)
 
-  In its common use, *dA* is a discourse connective. In this case, 
-  we mark it as `ADV` and attach it to the word/phrase that it modifies 
-  (typically the preceding word), and mark as `advmod:emph`, which 
+  In its common use, *dA* is a discourse connective. In this case,
+  we mark it as `ADV` and attach it to the word/phrase that it modifies
+  (typically the preceding word), and mark as `advmod:emph`, which
   seems to be used in Czech.
 
   When *dA* is attached to a subordinate predicate, it may look like a
@@ -240,8 +239,8 @@ aux(öldürecek, değiller)
   a construction like *Ahmet de Ali de aradı* 'Ahmet and Ali both
   called', we still attach the clitic to the preceding word, but mark
   coordination without a conjunction, in this case the POS tag is
-  `CCONJ`. 
-  
+  `CCONJ`.
+
   If it is used with the meaning of 'but', e.g., *içerim de,
   arabayı kim kullanacak?* 'I would/can drink, but (then) who will
   drive?'. In this case, it is connected to head of the conjunction
@@ -295,9 +294,9 @@ nsubjpass(satılmadı, arabam)
 ~~~~
 
 * *hani* is a word that forms (mostly rhetorical) 'where' questions.
-  G&K define it as an interjection. In most cases, there is no other word 
+  G&K define it as an interjection. In most cases, there is no other word
   that indicate that the sentence is a question. Furthermore, it fills
-  in a (pro)noun slot in this usage. In this case, we mark it as 
+  in a (pro)noun slot in this usage. In this case, we mark it as
   `PRON` (with `PronType=Int`). In some cases it co-occurs with
   *nerede* 'where'. In that case, it is loosely connected to the
   sentence structure, so, we mark it as `ADV` and connect to the
@@ -310,10 +309,10 @@ nsubjpass(satılmadı, arabam)
   normally 'kendi' is not needed. However, in some cases it is used,
   likely for emphasis. In these cases, we mark it as if it is the
   object of the reflexive ....
-  
-  
 
-## Derivations 
+
+
+## Derivations
 
 * **-lA** is a productive suffix that derives verbs from nouns
   and onomatopoeia, e.g., *model* 'model-N', *modelle* 'model-V'.
@@ -326,7 +325,7 @@ nsubjpass(satılmadı, arabam)
   *hoş-lan*, *silah-lan*, *ağaç-lan*.
 
   **Suggestion:** collapse
-  
+
 * **-lIk** nominals from nominals. Besides lexicalized forms *tuz-luk*
   'salt container/shaker', it is also quite productive. The nominal
   modified by *-lIk* may be modified by other words in rare cases,
@@ -339,7 +338,7 @@ nsubjpass(satılmadı, arabam)
   nouns", e.g. *şarap-çı* 'the wine maker/seller' but also someone who
   has a taste/preference for something, so the example could also mean
   'person who prefers wine (over beer)'. Although not very frequent,
-  the non-derived noun can be modified by other words: 
+  the non-derived noun can be modified by other words:
   *[kırmızı şarap]-çı* 'person preferring red wine (over white wine)'/'red wine seller'.
   Similarly, *iki [[yağlı güreş]-çi]* 'lit: two [[oil(y) wrestle]-r]'
   (the sport is called 'oil(y) wrestling' not that the wrestlers are
@@ -351,22 +350,22 @@ nsubjpass(satılmadı, arabam)
 
 * **-DIr** attached to time expressions create time adverbials with
   the approximate meaning of 'since' or 'for', as in *asır-dır*
-  'for/since centuries', *üç haftadır* 'for three weeks', 
+  'for/since centuries', *üç haftadır* 'for three weeks',
   *uzun yıllar-dır* 'for many years'. In the last two examples the number
   and the adjective modifies the noun, not the resulting adverbial.
 
   **Suggestion:** split. We keep the first IG as head, and relate them
-  with `case`, this is somewhat in line with the English UD where 
+  with `case`, this is somewhat in line with the English UD where
   'since/for' would be linked with `case` as well.
 
 * **-lArI** attaches to time expressions, indicating repeating events,
   *hafta sonları kitap okurum*
   'I read books *in the weekends*',
-  *kış geceleri çok üşürdü* 
+  *kış geceleri çok üşürdü*
   '(s)he used to be/feel very cold *in the winter nights*'.
   The construction is ambiguous between noun-phrase and time adverb.
   That is, *geceleri araştıyorum* could mean 'I research (something)
-  at nights' or 'I research *nights*/I do research about nights'. 
+  at nights' or 'I research *nights*/I do research about nights'.
   TRmorph has a special (derivational) tag for this construction.
 
   **Suggestion:** analyze these as normal noun (phrase) but mark with
@@ -377,7 +376,7 @@ nsubjpass(satılmadı, arabam)
   security forces'. In this usage, *-CA* may scope over the whole
   phrase headed by the noun it is attached to. In this usage we split
   -CA, and connect to the noun with `case` relation (the noun bing the
-  head). 
+  head).
 
 
 

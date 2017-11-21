@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Syntax'
-permalink: tr/overview/specific-syntax.html
 ---
 
 # Specific constructions
@@ -71,9 +70,9 @@ nmod:own(olur, bunun)
 
 Turkish noun compounds are generally classified into three classes:
 
-1. **Bare compounds:** *tahta kapı* 'wooden door', 
-   *kadın subay* 'woman army officer', 
-   *İspanyol ressam* 'Spanish painter', 
+1. **Bare compounds:** *tahta kapı* 'wooden door',
+   *kadın subay* 'woman army officer',
+   *İspanyol ressam* 'Spanish painter',
    *Güniz Sokak* 'Güniz street'
 2. **-(s)I compounds**, possessive marked head with bare complements:
    *otobüs bileti* 'bus ticket',
@@ -95,7 +94,7 @@ Furthermore, the nominals can include subordinate clauses, like
 *[Ali'nin henüz görmediği] film* 'the movie (that) Ali hasn't seen
 yet'. In these cases, the relation is `ccomp` `xcomp`.
 
-**We need more specific guidelines**, or maybe a new relation for marking compounds with subordinate clauses. 
+**We need more specific guidelines**, or maybe a new relation for marking compounds with subordinate clauses.
 
 ## Yes/no questions an the question particle
 
@@ -129,7 +128,7 @@ Yarın siz Ankara'ya gidecek misiniz. \n Will you go to Ankara tomorrow?
 ~~~~
 
 ~~~~ sdparse
-Siz Ankara'ya yarın mı gideceksiniz. \n Will you go to Ankara TOMORROW? 
+Siz Ankara'ya yarın mı gideceksiniz. \n Will you go to Ankara TOMORROW?
 ~~~~
 
 ~~~~ sdparse
@@ -146,7 +145,7 @@ word modifies close to the verb, other word orders are also possible:
 ~~~~ sdparse
 Yarın siz mi Ankara'ya gideceksiniz. \n Will YOU go to Ankara tomorrow?
 ~~~~
-or, 
+or,
 ~~~~ sdparse
 Siz mi yarın Ankara'ya gideceksiniz. \n Will YOU go to Ankara tomorrow?
 ~~~~
@@ -172,7 +171,7 @@ The person names are linked with `flat` relation, and headed by the last part of
 
 Turkish honorifics normally follow the (first) name, *Ahmet Bey*
 'Mr. Ahmet', *Necla Hanım* 'Ms. Necla', *Ayşe öğretmen* 'Teacher
-Ayşe', *Mustafa Kemal Paşa* 'general Mustafa Kemal'. 
+Ayşe', *Mustafa Kemal Paşa* 'general Mustafa Kemal'.
 A few others introduced later, *Sayın*/*Bay*/*Bayan*, precede the last name or first and last name.
 We use the relation `compound` and always mark the proper name as the head of the compound (although it is tempting to mark the title as head in the first case).
 
@@ -203,7 +202,7 @@ If numbers are spelled out completely, we use a combination of `conj`
 and `coord` to mark it in a head-final fashion.
 
 ~~~~ sdparse
-iki yüz otuz üç 
+iki yüz otuz üç
 comp(yüz, iki)
 conj(üç, otuz)
 conj(üç, yüz)

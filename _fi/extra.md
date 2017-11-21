@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Syntax'
-permalink: fi/overview/extra.html
 ---
 
 # Extra material

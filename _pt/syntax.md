@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Syntax'
-permalink: pt/overview/syntax.html
 ---
 
 # Syntax

@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Syntax'
-permalink: zh/overview/syntax.html
 udver: '2'
 ---
 

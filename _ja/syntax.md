@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Syntax'
-permalink: ja/overview/syntax.html
 ---
 
 # Syntax

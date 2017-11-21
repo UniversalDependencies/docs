@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Syntax'
-permalink: ja/overview/specific-syntax.html
 ---
 
 # Specific constructions
@@ -93,7 +92,7 @@ aux(始め, た)
 ## Distinction between `nsubj` vs. `csubj`
 
 Dependency labels of Universal Dependencies are sensitive to the
-distinction between a clause and a non-clause; e.g, 
+distinction between a clause and a non-clause; e.g,
 `nsubj` vs. `csubj` and `amod` vs. `acl`.  However, it is not evident
 what is "clause" in Japanese.  In the case of the distinction between
 `nsubj` and `csubj`, we have the following gradation.

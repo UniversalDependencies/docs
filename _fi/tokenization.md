@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Tokenization'
-permalink: fi/overview/tokenization.html
 ---
 
 # Tokenization

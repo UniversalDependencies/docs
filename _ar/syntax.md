@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Syntax'
-permalink: ar/overview/syntax.html
 ---
 
 # Syntax

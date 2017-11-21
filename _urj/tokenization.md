@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Tokenization'
-permalink: urj/overview/tokenization.html
 ---
 
 # Tokenization

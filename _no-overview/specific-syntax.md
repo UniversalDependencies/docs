@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Syntax'
-permalink: no/overview/specific-syntax.html
 ---
 
 # Specific constructions
@@ -85,7 +84,7 @@ ccomp(finner-2,handlet-7)
 Clefts are quite  common in Norwegian. They contain an expletive subject, a form of *være* "to be" and a relative clause. Note that in clefts we do not adopt a copula analysis of the verb *være* "er".
 
 ~~~ sdparse
-Det er forholdsvis få arter som har klart å tilpasse seg \n There are quite few species that have managed to adapt 
+Det er forholdsvis få arter som har klart å tilpasse seg \n There are quite few species that have managed to adapt
 expl(er-2,Det-1)
 acl:relcl(arter-5,klart-8)
 ~~~

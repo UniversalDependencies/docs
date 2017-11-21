@@ -1,14 +1,13 @@
 ---
 layout: base
 title:  'Syntax'
-permalink: ru/overview/specific-syntax.html
 ---
 
 # Specific constructions
 
 ## Clausal structures
 
-In Russian, the standard case pattern of a predicate-argument construction is as follows: 
+In Russian, the standard case pattern of a predicate-argument construction is as follows:
 
 * the first argument (subject) is in the Nominative case;
 
@@ -45,8 +44,8 @@ sentential negation [Partee & Borschev 2004]. If the subject is under negation (
 
 ### Comparative constructions
 
-Most Russian qualitative adjectives and adverbs have both morphological and analytic comparative and superlative forms, 
-e. g. _умный_ “smart”, _умнее_ (_умней_) “smarter”, _более умный_ “smarter”, (_наи_)_умнейший_ “smartest”, _наиболее умный_, _самый умный_ “smartest”. The synthetic comparative forms are assigned the Cmp [ru-feat/Degree]() feature while the synthetic superlative 
+Most Russian qualitative adjectives and adverbs have both morphological and analytic comparative and superlative forms,
+e. g. _умный_ “smart”, _умнее_ (_умней_) “smarter”, _более умный_ “smarter”, (_наи_)_умнейший_ “smartest”, _наиболее умный_, _самый умный_ “smartest”. The synthetic comparative forms are assigned the Cmp [ru-feat/Degree]() feature while the synthetic superlative
 forms are treated as separate lemmata.
 The most frequently used comparative constructions are the following:
 
@@ -55,7 +54,7 @@ The most frequently used comparative constructions are the following:
 * _Миша_.Nom <b>_самый умный_</b> / <b>_умнейший_</b> _из_.PREP _всех_.Gen. “Misha is <b>the smartest</b> of them all.” (with both types of superlatives)
 * _Миша_.Nom <b>_такой же умный_</b> / <b>_так же умен_</b> / <b>_столь же умен_</b>, _как_ (_и_) _его брат_.Nom. “Misha is <b>as smart</b> as his brother.” (equality comparison)
 
-The “lesser degree” comparison (expressed periphrastically) is marked the same way: 
+The “lesser degree” comparison (expressed periphrastically) is marked the same way:
 
 * _Миша_.Nom <b>_менее умный_</b> / <b>_менее умен_</b>, _чем его брат_.Nom. “Misha is <b>less smart</b> than his brother.” (with both types of comparatives)
 
@@ -118,13 +117,13 @@ mark(he-wants, than)
 ## Noun phrases with quantifiers
 
 ### Constructions with cardinal numerals
-See [ru-dep/nummod:gov]() on numerals governing the case of the noun: _две.Nom жены.Gen_, _пять.Nom жен.Gen_, including phrases with paucal numerals. 
+See [ru-dep/nummod:gov]() on numerals governing the case of the noun: _две.Nom жены.Gen_, _пять.Nom жен.Gen_, including phrases with paucal numerals.
 
-See [ru-dep/nummod]() on numerals not governing the case of the noun: _с двумя.Ins женами.Ins_. 
+See [ru-dep/nummod]() on numerals not governing the case of the noun: _с двумя.Ins женами.Ins_.
 
-See [ru-dep/det:numgov]() on the pronominal quantifiers governing the case of the noun: _сколько.Nom жен.Gen_. 
+See [ru-dep/det:numgov]() on the pronominal quantifiers governing the case of the noun: _сколько.Nom жен.Gen_.
 
-See [ru-dep/det:nummod]() on the pronominal quantifiers agreeing in case with the noun: _со сколькими.Ins женами.Ins_. 
+See [ru-dep/det:nummod]() on the pronominal quantifiers agreeing in case with the noun: _со сколькими.Ins женами.Ins_.
 
 See [ru-dep/compound]() on the compound numerals: _двадцать два_.
 
@@ -132,7 +131,7 @@ Other types of QP:
 
 * _две.Nom целых.Gen.Sg четыре.Nom десятых.Gen.Sg миллиона.Gen.Sg рублей.Gen.Pl_ “2.4 million rubles” (i.e. “four tenth parts of million” with the ellipsis of “parts”)
 
-* _к двум.Dat целым.Dat четырем.Dat десятым.Dat миллиона.Gen.Sg рублей.Gen.Pl_ “to 2.4 million rubles” 
+* _к двум.Dat целым.Dat четырем.Dat десятым.Dat миллиона.Gen.Sg рублей.Gen.Pl_ “to 2.4 million rubles”
 
 ~~~ sdparse
 Двадцать две целых четыре десятых миллиона рублей . \n Twenty two whole-parts four tenth million rubles .
@@ -198,7 +197,7 @@ amod(лодок, белых)
 amod(boats, white)
 ~~~
 
-### Constructions of more and less quantity 
+### Constructions of more and less quantity
 
 The comparative forms _более_, _больше_, _менее_, _меньше_ “more than, less than” are used in constructions like _более двухсот человек_ “more than 200 people”, _(не) меньше пяти машин_ “(no) less than five cars”. _Более_ / _больше_ / _менее_ / _меньше_ governs the Genitive case of the cardinal numeral. If this QP is a subject, the finite predicate takes either singular (3rd person in present tense, neutral in past tense) or plural depending the information structure and some other factors (e.g. _Пришло более двухсот человек_ “More than 200 people came.Neut.Sg”, _Более двухсот человек пришли к памятнику_ “More than 200 people came.pl to the monument”). The distribution of singular and plural is similar but not the same as with cardinal numerals.
 

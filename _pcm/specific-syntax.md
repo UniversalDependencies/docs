@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Syntax'
-permalink: pcm/overview/specific-syntax.html
 udver: '2'
 ---
 
@@ -49,11 +48,11 @@ In Naija _na_ is a copulative particle of focalization (often used in [clefts](#
 4	PL	_	_	_	_	0	_	_	_
 5	the	_	_	_	_	0	_	_	_
 6	matter	_	_	_	_	0	_	_	_
-7	REAL	_	_	_	_	0	_	_	_	
-8	concern	_	_	_	_	0	_	_	_	
-9	well	_	_	_	_	0	_	_	_	
-10	well	_	_	_	_	0	_	_	_	
-11	EMP	_	_	_	_	0	_	_	_	
+7	REAL	_	_	_	_	0	_	_	_
+8	concern	_	_	_	_	0	_	_	_
+9	well	_	_	_	_	0	_	_	_
+10	well	_	_	_	_	0	_	_	_
+11	EMP	_	_	_	_	0	_	_	_
 
 
 1	but	_	_	_	_	0	_	_	_
@@ -62,12 +61,12 @@ In Naija _na_ is a copulative particle of focalization (often used in [clefts](#
 4	the	_	_	_	_	0	_	_	_
 5	landlords	_	_	_	_	0	_	_	_
 6	who	_	_	_	_	0	_	_	_
-7	are	_	_	_	_	0	_	_	_	
-8	really	_	_	_	_	0	_	_	_	
-9	affected	_	_	_	_	0	_	_	_	
-10	by	_	_	_	_	0	_	_	_	
-11	this	_	_	_	_	0	_	_	_	
-12	matter	_	_	_	_	0	_	_	_	
+7	are	_	_	_	_	0	_	_	_
+8	really	_	_	_	_	0	_	_	_
+9	affected	_	_	_	_	0	_	_	_
+10	by	_	_	_	_	0	_	_	_
+11	this	_	_	_	_	0	_	_	_
+12	matter	_	_	_	_	0	_	_	_
 ~~~
 
 However, when the complement of the copula is clausal and contains its own subject, the _na_ copula becomes the head so as to avoid having two nsubj dependents for the head of the complement:
@@ -78,7 +77,7 @@ However, when the complement of the copula is clausal and contains its own subje
 # visual-style 0	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-0	ROOT	_	_	_	_	0	_	_	_	
+0	ROOT	_	_	_	_	0	_	_	_
 1	poor	poor	ADJ	ADJ	_	2	amod	_	_
 2	man	man	NOUN	NOUN	_	3	nmod	_	_
 3	prayer	prayer	NOUN	NOUN	_	4	nsubj	_	_
@@ -99,8 +98,8 @@ However, when the complement of the copula is clausal and contains its own subje
 4	poor	_	_	_	_	0	_	_	_
 5	men	_	_	_	_	0	_	_	_
 6	is	_	_	_	_	0	_	_	_
-7	God	_	_	_	_	0	_	_	_	
-8	exists	_	_	_	_	0	_	_	_	
+7	God	_	_	_	_	0	_	_	_
+8	exists	_	_	_	_	0	_	_	_
 
 ~~~
 
@@ -171,7 +170,7 @@ Negation is marked with the particule <i>no</i> before a verb, an auxiliary or a
 4	it	_	_	_	_	0	_	_	_
 5	to	_	_	_	_	0	_	_	_
 6	the	_	_	_	_	0	_	_	_
-7	pastor	_	_	_	_	0	_	_	_	
+7	pastor	_	_	_	_	0	_	_	_
 
 ~~~
 
@@ -179,7 +178,7 @@ Negation is marked with the particule <i>no</i> before a verb, an auxiliary or a
 
 ### Serial Verb Constructions
 
-In a Serial Verb Construction (SVC), several verbs are combined to describe the same action. These verbs share their subject, but not necessarily their objects. 
+In a Serial Verb Construction (SVC), several verbs are combined to describe the same action. These verbs share their subject, but not necessarily their objects.
 
 ~~~ conllu
 # visual-style 2 4 compound:svc	color:blue
@@ -281,11 +280,11 @@ In Naija, comparatives follow the same pattern as SVCs, with the adjective actin
 4	they	_	_	_	_	0	_	_	_
 5	have	_	_	_	_	0	_	_	_
 6	taken	_	_	_	_	0	_	_	_
-7	alcohol	_	_	_	_	0	_	_	_	
-8	that	_	_	_	_	0	_	_	_	
-9	they	_	_	_	_	0	_	_	_	
-10	are	_	_	_	_	0	_	_	_	
-11	sharper	_	_	_	_	0	_	_	_	
+7	alcohol	_	_	_	_	0	_	_	_
+8	that	_	_	_	_	0	_	_	_
+9	they	_	_	_	_	0	_	_	_
+10	are	_	_	_	_	0	_	_	_
+11	sharper	_	_	_	_	0	_	_	_
 
 ~~~
 
@@ -296,7 +295,7 @@ In Naija, comparatives follow the same pattern as SVCs, with the adjective actin
 
 A cleft sentence is a complex sentence (one having a main clause and a dependent clause) that has a meaning that could be expressed by a simple sentence. Clefts typically put a particular constituent into focus.
 
-In Naija, two links are used for cleft sentences : 
+In Naija, two links are used for cleft sentences :
 
 - [ccomp:cleft]() is used when a clause or an adverb is clefted
 
@@ -326,8 +325,8 @@ In Naija, two links are used for cleft sentences :
 4	drunk	_	_	_	_	0	_	_	_
 5	driving	_	_	_	_	0	_	_	_
 6	is	_	_	_	_	0	_	_	_
-7	not	_	_	_	_	0	_	_	_	
-8	good	_	_	_	_	0	_	_	_	
+7	not	_	_	_	_	0	_	_	_
+8	good	_	_	_	_	0	_	_	_
 
 ~~~
 
@@ -519,7 +518,7 @@ The clauses are juxtaposed when they are independent from one another. It is oft
 
 #### Reported Speech
 
-- indirect speech 
+- indirect speech
 
 In naija, indirect speech is often introduced by the subordinate conjunction "sey" and the link [ccomp]() is used.
 

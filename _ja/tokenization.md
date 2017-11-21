@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Tokenization'
-permalink: ja/overview/tokenization.html
 ---
 
 # Tokenization

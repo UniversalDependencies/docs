@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Tokenization'
-permalink: ga/overview/tokenization.html
 ---
 
 # Tokenization

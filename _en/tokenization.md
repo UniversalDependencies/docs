@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Morphology'
-permalink: en/overview/tokenization.html
 ---
 
 # Tokenization

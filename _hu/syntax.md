@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Syntax'
-permalink: hu/overview/syntax.html
 ---
 
 # Syntax

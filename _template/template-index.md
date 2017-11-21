@@ -46,10 +46,10 @@ udver: '2'
 
 ## Treebanks
 
-There are [N](../../treebanks/LCODE-comparison.html) LANGUAGE UD treebanks:
+There are [N](../treebanks/LCODE-comparison.html) LANGUAGE UD treebanks:
 
-  * [LANGUAGE-A](../../treebanks/LCODE_a-index.html)
-  * [LANGUAGE-B](../../treebanks/LCODE_b-index.html)
+  * [LANGUAGE-A](../treebanks/LCODE_a/index.html)
+  * [LANGUAGE-B](../treebanks/LCODE_b/index.html)
 
 ---
 **Instruction**: Treebank-specific pages are generated automatically from the README file in the treebank repository and

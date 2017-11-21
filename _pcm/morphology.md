@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Morphology'
-permalink: pcm/overview/morphology.html
 udver: '2'
 ---
 

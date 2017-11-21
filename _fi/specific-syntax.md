@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Syntax'
-permalink: fi/overview/specific-syntax.html
 ---
 
 # Specific constructions
@@ -46,7 +45,7 @@ amod(asunto-4, oma-3)
 punct(on-2, .-5)
 ~~~
 
-Also the genitive subject in for instance necessive structures 
+Also the genitive subject in for instance necessive structures
 <!-- TODO restore: (see Section 5.14) -->
 is annotated as [`nsubj`](). (This is not to be confused with the
 genitive subject of a noun, [nmod:gsubj]())
@@ -1452,7 +1451,7 @@ punct(rajalliset-5, .-6)
 
 ### Diffs
 
-As the passive-verb-derived, idiomatic structures 
+As the passive-verb-derived, idiomatic structures
 *olla tehtävissä / tehtävillä* (“to be doable”) are
 considered [`root`]() (or other) + [`advcl`]()
 in FinnTreeBank (FI_FTB), the rule relating

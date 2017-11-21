@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Migration Guidelines'
-permalink: en/overview/migration-guidelines.html
 ---
 
 # Migration Guidelines (from SD to UD)
@@ -113,14 +112,14 @@ in Stanford CoreNLP and the Stanford Parser. Relations that were renamed, folded
 
 ### <b>`acomp`: `xcomp`</b>
 
-`acomp` no longer exists as a relation in UD and has been folded into [`xcomp`](en-dep/xcomp). 
+`acomp` no longer exists as a relation in UD and has been folded into [`xcomp`](en-dep/xcomp).
 
 #### GrammaticalRelation object:
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.XCLAUSAL_COMPLEMENT`
 
 ### <b>`advcl`: `advcl`</b>
 
-`advcl` relations in SD are still annotated as [`advcl`](en-dep/advcl) in UD. 
+`advcl` relations in SD are still annotated as [`advcl`](en-dep/advcl) in UD.
 
 Note, however, that this relation is now also used for prepositional phrases modifying a predicate (some instances of `pcomp` and `prepc` in SD) and for reduced non-finite verbal modifiers that modify a predicate (some instances of `vmod` in SD).
 
@@ -196,8 +195,8 @@ This relation has been renamed to `nmod:agent`.
 
 `conj` relations in SD are still annotated as [`conj`](en-dep/conj) in UD.
 
-Note that in the _enhanced_ representation (formerly known as _CCprocessed_ representation), the 
-relation name and the coordinating conjunction are now separated by `:` instead of `_`, e.g. 
+Note that in the _enhanced_ representation (formerly known as _CCprocessed_ representation), the
+relation name and the coordinating conjunction are now separated by `:` instead of `_`, e.g.
 `conj:and` instead of `conj_and`.
 
 #### GrammaticalRelation object:
@@ -207,7 +206,7 @@ relation name and the coordinating conjunction are now separated by `:` instead 
 
 `cop` relations in SD are still annotated as [`cop`](en-dep/cop) in UD.
 
-Unlike in the SD representation, prepositional phrases and adverbial phrases are also 
+Unlike in the SD representation, prepositional phrases and adverbial phrases are also
 treated as the head of copular constructions in UD as illustrated in the following examples:
 
 ~~~ sdparse
@@ -310,7 +309,7 @@ of the pleonastic _it_ differently.
 
 `fixed` relations in SD are still annotated as [`fixed`](en-dep/mwe) in UD.
 
-However, the list of expressions which are considered multi-word expressions has changed. See the 
+However, the list of expressions which are considered multi-word expressions has changed. See the
 description of the [`fixed` relation](en-dep/mwe) for the list of multi-word expressions.
 
 #### GrammaticalRelation object:
@@ -369,7 +368,7 @@ The `num` relation in SD has been renamed to [`nummod`](en-dep/nummod) in UD.
 
 ### <b>`number`: `compound`</b>
 
-The `number` relation in SD no longer exists as a relation in UD and has been folded into [`compound`](en-dep/compound). 
+The `number` relation in SD no longer exists as a relation in UD and has been folded into [`compound`](en-dep/compound).
 
 #### GrammaticalRelation object:
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.COMPOUND`
@@ -393,7 +392,7 @@ The `poss` relation in SD has been renamed to [`nmod:poss`](en-dep/nmod-poss) in
 
 ### <b>`possesive`: `case`</b>
 
-The `possesive` relation in SD no longer exists as a relation in UD and has been folded into [`case`](en-dep/case). 
+The `possesive` relation in SD no longer exists as a relation in UD and has been folded into [`case`](en-dep/case).
 
 #### GrammaticalRelation object:
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.CASE_MARKER`
@@ -439,9 +438,9 @@ The `predet` relation in SD has been renamed to [`det:predet`](en-dep/det-predet
 
 ### <b>`prep`: `case` or `mark`</b>
 
-Prepositional phrases are treated differently in UD. See the section [Treatment of Prepositional Phrases](#treatment-of-prepositional-phrases) for more details on the new treatment of prepositional phrases. 
+Prepositional phrases are treated differently in UD. See the section [Treatment of Prepositional Phrases](#treatment-of-prepositional-phrases) for more details on the new treatment of prepositional phrases.
 
-The various `prep_<PREPOSITION>` relations in the _collapsed_ and _CCprocessed_ SD representations 
+The various `prep_<PREPOSITION>` relations in the _collapsed_ and _CCprocessed_ SD representations
 have been replaced with `nmod:<PREPOSITION>` relations in the UD _enhanced_ representation.
 
 #### GrammaticalRelation object:
@@ -451,8 +450,8 @@ have been replaced with `nmod:<PREPOSITION>` relations in the UD _enhanced_ repr
 
 ### <b>`prepc`: `acl` or `advcl`</b>
 
-The `prepc_<PREPOSITION>` relations in the _collapsed_ and _CCprocessed_ SD representations have been 
-replaced with `acl:<PREPOSITION>` and `advcl:<PREPOSITION>` relations in the UD _enhanced_ representation. 
+The `prepc_<PREPOSITION>` relations in the _collapsed_ and _CCprocessed_ SD representations have been
+replaced with `acl:<PREPOSITION>` and `advcl:<PREPOSITION>` relations in the UD _enhanced_ representation.
 
 See the section [Treatment of Prepositional Phrases](#treatment-of-prepositional-phrases) for more details.
 
@@ -474,7 +473,7 @@ The `prt` relation in SD has been renamed to [`compound:prt`](en-dep/compound-pr
 
 ### <b>`quantmod`: `advmod`</b>
 
-The `quantmod` relation in SD no longer exists as a relation in UD and has been folded into [`advmod`](en-dep/advmod). 
+The `quantmod` relation in SD no longer exists as a relation in UD and has been folded into [`advmod`](en-dep/advmod).
 
 #### GrammaticalRelation object:
 `edu.stanford.nlp.trees.UniversalEnglishGrammaticalRelations.ADVERBIAL_MODIFIER`
@@ -510,7 +509,7 @@ The `tmod` relation in SD has been renamed to [`nmod:tmod`](en-dep/nmod-tmod) in
 
 The `vmod` relation in SD no longer exists as a relation in UD and has been folded into the [`acl`](en-dep/acl) and [`advcl`](en-dep/advcl) relations in UD.
 
-The `acl` relation is used for clauses that modify a noun unless the noun is a predicate in a copular 
+The `acl` relation is used for clauses that modify a noun unless the noun is a predicate in a copular
 construction. The `advcl` relation is used for clauses that modify a verb or any other predicate.
 
 See the section [Treatment of Prepositional Phrases](#treatment-of-prepositional-phrases) for more details on when to use
@@ -541,7 +540,7 @@ The UD represenation also introduces the following new relations which did not e
 
 ## _Enhanced_ Universal Depencies
 
-Apart from the the basic representation, the Stanford parser also provided several post-processed representations including the _collapsed_ and _CCprocessed_ representations. The main purpose of the _collapsed_ representation was to collapse prepositions to get direct dependencies between content words. Considering the new [treatment of prepositional phrases](#treatment-of-prepositional-phrases) the basic representation already has direct dependencies between content words which makes the _collapsed_ representation largely obsolete. On the other hand, the propagation of conjunt dependencies still adds useful dependencies in UD. 
+Apart from the the basic representation, the Stanford parser also provided several post-processed representations including the _collapsed_ and _CCprocessed_ representations. The main purpose of the _collapsed_ representation was to collapse prepositions to get direct dependencies between content words. Considering the new [treatment of prepositional phrases](#treatment-of-prepositional-phrases) the basic representation already has direct dependencies between content words which makes the _collapsed_ representation largely obsolete. On the other hand, the propagation of conjunt dependencies still adds useful dependencies in UD.
 
 For these reasons we decided to reduce the total number of representations to the following three:
 
@@ -551,11 +550,11 @@ For these reasons we decided to reduce the total number of representations to th
 
 The _basic_ representation uses the dependencies defined above, and forms a tree structure. Each
 word in the sentence is the dependent of exactly one thing, either another word in the sentence or the
-distingushed _ROOT_ token. 
+distingushed _ROOT_ token.
 
 The _enhanced_ representation roughly corresponds to the _CCprocessed_ representation in SD. However, there are two main differences:
 
-* The delimiter between the original relation name and the conjunction or the preposition was changed from `_` to `:`. For example, what used to be `conj_and` is now `conj:and`, or `prep_in_front_of` is now `nmod:in_front_of`. 
+* The delimiter between the original relation name and the conjunction or the preposition was changed from `_` to `:`. For example, what used to be `conj_and` is now `conj:and`, or `prep_in_front_of` is now `nmod:in_front_of`.
 * We no longer delete words in the _enhanced_ representation.
 
 

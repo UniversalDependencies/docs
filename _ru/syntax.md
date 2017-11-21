@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Syntax'
-permalink: ru/overview/syntax.html
 ---
 
 # Syntax

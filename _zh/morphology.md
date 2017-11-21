@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Morphology'
-permalink: zh/overview/morphology.html
 udver: '2'
 ---
 

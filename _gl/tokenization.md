@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Tokenization'
-permalink: gl/overview/tokenization.html
 ---
 
 # Tokenization
