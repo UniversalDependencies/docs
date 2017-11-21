@@ -50,6 +50,7 @@ This also implies that enhanced UD use grammatical functions/relations, not sema
 
 
 To encompass both these constraints and the current enhanced dependencies (v2.1), enhanced dependencies could be viewed as aiming to (from Joakim):
+
 1. Add syntactically conditioned constraints on semantic interpretation that are left implicit in the basic dependencies. Examples: control relations and co-reference in relative clauses, possibly also coordination scope.
 2. potentially repackage information that is already available in basic dependencies to make it more easily accessible for downstream applications. Example: subtyping obl and advcl relations with adpositions and subordinate conjunctions.
 
