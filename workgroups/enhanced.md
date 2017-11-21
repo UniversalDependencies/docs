@@ -81,7 +81,7 @@ nsubj(apparus, cas)
 ~~~
 
 For transitives, the modified noun corresponds to the object (if the verb were active, finite).
-(Note: the participle is better viewed as a passive. This allows for the nice regularity that the modified noun is always the subject of the participle, but when the participle is passive, its subject is its canonical object. If the neutralization of syntactic alternations [see below](#neutralizing-syntactic-alternations) is adopted, then the enhanced edge should bear nsubj:pass@obj). 
+(Note: viewing the transitive participle as a passive homogenizes the treatment of noun-modifying participles: the modified noun can always be viewed as the subject of the participle, but when the participle is passive, its subject is its canonical object. If the neutralization of syntactic alternations ([see below](#neutralizing-syntactic-alternations)) is adopted, then the enhanced edge would bear nsubj:pass@obj). 
 
 ~~~ sdparse
 The persons hired in 2007 are few
@@ -106,7 +106,7 @@ nsubj(saving, risked)
 
 ## Neutralizing syntactic alternations
 
-Syntactic alternations (like passive) are known to cause diversity in the observed verbal linking patterns in corpora, i.e. the grammatical functions born by the semantic arguments of a verb. Some syntactic alternations can be identified using morpho-syntactic clues, without resorting to semantic disambiguation.
+Syntactic alternations (like passive) are known to cause variation in the observed verbal linking patterns in corpora, i.e. the grammatical functions born by the semantic arguments of a verb. Some syntactic alternations can be identified using morpho-syntactic clues, without resorting to semantic disambiguation.
 
 We propose in such cases to recover the canonical grammatical functions. This can reduce the diversity of syntactic/semantic linking patterns for a given verb, and make subsequent semantic analysis more straightforward.
 
