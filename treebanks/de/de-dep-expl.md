@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_German: Relations: `expl`
 
 This relation is universal.
+There are 1 language-specific subtypes of `expl`: <tt><a href="de-dep-expl-pv.html">expl:pv</a></tt>.
 
 396 nodes (0%) are attached to their parents as `expl`.
 

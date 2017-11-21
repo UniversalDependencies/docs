@@ -72,7 +72,7 @@ enough clues (morphological analyzer / lexicon was not used at this stage).
 
 ## Relations
 
-[acl](de-dep-acl.html) – [advcl](de-dep-advcl.html) – [advmod](de-dep-advmod.html) – [amod](de-dep-amod.html) – [appos](de-dep-appos.html) – [aux](de-dep-aux.html) – [aux:pass](de-dep-aux-pass.html) – [case](de-dep-case.html) – [cc](de-dep-cc.html) – [ccomp](de-dep-ccomp.html) – [compound](de-dep-compound.html) – [compound:prt](de-dep-compound-prt.html) – [conj](de-dep-conj.html) – [cop](de-dep-cop.html) – [csubj](de-dep-csubj.html) – [csubj:pass](de-dep-csubj-pass.html) – [dep](de-dep-dep.html) – [det](de-dep-det.html) – [det:poss](de-dep-det-poss.html) – [expl](de-dep-expl.html) – [fixed](de-dep-fixed.html) – [flat](de-dep-flat.html) – [iobj](de-dep-iobj.html) – [mark](de-dep-mark.html) – [nmod](de-dep-nmod.html) – [nmod:poss](de-dep-nmod-poss.html) – [nsubj](de-dep-nsubj.html) – [nsubj:pass](de-dep-nsubj-pass.html) – [nummod](de-dep-nummod.html) – [obj](de-dep-obj.html) – [obl](de-dep-obl.html) – [parataxis](de-dep-parataxis.html) – [punct](de-dep-punct.html) – [root](de-dep-root.html) – [xcomp](de-dep-xcomp.html)
+[acl](de-dep-acl.html) – [advcl](de-dep-advcl.html) – [advmod](de-dep-advmod.html) – [amod](de-dep-amod.html) – [appos](de-dep-appos.html) – [aux](de-dep-aux.html) – [aux:pass](de-dep-aux-pass.html) – [case](de-dep-case.html) – [cc](de-dep-cc.html) – [ccomp](de-dep-ccomp.html) – [compound](de-dep-compound.html) – [compound:prt](de-dep-compound-prt.html) – [conj](de-dep-conj.html) – [cop](de-dep-cop.html) – [csubj](de-dep-csubj.html) – [csubj:pass](de-dep-csubj-pass.html) – [dep](de-dep-dep.html) – [det](de-dep-det.html) – [det:poss](de-dep-det-poss.html) – [expl](de-dep-expl.html) – [expl:pv](de-dep-expl-pv.html) – [fixed](de-dep-fixed.html) – [flat](de-dep-flat.html) – [iobj](de-dep-iobj.html) – [mark](de-dep-mark.html) – [nmod](de-dep-nmod.html) – [nmod:poss](de-dep-nmod-poss.html) – [nsubj](de-dep-nsubj.html) – [nsubj:pass](de-dep-nsubj-pass.html) – [nummod](de-dep-nummod.html) – [obj](de-dep-obj.html) – [obl](de-dep-obl.html) – [parataxis](de-dep-parataxis.html) – [punct](de-dep-punct.html) – [root](de-dep-root.html) – [xcomp](de-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -637,13 +637,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc-ADP(wie) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(zwischen) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(über) (1)</li>
-      <li>VERB-Fin--PRON-Acc (1457)</li>
+      <li>VERB-Fin--PRON-Acc (1267)</li>
       <li>VERB-Inf--NOUN-Acc (1144)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(bis) (1)</li>
-      <li>VERB-Inf--PRON-Acc (371)</li>
+      <li>VERB-Inf--PRON-Acc (361)</li>
       <li>VERB-Part--NOUN-Acc (523)</li>
       <li>VERB-Part--NOUN-Acc-ADP(mit) (1)</li>
-      <li>VERB-Part--PRON-Acc (277)</li>
+      <li>VERB-Part--PRON-Acc (270)</li>
     </ul>
   </li>
 </ul>
@@ -652,7 +652,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB--NOUN-Dat (22)</li>
-      <li>VERB--PRON-Dat (9)</li>
+      <li>VERB--PRON-Dat (8)</li>
       <li>VERB-Fin--NOUN-Dat (339)</li>
       <li>VERB-Fin--PRON-Dat (254)</li>
       <li>VERB-Inf--NOUN-Dat (80)</li>
@@ -664,20 +664,25 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   </li>
 </ul>
 
+<h3>Reflexive Verbs</h3>
+
+<ul>
+  <li>This corpus contains 12 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: befinden sich, erholen sich, weigern sich, verlieben sich, begeben sich, nähern sich, bedanken mich, aneignen sich, anfreunden uns, bedanken uns, begeben mich, erholen mich</li>
+</ul>
 
 
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 512 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: befinden sich, handeln sich, lassen sich, finden sich, setzen sich, beschäftigen sich, nehmen sich, fühlen mich, schließen sich, beteiligen sich, erstrecken sich, stellen sich, ergeben sich, fühlen sich, zeigen sich, bilden sich, entwickeln sich, kümmern sich, äußern sich, befassen sich, betätigen sich, engagieren sich, entscheiden sich, halten sich, ändern sich, beziehen sich, erheben sich, erholen sich, lohnen sich, machen sich, orientieren sich, sichern sich, treffen sich, unterscheiden sich, wenden sich, widmen sich, beschränken sich, etablieren sich, richten sich, sprechen sich, weigern sich, anschließen sich, bemühen sich, durchsetzen sich, leiten sich, lösen sich, zeichnen sich, zurückziehen sich, bekennen sich, belaufen sich</li>
+  <li>This corpus contains 500 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: handeln sich, lassen sich, finden sich, setzen sich, beschäftigen sich, nehmen sich, fühlen mich, schließen sich, beteiligen sich, erstrecken sich, stellen sich, ergeben sich, fühlen sich, zeigen sich, bilden sich, entwickeln sich, kümmern sich, äußern sich, befassen sich, betätigen sich, engagieren sich, entscheiden sich, halten sich, ändern sich, beziehen sich, erheben sich, lohnen sich, machen sich, orientieren sich, sichern sich, treffen sich, unterscheiden sich, wenden sich, widmen sich, beschränken sich, etablieren sich, richten sich, sprechen sich, anschließen sich, bemühen sich, durchsetzen sich, leiten sich, lösen sich, zeichnen sich, zurückziehen sich, bekennen sich, belaufen sich, bewegen sich, einsetzen sich, erwerben sich</li>
     <ul>
-      <li>Out of those, 30 lemmas occurred more than once, but never without a reflexive dependent. Examples: erstrecken, kümmern, befassen, betätigen, erholen, lohnen, weigern, belaufen, begeben, distanzieren, einigen, auszahlen, erfreuen, niederlassen, nähern, wundern, zusammenschließen, anschauen, auseinandersetzen, bewähren, breiten, erhoffen, erkämpfen, hauen, scheuen, trauen, verbünden, verfestigen, verjüngen, verwundern, Botschaftskanzlei, Jungkoch, Kristallisationsfigur, Montemar, Treibenlassen, abklären, abschwächen, absenken, abzeichnend, anbahnen, aneignen, anfreunden, ansammeln, assimilieren, aufdrücken, auferlegen, aufritzt, aufschreiben, bereitfinden, bessern</li>
+      <li>Out of those, 26 lemmas occurred more than once, but never without a reflexive dependent. Examples: erstrecken, kümmern, befassen, betätigen, lohnen, belaufen, distanzieren, einigen, auszahlen, erfreuen, niederlassen, wundern, zusammenschließen, anschauen, auseinandersetzen, bewähren, breiten, erhoffen, erkämpfen, hauen, scheuen, trauen, verbünden, verfestigen, verjüngen, verwundern, Botschaftskanzlei, Jungkoch, Kristallisationsfigur, Montemar, Treibenlassen, abklären, abschwächen, absenken, abzeichnend, anbahnen, ansammeln, assimilieren, aufdrücken, auferlegen, aufritzt, aufschreiben, bereitfinden, bessern, besänftigen, betan, bewaffnen, bewegend, brüsten, dazugeschenkt</li>
     </ul>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 6 relation subtypes: <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:poss</a>, <a>nmod:poss</a>, <a>nsubj:pass</a></li>
+<li>This corpus uses 7 relation subtypes: <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:poss</a>, <a>expl:pv</a>, <a>nmod:poss</a>, <a>nsubj:pass</a></li>
 <li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

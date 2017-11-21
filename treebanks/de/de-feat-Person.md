@@ -131,8 +131,9 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="de-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (2479; 53%),
-<tt>VERB --[<tt><a href="de-dep-obj.html">obj</a></tt>]--> PRON</tt> (1058; 54%),
+<tt>VERB --[<tt><a href="de-dep-obj.html">obj</a></tt>]--> PRON</tt> (877; 50%),
 <tt>VERB --[<tt><a href="de-dep-expl.html">expl</a></tt>]--> PRON</tt> (269; 76%),
+<tt>VERB --[<tt><a href="de-dep-expl-pv.html">expl:pv</a></tt>]--> PRON</tt> (181; 87%),
 <tt>AUX --[<tt><a href="de-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (5; 56%),
 <tt>AUX --[<tt><a href="de-dep-expl.html">expl</a></tt>]--> PRON</tt> (2; 100%).
 
