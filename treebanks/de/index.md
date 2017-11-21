@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 
 The following people have contributed to making this treebank part of UD: Slav Petrov, Wolfgang Seeker, Ryan McDonald, Joakim Nivre, Daniel Zeman.
 
-Repository: [UD_German](https://github.com/UniversalDependencies/UD_German)
+Repository: [UD_German](https://github.com/UniversalDependencies/UD_German)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde)
 
 License: CC BY-NC-SA 3.0 US
 
@@ -71,13 +72,13 @@ enough clues (morphological analyzer / lexicon was not used at this stage).
 
 ## Relations
 
-[acl](de-dep-acl.html) – [advcl](de-dep-advcl.html) – [advmod](de-dep-advmod.html) – [amod](de-dep-amod.html) – [appos](de-dep-appos.html) – [aux](de-dep-aux.html) – [aux:pass](de-dep-aux-pass.html) – [case](de-dep-case.html) – [cc](de-dep-cc.html) – [ccomp](de-dep-ccomp.html) – [compound](de-dep-compound.html) – [compound:prt](de-dep-compound-prt.html) – [conj](de-dep-conj.html) – [cop](de-dep-cop.html) – [csubj](de-dep-csubj.html) – [csubj:pass](de-dep-csubj-pass.html) – [dep](de-dep-dep.html) – [det](de-dep-det.html) – [det:poss](de-dep-det-poss.html) – [expl](de-dep-expl.html) – [fixed](de-dep-fixed.html) – [flat](de-dep-flat.html) – [iobj](de-dep-iobj.html) – [mark](de-dep-mark.html) – [nmod](de-dep-nmod.html) – [nmod:poss](de-dep-nmod-poss.html) – [nsubj](de-dep-nsubj.html) – [nsubj:pass](de-dep-nsubj-pass.html) – [nummod](de-dep-nummod.html) – [obj](de-dep-obj.html) – [obl](de-dep-obl.html) – [parataxis](de-dep-parataxis.html) – [punct](de-dep-punct.html) – [root](de-dep-root.html) – [xcomp](de-dep-xcomp.html)
+[acl](de-dep-acl.html) – [advcl](de-dep-advcl.html) – [advmod](de-dep-advmod.html) – [amod](de-dep-amod.html) – [appos](de-dep-appos.html) – [aux](de-dep-aux.html) – [aux:pass](de-dep-aux-pass.html) – [case](de-dep-case.html) – [cc](de-dep-cc.html) – [ccomp](de-dep-ccomp.html) – [compound](de-dep-compound.html) – [compound:prt](de-dep-compound-prt.html) – [conj](de-dep-conj.html) – [cop](de-dep-cop.html) – [csubj](de-dep-csubj.html) – [csubj:pass](de-dep-csubj-pass.html) – [dep](de-dep-dep.html) – [det](de-dep-det.html) – [det:poss](de-dep-det-poss.html) – [expl](de-dep-expl.html) – [expl:pv](de-dep-expl-pv.html) – [fixed](de-dep-fixed.html) – [flat](de-dep-flat.html) – [iobj](de-dep-iobj.html) – [mark](de-dep-mark.html) – [nmod](de-dep-nmod.html) – [nmod:poss](de-dep-nmod-poss.html) – [nsubj](de-dep-nsubj.html) – [nsubj:pass](de-dep-nsubj-pass.html) – [nummod](de-dep-nummod.html) – [obj](de-dep-obj.html) – [obl](de-dep-obl.html) – [parataxis](de-dep-parataxis.html) – [punct](de-dep-punct.html) – [root](de-dep-root.html) – [xcomp](de-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
 <ul>
 <li>This corpus contains 15590 sentences, 287110 tokens and 292152 syntactic words.</li>
-<li>This corpus contains 33949 tokens (12%) that are not followed by a space.</li>
+<li>This corpus contains 33950 tokens (12%) that are not followed by a space.</li>
 <li>This corpus does not contain words with spaces.</li>
 <li>This corpus contains 192 types of words that contain both letters and punctuation. Examples: St., Dr., 's, &amp;, U.S., B., I., z.B., u.a., d', z., v., W., e.V., jap., l', etc., ca., s., F., H., M., k.k., C., D., G., Inc., J., P., Co., Prof., engl., L., d.h., E., K., O'Brien, S.S., ital., k.u.k., lat., 're, 1B.LS1, A., A.V.G., C.C., Gr., I.G., K.o., L.A.</li>
 <li>This corpus contains 5042 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
@@ -107,11 +108,11 @@ enough clues (morphological analyzer / lexicon was not used at this stage).
 </ul>
 
 <ul>
-<li>This corpus contains 25 lemmas tagged as auxiliaries (AUX): Hab, Saarinen, Ware, bekommen, bleiben, brauchen, could, d, daneben, dürfen, haben, have, kanns, können, lassen, mögen, müssen, scheinen, sein, sollen, werd, werden, wir, wollen, zu</li>
+<li>This corpus contains 114 lemmas tagged as auxiliaries (AUX): Hab, Saarinen, Ware, abkürzen, amtieren, anerkennen, angefühlt, ansehen, aufbauen, auftreten, be, bedeuten, befinden, befördern, bekommen, benennen, berufen, beschimpfen, bestehen, bestimmen, betiteln, betragen, bezeichnen, bilden, bleiben, brauchen, could, d, daneben, darstellen, degradieren, deuten, dienen, duften, dürfen, einstufen, empfinden, entlarven, entwickeln, entziffern, erachten, erheben, erklären, ernennen, erscheinen, erweisen, erweitern, erwähnen, eröffnen, feiern, feststellen, finden, folgen, fungieren, gehen, gelten, genannt, gestalten, glauben, gründen, haben, halten, handeln, have, heißen, identifizieren, is, kanns, kosten, können, küren, lassen, lauten, liegen, listen, machen, messen, mögen, müssen, nehmen, nennen, nominieren, prägen, scheinen, schlagen, schmecken, sehen, sein, seyn, sollen, stehen, stellen, umbauen, umbenennen, umbilden, umwandeln, verarbeiten, vereidigen, verhaften, verlegen, versterben, vorstellen, wandeln, was, werd, werden, wir, wirken, wissen, wollen, worden, wählen, zu, überzeugen</li>
 </ul>
 
 <ul>
-<li>Out of the above, 15 lemmas occurred sometimes as AUX and sometimes as VERB: Hab, bekommen, bleiben, brauchen, dürfen, haben, können, lassen, mögen, müssen, scheinen, sein, sollen, werden, wollen</li>
+<li>Out of the above, 93 lemmas occurred sometimes as AUX and sometimes as VERB: Hab, amtieren, anerkennen, ansehen, aufbauen, auftreten, bedeuten, befinden, befördern, bekommen, benennen, berufen, beschimpfen, bestehen, bestimmen, betragen, bezeichnen, bilden, bleiben, brauchen, darstellen, degradieren, deuten, dienen, duften, dürfen, einstufen, empfinden, entlarven, entwickeln, erheben, erklären, ernennen, erscheinen, erweisen, erweitern, erwähnen, eröffnen, feiern, feststellen, finden, folgen, fungieren, gehen, gelten, gestalten, glauben, gründen, haben, halten, handeln, heißen, identifizieren, kosten, können, küren, lassen, lauten, liegen, machen, messen, mögen, müssen, nehmen, nennen, nominieren, prägen, scheinen, schlagen, schmecken, sehen, sein, seyn, sollen, stehen, stellen, umbauen, umbenennen, umwandeln, verarbeiten, vereidigen, verhaften, verlegen, versterben, vorstellen, wandeln, was, werden, wirken, wissen, wollen, wählen, überzeugen</li>
 </ul>
 
 <ul>
@@ -119,20 +120,20 @@ enough clues (morphological analyzer / lexicon was not used at this stage).
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: wurde, wird, wurden, kann, hat, werden, ist, hatte, haben, konnte</li>
-    <li>VERB: ist, war, sind, waren, wurde, gibt, kam, liegt, hat, hatte</li>
+    <li>AUX: ist, wurde, war, sind, wird, wurden, kann, hat, werden, waren</li>
+    <li>VERB: gibt, kam, hat, liegt, hatte, gab, erhielt, war, befindet, ist</li>
   </ul>
   </li>
   <li>Inf
   <ul>
-    <li>AUX: werden, können, sein, haben, müssen, lassen, wollen, dürfen, bekommen</li>
-    <li>VERB: sein, empfehlen, lassen, machen, werden, finden, erreichen, haben, sehen, gehen</li>
+    <li>AUX: werden, sein, können, haben, müssen, lassen, wollen, dürfen, bleiben, auftreten</li>
+    <li>VERB: empfehlen, lassen, machen, finden, erreichen, haben, sehen, gehen, sagen, kommen</li>
   </ul>
   </li>
   <li>Part
   <ul>
-    <li>AUX: worden, gewesen, geworden</li>
-    <li>VERB: gegründet, genannt, verwendet, eingesetzt, genutzt, bezeichnet, gebaut, aufgenommen, gewählt, gemacht</li>
+    <li>AUX: worden, gewesen, genannt, geworden, bezeichnet, ernannt, gewählt, geblieben, gemacht, umbenannt</li>
+    <li>VERB: gegründet, verwendet, eingesetzt, genutzt, gebaut, aufgenommen, errichtet, erwähnt, geboren, veröffentlicht</li>
   </ul>
   </li>
 </ul>
@@ -199,13 +200,13 @@ enough clues (morphological analyzer / lexicon was not used at this stage).
     <li>Plur
       <ul>
         <li>ADJ: weitere, ersten, anderen, viele, verschiedene, neue, andere, große, zahlreiche, meisten</li>
-        <li>AUX-Fin: wurden, werden, haben, können, sind, waren, hatten, sollen, konnten, müssen</li>
+        <li>AUX-Fin: wurden, sind, waren, werden, haben, können, hatten, sollen, konnten, müssen</li>
         <li>DET: die, den, der, das, einen, ein, dessen, eine, dem, des</li>
         <li>NOUN: Jahren, Menschen, Kinder, Jahre, Namen, Frauen, Personen, Arten, Einwohnern, Metern</li>
         <li>NUM: 1870er, drei, sechs</li>
         <li>PRON: wir, sie, uns, diese, alle, beiden, ihnen, mehrere, einige, ihr</li>
         <li>PROPN: Olympischen, Spielen, Staaten, Vereinigten, Alpen, Studios, Serben, Bergen, Inseln, Motors</li>
-        <li>VERB-Fin: sind, waren, haben, stehen, gehören, gibt, kamen, hatten, kommen, liegen</li>
+        <li>VERB-Fin: haben, stehen, gehören, gibt, kamen, hatten, kommen, liegen, waren, befinden</li>
         <li>X: er</li>
       </ul>
     </li>
@@ -214,15 +215,15 @@ enough clues (morphological analyzer / lexicon was not used at this stage).
         <li>ADJ: ersten, erste, neue, neuen, große, deutschen, weitere, großen, zweiten, gleichen</li>
         <li>ADP: als</li>
         <li>ADV: mehr</li>
-        <li>AUX-Fin: wurde, wird, hat, ist, kann, hatte, konnte, habe, war, sollte</li>
+        <li>AUX-Fin: ist, wurde, war, wird, sind, hat, kann, hatte, konnte, habe</li>
         <li>DET: dem, der, die, das, des, den, eine, ein, einer, einem</li>
         <li>NOUN: Jahr, Zeit, Stadt, Teil, Prozent, Jahre, Ort, Familie, Ende, Platz</li>
         <li>NUM: 1, 31, 2, 24., 6, 1., 13, 16, 17, 18</li>
         <li>PRON: er, es, ich, sie, diese, ihm, dieser, was, diesem, ihn</li>
         <li>PROPN: Weltkrieg, Zweiten, Oktober, USA, Mai, von, Ersten, November, SPD, University</li>
         <li>SCONJ: dass</li>
-        <li>VERB: ist, war, sind, wurde, gibt, hatte, kam, liegt, hat, erhielt</li>
-        <li>VERB-Fin: ist, war, sind, wurde, gibt, hatte, kam, liegt, hat, erhielt</li>
+        <li>VERB: gibt, hatte, kam, liegt, hat, erhielt, war, befindet, gab, ist</li>
+        <li>VERB-Fin: gibt, hatte, kam, liegt, hat, erhielt, war, befindet, gab, ist</li>
         <li>X: What, the</li>
       </ul>
     </li>
@@ -358,14 +359,14 @@ enough clues (morphological analyzer / lexicon was not used at this stage).
   <ul>
     <li>Ind
       <ul>
-        <li>AUX-Fin: wurde, wird, kann, hat, werden, ist, hatte, haben, konnte, habe</li>
-        <li>VERB-Fin: ist, war, sind, waren, wurde, hat, hatte, haben, bin, hatten</li>
+        <li>AUX-Fin: ist, wurde, war, sind, wird, kann, hat, werden, waren, hatte</li>
+        <li>VERB-Fin: hat, hatte, war, ist, haben, sind, hatten, waren, bin, habe</li>
       </ul>
     </li>
     <li>Sub
       <ul>
-        <li>AUX-Fin: würde, hätte, hätten, möchte, könnte, könne, wäre, seien, wolle, könnten</li>
-        <li>VERB-Fin: seien, wäre, wären, hätten, hätte, wolle, möchte, möge</li>
+        <li>AUX-Fin: würde, hätte, hätten, seien, wäre, möchte, könnte, könne, wolle, könnten</li>
+        <li>VERB-Fin: hätten, hätte, wolle, möchte, seien, möge, wäre, wären</li>
       </ul>
     </li>
   </ul>
@@ -375,14 +376,14 @@ enough clues (morphological analyzer / lexicon was not used at this stage).
   <ul>
     <li>Past
       <ul>
-        <li>AUX-Fin: wurde, hatte, konnte, war, sollte, musste, waren, hatten, konnten, wollte</li>
-        <li>VERB-Fin: war, waren, wurde, hatte, hatten, wäre, wollte, wären, wollten, hätten</li>
+        <li>AUX-Fin: wurde, war, waren, hatte, konnte, sollte, musste, hatten, konnten, wollte</li>
+        <li>VERB-Fin: hatte, war, hatten, waren, wurde, wollte, wollten, hätten, hätte, möchte</li>
       </ul>
     </li>
     <li>Pres
       <ul>
-        <li>AUX-Fin: wird, kann, hat, werden, ist, haben, habe, sind, können, soll</li>
-        <li>VERB-Fin: ist, sind, hat, haben, bin, wird, seien, habe, weiß, will</li>
+        <li>AUX-Fin: ist, sind, wird, kann, hat, werden, haben, habe, können, soll</li>
+        <li>VERB-Fin: hat, ist, haben, sind, bin, habe, weiß, will, wird, wolle</li>
       </ul>
     </li>
   </ul>
@@ -496,18 +497,18 @@ enough clues (morphological analyzer / lexicon was not used at this stage).
   <ul>
     <li>1
       <ul>
-        <li>AUX-Fin: habe, haben, kann, bin, werde, werden, hatte, hätte, würde, muss</li>
+        <li>AUX-Fin: habe, haben, kann, bin, sind, war, werde, werden, hatte, waren</li>
         <li>DET: meine, unsere, meiner, mein, unserem, meinem, unser</li>
         <li>PRON: ich, wir, uns, mir, mich, meine, unsere, mein, meiner, meinem</li>
-        <li>VERB-Fin: war, bin, waren, sind, hatte, kommen, finde, gehe, haben, habe</li>
+        <li>VERB-Fin: war, hatte, kommen, waren, bin, gehe, finde, haben, habe, hatten</li>
       </ul>
     </li>
     <li>2
       <ul>
-        <li>AUX-Fin: habt, hast, könnt, müsst, sollst, werden, werdet, wirst, wollt</li>
+        <li>AUX-Fin: bist, habt, hast, könnt, müsst, sollst, werden, werdet, wirst, wollt</li>
         <li>DET: deinen, eure</li>
         <li>PRON: Sie, ihr, du, Ihnen, euch, Dir, dich, euren, eurer, Deinen</li>
-        <li>VERB-Fin: bist, findet, weißt, DENKST, Hast, Wollt, gebt, gehst, gelingt, hasst</li>
+        <li>VERB-Fin: findet, weißt, DENKST, Hast, Wollt, bist, gebt, gehst, gelingt, hasst</li>
       </ul>
     </li>
     <li>2,3
@@ -518,10 +519,10 @@ enough clues (morphological analyzer / lexicon was not used at this stage).
     </li>
     <li>3
       <ul>
-        <li>AUX-Fin: wurde, wird, wurden, hat, ist, kann, werden, hatte, war, sind</li>
+        <li>AUX-Fin: ist, wurde, war, sind, wird, wurden, hat, waren, werden, kann</li>
         <li>DET: seine, seiner, sein, seinen, ihre, seinem, ihrer, ihren, seines, ihr</li>
         <li>PRON: er, sich, es, sie, ihm, ihn, ihnen, seine, ihre, ihren</li>
-        <li>VERB-Fin: ist, war, sind, waren, wurde, gibt, hat, liegt, kam, gab</li>
+        <li>VERB-Fin: gibt, hat, liegt, kam, gab, hatte, befindet, erhielt, ist, war</li>
       </ul>
     </li>
   </ul>
@@ -636,13 +637,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Acc-ADP(wie) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(zwischen) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(über) (1)</li>
-      <li>VERB-Fin--PRON-Acc (1457)</li>
+      <li>VERB-Fin--PRON-Acc (1267)</li>
       <li>VERB-Inf--NOUN-Acc (1144)</li>
       <li>VERB-Inf--NOUN-Acc-ADP(bis) (1)</li>
-      <li>VERB-Inf--PRON-Acc (371)</li>
+      <li>VERB-Inf--PRON-Acc (361)</li>
       <li>VERB-Part--NOUN-Acc (523)</li>
       <li>VERB-Part--NOUN-Acc-ADP(mit) (1)</li>
-      <li>VERB-Part--PRON-Acc (277)</li>
+      <li>VERB-Part--PRON-Acc (270)</li>
     </ul>
   </li>
 </ul>
@@ -651,29 +652,37 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>iobj</a>
     <ul>
       <li>VERB--NOUN-Dat (22)</li>
-      <li>VERB--PRON-Dat (9)</li>
-      <li>VERB-Fin--NOUN-Dat (361)</li>
-      <li>VERB-Fin--PRON-Dat (280)</li>
-      <li>VERB-Inf--NOUN-Dat (83)</li>
-      <li>VERB-Inf--PRON-Dat (92)</li>
-      <li>VERB-Part--NOUN-Dat (104)</li>
+      <li>VERB--PRON-Dat (8)</li>
+      <li>VERB-Fin--NOUN-Dat (339)</li>
+      <li>VERB-Fin--PRON-Dat (254)</li>
+      <li>VERB-Inf--NOUN-Dat (80)</li>
+      <li>VERB-Inf--PRON-Dat (91)</li>
+      <li>VERB-Part--NOUN-Dat (103)</li>
       <li>VERB-Part--NOUN-Dat-ADP(bis) (1)</li>
       <li>VERB-Part--PRON-Dat (113)</li>
     </ul>
   </li>
 </ul>
 
+<h3>Reflexive Verbs</h3>
+
+<ul>
+  <li>This corpus contains 12 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: befinden sich, erholen sich, weigern sich, verlieben sich, begeben sich, nähern sich, bedanken mich, aneignen sich, anfreunden uns, bedanken uns, begeben mich, erholen mich</li>
+</ul>
 
 
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 512 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: befinden sich, handeln sich, lassen sich, finden sich, setzen sich, beschäftigen sich, nehmen sich, fühlen mich, schließen sich, beteiligen sich, erstrecken sich, stellen sich, ergeben sich, fühlen sich, zeigen sich, bilden sich, entwickeln sich, kümmern sich, äußern sich, befassen sich, betätigen sich, engagieren sich, entscheiden sich, halten sich, ändern sich, beziehen sich, erheben sich, erholen sich, lohnen sich, machen sich, orientieren sich, sichern sich, treffen sich, unterscheiden sich, wenden sich, widmen sich, beschränken sich, etablieren sich, richten sich, sprechen sich, weigern sich, anschließen sich, bemühen sich, durchsetzen sich, leiten sich, lösen sich, zeichnen sich, zurückziehen sich, bekennen sich, belaufen sich</li>
+  <li>This corpus contains 500 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: handeln sich, lassen sich, finden sich, setzen sich, beschäftigen sich, nehmen sich, fühlen mich, schließen sich, beteiligen sich, erstrecken sich, stellen sich, ergeben sich, fühlen sich, zeigen sich, bilden sich, entwickeln sich, kümmern sich, äußern sich, befassen sich, betätigen sich, engagieren sich, entscheiden sich, halten sich, ändern sich, beziehen sich, erheben sich, lohnen sich, machen sich, orientieren sich, sichern sich, treffen sich, unterscheiden sich, wenden sich, widmen sich, beschränken sich, etablieren sich, richten sich, sprechen sich, anschließen sich, bemühen sich, durchsetzen sich, leiten sich, lösen sich, zeichnen sich, zurückziehen sich, bekennen sich, belaufen sich, bewegen sich, einsetzen sich, erwerben sich</li>
+    <ul>
+      <li>Out of those, 26 lemmas occurred more than once, but never without a reflexive dependent. Examples: erstrecken, kümmern, befassen, betätigen, lohnen, belaufen, distanzieren, einigen, auszahlen, erfreuen, niederlassen, wundern, zusammenschließen, anschauen, auseinandersetzen, bewähren, breiten, erhoffen, erkämpfen, hauen, scheuen, trauen, verbünden, verfestigen, verjüngen, verwundern, Botschaftskanzlei, Jungkoch, Kristallisationsfigur, Montemar, Treibenlassen, abklären, abschwächen, absenken, abzeichnend, anbahnen, ansammeln, assimilieren, aufdrücken, auferlegen, aufritzt, aufschreiben, bereitfinden, bessern, besänftigen, betan, bewaffnen, bewegend, brüsten, dazugeschenkt</li>
+    </ul>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 6 relation subtypes: <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:poss</a>, <a>nmod:poss</a>, <a>nsubj:pass</a></li>
+<li>This corpus uses 7 relation subtypes: <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:poss</a>, <a>expl:pv</a>, <a>nmod:poss</a>, <a>nsubj:pass</a></li>
 <li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

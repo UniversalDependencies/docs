@@ -45,7 +45,7 @@ The following 14 pairs of parts of speech are connected with `csubj`: <tt><a hre
 # visual-style 1	fgColor:white
 # visual-style 1 8 csubj	color:blue
 1	Anmerkenswert	Anmerkenswert	ADJ	NN	_	0	root	_	_
-2	ist	sein	VERB	VAFIN	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	SpaceAfter=No
+2	ist	sein	AUX	VAFIN	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	SpaceAfter=No
 3	,	,	PUNCT	$,	_	1	punct	_	_
 4	dass	dass	SCONJ	KOUS	_	8	mark	_	_
 5	der	der	DET	ART	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
@@ -68,7 +68,7 @@ The following 14 pairs of parts of speech are connected with `csubj`: <tt><a hre
 3	wieder	wieder	ADV	ADV	_	4	advmod	_	_
 4	aufmachen	aufmachen	VERB	VVINF	VerbForm=Inf	9	csubj	_	_
 5	durften	dürfen	AUX	VMFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
-6	ist	sein	VERB	VAFIN	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+6	ist	sein	AUX	VAFIN	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
 7	mir	ich	PRON	PPER	Case=Dat|Number=Sing|Person=1|PronType=Prs	6	iobj	_	_
 8	ein	ein	DET	ART	Definite=Ind|PronType=Art	9	det	_	_
 9	Rätsel	Rätsel	NOUN	NN	_	0	root	_	SpaceAfter=No

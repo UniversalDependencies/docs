@@ -7,6 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_German: Relations: `expl`
 
 This relation is universal.
+There are 1 language-specific subtypes of `expl`: <tt><a href="de-dep-expl-pv.html">expl:pv</a></tt>.
 
 396 nodes (0%) are attached to their parents as `expl`.
 
@@ -45,7 +46,7 @@ The following 7 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 6	fgColor:white
 # visual-style 6 1 expl	color:blue
 1	Es	es	PRON	PPER	Case=Acc,Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	expl	_	_
-2	ist	sein	VERB	VAFIN	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+2	ist	sein	AUX	VAFIN	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 3	alles	alle	PRON	PIS	Case=Nom|PronType=Tot	6	nsubj	_	_
 4	noch	noch	ADV	ADV	_	6	advmod	_	_
 5	sehr	sehr	ADV	ADV	_	6	advmod	_	_
@@ -65,7 +66,7 @@ The following 7 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 2 4 expl	color:blue
 1	Ihr	Ihr|ihr	DET	PPOSAT	Person=2,3|Poss=Yes|PronType=Prs	2	det:poss	_	_
 2	Ziel	Ziel	NOUN	NN	_	0	root	_	_
-3	war	sein	VERB	VAFIN	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	2	cop	_	_
+3	war	sein	AUX	VAFIN	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	2	cop	_	_
 4	es	es	PRON	PPER	Case=Acc,Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	_	SpaceAfter=No
 5	,	,	PUNCT	$,	_	2	punct	_	_
 6	die	der	DET	ART	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_

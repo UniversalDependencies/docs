@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_German: POS Tags: `PUNCT`
 
 There are 39 `PUNCT` lemmas (0%), 39 `PUNCT` types (0%) and 38292 `PUNCT` tokens (13%).
-Out of 15 observed tags, the rank of `PUNCT` is: 12 in number of lemmas, 14 in number of types and 2 in number of tokens.
+Out of 15 observed tags, the rank of `PUNCT` is: 13 in number of lemmas, 14 in number of types and 2 in number of tokens.
 
 The 10 most frequent `PUNCT` lemmas: <em>., ,, -, ", ), (, --, !, :, ''</em>
 
@@ -53,7 +53,7 @@ The 10 most frequent ambiguous types:  <em>.</em> (<tt><a href="de-pos-PUNCT.htm
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.186549).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.186689).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: <em>!</em>.
 
@@ -66,9 +66,9 @@ The 3rd highest number of forms (1) was observed with the lemma “'”: <em>'</
 
 ## Relations
 
-`PUNCT` nodes are attached to their parents using 7 different relations: <tt><a href="de-dep-punct.html">punct</a></tt> (38250; 100% instances), <tt><a href="de-dep-case.html">case</a></tt> (22; 0% instances), <tt><a href="de-dep-dep.html">dep</a></tt> (15; 0% instances), <tt><a href="de-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="de-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="de-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="de-dep-cop.html">cop</a></tt> (1; 0% instances)
+`PUNCT` nodes are attached to their parents using 7 different relations: <tt><a href="de-dep-punct.html">punct</a></tt> (38251; 100% instances), <tt><a href="de-dep-case.html">case</a></tt> (22; 0% instances), <tt><a href="de-dep-dep.html">dep</a></tt> (14; 0% instances), <tt><a href="de-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="de-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="de-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="de-dep-cop.html">cop</a></tt> (1; 0% instances)
 
-Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="de-pos-VERB.html">VERB</a></tt> (17292; 45% instances), <tt><a href="de-pos-NOUN.html">NOUN</a></tt> (9324; 24% instances), <tt><a href="de-pos-PROPN.html">PROPN</a></tt> (7328; 19% instances), <tt><a href="de-pos-ADJ.html">ADJ</a></tt> (2990; 8% instances), <tt><a href="de-pos-NUM.html">NUM</a></tt> (803; 2% instances), <tt><a href="de-pos-PRON.html">PRON</a></tt> (185; 0% instances), <tt><a href="de-pos-ADV.html">ADV</a></tt> (125; 0% instances), <tt><a href="de-pos-X.html">X</a></tt> (125; 0% instances), <tt><a href="de-pos-ADP.html">ADP</a></tt> (45; 0% instances), <tt><a href="de-pos-CCONJ.html">CCONJ</a></tt> (21; 0% instances), <tt><a href="de-pos-AUX.html">AUX</a></tt> (18; 0% instances), <tt><a href="de-pos-PART.html">PART</a></tt> (17; 0% instances), <tt><a href="de-pos-PUNCT.html">PUNCT</a></tt> (13; 0% instances), <tt><a href="de-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="de-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
+Parents of `PUNCT` nodes belong to 15 different parts of speech: <tt><a href="de-pos-VERB.html">VERB</a></tt> (17292; 45% instances), <tt><a href="de-pos-NOUN.html">NOUN</a></tt> (9325; 24% instances), <tt><a href="de-pos-PROPN.html">PROPN</a></tt> (7328; 19% instances), <tt><a href="de-pos-ADJ.html">ADJ</a></tt> (2990; 8% instances), <tt><a href="de-pos-NUM.html">NUM</a></tt> (803; 2% instances), <tt><a href="de-pos-PRON.html">PRON</a></tt> (185; 0% instances), <tt><a href="de-pos-ADV.html">ADV</a></tt> (125; 0% instances), <tt><a href="de-pos-X.html">X</a></tt> (125; 0% instances), <tt><a href="de-pos-ADP.html">ADP</a></tt> (45; 0% instances), <tt><a href="de-pos-CCONJ.html">CCONJ</a></tt> (20; 0% instances), <tt><a href="de-pos-AUX.html">AUX</a></tt> (18; 0% instances), <tt><a href="de-pos-PART.html">PART</a></tt> (17; 0% instances), <tt><a href="de-pos-PUNCT.html">PUNCT</a></tt> (13; 0% instances), <tt><a href="de-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="de-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances)
 
 38279 (100%) `PUNCT` nodes are leaves.
 

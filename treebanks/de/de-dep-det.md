@@ -24,7 +24,7 @@ The following 46 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 5	fgColor:white
 # visual-style 5 3 det	color:blue
 1	Manasse	Manasse	PROPN	NN	Case=Nom|Number=Sing	5	nsubj	_	_
-2	ist	sein	VERB	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+2	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 3	ein	ein	DET	ART	Definite=Ind|PronType=Art	5	det	_	_
 4	einzigartiger	einzigartig	ADJ	ADJA	Degree=Cmp,Pos	5	amod	_	_
 5	Parfümeur	Parfümeur	NOUN	NN	_	0	root	_	SpaceAfter=No
@@ -42,7 +42,7 @@ The following 46 pairs of parts of speech are connected with `det`: <tt><a href=
 1	Grund	Grund	NOUN	NN	Case=Nom|Number=Sing	6	nsubj	_	_
 2	unseres	unser	PRON	PPOSAT	Case=Gen|Gender=Masc,Neut|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	3	det:poss	_	_
 3	Besuchs	Besuch	NOUN	NN	Case=Gen|Gender=Masc,Neut|Number=Sing	1	nmod	_	_
-4	war	sein	VERB	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
+4	war	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
 5	der	der	DET	ART	Definite=Def|PronType=Art	6	det	_	_
 6	Wunsch	Wunsch	NOUN	NN	_	0	root	_	_
 7	eine	ein	DET	ART	Case=Acc|Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_

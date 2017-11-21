@@ -53,7 +53,7 @@ The following 36 pairs of parts of speech are connected with `advcl`: <tt><a hre
 5	geht	gehen	VERB	VVFIN	Number=Sing|Person=3|VerbForm=Fin	10	advcl	_	SpaceAfter=No
 6	,	,	PUNCT	$,	_	10	punct	_	_
 7	dann	dann	ADV	ADV	_	10	advmod	_	_
-8	ist	sein	VERB	VAFIN	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+8	ist	sein	AUX	VAFIN	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 9	der	der	PRON	PDS	Case=Nom|PronType=Dem	10	nsubj	_	_
 10	super	super	ADJ	ADJD	Degree=Pos	0	root	_	_
 

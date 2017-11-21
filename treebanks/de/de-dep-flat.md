@@ -62,7 +62,7 @@ The following 12 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 5 7 flat	color:blue
 1	The	The	PROPN	FM	_	2	nmod	_	_
 2	Crystals	Crystals	PROPN	NN	Case=Nom|Number=Sing	10	nsubj	_	_
-3	war	sein	VERB	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	_	_
+3	war	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	_	_
 4	eine	ein	DET	ART	Definite=Ind|PronType=Art	10	det	_	_
 5	US	US	PROPN	NE	_	10	amod	_	_
 6	-	-	PUNCT	$(	_	5	punct	_	_

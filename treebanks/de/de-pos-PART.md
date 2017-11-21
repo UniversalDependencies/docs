@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_German: POS Tags: `PART`
 
 There are 34 `PART` lemmas (0%), 34 `PART` types (0%) and 2165 `PART` tokens (1%).
-Out of 15 observed tags, the rank of `PART` is: 13 in number of lemmas, 15 in number of types and 13 in number of tokens.
+Out of 15 observed tags, the rank of `PART` is: 14 in number of lemmas, 15 in number of types and 13 in number of tokens.
 
 The 10 most frequent `PART` lemmas: <em>nicht, zu, aus, an, ja, nein, es, hallo, hin, her</em>
 
@@ -65,7 +65,7 @@ The 10 most frequent ambiguous types:  <em>nicht</em> (<tt><a href="de-pos-PART.
 
 ## Morphology
 
-The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.186549).
+The form / lemma ratio of `PART` is 1.000000 (the average of all parts of speech is 1.186689).
 
 The 1st highest number of forms (1) was observed with the lemma “;-)”: <em>;-)</em>.
 
@@ -86,7 +86,7 @@ Examples: <em>nicht, nein, garnicht, keine, keinerlei, ncht, nich</em>
 
 `PART` nodes are attached to their parents using 17 different relations: <tt><a href="de-dep-advmod.html">advmod</a></tt> (1092; 50% instances), <tt><a href="de-dep-mark.html">mark</a></tt> (987; 46% instances), <tt><a href="de-dep-fixed.html">fixed</a></tt> (21; 1% instances), <tt><a href="de-dep-cc.html">cc</a></tt> (12; 1% instances), <tt><a href="de-dep-aux.html">aux</a></tt> (11; 1% instances), <tt><a href="de-dep-appos.html">appos</a></tt> (7; 0% instances), <tt><a href="de-dep-root.html">root</a></tt> (7; 0% instances), <tt><a href="de-dep-conj.html">conj</a></tt> (6; 0% instances), <tt><a href="de-dep-dep.html">dep</a></tt> (6; 0% instances), <tt><a href="de-dep-case.html">case</a></tt> (4; 0% instances), <tt><a href="de-dep-compound-prt.html">compound:prt</a></tt> (3; 0% instances), <tt><a href="de-dep-acl.html">acl</a></tt> (2; 0% instances), <tt><a href="de-dep-nmod.html">nmod</a></tt> (2; 0% instances), <tt><a href="de-dep-nsubj.html">nsubj</a></tt> (2; 0% instances), <tt><a href="de-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="de-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="de-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `PART` nodes belong to 14 different parts of speech: <tt><a href="de-pos-VERB.html">VERB</a></tt> (1731; 80% instances), <tt><a href="de-pos-ADV.html">ADV</a></tt> (148; 7% instances), <tt><a href="de-pos-ADJ.html">ADJ</a></tt> (116; 5% instances), <tt><a href="de-pos-NOUN.html">NOUN</a></tt> (68; 3% instances), <tt><a href="de-pos-AUX.html">AUX</a></tt> (47; 2% instances), <tt><a href="de-pos-PROPN.html">PROPN</a></tt> (15; 1% instances), <tt><a href="de-pos-PRON.html">PRON</a></tt> (14; 1% instances),  (7; 0% instances), <tt><a href="de-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="de-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="de-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="de-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="de-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="de-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `PART` nodes belong to 14 different parts of speech: <tt><a href="de-pos-VERB.html">VERB</a></tt> (1587; 73% instances), <tt><a href="de-pos-AUX.html">AUX</a></tt> (191; 9% instances), <tt><a href="de-pos-ADV.html">ADV</a></tt> (148; 7% instances), <tt><a href="de-pos-ADJ.html">ADJ</a></tt> (116; 5% instances), <tt><a href="de-pos-NOUN.html">NOUN</a></tt> (68; 3% instances), <tt><a href="de-pos-PROPN.html">PROPN</a></tt> (15; 1% instances), <tt><a href="de-pos-PRON.html">PRON</a></tt> (14; 1% instances),  (7; 0% instances), <tt><a href="de-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="de-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="de-pos-PART.html">PART</a></tt> (4; 0% instances), <tt><a href="de-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="de-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances), <tt><a href="de-pos-DET.html">DET</a></tt> (1; 0% instances)
 
 1958 (90%) `PART` nodes are leaves.
 

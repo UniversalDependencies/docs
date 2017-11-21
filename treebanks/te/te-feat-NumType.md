@@ -20,7 +20,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="te-pos-NUM.html">NU
 
 `NUM` tokens may have the following values of `NumType`:
 
-* `Card` (92; 100% of non-empty `NumType`): ఒక రెండు మూడు సగం ఐదు పది నాలుగు నూరు యాభై అర
+* `Card` (92; 100% of non-empty `NumType`): ఒక, రెండు, మూడు, సగం, ఐదు, పది, నాలుగు, నూరు, యాభై, అర
 
 ## Relations with Agreement in `NumType`
 

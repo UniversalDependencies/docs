@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_German: POS Tags: `ADP`
 
 There are 156 `ADP` lemmas (0%), 158 `ADP` types (0%) and 31658 `ADP` tokens (11%).
-Out of 15 observed tags, the rank of `ADP` is: 7 in number of lemmas, 8 in number of types and 4 in number of tokens.
+Out of 15 observed tags, the rank of `ADP` is: 7 in number of lemmas, 9 in number of types and 4 in number of tokens.
 
 The 10 most frequent `ADP` lemmas: <em>in, von, mit, zu, an, auf, für, als, nach, bei</em>
 
@@ -74,7 +74,7 @@ The 10 most frequent ambiguous types:  <em>in</em> (<tt><a href="de-pos-ADP.html
 
 ## Morphology
 
-The form / lemma ratio of `ADP` is 1.012821 (the average of all parts of speech is 1.186549).
+The form / lemma ratio of `ADP` is 1.012821 (the average of all parts of speech is 1.186689).
 
 The 1st highest number of forms (2) was observed with the lemma “anläßlich”: <em>anlässlich, anläßlich</em>.
 
@@ -109,5 +109,5 @@ The highest child degree of a `ADP` node is 8.
 
 Children of `ADP` nodes are attached using 22 different relations: <tt><a href="de-dep-nmod.html">nmod</a></tt> (458; 41% instances), <tt><a href="de-dep-nsubj.html">nsubj</a></tt> (142; 13% instances), <tt><a href="de-dep-advmod.html">advmod</a></tt> (72; 6% instances), <tt><a href="de-dep-dep.html">dep</a></tt> (64; 6% instances), <tt><a href="de-dep-conj.html">conj</a></tt> (45; 4% instances), <tt><a href="de-dep-punct.html">punct</a></tt> (45; 4% instances), <tt><a href="de-dep-amod.html">amod</a></tt> (43; 4% instances), <tt><a href="de-dep-obj.html">obj</a></tt> (39; 3% instances), <tt><a href="de-dep-cc.html">cc</a></tt> (34; 3% instances), <tt><a href="de-dep-cop.html">cop</a></tt> (34; 3% instances), <tt><a href="de-dep-fixed.html">fixed</a></tt> (24; 2% instances), <tt><a href="de-dep-nummod.html">nummod</a></tt> (20; 2% instances), <tt><a href="de-dep-acl.html">acl</a></tt> (19; 2% instances), <tt><a href="de-dep-det.html">det</a></tt> (18; 2% instances), <tt><a href="de-dep-case.html">case</a></tt> (16; 1% instances), <tt><a href="de-dep-appos.html">appos</a></tt> (14; 1% instances), <tt><a href="de-dep-compound.html">compound</a></tt> (9; 1% instances), <tt><a href="de-dep-mark.html">mark</a></tt> (7; 1% instances), <tt><a href="de-dep-flat.html">flat</a></tt> (6; 1% instances), <tt><a href="de-dep-nsubj-pass.html">nsubj:pass</a></tt> (6; 1% instances), <tt><a href="de-dep-advcl.html">advcl</a></tt> (5; 0% instances), <tt><a href="de-dep-xcomp.html">xcomp</a></tt> (4; 0% instances)
 
-Children of `ADP` nodes belong to 14 different parts of speech: <tt><a href="de-pos-NOUN.html">NOUN</a></tt> (486; 43% instances), <tt><a href="de-pos-PROPN.html">PROPN</a></tt> (156; 14% instances), <tt><a href="de-pos-NUM.html">NUM</a></tt> (85; 8% instances), <tt><a href="de-pos-ADJ.html">ADJ</a></tt> (67; 6% instances), <tt><a href="de-pos-ADV.html">ADV</a></tt> (65; 6% instances), <tt><a href="de-pos-PRON.html">PRON</a></tt> (59; 5% instances), <tt><a href="de-pos-VERB.html">VERB</a></tt> (59; 5% instances), <tt><a href="de-pos-ADP.html">ADP</a></tt> (47; 4% instances), <tt><a href="de-pos-PUNCT.html">PUNCT</a></tt> (45; 4% instances), <tt><a href="de-pos-CCONJ.html">CCONJ</a></tt> (36; 3% instances), <tt><a href="de-pos-SCONJ.html">SCONJ</a></tt> (6; 1% instances), <tt><a href="de-pos-X.html">X</a></tt> (6; 1% instances), <tt><a href="de-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="de-pos-PART.html">PART</a></tt> (2; 0% instances)
+Children of `ADP` nodes belong to 15 different parts of speech: <tt><a href="de-pos-NOUN.html">NOUN</a></tt> (486; 43% instances), <tt><a href="de-pos-PROPN.html">PROPN</a></tt> (156; 14% instances), <tt><a href="de-pos-NUM.html">NUM</a></tt> (85; 8% instances), <tt><a href="de-pos-ADJ.html">ADJ</a></tt> (67; 6% instances), <tt><a href="de-pos-ADV.html">ADV</a></tt> (65; 6% instances), <tt><a href="de-pos-PRON.html">PRON</a></tt> (59; 5% instances), <tt><a href="de-pos-ADP.html">ADP</a></tt> (47; 4% instances), <tt><a href="de-pos-PUNCT.html">PUNCT</a></tt> (45; 4% instances), <tt><a href="de-pos-CCONJ.html">CCONJ</a></tt> (36; 3% instances), <tt><a href="de-pos-AUX.html">AUX</a></tt> (31; 3% instances), <tt><a href="de-pos-VERB.html">VERB</a></tt> (28; 2% instances), <tt><a href="de-pos-SCONJ.html">SCONJ</a></tt> (6; 1% instances), <tt><a href="de-pos-X.html">X</a></tt> (6; 1% instances), <tt><a href="de-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="de-pos-PART.html">PART</a></tt> (2; 0% instances)
 
