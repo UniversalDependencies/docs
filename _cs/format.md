@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Czech Format Extension'
-permalink: cs/overview/format.html
 ---
 
 # Czech Format Extension: Miscellaneous
