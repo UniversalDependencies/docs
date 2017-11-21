@@ -223,6 +223,7 @@ From Sebastian: Need for a more cross-linguistic perspective. Can lead to incons
 Marie: added example from French (valid for romance languages): Depending on the verb, there are two possibilities for the inchoative version of a causative event like _"Paul a cassé le câble" (Paul broke the cable)_, one with a meaningless reflexive marker _Le câble s'est cassé (the cable SE-REFL is broken)_, and one without any mark (like in English): _Le câble a cassé (the cable has broken)_ _"the cable broke"_). With _casser (to break)_ both are possible while the former is much more frequent.
 
 Marie:
+
 * need to make more precise what morpho-syntactically marked means. Indeed it could be argued that the "unmarked" causative-inchoative alternation (Paul broke the cable / the cable broke) is indeed marked, since the transitivity changes.
 * The restriction to morpho-syntactically marked alternations that we implemented in our work on French and English derives more feasibility constraints more than from linguistic principles 
 * The question could be whether it is better to neutralize only some of the alternations, or none of them. I guess the inconsistencies that Sebastian mentions mean having different sets of enhanced grammatical functions for the same set of basic grammatical functions ("the vase(=nsubj@obj) REFL broke" versus "the vase(=nsubj) broke"). So I would say these are exactly the inconsistencies arising from the syntactic alternations themselves. 
