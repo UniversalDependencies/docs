@@ -84,6 +84,7 @@ Dropping or marking of "semantically void" syntactic dependencies, more precisel
 One key question to address is whether "void" syntactic dependencies should / could be removed in the enhanced graphs, or whether this is postponed in further semantic processing.
 
 This concerns basic edges in which
+
 * the dependent is itself semantically void (expletives)
 * or the dependent can be contentful but is not a semantic argument of the governor. This would lead to drop certain dependencies in well-known syntactic-semantic mismatches:
   - raising : She seems to run fast --> drop the nsubj(seems, she) edge ?
