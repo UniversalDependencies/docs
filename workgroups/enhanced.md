@@ -109,8 +109,8 @@ Current enhancements do add dependents of infinitives in raising or control cons
 
 For subject of infinitives or gerunds, there are two possibilities:
 
-(1) Restrict cases to obligatory control (syntactic position of the subject of the infinitive/gerund is fixed, given the lexical item licensing the infinitival/gerund clause)
-(2) or extend to arbitrary control too (proposed in Candito et al depling 17)
+1. Restrict cases to obligatory control (syntactic position of the subject of the infinitive/gerund is fixed, given the lexical item licensing the infinitival/gerund clause)
+2. or extend to arbitrary control too (proposed in Candito et al depling 17)
 
 Discussion on status seems to favor solution (1).
 
