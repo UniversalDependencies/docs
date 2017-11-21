@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Morphology'
-permalink: lv/overview/morphology.html
 ---
 
 # Morphology

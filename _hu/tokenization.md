@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Tokenization'
-permalink: hu/overview/tokenization.html
 ---
 
 # Tokenization

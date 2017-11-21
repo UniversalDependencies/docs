@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Tokenization'
-permalink: hy/overview/tokenization.html
 udver: '2'
 ---
 
@@ -22,4 +21,4 @@ The low-level tokenization of the Armenian UD treebank follows the tokenization 
 * Most of the time, every punctuation character constitutes a token of its own. Thus *<b>»,—</b>* will become three tokens.
   * Exceptions are conventional multi-character punctuation marks: *<b>...</b>* , *<b>....</b>* , and emojis and smileys: *<b>:)</b>* , *<b>^_^</b>*, etc.
   Conventional non-armenian multi-characte  punctuation marks and terms are tokenized as single tokens: *<b>?!</b>* , *<b>°С</b>* .
-  
+

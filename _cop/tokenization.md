@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Tokenization'
-permalink: cop/overview/tokenization.html
 udver: '2'
 ---
 
@@ -17,7 +16,7 @@ For portmanteau tags, tokens which carry a fused portmanteau POS tag receive bot
 
 *Pure universal dependencies*
 
-When using pure dependencies, more ‘lexical’ functions trump more ‘grammatical’ ones, so that examples like ACOND_PPERS are still labeled nsubj, omitting the aux label entirely. This preserves the pure universal dependency tag set. 
+When using pure dependencies, more ‘lexical’ functions trump more ‘grammatical’ ones, so that examples like ACOND_PPERS are still labeled nsubj, omitting the aux label entirely. This preserves the pure universal dependency tag set.
 
 Alternatively, if the intended application of the annotation project supports sub-tokenization, the CoNLL-U format can be used as follows, specifying subtokens/supertokens for fused units:
 

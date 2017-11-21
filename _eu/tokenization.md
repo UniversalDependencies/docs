@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Tokenization'
-permalink: eu/overview/tokenization.html
 ---
 
 # Tokenization

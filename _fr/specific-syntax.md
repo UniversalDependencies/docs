@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Syntax'
-permalink: fr/overview/specific-syntax.html
 udver: '2'
 ---
 
@@ -43,7 +42,7 @@ advmod(a,y)
 obj(a,père)
 acl:cleft(père,passe)
 nsubj(passe,qui)
-~~~ 
+~~~
 
 N.B.: Presentative constructions must not be mistaken for cleft sentences. FrenchSpoken annotates those two constructions differently.
 In a presentative construction the pronoun _c'_ has an antecedent whereas the _c'_ in a cleft sentence does not have one. The _c'_ of a presentative will thus be annotated with a standard [fr-dep/nsubj]() relation and the _c'_ of a cleft sentence will be annotated with the `nsubj:expl` subrelation (see above).
@@ -54,11 +53,11 @@ Notre jardin est vraiment magnifique. C' est un endroit où j' aime venir lire. 
 nsubj(endroit,C')
 acl:relcl(endroit,aime)
 obl:mod(aime,où)
-~~~ 
+~~~
 
 ## Qu'est-ce que ... ?
 
-_qu'est-ce que ..._ is actually a cleft construction. 
+_qu'est-ce que ..._ is actually a cleft construction.
 For example the sentence _Qu'est-ce que tu lis ?_ (_What are you reading?_) corresponds to the sentence _C'est quoi que tu lis ?_. In the second sentence the cleft construction clearly appears: _quoi_ is the clefted element and _que tu lis_ the clause attached to it.
 _Qu'est-ce que ..._ is thus analyzed as a cleft sentence. The first _qu'_ (i.e. the clefted element) is the head of the whole sentence and governs the right part with an [fr-dep/acl:cleft]() link.
 
@@ -85,7 +84,7 @@ nsubj(acheté,tu)
 ## Pseudo-cleft sentences
 
 To stay consistent with the analysis made for the cleft sentences, and thus to show the similarities between the two types of constructions, the head of a pseudo-cleft sentence is the element that follows the _c'est_ (or _c'était_ etc.).
-This head governs the left part of the pseudo-cleft construction with a [fr-dep/dislocated:cleft]() link. 
+This head governs the left part of the pseudo-cleft construction with a [fr-dep/dislocated:cleft]() link.
 However the pronoun _c'_ is not annotated with [fr-dep/nsubj:expl]() (like it is done for clefts). In the case of a pseudo-cleft sentence, it may be considered that _c'_ stands for dislocated complement (i.e. that _c'_ has an antecedent and is not an expletiv), this pronoun is thus annotated with the standard [fr-dep/nsubj]().
 The pronoun _ce_ is the head of the left part of the pseudo-cleft and governs the relative clause with a standard [fr-dep/acl:relcl]() link.
 
@@ -108,7 +107,7 @@ acl:relcl(Ce,fait)
 
 ## Causative
 
-In French causatives are typically constructed with the verb _faire_. 
+In French causatives are typically constructed with the verb _faire_.
 The new argument, the causer, which is the subject of the construction is annotated [nsubj:caus](), while the initial subject/agent of the verb is demoted and becomes either an object, an indirect object or an oblique complement of the causative construction.
 The head of a causative construction is the infinitive verb, which governs _faire_ with a [fr-dep/aux:caus]() link. The syntactical subject of the sentence (i.e. the causer) is annotated with [fr-dep/nsubj:caus](). The true agent of the action described by the causative will be linked to the infinitive verb by an [fr-dep/obj:agent](), an [fr-dep/iobj:agent]() or an [fr-dep/obl:agent]() relation, depending on the syntactical function it has in the sentence.
 
@@ -160,7 +159,7 @@ det(restaurants-6,les-5)
 amod(restaurants-6,réputés.-9)
 advmod(réputés.-9,plus-8)
 det(réputés.-9,les-7)
-~~~ 
+~~~
 
 When the superlative is in a [fr-dep/cop]() relation (and the noun is not present in the superlative construction), the head of the superlative construction is the adjective:
 
@@ -192,6 +191,6 @@ cop(courageux-4,est-2)
 advmod(courageux-4,aussi-3)
 advcl(courageux-4,Pierre-6)
 mark(Pierre-6,que-5)
-~~~ 
+~~~
 
 

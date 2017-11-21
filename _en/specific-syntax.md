@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Syntax'
-permalink: en/overview/specific-syntax.html
 ---
 
 # Specific constructions

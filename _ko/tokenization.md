@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Tokenization'
-permalink: ko/overview/tokenization.html
 ---
 
 # Tokenization

@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Tokenization'
-permalink: pcm/overview/tokenization.html
 udver : '2'
 ---
 

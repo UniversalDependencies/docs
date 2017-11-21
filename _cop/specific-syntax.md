@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Syntax'
-permalink: cop/overview/specific-syntax.html
 udver: '2'
 ---
 
@@ -22,7 +21,7 @@ csubj(ⲉⲝⲉⲥⲧⲓ, ⲁⲁ)
 Greek conjunctions and particles that are non-coordinating (i.e. not meaning ‘and/or’) are labeled as `advmod` to their associated predicate, as in the following example:
 
 ~~~ sdparse
-ⲙⲏ ⲁⲣⲁ ⲉ ⲓ ⲟⲩⲏϩ ⲟⲛ ϩⲓϫⲛ ⲧ ⲙⲏⲧⲉ ⲛ ϫⲱ ⲕ \n After all do I still sit upon the middle of your head? 
+ⲙⲏ ⲁⲣⲁ ⲉ ⲓ ⲟⲩⲏϩ ⲟⲛ ϩⲓϫⲛ ⲧ ⲙⲏⲧⲉ ⲛ ϫⲱ ⲕ \n After all do I still sit upon the middle of your head?
 
 advmod(ⲟⲩⲏϩ, ⲙⲏ)
 ~~~
@@ -34,7 +33,7 @@ Inverted modifiers of the type ⲛⲟϭ ⲛϭⲟⲙ ‘great power’ (lit. a �
 ~~~ sdparse
 ⲡⲓ ⲛⲟϭ ⲛ ⲃⲁⲣⲟⲥ \n this great burden
 
-det(ⲛⲟϭ, ⲡⲓ) 
+det(ⲛⲟϭ, ⲡⲓ)
 nmod(ⲛⲟϭ, ⲃⲁⲣⲟⲥ)
 case(ⲃⲁⲣⲟⲥ, ⲛ)
 ~~~
@@ -43,7 +42,7 @@ case(ⲃⲁⲣⲟⲥ, ⲛ)
 
 The independent possessive pronoun ‘that, which is of X, belongs to X’ is analyzed as the head of the phrase, and the possessor is attached as nmod to this:
 
-~~~ sdparse 
+~~~ sdparse
 ⲛⲁ ⲡⲉ ⲭⲣⲓⲥⲧⲟⲥ \n that which is Christ's
 
 nmod(ⲛⲁ, ⲭⲣⲓⲥⲧⲟⲥ)

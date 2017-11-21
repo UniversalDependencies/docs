@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Morphology'
-permalink: urj/overview/morphology.html
 ---
 
 # Morphology
@@ -65,13 +64,13 @@ Most basic things like nominal cases and numbers follow Universal
 conventions. Tense and mood as well as aspect may require some language specific
 values not seen in other languages.
 
-### Possessive suffixes 
+### Possessive suffixes
 
 Most Uralic languages use possessive suffix morphology to describe possession,
 rather than specific verbs. The feature to use with the possessive suffixes are:
 
 * Number[psor] and Person[psor] for possessive suffixes marking possessor and
-* Number[psed] and Person[psed] for possessive suffixes marking possessed 
+* Number[psed] and Person[psed] for possessive suffixes marking possessed
   quantities and references.
 
 Values are same as with Number and Person in universal features.

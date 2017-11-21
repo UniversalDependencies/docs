@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Syntax'
-permalink: sv/overview/specific-syntax.html
 udver: '2'
 ---
 

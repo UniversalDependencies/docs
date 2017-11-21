@@ -1,12 +1,11 @@
 ---
 layout: base
 title:  'Syntax'
-permalink: bg/overview/specific-syntax.html
 ---
 
 # Specific constructions
 
-## Yes-No question particle 
+## Yes-No question particle
 
 In Bulgarian the Yes-No questions are formed with the question particle ли (li). At the moment this particle is annotated with the [cs-dep/discourse]() relation.
 

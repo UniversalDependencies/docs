@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Morphology'
-permalink: en/overview/morphology.html
 ---
 
 # POS and Morphology: General Principles

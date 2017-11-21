@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Syntax'
-permalink: urj/overview/syntax.html
 ---
 
 # Syntax
@@ -35,6 +34,6 @@ nmod:gsubj for objects and subjects respectively.
 
 ## Copular subjects and objects
 
-In predicative or equative sentences the subjects are marked as nsubj:cop or 
+In predicative or equative sentences the subjects are marked as nsubj:cop or
 csubj:cop for nominal and clausal subjects respectively.
 

@@ -1,20 +1,19 @@
 ---
 layout: base
 title:  'Tokenization'
-permalink: it/overview/tokenization.html
 ---
 
 # Tokenization
 
 The tokenization in the Italian UD treebank is a straightforward segmentation based on whitespace and punctuation. The following special cases deserve to be mentioned:
 
-* Abbreviations are treated as single words regardless of whether they contain dots or other punctuation symbols. 
+* Abbreviations are treated as single words regardless of whether they contain dots or other punctuation symbols.
 Examples: _etc._, _ecc._, _es._, _art._, _tel._, _U.S.A._, _a.C._, _S.O.S._, _L._, _sig._
-* Numerical expressions: dots (separating thousands), commas (separating decimals) and colons, (separating hours from minutes, and minutes from seconds) are part of the same token. 
+* Numerical expressions: dots (separating thousands), commas (separating decimals) and colons, (separating hours from minutes, and minutes from seconds) are part of the same token.
 Examples: _4.755.000_, _19,30_, _355.089,40_, _20:24:0_
 * Urls: are rendered as a single token
 * Proper names may contain a dash "-"
-Examples: _C-212-300_, _E-commerce_, _D-day_, _Yamate-dōri_ 
+Examples: _C-212-300_, _E-commerce_, _D-day_, _Yamate-dōri_
 * Punctuation: "..." is single token
 
 ## Multi-word tokens

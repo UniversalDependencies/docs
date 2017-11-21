@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Syntax'
-permalink: eu/overview/syntax.html
 ---
 
 # Syntax

@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Syntax'
-permalink: ru/overview/specific-syntax.html
 ---
 
 # Specific constructions
@@ -26,5 +25,5 @@ Other types of QP:
 * _մեկ միլիոն բարել նավթ_
 
 
-### Constructions of more and less quantity 
+### Constructions of more and less quantity
 

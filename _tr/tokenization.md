@@ -1,12 +1,11 @@
 ---
 layout: base
 title:  'Tokenization'
-permalink: tr/overview/tokenization.html
 ---
 
 # Tokenization
 
-**This document is a work-in-progress proposal. See http://universaldependencies.org for current/accepted specification** 
+**This document is a work-in-progress proposal. See http://universaldependencies.org for current/accepted specification**
 
 Word tokenization of Turkish is similar to the other languages writting using Latin alphabet. However, syntactic analysis of Turkish requires sub-word units as syntactic tokens. These tokens are called *inflectional groups* (IGs), and typically determined at the time of morphological analysis.
 
@@ -37,7 +36,7 @@ In principle, instead of introducing null surface form for the parts, the word c
 
 METU-Sabancı treebank makes excessive use of IGs. In UD, we limit the suffixes/cases that introduce a new IG to the following.
 
-#### -ki 
+#### -ki
 
 The suffix *-ki* attaches to a genitive- or locative-marked noun and derives adjectivals. The scope of *-ki* is the whole noun phrase headed by the nominal it attaches (the noun may be modified by any other means nouns can be modified, including complex relative clauses). The adjectival, like any adjective in Turkish, can act as a (pro)noun. We treat the adjective and noun usage separately. In both cases we split the original word and introduce a new IG starting with *-ki*.
 
@@ -65,7 +64,7 @@ nmod:tmod(-ki, yedide)
 nsubj(altyazılı, -ki)
 ~~~~
 
-#### Copular markers 
+#### Copular markers
 
 Copular suffixes attached to nouns an adjectives
 create predicates. For example, the word/sentence *arabadaydım*
@@ -81,17 +80,17 @@ combination with the plural markers, we end up with situations with
 multiple subjects (see below for an example).
 
 #### Subordinating suffixes
-    
+
 A set of suffixes in Turksih form subordinated clauses that functin as nouns, adjectives or adverbs.
 ```
-(Benim) eve        dün        götür-düklerimden 
+(Benim) eve        dün        götür-düklerimden
 I.GEN   house.DAT  yesterday  take.PAST.1SG-VN.PLU.ABL
 Some of the things I took home yesterday.
 ```
 Here, if we do not split off the subordinating suffix, we end up an
 `Case` feature (`Abl`) on a verb, or `Tense` feature on a noun (which
 may be fine if the noun was a predicate, but not in this case).
-Also note that predicate *götür* 'take' needs `Number=Sing`, while the resulting nominal phrase is plural. 
+Also note that predicate *götür* 'take' needs `Number=Sing`, while the resulting nominal phrase is plural.
 
 This becomes even more complicated if a copula is attached to the verbal noun:
 ```
@@ -99,7 +98,7 @@ This becomes even more complicated if a copula is attached to the verbal noun:
 It     I.GEN   house.DAT yesterday  take.PAST.1SG-VN.PLU.ABL-cop.EVID.3SG
 It was (aparently) one of those I took home yesterday.
 ```
-Now, not only that all sorts of feature conflicts between two predicates and the intervening nominal are possible, 
+Now, not only that all sorts of feature conflicts between two predicates and the intervening nominal are possible,
 the two predicates have different subjects.
 
 Splitting these suffixes also makes syntactic relation parallel to other languages, where the word that causes the subordination marked with relation `mark`.
@@ -116,7 +115,7 @@ However, this decision is generally difficult to make.
 We always split the suffixes listed below,
 with the exception when the derived form is lexicalized.
 For example the suffix -lIk in *çantamda üç kitap<b>lık</b> yer var* 'I have
-space for three books in my bag' should be split, 
+space for three books in my bag' should be split,
 but not in *bir kitap<b>lık</b> aldım* 'I bought a book shelf'.
 
 ##### The suffix -lI
@@ -126,7 +125,7 @@ This is a productive derivational suffix that derives adjectives and nouns from 
 ###### Examples
 
 * *üç yatak odalı ev* 'a/the house with three bedrooms'.
-  The correct bracketing is *[üç [yatak oda]]-lı ev* not 
+  The correct bracketing is *[üç [yatak oda]]-lı ev* not
 
 * *nefis çikolata-lı kek* 'delicious chocolate cake' but
   *siyah çikolata-lı kek* 'dark-chocolate cake'. And further,
@@ -177,4 +176,4 @@ In Turkish any adjective functions a (pro)noun referring to a thing
 with the property described by the adjective, *<b>Mavi</b>-yi ver.* 'hand me
 <b>the blue one</b>'. This is typically analyzed as adjective becoming
 a noun with a zero derivation. We do not introduce multiple IGs in
-this case, we just mark the adjective as a noun. 
+this case, we just mark the adjective as a noun.

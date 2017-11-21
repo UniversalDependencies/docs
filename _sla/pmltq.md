@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'PML-TQ'
-permalink: sla/overview/pmltq.html
 ---
 
 <script type="text/javascript">

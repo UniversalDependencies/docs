@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Tokenization'
-permalink: lv/overview/tokenization.html
 ---
 
 # Tokenization
@@ -15,7 +14,7 @@ Tokenization is obtained from Latvian Treebank tokenization by splitting "words 
 * URLs and URL-based names are single tokens, e.g. *Firmas.lv*, *http://ailab.lv/*.
 * All other cases of spaces and punctuation form token boundry.
 
-Current version of treebank does not utilize range tokens in CoNLL-U files. 
+Current version of treebank does not utilize range tokens in CoNLL-U files.
 
 ## Known discrepancy
 

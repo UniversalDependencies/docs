@@ -1,7 +1,6 @@
 ---
 layout: base
 title:  'Syntax'
-permalink: ckb/overview/specific-syntax.html
 ---
 
 # Specific constructions
@@ -14,6 +13,6 @@ We do not split off possessive inflection.
 
 ~~~ sdparse
 
-Mindalakanim \n my-children 
+Mindalakanim \n my-children
 
 ~~~
