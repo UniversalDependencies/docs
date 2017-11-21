@@ -76,7 +76,7 @@ nsubj(arriving, Those)
 For intransitive past participles, the modified noun is its subject. This is the case e.g. in the following French ex. (for "the cases {that} appeared in 2001 are now solved")
 
 ~~~ sdparse
-Les cas apparus en 2001 sont maintenant résolus
+Les cas apparus en 2001 sont maintenant résolus \n The cases appeared in 2001 are now solved
 nsubj(apparus, cas)
 ~~~
 
