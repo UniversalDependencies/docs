@@ -23,7 +23,7 @@ The following 34 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 8	fgColor:white
 # visual-style 8 6 case	color:blue
 1	Es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
-2	war	sein	VERB	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
+2	war	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
 3	für	für	ADP	APPR	_	4	case	_	_
 4	mich	ich	PRON	PPER	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	nmod	_	_
 5	Ausgangspunkt	Ausgangspunkt	NOUN	NN	_	0	root	_	_
@@ -62,7 +62,7 @@ The following 34 pairs of parts of speech are connected with `case`: <tt><a href
 # visual-style 2 1 case	color:blue
 1	Seit	seit	ADP	APPR	_	2	case	_	_
 2	1964	1964	NUM	CARD	NumType=Card	11	nmod	_	_
-3	ist	sein	VERB	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
+3	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
 4	mein	mein	PRON	PPOSAT	Case=Nom|Gender=Masc,Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det:poss	_	_
 5	Mann	Mann	NOUN	NN	Case=Nom|Gender=Masc,Neut|Number=Sing	11	nsubj	_	_
 6	rund	rund	ADV	ADV	_	7	advmod	_	_

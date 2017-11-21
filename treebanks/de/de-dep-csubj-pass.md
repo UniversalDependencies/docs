@@ -49,7 +49,7 @@ The following 5 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 4	,	,	PUNCT	$,	_	3	punct	_	_
 5	die	der	DET	ART	Case=Nom|Definite=Def|Number=Plur|PronType=Art	6	det	_	_
 6	Juden	Jude	NOUN	NN	Case=Nom|Number=Plur	8	nsubj	_	_
-7	seien	sein	VERB	VAFIN	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	seien	sein	AUX	VAFIN	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 8	betrügerisch	betrügerisch	ADJ	ADJD	Degree=Pos	3	csubj:pass	_	_
 9	und	und	CCONJ	KON	_	15	cc	_	_
 10	würden	werden	AUX	VAFIN	VerbForm=Fin	15	aux	_	_
@@ -85,7 +85,7 @@ The following 5 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 14	der	der	DET	ART	Definite=Def|PronType=Art	15	det	_	_
 15	Hostinnér	Hostinnér	PROPN	NN	_	13	nmod	_	_
 16	Gegend	Gegend	NOUN	NN	_	15	flat	_	_
-17	war	sein	VERB	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	_	SpaceAfter=No
+17	war	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	cop	_	SpaceAfter=No
 18	.	.	PUNCT	$.	_	3	punct	_	_
 
 ~~~

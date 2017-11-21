@@ -24,7 +24,7 @@ The following 2 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 # visual-style 2 1 nmod:poss	color:blue
 1	Deren	der	DET	PDAT	PronType=Dem	2	nmod:poss	_	_
 2	Zahlungsmittel	Zahlungsmittel	NOUN	NN	_	0	root	_	_
-3	waren	sein	VERB	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	cop	_	_
+3	waren	sein	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	cop	_	_
 4	Transferrubel	Transferrubel	PROPN	NN	Case=Nom|Number=Sing	2	nsubj	_	_
 5	und	und	CCONJ	KON	_	6	cc	_	_
 6	Goldreserven	Goldreserve	NOUN	NN	_	4	conj	_	SpaceAfter=No
@@ -43,7 +43,7 @@ The following 2 pairs of parts of speech are connected with `nmod:poss`: <tt><a 
 2	ältere	alt	ADJ	ADJA	Case=Nom|Number=Sing	3	amod	_	_
 3	Schwester	Schwester	NOUN	NN	Case=Nom|Number=Sing	7	nsubj	_	_
 4	Eniola	Eniola	PROPN	NE	_	3	appos	_	_
-5	ist	sein	VERB	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+5	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
 6	englische	englisch	ADJ	ADJA	Degree=Pos	7	amod	_	_
 7	Fußballnationalspielerin	Fußballnationalspielerin	NOUN	NN	_	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	$.	_	7	punct	_	_

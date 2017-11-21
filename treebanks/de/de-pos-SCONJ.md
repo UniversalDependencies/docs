@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_German: POS Tags: `SCONJ`
 
 There are 56 `SCONJ` lemmas (0%), 57 `SCONJ` types (0%) and 1801 `SCONJ` tokens (1%).
-Out of 15 observed tags, the rank of `SCONJ` is: 11 in number of lemmas, 13 in number of types and 14 in number of tokens.
+Out of 15 observed tags, the rank of `SCONJ` is: 12 in number of lemmas, 13 in number of types and 14 in number of tokens.
 
 The 10 most frequent `SCONJ` lemmas: <em>dass, da, wenn, als, daß, nachdem, weil, wie, während, ob</em>
 
@@ -67,7 +67,7 @@ The 10 most frequent ambiguous types:  <em>dass</em> (<tt><a href="de-pos-SCONJ.
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.017857 (the average of all parts of speech is 1.186549).
+The form / lemma ratio of `SCONJ` is 1.017857 (the average of all parts of speech is 1.186689).
 
 The 1st highest number of forms (2) was observed with the lemma “d”: <em>das, den</em>.
 

@@ -67,7 +67,7 @@ The following 30 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 6 8 parataxis	color:blue
 1	Auch	auch	ADV	ADV	_	6	advmod	_	_
 2	hier	hier	ADV	ADV	_	6	advmod	_	_
-3	sind	sein	VERB	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+3	sind	sein	AUX	VAFIN	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 4	die	der	DET	ART	Case=Nom|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
 5	Leistungen	Leistung	NOUN	NN	Case=Nom|Gender=Fem|Number=Plur	6	nsubj	_	_
 6	top	top	ADJ	VVFIN	Degree=Pos	0	root	_	SpaceAfter=No

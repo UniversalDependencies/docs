@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_German: POS Tags: `CCONJ`
 
 There are 73 `CCONJ` lemmas (0%), 74 `CCONJ` types (0%) and 8858 `CCONJ` tokens (3%).
-Out of 15 observed tags, the rank of `CCONJ` is: 10 in number of lemmas, 11 in number of types and 10 in number of tokens.
+Out of 15 observed tags, the rank of `CCONJ` is: 11 in number of lemmas, 11 in number of types and 11 in number of tokens.
 
 The 10 most frequent `CCONJ` lemmas: <em>und, oder, sowie, aber, als, sondern, wie, sowohl, and, doch</em>
 
@@ -64,7 +64,7 @@ The 10 most frequent ambiguous types:  <em>sowie</em> (<tt><a href="de-pos-CCONJ
 
 ## Morphology
 
-The form / lemma ratio of `CCONJ` is 1.013699 (the average of all parts of speech is 1.186549).
+The form / lemma ratio of `CCONJ` is 1.013699 (the average of all parts of speech is 1.186689).
 
 The 1st highest number of forms (2) was observed with the lemma “sondern”: <em>sonder, sondern</em>.
 
@@ -83,15 +83,15 @@ Parents of `CCONJ` nodes belong to 15 different parts of speech: <tt><a href="de
 
 8743 (99%) `CCONJ` nodes are leaves.
 
-96 (1%) `CCONJ` nodes have one child.
+97 (1%) `CCONJ` nodes have one child.
 
-13 (0%) `CCONJ` nodes have two children.
+12 (0%) `CCONJ` nodes have two children.
 
 6 (0%) `CCONJ` nodes have three or more children.
 
 The highest child degree of a `CCONJ` node is 4.
 
-Children of `CCONJ` nodes are attached using 15 different relations: <tt><a href="de-dep-advmod.html">advmod</a></tt> (57; 40% instances), <tt><a href="de-dep-punct.html">punct</a></tt> (20; 14% instances), <tt><a href="de-dep-conj.html">conj</a></tt> (15; 11% instances), <tt><a href="de-dep-nmod.html">nmod</a></tt> (12; 8% instances), <tt><a href="de-dep-dep.html">dep</a></tt> (7; 5% instances), <tt><a href="de-dep-fixed.html">fixed</a></tt> (7; 5% instances), <tt><a href="de-dep-cc.html">cc</a></tt> (6; 4% instances), <tt><a href="de-dep-case.html">case</a></tt> (5; 4% instances), <tt><a href="de-dep-nsubj.html">nsubj</a></tt> (4; 3% instances), <tt><a href="de-dep-det.html">det</a></tt> (2; 1% instances), <tt><a href="de-dep-obj.html">obj</a></tt> (2; 1% instances), <tt><a href="de-dep-xcomp.html">xcomp</a></tt> (2; 1% instances), <tt><a href="de-dep-acl.html">acl</a></tt> (1; 1% instances), <tt><a href="de-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="de-dep-appos.html">appos</a></tt> (1; 1% instances)
+Children of `CCONJ` nodes are attached using 15 different relations: <tt><a href="de-dep-advmod.html">advmod</a></tt> (57; 40% instances), <tt><a href="de-dep-punct.html">punct</a></tt> (20; 14% instances), <tt><a href="de-dep-conj.html">conj</a></tt> (15; 11% instances), <tt><a href="de-dep-nmod.html">nmod</a></tt> (12; 9% instances), <tt><a href="de-dep-fixed.html">fixed</a></tt> (7; 5% instances), <tt><a href="de-dep-cc.html">cc</a></tt> (6; 4% instances), <tt><a href="de-dep-dep.html">dep</a></tt> (6; 4% instances), <tt><a href="de-dep-case.html">case</a></tt> (5; 4% instances), <tt><a href="de-dep-nsubj.html">nsubj</a></tt> (4; 3% instances), <tt><a href="de-dep-det.html">det</a></tt> (2; 1% instances), <tt><a href="de-dep-obj.html">obj</a></tt> (2; 1% instances), <tt><a href="de-dep-xcomp.html">xcomp</a></tt> (2; 1% instances), <tt><a href="de-dep-acl.html">acl</a></tt> (1; 1% instances), <tt><a href="de-dep-advcl.html">advcl</a></tt> (1; 1% instances), <tt><a href="de-dep-appos.html">appos</a></tt> (1; 1% instances)
 
-Children of `CCONJ` nodes belong to 12 different parts of speech: <tt><a href="de-pos-ADV.html">ADV</a></tt> (59; 42% instances), <tt><a href="de-pos-PUNCT.html">PUNCT</a></tt> (21; 15% instances), <tt><a href="de-pos-NOUN.html">NOUN</a></tt> (18; 13% instances), <tt><a href="de-pos-CCONJ.html">CCONJ</a></tt> (10; 7% instances), <tt><a href="de-pos-PROPN.html">PROPN</a></tt> (9; 6% instances), <tt><a href="de-pos-PART.html">PART</a></tt> (6; 4% instances), <tt><a href="de-pos-ADP.html">ADP</a></tt> (5; 4% instances), <tt><a href="de-pos-VERB.html">VERB</a></tt> (5; 4% instances), <tt><a href="de-pos-PRON.html">PRON</a></tt> (4; 3% instances), <tt><a href="de-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="de-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="de-pos-X.html">X</a></tt> (1; 1% instances)
+Children of `CCONJ` nodes belong to 12 different parts of speech: <tt><a href="de-pos-ADV.html">ADV</a></tt> (59; 42% instances), <tt><a href="de-pos-PUNCT.html">PUNCT</a></tt> (20; 14% instances), <tt><a href="de-pos-NOUN.html">NOUN</a></tt> (18; 13% instances), <tt><a href="de-pos-CCONJ.html">CCONJ</a></tt> (10; 7% instances), <tt><a href="de-pos-PROPN.html">PROPN</a></tt> (9; 6% instances), <tt><a href="de-pos-PART.html">PART</a></tt> (6; 4% instances), <tt><a href="de-pos-ADP.html">ADP</a></tt> (5; 4% instances), <tt><a href="de-pos-VERB.html">VERB</a></tt> (5; 4% instances), <tt><a href="de-pos-PRON.html">PRON</a></tt> (4; 3% instances), <tt><a href="de-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="de-pos-NUM.html">NUM</a></tt> (2; 1% instances), <tt><a href="de-pos-X.html">X</a></tt> (1; 1% instances)
 

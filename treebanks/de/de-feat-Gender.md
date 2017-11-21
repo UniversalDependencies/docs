@@ -38,7 +38,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>dessen, den</em></td><td></td><td><em>die</em></td><td><em>das</em></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>dessen, den</em></td><td></td><td><em>die</em></td><td><em>das</em></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td></td><td></td><td><em>das</em></td></tr>
-  <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="de-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td></td><td><em>dem</em></td><td><em>der, dem, die, den</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="de-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td></td><td><em>dem</em></td><td><em>der, dem, den, die</em></td><td></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="de-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>den</em></td><td></td><td><em>den</em></td><td><em>den</em></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td><em>dem</em></td><td><em>derer</em></td><td></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td><em>dem</em></td><td><em>der</em></td><td></td></tr>
@@ -123,7 +123,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td><em>dem</em></td><td><em>der</em></td><td></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td></td><td><em>deren</em></td><td></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>deren, der</em></td><td></td><td><em>die</em></td><td><em>das</em></td></tr>
-  <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>deren, dessen</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>dessen, deren</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>deren</em></td><td></td><td></td><td></td></tr>
 </table>
 
@@ -176,13 +176,13 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 4 <tt><a href="de-pos-VERB.html">VERB</a></tt> tokens (0% of all `VERB` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="de-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 100%), <tt><a href="de-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="de-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (3; 75%).
+The most frequent other feature values with which `VERB` and `Gender` co-occurred: <tt><a href="de-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4; 100%), <tt><a href="de-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (4; 100%), <tt><a href="de-feat-VerbForm.html">VerbForm</a></tt><tt>=EMPTY</tt> (3; 75%).
 
 `VERB` tokens may have the following values of `Gender`:
 
 * `Masc` (2; 50% of non-empty `Gender`): <em>meinen, umgebenden</em>
 * `Masc,Neut` (2; 50% of non-empty `Gender`): <em>erweiterten, großen</em>
-* `EMPTY` (24529): <em>ist, war, sind, waren, wurde, gibt, hat, liegt, kam, hatte</em>
+* `EMPTY` (19917): <em>gibt, hat, kam, liegt, hatte, gab, war, erhielt, befindet, ist</em>
 
 ### `ADP`
 

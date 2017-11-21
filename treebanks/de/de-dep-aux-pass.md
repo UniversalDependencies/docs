@@ -13,7 +13,7 @@ This relation is a language-specific subtype of <tt><a href="de-dep-aux.html">au
 2252 instances of `aux:pass` (66%) are right-to-left (child precedes parent).
 Average distance between parent and child is 5.58289550496205.
 
-The following 6 pairs of parts of speech are connected with `aux:pass`: <tt><a href="de-pos-VERB.html">VERB</a></tt>-<tt><a href="de-pos-AUX.html">AUX</a></tt> (3412; 100% instances), <tt><a href="de-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="de-pos-VERB.html">VERB</a></tt>-<tt><a href="de-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="de-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="de-pos-VERB.html">VERB</a></tt>-<tt><a href="de-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="de-pos-X.html">X</a></tt>-<tt><a href="de-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `aux:pass`: <tt><a href="de-pos-VERB.html">VERB</a></tt>-<tt><a href="de-pos-AUX.html">AUX</a></tt> (3265; 95% instances), <tt><a href="de-pos-AUX.html">AUX</a></tt>-<tt><a href="de-pos-AUX.html">AUX</a></tt> (147; 4% instances), <tt><a href="de-pos-NOUN.html">NOUN</a></tt>-<tt><a href="de-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="de-pos-VERB.html">VERB</a></tt>-<tt><a href="de-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="de-pos-ADJ.html">ADJ</a></tt>-<tt><a href="de-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="de-pos-VERB.html">VERB</a></tt>-<tt><a href="de-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="de-pos-X.html">X</a></tt>-<tt><a href="de-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -30,6 +30,23 @@ The following 6 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 6	storniert	stornieren	VERB	VVPP	VerbForm=Part	0	root	_	_
 7	werden	werden	AUX	VAINF	VerbForm=Inf	6	aux:pass	_	SpaceAfter=No
 8	.	.	PUNCT	$.	_	6	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 6 aux:pass	color:blue
+1	Ist	sein	AUX	VAFIN	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	_
+2	echt	echt	ADV	ADJD	_	5	advmod	_	_
+3	die	der	DET	ART	Definite=Def|PronType=Art	5	det	_	_
+4	beste	gut	ADJ	ADJA	Degree=Sup	5	amod	_	_
+5	Behandlung	Behandlung	NOUN	NN	_	0	root	_	_
+6	gewesen	sein	AUX	VAPP	VerbForm=Part	1	aux:pass	_	SpaceAfter=No
+7	.	.	PUNCT	$.	_	5	punct	_	_
 
 ~~~
 
@@ -58,27 +75,6 @@ The following 6 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 16	Stadtkasse	Stadtkasse	NOUN	NN	Case=Dat|Gender=Fem|Number=Sing	13	nmod	_	_
 17	untergebracht	unterbringen	VERB	VVPP	VerbForm=Part	2	fixed	_	SpaceAfter=No
 18	.	.	PUNCT	$.	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 7 aux:pass	color:blue
-1	Er	er	PRON	PPER	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	kommandiert	kommandieren	VERB	VVFIN	Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
-3	Merlin	Merlin	PROPN	NE	Case=Acc|Number=Sing	2	obj	_	_
-4	gerne	gerne	ADV	ADV	_	2	advmod	_	_
-5	herum	herum	ADV	PTKVZ	_	2	compound:prt	_	_
-6	und	und	CCONJ	KON	_	10	cc	_	_
-7	ist	sein	VERB	VAFIN	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux:pass	_	_
-8	leicht	leicht	ADJ	ADJD	Degree=Pos	10	advmod	_	_
-9	zu	zu	PART	PTKZU	_	10	mark	_	_
-10	provozieren	provozieren	VERB	VVINF	VerbForm=Inf	2	conj	_	SpaceAfter=No
-11	.	.	PUNCT	$.	_	2	punct	_	_
 
 ~~~
 

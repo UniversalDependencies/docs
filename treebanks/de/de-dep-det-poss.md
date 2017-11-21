@@ -25,7 +25,7 @@ The following 8 pairs of parts of speech are connected with `det:poss`: <tt><a h
 1	Auf	auf	ADP	APPR	_	3	case	_	_
 2	seinem	sein	DET	PPOSAT	Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	3	det:poss	_	_
 3	Grabstein	Grabstein	NOUN	NN	_	8	nmod	_	_
-4	ist	sein	VERB	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+4	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 5	auch	auch	ADV	ADV	_	8	advmod	_	_
 6	sein	sein	DET	PPOSAT	Gender[psor]=Masc,Neut|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	7	det:poss	_	_
 7	Filmname	Filmname	NOUN	NN	Case=Nom|Number=Sing	8	nsubj	_	_

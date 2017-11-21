@@ -24,7 +24,7 @@ The following 58 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 5	fgColor:white
 # visual-style 5 8 nmod	color:blue
 1	Es	es	PRON	PPER	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
-2	war	sein	VERB	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
+2	war	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	cop	_	_
 3	für	für	ADP	APPR	_	4	case	_	_
 4	mich	ich	PRON	PPER	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	nmod	_	_
 5	Ausgangspunkt	Ausgangspunkt	NOUN	NN	_	0	root	_	_

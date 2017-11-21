@@ -14,7 +14,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 106853 tokens (37%) have a non-empty value of `Number`.
 27746 types (55%) occur at least once with a non-empty value of `Number`.
 22835 lemmas (54%) occur at least once with a non-empty value of `Number`.
-The feature is used with 12 part-of-speech tags: <tt><a href="de-pos-NOUN.html">NOUN</a></tt> (34400; 12% instances), <tt><a href="de-pos-DET.html">DET</a></tt> (26832; 9% instances), <tt><a href="de-pos-VERB.html">VERB</a></tt> (13011; 4% instances), <tt><a href="de-pos-PROPN.html">PROPN</a></tt> (9887; 3% instances), <tt><a href="de-pos-ADJ.html">ADJ</a></tt> (9500; 3% instances), <tt><a href="de-pos-PRON.html">PRON</a></tt> (8072; 3% instances), <tt><a href="de-pos-AUX.html">AUX</a></tt> (5109; 2% instances), <tt><a href="de-pos-NUM.html">NUM</a></tt> (35; 0% instances), <tt><a href="de-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="de-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="de-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="de-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The feature is used with 12 part-of-speech tags: <tt><a href="de-pos-NOUN.html">NOUN</a></tt> (34400; 12% instances), <tt><a href="de-pos-DET.html">DET</a></tt> (26832; 9% instances), <tt><a href="de-pos-PROPN.html">PROPN</a></tt> (9887; 3% instances), <tt><a href="de-pos-ADJ.html">ADJ</a></tt> (9500; 3% instances), <tt><a href="de-pos-VERB.html">VERB</a></tt> (9418; 3% instances), <tt><a href="de-pos-AUX.html">AUX</a></tt> (8702; 3% instances), <tt><a href="de-pos-PRON.html">PRON</a></tt> (8072; 3% instances), <tt><a href="de-pos-NUM.html">NUM</a></tt> (35; 0% instances), <tt><a href="de-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="de-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="de-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="de-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -64,7 +64,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>die</em></td><td></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>das</em></td><td><em>das</em></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>das</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td><em>dessen, Die, das</em></td></tr>
+  <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td><em>Die, das, dessen</em></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td><em>dessen, die</em></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>dem</em></td><td></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="de-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td></td><td><em>den</em></td></tr>
@@ -83,7 +83,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>der</em></td><td><em>der</em></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td></td><td><em>der</em></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="de-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td></td><td><em>der, dem</em></td></tr>
-  <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>dem, des</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>des, dem</em></td><td></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>der, den</em></td><td><em>die, der, Das</em></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>die</em></td><td><em>die, den</em></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>das</em></td><td><em>die, das</em></td></tr>
@@ -96,32 +96,6 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td><em>das</em></td><td></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td><em>dessen, das, die</em></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Rel</tt></tt></td><td></td><td><em>die</em></td></tr>
-</table>
-
-### `VERB`
-
-13011 <tt><a href="de-pos-VERB.html">VERB</a></tt> tokens (53% of all `VERB` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="de-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (13008; 100%), <tt><a href="de-feat-Person.html">Person</a></tt><tt>=3</tt> (12510; 96%), <tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (8997; 69%), <tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=EMPTY</tt> (8997; 69%).
-
-`VERB` tokens may have the following values of `Number`:
-
-* `Plur` (2966; 23% of non-empty `Number`): <em>sind, waren, haben, stehen, gehören, gibt, kamen, hatten, kommen, liegen</em>
-* `Sing` (10045; 77% of non-empty `Number`): <em>ist, war, sind, wurde, gibt, hatte, kam, liegt, hat, erhielt</em>
-* `EMPTY` (11522): <em>ist, war, sein, sind, empfehlen, gegründet, lassen, bezeichnet, genannt, machen</em>
-
-<table>
-  <tr><th>Paradigm <i>sein</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>war</em></td><td><em>waren, war</em></td></tr>
-  <tr><td><tt><tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>bin</em></td><td><em>sind, ist</em></td></tr>
-  <tr><td><tt><tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>wart</em></td></tr>
-  <tr><td><tt><tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>bist</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>war</em></td><td><em>waren, war</em></td></tr>
-  <tr><td><tt><tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ist, sind</em></td><td><em>sind, ist</em></td></tr>
-  <tr><td><tt><tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="de-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>wären</em></td></tr>
-  <tr><td><tt><tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="de-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>wäre</em></td><td><em>wären</em></td></tr>
-  <tr><td><tt><tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="de-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>seien</em></td></tr>
-  <tr><td><tt><tt><a href="de-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>sei</em></td><td></td></tr>
 </table>
 
 ### `PROPN`
@@ -179,6 +153,54 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de-feat-Degree.html">Degree</a></tt><tt>=Cmp,Pos</tt></tt></td><td><em>Erster</em></td><td></td></tr>
 </table>
 
+### `VERB`
+
+9418 <tt><a href="de-pos-VERB.html">VERB</a></tt> tokens (47% of all `VERB` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="de-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (9415; 100%), <tt><a href="de-feat-Person.html">Person</a></tt><tt>=3</tt> (9004; 96%).
+
+`VERB` tokens may have the following values of `Number`:
+
+* `Plur` (2340; 25% of non-empty `Number`): <em>haben, stehen, gehören, gibt, kamen, hatten, kommen, liegen, waren, befinden</em>
+* `Sing` (7078; 75% of non-empty `Number`): <em>gibt, hatte, kam, liegt, hat, erhielt, war, befindet, gab, ist</em>
+* `EMPTY` (10503): <em>empfehlen, gegründet, lassen, machen, verwendet, eingesetzt, genutzt, hat, gebaut, aufgenommen</em>
+
+<table>
+  <tr><th>Paradigm <i>haben</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>hatte</em></td><td><em>hatten</em></td></tr>
+  <tr><td><tt><tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>habe</em></td><td><em>haben</em></td></tr>
+  <tr><td><tt><tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>Hast</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>hatte</em></td><td><em>hatten</em></td></tr>
+  <tr><td><tt><tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>hat, habe</em></td><td><em>haben, hat</em></td></tr>
+  <tr><td><tt><tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="de-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>hätte</em></td><td><em>hätten</em></td></tr>
+  <tr><td><tt><tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="de-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>hätte</em></td><td><em>hätten</em></td></tr>
+</table>
+
+### `AUX`
+
+8702 <tt><a href="de-pos-AUX.html">AUX</a></tt> tokens (76% of all `AUX` tokens) have a non-empty value of `Number`.
+
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="de-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (8702; 100%), <tt><a href="de-feat-Person.html">Person</a></tt><tt>=3</tt> (8181; 94%), <tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7637; 88%), <tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (4393; 50%).
+
+`AUX` tokens may have the following values of `Number`:
+
+* `Plur` (2154; 25% of non-empty `Number`): <em>wurden, sind, waren, werden, haben, können, hatten, sollen, konnten, müssen</em>
+* `Sing` (6548; 75% of non-empty `Number`): <em>ist, wurde, war, wird, sind, hat, kann, hatte, konnte, habe</em>
+* `EMPTY` (2694): <em>werden, ist, war, wird, wurde, kann, sein, sind, worden, können</em>
+
+<table>
+  <tr><th>Paradigm <i>sein</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>war</em></td><td><em>waren, war</em></td></tr>
+  <tr><td><tt><tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>bin</em></td><td><em>sind, ist</em></td></tr>
+  <tr><td><tt><tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>bist</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>war</em></td><td><em>waren, war</em></td></tr>
+  <tr><td><tt><tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>ist, sind</em></td><td><em>sind, ist</em></td></tr>
+  <tr><td><tt><tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="de-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>wäre</em></td><td><em>wären</em></td></tr>
+  <tr><td><tt><tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="de-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>wäre</em></td><td><em>wären</em></td></tr>
+  <tr><td><tt><tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="de-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td><em>seien</em></td></tr>
+  <tr><td><tt><tt><a href="de-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>sei</em></td><td></td></tr>
+</table>
+
 ### `PRON`
 
 8072 <tt><a href="de-pos-PRON.html">PRON</a></tt> tokens (55% of all `PRON` tokens) have a non-empty value of `Number`.
@@ -207,31 +229,6 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>die</em></td><td></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td><em>das</em></td><td></td></tr>
   <tr><td><tt><tt><a href="de-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="de-feat-PronType.html">PronType</a></tt><tt>=Dem</tt></tt></td><td></td><td><em>die</em></td></tr>
-</table>
-
-### `AUX`
-
-5109 <tt><a href="de-pos-AUX.html">AUX</a></tt> tokens (75% of all `AUX` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="de-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (5109; 100%), <tt><a href="de-feat-Person.html">Person</a></tt><tt>=3</tt> (4675; 92%), <tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (4347; 85%).
-
-`AUX` tokens may have the following values of `Number`:
-
-* `Plur` (1528; 30% of non-empty `Number`): <em>wurden, werden, haben, können, sind, waren, hatten, sollen, konnten, müssen</em>
-* `Sing` (3581; 70% of non-empty `Number`): <em>wurde, wird, hat, ist, kann, hatte, konnte, habe, war, sollte</em>
-* `EMPTY` (1675): <em>werden, wird, kann, wurde, worden, können, ist, hat, sein, war</em>
-
-<table>
-  <tr><th>Paradigm <i>werden</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>wurde</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>werde</em></td><td><em>werden</em></td></tr>
-  <tr><td><tt><tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>wirst</em></td><td><em>werden, werdet</em></td></tr>
-  <tr><td><tt><tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>wurde</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="de-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>wird, werde</em></td><td><em>werden, wird</em></td></tr>
-  <tr><td><tt><tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="de-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>würde</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="de-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="de-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="de-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>würde</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="de-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td></td><td><em>wurden</em></td></tr>
-  <tr><td><tt><tt><a href="de-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>wurden, würden</em></td></tr>
 </table>
 
 ### `NUM`

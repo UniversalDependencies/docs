@@ -23,7 +23,7 @@ The following 30 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 5	fgColor:white
 # visual-style 5 4 amod	color:blue
 1	Manasse	Manasse	PROPN	NN	Case=Nom|Number=Sing	5	nsubj	_	_
-2	ist	sein	VERB	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+2	ist	sein	AUX	VAFIN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 3	ein	ein	DET	ART	Definite=Ind|PronType=Art	5	det	_	_
 4	einzigartiger	einzigartig	ADJ	ADJA	Degree=Cmp,Pos	5	amod	_	_
 5	Parfümeur	Parfümeur	NOUN	NN	_	0	root	_	SpaceAfter=No
