@@ -15,7 +15,7 @@ status of a (subordinate) clause.
 We recognizing these two subclasses as subordinating conjunctions:
 
 * Complementizers like _որ, թե&nbsp;_ “that”
-* Adverbial clause introducers like _երբ&nbsp;_ “when”, _եթե միայն&nbsp;_ “if only”, _որպեսզի&nbsp;_ “in order”, _որովհետև;&nbsp_ “beacuse”, or _նախքան&nbsp;_ “before” (when introducing a clause not a nominal)
+* Adverbial clause introducers like _երբ&nbsp;_ “when”, _եթե միայն&nbsp;_ “if only”, _որպեսզի&nbsp;_ “in order”, _որովհետև&nbsp;_ “beacuse”, or _նախքան&nbsp;_ “before” (when introducing a clause not a nominal)
 
 Note also, that in Armenian there are no Relativizers. 
 
