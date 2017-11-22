@@ -48,7 +48,7 @@ the noun _instinkt_ are selected by the verb _spoléhat._ Other verbs may
 also select the same preposition and case but the meaning will be different:
 for instance, _myslet na někoho_ “to think of someone.”
 Finally, the preposition _na_ itself has an adessive or allative meaning
-(see the corresponding values of the [Case]() feature). This meaning is suppressed
+(see the corresponding values of the [Case](../../u/feat/Case.html) feature). This meaning is suppressed
 when the preposition is selected by a predicate but it is more recognizable
 in adjuncts. In the following example, the preposition combines with a noun
 phrase in the locative case and marks a locational modifier:
