@@ -58,5 +58,5 @@ Konference se koná na Slovensku . \n Conference REFL takes-place in Slovakia .
 obl(koná, Slovensku)
 obl(takes-place, Slovakia)
 case(Slovensku, na)
-case(Slovakia, on)
+case(Slovakia, in)
 ~~~
