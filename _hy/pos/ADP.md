@@ -13,7 +13,7 @@ Some prepositions take the form of fixed multiword expressions, e.g. _ի սեր&
 
 Note, that a closed set of adpositions (a group reffering to location) in Armenian inflect for [Case](), [PossNumber]() and [PossPerson](). Examples include, _մոտ, մոտ<b>ից</b>, մոտ<b>ով</b>, մոտ<b>ս</b>, մոտ<b>ներս</b>&nbsp;_ “at, from, by, at me, at us”, _վրա, վրայ<b>ից</b>, վրայ<b>ով</b>&nbsp;_ “on, from off, over”, _մեջ, միջ<b>ից</b>, միջ<b>ով</b>&nbsp;_ “in, out of, through”, _տակ, տակ<b>ից</b>, տակ<b>ով</b>&nbsp;_ “under, from, under”.
 
-Note also, that there is a number of postpositions, derived from a closed set of nouns, e.g. _հասցե<b>ին</b>&nbsp;_ “about”, _նպատակ<b>ով</b>&nbsp;_ “in odrer to”, _միջոց<b>ով</b>&nbsp;_ “by means of”, _կողմ<b>ից</b>&nbsp;_ “from the side of”.
+Note also, that there is a number of postpositions, derived from a closed set of nouns, e.g. _հասցե<b>ին</b>&nbsp;_ “about”, _նպատակ<b>ով</b>&nbsp;_ “in odrer to”, _միջոց<b>ով</b>&nbsp;_ “by means of”, _կողմ<b>ից</b>&nbsp;_ “by”.
 
 We mark these expressions as `ADP` when they are used as postpositions.
 
