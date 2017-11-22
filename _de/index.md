@@ -74,7 +74,7 @@ udver: '2'
 * [NumType]() is used with numerals ([NUM]()), adjectives ([ADJ]()) and determiners ([DET]()).
 * The [Poss]() feature marks possessive personal determiners (e.g. _mein_ “my”),
   possessive interrogative or relative determiners (e.g. _wessen_ “whose”).
-* The [Reflex]() feature is always used together with `PronType=Prs` and it marks reflexive pronouns _(mich, dich, sich, uns, euch)._
+* The [Reflex]() feature is always used together with `PronType=Prs` and it marks reflexive pronouns _(mich/mir, dich/dir, sich, uns, euch)._
   Note that their forms in the first and second person are ambiguous with irreflexive accusative forms, and the `Reflex` feature
   must be decided by context.
 * [Person]() is a lexical feature of personal pronouns ([PRON]()) and has three values, `1`, `2` and `3`.
