@@ -76,14 +76,12 @@ Marie: the types of propagated dependencies should maybe be constrained. E.g. it
 * repackaging information that is already available in basic dependencies to make it more easily accessible for downstream applications is a possibility. Example: subtyping obl and advcl relations with adpositions and subordinate conjunctions.
 
 
-Dropping or marking of "semantically void" syntactic dependencies, more precisely edges that do not link a governor to one of its semantic argument (or the other way round). 
-
 ## Treatment of semantically void syntactic dependencies
 **DECISION TO MAKE**
 
-One key question to address is whether "void" syntactic dependencies should / could be removed in the enhanced graphs, or whether this is postponed in further semantic processing.
+One key question to address is whether "void" syntactic dependencies should / could be removed, or at least marked as such, in the enhanced graphs, or whether this is postponed in further semantic processing.
 
-This concerns basic edges in which
+This concerns basic edges that do not link a governor to one of its semantic argument (or the other way round).
 
 * the dependent is itself semantically void (expletives)
 * or the dependent can be contentful but is not a semantic argument of the governor. This would lead to drop certain dependencies in well-known syntactic-semantic mismatches:
@@ -92,11 +90,11 @@ This concerns basic edges in which
  
 **PROS**: useful for semantic analysis
 
-**CONS**: not fully coherent with the UD commitment to syntactic representations. Can create unconnected nodes, might not be justified if enhanced deps are still to be syntactic
+**CONS**: not fully coherent with the UD commitment to syntactic representations. Can create unconnected nodes
 
 A compromise could be to use special suffixes or substrings on the label for such cases (in the absence of features on dependencies). The v2 "expl" label would count as one of the substrings that signal semantically empty edges.
 Treebank providers could decide to provide such marks or not.
-Treebank users could choose to use it or not.
+Treebank users could choose to use them or not.
 
 For v3 version: For the expletives that do have the syntactic properties of subjects, the "expl" label could be replaced by a more consistent nsubj:expl label.
 
