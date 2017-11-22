@@ -4757,8 +4757,6 @@ udver: '2'
 
 <ul>
 <li>This corpus uses 6 lemmas as copulas (<a>cop</a>). Examples: být, bývat, bývávat, stát, moci, mít.</li>
-<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: být, bývat.</li>
-<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být, bývat.</li>
 </ul>
 
   </td>
@@ -4769,8 +4767,6 @@ udver: '2'
 
 <ul>
 <li>This corpus uses 37 lemmas as copulas (<a>cop</a>). Examples: být, bývat, *, moci, mít, muset, determinační, dlouhý, doktrína, doprovázený, dosažitelný, dále, faktor, impuls, jeden, krásný, lhostejný, metoda, měkký, nabubřování, naopak, nebo, náboženství, odolný, pohyblivost, prostředek, pěstovat, připadat, souhrn, titul, uhlí, vyžadovat, výhodný, zahrada, znak, značka, řehole.</li>
-<li>This corpus uses 9 lemmas as auxiliaries (<a>aux</a>). Examples: být, *, &camount;, bývat, jako, rozdělený, ten, třeba, vytištěný.</li>
-<li>This corpus uses 5 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být, bývat, *, &camount;, rámec.</li>
 </ul>
 
   </td>
@@ -4781,8 +4777,6 @@ udver: '2'
 
 <ul>
 <li>This corpus uses 6 lemmas as copulas (<a>cop</a>). Examples: být, není-li, je-li, jsou-li, nejsou-li, byt.</li>
-<li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: být, oceněný, oprávněný, stanovený.</li>
-<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být, není-li.</li>
 </ul>
 
   </td>
@@ -4793,8 +4787,6 @@ udver: '2'
 
 <ul>
 <li>This corpus uses 4 lemmas as copulas (<a>cop</a>). Examples: být, bývat, jít, stát.</li>
-<li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: být, bývat, ztracený.</li>
-<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být.</li>
 </ul>
 
   </td>
@@ -4805,6 +4797,41 @@ udver: '2'
 
 <ul>
 <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: být, bývat.</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+<ul>
+<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: být, bývat.</li>
+<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být, bývat.</li>
+</ul>
+
+  </td>
+  <td width="20%" valign="top">
+<ul>
+<li>This corpus uses 9 lemmas as auxiliaries (<a>aux</a>). Examples: být, *, &camount;, bývat, jako, rozdělený, ten, třeba, vytištěný.</li>
+<li>This corpus uses 5 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být, bývat, *, &camount;, rámec.</li>
+</ul>
+
+  </td>
+  <td width="20%" valign="top">
+<ul>
+<li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: být, oceněný, oprávněný, stanovený.</li>
+<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být, není-li.</li>
+</ul>
+
+  </td>
+  <td width="20%" valign="top">
+<ul>
+<li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: být, bývat, ztracený.</li>
+<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být.</li>
+</ul>
+
+  </td>
+  <td width="20%" valign="top">
+<ul>
 <li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: být.</li>
 <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být.</li>
 </ul>
