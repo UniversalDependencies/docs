@@ -30,7 +30,7 @@ case(instinct, on)
 
 The relation `obl:arg` is a language-specific subtype (as opposed to universal type)
 because the argument-adjunct distinction is not made at the universal level
-(some discussion is [here](u/overview/syntax.html#avoiding-an-argumentadjunct-distinction)).
+(some discussion is [here](../../u/overview/syntax.html#avoiding-an-argumentadjunct-distinction)).
 However, it is available in Czech treebanks and `obl:arg` ensures that it is
 not lost. Users that require reliable comparison across languages can easily
 reduce it to `obl`.
