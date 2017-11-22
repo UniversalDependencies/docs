@@ -34,7 +34,7 @@ udver: '2'
   * The copula with non-verbal predicates.
   * Periphrastic future tense (future form of _być_ + infinitive of the main verb).
   * Periphrastic perfect tenses (present/past form of _być_ + l-participle of the main verb).
-  * Periphrastic conditional (conditional form of _být_ + l-participle of the main verb).
+  * Periphrastic conditional (conditional form of _być_ + l-participle of the main verb).
   * Periphrastic passive.
 * In other words, _być_ is the only lemma that occurs with the [AUX]() tag.
   It may still occur also as normal [VERB]() if it is used in purely existential sentences
