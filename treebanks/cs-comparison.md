@@ -641,6 +641,31 @@ udver: '2'
   <td width="20%" valign="top">
 <h3>Nominal Features</h3>
 
+
+  </td>
+  <td width="20%" valign="top">
+<h3>Nominal Features</h3>
+
+
+  </td>
+  <td width="20%" valign="top">
+<h3>Nominal Features</h3>
+
+
+  </td>
+  <td width="20%" valign="top">
+<h3>Nominal Features</h3>
+
+
+  </td>
+  <td width="20%" valign="top">
+<h3>Nominal Features</h3>
+
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
 <li><a>Gender</a>
   <ul>
     <li>Fem
@@ -715,8 +740,6 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
-<h3>Nominal Features</h3>
-
 <li><a>Gender</a>
   <ul>
     <li>Fem
@@ -789,8 +812,6 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
-<h3>Nominal Features</h3>
-
 <li><a>Gender</a>
   <ul>
     <li>Fem
@@ -857,8 +878,6 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
-<h3>Nominal Features</h3>
-
 <li><a>Gender</a>
   <ul>
     <li>Fem
@@ -909,8 +928,6 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
-<h3>Nominal Features</h3>
-
 <li><a>Gender</a>
   <ul>
     <li>Fem
@@ -1939,6 +1956,31 @@ udver: '2'
   <td width="20%" valign="top">
 <h3>Degree and Polarity</h3>
 
+
+  </td>
+  <td width="20%" valign="top">
+<h3>Degree and Polarity</h3>
+
+
+  </td>
+  <td width="20%" valign="top">
+<h3>Degree and Polarity</h3>
+
+
+  </td>
+  <td width="20%" valign="top">
+<h3>Degree and Polarity</h3>
+
+
+  </td>
+  <td width="20%" valign="top">
+<h3>Degree and Polarity</h3>
+
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
 <li><a>Degree</a>
   <ul>
     <li>Cmp
@@ -1965,8 +2007,6 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
-<h3>Degree and Polarity</h3>
-
 <li><a>Degree</a>
   <ul>
     <li>Cmp
@@ -1993,8 +2033,6 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
-<h3>Degree and Polarity</h3>
-
 <li><a>Degree</a>
   <ul>
     <li>Cmp
@@ -2021,8 +2059,6 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
-<h3>Degree and Polarity</h3>
-
 <li><a>Degree</a>
   <ul>
     <li>Cmp
@@ -2050,8 +2086,6 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
-<h3>Degree and Polarity</h3>
-
 <li><a>Degree</a>
   <ul>
     <li>Cmp
@@ -2348,6 +2382,31 @@ udver: '2'
   <td width="20%" valign="top">
 <h3>Verbal Features</h3>
 
+
+  </td>
+  <td width="20%" valign="top">
+<h3>Verbal Features</h3>
+
+
+  </td>
+  <td width="20%" valign="top">
+<h3>Verbal Features</h3>
+
+
+  </td>
+  <td width="20%" valign="top">
+<h3>Verbal Features</h3>
+
+
+  </td>
+  <td width="20%" valign="top">
+<h3>Verbal Features</h3>
+
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
 <li><a>Aspect</a>
   <ul>
     <li>Imp
@@ -2378,8 +2437,6 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
-<h3>Verbal Features</h3>
-
 <li><a>Aspect</a>
   <ul>
     <li>Imp
@@ -2413,8 +2470,6 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
-<h3>Verbal Features</h3>
-
 <li><a>Aspect</a>
   <ul>
     <li>Imp
@@ -2428,8 +2483,6 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
-<h3>Verbal Features</h3>
-
 <li><a>Aspect</a>
   <ul>
     <li>Imp
@@ -2449,8 +2502,6 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
-<h3>Verbal Features</h3>
-
 <li><a>Aspect</a>
   <ul>
     <li>Imp
@@ -2882,6 +2933,31 @@ udver: '2'
   <td width="20%" valign="top">
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
+  </td>
+  <td width="20%" valign="top">
+<h3>Pronouns, Determiners, Quantifiers</h3>
+
+
+  </td>
+  <td width="20%" valign="top">
+<h3>Pronouns, Determiners, Quantifiers</h3>
+
+
+  </td>
+  <td width="20%" valign="top">
+<h3>Pronouns, Determiners, Quantifiers</h3>
+
+
+  </td>
+  <td width="20%" valign="top">
+<h3>Pronouns, Determiners, Quantifiers</h3>
+
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
 <li><a>PronType</a>
   <ul>
     <li>Dem
@@ -2940,8 +3016,6 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
-<h3>Pronouns, Determiners, Quantifiers</h3>
-
 <li><a>PronType</a>
   <ul>
     <li>Dem
@@ -3000,8 +3074,6 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
-<h3>Pronouns, Determiners, Quantifiers</h3>
-
 <li><a>PronType</a>
   <ul>
     <li>Dem
@@ -3056,8 +3128,6 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
-<h3>Pronouns, Determiners, Quantifiers</h3>
-
 <li><a>PronType</a>
   <ul>
     <li>Dem
@@ -3121,8 +3191,6 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
-<h3>Pronouns, Determiners, Quantifiers</h3>
-
 <li><a>PronType</a>
   <ul>
     <li>Dem
@@ -3857,6 +3925,31 @@ udver: '2'
   <td width="20%" valign="top">
 <h3>Other Features</h3>
 
+
+  </td>
+  <td width="20%" valign="top">
+<h3>Other Features</h3>
+
+
+  </td>
+  <td width="20%" valign="top">
+<h3>Other Features</h3>
+
+
+  </td>
+  <td width="20%" valign="top">
+<h3>Other Features</h3>
+
+
+  </td>
+  <td width="20%" valign="top">
+<h3>Other Features</h3>
+
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
 <li><a>Abbr</a>
   <ul>
     <li>Yes
@@ -3875,6 +3968,74 @@ udver: '2'
     </li>
   </ul>
 </li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: TH, jč, HT, LP, PE, Rh</li>
+        <li>ADV: kt</li>
+        <li>NOUN: ÚV, ZV, ZO, JZD, Kčs, ONV, ÚR, MěstNV, BSP, BP</li>
+        <li>PROPN: KSČ, ROH, SSSR, ÚJČ, SSM, ČSAV, ČSSR, ČSR, TIBA, NDR</li>
+        <li>PUNCT: ?</li>
+        <li>SYM: *</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: něm</li>
+        <li>ADV: něm</li>
+        <li>DET: t</li>
+        <li>NOUN: Kč, USD, m, m2, ha, t, ČSSR</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADV: apod</li>
+        <li>NOUN: dr, elektro, prof</li>
+        <li>PROPN: K, M, L, T, V, A, C, J, E, F</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: sv, tzv</li>
+        <li>ADP: př</li>
+        <li>ADV: cca</li>
+        <li>DET: n</li>
+        <li>NOUN: l, DNA, GCA, MPS, m, A, AIDS, APK, BK, CGI</li>
+        <li>PROPN: USA, BBC, CNN, EU, OSN, RECO, AP, BA, BID, CBC</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
 <li><a>AdpType</a>
   <ul>
     <li>Comprep
@@ -3894,6 +4055,99 @@ udver: '2'
     </li>
   </ul>
 </li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>AdpType</a>
+  <ul>
+    <li>Comprep
+      <ul>
+        <li>ADP: vzhledem, nehledě</li>
+      </ul>
+    </li>
+    <li>Prep
+      <ul>
+        <li>ADP: v, na, s, z, o, k, pro, do, za, při</li>
+      </ul>
+    </li>
+    <li>Voc
+      <ul>
+        <li>ADP: ve, ze, se, ke, beze, ode, přede, ku, skrze, nade</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>AdpType</a>
+  <ul>
+    <li>Comprep
+      <ul>
+        <li>ADP: vzhledem</li>
+      </ul>
+    </li>
+    <li>Prep
+      <ul>
+        <li>ADP: v, podle, na, o, k, s, do, za, z, pro</li>
+      </ul>
+    </li>
+    <li>Voc
+      <ul>
+        <li>ADP: ve, ke, se, ze, ode, beze, přede</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>AdpType</a>
+  <ul>
+    <li>Comprep
+      <ul>
+        <li>ADP: vzhledem</li>
+      </ul>
+    </li>
+    <li>Prep
+      <ul>
+        <li>ADP: na, v, do, s, z, k, o, za, po, pro</li>
+      </ul>
+    </li>
+    <li>Voc
+      <ul>
+        <li>ADP: ve, ze, se, ke, beze, ode, přede, nade, pode, skrze</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>AdpType</a>
+  <ul>
+    <li>Comprep
+      <ul>
+        <li>ADP: vzhledem</li>
+      </ul>
+    </li>
+    <li>Prep
+      <ul>
+        <li>ADP: v, na, z, s, do, o, k, pro, za, po</li>
+      </ul>
+    </li>
+    <li>Voc
+      <ul>
+        <li>ADP: ve, ze, se, ke, skrze, za</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
 <li><a>ConjType</a>
   <ul>
     <li>Oper
@@ -3904,6 +4158,65 @@ udver: '2'
     </li>
   </ul>
 </li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>ConjType</a>
+  <ul>
+    <li>Oper
+      <ul>
+        <li>CCONJ: krát, minus</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Hyph</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: do, od, pod</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>ConjType</a>
+  <ul>
+    <li>Oper
+      <ul>
+        <li>CCONJ: krát</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Foreign</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: The, National, New, Saint, a, American, Canadian, Cottonovy, Dareiův, Die</li>
+        <li>ADP: de, Von, of, Di, On</li>
+        <li>ADV: cca</li>
+        <li>CCONJ: and, If</li>
+        <li>NOUN: brexitu, e-maily, Blood, Breaking, Buck, Business, CGI, CTV, City, Consumer</li>
+        <li>PRON: You, me</li>
+        <li>PROPN: USA, Danevirke, CNN, Aviva, Company, George, Investors, Joseph, Mount, Multi</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
 <li><a>Foreign</a>
   <ul>
     <li>Yes
@@ -3928,6 +4241,75 @@ udver: '2'
     </li>
   </ul>
 </li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Foreign</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: online, signifiant, super, la, Jazykovedným, New, Telephone, Tonkünstler, ferenda, fit</li>
+        <li>ADJ-Part: data</li>
+        <li>ADP: de, in, a, ad, cross, of, par, Pro, ante, aus</li>
+        <li>ADV: priori, explicite, quo, defacto, expost, innuce, ipsofacto, memoriam, theory</li>
+        <li>CCONJ: et, and</li>
+        <li>DET: sui, hoc, quem</li>
+        <li>NOUN: luxe, vitro, generis, nepusto, pusto, excellence, homo, lege, peeling, Buch</li>
+        <li>PART: La, das, des, non, Le, el, quo, Al</li>
+        <li>PRON: eo, ipso, Tous, er, qua, they</li>
+        <li>PROPN: Combi, Kombi, Manche, Orchester, Bell, Böhmen, Corriere, Fruit, Gaudeamus, George</li>
+        <li>VERB-Fin: are, formo, singt</li>
+        <li>VERB-Inf: movere, savoir, singen, vivre</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>NumForm</a>
+  <ul>
+    <li>Roman
+      <ul>
+        <li>NUM: 1, 3, 2, 4, 5, 41, 7, 10, 2004, 2008</li>
+      </ul>
+    </li>
+    <li>Word
+      <ul>
+        <li>NUM: jeden, jedné, tří, dvanáct, dvě, dvanácti, jedno, jednoho, jednou, obě</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Hyph</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: marx, dvou, troj, tří, československo</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Hyph</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: Indo, francouzsko</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
 <li><a>Hyph</a>
   <ul>
     <li>Yes
@@ -3937,6 +4319,124 @@ udver: '2'
     </li>
   </ul>
 </li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Hyph</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: elektro, marxisticko, Karpatsko, teoreticko, rakousko, československo, dodavatelsko, Koh, francouzsko, hospodářsko</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>NumValue</a>
+  <ul>
+    <li>1,2,3
+      <ul>
+        <li>NUM: jeden, jedné, tří, dvě, jedno, jednoho, jednou, obě, dvou, dvěma</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>NumForm</a>
+  <ul>
+    <li>Digit
+      <ul>
+        <li>NUM: 1, 1942, 1948, 1953, 11, 1945, 20, 10, 1938, 1943</li>
+      </ul>
+    </li>
+    <li>Word
+      <ul>
+        <li>NUM: pár, jeden, dva, dvě, jednoho, tři, jedna, jednu, oba, čtyři</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>NameType</a>
+  <ul>
+    <li>Com
+      <ul>
+        <li>ADJ: National, American, Die</li>
+        <li>PROPN: USA, Čching, BBC, CNN, EU, Aviva, Company, Facebooku, Investors, Multi</li>
+      </ul>
+    </li>
+    <li>Com,Geo
+      <ul>
+        <li>PROPN: Scotland</li>
+      </ul>
+    </li>
+    <li>Com,Pro
+      <ul>
+        <li>PROPN: Ford, GM</li>
+      </ul>
+    </li>
+    <li>Geo
+      <ul>
+        <li>ADJ: New, San, Beverly, Kapského, Los, Pearl, Severní, Silicon, South, Wall</li>
+        <li>PROPN: Čína, Francie, Albánie, Británii, Danevirke, Evropě, Itálii, Ameriky, Asii, Británie</li>
+      </ul>
+    </li>
+    <li>Geo,Giv
+      <ul>
+        <li>PROPN: Thrákie, Thrákii, Thrákií</li>
+      </ul>
+    </li>
+    <li>Geo,Giv,Sur
+      <ul>
+        <li>ADP: Di</li>
+      </ul>
+    </li>
+    <li>Giv
+      <ul>
+        <li>ADJ: Saint, Alexandrově, Caesarovi, Cottonovy, Césarovo, Dareiův, Edgarovy, Germaininých, Kimově</li>
+        <li>PROPN: Donald, Richarda, Augustus, Donalda, František, George, González, Jasmína, Ježíše, Joseph</li>
+      </ul>
+    </li>
+    <li>Giv,Sur
+      <ul>
+        <li>PROPN: James, Michael, Michala, Stephen, Štěpán</li>
+      </ul>
+    </li>
+    <li>Nat
+      <ul>
+        <li>PROPN: Australané, Mayové, Číňanů, Řekové, Židů, Aboriginci, Achájů, Američan, Američané, Athéňanů</li>
+      </ul>
+    </li>
+    <li>Oth
+      <ul>
+        <li>PROPN: Cup, Cupu</li>
+      </ul>
+    </li>
+    <li>Pro
+      <ul>
+        <li>ADJ: El, World</li>
+        <li>PROPN: Endurance, Dead, Greco, Loving, MahaNakhon, Mate, Nectar, Select, Simple, Slack</li>
+      </ul>
+    </li>
+    <li>Sur
+      <ul>
+        <li>ADJ: achaimenovské, Achaimenovskou, Achaimenovská, Bergeronova, Berijovo, Blochových, Carangiina, Dossovy, Erdoganovu, Graftonova</li>
+        <li>PROPN: Clintonové, Trump, Trumpa, Bluntová, Mišima, Seagal, Winstone, Wright, Šen, Aldrin</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
 <li><a>NameType</a>
   <ul>
     <li>Com
@@ -4123,197 +4623,9 @@ udver: '2'
     </li>
   </ul>
 </li>
-<li><a>NumForm</a>
-  <ul>
-    <li>Digit
-      <ul>
-        <li>NUM: 1, 2, 3, 4, 6, 5, 1992, 10, 1994, 1993</li>
-      </ul>
-    </li>
-    <li>Roman
-      <ul>
-        <li>NUM: II, I, III, IV, V, VI, XX, D, C, IX</li>
-      </ul>
-    </li>
-    <li>Word
-      <ul>
-        <li>NUM: dva, tři, jeden, dvě, tisíc, dvou, pět, čtyři, obou, jednoho</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-<li><a>NumValue</a>
-  <ul>
-    <li>1
-      <ul>
-        <li>ADJ: jedny, jedni, jedněch, jedněm, jedněmi</li>
-      </ul>
-    </li>
-    <li>1,2,3
-      <ul>
-        <li>NUM: dva, tři, jeden, dvě, tisíc, dvou, čtyři, obou, jednoho, jedné</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-<li><a>Style</a>
-  <ul>
-    <li>Arch
-      <ul>
-        <li>ADJ: pathologickým</li>
-        <li>ADV: dosti, dřív, nejdřív, tentokráte, přec, nedosti, Jistěť, oulisně, snáz</li>
-        <li>AUX-Fin: jest, budiž, buď, nésó</li>
-        <li>AUX-Inf: býti</li>
-        <li>CCONJ: neb</li>
-        <li>NOUN: léta, létech, léty, páně, létům, Národové, biblí, bukův, chromatoforův, civilu</li>
-        <li>NUM: stě</li>
-        <li>PRON: jej, kdož</li>
-        <li>PROPN: Québeku, Quebeku, Elbe, Alše, Otona, QUÉBEKU, Veleslavíny</li>
-        <li>VERB-Conv: poznajíce</li>
-        <li>VERB-Fin: jest, Není, neostejcháme, slovou, činějí</li>
-        <li>VERB-Inf: obléci, mlčeti, Dolomiti, býti, dělati, mluviti, pokračovati, poznati, dojíti, dotýkati</li>
-      </ul>
-    </li>
-    <li>Coll
-      <ul>
-        <li>ADJ: top, druhý, super, Kytkový, Devátý, Vystřelenýho, hodnej, těžký, vyhecovaný, výborný</li>
-        <li>ADP: vo</li>
-        <li>ADV: loni, akorát, holt, tuhle, teda, furt, leckdes, nazejtří, vulgo, ergo</li>
-        <li>AUX-Fin: budem, si</li>
-        <li>DET: které, ty, našim, naší, žádnej, Který, mýho, nějakej, svojí, svýmu</li>
-        <li>INTJ: Hergot</li>
-        <li>NOUN: rozběžky, repete, hodinovce, hejslováctví, kafe, shopping, výpadovce, Ležáka, Progres, Votroky</li>
-        <li>PART: jo, než, Zaplaťpánbůh</li>
-        <li>PRON: von, ní, vona</li>
-        <li>PROPN: Dan, Ottavě, Bohouš, Poldovka, Slávy, Lidovky, Madla, Marjánka, forda, Čehúny</li>
-        <li>VERB-Fin: vem, NEMUSEJ, Nesem, Pohlédnem, Vomotá, bysem, bysme, dávaj, jdem, kolíbá</li>
-        <li>VERB-Inf: ošoustat</li>
-        <li>VERB-Part: Bejvávalo, počůral, vytrucoval, vytrucovali, zahaprovalo, šoustla</li>
-      </ul>
-    </li>
-    <li>Expr
-      <ul>
-        <li>ADJ: ultranacionalistické, ztřeštěný, Ultrapravicový, uculujících, ultrapravicová, zkrachovalá, ztřeštěného, ztřeštěných, ztřeštěným</li>
-        <li>ADJ-Part: uculujících</li>
-        <li>NOUN: jezírko, jezírka, jezírku, okénko, okénku, semínka, vlákénka, znaménkem, znaménko, bidýlku</li>
-        <li>PROPN: Vlasta, VLAĎKA, Vašíčkem, Vladkem, Vladkovi, Vlastou, Vlasty, Vlastík, Vláďa, Zuzanky</li>
-        <li>VERB-Inf: glajšaltovat</li>
-        <li>VERB-Part: zabrnkal</li>
-      </ul>
-    </li>
-    <li>Rare
-      <ul>
-        <li>ADJ: napjaté, napjatou, napjatá, napjatý, napjatých, napjatější, portfóliových, vypjaté, vysoceaktivní, vysoceaktivních</li>
-        <li>ADJ-Part: přetáhnut, rozepjato</li>
-        <li>ADP: v</li>
-        <li>ADV: diskursivně, vypjatě</li>
-        <li>DET: ledasjaký</li>
-        <li>NOUN: hod, min, aids, prezidia, aidsu, causa, GmbH, premií, vládce, St</li>
-        <li>PROPN: Volkswagen, Cikánů, Hamas, Hamasu, Mexico, Volkswagenu, cikáni, Marian, Sophie, cikány</li>
-        <li>VERB-Fin: zbude, přibyde, přihlaste, ubyde, ubydou</li>
-        <li>VERB-Part: ujal, ujali, ujalo, neujal, neujalo, ujala, ujaly, vyňal, najmul, objal</li>
-      </ul>
-    </li>
-    <li>Slng
-      <ul>
-        <li>ADJ: joint, škodováckých, crackových, famáckého, vrchařských, škodováckého, škodovácký, škodováčtí, študácké, študáckých</li>
-        <li>NOUN: kšeft, kšefty, záklaďáků, čtvrtkařky, štaflu, Frc, Green, Kinga, Záložáci, bardáma</li>
-      </ul>
-    </li>
-    <li>Vrnc
-      <ul>
-        <li>ADJ: řečeného</li>
-        <li>INTJ: danaj</li>
-        <li>NOUN: zapomnění, Husličky, Stup, Valnohou, Zítka, kon, kotáry, žehnáčky</li>
-        <li>PRON: sa</li>
-        <li>VERB-Fin: nesúdí, súdí</li>
-      </ul>
-    </li>
-    <li>Vulg
-      <ul>
-        <li>ADJ: bordelové, nablito</li>
-        <li>ADJ-Part: nablito</li>
-        <li>NOUN: parchanta, suchoprdů</li>
-      </ul>
-    </li>
-  </ul>
-</li>
 
   </td>
   <td width="20%" valign="top">
-<h3>Other Features</h3>
-
-<li><a>Abbr</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>ADJ: TH, jč, HT, LP, PE, Rh</li>
-        <li>ADV: kt</li>
-        <li>NOUN: ÚV, ZV, ZO, JZD, Kčs, ONV, ÚR, MěstNV, BSP, BP</li>
-        <li>PROPN: KSČ, ROH, SSSR, ÚJČ, SSM, ČSAV, ČSSR, ČSR, TIBA, NDR</li>
-        <li>PUNCT: ?</li>
-        <li>SYM: *</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-<li><a>AdpType</a>
-  <ul>
-    <li>Comprep
-      <ul>
-        <li>ADP: vzhledem, nehledě</li>
-      </ul>
-    </li>
-    <li>Prep
-      <ul>
-        <li>ADP: v, na, s, z, o, k, pro, do, za, při</li>
-      </ul>
-    </li>
-    <li>Voc
-      <ul>
-        <li>ADP: ve, ze, se, ke, beze, ode, přede, ku, skrze, nade</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-<li><a>ConjType</a>
-  <ul>
-    <li>Oper
-      <ul>
-        <li>CCONJ: krát, minus</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-<li><a>Foreign</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>ADJ: online, signifiant, super, la, Jazykovedným, New, Telephone, Tonkünstler, ferenda, fit</li>
-        <li>ADJ-Part: data</li>
-        <li>ADP: de, in, a, ad, cross, of, par, Pro, ante, aus</li>
-        <li>ADV: priori, explicite, quo, defacto, expost, innuce, ipsofacto, memoriam, theory</li>
-        <li>CCONJ: et, and</li>
-        <li>DET: sui, hoc, quem</li>
-        <li>NOUN: luxe, vitro, generis, nepusto, pusto, excellence, homo, lege, peeling, Buch</li>
-        <li>PART: La, das, des, non, Le, el, quo, Al</li>
-        <li>PRON: eo, ipso, Tous, er, qua, they</li>
-        <li>PROPN: Combi, Kombi, Manche, Orchester, Bell, Böhmen, Corriere, Fruit, Gaudeamus, George</li>
-        <li>VERB-Fin: are, formo, singt</li>
-        <li>VERB-Inf: movere, savoir, singen, vivre</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-<li><a>Hyph</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>ADJ: elektro, marxisticko, Karpatsko, teoreticko, rakousko, československo, dodavatelsko, Koh, francouzsko, hospodářsko</li>
-      </ul>
-    </li>
-  </ul>
-</li>
 <li><a>NameType</a>
   <ul>
     <li>Com
@@ -4429,6 +4741,90 @@ udver: '2'
     </li>
   </ul>
 </li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Style</a>
+  <ul>
+    <li>Arch
+      <ul>
+        <li>PRON: jej</li>
+        <li>VERB-Inf: dáti</li>
+      </ul>
+    </li>
+    <li>Coll
+      <ul>
+        <li>ADJ: vytvořený, Dlouhodobý, Krátkodobý</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>NumValue</a>
+  <ul>
+    <li>1
+      <ul>
+        <li>ADJ: jedny, jedněch</li>
+      </ul>
+    </li>
+    <li>1,2,3
+      <ul>
+        <li>NUM: jeden, dva, dvě, jednoho, tři, jedna, jednu, oba, čtyři, jedné</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>NumForm</a>
+  <ul>
+    <li>Digit
+      <ul>
+        <li>NUM: 1, 3, 20, 2014, 2015, 5, 10, 100, 1492, 2010</li>
+      </ul>
+    </li>
+    <li>Roman
+      <ul>
+        <li>NUM: I, III, II, IV, V, VI, X</li>
+      </ul>
+    </li>
+    <li>Word
+      <ul>
+        <li>NUM: dva, čtyři, dvou, dvě, jedné, jeden, dvěma, deset, jedna, jedním</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+<li><a>NumForm</a>
+  <ul>
+    <li>Digit
+      <ul>
+        <li>NUM: 1, 2, 3, 4, 6, 5, 1992, 10, 1994, 1993</li>
+      </ul>
+    </li>
+    <li>Roman
+      <ul>
+        <li>NUM: II, I, III, IV, V, VI, XX, D, C, IX</li>
+      </ul>
+    </li>
+    <li>Word
+      <ul>
+        <li>NUM: dva, tři, jeden, dvě, tisíc, dvou, pět, čtyři, obou, jednoho</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
 <li><a>NumForm</a>
   <ul>
     <li>Digit
@@ -4443,6 +4839,84 @@ udver: '2'
     </li>
   </ul>
 </li>
+
+  </td>
+  <td width="20%" valign="top">
+<h2>Syntax</h2>
+
+<h3>Auxiliary Verbs and Copula</h3>
+
+<ul>
+<li>This corpus uses 6 lemmas as copulas (<a>cop</a>). Examples: být, není-li, je-li, jsou-li, nejsou-li, byt.</li>
+</ul>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Style</a>
+  <ul>
+    <li>Arch
+      <ul>
+        <li>ADV: raděj</li>
+        <li>NOUN: léta, léty, koleni, létech, včerejška</li>
+        <li>PRON: jej</li>
+      </ul>
+    </li>
+    <li>Coll
+      <ul>
+        <li>ADJ: dobrý, jednoduchý, Filipově, Milí, bystrý, chytrej, cílevědomej, dlouhý, dobrým, druhým</li>
+        <li>ADJ-Part: sbalíno</li>
+        <li>ADV: dřív, nejdřív, móc, dýl, hloub</li>
+        <li>AUX-Fin: si, bysme, nejseš</li>
+        <li>DET: který, tvýho, žádnej, každý, které, mý, naše, takovýho, támhleten, tý</li>
+        <li>NOUN: holkama, kopečkama, leta, prsama, ženskýma</li>
+        <li>PART: prej, přeci, Neee</li>
+        <li>PRON: jí, veškeru, jenž, samý</li>
+        <li>VERB-Fin: odejdem, rozejdem, si</li>
+        <li>VERB-Inf: pomoct</li>
+        <li>VERB-Part: nevlít, nevšim</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>NumValue</a>
+  <ul>
+    <li>1
+      <ul>
+        <li>ADJ: jedni</li>
+      </ul>
+    </li>
+    <li>1,2,3
+      <ul>
+        <li>NUM: dva, čtyři, dvou, dvě, jedné, jeden, dvěma, jedna, jedním, tři</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+<li><a>NumValue</a>
+  <ul>
+    <li>1
+      <ul>
+        <li>ADJ: jedny, jedni, jedněch, jedněm, jedněmi</li>
+      </ul>
+    </li>
+    <li>1,2,3
+      <ul>
+        <li>NUM: dva, tři, jeden, dvě, tisíc, dvou, čtyři, obou, jednoho, jedné</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
 <li><a>NumValue</a>
   <ul>
     <li>1
@@ -4457,6 +4931,148 @@ udver: '2'
     </li>
   </ul>
 </li>
+
+  </td>
+  <td width="20%" valign="top">
+<ul>
+<li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: být, oceněný, oprávněný, stanovený.</li>
+<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být, není-li.</li>
+</ul>
+
+  </td>
+  <td width="20%" valign="top">
+<h2>Syntax</h2>
+
+<h3>Auxiliary Verbs and Copula</h3>
+
+<ul>
+<li>This corpus uses 4 lemmas as copulas (<a>cop</a>). Examples: být, bývat, jít, stát.</li>
+</ul>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Style</a>
+  <ul>
+    <li>Arch
+      <ul>
+        <li>NOUN: léta, včerejška</li>
+        <li>PROPN: Papui, smartphone</li>
+        <li>VERB-Conv: redukujíc</li>
+      </ul>
+    </li>
+    <li>Coll
+      <ul>
+        <li>ADJ: chatovacím, podezřelý</li>
+        <li>NOUN: sken</li>
+        <li>VERB-Fin: potřebujem</li>
+      </ul>
+    </li>
+    <li>Expr
+      <ul>
+        <li>ADJ: ztřeštěné</li>
+      </ul>
+    </li>
+    <li>Rare
+      <ul>
+        <li>ADJ: napjatá, předpovězeno, upjaté</li>
+        <li>ADJ-Part: předpovězeno</li>
+        <li>NOUN: AIDS, datum</li>
+        <li>PROPN: Australia, Capitol, Francisco, Jasona, Kenya, Kilimanjaro</li>
+        <li>VERB-Part: ujal</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+<li><a>Style</a>
+  <ul>
+    <li>Arch
+      <ul>
+        <li>ADJ: pathologickým</li>
+        <li>ADV: dosti, dřív, nejdřív, tentokráte, přec, nedosti, Jistěť, oulisně, snáz</li>
+        <li>AUX-Fin: jest, budiž, buď, nésó</li>
+        <li>AUX-Inf: býti</li>
+        <li>CCONJ: neb</li>
+        <li>NOUN: léta, létech, léty, páně, létům, Národové, biblí, bukův, chromatoforův, civilu</li>
+        <li>NUM: stě</li>
+        <li>PRON: jej, kdož</li>
+        <li>PROPN: Québeku, Quebeku, Elbe, Alše, Otona, QUÉBEKU, Veleslavíny</li>
+        <li>VERB-Conv: poznajíce</li>
+        <li>VERB-Fin: jest, Není, neostejcháme, slovou, činějí</li>
+        <li>VERB-Inf: obléci, mlčeti, Dolomiti, býti, dělati, mluviti, pokračovati, poznati, dojíti, dotýkati</li>
+      </ul>
+    </li>
+    <li>Coll
+      <ul>
+        <li>ADJ: top, druhý, super, Kytkový, Devátý, Vystřelenýho, hodnej, těžký, vyhecovaný, výborný</li>
+        <li>ADP: vo</li>
+        <li>ADV: loni, akorát, holt, tuhle, teda, furt, leckdes, nazejtří, vulgo, ergo</li>
+        <li>AUX-Fin: budem, si</li>
+        <li>DET: které, ty, našim, naší, žádnej, Který, mýho, nějakej, svojí, svýmu</li>
+        <li>INTJ: Hergot</li>
+        <li>NOUN: rozběžky, repete, hodinovce, hejslováctví, kafe, shopping, výpadovce, Ležáka, Progres, Votroky</li>
+        <li>PART: jo, než, Zaplaťpánbůh</li>
+        <li>PRON: von, ní, vona</li>
+        <li>PROPN: Dan, Ottavě, Bohouš, Poldovka, Slávy, Lidovky, Madla, Marjánka, forda, Čehúny</li>
+        <li>VERB-Fin: vem, NEMUSEJ, Nesem, Pohlédnem, Vomotá, bysem, bysme, dávaj, jdem, kolíbá</li>
+        <li>VERB-Inf: ošoustat</li>
+        <li>VERB-Part: Bejvávalo, počůral, vytrucoval, vytrucovali, zahaprovalo, šoustla</li>
+      </ul>
+    </li>
+    <li>Expr
+      <ul>
+        <li>ADJ: ultranacionalistické, ztřeštěný, Ultrapravicový, uculujících, ultrapravicová, zkrachovalá, ztřeštěného, ztřeštěných, ztřeštěným</li>
+        <li>ADJ-Part: uculujících</li>
+        <li>NOUN: jezírko, jezírka, jezírku, okénko, okénku, semínka, vlákénka, znaménkem, znaménko, bidýlku</li>
+        <li>PROPN: Vlasta, VLAĎKA, Vašíčkem, Vladkem, Vladkovi, Vlastou, Vlasty, Vlastík, Vláďa, Zuzanky</li>
+        <li>VERB-Inf: glajšaltovat</li>
+        <li>VERB-Part: zabrnkal</li>
+      </ul>
+    </li>
+    <li>Rare
+      <ul>
+        <li>ADJ: napjaté, napjatou, napjatá, napjatý, napjatých, napjatější, portfóliových, vypjaté, vysoceaktivní, vysoceaktivních</li>
+        <li>ADJ-Part: přetáhnut, rozepjato</li>
+        <li>ADP: v</li>
+        <li>ADV: diskursivně, vypjatě</li>
+        <li>DET: ledasjaký</li>
+        <li>NOUN: hod, min, aids, prezidia, aidsu, causa, GmbH, premií, vládce, St</li>
+        <li>PROPN: Volkswagen, Cikánů, Hamas, Hamasu, Mexico, Volkswagenu, cikáni, Marian, Sophie, cikány</li>
+        <li>VERB-Fin: zbude, přibyde, přihlaste, ubyde, ubydou</li>
+        <li>VERB-Part: ujal, ujali, ujalo, neujal, neujalo, ujala, ujaly, vyňal, najmul, objal</li>
+      </ul>
+    </li>
+    <li>Slng
+      <ul>
+        <li>ADJ: joint, škodováckých, crackových, famáckého, vrchařských, škodováckého, škodovácký, škodováčtí, študácké, študáckých</li>
+        <li>NOUN: kšeft, kšefty, záklaďáků, čtvrtkařky, štaflu, Frc, Green, Kinga, Záložáci, bardáma</li>
+      </ul>
+    </li>
+    <li>Vrnc
+      <ul>
+        <li>ADJ: řečeného</li>
+        <li>INTJ: danaj</li>
+        <li>NOUN: zapomnění, Husličky, Stup, Valnohou, Zítka, kon, kotáry, žehnáčky</li>
+        <li>PRON: sa</li>
+        <li>VERB-Fin: nesúdí, súdí</li>
+      </ul>
+    </li>
+    <li>Vulg
+      <ul>
+        <li>ADJ: bordelové, nablito</li>
+        <li>ADJ-Part: nablito</li>
+        <li>NOUN: parchanta, suchoprdů</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
 <li><a>Style</a>
   <ul>
     <li>Arch
@@ -4515,389 +5131,41 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
-<h3>Other Features</h3>
+<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
 
-<li><a>Abbr</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>ADJ: něm</li>
-        <li>ADV: něm</li>
-        <li>DET: t</li>
-        <li>NOUN: Kč, USD, m, m2, ha, t, ČSSR</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-<li><a>AdpType</a>
-  <ul>
-    <li>Comprep
-      <ul>
-        <li>ADP: vzhledem</li>
-      </ul>
-    </li>
-    <li>Prep
-      <ul>
-        <li>ADP: v, podle, na, o, k, s, do, za, z, pro</li>
-      </ul>
-    </li>
-    <li>Voc
-      <ul>
-        <li>ADP: ve, ke, se, ze, ode, beze, přede</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-<li><a>Hyph</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>ADJ: do, od, pod</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-<li><a>NumForm</a>
-  <ul>
-    <li>Roman
-      <ul>
-        <li>NUM: 1, 3, 2, 4, 5, 41, 7, 10, 2004, 2008</li>
-      </ul>
-    </li>
-    <li>Word
-      <ul>
-        <li>NUM: jeden, jedné, tří, dvanáct, dvě, dvanácti, jedno, jednoho, jednou, obě</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-<li><a>NumValue</a>
-  <ul>
-    <li>1,2,3
-      <ul>
-        <li>NUM: jeden, jedné, tří, dvě, jedno, jednoho, jednou, obě, dvou, dvěma</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-<li><a>Style</a>
-  <ul>
-    <li>Arch
-      <ul>
-        <li>PRON: jej</li>
-        <li>VERB-Inf: dáti</li>
-      </ul>
-    </li>
-    <li>Coll
-      <ul>
-        <li>ADJ: vytvořený, Dlouhodobý, Krátkodobý</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+<ul>
+  <li><a>nsubj</a>
+    <ul>
+      <li>VERB-Fin--NOUN-Acc (23)</li>
+      <li>VERB-Fin--NOUN-Dat (1)</li>
+      <li>VERB-Fin--NOUN-Gen (4)</li>
+      <li>VERB-Fin--NOUN-Loc (1)</li>
+      <li>VERB-Fin--NOUN-Nom (627)</li>
+      <li>VERB-Fin--PRON-Nom (2)</li>
+      <li>VERB-Inf--NOUN-Nom (1)</li>
+      <li>VERB-Part--NOUN-Gen (1)</li>
+      <li>VERB-Part--NOUN-Nom (42)</li>
+    </ul>
+  </li>
+</ul>
 
   </td>
   <td width="20%" valign="top">
-<h3>Other Features</h3>
-
-<li><a>Abbr</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>ADV: apod</li>
-        <li>NOUN: dr, elektro, prof</li>
-        <li>PROPN: K, M, L, T, V, A, C, J, E, F</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-<li><a>AdpType</a>
-  <ul>
-    <li>Comprep
-      <ul>
-        <li>ADP: vzhledem</li>
-      </ul>
-    </li>
-    <li>Prep
-      <ul>
-        <li>ADP: na, v, do, s, z, k, o, za, po, pro</li>
-      </ul>
-    </li>
-    <li>Voc
-      <ul>
-        <li>ADP: ve, ze, se, ke, beze, ode, přede, nade, pode, skrze</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-<li><a>ConjType</a>
-  <ul>
-    <li>Oper
-      <ul>
-        <li>CCONJ: krát</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-<li><a>Hyph</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>ADJ: marx, dvou, troj, tří, československo</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-<li><a>NumForm</a>
-  <ul>
-    <li>Digit
-      <ul>
-        <li>NUM: 1, 1942, 1948, 1953, 11, 1945, 20, 10, 1938, 1943</li>
-      </ul>
-    </li>
-    <li>Word
-      <ul>
-        <li>NUM: pár, jeden, dva, dvě, jednoho, tři, jedna, jednu, oba, čtyři</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-<li><a>NumValue</a>
-  <ul>
-    <li>1
-      <ul>
-        <li>ADJ: jedny, jedněch</li>
-      </ul>
-    </li>
-    <li>1,2,3
-      <ul>
-        <li>NUM: jeden, dva, dvě, jednoho, tři, jedna, jednu, oba, čtyři, jedné</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-<li><a>Style</a>
-  <ul>
-    <li>Arch
-      <ul>
-        <li>ADV: raděj</li>
-        <li>NOUN: léta, léty, koleni, létech, včerejška</li>
-        <li>PRON: jej</li>
-      </ul>
-    </li>
-    <li>Coll
-      <ul>
-        <li>ADJ: dobrý, jednoduchý, Filipově, Milí, bystrý, chytrej, cílevědomej, dlouhý, dobrým, druhým</li>
-        <li>ADJ-Part: sbalíno</li>
-        <li>ADV: dřív, nejdřív, móc, dýl, hloub</li>
-        <li>AUX-Fin: si, bysme, nejseš</li>
-        <li>DET: který, tvýho, žádnej, každý, které, mý, naše, takovýho, támhleten, tý</li>
-        <li>NOUN: holkama, kopečkama, leta, prsama, ženskýma</li>
-        <li>PART: prej, přeci, Neee</li>
-        <li>PRON: jí, veškeru, jenž, samý</li>
-        <li>VERB-Fin: odejdem, rozejdem, si</li>
-        <li>VERB-Inf: pomoct</li>
-        <li>VERB-Part: nevlít, nevšim</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+<li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: být, bývat, ztracený.</li>
+<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být.</li>
+</ul>
 
   </td>
   <td width="20%" valign="top">
-<h3>Other Features</h3>
+<h2>Syntax</h2>
 
-<li><a>Abbr</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>ADJ: sv, tzv</li>
-        <li>ADP: př</li>
-        <li>ADV: cca</li>
-        <li>DET: n</li>
-        <li>NOUN: l, DNA, GCA, MPS, m, A, AIDS, APK, BK, CGI</li>
-        <li>PROPN: USA, BBC, CNN, EU, OSN, RECO, AP, BA, BID, CBC</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-<li><a>AdpType</a>
-  <ul>
-    <li>Comprep
-      <ul>
-        <li>ADP: vzhledem</li>
-      </ul>
-    </li>
-    <li>Prep
-      <ul>
-        <li>ADP: v, na, z, s, do, o, k, pro, za, po</li>
-      </ul>
-    </li>
-    <li>Voc
-      <ul>
-        <li>ADP: ve, ze, se, ke, skrze, za</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-<li><a>Foreign</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>ADJ: The, National, New, Saint, a, American, Canadian, Cottonovy, Dareiův, Die</li>
-        <li>ADP: de, Von, of, Di, On</li>
-        <li>ADV: cca</li>
-        <li>CCONJ: and, If</li>
-        <li>NOUN: brexitu, e-maily, Blood, Breaking, Buck, Business, CGI, CTV, City, Consumer</li>
-        <li>PRON: You, me</li>
-        <li>PROPN: USA, Danevirke, CNN, Aviva, Company, George, Investors, Joseph, Mount, Multi</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-<li><a>Hyph</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>ADJ: Indo, francouzsko</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-<li><a>NameType</a>
-  <ul>
-    <li>Com
-      <ul>
-        <li>ADJ: National, American, Die</li>
-        <li>PROPN: USA, Čching, BBC, CNN, EU, Aviva, Company, Facebooku, Investors, Multi</li>
-      </ul>
-    </li>
-    <li>Com,Geo
-      <ul>
-        <li>PROPN: Scotland</li>
-      </ul>
-    </li>
-    <li>Com,Pro
-      <ul>
-        <li>PROPN: Ford, GM</li>
-      </ul>
-    </li>
-    <li>Geo
-      <ul>
-        <li>ADJ: New, San, Beverly, Kapského, Los, Pearl, Severní, Silicon, South, Wall</li>
-        <li>PROPN: Čína, Francie, Albánie, Británii, Danevirke, Evropě, Itálii, Ameriky, Asii, Británie</li>
-      </ul>
-    </li>
-    <li>Geo,Giv
-      <ul>
-        <li>PROPN: Thrákie, Thrákii, Thrákií</li>
-      </ul>
-    </li>
-    <li>Geo,Giv,Sur
-      <ul>
-        <li>ADP: Di</li>
-      </ul>
-    </li>
-    <li>Giv
-      <ul>
-        <li>ADJ: Saint, Alexandrově, Caesarovi, Cottonovy, Césarovo, Dareiův, Edgarovy, Germaininých, Kimově</li>
-        <li>PROPN: Donald, Richarda, Augustus, Donalda, František, George, González, Jasmína, Ježíše, Joseph</li>
-      </ul>
-    </li>
-    <li>Giv,Sur
-      <ul>
-        <li>PROPN: James, Michael, Michala, Stephen, Štěpán</li>
-      </ul>
-    </li>
-    <li>Nat
-      <ul>
-        <li>PROPN: Australané, Mayové, Číňanů, Řekové, Židů, Aboriginci, Achájů, Američan, Američané, Athéňanů</li>
-      </ul>
-    </li>
-    <li>Oth
-      <ul>
-        <li>PROPN: Cup, Cupu</li>
-      </ul>
-    </li>
-    <li>Pro
-      <ul>
-        <li>ADJ: El, World</li>
-        <li>PROPN: Endurance, Dead, Greco, Loving, MahaNakhon, Mate, Nectar, Select, Simple, Slack</li>
-      </ul>
-    </li>
-    <li>Sur
-      <ul>
-        <li>ADJ: achaimenovské, Achaimenovskou, Achaimenovská, Bergeronova, Berijovo, Blochových, Carangiina, Dossovy, Erdoganovu, Graftonova</li>
-        <li>PROPN: Clintonové, Trump, Trumpa, Bluntová, Mišima, Seagal, Winstone, Wright, Šen, Aldrin</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-<li><a>NumForm</a>
-  <ul>
-    <li>Digit
-      <ul>
-        <li>NUM: 1, 3, 20, 2014, 2015, 5, 10, 100, 1492, 2010</li>
-      </ul>
-    </li>
-    <li>Roman
-      <ul>
-        <li>NUM: I, III, II, IV, V, VI, X</li>
-      </ul>
-    </li>
-    <li>Word
-      <ul>
-        <li>NUM: dva, čtyři, dvou, dvě, jedné, jeden, dvěma, deset, jedna, jedním</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-<li><a>NumValue</a>
-  <ul>
-    <li>1
-      <ul>
-        <li>ADJ: jedni</li>
-      </ul>
-    </li>
-    <li>1,2,3
-      <ul>
-        <li>NUM: dva, čtyři, dvou, dvě, jedné, jeden, dvěma, jedna, jedním, tři</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-<li><a>Style</a>
-  <ul>
-    <li>Arch
-      <ul>
-        <li>NOUN: léta, včerejška</li>
-        <li>PROPN: Papui, smartphone</li>
-        <li>VERB-Conv: redukujíc</li>
-      </ul>
-    </li>
-    <li>Coll
-      <ul>
-        <li>ADJ: chatovacím, podezřelý</li>
-        <li>NOUN: sken</li>
-        <li>VERB-Fin: potřebujem</li>
-      </ul>
-    </li>
-    <li>Expr
-      <ul>
-        <li>ADJ: ztřeštěné</li>
-      </ul>
-    </li>
-    <li>Rare
-      <ul>
-        <li>ADJ: napjatá, předpovězeno, upjaté</li>
-        <li>ADJ-Part: předpovězeno</li>
-        <li>NOUN: AIDS, datum</li>
-        <li>PROPN: Australia, Capitol, Francisco, Jasona, Kenya, Kilimanjaro</li>
-        <li>VERB-Part: ujal</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<h3>Auxiliary Verbs and Copula</h3>
+
+<ul>
+<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: být, bývat.</li>
+</ul>
 
   </td>
 </tr>
@@ -4923,32 +5191,67 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
-<h2>Syntax</h2>
-
-<h3>Auxiliary Verbs and Copula</h3>
-
 <ul>
-<li>This corpus uses 6 lemmas as copulas (<a>cop</a>). Examples: být, není-li, je-li, jsou-li, nejsou-li, byt.</li>
+  <li><a>obj</a>
+    <ul>
+      <li>VERB-Fin--NOUN-Acc (421)</li>
+      <li>VERB-Fin--NOUN-Dat (24)</li>
+      <li>VERB-Fin--NOUN-Gen (44)</li>
+      <li>VERB-Fin--NOUN-Ins (7)</li>
+      <li>VERB-Fin--NOUN-Loc (5)</li>
+      <li>VERB-Fin--NOUN-Nom (88)</li>
+      <li>VERB-Fin--PRON-Acc (12)</li>
+      <li>VERB-Fin--PRON-Dat (1)</li>
+      <li>VERB-Fin--PRON-Ins (1)</li>
+      <li>VERB-Inf--NOUN-Acc (197)</li>
+      <li>VERB-Inf--NOUN-Dat (5)</li>
+      <li>VERB-Inf--NOUN-Gen (8)</li>
+      <li>VERB-Inf--NOUN-Ins (2)</li>
+      <li>VERB-Inf--NOUN-Nom (23)</li>
+      <li>VERB-Inf--PRON-Acc (11)</li>
+      <li>VERB-Part--NOUN-Acc (25)</li>
+      <li>VERB-Part--NOUN-Dat (1)</li>
+      <li>VERB-Part--NOUN-Gen (2)</li>
+      <li>VERB-Part--NOUN-Ins (6)</li>
+      <li>VERB-Part--NOUN-Nom (3)</li>
+      <li>VERB-Part--PRON-Acc (5)</li>
+      <li>VERB-Part--PRON-Dat (1)</li>
+    </ul>
+  </li>
 </ul>
 
   </td>
   <td width="20%" valign="top">
-<h2>Syntax</h2>
+<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
 
-<h3>Auxiliary Verbs and Copula</h3>
-
+Here we consider only relations between verbs (parent) and nouns or pronouns (child).
 <ul>
-<li>This corpus uses 4 lemmas as copulas (<a>cop</a>). Examples: být, bývat, jít, stát.</li>
+  <li><a>nsubj</a>
+    <ul>
+      <li>VERB-Fin--NOUN-Acc-ADP(přes) (1)</li>
+      <li>VERB-Fin--NOUN-Gen (41)</li>
+      <li>VERB-Fin--NOUN-Nom (1261)</li>
+      <li>VERB-Fin--PRON (7)</li>
+      <li>VERB-Fin--PRON-Acc (1)</li>
+      <li>VERB-Fin--PRON-Gen (4)</li>
+      <li>VERB-Fin--PRON-Nom (594)</li>
+      <li>VERB-Inf--NOUN-Nom (19)</li>
+      <li>VERB-Inf--PRON-Gen (2)</li>
+      <li>VERB-Inf--PRON-Nom (26)</li>
+      <li>VERB-Part--NOUN-Gen (65)</li>
+      <li>VERB-Part--NOUN-Nom (3151)</li>
+      <li>VERB-Part--PRON (10)</li>
+      <li>VERB-Part--PRON-Gen (9)</li>
+      <li>VERB-Part--PRON-Nom (708)</li>
+    </ul>
+  </li>
 </ul>
 
   </td>
   <td width="20%" valign="top">
-<h2>Syntax</h2>
-
-<h3>Auxiliary Verbs and Copula</h3>
-
 <ul>
-<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: být, bývat.</li>
+<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: být.</li>
+<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být.</li>
 </ul>
 
   </td>
@@ -4970,22 +5273,93 @@ udver: '2'
   </td>
   <td width="20%" valign="top">
 <ul>
-<li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: být, oceněný, oprávněný, stanovený.</li>
-<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být, není-li.</li>
+  <li><a>iobj</a>
+    <ul>
+      <li>VERB-Fin--NOUN-Acc (2)</li>
+      <li>VERB-Fin--NOUN-Dat (5)</li>
+      <li>VERB-Fin--NOUN-Ins (1)</li>
+      <li>VERB-Fin--PRON-Dat (3)</li>
+      <li>VERB-Inf--NOUN-Dat (4)</li>
+      <li>VERB-Inf--NOUN-Ins (3)</li>
+      <li>VERB-Part--PRON-Acc (1)</li>
+    </ul>
+  </li>
 </ul>
 
   </td>
   <td width="20%" valign="top">
 <ul>
-<li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: být, bývat, ztracený.</li>
-<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být.</li>
+  <li><a>obj</a>
+    <ul>
+      <li>VERB-Conv--NOUN-Acc (16)</li>
+      <li>VERB-Conv--NOUN-Dat (2)</li>
+      <li>VERB-Conv--NOUN-Gen (1)</li>
+      <li>VERB-Conv--NOUN-Ins (3)</li>
+      <li>VERB-Conv--PRON-Acc (1)</li>
+      <li>VERB-Conv--PRON-Nom (1)</li>
+      <li>VERB-Fin--NOUN-Acc (1128)</li>
+      <li>VERB-Fin--NOUN-Dat (54)</li>
+      <li>VERB-Fin--NOUN-Gen (85)</li>
+      <li>VERB-Fin--NOUN-Ins (43)</li>
+      <li>VERB-Fin--NOUN-Nom (3)</li>
+      <li>VERB-Fin--PRON (1)</li>
+      <li>VERB-Fin--PRON-Acc (731)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(o) (2)</li>
+      <li>VERB-Fin--PRON-Dat (221)</li>
+      <li>VERB-Fin--PRON-Gen (27)</li>
+      <li>VERB-Fin--PRON-Ins (2)</li>
+      <li>VERB-Fin--PRON-Nom (2)</li>
+      <li>VERB-Inf--NOUN-Acc (677)</li>
+      <li>VERB-Inf--NOUN-Dat (34)</li>
+      <li>VERB-Inf--NOUN-Gen (45)</li>
+      <li>VERB-Inf--NOUN-Ins (20)</li>
+      <li>VERB-Inf--NOUN-Nom (2)</li>
+      <li>VERB-Inf--PRON (1)</li>
+      <li>VERB-Inf--PRON-Acc (467)</li>
+      <li>VERB-Inf--PRON-Dat (91)</li>
+      <li>VERB-Inf--PRON-Gen (13)</li>
+      <li>VERB-Inf--PRON-Ins (3)</li>
+      <li>VERB-Inf--PRON-Nom (1)</li>
+      <li>VERB-Part--NOUN-Acc (2695)</li>
+      <li>VERB-Part--NOUN-Dat (123)</li>
+      <li>VERB-Part--NOUN-Gen (157)</li>
+      <li>VERB-Part--NOUN-Ins (128)</li>
+      <li>VERB-Part--NOUN-Loc (1)</li>
+      <li>VERB-Part--NOUN-Nom (13)</li>
+      <li>VERB-Part--PRON (7)</li>
+      <li>VERB-Part--PRON-Acc (1314)</li>
+      <li>VERB-Part--PRON-Dat (449)</li>
+      <li>VERB-Part--PRON-Gen (48)</li>
+      <li>VERB-Part--PRON-Ins (17)</li>
+      <li>VERB-Part--PRON-Nom (1)</li>
+    </ul>
+  </li>
 </ul>
 
   </td>
   <td width="20%" valign="top">
+<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+
+Here we consider only relations between verbs (parent) and nouns or pronouns (child).
 <ul>
-<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: být.</li>
-<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být.</li>
+  <li><a>nsubj</a>
+    <ul>
+      <li>VERB-Fin--NOUN (4)</li>
+      <li>VERB-Fin--NOUN-Acc (1)</li>
+      <li>VERB-Fin--NOUN-Gen (11)</li>
+      <li>VERB-Fin--NOUN-Nom (212)</li>
+      <li>VERB-Fin--PRON-Nom (17)</li>
+      <li>VERB-Inf--NOUN-Nom (7)</li>
+      <li>VERB-Part--NOUN (4)</li>
+      <li>VERB-Part--NOUN-Acc (3)</li>
+      <li>VERB-Part--NOUN-Gen (7)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(kolem) (1)</li>
+      <li>VERB-Part--NOUN-Nom (293)</li>
+      <li>VERB-Part--PRON-Acc (1)</li>
+      <li>VERB-Part--PRON-Gen (2)</li>
+      <li>VERB-Part--PRON-Nom (22)</li>
+    </ul>
+  </li>
 </ul>
 
   </td>
@@ -5092,74 +5466,113 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="20%" valign="top">
-<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+<h3>Reflexive Verbs</h3>
 
-Here we consider only relations between verbs (parent) and nouns or pronouns (child).
 <ul>
-  <li><a>nsubj</a>
+  <li>This corpus contains 28 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: vztahovat se, týkající se, týkat se, shodovat se, stát se, vztahující se, podrobit se, dopustit se, rovnat se, rozhodnout se, stávat se, lišit se, přiblížení se, vyskytující se, blížící se, dotýkat se, dozvědět se, konsolidovaný se, liší-li se, nejedná-li se, nerozhodnou-li se, odchýlit se, uchovávat se, vykazovat se, vážící se, zbavovat se, řídit se, řídící se</li>
+</ul>
+
+  </td>
+  <td width="20%" valign="top">
+<ul>
+  <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Acc (23)</li>
-      <li>VERB-Fin--NOUN-Dat (1)</li>
+      <li>VERB-Conv--PRON-Acc (1)</li>
+      <li>VERB-Conv--PRON-Dat (1)</li>
+      <li>VERB-Fin--NOUN-Acc (21)</li>
+      <li>VERB-Fin--NOUN-Dat (34)</li>
       <li>VERB-Fin--NOUN-Gen (4)</li>
-      <li>VERB-Fin--NOUN-Loc (1)</li>
-      <li>VERB-Fin--NOUN-Nom (627)</li>
-      <li>VERB-Fin--PRON-Nom (2)</li>
+      <li>VERB-Fin--NOUN-Ins (8)</li>
+      <li>VERB-Fin--PRON-Acc (46)</li>
+      <li>VERB-Fin--PRON-Dat (208)</li>
+      <li>VERB-Fin--PRON-Gen (3)</li>
+      <li>VERB-Fin--PRON-Ins (1)</li>
+      <li>VERB-Inf--NOUN-Acc (10)</li>
+      <li>VERB-Inf--NOUN-Dat (26)</li>
+      <li>VERB-Inf--NOUN-Gen (1)</li>
+      <li>VERB-Inf--NOUN-Ins (5)</li>
+      <li>VERB-Inf--PRON-Acc (13)</li>
+      <li>VERB-Inf--PRON-Dat (119)</li>
+      <li>VERB-Inf--PRON-Gen (3)</li>
+      <li>VERB-Inf--PRON-Ins (2)</li>
+      <li>VERB-Part--NOUN-Acc (57)</li>
+      <li>VERB-Part--NOUN-Dat (97)</li>
+      <li>VERB-Part--NOUN-Gen (20)</li>
+      <li>VERB-Part--NOUN-Ins (20)</li>
+      <li>VERB-Part--PRON-Acc (79)</li>
+      <li>VERB-Part--PRON-Dat (463)</li>
+      <li>VERB-Part--PRON-Gen (21)</li>
+    </ul>
+  </li>
+</ul>
+
+  </td>
+  <td width="20%" valign="top">
+<ul>
+  <li><a>obj</a>
+    <ul>
+      <li>VERB-Conv--NOUN-Acc (1)</li>
+      <li>VERB-Conv--NOUN-Gen (1)</li>
+      <li>VERB-Fin--NOUN (1)</li>
+      <li>VERB-Fin--NOUN-ADP(k) (1)</li>
+      <li>VERB-Fin--NOUN-Acc (157)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(na) (4)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(o) (5)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(za) (1)</li>
+      <li>VERB-Fin--NOUN-Dat (8)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(k) (5)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(proti) (1)</li>
+      <li>VERB-Fin--NOUN-Gen (12)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(od) (1)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(z) (1)</li>
+      <li>VERB-Fin--NOUN-Ins (4)</li>
+      <li>VERB-Fin--NOUN-Ins-ADP(s) (6)</li>
+      <li>VERB-Fin--NOUN-Loc-ADP(na) (5)</li>
+      <li>VERB-Fin--NOUN-Loc-ADP(o) (3)</li>
+      <li>VERB-Fin--NOUN-Loc-ADP(v) (1)</li>
+      <li>VERB-Fin--NOUN-Nom (2)</li>
+      <li>VERB-Fin--PRON-Acc (17)</li>
+      <li>VERB-Fin--PRON-Dat (3)</li>
+      <li>VERB-Fin--PRON-Loc-ADP(o) (1)</li>
+      <li>VERB-Inf--NOUN (2)</li>
+      <li>VERB-Inf--NOUN-Acc (127)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(na) (3)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(o) (1)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(v) (1)</li>
+      <li>VERB-Inf--NOUN-Dat (1)</li>
+      <li>VERB-Inf--NOUN-Gen (9)</li>
+      <li>VERB-Inf--NOUN-Gen-ADP(od) (1)</li>
+      <li>VERB-Inf--NOUN-Ins (3)</li>
+      <li>VERB-Inf--NOUN-Ins-ADP(s) (2)</li>
+      <li>VERB-Inf--NOUN-Loc-ADP(o) (1)</li>
       <li>VERB-Inf--NOUN-Nom (1)</li>
-      <li>VERB-Part--NOUN-Gen (1)</li>
-      <li>VERB-Part--NOUN-Nom (42)</li>
-    </ul>
-  </li>
-</ul>
-
-  </td>
-  <td width="20%" valign="top">
-<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
-
-Here we consider only relations between verbs (parent) and nouns or pronouns (child).
-<ul>
-  <li><a>nsubj</a>
-    <ul>
-      <li>VERB-Fin--NOUN-Acc-ADP(přes) (1)</li>
-      <li>VERB-Fin--NOUN-Gen (41)</li>
-      <li>VERB-Fin--NOUN-Nom (1261)</li>
-      <li>VERB-Fin--PRON (7)</li>
-      <li>VERB-Fin--PRON-Acc (1)</li>
-      <li>VERB-Fin--PRON-Gen (4)</li>
-      <li>VERB-Fin--PRON-Nom (594)</li>
-      <li>VERB-Inf--NOUN-Nom (19)</li>
-      <li>VERB-Inf--PRON-Gen (2)</li>
-      <li>VERB-Inf--PRON-Nom (26)</li>
-      <li>VERB-Part--NOUN-Gen (65)</li>
-      <li>VERB-Part--NOUN-Nom (3151)</li>
-      <li>VERB-Part--PRON (10)</li>
-      <li>VERB-Part--PRON-Gen (9)</li>
-      <li>VERB-Part--PRON-Nom (708)</li>
-    </ul>
-  </li>
-</ul>
-
-  </td>
-  <td width="20%" valign="top">
-<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
-
-Here we consider only relations between verbs (parent) and nouns or pronouns (child).
-<ul>
-  <li><a>nsubj</a>
-    <ul>
-      <li>VERB-Fin--NOUN (4)</li>
-      <li>VERB-Fin--NOUN-Acc (1)</li>
-      <li>VERB-Fin--NOUN-Gen (11)</li>
-      <li>VERB-Fin--NOUN-Nom (212)</li>
-      <li>VERB-Fin--PRON-Nom (17)</li>
-      <li>VERB-Inf--NOUN-Nom (7)</li>
-      <li>VERB-Part--NOUN (4)</li>
-      <li>VERB-Part--NOUN-Acc (3)</li>
-      <li>VERB-Part--NOUN-Gen (7)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(kolem) (1)</li>
-      <li>VERB-Part--NOUN-Nom (293)</li>
-      <li>VERB-Part--PRON-Acc (1)</li>
-      <li>VERB-Part--PRON-Gen (2)</li>
-      <li>VERB-Part--PRON-Nom (22)</li>
+      <li>VERB-Inf--PRON-Acc (17)</li>
+      <li>VERB-Inf--PRON-Acc-ADP(na) (3)</li>
+      <li>VERB-Inf--PRON-Acc-ADP(o) (1)</li>
+      <li>VERB-Part--NOUN (1)</li>
+      <li>VERB-Part--NOUN-ADP(s) (1)</li>
+      <li>VERB-Part--NOUN-Acc (255)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(na) (4)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(o) (4)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(pro) (1)</li>
+      <li>VERB-Part--NOUN-Dat (9)</li>
+      <li>VERB-Part--NOUN-Dat-ADP(k) (4)</li>
+      <li>VERB-Part--NOUN-Gen (33)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(od) (1)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(z) (1)</li>
+      <li>VERB-Part--NOUN-Ins (4)</li>
+      <li>VERB-Part--NOUN-Ins-ADP(s) (3)</li>
+      <li>VERB-Part--NOUN-Loc-ADP(o) (2)</li>
+      <li>VERB-Part--NOUN-Loc-ADP(po) (2)</li>
+      <li>VERB-Part--NOUN-Nom (2)</li>
+      <li>VERB-Part--PRON-Acc (42)</li>
+      <li>VERB-Part--PRON-Dat (2)</li>
+      <li>VERB-Part--PRON-Dat-ADP(k) (1)</li>
+      <li>VERB-Part--PRON-Gen (1)</li>
+      <li>VERB-Part--PRON-Gen-ADP(z) (3)</li>
+      <li>VERB-Part--PRON-Ins-ADP(s) (1)</li>
+      <li>VERB-Part--PRON-Loc-ADP(o) (1)</li>
+      <li>VERB-Part--PRON-Nom (1)</li>
     </ul>
   </li>
 </ul>
@@ -5272,152 +5685,59 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="20%" valign="top">
+<h3>Reflexive Passive</h3>
+
 <ul>
-  <li><a>obj</a>
-    <ul>
-      <li>VERB-Fin--NOUN-Acc (421)</li>
-      <li>VERB-Fin--NOUN-Dat (24)</li>
-      <li>VERB-Fin--NOUN-Gen (44)</li>
-      <li>VERB-Fin--NOUN-Ins (7)</li>
-      <li>VERB-Fin--NOUN-Loc (5)</li>
-      <li>VERB-Fin--NOUN-Nom (88)</li>
-      <li>VERB-Fin--PRON-Acc (12)</li>
-      <li>VERB-Fin--PRON-Dat (1)</li>
-      <li>VERB-Fin--PRON-Ins (1)</li>
-      <li>VERB-Inf--NOUN-Acc (197)</li>
-      <li>VERB-Inf--NOUN-Dat (5)</li>
-      <li>VERB-Inf--NOUN-Gen (8)</li>
-      <li>VERB-Inf--NOUN-Ins (2)</li>
-      <li>VERB-Inf--NOUN-Nom (23)</li>
-      <li>VERB-Inf--PRON-Acc (11)</li>
-      <li>VERB-Part--NOUN-Acc (25)</li>
-      <li>VERB-Part--NOUN-Dat (1)</li>
-      <li>VERB-Part--NOUN-Gen (2)</li>
-      <li>VERB-Part--NOUN-Ins (6)</li>
-      <li>VERB-Part--NOUN-Nom (3)</li>
-      <li>VERB-Part--PRON-Acc (5)</li>
-      <li>VERB-Part--PRON-Dat (1)</li>
-    </ul>
-  </li>
+  <li>This corpus contains 78 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: rozumět se, použít se, považovat se, účtovat se, sestavovat se, odpisovat se, uvádět se, postupovat se, uvést se, provádět se, zaúčtovat se, ocenit se, označovat se, vykazovat se, oceňovat se, zjistit se, odepsat se, ověřovat se, očekávat se, pohlížet se, stanovit se, upravit se, Nestanoví-li se, doplnit se, moci se, odstraňovat se, otevírat se, posuzovat se, snižovat se, snížit se, uschovávat se, vytvářet se, zahrnout se, zapisovat se, Změní-li se, dokumentovat se, lišit se, muset se, mít se, nabývat se, odůvodnit se, pokračovat se, poskytovat se, počítat se, promítat se, předpokládat se, převádět se, převést se, přihlédnout se, přihlížet se</li>
+</ul>
+
+  </td>
+  <td width="20%" valign="top">
+<h3>Reflexive Verbs</h3>
+
+<ul>
+  <li>This corpus contains 1026 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: stát se, dívat se, zeptat se, zdát se, snažit se, ptát se, vrátit se, podívat se, myslet si, všimnout si, usmát se, bát se, rozhodnout se, dát se, zastavit se, chovat se, smát se, uvědomit si, dostat se, dotknout se, objevit se, vydat se, představit si, starat se, vzpomenout si, cítit se, ozvat se, posadit se, podařit se, uvědomovat si, vracet se, líbit se, divit se, narodit se, obrátit se, prohlížet si, představovat si, dít se, otočit se, těšit se, jmenovat se, otázat se, stěžovat si, bránit se, pustit se, přát si, stávat se, blížit se, dozvědět se, probudit se</li>
 </ul>
 
   </td>
   <td width="20%" valign="top">
 <ul>
-  <li><a>obj</a>
+  <li><a>iobj</a>
     <ul>
-      <li>VERB-Conv--NOUN-Acc (16)</li>
-      <li>VERB-Conv--NOUN-Dat (2)</li>
-      <li>VERB-Conv--NOUN-Gen (1)</li>
-      <li>VERB-Conv--NOUN-Ins (3)</li>
-      <li>VERB-Conv--PRON-Acc (1)</li>
-      <li>VERB-Conv--PRON-Nom (1)</li>
-      <li>VERB-Fin--NOUN-Acc (1128)</li>
-      <li>VERB-Fin--NOUN-Dat (54)</li>
-      <li>VERB-Fin--NOUN-Gen (85)</li>
-      <li>VERB-Fin--NOUN-Ins (43)</li>
-      <li>VERB-Fin--NOUN-Nom (3)</li>
-      <li>VERB-Fin--PRON (1)</li>
-      <li>VERB-Fin--PRON-Acc (731)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(o) (2)</li>
-      <li>VERB-Fin--PRON-Dat (221)</li>
-      <li>VERB-Fin--PRON-Gen (27)</li>
-      <li>VERB-Fin--PRON-Ins (2)</li>
-      <li>VERB-Fin--PRON-Nom (2)</li>
-      <li>VERB-Inf--NOUN-Acc (677)</li>
-      <li>VERB-Inf--NOUN-Dat (34)</li>
-      <li>VERB-Inf--NOUN-Gen (45)</li>
-      <li>VERB-Inf--NOUN-Ins (20)</li>
-      <li>VERB-Inf--NOUN-Nom (2)</li>
-      <li>VERB-Inf--PRON (1)</li>
-      <li>VERB-Inf--PRON-Acc (467)</li>
-      <li>VERB-Inf--PRON-Dat (91)</li>
-      <li>VERB-Inf--PRON-Gen (13)</li>
-      <li>VERB-Inf--PRON-Ins (3)</li>
-      <li>VERB-Inf--PRON-Nom (1)</li>
-      <li>VERB-Part--NOUN-Acc (2695)</li>
-      <li>VERB-Part--NOUN-Dat (123)</li>
-      <li>VERB-Part--NOUN-Gen (157)</li>
-      <li>VERB-Part--NOUN-Ins (128)</li>
-      <li>VERB-Part--NOUN-Loc (1)</li>
-      <li>VERB-Part--NOUN-Nom (13)</li>
-      <li>VERB-Part--PRON (7)</li>
-      <li>VERB-Part--PRON-Acc (1314)</li>
-      <li>VERB-Part--PRON-Dat (449)</li>
-      <li>VERB-Part--PRON-Gen (48)</li>
-      <li>VERB-Part--PRON-Ins (17)</li>
-      <li>VERB-Part--PRON-Nom (1)</li>
-    </ul>
-  </li>
-</ul>
-
-  </td>
-  <td width="20%" valign="top">
-<ul>
-  <li><a>obj</a>
-    <ul>
-      <li>VERB-Conv--NOUN-Acc (1)</li>
-      <li>VERB-Conv--NOUN-Gen (1)</li>
-      <li>VERB-Fin--NOUN (1)</li>
-      <li>VERB-Fin--NOUN-ADP(k) (1)</li>
-      <li>VERB-Fin--NOUN-Acc (157)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(na) (4)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(o) (5)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(za) (1)</li>
-      <li>VERB-Fin--NOUN-Dat (8)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(k) (5)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(proti) (1)</li>
-      <li>VERB-Fin--NOUN-Gen (12)</li>
+      <li>VERB-Conv--NOUN-Acc-ADP(na) (1)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(na) (1)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(za) (2)</li>
+      <li>VERB-Fin--NOUN-Dat (6)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(k) (1)</li>
+      <li>VERB-Fin--NOUN-Gen-ADP(do) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(od) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(z) (1)</li>
-      <li>VERB-Fin--NOUN-Ins (4)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(s) (6)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(na) (5)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(o) (3)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(v) (1)</li>
-      <li>VERB-Fin--NOUN-Nom (2)</li>
-      <li>VERB-Fin--PRON-Acc (17)</li>
-      <li>VERB-Fin--PRON-Dat (3)</li>
-      <li>VERB-Fin--PRON-Loc-ADP(o) (1)</li>
-      <li>VERB-Inf--NOUN (2)</li>
-      <li>VERB-Inf--NOUN-Acc (127)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(na) (3)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(o) (1)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(v) (1)</li>
-      <li>VERB-Inf--NOUN-Dat (1)</li>
-      <li>VERB-Inf--NOUN-Gen (9)</li>
-      <li>VERB-Inf--NOUN-Gen-ADP(od) (1)</li>
-      <li>VERB-Inf--NOUN-Ins (3)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(s) (2)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(o) (1)</li>
-      <li>VERB-Inf--NOUN-Nom (1)</li>
-      <li>VERB-Inf--PRON-Acc (17)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(na) (3)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(o) (1)</li>
+      <li>VERB-Fin--NOUN-Ins (1)</li>
+      <li>VERB-Fin--NOUN-Ins-ADP(s) (1)</li>
+      <li>VERB-Fin--NOUN-Loc-ADP(na) (1)</li>
+      <li>VERB-Fin--PRON-Acc (2)</li>
+      <li>VERB-Fin--PRON-Dat (11)</li>
+      <li>VERB-Fin--PRON-Gen-ADP(z) (1)</li>
+      <li>VERB-Inf--NOUN-Acc (1)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(za) (1)</li>
+      <li>VERB-Inf--NOUN-Dat (5)</li>
+      <li>VERB-Inf--NOUN-Ins-ADP(s) (1)</li>
+      <li>VERB-Inf--NOUN-Loc-ADP(na) (1)</li>
+      <li>VERB-Inf--PRON-Dat (2)</li>
+      <li>VERB-Inf--PRON-Ins-ADP(s) (1)</li>
       <li>VERB-Part--NOUN (1)</li>
-      <li>VERB-Part--NOUN-ADP(s) (1)</li>
-      <li>VERB-Part--NOUN-Acc (255)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(na) (4)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(o) (4)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(pro) (1)</li>
-      <li>VERB-Part--NOUN-Dat (9)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(k) (4)</li>
-      <li>VERB-Part--NOUN-Gen (33)</li>
+      <li>VERB-Part--NOUN-Acc (1)</li>
+      <li>VERB-Part--NOUN-Acc-ADP(za) (6)</li>
+      <li>VERB-Part--NOUN-Dat (12)</li>
+      <li>VERB-Part--NOUN-Dat-ADP(k) (1)</li>
       <li>VERB-Part--NOUN-Gen-ADP(od) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(z) (1)</li>
-      <li>VERB-Part--NOUN-Ins (4)</li>
-      <li>VERB-Part--NOUN-Ins-ADP(s) (3)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(o) (2)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(po) (2)</li>
-      <li>VERB-Part--NOUN-Nom (2)</li>
-      <li>VERB-Part--PRON-Acc (42)</li>
-      <li>VERB-Part--PRON-Dat (2)</li>
-      <li>VERB-Part--PRON-Dat-ADP(k) (1)</li>
+      <li>VERB-Part--NOUN-Gen-ADP(z) (2)</li>
+      <li>VERB-Part--NOUN-Ins (3)</li>
+      <li>VERB-Part--NOUN-Loc-ADP(o) (1)</li>
+      <li>VERB-Part--PRON-Acc (2)</li>
+      <li>VERB-Part--PRON-Dat (14)</li>
       <li>VERB-Part--PRON-Gen (1)</li>
-      <li>VERB-Part--PRON-Gen-ADP(z) (3)</li>
-      <li>VERB-Part--PRON-Ins-ADP(s) (1)</li>
-      <li>VERB-Part--PRON-Loc-ADP(o) (1)</li>
-      <li>VERB-Part--PRON-Nom (1)</li>
+      <li>VERB-Part--PRON-Gen-ADP(od) (1)</li>
     </ul>
   </li>
 </ul>
@@ -5506,95 +5826,26 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="20%" valign="top">
+<h3>Verbs with Reflexive Core Objects</h3>
+
 <ul>
-  <li><a>iobj</a>
-    <ul>
-      <li>VERB-Fin--NOUN-Acc (2)</li>
-      <li>VERB-Fin--NOUN-Dat (5)</li>
-      <li>VERB-Fin--NOUN-Ins (1)</li>
-      <li>VERB-Fin--PRON-Dat (3)</li>
-      <li>VERB-Inf--NOUN-Dat (4)</li>
-      <li>VERB-Inf--NOUN-Ins (3)</li>
-      <li>VERB-Part--PRON-Acc (1)</li>
-    </ul>
-  </li>
+  <li>This corpus contains 2 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: seznámit se, stanovit si</li>
 </ul>
 
   </td>
   <td width="20%" valign="top">
+<h3>Reflexive Passive</h3>
+
 <ul>
-  <li><a>iobj</a>
-    <ul>
-      <li>VERB-Conv--PRON-Acc (1)</li>
-      <li>VERB-Conv--PRON-Dat (1)</li>
-      <li>VERB-Fin--NOUN-Acc (21)</li>
-      <li>VERB-Fin--NOUN-Dat (34)</li>
-      <li>VERB-Fin--NOUN-Gen (4)</li>
-      <li>VERB-Fin--NOUN-Ins (8)</li>
-      <li>VERB-Fin--PRON-Acc (46)</li>
-      <li>VERB-Fin--PRON-Dat (208)</li>
-      <li>VERB-Fin--PRON-Gen (3)</li>
-      <li>VERB-Fin--PRON-Ins (1)</li>
-      <li>VERB-Inf--NOUN-Acc (10)</li>
-      <li>VERB-Inf--NOUN-Dat (26)</li>
-      <li>VERB-Inf--NOUN-Gen (1)</li>
-      <li>VERB-Inf--NOUN-Ins (5)</li>
-      <li>VERB-Inf--PRON-Acc (13)</li>
-      <li>VERB-Inf--PRON-Dat (119)</li>
-      <li>VERB-Inf--PRON-Gen (3)</li>
-      <li>VERB-Inf--PRON-Ins (2)</li>
-      <li>VERB-Part--NOUN-Acc (57)</li>
-      <li>VERB-Part--NOUN-Dat (97)</li>
-      <li>VERB-Part--NOUN-Gen (20)</li>
-      <li>VERB-Part--NOUN-Ins (20)</li>
-      <li>VERB-Part--PRON-Acc (79)</li>
-      <li>VERB-Part--PRON-Dat (463)</li>
-      <li>VERB-Part--PRON-Gen (21)</li>
-    </ul>
-  </li>
+  <li>This corpus contains 201 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: dát se, otevřít se, chtít se, říkat se, muset se, dělat se, začít se, vědět se, mluvit se, najít se, používat se, psát se, rozkřiknout se, moci se, měnit se, počítat se, připravovat se, příst se, vařit se, vysílat se, zbarvovat se, změnit se, bojovat se, chodit se, dostat se, dělávat se, hrnout se, hrát se, jet se, kouřit se, mít se, nabízet se, otevírat se, pootevřít se, posílat se, poznat se, prodlužovat se, prodávat se, proměnit se, propouštět se, pěstovat se, předpokládat se, přestavět se, rozkmitat se, roznést se, stavět se, svítit se, uvidět se, vcházet se, vyhodit se</li>
 </ul>
 
   </td>
   <td width="20%" valign="top">
+<h3>Reflexive Verbs</h3>
+
 <ul>
-  <li><a>iobj</a>
-    <ul>
-      <li>VERB-Conv--NOUN-Acc-ADP(na) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(na) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(za) (2)</li>
-      <li>VERB-Fin--NOUN-Dat (6)</li>
-      <li>VERB-Fin--NOUN-Dat-ADP(k) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(do) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(od) (1)</li>
-      <li>VERB-Fin--NOUN-Gen-ADP(z) (1)</li>
-      <li>VERB-Fin--NOUN-Ins (1)</li>
-      <li>VERB-Fin--NOUN-Ins-ADP(s) (1)</li>
-      <li>VERB-Fin--NOUN-Loc-ADP(na) (1)</li>
-      <li>VERB-Fin--PRON-Acc (2)</li>
-      <li>VERB-Fin--PRON-Dat (11)</li>
-      <li>VERB-Fin--PRON-Gen-ADP(z) (1)</li>
-      <li>VERB-Inf--NOUN-Acc (1)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(za) (1)</li>
-      <li>VERB-Inf--NOUN-Dat (5)</li>
-      <li>VERB-Inf--NOUN-Ins-ADP(s) (1)</li>
-      <li>VERB-Inf--NOUN-Loc-ADP(na) (1)</li>
-      <li>VERB-Inf--PRON-Dat (2)</li>
-      <li>VERB-Inf--PRON-Ins-ADP(s) (1)</li>
-      <li>VERB-Part--NOUN (1)</li>
-      <li>VERB-Part--NOUN-Acc (1)</li>
-      <li>VERB-Part--NOUN-Acc-ADP(za) (6)</li>
-      <li>VERB-Part--NOUN-Dat (12)</li>
-      <li>VERB-Part--NOUN-Dat-ADP(k) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(od) (1)</li>
-      <li>VERB-Part--NOUN-Gen-ADP(z) (2)</li>
-      <li>VERB-Part--NOUN-Ins (3)</li>
-      <li>VERB-Part--NOUN-Loc-ADP(o) (1)</li>
-      <li>VERB-Part--PRON-Acc (2)</li>
-      <li>VERB-Part--PRON-Dat (14)</li>
-      <li>VERB-Part--PRON-Gen (1)</li>
-      <li>VERB-Part--PRON-Gen-ADP(od) (1)</li>
-    </ul>
-  </li>
+  <li>This corpus contains 132 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: stát se, rozhodnout se, nacházet se, vrátit se, objevit se, konat se, zdát se, dostat se, myslet si, setkat se, snažit se, týkat se, jednat se, lišit se, narodit se, objevovat se, pokusit se, potýkat se, skládat se, ujmout se, vyvíjet se, vzdát se, bavit se, blížit se, dopouštět se, držet se, ozvat se, podařit se, podržet si, podívat se, přát si, těšit se, vlévat se, vydat se, vyslovit se, věnovat se, zaměřit se, chovat se, cítit se, dařit se, divit se, dohadovat se, domnívat se, doporučovat se, dopustit se, dostavit se, dozvědět se, dát se, dít se, dívat se</li>
 </ul>
 
   </td>
@@ -5617,26 +5868,31 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="20%" valign="top">
-<h3>Reflexive Verbs</h3>
+<h3>Relations Overview</h3>
 
 <ul>
-  <li>This corpus contains 28 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: vztahovat se, týkající se, týkat se, shodovat se, stát se, vztahující se, podrobit se, dopustit se, rovnat se, rozhodnout se, stávat se, lišit se, přiblížení se, vyskytující se, blížící se, dotýkat se, dozvědět se, konsolidovaný se, liší-li se, nejedná-li se, nerozhodnou-li se, odchýlit se, uchovávat se, vykazovat se, vážící se, zbavovat se, řídit se, řídící se</li>
+<li>This corpus uses 10 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
+<li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
+<li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>flat</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>
 
   </td>
   <td width="20%" valign="top">
-<h3>Reflexive Verbs</h3>
+<h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 1026 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: stát se, dívat se, zeptat se, zdát se, snažit se, ptát se, vrátit se, podívat se, myslet si, všimnout si, usmát se, bát se, rozhodnout se, dát se, zastavit se, chovat se, smát se, uvědomit si, dostat se, dotknout se, objevit se, vydat se, představit si, starat se, vzpomenout si, cítit se, ozvat se, posadit se, podařit se, uvědomovat si, vracet se, líbit se, divit se, narodit se, obrátit se, prohlížet si, představovat si, dít se, otočit se, těšit se, jmenovat se, otázat se, stěžovat si, bránit se, pustit se, přát si, stávat se, blížit se, dozvědět se, probudit se</li>
+  <li>This corpus contains 263 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: říkat si, koupit si, říci si, svlékat se, svléknout se, mít se, schovat se, nalít si, převléknout se, přečíst si, slyšet se, vidět se, nabídnout se, vyčítat si, znát se, nasadit si, nechat si, odpovědět si, opakovat si, prostřít se, zabít se, navonět se, odpustit si, pomoci si, ponechat si, potkat se, psát si, přesvědčit se, převlékat se, připomenout si, přiznat si, schovávat se, udržet se, ujistit se, chytnout se, držet se, dělat si, kupovat si, milující se, namlouvat si, nazvat se, obléknout se, obout se, odradit se, odvést se, odvézt se, ohlásit se, omlouvat se, omluvit se, osvobozovat se</li>
+    <ul>
+      <li>Out of those, 12 lemmas occurred more than once, but never without a reflexive dependent. Examples: převléknout, prostřít, navonět, obout, převlékat, milující, omlouvat, omluvit, ptát, sprchovat, ubránit, zakoupit</li>
+    </ul>
 </ul>
 
   </td>
   <td width="20%" valign="top">
-<h3>Reflexive Verbs</h3>
+<h3>Reflexive Passive</h3>
 
 <ul>
-  <li>This corpus contains 132 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: stát se, rozhodnout se, nacházet se, vrátit se, objevit se, konat se, zdát se, dostat se, myslet si, setkat se, snažit se, týkat se, jednat se, lišit se, narodit se, objevovat se, pokusit se, potýkat se, skládat se, ujmout se, vyvíjet se, vzdát se, bavit se, blížit se, dopouštět se, držet se, ozvat se, podařit se, podržet si, podívat se, přát si, těšit se, vlévat se, vydat se, vyslovit se, věnovat se, zaměřit se, chovat se, cítit se, dařit se, divit se, dohadovat se, domnívat se, doporučovat se, dopustit se, dostavit se, dozvědět se, dát se, dít se, dívat se</li>
+  <li>This corpus contains 39 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: používat se, soudit se, najít se, zvýšit se, brát se, datovat se, diskutovat se, dávat se, myslit se, měnit se, měřit se, naznačovat se, nazývat se, označovat se, očekávat se, podávat se, považovat se, pořádat se, prodávat se, proměnit se, provést se, psát se, předpokládat se, přepravovat se, rozpadnout se, rozvibrovat se, snížit se, stavět se, studovat se, svádět se, tradovat se, tvrdit se, vrátit se, vypočítávat se, vyučovat se, využívat se, věřit se, zvyšovat se, čekat se</li>
 </ul>
 
   </td>
@@ -5659,26 +5915,26 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="20%" valign="top">
-<h3>Reflexive Passive</h3>
+
+  </td>
+  <td width="20%" valign="top">
+<h3>Relations Overview</h3>
 
 <ul>
-  <li>This corpus contains 78 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: rozumět se, použít se, považovat se, účtovat se, sestavovat se, odpisovat se, uvádět se, postupovat se, uvést se, provádět se, zaúčtovat se, ocenit se, označovat se, vykazovat se, oceňovat se, zjistit se, odepsat se, ověřovat se, očekávat se, pohlížet se, stanovit se, upravit se, Nestanoví-li se, doplnit se, moci se, odstraňovat se, otevírat se, posuzovat se, snižovat se, snížit se, uschovávat se, vytvářet se, zahrnout se, zapisovat se, Změní-li se, dokumentovat se, lišit se, muset se, mít se, nabývat se, odůvodnit se, pokračovat se, poskytovat se, počítat se, promítat se, předpokládat se, převádět se, převést se, přihlédnout se, přihlížet se</li>
+<li>This corpus uses 11 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
+<li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
+<li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>
 
   </td>
   <td width="20%" valign="top">
-<h3>Reflexive Passive</h3>
+<h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 201 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: dát se, otevřít se, chtít se, říkat se, muset se, dělat se, začít se, vědět se, mluvit se, najít se, používat se, psát se, rozkřiknout se, moci se, měnit se, počítat se, připravovat se, příst se, vařit se, vysílat se, zbarvovat se, změnit se, bojovat se, chodit se, dostat se, dělávat se, hrnout se, hrát se, jet se, kouřit se, mít se, nabízet se, otevírat se, pootevřít se, posílat se, poznat se, prodlužovat se, prodávat se, proměnit se, propouštět se, pěstovat se, předpokládat se, přestavět se, rozkmitat se, roznést se, stavět se, svítit se, uvidět se, vcházet se, vyhodit se</li>
-</ul>
-
-  </td>
-  <td width="20%" valign="top">
-<h3>Reflexive Passive</h3>
-
-<ul>
-  <li>This corpus contains 39 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: používat se, soudit se, najít se, zvýšit se, brát se, datovat se, diskutovat se, dávat se, myslit se, měnit se, měřit se, naznačovat se, nazývat se, označovat se, očekávat se, podávat se, považovat se, pořádat se, prodávat se, proměnit se, provést se, psát se, předpokládat se, přepravovat se, rozpadnout se, rozvibrovat se, snížit se, stavět se, studovat se, svádět se, tradovat se, tvrdit se, vrátit se, vypočítávat se, vyučovat se, využívat se, věřit se, zvyšovat se, čekat se</li>
+  <li>This corpus contains 36 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: dostat se, vrátit se, zapojit se, zapsat se, donést si, halit se, hledat se, hrát si, integrovat své, klást si, koupit si, měnit se, nasazovat si, nastěhovat se, naučit se, naštvat se, obrátit se, odklonit se, potopit se, prohlásit se, promísit se, prosadit se, přeměnit se, připravovat se, půjčit si, rozvíjet se, rozšiřovat se, smířit se, spasit se, spojit se, udržet se, ukázat se, vybrat si, zaměstnat se, zastavit se, zhoršovat se</li>
+    <ul>
+      <li>Out of those, 3 lemmas occurred more than once, but never without a reflexive dependent. Examples: vrátit, zapojit, zapsat</li>
+    </ul>
 </ul>
 
   </td>
@@ -5707,32 +5963,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="20%" valign="top">
-<h3>Verbs with Reflexive Core Objects</h3>
-
-<ul>
-  <li>This corpus contains 2 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: seznámit se, stanovit si</li>
-</ul>
 
   </td>
   <td width="20%" valign="top">
-<h3>Verbs with Reflexive Core Objects</h3>
-
-<ul>
-  <li>This corpus contains 263 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: říkat si, koupit si, říci si, svlékat se, svléknout se, mít se, schovat se, nalít si, převléknout se, přečíst si, slyšet se, vidět se, nabídnout se, vyčítat si, znát se, nasadit si, nechat si, odpovědět si, opakovat si, prostřít se, zabít se, navonět se, odpustit si, pomoci si, ponechat si, potkat se, psát si, přesvědčit se, převlékat se, připomenout si, přiznat si, schovávat se, udržet se, ujistit se, chytnout se, držet se, dělat si, kupovat si, milující se, namlouvat si, nazvat se, obléknout se, obout se, odradit se, odvést se, odvézt se, ohlásit se, omlouvat se, omluvit se, osvobozovat se</li>
-    <ul>
-      <li>Out of those, 12 lemmas occurred more than once, but never without a reflexive dependent. Examples: převléknout, prostřít, navonět, obout, převlékat, milující, omlouvat, omluvit, ptát, sprchovat, ubránit, zakoupit</li>
-    </ul>
-</ul>
 
   </td>
   <td width="20%" valign="top">
-<h3>Verbs with Reflexive Core Objects</h3>
+<h3>Relations Overview</h3>
 
 <ul>
-  <li>This corpus contains 36 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: dostat se, vrátit se, zapojit se, zapsat se, donést si, halit se, hledat se, hrát si, integrovat své, klást si, koupit si, měnit se, nasazovat si, nastěhovat se, naučit se, naštvat se, obrátit se, odklonit se, potopit se, prohlásit se, promísit se, prosadit se, přeměnit se, připravovat se, půjčit si, rozvíjet se, rozšiřovat se, smířit se, spasit se, spojit se, udržet se, ukázat se, vybrat si, zaměstnat se, zastavit se, zhoršovat se</li>
-    <ul>
-      <li>Out of those, 3 lemmas occurred more than once, but never without a reflexive dependent. Examples: vrátit, zapojit, zapsat</li>
-    </ul>
+<li>This corpus uses 10 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a></li>
+<li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
+<li>The following 6 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>
 
   </td>
@@ -5759,33 +6001,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="20%" valign="top">
-<h3>Relations Overview</h3>
-
-<ul>
-<li>This corpus uses 10 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
-<li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
-<li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>flat</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
-</ul>
 
   </td>
   <td width="20%" valign="top">
-<h3>Relations Overview</h3>
-
-<ul>
-<li>This corpus uses 11 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a>, <a>obl:arg</a></li>
-<li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
-<li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
-</ul>
 
   </td>
   <td width="20%" valign="top">
-<h3>Relations Overview</h3>
-
-<ul>
-<li>This corpus uses 10 relation subtypes: <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:numgov</a>, <a>det:nummod</a>, <a>expl:pass</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>nummod:gov</a>, <a>obl:agent</a></li>
-<li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
-<li>The following 6 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
-</ul>
 
   </td>
 </tr>
