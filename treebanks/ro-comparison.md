@@ -426,6 +426,14 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <li><a>Number</a>
 
   </td>
@@ -728,6 +736,14 @@ udver: '2'
   <ul>
   </ul>
 </li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
 
   </td>
 </tr>
@@ -1081,6 +1097,14 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <li><a>Mood</a>
 
   </td>
@@ -1308,6 +1332,22 @@ udver: '2'
   <ul>
   </ul>
 </li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
 
   </td>
 </tr>
@@ -1862,10 +1902,27 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <li><a>Number[psor]</a>
 
   </td>
   <td width="50%" valign="top">
+<li><a>Number[psor]</a>
 
   </td>
 </tr>
@@ -1882,6 +1939,14 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+  <ul>
+    <li>Plur
+      <ul>
+        <li>DET: vostru, voastră, voastre, voștri, noastră, noastre, nostru, noștri</li>
+        <li>PRON: nostru</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -1898,42 +1963,6 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-<li><a>Number[psor]</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Plur
-      <ul>
-        <li>DET: vostru, voastră, voastre, voștri, noastră, noastre, nostru, noștri</li>
-        <li>PRON: nostru</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
   <ul>
     <li>Sing
       <ul>
@@ -1947,14 +1976,27 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<h3>Other Features</h3>
-
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="50%" valign="top">
   <ul>
   </ul>
 </li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<h3>Other Features</h3>
+
+
+  </td>
+  <td width="50%" valign="top">
+<h3>Other Features</h3>
+
 
   </td>
 </tr>
@@ -1995,6 +2037,34 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+<li><a>AdpType</a>
+  <ul>
+    <li>Prep
+      <ul>
+        <li>ADP: de, pre, în, cu, la, pe, din, den, întru, după</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>Compound</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADP: din, den, după, pentru, decît, prin, întru, pren, într-, peste</li>
+        <li>CCONJ: neci, deci, nece, Dece, dară, Iară, ce, deaca, Însă</li>
+        <li>SCONJ: deaca, Căci, dacă, deacă, Dară, căce, să</li>
+      </ul>
+    </li>
+  </ul>
+</li>
 
   </td>
 </tr>
@@ -2046,128 +2116,6 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-<li><a>PartType</a>
-  <ul>
-    <li>Inf
-      <ul>
-        <li>PART: a, a-, -a</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-<li><a>Position</a>
-  <ul>
-    <li>Postnom
-      <ul>
-        <li>DET: asta, aceea, acesta, ăsta, aceasta, acela, aia, aceia, acestea, astea</li>
-      </ul>
-    </li>
-    <li>Prenom
-      <ul>
-        <li>DET: acest, orice, această, aceste, alte, fiecare, același, acestor, unele, altă</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-<li><a>Strength</a>
-  <ul>
-    <li>Strong
-      <ul>
-        <li>PRON: el, ea, dumneavoastră, ei, ele, eu, noi, mine, lui, sine</li>
-      </ul>
-    </li>
-    <li>Weak
-      <ul>
-        <li>PRON: se, s-, le, o, își, -și, -l, și-, îi, îl</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-<h2>Syntax</h2>
-
-<h3>Auxiliary Verbs and Copula</h3>
-
-<ul>
-<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: fi.</li>
-</ul>
-
-  </td>
-  <td width="50%" valign="top">
-<h3>Other Features</h3>
-
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-<li><a>AdpType</a>
-  <ul>
-    <li>Prep
-      <ul>
-        <li>ADP: de, pre, în, cu, la, pe, din, den, întru, după</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-<li><a>Compound</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>ADP: din, den, după, pentru, decît, prin, întru, pren, într-, peste</li>
-        <li>CCONJ: neci, deci, nece, Dece, dară, Iară, ce, deaca, Însă</li>
-        <li>SCONJ: deaca, Căci, dacă, deacă, Dară, căce, să</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
 <li><a>NumForm</a>
   <ul>
     <li>Digit
@@ -2192,6 +2140,15 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+<li><a>PartType</a>
+  <ul>
+    <li>Inf
+      <ul>
+        <li>PART: a, a-, -a</li>
+      </ul>
+    </li>
+  </ul>
+</li>
 
   </td>
   <td width="50%" valign="top">
@@ -2214,6 +2171,20 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+<li><a>Position</a>
+  <ul>
+    <li>Postnom
+      <ul>
+        <li>DET: asta, aceea, acesta, ăsta, aceasta, acela, aia, aceia, acestea, astea</li>
+      </ul>
+    </li>
+    <li>Prenom
+      <ul>
+        <li>DET: acest, orice, această, aceste, alte, fiecare, același, acestor, unele, altă</li>
+      </ul>
+    </li>
+  </ul>
+</li>
 
   </td>
   <td width="50%" valign="top">
@@ -2236,6 +2207,20 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+<li><a>Strength</a>
+  <ul>
+    <li>Strong
+      <ul>
+        <li>PRON: el, ea, dumneavoastră, ei, ele, eu, noi, mine, lui, sine</li>
+      </ul>
+    </li>
+    <li>Weak
+      <ul>
+        <li>PRON: se, s-, le, o, își, -și, -l, și-, îi, îl</li>
+      </ul>
+    </li>
+  </ul>
+</li>
 
   </td>
   <td width="50%" valign="top">
@@ -2258,9 +2243,12 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+<h2>Syntax</h2>
+
+<h3>Auxiliary Verbs and Copula</h3>
+
 <ul>
-<li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: avea, vrea, fi, o, or, el, un.</li>
-<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: fi, avea.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: fi.</li>
 </ul>
 
   </td>
@@ -2271,6 +2259,22 @@ udver: '2'
 
 <ul>
 <li>This corpus uses 3 lemmas as copulas (<a>cop</a>). Examples: fi, fie, fiu.</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<ul>
+<li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: avea, vrea, fi, o, or, el, un.</li>
+<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: fi, avea.</li>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+<ul>
+<li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: vrea, avea, putea, fi, ști, a, tot.</li>
+<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: fi.</li>
 </ul>
 
   </td>
@@ -2330,9 +2334,33 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="50%" valign="top">
+<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+
+Here we consider only relations between verbs (parent) and nouns or pronouns (child).
 <ul>
-<li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: vrea, avea, putea, fi, ști, a, tot.</li>
-<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: fi.</li>
+  <li><a>nsubj</a>
+    <ul>
+      <li>VERB-Fin--NOUN-Acc,Nom (367)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom-ADP(ca) (1)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom-ADP(de) (1)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom-ADP(meu) (1)</li>
+      <li>VERB-Fin--PRON (2)</li>
+      <li>VERB-Fin--PRON-Acc (8)</li>
+      <li>VERB-Fin--PRON-Acc,Nom (245)</li>
+      <li>VERB-Fin--PRON-Nom (38)</li>
+      <li>VERB-Ger--NOUN-Acc,Nom (22)</li>
+      <li>VERB-Ger--PRON-Acc,Nom (11)</li>
+      <li>VERB-Ger--PRON-Nom (5)</li>
+      <li>VERB-Inf--NOUN-Acc,Nom (63)</li>
+      <li>VERB-Inf--PRON-Acc (3)</li>
+      <li>VERB-Inf--PRON-Acc,Nom (72)</li>
+      <li>VERB-Inf--PRON-Nom (11)</li>
+      <li>VERB-Part--NOUN-Acc,Nom (58)</li>
+      <li>VERB-Part--PRON-Acc (1)</li>
+      <li>VERB-Part--PRON-Acc,Nom (17)</li>
+      <li>VERB-Part--PRON-Nom (4)</li>
+    </ul>
+  </li>
 </ul>
 
   </td>
@@ -2404,31 +2432,40 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="50%" valign="top">
-<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
-
-Here we consider only relations between verbs (parent) and nouns or pronouns (child).
 <ul>
-  <li><a>nsubj</a>
+  <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Acc,Nom (367)</li>
-      <li>VERB-Fin--NOUN-Acc,Nom-ADP(ca) (1)</li>
-      <li>VERB-Fin--NOUN-Acc,Nom-ADP(de) (1)</li>
-      <li>VERB-Fin--NOUN-Acc,Nom-ADP(meu) (1)</li>
-      <li>VERB-Fin--PRON (2)</li>
-      <li>VERB-Fin--PRON-Acc (8)</li>
-      <li>VERB-Fin--PRON-Acc,Nom (245)</li>
-      <li>VERB-Fin--PRON-Nom (38)</li>
-      <li>VERB-Ger--NOUN-Acc,Nom (22)</li>
-      <li>VERB-Ger--PRON-Acc,Nom (11)</li>
-      <li>VERB-Ger--PRON-Nom (5)</li>
-      <li>VERB-Inf--NOUN-Acc,Nom (63)</li>
-      <li>VERB-Inf--PRON-Acc (3)</li>
-      <li>VERB-Inf--PRON-Acc,Nom (72)</li>
-      <li>VERB-Inf--PRON-Nom (11)</li>
-      <li>VERB-Part--NOUN-Acc,Nom (58)</li>
-      <li>VERB-Part--PRON-Acc (1)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom (377)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom-ADP(de) (2)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom-ADP(pe) (3)</li>
+      <li>VERB-Fin--NOUN-Dat,Gen (1)</li>
+      <li>VERB-Fin--NOUN-Dat,Gen-ADP(înaintea) (1)</li>
+      <li>VERB-Fin--NOUN-Voc (1)</li>
+      <li>VERB-Fin--PRON-Acc (197)</li>
+      <li>VERB-Fin--PRON-Acc,Nom (51)</li>
+      <li>VERB-Fin--PRON-Acc,Nom-ADP(pe) (1)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(de) (1)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(după) (1)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(pe) (3)</li>
+      <li>VERB-Fin--PRON-Dat (1)</li>
+      <li>VERB-Ger--NOUN-Acc,Nom (35)</li>
+      <li>VERB-Ger--NOUN-Acc,Nom-ADP(pe) (1)</li>
+      <li>VERB-Ger--NOUN-Acc,Nom-ADP(în) (1)</li>
+      <li>VERB-Ger--NOUN-Acc,Nom-ADP(întru) (1)</li>
+      <li>VERB-Ger--PRON-Acc (5)</li>
+      <li>VERB-Ger--PRON-Acc,Nom (6)</li>
+      <li>VERB-Inf--NOUN-Acc,Nom (94)</li>
+      <li>VERB-Inf--NOUN-Acc,Nom-ADP(cu) (1)</li>
+      <li>VERB-Inf--NOUN-Acc,Nom-ADP(meu) (1)</li>
+      <li>VERB-Inf--PRON-Acc (58)</li>
+      <li>VERB-Inf--PRON-Acc,Nom (31)</li>
+      <li>VERB-Inf--PRON-Acc,Nom-ADP(cu) (1)</li>
+      <li>VERB-Inf--PRON-Acc,Nom-ADP(pe) (1)</li>
+      <li>VERB-Inf--PRON-Acc-ADP(pe) (1)</li>
+      <li>VERB-Part--NOUN-Acc,Nom (42)</li>
+      <li>VERB-Part--PRON-Acc (43)</li>
       <li>VERB-Part--PRON-Acc,Nom (17)</li>
-      <li>VERB-Part--PRON-Nom (4)</li>
+      <li>VERB-Part--PRON-Dat (1)</li>
     </ul>
   </li>
 </ul>
@@ -2526,56 +2563,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   </td>
   <td width="50%" valign="top">
 <ul>
-  <li><a>obj</a>
-    <ul>
-      <li>VERB-Fin--NOUN-Acc,Nom (377)</li>
-      <li>VERB-Fin--NOUN-Acc,Nom-ADP(de) (2)</li>
-      <li>VERB-Fin--NOUN-Acc,Nom-ADP(pe) (3)</li>
-      <li>VERB-Fin--NOUN-Dat,Gen (1)</li>
-      <li>VERB-Fin--NOUN-Dat,Gen-ADP(înaintea) (1)</li>
-      <li>VERB-Fin--NOUN-Voc (1)</li>
-      <li>VERB-Fin--PRON-Acc (197)</li>
-      <li>VERB-Fin--PRON-Acc,Nom (51)</li>
-      <li>VERB-Fin--PRON-Acc,Nom-ADP(pe) (1)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(de) (1)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(după) (1)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(pe) (3)</li>
-      <li>VERB-Fin--PRON-Dat (1)</li>
-      <li>VERB-Ger--NOUN-Acc,Nom (35)</li>
-      <li>VERB-Ger--NOUN-Acc,Nom-ADP(pe) (1)</li>
-      <li>VERB-Ger--NOUN-Acc,Nom-ADP(în) (1)</li>
-      <li>VERB-Ger--NOUN-Acc,Nom-ADP(întru) (1)</li>
-      <li>VERB-Ger--PRON-Acc (5)</li>
-      <li>VERB-Ger--PRON-Acc,Nom (6)</li>
-      <li>VERB-Inf--NOUN-Acc,Nom (94)</li>
-      <li>VERB-Inf--NOUN-Acc,Nom-ADP(cu) (1)</li>
-      <li>VERB-Inf--NOUN-Acc,Nom-ADP(meu) (1)</li>
-      <li>VERB-Inf--PRON-Acc (58)</li>
-      <li>VERB-Inf--PRON-Acc,Nom (31)</li>
-      <li>VERB-Inf--PRON-Acc,Nom-ADP(cu) (1)</li>
-      <li>VERB-Inf--PRON-Acc,Nom-ADP(pe) (1)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(pe) (1)</li>
-      <li>VERB-Part--NOUN-Acc,Nom (42)</li>
-      <li>VERB-Part--PRON-Acc (43)</li>
-      <li>VERB-Part--PRON-Acc,Nom (17)</li>
-      <li>VERB-Part--PRON-Dat (1)</li>
-    </ul>
-  </li>
-</ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-<h3>Reflexive Verbs</h3>
-
-<ul>
-  <li>This corpus contains 896 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: afla se, putea se, întâmpla se, numi se, întoarce se, termina s-, duce se, opri se, părea se, îneca s-, uita se, apropia se, așeza se, referi se, face se, ridica se, asigura se, gândi se, întâmpla s-, petrece se, găsi se, îngroșa se, întâlni se, angaja se, descompune se, răni s-, simți se, încheia s-, întinde se, termina se, îneca se, desfășura se, dovedi se, lăsa se, produce se, scurge se, îndrepta se, mișca se, ocupa se, putea s-, răni se, încheia se, întări se, apuca se, baza se, conforma se, deschide se, hotărî se, lega se, mări se</li>
-</ul>
-
-  </td>
-  <td width="50%" valign="top">
-<ul>
   <li><a>iobj</a>
     <ul>
       <li>VERB-Fin--NOUN-Acc,Nom (1)</li>
@@ -2604,10 +2591,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="50%" valign="top">
-<h3>Reflexive Passive</h3>
+<h3>Reflexive Verbs</h3>
 
 <ul>
-  <li>This corpus contains 429 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: aplica se, putea se, face se, stabili se, acorda se, modifica se, administra se, prevedea se, recomanda se, înlocui se, folosi se, publica se, utiliza se, vedea se, auzi se, citi se, lua se, realiza se, adăuga se, constata s-, cunoaște se, efectua s-, institui se, înțelege se, da se, efectua se, elimina se, interpreta se, obține se, găsi se, specifica se, administra s-, calcula se, consulta se, defini se, elibera se, recunoaște se, ține se, asigura se, atașa se, determina se, evita se, impune se, lansa se, păstra se, stabili s-, adopta se, considera se, consuma se, dovedi s-</li>
+  <li>This corpus contains 896 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: afla se, putea se, întâmpla se, numi se, întoarce se, termina s-, duce se, opri se, părea se, îneca s-, uita se, apropia se, așeza se, referi se, face se, ridica se, asigura se, gândi se, întâmpla s-, petrece se, găsi se, îngroșa se, întâlni se, angaja se, descompune se, răni s-, simți se, încheia s-, întinde se, termina se, îneca se, desfășura se, dovedi se, lăsa se, produce se, scurge se, îndrepta se, mișca se, ocupa se, putea s-, răni se, încheia se, întări se, apuca se, baza se, conforma se, deschide se, hotărî se, lega se, mări se</li>
 </ul>
 
   </td>
@@ -2622,10 +2609,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="50%" valign="top">
-<h3>Verbs with Reflexive Core Objects</h3>
+<h3>Reflexive Passive</h3>
 
 <ul>
-  <li>This corpus contains 84 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: răni s-, răni se, aminti -și, opri se, face -și, rezerva își, aminti își, aminti și-, apropia se, asigura se, cumpăra -și, face își, lovi s-, lua își, lăsa se, pregăti se, propune își, ridica se, răni -se, înscrie s-, întoarce se, abandona -se, alege își, amenaja și-, apăra -se, apăra se, arunca -și, ascunde se, asigura -și, asuma își, băga se, considera se, croi -și, cumpăra și-, da își, deștepta se, dori își, fixa se, furniza -și, găsi își, indica și, integra și-, intrebându -se, izbi -se, justifica se, legăna își, lua -și, lua și-, lumina -se, menține se</li>
+  <li>This corpus contains 429 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: aplica se, putea se, face se, stabili se, acorda se, modifica se, administra se, prevedea se, recomanda se, înlocui se, folosi se, publica se, utiliza se, vedea se, auzi se, citi se, lua se, realiza se, adăuga se, constata s-, cunoaște se, efectua s-, institui se, înțelege se, da se, efectua se, elimina se, interpreta se, obține se, găsi se, specifica se, administra s-, calcula se, consulta se, defini se, elibera se, recunoaște se, ține se, asigura se, atașa se, determina se, evita se, impune se, lansa se, păstra se, stabili s-, adopta se, considera se, consuma se, dovedi s-</li>
 </ul>
 
   </td>
@@ -2640,11 +2627,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="50%" valign="top">
-<h3>Relations Overview</h3>
+<h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-<li>This corpus uses 14 relation subtypes: <a>advcl:tcl</a>, <a>advmod:tmod</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:pmod</a>, <a>csubj:pass</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>expl:poss</a>, <a>expl:pv</a>, <a>nmod:agent</a>, <a>nmod:pmod</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a></li>
-<li>The following 2 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a></li>
+  <li>This corpus contains 84 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: răni s-, răni se, aminti -și, opri se, face -și, rezerva își, aminti își, aminti și-, apropia se, asigura se, cumpăra -și, face își, lovi s-, lua își, lăsa se, pregăti se, propune își, ridica se, răni -se, înscrie s-, întoarce se, abandona -se, alege își, amenaja și-, apăra -se, apăra se, arunca -și, ascunde se, asigura -și, asuma își, băga se, considera se, croi -și, cumpăra și-, da își, deștepta se, dori își, fixa se, furniza -și, găsi își, indica și, integra și-, intrebându -se, izbi -se, justifica se, legăna își, lua -și, lua și-, lumina -se, menține se</li>
 </ul>
 
   </td>
@@ -2659,6 +2645,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="50%" valign="top">
+<h3>Relations Overview</h3>
+
+<ul>
+<li>This corpus uses 14 relation subtypes: <a>advcl:tcl</a>, <a>advmod:tmod</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:pmod</a>, <a>csubj:pass</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>expl:poss</a>, <a>expl:pv</a>, <a>nmod:agent</a>, <a>nmod:pmod</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a></li>
+<li>The following 2 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a></li>
+</ul>
 
   </td>
   <td width="50%" valign="top">

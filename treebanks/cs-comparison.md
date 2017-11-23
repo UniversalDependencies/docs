@@ -2687,6 +2687,23 @@ udver: '2'
 </tr>
 <tr>
   <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
 <h3>Degree and Polarity</h3>
 
 
@@ -4211,6 +4228,23 @@ udver: '2'
 </tr>
 <tr>
   <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
@@ -5580,6 +5614,23 @@ udver: '2'
   <ul>
   </ul>
 </li>
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
 
   </td>
 </tr>

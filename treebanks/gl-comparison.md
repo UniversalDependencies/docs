@@ -405,6 +405,14 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
 <li><a>Number</a>
 
   </td>
@@ -526,8 +534,6 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<h3>Degree and Polarity</h3>
-
 
   </td>
   <td width="50%" valign="top">
@@ -547,7 +553,14 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<li><a>Polarity</a>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 
   </td>
   <td width="50%" valign="top">
@@ -588,24 +601,6 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-  <ul>
-    <li>Neg
-      <ul>
-        <li>PART: non</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
 
   </td>
   <td width="50%" valign="top">
@@ -617,6 +612,8 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+<h3>Degree and Polarity</h3>
+
 
   </td>
   <td width="50%" valign="top">
@@ -627,8 +624,6 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<h3>Verbal Features</h3>
-
 
   </td>
   <td width="50%" valign="top">
@@ -679,6 +674,7 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+<li><a>Polarity</a>
 
   </td>
   <td width="50%" valign="top">
@@ -688,6 +684,13 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+  <ul>
+    <li>Neg
+      <ul>
+        <li>PART: non</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="50%" valign="top">
@@ -705,6 +708,9 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="50%" valign="top">
@@ -727,6 +733,16 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<h3>Verbal Features</h3>
+
+
+  </td>
+  <td width="50%" valign="top">
 <h3>Verbal Features</h3>
 
 
@@ -734,8 +750,14 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<h3>Pronouns, Determiners, Quantifiers</h3>
 
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 
   </td>
   <td width="50%" valign="top">
@@ -947,6 +969,24 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<h3>Pronouns, Determiners, Quantifiers</h3>
+
+
+  </td>
+  <td width="50%" valign="top">
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
@@ -1061,8 +1101,6 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<h3>Other Features</h3>
-
 
   </td>
   <td width="50%" valign="top">
@@ -1074,40 +1112,6 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<li><a>Foreign</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>ADJ: obstante, apreciable, efectivo, funcional, vascularizados</li>
-        <li>ADP: de, en</li>
-        <li>ADV: concretamente</li>
-        <li>DET: a</li>
-        <li>NOUN: táboa, Capítulo, cadro, figura, figuras, Califf, Cantábrica-Rías, Lei, Parque, Punto</li>
-        <li>NUM: 1, 10, 20, 23, 70, -11,86, -36,03, -42,43, 105, 11</li>
-        <li>PART: non</li>
-        <li>PRON: como</li>
-        <li>PROPN: 1979a, BOE, Benson, Brassington, CV, Covarrubias, Exponse, Isla, Lim, Lin</li>
-        <li>SYM: +</li>
-        <li>VERB: di, Brooman, Cíes, FA+U, Hannan, IPa, MECACAR, Pasa, autoinmune, cae</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-<h2>Syntax</h2>
-
-<h3>Auxiliary Verbs and Copula</h3>
-
-<ul>
-<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: ser, estar.</li>
-</ul>
 
   </td>
   <td width="50%" valign="top">
@@ -1147,9 +1151,6 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<ul>
-<li>This corpus uses 89 lemmas as auxiliaries (<a>aux</a>). Examples: poder, deber, ser, haber, estar, ter, ir, seguir, chegar, continuar, deixar, tender, vir, como, empezar, acabar, axudar, pasar, facer, tratar, comezar, adoitar, dar, proceder, a, caber, comenzar, contribuír, corresponder, custar, falar, interesar, necesitar, obrigar, outro, repartir, ver, volver, 16, abster, acceder, aceptar, acostumbrarse, analizar, apabulladas, aprender, aquel, bloquear, buscar, calquera.</li>
-</ul>
 
   </td>
   <td width="50%" valign="top">
@@ -1161,26 +1162,6 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
-
-Here we consider only relations between verbs (parent) and nouns or pronouns (child).
-<ul>
-  <li><a>nsubj</a>
-    <ul>
-      <li>VERB--NOUN (3121)</li>
-      <li>VERB--NOUN-ADP(a) (2)</li>
-      <li>VERB--NOUN-ADP(ata) (2)</li>
-      <li>VERB--NOUN-ADP(aínda)-ADP(xa) (1)</li>
-      <li>VERB--NOUN-ADP(como) (8)</li>
-      <li>VERB--NOUN-ADP(de) (13)</li>
-      <li>VERB--NOUN-ADP(en) (4)</li>
-      <li>VERB--NOUN-ADP(entre) (1)</li>
-      <li>VERB--NOUN-ADP(sobre) (1)</li>
-      <li>VERB--PRON (1826)</li>
-      <li>VERB--PRON-ADP(de) (2)</li>
-    </ul>
-  </li>
-</ul>
 
   </td>
   <td width="50%" valign="top">
@@ -1206,30 +1187,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="50%" valign="top">
-<ul>
-  <li><a>obj</a>
-    <ul>
-      <li>VERB--NOUN (4434)</li>
-      <li>VERB--NOUN-ADP(a) (1)</li>
-      <li>VERB--NOUN-ADP(como) (7)</li>
-      <li>VERB--NOUN-ADP(con) (2)</li>
-      <li>VERB--NOUN-ADP(de) (17)</li>
-      <li>VERB--NOUN-ADP(en) (3)</li>
-      <li>VERB--NOUN-ADP(falar) (1)</li>
-      <li>VERB--NOUN-ADP(historicamente) (1)</li>
-      <li>VERB--NOUN-ADP(investir) (1)</li>
-      <li>VERB--NOUN-ADP(medio) (1)</li>
-      <li>VERB--NOUN-ADP(mentres) (1)</li>
-      <li>VERB--NOUN-ADP(precisamente)-ADP(superior) (1)</li>
-      <li>VERB--NOUN-ADP(segundo) (1)</li>
-      <li>VERB--NOUN-ADP(sobre) (1)</li>
-      <li>VERB--NOUN-ADP(só) (1)</li>
-      <li>VERB--PRON (1608)</li>
-      <li>VERB--PRON-ADP(como) (1)</li>
-      <li>VERB--PRON-ADP(para) (1)</li>
-    </ul>
-  </li>
-</ul>
 
   </td>
   <td width="50%" valign="top">
@@ -1241,13 +1198,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="50%" valign="top">
-<ul>
-  <li><a>iobj</a>
-    <ul>
-      <li>VERB--PRON (276)</li>
-    </ul>
-  </li>
-</ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 
   </td>
   <td width="50%" valign="top">
@@ -1357,12 +1315,22 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="50%" valign="top">
-<h3>Relations Overview</h3>
 
-<ul>
-<li>This corpus does not use relation subtypes.</li>
-<li>The following 13 relation types are not used in this corpus at all: <a>csubj</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>fixed</a>, <a>compound</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
-</ul>
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 
   </td>
   <td width="50%" valign="top">
@@ -1423,6 +1391,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="50%" valign="top">
+<h3>Other Features</h3>
+
 
   </td>
   <td width="50%" valign="top">
@@ -1468,6 +1438,40 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="50%" valign="top">
+<li><a>Foreign</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: obstante, apreciable, efectivo, funcional, vascularizados</li>
+        <li>ADP: de, en</li>
+        <li>ADV: concretamente</li>
+        <li>DET: a</li>
+        <li>NOUN: táboa, Capítulo, cadro, figura, figuras, Califf, Cantábrica-Rías, Lei, Parque, Punto</li>
+        <li>NUM: 1, 10, 20, 23, 70, -11,86, -36,03, -42,43, 105, 11</li>
+        <li>PART: non</li>
+        <li>PRON: como</li>
+        <li>PROPN: 1979a, BOE, Benson, Brassington, CV, Covarrubias, Exponse, Isla, Lim, Lin</li>
+        <li>SYM: +</li>
+        <li>VERB: di, Brooman, Cíes, FA+U, Hannan, IPa, MECACAR, Pasa, autoinmune, cae</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<h2>Syntax</h2>
+
+<h3>Auxiliary Verbs and Copula</h3>
+
+<ul>
+<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: ser, estar.</li>
+</ul>
 
   </td>
   <td width="50%" valign="top">
@@ -1483,6 +1487,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="50%" valign="top">
+<ul>
+<li>This corpus uses 89 lemmas as auxiliaries (<a>aux</a>). Examples: poder, deber, ser, haber, estar, ter, ir, seguir, chegar, continuar, deixar, tender, vir, como, empezar, acabar, axudar, pasar, facer, tratar, comezar, adoitar, dar, proceder, a, caber, comenzar, contribuír, corresponder, custar, falar, interesar, necesitar, obrigar, outro, repartir, ver, volver, 16, abster, acceder, aceptar, acostumbrarse, analizar, apabulladas, aprender, aquel, bloquear, buscar, calquera.</li>
+</ul>
 
   </td>
   <td width="50%" valign="top">
@@ -1495,6 +1502,26 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="50%" valign="top">
+<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+
+Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+<ul>
+  <li><a>nsubj</a>
+    <ul>
+      <li>VERB--NOUN (3121)</li>
+      <li>VERB--NOUN-ADP(a) (2)</li>
+      <li>VERB--NOUN-ADP(ata) (2)</li>
+      <li>VERB--NOUN-ADP(aínda)-ADP(xa) (1)</li>
+      <li>VERB--NOUN-ADP(como) (8)</li>
+      <li>VERB--NOUN-ADP(de) (13)</li>
+      <li>VERB--NOUN-ADP(en) (4)</li>
+      <li>VERB--NOUN-ADP(entre) (1)</li>
+      <li>VERB--NOUN-ADP(sobre) (1)</li>
+      <li>VERB--PRON (1826)</li>
+      <li>VERB--PRON-ADP(de) (2)</li>
+    </ul>
+  </li>
+</ul>
 
   </td>
   <td width="50%" valign="top">
@@ -1532,6 +1559,30 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="50%" valign="top">
+<ul>
+  <li><a>obj</a>
+    <ul>
+      <li>VERB--NOUN (4434)</li>
+      <li>VERB--NOUN-ADP(a) (1)</li>
+      <li>VERB--NOUN-ADP(como) (7)</li>
+      <li>VERB--NOUN-ADP(con) (2)</li>
+      <li>VERB--NOUN-ADP(de) (17)</li>
+      <li>VERB--NOUN-ADP(en) (3)</li>
+      <li>VERB--NOUN-ADP(falar) (1)</li>
+      <li>VERB--NOUN-ADP(historicamente) (1)</li>
+      <li>VERB--NOUN-ADP(investir) (1)</li>
+      <li>VERB--NOUN-ADP(medio) (1)</li>
+      <li>VERB--NOUN-ADP(mentres) (1)</li>
+      <li>VERB--NOUN-ADP(precisamente)-ADP(superior) (1)</li>
+      <li>VERB--NOUN-ADP(segundo) (1)</li>
+      <li>VERB--NOUN-ADP(sobre) (1)</li>
+      <li>VERB--NOUN-ADP(só) (1)</li>
+      <li>VERB--PRON (1608)</li>
+      <li>VERB--PRON-ADP(como) (1)</li>
+      <li>VERB--PRON-ADP(para) (1)</li>
+    </ul>
+  </li>
+</ul>
 
   </td>
   <td width="50%" valign="top">
@@ -1569,6 +1620,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="50%" valign="top">
+<ul>
+  <li><a>iobj</a>
+    <ul>
+      <li>VERB--PRON (276)</li>
+    </ul>
+  </li>
+</ul>
 
   </td>
   <td width="50%" valign="top">
@@ -1618,6 +1676,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="50%" valign="top">
+<h3>Relations Overview</h3>
+
+<ul>
+<li>This corpus does not use relation subtypes.</li>
+<li>The following 13 relation types are not used in this corpus at all: <a>csubj</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>fixed</a>, <a>compound</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+</ul>
 
   </td>
   <td width="50%" valign="top">

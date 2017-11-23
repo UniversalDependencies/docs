@@ -497,6 +497,14 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <li><a>Number</a>
 
   </td>
@@ -845,6 +853,14 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
 <li><a>Definite</a>
 
   </td>
@@ -867,8 +883,6 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<h3>Degree and Polarity</h3>
-
 
   </td>
   <td width="50%" valign="top">
@@ -880,12 +894,23 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<li><a>Degree</a>
+<h3>Degree and Polarity</h3>
+
 
   </td>
   <td width="50%" valign="top">
 <h3>Degree and Polarity</h3>
 
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<li><a>Degree</a>
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>Degree</a>
 
   </td>
 </tr>
@@ -899,42 +924,6 @@ udver: '2'
       </ul>
     </li>
   </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Sup
-      <ul>
-        <li>ADJ: πρῶτον, τάχιστα, ἄριστοι, πρῶτος, αἰνότατε, πρῶτα, ἄριστος, μέγιστον, φίλτατος, ἀκρότατον</li>
-        <li>ADV: μάλιστα, καὶ, μάλιστ̓, ἑκαστάτω, κάλλιστ̓, μάλισθ̓, ἐγγυτάτω, ἰθύντατα, ῥᾷστα</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-<li><a>Degree</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
 
   </td>
   <td width="50%" valign="top">
@@ -967,6 +956,14 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+  <ul>
+    <li>Sup
+      <ul>
+        <li>ADJ: πρῶτον, τάχιστα, ἄριστοι, πρῶτος, αἰνότατε, πρῶτα, ἄριστος, μέγιστον, φίλτατος, ἀκρότατον</li>
+        <li>ADV: μάλιστα, καὶ, μάλιστ̓, ἑκαστάτω, κάλλιστ̓, μάλισθ̓, ἐγγυτάτω, ἰθύντατα, ῥᾷστα</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="50%" valign="top">
@@ -983,6 +980,9 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="50%" valign="top">
@@ -1018,8 +1018,6 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<h3>Verbal Features</h3>
-
 
   </td>
   <td width="50%" valign="top">
@@ -1031,10 +1029,39 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<h3>Verbal Features</h3>
+
+
+  </td>
+  <td width="50%" valign="top">
+<h3>Verbal Features</h3>
+
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <li><a>Aspect</a>
 
   </td>
   <td width="50%" valign="top">
+<li><a>Aspect</a>
 
   </td>
 </tr>
@@ -1045,61 +1072,6 @@ udver: '2'
       <ul>
         <li>VERB-Fin: ἦν, προσέφη, ἔφη, ἦσαν, προσηύδα, ἔφατ̓, ἦ, ἔφαθ̓, ἠμείβετ̓, εἶχε</li>
         <li>X-Fin: φύεν</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Perf
-      <ul>
-        <li>VERB-Fin: οἶδα, οἶδ̓, οἶσθα, ἔοικεν, ἴδμεν, οἶσθ̓, τέτυκται, ἔοικε, εἴρηται, τέθνηκεν</li>
-        <li>VERB-Inf: γεγονέναι, εἰδέναι, κεκλῆσθαι, γεγενῆσθαι, λελύσθαι, μεμνῆσθαι, πεποιηκέναι, πεποιῆσθαι, προτετύχθαι, τετιμῆσθαι</li>
-        <li>VERB-Part: εἰδὼς, μεμαῶτα, τετελεσμένον, ἐοικώς, μεμνημένος, ἑσταότ̓, γεγονὼς, καθήμενοι, ἐοικότες, ἐοικὼς</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-<h3>Verbal Features</h3>
-
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-<li><a>Mood</a>
-
-  </td>
-  <td width="50%" valign="top">
-<li><a>Aspect</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Imp
-      <ul>
-        <li>VERB-Fin: δὸς, ἴθι, ἴτω, ἔα, ἴθ̓, εἰπὲ, θάρσει, βάλλεο, δέξαι, λέγ̓</li>
       </ul>
     </li>
   </ul>
@@ -1120,36 +1092,14 @@ udver: '2'
 <tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Ind
+    <li>Perf
       <ul>
-        <li>VERB-Fin: ἦν, προσέφη, ἔφη, ἔχει, φησιν, ἦσαν, φάτο, ἐστὶ, προσηύδα, ἐστι</li>
-        <li>X-Fin: ξύμβληντο, φύεν, ἔσχεθον</li>
+        <li>VERB-Fin: οἶδα, οἶδ̓, οἶσθα, ἔοικεν, ἴδμεν, οἶσθ̓, τέτυκται, ἔοικε, εἴρηται, τέθνηκεν</li>
+        <li>VERB-Inf: γεγονέναι, εἰδέναι, κεκλῆσθαι, γεγενῆσθαι, λελύσθαι, μεμνῆσθαι, πεποιηκέναι, πεποιῆσθαι, προτετύχθαι, τετιμῆσθαι</li>
+        <li>VERB-Part: εἰδὼς, μεμαῶτα, τετελεσμένον, ἐοικώς, μεμνημένος, ἑσταότ̓, γεγονὼς, καθήμενοι, ἐοικότες, ἐοικὼς</li>
       </ul>
     </li>
   </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Opt
-      <ul>
-        <li>VERB-Fin: εἴη, γένοιτο, γένοιτ̓, ἔχοι, ἴδοι, εἴην, εἴποι, λάβοι, μέλλοι, ἵκοιτο</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
 
   </td>
   <td width="50%" valign="top">
@@ -1169,21 +1119,6 @@ udver: '2'
 <tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Sub
-      <ul>
-        <li>VERB-Fin: γένηται, εἴπω, ᾖ, πειθώμεθα, δώῃ, ἴομεν, ἔλθῃ, ἵκηται, εἴπῃς, τύχῃ</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
   </ul>
 </li>
 
@@ -1197,7 +1132,7 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<li><a>Tense</a>
+<li><a>Mood</a>
 
   </td>
   <td width="50%" valign="top">
@@ -1208,22 +1143,12 @@ udver: '2'
 <tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Fut
+    <li>Imp
       <ul>
-        <li>VERB-Fin: ἔσται, ἐρέω, δώσω, ἔσσεται, ἐρεῖς, φράσω, ἐξερέω, πείσομαι, δείξω, εἰσόμεσθα</li>
-        <li>VERB-Inf: δώσειν, ἔσεσθαι, βαλέειν, ποιήσειν, ἵξεσθαι, ῥέξειν, ἕξειν, ὄψεσθαι, αἱρήσειν, καταλύσειν</li>
-        <li>VERB-Part: καλουμένην, ἀγγελέουσα, καλουμένας, καλουμένων, ἐρέων, ἐσομένην, βοηθήσοντα, δεησομένους, κακκείοντες, καλεόμενον</li>
+        <li>VERB-Fin: δὸς, ἴθι, ἴτω, ἔα, ἴθ̓, εἰπὲ, θάρσει, βάλλεο, δέξαι, λέγ̓</li>
       </ul>
     </li>
   </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
 
   </td>
   <td width="50%" valign="top">
@@ -1240,6 +1165,14 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+  <ul>
+    <li>Ind
+      <ul>
+        <li>VERB-Fin: ἦν, προσέφη, ἔφη, ἔχει, φησιν, ἦσαν, φάτο, ἐστὶ, προσηύδα, ἐστι</li>
+        <li>X-Fin: ξύμβληντο, φύεν, ἔσχεθον</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="50%" valign="top">
@@ -1256,6 +1189,13 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+  <ul>
+    <li>Opt
+      <ul>
+        <li>VERB-Fin: εἴη, γένοιτο, γένοιτ̓, ἔχοι, ἴδοι, εἴην, εἴποι, λάβοι, μέλλοι, ἵκοιτο</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="50%" valign="top">
@@ -1273,58 +1213,12 @@ udver: '2'
 <tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Past
+    <li>Sub
       <ul>
-        <li>VERB: ἦν, προσέφη, ἔφη, γενέσθαι, ἦσαν, φάτο, προσηύδα, ἰδὼν, εἰπὼν, ἔφατ̓</li>
-        <li>VERB-Fin: ἦν, προσέφη, ἔφη, ἦσαν, φάτο, προσηύδα, ἔφατ̓, ἐγένετο, βῆ, ἦ</li>
-        <li>VERB-Inf: γενέσθαι, εἰπεῖν, λαβεῖν, ἰδεῖν, θανεῖν, ἐλθεῖν, γεγονέναι, δοῦναι, μαχέσασθαι, μαθεῖν</li>
-        <li>VERB-Part: ἰδὼν, εἰπὼν, φωνήσας, λαβὼν, ἐλθὼν, γενομένης, γενόμενος, πεσών, ἑλὼν, εἰδὼς</li>
-        <li>X-Fin: ξύμβληντο, φύεν, ἔσχεθον</li>
+        <li>VERB-Fin: γένηται, εἴπω, ᾖ, πειθώμεθα, δώῃ, ἴομεν, ἔλθῃ, ἵκηται, εἴπῃς, τύχῃ</li>
       </ul>
     </li>
   </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Pqp
-      <ul>
-        <li>VERB-Fin: ὀρώρει, ἕστασαν, ᾔδη, ἑστήκει, ἧστο, βεβήκει, ἐφέστασαν, μέμασαν, τέτατο, τέτυκτο</li>
-        <li>VERB-Part: ἠγκυλημένος</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Pres
-      <ul>
-        <li>VERB: εἶναι, ἔχων, ἔχει, φησιν, ἐστὶ, ἐστι, ἔχειν, ἐστιν, ἔχοντες, φησι</li>
-        <li>VERB-Fin: ἔχει, φησιν, ἐστὶ, ἐστι, ἐστιν, φησι, χρὴ, φησὶν, εἴη, ἔχω</li>
-        <li>VERB-Inf: εἶναι, ἔχειν, μάχεσθαι, λέγειν, ἰέναι, ἔμμεναι, φέρειν, πολεμίζειν, φρονεῖν, νέεσθαι</li>
-        <li>VERB-Part: ἔχων, ἔχοντες, ὢν, λέγων, ἐόντα, ἐὼν, ἀπαμειβόμενος, φέρων, ἄγων, ἔχοντα</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
 
   </td>
   <td width="50%" valign="top">
@@ -1355,7 +1249,7 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<li><a>Voice</a>
+<li><a>Tense</a>
 
   </td>
   <td width="50%" valign="top">
@@ -1366,24 +1260,14 @@ udver: '2'
 <tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Act
+    <li>Fut
       <ul>
-        <li>VERB: ἦν, εἶναι, ἔχων, προσέφη, ἔφη, ἔχει, φησιν, ἦσαν, ἐστὶ, προσηύδα</li>
-        <li>VERB-Fin: ἦν, προσέφη, ἔφη, ἔχει, φησιν, ἦσαν, ἐστὶ, προσηύδα, ἐστι, ἐστιν</li>
-        <li>VERB-Inf: εἶναι, ἔχειν, λέγειν, ἰέναι, εἰπεῖν, ἔμμεναι, φέρειν, λαβεῖν, ἰδεῖν, πολεμίζειν</li>
-        <li>VERB-Part: ἔχων, ἰδὼν, εἰπὼν, ἔχοντες, ὢν, λέγων, ἐόντα, ἐὼν, φωνήσας, λαβὼν</li>
-        <li>X-Fin: φύεν, ἔσχεθον</li>
+        <li>VERB-Fin: ἔσται, ἐρέω, δώσω, ἔσσεται, ἐρεῖς, φράσω, ἐξερέω, πείσομαι, δείξω, εἰσόμεσθα</li>
+        <li>VERB-Inf: δώσειν, ἔσεσθαι, βαλέειν, ποιήσειν, ἵξεσθαι, ῥέξειν, ἕξειν, ὄψεσθαι, αἱρήσειν, καταλύσειν</li>
+        <li>VERB-Part: καλουμένην, ἀγγελέουσα, καλουμένας, καλουμένων, ἐρέων, ἐσομένην, βοηθήσοντα, δεησομένους, κακκείοντες, καλεόμενον</li>
       </ul>
     </li>
   </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
 
   </td>
   <td width="50%" valign="top">
@@ -1405,41 +1289,16 @@ udver: '2'
 <tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Mid
+    <li>Past
       <ul>
-        <li>VERB-Fin: φάτο, ἔφατ̓, ἐγένετο, ἐγένοντο, ἔφαθ̓, ἠμείβετ̓, ἕποντο, ἔσται, λέγεται, γένηται</li>
-        <li>VERB-Inf: γενέσθαι, μάχεσθαι, νέεσθαι, ποιεῖσθαι, χρῆσθαι, γίνεσθαι, μαχέσασθαι, ἕπεσθαι, κεῖσθαι, ἀρέσθαι</li>
-        <li>VERB-Part: ἀπαμειβόμενος, γενομένης, γενόμενος, εὐχόμενος, βουλόμενος, βουλόμενοι, γενομένην, γενόμενον, κείμενον, ἱσταμένη</li>
-        <li>X-Fin: ξύμβληντο</li>
+        <li>VERB: ἦν, προσέφη, ἔφη, γενέσθαι, ἦσαν, φάτο, προσηύδα, ἰδὼν, εἰπὼν, ἔφατ̓</li>
+        <li>VERB-Fin: ἦν, προσέφη, ἔφη, ἦσαν, φάτο, προσηύδα, ἔφατ̓, ἐγένετο, βῆ, ἦ</li>
+        <li>VERB-Inf: γενέσθαι, εἰπεῖν, λαβεῖν, ἰδεῖν, θανεῖν, ἐλθεῖν, γεγονέναι, δοῦναι, μαχέσασθαι, μαθεῖν</li>
+        <li>VERB-Part: ἰδὼν, εἰπὼν, φωνήσας, λαβὼν, ἐλθὼν, γενομένης, γενόμενος, πεσών, ἑλὼν, εἰδὼς</li>
+        <li>X-Fin: ξύμβληντο, φύεν, ἔσχεθον</li>
       </ul>
     </li>
   </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Pass
-      <ul>
-        <li>VERB: ἐτύχθη, ἀχνύμενοί, ἐπράχθη, ἐρασθεὶς, δαμῆναι, θωρηχθέντες, τυπεὶς, ἠράσθη, ἤχθη, δαμέντες</li>
-        <li>VERB-Fin: ἐτύχθη, ἐπράχθη, ἠράσθη, ἤχθη, διεφθάρησαν, πάγη, χύτο, ἠναγκάσθησαν, πελεμίχθη, φάνη</li>
-        <li>VERB-Inf: δαμῆναι, αὐξηθῆναι, μιγήμεναι, μιγῆναι, ἀλήμεναι, ἀναιρεθῆναι, ὁρμηθῆναι, δαμήμεναι, εὐνηθῆναι, θωρηχθῆναι</li>
-        <li>VERB-Part: ἀχνύμενοί, ἐρασθεὶς, θωρηχθέντες, τυπεὶς, δαμέντες, φοβηθέντες, γυμνωθέντα, πεμφθέντες, πληγεὶς, συνταχθέντες</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
 
   </td>
   <td width="50%" valign="top">
@@ -1459,6 +1318,14 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+  <ul>
+    <li>Pqp
+      <ul>
+        <li>VERB-Fin: ὀρώρει, ἕστασαν, ᾔδη, ἑστήκει, ἧστο, βεβήκει, ἐφέστασαν, μέμασαν, τέτατο, τέτυκτο</li>
+        <li>VERB-Part: ἠγκυλημένος</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="50%" valign="top">
@@ -1474,6 +1341,16 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+  <ul>
+    <li>Pres
+      <ul>
+        <li>VERB: εἶναι, ἔχων, ἔχει, φησιν, ἐστὶ, ἐστι, ἔχειν, ἐστιν, ἔχοντες, φησι</li>
+        <li>VERB-Fin: ἔχει, φησιν, ἐστὶ, ἐστι, ἐστιν, φησι, χρὴ, φησὶν, εἴη, ἔχω</li>
+        <li>VERB-Inf: εἶναι, ἔχειν, μάχεσθαι, λέγειν, ἰέναι, ἔμμεναι, φέρειν, πολεμίζειν, φρονεῖν, νέεσθαι</li>
+        <li>VERB-Part: ἔχων, ἔχοντες, ὢν, λέγων, ἐόντα, ἐὼν, ἀπαμειβόμενος, φέρων, ἄγων, ἔχοντα</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="50%" valign="top">
@@ -1508,6 +1385,7 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+<li><a>Voice</a>
 
   </td>
   <td width="50%" valign="top">
@@ -1517,6 +1395,17 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+  <ul>
+    <li>Act
+      <ul>
+        <li>VERB: ἦν, εἶναι, ἔχων, προσέφη, ἔφη, ἔχει, φησιν, ἦσαν, ἐστὶ, προσηύδα</li>
+        <li>VERB-Fin: ἦν, προσέφη, ἔφη, ἔχει, φησιν, ἦσαν, ἐστὶ, προσηύδα, ἐστι, ἐστιν</li>
+        <li>VERB-Inf: εἶναι, ἔχειν, λέγειν, ἰέναι, εἰπεῖν, ἔμμεναι, φέρειν, λαβεῖν, ἰδεῖν, πολεμίζειν</li>
+        <li>VERB-Part: ἔχων, ἰδὼν, εἰπὼν, ἔχοντες, ὢν, λέγων, ἐόντα, ἐὼν, φωνήσας, λαβὼν</li>
+        <li>X-Fin: φύεν, ἔσχεθον</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="50%" valign="top">
@@ -1537,6 +1426,16 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+  <ul>
+    <li>Mid
+      <ul>
+        <li>VERB-Fin: φάτο, ἔφατ̓, ἐγένετο, ἐγένοντο, ἔφαθ̓, ἠμείβετ̓, ἕποντο, ἔσται, λέγεται, γένηται</li>
+        <li>VERB-Inf: γενέσθαι, μάχεσθαι, νέεσθαι, ποιεῖσθαι, χρῆσθαι, γίνεσθαι, μαχέσασθαι, ἕπεσθαι, κεῖσθαι, ἀρέσθαι</li>
+        <li>VERB-Part: ἀπαμειβόμενος, γενομένης, γενόμενος, εὐχόμενος, βουλόμενος, βουλόμενοι, γενομένην, γενόμενον, κείμενον, ἱσταμένη</li>
+        <li>X-Fin: ξύμβληντο</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="50%" valign="top">
@@ -1574,6 +1473,16 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+  <ul>
+    <li>Pass
+      <ul>
+        <li>VERB: ἐτύχθη, ἀχνύμενοί, ἐπράχθη, ἐρασθεὶς, δαμῆναι, θωρηχθέντες, τυπεὶς, ἠράσθη, ἤχθη, δαμέντες</li>
+        <li>VERB-Fin: ἐτύχθη, ἐπράχθη, ἠράσθη, ἤχθη, διεφθάρησαν, πάγη, χύτο, ἠναγκάσθησαν, πελεμίχθη, φάνη</li>
+        <li>VERB-Inf: δαμῆναι, αὐξηθῆναι, μιγήμεναι, μιγῆναι, ἀλήμεναι, ἀναιρεθῆναι, ὁρμηθῆναι, δαμήμεναι, εὐνηθῆναι, θωρηχθῆναι</li>
+        <li>VERB-Part: ἀχνύμενοί, ἐρασθεὶς, θωρηχθέντες, τυπεὶς, δαμέντες, φοβηθέντες, γυμνωθέντα, πεμφθέντες, πληγεὶς, συνταχθέντες</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="50%" valign="top">
@@ -1591,8 +1500,9 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<h3>Pronouns, Determiners, Quantifiers</h3>
-
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="50%" valign="top">
@@ -1612,6 +1522,16 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<h3>Pronouns, Determiners, Quantifiers</h3>
+
 
   </td>
   <td width="50%" valign="top">
@@ -1720,7 +1640,6 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<li><a>Person</a>
 
   </td>
   <td width="50%" valign="top">
@@ -1729,15 +1648,6 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-  <ul>
-    <li>1
-      <ul>
-        <li>PRON: ἐγὼ, μοι, με, ἡμᾶς, ἡμῖν, ἡμῶν, ἡμεῖς, ἐμὲ, ἐμοὶ, ἐγώ</li>
-        <li>VERB: ἔχω, λέγω, οἶδα, ἐρέω, ὀΐω, οἶδ̓, δοκῶ, φημι, ὁρῶ, εἶμι</li>
-        <li>VERB-Fin: ἔχω, λέγω, οἶδα, ἐρέω, ὀΐω, οἶδ̓, δοκῶ, φημι, ὁρῶ, εἶμι</li>
-      </ul>
-    </li>
-  </ul>
 
   </td>
   <td width="50%" valign="top">
@@ -1746,44 +1656,6 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-  <ul>
-    <li>2
-      <ul>
-        <li>PRON: σε, σὺ, σοι, ὑμῖν, σὲ, σοὶ, σύ, τοι, σου, ὑμεῖς</li>
-        <li>VERB: λέγεις, ἔχεις, ἔειπες, ἐσσι, οἶσθα, εἶ, δὸς, ἐθέλεις, εἶπας, ἴθι</li>
-        <li>VERB-Fin: λέγεις, ἔχεις, ἔειπες, ἐσσι, οἶσθα, εἶ, δὸς, ἐθέλεις, εἶπας, ἴθι</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-    <li>3
-      <ul>
-        <li>PRON: μιν</li>
-        <li>VERB-Fin: ἦν, προσέφη, ἔφη, ἔχει, φησιν, ἦσαν, φάτο, ἐστὶ, προσηύδα, ἐστι</li>
-        <li>VERB-Inf: κηρύξαι, πεῖραν</li>
-        <li>X-Fin: ξύμβληντο, φύεν, ἔσχεθον</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
 
   </td>
   <td width="50%" valign="top">
@@ -1854,8 +1726,7 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<h3>Other Features</h3>
-
+<li><a>Person</a>
 
   </td>
   <td width="50%" valign="top">
@@ -1865,6 +1736,15 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+  <ul>
+    <li>1
+      <ul>
+        <li>PRON: ἐγὼ, μοι, με, ἡμᾶς, ἡμῖν, ἡμῶν, ἡμεῖς, ἐμὲ, ἐμοὶ, ἐγώ</li>
+        <li>VERB: ἔχω, λέγω, οἶδα, ἐρέω, ὀΐω, οἶδ̓, δοκῶ, φημι, ὁρῶ, εἶμι</li>
+        <li>VERB-Fin: ἔχω, λέγω, οἶδα, ἐρέω, ὀΐω, οἶδ̓, δοκῶ, φημι, ὁρῶ, εἶμι</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="50%" valign="top">
@@ -1883,6 +1763,15 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+  <ul>
+    <li>2
+      <ul>
+        <li>PRON: σε, σὺ, σοι, ὑμῖν, σὲ, σοὶ, σύ, τοι, σου, ὑμεῖς</li>
+        <li>VERB: λέγεις, ἔχεις, ἔειπες, ἐσσι, οἶσθα, εἶ, δὸς, ἐθέλεις, εἶπας, ἴθι</li>
+        <li>VERB-Fin: λέγεις, ἔχεις, ἔειπες, ἐσσι, οἶσθα, εἶ, δὸς, ἐθέλεις, εἶπας, ἴθι</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="50%" valign="top">
@@ -1901,6 +1790,16 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+  <ul>
+    <li>3
+      <ul>
+        <li>PRON: μιν</li>
+        <li>VERB-Fin: ἦν, προσέφη, ἔφη, ἔχει, φησιν, ἦσαν, φάτο, ἐστὶ, προσηύδα, ἐστι</li>
+        <li>VERB-Inf: κηρύξαι, πεῖραν</li>
+        <li>X-Fin: ξύμβληντο, φύεν, ἔσχεθον</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="50%" valign="top">
@@ -1919,13 +1818,9 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<h2>Syntax</h2>
-
-<h3>Auxiliary Verbs and Copula</h3>
-
-<ul>
-<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: εἰμί.</li>
-</ul>
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="50%" valign="top">
@@ -1937,12 +1832,98 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<h3>Other Features</h3>
+
+
+  </td>
+  <td width="50%" valign="top">
+<h3>Other Features</h3>
+
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<h2>Syntax</h2>
+
+<h3>Auxiliary Verbs and Copula</h3>
+
+<ul>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: εἰμί.</li>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+<h2>Syntax</h2>
+
+<h3>Auxiliary Verbs and Copula</h3>
+
+<ul>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: εἰμί#1.</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <ul>
 <li>This corpus uses 9 lemmas as auxiliaries (<a>aux</a>). Examples: δέ, ἔχω, καί, γάρ, τε, μέν, εἶτα, οὐ, οὖν.</li>
 </ul>
 
   </td>
   <td width="50%" valign="top">
+<ul>
+<li>This corpus uses 5 lemmas as auxiliaries (<a>aux</a>). Examples: εἰμί#1, πωλέω, ἀγοράζω, ἀπέρχομαι, ἔχω.</li>
+<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: εἰμί#1, εἶμι#2.</li>
+</ul>
 
   </td>
 </tr>
@@ -1982,107 +1963,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     </ul>
   </li>
 </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-<ul>
-  <li><a>obj</a>
-    <ul>
-      <li>VERB--NOUN-Acc (2)</li>
-      <li>VERB-Fin--NOUN-Acc (5467)</li>
-      <li>VERB-Fin--NOUN-Dat (612)</li>
-      <li>VERB-Fin--NOUN-Gen (730)</li>
-      <li>VERB-Fin--NOUN-Nom (51)</li>
-      <li>VERB-Fin--NOUN-Voc (8)</li>
-      <li>VERB-Fin--PRON (5)</li>
-      <li>VERB-Fin--PRON-Acc (2409)</li>
-      <li>VERB-Fin--PRON-Dat (516)</li>
-      <li>VERB-Fin--PRON-Gen (226)</li>
-      <li>VERB-Fin--PRON-Nom (13)</li>
-      <li>VERB-Inf--NOUN-Acc (1047)</li>
-      <li>VERB-Inf--NOUN-Dat (168)</li>
-      <li>VERB-Inf--NOUN-Gen (137)</li>
-      <li>VERB-Inf--NOUN-Nom (9)</li>
-      <li>VERB-Inf--NOUN-Voc (2)</li>
-      <li>VERB-Inf--PRON-Acc (276)</li>
-      <li>VERB-Inf--PRON-Dat (73)</li>
-      <li>VERB-Inf--PRON-Gen (42)</li>
-      <li>VERB-Inf--PRON-Nom (3)</li>
-      <li>VERB-Part--NOUN-Acc (1987)</li>
-      <li>VERB-Part--NOUN-Dat (433)</li>
-      <li>VERB-Part--NOUN-Gen (311)</li>
-      <li>VERB-Part--NOUN-Loc (1)</li>
-      <li>VERB-Part--NOUN-Nom (17)</li>
-      <li>VERB-Part--NOUN-Voc (3)</li>
-      <li>VERB-Part--PRON-Acc (375)</li>
-      <li>VERB-Part--PRON-Dat (97)</li>
-      <li>VERB-Part--PRON-Gen (48)</li>
-      <li>VERB-Part--PRON-Nom (4)</li>
-    </ul>
-  </li>
-</ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-<ul>
-  <li><a>iobj</a>
-    <ul>
-      <li>VERB-Fin--NOUN-Dat (447)</li>
-      <li>VERB-Fin--PRON-Dat (582)</li>
-      <li>VERB-Inf--NOUN-Dat (89)</li>
-      <li>VERB-Inf--PRON-Dat (58)</li>
-      <li>VERB-Part--NOUN-Dat (111)</li>
-      <li>VERB-Part--PRON-Dat (50)</li>
-    </ul>
-  </li>
-</ul>
-
-  </td>
-  <td width="50%" valign="top">
-<h3>Other Features</h3>
-
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-<h2>Syntax</h2>
-
-<h3>Auxiliary Verbs and Copula</h3>
-
-<ul>
-<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: εἰμί#1.</li>
-</ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-<ul>
-<li>This corpus uses 5 lemmas as auxiliaries (<a>aux</a>). Examples: εἰμί#1, πωλέω, ἀγοράζω, ἀπέρχομαι, ἔχω.</li>
-<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: εἰμί#1, εἶμι#2.</li>
-</ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
 
   </td>
   <td width="50%" valign="top">
@@ -2147,11 +2027,41 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="50%" valign="top">
-<h3>Relations Overview</h3>
-
 <ul>
-<li>This corpus does not use relation subtypes.</li>
-<li>The following 12 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+  <li><a>obj</a>
+    <ul>
+      <li>VERB--NOUN-Acc (2)</li>
+      <li>VERB-Fin--NOUN-Acc (5467)</li>
+      <li>VERB-Fin--NOUN-Dat (612)</li>
+      <li>VERB-Fin--NOUN-Gen (730)</li>
+      <li>VERB-Fin--NOUN-Nom (51)</li>
+      <li>VERB-Fin--NOUN-Voc (8)</li>
+      <li>VERB-Fin--PRON (5)</li>
+      <li>VERB-Fin--PRON-Acc (2409)</li>
+      <li>VERB-Fin--PRON-Dat (516)</li>
+      <li>VERB-Fin--PRON-Gen (226)</li>
+      <li>VERB-Fin--PRON-Nom (13)</li>
+      <li>VERB-Inf--NOUN-Acc (1047)</li>
+      <li>VERB-Inf--NOUN-Dat (168)</li>
+      <li>VERB-Inf--NOUN-Gen (137)</li>
+      <li>VERB-Inf--NOUN-Nom (9)</li>
+      <li>VERB-Inf--NOUN-Voc (2)</li>
+      <li>VERB-Inf--PRON-Acc (276)</li>
+      <li>VERB-Inf--PRON-Dat (73)</li>
+      <li>VERB-Inf--PRON-Gen (42)</li>
+      <li>VERB-Inf--PRON-Nom (3)</li>
+      <li>VERB-Part--NOUN-Acc (1987)</li>
+      <li>VERB-Part--NOUN-Dat (433)</li>
+      <li>VERB-Part--NOUN-Gen (311)</li>
+      <li>VERB-Part--NOUN-Loc (1)</li>
+      <li>VERB-Part--NOUN-Nom (17)</li>
+      <li>VERB-Part--NOUN-Voc (3)</li>
+      <li>VERB-Part--PRON-Acc (375)</li>
+      <li>VERB-Part--PRON-Dat (97)</li>
+      <li>VERB-Part--PRON-Gen (48)</li>
+      <li>VERB-Part--PRON-Nom (4)</li>
+    </ul>
+  </li>
 </ul>
 
   </td>
@@ -2167,6 +2077,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="50%" valign="top">
+<ul>
+  <li><a>iobj</a>
+    <ul>
+      <li>VERB-Fin--NOUN-Dat (447)</li>
+      <li>VERB-Fin--PRON-Dat (582)</li>
+      <li>VERB-Inf--NOUN-Dat (89)</li>
+      <li>VERB-Inf--PRON-Dat (58)</li>
+      <li>VERB-Part--NOUN-Dat (111)</li>
+      <li>VERB-Part--PRON-Dat (50)</li>
+    </ul>
+  </li>
+</ul>
 
   </td>
   <td width="50%" valign="top">
@@ -2228,6 +2150,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="50%" valign="top">
+<h3>Relations Overview</h3>
+
+<ul>
+<li>This corpus does not use relation subtypes.</li>
+<li>The following 12 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+</ul>
 
   </td>
   <td width="50%" valign="top">

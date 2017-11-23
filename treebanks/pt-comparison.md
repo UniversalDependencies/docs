@@ -587,6 +587,17 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
 <li><a>Number</a>
 
   </td>
@@ -869,7 +880,6 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
-<li><a>Definite</a>
 
   </td>
   <td width="33%" valign="top">
@@ -881,13 +891,6 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
-  <ul>
-    <li>Def
-      <ul>
-        <li>DET: o, a, os, as</li>
-      </ul>
-    </li>
-  </ul>
 
   </td>
   <td width="33%" valign="top">
@@ -900,9 +903,7 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
-  <ul>
-  </ul>
-</li>
+<li><a>Definite</a>
 
   </td>
   <td width="33%" valign="top">
@@ -923,6 +924,13 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
+  <ul>
+    <li>Def
+      <ul>
+        <li>DET: o, a, os, as</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="33%" valign="top">
@@ -956,6 +964,22 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+<h3>Degree and Polarity</h3>
+
+
+  </td>
+  <td width="33%" valign="top">
 <h3>Degree and Polarity</h3>
 
 
@@ -968,8 +992,6 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
-<h3>Degree and Polarity</h3>
-
 
   </td>
   <td width="33%" valign="top">
@@ -983,6 +1005,14 @@ udver: '2'
   <td width="33%" valign="top">
 
   </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
   <td width="33%" valign="top">
 <li><a>Polarity</a>
 
@@ -991,9 +1021,21 @@ udver: '2'
 <li><a>Polarity</a>
 
   </td>
+  <td width="33%" valign="top">
+<li><a>Polarity</a>
+
+  </td>
 </tr>
 <tr>
   <td width="33%" valign="top">
+  <ul>
+    <li>Neg
+      <ul>
+        <li>ADV: não, nada</li>
+        <li>INTJ: não</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="33%" valign="top">
@@ -1021,7 +1063,9 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
-<li><a>Polarity</a>
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="33%" valign="top">
@@ -1039,14 +1083,6 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
-  <ul>
-    <li>Neg
-      <ul>
-        <li>ADV: não, nada</li>
-        <li>INTJ: não</li>
-      </ul>
-    </li>
-  </ul>
 
   </td>
   <td width="33%" valign="top">
@@ -1058,9 +1094,6 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
-  <ul>
-  </ul>
-</li>
 
   </td>
   <td width="33%" valign="top">
@@ -1072,6 +1105,8 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
+<h3>Verbal Features</h3>
+
 
   </td>
   <td width="33%" valign="top">
@@ -1087,8 +1122,6 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
-<h3>Verbal Features</h3>
-
 
   </td>
   <td width="33%" valign="top">
@@ -1431,8 +1464,6 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
-<h3>Pronouns, Determiners, Quantifiers</h3>
-
 
   </td>
   <td width="33%" valign="top">
@@ -1448,25 +1479,6 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
-<li><a>PronType</a>
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-  <ul>
-    <li>Art
-      <ul>
-        <li>DET: o, a, os, as</li>
-      </ul>
-    </li>
-  </ul>
 
   </td>
   <td width="33%" valign="top">
@@ -1501,9 +1513,6 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
-  <ul>
-  </ul>
-</li>
 
   </td>
   <td width="33%" valign="top">
@@ -1515,12 +1524,9 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
-<li><a>NumType</a>
 
   </td>
   <td width="33%" valign="top">
-<h3>Pronouns, Determiners, Quantifiers</h3>
-
 
   </td>
 </tr>
@@ -1529,13 +1535,6 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
-  <ul>
-    <li>Card
-      <ul>
-        <li>NUM: dois, três, mil, duas, milhões, 1, 2012, quatro, 2, bilhões</li>
-      </ul>
-    </li>
-  </ul>
 
   </td>
   <td width="33%" valign="top">
@@ -1549,31 +1548,13 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
-  <ul>
-  </ul>
-</li>
+<h3>Pronouns, Determiners, Quantifiers</h3>
+
 
   </td>
   <td width="33%" valign="top">
-<li><a>PronType</a>
+<h3>Pronouns, Determiners, Quantifiers</h3>
 
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-  <ul>
-    <li>Prs
-      <ul>
-        <li>PRON: sua, seu, suas, seus, nosso, minha, nossa, meu, meus, Nossos</li>
-      </ul>
-    </li>
-  </ul>
 
   </td>
 </tr>
@@ -1583,12 +1564,11 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
+<li><a>PronType</a>
 
   </td>
   <td width="33%" valign="top">
-  <ul>
-  </ul>
-</li>
+<li><a>PronType</a>
 
   </td>
 </tr>
@@ -1606,6 +1586,13 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
+  <ul>
+    <li>Art
+      <ul>
+        <li>DET: o, a, os, as</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="33%" valign="top">
@@ -1724,6 +1711,13 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
+  <ul>
+    <li>Prs
+      <ul>
+        <li>PRON: sua, seu, suas, seus, nosso, minha, nossa, meu, meus, Nossos</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -1774,9 +1768,15 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="33%" valign="top">
+  <ul>
+  </ul>
+</li>
 
   </td>
 </tr>
@@ -1786,6 +1786,7 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
+<li><a>NumType</a>
 
   </td>
   <td width="33%" valign="top">
@@ -1804,6 +1805,13 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
+  <ul>
+    <li>Card
+      <ul>
+        <li>NUM: dois, três, mil, duas, milhões, 1, 2012, quatro, 2, bilhões</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="33%" valign="top">
@@ -1909,98 +1917,58 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-<li><a>Person</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-  <ul>
-    <li>1
-      <ul>
-        <li>AUX: somos, Estávamos, estou, ficaria, passei, sinto</li>
-        <li>DET: os</li>
-        <li>PRON: eu, nós, nosso, minha, nossa, me, meu, meus, Nossos, mim</li>
-        <li>VERB: estamos, penso, estou, podemos, temos, conheço, precisamos, sei, vamos, Amo</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-  <ul>
-    <li>2
-      <ul>
-        <li>PRON: te</li>
-        <li>VERB: Andes</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-  <ul>
-    <li>3
-      <ul>
-        <li>ADP: consigo, nele, neles</li>
-        <li>AUX: é, foi, são, era, tornou, seria, está, foram, eram, estava</li>
-        <li>PRON: se, ele, sua, seu, eles, ela, suas, seus, o, lo</li>
-        <li>VERB: foi, é, foram, está, disse, tem, tinha, pode, há, estava</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
   <ul>
   </ul>
 </li>
 
   </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
 </tr>
 <tr>
   <td width="33%" valign="top">
@@ -2008,11 +1976,10 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
-<h3>Other Features</h3>
-
 
   </td>
   <td width="33%" valign="top">
+<li><a>Person</a>
 
   </td>
 </tr>
@@ -2036,6 +2003,16 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
+  <ul>
+    <li>1
+      <ul>
+        <li>AUX: somos, Estávamos, estou, ficaria, passei, sinto</li>
+        <li>DET: os</li>
+        <li>PRON: eu, nós, nosso, minha, nossa, me, meu, meus, Nossos, mim</li>
+        <li>VERB: estamos, penso, estou, podemos, temos, conheço, precisamos, sei, vamos, Amo</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -2056,6 +2033,14 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
+  <ul>
+    <li>2
+      <ul>
+        <li>PRON: te</li>
+        <li>VERB: Andes</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -2080,6 +2065,16 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
+  <ul>
+    <li>3
+      <ul>
+        <li>ADP: consigo, nele, neles</li>
+        <li>AUX: é, foi, são, era, tornou, seria, está, foram, eram, estava</li>
+        <li>PRON: se, ele, sua, seu, eles, ela, suas, seus, o, lo</li>
+        <li>VERB: foi, é, foram, está, disse, tem, tinha, pode, há, estava</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -2091,13 +2086,20 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
-<h2>Syntax</h2>
 
-<h3>Auxiliary Verbs and Copula</h3>
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+  </ul>
+</li>
 
-<ul>
-<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
-</ul>
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
 
   </td>
   <td width="33%" valign="top">
@@ -2109,10 +2111,39 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
-<ul>
-<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
-<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: _.</li>
-</ul>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
 
   </td>
   <td width="33%" valign="top">
@@ -2161,70 +2192,10 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
-<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
-
-Here we consider only relations between verbs (parent) and nouns or pronouns (child).
-<ul>
-  <li><a>nsubj</a>
-    <ul>
-      <li>VERB--NOUN (6627)</li>
-      <li>VERB--NOUN-ADP(_) (20)</li>
-      <li>VERB--NOUN-ADP(de) (3)</li>
-      <li>VERB--PRON (3594)</li>
-    </ul>
-  </li>
-</ul>
 
   </td>
   <td width="33%" valign="top">
   <ul>
-  </ul>
-</li>
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-<ul>
-  <li><a>obj</a>
-    <ul>
-      <li>VERB--NOUN (8895)</li>
-      <li>VERB--NOUN-ADP(_) (42)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_) (1)</li>
-      <li>VERB--NOUN-ADP(a) (1)</li>
-      <li>VERB--NOUN-ADP(de) (2)</li>
-      <li>VERB--PRON (1307)</li>
-      <li>VERB--PRON-ADP(_) (3)</li>
-    </ul>
-  </li>
-</ul>
-
-  </td>
-  <td width="33%" valign="top">
-<h3>Other Features</h3>
-
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-<li><a>Foreign</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>NOUN: capita, Select, all, and, maiorum</li>
-        <li>PROPN: Kong, ', of, -, Association, Bonds, Film, Hill, My, You</li>
-      </ul>
-    </li>
   </ul>
 </li>
 
@@ -2237,27 +2208,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="33%" valign="top">
-<ul>
-  <li><a>iobj</a>
-    <ul>
-      <li>VERB--NOUN-ADP(_) (32)</li>
-      <li>VERB--NOUN-ADP(a) (242)</li>
-      <li>VERB--PRON (85)</li>
-      <li>VERB--PRON-ADP(_) (24)</li>
-      <li>VERB--PRON-ADP(a) (3)</li>
-    </ul>
-  </li>
-</ul>
+<h3>Other Features</h3>
+
 
   </td>
   <td width="33%" valign="top">
-<h2>Syntax</h2>
+<h3>Other Features</h3>
 
-<h3>Auxiliary Verbs and Copula</h3>
-
-<ul>
-<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: _, a.</li>
-</ul>
 
   </td>
 </tr>
@@ -2303,6 +2260,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="33%" valign="top">
+<li><a>Foreign</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>NOUN: capita, Select, all, and, maiorum</li>
+        <li>PROPN: Kong, ', of, -, Association, Bonds, Film, Hill, My, You</li>
+      </ul>
+    </li>
+  </ul>
+</li>
 
   </td>
 </tr>
@@ -2318,17 +2285,22 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="33%" valign="top">
-<h3>Reflexive Verbs</h3>
+<h2>Syntax</h2>
+
+<h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-  <li>This corpus contains 11 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: _ se, _ me, _ 's, _ back, _ cá, _ in, _ nos, _ se á, _ se ão, _ up, _ água</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
 </ul>
 
   </td>
   <td width="33%" valign="top">
+<h2>Syntax</h2>
+
+<h3>Auxiliary Verbs and Copula</h3>
+
 <ul>
-<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
-<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: _.</li>
+<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: _, a.</li>
 </ul>
 
   </td>
@@ -2342,21 +2314,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="33%" valign="top">
+<ul>
+<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
+<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: _.</li>
+</ul>
 
   </td>
   <td width="33%" valign="top">
-<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
-
-Here we consider only relations between verbs (parent) and nouns or pronouns (child).
 <ul>
-  <li><a>nsubj</a>
-    <ul>
-      <li>VERB--NOUN (522)</li>
-      <li>VERB--NOUN-ADP(_) (1)</li>
-      <li>VERB--PRON (151)</li>
-      <li>VERB--PRON-Nom (173)</li>
-    </ul>
-  </li>
+<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
+<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: _.</li>
 </ul>
 
   </td>
@@ -2393,16 +2360,32 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="33%" valign="top">
+<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+
+Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+<ul>
+  <li><a>nsubj</a>
+    <ul>
+      <li>VERB--NOUN (6627)</li>
+      <li>VERB--NOUN-ADP(_) (20)</li>
+      <li>VERB--NOUN-ADP(de) (3)</li>
+      <li>VERB--PRON (3594)</li>
+    </ul>
+  </li>
+</ul>
 
   </td>
   <td width="33%" valign="top">
+<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+
+Here we consider only relations between verbs (parent) and nouns or pronouns (child).
 <ul>
-  <li><a>obj</a>
+  <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (709)</li>
-      <li>VERB--NOUN-ADP(em) (1)</li>
-      <li>VERB--PRON (34)</li>
-      <li>VERB--PRON-Acc (35)</li>
+      <li>VERB--NOUN (522)</li>
+      <li>VERB--NOUN-ADP(_) (1)</li>
+      <li>VERB--PRON (151)</li>
+      <li>VERB--PRON-Nom (173)</li>
     </ul>
   </li>
 </ul>
@@ -2444,20 +2427,29 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="33%" valign="top">
-<h3>Relations Overview</h3>
-
 <ul>
-<li>This corpus uses 9 relation subtypes: <a>acl:inf</a>, <a>acl:part</a>, <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:poss</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>xcomp:adj</a></li>
-<li>The following 2 main types are not used alone, they are always subtyped: <a>acl</a>, <a>expl</a></li>
-<li>The following 10 relation types are not used in this corpus at all: <a>obl</a>, <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+  <li><a>obj</a>
+    <ul>
+      <li>VERB--NOUN (8895)</li>
+      <li>VERB--NOUN-ADP(_) (42)</li>
+      <li>VERB--NOUN-ADP(_)-ADP(_) (1)</li>
+      <li>VERB--NOUN-ADP(a) (1)</li>
+      <li>VERB--NOUN-ADP(de) (2)</li>
+      <li>VERB--PRON (1307)</li>
+      <li>VERB--PRON-ADP(_) (3)</li>
+    </ul>
+  </li>
 </ul>
 
   </td>
   <td width="33%" valign="top">
 <ul>
-  <li><a>iobj</a>
+  <li><a>obj</a>
     <ul>
-      <li>VERB--PRON-Dat (7)</li>
+      <li>VERB--NOUN (709)</li>
+      <li>VERB--NOUN-ADP(em) (1)</li>
+      <li>VERB--PRON (34)</li>
+      <li>VERB--PRON-Acc (35)</li>
     </ul>
   </li>
 </ul>
@@ -2484,31 +2476,27 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="33%" valign="top">
+<ul>
+  <li><a>iobj</a>
+    <ul>
+      <li>VERB--NOUN-ADP(_) (32)</li>
+      <li>VERB--NOUN-ADP(a) (242)</li>
+      <li>VERB--PRON (85)</li>
+      <li>VERB--PRON-ADP(_) (24)</li>
+      <li>VERB--PRON-ADP(a) (3)</li>
+    </ul>
+  </li>
+</ul>
 
   </td>
   <td width="33%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
+<ul>
+  <li><a>iobj</a>
+    <ul>
+      <li>VERB--PRON-Dat (7)</li>
+    </ul>
+  </li>
+</ul>
 
   </td>
 </tr>
@@ -2517,15 +2505,36 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-<h3>Relations Overview</h3>
+<h3>Reflexive Verbs</h3>
 
 <ul>
-<li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:tmod</a></li>
-<li>The following 6 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
+  <li>This corpus contains 11 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: _ se, _ me, _ 's, _ back, _ cá, _ in, _ nos, _ se á, _ se ão, _ up, _ água</li>
 </ul>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
 
   </td>
 </tr>
@@ -2540,9 +2549,22 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="33%" valign="top">
+<h3>Relations Overview</h3>
+
+<ul>
+<li>This corpus uses 9 relation subtypes: <a>acl:inf</a>, <a>acl:part</a>, <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:poss</a>, <a>expl:pv</a>, <a>nsubj:pass</a>, <a>xcomp:adj</a></li>
+<li>The following 2 main types are not used alone, they are always subtyped: <a>acl</a>, <a>expl</a></li>
+<li>The following 10 relation types are not used in this corpus at all: <a>obl</a>, <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+</ul>
 
   </td>
   <td width="33%" valign="top">
+<h3>Relations Overview</h3>
+
+<ul>
+<li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:tmod</a></li>
+<li>The following 6 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
+</ul>
 
   </td>
 </tr>

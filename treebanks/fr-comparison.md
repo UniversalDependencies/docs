@@ -981,6 +981,23 @@ udver: '2'
 </tr>
 <tr>
   <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
 <li><a>Number</a>
 
   </td>
@@ -1364,6 +1381,41 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+<li><a>Definite</a>
+
+  </td>
+  <td width="20%" valign="top">
 <li><a>Definite</a>
 
   </td>
@@ -1381,6 +1433,13 @@ udver: '2'
 </tr>
 <tr>
   <td width="20%" valign="top">
+  <ul>
+    <li>Def
+      <ul>
+        <li>DET: le, la, les, l', the, l, là</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="20%" valign="top">
@@ -1419,6 +1478,13 @@ udver: '2'
 </tr>
 <tr>
   <td width="20%" valign="top">
+  <ul>
+    <li>Ind
+      <ul>
+        <li>DET: un, une, des, de, d', telle, in</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="20%" valign="top">
@@ -1459,21 +1525,6 @@ udver: '2'
 </tr>
 <tr>
   <td width="20%" valign="top">
-<li><a>Definite</a>
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="20%" valign="top">
-<h3>Degree and Polarity</h3>
-
-
-  </td>
-  <td width="20%" valign="top">
   <ul>
   </ul>
 </li>
@@ -1485,56 +1536,9 @@ udver: '2'
 </li>
 
   </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-  <ul>
-    <li>Def
-      <ul>
-        <li>DET: le, la, les, l', the, l, là</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
   <td width="20%" valign="top">
 
   </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-  <ul>
-    <li>Ind
-      <ul>
-        <li>DET: un, une, des, de, d', telle, in</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
   <td width="20%" valign="top">
   <ul>
   </ul>
@@ -1542,65 +1546,36 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
-<h3>Degree and Polarity</h3>
-
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-<h3>Degree and Polarity</h3>
-
-
-  </td>
-  <td width="20%" valign="top">
-<h3>Degree and Polarity</h3>
-
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-<h3>Degree and Polarity</h3>
-
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-<li><a>Polarity</a>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
   <ul>
-    <li>Neg
-      <ul>
-        <li>ADV: pas, ne, n', n’, plus, jamais, non, t</li>
-      </ul>
-    </li>
   </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+<h3>Degree and Polarity</h3>
+
 
   </td>
   <td width="20%" valign="top">
+<h3>Degree and Polarity</h3>
+
 
   </td>
   <td width="20%" valign="top">
+<h3>Degree and Polarity</h3>
+
+
+  </td>
+  <td width="20%" valign="top">
+<h3>Degree and Polarity</h3>
+
+
+  </td>
+  <td width="20%" valign="top">
+<h3>Degree and Polarity</h3>
+
 
   </td>
 </tr>
@@ -1610,21 +1585,15 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
-<li><a>Polarity</a>
 
   </td>
   <td width="20%" valign="top">
-  <ul>
-  </ul>
-</li>
 
   </td>
   <td width="20%" valign="top">
-<li><a>Polarity</a>
 
   </td>
   <td width="20%" valign="top">
-<li><a>Polarity</a>
 
   </td>
 </tr>
@@ -1654,6 +1623,58 @@ udver: '2'
 </tr>
 <tr>
   <td width="20%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+<li><a>Polarity</a>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Polarity</a>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Polarity</a>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Polarity</a>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Polarity</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+  <ul>
+    <li>Neg
+      <ul>
+        <li>ADV: pas, n', ne, plus, jamais, non, qu', point, guère, not</li>
+        <li>DET: aucun, aucune, no, Nul</li>
+        <li>PART: n', not</li>
+        <li>PRON: rien</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="20%" valign="top">
@@ -1667,6 +1688,13 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
+  <ul>
+    <li>Neg
+      <ul>
+        <li>ADV: pas, ne, n', n’, plus, jamais, non, t</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="20%" valign="top">
@@ -1705,9 +1733,6 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
   <ul>
   </ul>
 </li>
@@ -1719,67 +1744,61 @@ udver: '2'
 </li>
 
   </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-<li><a>Polarity</a>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-<h3>Verbal Features</h3>
-
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-  <ul>
-    <li>Neg
-      <ul>
-        <li>ADV: pas, n', ne, plus, jamais, non, qu', point, guère, not</li>
-        <li>DET: aucun, aucune, no, Nul</li>
-        <li>PART: n', not</li>
-        <li>PRON: rien</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
   <td width="20%" valign="top">
   <ul>
   </ul>
 </li>
 
   </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+</tr>
+<tr>
   <td width="20%" valign="top">
 <h3>Verbal Features</h3>
 
 
   </td>
   <td width="20%" valign="top">
+<h3>Verbal Features</h3>
+
+
+  </td>
+  <td width="20%" valign="top">
+<h3>Verbal Features</h3>
+
 
   </td>
   <td width="20%" valign="top">
@@ -1798,6 +1817,38 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+<li><a>Mood</a>
 
   </td>
   <td width="20%" valign="top">
@@ -1805,138 +1856,28 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
+<li><a>Mood</a>
 
   </td>
   <td width="20%" valign="top">
+<li><a>Mood</a>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Mood</a>
 
   </td>
 </tr>
 <tr>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
   <td width="20%" valign="top">
   <ul>
     <li>Cnd
       <ul>
-        <li>AUX: serait, rendrait, serais</li>
-        <li>VERB: pourrait, aurait, pourraient, devrait, auraient, serait, devraient, irait, aiderait, autoriserait</li>
+        <li>AUX-Fin: aurait, serait, auraient, seraient, serais, aurais, aurions, seriez, ferait, serions</li>
+        <li>VERB-Fin: pourrait, devrait, pourraient, serait, aurait, devraient, auraient, faudrait, souhaiterait, viendrait</li>
       </ul>
     </li>
   </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-    <li>Imp
-      <ul>
-        <li>VERB: Disons, Don’t, Knuck, Laisse, Tiens, Voilà</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-    <li>Ind
-      <ul>
-        <li>AUX: est, était, sont, étaient, fut, devint, appelle, sera, sommes, a</li>
-        <li>VERB: a, ont, est, avait, sont, était, fut, peut, avaient, peuvent</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-    <li>Sub
-      <ul>
-        <li>AUX: soit, fussent</li>
-        <li>VERB: aient, ait, puisse, soient, soit, aperçoive, chante, donne, décide, fasse</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-<h3>Verbal Features</h3>
-
-
-  </td>
-  <td width="20%" valign="top">
-<li><a>Mood</a>
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="20%" valign="top">
-<li><a>Mood</a>
-
-  </td>
-  <td width="20%" valign="top">
-<li><a>Mood</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
 
   </td>
   <td width="20%" valign="top">
@@ -1951,6 +1892,14 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
+  <ul>
+    <li>Cnd
+      <ul>
+        <li>AUX: serait, rendrait, serais</li>
+        <li>VERB: pourrait, aurait, pourraient, devrait, auraient, serait, devraient, irait, aiderait, autoriserait</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="20%" valign="top">
@@ -1978,6 +1927,14 @@ udver: '2'
 </tr>
 <tr>
   <td width="20%" valign="top">
+  <ul>
+    <li>Imp
+      <ul>
+        <li>AUX-Fin: soyez, sois</li>
+        <li>VERB-Fin: allez, hésitez, Rappelons, Notons, arrêtez, pensez, Cliquez, Demandez, Suivez, attendez</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="20%" valign="top">
@@ -1991,6 +1948,13 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
+  <ul>
+    <li>Imp
+      <ul>
+        <li>VERB: Disons, Don’t, Knuck, Laisse, Tiens, Voilà</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="20%" valign="top">
@@ -2016,6 +1980,14 @@ udver: '2'
 </tr>
 <tr>
   <td width="20%" valign="top">
+  <ul>
+    <li>Ind
+      <ul>
+        <li>AUX-Fin: est, a, sont, ont, était, fut, avait, ai, sera, étaient</li>
+        <li>VERB-Fin: a, peut, fait, est, trouve, devient, doit, ont, permet, faut</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="20%" valign="top">
@@ -2032,6 +2004,14 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
+  <ul>
+    <li>Ind
+      <ul>
+        <li>AUX: est, était, sont, étaient, fut, devint, appelle, sera, sommes, a</li>
+        <li>VERB: a, ont, est, avait, sont, était, fut, peut, avaient, peuvent</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="20%" valign="top">
@@ -2059,6 +2039,14 @@ udver: '2'
 </tr>
 <tr>
   <td width="20%" valign="top">
+  <ul>
+    <li>Sub
+      <ul>
+        <li>AUX-Fin: soit, ait, soient, aient, fût, eût, fasse, aie, ayez, fassent</li>
+        <li>VERB-Fin: puisse, soit, puissent, agisse, fasse, aient, ait, arrive, prenne, change</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="20%" valign="top">
@@ -2073,6 +2061,14 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
+  <ul>
+    <li>Sub
+      <ul>
+        <li>AUX: soit, fussent</li>
+        <li>VERB: aient, ait, puisse, soient, soit, aperçoive, chante, donne, décide, fasse</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="20%" valign="top">
@@ -2100,6 +2096,9 @@ udver: '2'
 </tr>
 <tr>
   <td width="20%" valign="top">
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="20%" valign="top">
@@ -2109,7 +2108,9 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
-<li><a>Tense</a>
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="20%" valign="top">
@@ -2127,155 +2128,36 @@ udver: '2'
 </tr>
 <tr>
   <td width="20%" valign="top">
+<li><a>Tense</a>
 
   </td>
   <td width="20%" valign="top">
+<li><a>Tense</a>
 
   </td>
+  <td width="20%" valign="top">
+<li><a>Tense</a>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Tense</a>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Tense</a>
+
+  </td>
+</tr>
+<tr>
   <td width="20%" valign="top">
   <ul>
     <li>Fut
       <ul>
-        <li>AUX: sera, deviendra, seront</li>
-        <li>VERB: aura, sera, devra, pourront, accueillera, assisteront, augmentera, commercialiseront, concentrerons, continuera</li>
+        <li>AUX-Fin: sera, seront, aura, auront, fera, feront, serez, aurons</li>
+        <li>VERB-Fin: aura, fera, pourra, permettra, restera, feront, sera, deviendra, permettront, devra</li>
       </ul>
     </li>
   </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-    <li>Imp
-      <ul>
-        <li>AUX: était, étaient, déclarait, faisait, laissaient, pensait, restaient, restait, étais, étions</li>
-        <li>VERB: avait, était, avaient, étaient, pouvait, comprenait, considérait, faisait, pensait, allait</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-    <li>Past
-      <ul>
-        <li>AUX: fut, devint, baptisèrent, furent, tomba</li>
-        <li>VERB: fut, furent, prit, eut, commença, dura, permit, put, retourna, retrouva</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-    <li>Pres
-      <ul>
-        <li>AUX: est, sont, appelle, serait, soit, sommes, a, apparaît, constitue, devient</li>
-        <li>VERB: a, ont, est, sont, peut, pourrait, peuvent, ai, aurait, pourraient</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-<li><a>Mood</a>
-
-  </td>
-  <td width="20%" valign="top">
-<li><a>Tense</a>
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="20%" valign="top">
-<li><a>Tense</a>
-
-  </td>
-  <td width="20%" valign="top">
-<li><a>Tense</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-  <ul>
-    <li>Cnd
-      <ul>
-        <li>AUX-Fin: aurait, serait, auraient, seraient, serais, aurais, aurions, seriez, ferait, serions</li>
-        <li>VERB-Fin: pourrait, devrait, pourraient, serait, aurait, devraient, auraient, faudrait, souhaiterait, viendrait</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
 
   </td>
   <td width="20%" valign="top">
@@ -2290,6 +2172,14 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
+  <ul>
+    <li>Fut
+      <ul>
+        <li>AUX: sera, deviendra, seront</li>
+        <li>VERB: aura, sera, devra, pourront, accueillera, assisteront, augmentera, commercialiseront, concentrerons, continuera</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="20%" valign="top">
@@ -2320,8 +2210,8 @@ udver: '2'
   <ul>
     <li>Imp
       <ul>
-        <li>AUX-Fin: soyez, sois</li>
-        <li>VERB-Fin: allez, hésitez, Rappelons, Notons, arrêtez, pensez, Cliquez, Demandez, Suivez, attendez</li>
+        <li>AUX-Fin: était, avait, étaient, avaient, avais, avions, faisait, étais, étions, fût</li>
+        <li>VERB-Fin: avait, était, devait, comptait, pouvait, faisait, allait, avaient, portait, disait</li>
       </ul>
     </li>
   </ul>
@@ -2339,6 +2229,14 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
+  <ul>
+    <li>Imp
+      <ul>
+        <li>AUX: était, étaient, déclarait, faisait, laissaient, pensait, restaient, restait, étais, étions</li>
+        <li>VERB: avait, était, avaient, étaient, pouvait, comprenait, considérait, faisait, pensait, allait</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="20%" valign="top">
@@ -2367,30 +2265,16 @@ udver: '2'
 <tr>
   <td width="20%" valign="top">
   <ul>
-    <li>Ind
+    <li>Past
       <ul>
-        <li>AUX-Fin: est, a, sont, ont, était, fut, avait, ai, sera, étaient</li>
-        <li>VERB-Fin: a, peut, fait, est, trouve, devient, doit, ont, permet, faut</li>
+        <li>AUX-Fin: fut, furent, fit, eut, firent</li>
+        <li>AUX-Part: été, fait, faite</li>
+        <li>NOUN: Fermée, aéroportée, séquestrés</li>
+        <li>VERB-Fin: prit, devint, fit, eut, donna, reçut, décida, participa, écrivit, demanda</li>
+        <li>VERB-Part: né, située, situé, eu, fait, mort, connu, nommé, née, réalisé</li>
       </ul>
     </li>
   </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
 
   </td>
   <td width="20%" valign="top">
@@ -2407,6 +2291,14 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
+  <ul>
+    <li>Past
+      <ul>
+        <li>AUX: fut, devint, baptisèrent, furent, tomba</li>
+        <li>VERB: fut, furent, prit, eut, commença, dura, permit, put, retourna, retrouva</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="20%" valign="top">
@@ -2437,6 +2329,16 @@ udver: '2'
 </tr>
 <tr>
   <td width="20%" valign="top">
+  <ul>
+    <li>Pres
+      <ul>
+        <li>AUX-Fin: est, a, sont, ont, ai, soit, avons, aurait, suis, fait</li>
+        <li>AUX-Part: étant, ayant, faisant, Etant</li>
+        <li>VERB-Fin: a, peut, fait, est, trouve, devient, doit, ont, permet, faut</li>
+        <li>VERB-Part: appartenant, concernant, faisant, permettant, ayant, portant, pouvant, prenant, utilisant, visant</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="20%" valign="top">
@@ -2455,6 +2357,14 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
+  <ul>
+    <li>Pres
+      <ul>
+        <li>AUX: est, sont, appelle, serait, soit, sommes, a, apparaît, constitue, devient</li>
+        <li>VERB: a, ont, est, sont, peut, pourrait, peuvent, ai, aurait, pourraient</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="20%" valign="top">
@@ -2490,31 +2400,6 @@ udver: '2'
 <tr>
   <td width="20%" valign="top">
   <ul>
-    <li>Sub
-      <ul>
-        <li>AUX-Fin: soit, ait, soient, aient, fût, eût, fasse, aie, ayez, fassent</li>
-        <li>VERB-Fin: puisse, soit, puissent, agisse, fasse, aient, ait, arrive, prenne, change</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-  <ul>
   </ul>
 </li>
 
@@ -2526,6 +2411,9 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="20%" valign="top">
@@ -2543,7 +2431,6 @@ udver: '2'
 </tr>
 <tr>
   <td width="20%" valign="top">
-<li><a>Tense</a>
 
   </td>
   <td width="20%" valign="top">
@@ -2558,56 +2445,6 @@ udver: '2'
   </td>
   <td width="20%" valign="top">
 <li><a>Voice</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-  <ul>
-    <li>Fut
-      <ul>
-        <li>AUX-Fin: sera, seront, aura, auront, fera, feront, serez, aurons</li>
-        <li>VERB-Fin: aura, fera, pourra, permettra, restera, feront, sera, deviendra, permettront, devra</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-  <ul>
-    <li>Imp
-      <ul>
-        <li>AUX-Fin: était, avait, étaient, avaient, avais, avions, faisait, étais, étions, fût</li>
-        <li>VERB-Fin: avait, était, devait, comptait, pouvait, faisait, allait, avaient, portait, disait</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
 
   </td>
 </tr>
@@ -2646,17 +2483,29 @@ udver: '2'
 </tr>
 <tr>
   <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
   <ul>
-    <li>Past
-      <ul>
-        <li>AUX-Fin: fut, furent, fit, eut, firent</li>
-        <li>AUX-Part: été, fait, faite</li>
-        <li>NOUN: Fermée, aéroportée, séquestrés</li>
-        <li>VERB-Fin: prit, devint, fit, eut, donna, reçut, décida, participa, écrivit, demanda</li>
-        <li>VERB-Part: né, située, situé, eu, fait, mort, connu, nommé, née, réalisé</li>
-      </ul>
-    </li>
   </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
 
   </td>
   <td width="20%" valign="top">
@@ -2674,16 +2523,6 @@ udver: '2'
 </tr>
 <tr>
   <td width="20%" valign="top">
-  <ul>
-    <li>Pres
-      <ul>
-        <li>AUX-Fin: est, a, sont, ont, ai, soit, avons, aurait, suis, fait</li>
-        <li>AUX-Part: étant, ayant, faisant, Etant</li>
-        <li>VERB-Fin: a, peut, fait, est, trouve, devient, doit, ont, permet, faut</li>
-        <li>VERB-Part: appartenant, concernant, faisant, permettant, ayant, portant, pouvant, prenant, utilisant, visant</li>
-      </ul>
-    </li>
-  </ul>
 
   </td>
   <td width="20%" valign="top">
@@ -2701,15 +2540,8 @@ udver: '2'
 </tr>
 <tr>
   <td width="20%" valign="top">
-  <ul>
-  </ul>
-</li>
+<h3>Pronouns, Determiners, Quantifiers</h3>
 
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-  </ul>
-</li>
 
   </td>
   <td width="20%" valign="top">
@@ -2718,20 +2550,24 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
+<h3>Pronouns, Determiners, Quantifiers</h3>
+
 
   </td>
   <td width="20%" valign="top">
-  <ul>
-  </ul>
-</li>
+<h3>Pronouns, Determiners, Quantifiers</h3>
+
+
+  </td>
+  <td width="20%" valign="top">
+<h3>Pronouns, Determiners, Quantifiers</h3>
+
 
   </td>
 </tr>
 <tr>
   <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
+<li><a>PronType</a>
 
   </td>
   <td width="20%" valign="top">
@@ -2739,51 +2575,7 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
-<h3>Pronouns, Determiners, Quantifiers</h3>
-
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-    <li>Prs
-      <ul>
-        <li>PRON: son, sa, ses, leur, leurs, notre, nos, mon, votre, My</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-<h3>Pronouns, Determiners, Quantifiers</h3>
-
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-  </ul>
-</li>
+<li><a>PronType</a>
 
   </td>
   <td width="20%" valign="top">
@@ -2791,16 +2583,32 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
-<h3>Pronouns, Determiners, Quantifiers</h3>
-
+<li><a>PronType</a>
 
   </td>
 </tr>
 <tr>
   <td width="20%" valign="top">
+  <ul>
+    <li>Art
+      <ul>
+        <li>DET: le, la, les, l', un, une, des, de, d', l</li>
+        <li>NOUN: Fédération, Institut</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="20%" valign="top">
+  <ul>
+    <li>Art
+      <ul>
+        <li>ADJ: _</li>
+        <li>DET: _, le, la, les, l', un, une, des, D', De</li>
+        <li>PRON: _</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="20%" valign="top">
@@ -2817,14 +2625,37 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
+  <ul>
+    <li>Art
+      <ul>
+        <li>DET: le, les, la, l', une, un, des, de, d', quelques</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
 <tr>
   <td width="20%" valign="top">
+  <ul>
+    <li>Dem
+      <ul>
+        <li>DET: cette, ce, ces, cet</li>
+        <li>PRON: c', ce, cela, celle, celui, ceux, celui-ci, celles, ça, celle-ci</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="20%" valign="top">
+  <ul>
+    <li>Dem
+      <ul>
+        <li>DET: _, Cette, Ce, ces, Cet, CETTE</li>
+        <li>PRON: _, Cela, Ce, Ceux, Celui, Celle, Celles, Ceci, Ça</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="20%" valign="top">
@@ -2843,6 +2674,14 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
+  <ul>
+    <li>Dem
+      <ul>
+        <li>DET: cette, ce, ces, cet</li>
+        <li>PRON: cela, ceci, ceux, celle-ci, celles, celle, celui, celui-ci, ça, celles-ci</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -2872,6 +2711,13 @@ udver: '2'
 </tr>
 <tr>
   <td width="20%" valign="top">
+  <ul>
+    <li>Ind
+      <ul>
+        <li>PRON: quiconque</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="20%" valign="top">
@@ -2897,9 +2743,25 @@ udver: '2'
 </tr>
 <tr>
   <td width="20%" valign="top">
+  <ul>
+    <li>Int
+      <ul>
+        <li>PRON: Que</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="20%" valign="top">
+  <ul>
+    <li>Int
+      <ul>
+        <li>ADV: _, Comment, Pourquoi, Où, Quand, Combien, Involontairement, POURQUOI</li>
+        <li>DET: _, Quelle, D', Quelles, Quels</li>
+        <li>PRON: _, qui, Que, Qu', Quoi, Lequel, Quelle, Quelles</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="20%" valign="top">
@@ -2917,11 +2779,28 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
+  <ul>
+    <li>Int
+      <ul>
+        <li>ADV: comment, pourquoi, où, combien</li>
+        <li>DET: quel, quelles, quelle, quels</li>
+        <li>PRON: Qu', Que, qui, quoi, QU'</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
 <tr>
   <td width="20%" valign="top">
+  <ul>
+    <li>Neg
+      <ul>
+        <li>DET: aucun, aucune, aucunes</li>
+        <li>PRON: personne</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="20%" valign="top">
@@ -2946,12 +2825,34 @@ udver: '2'
 </tr>
 <tr>
   <td width="20%" valign="top">
+  <ul>
+    <li>Prs
+      <ul>
+        <li>DET: son, sa, ses, leur, leurs, notre, mon, nos, ma, votre</li>
+        <li>PRON: il, se, s', elle, ils, lui, nous, je, le, vous</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="20%" valign="top">
+  <ul>
+    <li>Prs
+      <ul>
+        <li>PRON: _, Lui, Elle, Moi, Personne</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="20%" valign="top">
+  <ul>
+    <li>Prs
+      <ul>
+        <li>PRON: son, sa, ses, leur, leurs, notre, nos, mon, votre, My</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="20%" valign="top">
@@ -2967,14 +2868,35 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
+  <ul>
+    <li>Prs
+      <ul>
+        <li>PRON: lui, eux, moi, elle, vous, elles, nous, Toi</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
 <tr>
   <td width="20%" valign="top">
+  <ul>
+    <li>Rel
+      <ul>
+        <li>PRON: qui, dont, où, qu', que, lequel, laquelle, lesquels, lesquelles, ou</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="20%" valign="top">
+  <ul>
+    <li>Rel
+      <ul>
+        <li>PRON: _, Certains, Tout, rien, Personne, Chacun, Ce, Tous, qui, un</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="20%" valign="top">
@@ -2991,6 +2913,13 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
+  <ul>
+    <li>Rel
+      <ul>
+        <li>PRON: qui, que, dont, où, qu', laquelle, lequel, lesquelles, lesquels, quoi</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -3021,15 +2950,9 @@ udver: '2'
 </tr>
 <tr>
   <td width="20%" valign="top">
-<h3>Pronouns, Determiners, Quantifiers</h3>
-
-
-  </td>
-  <td width="20%" valign="top">
-<li><a>PronType</a>
-
-  </td>
-  <td width="20%" valign="top">
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="20%" valign="top">
@@ -3039,176 +2962,9 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
-<li><a>PronType</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
   <ul>
-    <li>Art
-      <ul>
-        <li>ADJ: _</li>
-        <li>DET: _, le, la, les, l', un, une, des, D', De</li>
-        <li>PRON: _</li>
-      </ul>
-    </li>
   </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-    <li>Art
-      <ul>
-        <li>DET: le, les, la, l', une, un, des, de, d', quelques</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-    <li>Dem
-      <ul>
-        <li>DET: _, Cette, Ce, ces, Cet, CETTE</li>
-        <li>PRON: _, Cela, Ce, Ceux, Celui, Celle, Celles, Ceci, Ça</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-    <li>Dem
-      <ul>
-        <li>DET: cette, ce, ces, cet</li>
-        <li>PRON: cela, ceci, ceux, celle-ci, celles, celle, celui, celui-ci, ça, celles-ci</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-    <li>Int
-      <ul>
-        <li>ADV: _, Comment, Pourquoi, Où, Quand, Combien, Involontairement, POURQUOI</li>
-        <li>DET: _, Quelle, D', Quelles, Quels</li>
-        <li>PRON: _, qui, Que, Qu', Quoi, Lequel, Quelle, Quelles</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-    <li>Int
-      <ul>
-        <li>ADV: comment, pourquoi, où, combien</li>
-        <li>DET: quel, quelles, quelle, quels</li>
-        <li>PRON: Qu', Que, qui, quoi, QU'</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-    <li>Prs
-      <ul>
-        <li>PRON: _, Lui, Elle, Moi, Personne</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-    <li>Prs
-      <ul>
-        <li>PRON: lui, eux, moi, elle, vous, elles, nous, Toi</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-    <li>Rel
-      <ul>
-        <li>PRON: _, Certains, Tout, rien, Personne, Chacun, Ce, Tous, qui, un</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-    <li>Rel
-      <ul>
-        <li>PRON: qui, que, dont, où, qu', laquelle, lequel, lesquelles, lesquels, quoi</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-<li><a>PronType</a>
+</li>
 
   </td>
   <td width="20%" valign="top">
@@ -3218,245 +2974,15 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
+  <ul>
+  </ul>
+</li>
 
   </td>
+</tr>
+<tr>
   <td width="20%" valign="top">
 <li><a>NumType</a>
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-  <ul>
-    <li>Art
-      <ul>
-        <li>DET: le, la, les, l', un, une, des, de, d', l</li>
-        <li>NOUN: Fédération, Institut</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-    <li>Card
-      <ul>
-        <li>NUM: 1, 2, deux, 3, 6, 2000, 2002, 1999, 2001, 2005</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-  <ul>
-    <li>Dem
-      <ul>
-        <li>DET: cette, ce, ces, cet</li>
-        <li>PRON: c', ce, cela, celle, celui, ceux, celui-ci, celles, ça, celle-ci</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-  <ul>
-    <li>Ind
-      <ul>
-        <li>PRON: quiconque</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-  <ul>
-    <li>Int
-      <ul>
-        <li>PRON: Que</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-  <ul>
-    <li>Neg
-      <ul>
-        <li>DET: aucun, aucune, aucunes</li>
-        <li>PRON: personne</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-    <li>Ord
-      <ul>
-        <li>ADJ: premier, première, dernier, dernière, sixième, 1er, troisième, derniers, I, III</li>
-        <li>PRON: derniers, premier, premiers</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-  <ul>
-    <li>Prs
-      <ul>
-        <li>DET: son, sa, ses, leur, leurs, notre, mon, nos, ma, votre</li>
-        <li>PRON: il, se, s', elle, ils, lui, nous, je, le, vous</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-  <ul>
-    <li>Rel
-      <ul>
-        <li>PRON: qui, dont, où, qu', que, lequel, laquelle, lesquels, lesquelles, ou</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-  <ul>
-  </ul>
-</li>
 
   </td>
   <td width="20%" valign="top">
@@ -3467,9 +2993,7 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
-  <ul>
-  </ul>
-</li>
+<li><a>NumType</a>
 
   </td>
   <td width="20%" valign="top">
@@ -3498,6 +3022,13 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
+  <ul>
+    <li>Card
+      <ul>
+        <li>NUM: 1, 2, deux, 3, 6, 2000, 2002, 1999, 2001, 2005</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="20%" valign="top">
@@ -3515,6 +3046,13 @@ udver: '2'
 </tr>
 <tr>
   <td width="20%" valign="top">
+  <ul>
+    <li>Ord
+      <ul>
+        <li>ADJ: XIXe, XXe, XVIIe, XVIe, XVIIIe, XIIe, XVe, XIe, XIIIe, VIe</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="20%" valign="top">
@@ -3532,6 +3070,14 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
+  <ul>
+    <li>Ord
+      <ul>
+        <li>ADJ: premier, première, dernier, dernière, sixième, 1er, troisième, derniers, I, III</li>
+        <li>PRON: derniers, premier, premiers</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="20%" valign="top">
@@ -3547,7 +3093,9 @@ udver: '2'
 </tr>
 <tr>
   <td width="20%" valign="top">
-<li><a>NumType</a>
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="20%" valign="top">
@@ -3557,7 +3105,24 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
-<li><a>Person</a>
+
+  </td>
+  <td width="20%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+<li><a>Poss</a>
 
   </td>
   <td width="20%" valign="top">
@@ -3565,167 +3130,29 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
-  <ul>
-  </ul>
-</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Poss</a>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Poss</a>
 
   </td>
 </tr>
 <tr>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-    <li>1
-      <ul>
-        <li>AUX: sommes, serais, suis, étais, étions</li>
-        <li>PRON: je, nous, notre, nos, j’, j', me, mon, m’, My</li>
-        <li>VERB: ai, avons, devons, suis, Disons, allons, comprends, pense, pensons, pouvons</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-    <li>2
-      <ul>
-        <li>PRON: vous, votre, You, toi, 'Ya, se, vos</li>
-        <li>VERB: avez, devez, Buck, Don’t, Knew, Knuck, Laisse, Tiens, Voilà, disputez</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-    <li>3
-      <ul>
-        <li>AUX: est, était, sont, étaient, fut, devint, appelle, serait, soit, sera</li>
-        <li>PRON: il, y, se, son, sa, elle, ils, ses, leur, s'</li>
-        <li>VERB: a, ont, est, avait, sont, était, fut, peut, avaient, pourrait</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-  <ul>
-    <li>Ord
-      <ul>
-        <li>ADJ: XIXe, XXe, XVIIe, XVIe, XVIIIe, XIIe, XVe, XIe, XIIIe, VIe</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
   <td width="20%" valign="top">
   <ul>
     <li>Yes
       <ul>
-        <li>PRON: sien</li>
+        <li>DET: son, sa, ses, leur, leurs, notre, mon, nos, ma, votre</li>
+        <li>NOUN: Citizen</li>
+        <li>PRON: Your</li>
+        <li>PROPN: Dumbo, Lincoln, Andrew, Barney, Benson, Devil, Schott</li>
       </ul>
     </li>
   </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="20%" valign="top">
-<li><a>Poss</a>
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="20%" valign="top">
-<li><a>Poss</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
 
   </td>
   <td width="20%" valign="top">
@@ -3745,6 +3172,13 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
+  <ul>
+    <li>Yes
+      <ul>
+        <li>PRON: sien</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="20%" valign="top">
@@ -3760,7 +3194,9 @@ udver: '2'
 </tr>
 <tr>
   <td width="20%" valign="top">
-<li><a>Poss</a>
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="20%" valign="top">
@@ -3773,12 +3209,35 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="20%" valign="top">
   <ul>
   </ul>
 </li>
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+<li><a>Reflex</a>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Reflex</a>
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Reflex</a>
 
   </td>
 </tr>
@@ -3787,136 +3246,10 @@ udver: '2'
   <ul>
     <li>Yes
       <ul>
-        <li>DET: son, sa, ses, leur, leurs, notre, mon, nos, ma, votre</li>
-        <li>NOUN: Citizen</li>
-        <li>PRON: Your</li>
-        <li>PROPN: Dumbo, Lincoln, Andrew, Barney, Benson, Devil, Schott</li>
+        <li>PRON: lui-même, elle-même, eux-mêmes, elles-mêmes, moi-même, moi, nous-mêmes, soi-même</li>
       </ul>
     </li>
   </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="20%" valign="top">
-<li><a>Reflex</a>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-<li><a>Person</a>
-
-  </td>
-  <td width="20%" valign="top">
-<li><a>Reflex</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-    <li>1
-      <ul>
-        <li>AUX-Fin: voudrais, suis, devons, sommes, ai, avons, devrions, allons, pouvons, vais</li>
-        <li>PRON: nous, je, j', me, m', moi, moi-même, -moi, -nous</li>
-        <li>VERB-Fin: pense, espérons, tiens, crois, avons, demandons, pensons, voyons, ai, espère</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-    <li>2
-      <ul>
-        <li>AUX: pouvez, avez, êtes, devez, pourrez, va, voulez</li>
-        <li>AUX-Fin: pouvez, avez, êtes, devez, pourrez, voulez</li>
-        <li>PRON: vous, -vous</li>
-        <li>VERB-Fin: choisissez, cliquez, utilisez, avez, permettez, souhaitez, connaissez, publiez, saisissez, voyez</li>
-        <li>VERB-Part: dites</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-    <li>3
-      <ul>
-        <li>ADP: En</li>
-        <li>AUX: est, a, sont, ont, peut, doit, devrait, sera, soit, peuvent</li>
-        <li>AUX-Fin: est, a, sont, ont, peut, doit, devrait, sera, peuvent, soient</li>
-        <li>DET: une</li>
-        <li>PRON: il, ce, s', se, on, ils, l', le, elle, elles</li>
-        <li>VERB-Fin: a, est, convient, ont, fait, concerne, font, faut, agit, apporte</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
 
   </td>
   <td width="20%" valign="top">
@@ -3948,13 +3281,356 @@ udver: '2'
 </tr>
 <tr>
   <td width="20%" valign="top">
-<li><a>Reflex</a>
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="20%" valign="top">
   <ul>
   </ul>
 </li>
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+<li><a>Person</a>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Person</a>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Person</a>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Person</a>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Person</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+  <ul>
+    <li>1
+      <ul>
+        <li>AUX-Fin: ai, avons, suis, sommes, avais, avions, étais, serais, étions, aurais</li>
+        <li>PRON: nous, je, j', m', me, moi, -je, -nous, -moi, I</li>
+        <li>VERB-Fin: recommande, conseille, ai, trouve, vais, pense, pouvons, aime, devons, peux</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="20%" valign="top">
+  <ul>
+    <li>1
+      <ul>
+        <li>AUX-Fin: _, Allons, Serions</li>
+        <li>DET: _, Notre, Nos, Ma</li>
+        <li>PRON: _, nous, Je, J', Moi</li>
+        <li>VERB-Fin: _, Notons, Ajoutons, Supposons, Assistons, Attendons, Citons, Commençons, Constatons, Disons</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="20%" valign="top">
+  <ul>
+    <li>1
+      <ul>
+        <li>AUX: sommes, serais, suis, étais, étions</li>
+        <li>PRON: je, nous, notre, nos, j’, j', me, mon, m’, My</li>
+        <li>VERB: ai, avons, devons, suis, Disons, allons, comprends, pense, pensons, pouvons</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="20%" valign="top">
+  <ul>
+    <li>1
+      <ul>
+        <li>AUX-Fin: voudrais, suis, devons, sommes, ai, avons, devrions, allons, pouvons, vais</li>
+        <li>PRON: nous, je, j', me, m', moi, moi-même, -moi, -nous</li>
+        <li>VERB-Fin: pense, espérons, tiens, crois, avons, demandons, pensons, voyons, ai, espère</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="20%" valign="top">
+  <ul>
+    <li>1
+      <ul>
+        <li>AUX-Fin: ai, avons, suis, sommes, aurons, avions, serais, sois, soyons, étais</li>
+        <li>PRON: nous, je, j', me, m', moi, -nous, -je, -moi</li>
+        <li>VERB-Fin: voudrais, devons, pense, crois, dois, avons, devrions, remercie, voulons, espère</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+  <ul>
+    <li>2
+      <ul>
+        <li>AUX-Fin: êtes, avez, es, soyez, as, serez, seriez, ayez, fais, sois</li>
+        <li>PRON: vous, -vous, tu, -tu, t', te, toi, -toi, you, tien</li>
+        <li>VERB-Fin: allez, hésitez, avez, voulez, pouvez, passez, pourrez, êtes, pensez, protégés</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="20%" valign="top">
+  <ul>
+    <li>2
+      <ul>
+        <li>AUX-Fin: _, Avez</li>
+        <li>DET: _</li>
+        <li>PRON: _, Vous, Tu</li>
+        <li>VERB-Fin: _, Ajoutez, Allongez, Changez, Courez, Croissez, Etes, Prenez, Proposez, Regardez</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="20%" valign="top">
+  <ul>
+    <li>2
+      <ul>
+        <li>PRON: vous, votre, You, toi, 'Ya, se, vos</li>
+        <li>VERB: avez, devez, Buck, Don’t, Knew, Knuck, Laisse, Tiens, Voilà, disputez</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="20%" valign="top">
+  <ul>
+    <li>2
+      <ul>
+        <li>AUX: pouvez, avez, êtes, devez, pourrez, va, voulez</li>
+        <li>AUX-Fin: pouvez, avez, êtes, devez, pourrez, voulez</li>
+        <li>PRON: vous, -vous</li>
+        <li>VERB-Fin: choisissez, cliquez, utilisez, avez, permettez, souhaitez, connaissez, publiez, saisissez, voyez</li>
+        <li>VERB-Part: dites</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="20%" valign="top">
+  <ul>
+    <li>2
+      <ul>
+        <li>AUX-Fin: avez, êtes, avais, ayez, étais</li>
+        <li>PRON: vous, -vous, Toi</li>
+        <li>VERB-Fin: avez, veuillez, devez, demandez, pouvez, remarquez, allaitez, prenez, présentez, suivez</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+  <ul>
+    <li>3
+      <ul>
+        <li>AUX-Fin: est, a, sont, ont, était, fut, avait, sera, étaient, soit</li>
+        <li>PRON: il, se, s', elle, on, c', en, ils, lui, ce</li>
+        <li>VERB-Fin: a, peut, fait, est, devient, doit, ont, trouve, permet, faut</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="20%" valign="top">
+  <ul>
+    <li>3
+      <ul>
+        <li>ADP: _, À</li>
+        <li>AUX-Fin: _, Peut, Est, Peuvent, Seront, Sont, A, Doit, Fût, Ont</li>
+        <li>DET: _, Son, Leur, Ses, Sa, Certains, Leurs</li>
+        <li>PRON: _, il, c', On, Elle, ils, ce, Cela, elles, Certains</li>
+        <li>VERB-Fin: _, Reste, Est, Peut, Voilà, faut, Suivent, Entrent, Faudra, Sait</li>
+        <li>VERB-Inf: _</li>
+        <li>VERB-Part: _</li>
+        <li>X: _</li>
+        <li>X-Fin: _</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="20%" valign="top">
+  <ul>
+    <li>3
+      <ul>
+        <li>AUX: est, était, sont, étaient, fut, devint, appelle, serait, soit, sera</li>
+        <li>PRON: il, y, se, son, sa, elle, ils, ses, leur, s'</li>
+        <li>VERB: a, ont, est, avait, sont, était, fut, peut, avaient, pourrait</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="20%" valign="top">
+  <ul>
+    <li>3
+      <ul>
+        <li>ADP: En</li>
+        <li>AUX: est, a, sont, ont, peut, doit, devrait, sera, soit, peuvent</li>
+        <li>AUX-Fin: est, a, sont, ont, peut, doit, devrait, sera, peuvent, soient</li>
+        <li>DET: une</li>
+        <li>PRON: il, ce, s', se, on, ils, l', le, elle, elles</li>
+        <li>VERB-Fin: a, est, convient, ont, fait, concerne, font, faut, agit, apporte</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="20%" valign="top">
+  <ul>
+    <li>3
+      <ul>
+        <li>ADP: à, de</li>
+        <li>AUX-Fin: est, a, ont, sont, était, avait, sera, fut, étaient, soit</li>
+        <li>PRON: il, se, y, s', en, elle, ils, c', on, le</li>
+        <li>VERB-Fin: doit, a, peut, est, doivent, faut, peuvent, agit, concerne, contient</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
 
   </td>
   <td width="20%" valign="top">
@@ -3962,15 +3638,9 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
-  <ul>
-  </ul>
-</li>
 
   </td>
   <td width="20%" valign="top">
-  <ul>
-  </ul>
-</li>
 
   </td>
 </tr>
@@ -4024,37 +3694,9 @@ udver: '2'
 </tr>
 <tr>
   <td width="20%" valign="top">
-  <ul>
-    <li>Yes
-      <ul>
-        <li>PRON: lui-même, elle-même, eux-mêmes, elles-mêmes, moi-même, moi, nous-mêmes, soi-même</li>
-      </ul>
-    </li>
-  </ul>
 
   </td>
   <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="20%" valign="top">
-<li><a>Person</a>
 
   </td>
   <td width="20%" valign="top">
@@ -4067,133 +3709,13 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
-<li><a>Person</a>
 
   </td>
 </tr>
 <tr>
   <td width="20%" valign="top">
+<h3>Other Features</h3>
 
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-    <li>1
-      <ul>
-        <li>AUX-Fin: _, Allons, Serions</li>
-        <li>DET: _, Notre, Nos, Ma</li>
-        <li>PRON: _, nous, Je, J', Moi</li>
-        <li>VERB-Fin: _, Notons, Ajoutons, Supposons, Assistons, Attendons, Citons, Commençons, Constatons, Disons</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-    <li>1
-      <ul>
-        <li>AUX-Fin: ai, avons, suis, sommes, aurons, avions, serais, sois, soyons, étais</li>
-        <li>PRON: nous, je, j', me, m', moi, -nous, -je, -moi</li>
-        <li>VERB-Fin: voudrais, devons, pense, crois, dois, avons, devrions, remercie, voulons, espère</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-    <li>2
-      <ul>
-        <li>AUX-Fin: _, Avez</li>
-        <li>DET: _</li>
-        <li>PRON: _, Vous, Tu</li>
-        <li>VERB-Fin: _, Ajoutez, Allongez, Changez, Courez, Croissez, Etes, Prenez, Proposez, Regardez</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-    <li>2
-      <ul>
-        <li>AUX-Fin: avez, êtes, avais, ayez, étais</li>
-        <li>PRON: vous, -vous, Toi</li>
-        <li>VERB-Fin: avez, veuillez, devez, demandez, pouvez, remarquez, allaitez, prenez, présentez, suivez</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-    <li>3
-      <ul>
-        <li>ADP: _, À</li>
-        <li>AUX-Fin: _, Peut, Est, Peuvent, Seront, Sont, A, Doit, Fût, Ont</li>
-        <li>DET: _, Son, Leur, Ses, Sa, Certains, Leurs</li>
-        <li>PRON: _, il, c', On, Elle, ils, ce, Cela, elles, Certains</li>
-        <li>VERB-Fin: _, Reste, Est, Peut, Voilà, faut, Suivent, Entrent, Faudra, Sait</li>
-        <li>VERB-Inf: _</li>
-        <li>VERB-Part: _</li>
-        <li>X: _</li>
-        <li>X-Fin: _</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-    <li>3
-      <ul>
-        <li>ADP: à, de</li>
-        <li>AUX-Fin: est, a, ont, sont, était, avait, sera, fut, étaient, soit</li>
-        <li>PRON: il, se, y, s', en, elle, ils, c', on, le</li>
-        <li>VERB-Fin: doit, a, peut, est, doivent, faut, peuvent, agit, concerne, contient</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-<li><a>Person</a>
-
-  </td>
-  <td width="20%" valign="top">
-  <ul>
-  </ul>
-</li>
 
   </td>
   <td width="20%" valign="top">
@@ -4202,90 +3724,18 @@ udver: '2'
 
   </td>
   <td width="20%" valign="top">
+<h3>Other Features</h3>
+
 
   </td>
   <td width="20%" valign="top">
-  <ul>
-  </ul>
-</li>
+<h3>Other Features</h3>
 
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-  <ul>
-    <li>1
-      <ul>
-        <li>AUX-Fin: ai, avons, suis, sommes, avais, avions, étais, serais, étions, aurais</li>
-        <li>PRON: nous, je, j', m', me, moi, -je, -nous, -moi, I</li>
-        <li>VERB-Fin: recommande, conseille, ai, trouve, vais, pense, pouvons, aime, devons, peux</li>
-      </ul>
-    </li>
-  </ul>
 
   </td>
   <td width="20%" valign="top">
+<h3>Other Features</h3>
 
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-  <ul>
-    <li>2
-      <ul>
-        <li>AUX-Fin: êtes, avez, es, soyez, as, serez, seriez, ayez, fais, sois</li>
-        <li>PRON: vous, -vous, tu, -tu, t', te, toi, -toi, you, tien</li>
-        <li>VERB-Fin: allez, hésitez, avez, voulez, pouvez, passez, pourrez, êtes, pensez, protégés</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-  <ul>
-    <li>3
-      <ul>
-        <li>AUX-Fin: est, a, sont, ont, était, fut, avait, sera, étaient, soit</li>
-        <li>PRON: il, se, s', elle, on, c', en, ils, lui, ce</li>
-        <li>VERB-Fin: a, peut, fait, est, devient, doit, ont, trouve, permet, faut</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
 
   </td>
 </tr>
@@ -4317,130 +3767,13 @@ udver: '2'
 </tr>
 <tr>
   <td width="20%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
+<li>This corpus uses 3 lemmas as copulas (<a>cop</a>). Examples: être, be, fue.</li>
 </ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-<ul>
-<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
-<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: _.</li>
-</ul>
-
-  </td>
-  <td width="20%" valign="top">
-<h3>Other Features</h3>
-
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
-
-Here we consider only relations between verbs (parent) and nouns or pronouns (child).
-<ul>
-  <li><a>nsubj</a>
-    <ul>
-      <li>VERB--NOUN (547)</li>
-      <li>VERB--PRON (455)</li>
-      <li>VERB-Part--NOUN (1)</li>
-    </ul>
-  </li>
-</ul>
-
-  </td>
-  <td width="20%" valign="top">
-<h2>Syntax</h2>
-
-<h3>Auxiliary Verbs and Copula</h3>
-
-<ul>
-<li>This corpus uses 5 lemmas as copulas (<a>cop</a>). Examples: être, suivre, étayer, etre, est.</li>
-</ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-<h3>Other Features</h3>
-
-
-  </td>
-  <td width="20%" valign="top">
-<ul>
-  <li><a>obj</a>
-    <ul>
-      <li>VERB--NOUN (767)</li>
-      <li>VERB--NOUN-ADP(_) (1)</li>
-      <li>VERB--PRON (207)</li>
-      <li>VERB-Part--NOUN (38)</li>
-      <li>VERB-Part--PRON (2)</li>
-    </ul>
-  </li>
-</ul>
-
-  </td>
-  <td width="20%" valign="top">
-<ul>
-<li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: avoir, pouvoir, devoir, être, vouloir, aller, savoir.</li>
-<li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: être, avoir, étayer.</li>
-</ul>
-
-  </td>
-  <td width="20%" valign="top">
-<h3>Other Features</h3>
-
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-<h3>Other Features</h3>
-
 
   </td>
   <td width="20%" valign="top">
@@ -4454,34 +3787,22 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="20%" valign="top">
+<h2>Syntax</h2>
+
+<h3>Auxiliary Verbs and Copula</h3>
+
 <ul>
-  <li><a>iobj</a>
-    <ul>
-      <li>VERB--PRON (35)</li>
-    </ul>
-  </li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
 </ul>
 
   </td>
   <td width="20%" valign="top">
-<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+<h2>Syntax</h2>
 
-Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+<h3>Auxiliary Verbs and Copula</h3>
+
 <ul>
-  <li><a>nsubj</a>
-    <ul>
-      <li>VERB-Fin--NOUN (279)</li>
-      <li>VERB-Fin--NOUN-ADP(de) (4)</li>
-      <li>VERB-Fin--PRON (445)</li>
-      <li>VERB-Ger--NOUN (2)</li>
-      <li>VERB-Ger--NOUN-ADP(de) (1)</li>
-      <li>VERB-Ger--PRON (1)</li>
-      <li>VERB-Inf--NOUN (59)</li>
-      <li>VERB-Inf--PRON (132)</li>
-      <li>VERB-Part--NOUN (89)</li>
-      <li>VERB-Part--PRON (95)</li>
-    </ul>
-  </li>
+<li>This corpus uses 5 lemmas as copulas (<a>cop</a>). Examples: être, suivre, étayer, etre, est.</li>
 </ul>
 
   </td>
@@ -4498,12 +3819,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="20%" valign="top">
-<h2>Syntax</h2>
-
-<h3>Auxiliary Verbs and Copula</h3>
-
 <ul>
-<li>This corpus uses 3 lemmas as copulas (<a>cop</a>). Examples: être, be, fue.</li>
+<li>This corpus uses 8 lemmas as auxiliaries (<a>aux</a>). Examples: avoir, être, do, will, can, be, can't, must.</li>
+<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: être, be.</li>
 </ul>
 
   </td>
@@ -4515,26 +3833,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="20%" valign="top">
+<ul>
+<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
+<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: _.</li>
+</ul>
 
   </td>
   <td width="20%" valign="top">
 <ul>
-  <li><a>obj</a>
-    <ul>
-      <li>VERB-Fin--NOUN (344)</li>
-      <li>VERB-Fin--NOUN-ADP(de) (3)</li>
-      <li>VERB-Fin--NOUN-ADP(jusque) (1)</li>
-      <li>VERB-Fin--PRON (99)</li>
-      <li>VERB-Fin--PRON-ADP(de) (1)</li>
-      <li>VERB-Ger--NOUN (34)</li>
-      <li>VERB-Ger--PRON (2)</li>
-      <li>VERB-Inf--NOUN (340)</li>
-      <li>VERB-Inf--PRON (64)</li>
-      <li>VERB-Inf--PRON-ADP(de) (1)</li>
-      <li>VERB-Part--NOUN (132)</li>
-      <li>VERB-Part--PRON (40)</li>
-    </ul>
-  </li>
+<li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: avoir, pouvoir, devoir, être, vouloir, aller, savoir.</li>
+<li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: être, avoir, étayer.</li>
 </ul>
 
   </td>
@@ -4542,72 +3850,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
 <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: avoir, être.</li>
 <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: être.</li>
-</ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-<ul>
-<li>This corpus uses 8 lemmas as auxiliaries (<a>aux</a>). Examples: avoir, être, do, will, can, be, can't, must.</li>
-<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: être, be.</li>
-</ul>
-
-  </td>
-  <td width="20%" valign="top">
-<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
-
-Here we consider only relations between verbs (parent) and nouns or pronouns (child).
-<ul>
-  <li><a>nsubj</a>
-    <ul>
-      <li>VERB-Fin--NOUN (7091)</li>
-      <li>VERB-Fin--NOUN-ADP(_) (4)</li>
-      <li>VERB-Fin--NOUN-ADP(bien) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(coopération) (1)</li>
-      <li>VERB-Fin--PRON (6468)</li>
-      <li>VERB-Fin--PRON-ADP(_) (2)</li>
-      <li>VERB-Inf--NOUN (89)</li>
-      <li>VERB-Inf--NOUN-ADP(grâce) (1)</li>
-      <li>VERB-Inf--PRON (74)</li>
-      <li>VERB-Part--NOUN (5413)</li>
-      <li>VERB-Part--NOUN-ADP(_) (2)</li>
-      <li>VERB-Part--NOUN-ADP(de) (1)</li>
-      <li>VERB-Part--NOUN-ADP(quant) (1)</li>
-      <li>VERB-Part--PRON (2112)</li>
-    </ul>
-  </li>
-</ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-<ul>
-  <li><a>iobj</a>
-    <ul>
-      <li>VERB-Fin--PRON (48)</li>
-      <li>VERB-Inf--PRON (27)</li>
-      <li>VERB-Part--PRON (31)</li>
-    </ul>
-  </li>
-</ul>
-
-  </td>
-  <td width="20%" valign="top">
-<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
-
-Here we consider only relations between verbs (parent) and nouns or pronouns (child).
-<ul>
-  <li><a>nsubj</a>
-    <ul>
-      <li>VERB-Fin--NOUN (757)</li>
-      <li>VERB-Fin--PRON (1006)</li>
-      <li>VERB-Part--NOUN (293)</li>
-      <li>VERB-Part--PRON (223)</li>
-    </ul>
-  </li>
 </ul>
 
   </td>
@@ -4639,42 +3881,79 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="20%" valign="top">
+<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+
+Here we consider only relations between verbs (parent) and nouns or pronouns (child).
 <ul>
-  <li><a>obj</a>
+  <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (5535)</li>
-      <li>VERB-Fin--NOUN-ADP(_) (21)</li>
-      <li>VERB-Fin--PRON (1283)</li>
-      <li>VERB-Fin--PRON-ADP(_) (1)</li>
-      <li>VERB-Inf--NOUN (5209)</li>
-      <li>VERB-Inf--NOUN-ADP(_) (12)</li>
-      <li>VERB-Inf--PRON (606)</li>
-      <li>VERB-Inf--PRON-ADP(_) (2)</li>
-      <li>VERB-Part--NOUN (3423)</li>
-      <li>VERB-Part--NOUN-ADP(_) (10)</li>
-      <li>VERB-Part--PRON (484)</li>
+      <li>VERB-Fin--NOUN (7091)</li>
+      <li>VERB-Fin--NOUN-ADP(_) (4)</li>
+      <li>VERB-Fin--NOUN-ADP(bien) (1)</li>
+      <li>VERB-Fin--NOUN-ADP(coopération) (1)</li>
+      <li>VERB-Fin--PRON (6468)</li>
+      <li>VERB-Fin--PRON-ADP(_) (2)</li>
+      <li>VERB-Inf--NOUN (89)</li>
+      <li>VERB-Inf--NOUN-ADP(grâce) (1)</li>
+      <li>VERB-Inf--PRON (74)</li>
+      <li>VERB-Part--NOUN (5413)</li>
+      <li>VERB-Part--NOUN-ADP(_) (2)</li>
+      <li>VERB-Part--NOUN-ADP(de) (1)</li>
+      <li>VERB-Part--NOUN-ADP(quant) (1)</li>
+      <li>VERB-Part--PRON (2112)</li>
     </ul>
   </li>
 </ul>
 
   </td>
   <td width="20%" valign="top">
+<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
 
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
+Here we consider only relations between verbs (parent) and nouns or pronouns (child).
 <ul>
-  <li><a>obj</a>
+  <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (646)</li>
-      <li>VERB-Fin--PRON (147)</li>
-      <li>VERB-Inf--NOUN (688)</li>
-      <li>VERB-Inf--NOUN-ADP(à) (1)</li>
-      <li>VERB-Inf--PRON (76)</li>
-      <li>VERB-Part--NOUN (496)</li>
-      <li>VERB-Part--PRON (61)</li>
+      <li>VERB--NOUN (547)</li>
+      <li>VERB--PRON (455)</li>
+      <li>VERB-Part--NOUN (1)</li>
+    </ul>
+  </li>
+</ul>
+
+  </td>
+  <td width="20%" valign="top">
+<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+
+Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+<ul>
+  <li><a>nsubj</a>
+    <ul>
+      <li>VERB-Fin--NOUN (279)</li>
+      <li>VERB-Fin--NOUN-ADP(de) (4)</li>
+      <li>VERB-Fin--PRON (445)</li>
+      <li>VERB-Ger--NOUN (2)</li>
+      <li>VERB-Ger--NOUN-ADP(de) (1)</li>
+      <li>VERB-Ger--PRON (1)</li>
+      <li>VERB-Inf--NOUN (59)</li>
+      <li>VERB-Inf--PRON (132)</li>
+      <li>VERB-Part--NOUN (89)</li>
+      <li>VERB-Part--PRON (95)</li>
+    </ul>
+  </li>
+</ul>
+
+  </td>
+  <td width="20%" valign="top">
+<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+
+Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+<ul>
+  <li><a>nsubj</a>
+    <ul>
+      <li>VERB-Fin--NOUN (757)</li>
+      <li>VERB-Fin--PRON (1006)</li>
+      <li>VERB-Part--NOUN (293)</li>
+      <li>VERB-Part--PRON (223)</li>
     </ul>
   </li>
 </ul>
@@ -4704,39 +3983,70 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   </td>
   <td width="20%" valign="top">
 <ul>
-  <li><a>iobj</a>
+  <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (10)</li>
-      <li>VERB-Fin--PRON (1079)</li>
-      <li>VERB-Inf--NOUN (8)</li>
-      <li>VERB-Inf--PRON (266)</li>
-      <li>VERB-Inf--PRON-ADP(_) (1)</li>
-      <li>VERB-Part--NOUN (4)</li>
-      <li>VERB-Part--PRON (614)</li>
+      <li>VERB-Fin--NOUN (5535)</li>
+      <li>VERB-Fin--NOUN-ADP(_) (21)</li>
+      <li>VERB-Fin--PRON (1283)</li>
+      <li>VERB-Fin--PRON-ADP(_) (1)</li>
+      <li>VERB-Inf--NOUN (5209)</li>
+      <li>VERB-Inf--NOUN-ADP(_) (12)</li>
+      <li>VERB-Inf--PRON (606)</li>
+      <li>VERB-Inf--PRON-ADP(_) (2)</li>
+      <li>VERB-Part--NOUN (3423)</li>
+      <li>VERB-Part--NOUN-ADP(_) (10)</li>
+      <li>VERB-Part--PRON (484)</li>
     </ul>
   </li>
 </ul>
 
   </td>
   <td width="20%" valign="top">
-<h3>Relations Overview</h3>
-
 <ul>
-<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:tmod</a></li>
-<li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>reparandum</a></li>
+  <li><a>obj</a>
+    <ul>
+      <li>VERB--NOUN (767)</li>
+      <li>VERB--NOUN-ADP(_) (1)</li>
+      <li>VERB--PRON (207)</li>
+      <li>VERB-Part--NOUN (38)</li>
+      <li>VERB-Part--PRON (2)</li>
+    </ul>
+  </li>
 </ul>
 
   </td>
   <td width="20%" valign="top">
+<ul>
+  <li><a>obj</a>
+    <ul>
+      <li>VERB-Fin--NOUN (344)</li>
+      <li>VERB-Fin--NOUN-ADP(de) (3)</li>
+      <li>VERB-Fin--NOUN-ADP(jusque) (1)</li>
+      <li>VERB-Fin--PRON (99)</li>
+      <li>VERB-Fin--PRON-ADP(de) (1)</li>
+      <li>VERB-Ger--NOUN (34)</li>
+      <li>VERB-Ger--PRON (2)</li>
+      <li>VERB-Inf--NOUN (340)</li>
+      <li>VERB-Inf--PRON (64)</li>
+      <li>VERB-Inf--PRON-ADP(de) (1)</li>
+      <li>VERB-Part--NOUN (132)</li>
+      <li>VERB-Part--PRON (40)</li>
+    </ul>
+  </li>
+</ul>
 
   </td>
   <td width="20%" valign="top">
 <ul>
-  <li><a>iobj</a>
+  <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--PRON (111)</li>
-      <li>VERB-Inf--PRON (35)</li>
-      <li>VERB-Part--PRON (72)</li>
+      <li>VERB-Fin--NOUN (646)</li>
+      <li>VERB-Fin--PRON (147)</li>
+      <li>VERB-Inf--NOUN (688)</li>
+      <li>VERB-Inf--NOUN-ADP(à) (1)</li>
+      <li>VERB-Inf--PRON (76)</li>
+      <li>VERB-Part--NOUN (496)</li>
+      <li>VERB-Part--PRON (61)</li>
     </ul>
   </li>
 </ul>
@@ -4759,43 +4069,97 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-<h3>Relations Overview</h3>
-
 <ul>
-<li>This corpus uses 14 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>dislocated:cleft</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>iobj:agent</a>, <a>nsubj:caus</a>, <a>nsubj:expl</a>, <a>nsubj:pass</a>, <a>obj:agent</a>, <a>obl:agent</a></li>
-<li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>reparandum</a></li>
+  <li><a>iobj</a>
+    <ul>
+      <li>VERB-Fin--NOUN (10)</li>
+      <li>VERB-Fin--PRON (1079)</li>
+      <li>VERB-Inf--NOUN (8)</li>
+      <li>VERB-Inf--PRON (266)</li>
+      <li>VERB-Inf--PRON-ADP(_) (1)</li>
+      <li>VERB-Part--NOUN (4)</li>
+      <li>VERB-Part--PRON (614)</li>
+    </ul>
+  </li>
 </ul>
 
   </td>
   <td width="20%" valign="top">
+<ul>
+  <li><a>iobj</a>
+    <ul>
+      <li>VERB--PRON (35)</li>
+    </ul>
+  </li>
+</ul>
+
+  </td>
+  <td width="20%" valign="top">
+<ul>
+  <li><a>iobj</a>
+    <ul>
+      <li>VERB-Fin--PRON (48)</li>
+      <li>VERB-Inf--PRON (27)</li>
+      <li>VERB-Part--PRON (31)</li>
+    </ul>
+  </li>
+</ul>
+
+  </td>
+  <td width="20%" valign="top">
+<ul>
+  <li><a>iobj</a>
+    <ul>
+      <li>VERB-Fin--PRON (111)</li>
+      <li>VERB-Inf--PRON (35)</li>
+      <li>VERB-Part--PRON (72)</li>
+    </ul>
+  </li>
+</ul>
 
   </td>
 </tr>
 <tr>
   <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+<h3>Verbs with Reflexive Core Objects</h3>
+
+<ul>
+  <li>This corpus contains 2 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: connaître soi-même, célébrer nous-mêmes</li>
+</ul>
 
   </td>
   <td width="20%" valign="top">
@@ -4826,10 +4190,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="20%" valign="top">
-<h3>Verbs with Reflexive Core Objects</h3>
+<h3>Relations Overview</h3>
 
 <ul>
-  <li>This corpus contains 2 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: connaître soi-même, célébrer nous-mêmes</li>
+<li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>iobj:agent</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obj:agent</a>, <a>obl:agent</a></li>
+<li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
+<li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a></li>
 </ul>
 
   </td>
@@ -4843,9 +4209,21 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="20%" valign="top">
+<h3>Relations Overview</h3>
+
+<ul>
+<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:tmod</a></li>
+<li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>reparandum</a></li>
+</ul>
 
   </td>
   <td width="20%" valign="top">
+<h3>Relations Overview</h3>
+
+<ul>
+<li>This corpus uses 14 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>dislocated:cleft</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>iobj:agent</a>, <a>nsubj:caus</a>, <a>nsubj:expl</a>, <a>nsubj:pass</a>, <a>obj:agent</a>, <a>obl:agent</a></li>
+<li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>reparandum</a></li>
+</ul>
 
   </td>
   <td width="20%" valign="top">
@@ -4856,30 +4234,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>discourse</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>reparandum</a></li>
 </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="20%" valign="top">
-<h3>Relations Overview</h3>
-
-<ul>
-<li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>iobj:agent</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obj:agent</a>, <a>obl:agent</a></li>
-<li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
-<li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a></li>
-</ul>
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
-
-  </td>
-  <td width="20%" valign="top">
 
   </td>
 </tr>

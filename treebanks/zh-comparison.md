@@ -450,6 +450,34 @@ udver: '2'
 </tr>
 <tr>
   <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
 <li><a>Number</a>
 
   </td>
@@ -585,13 +613,23 @@ udver: '2'
 
   </td>
   <td width="25%" valign="top">
-<h3>Degree and Polarity</h3>
-
 
   </td>
   <td width="25%" valign="top">
-<h3>Degree and Polarity</h3>
 
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
 
   </td>
   <td width="25%" valign="top">
@@ -614,19 +652,51 @@ udver: '2'
 </tr>
 <tr>
   <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
 <h3>Degree and Polarity</h3>
 
 
   </td>
   <td width="25%" valign="top">
+<h3>Degree and Polarity</h3>
 
-  </td>
-  <td width="25%" valign="top">
 
   </td>
   <td width="25%" valign="top">
 <h3>Degree and Polarity</h3>
 
+
+  </td>
+  <td width="25%" valign="top">
+<h3>Degree and Polarity</h3>
+
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
 
   </td>
 </tr>
@@ -650,13 +720,9 @@ udver: '2'
 
   </td>
   <td width="25%" valign="top">
-<h3>Verbal Features</h3>
-
 
   </td>
   <td width="25%" valign="top">
-<h3>Verbal Features</h3>
-
 
   </td>
   <td width="25%" valign="top">
@@ -728,14 +794,32 @@ udver: '2'
 </tr>
 <tr>
   <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
 <h3>Verbal Features</h3>
 
 
   </td>
   <td width="25%" valign="top">
+<h3>Verbal Features</h3>
+
 
   </td>
   <td width="25%" valign="top">
+<h3>Verbal Features</h3>
+
 
   </td>
   <td width="25%" valign="top">
@@ -843,13 +927,9 @@ udver: '2'
 
   </td>
   <td width="25%" valign="top">
-<h3>Pronouns, Determiners, Quantifiers</h3>
-
 
   </td>
   <td width="25%" valign="top">
-<h3>Pronouns, Determiners, Quantifiers</h3>
-
 
   </td>
   <td width="25%" valign="top">
@@ -905,12 +985,49 @@ udver: '2'
 
   </td>
   <td width="25%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+<li><a>Voice</a>
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
 <li><a>Voice</a>
 
   </td>
 </tr>
 <tr>
   <td width="25%" valign="top">
+  <ul>
+    <li>Cau
+      <ul>
+        <li>ADP: 以</li>
+        <li>VERB: 將, 以, 使, 把, 讓, 使得, 令, 導致, 要求, 派</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="25%" valign="top">
@@ -934,6 +1051,13 @@ udver: '2'
 </tr>
 <tr>
   <td width="25%" valign="top">
+  <ul>
+    <li>Pass
+      <ul>
+        <li>VERB: 被, 為</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="25%" valign="top">
@@ -956,7 +1080,9 @@ udver: '2'
 </tr>
 <tr>
   <td width="25%" valign="top">
-<li><a>Voice</a>
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="25%" valign="top">
@@ -974,52 +1100,6 @@ udver: '2'
 </tr>
 <tr>
   <td width="25%" valign="top">
-  <ul>
-    <li>Cau
-      <ul>
-        <li>ADP: 以</li>
-        <li>VERB: 將, 以, 使, 把, 讓, 使得, 令, 導致, 要求, 派</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="25%" valign="top">
-  <ul>
-    <li>Pass
-      <ul>
-        <li>VERB: 被, 為</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="25%" valign="top">
-  <ul>
-  </ul>
-</li>
 
   </td>
   <td width="25%" valign="top">
@@ -1040,6 +1120,26 @@ udver: '2'
 
   </td>
   <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+<h3>Pronouns, Determiners, Quantifiers</h3>
+
+
+  </td>
+  <td width="25%" valign="top">
+<h3>Pronouns, Determiners, Quantifiers</h3>
+
+
+  </td>
+  <td width="25%" valign="top">
+<h3>Pronouns, Determiners, Quantifiers</h3>
+
 
   </td>
   <td width="25%" valign="top">
@@ -1050,8 +1150,6 @@ udver: '2'
 </tr>
 <tr>
   <td width="25%" valign="top">
-<h3>Pronouns, Determiners, Quantifiers</h3>
-
 
   </td>
   <td width="25%" valign="top">
@@ -1066,6 +1164,21 @@ udver: '2'
 </tr>
 <tr>
   <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+<li><a>NumType</a>
 
   </td>
   <td width="25%" valign="top">
@@ -1081,6 +1194,13 @@ udver: '2'
 </tr>
 <tr>
   <td width="25%" valign="top">
+  <ul>
+    <li>Card
+      <ul>
+        <li>NUM: 一, 兩, 三, 1, 第一, 3, 12, 5, 2, 8</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="25%" valign="top">
@@ -1123,7 +1243,9 @@ udver: '2'
 </tr>
 <tr>
   <td width="25%" valign="top">
-<li><a>NumType</a>
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="25%" valign="top">
@@ -1141,13 +1263,6 @@ udver: '2'
 </tr>
 <tr>
   <td width="25%" valign="top">
-  <ul>
-    <li>Card
-      <ul>
-        <li>NUM: 一, 兩, 三, 1, 第一, 3, 12, 5, 2, 8</li>
-      </ul>
-    </li>
-  </ul>
 
   </td>
   <td width="25%" valign="top">
@@ -1162,71 +1277,15 @@ udver: '2'
 </tr>
 <tr>
   <td width="25%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="25%" valign="top">
-<h3>Other Features</h3>
-
-
-  </td>
-  <td width="25%" valign="top">
-<h3>Other Features</h3>
-
 
   </td>
   <td width="25%" valign="top">
 
   </td>
-</tr>
-<tr>
   <td width="25%" valign="top">
 
   </td>
   <td width="25%" valign="top">
-<h2>Syntax</h2>
-
-<h3>Auxiliary Verbs and Copula</h3>
-
-<ul>
-<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: 是、 就是.</li>
-</ul>
-
-  </td>
-  <td width="25%" valign="top">
-<h2>Syntax</h2>
-
-<h3>Auxiliary Verbs and Copula</h3>
-
-<ul>
-<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: 是、 _.</li>
-</ul>
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-<ul>
-<li>This corpus uses 30 lemmas as auxiliaries (<a>aux</a>). Examples: 了、 着、 要、 会、 能、 想、 过、 可以、 没、 应该、 爱、 得、 敢、 需要、 可能、 没有、 不得、 似乎、 似的、 喜欢、 回、 好像、 宁愿、 就、 希望、 必须、 愿意、 懒得、 起来、 这.</li>
-</ul>
-
-  </td>
-  <td width="25%" valign="top">
-<ul>
-<li>This corpus uses 20 lemmas as auxiliaries (<a>aux</a>). Examples: _、 要、 能、 過、 了、 可以、 喜歡、 愛、 著、 不要、 想、 應該、 會、 不用、 別、 好、 有、 樂意、 沒有、 需要.</li>
-</ul>
-
-  </td>
-  <td width="25%" valign="top">
-<li><a>Person</a>
 
   </td>
 </tr>
@@ -1241,13 +1300,6 @@ udver: '2'
 
   </td>
   <td width="25%" valign="top">
-  <ul>
-    <li>1
-      <ul>
-        <li>PRON: 我, 我們</li>
-      </ul>
-    </li>
-  </ul>
 
   </td>
 </tr>
@@ -1262,34 +1314,6 @@ udver: '2'
 
   </td>
   <td width="25%" valign="top">
-  <ul>
-    <li>2
-      <ul>
-        <li>PRON: 你, 您, 你們</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-  <ul>
-    <li>3
-      <ul>
-        <li>PRON: 他, 她, 其, 他們, 它, 它們, 她們, 牠們</li>
-      </ul>
-    </li>
-  </ul>
 
   </td>
 </tr>
@@ -1299,38 +1323,13 @@ udver: '2'
 
   </td>
   <td width="25%" valign="top">
-<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
-
-Here we consider only relations between verbs (parent) and nouns or pronouns (child).
-<ul>
-  <li><a>nsubj</a>
-    <ul>
-      <li>VERB--NOUN (126)</li>
-      <li>VERB--NOUN-ADP(在) (1)</li>
-      <li>VERB--PRON (393)</li>
-    </ul>
-  </li>
-</ul>
 
   </td>
   <td width="25%" valign="top">
-<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
-
-Here we consider only relations between verbs (parent) and nouns or pronouns (child).
-<ul>
-  <li><a>nsubj</a>
-    <ul>
-      <li>VERB--NOUN (26)</li>
-      <li>VERB--PRON (75)</li>
-    </ul>
-  </li>
-</ul>
 
   </td>
   <td width="25%" valign="top">
-  <ul>
-  </ul>
-</li>
+<li><a>Person</a>
 
   </td>
 </tr>
@@ -1352,6 +1351,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="25%" valign="top">
+  <ul>
+    <li>1
+      <ul>
+        <li>PRON: 我, 我們</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -1373,6 +1379,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="25%" valign="top">
+  <ul>
+    <li>2
+      <ul>
+        <li>PRON: 你, 您, 你們</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -1394,6 +1407,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="25%" valign="top">
+  <ul>
+    <li>3
+      <ul>
+        <li>PRON: 他, 她, 其, 他們, 它, 它們, 她們, 牠們</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -1405,26 +1425,26 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="25%" valign="top">
-<ul>
-  <li><a>obj</a>
-    <ul>
-      <li>VERB--NOUN (394)</li>
-      <li>VERB--PRON (90)</li>
-    </ul>
-  </li>
-</ul>
 
   </td>
   <td width="25%" valign="top">
-<ul>
-  <li><a>obj</a>
-    <ul>
-      <li>VERB--NOUN (97)</li>
-      <li>VERB--PRON (33)</li>
-      <li>VERB--PRON-ADP(的) (1)</li>
-    </ul>
-  </li>
-</ul>
+
+  </td>
+  <td width="25%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
 
   </td>
   <td width="25%" valign="top">
@@ -1436,25 +1456,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="25%" valign="top">
-<ul>
-  <li><a>iobj</a>
-    <ul>
-      <li>VERB--NOUN (1)</li>
-      <li>VERB--PRON (5)</li>
-      <li>VERB--PRON-ADP(给) (1)</li>
-    </ul>
-  </li>
-</ul>
 
   </td>
   <td width="25%" valign="top">
-<ul>
-  <li><a>iobj</a>
-    <ul>
-      <li>VERB--PRON (4)</li>
-    </ul>
-  </li>
-</ul>
 
   </td>
   <td width="25%" valign="top">
@@ -1483,6 +1487,54 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+<h3>Other Features</h3>
+
+
+  </td>
+  <td width="25%" valign="top">
+<h3>Other Features</h3>
+
+
+  </td>
+  <td width="25%" valign="top">
+<h3>Other Features</h3>
+
 
   </td>
   <td width="25%" valign="top">
@@ -1516,14 +1568,33 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="25%" valign="top">
-<h3>Other Features</h3>
+<h2>Syntax</h2>
 
+<h3>Auxiliary Verbs and Copula</h3>
+
+<ul>
+<li>This corpus uses 135 lemmas as copulas (<a>cop</a>). Examples: 是、 為、 也是、 就是、 不是、 即、 都是、 感到、 非、 則是、 變、 亦是、 亦為、 而是、 並非、 則為、 發展、 而非、 表現、 影響、 還是、 顯得、 做、 卻是、 夠、 如、 控制、 是否是、 為人、 爲、 獲利、 看似、 裝、 謂、 變得、 連任、 一爭、 上表、 不夠、 且是、 仍是、 仍算、 令、 以為、 以爲、 低、 來、 便宜、 便是、 保存.</li>
+</ul>
 
   </td>
   <td width="25%" valign="top">
+<h2>Syntax</h2>
+
+<h3>Auxiliary Verbs and Copula</h3>
+
+<ul>
+<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: 是、 就是.</li>
+</ul>
 
   </td>
   <td width="25%" valign="top">
+<h2>Syntax</h2>
+
+<h3>Auxiliary Verbs and Copula</h3>
+
+<ul>
+<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: 是、 _.</li>
+</ul>
 
   </td>
   <td width="25%" valign="top">
@@ -1539,43 +1610,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="25%" valign="top">
-<h2>Syntax</h2>
-
-<h3>Auxiliary Verbs and Copula</h3>
-
-<ul>
-<li>This corpus uses 135 lemmas as copulas (<a>cop</a>). Examples: 是、 為、 也是、 就是、 不是、 即、 都是、 感到、 非、 則是、 變、 亦是、 亦為、 而是、 並非、 則為、 發展、 而非、 表現、 影響、 還是、 顯得、 做、 卻是、 夠、 如、 控制、 是否是、 為人、 爲、 獲利、 看似、 裝、 謂、 變得、 連任、 一爭、 上表、 不夠、 且是、 仍是、 仍算、 令、 以為、 以爲、 低、 來、 便宜、 便是、 保存.</li>
-</ul>
-
-  </td>
-  <td width="25%" valign="top">
-<h3>Relations Overview</h3>
-
-<ul>
-<li>This corpus uses 13 relation subtypes: <a>advmod:df</a>, <a>case:loc</a>, <a>compound:dir</a>, <a>compound:ext</a>, <a>compound:vo</a>, <a>compound:vv</a>, <a>discourse:sp</a>, <a>mark:adv</a>, <a>mark:rel</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:patient</a>, <a>obl:tmod</a></li>
-<li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>fixed</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a></li>
-</ul>
-
-  </td>
-  <td width="25%" valign="top">
-<h3>Relations Overview</h3>
-
-<ul>
-<li>This corpus uses 10 relation subtypes: <a>advmod:df</a>, <a>case:loc</a>, <a>compound:dir</a>, <a>compound:ext</a>, <a>compound:vo</a>, <a>compound:vv</a>, <a>discourse:sp</a>, <a>mark:rel</a>, <a>obl:patient</a>, <a>obl:tmod</a></li>
-<li>The following 6 relation types are not used in this corpus at all: <a>expl</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>orphan</a>, <a>reparandum</a></li>
-</ul>
-
-  </td>
-  <td width="25%" valign="top">
-<ul>
-<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
-<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: _.</li>
-</ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="25%" valign="top">
 <ul>
 <li>This corpus uses 40 lemmas as auxiliaries (<a>aux</a>). Examples: 會、 可以、 可、 能、 要、 可能、 必須、 能夠、 不會、 不能、 想、 需要、 需、 應、 未能、 不可、 不得、 須、 不應、 不願、 應該、 欲、 願意、 不想、 必、 不需、 請、 不準、 不肯、 不要、 不該、 只能、 得、 愛、 應當、 敢、 沒能、 當、 肯、 能否.</li>
 <li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: 被、 為、 把.</li>
@@ -1583,22 +1617,21 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
-
-Here we consider only relations between verbs (parent) and nouns or pronouns (child).
 <ul>
-  <li><a>nsubj</a>
-    <ul>
-      <li>VERB--NOUN (822)</li>
-      <li>VERB--PRON (336)</li>
-    </ul>
-  </li>
+<li>This corpus uses 30 lemmas as auxiliaries (<a>aux</a>). Examples: 了、 着、 要、 会、 能、 想、 过、 可以、 没、 应该、 爱、 得、 敢、 需要、 可能、 没有、 不得、 似乎、 似的、 喜欢、 回、 好像、 宁愿、 就、 希望、 必须、 愿意、 懒得、 起来、 这.</li>
+</ul>
+
+  </td>
+  <td width="25%" valign="top">
+<ul>
+<li>This corpus uses 20 lemmas as auxiliaries (<a>aux</a>). Examples: _、 要、 能、 過、 了、 可以、 喜歡、 愛、 著、 不要、 想、 應該、 會、 不用、 別、 好、 有、 樂意、 沒有、 需要.</li>
+</ul>
+
+  </td>
+  <td width="25%" valign="top">
+<ul>
+<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
+<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: _.</li>
 </ul>
 
   </td>
@@ -1621,17 +1654,43 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="25%" valign="top">
+<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
 
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
+Here we consider only relations between verbs (parent) and nouns or pronouns (child).
 <ul>
-  <li><a>obj</a>
+  <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (1126)</li>
-      <li>VERB--PRON (48)</li>
+      <li>VERB--NOUN (126)</li>
+      <li>VERB--NOUN-ADP(在) (1)</li>
+      <li>VERB--PRON (393)</li>
+    </ul>
+  </li>
+</ul>
+
+  </td>
+  <td width="25%" valign="top">
+<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+
+Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+<ul>
+  <li><a>nsubj</a>
+    <ul>
+      <li>VERB--NOUN (26)</li>
+      <li>VERB--PRON (75)</li>
+    </ul>
+  </li>
+</ul>
+
+  </td>
+  <td width="25%" valign="top">
+<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+
+Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+<ul>
+  <li><a>nsubj</a>
+    <ul>
+      <li>VERB--NOUN (822)</li>
+      <li>VERB--PRON (336)</li>
     </ul>
   </li>
 </ul>
@@ -1651,17 +1710,34 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
+<ul>
+  <li><a>obj</a>
+    <ul>
+      <li>VERB--NOUN (394)</li>
+      <li>VERB--PRON (90)</li>
+    </ul>
+  </li>
+</ul>
 
   </td>
   <td width="25%" valign="top">
 <ul>
-  <li><a>iobj</a>
+  <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (9)</li>
-      <li>VERB--PRON (1)</li>
+      <li>VERB--NOUN (97)</li>
+      <li>VERB--PRON (33)</li>
+      <li>VERB--PRON-ADP(的) (1)</li>
+    </ul>
+  </li>
+</ul>
+
+  </td>
+  <td width="25%" valign="top">
+<ul>
+  <li><a>obj</a>
+    <ul>
+      <li>VERB--NOUN (1126)</li>
+      <li>VERB--PRON (48)</li>
     </ul>
   </li>
 </ul>
@@ -1681,60 +1757,78 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-<h3>Relations Overview</h3>
-
 <ul>
-<li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>case:loc</a>, <a>discourse:sp</a>, <a>flat:name</a>, <a>mark:adv</a>, <a>mark:prt</a>, <a>mark:relcl</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:patient</a>, <a>obl:tmod</a></li>
-<li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+  <li><a>iobj</a>
+    <ul>
+      <li>VERB--NOUN (1)</li>
+      <li>VERB--PRON (5)</li>
+      <li>VERB--PRON-ADP(给) (1)</li>
+    </ul>
+  </li>
 </ul>
+
+  </td>
+  <td width="25%" valign="top">
+<ul>
+  <li><a>iobj</a>
+    <ul>
+      <li>VERB--PRON (4)</li>
+    </ul>
+  </li>
+</ul>
+
+  </td>
+  <td width="25%" valign="top">
+<ul>
+  <li><a>iobj</a>
+    <ul>
+      <li>VERB--NOUN (9)</li>
+      <li>VERB--PRON (1)</li>
+    </ul>
+  </li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
 
   </td>
 </tr>
@@ -1750,12 +1844,30 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="25%" valign="top">
+<h3>Relations Overview</h3>
+
+<ul>
+<li>This corpus uses 13 relation subtypes: <a>advmod:df</a>, <a>case:loc</a>, <a>compound:dir</a>, <a>compound:ext</a>, <a>compound:vo</a>, <a>compound:vv</a>, <a>discourse:sp</a>, <a>mark:adv</a>, <a>mark:rel</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:patient</a>, <a>obl:tmod</a></li>
+<li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>fixed</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a></li>
+</ul>
 
   </td>
   <td width="25%" valign="top">
+<h3>Relations Overview</h3>
+
+<ul>
+<li>This corpus uses 10 relation subtypes: <a>advmod:df</a>, <a>case:loc</a>, <a>compound:dir</a>, <a>compound:ext</a>, <a>compound:vo</a>, <a>compound:vv</a>, <a>discourse:sp</a>, <a>mark:rel</a>, <a>obl:patient</a>, <a>obl:tmod</a></li>
+<li>The following 6 relation types are not used in this corpus at all: <a>expl</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>orphan</a>, <a>reparandum</a></li>
+</ul>
 
   </td>
   <td width="25%" valign="top">
+<h3>Relations Overview</h3>
+
+<ul>
+<li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>case:loc</a>, <a>discourse:sp</a>, <a>flat:name</a>, <a>mark:adv</a>, <a>mark:prt</a>, <a>mark:relcl</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:patient</a>, <a>obl:tmod</a></li>
+<li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
+</ul>
 
   </td>
 </tr>

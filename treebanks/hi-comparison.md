@@ -486,13 +486,22 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<li><a>Number</a>
 
   </td>
   <td width="50%" valign="top">
   <ul>
   </ul>
 </li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<li><a>Number</a>
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>Number</a>
 
   </td>
 </tr>
@@ -528,6 +537,22 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+  <ul>
+    <li>Plur
+      <ul>
+        <li>ADJ: नये, अच्छे, ऊंचे, दूसरे, पुराने</li>
+        <li>ADP: के, वाले, वालों</li>
+        <li>AUX: हैं, थे, गए, रहे, सकते, थीं, जाते, होते, हुए, दिए</li>
+        <li>AUX-Inf: होना</li>
+        <li>DET: उन, इन, दोनों, ये, वे, वो, सैकड़ों</li>
+        <li>NOUN: लोगों, लोग, वर्षों, दिनों, देशों, दोनों, अधिकारियों, बच्चों, कंपनियों, निवेशकों</li>
+        <li>PRON: वे, उनमें, हम, उनके, ये, जिनमें, हमारे, उनकी, हमें, उन्हें</li>
+        <li>PROPN: कॉमन्स, पालों, बांतु, मपेट्स</li>
+        <li>VERB: हैं, करते, थे, किए, होते, करें, करेंगे, हुए, कहते, दिए</li>
+        <li>VERB-Inf: करने, लौटना</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -569,50 +594,6 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-<li><a>Number</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Plur
-      <ul>
-        <li>ADJ: नये, अच्छे, ऊंचे, दूसरे, पुराने</li>
-        <li>ADP: के, वाले, वालों</li>
-        <li>AUX: हैं, थे, गए, रहे, सकते, थीं, जाते, होते, हुए, दिए</li>
-        <li>AUX-Inf: होना</li>
-        <li>DET: उन, इन, दोनों, ये, वे, वो, सैकड़ों</li>
-        <li>NOUN: लोगों, लोग, वर्षों, दिनों, देशों, दोनों, अधिकारियों, बच्चों, कंपनियों, निवेशकों</li>
-        <li>PRON: वे, उनमें, हम, उनके, ये, जिनमें, हमारे, उनकी, हमें, उन्हें</li>
-        <li>PROPN: कॉमन्स, पालों, बांतु, मपेट्स</li>
-        <li>VERB: हैं, करते, थे, किए, होते, करें, करेंगे, हुए, कहते, दिए</li>
-        <li>VERB-Inf: करने, लौटना</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
   <ul>
     <li>Sing
       <ul>
@@ -634,13 +615,40 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<li><a>Case</a>
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="50%" valign="top">
   <ul>
   </ul>
 </li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<li><a>Case</a>
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>Case</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Abl
+      <ul>
+        <li>ADP: से</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -672,6 +680,19 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+  <ul>
+    <li>Acc
+      <ul>
+        <li>ADJ: नये, पहले, पिछले, दूसरे, पुराने, छोटे, तीसरे, लम्बे, निचले, खुले</li>
+        <li>ADP: को, से, में, पर, तक, के, वाले, का, मे, की</li>
+        <li>AUX: घराने, जमाने, तोपखाने</li>
+        <li>DET: पूरे, कितने, समूचे, सारे</li>
+        <li>NOUN: रूप, लोगों, क्षेत्र, वर्ष, युद्ध, समय, तरीके, दशक, वर्षों, शताब्दी</li>
+        <li>PRON: अपने, उसने, उसके, उसे, जिसमें, उन्हें, उन्होंने, उनके, मैंने, जिसे</li>
+        <li>PROPN: अमेरिका, चीन, ब्रिटेन, यूरोप, इटली, ट्रम्प, फ्रांस, रूस, अफ्रीका, अल्बानिया</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -758,89 +779,6 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-  <ul>
-    <li>Nom
-      <ul>
-        <li>ADJ: विशेष, पूर्व, मुख्य, अन्य, अंतिम, अलग, पूरा, पूरी, महत्वपूर्ण, भारी</li>
-        <li>ADP: का, की, के, साथ, बाद, दौरान, बीच, पहले, पास, वाले</li>
-        <li>ADP-Fin: के</li>
-        <li>ADV: बाद, पहले, आगे, साथ, दौरान, सामने, दूर, बीच, बाहर, पीछे</li>
-        <li>AUX: जाना, वाला, पाना, रखना, कर, वाले, देना, पड़ती, रहना, है</li>
-        <li>AUX-Fin: है</li>
-        <li>AUX-Inf: जाना, पाना, रखना, देना, रहना, लेना</li>
-        <li>AUX-Part: पड़ती, रहा</li>
-        <li>DET: यह, ये, जो, ऐसा, इस, यही, ऐसी, ऐसे, हम, वही</li>
-        <li>NOUN: शुरू, बात, लोग, पुलिस, सरकार, बार, समय, जानकारी, चुनाव, फैसला</li>
-        <li>NOUN-Inf: सराहना</li>
-        <li>NUM: दोनों, पौने, एक, करोड़ों, चारों, दसियों, दो, ४६</li>
-        <li>PART: सी, सा, गुना, भी, से</li>
-        <li>PRON: यह, वह, कोई, अब, वे, जब, जो, यहां, हम, अपना</li>
-        <li>PROPN: भारत, प्रधानमंत्री, मंत्री, सिंह, कांग्रेस, के., दिल्ली, मनमोहन, उत्तर, भाजपा</li>
-        <li>PUNCT: (</li>
-        <li>SCONJ: जैसा</li>
-        <li>VERB: कहना, करना, मानना, देना, होना, देखना, जाना, बनाना, आना, करने</li>
-        <li>VERB-Inf: कहना, करना, मानना, देना, होना, देखना, जाना, बनाना, आना, करने</li>
-        <li>VERB-Part: खड़ा, जाने, बढ़ता, भरा, हुई</li>
-        <li>X: अलग, अपने, भूरि, इतनी, खासी, दर्जन, बड़ा, साथ</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-<li><a>Case</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Abl
-      <ul>
-        <li>ADP: से</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Acc
-      <ul>
-        <li>ADJ: नये, पहले, पिछले, दूसरे, पुराने, छोटे, तीसरे, लम्बे, निचले, खुले</li>
-        <li>ADP: को, से, में, पर, तक, के, वाले, का, मे, की</li>
-        <li>AUX: घराने, जमाने, तोपखाने</li>
-        <li>DET: पूरे, कितने, समूचे, सारे</li>
-        <li>NOUN: रूप, लोगों, क्षेत्र, वर्ष, युद्ध, समय, तरीके, दशक, वर्षों, शताब्दी</li>
-        <li>PRON: अपने, उसने, उसके, उसे, जिसमें, उन्हें, उन्होंने, उनके, मैंने, जिसे</li>
-        <li>PROPN: अमेरिका, चीन, ब्रिटेन, यूरोप, इटली, ट्रम्प, फ्रांस, रूस, अफ्रीका, अल्बानिया</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
 
   </td>
   <td width="50%" valign="top">
@@ -916,6 +854,33 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+  <ul>
+    <li>Nom
+      <ul>
+        <li>ADJ: विशेष, पूर्व, मुख्य, अन्य, अंतिम, अलग, पूरा, पूरी, महत्वपूर्ण, भारी</li>
+        <li>ADP: का, की, के, साथ, बाद, दौरान, बीच, पहले, पास, वाले</li>
+        <li>ADP-Fin: के</li>
+        <li>ADV: बाद, पहले, आगे, साथ, दौरान, सामने, दूर, बीच, बाहर, पीछे</li>
+        <li>AUX: जाना, वाला, पाना, रखना, कर, वाले, देना, पड़ती, रहना, है</li>
+        <li>AUX-Fin: है</li>
+        <li>AUX-Inf: जाना, पाना, रखना, देना, रहना, लेना</li>
+        <li>AUX-Part: पड़ती, रहा</li>
+        <li>DET: यह, ये, जो, ऐसा, इस, यही, ऐसी, ऐसे, हम, वही</li>
+        <li>NOUN: शुरू, बात, लोग, पुलिस, सरकार, बार, समय, जानकारी, चुनाव, फैसला</li>
+        <li>NOUN-Inf: सराहना</li>
+        <li>NUM: दोनों, पौने, एक, करोड़ों, चारों, दसियों, दो, ४६</li>
+        <li>PART: सी, सा, गुना, भी, से</li>
+        <li>PRON: यह, वह, कोई, अब, वे, जब, जो, यहां, हम, अपना</li>
+        <li>PROPN: भारत, प्रधानमंत्री, मंत्री, सिंह, कांग्रेस, के., दिल्ली, मनमोहन, उत्तर, भाजपा</li>
+        <li>PUNCT: (</li>
+        <li>SCONJ: जैसा</li>
+        <li>VERB: कहना, करना, मानना, देना, होना, देखना, जाना, बनाना, आना, करने</li>
+        <li>VERB-Inf: कहना, करना, मानना, देना, होना, देखना, जाना, बनाना, आना, करने</li>
+        <li>VERB-Part: खड़ा, जाने, बढ़ता, भरा, हुई</li>
+        <li>X: अलग, अपने, भूरि, इतनी, खासी, दर्जन, बड़ा, साथ</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="50%" valign="top">
@@ -937,6 +902,9 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="50%" valign="top">
@@ -956,8 +924,14 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<h3>Degree and Polarity</h3>
 
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 
   </td>
   <td width="50%" valign="top">
@@ -1008,12 +982,39 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<li><a>Polarity</a>
+<h3>Degree and Polarity</h3>
+
 
   </td>
   <td width="50%" valign="top">
 <h3>Degree and Polarity</h3>
 
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<li><a>Polarity</a>
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>Polarity</a>
 
   </td>
 </tr>
@@ -1026,34 +1027,6 @@ udver: '2'
       </ul>
     </li>
   </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-<li><a>Polarity</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
 
   </td>
   <td width="50%" valign="top">
@@ -1070,8 +1043,9 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<h3>Verbal Features</h3>
-
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="50%" valign="top">
@@ -1083,10 +1057,39 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<h3>Verbal Features</h3>
+
+
+  </td>
+  <td width="50%" valign="top">
+<h3>Verbal Features</h3>
+
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <li><a>Aspect</a>
 
   </td>
   <td width="50%" valign="top">
+<li><a>Aspect</a>
 
   </td>
 </tr>
@@ -1098,65 +1101,6 @@ udver: '2'
         <li>AUX-Part: सकता, जाता, सकते, सकती, जाती, जाते, रहती, देते, रहता, पड़ता</li>
         <li>PROPN-Part: चाहता</li>
         <li>VERB-Part: करते, देते, चाहते, देखते, होता, होती, चाहती, बताते, होते, करता</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Perf
-      <ul>
-        <li>ADP-Part: लिए</li>
-        <li>AUX-Part: गया, गई, गए, हुए, दिया, रहे, रही, रहा, दी, लिया</li>
-        <li>NOUN-Part: बजे</li>
-        <li>VERB-Part: कहा, किया, की, बताया, हुई, दिया, किए, दी, हुआ, हुए</li>
-        <li>X-Part: बुझे</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-<h3>Verbal Features</h3>
-
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-<li><a>Mood</a>
-
-  </td>
-  <td width="50%" valign="top">
-<li><a>Aspect</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Imp
-      <ul>
-        <li>AUX-Fin: दो</li>
-        <li>PROPN-Fin: बताओ</li>
-        <li>VERB-Fin: करो, बताओ, जाओ, दो, बचाओ, लो</li>
       </ul>
     </li>
   </ul>
@@ -1177,23 +1121,16 @@ udver: '2'
 <tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Ind
+    <li>Perf
       <ul>
-        <li>ADP-Fin: के</li>
-        <li>AUX-Fin: है, हैं, था, थी, थे, जाएगा, जाएगी, होगा, थीं, जाएंगे</li>
-        <li>PROPN-Fin: बनेगा</li>
-        <li>VERB-Fin: है, करेंगे, होगा, होगी, हैं, था, करेगी, करेगा, होंगे, मिलेगा</li>
+        <li>ADP-Part: लिए</li>
+        <li>AUX-Part: गया, गई, गए, हुए, दिया, रहे, रही, रहा, दी, लिया</li>
+        <li>NOUN-Part: बजे</li>
+        <li>VERB-Part: कहा, किया, की, बताया, हुई, दिया, किए, दी, हुआ, हुए</li>
+        <li>X-Part: बुझे</li>
       </ul>
     </li>
   </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
 
   </td>
   <td width="50%" valign="top">
@@ -1218,6 +1155,97 @@ udver: '2'
       <ul>
         <li>AUX: रहे, रहा, रही, हुए</li>
         <li>VERB: रहा, रही, फिशिंग</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<li><a>Mood</a>
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>Mood</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Imp
+      <ul>
+        <li>AUX-Fin: दो</li>
+        <li>PROPN-Fin: बताओ</li>
+        <li>VERB-Fin: करो, बताओ, जाओ, दो, बचाओ, लो</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Imp
+      <ul>
+        <li>AUX: चाहेंगे, जाए, दें, सकते</li>
+        <li>VERB: करें, करेंगे, चाहें</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Ind
+      <ul>
+        <li>ADP-Fin: के</li>
+        <li>AUX-Fin: है, हैं, था, थी, थे, जाएगा, जाएगी, होगा, थीं, जाएंगे</li>
+        <li>PROPN-Fin: बनेगा</li>
+        <li>VERB-Fin: है, करेंगे, होगा, होगी, हैं, था, करेगी, करेगा, होंगे, मिलेगा</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Ind
+      <ul>
+        <li>AUX: गया, है, गयी, जाता, सकता, था, दिया, रहे, हैं, गए</li>
+        <li>VERB: है, किया, कहा, था, की, थी, हैं, हुआ, हुई, करता</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Opt
+      <ul>
+        <li>AUX: चाहिए, जाए, सकता, गयी, लाना, सकते</li>
+        <li>VERB: करे</li>
       </ul>
     </li>
   </ul>
@@ -1262,7 +1290,7 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-<li><a>Mood</a>
+<li><a>Tense</a>
 
   </td>
 </tr>
@@ -1280,51 +1308,11 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
   <ul>
-    <li>Imp
+    <li>Fut
       <ul>
-        <li>AUX: चाहेंगे, जाए, दें, सकते</li>
-        <li>VERB: करें, करेंगे, चाहें</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Ind
-      <ul>
-        <li>AUX: गया, है, गयी, जाता, सकता, था, दिया, रहे, हैं, गए</li>
-        <li>VERB: है, किया, कहा, था, की, थी, हैं, हुआ, हुई, करता</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Opt
-      <ul>
-        <li>AUX: चाहिए, जाए, सकता, गयी, लाना, सकते</li>
-        <li>VERB: करे</li>
+        <li>AUX: होगा, जाएगा, देगा, जाएगी, होगी, जाएंगे, पड़ेगा, आएंगे, करेंगे, देंगे</li>
+        <li>VERB: करेगा, होगा, करेंगे, होगी, होंगे, देगा, रहेगा, करूंगा, करे, करेगी</li>
       </ul>
     </li>
   </ul>
@@ -1345,114 +1333,6 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Pres
-      <ul>
-        <li>AUX-Fin: है, हैं, हूं, हूँ, हैँ</li>
-        <li>VERB-Fin: है, हैं, हूं, हूँ</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-<li><a>Voice</a>
-
-  </td>
-  <td width="50%" valign="top">
-<li><a>Tense</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Act
-      <ul>
-        <li>AUX: है, हैं, थे, था, थी, थीं, हूं, हूँ, हों, हैँ</li>
-        <li>AUX-Fin: है, हैं, थे, था, थी, थीं, हूं, हूँ, हैँ, होगा</li>
-        <li>NOUN: जोर, माह</li>
-        <li>PART: नहीं</li>
-        <li>VERB: कहा, कर, किया, हो, की, है, बताया, दिया, हुई, दी</li>
-        <li>VERB-Conv: लेकर, बढ़कर, भराकर, रोके</li>
-        <li>VERB-Fin: है, करेंगे, होगा, होगी, हैं, था, करेगी, करेगा, होंगे, करें</li>
-        <li>VERB-Inf: करना, होना, करनी, करने, होनी, होने, देना, देनी, जाना, लेना</li>
-        <li>VERB-Part: कहा, किया, की, बताया, दिया, हुई, दी, हुआ, करते, किए</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Fut
-      <ul>
-        <li>AUX: होगा, जाएगा, देगा, जाएगी, होगी, जाएंगे, पड़ेगा, आएंगे, करेंगे, देंगे</li>
-        <li>VERB: करेगा, होगा, करेंगे, होगी, होंगे, देगा, रहेगा, करूंगा, करे, करेगी</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Pass
-      <ul>
-        <li>AUX-Fin: है, थी, हैं</li>
-        <li>NOUN: संकेत</li>
-        <li>PROPN: मंदिर</li>
-        <li>VERB: किया, की, कर, कहा, दिया, किए, दी, बनाया, मारे, रखा</li>
-        <li>VERB-Fin: होगा, कराएगी, करें, गिराए, ठहरेंगे, मानें, रहेगा</li>
-        <li>VERB-Inf: करनी, होने, अपनानी, करने, चलानी, जाना, जाने, बढ़ाना, मिलना</li>
-        <li>VERB-Part: किया, की, कहा, दिया, किए, दी, बनाया, मारे, माना, रखा</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
   <ul>
     <li>Past
       <ul>
@@ -1466,6 +1346,14 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+  <ul>
+    <li>Pres
+      <ul>
+        <li>AUX-Fin: है, हैं, हूं, हूँ, हैँ</li>
+        <li>VERB-Fin: है, हैं, हूं, हूँ</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="50%" valign="top">
@@ -1496,6 +1384,78 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+<li><a>Voice</a>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Act
+      <ul>
+        <li>AUX: है, हैं, थे, था, थी, थीं, हूं, हूँ, हों, हैँ</li>
+        <li>AUX-Fin: है, हैं, थे, था, थी, थीं, हूं, हूँ, हैँ, होगा</li>
+        <li>NOUN: जोर, माह</li>
+        <li>PART: नहीं</li>
+        <li>VERB: कहा, कर, किया, हो, की, है, बताया, दिया, हुई, दी</li>
+        <li>VERB-Conv: लेकर, बढ़कर, भराकर, रोके</li>
+        <li>VERB-Fin: है, करेंगे, होगा, होगी, हैं, था, करेगी, करेगा, होंगे, करें</li>
+        <li>VERB-Inf: करना, होना, करनी, करने, होनी, होने, देना, देनी, जाना, लेना</li>
+        <li>VERB-Part: कहा, किया, की, बताया, दिया, हुई, दी, हुआ, करते, किए</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Pass
+      <ul>
+        <li>AUX-Fin: है, थी, हैं</li>
+        <li>NOUN: संकेत</li>
+        <li>PROPN: मंदिर</li>
+        <li>VERB: किया, की, कर, कहा, दिया, किए, दी, बनाया, मारे, रखा</li>
+        <li>VERB-Fin: होगा, कराएगी, करें, गिराए, ठहरेंगे, मानें, रहेगा</li>
+        <li>VERB-Inf: करनी, होने, अपनानी, करने, चलानी, जाना, जाने, बढ़ाना, मिलना</li>
+        <li>VERB-Part: किया, की, कहा, दिया, किए, दी, बनाया, मारे, माना, रखा</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 
   </td>
   <td width="50%" valign="top">
@@ -1509,6 +1469,8 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+<h3>Pronouns, Determiners, Quantifiers</h3>
+
 
   </td>
 </tr>
@@ -1518,8 +1480,7 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-<h3>Pronouns, Determiners, Quantifiers</h3>
-
+<li><a>PronType</a>
 
   </td>
 </tr>
@@ -1598,26 +1559,6 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-<li><a>PronType</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
   <ul>
     <li>Prs
       <ul>
@@ -1630,13 +1571,25 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<li><a>NumType</a>
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="50%" valign="top">
   <ul>
   </ul>
 </li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<li><a>NumType</a>
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>NumType</a>
 
   </td>
 </tr>
@@ -1652,6 +1605,13 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+  <ul>
+    <li>Card
+      <ul>
+        <li>NUM: दो, तीन, एक, मिलियन, चार, 1, 10, 3, छह, दस</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -1678,22 +1638,9 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-<li><a>NumType</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
   <ul>
-    <li>Card
-      <ul>
-        <li>NUM: दो, तीन, एक, मिलियन, चार, 1, 10, 3, छह, दस</li>
-      </ul>
-    </li>
   </ul>
+</li>
 
   </td>
 </tr>
@@ -1703,9 +1650,6 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
 
   </td>
 </tr>
@@ -1732,6 +1676,14 @@ udver: '2'
   <ul>
   </ul>
 </li>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 
   </td>
   <td width="50%" valign="top">
@@ -2019,12 +1971,63 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>Number[psor]</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Plur
+      <ul>
+        <li>PRON: जो, उनकी, जिनमें, जिन्हें, जिन्होंने, जिसमें, जिनकी, उनके, जहां, जिनका</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Sing
+      <ul>
+        <li>PRON: जो, उसके, उसकी, जिसमें, उसका, जिसे, जिसका, जिसकी, जिसके, इसका</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <h3>Other Features</h3>
 
 
   </td>
   <td width="50%" valign="top">
-<li><a>Number[psor]</a>
+<h3>Other Features</h3>
+
 
   </td>
 </tr>
@@ -2109,36 +2112,6 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Plur
-      <ul>
-        <li>PRON: जो, उनकी, जिनमें, जिन्हें, जिन्होंने, जिसमें, जिनकी, उनके, जहां, जिनका</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Sing
-      <ul>
-        <li>PRON: जो, उसके, उसकी, जिसमें, उसका, जिसे, जिसका, जिसकी, जिसके, इसका</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
@@ -2149,9 +2122,13 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
+<h2>Syntax</h2>
+
+<h3>Auxiliary Verbs and Copula</h3>
+
+<ul>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
+</ul>
 
   </td>
 </tr>
@@ -2164,8 +2141,10 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-<h3>Other Features</h3>
-
+<ul>
+<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
+<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: _.</li>
+</ul>
 
   </td>
 </tr>
@@ -2287,12 +2266,30 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="50%" valign="top">
-<h2>Syntax</h2>
+<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
 
-<h3>Auxiliary Verbs and Copula</h3>
-
+Here we consider only relations between verbs (parent) and nouns or pronouns (child).
 <ul>
-<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
+  <li><a>nsubj</a>
+    <ul>
+      <li>VERB--NOUN (6)</li>
+      <li>VERB--NOUN-ADP(_) (1)</li>
+      <li>VERB--NOUN-Acc (7)</li>
+      <li>VERB--NOUN-Acc-ADP(_) (105)</li>
+      <li>VERB--NOUN-Nom (183)</li>
+      <li>VERB--NOUN-Nom-ADP(_) (11)</li>
+      <li>VERB--PRON (50)</li>
+      <li>VERB--PRON-ADP(_) (1)</li>
+      <li>VERB--PRON-Acc (138)</li>
+      <li>VERB--PRON-Acc-ADP(_) (4)</li>
+      <li>VERB--PRON-Nom (160)</li>
+      <li>VERB--PRON-Nom-ADP(_) (1)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(_) (7)</li>
+      <li>VERB-Inf--NOUN-Nom (7)</li>
+      <li>VERB-Inf--PRON-Acc (10)</li>
+      <li>VERB-Inf--PRON-Nom (5)</li>
+    </ul>
+  </li>
 </ul>
 
   </td>
@@ -2439,8 +2436,27 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   </td>
   <td width="50%" valign="top">
 <ul>
-<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
-<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: _.</li>
+  <li><a>obj</a>
+    <ul>
+      <li>VERB--NOUN (20)</li>
+      <li>VERB--NOUN-Acc (32)</li>
+      <li>VERB--NOUN-Acc-ADP(_) (86)</li>
+      <li>VERB--NOUN-Nom (759)</li>
+      <li>VERB--NOUN-Nom-ADP(_) (3)</li>
+      <li>VERB--PRON (27)</li>
+      <li>VERB--PRON-Acc (29)</li>
+      <li>VERB--PRON-Acc-ADP(_) (2)</li>
+      <li>VERB--PRON-Nom (5)</li>
+      <li>VERB-Inf--NOUN (10)</li>
+      <li>VERB-Inf--NOUN-Acc (5)</li>
+      <li>VERB-Inf--NOUN-Acc-ADP(_) (53)</li>
+      <li>VERB-Inf--NOUN-Nom (185)</li>
+      <li>VERB-Inf--NOUN-Nom-ADP(_) (3)</li>
+      <li>VERB-Inf--PRON (8)</li>
+      <li>VERB-Inf--PRON-Acc (4)</li>
+      <li>VERB-Inf--PRON-Nom (1)</li>
+    </ul>
+  </li>
 </ul>
 
   </td>
@@ -2515,70 +2531,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="50%" valign="top">
-<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
-
-Here we consider only relations between verbs (parent) and nouns or pronouns (child).
-<ul>
-  <li><a>nsubj</a>
-    <ul>
-      <li>VERB--NOUN (6)</li>
-      <li>VERB--NOUN-ADP(_) (1)</li>
-      <li>VERB--NOUN-Acc (7)</li>
-      <li>VERB--NOUN-Acc-ADP(_) (105)</li>
-      <li>VERB--NOUN-Nom (183)</li>
-      <li>VERB--NOUN-Nom-ADP(_) (11)</li>
-      <li>VERB--PRON (50)</li>
-      <li>VERB--PRON-ADP(_) (1)</li>
-      <li>VERB--PRON-Acc (138)</li>
-      <li>VERB--PRON-Acc-ADP(_) (4)</li>
-      <li>VERB--PRON-Nom (160)</li>
-      <li>VERB--PRON-Nom-ADP(_) (1)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(_) (7)</li>
-      <li>VERB-Inf--NOUN-Nom (7)</li>
-      <li>VERB-Inf--PRON-Acc (10)</li>
-      <li>VERB-Inf--PRON-Nom (5)</li>
-    </ul>
-  </li>
-</ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-<ul>
-  <li><a>obj</a>
-    <ul>
-      <li>VERB--NOUN (20)</li>
-      <li>VERB--NOUN-Acc (32)</li>
-      <li>VERB--NOUN-Acc-ADP(_) (86)</li>
-      <li>VERB--NOUN-Nom (759)</li>
-      <li>VERB--NOUN-Nom-ADP(_) (3)</li>
-      <li>VERB--PRON (27)</li>
-      <li>VERB--PRON-Acc (29)</li>
-      <li>VERB--PRON-Acc-ADP(_) (2)</li>
-      <li>VERB--PRON-Nom (5)</li>
-      <li>VERB-Inf--NOUN (10)</li>
-      <li>VERB-Inf--NOUN-Acc (5)</li>
-      <li>VERB-Inf--NOUN-Acc-ADP(_) (53)</li>
-      <li>VERB-Inf--NOUN-Nom (185)</li>
-      <li>VERB-Inf--NOUN-Nom-ADP(_) (3)</li>
-      <li>VERB-Inf--PRON (8)</li>
-      <li>VERB-Inf--PRON-Acc (4)</li>
-      <li>VERB-Inf--PRON-Nom (1)</li>
-    </ul>
-  </li>
-</ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
 <ul>
   <li><a>iobj</a>
     <ul>
@@ -2609,28 +2561,28 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <h3>Relations Overview</h3>
 
 <ul>
 <li>This corpus uses 3 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>nsubj:pass</a></li>
 <li>The following 13 relation types are not used in this corpus at all: <a>csubj</a>, <a>ccomp</a>, <a>expl</a>, <a>discourse</a>, <a>appos</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
 
   </td>
   <td width="50%" valign="top">

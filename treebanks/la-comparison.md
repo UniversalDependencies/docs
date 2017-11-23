@@ -798,6 +798,17 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
 <li><a>Number</a>
 
   </td>
@@ -1384,6 +1395,28 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
 <h3>Degree and Polarity</h3>
 
 
@@ -1605,6 +1638,33 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+<h3>Verbal Features</h3>
+
+
+  </td>
+  <td width="33%" valign="top">
 <h3>Verbal Features</h3>
 
 
@@ -1612,9 +1672,6 @@ udver: '2'
   <td width="33%" valign="top">
 <h3>Verbal Features</h3>
 
-
-  </td>
-  <td width="33%" valign="top">
 
   </td>
 </tr>
@@ -1628,8 +1685,7 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
-<h3>Verbal Features</h3>
-
+<li><a>Aspect</a>
 
   </td>
 </tr>
@@ -1657,6 +1713,14 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
+  <ul>
+    <li>Imp
+      <ul>
+        <li>AUX-Fin: erat, esset, erant, essent, essem, eram, esses, essemus, eramus, essetis</li>
+        <li>VERB-Fin: dicebant, dicebat, posset, habebat, possent, habebant, fieret, poterat, diceret, sedebat</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -1692,54 +1756,6 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="33%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="33%" valign="top">
-<li><a>Aspect</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-  <ul>
-    <li>Imp
-      <ul>
-        <li>AUX-Fin: erat, esset, erant, essent, essem, eram, esses, essemus, eramus, essetis</li>
-        <li>VERB-Fin: dicebant, dicebat, posset, habebat, possent, habebant, fieret, poterat, diceret, sedebat</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
   <ul>
     <li>Perf
       <ul>
@@ -1756,17 +1772,35 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
-<li><a>Mood</a>
-
-  </td>
-  <td width="33%" valign="top">
-<li><a>Mood</a>
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="33%" valign="top">
   <ul>
   </ul>
 </li>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+<li><a>Mood</a>
+
+  </td>
+  <td width="33%" valign="top">
+<li><a>Mood</a>
+
+  </td>
+  <td width="33%" valign="top">
+<li><a>Mood</a>
 
   </td>
 </tr>
@@ -1793,6 +1827,14 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
+  <ul>
+    <li>Imp
+      <ul>
+        <li>AUX-Fin: estote, esto</li>
+        <li>VERB-Fin: nolite, vade, fac, noli, videte, cura, surge, facite, ite, veni</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -1820,6 +1862,14 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
+  <ul>
+    <li>Ind
+      <ul>
+        <li>AUX-Fin: est, sunt, erat, sum, erant, fuit, erit, es, estis, sumus</li>
+        <li>VERB-Fin: dixit, ait, dicit, venit, dico, habet, dixerunt, misit, respondit, fecit</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -1847,73 +1897,6 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="33%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="33%" valign="top">
-<li><a>Mood</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-  <ul>
-    <li>Imp
-      <ul>
-        <li>AUX-Fin: estote, esto</li>
-        <li>VERB-Fin: nolite, vade, fac, noli, videte, cura, surge, facite, ite, veni</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-  <ul>
-    <li>Ind
-      <ul>
-        <li>AUX-Fin: est, sunt, erat, sum, erant, fuit, erit, es, estis, sumus</li>
-        <li>VERB-Fin: dixit, ait, dicit, venit, dico, habet, dixerunt, misit, respondit, fecit</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
   <ul>
     <li>Sub
       <ul>
@@ -1927,17 +1910,35 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
-<li><a>Tense</a>
-
-  </td>
-  <td width="33%" valign="top">
-<li><a>Tense</a>
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="33%" valign="top">
   <ul>
   </ul>
 </li>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+<li><a>Tense</a>
+
+  </td>
+  <td width="33%" valign="top">
+<li><a>Tense</a>
+
+  </td>
+  <td width="33%" valign="top">
+<li><a>Tense</a>
 
   </td>
 </tr>
@@ -1969,6 +1970,16 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
+  <ul>
+    <li>Fut
+      <ul>
+        <li>AUX-Fin: erit, erunt, fuerit, estote, eris, eritis, ero, erimus, esto, fuerint</li>
+        <li>AUX-Part: futurum, futurus, futuram, futura, futuros, futurorum</li>
+        <li>VERB-Fin: dabo, faciam, venerit, faciet, dabit, videbitis, scito, fiet, dices, mittam</li>
+        <li>VERB-Part: venturus, facturum, facturus, venturum, acturus, habiturum, ventura, visurus, curaturum, iturum</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -2023,6 +2034,17 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
+  <ul>
+    <li>Past
+      <ul>
+        <li>AUX-Fin: erat, esset, erant, fuit, essent, fuerunt, essem, eram, esses, essemus</li>
+        <li>AUX-Inf: fuisse</li>
+        <li>VERB-Fin: dixit, venit, dixerunt, misit, respondit, fecit, dedit, venerunt, dicebant, vidi</li>
+        <li>VERB-Inf: venisse, audisse, dedisse, fecisse, potuisse, nosse, accepisse, defuisse, accidisse, odisse</li>
+        <li>VERB-Part: factum, facta, scriptum, factus, locutus, data, profectus, dictum, mortuus, facto</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -2050,6 +2072,14 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
+  <ul>
+    <li>Pqp
+      <ul>
+        <li>AUX-Fin: fuerat, fuisset, fuerant, fuissent, fuissemus, fuissem, fuisses, fueramus, fuissetis</li>
+        <li>VERB-Fin: venisset, vidisset, dixisset, venissent, fecisset, venerant, venerat, audissent, audisset, dixerat</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -2088,97 +2118,6 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="33%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="33%" valign="top">
-<li><a>Tense</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-  <ul>
-    <li>Fut
-      <ul>
-        <li>AUX-Fin: erit, erunt, fuerit, estote, eris, eritis, ero, erimus, esto, fuerint</li>
-        <li>AUX-Part: futurum, futurus, futuram, futura, futuros, futurorum</li>
-        <li>VERB-Fin: dabo, faciam, venerit, faciet, dabit, videbitis, scito, fiet, dices, mittam</li>
-        <li>VERB-Part: venturus, facturum, facturus, venturum, acturus, habiturum, ventura, visurus, curaturum, iturum</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-  <ul>
-    <li>Past
-      <ul>
-        <li>AUX-Fin: erat, esset, erant, fuit, essent, fuerunt, essem, eram, esses, essemus</li>
-        <li>AUX-Inf: fuisse</li>
-        <li>VERB-Fin: dixit, venit, dixerunt, misit, respondit, fecit, dedit, venerunt, dicebant, vidi</li>
-        <li>VERB-Inf: venisse, audisse, dedisse, fecisse, potuisse, nosse, accepisse, defuisse, accidisse, odisse</li>
-        <li>VERB-Part: factum, facta, scriptum, factus, locutus, data, profectus, dictum, mortuus, facto</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-  <ul>
-    <li>Pqp
-      <ul>
-        <li>AUX-Fin: fuerat, fuisset, fuerant, fuissent, fuissemus, fuissem, fuisses, fueramus, fuissetis</li>
-        <li>VERB-Fin: venisset, vidisset, dixisset, venissent, fecisset, venerant, venerat, audissent, audisset, dixerat</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
   <ul>
     <li>Pres
       <ul>
@@ -2195,17 +2134,35 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
-<li><a>Voice</a>
-
-  </td>
-  <td width="33%" valign="top">
-<li><a>Voice</a>
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="33%" valign="top">
   <ul>
   </ul>
 </li>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+<li><a>Voice</a>
+
+  </td>
+  <td width="33%" valign="top">
+<li><a>Voice</a>
+
+  </td>
+  <td width="33%" valign="top">
+<li><a>Voice</a>
 
   </td>
 </tr>
@@ -2244,6 +2201,18 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
+  <ul>
+    <li>Act
+      <ul>
+        <li>AUX-Fin: est, sunt, erat, sum, esset, erant, sit, fuit, erit, es</li>
+        <li>AUX-Inf: esse, fore, fuisse</li>
+        <li>AUX-Part: futurum, futurus, futuram, futura, futuros, futurorum</li>
+        <li>VERB-Fin: dixit, ait, dicit, venit, dico, habet, dixerunt, misit, respondit, fecit</li>
+        <li>VERB-Inf: facere, posse, dicere, habere, venire, scire, videre, dare, ire, mittere</li>
+        <li>VERB-Part: dicens, dicentes, respondens, habens, videns, dicentem, habentes, videntes, audientes, surgens</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -2283,58 +2252,6 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="33%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="33%" valign="top">
-<li><a>Voice</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-  <ul>
-    <li>Act
-      <ul>
-        <li>AUX-Fin: est, sunt, erat, sum, esset, erant, sit, fuit, erit, es</li>
-        <li>AUX-Inf: esse, fore, fuisse</li>
-        <li>AUX-Part: futurum, futurus, futuram, futura, futuros, futurorum</li>
-        <li>VERB-Fin: dixit, ait, dicit, venit, dico, habet, dixerunt, misit, respondit, fecit</li>
-        <li>VERB-Inf: facere, posse, dicere, habere, venire, scire, videre, dare, ire, mittere</li>
-        <li>VERB-Part: dicens, dicentes, respondens, habens, videns, dicentem, habentes, videntes, audientes, surgens</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
   <ul>
     <li>Pass
       <ul>
@@ -2349,15 +2266,43 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="33%" valign="top">
   <ul>
   </ul>
 </li>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
 
   </td>
 </tr>
@@ -2373,6 +2318,8 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
+<h3>Pronouns, Determiners, Quantifiers</h3>
+
 
   </td>
 </tr>
@@ -2385,8 +2332,7 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
-<h3>Pronouns, Determiners, Quantifiers</h3>
-
+<li><a>PronType</a>
 
   </td>
 </tr>
@@ -2505,6 +2451,25 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+    <li>Int
+      <ul>
+        <li>ADV: quomodo, numquid, nonne, ubi, quam, quo, quare, unde, an, ne</li>
+        <li>PRON: quid, quis, quae, quo, qua, qui, quem, cuius, quibus, quanta</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
   <ul>
     <li>Int,Rel
       <ul>
@@ -2552,69 +2517,6 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-  <ul>
-    <li>Rel
-      <ul>
-        <li>PRON: quae, quod, qui, quo, quam, qua, quibus, cuius, quorum, quem</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="33%" valign="top">
-<li><a>PronType</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-  <ul>
-    <li>Int
-      <ul>
-        <li>ADV: quomodo, numquid, nonne, ubi, quam, quo, quare, unde, an, ne</li>
-        <li>PRON: quid, quis, quae, quo, qua, qui, quem, cuius, quibus, quanta</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
   <ul>
     <li>Prs
       <ul>
@@ -2648,6 +2550,13 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
+  <ul>
+    <li>Rel
+      <ul>
+        <li>PRON: quae, quod, qui, quo, quam, qua, quibus, cuius, quorum, quem</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="33%" valign="top">
@@ -2667,13 +2576,27 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
-<li><a>NumType</a>
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="33%" valign="top">
   <ul>
   </ul>
 </li>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+<li><a>NumType</a>
+
+  </td>
+  <td width="33%" valign="top">
 
   </td>
 </tr>
@@ -2747,7 +2670,6 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
-<li><a>Person</a>
 
   </td>
   <td width="33%" valign="top">
@@ -2756,64 +2678,6 @@ udver: '2'
   </td>
   <td width="33%" valign="top">
 <li><a>Poss</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-  <ul>
-    <li>1
-      <ul>
-        <li>VERB: vidi, audivi, potui, puto, sum, cogor, habemus, possum, quaeso, coepi</li>
-        <li>VERB-Fin: vidi, audivi, potui, puto, sum, cogor, habemus, possum, quaeso, coepi</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-  <ul>
-    <li>2
-      <ul>
-        <li>VERB-Fin: es, eris, potes, putes, vides, cave, facias, vis, habes, aspice</li>
-        <li>X-Fin: nutricas</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-  <ul>
-    <li>3
-      <ul>
-        <li>VERB: est, habet, inquit, erat, dixit, fuit, coepit, dedit, sunt, fecit</li>
-        <li>VERB-Fin: est, habet, inquit, erat, dixit, fuit, coepit, dedit, sunt, fecit</li>
-        <li>X-Fin: conlubuissent, vomuit</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
 
   </td>
 </tr>
@@ -2844,9 +2708,6 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
-  <ul>
-  </ul>
-</li>
 
   </td>
   <td width="33%" valign="top">
@@ -2920,6 +2781,7 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
+<li><a>Person</a>
 
   </td>
   <td width="33%" valign="top">
@@ -2933,6 +2795,14 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
+  <ul>
+    <li>1
+      <ul>
+        <li>VERB: vidi, audivi, potui, puto, sum, cogor, habemus, possum, quaeso, coepi</li>
+        <li>VERB-Fin: vidi, audivi, potui, puto, sum, cogor, habemus, possum, quaeso, coepi</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="33%" valign="top">
@@ -2962,6 +2832,14 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
+  <ul>
+    <li>2
+      <ul>
+        <li>VERB-Fin: es, eris, potes, putes, vides, cave, facias, vis, habes, aspice</li>
+        <li>X-Fin: nutricas</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="33%" valign="top">
@@ -2992,6 +2870,15 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
+  <ul>
+    <li>3
+      <ul>
+        <li>VERB: est, habet, inquit, erat, dixit, fuit, coepit, dedit, sunt, fecit</li>
+        <li>VERB-Fin: est, habet, inquit, erat, dixit, fuit, coepit, dedit, sunt, fecit</li>
+        <li>X-Fin: conlubuissent, vomuit</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="33%" valign="top">
@@ -3022,143 +2909,94 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
 <h3>Other Features</h3>
 
-
-  </td>
-  <td width="33%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="33%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-<h2>Syntax</h2>
-
-<h3>Auxiliary Verbs and Copula</h3>
-
-<ul>
-<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: sum1.</li>
-</ul>
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-<ul>
-<li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: foro1, celeber, edo1, sum1.</li>
-</ul>
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
-
-Here we consider only relations between verbs (parent) and nouns or pronouns (child).
-<ul>
-  <li><a>nsubj</a>
-    <ul>
-      <li>VERB--PRON-Nom (1)</li>
-      <li>VERB-Fin--NOUN (5)</li>
-      <li>VERB-Fin--NOUN-Acc (5)</li>
-      <li>VERB-Fin--NOUN-Nom (1024)</li>
-      <li>VERB-Fin--NOUN-Voc (1)</li>
-      <li>VERB-Fin--PRON-Acc (6)</li>
-      <li>VERB-Fin--PRON-Nom (536)</li>
-      <li>VERB-Fin--PRON-Voc (1)</li>
-      <li>VERB-Gdv--NOUN-Abl (3)</li>
-      <li>VERB-Gdv--NOUN-Acc (9)</li>
-      <li>VERB-Gdv--NOUN-Gen (5)</li>
-      <li>VERB-Gdv--NOUN-Nom (6)</li>
-      <li>VERB-Gdv--PRON-Acc (1)</li>
-      <li>VERB-Gdv--PRON-Gen (1)</li>
-      <li>VERB-Gdv--PRON-Nom (4)</li>
-      <li>VERB-Inf--NOUN-Acc (90)</li>
-      <li>VERB-Inf--NOUN-Nom (13)</li>
-      <li>VERB-Inf--PRON-Acc (65)</li>
-      <li>VERB-Inf--PRON-Nom (13)</li>
-      <li>VERB-Part--NOUN-Abl (144)</li>
-      <li>VERB-Part--NOUN-Acc (15)</li>
-      <li>VERB-Part--NOUN-Nom (42)</li>
-      <li>VERB-Part--PRON-Abl (12)</li>
-      <li>VERB-Part--PRON-Acc (23)</li>
-      <li>VERB-Part--PRON-Nom (7)</li>
-    </ul>
-  </li>
-</ul>
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-<ul>
-  <li><a>obj</a>
-    <ul>
-      <li>VERB--NOUN-Acc (3)</li>
-      <li>VERB-Fin--NOUN (10)</li>
-      <li>VERB-Fin--NOUN-Abl (67)</li>
-      <li>VERB-Fin--NOUN-Acc (1196)</li>
-      <li>VERB-Fin--NOUN-Dat (51)</li>
-      <li>VERB-Fin--NOUN-Gen (7)</li>
-      <li>VERB-Fin--NOUN-Nom (12)</li>
-      <li>VERB-Fin--PRON-Abl (3)</li>
-      <li>VERB-Fin--PRON-Acc (433)</li>
-      <li>VERB-Fin--PRON-Dat (89)</li>
-      <li>VERB-Fin--PRON-Gen (1)</li>
-      <li>VERB-Fin--PRON-Nom (4)</li>
-      <li>VERB-Gdv--NOUN-Abl (1)</li>
-      <li>VERB-Gdv--NOUN-Acc (2)</li>
-      <li>VERB-Gdv--PRON-Dat (2)</li>
-      <li>VERB-Ger--NOUN-Acc (4)</li>
-      <li>VERB-Ger--PRON-Acc (1)</li>
-      <li>VERB-Inf--NOUN (4)</li>
-      <li>VERB-Inf--NOUN-Abl (22)</li>
-      <li>VERB-Inf--NOUN-Acc (234)</li>
-      <li>VERB-Inf--NOUN-Dat (22)</li>
-      <li>VERB-Inf--NOUN-Gen (1)</li>
-      <li>VERB-Inf--PRON-Abl (1)</li>
-      <li>VERB-Inf--PRON-Acc (54)</li>
-      <li>VERB-Inf--PRON-Dat (16)</li>
-      <li>VERB-Inf--PRON-Nom (1)</li>
-      <li>VERB-Part--NOUN (2)</li>
-      <li>VERB-Part--NOUN-Abl (109)</li>
-      <li>VERB-Part--NOUN-Acc (105)</li>
-      <li>VERB-Part--NOUN-Dat (19)</li>
-      <li>VERB-Part--NOUN-Gen (8)</li>
-      <li>VERB-Part--NOUN-Nom (1)</li>
-      <li>VERB-Part--PRON-Abl (3)</li>
-      <li>VERB-Part--PRON-Acc (17)</li>
-      <li>VERB-Part--PRON-Dat (12)</li>
-    </ul>
-  </li>
-</ul>
 
   </td>
   <td width="33%" valign="top">
@@ -3258,17 +3096,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="33%" valign="top">
+<h2>Syntax</h2>
+
+<h3>Auxiliary Verbs and Copula</h3>
+
 <ul>
-  <li><a>iobj</a>
-    <ul>
-      <li>VERB-Fin--NOUN-Dat (97)</li>
-      <li>VERB-Fin--PRON-Dat (96)</li>
-      <li>VERB-Inf--NOUN-Dat (14)</li>
-      <li>VERB-Inf--PRON-Dat (6)</li>
-      <li>VERB-Part--NOUN-Dat (5)</li>
-      <li>VERB-Part--PRON-Dat (6)</li>
-    </ul>
-  </li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: sum1.</li>
 </ul>
 
   </td>
@@ -3295,6 +3128,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="33%" valign="top">
+<ul>
+<li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: foro1, celeber, edo1, sum1.</li>
+</ul>
 
   </td>
   <td width="33%" valign="top">
@@ -3314,6 +3150,40 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="33%" valign="top">
+<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+
+Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+<ul>
+  <li><a>nsubj</a>
+    <ul>
+      <li>VERB--PRON-Nom (1)</li>
+      <li>VERB-Fin--NOUN (5)</li>
+      <li>VERB-Fin--NOUN-Acc (5)</li>
+      <li>VERB-Fin--NOUN-Nom (1024)</li>
+      <li>VERB-Fin--NOUN-Voc (1)</li>
+      <li>VERB-Fin--PRON-Acc (6)</li>
+      <li>VERB-Fin--PRON-Nom (536)</li>
+      <li>VERB-Fin--PRON-Voc (1)</li>
+      <li>VERB-Gdv--NOUN-Abl (3)</li>
+      <li>VERB-Gdv--NOUN-Acc (9)</li>
+      <li>VERB-Gdv--NOUN-Gen (5)</li>
+      <li>VERB-Gdv--NOUN-Nom (6)</li>
+      <li>VERB-Gdv--PRON-Acc (1)</li>
+      <li>VERB-Gdv--PRON-Gen (1)</li>
+      <li>VERB-Gdv--PRON-Nom (4)</li>
+      <li>VERB-Inf--NOUN-Acc (90)</li>
+      <li>VERB-Inf--NOUN-Nom (13)</li>
+      <li>VERB-Inf--PRON-Acc (65)</li>
+      <li>VERB-Inf--PRON-Nom (13)</li>
+      <li>VERB-Part--NOUN-Abl (144)</li>
+      <li>VERB-Part--NOUN-Acc (15)</li>
+      <li>VERB-Part--NOUN-Nom (42)</li>
+      <li>VERB-Part--PRON-Abl (12)</li>
+      <li>VERB-Part--PRON-Acc (23)</li>
+      <li>VERB-Part--PRON-Nom (7)</li>
+    </ul>
+  </li>
+</ul>
 
   </td>
   <td width="33%" valign="top">
@@ -3404,6 +3274,47 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="33%" valign="top">
+<ul>
+  <li><a>obj</a>
+    <ul>
+      <li>VERB--NOUN-Acc (3)</li>
+      <li>VERB-Fin--NOUN (10)</li>
+      <li>VERB-Fin--NOUN-Abl (67)</li>
+      <li>VERB-Fin--NOUN-Acc (1196)</li>
+      <li>VERB-Fin--NOUN-Dat (51)</li>
+      <li>VERB-Fin--NOUN-Gen (7)</li>
+      <li>VERB-Fin--NOUN-Nom (12)</li>
+      <li>VERB-Fin--PRON-Abl (3)</li>
+      <li>VERB-Fin--PRON-Acc (433)</li>
+      <li>VERB-Fin--PRON-Dat (89)</li>
+      <li>VERB-Fin--PRON-Gen (1)</li>
+      <li>VERB-Fin--PRON-Nom (4)</li>
+      <li>VERB-Gdv--NOUN-Abl (1)</li>
+      <li>VERB-Gdv--NOUN-Acc (2)</li>
+      <li>VERB-Gdv--PRON-Dat (2)</li>
+      <li>VERB-Ger--NOUN-Acc (4)</li>
+      <li>VERB-Ger--PRON-Acc (1)</li>
+      <li>VERB-Inf--NOUN (4)</li>
+      <li>VERB-Inf--NOUN-Abl (22)</li>
+      <li>VERB-Inf--NOUN-Acc (234)</li>
+      <li>VERB-Inf--NOUN-Dat (22)</li>
+      <li>VERB-Inf--NOUN-Gen (1)</li>
+      <li>VERB-Inf--PRON-Abl (1)</li>
+      <li>VERB-Inf--PRON-Acc (54)</li>
+      <li>VERB-Inf--PRON-Dat (16)</li>
+      <li>VERB-Inf--PRON-Nom (1)</li>
+      <li>VERB-Part--NOUN (2)</li>
+      <li>VERB-Part--NOUN-Abl (109)</li>
+      <li>VERB-Part--NOUN-Acc (105)</li>
+      <li>VERB-Part--NOUN-Dat (19)</li>
+      <li>VERB-Part--NOUN-Gen (8)</li>
+      <li>VERB-Part--NOUN-Nom (1)</li>
+      <li>VERB-Part--PRON-Abl (3)</li>
+      <li>VERB-Part--PRON-Acc (17)</li>
+      <li>VERB-Part--PRON-Dat (12)</li>
+    </ul>
+  </li>
+</ul>
 
   </td>
   <td width="33%" valign="top">
@@ -3541,11 +3452,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="33%" valign="top">
-<h3>Relations Overview</h3>
-
 <ul>
-<li>This corpus does not use relation subtypes.</li>
-<li>The following 13 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>det</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+  <li><a>iobj</a>
+    <ul>
+      <li>VERB-Fin--NOUN-Dat (97)</li>
+      <li>VERB-Fin--PRON-Dat (96)</li>
+      <li>VERB-Inf--NOUN-Dat (14)</li>
+      <li>VERB-Inf--PRON-Dat (6)</li>
+      <li>VERB-Part--NOUN-Dat (5)</li>
+      <li>VERB-Part--PRON-Dat (6)</li>
+    </ul>
+  </li>
 </ul>
 
   </td>
@@ -3714,6 +3631,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="33%" valign="top">
+<h3>Relations Overview</h3>
+
+<ul>
+<li>This corpus does not use relation subtypes.</li>
+<li>The following 13 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>det</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+</ul>
 
   </td>
   <td width="33%" valign="top">

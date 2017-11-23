@@ -953,6 +953,14 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <li><a>Definite</a>
 
   </td>
@@ -1554,6 +1562,22 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
@@ -1948,61 +1972,6 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-<li><a>Person</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>1
-      <ul>
-        <li>AUX-Fin: sem, smo, bomo, bom, nisem, nismo, sva, bova, nisva</li>
-        <li>DET: naša, naše, moja, naš, naši, moje, naših, moj, mojega, mojo</li>
-        <li>PRON: jaz, mi, nas, me, meni, mene, nam, nami, mano, midve</li>
-        <li>VERB-Fin: vem, mislim, recimo, imamo, sem, imam, gremo, bom, moram, prosim</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>2
-      <ul>
-        <li>AUX-Fin: si, ste, boš, boste, nisi, bodite, niste, bodi</li>
-        <li>DET: tvoja, vaš, vaša, vaše, vašo, tvoj, tvoje, tvoji, tvojo, vašega</li>
-        <li>PRON: ti, vi, vam, te, vas, vami, tebe, tebi, vidva, tabo</li>
-        <li>VERB-Fin: veš, imaš, daj, imate, si, glej, čakaj, daš, greš, moraš</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>3
-      <ul>
-        <li>AUX-Fin: je, so, bo, ni, sta, bodo, niso, bosta, bojo, biti</li>
-        <li>DET: njegova, njeni, njihove, njihovega, njihovo, njegove, njegovo, njen, njene, njeno</li>
-        <li>PRON: ga, jih, jo, on, ona, jim, mu, ji, oni, njega</li>
-        <li>VERB-Fin: je, ni, ima, so, bo, pravi, gre, imajo, zdi, da</li>
-      </ul>
-    </li>
-  </ul>
 
   </td>
 </tr>
@@ -2012,9 +1981,7 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
+<li><a>Person</a>
 
   </td>
 </tr>
@@ -2033,6 +2000,16 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+  <ul>
+    <li>1
+      <ul>
+        <li>AUX-Fin: sem, smo, bomo, bom, nisem, nismo, sva, bova, nisva</li>
+        <li>DET: naša, naše, moja, naš, naši, moje, naših, moj, mojega, mojo</li>
+        <li>PRON: jaz, mi, nas, me, meni, mene, nam, nami, mano, midve</li>
+        <li>VERB-Fin: vem, mislim, recimo, imamo, sem, imam, gremo, bom, moram, prosim</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -2051,6 +2028,16 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+  <ul>
+    <li>2
+      <ul>
+        <li>AUX-Fin: si, ste, boš, boste, nisi, bodite, niste, bodi</li>
+        <li>DET: tvoja, vaš, vaša, vaše, vašo, tvoj, tvoje, tvoji, tvojo, vašega</li>
+        <li>PRON: ti, vi, vam, te, vas, vami, tebe, tebi, vidva, tabo</li>
+        <li>VERB-Fin: veš, imaš, daj, imate, si, glej, čakaj, daš, greš, moraš</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -2069,6 +2056,16 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+  <ul>
+    <li>3
+      <ul>
+        <li>AUX-Fin: je, so, bo, ni, sta, bodo, niso, bosta, bojo, biti</li>
+        <li>DET: njegova, njeni, njihove, njihovega, njihovo, njegove, njegovo, njen, njene, njeno</li>
+        <li>PRON: ga, jih, jo, on, ona, jim, mu, ji, oni, njega</li>
+        <li>VERB-Fin: je, ni, ima, so, bo, pravi, gre, imajo, zdi, da</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -2080,57 +2077,35 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-<li><a>Gender[psor]</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Fem
-      <ul>
-        <li>DET: njeni, njen, njene, njeno</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Masc
-      <ul>
-        <li>DET: njegova, njegove, njegovo</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-<li><a>Gender[psor]</a>
-
-  </td>
-  <td width="50%" valign="top">
   <ul>
   </ul>
 </li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<li><a>Gender[psor]</a>
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>Gender[psor]</a>
 
   </td>
 </tr>
@@ -2146,6 +2121,13 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+  <ul>
+    <li>Fem
+      <ul>
+        <li>DET: njeni, njen, njene, njeno</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -2161,6 +2143,13 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+  <ul>
+    <li>Masc
+      <ul>
+        <li>DET: njegova, njegove, njegovo</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -2187,64 +2176,19 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-<li><a>Number[psor]</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Dual
-      <ul>
-        <li>DET: najino</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Plur
-      <ul>
-        <li>DET: naša, naše, naš, naši, naših, našega, našo, vaš, vaša, vaše</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Sing
-      <ul>
-        <li>DET: moja, moje, moj, mojega, tvoja, mojo, mojemu, njegova, njeni, tvoj</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-<li><a>Number[psor]</a>
-
-  </td>
-  <td width="50%" valign="top">
   <ul>
   </ul>
 </li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<li><a>Number[psor]</a>
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>Number[psor]</a>
 
   </td>
 </tr>
@@ -2260,6 +2204,13 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+  <ul>
+    <li>Dual
+      <ul>
+        <li>DET: najino</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -2275,6 +2226,13 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+  <ul>
+    <li>Plur
+      <ul>
+        <li>DET: naša, naše, naš, naši, naših, našega, našo, vaš, vaša, vaše</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -2290,6 +2248,13 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+  <ul>
+    <li>Sing
+      <ul>
+        <li>DET: moja, moje, moj, mojega, tvoja, mojo, mojemu, njegova, njeni, tvoj</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -2301,40 +2266,7 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-<h3>Other Features</h3>
-
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-<li><a>Foreign</a>
   <ul>
-    <li>Yes
-      <ul>
-        <li>X: green, of, grass, home, non, stop, beautiful, day, fa, gung</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-<li><a>NumForm</a>
-  <ul>
-    <li>Word
-      <ul>
-        <li>NUM: eno, dva, en, ena, tri, tisoč, dvajset, dve, pet, enega</li>
-      </ul>
-    </li>
   </ul>
 </li>
 
@@ -2347,13 +2279,8 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-<h2>Syntax</h2>
+<h3>Other Features</h3>
 
-<h3>Auxiliary Verbs and Copula</h3>
-
-<ul>
-<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: biti, _.</li>
-</ul>
 
   </td>
 </tr>
@@ -2388,6 +2315,15 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+<li><a>Foreign</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>X: green, of, grass, home, non, stop, beautiful, day, fa, gung</li>
+      </ul>
+    </li>
+  </ul>
+</li>
 
   </td>
 </tr>
@@ -2415,6 +2351,15 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+<li><a>NumForm</a>
+  <ul>
+    <li>Word
+      <ul>
+        <li>NUM: eno, dva, en, ena, tri, tisoč, dvajset, dve, pet, enega</li>
+      </ul>
+    </li>
+  </ul>
+</li>
 
   </td>
 </tr>
@@ -2430,8 +2375,12 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+<h2>Syntax</h2>
+
+<h3>Auxiliary Verbs and Copula</h3>
+
 <ul>
-<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: biti, _.</li>
+<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: biti, _.</li>
 </ul>
 
   </td>
@@ -2444,23 +2393,8 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
-
-Here we consider only relations between verbs (parent) and nouns or pronouns (child).
 <ul>
-  <li><a>nsubj</a>
-    <ul>
-      <li>VERB-Fin--NOUN-Gen (35)</li>
-      <li>VERB-Fin--NOUN-Nom (263)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(kakor) (1)</li>
-      <li>VERB-Fin--PRON-Gen (4)</li>
-      <li>VERB-Fin--PRON-Nom (214)</li>
-      <li>VERB-Part--NOUN-Gen (15)</li>
-      <li>VERB-Part--NOUN-Nom (100)</li>
-      <li>VERB-Part--PRON-Gen (7)</li>
-      <li>VERB-Part--PRON-Nom (138)</li>
-    </ul>
-  </li>
+<li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: biti, _.</li>
 </ul>
 
   </td>
@@ -2488,6 +2422,61 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--PRON-Acc (4)</li>
       <li>VERB-Part--PRON-Gen (13)</li>
       <li>VERB-Part--PRON-Nom (146)</li>
+    </ul>
+  </li>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+
+Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+<ul>
+  <li><a>nsubj</a>
+    <ul>
+      <li>VERB-Fin--NOUN-Gen (35)</li>
+      <li>VERB-Fin--NOUN-Nom (263)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(kakor) (1)</li>
+      <li>VERB-Fin--PRON-Gen (4)</li>
+      <li>VERB-Fin--PRON-Nom (214)</li>
+      <li>VERB-Part--NOUN-Gen (15)</li>
+      <li>VERB-Part--NOUN-Nom (100)</li>
+      <li>VERB-Part--PRON-Gen (7)</li>
+      <li>VERB-Part--PRON-Nom (138)</li>
+    </ul>
+  </li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<ul>
+  <li><a>obj</a>
+    <ul>
+      <li>VERB-Fin--NOUN-Acc (1540)</li>
+      <li>VERB-Fin--NOUN-Dat (79)</li>
+      <li>VERB-Fin--NOUN-Gen (310)</li>
+      <li>VERB-Fin--PRON-Acc (459)</li>
+      <li>VERB-Fin--PRON-Dat (140)</li>
+      <li>VERB-Fin--PRON-Gen (29)</li>
+      <li>VERB-Fin--PRON-Nom (2)</li>
+      <li>VERB-Inf--NOUN-Acc (431)</li>
+      <li>VERB-Inf--NOUN-Dat (29)</li>
+      <li>VERB-Inf--NOUN-Gen (146)</li>
+      <li>VERB-Inf--NOUN-Nom (1)</li>
+      <li>VERB-Inf--PRON-Acc (109)</li>
+      <li>VERB-Inf--PRON-Dat (24)</li>
+      <li>VERB-Inf--PRON-Gen (28)</li>
+      <li>VERB-Part--NOUN-Acc (1809)</li>
+      <li>VERB-Part--NOUN-Dat (83)</li>
+      <li>VERB-Part--NOUN-Gen (344)</li>
+      <li>VERB-Part--NOUN-Ins (1)</li>
+      <li>VERB-Part--PRON-Acc (611)</li>
+      <li>VERB-Part--PRON-Dat (190)</li>
+      <li>VERB-Part--PRON-Gen (42)</li>
+      <li>VERB-Sup--NOUN-Acc (4)</li>
+      <li>VERB-Sup--PRON-Acc (1)</li>
     </ul>
   </li>
 </ul>
@@ -2530,59 +2519,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <tr>
   <td width="50%" valign="top">
 <ul>
-  <li><a>obj</a>
-    <ul>
-      <li>VERB-Fin--NOUN-Acc (1540)</li>
-      <li>VERB-Fin--NOUN-Dat (79)</li>
-      <li>VERB-Fin--NOUN-Gen (310)</li>
-      <li>VERB-Fin--PRON-Acc (459)</li>
-      <li>VERB-Fin--PRON-Dat (140)</li>
-      <li>VERB-Fin--PRON-Gen (29)</li>
-      <li>VERB-Fin--PRON-Nom (2)</li>
-      <li>VERB-Inf--NOUN-Acc (431)</li>
-      <li>VERB-Inf--NOUN-Dat (29)</li>
-      <li>VERB-Inf--NOUN-Gen (146)</li>
-      <li>VERB-Inf--NOUN-Nom (1)</li>
-      <li>VERB-Inf--PRON-Acc (109)</li>
-      <li>VERB-Inf--PRON-Dat (24)</li>
-      <li>VERB-Inf--PRON-Gen (28)</li>
-      <li>VERB-Part--NOUN-Acc (1809)</li>
-      <li>VERB-Part--NOUN-Dat (83)</li>
-      <li>VERB-Part--NOUN-Gen (344)</li>
-      <li>VERB-Part--NOUN-Ins (1)</li>
-      <li>VERB-Part--PRON-Acc (611)</li>
-      <li>VERB-Part--PRON-Dat (190)</li>
-      <li>VERB-Part--PRON-Gen (42)</li>
-      <li>VERB-Sup--NOUN-Acc (4)</li>
-      <li>VERB-Sup--PRON-Acc (1)</li>
-    </ul>
-  </li>
-</ul>
-
-  </td>
-  <td width="50%" valign="top">
-<ul>
-  <li><a>iobj</a>
-    <ul>
-      <li>VERB-Fin--NOUN-Dat (3)</li>
-      <li>VERB-Fin--PRON-Acc (1)</li>
-      <li>VERB-Fin--PRON-Dat (37)</li>
-      <li>VERB-Inf--NOUN-Acc (1)</li>
-      <li>VERB-Inf--PRON-Acc (1)</li>
-      <li>VERB-Inf--PRON-Dat (3)</li>
-      <li>VERB-Part--NOUN-Acc (1)</li>
-      <li>VERB-Part--NOUN-Dat (3)</li>
-      <li>VERB-Part--PRON-Acc (3)</li>
-      <li>VERB-Part--PRON-Dat (35)</li>
-    </ul>
-  </li>
-</ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-<ul>
   <li><a>iobj</a>
     <ul>
       <li>VERB-Fin--NOUN-Acc (11)</li>
@@ -2608,6 +2544,22 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="50%" valign="top">
+<ul>
+  <li><a>iobj</a>
+    <ul>
+      <li>VERB-Fin--NOUN-Dat (3)</li>
+      <li>VERB-Fin--PRON-Acc (1)</li>
+      <li>VERB-Fin--PRON-Dat (37)</li>
+      <li>VERB-Inf--NOUN-Acc (1)</li>
+      <li>VERB-Inf--PRON-Acc (1)</li>
+      <li>VERB-Inf--PRON-Dat (3)</li>
+      <li>VERB-Part--NOUN-Acc (1)</li>
+      <li>VERB-Part--NOUN-Dat (3)</li>
+      <li>VERB-Part--PRON-Acc (3)</li>
+      <li>VERB-Part--PRON-Dat (35)</li>
+    </ul>
+  </li>
+</ul>
 
   </td>
 </tr>
@@ -2637,12 +2589,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="50%" valign="top">
-<h3>Relations Overview</h3>
-
-<ul>
-<li>This corpus uses 7 relation subtypes: <a>cc:preconj</a>, <a>conj:extend</a>, <a>discourse:filler</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>parataxis:discourse</a>, <a>parataxis:restart</a></li>
-<li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>compound</a>, <a>list</a>, <a>dep</a></li>
-</ul>
 
   </td>
 </tr>
@@ -2657,6 +2603,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="50%" valign="top">
+<h3>Relations Overview</h3>
+
+<ul>
+<li>This corpus uses 7 relation subtypes: <a>cc:preconj</a>, <a>conj:extend</a>, <a>discourse:filler</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>parataxis:discourse</a>, <a>parataxis:restart</a></li>
+<li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>compound</a>, <a>list</a>, <a>dep</a></li>
+</ul>
 
   </td>
 </tr>

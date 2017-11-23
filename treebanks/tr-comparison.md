@@ -331,6 +331,22 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <li><a>Number</a>
 
   </td>
@@ -746,6 +762,14 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
 <li><a>Definite</a>
 
   </td>
@@ -786,8 +810,6 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<h3>Degree and Polarity</h3>
-
 
   </td>
   <td width="50%" valign="top">
@@ -799,6 +821,8 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+<h3>Degree and Polarity</h3>
+
 
   </td>
   <td width="50%" valign="top">
@@ -809,10 +833,27 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <li><a>Polarity</a>
 
   </td>
   <td width="50%" valign="top">
+<li><a>Polarity</a>
 
   </td>
 </tr>
@@ -828,44 +869,6 @@ udver: '2'
       </ul>
     </li>
   </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Pos
-      <ul>
-        <li>VERB: dedi, olan, dedim, olduğunu, oldu, olduğu, söyledi, gelen, olur, etti</li>
-        <li>VERB-Conv: gidip, olup, dönüp, diyerek, ederek, edip, gelip, kalkıp, koşarak, belirterek</li>
-        <li>VERB-Part: olan, olduğunu, olduğu, gelen, eden, yapılan, yapan, alan, yapılacak, çıkan</li>
-        <li>VERB-Vnoun: demek, olması, olmak, savunma, almak, görmek, yapmak, etmek, kurtulmak, etmeye</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-<li><a>Polarity</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
 
   </td>
   <td width="50%" valign="top">
@@ -892,6 +895,16 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+  <ul>
+    <li>Pos
+      <ul>
+        <li>VERB: dedi, olan, dedim, olduğunu, oldu, olduğu, söyledi, gelen, olur, etti</li>
+        <li>VERB-Conv: gidip, olup, dönüp, diyerek, ederek, edip, gelip, kalkıp, koşarak, belirterek</li>
+        <li>VERB-Part: olan, olduğunu, olduğu, gelen, eden, yapılan, yapan, alan, yapılacak, çıkan</li>
+        <li>VERB-Vnoun: demek, olması, olmak, savunma, almak, görmek, yapmak, etmek, kurtulmak, etmeye</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="50%" valign="top">
@@ -916,6 +929,9 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="50%" valign="top">
@@ -927,11 +943,29 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <h3>Verbal Features</h3>
 
 
   </td>
   <td width="50%" valign="top">
+<h3>Verbal Features</h3>
+
 
   </td>
 </tr>
@@ -941,8 +975,7 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-<h3>Verbal Features</h3>
-
+<li><a>Aspect</a>
 
   </td>
 </tr>
@@ -959,102 +992,6 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Imp
-      <ul>
-        <li>VERB: olur, olmaz, olabilir, eder, ister, gerekir, gelir, sanırım, yeter, ?</li>
-        <li>VERB-Conv: giderken, konuşurken, çıkarken, koşarken, söylerken, uyurken, yaparken, alırken, bakarken, ederken</li>
-        <li>VERB-Part: benzer, ?, inanılmaz, açmaz, bilmez, götürür, kaynar, sığmaz, Anlar, Görünmez</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Perf
-      <ul>
-        <li>AUX: mi, mı, dır, dir, ydi, dı, ydı, tu, mu, dur</li>
-        <li>AUX-Conv: ken, yken, irerken, okurken, ymişçesine</li>
-        <li>VERB: dedi, olan, dedim, değil, olduğunu, oldu, olduğu, söyledi, gelen, etti</li>
-        <li>VERB-Conv: gidip, olup, dönüp, diyerek, ederek, edip, gelip, kalkıp, koşarak, belirterek</li>
-        <li>VERB-Part: olan, olduğunu, olduğu, gelen, eden, yapılan, olmadığını, yapan, alan, yapılacak</li>
-        <li>VERB-Vnoun: demek, olması, olmak, savunma, almak, görmek, yapmak, etmek, kurtulmak, etmeye</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Prog
-      <ul>
-        <li>VERB: diyor, oluyor, bilmiyorum, geliyor, biliyorum, biliyor, istiyorum, gidiyoruz, yapıyor, ediyor</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-    <li>ProgRapid
-      <ul>
-        <li>VERB: takılıveriyor</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Rapid
-      <ul>
-        <li>VERB: alıverdi, doluverdi, ediver, edivermişti, gidiverdi, giriverir, oluverip, siliniverir, tıraşlayıvermiştin, yapıverir</li>
-        <li>VERB-Conv: oluverip</li>
-        <li>VERB-Part: yumuşayıveren</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-<li><a>Aspect</a>
 
   </td>
 </tr>
@@ -1079,6 +1016,15 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+  <ul>
+    <li>Imp
+      <ul>
+        <li>VERB: olur, olmaz, olabilir, eder, ister, gerekir, gelir, sanırım, yeter, ?</li>
+        <li>VERB-Conv: giderken, konuşurken, çıkarken, koşarken, söylerken, uyurken, yaparken, alırken, bakarken, ederken</li>
+        <li>VERB-Part: benzer, ?, inanılmaz, açmaz, bilmez, götürür, kaynar, sığmaz, Anlar, Görünmez</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="50%" valign="top">
@@ -1095,6 +1041,18 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+  <ul>
+    <li>Perf
+      <ul>
+        <li>AUX: mi, mı, dır, dir, ydi, dı, ydı, tu, mu, dur</li>
+        <li>AUX-Conv: ken, yken, irerken, okurken, ymişçesine</li>
+        <li>VERB: dedi, olan, dedim, değil, olduğunu, oldu, olduğu, söyledi, gelen, etti</li>
+        <li>VERB-Conv: gidip, olup, dönüp, diyerek, ederek, edip, gelip, kalkıp, koşarak, belirterek</li>
+        <li>VERB-Part: olan, olduğunu, olduğu, gelen, eden, yapılan, olmadığını, yapan, alan, yapılacak</li>
+        <li>VERB-Vnoun: demek, olması, olmak, savunma, almak, görmek, yapmak, etmek, kurtulmak, etmeye</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="50%" valign="top">
@@ -1126,6 +1084,13 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+  <ul>
+    <li>Prog
+      <ul>
+        <li>VERB: diyor, oluyor, bilmiyorum, geliyor, biliyorum, biliyor, istiyorum, gidiyoruz, yapıyor, ediyor</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="50%" valign="top">
@@ -1138,6 +1103,21 @@ udver: '2'
       </ul>
     </li>
   </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>ProgRapid
+      <ul>
+        <li>VERB: takılıveriyor</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
 
   </td>
 </tr>
@@ -1158,13 +1138,93 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<li><a>Mood</a>
+  <ul>
+    <li>Rapid
+      <ul>
+        <li>VERB: alıverdi, doluverdi, ediver, edivermişti, gidiverdi, giriverir, oluverip, siliniverir, tıraşlayıvermiştin, yapıverir</li>
+        <li>VERB-Conv: oluverip</li>
+        <li>VERB-Part: yumuşayıveren</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="50%" valign="top">
   <ul>
   </ul>
 </li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<li><a>Mood</a>
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>Mood</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Abil
+      <ul>
+        <li>ADJ: cevaplanamamış, kısıtlayabilecek, sokabilecek, sorgulayacakları, çekilebilecek, çözülebilecek</li>
+        <li>ADJ-Part: sorgulayacakları</li>
+        <li>NOUN-Ger: gidebilmemiz, gönderebilmekten, kalabilmesi</li>
+        <li>NOUN-Part: ölümsüzleşeceği</li>
+        <li>VERB: alabildi, bilemiyorum, bulunamadı, erişemiyordu, girilebiliyordu, hissedebiliyordu, sakınamayabiliyor, sallayabiliyor, yürütebiliyor</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
+    <li>AbilCnd
+      <ul>
+        <li>VERB: çözülebilse</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
+    <li>AbilGen
+      <ul>
+        <li>ADJ: edilemez, uygulanabilir, Yenilenebilir, izlenebilir</li>
+        <li>AUX: olabilir, gelebilir, olabilirler</li>
+        <li>VERB: açabilir, görülebilir, sağlayabilir, verebilir, anlaşılamaz, artırabilir, açabilirler, bekleyebilirdi, bulanıklaştırabilir, bulunabilir</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -1182,6 +1242,30 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+  <ul>
+    <li>Cnd
+      <ul>
+        <li>AUX: olsa, sa, ise, olsaydı, se, yse</li>
+        <li>VERB: ise, olsa, benzese, biliyorsanız, getirmese, olsaydı</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
+    <li>CndGen
+      <ul>
+        <li>AUX: olursa</li>
+        <li>VERB: olursa, olursak, bırakırsa, düşünülürse, gelirse, isterseniz, seçerse, yapılırsa</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -1243,6 +1327,18 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+  <ul>
+    <li>Gen
+      <ul>
+        <li>ADJ: inanılmaz, almaz, gerçekleştirilen, güvenilir, güvenilmez, Çalar</li>
+        <li>ADP: ki</li>
+        <li>AUX: dir, dır, olmuştur, tir, değildir, tır, dur, dür, olacaktır, edilmiştir</li>
+        <li>NOUN: geçer, payandalar</li>
+        <li>PROPN: Gezer</li>
+        <li>VERB: etmiştir, başlamıştır, edilmiştir, almıştır, bulunmaktadır, gelmiştir, yapar, almaktadır, anlatır, başlar</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -1258,6 +1354,13 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+  <ul>
+    <li>GenNec
+      <ul>
+        <li>VERB: kaçmamalıdır, oluşturulmalıdır</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -1303,6 +1406,17 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+  <ul>
+    <li>Imp
+      <ul>
+        <li>ADV: zorla</li>
+        <li>AUX: olsun</li>
+        <li>NOUN: ahdet, soyun, çekiçle</li>
+        <li>PROPN: Yum</li>
+        <li>VERB: at, atın, seçin</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -1338,6 +1452,29 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+  <ul>
+    <li>Ind
+      <ul>
+        <li>ADJ: edecek, gerçekleştirilen, Birleşmiş, adanmış, alacak, alışılmamış, beklenmedik, biçilmiş, donatılmış, donmuş</li>
+        <li>ADJ-Ger: kalma</li>
+        <li>ADJ-Part: gerçekleştirilen, e​v​c​i​l​l​e​ş​t​i​r​i​l​e​n​l​e​ş​t​i​r​i​l​e​n, gerçekleşen, gerçekleştiren, sertleşen, zorlaştıran</li>
+        <li>ADV: olmadan, değil, ederken, akarken, bulunmadan, durmadan, düşünmeden, görünürken, çekerken, İyileşerek</li>
+        <li>ADV-Conv: olmadan, ederken, akarken, bulunmadan, durmadan, düşünmeden, görünürken, çekerken, İyileşerek</li>
+        <li>AUX: değil, oldu, ydı, olmak, ydi, dı, dır, olacak, yken, di</li>
+        <li>AUX-Conv: yken, ken</li>
+        <li>AUX-Ger: olma, olmakla, olması, olmasının, olmaya, olmak, olmasına, etmesine, itmeye, olmaktan</li>
+        <li>NOUN: yapmak, etmek, büyüme, savunma, edilmesi, soruşturma, çalışma, etmeye, görmek, olmasına</li>
+        <li>NOUN-Conv: etmeden, olmadan, oluşmadan, yapılmadan</li>
+        <li>NOUN-Ger: büyüme, savunma, edilmesi, soruşturma, çalışma, etmeye, olmasına, çıkmaya, alma, etmesi</li>
+        <li>NOUN-Part: b​a​y​a​ğ​ı​l​a​ş​t​ı​r​d​ı​k​l​a​r​ı​n​ı, edilen, gerçekleştiği, gerçekleştiğinde</li>
+        <li>PUNCT: dedi, reddetti</li>
+        <li>VERB: dedi, etti, başladı, söyledi, çıktı, verdi, ediyor, geldi, aldı, edildi</li>
+        <li>VERB-Conv: etkilenmeden</li>
+        <li>VERB-Ger: beklemeye, gerçekleştirmesi, uzaklaştırmaya</li>
+        <li>VERB-Part: gerçekleşen</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -1353,6 +1490,15 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+  <ul>
+    <li>Nec
+      <ul>
+        <li>ADJ: tartışmalı, Seçmeli</li>
+        <li>AUX: olmalısınız, olmamalı</li>
+        <li>VERB: eğitmeliyiz, olmalı</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -1383,6 +1529,14 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+  <ul>
+    <li>Opt
+      <ul>
+        <li>NOUN: yana, dönene</li>
+        <li>VERB: edelim, göre</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -1427,208 +1581,9 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-<li><a>Mood</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
   <ul>
-    <li>Abil
-      <ul>
-        <li>ADJ: cevaplanamamış, kısıtlayabilecek, sokabilecek, sorgulayacakları, çekilebilecek, çözülebilecek</li>
-        <li>ADJ-Part: sorgulayacakları</li>
-        <li>NOUN-Ger: gidebilmemiz, gönderebilmekten, kalabilmesi</li>
-        <li>NOUN-Part: ölümsüzleşeceği</li>
-        <li>VERB: alabildi, bilemiyorum, bulunamadı, erişemiyordu, girilebiliyordu, hissedebiliyordu, sakınamayabiliyor, sallayabiliyor, yürütebiliyor</li>
-      </ul>
-    </li>
   </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>AbilCnd
-      <ul>
-        <li>VERB: çözülebilse</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>AbilGen
-      <ul>
-        <li>ADJ: edilemez, uygulanabilir, Yenilenebilir, izlenebilir</li>
-        <li>AUX: olabilir, gelebilir, olabilirler</li>
-        <li>VERB: açabilir, görülebilir, sağlayabilir, verebilir, anlaşılamaz, artırabilir, açabilirler, bekleyebilirdi, bulanıklaştırabilir, bulunabilir</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Cnd
-      <ul>
-        <li>AUX: olsa, sa, ise, olsaydı, se, yse</li>
-        <li>VERB: ise, olsa, benzese, biliyorsanız, getirmese, olsaydı</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>CndGen
-      <ul>
-        <li>AUX: olursa</li>
-        <li>VERB: olursa, olursak, bırakırsa, düşünülürse, gelirse, isterseniz, seçerse, yapılırsa</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Gen
-      <ul>
-        <li>ADJ: inanılmaz, almaz, gerçekleştirilen, güvenilir, güvenilmez, Çalar</li>
-        <li>ADP: ki</li>
-        <li>AUX: dir, dır, olmuştur, tir, değildir, tır, dur, dür, olacaktır, edilmiştir</li>
-        <li>NOUN: geçer, payandalar</li>
-        <li>PROPN: Gezer</li>
-        <li>VERB: etmiştir, başlamıştır, edilmiştir, almıştır, bulunmaktadır, gelmiştir, yapar, almaktadır, anlatır, başlar</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>GenNec
-      <ul>
-        <li>VERB: kaçmamalıdır, oluşturulmalıdır</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Imp
-      <ul>
-        <li>ADV: zorla</li>
-        <li>AUX: olsun</li>
-        <li>NOUN: ahdet, soyun, çekiçle</li>
-        <li>PROPN: Yum</li>
-        <li>VERB: at, atın, seçin</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Ind
-      <ul>
-        <li>ADJ: edecek, gerçekleştirilen, Birleşmiş, adanmış, alacak, alışılmamış, beklenmedik, biçilmiş, donatılmış, donmuş</li>
-        <li>ADJ-Ger: kalma</li>
-        <li>ADJ-Part: gerçekleştirilen, e​v​c​i​l​l​e​ş​t​i​r​i​l​e​n​l​e​ş​t​i​r​i​l​e​n, gerçekleşen, gerçekleştiren, sertleşen, zorlaştıran</li>
-        <li>ADV: olmadan, değil, ederken, akarken, bulunmadan, durmadan, düşünmeden, görünürken, çekerken, İyileşerek</li>
-        <li>ADV-Conv: olmadan, ederken, akarken, bulunmadan, durmadan, düşünmeden, görünürken, çekerken, İyileşerek</li>
-        <li>AUX: değil, oldu, ydı, olmak, ydi, dı, dır, olacak, yken, di</li>
-        <li>AUX-Conv: yken, ken</li>
-        <li>AUX-Ger: olma, olmakla, olması, olmasının, olmaya, olmak, olmasına, etmesine, itmeye, olmaktan</li>
-        <li>NOUN: yapmak, etmek, büyüme, savunma, edilmesi, soruşturma, çalışma, etmeye, görmek, olmasına</li>
-        <li>NOUN-Conv: etmeden, olmadan, oluşmadan, yapılmadan</li>
-        <li>NOUN-Ger: büyüme, savunma, edilmesi, soruşturma, çalışma, etmeye, olmasına, çıkmaya, alma, etmesi</li>
-        <li>NOUN-Part: b​a​y​a​ğ​ı​l​a​ş​t​ı​r​d​ı​k​l​a​r​ı​n​ı, edilen, gerçekleştiği, gerçekleştiğinde</li>
-        <li>PUNCT: dedi, reddetti</li>
-        <li>VERB: dedi, etti, başladı, söyledi, çıktı, verdi, ediyor, geldi, aldı, edildi</li>
-        <li>VERB-Conv: etkilenmeden</li>
-        <li>VERB-Ger: beklemeye, gerçekleştirmesi, uzaklaştırmaya</li>
-        <li>VERB-Part: gerçekleşen</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Nec
-      <ul>
-        <li>ADJ: tartışmalı, Seçmeli</li>
-        <li>AUX: olmalısınız, olmamalı</li>
-        <li>VERB: eğitmeliyiz, olmalı</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Opt
-      <ul>
-        <li>NOUN: yana, dönene</li>
-        <li>VERB: edelim, göre</li>
-      </ul>
-    </li>
-  </ul>
+</li>
 
   </td>
 </tr>
@@ -1638,9 +1593,7 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
+<li><a>Tense</a>
 
   </td>
 </tr>
@@ -1658,6 +1611,14 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+  <ul>
+    <li>Aor
+      <ul>
+        <li>ADV-Conv: ederken, akarken, görünürken, çekerken</li>
+        <li>VERB: gelir, farklılaşır, umarım</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -1689,6 +1650,18 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+  <ul>
+    <li>Fut
+      <ul>
+        <li>ADJ: edecek, alacak, görmeyecek, kısıtlayabilecek, sokabilecek, sorgulayacakları, yapılacak, çekilebilecek, çözülebilecek, çıkaracak</li>
+        <li>ADJ-Part: sorgulayacakları</li>
+        <li>AUX: olmak, olacak, olacaktır, kalmak, bulacaktır, etmek, getirmek, gidecek, izlemek, kalacak</li>
+        <li>NOUN: yapmak, etmek, görmek, izlemek, oluşturmak, almak, dönmek, geçmek, kurtarmak, kurtulmak</li>
+        <li>NOUN-Part: ölümsüzleşeceği</li>
+        <li>VERB: getirecektir, katılacak, olacak, yapacak, Karşılaştıracak, alacak, azaltacaktır, değerlendireceğiz, değişecektir, durduracak</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -1724,97 +1697,6 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Pqp
-      <ul>
-        <li>VERB: başlamıştı, demişti, gelmişti, etmişti, geçmişti, kalkmıştı, çıkmıştı, başlamışlardı, dönmüştü, heyecanlanmıştı</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Pres
-      <ul>
-        <li>AUX: mi, mı, dır, dir, mu, dur, sa, tir, im, yim</li>
-        <li>AUX-Conv: ken, yken, irerken, okurken</li>
-        <li>VERB: olan, değil, gelen, var, diyor, eden, demek, olsun, yapılan, olması</li>
-        <li>VERB-Conv: gidip, olup, dönüp, diyerek, ederek, edip, gelip, kalkıp, koşarak, belirterek</li>
-        <li>VERB-Part: olan, gelen, eden, yapılan, yapan, alan, çıkan, yaşayan, kalan, olmayan</li>
-        <li>VERB-Vnoun: demek, olması, olmak, savunma, almak, görmek, yapmak, etmek, kurtulmak, etmeye</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-<li><a>Tense</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Aor
-      <ul>
-        <li>ADV-Conv: ederken, akarken, görünürken, çekerken</li>
-        <li>VERB: gelir, farklılaşır, umarım</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Fut
-      <ul>
-        <li>ADJ: edecek, alacak, görmeyecek, kısıtlayabilecek, sokabilecek, sorgulayacakları, yapılacak, çekilebilecek, çözülebilecek, çıkaracak</li>
-        <li>ADJ-Part: sorgulayacakları</li>
-        <li>AUX: olmak, olacak, olacaktır, kalmak, bulacaktır, etmek, getirmek, gidecek, izlemek, kalacak</li>
-        <li>NOUN: yapmak, etmek, görmek, izlemek, oluşturmak, almak, dönmek, geçmek, kurtarmak, kurtulmak</li>
-        <li>NOUN-Part: ölümsüzleşeceği</li>
-        <li>VERB: getirecektir, katılacak, olacak, yapacak, Karşılaştıracak, alacak, azaltacaktır, değerlendireceğiz, değişecektir, durduracak</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
   <ul>
     <li>Past
       <ul>
@@ -1832,6 +1714,13 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+  <ul>
+    <li>Pqp
+      <ul>
+        <li>VERB: başlamıştı, demişti, gelmişti, etmişti, geçmişti, kalkmıştı, çıkmıştı, başlamışlardı, dönmüştü, heyecanlanmıştı</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="50%" valign="top">
@@ -1848,6 +1737,18 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+  <ul>
+    <li>Pres
+      <ul>
+        <li>AUX: mi, mı, dır, dir, mu, dur, sa, tir, im, yim</li>
+        <li>AUX-Conv: ken, yken, irerken, okurken</li>
+        <li>VERB: olan, değil, gelen, var, diyor, eden, demek, olsun, yapılan, olması</li>
+        <li>VERB-Conv: gidip, olup, dönüp, diyerek, ederek, edip, gelip, kalkıp, koşarak, belirterek</li>
+        <li>VERB-Part: olan, gelen, eden, yapılan, yapan, alan, çıkan, yaşayan, kalan, olmayan</li>
+        <li>VERB-Vnoun: demek, olması, olmak, savunma, almak, görmek, yapmak, etmek, kurtulmak, etmeye</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="50%" valign="top">
@@ -1880,13 +1781,25 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<li><a>Voice</a>
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="50%" valign="top">
   <ul>
   </ul>
 </li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<li><a>Voice</a>
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>Voice</a>
 
   </td>
 </tr>
@@ -1902,62 +1815,6 @@ udver: '2'
       </ul>
     </li>
   </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-    <li>CauPass
-      <ul>
-        <li>VERB: belirtildi, yerleştirilmiş, gerçekleştirilmesi, kaldırıldı, kaldırılsın, bastırılmış, cezalandırılması, değerlendirildi, geliştirilen, genişletiliyor</li>
-        <li>VERB-Conv: giydirilerek, kaldırılmaksızın, kaldırılırken, oluşturulup, uydurularak, yumuşatılarak</li>
-        <li>VERB-Part: yerleştirilmiş, bastırılmış, geliştirilen, yansıtıldığını, alıştırılacak, atlatılacağı, başlatıldığını, bekletileceği, bekletilen, belirtilen</li>
-        <li>VERB-Vnoun: gerçekleştirilmesi, cezalandırılması, kaldırılması, kapatılmaya, değerlendirilmesi, değiştirilmesi, diriltilmesi, doldurulmayı, düzeltilmesini, geliştirilmesi</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Pass
-      <ul>
-        <li>VERB: yapılan, yapılacak, edildi, verilen, alınması, ediliyor, edilmiş, hazırlanan, inanılmaz, katıldı</li>
-        <li>VERB-Conv: açılınca, uzanıp, yapılarak, edilmedikçe, gerilip, gösterilerek, serpilip, yapılmadan, Eğilip, Sokuldukça</li>
-        <li>VERB-Part: yapılan, yapılacak, verilen, edilmiş, hazırlanan, kurulan, alınacak, edilen, inanılmaz, yaşanan</li>
-        <li>VERB-Vnoun: alınması, edilmesi, yapılması, getirilmesi, sağlanması, belirlenmesinde, edilme, gönderilmesi, katılması, kurulması</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-<li><a>Voice</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
 
   </td>
   <td width="50%" valign="top">
@@ -1980,6 +1837,16 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+  <ul>
+    <li>CauPass
+      <ul>
+        <li>VERB: belirtildi, yerleştirilmiş, gerçekleştirilmesi, kaldırıldı, kaldırılsın, bastırılmış, cezalandırılması, değerlendirildi, geliştirilen, genişletiliyor</li>
+        <li>VERB-Conv: giydirilerek, kaldırılmaksızın, kaldırılırken, oluşturulup, uydurularak, yumuşatılarak</li>
+        <li>VERB-Part: yerleştirilmiş, bastırılmış, geliştirilen, yansıtıldığını, alıştırılacak, atlatılacağı, başlatıldığını, bekletileceği, bekletilen, belirtilen</li>
+        <li>VERB-Vnoun: gerçekleştirilmesi, cezalandırılması, kaldırılması, kapatılmaya, değerlendirilmesi, değiştirilmesi, diriltilmesi, doldurulmayı, düzeltilmesini, geliştirilmesi</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="50%" valign="top">
@@ -1998,6 +1865,16 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+  <ul>
+    <li>Pass
+      <ul>
+        <li>VERB: yapılan, yapılacak, edildi, verilen, alınması, ediliyor, edilmiş, hazırlanan, inanılmaz, katıldı</li>
+        <li>VERB-Conv: açılınca, uzanıp, yapılarak, edilmedikçe, gerilip, gösterilerek, serpilip, yapılmadan, Eğilip, Sokuldukça</li>
+        <li>VERB-Part: yapılan, yapılacak, verilen, edilmiş, hazırlanan, kurulan, alınacak, edilen, inanılmaz, yaşanan</li>
+        <li>VERB-Vnoun: alınması, edilmesi, yapılması, getirilmesi, sağlanması, belirlenmesinde, edilme, gönderilmesi, katılması, kurulması</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="50%" valign="top">
@@ -2019,13 +1896,25 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<li><a>Evident</a>
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="50%" valign="top">
   <ul>
   </ul>
 </li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<li><a>Evident</a>
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>Evident</a>
 
   </td>
 </tr>
@@ -2045,26 +1934,6 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-<li><a>Evident</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
   <ul>
     <li>Nfh
       <ul>
@@ -2079,8 +1948,9 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<h3>Pronouns, Determiners, Quantifiers</h3>
-
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="50%" valign="top">
@@ -2092,12 +1962,23 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<li><a>PronType</a>
+<h3>Pronouns, Determiners, Quantifiers</h3>
+
 
   </td>
   <td width="50%" valign="top">
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<li><a>PronType</a>
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>PronType</a>
 
   </td>
 </tr>
@@ -2125,41 +2006,6 @@ udver: '2'
       </ul>
     </li>
   </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Prs
-      <ul>
-        <li>PRON: ben, bana, o, beni, benim, onu, onun, ona, sen, sana</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-<li><a>PronType</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
 
   </td>
   <td width="50%" valign="top">
@@ -2193,6 +2039,21 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+  <ul>
+    <li>Prs
+      <ul>
+        <li>PRON: ben, bana, o, beni, benim, onu, onun, ona, sen, sana</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 
   </td>
   <td width="50%" valign="top">
@@ -2208,13 +2069,25 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<li><a>NumType</a>
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="50%" valign="top">
   <ul>
   </ul>
 </li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<li><a>NumType</a>
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>NumType</a>
 
   </td>
 </tr>
@@ -2260,26 +2133,6 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-<li><a>NumType</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
   <ul>
     <li>Ord
       <ul>
@@ -2296,6 +2149,9 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="50%" valign="top">
@@ -2307,10 +2163,27 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <li><a>Reflex</a>
 
   </td>
   <td width="50%" valign="top">
+<li><a>Reflex</a>
 
   </td>
 </tr>
@@ -2326,26 +2199,6 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-<li><a>Reflex</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
   <ul>
     <li>Yes
       <ul>
@@ -2358,13 +2211,25 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<li><a>Person</a>
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="50%" valign="top">
   <ul>
   </ul>
 </li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<li><a>Person</a>
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>Person</a>
 
   </td>
 </tr>
@@ -2382,6 +2247,17 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+  <ul>
+    <li>1
+      <ul>
+        <li>ADJ: beklenmedik</li>
+        <li>AUX: döndüm, hissediyorum, kalıyoruz, tum, yım, üz</li>
+        <li>NOUN: ahırıma, uğraşmayacağım</li>
+        <li>PRON: ben, bizi, Bizim, benim, bize, beni</li>
+        <li>VERB: olursak, bilmiyorum, düşünüyorum, düşünüyoruz, ediyorum, Sanırım, alıyorum, anlıyorum, araştırıyoruz, arıyorum</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -2399,6 +2275,18 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+  <ul>
+    <li>2
+      <ul>
+        <li>ADV: zorla</li>
+        <li>AUX: diniz, musunuz, olmalısınız, sın</li>
+        <li>NOUN: ahdet, soyun, çekiçle</li>
+        <li>PRON: Senden, Size, sizin</li>
+        <li>PROPN: Yum, del</li>
+        <li>VERB: at, atın, başlarsınız, biliyorsanız, erişebilirsiniz, ettiniz, isterseniz, seçin</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
@@ -2420,65 +2308,6 @@ udver: '2'
       </ul>
     </li>
   </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-<li><a>Person</a>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>1
-      <ul>
-        <li>ADJ: beklenmedik</li>
-        <li>AUX: döndüm, hissediyorum, kalıyoruz, tum, yım, üz</li>
-        <li>NOUN: ahırıma, uğraşmayacağım</li>
-        <li>PRON: ben, bizi, Bizim, benim, bize, beni</li>
-        <li>VERB: olursak, bilmiyorum, düşünüyorum, düşünüyoruz, ediyorum, Sanırım, alıyorum, anlıyorum, araştırıyoruz, arıyorum</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>2
-      <ul>
-        <li>ADV: zorla</li>
-        <li>AUX: diniz, musunuz, olmalısınız, sın</li>
-        <li>NOUN: ahdet, soyun, çekiçle</li>
-        <li>PRON: Senden, Size, sizin</li>
-        <li>PROPN: Yum, del</li>
-        <li>VERB: at, atın, başlarsınız, biliyorsanız, erişebilirsiniz, ettiniz, isterseniz, seçin</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
 
   </td>
   <td width="50%" valign="top">
@@ -2504,13 +2333,24 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<li><a>Polite</a>
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="50%" valign="top">
   <ul>
   </ul>
 </li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<li><a>Polite</a>
+
+  </td>
+  <td width="50%" valign="top">
 
   </td>
 </tr>
@@ -2549,6 +2389,14 @@ udver: '2'
   <ul>
   </ul>
 </li>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 
   </td>
   <td width="50%" valign="top">

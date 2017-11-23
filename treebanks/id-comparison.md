@@ -290,6 +290,14 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <li><a>Number</a>
 
   </td>
@@ -371,8 +379,6 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-<h3>Degree and Polarity</h3>
-
 
   </td>
 </tr>
@@ -386,11 +392,37 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <h3>Degree and Polarity</h3>
 
 
   </td>
   <td width="50%" valign="top">
+<h3>Degree and Polarity</h3>
+
 
   </td>
 </tr>
@@ -461,8 +493,6 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-<h3>Verbal Features</h3>
-
 
   </td>
 </tr>
@@ -515,11 +545,21 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <h3>Verbal Features</h3>
 
 
   </td>
   <td width="50%" valign="top">
+<h3>Verbal Features</h3>
+
 
   </td>
 </tr>
@@ -536,8 +576,30 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-<h3>Pronouns, Determiners, Quantifiers</h3>
 
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
 
   </td>
 </tr>
@@ -627,11 +689,21 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
   </td>
   <td width="50%" valign="top">
+<h3>Pronouns, Determiners, Quantifiers</h3>
+
 
   </td>
 </tr>
@@ -798,8 +870,299 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<li><a>Person</a>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>1
+      <ul>
+        <li>PRON: kita, aku, kami, saya, kamilah</li>
+        <li>PROPN: Kutai, Kumari, Kusambut, Kustilah</li>
+        <li>VERB: kukatakan, Kubebaskankah, Kutebuskah, kudengar</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>2
+      <ul>
+        <li>PRON: kamu, engkau, anda, kalian, kau</li>
+        <li>VERB: kaukatakan</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>3
+      <ul>
+        <li>PRON: ia, mereka, dia, beliau, Nya, merekapun</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<li><a>Polite</a>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Form
+      <ul>
+        <li>PRON: beliau, saya, anda</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Infm
+      <ul>
+        <li>PRON: kamu, engkau, aku</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<li><a>Number[psor]</a>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Sing
+      <ul>
+        <li>ADJ: utamanya, pertamanya, lamanya, aslinya, terakhirnya, besarnya, mudanya, sekitarnya, berakhirnya, kecilnya</li>
+        <li>ADP: antaranya, padanya, layaknya, bersamanya, dalamnya, dibawahnya, kepadanya, menurutmu, untukmu, untuknya</li>
+        <li>ADV: awalnya, sayangnya, tepatnya, kalinya, menurutnya, agaknya, antaranya, ibunya, kurangnya, nantinya</li>
+        <li>CCONJ: Layaknya</li>
+        <li>DET: satunya, banyaknya, semuanya, Keduanya</li>
+        <li>NOUN: ayahnya, namanya, penduduknya, anaknya, ibunya, keduanya, kalinya, sebagainya, adiknya, harinya</li>
+        <li>NUM: pertamanya, satunya, keduanya, keenamnya</li>
+        <li>PART: bukannya, membelinya, tercetusnya, terkejutnya, tidaknya</li>
+        <li>PRON: dirinya, semuanya, saatnya, akau, anak-anakmu, berdirinya, isinya, keseluruhannya</li>
+        <li>PROPN: Allahku, Ayahnya, Miku, Tuanku, Allahmu, Bintangmu, CPOKU, Cintaku, Dalihnya, Inggrisnya</li>
+        <li>SCONJ: akibatnya</li>
+        <li>VERB: artinya, masuknya, melakukannya, membuatnya, menjadikannya, terjadinya, berdirinya, ditemukannya, menolongnya, menyebutnya</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <h3>Other Features</h3>
 
+
+  </td>
+  <td width="50%" valign="top">
+<h3>Other Features</h3>
+
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<li><a>Clusivity</a>
+  <ul>
+    <li>Ex
+      <ul>
+        <li>PRON: kami, kamilah</li>
+      </ul>
+    </li>
+    <li>In
+      <ul>
+        <li>PRON: kita</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<li><a>Person[psor]</a>
+  <ul>
+    <li>1
+      <ul>
+        <li>ADP: kepadaku</li>
+        <li>NOUN: bagiku, hamba-Ku, namaku, wuku, diriku, dosaku, istriku, kangaku, kepada-Ku, kepadaku</li>
+        <li>PROPN: Allahku, Miku, Tuanku, CPOKU, Cintaku, PKU, Tuhanku</li>
+        <li>VERB: diriku, membohongiku, menantangku</li>
+      </ul>
+    </li>
+    <li>2
+      <ul>
+        <li>ADJ: barumu</li>
+        <li>ADP: menurutmu, untukmu, kepadamu</li>
+        <li>ADV: Amu, mendorongmu</li>
+        <li>NOUN: bakau, bagimu, istrimu, kepadamu, matamu, namu, Maumu, dirimu, dosamu, hari-harimu</li>
+        <li>PRON: akau, anak-anakmu</li>
+        <li>PROPN: Allahmu, Bintangmu, Kepadamu</li>
+        <li>VERB: Menyayangimu, melayanimu, membuatmu, menikahimu</li>
+      </ul>
+    </li>
+    <li>3
+      <ul>
+        <li>ADJ: utamanya, pertamanya, lamanya, aslinya, terakhirnya, besarnya, mudanya, sekitarnya, berakhirnya, kecilnya</li>
+        <li>ADP: antaranya, padanya, layaknya, bersamanya, dalamnya, dibawahnya, kepadanya, untuknya, Sesampainya, bagi-Nya</li>
+        <li>ADV: awalnya, sayangnya, tepatnya, kalinya, menurutnya, agaknya, antaranya, ibunya, kurangnya, nantinya</li>
+        <li>CCONJ: Layaknya</li>
+        <li>DET: satunya, banyaknya, semuanya, Keduanya</li>
+        <li>NOUN: ayahnya, namanya, penduduknya, anaknya, ibunya, keduanya, kalinya, sebagainya, adiknya, harinya</li>
+        <li>NUM: pertamanya, satunya, keduanya, keenamnya</li>
+        <li>PART: bukannya, membelinya, tercetusnya, terkejutnya, tidaknya</li>
+        <li>PRON: dirinya, semuanya, saatnya, berdirinya, isinya, keseluruhannya</li>
+        <li>PROPN: Ayahnya, Dalihnya, Inggrisnya, Istrinya, Jadinya, Kabarnya, Matinya, Oktobernya, Penyelenggaranya, Rasanya</li>
+        <li>SCONJ: akibatnya</li>
+        <li>VERB: artinya, masuknya, melakukannya, membuatnya, menjadikannya, terjadinya, berdirinya, ditemukannya, menolongnya, menyebutnya</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="50%" valign="top">
 
   </td>
 </tr>
@@ -907,6 +1270,13 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+<h2>Syntax</h2>
+
+<h3>Auxiliary Verbs and Copula</h3>
+
+<ul>
+<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: adalah, ialah.</li>
+</ul>
 
   </td>
   <td width="50%" valign="top">
@@ -922,319 +1292,15 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-<ul>
-<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
-</ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-<li><a>Person</a>
-
-  </td>
-  <td width="50%" valign="top">
-<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
-
-Here we consider only relations between verbs (parent) and nouns or pronouns (child).
-<ul>
-  <li><a>nsubj</a>
-    <ul>
-      <li>VERB--NOUN (502)</li>
-      <li>VERB--PRON (189)</li>
-    </ul>
-  </li>
-</ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-    <li>1
-      <ul>
-        <li>PRON: kita, aku, kami, saya, kamilah</li>
-        <li>PROPN: Kutai, Kumari, Kusambut, Kustilah</li>
-        <li>VERB: kukatakan, Kubebaskankah, Kutebuskah, kudengar</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-    <li>2
-      <ul>
-        <li>PRON: kamu, engkau, anda, kalian, kau</li>
-        <li>VERB: kaukatakan</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-    <li>3
-      <ul>
-        <li>PRON: ia, mereka, dia, beliau, Nya, merekapun</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-<ul>
-  <li><a>obj</a>
-    <ul>
-    </ul>
-  </li>
-</ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-<li><a>Polite</a>
-
-  </td>
-  <td width="50%" valign="top">
-<ul>
-  <li><a>iobj</a>
-    <ul>
-      <li>VERB--PRON (5)</li>
-    </ul>
-  </li>
-</ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Form
-      <ul>
-        <li>PRON: beliau, saya, anda</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Infm
-      <ul>
-        <li>PRON: kamu, engkau, aku</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-<li><a>Number[psor]</a>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Sing
-      <ul>
-        <li>ADJ: utamanya, pertamanya, lamanya, aslinya, terakhirnya, besarnya, mudanya, sekitarnya, berakhirnya, kecilnya</li>
-        <li>ADP: antaranya, padanya, layaknya, bersamanya, dalamnya, dibawahnya, kepadanya, menurutmu, untukmu, untuknya</li>
-        <li>ADV: awalnya, sayangnya, tepatnya, kalinya, menurutnya, agaknya, antaranya, ibunya, kurangnya, nantinya</li>
-        <li>CCONJ: Layaknya</li>
-        <li>DET: satunya, banyaknya, semuanya, Keduanya</li>
-        <li>NOUN: ayahnya, namanya, penduduknya, anaknya, ibunya, keduanya, kalinya, sebagainya, adiknya, harinya</li>
-        <li>NUM: pertamanya, satunya, keduanya, keenamnya</li>
-        <li>PART: bukannya, membelinya, tercetusnya, terkejutnya, tidaknya</li>
-        <li>PRON: dirinya, semuanya, saatnya, akau, anak-anakmu, berdirinya, isinya, keseluruhannya</li>
-        <li>PROPN: Allahku, Ayahnya, Miku, Tuanku, Allahmu, Bintangmu, CPOKU, Cintaku, Dalihnya, Inggrisnya</li>
-        <li>SCONJ: akibatnya</li>
-        <li>VERB: artinya, masuknya, melakukannya, membuatnya, menjadikannya, terjadinya, berdirinya, ditemukannya, menolongnya, menyebutnya</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-<h3>Relations Overview</h3>
-
-<ul>
-<li>This corpus does not use relation subtypes.</li>
-<li>The following 17 relation types are not used in this corpus at all: <a>obj</a>, <a>obl</a>, <a>expl</a>, <a>cop</a>, <a>nmod</a>, <a>nummod</a>, <a>acl</a>, <a>clf</a>, <a>case</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>reparandum</a>, <a>punct</a>, <a>root</a></li>
-</ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-<h3>Other Features</h3>
-
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-<li><a>Clusivity</a>
-  <ul>
-    <li>Ex
-      <ul>
-        <li>PRON: kami, kamilah</li>
-      </ul>
-    </li>
-    <li>In
-      <ul>
-        <li>PRON: kita</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-<li><a>Person[psor]</a>
-  <ul>
-    <li>1
-      <ul>
-        <li>ADP: kepadaku</li>
-        <li>NOUN: bagiku, hamba-Ku, namaku, wuku, diriku, dosaku, istriku, kangaku, kepada-Ku, kepadaku</li>
-        <li>PROPN: Allahku, Miku, Tuanku, CPOKU, Cintaku, PKU, Tuhanku</li>
-        <li>VERB: diriku, membohongiku, menantangku</li>
-      </ul>
-    </li>
-    <li>2
-      <ul>
-        <li>ADJ: barumu</li>
-        <li>ADP: menurutmu, untukmu, kepadamu</li>
-        <li>ADV: Amu, mendorongmu</li>
-        <li>NOUN: bakau, bagimu, istrimu, kepadamu, matamu, namu, Maumu, dirimu, dosamu, hari-harimu</li>
-        <li>PRON: akau, anak-anakmu</li>
-        <li>PROPN: Allahmu, Bintangmu, Kepadamu</li>
-        <li>VERB: Menyayangimu, melayanimu, membuatmu, menikahimu</li>
-      </ul>
-    </li>
-    <li>3
-      <ul>
-        <li>ADJ: utamanya, pertamanya, lamanya, aslinya, terakhirnya, besarnya, mudanya, sekitarnya, berakhirnya, kecilnya</li>
-        <li>ADP: antaranya, padanya, layaknya, bersamanya, dalamnya, dibawahnya, kepadanya, untuknya, Sesampainya, bagi-Nya</li>
-        <li>ADV: awalnya, sayangnya, tepatnya, kalinya, menurutnya, agaknya, antaranya, ibunya, kurangnya, nantinya</li>
-        <li>CCONJ: Layaknya</li>
-        <li>DET: satunya, banyaknya, semuanya, Keduanya</li>
-        <li>NOUN: ayahnya, namanya, penduduknya, anaknya, ibunya, keduanya, kalinya, sebagainya, adiknya, harinya</li>
-        <li>NUM: pertamanya, satunya, keduanya, keenamnya</li>
-        <li>PART: bukannya, membelinya, tercetusnya, terkejutnya, tidaknya</li>
-        <li>PRON: dirinya, semuanya, saatnya, berdirinya, isinya, keseluruhannya</li>
-        <li>PROPN: Ayahnya, Dalihnya, Inggrisnya, Istrinya, Jadinya, Kabarnya, Matinya, Oktobernya, Penyelenggaranya, Rasanya</li>
-        <li>SCONJ: akibatnya</li>
-        <li>VERB: artinya, masuknya, melakukannya, membuatnya, menjadikannya, terjadinya, berdirinya, ditemukannya, menolongnya, menyebutnya</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-<h2>Syntax</h2>
-
-<h3>Auxiliary Verbs and Copula</h3>
-
-<ul>
-<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: adalah, ialah.</li>
-</ul>
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
 <ul>
 <li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: dapat, harus, terpaksa.</li>
 </ul>
 
   </td>
   <td width="50%" valign="top">
+<ul>
+<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
+</ul>
 
   </td>
 </tr>
@@ -1259,6 +1325,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="50%" valign="top">
+<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+
+Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+<ul>
+  <li><a>nsubj</a>
+    <ul>
+      <li>VERB--NOUN (502)</li>
+      <li>VERB--PRON (189)</li>
+    </ul>
+  </li>
+</ul>
 
   </td>
 </tr>
@@ -1294,6 +1371,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="50%" valign="top">
+<ul>
+  <li><a>obj</a>
+    <ul>
+    </ul>
+  </li>
+</ul>
 
   </td>
 </tr>
@@ -1310,6 +1393,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="50%" valign="top">
+<ul>
+  <li><a>iobj</a>
+    <ul>
+      <li>VERB--PRON (5)</li>
+    </ul>
+  </li>
+</ul>
 
   </td>
 </tr>
@@ -1348,6 +1438,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="50%" valign="top">
+<h3>Relations Overview</h3>
+
+<ul>
+<li>This corpus does not use relation subtypes.</li>
+<li>The following 17 relation types are not used in this corpus at all: <a>obj</a>, <a>obl</a>, <a>expl</a>, <a>cop</a>, <a>nmod</a>, <a>nummod</a>, <a>acl</a>, <a>clf</a>, <a>case</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>reparandum</a>, <a>punct</a>, <a>root</a></li>
+</ul>
 
   </td>
 </tr>
