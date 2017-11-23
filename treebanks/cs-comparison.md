@@ -470,7 +470,37 @@ udver: '2'
 <tr>
   <td width="20%" valign="top">
 <ul>
-<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
+  </td>
+  <td width="20%" valign="top">
+<ul>
+<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
+  </td>
+  <td width="20%" valign="top">
+<ul>
+<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
+  </td>
+  <td width="20%" valign="top">
+<ul>
+<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
+  </td>
+  <td width="20%" valign="top">
+<ul>
+<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
 <ul>
   <li>Conv
   <ul>
@@ -478,18 +508,169 @@ udver: '2'
     <li>VERB: počínaje, nemluvě, vlastně, konče, Mluvě, soudě, říkajíc, maje, nehledě, nepočítaje</li>
   </ul>
   </li>
+</ul>
+
+  </td>
+  <td width="20%" valign="top">
+<ul>
+  <li>Conv
+  <ul>
+    <li>AUX: byvše, jsouc, jsouce</li>
+    <li>VERB: počínaje, nemluvě, nevyjímaje, říkajíc, Chráníce, Počínajíc, chtíc, dožívaje, klusaje, konče</li>
+  </ul>
+  </li>
+</ul>
+
+  </td>
+  <td width="20%" valign="top">
+<ul>
+  <li>Conv
+  <ul>
+    <li>VERB: počínaje</li>
+  </ul>
+  </li>
+</ul>
+
+  </td>
+  <td width="20%" valign="top">
+<ul>
+  <li>Conv
+  <ul>
+    <li>AUX: jsouc</li>
+    <li>VERB: chtěje, hledajíc, netuše, Divě, Jda, Nechtíc, Opíraje, Pronášejíc, Třesouc, domnívajíc</li>
+  </ul>
+  </li>
+</ul>
+
+  </td>
+  <td width="20%" valign="top">
+<ul>
+  <li>Conv
+  <ul>
+    <li>VERB: Počínaje, nedbajíce, redukujíc</li>
+  </ul>
+  </li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+<ul>
   <li>Fin
   <ul>
     <li>AUX: je, by, jsou, bude, jsem, jsme, není, budou, bychom, bych</li>
     <li>VERB: má, je, může, mají, musí, jde, jsou, lze, mohou, říká</li>
   </ul>
   </li>
+</ul>
+
+  </td>
+  <td width="20%" valign="top">
+<ul>
+  <li>Fin
+  <ul>
+    <li>AUX: je, by, jsou, bude, jsme, není, jsem, budou, bychom, nejsou</li>
+    <li>VERB: je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</li>
+  </ul>
+  </li>
+</ul>
+
+  </td>
+  <td width="20%" valign="top">
+<ul>
+  <li>Fin
+  <ul>
+    <li>AUX: je, jsou, nejsou, není, by, bude, budou</li>
+    <li>VERB: obsahuje, rozumí, může, uvede, mohou, použijí, stanoví, musí, účtuje, lze</li>
+  </ul>
+  </li>
+</ul>
+
+  </td>
+  <td width="20%" valign="top">
+<ul>
+  <li>Fin
+  <ul>
+    <li>AUX: jsem, by, je, bych, jsme, bude, jsou, jste, jsi, není</li>
+    <li>VERB: je, má, mám, může, nevím, musí, není, mají, musím, vím</li>
+  </ul>
+  </li>
+</ul>
+
+  </td>
+  <td width="20%" valign="top">
+<ul>
+  <li>Fin
+  <ul>
+    <li>AUX: je, by, jsou, bude, jsem, není, jsme, budou, nebude, budeme</li>
+    <li>VERB: má, je, může, říká, mohou, mají, lze, obsahuje, pomáhá, ukazuje</li>
+  </ul>
+  </li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+<ul>
   <li>Inf
   <ul>
     <li>AUX: být, býti, nebýt</li>
     <li>VERB: mít, získat, stát, být, hrát, říci, platit, muset, dělat, dostat</li>
   </ul>
   </li>
+</ul>
+
+  </td>
+  <td width="20%" valign="top">
+<ul>
+  <li>Inf
+  <ul>
+    <li>AUX: být, býti, pěstovat, vyžadovat</li>
+    <li>VERB: mít, být, zajistit, říci, vidět, dělat, řešit, věnovat, použít, provádět</li>
+  </ul>
+  </li>
+</ul>
+
+  </td>
+  <td width="20%" valign="top">
+<ul>
+  <li>Inf
+  <ul>
+    <li>AUX: být</li>
+    <li>VERB: vést, použít, mít, účtovat, odpisovat, uvést, sestavit, zajistit, provést, určit</li>
+  </ul>
+  </li>
+</ul>
+
+  </td>
+  <td width="20%" valign="top">
+<ul>
+  <li>Inf
+  <ul>
+    <li>AUX: být, nebýt, stát</li>
+    <li>VERB: dělat, mít, říct, vidět, být, jít, udělat, žít, stát, dát</li>
+  </ul>
+  </li>
+</ul>
+
+  </td>
+  <td width="20%" valign="top">
+<ul>
+  <li>Inf
+  <ul>
+    <li>AUX: být</li>
+    <li>VERB: mít, vidět, získat, najít, opustit, pokračovat, stát, vést, dělat, muset</li>
+  </ul>
+  </li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+<ul>
   <li>Part
   <ul>
     <li>ADJ: rozhodující, řečeno, vedoucí, následující, přesvědčen, připravena, připraven, vynikající, týkající, otevřena</li>
@@ -498,32 +679,10 @@ udver: '2'
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
   </td>
   <td width="20%" valign="top">
 <ul>
-<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
-<ul>
-  <li>Conv
-  <ul>
-    <li>AUX: byvše, jsouc, jsouce</li>
-    <li>VERB: počínaje, nemluvě, nevyjímaje, říkajíc, Chráníce, Počínajíc, chtíc, dožívaje, klusaje, konče</li>
-  </ul>
-  </li>
-  <li>Fin
-  <ul>
-    <li>AUX: je, by, jsou, bude, jsme, není, jsem, budou, bychom, nejsou</li>
-    <li>VERB: je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</li>
-  </ul>
-  </li>
-  <li>Inf
-  <ul>
-    <li>AUX: být, býti, pěstovat, vyžadovat</li>
-    <li>VERB: mít, být, zajistit, říci, vidět, dělat, řešit, věnovat, použít, provádět</li>
-  </ul>
-  </li>
   <li>Part
   <ul>
     <li>ADJ: pracujících, rozhodující, pracující, vedoucí, řečeno, dosaženo, odpovídající, následující, věnována, řídící</li>
@@ -532,31 +691,10 @@ udver: '2'
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
   </td>
   <td width="20%" valign="top">
 <ul>
-<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
-<ul>
-  <li>Conv
-  <ul>
-    <li>VERB: počínaje</li>
-  </ul>
-  </li>
-  <li>Fin
-  <ul>
-    <li>AUX: je, jsou, nejsou, není, by, bude, budou</li>
-    <li>VERB: obsahuje, rozumí, může, uvede, mohou, použijí, stanoví, musí, účtuje, lze</li>
-  </ul>
-  </li>
-  <li>Inf
-  <ul>
-    <li>AUX: být</li>
-    <li>VERB: vést, použít, mít, účtovat, odpisovat, uvést, sestavit, zajistit, provést, určit</li>
-  </ul>
-  </li>
   <li>Part
   <ul>
     <li>ADJ: konsolidující, zanikající, stanoveno, následujícího, související, předcházejícímu, týkající, přejímající, sestavena, zahrnuty</li>
@@ -565,32 +703,10 @@ udver: '2'
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
   </td>
   <td width="20%" valign="top">
 <ul>
-<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
-<ul>
-  <li>Conv
-  <ul>
-    <li>AUX: jsouc</li>
-    <li>VERB: chtěje, hledajíc, netuše, Divě, Jda, Nechtíc, Opíraje, Pronášejíc, Třesouc, domnívajíc</li>
-  </ul>
-  </li>
-  <li>Fin
-  <ul>
-    <li>AUX: jsem, by, je, bych, jsme, bude, jsou, jste, jsi, není</li>
-    <li>VERB: je, má, mám, může, nevím, musí, není, mají, musím, vím</li>
-  </ul>
-  </li>
-  <li>Inf
-  <ul>
-    <li>AUX: být, nebýt, stát</li>
-    <li>VERB: dělat, mít, říct, vidět, být, jít, udělat, žít, stát, dát</li>
-  </ul>
-  </li>
   <li>Part
   <ul>
     <li>ADJ: přesvědčen, řečeno, oblečena, uspořádány, následující, rozhodující, třesoucí, napsáno, nastávající, obklopen</li>
@@ -599,31 +715,10 @@ udver: '2'
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
   </td>
   <td width="20%" valign="top">
 <ul>
-<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
-<ul>
-  <li>Conv
-  <ul>
-    <li>VERB: Počínaje, nedbajíce, redukujíc</li>
-  </ul>
-  </li>
-  <li>Fin
-  <ul>
-    <li>AUX: je, by, jsou, bude, jsem, není, jsme, budou, nebude, budeme</li>
-    <li>VERB: má, je, může, říká, mohou, mají, lze, obsahuje, pomáhá, ukazuje</li>
-  </ul>
-  </li>
-  <li>Inf
-  <ul>
-    <li>AUX: být</li>
-    <li>VERB: mít, vidět, získat, najít, opustit, pokračovat, stát, vést, dělat, muset</li>
-  </ul>
-  </li>
   <li>Part
   <ul>
     <li>ADJ: řečeno, propuštěn, vedoucí, nabídnuto, následující, označen, poražena, používán, považováno, považovány</li>
@@ -631,8 +726,6 @@ udver: '2'
     <li>VERB: řekl, mohl, měl, stal, stala, uvedla, vedl, bylo, mohla, pracoval</li>
   </ul>
   </li>
-</ul>
-</li>
 </ul>
 
   </td>
