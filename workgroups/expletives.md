@@ -95,7 +95,7 @@ ccomp(fann, kom)
 Inherent reflexives are verbs that can only be used with a reflexive pronoun in object position and do not occur as transitive verbs with ordinary objects. UD currently assumes that the reflexive pronoun in this case is non-referental and therefore should be analysed as an expletive.
 
 ~~~ sdparse
-hon kände sig sjuk \n she felt (herself) sick
+hon kände sig sjuk \n she felt herself sick
 nsubj(känd, hon)
 expl(kände, sig)
 ~~~
@@ -105,6 +105,17 @@ expl(kände, sig)
 
 ## Expletives and Core Arguments
 
-Expletives typically behave like core arguments syntactically in that they satisfy many of the standard tests for subjecthood and objecthood. In some constructions (weather verbs, inherent reflexives), they are the only candidates for the given core argument relation and differ from a normal argument only in being non-referential and lacking a semantic role. In other constructions (existentials, extraposition of subject/complement clauses), the core argument properties are split between the expletive, which often satisfy most of the formal criteria, and a referential phrase that is assigned the semantic role normally associated with the core argument relation.
+Expletives typically behave like core arguments syntactically in that they satisfy many of the standard tests for subjecthood and objecthood. In some constructions (weather verbs, inherent reflexives), they are the only candidate for the given core argument relation and differ from a normal argument only in being non-referential and lacking a semantic role. In other constructions (existentials, extraposition of subject/complement clauses), the core argument properties are split between the expletive, which often satisfies most of the formal criteria, and a referential phrase that is assigned the semantic role normally associated with the core argument relation.
 
-The current UD taxonomy treats expletives as distinct from core arguments, which implies that `nsubj` and `obj` are restricted to referential subjects and object, respectively. 
+There are at least three possible ways of treating expletives in relation to core arguments:
+
+1. Treat expletives as distinct from core arguments. In constructions where the expletive is the sole candidate for a given core argument relation, that relation is not used at all. In constructions where the core argument properties are split, the referential phrase is assigned the core argument relation. This is the approach taken in the current UD taxonomy and it implies that `nsubj` and `obj` are restricted to referential subjects and object, respectively. Thus, in existential sentences, the expletive is labeled `expl` and the logical subject is labeled `nsubj`. A modified version of this scheme would be to introduce subtypes of `expl` to indicate whether the expletive occurs in subject or object position.
+2. Treat expletives as a subtype of core arguments but allow another referential phrase to instantiate the same core argument relation. In existential constructions, the expletive would then be assigned the relation `nsubj:expl` and the logical subject would still be labeled `nsubj`.
+3. Treat expletives as a subtype of core argments and do not allow another referential phrase to instantiate the same core argument relation. In existential constructions, if the expletive is labeled `nsubj:expl`, the logical subject could no longer be labeled `nsubj`.
+
+The following table summarizes the different relations that would be used for different constructions in the three different schemes.
+
+| Construction | Expletive | Referential |
+| Weather verb | 1. expl (expl:subj) | |
+
+
