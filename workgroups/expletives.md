@@ -6,7 +6,24 @@ udver: '2'
 
 # Working Group on Expletives
 
-Expletives are (i) morphologically identical to pro-forms (typically third person pronouns or locative pro-adverbs), (ii) non-referential (neither anaphoric/cataphoric nor exophoric), and (iii) devoid of any but a vacuous semantic role (Postal and Pullum, 1988).
+As a tentative definition of expletives, we can characterize them as pro-forms (typically third person pronouns or locative pro-adverbs) that occur in core argument positions but are non-referential (and therefore not assigned a semantic role). Below we review the range of constructions where expletives have been claimed to occur and discuss alternative analyses. 
+
+## Subject Expletives
+
+The first type of construction where expletives are found are those involving impersonal verbs, or 0-place predicates, including so-called weather verbs.
+
+1. It rains
+2. Il pleut
+
+### Impersonal Verbs
+
+### Presentation Constructions
+
+### Extraposed Clauses
+
+### Inherent Reflexives
+
+## Issues
 
 ## References
 
