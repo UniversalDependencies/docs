@@ -96,7 +96,7 @@ Inherent reflexives are verbs that can only be used with a reflexive pronoun in 
 
 ~~~ sdparse
 hon kände sig sjuk \n she felt herself sick
-nsubj(känd, hon)
+nsubj(kände, hon)
 expl(kände, sig)
 ~~~
 ~~~ sdparse
