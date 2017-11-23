@@ -26,11 +26,19 @@ Acronyms of proper nouns, such as _ՄԱԿ&nbsp;_ “UN” and _ՆԱՏՕ&nbsp;_ �
 
 Armenian multi-word named entities have internal syntactic
 structure, which is preserved in the annotation. The headword is always noun
-and there may be other nouns involved. They will be tagged either `PROPN` or
-`NOUN` and possible ambiguities must be resolved individually.
+and there may be other nouns involved. They will be tagged `PROPN` if they are proper nous as single-word named entities. Even if an adjective is the
+first word of a multi-word name, and thus it starts with an uppercase letter,
+it is still tagged `ADJ`.
 
 ### Examples
 
-- _Զիմզիմովներ_
-- _Լոնդոն_
-- _ՄԱԿ_
+- _<b>Դոնի</b>_.`PROPN` _<b>Ռոստով</b>_.`PROPN`, _<b>Մայնի</b>_.`PROPN` _<b>ֆրանկֆուրտ</b>_.`PROPN` “Rostov-on-Don, Frankfurt am Main”. _Ռոստով&nbsp;_ and _Ֆրանկֆուրտ&nbsp;_ are the heads and the _Դոնի&nbsp;_, _Մայնի&nbsp;_ parts refer to the rivers flowing through the city, and are tagged as `PROPN`.
+- _Վերին_.`ADJ` _<b>Սասնաշեն</b>_.`PROPN` is a village. _Սասնաշեն&nbsp;_ is the head and it is
+  tagged `PROPN` although it is geographical name. _Վերին&nbsp;_ is an adjective meaning “upper” and it is
+  tagged `ADJ`.
+- _Հյուսիսային_.`ADJ` _սառուցյալ_.`ADJ` _օվկիանոս_.`NOUN` “The Arctic Ocean”. Even though the three words
+  together are a name of a particular ocean, _օվկիանոս_ is a common noun and is
+  tagged as such.
+- _Միավորված_.`ADJ` _ազգերի_.`NOUN` _կազմակերպություն_.`NOUN` “United Nations Organization”
+  consists of three words, none of which is proper noun. However, the acronym
+  _<b>ՄԱԿ</b>&nbsp;_ “UNO” is a single-token name and is tagged `PROPN`. In _ԵԱՀԿ.`PROPN`_ _Մինսկի.`PROPN`_ _խումբ.`NOUN`_ “The OSCE Minsk Group” the first two are proper nouns.
