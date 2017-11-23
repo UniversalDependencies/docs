@@ -128,6 +128,9 @@ The following table summarizes the different relations that would be used for di
 | Extraposed complement clause | 1 | expl (expl:obj) | ccomp |
 |  | 2 | obj:expl | ccomp |
 |  | 3 | obj:expl | ccomp |
+| Inherent reflexive | 1 | expl (expl:obj) | |
+|  | 2 | obj:expl | |
+|  | 3 | obj:expl | |
 
 
 
