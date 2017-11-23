@@ -115,7 +115,19 @@ There are at least three possible ways of treating expletives in relation to cor
 
 The following table summarizes the different relations that would be used for different constructions in the three different schemes.
 
-| Construction | Expletive | Referential |
-| Weather verb | 1. expl (expl:subj) | |
+| Construction | Scheme | Expletive | Referential |
+| Weather verb | 1 | expl (expl:nsubj) | |
+|  | 2 | nsubj:expl | |
+|  | 3 | nsubj:expl | |
+| Existential sentence | 1 | expl (expl:nsubj) | nsubj |
+|  | 2 | nsubj:expl | nsubj |
+|  | 3 | nsubj:expl | obj? |
+| Extraposed clausal subject | 1 | expl (expl:nsubj) | csubj |
+|  | 2 | nsubj:expl | csubj |
+|  | 3 | nsubj:expl | ccomp |
+| Extraposed complement clause | 1 | expl (expl:obj) | ccomp |
+|  | 2 | obj:expl | ccomp |
+|  | 3 | obj:expl | ccomp |
+
 
 
