@@ -29,11 +29,13 @@ Names of cities, countries, rivers, mountains etc.
 
 #### Examples
 
-* _<b>Երևան</b>&nbsp;_ “Yerevan”, <b>Գերմանիա</b>&nbsp;_ “Germany”
+* _<b>Երևան, ՀՀ, Եվրոպա, Գերմանիա</b>&nbsp;_ “Yerevan, RA, Europe, Germany”
 
 ### <a name="Prs">`Prs`</a>: name of person
 
 This value is used if it is not known whether it is a given or a family name, but it is known that it is a personal name.
+
+* _<b>Րաֆֆի, Մուրացան, Նար-Դոս, Գամառ-Քատիպա, Քաչալ</b>&nbsp;_ “Raffi, Muratsan, Nar-Dos, Gamar-Katipa, Kachal (bald)”
 
 ### <a name="Giv">`Giv`</a>: given name of person
 
@@ -41,20 +43,32 @@ Given name (not family name). This is usually the first name in European and Ame
 
 #### Examples
 
-* _<b>Արամ</b>, <b>Անահիտ</b>, <b>Հովհաննես</b>_
-
+* _<b>Արամ, Անահիտ, Հովհաննես</b>&nbsp;_ “Aram, Anahit, Hovhannes”
+  
 ### <a name="Sur">`Sur`</a>: surname / family name of person
 
 Family name (surname). This is usually the last name in European and American names. In Chinese names, the first syllable (of three) is usually the surname.
 
 #### Examples
 
-* _<b>Հովհաննիսյան</b>, <b>Պետրոսյան</b>, <b>Սարգսյան</b>_
+* _<b>Սարոյան, Պետրոսյան, Գրիգորյան</b>&nbsp;_ “Saroyan, Petrosyan, Grigoryan”
 
-### <a name="Com">`Com`</a>: company, organization
+### <a name="Com">`Com`</a>: company, organization, institution
+
+#### Examples
+
+* _<b>Սիեմենս, ՄԱԿ, ԳԱԱ</b>&nbsp;_ “Siemens, UN, NAS”
 
 ### <a name="Pro">`Pro`</a>: product
+
+#### Examples
+
+* _<b>Երազ, ԿամԱԶ, Չայկա, Մերսեդես</b>&nbsp;_ “Yeraz, Kamaz, Chaika, Mercedes”
 
 ### <a name="Oth">`Oth`</a>: other
 
 Names of stadiums, guerilla bases, events etc.
+
+#### Examples
+
+* _<b>«Հրազդան», «Դինամո», «Զվարթնոց»</b>&nbsp;_ “Hrazdan, Dinamo, Zvartnots”
