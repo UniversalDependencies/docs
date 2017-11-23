@@ -76,10 +76,35 @@ Expletives in object position have been assumed in (at least) two types of const
 1. Extraposed complement clauses
 2. Inherent reflexives
 
-### Inherent Reflexives
+Extraposed complement clauses, with or without a corresponding expletive pronoun, typically occur together with a predicative `xcomp` as in the following examples.
 
-## Issues
+~~~ sdparse
+jag fann förvånande att hon kom \n I found surprising that she came
+nsubj(fann, jag)
+xcomp(fann, förvånande)
+ccomp(fann, kom)
+~~~
+~~~ sdparse
+jag fann det förvånande att hon kom \n I found it surprising that she came
+nsubj(fann, jag)
+expl(fann, det)
+xcomp(fann, förvånande)
+ccomp(fann, kom)
+~~~
 
-## References
+Inherent reflexives are verbs that can only be used with a reflexive pronoun in object position and do not occur as transitive verbs with ordinary objects. UD currently assumes that the reflexive pronoun in this case is non-referental and therefore should be analysed as an expletive.
 
-Paul M. Postal and Geoffrey K. Pullum (1988) Expletive Noun Phrases in Subcategorized Positions. _Linguistic Inquiry_ 19:4, 635-670.
+~~~ sdparse
+hon kände sig sjuk \n she felt (herself) sick
+nsubj(känd, hon)
+expl(kände, sig)
+~~~
+~~~ sdparse
+*hon kände honom sjuk \n she felt him sick
+~~~
+
+## Expletives and Core Arguments
+
+Expletives typically behave like core arguments syntactically in that they satisfy many of the standard tests for subjecthood and objecthood. In some constructions (weather verbs, inherent reflexives), they are the only candidates for the given core argument relation and differ from a normal argument only in being non-referential and lacking a semantic role. In other constructions (existentials, extraposition of subject/complement clauses), the core argument properties are split between the expletive, which often satisfy most of the formal criteria, and a referential phrase that is assigned the semantic role normally associated with the core argument relation.
+
+The current UD taxonomy treats expletives as distinct from core arguments, which implies that `nsubj` and `obj` are restricted to referential subjects and object, respectively. 
