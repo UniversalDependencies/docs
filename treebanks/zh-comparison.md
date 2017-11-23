@@ -27,44 +27,146 @@ udver: '2'
   <td width="25%" valign="top">
 <h2>Tokenization and Word Segmentation</h2>
 
+
+  </td>
+  <td width="25%" valign="top">
+<h2>Tokenization and Word Segmentation</h2>
+
+
+  </td>
+  <td width="25%" valign="top">
+<h2>Tokenization and Word Segmentation</h2>
+
+
+  </td>
+  <td width="25%" valign="top">
+<h2>Tokenization and Word Segmentation</h2>
+
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
 <ul>
 <li>This corpus contains 4997 sentences and 123283 tokens.</li>
+</ul>
+
+  </td>
+  <td width="25%" valign="top">
+<ul>
+<li>This corpus contains 451 sentences and 7256 tokens.</li>
+</ul>
+
+  </td>
+  <td width="25%" valign="top">
+<ul>
+<li>This corpus contains 209 sentences and 1871 tokens.</li>
+</ul>
+
+  </td>
+  <td width="25%" valign="top">
+<ul>
+<li>This corpus contains 1000 sentences and 21415 tokens.</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+<ul>
 <li>This corpus contains 122954 tokens (100%) that are not followed by a space.</li>
+</ul>
+
+  </td>
+  <td width="25%" valign="top">
+<ul>
+<li>This corpus contains 7256 tokens (100%) that are not followed by a space.</li>
+</ul>
+
+  </td>
+  <td width="25%" valign="top">
+<ul>
+<li>This corpus contains 1871 tokens (100%) that are not followed by a space.</li>
+</ul>
+
+  </td>
+  <td width="25%" valign="top">
+<ul>
+<li>This corpus contains 20322 tokens (95%) that are not followed by a space.</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+  </td>
+  <td width="25%" valign="top">
+<ul>
+<li>This corpus does not contain words with spaces.</li>
+</ul>
+
+  </td>
+  <td width="25%" valign="top">
+<ul>
+<li>This corpus does not contain words with spaces.</li>
+</ul>
+
+  </td>
+  <td width="25%" valign="top">
+<ul>
+<li>This corpus does not contain words with spaces.</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+<ul>
 <li>This corpus contains 45 types of words that contain both letters and punctuation. Examples: #A, DC-10, km/h, #B, #C, #D, #E, #F, #G, -an, A-AVG, AK-47, Arzacq-Arraziguet, Beaune-Sud, Berne-Belp, CI-7957, CRH380B-002, F-15A, F-16A, Frito-Lay, It's, Kink.com, MD-11, Micro-USM, NX-01, Navy's, O., P-700, Pre-rendering, S-IVB, TVS-5, Tu-16, Uhler-Phillips, al-Banna, f(x), g(x), t.163.com, t.qq.com, t.sina.com.cn, t.sohu.com, t.xxxx.com, 一,, 一而再、再而三, 三、, 列夫·達維多維奇</li>
 </ul>
 
   </td>
   <td width="25%" valign="top">
-<h2>Tokenization and Word Segmentation</h2>
-
 <ul>
-<li>This corpus contains 451 sentences and 7256 tokens.</li>
-<li>This corpus contains 7256 tokens (100%) that are not followed by a space.</li>
-<li>This corpus does not contain words with spaces.</li>
 <li>This corpus does not contain words that contain both letters and punctuation.</li>
 </ul>
 
   </td>
   <td width="25%" valign="top">
-<h2>Tokenization and Word Segmentation</h2>
-
 <ul>
-<li>This corpus contains 209 sentences and 1871 tokens.</li>
-<li>This corpus contains 1871 tokens (100%) that are not followed by a space.</li>
-<li>This corpus does not contain words with spaces.</li>
 <li>This corpus does not contain words that contain both letters and punctuation.</li>
 </ul>
 
   </td>
   <td width="25%" valign="top">
-<h2>Tokenization and Word Segmentation</h2>
-
 <ul>
-<li>This corpus contains 1000 sentences and 21415 tokens.</li>
-<li>This corpus contains 20322 tokens (95%) that are not followed by a space.</li>
-<li>This corpus does not contain words with spaces.</li>
 <li>This corpus contains 10 types of words that contain both letters and punctuation. Examples: B.C., G.D.P, Jr., King,, St., Traum，, Wi-Fi, Z., Zettel's, al-Jadaan</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+<ul>
+</ul>
+
+  </td>
+  <td width="25%" valign="top">
+<ul>
+</ul>
+
+  </td>
+  <td width="25%" valign="top">
+<ul>
+</ul>
+
+  </td>
+  <td width="25%" valign="top">
+<ul>
 </ul>
 
   </td>
@@ -78,7 +180,6 @@ udver: '2'
 <ul>
 <li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: SCONJ, INTJ</li>
-<li>This corpus contains 578 word types tagged as particles (PART): 不, 中, 主, 之, 了, 事, 井, 亞, 亭, 人, 今, 代, 令, 位, 低, 佛, 作, 佬, 使, 侯, 俠, 信, 們, 值, 側, 偽, 傳, 僑, 價, 元, 先, 光, 光棍, 內, 公, 兵, 典, 冠, 冢, 冷, 准, 刀, 分, 列, 制, 券, 前, 副, 劇, 劍, 劑, 力, 功, 劣, 包, 化, 區, 半, 卡, 卿, 原, 友, 口, 古, 台, 史, 司, 同, 名, 君, 否, 吧, 周, 味, 和美, 品, 哈爾濱, 員, 商, 單, 嘴, 器, 因, 圈, 國, 圍, 園, 圓, 圖, 團, 土, 地, 坊, 坡, 型, 城, 埤, 基, 堂, 堡, 堤, 報, 場, 塔, 塘, 墓, 墟, 墳, 壓, 士, 外, 多, 夜, 夢, 大, 天, 夾, 奏, 套, 女, 奸, 好, 妃, 妹, 始, 娘, 婆, 婦, 子, 孔, 字, 季, 學, 宏, 宗, 官, 客, 室, 宮, 家, 富, 審, 寬, 寺, 將, 對, 小, 尖, 局, 屋, 屍, 展, 層, 屬, 屯, 山, 岩, 岸, 峰, 島, 峽, 崖, 崗, 嶺, 嶼, 川, 州, 工, 巷, 市, 布, 帝, 師, 席, 帶, 帽, 幣, 幫, 年, 床, 底, 店, 府, 度, 座, 庫, 庭, 廟, 廠, 廬, 廳, 廷, 式, 強, 彈, 彎, 形, 後, 徑, 徒, 得, 御, 微, 徽, 心, 志, 快, 性, 怪, 恆, 感, 態, 戀, 戰, 戲, 戶, 房, 所, 手, 打, 拖, 擋, 支, 教, 數, 文, 新, 方, 族, 旗, 日, 星, 晚, 暖, 暗, 曲, 書, 會, 月, 服, 朝, 期, 本, 材, 村, 束, 杯, 板, 林, 架, 校, 株, 核, 格, 案, 桿, 梁, 棍, 棒, 棚, 業, 榜, 槍, 槳, 樂, 樓, 樹, 橋, 橙, 機, 橢, 檔, 櫃, 權, 次, 款, 歌, 正, 死, 段, 殿, 母, 毒, 氏, 氣, 水, 江, 池, 河, 沼, 泉, 法, 波, 洋, 洞, 洲, 派, 浦, 海, 涌, 液, 淡, 深, 混, 淺, 清, 渡, 港, 湖, 準, 溝, 溥儀, 溪, 滿, 滿洲, 潮, 澡, 澳, 濁, 濃, 灘, 灣, 火, 炎, 炮, 烴, 煙, 熱, 營, 爐, 父, 爺, 牆, 片, 版, 牌, 物, 犯, 狀, 狂, 狗, 獅, 獎, 率, 王, 班, 球, 琴, 生, 男, 町, 界, 畔, 畫, 病, 症, 癌, 癖, 的, 皮, 盃, 目, 省, 眼, 眾, 督, 短, 石, 砲, 硅, 碑, 碼, 礁, 礦, 社, 神, 祠, 禮, 秀, 秋, 科, 秤, 稅, 種, 窟, 窯, 站, 端, 符, 笨, 等, 管, 箱, 節, 篇, 籍, 米, 粉, 精, 系, 紀, 紅, 紋, 純, 紙, 級, 素, 組, 結, 綉, 綜, 綫, 綱, 網, 線, 縣, 總, 罩, 罪, 署, 羊, 美, 群, 翁, 老, 者, 聖, 肉, 胎, 胚, 能, 腔, 腳, 腿, 膜, 膠, 臉, 臨, 臺, 舊, 舞, 船, 艇, 艙, 艦, 色, 花, 茶, 莊, 菌, 菜, 葉, 著, 藍, 藤, 藥, 藩, 處, 號, 蛙, 行, 術, 街, 衛, 衣, 表, 裔, 裙, 製, 褲, 親, 觀, 角, 記, 詞, 詩, 話, 誌, 語, 說, 課, 論, 證, 譜, 變, 谷, 豆, 象, 貓, 費, 資, 質, 賽, 超, 路, 躁, 身, 車, 軍, 軒, 軟, 軸, 輕, 近, 迷, 通, 週, 過, 道, 遠, 邊, 邦, 邨, 郎, 郡, 部, 都, 鄉, 配, 酒, 酸, 醣, 醫, 里, 重, 量, 金, 針, 銘, 鋼, 錄, 錦, 鍋, 鍵, 鎮, 鏈, 鏡, 鐵, 長, 門, 間, 閣, 關, 院, 陵, 陸, 隊, 階, 際, 集, 電, 非, 面, 音, 頂, 頭, 題, 額, 類, 風, 飯, 餅, 餐, 館, 饃, 馬, 骨, 體, 高, 鬥, 鬼, 魚, 鮮, 鳥, 鹼, 點, 黨, 齋</li>
 </ul>
 
   </td>
@@ -90,7 +191,6 @@ udver: '2'
 <ul>
 <li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a></li>
 <li>This corpus does not use the following tags: SYM, X</li>
-<li>This corpus contains 11 word types tagged as particles (PART): 。, 了, 吗, 吧, 呢, 和, 啊, 嗬, 地, 得, 的</li>
 </ul>
 
   </td>
@@ -101,7 +201,6 @@ udver: '2'
 
 <ul>
 <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
-<li>This corpus contains 12 word types tagged as particles (PART): 之, 了, 吧, 呀, 呢, 啊, 啦, 嗎, 嘛, 得, 的, 等</li>
 </ul>
 
   </td>
@@ -113,6 +212,31 @@ udver: '2'
 <ul>
 <li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: INTJ, SYM</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+<ul>
+<li>This corpus contains 578 word types tagged as particles (PART): 不, 中, 主, 之, 了, 事, 井, 亞, 亭, 人, 今, 代, 令, 位, 低, 佛, 作, 佬, 使, 侯, 俠, 信, 們, 值, 側, 偽, 傳, 僑, 價, 元, 先, 光, 光棍, 內, 公, 兵, 典, 冠, 冢, 冷, 准, 刀, 分, 列, 制, 券, 前, 副, 劇, 劍, 劑, 力, 功, 劣, 包, 化, 區, 半, 卡, 卿, 原, 友, 口, 古, 台, 史, 司, 同, 名, 君, 否, 吧, 周, 味, 和美, 品, 哈爾濱, 員, 商, 單, 嘴, 器, 因, 圈, 國, 圍, 園, 圓, 圖, 團, 土, 地, 坊, 坡, 型, 城, 埤, 基, 堂, 堡, 堤, 報, 場, 塔, 塘, 墓, 墟, 墳, 壓, 士, 外, 多, 夜, 夢, 大, 天, 夾, 奏, 套, 女, 奸, 好, 妃, 妹, 始, 娘, 婆, 婦, 子, 孔, 字, 季, 學, 宏, 宗, 官, 客, 室, 宮, 家, 富, 審, 寬, 寺, 將, 對, 小, 尖, 局, 屋, 屍, 展, 層, 屬, 屯, 山, 岩, 岸, 峰, 島, 峽, 崖, 崗, 嶺, 嶼, 川, 州, 工, 巷, 市, 布, 帝, 師, 席, 帶, 帽, 幣, 幫, 年, 床, 底, 店, 府, 度, 座, 庫, 庭, 廟, 廠, 廬, 廳, 廷, 式, 強, 彈, 彎, 形, 後, 徑, 徒, 得, 御, 微, 徽, 心, 志, 快, 性, 怪, 恆, 感, 態, 戀, 戰, 戲, 戶, 房, 所, 手, 打, 拖, 擋, 支, 教, 數, 文, 新, 方, 族, 旗, 日, 星, 晚, 暖, 暗, 曲, 書, 會, 月, 服, 朝, 期, 本, 材, 村, 束, 杯, 板, 林, 架, 校, 株, 核, 格, 案, 桿, 梁, 棍, 棒, 棚, 業, 榜, 槍, 槳, 樂, 樓, 樹, 橋, 橙, 機, 橢, 檔, 櫃, 權, 次, 款, 歌, 正, 死, 段, 殿, 母, 毒, 氏, 氣, 水, 江, 池, 河, 沼, 泉, 法, 波, 洋, 洞, 洲, 派, 浦, 海, 涌, 液, 淡, 深, 混, 淺, 清, 渡, 港, 湖, 準, 溝, 溥儀, 溪, 滿, 滿洲, 潮, 澡, 澳, 濁, 濃, 灘, 灣, 火, 炎, 炮, 烴, 煙, 熱, 營, 爐, 父, 爺, 牆, 片, 版, 牌, 物, 犯, 狀, 狂, 狗, 獅, 獎, 率, 王, 班, 球, 琴, 生, 男, 町, 界, 畔, 畫, 病, 症, 癌, 癖, 的, 皮, 盃, 目, 省, 眼, 眾, 督, 短, 石, 砲, 硅, 碑, 碼, 礁, 礦, 社, 神, 祠, 禮, 秀, 秋, 科, 秤, 稅, 種, 窟, 窯, 站, 端, 符, 笨, 等, 管, 箱, 節, 篇, 籍, 米, 粉, 精, 系, 紀, 紅, 紋, 純, 紙, 級, 素, 組, 結, 綉, 綜, 綫, 綱, 網, 線, 縣, 總, 罩, 罪, 署, 羊, 美, 群, 翁, 老, 者, 聖, 肉, 胎, 胚, 能, 腔, 腳, 腿, 膜, 膠, 臉, 臨, 臺, 舊, 舞, 船, 艇, 艙, 艦, 色, 花, 茶, 莊, 菌, 菜, 葉, 著, 藍, 藤, 藥, 藩, 處, 號, 蛙, 行, 術, 街, 衛, 衣, 表, 裔, 裙, 製, 褲, 親, 觀, 角, 記, 詞, 詩, 話, 誌, 語, 說, 課, 論, 證, 譜, 變, 谷, 豆, 象, 貓, 費, 資, 質, 賽, 超, 路, 躁, 身, 車, 軍, 軒, 軟, 軸, 輕, 近, 迷, 通, 週, 過, 道, 遠, 邊, 邦, 邨, 郎, 郡, 部, 都, 鄉, 配, 酒, 酸, 醣, 醫, 里, 重, 量, 金, 針, 銘, 鋼, 錄, 錦, 鍋, 鍵, 鎮, 鏈, 鏡, 鐵, 長, 門, 間, 閣, 關, 院, 陵, 陸, 隊, 階, 際, 集, 電, 非, 面, 音, 頂, 頭, 題, 額, 類, 風, 飯, 餅, 餐, 館, 饃, 馬, 骨, 體, 高, 鬥, 鬼, 魚, 鮮, 鳥, 鹼, 點, 黨, 齋</li>
+</ul>
+
+  </td>
+  <td width="25%" valign="top">
+<ul>
+<li>This corpus contains 11 word types tagged as particles (PART): 。, 了, 吗, 吧, 呢, 和, 啊, 嗬, 地, 得, 的</li>
+</ul>
+
+  </td>
+  <td width="25%" valign="top">
+<ul>
+<li>This corpus contains 12 word types tagged as particles (PART): 之, 了, 吧, 呀, 呢, 啊, 啦, 嗎, 嘛, 得, 的, 等</li>
+</ul>
+
+  </td>
+  <td width="25%" valign="top">
+<ul>
 <li>This corpus contains 29 word types tagged as particles (PART): 之, 了, 人, 區, 呢, 嗎, 地, 家, 得, 河, 法, 的, 瞭, 緣, 罪, 者, 肺, 舟, 著, 處, 號, 街, 賽, 過, 配, 鎊, 體, 點, 黨</li>
 </ul>
 
@@ -312,7 +436,36 @@ udver: '2'
 </tr>
 <tr>
   <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
 <li><a>Number</a>
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+<li><a>Number</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
   <ul>
     <li>Plur
       <ul>
@@ -322,7 +475,6 @@ udver: '2'
       </ul>
     </li>
   </ul>
-</li>
 
   </td>
   <td width="25%" valign="top">
@@ -332,7 +484,6 @@ udver: '2'
 
   </td>
   <td width="25%" valign="top">
-<li><a>Number</a>
   <ul>
     <li>Plur
       <ul>
@@ -341,6 +492,25 @@ udver: '2'
       </ul>
     </li>
   </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+  <ul>
+  </ul>
 </li>
 
   </td>
@@ -348,6 +518,21 @@ udver: '2'
 <tr>
   <td width="25%" valign="top">
 <li><a>Case</a>
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+<li><a>Case</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
   <ul>
     <li>Gen
       <ul>
@@ -356,7 +541,6 @@ udver: '2'
       </ul>
     </li>
   </ul>
-</li>
 
   </td>
   <td width="25%" valign="top">
@@ -366,7 +550,6 @@ udver: '2'
 
   </td>
   <td width="25%" valign="top">
-<li><a>Case</a>
   <ul>
     <li>Gen
       <ul>
@@ -374,6 +557,25 @@ udver: '2'
       </ul>
     </li>
   </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+  <ul>
+  </ul>
 </li>
 
   </td>
@@ -383,9 +585,13 @@ udver: '2'
 
   </td>
   <td width="25%" valign="top">
+<h3>Degree and Polarity</h3>
+
 
   </td>
   <td width="25%" valign="top">
+<h3>Degree and Polarity</h3>
+
 
   </td>
   <td width="25%" valign="top">
@@ -413,8 +619,9 @@ udver: '2'
 
   </td>
   <td width="25%" valign="top">
-<h3>Degree and Polarity</h3>
 
+  </td>
+  <td width="25%" valign="top">
 
   </td>
   <td width="25%" valign="top">
@@ -422,15 +629,43 @@ udver: '2'
 
 
   </td>
+</tr>
+<tr>
   <td width="25%" valign="top">
-<h3>Degree and Polarity</h3>
 
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
 
   </td>
 </tr>
 <tr>
   <td width="25%" valign="top">
 <li><a>Polarity</a>
+
+  </td>
+  <td width="25%" valign="top">
+<h3>Verbal Features</h3>
+
+
+  </td>
+  <td width="25%" valign="top">
+<h3>Verbal Features</h3>
+
+
+  </td>
+  <td width="25%" valign="top">
+<li><a>Polarity</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
   <ul>
     <li>Neg
       <ul>
@@ -438,7 +673,6 @@ udver: '2'
       </ul>
     </li>
   </ul>
-</li>
 
   </td>
   <td width="25%" valign="top">
@@ -448,7 +682,6 @@ udver: '2'
 
   </td>
   <td width="25%" valign="top">
-<li><a>Polarity</a>
   <ul>
     <li>Neg
       <ul>
@@ -456,6 +689,25 @@ udver: '2'
       </ul>
     </li>
   </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+  <ul>
+  </ul>
 </li>
 
   </td>
@@ -478,7 +730,38 @@ udver: '2'
   <td width="25%" valign="top">
 <h3>Verbal Features</h3>
 
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+<h3>Verbal Features</h3>
+
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
 <li><a>Aspect</a>
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+<li><a>Aspect</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
   <ul>
     <li>Perf
       <ul>
@@ -486,40 +769,69 @@ udver: '2'
         <li>X: 了</li>
       </ul>
     </li>
-    <li>Prog
-      <ul>
-        <li>PART: 著</li>
-      </ul>
-    </li>
   </ul>
-</li>
 
   </td>
   <td width="25%" valign="top">
-<h3>Verbal Features</h3>
-
 
   </td>
   <td width="25%" valign="top">
-<h3>Verbal Features</h3>
-
 
   </td>
   <td width="25%" valign="top">
-<h3>Verbal Features</h3>
-
-<li><a>Aspect</a>
   <ul>
     <li>Perf
       <ul>
         <li>PART: 了, 過, 瞭</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+  <ul>
     <li>Prog
       <ul>
         <li>PART: 著</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+  <ul>
+    <li>Prog
+      <ul>
+        <li>PART: 著</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+  <ul>
   </ul>
 </li>
 
@@ -528,6 +840,24 @@ udver: '2'
 <tr>
   <td width="25%" valign="top">
 <li><a>Mood</a>
+
+  </td>
+  <td width="25%" valign="top">
+<h3>Pronouns, Determiners, Quantifiers</h3>
+
+
+  </td>
+  <td width="25%" valign="top">
+<h3>Pronouns, Determiners, Quantifiers</h3>
+
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
   <ul>
     <li>Inter
       <ul>
@@ -535,7 +865,6 @@ udver: '2'
       </ul>
     </li>
   </ul>
-</li>
 
   </td>
   <td width="25%" valign="top">
@@ -550,33 +879,7 @@ udver: '2'
 </tr>
 <tr>
   <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="25%" valign="top">
-<li><a>Voice</a>
   <ul>
-    <li>Cau
-      <ul>
-        <li>ADP: 以</li>
-        <li>VERB: 將, 以, 使, 把, 讓, 使得, 令, 導致, 要求, 派</li>
-      </ul>
-    </li>
-    <li>Pass
-      <ul>
-        <li>VERB: 被, 為</li>
-      </ul>
-    </li>
   </ul>
 </li>
 
@@ -588,7 +891,35 @@ udver: '2'
 
   </td>
   <td width="25%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
 <li><a>Voice</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
   <ul>
     <li>Cau
       <ul>
@@ -597,6 +928,22 @@ udver: '2'
         <li>VERB: 讓, 使, 令, 導致, 以, 以至, 使得, 任命, 帶領, 敦促</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+  <ul>
     <li>Pass
       <ul>
         <li>ADP: 被</li>
@@ -604,12 +951,37 @@ udver: '2'
       </ul>
     </li>
   </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+<li><a>Voice</a>
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+  <ul>
+  </ul>
 </li>
 
   </td>
 </tr>
 <tr>
   <td width="25%" valign="top">
+  <ul>
+    <li>Cau
+      <ul>
+        <li>ADP: 以</li>
+        <li>VERB: 將, 以, 使, 把, 讓, 使得, 令, 導致, 要求, 派</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="25%" valign="top">
@@ -624,8 +996,50 @@ udver: '2'
 </tr>
 <tr>
   <td width="25%" valign="top">
-<h3>Pronouns, Determiners, Quantifiers</h3>
+  <ul>
+    <li>Pass
+      <ul>
+        <li>VERB: 被, 為</li>
+      </ul>
+    </li>
+  </ul>
 
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
 
   </td>
   <td width="25%" valign="top">
@@ -633,20 +1047,100 @@ udver: '2'
 
 
   </td>
+</tr>
+<tr>
   <td width="25%" valign="top">
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
   </td>
   <td width="25%" valign="top">
-<h3>Pronouns, Determiners, Quantifiers</h3>
 
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+<li><a>NumType</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+  <ul>
+    <li>Card
+      <ul>
+        <li>NUM: 一, 兩, 很多, 三, 許多, 六, 多, 20, 10, 十</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+  <ul>
+    <li>Ord
+      <ul>
+        <li>ADJ: 第一, 第二, 第三, 第31, 第45, 第96, 第四</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
 </tr>
 <tr>
   <td width="25%" valign="top">
 <li><a>NumType</a>
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
   <ul>
     <li>Card
       <ul>
@@ -654,7 +1148,6 @@ udver: '2'
       </ul>
     </li>
   </ul>
-</li>
 
   </td>
   <td width="25%" valign="top">
@@ -664,149 +1157,14 @@ udver: '2'
 
   </td>
   <td width="25%" valign="top">
-<li><a>NumType</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
   <ul>
-    <li>Card
-      <ul>
-        <li>NUM: 一, 兩, 很多, 三, 許多, 六, 多, 20, 10, 十</li>
-      </ul>
-    </li>
-    <li>Ord
-      <ul>
-        <li>ADJ: 第一, 第二, 第三, 第31, 第45, 第96, 第四</li>
-      </ul>
-    </li>
   </ul>
 </li>
-
-  </td>
-</tr>
-<tr>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="25%" valign="top">
-<li><a>Person</a>
-  <ul>
-    <li>1
-      <ul>
-        <li>PRON: 我, 我們</li>
-      </ul>
-    </li>
-    <li>2
-      <ul>
-        <li>PRON: 你, 妳, 您</li>
-      </ul>
-    </li>
-    <li>3
-      <ul>
-        <li>PRON: 他, 其, 她, 它, 他們, 它們, 牠們, 她們, 牠, 祂</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-<li><a>Person</a>
-  <ul>
-    <li>1
-      <ul>
-        <li>PRON: 我, 我們</li>
-      </ul>
-    </li>
-    <li>2
-      <ul>
-        <li>PRON: 你, 您, 你們</li>
-      </ul>
-    </li>
-    <li>3
-      <ul>
-        <li>PRON: 他, 她, 其, 他們, 它, 它們, 她們, 牠們</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-
-  </td>
-</tr>
-<tr>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="25%" valign="top">
-<h3>Other Features</h3>
-
 
   </td>
   <td width="25%" valign="top">
@@ -820,31 +1178,11 @@ udver: '2'
 
   </td>
   <td width="25%" valign="top">
-<h3>Other Features</h3>
-
-<li><a>Foreign</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>X: Anaya, Film, de, the, Amin, Antilles, Atkinson, Avery, Aviva, Bass</li>
-      </ul>
-    </li>
-  </ul>
-</li>
 
   </td>
 </tr>
 <tr>
   <td width="25%" valign="top">
-<h2>Syntax</h2>
-
-<h3>Auxiliary Verbs and Copula</h3>
-
-<ul>
-<li>This corpus uses 135 lemmas as copulas (<a>cop</a>). Examples: 是、 為、 也是、 就是、 不是、 即、 都是、 感到、 非、 則是、 變、 亦是、 亦為、 而是、 並非、 則為、 發展、 而非、 表現、 影響、 還是、 顯得、 做、 卻是、 夠、 如、 控制、 是否是、 為人、 爲、 獲利、 看似、 裝、 謂、 變得、 連任、 一爭、 上表、 不夠、 且是、 仍是、 仍算、 令、 以為、 以爲、 低、 來、 便宜、 便是、 保存.</li>
-<li>This corpus uses 40 lemmas as auxiliaries (<a>aux</a>). Examples: 會、 可以、 可、 能、 要、 可能、 必須、 能夠、 不會、 不能、 想、 需要、 需、 應、 未能、 不可、 不得、 須、 不應、 不願、 應該、 欲、 願意、 不想、 必、 不需、 請、 不準、 不肯、 不要、 不該、 只能、 得、 愛、 應當、 敢、 沒能、 當、 肯、 能否.</li>
-<li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: 被、 為、 把.</li>
-</ul>
 
   </td>
   <td width="25%" valign="top">
@@ -854,7 +1192,6 @@ udver: '2'
 
 <ul>
 <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: 是、 就是.</li>
-<li>This corpus uses 30 lemmas as auxiliaries (<a>aux</a>). Examples: 了、 着、 要、 会、 能、 想、 过、 可以、 没、 应该、 爱、 得、 敢、 需要、 可能、 没有、 不得、 似乎、 似的、 喜欢、 回、 好像、 宁愿、 就、 希望、 必须、 愿意、 懒得、 起来、 这.</li>
 </ul>
 
   </td>
@@ -865,38 +1202,100 @@ udver: '2'
 
 <ul>
 <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: 是、 _.</li>
-<li>This corpus uses 20 lemmas as auxiliaries (<a>aux</a>). Examples: _、 要、 能、 過、 了、 可以、 喜歡、 愛、 著、 不要、 想、 應該、 會、 不用、 別、 好、 有、 樂意、 沒有、 需要.</li>
 </ul>
 
   </td>
   <td width="25%" valign="top">
-<h2>Syntax</h2>
-
-<h3>Auxiliary Verbs and Copula</h3>
-
-<ul>
-<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
-<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
-<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: _.</li>
-</ul>
 
   </td>
 </tr>
 <tr>
   <td width="25%" valign="top">
-<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
 
-Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+  </td>
+  <td width="25%" valign="top">
 <ul>
-  <li><a>nsubj</a>
-    <ul>
-      <li>VERB--NOUN (3989)</li>
-      <li>VERB--NOUN-ADP(以) (1)</li>
-      <li>VERB--NOUN-ADP(為) (1)</li>
-      <li>VERB--PRON (725)</li>
-    </ul>
-  </li>
+<li>This corpus uses 30 lemmas as auxiliaries (<a>aux</a>). Examples: 了、 着、 要、 会、 能、 想、 过、 可以、 没、 应该、 爱、 得、 敢、 需要、 可能、 没有、 不得、 似乎、 似的、 喜欢、 回、 好像、 宁愿、 就、 希望、 必须、 愿意、 懒得、 起来、 这.</li>
 </ul>
+
+  </td>
+  <td width="25%" valign="top">
+<ul>
+<li>This corpus uses 20 lemmas as auxiliaries (<a>aux</a>). Examples: _、 要、 能、 過、 了、 可以、 喜歡、 愛、 著、 不要、 想、 應該、 會、 不用、 別、 好、 有、 樂意、 沒有、 需要.</li>
+</ul>
+
+  </td>
+  <td width="25%" valign="top">
+<li><a>Person</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+  <ul>
+    <li>1
+      <ul>
+        <li>PRON: 我, 我們</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+  <ul>
+    <li>2
+      <ul>
+        <li>PRON: 你, 您, 你們</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+  <ul>
+    <li>3
+      <ul>
+        <li>PRON: 他, 她, 其, 他們, 它, 它們, 她們, 牠們</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+<li><a>Person</a>
 
   </td>
   <td width="25%" valign="top">
@@ -929,30 +1328,80 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="25%" valign="top">
-<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
-
-Here we consider only relations between verbs (parent) and nouns or pronouns (child).
-<ul>
-  <li><a>nsubj</a>
-    <ul>
-      <li>VERB--NOUN (822)</li>
-      <li>VERB--PRON (336)</li>
-    </ul>
-  </li>
-</ul>
+  <ul>
+  </ul>
+</li>
 
   </td>
 </tr>
 <tr>
   <td width="25%" valign="top">
-<ul>
-  <li><a>obj</a>
-    <ul>
-      <li>VERB--NOUN (5721)</li>
-      <li>VERB--PRON (120)</li>
-    </ul>
-  </li>
-</ul>
+  <ul>
+    <li>1
+      <ul>
+        <li>PRON: 我, 我們</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+  <ul>
+    <li>2
+      <ul>
+        <li>PRON: 你, 妳, 您</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+  <ul>
+    <li>3
+      <ul>
+        <li>PRON: 他, 其, 她, 它, 他們, 它們, 牠們, 她們, 牠, 祂</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="25%" valign="top">
@@ -979,27 +1428,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="25%" valign="top">
-<ul>
-  <li><a>obj</a>
-    <ul>
-      <li>VERB--NOUN (1126)</li>
-      <li>VERB--PRON (48)</li>
-    </ul>
-  </li>
-</ul>
 
   </td>
 </tr>
 <tr>
   <td width="25%" valign="top">
-<ul>
-  <li><a>iobj</a>
-    <ul>
-      <li>VERB--NOUN (44)</li>
-      <li>VERB--PRON (8)</li>
-    </ul>
-  </li>
-</ul>
 
   </td>
   <td width="25%" valign="top">
@@ -1025,67 +1458,93 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="25%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+<h3>Other Features</h3>
+
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+<li><a>Foreign</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>X: Anaya, Film, de, the, Amin, Antilles, Atkinson, Avery, Aviva, Bass</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+<h3>Other Features</h3>
+
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+<h2>Syntax</h2>
+
+<h3>Auxiliary Verbs and Copula</h3>
+
 <ul>
-  <li><a>iobj</a>
-    <ul>
-      <li>VERB--NOUN (9)</li>
-      <li>VERB--PRON (1)</li>
-    </ul>
-  </li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
 </ul>
 
   </td>
 </tr>
 <tr>
   <td width="25%" valign="top">
+<h2>Syntax</h2>
 
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-  <td width="25%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="25%" valign="top">
-<h3>Relations Overview</h3>
+<h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>case:aspect</a>, <a>case:dec</a>, <a>case:pref</a>, <a>case:suff</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>mark:advb</a>, <a>mark:comp</a>, <a>mark:relcl</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a></li>
-<li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
-<li>The following 7 relation types are not used in this corpus at all: <a>expl</a>, <a>fixed</a>, <a>compound</a>, <a>list</a>, <a>parataxis</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>This corpus uses 135 lemmas as copulas (<a>cop</a>). Examples: 是、 為、 也是、 就是、 不是、 即、 都是、 感到、 非、 則是、 變、 亦是、 亦為、 而是、 並非、 則為、 發展、 而非、 表現、 影響、 還是、 顯得、 做、 卻是、 夠、 如、 控制、 是否是、 為人、 爲、 獲利、 看似、 裝、 謂、 變得、 連任、 一爭、 上表、 不夠、 且是、 仍是、 仍算、 令、 以為、 以爲、 低、 來、 便宜、 便是、 保存.</li>
 </ul>
 
   </td>
@@ -1108,12 +1567,195 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="25%" valign="top">
+<ul>
+<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
+<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: _.</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+<ul>
+<li>This corpus uses 40 lemmas as auxiliaries (<a>aux</a>). Examples: 會、 可以、 可、 能、 要、 可能、 必須、 能夠、 不會、 不能、 想、 需要、 需、 應、 未能、 不可、 不得、 須、 不應、 不願、 應該、 欲、 願意、 不想、 必、 不需、 請、 不準、 不肯、 不要、 不該、 只能、 得、 愛、 應當、 敢、 沒能、 當、 肯、 能否.</li>
+<li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: 被、 為、 把.</li>
+</ul>
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+
+Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+<ul>
+  <li><a>nsubj</a>
+    <ul>
+      <li>VERB--NOUN (822)</li>
+      <li>VERB--PRON (336)</li>
+    </ul>
+  </li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+
+Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+<ul>
+  <li><a>nsubj</a>
+    <ul>
+      <li>VERB--NOUN (3989)</li>
+      <li>VERB--NOUN-ADP(以) (1)</li>
+      <li>VERB--NOUN-ADP(為) (1)</li>
+      <li>VERB--PRON (725)</li>
+    </ul>
+  </li>
+</ul>
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+<ul>
+  <li><a>obj</a>
+    <ul>
+      <li>VERB--NOUN (1126)</li>
+      <li>VERB--PRON (48)</li>
+    </ul>
+  </li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+<ul>
+  <li><a>obj</a>
+    <ul>
+      <li>VERB--NOUN (5721)</li>
+      <li>VERB--PRON (120)</li>
+    </ul>
+  </li>
+</ul>
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+<ul>
+  <li><a>iobj</a>
+    <ul>
+      <li>VERB--NOUN (9)</li>
+      <li>VERB--PRON (1)</li>
+    </ul>
+  </li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+<ul>
+  <li><a>iobj</a>
+    <ul>
+      <li>VERB--NOUN (44)</li>
+      <li>VERB--PRON (8)</li>
+    </ul>
+  </li>
+</ul>
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
 <h3>Relations Overview</h3>
 
 <ul>
 <li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>case:loc</a>, <a>discourse:sp</a>, <a>flat:name</a>, <a>mark:adv</a>, <a>mark:prt</a>, <a>mark:relcl</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>obl:patient</a>, <a>obl:tmod</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="25%" valign="top">
+<h3>Relations Overview</h3>
+
+<ul>
+<li>This corpus uses 14 relation subtypes: <a>acl:relcl</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>case:aspect</a>, <a>case:dec</a>, <a>case:pref</a>, <a>case:suff</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>mark:advb</a>, <a>mark:comp</a>, <a>mark:relcl</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a></li>
+<li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
+<li>The following 7 relation types are not used in this corpus at all: <a>expl</a>, <a>fixed</a>, <a>compound</a>, <a>list</a>, <a>parataxis</a>, <a>goeswith</a>, <a>reparandum</a></li>
+</ul>
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
+
+  </td>
+  <td width="25%" valign="top">
 
   </td>
 </tr>

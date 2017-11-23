@@ -23,33 +23,112 @@ udver: '2'
   <td width="33%" valign="top">
 <h2>Tokenization and Word Segmentation</h2>
 
-<ul>
-<li>This corpus contains 8232 sentences and 186071 tokens.</li>
-<li>This corpus contains 185519 tokens (100%) that are not followed by a space.</li>
-<li>This corpus does not contain words with spaces.</li>
-<li>This corpus contains 69 types of words that contain both letters and punctuation. Examples: 、と, 、という, SETI@home, ”と, が、, スター・ウォーズ, ルイ・ヴィトン, (株), )し, A.T, D.C.I, E.T, IT'SFRIDAY, L'Arc, L'OrateurduPeuple, L.E.D, PaulKantner'sWoodenship, PaulO'Malley, S&P, http://en.wikipedia.org/wiki/Acute_intermittent_porphyria, ”する, ”に, 、が, 、で, 、といった, 、など, 、の, 、を, 」し, あ、, アル・パチーノ, アンディ・ウォーホル, アンドレ・アガシ, イー・モバイル, ウォール・ストリート・ジャーナル, エル・ドラード, エール・フランス, オードリー・ヘップバーン, カール・ツァイス, クリーブランド・ブラウンズ, ゴールドマン・サックス, サム・シェパード, シラノ・ド・ベルジュラック, ジェームズ・ブキャナン, ジェームズ・ワトソン, ジャネット・ジャクソン, ジョン・レノン, ジョージ・ハリスン, セブン-イレブン, ソニー・コンピュータエンタテインメント</li>
-</ul>
 
   </td>
   <td width="33%" valign="top">
 <h2>Tokenization and Word Segmentation</h2>
 
+
+  </td>
+  <td width="33%" valign="top">
+<h2>Tokenization and Word Segmentation</h2>
+
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+<ul>
+<li>This corpus contains 8232 sentences and 186071 tokens.</li>
+</ul>
+
+  </td>
+  <td width="33%" valign="top">
 <ul>
 <li>This corpus contains 7158 sentences and 189943 tokens.</li>
+</ul>
+
+  </td>
+  <td width="33%" valign="top">
+<ul>
+<li>This corpus contains 1000 sentences and 26818 tokens.</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+<ul>
+<li>This corpus contains 185519 tokens (100%) that are not followed by a space.</li>
+</ul>
+
+  </td>
+  <td width="33%" valign="top">
+<ul>
 <li>All tokens in this corpus are followed by a space.</li>
+</ul>
+
+  </td>
+  <td width="33%" valign="top">
+<ul>
+<li>This corpus contains 25817 tokens (96%) that are not followed by a space.</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+  </td>
+  <td width="33%" valign="top">
+<ul>
+<li>This corpus does not contain words with spaces.</li>
+</ul>
+
+  </td>
+  <td width="33%" valign="top">
+<ul>
+<li>This corpus does not contain words with spaces.</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+<ul>
+<li>This corpus contains 69 types of words that contain both letters and punctuation. Examples: 、と, 、という, SETI@home, ”と, が、, スター・ウォーズ, ルイ・ヴィトン, (株), )し, A.T, D.C.I, E.T, IT'SFRIDAY, L'Arc, L'OrateurduPeuple, L.E.D, P​a​u​l​K​a​n​t​n​e​r​'​s​W​o​o​d​e​n​s​h​i​p, PaulO'Malley, S&P, h​t​t​p​:​/​/​e​n​.​w​i​k​i​p​e​d​i​a​.​o​r​g​/​w​i​k​i​/​A​c​u​t​e​_​i​n​t​e​r​m​i​t​t​e​n​t​_​p​o​r​p​h​y​r​i​a, ”する, ”に, 、が, 、で, 、といった, 、など, 、の, 、を, 」し, あ、, アル・パチーノ, アンディ・ウォーホル, アンドレ・アガシ, イー・モバイル, ウォール・ストリート・ジャーナル, エル・ドラード, エール・フランス, オードリー・ヘップバーン, カール・ツァイス, クリーブランド・ブラウンズ, ゴールドマン・サックス, サム・シェパード, シラノ・ド・ベルジュラック, ジェームズ・ブキャナン, ジェームズ・ワトソン, ジャネット・ジャクソン, ジョン・レノン, ジョージ・ハリスン, セブン-イレブン, ソニー・コンピュータエンタテインメント</li>
+</ul>
+
+  </td>
+  <td width="33%" valign="top">
+<ul>
 <li>This corpus does not contain words that contain both letters and punctuation.</li>
 </ul>
 
   </td>
   <td width="33%" valign="top">
-<h2>Tokenization and Word Segmentation</h2>
-
 <ul>
-<li>This corpus contains 1000 sentences and 26818 tokens.</li>
-<li>This corpus contains 25817 tokens (96%) that are not followed by a space.</li>
-<li>This corpus does not contain words with spaces.</li>
-<li>This corpus contains 38 types of words that contain both letters and punctuation. Examples: 、と, ドナルド・トランプ, B.C, 、という, 、を, G.D.P, HerFatherDidn'tLikeMeAnyway, Thought'YaKnew, Z.A, Zettel’sTraum, 、の, 」な, ウォルト・ディズニー, エル・グレコ, オート・ガロンヌ, オードリー・ヘプバーン, カサ・サンタ・マルタ, カステルフランコ・ヴェネト, サン・ゴーダン, シガー・ロス, シー・オブ・ジ・アンティレス, ジョン・ディ・ドメニコ, スティーラーズ・ホイール, ストレンジャー・シングズ, トーキング・デッド, ド・ゴール, ハーバード・ビジネス・スクール, バハ・カリフォルニヤ, ヒラリー・クリントン, フェデリコ・フェリーニ, フランツ・ヨーゼフ, プンタ・デル・エステ, プンタ・ラサ, マラー/サド, メラニア・トランプ, ラッセ・ハルストレム, ル・コント, ルーカス・クラナッハ</li>
+<li>This corpus contains 38 types of words that contain both letters and punctuation. Examples: 、と, ドナルド・トランプ, B.C, 、という, 、を, G.D.P, H​e​r​F​a​t​h​e​r​D​i​d​n​'​t​L​i​k​e​M​e​A​n​y​w​a​y, Thought'YaKnew, Z.A, Zettel’sTraum, 、の, 」な, ウォルト・ディズニー, エル・グレコ, オート・ガロンヌ, オードリー・ヘプバーン, カサ・サンタ・マルタ, カステルフランコ・ヴェネト, サン・ゴーダン, シガー・ロス, シー・オブ・ジ・アンティレス, ジョン・ディ・ドメニコ, スティーラーズ・ホイール, ストレンジャー・シングズ, トーキング・デッド, ド・ゴール, ハーバード・ビジネス・スクール, バハ・カリフォルニヤ, ヒラリー・クリントン, フェデリコ・フェリーニ, フランツ・ヨーゼフ, プンタ・デル・エステ, プンタ・ラサ, マラー/サド, メラニア・トランプ, ラッセ・ハルストレム, ル・コント, ルーカス・クラナッハ</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+<ul>
+</ul>
+
+  </td>
+  <td width="33%" valign="top">
+<ul>
+</ul>
+
+  </td>
+  <td width="33%" valign="top">
+<ul>
 </ul>
 
   </td>
@@ -63,7 +142,6 @@ udver: '2'
 <ul>
 <li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a></li>
 <li>This corpus does not use the following tags: INTJ, X</li>
-<li>This corpus contains 73 word types tagged as particles (PART): +, -, ~, 、の, およそ, か, かしらん, かどうか, か否か, さ, ぞ, ぞお, とともに, と共に, な, なぁ, なあ, なー, に, において, における, にとって, にまつわる, に於いて, に於ける, ね, ねえ, の, のよ, ほぼ, よ, よー, わ, をもとに, を元に, を基に, を基にして, ん, ナンバー, ベスト, マイナス, マッハ, 丸, 人口, 全長, 分の, 南緯, 同, 夜, 対, 平成, 年, 延べ, 昭和, 最低, 最多, 最大, 最高, 残り, 毎時, 直径, 第, 築, 紀元前, 約, 総計, 翌, 計, 金, 長さ, 高さ, 齢, ～</li>
 </ul>
 
   </td>
@@ -75,7 +153,6 @@ udver: '2'
 <ul>
 <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a></li>
 <li>This corpus does not use the following tags: CCONJ, X</li>
-<li>This corpus contains 1 word types tagged as particles (PART): _</li>
 </ul>
 
   </td>
@@ -87,6 +164,25 @@ udver: '2'
 <ul>
 <li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a></li>
 <li>This corpus does not use the following tags: INTJ, X</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+<ul>
+<li>This corpus contains 73 word types tagged as particles (PART): +, -, ~, 、の, およそ, か, かしらん, かどうか, か否か, さ, ぞ, ぞお, とともに, と共に, な, なぁ, なあ, なー, に, において, における, にとって, にまつわる, に於いて, に於ける, ね, ねえ, の, のよ, ほぼ, よ, よー, わ, をもとに, を元に, を基に, を基にして, ん, ナンバー, ベスト, マイナス, マッハ, 丸, 人口, 全長, 分の, 南緯, 同, 夜, 対, 平成, 年, 延べ, 昭和, 最低, 最多, 最大, 最高, 残り, 毎時, 直径, 第, 築, 紀元前, 約, 総計, 翌, 計, 金, 長さ, 高さ, 齢, ～</li>
+</ul>
+
+  </td>
+  <td width="33%" valign="top">
+<ul>
+<li>This corpus contains 1 word types tagged as particles (PART): _</li>
+</ul>
+
+  </td>
+  <td width="33%" valign="top">
+<ul>
 <li>This corpus contains 19 word types tagged as particles (PART): 、の, か, かい, かどうか, さ, とともに, と共に, に, において, における, にとって, の, ん, 最大, 最高, 第, 紀元前, 約, 翌</li>
 </ul>
 
@@ -205,7 +301,19 @@ udver: '2'
   </td>
   <td width="33%" valign="top">
 <ul>
-<li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
 <ul>
   <li>Fin
   <ul>
@@ -215,6 +323,19 @@ udver: '2'
     <li>VERB: ある, なる, いる, 思う, 言う, いう, 始まる, いえる, かかる, する</li>
   </ul>
   </li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+<ul>
   <li>Ger
   <ul>
     <li>ADJ: なく, なかっ, 上手く, 大きく, うまく, 余儀なく, 少なく, 広く, 著しく, 間違いなく</li>
@@ -225,8 +346,6 @@ udver: '2'
     <li>VERB: し, あり, なっ, 述べ, 言っ, 受け, あっ, 語っ, なり, 戻っ</li>
   </ul>
   </li>
-</ul>
-</li>
 </ul>
 
   </td>
@@ -245,6 +364,17 @@ udver: '2'
   <td width="33%" valign="top">
 <h3>Nominal Features</h3>
 
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
 
   </td>
 </tr>
@@ -268,6 +398,17 @@ udver: '2'
   </td>
   <td width="33%" valign="top">
 <li><a>Number</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
   <ul>
     <li>Plur
       <ul>
@@ -275,6 +416,19 @@ udver: '2'
         <li>PRON: 彼ら, これら, 私たち, それら, 私達, 我々, かれら, みなさん, 君たち, 皆</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
   </ul>
 </li>
 
@@ -289,12 +443,36 @@ udver: '2'
   </td>
   <td width="33%" valign="top">
 <li><a>Case</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
   <ul>
     <li>Acc
       <ul>
         <li>ADP: を</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
     <li>Advb
       <ul>
         <li>ADP: に, で, から, と, へ, について, により, に対する, より, によって</li>
@@ -303,6 +481,19 @@ udver: '2'
         <li>SCONJ: と</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
     <li>Comp
       <ul>
         <li>ADP: と, に, という</li>
@@ -310,6 +501,19 @@ udver: '2'
         <li>SCONJ: と</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
     <li>Gen
       <ul>
         <li>ADP: の</li>
@@ -317,11 +521,37 @@ udver: '2'
         <li>PART: の</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
     <li>Nom
       <ul>
         <li>ADP: が</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
   </ul>
 </li>
 
@@ -329,9 +559,13 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
+<h3>Degree and Polarity</h3>
+
 
   </td>
   <td width="33%" valign="top">
+<h3>Degree and Polarity</h3>
+
 
   </td>
   <td width="33%" valign="top">
@@ -351,13 +585,9 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
-<h3>Degree and Polarity</h3>
-
 
   </td>
   <td width="33%" valign="top">
-<h3>Degree and Polarity</h3>
-
 
   </td>
   <td width="33%" valign="top">
@@ -371,10 +601,36 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+<h3>Verbal Features</h3>
+
+
+  </td>
+  <td width="33%" valign="top">
+<h3>Verbal Features</h3>
+
 
   </td>
   <td width="33%" valign="top">
 <li><a>Polarity</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
   <ul>
     <li>Neg
       <ul>
@@ -385,6 +641,19 @@ udver: '2'
       </ul>
     </li>
   </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+  </ul>
 </li>
 
   </td>
@@ -402,13 +671,9 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
-<h3>Verbal Features</h3>
-
 
   </td>
   <td width="33%" valign="top">
-<h3>Verbal Features</h3>
-
 
   </td>
   <td width="33%" valign="top">
@@ -433,10 +698,36 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+<h3>Pronouns, Determiners, Quantifiers</h3>
+
+
+  </td>
+  <td width="33%" valign="top">
+<h3>Pronouns, Determiners, Quantifiers</h3>
+
 
   </td>
   <td width="33%" valign="top">
 <li><a>Tense</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
   <ul>
     <li>Past
       <ul>
@@ -445,7 +736,6 @@ udver: '2'
       </ul>
     </li>
   </ul>
-</li>
 
   </td>
 </tr>
@@ -457,7 +747,51 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+<li><a>NumType</a>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
 <li><a>Voice</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+  <ul>
+    <li>Card
+      <ul>
+        <li>NUM: 1, 2, 3, 4, 一, 5, 10, 6, 二, 7</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
   <ul>
     <li>Cau
       <ul>
@@ -466,6 +800,19 @@ udver: '2'
         <li>AUX-Ger: せ, させ, しめ</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
     <li>Pass
       <ul>
         <li>AUX: れ, れる, られ, られる, れれ</li>
@@ -474,47 +821,12 @@ udver: '2'
       </ul>
     </li>
   </ul>
-</li>
 
   </td>
 </tr>
 <tr>
   <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-<h3>Pronouns, Determiners, Quantifiers</h3>
-
-
-  </td>
-  <td width="33%" valign="top">
-<h3>Pronouns, Determiners, Quantifiers</h3>
-
-
-  </td>
-  <td width="33%" valign="top">
-<h3>Pronouns, Determiners, Quantifiers</h3>
-
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-<li><a>NumType</a>
   <ul>
-    <li>Card
-      <ul>
-        <li>NUM: 1, 2, 3, 4, 一, 5, 10, 6, 二, 7</li>
-      </ul>
-    </li>
   </ul>
 </li>
 
@@ -523,6 +835,33 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+<h3>Pronouns, Determiners, Quantifiers</h3>
+
 
   </td>
 </tr>
@@ -553,10 +892,54 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+<h3>Other Features</h3>
+
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+<h3>Other Features</h3>
+
+
+  </td>
+  <td width="33%" valign="top">
+<h2>Syntax</h2>
+
+<h3>Auxiliary Verbs and Copula</h3>
+
+<ul>
+<li>This corpus uses 10 lemmas as copulas (<a>cop</a>). Examples: だ, _, 無い, です, とく, たり-断定, なり-断定, らしい, 成る, 有る.</li>
+</ul>
 
   </td>
   <td width="33%" valign="top">
 <li><a>Person</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
   <ul>
     <li>1
       <ul>
@@ -564,11 +947,37 @@ udver: '2'
         <li>PRON: 私, 私たち, 我々, 私達</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
     <li>2
       <ul>
         <li>PRON: あなた, 君たち</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
     <li>3
       <ul>
         <li>NOUN: 自身, 自分, 自ら, やつ, 本人</li>
@@ -576,89 +985,6 @@ udver: '2'
       </ul>
     </li>
   </ul>
-</li>
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-<h3>Other Features</h3>
-
-
-  </td>
-  <td width="33%" valign="top">
-<h3>Other Features</h3>
-
-
-  </td>
-  <td width="33%" valign="top">
-<h3>Other Features</h3>
-
-<li><a>Form</a>
-  <ul>
-    <li>Adn
-      <ul>
-        <li>ADJ: 新しい, 高い, ない, 素晴らしい, 厳しい, 古い, 若い, 深い, いい, 低い</li>
-        <li>AUX: な, た, する, いる, である, ない, れる, せる, だ, できる</li>
-        <li>VERB: ある, なる, する, 使う, 含む, 得る, 持つ, 続く, 見る, いう</li>
-      </ul>
-    </li>
-    <li>Irr
-      <ul>
-        <li>AUX: さ, い, だろ, し, ませ, であろ, でき, られ, おら, れ</li>
-        <li>VERB: 知ら, 考え, 行わ, 信じ, 思わ, 使わ, し, でき, 呼ば, い</li>
-      </ul>
-    </li>
-    <li>Real
-      <ul>
-        <li>ADJ: なけれ</li>
-        <li>AUX: いれ, たら, であれ, なら, れれ</li>
-        <li>VERB: なれ, やめれ, 見れ</li>
-      </ul>
-    </li>
-    <li>Spcf
-      <ul>
-        <li>ADJ: 堅苦し</li>
-        <li>AUX: べき</li>
-        <li>NOUN: 高さ, 美しさ, 長さ</li>
-        <li>VERB: 明るみ</li>
-      </ul>
-    </li>
-  </ul>
-</li>
 
   </td>
 </tr>
@@ -670,30 +996,48 @@ udver: '2'
 
 <ul>
 <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: だ, ですね.</li>
-<li>This corpus uses 100 lemmas as auxiliaries (<a>aux</a>). Examples: た, する, いる, だ, れる, ます, ない, こと, ようだ, られる, なる, おる, *可能*, う, せる, 来る, できる, たい, しまう, くれる, いく, そうだ, さ, たら, もらう, みる, べし, なら, やすい, くださる, いただく, 続ける, らしい, でした, 始める, 行く, かもしれる, みたいだ, 出す, 出来る, 合う, すぎる, 込む, 頂く, ある, ちゃう, おく, なければ, させる, もらえる.</li>
 </ul>
 
   </td>
   <td width="33%" valign="top">
-<h2>Syntax</h2>
-
-<h3>Auxiliary Verbs and Copula</h3>
-
 <ul>
-<li>This corpus uses 10 lemmas as copulas (<a>cop</a>). Examples: だ, _, 無い, です, とく, たり-断定, なり-断定, らしい, 成る, 有る.</li>
 <li>This corpus uses 68 lemmas as auxiliaries (<a>aux</a>). Examples: _, 為る, 居る, だ, 有る, 来る, 様, うう, うー, べし, 出来る, た, 成る, せる, 行く, ず, 欲しい, そう-様態, ます, 仕舞う, 貰う, 良い, れる, 始める, られる, 続ける, 置く, 見る, 過ぎる, 呉れる, 切る, 兼ねる, たい, ウ, です, 出す, させる, 合う, 得る, 下さる, 直す, 遣る, とく, 頂く, てる, なり-断定, 去る, そう-伝聞, む, り.</li>
 </ul>
 
   </td>
   <td width="33%" valign="top">
-<h2>Syntax</h2>
+  <ul>
+  </ul>
+</li>
 
-<h3>Auxiliary Verbs and Copula</h3>
-
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
 <ul>
-<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: だ.</li>
-<li>This corpus uses 47 lemmas as auxiliaries (<a>aux</a>). Examples: た, する, だ, いる, れる, こと, ない, ます, ようだ, う, られる, せる, なる, おる, 来る, できる, たい, べし, 始める, かもしれる, さ, *可能*, しまう, なければ, 続ける, すぎる, たら, 化, いく, かける, くれる, させる, そうだ, でした, 出す, *使役*, うる, しめる, たろ, なさる, なら, やすい, ゆく, らしい, 終える, 良い, 行く.</li>
+<li>This corpus uses 100 lemmas as auxiliaries (<a>aux</a>). Examples: た, する, いる, だ, れる, ます, ない, こと, ようだ, られる, なる, おる, *可能*, う, せる, 来る, できる, たい, しまう, くれる, いく, そうだ, さ, たら, もらう, みる, べし, なら, やすい, くださる, いただく, 続ける, らしい, でした, 始める, 行く, かもしれる, みたいだ, 出す, 出来る, 合う, すぎる, 込む, 頂く, ある, ちゃう, おく, なければ, させる, もらえる.</li>
 </ul>
+
+  </td>
+  <td width="33%" valign="top">
+<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+
+Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+<ul>
+  <li><a>nsubj</a>
+    <ul>
+      <li>VERB--NOUN (17)</li>
+      <li>VERB--NOUN-ADP(_) (5078)</li>
+      <li>VERB--NOUN-ADP(_)-ADP(_) (64)</li>
+      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_) (3)</li>
+      <li>VERB--PRON-ADP(_) (99)</li>
+      <li>VERB--PRON-ADP(_)-ADP(_) (10)</li>
+    </ul>
+  </li>
+</ul>
+
+  </td>
+  <td width="33%" valign="top">
 
   </td>
 </tr>
@@ -750,20 +1094,196 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="33%" valign="top">
-<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
-
-Here we consider only relations between verbs (parent) and nouns or pronouns (child).
 <ul>
-  <li><a>nsubj</a>
+  <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (17)</li>
-      <li>VERB--NOUN-ADP(_) (5078)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_) (64)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_) (3)</li>
-      <li>VERB--PRON-ADP(_) (99)</li>
-      <li>VERB--PRON-ADP(_)-ADP(_) (10)</li>
     </ul>
   </li>
+</ul>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+<ul>
+  <li><a>obj</a>
+    <ul>
+      <li>VERB--NOUN-ADP(だけ)-ADP(を) (2)</li>
+      <li>VERB--NOUN-ADP(と)-ADP(を) (3)</li>
+      <li>VERB--NOUN-ADP(という)-ADP(を) (2)</li>
+      <li>VERB--NOUN-ADP(といった)-ADP(を) (1)</li>
+      <li>VERB--NOUN-ADP(とか)-ADP(を) (1)</li>
+      <li>VERB--NOUN-ADP(など)-ADP(を) (54)</li>
+      <li>VERB--NOUN-ADP(に当たる)-ADP(を) (1)</li>
+      <li>VERB--NOUN-ADP(の)-ADP(を) (6)</li>
+      <li>VERB--NOUN-ADP(のみ)-ADP(を) (5)</li>
+      <li>VERB--NOUN-ADP(ほど)-ADP(を) (1)</li>
+      <li>VERB--NOUN-ADP(まで)-ADP(の)-ADP(を) (1)</li>
+      <li>VERB--NOUN-ADP(まで)-ADP(を) (1)</li>
+      <li>VERB--NOUN-ADP(を) (4407)</li>
+      <li>VERB--NOUN-ADP(を)-ADP(と)-ADP(も) (2)</li>
+      <li>VERB--NOUN-ADP(を)-ADP(はじめ) (4)</li>
+      <li>VERB--NOUN-ADP(を)-ADP(も) (2)</li>
+      <li>VERB--PRON-ADP(まで)-ADP(を) (1)</li>
+      <li>VERB--PRON-ADP(を) (84)</li>
+    </ul>
+  </li>
+</ul>
+
+  </td>
+  <td width="33%" valign="top">
+<ul>
+  <li><a>iobj</a>
+    <ul>
+      <li>VERB--NOUN (85)</li>
+      <li>VERB--NOUN-ADP(_) (3384)</li>
+      <li>VERB--NOUN-ADP(_)-ADP(_) (408)</li>
+      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_) (5)</li>
+      <li>VERB--PRON-ADP(_) (59)</li>
+      <li>VERB--PRON-ADP(_)-ADP(_) (8)</li>
+    </ul>
+  </li>
+</ul>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+<ul>
+  <li><a>iobj</a>
+    <ul>
+      <li>VERB--NOUN-ADP(くらい)-ADP(に) (3)</li>
+      <li>VERB--NOUN-ADP(だけ)-ADP(に) (1)</li>
+      <li>VERB--NOUN-ADP(と)-ADP(に) (1)</li>
+      <li>VERB--NOUN-ADP(など)-ADP(に) (21)</li>
+      <li>VERB--NOUN-ADP(など)-ADP(に)-ADP(は) (2)</li>
+      <li>VERB--NOUN-ADP(など)-ADP(に)-ADP(も) (3)</li>
+      <li>VERB--NOUN-ADP(なり)-ADP(に) (1)</li>
+      <li>VERB--NOUN-ADP(に) (3163)</li>
+      <li>VERB--NOUN-ADP(に)-ADP(しか) (1)</li>
+      <li>VERB--NOUN-ADP(に)-ADP(だけ)-ADP(で)-ADP(も) (1)</li>
+      <li>VERB--NOUN-ADP(に)-ADP(だけ)-ADP(は) (2)</li>
+      <li>VERB--NOUN-ADP(に)-ADP(と) (1)</li>
+      <li>VERB--NOUN-ADP(に)-ADP(は) (310)</li>
+      <li>VERB--NOUN-ADP(に)-ADP(は)-ADP(と) (1)</li>
+      <li>VERB--NOUN-ADP(に)-ADP(まで) (10)</li>
+      <li>VERB--NOUN-ADP(に)-ADP(も) (101)</li>
+      <li>VERB--NOUN-ADP(の)-ADP(に) (2)</li>
+      <li>VERB--NOUN-ADP(のみ)-ADP(に) (1)</li>
+      <li>VERB--NOUN-ADP(は)-ADP(に) (2)</li>
+      <li>VERB--NOUN-ADP(まで)-ADP(に) (12)</li>
+      <li>VERB--NOUN-ADP(まで)-ADP(に)-ADP(は) (1)</li>
+      <li>VERB--PRON-ADP(に) (79)</li>
+      <li>VERB--PRON-ADP(に)-ADP(しか) (1)</li>
+      <li>VERB--PRON-ADP(に)-ADP(は) (10)</li>
+      <li>VERB--PRON-ADP(に)-ADP(も) (7)</li>
+      <li>VERB--PRON-ADP(まで)-ADP(に) (3)</li>
+      <li>VERB--PRON-ADP(まで)-ADP(に)-ADP(も) (1)</li>
+    </ul>
+  </li>
+</ul>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+<h3>Other Features</h3>
+
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+<li><a>Form</a>
+  <ul>
+    <li>Adn
+      <ul>
+        <li>ADJ: 新しい, 高い, ない, 素晴らしい, 厳しい, 古い, 若い, 深い, いい, 低い</li>
+        <li>AUX: な, た, する, いる, である, ない, れる, せる, だ, できる</li>
+        <li>VERB: ある, なる, する, 使う, 含む, 得る, 持つ, 続く, 見る, いう</li>
+      </ul>
+    </li>
+    <li>Irr
+      <ul>
+        <li>AUX: さ, い, だろ, し, ませ, であろ, でき, られ, おら, れ</li>
+        <li>VERB: 知ら, 考え, 行わ, 信じ, 思わ, 使わ, し, でき, 呼ば, い</li>
+      </ul>
+    </li>
+    <li>Real
+      <ul>
+        <li>ADJ: なけれ</li>
+        <li>AUX: いれ, たら, であれ, なら, れれ</li>
+        <li>VERB: なれ, やめれ, 見れ</li>
+      </ul>
+    </li>
+    <li>Spcf
+      <ul>
+        <li>ADJ: 堅苦し</li>
+        <li>AUX: べき</li>
+        <li>NOUN: 高さ, 美しさ, 長さ</li>
+        <li>VERB: 明るみ</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+<h2>Syntax</h2>
+
+<h3>Auxiliary Verbs and Copula</h3>
+
+<ul>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: だ.</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+<ul>
+<li>This corpus uses 47 lemmas as auxiliaries (<a>aux</a>). Examples: た, する, だ, いる, れる, こと, ない, ます, ようだ, う, られる, せる, なる, おる, 来る, できる, たい, べし, 始める, かもしれる, さ, *可能*, しまう, なければ, 続ける, すぎる, たら, 化, いく, かける, くれる, させる, そうだ, でした, 出す, *使役*, うる, しめる, たろ, なさる, なら, やすい, ゆく, らしい, 終える, 良い, 行く.</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+<h3>Relations Overview</h3>
+
+<ul>
+<li>This corpus does not use relation subtypes.</li>
+<li>The following 14 relation types are not used in this corpus at all: <a>obj</a>, <a>xcomp</a>, <a>obl</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>
 
   </td>
@@ -808,39 +1328,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="33%" valign="top">
+<h3>Relations Overview</h3>
+
 <ul>
-  <li><a>obj</a>
-    <ul>
-      <li>VERB--NOUN-ADP(だけ)-ADP(を) (2)</li>
-      <li>VERB--NOUN-ADP(と)-ADP(を) (3)</li>
-      <li>VERB--NOUN-ADP(という)-ADP(を) (2)</li>
-      <li>VERB--NOUN-ADP(といった)-ADP(を) (1)</li>
-      <li>VERB--NOUN-ADP(とか)-ADP(を) (1)</li>
-      <li>VERB--NOUN-ADP(など)-ADP(を) (54)</li>
-      <li>VERB--NOUN-ADP(に当たる)-ADP(を) (1)</li>
-      <li>VERB--NOUN-ADP(の)-ADP(を) (6)</li>
-      <li>VERB--NOUN-ADP(のみ)-ADP(を) (5)</li>
-      <li>VERB--NOUN-ADP(ほど)-ADP(を) (1)</li>
-      <li>VERB--NOUN-ADP(まで)-ADP(の)-ADP(を) (1)</li>
-      <li>VERB--NOUN-ADP(まで)-ADP(を) (1)</li>
-      <li>VERB--NOUN-ADP(を) (4407)</li>
-      <li>VERB--NOUN-ADP(を)-ADP(と)-ADP(も) (2)</li>
-      <li>VERB--NOUN-ADP(を)-ADP(はじめ) (4)</li>
-      <li>VERB--NOUN-ADP(を)-ADP(も) (2)</li>
-      <li>VERB--PRON-ADP(まで)-ADP(を) (1)</li>
-      <li>VERB--PRON-ADP(を) (84)</li>
-    </ul>
-  </li>
+<li>This corpus does not use relation subtypes.</li>
+<li>The following 14 relation types are not used in this corpus at all: <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>appos</a>, <a>clf</a>, <a>conj</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>
 
   </td>
   <td width="33%" valign="top">
-<ul>
-  <li><a>obj</a>
-    <ul>
-    </ul>
-  </li>
-</ul>
 
   </td>
   <td width="33%" valign="top">
@@ -868,54 +1364,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="33%" valign="top">
-<ul>
-  <li><a>iobj</a>
-    <ul>
-      <li>VERB--NOUN-ADP(くらい)-ADP(に) (3)</li>
-      <li>VERB--NOUN-ADP(だけ)-ADP(に) (1)</li>
-      <li>VERB--NOUN-ADP(と)-ADP(に) (1)</li>
-      <li>VERB--NOUN-ADP(など)-ADP(に) (21)</li>
-      <li>VERB--NOUN-ADP(など)-ADP(に)-ADP(は) (2)</li>
-      <li>VERB--NOUN-ADP(など)-ADP(に)-ADP(も) (3)</li>
-      <li>VERB--NOUN-ADP(なり)-ADP(に) (1)</li>
-      <li>VERB--NOUN-ADP(に) (3163)</li>
-      <li>VERB--NOUN-ADP(に)-ADP(しか) (1)</li>
-      <li>VERB--NOUN-ADP(に)-ADP(だけ)-ADP(で)-ADP(も) (1)</li>
-      <li>VERB--NOUN-ADP(に)-ADP(だけ)-ADP(は) (2)</li>
-      <li>VERB--NOUN-ADP(に)-ADP(と) (1)</li>
-      <li>VERB--NOUN-ADP(に)-ADP(は) (310)</li>
-      <li>VERB--NOUN-ADP(に)-ADP(は)-ADP(と) (1)</li>
-      <li>VERB--NOUN-ADP(に)-ADP(まで) (10)</li>
-      <li>VERB--NOUN-ADP(に)-ADP(も) (101)</li>
-      <li>VERB--NOUN-ADP(の)-ADP(に) (2)</li>
-      <li>VERB--NOUN-ADP(のみ)-ADP(に) (1)</li>
-      <li>VERB--NOUN-ADP(は)-ADP(に) (2)</li>
-      <li>VERB--NOUN-ADP(まで)-ADP(に) (12)</li>
-      <li>VERB--NOUN-ADP(まで)-ADP(に)-ADP(は) (1)</li>
-      <li>VERB--PRON-ADP(に) (79)</li>
-      <li>VERB--PRON-ADP(に)-ADP(しか) (1)</li>
-      <li>VERB--PRON-ADP(に)-ADP(は) (10)</li>
-      <li>VERB--PRON-ADP(に)-ADP(も) (7)</li>
-      <li>VERB--PRON-ADP(まで)-ADP(に) (3)</li>
-      <li>VERB--PRON-ADP(まで)-ADP(に)-ADP(も) (1)</li>
-    </ul>
-  </li>
-</ul>
 
   </td>
   <td width="33%" valign="top">
-<ul>
-  <li><a>iobj</a>
-    <ul>
-      <li>VERB--NOUN (85)</li>
-      <li>VERB--NOUN-ADP(_) (3384)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_) (408)</li>
-      <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_) (5)</li>
-      <li>VERB--PRON-ADP(_) (59)</li>
-      <li>VERB--PRON-ADP(_)-ADP(_) (8)</li>
-    </ul>
-  </li>
-</ul>
 
   </td>
   <td width="33%" valign="top">
@@ -983,21 +1434,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="33%" valign="top">
-<h3>Relations Overview</h3>
-
-<ul>
-<li>This corpus does not use relation subtypes.</li>
-<li>The following 14 relation types are not used in this corpus at all: <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>appos</a>, <a>clf</a>, <a>conj</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
-</ul>
 
   </td>
   <td width="33%" valign="top">
-<h3>Relations Overview</h3>
-
-<ul>
-<li>This corpus does not use relation subtypes.</li>
-<li>The following 14 relation types are not used in this corpus at all: <a>obj</a>, <a>xcomp</a>, <a>obl</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
-</ul>
 
   </td>
   <td width="33%" valign="top">

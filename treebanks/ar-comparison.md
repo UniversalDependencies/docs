@@ -23,37 +23,116 @@ udver: '2'
   <td width="33%" valign="top">
 <h2>Tokenization and Word Segmentation</h2>
 
+
+  </td>
+  <td width="33%" valign="top">
+<h2>Tokenization and Word Segmentation</h2>
+
+
+  </td>
+  <td width="33%" valign="top">
+<h2>Tokenization and Word Segmentation</h2>
+
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
 <ul>
 <li>This corpus contains 7664 sentences, 242056 tokens and 282384 syntactic words.</li>
+</ul>
+
+  </td>
+  <td width="33%" valign="top">
+<ul>
+<li>This corpus contains 19738 sentences, 629295 tokens and 738889 syntactic words.</li>
+</ul>
+
+  </td>
+  <td width="33%" valign="top">
+<ul>
+<li>This corpus contains 1000 sentences and 20751 tokens.</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+<ul>
 <li>This corpus contains 22277 tokens (9%) that are not followed by a space.</li>
+</ul>
+
+  </td>
+  <td width="33%" valign="top">
+<ul>
+<li>All tokens in this corpus are followed by a space.</li>
+</ul>
+
+  </td>
+  <td width="33%" valign="top">
+<ul>
+<li>This corpus contains 4837 tokens (23%) that are not followed by a space.</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+  </td>
+  <td width="33%" valign="top">
+<ul>
+<li>This corpus does not contain words with spaces.</li>
+</ul>
+
+  </td>
+  <td width="33%" valign="top">
+<ul>
+<li>This corpus does not contain words with spaces.</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+<ul>
 <li>This corpus does not contain words that contain both letters and punctuation.</li>
+</ul>
+
+  </td>
+  <td width="33%" valign="top">
+<ul>
+<li>This corpus does not contain words that contain both letters and punctuation.</li>
+</ul>
+
+  </td>
+  <td width="33%" valign="top">
+<ul>
+<li>This corpus contains 3 types of words that contain both letters and punctuation. Examples: "ريديت, الامتياز", باس-</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+<ul>
 <li>This corpus contains 38333 multi-word tokens. On average, one multi-word token consists of 2.05 syntactic words.</li>
 <li>There are 13846 types of multi-word tokens. Examples: وقال، انه، أنه، ومن، فيها، وقد، وفي، وكان، وهو، بها، فيه، واضاف، لها، ولا، بما، له، منها، بسبب، وأضاف، عليها، وهي، عليه، وأشار، وكانت، وأن، به، وذلك، بأن، والتي، وعلى، ولم، نفسه، وأكد، وكذلك، انها، بنسبة، وان، وقالت، إنه، فإن، باسم، سيتم، وأوضح، بشكل، ولكن، بلاده، واوضح، بشأن، فقد، بالنسبة.</li>
 </ul>
 
   </td>
   <td width="33%" valign="top">
-<h2>Tokenization and Word Segmentation</h2>
-
 <ul>
-<li>This corpus contains 19738 sentences, 629295 tokens and 738889 syntactic words.</li>
-<li>All tokens in this corpus are followed by a space.</li>
-<li>This corpus does not contain words with spaces.</li>
-<li>This corpus does not contain words that contain both letters and punctuation.</li>
 <li>This corpus contains 102571 multi-word tokens. On average, one multi-word token consists of 2.07 syntactic words.</li>
 <li>There are 0 types of multi-word tokens. Examples: .</li>
 </ul>
 
   </td>
   <td width="33%" valign="top">
-<h2>Tokenization and Word Segmentation</h2>
-
 <ul>
-<li>This corpus contains 1000 sentences and 20751 tokens.</li>
-<li>This corpus contains 4837 tokens (23%) that are not followed by a space.</li>
-<li>This corpus does not contain words with spaces.</li>
-<li>This corpus contains 3 types of words that contain both letters and punctuation. Examples: "ريديت, الامتياز", باس-</li>
 </ul>
 
   </td>
@@ -67,7 +146,6 @@ udver: '2'
 <ul>
 <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: SCONJ</li>
-<li>This corpus contains 29 word types tagged as particles (PART): أ, أما, إلا, إن, إيا, ال, الا, الـ, الـــ, اما, ان, ربما, ربمــا, س, سوف, عل, علّ, قد, كلا, ل, لا, لم, لن, ما, ناهيك, نعم, ها, هل, يا</li>
 </ul>
 
   </td>
@@ -79,7 +157,6 @@ udver: '2'
 <ul>
 <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: SYM</li>
-<li>This corpus contains 1 word types tagged as particles (PART): _</li>
 </ul>
 
   </td>
@@ -91,6 +168,25 @@ udver: '2'
 <ul>
 <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: INTJ</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+<ul>
+<li>This corpus contains 29 word types tagged as particles (PART): أ, أما, إلا, إن, إيا, ال, الا, الـ, الـــ, اما, ان, ربما, ربمــا, س, سوف, عل, علّ, قد, كلا, ل, لا, لم, لن, ما, ناهيك, نعم, ها, هل, يا</li>
+</ul>
+
+  </td>
+  <td width="33%" valign="top">
+<ul>
+<li>This corpus contains 1 word types tagged as particles (PART): _</li>
+</ul>
+
+  </td>
+  <td width="33%" valign="top">
+<ul>
 <li>This corpus contains 32 word types tagged as particles (PART): أم, أما, أن, أي, إلا, إما, إن, الفوق, بما, بيد, ثم, حتى, س, سواء, سوف, سوى, عندما, غير, ف, قد, كما, ل, لا, لقد, لكن, لم, لن, ليس, ما, هل, و, يا</li>
 </ul>
 
@@ -199,16 +295,7 @@ udver: '2'
 <tr>
   <td width="33%" valign="top">
 <ul>
-<li>There are 1 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
-<ul>
-  <li>Fin
-  <ul>
-    <li>AUX: يكون, تكون, تعد, يكن, يعتبر, يعد, تعتبر, تكن, تزال, تظل</li>
-    <li>VERB: يتم, يمكن, يكون, تصل, تكون, يجب, يصل, يذكر, يقول, تقوم</li>
-  </ul>
-  </li>
-</ul>
-</li>
+<li>There are 1 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
 </ul>
 
   </td>
@@ -220,7 +307,38 @@ udver: '2'
   </td>
   <td width="33%" valign="top">
 <ul>
-<li>There are 1 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 1 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+<ul>
+  <li>Fin
+  <ul>
+    <li>AUX: يكون, تكون, تعد, يكن, يعتبر, يعد, تعتبر, تكن, تزال, تظل</li>
+    <li>VERB: يتم, يمكن, يكون, تصل, تكون, يجب, يصل, يذكر, يقول, تقوم</li>
+  </ul>
+  </li>
+</ul>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
 <ul>
   <li>Part
   <ul>
@@ -229,8 +347,6 @@ udver: '2'
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
   </td>
 </tr>
@@ -238,7 +354,35 @@ udver: '2'
   <td width="33%" valign="top">
 <h3>Nominal Features</h3>
 
+
+  </td>
+  <td width="33%" valign="top">
+<h3>Nominal Features</h3>
+
+
+  </td>
+  <td width="33%" valign="top">
+<h3>Nominal Features</h3>
+
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
 <li><a>Gender</a>
+
+  </td>
+  <td width="33%" valign="top">
+<li><a>Gender</a>
+
+  </td>
+  <td width="33%" valign="top">
+<li><a>Gender</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
   <ul>
     <li>Fem
       <ul>
@@ -252,26 +396,10 @@ udver: '2'
         <li>VERB-Fin: تصل, تكون, تقوم, تبلغ, تشهد, تضم, تعمل, تتم, تقدم, تمثل</li>
       </ul>
     </li>
-    <li>Masc
-      <ul>
-        <li>ADJ: المصري, الماضي, أي, الحالي, العام, المقبل, المركزي, أكثر, الدولي, الاول</li>
-        <li>AUX: كان, يكون, ليس, قال, يكن, يعتبر, يعد, كانوا, زال, اصبح</li>
-        <li>AUX-Fin: يكون, يكن, يعتبر, يعد, يزال, تكونون, كن, يرى, يصبح, يعرف</li>
-        <li>DET: الذي, هذا, ذلك, الذين, ذٰلك, هٰذا, الذى, هؤلاء, اللذين, ذي</li>
-        <li>NUM: ثلاثة, خمسة, ستة, عشرة, الثلاثة, اربعة, اثنين, سبعة, أربعة, واحد</li>
-        <li>PRON: ه, هم, هو, الذي, هذا, ذلك, ك, الذين, نا, هما</li>
-        <li>VERB: قال, كان, أضاف, تم, أكد, يتم, يمكن, أشار, أوضح, أعلن</li>
-        <li>VERB-Fin: يتم, يمكن, يكون, يجب, يصل, يذكر, يقول, يعني, يقوم, يأتي</li>
-      </ul>
-    </li>
   </ul>
-</li>
 
   </td>
   <td width="33%" valign="top">
-<h3>Nominal Features</h3>
-
-<li><a>Gender</a>
   <ul>
     <li>Fem
       <ul>
@@ -292,34 +420,10 @@ udver: '2'
         <li>X: _</li>
       </ul>
     </li>
-    <li>Masc
-      <ul>
-        <li>ADJ: _</li>
-        <li>ADP: _</li>
-        <li>ADV: _</li>
-        <li>AUX: _</li>
-        <li>CCONJ: _</li>
-        <li>DET: _</li>
-        <li>INTJ: _</li>
-        <li>NOUN: _</li>
-        <li>NUM: _</li>
-        <li>PART: _</li>
-        <li>PRON: _</li>
-        <li>PROPN: _</li>
-        <li>PUNCT: _</li>
-        <li>SCONJ: _</li>
-        <li>VERB: _</li>
-        <li>X: _</li>
-      </ul>
-    </li>
   </ul>
-</li>
 
   </td>
   <td width="33%" valign="top">
-<h3>Nominal Features</h3>
-
-<li><a>Gender</a>
   <ul>
     <li>Fem
       <ul>
@@ -334,6 +438,55 @@ udver: '2'
         <li>VERB: كانت, بدأت, تكون, قالت, تظهر, تضم, تقول, ظهرت, تبدأ, أعلنت</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+  <ul>
+    <li>Masc
+      <ul>
+        <li>ADJ: المصري, الماضي, أي, الحالي, العام, المقبل, المركزي, أكثر, الدولي, الاول</li>
+        <li>AUX: كان, يكون, ليس, قال, يكن, يعتبر, يعد, كانوا, زال, اصبح</li>
+        <li>AUX-Fin: يكون, يكن, يعتبر, يعد, يزال, تكونون, كن, يرى, يصبح, يعرف</li>
+        <li>DET: الذي, هذا, ذلك, الذين, ذٰلك, هٰذا, الذى, هؤلاء, اللذين, ذي</li>
+        <li>NUM: ثلاثة, خمسة, ستة, عشرة, الثلاثة, اربعة, اثنين, سبعة, أربعة, واحد</li>
+        <li>PRON: ه, هم, هو, الذي, هذا, ذلك, ك, الذين, نا, هما</li>
+        <li>VERB: قال, كان, أضاف, تم, أكد, يتم, يمكن, أشار, أوضح, أعلن</li>
+        <li>VERB-Fin: يتم, يمكن, يكون, يجب, يصل, يذكر, يقول, يعني, يقوم, يأتي</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+    <li>Masc
+      <ul>
+        <li>ADJ: _</li>
+        <li>ADP: _</li>
+        <li>ADV: _</li>
+        <li>AUX: _</li>
+        <li>CCONJ: _</li>
+        <li>DET: _</li>
+        <li>INTJ: _</li>
+        <li>NOUN: _</li>
+        <li>NUM: _</li>
+        <li>PART: _</li>
+        <li>PRON: _</li>
+        <li>PROPN: _</li>
+        <li>PUNCT: _</li>
+        <li>SCONJ: _</li>
+        <li>VERB: _</li>
+        <li>X: _</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
     <li>Masc
       <ul>
         <li>ADJ: الأول, الثاني, أكثر, إسترليني, كبير, الثالث, كبيراً, آخر, أكبر, المتوسط</li>
@@ -348,6 +501,25 @@ udver: '2'
       </ul>
     </li>
   </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+  </ul>
 </li>
 
   </td>
@@ -361,6 +533,17 @@ udver: '2'
   </td>
   <td width="33%" valign="top">
 <li><a>Animacy</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
   <ul>
     <li>Hum
       <ul>
@@ -368,6 +551,19 @@ udver: '2'
         <li>PROPN: ترامب, جوزيف, دي, كلينتون, تشينغ, دونالد, رافيرتي, رونا, ريتشارد, كوري</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
     <li>Nhum
       <ul>
         <li>AUX: الغاية, انتقادات, ذكرا</li>
@@ -376,13 +572,27 @@ udver: '2'
       </ul>
     </li>
   </ul>
-</li>
 
   </td>
 </tr>
 <tr>
   <td width="33%" valign="top">
 <li><a>Number</a>
+
+  </td>
+  <td width="33%" valign="top">
+<li><a>Number</a>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
   <ul>
     <li>Dual
       <ul>
@@ -397,6 +607,40 @@ udver: '2'
         <li>VERB-Fin: يشيران, يلتقيان, تستعدان, يبحثان, يتجهان, يتوقفان, يدعوان, يعتبران, يعرفان, يغادران</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+    <li>Dual
+      <ul>
+        <li>ADJ: _</li>
+        <li>ADP: _</li>
+        <li>ADV: _</li>
+        <li>AUX: _</li>
+        <li>CCONJ: _</li>
+        <li>DET: _</li>
+        <li>NOUN: _</li>
+        <li>NUM: _</li>
+        <li>PART: _</li>
+        <li>PRON: _</li>
+        <li>PROPN: _</li>
+        <li>PUNCT: _</li>
+        <li>SCONJ: _</li>
+        <li>VERB: _</li>
+        <li>X: _</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+  <ul>
     <li>Plur
       <ul>
         <li>ADJ: المصريين, اليهود, العرب, كبار, الفلسطينيين, المسلمين, العراقيين, آخرين, الأجانب, المصابين</li>
@@ -410,6 +654,40 @@ udver: '2'
         <li>VERB-Fin: يريدون, يعملون, يعيشون, يطالبون, يعانون, يعتبرون, يواجهون, نريد, يتمكنوا, يرفضون</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+    <li>Plur
+      <ul>
+        <li>ADJ: _</li>
+        <li>ADP: _</li>
+        <li>ADV: _</li>
+        <li>AUX: _</li>
+        <li>CCONJ: _</li>
+        <li>DET: _</li>
+        <li>NOUN: _</li>
+        <li>NUM: _</li>
+        <li>PART: _</li>
+        <li>PRON: _</li>
+        <li>PROPN: _</li>
+        <li>PUNCT: _</li>
+        <li>SCONJ: _</li>
+        <li>VERB: _</li>
+        <li>X: _</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: المصرية, المتحدة, المصري, الماضي, العربية, أي, الحالي, جديدة, الدولية, الفلسطينية</li>
@@ -424,50 +702,10 @@ udver: '2'
       </ul>
     </li>
   </ul>
-</li>
 
   </td>
   <td width="33%" valign="top">
-<li><a>Number</a>
   <ul>
-    <li>Dual
-      <ul>
-        <li>ADJ: _</li>
-        <li>ADP: _</li>
-        <li>ADV: _</li>
-        <li>AUX: _</li>
-        <li>CCONJ: _</li>
-        <li>DET: _</li>
-        <li>NOUN: _</li>
-        <li>NUM: _</li>
-        <li>PART: _</li>
-        <li>PRON: _</li>
-        <li>PROPN: _</li>
-        <li>PUNCT: _</li>
-        <li>SCONJ: _</li>
-        <li>VERB: _</li>
-        <li>X: _</li>
-      </ul>
-    </li>
-    <li>Plur
-      <ul>
-        <li>ADJ: _</li>
-        <li>ADP: _</li>
-        <li>ADV: _</li>
-        <li>AUX: _</li>
-        <li>CCONJ: _</li>
-        <li>DET: _</li>
-        <li>NOUN: _</li>
-        <li>NUM: _</li>
-        <li>PART: _</li>
-        <li>PRON: _</li>
-        <li>PROPN: _</li>
-        <li>PUNCT: _</li>
-        <li>SCONJ: _</li>
-        <li>VERB: _</li>
-        <li>X: _</li>
-      </ul>
-    </li>
     <li>Sing
       <ul>
         <li>ADJ: _</li>
@@ -489,11 +727,38 @@ udver: '2'
       </ul>
     </li>
   </ul>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+  </ul>
 </li>
 
   </td>
   <td width="33%" valign="top">
 <li><a>Number</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
   <ul>
     <li>Dual
       <ul>
@@ -506,6 +771,19 @@ udver: '2'
         <li>VERB: أنجبا, انتهيا, تجوبان, تحدثان, تغنيان, تقيسان, زرعا, شاركا, صنفتا, غمرا</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
     <li>Plur
       <ul>
         <li>ADJ: الأصليين, الحمر, الست, السياسيين, اللاتينيين, آخرين, أستراليون, أصليون, ألمانيين, أوائل</li>
@@ -519,6 +797,19 @@ udver: '2'
         <li>VERB: كانوا, يحملون, حصلوا, قرروا, نحتاج, نرى, يتمتعون, يعانون, أثاروا, أجبروا</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: الأول, الخاصة, المتحدة, كبيرة, الثاني, الأولى, أخرى, الجديدة, أكثر, إسترليني</li>
@@ -533,13 +824,27 @@ udver: '2'
       </ul>
     </li>
   </ul>
-</li>
 
   </td>
 </tr>
 <tr>
   <td width="33%" valign="top">
 <li><a>Case</a>
+
+  </td>
+  <td width="33%" valign="top">
+<li><a>Case</a>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
   <ul>
     <li>Acc
       <ul>
@@ -551,32 +856,10 @@ udver: '2'
         <li>PRON: ه, ها, هم, التي, هذا, هذه, الذي, نا, ذلك, ك</li>
       </ul>
     </li>
-    <li>Gen
-      <ul>
-        <li>ADJ: المصرية, المتحدة, المصري, العربية, الماضي, الحالي, الفلسطينية, الدولية, أي, جديدة</li>
-        <li>ADP: خلال, دون, نحو, بين, حين, حسب, مثل, مقابل, قبل, خارج</li>
-        <li>DET: التي, هذه, الذي, هذا, ذلك, الذين, التى, هٰذا, هٰذه, تلك</li>
-        <li>NOUN: مصر, دولار, العراق, جنيه, مجلس, كل, الحكومة, الدول, الرئيس, مايو</li>
-        <li>NUM: مليون, مليار, ملايين, المئة, ثلاثة, المائة, ألف, بليون, آلاف, الف</li>
-        <li>PRON: ها, ه, هم, التي, هذه, الذي, هذا, ك, ذلك, الذين</li>
-      </ul>
-    </li>
-    <li>Nom
-      <ul>
-        <li>ADJ: المتحدة, المصرية, المصري, العام, كبير, السابق, السوري, أسعد, الاسرائيلي, الدولي</li>
-        <li>ADP: بعد, مثل, قبل, مقابل</li>
-        <li>DET: الذي, التي, هذه, هذا, ذٰلك, هٰذا, ذلك, الذين, الذى, تلك</li>
-        <li>NOUN: رئيس, وزير, الدكتور, الحكومة, مصر, الرئيس, عدد, مصادر, التقرير, الولايات</li>
-        <li>NUM: ثلاثة, خمسة, ثلاث, عشرة, اثنان, الثلاثة, ستة, عشرات, واحد, اربعة</li>
-        <li>PRON: هو, هي, الذي, التي, هذا, هم, هذه, ذٰلك, ذلك, هى</li>
-      </ul>
-    </li>
   </ul>
-</li>
 
   </td>
   <td width="33%" valign="top">
-<li><a>Case</a>
   <ul>
     <li>Acc
       <ul>
@@ -597,6 +880,31 @@ udver: '2'
         <li>X: _</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+  <ul>
+    <li>Gen
+      <ul>
+        <li>ADJ: المصرية, المتحدة, المصري, العربية, الماضي, الحالي, الفلسطينية, الدولية, أي, جديدة</li>
+        <li>ADP: خلال, دون, نحو, بين, حين, حسب, مثل, مقابل, قبل, خارج</li>
+        <li>DET: التي, هذه, الذي, هذا, ذلك, الذين, التى, هٰذا, هٰذه, تلك</li>
+        <li>NOUN: مصر, دولار, العراق, جنيه, مجلس, كل, الحكومة, الدول, الرئيس, مايو</li>
+        <li>NUM: مليون, مليار, ملايين, المئة, ثلاثة, المائة, ألف, بليون, آلاف, الف</li>
+        <li>PRON: ها, ه, هم, التي, هذه, الذي, هذا, ك, ذلك, الذين</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
     <li>Gen
       <ul>
         <li>ADJ: _</li>
@@ -617,6 +925,31 @@ udver: '2'
         <li>X: _</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+  <ul>
+    <li>Nom
+      <ul>
+        <li>ADJ: المتحدة, المصرية, المصري, العام, كبير, السابق, السوري, أسعد, الاسرائيلي, الدولي</li>
+        <li>ADP: بعد, مثل, قبل, مقابل</li>
+        <li>DET: الذي, التي, هذه, هذا, ذٰلك, هٰذا, ذلك, الذين, الذى, تلك</li>
+        <li>NOUN: رئيس, وزير, الدكتور, الحكومة, مصر, الرئيس, عدد, مصادر, التقرير, الولايات</li>
+        <li>NUM: ثلاثة, خمسة, ثلاث, عشرة, اثنان, الثلاثة, ستة, عشرات, واحد, اربعة</li>
+        <li>PRON: هو, هي, الذي, التي, هذا, هم, هذه, ذٰلك, ذلك, هى</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
     <li>Nom
       <ul>
         <li>ADJ: _</li>
@@ -637,11 +970,38 @@ udver: '2'
       </ul>
     </li>
   </ul>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+  </ul>
 </li>
 
   </td>
   <td width="33%" valign="top">
 <li><a>Case</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
   <ul>
     <li>Acc
       <ul>
@@ -657,6 +1017,19 @@ udver: '2'
         <li>VERB: أملاً</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
     <li>Gen
       <ul>
         <li>ADJ: الأول, الخاصة, المتحدة, أكثر, أخرى, الثاني, الأولى, أول, إسترليني, كبير</li>
@@ -671,6 +1044,19 @@ udver: '2'
         <li>PROPN: البحر, الصين, الاتحاد, تشرين, الولايات, كانون, نهر, جنوب, العصر, المحيط</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
     <li>Nom
       <ul>
         <li>ADJ: أكثر, الأول, كبيرة, الثاني, الخاص, الخاصة, آخر, الأكثر, الأمريكية, الأهم</li>
@@ -686,15 +1072,30 @@ udver: '2'
       </ul>
     </li>
   </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+  </ul>
 </li>
 
   </td>
 </tr>
 <tr>
   <td width="33%" valign="top">
+<li><a>Definite</a>
 
   </td>
   <td width="33%" valign="top">
+<li><a>Definite</a>
 
   </td>
   <td width="33%" valign="top">
@@ -703,7 +1104,6 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
-<li><a>Definite</a>
   <ul>
     <li>Com
       <ul>
@@ -711,6 +1111,40 @@ udver: '2'
         <li>NUM: الاربع, الثلاثة, الخمس, الخمسة</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+    <li>Com
+      <ul>
+        <li>ADJ: _</li>
+        <li>ADP: _</li>
+        <li>ADV: _</li>
+        <li>AUX: _</li>
+        <li>CCONJ: _</li>
+        <li>DET: _</li>
+        <li>NOUN: _</li>
+        <li>NUM: _</li>
+        <li>PART: _</li>
+        <li>PRON: _</li>
+        <li>PROPN: _</li>
+        <li>PUNCT: _</li>
+        <li>SCONJ: _</li>
+        <li>VERB: _</li>
+        <li>X: _</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+  <ul>
     <li>Cons
       <ul>
         <li>ADJ: أي, اي, أول, اول, أكبر, مختلف, أبرز, أهم, كبار, أسعد</li>
@@ -718,6 +1152,19 @@ udver: '2'
         <li>NUM: مليون, مليار, ألف, ثلاثة, ملايين, بليون, الف, آلاف, ثلاث, خمسة</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+  <ul>
     <li>Def
       <ul>
         <li>ADJ: المصرية, المتحدة, المصري, الماضي, العربية, الحالي, الدولية, الفلسطينية, العام, المقبل</li>
@@ -725,6 +1172,40 @@ udver: '2'
         <li>NUM: المئة, المائة, الثلاثة, الثلاث, العشرين, الأربعة, المليون, الثماني, الخمس, الستة</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+    <li>Def
+      <ul>
+        <li>ADJ: _</li>
+        <li>ADP: _</li>
+        <li>ADV: _</li>
+        <li>AUX: _</li>
+        <li>CCONJ: _</li>
+        <li>DET: _</li>
+        <li>NOUN: _</li>
+        <li>NUM: _</li>
+        <li>PART: _</li>
+        <li>PRON: _</li>
+        <li>PROPN: _</li>
+        <li>PUNCT: _</li>
+        <li>SCONJ: _</li>
+        <li>VERB: _</li>
+        <li>X: _</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+  <ul>
     <li>Ind
       <ul>
         <li>ADJ: جديدة, خاصة, أخرى, أكثر, اخرى, سورية, اكثر, جديد, كبيرة, حالياً</li>
@@ -733,50 +1214,10 @@ udver: '2'
       </ul>
     </li>
   </ul>
-</li>
 
   </td>
   <td width="33%" valign="top">
-<li><a>Definite</a>
   <ul>
-    <li>Com
-      <ul>
-        <li>ADJ: _</li>
-        <li>ADP: _</li>
-        <li>ADV: _</li>
-        <li>AUX: _</li>
-        <li>CCONJ: _</li>
-        <li>DET: _</li>
-        <li>NOUN: _</li>
-        <li>NUM: _</li>
-        <li>PART: _</li>
-        <li>PRON: _</li>
-        <li>PROPN: _</li>
-        <li>PUNCT: _</li>
-        <li>SCONJ: _</li>
-        <li>VERB: _</li>
-        <li>X: _</li>
-      </ul>
-    </li>
-    <li>Def
-      <ul>
-        <li>ADJ: _</li>
-        <li>ADP: _</li>
-        <li>ADV: _</li>
-        <li>AUX: _</li>
-        <li>CCONJ: _</li>
-        <li>DET: _</li>
-        <li>NOUN: _</li>
-        <li>NUM: _</li>
-        <li>PART: _</li>
-        <li>PRON: _</li>
-        <li>PROPN: _</li>
-        <li>PUNCT: _</li>
-        <li>SCONJ: _</li>
-        <li>VERB: _</li>
-        <li>X: _</li>
-      </ul>
-    </li>
     <li>Ind
       <ul>
         <li>ADJ: _</li>
@@ -798,11 +1239,38 @@ udver: '2'
       </ul>
     </li>
   </ul>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+  </ul>
 </li>
 
   </td>
   <td width="33%" valign="top">
 <li><a>Definite</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
   <ul>
     <li>Def
       <ul>
@@ -814,6 +1282,19 @@ udver: '2'
         <li>PROPN: البحر, الولايات, الاتحاد, مجلس, نهر, الإمبراطورية, الحرب, المحيط, المملكة, بحر</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
     <li>Ind
       <ul>
         <li>ADJ: أكثر, كبيرة, أخرى, أول, أكبر, إسترليني, جديدة, كبير, كبيراً, آخر</li>
@@ -826,7 +1307,6 @@ udver: '2'
       </ul>
     </li>
   </ul>
-</li>
 
   </td>
 </tr>
@@ -839,6 +1319,20 @@ udver: '2'
   <td width="33%" valign="top">
 <h3>Degree and Polarity</h3>
 
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
 
   </td>
   <td width="33%" valign="top">
@@ -850,6 +1344,18 @@ udver: '2'
 <tr>
   <td width="33%" valign="top">
 <li><a>Polarity</a>
+
+  </td>
+  <td width="33%" valign="top">
+<li><a>Polarity</a>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
   <ul>
     <li>Neg
       <ul>
@@ -859,11 +1365,9 @@ udver: '2'
       </ul>
     </li>
   </ul>
-</li>
 
   </td>
   <td width="33%" valign="top">
-<li><a>Polarity</a>
   <ul>
     <li>Neg
       <ul>
@@ -883,11 +1387,38 @@ udver: '2'
       </ul>
     </li>
   </ul>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+  </ul>
 </li>
 
   </td>
   <td width="33%" valign="top">
 <li><a>Polarity</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
   <ul>
     <li>Neg
       <ul>
@@ -895,7 +1426,6 @@ udver: '2'
       </ul>
     </li>
   </ul>
-</li>
 
   </td>
 </tr>
@@ -907,6 +1437,9 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
+  <ul>
+  </ul>
+</li>
 
   </td>
 </tr>
@@ -914,7 +1447,34 @@ udver: '2'
   <td width="33%" valign="top">
 <h3>Verbal Features</h3>
 
+
+  </td>
+  <td width="33%" valign="top">
+<h3>Verbal Features</h3>
+
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
 <li><a>Aspect</a>
+
+  </td>
+  <td width="33%" valign="top">
+<li><a>Aspect</a>
+
+  </td>
+  <td width="33%" valign="top">
+<h3>Verbal Features</h3>
+
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
   <ul>
     <li>Imp
       <ul>
@@ -922,20 +1482,10 @@ udver: '2'
         <li>VERB-Fin: يتم, يمكن, يكون, تصل, تكون, يجب, يصل, يذكر, يقول, تقوم</li>
       </ul>
     </li>
-    <li>Perf
-      <ul>
-        <li>AUX: كان, ليس, كانت, ليست, قال, زالت, كانوا, زال, اصبح, زالوا</li>
-        <li>VERB: قال, كان, أضاف, كانت, تم, أكد, أشار, أوضح, أعلن, قالت</li>
-      </ul>
-    </li>
   </ul>
-</li>
 
   </td>
   <td width="33%" valign="top">
-<h3>Verbal Features</h3>
-
-<li><a>Aspect</a>
   <ul>
     <li>Imp
       <ul>
@@ -943,6 +1493,27 @@ udver: '2'
         <li>VERB: _</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+  <ul>
+    <li>Perf
+      <ul>
+        <li>AUX: كان, ليس, كانت, ليست, قال, زالت, كانوا, زال, اصبح, زالوا</li>
+        <li>VERB: قال, كان, أضاف, كانت, تم, أكد, أشار, أوضح, أعلن, قالت</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
     <li>Perf
       <ul>
         <li>ADP: _</li>
@@ -950,13 +1521,38 @@ udver: '2'
       </ul>
     </li>
   </ul>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+  <ul>
+  </ul>
 </li>
 
   </td>
   <td width="33%" valign="top">
-<h3>Verbal Features</h3>
+  <ul>
+  </ul>
+</li>
 
+  </td>
+  <td width="33%" valign="top">
 <li><a>Aspect</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
   <ul>
     <li>Imp
       <ul>
@@ -966,6 +1562,19 @@ udver: '2'
         <li>VERB: يمكن, يكون, تكون, يكن, يقول, تظهر, تقول, يعمل, تضم, يعود</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
     <li>Perf
       <ul>
         <li>ADJ: أحدث, آمن, ألحقا, سافر, عادل</li>
@@ -975,13 +1584,27 @@ udver: '2'
       </ul>
     </li>
   </ul>
-</li>
 
   </td>
 </tr>
 <tr>
   <td width="33%" valign="top">
 <li><a>Mood</a>
+
+  </td>
+  <td width="33%" valign="top">
+<li><a>Mood</a>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
   <ul>
     <li>Imp
       <ul>
@@ -989,18 +1612,97 @@ udver: '2'
         <li>VERB-Fin: حاول, د, دعوا, حث, ابحث, احرص, اخدموا, افتحوا, اكسون, انتبه</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+  <ul>
     <li>Ind
       <ul>
         <li>AUX-Fin: يكون, تكون, تعد, يعتبر, يعد, تعتبر, تزال, تظل, يزال, تكونون</li>
         <li>VERB-Fin: يمكن, يتم, يجب, يذكر, يعني, يقول, تبلغ, تضم, تقوم, يرى</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+    <li>Ind
+      <ul>
+        <li>ADJ: _</li>
+        <li>ADP: _</li>
+        <li>ADV: _</li>
+        <li>AUX: _</li>
+        <li>CCONJ: _</li>
+        <li>DET: _</li>
+        <li>NOUN: _</li>
+        <li>NUM: _</li>
+        <li>PART: _</li>
+        <li>PRON: _</li>
+        <li>PROPN: _</li>
+        <li>PUNCT: _</li>
+        <li>SCONJ: _</li>
+        <li>VERB: _</li>
+        <li>X: _</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+  <ul>
     <li>Jus
       <ul>
         <li>AUX-Fin: يكن, تكن, تعد, تثن, تعودا, يصف</li>
         <li>VERB-Fin: يكن, يتم, تكن, يصدر, يحدد, يعد, تتجاوز, يمكن, يستبعد, يعلن</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+    <li>Jus
+      <ul>
+        <li>ADJ: _</li>
+        <li>ADP: _</li>
+        <li>ADV: _</li>
+        <li>AUX: _</li>
+        <li>CCONJ: _</li>
+        <li>DET: _</li>
+        <li>NOUN: _</li>
+        <li>PART: _</li>
+        <li>PROPN: _</li>
+        <li>PUNCT: _</li>
+        <li>SCONJ: _</li>
+        <li>VERB: _</li>
+        <li>X: _</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+  <ul>
     <li>Sub
       <ul>
         <li>AUX-Fin: يكون, تكون, اكون, تزال, تصبح, نكون, يبقى, يظل, يكونا</li>
@@ -1008,48 +1710,10 @@ udver: '2'
       </ul>
     </li>
   </ul>
-</li>
 
   </td>
   <td width="33%" valign="top">
-<li><a>Mood</a>
   <ul>
-    <li>Ind
-      <ul>
-        <li>ADJ: _</li>
-        <li>ADP: _</li>
-        <li>ADV: _</li>
-        <li>AUX: _</li>
-        <li>CCONJ: _</li>
-        <li>DET: _</li>
-        <li>NOUN: _</li>
-        <li>NUM: _</li>
-        <li>PART: _</li>
-        <li>PRON: _</li>
-        <li>PROPN: _</li>
-        <li>PUNCT: _</li>
-        <li>SCONJ: _</li>
-        <li>VERB: _</li>
-        <li>X: _</li>
-      </ul>
-    </li>
-    <li>Jus
-      <ul>
-        <li>ADJ: _</li>
-        <li>ADP: _</li>
-        <li>ADV: _</li>
-        <li>AUX: _</li>
-        <li>CCONJ: _</li>
-        <li>DET: _</li>
-        <li>NOUN: _</li>
-        <li>PART: _</li>
-        <li>PROPN: _</li>
-        <li>PUNCT: _</li>
-        <li>SCONJ: _</li>
-        <li>VERB: _</li>
-        <li>X: _</li>
-      </ul>
-    </li>
     <li>Sub
       <ul>
         <li>ADJ: _</li>
@@ -1068,17 +1732,57 @@ udver: '2'
       </ul>
     </li>
   </ul>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+  </ul>
 </li>
 
   </td>
   <td width="33%" valign="top">
 <li><a>Mood</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
   <ul>
     <li>Imp
       <ul>
         <li>VERB: ضع</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
     <li>Ind
       <ul>
         <li>ADJ: أفضل</li>
@@ -1087,12 +1791,38 @@ udver: '2'
         <li>VERB: يمكن, يقول, تكون, يكون, تقول, يعمل, تضم, يبدو, تبدأ, تبلغ</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
     <li>Jus
       <ul>
         <li>AUX: تكن, تعد, يعد, يكن</li>
         <li>VERB: يكن, تكن, تظهر, تعد, تلق, يتخذ, أعجب, أعرف, أكن, تتجاوز</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
     <li>Sub
       <ul>
         <li>AUX: يكون, تصبح, تكون, يصبح, تبقى</li>
@@ -1101,7 +1831,6 @@ udver: '2'
       </ul>
     </li>
   </ul>
-</li>
 
   </td>
 </tr>
@@ -1113,30 +1842,7 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
-<li><a>Tense</a>
   <ul>
-    <li>Fut
-      <ul>
-        <li>AUX: يكون</li>
-        <li>VERB: يكون, تكون, يؤدي, يخفف, يسمح, يموت, أدخل, أصاب, تتحدث, تتغير</li>
-      </ul>
-    </li>
-    <li>Past
-      <ul>
-        <li>ADJ: أحدث, آمن, ألحقا, سافر, عادل</li>
-        <li>AUX: كان, كانت, أصبح, باتت, أصبحت, تكن, كنت, بات, جعل, كانوا</li>
-        <li>NOUN: وضع, عمل, تبعت, حكم, دار, درس, زحف, أعما, ألف, أملت</li>
-        <li>VERB: كان, كانت, قال, تم, بدأت, قالت, كانوا, يكن, بدأ, أدى</li>
-      </ul>
-    </li>
-    <li>Pres
-      <ul>
-        <li>ADJ: أفضل</li>
-        <li>AUX: يكون, تكون, تصبح, تعد, يصبح, يزال, يعد, تبدو, تبقى, تعتبر</li>
-        <li>NOUN: أسمي, ألعب, تبني</li>
-        <li>VERB: يمكن, يقول, تقول, يعمل, يكون, تضم, يعود, تبدأ, تظهر, تكون</li>
-      </ul>
-    </li>
   </ul>
 </li>
 
@@ -1145,6 +1851,19 @@ udver: '2'
 <tr>
   <td width="33%" valign="top">
 <li><a>Voice</a>
+
+  </td>
+  <td width="33%" valign="top">
+<li><a>Voice</a>
+
+  </td>
+  <td width="33%" valign="top">
+<li><a>Tense</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
   <ul>
     <li>Act
       <ul>
@@ -1154,20 +1873,10 @@ udver: '2'
         <li>VERB-Fin: يتم, يمكن, يكون, تصل, تكون, يجب, يصل, يقول, تقوم, يعني</li>
       </ul>
     </li>
-    <li>Pass
-      <ul>
-        <li>AUX: تعد, يعتبر, تعتبر, يعد, أصيبوا, اعتبروا, قتلا, قتلوا, كتب, يُعد</li>
-        <li>AUX-Fin: تعد, يعتبر, تعتبر, يعد, يُعد</li>
-        <li>VERB: يذكر, يوجد, قتل, يتوقع, أصيب, توجد, عقد, تعتبر, قتلوا, يشار</li>
-        <li>VERB-Fin: يذكر, يوجد, يتوقع, توجد, تعتبر, يشار, تقام, تعد, يعد, تعقد</li>
-      </ul>
-    </li>
   </ul>
-</li>
 
   </td>
   <td width="33%" valign="top">
-<li><a>Voice</a>
   <ul>
     <li>Act
       <ul>
@@ -1188,6 +1897,48 @@ udver: '2'
         <li>X: _</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+    <li>Fut
+      <ul>
+        <li>AUX: يكون</li>
+        <li>VERB: يكون, تكون, يؤدي, يخفف, يسمح, يموت, أدخل, أصاب, تتحدث, تتغير</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+  <ul>
+    <li>Pass
+      <ul>
+        <li>AUX: تعد, يعتبر, تعتبر, يعد, أصيبوا, اعتبروا, قتلا, قتلوا, كتب, يُعد</li>
+        <li>AUX-Fin: تعد, يعتبر, تعتبر, يعد, يُعد</li>
+        <li>VERB: يذكر, يوجد, قتل, يتوقع, أصيب, توجد, عقد, تعتبر, قتلوا, يشار</li>
+        <li>VERB-Fin: يذكر, يوجد, يتوقع, توجد, تعتبر, يشار, تقام, تعد, يعد, تعقد</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
     <li>Pass
       <ul>
         <li>ADP: _</li>
@@ -1204,11 +1955,94 @@ udver: '2'
       </ul>
     </li>
   </ul>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+    <li>Past
+      <ul>
+        <li>ADJ: أحدث, آمن, ألحقا, سافر, عادل</li>
+        <li>AUX: كان, كانت, أصبح, باتت, أصبحت, تكن, كنت, بات, جعل, كانوا</li>
+        <li>NOUN: وضع, عمل, تبعت, حكم, دار, درس, زحف, أعما, ألف, أملت</li>
+        <li>VERB: كان, كانت, قال, تم, بدأت, قالت, كانوا, يكن, بدأ, أدى</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+    <li>Pres
+      <ul>
+        <li>ADJ: أفضل</li>
+        <li>AUX: يكون, تكون, تصبح, تعد, يصبح, يزال, يعد, تبدو, تبقى, تعتبر</li>
+        <li>NOUN: أسمي, ألعب, تبني</li>
+        <li>VERB: يمكن, يقول, تقول, يعمل, يكون, تضم, يعود, تبدأ, تظهر, تكون</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+  <ul>
+  </ul>
 </li>
 
   </td>
   <td width="33%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
 <li><a>Voice</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
   <ul>
     <li>Act
       <ul>
@@ -1220,6 +2054,19 @@ udver: '2'
         <li>VERB: كان, كانت, يمكن, قال, يكون, تم, تكون, يكن, بدأت, قالت</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
     <li>Pass
       <ul>
         <li>ADJ: الموجودة, موجودة, المتاحة, المذكور, المستخدمة, المستغرق, المسموح, المشتبه, المطبق, المطلوب</li>
@@ -1231,18 +2078,6 @@ udver: '2'
       </ul>
     </li>
   </ul>
-</li>
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
 
   </td>
 </tr>
@@ -1250,7 +2085,35 @@ udver: '2'
   <td width="33%" valign="top">
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
+  </td>
+  <td width="33%" valign="top">
+<h3>Pronouns, Determiners, Quantifiers</h3>
+
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
 <li><a>PronType</a>
+
+  </td>
+  <td width="33%" valign="top">
+<li><a>PronType</a>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
   <ul>
     <li>Dem
       <ul>
@@ -1258,11 +2121,51 @@ udver: '2'
         <li>PRON: هذه, هذا, ذلك, ذٰلك, هٰذا, هٰذه, تلك, هؤلاء, هذين, اولئك</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+    <li>Dem
+      <ul>
+        <li>PRON: _</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+  <ul>
     <li>Prs
       <ul>
         <li>PRON: ه, ها, هم, هو, هي, ك, هما, نا, هن, كم</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+    <li>Prs
+      <ul>
+        <li>PRON: _</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+  <ul>
     <li>Rel
       <ul>
         <li>DET: التي, الذي, الذين, التى, الذى, اللذين, اللتين, اللواتي, اللتان, اللاتى</li>
@@ -1270,29 +2173,31 @@ udver: '2'
       </ul>
     </li>
   </ul>
-</li>
 
   </td>
   <td width="33%" valign="top">
-<h3>Pronouns, Determiners, Quantifiers</h3>
-
-<li><a>PronType</a>
   <ul>
-    <li>Dem
-      <ul>
-        <li>PRON: _</li>
-      </ul>
-    </li>
-    <li>Prs
-      <ul>
-        <li>PRON: _</li>
-      </ul>
-    </li>
     <li>Rel
       <ul>
         <li>PRON: _</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
   </ul>
 </li>
 
@@ -1339,6 +2244,18 @@ udver: '2'
 <tr>
   <td width="33%" valign="top">
 <li><a>Person</a>
+
+  </td>
+  <td width="33%" valign="top">
+<li><a>Person</a>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
   <ul>
     <li>1
       <ul>
@@ -1349,29 +2266,10 @@ udver: '2'
         <li>VERB-Fin: نريد, نستورد, نعرف, أعتقد, نقول, أؤيد, اعتقد, نبدأ, نزرع, نسعى</li>
       </ul>
     </li>
-    <li>2
-      <ul>
-        <li>AUX-Fin: تكونون, تكون</li>
-        <li>PRON: ك, كم, أنت, انتم, أنتم</li>
-        <li>VERB: تحب, تواجه, تتجنب, تتعرض, تجد, تحصل, تخليتم, تبلي, تتوقع, تدع</li>
-        <li>VERB-Fin: تحب, تواجه, تتجنب, تتعرض, تجد, تحصل, تبلي, تتوقع, تدع, ترغب</li>
-      </ul>
-    </li>
-    <li>3
-      <ul>
-        <li>AUX: كان, يكون, ليس, تكون, كانت, ليست, تعد, قال, يكن, يعتبر</li>
-        <li>AUX-Fin: يكون, تكون, تعد, يكن, يعتبر, يعد, تعتبر, تكن, تزال, تظل</li>
-        <li>PRON: ه, ها, هم, هو, هي, هما, هن, هى, أعضائها, أهدافها</li>
-        <li>VERB: قال, كان, أضاف, كانت, تم, أكد, يتم, يمكن, أشار, أوضح</li>
-        <li>VERB-Fin: يتم, يمكن, يكون, تصل, تكون, يجب, يصل, يذكر, يقول, تقوم</li>
-      </ul>
-    </li>
   </ul>
-</li>
 
   </td>
   <td width="33%" valign="top">
-<li><a>Person</a>
   <ul>
     <li>1
       <ul>
@@ -1391,6 +2289,29 @@ udver: '2'
         <li>X: _</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+  <ul>
+    <li>2
+      <ul>
+        <li>AUX-Fin: تكونون, تكون</li>
+        <li>PRON: ك, كم, أنت, انتم, أنتم</li>
+        <li>VERB: تحب, تواجه, تتجنب, تتعرض, تجد, تحصل, تخليتم, تبلي, تتوقع, تدع</li>
+        <li>VERB-Fin: تحب, تواجه, تتجنب, تتعرض, تجد, تحصل, تبلي, تتوقع, تدع, ترغب</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
     <li>2
       <ul>
         <li>ADJ: _</li>
@@ -1407,6 +2328,30 @@ udver: '2'
         <li>X: _</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+  <ul>
+    <li>3
+      <ul>
+        <li>AUX: كان, يكون, ليس, تكون, كانت, ليست, تعد, قال, يكن, يعتبر</li>
+        <li>AUX-Fin: يكون, تكون, تعد, يكن, يعتبر, يعد, تعتبر, تكن, تزال, تظل</li>
+        <li>PRON: ه, ها, هم, هو, هي, هما, هن, هى, أعضائها, أهدافها</li>
+        <li>VERB: قال, كان, أضاف, كانت, تم, أكد, يتم, يمكن, أشار, أوضح</li>
+        <li>VERB-Fin: يتم, يمكن, يكون, تصل, تكون, يجب, يصل, يذكر, يقول, تقوم</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
     <li>3
       <ul>
         <li>ADJ: _</li>
@@ -1427,39 +2372,27 @@ udver: '2'
       </ul>
     </li>
   </ul>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+  </ul>
 </li>
 
   </td>
   <td width="33%" valign="top">
 <li><a>Person</a>
-  <ul>
-    <li>1
-      <ul>
-        <li>ADJ: أفضل</li>
-        <li>AUX: كنت, كنا</li>
-        <li>NOUN: أسمي, ألعب, عاملت</li>
-        <li>PRON: نا, ي, أنا, ني, نحن</li>
-        <li>VERB: أعرف, أحب, أعتقد, بحثت, نحتاج, نرى, آمل, أبحث, أتحدث, أتساءل</li>
-      </ul>
-    </li>
-    <li>2
-      <ul>
-        <li>AUX: كنت</li>
-        <li>PRON: ك, كم, هما</li>
-        <li>VERB: تريد, تستمد, تشاء, تشرع, تعرف, تفعل, تقف, تقول, تنام, زرعا</li>
-      </ul>
-    </li>
-    <li>3
-      <ul>
-        <li>ADJ: أحدث, آمن, ألحقا, سافر, عادل</li>
-        <li>AUX: كان, كانت, يكون, أصبح, باتت, تكون, أصبحت, تصبح, تعد, تكن</li>
-        <li>NOUN: وضع, عمل, تبعت, حكم, دار, درس, زحف, أعما, ألف, أملت</li>
-        <li>PRON: ه, ها, هم, هو, هي, هما, هن, التي, ينتور</li>
-        <li>VERB: كان, كانت, يمكن, قال, يكون, تم, تكون, يكن, بدأت, قالت</li>
-      </ul>
-    </li>
-  </ul>
-</li>
 
   </td>
 </tr>
@@ -1471,6 +2404,73 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
+  <ul>
+    <li>1
+      <ul>
+        <li>ADJ: أفضل</li>
+        <li>AUX: كنت, كنا</li>
+        <li>NOUN: أسمي, ألعب, عاملت</li>
+        <li>PRON: نا, ي, أنا, ني, نحن</li>
+        <li>VERB: أعرف, أحب, أعتقد, بحثت, نحتاج, نرى, آمل, أبحث, أتحدث, أتساءل</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+    <li>2
+      <ul>
+        <li>AUX: كنت</li>
+        <li>PRON: ك, كم, هما</li>
+        <li>VERB: تريد, تستمد, تشاء, تشرع, تعرف, تفعل, تقف, تقول, تنام, زرعا</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+    <li>3
+      <ul>
+        <li>ADJ: أحدث, آمن, ألحقا, سافر, عادل</li>
+        <li>AUX: كان, كانت, يكون, أصبح, باتت, تكون, أصبحت, تصبح, تعد, تكن</li>
+        <li>NOUN: وضع, عمل, تبعت, حكم, دار, درس, زحف, أعما, ألف, أملت</li>
+        <li>PRON: ه, ها, هم, هو, هي, هما, هن, التي, ينتور</li>
+        <li>VERB: كان, كانت, يمكن, قال, يكون, تم, تكون, يكن, بدأت, قالت</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+  <ul>
+  </ul>
+</li>
 
   </td>
 </tr>
@@ -1500,6 +2500,19 @@ udver: '2'
   <td width="33%" valign="top">
 <h3>Other Features</h3>
 
+
+  </td>
+  <td width="33%" valign="top">
+<h3>Other Features</h3>
+
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
 <li><a>Abbr</a>
   <ul>
     <li>Yes
@@ -1509,6 +2522,17 @@ udver: '2'
     </li>
   </ul>
 </li>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
 <li><a>AdpType</a>
   <ul>
     <li>Prep
@@ -1518,6 +2542,26 @@ udver: '2'
     </li>
   </ul>
 </li>
+
+  </td>
+  <td width="33%" valign="top">
+<li><a>AdpType</a>
+  <ul>
+    <li>Prep
+      <ul>
+        <li>ADP: _</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
 <li><a>Foreign</a>
   <ul>
     <li>Yes
@@ -1527,6 +2571,17 @@ udver: '2'
     </li>
   </ul>
 </li>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
 <li><a>NumForm</a>
   <ul>
     <li>Digit
@@ -1541,6 +2596,31 @@ udver: '2'
     </li>
   </ul>
 </li>
+
+  </td>
+  <td width="33%" valign="top">
+<li><a>NumForm</a>
+  <ul>
+    <li>Digit
+      <ul>
+        <li>NUM: _</li>
+      </ul>
+    </li>
+    <li>Word
+      <ul>
+        <li>NUM: _</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
 <li><a>NumValue</a>
   <ul>
     <li>1
@@ -1563,36 +2643,9 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
-<h3>Other Features</h3>
-
-<li><a>AdpType</a>
-  <ul>
-    <li>Prep
-      <ul>
-        <li>ADP: _</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-<li><a>NumForm</a>
-  <ul>
-    <li>Digit
-      <ul>
-        <li>NUM: _</li>
-      </ul>
-    </li>
-    <li>Word
-      <ul>
-        <li>NUM: _</li>
-      </ul>
-    </li>
-  </ul>
-</li>
 
   </td>
   <td width="33%" valign="top">
-<h3>Other Features</h3>
-
 
   </td>
 </tr>
@@ -1604,8 +2657,6 @@ udver: '2'
 
 <ul>
 <li>This corpus uses 214 lemmas as copulas (<a>cop</a>). Examples: كَان، لَيس، عَدّ، اِعتَبَر، زَال، قَال، هُوَ، أَنَّ، ظَلّ، لَا، مِن، أَصبَح، كَون، مَا، دَولَة، فِي، أَعلَن، إِجرَاء، اِثنَان، بَات، ذَكَر، رَئِيس، صَار، عَاد، مَشرُوع، مُؤَكِّد، 13، أَضَاف، أَكَّد، أَوضَح، اِتِّفَاق، اِتِّفَاقِيَّة، اِعتَقَد، اِنتِقَاد، ثَلَاثَة، جَرِيمَة، رَأَى، صَرَّح، طَرَف، عَامِل، عَرَف، غَير، قَتَل، قَول، كنت، كَشَف، لابد، لسنا، مَن، مُعتَبِر.</li>
-<li>This corpus uses 74 lemmas as auxiliaries (<a>aux</a>). Examples: سَ، قَد، مَا، سَوفَ، إِلَّا، لَيس، هَل، لقد، نَحو، رُبَّمَا، تَقرِيب، أَ، الا، لَ، لَو، أَيّ، كَيفَ، وسأسعى، 12، أيها، أَسوَأ، أَكثَر، أَلَا، أَمَل، أَنَّ، بلاش، بَل، بِلَاش، حوإلى، دَائِم، سأتنازل، سأحدد، سأحضر، سأرفض، سأضع، سأكون، سافعله، ساكون، ستدرسان، ستساعدنا، ستكلّفنا، سنجد، سنجري، سنحاول، سنرسل، سنضع، سنعيد، سنلجأ، سنوجه، سيعطينا.</li>
-<li>This corpus uses 4 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: سَ، قَد، سَوفَ، إِلَّا.</li>
 </ul>
 
   </td>
@@ -1616,6 +2667,25 @@ udver: '2'
 
 <ul>
 <li>This corpus uses 14 lemmas as copulas (<a>cop</a>). Examples: _، l، f، ,، hm، nA، w، "، None، b، h، Alhwrn، hA، y.</li>
+</ul>
+
+  </td>
+  <td width="33%" valign="top">
+<h3>Other Features</h3>
+
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+<ul>
+<li>This corpus uses 74 lemmas as auxiliaries (<a>aux</a>). Examples: سَ، قَد، مَا، سَوفَ، إِلَّا، لَيس، هَل، لقد، نَحو، رُبَّمَا، تَقرِيب، أَ، الا، لَ، لَو، أَيّ، كَيفَ، وسأسعى، 12، أيها، أَسوَأ، أَكثَر، أَلَا، أَمَل، أَنَّ، بلاش، بَل، بِلَاش، حوإلى، دَائِم، سأتنازل، سأحدد، سأحضر، سأرفض، سأضع، سأكون، سافعله، ساكون، ستدرسان، ستساعدنا، ستكلّفنا، سنجد، سنجري، سنحاول، سنرسل، سنضع، سنعيد، سنلجأ، سنوجه، سيعطينا.</li>
+<li>This corpus uses 4 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: سَ، قَد، سَوفَ، إِلَّا.</li>
+</ul>
+
+  </td>
+  <td width="33%" valign="top">
+<ul>
 <li>This corpus uses 20 lemmas as auxiliaries (<a>aux</a>). Examples: _، s، lA، l، w، None، >، h، ,، hA، mA، f، hm، .، "، (، -، km، m، nA.</li>
 </ul>
 
@@ -1627,7 +2697,6 @@ udver: '2'
 
 <ul>
 <li>This corpus uses 28 lemmas as copulas (<a>cop</a>). Examples: kAn-u_1، >aSobaH_1، bAt-i_1، Ead~-u_1، jaEal-a_1، layosa_1، EAd-u_1، {iEotabar_1، Zal~-a_1، baqiy-a_1، kawon_1، zAl-a_1، $ak~al_1، *ikoraY_1، <ilobAs_1، >aEad~_1، >aEolan_1، HaSad-iu_1، SAr_1، badA-u_1، daEA-u_1، fati}_1، gAyap_1، gadA-u_1، hab~-u_1، waqof_1، {iEotibAr_1، {inotiqAd_1.</li>
-<li>This corpus uses 5 lemmas as auxiliaries (<a>aux</a>). Examples: kAn-u_1، lA_1، Zal~-a_1، bAt-i_1، bada>-a_1.</li>
 </ul>
 
   </td>
@@ -1747,22 +2816,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="33%" valign="top">
-<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
-
-Here we consider only relations between verbs (parent) and nouns or pronouns (child).
 <ul>
-  <li><a>nsubj</a>
-    <ul>
-      <li>VERB--NOUN (9)</li>
-      <li>VERB--NOUN-Acc (65)</li>
-      <li>VERB--NOUN-Gen (47)</li>
-      <li>VERB--NOUN-Nom (496)</li>
-      <li>VERB--PRON (1)</li>
-      <li>VERB--PRON-Acc (56)</li>
-      <li>VERB--PRON-Gen (77)</li>
-      <li>VERB--PRON-Nom (53)</li>
-    </ul>
-  </li>
+<li>This corpus uses 5 lemmas as auxiliaries (<a>aux</a>). Examples: kAn-u_1، lA_1، Zal~-a_1، bAt-i_1، bada>-a_1.</li>
 </ul>
 
   </td>
@@ -1945,16 +3000,20 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="33%" valign="top">
+<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+
+Here we consider only relations between verbs (parent) and nouns or pronouns (child).
 <ul>
-  <li><a>obj</a>
+  <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (8)</li>
-      <li>VERB--NOUN-Acc (382)</li>
-      <li>VERB--NOUN-Gen (34)</li>
-      <li>VERB--NOUN-Nom (2)</li>
-      <li>VERB--PRON-Acc (73)</li>
-      <li>VERB--PRON-Gen (20)</li>
-      <li>VERB--PRON-Nom (7)</li>
+      <li>VERB--NOUN (9)</li>
+      <li>VERB--NOUN-Acc (65)</li>
+      <li>VERB--NOUN-Gen (47)</li>
+      <li>VERB--NOUN-Nom (496)</li>
+      <li>VERB--PRON (1)</li>
+      <li>VERB--PRON-Acc (56)</li>
+      <li>VERB--PRON-Gen (77)</li>
+      <li>VERB--PRON-Nom (53)</li>
     </ul>
   </li>
 </ul>
@@ -2070,10 +3129,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   </td>
   <td width="33%" valign="top">
 <ul>
-  <li><a>iobj</a>
+  <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN-Acc (5)</li>
-      <li>VERB--NOUN-Gen (2)</li>
+      <li>VERB--NOUN (8)</li>
+      <li>VERB--NOUN-Acc (382)</li>
+      <li>VERB--NOUN-Gen (34)</li>
+      <li>VERB--NOUN-Nom (2)</li>
+      <li>VERB--PRON-Acc (73)</li>
+      <li>VERB--PRON-Gen (20)</li>
+      <li>VERB--PRON-Nom (7)</li>
     </ul>
   </li>
 </ul>
@@ -2088,6 +3152,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="33%" valign="top">
+<ul>
+  <li><a>iobj</a>
+    <ul>
+      <li>VERB--NOUN-Acc (5)</li>
+      <li>VERB--NOUN-Gen (2)</li>
+    </ul>
+  </li>
+</ul>
 
   </td>
 </tr>
@@ -2131,6 +3203,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <li>This corpus uses 3 relation subtypes: <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a></li>
 <li>The following 12 relation types are not used in this corpus at all: <a>obl</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>advcl</a>, <a>discourse</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
 
   </td>
   <td width="33%" valign="top">

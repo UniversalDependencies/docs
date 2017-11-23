@@ -19,22 +19,78 @@ udver: '2'
   <td width="50%" valign="top">
 <h2>Tokenization and Word Segmentation</h2>
 
-<ul>
-<li>This corpus contains 6339 sentences and 74352 tokens.</li>
-<li>This corpus contains 6550 tokens (9%) that are not followed by a space.</li>
-<li>This corpus does not contain words with spaces.</li>
-<li>This corpus contains 2282 types of words that contain both letters and punctuation. Examples: 있다"고, 것"이라고, 한다"고, 것"이라며, 있다"며, "이, 없다"고, "그, "우리는, "이는, "이번, 있다"면서, 있었다"고, 했다"고, "다만, "미국, &amp;, day(데이, 같다"고, 바란다"고, 전망"이라고, 파운드(약, "건담, "경기, "그러나, "그런, "내가, "북한의, "쇼트프로그램에서, "순두부찌게, "올, "유권자들이, "지금, "지난, "최근, "특히, "하지만, "현재, &lt;아이들, '날려라, '네덜란드의, '단일화, '더, '무한도전'에서는, '박근혜, '베트남전'의, '스타골든벨, '워리어스, '전, '정정당당한</li>
-</ul>
 
   </td>
   <td width="50%" valign="top">
 <h2>Tokenization and Word Segmentation</h2>
 
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<ul>
+<li>This corpus contains 6339 sentences and 74352 tokens.</li>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
 <ul>
 <li>This corpus contains 1000 sentences and 22957 tokens.</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<ul>
+<li>This corpus contains 6550 tokens (9%) that are not followed by a space.</li>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+<ul>
 <li>All tokens in this corpus are followed by a space.</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+<ul>
+<li>This corpus does not contain words with spaces.</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<ul>
+<li>This corpus contains 2282 types of words that contain both letters and punctuation. Examples: 있다"고, 것"이라고, 한다"고, 것"이라며, 있다"며, "이, 없다"고, "그, "우리는, "이는, "이번, 있다"면서, 있었다"고, 했다"고, "다만, "미국, &amp;, day(데이, 같다"고, 바란다"고, 전망"이라고, 파운드(약, "건담, "경기, "그러나, "그런, "내가, "북한의, "쇼트프로그램에서, "순두부찌게, "올, "유권자들이, "지금, "지난, "최근, "특히, "하지만, "현재, &lt;아이들, '날려라, '네덜란드의, '단일화, '더, '무한도전'에서는, '박근혜, '베트남전'의, '스타골든벨, '워리어스, '전, '정정당당한</li>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+<ul>
 <li>This corpus contains 8 types of words that contain both letters and punctuation. Examples: B.C., 's, G.D.P., Thought', Z., Zettel’s, n't, 이다.</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<ul>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+<ul>
 </ul>
 
   </td>
@@ -66,6 +122,18 @@ udver: '2'
 <tr>
   <td width="50%" valign="top">
 <ul>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+<ul>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<ul>
 <li>This corpus contains 1 lemmas tagged as pronouns (PRON): _</li>
 </ul>
 
@@ -199,6 +267,14 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <h3>Degree and Polarity</h3>
 
 
@@ -206,6 +282,14 @@ udver: '2'
   <td width="50%" valign="top">
 <h3>Degree and Polarity</h3>
 
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
 
   </td>
 </tr>
@@ -271,6 +355,14 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
@@ -278,18 +370,44 @@ udver: '2'
   <td width="50%" valign="top">
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
 
   </td>
 </tr>
 <tr>
   <td width="50%" valign="top">
 <li><a>NumType</a>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
   <ul>
     <li>Card
       <ul>
         <li>NUM: 한, 두, 첫, 세, 하나, 1, 다섯, 하나는, 하나의, 네</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
   </ul>
 </li>
 
@@ -343,18 +461,16 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+<h3>Other Features</h3>
+
 
   </td>
 </tr>
 <tr>
   <td width="50%" valign="top">
-<h3>Other Features</h3>
-
 
   </td>
   <td width="50%" valign="top">
-<h3>Other Features</h3>
-
 <li><a>ko/case</a>
   <ul>
     <li>acc
@@ -390,6 +506,14 @@ udver: '2'
     </li>
   </ul>
 </li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
 <li><a>ko/form</a>
   <ul>
     <li>adn
@@ -429,6 +553,14 @@ udver: '2'
     </li>
   </ul>
 </li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
 <li><a>ko/formality</a>
   <ul>
     <li>fml
@@ -438,6 +570,14 @@ udver: '2'
     </li>
   </ul>
 </li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
 <li><a>ko/honorific</a>
   <ul>
     <li>hon
@@ -449,6 +589,14 @@ udver: '2'
     </li>
   </ul>
 </li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
 <li><a>ko/mood</a>
   <ul>
     <li>imp
@@ -472,6 +620,14 @@ udver: '2'
     </li>
   </ul>
 </li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
 <li><a>ko/number</a>
   <ul>
     <li>plur
@@ -482,6 +638,14 @@ udver: '2'
     </li>
   </ul>
 </li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
 <li><a>ko/person</a>
   <ul>
     <li>1
@@ -501,6 +665,14 @@ udver: '2'
     </li>
   </ul>
 </li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
 <li><a>ko/proper</a>
   <ul>
     <li>false
@@ -536,6 +708,14 @@ udver: '2'
     </li>
   </ul>
 </li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
 <li><a>ko/tense</a>
   <ul>
     <li>fut
@@ -554,6 +734,14 @@ udver: '2'
     </li>
   </ul>
 </li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
 <li><a>ko/voice</a>
   <ul>
     <li>cau
@@ -575,14 +763,8 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
-<h2>Syntax</h2>
+<h3>Other Features</h3>
 
-<h3>Auxiliary Verbs and Copula</h3>
-
-<ul>
-<li>This corpus does not contain copulas.</li>
-<li>This corpus does not contain auxiliaries.</li>
-</ul>
 
   </td>
   <td width="50%" valign="top">
@@ -592,7 +774,46 @@ udver: '2'
 
 <ul>
 <li>This corpus does not contain copulas.</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<h2>Syntax</h2>
+
+<h3>Auxiliary Verbs and Copula</h3>
+
+<ul>
+<li>This corpus does not contain copulas.</li>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+<ul>
 <li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<ul>
+<li>This corpus does not contain auxiliaries.</li>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+
+Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+<ul>
+  <li><a>nsubj</a>
+    <ul>
+      <li>VERB--NOUN (623)</li>
+      <li>VERB--PRON (118)</li>
+    </ul>
+  </li>
 </ul>
 
   </td>
@@ -614,14 +835,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="50%" valign="top">
-<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
-
-Here we consider only relations between verbs (parent) and nouns or pronouns (child).
 <ul>
-  <li><a>nsubj</a>
+  <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (623)</li>
-      <li>VERB--PRON (118)</li>
     </ul>
   </li>
 </ul>
@@ -643,8 +859,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   </td>
   <td width="50%" valign="top">
 <ul>
-  <li><a>obj</a>
+  <li><a>iobj</a>
     <ul>
+      <li>VERB--NOUN (10)</li>
+      <li>VERB--PRON (2)</li>
     </ul>
   </li>
 </ul>
@@ -664,38 +882,36 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+<h3>Relations Overview</h3>
+
 <ul>
-  <li><a>iobj</a>
-    <ul>
-      <li>VERB--NOUN (10)</li>
-      <li>VERB--PRON (2)</li>
-    </ul>
-  </li>
+<li>This corpus does not use relation subtypes.</li>
+<li>The following 22 relation types are not used in this corpus at all: <a>obj</a>, <a>xcomp</a>, <a>obl</a>, <a>expl</a>, <a>dislocated</a>, <a>cop</a>, <a>mark</a>, <a>nmod</a>, <a>nummod</a>, <a>acl</a>, <a>clf</a>, <a>case</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>punct</a>, <a>root</a></li>
 </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
 
   </td>
 </tr>
@@ -711,12 +927,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="50%" valign="top">
-<h3>Relations Overview</h3>
-
-<ul>
-<li>This corpus does not use relation subtypes.</li>
-<li>The following 22 relation types are not used in this corpus at all: <a>obj</a>, <a>xcomp</a>, <a>obl</a>, <a>expl</a>, <a>dislocated</a>, <a>cop</a>, <a>mark</a>, <a>nmod</a>, <a>nummod</a>, <a>acl</a>, <a>clf</a>, <a>case</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>punct</a>, <a>root</a></li>
-</ul>
 
   </td>
 </tr>

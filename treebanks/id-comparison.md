@@ -19,22 +19,78 @@ udver: '2'
   <td width="50%" valign="top">
 <h2>Tokenization and Word Segmentation</h2>
 
-<ul>
-<li>This corpus contains 5593 sentences and 121923 tokens.</li>
-<li>This corpus contains 16358 tokens (13%) that are not followed by a space.</li>
-<li>This corpus does not contain words with spaces.</li>
-<li>This corpus contains 124 types of words that contain both letters and punctuation. Examples: &amp;, km&amp;sup2, orang-orang, benar-benar, &amp;nbsp, laki-laki, pertanyaan-pertanyaan, Moody's, Rubik's, berlaksa-laksa, diam-diam, hal-hal, hamba-Ku, kata-kata, tanda-tanda, 14&amp;nbsp, 22&amp;nbsp, 36&amp;nbsp, 40&amp;nbsp, 764&amp;nbsp, Anggota-anggota, Aphrodite's, Assisted_GPS, Bird's, Cinta-Dante-Cahaya, Dosen-dosen, GL_ARB_robustness, GL_EXT_robustness, He's, Heaven's, ID&amp;T, It's, Ja's, Jane's, Levy's, Lloyd's, M&amp;D, Nama-Nya, Negara-negara, P&amp;G, PEI-AISAH, Pepper's, Punk's, Rasul-Nya, Robert's, She's, TV's, Tiba-tiba, Valve's, Vol.</li>
-</ul>
 
   </td>
   <td width="50%" valign="top">
 <h2>Tokenization and Word Segmentation</h2>
 
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<ul>
+<li>This corpus contains 5593 sentences and 121923 tokens.</li>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
 <ul>
 <li>This corpus contains 1000 sentences and 25225 tokens.</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<ul>
+<li>This corpus contains 16358 tokens (13%) that are not followed by a space.</li>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+<ul>
 <li>All tokens in this corpus are followed by a space.</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+<ul>
+<li>This corpus does not contain words with spaces.</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<ul>
+<li>This corpus contains 124 types of words that contain both letters and punctuation. Examples: &amp;, km&amp;sup2, orang-orang, benar-benar, &amp;nbsp, laki-laki, p​e​r​t​a​n​y​a​a​n​-​p​e​r​t​a​n​y​a​a​n, Moody's, Rubik's, berlaksa-laksa, diam-diam, hal-hal, hamba-Ku, kata-kata, tanda-tanda, 14&amp;nbsp, 22&amp;nbsp, 36&amp;nbsp, 40&amp;nbsp, 764&amp;nbsp, Anggota-anggota, Aphrodite's, Assisted_GPS, Bird's, Cinta-Dante-Cahaya, Dosen-dosen, GL_ARB_robustness, GL_EXT_robustness, He's, Heaven's, ID&amp;T, It's, Ja's, Jane's, Levy's, Lloyd's, M&amp;D, Nama-Nya, Negara-negara, P&amp;G, PEI-AISAH, Pepper's, Punk's, Rasul-Nya, Robert's, She's, TV's, Tiba-tiba, Valve's, Vol.</li>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+<ul>
 <li>This corpus contains 27 types of words that contain both letters and punctuation. Examples: A.S., Nn., No., St., Tn., B.C., Ms., 'Ya, -agen, A.S, B-29, Didn't, Don't, Hitchhiker's, I., Jr., M.A., Mr., Ny., U.S., Under-Secretary, Z., Zettel’s, al-Jadaan, sampai-sampai, wi-fi, “luar</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<ul>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+<ul>
 </ul>
 
   </td>
@@ -48,7 +104,6 @@ udver: '2'
 <ul>
 <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: INTJ</li>
-<li>This corpus contains 36 word types tagged as particles (PART): Berdasar, Hei, Iye, Jadi, Loh, Tuh, belum, bersorak, bukan, bukankah, bukanlah, bukannya, ga, hai, jangan, kan, keluar, kok, koq, lah, membelinya, non, nya, pun, silakan, tak, tanpa, tercetusnya, terkejutnya, tiada, tidak, tidakkah, tidaklah, tidaknya, ya, yang</li>
 </ul>
 
   </td>
@@ -60,6 +115,19 @@ udver: '2'
 <ul>
 <li>This corpus uses 13 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AFFIX</a>, <a>CONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PRT</a>, <a>PUNCT</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: PROPN, AUX, SCONJ, CCONJ, PART, INTJ, SYM</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<ul>
+<li>This corpus contains 36 word types tagged as particles (PART): Berdasar, Hei, Iye, Jadi, Loh, Tuh, belum, bersorak, bukan, bukankah, bukanlah, bukannya, ga, hai, jangan, kan, keluar, kok, koq, lah, membelinya, non, nya, pun, silakan, tak, tanpa, tercetusnya, terkejutnya, tiada, tidak, tidakkah, tidaklah, tidaknya, ya, yang</li>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+<ul>
 </ul>
 
   </td>
@@ -151,7 +219,25 @@ udver: '2'
   <td width="50%" valign="top">
 <h3>Nominal Features</h3>
 
+
+  </td>
+  <td width="50%" valign="top">
+<h3>Nominal Features</h3>
+
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <li><a>Gender</a>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
   <ul>
     <li>Fem
       <ul>
@@ -159,6 +245,16 @@ udver: '2'
         <li>PROPN: Indrawati, Selawati</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
     <li>Masc
       <ul>
         <li>ADJ: dermawan</li>
@@ -167,12 +263,20 @@ udver: '2'
       </ul>
     </li>
   </ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
 </li>
 
   </td>
   <td width="50%" valign="top">
-<h3>Nominal Features</h3>
-
 
   </td>
 </tr>
@@ -187,17 +291,35 @@ udver: '2'
 <tr>
   <td width="50%" valign="top">
 <li><a>Number</a>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
   <ul>
     <li>Plur
       <ul>
         <li>ADJ: laki-laki, cuma-cuma, diam-diam</li>
         <li>ADV: mati-matian, bersama-sama, betul-betul, diam-diam</li>
-        <li>NOUN: orang-orang, pertanyaan-pertanyaan, hal-hal, kata-kata, tanda-tanda, Anggota-anggota, Dosen-dosen, anjing-anjing, badan-badan, batu-batu</li>
+        <li>NOUN: orang-orang, p​e​r​t​a​n​y​a​a​n​-​p​e​r​t​a​n​y​a​a​n, hal-hal, kata-kata, tanda-tanda, Anggota-anggota, Dosen-dosen, anjing-anjing, badan-badan, batu-batu</li>
         <li>PRON: mereka, kita, kami, kalian, anak-anakmu, kamilah, merekapun</li>
         <li>PROPN: Negara-negara</li>
         <li>VERB: berlaksa-laksa, orang-orang, berdua-duaan</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: lain, besar, awal, baru, sama, kecil, utama, tinggi, baik, sendiri</li>
@@ -219,6 +341,16 @@ udver: '2'
       </ul>
     </li>
   </ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
 </li>
 
   </td>
@@ -239,6 +371,8 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+<h3>Degree and Polarity</h3>
+
 
   </td>
 </tr>
@@ -254,7 +388,23 @@ udver: '2'
   <td width="50%" valign="top">
 <h3>Degree and Polarity</h3>
 
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <li><a>Degree</a>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
   <ul>
     <li>Pos
       <ul>
@@ -275,6 +425,16 @@ udver: '2'
         <li>X: anti</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
     <li>Sup
       <ul>
         <li>ADJ: terbesar, terakhir, tertinggi, terbaik, terdekat, tertua, terbanyak, terpenting, tersendiri, terakhirnya</li>
@@ -287,11 +447,21 @@ udver: '2'
       </ul>
     </li>
   </ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
 </li>
 
   </td>
   <td width="50%" valign="top">
-<h3>Degree and Polarity</h3>
+<h3>Verbal Features</h3>
 
 
   </td>
@@ -299,6 +469,14 @@ udver: '2'
 <tr>
   <td width="50%" valign="top">
 <li><a>Polarity</a>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
   <ul>
     <li>Neg
       <ul>
@@ -309,6 +487,16 @@ udver: '2'
         <li>PROPN: Tak, t, tidak</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
   </ul>
 </li>
 
@@ -332,8 +520,6 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-<h3>Verbal Features</h3>
-
 
   </td>
 </tr>
@@ -342,6 +528,16 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+<h3>Pronouns, Determiners, Quantifiers</h3>
+
 
   </td>
 </tr>
@@ -356,6 +552,14 @@ udver: '2'
 <tr>
   <td width="50%" valign="top">
 <li><a>Voice</a>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
   <ul>
     <li>Act
       <ul>
@@ -373,6 +577,16 @@ udver: '2'
         <li>VERB: menjadi, memiliki, berada, menggunakan, membuat, bermain, mulai, kembali, berasal, mempunyai</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
     <li>Pass
       <ul>
         <li>ADJ: terkenal, terpisah, terbalik, tercinta, terkemuka, ternama, dibakar, didaerah, dijahit, dipecah</li>
@@ -386,6 +600,16 @@ udver: '2'
       </ul>
     </li>
   </ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
 </li>
 
   </td>
@@ -405,7 +629,23 @@ udver: '2'
   <td width="50%" valign="top">
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <li><a>PronType</a>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
   <ul>
     <li>Dem
       <ul>
@@ -417,6 +657,16 @@ udver: '2'
         <li>VERB: Tersebutlah</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
     <li>Ind
       <ul>
         <li>ADP: Berbagai</li>
@@ -426,6 +676,16 @@ udver: '2'
         <li>VERB: adanya</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
     <li>Int
       <ul>
         <li>ADP: dimana, bagaimana, mana, apakah</li>
@@ -437,17 +697,47 @@ udver: '2'
         <li>VERB: apa</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
     <li>Prs
       <ul>
         <li>PRON: ia, mereka, kita, dia, kamu, engkau, aku, kami, beliau, saya</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
     <li>Rel
       <ul>
         <li>DET: kemudian, sementara, demikian, jadi, maka, sehubungan</li>
         <li>PRON: yang, saat, bahwa, jadi, berkat, ketika, yg, agar, Bila, Demikian</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
     <li>Tot
       <ul>
         <li>ADV: semua, segalanya</li>
@@ -456,18 +746,34 @@ udver: '2'
       </ul>
     </li>
   </ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
 </li>
 
   </td>
   <td width="50%" valign="top">
-<h3>Pronouns, Determiners, Quantifiers</h3>
-
 
   </td>
 </tr>
 <tr>
   <td width="50%" valign="top">
 <li><a>NumType</a>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
   <ul>
     <li>Card
       <ul>
@@ -478,10 +784,22 @@ udver: '2'
       </ul>
     </li>
   </ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
 </li>
 
   </td>
   <td width="50%" valign="top">
+<h3>Other Features</h3>
+
 
   </td>
 </tr>
@@ -490,6 +808,20 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+<li><a>id/mood</a>
+  <ul>
+    <li>imp
+      <ul>
+        <li>AFFIX: kan</li>
+      </ul>
+    </li>
+    <li>inter
+      <ul>
+        <li>PRT: kah, kan</li>
+      </ul>
+    </li>
+  </ul>
+</li>
 
   </td>
 </tr>
@@ -498,12 +830,129 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
+<li><a>id/number</a>
+  <ul>
+    <li>plur
+      <ul>
+        <li>AFFIX: an</li>
+        <li>NOUN: orang, tahun, negara, anak, batas, bagi, batu, bulan, kota, puing</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>id/proper</a>
+  <ul>
+    <li>false
+      <ul>
+        <li>ADJ: besar, banyak, lain, baru, sama, baik, pertama, biasa, nyata, penting</li>
+        <li>ADP: yang, di, untuk, pada, dengan, dari, dalam, ke, oleh, sebagai</li>
+        <li>ADV: tidak, telah, akan, lebih, juga, bisa, sangat, mungkin, sudah, hanya</li>
+        <li>AFFIX: an, kan, me, ber, ke, i, pe, se, ter, per</li>
+        <li>CONJ: dan, namun, tapi, atau, serta, sementara, baik, maupun, sedangkan, jadi</li>
+        <li>DET: ini, itu, nya, para, beberapa, semua, seluruh, setiap, masing, sang</li>
+        <li>NOUN: tahun, orang, bagi, buah, bulan, akhir, milik, hari, negara, guna</li>
+        <li>NUM: dua, satu, tiga, juta, empat, 1, 10, 3, miliar, puluh</li>
+        <li>PRON: nya, yang, ia, mereka, saya, ini, itu, apa, kami, dia</li>
+        <li>PRT: pun, lah, kah, kan</li>
+        <li>PUNCT: ,, ., -, “, ”, (, ), :, ;, '</li>
+        <li>VERB: adalah, ada, jadi, sebut, buat, dapat, beri, main, jalan, kitar</li>
+        <li>X: %, £, $, baru, kali, hati, rata, benar, kira, sama</li>
+      </ul>
+    </li>
+    <li>true
+      <ul>
+        <li>ADJ: Great, New, Raya, American, Hitam, International, Modern, Nasional, National, Tinggi</li>
+        <li>ADP: of, If, Over, for, in, saat, to</li>
+        <li>ADV: Really, Anyway, Didn't, Don't</li>
+        <li>AFFIX: an, Ke, Per, Peng, pe, Multi, pen</li>
+        <li>CONJ: and</li>
+        <li>DET: the, a, Ini, That, sang, suatu</li>
+        <li>NOUN: Amerika, Inggris, eropa, Tiongkok, Laut, Prancis, Yunani, Australia, Jerman, Roma</li>
+        <li>NUM: I, III, IV, Puluh, Tiga, 1858, 1860, 200, 2008, 330</li>
+        <li>PRON: My, You, 'Ya, Her, Kita</li>
+        <li>PUNCT: -, ,</li>
+        <li>VERB: Breaking, Buck, Go, Knew, Knuck, Like, Love, Pasuk, Select, Thought</li>
+        <li>X: Angeles, Casa, Die, El, Fjögur, La, Los, Mare, Metti, Mundo</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>id/voice</a>
+  <ul>
+    <li>pass
+      <ul>
+        <li>AFFIX: di, diper, dipe</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+<h2>Syntax</h2>
+
+<h3>Auxiliary Verbs and Copula</h3>
+
+<ul>
+<li>This corpus does not contain copulas.</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+<ul>
+<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
+</ul>
 
   </td>
 </tr>
 <tr>
   <td width="50%" valign="top">
 <li><a>Person</a>
+
+  </td>
+  <td width="50%" valign="top">
+<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+
+Here we consider only relations between verbs (parent) and nouns or pronouns (child).
+<ul>
+  <li><a>nsubj</a>
+    <ul>
+      <li>VERB--NOUN (502)</li>
+      <li>VERB--PRON (189)</li>
+    </ul>
+  </li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
   <ul>
     <li>1
       <ul>
@@ -512,19 +961,7 @@ udver: '2'
         <li>VERB: kukatakan, Kubebaskankah, Kutebuskah, kudengar</li>
       </ul>
     </li>
-    <li>2
-      <ul>
-        <li>PRON: kamu, engkau, anda, kalian, kau</li>
-        <li>VERB: kaukatakan</li>
-      </ul>
-    </li>
-    <li>3
-      <ul>
-        <li>PRON: ia, mereka, dia, beliau, Nya, merekapun</li>
-      </ul>
-    </li>
   </ul>
-</li>
 
   </td>
   <td width="50%" valign="top">
@@ -533,18 +970,101 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+  <ul>
+    <li>2
+      <ul>
+        <li>PRON: kamu, engkau, anda, kalian, kau</li>
+        <li>VERB: kaukatakan</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>3
+      <ul>
+        <li>PRON: ia, mereka, dia, beliau, Nya, merekapun</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="50%" valign="top">
+<ul>
+  <li><a>obj</a>
+    <ul>
+    </ul>
+  </li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <li><a>Polite</a>
+
+  </td>
+  <td width="50%" valign="top">
+<ul>
+  <li><a>iobj</a>
+    <ul>
+      <li>VERB--PRON (5)</li>
+    </ul>
+  </li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
   <ul>
     <li>Form
       <ul>
         <li>PRON: beliau, saya, anda</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
     <li>Infm
       <ul>
         <li>PRON: kamu, engkau, aku</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
   </ul>
 </li>
 
@@ -564,6 +1084,14 @@ udver: '2'
 <tr>
   <td width="50%" valign="top">
 <li><a>Number[psor]</a>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
   <ul>
     <li>Sing
       <ul>
@@ -582,7 +1110,6 @@ udver: '2'
       </ul>
     </li>
   </ul>
-</li>
 
   </td>
   <td width="50%" valign="top">
@@ -591,8 +1118,33 @@ udver: '2'
 </tr>
 <tr>
   <td width="50%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="50%" valign="top">
+<h3>Relations Overview</h3>
+
+<ul>
+<li>This corpus does not use relation subtypes.</li>
+<li>The following 17 relation types are not used in this corpus at all: <a>obj</a>, <a>obl</a>, <a>expl</a>, <a>cop</a>, <a>nmod</a>, <a>nummod</a>, <a>acl</a>, <a>clf</a>, <a>case</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>reparandum</a>, <a>punct</a>, <a>root</a></li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <h3>Other Features</h3>
 
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <li><a>Clusivity</a>
   <ul>
     <li>Ex
@@ -607,6 +1159,14 @@ udver: '2'
     </li>
   </ul>
 </li>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <li><a>Person[psor]</a>
   <ul>
     <li>1
@@ -649,78 +1209,6 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-<h3>Other Features</h3>
-
-<li><a>id/mood</a>
-  <ul>
-    <li>imp
-      <ul>
-        <li>AFFIX: kan</li>
-      </ul>
-    </li>
-    <li>inter
-      <ul>
-        <li>PRT: kah, kan</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-<li><a>id/number</a>
-  <ul>
-    <li>plur
-      <ul>
-        <li>AFFIX: an</li>
-        <li>NOUN: orang, tahun, negara, anak, batas, bagi, batu, bulan, kota, puing</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-<li><a>id/proper</a>
-  <ul>
-    <li>false
-      <ul>
-        <li>ADJ: besar, banyak, lain, baru, sama, baik, pertama, biasa, nyata, penting</li>
-        <li>ADP: yang, di, untuk, pada, dengan, dari, dalam, ke, oleh, sebagai</li>
-        <li>ADV: tidak, telah, akan, lebih, juga, bisa, sangat, mungkin, sudah, hanya</li>
-        <li>AFFIX: an, kan, me, ber, ke, i, pe, se, ter, per</li>
-        <li>CONJ: dan, namun, tapi, atau, serta, sementara, baik, maupun, sedangkan, jadi</li>
-        <li>DET: ini, itu, nya, para, beberapa, semua, seluruh, setiap, masing, sang</li>
-        <li>NOUN: tahun, orang, bagi, buah, bulan, akhir, milik, hari, negara, guna</li>
-        <li>NUM: dua, satu, tiga, juta, empat, 1, 10, 3, miliar, puluh</li>
-        <li>PRON: nya, yang, ia, mereka, saya, ini, itu, apa, kami, dia</li>
-        <li>PRT: pun, lah, kah, kan</li>
-        <li>PUNCT: ,, ., -, “, ”, (, ), :, ;, '</li>
-        <li>VERB: adalah, ada, jadi, sebut, buat, dapat, beri, main, jalan, kitar</li>
-        <li>X: %, £, $, baru, kali, hati, rata, benar, kira, sama</li>
-      </ul>
-    </li>
-    <li>true
-      <ul>
-        <li>ADJ: Great, New, Raya, American, Hitam, International, Modern, Nasional, National, Tinggi</li>
-        <li>ADP: of, If, Over, for, in, saat, to</li>
-        <li>ADV: Really, Anyway, Didn't, Don't</li>
-        <li>AFFIX: an, Ke, Per, Peng, pe, Multi, pen</li>
-        <li>CONJ: and</li>
-        <li>DET: the, a, Ini, That, sang, suatu</li>
-        <li>NOUN: Amerika, Inggris, eropa, Tiongkok, Laut, Prancis, Yunani, Australia, Jerman, Roma</li>
-        <li>NUM: I, III, IV, Puluh, Tiga, 1858, 1860, 200, 2008, 330</li>
-        <li>PRON: My, You, 'Ya, Her, Kita</li>
-        <li>PUNCT: -, ,</li>
-        <li>VERB: Breaking, Buck, Go, Knew, Knuck, Like, Love, Pasuk, Select, Thought</li>
-        <li>X: Angeles, Casa, Die, El, Fjögur, La, Los, Mare, Metti, Mundo</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-<li><a>id/voice</a>
-  <ul>
-    <li>pass
-      <ul>
-        <li>AFFIX: di, diper, dipe</li>
-      </ul>
-    </li>
-  </ul>
-</li>
 
   </td>
 </tr>
@@ -732,19 +1220,21 @@ udver: '2'
 
 <ul>
 <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: adalah, ialah.</li>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<ul>
 <li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: dapat, harus, terpaksa.</li>
 </ul>
 
   </td>
   <td width="50%" valign="top">
-<h2>Syntax</h2>
-
-<h3>Auxiliary Verbs and Copula</h3>
-
-<ul>
-<li>This corpus does not contain copulas.</li>
-<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
-</ul>
 
   </td>
 </tr>
@@ -769,17 +1259,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="50%" valign="top">
-<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
-
-Here we consider only relations between verbs (parent) and nouns or pronouns (child).
-<ul>
-  <li><a>nsubj</a>
-    <ul>
-      <li>VERB--NOUN (502)</li>
-      <li>VERB--PRON (189)</li>
-    </ul>
-  </li>
-</ul>
 
   </td>
 </tr>
@@ -815,12 +1294,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="50%" valign="top">
-<ul>
-  <li><a>obj</a>
-    <ul>
-    </ul>
-  </li>
-</ul>
 
   </td>
 </tr>
@@ -837,13 +1310,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="50%" valign="top">
-<ul>
-  <li><a>iobj</a>
-    <ul>
-      <li>VERB--PRON (5)</li>
-    </ul>
-  </li>
-</ul>
 
   </td>
 </tr>
@@ -882,12 +1348,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
   </td>
   <td width="50%" valign="top">
-<h3>Relations Overview</h3>
-
-<ul>
-<li>This corpus does not use relation subtypes.</li>
-<li>The following 17 relation types are not used in this corpus at all: <a>obj</a>, <a>obl</a>, <a>expl</a>, <a>cop</a>, <a>nmod</a>, <a>nummod</a>, <a>acl</a>, <a>clf</a>, <a>case</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>reparandum</a>, <a>punct</a>, <a>root</a></li>
-</ul>
 
   </td>
 </tr>

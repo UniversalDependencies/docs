@@ -19,22 +19,78 @@ udver: '2'
   <td width="50%" valign="top">
 <h2>Tokenization and Word Segmentation</h2>
 
-<ul>
-<li>This corpus contains 13583 sentences and 208633 tokens.</li>
-<li>This corpus contains 21728 tokens (10%) that are not followed by a space.</li>
-<li>This corpus does not contain words with spaces.</li>
-<li>This corpus contains 1464 types of words that contain both letters and punctuation. Examples: J., mr., dr., zo'n, 't, H., a., 's, C., W., M., drs., B., prof., G., p., pct., d., R., 'n, F., L., o.a., K., Zuid-Afrika, T., z'n, v., S., auto's, jl., n.v., E., ir., Sovjet-Unie, St., West-Duitsland, o.m., Noord-Korea, mln., D'66, a.s., binnen-, m'n, mevr., Mina's, Oost-Berlijn, directeur-generaal, ds., etc.</li>
-</ul>
 
   </td>
   <td width="50%" valign="top">
 <h2>Tokenization and Word Segmentation</h2>
 
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<ul>
+<li>This corpus contains 13583 sentences and 208633 tokens.</li>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
 <ul>
 <li>This corpus contains 7641 sentences and 101873 tokens.</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<ul>
+<li>This corpus contains 21728 tokens (10%) that are not followed by a space.</li>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+<ul>
 <li>This corpus contains 14218 tokens (14%) that are not followed by a space.</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<ul>
 <li>This corpus does not contain words with spaces.</li>
-<li>This corpus contains 971 types of words that contain both letters and punctuation. Examples: Sint-Niklaas, CD&V, sp.a, N-VA, Vlaams-Brabant, Henin-Hardenne, o.a., ca., 't, kabinet-Van, Oost-Vlaanderen, West-Vlaanderen, Parijs-Roubaix, Waals-Brabant, zo'n, kabinet-Kok, Oostenrijk-Este, minister-president, mr., nr., v.Chr., Brussel-Halle-Vilvoorde, Saksen-Coburg-Gotha, links-liberale, programma's, Nieuw-Vlaamse, Pandy's, Vlaams-nationalistische, vice-premier, 's, kabinet-Balkenende, kabinet-Den, Evangelist/Apostel, F.C., I-City, Jean-Marie, Noord-Brabant, Vandersteen's, Vlaams-Nationaal, rooms-katholieke, thema's, Christen-Democratisch, Jean-Luc, Noord-Frankrijk, Sint-Katelijne-Waver, WTA-toernooi, a., auto's, b., e.</li>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+<ul>
+<li>This corpus does not contain words with spaces.</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<ul>
+<li>This corpus contains 1464 types of words that contain both letters and punctuation. Examples: J., mr., dr., zo'n, 't, H., a., 's, C., W., M., drs., B., prof., G., p., pct., d., R., 'n, F., L., o.a., K., Zuid-Afrika, T., z'n, v., S., auto's, jl., n.v., E., ir., Sovjet-Unie, St., West-Duitsland, o.m., Noord-Korea, mln., D'66, a.s., binnen-, m'n, mevr., Mina's, Oost-Berlijn, directeur-generaal, ds., etc.</li>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+<ul>
+<li>This corpus contains 971 types of words that contain both letters and punctuation. Examples: Sint-Niklaas, CD&V, sp.a, N-VA, Vlaams-Brabant, Henin-Hardenne, o.a., ca., 't, kabinet-Van, Oost-Vlaanderen, West-Vlaanderen, Parijs-Roubaix, Waals-Brabant, zo'n, kabinet-Kok, Oostenrijk-Este, minister-president, mr., nr., v.Chr., B​r​u​s​s​e​l​-​H​a​l​l​e​-​V​i​l​v​o​o​r​d​e, Saksen-Coburg-Gotha, links-liberale, programma's, Nieuw-Vlaamse, Pandy's, V​l​a​a​m​s​-​n​a​t​i​o​n​a​l​i​s​t​i​s​c​h​e, vice-premier, 's, kabinet-Balkenende, kabinet-Den, Evangelist/Apostel, F.C., I-City, Jean-Marie, Noord-Brabant, Vandersteen's, Vlaams-Nationaal, rooms-katholieke, thema's, C​h​r​i​s​t​e​n​-​D​e​m​o​c​r​a​t​i​s​c​h, Jean-Luc, Noord-Frankrijk, Sint-Katelijne-Waver, WTA-toernooi, a., auto's, b., e.</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<ul>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+<ul>
 </ul>
 
   </td>
@@ -59,6 +115,18 @@ udver: '2'
 <ul>
 <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: PART</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<ul>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+<ul>
 </ul>
 
   </td>
@@ -136,7 +204,19 @@ udver: '2'
 <tr>
   <td width="50%" valign="top">
 <ul>
-<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+<ul>
+<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <ul>
   <li>Fin
   <ul>
@@ -144,26 +224,10 @@ udver: '2'
     <li>VERB: moet, heeft, komt, is, zei, noemt, hebben, zijn, kwam, ligt</li>
   </ul>
   </li>
-  <li>Inf
-  <ul>
-    <li>AUX: worden, zijn, kunnen, hebben, gaan, willen, laten, blijven, zullen, mogen</li>
-    <li>VERB: komen, moeten, maken, zien, doen, gaan, nemen, zeggen, geven, hebben</li>
-  </ul>
-  </li>
-  <li>Part
-  <ul>
-    <li>AUX: geweest, geworden, gegaan, gebleven, geraakt, gekomen, gebleken, gemaakt, gevonden, liggende</li>
-    <li>VERB: gemaakt, gehouden, genoemd, genomen, gedaan, afgelopen, gegeven, gekomen, gezien, gesteld</li>
-  </ul>
-  </li>
-</ul>
-</li>
 </ul>
 
   </td>
   <td width="50%" valign="top">
-<ul>
-<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
 <ul>
   <li>Fin
   <ul>
@@ -171,20 +235,54 @@ udver: '2'
     <li>VERB: zie, heeft, is, kwam, zijn, komt, telt, wint, was, kreeg</li>
   </ul>
   </li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<ul>
+  <li>Inf
+  <ul>
+    <li>AUX: worden, zijn, kunnen, hebben, gaan, willen, laten, blijven, zullen, mogen</li>
+    <li>VERB: komen, moeten, maken, zien, doen, gaan, nemen, zeggen, geven, hebben</li>
+  </ul>
+  </li>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+<ul>
   <li>Inf
   <ul>
     <li>AUX: worden, zijn, laten, kunnen, hebben, gaan, blijven, stellen, fungeren, gelden</li>
     <li>VERB: maken, tekenen, geven, houden, zien, bestaan, hebben, nemen, gaan, komen</li>
   </ul>
   </li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<ul>
+  <li>Part
+  <ul>
+    <li>AUX: geweest, geworden, gegaan, gebleven, geraakt, gekomen, gebleken, gemaakt, gevonden, liggende</li>
+    <li>VERB: gemaakt, gehouden, genoemd, genomen, gedaan, afgelopen, gegeven, gekomen, gezien, gesteld</li>
+  </ul>
+  </li>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+<ul>
   <li>Part
   <ul>
     <li>AUX: geworden, geweest, genoemd, zijnde, gebleven, beschouwd, gaande, gegaan, gegane, geheten</li>
     <li>VERB: genoemd, volgende, opgericht, gemaakt, gebruikt, gelegen, gekozen, verkozen, gevestigd, bestaande</li>
   </ul>
   </li>
-</ul>
-</li>
 </ul>
 
   </td>
@@ -193,7 +291,26 @@ udver: '2'
   <td width="50%" valign="top">
 <h3>Nominal Features</h3>
 
+
+  </td>
+  <td width="50%" valign="top">
+<h3>Nominal Features</h3>
+
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <li><a>Gender</a>
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>Gender</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
   <ul>
     <li>Com
       <ul>
@@ -201,26 +318,10 @@ udver: '2'
         <li>PROPN: zaterdag, januari, zondag, JGZ, Robbert, mei, juli, september, vrijdag, april</li>
       </ul>
     </li>
-    <li>Com,Neut
-      <ul>
-        <li>NOUN: soort, boord, keer, paar, subsidie, opium, punt, accordeon, affiche, animo</li>
-        <li>PROPN: Holthaus, WK, Bijlmerbetonmeer, Enkelaar, Enusa, Europe, Gezant, Hoch, Hoornik, Kvp</li>
-      </ul>
-    </li>
-    <li>Neut
-      <ul>
-        <li>NOUN: jaar, land, uur, aantal, deel, procent, huis, miljoen, werk, leven</li>
-        <li>PROPN: Nederland, Amsterdam, Groningen, Rotterdam, Europa, Engeland, Aduard, Frankrijk, Utrecht, Ajax</li>
-      </ul>
-    </li>
   </ul>
-</li>
 
   </td>
   <td width="50%" valign="top">
-<h3>Nominal Features</h3>
-
-<li><a>Gender</a>
   <ul>
     <li>Com
       <ul>
@@ -228,18 +329,67 @@ udver: '2'
         <li>PROPN: Wiske, Suske, oktober, Ensor, juni, Vandersteen, VLD, Boudewijn, Kuifje, CVP</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Com,Neut
+      <ul>
+        <li>NOUN: soort, boord, keer, paar, subsidie, opium, punt, accordeon, affiche, animo</li>
+        <li>PROPN: Holthaus, WK, Bijlmerbetonmeer, Enkelaar, Enusa, Europe, Gezant, Hoch, Hoornik, Kvp</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
     <li>Com,Neut
       <ul>
         <li>NOUN: keer, soort, mout, Salon, cement, katoen, natuursteen, tin</li>
         <li>PROPN: Spirit, Giroux, Vivant, Andras, Bouckaert, Brouckère, Dekeyser, Den, Flickr, Marine</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Neut
+      <ul>
+        <li>NOUN: jaar, land, uur, aantal, deel, procent, huis, miljoen, werk, leven</li>
+        <li>PROPN: Nederland, Amsterdam, Groningen, Rotterdam, Europa, Engeland, Aduard, Frankrijk, Utrecht, Ajax</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
     <li>Neut
       <ul>
         <li>NOUN: jaar, gewest, deel, aantal, museum, parlement, werk, begin, land, centrum</li>
         <li>PROPN: België, Brussel, Vlaanderen, Antwerpen, Hasselt, Nederland, Limburg, Luik, Europa, Gent</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
   </ul>
 </li>
 
@@ -256,6 +406,15 @@ udver: '2'
 <tr>
   <td width="50%" valign="top">
 <li><a>Number</a>
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>Number</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
   <ul>
     <li>Plur
       <ul>
@@ -265,20 +424,10 @@ udver: '2'
         <li>VERB-Fin: hebben, zijn, moeten, komen, gaan, kwamen, hadden, krijgen, moesten, konden</li>
       </ul>
     </li>
-    <li>Sing
-      <ul>
-        <li>AUX-Fin: is, was, heeft, werd, wordt, zal, zou, kan, heet, had</li>
-        <li>NOUN: jaar, land, heer, plaats, tijd, minister, flo, uur, stad, man</li>
-        <li>PROPN: Nederland, Amsterdam, zaterdag, Groningen, Rotterdam, Europa, Engeland, januari, zondag, JGZ</li>
-        <li>VERB-Fin: moet, heeft, komt, is, zei, noemt, kwam, ligt, staat, gaat</li>
-      </ul>
-    </li>
   </ul>
-</li>
 
   </td>
   <td width="50%" valign="top">
-<li><a>Number</a>
   <ul>
     <li>Plur
       <ul>
@@ -288,6 +437,26 @@ udver: '2'
         <li>VERB-Fin: zijn, hebben, kwamen, staan, verschenen, vormen, hadden, komen, bestaan, kregen</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Sing
+      <ul>
+        <li>AUX-Fin: is, was, heeft, werd, wordt, zal, zou, kan, heet, had</li>
+        <li>NOUN: jaar, land, heer, plaats, tijd, minister, flo, uur, stad, man</li>
+        <li>PROPN: Nederland, Amsterdam, zaterdag, Groningen, Rotterdam, Europa, Engeland, januari, zondag, JGZ</li>
+        <li>VERB-Fin: moet, heeft, komt, is, zei, noemt, kwam, ligt, staat, gaat</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
     <li>Sing
       <ul>
         <li>AUX-Fin: is, werd, was, wordt, zou, kan, had, heeft, kon, zal</li>
@@ -297,6 +466,19 @@ udver: '2'
       </ul>
     </li>
   </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
 </li>
 
   </td>
@@ -304,45 +486,97 @@ udver: '2'
 <tr>
   <td width="50%" valign="top">
 <li><a>Case</a>
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>Case</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
   <ul>
     <li>Acc
       <ul>
         <li>PRON: zich, hem, me, ons, mij, elkaar, haar, hen, je, zichzelf</li>
       </ul>
     </li>
-    <li>Dat
-      <ul>
-        <li>PRON: dien, dezen</li>
-      </ul>
-    </li>
-    <li>Gen
-      <ul>
-        <li>PRON: beider, uwer, zijner</li>
-      </ul>
-    </li>
-    <li>Nom
-      <ul>
-        <li>PRON: hij, ik, we, men, je, zij, wij, u, jij, ie</li>
-      </ul>
-    </li>
   </ul>
-</li>
 
   </td>
   <td width="50%" valign="top">
-<li><a>Case</a>
   <ul>
     <li>Acc
       <ul>
         <li>PRON: zich, hem, elkaar, hen, haar, zichzelf, ons, je, mij, hemzelf</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Dat
+      <ul>
+        <li>PRON: dien, dezen</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Gen
+      <ul>
+        <li>PRON: beider, uwer, zijner</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Nom
+      <ul>
+        <li>PRON: hij, ik, we, men, je, zij, wij, u, jij, ie</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
     <li>Nom
       <ul>
         <li>PRON: hij, zij, men, ik, je, we, wij, u, jij, Zijzelf</li>
       </ul>
     </li>
   </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
 </li>
 
   </td>
@@ -358,35 +592,67 @@ udver: '2'
 <tr>
   <td width="50%" valign="top">
 <li><a>Definite</a>
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>Definite</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
   <ul>
     <li>Def
       <ul>
         <li>DET: de, het, der, 's, 't, den, des, dé</li>
       </ul>
     </li>
-    <li>Ind
-      <ul>
-        <li>DET: een, 'n, en</li>
-      </ul>
-    </li>
   </ul>
-</li>
 
   </td>
   <td width="50%" valign="top">
-<li><a>Definite</a>
   <ul>
     <li>Def
       <ul>
         <li>DET: de, het, der, 's, 't, des, dé</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Ind
+      <ul>
+        <li>DET: een, 'n, en</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
     <li>Ind
       <ul>
         <li>DET: een</li>
       </ul>
     </li>
   </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
 </li>
 
   </td>
@@ -395,47 +661,99 @@ udver: '2'
   <td width="50%" valign="top">
 <h3>Degree and Polarity</h3>
 
+
+  </td>
+  <td width="50%" valign="top">
+<h3>Degree and Polarity</h3>
+
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <li><a>Degree</a>
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>Degree</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
   <ul>
     <li>Cmp
       <ul>
         <li>ADJ: verder, beter, later, jongeren, langer, groter, grotere, hoger, vroeger, vroegere</li>
       </ul>
     </li>
-    <li>Pos
-      <ul>
-        <li>ADJ: nieuwe, grote, andere, Nederlandse, goed, heel, groot, goede, Amerikaanse, eigen</li>
-      </ul>
-    </li>
-    <li>Sup
-      <ul>
-        <li>ADJ: laatste, grootste, beste, belangrijkste, hoogste, best, hoogst, jongste, voornaamste, oudste</li>
-      </ul>
-    </li>
   </ul>
-</li>
 
   </td>
   <td width="50%" valign="top">
-<h3>Degree and Polarity</h3>
-
-<li><a>Degree</a>
   <ul>
     <li>Cmp
       <ul>
         <li>ADJ: later, verder, beter, hogere, vroegere, jongeren, latere, oudere, verdere, vroeger</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Pos
+      <ul>
+        <li>ADJ: nieuwe, grote, andere, Nederlandse, goed, heel, groot, goede, Amerikaanse, eigen</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
     <li>Pos
       <ul>
         <li>ADJ: Vlaamse, belgische, andere, grote, nieuwe, externe, Vlaams, Franse, eigen, federale</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Sup
+      <ul>
+        <li>ADJ: laatste, grootste, beste, belangrijkste, hoogste, best, hoogst, jongste, voornaamste, oudste</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
     <li>Sup
       <ul>
         <li>ADJ: grootste, laatste, belangrijkste, hoogste, oudste, beste, bekendste, voornaamste, best, kleinste</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
   </ul>
 </li>
 
@@ -466,6 +784,14 @@ udver: '2'
   <td width="50%" valign="top">
 <h3>Verbal Features</h3>
 
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
 
   </td>
 </tr>
@@ -480,6 +806,15 @@ udver: '2'
 <tr>
   <td width="50%" valign="top">
 <li><a>Tense</a>
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>Tense</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
   <ul>
     <li>Past
       <ul>
@@ -487,18 +822,10 @@ udver: '2'
         <li>VERB-Fin: zei, kwam, had, was, moest, vond, kreeg, vroeg, won, maakte</li>
       </ul>
     </li>
-    <li>Pres
-      <ul>
-        <li>AUX-Fin: is, heeft, wordt, zijn, zal, kan, hebben, heet, heb, worden</li>
-        <li>VERB-Fin: moet, heeft, komt, is, noemt, hebben, zijn, ligt, staat, gaat</li>
-      </ul>
-    </li>
   </ul>
-</li>
 
   </td>
   <td width="50%" valign="top">
-<li><a>Tense</a>
   <ul>
     <li>Past
       <ul>
@@ -506,6 +833,24 @@ udver: '2'
         <li>VERB-Fin: kwam, was, kreeg, ontstond, had, moest, nam, maakte, ging, bleef</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Pres
+      <ul>
+        <li>AUX-Fin: is, heeft, wordt, zijn, zal, kan, hebben, heet, heb, worden</li>
+        <li>VERB-Fin: moet, heeft, komt, is, noemt, hebben, zijn, ligt, staat, gaat</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
     <li>Pres
       <ul>
         <li>AUX-Fin: is, wordt, zijn, worden, kan, heeft, hebben, zal, kunnen, staat</li>
@@ -513,6 +858,19 @@ udver: '2'
       </ul>
     </li>
   </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
 </li>
 
   </td>
@@ -537,78 +895,166 @@ udver: '2'
   <td width="50%" valign="top">
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
+  </td>
+  <td width="50%" valign="top">
+<h3>Pronouns, Determiners, Quantifiers</h3>
+
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <li><a>PronType</a>
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>PronType</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
   <ul>
     <li>Dem
       <ul>
         <li>PRON: dat, dit, die, deze, zo'n, degenen, datgene, degene, zulke, dien</li>
       </ul>
     </li>
-    <li>Ind
-      <ul>
-        <li>PRON: meer, veel, minder, weinig, iets, vele, niets, wat, meest, alles</li>
-      </ul>
-    </li>
-    <li>Int
-      <ul>
-        <li>PRON: wat, wie, welke, welk</li>
-      </ul>
-    </li>
-    <li>Prs
-      <ul>
-        <li>PRON: hij, ik, het, zijn, zich, ze, we, je, men, hun</li>
-      </ul>
-    </li>
-    <li>Rcp
-      <ul>
-        <li>PRON: elkaar</li>
-      </ul>
-    </li>
-    <li>Rel
-      <ul>
-        <li>PRON: die, dat, hetgeen, hetgene</li>
-      </ul>
-    </li>
   </ul>
-</li>
 
   </td>
   <td width="50%" valign="top">
-<h3>Pronouns, Determiners, Quantifiers</h3>
-
-<li><a>PronType</a>
   <ul>
     <li>Dem
       <ul>
         <li>PRON: deze, dit, dat, die, zo'n, degenen, degene</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Ind
+      <ul>
+        <li>PRON: meer, veel, minder, weinig, iets, vele, niets, wat, meest, alles</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
     <li>Ind
       <ul>
         <li>PRON: meer, vele, veel, meeste, minder, meest, enige, beide, alle, alles</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Int
+      <ul>
+        <li>PRON: wat, wie, welke, welk</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
     <li>Int
       <ul>
         <li>PRON: wat, wie, welke</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Prs
+      <ul>
+        <li>PRON: hij, ik, het, zijn, zich, ze, we, je, men, hun</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
     <li>Prs
       <ul>
         <li>PRON: hij, zijn, ze, het, zich, haar, hun, zij, men, hem</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Rcp
+      <ul>
+        <li>PRON: elkaar</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
     <li>Rcp
       <ul>
         <li>PRON: elkaar, mekaar</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Rel
+      <ul>
+        <li>PRON: die, dat, hetgeen, hetgene</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
     <li>Rel
       <ul>
         <li>PRON: die, dat, hetgeen, hetwelk</li>
       </ul>
     </li>
   </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
 </li>
 
   </td>
@@ -632,6 +1078,15 @@ udver: '2'
 <tr>
   <td width="50%" valign="top">
 <li><a>Reflex</a>
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>Reflex</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
   <ul>
     <li>Yes
       <ul>
@@ -639,17 +1094,28 @@ udver: '2'
       </ul>
     </li>
   </ul>
-</li>
 
   </td>
   <td width="50%" valign="top">
-<li><a>Reflex</a>
   <ul>
     <li>Yes
       <ul>
         <li>PRON: zich, zichzelf</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
   </ul>
 </li>
 
@@ -658,44 +1124,88 @@ udver: '2'
 <tr>
   <td width="50%" valign="top">
 <li><a>Person</a>
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>Person</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
   <ul>
     <li>1
       <ul>
         <li>PRON: ik, we, ons, wij, me, mijn, mij, onze, mezelf, m'n</li>
       </ul>
     </li>
-    <li>2
-      <ul>
-        <li>PRON: je, u, jullie, jij, jou, uw, gij, jouw, ge, jezelf</li>
-      </ul>
-    </li>
-    <li>3
-      <ul>
-        <li>PRON: hij, het, dat, zijn, wat, zich, ze, wie, men, hun</li>
-      </ul>
-    </li>
   </ul>
-</li>
 
   </td>
   <td width="50%" valign="top">
-<li><a>Person</a>
   <ul>
     <li>1
       <ul>
         <li>PRON: ik, we, mijn, ons, onze, wij, mij, me</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>2
+      <ul>
+        <li>PRON: je, u, jullie, jij, jou, uw, gij, jouw, ge, jezelf</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
     <li>2
       <ul>
         <li>PRON: je, u, uw, jij</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>3
+      <ul>
+        <li>PRON: hij, het, dat, zijn, wat, zich, ze, wie, men, hun</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
     <li>3
       <ul>
         <li>PRON: hij, zijn, ze, het, zich, haar, dat, hun, dit, zij</li>
       </ul>
     </li>
+  </ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
   </ul>
 </li>
 
@@ -729,6 +1239,16 @@ udver: '2'
   <td width="50%" valign="top">
 <h3>Other Features</h3>
 
+
+  </td>
+  <td width="50%" valign="top">
+<h3>Other Features</h3>
+
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <li><a>Abbr</a>
   <ul>
     <li>Yes
@@ -738,6 +1258,23 @@ udver: '2'
     </li>
   </ul>
 </li>
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>X: Bel, sp.a, o.a., ca., VVKSM, nr., lib, COCOF, OSF, VGC</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
 <li><a>Foreign</a>
   <ul>
     <li>Yes
@@ -750,17 +1287,6 @@ udver: '2'
 
   </td>
   <td width="50%" valign="top">
-<h3>Other Features</h3>
-
-<li><a>Abbr</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>X: Bel, sp.a, o.a., ca., VVKSM, nr., lib, COCOF, OSF, VGC</li>
-      </ul>
-    </li>
-  </ul>
-</li>
 <li><a>Foreign</a>
   <ul>
     <li>Yes
@@ -781,8 +1307,6 @@ udver: '2'
 
 <ul>
 <li>This corpus uses 62 lemmas as copulas (<a>cop</a>). Examples: zijn, worden, heten, blijven, lijken, gaan, komen, vinden, staan, maken, blijken, raken, liggen, zien, zitten, kunnen, vallen, treden, werken, achten, gelden, klinken, moeten, dienen, doen, fungeren, optreden, stemmen, hebben, houden, luiden, laten, voelen, beschouwen, geven, hangen, noemen, ogen, smaken, wezen, aandoen, bedoelen, brengen, dat_zijn, gooien, kleuren, lopen, opvatten, schijnen, slaan.</li>
-<li>This corpus uses 10 lemmas as auxiliaries (<a>aux</a>). Examples: hebben, zullen, zijn, kunnen, willen, gaan, mogen, laten, blijken, hoeven.</li>
-<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: worden, zijn.</li>
 </ul>
 
   </td>
@@ -793,6 +1317,20 @@ udver: '2'
 
 <ul>
 <li>This corpus uses 32 lemmas as copulas (<a>cop</a>). Examples: zijn, worden, blijven, staan, heten, gaan, komen, noemen, raken, blijken, vallen, fungeren, liggen, doen, gelden, bekendstaan, klinken, ogen, stellen, treden, zien, zitten, beschouwen, dienen, hebben, lijken, optreden, scheren, spreken, titelen, wedijveren, werken.</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<ul>
+<li>This corpus uses 10 lemmas as auxiliaries (<a>aux</a>). Examples: hebben, zullen, zijn, kunnen, willen, gaan, mogen, laten, blijken, hoeven.</li>
+<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: worden, zijn.</li>
+</ul>
+
+  </td>
+  <td width="50%" valign="top">
+<ul>
 <li>This corpus uses 10 lemmas as auxiliaries (<a>aux</a>). Examples: hebben, zijn, kunnen, zullen, laten, willen, gaan, mogen, blijken, hoeven.</li>
 <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: worden, zijn.</li>
 </ul>
