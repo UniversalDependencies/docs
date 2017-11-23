@@ -71,4 +71,4 @@ Names of stadiums, guerilla bases, events etc.
 
 #### Examples
 
-* _<b>«Հրազդան», «Դինամո», «Զվարթնոց»</b>&nbsp;_ “Hrazdan, Dinamo, Zvartnots”
+* _<b>«Հրազդան», «Դինամո», «Զվարթնոց», Զատիկ</b>&nbsp;_ “Hrazdan, Dinamo, Zvartnots, Easter”
