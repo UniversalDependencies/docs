@@ -57,7 +57,7 @@ Family name (surname). This is usually the last name.
 
 #### Examples
 
-* _<b>Սիեմենս, ՄԱԿ, ԳԱԱ</b>&nbsp;_ “Siemens, UN, NAS”
+* _<b>Սիմենս, ՄԱԿ, ԳԱԱ</b>&nbsp;_ “Siemens, UN, NAS”
 
 ### <a name="Pro">`Pro`</a>: product
 
