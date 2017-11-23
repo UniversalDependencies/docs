@@ -3968,6 +3968,3115 @@ udver: '2'
     </li>
   </ul>
 </li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: TH, jč, HT, LP, PE, Rh</li>
+        <li>ADV: kt</li>
+        <li>NOUN: ÚV, ZV, ZO, JZD, Kčs, ONV, ÚR, MěstNV, BSP, BP</li>
+        <li>PROPN: KSČ, ROH, SSSR, ÚJČ, SSM, ČSAV, ČSSR, ČSR, TIBA, NDR</li>
+        <li>PUNCT: ?</li>
+        <li>SYM: *</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: něm</li>
+        <li>ADV: něm</li>
+        <li>DET: t</li>
+        <li>NOUN: Kč, USD, m, m2, ha, t, ČSSR</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADV: apod</li>
+        <li>NOUN: dr, elektro, prof</li>
+        <li>PROPN: K, M, L, T, V, A, C, J, E, F</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: sv, tzv</li>
+        <li>ADP: př</li>
+        <li>ADV: cca</li>
+        <li>DET: n</li>
+        <li>NOUN: l, DNA, GCA, MPS, m, A, AIDS, APK, BK, CGI</li>
+        <li>PROPN: USA, BBC, CNN, EU, OSN, RECO, AP, BA, BID, CBC</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: tzv, a, čs, o, sv, RM, US, Č, n, k</li>
+        <li>ADP: n, v, př, P, m, vč</li>
+        <li>ADV: např, mj, apod, atd, resp, atp, popř, cca, ap, kupř</li>
+        <li>CCONJ: tj, n</li>
+        <li>DET: t, n, mn, vš</li>
+        <li>NOUN: r, s, tel, m, č, km, MS, mil, Kčs, cm</li>
+        <li>PART: CA</li>
+        <li>PROPN: ČR, LN, ODS, J, OSN, ODA, M, ČSFR, V, A</li>
+        <li>VERB-Fin: tzn, j, srov</li>
+        <li>X: A, H, M, S</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>AdpType</a>
+  <ul>
+    <li>Comprep
+      <ul>
+        <li>ADP: vzhledem, nehledě, narozdíl</li>
+      </ul>
+    </li>
+    <li>Prep
+      <ul>
+        <li>ADP: v, na, o, z, s, do, k, pro, za, po</li>
+      </ul>
+    </li>
+    <li>Voc
+      <ul>
+        <li>ADP: ve, se, ze, ke, ode, beze, ku, skrze, přede, nade</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: TH, jč, HT, LP, PE, Rh</li>
+        <li>ADV: kt</li>
+        <li>NOUN: ÚV, ZV, ZO, JZD, Kčs, ONV, ÚR, MěstNV, BSP, BP</li>
+        <li>PROPN: KSČ, ROH, SSSR, ÚJČ, SSM, ČSAV, ČSSR, ČSR, TIBA, NDR</li>
+        <li>PUNCT: ?</li>
+        <li>SYM: *</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>AdpType</a>
+  <ul>
+    <li>Comprep
+      <ul>
+        <li>ADP: vzhledem, nehledě</li>
+      </ul>
+    </li>
+    <li>Prep
+      <ul>
+        <li>ADP: v, na, s, z, o, k, pro, do, za, při</li>
+      </ul>
+    </li>
+    <li>Voc
+      <ul>
+        <li>ADP: ve, ze, se, ke, beze, ode, přede, ku, skrze, nade</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: něm</li>
+        <li>ADV: něm</li>
+        <li>DET: t</li>
+        <li>NOUN: Kč, USD, m, m2, ha, t, ČSSR</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>AdpType</a>
+  <ul>
+    <li>Comprep
+      <ul>
+        <li>ADP: vzhledem</li>
+      </ul>
+    </li>
+    <li>Prep
+      <ul>
+        <li>ADP: v, podle, na, o, k, s, do, za, z, pro</li>
+      </ul>
+    </li>
+    <li>Voc
+      <ul>
+        <li>ADP: ve, ke, se, ze, ode, beze, přede</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADV: apod</li>
+        <li>NOUN: dr, elektro, prof</li>
+        <li>PROPN: K, M, L, T, V, A, C, J, E, F</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>AdpType</a>
+  <ul>
+    <li>Comprep
+      <ul>
+        <li>ADP: vzhledem</li>
+      </ul>
+    </li>
+    <li>Prep
+      <ul>
+        <li>ADP: na, v, do, s, z, k, o, za, po, pro</li>
+      </ul>
+    </li>
+    <li>Voc
+      <ul>
+        <li>ADP: ve, ze, se, ke, beze, ode, přede, nade, pode, skrze</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: sv, tzv</li>
+        <li>ADP: př</li>
+        <li>ADV: cca</li>
+        <li>DET: n</li>
+        <li>NOUN: l, DNA, GCA, MPS, m, A, AIDS, APK, BK, CGI</li>
+        <li>PROPN: USA, BBC, CNN, EU, OSN, RECO, AP, BA, BID, CBC</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>AdpType</a>
+  <ul>
+    <li>Comprep
+      <ul>
+        <li>ADP: vzhledem</li>
+      </ul>
+    </li>
+    <li>Prep
+      <ul>
+        <li>ADP: v, na, z, s, do, o, k, pro, za, po</li>
+      </ul>
+    </li>
+    <li>Voc
+      <ul>
+        <li>ADP: ve, ze, se, ke, skrze, za</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: tzv, a, čs, o, sv, RM, US, Č, n, k</li>
+        <li>ADP: n, v, př, P, m, vč</li>
+        <li>ADV: např, mj, apod, atd, resp, atp, popř, cca, ap, kupř</li>
+        <li>CCONJ: tj, n</li>
+        <li>DET: t, n, mn, vš</li>
+        <li>NOUN: r, s, tel, m, č, km, MS, mil, Kčs, cm</li>
+        <li>PART: CA</li>
+        <li>PROPN: ČR, LN, ODS, J, OSN, ODA, M, ČSFR, V, A</li>
+        <li>VERB-Fin: tzn, j, srov</li>
+        <li>X: A, H, M, S</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>AdpType</a>
+  <ul>
+    <li>Comprep
+      <ul>
+        <li>ADP: vzhledem, nehledě, narozdíl</li>
+      </ul>
+    </li>
+    <li>Prep
+      <ul>
+        <li>ADP: v, na, o, z, s, do, k, pro, za, po</li>
+      </ul>
+    </li>
+    <li>Voc
+      <ul>
+        <li>ADP: ve, se, ze, ke, ode, beze, ku, skrze, přede, nade</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>ConjType</a>
+  <ul>
+    <li>Oper
+      <ul>
+        <li>CCONJ: krát, plus, minus, kráte</li>
+        <li>SYM: x</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: TH, jč, HT, LP, PE, Rh</li>
+        <li>ADV: kt</li>
+        <li>NOUN: ÚV, ZV, ZO, JZD, Kčs, ONV, ÚR, MěstNV, BSP, BP</li>
+        <li>PROPN: KSČ, ROH, SSSR, ÚJČ, SSM, ČSAV, ČSSR, ČSR, TIBA, NDR</li>
+        <li>PUNCT: ?</li>
+        <li>SYM: *</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>AdpType</a>
+  <ul>
+    <li>Comprep
+      <ul>
+        <li>ADP: vzhledem, nehledě</li>
+      </ul>
+    </li>
+    <li>Prep
+      <ul>
+        <li>ADP: v, na, s, z, o, k, pro, do, za, při</li>
+      </ul>
+    </li>
+    <li>Voc
+      <ul>
+        <li>ADP: ve, ze, se, ke, beze, ode, přede, ku, skrze, nade</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>ConjType</a>
+  <ul>
+    <li>Oper
+      <ul>
+        <li>CCONJ: krát, minus</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADV: apod</li>
+        <li>NOUN: dr, elektro, prof</li>
+        <li>PROPN: K, M, L, T, V, A, C, J, E, F</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>AdpType</a>
+  <ul>
+    <li>Comprep
+      <ul>
+        <li>ADP: vzhledem</li>
+      </ul>
+    </li>
+    <li>Prep
+      <ul>
+        <li>ADP: na, v, do, s, z, k, o, za, po, pro</li>
+      </ul>
+    </li>
+    <li>Voc
+      <ul>
+        <li>ADP: ve, ze, se, ke, beze, ode, přede, nade, pode, skrze</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>ConjType</a>
+  <ul>
+    <li>Oper
+      <ul>
+        <li>CCONJ: krát</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: tzv, a, čs, o, sv, RM, US, Č, n, k</li>
+        <li>ADP: n, v, př, P, m, vč</li>
+        <li>ADV: např, mj, apod, atd, resp, atp, popř, cca, ap, kupř</li>
+        <li>CCONJ: tj, n</li>
+        <li>DET: t, n, mn, vš</li>
+        <li>NOUN: r, s, tel, m, č, km, MS, mil, Kčs, cm</li>
+        <li>PART: CA</li>
+        <li>PROPN: ČR, LN, ODS, J, OSN, ODA, M, ČSFR, V, A</li>
+        <li>VERB-Fin: tzn, j, srov</li>
+        <li>X: A, H, M, S</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>AdpType</a>
+  <ul>
+    <li>Comprep
+      <ul>
+        <li>ADP: vzhledem, nehledě, narozdíl</li>
+      </ul>
+    </li>
+    <li>Prep
+      <ul>
+        <li>ADP: v, na, o, z, s, do, k, pro, za, po</li>
+      </ul>
+    </li>
+    <li>Voc
+      <ul>
+        <li>ADP: ve, se, ze, ke, ode, beze, ku, skrze, přede, nade</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>ConjType</a>
+  <ul>
+    <li>Oper
+      <ul>
+        <li>CCONJ: krát, plus, minus, kráte</li>
+        <li>SYM: x</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>Foreign</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: New, the, open, US, Pink, la, Le, Deutsche, die, United</li>
+        <li>ADJ-Part: vu</li>
+        <li>ADP: de, of, di, van, in, von, versus, ad, Pro, to</li>
+        <li>ADV: cca, priori, Today, live, Here, Only, Sic, Very, dove, echt</li>
+        <li>CCONJ: and, et, und, As, or, ma, So, e, n</li>
+        <li>DET: My, That, This, Your, sua, C, Notre, Some, These, ce</li>
+        <li>INTJ: O, propos, Bang, Boom, Crash</li>
+        <li>NOUN: play, managementu, management, CD, s, facto, st, o, homo, neem</li>
+        <li>NUM: Four, Twenty, Seven, Six, one, Five, Three, Tre, Tri, seděm</li>
+        <li>PART: off, džambo, not, t, oui, Bienvenue, So, ne, sorry, viva</li>
+        <li>PRON: it, All, you, I, Me, We, Us, She, Some, WAS</li>
+        <li>PROPN: HZDS, IRA, Floyd, Nature, International, Science, Sinn, Fein, Times, Cup</li>
+        <li>SCONJ: as, If, When, ak, ako, gdyž, kak</li>
+        <li>VERB-Fin: is, est, transit, Habent, Want, Wish, Won, are, ist, need</li>
+        <li>VERB-Inf: Be, can, Check, Come, Keep, Porter, Talk, Believe, Change, Dance</li>
+        <li>VERB-Part: Were, bolo, Said, dostal, kam, naháňali, polučil, pričinili, wasn</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: TH, jč, HT, LP, PE, Rh</li>
+        <li>ADV: kt</li>
+        <li>NOUN: ÚV, ZV, ZO, JZD, Kčs, ONV, ÚR, MěstNV, BSP, BP</li>
+        <li>PROPN: KSČ, ROH, SSSR, ÚJČ, SSM, ČSAV, ČSSR, ČSR, TIBA, NDR</li>
+        <li>PUNCT: ?</li>
+        <li>SYM: *</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>AdpType</a>
+  <ul>
+    <li>Comprep
+      <ul>
+        <li>ADP: vzhledem, nehledě</li>
+      </ul>
+    </li>
+    <li>Prep
+      <ul>
+        <li>ADP: v, na, s, z, o, k, pro, do, za, při</li>
+      </ul>
+    </li>
+    <li>Voc
+      <ul>
+        <li>ADP: ve, ze, se, ke, beze, ode, přede, ku, skrze, nade</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>ConjType</a>
+  <ul>
+    <li>Oper
+      <ul>
+        <li>CCONJ: krát, minus</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>Foreign</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: online, signifiant, super, la, Jazykovedným, New, Telephone, Tonkünstler, ferenda, fit</li>
+        <li>ADJ-Part: data</li>
+        <li>ADP: de, in, a, ad, cross, of, par, Pro, ante, aus</li>
+        <li>ADV: priori, explicite, quo, defacto, expost, innuce, ipsofacto, memoriam, theory</li>
+        <li>CCONJ: et, and</li>
+        <li>DET: sui, hoc, quem</li>
+        <li>NOUN: luxe, vitro, generis, nepusto, pusto, excellence, homo, lege, peeling, Buch</li>
+        <li>PART: La, das, des, non, Le, el, quo, Al</li>
+        <li>PRON: eo, ipso, Tous, er, qua, they</li>
+        <li>PROPN: Combi, Kombi, Manche, Orchester, Bell, Böhmen, Corriere, Fruit, Gaudeamus, George</li>
+        <li>VERB-Fin: are, formo, singt</li>
+        <li>VERB-Inf: movere, savoir, singen, vivre</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: sv, tzv</li>
+        <li>ADP: př</li>
+        <li>ADV: cca</li>
+        <li>DET: n</li>
+        <li>NOUN: l, DNA, GCA, MPS, m, A, AIDS, APK, BK, CGI</li>
+        <li>PROPN: USA, BBC, CNN, EU, OSN, RECO, AP, BA, BID, CBC</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>AdpType</a>
+  <ul>
+    <li>Comprep
+      <ul>
+        <li>ADP: vzhledem</li>
+      </ul>
+    </li>
+    <li>Prep
+      <ul>
+        <li>ADP: v, na, z, s, do, o, k, pro, za, po</li>
+      </ul>
+    </li>
+    <li>Voc
+      <ul>
+        <li>ADP: ve, ze, se, ke, skrze, za</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>Foreign</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: The, National, New, Saint, a, American, Canadian, Cottonovy, Dareiův, Die</li>
+        <li>ADP: de, Von, of, Di, On</li>
+        <li>ADV: cca</li>
+        <li>CCONJ: and, If</li>
+        <li>NOUN: brexitu, e-maily, Blood, Breaking, Buck, Business, CGI, CTV, City, Consumer</li>
+        <li>PRON: You, me</li>
+        <li>PROPN: USA, Danevirke, CNN, Aviva, Company, George, Investors, Joseph, Mount, Multi</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: tzv, a, čs, o, sv, RM, US, Č, n, k</li>
+        <li>ADP: n, v, př, P, m, vč</li>
+        <li>ADV: např, mj, apod, atd, resp, atp, popř, cca, ap, kupř</li>
+        <li>CCONJ: tj, n</li>
+        <li>DET: t, n, mn, vš</li>
+        <li>NOUN: r, s, tel, m, č, km, MS, mil, Kčs, cm</li>
+        <li>PART: CA</li>
+        <li>PROPN: ČR, LN, ODS, J, OSN, ODA, M, ČSFR, V, A</li>
+        <li>VERB-Fin: tzn, j, srov</li>
+        <li>X: A, H, M, S</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>AdpType</a>
+  <ul>
+    <li>Comprep
+      <ul>
+        <li>ADP: vzhledem, nehledě, narozdíl</li>
+      </ul>
+    </li>
+    <li>Prep
+      <ul>
+        <li>ADP: v, na, o, z, s, do, k, pro, za, po</li>
+      </ul>
+    </li>
+    <li>Voc
+      <ul>
+        <li>ADP: ve, se, ze, ke, ode, beze, ku, skrze, přede, nade</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>ConjType</a>
+  <ul>
+    <li>Oper
+      <ul>
+        <li>CCONJ: krát, plus, minus, kráte</li>
+        <li>SYM: x</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>Foreign</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: New, the, open, US, Pink, la, Le, Deutsche, die, United</li>
+        <li>ADJ-Part: vu</li>
+        <li>ADP: de, of, di, van, in, von, versus, ad, Pro, to</li>
+        <li>ADV: cca, priori, Today, live, Here, Only, Sic, Very, dove, echt</li>
+        <li>CCONJ: and, et, und, As, or, ma, So, e, n</li>
+        <li>DET: My, That, This, Your, sua, C, Notre, Some, These, ce</li>
+        <li>INTJ: O, propos, Bang, Boom, Crash</li>
+        <li>NOUN: play, managementu, management, CD, s, facto, st, o, homo, neem</li>
+        <li>NUM: Four, Twenty, Seven, Six, one, Five, Three, Tre, Tri, seděm</li>
+        <li>PART: off, džambo, not, t, oui, Bienvenue, So, ne, sorry, viva</li>
+        <li>PRON: it, All, you, I, Me, We, Us, She, Some, WAS</li>
+        <li>PROPN: HZDS, IRA, Floyd, Nature, International, Science, Sinn, Fein, Times, Cup</li>
+        <li>SCONJ: as, If, When, ak, ako, gdyž, kak</li>
+        <li>VERB-Fin: is, est, transit, Habent, Want, Wish, Won, are, ist, need</li>
+        <li>VERB-Inf: Be, can, Check, Come, Keep, Porter, Talk, Believe, Change, Dance</li>
+        <li>VERB-Part: Were, bolo, Said, dostal, kam, naháňali, polučil, pričinili, wasn</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>Hyph</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: česko, izraelsko, německo, rusko, srbsko, americko, matematicko, polsko, maďarsko, anglo</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: TH, jč, HT, LP, PE, Rh</li>
+        <li>ADV: kt</li>
+        <li>NOUN: ÚV, ZV, ZO, JZD, Kčs, ONV, ÚR, MěstNV, BSP, BP</li>
+        <li>PROPN: KSČ, ROH, SSSR, ÚJČ, SSM, ČSAV, ČSSR, ČSR, TIBA, NDR</li>
+        <li>PUNCT: ?</li>
+        <li>SYM: *</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>AdpType</a>
+  <ul>
+    <li>Comprep
+      <ul>
+        <li>ADP: vzhledem, nehledě</li>
+      </ul>
+    </li>
+    <li>Prep
+      <ul>
+        <li>ADP: v, na, s, z, o, k, pro, do, za, při</li>
+      </ul>
+    </li>
+    <li>Voc
+      <ul>
+        <li>ADP: ve, ze, se, ke, beze, ode, přede, ku, skrze, nade</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>ConjType</a>
+  <ul>
+    <li>Oper
+      <ul>
+        <li>CCONJ: krát, minus</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>Foreign</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: online, signifiant, super, la, Jazykovedným, New, Telephone, Tonkünstler, ferenda, fit</li>
+        <li>ADJ-Part: data</li>
+        <li>ADP: de, in, a, ad, cross, of, par, Pro, ante, aus</li>
+        <li>ADV: priori, explicite, quo, defacto, expost, innuce, ipsofacto, memoriam, theory</li>
+        <li>CCONJ: et, and</li>
+        <li>DET: sui, hoc, quem</li>
+        <li>NOUN: luxe, vitro, generis, nepusto, pusto, excellence, homo, lege, peeling, Buch</li>
+        <li>PART: La, das, des, non, Le, el, quo, Al</li>
+        <li>PRON: eo, ipso, Tous, er, qua, they</li>
+        <li>PROPN: Combi, Kombi, Manche, Orchester, Bell, Böhmen, Corriere, Fruit, Gaudeamus, George</li>
+        <li>VERB-Fin: are, formo, singt</li>
+        <li>VERB-Inf: movere, savoir, singen, vivre</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>Hyph</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: elektro, marxisticko, Karpatsko, teoreticko, rakousko, československo, dodavatelsko, Koh, francouzsko, hospodářsko</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: něm</li>
+        <li>ADV: něm</li>
+        <li>DET: t</li>
+        <li>NOUN: Kč, USD, m, m2, ha, t, ČSSR</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>AdpType</a>
+  <ul>
+    <li>Comprep
+      <ul>
+        <li>ADP: vzhledem</li>
+      </ul>
+    </li>
+    <li>Prep
+      <ul>
+        <li>ADP: v, podle, na, o, k, s, do, za, z, pro</li>
+      </ul>
+    </li>
+    <li>Voc
+      <ul>
+        <li>ADP: ve, ke, se, ze, ode, beze, přede</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>Hyph</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: do, od, pod</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADV: apod</li>
+        <li>NOUN: dr, elektro, prof</li>
+        <li>PROPN: K, M, L, T, V, A, C, J, E, F</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>AdpType</a>
+  <ul>
+    <li>Comprep
+      <ul>
+        <li>ADP: vzhledem</li>
+      </ul>
+    </li>
+    <li>Prep
+      <ul>
+        <li>ADP: na, v, do, s, z, k, o, za, po, pro</li>
+      </ul>
+    </li>
+    <li>Voc
+      <ul>
+        <li>ADP: ve, ze, se, ke, beze, ode, přede, nade, pode, skrze</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>ConjType</a>
+  <ul>
+    <li>Oper
+      <ul>
+        <li>CCONJ: krát</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>Hyph</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: marx, dvou, troj, tří, československo</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: sv, tzv</li>
+        <li>ADP: př</li>
+        <li>ADV: cca</li>
+        <li>DET: n</li>
+        <li>NOUN: l, DNA, GCA, MPS, m, A, AIDS, APK, BK, CGI</li>
+        <li>PROPN: USA, BBC, CNN, EU, OSN, RECO, AP, BA, BID, CBC</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>AdpType</a>
+  <ul>
+    <li>Comprep
+      <ul>
+        <li>ADP: vzhledem</li>
+      </ul>
+    </li>
+    <li>Prep
+      <ul>
+        <li>ADP: v, na, z, s, do, o, k, pro, za, po</li>
+      </ul>
+    </li>
+    <li>Voc
+      <ul>
+        <li>ADP: ve, ze, se, ke, skrze, za</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>Foreign</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: The, National, New, Saint, a, American, Canadian, Cottonovy, Dareiův, Die</li>
+        <li>ADP: de, Von, of, Di, On</li>
+        <li>ADV: cca</li>
+        <li>CCONJ: and, If</li>
+        <li>NOUN: brexitu, e-maily, Blood, Breaking, Buck, Business, CGI, CTV, City, Consumer</li>
+        <li>PRON: You, me</li>
+        <li>PROPN: USA, Danevirke, CNN, Aviva, Company, George, Investors, Joseph, Mount, Multi</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>Hyph</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: Indo, francouzsko</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: tzv, a, čs, o, sv, RM, US, Č, n, k</li>
+        <li>ADP: n, v, př, P, m, vč</li>
+        <li>ADV: např, mj, apod, atd, resp, atp, popř, cca, ap, kupř</li>
+        <li>CCONJ: tj, n</li>
+        <li>DET: t, n, mn, vš</li>
+        <li>NOUN: r, s, tel, m, č, km, MS, mil, Kčs, cm</li>
+        <li>PART: CA</li>
+        <li>PROPN: ČR, LN, ODS, J, OSN, ODA, M, ČSFR, V, A</li>
+        <li>VERB-Fin: tzn, j, srov</li>
+        <li>X: A, H, M, S</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>AdpType</a>
+  <ul>
+    <li>Comprep
+      <ul>
+        <li>ADP: vzhledem, nehledě, narozdíl</li>
+      </ul>
+    </li>
+    <li>Prep
+      <ul>
+        <li>ADP: v, na, o, z, s, do, k, pro, za, po</li>
+      </ul>
+    </li>
+    <li>Voc
+      <ul>
+        <li>ADP: ve, se, ze, ke, ode, beze, ku, skrze, přede, nade</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>ConjType</a>
+  <ul>
+    <li>Oper
+      <ul>
+        <li>CCONJ: krát, plus, minus, kráte</li>
+        <li>SYM: x</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>Foreign</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: New, the, open, US, Pink, la, Le, Deutsche, die, United</li>
+        <li>ADJ-Part: vu</li>
+        <li>ADP: de, of, di, van, in, von, versus, ad, Pro, to</li>
+        <li>ADV: cca, priori, Today, live, Here, Only, Sic, Very, dove, echt</li>
+        <li>CCONJ: and, et, und, As, or, ma, So, e, n</li>
+        <li>DET: My, That, This, Your, sua, C, Notre, Some, These, ce</li>
+        <li>INTJ: O, propos, Bang, Boom, Crash</li>
+        <li>NOUN: play, managementu, management, CD, s, facto, st, o, homo, neem</li>
+        <li>NUM: Four, Twenty, Seven, Six, one, Five, Three, Tre, Tri, seděm</li>
+        <li>PART: off, džambo, not, t, oui, Bienvenue, So, ne, sorry, viva</li>
+        <li>PRON: it, All, you, I, Me, We, Us, She, Some, WAS</li>
+        <li>PROPN: HZDS, IRA, Floyd, Nature, International, Science, Sinn, Fein, Times, Cup</li>
+        <li>SCONJ: as, If, When, ak, ako, gdyž, kak</li>
+        <li>VERB-Fin: is, est, transit, Habent, Want, Wish, Won, are, ist, need</li>
+        <li>VERB-Inf: Be, can, Check, Come, Keep, Porter, Talk, Believe, Change, Dance</li>
+        <li>VERB-Part: Were, bolo, Said, dostal, kam, naháňali, polučil, pričinili, wasn</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>Hyph</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: česko, izraelsko, německo, rusko, srbsko, americko, matematicko, polsko, maďarsko, anglo</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>NameType</a>
+  <ul>
+    <li>Com
+      <ul>
+        <li>ADJ: RM, Pink, K, J, Deutsche, United, Die, I, U, British</li>
+        <li>ADP: Pro, PRO, dei, des, po</li>
+        <li>ADV: More, Nahoru, dolů, achšav</li>
+        <li>CCONJ: und</li>
+        <li>INTJ: Halo</li>
+        <li>NUM: Four, Seven, Twenty, Six, Tre</li>
+        <li>PART: Non, we</li>
+        <li>PRON: All</li>
+        <li>PROPN: ODS, OSN, ODA, ČSSD, NATO, Sparta, ČT, HZDS, EU, FS</li>
+        <li>VERB-Inf: Can, Dance</li>
+      </ul>
+    </li>
+    <li>Com,Geo
+      <ul>
+        <li>ADJ: York, Covent, Abbey, Amsterdam, Bradford, Brooklyn, Louis, New, Oak, Ridge</li>
+        <li>PROPN: Chelsea, Bergen, Europe, Kladno, Prague, Aral, Bay, California, Canada, Deutschland</li>
+      </ul>
+    </li>
+    <li>Com,Giv
+      <ul>
+        <li>ADJ: Konrád</li>
+        <li>PROPN: KOVO, Kovo, Konstruktiva, Poldi, Fiorentina, Michael, Ringo, Světozor, Kovohutě, Nšoči</li>
+      </ul>
+    </li>
+    <li>Com,Giv,Sur
+      <ul>
+        <li>PROPN: Winston</li>
+      </ul>
+    </li>
+    <li>Com,Nat
+      <ul>
+        <li>PROPN: Jihlavanu, Jihlavan</li>
+      </ul>
+    </li>
+    <li>Com,Oth
+      <ul>
+        <li>ADJ: Al, Black, Box, Mute</li>
+      </ul>
+    </li>
+    <li>Com,Pro
+      <ul>
+        <li>ADJ: Apple, Microsoft</li>
+        <li>PROPN: Bild, Canon, Fiat, Honda, Fiatu, Canonu, Hondy, CANON, Fiaty, HONDA</li>
+      </ul>
+    </li>
+    <li>Com,Pro,Sur
+      <ul>
+        <li>ADJ: Sun</li>
+      </ul>
+    </li>
+    <li>Com,Sur
+      <ul>
+        <li>ADJ: Gordon, Binder, Cocteau, Goethe, Mandel, Rambert, Random, Warner, Wellesley</li>
+        <li>PROPN: Benetton, Benettonu, Mates, Winston, Maxwell, Biederstein, Bradstreet, Daimler, Dohme, Dun</li>
+      </ul>
+    </li>
+    <li>Geo
+      <ul>
+        <li>ADJ: New, Č, Flushing, Los, San, Tchaj, Horní, Devils, Twin, Buenos</li>
+        <li>ADP: Unter, del, Átha</li>
+        <li>PROPN: Praha, ČR, Praze, USA, Evropy, Brno, Prahy, ČSFR, Evropě, Německu</li>
+      </ul>
+    </li>
+    <li>Geo,Giv
+      <ul>
+        <li>ADJ: Karl, Karlovy</li>
+        <li>PROPN: Amos, Gyula, Gyuly, Karin, Alma, AMOS, Amosem, Gyulu, José, Josému</li>
+      </ul>
+    </li>
+    <li>Geo,Giv,Sur
+      <ul>
+        <li>ADP: di</li>
+        <li>PROPN: Butrus, Butruse, Keith, Kozák</li>
+      </ul>
+    </li>
+    <li>Geo,Oth
+      <ul>
+        <li>ADJ: Salem</li>
+        <li>PROPN: Saturn</li>
+      </ul>
+    </li>
+    <li>Geo,Pro
+      <ul>
+        <li>ADJ: York, Denver, Washington</li>
+        <li>PROPN: Mountain, RENOVA</li>
+      </ul>
+    </li>
+    <li>Geo,Sur
+      <ul>
+        <li>ADJ: Marx, Špindlerově, Lounských, Powellovo, Powellovy, Powellových, Santa, Spenglerův, Wallisově</li>
+        <li>PROPN: Breda, Paisley, Petrov, Wallis, Powell, Bihače, Wallise, Warren, Lichtenbergu, Lom</li>
+      </ul>
+    </li>
+    <li>Giv
+      <ul>
+        <li>ADJ: Karlovy, Karlových, Karlova, Karlově, Heinrichovy, Janova, Jindřichově, Heinrichových, Jindřichův, Ježíšova</li>
+        <li>PROPN: J, Jiří, Jan, Václav, Jana, Petr, M, Josef, Pavel, Vladimír</li>
+      </ul>
+    </li>
+    <li>Giv,Nat
+      <ul>
+        <li>PROPN: Hun</li>
+      </ul>
+    </li>
+    <li>Giv,Oth
+      <ul>
+        <li>PROPN: Miranda, David, John, MIRANDY</li>
+      </ul>
+    </li>
+    <li>Giv,Pro
+      <ul>
+        <li>PROPN: Pascal</li>
+      </ul>
+    </li>
+    <li>Giv,Pro,Sur
+      <ul>
+        <li>PROPN: Figaro</li>
+      </ul>
+    </li>
+    <li>Giv,Sur
+      <ul>
+        <li>ADJ: Eukleidových, Eukleidovy, Damoklův, Heřmanův, Alláhovým, Berijova, Eukleidova, Eukleidově, Franckův, Hésiodovy</li>
+        <li>PROPN: Perry, Perryho, Charlie, Diega, Othello, Diego, Ricardo, Rút, Heřman, Johan</li>
+      </ul>
+    </li>
+    <li>Nat
+      <ul>
+        <li>ADJ: Američanovy, Američanův, Australanovo, Brazilcovy, Florenťanův, Indian, Irův, Němcův, Pražákovo, Taliánův</li>
+        <li>PROPN: Němci, Češi, Němců, Američané, američan, Slováci, Srbové, Rusové, Srby, Čechů</li>
+      </ul>
+    </li>
+    <li>Nat,Sur
+      <ul>
+        <li>PROPN: Uher, Maye, UHER</li>
+      </ul>
+    </li>
+    <li>Oth
+      <ul>
+        <li>ADJ: US, New, Made, Sex, al, Australian, French, Miranda, Inspiral, Mute</li>
+        <li>ADP: for, Into, Pour, Pro, To</li>
+        <li>ADV: COSI, Down, How, Live, So, Up, Why</li>
+        <li>DET: Notre, This</li>
+        <li>INTJ: Bang, Boom, Crash</li>
+        <li>PART: L, Not, at, el, t</li>
+        <li>PRON: All, Everything, You</li>
+        <li>PROPN: PVP, Prix, Tour, ECU, Garden, München, line, Rapaportu, VC, Age</li>
+        <li>VERB-Fin: Can, Comes, FAN, Feels, Takes, Want</li>
+        <li>VERB-Inf: Porter</li>
+        <li>VERB-Part: Said</li>
+      </ul>
+    </li>
+    <li>Oth,Sur
+      <ul>
+        <li>ADJ: Shea</li>
+      </ul>
+    </li>
+    <li>Pro
+      <ul>
+        <li>ADJ: Financial, coca, Super, Chem, Eng, Prágai, Wyborcza, der, pepsi, Magyar</li>
+        <li>ADP: ex, della, Quantum</li>
+        <li>ADV: Ahead, Inside, Live, Today, Weekly</li>
+        <li>DET: Your</li>
+        <li>PRON: Ty, It, man</li>
+        <li>PROPN: LN, MF, PC, Škoda, mercedes, favorit, Mir, ford, polo, Welt</li>
+        <li>VERB-Inf: Check, Lean</li>
+      </ul>
+    </li>
+    <li>Pro,Sur
+      <ul>
+        <li>PROPN: Kozel, Stock, Burda, Johnnie, Hornet, Walker, Walkerem</li>
+      </ul>
+    </li>
+    <li>Sur
+      <ul>
+        <li>ADJ: Milíčova, Masarykově, Benešových, Schrödingerova, Casimirův, Klausův, Masarykova, Mečiarova, Benešovy, Janáčkovy</li>
+        <li>ADP: zum</li>
+        <li>PART: ka</li>
+        <li>PROPN: Klaus, Havel, Klause, Svoboda, Mečiar, Havla, Jelcin, John, Zeman, Němec</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: TH, jč, HT, LP, PE, Rh</li>
+        <li>ADV: kt</li>
+        <li>NOUN: ÚV, ZV, ZO, JZD, Kčs, ONV, ÚR, MěstNV, BSP, BP</li>
+        <li>PROPN: KSČ, ROH, SSSR, ÚJČ, SSM, ČSAV, ČSSR, ČSR, TIBA, NDR</li>
+        <li>PUNCT: ?</li>
+        <li>SYM: *</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>AdpType</a>
+  <ul>
+    <li>Comprep
+      <ul>
+        <li>ADP: vzhledem, nehledě</li>
+      </ul>
+    </li>
+    <li>Prep
+      <ul>
+        <li>ADP: v, na, s, z, o, k, pro, do, za, při</li>
+      </ul>
+    </li>
+    <li>Voc
+      <ul>
+        <li>ADP: ve, ze, se, ke, beze, ode, přede, ku, skrze, nade</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>ConjType</a>
+  <ul>
+    <li>Oper
+      <ul>
+        <li>CCONJ: krát, minus</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>Foreign</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: online, signifiant, super, la, Jazykovedným, New, Telephone, Tonkünstler, ferenda, fit</li>
+        <li>ADJ-Part: data</li>
+        <li>ADP: de, in, a, ad, cross, of, par, Pro, ante, aus</li>
+        <li>ADV: priori, explicite, quo, defacto, expost, innuce, ipsofacto, memoriam, theory</li>
+        <li>CCONJ: et, and</li>
+        <li>DET: sui, hoc, quem</li>
+        <li>NOUN: luxe, vitro, generis, nepusto, pusto, excellence, homo, lege, peeling, Buch</li>
+        <li>PART: La, das, des, non, Le, el, quo, Al</li>
+        <li>PRON: eo, ipso, Tous, er, qua, they</li>
+        <li>PROPN: Combi, Kombi, Manche, Orchester, Bell, Böhmen, Corriere, Fruit, Gaudeamus, George</li>
+        <li>VERB-Fin: are, formo, singt</li>
+        <li>VERB-Inf: movere, savoir, singen, vivre</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>Hyph</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: elektro, marxisticko, Karpatsko, teoreticko, rakousko, československo, dodavatelsko, Koh, francouzsko, hospodářsko</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>NameType</a>
+  <ul>
+    <li>Com
+      <ul>
+        <li>ADJ: Koh, i, Telephone, Tonkünstler, Červeného, Deutscher, Jazykovedným, Povážské, Pražská, United</li>
+        <li>ADP: Pro, pour</li>
+        <li>CCONJ: and</li>
+        <li>PRON: Tous</li>
+        <li>PROPN: KSČ, ROH, ÚJČ, SSM, ČSAV, TIBA, NF, OV, GŘ, VÚM</li>
+      </ul>
+    </li>
+    <li>Com,Geo
+      <ul>
+        <li>PROPN: Böhmen, Prag</li>
+      </ul>
+    </li>
+    <li>Com,Giv
+      <ul>
+        <li>PROPN: Konstruktiva</li>
+      </ul>
+    </li>
+    <li>Com,Pro
+      <ul>
+        <li>ADJ: Verein</li>
+        <li>PROPN: Dermacol, Gambrinus, Prazdroj</li>
+      </ul>
+    </li>
+    <li>Com,Sur
+      <ul>
+        <li>PROPN: Bell, Bramsch, Ventura</li>
+      </ul>
+    </li>
+    <li>Geo
+      <ul>
+        <li>ADJ: Králové, Kutná, Kašperských, Lužických, České, Mariánských, Nové, Vrátné, Bassa, Janské</li>
+        <li>PART: el, La</li>
+        <li>PROPN: Praze, SSSR, Praha, ČSSR, Prahy, ČSR, Československa, NDR, Země, USA</li>
+      </ul>
+    </li>
+    <li>Geo,Giv
+      <ul>
+        <li>ADJ: Karlovy, Josefův, Karlových, Františkových, Jindřichova, Konstantinovy</li>
+        <li>PROPN: Boleslav, Mořici, Kuby, Louis, Lucie, Mořice</li>
+      </ul>
+    </li>
+    <li>Geo,Oth
+      <ul>
+        <li>PROPN: Österreich</li>
+      </ul>
+    </li>
+    <li>Geo,Sur
+      <ul>
+        <li>ADJ: Gottwaldově, Vančurově, Jiráskova, Melantrichova, Alšově, Chotkově, Engelsových, Fučíkovy, Fučíkově, Gottwaldovy</li>
+        <li>PROPN: Pavlov, Hejná, Tigridem, Blatná, Hlinka, Hracholusk, Janského, Lachaise, Lhota, Lhotu</li>
+      </ul>
+    </li>
+    <li>Giv
+      <ul>
+        <li>ADJ: Karlovy, Karlův, Karlově, Angelino, Anglický, Ariadnin, Bozděchovy, Božetěchově, Buridanův, Chefrenovy</li>
+        <li>PROPN: Karel, Julius, Václav, Jana, Karla, Jaroslav, Josef, Jiří, Zdeněk, Klement</li>
+      </ul>
+    </li>
+    <li>Giv,Oth
+      <ul>
+        <li>PROPN: Lucii</li>
+      </ul>
+    </li>
+    <li>Giv,Pro
+      <ul>
+        <li>PROPN: Claudio, Othelo, Pascal, Pascalu, Radka, Raduna, Sandy, Zora</li>
+      </ul>
+    </li>
+    <li>Giv,Sur
+      <ul>
+        <li>PROPN: Ariadna, Kosmy, Perry, Joy, Dante, Dantem, Eliot, Figara, James, Jamese</li>
+      </ul>
+    </li>
+    <li>Nat
+      <ul>
+        <li>PROPN: Adygejci, Pražané, Angličan, Egypťané, Keltové, Afričanů, Američana, Američané, Američanů, Asyřané</li>
+      </ul>
+    </li>
+    <li>Nat,Sur
+      <ul>
+        <li>PROPN: Srba</li>
+      </ul>
+    </li>
+    <li>Oth
+      <ul>
+        <li>ADJ: Santa</li>
+        <li>ADP: aus</li>
+        <li>PART: Al</li>
+        <li>PROPN: SNP, Opeplatis, Plastex, Rena, Erotissimo, Gaudeamus, Intermóda, Invex, Luna, Musikbuch</li>
+      </ul>
+    </li>
+    <li>Pro
+      <ul>
+        <li>ADJ: Rudého, Illustrierte, Mladé, Prague, Rouge, Schweizer, Super, Touring, Tourist, linguistique</li>
+        <li>ADP: della</li>
+        <li>PROPN: Škoda, Merkur, Duha, Octavia, FSČ, Klad, Romatic, SAPO, SaS, Tatramat</li>
+      </ul>
+    </li>
+    <li>Pro,Sur
+      <ul>
+        <li>PROPN: Baracchi, Burda, Mendoza</li>
+      </ul>
+    </li>
+    <li>Sur
+      <ul>
+        <li>ADJ: Erbenových, Erbenovy, Fučíkova, Mohorovičićovy, Bohrův, Erbenova, Erbenově, Fučíkovy, Fučíkův, Fučíkovo</li>
+        <li>PROPN: Fučík, Erben, Horálek, Knappová, Němec, Těšitelová, Lenin, Záveský, Kraus, Fučíka</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: sv, tzv</li>
+        <li>ADP: př</li>
+        <li>ADV: cca</li>
+        <li>DET: n</li>
+        <li>NOUN: l, DNA, GCA, MPS, m, A, AIDS, APK, BK, CGI</li>
+        <li>PROPN: USA, BBC, CNN, EU, OSN, RECO, AP, BA, BID, CBC</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>AdpType</a>
+  <ul>
+    <li>Comprep
+      <ul>
+        <li>ADP: vzhledem</li>
+      </ul>
+    </li>
+    <li>Prep
+      <ul>
+        <li>ADP: v, na, z, s, do, o, k, pro, za, po</li>
+      </ul>
+    </li>
+    <li>Voc
+      <ul>
+        <li>ADP: ve, ze, se, ke, skrze, za</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>Foreign</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: The, National, New, Saint, a, American, Canadian, Cottonovy, Dareiův, Die</li>
+        <li>ADP: de, Von, of, Di, On</li>
+        <li>ADV: cca</li>
+        <li>CCONJ: and, If</li>
+        <li>NOUN: brexitu, e-maily, Blood, Breaking, Buck, Business, CGI, CTV, City, Consumer</li>
+        <li>PRON: You, me</li>
+        <li>PROPN: USA, Danevirke, CNN, Aviva, Company, George, Investors, Joseph, Mount, Multi</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>Hyph</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: Indo, francouzsko</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>NameType</a>
+  <ul>
+    <li>Com
+      <ul>
+        <li>ADJ: National, American, Die</li>
+        <li>PROPN: USA, Čching, BBC, CNN, EU, Aviva, Company, Facebooku, Investors, Multi</li>
+      </ul>
+    </li>
+    <li>Com,Geo
+      <ul>
+        <li>PROPN: Scotland</li>
+      </ul>
+    </li>
+    <li>Com,Pro
+      <ul>
+        <li>PROPN: Ford, GM</li>
+      </ul>
+    </li>
+    <li>Geo
+      <ul>
+        <li>ADJ: New, San, Beverly, Kapského, Los, Pearl, Severní, Silicon, South, Wall</li>
+        <li>PROPN: Čína, Francie, Albánie, Británii, Danevirke, Evropě, Itálii, Ameriky, Asii, Británie</li>
+      </ul>
+    </li>
+    <li>Geo,Giv
+      <ul>
+        <li>PROPN: Thrákie, Thrákii, Thrákií</li>
+      </ul>
+    </li>
+    <li>Geo,Giv,Sur
+      <ul>
+        <li>ADP: Di</li>
+      </ul>
+    </li>
+    <li>Giv
+      <ul>
+        <li>ADJ: Saint, Alexandrově, Caesarovi, Cottonovy, Césarovo, Dareiův, Edgarovy, Germaininých, Kimově</li>
+        <li>PROPN: Donald, Richarda, Augustus, Donalda, František, George, González, Jasmína, Ježíše, Joseph</li>
+      </ul>
+    </li>
+    <li>Giv,Sur
+      <ul>
+        <li>PROPN: James, Michael, Michala, Stephen, Štěpán</li>
+      </ul>
+    </li>
+    <li>Nat
+      <ul>
+        <li>PROPN: Australané, Mayové, Číňanů, Řekové, Židů, Aboriginci, Achájů, Američan, Američané, Athéňanů</li>
+      </ul>
+    </li>
+    <li>Oth
+      <ul>
+        <li>PROPN: Cup, Cupu</li>
+      </ul>
+    </li>
+    <li>Pro
+      <ul>
+        <li>ADJ: El, World</li>
+        <li>PROPN: Endurance, Dead, Greco, Loving, MahaNakhon, Mate, Nectar, Select, Simple, Slack</li>
+      </ul>
+    </li>
+    <li>Sur
+      <ul>
+        <li>ADJ: achaimenovské, Achaimenovskou, Achaimenovská, Bergeronova, Berijovo, Blochových, Carangiina, Dossovy, Erdoganovu, Graftonova</li>
+        <li>PROPN: Clintonové, Trump, Trumpa, Bluntová, Mišima, Seagal, Winstone, Wright, Šen, Aldrin</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: tzv, a, čs, o, sv, RM, US, Č, n, k</li>
+        <li>ADP: n, v, př, P, m, vč</li>
+        <li>ADV: např, mj, apod, atd, resp, atp, popř, cca, ap, kupř</li>
+        <li>CCONJ: tj, n</li>
+        <li>DET: t, n, mn, vš</li>
+        <li>NOUN: r, s, tel, m, č, km, MS, mil, Kčs, cm</li>
+        <li>PART: CA</li>
+        <li>PROPN: ČR, LN, ODS, J, OSN, ODA, M, ČSFR, V, A</li>
+        <li>VERB-Fin: tzn, j, srov</li>
+        <li>X: A, H, M, S</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>AdpType</a>
+  <ul>
+    <li>Comprep
+      <ul>
+        <li>ADP: vzhledem, nehledě, narozdíl</li>
+      </ul>
+    </li>
+    <li>Prep
+      <ul>
+        <li>ADP: v, na, o, z, s, do, k, pro, za, po</li>
+      </ul>
+    </li>
+    <li>Voc
+      <ul>
+        <li>ADP: ve, se, ze, ke, ode, beze, ku, skrze, přede, nade</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>ConjType</a>
+  <ul>
+    <li>Oper
+      <ul>
+        <li>CCONJ: krát, plus, minus, kráte</li>
+        <li>SYM: x</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>Foreign</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: New, the, open, US, Pink, la, Le, Deutsche, die, United</li>
+        <li>ADJ-Part: vu</li>
+        <li>ADP: de, of, di, van, in, von, versus, ad, Pro, to</li>
+        <li>ADV: cca, priori, Today, live, Here, Only, Sic, Very, dove, echt</li>
+        <li>CCONJ: and, et, und, As, or, ma, So, e, n</li>
+        <li>DET: My, That, This, Your, sua, C, Notre, Some, These, ce</li>
+        <li>INTJ: O, propos, Bang, Boom, Crash</li>
+        <li>NOUN: play, managementu, management, CD, s, facto, st, o, homo, neem</li>
+        <li>NUM: Four, Twenty, Seven, Six, one, Five, Three, Tre, Tri, seděm</li>
+        <li>PART: off, džambo, not, t, oui, Bienvenue, So, ne, sorry, viva</li>
+        <li>PRON: it, All, you, I, Me, We, Us, She, Some, WAS</li>
+        <li>PROPN: HZDS, IRA, Floyd, Nature, International, Science, Sinn, Fein, Times, Cup</li>
+        <li>SCONJ: as, If, When, ak, ako, gdyž, kak</li>
+        <li>VERB-Fin: is, est, transit, Habent, Want, Wish, Won, are, ist, need</li>
+        <li>VERB-Inf: Be, can, Check, Come, Keep, Porter, Talk, Believe, Change, Dance</li>
+        <li>VERB-Part: Were, bolo, Said, dostal, kam, naháňali, polučil, pričinili, wasn</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>Hyph</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: česko, izraelsko, německo, rusko, srbsko, americko, matematicko, polsko, maďarsko, anglo</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>NameType</a>
+  <ul>
+    <li>Com
+      <ul>
+        <li>ADJ: RM, Pink, K, J, Deutsche, United, Die, I, U, British</li>
+        <li>ADP: Pro, PRO, dei, des, po</li>
+        <li>ADV: More, Nahoru, dolů, achšav</li>
+        <li>CCONJ: und</li>
+        <li>INTJ: Halo</li>
+        <li>NUM: Four, Seven, Twenty, Six, Tre</li>
+        <li>PART: Non, we</li>
+        <li>PRON: All</li>
+        <li>PROPN: ODS, OSN, ODA, ČSSD, NATO, Sparta, ČT, HZDS, EU, FS</li>
+        <li>VERB-Inf: Can, Dance</li>
+      </ul>
+    </li>
+    <li>Com,Geo
+      <ul>
+        <li>ADJ: York, Covent, Abbey, Amsterdam, Bradford, Brooklyn, Louis, New, Oak, Ridge</li>
+        <li>PROPN: Chelsea, Bergen, Europe, Kladno, Prague, Aral, Bay, California, Canada, Deutschland</li>
+      </ul>
+    </li>
+    <li>Com,Giv
+      <ul>
+        <li>ADJ: Konrád</li>
+        <li>PROPN: KOVO, Kovo, Konstruktiva, Poldi, Fiorentina, Michael, Ringo, Světozor, Kovohutě, Nšoči</li>
+      </ul>
+    </li>
+    <li>Com,Giv,Sur
+      <ul>
+        <li>PROPN: Winston</li>
+      </ul>
+    </li>
+    <li>Com,Nat
+      <ul>
+        <li>PROPN: Jihlavanu, Jihlavan</li>
+      </ul>
+    </li>
+    <li>Com,Oth
+      <ul>
+        <li>ADJ: Al, Black, Box, Mute</li>
+      </ul>
+    </li>
+    <li>Com,Pro
+      <ul>
+        <li>ADJ: Apple, Microsoft</li>
+        <li>PROPN: Bild, Canon, Fiat, Honda, Fiatu, Canonu, Hondy, CANON, Fiaty, HONDA</li>
+      </ul>
+    </li>
+    <li>Com,Pro,Sur
+      <ul>
+        <li>ADJ: Sun</li>
+      </ul>
+    </li>
+    <li>Com,Sur
+      <ul>
+        <li>ADJ: Gordon, Binder, Cocteau, Goethe, Mandel, Rambert, Random, Warner, Wellesley</li>
+        <li>PROPN: Benetton, Benettonu, Mates, Winston, Maxwell, Biederstein, Bradstreet, Daimler, Dohme, Dun</li>
+      </ul>
+    </li>
+    <li>Geo
+      <ul>
+        <li>ADJ: New, Č, Flushing, Los, San, Tchaj, Horní, Devils, Twin, Buenos</li>
+        <li>ADP: Unter, del, Átha</li>
+        <li>PROPN: Praha, ČR, Praze, USA, Evropy, Brno, Prahy, ČSFR, Evropě, Německu</li>
+      </ul>
+    </li>
+    <li>Geo,Giv
+      <ul>
+        <li>ADJ: Karl, Karlovy</li>
+        <li>PROPN: Amos, Gyula, Gyuly, Karin, Alma, AMOS, Amosem, Gyulu, José, Josému</li>
+      </ul>
+    </li>
+    <li>Geo,Giv,Sur
+      <ul>
+        <li>ADP: di</li>
+        <li>PROPN: Butrus, Butruse, Keith, Kozák</li>
+      </ul>
+    </li>
+    <li>Geo,Oth
+      <ul>
+        <li>ADJ: Salem</li>
+        <li>PROPN: Saturn</li>
+      </ul>
+    </li>
+    <li>Geo,Pro
+      <ul>
+        <li>ADJ: York, Denver, Washington</li>
+        <li>PROPN: Mountain, RENOVA</li>
+      </ul>
+    </li>
+    <li>Geo,Sur
+      <ul>
+        <li>ADJ: Marx, Špindlerově, Lounských, Powellovo, Powellovy, Powellových, Santa, Spenglerův, Wallisově</li>
+        <li>PROPN: Breda, Paisley, Petrov, Wallis, Powell, Bihače, Wallise, Warren, Lichtenbergu, Lom</li>
+      </ul>
+    </li>
+    <li>Giv
+      <ul>
+        <li>ADJ: Karlovy, Karlových, Karlova, Karlově, Heinrichovy, Janova, Jindřichově, Heinrichových, Jindřichův, Ježíšova</li>
+        <li>PROPN: J, Jiří, Jan, Václav, Jana, Petr, M, Josef, Pavel, Vladimír</li>
+      </ul>
+    </li>
+    <li>Giv,Nat
+      <ul>
+        <li>PROPN: Hun</li>
+      </ul>
+    </li>
+    <li>Giv,Oth
+      <ul>
+        <li>PROPN: Miranda, David, John, MIRANDY</li>
+      </ul>
+    </li>
+    <li>Giv,Pro
+      <ul>
+        <li>PROPN: Pascal</li>
+      </ul>
+    </li>
+    <li>Giv,Pro,Sur
+      <ul>
+        <li>PROPN: Figaro</li>
+      </ul>
+    </li>
+    <li>Giv,Sur
+      <ul>
+        <li>ADJ: Eukleidových, Eukleidovy, Damoklův, Heřmanův, Alláhovým, Berijova, Eukleidova, Eukleidově, Franckův, Hésiodovy</li>
+        <li>PROPN: Perry, Perryho, Charlie, Diega, Othello, Diego, Ricardo, Rút, Heřman, Johan</li>
+      </ul>
+    </li>
+    <li>Nat
+      <ul>
+        <li>ADJ: Američanovy, Američanův, Australanovo, Brazilcovy, Florenťanův, Indian, Irův, Němcův, Pražákovo, Taliánův</li>
+        <li>PROPN: Němci, Češi, Němců, Američané, američan, Slováci, Srbové, Rusové, Srby, Čechů</li>
+      </ul>
+    </li>
+    <li>Nat,Sur
+      <ul>
+        <li>PROPN: Uher, Maye, UHER</li>
+      </ul>
+    </li>
+    <li>Oth
+      <ul>
+        <li>ADJ: US, New, Made, Sex, al, Australian, French, Miranda, Inspiral, Mute</li>
+        <li>ADP: for, Into, Pour, Pro, To</li>
+        <li>ADV: COSI, Down, How, Live, So, Up, Why</li>
+        <li>DET: Notre, This</li>
+        <li>INTJ: Bang, Boom, Crash</li>
+        <li>PART: L, Not, at, el, t</li>
+        <li>PRON: All, Everything, You</li>
+        <li>PROPN: PVP, Prix, Tour, ECU, Garden, München, line, Rapaportu, VC, Age</li>
+        <li>VERB-Fin: Can, Comes, FAN, Feels, Takes, Want</li>
+        <li>VERB-Inf: Porter</li>
+        <li>VERB-Part: Said</li>
+      </ul>
+    </li>
+    <li>Oth,Sur
+      <ul>
+        <li>ADJ: Shea</li>
+      </ul>
+    </li>
+    <li>Pro
+      <ul>
+        <li>ADJ: Financial, coca, Super, Chem, Eng, Prágai, Wyborcza, der, pepsi, Magyar</li>
+        <li>ADP: ex, della, Quantum</li>
+        <li>ADV: Ahead, Inside, Live, Today, Weekly</li>
+        <li>DET: Your</li>
+        <li>PRON: Ty, It, man</li>
+        <li>PROPN: LN, MF, PC, Škoda, mercedes, favorit, Mir, ford, polo, Welt</li>
+        <li>VERB-Inf: Check, Lean</li>
+      </ul>
+    </li>
+    <li>Pro,Sur
+      <ul>
+        <li>PROPN: Kozel, Stock, Burda, Johnnie, Hornet, Walker, Walkerem</li>
+      </ul>
+    </li>
+    <li>Sur
+      <ul>
+        <li>ADJ: Milíčova, Masarykově, Benešových, Schrödingerova, Casimirův, Klausův, Masarykova, Mečiarova, Benešovy, Janáčkovy</li>
+        <li>ADP: zum</li>
+        <li>PART: ka</li>
+        <li>PROPN: Klaus, Havel, Klause, Svoboda, Mečiar, Havla, Jelcin, John, Zeman, Němec</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>NumForm</a>
+  <ul>
+    <li>Digit
+      <ul>
+        <li>NUM: 1, 2, 3, 4, 6, 5, 1992, 10, 1994, 1993</li>
+      </ul>
+    </li>
+    <li>Roman
+      <ul>
+        <li>NUM: II, I, III, IV, V, VI, XX, D, C, IX</li>
+      </ul>
+    </li>
+    <li>Word
+      <ul>
+        <li>NUM: dva, tři, jeden, dvě, tisíc, dvou, pět, čtyři, obou, jednoho</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: TH, jč, HT, LP, PE, Rh</li>
+        <li>ADV: kt</li>
+        <li>NOUN: ÚV, ZV, ZO, JZD, Kčs, ONV, ÚR, MěstNV, BSP, BP</li>
+        <li>PROPN: KSČ, ROH, SSSR, ÚJČ, SSM, ČSAV, ČSSR, ČSR, TIBA, NDR</li>
+        <li>PUNCT: ?</li>
+        <li>SYM: *</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>AdpType</a>
+  <ul>
+    <li>Comprep
+      <ul>
+        <li>ADP: vzhledem, nehledě</li>
+      </ul>
+    </li>
+    <li>Prep
+      <ul>
+        <li>ADP: v, na, s, z, o, k, pro, do, za, při</li>
+      </ul>
+    </li>
+    <li>Voc
+      <ul>
+        <li>ADP: ve, ze, se, ke, beze, ode, přede, ku, skrze, nade</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>ConjType</a>
+  <ul>
+    <li>Oper
+      <ul>
+        <li>CCONJ: krát, minus</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>Foreign</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: online, signifiant, super, la, Jazykovedným, New, Telephone, Tonkünstler, ferenda, fit</li>
+        <li>ADJ-Part: data</li>
+        <li>ADP: de, in, a, ad, cross, of, par, Pro, ante, aus</li>
+        <li>ADV: priori, explicite, quo, defacto, expost, innuce, ipsofacto, memoriam, theory</li>
+        <li>CCONJ: et, and</li>
+        <li>DET: sui, hoc, quem</li>
+        <li>NOUN: luxe, vitro, generis, nepusto, pusto, excellence, homo, lege, peeling, Buch</li>
+        <li>PART: La, das, des, non, Le, el, quo, Al</li>
+        <li>PRON: eo, ipso, Tous, er, qua, they</li>
+        <li>PROPN: Combi, Kombi, Manche, Orchester, Bell, Böhmen, Corriere, Fruit, Gaudeamus, George</li>
+        <li>VERB-Fin: are, formo, singt</li>
+        <li>VERB-Inf: movere, savoir, singen, vivre</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>Hyph</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: elektro, marxisticko, Karpatsko, teoreticko, rakousko, československo, dodavatelsko, Koh, francouzsko, hospodářsko</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>NameType</a>
+  <ul>
+    <li>Com
+      <ul>
+        <li>ADJ: Koh, i, Telephone, Tonkünstler, Červeného, Deutscher, Jazykovedným, Povážské, Pražská, United</li>
+        <li>ADP: Pro, pour</li>
+        <li>CCONJ: and</li>
+        <li>PRON: Tous</li>
+        <li>PROPN: KSČ, ROH, ÚJČ, SSM, ČSAV, TIBA, NF, OV, GŘ, VÚM</li>
+      </ul>
+    </li>
+    <li>Com,Geo
+      <ul>
+        <li>PROPN: Böhmen, Prag</li>
+      </ul>
+    </li>
+    <li>Com,Giv
+      <ul>
+        <li>PROPN: Konstruktiva</li>
+      </ul>
+    </li>
+    <li>Com,Pro
+      <ul>
+        <li>ADJ: Verein</li>
+        <li>PROPN: Dermacol, Gambrinus, Prazdroj</li>
+      </ul>
+    </li>
+    <li>Com,Sur
+      <ul>
+        <li>PROPN: Bell, Bramsch, Ventura</li>
+      </ul>
+    </li>
+    <li>Geo
+      <ul>
+        <li>ADJ: Králové, Kutná, Kašperských, Lužických, České, Mariánských, Nové, Vrátné, Bassa, Janské</li>
+        <li>PART: el, La</li>
+        <li>PROPN: Praze, SSSR, Praha, ČSSR, Prahy, ČSR, Československa, NDR, Země, USA</li>
+      </ul>
+    </li>
+    <li>Geo,Giv
+      <ul>
+        <li>ADJ: Karlovy, Josefův, Karlových, Františkových, Jindřichova, Konstantinovy</li>
+        <li>PROPN: Boleslav, Mořici, Kuby, Louis, Lucie, Mořice</li>
+      </ul>
+    </li>
+    <li>Geo,Oth
+      <ul>
+        <li>PROPN: Österreich</li>
+      </ul>
+    </li>
+    <li>Geo,Sur
+      <ul>
+        <li>ADJ: Gottwaldově, Vančurově, Jiráskova, Melantrichova, Alšově, Chotkově, Engelsových, Fučíkovy, Fučíkově, Gottwaldovy</li>
+        <li>PROPN: Pavlov, Hejná, Tigridem, Blatná, Hlinka, Hracholusk, Janského, Lachaise, Lhota, Lhotu</li>
+      </ul>
+    </li>
+    <li>Giv
+      <ul>
+        <li>ADJ: Karlovy, Karlův, Karlově, Angelino, Anglický, Ariadnin, Bozděchovy, Božetěchově, Buridanův, Chefrenovy</li>
+        <li>PROPN: Karel, Julius, Václav, Jana, Karla, Jaroslav, Josef, Jiří, Zdeněk, Klement</li>
+      </ul>
+    </li>
+    <li>Giv,Oth
+      <ul>
+        <li>PROPN: Lucii</li>
+      </ul>
+    </li>
+    <li>Giv,Pro
+      <ul>
+        <li>PROPN: Claudio, Othelo, Pascal, Pascalu, Radka, Raduna, Sandy, Zora</li>
+      </ul>
+    </li>
+    <li>Giv,Sur
+      <ul>
+        <li>PROPN: Ariadna, Kosmy, Perry, Joy, Dante, Dantem, Eliot, Figara, James, Jamese</li>
+      </ul>
+    </li>
+    <li>Nat
+      <ul>
+        <li>PROPN: Adygejci, Pražané, Angličan, Egypťané, Keltové, Afričanů, Američana, Američané, Američanů, Asyřané</li>
+      </ul>
+    </li>
+    <li>Nat,Sur
+      <ul>
+        <li>PROPN: Srba</li>
+      </ul>
+    </li>
+    <li>Oth
+      <ul>
+        <li>ADJ: Santa</li>
+        <li>ADP: aus</li>
+        <li>PART: Al</li>
+        <li>PROPN: SNP, Opeplatis, Plastex, Rena, Erotissimo, Gaudeamus, Intermóda, Invex, Luna, Musikbuch</li>
+      </ul>
+    </li>
+    <li>Pro
+      <ul>
+        <li>ADJ: Rudého, Illustrierte, Mladé, Prague, Rouge, Schweizer, Super, Touring, Tourist, linguistique</li>
+        <li>ADP: della</li>
+        <li>PROPN: Škoda, Merkur, Duha, Octavia, FSČ, Klad, Romatic, SAPO, SaS, Tatramat</li>
+      </ul>
+    </li>
+    <li>Pro,Sur
+      <ul>
+        <li>PROPN: Baracchi, Burda, Mendoza</li>
+      </ul>
+    </li>
+    <li>Sur
+      <ul>
+        <li>ADJ: Erbenových, Erbenovy, Fučíkova, Mohorovičićovy, Bohrův, Erbenova, Erbenově, Fučíkovy, Fučíkův, Fučíkovo</li>
+        <li>PROPN: Fučík, Erben, Horálek, Knappová, Němec, Těšitelová, Lenin, Záveský, Kraus, Fučíka</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>NumForm</a>
+  <ul>
+    <li>Digit
+      <ul>
+        <li>NUM: #</li>
+      </ul>
+    </li>
+    <li>Word
+      <ul>
+        <li>NUM: dvou, jeden, dvě, tři, dva, obou, jedné, jednoho, jedním, dvěma</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: něm</li>
+        <li>ADV: něm</li>
+        <li>DET: t</li>
+        <li>NOUN: Kč, USD, m, m2, ha, t, ČSSR</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>AdpType</a>
+  <ul>
+    <li>Comprep
+      <ul>
+        <li>ADP: vzhledem</li>
+      </ul>
+    </li>
+    <li>Prep
+      <ul>
+        <li>ADP: v, podle, na, o, k, s, do, za, z, pro</li>
+      </ul>
+    </li>
+    <li>Voc
+      <ul>
+        <li>ADP: ve, ke, se, ze, ode, beze, přede</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>Hyph</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: do, od, pod</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>NumForm</a>
+  <ul>
+    <li>Roman
+      <ul>
+        <li>NUM: 1, 3, 2, 4, 5, 41, 7, 10, 2004, 2008</li>
+      </ul>
+    </li>
+    <li>Word
+      <ul>
+        <li>NUM: jeden, jedné, tří, dvanáct, dvě, dvanácti, jedno, jednoho, jednou, obě</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADV: apod</li>
+        <li>NOUN: dr, elektro, prof</li>
+        <li>PROPN: K, M, L, T, V, A, C, J, E, F</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>AdpType</a>
+  <ul>
+    <li>Comprep
+      <ul>
+        <li>ADP: vzhledem</li>
+      </ul>
+    </li>
+    <li>Prep
+      <ul>
+        <li>ADP: na, v, do, s, z, k, o, za, po, pro</li>
+      </ul>
+    </li>
+    <li>Voc
+      <ul>
+        <li>ADP: ve, ze, se, ke, beze, ode, přede, nade, pode, skrze</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>ConjType</a>
+  <ul>
+    <li>Oper
+      <ul>
+        <li>CCONJ: krát</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>Hyph</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: marx, dvou, troj, tří, československo</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>NumForm</a>
+  <ul>
+    <li>Digit
+      <ul>
+        <li>NUM: 1, 1942, 1948, 1953, 11, 1945, 20, 10, 1938, 1943</li>
+      </ul>
+    </li>
+    <li>Word
+      <ul>
+        <li>NUM: pár, jeden, dva, dvě, jednoho, tři, jedna, jednu, oba, čtyři</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: sv, tzv</li>
+        <li>ADP: př</li>
+        <li>ADV: cca</li>
+        <li>DET: n</li>
+        <li>NOUN: l, DNA, GCA, MPS, m, A, AIDS, APK, BK, CGI</li>
+        <li>PROPN: USA, BBC, CNN, EU, OSN, RECO, AP, BA, BID, CBC</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>AdpType</a>
+  <ul>
+    <li>Comprep
+      <ul>
+        <li>ADP: vzhledem</li>
+      </ul>
+    </li>
+    <li>Prep
+      <ul>
+        <li>ADP: v, na, z, s, do, o, k, pro, za, po</li>
+      </ul>
+    </li>
+    <li>Voc
+      <ul>
+        <li>ADP: ve, ze, se, ke, skrze, za</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>Foreign</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: The, National, New, Saint, a, American, Canadian, Cottonovy, Dareiův, Die</li>
+        <li>ADP: de, Von, of, Di, On</li>
+        <li>ADV: cca</li>
+        <li>CCONJ: and, If</li>
+        <li>NOUN: brexitu, e-maily, Blood, Breaking, Buck, Business, CGI, CTV, City, Consumer</li>
+        <li>PRON: You, me</li>
+        <li>PROPN: USA, Danevirke, CNN, Aviva, Company, George, Investors, Joseph, Mount, Multi</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>Hyph</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: Indo, francouzsko</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>NameType</a>
+  <ul>
+    <li>Com
+      <ul>
+        <li>ADJ: National, American, Die</li>
+        <li>PROPN: USA, Čching, BBC, CNN, EU, Aviva, Company, Facebooku, Investors, Multi</li>
+      </ul>
+    </li>
+    <li>Com,Geo
+      <ul>
+        <li>PROPN: Scotland</li>
+      </ul>
+    </li>
+    <li>Com,Pro
+      <ul>
+        <li>PROPN: Ford, GM</li>
+      </ul>
+    </li>
+    <li>Geo
+      <ul>
+        <li>ADJ: New, San, Beverly, Kapského, Los, Pearl, Severní, Silicon, South, Wall</li>
+        <li>PROPN: Čína, Francie, Albánie, Británii, Danevirke, Evropě, Itálii, Ameriky, Asii, Británie</li>
+      </ul>
+    </li>
+    <li>Geo,Giv
+      <ul>
+        <li>PROPN: Thrákie, Thrákii, Thrákií</li>
+      </ul>
+    </li>
+    <li>Geo,Giv,Sur
+      <ul>
+        <li>ADP: Di</li>
+      </ul>
+    </li>
+    <li>Giv
+      <ul>
+        <li>ADJ: Saint, Alexandrově, Caesarovi, Cottonovy, Césarovo, Dareiův, Edgarovy, Germaininých, Kimově</li>
+        <li>PROPN: Donald, Richarda, Augustus, Donalda, František, George, González, Jasmína, Ježíše, Joseph</li>
+      </ul>
+    </li>
+    <li>Giv,Sur
+      <ul>
+        <li>PROPN: James, Michael, Michala, Stephen, Štěpán</li>
+      </ul>
+    </li>
+    <li>Nat
+      <ul>
+        <li>PROPN: Australané, Mayové, Číňanů, Řekové, Židů, Aboriginci, Achájů, Američan, Američané, Athéňanů</li>
+      </ul>
+    </li>
+    <li>Oth
+      <ul>
+        <li>PROPN: Cup, Cupu</li>
+      </ul>
+    </li>
+    <li>Pro
+      <ul>
+        <li>ADJ: El, World</li>
+        <li>PROPN: Endurance, Dead, Greco, Loving, MahaNakhon, Mate, Nectar, Select, Simple, Slack</li>
+      </ul>
+    </li>
+    <li>Sur
+      <ul>
+        <li>ADJ: achaimenovské, Achaimenovskou, Achaimenovská, Bergeronova, Berijovo, Blochových, Carangiina, Dossovy, Erdoganovu, Graftonova</li>
+        <li>PROPN: Clintonové, Trump, Trumpa, Bluntová, Mišima, Seagal, Winstone, Wright, Šen, Aldrin</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>NumForm</a>
+  <ul>
+    <li>Digit
+      <ul>
+        <li>NUM: 1, 3, 20, 2014, 2015, 5, 10, 100, 1492, 2010</li>
+      </ul>
+    </li>
+    <li>Roman
+      <ul>
+        <li>NUM: I, III, II, IV, V, VI, X</li>
+      </ul>
+    </li>
+    <li>Word
+      <ul>
+        <li>NUM: dva, čtyři, dvou, dvě, jedné, jeden, dvěma, deset, jedna, jedním</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: tzv, a, čs, o, sv, RM, US, Č, n, k</li>
+        <li>ADP: n, v, př, P, m, vč</li>
+        <li>ADV: např, mj, apod, atd, resp, atp, popř, cca, ap, kupř</li>
+        <li>CCONJ: tj, n</li>
+        <li>DET: t, n, mn, vš</li>
+        <li>NOUN: r, s, tel, m, č, km, MS, mil, Kčs, cm</li>
+        <li>PART: CA</li>
+        <li>PROPN: ČR, LN, ODS, J, OSN, ODA, M, ČSFR, V, A</li>
+        <li>VERB-Fin: tzn, j, srov</li>
+        <li>X: A, H, M, S</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>AdpType</a>
+  <ul>
+    <li>Comprep
+      <ul>
+        <li>ADP: vzhledem, nehledě, narozdíl</li>
+      </ul>
+    </li>
+    <li>Prep
+      <ul>
+        <li>ADP: v, na, o, z, s, do, k, pro, za, po</li>
+      </ul>
+    </li>
+    <li>Voc
+      <ul>
+        <li>ADP: ve, se, ze, ke, ode, beze, ku, skrze, přede, nade</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>ConjType</a>
+  <ul>
+    <li>Oper
+      <ul>
+        <li>CCONJ: krát, plus, minus, kráte</li>
+        <li>SYM: x</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>Foreign</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: New, the, open, US, Pink, la, Le, Deutsche, die, United</li>
+        <li>ADJ-Part: vu</li>
+        <li>ADP: de, of, di, van, in, von, versus, ad, Pro, to</li>
+        <li>ADV: cca, priori, Today, live, Here, Only, Sic, Very, dove, echt</li>
+        <li>CCONJ: and, et, und, As, or, ma, So, e, n</li>
+        <li>DET: My, That, This, Your, sua, C, Notre, Some, These, ce</li>
+        <li>INTJ: O, propos, Bang, Boom, Crash</li>
+        <li>NOUN: play, managementu, management, CD, s, facto, st, o, homo, neem</li>
+        <li>NUM: Four, Twenty, Seven, Six, one, Five, Three, Tre, Tri, seděm</li>
+        <li>PART: off, džambo, not, t, oui, Bienvenue, So, ne, sorry, viva</li>
+        <li>PRON: it, All, you, I, Me, We, Us, She, Some, WAS</li>
+        <li>PROPN: HZDS, IRA, Floyd, Nature, International, Science, Sinn, Fein, Times, Cup</li>
+        <li>SCONJ: as, If, When, ak, ako, gdyž, kak</li>
+        <li>VERB-Fin: is, est, transit, Habent, Want, Wish, Won, are, ist, need</li>
+        <li>VERB-Inf: Be, can, Check, Come, Keep, Porter, Talk, Believe, Change, Dance</li>
+        <li>VERB-Part: Were, bolo, Said, dostal, kam, naháňali, polučil, pričinili, wasn</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>Hyph</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: česko, izraelsko, německo, rusko, srbsko, americko, matematicko, polsko, maďarsko, anglo</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>NameType</a>
+  <ul>
+    <li>Com
+      <ul>
+        <li>ADJ: RM, Pink, K, J, Deutsche, United, Die, I, U, British</li>
+        <li>ADP: Pro, PRO, dei, des, po</li>
+        <li>ADV: More, Nahoru, dolů, achšav</li>
+        <li>CCONJ: und</li>
+        <li>INTJ: Halo</li>
+        <li>NUM: Four, Seven, Twenty, Six, Tre</li>
+        <li>PART: Non, we</li>
+        <li>PRON: All</li>
+        <li>PROPN: ODS, OSN, ODA, ČSSD, NATO, Sparta, ČT, HZDS, EU, FS</li>
+        <li>VERB-Inf: Can, Dance</li>
+      </ul>
+    </li>
+    <li>Com,Geo
+      <ul>
+        <li>ADJ: York, Covent, Abbey, Amsterdam, Bradford, Brooklyn, Louis, New, Oak, Ridge</li>
+        <li>PROPN: Chelsea, Bergen, Europe, Kladno, Prague, Aral, Bay, California, Canada, Deutschland</li>
+      </ul>
+    </li>
+    <li>Com,Giv
+      <ul>
+        <li>ADJ: Konrád</li>
+        <li>PROPN: KOVO, Kovo, Konstruktiva, Poldi, Fiorentina, Michael, Ringo, Světozor, Kovohutě, Nšoči</li>
+      </ul>
+    </li>
+    <li>Com,Giv,Sur
+      <ul>
+        <li>PROPN: Winston</li>
+      </ul>
+    </li>
+    <li>Com,Nat
+      <ul>
+        <li>PROPN: Jihlavanu, Jihlavan</li>
+      </ul>
+    </li>
+    <li>Com,Oth
+      <ul>
+        <li>ADJ: Al, Black, Box, Mute</li>
+      </ul>
+    </li>
+    <li>Com,Pro
+      <ul>
+        <li>ADJ: Apple, Microsoft</li>
+        <li>PROPN: Bild, Canon, Fiat, Honda, Fiatu, Canonu, Hondy, CANON, Fiaty, HONDA</li>
+      </ul>
+    </li>
+    <li>Com,Pro,Sur
+      <ul>
+        <li>ADJ: Sun</li>
+      </ul>
+    </li>
+    <li>Com,Sur
+      <ul>
+        <li>ADJ: Gordon, Binder, Cocteau, Goethe, Mandel, Rambert, Random, Warner, Wellesley</li>
+        <li>PROPN: Benetton, Benettonu, Mates, Winston, Maxwell, Biederstein, Bradstreet, Daimler, Dohme, Dun</li>
+      </ul>
+    </li>
+    <li>Geo
+      <ul>
+        <li>ADJ: New, Č, Flushing, Los, San, Tchaj, Horní, Devils, Twin, Buenos</li>
+        <li>ADP: Unter, del, Átha</li>
+        <li>PROPN: Praha, ČR, Praze, USA, Evropy, Brno, Prahy, ČSFR, Evropě, Německu</li>
+      </ul>
+    </li>
+    <li>Geo,Giv
+      <ul>
+        <li>ADJ: Karl, Karlovy</li>
+        <li>PROPN: Amos, Gyula, Gyuly, Karin, Alma, AMOS, Amosem, Gyulu, José, Josému</li>
+      </ul>
+    </li>
+    <li>Geo,Giv,Sur
+      <ul>
+        <li>ADP: di</li>
+        <li>PROPN: Butrus, Butruse, Keith, Kozák</li>
+      </ul>
+    </li>
+    <li>Geo,Oth
+      <ul>
+        <li>ADJ: Salem</li>
+        <li>PROPN: Saturn</li>
+      </ul>
+    </li>
+    <li>Geo,Pro
+      <ul>
+        <li>ADJ: York, Denver, Washington</li>
+        <li>PROPN: Mountain, RENOVA</li>
+      </ul>
+    </li>
+    <li>Geo,Sur
+      <ul>
+        <li>ADJ: Marx, Špindlerově, Lounských, Powellovo, Powellovy, Powellových, Santa, Spenglerův, Wallisově</li>
+        <li>PROPN: Breda, Paisley, Petrov, Wallis, Powell, Bihače, Wallise, Warren, Lichtenbergu, Lom</li>
+      </ul>
+    </li>
+    <li>Giv
+      <ul>
+        <li>ADJ: Karlovy, Karlových, Karlova, Karlově, Heinrichovy, Janova, Jindřichově, Heinrichových, Jindřichův, Ježíšova</li>
+        <li>PROPN: J, Jiří, Jan, Václav, Jana, Petr, M, Josef, Pavel, Vladimír</li>
+      </ul>
+    </li>
+    <li>Giv,Nat
+      <ul>
+        <li>PROPN: Hun</li>
+      </ul>
+    </li>
+    <li>Giv,Oth
+      <ul>
+        <li>PROPN: Miranda, David, John, MIRANDY</li>
+      </ul>
+    </li>
+    <li>Giv,Pro
+      <ul>
+        <li>PROPN: Pascal</li>
+      </ul>
+    </li>
+    <li>Giv,Pro,Sur
+      <ul>
+        <li>PROPN: Figaro</li>
+      </ul>
+    </li>
+    <li>Giv,Sur
+      <ul>
+        <li>ADJ: Eukleidových, Eukleidovy, Damoklův, Heřmanův, Alláhovým, Berijova, Eukleidova, Eukleidově, Franckův, Hésiodovy</li>
+        <li>PROPN: Perry, Perryho, Charlie, Diega, Othello, Diego, Ricardo, Rút, Heřman, Johan</li>
+      </ul>
+    </li>
+    <li>Nat
+      <ul>
+        <li>ADJ: Američanovy, Američanův, Australanovo, Brazilcovy, Florenťanův, Indian, Irův, Němcův, Pražákovo, Taliánův</li>
+        <li>PROPN: Němci, Češi, Němců, Američané, američan, Slováci, Srbové, Rusové, Srby, Čechů</li>
+      </ul>
+    </li>
+    <li>Nat,Sur
+      <ul>
+        <li>PROPN: Uher, Maye, UHER</li>
+      </ul>
+    </li>
+    <li>Oth
+      <ul>
+        <li>ADJ: US, New, Made, Sex, al, Australian, French, Miranda, Inspiral, Mute</li>
+        <li>ADP: for, Into, Pour, Pro, To</li>
+        <li>ADV: COSI, Down, How, Live, So, Up, Why</li>
+        <li>DET: Notre, This</li>
+        <li>INTJ: Bang, Boom, Crash</li>
+        <li>PART: L, Not, at, el, t</li>
+        <li>PRON: All, Everything, You</li>
+        <li>PROPN: PVP, Prix, Tour, ECU, Garden, München, line, Rapaportu, VC, Age</li>
+        <li>VERB-Fin: Can, Comes, FAN, Feels, Takes, Want</li>
+        <li>VERB-Inf: Porter</li>
+        <li>VERB-Part: Said</li>
+      </ul>
+    </li>
+    <li>Oth,Sur
+      <ul>
+        <li>ADJ: Shea</li>
+      </ul>
+    </li>
+    <li>Pro
+      <ul>
+        <li>ADJ: Financial, coca, Super, Chem, Eng, Prágai, Wyborcza, der, pepsi, Magyar</li>
+        <li>ADP: ex, della, Quantum</li>
+        <li>ADV: Ahead, Inside, Live, Today, Weekly</li>
+        <li>DET: Your</li>
+        <li>PRON: Ty, It, man</li>
+        <li>PROPN: LN, MF, PC, Škoda, mercedes, favorit, Mir, ford, polo, Welt</li>
+        <li>VERB-Inf: Check, Lean</li>
+      </ul>
+    </li>
+    <li>Pro,Sur
+      <ul>
+        <li>PROPN: Kozel, Stock, Burda, Johnnie, Hornet, Walker, Walkerem</li>
+      </ul>
+    </li>
+    <li>Sur
+      <ul>
+        <li>ADJ: Milíčova, Masarykově, Benešových, Schrödingerova, Casimirův, Klausův, Masarykova, Mečiarova, Benešovy, Janáčkovy</li>
+        <li>ADP: zum</li>
+        <li>PART: ka</li>
+        <li>PROPN: Klaus, Havel, Klause, Svoboda, Mečiar, Havla, Jelcin, John, Zeman, Němec</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>NumForm</a>
+  <ul>
+    <li>Digit
+      <ul>
+        <li>NUM: 1, 2, 3, 4, 6, 5, 1992, 10, 1994, 1993</li>
+      </ul>
+    </li>
+    <li>Roman
+      <ul>
+        <li>NUM: II, I, III, IV, V, VI, XX, D, C, IX</li>
+      </ul>
+    </li>
+    <li>Word
+      <ul>
+        <li>NUM: dva, tři, jeden, dvě, tisíc, dvou, pět, čtyři, obou, jednoho</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>NumValue</a>
+  <ul>
+    <li>1
+      <ul>
+        <li>ADJ: jedny, jedni, jedněch, jedněm, jedněmi</li>
+      </ul>
+    </li>
+    <li>1,2,3
+      <ul>
+        <li>NUM: dva, tři, jeden, dvě, tisíc, dvou, čtyři, obou, jednoho, jedné</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: TH, jč, HT, LP, PE, Rh</li>
+        <li>ADV: kt</li>
+        <li>NOUN: ÚV, ZV, ZO, JZD, Kčs, ONV, ÚR, MěstNV, BSP, BP</li>
+        <li>PROPN: KSČ, ROH, SSSR, ÚJČ, SSM, ČSAV, ČSSR, ČSR, TIBA, NDR</li>
+        <li>PUNCT: ?</li>
+        <li>SYM: *</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>AdpType</a>
+  <ul>
+    <li>Comprep
+      <ul>
+        <li>ADP: vzhledem, nehledě</li>
+      </ul>
+    </li>
+    <li>Prep
+      <ul>
+        <li>ADP: v, na, s, z, o, k, pro, do, za, při</li>
+      </ul>
+    </li>
+    <li>Voc
+      <ul>
+        <li>ADP: ve, ze, se, ke, beze, ode, přede, ku, skrze, nade</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>ConjType</a>
+  <ul>
+    <li>Oper
+      <ul>
+        <li>CCONJ: krát, minus</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>Foreign</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: online, signifiant, super, la, Jazykovedným, New, Telephone, Tonkünstler, ferenda, fit</li>
+        <li>ADJ-Part: data</li>
+        <li>ADP: de, in, a, ad, cross, of, par, Pro, ante, aus</li>
+        <li>ADV: priori, explicite, quo, defacto, expost, innuce, ipsofacto, memoriam, theory</li>
+        <li>CCONJ: et, and</li>
+        <li>DET: sui, hoc, quem</li>
+        <li>NOUN: luxe, vitro, generis, nepusto, pusto, excellence, homo, lege, peeling, Buch</li>
+        <li>PART: La, das, des, non, Le, el, quo, Al</li>
+        <li>PRON: eo, ipso, Tous, er, qua, they</li>
+        <li>PROPN: Combi, Kombi, Manche, Orchester, Bell, Böhmen, Corriere, Fruit, Gaudeamus, George</li>
+        <li>VERB-Fin: are, formo, singt</li>
+        <li>VERB-Inf: movere, savoir, singen, vivre</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>Hyph</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: elektro, marxisticko, Karpatsko, teoreticko, rakousko, československo, dodavatelsko, Koh, francouzsko, hospodářsko</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>NameType</a>
+  <ul>
+    <li>Com
+      <ul>
+        <li>ADJ: Koh, i, Telephone, Tonkünstler, Červeného, Deutscher, Jazykovedným, Povážské, Pražská, United</li>
+        <li>ADP: Pro, pour</li>
+        <li>CCONJ: and</li>
+        <li>PRON: Tous</li>
+        <li>PROPN: KSČ, ROH, ÚJČ, SSM, ČSAV, TIBA, NF, OV, GŘ, VÚM</li>
+      </ul>
+    </li>
+    <li>Com,Geo
+      <ul>
+        <li>PROPN: Böhmen, Prag</li>
+      </ul>
+    </li>
+    <li>Com,Giv
+      <ul>
+        <li>PROPN: Konstruktiva</li>
+      </ul>
+    </li>
+    <li>Com,Pro
+      <ul>
+        <li>ADJ: Verein</li>
+        <li>PROPN: Dermacol, Gambrinus, Prazdroj</li>
+      </ul>
+    </li>
+    <li>Com,Sur
+      <ul>
+        <li>PROPN: Bell, Bramsch, Ventura</li>
+      </ul>
+    </li>
+    <li>Geo
+      <ul>
+        <li>ADJ: Králové, Kutná, Kašperských, Lužických, České, Mariánských, Nové, Vrátné, Bassa, Janské</li>
+        <li>PART: el, La</li>
+        <li>PROPN: Praze, SSSR, Praha, ČSSR, Prahy, ČSR, Československa, NDR, Země, USA</li>
+      </ul>
+    </li>
+    <li>Geo,Giv
+      <ul>
+        <li>ADJ: Karlovy, Josefův, Karlových, Františkových, Jindřichova, Konstantinovy</li>
+        <li>PROPN: Boleslav, Mořici, Kuby, Louis, Lucie, Mořice</li>
+      </ul>
+    </li>
+    <li>Geo,Oth
+      <ul>
+        <li>PROPN: Österreich</li>
+      </ul>
+    </li>
+    <li>Geo,Sur
+      <ul>
+        <li>ADJ: Gottwaldově, Vančurově, Jiráskova, Melantrichova, Alšově, Chotkově, Engelsových, Fučíkovy, Fučíkově, Gottwaldovy</li>
+        <li>PROPN: Pavlov, Hejná, Tigridem, Blatná, Hlinka, Hracholusk, Janského, Lachaise, Lhota, Lhotu</li>
+      </ul>
+    </li>
+    <li>Giv
+      <ul>
+        <li>ADJ: Karlovy, Karlův, Karlově, Angelino, Anglický, Ariadnin, Bozděchovy, Božetěchově, Buridanův, Chefrenovy</li>
+        <li>PROPN: Karel, Julius, Václav, Jana, Karla, Jaroslav, Josef, Jiří, Zdeněk, Klement</li>
+      </ul>
+    </li>
+    <li>Giv,Oth
+      <ul>
+        <li>PROPN: Lucii</li>
+      </ul>
+    </li>
+    <li>Giv,Pro
+      <ul>
+        <li>PROPN: Claudio, Othelo, Pascal, Pascalu, Radka, Raduna, Sandy, Zora</li>
+      </ul>
+    </li>
+    <li>Giv,Sur
+      <ul>
+        <li>PROPN: Ariadna, Kosmy, Perry, Joy, Dante, Dantem, Eliot, Figara, James, Jamese</li>
+      </ul>
+    </li>
+    <li>Nat
+      <ul>
+        <li>PROPN: Adygejci, Pražané, Angličan, Egypťané, Keltové, Afričanů, Američana, Američané, Američanů, Asyřané</li>
+      </ul>
+    </li>
+    <li>Nat,Sur
+      <ul>
+        <li>PROPN: Srba</li>
+      </ul>
+    </li>
+    <li>Oth
+      <ul>
+        <li>ADJ: Santa</li>
+        <li>ADP: aus</li>
+        <li>PART: Al</li>
+        <li>PROPN: SNP, Opeplatis, Plastex, Rena, Erotissimo, Gaudeamus, Intermóda, Invex, Luna, Musikbuch</li>
+      </ul>
+    </li>
+    <li>Pro
+      <ul>
+        <li>ADJ: Rudého, Illustrierte, Mladé, Prague, Rouge, Schweizer, Super, Touring, Tourist, linguistique</li>
+        <li>ADP: della</li>
+        <li>PROPN: Škoda, Merkur, Duha, Octavia, FSČ, Klad, Romatic, SAPO, SaS, Tatramat</li>
+      </ul>
+    </li>
+    <li>Pro,Sur
+      <ul>
+        <li>PROPN: Baracchi, Burda, Mendoza</li>
+      </ul>
+    </li>
+    <li>Sur
+      <ul>
+        <li>ADJ: Erbenových, Erbenovy, Fučíkova, Mohorovičićovy, Bohrův, Erbenova, Erbenově, Fučíkovy, Fučíkův, Fučíkovo</li>
+        <li>PROPN: Fučík, Erben, Horálek, Knappová, Němec, Těšitelová, Lenin, Záveský, Kraus, Fučíka</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>NumForm</a>
+  <ul>
+    <li>Digit
+      <ul>
+        <li>NUM: #</li>
+      </ul>
+    </li>
+    <li>Word
+      <ul>
+        <li>NUM: dvou, jeden, dvě, tři, dva, obou, jedné, jednoho, jedním, dvěma</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>NumValue</a>
+  <ul>
+    <li>1
+      <ul>
+        <li>ADJ: jedněch, jedni, jedny</li>
+      </ul>
+    </li>
+    <li>1,2,3
+      <ul>
+        <li>NUM: dvou, jeden, dvě, tři, dva, obou, jedné, jednoho, jedním, dvěma</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: něm</li>
+        <li>ADV: něm</li>
+        <li>DET: t</li>
+        <li>NOUN: Kč, USD, m, m2, ha, t, ČSSR</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>AdpType</a>
+  <ul>
+    <li>Comprep
+      <ul>
+        <li>ADP: vzhledem</li>
+      </ul>
+    </li>
+    <li>Prep
+      <ul>
+        <li>ADP: v, podle, na, o, k, s, do, za, z, pro</li>
+      </ul>
+    </li>
+    <li>Voc
+      <ul>
+        <li>ADP: ve, ke, se, ze, ode, beze, přede</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>Hyph</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: do, od, pod</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>NumForm</a>
+  <ul>
+    <li>Roman
+      <ul>
+        <li>NUM: 1, 3, 2, 4, 5, 41, 7, 10, 2004, 2008</li>
+      </ul>
+    </li>
+    <li>Word
+      <ul>
+        <li>NUM: jeden, jedné, tří, dvanáct, dvě, dvanácti, jedno, jednoho, jednou, obě</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>NumValue</a>
+  <ul>
+    <li>1,2,3
+      <ul>
+        <li>NUM: jeden, jedné, tří, dvě, jedno, jednoho, jednou, obě, dvou, dvěma</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADV: apod</li>
+        <li>NOUN: dr, elektro, prof</li>
+        <li>PROPN: K, M, L, T, V, A, C, J, E, F</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>AdpType</a>
+  <ul>
+    <li>Comprep
+      <ul>
+        <li>ADP: vzhledem</li>
+      </ul>
+    </li>
+    <li>Prep
+      <ul>
+        <li>ADP: na, v, do, s, z, k, o, za, po, pro</li>
+      </ul>
+    </li>
+    <li>Voc
+      <ul>
+        <li>ADP: ve, ze, se, ke, beze, ode, přede, nade, pode, skrze</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>ConjType</a>
+  <ul>
+    <li>Oper
+      <ul>
+        <li>CCONJ: krát</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>Hyph</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: marx, dvou, troj, tří, československo</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>NumForm</a>
+  <ul>
+    <li>Digit
+      <ul>
+        <li>NUM: 1, 1942, 1948, 1953, 11, 1945, 20, 10, 1938, 1943</li>
+      </ul>
+    </li>
+    <li>Word
+      <ul>
+        <li>NUM: pár, jeden, dva, dvě, jednoho, tři, jedna, jednu, oba, čtyři</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>NumValue</a>
+  <ul>
+    <li>1
+      <ul>
+        <li>ADJ: jedny, jedněch</li>
+      </ul>
+    </li>
+    <li>1,2,3
+      <ul>
+        <li>NUM: jeden, dva, dvě, jednoho, tři, jedna, jednu, oba, čtyři, jedné</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: sv, tzv</li>
+        <li>ADP: př</li>
+        <li>ADV: cca</li>
+        <li>DET: n</li>
+        <li>NOUN: l, DNA, GCA, MPS, m, A, AIDS, APK, BK, CGI</li>
+        <li>PROPN: USA, BBC, CNN, EU, OSN, RECO, AP, BA, BID, CBC</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>AdpType</a>
+  <ul>
+    <li>Comprep
+      <ul>
+        <li>ADP: vzhledem</li>
+      </ul>
+    </li>
+    <li>Prep
+      <ul>
+        <li>ADP: v, na, z, s, do, o, k, pro, za, po</li>
+      </ul>
+    </li>
+    <li>Voc
+      <ul>
+        <li>ADP: ve, ze, se, ke, skrze, za</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>Foreign</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: The, National, New, Saint, a, American, Canadian, Cottonovy, Dareiův, Die</li>
+        <li>ADP: de, Von, of, Di, On</li>
+        <li>ADV: cca</li>
+        <li>CCONJ: and, If</li>
+        <li>NOUN: brexitu, e-maily, Blood, Breaking, Buck, Business, CGI, CTV, City, Consumer</li>
+        <li>PRON: You, me</li>
+        <li>PROPN: USA, Danevirke, CNN, Aviva, Company, George, Investors, Joseph, Mount, Multi</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>Hyph</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: Indo, francouzsko</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>NameType</a>
+  <ul>
+    <li>Com
+      <ul>
+        <li>ADJ: National, American, Die</li>
+        <li>PROPN: USA, Čching, BBC, CNN, EU, Aviva, Company, Facebooku, Investors, Multi</li>
+      </ul>
+    </li>
+    <li>Com,Geo
+      <ul>
+        <li>PROPN: Scotland</li>
+      </ul>
+    </li>
+    <li>Com,Pro
+      <ul>
+        <li>PROPN: Ford, GM</li>
+      </ul>
+    </li>
+    <li>Geo
+      <ul>
+        <li>ADJ: New, San, Beverly, Kapského, Los, Pearl, Severní, Silicon, South, Wall</li>
+        <li>PROPN: Čína, Francie, Albánie, Británii, Danevirke, Evropě, Itálii, Ameriky, Asii, Británie</li>
+      </ul>
+    </li>
+    <li>Geo,Giv
+      <ul>
+        <li>PROPN: Thrákie, Thrákii, Thrákií</li>
+      </ul>
+    </li>
+    <li>Geo,Giv,Sur
+      <ul>
+        <li>ADP: Di</li>
+      </ul>
+    </li>
+    <li>Giv
+      <ul>
+        <li>ADJ: Saint, Alexandrově, Caesarovi, Cottonovy, Césarovo, Dareiův, Edgarovy, Germaininých, Kimově</li>
+        <li>PROPN: Donald, Richarda, Augustus, Donalda, František, George, González, Jasmína, Ježíše, Joseph</li>
+      </ul>
+    </li>
+    <li>Giv,Sur
+      <ul>
+        <li>PROPN: James, Michael, Michala, Stephen, Štěpán</li>
+      </ul>
+    </li>
+    <li>Nat
+      <ul>
+        <li>PROPN: Australané, Mayové, Číňanů, Řekové, Židů, Aboriginci, Achájů, Američan, Američané, Athéňanů</li>
+      </ul>
+    </li>
+    <li>Oth
+      <ul>
+        <li>PROPN: Cup, Cupu</li>
+      </ul>
+    </li>
+    <li>Pro
+      <ul>
+        <li>ADJ: El, World</li>
+        <li>PROPN: Endurance, Dead, Greco, Loving, MahaNakhon, Mate, Nectar, Select, Simple, Slack</li>
+      </ul>
+    </li>
+    <li>Sur
+      <ul>
+        <li>ADJ: achaimenovské, Achaimenovskou, Achaimenovská, Bergeronova, Berijovo, Blochových, Carangiina, Dossovy, Erdoganovu, Graftonova</li>
+        <li>PROPN: Clintonové, Trump, Trumpa, Bluntová, Mišima, Seagal, Winstone, Wright, Šen, Aldrin</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>NumForm</a>
+  <ul>
+    <li>Digit
+      <ul>
+        <li>NUM: 1, 3, 20, 2014, 2015, 5, 10, 100, 1492, 2010</li>
+      </ul>
+    </li>
+    <li>Roman
+      <ul>
+        <li>NUM: I, III, II, IV, V, VI, X</li>
+      </ul>
+    </li>
+    <li>Word
+      <ul>
+        <li>NUM: dva, čtyři, dvou, dvě, jedné, jeden, dvěma, deset, jedna, jedním</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+<li><a>NumValue</a>
+  <ul>
+    <li>1
+      <ul>
+        <li>ADJ: jedni</li>
+      </ul>
+    </li>
+    <li>1,2,3
+      <ul>
+        <li>NUM: dva, čtyři, dvou, dvě, jedné, jeden, dvěma, jedna, jedním, tři</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="20%" valign="top">
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: tzv, a, čs, o, sv, RM, US, Č, n, k</li>
+        <li>ADP: n, v, př, P, m, vč</li>
+        <li>ADV: např, mj, apod, atd, resp, atp, popř, cca, ap, kupř</li>
+        <li>CCONJ: tj, n</li>
+        <li>DET: t, n, mn, vš</li>
+        <li>NOUN: r, s, tel, m, č, km, MS, mil, Kčs, cm</li>
+        <li>PART: CA</li>
+        <li>PROPN: ČR, LN, ODS, J, OSN, ODA, M, ČSFR, V, A</li>
+        <li>VERB-Fin: tzn, j, srov</li>
+        <li>X: A, H, M, S</li>
+      </ul>
+    </li>
+  </ul>
+</li>
 <li><a>AdpType</a>
   <ul>
     <li>Comprep
