@@ -32,7 +32,7 @@ it is still tagged `ADJ`.
 
 ### Examples
 
-- _<b>Դոնի</b>_.`PROPN` _<b>Ռոստով</b>_.`PROPN`, _<b>Մայնի</b>_.`PROPN` _<b>ֆրանկֆուրտ</b>_.`PROPN` “Rostov-on-Don, Frankfurt am Main”. _Ռոստով&nbsp;_ and _Ֆրանկֆուրտ&nbsp;_ are the heads. The _Դոնի&nbsp;_, _Մայնի&nbsp;_ parts refer to the rivers flowing through the city, and are tagged as `PROPN` too.
+- _<b>Դոնի</b>_.`PROPN` _<b>Ռոստով</b>_.`PROPN`, _<b>Մայնի</b>_.`PROPN` _<b>Ֆրանկֆուրտ</b>_.`PROPN` “Rostov-on-Don, Frankfurt am Main”. _Ռոստով&nbsp;_ and _Ֆրանկֆուրտ&nbsp;_ are the heads. The _Դոնի&nbsp;_, _Մայնի&nbsp;_ parts refer to the rivers flowing through the city, and are tagged as `PROPN` too.
 - _Վերին_.`ADJ` _<b>Սասնաշեն</b>_.`PROPN` is a village. _Սասնաշեն&nbsp;_ is the head and it is
   tagged `PROPN` although it is geographical name. _Վերին&nbsp;_ is an adjective meaning “upper” and it is
   tagged `ADJ`.
