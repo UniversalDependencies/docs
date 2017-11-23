@@ -680,6 +680,17 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
 <li><a>Number</a>
 
   </td>
@@ -966,6 +977,17 @@ udver: '2'
   <ul>
   </ul>
 </li>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
 
   </td>
 </tr>
@@ -1347,6 +1369,22 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+<h3>Verbal Features</h3>
+
+
+  </td>
+  <td width="33%" valign="top">
 <h3>Verbal Features</h3>
 
 
@@ -1356,9 +1394,15 @@ udver: '2'
 
 
   </td>
+</tr>
+<tr>
   <td width="33%" valign="top">
-<h3>Verbal Features</h3>
 
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
 
   </td>
 </tr>
@@ -1774,6 +1818,17 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
@@ -2140,6 +2195,18 @@ udver: '2'
 
   </td>
   <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+<li><a>Poss</a>
+
+  </td>
+  <td width="33%" valign="top">
 <li><a>Poss</a>
 
   </td>
@@ -2150,6 +2217,13 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
+  <ul>
+    <li>Yes
+      <ul>
+        <li>DET: sin, sina, deras, sitt, våra, vår, vårt, dess, din, ditt</li>
+      </ul>
+    </li>
+  </ul>
 
   </td>
   <td width="33%" valign="top">
@@ -2178,7 +2252,9 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
-<li><a>Poss</a>
+  <ul>
+  </ul>
+</li>
 
   </td>
   <td width="33%" valign="top">
@@ -2196,97 +2272,146 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+<h3>Other Features</h3>
+
+
+  </td>
+  <td width="33%" valign="top">
+<h3>Other Features</h3>
+
+
+  </td>
+  <td width="33%" valign="top">
+<h3>Other Features</h3>
+
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+<li><a>Abbr</a>
   <ul>
     <li>Yes
       <ul>
-        <li>DET: sin, sina, deras, sitt, våra, vår, vårt, dess, din, ditt</li>
+        <li>ADJ: S:t, ev, Kungl, Kungl., Teol, fil, med</li>
+        <li>ADP: f</li>
+        <li>ADV: t.ex., ca, t ex, bl.a., s k, etc, bl a, dvs, osv, s.k.</li>
+        <li>NOUN: kr, %, dr, s., kap., proc, KPI, milj, mån, kl</li>
+        <li>VERB-Fin: jfr</li>
       </ul>
     </li>
   </ul>
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-  <ul>
-  </ul>
 </li>
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-<h3>Other Features</h3>
-
-
-  </td>
-  <td width="33%" valign="top">
-<h3>Other Features</h3>
-
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
 
   </td>
   <td width="33%" valign="top">
@@ -2318,6 +2443,19 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
+<li><a>Foreign</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: Economic, European, New, United, priori, restante</li>
+        <li>ADP: a, in, of</li>
+        <li>ADV: sic</li>
+        <li>CCONJ: and</li>
+        <li>NOUN: capita, companionship, family, versa, vice, Agriculture, Community, Food, Nations, Organization</li>
+      </ul>
+    </li>
+  </ul>
+</li>
 
   </td>
   <td width="33%" valign="top">
@@ -2339,8 +2477,13 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
-<h3>Other Features</h3>
+<h2>Syntax</h2>
 
+<h3>Auxiliary Verbs and Copula</h3>
+
+<ul>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: vara.</li>
+</ul>
 
   </td>
   <td width="33%" valign="top">
@@ -2366,60 +2509,9 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
-<li><a>Abbr</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>ADJ: S:t, ev, Kungl, Kungl., Teol, fil, med</li>
-        <li>ADP: f</li>
-        <li>ADV: t.ex., ca, t ex, bl.a., s k, etc, bl a, dvs, osv, s.k.</li>
-        <li>NOUN: kr, %, dr, s., kap., proc, KPI, milj, mån, kl</li>
-        <li>VERB-Fin: jfr</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-<li><a>Foreign</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>ADJ: Economic, European, New, United, priori, restante</li>
-        <li>ADP: a, in, of</li>
-        <li>ADV: sic</li>
-        <li>CCONJ: and</li>
-        <li>NOUN: capita, companionship, family, versa, vice, Agriculture, Community, Food, Nations, Organization</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-<h2>Syntax</h2>
-
-<h3>Auxiliary Verbs and Copula</h3>
-
 <ul>
-<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: vara.</li>
+<li>This corpus uses 14 lemmas as auxiliaries (<a>aux</a>). Examples: kunna, ha, skola, måste, komma, få, vilja, böra, behöva, torde, må, lär, bruka, dra.</li>
+<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: bli.</li>
 </ul>
 
   </td>
@@ -2440,9 +2532,27 @@ udver: '2'
 </tr>
 <tr>
   <td width="33%" valign="top">
+<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+
+Here we consider only relations between verbs (parent) and nouns or pronouns (child).
 <ul>
-<li>This corpus uses 14 lemmas as auxiliaries (<a>aux</a>). Examples: kunna, ha, skola, måste, komma, få, vilja, böra, behöva, torde, må, lär, bruka, dra.</li>
-<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: bli.</li>
+  <li><a>nsubj</a>
+    <ul>
+      <li>VERB-Fin--NOUN (13)</li>
+      <li>VERB-Fin--NOUN-Nom (2063)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(till) (1)</li>
+      <li>VERB-Fin--PRON (1045)</li>
+      <li>VERB-Fin--PRON-Nom (1021)</li>
+      <li>VERB-Inf--NOUN (1)</li>
+      <li>VERB-Inf--NOUN-Nom (496)</li>
+      <li>VERB-Inf--PRON (200)</li>
+      <li>VERB-Inf--PRON-Nom (521)</li>
+      <li>VERB-Sup--NOUN (3)</li>
+      <li>VERB-Sup--NOUN-Nom (275)</li>
+      <li>VERB-Sup--PRON (100)</li>
+      <li>VERB-Sup--PRON-Nom (152)</li>
+    </ul>
+  </li>
 </ul>
 
   </td>
@@ -2511,25 +2621,26 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="33%" valign="top">
-<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
-
-Here we consider only relations between verbs (parent) and nouns or pronouns (child).
 <ul>
-  <li><a>nsubj</a>
+  <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (13)</li>
-      <li>VERB-Fin--NOUN-Nom (2063)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(till) (1)</li>
-      <li>VERB-Fin--PRON (1045)</li>
-      <li>VERB-Fin--PRON-Nom (1021)</li>
-      <li>VERB-Inf--NOUN (1)</li>
-      <li>VERB-Inf--NOUN-Nom (496)</li>
-      <li>VERB-Inf--PRON (200)</li>
-      <li>VERB-Inf--PRON-Nom (521)</li>
-      <li>VERB-Sup--NOUN (3)</li>
-      <li>VERB-Sup--NOUN-Nom (275)</li>
-      <li>VERB-Sup--PRON (100)</li>
-      <li>VERB-Sup--PRON-Nom (152)</li>
+      <li>VERB-Fin--NOUN (34)</li>
+      <li>VERB-Fin--NOUN-Acc (1)</li>
+      <li>VERB-Fin--NOUN-Gen (1)</li>
+      <li>VERB-Fin--NOUN-Nom (1762)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(för) (1)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(mellan) (1)</li>
+      <li>VERB-Fin--PRON (158)</li>
+      <li>VERB-Fin--PRON-Acc (230)</li>
+      <li>VERB-Inf--NOUN (10)</li>
+      <li>VERB-Inf--NOUN-Nom (1290)</li>
+      <li>VERB-Inf--NOUN-Nom-ADP(för) (1)</li>
+      <li>VERB-Inf--PRON (117)</li>
+      <li>VERB-Inf--PRON-Acc (149)</li>
+      <li>VERB-Sup--NOUN (2)</li>
+      <li>VERB-Sup--NOUN-Nom (256)</li>
+      <li>VERB-Sup--PRON (25)</li>
+      <li>VERB-Sup--PRON-Acc (33)</li>
     </ul>
   </li>
 </ul>
@@ -2602,25 +2713,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <tr>
   <td width="33%" valign="top">
 <ul>
-  <li><a>obj</a>
+  <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN (34)</li>
-      <li>VERB-Fin--NOUN-Acc (1)</li>
-      <li>VERB-Fin--NOUN-Gen (1)</li>
-      <li>VERB-Fin--NOUN-Nom (1762)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(för) (1)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(mellan) (1)</li>
-      <li>VERB-Fin--PRON (158)</li>
-      <li>VERB-Fin--PRON-Acc (230)</li>
-      <li>VERB-Inf--NOUN (10)</li>
-      <li>VERB-Inf--NOUN-Nom (1290)</li>
-      <li>VERB-Inf--NOUN-Nom-ADP(för) (1)</li>
-      <li>VERB-Inf--PRON (117)</li>
-      <li>VERB-Inf--PRON-Acc (149)</li>
-      <li>VERB-Sup--NOUN (2)</li>
-      <li>VERB-Sup--NOUN-Nom (256)</li>
-      <li>VERB-Sup--PRON (25)</li>
-      <li>VERB-Sup--PRON-Acc (33)</li>
+      <li>VERB-Fin--NOUN-Nom (26)</li>
+      <li>VERB-Fin--PRON (1)</li>
+      <li>VERB-Fin--PRON-Acc (43)</li>
+      <li>VERB-Inf--NOUN-Nom (23)</li>
+      <li>VERB-Inf--PRON (1)</li>
+      <li>VERB-Inf--PRON-Acc (49)</li>
+      <li>VERB-Sup--NOUN-Nom (1)</li>
+      <li>VERB-Sup--PRON-Acc (12)</li>
     </ul>
   </li>
 </ul>
@@ -2663,53 +2765,46 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+  <td width="33%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+<h3>Relations Overview</h3>
+
 <ul>
-  <li><a>iobj</a>
-    <ul>
-      <li>VERB-Fin--NOUN-Nom (26)</li>
-      <li>VERB-Fin--PRON (1)</li>
-      <li>VERB-Fin--PRON-Acc (43)</li>
-      <li>VERB-Inf--NOUN-Nom (23)</li>
-      <li>VERB-Inf--PRON (1)</li>
-      <li>VERB-Inf--PRON-Acc (49)</li>
-      <li>VERB-Sup--NOUN-Nom (1)</li>
-      <li>VERB-Sup--PRON-Acc (12)</li>
-    </ul>
-  </li>
+<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
+<li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
+<li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
 
   </td>
   <td width="33%" valign="top">
@@ -2728,24 +2823,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
 <li>The following 5 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-<h3>Relations Overview</h3>
-
-<ul>
-<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
-<li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
-<li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
-</ul>
-
-  </td>
-  <td width="33%" valign="top">
-
-  </td>
-  <td width="33%" valign="top">
 
   </td>
 </tr>
