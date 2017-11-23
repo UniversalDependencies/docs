@@ -35,7 +35,7 @@ Names of cities, countries, rivers, mountains etc.
 
 This value is used if it is not known whether it is a given or a family name, but it is known that it is a personal name. We used this value for pseudonyms, nicknames, pen-names, patronyms, etc. 
 
-* _<b>Բենեդիկտոս, Րաֆֆի, Նար-Դոս, Գամառ-Քատիպա, Քաչալ</b>&nbsp;_ “Benedictus, Raffi, Nar-Dos, Gamar-Katipa, Kachal (bald)”
+* _<b>Բենեդիկտոս, Րաֆֆի, Նար-Դոս, Գամառ-Քատիպա, Քաչալ</b>&nbsp;_ “Benedictus, Raffi, Nar-Dos, Gamar-Katipa, Kachal (skinhead)”
 
 ### <a name="Giv">`Giv`</a>: given name of person
 
