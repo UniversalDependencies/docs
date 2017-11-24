@@ -18,8 +18,6 @@ text, e.g. inside direct speech, titles of books etc.
 
 This feature would apply either to the [X]() part of speech (unanalyzable token), or to other parts of speech if we know and are willing to annotate the class to which the word belongs in its original language.
 
-Prepositions, conjunctions or articles in foreign names _(van, von, de, le)&nbsp;_ are tagged [DET](), the morphological analysis usually do not includes their original part of speech.
-
 ### <a name="Yes">`Yes`</a>: it is foreign
 
 #### Examples
