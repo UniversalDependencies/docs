@@ -12,9 +12,9 @@ There are 2 language-specific subtypes of `det`: <tt><a href="pl-dep-det-numgov.
 1396 nodes (2%) are attached to their parents as `det`.
 
 1316 instances of `det` (94%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.1769340974212.
+Average distance between parent and child is 1.18194842406877.
 
-The following 4 pairs of parts of speech are connected with `det`: <tt><a href="pl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl-pos-DET.html">DET</a></tt> (1356; 97% instances), <tt><a href="pl-pos-PRON.html">PRON</a></tt>-<tt><a href="pl-pos-DET.html">DET</a></tt> (18; 1% instances), <tt><a href="pl-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl-pos-DET.html">DET</a></tt> (15; 1% instances), <tt><a href="pl-pos-NUM.html">NUM</a></tt>-<tt><a href="pl-pos-DET.html">DET</a></tt> (7; 1% instances).
+The following 4 pairs of parts of speech are connected with `det`: <tt><a href="pl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl-pos-DET.html">DET</a></tt> (1362; 98% instances), <tt><a href="pl-pos-PRON.html">PRON</a></tt>-<tt><a href="pl-pos-DET.html">DET</a></tt> (18; 1% instances), <tt><a href="pl-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl-pos-DET.html">DET</a></tt> (15; 1% instances), <tt><a href="pl-pos-NUM.html">NUM</a></tt>-<tt><a href="pl-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

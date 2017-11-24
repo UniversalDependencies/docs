@@ -11,9 +11,9 @@ This relation is universal.
 422 nodes (1%) are attached to their parents as `appos`.
 
 422 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.64928909952607.
+Average distance between parent and child is 1.65402843601896.
 
-The following 15 pairs of parts of speech are connected with `appos`: <tt><a href="pl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl-pos-PROPN.html">PROPN</a></tt> (222; 53% instances), <tt><a href="pl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl-pos-NOUN.html">NOUN</a></tt> (110; 26% instances), <tt><a href="pl-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl-pos-NOUN.html">NOUN</a></tt> (23; 5% instances), <tt><a href="pl-pos-X.html">X</a></tt>-<tt><a href="pl-pos-PROPN.html">PROPN</a></tt> (21; 5% instances), <tt><a href="pl-pos-X.html">X</a></tt>-<tt><a href="pl-pos-ADJ.html">ADJ</a></tt> (19; 5% instances), <tt><a href="pl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl-pos-ADJ.html">ADJ</a></tt> (7; 2% instances), <tt><a href="pl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl-pos-X.html">X</a></tt> (6; 1% instances), <tt><a href="pl-pos-PRON.html">PRON</a></tt>-<tt><a href="pl-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="pl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="pl-pos-X.html">X</a></tt>-<tt><a href="pl-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="pl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="pl-pos-PRON.html">PRON</a></tt>-<tt><a href="pl-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pl-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="pl-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pl-pos-X.html">X</a></tt>-<tt><a href="pl-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 14 pairs of parts of speech are connected with `appos`: <tt><a href="pl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl-pos-PROPN.html">PROPN</a></tt> (222; 53% instances), <tt><a href="pl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl-pos-NOUN.html">NOUN</a></tt> (110; 26% instances), <tt><a href="pl-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl-pos-NOUN.html">NOUN</a></tt> (24; 6% instances), <tt><a href="pl-pos-X.html">X</a></tt>-<tt><a href="pl-pos-PROPN.html">PROPN</a></tt> (21; 5% instances), <tt><a href="pl-pos-X.html">X</a></tt>-<tt><a href="pl-pos-ADJ.html">ADJ</a></tt> (19; 5% instances), <tt><a href="pl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl-pos-ADJ.html">ADJ</a></tt> (7; 2% instances), <tt><a href="pl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl-pos-X.html">X</a></tt> (6; 1% instances), <tt><a href="pl-pos-PRON.html">PRON</a></tt>-<tt><a href="pl-pos-NOUN.html">NOUN</a></tt> (4; 1% instances), <tt><a href="pl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="pl-pos-X.html">X</a></tt>-<tt><a href="pl-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="pl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="pl-pos-PRON.html">PRON</a></tt>-<tt><a href="pl-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pl-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="pl-pos-X.html">X</a></tt>-<tt><a href="pl-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -53,24 +53,19 @@ The following 15 pairs of parts of speech are connected with `appos`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 4 appos	color:blue
-1	Henryk	Henryk	PROPN	subst:sg:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	_
-2	Sadurski	Sadurski	PROPN	subst:sg:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing	1	nmod	_	SpaceAfter=No
-3	,	,	PUNCT	interp	_	4	punct	_	_
-4	inżynier	inżynier	NOUN	subst:sg:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing	1	appos	_	_
-5	metalurg	metalurg	NOUN	subst:sg:nom:m1	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing	4	appos	_	SpaceAfter=No
-6	,	,	PUNCT	interp	_	4	punct	_	_
-7	nie	nie	PART	qub	_	8	advmod	_	_
-8	ma	mieć	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-9	pracy	praca	NOUN	subst:sg:gen:f	Case=Gen|Gender=Fem|Number=Sing	8	obj	_	_
-10	od	od	ADP	prep:gen:nwok	AdpType=Prep|Case=Gen|Variant=Short	12	case	_	_
-11	kilku	kilka	DET	num:pl:gen:m3:congr	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	12	det:numgov	_	_
-12	lat	rok	NOUN	subst:pl:gen:m3	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	8	obl	_	SpaceAfter=No
-13	.	.	PUNCT	interp	_	8	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 7 appos	color:blue
+1	Dostała	dostać	VERB	praet:sg:f:perf	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+2	m	być	AUX	aglt:sg:pri:imperf:nwok	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|Variant=Short|VerbForm=Fin	1	aux	_	_
+3	Tolkiena	Tolkien	PROPN	subst:sg:acc:m2	Animacy=Nhum|Case=Acc|Gender=Masc|Number=Sing	1	obj	_	SpaceAfter=No
+4	,	,	PUNCT	interp	_	3	punct	_	_
+5	trzy	trzy	NUM	num:pl:acc:m3:congr	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	7	nummod	_	_
+6	wielkie	wielki	ADJ	adj:pl:acc:m3:pos	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	7	amod	_	_
+7	tomy	tom	NOUN	subst:pl:acc:m3	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	appos	_	SpaceAfter=No
+8	.	.	PUNCT	interp	_	1	punct	_	_
 
 ~~~
 

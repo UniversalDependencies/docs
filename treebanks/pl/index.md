@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 
 The following people have contributed to making this treebank part of UD: Daniel Zeman, Jan Mašek, Rudolf Rosa.
 
-Repository: [UD_Polish](https://github.com/UniversalDependencies/UD_Polish)
+Repository: [UD_Polish](https://github.com/UniversalDependencies/UD_Polish)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpl)
 
 License: GNU GPL 3.0
 
@@ -89,11 +90,24 @@ year = {2014}
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 8227 sentences, 82788 tokens and 83571 syntactic words.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 12592 tokens (15%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 90 types of words that contain both letters and punctuation. Examples: PiS-u, 70-lecia, ub.r, 11-latek, 12-letni, 12-tym, 1299-tym, 13-miesięcznego, 14-letni, 17-letnia, 18-latce, 185-osobową, 22-letni, 25-procentowy, 26-latek, 26-letni, 28-letnią, 33-letniemu, 35-letnią, 36-letnia, 37-letnia, 4,5-metrowej, 40-lecia, 40-osobowa, 43-letni, 46-letni, 47-letni, 49-letniego, 5-minutowych, 55-leciem, 5–ta, 6,5-godzinnej, 6-latka, 6-letni, 63-letni, 65-letniego, 65-tysięcznej, 67-letni, 6­9-letni, 7-kondygnacyjnego, 81-letnia, 87-letni, 9-letnia, 9-miesięczna, 90-letniej, Ab–Rama, Al-Qaidy, BIG-u, CB-radio, D'Arc</li>
+</ul>
+
+<ul>
 <li>This corpus contains 745 multi-word tokens. On average, one multi-word token consists of 2.05 syntactic words.</li>
 <li>There are 513 types of multi-word tokens. Examples: byłem, byłoby, byłam, mieliśmy, chciałbym, chciałem, chciałby, miałam, miałem, widziałem, bym, byłby, mogłem, zostałem, mogłaby, spotkaliśmy, widziałam, czułem, czytałem, musiałem, myślałem, mógłby, spotkałem, wiedziałem, znałem, zrobiłem, byłbym, byłeś, chciałam, dostałam, gdybym, miałby, mógłbyś, poszliśmy, poszłam, powinnam, rozmawialiśmy, siedziałam, spodziewałem, stwierdziłem, usłyszałem, widzieliśmy, wiedziałam, wróciłem, wyszliśmy, zaczęliśmy, zauważyłem, znalazłam, zobaczyłem, zrobiliśmy.</li>
 </ul>
@@ -105,6 +119,9 @@ year = {2014}
 <ul>
 <li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: INTJ, SYM</li>
+</ul>
+
+<ul>
 <li>This corpus contains 67 word types tagged as particles (PART): Ależ, Azaliż, Czyż, Czyżby, Dosyć, Istotnie, Niechaj, Niemalże, Toż, Zarazem, ani, aż, chociaż, choć, choćby, chyba, czy, dopiero, dość, głównie, i, jakby, jakoby, jednak, jedynie, jeszcze, już, może, nawet, nazbyt, niby, nie, niech, niemal, niestety, no, oczywiście, około, oto, pewnie, pewno, podobno, ponad, ponadto, poniekąd, ponoć, prawdopodobnie, prawie, przecież, przynajmniej, przynamniej, raczej, również, także, też, tylko, wszakże, za, zaledwie, zapewne, zbyt, zgoła, znowu, znów, zresztą, zwłaszcza, że</li>
 </ul>
 
@@ -128,25 +145,36 @@ year = {2014}
 </ul>
 
 <ul>
-<li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Conv
   <ul>
     <li>VERB: patrząc, mając, wracając, czekając, posługując, tworząc, usiłując, zarzucając, Mijając, biorąc</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Fin
   <ul>
     <li>AUX: jest, em, by, m, będzie, są, śmy, będą, eś, jestem</li>
     <li>VERB: ma, jest, może, dziękuję, mają, mam, wiem, proszę, mogą, chce</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Inf
   <ul>
     <li>AUX: być, zostać, stać</li>
     <li>VERB: powiedzieć, zrobić, znaleźć, być, mieć, robić, wrócić, wyjść, zmienić, zobaczyć</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>ADJ: przyjęta, znaleziono, prowadzone, dotyczące, wyczerpana, zatrzymano, zatrzymany, przeprowadzono, przygotowany, rozegrano</li>
@@ -154,18 +182,21 @@ year = {2014}
     <li>VERB: było, miał, chciał, miała, był, udało, mógł, mieli, musiał, była</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Vnoun
   <ul>
     <li>NOUN: głosowania, odrzucenie, przyjęcie, przyjęciem, bycia, działania, naciśnięcie, nieuzyskania, otwarcie, stosowania</li>
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
+
 <li><a>Gender</a>
+
   <ul>
     <li>Fem
       <ul>
@@ -180,6 +211,9 @@ year = {2014}
         <li>VERB-Part: miała, była, mogła, chciała, zaczęła, dostała, musiała, rozpoczęła, trafiła, widziała</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>ADJ: cały, pierwszy, sam, nowego, nowy, powinien, jeden, dobry, inny, drugi</li>
@@ -193,6 +227,9 @@ year = {2014}
         <li>VERB-Part: miał, chciał, był, mógł, mieli, musiał, mogli, mówił, widział, powiedział</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neut
       <ul>
         <li>ADJ: duże, nowe, samo, całe, całym, dobre, powinno, znaleziono, polskiego, samym</li>
@@ -208,9 +245,13 @@ year = {2014}
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Animacy</a>
+
   <ul>
     <li>Hum
       <ul>
@@ -225,6 +266,9 @@ year = {2014}
         <li>VERB-Part: miał, chciał, mieli, był, mógł, musiał, mogli, mówił, widział, powiedział</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Inan
       <ul>
         <li>ADJ: cały, pierwszy, nowego, nowy, całego, dobry, kolejny, nowym, przyszłym, wielki</li>
@@ -238,6 +282,9 @@ year = {2014}
         <li>VERB-Part: był, przyjął, odrzucił, miał, rozpoczął, zakończył, padł, został, dotarł, minął</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Nhum
       <ul>
         <li>ADJ: Białym, Boży, Marsylski, Rajskiego, Stołowego, Trzymiesięczne, Tępe, Zwycięskiego, amerykańskim, biały</li>
@@ -252,9 +299,13 @@ year = {2014}
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Number</a>
+
   <ul>
     <li>Plur
       <ul>
@@ -272,6 +323,9 @@ year = {2014}
         <li>VERB-Part: mieli, mogli, trwały, mogły, spotkali, zaczęli, znaleźli, były, chcieli, wzięli</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: cały, pierwszy, nowego, sam, II, nowy, pierwszej, powinien, jeden, polskiego</li>
@@ -289,9 +343,13 @@ year = {2014}
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Acc
       <ul>
@@ -306,6 +364,9 @@ year = {2014}
         <li>PROPN: Polaków, Polskę, Adasia, Europę, Karola, Pawła, Piotra, Tadeusza, Waltera, Wiktora</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dat
       <ul>
         <li>ADJ: młodym, nowym, własnym, 33-letniemu, Całej, Dziwnej, Okręgowemu, Panującej, Piotrowej, Romantycznym</li>
@@ -319,6 +380,9 @@ year = {2014}
         <li>PROPN: Dżabie, WKU, Arturasowi, BBWR, Banderze, Bartnikowi, Beacie, Bogu, Borysowi, Bożenom</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Gen
       <ul>
         <li>ADJ: nowego, różnych, innych, polskiego, całego, jednego, młodych, nowych, polskiej, II</li>
@@ -332,6 +396,9 @@ year = {2014}
         <li>PROPN: Polski, Warszawy, Adama, Europy, Polaków, Rosji, SLD, USA, Niemiec, Piotra</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ins
       <ul>
         <li>ADJ: jednym, ważnym, innymi, wielkim, innym, całym, całą, drugim, jedynym, nowym</li>
@@ -345,6 +412,9 @@ year = {2014}
         <li>PROPN: Dingiem, Krakowem, NATO, Niemcami, Polakiem, Polską, Żydem, Albanią, Aleksandrem, Bagsikiem</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Loc
       <ul>
         <li>ADJ: przyszłym, samym, ostatniej, jednej, różnych, całym, pierwszej, innych, nowym, pewnym</li>
@@ -358,6 +428,9 @@ year = {2014}
         <li>PROPN: Polsce, Warszawie, Poznaniu, Europie, Krakowie, Wrocławiu, Kielcach, Niemczech, Olsztynie, Śląsku</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Nom
       <ul>
         <li>ADJ: sam, inny, jeden, sama, cała, dobry, nowa, nowe, nowy, pierwsza</li>
@@ -371,6 +444,9 @@ year = {2014}
         <li>PROPN: Polska, Andrzej, Jan, Jerzy, Adam, Grzegorz, Piotr, Polacy, Bóg, Maciej</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Voc
       <ul>
         <li>DET: nasz</li>
@@ -380,15 +456,22 @@ year = {2014}
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>PrepCase</a>
+
   <ul>
     <li>Npr
       <ul>
         <li>PRON: jego, go, ich, jej, mu, ją, je, on, im, ona</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pre
       <ul>
         <li>ADJ: prostu, dawna, wolna, niedawna, angielsku, bliska, cichu, daleka, francusku, gorsza</li>
@@ -396,12 +479,18 @@ year = {2014}
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Degree and Polarity</h3>
 
+
 <li><a>Degree</a>
+
   <ul>
     <li>Pos
       <ul>
@@ -409,6 +498,9 @@ year = {2014}
         <li>ADV: bardzo, dobrze, szybko, często, nagle, jednocześnie, długo, obecnie, prawdopodobnie, naprawdę</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sup
       <ul>
         <li>ADJ: najbliższym, najbliższych, największe, najbliższy, najważniejsze, największego, największym, najlepsze, najlepszym, największy</li>
@@ -416,9 +508,13 @@ year = {2014}
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Polarity</a>
+
   <ul>
     <li>Neg
       <ul>
@@ -426,6 +522,9 @@ year = {2014}
         <li>NOUN-Vnoun: nieuzyskania, niedopełnienie, niedopuszczenie, nieodpowiadanie, nieprowadzenie, nieprzeprowadzenie, nieprzyjmowanie, niewchodzenie</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>ADJ: przyjęta, znaleziono, prowadzone, dotyczące, wyczerpana, zatrzymano, zatrzymany, przeprowadzono, przygotowany, rozegrano</li>
@@ -434,9 +533,13 @@ year = {2014}
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Variant</a>
+
   <ul>
     <li>Long
       <ul>
@@ -445,6 +548,9 @@ year = {2014}
         <li>PRON: jego, ich, jej, mnie, ją, nich, je, on, nim, niego</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Short
       <ul>
         <li>ADP: w, z, od, przez, pod, przed, nad, bez, spod, poprzez</li>
@@ -453,11 +559,16 @@ year = {2014}
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Verbal Features</h3>
 
+
 <li><a>Aspect</a>
+
   <ul>
     <li>Imp
       <ul>
@@ -473,6 +584,9 @@ year = {2014}
         <li>VERB-Part: było, miał, chciał, miała, był, mógł, mieli, musiał, była, mogli</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Perf
       <ul>
         <li>ADJ: przyjęta, znaleziono, wyczerpana, zatrzymano, zatrzymany, przeprowadzono, przygotowany, rozegrano, stwierdzono, wprowadzono</li>
@@ -488,21 +602,31 @@ year = {2014}
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Mood</a>
+
   <ul>
     <li>Cnd
       <ul>
         <li>AUX-Fin: by</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Imp
       <ul>
         <li>AUX-Fin: bądź</li>
         <li>VERB-Fin: daj, weź, chodź, Przypomnijmy, powiedz, pozwól, Słuchaj, bierz, Czekaj, Przenieś</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>AUX-Fin: jest, em, m, będzie, są, śmy, będą, eś, jestem, zostanie</li>
@@ -510,15 +634,22 @@ year = {2014}
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Tense</a>
+
   <ul>
     <li>Fut
       <ul>
         <li>AUX-Fin: będzie, będą, będę, będziemy, będziesz</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Past
       <ul>
         <li>AUX-Part: był, była, było, został, były, została, byli, zostało, zostali, zostały</li>
@@ -526,6 +657,9 @@ year = {2014}
         <li>VERB-Part: było, miał, chciał, miała, był, udało, mógł, mieli, musiał, była</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pres
       <ul>
         <li>ADJ-Part: dotyczące, jadący, protestujących, pędzącego, zbliżających, będącą, dobiegające, dotyczących, grająca, idące</li>
@@ -535,9 +669,13 @@ year = {2014}
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Voice</a>
+
   <ul>
     <li>Act
       <ul>
@@ -546,18 +684,27 @@ year = {2014}
         <li>VERB-Part: było, miał, chciał, miała, był, udało, mógł, mieli, musiał, była</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pass
       <ul>
         <li>ADJ-Part: przyjęta, znaleziono, prowadzone, wyczerpana, zatrzymano, zatrzymany, przeprowadzono, przygotowany, rozegrano, stwierdzono</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Dem
       <ul>
@@ -565,30 +712,45 @@ year = {2014}
         <li>PRON: to, tym, tego, temu</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>DET: kilka, jakieś, jakiś, kilku, kilkanaście, kilkadziesiąt, jakąś, kilkunastu, niektóre, kilkuset</li>
         <li>PRON: coś, ktoś, czegoś, czymś, kogoś, cokolwiek, komuś, kimś, komukolwiek</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Int,Rel
       <ul>
         <li>DET: które, który, która, którzy, których, którym, której, jakie, którego, którą</li>
         <li>PRON: co, kto, czym, kim, czego, kogo, komu, czemu</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neg
       <ul>
         <li>DET: żadnego, żadnych, żaden, żadnej, żadne, żadna, żadnym, żadną</li>
         <li>PRON: nic, nikt, niczego, nikogo, nikomu, niczym</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
         <li>DET: swoje, swoich, swoim, naszej, naszym, swój, swojej, swoją, naszych, swojego</li>
         <li>PRON: się, jego, go, ich, jej, mnie, mu, sobie, mi, ją</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Tot
       <ul>
         <li>DET: wszystkie, wszystkich, każdy, każdym, wszelki, wszyscy, każde, każdego, wszelkie, każdą</li>
@@ -596,9 +758,13 @@ year = {2014}
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>NumType</a>
+
   <ul>
     <li>Card
       <ul>
@@ -606,9 +772,13 @@ year = {2014}
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Poss</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -616,9 +786,13 @@ year = {2014}
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Reflex</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -627,9 +801,13 @@ year = {2014}
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Person</a>
+
   <ul>
     <li>1
       <ul>
@@ -639,6 +817,9 @@ year = {2014}
         <li>VERB-Fin: dziękuję, wiem, mam, proszę, mogę, stwierdzam, Przystępujemy, mamy, możemy, myślę</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>AUX-Fin: eś, ś, jesteś, będziesz, ście, bądź, Jesteście, staniesz</li>
@@ -647,6 +828,9 @@ year = {2014}
         <li>VERB-Fin: masz, wiesz, daj, chcesz, możesz, musisz, weź, chodź, macie, myślisz</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>AUX-Fin: jest, będzie, są, będą, zostanie, zostaną, staje, bywa, zostaje, zostają</li>
@@ -655,26 +839,39 @@ year = {2014}
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
 
+
+
 <li><a>Number[psor]</a>
+
   <ul>
     <li>Plur
       <ul>
         <li>DET: naszej, naszym, naszych, nasz, nasze, naszego, nasi, naszą, nasza, wasz</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>DET: moim, twój, mój, moja, mojej, mojego, moje, twoje, moją, moich</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Other Features</h3>
+
 
 <li><a>Abbr</a>
   <ul>
@@ -685,6 +882,7 @@ year = {2014}
     </li>
   </ul>
 </li>
+
 <li><a>AdpType</a>
   <ul>
     <li>Prep
@@ -694,6 +892,7 @@ year = {2014}
     </li>
   </ul>
 </li>
+
 <li><a>Hyph</a>
   <ul>
     <li>Yes
@@ -703,6 +902,7 @@ year = {2014}
     </li>
   </ul>
 </li>
+
 <li><a>Typo</a>
   <ul>
     <li>Yes
@@ -719,6 +919,9 @@ year = {2014}
 
 <ul>
 <li>This corpus uses 17 lemmas as copulas (<a>cop</a>). Examples: być, to, stać, stawać, bycie, zostać, bywać, wydać, poczuć, będący, pozostawać, pozostać, zdawać, okazywać, robić, wydawać, zrobić.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 6 lemmas as auxiliaries (<a>aux</a>). Examples: być, niech, zostać, informować, niechaj, spędzić.</li>
 <li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: być, zostać, zostawać.</li>
 </ul>
@@ -732,17 +935,17 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Nom (142)</li>
       <li>VERB--PRON-Nom (5)</li>
       <li>VERB-Fin--NOUN-Gen (5)</li>
-      <li>VERB-Fin--NOUN-Nom (1454)</li>
+      <li>VERB-Fin--NOUN-Nom (1469)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(i) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(też) (1)</li>
       <li>VERB-Fin--PRON-Gen (1)</li>
       <li>VERB-Fin--PRON-Nom (278)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
-      <li>VERB-Inf--NOUN-Nom (19)</li>
+      <li>VERB-Inf--NOUN-Nom (20)</li>
       <li>VERB-Inf--NOUN-Nom-ADP(również) (1)</li>
       <li>VERB-Inf--PRON-Nom (3)</li>
       <li>VERB-Part--NOUN-Gen (9)</li>
-      <li>VERB-Part--NOUN-Nom (1731)</li>
+      <li>VERB-Part--NOUN-Nom (1761)</li>
       <li>VERB-Part--NOUN-Nom-ADP(i) (1)</li>
       <li>VERB-Part--NOUN-Nom-ADP(młody) (1)</li>
       <li>VERB-Part--NOUN-Nom-ADP(także) (1)</li>
@@ -756,11 +959,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB--NOUN-Acc (10)</li>
       <li>VERB--NOUN-Dat (1)</li>
-      <li>VERB--NOUN-Gen (9)</li>
+      <li>VERB--NOUN-Gen (11)</li>
       <li>VERB--PRON-Acc (1)</li>
       <li>VERB--PRON-Dat (4)</li>
       <li>VERB--PRON-Gen (4)</li>
-      <li>VERB-Conv--NOUN-Acc (72)</li>
+      <li>VERB-Conv--NOUN-Acc (75)</li>
       <li>VERB-Conv--NOUN-Dat (3)</li>
       <li>VERB-Conv--NOUN-Gen (15)</li>
       <li>VERB-Conv--NOUN-Ins (15)</li>
@@ -768,30 +971,30 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--PRON-Dat (1)</li>
       <li>VERB-Conv--PRON-Gen (1)</li>
       <li>VERB-Conv--PRON-Ins (1)</li>
-      <li>VERB-Fin--NOUN-Acc (871)</li>
-      <li>VERB-Fin--NOUN-Dat (43)</li>
-      <li>VERB-Fin--NOUN-Gen (249)</li>
-      <li>VERB-Fin--NOUN-Ins (50)</li>
+      <li>VERB-Fin--NOUN-Acc (883)</li>
+      <li>VERB-Fin--NOUN-Dat (44)</li>
+      <li>VERB-Fin--NOUN-Gen (254)</li>
+      <li>VERB-Fin--NOUN-Ins (54)</li>
       <li>VERB-Fin--PRON (1)</li>
       <li>VERB-Fin--PRON-Acc (185)</li>
       <li>VERB-Fin--PRON-Dat (65)</li>
       <li>VERB-Fin--PRON-Gen (69)</li>
       <li>VERB-Fin--PRON-Ins (4)</li>
-      <li>VERB-Inf--NOUN-Acc (394)</li>
+      <li>VERB-Inf--NOUN-Acc (398)</li>
       <li>VERB-Inf--NOUN-Dat (16)</li>
-      <li>VERB-Inf--NOUN-Gen (98)</li>
-      <li>VERB-Inf--NOUN-Ins (22)</li>
+      <li>VERB-Inf--NOUN-Gen (100)</li>
+      <li>VERB-Inf--NOUN-Ins (23)</li>
       <li>VERB-Inf--PRON (1)</li>
       <li>VERB-Inf--PRON-Acc (104)</li>
       <li>VERB-Inf--PRON-Dat (25)</li>
       <li>VERB-Inf--PRON-Gen (25)</li>
-      <li>VERB-Part--NOUN-Acc (1176)</li>
-      <li>VERB-Part--NOUN-Dat (37)</li>
-      <li>VERB-Part--NOUN-Gen (206)</li>
-      <li>VERB-Part--NOUN-Ins (121)</li>
+      <li>VERB-Part--NOUN-Acc (1189)</li>
+      <li>VERB-Part--NOUN-Dat (38)</li>
+      <li>VERB-Part--NOUN-Gen (208)</li>
+      <li>VERB-Part--NOUN-Ins (122)</li>
       <li>VERB-Part--PRON (5)</li>
       <li>VERB-Part--PRON-Acc (243)</li>
-      <li>VERB-Part--PRON-Dat (73)</li>
+      <li>VERB-Part--PRON-Dat (74)</li>
       <li>VERB-Part--PRON-Gen (46)</li>
       <li>VERB-Part--PRON-Ins (7)</li>
     </ul>
@@ -822,7 +1025,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Dat (32)</li>
       <li>VERB-Inf--PRON-Ins (2)</li>
       <li>VERB-Part--NOUN-Acc (6)</li>
-      <li>VERB-Part--NOUN-Dat (42)</li>
+      <li>VERB-Part--NOUN-Dat (45)</li>
       <li>VERB-Part--NOUN-Ins (32)</li>
       <li>VERB-Part--PRON (1)</li>
       <li>VERB-Part--PRON-Acc (7)</li>
@@ -844,6 +1047,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
   <li>This corpus contains 58 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: zrobić sobie, poradzić sobie, przypomnieć sobie, urządzić sobie, uświadomić sobie, wyobrazić sobie, wyobrażać sobie, pozwolić sobie, radzić sobie, stawiać sobie, znaleźć sobie, darować sobie, dać sobie, dogonić swoich, kochać siebie, lubić siebie, mierzyć się, obetrzeć sobie, obiecywać sobie, oblać się, oceniać siebie, odbierać sobie, oświetlać sobie, patrzenie sobie, patrzeć sobie, patrzyć sobie, paść sobie, pisany sobie, podawać sobie, podjeść sobie, pokaleczyć sobie, posłuchać siebie, powtarzać sobie, pozwalać sobie, przyglądanie sobie, przynieść sobie, pytać się, robić sobie, rozpoznać siebie, rozumieć siebie, spodobać sobie, stawiający sobie, uroić sobie, utrudniać sobie, ułożyć się, uświadamiać sobie, widzieć siebie, wybrać siebie, wydzierać sobie, wyhodować sobie</li>
+    <ul>
+      <li>Out of those, 3 lemmas occurred more than once, but never without a reflexive dependent. Examples: poradzić, wyobrazić, wyobrażać</li>
+    </ul>
 </ul>
 
 <h3>Relations Overview</h3>

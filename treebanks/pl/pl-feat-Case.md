@@ -194,14 +194,14 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="pl-dep-case.html">case</a></tt>]--> ADP</tt> (6308; 100%),
-<tt>NOUN --[<tt><a href="pl-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5962; 98%),
-<tt>NOUN --[<tt><a href="pl-dep-det.html">det</a></tt>]--> DET</tt> (1355; 100%),
-<tt>NOUN --[<tt><a href="pl-dep-conj.html">conj</a></tt>]--> NOUN</tt> (827; 100%),
+<tt>NOUN --[<tt><a href="pl-dep-case.html">case</a></tt>]--> ADP</tt> (6442; 100%),
+<tt>NOUN --[<tt><a href="pl-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5975; 98%),
+<tt>NOUN --[<tt><a href="pl-dep-det.html">det</a></tt>]--> DET</tt> (1361; 100%),
+<tt>NOUN --[<tt><a href="pl-dep-conj.html">conj</a></tt>]--> NOUN</tt> (836; 100%),
 <tt>PROPN --[<tt><a href="pl-dep-case.html">case</a></tt>]--> ADP</tt> (751; 100%),
 <tt>PRON --[<tt><a href="pl-dep-case.html">case</a></tt>]--> ADP</tt> (615; 100%),
 <tt>PROPN --[<tt><a href="pl-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (329; 91%),
-<tt>NUM --[<tt><a href="pl-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (328; 52%),
-<tt>ADJ --[<tt><a href="pl-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (252; 88%),
+<tt>NOUN --[<tt><a href="pl-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (309; 93%),
+<tt>ADJ --[<tt><a href="pl-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (256; 89%),
 <tt>ADJ --[<tt><a href="pl-dep-conj.html">conj</a></tt>]--> ADJ</tt> (240; 99%).
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-6429 nodes (8%) are attached to their parents as `amod`.
+6427 nodes (8%) are attached to their parents as `amod`.
 
-4151 instances of `amod` (65%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.21807435059885.
+4152 instances of `amod` (65%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.21845339971993.
 
-The following 12 pairs of parts of speech are connected with `amod`: <tt><a href="pl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl-pos-ADJ.html">ADJ</a></tt> (6084; 95% instances), <tt><a href="pl-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl-pos-ADJ.html">ADJ</a></tt> (209; 3% instances), <tt><a href="pl-pos-PRON.html">PRON</a></tt>-<tt><a href="pl-pos-ADJ.html">ADJ</a></tt> (56; 1% instances), <tt><a href="pl-pos-NUM.html">NUM</a></tt>-<tt><a href="pl-pos-ADJ.html">ADJ</a></tt> (29; 0% instances), <tt><a href="pl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl-pos-DET.html">DET</a></tt> (21; 0% instances), <tt><a href="pl-pos-X.html">X</a></tt>-<tt><a href="pl-pos-ADJ.html">ADJ</a></tt> (14; 0% instances), <tt><a href="pl-pos-PRON.html">PRON</a></tt>-<tt><a href="pl-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="pl-pos-ADP.html">ADP</a></tt>-<tt><a href="pl-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="pl-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="pl-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="pl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="pl-pos-DET.html">DET</a></tt>-<tt><a href="pl-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="pl-pos-NUM.html">NUM</a></tt>-<tt><a href="pl-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `amod`: <tt><a href="pl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl-pos-ADJ.html">ADJ</a></tt> (6097; 95% instances), <tt><a href="pl-pos-PROPN.html">PROPN</a></tt>-<tt><a href="pl-pos-ADJ.html">ADJ</a></tt> (209; 3% instances), <tt><a href="pl-pos-PRON.html">PRON</a></tt>-<tt><a href="pl-pos-ADJ.html">ADJ</a></tt> (56; 1% instances), <tt><a href="pl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl-pos-DET.html">DET</a></tt> (21; 0% instances), <tt><a href="pl-pos-NUM.html">NUM</a></tt>-<tt><a href="pl-pos-ADJ.html">ADJ</a></tt> (15; 0% instances), <tt><a href="pl-pos-X.html">X</a></tt>-<tt><a href="pl-pos-ADJ.html">ADJ</a></tt> (14; 0% instances), <tt><a href="pl-pos-PRON.html">PRON</a></tt>-<tt><a href="pl-pos-DET.html">DET</a></tt> (6; 0% instances), <tt><a href="pl-pos-ADP.html">ADP</a></tt>-<tt><a href="pl-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="pl-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="pl-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="pl-pos-NOUN.html">NOUN</a></tt>-<tt><a href="pl-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="pl-pos-NUM.html">NUM</a></tt>-<tt><a href="pl-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

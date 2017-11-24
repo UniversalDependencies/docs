@@ -220,14 +220,14 @@ The most frequent other feature values with which `AUX` and `Animacy` co-occurre
 ## Relations with Agreement in `Animacy`
 
 The 10 most frequent relations where parent and child node agree in `Animacy`:
-<tt>NOUN --[<tt><a href="pl-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2696; 98%),
-<tt>VERB --[<tt><a href="pl-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (990; 54%),
-<tt>NOUN --[<tt><a href="pl-dep-det.html">det</a></tt>]--> DET</tt> (645; 100%),
+<tt>NOUN --[<tt><a href="pl-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2703; 98%),
+<tt>VERB --[<tt><a href="pl-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1005; 54%),
+<tt>NOUN --[<tt><a href="pl-dep-det.html">det</a></tt>]--> DET</tt> (647; 100%),
 <tt>VERB --[<tt><a href="pl-dep-conj.html">conj</a></tt>]--> VERB</tt> (413; 70%),
-<tt>NUM --[<tt><a href="pl-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (377; 83%),
 <tt>VERB --[<tt><a href="pl-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (367; 75%),
 <tt>PROPN --[<tt><a href="pl-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (251; 92%),
+<tt>NOUN --[<tt><a href="pl-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (194; 87%),
+<tt>NUM --[<tt><a href="pl-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (188; 78%),
 <tt>NOUN --[<tt><a href="pl-dep-appos.html">appos</a></tt>]--> PROPN</tt> (163; 90%),
-<tt>ADJ --[<tt><a href="pl-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (119; 98%),
-<tt>PROPN --[<tt><a href="pl-dep-amod.html">amod</a></tt>]--> ADJ</tt> (111; 100%).
+<tt>ADJ --[<tt><a href="pl-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (123; 98%).
 

@@ -334,14 +334,14 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="pl-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5995; 99%),
-<tt>VERB --[<tt><a href="pl-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1724; 51%),
-<tt>NOUN --[<tt><a href="pl-dep-det.html">det</a></tt>]--> DET</tt> (1355; 100%),
-<tt>NUM --[<tt><a href="pl-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (580; 91%),
+<tt>NOUN --[<tt><a href="pl-dep-amod.html">amod</a></tt>]--> ADJ</tt> (6008; 99%),
+<tt>VERB --[<tt><a href="pl-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1754; 51%),
+<tt>NOUN --[<tt><a href="pl-dep-det.html">det</a></tt>]--> DET</tt> (1361; 100%),
 <tt>VERB --[<tt><a href="pl-dep-conj.html">conj</a></tt>]--> VERB</tt> (563; 73%),
 <tt>VERB --[<tt><a href="pl-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (475; 73%),
 <tt>PROPN --[<tt><a href="pl-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (333; 92%),
-<tt>ADJ --[<tt><a href="pl-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (281; 99%),
-<tt>ADJ --[<tt><a href="pl-dep-conj.html">conj</a></tt>]--> ADJ</tt> (235; 97%),
-<tt>PROPN --[<tt><a href="pl-dep-amod.html">amod</a></tt>]--> ADJ</tt> (206; 99%).
+<tt>NOUN --[<tt><a href="pl-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (308; 93%),
+<tt>ADJ --[<tt><a href="pl-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (285; 99%),
+<tt>NUM --[<tt><a href="pl-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (272; 88%),
+<tt>ADJ --[<tt><a href="pl-dep-conj.html">conj</a></tt>]--> ADJ</tt> (235; 97%).
 
