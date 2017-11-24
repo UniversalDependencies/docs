@@ -25,3 +25,5 @@ compounds (the independent form would be _անգլիական_).
 * _<b>անգլո</b>-ամերիկյան&nbsp;_ “Anglo-American”
 * _<b>իսրայելա</b>-պաղեստինյան&nbsp;_ “Israeli–Palestinian”
 * _<b>կրոնա</b>-մշակութային&nbsp;_ “religious-cultural”
+* _<b>նախա</b>- և հետպատերազմական&nbsp;_ “pre- and postwar”
+* _<b>հեռուստա</b>- և ռադիոհեռարձակում&nbsp;_ “TV and radio broadcasting”
