@@ -5,7 +5,11 @@ shortdef: 'compound'
 udver: '2'
 ---
 
-`compound` is one of the relations in UD for compounding. The most left numeral is the head, the other numerals are attached as its modifiers.
+`compound` is one of the relations in UD for compounding. `compound` is used for:
+
+* numbers
+
+The most left numeral is the head, the other numerals are attached as its modifiers.
 
 ~~~ sdparse
 Սա առավելագույնը հինգ հազար դրամ կարժենա ։ \n It will cost at-most 5 thousand drams .
