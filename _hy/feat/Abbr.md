@@ -37,10 +37,11 @@ Boolean feature. Is this an abbreviation? Note that the abbreviated word typical
   _<b>դ-ր</b> (դոկտոր)&nbsp;_ “Doctor”,
   _<b>իմա</b> (իմացիր, այսինքն)&nbsp;_ “to be known”
 
+Note that the `Abbr` feature will be mentioned also for foreign acronyms written in Amrenian: _ՏԱՍՍ (Телеграфное агентство Советского Союза)&nbsp;_ “TASS, Telegraph Agency of the Soviet Union”, _ՆԱՏՕ&nbsp;_ “NATO”, _ՕՊԵԿ&nbsp;_ “OPEC”.
+
 #### Countrexamples
 
-* Note that some Russian acronyms are loan words in Armenian:
-  _ՏԱՍՍ (Телеграфное агентство Советского Союза)&nbsp;_ “TASS, Telegraph Agency of the Soviet Union”,
-  _զագս (запись актов гражданского состояния)&nbsp;_ “registry office”,
-  _սովխոզ (советское хозяйство)&nbsp;_ “state farm, sovkhoz”
+* Some Russian acronyms are loan words in Armenian:
+  _զագս (ЗАГС / загс, запись актов гражданского состояния)&nbsp;_ “registry office”,
+  _սովխոզ (совхоз, советское хозяйство)&nbsp;_ “state farm, sovkhoz”
   
