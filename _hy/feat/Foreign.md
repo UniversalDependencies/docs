@@ -24,5 +24,4 @@ Prepositions, conjunctions or articles in foreign names _(van, von, de, le)&nbsp
 
 #### Examples
 
-* _... <b>ՏԱՍՍ</b>-ի հաղորդագրությունները nese jméno <b>VLIW</b> (<b>Very Long Instruction Word</b> &ndash; velmi dlouhé instrukční slovo)_
-
+* _... <b>«ՌԻԱ Նովոստի»</b> գործակալությունը&nbsp;_ (the news agency <b>RIA Novosti</b>)
