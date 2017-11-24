@@ -13,13 +13,17 @@ udver: '2'
 </tr>
 </table>
 
-Is this a reduplicative or echo word? Such words occur in Hindi and
+Is this a reduplicative or echo word? 
+
+Such words occur in Hindi and
 other Indian languages. In Hyderabad Dependency Treebank they get
 their own part-of-speech tags RDP and ECH, respectively. We do not
 want to treat them as separate parts of speech because they could be
 assigned a POS independent of their RDP or ECH status (same as the
-word that they echo). Perhaps we should merge this also with the
+word that they echo). This wors Perhaps we should merge this also with the
 "hyph" feature to something called "compound"?
+
+See also the related features [Hyph]() and [Compound]().
 
 ### <a name="Rdp">`Rdp`</a>: reduplicative
 
@@ -34,7 +38,7 @@ The word is a copy of a previous word. Тhis would add the meaning of distributi
 * _գույն-<b>գույն</b>_ “of many colors”,
 * _պես-<b>պես</b>_ “different, of many types”,
 * _ձեռք-<b>ձեռքի</b>_ “hand in hand”,
-* _գյուղից-<b>հյուղ</b>_ “from town to town”,
+* _գյուղից-<b>գյուղ</b>_ “from town to town”,
 * _տող առ <b>տող</b>_ = “each line separately”,
 * _րոպե առ <b>րոպե</b>_ = “each minute separately”
 
@@ -47,7 +51,7 @@ as “or something”, “etc.” etc.
 
 * _տուն-<b>մուն</b>_ “house and etc.”,
 * _աման-<b>չաման</b>_ “dishes and etc.”,
-* _<b>առոք</b>-փառոք_ “good and healthy”,
+* _<b>առոք</b>-փառոք_ “good and proper”,
 * _մարդ-<b>մուրդ</b>_ “some people”,
 * _<b>դափ</b>-դատարկ_ “fully empty”
 * _<b>նոփ</b>-նոր_ “fully new”
