@@ -9,32 +9,32 @@ udver: '2'
 There are 9 `INJ` lemmas (1%), 9 `INJ` types (1%) and 12 `INJ` tokens (1%).
 Out of 27 observed tags, the rank of `INJ` is: 13 in number of lemmas, 16 in number of types and 15 in number of tokens.
 
-The 10 most frequent `INJ` lemmas: вана ну Э-хе-е да тарск угу шумбратадо эх я
+The 10 most frequent `INJ` lemmas: <em>вана, ну, Э-хе-е, да, тарск, угу, шумбратадо, эх, я</em>
 
-The 10 most frequent `INJ` types:  вана Ну Да Угу Шумбратадо Э-хе-е Эх Я тарск
+The 10 most frequent `INJ` types:  <em>вана, Ну, Да, Угу, Шумбратадо, Э-хе-е, Эх, Я, тарск</em>
 
-The 10 most frequent ambiguous lemmas: вана (<tt><a href="myv-pos-INJ.html">INJ</a></tt> 3, <tt><a href="myv-pos-PART.html">PART</a></tt> 2), я (<tt><a href="myv-pos-ADV.html">ADV</a></tt> 1, <tt><a href="myv-pos-INJ.html">INJ</a></tt> 1, <tt><a href="myv-pos-VERB.html">VERB</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>вана</em> (<tt><a href="myv-pos-INJ.html">INJ</a></tt> 3, <tt><a href="myv-pos-PART.html">PART</a></tt> 2), <em>я</em> (<tt><a href="myv-pos-ADV.html">ADV</a></tt> 1, <tt><a href="myv-pos-INJ.html">INJ</a></tt> 1, <tt><a href="myv-pos-VERB.html">VERB</a></tt> 1)
 
-The 10 most frequent ambiguous types:  вана (<tt><a href="myv-pos-INJ.html">INJ</a></tt> 2, <tt><a href="myv-pos-PART.html">PART</a></tt> 2), Я (<tt><a href="myv-pos-ADV.html">ADV</a></tt> 1, <tt><a href="myv-pos-INJ.html">INJ</a></tt> 1, <tt><a href="myv-pos-VERB.html">VERB</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>вана</em> (<tt><a href="myv-pos-INJ.html">INJ</a></tt> 2, <tt><a href="myv-pos-PART.html">PART</a></tt> 2), <em>Я</em> (<tt><a href="myv-pos-ADV.html">ADV</a></tt> 1, <tt><a href="myv-pos-INJ.html">INJ</a></tt> 1, <tt><a href="myv-pos-VERB.html">VERB</a></tt> 1)
 
 
-* вана
-  * <tt><a href="myv-pos-INJ.html">INJ</a></tt> 2: Сынь <b>вана</b> кудов .
-  * <tt><a href="myv-pos-PART.html">PART</a></tt> 2: Лисни , <b>вана</b> кие стявтызе !
-* Я
-  * <tt><a href="myv-pos-ADV.html">ADV</a></tt> 1: <b>Я</b> , тесэ цела промкс ашти .
-  * <tt><a href="myv-pos-INJ.html">INJ</a></tt> 1: — <b>Я</b> , мекс тонсь молят ? — кевкстизе сон Грунянь .
-  * <tt><a href="myv-pos-VERB.html">VERB</a></tt> 1: — <b>Я</b> , тынь эно , цёрат , — мерсь кудазоравась , — кортнеде ськамонк .
+* <em>вана</em>
+  * <tt><a href="myv-pos-INJ.html">INJ</a></tt> 2: <em>Сынь <b>вана</b> кудов .</em>
+  * <tt><a href="myv-pos-PART.html">PART</a></tt> 2: <em>Лисни , <b>вана</b> кие стявтызе !</em>
+* <em>Я</em>
+  * <tt><a href="myv-pos-ADV.html">ADV</a></tt> 1: <em><b>Я</b> , тесэ цела промкс ашти .</em>
+  * <tt><a href="myv-pos-INJ.html">INJ</a></tt> 1: <em>— <b>Я</b> , мекс тонсь молят ? — кевкстизе сон Грунянь .</em>
+  * <tt><a href="myv-pos-VERB.html">VERB</a></tt> 1: <em>— <b>Я</b> , тынь эно , цёрат , — мерсь кудазоравась , — кортнеде ськамонк .</em>
 
 ## Morphology
 
 The form / lemma ratio of `INJ` is 1.000000 (the average of all parts of speech is 1.538755).
 
-The 1st highest number of forms (1) was observed with the lemma “Э-хе-е”: Э-хе-е.
+The 1st highest number of forms (1) was observed with the lemma “Э-хе-е”: <em>Э-хе-е</em>.
 
-The 2nd highest number of forms (1) was observed with the lemma “вана”: вана.
+The 2nd highest number of forms (1) was observed with the lemma “вана”: <em>вана</em>.
 
-The 3rd highest number of forms (1) was observed with the lemma “да”: Да.
+The 3rd highest number of forms (1) was observed with the lemma “да”: <em>Да</em>.
 
 `INJ` occurs with 3 features: <tt><a href="myv-feat-Ideoph.html">Ideoph</a></tt> (2; 17% instances), <tt><a href="myv-feat-Interj.html">Interj</a></tt> (2; 17% instances), <tt><a href="myv-feat-Formulaic.html">Formulaic</a></tt> (1; 8% instances)
 
@@ -42,7 +42,7 @@ The 3rd highest number of forms (1) was observed with the lemma “да”: Да
 
 `INJ` occurs with 4 feature combinations.
 The most frequent feature combination is `_` (7 tokens).
-Examples: вана Ну Да Я
+Examples: <em>вана, Ну, Да, Я</em>
 
 
 ## Relations
