@@ -25,9 +25,9 @@ word that they echo). Perhaps we should merge this also with the
 
 The word is a copy of a previous word. In Hindi, this would add the meaning of distribution ("one rupee each"), separation ("sit separately"), variety, diversity or just emphasis.
 
-Examples: [hi] "कभी - कभी" = "kabhī - kabhī" = "sometimes", "कभी" =
-"kabhī" = "sometimes"; "एक एक" = "eka eka" = "one each", "एक" = "eka"
-= "one"
+* [hi] _<b>कभी - कभी</b>_ = “kabhī - kabhī" = “sometimes", "कभी" =
+“kabhī" = “sometimes"; "एक एक" = “eka eka” = “one each”, "एक" = “eka”
+= “one”
 
 ### <a name="Ech">`Ech`</a>: echo
 
@@ -36,7 +36,4 @@ typically it does not have any meaning of its own. In Hindi it
 generalizes the meaning of the previous word and eventually translates
 as "or something", "etc." etc.
 
-Examples: [hi] "चाय वाय" = "čāya vāya" = "tea or something" (as in "Have some tea or something.")
-
-For more details see Rupert Snell and Simon Weightman: Teach Yourself
-Hindi, Section 16.4 and 16.5, pages 210 – 211.
+Examples: [hi] "चाय वाय" = "čāya vāya” = "tea or something” (as in "Have some tea or something.”)
