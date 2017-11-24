@@ -15,13 +15,7 @@ udver: '2'
 
 Is this a reduplicative or echo word? 
 
-Such words occur in Hindi and
-other Indian languages. In Hyderabad Dependency Treebank they get
-their own part-of-speech tags RDP and ECH, respectively. We do not
-want to treat them as separate parts of speech because they could be
-assigned a POS independent of their RDP or ECH status (same as the
-word that they echo). This wors Perhaps we should merge this also with the
-"hyph" feature to something called "compound"?
+Compound nouns, adjectives or adverbs with hyphens or prepositions get split during tokenization. The reduplicative or echoed part get the same POS tag as the head word.
 
 See also the related features [Hyph]() and [Compound]().
 
@@ -39,14 +33,15 @@ The word is a copy of a previous word. Тhis would add the meaning of distributi
 * _պես-<b>պես</b>_ “different, of many types”,
 * _ձեռք-<b>ձեռքի</b>_ “hand in hand”,
 * _գյուղից-<b>գյուղ</b>_ “from town to town”,
-* _տող առ <b>տող</b>_ = “each line separately”,
-* _րոպե առ <b>րոպե</b>_ = “each minute separately”
+* _տող առ <b>տող</b>_ “each line separately”,
+* _րոպե առ <b>րոպե</b>_ “each minute separately”
 
 ### <a name="Ech">`Ech`</a>: echo
 
 The word fully or partly rhymes with a previous or following word but it is not identical to it and
-typically it does not have any meaning of its own. In Armenian it
-generalizes or specifies the meaning of the previous or following word and eventually translates
+typically it does not have any meaning of its own. The echoed part is a form that does not occur elsewhere than in compounds.
+In Armenian it
+generalizes or specifies the meaning of the previous or following word and translates
 as “or something”, “etc.” etc.
 
 * _տուն-<b>մուն</b>_ “house and etc.”,
