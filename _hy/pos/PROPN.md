@@ -18,7 +18,7 @@ Single-word named entities should be tagged `PROPN` though they originate from a
 
 Note that names of languages (հայերեն, անգլերեն) and adjectives derived from geographical names (_հայկական, հայոց, անգլիական, երևանյան&nbsp;_ “Armenian, English, of Yerevan”) are written in lowercase and are not tagged `PROPN`.
 
-Personal names are typically treated as a sequence of proper nouns (one or more given names and one or more surnames). If the name contains prepositions, conjunctions or articles (foreign names), these are tagged as [ADP](), [CCONJ]() and [DET](), respectively.
+Personal names are typically treated as a sequence of proper nouns (one or more given names and one or more surnames). If the name contains prepositions, conjunctions or articles (foreign names), these are tagged as [DET]().
 
 When other phrases or sentences are used as names, the component words retain their original tags. For example, in _«Մենք ենք, մեր սարերը»&nbsp;_, _Մենք&nbsp;_ is [PRON](), _ենք&nbsp;_ is [AUX](), _մեր&nbsp;_ is [DET](), etc.
 
