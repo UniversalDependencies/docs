@@ -37,7 +37,7 @@ Boolean feature. Is this an abbreviation? Note that the abbreviated word typical
   _<b>դ-ր</b> (դոկտոր)&nbsp;_ “Doctor”,
   _<b>իմա</b> (իմացիր, այսինքն)&nbsp;_ “to be known”
 
-Note that the `Abbr` feature will be mentioned also for foreign acronyms written in Amrenian: _ՏԱՍՍ (Телеграфное агентство Советского Союза)&nbsp;_ “TASS, Telegraph Agency of the Soviet Union”, _ՆԱՏՕ&nbsp;_ “NATO”, _ՕՊԵԿ&nbsp;_ “OPEC”.
+Note that the `Abbr` feature will be mentioned for foreign acronyms written in Amrenian: _ՏԱՍՍ (Телеграфное агентство Советского Союза)&nbsp;_ “TASS, Telegraph Agency of the Soviet Union”, _ՆԱՏՕ&nbsp;_ “NATO”, _ՕՊԵԿ&nbsp;_ “OPEC”.
 
 #### Countrexamples
 
