@@ -20,7 +20,7 @@ Note that names of languages (հայերեն, անգլերեն) and adjectives d
 
 Personal names are typically treated as a sequence of proper nouns (one or more given names and one or more surnames). If the name contains prepositions, conjunctions or articles (foreign names), these are tagged as [ADP](), [CCONJ]() and [DET](), respectively.
 
-When other phrases or sentences are used as names, the component words retain their original tags. For example, in _«Մենք ենք, մեր սարերը»&nbsp;_, _Մենք&nbsp;_ is [PRON](), _ենք&nbsp;_ is [AUX](), a _մեր&nbsp;_ [DET](), etc.
+When other phrases or sentences are used as names, the component words retain their original tags. For example, in _«Մենք ենք, մեր սարերը»&nbsp;_, _Մենք&nbsp;_ is [PRON](), _ենք&nbsp;_ is [AUX](), _մեր&nbsp;_ is [DET](), etc.
 
 Acronyms of proper nouns, such as _ՄԱԿ&nbsp;_ “UN” and _ՆԱՏՕ&nbsp;_ “NATO”, should be tagged `PROPN`. Even if they contain numbers (as in various product names), they are tagged `PROPN` and not [SYM](): _ՏՈՒ-154Մ&nbsp;_, _ԻԼ-76&nbsp;_. However, if the token consists entirely of digits (like _7&nbsp;_ in _Windows 7&nbsp;_), it is tagged [NUM]().
 
