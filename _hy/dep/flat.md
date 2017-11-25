@@ -10,7 +10,7 @@ In Armenian it is used to join the first name of a person with the patronymic an
 
 The leftmost name is always the head and the other name(s) are attached to it.
 
-The relation is not used to attach adjectives to nouns within multi-word names of places, organizations etc (e.g. _Երևանի պետական համալսարան_).
+The relation is not used to attach adjectives to nouns within multi-word names of places, organizations etc. (e.g. _Երևանի պետական համալսարան_).
 
 ~~~ sdparse
 Նախագահ Լևոն Տեր-Պետրոսյանը երեկ այցելել է Երևանի պետական համալսարան . \n President Levon Ter-Petrosyan yesterday visited Yerevan State University .
