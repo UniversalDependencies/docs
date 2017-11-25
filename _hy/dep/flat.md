@@ -14,10 +14,10 @@ The relation is not used to attach adjectives to nouns within multi-word names o
 
 ~~~ sdparse
 Նախագահ Լևոն Տեր-Պետրոսյանը երեկ այցելել է Երևանի պետական համալսարան . \n President Levon Ter-Petrosyan yesterday visited Yerevan State University .
-flat(Владимир, Владимирович)
-flat(Vladimir, Vladimirovich)
-flat(Владимир, Путин)
-flat(Vladimir, Putin)
+flat(Լևոն, Պետրոսյան)
+flat(Levon, Petrosyan)
+det(Պետրոսյան, Տեր)
+det(Petrosyan, Ter)
 nmod(Լևոն, Նախագահ)
 nmod(Levon, President)
 amod(համալսարան, պետական)
