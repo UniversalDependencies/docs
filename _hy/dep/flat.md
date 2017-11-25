@@ -2,9 +2,11 @@
 layout: relation
 title: 'flat'
 shortdef: 'flat'
+udver: '2'
 ---
 
-`flat` is one of the relations for compounding in UD.
+`flat` is one of the relations for compounding in UD (together with [compound]() and [fixed]()).
+
 In Armenian it is used to join the first name of a person with the patronymic and the last name.
 
 The leftmost name is always the head and the other name(s) are attached to it.
