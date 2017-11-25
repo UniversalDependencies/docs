@@ -48,6 +48,5 @@ as “or something”, “etc.” etc.
 * _աման-<b>չաման</b>_ “dishes and etc.”,
 * _<b>առոք</b>-փառոք_ “good and proper”,
 * _մարդ-<b>մուրդ</b>_ “some people”,
-* _<b>դափ</b>-դատարկ_ “fully empty”
+* _<b>դափ</b>-դատարկ_ “fully empty”,
 * _<b>նոփ</b>-նոր_ “fully new”
-
