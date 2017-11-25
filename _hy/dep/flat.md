@@ -2,7 +2,6 @@
 layout: relation
 title: 'flat'
 shortdef: 'flat'
-udver: '2'
 ---
 
 `flat` is one of the relations for compounding in UD.
