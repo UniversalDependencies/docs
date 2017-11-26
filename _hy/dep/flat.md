@@ -13,7 +13,7 @@ The inflected name is always the head and the other name(s) are attached to it, 
 
 ~~~ sdparse
 Նախագահ Լևոն Տեր-Պետրոսյանը երեկ այցելել է Երևանի պետական համալսարան . \n President Levon Ter-Petrosyan yesterday visited Yerevan State University .
-flat(Պետրոսյանy, Լևոն)
+flat(Պետրոսյանը, Լևոն)
 flat(Petrosyan, Levon)
 flat(Պետրոսյանը, Տեր)
 flat(Petrosyan, Ter)
@@ -21,7 +21,7 @@ nmod(Պետրոսյանը, Նախագահ)
 nmod(Petrosyan, President)
 amod(համալսարան, պետական)
 amod(University, State)
-nmod(Համալսարան, Երևանի)
+nmod(համալսարան, Երևանի)
 nmod(University, Yerevan)
 ~~~
 
