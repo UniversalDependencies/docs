@@ -7,20 +7,18 @@ udver: '2'
 
 `flat` is one of the relations for compounding in UD (together with [compound]() and [fixed]()).
 
-In Armenian it is used to join the first name of a person with the patronymic and the last name.
+In Armenian it is used for proper nouns constituted of multiple nominal elements. For phrasal or clausal names the usual relations are used.
 
-The leftmost name is always the head and the other name(s) are attached to it.
-
-The relation is not used to attach adjectives to nouns within multi-word names of places, organizations etc. (e.g. _Երևանի պետական համալսարան_).
+The inflected name is always the head and the other name(s) are attached to it, and the inflected name is usually the last name.
 
 ~~~ sdparse
 Նախագահ Լևոն Տեր-Պետրոսյանը երեկ այցելել է Երևանի պետական համալսարան . \n President Levon Ter-Petrosyan yesterday visited Yerevan State University .
-flat(Լևոն, Պետրոսյան)
-flat(Levon, Petrosyan)
-det(Պետրոսյան, Տեր)
-det(Petrosyan, Ter)
-nmod(Լևոն, Նախագահ)
-nmod(Levon, President)
+flat(Պետրոսյանy, Լևոն)
+flat(Petrosyan, Levon)
+flat(Պետրոսյանը, Տեր)
+flat(Petrosyan, Ter)
+nmod(Պետրոսյանը, Նախագահ)
+nmod(Petrosyan, President)
 amod(համալսարան, պետական)
 amod(University, State)
 nmod(Համալսարան, Երևանի)
@@ -28,15 +26,21 @@ nmod(University, Yerevan)
 ~~~
 
 ~~~ sdparse
-Խոսրով Գ Կոտակ \n Khosrov III the Small
+Խոսրով Գ Կոտակը \n Khosrov III the Small
+flat(Կոտակը, Խոսրով)
+flat(Small, Khosrov)
 flat(Խոսրով, Գ)
-flat(Գ, Կոտակ)
 flat(Khosrov, III)
-flat(III, Small)
 ~~~
 
 ~~~ sdparse
-Նյու Յորք \n New York
-flat(Նյու, Յորք)
-flat(New, York)
+Նյու Յորքը \n New York
+flat(Յորքը, Նյու)
+flat(York, New)
+~~~
+
+~~~ sdparse
+Վանա լիճը \n Lake Van
+flat(լիճը, Վանա)
+flat(Lake, Van)
 ~~~
