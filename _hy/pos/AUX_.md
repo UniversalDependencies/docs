@@ -10,9 +10,16 @@ udver: '2'
 
 ### Definition
 
-The only truly auxiliary verb in Czech is _být_ “to be”,
-and its variant (with separate lemma) _bývat_ “to usually be”.
+The only truly auxiliary verb in Armenian is _է_ “to be”,
+and its variant (with separate lemma) _լինեմ (լինել)_ “to be habitually”.
 It accompanies the lexical verb of a verb phrase and expresses
 grammatical distinctions not carried by the lexical verb.
+
+The dependency label indicates their use (auxiliary, copula or content verb).
+
+Armenian auxiliary verbs can be divided into:
+
+- tense auxiliaries (`Past` and `Pres`), used to form compound tenses represented by _եմ_ and _էի_ “to be”;
+- aspectual auxiliaries, used to form so-calleդ “secondary compound tenses” represented by _լինեմ (լինել)_ “to be habitually”.
 
 ### Examples
