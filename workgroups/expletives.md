@@ -132,5 +132,31 @@ The following table summarizes the different relations that would be used for di
 |  | 2 | obj:expl | |
 |  | 3 | obj:expl | |
 
+## Expletives in v2.1 treebanks
+
+Out of 102 treebanks from 60 languages in UD version 2.1: 39 treebanks contain expletives (the expl relation)
+
+The 39 treebanks are from the following 20 languages:
+ * Arabic (only in the PUD treebank, influence from English?)
+ * Bulgarian
+ * Croatian
+ * Danish
+ * Dutch
+ * English
+ * Finnish (?)
+ * French
+ * Galician
+ * German
+ * Greek
+ * Italian
+ * Norwegian
+ * Portuguese
+ * Romanian
+ * Russian (?)
+ * Sanskrit (? only 1 instance)
+ * Slovenian
+ * Swedish
+ * Ukrainian
+ 
 
 
