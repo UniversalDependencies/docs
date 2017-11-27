@@ -165,41 +165,41 @@ The 39 treebanks are from the following 20 languages:
 
 (Translations are provided by Google translate in many cases, feel free to correct if you know the language in question!)
 
- * Bulgarian:
- ..* В дискусията, предполагам, ще се засегнат важни въпроси. (expletive "се" is a reflexive pronoun, transl. "In the discussion, I suppose, will affect important issues".)
- * Croatian:
- ..* Seb Bytyci, izvršni ravnatelj Instituta za balkansku politiku, slaže se s time. (expletive "se" is a reflexive pronoun, transl. "Seb Bytyci, executive director of the Institute for Balkan Policy, agrees.")
- * Danish:
+* Bulgarian:
+  * В дискусията, предполагам, ще се засегнат важни въпроси. (expletive "се" is a reflexive pronoun, transl. "In the discussion, I suppose, will affect important issues".)
+* Croatian:
+  * Seb Bytyci, izvršni ravnatelj Instituta za balkansku politiku, slaže se s time. (expletive "se" is a reflexive pronoun, transl. "Seb Bytyci, executive director of the Institute for Balkan Policy, agrees.")
+* Danish:
   * Så skal der rafles om husholdningspengene. (expletive "der", transl. "So, there will be discussions about household money")
- * Dutch:
+* Dutch:
   * Overigens is het ook niet uitgesloten, dat het stichtingsbestuur van Sparta zelf ook wijzigingen zal ondergaan. (expletive "het", transl. "Moreover, it is also not excluded that the foundation of Sparta itself will undergo changes.")
- * English:
+* English:
   * There has been talk that the night curfew might be implemented again. (expletive "there")
- * Finnish:
+* Finnish:
   * ajatus oli sekö, että aloitetaan kysymyksistä? (expletive pronoun marked as Clitic=Ko "sekö", transl. "the idea was to start asking questions?")
- * French:
+* French:
   * Il ne se représenta pas en 1972. (expletive "se", transl. "He did not represent himself in 1972.")
- * Galician:
+* Galician:
   * Ás cinco remátase de traballar. (expletive clitic "-se", transl. "At five it is over to work")
- * German:
+* German:
   * Die Party ist vorbei, heißt es nun. (expletive "es", transl. "The party is over, it is now said")
- * Greek:
+* Greek:
   * Πιστεύω ότι είναι δίκαιο να το αναγνωρίσουμε αυτό. (expletive "το", transl. "I believe it is fair to recognize this.")
- * Italian:
+* Italian:
   * L'intrigo internazionale si è svolto tra Beirut, Ginevra e Tripoli nel 1990. (expletive "si", transl. "International intrigue took place between Beirut, Geneva and Tripoli in 1990.")
- * Norwegian:
+* Norwegian:
   * Det var veldig positivt at han klarte å senke tiden sin (expletive "Det", transl. "It was very positive that he managed to lower his time")
- * Portuguese:
+* Portuguese:
   * Na confusão que se segue, parte um primeiro tiro [...] (expletive "se", transl. "In the confusion that follows, a first shot [...]") 
- * Romanian:
+* Romanian:
   * Dar asemenea lucruri nu le știai decât din zvonuri vagi. (expletive "le", transl. "But you knew such things only from vague rumors.")
- * Russian:
+* Russian:
   * Или это снег таял на груди? (expletive "это", transl. "Or was it snow melting on his chest?")
- * Slovenian:
+* Slovenian:
   * V takšnem primeru se lahko bolnikovo stanje celo poslabša. (expletive "se", transl. "In this case, the patient's condition may even deteriorate.")
- * Swedish:
+* Swedish:
   * Det är viktigt för dig att känna till de här nyheterna. (expletive "Det", transl. "It is important for you to be familiar with these news")
- * Ukrainian:
+* Ukrainian:
   * Залишити слід на папері — це був вирішальний крок. (expletive "це", transl. "Leave the mark on paper - it was a decisive step.")
 
 
