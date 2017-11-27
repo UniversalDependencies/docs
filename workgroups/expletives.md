@@ -159,6 +159,6 @@ The 39 treebanks are from the following 20 languages:
  * Ukrainian
  
  
-[http://folk.uio.no/liljao/expl-stats_v2.1.txt](Statistics per treebank) (absolute expletive counts, total, and proportion of expletives out of all tokens)
+[Statistics per treebank](http://folk.uio.no/liljao/expl-stats_v2.1.txt) (absolute expletive counts, total, and proportion of expletives out of all tokens)
 
 
