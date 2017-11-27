@@ -13,9 +13,7 @@ udver: '2'
 The only truly auxiliary verb in Armenian is _է_ “to be”,
 and its variant (with separate lemma) _լինեմ (լինել)_ “to be habitually”.
 It accompanies the lexical verb of a verb phrase and expresses
-grammatical distinctions not carried by the lexical verb.
-
-The dependency label indicates their use (auxiliary, copula or content verb).
+grammatical distinctions not carried by the lexical verb. The dependency label indicates their use (auxiliary, copula or content verb).
 
 Armenian auxiliary verbs can be divided into:
 
