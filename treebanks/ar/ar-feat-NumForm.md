@@ -36,6 +36,7 @@ The 10 most frequent relations where parent and child node agree in `NumForm`:
 <tt>NUM --[<tt><a href="ar-dep-obl.html">obl</a></tt>]--> NUM</tt> (8; 89%),
 <tt>NUM --[<tt><a href="ar-dep-cc.html">cc</a></tt>]--> NUM</tt> (7; 100%),
 <tt>NUM --[<tt><a href="ar-dep-nsubj.html">nsubj</a></tt>]--> NUM</tt> (5; 83%),
-<tt>NUM --[<tt><a href="ar-dep-obj.html">obj</a></tt>]--> NUM</tt> (2; 100%),
-<tt>NUM --[<tt><a href="ar-dep-cop.html">cop</a></tt>]--> NUM</tt> (1; 100%).
+<tt>NUM --[<tt><a href="ar-dep-cop.html">cop</a></tt>]--> NUM</tt> (1; 100%),
+<tt>NUM --[<tt><a href="ar-dep-obj.html">obj</a></tt>]--> NUM</tt> (1; 100%),
+<tt>NUM --[<tt><a href="ar-dep-obl-arg.html">obl:arg</a></tt>]--> NUM</tt> (1; 100%).
 

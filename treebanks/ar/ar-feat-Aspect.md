@@ -77,10 +77,10 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>VERB --[<tt><a href="ar-dep-conj.html">conj</a></tt>]--> VERB</tt> (2047; 82%),
-<tt>VERB --[<tt><a href="ar-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (697; 63%),
-<tt>VERB --[<tt><a href="ar-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (220; 73%),
-<tt>VERB --[<tt><a href="ar-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (172; 73%),
+<tt>VERB --[<tt><a href="ar-dep-conj.html">conj</a></tt>]--> VERB</tt> (2048; 82%),
+<tt>VERB --[<tt><a href="ar-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (696; 63%),
+<tt>VERB --[<tt><a href="ar-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (223; 73%),
+<tt>VERB --[<tt><a href="ar-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (172; 72%),
 <tt>VERB --[<tt><a href="ar-dep-acl.html">acl</a></tt>]--> VERB</tt> (18; 62%),
 <tt>VERB --[<tt><a href="ar-dep-appos.html">appos</a></tt>]--> VERB</tt> (8; 89%),
 <tt>AUX --[<tt><a href="ar-dep-conj.html">conj</a></tt>]--> VERB</tt> (4; 67%),

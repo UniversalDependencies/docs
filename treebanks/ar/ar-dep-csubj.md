@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `csubj`: <tt><a href="ar-dep-csubj-pass.html">csubj:pass</a></tt>.
 
-527 nodes (0%) are attached to their parents as `csubj`.
+530 nodes (0%) are attached to their parents as `csubj`.
 
-527 instances of `csubj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.48576850094877.
+527 instances of `csubj` (99%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.52452830188679.
 
-The following 15 pairs of parts of speech are connected with `csubj`: <tt><a href="ar-pos-VERB.html">VERB</a></tt>-<tt><a href="ar-pos-VERB.html">VERB</a></tt> (303; 57% instances), <tt><a href="ar-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar-pos-VERB.html">VERB</a></tt> (131; 25% instances), <tt><a href="ar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar-pos-VERB.html">VERB</a></tt> (47; 9% instances), <tt><a href="ar-pos-X.html">X</a></tt>-<tt><a href="ar-pos-VERB.html">VERB</a></tt> (10; 2% instances), <tt><a href="ar-pos-PRON.html">PRON</a></tt>-<tt><a href="ar-pos-VERB.html">VERB</a></tt> (9; 2% instances), <tt><a href="ar-pos-VERB.html">VERB</a></tt>-<tt><a href="ar-pos-NOUN.html">NOUN</a></tt> (8; 2% instances), <tt><a href="ar-pos-VERB.html">VERB</a></tt>-<tt><a href="ar-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="ar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="ar-pos-ADP.html">ADP</a></tt>-<tt><a href="ar-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ar-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ar-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ar-pos-DET.html">DET</a></tt>-<tt><a href="ar-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ar-pos-PART.html">PART</a></tt>-<tt><a href="ar-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ar-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ar-pos-PRON.html">PRON</a></tt>-<tt><a href="ar-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ar-pos-VERB.html">VERB</a></tt>-<tt><a href="ar-pos-X.html">X</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `csubj`: <tt><a href="ar-pos-VERB.html">VERB</a></tt>-<tt><a href="ar-pos-VERB.html">VERB</a></tt> (306; 58% instances), <tt><a href="ar-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar-pos-VERB.html">VERB</a></tt> (131; 25% instances), <tt><a href="ar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar-pos-VERB.html">VERB</a></tt> (47; 9% instances), <tt><a href="ar-pos-X.html">X</a></tt>-<tt><a href="ar-pos-VERB.html">VERB</a></tt> (10; 2% instances), <tt><a href="ar-pos-VERB.html">VERB</a></tt>-<tt><a href="ar-pos-NOUN.html">NOUN</a></tt> (8; 2% instances), <tt><a href="ar-pos-PRON.html">PRON</a></tt>-<tt><a href="ar-pos-VERB.html">VERB</a></tt> (7; 1% instances), <tt><a href="ar-pos-VERB.html">VERB</a></tt>-<tt><a href="ar-pos-ADJ.html">ADJ</a></tt> (5; 1% instances), <tt><a href="ar-pos-DET.html">DET</a></tt>-<tt><a href="ar-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="ar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar-pos-ADJ.html">ADJ</a></tt> (3; 1% instances), <tt><a href="ar-pos-ADP.html">ADP</a></tt>-<tt><a href="ar-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ar-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ar-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ar-pos-PART.html">PART</a></tt>-<tt><a href="ar-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ar-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ar-pos-PRON.html">PRON</a></tt>-<tt><a href="ar-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ar-pos-VERB.html">VERB</a></tt>-<tt><a href="ar-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -58,7 +58,7 @@ The following 15 pairs of parts of speech are connected with `csubj`: <tt><a hre
 10	لم	لَم	PART	F---------	_	11	advmod	_	Vform=لَم|Gloss=not|Root=lam|Translit=lam|LTranslit=lam
 11	نبدا	بَدَأ	VERB	VIJA-1MP--	Aspect=Imp|Gender=Masc|Mood=Jus|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	7	advcl	_	Vform=نَبدَأ|Gloss=start,begin|Root=b_d_'|Translit=nabdaʾ|LTranslit=badaʾ
 12	ب	بِ	ADP	P---------	AdpType=Prep	13	case	_	Vform=بِ|Gloss=by,with|Root=bi|Translit=bi|LTranslit=bi
-13	قصف	قَصف	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	11	obj	_	Vform=قَصفِ|Gloss=bombardment,shelling|Root=q_.s_f|Translit=qaṣfi|LTranslit=qaṣf
+13	قصف	قَصف	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	11	obl:arg	_	Vform=قَصفِ|Gloss=bombardment,shelling|Root=q_.s_f|Translit=qaṣfi|LTranslit=qaṣf
 14	هم	هُوَ	PRON	SP---3MP2-	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	13	nmod	_	Vform=هِم|Gloss=he,she,it|Translit=him|LTranslit=huwa
 15	"	"	PUNCT	G---------	_	4	punct	_	SpaceAfter=No|Vform="|Translit="
 16	.	.	PUNCT	G---------	_	1	punct	_	Vform=.|Translit=.

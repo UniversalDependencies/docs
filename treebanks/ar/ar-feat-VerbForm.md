@@ -44,7 +44,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="ar-dep-conj.html">conj</a></tt>]--> VERB</tt> (828; 65%),
-<tt>VERB --[<tt><a href="ar-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (165; 67%),
+<tt>VERB --[<tt><a href="ar-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (166; 67%),
 <tt>VERB --[<tt><a href="ar-dep-appos.html">appos</a></tt>]--> VERB</tt> (5; 83%),
 <tt>VERB --[<tt><a href="ar-dep-csubj-pass.html">csubj:pass</a></tt>]--> VERB</tt> (1; 100%).
 

@@ -29,5 +29,6 @@ The feature is used with 1 part-of-speech tags: <tt><a href="ar-pos-X.html">X</a
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
 <tt>X --[<tt><a href="ar-dep-flat-foreign.html">flat:foreign</a></tt>]--> X</tt> (745; 100%),
-<tt>X --[<tt><a href="ar-dep-conj.html">conj</a></tt>]--> X</tt> (157; 58%).
+<tt>X --[<tt><a href="ar-dep-conj.html">conj</a></tt>]--> X</tt> (157; 58%),
+<tt>X --[<tt><a href="ar-dep-obl-arg.html">obl:arg</a></tt>]--> X</tt> (2; 67%).
 

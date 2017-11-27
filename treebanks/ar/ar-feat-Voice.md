@@ -66,10 +66,10 @@ The most frequent other feature values with which `AUX` and `Voice` co-occurred:
 The 10 most frequent relations where parent and child node agree in `Voice`:
 <tt>VERB --[<tt><a href="ar-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (2358; 92%),
 <tt>VERB --[<tt><a href="ar-dep-conj.html">conj</a></tt>]--> VERB</tt> (2313; 93%),
-<tt>VERB --[<tt><a href="ar-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1014; 91%),
+<tt>VERB --[<tt><a href="ar-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1013; 91%),
 <tt>VERB --[<tt><a href="ar-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (611; 96%),
-<tt>VERB --[<tt><a href="ar-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (224; 95%),
-<tt>VERB --[<tt><a href="ar-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (214; 71%),
+<tt>VERB --[<tt><a href="ar-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (225; 95%),
+<tt>VERB --[<tt><a href="ar-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (216; 71%),
 <tt>VERB --[<tt><a href="ar-dep-acl.html">acl</a></tt>]--> VERB</tt> (28; 97%),
 <tt>VERB --[<tt><a href="ar-dep-appos.html">appos</a></tt>]--> VERB</tt> (9; 100%),
 <tt>VERB --[<tt><a href="ar-dep-aux.html">aux</a></tt>]--> AUX</tt> (8; 100%),

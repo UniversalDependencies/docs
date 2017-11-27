@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  كان (<tt><a href="ar-pos-VERB.html">VE
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 1.820000 (the average of all parts of speech is 1.685887).
+The form / lemma ratio of `AUX` is 1.820000 (the average of all parts of speech is 1.685281).
 
 The 1st highest number of forms (13) was observed with the lemma “كَان”: اكون, تكن, تكون, تكونون, كان, كانت, كانوا, كن, كنت, نكون, يكن, يكون, يكونا.
 
@@ -73,7 +73,7 @@ Examples: كان، ليس، قال، زال، اصبح، ظل، بات، ذكر�
 
 `AUX` nodes are attached to their parents using 2 different relations: <tt><a href="ar-dep-cop.html">cop</a></tt> (642; 94% instances), <tt><a href="ar-dep-aux.html">aux</a></tt> (39; 6% instances)
 
-Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="ar-pos-ADJ.html">ADJ</a></tt> (319; 47% instances), <tt><a href="ar-pos-NOUN.html">NOUN</a></tt> (290; 43% instances), <tt><a href="ar-pos-X.html">X</a></tt> (32; 5% instances), <tt><a href="ar-pos-NUM.html">NUM</a></tt> (15; 2% instances), <tt><a href="ar-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="ar-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="ar-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="ar-pos-DET.html">DET</a></tt> (2; 0% instances)
+Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="ar-pos-ADJ.html">ADJ</a></tt> (319; 47% instances), <tt><a href="ar-pos-NOUN.html">NOUN</a></tt> (290; 43% instances), <tt><a href="ar-pos-X.html">X</a></tt> (32; 5% instances), <tt><a href="ar-pos-NUM.html">NUM</a></tt> (15; 2% instances), <tt><a href="ar-pos-VERB.html">VERB</a></tt> (8; 1% instances), <tt><a href="ar-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="ar-pos-DET.html">DET</a></tt> (7; 1% instances), <tt><a href="ar-pos-PRON.html">PRON</a></tt> (3; 0% instances)
 
 657 (96%) `AUX` nodes are leaves.
 
@@ -85,7 +85,7 @@ Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="ar-po
 
 The highest child degree of a `AUX` node is 5.
 
-Children of `AUX` nodes are attached using 13 different relations: <tt><a href="ar-dep-mark.html">mark</a></tt> (15; 19% instances), <tt><a href="ar-dep-conj.html">conj</a></tt> (12; 15% instances), <tt><a href="ar-dep-cc.html">cc</a></tt> (10; 13% instances), <tt><a href="ar-dep-nsubj.html">nsubj</a></tt> (10; 13% instances), <tt><a href="ar-dep-obl.html">obl</a></tt> (9; 11% instances), <tt><a href="ar-dep-obj.html">obj</a></tt> (8; 10% instances), <tt><a href="ar-dep-advmod.html">advmod</a></tt> (4; 5% instances), <tt><a href="ar-dep-advmod-emph.html">advmod:emph</a></tt> (3; 4% instances), <tt><a href="ar-dep-advcl.html">advcl</a></tt> (2; 3% instances), <tt><a href="ar-dep-nmod.html">nmod</a></tt> (2; 3% instances), <tt><a href="ar-dep-punct.html">punct</a></tt> (2; 3% instances), <tt><a href="ar-dep-iobj.html">iobj</a></tt> (1; 1% instances), <tt><a href="ar-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
+Children of `AUX` nodes are attached using 13 different relations: <tt><a href="ar-dep-mark.html">mark</a></tt> (15; 19% instances), <tt><a href="ar-dep-conj.html">conj</a></tt> (12; 15% instances), <tt><a href="ar-dep-cc.html">cc</a></tt> (10; 13% instances), <tt><a href="ar-dep-nsubj.html">nsubj</a></tt> (10; 13% instances), <tt><a href="ar-dep-obl.html">obl</a></tt> (9; 11% instances), <tt><a href="ar-dep-obl-arg.html">obl:arg</a></tt> (6; 8% instances), <tt><a href="ar-dep-advmod.html">advmod</a></tt> (4; 5% instances), <tt><a href="ar-dep-advmod-emph.html">advmod:emph</a></tt> (3; 4% instances), <tt><a href="ar-dep-obj.html">obj</a></tt> (3; 4% instances), <tt><a href="ar-dep-advcl.html">advcl</a></tt> (2; 3% instances), <tt><a href="ar-dep-nmod.html">nmod</a></tt> (2; 3% instances), <tt><a href="ar-dep-punct.html">punct</a></tt> (2; 3% instances), <tt><a href="ar-dep-xcomp.html">xcomp</a></tt> (1; 1% instances)
 
 Children of `AUX` nodes belong to 10 different parts of speech: <tt><a href="ar-pos-NOUN.html">NOUN</a></tt> (35; 44% instances), <tt><a href="ar-pos-ADP.html">ADP</a></tt> (12; 15% instances), <tt><a href="ar-pos-CCONJ.html">CCONJ</a></tt> (12; 15% instances), <tt><a href="ar-pos-VERB.html">VERB</a></tt> (8; 10% instances), <tt><a href="ar-pos-ADV.html">ADV</a></tt> (3; 4% instances), <tt><a href="ar-pos-PART.html">PART</a></tt> (2; 3% instances), <tt><a href="ar-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="ar-pos-PUNCT.html">PUNCT</a></tt> (2; 3% instances), <tt><a href="ar-pos-X.html">X</a></tt> (2; 3% instances), <tt><a href="ar-pos-ADJ.html">ADJ</a></tt> (1; 1% instances)
 

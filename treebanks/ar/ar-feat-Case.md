@@ -12,7 +12,7 @@ It occurs with 3 different values: `Acc`, `Gen`, `Nom`.
 144002 tokens (51%) have a non-empty value of `Case`.
 15061 types (57%) occur at least once with a non-empty value of `Case`.
 6378 lemmas (38%) occur at least once with a non-empty value of `Case`.
-The feature is used with 6 part-of-speech tags: <tt><a href="ar-pos-NOUN.html">NOUN</a></tt> (92051; 33% instances), <tt><a href="ar-pos-ADJ.html">ADJ</a></tt> (29221; 10% instances), <tt><a href="ar-pos-PRON.html">PRON</a></tt> (12293; 4% instances), <tt><a href="ar-pos-ADP.html">ADP</a></tt> (5971; 2% instances), <tt><a href="ar-pos-DET.html">DET</a></tt> (2260; 1% instances), <tt><a href="ar-pos-NUM.html">NUM</a></tt> (2206; 1% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="ar-pos-NOUN.html">NOUN</a></tt> (92051; 33% instances), <tt><a href="ar-pos-ADJ.html">ADJ</a></tt> (29221; 10% instances), <tt><a href="ar-pos-PRON.html">PRON</a></tt> (9991; 4% instances), <tt><a href="ar-pos-ADP.html">ADP</a></tt> (5971; 2% instances), <tt><a href="ar-pos-DET.html">DET</a></tt> (4562; 2% instances), <tt><a href="ar-pos-NUM.html">NUM</a></tt> (2206; 1% instances).
 
 ### `NOUN`
 
@@ -68,28 +68,27 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 ### `PRON`
 
-12293 <tt><a href="ar-pos-PRON.html">PRON</a></tt> tokens (95% of all `PRON` tokens) have a non-empty value of `Case`.
+9991 <tt><a href="ar-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10796; 88%), <tt><a href="ar-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (9991; 81%), <tt><a href="ar-feat-Person.html">Person</a></tt><tt>=3</tt> (9693; 79%), <tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (6970; 57%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="ar-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (9991; 100%), <tt><a href="ar-feat-Person.html">Person</a></tt><tt>=3</tt> (9693; 97%), <tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8642; 86%), <tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5866; 59%).
 
 `PRON` tokens may have the following values of `Case`:
 
-* `Acc` (2754; 22% of non-empty `Case`): ه، ها، هم، التي، هذا، هذه، الذي، نا، ذلك، ك
-* `Gen` (8346; 68% of non-empty `Case`): ها، ه، هم، التي، هذه، الذي، هذا، ك، ذلك، الذين
-* `Nom` (1193; 10% of non-empty `Case`): هو، هي، الذي، التي، هذا، هم، هذه، ذٰلك، ذلك، هى
-* `EMPTY` (583): ما، من، ماذا، كيف، أين، كم، متى، لماذا، هكذا، اين
+* `Acc` (2422; 24% of non-empty `Case`): ه، ها، هم، نا، ك، ني، هما، هن، كم
+* `Gen` (6743; 67% of non-empty `Case`): ها، ه، هم، ك، هما، نا، كم، هن، ي، أعضائها
+* `Nom` (826; 8% of non-empty `Case`): هو، هي، هم، هى، نحن، هما، أنت، أنا، انتم، هن
 
 <table>
   <tr><th>Paradigm <i>هُوَ</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th></tr>
   <tr><td><tt><tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ar-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td>أنا, انا</td><td>ني</td><td>ي</td></tr>
   <tr><td><tt><tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ar-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td>أنت</td><td>ك</td><td>ك</td></tr>
-  <tr><td><tt><tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ar-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>هو</td><td>ه</td><td>ه, زنزانته, لاراضيه, حكومته, مستقبله, والده, وغربه, إدانته, بلاده, استعداداته, تجهيزه, طائرته, انتشاره</td></tr>
+  <tr><td><tt><tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ar-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>هو</td><td>ه</td><td>ه, طائرته, إدانته, لاراضيه, حكومته, بلاده, مستقبله, تجهيزه, انتشاره, زنزانته, استعداداته, والده, وغربه</td></tr>
   <tr><td><tt><tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="ar-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>هما</td><td>هما</td><td>هما</td></tr>
   <tr><td><tt><tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ar-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td>نحن</td><td>نا</td><td>نا, لمساعدتنا</td></tr>
   <tr><td><tt><tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ar-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td>انتم, أنتم</td><td>كم</td><td>كم</td></tr>
-  <tr><td><tt><tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ar-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>هم</td><td>هم</td><td>هم, بهم, بأنفسهم, شفائهم, استبعادهم, بلادهم, لهم</td></tr>
+  <tr><td><tt><tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ar-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>هم</td><td>هم</td><td>هم, شفائهم, بهم, بأنفسهم, استبعادهم, لهم, بلادهم</td></tr>
   <tr><td><tt><tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ar-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td></td><td></td><td>ك</td></tr>
-  <tr><td><tt><tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ar-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>هي, هى, وهي</td><td>ها</td><td>ها, مستشفياتها, بضمانها, تجميدها, مواجهتها, نهايتها, تخصيصها, بفقدانها, أعضائها, إليها, تجارتها, أهدافها, بهويتها</td></tr>
+  <tr><td><tt><tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ar-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>هي, هى, وهي</td><td>ها</td><td>ها, بضمانها, نهايتها, تجارتها, تجميدها, إليها, بهويتها, مواجهتها, أهدافها, أعضائها, مستشفياتها, بفقدانها, تخصيصها</td></tr>
   <tr><td><tt><tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="ar-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>هما</td><td>هما</td><td>هما</td></tr>
   <tr><td><tt><tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ar-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>هن</td><td>هن</td><td>هن</td></tr>
 </table>
@@ -114,16 +113,16 @@ The most frequent other feature values with which `ADP` and `Case` co-occurred: 
 
 ### `DET`
 
-2260 <tt><a href="ar-pos-DET.html">DET</a></tt> tokens (78% of all `DET` tokens) have a non-empty value of `Case`.
+4562 <tt><a href="ar-pos-DET.html">DET</a></tt> tokens (79% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2127; 94%), <tt><a href="ar-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (1229; 54%), <tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (1199; 53%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4281; 94%), <tt><a href="ar-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (2513; 55%), <tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (2397; 53%).
 
 `DET` tokens may have the following values of `Case`:
 
-* `Acc` (368; 16% of non-empty `Case`): التي، هذه، هذا، الذي، ذلك، تلك، التى، الذى، الذين، هؤلاء
-* `Gen` (1493; 66% of non-empty `Case`): التي، هذه، الذي، هذا، ذلك، الذين، التى، هٰذا، هٰذه، تلك
-* `Nom` (399; 18% of non-empty `Case`): الذي، التي، هذه، هذا، ذٰلك، هٰذا، ذلك، الذين، الذى، تلك
-* `EMPTY` (624): ما، من، كيف، كم، أين، ماذا، لماذا، متى، اين، هكذا
+* `Acc` (700; 15% of non-empty `Case`): التي، هذا، هذه، الذي، ذلك، التى، الذين، تلك، الذى، هؤلاء
+* `Gen` (3096; 68% of non-empty `Case`): التي، هذه، الذي، هذا، ذلك، الذين، التى، هٰذه، هٰذا، ذٰلك
+* `Nom` (766; 17% of non-empty `Case`): الذي، التي، هذا، هذه، ذٰلك، ذلك، هٰذا، تلك، الذين، التى
+* `EMPTY` (1207): ما، من، كيف، ماذا، كم، أين، متى، لماذا، هكذا، اين
 
 <table>
   <tr><th>Paradigm <i>اَلَّذِي</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th></tr>
@@ -167,10 +166,10 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="ar-dep-amod.html">amod</a></tt>]--> ADJ</tt> (22129; 97%),
 <tt>NOUN --[<tt><a href="ar-dep-conj.html">conj</a></tt>]--> NOUN</tt> (5137; 97%),
 <tt>NOUN --[<tt><a href="ar-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (3153; 66%),
-<tt>NOUN --[<tt><a href="ar-dep-cc.html">cc</a></tt>]--> PRON</tt> (1325; 95%),
-<tt>NOUN --[<tt><a href="ar-dep-obj.html">obj</a></tt>]--> NOUN</tt> (1244; 59%),
+<tt>NOUN --[<tt><a href="ar-dep-det.html">det</a></tt>]--> DET</tt> (1729; 87%),
 <tt>ADJ --[<tt><a href="ar-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1169; 59%),
-<tt>NOUN --[<tt><a href="ar-dep-cc.html">cc</a></tt>]--> DET</tt> (1117; 96%),
 <tt>NOUN --[<tt><a href="ar-dep-obl.html">obl</a></tt>]--> NOUN</tt> (1032; 56%),
-<tt>ADJ --[<tt><a href="ar-dep-conj.html">conj</a></tt>]--> ADJ</tt> (831; 98%).
+<tt>ADJ --[<tt><a href="ar-dep-conj.html">conj</a></tt>]--> ADJ</tt> (831; 98%),
+<tt>NOUN --[<tt><a href="ar-dep-cc.html">cc</a></tt>]--> NOUN</tt> (823; 71%),
+<tt>NOUN --[<tt><a href="ar-dep-obl-arg.html">obl:arg</a></tt>]--> NOUN</tt> (768; 59%).
 

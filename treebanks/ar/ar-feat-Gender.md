@@ -12,7 +12,7 @@ It occurs with 2 different values: `Fem`, `Masc`.
 66056 tokens (23%) have a non-empty value of `Gender`.
 9183 types (35%) occur at least once with a non-empty value of `Gender`.
 3386 lemmas (20%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 6 part-of-speech tags: <tt><a href="ar-pos-ADJ.html">ADJ</a></tt> (29221; 10% instances), <tt><a href="ar-pos-VERB.html">VERB</a></tt> (20901; 7% instances), <tt><a href="ar-pos-PRON.html">PRON</a></tt> (12293; 4% instances), <tt><a href="ar-pos-DET.html">DET</a></tt> (2260; 1% instances), <tt><a href="ar-pos-NUM.html">NUM</a></tt> (700; 0% instances), <tt><a href="ar-pos-AUX.html">AUX</a></tt> (681; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="ar-pos-ADJ.html">ADJ</a></tt> (29221; 10% instances), <tt><a href="ar-pos-VERB.html">VERB</a></tt> (20901; 7% instances), <tt><a href="ar-pos-PRON.html">PRON</a></tt> (9991; 4% instances), <tt><a href="ar-pos-DET.html">DET</a></tt> (4562; 2% instances), <tt><a href="ar-pos-NUM.html">NUM</a></tt> (700; 0% instances), <tt><a href="ar-pos-AUX.html">AUX</a></tt> (681; 0% instances).
 
 ### `ADJ`
 
@@ -73,15 +73,14 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 
 ### `PRON`
 
-12293 <tt><a href="ar-pos-PRON.html">PRON</a></tt> tokens (95% of all `PRON` tokens) have a non-empty value of `Gender`.
+9991 <tt><a href="ar-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10796; 88%), <tt><a href="ar-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (9991; 81%), <tt><a href="ar-feat-Person.html">Person</a></tt><tt>=3</tt> (9693; 79%), <tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Gen</tt> (8346; 68%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="ar-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (9991; 100%), <tt><a href="ar-feat-Person.html">Person</a></tt><tt>=3</tt> (9693; 97%), <tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8642; 86%), <tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Gen</tt> (6743; 67%).
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (5323; 43% of non-empty `Gender`): ها، التي، هذه، هي، التى، هٰذه، تلك، هما، هن، هى
-* `Masc` (6970; 57% of non-empty `Gender`): ه، هم، هو، الذي، هذا، ذلك، ك، الذين، نا، هما
-* `EMPTY` (583): ما، من، ماذا، كيف، أين، كم، متى، لماذا، هكذا، اين
+* `Fem` (4125; 41% of non-empty `Gender`): ها، هي، هما، هن، هى، ك، أعضائها، أهدافها، إليها، بضمانها
+* `Masc` (5866; 59% of non-empty `Gender`): ه، هم، هو، ك، نا، هما، كم، ي، نحن، ني
 
 <table>
   <tr><th>Paradigm <i>هُوَ</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -94,11 +93,11 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
   <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ar-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>هم</td><td>هن</td></tr>
   <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ar-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td>ي</td><td></td></tr>
   <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ar-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td>ك</td><td>ك</td></tr>
-  <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ar-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>ه, مستقبله, والده, زنزانته, حكومته, لاراضيه, تجهيزه, استعداداته, انتشاره, طائرته, إدانته, وغربه, بلاده</td><td>ها, تخصيصها, مواجهتها, نهايتها, تجميدها, بضمانها, مستشفياتها, بهويتها, أهدافها, تجارتها, إليها, بفقدانها, أعضائها</td></tr>
+  <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ar-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>ه, طائرته, إدانته, حكومته, لاراضيه, مستقبله, تجهيزه, بلاده, انتشاره, استعداداته, وغربه, والده, زنزانته</td><td>ها, نهايتها, بضمانها, تجارتها, إليها, تجميدها, بهويتها, مواجهتها, أهدافها, أعضائها, مستشفياتها, بفقدانها, تخصيصها</td></tr>
   <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="ar-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>هما</td><td>هما</td></tr>
   <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ar-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td>نا, لمساعدتنا</td><td></td></tr>
   <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ar-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td>كم</td><td></td></tr>
-  <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ar-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>هم, بهم, بأنفسهم, شفائهم, استبعادهم, بلادهم, لهم</td><td>هن</td></tr>
+  <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="ar-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>هم, استبعادهم, بلادهم, لهم, شفائهم, بأنفسهم, بهم</td><td>هن</td></tr>
   <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ar-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td>أنا, انا</td><td></td></tr>
   <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ar-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td>أنت</td><td></td></tr>
   <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ar-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>هو</td><td>هي, هى, وهي</td></tr>
@@ -110,15 +109,15 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 ### `DET`
 
-2260 <tt><a href="ar-pos-DET.html">DET</a></tt> tokens (78% of all `DET` tokens) have a non-empty value of `Gender`.
+4562 <tt><a href="ar-pos-DET.html">DET</a></tt> tokens (79% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2127; 94%), <tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Gen</tt> (1493; 66%), <tt><a href="ar-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (1229; 54%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Sing</tt> (4281; 94%), <tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Gen</tt> (3096; 68%), <tt><a href="ar-feat-PronType.html">PronType</a></tt><tt>=Rel</tt> (2513; 55%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (1199; 53% of non-empty `Gender`): التي، هذه، التى، تلك، هٰذه، اللتين، اللواتي، اللتان، اللاتى، اللاتي
-* `Masc` (1061; 47% of non-empty `Gender`): الذي، هذا، ذلك، الذين، ذٰلك، هٰذا، الذى، هؤلاء، اللذين، ذي
-* `EMPTY` (624): ما، من، كيف، كم، أين، ماذا، لماذا، متى، اين، هكذا
+* `Fem` (2397; 53% of non-empty `Gender`): التي، هذه، التى، تلك، هٰذه، اللتين، اللواتي، اللتان، اللاتى، هاتين
+* `Masc` (2165; 47% of non-empty `Gender`): الذي، هذا، ذلك، الذين، ذٰلك، هٰذا، الذى، هؤلاء، اللذين، هذين
+* `EMPTY` (1207): ما، من، كيف، ماذا، كم، أين، متى، لماذا، هكذا، اين
 
 <table>
   <tr><th>Paradigm <i>اَلَّذِي</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
@@ -148,7 +147,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 <table>
   <tr><th>Paradigm <i>ثَلَاثَة</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
   <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar-feat-Definite.html">Definite</a></tt><tt>=Cons</tt></tt></td><td>ثلاثة</td><td>ثلاث</td></tr>
-  <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar-feat-Definite.html">Definite</a></tt><tt>=Def</tt></tt></td><td>الثلاثة, الثلاثـــــة</td><td>الثلاث</td></tr>
+  <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar-feat-Definite.html">Definite</a></tt><tt>=Def</tt></tt></td><td>الثلاثـــــة, الثلاثة</td><td>الثلاث</td></tr>
   <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar-feat-Definite.html">Definite</a></tt><tt>=Ind</tt></tt></td><td>ثلاثة</td><td>ثلاثا</td></tr>
   <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar-feat-Definite.html">Definite</a></tt><tt>=Com</tt></tt></td><td>الثلاثة</td><td></td></tr>
   <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar-feat-Definite.html">Definite</a></tt><tt>=Cons</tt></tt></td><td>ثلاثة</td><td>ثلاث</td></tr>
@@ -190,13 +189,13 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>VERB --[<tt><a href="ar-dep-conj.html">conj</a></tt>]--> VERB</tt> (1880; 75%),
+<tt>VERB --[<tt><a href="ar-dep-nsubj.html">nsubj</a></tt>]--> DET</tt> (1542; 74%),
 <tt>VERB --[<tt><a href="ar-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1478; 58%),
-<tt>VERB --[<tt><a href="ar-dep-obj.html">obj</a></tt>]--> PRON</tt> (984; 52%),
 <tt>ADJ --[<tt><a href="ar-dep-conj.html">conj</a></tt>]--> ADJ</tt> (841; 99%),
-<tt>VERB --[<tt><a href="ar-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (748; 67%),
-<tt>VERB --[<tt><a href="ar-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (637; 95%),
+<tt>VERB --[<tt><a href="ar-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (747; 67%),
+<tt>VERB --[<tt><a href="ar-dep-obj.html">obj</a></tt>]--> PRON</tt> (659; 54%),
 <tt>VERB --[<tt><a href="ar-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (624; 98%),
+<tt>VERB --[<tt><a href="ar-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (612; 99%),
 <tt>VERB --[<tt><a href="ar-dep-xcomp.html">xcomp</a></tt>]--> ADJ</tt> (505; 95%),
-<tt>VERB --[<tt><a href="ar-dep-obl.html">obl</a></tt>]--> ADJ</tt> (423; 59%),
-<tt>VERB --[<tt><a href="ar-dep-obj.html">obj</a></tt>]--> ADJ</tt> (332; 60%).
+<tt>VERB --[<tt><a href="ar-dep-obl.html">obl</a></tt>]--> ADJ</tt> (423; 59%).
 

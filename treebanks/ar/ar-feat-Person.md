@@ -48,7 +48,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
 
 ### `PRON`
 
-9991 <tt><a href="ar-pos-PRON.html">PRON</a></tt> tokens (78% of all `PRON` tokens) have a non-empty value of `Person`.
+9991 <tt><a href="ar-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Person`.
 
 The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="ar-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (9991; 100%), <tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Sing</tt> (8642; 86%), <tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Gen</tt> (6743; 67%), <tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5866; 59%).
 
@@ -57,7 +57,6 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (122; 1% of non-empty `Person`): نا، ي، نحن، ني، أنا، انا، لمساعدتنا
 * `2` (176; 2% of non-empty `Person`): ك، كم، أنت، انتم، أنتم
 * `3` (9693; 97% of non-empty `Person`): ه، ها، هم، هو، هي، هما، هن، هى، أعضائها، أهدافها
-* `EMPTY` (2885): التي، ما، الذي، هذه، هذا، ذلك، الذين، التى، ذٰلك، من
 
 <table>
   <tr><th>Paradigm <i>هُوَ</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -67,10 +66,10 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
   <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td>ها</td></tr>
   <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Dual</tt></tt></td><td></td><td></td><td>هما</td></tr>
   <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td>هن</td></tr>
-  <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>ي</td><td>ك</td><td>ه, والده, مستقبله, لاراضيه, حكومته, زنزانته, طائرته, انتشاره, تجهيزه, استعداداته, بلاده, إدانته, وغربه</td></tr>
+  <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>ي</td><td>ك</td><td>ه, زنزانته, استعداداته, وغربه, والده, تجهيزه, مستقبله, بلاده, انتشاره, لاراضيه, حكومته, طائرته, إدانته</td></tr>
   <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Dual</tt></tt></td><td></td><td></td><td>هما</td></tr>
-  <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>نا, لمساعدتنا</td><td>كم</td><td>هم, بلادهم, لهم, استبعادهم, بأنفسهم, شفائهم, بهم</td></tr>
-  <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>ك</td><td>ها, إليها, أعضائها, بفقدانها, بهويتها, أهدافها, تجارتها, بضمانها, مستشفياتها, تخصيصها, نهايتها, مواجهتها, تجميدها</td></tr>
+  <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td>نا, لمساعدتنا</td><td>كم</td><td>هم, بهم, بأنفسهم, شفائهم, لهم, بلادهم, استبعادهم</td></tr>
+  <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td>ك</td><td>ها, تجارتها, بضمانها, نهايتها, بهويتها, مواجهتها, إليها, تجميدها, أعضائها, أهدافها, بفقدانها, تخصيصها, مستشفياتها</td></tr>
   <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Dual</tt></tt></td><td></td><td></td><td>هما</td></tr>
   <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td>هن</td></tr>
   <tr><td><tt><tt><a href="ar-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="ar-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ar-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td>أنا, انا</td><td>أنت</td><td>هو</td></tr>
@@ -117,12 +116,12 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="ar-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (2496; 98%),
 <tt>VERB --[<tt><a href="ar-dep-conj.html">conj</a></tt>]--> VERB</tt> (2477; 99%),
-<tt>VERB --[<tt><a href="ar-dep-obj.html">obj</a></tt>]--> PRON</tt> (1738; 91%),
-<tt>VERB --[<tt><a href="ar-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1088; 98%),
+<tt>VERB --[<tt><a href="ar-dep-obj.html">obj</a></tt>]--> PRON</tt> (1184; 96%),
+<tt>VERB --[<tt><a href="ar-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1087; 98%),
+<tt>VERB --[<tt><a href="ar-dep-obl-arg.html">obl:arg</a></tt>]--> PRON</tt> (650; 94%),
 <tt>VERB --[<tt><a href="ar-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (636; 100%),
-<tt>VERB --[<tt><a href="ar-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (619; 93%),
-<tt>VERB --[<tt><a href="ar-dep-obl.html">obl</a></tt>]--> PRON</tt> (325; 73%),
-<tt>VERB --[<tt><a href="ar-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (293; 97%),
-<tt>VERB --[<tt><a href="ar-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (234; 99%),
-<tt>VERB --[<tt><a href="ar-dep-iobj.html">iobj</a></tt>]--> PRON</tt> (137; 83%).
+<tt>VERB --[<tt><a href="ar-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (619; 100%),
+<tt>VERB --[<tt><a href="ar-dep-obl.html">obl</a></tt>]--> PRON</tt> (325; 98%),
+<tt>VERB --[<tt><a href="ar-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (296; 97%),
+<tt>VERB --[<tt><a href="ar-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (235; 99%).
 

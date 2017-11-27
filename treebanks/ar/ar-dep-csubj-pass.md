@@ -29,7 +29,7 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 5	والارقام	والارقام	X	U---------	_	3	conj	_	Vform=والارقام|Translit=wAlArqAm
 6	ينطلقون	اِنطَلَق	VERB	VIIA-3MP--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin|Voice=Act	0	root	_	Vform=يَنطَلِقُونَ|Gloss=take_off,be_sent_out|Root=.t_l_q|Translit=yanṭaliqūna|LTranslit=inṭalaq
 7	من	مِن	ADP	P---------	AdpType=Prep	8	case	_	Vform=مِن|Gloss=from|Root=min|Translit=min|LTranslit=min
-8	مقدمات	مُقَدَّمَة	NOUN	N------P2I	Case=Gen|Definite=Ind|Number=Plur	6	obj	_	Vform=مُقَدَّمَاتٍ|Gloss=preface,introduction,front_part|Root=q_d_m|Translit=muqaddamātin|LTranslit=muqaddamat
+8	مقدمات	مُقَدَّمَة	NOUN	N------P2I	Case=Gen|Definite=Ind|Number=Plur	6	obl:arg	_	Vform=مُقَدَّمَاتٍ|Gloss=preface,introduction,front_part|Root=q_d_m|Translit=muqaddamātin|LTranslit=muqaddamat
 9	بسيطة	بَسِيط	ADJ	A-----FS2I	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	8	amod	_	Vform=بَسِيطَةٍ|Gloss=simple,plain|Root=b_s_.t|Translit=basīṭatin|LTranslit=basīṭ
 10	و	وَ	CCONJ	C---------	_	14	cc	_	SpaceAfter=No|Vform=وَ|Gloss=and|Root=wa|Translit=wa|LTranslit=wa
 11	.	.	PUNCT	G---------	_	14	punct	_	SpaceAfter=No|Vform=.|Translit=.
@@ -45,9 +45,9 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 21	.	.	PUNCT	G---------	_	6	punct	_	Vform=.|Translit=.
 22	تحرير	تَحرِير	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	6	dep	_	Vform=تَحرِيرُ|Gloss=liberation,liberating,editorship,editing|Root=.h_r_r|Translit=taḥrīru|LTranslit=taḥrīr
 23	الأرض	أَرض	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	22	nmod	_	Vform=اَلأَرضِ|Gloss=earth,territory,land|Root='_r_.d|Translit=al-ʾarḍi|LTranslit=ʾarḍ
-24	التي	اَلَّذِي	DET	SR----FS2-	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	23	cc	_	Vform=اَلَّتِي|Gloss=that,which|Root=l|Translit=allatī|LTranslit=allaḏī
+24	التي	اَلَّذِي	DET	SR----FS2-	Case=Gen|Gender=Fem|Number=Sing|PronType=Rel	25	nsubj:pass	_	Vform=اَلَّتِي|Gloss=that,which|Root=l|Translit=allatī|LTranslit=allaḏī
 25	يُعرف	عَرَف	VERB	VIIP-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	23	acl	_	Vform=يُعرَفُ|Gloss=know,recognize,be_aware,be_acquainted|Root=`_r_f|Translit=yuʿrafu|LTranslit=ʿaraf
-26	متى	مَتَى	PRON	S---------	_	27	obl	_	Vform=مَتَى|Gloss=when|Root=m_t_y|Translit=matā|LTranslit=matā
+26	متى	مَتَى	DET	S---------	_	27	obl	_	Vform=مَتَى|Gloss=when|Root=m_t_y|Translit=matā|LTranslit=matā
 27	يكتمل	اِكتَمَل	VERB	VIIA-3MS--	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	25	csubj:pass	_	Vform=يَكتَمِلُ|Gloss=be_completed,be_perfect,be_integral|Root=k_m_l|Translit=yaktamilu|LTranslit=iktamal
 28	تحرير	تَحرِير	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	27	nsubj	_	Vform=تَحرِيرُ|Gloss=liberation,liberating,editorship,editing|Root=.h_r_r|Translit=taḥrīru|LTranslit=taḥrīr
 29	ها	هُوَ	PRON	SP---3FS2-	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	28	nmod	_	Vform=هَا|Gloss=he,she,it|Translit=hā|LTranslit=huwa

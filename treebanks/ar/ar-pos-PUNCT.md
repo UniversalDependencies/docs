@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  / (<tt><a href="ar-pos-PUNCT.html">PUNCT<
 
 ## Morphology
 
-The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.685887).
+The form / lemma ratio of `PUNCT` is 1.000000 (the average of all parts of speech is 1.685281).
 
 The 1st highest number of forms (1) was observed with the lemma “!”: !.
 
@@ -42,7 +42,7 @@ The 3rd highest number of forms (1) was observed with the lemma “(”: (.
 
 `PUNCT` nodes are attached to their parents using 3 different relations: <tt><a href="ar-dep-punct.html">punct</a></tt> (22444; 100% instances), <tt><a href="ar-dep-root.html">root</a></tt> (5; 0% instances), <tt><a href="ar-dep-cop.html">cop</a></tt> (1; 0% instances)
 
-Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="ar-pos-NOUN.html">NOUN</a></tt> (5917; 26% instances), <tt><a href="ar-pos-CCONJ.html">CCONJ</a></tt> (4808; 21% instances), <tt><a href="ar-pos-VERB.html">VERB</a></tt> (3524; 16% instances), <tt><a href="ar-pos-X.html">X</a></tt> (3432; 15% instances), <tt><a href="ar-pos-ADJ.html">ADJ</a></tt> (2227; 10% instances), <tt><a href="ar-pos-NUM.html">NUM</a></tt> (1558; 7% instances), <tt><a href="ar-pos-PRON.html">PRON</a></tt> (410; 2% instances), <tt><a href="ar-pos-PUNCT.html">PUNCT</a></tt> (351; 2% instances), <tt><a href="ar-pos-ADV.html">ADV</a></tt> (87; 0% instances), <tt><a href="ar-pos-PART.html">PART</a></tt> (60; 0% instances), <tt><a href="ar-pos-DET.html">DET</a></tt> (45; 0% instances), <tt><a href="ar-pos-ADP.html">ADP</a></tt> (17; 0% instances),  (5; 0% instances), <tt><a href="ar-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="ar-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="ar-pos-AUX.html">AUX</a></tt> (2; 0% instances)
+Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="ar-pos-NOUN.html">NOUN</a></tt> (5913; 26% instances), <tt><a href="ar-pos-CCONJ.html">CCONJ</a></tt> (4808; 21% instances), <tt><a href="ar-pos-VERB.html">VERB</a></tt> (3528; 16% instances), <tt><a href="ar-pos-X.html">X</a></tt> (3431; 15% instances), <tt><a href="ar-pos-ADJ.html">ADJ</a></tt> (2227; 10% instances), <tt><a href="ar-pos-NUM.html">NUM</a></tt> (1558; 7% instances), <tt><a href="ar-pos-PRON.html">PRON</a></tt> (352; 2% instances), <tt><a href="ar-pos-PUNCT.html">PUNCT</a></tt> (351; 2% instances), <tt><a href="ar-pos-DET.html">DET</a></tt> (104; 0% instances), <tt><a href="ar-pos-ADV.html">ADV</a></tt> (87; 0% instances), <tt><a href="ar-pos-PART.html">PART</a></tt> (60; 0% instances), <tt><a href="ar-pos-ADP.html">ADP</a></tt> (17; 0% instances),  (5; 0% instances), <tt><a href="ar-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="ar-pos-INTJ.html">INTJ</a></tt> (3; 0% instances), <tt><a href="ar-pos-AUX.html">AUX</a></tt> (2; 0% instances)
 
 22100 (98%) `PUNCT` nodes are leaves.
 
@@ -54,7 +54,7 @@ Parents of `PUNCT` nodes belong to 16 different parts of speech: <tt><a href="ar
 
 The highest child degree of a `PUNCT` node is 4.
 
-Children of `PUNCT` nodes are attached using 9 different relations: <tt><a href="ar-dep-punct.html">punct</a></tt> (351; 93% instances), <tt><a href="ar-dep-obj.html">obj</a></tt> (6; 2% instances), <tt><a href="ar-dep-dep.html">dep</a></tt> (5; 1% instances), <tt><a href="ar-dep-obl.html">obl</a></tt> (5; 1% instances), <tt><a href="ar-dep-nmod.html">nmod</a></tt> (4; 1% instances), <tt><a href="ar-dep-parataxis.html">parataxis</a></tt> (3; 1% instances), <tt><a href="ar-dep-amod.html">amod</a></tt> (2; 1% instances), <tt><a href="ar-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="ar-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
+Children of `PUNCT` nodes are attached using 9 different relations: <tt><a href="ar-dep-punct.html">punct</a></tt> (351; 93% instances), <tt><a href="ar-dep-obl-arg.html">obl:arg</a></tt> (6; 2% instances), <tt><a href="ar-dep-dep.html">dep</a></tt> (5; 1% instances), <tt><a href="ar-dep-obl.html">obl</a></tt> (5; 1% instances), <tt><a href="ar-dep-nmod.html">nmod</a></tt> (4; 1% instances), <tt><a href="ar-dep-parataxis.html">parataxis</a></tt> (3; 1% instances), <tt><a href="ar-dep-amod.html">amod</a></tt> (2; 1% instances), <tt><a href="ar-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="ar-dep-nsubj.html">nsubj</a></tt> (1; 0% instances)
 
 Children of `PUNCT` nodes belong to 7 different parts of speech: <tt><a href="ar-pos-PUNCT.html">PUNCT</a></tt> (351; 93% instances), <tt><a href="ar-pos-NOUN.html">NOUN</a></tt> (12; 3% instances), <tt><a href="ar-pos-NUM.html">NUM</a></tt> (8; 2% instances), <tt><a href="ar-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="ar-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="ar-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ar-pos-X.html">X</a></tt> (1; 0% instances)
 

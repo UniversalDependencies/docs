@@ -25,7 +25,7 @@ The 10 most frequent ambiguous types:  أم (<tt><a href="ar-pos-CCONJ.html">CCO
 
 ## Morphology
 
-The form / lemma ratio of `PROPN` is 1.148148 (the average of all parts of speech is 1.685887).
+The form / lemma ratio of `PROPN` is 1.148148 (the average of all parts of speech is 1.685281).
 
 The 1st highest number of forms (3) was observed with the lemma “أَبُوظَبِي”: أبوظبي, ابوظبى, ابوظبي.
 
@@ -38,7 +38,7 @@ The 3rd highest number of forms (2) was observed with the lemma “عَبداَ�
 
 ## Relations
 
-`PROPN` nodes are attached to their parents using 9 different relations: <tt><a href="ar-dep-nmod.html">nmod</a></tt> (152; 81% instances), <tt><a href="ar-dep-nsubj.html">nsubj</a></tt> (20; 11% instances), <tt><a href="ar-dep-conj.html">conj</a></tt> (4; 2% instances), <tt><a href="ar-dep-root.html">root</a></tt> (4; 2% instances), <tt><a href="ar-dep-appos.html">appos</a></tt> (2; 1% instances), <tt><a href="ar-dep-dep.html">dep</a></tt> (2; 1% instances), <tt><a href="ar-dep-cop.html">cop</a></tt> (1; 1% instances), <tt><a href="ar-dep-obj.html">obj</a></tt> (1; 1% instances), <tt><a href="ar-dep-obl.html">obl</a></tt> (1; 1% instances)
+`PROPN` nodes are attached to their parents using 9 different relations: <tt><a href="ar-dep-nmod.html">nmod</a></tt> (152; 81% instances), <tt><a href="ar-dep-nsubj.html">nsubj</a></tt> (20; 11% instances), <tt><a href="ar-dep-conj.html">conj</a></tt> (4; 2% instances), <tt><a href="ar-dep-root.html">root</a></tt> (4; 2% instances), <tt><a href="ar-dep-appos.html">appos</a></tt> (2; 1% instances), <tt><a href="ar-dep-dep.html">dep</a></tt> (2; 1% instances), <tt><a href="ar-dep-cop.html">cop</a></tt> (1; 1% instances), <tt><a href="ar-dep-obl.html">obl</a></tt> (1; 1% instances), <tt><a href="ar-dep-obl-arg.html">obl:arg</a></tt> (1; 1% instances)
 
 Parents of `PROPN` nodes belong to 7 different parts of speech: <tt><a href="ar-pos-NOUN.html">NOUN</a></tt> (80; 43% instances), <tt><a href="ar-pos-X.html">X</a></tt> (62; 33% instances), <tt><a href="ar-pos-VERB.html">VERB</a></tt> (18; 10% instances), <tt><a href="ar-pos-PROPN.html">PROPN</a></tt> (17; 9% instances), <tt><a href="ar-pos-ADJ.html">ADJ</a></tt> (5; 3% instances),  (4; 2% instances), <tt><a href="ar-pos-CCONJ.html">CCONJ</a></tt> (1; 1% instances)
 

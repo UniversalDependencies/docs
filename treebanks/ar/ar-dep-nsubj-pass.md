@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ar-dep-nsubj.html">nsubj</a></tt>.
 
-563 nodes (0%) are attached to their parents as `nsubj:pass`.
+769 nodes (0%) are attached to their parents as `nsubj:pass`.
 
-368 instances of `nsubj:pass` (65%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.7708703374778.
+401 instances of `nsubj:pass` (52%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.34590377113134.
 
-The following 15 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="ar-pos-VERB.html">VERB</a></tt>-<tt><a href="ar-pos-NOUN.html">NOUN</a></tt> (395; 70% instances), <tt><a href="ar-pos-VERB.html">VERB</a></tt>-<tt><a href="ar-pos-NUM.html">NUM</a></tt> (53; 9% instances), <tt><a href="ar-pos-VERB.html">VERB</a></tt>-<tt><a href="ar-pos-ADJ.html">ADJ</a></tt> (32; 6% instances), <tt><a href="ar-pos-VERB.html">VERB</a></tt>-<tt><a href="ar-pos-X.html">X</a></tt> (29; 5% instances), <tt><a href="ar-pos-VERB.html">VERB</a></tt>-<tt><a href="ar-pos-PRON.html">PRON</a></tt> (15; 3% instances), <tt><a href="ar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar-pos-NOUN.html">NOUN</a></tt> (11; 2% instances), <tt><a href="ar-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar-pos-NOUN.html">NOUN</a></tt> (9; 2% instances), <tt><a href="ar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar-pos-X.html">X</a></tt> (5; 1% instances), <tt><a href="ar-pos-VERB.html">VERB</a></tt>-<tt><a href="ar-pos-DET.html">DET</a></tt> (5; 1% instances), <tt><a href="ar-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="ar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ar-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ar-pos-PRON.html">PRON</a></tt>-<tt><a href="ar-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="ar-pos-VERB.html">VERB</a></tt>-<tt><a href="ar-pos-NOUN.html">NOUN</a></tt> (395; 51% instances), <tt><a href="ar-pos-VERB.html">VERB</a></tt>-<tt><a href="ar-pos-DET.html">DET</a></tt> (207; 27% instances), <tt><a href="ar-pos-VERB.html">VERB</a></tt>-<tt><a href="ar-pos-NUM.html">NUM</a></tt> (53; 7% instances), <tt><a href="ar-pos-VERB.html">VERB</a></tt>-<tt><a href="ar-pos-ADJ.html">ADJ</a></tt> (32; 4% instances), <tt><a href="ar-pos-VERB.html">VERB</a></tt>-<tt><a href="ar-pos-X.html">X</a></tt> (29; 4% instances), <tt><a href="ar-pos-VERB.html">VERB</a></tt>-<tt><a href="ar-pos-PRON.html">PRON</a></tt> (13; 2% instances), <tt><a href="ar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar-pos-NOUN.html">NOUN</a></tt> (11; 1% instances), <tt><a href="ar-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar-pos-NOUN.html">NOUN</a></tt> (9; 1% instances), <tt><a href="ar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar-pos-DET.html">DET</a></tt> (7; 1% instances), <tt><a href="ar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar-pos-X.html">X</a></tt> (5; 1% instances), <tt><a href="ar-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ar-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="ar-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ar-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ar-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ar-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ar-pos-PRON.html">PRON</a></tt>-<tt><a href="ar-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -41,6 +41,31 @@ The following 15 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 nsubj:pass	color:blue
+1	*	*	PUNCT	G---------	_	4	punct	_	Vform=*|Translit=*
+2	ما	مَا	DET	S---------	_	4	nsubj	_	Vform=مَا|Gloss=what,which|Root=mA|Translit=mā|LTranslit=mā
+3	هي	هُوَ	PRON	SP---3FS1-	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	cc	_	Vform=هِيَ|Gloss=he,she,it|Translit=hiya|LTranslit=huwa
+4	التهم	تُهمَة	NOUN	N------P1D	Case=Nom|Definite=Def|Number=Plur	0	root	_	Vform=اَلتُّهَمُ|Gloss=accusation,charge|Root=w_h_m|Translit=at-tuhamu|LTranslit=tuhmat
+5	التي	اَلَّذِي	DET	SR----FS1-	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	7	nsubj:pass	_	Vform=اَلَّتِي|Gloss=that,which|Root=l|Translit=allatī|LTranslit=allaḏī
+6	س	سَ	PART	F---------	_	7	aux:pass	_	Vform=سَ|Gloss=will|Root=sa|Translit=sa|LTranslit=sa
+7	توجه	وَجَّه	VERB	VIIP-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	4	acl	_	Vform=تُوَجَّهُ|Gloss=send,direct|Root=w_^g_h|Translit=tuwaǧǧahu|LTranslit=waǧǧah
+8	إلى	إِلَى	ADP	P---------	AdpType=Prep	10	case	_	Vform=إِلَى|Gloss=to,towards|Root='_l_y|Translit=ʾilā|LTranslit=ʾilā
+9	صدام	صدام	X	U---------	_	10	nmod	_	Vform=صدام|Translit=SdAm
+10	حسين	حسين	X	U---------	_	7	obl:arg	_	Vform=حسين|Translit=Hsyn
+11	و	وَ	CCONJ	C---------	_	12	cc	_	Vform=وَ|Gloss=and|Root=wa|Translit=wa|LTranslit=wa
+12	أعضاء	عُضو	NOUN	N------P2R	Case=Gen|Definite=Cons|Number=Plur	10	conj	_	Vform=أَعضَاءِ|Gloss=member|Root=`_.d_w|Translit=ʾaʿḍāʾi|LTranslit=ʿuḍw
+13	قيادة	قِيَادَة	NOUN	N------S2R	Case=Gen|Definite=Cons|Number=Sing	12	nmod	_	Vform=قِيَادَةِ|Gloss=leadership,command,leaders,commanders|Root=q_w_d|Translit=qiyādati|LTranslit=qiyādat
+14	ه	هُوَ	PRON	SP---3MS2-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nmod	_	Vform=هِ|Gloss=he,she,it|Translit=hi|LTranslit=huwa
+15	؟	؟	PUNCT	G---------	_	4	punct	_	Vform=؟|Translit=؟
+
+~~~
+
+
+~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 5	bgColor:blue
@@ -58,39 +83,6 @@ The following 15 pairs of parts of speech are connected with `nsubj:pass`: <tt><
 10	حال	حَال	NOUN	N------S2I	Case=Gen|Definite=Ind|Number=Sing	8	obl	_	Vform=حَالٍ|Gloss=situation,condition,case|Root=.h_w_l|Translit=ḥālin|LTranslit=ḥāl
 11	خطرة	خَطِر	ADJ	A-----FS2I	Case=Gen|Definite=Ind|Gender=Fem|Number=Sing	10	amod	_	SpaceAfter=No|Vform=خَطِرَةٍ|Gloss=serious,dangerous,critical|Root=_h_.t_r|Translit=ḫaṭiratin|LTranslit=ḫaṭir
 12	.	.	PUNCT	G---------	_	1	punct	_	Vform=.|Translit=.
-
-~~~
-
-
-~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 6 nsubj:pass	color:blue
-1	و	وَ	CCONJ	C---------	_	0	root	_	Vform=وَ|Gloss=and|Root=wa|Translit=wa|LTranslit=wa
-2	أضاف	أَضَاف	VERB	VP-A-3MS--	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Voice=Act	1	parataxis	_	Vform=أَضَافَ|Gloss=add,attach,receive_as_guest|Root=.d_y_f|Translit=ʾaḍāfa|LTranslit=ʾaḍāf
-3	حمدين	حمدين	X	U---------	_	2	nsubj	_	Vform=حمدين|Translit=Hmdyn
-4	ان	إِنَّ	CCONJ	C---------	_	14	mark	_	Vform=إِنَّ|Gloss=that|Root='_n|Translit=ʾinna|LTranslit=ʾinna
-5	"	"	PUNCT	G---------	_	6	punct	_	SpaceAfter=No|Vform="|Translit="
-6	مثيرين	مُثِير	ADJ	A-----MP4I	Case=Acc|Definite=Ind|Gender=Masc|Number=Plur	14	nsubj:pass	_	Vform=مُثِيرِينَ|Gloss=provoking,agitating,stirring_up|Root=_t_w_r|Translit=muṯīrīna|LTranslit=muṯīr
-7	ل	لِ	ADP	P---------	AdpType=Prep	8	case	_	Vform=لِ|Gloss=for,to|Root=l|Translit=li|LTranslit=li
-8	الشغب	شَغَب	NOUN	N------S2D	Case=Gen|Definite=Def|Number=Sing	6	obj	_	Vform=اَلشَّغَبِ|Gloss=unrest,disturbance|Root=^s_.g_b|Translit=aš-šaġabi|LTranslit=šaġab
-9	"	"	PUNCT	G---------	_	6	punct	_	Vform="|Translit="
-10	لم	لَم	PART	F---------	_	11	advmod	_	Vform=لَم|Gloss=not|Root=lam|Translit=lam|LTranslit=lam
-11	يحدد	حَدَّد	VERB	VIJP-3MS--	Aspect=Imp|Gender=Masc|Mood=Jus|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	6	acl	_	Vform=يُحَدَّد|Gloss=determine,define,specify|Root=.h_d_d|Translit=yuḥaddad|LTranslit=ḥaddad
-12	عدد	عَدَد	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	11	nsubj:pass	_	Vform=عَدَدُ|Gloss=number,quantity,issue|Root=`_d_d|Translit=ʿadadu|LTranslit=ʿadad
-13	هم	هُوَ	PRON	SP---3MP2-	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	12	nmod	_	Vform=هُم|Gloss=he,she,it|Translit=hum|LTranslit=huwa
-14	اوقفوا	أَوقَف	VERB	VP-P-3MP--	Aspect=Perf|Gender=Masc|Number=Plur|Person=3|Voice=Pass	2	ccomp	_	Vform=أُوقِفُوا|Gloss=detain,make_stand|Root=w_q_f|Translit=ʾūqifū|LTranslit=ʾawqaf
-15	و	وَ	CCONJ	C---------	_	18	cc	_	SpaceAfter=No|Vform=وَ|Gloss=and|Root=wa|Translit=wa|LTranslit=wa
-16	"	"	PUNCT	G---------	_	18	punct	_	SpaceAfter=No|Vform="|Translit="
-17	س	سَ	PART	F---------	_	18	aux	_	Vform=سَ|Gloss=will|Root=sa|Translit=sa|LTranslit=sa
-18	تجري	جَرَى	VERB	VIIA-3FS--	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	14	conj	_	Vform=تَجرِي|Gloss=occur,happen,take_place,flow|Root=^g_r_y|Translit=taǧrī|LTranslit=ǧarā
-19	محاكمة	مُحَاكَمَة	NOUN	N------S1R	Case=Nom|Definite=Cons|Number=Sing	18	nsubj	_	Vform=مُحَاكَمَةُ|Gloss=judicial_proceeding,legal_prosecution|Root=.h_k_m|Translit=muḥākamatu|LTranslit=muḥākamat
-20	هم	هُوَ	PRON	SP---3MP2-	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	19	nmod	_	Vform=هُم|Gloss=he,she,it|Translit=hum|LTranslit=huwa
-21	فورا	فَور	NOUN	N------S4I	Case=Acc|Definite=Ind|Number=Sing	18	obl	_	SpaceAfter=No|Vform=فَورًا|Gloss=immediately,at_once|Root=f_w_r|Translit=fawran|LTranslit=fawr
-22	"	"	PUNCT	G---------	_	18	punct	_	SpaceAfter=No|Vform="|Translit="
-23	.	.	PUNCT	G---------	_	1	punct	_	Vform=.|Translit=.
 
 ~~~
 
