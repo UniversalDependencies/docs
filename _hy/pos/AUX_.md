@@ -20,6 +20,6 @@ The dependency label indicates their use (auxiliary, copula or content verb).
 Armenian auxiliary verbs can be divided into:
 
 - tense auxiliaries (`Past` and `Pres`), used to form compound tenses represented by _եմ_ and _էի_ “to be”;
-- aspectual auxiliaries, used to form so-calleդ “secondary compound tenses” represented by _լինեմ (լինել)_ “to be habitually”.
+- aspectual auxiliaries, used to form so-called “secondary compound tenses” represented by _լինեմ (լինել)_ “to be habitually”.
 
 ### Examples
