@@ -132,7 +132,7 @@ The following table summarizes the different relations that would be used for di
 |  | 2 | obj:expl | |
 |  | 3 | obj:expl | |
 
-## Expletives in v2.1 treebanks
+## Expletives in UD v2.1 treebanks
 
 Out of 102 treebanks from 60 languages in UD version 2.1: 39 treebanks contain expletives (the expl relation)
 
@@ -158,5 +158,7 @@ The 39 treebanks are from the following 20 languages:
  * Swedish
  * Ukrainian
  
+ 
+[http://folk.uio.no/liljao/expl-stats_v2.1.txt](Statistics per treebank) (absolute expletive counts, total, and proportion of expletives out of all tokens)
 
 
