@@ -166,9 +166,9 @@ The 39 treebanks are from the following 20 languages:
 (Translations are provided by Google translate in many cases, feel free to correct if you know the language in question!)
 
  * Bulgarian:
-  * В дискусията, предполагам, ще се засегнат важни въпроси. (expletive "се" is a reflexive pronoun, transl. "In the discussion, I suppose, will affect important issues".)
+ ..* В дискусията, предполагам, ще се засегнат важни въпроси. (expletive "се" is a reflexive pronoun, transl. "In the discussion, I suppose, will affect important issues".)
  * Croatian:
-  * Seb Bytyci, izvršni ravnatelj Instituta za balkansku politiku, slaže se s time. (expletive "se" is a reflexive pronoun, transl. "Seb Bytyci, executive director of the Institute for Balkan Policy, agrees.")
+ ..* Seb Bytyci, izvršni ravnatelj Instituta za balkansku politiku, slaže se s time. (expletive "se" is a reflexive pronoun, transl. "Seb Bytyci, executive director of the Institute for Balkan Policy, agrees.")
  * Danish:
   * Så skal der rafles om husholdningspengene. (expletive "der", transl. "So, there will be discussions about household money")
  * Dutch:
