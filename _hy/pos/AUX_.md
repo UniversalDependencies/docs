@@ -17,10 +17,16 @@ grammatical distinctions not carried by the lexical verb. The dependency label i
 
 Armenian auxiliary verbs can be divided into:
 
-- tense auxiliaries (`Past` and `Pres`), used to form compound tenses represented by _եմ_ and _էի_ “to be”;
+- tense auxiliaries, used to form compound tenses represented by _եմ_ and _էի_ “to be”;
 - aspectual auxiliaries, used to form so-called “secondary compound tenses” represented by _լինեմ (լինել)_ “to be habitually”.
 
 ### Examples
+
+- Present tense. Finite present form of _եմ_ is combined with imperfective and resultative participles. The auxiliary expresses person, number and tense:
+  _գրում <b>եմ</b>_ “I will do”,
+  _գրում <b>ես</b>_ “you will do”,
+  _կանգնած <b>են</b>_ “they will do”.
+  Note that in Armenian verbs can not form present morphologically, without auxiliaries. his value does not apply to English where the pluperfect (past perfect) is constructed analytically. It applies e.g. to Portuguese.
 
 ### Modal verbs are not auxiliaries
 
