@@ -31,26 +31,10 @@ Armenian auxiliary verbs can be divided into:
 - Past tense. Finite past form of _էի_ is combined with imperfective and resultative participles of the lexical verb. The auxiliary expresses person, number and tense:
   _վազում <b>էի</b>_ “I did.`Masc`”,
   _վազում <b>էի</b>_ “I did.`Fem`”,
+  _վազել <b>էի</b>_ “I did.`Fem`”,
   _կանգնած <b>էի</b>_ “we did.`Masc`”.
 
-Note, that fintie present and past forms of _եմ_ and _էի_ with the perfect and future participles combine analytaclly forms of present perfect, future and future-in-the-past.
-
-_վազել <b>եմ</b>_ “you did.`Masc`”,
-_վազելու <b>եմ</b>_ “you did.`Masc`”,
-_վազելու <b>էի</b>_ “you did.`Masc`”,
-
-
-Only the auxiliary will have Tense=Fut, while there will be no tense information at the infinitive.
-
- The auxiliaries expresse person and number.  and tense
-
-_վազել <b>եմ</b>_ “you did.`Masc`”,
-_վազելու <b>եմ</b>_ “you did.`Masc`”,
-_վազելու <b>էի</b>_ “you did.`Masc`”,
-
-
-Past tense in have also finite present form of _եմ_ with perfect participle of the lexical verb.
-  his value does not apply to English where the pluperfect (past perfect) is constructed analytically. It applies e.g. to Portuguese.
+Note, that fintie present and past forms of _եմ_ and _էի_ also used with the perfect and future participles of the lexical verbs to form periphrastic present perfect (e.g. _վազել <b>եմ</b>_ “you did.`Masc`”), (present-)future (e.g. _վազելու <b>եմ</b>_ “you did.`Masc`”) and future-in-the-past (_վազելու <b>էի</b>_ “I would (intended to) run”). The auxiliaries expresse person and number and will have `Tense=Pres` and `Tense=Past` features accordingly. while there will be no tense information at the infinitive.
 
 ### Modal verbs are not auxiliaries
 
