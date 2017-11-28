@@ -29,12 +29,12 @@ Armenian auxiliary verbs can be divided into:
   Note that in Armenian verbs can not form present morphologically, without auxiliaries. 
 
 - Past tense. Finite past form of _էի_ is combined with imperfective and resultative participles of the lexical verb. The auxiliary expresses person, number and tense:
-  _վազում <b>էի</b>_ “I did.`Masc`”,
-  _վազում <b>էի</b>_ “I did.`Fem`”,
-  _վազել <b>էի</b>_ “I did.`Fem`”,
-  _կանգնած <b>էի</b>_ “we did.`Masc`”.
+  _վազում <b>էի</b>_ “I did”,
+  _վազում <b>էի</b>_ “I did”,
+  _վազել <b>էի</b>_ “I did”,
+  _կանգնած <b>էի</b>_ “we did”.
 
-Note, that fintie present and past forms of _եմ_ and _էի_ also used with the perfect and future participles of the lexical verbs to form periphrastic present perfect (e.g. _վազել <b>եմ</b>_ “you did.`Masc`”), (present-)future (e.g. _վազելու <b>եմ</b>_ “you did.`Masc`”) and future-in-the-past (_վազելու <b>էի</b>_ “I would (intended to) run”). The auxiliaries expresse person and number and will have `Tense=Pres` and `Tense=Past` features accordingly. while there will be no tense information at the infinitive.
+Note, that fintie present and past forms of _եմ_ and _էի_ also used with the perfect and future participles of the lexical verbs to form periphrastic present perfect (e.g. _վազել <b>եմ</b>_ “I have run”), (present-)future (e.g. _վազելու <b>եմ</b>_ “I shall run”) and future-in-the-past (_վազելու <b>էի</b>_ “I would (intended to) run”). The auxiliaries expresse person and number and will have `Tense=Pres` and `Tense=Past` features accordingly.
 
 ### Modal verbs are not auxiliaries
 
