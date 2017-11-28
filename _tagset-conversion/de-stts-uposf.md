@@ -52,7 +52,7 @@ Tagset <tt>de::stts</tt>, total 54 tags.
   <tr style="background:lightgray"><td>PTKA</td><td>=&gt;</td><td>PART</td><td>_</td><td><em>zu, am, allzu, Um</em></td></tr>
   <tr><td>PTKANT</td><td>=&gt;</td><td>PART</td><td>PartType=Res</td><td><em>nein, ja, bitte, Gewiß, Also</em></td></tr>
   <tr style="background:lightgray"><td>PTKNEG</td><td>=&gt;</td><td>PART</td><td>Polarity=Neg</td><td><em>nicht</em></td></tr>
-  <tr><td>PTKVZ</td><td>=&gt;</td><td>PART</td><td>PartType=Vbp</td><td><em>an, aus, ab, vor, auf</em></td></tr>
+  <tr><td>PTKVZ</td><td>=&gt;</td><td>ADP</td><td>PartType=Vbp</td><td><em>an, aus, ab, vor, auf</em></td></tr>
   <tr style="background:lightgray"><td>PTKZU</td><td>=&gt;</td><td>PART</td><td>PartType=Inf</td><td><em>zu, zur, zum</em></td></tr>
   <tr><td>PWAT</td><td>=&gt;</td><td>DET</td><td>PronType=Int</td><td><em>welche, welchen, welcher, wie, welchem</em></td></tr>
   <tr style="background:lightgray"><td>PWAV</td><td>=&gt;</td><td>ADV</td><td>PronType=Int</td><td><em>wie, wo, warum, wobei, wonach</em></td></tr>
