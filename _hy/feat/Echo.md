@@ -17,7 +17,7 @@ Is this a reduplicative or echo word?
 
 Compound nouns, adjectives or adverbs with hyphens or prepositions get split during tokenization. The reduplicative or echoed part get the same POS tag as the head word.
 
-See also the related features [Hyph]() and [Compound]().
+See also the related feature [Hyph]().
 
 ### <a name="Rdp">`Rdp`</a>: reduplicative
 
