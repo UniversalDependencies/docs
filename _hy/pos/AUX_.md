@@ -22,19 +22,29 @@ Armenian auxiliary verbs can be divided into:
 
 ### Examples
 
-- Present tense. Finite present form of _եմ_ is combined with imperfective and resultative participles of the lexical verb. The auxiliary expresses person, number and tense:
+- Present tense. Finite present form of _եմ_ is combined with imperfective and resultative participles of the lexical verb. The auxiliary expresses person, number mood and tense:
   _վազում <b>եմ</b>_ “I will do”,
   _վազում <b>ես</b>_ “you will do”,
   _կանգնած <b>են</b>_ “they will do”.
   Note that in Armenian verbs can not form present morphologically, without auxiliaries. 
 
-- Past tense. Finite past form of _էի_ is combined with imperfective and resultative participles of the lexical verb. The auxiliary expresses person, number and tense:
+- Past tense. Finite past form of _էի_ is combined with imperfective and resultative participles of the lexical verb. The auxiliary expresses person, number mood and tense:
   _վազում <b>էի</b>_ “I did”,
   _վազում <b>էի</b>_ “I did”,
   _վազել <b>էի</b>_ “I did”,
   _կանգնած <b>էի</b>_ “we did”.
 
-Note, that fintie present and past forms of _եմ_ and _էի_ also used with the perfect and future participles of the lexical verbs to form periphrastic present perfect (e.g. _վազել <b>եմ</b>_ “I have run”), (present-)future (e.g. _վազելու <b>եմ</b>_ “I shall run”) and future-in-the-past (_վազելու <b>էի</b>_ “I would (intended to) run”). The auxiliaries expresse person and number and will have `Tense=Pres` and `Tense=Past` features accordingly.
+Note, that fintie present and past forms of _եմ_ and _էի_ also used with the perfect and future participles of the lexical verbs to form periphrastic present perfect (e.g. _վազել <b>եմ</b>_ “I have run”), (present-)future (e.g. _վազելու <b>եմ</b>_ “I shall run”) and future-in-the-past (_վազելու <b>էի</b>_ “I would (intended to) run”). The auxiliaries express person, number mood and tense (`Tense=Pres` and `Tense=Past` accordingly). Participles express aspect.
+
+- Passive voice. A form of _լինեմ (լինել)_ (in various tenses and moods or in the infinitive) is combined with
+  passive participle of the lexical verb. The auxiliary expresses person, number, tense and mood,
+  the participle expresses gender, number and voice:
+  _<b>je</b> udělán_ “he is done”,
+  _<b>bude</b> udělán_ “he will be done”,
+  _<b>byl</b> udělán_ “he was done”,
+  _<b>byl by</b> udělán_ “he would be done”,
+  _<b>buď</b> udělán_ “be done”,
+  _<b>být</b> udělán_ “to be done”.
 
 ### Modal verbs are not auxiliaries
 
