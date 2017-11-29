@@ -23,26 +23,19 @@ another action in the utterance.
 
 Armenian has a complex tense/aspect/mood system.
 
-Note that we are defining features that apply to a single word. If a tense is constructed periphrastically, in Armenian grammar traditionally called  “compound tenses” or “secondary compound tenses” (two or more words, e.g. auxiliary verb indicative + participle of the main verb), and none of the participating words are specific to this tense, then the features will probably not directly reveal the tense. 
+Note that we are defining features that apply to a single word. If a tense is constructed periphrastically, in Armenian grammar traditionally called  “compound tenses” or “secondary compound tenses” (two or more words, e.g. auxiliary verb indicative + participle of the main verb), and none of the participating words are specific to this tense, then the features will probably not directly reveal the tense.
 
 ### <a name="Past">`Past`</a>: past tense / preterite / aorist
 
 The past tense denotes actions that happened before the current
-moment. In Armenian this is aorist.
-
-Past tense in Czech consists of the past participle
-(also called active participle or l-participle),
-which is accompanied by a present auxiliary verb in the first and second persons,
-and stands alone in the third person.
-
-The auxiliary (if any) is in its present form, so it will have `Tense=Pres`.
-The participle has `Tense=Past`, even though it can also be used to form present conditional.
+moment, a (completed) past event. In Armenian this is aorist.
 
 #### Examples
 
-* _<b>Šel</b> jsem domů.&nbsp;_ “I have <b>gone</b> home.”
-* _<b>Šel</b> jsi domů.&nbsp;_ “You have <b>gone</b> home.”
-* _<b>Šel</b> domů.&nbsp;_ “He has <b>gone</b> home.”
+* _Նա <b>գնաց</b> տուն։&nbsp;_ “He <b>went</b> home.”
+* _<b>գրեի</b>&nbsp;_ “<b>went</b>”
+* _<b>կգրեի</b>&nbsp;_ “<b>went</b>”
+* _<b>պիտի գրեի</b>&nbsp;_ “<b>went</b>”
 
 ### <a name="Pres">`Pres`</a>: present tense
 
@@ -57,6 +50,7 @@ but they will still be marked `Tense=Pres`.
 * _<b>Přicházím</b> domů.&nbsp;_ “I <b>come / am coming</b> home.” (_Přicházet&nbsp;_ is an imperfective verb.)
 * _<b>Přijdu</b> domů.&nbsp;_ “I <b>will come</b> home.” (_Přijít&nbsp;_ is a perfective verb.)
 * _<b>Jdu</b> domů.&nbsp;_ “I <b>go / am going</b> home.” (_Jít&nbsp;_ is an imperfective verb.)
+
 
 ### <a name="Fut">`Fut`</a>: future tense
 
@@ -80,6 +74,11 @@ moment. Future tense in Czech is formed in one of three ways, depending of the v
 * _<b>Budu</b> přicházet domů.&nbsp;_ “I <b>will</b> be coming home.” (_Přicházet&nbsp;_ is an imperfective verb and it forms future periphrastically.)
 
 ### <a name="Imp">`Imp`</a>: imperfect
+
+Imperfect is a special case of the past tense. It denotes actions that are happening during some past moment. These actions might continue after the moment of speaking, but also might not, i.e. the evidence is not in the form itself, but it is in the context. Both verbs - perfective and imperfective - are used in imperfect tense.
+
+Past tense in Armenian consists of the imperfective, perfect, future and resultative participles accompanied by present or imperfect auxiliary verbs. If the auxiliary is in its present form, so it will have `Tense=Pres`.
+The participle has `Tense=Past`, even though it can also be used to form present conditional.
 
 #### Examples
 
