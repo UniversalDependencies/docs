@@ -23,14 +23,14 @@ another action in the utterance.
 
 Armenian has a complex tense/aspect/mood system.
 
-Note that we are defining features that apply to a single word. If a tense is constructed periphrastically, in Armenian grammar traditionally called  “compound tenses” or “secondary compound tenses” (two or more words, e.g. auxiliary verb indicative + participle of the main verb) and none of the participating words are specific to this tense, then the features will probably not directly reveal the tense. 
+Note that we are defining features that apply to a single word. If a tense is constructed periphrastically, in Armenian grammar traditionally called  “compound tenses” or “secondary compound tenses” (two or more words, e.g. auxiliary verb indicative + participle of the main verb), and none of the participating words are specific to this tense, then the features will probably not directly reveal the tense. 
 
-For instance, [en] I had been there is past perfect (pluperfect) tense, formed periphrastically by the simple past tense of the auxiliary to have and the past participle of the main verb to be. The auxiliary will be tagged VerbForm=Fin|Mood=Ind|Tense=Past and the participle will have VerbForm=Part|Tense=Past; none of the two will have Tense=Pqp. On the other hand, Portuguese can form the pluperfect morphologically as just one word, such as estivera, which will thus be tagged VerbForm=Fin|Mood=Ind|Tense=Pqp.
-
-### <a name="Past">`Past`</a>: past tense
+### <a name="Past">`Past`</a>: past tense / preterite / aorist
 
 The past tense denotes actions that happened before the current
-moment. Past tense in Czech consists of the past participle
+moment. In Armenian this is aorist.
+
+Past tense in Czech consists of the past participle
 (also called active participle or l-participle),
 which is accompanied by a present auxiliary verb in the first and second persons,
 and stands alone in the third person.
