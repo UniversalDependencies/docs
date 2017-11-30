@@ -28,7 +28,7 @@ Armenian auxiliary verbs can be divided into:
   _կանգնած <b>են</b>&nbsp;_ “they are standing”.
   Note that a limited set of verbs can form present morphologically, without the auxiliary.
 
-- Past tense. Finite imperfect form of _էի&nbsp;_ is combined with imperfective, perfect and resultative participles of the lexical verb. The auxiliary expresses person, number, mood and tense, participles expresse tense / aspect and voice:
+- Imperfect tense. Finite imperfect form of _էի&nbsp;_ is combined with imperfective, perfect and resultative participles of the lexical verb. The auxiliary expresses person, number, mood and tense, participles expresse tense / aspect and voice:
   _վազում <b>էի</b>&nbsp;_ “I was running”,
   _վազել <b>էիր</b>&nbsp;_ “you were running”,
   _կանգնած <b>էին</b>&nbsp;_ “they were standing”.
