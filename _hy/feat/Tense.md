@@ -58,7 +58,7 @@ moment. Future tense in Armenian is formed in one of three ways:
 
 * This feature is used for verbs in subjunctive, conditional, necessitative moods, marked by personal suffixes.
 * The remaining defective verbs (see above) with “secondary expanded stems” will have also `Tense=Fut`.
-* The actions that happen before or during a future event is expressed using an auxiliary. Imperfect or present finite forms of auxilariy in periphrastic future forms (accompanied by future participle of lexical verbs) is tagged `Tense=Imp` or `Tense=Pres` accordingly, not `Tense=Fut`, while there will be a tense information at the participle.
+* The actions that happen before or during a future event is expressed using an auxiliary. Imperfect or present finite form of auxilariy in periphrastic future forms (accompanied by future participle of lexical verbs) is tagged `Tense=Imp` or `Tense=Pres` accordingly, not `Tense=Fut`, while there will be a tense information at the participle.
 
 #### Examples
 
