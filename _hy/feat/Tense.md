@@ -33,24 +33,23 @@ moment, a (completed) past event. In Armenian this is aorist.
 #### Examples
 
 * _Նա <b>գնաց</b> տուն։&nbsp;_ “He <b>went</b> home.”
-* _<b>գրեի</b>&nbsp;_ “<b>went</b>”
-* _<b>կգրեի</b>&nbsp;_ “<b>went</b>”
-* _<b>պիտի գրեի</b>&nbsp;_ “<b>went</b>”
 
 ### <a name="Pres">`Pres`</a>: present tense
 
 The present tense denotes actions that are happening right now or that
 usually happen.
 
-Note that morphologically present forms of perfective verbs have actually a future meaning
-but they will still be marked `Tense=Pres`.
+The auxiliaries _եմ&nbsp;_ and _կամ&nbsp;_ will have `Tense=Pres`.
+
+Note, that in Armenian a limited set of verbs (traditionally calles “Defective Verbs with Secondary Expanded Stems”) can form present morphologically, without the auxiliary. They combine a present “non-expanded” stem with future suffixes. The future forms are formed as the present form with the expanded stems. Because the same lemma has also present forms and the feature must distinguish the two.
 
 #### Examples
 
-* _<b>Přicházím</b> domů.&nbsp;_ “I <b>come / am coming</b> home.” (_Přicházet&nbsp;_ is an imperfective verb.)
-* _<b>Přijdu</b> domů.&nbsp;_ “I <b>will come</b> home.” (_Přijít&nbsp;_ is a perfective verb.)
-* _<b>Jdu</b> domů.&nbsp;_ “I <b>go / am going</b> home.” (_Jít&nbsp;_ is an imperfective verb.)
-
+* _<b>եմ</b>&nbsp;_ “<b>go / am going</b>”
+* _<b>կամ</b>&nbsp;_ “<b>go / am going</b>”
+* _<b>ունեմ</b>&nbsp;_ “<b>go / am going</b>”
+* _<b>գիտեմ</b>&nbsp;_ “<b>go / am going</b>”
+* _<b>արժեմ</b>&nbsp;_ “<b>go / am going</b>”
 
 ### <a name="Fut">`Fut`</a>: future tense
 
@@ -75,10 +74,18 @@ moment. Future tense in Czech is formed in one of three ways, depending of the v
 
 ### <a name="Imp">`Imp`</a>: imperfect
 
-Imperfect is a special case of the past tense. It denotes actions that are happening during some past moment. These actions might continue after the moment of speaking, but also might not, i.e. the evidence is not in the form itself, but it is in the context. Both verbs - perfective and imperfective - are used in imperfect tense.
+In Armenian imperfect is a special case of the past tense for auxilaries and for the verbs, that form present morphologically. It denotes actions that are happening during some past moment. These actions might continue after the moment of speaking, but also might not, i.e. the evidence is not in the form itself, but it is in the context.
+
+* _<b>էի</b>&nbsp;_ “<b>go / am going</b>”
+* _<b>կայի</b>&nbsp;_ “<b>go / am going</b>”
+* _<b>ունեի</b>&nbsp;_ “<b>go / am going</b>”
+* _<b>գիտեի</b>&nbsp;_ “<b>go / am going</b>”
+* _<b>արժեի</b>&nbsp;_ “<b>go / am going</b>”
 
 Past tense in Armenian consists of the imperfective, perfect, future and resultative participles accompanied by present or imperfect auxiliary verbs. If the auxiliary is in its present form, so it will have `Tense=Pres`.
 The participle has `Tense=Past`, even though it can also be used to form present conditional.
+
+Used in e.g. Bulgarian and Croatian, imperfect is a special case of the past tense. Note that, unfortunately, imperfect tense is not always the same as past tense + imperfective aspect. For instance, in Bulgarian, there is lexical aspect, inherent in verb meaning, and grammatical aspect, which does not necessarily always match the lexical one. In main clauses, imperfective verbs can have imperfect tense and perfective verbs have perfect tense. However, both rules can be violated in embedded clauses.
 
 #### Examples
 
