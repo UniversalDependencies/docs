@@ -21,6 +21,7 @@ Expletives in subject position have traditionally been postulated in (at least) 
 2. Existential sentences
 3. Extraposition of clausal subjects
 
+### Weather verbs and more generally "impersonal verbs"
 Weather verbs are 0-place predicates like "rain" and "snow", which typically take an expletive pronoun as their subject in languages that do not allow pro-drop. In this case, the predicate never assigns a semantic role to its subject and there is no other potential argument in the clause. The Swedish and Norwegian UD treebanks currently use `expl` for the subject of weather verbs, while Dutch uses `nsubj`.
 
 ~~~ sdparse
@@ -38,6 +39,8 @@ il faut 3 nouveaux recrutements \n it is-necessary 3 new recruitments
 * 3 nouveaux recrutements faut
 ~~~
 
+### Existential sentences
+
 Existential sentences (sometimes called presentation sentences) are sentences that involve an intransitive verb and an indefinite noun phrase that is interpreted as the logical subject of the verb but does not occur in the canonical subject position, which is instead filled by an expletive. 
 
 ~~~ sdparse
@@ -54,6 +57,7 @@ obl(sitter, mattan)
 
 The Swedish and Norwegian UD treebanks treat the dummy pronoun as an expletive and analyzes the indefinite noun phrase as `nsubj` to capture the parallelism to the simple intransitive sentence. However, there are good arguments that the indefinite noun phrase syntactically behaves as an object in the second sentence. The Dutch UD treebank also treats the indefinite noun phrase as `nsubj` (and it seems to behave like a subject in Dutch) but analyzes the putative expletive as `advmod` (which is a pronominal adverb similar to English "there"). 
 
+### Extraposition of clausal subjects
 Extraposition of clausal subjects exhibit a similar parallelism to simple clausal subjects:
 
 ~~~ sdparse
@@ -78,6 +82,13 @@ expl(seems, it)
 ~~~ sdparse
 * that she came seems
 ~~~
+
+The clause can also be infinitival. In French for instance, the extraposition is particularly frequent for the subject of a copula+adjective construction:
+
+~~~ sdparse
+Il est parfois difficile de rester calme \n It is sometimes difficult to stay calm
+~~~
+
 
 ## Object Expletives
 
