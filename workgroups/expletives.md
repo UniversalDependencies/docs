@@ -17,11 +17,11 @@ Below we first review the range of constructions where expletives have been clai
 
 Expletives in subject position have traditionally been postulated in (at least) three types of constructions:
 
-1. Weather verbs and more generally "impersonal verbs"
+1. Weather verbs and more generally "intrinsically impersonal verbs"
 2. Existential sentences
 3. Extraposition of clausal subjects
 
-### Weather verbs and more generally "impersonal verbs"
+### Weather verbs (and more generally "intrinsically impersonal verbs")
 Weather verbs are 0-place predicates like "rain" and "snow", which typically take an expletive pronoun as their subject in languages that do not allow pro-drop. In this case, the predicate never assigns a semantic role to its subject and there is no other potential argument in the clause. The Swedish and Norwegian UD treebanks currently use `expl` for the subject of weather verbs, while Dutch uses `nsubj`.
 
 ~~~ sdparse
@@ -29,7 +29,7 @@ det regnar \n it rains
 expl(regnar, det)
 ~~~
 
-"Impersonal verbs" encompasses a more general category of verbs, not only 0-place predicates but also 1-place predicates, that typically take an expletive pronoun as their subject, without parallelism to a construction with a full subject. This is the case in French for the deficient verb "falloir" (be necessary). Note in the current French treebanks, all preverbal explective "il" clitics are treated as plain subjects (nsubj).
+"Intrinsically impersonal verbs" encompasses a more general category of verbs, not only 0-place predicates but also 1-place predicates, that typically take an expletive pronoun as their subject, without any parallelism to a construction with a full subject. This is the case in French for the deficient verb "falloir" (be necessary). In the current French treebanks, all preverbal explective "il" clitics are treated as plain subjects (nsubj).
 
 ~~~ sdparse
 il faut 3 nouveaux recrutements \n it is-necessary 3 new recruitments
@@ -57,6 +57,43 @@ obl(sitter, mattan)
 
 The Swedish and Norwegian UD treebanks treat the dummy pronoun as an expletive and analyzes the indefinite noun phrase as `nsubj` to capture the parallelism to the simple intransitive sentence. However, there are good arguments that the indefinite noun phrase syntactically behaves as an object in the second sentence. The Dutch UD treebank also treats the indefinite noun phrase as `nsubj` (and it seems to behave like a subject in Dutch) but analyzes the putative expletive as `advmod` (which is a pronominal adverb similar to English "there"). 
 
+For French, the traditionally called "impersonal construction" encompasses various cases of extraposed subjects, including indefinite noun phrases, possible for some intransitive verbs (those taking "être" as auxiliary, but not only). There too are arguments to view the postverbal indefinite NP as a direct object (in particular, it is pronominalized using the quantitative "en" clitic). 
+
+~~~ sdparse
+Trois candidats sont arrivés \n Three candidates are arrived
+~~~
+~~~ sdparse
+Il est arrivé 3 candidats \n It is arrived 3 candidates
+~~~
+~~~ sdparse
+Il en est arrivé trois \n It of-it is arrived three
+~~~
+
+
+~~~ sdparse
+Quelques personnes nageaient dans le bassin quand l'alarme retentit \n A-few people were-swimming in the pool when the alarm sounded
+~~~
+~~~ sdparse
+Il nageait quelques personnes dans le bassin ... \n it was-swimming a-few people in the pool ...
+~~~
+
+### Impersonal passive and medio-passive
+
+French passives or medio-passives can occur with a pre-nominal subject (interpreted as the canonical object), or with a direct object and expletive "il" subject:
+
+~~~ sdparse
+Plus de 100 000 exemplaires ont été vendus \n More than 100 000 copies have been sold
+~~~
+~~~ sdparse
+Il a été vendu plus de 100 000 exemplaires \ It has been sold more than 100 000 exemplaires
+~~~
+~~~ sdparse
+Plus de 100 000 exemplaires se sont vendus \n More than 100 000 copies REFL are sold
+~~~
+~~~ sdparse
+Il s'est vendu plus de 100 000 exemplaires \ It REFL is sold more than 100 000 exemplaires
+~~~
+
 ### Extraposition of clausal subjects
 Extraposition of clausal subjects exhibit a similar parallelism to simple clausal subjects:
 
@@ -83,10 +120,14 @@ expl(seems, it)
 * that she came seems
 ~~~
 
-The clause can also be infinitival. In French for instance, the extraposition is particularly frequent for the subject of a copula+adjective construction:
+The clause can also be infinitival. For instance in French the extraposition is particularly frequent for the subject of a copula+adjective construction:
 
 ~~~ sdparse
 Il est parfois difficile de rester calme \n It is sometimes difficult to stay calm
+~~~
+
+~~~ sdparse
+Il est possible que Paul soit déjà parti \n It is possible that Paul be already gone
 ~~~
 
 
@@ -123,6 +164,21 @@ expl(kände, sig)
 ~~~ sdparse
 *hon kände honom sjuk \n she felt him sick
 ~~~
+
+## Clitic doubling
+
+For some languages, like Spanish or Greek, clitic pronouns can cooccur with the full noun phrase they refer to.
+
+~~~ sdparse
+Lo vimos a Juan \n Him we-saw (a) Juan
+~~~
+
+In French, this is possible for the nominative clitic, but in direct interrogative clauses only:
+~~~ sdparse
+Jean vient-il ? \n John comes-he ?
+~~~
+
+
 
 ## Expletives and Core Arguments
 
