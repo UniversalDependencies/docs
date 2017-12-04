@@ -26,9 +26,9 @@ Note, that we are defining features that apply to a single word. If a tense is c
 
 Actions that happened before, during, and after a past or present event are constructed in Armenian by using perfect, resultative, imperfective and future participles.
 
-Actions that happen before or during a future event is expressed using an auxiliary. Imperfect or present finite form of auxilariy in periphrastic future (accompanied by future participle of main verb) is tagged `Tense=Imp` or `Tense=Pres` accordingly, not `Tense=Fut`, while there will be a tense / aspect (`Aspect=Prosp`) information at the participle (e.g. _<b>Վազելու</b> էի տուն։&nbsp;_ “<b></b>”, _<b>Վազելու</b> եմ տուն։&nbsp;_ “<b></b>”).
+Actions that happen before or during a future event is expressed using an auxiliary. Imperfect or present finite form of auxilariy in periphrastic future (accompanied by future participle of main verb) is tagged `Tense=Imp` or `Tense=Pres` accordingly, not `Tense=Fut`, while there will be a tense / aspect (`Aspect=Prosp`) information at the participle (e.g. _<b>Վազելու</b> էի տուն։&nbsp;_ “I <b>should run</b> home”, _<b>Վազելու</b> եմ տուն։&nbsp;_ “I <b>shell run</b> home”).
 
-Note also, that there is an elaborate system of parallel tense/aspect/mood forms (traditionally called “secondary compound tenses”) formed periphrastically by forms of the auxiliary _լինեմ&nbsp;_ and the resultative, processual and future participles of the main verb. They expressing actions that happened before, during, and after past or present reference. For these periphrastically forms we use `Tense=Imp` or `Tense=Pres` with proper perfect (`Perf`),  imperfect (`Imp`) or progressive (`Prog`) `Aspect`.
+Note also, that there is an elaborate system of parallel tense/aspect/mood forms (traditionally called “secondary compound tenses”) formed periphrastically by forms of the auxiliary _լինեմ&nbsp;_ and the resultative, processual and future participles of the main verb. They express actions that happened before, during, and after past or present reference. For these periphrastical forms we use `Tense=Imp` or `Tense=Pres` with proper perfect (`Perf`),  imperfect (`Imp`) or prospective (`Prosp`) `Aspect`.
 
 ### <a name="Past">`Past`</a>: past tense / preterite / aorist
 
