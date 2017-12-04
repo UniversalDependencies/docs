@@ -17,7 +17,7 @@ Below we first review the range of constructions where expletives have been clai
 
 Expletives in subject position have traditionally been postulated in (at least) three types of constructions:
 
-1. Weather verbs
+1. Weather verbs and more generally "impersonal verbs"
 2. Existential sentences
 3. Extraposition of clausal subjects
 
@@ -26,6 +26,16 @@ Weather verbs are 0-place predicates like "rain" and "snow", which typically tak
 ~~~ sdparse
 det regnar \n it rains
 expl(regnar, det)
+~~~
+
+"Impersonal verbs" encompasses a more general category of verbs, not only 0-place predicates but also 1-place predicates, that typically take an expletive pronoun as their subject, without parallelism to a construction with a full subject. This is the case in French for the deficient verb "falloir" (be necessary). Note in the current French treebanks, all preverbal explective "il" clitics are treated as plain subjects (nsubj).
+
+~~~ sdparse
+il faut 3 nouveaux recrutements \n it is-necessary 3 new recruitments
+~~~
+
+~~~ sdparse
+* 3 nouveaux recrutements faut
 ~~~
 
 Existential sentences (sometimes called presentation sentences) are sentences that involve an intransitive verb and an indefinite noun phrase that is interpreted as the logical subject of the verb but does not occur in the canonical subject position, which is instead filled by an expletive. 
