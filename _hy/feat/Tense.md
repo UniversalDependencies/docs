@@ -26,7 +26,7 @@ Note, that we are defining features that apply to a single word. If a tense is c
 
 Actions that happened before, during, and after a past or present event are constructed in Armenian by using perfect, resultative, imperfective and future participles.
 
-Actions that happen before or during a future event are expressed using an auxiliary. Imperfect or present finite form of auxilariy in periphrastic future (accompanied by future participle of main verb) is tagged `Tense=Imp` or `Tense=Pres` accordingly, not `Tense=Fut`, while there will be a tense / aspect (`Aspect=Prosp`) information at the participle (e.g. _<b>Վազելու</b> էի տուն։&nbsp;_ “I <b>should run</b> home”, _<b>Վազելու</b> եմ տուն։&nbsp;_ “I <b>shall run</b> home”).
+Actions that happen before or during a future event are expressed using an auxiliary. Imperfect or present finite form of auxilariy in periphrastic future (accompanied by future participle of main verb) is tagged `Tense=Imp` or `Tense=Pres` accordingly, not `Tense=Fut`, while there will be a tense / aspect (`Aspect=Prosp`) information at the participle (e.g. _<b>վազելու</b> էի տուն&nbsp;_ “I <b>should run</b> home” or _<b>վազելու</b> եմ տուն&nbsp;_ “I <b>shall run</b> home”).
 
 Note also, that there is an elaborate system of parallel tense/aspect/mood forms (traditionally called “secondary compound tenses”) formed periphrastically by forms of the auxiliary _լինեմ&nbsp;_ and the resultative, processual and future participles of the main verb. They express actions that happened before, during, and after past or present reference. For these periphrastical forms we use `Tense=Imp` or `Tense=Pres` with proper perfect (`Perf`),  imperfect (`Imp`) or prospective (`Prosp`) `Aspect`.
 
@@ -37,7 +37,7 @@ moment, a (completed) past event. In Armenian this is aorist.
 
 #### Examples
 
-* _Նա <b>գնաց</b> տուն։&nbsp;_ “He <b>went</b>.`Ind` home.”
+* _նա <b>գնաց</b> տուն&nbsp;_ “he <b>went</b>.`Ind` home”
 
 ### <a name="Imp">`Imp`</a>: imperfect
 
@@ -51,9 +51,9 @@ Note, that a limited set of verbs form imperfect and present morphologically wit
 
 * _<b>էի</b>&nbsp;_ “<b>I was</b>.`Ind`”,
 * _<b>կայի</b>&nbsp;_ “<b>I was / existed</b>.`Ind`”,
-* _<b>Գնայի</b> տուն։&nbsp;_ “<b>I wish I went</b>.`Sub` home”,
-* _<b>Վազեի</b> տուն։&nbsp;_ “<b>I wish I ran</b>.`Sub` home”,
-* _Պիտի <b>գնայի</b> տուն։&nbsp;_ “<b>I should go</b>.`Nec` home”,
+* _<b>գնայի</b> տուն&nbsp;_ “<b>I wish I went</b>.`Sub` home”,
+* _<b>վազեի</b> տուն&nbsp;_ “<b>I wish I ran</b>.`Sub` home”,
+* _պիտի <b>գնայի</b> տուն&nbsp;_ “<b>I should go</b>.`Nec` home”,
 * _<b>ունեի</b>&nbsp;_ “<b>I had</b>”.`Ind`,
 * _<b>գիտեի</b>&nbsp;_ “<b>I knew</b>”.`Ind`,
 * _<b>արժեի</b>&nbsp;_ “<b>I was worth</b>.`Ind`”,
@@ -76,9 +76,9 @@ The remaining verbs with “secondary expanded stems” (see above) will have al
 
 * _<b>եմ</b>&nbsp;_ “<b>I am</b>.`Ind`”,
 * _<b>կամ</b>&nbsp;_ “<b>I am / exist</b>.`Ind`”,
-* _<b>Գնամ</b> տուն։&nbsp;_ “I'd better <b>go</b>.`Sub` home”,
-* _<b>Կգնամ</b> տուն։&nbsp;_ “<b>I shall go</b>.`Cnd` home”,
-* _Պիտի <b>գնամ</b> տուն։&nbsp;_ “I must <b>go</b>.`Nec` home”,
+* _<b>գնամ</b> տուն&nbsp;_ “I'd better <b>go</b>.`Sub` home”,
+* _<b>կգնամ</b> տուն&nbsp;_ “<b>I shall go</b>.`Cnd` home”,
+* _պիտի <b>գնամ</b> տուն&nbsp;_ “I must <b>go</b>.`Nec` home”,
 * _<b>ունեմ</b>&nbsp;_ “<b>I have</b>.`Ind`”,
 * _<b>գիտեմ</b>&nbsp;_ “<b>I know</b>.`Ind`”,
 * _<b>արժեմ</b>&nbsp;_ “<b>I am worth</b>.`Ind`”,
