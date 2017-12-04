@@ -38,6 +38,8 @@ The action has been / will have been completed. Since there is
 emphasis on one point on the time scale (the point of completion),
 this aspect does not work well with the present tense.
 
+The forms with resultative participles might better be defined as “perfect stative”.
+
 #### Examples
 
 * _<b>վազեցի</b> տուն&nbsp;_ “I ran home”
@@ -64,6 +66,18 @@ In some contexts subjunctive and conditional forms may also indicate prospective
 * _<b>կվազեմ</b> տուն&nbsp;_ “to bake”,
 * _<b>կվազեի</b> տուն&nbsp;_ “to bake”
 
+### <a name="Dur">`Dur`</a>: durative aspect
+
+A situation or action that has persisted over a period of time and still continues.
+
+The finite form of auxilary _լինեմ&nbsp;_ (in various tenses and moods or in the infinitive _լինել&nbsp;_) accombined with processual, resultative and future participles of main verb indicates this aspect. The first one might better be defined as ‘durative progressive’ and others as ‘durative stative’ and ‘durative prospective’.
+
+#### Examples
+
+* _գնալիս <b>լինեմ</b>&nbsp;_ “(If / when) I will be going.`Sub`”,
+* _գնացած <b>լինեմ</b>&nbsp;_ “(If / when) I will be gone.`Sub`”,
+* _գնալու <b>լինեմ</b>&nbsp;_ “(If / when) I go.`Sub`”
+
 ### <a name="Iter">`Iter`</a>: iterative / frequentative aspect
 
 Denotes repeated action, with multiplicative or distributive meanings. Armenian has three main iterative markers _-ատ&nbsp;, -ոտ&nbsp;, -տ&nbsp;_ or reduplication.
@@ -76,22 +90,3 @@ Note, that in Armenian iterative is considered as a lexical feature of [verbs](V
 * _կտրել&nbsp;_ “hit”, _<b>կտրատել</b>&nbsp;_ “hit several times”,
 * _փնտրել&nbsp;_ “hit”, _<b>փնտրտել</b>&nbsp;_ “hit several times”,
 * _վազել&nbsp;_ “to run”, _<b>վազվզել</b>&nbsp;_ “to run around, to run often”
-
-### <a name="Dur">`Dur`</a>: durative aspect
-
-A situation or action that has persisted over a period of time and still continues. This is called durative action. 
-The suffixes -Akal, -Agel and -Adur indicate this aspect (the first one might better be defined as ‘durative stative’ and others ‘durative progressive’).
-
-#### Examples
-
-
-- Durative / habitual aspect. The finite form of _լինեմ&nbsp;_ (in various tenses and moods or in the infinitive _լինել&nbsp;_) is combined with processual, resultative and future participles of the lexical verb. The auxiliary expresses person, number, mood, tense and aspect, participles expresse tense / aspect and voice:
-  _գնալու <b>լինեմ</b>&nbsp;_ “(If / when) I go.`Sub`”,
-  _գնացած <b>լինեմ</b>&nbsp;_ “(If / when) I will be gone.`Sub`”,
-  _գնալիս <b>լինեմ</b>&nbsp;_ “(If / when) I will be going.`Sub`”,
-  _գնալու <b>լինել</b>&nbsp;_ “to intend to go, to be going”,
-  _գնացած <b>լինել</b>&nbsp;_ “to be gone”,
-  _գնալիս <b>լինել</b>&nbsp;_ “to be in the process of going”.
-bakakaldı ‘she looked (for a while, she was frozen while looking)’
-yapagelmiştir ‘she have gone on doing (something)’
-okuyadur ‘go on reading’
