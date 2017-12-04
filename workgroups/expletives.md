@@ -165,6 +165,33 @@ expl(kände, sig)
 *hon kände honom sjuk \n she felt him sick
 ~~~
 
+## Right dislocation (?)
+
+(marie: for French the extraposed complement clause is better and more generally described as right dislocation, of either a subject or a complement clause, with a coreferential indefinite pronoun "ça". The left dislocation is also possible, but it seems it has different prosodic properties, suggesting that the dislocated element is not part of the clause.
+
+~~~ sdparse
+Qu'il parte m'a peiné \n That he left me-accusative has hurt
+~~~
+
+~~~ sdparse
+ça m'a peiné qu'il parte \n It me-accusative has hurt that he left
+~~~
+
+~~~ sdparse
+J'ai trouvé surprenant qu'il parte \n I found surprising that he left
+~~~
+
+~~~ sdparse
+J'ai trouvé ça surprenant qu'il parte \n I found it surprising that he left
+~~~
+
+More generally, informal French allows dislocating any kind of argument, with appropriate clitics.
+
+~~~ sdparse
+Il les a cassées ses lunettes Paul \n He them-fem-acc has broken his sunglasses Paul
+~~~
+
+
 ## Clitic doubling
 
 For some languages, like Spanish or Greek, clitic pronouns can cooccur with the full noun phrase they refer to.
