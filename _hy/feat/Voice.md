@@ -28,15 +28,15 @@ Note, that causative suffixes _-ացն, -եցն, -ցն&nbsp;_ is used for transt
 
 #### Examples
 
-* _նա <b>ջարդեց</b> բաժակը&nbsp;_ “He <b>broke</b> the cup”
-* _նա <b>կորցրեց</b> գիրքը&nbsp;_ “He <b>lost</b> the book” (but _գիրքը <b>կորավ</b>&nbsp;_ “The book was <b>lost</b>.`Mid`”)
+* _Նա <b>ջարդեց</b> բաժակը&nbsp;_ “He <b>broke</b> the cup”
+* _Նա <b>կորցրեց</b> գիրքը&nbsp;_ “He <b>lost</b> the book” (but, _Գիրքը <b>կորավ</b>&nbsp;_ “The book was <b>lost</b>.`Mid`”)
 
 ### <a name="Pass">`Pass`</a>: passive voice
 
 The subject of the verb is affected by the action (patient). The doer
 (agent) is either unexpressed or it appears as an object of the verb.
 
-Only the passive participle is tagged `Voice=Pass`.
+Only the passive participles are tagged `Voice=Pass`.
 
 #### Examples
 
