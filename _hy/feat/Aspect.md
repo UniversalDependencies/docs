@@ -38,7 +38,7 @@ The action has been / will have been completed. Since there is
 emphasis on one point on the time scale (the point of completion),
 this aspect does not work well with the present tense.
 
-The forms with resultative participles might better be defined as “perfect stative”.
+The forms with resultative participles might better be defined as ‘perfect stative’.
 
 #### Examples
 
@@ -74,9 +74,9 @@ The finite form of auxilary _լինեմ&nbsp;_ (in various tenses and moods or i
 
 #### Examples
 
-* _գնալիս <b>լինեմ</b>&nbsp;_ “(If / when) I will be going.`Sub`”,
-* _գնացած <b>լինեմ</b>&nbsp;_ “(If / when) I will be gone.`Sub`”,
-* _գնալու <b>լինեմ</b>&nbsp;_ “(If / when) I go.`Sub`”
+* _գնալիս <b>լինեմ</b>&nbsp;_ “(If / when) I will be going”,
+* _գնացած <b>լինեմ</b>&nbsp;_ “(If / when) I will be gone”,
+* _գնալու <b>լինեմ</b>&nbsp;_ “(If / when) I go”
 
 ### <a name="Iter">`Iter`</a>: iterative / frequentative aspect
 
