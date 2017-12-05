@@ -20,16 +20,16 @@ such as subject and object, to semantic roles, such as agent and patient.
 
 ### <a name="Act">`Act`</a>: active voice
 
-The subject of the verb is the doer of the action (agent), the object
-is affected by the action (patient).
+Prototypically, the subject of the verb is the doer of the action (agent), the object is affected by the action (patient).
 
-All finite verb forms and the active participles are tagged `Voice=Act`.
+All active participles are tagged `Voice=Act`. By default, the finite forms, ininitives and gerunds of non-reflexive and non-reciprocal verbs are also labeled `Voice=Act`, except for the cases when they are labeled `Voice=Pass` and `Voice=Mid`, see below.
+
+Note, that causative suffixes _-ացն, -եցն, -ցն&nbsp;_ is used for transtivization of middle voice verbs. This verbs will have also `Voice=Act` (see below).
 
 #### Examples
 
-* _<b>Napadli</b> jsme nepřítele.&nbsp;_ “We <b>attacked</b> the enemy”
-  (the active participle _napadli&nbsp;_ can be used to form either past
-  tense or conditional mood; here it forms the past tense.)
+* _նա <b>ջարդեց</b> բաժակը&nbsp;_ “He <b>broke</b> the cup”
+* _նա <b>կորցրեց</b> գիրքը&nbsp;_ “He <b>lost</b> the book” (but _գիրքը <b>կորավ</b>&nbsp;_ “The book was <b>lost</b>.`Mid`”)
 
 ### <a name="Pass">`Pass`</a>: passive voice
 
@@ -46,11 +46,11 @@ Only the passive participle is tagged `Voice=Pass`.
 
 ### <a name="Mid">`Mid`</a>: middle voice
 
-Between active and passive, needed for the reflexive verbs (in all forms except active participle).
+Between active and passive. Needed also for the reflexive and reciprocal verbs (traditionally called “passivizied middle verbs”).
 
 #### Examples
 
-* _Я <b>занялся</b> музыкой.&nbsp;_ “I <b>took up.Refl</b> music” 
+* _Я <b>занялся</b> музыкой.&nbsp;_ “I <b>took up.Refl</b> music”
 
 ### <a name="Cau">`Cau`</a>: causative voice
 
@@ -64,5 +64,6 @@ In causative constructions the subject is the entity “causing” the action. I
 
 Examples
 
-Evi boya-t-tık “We had the house painted”
-Evi boya-t-tır-tık “We had someone to have the house painted”
+* _Я <b>занялся</b> музыкой.&nbsp;_ “I <b>took up.Refl</b> music”
+* _ Evi boya-t-tık&nbsp;_ “We had the house painted”
+* _Evi boya-t-tır-tık&nbsp;_ “We had someone to have the house painted”
