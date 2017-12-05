@@ -22,9 +22,9 @@ such as subject and object, to semantic roles, such as agent and patient.
 
 Prototypically, the subject of the verb is the doer of the action (agent), the object is affected by the action (patient).
 
-All active participles are tagged `Voice=Act`. By default, the finite forms, ininitives and gerunds of non-reflexive and non-reciprocal verbs are also labeled `Voice=Act`, except for the cases when they are labeled `Voice=Pass` and `Voice=Mid`, see below.
+All active participles are tagged `Voice=Act`. By default, the finite and non-finite forms of non-reflexive and non-reciprocal verbs are also labeled `Voice=Act`, except for the cases when they are labeled `Voice=Pass` and `Voice=Mid`, see below.
 
-Note, that causative suffixes _-ացն, -եցն, -ցն&nbsp;_ is used for transtivization of middle voice verbs. This verbs will have also `Voice=Act` (see below).
+Note, that aorist stem markers _-աց(ն/ր), -եց(ն/ր)&nbsp;_ (homonymous with the causative infixes) is used for transtivization of middle voice verbs. This verbs will have also `Voice=Act` (see below).
 
 #### Examples
 
@@ -33,16 +33,15 @@ Note, that causative suffixes _-ացն, -եցն, -ցն&nbsp;_ is used for transt
 
 ### <a name="Pass">`Pass`</a>: passive voice
 
-The subject of the verb is affected by the action (patient). The doer
-(agent) is either unexpressed or it appears as an object of the verb.
+The subject of the verb is affected by the action (patient). The doer (agent) is either a non-obligatory oblique phrase of the verb or not overtly expressed.
 
-Only the passive participles are tagged `Voice=Pass`.
+In Armenian, a passive verb may get a passive infixe _-վ-_.
+
+All passive participles are tagged `Voice=Pass`. The finite and non-finite non-reflexive forms are labeled `Voice=Pass` in the passive construction.
 
 #### Examples
 
-* _Jsme <b>napadeni</b> nepřítelem.&nbsp;_ “We are <b>attacked</b> by
-  the enemy” (the passive participle _napadeni&nbsp;_ is used to form
-  passive in all tenses; here it forms the present passive.)
+*
 
 ### <a name="Mid">`Mid`</a>: middle voice
 
@@ -50,20 +49,12 @@ Between active and passive. Needed also for the reflexive and reciprocal verbs (
 
 #### Examples
 
-* _Я <b>занялся</b> музыкой.&nbsp;_ “I <b>took up.Refl</b> music”
+* 
 
 ### <a name="Cau">`Cau`</a>: causative voice
 
 Note, that in Armenian this is a feature of verbs.
 
-Not to be caused with causative case of nouns in some languages.
+#### Examples
 
-In causative constructions the subject is the entity “causing” the action. It generally translate to English as ‘cause/make/have/let/allow’ someone to perform action described by the main verb. Many (lexicalized) verbs that have unrelated roots in other languages are formed are related by the causative suffix in Turkish, e.g., öl- “die” and öl-dür “kill” (to cause someone to die). Causative suffix is quite productive. Multiple causative suffixes can be attached to a verb, and the number of causative suffixes are theoretically unbounded. In practice, however, the cases where more than two causative suffixes attached to a verb is rather rare. Often, two or more causative suffixes are used for emphasis and do not express multiple levels of causation.
-
-(TODO: multiple causatives need a solution. See this issue for details.)
-
-Examples
-
-* _Я <b>занялся</b> музыкой.&nbsp;_ “I <b>took up.Refl</b> music”
-* _ Evi boya-t-tık&nbsp;_ “We had the house painted”
-* _Evi boya-t-tır-tık&nbsp;_ “We had someone to have the house painted”
+* 
