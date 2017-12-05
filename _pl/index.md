@@ -88,8 +88,8 @@ udver: '2'
   * The `Aspect` feature should be also used with the corresponding derived nouns and adjectives (participles), if they have the
     `VerbForm` feature.
 * Finite verbs always have one of three values of [Mood](): `Ind`, `Imp` or `Cnd`. The conditional mood is only used with conditional
-  auxiliaries _(bych, bys, by, bychom, byste)_. The l-participle of the main verb, that is needed to form a periphrastic conditional,
-  is not marked with this feature.
+  auxiliary _(by)_. The finite part of the auxiliary, if present _(m, ś, śmy, ście),_ as well as the l-participle of the main verb, needed to form a periphrastic conditional,
+  are not marked with this feature.
 * Verbs in the indicative mood always have one of three values of [Tense](): `Past`, `Pres` or `Fut`.
   Note that `Tense=Pres` is also used with forms of perfective verbs, which are formally present, but semantically future.
   Hence both _idę do domu_ “I am going home” and _przyjdę do domu_ “I will come home” end up marked as `Tense=Pres`.
