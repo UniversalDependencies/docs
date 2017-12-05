@@ -84,11 +84,11 @@ otherwise uncertain. In some contexts the mood expresses also the desire that th
 
 ### <a name="Nec">`Nec`</a>: necessitative
 
-The necessitative mood expresses necessity and corresponds to the modal verbs “must, should, have to”: _Նա <b>պիտի գնա</b> տուն_ “He <b>she should go</b> home.”
+The necessitative mood expresses necessity and corresponds to the modal verbs “must, should, have to”.
 
 Armenian has present and imperfect necessitative, both formed periphrastically using the special mood particles _<b>պիտի</b>_ or _<b>պետք է</b>_. The content verb express person, number, tense, aspect, voice and is in subjunctive mood.
 
-The mood paricle _<b>պիտի</b>_ is historically present tense (`Ind`, `Sing`, `Person=3`) of the verb _<b>պիտիմ</b>_ “to by necessary, useful”. The impersonal predicative _<b>պետք է</b>_ “lit: is needed” accombanied with subjunctive finite form of verbs is used as a variants of mood particle. This express an compulsary, oblicative necessity while .
+The mood paricle _<b>պիտի</b>_ is historically present tense (`Ind`, `Sing`, `Person=3`) of the verb _<b>պիտիմ</b>_ “to by necessary, useful”. The impersonal predicative _<b>պետք է</b>_ “lit: is needed” accombanied with subjunctive finite form of verbs is used as a variants of mood particle. This express a compulsary, oblicative necessity.
 
 The content verb is not marked as necessitative because it can also be used in present or imperfect subjunctive. The mood particles  will have `Mood=Nec`.
 
