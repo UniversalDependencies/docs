@@ -23,3 +23,4 @@ Note that particles like _այո_ “yes”, _ոչ_ “no”, _անշուշտ_ �
 - Negation particle: _ոչ, չէ, բնավ, ամենևին_
 - Wish particle: _երանի, երնեկ_
 - Volition particle: _ապա, դե, թող_
+- Mood particle: _պիտի, պետք է_
