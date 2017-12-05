@@ -44,7 +44,7 @@ action of the verb.
 
 * _<b>գնա՛</b> տուն_ "go home!"
 * _<b>գնացե՛ք</b> տուն_ "go home!" (plural)
-* _<b>եղի՛ր</b> առողջ _ "be healthy!"
+* _<b>եղի՛ր</b> առողջ_ "be healthy!"
 * _<b>եղե՛ք</b> առողջ_ "go healthy!" (plural)
 
 ### <a name="Cnd">`Cnd`</a>: conditional
