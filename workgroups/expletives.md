@@ -307,8 +307,3 @@ The 39 treebanks are from the following 20 languages:
 * Ukrainian:
   * Залишити слід на папері — це був вирішальний крок. (expletive "це", transl. "Leave the mark on paper - it was a decisive step.")
 
-
-
-# some section to be deleted, Filip tests stuff
-
-ddd
