@@ -54,10 +54,14 @@ place under some circumstances but they actually did not / do not
 happen. In Armenian it combines with two different
 tenses (imperfect and present).
 
+The negation of conditional mood is formed periphrastically using the special negative participle of main verb and negated auxiliary _չեմ_ “not to be”. The participle of main verb is marked as conditional. 
+
 #### Examples
 
 * _<b>կգնայի</b> տուն_ "<b>I should go</b> home, if"
 * _<b>կգնամ</b> տուն_ "<b>I shall go</b> home, if"
+* _չեմ <b>գնա</b> տուն_ "I shall not <b>go</b> home, if"
+* _չէի <b>գնա</b> տուն_ "I I should not <b>go</b> home, if"
 * _վազելու <b>կլինեի</b>_ "<b>I should be about</b> to run, if"
 * _վազելու <b>կլինեմ</b>_ "<b>I shall be going</b> to run, if"
 * _տուն <b>կունենայի</b>_ "<b>I should have</b> a house, if"
@@ -67,7 +71,7 @@ tenses (imperfect and present).
 
 The subjunctive mood is used under certain circumstances in
 subordinate clauses, typically for actions that are subjective or
-otherwise uncertain. In some contexts the mood expresses also the desire that the action happens; it is thus close to both jussive and optative. In Armenian it combines with two different tenses (imperfect and present).
+otherwise uncertain. In some contexts the mood expresses also the desire that the action happens; it is thus close to both optative and jussive. In Armenian it combines with two different tenses (imperfect and present).
 
 #### Examples
 
@@ -80,7 +84,15 @@ otherwise uncertain. In some contexts the mood expresses also the desire that th
 
 ### <a name="Nec">`Nec`</a>: necessitative
 
+The necessitative mood expresses necessity and corresponds to the modal verbs “must, should, have to”: _Նա <b>պիտի գնա</b> տուն_ “He <b>she should go</b> home.”
+
+Armenian has present and imperfect necessitative, both formed periphrastically using the special mood particles _<b>պիտի</b>_ or _<b>պետք է</b>_. The content verb express person, number, tense, aspect, voice and is in subjunctive mood.
+
+The mood paricle _<b>պիտի</b>_ is historically present tense (`Ind`, `Sing`, `Person=3`) of the verb _<b>պիտիմ</b>_ “to by necessary, useful”. The impersonal predicative _<b>պետք է</b>_ “lit: is needed” accombanied with subjunctive finite form of verbs is used as a variants of mood particle. This express an compulsary, oblicative necessity while .
+
+The content verb is not marked as necessitative because it can also be used in present or imperfect subjunctive. The mood particles  will have `Mood=Nec`.
 
 #### Examples
 
-* [hy] 
+* նա _<b>պիտի (պետք է) գնա</b> տուն_ ‘he should go home’
+* նա _<b>պիտի (պետք է) գնար</b> տուն_ ‘he should have gone home’
