@@ -13,7 +13,7 @@ udver: '2'
 </tr>
 </table>
 
-Lexical feature of verbs.
+Lexical feature of [verbs](Verb).
 
 ### <a name="Intr">`Intr`</a>: intransitive verb
 
@@ -21,7 +21,7 @@ A verb that does not take arguments other than the subject.
 
 #### Examples
 
-* _to <b>go</b>_
+* _<b>գնալ</b> տուն_ “to <b>go</b> home”
 
 ### <a name="Tran">`Tran`</a>: transitive verb
 
@@ -30,4 +30,4 @@ These verbs can be passivized, then the direct object becomes the subject.
 
 #### Examples
 
-* _to <b>do</b> something, to be <b>done</b> by somebody_
+* _<b>խմել</b> գինի_ “to <b>drink</b> wine”
