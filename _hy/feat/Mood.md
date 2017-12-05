@@ -57,7 +57,7 @@ tenses (imperfect and present).
 #### Examples
 
 * _<b>կգնայի</b> տուն_ "<b>I should go</b> home, if"
-* _<b>կգնամ</b> տուն_ "<b>I shall go<b> home, if"
+* _<b>կգնամ</b> տուն_ "<b>I shall go</b> home, if"
 * _վազելու <b>կլինեի</b>_ "<b>I should be about</b> to run, if"
 * _վազելու <b>կլինեմ</b>_ "<b>I shall be going</b> to run, if"
 * _տուն <b>կունենայի</b>_ "<b>I should have</b> a house, if"
@@ -67,8 +67,7 @@ tenses (imperfect and present).
 
 The subjunctive mood is used under certain circumstances in
 subordinate clauses, typically for actions that are subjective or
-otherwise uncertain. In some contexts the mood expresses also the desire that the action happens; it is thus close to both jussive and optative. In Armenian it combines with two different
-tenses (imperfect and present).
+otherwise uncertain. In some contexts the mood expresses also the desire that the action happens; it is thus close to both jussive and optative. In Armenian it combines with two different tenses (imperfect and present).
 
 #### Examples
 
