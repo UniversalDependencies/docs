@@ -29,8 +29,8 @@ information whether and when it was / will be completed.
 
 #### Examples
 
-* _<b>վազում</b> եմ տուն&nbsp;_ “to bake”,
-* _<b>վազում</b> էի տուն&nbsp;_ “to bake”
+* _<b>վազում</b> եմ տուն&nbsp;_ “I run / am running home”,
+* _<b>վազում</b> էի տուն&nbsp;_ “I was running home”
 
 ### <a name="Perf">`Perf`</a>: perfect aspect
 
@@ -42,11 +42,11 @@ The forms with resultative participles might better be defined as “perfect sta
 
 #### Examples
 
-* _<b>վազեցի</b> տուն&nbsp;_ “I ran home”
-* _<b>վազել</b> եմ տուն&nbsp;_ “to bake”
-* _<b>վազել</b> էի տուն&nbsp;_ “to bake”
-* _<b>նստած </b> եմ տանը&nbsp;_ “to bake”
-* _<b>նստած </b> էի տանը&nbsp;_ “to bake”
+* _<b>վազեցի</b> տուն&nbsp;_ “I ran home”,
+* _<b>վազել</b> եմ տուն&nbsp;_ “I have run home”,
+* _<b>վազել</b> էի տուն&nbsp;_ “I had run home”,
+* _<b>նստած </b> եմ տանը&nbsp;_ “I am sitting at home”,
+* _<b>նստած </b> էի տանը&nbsp;_ “I was sitting at home”
 
 ### <a name="Prosp">`Prosp`</a>: prospective aspect
 
@@ -59,12 +59,12 @@ In some contexts subjunctive and conditional forms may also indicate prospective
 
 #### Examples
 
-* _<b>վազելու</b> եմ տուն&nbsp;_ “to bake”,
-* _<b>վազելու</b> էի տուն&nbsp;_ “to bake”,
-* _<b>վազեմ</b> տուն&nbsp;_ “to bake”,
-* _<b>վազեի</b> տուն&nbsp;_ “to bake”
-* _<b>կվազեմ</b> տուն&nbsp;_ “to bake”,
-* _<b>կվազեի</b> տուն&nbsp;_ “to bake”
+* _<b>վազելու</b> եմ տուն&nbsp;_ “I shall run home”,
+* _<b>վազելու</b> էի տուն&nbsp;_ “I should run home”,
+* _<b>վազեմ</b> տուն&nbsp;_ “(I'd better) run home”,
+* _<b>վազեի</b> տուն&nbsp;_ “I wish I ran home”
+* _<b>կվազեմ</b> տուն&nbsp;_ “I shall run home”,
+* _<b>կվազեի</b> տուն&nbsp;_ “I shall run home”
 
 ### <a name="Dur">`Dur`</a>: durative aspect
 
@@ -86,7 +86,7 @@ Note, that in Armenian iterative is considered as a lexical feature of [verbs](V
 
 #### Examples
 
-* _ցատկել&nbsp;_ “hit”, _<b>ցատկոտել</b>&nbsp;_ “hit several times”,
-* _կտրել&nbsp;_ “hit”, _<b>կտրատել</b>&nbsp;_ “hit several times”,
-* _փնտրել&nbsp;_ “hit”, _<b>փնտրտել</b>&nbsp;_ “hit several times”,
+* _ցատկել&nbsp;_ “jump”, _<b>ցատկոտել</b>&nbsp;_ “jump several times”,
+* _կտրել&nbsp;_ “cut”, _<b>կտրատել</b>&nbsp;_ “cut several times”,
+* _փնտրել&nbsp;_ “search”, _<b>փնտրտել</b>&nbsp;_ “search several times”,
 * _վազել&nbsp;_ “to run”, _<b>վազվզել</b>&nbsp;_ “to run around, to run often”
