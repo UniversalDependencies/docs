@@ -339,7 +339,14 @@ According to Holmberg and Nikanne (2002), Finnish has obligatory expletives in a
 ~~~
 
 ### French
-  * Il ne se représenta pas en 1972. (expletive "se", transl. "He did not represent himself in 1972.")
+
+French exhibits all of the prototypical constructions including some special variants (as described above). The use of the `expl` relation does not seem quite consistent across treebanks. Here is a rough characterization:
+
+* UD_French: The `expl` relation is used for extraposition (or right dislocation) and inherent reflexives. In addition, it is used for cases where a subject is realized both by a full noun phrase and a (clitic) pronoun (as an alternative to using `dislocated`). It is also used for the word "que" in some constructions. However, it does not appear to be used for impersonal subjects.
+* UD_French-Sequoia: The `expl` relation seems to be used primarily for "double subjects" and inherent reflexives.
+* UD_French-ParTUT: The `expl` relation is used for impersonal subjects and inherent reflexives.
+* UD_French-Spoken: The `expl` relation is not used at all.
+* UD_French-PUD: The `expl` relation seems to be overused and is found also in cases where a pronoun is clearly referential (perhaps as a result of automatic parsing without full manual validation).
 
 ### Galician
   * Ás cinco remátase de traballar. (expletive clitic "-se", transl. "At five it is over to work")
