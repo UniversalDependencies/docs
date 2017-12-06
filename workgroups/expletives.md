@@ -374,7 +374,6 @@ The 39 treebanks are from the following 20 languages:
 16	.	.	PUNCT	Period	_	2	punct	_	_
 
 ~~~
-
     * UD_Swedish-LinES: Det finns en fråga som är mycket viktigare än checken, sa han. (Translation: There is a question that is much more important than the check, he said.)
 
 ~~~ conllu
@@ -401,7 +400,6 @@ The 39 treebanks are from the following 20 languages:
 19	.	.	PUNCT	Period	_	11	punct	_	_
 
 ~~~
-
     * UD_Swedish-PUD: Det är rimligt att säga att Rocco Catalano arbetar, lever och andas retro. (Translation: It is reasonable to say that Rocco Catalano works, lives and breathes retro.)
 
 ~~~ conllu
@@ -424,7 +422,6 @@ The 39 treebanks are from the following 20 languages:
 15	.	.	PUNCT	MAD	_	3	punct	_	_
 
 ~~~
-
     * UD_Swedish-PUD: Till sist måste vi göra det lättare för folk att rapportera misstänkta säkerhetsluckor och skadliga e-postmeddelanden. (Translation: Finally, we must make it easier for people to report suspected security gaps and harmful emails.)
 
 ~~~ conllu
@@ -449,7 +446,6 @@ The 39 treebanks are from the following 20 languages:
 17	.	.	PUNCT	MAD	_	5	punct	_	_
 
 ~~~
-
     * UD_Swedish-LinES: Herr kommissionär, det visade sig att USA föraktar förhandlingar. (Translation: Mister commissioner, it turned out that the USA despises negotiations.)
 
 ~~~ conllu
