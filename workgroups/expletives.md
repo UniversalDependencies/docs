@@ -348,8 +348,29 @@ The 39 treebanks are from the following 20 languages:
 * Slovenian:
   * V takšnem primeru se lahko bolnikovo stanje celo poslabša. (expletive "se", transl. "In this case, the patient's condition may even deteriorate.")
 * Swedish:
-  * Swedish has all five prototypical constructions described above (and exemplified below).
-    * Det är viktigt för dig att känna till de här nyheterna. (expletive "Det", transl. "It is important for you to be familiar with these news")
+  * Swedish has all five prototypical constructions described above (and exemplified below). However, the `expl` relation is not used for inherent reflexives
+    * UD_Swedish-LinES: Det regnade, och folk började småhuttra ute på verandan och drog sig långsamt in. (Translation: It was raining, and people started to tremble out on the veranda and slowly went inside.)
+~~~conllu
+# visual-style	1	bgColor:lightgreen
+# hittoken:	1	Det	det	PRON	EX-P3SG	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	2	expl	_	_
+1	Det	det	PRON	EX-P3SG	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	2	expl	_	_
+2	regnade	regna	VERB	PAST-ACT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	Comma	_	2	punct	_	_
+4	och	och	CCONJ	_	_	6	cc	_	_
+5	folk	folk	NOUN	IND-NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	6	nsubj	_	_
+6	började	börja	VERB	PAST-ACT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+7	småhuttra	småhuttra	VERB	INF-ACT	VerbForm=Inf|Voice=Act	6	xcomp	_	_
+8	ute	ute	ADV	_	_	10	advmod	_	_
+9	på	på	ADP	_	_	10	case	_	_
+10	verandan	veranda	NOUN	SG-DEF-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing	7	obl	_	_
+11	och	och	CCONJ	_	_	12	cc	_	_
+12	drog	dra	VERB	PAST-ACT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+13	sig	sig	PRON	RFL-ACC	Case=Acc|Definite=Def|PronType=Prs	12	obj	_	_
+14	långsamt	långsam	ADV	_	_	12	advmod	_	_
+15	in	in	ADV	_	_	12	advmod	_	SpaceAfter=No
+16	.	.	PUNCT	Period	_	2	punct	_	_
+
+~~~
     * UD_Swedish-LinES: Det finns en fråga som är mycket viktigare än checken, sa han. (Translation: There is a question that is much more important than the check, he said.)
 ~~~ conllu
 # visual-style	4	bgColor:lightgreen
@@ -394,6 +415,29 @@ The 39 treebanks are from the following 20 languages:
 13	andas	andas	VERB	VB|PRS|SFO	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	9	conj	_	_
 14	retro	retro	ADJ	JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Pos	9	obj	_	SpaceAfter=No
 15	.	.	PUNCT	MAD	_	3	punct	_	_
+
+~~~
+    * UD_Swedish-PUD: Till sist måste vi göra det lättare för folk att rapportera misstänkta säkerhetsluckor och skadliga e-postmeddelanden. (Translation: Finally, we must make it easier for people to report suspected security gaps and harmful emails.)
+~~~ conllu
+# visual-style	6	bgColor:lightgreen
+# hittoken:	6	det	det	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing	5	expl	_	_
+1	Till	till	ADP	PP	_	2	case	_	_
+2	sist	sist	ADV	AB|SUV	Degree=Sup	5	advmod	_	_
+3	måste	måste	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
+4	vi	vi	PRON	PN|UTR|PLU|DEF|SUB	Case=Nom|Definite=Def|Gender=Com|Number=Plur	5	nsubj	_	_
+5	göra	göra	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	0	root	_	_
+6	det	det	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing	5	expl	_	_
+7	lättare	lätt	ADJ	JJ|KOM|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Cmp	5	xcomp	_	_
+8	för	för	ADP	PP	_	9	case	_	_
+9	folk	folk	NOUN	NN|NEU|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	5	obl	_	_
+10	att	att	PART	IE	_	11	mark	_	_
+11	rapportera	rapportera	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	5	ccomp	_	_
+12	misstänkta	misstänkt	ADJ	PC|PRF|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Number=Plur|Tense=Past|VerbForm=Part	13	amod	_	_
+13	säkerhetsluckor	säkerhetslucka	NOUN	NN|UTR|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	11	obj	_	_
+14	och	och	CCONJ	KN	_	16	cc	_	_
+15	skadliga	skadlig	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Degree=Pos|Number=Plur	16	amod	_	_
+16	e-postmeddelanden	e-postmeddelande	NOUN	NN|NEU|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	13	conj	_	SpaceAfter=No
+17	.	.	PUNCT	MAD	_	5	punct	_	_
 
 ~~~
 * Ukrainian:
