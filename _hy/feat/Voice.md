@@ -22,7 +22,7 @@ such as subject and object, to semantic roles, such as agent and patient.
 
 Prototypically, the subject of the verb is the doer of the action (agent), the object is affected by the action (patient).
 
-All active participles are tagged `Voice=Act`. By default, the finite and non-finite forms of non-reflexive and non-reciprocal verbs are also labeled `Voice=Act`, except for the cases when they are labeled `Voice=Pass` and `Voice=Mid`, see below.
+By default, the finite and non-finite forms of non-reflexive and non-reciprocal verbs are labeled `Voice=Act`, except for the cases when they are labeled `Voice=Pass` or `Voice=Mid`, see below.
 
 Note, that aorist stem markers _-աց(ն/ր), -եց(ն/ր)&nbsp;_ (homonymous with the causative infixes) is used for transtivization of middle voice verbs. This verbs will have also `Voice=Act` (see below).
 
@@ -35,17 +35,18 @@ Note, that aorist stem markers _-աց(ն/ր), -եց(ն/ր)&nbsp;_ (homonymous wi
 
 The subject of the verb is affected by the action (patient). The doer (agent) is either a non-obligatory oblique phrase of the verb or not overtly expressed.
 
-In Armenian, a passive verb may get a passive infixe _-վ-_.
-
-All passive participles are tagged `Voice=Pass`. The finite and non-finite non-reflexive forms are labeled `Voice=Pass` in the passive construction.
+The finite and non-finite forms (non-reflexive and non-reciprocal) are labeled `Voice=Pass` in the passive construction. In this case, the form is marked with passive infixe _-վ-_.
 
 #### Examples
 
-*
+* _Առաջարկությունը <b>մերժվեց</b> (մասնակիցների կողմից)&nbsp;_ “<b></b>”,
+* _Նա <b>արհմարվում</b> է ժողովրդից&nbsp;_ “He was <b>despised</b> by the people”,
+* _Գետինը <b>ծածկված</b> է ձյունով&nbsp;_ “Earth is <b>covered</b> by snow”,
+* _Դրա մասին շատ է <b>խոսվել</b>&nbsp;_ “It was <b>spoken</b> much about that”
 
 ### <a name="Mid">`Mid`</a>: middle voice
 
-Between active and passive. Needed also for the reflexive and reciprocal verbs (traditionally called “passivizied middle verbs”).
+Between active and passive. Needed also for the reflexive and reciprocal verbs (traditionally called medio-passiv or passivizied middle verbs).
 
 #### Examples
 
