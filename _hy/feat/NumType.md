@@ -53,7 +53,7 @@ This is a subtype of cardinal numbers. It may denote a fraction or just the deno
 #### Examples
 
 * _երեք <b>քառորդ</b>_ "three-quarters"
-* _կես_ "half", _մեկ <b>երրորդ</b>_ մասը "one third", _քառորդ_ "quarter"
+* _կես_ "half", _մեկ <b>երրորդ</b>_ մասը "one <b>third</b> part", _քառորդ_ "quarter"
 
 ### <a name="Dist">`Dist`</a>: distributive numeral
 
