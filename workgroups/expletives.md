@@ -298,6 +298,8 @@ The 39 treebanks are from the following 20 languages:
 
 (Translations are provided by Google translate in many cases, feel free to correct if you know the language in question!)
 
+* Arabic
+  * 8 occurrences of `expl` in UD Arabic-PUD. Not clear whether they are errors or not (under investigation).
 * Bulgarian
   * В дискусията, предполагам, ще се засегнат важни въпроси. (expletive "се" is a reflexive pronoun, transl. "In the discussion, I suppose, will affect important issues".)
 * Croatian:
@@ -323,6 +325,7 @@ The 39 treebanks are from the following 20 languages:
 7	Jyrki	jyrki	PROPN	N,Prop,Sg,Nom	Case=Nom|Number=Sing	8	nsubj	_	_
 8	loppu	loppua	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	csubj:cop	_	_
 9	.	.	PUNCT	Pun	_	8	punct	_	_
+
 ~~~
 * French:
   * Il ne se représenta pas en 1972. (expletive "se", transl. "He did not represent himself in 1972.")
