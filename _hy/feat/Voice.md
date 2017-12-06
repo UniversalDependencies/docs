@@ -23,9 +23,9 @@ such as subject and object, to semantic roles, such as agent and patient.
 
 Prototypically, the subject of the verb is the doer of the action (agent), the object is affected by the action (patient).
 
-By default, the finite and non-finite forms of non-reflexive and non-reciprocal verbs are labeled `Voice=Act`, except for the cases when they are labeled `Voice=Pass` or `Voice=Mid`, see below.
+By default, the finite and non-finite forms of verbs are labeled `Voice=Act`, except for the cases when they are labeled `Voice=Pass` or `Voice=Mid`, see below.
 
-Note, that aorist stem markers _-աց(ն/ր), -եց(ն/ր)&nbsp;_ (homonymous with the causative infixes) is used for transtivization of middle voice verbs. This verbs will have also `Voice=Act` (see below).
+Note, that aorist stem marker _-(ա/ե)ցն(/ր)&nbsp;_ (homonymous with the causative infixes) is used for transtivization of middle voice verbs. This verbs will have also `Voice=Act`, not `Voice=Cau`(see below).
 
 #### Examples
 
@@ -36,7 +36,7 @@ Note, that aorist stem markers _-աց(ն/ր), -եց(ն/ր)&nbsp;_ (homonymous wi
 
 The subject of the verb is affected by the action (patient). The doer (agent) is either a non-obligatory oblique phrase of the verb or not overtly expressed.
 
-The finite and non-finite forms (non-reflexive and non-reciprocal) are labeled `Voice=Pass` in the passive construction. In this case, the form is marked with passive infixe _-վ-_.
+The finite and non-finite forms are labeled `Voice=Pass` in the passive construction. In this case, the form is marked with passive infixe _-վ-_ (for exeptions see below).
 
 #### Examples
 
@@ -47,15 +47,15 @@ The finite and non-finite forms (non-reflexive and non-reciprocal) are labeled `
 
 ### <a name="Mid">`Mid`</a>: middle voice
 
-Between active and passive. Needed also for the reflexive and reciprocal verbs (traditionally called medio-passiv); in this case, the form is marked with infix _-վ-_ (but the lemma is tagged as non-reflexive, non-reciprocal).
+Between active and passive. Needed also for the reflexive and reciprocal voices (traditionally called medio-passiv); in this case, the verbs are marked with passiv infix _-վ-_ (but the lemma is tagged as non-reflexive, non-reciprocal).
 
-Note, that there is a not large set of middle voice verbs marked with passive infix _-վ-_ (so-called passivizied middle verbs). These forms are morphologically very close to the passive and do not have morphologically related non-marked counterparts, they are tagged `Voice=Mid`. If there is a morphologically related non-marked counterpart, than the two verbs are represented by different lemmas.
+Note, that there is a not large set of middle voice verbs marked with passive infix _-վ-_ (so-called passivizied middle verbs). These forms are morphologically very close to the passive, do not have morphologically related non-marked counterparts and are tagged `Voice=Mid`. If there is a morphologically related non-marked counterpart, than the two verbs are represented by different lemmas.
 
 #### Examples
 
 * _Նա <b>վախենում</b> է մթից&nbsp;_ “<b></b>”
-* _Նա արագ <b>լվացվեց</b>, <b>հագնվեց</b> ու թողեց սենյակը&nbsp;_ “<b></b>”,
-* _Գտավ նրան, <b>գրկախառնվեցին</b>, <b>համբուրվեցին</b> սրտագին&nbsp;_ “<b></b>”,
+* _Նա արագ <b>լվացվեց</b>, <b>հագնվեց</b> ու թողեց սենյակը&nbsp;_ “<b></b>”,  (lit: he wash oneself, he dress oneself)
+* _Գտավ նրան, <b>գրկախառնվեցին</b>, <b>համբուրվեցին</b> սրտագին&nbsp;_ “<b></b>”  (lit: they see each other)”,
 * _Մենք <b>հարձակվեցինք</b> թշնամու վրա&nbsp;_ “We <b>attacked</b> the enemy”,
 * _Նա <b>պատրաստվում</b> էր <b>նվիրվելու</b> բեմին&nbsp;_ “<b></b>”,
 * _Ամեն ինչ տեսավ, <b>բռնկվեց</b> հոգին&nbsp;_ “<b></b>” (but, _Քաղաքում գործադուլ է <b>բռնկել</b>&nbsp;_ “<b></b>”)
@@ -63,6 +63,17 @@ Note, that there is a not large set of middle voice verbs marked with passive in
 ### <a name="Cau">`Cau`</a>: causative voice
 
 Note, that in Armenian this is a feature of verbs.
+
+In causative constructions the subject is the entity “causing” the action. It generally translate to English as ‘cause/make/have/let/allow’ someone to perform action described by the main verb.
+
+Many (lexicalized) verbs that have unrelated roots in other languages are formed are related by the causative suffix in Turkish, e.g., öl- “die” and öl-dür “kill” (to cause someone to die). Causative suffix is quite productive. 
+
+Multiple causative suffixes can be attached to a verb, and the number of causative suffixes are theoretically unbounded. In practice, however, the cases where more than two causative suffixes attached to a verb is rather rare. Often, two or more causative suffixes are used for emphasis and do not express multiple levels of causation.
+
+Examples
+
+Evi boya-t-tık “We had the house painted”
+Evi boya-t-tır-tık “We had someone to have the house painted”
 
 #### Examples
 
