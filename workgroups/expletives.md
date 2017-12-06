@@ -362,8 +362,7 @@ The `expl` relation is used exclusively with clitic pronouns (Clitic=Yes). In a
 majority of cases the clitic pronoun is in 3rd person, but also found
 in 1st and 2nd person, both singular and plural. The `expl`relation is subtyped: `expl:impers` for the impersonal construction and `expl:pass`for impersonal passives.
 The expletive relation is used in the following constructions:
-* impersonal construction
-* impersonal passive
+* impersonal construction (active and passive)
 * existential sentences
 * inherent reflexives, these are often enclitic
 
