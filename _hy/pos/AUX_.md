@@ -36,12 +36,12 @@ Armenian auxiliary verbs can be divided into:
 Note, that fintie present and imperfect forms of _եմ&nbsp;_ and _էի&nbsp;_ are also used with the perfect and future participles of the lexical verbs to form periphrastic present perfect (e.g. _վազել <b>եմ</b>&nbsp;_ “I have run”), (present-)future (e.g. _վազելու <b>եմ</b>&nbsp;_ “I shall run”) and future-in-the-past (_վազելու <b>էի</b>&nbsp;_ “I would (intended to) run”). The auxiliaries express person, number mood and tense (`Tense=Pres` and `Tense=Imp` accordingly), participles express tense / aspect and voice.
 
 - Durative / habitual aspect. The finite form of _լինեմ&nbsp;_ (in various tenses and moods or in the infinitive _լինել&nbsp;_) is combined with processual, resultative and future participles of the lexical verb. The auxiliary expresses person, number, mood, tense and aspect, participles expresse tense / aspect and voice:
-  _գնալու <b>լինեմ</b>&nbsp;_ “(If / when) I go.`Sub`”,
+  _գնալու <b>լինեմ</b>&nbsp;_ “(If / when) I intent to go.`Sub`”,
   _գնացած <b>լինեմ</b>&nbsp;_ “(If / when) I will be gone.`Sub`”,
   _գնալիս <b>լինեմ</b>&nbsp;_ “(If / when) I will be going.`Sub`”,
   _գնալու <b>լինել</b>&nbsp;_ “to intend to go, to be going”,
   _գնացած <b>լինել</b>&nbsp;_ “to be gone”,
-  _գնալիս <b>լինել</b>&nbsp;_ “to be in the process of going”.
+  _գնալիս <b>լինել</b>&nbsp;_ “to be in the process of going”
 
 Note, that in Armenian copulas are also tagged `AUX` and the definition of copula sentences has been extended
 to location-existentials (_Նա տանն <b>է</b>։ / Նա տանն է <b>լինում</b>։&nbsp;_ “He <b>is</b> at home.”) Hence almost all occurrences of _եմ&nbsp;_ and _լինեմ (լինել)&nbsp;_ should be now tagged `AUX`.
