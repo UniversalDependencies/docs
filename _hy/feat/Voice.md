@@ -25,12 +25,13 @@ Prototypically, the subject of the verb is the doer of the action (agent), the o
 
 By default, the finite and non-finite forms of verbs are labeled `Voice=Act`, except for the cases when they are labeled `Voice=Pass` or `Voice=Mid`, see below.
 
-Note, that aorist stem marker _-(ա/ե)ցն(/ր)&nbsp;_ (homonymous with the causative infixes) is used for transtivization of middle voice verbs. This verbs will have also `Voice=Act`, not `Voice=Cau`(see below).
+Note, that aorist stem marker _-(ա/ե)ցն(/ր)&nbsp;_ (homonymous with the causative infixes) is used for transtivization of middle voice verbs. Thеsс verbs will have also `Voice=Act`, not `Voice=Cau`(see below).
 
 #### Examples
 
 * _Նա <b>ջարդեց</b> բաժակը&nbsp;_ “He <b>broke</b> the cup”
 * _Նա <b>կորցրեց</b> գիրքը&nbsp;_ “He <b>lost</b> the book” (but, _Գիրքը <b>կորավ</b>&nbsp;_ “The book was <b>lost</b>.`Mid`”)
+* _Նա <b>հանգցրեց</b> լույսը&nbsp;_ “He <b>lost</b> the book” (but, _Լույսը <b>հանգավ</b>&nbsp;_ “The book was <b>lost</b>.`Mid`”)
 
 ### <a name="Pass">`Pass`</a>: passive voice
 
@@ -47,9 +48,9 @@ The finite and non-finite forms are labeled `Voice=Pass` in the passive construc
 
 ### <a name="Mid">`Mid`</a>: middle voice
 
-Between active and passive. Needed also for the reflexive and reciprocal voices (traditionally called medio-passiv); in this case, the verbs are marked with passiv infix _-վ-_ (but the lemma is tagged as non-reflexive, non-reciprocal).
+Between active and passive. Needed also for the reflexive and reciprocal verbs (traditionally called medio-passiv); in this case, the verbs are marked with passiv infix _-վ-_ (but the lemma is tagged as non-reflexive, non-reciprocal).
 
-Note, that there is a not large set of middle voice verbs marked with passive infix _-վ-_ (so-called passivizied middle verbs). These forms are morphologically very close to the passive, do not have morphologically related non-marked counterparts and are tagged `Voice=Mid`. If there is a morphologically related non-marked counterpart, than the two verbs are represented by different lemmas.
+Note, that there is a not-large set of middle voice verbs marked with passive infix _-վ-_ (so-called passivizied middle verbs). These forms are morphologically very close to the passive, do not have morphologically related non-marked counterparts and are tagged `Voice=Mid`. If there is a morphologically related non-marked counterpart, than the two verbs are represented by different lemmas.
 
 #### Examples
 
@@ -62,13 +63,19 @@ Note, that there is a not large set of middle voice verbs marked with passive in
 
 ### <a name="Cau">`Cau`</a>: causative voice
 
-Note, that in Armenian this is a feature of verbs.
+Note, that in Armenian this is a feature of verbs. In causative constructions the subject is the entity “causing” the action. It generally translate to English as ‘cause/make/have/let/allow’ someone to perform action described by the main verb. 
 
-In causative constructions the subject is the entity “causing” the action. It generally translate to English as ‘cause/make/have/let/allow’ someone to perform action described by the main verb.
+The causative is expressed by the infix _-ցն-_ and is quite productive. Note, that the auxiliary _տալ_ (in various tenses and moods) is used to construct the causative voice, e.g. _վազել <b>տալ</b>_ “to <b>make</b> somebody run” or _վազե<b>ցն</b>ել <b>տալ</b>_ “lit: to <b>make</b> someone make someone run”.
 
-Many (lexicalized) verbs that have unrelated roots in other languages are formed are related by the causative suffix in Turkish, e.g., öl- “die” and öl-dür “kill” (to cause someone to die). Causative suffix is quite productive. 
+Causative construction in Armenian can have a periphrastic  future forms
 
-Multiple causative suffixes can be attached to a verb, and the number of causative suffixes are theoretically unbounded. In practice, however, the cases where more than two causative suffixes attached to a verb is rather rare. Often, two or more causative suffixes are used for emphasis and do not express multiple levels of causation.
+
+are now also labeled aux, although we strongly encourage the use of the subtype aux:pass in language that have a grammaticalized (periphrastic) passive.
+
+und used also for the transtivization strategies.
+make somebody do something
+
+ “be repeatedly / habitually” 
 
 Examples
 
@@ -77,4 +84,10 @@ Evi boya-t-tır-tık “We had someone to have the house painted”
 
 #### Examples
 
-* 
+պառկնել
+նստել
+խաղալ
+* _Մայրը <b>քնեցրեց</b> որդուն&nbsp;_ “<b></b>” (քնեց)
+
+* _<b>Սովորեցնում</b> էր նրան լեզու&nbsp;_ “<b></b>”
+* _Այդ բոլորը պատերազմ էր <b>հիշեցնում</b> էր նրան լեզու&nbsp;_ “<b></b>”
