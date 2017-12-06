@@ -42,7 +42,7 @@ action of the verb.
 
 #### Examples
 
-* _<b>գնա՛</b> տուն_ “go home!”
+* _<b>գնա՛</b> տուն_ “go home!”,
 * _<b>գնացե՛ք</b> տուն_ “go home!” (plural),
 * _<b>եղի՛ր</b> առողջ_ “be healthy!”,
 * _<b>եղե՛ք</b> առողջ_ “be healthy!” (plural)
