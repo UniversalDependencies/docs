@@ -350,7 +350,7 @@ The 39 treebanks are from the following 20 languages:
 * Swedish:
   * Swedish has all five prototypical constructions described above (and exemplified below). However, the `expl` relation is not used for inherent reflexives in any of the Swedish treebanks (see example 810 from UD_Swedish-LinES below).
     * UD_Swedish-LinES: Det regnade, och folk började småhuttra ute på verandan och drog sig långsamt in. (Translation: It was raining, and people started to tremble out on the veranda and slowly went inside.)
-~~~conllu
+~~~ conllu
 # visual-style	1	bgColor:lightgreen
 # hittoken:	1	Det	det	PRON	EX-P3SG	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	2	expl	_	_
 1	Det	det	PRON	EX-P3SG	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	2	expl	_	_
