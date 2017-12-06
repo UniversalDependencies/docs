@@ -348,7 +348,54 @@ The 39 treebanks are from the following 20 languages:
 * Slovenian:
   * V takšnem primeru se lahko bolnikovo stanje celo poslabša. (expletive "se", transl. "In this case, the patient's condition may even deteriorate.")
 * Swedish:
-  * Det är viktigt för dig att känna till de här nyheterna. (expletive "Det", transl. "It is important for you to be familiar with these news")
+  * Swedish has all five prototypical constructions described above (and exemplified below).
+    * Det är viktigt för dig att känna till de här nyheterna. (expletive "Det", transl. "It is important for you to be familiar with these news")
+    * UD_Swedish-LinES: Det finns en fråga som är mycket viktigare än checken, sa han. (Translation: There is a question that is much more important than the check, he said.)
+~~~ conllu
+# visual-style	4	bgColor:lightgreen
+# hittoken:	4	det	det	PRON	EX-P3SG	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	6	expl	_	_
+1	Men	men	CCONJ	_	_	11	cc	_	_
+2	även	även	ADV	_	_	6	mark	_	_
+3	om	om	SCONJ	_	_	2	fixed	_	_
+4	det	det	PRON	EX-P3SG	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	6	expl	_	_
+5	vore	vara	AUX	CNJ	Mood=Sub|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	_
+6	fel	fel	NOUN	IND-NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	11	advcl	_	_
+7	på	på	ADP	_	_	9	case	_	_
+8	min	jag	PRON	P1SG-GEN-SG	Case=Gen|Definite=Def|Gender=Com|Number=Sing|Poss=Yes|PronType=Prs	9	nmod:poss	_	_
+9	telefon	telefon	NOUN	SG-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	6	obl	_	_
+10	så	så	PART	_	_	11	discourse	_	_
+11	hjälper	hjälpa	VERB	PRES-ACT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+12	inte	inte	PART	NEG	_	11	advmod	_	_
+13	det	det	PRON	PERS-P3SG	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	11	nsubj	_	_
+14	oss	vi	PRON	PERS-P1PL-ACC	Case=Acc|Definite=Def|Gender=Com|Number=Plur|PronType=Prs	11	obj	_	_
+15	med	med	ADP	_	_	18	case	_	_
+16	det	det	DET	SG-DEF	Definite=Def|Gender=Neut|Number=Sing|PronType=Art	18	det	_	_
+17	verkliga	verklig	ADJ	POS-DEF	Case=Nom|Definite=Def|Degree=Pos|Number=Sing	18	amod	_	_
+18	problemet	problem	NOUN	SG-DEF-NOM	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	11	obl	_	SpaceAfter=No
+19	.	.	PUNCT	Period	_	11	punct	_	_
+
+~~~
+    * UD_Swedish-PUD: Det är rimligt att säga att Rocco Catalano arbetar, lever och andas retro. (Translation: It is reasonable to say that Rocco Catalano works, lives and breathes retro.)
+~~~ conllu
+# visual-style	1	bgColor:lightgreen
+# hittoken:	1	Det	det	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing	3	expl	_	_
+1	Det	det	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing	3	expl	_	_
+2	är	vara	AUX	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+3	rimligt	rimlig	ADJ	JJ|POS|NEU|SIN|IND|NOM	Case=Nom|Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
+4	att	att	PART	IE	_	5	mark	_	_
+5	säga	säga	VERB	VB|INF|AKT	VerbForm=Inf|Voice=Act	3	csubj	_	_
+6	att	att	SCONJ	SN	_	9	mark	_	_
+7	Rocco	Rocco	PROPN	PM|NOM	Case=Nom	9	nsubj	_	_
+8	Catalano	Catalano	PROPN	PM|NOM	Case=Nom	7	flat:name	_	_
+9	arbetar	arbeta	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	5	ccomp	_	SpaceAfter=No
+10	,	,	PUNCT	MID	_	11	punct	_	_
+11	lever	leva	VERB	VB|PRS|AKT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	9	conj	_	_
+12	och	och	CCONJ	KN	_	13	cc	_	_
+13	andas	andas	VERB	VB|PRS|SFO	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	9	conj	_	_
+14	retro	retro	ADJ	JJ|POS|UTR/NEU|SIN/PLU|IND/DEF|NOM	Case=Nom|Degree=Pos	9	obj	_	SpaceAfter=No
+15	.	.	PUNCT	MAD	_	3	punct	_	_
+
+~~~
 * Ukrainian:
   * Залишити слід на папері — це був вирішальний крок. (expletive "це", transl. "Leave the mark on paper - it was a decisive step.")
 
