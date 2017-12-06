@@ -313,6 +313,7 @@ The 39 treebanks are from the following 20 languages:
 * Finnish:
   * According to Holmberg and Nikanne (2002), Finnish has obligatory expletives in at least existential and extraposition constructions. However, the `expl` relation is only used in Finnish-FTB.
     * Se oli paska homma, että Jyrki loppu. (Translation: It was a shit thing for Jyrki to end.)
+
 ~~~ conllu
 # visual-style	1	bgColor:lightgreen
 # hittoken:	1	Se	se	PRON	Pron,Dem,Sg,Nom	Case=Nom|Number=Sing|PronType=Dem	8	expl	_	Alt=8_expl|Missed-Rel=phrm
@@ -327,6 +328,7 @@ The 39 treebanks are from the following 20 languages:
 9	.	.	PUNCT	Pun	_	8	punct	_	_
 
 ~~~
+
 * French:
   * Il ne se représenta pas en 1972. (expletive "se", transl. "He did not represent himself in 1972.")
 * Galician:
@@ -350,6 +352,7 @@ The 39 treebanks are from the following 20 languages:
 * Swedish:
   * Swedish has all five prototypical constructions described above (and exemplified below). However, the `expl` relation is not used for inherent reflexives in any of the Swedish treebanks (see example 810 from UD_Swedish-LinES below).
     * UD_Swedish-LinES: Det regnade, och folk började småhuttra ute på verandan och drog sig långsamt in. (Translation: It was raining, and people started to tremble out on the veranda and slowly went inside.)
+
 ~~~ conllu
 # visual-style	1	bgColor:lightgreen
 # hittoken:	1	Det	det	PRON	EX-P3SG	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	2	expl	_	_
@@ -371,7 +374,9 @@ The 39 treebanks are from the following 20 languages:
 16	.	.	PUNCT	Period	_	2	punct	_	_
 
 ~~~
+
     * UD_Swedish-LinES: Det finns en fråga som är mycket viktigare än checken, sa han. (Translation: There is a question that is much more important than the check, he said.)
+
 ~~~ conllu
 # visual-style	4	bgColor:lightgreen
 # hittoken:	4	det	det	PRON	EX-P3SG	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	6	expl	_	_
@@ -396,7 +401,9 @@ The 39 treebanks are from the following 20 languages:
 19	.	.	PUNCT	Period	_	11	punct	_	_
 
 ~~~
+
     * UD_Swedish-PUD: Det är rimligt att säga att Rocco Catalano arbetar, lever och andas retro. (Translation: It is reasonable to say that Rocco Catalano works, lives and breathes retro.)
+
 ~~~ conllu
 # visual-style	1	bgColor:lightgreen
 # hittoken:	1	Det	det	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing	3	expl	_	_
@@ -417,7 +424,9 @@ The 39 treebanks are from the following 20 languages:
 15	.	.	PUNCT	MAD	_	3	punct	_	_
 
 ~~~
+
     * UD_Swedish-PUD: Till sist måste vi göra det lättare för folk att rapportera misstänkta säkerhetsluckor och skadliga e-postmeddelanden. (Translation: Finally, we must make it easier for people to report suspected security gaps and harmful emails.)
+
 ~~~ conllu
 # visual-style	6	bgColor:lightgreen
 # hittoken:	6	det	det	PRON	PN|NEU|SIN|DEF|SUB/OBJ	Definite=Def|Gender=Neut|Number=Sing	5	expl	_	_
@@ -440,7 +449,9 @@ The 39 treebanks are from the following 20 languages:
 17	.	.	PUNCT	MAD	_	5	punct	_	_
 
 ~~~
+
     * UD_Swedish-LinES: Herr kommissionär, det visade sig att USA föraktar förhandlingar. (Translation: Mister commissioner, it turned out that the USA despises negotiations.)
+
 ~~~ conllu
 # visual-style	4	bgColor:lightgreen
 # hittoken:	4	det	det	PRON	EX-P3SG	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	5	expl	_	_
