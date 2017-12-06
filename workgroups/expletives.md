@@ -309,7 +309,7 @@ The 39 treebanks are from the following 20 languages:
 * English:
   * There has been talk that the night curfew might be implemented again. (expletive "there")
 * Finnish:
-  * According to Holmberg and Nikanne (2002), Finnish has obligatory expletives in at least existential and extraposition constructions. However, the `expl` relation is only used in Finnish-FTB.
+  * According to Holmberg and Nikanne (2002), Finnish has obligatory expletives in at least existential and extraposition constructions. However, the `expl` relation is only used in Finnish-FTB.
     * Se oli paska homma, että Jyrki loppu. (Translation: It was a shit thing for Jyrki to end.)
 * French:
   * Il ne se représenta pas en 1972. (expletive "se", transl. "He did not represent himself in 1972.")
