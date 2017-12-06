@@ -49,7 +49,7 @@ The finite and non-finite forms (non-reflexive and non-reciprocal) are labeled `
 
 Between active and passive. Needed also for the reflexive and reciprocal verbs (traditionally called medio-passiv); in this case, the form is marked with infix _-վ-_ (but the lemma is tagged as non-reflexive, non-reciprocal).
 
-Note, that there is a not large set of middle voice verbs marked with passive infix _-վ-_ (so-called passivizied middle verbs). Although these forms are morphologically very close to the passive and do not have morphologically related non-marked counterparts, they are tagged `Voice=Mid`. If there is a morphologically related non-marked counterpart, than the two verbs are represented by different lemmas.
+Note, that there is a not large set of middle voice verbs marked with passive infix _-վ-_ (so-called passivizied middle verbs). These forms are morphologically very close to the passive and do not have morphologically related non-marked counterparts, they are tagged `Voice=Mid`. If there is a morphologically related non-marked counterpart, than the two verbs are represented by different lemmas.
 
 #### Examples
 
