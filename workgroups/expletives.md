@@ -44,8 +44,7 @@ il faut 3 nouveaux recrutements \n it is-necessary 3 new recruitments
 Finnish is a partial pro-drop language, where subject pronouns can be dropped in the first and second person, but not the third. However, weather verbs do not take overt subjects except optionally in spoken language.
 
 ~~~ sdparse
-nyt (se) taas sataa \n
-now (it) again rains
+nyt (se) taas sataa \n now (it) again rains
 ~~~
 
 The Finnish-FTB treebank regularly annotates "se" as `expl`, but the original Finnish treebank consistently uses `nsubj`.
@@ -91,20 +90,16 @@ Il nageait quelques personnes dans le bassin ... \n it was-swimming a-few people
 Finnish, despite being partial pro-drop, have obligatory expletives in constructions similar to these, often explained by reference to the topic-comment structure of the language. Here are some relevant examples:
 
 ~~~ sdparse
-Lapsia leikkii kadulla \n
-children play in-street
+Lapsia leikkii kadulla \n children play in-street
 ~~~
 ~~~ sdparse
-Kadulla leikkii lapsia \n
-in-street play children
+Kadulla leikkii lapsia \n in-street play children
 ~~~
 ~~~ sdparse
-*Leikkii lapsia kadulla \n
-play children in-street
+*Leikkii lapsia kadulla \n play children in-street
 ~~~
 ~~~ sdparse
-Sitä leikkii lapsia kadulla \n
-EXP play children in-street
+Sitä leikkii lapsia kadulla \n EXP play children in-street
 ~~~
 
 Again, Finnish-FTB uses `expl` but the original Finnish treebank does not.
