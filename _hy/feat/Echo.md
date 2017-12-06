@@ -27,7 +27,7 @@ The word is a copy of a previous word. Тhis would add the meaning of distributi
 
 * _երկու-<b>երկու</b>_ “two by two”,
 * _զույգ-<b>զույգ</b>_ “in pairs”
-* _փունջ-<b>փունջ</b>_ “each punch separately”,
+* _փունջ-<b>փունջ</b>_ “each bunch separately”,
 * _մեծ-<b>մեծ</b>_ “too big”,
 * _գույն-<b>գույն</b>_ “of many colors”,
 * _պես-<b>պես</b>_ “different, of many types”,
@@ -40,8 +40,7 @@ The word is a copy of a previous word. Тhis would add the meaning of distributi
 
 The word fully or partly rhymes with a previous or following word but it is not identical to it and
 typically it does not have any meaning of its own. The echoed part is a form that does not occur elsewhere than in compounds.
-In Armenian it
-generalizes or specifies the meaning of the previous or following word and translates
+In Armenian it generalizes or specifies the meaning of the previous or following word and is translated
 as “or something”, “etc.” etc.
 
 * _տուն-<b>մուն</b>_ “house and etc.”,
