@@ -39,6 +39,8 @@ il faut 3 nouveaux recrutements \n it is-necessary 3 new recruitments
 * 3 nouveaux recrutements faut
 ~~~
 
+**Joakim:** Could you add the dependencies to this example? In particular, what relation is assigned to "recrutements"?
+
 ### Existential sentences
 
 Existential sentences (sometimes called presentation sentences) are sentences that involve an intransitive verb and an indefinite noun phrase that is interpreted as the logical subject of the verb but does not occur in the canonical subject position, which is instead filled by an expletive. 
