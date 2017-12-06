@@ -348,7 +348,7 @@ The 39 treebanks are from the following 20 languages:
 * Slovenian:
   * V takšnem primeru se lahko bolnikovo stanje celo poslabša. (expletive "se", transl. "In this case, the patient's condition may even deteriorate.")
 * Swedish:
-  * Swedish has all five prototypical constructions described above (and exemplified below). However, the `expl` relation is not used for inherent reflexives
+  * Swedish has all five prototypical constructions described above (and exemplified below). However, the `expl` relation is not used for inherent reflexives in any of the Swedish treebanks (see example 810 from UD_Swedish-LinES below).
     * UD_Swedish-LinES: Det regnade, och folk började småhuttra ute på verandan och drog sig långsamt in. (Translation: It was raining, and people started to tremble out on the veranda and slowly went inside.)
 ~~~conllu
 # visual-style	1	bgColor:lightgreen
@@ -438,6 +438,23 @@ The 39 treebanks are from the following 20 languages:
 15	skadliga	skadlig	ADJ	JJ|POS|UTR/NEU|PLU|IND/DEF|NOM	Case=Nom|Degree=Pos|Number=Plur	16	amod	_	_
 16	e-postmeddelanden	e-postmeddelande	NOUN	NN|NEU|PLU|IND|NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Plur	13	conj	_	SpaceAfter=No
 17	.	.	PUNCT	MAD	_	5	punct	_	_
+
+~~~
+    * UD_Swedish-LinES: Herr kommissionär, det visade sig att USA föraktar förhandlingar. (Translation: Mister commissioner, it turned out that the USA despises negotiations.)
+~~~ conllu
+# visual-style	4	bgColor:lightgreen
+# hittoken:	4	det	det	PRON	EX-P3SG	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	5	expl	_	_
+1	Herr	herr	NOUN	SG-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	2	nmod	_	_
+2	kommissionär	kommissionär	NOUN	SG-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	5	vocative	_	SpaceAfter=No
+3	,	,	PUNCT	Comma	_	2	punct	_	_
+4	det	det	PRON	EX-P3SG	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	5	expl	_	_
+5	visade	visa	VERB	PAST-ACT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+6	sig	sig	PRON	RFL-ACC	Case=Acc|Definite=Def|PronType=Prs	5	obj	_	_
+7	att	att	SCONJ	_	_	9	mark	_	_
+8	USA	USA	PROPN	SG-NOM	Case=Nom|Number=Sing	9	nsubj	_	_
+9	föraktar	förakta	VERB	PRES-ACT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	5	csubj	_	_
+10	förhandlingar	förhandling	NOUN	PL-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Plur	9	obj	_	SpaceAfter=No
+11	.	.	PUNCT	Period	_	5	punct	_	_
 
 ~~~
 * Ukrainian:
