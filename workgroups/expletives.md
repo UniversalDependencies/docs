@@ -41,6 +41,15 @@ il faut 3 nouveaux recrutements \n it is-necessary 3 new recruitments
 
 **Joakim:** Could you add the dependencies to this example? In particular, what relation is assigned to "recrutements"?
 
+Finnish is a partial pro-drop language, where subject pronouns can be dropped in the first and second person, but not the third. However, weather verbs do not take overt subjects except optionally in spoken language.
+
+~~~sdpare
+nyt (se) taas sataa
+now (it) again rains
+~~~
+
+The Finnish-FTB treebank regularly annotates "se" as `expl`, but the original Finnish treebank consistently uses `nsubj`.
+
 ### Existential sentences
 
 Existential sentences (sometimes called presentation sentences) are sentences that involve an intransitive verb and an indefinite noun phrase that is interpreted as the logical subject of the verb but does not occur in the canonical subject position, which is instead filled by an expletive. 
