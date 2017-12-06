@@ -311,6 +311,19 @@ The 39 treebanks are from the following 20 languages:
 * Finnish:
   * According to Holmberg and Nikanne (2002), Finnish has obligatory expletives in at least existential and extraposition constructions. However, the `expl` relation is only used in Finnish-FTB.
     * Se oli paska homma, että Jyrki loppu. (Translation: It was a shit thing for Jyrki to end.)
+~~~ sdparse
+# visual-style	1	bgColor:lightgreen
+# hittoken:	1	Se	se	PRON	Pron,Dem,Sg,Nom	Case=Nom|Number=Sing|PronType=Dem	8	expl	_	Alt=8_expl|Missed-Rel=phrm
+1	Se	se	PRON	Pron,Dem,Sg,Nom	Case=Nom|Number=Sing|PronType=Dem	8	expl	_	Alt=8_expl|Missed-Rel=phrm
+2	oli	olla	AUX	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	_
+3	paska	paska	ADJ	A,Sg,Nom	Case=Nom|Number=Sing	4	amod	_	_
+4	homma	homma	NOUN	N,Sg,Nom	Case=Nom|Number=Sing	0	root	_	_
+5	,	,	PUNCT	Pun	_	4	punct	_	_
+6	että	että	SCONJ	Pcle,CS	_	8	mark	_	_
+7	Jyrki	jyrki	PROPN	N,Prop,Sg,Nom	Case=Nom|Number=Sing	8	nsubj	_	_
+8	loppu	loppua	VERB	V,Act,Ind,Past,Sg3	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	csubj:cop	_	_
+9	.	.	PUNCT	Pun	_	8	punct	_	_
+~~~
 * French:
   * Il ne se représenta pas en 1972. (expletive "se", transl. "He did not represent himself in 1972.")
 * Galician:
