@@ -29,7 +29,7 @@ happen, without adding any attitude of the speaker.
 
 * _վազելու <b>եմ</b>_ "<b>I am going</b> to run",
 * _վազելու <b>էի</b>_ "<b>am going</b> to run",
-* _վազելու <b>եղա</b>_ "<b>I was about</b> to run"’
+* _վազելու <b>եղա</b>_ "(if) <b>I intended</b> to run"’
 * _տուն <b>ունեմ</b>_ "<b>I have</b> a house",
 * _տուն <b>ունեի</b>_ "<b>I had</b> a house",
 * _տուն <b>ունեցա</b>_ "<b>I got</b> a house",
