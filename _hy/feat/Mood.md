@@ -60,12 +60,12 @@ The negation of conditional mood is formed periphrastically using the special ne
 
 * _<b>կգնայի</b> տուն_ “<b>I would go</b> home, (if)”,
 * _<b>կգնամ</b> տուն_ “<b>I will go</b> home, (if)”,
-* _չեմ <b>գնա</b> տուն_ “I will not <b>go</b> home, if”,
-* _չէի <b>գնա</b> տուն_ “I would not <b>go</b> home, if”,
-* _վազելու <b>կլինեի</b>_ “<b>I would be going</b> to run, if”,
-* _վազելու <b>կլինեմ</b>_ “<b>I will be going</b> to run, if”,
-* _տուն <b>կունենայի</b>_ “<b>I would have</b> a house, if”,
-* _տուն <b>կունենամ</b> տուն_ “<b>I will have</b> a house, if”
+* _չեմ <b>գնա</b> տուն_ “I will not <b>go</b> home, (if)”,
+* _չէի <b>գնա</b> տուն_ “I would not <b>go</b> home, (if)”,
+* _վազելու <b>կլինեի</b>_ “<b>I would be going</b> to run, (if)”,
+* _վազելու <b>կլինեմ</b>_ “<b>I will be going</b> to run, (if)”,
+* _տուն <b>կունենայի</b>_ “<b>I would have</b> a house, (if)”,
+* _տուն <b>կունենամ</b> տուն_ “<b>I will have</b> a house, (if)”
 
 ### <a name="Sub">`Sub`</a>: subjunctive / conjunctive / optative
 
@@ -80,7 +80,7 @@ otherwise uncertain. In some contexts the mood expresses also the desire that th
 * _վազելու <b>լինեի</b>_ “(if) <b>I would intend</b> to run”,
 * _վազելու <b>լինեմ</b>_ “(if) <b>I intend</b> to run”,
 * _տուն <b>ունենայի</b>_ “I wish <b>I had</b> a house”,
-* _տուն <b>ունենամ</b>_ “<b>I'd (better) have</b> a house, (if) <b>I have</b> a house”
+* _տուն <b>ունենամ</b>_ “<b>I'd (better) have</b> a house; (if) <b>I have</b> a house”
 
 ### <a name="Nec">`Nec`</a>: necessitative
 
@@ -88,7 +88,7 @@ The necessitative mood expresses necessity and corresponds to the modal verbs �
 
 Armenian has present and imperfect necessitative, both formed periphrastically using the special mood particles _<b>պիտի</b>_ or _<b>պետք է</b>_. The content verb expresses person, number, tense, aspect, voice and is in subjunctive mood.
 
-The mood paricle _<b>պիտի</b>_ is historically present tense (`Ind`, `Sing`, `Person=3`) of the verb _<b>պիտիմ</b>_ “to by necessary, useful”. The impersonal predicative _<b>պետք է</b>_ “lit: is needed” accompanied with subjunctive finite form of verbs is used as a variants of mood particle. This expresses compulsary, oblicative necessity.
+The mood particle _<b>պիտի</b>_ is historically present tense of the verb _<b>պիտիմ</b>_ (`Ind`, `Sing`, `Person=3`) “to by necessary, useful”. The impersonal predicative _<b>պետք է</b>_ “lit: is needed” accompanied with subjunctive finite form of verbs is used as a variant of mood particle. This expresses compulsary, oblicative necessity.
 
 The content verb is not marked as necessitative because it can also be used in present or imperfect subjunctive. The mood particles  will have `Mood=Nec`.
 
