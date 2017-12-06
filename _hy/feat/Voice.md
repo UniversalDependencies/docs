@@ -67,7 +67,7 @@ Note, that in Armenian this is a feature of verbs. In causative constructions th
 
 The causative is expressed by the infix _-ցն-_ and is quite productive. Note, that the auxiliary _տալ&nbsp;_ (in various tenses and moods) is used to construct the causative voice, e.g. _վազել_.`Mid` _<b>տալ</b>_ “to <b>make</b> somebody run” or _վազ<b>եցն</b>ել_.`Cau` _<b>տալ</b>_ “lit: to <b>make</b> someone <b>make</b> someone run”.
 
-e.g. _հասկանալ_.`Act` _տալ&nbsp;_ “lit: to <b>make</b> someone understand”, _հասկ<b>ացն</b>ել&nbsp;_ “lit: to <b>make</b> understand” _հասկ<b>ացն</b>ել_`Cau` _տալ&nbsp;_ “lit: to <b>make</b> someone <b>make</b> someone understand”
+e.g. _հասկանալ_.`Act` _տալ&nbsp;_ “lit: to <b>make</b> somebody understand”, _հասկ<b>ացն</b>ել&nbsp;_ “lit: to <b>make</b> somebody understand” _հասկ<b>ացն</b>ել_`Cau` _տալ&nbsp;_ “lit: to <b>make</b> someone <b>make</b> someone understand”
 
 #### Examples
 
