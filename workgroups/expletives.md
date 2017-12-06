@@ -162,6 +162,7 @@ Il est parfois difficile de rester calme \n It is sometimes difficult to stay ca
 Il est possible que Paul soit déjà parti \n It is possible that Paul be already gone
 ~~~
 
+The same type of construction is found in Finnish, but only Finnish-FTB uses `expl`. In the original Finnish treebank the expletive appears to be labeled `nsubj` and the clause `ccomp`. Perhaps this is a competing analysis.
 
 ## Object Expletives
 
@@ -298,7 +299,7 @@ The 39 treebanks are from the following 20 languages:
  
 [Statistics per treebank](http://folk.uio.no/liljao/expl-stats_v2.1.txt) (absolute expletive counts, total, and proportion of expletives out of all tokens)
 
-### Examples
+### Examples and explanations
 
 (Translations are provided by Google translate in many cases, feel free to correct if you know the language in question!)
 
@@ -313,7 +314,8 @@ The 39 treebanks are from the following 20 languages:
 * English:
   * There has been talk that the night curfew might be implemented again. (expletive "there")
 * Finnish:
-  * ajatus oli sekö, että aloitetaan kysymyksistä? (expletive pronoun marked as Clitic=Ko "sekö", transl. "the idea was to start asking questions?")
+  * According to Holmberg and Nikanne (2002), Finnish has obligatory expletives in at least existential and extraposition constructions. However, the `expl` relation is only used in Finnish-FTB.
+    * Se oli paska homma, että Jyrki loppu. (Translation: It was a shit thing for Jyrki to end.)
 * French:
   * Il ne se représenta pas en 1972. (expletive "se", transl. "He did not represent himself in 1972.")
 * Galician:
@@ -339,3 +341,7 @@ The 39 treebanks are from the following 20 languages:
 * Ukrainian:
   * Залишити слід на папері — це був вирішальний крок. (expletive "це", transl. "Leave the mark on paper - it was a decisive step.")
 
+## References
+
+Anders Holmberg and Urpo Nikkane. [Expletives, Subjects and Topics in Finnish](http://www.zacharski.org/papers/ghz/Expletives_subjects_and_topics.pdf). In 
+Peter Svenonius (ed.) *Subjects, expletives, and the EPP*. Oxford University Press. 2002.
