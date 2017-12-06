@@ -311,7 +311,7 @@ The 39 treebanks are from the following 20 languages:
 * Finnish:
   * According to Holmberg and Nikanne (2002), Finnish has obligatory expletives in at least existential and extraposition constructions. However, the `expl` relation is only used in Finnish-FTB.
     * Se oli paska homma, että Jyrki loppu. (Translation: It was a shit thing for Jyrki to end.)
-~~~ sdparse
+~~~ conllu
 # visual-style	1	bgColor:lightgreen
 # hittoken:	1	Se	se	PRON	Pron,Dem,Sg,Nom	Case=Nom|Number=Sing|PronType=Dem	8	expl	_	Alt=8_expl|Missed-Rel=phrm
 1	Se	se	PRON	Pron,Dem,Sg,Nom	Case=Nom|Number=Sing|PronType=Dem	8	expl	_	Alt=8_expl|Missed-Rel=phrm
