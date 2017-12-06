@@ -43,7 +43,7 @@ il faut 3 nouveaux recrutements \n it is-necessary 3 new recruitments
 
 Finnish is a partial pro-drop language, where subject pronouns can be dropped in the first and second person, but not the third. However, weather verbs do not take overt subjects except optionally in spoken language.
 
-~~~sdpare
+~~~ sdparse
 nyt (se) taas sataa \n
 now (it) again rains
 ~~~
@@ -90,19 +90,19 @@ Il nageait quelques personnes dans le bassin ... \n it was-swimming a-few people
 
 Finnish, despite being partial pro-drop, have obligatory expletives in constructions similar to these, often explained by reference to the topic-comment structure of the language. Here are some relevant examples:
 
-~~~sdparse
+~~~ sdparse
 Lapsia leikkii kadulla \n
 children play in-street
 ~~~
-~~~sdparse
+~~~ sdparse
 Kadulla leikkii lapsia \n
 in-street play children
 ~~~
-~~~sdparse
+~~~ sdparse
 *Leikkii lapsia kadulla \n
 play children in-street
 ~~~
-~~~sdparse
+~~~ sdparse
 Sitä leikkii lapsia kadulla \n
 EXP play children in-street
 ~~~
