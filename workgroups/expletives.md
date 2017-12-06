@@ -358,7 +358,14 @@ French exhibits all of the prototypical constructions including some special var
   * Πιστεύω ότι είναι δίκαιο να το αναγνωρίσουμε αυτό. (expletive "το", transl. "I believe it is fair to recognize this.")
 
 ### Italian
-  * L'intrigo internazionale si è svolto tra Beirut, Ginevra e Tripoli nel 1990. (expletive "si", transl. "International intrigue took place between Beirut, Geneva and Tripoli in 1990.")
+The `expl` relation is used exclusively with clitic pronouns (Clitic=Yes). In a
+majority of cases the clitic pronoun is in 3rd person, but also found
+in 1st and 2nd person, both singular and plural. The `expl`relation is subtyped: `expl:impers` for the impersonal construction and `expl:pass`for impersonal passives.
+The expletive relation is used in the following constructions:
+* impersonal construction
+* impersonal passive
+* existential sentences
+* inherent reflexives, these are often enclitic
 
 ### Norwegian
   * Det var veldig positivt at han klarte å senke tiden sin (expletive "Det", transl. "It was very positive that he managed to lower his time")
