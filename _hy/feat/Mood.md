@@ -27,13 +27,13 @@ happen, without adding any attitude of the speaker.
 
 #### Examples
 
-* _վազելու <b>եմ</b>_ “<b>I am going</b> to run",
-* _վազելու <b>էի</b>_ “<b>am going</b> to run",
-* _վազելու <b>եղա</b>_ “(if) <b>I intended</b> to run"’
-* _տուն <b>ունեմ</b>_ “<b>I have</b> a house",
-* _տուն <b>ունեի</b>_ “<b>I had</b> a house",
-* _տուն <b>ունեցա</b>_ “<b>I got</b> a house",
-* _<b>գնացի</b> տուն_ “<b>I went</b> home"
+* _վազելու <b>եմ</b>_ “<b>I am going</b> to run”,
+* _վազելու <b>էի</b>_ “<b>am going</b> to run”,
+* _վազելու <b>եղա</b>_ “(if) <b>I intended</b> to run”,
+* _տուն <b>ունեմ</b>_ “<b>I have</b> a house”,
+* _տուն <b>ունեի</b>_ “<b>I had</b> a house”,
+* _տուն <b>ունեցա</b>_ “<b>I got</b> a house”,
+* _<b>գնացի</b> տուն_ “<b>I went</b> home”
 
 ### <a name="Imp">`Imp`</a>: imperative
 
@@ -42,10 +42,10 @@ action of the verb.
 
 #### Examples
 
-* _<b>գնա՛</b> տուն_ “go home!"
-* _<b>գնացե՛ք</b> տուն_ “go home!" (plural)
-* _<b>եղի՛ր</b> առողջ_ “be healthy!"
-* _<b>եղե՛ք</b> առողջ_ “be healthy!" (plural)
+* _<b>գնա՛</b> տուն_ “go home!”
+* _<b>գնացե՛ք</b> տուն_ “go home!” (plural),
+* _<b>եղի՛ր</b> առողջ_ “be healthy!”,
+* _<b>եղե՛ք</b> առողջ_ “be healthy!” (plural)
 
 ### <a name="Cnd">`Cnd`</a>: conditional
 
@@ -58,14 +58,14 @@ The negation of conditional mood is formed periphrastically using the special ne
 
 #### Examples
 
-* _<b>կգնայի</b> տուն_ “<b>I should go</b> home, if",
-* _<b>կգնամ</b> տուն_ “<b>I shall go</b> home, if”,
-* _չեմ <b>գնա</b> տուն_ “I shall not <b>go</b> home, if”,
-* _չէի <b>գնա</b> տուն_ “I should not <b>go</b> home, if”,
-* _վազելու <b>կլինեի</b>_ “<b>I should be going</b> to run, if”,
-* _վազելու <b>կլինեմ</b>_ “<b>I shall be going</b> to run, if”,
-* _տուն <b>կունենայի</b>_ “<b>I should have</b> a house, if”,
-* _տուն <b>կունենամ</b> տուն_ “<b>I shall have</b> a house, if”
+* _<b>կգնայի</b> տուն_ “<b>I would go</b> home, if”,
+* _<b>կգնամ</b> տուն_ “<b>I will go</b> home, if”,
+* _չեմ <b>գնա</b> տուն_ “I will not <b>go</b> home, if”,
+* _չէի <b>գնա</b> տուն_ “I would not <b>go</b> home, if”,
+* _վազելու <b>կլինեի</b>_ “<b>I would be going</b> to run, if”,
+* _վազելու <b>կլինեմ</b>_ “<b>I will be going</b> to run, if”,
+* _տուն <b>կունենայի</b>_ “<b>I would have</b> a house, if”,
+* _տուն <b>կունենամ</b> տուն_ “<b>I will have</b> a house, if”
 
 ### <a name="Sub">`Sub`</a>: subjunctive / conjunctive / optative
 
@@ -77,7 +77,7 @@ otherwise uncertain. In some contexts the mood expresses also the desire that th
 
 * _<b>գնայի</b> տուն_ “I wish <b>I went</b> home”,
 * _<b>գնամ</b> տուն_ “<b>I'd (better) go</b> home”,
-* _վազելու <b>լինեի</b>_ “if <b>I would inted</b> to run”,
+* _վազելու <b>լինեի</b>_ “if <b>I would intend</b> to run”,
 * _վազելու <b>լինեմ</b>_ “if <b>I am about</b> to run”,
 * _տուն <b>ունենայի</b>_ “I wish <b>I had</b> a house”,
 * _տուն <b>ունենամ</b>_ “I wish <b>I'd (better) have</b> a house”
@@ -94,5 +94,5 @@ The content verb is not marked as necessitative because it can also be used in p
 
 #### Examples
 
-* նա _<b>պիտի (պետք է) գնա</b> տուն_ “He should go home”,
-* նա _<b>պիտի (պետք է) գնար</b> տուն_ “He should have gone home”
+* նա _<b>պիտի (պետք է) գնա</b> տուն_ “He would go home”,
+* նա _<b>պիտի (պետք է) գնար</b> տուն_ “He would have gone home”
