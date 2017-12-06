@@ -18,6 +18,7 @@ udver: '2'
 Voice is a feature of verbs that helps map the traditional syntactic functions,
 such as subject and object, to semantic roles, such as agent and patient.
 
+
 ### <a name="Act">`Act`</a>: active voice
 
 Prototypically, the subject of the verb is the doer of the action (agent), the object is affected by the action (patient).
@@ -46,11 +47,18 @@ The finite and non-finite forms (non-reflexive and non-reciprocal) are labeled `
 
 ### <a name="Mid">`Mid`</a>: middle voice
 
-Between active and passive. Needed also for the reflexive and reciprocal verbs (traditionally called medio-passiv or passivizied middle verbs).
+Between active and passive. Needed also for the reflexive and reciprocal verbs (traditionally called medio-passiv); in this case, the form is marked with infix _-վ-_ (but the lemma is tagged as non-reflexive, non-reciprocal).
+
+Note, that there is a not large set of middle voice verbs marked with passive infix _-վ-_ (so-called passivizied middle verbs). Although these forms are morphologically very close to the passive and do not have morphologically related non-marked counterparts, they are tagged `Voice=Mid`. If there is a morphologically related non-marked counterpart, than the two verbs are represented by different lemmas.
 
 #### Examples
 
-* 
+* _Նա <b>վախենում</b> է մթից&nbsp;_ “<b></b>”
+* _Նա արագ <b>լվացվեց</b>, <b>հագնվեց</b> ու թողեց սենյակը&nbsp;_ “<b></b>”,
+* _Գտավ նրան, <b>գրկախառնվեցին</b>, <b>համբուրվեցին</b> սրտագին&nbsp;_ “<b></b>”,
+* _Մենք <b>հարձակվեցինք</b> թշնամու վրա&nbsp;_ “We <b>attacked</b> the enemy”,
+* _Նա <b>պատրաստվում</b> էր <b>նվիրվելու</b> բեմին&nbsp;_ “<b></b>”,
+* _Ամեն ինչ տեսավ, <b>բռնկվեց</b> հոգին&nbsp;_ “<b></b>” (but, _Քաղաքում գործադուլ է <b>բռնկել</b>&nbsp;_ “<b></b>”)
 
 ### <a name="Cau">`Cau`</a>: causative voice
 
