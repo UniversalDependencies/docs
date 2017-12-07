@@ -15,7 +15,7 @@ udver: '2'
 </tr>
 </table>
 
-Voice is a feature of verbs that helps map the traditional syntactic functions,
+Voice is a feature of verbs that helps to map the traditional syntactic functions,
 such as subject and object, to semantic roles, such as agent and patient. See also the related feature [subcategorization](Subcat).
 
 ### <a name="Act">`Act`</a>: active voice
@@ -38,26 +38,24 @@ The finite and non-finite forms of verbs are labeled `Voice=Pass` in the passive
 
 #### Examples
 
-* _Առաջարկությունը <b>մերժվեց</b> (մասնակիցների կողմից)&nbsp;_ “<b></b>”,
+* _Առաջարկությունը <b>մերժվեց</b> (մասնակիցների կողմից)&nbsp;_ “The suggestion <b>was denied</b> (by the participants)”,
 * _Նա <b>արհամարվում</b> է ժողովրդից&nbsp;_ “He is <b>despised</b> by the people”,
 * _Գետինը <b>ծածկված</b> է ձյունով&nbsp;_ “Earth is <b>covered</b> by snow”,
-* _Դրա մասին շատ է <b>խոսվել</b>&nbsp;_ “It was <b>spoken</b> much about that”
+* _Դրա մասին շատ է <b>խոսվել</b>&nbsp;_ “It was <b>spoken</b> much about that”.
 
 ### <a name="Mid">`Mid`</a>: middle voice
 
 Between active and passive. Needed also for the reflexive and reciprocal verbs (traditionally called medio-passiv); in this case, the verbs are marked with passiv infix _-վ-_ (but the lemma is tagged as non-reflexive, non-reciprocal).
 
-Note, that there is a not-large set of middle voice verbs marked with passive infix _-վ-_ (so-called passivizied middle verbs). These forms are morphologically very close to the passive, do not have morphologically related non-marked counterparts and are tagged `Voice=Mid`. If there is a morphologically related non-marked counterpart, than the two verbs are represented by different lemmas (e.g. _վերաբերվել&nbsp;_.`Mid` “treat, be about”, but _վերաբերել&nbsp;_.`Act` “refer to”).
+Note, that there is a not large set of middle voice verbs marked with passive infix _-վ-_ (so-called passivizied middle verbs). These forms are morphologically very close to the passive, do not have morphologically related non-marked counterparts and are tagged `Voice=Mid`. If there is a morphologically related non-marked counterpart, than the two verbs are represented by different lemmas (e.g. _վերաբերվել&nbsp;_.`Mid` “treat, be about”, but _վերաբերել&nbsp;_.`Act` “refer to”).
 
 #### Examples
 
-* _Նա <b>վախենում</b> է մթից&nbsp;_ “<b></b>”
-* _Նա արագ <b>լվացվեց</b>, <b>հագնվեց</b> ու թողեց սենյակը&nbsp;_ “<b></b>”,  (lit: he wash oneself, he dress oneself)
-* _Գտավ նրան, <b>գրկախառնվեցին</b>, <b>համբուրվեցին</b> սրտագին&nbsp;_ “<b></b>”  (lit: they embrace each other, they kiss each other)”,
+* _Նա <b>վախենում</b> է մթից&nbsp;_ “He is <b>afraid</b> of darkness”,
+* _Նա արագ <b>լվացվեց</b>, <b>հագնվեց</b>&nbsp;_ “He <b>washed</b> and <b>dressed</b> quickly  (lit: he wash oneself, he dress oneself)”
+* _Նրանք <b>գրկախառնվեցին</b>, <b>համբուրվեցին</b>&nbsp;_ “They <b>emraced</b> and <b>kissed</b> each other”,
 * _Մենք <b>հարձակվեցինք</b> թշնամու վրա&nbsp;_ “We <b>attacked</b> the enemy”,
-* _Նա <b>պատրաստվում</b> էր <b>նվիրվելու</b> բեմին&nbsp;_ “<b></b>”,
-* _Ամեն ինչ տեսավ, <b>բռնկվեց</b> հոգին&nbsp;_ “<b></b>” (but, _Քաղաքում գործադուլ է <b>բռնկել</b>&nbsp;_ “<b></b>”)
-* _Ամիսներ անց բոլորն էլ <b>հաշտվեցին</b> այդ մտքի հետ&nbsp;_ “<b></b>”
+* _Ամիսներ անց բոլորն էլ <b>հաշտվեցին</b> այդ մտքի հետ&nbsp;_ “After several months every body <b>got</b> over this ”
 
 ### <a name="Cau">`Cau`</a>: causative voice
 
