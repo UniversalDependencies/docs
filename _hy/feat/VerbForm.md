@@ -17,22 +17,27 @@ udver: '2'
 </table>
 
 Even though the name of the feature seems to suggest that it is used
-exclusively with [verbs](VERB), it is not the case. Some verb
-forms in some languages actually form a gray zone between verbs and
-other parts of speech ([nouns](NOUN), [adjectives](ADJ)
-and [adverbs](ADV)). For instance, participles may be either
-classified as verbs or as adjectives, depending on language and
-context. In both cases `VerbForm=Part` may be used to separate them
-from other verb forms or other types of adjectives.
+exclusively with [verbs](VERB). The `Part` value can be used also with adjectives. It distinguishes participles from other verb forms, and participial adjectives from other adjectives.
 
 ### <a name="Fin">`Fin`</a>: finite verb
 
-Rule of thumb: if it has non-empty [Mood](), it is finite. But beware
-that some tagsets conflate verb forms and moods into one feature.
+Rule of thumb: if it has non-empty [Mood](), it is finite. In Armenian this applies to conditional, indicative, imperative and subjunctive forms.
 
 #### Examples
 
-* [en] _I <b>do</b>, he <b>does</b>_
+* _несу, несёшь, несёт, несём, несёте, несут_ &nbsp; “I go, you go, he/she/it goes, we go, you go, they go”
+* _неси, несите_ &nbsp;  “carry” (imperative in different persons and numbers)
+* _буду, будешь, будет, будем, будете, будут_ &nbsp; “I will be, you will be, he/she/it will be, we will be, you will be, they will be”
+* _будь, будьте_ &nbsp;“be” (imperative in different persons and numbers)
+
+- _nesu, neseš, nese, neseme, nesete, nesou_ &nbsp;“I carry, you carry, he/she/it carries, we carry, you carry, they carry”
+- _nes, nesme, neste_ &nbsp;“carry” (imperative in different persons and numbers)
+- _jsem, jsi, je, jsme, jste, jsou_ &nbsp;“I am, you are, he/she/it is, we are, you are, they are”
+- _budu, budeš, bude, budeme, budete, budou_ &nbsp;“I will be, you will be, he/she/it will be, we will be, you will be, they will be”
+- _bych, bys, by, bychom, byste, by_ &nbsp;“I would, you would, he/she/it would, we would, you would, they would”
+- _buď, buďme, buďte_ &nbsp;“be” (imperative in different persons and numbers)
+
+
 
 ### <a name="Inf">`Inf`</a>: infinitive
 
