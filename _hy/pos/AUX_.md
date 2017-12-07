@@ -18,7 +18,8 @@ grammatical distinctions not carried by the lexical verb.
 Armenian auxiliary verbs can be divided into:
 
 - tense auxiliaries, used to form compound tenses represented by _եմ&nbsp;_ and _էի&nbsp;_ “be”;
-- aspectual auxiliaries, used to form so-called “secondary compound tenses” represented by _լինեմ (լինել)&nbsp;_ “be repeatedly / habitually”.
+- aspectual auxiliaries, used to form so-called “secondary compound tenses” represented by _լինեմ (լինել)&nbsp;_ “be repeatedly / habitually”,
+- voice auxiliary, used to form periphrastic causative represented by _tal&nbsp;_ “cause/make/have/let/allow someone to perform action”.
 
 ### Examples
 
@@ -42,6 +43,11 @@ Note, that fintie present and imperfect forms of _եմ&nbsp;_ and _էի&nbsp;_ a
   _գնալու <b>լինել</b>&nbsp;_ “to intend to go, to be going”,
   _գնացած <b>լինել</b>&nbsp;_ “to be gone”,
   _գնալիս <b>լինել</b>&nbsp;_ “to be in the process of going”
+
+- Causative voice. The finite form of _տալ&nbsp;_ (in various tenses and moods) is combined with infinitve of the content verb. The auxiliary expresses person, number, tense and mood. Only the auxiliary will have `Voice=Cau`. There will be also voice information at the infinitive.
+  _հասկանալ_.`Act` _<b>տալ</b>&nbsp;_.`Cau` “lit: to <b>make</b> somebody understand”,
+  _հասկ<b>ացն</b>ել&nbsp;_.`Cau` “lit: to <b>make</b> somebody understand” (morphological causative),
+  _հասկ<b>ացն</b>ել_.`Cau` _</b>տալ</b>&nbsp;_.`Cau` “lit: to <b>make</b> someone <b>make</b> someone understand”
 
 Note, that in Armenian copulas are also tagged `AUX` and the definition of copula sentences has been extended
 to location-existentials (_Նա տանն <b>է</b>։ / Նա տանն է <b>լինում</b>։&nbsp;_ “He <b>is</b> at home.”) Hence almost all occurrences of _եմ&nbsp;_ and _լինեմ (լինել)&nbsp;_ should be now tagged `AUX`.
