@@ -14,7 +14,7 @@ udver: '2'
 </tr>
 </table>
 
-Degree of comparison is inflectional feature of some [adjectives](ADJ) and [adverbs](ADV).
+Degree of comparison is inflectional feature of some [adjectives](hy-pos/ADJ) and [adverbs](hy-pos/ADV).
 
 The second degree of adjective or adverb is modified through the adverb _ավելի_ “more” e.g. _ավելի գեղեցիկ_ “more beautiful”; _ավելի արագ_ “more quickly”. We only annotate this adverb with the second degree feature.
 
