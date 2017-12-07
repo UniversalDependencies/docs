@@ -34,4 +34,4 @@ Note that some adjectives and most adverbs in Armenian don’t have a degree fea
 
 ### Border cases
 
-Resultative, subject, destinative participles lie on the border between verbs and adjectives. Core participial forms are tagged [VERB]() (used in predication). As participial adjectives they are tagged `ADJ` and thus modify nouns.
+Resultative, subject, destinative participles lie on the border between verbs and adjectives. Core participial forms are tagged [VERB]() (used in predication). As participial adjectives they are tagged `ADJ`, although they may have verbal features in addition to the adjectival ones.
