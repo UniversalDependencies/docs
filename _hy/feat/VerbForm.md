@@ -21,7 +21,7 @@ exclusively with [verbs](hy-pos/VERB). The `Part` value can be used also with [a
 
 ### <a name="Fin">`Fin`</a>: finite verb
 
-Rule of thumb: if it has non-empty [Mood](), it is finite. In Armenian this applies to conditional, indicative, imperative and subjunctive forms.
+Rule of thumb: if it has non-empty [Mood](hy-feat/Mood), it is finite. In Armenian this applies to conditional, indicative, imperative and subjunctive forms.
 
 #### Examples
 
@@ -36,7 +36,7 @@ Rule of thumb: if it has non-empty [Mood](), it is finite. In Armenian this appl
 
 Infinitive is the citation form of verbs. In Armenian it has non-finite form. It is used with the auxiliary _տալ&nbsp;_ to form periphrastic causative voice, and it appears as the argument of modal and other verbs.
 
-Note, that in Armenian infinitves behave similarly to nouns and are used as such. They will be tagged `VERB`, although they may have noun features in addition to the verbal ones. In Armenian infinitves inflect for [Case](), [Definite](), [PossNumber]() and [PossPerson]().
+Note, that in Armenian infinitves behave similarly to nouns and are used as such. They will be tagged `VERB`, although they may have noun features in addition to the verbal ones. In Armenian infinitves inflect for [Case](hy-feat/Case), [Definite](hy-feat/Definite), [PossNumber](hy-feat/PossNumber) and [PossPerson](hy-feat/PossPerson).
 
 #### Examples
 
