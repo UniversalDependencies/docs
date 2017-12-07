@@ -26,7 +26,7 @@ Note, that we are defining features that apply to a single word. If a tense is c
 
 Actions that happened before, during, and after a past or present event are constructed in Armenian by using perfect, resultative, imperfective and future participles.
 
-Actions that happen before or during a future event are expressed using an auxiliary. Imperfect or present finite form of auxilariy in periphrastic future (accompanied by future participle of main verb) is tagged `Tense=Imp` or `Tense=Pres` accordingly, not `Tense=Fut`, while there will be a tense / aspect (`Aspect=Prosp`) information at the participle (e.g. _<b>վազելու</b> էի տուն&nbsp;_ “I <b>should run</b> home” or _<b>վազելու</b> եմ տուն&nbsp;_ “I <b>shall run</b> home”).
+Actions that happen before or during a future event are expressed using an auxiliary. Imperfect or present finite form of auxilariy in periphrastic future (accompanied by future participle of main verb) is tagged `Tense=Imp` or `Tense=Pres` accordingly, not `Tense=Fut`, while there will be a aspect (`Aspect=Prosp`) information at the participle (e.g. _<b>վազելու</b> էի տուն&nbsp;_ “I <b>should run</b> home” or _<b>վազելու</b> եմ տուն&nbsp;_ “I <b>shall run</b> home”).
 
 Note also, that there is an elaborate system of parallel tense/aspect/mood forms (traditionally called “secondary compound tenses”) formed periphrastically by forms of the auxiliary _լինեմ&nbsp;_ and the resultative, processual and future participles of the main verb. They express actions that happened before, during, and after past or present reference. For these periphrastical forms we use `Tense=Imp`, `Tense=Imp` or `Tense=Pres` with perfect (`Perf`), imperfect (`Imp`) or prospective (`Prosp`) `Aspect`.
 
