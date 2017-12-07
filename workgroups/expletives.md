@@ -121,6 +121,17 @@ Plus de 100 000 exemplaires se sont vendus \n More than 100 000 copies REFL are 
 Il s'est vendu plus de 100 000 exemplaires \ It REFL is sold more than 100 000 exemplaires
 ~~~
 
+Italian marks impersonal active and passive sentences by subtypes of the `expl` relation, `expl:impers` and `expl:pass`
+~~~ sdparse
+Ci si viene per riposarsi, curarsi, sarebbe quindi assurdo non approfittarne \n One comes to rest, to take care of oneself, so it would be absurd not to take advantage of it
+expl:impers(viene,si)
+~~~
+~~~ sdparse
+Se i cavalli ci sono si devono vedere \n If the horses are there, they must be seen
+expl:pass(vedere, si)
+~~~
+
+
 ### Extraposition of clausal subjects
 Extraposition of clausal subjects exhibit a similar parallelism to simple clausal subjects:
 
