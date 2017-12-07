@@ -22,15 +22,13 @@ such as subject and object, to semantic roles, such as agent and patient. See al
 
 Prototypically, the subject of the verb is the doer of the action (agent), the object is affected by the action (patient).
 
-By default, the finite and non-finite forms of verbs are labeled `Voice=Act`, except for the cases when they are labeled `Voice=Pass`, `Voice=Mid` or `Voice=Cau`, see below.
-
-Note, that aorist stem marker _-(ա/ե)ցն(/ր)&nbsp;_ (homonymous with the causative infixes) is used for transtivization of middle voice verbs. Thеse verbs will have also `Voice=Act`, not `Voice=Cau`(see below).
+By default, the finite and non-finite forms of verbs are labeled `Voice=Act`, except for the cases when they are labeled `Voice=Pass`, `Voice=Mid` or `Voice=Cau` (see below).
 
 #### Examples
 
 * _Նա <b>ջարդեց</b> բաժակը&nbsp;_ “He <b>broke</b> the cup”
-* _Նա <b>կորցրեց</b> գիրքը&nbsp;_ “He <b>lost</b> the book” (but, _Գիրքը <b>կորավ</b>&nbsp;_ “The book was <b>lost</b>.`Mid`”)
-* _Նա <b>հանգցրեց</b> լույսը&nbsp;_ “<b></b>” (but, _Լույսը <b>հանգավ</b>&nbsp;_ “<b></b>.`Mid`”)
+* _Նա <b>կորցրեց</b> գիրքը&nbsp;_ “He <b>lost</b> the book” (but, _Գիրքը <b>կորավ</b>&nbsp;_.`Mid` “The book was <b>lost</b>.`Mid`”)
+* _Նա <b>հանգցրեց</b> լույսը&nbsp;_ “<b></b>” (but, _Լույսը <b>հանգավ</b>&nbsp;_.`Mid` “<b></b>.`Mid`”)
 
 ### <a name="Pass">`Pass`</a>: passive voice
 
@@ -49,7 +47,7 @@ The finite and non-finite forms of verbs are labeled `Voice=Pass` in the passive
 
 Between active and passive. Needed also for the reflexive and reciprocal verbs (traditionally called medio-passiv); in this case, the verbs are marked with passiv infix _-վ-_ (but the lemma is tagged as non-reflexive, non-reciprocal).
 
-Note, that there is a not-large set of middle voice verbs marked with passive infix _-վ-_ (so-called passivizied middle verbs). These forms are morphologically very close to the passive, do not have morphologically related non-marked counterparts and are tagged `Voice=Mid`. If there is a morphologically related non-marked counterpart, than the two verbs are represented by different lemmas.
+Note, that there is a not-large set of middle voice verbs marked with passive infix _-վ-_ (so-called passivizied middle verbs). These forms are morphologically very close to the passive, do not have morphologically related non-marked counterparts and are tagged `Voice=Mid`. If there is a morphologically related non-marked counterpart, than the two verbs are represented by different lemmas (e.g. _վերաբերվել&nbsp;_.`Mid` “treat, be about”, but _վերաբերել&nbsp;_.`Act` “refer to”).
 
 #### Examples
 
@@ -65,7 +63,7 @@ Note, that there is a not-large set of middle voice verbs marked with passive in
 
 Note, that in Armenian this is a feature of verbs. In causative constructions the subject is the entity “causing” the action. It generally translate to English as ‘cause/make/have/let/allow’ someone to perform action described by the main verb. 
 
-The causative is expressed by the infix _-ցն-_ and is quite productive.
+The causative is expressed by the infix _-ցն-_ and is quite productive. It can be used also for transitivisation of intransitive (middle voice) verbs. They will have `Voice=Act`, not `Voice=Cau`.
 
 Note, that the auxiliary _տալ&nbsp;_ (in various tenses and moods) is accombined with infinitve of the content verb to construct the causative voice. Only the auxiliary will have `Voice=Cau`. There will be also voice information at the infinitive.
 
@@ -76,12 +74,8 @@ Note, that the auxiliary _տալ&nbsp;_ (in various tenses and moods) is accombi
 * _Այդ բոլորը պատերազմ էր <b>հիշեցնում</b> էր նրան լեզու&nbsp;_ “<b></b>”
 * _Ամիսներ անց այդ միտքը <b>հաշտեցրեց</b> նրանց&nbsp;_ “<b></b>”
 * _վազել_.`Mid` _<b>տալ</b>_.`Cau` “to <b>make</b> somebody run”
-* _վազ<b>եցն</b>ել_.`Cau` _<b>տալ</b>_.`Cau` “lit: to <b>make</b> someone <b>make</b> someone run”.
+* _<b>վազեցնել</b>_.`Cau` _<b>տալ</b>_.`Cau` “lit: to <b>make</b> someone <b>make</b> someone run”.
 * _հասկանալ_.`Act` _<b>տալ</b>&nbsp;_.`Cau` “lit: to <b>make</b> somebody understand”,
-* _հասկ<b>ացն</b>ել&nbsp;_.`Cau` “lit: to <b>make</b> somebody understand”,
-* _հասկ<b>ացն</b>ել_.`Cau` _<b>տալ</b>&nbsp;_.`Cau` “lit: to <b>make</b> someone <b>make</b> someone understand”
-
-հաշտվել.`Mid`-հաշտեցնել
-գժտվել.`Mid`-գժտեցնել
-հիասթափվել.`Mid`-հիասթափեցնել
-խելագարվել.`Mid`-խելագարեցնել
+* _<b>հասկացնել</b>&nbsp;_.`Cau` “lit: to <b>make</b> somebody understand”,
+* _<b>հասկացնել</b>_.`Cau` _<b>տալ</b>&nbsp;_.`Cau` “lit: to <b>make</b> someone <b>make</b> someone understand”
+* _Ո՞ր քամին <b>հանգցրեց</b> նրանց սերը&nbsp;_ “<b>.`Cau`</b>”
