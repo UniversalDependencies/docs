@@ -94,5 +94,5 @@ The content verb is not marked as necessitative because it can also be used in p
 
 #### Examples
 
-* Նա _<b>պիտի (պետք է) գնա</b> տուն_ “He <b>must</b> go home”,
-* Նա _<b>պիտի (պետք է) գնար</b> տուն_ “He <b>had</b> to go home”
+* Նա _<b>պիտի (պետք է)</b> գնա տուն_ “He <b>must</b> go home”,
+* Նա _<b>պիտի (պետք է)</b> գնար տուն_ “He <b>had</b> to go home”
