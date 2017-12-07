@@ -65,9 +65,9 @@ Note, that there is a not-large set of middle voice verbs marked with passive in
 
 Note, that in Armenian this is a feature of verbs. In causative constructions the subject is the entity “causing” the action. It generally translate to English as ‘cause/make/have/let/allow’ someone to perform action described by the main verb. 
 
-The causative is expressed by the infix _-ցն-_ and is quite productive. Note, that the auxiliary _տալ&nbsp;_ (in various tenses and moods) is used to construct the causative voice, e.g. _վազել_.`Mid` _<b>տալ</b>_ “to <b>make</b> somebody run” or _վազ<b>եցն</b>ել_.`Cau` _<b>տալ</b>_ “lit: to <b>make</b> someone <b>make</b> someone run”.
+The causative is expressed by the infix _-ցն-_ and is quite productive.
 
-e.g. _հասկանալ_.`Act` _տալ&nbsp;_ “lit: to <b>make</b> somebody understand”, _հասկ<b>ացն</b>ել&nbsp;_ “lit: to <b>make</b> somebody understand” _հասկ<b>ացն</b>ել_`Cau` _տալ&nbsp;_ “lit: to <b>make</b> someone <b>make</b> someone understand”
+Note, that the auxiliary _տալ&nbsp;_ (in various tenses and moods) is accombined with infinitve of the content verb to construct the causative voice. Only the auxiliary will have `Voice=Cau`. There will be also voice information at the infinitive.
 
 #### Examples
 
@@ -75,6 +75,11 @@ e.g. _հասկանալ_.`Act` _տալ&nbsp;_ “lit: to <b>make</b> somebody und
 * _<b>Սովորեցնում</b> էր նրան լեզու&nbsp;_ “<b></b>”
 * _Այդ բոլորը պատերազմ էր <b>հիշեցնում</b> էր նրան լեզու&nbsp;_ “<b></b>”
 * _Ամիսներ անց այդ միտքը <b>հաշտեցրեց</b> նրանց&nbsp;_ “<b></b>”
+* _վազել_.`Mid` _<b>տալ</b>_.`Cau` “to <b>make</b> somebody run”
+* _վազ<b>եցն</b>ել_.`Cau` _<b>տալ</b>_.`Cau` “lit: to <b>make</b> someone <b>make</b> someone run”.
+* _հասկանալ_.`Act` _տալ&nbsp;_.`Cau` “lit: to <b>make</b> somebody understand”,
+* _հասկ<b>ացն</b>ել&nbsp;_.`Cau` “lit: to <b>make</b> somebody understand”,
+* _հասկ<b>ացն</b>ել_.`Cau` _տալ&nbsp;_.`Cau` “lit: to <b>make</b> someone <b>make</b> someone understand”
 
 հաշտվել.`Mid`-հաշտեցնել
 գժտվել.`Mid`-գժտեցնել
