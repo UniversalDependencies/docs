@@ -77,9 +77,9 @@ Note, that the auxiliary _տալ&nbsp;_ (in various tenses and moods) is accombi
 * _Ամիսներ անց այդ միտքը <b>հաշտեցրեց</b> նրանց&nbsp;_ “<b></b>”
 * _վազել_.`Mid` _<b>տալ</b>_.`Cau` “to <b>make</b> somebody run”
 * _վազ<b>եցն</b>ել_.`Cau` _<b>տալ</b>_.`Cau` “lit: to <b>make</b> someone <b>make</b> someone run”.
-* _հասկանալ_.`Act` _տալ&nbsp;_.`Cau` “lit: to <b>make</b> somebody understand”,
+* _հասկանալ_.`Act` _<b>տալ</b>&nbsp;_.`Cau` “lit: to <b>make</b> somebody understand”,
 * _հասկ<b>ացն</b>ել&nbsp;_.`Cau` “lit: to <b>make</b> somebody understand”,
-* _հասկ<b>ացն</b>ել_.`Cau` _տալ&nbsp;_.`Cau` “lit: to <b>make</b> someone <b>make</b> someone understand”
+* _հասկ<b>ացն</b>ել_.`Cau` _<b>տալ</b>&nbsp;_.`Cau` “lit: to <b>make</b> someone <b>make</b> someone understand”
 
 հաշտվել.`Mid`-հաշտեցնել
 գժտվել.`Mid`-գժտեցնել
