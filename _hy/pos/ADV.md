@@ -13,7 +13,7 @@ Adverbs are words that typically modify [verbs](VERB) for such categories as tim
 There is a closed subclass of _pronominal adverbs_ that refer to circumstances in context, rather than naming them directly; similarly
 to pronouns, these can be categorized as interrogative, relative, demonstrative, indefinite. Pronominal adverbs also get the `ADV` part-of-speech tag but they are differentiated by additional features.
 
-Note that verb forms such as _transgressives_ (also called _adverbial participles_, e.g. _տեսա <b>գրելիս</b>&nbsp;_ “I saw him writing” or _<b>կարդալիս</b> քնեց&nbsp;_ “when reading he slept”) share properties and usage of adverbs and verbs. Depending on context, they may be classified as either [VERB]() or `ADV`.
+Note that verb forms such as _transgressives_ (also called _adverbial participles_, e.g. _տեսա <b>գրելիս</b>&nbsp;_ “I saw him writing” or _<b>կարդալիս</b> քնեց&nbsp;_ “when reading he slept”) share properties and usage of adverbs and verbs. Note that Armenian transgressives are tagged [VERB](), not `ADV`.
 
 Note that in Armenian some adverbs inflect for [Degree](). Second degree specified by adverb _<b>ավելի</b>_ “more” e.g. _<b>ավելի</b> արագ&nbsp;_ “more quickly”. The third degree of adverbs in Armenian is constructed with the feature of [Definite]().
 
