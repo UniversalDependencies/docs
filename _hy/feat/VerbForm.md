@@ -17,7 +17,7 @@ udver: '2'
 </table>
 
 Even though the name of the feature seems to suggest that it is used
-exclusively with [verbs](VERB). The `Part` value can be used also with adjectives. It distinguishes participles from other verb forms, and participial adjectives from other adjectives.
+exclusively with [verbs](hy-pos/VERB). The `Part` value can be used also with [adjectives](hy-pos/ADJ). It distinguishes participles from other verb forms, and participial adjectives from other adjectives.
 
 ### <a name="Fin">`Fin`</a>: finite verb
 
@@ -25,33 +25,24 @@ Rule of thumb: if it has non-empty [Mood](), it is finite. In Armenian this appl
 
 #### Examples
 
-* _несу, несёшь, несёт, несём, несёте, несут_ &nbsp; “I go, you go, he/she/it goes, we go, you go, they go”
-* _неси, несите_ &nbsp;  “carry” (imperative in different persons and numbers)
-* _буду, будешь, будет, будем, будете, будут_ &nbsp; “I will be, you will be, he/she/it will be, we will be, you will be, they will be”
-* _будь, будьте_ &nbsp;“be” (imperative in different persons and numbers)
-
-- _nesu, neseš, nese, neseme, nesete, nesou_ &nbsp;“I carry, you carry, he/she/it carries, we carry, you carry, they carry”
-- _nes, nesme, neste_ &nbsp;“carry” (imperative in different persons and numbers)
-- _jsem, jsi, je, jsme, jste, jsou_ &nbsp;“I am, you are, he/she/it is, we are, you are, they are”
-- _budu, budeš, bude, budeme, budete, budou_ &nbsp;“I will be, you will be, he/she/it will be, we will be, you will be, they will be”
-- _bych, bys, by, bychom, byste, by_ &nbsp;“I would, you would, he/she/it would, we would, you would, they would”
-- _buď, buďme, buďte_ &nbsp;“be” (imperative in different persons and numbers)
-
-
+* _կգնամ, կգնաս, կգնա, կգնանք, կգնաք, կգնան_ &nbsp;“I will go, you will go, he/she/it will goes, we will go, you will go, they will go”
+* _գիտեմ, գիտես, գիտի, գիտենք, գիտեք, գիտեն_ &nbsp;“I know, you know, he/she/it knows, we know, you know, they know”
+* _գնացի, գնացիր, գնաց, գնացինք, գնացիք, գնացին_ &nbsp;“I know, you know, he/she/it knows, we know, you know, they know”
+- _եմ, ես, է, ենք, եք, են_ &nbsp;“I am, you are, he/she/it is, we are, you are, they are”
+* _գնա՛, գնացե՛ք_ &nbsp;“go” (imperative in different persons and numbers)
+* _գնամ, գնաս, գնա, գնանք, գնաք, գնան_ &nbsp;“I will go, you will go, he/she/it will goes, we will go, you will go, they will go”
 
 ### <a name="Inf">`Inf`</a>: infinitive
 
-Infinitive is the citation form of verbs in many languages. Unlike in
-English, it often has morphological form that is distinct from the
-finite forms. Infinitives may be used together with auxiliaries to
-form periphrastic tenses (e.g. future tense [cs] _budu <b>sedět</b> v
-letadle_ "I will sit in a plane"), they appear as arguments of modal
-verbs etc. In some languages they behave similarly to nouns and are
-used as such (similar to the gerund in English).
+Infinitive is the citation form of verbs. In Armenian it has non-finite form. It is used with the auxiliary _տալ&nbsp;_ to form periphrastic causative voice, and it appears as the argument of modal and other verbs.
+
+Note, that in Armenian infinitves behave similarly to nouns and are used as such. They will be tagged `VERB`, although they may have noun features ([Case](), [Definite](), [PossNumber]() and [PossPerson]()) in addition to the verbal ones.
 
 #### Examples
 
-* [de] _ich muss <b>gehen</b>_ “I must <b>go</b>”
+* _ich muss <b>gehen</b>_ “I must <b>go</b>”
+* _ich muss <b>gehen</b>_ “I must <b>go</b>”
+* _ich muss <b>gehen</b>_ “I must <b>go</b>”
 
 ### <a name="Part">`Part`</a>: participle, verbal adjective
 
