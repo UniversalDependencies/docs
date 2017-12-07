@@ -55,7 +55,7 @@ Note, that there is a not large set of middle voice verbs marked with passive in
 * _Նա արագ <b>լվացվեց</b>, <b>հագնվեց</b>&nbsp;_ “He <b>washed</b>, <b>dressed</b> quickly (lit: he washed himself, he dressed himself)”,
 * _Նրանք <b>գրկախառնվեցին</b>, <b>համբուրվեցին</b>&nbsp;_ “They <b>emraced</b> and <b>kissed</b> each other”,
 * _Մենք <b>հարձակվեցինք</b> թշնամու վրա&nbsp;_ “We <b>attacked</b> the enemy”,
-* _Ամիսներ անց բոլորն էլ <b>հաշտվեցին</b> այդ մտքի հետ&nbsp;_ “After several months everybody <b>stoud</b> thought of it”.
+* _Ամիսներ անց բոլորն էլ <b>հաշտվեցին</b> այդ մտքի հետ&nbsp;_ “After several months everybody <b>stood</b> thought of it”.
 
 ### <a name="Cau">`Cau`</a>: causative voice
 
