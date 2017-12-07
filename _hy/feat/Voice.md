@@ -28,7 +28,7 @@ By default, the finite and non-finite forms of verbs are labeled `Voice=Act`, ex
 
 * _Նա <b>ջարդեց</b> բաժակը&nbsp;_ “He <b>broke</b> the cup”,
 * _Նա <b>կորցրեց</b> գիրքը&nbsp;_ “He <b>lost</b> the book” (but, _Գիրքը <b>կորավ</b>&nbsp;_.`Mid` “The book was <b>lost</b>.`Mid`”),
-* _Նա <b>հանգցրեց</b> լույսը&nbsp;_ “He <b>turnes</b> the light off” (but, _Լույսը <b>հանգավ</b>&nbsp;_.`Mid` “The light <b>was off</b>.`Mid`”).
+* _Նա <b>հանգցրեց</b> լույսը&nbsp;_ “He <b>turned</b> the light off” (but, _Լույսը <b>հանգավ</b>&nbsp;_.`Mid` “The light <b>was off</b>.`Mid`”).
 
 ### <a name="Pass">`Pass`</a>: passive voice
 
@@ -40,7 +40,7 @@ The finite and non-finite forms of verbs are labeled `Voice=Pass` in the passive
 
 * _Առաջարկությունը <b>մերժվեց</b> (մասնակիցների կողմից)&nbsp;_ “The suggestion <b>was denied</b> (by the participants)”,
 * _Նա <b>արհամարվում</b> է ժողովրդից&nbsp;_ “He is <b>despised</b> by the people”,
-* _Գետինը <b>ծածկված</b> է ձյունով&nbsp;_ “Earth is <b>covered</b> by snow”,
+* _Անտառը <b>ծածկված</b> է ձյունով&nbsp;_ “The forest is <b>covered</b> by snow”,
 * _Դրա մասին շատ է <b>խոսվել</b>&nbsp;_ “It was <b>spoken</b> much about that”.
 
 ### <a name="Mid">`Mid`</a>: middle voice
@@ -52,7 +52,7 @@ Note, that there is a not large set of middle voice verbs marked with passive in
 #### Examples
 
 * _Նա <b>վախենում</b> է մթից&nbsp;_ “He is <b>afraid</b> of darkness”,
-* _Նա արագ <b>լվացվեց</b> և <b>հագնվեց</b>&nbsp;_ “He <b>washed</b> and <b>dressed</b> quickly (lit: he wash oneself, he dress oneself)”
+* _Նա արագ <b>լվացվեց</b>, <b>հագնվեց</b>&nbsp;_ “He <b>washed</b>, <b>dressed</b> quickly (lit: he washed himself, he dressed himself)”,
 * _Նրանք <b>գրկախառնվեցին</b>, <b>համբուրվեցին</b>&nbsp;_ “They <b>emraced</b> and <b>kissed</b> each other”,
 * _Մենք <b>հարձակվեցինք</b> թշնամու վրա&nbsp;_ “We <b>attacked</b> the enemy”,
 * _Ամիսներ անց բոլորն էլ <b>հաշտվեցին</b> այդ մտքի հետ&nbsp;_ “After several months everybody <b>stoud</b> thought of it”.
