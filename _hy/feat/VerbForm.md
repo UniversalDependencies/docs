@@ -36,13 +36,14 @@ Rule of thumb: if it has non-empty [Mood](), it is finite. In Armenian this appl
 
 Infinitive is the citation form of verbs. In Armenian it has non-finite form. It is used with the auxiliary _տալ&nbsp;_ to form periphrastic causative voice, and it appears as the argument of modal and other verbs.
 
-Note, that in Armenian infinitves behave similarly to nouns and are used as such. They will be tagged `VERB`, although they may have noun features ([Case](), [Definite](), [PossNumber]() and [PossPerson]()) in addition to the verbal ones.
+Note, that in Armenian infinitves behave similarly to nouns and are used as such. They will be tagged `VERB`, although they may have noun features in addition to the verbal ones. In Armenian infinitves inflect for [Case](), [Definite](), [PossNumber]() and [PossPerson]().
 
 #### Examples
 
-* _ich muss <b>gehen</b>_ “I must <b>go</b>”
-* _ich muss <b>gehen</b>_ “I must <b>go</b>”
-* _ich muss <b>gehen</b>_ “I must <b>go</b>”
+* _<b>խմել</b> տվեցի_ “I must <b>go</b>”
+* _ուզում եմ <b>գնալ</b>_ “I must <b>go</b>”
+* _որոշեցի <b>դառնալ</b>_ “I must <b>go</b>”
+* _<b>մտնելուց</b> հետո_ “I must <b>go</b>”
 
 ### <a name="Part">`Part`</a>: participle, verbal adjective
 
