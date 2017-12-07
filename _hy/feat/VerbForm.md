@@ -10,18 +10,17 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Conv">Conv</a></td>
   <td><a href="#Fin">Fin</a></td>
-  <td><a href="#Ger">Ger</a></td>
   <td><a href="#Inf">Inf</a></td>
   <td><a href="#Part">Part</a></td>
 </tr>
 </table>
 
 Even though the name of the feature seems to suggest that it is used
-exclusively with [verbs](hy-pos/VERB). The `Part` value can be used also with [adjectives](hy-pos/ADJ). It distinguishes participles from other verb forms, and participial adjectives from other adjectives.
+exclusively with [verbs](hy-pos/VERB). The `Part` value can be used also with [adjectives](ADJ). It distinguishes participles from other verb forms, and participial adjectives from other adjectives.
 
 ### <a name="Fin">`Fin`</a>: finite verb
 
-Rule of thumb: if it has non-empty [Mood](hy-feat/Mood), it is finite. In Armenian this applies to conditional, indicative, imperative and subjunctive forms.
+Rule of thumb: if it has non-empty [Mood](), it is finite. In Armenian this applies to conditional, indicative, imperative and subjunctive forms.
 
 #### Examples
 
@@ -36,7 +35,9 @@ Rule of thumb: if it has non-empty [Mood](hy-feat/Mood), it is finite. In Armeni
 
 Infinitive is the citation form of verbs. In Armenian it has non-finite form. It is used with the auxiliary _տալ&nbsp;_ to form periphrastic causative voice, and it appears as the argument of modal and other verbs.
 
-Note, that in Armenian infinitves behave similarly to nouns and are used as such. They will be tagged `VERB`, although they may have noun features in addition to the verbal ones. In Armenian infinitves inflect for [Case](hy-feat/Case), [Definite](hy-feat/Definite), [PossNumber](hy-feat/PossNumber) and [PossPerson](hy-feat/PossPerson).
+Note, that in Armenian infinitves behave similarly to nouns and are used as such. They will be tagged `VERB`, although they may have noun features in addition to the verbal ones. 
+
+Infinitves inflect for [Case](), [Definite](), [PossNumber]() and [PossPerson]().
 
 #### Examples
 
@@ -48,55 +49,37 @@ Note, that in Armenian infinitves behave similarly to nouns and are used as such
 ### <a name="Part">`Part`</a>: participle, verbal adjective
 
 Participle is a non-finite verb form that shares properties of verbs
-and adjectives. Its usage varies across languages. It may be used to
-form various periphrastic verb forms such as complex tenses and
-passives; it may be also used purely adjectively.
+and adjectives. In Armenian it may be used to form complex tenses and can be also used purely adjectively.
 
-Other features may help to distinguish past/present participles
-(English), active/passive participles (Czech), imperfect/perfect
-participles (Hindi) etc.
+Armenian has seven types of participles:
+
+- The resultative participle can be used adjectively and is used to form the indicative mood in present perfect resultative, imperfect in the past resultative and proper resultative tense.
+- The subjective participle can be used only adjectively.
+- The imperfective participle is used to form the indicative mood in present or imperfect tense.
+- The future-I participle is used to form the indicative mood in present prospective (future) or imperfect prospective (future in the past) tense.
+- The future-II participle can be used only adjectively.
+- The perfect participle is used to form the indicative mood in present perfect or imperfect in the past (past perfect) tense.
+- The negative participle is used to form the negated conditional mood in present or imperfect tense.
+- The the processual (prospective) participle is used to form the indicative mood in present or imperfect tense for the verbs _գալ,լալ, տալ_.
+
+Note, that the processual (prospective), resultative and future-I participles can be used to form the secondary complex tenses (in any tense or mood).
+
+Participles will be have also [Aspect]() and [Voice]().
 
 #### Examples
 
-* [en] _he could have <b>been prepared</b> if he had
-  <b>forseen</b> it_; _I will be <b>driving</b> home_.
+* _<b></b>_ “<b></b>”
+* _<b></b>_ “<b></b>”
+* _<b></b>_ “<b></b>”
+* _<b></b>_ “<b></b>”
 
 ### <a name="Conv">`Conv`</a>: converb, transgressive, adverbial participle, verbal adverb
 
 The converb, also called adverbial participle or transgressive, is a non-finite
-verb form that shares properties of verbs and adverbs. It appears
-e.g. in Slavic and Indo-Aryan languages.
+verb form that shares properties of verbs and adverbs.
 
-Note that this value was called `Trans` in UD v1 and it has been renamed `Conv`
-in UD v2.
+Verbs form transgressive meaning “while doing”.
 
 #### Examples
 
-* [cs] _zírali na mne, pevně <b>svírajíce</b> své zbraně_ "they
-  stared at me <b>while gripping</b> their guns firmly";
-  _<b>udělavši</b> večeři, zavolala rodinu ke stolu_ "<b>having
-  prepared</b> the dinner, she called her family to the table"
-
-### <a name="Ger">`Ger`</a>: gerund
-
-Gerund is a non-finite verb form that shares properties of verbs and
-nouns. In English it shares the morphological form with present
-participle, which may mean that the tagset will not distinguish it
-from the participle.
-
-Using `VerbForm=Ger` is discouraged and alternatives should be considered first
-because the term _gerund_ is rather confusing: in Spanish (and other Romance
-languages) it denotes the present participle and should be thus labeled
-`Tense=Pres|VerbForm=Part`; some Slavists use it to denote converbs (adverbial
-participles), which should be labeled `VerbForm=Conv`; and UD version 1
-recommended (inspired by English) to use it for verbal nouns, which in UD v2
-should use `VerbForm=Vnoun`.
-
-However, the feature is still available in UDv2 and can be used if the
-alternatives do not seem acceptable. The feature may be removed in future
-versions but comprehensive investigation has to be done first.
-
-#### Examples
-
-* [en] _I look forward to <b>seeing</b> you_; _he turns a blind
-  eye to my <b>being</b> late_
+* _<b></b>_ “<b></b>”
