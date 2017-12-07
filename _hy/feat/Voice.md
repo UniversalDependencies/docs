@@ -28,7 +28,7 @@ By default, the finite and non-finite forms of verbs are labeled `Voice=Act`, ex
 
 * _Նա <b>ջարդեց</b> բաժակը&nbsp;_ “He <b>broke</b> the cup”
 * _Նա <b>կորցրեց</b> գիրքը&nbsp;_ “He <b>lost</b> the book” (but, _Գիրքը <b>կորավ</b>&nbsp;_.`Mid` “The book was <b>lost</b>.`Mid`”)
-* _Նա <b>հանգցրեց</b> լույսը&nbsp;_ “<b></b>” (but, _Լույսը <b>հանգավ</b>&nbsp;_.`Mid` “<b></b>.`Mid`”)
+* _Նա <b>հանգցրեց</b> լույսը&nbsp;_ “He <b>turnes</b> the light off” (but, _Լույսը <b>հանգավ</b>&nbsp;_.`Mid` “The light <b>was off</b>.`Mid`”).
 
 ### <a name="Pass">`Pass`</a>: passive voice
 
@@ -55,11 +55,11 @@ Note, that there is a not large set of middle voice verbs marked with passive in
 * _Նա արագ <b>լվացվեց</b>, <b>հագնվեց</b>&nbsp;_ “He <b>washed</b> and <b>dressed</b> quickly  (lit: he wash oneself, he dress oneself)”
 * _Նրանք <b>գրկախառնվեցին</b>, <b>համբուրվեցին</b>&nbsp;_ “They <b>emraced</b> and <b>kissed</b> each other”,
 * _Մենք <b>հարձակվեցինք</b> թշնամու վրա&nbsp;_ “We <b>attacked</b> the enemy”,
-* _Ամիսներ անց բոլորն էլ <b>հաշտվեցին</b> այդ մտքի հետ&nbsp;_ “After several months every body <b>got</b> over this ”
+* _Ամիսներ անց բոլորն էլ <b>հաշտվեցին</b> այդ մտքի հետ&nbsp;_ “After several months everybody <b>stoud</b> thought of it”.
 
 ### <a name="Cau">`Cau`</a>: causative voice
 
-Note, that in Armenian this is a feature of verbs. In causative constructions the subject is the entity “causing” the action. It generally translate to English as ‘cause/make/have/let/allow’ someone to perform action described by the main verb. 
+Note, that in Armenian this is a feature of verbs. In causative constructions the subject is the entity “causing” the action. It is generally translated into English as ‘cause/make/have/let/allow’ someone to perform action described by the main verb. 
 
 The causative is expressed by the infix _-ցն-_ and is quite productive. It can be used also for transitivisation of intransitive (middle voice) verbs. They will have `Voice=Act`, not `Voice=Cau`.
 
@@ -67,13 +67,13 @@ Note, that the auxiliary _տալ&nbsp;_ (in various tenses and moods) is accombi
 
 #### Examples
 
-* _Մայրը <b>քնեցրեց</b> որդուն&nbsp;_ “<b></b>”
-* _<b>Սովորեցնում</b> էր նրան լեզու&nbsp;_ “<b></b>”
-* _Այդ բոլորը պատերազմ էր <b>հիշեցնում</b> էր նրան լեզու&nbsp;_ “<b></b>”
-* _Ամիսներ անց այդ միտքը <b>հաշտեցրեց</b> նրանց&nbsp;_ “<b></b>”
+* _Մայրը <b>քնեցրեց</b> որդուն&nbsp;_ “The matter <b>put</b> her son to sleep”,
+* _<b>Սովորեցնում</b> էր նրան լեզու&nbsp;_ “He <b>tought</b> her a foreign language”,
+* _Այդ բոլորը պատերազմ էր <b>հիշեցնում</b> էր&nbsp;_ “All this things <b>reminded</b> him a war”,
+* _Ամիսներ անց այդ միտքը <b>հաշտեցրեց</b> նրանց&nbsp;_ “After several months this thougt <b>reconciled</b> them”
+* _Ո՞ր քամին <b>հանգցրեց</b> նրանց սերը&nbsp;_ “Which wind <b>extinguished</b>.`Cau` their love (lit: make the love to extinguish)”
 * _վազել_.`Mid` _<b>տալ</b>_.`Cau` “to <b>make</b> somebody run”
 * _<b>վազեցնել</b>_.`Cau` _<b>տալ</b>_.`Cau` “lit: to <b>make</b> someone <b>make</b> someone run”.
 * _հասկանալ_.`Act` _<b>տալ</b>&nbsp;_.`Cau` “lit: to <b>make</b> somebody understand”,
 * _<b>հասկացնել</b>&nbsp;_.`Cau` “lit: to <b>make</b> somebody understand”,
 * _<b>հասկացնել</b>_.`Cau` _<b>տալ</b>&nbsp;_.`Cau` “lit: to <b>make</b> someone <b>make</b> someone understand”
-* _Ո՞ր քամին <b>հանգցրեց</b> նրանց սերը&nbsp;_ “<b>.`Cau`</b>”
