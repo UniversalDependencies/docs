@@ -51,27 +51,32 @@ Infinitves inflect for [Case](), [Definite](), [PossNumber]() and [PossPerson]()
 Participle is a non-finite verb form that shares properties of verbs
 and adjectives. In Armenian it may be used to form complex tenses and can be also used purely adjectively.
 
+In Armenian grammars, these words are normally called _converbs_. However, since the UD definition `Part` partially covers the use of converbs, we use the same label.
+
 Armenian has seven types of participles:
 
-- The resultative participle can be used adjectively and is used to form the indicative mood in present perfect resultative, imperfect in the past resultative and proper resultative tense.
+- The resultative participle is used to form the indicative mood in present perfect resultative, imperfect in the past resultative and proper resultative tense. It can be also used adjectively.
 - The subjective participle can be used only adjectively.
 - The imperfective participle is used to form the indicative mood in present or imperfect tense.
-- The future-I participle is used to form the indicative mood in present prospective (future) or imperfect prospective (future in the past) tense.
+- The future-I (destinative) participle is used to form the indicative mood in present prospective (future) or imperfect prospective (future in the past) tense.
 - The future-II participle can be used only adjectively.
 - The perfect participle is used to form the indicative mood in present perfect or imperfect in the past (past perfect) tense.
 - The negative participle is used to form the negated conditional mood in present or imperfect tense.
-- The the processual (prospective) participle is used to form the indicative mood in present or imperfect tense for the verbs _գալ,լալ, տալ_.
+- The the processual (progressive) participle is used to form the indicative mood in present or imperfect tense for the verbs _գալ,լալ, տալ_.
 
-Note, that the processual (prospective), resultative and future-I participles can be used to form the secondary complex tenses (in any tense or mood).
+Note, that the processual (progressive), resultative and future-I participles can be used to form the secondary complex tenses (in any tense or mood).
 
 Participles will be have also [Aspect]() and [Voice]().
 
 #### Examples
 
-* _<b></b>_ “<b></b>”
-* _<b></b>_ “<b></b>”
-* _<b></b>_ “<b></b>”
-* _<b></b>_ “<b></b>”
+* _քնած, գրած, ուղարկված, կանգնեցված_ &nbsp;“” (resultative participle, in different voices),
+* _գրող, մեռնող, տվող, եղող, բացվող_ &nbsp;“” (subjective participle, in different voices),
+* _սիրում, խոսվում, բարձրացվում_ &nbsp;“” (imperfective participle, in different voices),
+* _տեսնելու, լվացվելու, մեղմացվելու_ &nbsp;“” (future-I (destinative) participle, in different voices),
+* _տեսնելու, կառուցվելիք_ &nbsp;“” (future-II participle, in different voices),
+
+* _<b>գալիս</b> եմ/էի, <b>տալիս</b> եմ/էի, <b>լալիս</b> եմ/էի, <b>աշխատելիս</b> է եղել_ &nbsp;“”“<b></b>” (processual participle in different moods and tenses)
 
 ### <a name="Conv">`Conv`</a>: converb, transgressive, adverbial participle, verbal adverb
 
@@ -83,3 +88,4 @@ Verbs form transgressive meaning “while doing”.
 #### Examples
 
 * _<b></b>_ “<b></b>”
+* _<b>վազելիս</b> ընկնել, <b>կարդալիս</b> ննջել, <b>ուտելիս</b> շտապել_ “<b></b>”
