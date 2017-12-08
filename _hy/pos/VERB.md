@@ -47,4 +47,4 @@ Resultative, subject, future-II destinative participles lie on the border betwee
 
 -	Resultative: _<b>կառուցված</b> շենք_ “a <b>built</b> house”,
 -	Subject: _<b>կառուցվող</b> շենք_ “a house, that is <b>being built</b>”
--	Future-II: _<b>կառուցվելիք</b> շենք_ “a house, that </>will be built</b>”
+-	Future-II: _<b>կառուցվելիք</b> շենք_ “a house, that <b>will be built</b>”
