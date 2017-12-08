@@ -35,7 +35,7 @@ Rule of thumb: if it has non-empty [Mood](), it is finite. In Armenian this appl
 
 Infinitive is the citation form of verbs. In Armenian it has non-finite form. It is used with the auxiliary _տալ&nbsp;_ to form periphrastic causative voice, and it appears as the argument of modal and other verbs.
 
-Note, that in Armenian infinitves behave similarly to nouns and are used as such. They will be tagged `VERB`, although they may have noun features in addition to the verbal ones. 
+Note, that in Armenian infinitves behave similarly to nouns and are used as such. Depending on context, they may be classified as either `VERB` or [NOUN](). The `Inf` value will be used also with nouns to distinguish infinitives from other verb forms, and from other nouns.
 
 Infinitves inflect for [Case](), [Definite](), [PossNumber]() and [PossPerson]().
 
@@ -67,7 +67,7 @@ Armenian has seven types of participles:
 
 Note, that the processual (progressive), resultative and future-I participles can be used to form the secondary complex tenses (in any tense or mood).
 
-Participles will be have also [Aspect]() and [Voice]().
+Participles will have also [Aspect]() and [Voice]().
 
 #### Examples
 
