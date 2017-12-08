@@ -61,7 +61,7 @@ Note, that there is a not large set of middle voice verbs marked with passive in
 
 Note, that in Armenian this is a feature of verbs. In causative constructions the subject is the entity “causing” the action. It is generally translated into English as ‘cause/make/have/let/allow’ someone to perform action described by the main verb. 
 
-The causative is expressed by the infix _-ցն-_ and is quite productive. It can be used also for transitivisation of intransitive (middle voice) verbs. They will have `Voice=Act`, not `Voice=Cau`.
+The causative is expressed by the infix _-ցն-_. It is quite productive and can be used also for transitivisation of intransitive (middle voice) verbs. They will have `Voice=Act`, not `Voice=Cau` (e.g. _<b>կորցնել, հանգցնել</b>_).
 
 Note, that the auxiliary _տալ&nbsp;_ (in various tenses and moods) is accombined with infinitve of the content verb to construct the causative voice. Only the auxiliary will have `Voice=Cau`. There will be also voice information at the infinitive.
 
@@ -69,7 +69,7 @@ Note, that the auxiliary _տալ&nbsp;_ (in various tenses and moods) is accombi
 
 * _Մայրը <b>քնեցրեց</b> որդուն&nbsp;_ “The mather <b>put</b> her son to sleep”,
 * _<b>Սովորեցնում</b> էր նրան լեզու&nbsp;_ “He <b>tought</b> her a foreign language”,
-* _Այդ բոլորը պատերազմ էր <b>հիշեցնում</b> էր&nbsp;_ “All these things <b>reminded</b> him a war”,
+* _Այդ բոլորը պատերազմ էր <b>հիշեցնում</b> նրան&nbsp;_ “All these things <b>reminded</b> him a war”,
 * _Ամիսներ անց այդ միտքը <b>հաշտեցրեց</b> նրանց&nbsp;_ “After several months this thought <b>reconciled</b> them”,
 * _Ո՞ր քամին <b>հանգցրեց</b> նրանց սերը&nbsp;_ “Which wind <b>extinguished</b>.`Cau` their love (lit: made the love to extinguish)”,
 * _վազել_.`Mid` _<b>տալ</b>_.`Cau` “to <b>make</b> somebody run”,
