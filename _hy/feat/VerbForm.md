@@ -16,7 +16,7 @@ udver: '2'
 </table>
 
 Even though the name of the feature seems to suggest that it is used
-exclusively with [verbs](hy-pos/VERB), the `Part` value can be used also with [adjectives](ADJ). It distinguishes participles from other verb forms, and participial adjectives from other adjectives.
+exclusively with [verbs](VERB), the `Part` value can be used also with [adjectives](ADJ). It distinguishes participles from other verb forms, and participial adjectives from other adjectives.
 
 ### <a name="Fin">`Fin`</a>: finite verb
 
@@ -51,12 +51,12 @@ Infinitves inflect for [Case](), [Definite](), [PossNumber]() and [PossPerson]()
 
 Participle is a non-finite verb form that shares properties of verbs and adjectives. In Armenian it may be used to form complex tenses and can be also used purely adjectively.
 
-In Armenian grammars, these words are normally called _converbs_. However, since the UD definition `Part` partially covers the use of converbs, we use the same label.
+In Armenian linguistics, these words are normally called _converbs_. However, since the UD definition `Part` partially covers the use of converbs, we use the same label.
 
-Armenian has seven types of participles:
+Armenian has eight types of participles:
 
 - The resultative participle is used to form the indicative mood in present perfect resultative, imperfect in the past resultative and proper resultative tense. It can be also used adjectively.
-- The subjective participle can be used only adjectively.
+- The subject participle can be used only adjectively.
 - The imperfective participle is used to form the indicative mood in present or imperfect tense.
 - The future-I participle is used to form the indicative mood in present prospective (future) or imperfect prospective (future in the past) tense.
 - The future-II (state of prospective action) participle can be used only adjectively.
@@ -70,14 +70,14 @@ Participles will have also [Aspect]() and [Voice]().
 
 #### Examples
 
-* _քնած, գրած, ուղարկված, կանգնեցված_ &nbsp;“” (resultative participle, in different voices),
-* _գրող, մեռնող, տվող, եղող, բացվող_ &nbsp;“” (subjective participle, in different voices),
-* _սիրում, խոսվում, բարձրացվում_ &nbsp;“” (imperfective participle, in different voices),
-* _տեսնելու, լվացվելու, մեղմացվելու_ &nbsp;“” (future-I (destinative) participle, in different voices),
-* _կարդալիք, կառուցվելիք_ &nbsp;“” (future-II participle, in different voices),
-* _գնացել, խմել, դրել_ &nbsp;“” (perfect participle),
-* _(չեմ) գրի, (չէի) ասի, (չեմ) կարդա, (չէի) մոտենա_ &nbsp;“” (negative participle),
-* _<b>գալիս</b> եմ/էի, <b>տալիս</b> եմ/էի, <b>լալիս</b> եմ/էի, <b>աշխատելիս</b> է եղել_ &nbsp;“”“<b></b>” (processual participle in different moods and tenses)
+* _քնած, գրած, ուղարկված, կանգնեցված_ &nbsp;“slept, written, sent, raised” (resultative participle, in different voices),
+* _գրող, մեռնող, տվող, եղող, բացվող_ &nbsp;“writing, dying, giving, beeing, opening smth” (subject participle, in different voices),
+* _սիրում, խոսվում, բարձրացվում_ &nbsp;“love, smth to be speaking about, beeing raised” (imperfective participle, in different voices),
+* _տեսնելու, լվացվելու, մեղմացվելու_ &nbsp;“for seeing, for washing, for beeing extenuated” (future-I participle, in different voices),
+* _կարդալիք, կառուցվելիք_ &nbsp;“smth to be read, to be built” (future-II participle, in different voices),
+* _գնացել, խմել, դրել_ &nbsp;“have done, have drunk, have put” (perfect participle),
+* _(չեմ) գրի, (չէի) ասի, (չեմ) կարդա, (չէի) մոտենա_ &nbsp;“I will not write, I would not say, I will not read, I woul not approach” (negative participle),
+* _<b>գալիս</b> եմ/էի, <b>տալիս</b> եմ/էի, <b>լալիս</b> եմ/էի, <b>աշխատելիս</b> է եղել_ &nbsp;“I am was <b>coming</b>, I am was <b>giving</b>, I am was <b>crying<b>, he has been <b>working</b>” (processual participle in different moods and tenses)
 
 ### <a name="Conv">`Conv`</a>: converb, adverbial participle
 
@@ -88,4 +88,6 @@ Verbs form transgressive meaning “while doing”.
 
 #### Examples
 
-* _<b>վազելիս</b> ընկնել, <b>կարդալիս</b> ննջել, <b>ուտելիս</b> շտապել_ “<b></b>”
+* _<b>վազելիս</b> ընկա_ &nbsp;“I fell <b>while running</b>”,
+* _<b>կարդալիս</b> ննջեց_ &nbsp;“he slept <b>while reading</b>”,
+* _<b>ուտելիս</b> շտապում է_ &nbsp;“he hurries <b>while eating</b>”
