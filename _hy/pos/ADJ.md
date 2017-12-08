@@ -28,9 +28,9 @@ Note that some adjectives and most adverbs in Armenian don’t have a degree fea
 -	_կանաչ_ “green”
 -	_անընկալելի_ “incomprehensible”
 -	_առաջին, երկրորդ, երրորդ_ “first, second, third”
--	_<b>կառուցված, կառուցվող, կառուցվելիք</b> շենք_ “a built house; a house, that is being built; a house that will be built” (resultative, subject, destinative passive participial adjective)
--	_<b>հնչած, հնչող, հնչելիք</b> զանգ_ “a ringing call; a call that ringed; a call that will ring” (resultative, subject, destinative participial adjective)
+-	_<b>կառուցված, կառուցվող, կառուցվելիք</b> շենք_ “a built house; a house, that is being built; a house that will be built” (resultative, subject, future-II passive participial adjective)
+-	_<b>հնչած, հնչող, հնչելիք</b> զանգ_ “a ringing call; a call that ringed; a call that will ring” (resultative, subject, future-II participial adjective)
 
 ### Border cases
 
-Resultative, subject, destinative participles lie on the border between verbs and adjectives. Core participial forms are tagged [VERB]() (used to form the moods). As participial adjectives they are tagged `ADJ` (used in nominal predication with [copula](cop), and to modify nouns), although they may have verbal features in addition to the adjectival ones.
+Resultative, subject, future-II participles lie on the border between verbs and adjectives. Core participial forms are tagged [VERB]() (used to form the moods). As participial adjectives they are tagged `ADJ` (used in nominal predication with [copula](cop), and to modify nouns), although they may have verbal features in addition to the adjectival ones.
