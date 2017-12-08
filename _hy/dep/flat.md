@@ -12,7 +12,7 @@ In Armenian it is used for proper nouns constituted of multiple nominal elements
 The inflected name is always the head and the other name(s) are attached to it, the inflected name is usually the last name.
 
 ~~~ sdparse
-Նախագահ Լևոն Տեր-Պետրոսյանը երեկ այցելել է Երևանի պետական համալսարան . \n President Levon Ter-Petrosyan yesterday visited Yerevan State University .
+Նախագահ Լևոն Տեր - Պետրոսյանը երեկ այցելել է Երևանի պետական համալսարան . \n President Levon Ter - Petrosyan yesterday visited Yerevan State University .
 flat(Պետրոսյանը, Լևոն)
 flat(Petrosyan, Levon)
 flat(Պետրոսյանը, Տեր)
