@@ -45,7 +45,7 @@ Imperfect is a special case of the past tense. It denotes actions that are happe
 
 The auxiliaries _էի&nbsp;_ and _կայի&nbsp;_ will have `Tense=Imp`.
 
-Note, that a limited set of verbs form indicative imperfect and present morphologically. They combine an unmarked present stem with present or imperfect suffixes. The same lemma has also present forms and the feature must distinguish the two. The difference between their marked counterparts (traditionally called “Defective Verbs with Secondary Expanded Stems”) are related to `Mood` and `Aspect` rather than `Tense`.
+Note, that a limited set of verbs form indicative imperfect and present morphologically. They combine the present stem with present or imperfect suffixes. Thus the same verbs combine also the past stem with the imperfect and present suffixes (traditionally called “Defective Verbs with Secondary Expanded Stems”) the feature must distinguish the two. The difference between them is related to `Mood` and `Aspect` rather than `Tense`.
 
 #### Examples
 
