@@ -163,15 +163,15 @@ expl(seems, it)
 
 For French, the extraposition of a (finite or infinitival) subject clause occurs both impersonal construction (with an "il" nominative clitic) and in the more general right dislocation (with a "ça" pronoun, not necessarily subject, see below)
 
-French right dislocation of a subject clause:
+####French right dislocation of a subject clause ("il" not possible):
 ~~~ sdparse
 Qu' elle vienne m' a surpris. \n The she came me-accusative has surprised.
 ~~~
 ~~~ sdparse
-ça/*il m' a surpris qu' elle vienne. \n it me-accusative has surprised that she came.
+ça(*il) m' a surpris qu' elle vienne. \n it me-accusative has surprised that she came.
 ~~~
 
-French impersonal construction for a clausal subject (no expl for these cases in French treebanks):
+####French impersonal construction for a clausal subject (no expl for these cases in French treebanks):
 ~~~ sdparse
 Il arrive que des candidats soient interrogés \n It occurs that some candidates be interrogated
 nsubj(arrive, Il)
