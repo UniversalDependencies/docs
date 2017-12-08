@@ -77,7 +77,7 @@ Participles will have also [Aspect]() and [Voice]().
 * _կարդալիք, կառուցվելիք_ &nbsp;“smth to be read, to be built” (future-II participle, in different voices),
 * _գնացել, խմել, դրել_ &nbsp;“have done, have drunk, have put” (perfect participle),
 * _(չեմ) գրի, (չէի) ասի, (չեմ) կարդա, (չէի) մոտենա_ &nbsp;“I will not write, I would not say, I will not read, I woul not approach” (negative participle),
-* _<b>գալիս</b> եմ/էի, <b>տալիս</b> եմ/էի, <b>լալիս</b> եմ/էի, <b>աշխատելիս</b> է եղել_ &nbsp;“I am was <b>coming</b>, I am was <b>giving</b>, I am was <b>crying<b>, he has been <b>working</b>” (processual participle in different moods and tenses)
+* _<b>գալիս</b> եմ/էի, <b>տալիս</b> եմ/էի, <b>լալիս</b> եմ/էի, <b>աշխատելիս</b> է եղել_ &nbsp;“I am/was <b>coming</b>, I am/was <b>giving</b>, I am/was <b>crying</b>, he has been <b>working</b>” (processual participle in different moods and tenses)
 
 ### <a name="Conv">`Conv`</a>: converb, adverbial participle
 
