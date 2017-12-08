@@ -43,14 +43,13 @@ Infinitves inflect for [Case](), [Definite](), [PossNumber]() and [PossPerson]()
 
 * _<b>խմել</b> տվեցի_ &nbsp;“I made him <b>drink</b>”,
 * _կարող ես <b>գնալ</b>_ &nbsp;“You can <b>go</b>”,
-* _որոշեցի անմիջապես <b>չասել</b>_ &nbsp;“I desided <b>not to say</b> immediately”,
+* _որոշեցի անմիջապես <b>չասել</b>_ &nbsp;“I decided <b>not to say</b> immediately”,
 * _<b>մտնելուց</b> հետո_ &nbsp;“after <b>entering</b>”,
-* _<b>սպանվելու</b> միտքը_ &nbsp;“lit: the thoutgh <b>of to be killed</b>”
+* _<b>սպանվելու</b> միտքը_ &nbsp;“lit: the though <b>of to be killed</b>”
 
 ### <a name="Part">`Part`</a>: participle, verbal adjective
 
-Participle is a non-finite verb form that shares properties of verbs
-and adjectives. In Armenian it may be used to form complex tenses and can be also used purely adjectively.
+Participle is a non-finite verb form that shares properties of verbs and adjectives. In Armenian it may be used to form complex tenses and can be also used purely adjectively.
 
 In Armenian grammars, these words are normally called _converbs_. However, since the UD definition `Part` partially covers the use of converbs, we use the same label.
 
