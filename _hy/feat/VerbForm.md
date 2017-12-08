@@ -41,10 +41,11 @@ Infinitves inflect for [Case](), [Definite](), [PossNumber]() and [PossPerson]()
 
 #### Examples
 
-* _<b>խմել</b> տվեցի_ “I must <b>go</b>”
-* _ուզում եմ <b>գնալ</b>_ “I must <b>go</b>”
-* _որոշեցի <b>դառնալ</b>_ “I must <b>go</b>”
-* _<b>մտնելուց</b> հետո_ “I must <b>go</b>”
+* _<b>խմել</b> տվեցի_ &nbsp;“I must <b>go</b>”,
+* _ուզում եմ <b>գնալ</b>_ &nbsp;“I must <b>go</b>”,
+* _որոշեցի անմիջապես <b>չասել</b>_ &nbsp;“I must <b>go</b>”,
+* _<b>մտնելուց</b> հետո_ &nbsp;“I must <b>go</b>”,
+* _<b>սպանվելու</b> միտքը_ &nbsp;“lit: <b></b>”
 
 ### <a name="Part">`Part`</a>: participle, verbal adjective
 
@@ -58,8 +59,8 @@ Armenian has seven types of participles:
 - The resultative participle is used to form the indicative mood in present perfect resultative, imperfect in the past resultative and proper resultative tense. It can be also used adjectively.
 - The subjective participle can be used only adjectively.
 - The imperfective participle is used to form the indicative mood in present or imperfect tense.
-- The future-I (destinative) participle is used to form the indicative mood in present prospective (future) or imperfect prospective (future in the past) tense.
-- The future-II participle can be used only adjectively.
+- The future-I participle is used to form the indicative mood in present prospective (future) or imperfect prospective (future in the past) tense.
+- The future-II (state of prospective action) participle can be used only adjectively.
 - The perfect participle is used to form the indicative mood in present perfect or imperfect in the past (past perfect) tense.
 - The negative participle is used to form the negated conditional mood in present or imperfect tense.
 - The the processual (progressive) participle is used to form the indicative mood in present or imperfect tense for the verbs _գալ,լալ, տալ_.
@@ -74,8 +75,9 @@ Participles will be have also [Aspect]() and [Voice]().
 * _գրող, մեռնող, տվող, եղող, բացվող_ &nbsp;“” (subjective participle, in different voices),
 * _սիրում, խոսվում, բարձրացվում_ &nbsp;“” (imperfective participle, in different voices),
 * _տեսնելու, լվացվելու, մեղմացվելու_ &nbsp;“” (future-I (destinative) participle, in different voices),
-* _տեսնելու, կառուցվելիք_ &nbsp;“” (future-II participle, in different voices),
-
+* _կարդալիք, կառուցվելիք_ &nbsp;“” (future-II participle, in different voices),
+* _գնացել, խմել, դրել_ &nbsp;“” (perfect participle),
+* _(չեմ) գրի, (չէի) ասի, (չեմ) կարդա, (չէի) մոտենա_ &nbsp;“” (negative participle),
 * _<b>գալիս</b> եմ/էի, <b>տալիս</b> եմ/էի, <b>լալիս</b> եմ/էի, <b>աշխատելիս</b> է եղել_ &nbsp;“”“<b></b>” (processual participle in different moods and tenses)
 
 ### <a name="Conv">`Conv`</a>: converb, transgressive, adverbial participle, verbal adverb
@@ -87,5 +89,4 @@ Verbs form transgressive meaning “while doing”.
 
 #### Examples
 
-* _<b></b>_ “<b></b>”
 * _<b>վազելիս</b> ընկնել, <b>կարդալիս</b> ննջել, <b>ուտելիս</b> շտապել_ “<b></b>”
