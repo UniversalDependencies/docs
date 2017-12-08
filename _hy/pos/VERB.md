@@ -26,7 +26,7 @@ Armenian verbs can take the following morphological forms:
 
 There are participial forms that are tagged as adjectives ([ADJ]()) rather than verbs.
 
-Infinitves behave similarly to [nouns]() and are used as such. Depending on context, they may be tagged as either `VERB` or `NOUN`.
+Infinitves behave similarly to [nouns](NOUN) and are used as such. Depending on context, they may be tagged as either `VERB` or `NOUN`.
 
 ### Examples
 
