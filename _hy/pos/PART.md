@@ -10,7 +10,7 @@ udver: '2'
 Particles are function words that must be associated with another word or phrase to impart meaning and that do not satisfy definitions of other universal parts of speech (e.g.  [adpositions](ADP), [coordinating conjunctions](CCONJ), [subordinating conjunctions](SCONJ)
 or [auxiliary verbs](AUX)). Particles may encode grammatical categories such as negation, mood, tense etc. Particles are not inflected.
 
-Note that particles like _այո_ “yes”, _ոչ_ “no”, _անշուշտ_ “shure”, etc. as response words (as feedback particles) are considered as interjections under the UD standard.
+Note that particles like _այո_ “yes”, _ոչ_ “no”, _անշուշտ_ “sure”, etc. as response words (as feedback particles) are considered as interjections under the UD standard.
 
 ### Examples
 
