@@ -29,8 +29,8 @@ nmod(University, Yerevan)
 Խոսրով Գ Կոտակը \n Khosrov III the Small
 flat(Կոտակը, Խոսրով)
 flat(Small, Khosrov)
-flat(Խոսրով, Գ)
-flat(Khosrov, III)
+flat(Կոտակը, Գ)
+flat(Small, III)
 ~~~
 
 ~~~ sdparse
