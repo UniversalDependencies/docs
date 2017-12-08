@@ -80,7 +80,7 @@ Participles will have also [Aspect]() and [Voice]().
 * _(չեմ) գրի, (չէի) ասի, (չեմ) կարդա, (չէի) մոտենա_ &nbsp;“” (negative participle),
 * _<b>գալիս</b> եմ/էի, <b>տալիս</b> եմ/էի, <b>լալիս</b> եմ/էի, <b>աշխատելիս</b> է եղել_ &nbsp;“”“<b></b>” (processual participle in different moods and tenses)
 
-### <a name="Conv">`Conv`</a>: converb, transgressive, adverbial participle, verbal adverb
+### <a name="Conv">`Conv`</a>: converb, adverbial participle
 
 The converb, also called adverbial participle or transgressive, is a non-finite
 verb form that shares properties of verbs and adverbs.
