@@ -45,7 +45,7 @@ Imperfect is a special case of the past tense. It denotes actions that are happe
 
 The auxiliaries _էի&nbsp;_ and _կայի&nbsp;_ will have `Tense=Imp`.
 
-Note, that a limited set of verbs form indicative imperfect and present morphologically with “non-expanded” stem. The difference between these and their marked “expanded” counterparts (traditionally called “Defective Verbs with Secondary Expanded Stems”) are related to `Mood` or `Aspect` rather than `Tense`.
+Note, that a limited set of verbs form indicative imperfect and present morphologically with “non-expanded” stem. The difference between these and their marked counterparts (traditionally called “Defective Verbs with Secondary Expanded Stems”) are related to `Mood` or `Aspect` rather than `Tense`.
 
 #### Examples
 
