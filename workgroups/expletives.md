@@ -29,10 +29,12 @@ det regnar \n it rains
 expl(regnar, det)
 ~~~
 
-"Intrinsically impersonal verbs" encompasses a more general category of verbs, not only 0-place predicates but also 1-place predicates, that typically take an expletive pronoun as their subject, without any parallelism to a construction with a full subject. This is the case in French for the deficient verb "falloir" (be necessary). In the current French treebanks, all preverbal explective "il" clitics are treated as plain subjects (nsubj).
+"Intrinsically impersonal verbs" encompasses a more general category of verbs, not only 0-place predicates but also 1-place predicates, that typically take an expletive pronoun as their subject, without any parallelism to a construction with a full subject. This is the case in French for the deficient verb "falloir" (be necessary), which has one semantic argument, realized as a direct object. In the current French treebanks, all preverbal explective "il" clitics are treated as plain subjects (nsubj).
 
 ~~~ sdparse
 il faut 3 nouveaux recrutements \n it is-necessary 3 new recruitments
+nsubj(faut, il)
+obj(faut,recrutements)
 ~~~
 
 ~~~ sdparse
@@ -103,6 +105,7 @@ Sitä leikkii lapsia kadulla \n EXP play children in-street
 ~~~
 
 Again, Finnish-FTB uses `expl` but the original Finnish treebank does not.
+__marie__: is there subject-verb agreement in these cases?
 
 ### Impersonal passive and medio-passive
 
@@ -158,7 +161,29 @@ expl(seems, it)
 * that she came seems
 ~~~
 
-The clause can also be infinitival. For instance in French the extraposition is particularly frequent for the subject of a copula+adjective construction:
+For French, the extraposition of a (finite or infinitival) subject clause occurs both impersonal construction (with an "il" nominative clitic) and in the more general right dislocation (with a "ça" pronoun, not necessarily subject, see below)
+
+French right dislocation of a subject clause:
+~~~ sdparse
+Qu' elle vienne m' a surpris. \n The she came me-accusative has surprised.
+~~~
+~~~ sdparse
+ça/*il m' a surpris qu' elle vienne. \n it me-accusative has surprised that she came.
+~~~
+
+French impersonal construction for a clausal subject (no expl for these cases in French treebanks):
+~~~ sdparse
+Il arrive que des candidats soient interrogés \n It occurs that some candidates be interrogated
+nsubj(arrive, Il)
+ccomp(arrive, interrogés)
+~~~
+~~~ sdparse
+Il m' arrive parfois de dormir tard \n It me-dative occurs sometimes to sleep late
+nsubj(arrive, Il)
+xcomp(arrive, dormir)
+~~~
+
+In French the impersonal construction with clausal subject is particularly frequent for the subject of a copula+adjective construction:
 
 ~~~ sdparse
 Il est parfois difficile de rester calme \n It is sometimes difficult to stay calm
@@ -204,9 +229,9 @@ expl(kände, sig)
 *hon kände honom sjuk \n she felt him sick
 ~~~
 
-## Right dislocation (?)
+## Right dislocation (≠ expletive?)
 
-(marie: for French the extraposed complement clause is better and more generally described as right dislocation, of either a subject or a complement clause, with a coreferential indefinite pronoun "ça". The left dislocation is also possible, but it seems it has different prosodic properties, suggesting that the dislocated element is not part of the clause.
+For French, cases with an extraposed complement clause and a in-situ "ça" pronoun are better and more generally described as right dislocation, of either a subject or a complement clause. (marie: I need to read some litterature here, I think there are several cases to distinguish, with or without prosodic pauses, but I don't see arguments to treat these cases with an expletive rather than the dislocated relation. 
 
 ~~~ sdparse
 Qu'il parte m'a peiné \n That he left me-accusative has hurt
@@ -227,7 +252,7 @@ J'ai trouvé ça surprenant qu'il parte \n I found it surprising that he left
 More generally, informal French allows dislocating any kind of argument, with appropriate clitics.
 
 ~~~ sdparse
-Il les a cassées ses lunettes Paul \n He them-fem-acc has broken his sunglasses Paul
+Il les a cassées, ses lunettes, Paul \n He them-fem-acc has broken, his sunglasses, Paul
 ~~~
 
 
@@ -353,9 +378,9 @@ According to Holmberg and Nikanne (2002), Finnish has obligatory expletives in a
 
 French exhibits all of the prototypical constructions including some special variants (as described above). The use of the `expl` relation does not seem quite consistent across treebanks. Here is a rough characterization:
 
-* UD_French: The `expl` relation is used for extraposition (or right dislocation) and inherent reflexives. In addition, it is used for cases where a subject is realized both by a full noun phrase and a (clitic) pronoun (as an alternative to using `dislocated`). It is also used for the word "que" in some constructions. However, it does not appear to be used for impersonal subjects.
-* UD_French-Sequoia: The `expl` relation seems to be used primarily for "double subjects" and inherent reflexives.
-* UD_French-ParTUT: The `expl` relation is used for impersonal subjects and inherent reflexives.
+* UD_French: The `expl` relation is used nominative clitic doubling (in interrogatives), frozen clitics in verbal MWE ( e.g. _l' emporter_ (to win)), _s' en aller_ (to leave)), cases of euphonic optional additions ("l'" in "l'on", "l'une"). extraposition (or right dislocation). It is also used for the word "que" used in the restrictive construction (ne V que). In addition, it is used for a few left or right dislocation cases where an argument is realized both by a full noun phrase and a (clitic) pronoun (as an alternative to using `dislocated`).  However, it does not appear to be used for impersonal subjects (non referential "il"). It is also massively used for the "se" reflexive pronoun, but the annotation for the "se" clitic uses both `expl` and `obj` visibly without consistency, for the various cases (inherent reflexive, true reflexive or reciprocal, medio-passive marker ...).
+* UD_French-Sequoia: The `expl` relation is used primarily for inherent reflexives, se medio passive marker (relyong on manual classification of "se" clitics), nominative clitic doubling (in interrogatives), frozen clitics in verbal MWE ( e.g. _l' emporter_ (to win)), _s' en aller_ (to leave)). It is not used for impersonal subjects.
+* UD_French-ParTUT: The `expl` relation is used for impersonal subjects (when alternating with non impersonal construction) and inherent reflexives.
 * UD_French-Spoken: The `expl` relation is not used at all.
 * UD_French-PUD: The `expl` relation seems to be overused and is found also in cases where a pronoun is clearly referential (perhaps as a result of automatic parsing without full manual validation).
 
