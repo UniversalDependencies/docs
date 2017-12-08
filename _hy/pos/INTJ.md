@@ -23,4 +23,4 @@ cannot serve to judge the part of speech from the English perspective.)
 - _ա՜հ&nbsp;_ “oh”
 - _օհո՜&nbsp;_ “wow”
 - _դե՛, դե՛հ&nbsp;_ “well”
-- _Աստծո՜ սրիույն&nbsp;_ “for God's sake”
+- _Աստծո սիրույն&nbsp;_ “for God's sake”
