@@ -45,7 +45,7 @@ Imperfect is a special case of the past tense. It denotes actions that are happe
 
 The auxiliaries _էի&nbsp;_ and _կայի&nbsp;_ will have `Tense=Imp`.
 
-Note, that a limited set of verbs form imperfect and present morphologically with “non-expanded” vs. “expanded” stems (traditionally called “Defective Verbs with Secondary Expanded Stems”). The difference between these forms are related to `Mood` or `Aspect` rather than `Tense`. Both stems refer to a past / present event.
+Note, that a limited set of verbs form indicative imperfect and present morphologically with “non-expanded” stem. The difference between these and their marked “expanded” counterparts (traditionally called “Defective Verbs with Secondary Expanded Stems”) are related to `Mood` or `Aspect` rather than `Tense`.
 
 #### Examples
 
@@ -70,7 +70,7 @@ The auxiliaries _եմ&nbsp;_ and _կամ&nbsp;_ will have `Tense=Pres`.
 
 Present forms of verbs in subjunctive, conditional and necessitative moods have future meaning. These forms are tagged `Tense=Pres` not `Tense=Fut` as in traditional grammars.
 
-The remaining verbs with “secondary expanded stems” (see above) will have also `Tense=Pres`.
+The remaining verbs with “non-expanded” stems (see above) will have also `Tense=Pres` in indicative mood.
 
 #### Examples
 
