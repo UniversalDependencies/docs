@@ -42,10 +42,10 @@ Infinitves inflect for [Case](), [Definite](), [PossNumber]() and [PossPerson]()
 #### Examples
 
 * _<b>խմել</b> տվեցի_ &nbsp;“I made him <b>drink</b>”,
-* _կարող ես <b>գնալ</b>_ &nbsp;“You can <b>go</b>”,
+* _կարող ես <b>գնալ</b>_ &nbsp;“you can <b>go</b>”,
 * _որոշեցի անմիջապես <b>չասել</b>_ &nbsp;“I decided <b>not to say</b> immediately”,
 * _<b>մտնելուց</b> հետո_ &nbsp;“after <b>entering</b>”,
-* _<b>սպանվելու</b> միտքը_ &nbsp;“lit: the though <b>of to be killed</b>”
+* _<b>սպանվելու</b> միտքը ծանր էր_ &nbsp;“lit: the thought <b>of to be killed</b> was hard”
 
 ### <a name="Part">`Part`</a>: participle, verbal adjective
 
@@ -62,7 +62,7 @@ Armenian has eight types of participles:
 - The future-II (state of prospective action) participle can be used only adjectively.
 - The perfect participle is used to form the indicative mood in present perfect or imperfect in the past (past perfect) tense.
 - The negative participle is used to form the negated conditional mood in present or imperfect tense.
-- The the processual (progressive) participle is used to form the indicative mood in present or imperfect tense for the verbs _գալ,լալ, տալ_.
+- The the processual (progressive) participle is used to form the indicative mood in present or imperfect tense for the verbs _գալ, լալ, տալ_.
 
 Note, that the processual (progressive), resultative and future-I participles can be used to form the secondary complex tenses (in any tense or mood).
 
@@ -71,10 +71,10 @@ Participles will have also [Aspect]() and [Voice]().
 #### Examples
 
 * _քնած, գրած, ուղարկված, կանգնեցված_ &nbsp;“slept, written, sent, raised” (resultative participle, in different voices),
-* _գրող, մեռնող, տվող, եղող, բացվող_ &nbsp;“writing, dying, giving, beeing, opening smth” (subject participle, in different voices),
-* _սիրում, խոսվում, բարձրացվում_ &nbsp;“love, smth to be speaking about, beeing raised” (imperfective participle, in different voices),
+* _գրող, մեռնող, տվող, եղող, բացվող_ &nbsp;“(smth.) writing, dying, giving, beeing, opening” (subject participle, in different voices),
+* _սիրում, խոսվում, բարձրացվում_ &nbsp;“love; smth. to be speaking about; beeing raised” (imperfective participle, in different voices),
 * _տեսնելու, լվացվելու, մեղմացվելու_ &nbsp;“for seeing, for washing, for beeing extenuated” (future-I participle, in different voices),
-* _կարդալիք, կառուցվելիք_ &nbsp;“smth to be read, to be built” (future-II participle, in different voices),
+* _կարդալիք, կառուցվելիք_ &nbsp;“(smth.) to be read, to be built” (future-II participle, in different voices),
 * _գնացել, խմել, դրել_ &nbsp;“have done, have drunk, have put” (perfect participle),
 * _(չեմ) գրի, (չէի) ասի, (չեմ) կարդա, (չէի) մոտենա_ &nbsp;“I will not write, I would not say, I will not read, I woul not approach” (negative participle),
 * _<b>գալիս</b> եմ/էի, <b>տալիս</b> եմ/էի, <b>լալիս</b> եմ/էի, <b>աշխատելիս</b> է եղել_ &nbsp;“I am/was <b>coming</b>, I am/was <b>giving</b>, I am/was <b>crying</b>, he has been <b>working</b>” (processual participle in different moods and tenses)
