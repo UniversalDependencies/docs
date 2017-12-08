@@ -29,7 +29,7 @@ Rule of thumb: if it has non-empty [Mood](), it is finite. In Armenian this appl
 * _գնացի, գնացիր, գնաց, գնացինք, գնացիք, գնացին_ &nbsp;“I went, you went, he/she/it went, we went, you went, they went”,
 * _եմ, ես, է, ենք, եք, են_ &nbsp;“I am, you are, he/she/it is, we are, you are, they are”,
 * _գնա՛, գնացե՛ք_ &nbsp;“go” (imperative in different numbers),
-* _գնամ, գնաս, գնա, գնանք, գնաք, գնան_ &nbsp;“I go.`Sub`, you go.`Sub`, he/she/it go.`Sub`, we go.`Sub`, you go.`Sub`, they go.`Sub`”.
+* _գնամ, գնաս, գնա, գնանք, գնաք, գնան_ &nbsp;“I go.`Sub`, you go.`Sub`, he/she/it go.`Sub`, we go.`Sub`, you go.`Sub`, they go.`Sub`”
 
 ### <a name="Inf">`Inf`</a>: infinitive
 
@@ -45,7 +45,7 @@ Infinitves inflect for [Case](), [Definite](), [PossNumber]() and [PossPerson]()
 * _կարող ես <b>գնալ</b>_ &nbsp;“you can <b>go</b>”,
 * _որոշեցի անմիջապես <b>չասել</b>_ &nbsp;“I decided <b>not to say</b> immediately”,
 * _<b>մտնելուց</b> հետո_ &nbsp;“after <b>entering</b>”,
-* _<b>սպանվելու</b> միտքը ծանր էր_ &nbsp;“lit: the thought <b>of to be killed</b> was hard”.
+* _<b>սպանվելու</b> միտքը ծանր էր_ &nbsp;“lit: the thought <b>of to be killed</b> was hard”
 
 ### <a name="Part">`Part`</a>: participle, verbal adjective
 
@@ -90,4 +90,4 @@ Verbs form transgressive meaning “while doing”.
 
 * _<b>վազելիս</b> ընկա_ &nbsp;“I fell <b>while running</b>”,
 * _<b>կարդալիս</b> ննջեց_ &nbsp;“he slept <b>while reading</b>”,
-* _<b>ուտելիս</b> շտապում է_ &nbsp;“he hurries <b>while eating</b>”.
+* _<b>ուտելիս</b> շտապում է_ &nbsp;“he hurries <b>while eating</b>”
