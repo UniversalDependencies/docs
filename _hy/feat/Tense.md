@@ -30,7 +30,7 @@ Actions that happen before or during a future event are expressed using an auxil
 
 Note also, that there is an elaborate system of parallel tense/aspect/mood forms (traditionally called “secondary compound tenses”) formed periphrastically by forms of the auxiliary _լինեմ&nbsp;_ and the resultative, processual and future participles of the main verb. They express actions that happened before, during, and after past or present reference. For these periphrastical forms we use `Tense=Imp`, `Tense=Imp` or `Tense=Pres` with perfect (`Perf`), imperfect (`Imp`) or prospective (`Prosp`) `Aspect`.
 
-### <a name="Past">`Past`</a>: past tense / preterite / aorist
+### <a name="Past">`Past`</a>: past tense / aorist
 
 The past tense denotes actions that happened before the current
 moment, a (completed) past event. In Armenian this is aorist.
