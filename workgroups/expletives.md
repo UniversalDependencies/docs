@@ -399,6 +399,7 @@ majority of cases the clitic pronoun is in 3rd person, but also found
 in 1st and 2nd person, both singular and plural. The `expl`relation is subtyped: `expl:impers` for the impersonal construction and `expl:pass`for impersonal passives.
 The expletive relation is used (at least) in the following constructions:
 * impersonal construction (active and passive):
+
   Ci si viene per riposarsi, curarsi, sarebbe quindi assurdo non approfittarne. (Transl.: One comes to rest, to take care of oneself, so it would be absurd not to take advantage of it.)
   
 ~~~ conllu
@@ -426,6 +427,7 @@ The expletive relation is used (at least) in the following constructions:
 17	.	.	PUNCT	FS	_	3	punct	_	_ 
 
 ~~~
+
  Una Fiesta per Vip Se i cavalli ci sono si devono vedere. (Transl.: A Fiesta for VIPs If the horses are there, they must be seen.)
 
 ~~~ conllu
