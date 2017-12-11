@@ -617,6 +617,11 @@ In the 2.1 version of the Portuguese treebank, `expl` is used for "se" and alway
 
 Examples (some are taken from Silveira, marked as such):
 
+* true reflexive (from Silveira): Gravações acústicas se encaixam com o nosso tipo de som. (Transl.: Sound recordings fit with our type of sound.) 
+* inherent reflexive: O deputado se aproximou. (Transl.: The deputy approached.)
+* inchoative: E, mesmo ao cair da folha, 1994 tornou-se um ano de alegria. (Transl.: And even as it fell from the leaf, 1994 became a year of joy.)
+* passive/middle (from Silveira): E aí colocam-se novas dúvidas: (Transl.: And then there are new doubts:)
+* impersonal
 
 ### Romanian
   * Dar asemenea lucruri nu le știai decât din zvonuri vagi. (expletive "le", transl. "But you knew such things only from vague rumors.")
