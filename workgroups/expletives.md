@@ -450,6 +450,7 @@ The expletive relation is used (at least) in the following constructions:
 ~~~
 
 * existential sentences
+
  Ce n'era abbastanza per avvertire la magistratura. (Transl.: There was enough to warn the judiciary.)
 
 ~~~ conllu
@@ -468,6 +469,7 @@ The expletive relation is used (at least) in the following constructions:
 ~~~
 
 * inherent reflexives, these are often but not always enclitic
+
  Mansell e Prost si sono scambiati segni di reciproca stima. (Transl.: Mansell and Prost exchanged signs of mutual respect.)
 
 ~~~ conllu
