@@ -400,6 +400,7 @@ in 1st and 2nd person, both singular and plural. The `expl`relation is subtyped:
 The expletive relation is used (at least) in the following constructions:
 * impersonal construction (active and passive):
   Ci si viene per riposarsi, curarsi, sarebbe quindi assurdo non approfittarne. (Transl.: One comes to rest, to take care of oneself, so it would be absurd not to take advantage of it.)
+  
 ~~~ conllu
 # visual-style	1	bgColor:lightgreen
 # hittoken:	2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	_
@@ -426,6 +427,7 @@ The expletive relation is used (at least) in the following constructions:
 
 ~~~
  Una Fiesta per Vip Se i cavalli ci sono si devono vedere. (Transl.: A Fiesta for VIPs If the horses are there, they must be seen.)
+
 ~~~ conllu
 # visual-style	1	bgColor:lightgreen
 # hittoken:	10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl:pass	_	_
@@ -447,6 +449,7 @@ The expletive relation is used (at least) in the following constructions:
 
 * existential sentences
  Ce n'era abbastanza per avvertire la magistratura. (Transl.: There was enough to warn the judiciary.)
+
 ~~~ conllu
 # visual-style	1	bgColor:lightgreen
 # hittoken:	1	Ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	_
@@ -464,6 +467,7 @@ The expletive relation is used (at least) in the following constructions:
 
 * inherent reflexives, these are often but not always enclitic
  Mansell e Prost si sono scambiati segni di reciproca stima. (Transl.: Mansell and Prost exchanged signs of mutual respect.)
+
 ~~~ conllu
 # visual-style	1	bgColor:lightgreen
 # hittoken:	4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
