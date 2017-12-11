@@ -57,7 +57,7 @@ In Armenian this is the word form used for subjects of clauses, for direct objec
 
 ### <a name="Gen">`Gen`</a>: genitive
 
-Prototypical meaning of genitive is that the noun phrase somehow
+In many languages prototypical meaning of genitive is that the noun phrase somehow
 belongs to its governor.
 
 We not recognizing the genitive except for possessive personal, some demonstrative pronouns and _իր&nbsp;_ “one’s own”, _ում&nbsp;_ “whose”.
@@ -71,7 +71,7 @@ belongs to its governor (see above).
 
 #### Examples
 
-* _Ես <b>եղբորս</b> նվեր տվեցի&nbsp;_ “I gave my brother a present.”
+* _Ես <b>եղբորս</b> նվեր տվեցի։&nbsp;_ “I gave my brother a present.”
   (_եղբորս&nbsp;_ “my brother” is dative and
   _նվեր&nbsp;_ “present” is nominative.)
 * _ Երևանը <b>Հայաստանի</b> մայրաքաղաքն է։&nbsp;_ “Yerevan is the
@@ -100,8 +100,8 @@ constructions (cf. the English preposition _by_).
 
 #### Examples
 
-* _Օրինագիծը <b>դժվարությամբ</b> հաստատվեց&nbsp;_ “This bill has been approved <b>by difficulty</b>.”
-* _Գետնինը ծածկվեց <b>ձյունով</b>&nbsp;_ “The earth has been covered <b>by snow</b>.” (Passive example)
+* _Օրինագիծը <b>դժվարությամբ</b> հաստատվեց։&nbsp;_ “This bill has been approved <b>by difficulty</b>.”
+* _Գետնինը ծածկվեց <b>ձյունով</b>։&nbsp;_ “The earth has been covered <b>by snow</b>.” (Passive example)
 
 ### <a name="Loc">`Loc`</a>: locative
 
@@ -111,12 +111,7 @@ they are not rare. On the other hand, some location roles
 may be expressed using other cases (e.g. because those cases are
 required by a preposition).
 
-This is the only Czech case that is used exclusively in
-combination with prepositions.
-
 #### Examples
 
-* _V <b>červenci</b> jsem byl ve <b>Švédsku</b>.&nbsp;_ “In <b>July</b>
-  I was in <b>Sweden</b>.”
-* _Mluvili jsme tam o <b>morfologii</b>.&nbsp;_ “We talked there about
-  <b>morphology</b>.” (Non-locational non-temporal example)
+* _Հուլիսին ես <b>Շվեդիայում</b> էի։&nbsp;_ “In July I was in <b>Sweden</b>.”
+* _Մի <b>ժամում</b> հասավ։&nbsp;_ “lit: He got there in an <b>hour</b>.”
