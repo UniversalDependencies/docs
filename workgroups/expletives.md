@@ -596,8 +596,28 @@ In the Norwegian UD treebanks the `expl` relation is used for the following of t
 
 
 ### Portuguese
-  * Na confusão que se segue, parte um primeiro tiro [...] (expletive "se", transl. "In the confusion that follows, a first shot [...]") 
-  
+The `expl` relation is only found in UD_Portuguese (not Portuguese-BR) and it is used exclusively for the pronoun "se".
+
+[Natalia Silveira's dissertation](https://nlp.stanford.edu/~manning/dissertations/Silveira-Natalia-dissertation-augmented.pdf)
+discusses use of the SE-clitic in Romance ("se" in French, Portuguese
+and Spanish, "si" in Italian). The SE-clitic is apparently used for a range of different
+constructions, which prove difficult to unify.  Silveira discusses the
+following constructions:
+
+* true reflexive: have a transitive counterpart
+* inherent reflexive: have no transitive counterpart, additional arguments realized as obliques
+* inchoative se (break): alternate with transitive counterpart, no reciprocal reading
+* passive/middle se: cannot take an agent phrase
+* impersonal se: no overt subject, present argument does not trigger agreement
+
+Silveira presents data from the 1.2 treebanks (where the Portuguese,
+Spanish and French treebanks did not make use of the expl relation at all for
+se). 
+In the 2.1 version of the Portuguese treebank, `expl` is used for "se" and always co-occurs with a verb which bears the feature "se-passive". This is somewhat misleading because these are often not actually passive constructions. 
+
+Examples (some are taken from Silveira, marked as such):
+
+
 ### Romanian
   * Dar asemenea lucruri nu le știai decât din zvonuri vagi. (expletive "le", transl. "But you knew such things only from vague rumors.")
   
