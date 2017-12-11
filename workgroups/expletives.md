@@ -399,8 +399,85 @@ majority of cases the clitic pronoun is in 3rd person, but also found
 in 1st and 2nd person, both singular and plural. The `expl`relation is subtyped: `expl:impers` for the impersonal construction and `expl:pass`for impersonal passives.
 The expletive relation is used (at least) in the following constructions:
 * impersonal construction (active and passive)
+~~~ conllu
+# visual-style	1	bgColor:lightgreen
+# hittoken:	2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	_
+1	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	_
+3	viene	venire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	per	per	ADP	E	_	5	mark	_	_
+5-6	riposarsi	_	_	_	_	_	_	_	SpaceAfter=No
+5	riposar	riposare	VERB	V	VerbForm=Inf	3	advcl	_	_
+6	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	5	expl	_	_
+7	,	,	PUNCT	FF	_	5	punct	_	_
+8-9	curarsi	_	_	_	_	_	_	_	SpaceAfter=No
+8	curar	curare	VERB	V	VerbForm=Inf	5	advcl	_	_
+9	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl	_	_
+10	,	,	PUNCT	FF	_	13	punct	_	_
+11	sarebbe	essere	AUX	V	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
+12	quindi	quindi	ADV	B	_	13	advmod	_	_
+13	assurdo	assurdo	ADJ	A	Gender=Masc|Number=Sing	3	conj	_	_
+14	non	non	ADV	BN	PronType=Neg	15	advmod	_	_
+15-16	approfittarne	_	_	_	_	_	_	_	SpaceAfter=No
+15	approfittar	approfittare	VERB	V	VerbForm=Inf	13	csubj	_	_
+16	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	15	iobj	_	_
+17	.	.	PUNCT	FS	_	3	punct	_	_ 
+
+~~~
+~~~ conllu
+# visual-style	1	bgColor:lightgreen
+# hittoken:	10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl:pass	_	_
+1	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	Fiesta	Fiesta	PROPN	SP	_	12	obl	_	_
+3	per	per	ADP	E	_	4	case	_	_
+4	Vip	vip	NOUN	S	Gender=Masc	2	nmod	_	_
+5	Se	se	SCONJ	CS	_	9	mark	_	_
+6	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	cavalli	cavallo	NOUN	S	Gender=Masc|Number=Plur	9	nsubj	_	_
+8	ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	9	expl	_	_
+9	sono	essere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	_
+10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl:pass	_	_
+11	devono	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	vedere	vedere	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	12	punct	_	_ 
+
+~~~
+
 * existential sentences
-* inherent reflexives, these are often enclitic
+~~~ conllu
+# visual-style	1	bgColor:lightgreen
+# hittoken:	1	Ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	_
+1	Ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	_
+2	n'	ne	PRON	PC	Clitic=Yes|PronType=Prs	4	iobj	_	SpaceAfter=No
+3	era	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
+4	abbastanza	abbastanza	ADV	B	_	0	root	_	_
+5	per	per	ADP	E	_	6	mark	_	_
+6	avvertire	avvertire	VERB	V	VerbForm=Inf	4	advcl	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	magistratura	magistratura	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	4	punct	_	_ 
+
+~~~
+
+* inherent reflexives, these are often but not always enclitic
+~~~ conllu
+# visual-style	1	bgColor:lightgreen
+# hittoken:	4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+1	Mansell	Mansell	PROPN	SP	_	6	nsubj	_	_
+2	e	e	CCONJ	CC	_	3	cc	_	_
+3	Prost	Prost	PROPN	SP	_	1	conj	_	_
+4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
+5	sono	essere	AUX	VA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+6	scambiati	scambiare	VERB	V	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+7	segni	segno	NOUN	S	Gender=Masc|Number=Plur	6	obj	_	_
+8	di	di	ADP	E	_	10	case	_	_
+9	reciproca	reciproco	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	_
+10	stima	stima	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	FS	_	6	punct	_	_ 
+
+~~~
+
+
 
 ### Norwegian
   * Det var veldig positivt at han klarte å senke tiden sin (expletive "Det", transl. "It was very positive that he managed to lower his time")
