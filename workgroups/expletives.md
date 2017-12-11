@@ -402,7 +402,7 @@ The expletive relation is used (at least) in the following constructions:
 * impersonal construction (active and passive): Ci si viene per riposarsi, curarsi, sarebbe quindi assurdo non approfittarne. (Transl.: One comes to rest, to take care of oneself, so it would be absurd not to take advantage of it.)
   
 ~~~ conllu
-# visual-style	4	bgColor:lightgreen
+# visual-style	2	bgColor:lightgreen
 # hittoken:	2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	_
 1	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
 2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	_
@@ -430,7 +430,7 @@ The expletive relation is used (at least) in the following constructions:
 Una Fiesta per Vip Se i cavalli ci sono si devono vedere. (Transl.: A Fiesta for VIPs If the horses are there, they must be seen.)
 
 ~~~ conllu
-# visual-style	4	bgColor:lightgreen
+# visual-style	10	bgColor:lightgreen
 # hittoken:	10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl:pass	_	_
 1	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Fiesta	Fiesta	PROPN	SP	_	12	obl	_	_
@@ -451,7 +451,7 @@ Una Fiesta per Vip Se i cavalli ci sono si devono vedere. (Transl.: A Fiesta for
 * existential sentences: Ce n'era abbastanza per avvertire la magistratura. (Transl.: There was enough to warn the judiciary.)
 
 ~~~ conllu
-# visual-style	4	bgColor:lightgreen
+# visual-style	1	bgColor:lightgreen
 # hittoken:	1	Ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	_
 1	Ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	_
 2	n'	ne	PRON	PC	Clitic=Yes|PronType=Prs	4	iobj	_	SpaceAfter=No
@@ -510,7 +510,7 @@ In the Norwegian UD treebanks the `expl` relation is used for the following of t
 * Existential/presentational: Det kom en busslast med japanere til klosteret mens jeg sto der. (There came a bus-load of japanese while I stood there.)
 
 ~~~ conllu
-# visual-style	4	bgColor:lightgreen
+# visual-style	1	bgColor:lightgreen
 # hittoken:	1	Det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
 1	Det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
 2	kom	komme	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -529,8 +529,70 @@ In the Norwegian UD treebanks the `expl` relation is used for the following of t
 ~~~
 
 * Impersonal passives: Homofili handler bare om sex, sies det av og til. (Transl.: Homosexuality is only about sex, it is sometimes said.)
+
+~~~ conllu
+# visual-style	8	bgColor:lightgreen
+# hittoken:	8	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	expl	_	_
+1	Homofili	homofili	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	handler	handle	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	bare	bare	ADV	_	_	2	advmod	_	_
+4	om	om	ADP	_	_	5	case	_	_
+5	sex	sex	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
+6	,	$,	PUNCT	_	_	2	punct	_	_
+7	sies	si	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	2	parataxis	_	_
+8	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	expl	_	_
+9	av	av	ADP	_	_	7	compound:prt	_	_
+10	og	og	CCONJ	_	_	11	cc	_	_
+11	til	til	ADP	_	_	9	conj	_	SpaceAfter=No
+12	.	$.	PUNCT	_	_	2	punct	_	_ 
+
+~~~
+
 * Extraposed clausal subjects: Då er det viktig å ha eit godt brød å smøre matpakke av. (Transl.: Then it is important to have good bread to make lunch from.)
+
+~~~ conllu
+# visual-style	3	bgColor:lightgreen
+# hittoken:	3	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
+1	Då	då	ADV	_	_	4	advmod	_	_
+2	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
+4	viktig	viktig	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
+5	å	å	PART	_	_	6	mark	_	_
+6	ha	ha	VERB	_	VerbForm=Inf	4	csubj	_	_
+7	eit	ein	DET	_	Gender=Neut|Number=Sing|PronType=Art	9	det	_	_
+8	godt	god	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	9	amod	_	_
+9	brød	brød	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	6	obj	_	_
+10	å	å	PART	_	_	11	mark	_	_
+11	smøre	smøre	VERB	_	VerbForm=Inf	9	acl	_	_
+12	matpakke	matpakke	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	11	obj	_	_
+13	av	av	ADP	_	_	12	nmod	_	SpaceAfter=No
+14	.	$.	PUNCT	_	_	4	punct	_	_ 
+
+~~~
+
 * Extraposed complement clauses: Det var Harald Zwart som på 1990-tallet fant det helt nødvendig å mobbe norsk film. (It was Harald Zwart who in the 1990s found it completely necessary to make fun of Norwegian film.)
+
+~~~ conllu
+# visual-style	9	bgColor:lightgreen
+# hittoken:	9	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	expl	_	_
+1	Det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+2	var	være	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	3	cop	_	_
+3	Harald	Harald	PROPN	_	Gender=Masc	0	root	_	_
+4	Zwart	Zwart	PROPN	_	_	3	flat:name	_	_
+5	som	som	PRON	_	PronType=Rel	8	nsubj	_	_
+6	på	på	ADP	_	_	7	case	_	_
+7	1990-tallet	1990-tall	NOUN	_	Definite=Def|Gender=Neut|Number=Sing	8	obl	_	_
+8	fant	finne	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	3	acl:relcl	_	_
+9	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	expl	_	_
+10	helt	hel	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	11	advmod	_	_
+11	nødvendig	nødvendig	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	8	xcomp	_	_
+12	å	å	PART	_	_	13	mark	_	_
+13	mobbe	mobbe	VERB	_	VerbForm=Inf	8	xcomp	_	_
+14	norsk	norsk	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	15	amod	_	_
+15	film	film	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	13	obj	_	SpaceAfter=No
+16	.	$.	PUNCT	_	_	3	punct	_	_ 
+
+~~~
 
 
 ### Portuguese
