@@ -32,20 +32,20 @@ adpositions and other words will determine that the noun phrase must
 be in a particular grammatical case to fill a particular valency slot
 (semantic role).
 
-Armenian morphology distinguishes from five (morphological) to seven (syntactic) cases:
+Armenian linguistics distinguishes from five (morphological) to seven (syntactic) cases:
 `Nom`, `Gen`, `Dat`, `Acc`, `Abl`, `Ins` and `Loc` (this ordering is fixed in the grammar and the cases are also referred to by numbers 1–7).
 
 Note, that the first (direct) object of the verb can be formed in nominative or dative (syntactic accusative), this is related to [Animacy](). They will be tagged `Case=Nom` and `Case=Dat` and not `Case=Nom,Acc` or `Case=Gen,Dat` as in some Armenian grammars.
 
 The difference between `Gen` and `Dat` is related to [definiteness](Definite). The `Gen` can not have `Definite=Def`.
 
-Note also, that vocatives, and noun modifiers as an attribute in nominative or as a genitive complement in genitive can not have `Definite=Def`. In these cases we declare `Definite=Ind`. This value will have also `Ins`, `Abl` and `Loc` cases.
+Note also, that vocatives, and noun modifiers as an attribute in nominative or as a genitive complement in genitive can not have `Definite=Def`. In these cases we declare `Definite=Ind`. Only this value will have also `Ins`, `Abl` and `Loc` cases.
 
-Only personal and demonstrative pronouns distinguish between `Case=Gen` and `Case=Dat`. In genitive they will have `Poss=Yes`.
+Personal and demonstrative pronouns distinguish between `Case=Gen` and `Case=Dat`. In genitive they will have `Poss=Yes`.
 
 #### Examples
 
-* singular nominative _դպրոց&nbsp;_ “school”, dative _դպրոցի(ն),&nbsp;_ ablativ _սեղանից,&nbsp;_ instrumental _սեղանով,&nbsp;_ locative _սեղանում_
+* singular nominative _դպրոց&nbsp;_ “school”, dative _դպրոցի(ն),&nbsp;_ ablativ _դպրոցից,&nbsp;_ instrumental _դպրոցով,&nbsp;_ locative _դպրոցում_
 * singular nominative _ժամանակ&nbsp;_ “time”, dative _ժամանակի(ն), ժամանակվա(ն),&nbsp;_ ablativ _ժամանակից, ժամանակվանից,&nbsp;_ instrumental _ժամանակով,&nbsp;_ locative _ժամանակում_
 * singular nominative _արյուն,&nbsp;_ “blood”, dative _արյան(ն),&nbsp;_ ablativ _արյունից,&nbsp;_ instrumental _արյունով, արյամբ&nbsp;_
 * singular nominative _մայր&nbsp;_ “mother”, dative _մոր(ն),&nbsp;_ ablativ _մորից,&nbsp;_ instrumental _մորով_
@@ -53,61 +53,39 @@ Only personal and demonstrative pronouns distinguish between `Case=Gen` and `Cas
 ### <a name="Nom">`Nom`</a>: nominative
 
 The base form of the noun, also used as citation form (lemma).
-This is the word form used for subjects of clauses.
+In Armenian this is the word form used for subjects of clauses, for direct objects of verbs and to address someone. 
 
 ### <a name="Gen">`Gen`</a>: genitive
 
 Prototypical meaning of genitive is that the noun phrase somehow
-belongs to its governor; it would often be translated by the English
-preposition _of._
+belongs to its governor.
 
-Note that despite considerable semantic overlap, the genitive case is
-not the same as the feature of possessivity ([Poss]()). Possessivity
-is a lexical feature, i.e. it applies to lemma and its whole
-paradigm. Genitive is a feature of just a subset of word forms of the
-lemma. Semantics of possessivity is much more clearly defined while
-the genitive (as many other cases) may be required in situations that
-have nothing to do with possessing. For example, _bez
-prezidentovy dcery&nbsp;_ “without the president's daughter” is a
-prepositional phrase containing the preposition _bez&nbsp;_ “without”, the
-possessive adjective _prezidentovy&nbsp;_ “president's” and the noun _dcery&nbsp;_
-“daughter”. The possessive adjective is derived from the noun
-_prezident&nbsp;_ but it is really an adjective (with separate lemma and
-paradigm), not just a form of the noun. In addition, both the
-adjective and the noun are in their genitive forms (the nominative
-would be _prezidentova dcera_).  There is nothing possessive about
-this particular occurrence of the genitive. It is there because the
-preposition _bez&nbsp;_ always requires its argument to be in genitive.
-
-#### Examples
-
-* _Praha je hlavní město <b>České republiky</b>.&nbsp;_ “Prague is the
-  capital <b>of the Czech Republic</b>.”
+We not recognizing the genitive except for possessive personal, some demonstrative pronouns and _իր&nbsp;_ “one’s own”, _ում&nbsp;_ “whose”.
 
 ### <a name="Dat">`Dat`</a>: dative
 
 This is the word form often used for indirect objects of verbs.
 
+In Armenian this form is used also for cases when the noun phrase somehow
+belongs to its governor (see above).
+
 #### Examples
 
-* _Dal jsem dárek <b>svému bratrovi</b>.&nbsp;_ “I gave my brother a present.”
-  (_svému bratrovi&nbsp;_ “my brother” is dative and
-  _dárek&nbsp;_ “present” is accusative.)
-
-### <a name="Acc">`Acc`</a>: accusative
-
-Perhaps the second most widely spread morphological case.
-This is the word form most frequently used for direct objects of verbs.
+* _Ես <b>եղբորս</b> նվեր տվեցի։&nbsp;_ “I gave my brother a present.”
+  (_եղբորս&nbsp;_ “my brother” is dative and
+  _նվեր&nbsp;_ “present” is nominative.)
+* _ Երևանը <b>Հայաստանի</b> մայրաքաղաքն է։&nbsp;_ “Yerevan is the
+  capital <b>of Armenia</b>.”
 
 ### <a name="Abl">`Abl`</a>: ablative
 
-Prototypical meaning: direction from some point.
+Prototypical meaning: direction from some point (object, location or time).
 
 #### Examples
 
-* _սեղանից_ "from the table"
-* _տանիքից_ "from the roof"
-* _ծովափից_  "from the beach"
+* _սեղանից&nbsp;_ "from the table"
+* _ծովափից&nbsp;_ "from the beach"
+* _ամառվանից&nbsp;_ "from the summer"
 
 ### <a name="Loc">`Loc`</a>: locative
 
