@@ -51,10 +51,6 @@ Note, that fintie present and imperfect forms of _եմ&nbsp;_ and _էի&nbsp;_ a
 
 Note, that in Armenian copulas are also tagged `AUX` and the definition of copula sentences has been extended
 to location-existentials (_Նա տանն <b>է</b>։ / Նա տանն է <b>լինում</b>։&nbsp;_ “He <b>is</b> at home.”) Hence almost all occurrences of _եմ&nbsp;_ and _լինեմ (լինել)&nbsp;_ should be now tagged `AUX`.
-Only pure existentials without location (_Այն <b>եղել</b> է ու </b>կա</b> որպես հուշ։&nbsp;_ “It <b>has been</b> and <b>is</b> as a memory.”) have a non-auxiliary _լինել&nbsp;_ and _կամ&nbsp;_ which should be tagged `VERB`.
+Only pure existentials without location (_Այն <b>եղել</b> է ու <b>կա</b> որպես հուշ։&nbsp;_ “It <b>has been</b> and <b>is</b> as a memory.”) have a non-auxiliary _լինել&nbsp;_ and _կամ&nbsp;_ which should be tagged `VERB`.
 
 Note, that finite form of existentials _կամ&nbsp;_ and _ունեմ&nbsp;_ in combination with resultative participle (_Նա հագած <b>ուներ</b> թեթև վերարկու։_ “He <b>had</b> a light coat dressed.” or _Երեկվանից ոչ մի տող գրած <b>չկամ</b>։_ “I <b>do not have</b> a single line written since yesterday.” (lit: “I <b>do not exist</b> written a single row since yesterday.”) are also tagged `AUX` (so-called “experiential forms”, mainly negativ or interrogative).
-
-### Modal verbs are not auxiliaries
-
-Armenian modal verbs are not considered auxiliaries and they are tagged `VERB`. Their behavior is only slightly different from other content verbs.
