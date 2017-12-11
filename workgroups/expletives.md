@@ -402,7 +402,7 @@ The expletive relation is used (at least) in the following constructions:
 * impersonal construction (active and passive): Ci si viene per riposarsi, curarsi, sarebbe quindi assurdo non approfittarne. (Transl.: One comes to rest, to take care of oneself, so it would be absurd not to take advantage of it.)
   
 ~~~ conllu
-# visual-style	1	bgColor:lightgreen
+# visual-style	4	bgColor:lightgreen
 # hittoken:	2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	_
 1	Ci	ci	PRON	PC	Clitic=Yes|PronType=Prs	3	expl	_	_
 2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	3	expl:impers	_	_
@@ -430,7 +430,7 @@ The expletive relation is used (at least) in the following constructions:
 Una Fiesta per Vip Se i cavalli ci sono si devono vedere. (Transl.: A Fiesta for VIPs If the horses are there, they must be seen.)
 
 ~~~ conllu
-# visual-style	1	bgColor:lightgreen
+# visual-style	4	bgColor:lightgreen
 # hittoken:	10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl:pass	_	_
 1	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Fiesta	Fiesta	PROPN	SP	_	12	obl	_	_
@@ -451,7 +451,7 @@ Una Fiesta per Vip Se i cavalli ci sono si devono vedere. (Transl.: A Fiesta for
 * existential sentences: Ce n'era abbastanza per avvertire la magistratura. (Transl.: There was enough to warn the judiciary.)
 
 ~~~ conllu
-# visual-style	1	bgColor:lightgreen
+# visual-style	4	bgColor:lightgreen
 # hittoken:	1	Ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	_
 1	Ce	ce	PRON	PC	Clitic=Yes|PronType=Prs	4	expl	_	_
 2	n'	ne	PRON	PC	Clitic=Yes|PronType=Prs	4	iobj	_	SpaceAfter=No
@@ -468,7 +468,7 @@ Una Fiesta per Vip Se i cavalli ci sono si devono vedere. (Transl.: A Fiesta for
 * inherent reflexives, these are often but not always enclitic: Mansell e Prost si sono scambiati segni di reciproca stima. (Transl.: Mansell and Prost exchanged signs of mutual respect.)
 
 ~~~ conllu
-# visual-style	1	bgColor:lightgreen
+# visual-style	4	bgColor:lightgreen
 # hittoken:	4	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	6	expl	_	_
 1	Mansell	Mansell	PROPN	SP	_	6	nsubj	_	_
 2	e	e	CCONJ	CC	_	3	cc	_	_
@@ -485,12 +485,49 @@ Una Fiesta per Vip Se i cavalli ci sono si devono vedere. (Transl.: A Fiesta for
 ~~~
 
 
-
 ### Norwegian
 In the Norwegian UD treebanks the `expl` relation is used for the following of the above constructions:
 
 * Weather verbs: Nå begynner det å regne, sier han plutselig. (Transl.: Now it's beginning to rain, he said suddenly.)
+
+~~~ conllu
+# visual-style	4	bgColor:lightgreen
+# hittoken:	4	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+1	-	$-	PUNCT	_	_	3	punct	_	_
+2	Nå	nå	ADV	_	_	3	advmod	_	_
+3	begynner	begynne	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+5	å	å	PART	_	_	6	mark	_	_
+6	regne	regne	VERB	_	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
+7	,	$,	PUNCT	_	_	3	punct	_	_
+8	sier	si	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
+9	han	han	PRON	_	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+10	plutselig	plutselig	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	8	advmod	_	SpaceAfter=No
+11	.	$.	PUNCT	_	_	3	punct	_	_
+
+~~~
+
 * Existential/presentational: Det kom en busslast med japanere til klosteret mens jeg sto der. (There came a bus-load of japanese while I stood there.)
+
+~~~ conllu
+# visual-style	4	bgColor:lightgreen
+# hittoken:	1	Det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
+1	Det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
+2	kom	komme	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	en	en	DET	_	Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	busslast	busslast	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	_
+5	med	med	ADP	_	_	6	case	_	_
+6	japanere	japaner	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	4	nmod	_	_
+7	til	til	ADP	_	_	8	case	_	_
+8	klosteret	kloster	NOUN	_	Definite=Def|Gender=Neut|Number=Sing	2	obl	_	_
+9	mens	mens	SCONJ	_	_	11	mark	_	_
+10	jeg	jeg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
+11	sto	stå	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	2	advcl	_	_
+12	der	der	ADV	_	_	11	advmod	_	SpaceAfter=No
+13	.	$.	PUNCT	_	_	2	punct	_	_ 
+
+~~~
+
 * Impersonal passives: Homofili handler bare om sex, sies det av og til. (Transl.: Homosexuality is only about sex, it is sometimes said.)
 * Extraposed clausal subjects: Då er det viktig å ha eit godt brød å smøre matpakke av. (Transl.: Then it is important to have good bread to make lunch from.)
 * Extraposed complement clauses: Det var Harald Zwart som på 1990-tallet fant det helt nødvendig å mobbe norsk film. (It was Harald Zwart who in the 1990s found it completely necessary to make fun of Norwegian film.)
