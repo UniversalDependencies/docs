@@ -39,7 +39,7 @@ Note, that the first (direct) object of the verb can be formed in nominative or 
 
 The difference between `Gen` and `Dat` is related to [definiteness](Definite). The `Gen` can not have `Definite=Def`.
 
-Vocatives, and noun modifiers as an attribute in nominative or as a genitive complement in genitive can not have `Definite=Def`. In these cases we declare `Definite=Def,Ind`. This value will have also `Ins`, `Abl` and `Loc` cases.
+Note also, that vocatives, and noun modifiers as an attribute in nominative or as a genitive complement in genitive can not have `Definite=Def`. In these cases we declare `Definite=Ind`. This value will have also `Ins`, `Abl` and `Loc` cases.
 
 Only personal and demonstrative pronouns distinguish between `Case=Gen` and `Case=Dat`. In genitive they will have `Poss=Yes`.
 
