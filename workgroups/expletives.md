@@ -423,7 +423,7 @@ The expletive relation is used (at least) in the following constructions:
 15-16	approfittarne	_	_	_	_	_	_	_	SpaceAfter=No
 15	approfittar	approfittare	VERB	V	VerbForm=Inf	13	csubj	_	_
 16	ne	ne	PRON	PC	Clitic=Yes|PronType=Prs	15	iobj	_	_
-17	.	.	PUNCT	FS	_	3	punct	_	_ 
+17	.	.	PUNCT	FS	_	3	punct	_	_
 
 ~~~
 
@@ -444,7 +444,7 @@ Una Fiesta per Vip Se i cavalli ci sono si devono vedere. (Transl.: A Fiesta for
 10	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	12	expl:pass	_	_
 11	devono	dovere	AUX	VM	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
 12	vedere	vedere	VERB	V	VerbForm=Inf	0	root	_	SpaceAfter=No
-13	.	.	PUNCT	FS	_	12	punct	_	_ 
+13	.	.	PUNCT	FS	_	12	punct	_	_
 
 ~~~
 
@@ -461,7 +461,7 @@ Una Fiesta per Vip Se i cavalli ci sono si devono vedere. (Transl.: A Fiesta for
 6	avvertire	avvertire	VERB	V	VerbForm=Inf	4	advcl	_	_
 7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	magistratura	magistratura	NOUN	S	Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No
-9	.	.	PUNCT	FS	_	4	punct	_	_ 
+9	.	.	PUNCT	FS	_	4	punct	_	_
 
 ~~~
 
@@ -480,7 +480,7 @@ Una Fiesta per Vip Se i cavalli ci sono si devono vedere. (Transl.: A Fiesta for
 8	di	di	ADP	E	_	10	case	_	_
 9	reciproca	reciproco	ADJ	A	Gender=Fem|Number=Sing	10	amod	_	_
 10	stima	stima	NOUN	S	Gender=Fem|Number=Sing	7	nmod	_	SpaceAfter=No
-11	.	.	PUNCT	FS	_	6	punct	_	_ 
+11	.	.	PUNCT	FS	_	6	punct	_	_
 
 ~~~
 
@@ -524,7 +524,7 @@ In the Norwegian UD treebanks the `expl` relation is used for the following of t
 10	jeg	jeg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
 11	sto	stå	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	2	advcl	_	_
 12	der	der	ADV	_	_	11	advmod	_	SpaceAfter=No
-13	.	$.	PUNCT	_	_	2	punct	_	_ 
+13	.	$.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
@@ -544,7 +544,7 @@ In the Norwegian UD treebanks the `expl` relation is used for the following of t
 9	av	av	ADP	_	_	7	compound:prt	_	_
 10	og	og	CCONJ	_	_	11	cc	_	_
 11	til	til	ADP	_	_	9	conj	_	SpaceAfter=No
-12	.	$.	PUNCT	_	_	2	punct	_	_ 
+12	.	$.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
@@ -566,7 +566,7 @@ In the Norwegian UD treebanks the `expl` relation is used for the following of t
 11	smøre	smøre	VERB	_	VerbForm=Inf	9	acl	_	_
 12	matpakke	matpakke	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	11	obj	_	_
 13	av	av	ADP	_	_	12	nmod	_	SpaceAfter=No
-14	.	$.	PUNCT	_	_	4	punct	_	_ 
+14	.	$.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
@@ -590,7 +590,7 @@ In the Norwegian UD treebanks the `expl` relation is used for the following of t
 13	mobbe	mobbe	VERB	_	VerbForm=Inf	8	xcomp	_	_
 14	norsk	norsk	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	15	amod	_	_
 15	film	film	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	13	obj	_	SpaceAfter=No
-16	.	$.	PUNCT	_	_	3	punct	_	_ 
+16	.	$.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
