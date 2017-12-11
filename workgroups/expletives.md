@@ -618,10 +618,103 @@ In the 2.1 version of the Portuguese treebank, `expl` is used for "se" and alway
 Examples (some are taken from Silveira, marked as such):
 
 * true reflexive (from Silveira): Gravações acústicas se encaixam com o nosso tipo de som. (Transl.: Sound recordings fit with our type of sound.) 
+
+~~~ conllu
+# visual-style	3	bgColor:lightgreen
+# hittoken:	3	se	se	PRON	PERS|F|3P|ACC|@ACC>-PASS	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	4	expl	_	_
+1	Gravações	gravação	NOUN	<np-idf>|N|F|P|@SUBJ>	Gender=Fem|Number=Plur	4	nsubj	_	_
+2	acústicas	acústico	ADJ	ADJ|F|P|@N<	Gender=Fem|Number=Plur	1	amod	_	_
+3	se	se	PRON	PERS|F|3P|ACC|@ACC>-PASS	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	4	expl	_	_
+4	encaixam	encaixar	VERB	<mv>|<se-passive>|V|PR|3P|IND|@FS-STA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	com	com	ADP	PRP|@<PIV	_	8	case	_	_
+6	o	o	DET	<artd>|ART|M|S|@>N	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	nosso	nosso	DET	<poss>|DET|M|S|@>N	Gender=Masc|Number=Sing|PronType=Prs	8	det	_	_
+8	tipo	tipo	NOUN	<meta>|<np-def>|N|M|S|@P<	Gender=Masc|Number=Sing	4	obl	_	_
+9	de	de	ADP	PRP|@N<	_	10	case	_	_
+10	som	som	NOUN	<np-idf>|N|M|S|@P<	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	PU|@PU	_	4	punct	_	_
+
+~~~
+
 * inherent reflexive: O deputado se aproximou. (Transl.: The deputy approached.)
+
+~~~ conllu
+# visual-style	3	bgColor:lightgreen
+# hittoken:	3	se	se	PRON	PERS|M|3S|ACC|@ACC>-PASS	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
+1	O	o	DET	<artd>|ART|M|S|@>N	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	deputado	deputado	NOUN	<np-def>|N|M|S|@SUBJ>	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	se	se	PRON	PERS|M|3S|ACC|@ACC>-PASS	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
+4	aproximou	aproximar	VERB	<mv>|<se-passive>|V|PS|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	PU|@PU	_	4	punct	_	_
+
+~~~
+
 * inchoative: E, mesmo ao cair da folha, 1994 tornou-se um ano de alegria. (Transl.: And even as it fell from the leaf, 1994 became a year of joy.)
+
+~~~ conllu
+# visual-style	13	bgColor:lightgreen
+# hittoken:	13	se	se	PRON	PERS|M|3S|ACC|@<ACC-PASS	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	expl	_	_
+1	E	e	CCONJ	KC|@CO	_	12	cc	_	SpaceAfter=No
+2	,	,	PUNCT	PU|@PU	_	6	punct	_	_
+3	mesmo	mesmo	ADV	<quant>|ADV|@>A	_	6	advmod	_	_
+4-5	ao	_	_	_	_	_	_	_	_
+4	a	a	ADP	<sam->|PRP|@ADVL>	_	6	mark	_	_
+5	o	o	DET	<-sam>|<artd>|ART|M|S|@>N	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	cair	cair	VERB	<mv>|V|INF|@ICL-P<	VerbForm=Inf	12	advcl	_	_
+7-8	da	_	_	_	_	_	_	_	_
+7	de	de	ADP	<sam->|PRP|@<ADVL	_	9	case	_	_
+8	a	o	DET	<-sam>|<artd>|ART|F|S|@>N	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	folha	folha	NOUN	<np-def>|N|F|S|@P<	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
+10	,	,	PUNCT	PU|@PU	_	6	punct	_	_
+11	1994	1994	NUM	<year>|<card>|<date>|NUM|M|S|@SUBJ>	NumType=Card	12	nsubj	_	_
+12-13	tornou-se	_	_	_	_	_	_	_	_
+12	tornou	tornar	VERB	<mv>|<hyphen>|<se-passive>|V|PS|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+13	se	se	PRON	PERS|M|3S|ACC|@<ACC-PASS	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	expl	_	_
+14	um	um	NUM	<card>|NUM|M|S|@>N	NumType=Card	15	nummod	_	_
+15	ano	ano	NOUN	<np-def>|N|M|S|@<OC	Gender=Masc|Number=Sing	12	xcomp	_	_
+16	de	de	ADP	PRP|@N<	_	17	case	_	_
+17	alegria	alegria	NOUN	<np-idf>|N|F|S|@P<	Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	PU|@PU	_	12	punct	_	_
+
+~~~
+
 * passive/middle (from Silveira): E aí colocam-se novas dúvidas: (Transl.: And then there are new doubts:)
+
+~~~ conllu
+# visual-style	4	bgColor:lightgreen
+# hittoken:	4	se	se	PRON	PERS|F|3P|ACC|@<ACC-PASS	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	3	expl	_	_
+1	E	e	CCONJ	KC|@CO	_	3	cc	_	_
+2	aí	aí	ADV	<kc>|ADV|@ADVL>	_	3	advmod	_	_
+3-4	colocam-se	_	_	_	_	_	_	_	_
+3	colocam	colocar	VERB	<mv>|V|PR|3P|IND|@FS-STA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	se	se	PRON	PERS|F|3P|ACC|@<ACC-PASS	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	3	expl	_	_
+5	novas	novo	ADJ	ADJ|F|P|@>N	Gender=Fem|Number=Plur	6	amod	_	_
+6	dúvidas	dúvida	NOUN	<np-idf>|N|F|P|@<SUBJ	Gender=Fem|Number=Plur	3	nsubj	_	SpaceAfter=No
+7	:	:	PUNCT	PU|@PU	_	3	punct	_	_
+
+~~~
+
 * impersonal: Pense-se em Kingsley Amis, Malcolm Bradbury e Albert Finney. (Transl.: Think of Kingsley Amis, Malcolm Bradbury and Albert Finney.)
+
+~~~ conllu
+# visual-style	2	bgColor:lightgreen
+# hittoken:	2	se	se	PRON	PERS|M/F|3S/P|ACC|@VOC	Case=Acc|Gender=Unsp|PronType=Prs	1	expl	_	SUBJ_INDEF
+1-2	Pense-se	_	_	_	_	_	_	_	_
+1	Pense	pensar	VERB	<mv>|V|PR|3S|SUBJ|@FS-STA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	se	se	PRON	PERS|M/F|3S/P|ACC|@VOC	Case=Acc|Gender=Unsp|PronType=Prs	1	expl	_	SUBJ_INDEF
+3	em	em	ADP	PRP|@<PIV	_	4	case	_	_
+4	Kingsley	Kingsley	PROPN	_	Gender=Unsp|Number=Sing	1	obl	_	MWE=Kingsley_Amis|MWEPOS=PROPN
+5	Amis	Amis	PROPN	_	Number=Sing	4	flat:name	_	SpaceAfter=No
+6	,	,	PUNCT	PU|@PU	_	1	punct	_	_
+7	Malcolm	Malcolm	PROPN	_	Gender=Masc|Number=Sing	4	conj	_	MWE=Malcolm_Bradbury|MWEPOS=PROPN
+8	Bradbury	Bradbury	PROPN	_	Number=Sing	7	flat:name	_	_
+9	e	e	CCONJ	<co-prparg>|KC|@CO	_	10	cc	_	_
+10	Albert	Albert	PROPN	_	Gender=Masc|Number=Sing	4	conj	_	MWE=Albert_Finney|MWEPOS=PROPN
+11	Finney	Finney	PROPN	_	Number=Sing	10	flat:name	_	SpaceAfter=No
+12	.	.	PUNCT	PU|@PU	_	1	punct	_	_
+
+~~~
+
 
 ### Romanian
   * Dar asemenea lucruri nu le știai decât din zvonuri vagi. (expletive "le", transl. "But you knew such things only from vague rumors.")
