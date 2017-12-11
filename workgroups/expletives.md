@@ -398,9 +398,8 @@ The `expl` relation is used exclusively with clitic pronouns (Clitic=Yes). In a
 majority of cases the clitic pronoun is in 3rd person, but also found
 in 1st and 2nd person, both singular and plural. The `expl`relation is subtyped: `expl:impers` for the impersonal construction and `expl:pass`for impersonal passives.
 The expletive relation is used (at least) in the following constructions:
-* impersonal construction (active and passive):
 
-  Ci si viene per riposarsi, curarsi, sarebbe quindi assurdo non approfittarne. (Transl.: One comes to rest, to take care of oneself, so it would be absurd not to take advantage of it.)
+* impersonal construction (active and passive): Ci si viene per riposarsi, curarsi, sarebbe quindi assurdo non approfittarne. (Transl.: One comes to rest, to take care of oneself, so it would be absurd not to take advantage of it.)
   
 ~~~ conllu
 # visual-style	1	bgColor:lightgreen
@@ -428,7 +427,7 @@ The expletive relation is used (at least) in the following constructions:
 
 ~~~
 
- Una Fiesta per Vip Se i cavalli ci sono si devono vedere. (Transl.: A Fiesta for VIPs If the horses are there, they must be seen.)
+Una Fiesta per Vip Se i cavalli ci sono si devono vedere. (Transl.: A Fiesta for VIPs If the horses are there, they must be seen.)
 
 ~~~ conllu
 # visual-style	1	bgColor:lightgreen
@@ -449,9 +448,7 @@ The expletive relation is used (at least) in the following constructions:
 
 ~~~
 
-* existential sentences
-
- Ce n'era abbastanza per avvertire la magistratura. (Transl.: There was enough to warn the judiciary.)
+* existential sentences: Ce n'era abbastanza per avvertire la magistratura. (Transl.: There was enough to warn the judiciary.)
 
 ~~~ conllu
 # visual-style	1	bgColor:lightgreen
@@ -468,9 +465,7 @@ The expletive relation is used (at least) in the following constructions:
 
 ~~~
 
-* inherent reflexives, these are often but not always enclitic
-
- Mansell e Prost si sono scambiati segni di reciproca stima. (Transl.: Mansell and Prost exchanged signs of mutual respect.)
+* inherent reflexives, these are often but not always enclitic: Mansell e Prost si sono scambiati segni di reciproca stima. (Transl.: Mansell and Prost exchanged signs of mutual respect.)
 
 ~~~ conllu
 # visual-style	1	bgColor:lightgreen
@@ -492,7 +487,14 @@ The expletive relation is used (at least) in the following constructions:
 
 
 ### Norwegian
-  * Det var veldig positivt at han klarte å senke tiden sin (expletive "Det", transl. "It was very positive that he managed to lower his time")
+In the Norwegian UD treebanks the `expl` relation is used for the following of the above constructions:
+
+* Weather verbs: Nå begynner det å regne, sier han plutselig. (Transl.: Now it's beginning to rain, he said suddenly.)
+* Existential/presentational: Det kom en busslast med japanere til klosteret mens jeg sto der. (There came a bus-load of japanese while I stood there.)
+* Impersonal passives: Homofili handler bare om sex, sies det av og til. (Transl.: Homosexuality is only about sex, it is sometimes said.)
+* Extraposed clausal subjects: Då er det viktig å ha eit godt brød å smøre matpakke av. (Transl.: Then it is important to have good bread to make lunch from.)
+* Extraposed complement clauses: Det var Harald Zwart som på 1990-tallet fant det helt nødvendig å mobbe norsk film. (It was Harald Zwart who in the 1990s found it completely necessary to make fun of Norwegian film.)
+
 
 ### Portuguese
   * Na confusão que se segue, parte um primeiro tiro [...] (expletive "se", transl. "In the confusion that follows, a first shot [...]") 
