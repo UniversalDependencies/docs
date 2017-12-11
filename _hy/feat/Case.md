@@ -72,9 +72,8 @@ belongs to its governor (see above).
 #### Examples
 
 * _Ես <b>եղբորս</b> նվեր տվեցի։&nbsp;_ “I gave my brother a present.”
-  (_եղբորս&nbsp;_ “my brother” is dative and
-  _նվեր&nbsp;_ “present” is nominative.)
-* _ Երևանը <b>Հայաստանի</b> մայրաքաղաքն է։&nbsp;_ “Yerevan is the
+  (_եղբորս&nbsp;_ “my brother” is dative and _նվեր&nbsp;_ “present” is nominative.)
+* _Երևանը <b>Հայաստանի</b> մայրաքաղաքն է։&nbsp;_ “Yerevan is the
   capital <b>of Armenia</b>.”
 
 ### <a name="Abl">`Abl`</a>: ablative
