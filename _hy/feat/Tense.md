@@ -26,9 +26,9 @@ Note, that we are defining features that apply to a single word. If a tense is c
 
 Actions that happened before, during, and after a past or present event are constructed in Armenian by using perfect, resultative, imperfective and future participles.
 
-Actions that happen before or during a future event are expressed using an auxiliary. Imperfect or present finite form of auxilariy in periphrastic future (accompanied by future participle of main verb) is tagged `Tense=Imp` or `Tense=Pres` accordingly, not `Tense=Fut`, while there will be a aspect (`Aspect=Prosp`) information at the participle (e.g. _<b>վազելու</b> էի տուն&nbsp;_ “I <b>should run</b> home” or _<b>վազելու</b> եմ տուն&nbsp;_ “I <b>shall run</b> home”).
+Actions that happen before or during a future event are expressed using an auxiliary. Imperfect or present finite form of auxilariy in periphrastic future (accompanied by future participle of main verb) is tagged `Tense=Imp` or `Tense=Pres` accordingly, not `Tense=Fut`, while there will be an aspect (`Aspect=Prosp`) information at the participle (e.g. _վազելու <b>էի</b> տուն&nbsp;_ “I <b>should</b> run home” or _վազելու <b>եմ</b> տուն&nbsp;_ “I <b>shall</b> run home”).
 
-Note also, that there is an elaborate system of parallel tense/aspect/mood forms (traditionally called “secondary compound tenses”) formed periphrastically by forms of the auxiliary _լինեմ&nbsp;_ and the resultative, processual and future participles of the main verb. They express actions that happened before, during, and after past or present reference. For these periphrastical forms we use `Tense=Imp`, `Tense=Imp` or `Tense=Pres` with perfect (`Perf`), imperfect (`Imp`) or prospective (`Prosp`) `Aspect`.
+Note also, that there is an elaborate system of parallel tense/aspect/mood forms (traditionally called “secondary compound tenses”) formed periphrastically by forms of the auxiliary _լինեմ&nbsp;_ and the resultative, processual and future participles of the main verb. They express actions that happened before, during, and after past or present reference. For these periphrastical forms we use `Tense=Imp` or `Tense=Pres` with perfect (`Perf`), imperfective (`Imp`) or prospective (`Prosp`) `Aspect`.
 
 ### <a name="Past">`Past`</a>: past tense / aorist
 
@@ -45,7 +45,7 @@ Imperfect is a special case of the past tense. It denotes actions that are happe
 
 The auxiliaries _էի&nbsp;_ and _կայի&nbsp;_ will have `Tense=Imp`.
 
-Note, that a limited set of verbs form indicative imperfect and present morphologically. They combine the present stem with present or imperfect suffixes. Thus the same verbs combine also the past stem with the imperfect and present suffixes (traditionally called “Defective Verbs with Secondary Expanded Stems”) the feature must distinguish the two. The difference between them is related to `Mood` and `Aspect` rather than `Tense`.
+Note, that a limited set of verbs form imperfect and present morphologically with unmarked vs. marked stems (traditionally called “Defective Verbs with Secondary Expanded Stems”). The difference between them are related to `Mood` and `Aspect` rather than `Tense`. The verbs with “non-expanded” stems will have also morphologically `Tense=Imp` in indicative mood.
 
 #### Examples
 
@@ -70,7 +70,7 @@ The auxiliaries _եմ&nbsp;_ and _կամ&nbsp;_ will have `Tense=Pres`.
 
 Present forms of verbs in subjunctive, conditional and necessitative moods have future meaning. These forms are tagged `Tense=Pres` not `Tense=Fut` as in traditional grammars.
 
-The remaining verbs with “non-expanded” stems (see above) will have also `Tense=Pres` in indicative mood.
+The remaining verbs with “non-expanded” stems (see above) will have also morphologically `Tense=Pres` in indicative mood.
 
 #### Examples
 
