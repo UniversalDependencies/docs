@@ -465,7 +465,7 @@ Una Fiesta per Vip Se i cavalli ci sono si devono vedere. (Transl.: A Fiesta for
 
 ~~~
 
-* inherent reflexives, these are often but not always enclitic: Mansell e Prost si sono scambiati segni di reciproca stima. (Transl.: Mansell and Prost exchanged signs of mutual respect.)
+* Regular reflexives: Mansell e Prost si sono scambiati segni di reciproca stima. (Transl.: Mansell and Prost exchanged signs of mutual respect.)
 
 ~~~ conllu
 # visual-style	4	bgColor:lightgreen
