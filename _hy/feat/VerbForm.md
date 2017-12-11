@@ -62,7 +62,7 @@ Armenian has eight types of participles:
 - The future-II (state of prospective action) participle can be used only adjectively.
 - The perfect participle is used to form the indicative mood in present perfect or imperfect in the past (past perfect) tense.
 - The negative participle is used to form the negated conditional mood in present or imperfect tense.
-- The the processual (progressive) participle is used to form the indicative mood in present or imperfect tense for the verbs _գալ, լալ, տալ_.
+- The processual (progressive) participle is used to form the indicative mood in present or imperfect tense for the verbs _գալ, լալ, տալ_.
 
 Note, that the processual (progressive), resultative and future-I participles can be used to form the secondary complex tenses (in any tense or mood).
 
