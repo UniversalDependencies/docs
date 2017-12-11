@@ -45,16 +45,10 @@ Only personal and demonstrative pronouns distinguish between `Case=Gen` and `Cas
 
 #### Examples
 
-* singular nominative _դպրոց&nbsp;_ “school”, genitive _սեղանի,&nbsp;_ dative _սեղանին,&nbsp;_
-  accusative _սեղան,&nbsp;_ ablativ _սեղանից,&nbsp;_ instrumental _սեղանով,&nbsp;_ locative _սեղանում_
-* singular nominative _ժամանակ&nbsp;_ “time”, genitive _ժամանակի, ժամանակվա,&nbsp;_ dative _ժամանակին, ժամանակվան,&nbsp;_
-  accusative _ժամանակ,&nbsp;_ ablativ _ժամանակից, ժամանակվանից,&nbsp;_ instrumental _ժամանակով,&nbsp;_ locative _ժամանակում_
-* singular nominative _արյուն,&nbsp;_ “blood”, genitive _արյան,&nbsp;_ dative _արյանը,&nbsp;_
-  accusative _արյուն,&nbsp;_ ablativ _արյունից,&nbsp;_ instrumental _արյունով, արյամբ&nbsp;_
-* singular nominative _մայր&nbsp;_ “mother”, genitive _մոր&nbsp;,_ dative _մորը,&nbsp;_
-  accusative _մորը,&nbsp;_ ablativ _մորից,&nbsp;_ instrumental _մորով_
-* singular nominative _&nbsp;_ “school”, genitive _սեղանի,&nbsp;_ dative _սեղանին,&nbsp;_
-  accusative _սեղան,&nbsp;_ ablativ _սեղանից,&nbsp;_ instrumental _սեղանով,&nbsp;_ locative _սեղանում_
+* singular nominative _դպրոց&nbsp;_ “school”, dative _դպրոցի(ն),&nbsp;_ ablativ _սեղանից,&nbsp;_ instrumental _սեղանով,&nbsp;_ locative _սեղանում_
+* singular nominative _ժամանակ&nbsp;_ “time”, dative _ժամանակի(ն), ժամանակվա(ն),&nbsp;_ ablativ _ժամանակից, ժամանակվանից,&nbsp;_ instrumental _ժամանակով,&nbsp;_ locative _ժամանակում_
+* singular nominative _արյուն,&nbsp;_ “blood”, dative _արյան(ն),&nbsp;_ ablativ _արյունից,&nbsp;_ instrumental _արյունով, արյամբ&nbsp;_
+* singular nominative _մայր&nbsp;_ “mother”, dative _մոր(ն),&nbsp;_ ablativ _մորից,&nbsp;_ instrumental _մորով_
 
 ### <a name="Nom">`Nom`</a>: nominative
 
