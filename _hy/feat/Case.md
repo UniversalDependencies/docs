@@ -66,7 +66,7 @@ We not recognizing the genitive except for possessive personal, some demonstrati
 This is the word form often used for indirect objects of verbs.
 
 In Armenian this form is used also for cases when the noun phrase somehow
-belongs to its governor (morphological, adnominal dative), see above.
+belongs to its governor (adnominal dative) or depends on the verb (adverbal dative), see above.
 
 #### Examples
 
