@@ -21,7 +21,6 @@ Armenian has a complex system of [numerals](NUM). In the school grammar of Armen
 From the syntactic point of view, some numtypes behave like adjectives and some behave like adverbs. We tag them [ADJ]() and [ADV]() respectively. Thus the `NumType` feature applies to several different parts of speech:
 
 * [NUM](): cardinal numerals
-* [DET](): quantifiers
 * [ADJ](): adjectival ordinal numerals
 * [ADV](): adverbial distributive numerals
 
