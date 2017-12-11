@@ -41,7 +41,7 @@ The quality of one object is compared to the same quality of another object.
 * _<b>ավելի</b> խելացի մարդ&nbsp;_ “<b>cleverer</b> man”
 * _այս մարդն ինձնից <b>(ավելի)</b> խելացի է&nbsp;_ “the man is <b>cleverer</b> than me”
 * _<b>ավելի</b> լավ երաժիշտ&nbsp;_ “<b>better</b> musician”
-* _<b>ավելի</b> նորն մուշ&nbsp;_ “<b>newer</b> exemplar”
+* _<b>ավելի</b> նոր նմուշ&nbsp;_ “<b>newer</b> exemplar”
 * _նա <b>ավելի</b> արագ է քայլում&nbsp;_ “he walks <b>more quickly</b>”
 
 ### <a name="Sup">`Sup`</a>: superlative, third degree
