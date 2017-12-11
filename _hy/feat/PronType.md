@@ -21,9 +21,8 @@ udver: '2'
 </tr>
 </table>
 
-This feature typically applies to [pronouns](cs-pos/PRON),
-[determiners](cs-pos/DET), pronominal [numerals](cs-pos/NUM)
-(quantifiers) and pronominal [adverbs](cs-pos/ADV).
+This feature typically applies to [pronouns](PRON),
+[determiners](DET) and pronominal [adverbs](ADV).
 
 ### <a name="Prs">`Prs`</a>: personal or possessive personal pronoun or determiner
 
