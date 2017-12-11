@@ -24,7 +24,7 @@ the adposition requires its argument to be in that case).
 
 Case helps specify the role of the noun phrase in the sentence.
 
-The descriptions of the individual case values below include semantic
+Here on the level of morphosyntactic features we are dealing with case expressed morphologically, i.e. by bound morphemes (affixes).  The descriptions of the individual case values below include semantic
 hints about the prototypical meaning of the case. Bear in mind that
 quite often a case will be used for a meaning that is totally
 unrelated to the meaning mentioned here. Valency of verbs,
@@ -41,7 +41,7 @@ The difference between `Gen` and `Dat` is related to [definiteness](Definite). T
 
 Note also, that vocatives, and noun modifiers as an attribute in nominative or as a genitive complement in genitive can not have `Definite=Def`. In these cases we declare `Definite=Ind`. Only this value will have also `Ins`, `Abl` and `Loc` cases.
 
-Personal and demonstrative pronouns distinguish between `Case=Gen` and `Case=Dat`. In genitive they will have `Poss=Yes`.
+Personal and some demonstrative pronouns distinguish between `Case=Gen` and `Case=Dat`. In genitive they will have `Poss=Yes`.
 
 #### Examples
 
@@ -71,7 +71,7 @@ belongs to its governor (see above).
 
 #### Examples
 
-* _Ես <b>եղբորս</b> նվեր տվեցի։&nbsp;_ “I gave my brother a present.”
+* _Ես <b>եղբորս</b> նվեր տվեցի&nbsp;_ “I gave my brother a present.”
   (_եղբորս&nbsp;_ “my brother” is dative and
   _նվեր&nbsp;_ “present” is nominative.)
 * _ Երևանը <b>Հայաստանի</b> մայրաքաղաքն է։&nbsp;_ “Yerevan is the
@@ -86,6 +86,22 @@ Prototypical meaning: direction from some point (object, location or time).
 * _սեղանից&nbsp;_ "from the table"
 * _ծովափից&nbsp;_ "from the beach"
 * _ամառվանից&nbsp;_ "from the summer"
+
+### <a name="Ins">`Ins`</a>: instrumental
+
+The role from which the name of the instrumental case is derived is
+that the noun is used as instrument to do something (as in _գրել
+<b>գրիչով</b>&nbsp;_ “to write <b>using a pen</b>”). Many other meanings are
+possible, for example the instrumental is required and it includes the meaning expressed in
+other languages by adverbs of manner.
+
+In Armenian the instrumental is also used for the agent-object in passive
+constructions (cf. the English preposition _by_).
+
+#### Examples
+
+* _Օրինագիծը <b>դժվարությամբ</b> հաստատվեց&nbsp;_ “This bill has been approved <b>by difficulty</b>.”
+* _Գետնինը ծածկվեց <b>ձյունով</b>&nbsp;_ “The earth has been covered <b>by snow</b>.” (Passive example)
 
 ### <a name="Loc">`Loc`</a>: locative
 
@@ -104,20 +120,3 @@ combination with prepositions.
   I was in <b>Sweden</b>.”
 * _Mluvili jsme tam o <b>morfologii</b>.&nbsp;_ “We talked there about
   <b>morphology</b>.” (Non-locational non-temporal example)
-
-### <a name="Ins">`Ins`</a>: instrumental
-
-The role from which the name of the instrumental case is derived is
-that the noun is used as instrument to do something (as in _psát
-<b>perem</b>&nbsp;_ “to write <b>using a pen</b>”).  Many other meanings are
-possible, for example the instrumental is required by the
-preposition _s&nbsp;_ “with” and thus it includes the meaning expressed in
-other languages by the comitative case.
-
-In Czech the instrumental is also used for the agent-object in passive
-constructions (cf. the English preposition _by_).
-
-#### Examples
-
-* _Tento zákon byl schválen <b>vládou</b>.&nbsp;_ “This bill has been
-  approved <b>by the government</b>.” (Passive example)
