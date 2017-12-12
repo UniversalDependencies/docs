@@ -723,7 +723,8 @@ Examples (some are taken from Silveira, marked as such):
   * Или это снег таял на груди? (expletive "это", transl. "Or was it snow melting on his chest?")
 
 ### Slovenian
-The `expl` relation is used exclusively for the relfexive pronoun "se/si". It is used at least for the following:
+(**Preliminary**)
+The `expl` relation is used exclusively for the reflexive pronoun "se/si". It is used at least for the following:
 
 * inherent reflexive: Skozi steno slišim, kako se zabavajo. (Transl.: I hear through the wall how they have fun.)
 
