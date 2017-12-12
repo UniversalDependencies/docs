@@ -339,7 +339,31 @@ The 39 treebanks are from the following 20 languages:
 8 occurrences of `expl` in UD Arabic-PUD. Not clear whether they are errors or not (under investigation).
 
 ### Bulgarian
-  * В дискусията, предполагам, ще се засегнат важни въпроси. (expletive "се" is a reflexive pronoun, transl. "In the discussion, I suppose, will affect important issues".)
+
+There seem to be two cases, reflexive verbs and doubled clitics.
+
+~~~ conllu
+# visual-style	4	bgColor:lightgreen
+# hittoken:	3	те	аз	PRON	Ppetas2	Case=Acc|Number=Sing|Person=2|PronType=Prs	4	expl	_	_SpaceAfter=No
+1	Аз	аз	PRON	Ppe-os1	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	тебе	аз	PRON	Ppelas2	Case=Acc|Number=Sing|Person=2|PronType=Prs	4	obj	_	_
+3	те	аз	PRON	Ppetas2	Case=Acc|Number=Sing|Person=2|PronType=Prs	4	expl	_	_
+4	слушам	слушам	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	punct	_	4	punct	_	_ 
+~~~ 
+
+ * Аз тебе те слушам ("I hear you")
+
+# visual-style	5	bgColor:lightgreen
+# hittoken:	5	шегувам	шегувам-се	VERB	Vpiif-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	SpaceAfter=No
+1	Каза	кажа	VERB	Vpptf-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	да	да	AUX	Tx	_	5	aux	_	_
+3	не	не	PART	Tn	Polarity=Neg	5	advmod	_	_
+4	се	се	PRON	Ppxta	Case=Acc|PronType=Prs|Reflex=Yes	5	expl	_	_
+5	шегувам	шегувам-се	VERB	Vpiif-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	SpaceAfter=No
+6	.	.	PUNCT	punct	_	1	punct	_	_
+
+ * Каза да не се шегувам  ("He told me not to joke")
 
 ### Croatian
   * Seb Bytyci, izvršni ravnatelj Instituta za balkansku politiku, slaže se s time. (expletive "se" is a reflexive pronoun, transl. "Seb Bytyci, executive director of the Institute for Balkan Policy, agrees.")
@@ -385,7 +409,55 @@ French exhibits all of the prototypical constructions including some special var
 * UD_French-PUD: The `expl` relation seems to be overused and is found also in cases where a pronoun is clearly referential (perhaps as a result of automatic parsing without full manual validation).
 
 ### Galician
-  * Ás cinco remátase de traballar. (expletive clitic "-se", transl. "At five it is over to work")
+The `expl` relation is only used in Galician-TreeGal, never in Galician. The most frequen case involves the clitic -se in what I think are inherently reflexive verbs. 
+
+~~~ conllu
+# visual-style	4	bgColor:lightgreen
+# hittoken:	5	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	4	expl	_	_
+1	A	a	ADP	P	AdpType=Prep	3	case	_	_
+2	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	cinco	cinco	NUM	Ncnfp	Gender=Fem|Number=Plur|NumType=Card	4	obl	_	_
+4	remata	rematar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	4	expl	_	_
+6	de	de	ADP	P	AdpType=Prep	7	mark	_	_
+7	traballar	traballar	VERB	V0f000	VerbForm=Inf	4	xcomp	_	SpaceAfter=No
+8	"	"	PUNCT	Q"	_	4	punct	_	SpaceAfter=No
+9	.	.	PUNCT	Q.	_	4	punct	_	_
+~~~
+
+It is also used for clitic doubling.
+
+~~~ conllu
+# visual-style	12	bgColor:lightgreen
+# hittoken:	13	lle	lle	PRON	Rad3ms	Case=Dat|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	expl	_	_
+1	Os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	topónimos	topónimo	NOUN	Scmp	Gender=Masc|Number=Plur	3	nsubj	_	_
+3	terán	ter	VERB	Vfi30p	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	Q,	_	3	punct	_	_
+5	como	como	ADV	Wr	PronType=Rel	7	case	_	_
+6	única	único	ADJ	A0fs	Gender=Fem|Number=Sing	7	amod	_	_
+7	forma	forma	NOUN	Scfs	Gender=Fem|Number=Sing	3	obl	_	_
+8	oficial	oficial	ADJ	A0fs	Gender=Fem|Number=Sing	7	amod	_	_
+9	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	galega	galego	ADJ	A0fs	Gender=Fem|Number=Sing	3	obj	_	_
+11	e	e	CCONJ	Cc	_	12	cc	_	_
+12	corresponderá	corresponder	VERB	Vfi30s	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	conj	_	_
+13	lle	lle	PRON	Rad3ms	Case=Dat|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	expl	_	_
+14	a	a	ADP	P	AdpType=Prep	16	case	_	_
+15	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	Goberno	Goberno	PROPN	Spms	Gender=Masc|Number=Sing	12	iobj	_	_
+17	galego	galego	ADJ	A0ms	Gender=Masc|Number=Sing	16	amod	_	_
+18	determinar	determinar	VERB	V0f000	VerbForm=Inf	12	xcomp	_	_
+19	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+20	nomes	nome	NOUN	Scmp	Gender=Masc|Number=Plur	18	obj	_	_
+21	de	de	ADP	P	AdpType=Prep	22	case	_	_
+22	lugar	lugar	NOUN	Scms	Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	Q.	_	3	punct	_	_
+~~~
+
+There is one example with two clitic pronouns both annotated with `expl`.
+
+  * Non se lle cocía o pan en o corpo a Don Quixote 
 
 ### German
   * Die Party ist vorbei, heißt es nun. (expletive "es", transl. "The party is over, it is now said")
