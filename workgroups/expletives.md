@@ -436,6 +436,12 @@ There seem to be two cases, reflexive verbs and doubled clitics.
 
 ### Croatian
   * Seb Bytyci, izvršni ravnatelj Instituta za balkansku politiku, slaže se s time. (expletive "se" is a reflexive pronoun, transl. "Seb Bytyci, executive director of the Institute for Balkan Policy, agrees.")
+  
+### Czech
+
+#### Weather verbs
+
+podívej se, ono (= personal pronoun, 3rd pers. sg. nom.) prší. Now: nsubj(prší,ono) or discourse(prší,ono) (no example found in PDT, depends on original annotation of ono in PDT)
 
 ### Danish
   * Så skal der rafles om husholdningspengene. (expletive "der", transl. "So, there will be discussions about household money")
