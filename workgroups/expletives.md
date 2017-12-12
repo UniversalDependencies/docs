@@ -440,8 +440,21 @@ There seem to be two cases, reflexive verbs and doubled clitics.
 ### Czech
 
 #### Weather verbs
+  * podívej se, ono (= personal pronoun, 3rd pers. sg. nom.) prší. Now: nsubj(prší,ono) or discourse(prší,ono) (no example found in PDT, depends on original annotation of ono in PDT)
 
-podívej se, ono (= personal pronoun, 3rd pers. sg. nom.) prší. Now: nsubj(prší,ono) or discourse(prší,ono) (no example found in PDT, depends on original annotation of ono in PDT)
+#### Extraposition of Nominal Subjects
+  * 'tam' (= there) always referential- Again, pers. pronoun (this time inflected, agreement with nsubj) can be used: Ona je ta kočka na podložce (a ne na křesle)' (she-nom.sg.fem. is that cat-nom.sg.fem on a-mat (and not on chair)'. Now: discourse (cannot be nsubj, since that would be 2nd subject).
+  
+#### Extraposition of Clausal Subjects
+  * Czech is similar to Polish. It does not necessarily imply "extraposition" (which is not really an interesting notion in an FWO language). 
+  * Examples: To, že je kočka na podložce, mě překvapuje (i.e. like the Polish example above), from PDT (and current deprel in UD): To.nsubj, že byl.acl díky OSN v New Yorku, bylo samozřejmě velkou výhodou.root . ('It.nsubj, that he-was.acl thanks-to UN in New York, was of-course big advantage.root .'); výhodou.root je to.nsubj, že šifrovat může.acl kdokoli ('advantage.root.case=instrumental is it(that).nsubj, that encrypt.xcomp.inf can.acl anyone'. As Adam says, it is too complicated to see why to use "to" here (discourse/information structure reasons, perhaps), since it is always syntactically OK to leave it out (perhaps an argument for making it "expl," because then the "acl" would be "csubj" with or without "to": Je evidentní.root, že lékař porušil.csubj řád ('Is clear.root, that doctor broke.csubj rules') as well as (after this change to "expl"): Je evidentní.root to.expl, že lékař porušil.csubj řád).
+
+#### Raising Verbs
+  * (a) ?[that the cat is on the mat]Y seems
+  * (b) [it]X seems [that the cat is on the mat]Y
+  * (c) [it]X seems [like the cat is on the mat]Y
+  * (d) [the cat]Y1 seems [to be on the mat]Y2
+  * In theory, (4a) is possible due to FWO, but no expl here. (4b) does not require it in Czech, but the personal pronoun in neuter ('ono') can be used here (even though not syntactically required) and perhaps expl would be the appropriate reprel. (4c) would best be exemplified with ono to vypadá, jako by kočka byla na rohožce) 'it.expl it.nsubj looks, like would cat were.advcl on the-mat'), where 'ono' (pers. pron 3rd pers neuter) can be used (not required) and it would best get expl, since 'to' (dem. pronoun 3rd pers. neuter, agreement with verb) is nsubj. Currently, the advcl (dependent of the verb 'looks') might actually now be getting xcomp (since in PDT, it is marked as complementation).
 
 ### Danish
   * Så skal der rafles om husholdningspengene. (expletive "der", transl. "So, there will be discussions about household money")
