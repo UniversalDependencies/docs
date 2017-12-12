@@ -24,7 +24,7 @@ The constructions are instantiated by a predicative middle voice verb, the first
 
 ~~~ sdparse
 Հնչեցին երգերից ։ \n Sounded.PRAEDIC songs.Abl .
-iobj(Հնչեցին, Երգերից)
+iobj(Հնչեցին, երգերից)
 iobj(Sounded.PRAEDIC, songs.Abl)
 ~~~
 
