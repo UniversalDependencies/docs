@@ -106,7 +106,7 @@ Guy : regarding the expletives that have the role of subject or direct object, I
 
 It is arrived 3 candidates -  nsubj:expl(arrived,It), obj(arrived,candidates)
 
-jag fann det förvånande att hon kom  (I found it surprising that she came) – obj:expl(fann,det), appos (det,com)
+jag fann det förvånande att hon kom  (I found it surprising that she came) – obj:expl(fann,det), appos (det,kom)
 
 
 
