@@ -374,6 +374,13 @@ The following table summarizes the different relations that would be used for di
 
 Out of 102 treebanks from 60 languages in UD version 2.1: 39 treebanks contain expletives (the expl relation)
 
+Note: Czech is not listed since Czech ONLY uses expl with language-specific extension, expl:pv and expl:pass, and not expl as such (bug in extraction code here?). Please see:
+
+  * http://universaldependencies.org/treebanks/cs/index.html#reflexive-verbs
+  * http://universaldependencies.org/cs/dep/expl-pv.html
+  * http://universaldependencies.org/cs/dep/expl-pass.html
+
+
 The 39 treebanks are from the following 20 languages:
  * Arabic (only in the PUD treebank, influence from English?)
  * Bulgarian
