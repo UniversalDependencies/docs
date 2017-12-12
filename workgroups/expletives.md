@@ -28,6 +28,10 @@ Weather verbs are 0-place predicates like "rain" and "snow", which typically tak
 det regnar \n it rains
 expl(regnar, det)
 ~~~
+~~~ sdparse
+het regent \n it rains
+nsubj(regent, het)
+~~~
 
 "Intrinsically impersonal verbs" encompasses a more general category of verbs, not only 0-place predicates but also 1-place predicates, that typically take an expletive pronoun as their subject, without any parallelism to a construction with a full subject. This is the case in French for the deficient verb "falloir" (be necessary), which has one semantic argument, realized as a direct object. In the current French treebanks, all preverbal explective "il" clitics are treated as plain subjects (nsubj).
 
@@ -42,6 +46,26 @@ obj(faut,recrutements)
 ~~~
 
 **Joakim:** Could you add the dependencies to this example? In particular, what relation is assigned to "recrutements"?
+
+It seems that Dutch has a few comparable cases as well (i.e. non-wheather verbs that nevertheless can only have ´het' as subject:
+
+~~~ sdparse
+het ontbreekt aan een langere speler \n it lacks of a longer player
+nsubj(ontbreekt,het)
+obl(ontbreekt,speler)
+~~~
+~~~ sdparse
+het gaat hen voor de wind \n it goes them for the wind (well)
+nsubj(gaat,het)
+iobj(gaat,hen)
+obl(gaat,wind)
+~~~
+~~~ sdparse
+nog slechter verging het Ehlvest
+nsubj(slechter,het)
+iobj(slechter,Ehlvest)
+cop(slechter,verging)
+~~~
 
 Finnish is a partial pro-drop language, where subject pronouns can be dropped in the first and second person, but not the third. However, weather verbs do not take overt subjects except optionally in spoken language.
 
@@ -68,6 +92,28 @@ obl(sitter, mattan)
 ~~~
 
 The Swedish and Norwegian UD treebanks treat the dummy pronoun as an expletive and analyzes the indefinite noun phrase as `nsubj` to capture the parallelism to the simple intransitive sentence. However, there are good arguments that the indefinite noun phrase syntactically behaves as an object in the second sentence. The Dutch UD treebank also treats the indefinite noun phrase as `nsubj` (and it seems to behave like a subject in Dutch) but analyzes the putative expletive as `advmod` (which is a pronominal adverb similar to English "there"). 
+
+~~~ sdparse
+er is overal grote armoede \n there is everywhere great poverty
+advmod(is,er)
+nsubj(is,armoede)
+~~~
+~~~ sdparse
+er bestaan echter allerlei hindernissen \n there exist however various obstacles
+advmod(bestaan,er)
+nsubj(bestaan,hindernissen)
+~~~
+~~~ sdparse
+er vindt regelmatig overleg plaats \n there takes regularly meetings place
+advmod(vindt,er)
+nsubj(vindt,overleg)
+compound:prt(vindt,plaats)
+~~~
+~~~ sdparse
+er ontstaan overal nieuwe diensten \n there appear everywhere new services
+advmod(ontstaan,er)
+nsubj(ontstaan,diensten)
+~~~
 
 For French, the traditionally called "impersonal construction" encompasses various cases of extraposed subjects, including indefinite noun phrases, possible for some intransitive verbs (those taking "être" as auxiliary, but not only). There too are arguments to view the postverbal indefinite NP as a direct object (in particular, it is pronominalized using the quantitative "en" clitic). 
 
@@ -161,6 +207,12 @@ expl(seems, it)
 * that she came seems
 ~~~
 
+~~~ sdparse
+het lukte Field om twee andere fabrikanten te vinden \n it succeeded Field to find 2 other manufacturers
+csubj(lukte,vinden)
+expl(lukte,het)
+~~~
+
 For French, the extraposition of a (finite or infinitival) subject clause occurs both impersonal construction (with an "il" nominative clitic) and in the more general right dislocation (with a "ça" pronoun, not necessarily subject, see below)
 
 ####French right dislocation of a subject clause ("il" not possible):
@@ -197,10 +249,11 @@ The same type of construction is found in Finnish, but only Finnish-FTB uses `ex
 
 ## Object Expletives
 
-Expletives in object position have been assumed in (at least) two types of constructions:
+Expletives in object position have been assumed in (at least) three types of constructions:
 
 1. Extraposed complement clauses
 2. Inherent reflexives
+3. Verbs with an inherent expletive (object) argument
 
 Extraposed complement clauses, with or without a corresponding expletive pronoun, typically occur together with a predicative `xcomp` as in the following examples.
 
@@ -228,6 +281,22 @@ expl(kände, sig)
 ~~~ sdparse
 *hon kände honom sjuk \n she felt him sick
 ~~~
+
+Pullum and Postal argue that English has expletives in subcategorized positions (not counting the subject). They present evidence for expletive objects and expletive arguments of prepositions. Dutch has at least expletive objects as well (but does not currently mark these as such):
+~~~ sdparse
+Agalev doet het goed  \n Agalev does (it) well
+nsubj(doet,Agalev)
+obj(doet,het)
+advmod(doet,goed)
+~~~
+~~~ sdparse
+Men heeft het over hetzelfde \n One has it about the same -- One talks about the same
+~~~
+~~~ sdparse
+Göring moest het opnemen tegen een groep Sopwidthjagers \n Göring had it compete agains a group hunters -- Göring had to battle with a group of hunters
+~~~
+~~~ sdparse
+De brug begaf het \n The bridge collapsed it
 
 ## Right dislocation (≠ expletive?)
 
