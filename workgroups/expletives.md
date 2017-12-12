@@ -723,7 +723,42 @@ Examples (some are taken from Silveira, marked as such):
   * Или это снег таял на груди? (expletive "это", transl. "Or was it snow melting on his chest?")
 
 ### Slovenian
-  * V takšnem primeru se lahko bolnikovo stanje celo poslabša. (expletive "se", transl. "In this case, the patient's condition may even deteriorate.")
+The `expl` relation is used exclusively for the relfexive pronoun "se/si". It is used at least for the following:
+
+* inherent reflexive: Skozi steno slišim, kako se zabavajo. (Transl.: I hear through the wall how they have fun.)
+
+~~~ conllu
+# visual-style	6	bgColor:lightgreen
+# hittoken:	6	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	7	expl	_	Dep=7|Rel=PPart
+1	Skozi	skozi	ADP	Sa	Case=Acc	2	case	_	Dep=2|Rel=Atr
+2	steno	stena	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	Dep=3|Rel=AdvM
+3	slišim	slišati	VERB	Vmbr1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|Dep=0|Rel=Root
+4	,	,	PUNCT	Z	_	7	punct	_	Dep=0|Rel=Root
+5	kako	kako	ADV	Rgp	Degree=Pos	7	advmod	_	Dep=7|Rel=Conj
+6	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	7	expl	_	Dep=7|Rel=PPart
+7	zabavajo	zabavati	VERB	Vmpr3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	SpaceAfter=No|Dep=3|Rel=Obj
+8	.	.	PUNCT	Z	_	3	punct	_	Dep=0|Rel=Root
+
+~~~
+
+* passive/impersonal: V normalnem besednjaku se pozitivna diskriminacija označuje kot privilegij. (Transl.: In the normal vocabulary, positive discrimination is marked as a privilege.)
+
+~~~ conllu
+# visual-style	4	bgColor:lightgreen
+# hittoken:	4	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	7	expl	_	Dep=7|Rel=PPart
+1	V	v	ADP	Sl	Case=Loc	3	case	_	Dep=3|Rel=Atr
+2	normalnem	normalen	ADJ	Agpmsl	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	Dep=3|Rel=Atr
+3	besednjaku	besednjak	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	7	obl	_	Dep=7|Rel=AdvO
+4	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	7	expl	_	Dep=7|Rel=PPart
+5	pozitivna	pozitiven	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	Dep=6|Rel=Atr
+6	diskriminacija	diskriminacija	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	Dep=7|Rel=Sb
+7	označuje	označevati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Dep=0|Rel=Root
+8	kot	kot	SCONJ	Cs	_	9	case	_	Dep=9|Rel=Conj
+9	privilegij	privilegij	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No|Dep=7|Rel=AdvM
+10	.	.	PUNCT	Z	_	7	punct	_	Dep=0|Rel=Root 
+
+~~~
+
 
 ### Swedish
 
