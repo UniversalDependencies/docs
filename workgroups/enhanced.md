@@ -75,6 +75,8 @@ Marie: the types of propagated dependencies should maybe be constrained. E.g. it
 
 * repackaging information that is already available in basic dependencies to make it more easily accessible for downstream applications is a possibility. Example: subtyping obl and advcl relations with adpositions and subordinate conjunctions.
 
+Guy : Joakim (item 2) and Marie (last item) propose to include repackaging information for downstream applications in the objectives of Enhanced UD. On the contrary, I think Enhanced UD must be independent of downstream applications. In my opinion, Enhanced UD is an abstraction of the basic dependencies that tends towards semantics at the maximum while remaining within the framework of the syntax. For instance, subtyping obl and advcl relations with adpositions and subordinate conjunctions has nothing to do with Enhanced UD. Moreover, this makes annotations less readable and the set of relations more complex and dependent on particular languages.
+
 
 ## Treatment of semantically void syntactic dependencies
 **DECISION TO MAKE**
@@ -99,6 +101,11 @@ Treebank users could choose to use them or not.
 For v3 version: For the expletives that do have the syntactic properties of subjects, the "expl" label could be replaced by a more consistent nsubj:expl label.
 
 What about though mwes exhibiting regular syntactic structure, in particular frozen verbal mwes ? For instance in "X take Y with a grain of salt"  
+
+Guy : regarding the expletives that have the role of subject or direct object, I think that we must consider first the syntactic function subject or object, which has the same characteristics as for any subject or object, because Enhanced UD is at the syntactic level and the property of expletive is secondary information that has more to do with semantics. That is why I propose to use the labels nsubj: expl and obj: expl. Therefore, the following examples, if we do not take into account the neutralization of syntactic alternations, must be annotated as follows :
+It is arrived 3 candidates -  nsubj:expl(arrived,It), obj(arrived,candidates)
+jag fann det förvånande att hon kom  (I found it surprising that she came) – obj:expl(fann,det), appos (det,com)
+
 
 
 ## Additional cases of enhanced edges
