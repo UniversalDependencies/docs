@@ -391,7 +391,22 @@ French exhibits all of the prototypical constructions including some special var
   * Die Party ist vorbei, heißt es nun. (expletive "es", transl. "The party is over, it is now said")
 
 ### Greek
+All the examples involve a clitic pronoun doubling an object realized by a non-clitic pronoun or a full NP.
   * Πιστεύω ότι είναι δίκαιο να το αναγνωρίσουμε αυτό. (expletive "το", transl. "I believe it is fair to recognize this.")
+
+~~~ conllu
+# visual-style	2	bgColor:lightgreen
+# hittoken: 6	το	εγώ	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	expl	_	_
+1	Πιστεύω	πιστεύω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ότι	ότι	SCONJ	SCONJ	_	4	mark	_	_
+3	είναι	είμαι	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	cop	_	_
+4	δίκαιο	δίκαιο	ADV	ADV	_	1	ccomp	_	_
+5	να	να	PART	PART	_	7	aux	_	_
+6	το	εγώ	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	expl	_	_
+7	αναγνωρίσουμε	αναγνωρίζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	4	csubj	_	_
+8	αυτό	αυτός	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Dem	7	obj	_	SpaceAfter=No
+9	.	.	PUNCT	PUNCT	_	1	punct	_	_
+~~~
 
 ### Italian
 The `expl` relation is used exclusively with clitic pronouns (Clitic=Yes). In a
