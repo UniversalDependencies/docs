@@ -103,7 +103,9 @@ For v3 version: For the expletives that do have the syntactic properties of subj
 What about though mwes exhibiting regular syntactic structure, in particular frozen verbal mwes ? For instance in "X take Y with a grain of salt"  
 
 Guy : regarding the expletives that have the role of subject or direct object, I think that we must consider first the syntactic function subject or object, which has the same characteristics as for any subject or object, because Enhanced UD is at the syntactic level and the property of expletive is secondary information that has more to do with semantics. That is why I propose to use the labels nsubj: expl and obj: expl. Therefore, the following examples, if we do not take into account the neutralization of syntactic alternations, must be annotated as follows :
+
 It is arrived 3 candidates -  nsubj:expl(arrived,It), obj(arrived,candidates)
+
 jag fann det förvånande att hon kom  (I found it surprising that she came) – obj:expl(fann,det), appos (det,com)
 
 
