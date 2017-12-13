@@ -19,7 +19,7 @@ Alphabetical listing
 {{ site.hy }}
 
 {% comment %}
-{% comment %} Commenting this out for the time being, I don't know how to fix and it's crashing the docs. -fginter {% comment %}
+{% comment %} Commenting this out for the time being, I don't know how to fix and it's crashing the docs. -fginter {% endcomment %}
 {% assign sorted = site.hy-pos | sort: 'title' %}{% for p in sorted %}
 * [{{ p.title }}](): {{ p.shortdef }}{% endfor %}
 {% endcomment %}
