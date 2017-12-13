@@ -55,7 +55,7 @@ nmod(smart, than-his-brother)
 ~~~ sdparse
 Արամը բոլոր ուսանողներից ամենախելացին է ։ \n Aram is the-smartest-one of-all the-students .
 nmod(ամենախելացին, ուսանողներից)
-nmod(the-smartest, the-students)
+nmod(the-smartest-one, the-students)
 det(ուսանողներից, բոլոր)
 det(the-students, of-all)
 ~~~
