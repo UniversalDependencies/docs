@@ -69,7 +69,7 @@ in the periphrastic examples the entity comapared to modifies still the adjectiv
 nmod(խելացի, եղբորից)
 nmod(smart, than-his-brother)
 advmod(խելացի, ավելի)
-advmod(smart, is-more)
+advmod(smart, more)
 ~~~
 
 ~~~ sdparse
