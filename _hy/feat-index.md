@@ -16,5 +16,7 @@ For core part-of-speech categories, see the [POS tags](pos/index.html). The feat
 
 Alphabetical listing
 
+{% comment %}
 {% assign sorted = site.hy-feat | sort: 'title' %}{% for p in sorted %}
 * [{{ p.title }}](): {{ p.shortdef }}{% endfor %}
+{% endcomment %}

@@ -16,5 +16,10 @@ These tags mark the core part-of-speech categories. To distinguish additional le
 
 Alphabetical listing
 
+{{ site.hy }}
+
+{% comment %}
+{% comment %} Commenting this out for the time being, I don't know how to fix and it's crashing the docs. -fginter {% comment %}
 {% assign sorted = site.hy-pos | sort: 'title' %}{% for p in sorted %}
 * [{{ p.title }}](): {{ p.shortdef }}{% endfor %}
+{% endcomment %}
