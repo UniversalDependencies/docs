@@ -20,12 +20,12 @@ However, there is constructions which have non canonical case patterns.
 
 ### Ablative subject
 
-The constructions are instantiated by a predicative middle voice verb, the first argument of which is in the Abblative case with a partitive meaning and not in the canonical Nominative case. The Ablative argument is labeled [dep/iobj]().
+The constructions are instantiated by a middle voice verb, the first argument of which is in the Ablative case with a partitive meaning and not in the canonical Nominative case. The Ablative argument is labeled [dep/iobj]().
 
 ~~~ sdparse
-Հնչեցին երգերից ։ \n Sounded.PRAEDIC songs.Abl .
+Հնչեցին երգերից ։ \n Sounded songs.Abl .
 iobj(Հնչեցին, երգերից)
-iobj(Sounded.PRAEDIC, songs.Abl)
+iobj(Sounded, songs.Abl)
 ~~~
 
 ## Adjectival and adverbial constructions
