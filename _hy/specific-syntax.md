@@ -58,6 +58,7 @@ nmod(ամենախելացին, ուսանողներից)
 nmod(the-smartest, the-students)
 det(ուսանողներից, բոլոր)
 det(the-students, of-all)
+~~~
 
 To keep the analyses of the morphological and the periphrastic cases parallel
 (and also to keep the analyses parallel cross-linguistically),
@@ -97,12 +98,15 @@ case(եղբոր, պես)
 case(his-brother, as)
 ~~~
 
+If a property is compared to a clause, the clause is attached as [advcl]() instead of [nmod]()
+and the conjunction _(քան)_ is attached to the subordinate clause as [mark]().
+
 ~~~ sdparse
-Миша умнее , чем хочет казаться . \n Misha is-smarter , than he-wants to-appear .
-advcl(умнее, хочет)
-advcl(is-smarter, he-wants)
-mark(хочет, чем)
-mark(he-wants, than)
+Արամը շատ ավելի խելացի է , քան թվում է ։ \n Aram is much more smarter , than it seems .
+advcl(խելացի, թվում)
+advcl(smarter, seems)
+mark(թվում, քան)
+mark(seems, than)
 ~~~
 
 ## Noun phrases with quantifiers
