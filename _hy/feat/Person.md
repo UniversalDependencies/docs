@@ -30,8 +30,8 @@ persons.
 
 #### Examples
 
-* _<b>անեմ</b>&nbsp;_ “<b>I</b> do.`Cnd`”
-* _<b>անենք</b>&nbsp;_ “<b>we</b> do.`Cnd`”
+* _<b>անեմ</b>&nbsp;_ “<b>I</b> do.`Sub`”
+* _<b>անենք</b>&nbsp;_ “<b>we</b> do.`Sub`”
 
 ### <a name="2">`2`</a>: second person
 
@@ -41,8 +41,8 @@ optionally some third persons too.
 
 #### Examples
 
-* _<b>անես</b>&nbsp;_ “<b>you</b>.`Sing` do.`Cnd`”
-* _<b>անեք</b>&nbsp;_ “<b>you</b>.`Plur` do.`Cnd`”
+* _<b>անես</b>&nbsp;_ “<b>you</b>.`Sing` do.`Sub`”
+* _<b>անեք</b>&nbsp;_ “<b>you</b>.`Plur` do.`Sub`”
 
 ### <a name="3">`3`</a>: third person
 
@@ -51,5 +51,5 @@ speakers nor addressees.
 
 #### Examples
 
-* _<b>անի</b>&nbsp;_ “<b>he/she/it does</b>.`Cnd`”
-* _<b>անեն</b>&nbsp;_ “<b>they</b> do.`Cnd`”
+* _<b>անի</b>&nbsp;_ “<b>he/she/it does</b>.`Sub`”
+* _<b>անեն</b>&nbsp;_ “<b>they</b> do.`Sub`”
