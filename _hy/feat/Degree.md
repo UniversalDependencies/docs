@@ -14,9 +14,9 @@ udver: '2'
 </tr>
 </table>
 
-Degree of comparison is inflectional feature of some [adjectives](hy-pos/ADJ) and [adverbs](hy-pos/ADV).
+Degree of comparison is inflectional feature of  qualitative [adjectives](hy-pos/ADJ) and some [adverbs](hy-pos/ADV).
 
-The second degree of adjective or adverb is modified through the adverb _ավելի_ “more” e.g. _ավելի գեղեցիկ_ “more beautiful”; _ավելի արագ_ “more quickly”. We only annotate this adverb with the second degree feature.
+The second degree of adjective or adverb is modified through the adverb _ավելի_ “more” e.g. _ավելի գեղեցիկ_ “more beautiful”; _ավելի արագ_ “more quickly”. We annotate this adverb with the second degree feature.
 
 Note that the third degree of adverbs in Armenian is constructed with the feature of [Definite](Definite).
 
@@ -30,7 +30,7 @@ degree is traditionally called "positive", negative properties can be compared, 
 * _<b>խելացի</b> մարդ&nbsp;_ “<b>clever</b> man”
 * _<b>լավ</b> երաժիշտ&nbsp;_ “<b>good</b> musician”
 * _<b>նոր</b> նմուշ&nbsp;_ “<b>new</b> exemplar”
-* _նա <b>արագ</b> է քայլում&nbsp;_ “he walks <b>quickly</b>”
+* _նա <b>արագ</b> է քայլում։&nbsp;_ “he walks <b>quickly</b>.”
 
 ### <a name="Cmp">`Cmp`</a>: comparative, second degree
 
@@ -39,18 +39,18 @@ The quality of one object is compared to the same quality of another object.
 #### Examples
 
 * _<b>ավելի</b> խելացի մարդ&nbsp;_ “<b>cleverer</b> man”
-* _այս մարդն ինձնից <b>(ավելի)</b> խելացի է&nbsp;_ “the man is <b>cleverer</b> than me”
+* _Այս մարդն ինձնից <b>(ավելի)</b> խելացի է։&nbsp;_ “The man is <b>cleverer</b> than me.”
 * _<b>ավելի</b> լավ երաժիշտ&nbsp;_ “<b>better</b> musician”
 * _<b>ավելի</b> նոր նմուշ&nbsp;_ “<b>newer</b> exemplar”
-* _նա <b>ավելի</b> արագ է քայլում&nbsp;_ “he walks <b>more quickly</b>”
+* _Նա <b>ավելի</b> արագ է քայլում։&nbsp;_ “He/She walks <b>more quickly</b>.”
 
 ### <a name="Sup">`Sup`</a>: superlative, third degree
 
-The quality of one object is compared to the same quality of all other objects within a set.
+The quality of one object is compared to the same quality of all other objects within a set. Most Armenian qualitative adjectives and adverbs have both morphological and periphrastic superlative forms, modified through the adverbs _ամենից_ or _բոլորից_ “most of all”. We annotate these adverbs with the third degree feature.
 
 #### Examples
 
-* _նա մեր խմբի <b>ամենախելացի</b> մարդն է&nbsp;_ “he is the <b>cleverest</b> man in our group”
-* _նա մեր խմբի <b>լավագույն</b> երաժիշտն է&nbsp;_ “he is the <b>best</b> musician in our group”
-* _սա <b>ամենանորագույն</b> նմուշն է&nbsp;_ “this is the <b>very newest</b> exemplar”
-* _նա <b>ամենաարագն</b> է քայլում&nbsp;_ “he walks <b>the most quickly</b>”
+* _Նա մեր խմբի <b>ամենախելացի / ամենից խելացի / բոլորից խելացի</b> մարդն է։&nbsp;_ “He/She is the <b>cleverest</b> man in our group.”
+* _Նա մեր խմբի <b>լավագույն / ամենից լավ / բոլորից լավ</b> երաժիշտն է։&nbsp;_ “He/She is the <b>best</b> musician in our group.”
+* _Սա <b>ամենանորագույն / ամենից նոր / բոլորից նոր</b> նմուշն է։&nbsp;_ “This is the <b>very newest</b> exemplar.”
+* _Նա <b>ամենաարագն / ամենից արագն / բոլորից արագն</b> է քայլում։&nbsp;_ “He/She walks <b>the most quickly</b>.”
