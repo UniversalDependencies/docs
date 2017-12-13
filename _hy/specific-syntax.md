@@ -73,7 +73,7 @@ advmod(smart, is-more)
 ~~~
 
 ~~~ sdparse
-Արամը ավելի խելացի է , քան եղբայրը ։ \n Aram is more smarter , than his-brother .
+Արամը ավելի խելացի է , քան եղբայրը ։ \n Aram is more smart , than his-brother .
 nmod(խելացի, եղբայրը)
 nmod(smart, his-brother)
 case(եղբայրը, քան)
@@ -102,9 +102,9 @@ If a property is compared to a clause, the clause is attached as [advcl]() inste
 and the conjunction _(քան)_ is attached to the subordinate clause as [mark]().
 
 ~~~ sdparse
-Արամը շատ ավելի խելացի է , քան թվում է ։ \n Aram is much more smarter , than it seems .
+Արամը շատ ավելի խելացի է , քան թվում է ։ \n Aram is much more smart , than it seems .
 advcl(խելացի, թվում)
-advcl(smarter, seems)
+advcl(smart, seems)
 mark(թվում, քան)
 mark(seems, than)
 ~~~
