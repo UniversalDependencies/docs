@@ -15,6 +15,9 @@ baseurl: ""
 gems:
   - jekyll-redirect-from
 
+liquid:
+  error_mode: warn
+
 collections:
 #
 # Universal
