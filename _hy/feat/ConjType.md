@@ -32,4 +32,4 @@ The words are considered special kind of coordinating conjunctions and they are 
 
 #### Examples
 
-* _<b>x</b>_ “×”, _<b>անգամ</b>_ “times”, _<b>գումարած</b>_ “plus”, _<b>հանած</b>_ “minus”, _<b>բազմապատկած</b>_ “times”
+* _<b>x</b>_ “×”, _<b>անգամ</b>_ “times”
