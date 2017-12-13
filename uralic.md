@@ -17,6 +17,6 @@ title:  'Uralic documentation links'
   * [Relations](urj/dep/index.html) ([single document](urj/dep/all.html))
 
 <div id="accordion" class="jquery-ui-accordion">
-{% include at_glance_uralic.html %}
+<!-- {  % include at_glance_uralic.html %  } -->
 </div>
 
