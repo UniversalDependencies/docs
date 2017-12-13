@@ -23,3 +23,4 @@ This feature would apply either to the [X]() part of speech (unanalyzable token)
 #### Examples
 
 * _... <b>«ՌԻԱ Նովոստի»</b> գործակալությունը&nbsp;_ (the news agency <b>RIA Novosti</b>)
+* _... <b>CNN</b> գործակալությունը&nbsp;_ (the news agency <b>CNN</b>)
