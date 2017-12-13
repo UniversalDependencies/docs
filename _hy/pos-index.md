@@ -8,6 +8,6 @@ udver: '2'
 
 # POS tags
 
-These tags mark the core part-of-speech categories. To distinguish additional lexical and grammatical properties of words, use the [universal features](hy-feat/index.html).
+These tags mark the core part-of-speech categories. To distinguish additional lexical and grammatical properties of words, use the [universal features](hy/feat/index.html).
 
 {% include hy-pos-table.html %}
