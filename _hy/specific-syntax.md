@@ -103,9 +103,9 @@ case(his-brother, as)
 Հարյուրին մոտ մարդ եկավ : \n Came about 100 people .
 nsubj(եկավ, մարդ)
 nsubj(Came, people)
-nmod(մարդ, հարյուրին)
+nmod(մարդ, Հարյուրին)
 nmod(people, 100)
-case(հարյուրին, մոտ)
+case(Հարյուրին, մոտ)
 case(100, about)
 ~~~
 
@@ -113,9 +113,9 @@ case(100, about)
 Հարյուրի չափ մարդ եկավ : \n Came about 100 people .
 nsubj(եկավ, մարդ)
 nsubj(Came, people)
-nmod(մարդ, հարյուրի)
+nmod(մարդ, Հարյուրի)
 nmod(people, 100)
-case(հարյուրի, չափ)
+case(Հարյուրի, չափ)
 case(100, about)
 ~~~
 
