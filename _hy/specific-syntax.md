@@ -33,7 +33,6 @@ iobj(Sounded, songs.Abl)
 ### Comparative constructions
 
 Armenian qualitative adjectives and adverbs have only periphrastic comparative forms, most of them can have also a periphrastic superlative (see the [Degree]() feature), e. g. _խելացի_ “smart”, _ավելի խելացի_ “smarter”, _ամենախելացի_ “smartest”, _ամենից խելացի_, _բոլորից խելացի_ “smartest”. The morphological superlative forms are assigned the `Sup` [Degree]() feature.
-Equality comparisons are also periphrastic.
 
 The most frequently used comparative constructions are the following:
 
@@ -86,9 +85,11 @@ nmod(խելացին, ուսանողներից)
 nmod(smartest-one, the-students)
 det(ուսանողներից, բոլոր)
 det(the-students, of-all)
-amod(խելացին, ամենից)
-amod(smartest-one, the-most)
+advmod(խելացին, ամենից)
+advmod(smartest-one, the-most)
 ~~~
+
+Equality comparisons (as well compared quantity):
 
 ~~~ sdparse
 Արամը եղբոր պես խելացի է ։ \n Aram is smart as his-brother .
@@ -96,6 +97,26 @@ nmod(խելացի, եղբոր)
 nmod(smart, his-brother)
 case(եղբոր, պես)
 case(his-brother, as)
+~~~
+
+~~~ sdparse
+Հարյուրին մոտ մարդ եկավ : \n Came about 100 people .
+nsubj(եկավ, մարդ)
+nsubj(Came, people)
+nmod(մարդ, հարյուրին)
+nmod(people, 100)
+case(հարյուրին, մոտ)
+case(100, about)
+~~~
+
+~~~ sdparse
+Հարյուրի չափ մարդ եկավ : \n Came about 100 people .
+nsubj(եկավ, մարդ)
+nsubj(Came, people)
+nmod(մարդ, հարյուրի)
+nmod(people, 100)
+case(հարյուրի, չափ)
+case(100, about)
 ~~~
 
 If a property is compared to a clause, the clause is attached as [advcl]() instead of [nmod]()
@@ -107,6 +128,84 @@ advcl(խելացի, թվում)
 advcl(smart, seems)
 mark(թվում, քան)
 mark(seems, than)
+~~~
+
+### Comparatives (quantity)
+
+In certain contexts the comparative complement combines both the action or adjective that is being compared
+and the quantity it is compared to:
+
+* _ավելի քան 90 տոկոս_ “more than 90 percent”
+* _ավելի քան վստահելի գործընկեր_ “more than trusted companion”
+* _ավելի քան հավանական_ “more than likely”
+
+In these cases we consider _ավելի քան_ to be a fixed multi-word expression because the two words are inseparable.
+One cannot say _*ավելի գործընկեր քան վստահելի_ (the word _գործընկներ_ can be pulled to the front but then it will skip the whole MWE,
+as in _գործընկերն ավելի էր, քան վստահելի_ lit. _the companion were more than trusted._)
+
+~~~ sdparse
+Դա ավելի քան հավանական է ։ \n That is more than likely .
+nsubj(հավանական, Դա)
+nsubj(likely, That)
+cop(հավանական, է)
+cop(likely, is)
+advmod(հավանական, ավելի)
+advmod(likely, more)
+fixed(ավելի, քան)
+fixed(more, than)
+punct(հավանական, ։-6)
+punct(likely, .-13)
+~~~
+
+### Constructions of approximate quantity
+
+The determiner _մի_ and adverbs _ավելի քան_, _մինչև_, _շուրջ_, _մոտավորապես_, _մոտ_ “more than, till, around, approximately, about” etc. are used in constructions like _ավելի քան / մինչև / մոտ / մոտավորապես երկու հարյուր մարդ_ “more than 100 people” and act as quantifiers.
+They behave syntactically like determiners or adverbs and we attach them as [det]() or [advmod]().
+
+~~~ sdparse
+Եկավ մի հարյուր մարդ ։ \n Came about 100 people .
+nsubj(Եկավ, մարդ)
+nsubj(Came, people)
+nummod(մարդ, հարյուր)
+nummod(people, 100)
+det(մի, հարյուր)
+det(about, 100)
+~~~
+
+~~~ sdparse
+Եկավ ավելի քան հարյուր մարդ ։ \n Came more than 100 people .
+nsubj(Եկավ, մարդ)
+nsubj(Came, people)
+nummod(մարդ, հարյուր)
+nummod(people, 100)
+advmod(հարյուր, ավելի)
+advmod(100, more)
+fixed(ավելի, քան)
+fixed(more, than)
+~~~
+
+### Constructions more and less quantity
+
+_Ավելի_ / _քիչ_ / _պակաս_ governs the case of the cardinal numeral.
+
+~~~ sdparse
+Հարյուրից ավելի մարդ եկավ : \n Came more-than 100 people .
+nsubj(եկավ, մարդ)
+nsubj(Came, people)
+nummod(մարդ, հարյուրից)
+nummod(people, 100)
+advmod:gov(հարյուրից, ավելի)
+advmod:gov(100, more-than)
+~~~
+
+~~~ sdparse
+Հարյուրից քիչ մարդ եկավ : \n Came less-than 100 people .
+nsubj(եկավ, մարդ)
+nsubj(Came, people)
+nummod(մարդ, հարյուրից)
+nummod(people, 100)
+advmod:gov(հարյուրից, քիչ)
+advmod:gov(100, less-than)
 ~~~
 
 ## Noun phrases with quantifiers
@@ -121,5 +220,3 @@ Other types of QP:
 * _հողամասի երկու երրորդ մասը_
 * _ութ գլուխ ոչխար_
 * _մեկ միլիոն բարել նավթ_
-
-### Constructions of more and less quantity
