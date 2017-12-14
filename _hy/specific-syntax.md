@@ -192,9 +192,9 @@ _Ավելի_ / _քիչ_ / _պակաս_ governs the case of the cardinal numeral.
 Հարյուրից ավելի մարդ եկավ : \n Came more-than 100 people .
 nsubj(եկավ, մարդ)
 nsubj(Came, people)
-nummod(մարդ, հարյուրից)
+nummod(մարդ, Հարյուրից)
 nummod(people, 100)
-advmod:gov(հարյուրից, ավելի)
+advmod:gov(Հարյուրից, ավելի)
 advmod:gov(100, more-than)
 ~~~
 
@@ -202,9 +202,9 @@ advmod:gov(100, more-than)
 Հարյուրից քիչ մարդ եկավ : \n Came less-than 100 people .
 nsubj(եկավ, մարդ)
 nsubj(Came, people)
-nummod(մարդ, հարյուրից)
+nummod(մարդ, Հարյուրից)
 nummod(people, 100)
-advmod:gov(հարյուրից, քիչ)
+advmod:gov(Հարյուրից, քիչ)
 advmod:gov(100, less-than)
 ~~~
 
