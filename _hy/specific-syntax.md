@@ -168,8 +168,8 @@ nsubj(Եկավ, մարդ)
 nsubj(Came, people)
 nummod(մարդ, հարյուր)
 nummod(people, 100)
-det(մի, հարյուր)
-det(about, 100)
+det(հարյուր, մի)
+det(100, about)
 ~~~
 
 ~~~ sdparse
