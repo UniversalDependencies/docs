@@ -22,11 +22,11 @@ The morphological [Case]() of the objects is dictated by verb valency.
 In the following Armenian example, the verb takes two arguments both are nouns in the dative case. One of them is direct object (patient), the other is indirect (addressee). It is parallel to how the English translation would be annotated (where there is no morphological case marking) and also to verbs of giving (cf. a similar sentence, _he introduces my son to the theacher_).
 
 ~~~ sdparse
-Նա իմ որդուն ներկայացրեց մարզիչին ։ \n He introduces my son.Dat to the theacher.Dat .
+Նա իմ որդուն ներկայացրեց մարզիչին ։ \n He introduces my son.Dat to the teacher.Dat .
 obj(ներկայացրեց, որդուն)
 iobj(ներկայացրեց, մարզիչին)
 obj(introduces, son.Dat)
-iobj(teaches, theacher.Dat)
+iobj(introduces, teacher.Dat)
 ~~~
 
 In general, if there is just one object, it should be labeled
@@ -51,7 +51,7 @@ Then the clausal complement is regarded as a “clausal direct object” and an 
 the simple ditransitive case:
 
 ~~~ sdparse
-Նա տեղեկացրեց ուսանողներին, որ վաղվա քննությունները հետաձգվում են ։ \n He-told students , that tomorrow's examinations are canceled .
+Նա տեղեկացրեց ուսանողներին , որ վաղվա քննությունները հետաձգվում են ։ \n He-told students , that tomorrow's examinations are canceled .
 iobj(տեղեկացրեց, ուսանողներին)
 ccomp(տեղեկացրեց, հետաձգվում)
 iobj(He-told, students)
