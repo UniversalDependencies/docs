@@ -192,20 +192,20 @@ _Ավելի_ / _քիչ_ / _պակաս_ governs the case of the cardinal numeral.
 Հարյուրից ավելի մարդ եկավ : \n Came more-than 100 people .
 nsubj(եկավ, մարդ)
 nsubj(Came, people)
-nummod(մարդ, Հարյուրից)
-nummod(people, 100)
-advmod:gov(Հարյուրից, ավելի)
-advmod:gov(100, more-than)
+amod(մարդ, ավելի)
+amod(people, more-than)
+nmod(ավելի, Հարյուրից)
+nmod(more-than, 100)
 ~~~
 
 ~~~ sdparse
 Հարյուրից քիչ մարդ եկավ : \n Came less-than 100 people .
 nsubj(եկավ, մարդ)
 nsubj(Came, people)
-nummod(մարդ, Հարյուրից)
-nummod(people, 100)
-advmod:gov(Հարյուրից, քիչ)
-advmod:gov(100, less-than)
+amod(մարդ, քիչ)
+amod(people, less-than)
+nmod(քիչ, Հարյուրից)
+nmod(less-than, 100)
 ~~~
 
 ## Noun phrases with quantifiers
