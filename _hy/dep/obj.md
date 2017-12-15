@@ -6,8 +6,7 @@ udver: '2'
 ---
 
 The direct object of a verb is the noun phrase that denotes the entity acted upon.
-In Armenian the direct object is in [nominative case]() for inanimate
-words, and in [dative]()case for human/non-human.
+In Armenian the direct object is in [nominative case](Case) or in [dative](Case). See the related feature [Animacy]().
 
 Nominative example:
 
@@ -21,7 +20,7 @@ Dative example:
 
 ~~~ sdparse
 Բախվում ենք մեծ խնդիրների ։ \n We-face big problems .
-obj(Բախվում ենք, խնդիրների)
+obj(Բախվում, խնդիրների)
 obj(We-face, problems)
 ~~~
 
