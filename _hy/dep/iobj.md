@@ -59,11 +59,23 @@ ccomp(He-told, canceled)
 ~~~
 
 ~~~ sdparse
-Նա ուսանողներին պատմեց իր ծրագրերից ։ \n He-told students his plans .
+Նա ուսանողներին պատմեց իր ծրագրերից ։ \n He-told students his some-plans .
 iobj(պատմեց, ուսանողներին)
 obj(պատմեց, ծրագրերից)
 iobj(He-told, students)
-obj(He-told, plans)
+obj(He-told, some-plans)
+~~~
+
+The other examples include all arguments of a head that are not direct objects or subjects, and are PPs introduced by various postpositions. 
+
+~~~ sdparse
+Նա գիրքը դրեց սեղանի վրա ։ \n He-put the-book on the-table .
+iobj(դրեց, սեղանի)
+obj(դրեց, գիրքը)
+case(սեղանի, վրա)
+iobj(He-put, the-table)
+obj(He-put, the-book)
+case(the-table, on)
 ~~~
 
 If there are two or
