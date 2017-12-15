@@ -39,7 +39,7 @@ case(the-tree.`Dat`, under)
 
 ~~~ sdparse
 Երեկոյան հանդիպեցի նրան սրճարանում ։ \n I-met him in-the-evening in-the-cafe .
-obl(հանդիպեցի, երեկոյան)
+obl(հանդիպեցի, Երեկոյան)
 obl(հանդիպեցի, սրճարանում)
 obl(I-met, in-the-evening)
 obl(I-met, in-the-cafe)
