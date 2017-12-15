@@ -6,7 +6,9 @@ udver: '2'
 ---
 
 The direct object of a verb is the noun phrase that denotes the entity acted upon.
-In Armenian the direct object is in [nominative case](Case) or in [dative](Case). See the related feature [Animacy]().
+In Armenian the direct object is in [nominative case](Case) or in [dative](Case).
+
+See also the related feature [Animacy]().
 
 Nominative example:
 
