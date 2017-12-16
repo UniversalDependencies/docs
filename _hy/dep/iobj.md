@@ -11,7 +11,7 @@ The prototypical example is the recipient of ditransitive verbs of
 exchange:
 
 ~~~ sdparse
-Արամը Արթուրին տանձ տվեց ։ \n Aram gave Arthur a pear .
+Արամը Արթուրին տանձ տվեց ։ \n Aram gave Arthur a-pear .
 iobj(տվեց, Արթուրին)
 iobj(gave, Arthur)
 ~~~
@@ -22,11 +22,11 @@ The morphological [Case]() of the objects is dictated by verb valency.
 In the following Armenian example, the verb takes two arguments both are nouns in the dative case. One of them is direct object (patient), the other is indirect (addressee). It is parallel to how the English translation would be annotated (where there is no morphological case marking) and also to verbs of giving (cf. a similar sentence, _he introduces my son to the theacher_).
 
 ~~~ sdparse
-Նա իմ որդուն ներկայացրեց մարզիչին ։ \n He introduces my son.Dat to the teacher.Dat .
+Նա իմ որդուն ներկայացրեց մարզիչին ։ \n He introduces my son.Dat to-the-teacher.Dat .
 obj(ներկայացրեց, որդուն)
 iobj(ներկայացրեց, մարզիչին)
 obj(introduces, son.Dat)
-iobj(introduces, teacher.Dat)
+iobj(introduces, to-the-teacher.Dat)
 ~~~
 
 In general, if there is just one object, it should be labeled
@@ -35,15 +35,15 @@ For example, _դասավանդել_ “to teach” can take either the subject m
 and in both cases it would be analyzed as the [obj]():
 
 ~~~ sdparse
-Նա դասավանդում է մաթեմատիկա ։ \n He-teaches introduction to maths .
+Նա դասավանդում է մաթեմատիկա ։ \n He teaches introduction to maths .
 obj(դասավանդում, մաթեմատիկա)
-obj(He-teaches, introduction)
+obj(He teaches, introduction)
 ~~~
 
 ~~~ sdparse
-Նա դասավանդում է առաջին կուրսեցիներին ։ \n He-teaches students of-first year .
+Նա դասավանդում է առաջին կուրսեցիներին ։ \n He teaches students of-first year .
 obj(դասավանդում, կուրսեցիներին)
-obj(He-teaches, students)
+obj(teaches, students)
 ~~~
 
 The one exception is when there is a clausal complement.
@@ -51,30 +51,30 @@ Then the clausal complement is regarded as a “clausal direct object” and an 
 the simple ditransitive case:
 
 ~~~ sdparse
-Նա տեղեկացրեց ուսանողներին , որ վաղվա քննությունները հետաձգվում են ։ \n He-told students , that tomorrow's examinations are canceled .
+Նա տեղեկացրեց ուսանողներին , որ վաղվա քննությունները հետաձգվում են ։ \n He told students , that tomorrow's examinations are canceled .
 iobj(տեղեկացրեց, ուսանողներին)
 ccomp(տեղեկացրեց, հետաձգվում)
-iobj(He-told, students)
-ccomp(He-told, canceled)
+iobj(told, students)
+ccomp(told, canceled)
 ~~~
 
 ~~~ sdparse
-Նա ուսանողներին պատմեց իր ծրագրերից ։ \n He-told students his some-plans .
+Նա ուսանողներին պատմեց իր ծրագրերից ։ \n He told students his some-plans .
 iobj(պատմեց, ուսանողներին)
 obj(պատմեց, ծրագրերից)
-iobj(He-told, students)
-obj(He-told, some-plans)
+iobj(told, students)
+obj(told, some-plans)
 ~~~
 
 The other examples include all arguments of a head that are not direct objects or subjects, and are PPs introduced by various postpositions. 
 
 ~~~ sdparse
-Նա գիրքը դրեց սեղանի վրա ։ \n He-put the-book on the-table .
+Նա գիրքը դրեց սեղանի վրա ։ \n He put the-book on the-table .
 iobj(դրեց, սեղանի)
 obj(դրեց, գիրքը)
 case(սեղանի, վրա)
-iobj(He-put, the-table)
-obj(He-put, the-book)
+iobj(put, the-table)
+obj(put, the-book)
 case(the-table, on)
 ~~~
 
