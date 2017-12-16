@@ -14,17 +14,17 @@ predicate of the subject clause.
 For the clausal subject of a passive verb or verb group the subtype `csubj:pass` is used
 
 ~~~ sdparse
-Ինձ զարմացրեց այն, որ նա ոչինչ չասաց : \n Me surprised what, that he did-not-say anything .
+Ինձ զարմացրեց այն , որ նա ոչինչ չասաց : \n Me surprised what , that he did-not-say anything .
 csubj(զարմացրեց, չասաց)
 csubj(surprised, did-not-say)
 ~~~
 
 ~~~ sdparse
-Կատարվեց, ինչ սպասվում էր : \n Happened, what was expected .
+Կատարվեց , ինչ սպասվում էր : \n Happened , what was expected .
 csubj(Կատարվեց, սպասվում)
-cop(սպասվում, էր)
+aux(սպասվում, էր)
 csubj(Happened, expected)
-cop(expected, was)
+aux(expected, was)
 ~~~
 
 ~~~ sdparse
@@ -36,11 +36,11 @@ csubj(took, To-take)
 We also analyze the nominal predicates with clausal subjects formed by subordinating conjunction որ similarly.
 
 ~~~ sdparse
-Լավ է, որ դու կարդացել ես գիրքը : \n Good is, that you have read the-book .
+Լավ է , որ դու կարդացել ես գիրքը : \n Good is , that you have read the-book .
 csubj(Լավ, կարդացել)
 cop(Լավ, է)
-cop(կարդացել, ես)
+aux(կարդացել, ես)
 csubj(Good, read)
 cop(Good, is)
-cop(read, have)
+aux(read, have)
 ~~~
