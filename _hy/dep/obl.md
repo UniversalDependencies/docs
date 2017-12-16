@@ -22,9 +22,9 @@ The obl relation can be further specified by the case. In conjunction with the c
 *	variant forms with case, a preposition or a postposition:
 
 ~~~ sdparse
-Դուրս_եկավ տնից ։ \n He-went-out from-the-house.`Abl` .
-obl(Դուրս_եկավ, տնից)
-obl(He-went-out, from-the-house.`Abl`)
+Դուրս եկավ տնից ։ \n He-went out from-the-house.`Abl` .
+obl(եկավ, տնից)
+obl(He-went, from-the-house.`Abl`)
 ~~~
 
 ~~~ sdparse
