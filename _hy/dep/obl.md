@@ -38,9 +38,9 @@ case(the-tree.`Dat`, under)
 *	obl is also used for temporal and locational nominal modifiers:
 
 ~~~ sdparse
-Երեկոյան հանդիպեցի նրան սրճարանում ։ \n I-met him in-the-evening in-the-cafe .
-obl(հանդիպեցի, Երեկոյան)
+Ամռանը հանդիպեցի նրան սրճարանում ։ \n I-met him in-the-sommer in-the-cafe .
+obl(հանդիպեցի, Ամռանը)
 obl(հանդիպեցի, սրճարանում)
-obl(I-met, in-the-evening)
+obl(I-met, in-the-sommer)
 obl(I-met, in-the-cafe)
 ~~~
