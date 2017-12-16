@@ -12,14 +12,14 @@ non-core (oblique) argument or adjunct.
 This means that it functionally corresponds to an adverbial when it attaches to a verb, adjective or other adverb.
 
 ~~~ sdparse
-Ես հանդիպեցի նրան անցյալ չորեքշաբթի ։ \n I-have-met him last Thursday .
+Ես հանդիպեցի նրան անցյալ չորեքշաբթի ։ \n I have-met him last Thursday .
 obl(հանդիպեցի, չորեքշաբթի)
-obl(I-have-met, Thursday)
+obl(have-met, Thursday)
 ~~~
 
 The obl relation can be further specified by the case. In conjunction with the case relation, it provides a uniform analysis for:
 
-*	variant forms with case, a preposition or a postposition, 
+*	variant forms with case, a preposition or a postposition:
 
 ~~~ sdparse
 Դուրս_եկավ տնից ։ \n He-went-out from-the-house.`Abl` .
@@ -28,7 +28,7 @@ obl(He-went-out, from-the-house.`Abl`)
 ~~~
 
 ~~~ sdparse
-Նա նստած էր ծառի տակ ։ \n He-was sitting under the-tree.`Dat` .
+Նա նստած էր ծառի տակ ։ \n He was sitting under the-tree.`Dat` .
 obl(նստած, ծառի)
 case(ծառի, տակ)
 obl(sitting, the-tree.`Dat`)
