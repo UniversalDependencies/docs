@@ -11,8 +11,13 @@ In Armenian the `nmod` relation can be expressed using all [cases](Case) except 
 
 We also use the following language-specific subtypes for `nmod`:
 
-nmod: noun modifier which functionally corresponds to an attribute, and is in Nominative,
-[nmod:poss](): noun modifier which functionally corresponds to a possessive complement (non-nominative and adpositional cases).
+nmod: noun modifier is  functionally corresponds to an attribute, and is in Nominative,
+[nmod:poss](): noun modifier is functionally corresponds to a possessive complement (non-nominative and adpositional cases),
+[nmod:npmod](): noun phrase is is functionally corresponds to an argument or adjunct.
+
+Nominal modifiers not marked by a preposition or ‘s genitive are tagged , a subtype of nmod. 
+
+In Armenian `nmod` is used:
 
 ~~~ sdparse
 տնօրենի գրասենյակը \n office of-the-director.`Dat`
@@ -93,3 +98,11 @@ punct(Petrosyan, ,)
 amod(president, the-first)
 appos(Petrosyan, president)
 ~~~
+
+Nominal modifiers not marked by a preposition or ‘s genitive are tagged nmod:npmod, a 
+
+as subtypes of `nmod`. 
+
+Temporal nominal modifiers are also marked with a separate relation nmod:tmod. 
+
+See the definitions of [nmod:poss](): and [nmod:npmod] relations.
