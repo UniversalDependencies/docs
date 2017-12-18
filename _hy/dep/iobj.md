@@ -37,7 +37,7 @@ and in both cases it would be analyzed as the [obj]():
 ~~~ sdparse
 Նա դասավանդում է մաթեմատիկա ։ \n He teaches introduction to maths .
 obj(դասավանդում, մաթեմատիկա)
-obj(He teaches, introduction)
+obj(teaches, introduction)
 ~~~
 
 ~~~ sdparse
