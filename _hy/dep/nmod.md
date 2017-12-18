@@ -45,10 +45,13 @@ nmod(մարդ, տարիքով)
 nmod(age.`Ins`, man)
 ~~~
 
-* for explicative attribute of a noun:
+* for explicative attribute of a noun: a typical example is a title attached to a name of a person. The relation is similar to the [flat]() relation that links the first and the last name, but it is not labeled `flat` because the title is not part of the name:
 
-`nmod` noun phrases attached to nouns are usually in the dative [Case]() and precedes the modified noun. However, there is also a different kind of `nmod` that precedes the modified noun also, is in Nominative and has a explicative meaning. A typical example is a title attached to a name of a person. The relation is similar to the [flat]() relation
-that links the first and the last name, but it is not labeled `flat` because the title is not part of the name:
+~~~ sdparse
+Արշակ թագավորը \n King Arshak 
+nmod(թագավորը, Արշակ)
+nmod(King, Arshak)
+~~~
 
 ~~~ sdparse
 առաջին նախագահ Լևոն Տեր - Պետրոսյանը \n the-first president Levon Ter - Petrosyan 
@@ -79,47 +82,4 @@ amod(president, the-first)
 appos(Petrosyan, president)
 ~~~
 
-Nominal modifiers not marked by a preposition or ‘s genitive are tagged nmod:npmod, a 
-
-as subtypes of `nmod`. 
-
-Temporal nominal modifiers are also marked with a separate relation nmod:tmod. 
-
 See the definitions of [nmod:poss](): and [nmod:npmod] relations.
-
-
-
-
---------------
-~~~ sdparse
-տնօրենի գրասենյակը \n office of-the-director.`Dat`
-nmod:poss(գրասենյակը, տնօրենի)
-nmod:poss(office, of-the-director.`Dat`)
-~~~
-
-~~~ sdparse
-նրա գրասենյակը \n his office
-det(գրասենյակը, նրա)
-det(office, his)
-~~~
-
-
-
-In conjunction with the [case](case) relation, `nmod` provides a uniform analysis for the possessive alternation:
-
-~~~ sdparse
-սեղանի վրայի գիրքը \n the-book on.`Dat` of-the-table 
-nmod:poss(գիրքը, սեղանի)
-case(սեղանի, վրայի)
-nmod:poss(the-book, of-the-table)
-case(of-the-table, on.`Dat`)
-~~~
-
-~~~ sdparse
-թշնամու դեմ պատերազմը \n the-war against the-enemy
-nmod:poss(պատերազմը, թշնամու)
-case(թշնամու, դեմ)
-nmod:poss(the-war, the-enemy)
-case(the-enemy, against)
-~~~
-
