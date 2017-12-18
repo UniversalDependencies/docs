@@ -5,67 +5,47 @@ shortdef: 'nominal modifier'
 udver: '2'
 ---
 
-The `nmod` relation is used for nominal dependents of another noun or noun phrase and functionally corresponds to an attribute, or possessive (genitive) complement.
+The `nmod` relation is used for nominal dependents of another noun or noun phrase and functionally corresponds to an attribute, to a genitive complement and to an (non-core) argument or adjunct.
 
-In Armenian the `nmod` relation can be expressed using all [cases](Case) except locative. If a possessive [determiner](DET) is used, the relation is labeled [det]().
+The `nmod` relation is further specified by the [Case](Case) feature or [case](case) relation. If a possessive [determiner](DET) is used, the relation is labeled [det]().
 
 We also use the following language-specific subtypes for `nmod`:
 
 * nmod: noun modifier is  functionally corresponds to an attribute, and is in Nominative,
-* [nmod:poss](): noun modifier is functionally corresponds to a possessive complement (non-nominative and adpositional cases),
+* [nmod:poss](): noun modifier is functionally corresponds to a genitive complement (with the option of adpositional cases),
 * [nmod:npmod](): noun phrase is is functionally corresponds to an argument or adjunct.
-
-Nominal modifiers not marked by a preposition or ‘s genitive are tagged , a subtype of nmod. 
 
 In Armenian `nmod` is used:
 
-~~~ sdparse
-տնօրենի գրասենյակը \n office of-the-director.`Dat`
-nmod:poss(գրասենյակը, տնօրենի)
-nmod:poss(office, of-the-director.`Dat`)
-~~~
-
-~~~ sdparse
-նրա գրասենյակը \n his office
-det(գրասենյակը, նրա)
-det(office, his)
-~~~
+* for noun-noun modification (including ablatives and instrumentals):
 
 ~~~ sdparse
 քամի եղանակ \n wind.`Nom` weather
+nmod(եղանակ, քամի)
+nmod(weather, wind.`Nom`)
 ~~~
 
 ~~~ sdparse
-երկու բաժակ ջուր
+երկու բաժակ ջուր \n two cups.`Nom` of-water
+nmod(ջուր, բաժակ)
+nummod(բաժակ, երկու)
+nmod(of-water, cups.`Nom`)
+nummod(cups.`Nom`, two)
 ~~~
 
 ~~~ sdparse
-ռետինից գնդակ \n rubber-from.`Abl` ball
+ռետինից գնդակ \n rubber.`Abl` ball
+nmod(գնդակ, ռետինից)
+nmod(ball, rubber.`Abl`)
 ~~~
 
 ~~~ sdparse
-տարիքով մարդ \n age-with.`Ins` man
+տարիքով մարդ \n age.`Ins` man
+nmod(մարդ, տարիքով)
+nmod(age.`Ins`, man)
 ~~~
 
-In conjunction with the [case](case) relation, `nmod` provides a uniform analysis for the possessive alternation:
-
-~~~ sdparse
-սեղանի վրայի գիրքը \n the-book on.`Dat` of-the-table 
-nmod:poss(գիրքը, սեղանի)
-case(սեղանի, վրայի)
-nmod:poss(the-book, of-the-table)
-case(of-the-table, on.`Dat`)
-~~~
-
-~~~ sdparse
-թշնամու դեմ պատերազմը \n the-war against the-enemy
-nmod:poss(պատերազմը, թշնամու)
-case(թշնամու, դեմ)
-nmod:poss(the-war, the-enemy)
-case(the-enemy, against)
-~~~
-
-## Explicative attribute of a noun
+* for explicative attribute of a noun:
 
 `nmod` noun phrases attached to nouns are usually in the dative [Case]() and precedes the modified noun. However, there is also a different kind of `nmod` that precedes the modified noun also, is in Nominative and has a explicative meaning. A typical example is a title attached to a name of a person. The relation is similar to the [flat]() relation
 that links the first and the last name, but it is not labeled `flat` because the title is not part of the name:
@@ -106,3 +86,40 @@ as subtypes of `nmod`.
 Temporal nominal modifiers are also marked with a separate relation nmod:tmod. 
 
 See the definitions of [nmod:poss](): and [nmod:npmod] relations.
+
+
+
+
+--------------
+~~~ sdparse
+տնօրենի գրասենյակը \n office of-the-director.`Dat`
+nmod:poss(գրասենյակը, տնօրենի)
+nmod:poss(office, of-the-director.`Dat`)
+~~~
+
+~~~ sdparse
+նրա գրասենյակը \n his office
+det(գրասենյակը, նրա)
+det(office, his)
+~~~
+
+
+
+In conjunction with the [case](case) relation, `nmod` provides a uniform analysis for the possessive alternation:
+
+~~~ sdparse
+սեղանի վրայի գիրքը \n the-book on.`Dat` of-the-table 
+nmod:poss(գիրքը, սեղանի)
+case(սեղանի, վրայի)
+nmod:poss(the-book, of-the-table)
+case(of-the-table, on.`Dat`)
+~~~
+
+~~~ sdparse
+թշնամու դեմ պատերազմը \n the-war against the-enemy
+nmod:poss(պատերազմը, թշնամու)
+case(թշնամու, դեմ)
+nmod:poss(the-war, the-enemy)
+case(the-enemy, against)
+~~~
+
