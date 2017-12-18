@@ -13,7 +13,7 @@ We also use the following language-specific subtypes for `nmod`:
 
 * nmod: noun modifier is  functionally corresponds to an attribute, and is in Nominative,
 * [nmod:poss](nmod-poss): noun modifier is functionally corresponds to a genitive complement (with the option of adpositional cases),
-* [nmod:npmod](nmod-npmod): noun phrase is is functionally corresponds to an argument or adjunct.
+* [nmod:npmod](nmod-npmod): noun phrase is functionally corresponds to an argument or adjunct.
 
 In Armenian `nmod` is used:
 
