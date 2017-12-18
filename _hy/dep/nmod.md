@@ -12,8 +12,8 @@ The `nmod` relation is further specified by the [Case](Case) feature or [case](c
 We also use the following language-specific subtypes for `nmod`:
 
 * nmod: noun modifier is  functionally corresponds to an attribute, and is in Nominative,
-* [nmod:poss](): noun modifier is functionally corresponds to a genitive complement (with the option of adpositional cases),
-* [nmod:npmod](): noun phrase is is functionally corresponds to an argument or adjunct.
+* [nmod:poss](nmod-poss): noun modifier is functionally corresponds to a genitive complement (with the option of adpositional cases),
+* [nmod:npmod](nmod-npmod): noun phrase is is functionally corresponds to an argument or adjunct.
 
 In Armenian `nmod` is used:
 
