@@ -9,7 +9,7 @@ The `nmod` relation is used for nominal dependents of another noun or noun phras
 
 We use the following language-specific subtypes for `nmod`:
 
-* nmod: noun modifier functionally corresponds to an attribute,
+* nmod: noun modifier (usually in Nominative) functionally corresponds to an attribute,
 * [nmod:poss](nmod-poss): noun modifier functionally corresponds to a genitive complement (with the option of adpositional cases),
 * [nmod:npmod](nmod-npmod): noun phrase functionally corresponds to an argument or adjunct.
 
