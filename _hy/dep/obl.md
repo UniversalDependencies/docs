@@ -17,7 +17,7 @@ obl(հանդիպեցի, չորեքշաբթի)
 obl(have-met, Thursday)
 ~~~
 
-The obl relation can be further specified by the case. In conjunction with the case relation, it provides a uniform analysis for:
+The `obl` relation can be further specified by the [case](). In conjunction with the case relation, it provides a uniform analysis for:
 
 *	variant forms with case, a preposition or a postposition:
 
@@ -35,7 +35,7 @@ obl(sitting, the-tree.`Dat`)
 case(the-tree.`Dat`, under)
 ~~~
 
-*	obl is also used for temporal and locational nominal modifiers:
+*	`obl` is also used for temporal and locational nominal modifiers:
 
 ~~~ sdparse
 Ամռանը հանդիպեցի նրան սրճարանում ։ \n I-met him in-the-sommer in-the-cafe .
