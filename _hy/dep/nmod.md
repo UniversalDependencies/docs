@@ -84,32 +84,25 @@ amod(նախագահ, առաջին)
 nmod(Պետրոսյանը, նախագահ)
 flat(Պետրոսյանը, Լևոն)
 flat(Պետրոսյանը, Տեր)
-punct(Պետրոսյանը, --5)
 amod(president, the-first)
 nmod(Petrosyan, president)
 flat(Petrosyan, Levon)
 flat(Petrosyan, Ter)
-punct(Petrosyan, --11)
 ~~~
 
 Note that the same thing can be also expressed using an [apposition](appos).
 In the case of apposition, the title follows the modified name and is separated by a punctuation symbol:
 
 ~~~ sdparse
-Լևոն Տեր - Պետրոսյանը ՝ առաջին նախագահը , \n Levon Ter - Petrosyan , the-first president ,
+Լևոն Տեր - Պետրոսյանը ՝ առաջին նախագահը \n Levon Ter - Petrosyan , the-first president
 flat(Պետրոսյանը, Լևոն)
 flat(Պետրոսյանը, Տեր)
-punct(Պետրոսյանը, --3)
 punct(Պետրոսյանը, ՝)
 amod(նախագահը, առաջին)
-punct(նախագահը, ,-8)
 appos(Պետրոսյանը, նախագահը)
-
 flat(Petrosyan, Levon)
 flat(Petrosyan, Ter)
-punct(Petrosyan, --11)
-punct(Petrosyan, ,-13)
+punct(Petrosyan, ,)
 amod(president, the-first)
-punct(president, ,-16)
 appos(Petrosyan, president)
 ~~~
