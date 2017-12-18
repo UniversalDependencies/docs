@@ -11,14 +11,13 @@ In Armenian the `nmod` relation can be expressed using all [cases](Case) except 
 
 We also use the following language-specific subtypes for `nmod`:
 
-nmod:poss: possessor in in a genitive-possessive construction with the option of a subtype like nmod:poss to distinguish non-adpositional case
-nmod:comp: a comparative nominal modifier
-nmod:part: noun modifier specifying the whole-part relation
+nmod: noun modifier which functionally corresponds to an attribute, and is in Nominative,
+[nmod:poss](): noun modifier which functionally corresponds to a possessive complement (non-nominative and adpositional cases).
 
 ~~~ sdparse
 տնօրենի գրասենյակը \n office of-the-director.`Dat`
-nmod(գրասենյակը, տնօրենի)
-nmod(office, of-the-director.`Dat`)
+nmod:poss(գրասենյակը, տնօրենի)
+nmod:poss(office, of-the-director.`Dat`)
 ~~~
 
 ~~~ sdparse
@@ -43,39 +42,27 @@ det(office, his)
 տարիքով մարդ \n age-with.`Ins` man
 ~~~
 
-
-~~~ sdparse
-kancelář ředitele \n office of-the-director
-nmod(kancelář, ředitele)
-nmod(office, of-the-director)
-~~~
-
-
-
-In conjunction with the [case](case) relation, `nmod` provides a uniform analysis for the possessive alternation
-
-(with the option of a subtype like nmod:poss to distinguish non-adpositional case):
+In conjunction with the [case](case) relation, `nmod` provides a uniform analysis for the possessive alternation:
 
 ~~~ sdparse
 սեղանի վրայի գիրքը \n the-book on.`Dat` of-the-table 
-nmod(գիրքը, սեղանի)
+nmod:poss(գիրքը, սեղանի)
 case(սեղանի, վրայի)
-nmod(the-book, of-the-table)
+nmod:poss(the-book, of-the-table)
 case(of-the-table, on.`Dat`)
 ~~~
 
 ~~~ sdparse
 թշնամու դեմ պատերազմը \n the-war against the-enemy
-nmod(պատերազմը, թշնամու)
+nmod:poss(պատերազմը, թշնամու)
 case(թշնամու, դեմ)
-nmod(the-war, the-enemy)
+nmod:poss(the-war, the-enemy)
 case(the-enemy, against)
 ~~~
 
-## Agreeing attribute of a noun
+## Explicative attribute of a noun
 
-`nmod` noun phrases attached to nouns are usually in the dative [Case]() and precedes the modified noun. However, there is also a different kind of `nmod` that precedes the modified noun and agrees with it in case and number.
-A typical example is a title attached to a name of a person. The relation is similar to the [flat]() relation
+`nmod` noun phrases attached to nouns are usually in the dative [Case]() and precedes the modified noun. However, there is also a different kind of `nmod` that precedes the modified noun also, is in Nominative and has a explicative meaning. A typical example is a title attached to a name of a person. The relation is similar to the [flat]() relation
 that links the first and the last name, but it is not labeled `flat` because the title is not part of the name:
 
 ~~~ sdparse
