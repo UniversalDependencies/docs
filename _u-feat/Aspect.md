@@ -93,7 +93,15 @@ we may use both the "Tense" and the "Aspect" features).
 
 In languages other than English, the progressive meaning may be
 expressed by morphemes bound to the main verb, which makes this value
-even more justified. Example is Turkish.
+even more justified. Example is Turkish with its two distinct progressive
+morphemes, _-yor_ and _-mekte._
+
+#### Examples
+
+* [tr] _eve <b>gidiyor</b>_ “she is going home (now)”
+* [tr] _eve <b>gitmekte</b>_ “she is going home (now)”
+* [tr] _eve <b>gidiyordu</b>_ “she was going home (when I saw her)”
+* [tr] _eve <b>gimekteydi</b>_ “she was going home (when I saw her)”
 
 ### <a name="Hab">`Hab`</a>: habitual aspect
 
