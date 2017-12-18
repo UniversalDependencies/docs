@@ -7,13 +7,11 @@ udver: '2'
 
 The `nmod` relation is used for nominal dependents of another noun or noun phrase and functionally corresponds to an attribute, to a genitive complement and to an (non-core) argument or adjunct.
 
-The `nmod` relation is further specified by the [Case](Case) feature or [case](case) relation. If a possessive [determiner](DET) is used, the relation is labeled [det]().
+We use the following language-specific subtypes for `nmod`:
 
-We also use the following language-specific subtypes for `nmod`:
-
-* nmod: noun modifier is  functionally corresponds to an attribute, and is in Nominative,
-* [nmod:poss](nmod-poss): noun modifier is functionally corresponds to a genitive complement (with the option of adpositional cases),
-* [nmod:npmod](nmod-npmod): noun phrase is functionally corresponds to an argument or adjunct.
+* nmod: noun modifier functionally corresponds to an attribute,
+* [nmod:poss](nmod-poss): noun modifier functionally corresponds to a genitive complement (with the option of adpositional cases),
+* [nmod:npmod](nmod-npmod): noun phrase functionally corresponds to an argument or adjunct.
 
 In Armenian `nmod` is used:
 
@@ -26,11 +24,11 @@ nmod(weather, wind.`Nom`)
 ~~~
 
 ~~~ sdparse
-երկու բաժակ ջուր \n two cups.`Nom` of-water
+երկու բաժակ ջուր \n two cup.`Nom` water
 nmod(ջուր, բաժակ)
 nummod(բաժակ, երկու)
-nmod(of-water, cups.`Nom`)
-nummod(cups.`Nom`, two)
+nmod(water, cup.`Nom`)
+nummod(cup.`Nom`, two)
 ~~~
 
 ~~~ sdparse
@@ -82,4 +80,4 @@ amod(president, the-first)
 appos(Petrosyan, president)
 ~~~
 
-See the definitions of [nmod:poss](): and [nmod:npmod] relations.
+See the definitions of [nmod:poss](nmod-poss): and [nmod:npmod](nmod-npmod) relations.
