@@ -9,13 +9,13 @@ The `nmod` relation is used for nominal dependents of another noun or noun phras
 
 We use the following language-specific subtypes for `nmod`:
 
-* nmod: noun modifier functionally corresponds to an attribute,
-* [nmod:poss](nmod-poss): noun modifier functionally corresponds to a possessives,
-* [nmod:obl](nmod-obl): noun modifier functionally corresponds to an oblique argument or adjunct.
+* `nmod`: noun modifier functionally corresponds to an attribute,
+* [nmod:poss](): noun modifier functionally corresponds to a possessives,
+* [nmod:obl](): noun modifier functionally corresponds to an oblique argument or adjunct.
 
 In Armenian `nmod` is used:
 
-* for noun-noun modification: `nmod` noun phrases attached to nouns are usually in the nominative [Case](Case) and precede the modified noun. There are alternations in ablative or instrumental Cases.
+* for noun-noun modification: `nmod` noun phrases attached to nouns are usually in the nominative [Case]() and precede the modified noun. There are alternations in ablative or instrumental Cases.
 
 ~~~ sdparse
 քամի եղանակ \n wind.`Nom` weather
@@ -80,4 +80,4 @@ amod(president, the-first)
 appos(Petrosyan, president)
 ~~~
 
-See the definitions of [nmod:poss](nmod-poss) and [nmod:obl](nmod-obl) relations.
+See the definitions of [nmod:poss]() and [nmod:obl]() relations.
