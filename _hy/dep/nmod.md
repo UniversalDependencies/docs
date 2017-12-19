@@ -80,4 +80,4 @@ amod(president, the-first)
 appos(Petrosyan, president)
 ~~~
 
-See the definitions of [nmod:poss]() and [nmod:obl]() relations.
+Note also, that so-called “bare noun compounds” (e.g. _մարդ արարած&nbsp;_ “human being”) marked using the [compound]() relation.
