@@ -1,7 +1,7 @@
 ---
 layout: relation
 title:  'nmod:poss'
-shortdef : 'possessive modifier'
+shortdef : 'nominal possessive modifier'
 udver: '2'
 ---
 
