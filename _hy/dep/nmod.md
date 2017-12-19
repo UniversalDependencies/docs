@@ -80,4 +80,4 @@ amod(president, the-first)
 appos(Petrosyan, president)
 ~~~
 
-See the definitions of [nmod:poss](nmod-poss): and [nmod:arg](nmod-arg) relations.
+See the definitions of [nmod:poss](nmod-poss): and [nmod:obl](nmod-obl) relations.
