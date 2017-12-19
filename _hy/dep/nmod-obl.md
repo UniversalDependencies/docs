@@ -5,16 +5,18 @@ shortdef: 'nominal oblique modifier'
 udver: '2'
 ---
 
-This relation is a subtype of the [nmod]() relation. `nmod:obl` noun phrases attached to nouns are in different [cases](Case), follow the modified noun and functionally corresponds to a non-core (oblique) argument or adjunct.
+This relation is a subtype of the [nmod]() relation.
+
+`nmod:obl` noun phrases attached to nouns are in different [cases](Case), follow the modified noun and functionally corresponds to a non-core (oblique) argument or adjunct.
 
 ~~~ sdparse
 Նրա վերադարձը հայրենիք հետաձգվում էր ։ \n His return to-matherland.`Nom` was-beeing postponed .
 aux(հետաձգվում, էր)
-nsubj(հետաձգվում, վերադարձը)
+nsubj:pass(հետաձգվում, վերադարձը)
 nmod:obl(վերադարձը, հայրենիք)
 nmod:poss(վերադարձը, Նրա)
 aux(postponed, was-beeing)
-nsubj(postponed, return)
+nsubj:pass(postponed, return)
 nmod:obl(return, to-matherland.`Nom`)
 nmod:poss(return, His)
 ~~~
