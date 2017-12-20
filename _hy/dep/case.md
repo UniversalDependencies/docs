@@ -15,7 +15,7 @@ case(the-village.Nom, to)
 
 ~~~ sdparse
 գյուղի համար \n for the-village.Dat
-case(գյուղ, համար)
+case(գյուղի, համար)
 case(the-village.Dat, for)
 ~~~
 
@@ -29,11 +29,11 @@ Currently, we also use `case` for some other case-marking elements treated as se
 These elements (traditionally called “adpositional words”) are treated as dependents of the noun or clause they attach to or introduce. They will have additional features.
 
 ~~~ sdparse
-այս իշխանությունների.Dat երեսից.NOUN \n these authorities-' fault  
-case(իշխանությունների.Dat, երեսից.Abl)
+այս իշխանությունների.Dat երեսից.NOUN \n these authorities-' fault
+case(իշխանությունների.Dat, երեսից.NOUN)
 det(իշխանությունների.Dat, այս)
 case(authorities-', fault)
-det(authorities-'.Dat, these)
+det(authorities-', these)
 ~~~
 
 ~~~ sdparse
