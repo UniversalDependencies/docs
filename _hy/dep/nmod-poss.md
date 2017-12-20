@@ -5,7 +5,7 @@ shortdef : 'nominal possessive modifier'
 udver: '2'
 ---
 
-This relation is a subtype of the [nmod]() relation, which covers only those possessives that are expressed using the dative [Case](Case). If a possessive [determiner](DET) is used, the relation is labeled [det]().
+This relation is a subtype of the [nmod]() relation, which covers only those possessives that are expressed using the dative [Case](Case). If a possessive [pronoun](Pron) is used, the relation is labeled `nmod`.
 
 ~~~ sdparse
 տնօրենի գրասենյակը \n office of-the-director.`Dat`
