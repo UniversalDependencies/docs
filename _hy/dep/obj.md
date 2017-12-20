@@ -47,7 +47,7 @@ Ablative example:
 obj(հեռացավ, բարեկամներից)
 ~~~
 
-Instumental example:
+Instrumental example:
 
 ~~~ sdparse
 Ես հիանում էի մեր լեռներով ։ \n
