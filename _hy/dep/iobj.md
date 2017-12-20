@@ -66,19 +66,18 @@ iobj(told, students)
 obj(told, some-plans)
 ~~~
 
-The other examples include all arguments of a head that are not direct objects or subjects, and are PPs introduced by various postpositions. 
+The other examples include all arguments of a head that are not direct objects or subjects, and are PPs introduced by various postpositions.
 
 ~~~ sdparse
-Նրա խոսքերը ազդեցություն գործեցին պապի վրա ։ \n His words had an-impression on grandfather.
+Նրա խոսքերը ազդեցություն գործեցին պապի վրա ։ \n His words had an-impression on grandfather .
 iobj(գործեցին, պապի)
 obj(գործեցին, ազդեցություն)
 case(պապի, վրա)
 iobj(had, grandfather)
-obj(had, impression)
+obj(had, an-impression)
 case(grandfather, on)
 ~~~
 
-If there are two or
-more objects, one of them should be [obj]() and the others should be
+If there are two or more objects, one of them should be [obj]() and the others should be
 `iobj`. In such cases it is necessary to decide what is the
 most directly affected object _(patient)._
