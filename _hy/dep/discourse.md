@@ -33,3 +33,11 @@ discourse(խոստացար, Չէ)
 fixed(Չէ, որ)
 ~~~
 (meaning “… but you promised”)
+
+~~~ sdparse
+Այո , ծիծաղելի է ։Ճ \n Yes , it's funny ։)
+discourse(ծիծաղելի, ։Ճ)
+discourse(ծիծաղելի, Այո)
+discourse(funny, ։))
+discourse(funny, Yes)
+~~~
