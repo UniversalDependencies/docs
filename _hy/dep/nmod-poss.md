@@ -18,13 +18,3 @@ nmod:poss(office, of-the-director.`Dat`)
 nmod:poss(գրասենյակը, նրա)
 nmod:poss(office, his)
 ~~~
-
-In conjunction with the [case]() relation, `nmod:poss` provides a uniform analysis for the possessive alternation:
-
-~~~ sdparse
-սեղանի վրայի գիրքը \n the-book on.`Dat` of-the-table 
-nmod:poss(գիրքը, սեղանի)
-case(սեղանի, վրայի)
-nmod:poss(the-book, of-the-table)
-case(of-the-table, on.`Dat`)
-~~~
