@@ -32,3 +32,13 @@ nmod:obl(sales, to-the-parties.`Dat`)
 nmod:pass(to-the-parties.`Dat`, of-conflict)
 nmod:pass(sales, Arms)
 ~~~
+
+In conjunction with the [case]() relation, `nmod:obl` provides a uniform analysis for the oblique alternation:
+
+~~~ sdparse
+թշնամու դեմ պատերազմը \n the-war against the-enemy
+nmod:obl(պատերազմը, թշնամու)
+case(թշնամու, դեմ)
+nmod:obl(the-war, the-enemy)
+case(the-enemy, against)
+~~~
