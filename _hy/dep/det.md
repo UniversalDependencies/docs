@@ -23,7 +23,7 @@ det(man, this-kind-of)
 ~~~
 
 ~~~ sdparse
-Որ ՞ գիրքն ես նախընտրում ։ \n Which book do-you prefer  ?
+Որ ՞ գիրքն ես նախընտրում ։ \n Which book do-you prefer ?
 det(գիրքն, Որ)
 det(book, Which)
 ~~~
