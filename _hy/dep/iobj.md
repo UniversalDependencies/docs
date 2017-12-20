@@ -22,11 +22,11 @@ The morphological [Case]() of the objects is dictated by verb valency.
 In the following Armenian example, the verb takes two arguments both are nouns in the dative case. One of them is direct object (patient), the other is indirect (addressee). It is parallel to how the English translation would be annotated (where there is no morphological case marking) and also to verbs of giving (cf. a similar sentence, _he introduces my son to the theacher_).
 
 ~~~ sdparse
-Նա իմ որդուն ներկայացրեց մարզիչին ։ \n He introduces my son.Dat to-the-teacher.Dat .
+Նա իմ որդուն ներկայացրեց մարզիչին ։ \n He introduces my son.Dat to-the-coach.Dat .
 obj(ներկայացրեց, որդուն)
 iobj(ներկայացրեց, մարզիչին)
 obj(introduces, son.Dat)
-iobj(introduces, to-the-teacher.Dat)
+iobj(introduces, to-the-coach.Dat)
 ~~~
 
 In general, if there is just one object, it should be labeled
@@ -69,13 +69,10 @@ obj(told, some-plans)
 The other examples include all arguments of a head that are not direct objects or subjects, and are PPs introduced by various postpositions. 
 
 ~~~ sdparse
-Նա գիրքը դրեց սեղանի վրա ։ \n He put the-book on the-table .
-iobj(դրեց, սեղանի)
-obj(դրեց, գիրքը)
-case(սեղանի, վրա)
-iobj(put, the-table)
-obj(put, the-book)
-case(the-table, on)
+Նրա խոսքերը ազդեցություն գործեցին պապի վրա ։ \n
+iobj(գործեցին, պապի)
+obj(գործեցին, ազդեցություն)
+case(պապի, վրա)
 ~~~
 
 If there are two or
