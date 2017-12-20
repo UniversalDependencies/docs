@@ -19,14 +19,14 @@ iobj(gave, Arthur)
 However, Armenian allows other semantic roles as additional objects.
 The morphological [Case]() of the objects is dictated by verb valency.
 
-In the following Armenian example, the verb takes two arguments both are nouns in the dative case. One of them is direct object (patient), the other is indirect (addressee). It is parallel to how the English translation would be annotated (where there is no morphological case marking) and also to verbs of giving (cf. a similar sentence, _he introduces my son to the theacher_).
+In the following Armenian example, the verb takes two arguments both are nouns in the dative case. One of them is direct object (patient), the other is indirect (addressee). It is parallel to how the English translation would be annotated (where there is no morphological case marking) and also to verbs of giving (cf. a similar sentence, _he introduced my son to the coach_).
 
 ~~~ sdparse
-Նա իմ որդուն ներկայացրեց մարզիչին ։ \n He introduces my son.Dat to-the-coach.Dat .
+Նա իմ որդուն ներկայացրեց մարզիչին ։ \n He introduced my son.Dat to-the-coach.Dat .
 obj(ներկայացրեց, որդուն)
 iobj(ներկայացրեց, մարզիչին)
-obj(introduces, son.Dat)
-iobj(introduces, to-the-coach.Dat)
+obj(introduced, son.Dat)
+iobj(introduced, to-the-coach.Dat)
 ~~~
 
 In general, if there is just one object, it should be labeled
@@ -35,13 +35,13 @@ For example, _դասավանդել_ “to teach” can take either the subject m
 and in both cases it would be analyzed as the [obj]():
 
 ~~~ sdparse
-Նա դասավանդում է մաթեմատիկա ։ \n He teaches introduction to maths .
+Նա դասավանդում է մաթեմատիկա ։ \n He teaches maths .
 obj(դասավանդում, մաթեմատիկա)
-obj(teaches, introduction)
+obj(teaches, maths)
 ~~~
 
 ~~~ sdparse
-Նա դասավանդում է առաջին կուրսեցիներին ։ \n He teaches students of-first year .
+Նա դասավանդում է առաջին կուրսեցիներին ։ \n He teaches first-year students .
 obj(դասավանդում, կուրսեցիներին)
 obj(teaches, students)
 ~~~
@@ -51,7 +51,7 @@ Then the clausal complement is regarded as a “clausal direct object” and an 
 the simple ditransitive case:
 
 ~~~ sdparse
-Նա տեղեկացրեց ուսանողներին , որ վաղվա քննությունները հետաձգվում են ։ \n He told students , that tomorrow's examinations are canceled .
+Նա տեղեկացրեց ուսանողներին , որ վաղվա քննությունները հետաձգվում են ։ \n He told the-students , that tomorrow's examinations are canceled .
 iobj(տեղեկացրեց, ուսանողներին)
 ccomp(տեղեկացրեց, հետաձգվում)
 iobj(told, students)
@@ -59,7 +59,7 @@ ccomp(told, canceled)
 ~~~
 
 ~~~ sdparse
-Նա ուսանողներին պատմեց իր ծրագրերից ։ \n He told students his some-plans .
+Նա ուսանողներին պատմեց իր ծրագրերից ։ \n He told the-students his some-plans .
 iobj(պատմեց, ուսանողներին)
 obj(պատմեց, ծրագրերից)
 iobj(told, students)
@@ -69,10 +69,13 @@ obj(told, some-plans)
 The other examples include all arguments of a head that are not direct objects or subjects, and are PPs introduced by various postpositions. 
 
 ~~~ sdparse
-Նրա խոսքերը ազդեցություն գործեցին պապի վրա ։ \n
+Նրա խոսքերը ազդեցություն գործեցին պապի վրա ։ \n His words had an-impression on grandfather.
 iobj(գործեցին, պապի)
 obj(գործեցին, ազդեցություն)
 case(պապի, վրա)
+iobj(had, grandfather)
+obj(had, impression)
+case(grandfather, on)
 ~~~
 
 If there are two or
