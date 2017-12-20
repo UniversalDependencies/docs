@@ -1,7 +1,7 @@
 ---
 layout: relation
 title:  'nmod:poss'
-shortdef : 'nominal possessive modifier'
+shortdef : 'possessive nominal modifier'
 udver: '2'
 ---
 
@@ -22,9 +22,9 @@ nmod:poss(office, his)
 In conjunction with the [case]() relation, `nmod:poss` provides a uniform analysis for the possessive alternation:
 
 ~~~ sdparse
-թշնամու դեմ պատերազմը \n the-war against the-enemy
-nmod:poss(պատերազմը, թշնամու)
-case(թշնամու, դեմ)
-nmod:poss(the-war, the-enemy)
-case(the-enemy, against)
+սեղանի վրայի գիրքը \n the-book on.`Dat` of-the-table 
+nmod:poss(գիրքը, սեղանի)
+case(սեղանի, վրայի)
+nmod:poss(the-book, of-the-table)
+case(of-the-table, on.`Dat`)
 ~~~
