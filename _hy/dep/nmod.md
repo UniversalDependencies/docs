@@ -18,29 +18,29 @@ In Armenian `nmod` is used:
 * for noun-noun modification: `nmod` noun phrases attached to nouns are usually in the nominative [Case]() and precede the modified noun. There are alternations in ablative or instrumental Cases.
 
 ~~~ sdparse
-քամի եղանակ \n wind.`Nom` weather
+քամի եղանակ \n wind.Nom weather
 nmod(եղանակ, քամի)
-nmod(weather, wind.`Nom`)
+nmod(weather, wind.Nom)
 ~~~
 
 ~~~ sdparse
-երկու բաժակ ջուր \n two cup.`Nom` water
+երկու բաժակ ջուր \n two cup.Nom water
 nmod(ջուր, բաժակ)
 nummod(բաժակ, երկու)
-nmod(water, cup.`Nom`)
-nummod(cup.`Nom`, two)
+nmod(water, cup.Nom)
+nummod(cup.Nom, two)
 ~~~
 
 ~~~ sdparse
-ռետինից գնդակ \n rubber.`Abl` ball
+ռետինից գնդակ \n rubber.Abl ball
 nmod(գնդակ, ռետինից)
-nmod(ball, rubber.`Abl`)
+nmod(ball, rubber.Abl)
 ~~~
 
 ~~~ sdparse
-տարիքով մարդ \n age.`Ins` man
+տարիքով մարդ \n age.Ins man
 nmod(մարդ, տարիքով)
-nmod(age.`Ins`, man)
+nmod(age.Ins, man)
 ~~~
 
 * for an explicative attribute of a noun: a typical example is a title attached to a name of a person. The relation is similar to the [flat]() relation that links the first and the last name, but it is not labeled `flat` because the title is not part of the name:
