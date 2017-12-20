@@ -1,7 +1,7 @@
 ---
 layout: relation
 title:  'nmod:obl'
-shortdef: 'nominal oblique modifier'
+shortdef: 'oblique nominal modifier'
 udver: '2'
 ---
 
