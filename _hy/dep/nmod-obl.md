@@ -14,11 +14,11 @@ This relation is a subtype of the [nmod]() relation.
 aux(հետաձգվում, էր)
 nsubj:pass(հետաձգվում, վերադարձը)
 nmod:obl(վերադարձը, հայրենիք)
-det(վերադարձը, Նրա)
+nsubj:pass(վերադարձը, Նրա)
 aux(postponed, was-beeing)
 nsubj:pass(postponed, return)
 nmod:obl(return, to-matherland.`Nom`)
-det(return, His)
+nsubj:pass(return, His)
 ~~~
 
 ~~~ sdparse
