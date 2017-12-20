@@ -34,7 +34,7 @@ advmod(to-go, tomorrow)
 ~~~
 
 ~~~ sdparse
-Մոտ 200 մարդ էր եկել խնջույքի ։ \n About 200 people came to the party .
-advmod(200, Մոտ)
+Մոտ երկու_հարյուր մարդ եկավ խնջույքի ։ \n About 200 people came to-the-party .
+advmod(երկու_հարյուր, Մոտ)
 advmod(200, About)
 ~~~
