@@ -42,3 +42,17 @@ case(թշնամու, դեմ)
 nmod:obl(the-war, the-enemy)
 case(the-enemy, against)
 ~~~
+
+~~~ sdparse
+սեղանի վրայի գիրքը \n the-book on.`Dat` of-the-table 
+nmod:obl(գիրքը, սեղանի)
+case(սեղանի, վրայի)
+nmod:obl(the-book, of-the-table)
+case(of-the-table, on.`Dat`)
+~~~
+
+~~~ sdparse
+այգու մոտի առուն \n
+nmod:obl(առուն, այգու)
+case(այգու, մոտի)
+~~~
