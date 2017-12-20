@@ -81,3 +81,17 @@ appos(Petrosyan, president)
 ~~~
 
 Note also, that so-called “bare noun compounds” (e.g. _մարդ արարած&nbsp;_ “human being”) marked using the [compound]() relation.
+
+* In conjunction with the [case]() relation, `nmod` provides a uniform analysis. 
+
+~~~ sdparse
+մի փղի չափ կենդանի \n 
+nmod(կենդանի, փղի)
+case(փղի, չափ)
+~~~
+
+~~~ sdparse
+ոսկու պես աղջիկ \n 
+nmod(աղջիկ, ոսկու)
+case(ոսկու, պես)
+~~~
