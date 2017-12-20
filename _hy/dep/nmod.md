@@ -88,7 +88,7 @@ Note also, that so-called “bare noun compounds” (e.g. _մարդ արարած
 մի փղի չափ կենդանի \n 
 nmod(կենդանի, փղի)
 case(փղի, չափ)
-det(փղի, մի)
+det(կենդանի, մի)
 ~~~
 
 ~~~ sdparse
