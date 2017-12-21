@@ -11,6 +11,6 @@ An auxiliary verb is a verb that accompanies the lexical verb of a verb phrase a
 Semi auxiliaries are annotated `AUX` too (voloir, devoir, povoir, savoir, soloir).
 ### Examples
 
-- _ les espices terriennes i <b>fussent</b> espandues_
+- _les espices terriennes i <b>fussent</b> espandues_
 - _grant honor lor <b>avoit</b> fete_
-- _je le <b>puisse</b> veoir _
+- _je le <b>puisse</b> veoir_
