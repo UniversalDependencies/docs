@@ -2,7 +2,7 @@
 layout: postag
 title: 'PRON'
 shortdef: 'pronoun'
-udver: 
+udver: '2'
 ---
 
 ### Definition
