@@ -18,7 +18,7 @@ advmod(smart, more)
 ~~~ sdparse
 Նա ինձնից շատ է կարդում ։ \n He reads more than-me .
 advmod(կարդում, շատ)
-nmod:comp(կարդում, ինձնից)
+nmod:comp(շատ, ինձնից)
 advmod(reads, more)
-nmod:comp(reads, than-me)
+nmod:comp(more, than-me)
 ~~~
