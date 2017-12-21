@@ -2,7 +2,7 @@
 layout: postag
 title: 'SCONJ'
 shortdef: 'subordinating conjunction'
-udver: 
+udver: '2'
 ---
 
 ### Definition
