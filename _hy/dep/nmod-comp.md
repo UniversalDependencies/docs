@@ -5,7 +5,7 @@ shortdef: 'comparative modifier of an adjective or adverb'
 udver: '2'
 ---
 
-This subtype of [nmod]() is used for marking comparative modifier of an [adjective](ADJ) or [adverb]ADV). See also [specific-syntax]() for more detailed discussion.
+This subtype of [nmod]() is used for marking comparative modifier of an [adjective](ADJ) or [adverb](ADV). See also [specific-syntax]() for more detailed discussion.
 
 ~~~ sdparse
 Արամը եղբորից ավելի խելացի է ։ \n Aram is more smart than-his-brother .
