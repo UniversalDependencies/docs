@@ -11,6 +11,6 @@ Determiners are words that modify nouns or noun phrases and express the referenc
 - articles (a closed class indicating definiteness, specificity or givenness): _le, la, les, li , une, un_
 - possessive determiners: _mon, mes, ma, ses, son, sa, s', si, nostre, vostre, noz, lor_
 - demonstrative determiners: e.g., _ceste, cest, cil, cel, cele, celui, cestui, ces, icil, icel_
-- interrogative determiners: _quel, qel_"En <b>qel</b> endroit sont il?"_
-- relative determiners: _quel, qel, quele_"Ne savons el <b>qel</b> voie tienge"_
+- interrogative determiners: _quel, qel "En <b>qel</b> endroit sont il?"_
+- relative determiners: _quel, qel, quele "Ne savons el <b>qel</b> voie tienge"_
 - quantity/quantifier determiners: _tous, toutes, tot, autre, autres, cascun, maint, molt, tel_
