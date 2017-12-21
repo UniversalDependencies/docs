@@ -11,7 +11,8 @@ We use the following language-specific subtypes for `nmod`:
 
 * `nmod`: noun modifier functionally corresponds to an attribute,
 * [nmod:poss](): noun modifier functionally corresponds to a possessives,
-* [nmod:obl](): noun modifier functionally corresponds to an oblique argument or adjunct.
+* [nmod:obl](): noun modifier functionally corresponds to an oblique argument or adjunct,
+* [nmod:comp](): a comparative nominal modifier.
 
 In Armenian `nmod` is used:
 
