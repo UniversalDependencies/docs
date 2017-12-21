@@ -2,7 +2,7 @@
 layout: postag
 title: 'AUX'
 shortdef: 'auxiliary verb'
-udver: 2
+udver: '2'
 ---
 
 ### Definition
