@@ -4,22 +4,16 @@ title: 'ADV'
 shortdef: 'adverb'
 udver: '2'
 ---
-
 ### Definition
 
-Adjectives are words that typically modify nouns and specify their properties or attributes.
+Adverbs are words that typically modify adjectives, verbs or other adverbs for such categories as time, place, direction or manner.
 
-Indefinites and adjectives are also annotated as `ADJ`.
-
-Cardinal adjectives are annotated `NUM`.
 
 ### Examples
 
-- _grans/grande_
-- _biax_ 
-- _petis_
-- _tel_
-- _autre_
-- _tox_
-- _vostre_
+- _ja_
+- _mout/molt_ 
+- _belement_
+- _cortoisement_
+
 
