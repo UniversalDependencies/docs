@@ -54,7 +54,7 @@ the simple ditransitive case:
 Նա տեղեկացրեց ուսանողներին , որ վաղվա քննությունները հետաձգվում են ։ \n He told the-students , that tomorrow's examinations are canceled .
 iobj(տեղեկացրեց, ուսանողներին)
 ccomp(տեղեկացրեց, հետաձգվում)
-iobj(told, students)
+iobj(told, the-students)
 ccomp(told, canceled)
 ~~~
 
@@ -62,7 +62,7 @@ ccomp(told, canceled)
 Նա ուսանողներին պատմեց իր ծրագրերից ։ \n He told the-students his some-plans .
 iobj(պատմեց, ուսանողներին)
 obj(պատմեց, ծրագրերից)
-iobj(told, students)
+iobj(told, the-students)
 obj(told, some-plans)
 ~~~
 
