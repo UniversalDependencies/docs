@@ -10,7 +10,7 @@ which is a core argument. That is, it functions like an object of the verb, or
 adjective.
 
 ~~~ sdparse
-Նա ասաց , որ դու աշխատում ես այստեղ . \n He said , that you work here .
+Նա ասաց , որ դու աշխատում ես այստեղ ։ \n He said , that you work here .
 ccomp(ասաց, աշխատում)
 ccomp(said, work)
 ~~~
@@ -21,13 +21,13 @@ as the higher subject or object, with no other possible interpretation)
 the appropriate relation is [xcomp]().
 
 ~~~ sdparse
-Ղեկավարը հրամայեց փորել . \n The-boss ordered to-dig .
+Ղեկավարը հրամայեց փորել ։ \n The-boss ordered to-dig .
 ccomp(հրամայեց, փորել)
 ccomp(ordered, to-dig)
 ~~~
 
 ~~~ sdparse
-Մենք սկսեցինք փորել . \n We started to-dig .
+Մենք սկսեցինք փորել ։ \n We started to-dig .
 xcomp(սկսեցինք, փորել)
 xcomp(started, to-dig)
 ~~~
