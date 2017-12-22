@@ -15,8 +15,8 @@ mark(you-speak, that)
 ~~~
 
 ~~~ sdparse
-Ապրանքը կուղարկենք, երբ գումարը փոխանցվի մեր հաշվին ։ \n We-will-dispatch goods , as-soon-as money arrive at our account .
-mark(նստի, երբ)
+Ապրանքը կուղարկենք , երբ գումարը փոխանցվի մեր հաշվին ։ \n We-will-dispatch goods , as-soon-as money arrive at our account .
+mark(փոխանցվի, երբ)
 mark(arrive, as-soon-as)
 ~~~
 
