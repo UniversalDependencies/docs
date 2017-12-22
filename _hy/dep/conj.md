@@ -29,10 +29,10 @@ conj(apples, oranges)
 conj(apples, bananas)
 cc(բանան, և)
 cc(bananas, and)
-punct(խնձոր ,-4)
+punct(խնձոր, ,-4)
 punct(տանձ, ,-6)
-punct(pears, ,-14)
-punct(oranges, ,-16)
+punct(apples, ,-15)
+punct(pears, ,-17)
 ~~~
 
 Coordinate clauses are treated the same way as coordination of other constituent types:
@@ -44,7 +44,7 @@ conj(եկավ, գնաց)
 conj(came, showered)
 conj(came, went)
 punct(եկավ, ,-4)
-punct(showered, ,-15)
+punct(came, ,-16)
 cc(գնաց, և)
 cc(went, and)
 ~~~
