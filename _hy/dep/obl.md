@@ -22,25 +22,25 @@ The `obl` relation can be further specified by the [case](). In conjunction with
 *	variant forms with case, a preposition or a postposition:
 
 ~~~ sdparse
-Դուրս եկավ տնից ։ \n He-went out from-the-house.`Abl` .
+Դուրս եկավ տնից ։ \n He-went out from-the-house.Abl .
 obl(եկավ, տնից)
-obl(He-went, from-the-house.`Abl`)
+obl(He-went, from-the-house.Abl)
 ~~~
 
 ~~~ sdparse
-Նա նստած էր ծառի տակ ։ \n He was sitting under the-tree.`Dat` .
+Նա նստած էր ծառի տակ ։ \n He was sitting under the-tree.Dat .
 obl(նստած, ծառի)
 case(ծառի, տակ)
-obl(sitting, the-tree.`Dat`)
-case(the-tree.`Dat`, under)
+obl(sitting, the-tree.Dat)
+case(the-tree.Dat, under)
 ~~~
 
 *	`obl` is also used for temporal and locational nominal modifiers:
 
 ~~~ sdparse
-Ամռանը հանդիպեցի նրան սրճարանում ։ \n I-met him in-the-sommer in-the-cafe .
+Ամռանը հանդիպեցի նրան սրճարանում ։ \n I-met him in-the-sommer.Dat in-the-cafe.Loc .
 obl(հանդիպեցի, Ամռանը)
 obl(հանդիպեցի, սրճարանում)
-obl(I-met, in-the-sommer)
-obl(I-met, in-the-cafe)
+obl(I-met, in-the-sommer.Dat)
+obl(I-met, in-the-cafe.Loc)
 ~~~
