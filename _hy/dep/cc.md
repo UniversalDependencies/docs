@@ -21,7 +21,7 @@ cc(wise, and)
 A coordinating conjunction may also appear at the beginning of a
 sentence. This is also called a `cc`, and it depends on the root
 predicate of the sentence.
-(In fact there is a coordination that spans multiple sentences. We cannot attach a word to the first conjunct because it is in another sentence. Thus we attach it to the first conjunct available in the current sentence: its main predicate.))
+(In fact there is a coordination that spans multiple sentences. We cannot attach a word to the first conjunct because it is in another sentence. Thus we attach it to the first conjunct available in the current sentence: its main predicate.)
 
 ~~~ sdparse
 Ու հետո մենք գնացինք ։ \n And then we-have left .
@@ -41,8 +41,8 @@ conj(apples, oranges)
 conj(apples, bananas)
 cc(բանան, և)
 cc(bananas, and)
-punct(խնձոր ,-4)
-punct(տանձ, ,-6)
-punct(apples, ,-15)
+punct(տանձ, ,-4)
+punct(նարինջ, ,-6)
+punct(pears, ,-15)
 punct(oranges, ,-17)
 ~~~
