@@ -43,6 +43,6 @@ cc(բանան, և)
 cc(bananas, and)
 punct(խնձոր ,-4)
 punct(տանձ, ,-6)
-punct(pears, ,-14)
-punct(oranges, ,-16)
+punct(apples, ,-15)
+punct(oranges, ,-17)
 ~~~
