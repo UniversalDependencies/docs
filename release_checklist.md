@@ -10,6 +10,7 @@ This checklist is meant to provide guidance for teams contributing treebank data
 
 Contents:
 
+* [New language or treebank](#new-language-or-treebank)
 * [Executive summary](#executive-summary)
 * [Repository and files](#repository-and-files)
   - [The README file](#the-readme-file)
@@ -19,6 +20,21 @@ Contents:
   - [Data format and repository](#data-format-and-repository)
   - [Syntax](#syntax)
 * [Language-specific guidelines](#language-specific-guidelines)
+
+# New language or treebank
+
+If you want to write UD guidelines and/or provide annotated data for a language that is currently not listed on the UD website,
+make sure you have a github account and contact a member of our release and documentation task force:
+Dan Zeman (zeman@ufal.mff.cuni.cz), Filip Ginter (ginter@cs.utu.fi). They will get you going.
+
+Similarly, if you want to contribute a new treebank of a language that is already listed on the UD website,
+contact the release task force and they will create a new treebank repository.
+Think of an acronym or short word that will be used as the treebank identifier in the name of the repository
+(for example, UD_English-LinES and UD_English-ParTUT are two different English UD treebanks
+and their identifiers are LinES and ParTUT).
+
+While you are waiting for your repository, read the instructions below. They explain what you need to do
+so that your treebank works well with our infrastructure and can be released.
 
 # Executive summary
 
@@ -85,13 +101,13 @@ of the superordinate section and will be copied with it.
 # Summary
 
 UD Swedish-TP is a conversion of the Prose section of Talbanken, originally annotated in the MAMBA annotation scheme,
-and consisting of a variety of informative text genres, including textbooks, information brochures and newspaper articles. 
+and consisting of a variety of informative text genres, including textbooks, information brochures and newspaper articles.
 
 # Introduction
 
 UD Swedish-TP is a conversion of the Prose section of Talbanken (Einarsson, 1976), originally annotated…
 
-# Acknowledgments 
+# Acknowledgments
 
 The new conversion has been performed by Joakim Nivre and Aaron Smith at Uppsala University. We thank everyone who…
 
