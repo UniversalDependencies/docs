@@ -44,25 +44,25 @@ so that your treebank works well with our infrastructure and can be released.
 
 # Repository and files
 
-Every language has its own GitHub repository called `UD_Language`, where `Language` is the name of the language. For example, the repository for Finnish is called `UD_Finnish`. Make sure to create the repository for your language if it does not already exist. Some languages have more than one treebank and the additional treebanks have their own repositories with a `-Treebank` identifier after the language name. For example, `UD_Finnish-FTB` is the repository for the FinnTreeBank, while the plain `UD_Finnish` holds the Turku Dependency Treebank.
+Every language has its own GitHub repository called `UD_Language`, where `Language` is the name of the language. For example, the repository for Finnish is called `UD_Finnish`. If your repository does not exist yet, get in touch with us (see above). Some languages have more than one treebank and the additional treebanks have their own repositories with a `-Treebank` identifier after the language name. For example, `UD_Finnish-FTB` is the repository for the FinnTreeBank, while the plain `UD_Finnish` holds the Turku Dependency Treebank.
 
-Every language repository should contain the following five files (where `xx` is the ISO code for the given language; if this is not the first treebank for the language, use `xx_y` instead, where `y` is the lowercased treebank identifier):
+Every treebank repository should contain the following files (where `xx` is the ISO code for the given language; if this is not the first treebank for the language, use `xx_y` instead, where `y` is the lowercased treebank identifier).
+Small treebanks may have just the test file but no training and development data
+(more detailed recommendations for train-dev-test data splits are currently under negotiation).
 
-1. `xx-ud-train.conllu`
-2. `xx-ud-dev.conllu`
-3. <del>xx-ud-test.conllu</del> temporary rule for UD 2.0: **do not publish the test set!** Validate it offline and then send it by e-mail to ud.conll.shared.task.2017@gmail.com.
-4. `README.txt` or `README.md`
-5. `LICENSE.txt`
+1. `README.md` or `README.txt`
+2. `LICENSE.txt`
+3. `xx-ud-test.conllu`
+4. `xx-ud-train.conllu`
+5. `xx-ud-dev.conllu`
 
-The first three files contain the treebank data split into a training, development and test set. These should be in `CONLL-U` format and conform to the universal guidelines. They need to be validated as described below.
+The `README.md` file contains basic documentation of the treebank and machine-readable metadata for the UD main page (see below) and the `LICENSE.txt` specifies under what license the treebank is made available.
 
-If the treebank consists of more than 20,000 words, make the test set and dev set at least 10,000 words each, even if it leaves you with training data smaller than development data (that is [necessary for the CoNLL 2017 shared task](http://universaldependencies.org/conll17/inclusion-rules.html)). There is no upper limit on the size of dev/test. If you cannot reach 10,000 words of test data, use a more typical split, e.g. 80-10-10% (but the treebank will not be included in the shared task).
+The data files (training, development and test set) must be in the `CONLL-U` format and conform to the universal guidelines. They need to be validated as described below.
 
-The training-development-test data split should be stable across releases. It should not happen that a sentence that was once part of training data ever appears in the test data, and vice versa (except for sentences that are naturally occurring duplicates in independent texts). We want to prevent accidental misguided results of experiments where people take a parser trained on UD 1.1 and apply it to test data from UD 1.2. **We decided to make an exception to this rule for UD 2.0 where it is needed to achieve 10K test or dev, on the ground that v2 annotation is not backward-compatible anyway.**
+The training-development-test data split should be stable across releases. It should not happen that a sentence that was once part of training data ever appears in the test data, and vice versa (except for sentences that are naturally occurring duplicates in independent texts). We want to prevent accidental misguided results of experiments where people take a parser trained on UD 1.1 and apply it to test data from UD 1.2.
 
-The `README.txt` file contains basic documentation of the treebank and machine-readable metadata for the UD main page (see below) and the `LICENSE.txt` specifies under what license the treebank is made available.
-
-Repositories of released treebanks also contain a `stats.xml` file, which is generated as part of the release-building process, using the script `conllu-stats.pl` available from the `tools` repository. Data providers do not have to care about this file.
+Repositories of released treebanks also contain a `stats.xml` file, which is generated as part of the release-building process, using the script `conllu-stats.pl` available from the `tools` repository. Data providers do not have to care about this file; it will be generated by the release task force.
 
 ## The README file
 
