@@ -212,7 +212,9 @@ e.g.
 ## Repository branches
 
 While the official UD release is always through Lindat, many users of UD source their data from the GitHub language repositories. Therefore, the `master` branch of every language should contain the last, officially released version of the data for the given language. The development in between releases should happen on the `dev` branch of the repository.
-Although it is currently not locked, treebank maintainers should never touch the `master` branch, they should always push to `dev`. At release time, the release task force will take care of merging the contents of the `dev` branch into `master`.
+Treebank maintainers should never touch the `master` branch, they should always push to `dev`.
+(Ordinary contributors are not even able to push to `master`, the branch is protected.)
+At release time, the release task force will take care of merging the contents of the `dev` branch into `master`.
 <strong>Please do not submit pull requests from the dev branch (or from anywhere else) to the master branch.</strong>
 This is not needed for the release merge to take place, and if someone overlooks the destination branch and accepts the pull request,
 it will again result in a commit to the master branch at wrong time.
@@ -297,9 +299,11 @@ the repository:
 
 Since the `v2.0` release, whitespace is allowed in the `FORM` and `LEMMA` fields under conditions specified in [here](v2/segmentation.html). This is supported in the validator through the UD-wide file `data/tokens_w_space.ud` and its language-specific variants `data/tokens_w_space.xx`. In these files, each line is a [Python regular expression](https://docs.python.org/2/library/re.html) defining the permissible forms and lemmas that can contain a whitespace.
 
-# Syntax
+# Content validation
 
 For the `v1.3` release, we have created an additional number of tests which try to uncover possible logical inconsistencies in the treebank data. Automatic validation runs for this syntax validation are available [here](http://universaldependencies.org/svalidation.html). Unlike the data format and repository validation, this validation machinery is not streamlined enough to be distributed for offline use, therefore it is important to regularly push your data to the `dev` branch of the repository.
+(However, similar tests are now available in the
+[Udapi](https://github.com/udapi/udapi-python/blob/master/udapi/block/ud/markbugs.py) tool.)
 
 The tests are specified in the file `gen_index/stests.yaml` and rely on the query language of the [SETS search interface](http://bionlp-www.utu.fi/dep_search).
 
