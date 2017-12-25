@@ -39,11 +39,11 @@ nmod(age.Ins, man)
 Standard nominal modification relationships are used even when things are being counted in groups (with “massifiers”):
 
 ~~~ sdparse
-երկու բաժակ ջուր \n two cups.Nom of-water
+երկու բաժակ ջուր \n two cup.Nom water
 nmod(ջուր, բաժակ)
 nummod(բաժակ, երկու)
-nmod(of-water, cups.Nom)
-nummod(cups.Nom, two)
+nmod(water, cup.Nom)
+nummod(cup.Nom, two)
 ~~~
 
 Note, that so-called “bare noun compounds” (e.g. _մարդ արարած&nbsp;_ “human being”) marked using the [compound]() relation.
