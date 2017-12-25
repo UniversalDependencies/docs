@@ -16,7 +16,7 @@ We use the following language-specific subtypes for `nmod`:
 
 In Armenian `nmod` is used:
 
-* for noun-noun modification: `nmod` noun phrases attached to nouns are usually in the nominative [Case]() and precede the modified noun. There are alternations in ablative or instrumental Cases.
+* for noun-noun modification: `nmod` noun phrases attached to nouns are usually in the nominative [Case]() and precede the modified noun. There are alternations in ablative or instrumental cases.
 
 ~~~ sdparse
 քամի եղանակ \n wind.Nom weather
@@ -39,12 +39,14 @@ nmod(age.Ins, man)
 Standard nominal modification relationships are used even when things are being counted in groups (with “massifiers”):
 
 ~~~ sdparse
-երկու բաժակ ջուր \n two cup.Nom water
-nmod(բաժակ, ջուր)
+երկու բաժակ ջուր \n two cups.Nom of-water
+nmod(ջուր, բաժակ)
 nummod(բաժակ, երկու)
-nmod(cup.Nom, water)
-nummod(cup.Nom, two)
+nmod(of-water, cups.Nom)
+nummod(cups.Nom, two)
 ~~~
+
+Note, that so-called “bare noun compounds” (e.g. _մարդ արարած&nbsp;_ “human being”) marked using the [compound]() relation.
 
 * for an explicative attribute of a noun: a typical example is a title attached to a name of a person. The relation is similar to the [flat]() relation that links the first and the last name, but it is not labeled `flat` because the title is not part of the name:
 
@@ -82,8 +84,6 @@ punct(Petrosyan, ,)
 amod(president, the-first)
 appos(Petrosyan, president)
 ~~~
-
-Note also, that so-called “bare noun compounds” (e.g. _մարդ արարած&nbsp;_ “human being”) marked using the [compound]() relation.
 
 * The `nmod` relation is further specified by the [case]() relation.
 
