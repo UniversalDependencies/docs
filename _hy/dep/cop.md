@@ -74,7 +74,7 @@ In contrast, the following two are no longer parallel:
 ~~~ sdparse
 Հյուղակը հեղեղատի մյուս ափին էր ։ \n The-hut was on-the-other side.Dat of-the-torrent .
 cop(ափին, էր)
-cop(on-the-other side.Dat, was)
+cop(side.Dat, was)
 amod(ափին, մյուս)
 amod(side.Dat, on-the-other)
 nmod:poss(ափին, հեղեղատի)
@@ -98,7 +98,7 @@ nsubj(situation.Loc, Gohar)
 ~~~ sdparse
 Նա նորից իմ սենյակում էր ։ \n He was in-my room.Loc again .
 cop(սենյակում, էր)
-cop(room, was)
+cop(room.Loc, was)
 advmod(սենյակում, նորից)
 advmod(room.Loc, again)
 nmod:poss(սենյակում, իմ)
