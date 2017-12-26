@@ -35,8 +35,8 @@ advmod(to-go, tomorrow)
 
 ~~~ sdparse
 Մոտ հարյուր մարդ եկավ խնջույքի ։ \n About 100 people came to-the-party .
-advmod(երկու_հարյուր, Մոտ)
-advmod(200, About)
+advmod(հարյուր, Մոտ)
+advmod(100, About)
 ~~~
 
 We use a special label, [advmod:emph]() for adverbial modifiers that are used for emphasis.
