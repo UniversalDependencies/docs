@@ -38,3 +38,5 @@ advmod(to-go, tomorrow)
 advmod(երկու_հարյուր, Մոտ)
 advmod(200, About)
 ~~~
+
+We use a special label, [advmod:emph]() for adverbial modifiers that are used for emphasis.
