@@ -66,17 +66,13 @@ Thus the following sentences receive parallel analyses:
 - _Նույն տագնապալի վիճակում էր Գոհարը։_ “.”
 - _Նորից իմ սենյակում էր։_ “.”
 
-- _Lenka je skvělá._ “Lenka is brilliant.”
-- _Lenka je v kondici._ “Lenka is in shape.”
-- _Lenka je v kuchyni._ “Lenka is in the kitchen.”
-
 In contrast, the following two are no longer parallel:
 
 - _Նորից իմ սենյակում էր։_ “.”
 - _Նորից մնաց իմ սենյակում։_ “.”
 
 ~~~ sdparse
-Հյուղակը հեղեղատի մյուս ափին էր ։ \n Lenka is in shape .
+Հյուղակը հեղեղատի մյուս ափին էր ։ \n
 cop(ափին, էր)
 cop()
 amod(ափին, մյուս)
@@ -88,7 +84,7 @@ nsubj()
 ~~~
 
 ~~~ sdparse
-Նույն տագնապալի վիճակում էր Գոհարը ։ \n Lenka is in shape .
+Նույն տագնապալի վիճակում էր Գոհարը ։ \n
 cop(վիճակում, էր)
 cop()
 amod(վիճակում, տագնապալի)
@@ -100,7 +96,7 @@ nsubj()
 ~~~
 
 ~~~ sdparse
-Նորից իմ սենյակում էր ։ \n Lenka is in shape .
+Նորից իմ սենյակում էր ։ \n
 cop(սենյակում, էր)
 cop()
 advmod(սենյակում, Նորից)
