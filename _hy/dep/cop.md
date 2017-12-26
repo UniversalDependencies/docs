@@ -8,7 +8,7 @@ udver: '2'
 A copula is the relation between the nominal predicate _(ստորոգելիական վերադիր)_ and
 the copular verb _<b>եմ</b>_ or _<b>լինեմ</b>_ “to be”.
 The verbs _դառնալ, թվալ, երևալ, ձևանալ, մնալ, հաշվել_ etc. “to become”, despite being counted among copular verbs by some authors,
-is not analyzed as `cop`.
+are not analyzed as `cop`.
 
 We normally take a copula as a dependent of its complement (the nominal predicate).
 The nominal predicate is usually a [noun](NOUN), an [adjective](ADJ), a [pronoun](PRON)
@@ -27,9 +27,9 @@ cop(honest, is)
 ~~~
 
 ~~~ sdparse
-Արդեն ուշ էր ։ \n It was late .
+Արդեն ուշ էր ։ \n It-was already late .
 cop(ուշ, էր)
-cop(late, was)
+cop(late, It-was)
 ~~~
 
 ~~~ sdparse
@@ -40,12 +40,12 @@ aux(եղել, է)
 aux(been, has)
 ~~~
 
-Note that subject participle and infinitive may be also used as nominal predicate with copula.
+Note that subject participle and infinitive can also be used as nominal predicate with copula.
 
 ~~~ sdparse
-Նա հարբեցող է ։ \n He is a-drunker .
+Նա հարբեցող է ։ \n He is a-drunkard .
 cop(հարբեցող, է)
-cop(a-drunker, is)
+cop(a-drunkard, is)
 ~~~
 
 The nominal predicate may also be expressed using a prepositional phrase.
@@ -58,7 +58,7 @@ case(տուփի, մեջ)
 case(the-box, in)
 ~~~
 
-Phrases expressing the state of the subject are clear predicates, e.g. _Գյուտը խառնակ մտքերի մեջ էր_ “Gyut was in strange thoughts”.
+Phrases expressing the state of the subject are clear predicates, e.g. _Գյուտը խառնակ մտքերի մեջ էր_ “Gyut was in mixed thoughts”.
 Under the v2 guidelines, prepositional phrases expressing locations are also considered predicates, to increase parallelism across languages.
 Thus the following sentences receive parallel analyses:
 
@@ -69,7 +69,7 @@ Thus the following sentences receive parallel analyses:
 In contrast, the following two are no longer parallel:
 
 - _Նա նորից իմ սենյակում էր։_ “He was in my room again.”
-- _Նա նորից մնաց իմ սենյակում։_ He stayed at my room again.”
+- _Նա նորից մնաց իմ սենյակում։_ He stayed in my room again.”
 
 ~~~ sdparse
 Հյուղակը հեղեղատի մյուս ափին էր ։ \n The-hut was on-the-other side.Dat of-the-torrent .
