@@ -52,9 +52,9 @@ Note, that `appos` relation is used, if there is agreement of inflectional featu
 If not, we’ll have [nmod]().
 
 ~~~ sdparse
-Իմ եղբայր Միքայելը եկավ ։ \n My brother Michael arrived .
+Իմ եղբայր Միքայելը եկավ ։ \n My brother.Ind Michael.Def arrived .
 nmod(Միքայելը, եղբայր)
-nmod(Michael, brother)
+nmod(Michael.Def, brother.Ind)
 ~~~
 
 `appos` is also used to link key-value pairs in addresses, signatures, etc. (see also the [list]() label):
