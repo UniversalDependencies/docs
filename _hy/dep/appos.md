@@ -31,7 +31,7 @@ then attached as `appos` to the modified noun.
 This is done regardless whether the appositives are joined by a coordinating conjunction or just a comma.
 
 ~~~ sdparse
-Միքայելը ՝ իմ եղբայրն ու Դավիթի զարմիկը ։ \n Michael , my brother and David's cousin, arrived .
+Միքայելը ՝ իմ եղբայրն ու Դավիթի զարմիկը , եկավ ։ \n Michael , my brother and David's cousin, arrived .
 appos(Միքայելը, եղբայրն)
 appos(Michal, brother)
 conj(եղբայրն, զարմիկը)
