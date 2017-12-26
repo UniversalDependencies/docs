@@ -24,7 +24,7 @@ predicate of the sentence.
 (In fact there is a coordination that spans multiple sentences. We cannot attach a word to the first conjunct because it is in another sentence. Thus we attach it to the first conjunct available in the current sentence: its main predicate.)
 
 ~~~ sdparse
-Ու հետո մենք գնացինք ։ \n And then we-have left .
+Ու հետո մենք գնացինք ։ \n And then we left .
 cc(գնացինք, Ու)
 cc(left, And)
 ~~~
