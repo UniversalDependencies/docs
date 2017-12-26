@@ -32,6 +32,14 @@ cop(ուշ, էր)
 cop(late, was)
 ~~~
 
+~~~ sdparse
+Ժամանակին նա մեծ բանաստեղծ է եղել ։ \n
+cop(բանաստեղծ, եղել)
+cop()
+aux(եղել, է)
+aux()
+~~~
+
 Note that subject participle and infinitive may be also used as nominal predicate with copula.
 
 ~~~ sdparse
