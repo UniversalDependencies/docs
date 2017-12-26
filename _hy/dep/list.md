@@ -16,7 +16,7 @@ using the grammatical relations of standard sentences, such as when there is ove
 then it should be analyzed with these more standard relations, even if it is laid out as a list typographically.
 
 ~~~ sdparse
-Պետրոս Պետրոսյան, հեռ . ՝ ( 010 ) 101-010 , էլ . փոստ ՝ petros@petros.am
+Պետրոս Պետրոսյան , հեռ . ՝ ( 010 ) 101-010 , էլ . փոստ ՝ petros@petros.am
 flat(Պետրոսյան, Պետրոս)
 list(Պետրոսյան, հեռ)
 list(Պետրոսյան, փոստ)
