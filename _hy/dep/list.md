@@ -22,6 +22,6 @@ list(Պետրոսյան, հեռ)
 list(Պետրոսյան, փոստ)
 amod(փոստ, էլ)
 appos(հեռ, 010)
-goeswith(010, 101-010)
+flat(010, 101-010)
 appos(փոստ, petros@petros.am)
 ~~~
