@@ -36,7 +36,7 @@ nmod(մարդ, տարիքով)
 nmod(age.Ins, man)
 ~~~
 
-Standard nominal modification relationships are used even when things are being counted in groups (with “massifiers”):
+Standard `nmod` relation is used even when things are being counted in groups (with “massifiers”):
 
 ~~~ sdparse
 երկու բաժակ ջուր \n two cup.Nom water
