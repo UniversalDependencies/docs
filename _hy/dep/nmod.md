@@ -88,14 +88,19 @@ appos(Petrosyan, president)
 * The `nmod` relation is further specified by the [case]() relation.
 
 ~~~ sdparse
-մի փղի չափ կենդանի \n 
+մի փղի չափ կենդանի \n an elephant size animal
 nmod(կենդանի, փղի)
 case(փղի, չափ)
 det(կենդանի, մի)
+nmod(animal, elephant)
+case(elephant, size)
+det(animal, an)
 ~~~
 
 ~~~ sdparse
-ոսկու պես աղջիկ \n 
+ոսկու պես աղջիկ \n gold like girl
 nmod(աղջիկ, ոսկու)
 case(ոսկու, պես)
+nmod(girl, gold)
+case(gold, like)
 ~~~
