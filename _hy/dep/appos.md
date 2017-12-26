@@ -16,7 +16,7 @@ these structures.
 appos(Պապը, արքան)
 appos(Pap, king)
 amod(արքան, հայոց)
-amod(císař, král)
+amod(king, Armenian)
 ~~~
 
 ~~~ sdparse
@@ -31,9 +31,9 @@ then attached as `appos` to the modified noun (nested apposition).
 This is done regardless whether the appositives are joined by a coordinating conjunction or just a comma.
 
 ~~~ sdparse
-Միքայելը ՝ իմ եղբայրն ու Դավիթի զարմիկը , եկավ ։ \n Michael , my brother and David's cousin, arrived .
+Միքայելը ՝ իմ եղբայրն ու Դավիթի զարմիկը , եկավ ։ \n Michael , my brother and David's cousin , arrived .
 appos(Միքայելը, եղբայրն)
-appos(Michal, brother)
+appos(Michael, brother)
 conj(եղբայրն, զարմիկը)
 conj(brother, cousin)
 ~~~
@@ -43,7 +43,7 @@ In the rare cases we mark the appositive nominal as modifying the prevoious one 
 ~~~ sdparse
 Միքայելը ՝ իմ եղբայրը ՝ Դավիթի զարմիկը , կգա վաղը ։ \n Michael , my brother , David's cousin , will-arrive tomorrow .
 appos(Միքայելը, եղբայրը)
-appos(Michal, brother)
+appos(Michael, brother)
 appos(եղբայրը, զարմիկը)
 appos(brother, cousin)
 ~~~
@@ -52,9 +52,9 @@ Note, that `appos` relation is used, if there is agreement of inflectional featu
 If not, we’ll have [nmod]().
 
 ~~~ sdparse
-Իմ եղբայր Միքայելը եկավ ։ \n My brother Michael arrive.
+Իմ եղբայր Միքայելը եկավ ։ \n My brother Michael arrived .
 nmod(Միքայելը, եղբայր)
-nmod(Michal, brother)
+nmod(Michael, brother)
 ~~~
 
 `appos` is also used to link key-value pairs in addresses, signatures, etc. (see also the [list]() label):
