@@ -22,7 +22,7 @@ aux(arrived, I-have)
 ~~~
 
 ~~~ sdparse
-Կարծում ես նա գնացած կլինի ՞ , երբ մենք հասնենք ։ \n You-have think he-will-have gone when we arrive?
+Կարծում ես նա գնացած կլինի ՞ , երբ մենք հասնենք ։ \n You-have think he-will-have gone , when we arrive ?
 aux(Կարծում, ես)
 aux(think, You-have)
 aux(գնացած, կլինի)
