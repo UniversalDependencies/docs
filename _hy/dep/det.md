@@ -12,8 +12,9 @@ Non-pronominal adjectives are tagged [ADJ]() and the relation is labeled [amod](
 Note, that possessive determiners like _իմ&nbsp;_ “my” is currently given the POS tag `DET` but the relation [nmod:poss](), so that it is parallel with other possessive constructions.
 
 ~~~ sdparse
-Մի արահետ գտանք ։ \n
+Մի արահետ գտանք ։ \n A path we-found . 
 det(արահետ, Մի)
+det(path, A)
 ~~~
 
 ~~~ sdparse
