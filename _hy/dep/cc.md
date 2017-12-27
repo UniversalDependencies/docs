@@ -48,7 +48,7 @@ punct(oranges, ,-17)
 ~~~
 
 ~~~ sdparse
-Նա ոչ ՛ տեսել է , ոչ ՛ լսել ։ \n He has not seen or heard.
+Նա ոչ ՛ տեսել է , ոչ ՛ լսել ։ \n He has not seen or heard .
 cc(տեսել, ոչ)
 cc(seen, not)
 cc(լսել, ոչ)
