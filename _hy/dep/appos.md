@@ -27,7 +27,7 @@ appos(Congress, ANC)
 
 There is a slight deviation from the [universal](u-dep/appos) standard in case of more than one appositive nominal.
 Instead of attaching them all to the first noun, all the appositive modifiers are put together in coordination,
-then attached as `appos` to the modified noun (nested apposition).
+then attached as `appos` to the modified noun.
 This is done regardless whether the appositives are joined by a coordinating conjunction or just a comma.
 
 ~~~ sdparse
@@ -36,6 +36,8 @@ appos(Միքայելը, եղբայրն)
 appos(Michael, brother)
 conj(եղբայրն, զարմիկը)
 conj(brother, cousin)
+cc(զարմիկը, ու)
+cc(cousin, and)
 ~~~
 
 In the rare cases we mark the appositive nominal as modifying the prevoious one (chained apposition):
@@ -48,13 +50,12 @@ appos(եղբայրը, զարմիկը)
 appos(brother, cousin)
 ~~~
 
-Note, that `appos` relation is used, if there is agreement of inflectional features between the first noun and appositive modifiers.
-If not, we’ll have [nmod]().
+Note, that `appos` relation is used, if there is case and agreement concord between the first noun and appositive modifiers. If not, we’ll have [nmod]().
 
 ~~~ sdparse
-Իմ եղբայր Միքայելը եկավ ։ \n My brother.Ind Michael.Def arrived .
+Իմ եղբայր Միքայելը եկավ ։ \n My brother.Indef Michael.Def arrived .
 nmod(Միքայելը, եղբայր)
-nmod(Michael.Def, brother.Ind)
+nmod(Michael.Def, brother.Indef)
 ~~~
 
 `appos` is also used to link key-value pairs in addresses, signatures, etc. (see also the [list]() label):
