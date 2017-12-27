@@ -71,7 +71,7 @@ punct(came, .)
 
 ~~~ sdparse
 « Օր . » հապավումը նշանակում է օրինակ ։ \n The-abbreviation “ eg . ” means for-example .
-punct(Օր, .-2)
+punct(Օր, .-3)
 punct(eg, .-14)
 punct(Օր, «)
 punct(eg, “)
