@@ -22,7 +22,7 @@ advcl(must, you-know)
 ~~~
 
 ~~~ sdparse
-Նա շտապում էր , որ ժամանակին տեղ հասնի։ \n He rushed , in-order-to arrive in-time .
+Նա շտապում էր , որ ժամանակին տեղ հասնի ։ \n He rushed , in-order-to arrive in-time .
 advcl(շտապում, հասնի)
 advcl(rushed, arrive)
 ~~~
