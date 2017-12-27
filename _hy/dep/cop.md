@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 A copula is the relation between the nominal predicate _(ստորոգելիական վերադիր)_ and
-the copular verb _<b>եմ</b>_ or _<b>լինեմ</b>_ “to be”.
+the copular verb _<b>եմ</b>,_ “to be” (or its variants (with separate lemma) _լինեմ_) or exetential verb _կամ_ “be, exist”.
 The verbs _դառնալ, թվալ, երևալ, ձևանալ, մնալ, հաշվել_ etc. “to become”, despite being counted among copular verbs by some authors,
 are not analyzed as `cop`.
 
@@ -39,6 +39,9 @@ cop(poet, been)
 aux(եղել, է)
 aux(been, has)
 ~~~
+
+Existential constructions with copula:
+
 
 Note that subject participle and infinitive can also be used as nominal predicate with copula.
 
