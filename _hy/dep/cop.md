@@ -6,8 +6,7 @@ udver: '2'
 ---
 
 A copula is the relation between the nominal predicate _(ստորոգելիական վերադիր)_ and
-the copular verb _<b>եմ</b>,_ “to be” (or its variants (with separate lemma) _լինեմ_) or exetential verb _կամ_ “be, exist”.
-The verbs _դառնալ, թվալ, երևալ, ձևանալ, մնալ, հաշվել_ etc. “to become”, despite being counted among copular verbs by some authors,
+the copular verb _<b>եմ</b>,_ “to be” (or its variants (with separate lemma) _լինեմ_). The verbs _դառնալ, թվալ, երևալ, ձևանալ, մնալ, հաշվել_ etc. “to become”, despite being counted among copular verbs by some authors,
 are not analyzed as `cop`.
 
 We normally take a copula as a dependent of its complement (the nominal predicate).
@@ -40,9 +39,6 @@ aux(եղել, է)
 aux(been, has)
 ~~~
 
-Existential constructions with copula:
-
-
 Note that subject participle and infinitive can also be used as nominal predicate with copula.
 
 ~~~ sdparse
@@ -62,7 +58,7 @@ case(the-box, in)
 ~~~
 
 Phrases expressing the state of the subject are clear predicates, e.g. _Գյուտը խառնակ մտքերի մեջ էր_ “Gyut was in mixed thoughts”.
-Under the v2 guidelines, prepositional phrases expressing locations are also considered predicates, to increase parallelism across languages.
+Under the v2 guidelines, (prepositional) phrases expressing locations are also considered predicates, to increase parallelism across languages.
 Thus the following sentences receive parallel analyses:
 
 - _Հյուղակը հեղեղատի մյուս ափին էր։_ “The hut was on the other side of the torrent.”
@@ -106,4 +102,28 @@ advmod(սենյակում, նորից)
 advmod(room.Loc, again)
 nmod:poss(սենյակում, իմ)
 nmod:poss(room.Loc, in-my)
+~~~
+
+Note, that there is variation for existential constructions with existential auxiliary _կամ_ “be, exist”:
+
+~~~ sdparse
+Սեղանի վրա գիրք կա ։ \n There-is a-book on the-table .
+nsubj(կա, գիրք)
+nsubj(There-is, a-book)
+obl(կա, սեղանի)
+obl(There-is, the-table)
+case(սեղանի, վրա)
+case(the-table, on)
+~~~
+
+Compared to the bare copula:
+
+~~~ sdparse
+Գիրքը սեղանի վրա է ։ \n The-book is on the-table .
+cop(սեղանի, է)
+cop(the-table, is)
+nsubj(սեղանի, Գիրքը)
+nsubj(the-table, The-book)
+case(սեղանի, վրա)
+case(the-table, on)
 ~~~
