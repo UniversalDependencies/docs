@@ -46,3 +46,13 @@ punct(նարինջ, ,-6)
 punct(pears, ,-15)
 punct(oranges, ,-17)
 ~~~
+
+~~~ sdparse
+Նա ոչ ՛ տեսել է , ոչ ՛ լսել ։ \n He has not seen or heard.
+cc(տեսել, ոչ)
+cc(seen, not)
+cc(լսել, ոչ)
+cc(heard, or)
+conj(տեսել, լսել)
+conj(seen, heard)
+~~~
