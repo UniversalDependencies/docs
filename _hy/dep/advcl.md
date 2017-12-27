@@ -16,13 +16,13 @@ advcl(happened, getting-dark)
 ~~~
 
 ~~~ sdparse
-Եթե գիտեք , թե ով է դա արել , պետք է ասեք ուսուցչին ։ \n If you-know , whether who it has-done , you must tell the-teacher .
+Եթե գիտեք ով է արել , պետք է ասեք ուսուցչին ։ \n If you-know who has-done , you must tell the-teacher .
 advcl(ասեք, գիտեք)
 advcl(must, you-know)
 ~~~
 
 ~~~ sdparse
-Նա շտապում էր , որպեսզի հասնի ժամանակին ։ \n He rushed , in-order-to come in-time .
+Նա շտապում էր , որ ժամանակին տեղ հասնի։ \n He rushed , in-order-to arrive in-time .
 advcl(շտապում, հասնի)
-advcl(rushed, come)
+advcl(rushed, arrive)
 ~~~
