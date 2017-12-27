@@ -24,10 +24,10 @@ the head (root) position and the other orphans are attached to it.
 
 An example sentence-like segment that lacks the main verb:
 _Եվ Ռոբերտը՝ չորրորդ հորիզոնականը (Եվ Ռոբերտը [գրավեց] չորրորդ հորիզոնականը)։_
-“And Robert [won] the-fourth place.”
+“And Robert - the-fourth place. (And Robert [won] the-fourth place.)”
 
 ~~~ sdparse
-ROOT Եվ Ռոբերտը ՝ չորրորդ հորիզոնականը ։ \n ROOT And Robert the-fourth place .
+ROOT Եվ Ռոբերտը ՝ չորրորդ հորիզոնականը ։ \n ROOT And Robert - the-fourth place .
 root(ROOT-1, Ռոբերտը)
 root(ROOT-9, Robert)
 cc(Ռոբերտը, Եվ)
@@ -35,6 +35,7 @@ cc(Robert, And)
 orphan(Ռոբերտը, հորիզոնականը)
 orphan(Robert, place)
 punct(Ռոբերտը, ՝)
+punct(Robert, -)
 amod(հորիզոնականը, չորրորդ)
 amod(place, the-fourth)
 ~~~
