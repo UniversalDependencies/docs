@@ -56,7 +56,7 @@ punct(ոչ-2, ՛-3)
 punct(ոչ-7, ՛-8)
 punct(տեսել, ։)
 punct(seen, .)
-punct(ոչ, ,-6)
+punct(ոչ-7, ,-6)
 ~~~
 
 ~~~ sdparse
