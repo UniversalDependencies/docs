@@ -9,9 +9,9 @@ This is a special class of [adverbial modifiers](advmod). While other adverbial 
 including prepositional phrases. 
 
 ~~~ sdparse
-հենց երկուշաբթի \n especially on-Monday
+հենց երկուշաբթի \n just on-Monday
 advmod:emph(երկուշաբթի, հենց)
-advmod:emph(on-Monday, especially)
+advmod:emph(on-Monday, just)
 ~~~
 
 ~~~ sdparse
@@ -21,21 +21,21 @@ advmod:emph(percent, only)
 ~~~
 
 ~~~ sdparse
-անգամ բանակը հետաքրքված չէ \n not even the-army is interested
+անգամ բանակը հետաքրքված չէ \n even the-army is-not interested
 advmod:emph(բանակը, անգամ)
 advmod:emph(the-army, even)
 ~~~
 
 ~~~ sdparse
-մի շաբաթ ևս կուշանա \n it-will-be-late even a week
+ևս մի շաբաթ կուշանա \n a week more it-will-be-late
 advmod:emph(շաբաթ, ևս)
-advmod:emph(week, even)
+advmod:emph(week, more)
 ~~~
 
 ~~~ sdparse
-կարող էին և նախարարին էլ հարցաքննել \n
+կարող էին և նախարարին էլ հարցաքննել \n they could also interrogate the-minister as-well
 advmod:emph(նախարարին, էլ)
-advmod:emph()
+advmod:emph(the-minister, as-well)
 discourse(կարող, և)
-discourse()
+discourse(could, also)
 ~~~
