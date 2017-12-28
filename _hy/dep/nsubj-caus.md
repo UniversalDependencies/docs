@@ -20,4 +20,4 @@ obj:agent(գնել, տիկնիկ)
 obj:agent(buy, a-doll)
 ~~~
 
-N.B.: For more details about the analysis of causatives see [this page](http://universaldependencies.org/hy/overview/specific-syntax.html).
+For more details see [specific-syntax](http://universaldependencies.org/hy/overview/specific-syntax.html).
