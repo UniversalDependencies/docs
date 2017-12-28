@@ -89,7 +89,7 @@ nmod:poss(houres, of-voting)
 Dates are annotated as follows: if present the day is the head, the months are _nmod:poss_ and the year are _nummod_:
 
 ~~~ sdparse
-Նա ծնվել է 1955 թվականի մայիսի 4-ին ։ \n She was born on-4th of-May of-year 1955 .
+Նա ծնվել է 1955 թվականի մայիսի 4-ին ։ \n He was born on-4th of-May of-year 1955 .
 nummod(ծնվել, 4-ին)
 nummod(born, on-4th)
 nmod:poss(4-ին, մայիսի)
