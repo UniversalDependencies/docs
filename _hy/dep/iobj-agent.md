@@ -14,11 +14,11 @@ iobj:agent(remind, me)
 ~~~
 
 ~~~ sdparse
-Քեզ հիշեցնել մի ՛ տուր այդ անունը ։ \n
+Ինձ հիշեցնել մի ՛ տուր այդ անունը ։ \n
 ~~~
 
 ~~~ sdparse
-Ինձ հիշեցնել մի ՛ տուր այդ անունը ։ \n
+Քեզ հիշեցնել մի ՛ տուր այդ անունը ։ \n
 ~~~
 
 The causative (infinitive) verb governs the syntactical subject of the sentence (i.e. the causer) with a [nsubj:caus]() relation. The infinitive verb governs the causative auxiliary with an [aux:caus](aux-caus) relation.
