@@ -12,8 +12,7 @@ An auxiliary of a clause is a form of the [auxiliary verbs](AUX) _եմ_ “be”
 
 Note that in Armenian auxiliary verb _տալ_ used to construct the causative [voice](Voice) is labeled [aux:caus]().
 
-Note that besides `aux`, the verbs _եմ_ and _լինեմ (լինել)_ may also act as a [copula](cop)
-and as the main verb.
+Note that besides `aux`, the verbs _եմ_ and _լինեմ (լինել)_ may also act as a [copula](cop) and as the main verb.
 
 ~~~ sdparse
 Երեկ եմ հասել ։ \n Yesterday I-have arrived .
