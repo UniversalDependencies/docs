@@ -21,6 +21,6 @@ iobj:agent(remind, me)
 Ինձ հիշեցնել մի ՛ տուր այդ անունը ։ \n
 ~~~
 
-The causative (infinitive) verb governs the syntactical subject of the sentence (i.e. the causer) with a [nsubj:caus]() relation. The infinitive verb governs the causative auxilary with an [aux:caus]() relation.
+The causative (infinitive) verb governs the syntactical subject of the sentence (i.e. the causer) with a [nsubj:caus]() relation. The infinitive verb governs the causative auxiliary with an [aux:caus](aux-caus) relation.
 
 N.B.: For more details about the analysis of causatives see [this page](http://universaldependencies.org/hy/overview/specific-syntax.html#causative).
