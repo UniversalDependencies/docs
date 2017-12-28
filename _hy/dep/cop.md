@@ -110,9 +110,9 @@ Note, that there is variation for existential constructions with existential aux
 Սեղանի վրա գիրք կա ։ \n There-is a-book on the-table .
 nsubj(կա, գիրք)
 nsubj(There-is, a-book)
-obl(կա, սեղանի)
+obl(կա, Սեղանի)
 obl(There-is, the-table)
-case(սեղանի, վրա)
+case(Սեղանի, վրա)
 case(the-table, on)
 ~~~
 
