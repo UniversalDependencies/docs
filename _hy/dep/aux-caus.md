@@ -29,6 +29,8 @@ obj:agent(բերել, գիրքը)
 obj:agent(to-bring, book)
 obl:agent(բերել, Բեռլինից)
 obl:agent(to-bring, from-Berlin)
+det(գիրքը, Այդ)
+det(book, That)
 ~~~
 
 N.B.: For more details about the analysis of causatives see [this page](http://universaldependencies.org/hy/overview/specific-syntax.html).
