@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 `nsubj:caus` relation links the causative verb to the syntactical subject of the sentence (i.e. the causer) in a causative construction.
-The true agent of the action described by the sentence is annotated with an [iobj:agent]() or an [obj:agent]().
+The true agent of the action described by the sentence is annotated with an [iobj:agent]().
 
 ~~~ sdparse
 Աղջիկս ինձ տիկնիկ գնել տվեց ։ \n My-dautghter made me buy a-doll .
