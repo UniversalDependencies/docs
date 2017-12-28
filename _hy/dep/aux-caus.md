@@ -1,6 +1,6 @@
 ---
 layout: relation
-title: 'aux:cau'
+title: 'aux:caus'
 shortdef: 'causative auxiliary'
 udver: '2'
 ---
