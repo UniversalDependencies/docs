@@ -108,6 +108,6 @@ House number in address is attached as `nummod` to the name of the street:
 Դրոյի 48 հասցեում \n in-Address Dro 48
 nummod(Դրոյի, 48-2)
 nmod(հասցեում, Դրոյի)
-nummod(Dro. 48-6)
+nummod(Dro, 48-7)
 nmod(in-Address, Dro)
 ~~~
