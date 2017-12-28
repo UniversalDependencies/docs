@@ -31,4 +31,4 @@ obl(բերել, Բեռլինից)
 obl(to-bring, from-Berlin)
 ~~~
 
-N.B.: For more details about the analysis of causatives see [this page](http://universaldependencies.org/hy/overview/specific-syntax.html).
+For more details see [specific-syntax](hy/overview/specific-syntax.html).
