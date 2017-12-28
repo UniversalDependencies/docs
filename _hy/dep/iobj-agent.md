@@ -8,9 +8,9 @@ udver: '2'
 In a causative construction, the `iobj:agent` relation attaches the causative (infinitive) verb to his agent, when the latter is the syntactical indirect object of the sentence (this initial agent has been demoted and became an indirect object in the causative construction).
 
 ~~~ sdparse
-Հայրը զվարճացնում էր երեխաներին ։ \n
-iobj:agent(զվարճացնում, երեխաներին)
-iobj:agent()
+Մի ՛ հիշեցրու ինձ այդ անունը ։ \n Don't remind me of-that name !
+iobj:agent(հիշեցրու, ինձ)
+iobj:agent(remind, me)
 ~~~ 
 
 The causative (infinitive) verb governs the syntactical subject of the sentence (i.e. the causer) with a [nsubj:caus]() relation.
