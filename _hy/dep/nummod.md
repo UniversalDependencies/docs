@@ -56,7 +56,7 @@ flat(50-7, thousand)
 advmod:emph(dram, about)
 ~~~
 Note that the two numeral words in the above example are joined using the [flat]() relation.
-Also note that the [intensifier](advmod:emph) _ավելի քան_ is attached to the head of the phrase _(դրամ)_ and not to the number.
+Also note that the [intensifier](advmod:emph) _շուրջ_ is attached to the head of the phrase _(դրամ)_ and not to the number.
 This is in accord both with the UD guidelines.
 
 Similarly there may be other nodes (such as punctuation) that are attached to the head of the phrase
