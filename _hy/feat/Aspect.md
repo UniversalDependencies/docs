@@ -12,6 +12,7 @@ udver: '2'
   <td><a href="#Imp">Imp</a></td>
   <td><a href="#Iter">Iter</a></td>
   <td><a href="#Perf">Perf</a></td>
+  <td><a href="#Prog">Prog</a></td>
   <td><a href="#Prosp">Prosp</a></td>
 
 </tr>
@@ -65,6 +66,16 @@ In some contexts subjunctive and conditional forms may also indicate prospective
 * _<b>վազեի</b> տուն&nbsp;_ “I wish I ran home”
 * _<b>կվազեմ</b> տուն&nbsp;_ “I shall run home”,
 * _<b>կվազեի</b> տուն&nbsp;_ “I shall run home”
+
+### <a name="Prog">`Prog`</a>: progressive aspect
+
+Action is in progress with respect to current or a reference time. The processual participle indicate progressive aspect.
+
+#### Examples
+
+* _<b>վազելիս</b> ընկավ&nbsp;_ “He fell while running”
+* _<b>վազելիս</b> ընկնում է&nbsp;_ “He is falling while running”
+* _<b>վազելիս</b> ընկեր&nbsp;_ “(I wish) he would have fallen while running”
 
 ### <a name="Dur">`Dur`</a>: durative aspect
 
