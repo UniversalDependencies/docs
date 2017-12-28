@@ -5,7 +5,7 @@ shortdef: 'causative auxiliary'
 udver: '2'
 ---
 
-The `aux:caus` relation links the infinitive verb (i.e. the governor) and the finite causative [auxiliary](AUX) _տալ_ “to make” in a periphrastic causative construction.
+The `aux:caus` relation links the infinitive verb (i.e. the governor) and the finite causative [auxiliary](AUX) _տալ_ “to make” in a causative construction.
 The syntactical subject of the sentence (i.e. the causer) receives a [nsubj:caus]() link.
 The initial agent of the action described by the sentence is demoted and will be anotated with an [iobj:agent]() relation.
 
