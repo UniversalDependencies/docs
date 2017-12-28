@@ -11,8 +11,16 @@ In a causative construction, the `iobj:agent` relation attaches the causative (i
 Մի ՛ հիշեցրու ինձ այդ անունը ։ \n Don't remind me of-that name !
 iobj:agent(հիշեցրու, ինձ)
 iobj:agent(remind, me)
-~~~ 
+~~~
 
-The causative (infinitive) verb governs the syntactical subject of the sentence (i.e. the causer) with a [nsubj:caus]() relation.
+~~~ sdparse
+Քեզ հիշեցնել մի ՛ տուր այդ անունը ։ \n
+~~~
+
+~~~ sdparse
+Ինձ հիշեցնել մի ՛ տուր այդ անունը ։ \n
+~~~
+
+The causative (infinitive) verb governs the syntactical subject of the sentence (i.e. the causer) with a [nsubj:caus]() relation. The infinitive verb governs the causative auxilary with an [aux:caus]() relation.
 
 N.B.: For more details about the analysis of causatives see [this page](http://universaldependencies.org/hy/overview/specific-syntax.html#causative).
