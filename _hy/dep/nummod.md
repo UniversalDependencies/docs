@@ -36,6 +36,56 @@ det(some, apples)
 fixed(some, many)
 ~~~
 
+## Additional remarks
+
+~~~ sdparse
+50 միլիոն դրամ \n 50 million dram
+nummod(դրամ, 50-1)
+flat(50-1, միլիոն)
+nummod(dram, 50-5)
+flat(50-5, million)
+~~~
+
+~~~ sdparse
+շուրջ 50 հազար դրամ \n about 50 thousand dram
+nummod(դրամ, 50-2)
+flat(50-2, հազար)
+advmod:emph(դրամ, շուրջ)
+nummod(dram, 50-7)
+flat(50-7, thousand)
+advmod:emph(dram, about)
+~~~
+Note that the two numeral words in the above example are joined using the [flat]() relation.
+Also note that the [intensifier](advmod:emph) _ավելի քան_ is attached to the head of the phrase _(դրամ)_ and not to the number.
+This is in accord both with the UD guidelines.
+
+Similarly there may be other nodes (such as punctuation) that are attached to the head of the phrase
+and they are related to the whole phrase rather than directly to the head noun:
+
+~~~ sdparse
+( 9 օր ) \n ( 9 days )
+punct(օր, (-1)
+nummod(օր, 9-2)
+punct(օր, )-4)
+punct(days, (-6)
+nummod(days, 9-7)
+punct(days, )-9)
+~~~
+
+~~~ sdparse
+քվեարկության վերջին 3 ժամվա ընթացքում \n during last 3 houres of-voting
+nummod(ժամվա, 3-3)
+case(ժամվա, ընթացքում)
+advmod:emph(ժամվա, վերջին)
+nmod:poss(ժամվա, քվեարկության)
+nummod(houres, 3-9)
+case(houres, during)
+advmod:emph(houres, last)
+nmod:poss(houres, of-voting)
+~~~
+
+## Dates
+
 Dates are annotated as follows: if present the day is the head, the months are _nmod:poss_ and the year are _nummod_:
 
 ~~~ sdparse
@@ -49,6 +99,8 @@ nmod:poss(on-4th, of-May)
 nmod:poss(of-May of-year)
 nummod(of-year, 1955-16)
 ~~~
+
+## Numbered objects
 
 House number in address is attached as `nummod` to the name of the street:
 
