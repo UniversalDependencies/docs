@@ -73,9 +73,9 @@ Action is in progress with respect to current or a reference time. The processua
 
 #### Examples
 
-* _<b>վազելիս</b> ընկավ&nbsp;_ “He fell while running”
-* _<b>վազելիս</b> ընկնում է&nbsp;_ “He is falling while running”
-* _<b>վազելիս</b> ընկեր&nbsp;_ “(I wish) he would have fallen while running”
+* _<b>վազելիս</b> ընկա&nbsp;_ “I fell while running”
+* _<b>վազելիս</b> ընկնում եմ&nbsp;_ “I am falling while running”
+* _<b>վազելիս</b> ընկնեի&nbsp;_ “(I wish) I would have fallen while running”
 
 ### <a name="Dur">`Dur`</a>: durative aspect
 
@@ -98,6 +98,6 @@ Note, that in Armenian iterative is considered as a lexical feature of [verbs](V
 #### Examples
 
 * _ցատկել&nbsp;_ “jump”, _<b>ցատկոտել</b>&nbsp;_ “jump several times”,
-* _կտրել&nbsp;_ “cut”, _<b>կտրատել</b>&nbsp;_ “cut several times”,
+* _կտրել&nbsp;_ “cut”, _<b>կտրատել</b>&nbsp;_ “chop, cut in pieces”,
 * _փնտրել&nbsp;_ “search”, _<b>փնտրտել</b>&nbsp;_ “search several times”,
 * _վազել&nbsp;_ “to run”, _<b>վազվզել</b>&nbsp;_ “to run around, to run often”
