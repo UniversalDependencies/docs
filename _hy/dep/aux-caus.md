@@ -31,4 +31,4 @@ obl(բերել, Բեռլինից)
 obl(to-bring, from-Berlin)
 ~~~
 
-For more details see [specific-syntax]().
+For more details see [specific-syntax](http://universaldependencies.org/hy/overview/specific-syntax.html).
