@@ -22,8 +22,8 @@ nummod(drams, fifty)
 
 ~~~ sdparse
 Արան ծախսեց ֏ 50 ։ \n Aram spent ֏ 50 .
-nummod(֏, 50-4)
-nummod(֏, 50-9)
+nummod(֏-3, 50-4)
+nummod(֏-9, 50-10)
 ~~~
 
 Note that indefinite quantifiers such as _քանի, մի քանի_ “many, several” are tagged [DET]() rather than [NUM](). Therefore their relation to the quantified noun is not `nummod` but [det]():
@@ -96,7 +96,7 @@ nmod:poss(4-ին, մայիսի)
 nmod:poss(մայիսի, թվականի)
 nummod(թվականի, 1955-4)
 nmod:poss(on-4th, of-May)
-nmod:poss(of-May of-year)
+nmod:poss(of-May, of-year)
 nummod(of-year, 1955-16)
 ~~~
 
