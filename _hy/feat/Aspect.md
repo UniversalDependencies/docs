@@ -89,7 +89,7 @@ The finite form of auxilary _լինեմ&nbsp;_ (in various tenses and moods or i
 * _գնացած <b>լինեմ</b>&nbsp;_ “(If / when) I will be gone”,
 * _գնալու <b>լինեմ</b>&nbsp;_ “(If / when) I go”
 
-### <a name="Iter">`Iter`</a>: iterative / frequentative aspect
+### <a name="Iter">`Iter`</a>: iterative
 
 Denotes repeated action, with multiplicative or distributive meanings. Armenian has three main iterative markers _-ատ&nbsp;, -ոտ&nbsp;, -տ&nbsp;_ or reduplication.
 
