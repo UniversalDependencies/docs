@@ -14,5 +14,5 @@ udver: '2'
 
 Alphabetical listing
 
-{% assign sorted = site.u-feat | sort: 'title' %}{% for p in sorted %}
+{% assign sorted = site.hy-feat | sort: 'title' %}{% for p in sorted %}
 * [{{ p.title }}](): {{ p.shortdef }}{% endfor %}
