@@ -12,8 +12,8 @@ udver: '2'
 
 ----------
 
-{% assign sorted = site.u-pos | sort: 'title' %}{% for p in sorted %}
-<a id="al-u-pos/{{ p.title }}" class="al-dest"/>
+{% assign sorted = site.hy-pos | sort: 'title' %}{% for p in sorted %}
+<a id="al-hy-pos/{{ p.title }}" class="al-dest"/>
 <h2><code>{{ p.title }}</code>: {{ p.shortdef }}</h2>
 {% if p.content contains "<!--details-->" %}    
 {{ p.content | split:"<!--details-->" | first }}
