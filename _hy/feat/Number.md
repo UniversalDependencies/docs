@@ -17,7 +17,7 @@ udver: '2'
 
 In Armenian, `Number` is a feature of [nouns](NOUN) and other parts of speech that mark agreement with nouns, i.e. personal [pronouns](PRON), and [verbs](VERB). 
 
-Some geographical names appear only in the plural form (e.g. _<b>Ալպեր</b>_ “The Alps”, _<b>Ապալաչներ</b>_ “Appalachian Mountains”) even though they denote one thing (semantic singular). We don’t mark these [proper nouns](PROPN) as `Ptan`. Grammatically they behave like plurals, so `Plur` is obviously the back-off value here.
+Some geographical names appear only in the plural form (e.g. _<b>Ալպեր</b>_ “The Alps”, _<b>Ապալաչներ</b>_ “Appalachian Mountains”) even though they denote one thing (semantic singular). We don’t mark these [proper nouns](PROPN) as `Ptan` (plurale tantum). Grammatically they behave like plurals, so `Plur` is obviously the back-off value here.
 
 ### <a name="Sing">`Sing`</a>: singular number
 
