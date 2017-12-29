@@ -47,14 +47,14 @@ The “lesser degree” comparison (expressed periphrastically) is marked the sa
 
 ~~~ sdparse
 Արամը եղբորից խելացի է ։ \n Aram is smart than-his-brother .
-nmod(խելացի, եղբորից)
-nmod(smart, than-his-brother)
+obl(խելացի, եղբորից)
+obl(smart, than-his-brother)
 ~~~
 
 ~~~ sdparse
 Արամը բոլոր ուսանողներից ամենախելացին է ։ \n Aram is the-smartest-one of-all the-students .
-nmod(ամենախելացին, ուսանողներից)
-nmod(the-smartest-one, the-students)
+obl(ամենախելացին, ուսանողներից)
+obl(the-smartest-one, the-students)
 det(ուսանողներից, բոլոր)
 det(the-students, of-all)
 ~~~
@@ -65,24 +65,24 @@ in the periphrastic examples the entity comapared to modifies still the adjectiv
 
 ~~~ sdparse
 Արամը եղբորից ավելի խելացի է ։ \n Aram is more smart than-his-brother .
-nmod(խելացի, եղբորից)
-nmod(smart, than-his-brother)
+obl(խելացի, եղբորից)
+obl(smart, than-his-brother)
 advmod(խելացի, ավելի)
 advmod(smart, more)
 ~~~
 
 ~~~ sdparse
 Արամը ավելի խելացի է , քան եղբայրը ։ \n Aram is more smart , than his-brother .
-nmod(խելացի, եղբայրը)
-nmod(smart, his-brother)
+obl(խելացի, եղբայրը)
+obl(smart, his-brother)
 case(եղբայրը, քան)
 case(his-brother, than)
 ~~~
 
 ~~~ sdparse
 Արամը բոլոր ուսանողներից ամենից խելացին է ։ \n Aram is the-most smartest-one of-all the-students .
-nmod(խելացին, ուսանողներից)
-nmod(smartest-one, the-students)
+obl(խելացին, ուսանողներից)
+obl(smartest-one, the-students)
 det(ուսանողներից, բոլոր)
 det(the-students, of-all)
 advmod(խելացին, ամենից)
@@ -93,8 +93,8 @@ Equality comparisons (as well compared quantity):
 
 ~~~ sdparse
 Արամը եղբոր պես խելացի է ։ \n Aram is smart as his-brother .
-nmod(խելացի, եղբոր)
-nmod(smart, his-brother)
+obl(խելացի, եղբոր)
+obl(smart, his-brother)
 case(եղբոր, պես)
 case(his-brother, as)
 ~~~
@@ -207,6 +207,15 @@ amod(people, less-than)
 nmod(քիչ, Հարյուրից)
 nmod(less-than, 100)
 ~~~
+
+~~~ sdparse
+Նա ինձնից շատ է կարդում ։ \n He reads more than-me .
+advmod(կարդում, շատ)
+obl(շատ, ինձնից)
+advmod(reads, more)
+obl(more, than-me)
+~~~
+
 
 ## Noun phrases with quantifiers
 
