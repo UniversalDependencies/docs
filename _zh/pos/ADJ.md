@@ -7,17 +7,17 @@ udver: '2'
 
 ### Definition
 
-Adjectives are words that typically modify nouns and specify their properties or attributes. They may also function as predicates. These include the categories known as 區別詞 / _qūbiécí_ and 形容詞 / _xíngróngcí_.
+Adjectives are words that typically modify nouns and specify their properties or attributes. They may also function as predicates. These include the categories known as 區別詞 / _qūbiécí_ and 形容詞 / _xíngróngcí_.
 
 - <b>好</b> 風景 / _<b>hǎo</b> fēngjǐng_ "good scenery"
 - 天氣 很 <b>好</b> / _tiānqì hěn <b>hǎo</b>_ "The weather is good."
 
-The adjective may by accompanied by the particle 的 / _de_ when functioning as a prenominal modifier (for either 區別詞 / _qūbiécí_ or 形容詞 / _xíngróngcí_), and obligatorily when functioning as a predicate if it is a 區別詞 / _qūbiécí_. 
+The adjective may be accompanied by the particle 的 / _de_ when functioning as a prenominal modifier (for either 區別詞 / _qūbiécí_ or 形容詞 / _xíngróngcí_), and obligatorily when functioning as a predicate if it is a 區別詞 / _qūbiécí_. 
 
 - <b>美麗</b> 的 風景 / _<b>měilì</b> de fēngjǐng_ "beautiful scenery"
 - 這 隻 鳥 是 <b>雌</b> 的 / _zhè zhī niǎo shì <b>cí</b> de_ "This bird is female." 
 
-Note that ordinal numerals such as 第一 / _dìyī_ "first" and 第三 / _dìsān_ "third" are to be treated as adjectives and tagged `ADJ` per UD specifications, even though they are traditionally classified as numerals in Chinese.
+Note that ordinal numerals such as 第一 / _dìyī_ "first" and 第三 / _dìsān_ "third" are to be treated as adjectives and tagged `ADJ` _per_ UD specifications, even though they are traditionally classified as numerals in Chinese.
 
 ### Examples
 
