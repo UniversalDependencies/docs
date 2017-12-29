@@ -20,7 +20,8 @@ The low-level tokenization of the Armenian UD treebank follows the tokenization 
   * Exception: Decimal numbers are normalized (the Armenian decimal comma is converted to the English decimal point) and kept as one token, e.g. *<b>2.1</b>*.
 * Most of the time, every punctuation character constitutes a token of its own. Thus *<b>»,—</b>* will become three tokens.
   * Exceptions are conventional multi-character punctuation marks: *<b>...</b>* , *<b>....</b>* , and emojis and smileys: *<b>:)</b>* , *<b>^_^</b>*, etc.
-  Conventional non-armenian multi-characte  punctuation marks and terms are tokenized as single tokens: *<b>?!</b>* , *<b>°С</b>* .
+  Conventional non-armenian multi-characte punctuation marks and terms are tokenized as single tokens: *<b>?!</b>* , *<b>°С</b>* .
+  * Range numerals are considered a subtype of cardinal numbers and kept as one token, as in *<b>չորս-հինգ</b>* “eiter four or five”, *<b>տասից-տասնհինգ</b>* “from ten to fifteen”.
 
 ### Verb forms, analytical grammatical forms, negation
 
