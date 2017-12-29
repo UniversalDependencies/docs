@@ -9,3 +9,10 @@ udver: '2'
 # Features
 
 {% include hy-feat-table.html %}
+
+----------
+
+Alphabetical listing
+
+{% assign sorted = site.u-feat | sort: 'title' %}{% for p in sorted %}
+* [{{ p.title }}](): {{ p.shortdef }}{% endfor %}
