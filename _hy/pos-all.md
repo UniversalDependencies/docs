@@ -8,7 +8,7 @@ udver: '2'
 
 # Armenian POS tags
 
-{% include u-pos-table.html %}
+{% include hy-pos-table.html %}
 
 ----------
 
