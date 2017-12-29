@@ -18,7 +18,7 @@ The true agent of the verb _հիշեցնել_ “remind of” in the sentence is
 ~~~ sdparse
 Ինձ հիշեցնել մի ՛ տուր այդ անունը ։ \n Don't make me remember that name .
 iobj:agent(հիշեցնել, Ինձ)
-iobj:agent(remind, me)
+iobj:agent(remember, me)
 ~~~
 
 The true agent of the verb _հիշեցնել տալ_ “make remember (lit: make remind of)” in the sentence is still _ինձ_ “me”, i.e. “I will remind of that name.”
