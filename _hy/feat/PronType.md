@@ -11,6 +11,7 @@ udver: '2'
   <td><a href="#Art">Art</a></td>
   <td><a href="#Dem">Dem</a></td>
   <td><a href="#Emp">Emp</a></td>
+  <td><a href="#Exc">Exc</a></td>
   <td><a href="#Ind">Ind</a></td>
   <td><a href="#Int">Int</a></td>
   <td><a href="#Neg">Neg</a></td>
@@ -55,6 +56,16 @@ Note that possessive interrogative determiners (_whose_) can be distinguished by
 ### <a name="Rel">`Rel`</a>: relative pronoun or determiner or adverb
 
 All pronouns and determiners that mark the beginning of a [relative clause](acl-relcl) have this feature. Note that this class overlaps with interrogatives. There are no pronouns that are only relative.
+
+### <a name="Exc">`Exc`</a>: exclamative determiner
+
+Exclamative pro-adjectives (determiners) express the speaker’s surprise towards
+the modified noun. In Armenian exclamative determiners are recruited from the set of interrogative or demonstrative determiners.
+
+#### Examples:
+
+* _Ինչպիսի՜ անակնկալ։_ “What a surprise!”
+* _Այդքա՜ն գեղեցիկ։_ “That beautiful!”
 
 ### <a name="Rcp">`Rcp`</a>: reciprocal pronoun
 
