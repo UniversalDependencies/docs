@@ -13,11 +13,11 @@ iobj:agent(հիշեցրու, ինձ)
 iobj:agent(remind, me)
 ~~~
 
-In the sentence _ինձ_ “me” is the true agent of the verb _հիշեցնել_ “remind of”, i.e. “I will remember that name.”
+The true agent of the verb _հիշեցնել_ “remind of” in the sentence is _ինձ_ “me”, i.e. “I will remember that name.”
 
 ~~~ sdparse
 Ինձ հիշեցնել մի ՛ տուր այդ անունը ։ \n Don't make me remember that name .
-iobj:agent(հիշեցնել, ինձ)
+iobj:agent(հիշեցնել, Ինձ)
 iobj:agent(remind, me)
 ~~~
 
