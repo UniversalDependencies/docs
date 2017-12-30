@@ -323,3 +323,5 @@ writing UD documentation, such as how to format examples).
 # Building the release
 
 Documentation of the steps to be taken by the release task force is [on a separate page](release_checklist_task_force.html).
+
+Documentation of adding languages or treebanks by the maintenance crew is [here](release_checklist_add_language.html).
