@@ -10,9 +10,9 @@ to modify the meaning of the noun. If the modifying adjectival word is pronomina
 the relation is [det]() instead of `amod`.
 
 ~~~ sdparse
-Արամը կարմիր միս է ուտում ։ \n Aram eats red meat .
-amod(միս, կարմիր)
-amod(meat, red)
+Արամը կարմիր գինի է նախընտրում ։ \n Aram prefers red wine .
+amod(գինի, կարմիր)
+amod(wine, red)
 ~~~
 
 ~~~ sdparse
