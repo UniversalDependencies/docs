@@ -26,5 +26,5 @@ The low-level tokenization of the Armenian UD treebank follows the tokenization 
 ### Verb forms, analytical grammatical forms, negation
 
 * the forms of necessitative mood, analytical causative, complex tenses, complex comparatives, etc. are splitted
-according to the orthographic principle: { <b>պիտի</b> , <b>վազեն</b> } “”, { <b>գրել</b> , <b>տվեց</b> } “”, { <b>վազում</b> , <b>եմ</b> } “”, { <b>ավելի</b> , <b>լուրջ</b> } “more serious”.
-* <b>մի</b> and <b>ոչ</b> used as negation markers with verbs, adjectives, pronouns and other words are tokenized according to the orthographic rules: { <b>մի</b> , <b>գրիր</b> } “”, { <b>ոչ</b> , <b>պաշտոնական</b> } “unofficial”, { <b>ոչ</b> , <b>մի</b> , <b>կերպ</b> } “in no way”.
+according to the orthographic principle: { <b>պիտի</b> , <b>վազեն</b> } “they must run”, { <b>գրել</b> , <b>տվեց</b> } “made write”, { <b>վազում</b> , <b>եմ</b> } “I run”, { <b>ավելի</b> , <b>լուրջ</b> } “more serious”.
+* <b>մի</b> and <b>ոչ</b> used as negation markers with verbs, adjectives, pronouns and other words are tokenized according to the orthographic rules: { <b>մի</b> , <b>գրիր</b> } “dont write”, { <b>ոչ</b> , <b>պաշտոնական</b> } “unofficial”, { <b>ոչ</b> , <b>մի</b> , <b>կերպ</b> } “in no way”.
