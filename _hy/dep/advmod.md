@@ -26,11 +26,11 @@ advmod(often, less)
 ~~~
 
 ~~~ sdparse
-Ուր/PRON ՞/PUNCT ես/AUX ուզում/VERB գնալ/VERB վաղը/ADV ։/PUNCT \n Where do-you want to-go tomorrow ?
+Ուր/PRON ՞/PUNCT ես/AUX ուզում/VERB գնալ/VERB արձակուրդներին/NOUN ։/PUNCT \n Where do-you want to-go during-the-holidays ?
 advmod(գնալ, Ուր)
-advmod(գնալ, վաղը)
+obl(գնալ, արձակուրդներին)
 advmod(to-go, Where)
-advmod(to-go, tomorrow)
+obl(to-go, during-the-holidays)
 ~~~
 
 ~~~ sdparse
