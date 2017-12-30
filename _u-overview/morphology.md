@@ -36,6 +36,11 @@ If the lemma is not available, an underscore ("`_`") can be used to indicate its
 
 The `LEMMA` field should not be used to encode features or other similar properties of the word (use `FEATS` and `MISC` instead; see [format](../../format.html)).
 
+Some corpora use numerical specifiers to distinguish homonymous lemmas, different word senses etc. (e.g. [en] _can-1_ vs. _can-2_).
+In UD, such specifiers must not appear in the `LEMMA` field because they are not part of the canonical surface form.
+If unique lemma identifiers are available, they can be preserved in the `MISC` column in the optional `LId` attribute
+(`LId=can-1`).
+
 ## Part-of-Speech Tags
 
 The list of <a href="../../u/pos/index.html">universal POS tags</a> is a fixed list containing 17 tags.  
