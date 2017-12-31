@@ -21,14 +21,18 @@ goeswith(կարգ, ու)
 goeswith(կարգ, կանոն)
 ~~~
 
-Note that we also use this relation to link the inflectional bound morphemes to the _main_ part of the word that are separated due to tokenization.
+Note that we also use this relation to link the inflectional bound morphemes to the _main_ part of the word (usually phrases or sentences used as names) that are separated due to tokenization.
 
 ~~~ sdparse
-« Երկիր Նաիրի » - ից
+« Երկիր Նաիրի » - ից \n “ Yerkir Nairi ” - from
 punct(Նաիրի, «)
+punct(Nairi, “)
 punct(Նաիրի, »)
-punct(ից, -)
+punct(Nairi, ”)
+punct(ից, --5)
+punct(from, --12)
 goeswith(Նաիրի, ից)
+goeswith(Nairi, from)
 ~~~
 
 For more details see the [tokenization page](http://universaldependencies.org/hy/overview/tokenization.html).
