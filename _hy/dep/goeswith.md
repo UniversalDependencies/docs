@@ -17,8 +17,8 @@ goeswith(զուր, ի)
 
 ~~~ sdparse
 կարգ ու կանոն հաստատել
-goeswith(կարգ, ու)
-goeswith(կարգ, կանոն)
+goeswith(կանոն, ու)
+goeswith(կանոն, կարգ)
 ~~~
 
 Note that we also use this relation to link the inflectional bound morphemes to the _main_ part of the word (usually phrases or sentences used as names) that are separated due to tokenization.
