@@ -12,9 +12,9 @@ that is modified, and the dependent is the head of the clause that
 modifies the noun.
 
 ~~~ sdparse
-Մարդը, որի մասին խոսում էի ։ \n The-man , who about I was talking .
-acl(Մարդը, խոսում)
-acl(man, talking)
+մարդը , որի մասին պատմում էի \n the-man , that I-was talking about
+acl(մարդը, պատմում)
+acl(the-man, talking)
 ~~~
 
 This relation is also used for optional depictives.
@@ -22,13 +22,13 @@ The adjective is taken to modify the nominal of which it provides a secondary pr
 See [u-dep/xcomp]() for further discussion.
 
 ~~~ sdparse
-Անին մտավ սենյակ տխուր. \n Ani entered to room sad .
-acl(Անին, տխուր)
-acl(Ani, sad)
+Նա մոլոր նայում էր ընկերոջը : \n He was looking at-his-frend errant .
+acl(Նա, մոլոր)
+acl(He, errant)
 ~~~
 
 ~~~ sdparse
-Նա նկարեց իր կնոջը մերկ ։ \n He-painted his wife naked .
-acl(կնոջը, մերկ)
-acl(wife, naked)
+Մերկ նկարեց կնոջը ։ \n He-painted his-wife naked .
+acl(կնոջը, Մերկ)
+acl(his-wife, naked)
 ~~~
