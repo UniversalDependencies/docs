@@ -16,9 +16,9 @@ adjuncts/modifiers, such as a purpose clause. The name `xcomp` is
 borrowed from Lexical-Functional Grammar.
 
 ~~~ sdparse
-Ուզում ՞ ես լողալ ։ \n Do-you-want to-swim ?
+Ուզում ՞ ես լողալ ։ \n Do-you want to-swim ?
 xcomp(Ուզում, լողալ)
-xcomp(Do-you-want, to-swim)
+xcomp(want, to-swim)
 ~~~
 
 ~~~ sdparse
@@ -33,7 +33,7 @@ The subject must be necessarily inherited from a fixed position in the higher cl
 That is, there should be no available interpretation where the subject of the lower clause may be distinct
 from the specified role of the upper clause.
 In cases where the missing subject may or must be distinct from a fixed role in the higher clause,
-[ccomp]() should be used instead, as below.  This includes cases of arbitrary subjects and anaphoric control.
+[ccomp]() should be used instead, as below. This includes cases of arbitrary subjects and anaphoric control.
 
 ~~~ sdparse
 Ղեկավարը հրամայեց փորել ։ \n The-boss ordered to-dig .
