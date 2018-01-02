@@ -9,7 +9,7 @@ udver: '2'
 
 A symbol is a word-like entity that differs from ordinary words by form, function, or both.
 
-Many symbols are or contain special non-alphanumeric, non-standard logographic characters, similarly to punctuation. What makes them different from punctuation is that they can be substituted by normal words. This involves all currency symbols, e.g. _$ 75_ is identical to _七十五圓_ / _qīshíwǔ yuán_ "seventy-five dollars".
+Many symbols are or contain special non-alphanumeric, non-standard logographic characters, similarly to punctuation. What makes them different from punctuation is that they can be substituted by normal words. This involves all currency symbols, e.g. _$ 75_ is identical to 七十五圓 / _qīshíwǔ yuán_ "seventy-five dollars".
 
 Mathematical operators form another group of symbols.
 
