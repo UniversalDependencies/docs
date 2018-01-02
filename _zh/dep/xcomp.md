@@ -162,7 +162,7 @@ Additionally, `xcomp` is used when the predicate or clause following a V-得 ext
 3	得	_	PART	_	_	2	compound:ext	_	DE
 4	想	_	AUX	_	_	5	aux	_	want
 5	吐	_	VERB	_	_	2	xcomp	_	vomit
-6	了	_	PART	_	_	5	discourse:sp	_	SP
+6	了	_	PART	_	_	2	discourse:sp	_	SP
 
 1	"I'm	_	_	_	_	0	_	_	_
 2	so	_	_	_	_	0	_	_	_
@@ -176,7 +176,7 @@ Additionally, `xcomp` is used when the predicate or clause following a V-得 ext
 
 ### Raising constructions
 
-A small class of predicate adjectives, including 容易 _róngyì_ "easy", 難 _nán_ "difficult", 可能 _kěnéng_ "possible", take a clausal complement in which its subject or object is in the subject or topic position of the main clause.
+A small class of predicate adjectives, including 容易 _róngyì_ "easy", 難 _nán_ "difficult", 可能 _kěnéng_ "possible", take a clausal complement in which its subject or object is in the subject or topic position of the main clause.
 
 ~~~ conllu
 # visual-style 3 4 xcomp	color:blue
@@ -206,20 +206,20 @@ A small class of predicate adjectives, including 容易 _róngyì_ "easy", 難
 
 ~~~
 
-The predicate of the clausal complement is linked to the predicate adjective as an `xcomp` dependent, whereas the noun phrase preceding the predicate adjective is treated as its syntactic subject (`nsubj`) regardless of whether it can be semantically understood to be the subject or object of the clausal complement.
+The predicate of the clausal complement is linked to the predicate adjective as an `xcomp` dependent, whereas the noun phrase preceding the predicate adjective is treated as its syntactic subject (<a>`nsubj`</a>) regardless of whether it can be semantically understood to be the subject or object of the clausal complement.
 
-### `ccomp` vs. object-control `xcomp`
+### <a>`ccomp`</a> vs. object-control <a>`xcomp`</a>
 
-Since both `ccomp` and object-control `xcomp` may both contain an argument between the matrix verb and the embedded verb, confusion may arise as to which relation is appropriate. 
+Since both <a>`ccomp`</a> and object-control `xcomp` may both contain an argument between the matrix verb and the embedded verb, confusion may arise as to which relation is appropriate. 
 
-We adopt a test from Chao (1968) which allows one to separate "clausal objects" (`ccomp`) from "pivotal constructions" (object-control `xcomp`). In the case of `ccomp`, it is grammatical to dislocate the matrix verb with its subject to the end, while the same operation on an `xcomp` sentence would result in ungrammaticality:
+We adopt a test from Chao (1968) which allows one to separate "clausal objects" (<a>`ccomp`</a>) from "pivotal constructions" (object-control `xcomp`). In the case of <a>`ccomp`</a>, it is grammatical to dislocate the matrix verb with its subject to the end, while the same operation on an `xcomp` sentence would result in ungrammaticality:
 
-**`ccomp`** |   | **`xcomp`**
------------ | - | -----------
-_他 認為_ 你 有 禮貌 | | _他 請_ 你 幫忙
+**<a>`ccomp`</a>** |   | **`xcomp`**
+------------------ | - | ------------------
+**他 認為** 你 有 禮貌 | | **他 請** 你 幫忙
 3SG consider 2SG have politeness | | 3SG ask 2SG help
 "He thinks you're polite" | | "He asked you to help"
-OKAY: 你 有 禮貌, _他 認為_ | | BAD: * 你 幫忙, _他 請_
+OKAY: 你 有 禮貌, **他 認為** | | BAD: * 你 幫忙, **他 請**
 
 ### References
 
