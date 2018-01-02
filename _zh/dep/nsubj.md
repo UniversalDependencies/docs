@@ -17,7 +17,8 @@ The `nsubj` relation links a subject to its predicate, and this subject must be 
 2	馬上	_	ADV	_	_	3	advmod	_	immediately
 3	開車	_	VERB	_	_	0	root	_	drive
 
-1	"I	_	_	_	_	0	_	_	_
-2	at once	_	_	_	_	0	_	_	_
-3	drive."	_	_	_	_	0	_	_	_
+1	I	_	_	_	_	0	_	_	_
+2	immediately	_	_	_	_	0	_	_	_
+3	drive	_	_	_	_	0	_	_	_
+
 ~~~
