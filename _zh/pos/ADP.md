@@ -18,7 +18,7 @@ Valence markers such as the "disposal" 把 / _bǎ_ and the "long passive" 被 / 
 - 你 <b>把</b> 它 吃 掉 吧 / _nǐ <b>bǎ</b> tā chī diào ba_ "You should eat it up."
 - 我 <b>被</b> 他 打 了 一 頓 / _wǒ <b>bèi</b> tā dǎle yī dùn_ "I was given a beating by him."
 
-Localizers (also known as 方位詞 / _fāngwèicí_), typically indicate spatial information in relation to the noun preceding it. Some localizers have also grammaticalized into clausal markers indicating temporal information. Localizers with the clausal function are still tagged as `ADP` (but are labeled with the dependency relation <a>`mark`</a>).
+Localizers (also known as 方位詞 / _fāngwèicí_), typically indicate spatial information in relation to the noun preceding it. Some localizers have also grammaticalized into clausal markers indicating temporal information. Localizers with the clausal function are still tagged as `ADP` (but are labeled with the dependency relation <a>`mark`</a>).
 
 - 我 把 梨子 放 在 桌子 <b>上</b> / _wǒ bǎ lízi fàng zài zhuōzi <b>shàng</b>_ "I'm putting the pears on the table."
 - 他 妻子 死 了 <b>之後</b> ， 他 也 不 想 活 了 / _tā qīzi sǐ le <b>zhīhòu</b>, tā yě bùxiǎng huó le_ "After his wife died, he no longer wants to live either."
@@ -26,10 +26,10 @@ Localizers (also known as 方位詞 / _fāngwèicí_), typically indicate spa
 ### Examples
 
 - Coverbs / prepositions
-  - 在 / _zài_ "in, on, at", 對 / _duì_ "to, toward", 跟 / _gēn_ "with" (comitative), 用 / _yòng_ "with" (instrumental), 為了 / _wèile_ "for (sake of)"
+  - 在 / _zài_ "in, on, at", 對 / _duì_ "to, toward", 跟 / _gēn_ "with" (comitative), 用 / _yòng_ "with" (instrumental), 為了 / _wèile_ "for (sake of)"
 - Valence markers
-  - 把 / _bǎ_ (disposal), 將 / _jiāng_ (disposal), 被 / _bèi_ (long passive only)
+  - 把 / _bǎ_ (disposal), 將 / _jiāng_ (disposal), 被 / _bèi_ (long passive only)
 - Localizers / postpositions
-  - (之)上 / _(zhī)shàng_ "above", (以)下 / _(yǐ)xià_ "below, beneath", 內 / _nèi_ "inside", 後 / _hòu_ "behind; after", 前 / _qián_ "in front; before", 中 / _zhōng_ "in the middle; during", 時 / _shí_ "during"
+  - (之)上 / _(zhī)shàng_ "above", (以)下 / _(yǐ)xià_ "below, beneath", 內 / _nèi_ "inside", 後 / _hòu_ "behind; after", 前 / _qián_ "in front; before", 中 / _zhōng_ "in the middle; during", 時 / _shí_ "during"
 
 
