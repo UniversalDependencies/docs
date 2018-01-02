@@ -17,6 +17,7 @@ In Chinese, auxiliaries can be divided into modal and modal-like auxiliaries whi
 ### Examples
 
 - Modal and modal-like auxiliaries
+  - can be pre-modified by the negator 不 / _bù_ but cannot take object and be post-modified by aspect marker
   - 能 / _néng_ "be able to", 會 / _huì_ "will", 可以 / _kěyǐ_ "can", 應該 / _yīnggāi_ "should", 肯 / _kěn_ "be willing to", 敢 / _gǎn_ "dare", 有 / _yǒu_ (perfective), 沒有 / _méiyǒu_ (negative perfective)
 - Aspect markers
   - 了 / _le_ (perfective), 著/着 / _zhe_ (durative), 過 / _guo_ (experiential)
