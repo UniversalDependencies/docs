@@ -33,4 +33,4 @@ In Chinese, particles include the genitive/associative/relativizer/nominalizer m
   - 他 只 是 一 個 人 <b>而已</b> ／ _tā zhǐ shì yī gè rén <b>éryǐ</b>_ "He's just one person."
   - 他們 一定 來 <b>的</b> ／ _tāmen yīdìng lái <b>de</b>_ "They will definitely come."
 - Object relativizer 所
-  - 他<b>所</b>戴的帽子 / _tā <b>suǒ</b> dài de màozi_ "the hat that he wears"
+  - 他 <b>所</b> 戴 的 帽子 / _tā <b>suǒ</b> dài de màozi_ "the hat that he wears"
