@@ -22,7 +22,7 @@ Note that ordinal numerals such as 第一 / _dìyī_ "first" and 第三 / _dìs�
 ### Examples
 
 - 形容詞 / _xíngróngcí_
-  - typically can be pre-modified by degree adverbs, like 好 / _hǎo_ "very" and can be pre-modified by the negator 不 / _bù_.
+  - typically can be pre-modified by degree adverbs, like 好 / _hǎo_ "very" and can be pre-modified by the negator 不 / _bù_ but cannot take object.
   - 好 / _hǎo_ "good", 美麗 / _měilì_ "beautiful", 小 / _xiǎo_ "small", 老 / _lǎo_ "old"
 - 區別詞 / _qūbiécí_
   - can precede and modify nouns directly and can be pre-modified by the negator 非 / _fēi_ but cannot be modified by degree adverbs.
