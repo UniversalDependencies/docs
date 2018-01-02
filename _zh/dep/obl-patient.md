@@ -5,7 +5,7 @@ shortdef: 'object in BA construction'
 udver: '2'
 ---
 
-The relation `obl:patient` is used for the Mandarin "BA construction" (also known as the "disposal construction"). Objects marked (and raised to preverbal-position) by 把 _bǎ_ or the more formal version 將 _jiāng_ take the main verb as their head, while the objects themselves serve as the head of 把 _bǎ_ or 將 _jiāng_ (tagged as ADP).
+The relation `obl:patient` is used for the Mandarin "BA construction" (also known as the "disposal construction"). Objects marked (and raised to preverbal-position) by 把 _bǎ_ or the more formal version 將 _jiāng_ take the main verb as their head, while the objects themselves serve as the head of 把 _bǎ_ or 將 _jiāng_ (tagged as [ADP])()).
 
 ~~~ conllu
 # visual-style 3 2 obl:patient	color:blue
