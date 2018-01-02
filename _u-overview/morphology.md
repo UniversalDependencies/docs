@@ -31,8 +31,29 @@ and features. See also <a href="tokenization.html">Tokenization</a> and
 ## Lemmas
 
 The `LEMMA` field should contain the canonical or base form of the word, such as the form typically found in dictionaries.
-
 If the lemma is not available, an underscore ("`_`") can be used to indicate its absence.
+
+At present, treebanks have considerable leeway in interpreting what "canonical or base form" means. 
+In general, a canonical form should collapse inflectional and minor orthographic/spelling variation 
+(such as casing, accents/diacritics, and typos). In the lemma field, some treebanks may choose 
+to aggressively normalize spelling variation that may reflect dialect or authorial style. 
+
+In addition to normalizing spelling in lemmas, treebanks are encouraged to adopt the optional morphological feature 
+`Typo=Yes` for clear accidental misspellings of a word (e.g. *ltake* for *take* or *too* for *to*). 
+Typos of words in closed-class categories can be found in a corpus by inspecting word frequencies in each category.
+Treebank maintainers should take care not to use `Typo=Yes` for words that may reflect actual linguistic variation, 
+e.g., dialect, style, or nonnative grammar.
+
+Abbreviated/shortened forms can be mapped to their full spelling as the lemma
+in conjunction with the feature [`Abbr=Yes`](../feat/Abbr.html), provided that the full spelling 
+is a single word. Abbreviations that would expand to multiple words should be retained in the lemma.
+
+On occasion, a typo or abbreviation will apply to an inflected word (e.g. *hadd* for *had*), and thus the lemma 
+should both normalize the spelling and remove the inflection. Treebanks may wish to use the `MISC` field 
+to store the normalized but not lemmatized form.
+
+(There is currently no UD-wide policy for lemmas of apparently erroneous extra words, missing words, 
+or incorrectly segmented words.)
 
 The `LEMMA` field should not be used to encode features or other similar properties of the word (use `FEATS` and `MISC` instead; see [format](../../format.html)).
 
