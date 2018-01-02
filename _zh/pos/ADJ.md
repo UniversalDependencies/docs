@@ -22,8 +22,11 @@ Note that ordinal numerals such as 第一 / _dìyī_ "first" and 第三 / _dìs�
 ### Examples
 
 - 形容詞 / _xíngróngcí_
+  - typically can be pre-modified by degree adverbs, like 好 / _hǎo_ "very"
   - 好 / _hǎo_ "good", 美麗 / _měilì_ "beautiful", 小 / _xiǎo_ "small", 老 / _lǎo_ "old"
 - 區別詞 / _qūbiécí_
+  - can precede and modify nouns directly but cannot be modified by degree adverbs.
   - 金 / _jīn_ "gold(en)", 男 / _nán_ "male", 慢性 / _mànxìng_ "slow acting"
 - Ordinal numbers
+  - formed by a numerial preceded by 第 / _dì_
   - 第一 / _dìyī_ "first", 第三 / _dìsān_ "third", 第五十三 / _dìwǔshísān_ "fifty-third"
