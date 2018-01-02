@@ -100,13 +100,13 @@ Note that the complement may be simply a nominal predicate, where the structure 
 # visual-style 4	fgColor:white
 1	叫	_	VERB	_	_	0	root	_	call
 2	我	_	PRON	_	_	1	obj	_	1SG
-3	羅	_	PROPN	_	_	4	compound	_	Luo
-4	先生	_	NOUN	_	_	1	xcomp	_	Mr.
+3	羅	_	PROPN	_	_	4	compound	_	Luó
+4	先生	_	NOUN	_	_	1	xcomp	_	Mr
 
 1	"Call	_	_	_	_	0	_	_	_
 2	me	_	_	_	_	0	_	_	_
-3	Mr.	_	_	_	_	0	_	_	_
-4	Luo."	_	_	_	_	0	_	_	_
+3	Mr	_	_	_	_	0	_	_	_
+4	Luó."	_	_	_	_	0	_	_	_
 
 ~~~
 
@@ -208,7 +208,7 @@ A small class of predicate adjectives, including 容易 _róngyì_ "easy", 難 _
 
 The predicate of the clausal complement is linked to the predicate adjective as an `xcomp` dependent, whereas the noun phrase preceding the predicate adjective is treated as its syntactic subject (<a>`nsubj`</a>) regardless of whether it can be semantically understood to be the subject or object of the clausal complement.
 
-### <a>`ccomp`</a> vs. object-control <a>`xcomp`</a>
+### <a>`ccomp`</a> vs. object-control `xcomp`
 
 Since both <a>`ccomp`</a> and object-control `xcomp` may both contain an argument between the matrix verb and the embedded verb, confusion may arise as to which relation is appropriate. 
 
