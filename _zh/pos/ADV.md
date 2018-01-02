@@ -35,7 +35,7 @@ Note that although some adverbs express temporal information, many common time e
 - Manner adverbs
   - 慢慢 / _mànman_ "slowly", 互相 ／ _hùxiāng_ "mutually"
 - Temporal, aspectual, and modal adverbs
-  - 即將 / _jíjiāng_ "about to", 將 / _jiāng_ "will", (正)在 / _(zhèng)zài_ "in progress", 寧可 / _nìngkě_ "would rather", 可能 / _kěnéng_ "possibly" (NB: also ADJ "possible" and NOUN "possibility")
+  - 即將 / _jíjiāng_ "about to", 將 / _jiāng_ "will", (正)在 / _(zhèng)zài_ "in progress", 寧可 / _nìngkě_ "would rather", 可能 / _kěnéng_ "possibly" (NB: also ADJ "possible" and NOUN "possibility")
 - Conjunctive adverbs
   - 所以 / _suǒyǐ_ "therefore", 卻 / _què_ "however", 例如 / _lìrú_ "for example", 然後 / _ránhòu_ "afterwards", 那 / _nà_ "then; in that case", 就 / _jiù_ "then; as a result"
 - Frequency and duration adverbs
