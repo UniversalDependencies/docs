@@ -5,7 +5,7 @@ shortdef: 'agent in passive construction'
 udver: '2'
 ---
 
-The `obl:agent` relation is used to link an agent noun phrase to the main verb, where the agent noun is preceded by the function word 被 _bèi_ (tagged ADP), known as the "long passive" construction.
+The `obl:agent` relation is used to link an agent noun phrase to the main verb, where the agent substantive(_i.e._, noun, pronoun, proper noun, _etc._) is preceded by the function word 被 _bèi_ (tagged [ADP]()), known as the "long passive" construction.
 
 ~~~ conllu
 # visual-style 3 2 obl:agent	color:blue
@@ -27,4 +27,4 @@ The `obl:agent` relation is used to link an agent noun phrase to the main verb, 
 
 ~~~
 
-For the "short passive" construction where the agent is absent, the function word 被 _bèi_ is treated as a passive auxiliary (tagged AUX; see [aux:pass]()).
+For the "short passive" construction where the agent is absent, the function word 被 _bèi_ is treated as a passive auxiliary (tagged [AUX](); see [aux:pass]()).
