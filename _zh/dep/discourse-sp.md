@@ -5,9 +5,9 @@ shortdef: 'sentence particle'
 udver: '2'
 ---
 
-Sentence particles, also commonly known as "sentence-final particles" in Chinese linguistics, occur at the end of clauses and sentences in Mandarin and have a wide range of functions including modifying the modality of a sentence or its proposition, and expressing discourse and pragmatic information. They are linked to the main predicate as `discourse:sp` dependents (we place them under an extension of `discourse` under a loose interpretation of "discourse").
+Sentence particles, also commonly known as "sentence-final particles" in Chinese linguistics, occur at the end of clauses and sentences in Mandarin and have a wide range of functions including modifying the modality of a sentence or its proposition, and expressing discourse and pragmatic information. They are linked to the main predicate as `discourse:sp` dependents (we place them under an extension of [`discourse`]() under a loose interpretation of "discourse").
 
-Common sentence-final particles in Mandarin include: 吧 _ba_, 的 _de_, 啦 _la_, 了 _le_, 嗎 _ma_, 嘛 _ma_, 呢 _ne_, 呀 _ya_, 罷了 _bàle_. We also include 而已 _éryǐ_, which has the same syntactic distribution at the end of clauses and sentences.
+Common sentence-final particles in Mandarin include: 吧 _ba_, 的 _de_, 啦 _la_, 了 _le_, 嗎 _ma_, 嘛 _ma_, 呢 _ne_, 呀 _ya_, 罷了 _bàle_. We also include 而已 _éryǐ_, which has the same syntactic distribution at the end of clauses and sentences.
 
 ~~~ conllu
 # visual-style 5 7 discourse:sp	color:blue
@@ -62,4 +62,4 @@ More than one sentence-final particle may appear at the end of the same clause o
 
 ~~~
 
-To differentiate between the perfective aspect marker 了 and the sentence-final particle 了, one should define as sentence-final a 了 which is placed at the end of a clause or a sentence (though it may be followed by additional sentence-final particles), unless a clear context makes it possible to determine that it is the aspect marker. Before an object, adverbial of duration or frequency, and other non-sentence-final elements, 了 will always be annotated as an aspect marker with `aux`.
+To differentiate between the perfective aspect marker 了 / _le_ and the sentence-final particle 了 / _le_, one should define as sentence-final a 了 / _le_ which is placed at the end of a clause or a sentence (though it may be followed by additional sentence-final particles), unless a clear context makes it possible to determine that it is the aspect marker. Before an object, adverbial of duration or frequency, and other non-sentence-final elements, 了 / _le_ will always be annotated as an aspect marker with [`aux`]().
