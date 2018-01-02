@@ -20,6 +20,7 @@ The `nsubj` relation links a subject to its predicate, and this subject must be 
 1	"I	_	_	_	_	0	_	_	_
 2	will	_	_	_	_	0	_	_	_
 3	drive	_	_	_	_	0	_	_	_
-4 immediately	_	_	_	_	0	_	_	_
+4 at once	_	_	_	_	0	_	_	_
 5 ."	_	_	_	_	0	_	_	_
+
 ~~~
