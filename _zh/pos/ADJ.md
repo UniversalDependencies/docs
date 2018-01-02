@@ -17,7 +17,7 @@ The adjective may be accompanied by the particle 的 / _de_ when functioning as 
 - <b>美麗</b> 的 風景 / _<b>měilì</b> de fēngjǐng_ "beautiful scenery"
 - 這 隻 鳥 是 <b>雌</b> 的 / _zhè zhī niǎo shì <b>cí</b> de_ "This bird is female." 
 
-Note that ordinal numerals such as 第一 / _dìyī_ "first" and 第三 / _dìsān_ "third" are to be treated as adjectives and tagged `ADJ` _per_ UD specifications, even though they are traditionally classified as numerals in Chinese.
+Note that ordinal numerals such as 第一 / _dìyī_ "first" and 第三 / _dìsān_ "third" are to be treated as adjectives and tagged <a>`ADJ`<a> _per_ UD specifications, even though they are traditionally classified as numerals in Chinese.
 
 ### Examples
 
