@@ -28,7 +28,7 @@ There is a closed subclass of pronominal adverbs that refer to circumstances in 
 - 你 <b>為什麼</b> 不 來 / _nǐ <b>wèishénme</b> bù lái_ "<b>Why</b> aren't you coming?"
 - 我 <b>這樣</b> 做 的 / _wǒ shì <b>zhèyàng</b> zuò de_ "I do it <b>like this</b>."
 
-Note that although some adverbs express temporal information, many common time expressions (e.g., 今天 / _jīntiān_ 'today', 去年 / _qùnián_ "last year", 晚上 / _wǎnshàng_ "night") are actually nouns and should be tagged <a>`NOUN`</a>.  Those temporal nouns can pre-modify another noun by adding a 的 / de suffix but adverbs cannot.
+Note that although some adverbs express temporal information, many common time expressions (e.g., 今天 / _jīntiān_ 'today', 去年 / _qùnián_ "last year", 晚上 / _wǎnshàng_ "night") are actually nouns and should be tagged <a>`NOUN`</a>.  Those temporal nouns can pre-modify another noun by adding a 的 / _de_ suffix but adverbs cannot.
 
 ### Examples
 
