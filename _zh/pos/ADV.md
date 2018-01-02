@@ -16,7 +16,7 @@ Adverbs (副詞 / _fùcí_) typically modify verbs, adjectives, and other adverb
 Some adverbs also modify clauses with conjunctive and discursive functions.
 
 - 他 <b>卻</b> 沒有 跟 我 説 / _tā <b>què</b> méiyǒu gēn wǒ shuō_ "He didn't tell me, <b>however</b>."
-- 今天 <b>當然</b> 沒 人 呀 ／ _jīntiān <b>dāngrán</b> méi rén ya_ "<b>Of course</b> nobody's here today."
+- 今天 <b>當然</b> 沒 人 啊 ／ _jīntiān <b>dāngrán</b> méi rén a_ "<b>Of course</b> nobody's here today."
 
 A small number of adverbs may also modify numerals and determiners, or nouns and pronouns.
 
