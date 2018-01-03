@@ -25,7 +25,7 @@ The `cop` relation is used exclusively for the word 是 / _shì_ "be" primarily 
 
 ~~~
 
-If the complement of the copular verb is a clause, however, then the copular verb should be the head of the sentence with the clausal complement as a `ccomp` dependent.
+If the complement of the copular verb is a clause, however, then the copular verb should be the head of the sentence with the clausal complement as a [`ccomp`]() dependent.
 
 ~~~ conllu
 1	原因	_	NOUN	_	_	2	nsubj	_	reason
