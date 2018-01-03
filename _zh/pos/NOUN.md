@@ -24,3 +24,9 @@ As a special case, classifiers (量詞 / _liàngcí_) are also tagged `NOUN` per
 - Temporal nouns
   - typically act as adjunct of verb phrases but can pre-modify another noun by adding a 的 / _de_ suffix.
   - 今天 / _jīntiān_ ‘today’, 去年 / _qùnián_ “last year”, 晚上 / _wǎnshàng_ “night”
+- Position words
+  - typically act as object of directional verb, 在 / _zài_ "at" but are not [PROPR]() and [PRON]().
+  - 旁邊 / _pángbiān_ "side", 一旁 / _yīpáng_ "aside"
+- Localizers
+  - typically indicate spatial information and is used as a sentence constituent, like object.
+  - 西 / _xī_ "west"
