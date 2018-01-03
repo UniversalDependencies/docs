@@ -8,7 +8,7 @@ redirect_from: "zh/dep/aux.html"
 udver: '2'
 ---
 
-An auxiliary is a functional modifier of a verb that is tagged AUX. In Mandarin this relation is used for preverbal auxiliaries as well as post-verbal aspect markers. The passive auxiliary 被 _bèi_, however, should use [aux:pass]().
+An auxiliary is a functional modifier of a verb that is tagged [AUX](). In Mandarin this relation is used for preverbal auxiliaries as well as post-verbal aspect markers. The passive auxiliary 被 _bèi_, however, should use [aux:pass]().
 
 Preverbal auxiliaries may precede the main verb immediately (1) or before other intervening material (2).
 
