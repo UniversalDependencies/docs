@@ -35,9 +35,9 @@ For relative clauses, nominalized clauses, and adjectives formed with 的 _de_, 
 # visual-style 1	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-1	要	_	AUX	_	_	7	advcl	_	want
-2	玩	_	VERB	_	_	1	xcomp	_	play
-3	的話	_	SCONJ	_	_	1	mark	_	COND
+1	要	_	AUX	_	_	2	aux	_	want
+2	玩	_	VERB	_	_	7	advcl	_	play
+3	的話	_	SCONJ	_	_	2	mark	_	COND
 4	就	_	ADV	_	_	7	advmod	_	then
 5	將	_	ADP	_	_	6	case	_	BA
 6	事情	_	NOUN	_	_	7	obl	_	affair
