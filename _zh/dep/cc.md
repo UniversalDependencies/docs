@@ -5,7 +5,7 @@ shortdef: 'coordinating conjunction'
 udver: '2'
 ---
 
-The coordinating conjunction links a conjunction word to its immediately following conjunct as its head. (See CCONJ for a  list of Mandarin Chinese conjunction words.)
+The coordinating conjunction links a conjunction word to its immediately following conjunct as its head. (See [CCONJ]() for a  list of Mandarin Chinese conjunction words.)
 
 ~~~ conllu
 # visual-style 4 2 cc	color:blue
