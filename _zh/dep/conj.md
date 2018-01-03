@@ -87,7 +87,7 @@ Clauses can also be coordinated (3).
 
 ~~~
 
-We also use this function for the VERB + NEG + VERB (or AUX + NEG + AUX) interrogative construction (4-5). 
+We also use this function for the [VERB]() + [NEG]() + [VERB]() (or [AUX]() + [NEG]() + [AUX]()) interrogative construction (4-5). 
 
 ~~~ conllu
 # visual-style 5 7 conj	color:blue
