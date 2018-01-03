@@ -133,7 +133,7 @@ We also use this function for the VERB + NEG + VERB (or AUX + NEG + AUX) interro
 
 ~~~
 
-In more formal registers, the negative adverb 否 _fǒu_ may replace the NEG + VERB part of the VERB + NEG + VERB construction  for certain (auxiliary) verbs (e.g., 是否 and 能否 instead of 是不是 and 能不能). In this case, the negative adverb may also be treated as a `conj` dependent (but note that 是否 may also be an adverb when modifying a main verb).
+In more formal registers, the negative adverb 否 _fǒu_ may replace the NEG + VERB part of the VERB + NEG + VERB construction  for certain (auxiliary) verbs (e.g., 是否 _shìfǒu_ and 能否 _néngfǒu_ instead of 是不是 _shìbùshì_ and 能不能 _néngbùnéng_). In this case, the negative adverb may also be treated as a `conj` dependent (but note that 是否 _shìfǒu_ may also be an adverb when modifying a main verb).
 
 ~~~ conllu
 # visual-style 2 3 conj	color:blue
@@ -158,7 +158,7 @@ In more formal registers, the negative adverb 否 _fǒu_ may replace the NEG + 
 
 ~~~
 
-Note that the "et cetera" particle 等(等) / _děng(děng)_ is treated as the final conjunct in a series of conjuncts.
+Note that the "_et cetera_" particle 等(等) / _děng(děng)_ is treated as the final conjunct in a series of conjuncts.
 
 ~~~ conllu
 # visual-style 5 8 conj	color:blue
@@ -169,9 +169,9 @@ Note that the "et cetera" particle 等(等) / _děng(děng)_ is treated as the f
 # visual-style 7	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-1	這裡	_	PRON	_	_	3	nsubj	_	here
+1	這裡	_	PRON	_	_	3	obl	_	here
 2	能	_	AUX	_	_	3	aux	_	can
-3	買	_	ADV	_	_	0	root	_	buy
+3	買	_	VERB	_	_	0	root	_	buy
 4	到	_	VERB	_	_	3	compound:vv	_	arrive
 5	臭豆腐	_	NOUN	_	_	3	obj	_	stinky-tofu
 6	、	_	PUNCT	_	_	7	punct	_	_
@@ -190,7 +190,7 @@ Note that the "et cetera" particle 等(等) / _děng(děng)_ is treated as the f
 
 ~~~
 
-Another special case where `conj` is used is in the paired adjacent prepositional phrases indicating a span of distance, time, etc., introduced by prepositions such as 從... 到... / _cóng dào_ "from... to...", 由... 到... / _yóu dào_ "from... to..." -- the second prepositional phrase is treated as a conjunct of the first:
+Another special case where `conj` is used is in the paired adjacent prepositional phrases indicating a span of distance, time, _etc_., introduced by prepositions such as 從... 到... / _cóng... dào..._ "from... to...", 由... 到... / _yóu... dào..._ "from... to..." -- the second prepositional phrase is treated as a conjunct of the first:
 
 ~~~ conllu
 # visual-style 2 4 conj	color:blue
