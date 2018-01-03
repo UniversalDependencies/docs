@@ -26,7 +26,7 @@ This relation will be removed in the final delivery of the language data. The wo
 
 ~~~
 
-Note that the particular class of idiomatic expressions called 成語 _chéngyǔ_ as well as quotations from Classical Chinese texts, may not always be recognized by automatic segmentation. We use the `goeswith` relation for such cases as well. Because these expressions are fossilized from early stages of the Chinese language, their syntax and composition often do not have a modern analysis, and therefore should not be tokenized apart.
+Note that the particular class of idiomatic expressions called 成語 _chéngyǔ_ as well as quotations from Classical Chinese texts, may not always be recognized by automatic segmentation. We use the `goeswith` relation for such cases as well. Because these expressions are fossilized from earlier stages of the Chinese language, their syntax and composition often do not have a modern analysis, and therefore should not be tokenized apart.
 
 ~~~ conllu
 # visual-style 1 2 goeswith	color:blue
