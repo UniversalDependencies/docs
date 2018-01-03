@@ -28,5 +28,5 @@ As a special case, classifiers (量詞 / _liàngcí_) are also tagged `NOUN` per
   - typically act as object of directional verb, 在 / _zài_ "at" but are not [PROPR]() and [PRON]().
   - 旁邊 / _pángbiān_ "side", 一旁 / _yīpáng_ "aside"
 - Localizers
-  - typically indicate spatial information and is used as a sentence constituent, like object.
+  - typically indicate spatial information and is used as a sentence constituent, like [obj]() and [obl]().
   - 西 / _xī_ "west"
