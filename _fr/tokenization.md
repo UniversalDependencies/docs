@@ -6,9 +6,22 @@ udver: '2'
 
 # Tokenization
 
-The French tokenization follows the universal guidelines: contractions are undone (e.g., _au_ becomes two tokens _à le_). Otherwise the tokenization is based on white spaces and punctuations (except for multiword expressions with hyphens which are not split, e.g., _Etats-Unis_ "United States", _sous-marin_ "submarine" stay one token).
+The French tokenization follows the universal guidelines: contractions are undone (e.g., *au* becomes two tokens *à* + *le*).
+Otherwise the tokenization is based on white spaces and punctuations (except for multiword expressions with hyphens which are not split, e.g., *Etats-Unis* "United States", *sous-marin* "submarine" stay one token).
+
+| | UD-French-GSD | UD_French-FTB | UD_French-PUD | UD-French-ParTUT | UD-French-Sequoia |
+|----|:----:|:----:|:----:|:----:|:----:|:----:|
+| Proper names (`Saint-Denis`) | **1** | **3** | **?** | **1** (`Wulf-Mathies`) | **1** |
+| Nom communs (`procès-verbal`) | **1** | **3** | **?** | **3** (punct, compound) / **1** (`sud-est`) | **1** |
+| Nom communs (`vice-président`) | **1** | | **?** | **3** (punct, compound) | **1** |
+| Pronom (`celui-ci`, `elle-même`) | **1** | | **?** | **1**  | **1** |
+| Adverbe (`peut-être`; `ci-dessous`) | **1** | | **?** | **1** | **1** |
+| Determinant (`trente-six`) | **1** | | **?** | **None** | **1** |
+| `-t-il` | **2** (`-t` + `-il`) | | **?** | **None** | **2** |
+| `-il` (dans `fait-il`) | **1** | | **?** | **1** | **1** |
 
 
+## Tokenization in FrenchSpoken
 FrenchSpoken does a strictly formal tokenizing where the hyphens are considered as tokens.
 This means that, in a sentence like  _A-t-elle bien dormi ?_,  there are five tokens in _a-t-elle_: _a_, _-_, _t_, _-_ and _elle_.
 The first hyphen is the head (i.e. it receives the link `nsubj`) and the other tokens are linked with a `goeswith`:
