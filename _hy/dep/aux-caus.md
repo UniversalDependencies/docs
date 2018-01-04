@@ -17,8 +17,8 @@ nsubj:caus(գրել, Արամը)
 nsubj:caus(to-write, Aram.Nom)
 iobj:agent(գրել, Արային)
 iobj:agent(to-write, Ara.Dat)
-obj:agent(գրել, նամակ)
-obj:agent(to-write, a-letter.Nom)
+obj(գրել, նամակ)
+obj(to-write, a-letter.Nom)
 ~~~ 
 
 ~~~ sdparse
