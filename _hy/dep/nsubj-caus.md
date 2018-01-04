@@ -16,8 +16,8 @@ nsubj:caus(գնել, Աղջիկս)
 nsubj:caus(buy, My-dautghter)
 iobj:agent(գնել, ինձ)
 iobj:agent(buy, me)
-obj:agent(գնել, տիկնիկ)
-obj:agent(buy, a-doll)
+obj(գնել, տիկնիկ)
+obj(buy, a-doll)
 ~~~
 
 For more details see [specific-syntax](http://universaldependencies.org/hy/overview/specific-syntax.html).
