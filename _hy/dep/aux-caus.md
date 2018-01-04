@@ -25,8 +25,8 @@ obj:agent(to-write, a-letter.Nom)
 Այդ գիրքը բերել տվեցի Բեռլինից ։ \n That book.Nom to-bring I-made from-Berlin .
 aux:caus(բերել, տվեցի)
 aux:caus(to-bring, I-made)
-obj:agent(բերել, գիրքը)
-obj:agent(to-bring, book.Nom)
+obj(բերել, գիրքը)
+obj(to-bring, book.Nom)
 obl(բերել, Բեռլինից)
 obl(to-bring, from-Berlin)
 ~~~
