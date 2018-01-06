@@ -42,17 +42,17 @@ case(the-enemy, against)
 ~~~
 
 ~~~ sdparse
-սեղանի վրայի գիրքը \n the-book on.Dat of-the-table 
+սեղանի վրայի գիրքը \n the-book on.Dat the-table 
 nmod:obl(գիրքը, սեղանի)
 case(սեղանի, վրայի)
-nmod:obl(the-book, of-the-table)
-case(of-the-table, on.Dat)
+nmod:obl(the-book, the-table)
+case(the-table, on.Dat)
 ~~~
 
 ~~~ sdparse
-այգու մոտի առուն \n the-brook near.Dat of-the-garden
+այգու մոտի առուն \n the-brook near.Dat the-garden
 nmod:obl(առուն, այգու)
 case(այգու, մոտի)
-nmod:obl(the-brook, of-the-garden)
-case(of-the-garden, near.Dat)
+nmod:obl(the-brook, the-garden)
+case(the-garden, near.Dat)
 ~~~
