@@ -7,7 +7,7 @@ udver: '2'
 
 `flat` is one of the relations for compounding in UD (together with [compound]() and [fixed]()).
 
-In Armenian it is used for proper nouns constituted of multiple nominal elements. For phrasal or clausal names the usual relations are used.
+In Armenian it is used for proper nouns constituted of multiple nominal elements. For phrasal or clausal names the usual relations are used (e.g. _Երևանի պետական համալսարան_).
 
 The inflected name is always the head and the other name(s) are attached to it, the inflected name is usually the last name.
 
