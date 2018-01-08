@@ -72,16 +72,16 @@ In the case of apposition, the title follows the modified name and is separated 
 
 ~~~ sdparse
 Լևոն Տեր - Պետրոսյանը ՝ առաջին նախագահը \n Levon Ter - Petrosyan , the-first president
-flat(Պետրոսյանը, Լևոն)
-flat(Պետրոսյանը, Տեր)
+flat(Լևոն, Պետրոսյանը)
+flat(Լևոն, Տեր)
 punct(նախագահը, ՝)
 amod(նախագահը, առաջին)
-appos(Պետրոսյանը, նախագահը)
-flat(Petrosyan, Levon)
-flat(Petrosyan, Ter)
+appos(Լևոն, նախագահը)
+flat(Levon, Petrosyan)
+flat(Levon, Ter)
 punct(president, ,)
 amod(president, the-first)
-appos(Petrosyan, president)
+appos(Levon, president)
 ~~~
 
 * The `nmod` relation is further specified by the [case]() relation.
