@@ -19,7 +19,7 @@ articles. Its value distinguishes whether we are talking about
 something known and concrete, or something general or unknown.
 It can be marked on definite and indefinite [articles](DET), or directly on [nouns](NOUN), [pronouns](PRON) etc.
 
-In Armenian there are definite and indefinite articles. The definite article is part of the word, in postposition (_շունը, շունն_ “dog-the”). The indefinite articles can be: the form _մի_ “one” or the zero marker.
+In Armenian there are definite and indefinite articles. The definite article is part of the word, in postposition (_շունը, շունն_ “dog-the”). The indefinite articles can be: the form _մի_ “a/an, one” or the zero marker.
 
 See also the related features of [PossPerson]() and [PossNumber]().
 
@@ -27,7 +27,7 @@ See also the related features of [PossPerson]() and [PossNumber]().
 
 #### Examples
 
-* _մի_ “a/an”
+* _մի_ “a/an, one”
 * _(մի) <b>շուն</b>_ “(a) <b>dog</b>”
 
 ### <a name="Def">`Def`</a>: definite
