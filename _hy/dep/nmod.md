@@ -58,13 +58,13 @@ nmod(King, Arshak)
 ~~~ sdparse
 առաջին նախագահ Լևոն Տեր - Պետրոսյանը \n the-first president Levon Ter - Petrosyan 
 amod(նախագահ, առաջին)
-nmod(Պետրոսյանը, նախագահ)
-flat(Պետրոսյանը, Լևոն)
-flat(Պետրոսյանը, Տեր)
+nmod(Լևոն, նախագահ)
+flat(Լևոն, Պետրոսյանը)
+flat(Լևոն, Տեր)
 amod(president, the-first)
-nmod(Petrosyan, president)
-flat(Petrosyan, Levon)
-flat(Petrosyan, Ter)
+nmod(Levon, president)
+flat(Levon, Petrosyan)
+flat(Levon, Ter)
 ~~~
 
 Note that the same thing can be also expressed using an [apposition](appos).
@@ -74,12 +74,12 @@ In the case of apposition, the title follows the modified name and is separated 
 Լևոն Տեր - Պետրոսյանը ՝ առաջին նախագահը \n Levon Ter - Petrosyan , the-first president
 flat(Պետրոսյանը, Լևոն)
 flat(Պետրոսյանը, Տեր)
-punct(Պետրոսյանը, ՝)
+punct(նախագահը, ՝)
 amod(նախագահը, առաջին)
 appos(Պետրոսյանը, նախագահը)
 flat(Petrosyan, Levon)
 flat(Petrosyan, Ter)
-punct(Petrosyan, ,)
+punct(president, ,)
 amod(president, the-first)
 appos(Petrosyan, president)
 ~~~
