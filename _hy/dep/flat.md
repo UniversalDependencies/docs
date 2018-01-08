@@ -5,20 +5,16 @@ shortdef: 'flat'
 udver: '2'
 ---
 
-`flat` is one of the relations for compounding in UD (together with [compound]() and [fixed]()).
-
-In Armenian it is used for proper nouns constituted of multiple nominal elements. For phrasal or clausal names the usual relations are used (e.g. _Երևանի պետական համալսարան_).
-
-The inflected name is always the head and the other name(s) are attached to it, the inflected name is usually the last name.
+The `flat` relation is one of the three relations for MWE in UD (together with [compound]() and [fixed]()). In Armenian it is used for proper nouns constituted of multiple nominal elements. For phrasal or clausal names the usual relations are used (e.g. _Երևանի պետական համալսարան_). In general, names are annotated in a `flat`, head-initial structure, in which all words in the name modify the head using the `flat` label.
 
 ~~~ sdparse
 Նախագահ Լևոն Տեր - Պետրոսյանը երեկ այցելել է Երևանի պետական համալսարան ։ \n President Levon Ter - Petrosyan yesterday visited Yerevan State University .
-flat(Պետրոսյանը, Լևոն)
-flat(Petrosyan, Levon)
-flat(Պետրոսյանը, Տեր)
-flat(Petrosyan, Ter)
-nmod(Պետրոսյանը, Նախագահ)
-nmod(Petrosyan, President)
+flat(Լևոն, Պետրոսյանը)
+flat(Levon, Petrosyan)
+flat(Լևոն, Տեր)
+flat(Levon, Ter)
+nmod(Լևոն, Նախագահ)
+nmod(Levon, President)
 amod(համալսարան, պետական)
 amod(University, State)
 nmod(համալսարան, Երևանի)
@@ -27,22 +23,22 @@ nmod(University, Yerevan)
 
 ~~~ sdparse
 Խոսրով Գ Կոտակը \n Khosrov III the Small
-flat(Կոտակը, Խոսրով)
-flat(Small, Khosrov)
-flat(Կոտակը, Գ)
-flat(Small, III)
+flat(Խոսրով, Կոտակը)
+flat(Khosrov, Small)
+flat(Խոսրով, Գ)
+flat(Khosrov, III)
 ~~~
 
 ~~~ sdparse
 Նյու Յորքը \n New York
-flat(Յորքը, Նյու)
-flat(York, New)
+flat(Նյու, Յորքը)
+flat(New, York)
 ~~~
 
 ~~~ sdparse
 Վանա լիճը \n Lake Van
-flat(լիճը, Վանա)
-flat(Lake, Van)
+flat(Վանա, լիճը)
+flat(Van, Lake)
 ~~~
 
 The `flat` relation is also used for numerals and numerical expressions that lack phrasal structure. The most left numeral is the head, the other numerals are attached as its modifiers.
