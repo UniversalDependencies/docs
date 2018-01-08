@@ -45,7 +45,7 @@ flat(լիճը, Վանա)
 flat(Lake, Van)
 ~~~
 
-The `flat` relation can also be used for other numerals and other numerical expressions that lack phrasal structure. The most left numeral is the head, the other numerals are attached as its modifiers.
+The `flat` relation is also used for numerals and numerical expressions that lack phrasal structure. The most left numeral is the head, the other numerals are attached as its modifiers.
 
 ~~~ sdparse
 Սա առավելագույնը հինգ հազար դրամ կարժենա ։ \n It will cost at-most 5 thousand drams .
