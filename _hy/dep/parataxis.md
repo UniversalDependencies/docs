@@ -83,4 +83,8 @@ Single word or phrase interjections are analyzed as [discourse](), but when a wh
 Արամը , ինչպես արդեն գիտեք , վերջերս է վերադարձել ։ \n Aram , as you already know , has come-back recently . 
 parataxis(վերադարձել, գիտեք)
 parataxis(come-back, know)
+punct(գիտեք, ,-2)
+punct(գիտեք, ,-6)
+punct(know, ,-13)
+punct(know, ,-18)
 ~~~
