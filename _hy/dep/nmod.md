@@ -45,7 +45,7 @@ nmod(water, cup.Nom)
 nummod(cup.Nom, two)
 ~~~
 
-Note, that so-called “bare noun compounds” (e.g. _մարդ արարած&nbsp;_ “human being”) marked using the [compound]() relation.
+Note, that so-called “bare noun compounds” (e.g. _մարդ աստծո&nbsp;_ “human of God”) marked using the [compound]() relation.
 
 * for an explicative attribute of a noun: a typical example is a title attached to a name of a person. The relation is similar to the [flat]() relation that links the first and the last name, but it is not labeled `flat` because the title is not part of the name:
 
