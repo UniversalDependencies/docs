@@ -9,7 +9,7 @@ FrenchSpoken uses the `conj:appos` relation instead of `appos` for appositions w
 Contrary to the conjuncts of a [conj:coord]() relation, the conjuncts of a `conj:appos` relation have the same referent.
 
 ~~~ sdparse
-Sa cousine , une grande psychiatre , habite à Charleville-Mézière. \n His cousin, a great psychiatrist, live in Charleville-Mézière.
+Sa cousine , une grande psychiatre , habite à Charleville-Mézière. \n His cousin, a great psychiatrist, lives in Charleville-Mézière.
 conj:appos(cousine,psychiatre)
 nsubj(habite,cousine)
 ~~~
