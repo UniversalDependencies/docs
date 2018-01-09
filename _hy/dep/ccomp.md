@@ -10,9 +10,11 @@ which is a core argument. That is, it functions like an object of the verb, or
 adjective.
 
 ~~~ sdparse
-Նա ասաց , որ դու աշխատում ես այստեղ ։ \n He said , that you work here .
+Նա ասաց , որ դու աշխատում ես այստեղ ։ \n He said , that you are working here .
 ccomp(ասաց, աշխատում)
-ccomp(said, work)
+ccomp(said, working)
+mark(աշխատում, որ)
+mark(working, that)
 ~~~
 
 Such clausal complements may be finite or nonfinite. However, if the
