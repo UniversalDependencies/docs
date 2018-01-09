@@ -10,6 +10,6 @@ repair. The disfluency is the dependent of the repair.
 
 ~~~ sdparse
 Գնա աջո- , ձախով ։ \n Go to-the-righ- to-the-left .
-reparandum(ձախ, աջ)
+reparandum(ձախով, աջո-)
 reparandum(to-the-left, to-the-righ-)
 ~~~
