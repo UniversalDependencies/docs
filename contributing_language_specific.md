@@ -83,3 +83,9 @@ You should provide links to label-specific pages from your language index page.
 This can be just a simple list of links, not a sophisticated table
 (if people need a more organized view of the labels,
 they should read the universal documentation).
+
+<strong>ALSO IMPORTANT:</strong>
+To keep the repository portable across operating systems, avoid creating files whose base name (without the `.md` extension)
+is <strong><tt>AUX</tt></strong> or <strong><tt>aux</tt></strong>, e.g., <tt>aux.md</tt> is not permitted!
+Note that languages with full documentation use an underscore character in the name (<tt>aux_.md</tt>)
+and a redirect-from directive in the MarkDown preamble inside the file.
