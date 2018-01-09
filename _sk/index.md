@@ -159,7 +159,7 @@ udver: '2'
     Example: _zbil psa palicou_ “he beat up the dog with a stick.”
   * All prepositional phrases that are not prepositional objects (i.e., their role and form is not defined lexically by the predicate)
     are adjuncts.
-* Extra attention has to be paid to clitic forms of reflexive pronouns _se_ (accusative) and _si_ (dative). They can function as:
+* Extra attention has to be paid to clitic forms of reflexive pronouns _sa_ (accusative) and _si_ (dative). They can function as:
   * Core objects ([obj]() or [iobj]()): _zbadal sa/seba v zrkadle_ “he sighted himself in the mirror,” _ublížila si/sebe_ “she hurt herself.”
   * Reciprocal core objects (`obj` or `iobj`): _bozkávali sa_ “they were kissing each other,”
     _vykali si_ “they used the polite form of address for each other.”
