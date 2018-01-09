@@ -24,3 +24,13 @@ obl(ասվում, Նամակում)
 xcomp(պատրաստ, զարգացնել)
 mark(պատրաստ, որ)
 ~~~
+
+~~~ sdparse
+Կատարվեց , ինչ սպասվում էր : \n Happened , what was expected .
+csubj(Կատարվեց, սպասվում)
+aux(սպասվում, էր)
+mark(սպասվում, ինչ)
+csubj(Happened, expected)
+aux(expected, was)
+mark(expected, what)
+~~~
