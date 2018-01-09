@@ -34,25 +34,25 @@ nmod:pass(sales, Arms)
 In conjunction with the [case]() relation, `nmod:obl` provides a uniform analysis for the oblique alternation:
 
 ~~~ sdparse
-թշնամու դեմ պատերազմը \n the-war against the-enemy
+թշնամու դեմ պատերազմը \n the-war.Dat against the-enemy
 nmod:obl(պատերազմը, թշնամու)
 case(թշնամու, դեմ)
-nmod:obl(the-war, the-enemy)
+nmod:obl(the-war.Dat, the-enemy)
 case(the-enemy, against)
 ~~~
 
 ~~~ sdparse
-սեղանի վրայի գիրքը \n the-book on.Dat the-table 
+սեղանի վրայի գիրքը \n the-book on.Dat the-table.Dat 
 nmod:obl(գիրքը, սեղանի)
 case(սեղանի, վրայի)
-nmod:obl(the-book, the-table)
-case(the-table, on.Dat)
+nmod:obl(the-book, the-table.Dat)
+case(the-table.Dat, on.Dat)
 ~~~
 
 ~~~ sdparse
-այգու մոտի առուն \n the-brook near.Dat the-garden
+այգու մոտի առուն \n the-brook near.Dat the-garden.Dat
 nmod:obl(առուն, այգու)
 case(այգու, մոտի)
-nmod:obl(the-brook, the-garden)
-case(the-garden, near.Dat)
+nmod:obl(the-brook, the-garden.Dat)
+case(the-garden.Dat, near.Dat)
 ~~~
