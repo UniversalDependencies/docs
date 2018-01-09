@@ -20,13 +20,13 @@ Armenian has prepositions and postpositions, but not circumpositions.
 
 #### Examples
 
-* _<b>ի</b>_ “for the sake of”, _<b>առ</b>_ “up to”, _<b>դեպի</b>_ “to”, _<b>առանց</b>_ “without”, _<b>ըստ</b>_ “according to”, _<b>հօգուտ</b>_ “in favour of”, _<b>հանձին(ս)</b>_ “in person of”, _<b>հանուն</b>_ “for the sake of”
+* _<b>ի</b>_ “for the sake of”, _<b>առ</b>_ “up to”, _<b>ըստ</b>_ “according to”, _<b>դեպի</b>_ “to”, _<b>մինչև</b>_ “till”, _<b>բացի</b>_ “besides”, _<b>առանց</b>_ “without”,  _<b>հօգուտ</b>_ “in favour of”, _<b>հանձին</b>_ “in person of”, _<b>հանուն</b>_ “for the sake of”
 
 ### <a name="Post">`Post`</a>: postposition
 
 #### Examples
 
-* _<b>անց</b>_ “after”, _<b>մեջ</b>_ “in”, _<b>հետ</b>_ “with”, _<b>պես</b>_ “as”, _<b>մոտ</b>_ “at”, _<b>վրա</b>_ “on”, _<b>համար</b>_ “for”, _<b>զատ</b>_ “except”, _<b>հետո</b>_ “after”
+* _<b>համար</b>_ “for”, _<b>հանդերձ</b>_ “together with”, _<b>պես</b>_ “as”, _<b>հետ</b>_ “with”, _<b>դեմ</b>_ “against”, _<b>մոտ</b>_ “at”, _<b>վրա</b>_ “on”, _<b>մեջ</b>_ “in”, _<b>զատ</b>_ “except”
 
 ### <a name="Comadp">`Comadp`</a>: dependent part of compound adposition
 
