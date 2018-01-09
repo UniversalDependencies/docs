@@ -58,7 +58,7 @@ udver: '2'
   In some cases the masculine gender is further subclassified by the [Animacy]() values `Anim` and `Inan`.
   Feminine and neuter nominals do not distinguish animacy grammatically.
   * The following parts of speech inflect for `Gender` and `Animacy` because they must agree with nouns: [ADJ](), [DET](), [NUM](),
-    [VERB](), [AUX](). For verbs (including auxiliaries), only participles and converbs inflect for gender. Finite verbs don't.
+    [VERB](), [AUX](). For verbs (including auxiliaries), only participles inflect for gender. Finite verbs don't.
 * The two main values of the [Number]() feature are `Sing` and `Plur`. The following parts of speech inflect for number:
   [NOUN](), [PROPN](), [PRON](), [ADJ](), [DET](), [VERB](), [AUX]() (finite, participles and converbs), marginally [NUM]().
   * Selected nouns are plurale tantum (`Ptan`) or singulare tantum (`Coll`). These two values are lexical and cannot be used with
