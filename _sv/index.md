@@ -22,7 +22,7 @@ udver: '2'
 * Auxiliaries ([AUX]()) are all verbal in Swedish and can be grouped into four types:
   * The copula *vara* (be).
   * The temporal auxiliary *ha* (have), which combines with the supine form of the main verb to form perfect tenses.
-  * The passive auxiliar *bli* (get), which combines with the past participle of the main verb to form passives.
+  * The passive auxiliary *bli* (get), which combines with the past participle of the main verb to form passives.
   * Modal and aspectual verbs that combine with the bare infinitive of the main verb, such as *måste* (must) and *kunde* (could).
 * The tag [DET]() is used for articles and pronominal words used with a determiner function, including possessives. The tag [PRON]() is reserved for pronouns occurring as the head of a noun phrase.
 * Participles (both present and past) are mainly used adjectivally in Swedish and are generally tagged [ADJ](). The only exception is that past participles used to form periphrastic passives are tagged [VERB]().
