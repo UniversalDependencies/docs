@@ -14,7 +14,7 @@ predicate of the subject clause.
 For the clausal subject of a passive verb or verb group the subtype [csubj:pass]() is used.
 
 ~~~ sdparse
-Ինձ զարմացրեց , որ նա ոչինչ չասաց : \n Me surprised what , that he did-not-say anything .
+Ինձ զարմացրեց , որ նա ոչինչ չասաց : \n Me surprised , that he did-not-say anything .
 csubj(զարմացրեց, չասաց)
 mark(չասաց, որ)
 csubj(surprised, did-not-say)
