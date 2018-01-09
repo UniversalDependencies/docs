@@ -22,16 +22,6 @@ mark(did-not-say, that)
 ~~~
 
 ~~~ sdparse
-Կատարվեց , ինչ սպասվում էր : \n Happened , what was expected .
-csubj(Կատարվեց, սպասվում)
-aux(սպասվում, էր)
-mark(սպասվում, ինչ)
-csubj(Happened, expected)
-aux(expected, was)
-mark(expected, what)
-~~~
-
-~~~ sdparse
 Զինվորին հիվանդանոցից տուն փոխադրելը երկար տևեց : \n To-take the soldier to house from hospital took long .
 csubj(տևեց, փոխադրելը)
 csubj(took, To-take)
