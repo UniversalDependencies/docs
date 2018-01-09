@@ -151,6 +151,8 @@ collections:
     output: true
   zh:
     output: true
+  myv:
+    output: true
   ka:
     output: true
   yo:
