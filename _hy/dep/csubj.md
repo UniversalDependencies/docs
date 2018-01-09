@@ -37,7 +37,7 @@ csubj(տևեց, փոխադրելը)
 csubj(took, To-take)
 ~~~
 
-We also analyze the nominal predicates with clausal subjects formed by subordinating conjunction որ similarly.
+We also analyze the nominal predicates with clausal subjects formed by subordinating conjunction _որ_ similarly.
 
 ~~~ sdparse
 Լավ է , որ դու կարդացել ես գիրքը : \n Good is , that you have read the-book .
