@@ -5,7 +5,7 @@ shortdef: 'possessive determiner'
 udver: '2'
 ---
 
-Whenever there is a possessive determiner, `det:poss` should be used instead of `det`. All possessive determiners have the feature `Possessive` defined as `Yes`.
+Whenever there is a possessive determiner, `det:poss` should be used instead of [det](). All possessive determiners have the feature [Possessive](Poss) defined as `Yes`.
 
 ~~~ sdparse
 Գուցե բացատրես ՞ սրա իմաստը ։ \n Could you explain its meaning ?
