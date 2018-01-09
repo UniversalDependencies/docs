@@ -23,7 +23,7 @@ multiple orphaned dependents, the dependent that is highest in the obliqueness h
 the head (root) position and the other orphans are attached to it.
 
 An example sentence-like segment that lacks the main verb:
-_Եվ Ռոբերտը՝ չորրորդ հորիզոնականը (Եվ Ռոբերտը [գրավեց] չորրորդ հորիզոնականը)։_
+_Եվ Ռոբերտը՝ չորրորդ հորիզոնականը (Իսկ Ռոբերտը [գրավեց] չորրորդ հորիզոնականը)։_
 “And Robert - the-fourth place. (And Robert [won] the-fourth place.)”
 
 ~~~ sdparse
