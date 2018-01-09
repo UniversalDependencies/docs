@@ -24,16 +24,12 @@ udver: '2'
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
 
-For more information, see the list of [Erzya POS tags](../pos/index.html).
-
 ### Features
 
 *
 
 ---
 **Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
-
-For more information, see the list of [Erzya features](../feat/index.html).
 
 ---
 
@@ -99,8 +95,5 @@ For more information, see the list of [Erzya features](../feat/index.html).
   * [aux:negexist]() for 
   * [advmod:qnt]() for 
 
-For more information, see the list of [Erzya relations](../dep/index.html).
-
 ## Treebanks
 
-There is [1](../treebanks/myv/index.html) Erzya UD treebank.
