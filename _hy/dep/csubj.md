@@ -11,7 +11,7 @@ not always be a verb: when the verb is a copular verb, the root of the
 clause is the complement of the copular verb. The dependent is the main lexical verb or other 
 predicate of the subject clause.
 
-For the clausal subject of a passive verb or verb group the subtype `csubj:pass` is used.
+For the clausal subject of a passive verb or verb group the subtype [csubj:pass]() is used.
 
 ~~~ sdparse
 Ինձ զարմացրեց այն , որ նա ոչինչ չասաց : \n Me surprised what , that he did-not-say anything .
