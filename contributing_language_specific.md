@@ -56,7 +56,7 @@ folder. Look at other languages (e.g., Czech), follow the same folder structure,
 replace the contents by your language.
 
 If you already have a (full or partial) mirror with UD v1 documentation, make sure to check all changes that need to be done for v2
-(`nmod` --> `obl`, `CONJ` --> `CCONJ`, renaming files, fixing links etc.), then add this line to the MarkDown preamble of each file:
+(`nmod` → `obl`, `CONJ` → `CCONJ`, renaming files, fixing links etc.), then add this line to the MarkDown preamble of each file:
 
 <pre>
 udver: '2'
