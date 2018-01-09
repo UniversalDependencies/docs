@@ -15,8 +15,10 @@ of the copular verb, which can be an adjective, noun or adverb.
 
 ~~~ sdparse
 « Անուշ » օպերան գրել է Արմեն Տիգրանյանը ։ \n Anoush opera wrote Armen Tigranyan .
-nsubj(գրել, Տիգրանյանը)
-nsubj(wrote, Tigranyan)
+nsubj(գրել, Արմեն)
+nsubj(wrote, Armen)
+flat(Արմեն, Տիգրանյանը)
+flat(Armen, Tigranyan)
 ~~~
 
 ~~~ sdparse
