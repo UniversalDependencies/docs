@@ -199,6 +199,6 @@ udver: '2'
 
 There is one Slovak UD treebank:
 
-  * [Slovak](../../treebanks/sk-index.html)
+  * [Slovak](../treebanks/sk/index.html)
 
 [Czech-Slovak comparison](../../treebanks/cs-sk-comparison.html)
