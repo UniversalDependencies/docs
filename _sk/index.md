@@ -109,7 +109,7 @@ udver: '2'
   possessive interrogative, indefinite or negative determiners (e.g. _čí_ “whose”),
   and possessive adjectives (e.g. _otcov_ “father's”).
 * The [Reflex]() feature marks reflexive pronouns _(sa, si)_ and determiners _(svoj)_.
-  In Polish it is always used together with `PronType=Prs`.
+  In Slovak it is always used together with `PronType=Prs`.
 * [Person]() is a lexical feature of personal pronouns ([PRON]()) and has three values, `1`, `2` and `3`.
   With personal possessive determiners ([DET]()), the feature actually encodes the person of the possessor.
   Person is not marked on other types of pronouns and on nouns, although they can be almost always interpreted as the 3rd person.
