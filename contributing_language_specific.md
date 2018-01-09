@@ -14,7 +14,7 @@ All treebanks in that language should follow the same guidelines.
 Any treebank-specific documentation (such as the information whether morphological features have been annotated manually or predicted
 by a statistical model) should go to the README file in the treebank repository.
 (Note that portions of the README files are automatically copied to the UD website, as described in the
-[release checklist](release-checklist.html#the-readme-file).)
+[release checklist](release_checklist.html#the-readme-file).)
 
 All languages should have a one-page summary of language-specific features and annotation solutions to certain phenomena that cannot
 be specified universally. There is a template for the page (see below).
