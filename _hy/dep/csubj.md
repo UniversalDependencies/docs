@@ -16,15 +16,19 @@ For the clausal subject of a passive verb or verb group the subtype [csubj:pass]
 ~~~ sdparse
 Ինձ զարմացրեց այն , որ նա ոչինչ չասաց : \n Me surprised what , that he did-not-say anything .
 csubj(զարմացրեց, չասաց)
+mark(չասաց, որ)
 csubj(surprised, did-not-say)
+mark(did-not-say, that)
 ~~~
 
 ~~~ sdparse
 Կատարվեց , ինչ սպասվում էր : \n Happened , what was expected .
 csubj(Կատարվեց, սպասվում)
 aux(սպասվում, էր)
+mark(սպասվում, ինչ)
 csubj(Happened, expected)
 aux(expected, was)
+mark(expected, what)
 ~~~
 
 ~~~ sdparse
@@ -40,7 +44,9 @@ We also analyze the nominal predicates with clausal subjects formed by subordina
 csubj(Լավ, կարդացել)
 cop(Լավ, է)
 aux(կարդացել, ես)
+mark(կարդացել, որ)
 csubj(Good, read)
 cop(Good, is)
 aux(read, have)
+mark(read, that)
 ~~~
