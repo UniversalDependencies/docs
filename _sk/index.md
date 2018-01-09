@@ -126,7 +126,7 @@ udver: '2'
   * [AdpType]()
   * [Hyph]()
   * [Typo]()
-* The following universal features are not used in Polish: [Definite](), [Evident](), [Polite]().
+* The following universal features are not used in Slovak: [Definite](), [Evident](), [Polite]().
 
 ## Syntax
 
@@ -192,7 +192,7 @@ udver: '2'
   * [flat:foreign]() for non-first words in quoted foreign phrases
 * The following main types are not used alone and must be subtyped:
   [expl]()
-* The following relation types are not used in Polish at all:
+* The following relation types are not used in Slovak at all:
   [clf](), [dislocated]()
 
 ## Treebanks
