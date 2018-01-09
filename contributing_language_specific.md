@@ -22,10 +22,10 @@ Some languages also have a full mirror of the universal documentation of all tag
 Such a mirror is no longer expected and templates for these pages are not generated.
 Nevertheless, it is possible to have them; contributors wishing to write the full mirror must create the pages manually (see remarks below).
 
-## The language page
+## The Language Page
 
 Also called the language hub or index page, this is the minimal documentation that we want to be available for every language.
-It should describe important aspect of every level of annotation, such as (these are just a few example questions, see the template for more):
+It should describe important aspects of every level of annotation, such as (these are just a few example questions, see the template for more):
 
 * tokenization / word segmentation (are there multi-word tokens? are there exceptional cases where “words with spaces” are permitted?)
 * morphology (which features occur with which parts of speech? what values can the features have in this language?)
@@ -49,7 +49,7 @@ If there is any peculiarity of the language pertaining to a particular label (ta
 it should preferably be mentioned on the universal page of that label, and possibly also in the construction-oriented universal documentation.
 However, if the language uses a language-specific feature or relation subtype, it must be documented.)
 
-## Old-style documentation
+## Old-Style Documentation
 
 If you want a full mirror of the universal documentation of tags, features and relations, you have to create the .md files in your language
 folder. Look at other languages (e.g., Czech), follow the same folder structure, copy the files from the other language, edit them and
