@@ -34,6 +34,8 @@ It should describe important aspects of every level of annotation, such as (thes
 The docs repository has a folder called [_template](https://github.com/UniversalDependencies/docs/tree/pages-source/_template).
 It contains a template of the language index page (`template-index.md`) and two example index pages describing Czech
 (`template-index-cs-example.md`) and Swedish (`template-index-sv-example.md`), respectively.
+The resulting pages can be viewed [here (Czech)](http://universaldependencies.org/cs/index.html)
+and [here (Swedish)](http://universaldependencies.org/sv/index.html).
 When a new language is added to UD, its folder in the docs repository is created (the name of the folder is an underscore followed
 by the language code, e.g., `_cs` for Czech) and the template index is copied to that folder.
 The language contributors should fill out the description of the language, delete the instruction comments,
