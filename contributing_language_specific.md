@@ -81,7 +81,3 @@ You should provide links to label-specific pages from your language index page.
 This can be just a simple list of links, not a sophisticated table
 (if people need a more organized view of the labels,
 they should read the universal documentation).
-
-The language-specific documentation is organized by sections.
-<a href="http://universaldependencies.org/#language-sv">Swedish</a> may serve as an example conforming to these guidelines.
-
