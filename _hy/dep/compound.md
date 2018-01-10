@@ -22,7 +22,7 @@ compound(գեներալ, լեյտենանտ)
 
 ~~~ sdparse
 թղթակից - անդամ
-compound(գեներալ, լեյտենանտ)
+compound(թղթակից, անդամ)
 ~~~
 
 - for serial verbs (with the subtype `compound:svc`):
