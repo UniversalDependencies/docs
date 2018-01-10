@@ -42,6 +42,11 @@ compound:svc(ասել, խոսել)
 compound:svc(բռնել, բերել)
 ~~~
 
+~~~ sdparse
+Եղած - չեղած , մի հաշիվ է ։
+compound:svc(Եղած, չեղած)
+~~~
+
 - for light verbs (with the subtype `compound:lvc`):
 
 ~~~ sdparse
