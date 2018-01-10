@@ -65,7 +65,7 @@ udver: '2'
   * [obl:agent]() for 
   * [flat:name]() for 
   * [compound:appos]() for 
-  * [aux:q]() for 
+  * [aux:q]() for question adv in indirect questions of the Russian type
   * [nmod:gsubj]() for 
   * [nmod:gobj]() for 
   * [obl:exist]() for 
