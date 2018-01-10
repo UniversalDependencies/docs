@@ -29,6 +29,14 @@ ccomp(ordered, to-dig)
 ~~~
 
 ~~~ sdparse
+Ղեկավարը հրամայեց մեզ փորել ։ \n The-boss ordered us to-dig .
+xcomp(հրամայեց, փորել)
+xcomp(ordered, to-dig)
+obj(հրամայեց, մեզ)
+obj(ordered, us)
+~~~
+
+~~~ sdparse
 Մենք սկսեցինք փորել ։ \n We started to-dig .
 xcomp(սկսեցինք, փորել)
 xcomp(started, to-dig)
