@@ -66,3 +66,17 @@ flat(fifty-five, thousand)
 flat(երեք, քառորդ)
 flat(three quarters)
 ~~~
+
+~~~ sdparse
+չորս - հինգ \n four - five
+flat(երեք, քառորդ)
+flat(three quarters)
+punct(չորս, --2)
+punct(four, --6)
+~~~
+
+~~~ sdparse
+տասից տասնհինգ \n ten fifteen
+flat(տասից, տասնհինգ)
+flat(ten, fifteen)
+~~~
