@@ -64,13 +64,13 @@ flat(fifty-five, thousand)
 ~~~ sdparse
 երեք քառորդ \n three quarters
 flat(երեք, քառորդ)
-flat(three quarters)
+flat(three, quarters)
 ~~~
 
 ~~~ sdparse
 չորս - հինգ \n four - five
-flat(երեք, քառորդ)
-flat(three quarters)
+flat(չորս, հինգ)
+flat(four, five)
 punct(չորս, --2)
 punct(four, --6)
 ~~~
