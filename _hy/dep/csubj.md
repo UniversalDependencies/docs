@@ -27,6 +27,12 @@ csubj(տևեց, փոխադրելը)
 csubj(took, To-take)
 ~~~
 
+~~~ sdparse
+Հարկավոր է խոսել ։ \n It-is necessary to-speak .  
+csubj(Հարկավոր, խոսել)
+csubj(necessary, to-speaktook)
+~~~
+
 We also analyze the nominal predicates with clausal subjects formed by subordinating conjunction _որ_ similarly.
 
 ~~~ sdparse
