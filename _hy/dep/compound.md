@@ -45,6 +45,9 @@ compound:svc(բռնել, բերել)
 ~~~ sdparse
 Եղած - չեղած , մի հաշիվ է ։
 compound:svc(Եղած, չեղած)
+csubj(հաշիվ, Եղած)
+cop(հաշիվ, է)
+det(հաշիվ, մի)
 ~~~
 
 - for light verbs (with the subtype `compound:lvc`):
