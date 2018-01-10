@@ -64,9 +64,9 @@ Used to express that the same quantity is distributed to each member in a set of
 
 ### <a name="Range">`Range`</a>: range of values
 
-This could be considered a subtype of cardinal numbers (provided tokenization leaves it as one token.)
+This could be considered a subtype of cardinal numbers (provided tokenization split leaves it as one token.)
 
 #### Examples
 
 * _չորս-հինգ_ "four-five" ("eiter four or five")
-* _տասից-տասնհինգ_ "ten-fifteen" ("from ten to fifteen")
+* _տասից տասնհինգ_ "ten fifteen" ("from ten to fifteen")
