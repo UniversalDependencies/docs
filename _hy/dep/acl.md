@@ -14,7 +14,7 @@ modifies the noun.
 Note that in Armenian relative clauses get assigned a specific relation [acl:relcl](), a subtype of `acl`.
 
 ~~~ sdparse
-քաղաքը, որ կոչվում է Պոլիս \n the-city , that is called Polis
+քաղաքը , որ կոչվում է Պոլիս \n the-city , that is called Polis
 acl(քաղաքը, կոչվում)
 acl(the-city, called)
 ~~~
