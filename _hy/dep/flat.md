@@ -60,3 +60,9 @@ flat(hundred, fifty-five)
 flat(հիսունհինգ, հազար-5)
 flat(fifty-five, thousand)
 ~~~
+
+~~~ sdparse
+երեք քառորդ \n three quarters
+flat(երեք, քառորդ)
+flat(three quarters)
+~~~
