@@ -11,10 +11,12 @@ that modify a predicate. The head of the `acl` relation is the noun
 that is modified, and the dependent is the head of the clause that
 modifies the noun.
 
+Note that in Armenian relative clauses get assigned a specific relation [acl:relcl](), a subtype of `acl`.
+
 ~~~ sdparse
-մարդը , որի մասին պատմում էի \n the-man , that I-was talking about
-acl(մարդը, պատմում)
-acl(the-man, talking)
+քաղաքը, որ կոչվում է Պոլիս \n the-city , that is called Polis
+acl(քաղաքը, կոչվում)
+acl(the-city, called)
 ~~~
 
 This relation is also used for optional depictives.
@@ -22,13 +24,13 @@ The adjective is taken to modify the nominal of which it provides a secondary pr
 See [u-dep/xcomp]() for further discussion.
 
 ~~~ sdparse
-Նա մոլոր նայում էր ընկերոջը : \n He was looking at-his-frend errant .
+Նա մոլոր մտավ սենյակ : \n He entered the room errant .
 acl(Նա, մոլոր)
 acl(He, errant)
 ~~~
 
 ~~~ sdparse
-Մերկ նկարեց կնոջը ։ \n He-painted his-wife naked .
-acl(կնոջը, Մերկ)
-acl(his-wife, naked)
+Գունատ նկարեց կնոջը ։ \n He-painted his-wife pale .
+acl(կնոջը, Գունատ)
+acl(his-wife, pale)
 ~~~
