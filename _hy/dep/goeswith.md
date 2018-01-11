@@ -33,7 +33,7 @@ goeswith(Նաիրի, ից)
 ~~~
 
 ~~~ sdparse
-1937 թ . - ին/|Case=Dat \n in year 1937
+1937/NUM|NumType=Card թ/NOUN|Abbr=Yes|Number=Sing . - ին/|Case=Dat|Definite=Def \n in year 1937
 nummod(թ, 1937)
 punct(թ, .)
 punct(ին, -)
