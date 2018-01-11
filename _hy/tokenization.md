@@ -26,7 +26,9 @@ The low-level tokenization of the Armenian UD treebank follows the tokenization 
 * Special symbols before and after numerical expressions, as in *$250* , *4,81%* , *+32°С* , are tokenised separately (so, the tokens are { *<b>$</b>* , *<b>250</b>* } , { <b>4,81</b> , <b>%</b> } , { <b>+</b> , <b>32</b> , <b>°С</b> }).
 * Email addresses, URLs, and tweet-style names are treated as single tokens: {muster@muster.am}, {https://github.com}, {@anna_il}
 
-The Armenian UD treebanks contain multiword tokens (see above, the “infixed” punctuation).
+### Multi-word tokens
+
+See above, the “infixed” punctuation.
 
 ### Pronouns and adverbs
 
