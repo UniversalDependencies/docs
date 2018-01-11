@@ -41,4 +41,4 @@ according to the orthographic principle: { *<b>պիտի</b>* , *<b>վազեն</b
 # Sentence splitting
 
 Each sentence contains only one root.
-Splitting is usually performed after an end-of-sentence full stop or after a dot or colon when these punctuation marks separate unrelated subparts of a sentence. Items in a list may sometimes be rendered as separate sentences.
+Splitting is usually performed after an end-of-sentence full stop or after a dot, ellipsis or colon when these punctuation marks separate unrelated subparts of a sentence. Items in a list may sometimes be rendered as separate sentences.
