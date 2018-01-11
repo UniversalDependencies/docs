@@ -11,7 +11,7 @@ We use the following language-specific subtypes for `nmod`:
 
 * `nmod`: noun modifier functionally corresponds to an attribute,
 * [nmod:poss](): noun modifier functionally corresponds to a possessives,
-* [nmod:obl](): noun modifier functionally corresponds to an oblique argument or adjunct.
+* [nmod:obl](): noun modifier functionally corresponds to a core or an oblique argument or adjunct.
 
 In Armenian `nmod` is used:
 
@@ -45,7 +45,7 @@ nmod(water, cup.Nom)
 nummod(cup.Nom, two)
 ~~~
 
-Note, that so-called “bare noun compounds” (e.g. _մարդ աստծո&nbsp;_ “human of God”) marked using the [compound]() relation.
+Note, that so-called “bare noun compounds” (e.g. _թղթակից անդամ&nbsp;_ “corresponding member”) marked using the [compound]() relation.
 
 * for an explicative attribute of a noun: a typical example is a title attached to a name of a person. The relation is similar to the [flat]() relation that links the first and the last name, but it is not labeled `flat` because the title is not part of the name:
 
