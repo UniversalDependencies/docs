@@ -61,22 +61,30 @@ flat(հիսունհինգ, հազար-5)
 flat(fifty-five, thousand)
 ~~~
 
+But:
+
 ~~~ sdparse
-երեք քառորդ \n three quarters
+երեք քառորդ բաժին հաց \n three quarters pieces of-bread
+nmod(հաց, բաժին)
+nmod(of-bread, pieces)
 flat(երեք, քառորդ)
 flat(three, quarters)
 ~~~
 
 ~~~ sdparse
-չորս - հինգ \n four - five
-flat(չորս, հինգ)
-flat(four, five)
-punct(չորս, --2)
-punct(four, --6)
+չորս - հինգ ժամ \n four - five hours
+conj(չորս, հինգ)
+conj(four, five)
+punct(հինգ, --2)
+punct(five, --7)
+nummod(ժամ, չորս)
+nummod(hours, four)
 ~~~
 
 ~~~ sdparse
-տասից տասնհինգ \n ten fifteen
-flat(տասից, տասնհինգ)
-flat(ten, fifteen)
+տասից տասնհինգ ժամ \n ten fifteen hours
+nmod:obl(տասնհինգ, տասից)
+nmod:obl(fifteen, ten)
+nummod(ժամ, տասնհինգ)
+nummod(hours, fifteen)
 ~~~
