@@ -21,8 +21,13 @@ compound(գեներալ, լեյտենանտ)
 ~~~
 
 ~~~ sdparse
-թղթակից - անդամ
+թղթակից անդամ
 compound(թղթակից, անդամ)
+~~~
+
+~~~ sdparse
+երկար - բարակ
+compound(երկար, բարակ)
 ~~~
 
 - for serial verbs (with the subtype `compound:svc`):
