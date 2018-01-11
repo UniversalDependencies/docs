@@ -32,4 +32,12 @@ punct(ից, -)
 goeswith(Նաիրի, ից)
 ~~~
 
+~~~ sdparse
+1937 թ . - ին/|Case=Dat \n in year 1937
+nummod(թ, 1937)
+punct(թ, .)
+punct(ին, -)
+goeswith(թ, ին)
+~~~
+
 For more details see the [tokenization page](http://universaldependencies.org/hy/overview/tokenization.html).
