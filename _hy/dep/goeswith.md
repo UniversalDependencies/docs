@@ -24,7 +24,7 @@ goeswith(կարգ, կանոն)
 Note that we also use this relation to link the inflectional bound morphemes that are separated due to tokenization to the _main_ part of the word (usually the last word of phrases or sentences used as names).
 
 ~~~ sdparse
-« Երկիր/[NOUN|Case=Nom] Նաիրի/[NOUN] » - ից/[|Case=Abl] \n “ Yerkir Nairi ” - from
+« Երկիր/NOUN[Case=Nom] Նաիրի/NOUN » - ից/Case=Abl \n “ Yerkir Nairi ” - from
 punct(Նաիրի, «)
 punct(Նաիրի, »)
 nmod(Նաիրի, Երկիր)
@@ -33,7 +33,7 @@ goeswith(Նաիրի, ից)
 ~~~
 
 ~~~ sdparse
-1937/[NUM|NumType=Card թ/NOUN|Abbr=Yes|Number=Sing] . - ին/[|Case=Dat|Definite=Def] \n in year 1937
+1937/NUM[NumType=Card] թ/NOUN[Abbr=Yes|Number=Sing] . - ին/Case=Dat \n in year 1937
 nummod(թ, 1937)
 punct(թ, .)
 punct(ին, -)
