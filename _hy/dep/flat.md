@@ -22,22 +22,22 @@ nmod(University, Yerevan)
 ~~~
 
 ~~~ sdparse
-Խոսրով Գ Կոտակը \n Khosrov III the Small
-flat(Խոսրով, Կոտակը)
-flat(Khosrov, Small)
+Խոսրով Գ Կոտակ \n Khosrov III the-Small
+flat(Խոսրով, Կոտակ)
+flat(Khosrov, the-Small)
 flat(Խոսրով, Գ)
 flat(Khosrov, III)
 ~~~
 
 ~~~ sdparse
-Նյու Յորքը \n New York
-flat(Նյու, Յորքը)
+Նյու Յորք \n New York
+flat(Նյու, Յորք)
 flat(New, York)
 ~~~
 
 ~~~ sdparse
-Վանա լիճը \n Lake Van
-flat(Վանա, լիճը)
+Վանա լիճ \n Lake Van
+flat(Վանա, լիճ)
 flat(Van, Lake)
 ~~~
 
@@ -61,14 +61,16 @@ flat(հիսունհինգ, հազար-5)
 flat(fifty-five, thousand)
 ~~~
 
-But:
+Note, that for fraction or range [numbers](NumType) the usual relations are used:
 
 ~~~ sdparse
 երեք քառորդ բաժին հաց \n three quarters pieces of-bread
 nmod(հաց, բաժին)
 nmod(of-bread, pieces)
-flat(երեք, քառորդ)
-flat(three, quarters)
+nummod(բաժին, երեք)
+nummod(pieces, three)
+amod(բաժին, քառորդ)
+amod(pieces, quarters)
 ~~~
 
 ~~~ sdparse
