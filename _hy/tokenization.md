@@ -21,7 +21,7 @@ The low-level tokenization of the Armenian UD treebank follows the tokenization 
   * Exception: Decimal numbers are normalized (the Armenian decimal comma is converted to the English decimal point) and kept as one token, e.g. *<b>2.1</b>*. Numerical expressions also are treated as single tokens.
 * Most of the time, every punctuation character constitutes a token of its own. Thus *<b>»,—</b>* will become three tokens.
   * Exceptions are conventional multi-character punctuation marks: *<b>...</b>* , *<b>....</b>* , and emojis and smileys: *<b>:)</b>* , *<b>^_^</b>*, etc.
-  Conventional non-armenian multi-characte punctuation marks and terms are tokenized as single tokens: *<b>?!</b>* , *<b>°С</b>* .
+  Conventional non-armenian multi-character punctuation marks and terms are tokenized as single tokens: *<b>?!</b>* , *<b>°С</b>* .
 * Range numerals with hyphens are considered a subtype of cardinal numbers and are not split, e.g. *<b>չորս-հինգ</b>* “eiter four or five”, *<b>տասից-տասնհինգ</b>* “from ten to fifteen” stay one token.
 * Email addresses, URLs, and tweet-style names are treated as single tokens: {muster@muster.am}, {https://github.com}, {@anna_il}
 
@@ -31,4 +31,4 @@ The Armenian UD treebanks contain multiword tokens (see above, the “infixed”
 
 * the forms of necessitative mood, analytical causative, complex tenses, complex comparatives, etc. are splitted
 according to the orthographic principle: { <b>պիտի</b> , <b>վազեն</b> } “they must run”, { <b>գրել</b> , <b>տվեց</b> } “made write”, { <b>վազում</b> , <b>եմ</b> } “I run”, { <b>ավելի</b> , <b>լուրջ</b> } “more serious”.
-* <b>մի</b> and <b>ոչ</b> used as negation markers with verbs, adjectives, pronouns and other words are tokenized according to the orthographic rules: { <b>մի</b> , <b>գրիր</b> } “dont write”, { <b>ոչ</b> , <b>պաշտոնական</b> } “unofficial”, { <b>ոչ</b> , <b>մի</b> , <b>կերպ</b> } “in no way”.
+* <b>մի</b> and <b>ոչ</b> used as negation markers with verbs, adjectives, pronouns and other words are tokenized according to the orthographic rules: { <b>մի</b> , <b>գրիր</b> } “don't write”, { <b>ոչ</b> , <b>պաշտոնական</b> } “unofficial”, { <b>ոչ</b> , <b>մի</b> , <b>կերպ</b> } “in no way”.
