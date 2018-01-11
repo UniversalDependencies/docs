@@ -12,9 +12,9 @@ non-core (oblique) argument or adjunct.
 This means that it functionally corresponds to an adverbial when it attaches to a verb, adjective or other adverb.
 
 ~~~ sdparse
-Ես հանդիպեցի նրան անցյալ չորեքշաբթի ։ \n I have-met him last Thursday .
+Ես հանդիպեցի նրան անցյալ չորեքշաբթի ։ \n I met him last Thursday .
 obl(հանդիպեցի, չորեքշաբթի)
-obl(have-met, Thursday)
+obl(met, Thursday)
 ~~~
 
 The `obl` relation can be further specified by the [case](). In conjunction with the case relation, it provides a uniform analysis for:
