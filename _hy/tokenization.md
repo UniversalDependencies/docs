@@ -18,20 +18,19 @@ The low-level tokenization of the Armenian UD treebank follows the tokenization 
     Compounds without a hyphen are not split, thus _ռազմածովային_ “navy” is one token but _հասարակական-քաղաքական_ “civic-social” would be three tokens.
     Another common case of splitting-on-hyphen are reduplicative or echo words as in _մեծ-մեծ_ “very big”, _շուն-մուն_ “dog or something”.
   * The words that contain “infixed” punctuation (question, exclamation or emphasis marks), as in *ինչո՞ւ* “why?”, are considered as multi-word token and become two tokens, *<b>ինչու</b>* and *<b>՞</b>* .
-  * Numerical expressions (including dates) are treated as single words as long as they do not contain spaces, for example, *01.01.1970*, *01/01/1970*, *11:00*, *11.00*, *1937-1938*, *10-15*. Decimal numbers also kept as one token, e.g. *<b>2.1</b>* or *<b>2,1</b>*, *0.5-1.5* .
-
-Թվանշա-տառային արտահայտությունները, որոնցում թվանշանին հաջորդում է միության գծիկ (ենթամնա) ու հայերեն տառեր, դիտարկվում են որպես մեկ միասնական բառանիշ, լինեն դրանք թվականներ, ածականներ կամ ցանկացած այլ տիպի արտահայտություն։ Օր.՝ { 1-ին }, { 2-րդ }, { 4-ը }, { 1000-ական }, { 1950-ականներին }, { 20-ամյակ }, { 1700-ամյա }։
-{ ՀՀԿ-ականներից }
-* Numerical expressions with hyphen and cyrillic endings (e.g. <b>1-ый</b> “1st”, <b>3-м</b> “3rd.Ins”) as well as adjectives and other non-numerals which contain digits (e.g. <b>79-летний</b> “79 year old”, <b>500-летие</b> “500th anniversary”) are treated as single tokens.
-
-
-* Most of the time, every punctuation character constitutes a token of its own. Thus *<b>»,—</b>* will become three tokens.
+  * Numerical expressions (including dates) are treated as single words as long as they do not contain spaces, for example, *<b>01.01.1970</b>*, *<b>01/01/1970</b>*, *<b>11:00</b>*, *<b>11.00</b>*, *<b>1937-1938</b>*, *<b>10-15</b>*. Decimal numbers also kept as one token, e.g. *<b>2.1</b>* or *<b>2,1</b>*, *<b>0.5-1.5* .
+  * Numerical expressions with hyphen and Armenian endings (e.g. *<b>1-ին</b>* “1st”, *<b>3-ով</b>* “3.Ins”) as well as adjectives and other non-numerals which contain digits (e.g. *<b>1000-ական</b>* “by 1000”, *<b>1950-ականներին</b>* “in 1950s”}, *<b>20-ամյակ</b>* “20th anniversary”, *<b>1700-ամյա</b>* “1700-year-old”, *<b>ՆԱՏՕ-ական</b>* “belonging-to-NATO) are treated as single tokens.
+  * Most of the time, every punctuation character constitutes a token of its own. Thus *<b>»,—</b>* will become three tokens.
   * Exceptions are conventional multi-character punctuation marks: *<b>...</b>* , *<b>....</b>* , and emojis and smileys: *<b>:)</b>* , *<b>^_^</b>*, etc.
   Conventional non-armenian multi-character punctuation marks and terms are tokenized as single tokens: *<b>?!</b>* .
-* Email addresses, URLs, and tweet-style names are treated as single tokens: {muster@muster.am}, {https://github.com}, {@anna_il}
 * Special symbols before and after numerical expressions, as in <b>$500</b> , <b>2,67%</b> , <b>+27°С</b> , are tokenised separately (so, the tokens are { <b>$</b> , <b>500</b> } , { <b>2,67</b> , <b>%</b> } , { <b>+</b> , <b>27</b> , <b>°С</b> }).
+* Email addresses, URLs, and tweet-style names are treated as single tokens: {muster@muster.am}, {https://github.com}, {@anna_il}
 
 The Armenian UD treebanks contain multiword tokens (see above, the “infixed” punctuation).
+
+### Pronouns and adverbs
+
+* Indefinite pronouns and adverbs like *ինչ-որ*, *փոքր-ինչ*, *դույզն-ինչ*, *ինչ-ինչ* “someone, somebody”, etc. are treated as a single token.
 
 ### Verb forms, analytical grammatical forms, negation
 
