@@ -5,6 +5,7 @@ shortdef: 'flat'
 udver: '2'
 ---
 
+  
 The `flat` relation is one of the three relations for MWE in UD (together with [compound]() and [fixed]()). In Armenian it is used for proper nouns constituted of multiple nominal elements. For phrasal or clausal names the usual relations are used (e.g. _Երևանի պետական համալսարան, Կասպից ծով, Խաղաղ օվկիանոս, Ալանաց դշխուհի_). In general, names are annotated in a `flat`, head-initial structure, in which all words in the name modify the head using the `flat` label.
 
 ~~~ sdparse
@@ -84,9 +85,9 @@ nummod(hours, four)
 ~~~
 
 ~~~ sdparse
-տասից տասնհինգ ժամ \n ten fifteen hours
+տասից տասնհինգ ժամ \n from-ten to-fifteen hours
 nmod:obl(տասնհինգ, տասից)
-nmod:obl(fifteen, ten)
+nmod:obl(to-fifteen, from-ten)
 nummod(ժամ, տասնհինգ)
-nummod(hours, fifteen)
+nummod(hours, to-fifteen)
 ~~~
