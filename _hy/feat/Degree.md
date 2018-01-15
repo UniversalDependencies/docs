@@ -50,7 +50,7 @@ The quality of one object is compared to the same quality of all other objects w
 
 #### Examples
 
-* _Նա մեր խմբի <b>ամենախելացի / ամենից խելացի / բոլորից խելացի</b> մարդն է։&nbsp;_ “He/She is the <b>cleverest</b> man in our group.”
-* _Նա մեր խմբի <b>լավագույն / ամենից լավ / բոլորից լավ</b> երաժիշտն է։&nbsp;_ “He/She is the <b>best</b> musician in our group.”
-* _Սա <b>ամենանորագույն / ամենից նոր / բոլորից նոր</b> նմուշն է։&nbsp;_ “This is the <b>very newest</b> exemplar.”
-* _Նա <b>ամենաարագն / ամենից արագն / բոլորից արագն</b> է քայլում։&nbsp;_ “He/She walks <b>the most quickly</b>.”
+* _Նա մեր խմբի <b>ամենախելացի</b> / <b>ամենից</b> խելացի / <b>բոլորից</b> խելացի մարդն է։&nbsp;_ “He/She is the <b>cleverest</b> man in our group.”
+* _Նա մեր խմբի <b>լավագույն</b> / <b>ամենից</b> լավ / <b>բոլորից</b> լավ երաժիշտն է։&nbsp;_ “He/She is the <b>best</b> musician in our group.”
+* _Սա <b>ամենանորագույն</b> / <b>ամենից</b> նոր / <b>բոլորից</b> նոր նմուշն է։&nbsp;_ “This is the <b>very newest</b> exemplar.”
+* _Նա <b>ամենաարագն</b> / <b>ամենից</b> արագն / <b>բոլորից</b> արագն է քայլում։&nbsp;_ “He/She walks <b>the most quickly</b>.”
