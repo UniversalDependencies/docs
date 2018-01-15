@@ -59,15 +59,15 @@ det(հաշիվ, մի)
 
 ~~~ sdparse
 բաց անել
-compound:lvc(անել, բաց)
+compound:lvc(բաց, անել)
 ~~~
 
 ~~~ sdparse
 վեր - վեր թռչել
-compound:lvc(թռչել, վեր-1)
+compound:lvc(վեր-1, թռչել)
 ~~~
 
 ~~~ sdparse
 թույլ տալ
-compound:lvc(տալ, թույլ)
+compound:lvc(թույլ, տալ)
 ~~~
