@@ -35,15 +35,15 @@ For example, _դասավանդել_ “to teach” can take either the subject m
 and in both cases it would be analyzed as the [obj]():
 
 ~~~ sdparse
-Նա դասավանդում է մաթեմատիկա ։ \n He teaches maths .
+Նա դասավանդում է մաթեմատիկա ։ \n He teaches maths.Nom .
 obj(դասավանդում, մաթեմատիկա)
-obj(teaches, maths)
+obj(teaches, maths.Nom)
 ~~~
 
 ~~~ sdparse
-Նա դասավանդում է առաջին կուրսեցիներին ։ \n He teaches first-year students .
+Նա դասավանդում է առաջին կուրսեցիներին ։ \n He teaches first-year students.Dat .
 obj(դասավանդում, կուրսեցիներին)
-obj(teaches, students)
+obj(teaches, students.Dat)
 ~~~
 
 The one exception is when there is a clausal complement.
