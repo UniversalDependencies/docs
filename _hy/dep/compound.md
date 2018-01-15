@@ -11,63 +11,77 @@ The `compound` relation is one of three relations for multiword expressions (MWE
 adjective/adverb compounds.
 
 ~~~ sdparse
-տուն - թանգարան
+տուն - թանգարան \n house museum
 compound(տուն, թանգարան)
+compound(house, museum)
 ~~~
 
 ~~~ sdparse
-գեներալ - լեյտենանտ
+գեներալ - լեյտենանտ \n general - lieutenant
 compound(գեներալ, լեյտենանտ)
+compound(general, lieutenant)
 ~~~
 
 ~~~ sdparse
-թղթակից անդամ
+թղթակից անդամ \n associate member
 compound(թղթակից, անդամ)
+compound(associate, member)
 ~~~
 
 ~~~ sdparse
-երկար - բարակ
+երկար - բարակ \n long - thin
 compound(երկար, բարակ)
+compound(long, thin)
 ~~~
 
 - for serial verbs (with the subtype `compound:svc`):
 
 ~~~ sdparse
-եկավ - չեկավ
+եկավ - չեկավ \n came - did-not-come
 compound:svc(եկավ, չեկավ)
+compound:svc(came, did-not-come)
 ~~~
 
 ~~~ sdparse
-ասել - խոսել
+ասել - խոսել \n to-speak - to-talk
 compound:svc(ասել, խոսել)
+compound:svc(to-speak, to-talk)
 ~~~
 
 ~~~ sdparse
-բռնել բերել
+բռնել բերել \n to-catch to-bring
 compound:svc(բռնել, բերել)
+compound:svc(to-catch, to-bring)
 ~~~
 
 ~~~ sdparse
-Եղած - չեղած , մի հաշիվ է ։
+Եղած - չեղած , մի հաշիվ է ։ \n Existing - not-existing , is the same.
 compound:svc(Եղած, չեղած)
 csubj(հաշիվ, Եղած)
 cop(հաշիվ, է)
 det(հաշիվ, մի)
+compound:svc(Existing, not-existing)
+csubj(same, Existing)
+cop(same, is)
+det(same, the)
 ~~~
 
 - for light verbs (with the subtype `compound:lvc`):
 
 ~~~ sdparse
-բաց անել
+բաց անել \n open to-do
 compound:lvc(բաց, անել)
+compound:lvc(open, to-do)
 ~~~
 
 ~~~ sdparse
-վեր - վեր թռչել
+վեր - վեր թռչել \n high - high to-jump
 compound:lvc(վեր-1, թռչել)
+compound:lvc(high-1, to-jump)
 ~~~
 
 ~~~ sdparse
-թույլ տալ
+թույլ տալ \n permission to-give
 compound:lvc(թույլ, տալ)
+compound:lvc(permission, to-give)
 ~~~
