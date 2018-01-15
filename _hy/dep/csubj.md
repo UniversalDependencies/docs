@@ -30,7 +30,7 @@ csubj(took, To-take)
 ~~~ sdparse
 Հարկավոր է խոսել ։ \n It-is necessary to-speak .  
 csubj(Հարկավոր, խոսել)
-csubj(necessary, to-speaktook)
+csubj(necessary, to-speak)
 ~~~
 
 We also analyze the nominal predicates with clausal subjects formed by subordinating conjunction _որ_ similarly.
