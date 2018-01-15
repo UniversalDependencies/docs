@@ -31,6 +31,6 @@ iobj:agent(remind, you)
 
 The true agent of the verb _հիշեցնել տալ_ “make remember (lit: make remind of)” is _քեզ_ “you”, i.e. “You will remember that name.”
 
-The causative (infinitive) verb governs the syntactical subject of the sentence (i.e. the causer) with a [nsubj:caus]() relation. The infinitive verb governs the causative auxiliary with an [aux:caus](aux-caus) relation.
+The causative (infinitive) verb governs the syntactical subject of the sentence (i.e. the causer) with a [nsubj:caus]() relation. The infinitive verb governs the causative auxiliary with an [aux:caus]() relation.
 
 For more details see [specific-syntax](http://universaldependencies.org/hy/overview/specific-syntax.html).
