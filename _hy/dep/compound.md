@@ -55,7 +55,7 @@ compound:svc(to-catch, to-bring)
 ~~~
 
 ~~~ sdparse
-Եղած - չեղած , մի հաշիվ է ։ \n Existing - not-existing , is the same.
+Եղած - չեղած , մի հաշիվ է ։ \n Existing - not-existing , is the same .
 compound:svc(Եղած, չեղած)
 csubj(հաշիվ, Եղած)
 cop(հաշիվ, է)
@@ -77,7 +77,7 @@ compound:lvc(open, to-do)
 ~~~ sdparse
 վեր - վեր թռչել \n high - high to-jump
 compound:lvc(վեր-1, թռչել)
-compound:lvc(high-1, to-jump)
+compound:lvc(high-6, to-jump)
 ~~~
 
 ~~~ sdparse
