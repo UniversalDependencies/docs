@@ -22,4 +22,4 @@ orphan(Մերին, թեյ)
 orphan(Mary, tea)
 ~~~
 
-In this example, the subject _Մերին_ is promoted to the head position in the second conjunct. Attaching the object _թեյ_ to the subject is necessary to preserve the integrity of the clause, but using the standard relation `obj` would be misleading because _թեյ_ is not the object of _Մերին_. Therefore, the `orphan` relation is used to indicate that this is a non-standard attachment.
+In this example, the subject _Մերին_ is promoted to the head position in the second conjunct. Attaching the object _թեյ_ to the subject is necessary to preserve the integrity of the clause, but using the standard relation [obj]() would be misleading because _թեյ_ is not the object of _Մերին_. Therefore, the `orphan` relation is used to indicate that this is a non-standard attachment.
