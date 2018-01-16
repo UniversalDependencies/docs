@@ -13,10 +13,12 @@ compound:svc(քշեց, տարավ)
 nsubj(քշեց, հոսանքը)
 obj(քշեց, ինձ)
 case:loc(տակառների, մոտից)
+nmod:poss(հոսանքը, Մարդկանց)
 compound:svc(banished, took)
 nsubj(banished, The-stream)
 obj(banished, me)
 case:loc(the-barrels, away-from)
+nmod:poss(The-stream, of-people)
 ~~~
 
 ~~~ sdparse
