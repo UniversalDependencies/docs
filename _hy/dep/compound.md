@@ -5,13 +5,13 @@ shortdef: 'compound'
 udver: '2'
 ---
 
-The `compound` relation is one of three relations for multiword expressions (MWEs) (the other two being `fixed` and `flat`). It is used for:
+The `compound` relation is one of three relations for multiword expressions (MWEs) (the other two being [fixed]() and [flat]()). It is used for:
 
-- any kind of X<sup>0</sup> compounding: noun compounds (e.g., *phone book*), but also verb and
+- any kind of X<sup>0</sup> compounding: bare noun compounds (e.g., *phone book*), but also verb and
 adjective/adverb compounds.
 
 ~~~ sdparse
-տուն - թանգարան \n house museum
+տուն - թանգարան \n house - museum
 compound(տուն, թանգարան)
 compound(house, museum)
 ~~~
