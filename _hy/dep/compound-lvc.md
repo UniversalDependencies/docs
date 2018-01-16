@@ -1,6 +1,6 @@
 ---
 layout: relation
-title: 'compound:svc'
+title: 'compound:lvc'
 shortdef: 'light compound verb'
 udver: '2'
 ---
