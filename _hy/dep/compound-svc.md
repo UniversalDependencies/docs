@@ -12,6 +12,7 @@ udver: '2'
 compound:svc(քշեց, տարավ)
 nsubj(քշեց, հոսանքը)
 obj(քշեց, ինձ)
+case:loc(տակառների, մոտից)
 ~~~
 
 ~~~ sdparse
