@@ -19,7 +19,7 @@ case(գյուղի, համար)
 case(the-village.Dat, for)
 ~~~
 
-Currently, we also use `case` for some other case-marking elements treated as separate syntactic words (a closed set of nouns, adjectivs/participles or adverbs). These elements (traditionally called “adpositional words”) are treated as dependents of the noun or clause they attach to or introduce. They may be tagged according to their basic use. (See [ADP]() for details.)
+Currently, we also use `case` for some other case-marking elements treated as separate syntactic words (a closed set of nouns, adjectivs/participles or adverbs). These elements (traditionally known as “adpositional words”) are treated as dependents of the noun or clause they attach to or introduce. They may be tagged according to their basic use. (See [ADP]() for details.)
 
 ~~~ sdparse
 այս իշխանությունների.Dat երեսից/NOUN \n these authorities-' fault
@@ -30,13 +30,13 @@ det(authorities-', these)
 ~~~
 
 ~~~ sdparse
-ավանդույթի.Dat համաձայն/ADV \n according-to the-tradition 
+ավանդույթին.Dat համապատասխան/ADJ \n according-to the-tradition 
 case(ավանդույթի.Dat, համաձայն)
 case(the-tradition, according-to)
 ~~~
 
 ~~~ sdparse
-չնայած/ADV պարտավորություններին.Dat \n despite obligations
+չնայած/ADJ պարտավորություններին.Dat \n despite obligations
 case(պարտավորություններին.Dat, չնայած)
 case(obligations, despite)
 ~~~
@@ -47,4 +47,4 @@ case(երկրաշարժից.Abl, հետո)
 case(the-earthquake, after)
 ~~~
 
-Some inflected postpositions (traditionally called “improper adpositions”), are labeled with [case:loc]() instead, as “localizers”.
+Some inflected postpositions / localizers (traditionally known as “improper adpositions”), are labeled with [case:loc]() instead.
