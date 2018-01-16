@@ -13,3 +13,21 @@ compound:svc(քշեց, տարավ)
 nsubj(քշեց, հոսանքը)
 obj(քշեց, ինձ)
 ~~~
+
+~~~ sdparse
+բռնել բերել \n to-catch to-bring
+compound:svc(բռնել, բերել)
+compound:svc(to-catch, to-bring)
+~~~
+
+~~~ sdparse
+ասել - խոսել \n to-speak - to-talk
+compound:svc(ասել, խոսել)
+compound:svc(to-speak, to-talk)
+~~~
+
+~~~ sdparse
+գրել - ջնջել \n to-write to-erase
+compound:svc(գրել, ջնջել)
+compound:svc(to-write, to-erase)
+~~~
