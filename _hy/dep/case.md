@@ -19,8 +19,7 @@ case(գյուղի, համար)
 case(the-village.Dat, for)
 ~~~
 
-Currently, we also use `case` for some other case-marking elements treated as separate syntactic words (derived from a closed set of nouns, adjectivs/participles or adverbs). 
-These elements (traditionally called “adpositional words”) are treated as dependents of the noun or clause they attach to or introduce. They will have additional features. (See [ADP]() for details.)
+Currently, we also use `case` for some other case-marking elements treated as separate syntactic words (a closed set of nouns, adjectivs/participles or adverbs). These elements (traditionally called “adpositional words”) are treated as dependents of the noun or clause they attach to or introduce. They may be tagged according to their basic use. (See [ADP]() for details.)
 
 ~~~ sdparse
 այս իշխանությունների.Dat երեսից/NOUN \n these authorities-' fault
