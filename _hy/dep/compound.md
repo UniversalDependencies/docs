@@ -36,11 +36,11 @@ compound(long, thin)
 
 ~~~ sdparse
 Եղած - չեղած , մի հաշիվ է ։ \n Existing - not-existing , is the same .
-compound:svc(Եղած, չեղած)
+compound(Եղած, չեղած)
 csubj(հաշիվ, Եղած)
 cop(հաշիվ, է)
 det(հաշիվ, մի)
-compound:svc(Existing, not-existing)
+compound(Existing, not-existing)
 csubj(same, Existing)
 cop(same, is)
 det(same, the)
@@ -48,8 +48,8 @@ det(same, the)
 
 ~~~ sdparse
 եկավ - չեկավ \n he-came - did-not-come
-compound:svc(եկավ, չեկավ)
-compound:svc(he-came, did-not-come)
+compound(եկավ, չեկավ)
+compound(he-came, did-not-come)
 ~~~
 
 - for serial verbs (with the subtype [compound:svc]()) and for light verbs (with the subtype `compound:lvc`):
