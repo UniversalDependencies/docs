@@ -30,9 +30,11 @@ det(authorities-', these)
 ~~~
 
 ~~~ sdparse
-ավանդույթին.Dat համապատասխան/ADJ \n according-to the-tradition 
+միջազգային չափանիշներին.Dat համապատասխան/ADJ \n corresponding-to the-international criteria 
 case(ավանդույթի.Dat, համաձայն)
 case(the-tradition, according-to)
+amod(չափանիշներին, միջազգային)
+amod(criteria, the-international)
 ~~~
 
 ~~~ sdparse
