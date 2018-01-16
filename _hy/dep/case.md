@@ -8,15 +8,15 @@ udver: '2'
 Armenian uses a combination of oblique morphological cases and adpositions to express semantic case. They are treated as dependents of the noun they attach to. The relation between the noun and the adposition is labeled `case`.
 
 ~~~ sdparse
-դեպի գյուղ \n to the-village.Nom
-case(գյուղ, դեպի)
-case(the-village.Nom, to)
+դեպի գյուղ.Nom \n to the-village
+case(գյուղ.Nom, դեպի)
+case(the-village, to)
 ~~~
 
 ~~~ sdparse
-գյուղի համար \n for the-village.Dat
-case(գյուղի, համար)
-case(the-village.Dat, for)
+գյուղի.Dat համար \n for the-village
+case(գյուղի.Dat, համար)
+case(the-village, for)
 ~~~
 
 Currently, we also use `case` for some other case-marking elements treated as separate syntactic words (a closed set of nouns, adjectivs/participles or adverbs). These elements (traditionally known as “adpositional words”) are treated as dependents of the noun or clause they attach to or introduce. They may be tagged according to their basic use. (See [ADP]() for details.)
