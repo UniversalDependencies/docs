@@ -5,12 +5,12 @@ shortdef: 'light compound verb'
 udver: '2'
 ---
 
-This subtype of `compound` covers a range of light verbs in Armenian.
+This subtype of `compound` covers light verbs in Armenian.
 
 ~~~ sdparse
-բաց անել \n open to-do
-compound:lvc(բաց, անել)
-compound:lvc(open, to-do)
+Նա միայն բաց արեց պատուհանները ։ \n He only open did the-windows .
+compound:lvc(բաց, արեց)
+compound:lvc(open, did)
 ~~~
 
 ~~~ sdparse
