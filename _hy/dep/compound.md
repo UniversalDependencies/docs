@@ -34,12 +34,24 @@ compound(երկար, բարակ)
 compound(long, thin)
 ~~~
 
-- for serial verbs (with the subtype `compound:svc`):
+~~~ sdparse
+Եղած - չեղած , մի հաշիվ է ։ \n Existing - not-existing , is the same .
+compound:svc(Եղած, չեղած)
+csubj(հաշիվ, Եղած)
+cop(հաշիվ, է)
+det(հաշիվ, մի)
+compound:svc(Existing, not-existing)
+csubj(same, Existing)
+cop(same, is)
+det(same, the)
+~~~
+
+- for serial verbs (with the subtype [compound:svc]()):
 
 ~~~ sdparse
-եկավ - չեկավ \n came - did-not-come
+եկավ - չեկավ \n he-came - did-not-come
 compound:svc(եկավ, չեկավ)
-compound:svc(came, did-not-come)
+compound:svc(he-came, did-not-come)
 ~~~
 
 ~~~ sdparse
@@ -52,18 +64,6 @@ compound:svc(to-speak, to-talk)
 բռնել բերել \n to-catch to-bring
 compound:svc(բռնել, բերել)
 compound:svc(to-catch, to-bring)
-~~~
-
-~~~ sdparse
-Եղած - չեղած , մի հաշիվ է ։ \n Existing - not-existing , is the same .
-compound:svc(Եղած, չեղած)
-csubj(հաշիվ, Եղած)
-cop(հաշիվ, է)
-det(հաշիվ, մի)
-compound:svc(Existing, not-existing)
-csubj(same, Existing)
-cop(same, is)
-det(same, the)
 ~~~
 
 - for light verbs (with the subtype `compound:lvc`):
