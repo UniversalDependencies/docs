@@ -47,4 +47,4 @@ case(երկրաշարժից.Abl, հետո)
 case(the-earthquake, after)
 ~~~
 
-Some inflected postpositions (also known as "localizers" and traditionally called “improper adpositions”), are labeled with [case:loc]() instead.
+Some inflected postpositions (traditionally called “improper adpositions”), are labeled with [case:loc]() instead, as “localizers”.
