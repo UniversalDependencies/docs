@@ -5,7 +5,7 @@ shortdef: 'postpositional localizer'
 udver: '2'
 ---
 
-We treat localizers (traditionally known as “improper adpositions”) as postpositions which typically denote spatial locations, although a few localizers have further grammaticalized functions denoting temporal and other non-spatial concepts. (See [ADP]() for a list of localizers.)
+We treat a closed set of postpositions (traditionally known as “improper adpositions”) as localizers. (See [ADP]() for a list of localizers.)
 
 The head of the localizer is the noun or the main verb of the clause preceding it. Localizers are always tagged ADP (adposition). When it follows a noun, it receives the `case:loc` relation label.
 
