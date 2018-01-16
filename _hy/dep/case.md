@@ -22,7 +22,7 @@ case(the-village, for)
 Currently, we also use `case` for some other case-marking elements treated as separate syntactic words (a closed set of nouns, adjectivs/participles or adverbs). These elements (traditionally known as “adpositional words”) are treated as dependents of the noun or clause they attach to or introduce. They may be tagged according to their basic use. (See [ADP]() for details.)
 
 ~~~ sdparse
-այս իշխանությունների.Dat/NOUN երեսից/NOUN \n these authorities-' fault
+այս/DET իշխանությունների.Dat/NOUN երեսից/NOUN \n these authorities-' fault
 case(իշխանությունների.Dat, երեսից)
 det(իշխանությունների.Dat, այս)
 case(authorities-', fault)
