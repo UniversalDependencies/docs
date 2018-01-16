@@ -12,11 +12,13 @@ udver: '2'
 compound:svc(քշեց, տարավ)
 nsubj(քշեց, հոսանքը)
 obj(քշեց, ինձ)
+obl(քշեց, տակառների)
 case:loc(տակառների, մոտից)
 nmod:poss(հոսանքը, Մարդկանց)
 compound:svc(banished, took)
 nsubj(banished, The-stream)
 obj(banished, me)
+obl(banished, the-barrels)
 case:loc(the-barrels, away-from)
 nmod:poss(The-stream, of-people)
 ~~~
