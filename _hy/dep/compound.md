@@ -46,27 +46,13 @@ cop(same, is)
 det(same, the)
 ~~~
 
-- for serial verbs (with the subtype [compound:svc]()):
-
 ~~~ sdparse
 եկավ - չեկավ \n he-came - did-not-come
 compound:svc(եկավ, չեկավ)
 compound:svc(he-came, did-not-come)
 ~~~
 
-~~~ sdparse
-ասել - խոսել \n to-speak - to-talk
-compound:svc(ասել, խոսել)
-compound:svc(to-speak, to-talk)
-~~~
-
-~~~ sdparse
-բռնել բերել \n to-catch to-bring
-compound:svc(բռնել, բերել)
-compound:svc(to-catch, to-bring)
-~~~
-
-- for light verbs (with the subtype `compound:lvc`):
+- for serial verbs (with the subtype [compound:svc]()) and for light verbs (with the subtype `compound:lvc`):
 
 ~~~ sdparse
 բաց անել \n open to-do
