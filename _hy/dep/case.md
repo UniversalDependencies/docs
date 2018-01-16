@@ -29,27 +29,27 @@ Currently, we also use `case` for some other case-marking elements treated as se
 These elements (traditionally called “adpositional words”) are treated as dependents of the noun or clause they attach to or introduce. They will have additional features.
 
 ~~~ sdparse
-այս իշխանությունների.Dat երեսից.NOUN \n these authorities-' fault
-case(իշխանությունների.Dat, երեսից.NOUN)
-det(իշխանությունների.Dat, այս)
+այս իշխանությունների երեսից/NOUN \n these authorities-' fault
+case(իշխանությունների, երեսից)
+det(իշխանությունների, այս)
 case(authorities-', fault)
 det(authorities-', these)
 ~~~
 
 ~~~ sdparse
-ավանդույթի.Dat համաձայն.ADV \n according-to the-tradition 
-case(ավանդույթի.Dat, համաձայն.ADV)
+ավանդույթի համաձայն/ADV \n according-to the-tradition 
+case(ավանդույթի, համաձայն)
 case(the-tradition, according-to)
 ~~~
 
 ~~~ sdparse
-չնայած.ADV պարտավորություններին.Dat \n despite obligations
-case(պարտավորություններին.Dat, չնայած.ADV)
+չնայած/ADV պարտավորություններին \n despite obligations
+case(պարտավորություններին, չնայած)
 case(obligations, despite)
 ~~~
 
 ~~~ sdparse
-երկրաշարժից.Abl հետո.ADV \n after the-earthquake
-case(երկրաշարժից.Abl, հետո.ADV)
+երկրաշարժից հետո/ADV \n after the-earthquake
+case(երկրաշարժից, հետո)
 case(the-earthquake, after)
 ~~~
