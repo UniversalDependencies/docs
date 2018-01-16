@@ -7,7 +7,7 @@ udver: '2'
 
 The `compound` relation is one of three relations for multiword expressions (MWEs) (the other two being [fixed]() and [flat]()). It is used for:
 
-- any kind of X<sup>0</sup> compounding: bare noun compounds (e.g., *phone book*), but also verb and
+- any kind of X<sup>0</sup> compounding: bare noun compounds (e.g., *phone book*), but also
 adjective/adverb compounds.
 
 ~~~ sdparse
@@ -54,4 +54,4 @@ compound(եկավ, չեկավ)
 compound(he-came, did-not-come)
 ~~~
 
-- for serial verbs (with the subtype [compound:svc]()) and for light verbs (with the subtype [compound:lvc]()).
+`compound` in Armenian is used for serial verbs (with the subtype [compound:svc]()) and for light verbs (with the subtype [compound:lvc]()).
