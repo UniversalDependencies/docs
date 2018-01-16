@@ -19,14 +19,8 @@ case(գյուղի, համար)
 case(the-village.Dat, for)
 ~~~
 
-~~~ sdparse
-գինետան մոտով.Ins \n by the-tavern.Dat
-case(գինետան, մոտով.Ins)
-case(the-tavern.Dat, by)
-~~~
-
 Currently, we also use `case` for some other case-marking elements treated as separate syntactic words (derived from a closed set of nouns, adjectivs/participles or adverbs). 
-These elements (traditionally called “adpositional words”) are treated as dependents of the noun or clause they attach to or introduce. They will have additional features.
+These elements (traditionally called “adpositional words”) are treated as dependents of the noun or clause they attach to or introduce. They will have additional features. (See [ADP]() for details.)
 
 ~~~ sdparse
 այս իշխանությունների.Dat երեսից/NOUN \n these authorities-' fault
@@ -53,3 +47,5 @@ case(obligations, despite)
 case(երկրաշարժից.Abl, հետո)
 case(the-earthquake, after)
 ~~~
+
+Some inflected postpositions (also known as "localizers" and traditionally called “improper adpositions”), are labeled with [case:loc]() instead.
