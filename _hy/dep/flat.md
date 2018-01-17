@@ -62,32 +62,4 @@ flat(հիսունհինգ, հազար-5)
 flat(fifty-five, thousand)
 ~~~
 
-Note, that for fraction or range [numbers](NumType) the [compound]() relation is used:
-
-~~~ sdparse
-երեք քառորդ բաժին հաց \n three quarters pieces of-bread
-nmod(հաց, բաժին)
-nmod(of-bread, pieces)
-nummod(բաժին, երեք)
-nummod(pieces, three)
-compound(երեք, քառորդ)
-compound(three, quarters)
-~~~
-
-~~~ sdparse
-չորս - հինգ ժամ \n four - five hours
-compound(չորս, հինգ)
-compound(four, five)
-punct(հինգ, --2)
-punct(five, --7)
-nummod(ժամ, չորս)
-nummod(hours, four)
-~~~
-
-~~~ sdparse
-տասից տասնհինգ ժամ \n from-ten to-fifteen hours
-compound(տասնհինգ, տասից)
-compound(to-fifteen, from-ten)
-nummod(ժամ, տասնհինգ)
-nummod(hours, to-fifteen)
-~~~
+Note, that for fraction or range [numbers](NumType) the [compound]() relation is used.
