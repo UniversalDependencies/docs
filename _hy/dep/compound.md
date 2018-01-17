@@ -49,19 +49,21 @@ det(same, the)
 ~~~
 
 ~~~ sdparse
-եկավ - չեկավ \n he-came - did-not-come
+Ինչ եկավ - չեկավ, սկսեցին վիճել ։ \n He-came or didn't-come , they started quarreling .
 compound(եկավ, չեկավ)
-compound(he-came, did-not-come)
+compound(He-came, didn't-come)
 ~~~
 
 ~~~ sdparse
-ձեռք ձեռքի
-compound(ձեռք, ձեռքի)
+Եղբայրները մեջք մեջքի կանգնած էին ։ \n The-brothers was standing back to-back .
+compound(մեջք, մեջքի)
+compound(back, to-back)
 ~~~
 
 ~~~ sdparse
-ձեռքից ձեռք
+Գիրքը ձեռքից ձեռք էր անցնում ։ \n The-books passed from-hand to-hand .
 compound(ձեռքից, ձեռք)
+compound(from-hand, to-hand)
 ~~~
 
 `compound` in Armenian is used for serial verbs (with the subtype [compound:svc]()) and for light verbs (with the subtype [compound:lvc]()).
