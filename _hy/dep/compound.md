@@ -5,9 +5,9 @@ shortdef: 'compound'
 udver: '2'
 ---
 
-The `compound` relation is one of three relations for multiword expressions (MWEs) (the other two being [fixed]() and [flat]()). It is used for:
+The `compound` relation is one of three relations for multiword expressions (MWEs) (the other two being [fixed]() and [flat]()). It is used:
 
-- any kind of X<sup>0</sup> compounding: bare noun compounds (e.g., *phone book*), but also
+- for any kind of X<sup>0</sup> compounding: bare noun compounds (e.g., *phone book*), but also
 adjective/adverb compounds.
 
 ~~~ sdparse
@@ -34,36 +34,34 @@ compound(երկար, բարակ)
 compound(long, thin)
 ~~~
 
-Note, that we use `compound` relation for a range of reduplicated forms in Armenian. They can have additional feature of [Echo]().
+- for fraction or range [numbers](NumType)—contrast with [flat]().
 
 ~~~ sdparse
-Եղած - չեղած , մի հաշիվ է ։ \n Existing - not-existing , is the same .
-compound(Եղած, չեղած)
-csubj(հաշիվ, Եղած)
-cop(հաշիվ, է)
-det(հաշիվ, մի)
-compound(Existing, not-existing)
-csubj(same, Existing)
-cop(same, is)
-det(same, the)
+երեք քառորդ բաժին հաց \n three quarters pieces of-bread
+nmod(հաց, բաժին)
+nmod(of-bread, pieces)
+nummod(բաժին, երեք)
+nummod(pieces, three)
+compound(երեք, քառորդ)
+compound(three, quarters)
 ~~~
 
 ~~~ sdparse
-Ինչ եկավ - չեկավ, սկսեցին վիճել ։ \n He-came or didn't-come , they started quarreling .
-compound(եկավ, չեկավ)
-compound(He-came, didn't-come)
+չորս - հինգ ժամ \n four - five hours
+compound(չորս, հինգ)
+compound(four, five)
+punct(հինգ, --2)
+punct(five, --7)
+nummod(ժամ, չորս)
+nummod(hours, four)
 ~~~
 
 ~~~ sdparse
-Եղբայրները մեջք մեջքի կանգնած էին ։ \n The-brothers was standing back to-back .
-compound(մեջք, մեջքի)
-compound(back, to-back)
+տասից տասնհինգ ժամ \n from-ten to-fifteen hours
+compound(տասնհինգ, տասից)
+compound(to-fifteen, from-ten)
+nummod(ժամ, տասնհինգ)
+nummod(hours, to-fifteen)
 ~~~
 
-~~~ sdparse
-Գիրքը ձեռքից ձեռք էր անցնում ։ \n The-books passed from-hand to-hand .
-compound(ձեռքից, ձեռք)
-compound(from-hand, to-hand)
-~~~
-
-`compound` in Armenian is used for serial verbs (with the subtype [compound:svc]()) and for light verbs (with the subtype [compound:lvc]()).
+`compound` in Armenian is used for serial verbs (with the subtype [compound:svc]()), for light verbs (with the subtype [compound:lvc]()) and for a range of reduplicated forms (with the subtype [compound:redup]()).
