@@ -46,9 +46,9 @@ obl(passed, where)
 ~~~
 
 ~~~ sdparse
-Քաղաքը , որի մասին շատ եմ լսել \n The-city , that I-have heard about much 
-acl:relcl(Քաղաքը, լսել)
-acl:relcl(The-city, heard)
+քաղաքը , որի մասին շատ եմ լսել \n the-city , that I-have heard about much 
+acl:relcl(քաղաքը, լսել)
+acl:relcl(the-city, heard)
 obj(լսել, որի)
 obj(heard, that)
 case(որի, մասին)
