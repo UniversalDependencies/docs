@@ -36,7 +36,7 @@ As `obj` will be labelled also the follow examples (called _indirect objects_ or
 Dative example:
 
 ~~~ sdparse
-Նա մոտեցավ գետին ։ \n He approached the-river.
+Նա մոտեցավ գետին ։ \n He approached the-river .
 obj(մոտեցավ, գետին)
 obj(approached, the-river)
 ~~~
@@ -52,15 +52,15 @@ obj(moved-away, from-relatives)
 Instrumental example:
 
 ~~~ sdparse
-Ես հիանում էի մեր լեռներով ։ \n I was-admiring our with-mountaines.
+Ես հիանում էի մեր լեռներով ։ \n I was admiring our with-mountaines .
 obj(հիանում, լեռներով)
-obj(was-admiring, with-mountaines)
+obj(admiring, with-mountaines)
 ~~~
 
 Locative example:
 
 ~~~ sdparse
-Նա թերացել է այդ աշխատանքում ։ \n He has failed that in-work.
+Նա թերացել է այդ աշխատանքում ։ \n He has failed that in-work .
 obj(թերացել, աշխատանքում)
 obj(failed, in-work)
 ~~~
