@@ -21,5 +21,5 @@ Note also, that there is a number of case-marking elements (traditionally called
 ### Examples
 
 - Prepositions / postpostions: _ի&nbsp;_ “for the sake of”, _առ&nbsp;_ “up to”, _ըստ&nbsp;_ “according to”, _համար&nbsp;_ “for”, _հանդերձ&nbsp;_ “together with”, _պես&nbsp;_ “as”
-- Localizers / postpositions։ _մոտ&nbsp;_ “at”, _վրա&nbsp;_ “on”, _մեջ&nbsp;_ “in”, _տակ&nbsp;_ “under”, _առաջ,առջև&nbsp;_ “before, front side, ahead”
+- Localizers / postpositions։ _մոտ&nbsp;_ “at”, _վրա&nbsp;_ “on”, _մեջ&nbsp;_ “in”, _տակ&nbsp;_ “under”, _առաջ,առջև, դիմաց&nbsp;_ “before, front side, ahead”
 - Case-marking word: _հասցեին&nbsp;_ “about”, _չնայած&nbsp;_ “despite”, _հետո&nbsp;_ “after”
