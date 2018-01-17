@@ -13,7 +13,7 @@ udver: '2'
 </tr>
 </table>
 
-This covers a range of compound reduplicated forms or echo words in Armenian. The reduplicated forms get the same POS tag as the head word or will be tagged according to their basic use. We mark the echoed forms with [X]() POS tag.
+This covers a range of compound reduplicated forms or echo words in Armenian. The reduplicative words get the same POS tag as the head word or will be tagged according to their basic use. We mark the echo words with [X]() POS tag.
 
 See also the related feature [Hyph]().
 
@@ -40,7 +40,7 @@ In some cases one of the words in reduplicated forms may also be modified indivi
 The word fully or partly rhymes with a previous or following word but it is not identical to it and
 typically it does not have any meaning of its own. The echoed part is a form that does not occur elsewhere than in compounds.
 In Armenian it generalizes or specifies the meaning of the previous or following word and is translated
-as “or something”, “etc.” etc.
+as “or something”, “etc.”, “like that” etc.
 
 * _տուն-<b>մուն</b>_ “house and things like that”,
 * _աման-<b>չաման</b>_ “dishes and etc.”,
