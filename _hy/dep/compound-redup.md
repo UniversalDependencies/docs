@@ -22,7 +22,7 @@ det(same, the)
 ~~~
 
 ~~~ sdparse
-Ինչ եկավ - չեկավ, սկսեցին վիճել ։ \n He-came or didn't-come , they started quarreling .
+Ինչ եկավ - չեկավ , սկսեցին վիճել ։ \n He-came or didn't-come , they started quarreling .
 compound(եկավ, չեկավ)
 compound(He-came, didn't-come)
 ~~~
