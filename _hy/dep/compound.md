@@ -34,7 +34,7 @@ compound(երկար, բարակ)
 compound(long, thin)
 ~~~
 
-Note, that we use `compound` relation for a range of reduplicated forms in Armenian. They will have additional feature of [Echo]().
+Note, that we use `compound` relation for a range of reduplicated forms in Armenian. They can have additional feature of [Echo]().
 
 ~~~ sdparse
 Եղած - չեղած , մի հաշիվ է ։ \n Existing - not-existing , is the same .
@@ -52,6 +52,16 @@ det(same, the)
 եկավ - չեկավ \n he-came - did-not-come
 compound(եկավ, չեկավ)
 compound(he-came, did-not-come)
+~~~
+
+~~~ sdparse
+ձեռք ձեռքի
+compound(ձեռք, ձեռքի)
+~~~
+
+~~~ sdparse
+ձեռքից ձեռք
+compound(ձեռքից, ձեռք)
 ~~~
 
 `compound` in Armenian is used for serial verbs (with the subtype [compound:svc]()) and for light verbs (with the subtype [compound:lvc]()).
