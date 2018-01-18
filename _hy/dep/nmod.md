@@ -5,13 +5,11 @@ shortdef: 'nominal modifier'
 udver: '2'
 ---
 
-The `nmod` relation is used for nominal dependents of another noun or noun phrase and functionally corresponds to an attribute, to a genitive complement and to an (non-core) argument or adjunct.
-
-We use the following language-specific subtypes for `nmod`:
+The `nmod` relation is used for nominal modifiers of nominals. We use the following language-specific subtypes:
 
 * `nmod`: noun modifier functionally corresponds to an attribute,
-* [nmod:poss](): noun modifier functionally corresponds to a possessives,
-* [nmod:obl](): noun modifier functionally corresponds either to a core or on oblique argument or adjunct.
+* [nmod:poss](): noun modifier functionally corresponds to possessives,
+* [nmod:obl](): noun modifier functionally corresponds to a non-core (oblique) argument or adjunct.
 
 In Armenian `nmod` is used:
 
