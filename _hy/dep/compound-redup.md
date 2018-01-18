@@ -22,19 +22,25 @@ det(same, the)
 ~~~
 
 ~~~ sdparse
-Ինչ եկավ - չեկավ , սկսեցին վիճել ։ \n He-came or didn't-come , they started quarreling .
+Ինչ եկավ - չեկավ , սկսեցին վիճել ։ \n He-came or didn't-come , they-started quarreling .
 compound(եկավ, չեկավ)
 compound(He-came, didn't-come)
+advcl(սկսեցին, եկավ)
+advcl(they-started, He-came)
 ~~~
 
 ~~~ sdparse
 Եղբայրները մեջք մեջքի կանգնած էին ։ \n The-brothers was standing back to-back .
 compound(մեջք, մեջքի)
 compound(back, to-back)
+acl(կանգնած, մեջք)
+acl(standing, back)
 ~~~
 
 ~~~ sdparse
 Գիրքը ձեռքից ձեռք էր անցնում ։ \n The-books passed from-hand to-hand .
 compound(ձեռքից, ձեռք)
 compound(from-hand, to-hand)
+obl(անցնում, ձեռքից)
+obl(passed, from-hand)
 ~~~
