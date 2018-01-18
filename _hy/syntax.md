@@ -6,7 +6,7 @@ udver: '2'
 
 # Syntax
 
-The syntactic annotation in the Eastern Armenian UD treebank follows the [general guidelines](../../u/dep/index.html) but adds fifteen [language-specific relations](../dep/index.html):
+The syntactic annotation in the Eastern Armenian UD treebank follows the [general guidelines](../../u/dep/index.html) but adds fifteen [language-specific relations](../hy/dep/index.html):
 
 * _acl:relcl_ for relative clauses
 * _advmod:emph_ for adverbial modifiers of noun phrases
