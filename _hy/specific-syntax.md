@@ -89,7 +89,15 @@ advmod(խելացին, ամենից)
 advmod(smartest-one, the-most)
 ~~~
 
-Equality comparisons (as well compared quantity):
+~~~ sdparse
+Նա ինձնից շատ է կարդում ։ \n He reads more than-me .
+advmod(կարդում, շատ)
+obl(կարդում, ինձնից)
+advmod(reads, more)
+obl(reads, than-me)
+~~~
+
+Equality comparisons:
 
 ~~~ sdparse
 Արամը եղբոր պես խելացի է ։ \n Aram is smart as his-brother .
@@ -97,26 +105,6 @@ obl(խելացի, եղբոր)
 obl(smart, his-brother)
 case(եղբոր, պես)
 case(his-brother, as)
-~~~
-
-~~~ sdparse
-Հարյուրին մոտ մարդ եկավ : \n Came about 100 people .
-nsubj(եկավ, մարդ)
-nsubj(Came, people)
-nmod(մարդ, Հարյուրին)
-nmod(people, 100)
-case(Հարյուրին, մոտ)
-case(100, about)
-~~~
-
-~~~ sdparse
-Հարյուրի չափ մարդ եկավ : \n Came about 100 people .
-nsubj(եկավ, մարդ)
-nsubj(Came, people)
-nmod(մարդ, Հարյուրի)
-nmod(people, 100)
-case(Հարյուրի, չափ)
-case(100, about)
 ~~~
 
 If a property is compared to a clause, the clause is attached as [advcl]() instead of [nmod]()
@@ -184,6 +172,27 @@ fixed(ավելի, քան)
 fixed(more, than)
 ~~~
 
+~~~ sdparse
+Հարյուրին մոտ մարդ եկավ : \n Came about 100 people .
+nsubj(եկավ, մարդ)
+nsubj(Came, people)
+nummod(մարդ, Հարյուրին)
+nummod(people, 100)
+case:loc(Հարյուրին, մոտ)
+case:loc(100, about)
+~~~
+
+~~~ sdparse
+Հարյուրի չափ մարդ եկավ : \n Came about 100 people .
+nsubj(եկավ, մարդ)
+nsubj(Came, people)
+nummod(մարդ, Հարյուրի)
+nummod(people, 100)
+case(Հարյուրի, չափ)
+case(100, about)
+~~~
+
+
 ### Constructions more and less quantity
 
 _Ավելի_ / _քիչ_ / _պակաս_ governs the case of the cardinal numeral.
@@ -192,28 +201,20 @@ _Ավելի_ / _քիչ_ / _պակաս_ governs the case of the cardinal numeral.
 Հարյուրից ավելի մարդ եկավ : \n Came more-than 100 people .
 nsubj(եկավ, մարդ)
 nsubj(Came, people)
-amod(մարդ, ավելի)
-amod(people, more-than)
-nmod(ավելի, Հարյուրից)
-nmod(more-than, 100)
+nummod(մարդ, Հարյուրից)
+nummod(people, 100)
+case(Հարյուրից, ավելի)
+case(100, more-than)
 ~~~
 
 ~~~ sdparse
 Հարյուրից քիչ մարդ եկավ : \n Came less-than 100 people .
 nsubj(եկավ, մարդ)
 nsubj(Came, people)
-amod(մարդ, քիչ)
-amod(people, less-than)
-nmod(քիչ, Հարյուրից)
-nmod(less-than, 100)
-~~~
-
-~~~ sdparse
-Նա ինձնից շատ է կարդում ։ \n He reads more than-me .
-advmod(կարդում, շատ)
-obl(կարդում, ինձնից)
-advmod(reads, more)
-obl(reads, than-me)
+nummod(մարդ, Հարյուրից)
+nummod(people, 100)
+case(Հարյուրից, քիչ)
+case(100, less-than)
 ~~~
 
 ## Noun phrases with quantifiers
@@ -242,7 +243,7 @@ conj(whole-parts, tenth)
 
 ### Constructions with numerals and adjectives
 
-If the phrase with a numeral and adjective the numeral modifying the noun takes nominative and the noun is usuall in singualr, cf.
+If the phrase with a numeral and adjective the numeral modifying the noun takes nominative and the noun is usuall in singular, cf.
 
 * <b>_երկու_</b>.Nom <b>_սպիտակ_</b> <b>_նավակ_</b>.Sg
 
