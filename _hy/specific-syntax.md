@@ -211,9 +211,9 @@ nmod(less-than, 100)
 ~~~ sdparse
 Նա ինձնից շատ է կարդում ։ \n He reads more than-me .
 advmod(կարդում, շատ)
-obl(շատ, ինձնից)
+obl(կարդում, ինձնից)
 advmod(reads, more)
-obl(more, than-me)
+obl(reads, than-me)
 ~~~
 
 ## Noun phrases with quantifiers
