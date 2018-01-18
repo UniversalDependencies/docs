@@ -5,16 +5,16 @@ shortdef: 'oblique nominal modifier'
 udver: '2'
 ---
 
-This relation is a subtype of the [nmod]() relation. `nmod:obl` noun phrases attached to nouns are in different [cases](Case), usually follow the modified noun and functionally correspond either to a core or on oblique argument or adjunct.
+This relation is a subtype of the [nmod]() relation. `nmod:obl` noun phrases attached to nouns are in different [cases](Case), usually follow the modified noun and functionally correspond to a non-core (oblique) argument or adjunct.
 
 ~~~ sdparse
 Նրա վերադարձը հայրենիք հետաձգվում էր ։ \n His return to-matherland.Nom was-beeing postponed .
 aux(հետաձգվում, էր)
 nsubj:pass(հետաձգվում, վերադարձը)
 nmod:obl(վերադարձը, հայրենիք)
-det:pass(վերադարձը, Նրա)
+det:poss(վերադարձը, Նրա)
 aux(postponed, was-beeing)
-nsubj:pass(postponed, return)
+nsubj:poss(postponed, return)
 nmod:obl(return, to-matherland.Nom)
 det:pass(return, His)
 ~~~
@@ -44,15 +44,15 @@ case(the-enemy, against)
 ~~~ sdparse
 սեղանի վրայի գիրքը \n the-book on.Dat the-table.Dat 
 nmod:obl(գիրքը, սեղանի)
-case(սեղանի, վրայի)
+case:loc(սեղանի, վրայի)
 nmod:obl(the-book, the-table.Dat)
-case(the-table.Dat, on.Dat)
+case:loc(the-table.Dat, on.Dat)
 ~~~
 
 ~~~ sdparse
 այգու մոտի առուն \n the-brook near.Dat the-garden.Dat
 nmod:obl(առուն, այգու)
-case(այգու, մոտի)
+case:loc(այգու, մոտի)
 nmod:obl(the-brook, the-garden.Dat)
-case(the-garden.Dat, near.Dat)
+case:loc(the-garden.Dat, near.Dat)
 ~~~
