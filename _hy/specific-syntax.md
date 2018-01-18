@@ -14,9 +14,9 @@ In Armenian, the standard case pattern of a predicate-argument construction is a
 
 * the second argument (direct object) is in the Nominative or Dative case;
 
-* all other arguments are coded in other cases or in the prepositional phrase depending their semantics.
+* all other arguments are coded in other cases or in prepositional phrase depending their semantics.
 
-However, there is constructions which have non canonical case patterns.
+However, there are constructions which have non canonical case patterns.
 
 ### Ablative subject
 
@@ -129,7 +129,7 @@ and the quantity it is compared to:
 
 In these cases we consider _ավելի քան_ to be a fixed multi-word expression because the two words are inseparable.
 One cannot say _*ավելի գործընկեր քան վստահելի_ (the word _գործընկներ_ can be pulled to the front but then it will skip the whole MWE,
-as in _գործընկերն ավելի էր, քան վստահելի_ lit. _the companion were more than trusted._)
+as in _գործընկերն ավելի էր, քան վստահելի_ lit. _the companion was more than trusted._)
 
 ~~~ sdparse
 Դա ավելի քան հավանական է ։ \n That is more than likely .
