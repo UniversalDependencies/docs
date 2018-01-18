@@ -40,4 +40,4 @@ punct(ին, -)
 goeswith(թ, ին)
 ~~~
 
-For more details see the [tokenization page](http://universaldependencies.org/hy/overview/tokenization.html).
+For more details see the [tokenization page](http://universaldependencies.org/hy/tokenization.html).
