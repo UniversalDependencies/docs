@@ -16,3 +16,9 @@ vocative(fool, Sir)
 cop(հիմար, եք)
 cop(fool, are)
 ~~~
+
+~~~ sdparse
+Տղերք ՛ , թեթև տարեք ։ \n Guys , take-it easy!
+vocative(թեթև, Տղերք) 
+vocative(take, Guys)
+~~~
