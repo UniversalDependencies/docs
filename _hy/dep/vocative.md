@@ -7,7 +7,7 @@ udver: '2'
 
 The `vocative` relation is used to mark the dialogue participant addressed in text.
 The relation links the addressee's name or title to its host sentence.
-In Armenian vocative is always [indefinite](Definite) and always in nominative [case](). 
+In Armenian vocative is always [indefinite](Definite) and always in nominative [case](Case). 
 
 ~~~ sdparse
 Պարոն ՛ , դուք հիմար եք ։ \n Sir , you are fool !
