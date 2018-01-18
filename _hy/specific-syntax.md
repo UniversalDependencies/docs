@@ -251,6 +251,6 @@ If the phrase with a numeral and adjective the numeral modifying the noun takes 
 երկու սպիտակ նավակ \n two white boats
 nummod(նավակ, երկու)
 nummod(boats, two)
-amod(նավակ, белые)
-amod(boats, սպիտակ)
+amod(նավակ, սպիտակ)
+amod(boats, white)
 ~~~
