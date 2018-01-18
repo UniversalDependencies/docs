@@ -216,16 +216,40 @@ advmod(reads, more)
 obl(more, than-me)
 ~~~
 
-
 ## Noun phrases with quantifiers
 
 ### Constructions with cardinal numerals
 
-See [flat]() on the compound numerals: _հարյուր հիսունհինգ հազար_.
+See [flat]() and [compound]() on the compound numerals.
 
 Other types of QP:
 
-* _երկու.Nom ամբողջ.Gen.Sg չորս.Nom տասնորդական.Gen.Sg միլիոն.Gen.Sg դրամ.Gen.Pl_ “2.4 million drams” (i.e. “four tenth parts of million” with the ellipsis of “parts”)
-* _հողամասի երկու երրորդ մասը_
-* _ութ գլուխ ոչխար_
-* _մեկ միլիոն բարել նավթ_
+* _երկու.Nom ամբողջ.Nom.Sg չորս.Nom տասն(եր)որդական.Nom.Sg միլիոն.Nom.Sg դրամ.Nom.Sg_ “2.4 million drams” (i.e. “four tenth parts of million” with the ellipsis of “parts”)
+
+~~~ sdparse
+երկու ամբողջ չորս տասնորդական միլիոն դրամ \n two whole-parts four tenth million drams
+nummod(դրամ, միլիոն)
+nummod(drams, million)
+nummod(միլիոն, ամբողջ)
+nummod(million, whole-parts)
+nummod(տասնորդական, չորս)
+nummod(tenth, four)
+nummod(ամբողջ, երկու)
+nummod(whole-parts, two)
+conj(ամբողջ, տասնորդական)
+conj(whole-parts, tenth)
+~~~
+
+### Constructions with numerals and adjectives
+
+If the phrase with a numeral and adjective the numeral modifying the noun takes nominative and the noun is usuall in singualr, cf.
+
+* <b>_երկու_</b>.Nom <b>_սպիտակ_</b> <b>_նավակ_</b>.Sg
+
+~~~ sdparse
+երկու սպիտակ նավակ \n two white boats
+nummod(նավակ, երկու)
+nummod(boats, two)
+amod(նավակ, белые)
+amod(boats, սպիտակ)
+~~~
