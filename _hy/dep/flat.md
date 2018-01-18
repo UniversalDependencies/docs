@@ -58,8 +58,8 @@ nummod(դրամ, հարյուր)
 nummod(drams, hundred)
 flat(հարյուր, հիսունհինգ-4)
 flat(hundred, fifty-five)
-flat(հիսունհինգ, հազար-5)
-flat(fifty-five, thousand)
+flat(հարյուր, հազար-5)
+flat(hundred, thousand)
 ~~~
 
 Note, that for fraction or range [numbers](NumType) the [compound]() relation is used.
