@@ -145,54 +145,6 @@ punct(հավանական, ։-6)
 punct(likely, .-13)
 ~~~
 
-### Constructions of approximate quantity
-
-The determiner _մի_ and adverbs _ավելի քան_, _մինչև_, _շուրջ_, _մոտավորապես_, _մոտ_ “more than, till, around, approximately, about” etc. are used in constructions like _ավելի քան / մինչև / մոտ / մոտավորապես երկու հարյուր մարդ_ “more than 100 people” and act as quantifiers.
-They behave syntactically like determiners or adverbs and we attach them as [det]() or [advmod]().
-
-~~~ sdparse
-Եկավ մի հարյուր մարդ ։ \n Came about 100 people .
-nsubj(Եկավ, մարդ)
-nsubj(Came, people)
-nummod(մարդ, հարյուր)
-nummod(people, 100)
-det(հարյուր, մի)
-det(100, about)
-~~~
-
-~~~ sdparse
-Եկավ ավելի քան հարյուր մարդ ։ \n Came more than 100 people .
-nsubj(Եկավ, մարդ)
-nsubj(Came, people)
-nummod(մարդ, հարյուր)
-nummod(people, 100)
-advmod(հարյուր, ավելի)
-advmod(100, more)
-fixed(ավելի, քան)
-fixed(more, than)
-~~~
-
-~~~ sdparse
-Հարյուրին մոտ մարդ եկավ : \n Came about 100 people .
-nsubj(եկավ, մարդ)
-nsubj(Came, people)
-nummod(մարդ, Հարյուրին)
-nummod(people, 100)
-case:loc(Հարյուրին, մոտ)
-case:loc(100, about)
-~~~
-
-~~~ sdparse
-Հարյուրի չափ մարդ եկավ : \n Came about 100 people .
-nsubj(եկավ, մարդ)
-nsubj(Came, people)
-nummod(մարդ, Հարյուրի)
-nummod(people, 100)
-case(Հարյուրի, չափ)
-case(100, about)
-~~~
-
-
 ### Constructions more and less quantity
 
 _Ավելի_ / _քիչ_ / _պակաս_ governs the case of the cardinal numeral.
