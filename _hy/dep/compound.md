@@ -58,10 +58,10 @@ nummod(hours, four)
 
 ~~~ sdparse
 տասից տասնհինգ ժամ \n from-ten to-fifteen hours
-compound(տասնհինգ, տասից)
-compound(to-fifteen, from-ten)
-nummod(ժամ, տասնհինգ)
-nummod(hours, to-fifteen)
+compound(տասից, տասնհինգ)
+compound(from-ten, to-fifteen)
+nummod(ժամ, տասից)
+nummod(hours, from-ten)
 ~~~
 
-`compound` in Armenian is used for serial verbs (with the subtype [compound:svc]()), for light verbs (with the subtype [compound:lvc]()) and for a range of reduplicated forms (with the subtype [compound:redup]()).
+`compound` in Armenian is used also for serial verbs (with the subtype [compound:svc]()), for light verbs (with the subtype [compound:lvc]()) and for a range of reduplicated forms (with the subtype [compound:redup]()).
