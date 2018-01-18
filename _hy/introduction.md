@@ -24,7 +24,7 @@ This table summarizes the origins and checking of the various columns of the CoN
 
 | Column | Status |
 | ------ | ------ |
-| ID | Sentence segmentation and tokenization was automatically done using [HyNish-ArmDT tokenizer](). Additional changes (splitting and merging) were done manually during the annotation. |
+| ID | Sentence segmentation and tokenization was automatically done using [HyNish-ArmDT tokenizer](https://github.com/Armtreebank/Tokenizer). Additional changes (splitting and merging) were done manually during the annotation. |
 | FORM |  |
 | LEMMA | Generated automatically from FORM using Eastern Armenian lexicons and then hand-corrected. |
 | UPOSTAG | Generated automatically from LEMMA and then hand-corrected. |
