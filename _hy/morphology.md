@@ -13,6 +13,6 @@ The corpus contains a lemma for each word. These were automatically generated us
 The corpus contains a limited number of morphological features. The set of [universal features](../../u/feat/index.html) was extended with several additional
 [features for Eastern Armenian](../feat/index.html).
 
-These were automatically generated and have undergone only very limited validation and hand correction.
+These were developed into the version currently adopted by the UD project. 
 
 The corpus contains the `SpaceAfter=No` annotation after appropriate words in the MISC column, when there was not a space after a token before the next token (for instance *դ՚* when part of *դ՚Արկ*, or *՞* when part of *ինչո՞ւ*, or a word before most punctuation marks).
