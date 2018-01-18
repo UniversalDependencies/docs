@@ -18,7 +18,9 @@ cop(fool, are)
 ~~~
 
 ~~~ sdparse
-Տղերք ՛ , թեթև տարեք ։ \n Guys , take-it easy!
+Տղերք ՛ , թեթև տարեք ։ \n Guys , take-it easy !
 vocative(թեթև, Տղերք) 
-vocative(take, Guys)
+vocative(easy, Guys)
+compound:lvc(թեթև, տարեք)
+compound:lvc(easy, take-it)
 ~~~
