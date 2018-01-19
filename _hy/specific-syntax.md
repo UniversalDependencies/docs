@@ -20,12 +20,12 @@ However, there are constructions which have non canonical case patterns.
 
 ### Ablative subject
 
-The constructions are instantiated by a middle voice verb, the first argument of which is in the Ablative case with a partitive meaning and not in the canonical Nominative case. The ablative argument is labeled [obl]().
+The constructions are instantiated by a middle voice verb, the first argument of which is in the Ablative case with a partitive meaning and not in the canonical Nominative case. The ablative argument is also labeled [nsubj]().
 
 ~~~ sdparse
-Հնչեցին երգերից ։ \n Sounded songs.Abl .
-obl(Հնչեցին, երգերից)
-obl(Sounded, songs.Abl)
+Հնչեցին երգերից.Abl ։ \n Sounded from-songs .
+nsubj(Հնչեցին, երգերից.Abl)
+nsubj(Sounded, from-songs)
 ~~~
 
 ## Adjectival and adverbial constructions
@@ -125,7 +125,17 @@ case(եղբոր, պես)
 case(his-brother, as)
 ~~~
 
-If a property is compared to a clause, the clause is attached as [advcl]() instead of [nmod]()
+~~~ sdparse
+Նպատակասլացությունը նույնքան/SCONJ կարևոր է , որքան/SCONJ խաղացողի տաղանդը ։ \n Commitment is as important as a-player's talent .
+advmod(կարևոր, նույքան)
+advmod(important, as)
+case(տաղանդը, որքան)
+case(talent, as)
+obl(կարևոր, տաղանդը)
+obl(important, talent)
+~~~
+
+If a property is compared to a clause, the clause is attached as [advcl]() instead of [obl]()
 and the conjunction _(քան)_ is attached to the subordinate clause as [mark]().
 
 ~~~ sdparse
@@ -134,6 +144,26 @@ advcl(խելացի, թվում)
 advcl(smart, seems)
 mark(թվում, քան)
 mark(seems, than)
+~~~
+
+~~~ sdparse
+Նա որքան աներկյուղ էր, նույնքան գեղեցիկ ։ \n She is as brave as beautiful .
+advmod(աներկյուղ, որքան)
+advmod(brave, as)
+advcl(աներկյուղ, գեղեցիկ)
+advcl(brave, beautiful)
+mark(գեղեցիկ, նույնքան)
+mark(beautiful, as)
+~~~
+
+~~~ sdparse
+Նա այնքան հրապուրիչ էր, որ խմբագիրը հիացավ ։ \n She was so attractive, that the-editor admired .
+advmod(հրապուրիչ, այնքան)
+advmod(attractive, so)
+advcl(այնքան, հիացավ)
+advcl(so, admired)
+mark(հիացավ, որ)
+mark(admired, that)
 ~~~
 
 ### Comparatives (quantity)
