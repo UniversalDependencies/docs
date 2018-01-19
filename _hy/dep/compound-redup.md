@@ -22,11 +22,11 @@ det(same, the)
 ~~~
 
 ~~~ sdparse
-Ինչ եկավ - չեկավ , սկսեցին վիճել ։ \n He-came or didn't-come , they-started quarreling .
+Ինչ եկավ - չեկավ , սկսեցին վիճել ։ \n As he-came - didn't-come , they-started quarreling .
 compound:redup(եկավ, չեկավ)
-compound:redup(He-came, didn't-come)
+compound:redup(he-came, didn't-come)
 advcl(սկսեցին, եկավ)
-advcl(they-started, He-came)
+advcl(they-started, he-came)
 ~~~
 
 ~~~ sdparse
@@ -38,7 +38,7 @@ acl(standing, back)
 ~~~
 
 ~~~ sdparse
-Գիրքը ձեռքից ձեռք էր անցնում ։ \n The-books passed from-hand to-hand .
+Գիրքը ձեռքից ձեռք էր անցնում ։ \n The-book passed from-hand to-hand .
 compound:redup(ձեռքից, ձեռք)
 compound:redup(from-hand, to-hand)
 obl(անցնում, ձեռքից)
