@@ -90,6 +90,12 @@ advmod(smartest-one, the-most)
 ~~~
 
 ~~~ sdparse
+Արամը բոլորից խելացի է ։ \n Aram is smart of-all .
+obl(խելացի, բոլորից)
+obl(smart, of-all)
+~~~
+
+~~~ sdparse
 Նա ինձնից շատ է կարդում ։ \n He reads more than-me .
 advmod(կարդում, շատ)
 obl(կարդում, ինձնից)
