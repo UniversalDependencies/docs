@@ -86,7 +86,7 @@ Collective or mass or singulare tantum is a special case of singular. It applies
 * _<b>կաթ</b>_ “milk”
 * _<b>պողպատ</b>_ “steel”
 
-#### Diffs
+## Diffs
 
 ### Eastern Armenian National Corpus
 
