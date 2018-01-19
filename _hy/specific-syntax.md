@@ -94,7 +94,7 @@ case(his-brother, than)
 ~~~
 
 ~~~ sdparse
-Արամը բոլոր ուսանողներից ամենից խելացին է ։ \n Aram is the-most smartest-one of-all the-students .
+Արամը/PROPN բոլոր/DET ուսանողներից/NOUN ամենից/ADV խելացին/ADJ է/AUX ։ \n Aram is the-most smartest-one of-all the-students .
 obl(խելացին, ուսանողներից)
 obl(smartest-one, the-students)
 det(ուսանողներից, բոլոր)
@@ -104,13 +104,13 @@ advmod(smartest-one, the-most)
 ~~~
 
 ~~~ sdparse
-Արամը բոլորից խելացի է ։ \n Aram is smart of-all .
+Արամը/PROPN բոլորից/PRON խելացի/ADJ է/AUX ։ \n Aram is smart of-all .
 obl(խելացի, բոլորից)
 obl(smart, of-all)
 ~~~
 
 ~~~ sdparse
-Նա ինձնից շատ է կարդում ։ \n He reads more than-me .
+Նա/PRON ինձնից/PRON շատ/ADV է/AUX կարդում/VERB ։ \n He reads more than-me .
 advmod(կարդում, շատ)
 obl(կարդում, ինձնից)
 advmod(reads, more)
@@ -120,7 +120,7 @@ obl(reads, than-me)
 ### Relations in Equality Comparison
 
 ~~~ sdparse
-Արամը եղբոր պես/ADP խելացի/ADJ է ։ \n Aram is smart as his-brother .
+Արամը/PROPN եղբոր/NOUN պես/ADP խելացի/ADJ է/AUX ։ \n Aram is smart as his-brother .
 obl(խելացի, եղբոր)
 obl(smart, his-brother)
 case(եղբոր, պես)
@@ -128,7 +128,7 @@ case(his-brother, as)
 ~~~
 
 ~~~ sdparse
-Նպատակասլացությունը նույնքան/SCONJ կարևոր/ADJ է , որքան/SCONJ խաղացողի տաղանդը/NOUN ։ \n Commitment is as important as a-player's talent .
+Նպատակասլացությունը/NOUN նույնքան/SCONJ կարևոր/ADJ է/AUX , որքան/SCONJ խաղացողի/NOUN տաղանդը/NOUN ։ \n Commitment is as important as a-player's talent .
 advmod(կարևոր, նույնքան)
 advmod(important, as-13)
 case(տաղանդը, որքան)
@@ -141,7 +141,7 @@ If a property is compared to a clause, the clause is attached as [advcl]() inste
 and the conjunction _(քան)_ is attached to the subordinate clause as [mark]().
 
 ~~~ sdparse
-Նա որքան/SCONJ աներկյուղ/ADJ էր , նույնքան/SCONJ գեղեցիկ/ADJ ։ \n She is as brave as beautiful .
+Նա/PRON որքան/SCONJ աներկյուղ/ADJ էր/AUX , նույնքան/SCONJ գեղեցիկ/ADJ ։ \n She is as brave as beautiful .
 advmod(աներկյուղ, որքան)
 advmod(brave, as-12)
 advcl(աներկյուղ, գեղեցիկ)
@@ -151,7 +151,7 @@ mark(beautiful, as-14)
 ~~~
 
 ~~~ sdparse
-Ես ավելացրի այնքան/SCONJ ալյուր/NOUN , որքան/SCONJ ասվում/VERB էր բաղադրատոմսում ։ \n I put in as-much flour as was called-for in-the-recipe .
+Ես/PRON ավելացրի/VERB այնքան/SCONJ ալյուր/NOUN , որքան/SCONJ ասվում/VERB էր/AUX բաղադրատոմսում/NOUN ։ \n I put in as-much flour as was called-for in-the-recipe .
 amod(ալյուր, այնքան)
 amod(flour, as-much)
 advcl(այնքան, ասվում)
@@ -161,7 +161,7 @@ mark(called-for, as)
 ~~~
 
 ~~~ sdparse
-Նա այնքան/SCONJ հրապուրիչ/ADJ էր , որ/SCONJ խմբագիրը հիացավ/VERB ։ \n She was so attractive , that the-editor admired her.
+Նա/PRON այնքան/SCONJ հրապուրիչ/ADJ էր/AUX , որ/SCONJ խմբագիրը/NOUN հիացավ/VERB ։ \n She was so attractive , that the-editor admired her.
 advmod(հրապուրիչ, այնքան)
 advmod(attractive, so)
 advcl(այնքան, հիացավ)
@@ -173,7 +173,7 @@ mark(admired, that)
 ### Inequality Scalar Comparison
 
 ~~~ sdparse
-Արամը շատ/ADV ավելի/ADV խելացի/ADJ է , քան թվում/VERB է ։ \n Aram is much more smart , than it seems .
+Արամը/PROPN շատ/ADV ավելի/ADV խելացի/ADJ է/AUX , քան/SCONJ թվում/VERB է/AUX ։ \n Aram is much more smart , than it seems .
 advcl(խելացի, թվում)
 advcl(smart, seems)
 mark(թվում, քան)
@@ -185,7 +185,7 @@ advmod(smart, more)
 ~~~
 
 ~~~ sdparse
-շատ/ADV ավելի/ADV բարդ/ADJ խնդիր/NOUN , քան կարծում/VERB ես \n much more difficult problem , than you thought
+շատ/ADV ավելի/ADV բարդ/ADJ խնդիր/NOUN , քան/SCONJ կարծում/VERB ես \n much more difficult problem , than you thought
 amod(խնդիր, բարդ)
 amod(problem, difficult)
 advmod(բարդ, ավելի)
@@ -200,19 +200,16 @@ mark(thought, than)
 
 ### Comparatives (quantity)
 
-In certain contexts the comparative complement combines both the action or adjective that is being compared
-and the quantity it is compared to:
+In certain contexts the comparative complement combines both the action or adjective that is being compared and the standard of comparison:
 
 * _ավելի քան 90 տոկոս_ “more than 90 percent”
 * _ավելի քան վստահելի գործընկեր_ “more than trusted companion”
 * _ավելի քան հավանական_ “more than likely”
 
-In these cases we consider _ավելի քան_ to be a fixed multi-word expression because the two words are inseparable.
-One cannot say _*ավելի գործընկեր քան վստահելի_ (the word _գործընկներ_ can be pulled to the front but then it will skip the whole MWE,
-as in _գործընկերն ավելի էր, քան վստահելի_ lit. _the companion was more than trusted._)
+In these cases we consider more than to be a fixed multi-word expression because the two words are inseparable. One cannot say *more percent than 90.
 
 ~~~ sdparse
-Դա ավելի քան հավանական է ։ \n That is more than likely .
+Դա/PRON ավելի/ADV քան/SCONJ հավանական/ADJ է/AUX ։ \n That is more than likely .
 nsubj(հավանական, Դա)
 nsubj(likely, That)
 cop(հավանական, է)
@@ -225,51 +222,34 @@ punct(հավանական, ։-6)
 punct(likely, .-13)
 ~~~
 
-### Constructions of approximate quantity
-
-The determiner _մի_ and adverbs _ավելի քան_, _մինչև_, _շուրջ_, _մոտավորապես_, _մոտ_ “more than, till, around, approximately, about” etc. are used in constructions like _ավելի քան / մինչև / մոտ / մոտավորապես երկու հարյուր մարդ_ “more than 100 people” and act as quantifiers.
-They behave syntactically like determiners or adverbs and we attach them as [det]() or [advmod:emph]() to the head of the phrase (մարդ) and not to the number.
+If the expression modifies a counted noun phrase, it attaches directly to the modified number:
 
 ~~~ sdparse
-Եկավ մի հարյուր մարդ ։ \n Came about 100 people .
-nsubj(Եկավ, մարդ)
-nsubj(Came, people)
-nummod(մարդ, հարյուր)
-nummod(people, 100)
-det(մարդ, մի)
-det(people, about)
-~~~
-
-~~~ sdparse
-Եկավ ավելի քան հարյուր մարդ ։ \n Came more than 100 people .
-nsubj(Եկավ, մարդ)
-nsubj(Came, people)
-nummod(մարդ, հարյուր)
-nummod(people, 100)
-advmod:emph(մարդ, ավելի)
-advmod:emph(people, more)
+ավելի/ADV քան/SCONJ երկու/NUM տարի/NOUN առաջ/ADP \n more than two years ago
+case(տարի, առաջ)
+case(years, ago)
+advmod(երկու, ավելի)
+advmod(two, more)
+nummod(տարի, երկու)
+nummod(years, two)
 fixed(ավելի, քան)
 fixed(more, than)
 ~~~
 
-~~~ sdparse
-Հարյուրին մոտ մարդ եկավ : \n Came about 100 people .
-nsubj(եկավ, մարդ)
-nsubj(Came, people)
-nummod(մարդ, Հարյուրին)
-nummod(people, 100)
-case:loc(Հարյուրին, մոտ)
-case:loc(100, about)
-~~~
+If there is no number, it attaches directly to the head noun:
 
 ~~~ sdparse
-Հարյուրի չափ մարդ եկավ : \n Came about 100 people .
-nsubj(եկավ, մարդ)
-nsubj(Came, people)
-nummod(մարդ, Հարյուրի)
-nummod(people, 100)
-case(Հարյուրի, չափ)
-case(100, about)
+ավելի/ADV քան/SCONJ մի/DET քանի/PRON տարի/NOUN առաջ/ADP \n more than a some years ago
+case(տարի, առաջ)
+case(years, ago)
+advmod:emph(տարի, ավելի)
+advmod:emph(years, more)
+det(տարի, մի)
+det(years, a)
+fixed(մի, քանի)
+fixed(a, some)
+fixed(ավելի, քան)
+fixed(more, than)
 ~~~
 
 ### Constructions more and less quantity
@@ -277,7 +257,7 @@ case(100, about)
 _Ավելի_ / _քիչ_ / _պակաս_ governs the case of the cardinal numeral.
 
 ~~~ sdparse
-Հարյուրից ավելի մարդ եկավ : \n Came more-than 100 people .
+Հարյուրից/NOUN ավելի/ADV մարդ/NOUN եկավ/VERB : \n Came more-than 100 people .
 nsubj(եկավ, մարդ)
 nsubj(Came, people)
 nummod(մարդ, Հարյուրից)
@@ -287,7 +267,7 @@ case(100, more-than)
 ~~~
 
 ~~~ sdparse
-Հարյուրից քիչ մարդ եկավ : \n Came less-than 100 people .
+Հարյուրից/NOUN քիչ/NOUN մարդ/NOUN եկավ/VERB : \n Came less-than 100 people .
 nsubj(եկավ, մարդ)
 nsubj(Came, people)
 nummod(մարդ, Հարյուրից)
