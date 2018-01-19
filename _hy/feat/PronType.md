@@ -55,7 +55,7 @@ Note that possessive interrogative determiners (_whose_) can be distinguished by
 
 ### <a name="Rel">`Rel`</a>: relative pronoun or determiner or adverb
 
-All pronouns and determiners that mark the beginning of a [relative clause](acl-relcl) have this feature. Note that this class overlaps with interrogatives. There are no pronouns that are only relative.
+All pronouns and determiners that mark the beginning of a [relative clause](acl:relcl) have this feature. Note that this class overlaps with interrogatives. There are no pronouns that are only relative.
 
 ### <a name="Exc">`Exc`</a>: exclamative determiner
 
