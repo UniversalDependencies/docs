@@ -23,8 +23,8 @@ However, there are constructions which have non canonical case patterns.
 The constructions are instantiated by a middle voice verb, the first argument of which is in the Ablative case with a partitive meaning and not in the canonical Nominative case. The ablative argument is also labeled [nsubj]().
 
 ~~~ sdparse
-Հնչեցին երգերից.Abl ։ \n Sounded from-songs .
-nsubj(Հնչեցին, երգերից.Abl)
+Հնչեցին երգերից/NOUN[Case=Abl] ։ \n Sounded from-songs .
+nsubj(Հնչեցին, երգերից)
 nsubj(Sounded, from-songs)
 ~~~
 
