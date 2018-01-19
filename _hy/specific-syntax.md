@@ -59,6 +59,18 @@ det(ուսանողներից, բոլոր)
 det(the-students, of-all)
 ~~~
 
+If the standard of comparison is a nominal, it is marked morphologically by a ablative [Case]() or by a dative:
+
+~~~ sdparse
+Սիրունններից/Noun[Case=Abl] էլ ու (ամենա)սիրունն էիր դուն ։ \n
+obl((ամենա)սիրունն, Սիրունններից)
+~~~
+
+~~~ sdparse
+Սիրուննների/Noun[Case=Dat] (ամենա)սիրունն էիր դուն ։ \n
+obl((ամենա)սիրունն, Սիրունններից)
+~~~
+
 To keep the analyses of the morphological and the periphrastic cases parallel
 (and also to keep the analyses parallel cross-linguistically),
 in the periphrastic examples the entity comapared to modifies still the adjective and not the adverb:
@@ -111,18 +123,6 @@ obl(խելացի, եղբոր)
 obl(smart, his-brother)
 case(եղբոր, պես)
 case(his-brother, as)
-~~~
-
-The standard of comparison can be a nominal. Nominal standards of comparison is marked morphologically by a ablative or dative [Case]():
-
-~~~ sdparse
-Սիրունններից էլ ու (ամենա)սիրունն էիր դուն ։ \n
-obl((ամենա)սիրունն, Սիրունններից)
-~~~
-
-~~~ sdparse
-Սիրուննների (ամենա)սիրունն էիր դուն ։ \n
-obl((ամենա)սիրունն, Սիրունններից)
 ~~~
 
 If a property is compared to a clause, the clause is attached as [advcl]() instead of [nmod]()
