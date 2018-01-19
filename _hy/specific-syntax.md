@@ -113,6 +113,18 @@ case(եղբոր, պես)
 case(his-brother, as)
 ~~~
 
+The standard of comparison can be a nominal. Nominal standards of comparison is marked morphologically by a ablative or dative [Case]():
+
+~~~ sdparse
+Սիրունններից էլ ու (ամենա)սիրունն էիր դուն ։ \n
+obl((ամենա)սիրունն, Սիրունններից)
+~~~
+
+~~~ sdparse
+Սիրուննների (ամենա)սիրունն էիր դուն ։ \n
+obl((ամենա)սիրունն, Սիրունններից)
+~~~
+
 If a property is compared to a clause, the clause is attached as [advcl]() instead of [nmod]()
 and the conjunction _(քան)_ is attached to the subordinate clause as [mark]().
 
