@@ -128,9 +128,9 @@ case(his-brother, as)
 ~~~ sdparse
 Նպատակասլացությունը նույնքան/SCONJ կարևոր է , որքան/SCONJ խաղացողի տաղանդը ։ \n Commitment is as important as a-player's talent .
 advmod(կարևոր, նույնքան)
-advmod(important, as)
+advmod(important, as-13)
 case(տաղանդը, որքան)
-case(talent, as)
+case(talent, as-15)
 obl(կարևոր, տաղանդը)
 obl(important, talent)
 ~~~
@@ -139,21 +139,21 @@ If a property is compared to a clause, the clause is attached as [advcl]() inste
 and the conjunction _(քան)_ is attached to the subordinate clause as [mark]().
 
 ~~~ sdparse
-Նա որքան աներկյուղ էր, նույնքան գեղեցիկ ։ \n She is as brave as beautiful .
+Նա որքան աներկյուղ էր , նույնքան գեղեցիկ ։ \n She is as brave as beautiful .
 advmod(աներկյուղ, որքան)
-advmod(brave, as)
+advmod(brave, as-12)
 advcl(աներկյուղ, գեղեցիկ)
 advcl(brave, beautiful)
 mark(գեղեցիկ, նույնքան)
-mark(beautiful, as)
+mark(beautiful, as-14)
 ~~~
 
 ~~~ sdparse
-Ես ավելացրի այնքան ալյուր, որքան ասվում էր բաղադրատոմսում \n ։ I put in as-much flour as was called-for in-the-recipe .
+Ես ավելացրի այնքան ալյուր , որքան ասվում էր բաղադրատոմսում \n ։ I put in as-much flour as was called-for in-the-recipe .
 det(ալյուր, այնքան)
 det(flour, as-much)
 advcl(այնքան, ասվում)
-advcl(as-much, called-for)
+advcl(as, called-for)
 ~~~
 
 ~~~ sdparse
