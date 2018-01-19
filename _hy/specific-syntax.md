@@ -115,7 +115,7 @@ advmod(reads, more)
 obl(reads, than-me)
 ~~~
 
-Equality comparisons:
+### Relations in Equality Comparison
 
 ~~~ sdparse
 Արամը եղբոր պես խելացի է ։ \n Aram is smart as his-brother .
@@ -139,14 +139,6 @@ If a property is compared to a clause, the clause is attached as [advcl]() inste
 and the conjunction _(քան)_ is attached to the subordinate clause as [mark]().
 
 ~~~ sdparse
-Արամը շատ ավելի խելացի է , քան թվում է ։ \n Aram is much more smart , than it seems .
-advcl(խելացի, թվում)
-advcl(smart, seems)
-mark(թվում, քան)
-mark(seems, than)
-~~~
-
-~~~ sdparse
 Նա որքան աներկյուղ էր, նույնքան գեղեցիկ ։ \n She is as brave as beautiful .
 advmod(աներկյուղ, որքան)
 advmod(brave, as)
@@ -154,6 +146,11 @@ advcl(աներկյուղ, գեղեցիկ)
 advcl(brave, beautiful)
 mark(գեղեցիկ, նույնքան)
 mark(beautiful, as)
+~~~
+
+~~~ sdparse
+Ես ավելացրի այնքան ալյուր, որքան ասվում էր բաղադրատոմսում \n ։ I put in as much flour as the recipe called for .
+
 ~~~
 
 ~~~ sdparse
@@ -165,6 +162,16 @@ advcl(so, admired)
 mark(հիացավ, որ)
 mark(admired, that)
 ~~~
+
+### Inequality Scalar Comparison
+~~~ sdparse
+Արամը շատ ավելի խելացի է , քան թվում է ։ \n Aram is much more smart , than it seems .
+advcl(խելացի, թվում)
+advcl(smart, seems)
+mark(թվում, քան)
+mark(seems, than)
+~~~
+
 
 ### Comparatives (quantity)
 
