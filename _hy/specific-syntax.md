@@ -149,11 +149,13 @@ mark(beautiful, as-14)
 ~~~
 
 ~~~ sdparse
-Ես ավելացրի այնքան/SCONJ ալյուր , որքան/SCONJ ասվում էր բաղադրատոմսում \n ։ I put in as-much flour as was called-for in-the-recipe .
+Ես ավելացրի այնքան/SCONJ ալյուր , որքան/SCONJ ասվում էր բաղադրատոմսում ։ \n I put in as-much flour as was called-for in-the-recipe .
 det(ալյուր, այնքան)
 det(flour, as-much)
 advcl(այնքան, ասվում)
-advcl(as, called-for)
+advcl(as-much, called-for)
+mark(ասվում, որքան)
+mark(called-for, as)
 ~~~
 
 ~~~ sdparse
