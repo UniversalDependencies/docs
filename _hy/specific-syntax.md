@@ -62,13 +62,13 @@ det(the-students, of-all)
 If the standard of comparison is a nominal, it is marked morphologically by a ablative [Case]() or by a dative:
 
 ~~~ sdparse
-Սիրունններից/Noun[Case=Abl] էլ ու (ամենա)սիրունն էիր դուն ։ \n
-obl((ամենա)սիրունն, Սիրունններից)
+Սիրունններից/Noun[Case=Abl] էլ ու ամենասիրունն էիր դուն ։ \n
+obl(ամենասիրունն, Սիրունններից)
 ~~~
 
 ~~~ sdparse
-Սիրուննների/Noun[Case=Dat] (ամենա)սիրունն էիր դուն ։ \n
-obl((ամենա)սիրունն, Սիրունններից)
+Սիրուննների/Noun[Case=Dat] ամենասիրունն էիր դուն ։ \n
+obl(ամենասիրունն, Սիրունններից)
 ~~~
 
 To keep the analyses of the morphological and the periphrastic cases parallel
