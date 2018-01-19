@@ -150,8 +150,8 @@ mark(beautiful, as-14)
 
 ~~~ sdparse
 Ես ավելացրի այնքան/SCONJ ալյուր/NOUN , որքան/SCONJ ասվում/VERB էր բաղադրատոմսում ։ \n I put in as-much flour as was called-for in-the-recipe .
-det(ալյուր, այնքան)
-det(flour, as-much)
+amod(ալյուր, այնքան)
+amod(flour, as-much)
 advcl(այնքան, ասվում)
 advcl(as-much, called-for)
 mark(ասվում, որքան)
@@ -159,7 +159,7 @@ mark(called-for, as)
 ~~~
 
 ~~~ sdparse
-Նա այնքան/SCONJ հրապուրիչ/ADJ էր , որ/SCONJ խմբագիրը հիացավ/VERB ։ \n She was so attractive , that the-editor admired .
+Նա այնքան/SCONJ հրապուրիչ/ADJ էր , որ/SCONJ խմբագիրը հիացավ/VERB ։ \n She was so attractive , that the-editor admired her.
 advmod(հրապուրիչ, այնքան)
 advmod(attractive, so)
 advcl(այնքան, հիացավ)
