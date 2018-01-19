@@ -68,7 +68,7 @@ obl(ամենասիրունն, Սիրունններից)
 
 ~~~ sdparse
 Սիրուննների/Noun[Case=Dat] ամենասիրունն էիր դուն ։ \n
-obl(ամենասիրունն, Սիրունններից)
+obl(ամենասիրունն, Սիրուննների)
 ~~~
 
 To keep the analyses of the morphological and the periphrastic cases parallel
@@ -127,7 +127,7 @@ case(his-brother, as)
 
 ~~~ sdparse
 Նպատակասլացությունը նույնքան/SCONJ կարևոր է , որքան/SCONJ խաղացողի տաղանդը ։ \n Commitment is as important as a-player's talent .
-advmod(կարևոր, նույքան)
+advmod(կարևոր, նույնքան)
 advmod(important, as)
 case(տաղանդը, որքան)
 case(talent, as)
@@ -149,12 +149,15 @@ mark(beautiful, as)
 ~~~
 
 ~~~ sdparse
-Ես ավելացրի այնքան ալյուր, որքան ասվում էր բաղադրատոմսում \n ։ I put in as much flour as the recipe called for .
-
+Ես ավելացրի այնքան ալյուր, որքան ասվում էր բաղադրատոմսում \n ։ I put in as-much flour as was called-for in-the-recipe .
+det(ալյուր, այնքան)
+det(flour, as-much)
+advcl(այնքան, ասվում)
+advcl(as-much, called-for)
 ~~~
 
 ~~~ sdparse
-Նա այնքան հրապուրիչ էր, որ խմբագիրը հիացավ ։ \n She was so attractive, that the-editor admired .
+Նա այնքան հրապուրիչ էր , որ խմբագիրը հիացավ ։ \n She was so attractive , that the-editor admired .
 advmod(հրապուրիչ, այնքան)
 advmod(attractive, so)
 advcl(այնքան, հիացավ)
