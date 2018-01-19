@@ -8,6 +8,7 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td><a href="#Abs">Abs</a></td>
   <td><a href="#Cmp">Cmp</a></td>
   <td><a href="#Pos">Pos</a></td>
   <td><a href="#Sup">Sup</a></td>
@@ -54,3 +55,14 @@ The quality of one object is compared to the same quality of all other objects w
 * _Նա մեր խմբի <b>լավագույն</b> / <b>ամենից</b> լավ / <b>բոլորից</b> լավ երաժիշտն է։&nbsp;_ “He/She is the <b>best</b> musician in our group.”
 * _Սա <b>ամենանորագույն</b> / <b>ամենից</b> նոր / <b>բոլորից</b> նոր նմուշն է։&nbsp;_ “This is the <b>very newest</b> exemplar.”
 * _Նա <b>ամենաարագն</b> / <b>ամենից</b> արագն / <b>բոլորից</b> արագն է քայլում։&nbsp;_ “He/She walks <b>the most quickly</b>.”
+
+### <a name="Abs">`Abs`</a>: absolute superlative
+
+The quality of the given object is so strong that there is hardly any other object
+exceeding it. The quality is not actually compared to any particular
+set of objects.
+
+#### Examples
+
+* _հզոր&nbsp;_ “powerful”; _<b>գերհզոր</b>&nbsp;_ “<b>indescribably, super powerful</b>”
+* _մարդկային&nbsp;_ “human”; _<b>գերմարդկային</b>&nbsp;_ “<b>super human</b>”
