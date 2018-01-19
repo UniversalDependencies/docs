@@ -118,7 +118,7 @@ obl(reads, than-me)
 ### Relations in Equality Comparison
 
 ~~~ sdparse
-Արամը եղբոր պես խելացի է ։ \n Aram is smart as his-brother .
+Արամը եղբոր պես/ADP խելացի է ։ \n Aram is smart as his-brother .
 obl(խելացի, եղբոր)
 obl(smart, his-brother)
 case(եղբոր, պես)
@@ -139,7 +139,7 @@ If a property is compared to a clause, the clause is attached as [advcl]() inste
 and the conjunction _(քան)_ is attached to the subordinate clause as [mark]().
 
 ~~~ sdparse
-Նա որքան աներկյուղ էր , նույնքան գեղեցիկ ։ \n She is as brave as beautiful .
+Նա որքան/SCONJ աներկյուղ էր , նույնքան/SCONJ գեղեցիկ ։ \n She is as brave as beautiful .
 advmod(աներկյուղ, որքան)
 advmod(brave, as-12)
 advcl(աներկյուղ, գեղեցիկ)
@@ -149,7 +149,7 @@ mark(beautiful, as-14)
 ~~~
 
 ~~~ sdparse
-Ես ավելացրի այնքան ալյուր , որքան ասվում էր բաղադրատոմսում \n ։ I put in as-much flour as was called-for in-the-recipe .
+Ես ավելացրի այնքան/SCONJ ալյուր , որքան/SCONJ ասվում էր բաղադրատոմսում \n ։ I put in as-much flour as was called-for in-the-recipe .
 det(ալյուր, այնքան)
 det(flour, as-much)
 advcl(այնքան, ասվում)
@@ -157,7 +157,7 @@ advcl(as, called-for)
 ~~~
 
 ~~~ sdparse
-Նա այնքան հրապուրիչ էր , որ խմբագիրը հիացավ ։ \n She was so attractive , that the-editor admired .
+Նա այնքան/SCONJ հրապուրիչ էր , որ/SCONJ խմբագիրը հիացավ ։ \n She was so attractive , that the-editor admired .
 advmod(հրապուրիչ, այնքան)
 advmod(attractive, so)
 advcl(այնքան, հիացավ)
@@ -167,6 +167,7 @@ mark(admired, that)
 ~~~
 
 ### Inequality Scalar Comparison
+
 ~~~ sdparse
 Արամը շատ ավելի խելացի է , քան թվում է ։ \n Aram is much more smart , than it seems .
 advcl(խելացի, թվում)
