@@ -58,6 +58,8 @@ in past, present or future.
 
 In some contexts subjunctive and conditional forms may also indicate prospective aspect and signal an event that expected to take place. `Prosp` meaning prevails in conditional imperfect forms.
 
+The future-II participle also indicate progressive aspect.
+
 #### Examples
 
 * _<b>վազելու</b> եմ տուն&nbsp;_ “I shall run home”,
@@ -66,6 +68,8 @@ In some contexts subjunctive and conditional forms may also indicate prospective
 * _<b>վազեի</b> տուն&nbsp;_ “I wish I ran home”
 * _<b>կվազեմ</b> տուն&nbsp;_ “I shall run home”,
 * _<b>կվազեի</b> տուն&nbsp;_ “I shall run home”
+* _<b>կառուցվելիք</b> շենք&nbsp;_ “a house that will be built”
+* _<b>հնչելիք</b> զանգ&nbsp;_ “a call that will ring”
 
 ### <a name="Prog">`Prog`</a>: progressive aspect
 
@@ -83,11 +87,15 @@ A situation or action that has persisted over a period of time and still continu
 
 The finite form of auxilary _լինեմ&nbsp;_ (in various tenses and moods or in the infinitive _լինել&nbsp;_) accombined with processual, resultative and future participles of main verb indicates this aspect. The first one might better be defined as ‘durative progressive’ and others as ‘durative stative’ and ‘durative prospective’.
 
+The subject participle also indicate durative aspect.
+
 #### Examples
 
 * _գնալիս <b>լինեմ</b>&nbsp;_ “(If / when) I will be going”,
 * _գնացած <b>լինեմ</b>&nbsp;_ “(If / when) I will be gone”,
 * _գնալու <b>լինեմ</b>&nbsp;_ “(If / when) I go”
+* _<b>կառուցվող</b> շենք&nbsp;_ “a house, that is being built”
+* _<b>հնչող</b> զանգ&nbsp;_ “a call that ringed”
 
 ### <a name="Iter">`Iter`</a>: iterative
 
