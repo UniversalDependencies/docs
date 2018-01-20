@@ -38,4 +38,4 @@ This table summarizes the origins and checking of the various columns of the CoN
 ### Acknowledgments
 
 * This work became possible in part by a research grant from the Armenian National Science and Education Fund (ANSEF) based in New York, USA.
-* We are deeply grateful to ANSEF, also to Lragir.am, 1in.am and Yavruhrat Publshing for letting us download and exploit their articles as text material under the terms of educational use.
+* We are deeply grateful to ANSEF, also to Lragir.am, 1in.am and Yavruhrat Publishing for letting us download and exploit their articles as text material under the terms of educational use.
