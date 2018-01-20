@@ -23,7 +23,7 @@ However, there are constructions which have non canonical case patterns.
 The constructions are instantiated by a middle voice verb, the first argument of which is in the Ablative case with a partitive meaning and not in the canonical Nominative case. The ablative argument is also labeled [nsubj]().
 
 ~~~ sdparse
-Հնչեցին երգերից/NOUN[Case=Abl] ։ \n Sounded from-songs .
+Հնչեցին/VERB երգերից/NOUN[Case=Abl] ։ \n Sounded from-songs .
 nsubj(Հնչեցին, երգերից)
 nsubj(Sounded, from-songs)
 ~~~
@@ -46,13 +46,13 @@ The “lesser degree” comparison (expressed periphrastically) is marked the sa
 * _Արամը_.Nom <b>_նվազ խելացի_</b> / <b>_պակաս խելացի_</b> _է_, _քան (թե) եղբայրը_.Nom։ “Aram is <b>less smart</b> than his brother.” (with both types of comparatives)
 
 ~~~ sdparse
-Արամը եղբորից խելացի է ։ \n Aram is smart than-his-brother .
+Արամը/PROPN եղբորից/NOUN խելացի/ADJ[Degree=Pos] է/AUX ։ \n Aram is smart than-his-brother .
 obl(խելացի, եղբորից)
 obl(smart, than-his-brother)
 ~~~
 
 ~~~ sdparse
-Արամը բոլոր ուսանողներից ամենախելացին է ։ \n Aram is the-smartest-one of-all the-students .
+Արամը/PROPN բոլոր/DET ուսանողներից/NOUN ամենախելացին/ADJ[Degree=Sup] է/AUX ։ \n Aram is the-smartest-one of-all the-students .
 obl(ամենախելացին, ուսանողներից)
 obl(the-smartest-one, the-students)
 det(ուսանողներից, բոլոր)
@@ -62,13 +62,13 @@ det(the-students, of-all)
 If the standard of comparison is a nominal, it is marked morphologically by a ablative [Case]() or by a dative:
 
 ~~~ sdparse
-Սիրուններից/Noun[Case=Abl] էլ ամենասիրունն էիր դուն ։ \n You were the-most-beautiful from-the-beautiful-ones .
+Սիրուններից/NOUN[Case=Abl] էլ/PART ամենասիրունն/ADJ[Degree=Sup] էիր/AUX դուն/PRON ։ \n You were the-most-beautiful from-the-beautiful-ones .
 obl(ամենասիրունն, Սիրուններից)
 obl(the-most-beautiful, from-the-beautiful-ones)
 ~~~
 
 ~~~ sdparse
-Սիրունների/Noun[Case=Dat] ամենասիրունն էիր դուն ։ \n You were the-most-beautiful of-the-beautiful-ones .
+Սիրունների/NOUN[Case=Dat] ամենասիրունն/ADJ[Degree=Sup] էիր/AUX դուն/PRON ։ \n You were the-most-beautiful of-the-beautiful-ones .
 obl(ամենասիրունն, Սիրունների)
 obl(the-most-beautiful, of-the-beautiful-ones)
 ~~~
@@ -78,7 +78,7 @@ To keep the analyses of the morphological and the periphrastic cases parallel
 in the periphrastic examples the entity comapared to modifies still the adjective and not the adverb:
 
 ~~~ sdparse
-Արամը եղբորից ավելի խելացի է ։ \n Aram is more smart than-his-brother .
+Արամը/PROPN եղբորից/NOUN[Case=Abl] ավելի/ADV[Degree=Cmp] խելացի/ADJ[Degree=Pos] է/AUX ։ \n Aram is more smart than-his-brother .
 obl(խելացի, եղբորից)
 obl(smart, than-his-brother)
 advmod(խելացի, ավելի)
@@ -86,7 +86,7 @@ advmod(smart, more)
 ~~~
 
 ~~~ sdparse
-Արամը ավելի խելացի է , քան եղբայրը ։ \n Aram is more smart , than his-brother .
+Արամը/PROPN ավելի/ADV[Degree=Cmp] խելացի/ADJ[Degree=Pos] է/AUX , քան/SCONJ եղբայրը/NOUN ։ \n Aram is more smart , than his-brother .
 obl(խելացի, եղբայրը)
 obl(smart, his-brother)
 case(եղբայրը, քան)
@@ -94,7 +94,7 @@ case(his-brother, than)
 ~~~
 
 ~~~ sdparse
-Արամը/PROPN բոլոր/DET ուսանողներից/NOUN ամենից/ADV խելացին/ADJ է/AUX ։ \n Aram is the-most smartest-one of-all the-students .
+Արամը/PROPN բոլոր/DET ուսանողներից/NOUN ամենից/ADV[Degree=Sup] խելացին/ADJ[Degree=Pos] է/AUX ։ \n Aram is the-most smartest-one of-all the-students .
 obl(խելացին, ուսանողներից)
 obl(smartest-one, the-students)
 det(ուսանողներից, բոլոր)
@@ -104,13 +104,13 @@ advmod(smartest-one, the-most)
 ~~~
 
 ~~~ sdparse
-Արամը/PROPN բոլորից/PRON խելացի/ADJ է/AUX ։ \n Aram is smart of-all .
+Արամը/PROPN բոլորից/PRON[Case=Abl] խելացի/ADJ[Degree=Pos] է/AUX ։ \n Aram is smart of-all .
 obl(խելացի, բոլորից)
 obl(smart, of-all)
 ~~~
 
 ~~~ sdparse
-Նա/PRON ինձնից/PRON շատ/ADV է/AUX կարդում/VERB ։ \n He reads more than-me .
+Նա/PRON ինձնից/PRON[Case=Abl] շատ/ADV[Degree=Pos] է/AUX կարդում/VERB ։ \n He reads more than-me .
 advmod(կարդում, շատ)
 obl(կարդում, ինձնից)
 advmod(reads, more)
@@ -120,7 +120,7 @@ obl(reads, than-me)
 ### Relations in Equality Comparison
 
 ~~~ sdparse
-Արամը/PROPN եղբոր/NOUN պես/ADP խելացի/ADJ է/AUX ։ \n Aram is smart as his-brother .
+Արամը/PROPN եղբոր/NOUN պես/ADP խելացի/ADJ[Degree=Pos] է/AUX ։ \n Aram is smart as his-brother .
 obl(խելացի, եղբոր)
 obl(smart, his-brother)
 case(եղբոր, պես)
@@ -128,7 +128,7 @@ case(his-brother, as)
 ~~~
 
 ~~~ sdparse
-Նպատակասլացությունը/NOUN նույնքան/SCONJ կարևոր/ADJ է/AUX , որքան/SCONJ խաղացողի/NOUN տաղանդը/NOUN ։ \n Commitment is as important as a-player's talent .
+Նպատակասլացությունը/NOUN նույնքան/SCONJ կարևոր/ADJ[Degree=Pos] է/AUX , որքան/SCONJ խաղացողի/NOUN տաղանդը/NOUN ։ \n Commitment is as important as a-player's talent .
 advmod(կարևոր, նույնքան)
 advmod(important, as-13)
 case(տաղանդը, որքան)
@@ -141,7 +141,7 @@ If a property is compared to a clause, the clause is attached as [advcl]() inste
 and the conjunction _(քան)_ is attached to the subordinate clause as [mark]().
 
 ~~~ sdparse
-Նա/PRON որքան/SCONJ աներկյուղ/ADJ էր/AUX , նույնքան/SCONJ գեղեցիկ/ADJ ։ \n She is as brave as beautiful .
+Նա/PRON որքան/SCONJ աներկյուղ/ADJ[Degree=Pos] էր/AUX , նույնքան/SCONJ գեղեցիկ/ADJ[Degree=Pos] ։ \n She is as brave as beautiful .
 advmod(աներկյուղ, որքան)
 advmod(brave, as-12)
 advcl(աներկյուղ, գեղեցիկ)
@@ -173,7 +173,7 @@ mark(admired, that)
 ### Inequality Scalar Comparison
 
 ~~~ sdparse
-Արամը/PROPN շատ/ADV ավելի/ADV խելացի/ADJ է/AUX , քան/SCONJ թվում/VERB է/AUX ։ \n Aram is much more smart , than it seems .
+Արամը/PROPN շատ/ADV ավելի/ADV[Degree=Cmp] խելացի/ADJ[Degree=Pos] է/AUX , քան/SCONJ թվում/VERB է/AUX ։ \n Aram is much more smart , than it seems .
 advcl(խելացի, թվում)
 advcl(smart, seems)
 mark(թվում, քան)
@@ -185,7 +185,7 @@ advmod(smart, more)
 ~~~
 
 ~~~ sdparse
-շատ/ADV ավելի/ADV բարդ/ADJ խնդիր/NOUN , քան/SCONJ կարծում/VERB ես \n much more difficult problem , than you thought
+շատ/ADV ավելի/ADV[Degree=Cmp] բարդ/ADJ[Degree=Pos] խնդիր/NOUN , քան/SCONJ կարծում/VERB ես \n much more difficult problem , than you thought
 amod(խնդիր, բարդ)
 amod(problem, difficult)
 advmod(բարդ, ավելի)
@@ -257,7 +257,7 @@ fixed(more, than)
 _Ավելի_ / _քիչ_ / _պակաս_ governs the case of the cardinal numeral.
 
 ~~~ sdparse
-Հարյուրից/NOUN ավելի/ADV մարդ/NOUN եկավ/VERB : \n Came more-than 100 people .
+Հարյուրից/NOUN[Case=Abl] ավելի/ADV մարդ/NOUN եկավ/VERB : \n Came more-than 100 people .
 nsubj(եկավ, մարդ)
 nsubj(Came, people)
 nummod(մարդ, Հարյուրից)
@@ -267,7 +267,7 @@ case(100, more-than)
 ~~~
 
 ~~~ sdparse
-Հարյուրից/NOUN քիչ/NOUN մարդ/NOUN եկավ/VERB : \n Came less-than 100 people .
+Հարյուրից/NOUN[Case=Abl] քիչ/NOUN մարդ/NOUN եկավ/VERB : \n Came less-than 100 people .
 nsubj(եկավ, մարդ)
 nsubj(Came, people)
 nummod(մարդ, Հարյուրից)
@@ -304,10 +304,8 @@ conj(whole-parts, tenth)
 
 If the phrase with a numeral and adjective the numeral modifying the noun takes nominative and the noun is usuall in singular, cf.
 
-* <b>_երկու_</b>.Nom <b>_սպիտակ_</b> <b>_նավակ_</b>.Sg
-
 ~~~ sdparse
-երկու սպիտակ նավակ \n two white boats
+երկու/NUM սպիտակ/ADJ նավակ/NOUN[Number=Sing] \n two white boats
 nummod(նավակ, երկու)
 nummod(boats, two)
 amod(նավակ, սպիտակ)
