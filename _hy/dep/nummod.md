@@ -47,14 +47,25 @@ flat(50-5, million)
 ~~~
 
 ~~~ sdparse
-ևս 50 հազար դրամ \n also 50 thousand dram
+ևս 50 հազար դրամ \n another 50 thousand drams
 nummod(դրամ, 50-2)
 flat(50-2, հազար)
 advmod:emph(դրամ, ևս)
-nummod(dram, 50-7)
+nummod(drams, 50-7)
 flat(50-7, thousand)
-advmod:emph(dram, also)
+advmod:emph(drams, another)
 ~~~
+
+~~~ sdparse
+առավելագույնը 50 հազար դրամ \n at-most 50 thousand drams
+nummod(դրամ, 50-2)
+flat(50-2, հազար)
+advmod:emph(դրամ, առավելագույնը)
+nummod(drams, 50-7)
+flat(50-7, thousand)
+advmod:emph(drams, at-most)
+~~~
+
 Note that the two numeral words in the above example are joined using the [flat]() relation.
 Also note that the [intensifier](advmod:emph) _ևս_ is attached to the head of the phrase _(դրամ)_ and not to the number.
 This is in accord with the UD guidelines.
@@ -76,11 +87,11 @@ punct(days, )-9)
 քվեարկության վերջին 3 ժամվա ընթացքում \n during last 3 houres of-voting
 nummod(ժամվա, 3-3)
 case(ժամվա, ընթացքում)
-advmod:emph(ժամվա, վերջին)
+amod(ժամվա, վերջին)
 nmod:poss(ժամվա, քվեարկության)
 nummod(houres, 3-9)
 case(houres, during)
-advmod:emph(houres, last)
+amod(houres, last)
 nmod:poss(houres, of-voting)
 ~~~
 
@@ -90,11 +101,11 @@ Dates are annotated as follows: if present the day is the head, the months are _
 
 ~~~ sdparse
 Նա ծնվել է 1955 թվականի մայիսի 4-ին ։ \n He was born on-4th of-May of-year 1955 .
-advmod(ծնվել, 4-ին)
+obl(ծնվել, 4-ին)
 nmod:poss(4-ին, մայիսի)
 nmod:poss(մայիսի, թվականի)
 nummod(թվականի, 1955-4)
-advmod(born, on-4th)
+obl(born, on-4th)
 nmod:poss(on-4th, of-May)
 nmod:poss(of-May, of-year)
 nummod(of-year, 1955-16)
