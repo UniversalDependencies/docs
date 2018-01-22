@@ -23,9 +23,11 @@ However, there are constructions which have non canonical case patterns.
 The constructions are instantiated by a middle voice verb, the first argument of which is in the Ablative case with a partitive meaning and not in the canonical Nominative case. The ablative argument is also labeled [nsubj]().
 
 ~~~ sdparse
-Հնչեցին/VERB երգերից/NOUN[Case=Abl] ։ \n Sounded from-songs .
+Հնչեցին/VERB Կոմիտասի/PROPN[Case=Dat] երգերից/NOUN[Case=Abl] ։ \n Sounded from-songs of-Komitas .
 nsubj(Հնչեցին, երգերից)
 nsubj(Sounded, from-songs)
+nmod:poss(երգերից, Կոմիտասի)
+nmod:poss(from-songs, of-Komitas)
 ~~~
 
 ## Adjectival and adverbial constructions
@@ -206,7 +208,7 @@ In certain contexts the comparative complement combines both the action or adjec
 * _ավելի քան վստահելի գործընկեր_ “more than trusted companion”
 * _ավելի քան հավանական_ “more than likely”
 
-In these cases we consider more than to be a fixed multi-word expression because the two words are inseparable. One cannot say *more percent than 90.
+In these cases we consider more than to be a fixed multi-word expression because the two words are inseparable. One cannot say *more percent than 90*.
 
 ~~~ sdparse
 Դա/PRON ավելի/ADV քան/SCONJ հավանական/ADJ է/AUX ։ \n That is more than likely .
@@ -260,8 +262,8 @@ _Ավելի_ / _քիչ_ / _պակաս_ governs the case of the cardinal numeral.
 Հարյուրից/NOUN[Case=Abl] ավելի/ADV մարդ/NOUN եկավ/VERB : \n Came more-than 100 people .
 nsubj(եկավ, մարդ)
 nsubj(Came, people)
-nummod(մարդ, Հարյուրից)
-nummod(people, 100)
+nmod(մարդ, Հարյուրից)
+nmod(people, 100)
 case(Հարյուրից, ավելի)
 case(100, more-than)
 ~~~
@@ -270,8 +272,8 @@ case(100, more-than)
 Հարյուրից/NOUN[Case=Abl] քիչ/NOUN մարդ/NOUN եկավ/VERB : \n Came less-than 100 people .
 nsubj(եկավ, մարդ)
 nsubj(Came, people)
-nummod(մարդ, Հարյուրից)
-nummod(people, 100)
+nmod(մարդ, Հարյուրից)
+nmod(people, 100)
 case(Հարյուրից, քիչ)
 case(100, less-than)
 ~~~
