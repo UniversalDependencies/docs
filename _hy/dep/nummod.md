@@ -50,7 +50,7 @@ flat(50-5, million)
 ևս 50 հազար դրամ \n also 50 thousand dram
 nummod(դրամ, 50-2)
 flat(50-2, հազար)
-advmod:emph(դրամ, շուրջ)
+advmod:emph(դրամ, ևս)
 nummod(dram, 50-7)
 flat(50-7, thousand)
 advmod:emph(dram, also)
