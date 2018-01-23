@@ -68,3 +68,15 @@ nummod(days, two)
 obl(came, the-elections)
 nmod:obl(the-elections, days)
 ~~~
+
+~~~ sdparse
+Տարածաշրջան , Ուրբաթ 18 Դեկտեմբեր 2015 \n Region , Friday 18 December 2015
+nmod:obl(Տարածաշրջան, Ուրբաթ)
+appos(Ուրբաթ, 18-4)
+flat(18-4, Դեկտեմբեր)
+flat(18-4, 2015-6)
+nmod:obl(Region, Friday)
+appos(Friday, 18-11)
+flat(18-11, December)
+flat(18-11, 2015-13)
+~~~
