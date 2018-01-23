@@ -5,15 +5,15 @@ shortdef: 'nominal modifier'
 udver: '2'
 ---
 
-The `nmod` relation is used for nominal modifiers of nominals. We use the following language-specific subtypes:
+The `nmod` relation is used for nominal dependents of another noun or noun phrase. We use the following language-specific subtypes:
 
 * `nmod`: noun modifier functionally corresponds to an attribute,
-* [nmod:poss](): noun modifier functionally corresponds to possessives,
+* [nmod:poss](): noun modifier functionally corresponds to possessive complement,
 * [nmod:obl](): noun modifier functionally corresponds to a non-core (oblique) argument or adjunct.
 
 In Armenian `nmod` is used:
 
-* for noun-noun modification: `nmod` noun phrases attached to nouns are usually in the nominative [Case]() and precede the modified noun. There are alternations in ablative or instrumental cases.
+* for noun-noun modification with an attributive or associative relations between them: `nmod` noun phrases attached to nouns are usually in the nominative [Case]() and precede the modified noun. There are alternations in ablative or instrumental cases.
 
 ~~~ sdparse
 քամի եղանակ \n wind.Nom weather
@@ -82,7 +82,7 @@ amod(president, the-first)
 appos(Levon, president)
 ~~~
 
-* The `nmod` relation is further specified by the [case]() relation.
+* The `nmod` relation is further specified by the [case]() relation (associative modfication).
 
 ~~~ sdparse
 մի փղի չափ կենդանի \n an elephant size animal
