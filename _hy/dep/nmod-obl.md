@@ -56,3 +56,14 @@ case:loc(այգու, մոտի)
 nmod:obl(the-brook, the-garden.Dat)
 case:loc(the-garden.Dat, near.Dat)
 ~~~
+
+~~~ sdparse
+Նա եկավ ընտրություններից երկու օր առաջ ։ \n He came two days before the-elections .
+case(ընտրություններից, առաջ)
+nummod(օր, երկու)
+obl(եկավ, ընտրություններից)
+nmod:obl(ընտրություններից, օր)
+case(the-elections, before)
+nummod(days, two)
+obl(came, the-elections)
+nmod:obl(the-elections, days)
