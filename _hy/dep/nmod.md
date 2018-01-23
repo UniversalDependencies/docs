@@ -43,6 +43,26 @@ nmod(water, cup.Nom)
 nummod(cup.Nom, two)
 ~~~
 
+The `nmod` relation is further specified by the [case]() relation (associative modfication).
+
+~~~ sdparse
+մի փղի չափ կենդանի \n an elephant size animal
+nmod(կենդանի, փղի)
+case(փղի, չափ)
+det(կենդանի, մի)
+nmod(animal, elephant)
+case(elephant, size)
+det(animal, an)
+~~~
+
+~~~ sdparse
+ոսկու պես աղջիկ \n gold like girl
+nmod(աղջիկ, ոսկու)
+case(ոսկու, պես)
+nmod(girl, gold)
+case(gold, like)
+~~~
+
 Note, that so-called “bare noun compounds” (e.g. _թղթակից անդամ&nbsp;_ “corresponding member”) marked using the [compound]() relation.
 
 * for an explicative attribute of a noun: a typical example is a title attached to a name of a person. The relation is similar to the [flat]() relation that links the first and the last name, but it is not labeled `flat` because the title is not part of the name:
@@ -80,24 +100,4 @@ flat(Levon, Ter)
 punct(president, ,)
 amod(president, the-first)
 appos(Levon, president)
-~~~
-
-* The `nmod` relation is further specified by the [case]() relation (associative modfication).
-
-~~~ sdparse
-մի փղի չափ կենդանի \n an elephant size animal
-nmod(կենդանի, փղի)
-case(փղի, չափ)
-det(կենդանի, մի)
-nmod(animal, elephant)
-case(elephant, size)
-det(animal, an)
-~~~
-
-~~~ sdparse
-ոսկու պես աղջիկ \n gold like girl
-nmod(աղջիկ, ոսկու)
-case(ոսկու, պես)
-nmod(girl, gold)
-case(gold, like)
 ~~~
