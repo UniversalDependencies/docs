@@ -74,12 +74,12 @@ Date expressions which have a very clear syntactic structure, as in _the 21th of
 
 ~~~ sdparse
 1991 թ . սեպտեմբերի 21-ին \n on-the-21th of-September of-year 1991
-nmod(21-ին, սեպտեմբերի)
-nmod(սեպտեմբերի, թ)
+nmod:poss(21-ին, սեպտեմբերի)
+nmod:poss(սեպտեմբերի, թ)
 punct(թ, .)
 nummod(թ, 1991-1)
-nmod(on-the-21th, of-September)
-nmod(of-September, of-year)
+nmod:poss(on-the-21th, of-September)
+nmod:poss(of-September, of-year)
 nummod(of-year, 1991-10)
 ~~~
 
