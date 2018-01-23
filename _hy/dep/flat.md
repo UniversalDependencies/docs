@@ -84,8 +84,8 @@ nummod(of-year, 1991-10)
 ~~~
 
 ~~~ sdparse
-18 դեկտեմբեր 2015 \n 18 December 2015
-flat(18-1, դեկտեմբեր)
+18 Դեկտեմբեր 2015 \n 18 December 2015
+flat(18-1, Դեկտեմբեր)
 flat(18-1, 2015-3)
 flat(18-5, December)
 flat(18-5, 2015-7)
