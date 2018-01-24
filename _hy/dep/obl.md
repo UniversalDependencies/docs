@@ -38,9 +38,11 @@ case:loc(the-tree, under)
 *	`obl` is also used for temporal and locational nominal modifiers:
 
 ~~~ sdparse
-Ամռանը/NOUN/[Case=Dat] հանդիպեցի/VERB նրան/PRON[Case=Dat] սրճարանում/NOUN[Case=Loc] ։ \n I-met him in-summer in-the-cafe .
+Ամռանը/NOUN[Case=Dat] հանդիպեցի/VERB նրան/PRON[Case=Dat] սրճարանում/NOUN[Case=Loc] ։ \n I-met him in-summer in-the-cafe .
 obl(հանդիպեցի, Ամռանը)
 obl(հանդիպեցի, սրճարանում)
 obl(I-met, in-summer)
 obl(I-met, in-the-cafe)
 ~~~
+
+See the [obl:arg]() subtype for the oblique arguments (i.e., prepositional objects).
