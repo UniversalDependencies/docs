@@ -35,10 +35,12 @@ case(Երեխաների, համար)
 
 ~~~ sdparse
 Նրա/DET խոսքերը/NOUN[Case=Nom] ազդեցություն/NOUN[Case=Nom] գործեցին/VERB պապի/NOUN[Case=Dat] վրա/ADP[Case=Nom] ։ \n His words had an-impression on grandfather .
+det:poss(խոսքերը, Նրա)
 nsubj(գործեցին, խոսքերը)
 obl:arg(գործեցին, պապի)
 obj(գործեցին, ազդեցություն)
 case:loc(պապի, վրա)
+det:poss(words, His)
 nsubj(had, words)
 obl:arg(had, grandfather)
 obj(had, an-impression)
