@@ -70,13 +70,11 @@ nmod:obl(the-elections, days)
 ~~~
 
 ~~~ sdparse
-Նա եկավ ընտրություններից երկու օր առաջ ։ \n He came two days before the-elections .
+Նա եկավ ընտրություններից օր առաջ ։ \n He came days before the-elections .
 case(օր, առաջ)
-nummod(օր, երկու)
 obl(եկավ, օր)
 nmod:obl(օր, ընտրություններից)
 case(days, before)
-nummod(days, two)
 obl(came, days)
 nmod:obl(days, the-elections)
 ~~~
