@@ -34,7 +34,7 @@ case(Երեխաների, համար)
 ~~~
 
 ~~~ sdparse
-Նրա/DET խոսքերը/NOUN[Case=Nom] ազդեցություն/NOUN[Case=Nom] գործեցին/VERB պապիNOUN[Case=Dat] վրա/ADP[Case=Nom] ։ \n His words had an-impression on grandfather .
+Նրա/DET խոսքերը/NOUN[Case=Nom] ազդեցություն/NOUN[Case=Nom] գործեցին/VERB պապի/NOUN[Case=Dat] վրա/ADP[Case=Nom] ։ \n His words had an-impression on grandfather .
 nsubj(գործեցին, խոսքերը)
 obl:arg(գործեցին, պապի)
 obj(գործեցին, ազդեցություն)
