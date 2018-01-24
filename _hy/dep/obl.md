@@ -12,7 +12,7 @@ non-core (oblique) argument or adjunct.
 This means that it functionally corresponds to an adverbial when it attaches to a verb, adjective or other adverb.
 
 ~~~ sdparse
-Ես հանդիպեցի նրան անցյալ չորեքշաբթի ։ \n I met him last Thursday .
+Ես հանդիպեցի նրան անցյալ չորեքշաբթի/NOUN[Case=Nom] ։ \n I met him last Thursday .
 obl(հանդիպեցի, չորեքշաբթի)
 obl(met, Thursday)
 ~~~
@@ -22,25 +22,25 @@ The `obl` relation can be further specified by the [case](). In conjunction with
 *	variant forms with case, a preposition or a postposition:
 
 ~~~ sdparse
-Դուրս եկավ տնից ։ \n He-went out from-the-house.Abl .
+Դուրս եկավ տնից/NOUN[Case=Abl] ։ \n He-went out from-the-house .
 obl(եկավ, տնից)
-obl(He-went, from-the-house.Abl)
+obl(He-went, from-the-house)
 ~~~
 
 ~~~ sdparse
-Նա նստած էր ծառի տակ ։ \n He was sitting under the-tree.Dat .
+Նա նստած էր ծառի/NOUN[Case=Dat] տակ/ADP[Case=Nom] ։ \n He was sitting under the-tree .
 obl(նստած, ծառի)
-case(ծառի, տակ)
-obl(sitting, the-tree.Dat)
-case(the-tree.Dat, under)
+case:loc(ծառի, տակ)
+obl(sitting, the-tree)
+case:loc(the-tree, under)
 ~~~
 
 *	`obl` is also used for temporal and locational nominal modifiers:
 
 ~~~ sdparse
-Ամռանը հանդիպեցի նրան սրճարանում ։ \n I-met him in-summer.Dat in-the-cafe.Loc .
+Ամռանը/NOUN/[Case=Dat] հանդիպեցի/VERB նրան/PRON[Case=Dat] սրճարանում/NOUN[Case=Loc] ։ \n I-met him in-summer in-the-cafe .
 obl(հանդիպեցի, Ամռանը)
 obl(հանդիպեցի, սրճարանում)
-obl(I-met, in-summer.Dat)
-obl(I-met, in-the-cafe.Loc)
+obl(I-met, in-summer)
+obl(I-met, in-the-cafe)
 ~~~
