@@ -11,7 +11,7 @@ The head of the localizer is the noun or the main verb of the clause preceding i
 
 ~~~ sdparse
 գինետան/NOUN[Case=Dat] մոտով/ADP[Case=Ins] \n by the-tavern
-case:loc(գինետանt, մոտով)
+case:loc(գինետան, մոտով)
 case:loc(the-tavern, by)
 ~~~
 
