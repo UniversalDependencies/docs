@@ -13,13 +13,13 @@ Some prepositions take the form of fixed multiword expressions, e.g. _ի սեր&
 
 Note, that the Armenian `ADP` covers also “localizers”. These are a closed set of postpositions (traditionally known as “improper adpositions”) which inflect for [Case](), [PossNumber]() and [PossPerson]() and typically indicate spatial information in relation to the noun preceding it. Although a few localizers have further grammaticalized functions denoting temporal and other non-spatial concepts. Localizers are still tagged as `ADP`, but are labeled with additional features and with special dependency relation mark.
 
-- _Վերցրեց գիրքը սեղանի վրայ<b>ից</b>.Abl։&nbsp;_ “He took the book from on the table.”
-- _Ճանապարհն անցնում էր դաշտերի միջ<b>ով</b>.Ins։&nbsp;_ “The road passed through the fields.”
+- _Վերցրեց գիրքը սեղանի վրայից_.Abl։&nbsp; “He took the book from on the table.”
+- _Ճանապարհն անցնում էր դաշտերի միջով_.Ins։&nbsp; “The road passed through the fields.”
 
 Note also, that there is a number of case-marking elements (traditionally called “adpositional words”), derived from a closed set of nouns, [adjectivs/participles](VerbForm) or [adverbs](ADV). They may be tagged according to their basic use as `NOUN`, `VERB` or `ADV` and their functional status as adpositions is accounted for in the [syntactic annotation](case).
 
 ### Examples
 
-- Prepositions / postpostions: _ի&nbsp;_ “for the sake of”, _առ&nbsp;_ “up to”, _ըստ&nbsp;_ “according to”, _համար&nbsp;_ “for”, _հանդերձ&nbsp;_ “together with”, _պես&nbsp;_ “as”
+- Prepositions, postpostions: _ի&nbsp;_ “for the sake of”, _առ&nbsp;_ “up to”, _ըստ&nbsp;_ “according to”, _համար&nbsp;_ “for”, _հանդերձ&nbsp;_ “together with”, _պես&nbsp;_ “as”
 - Localizers / postpositions։ _մոտ&nbsp;_ “at”, _վրա&nbsp;_ “on”, _մեջ&nbsp;_ “in”, _տակ&nbsp;_ “under”, _առաջ,առջև, դիմաց&nbsp;_ “before, front side, ahead”
-- Case-marking word: _հասցեին&nbsp;_ “about”, _չնայած&nbsp;_ “despite”, _հետո&nbsp;_ “after”
+- Case-marking words: _հասցեին&nbsp;_ “about”, _չնայած&nbsp;_ “despite”, _հետո&nbsp;_ “after”
