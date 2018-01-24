@@ -5,10 +5,9 @@ shortdef: 'oblique adjunct'
 udver: '2'
 ---
 
-The `obl` relation is used for oblique nominal adjuncts of verbs, adjectives or adverbs. See the [obl:arg]() subtype for the oblique arguments (i.e., prepositional objects).
+The `obl` relation is used for oblique nominal arguments and adjuncts of verbs, adjectives or adverbs. We use also the [obl:arg]() for the oblique arguments (i.e., prepositional objects) and [obl:agent]() for the agent of a passive verb.
 
-
-`obl` is a [noun](NOUN) (or noun phrase) functioning as a
+In Eastern Armenian `obl` is a [noun](NOUN) (or noun phrase) functioning as a
 non-core (oblique) adjunct.
 This means that it functionally corresponds to an adverbial when it attaches to a verb, adjective or other adverb.
 
@@ -18,15 +17,15 @@ obl(հանդիպեցի, չորեքշաբթի)
 obl(met, Thursday)
 ~~~
 
-The `obl` relation can be further specified by the [case](). In conjunction with the case relation, it provides a uniform analysis for:
-
-*	variant forms with case, a preposition or a postposition:
-
 ~~~ sdparse
 Դուրս եկավ տնից/NOUN[Case=Abl] ։ \n He-went out from-the-house .
 obl(եկավ, տնից)
 obl(He-went, from-the-house)
 ~~~
+
+The `obl` relation can be further specified by the [case](). In conjunction with the case relation, it provides a uniform analysis for:
+
+*	variant forms with case, a preposition or a postposition:
 
 ~~~ sdparse
 Նա նստած էր ծառի/NOUN[Case=Dat] տակ/ADP[Case=Nom] ։ \n He was sitting under the-tree .
@@ -45,5 +44,3 @@ obl(հանդիպեցի, սրճարանում)
 obl(I-met, in-summer)
 obl(I-met, in-the-cafe)
 ~~~
-
-For the agent of a passive verb see the subtype [obl:agent]().
