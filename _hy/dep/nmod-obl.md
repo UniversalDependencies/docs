@@ -74,8 +74,7 @@ nmod:obl(the-elections, days)
 case(ժամ, առաջ)
 obl(հասավ, ժամ)
 nmod:obl(ժամ, պսակադրությունից)
-
-case(before, an-hour)
+case(an-hour, before)
 obl(was-heard, an-hour)
-nmod:obl(just, the-wedding-ceremony)
+nmod:obl(an-hour, the-wedding-ceremony)
 ~~~
