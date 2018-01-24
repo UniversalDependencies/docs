@@ -18,8 +18,8 @@ nmod(Լևոն, Նախագահ)
 nmod(Levon, President)
 amod(համալսարան, պետական)
 amod(University, State)
-nmod(համալսարան, Երևանի)
-nmod(University, Yerevan)
+nmod:poss(համալսարան, Երևանի)
+nmod:poss(University, Yerevan)
 ~~~
 
 ~~~ sdparse
