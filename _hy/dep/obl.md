@@ -1,14 +1,15 @@
 ---
 layout: relation
 title: 'obl'
-shortdef: 'oblique argument or adjunct'
+shortdef: 'oblique adjunct'
 udver: '2'
 ---
 
-The `obl` relation is used for oblique nominal arguments and adjuncts of verbs, adjectives or adverbs.
+The `obl` relation is used for oblique nominal adjuncts of verbs, adjectives or adverbs. See the [obl:arg]() subtype for the oblique arguments (i.e., prepositional objects).
+
 
 `obl` is a [noun](NOUN) (or noun phrase) functioning as a
-non-core (oblique) argument or adjunct.
+non-core (oblique) adjunct.
 This means that it functionally corresponds to an adverbial when it attaches to a verb, adjective or other adverb.
 
 ~~~ sdparse
@@ -44,5 +45,3 @@ obl(հանդիպեցի, սրճարանում)
 obl(I-met, in-summer)
 obl(I-met, in-the-cafe)
 ~~~
-
-See the [obl:arg]() subtype for the oblique arguments (i.e., prepositional objects).
