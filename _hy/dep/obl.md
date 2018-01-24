@@ -12,30 +12,22 @@ non-core (oblique) adjunct.
 This means that it functionally corresponds to an adverbial when it attaches to a verb, adjective or other adverb.
 
 ~~~ sdparse
-Ես հանդիպեցի նրան անցյալ չորեքշաբթի/NOUN[Case=Nom] ։ \n I met him last Thursday .
-obl(հանդիպեցի, չորեքշաբթի)
-obl(met, Thursday)
+Նա նստած էր քարին/NOUN[Case=Dat] ։ \n He was sitting on-a-stone .
+obl(նստած, քարին)
+obl(sitting, sitting on-a-stone)
 ~~~
+
+The `obl` relation can be further specified by the [case]():
 
 ~~~ sdparse
-Դուրս եկավ տնից/NOUN[Case=Abl] ։ \n He-went out from-the-house .
-obl(եկավ, տնից)
-obl(He-went, from-the-house)
+Նա նստած էր քարի/NOUN[Case=Dat] վրա/ADP[Case=Nom] ։ \n He was sitting on the-stone .
+obl(նստած, քարի)
+case:loc(ծառի, վրա)
+obl(sitting, the-stone)
+case:loc(the-tree, on)
 ~~~
 
-The `obl` relation can be further specified by the [case](). In conjunction with the case relation, it provides a uniform analysis for:
-
-*	variant forms with case, a preposition or a postposition:
-
-~~~ sdparse
-Նա նստած էր ծառի/NOUN[Case=Dat] տակ/ADP[Case=Nom] ։ \n He was sitting under the-tree .
-obl(նստած, ծառի)
-case:loc(ծառի, տակ)
-obl(sitting, the-tree)
-case:loc(the-tree, under)
-~~~
-
-*	`obl` is also used for temporal and locational nominal modifiers:
+`obl` is also used for temporal and locational nominal modifiers:
 
 ~~~ sdparse
 Ամռանը/NOUN[Case=Dat] հանդիպեցի/VERB նրան/PRON[Case=Dat] սրճարանում/NOUN[Case=Loc] ։ \n I-met him in-summer in-the-cafe .
