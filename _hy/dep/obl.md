@@ -45,3 +45,5 @@ obl(հանդիպեցի, սրճարանում)
 obl(I-met, in-summer)
 obl(I-met, in-the-cafe)
 ~~~
+
+For the agent of a passive verb see the subtype [obl:agent]().
