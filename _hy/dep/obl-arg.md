@@ -16,7 +16,7 @@ However, Universal Dependencies reserve the relation [obj]() (object) for the
 core object, and exclude oblique arguments. In Eastern Armenian UD (like in Czech treebanks), we treat bare nominals as core arguments and prepositional phrases as
 obliques. Within obliques, the `obl:arg` subtype is used for oblique arguments
 (i.e., prepositional objects), and the plain [obl]() is used for typical adjuncts (such as specifications of time, location,
-manner or instrument).
+manner or instrument, as bare nominals or variant forms with case, a preposition or a postposition).
 
 ~~~ sdparse
 Երեխաներին/NOUN[Case=Dat] նոր/ADJ հագուստ/NOUN[Case=Nom] գնեց/VERB ։ \n
@@ -31,6 +31,19 @@ obj(գնեց, հագուստ)
 amod(հագուստ, նոր)
 obl:arg(գնեց, Երեխաների)
 case(Երեխաների, համար)
+~~~
+
+~~~ sdparse
+Նրանք/PROPN հմտացել/VERB են/AUX այդ/DET աշխատանքում/NOUN[Case=Loc] ։ \n
+obj(հմտացել, աշխատանքում)
+det(աշխատանքում, այդ)
+~~~
+
+~~~ sdparse
+Նրանք/PROPN հմտացել/VERB են/AUX այդ/DET աշխատանքի/NOUN[Case=Dat] մեջ/ADP[Case=Nom] ։ \n
+obl:arg(հմտացել, աշխատանքի)
+case:loc(աշխատանքի, մեջ)
+det(աշխատանքում, այդ)
 ~~~
 
 ~~~ sdparse
