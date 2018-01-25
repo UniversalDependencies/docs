@@ -12,7 +12,7 @@ non-core (oblique) adjunct.
 This means that it functionally corresponds to an adverbial when it attaches to a verb, adjective or other adverb.
 
 ~~~ sdparse
-Նա նստած էր քարին/NOUN[Case=Dat] ։ \n He was sitting on-a-stone .
+Նա/PROPN նստած/ADJ էր/AUX քարին/NOUN[Case=Dat] ։ \n He was sitting on-a-stone .
 obl(նստած, քարին)
 obl(sitting, on-a-stone)
 ~~~
@@ -20,7 +20,7 @@ obl(sitting, on-a-stone)
 The `obl` relation can be further specified by the [case]():
 
 ~~~ sdparse
-Նա նստած էր քարի/NOUN[Case=Dat] վրա/ADP[Case=Nom] ։ \n He was sitting on the-stone .
+Նա/PROPN նստած/ADJ էր/AUX քարի/NOUN[Case=Dat] վրա/ADP[Case=Nom] ։ \n He was sitting on the-stone .
 obl(նստած, քարի)
 case:loc(քարի, վրա)
 obl(sitting, the-stone)
