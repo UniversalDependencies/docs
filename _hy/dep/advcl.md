@@ -27,6 +27,7 @@ advcl(շտապում, հասնի)
 advcl(rushed, arrive)
 ~~~
 
+=false
 ~~~ sdparse
 Ղրիմում/PROPN[Case=Loc] կատարած/ADJ[VerbForm=Part] իր/DET[Poss=Yes] շրջագայության/NOUN[Case=Dat] ժամանակ/NOUN[Case=Nom] առատ/ADJ[Degree=Pos] հունձ/NOUN[Case=Nom] էր/AUX ունեցել/VERB ։ \n
 obj(ունեցել, հունձ)
@@ -39,6 +40,7 @@ nmod:npmod(շրջագայության, ժամանակ)
 det:poss(շրջագայության, իր)
 ~~~
 
+=true
 ~~~ sdparse
 Ղրիմում/PROPN[Case=Loc] կատարած/ADJ[VerbForm=Part] իր/DET[Poss=Yes] շրջագայության/NOUN[Case=Dat] ժամանակ/NOUN[Case=Nom] առատ/ADJ[Degree=Pos] հունձ/NOUN[Case=Nom] էր/AUX ունեցել/VERB ։ \n
 obj(ունեցել, հունձ)
@@ -64,6 +66,7 @@ amod(շրջագայության, կատարած)
 obl(կատարած, Ղրիմում)
 ~~~
 
+=false
 ~~~ sdparse
 Ղրիմում/PROPN[Case=Loc] կատարած/ADJ[VerbForm=Part] իր/DET[Poss=Yes] շրջագայության/NOUN[Case=Dat] ժամանակ/NOUN[Case=Nom] առատ/ADJ[Degree=Pos] հունձ/NOUN[Case=Nom] էր/AUX ունեցել/VERB ։ \n
 obj(ունեցել, հունձ)
@@ -76,7 +79,7 @@ nmod:npmod(շրջագայության, ժամանակ)
 det:poss(շրջագայության, իր)
 ~~~
 
-= Armenian tradtional grammar 
+= Armenian traditional grammar 
 ~~~ sdparse
 Ղրիմում/PROPN[Case=Loc] կատարած/ADJ[VerbForm=Part] իր/DET[Poss=Yes] շրջագայության/NOUN[Case=Dat] ժամանակ/NOUN[Case=Nom] առատ/ADJ[Degree=Pos] հունձ/NOUN[Case=Nom] էր/AUX ունեցել/VERB ։ \n
 obj(ունեցել, հունձ)
