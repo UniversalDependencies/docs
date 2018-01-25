@@ -26,3 +26,15 @@ advcl(must, you-know)
 advcl(շտապում, հասնի)
 advcl(rushed, arrive)
 ~~~
+
+~~~ sdparse
+Ղրիմում/PROPN[Case=Loc] կատարած/ADJ[VerbForm=Part] իր/DET[Poss=Yes] շրջագայության/NOUN[Case=Dat] ժամանակ/NOUN[Case=Nom] առատ/ADJ[Degree=Pos] հունձ/NOUN[Case=Nom] էր/AUX ունեցել/VERB ։ \n
+nsubj(ունեցել, հունձ)
+amod(հունձ, առատ)
+aux(ունեցել, էր)
+advcl(ունեցել, կատարած)
+obl(կատարած, Ղրիմում)
+obl:npmod(կատարած, շրջագայության)
+nmod:npmod(շրջագայության, ժամանակ)
+det:poss(շրջագայության, իր)
+~~~
