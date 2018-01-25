@@ -14,7 +14,7 @@ This means that it functionally corresponds to an adverbial when it attaches to 
 ~~~ sdparse
 Նա նստած էր քարին/NOUN[Case=Dat] ։ \n He was sitting on-a-stone .
 obl(նստած, քարին)
-obl(sitting, sitting on-a-stone)
+obl(sitting, on-a-stone)
 ~~~
 
 The `obl` relation can be further specified by the [case]():
@@ -22,9 +22,9 @@ The `obl` relation can be further specified by the [case]():
 ~~~ sdparse
 Նա նստած էր քարի/NOUN[Case=Dat] վրա/ADP[Case=Nom] ։ \n He was sitting on the-stone .
 obl(նստած, քարի)
-case:loc(ծառի, վրա)
+case:loc(քարի, վրա)
 obl(sitting, the-stone)
-case:loc(the-tree, on)
+case:loc(the-stone, on)
 ~~~
 
 `obl` is also used for temporal and locational nominal modifiers:
