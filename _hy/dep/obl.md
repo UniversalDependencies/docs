@@ -42,8 +42,6 @@ obl:arg(գնեց, Երեխաների)
 case(Երեխաների, համար)
 ~~~
 
-Ablative, instrumental and locative case alternations are also possible:
-
 ~~~ sdparse
 Նրանք/PROPN հմտացել/VERB են/AUX այդ/DET աշխատանքում/NOUN[Case=Loc] ։ \n
 obj(հմտացել, աշխատանքում)
