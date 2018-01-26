@@ -7,7 +7,7 @@ udver: '2'
 
 The `obl` relation is used for oblique nominal arguments and adjuncts of verbs, adjectives or adverbs. We use also the [obl:arg]() for the oblique arguments (i.e., prepositional objects) and [obl:agent]() for the agent of a passive verbs.
 
-In Eastern Armenian `obl` is a [noun](NOUN) (or pronoun, noun phrase) functioning as a
+In Eastern Armenian `obl` is a [noun](NOUN) (or pronoun) functioning as a
 non-core (oblique) adjunct.
 This means that it functionally corresponds to an adverbial when it attaches to a verb, adjective or other adverb.
 
