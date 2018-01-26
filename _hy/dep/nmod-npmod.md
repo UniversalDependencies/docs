@@ -8,51 +8,51 @@ udver: '2'
 This relation is a subtype of the [nmod]() relation, which captures the cases where something syntactically a noun phrase is used as an nominal modifier in a sentence.
 
 ~~~ sdparse
-Նրա վերադարձը/NOUN[Case=Nom] հայրենիք/NOUN[Case=Nom] հետաձգվում էր ։ \n His return to-matherland.Nom was-beeing postponed .
+Նրա վերադարձը/NOUN[Case=Nom] հայրենիք/NOUN[Case=Nom] հետաձգվում էր ։ \n His return to-matherland was-beeing postponed .
 aux(հետաձգվում, էր)
 nsubj:pass(հետաձգվում, վերադարձը)
 nmod:npmod(վերադարձը, հայրենիք)
 det:poss(վերադարձը, Նրա)
 aux(postponed, was-beeing)
 nsubj:poss(postponed, return)
-nmod:npmod(return, to-matherland.Nom)
+nmod:npmod(return, to-matherland)
 det:pass(return, His)
 ~~~
 
 ~~~ sdparse
-Սպառազինությունների/NOUN[Case=Dat] վաճառքը/NOUN[Case=Nom] հակամարտության/NOUN[Case=Dat] կողմերին/NOUN[Case=Dat] արգելվեց ։ \n Arms sales to-the-parties.Dat of-conflict was-forbidden . 
+Սպառազինությունների/NOUN[Case=Dat] վաճառքը/NOUN[Case=Nom] հակամարտության/NOUN[Case=Dat] կողմերին/NOUN[Case=Dat] արգելվեց ։ \n Arms sales to-the-parties of-conflict was-forbidden . 
 nsubj:pass(արգելվեց, վաճառքը)
 nmod:npmod(վաճառքը, կողմերին)
 nmod:pass(կողմերին, հակամարտության)
 nmod:pass(վաճառքը, Սպառազինությունների)
 nsubj:pass(was-forbidden, sales)
-nmod:npmod(sales, to-the-parties.Dat)
-nmod:pass(to-the-parties.Dat, of-conflict)
+nmod:npmod(sales, to-the-parties)
+nmod:pass(to-the-parties, of-conflict)
 nmod:pass(sales, Arms)
 ~~~
 
 In conjunction with the [case]() relation, `nmod:npmod` provides a uniform analysis:
 
 ~~~ sdparse
-թշնամու դեմ պատերազմը \n the-war.Dat against the-enemy
+թշնամու դեմ պատերազմը \n the-war against the-enemy
 nmod:npmod(պատերազմը, թշնամու)
 case(թշնամու, դեմ)
-nmod:npmod(the-war.Dat, the-enemy)
+nmod:npmod(the-war, the-enemy)
 case(the-enemy, against)
 ~~~
 
 ~~~ sdparse
-սեղանի վրայի գիրքը \n the-book on.Dat the-table.Dat 
+սեղանի վրայի գիրքը \n the-book on the-table
 nmod:npmod(գիրքը, սեղանի)
 case:loc(սեղանի, վրայի)
-nmod:npmod(the-book, the-table.Dat)
-case:loc(the-table.Dat, on.Dat)
+nmod:npmod(the-book, the-table)
+case:loc(the-table, on)
 ~~~
 
 ~~~ sdparse
-այգու մոտի առուն \n the-brook near.Dat the-garden.Dat
+այգու մոտի առուն \n the-brook near the-garden
 nmod:obl(առուն, այգու)
 case:loc(այգու, մոտի)
-nmod:obl(the-brook, the-garden.Dat)
-case:loc(the-garden.Dat, near.Dat)
+nmod:obl(the-brook, the-garden)
+case:loc(the-garden, near)
 ~~~
