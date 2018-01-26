@@ -1,51 +1,51 @@
 ---
 layout: relation
-title:  'nmod:obl'
-shortdef: 'oblique nominal modifier'
+title:  'nmod:npmod'
+shortdef: 'noun phrases as nominal modifier'
 udver: '2'
 ---
 
-This relation is a subtype of the [nmod]() relation. `nmod:obl` noun phrases attached to nouns are in different [cases](Case), usually follow the modified noun and functionally correspond to a non-core (oblique) argument or adjunct.
+This relation is a subtype of the [nmod]() relation, which captures the cases where something syntactically a noun phrase is used as an nominal modifier in a sentence.
 
 ~~~ sdparse
 Նրա վերադարձը հայրենիք հետաձգվում էր ։ \n His return to-matherland.Nom was-beeing postponed .
 aux(հետաձգվում, էր)
 nsubj:pass(հետաձգվում, վերադարձը)
-nmod:obl(վերադարձը, հայրենիք)
+nmod:npmod(վերադարձը, հայրենիք)
 det:poss(վերադարձը, Նրա)
 aux(postponed, was-beeing)
 nsubj:poss(postponed, return)
-nmod:obl(return, to-matherland.Nom)
+nmod:npmod(return, to-matherland.Nom)
 det:pass(return, His)
 ~~~
 
 ~~~ sdparse
 Սպառազինությունների վաճառքը հակամարտության կողմերին արգելվեց ։ \n Arms sales to-the-parties.Dat of-conflict was-forbidden . 
 nsubj:pass(արգելվեց, վաճառքը)
-nmod:obl(վաճառքը, կողմերին)
+nmod:npmod(վաճառքը, կողմերին)
 nmod:pass(կողմերին, հակամարտության)
 nmod:pass(վաճառքը, Սպառազինությունների)
 nsubj:pass(was-forbidden, sales)
-nmod:obl(sales, to-the-parties.Dat)
+nmod:npmod(sales, to-the-parties.Dat)
 nmod:pass(to-the-parties.Dat, of-conflict)
 nmod:pass(sales, Arms)
 ~~~
 
-In conjunction with the [case]() relation, `nmod:obl` provides a uniform analysis for the oblique alternation:
+In conjunction with the [case]() relation, `nmod:npmod` provides a uniform analysis:
 
 ~~~ sdparse
 թշնամու դեմ պատերազմը \n the-war.Dat against the-enemy
-nmod:obl(պատերազմը, թշնամու)
+nmod:npmod(պատերազմը, թշնամու)
 case(թշնամու, դեմ)
-nmod:obl(the-war.Dat, the-enemy)
+nmod:npmod(the-war.Dat, the-enemy)
 case(the-enemy, against)
 ~~~
 
 ~~~ sdparse
 սեղանի վրայի գիրքը \n the-book on.Dat the-table.Dat 
-nmod:obl(գիրքը, սեղանի)
+nmod:npmod(գիրքը, սեղանի)
 case:loc(սեղանի, վրայի)
-nmod:obl(the-book, the-table.Dat)
+nmod:npmod(the-book, the-table.Dat)
 case:loc(the-table.Dat, on.Dat)
 ~~~
 
@@ -55,26 +55,4 @@ nmod:obl(առուն, այգու)
 case:loc(այգու, մոտի)
 nmod:obl(the-brook, the-garden.Dat)
 case:loc(the-garden.Dat, near.Dat)
-~~~
-
-~~~ sdparse
-Խնդիրը պարզվեց ընտրություններից երկու օր առաջ ։ \n The-problem was-solved two days before the-elections .
-case(ընտրություններից, առաջ)
-nummod(օր, երկու)
-obl(պարզվեց, ընտրություններից)
-nmod:obl(ընտրություններից, օր)
-case(the-elections, before)
-nummod(days, two)
-obl(was-solved, the-elections)
-nmod:obl(the-elections, days)
-~~~
-
-~~~ sdparse
-Բոթը հասավ պսակադրությունից ժամ առաջ ։ \n The-bad-news was-heard an-hour before the-wedding-ceremony .
-case(ժամ, առաջ)
-obl(հասավ, ժամ)
-nmod:obl(ժամ, պսակադրությունից)
-case(an-hour, before)
-obl(was-heard, an-hour)
-nmod:obl(an-hour, the-wedding-ceremony)
 ~~~
