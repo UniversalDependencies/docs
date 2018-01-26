@@ -55,20 +55,6 @@ case:loc(աշխատանքի, մեջ)
 det(աշխատանքի, այդ)
 ~~~
 
-~~~ sdparse
-Նա/PROPN նստած/ADJ էր/AUX քարին/NOUN[Case=Dat] ։ \n He was sitting on-a-stone .
-obl(նստած, քարին)
-obl(sitting, on-a-stone)
-~~~
-
-~~~ sdparse
-Նա/PROPN նստած/ADJ էր/AUX քարի/NOUN[Case=Dat] վրա/ADP[Case=Nom] ։ \n He was sitting on the-stone .
-obl(նստած, քարի)
-case:loc(քարի, վրա)
-obl(sitting, the-stone)
-case:loc(the-stone, on)
-~~~
-
 * `obl` is also used for temporal and locational nominal modifiers as bare nominals or something syntactically a noun phrase in a sentence:
 
 ~~~ sdparse
