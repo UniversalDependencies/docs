@@ -34,7 +34,7 @@ obl(to-go, during-the-holidays)
 ~~~
 
 ~~~ sdparse
-Մոտ հարյուր մարդ եկավ խնջույքի ։ \n About 100 people came to-the-party .
+Մոտ/ADV հարյուր/NUM մարդ/NOUN եկավ/VERB խնջույքի/NOUN ։ \n About 100 people came to-the-party .
 advmod(հարյուր, Մոտ)
 advmod(100, About)
 ~~~
