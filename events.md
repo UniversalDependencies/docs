@@ -9,7 +9,7 @@ udver: '2'
 ## Upcoming events
 
   * 2nd Workshop on Universal Dependencies (UDW) (more soon)
-  * 2nd ConLL shared task on UD parsing (more soon)
+  * [2nd ConLL shared task on UD parsing](http://universaldependencies.org/conll18/)
 
 ## 2017
 
