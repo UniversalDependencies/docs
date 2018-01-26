@@ -9,11 +9,11 @@ The `nmod` relation is used for nominal dependents of another noun or noun phras
 
 * `nmod`: noun modifier functionally corresponds to an attribute,
 * [nmod:poss](): noun modifier functionally corresponds to possessive complement,
-* [nmod:obl](): noun modifier functionally corresponds to a non-core (oblique) argument or adjunct.
+* [nmod:npmod](): noun phrase as nominal modifier.
 
 In Armenian `nmod` is used:
 
-* for noun-noun modification with an attributive or associative relations between them: `nmod` noun phrases attached to nouns are usually in the nominative [Case]() and precede the modified noun. There are alternations in ablative or instrumental cases.
+* for noun-noun modification with an attributive or associative relations between them: `nmod` nouns attached to nouns are usually in the nominative [Case]() and precede the modified noun. There are alternations in ablative or instrumental cases.
 
 ~~~ sdparse
 քամի եղանակ \n wind.Nom weather
