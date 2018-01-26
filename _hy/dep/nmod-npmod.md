@@ -1,14 +1,14 @@
 ---
 layout: relation
 title:  'nmod:npmod'
-shortdef: 'noun phrases as nominal modifier'
+shortdef: 'noun phrase as nominal modifier'
 udver: '2'
 ---
 
 This relation is a subtype of the [nmod]() relation, which captures the cases where something syntactically a noun phrase is used as an nominal modifier in a sentence.
 
 ~~~ sdparse
-Նրա վերադարձը հայրենիք հետաձգվում էր ։ \n His return to-matherland.Nom was-beeing postponed .
+Նրա վերադարձը/NOUN[Case=Nom] հայրենիք/NOUN[Case=Nom] հետաձգվում էր ։ \n His return to-matherland.Nom was-beeing postponed .
 aux(հետաձգվում, էր)
 nsubj:pass(հետաձգվում, վերադարձը)
 nmod:npmod(վերադարձը, հայրենիք)
@@ -20,7 +20,7 @@ det:pass(return, His)
 ~~~
 
 ~~~ sdparse
-Սպառազինությունների վաճառքը հակամարտության կողմերին արգելվեց ։ \n Arms sales to-the-parties.Dat of-conflict was-forbidden . 
+Սպառազինությունների/NOUN[Case=Dat] վաճառքը/NOUN[Case=Nom] հակամարտության/NOUN[Case=Dat] կողմերին/NOUN[Case=Dat] արգելվեց ։ \n Arms sales to-the-parties.Dat of-conflict was-forbidden . 
 nsubj:pass(արգելվեց, վաճառքը)
 nmod:npmod(վաճառքը, կողմերին)
 nmod:pass(կողմերին, հակամարտության)
