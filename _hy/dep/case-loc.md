@@ -17,12 +17,16 @@ case:loc(the-tavern, by)
 
 ~~~ sdparse
 Վերցրեց գիրքը սեղանի/NOUN[Case=Dat] վրայից/ADP[Case=Abl] ։ \n He-took the-book from-on the-table .
+obl(Վերցրեց, սեղանի)
+obl(He-took, the-table)
 case:loc(սեղանի, վրայից)
 case:loc(the-table, from-on)
 ~~~
 
 ~~~ sdparse
 Ճանապարհն անցնում էր դաշտերի/NOUN[Case=Dat] միջով/ADP[Case=Ins] ։ \n The-road passed through the-fields .
+obl(անցնում, դաշտերի)
+obl(passed, the-fields)
 case:loc(դաշտերի, միջով)
 case:loc(the-fields, through)
 ~~~
