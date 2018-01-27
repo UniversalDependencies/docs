@@ -16,31 +16,31 @@ In Armenian `nmod` is used:
 * for noun-noun modification with an attributive or associative relations between them: `nmod` nouns attached to nouns are usually in the nominative [Case]() and precede the modified noun. There are alternations in ablative or instrumental cases.
 
 ~~~ sdparse
-քամի եղանակ \n wind.Nom weather
+քամի/NOUN[Case=Nom] եղանակ \n wind weather
 nmod(եղանակ, քամի)
-nmod(weather, wind.Nom)
+nmod(weather, wind)
 ~~~
 
 ~~~ sdparse
-ռետինից գնդակ \n rubber.Abl ball
+ռետինից/NOUN[Case=Abl] գնդակ \n rubber ball
 nmod(գնդակ, ռետինից)
-nmod(ball, rubber.Abl)
+nmod(ball, rubber)
 ~~~
 
 ~~~ sdparse
-տարիքով մարդ \n age.Ins man
+տարիքով/NOUN[Case=Ins] մարդ \n age man
 nmod(մարդ, տարիքով)
-nmod(age.Ins, man)
+nmod(age, man)
 ~~~
 
 Standard `nmod` relation is used even when things are being counted in groups (with “massifiers”):
 
 ~~~ sdparse
-երկու բաժակ ջուր \n two cup.Nom water
+երկու բաժակ/NOUN[Case=Nom] ջուր ուզեց \n two cup water
 nmod(ջուր, բաժակ)
 nummod(բաժակ, երկու)
-nmod(water, cup.Nom)
-nummod(cup.Nom, two)
+nmod(water, cup)
+nummod(cup, two)
 ~~~
 
 The `nmod` relation is further specified by the [case]() relation (associative modfication).
@@ -68,13 +68,7 @@ Note, that so-called “bare noun compounds” (e.g. _թղթակից անդամ&
 * for an explicative attribute of a noun: a typical example is a title attached to a name of a person. The relation is similar to the [flat]() relation that links the first and the last name, but it is not labeled `flat` because the title is not part of the name:
 
 ~~~ sdparse
-Արշակ թագավորը \n King Arshak 
-nmod(թագավորը, Արշակ)
-nmod(King, Arshak)
-~~~
-
-~~~ sdparse
-առաջին նախագահ Լևոն Տեր - Պետրոսյանը \n the-first president Levon Ter - Petrosyan 
+առաջին նախագահ/NOUN[Case=Nom] Լևոն Տեր - Պետրոսյանը \n the-first president Levon Ter - Petrosyan 
 amod(նախագահ, առաջին)
 nmod(Լևոն, նախագահ)
 flat(Լևոն, Պետրոսյանը)
