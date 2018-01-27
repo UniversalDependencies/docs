@@ -40,7 +40,7 @@ amod(ծոց, Պարսից)
 amod(Gulf, Persian)
 ~~~
 
-Note, that the titles/honorifics, when immediately following the first noun, are analyzed using the `flat` relation, because the title is a part of the name: (see also [nmod]() and [apposition](appos)): 
+Note, that the titles/honorifics, when immediately following the first noun, are analyzed using the `flat` relation. They are treated as a part of the names: (see also [nmod]() and [apposition](appos)): 
 
 ~~~ sdparse
 Խոսրով Գ Կոտակ \n Khosrov III the-Small
