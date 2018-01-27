@@ -23,12 +23,12 @@ det:pass(return, His)
 Սպառազինությունների/NOUN[Case=Dat] վաճառքը/NOUN[Case=Nom] հակամարտության/NOUN[Case=Dat] կողմերին/NOUN[Case=Dat] արգելվեց ։ \n Arms sales to-the-parties of-conflict was-forbidden . 
 nsubj:pass(արգելվեց, վաճառքը)
 nmod:npmod(վաճառքը, կողմերին)
-nmod:pass(կողմերին, հակամարտության)
-nmod:pass(վաճառքը, Սպառազինությունների)
+nmod:poss(կողմերին, հակամարտության)
+nmod:poss(վաճառքը, Սպառազինությունների)
 nsubj:pass(was-forbidden, sales)
 nmod:npmod(sales, to-the-parties)
-nmod:pass(to-the-parties, of-conflict)
-nmod:pass(sales, Arms)
+nmod:poss(to-the-parties, of-conflict)
+nmod:poss(sales, Arms)
 ~~~
 
 In conjunction with the [case]() relation, `nmod:npmod` provides a uniform analysis:
