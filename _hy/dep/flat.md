@@ -23,14 +23,6 @@ nmod:poss(University, Yerevan)
 ~~~
 
 ~~~ sdparse
-Խոսրով Գ Կոտակ \n Khosrov III the-Small
-flat(Խոսրով, Կոտակ)
-flat(Khosrov, the-Small)
-flat(Խոսրով, Գ)
-flat(Khosrov, III)
-~~~
-
-~~~ sdparse
 Նյու Յորք \n New York
 flat(Նյու, Յորք)
 flat(New, York)
@@ -46,6 +38,40 @@ amod(Lake, Van)
 Պարսից/ADJ ծոց/NOUN \n Persian Gulf
 amod(ծոց, Պարսից)
 amod(Gulf, Persian)
+~~~
+
+Note, that the titles/honorifics, when immediately following the first noun, are also analyzed using the `flat` relation (see also [nmod]() and [apposition]()): 
+
+~~~ sdparse
+Խոսրով Գ Կոտակ \n Khosrov III the-Small
+flat(Խոսրով, Կոտակ)
+flat(Khosrov, the-Small)
+flat(Խոսրով, Գ)
+flat(Khosrov, III)
+~~~
+
+~~~ sdparse
+Արշակ թագավորը \n King Arshak 
+flat(Արշակ թագավորը)
+flat(King, Arshak)
+~~~
+
+~~~ sdparse
+Զարեհ էֆենդին \n Zareh Efendi 
+flat(Զարեհ, էֆենդին)
+flat(Zareh, Efendi)
+~~~
+
+~~~ sdparse
+Անդրանիկ փաշան \n Andranik Pasha
+flat(Անդրանիկ, փաշան)
+flat(Andranik Pasha)
+~~~
+
+~~~ sdparse
+Մարկոս աղան \n Markos Agha
+flat(Մարկոս, աղան)
+flat(Markos, Agha)
 ~~~
 
 ## Dates and Complex Numerals
