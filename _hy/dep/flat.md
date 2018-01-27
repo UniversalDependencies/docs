@@ -40,7 +40,7 @@ amod(ծոց, Պարսից)
 amod(Gulf, Persian)
 ~~~
 
-Note, that the titles/honorifics, when immediately following the first noun, are also analyzed using the `flat` relation (see also [nmod]() and [apposition]()): 
+Note, that the titles/honorifics, when immediately following the first noun, are also analyzed using the `flat` relation (see also [nmod]() and [apposition](appos)): 
 
 ~~~ sdparse
 Խոսրով Գ Կոտակ \n Khosrov III the-Small
@@ -52,7 +52,7 @@ flat(Khosrov, III)
 
 ~~~ sdparse
 Արշակ թագավորը \n King Arshak 
-flat(Արշակ թագավորը)
+flat(Արշակ, թագավորը)
 flat(King, Arshak)
 ~~~
 
@@ -65,7 +65,7 @@ flat(Zareh, Efendi)
 ~~~ sdparse
 Անդրանիկ փաշան \n Andranik Pasha
 flat(Անդրանիկ, փաշան)
-flat(Andranik Pasha)
+flat(Andranik, Pasha)
 ~~~
 
 ~~~ sdparse
