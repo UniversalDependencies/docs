@@ -18,7 +18,7 @@ The syntactic annotation in the Eastern Armenian UD treebank follows the [genera
 * _csubj:pass_ for clausal subjects of passive verbs
 * _det:poss_ for possessive determiners
 * _iobj:agent_ for agentive indirect objects of causative verbs
-* _nmod:obl_ for oblique modifiers
+* _nmod:npmod_ for noun phrases
 * _nmod:poss_ for possessive modifiers
 * _nsubj:caus_ for nominal subjects of causative verbs
 * _nsubj:pass_ for nominal subjects of passive verbs
