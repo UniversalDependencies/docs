@@ -46,7 +46,7 @@ Personal and some demonstrative pronouns distinguish between `Case=Gen` and `Cas
 
 * singular nominative _դպրոց&nbsp;_ “school”, dative _դպրոցի(ն),&nbsp;_ ablativ _դպրոցից,&nbsp;_ instrumental _դպրոցով,&nbsp;_ locative _դպրոցում_
 * singular nominative _ժամանակ&nbsp;_ “time”, dative _ժամանակի(ն), ժամանակվա(ն),&nbsp;_ ablativ _ժամանակից, ժամանակվանից,&nbsp;_ instrumental _ժամանակով,&nbsp;_ locative _ժամանակում_
-* singular nominative _արյուն,&nbsp;_ “blood”, dative _արյան(ը),&nbsp;_ ablativ _արյունից,&nbsp;_ instrumental _արյունով, արյամբ&nbsp;_
+* singular nominative _արյուն&nbsp;_ “blood”, dative _արյան(ը),&nbsp;_ ablativ _արյունից,&nbsp;_ instrumental _արյունով, արյամբ&nbsp;_
 * singular nominative _մայր&nbsp;_ “mother”, dative _մոր(ը),&nbsp;_ ablativ _մորից,&nbsp;_ instrumental _մորով_
 
 ### <a name="Nom">`Nom`</a>: nominative
@@ -66,7 +66,7 @@ We not recognizing the genitive except for possessive personal, some demonstrati
 This is the word form often used for indirect objects of verbs.
 
 In Armenian this form is used also for cases when the noun phrase somehow
-belongs to its governor (morphological, adnominal dative), see above.
+belongs to its governor (adnominal dative) or depends on the verb (adverbal dative), see above.
 
 #### Examples
 

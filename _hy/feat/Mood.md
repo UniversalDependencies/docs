@@ -86,7 +86,7 @@ otherwise uncertain. In some contexts the mood expresses also the desire that th
 
 The necessitative mood expresses necessity and corresponds to the modal verbs “must, should, have to”.
 
-Armenian has present and imperfect necessitative, both formed periphrastically using the special mood particles _<b>պիտի</b>_ or _<b>պետք է</b>_. The content verb expresses person, number, tense, aspect, voice and is in subjunctive mood.
+Armenian has present and imperfect necessitative, both formed periphrastically using the mood particle _<b>պիտի</b>_ or the impersonal predicative _<b>պետք է</b>_. The content verb expresses person, number, tense, aspect, voice and is in subjunctive mood.
 
 The mood particle _<b>պիտի</b>_ is historically present tense of the verb _<b>պիտիմ</b>_ (`Ind`, `Sing`, `Person=3`) “to by necessary, useful”. The impersonal predicative _<b>պետք է</b>_ “lit: is needed” accompanied with subjunctive finite form of verbs is used as a variant of mood particle. This expresses compulsary, oblicative necessity.
 

@@ -15,6 +15,9 @@ baseurl: ""
 gems:
   - jekyll-redirect-from
 
+liquid:
+  error_mode: warn
+
 collections:
 #
 # Universal
@@ -147,6 +150,12 @@ collections:
   yue:
     output: true
   zh:
+    output: true
+  myv:
+    output: true
+  ka:
+    output: true
+  yo:
     output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 

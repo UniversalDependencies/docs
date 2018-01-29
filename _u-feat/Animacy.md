@@ -31,8 +31,8 @@ follow the two-feature approach used in Multext-East (many languages)
 because it is safer.
 
 Polish is special in that it also distinguishes grammatically human
-vs. non-human animates. It can be demonstrated by inflection of the
-example word _który_ "which" (boldface forms differ from the middle
+vs. non-human animates. It can be demonstrated by inflection of words with
+adjectival inflection, for example, the word _który_ "which" (boldface forms differ from the middle
 row):
 
 |------------------------------------------------------------------------------------------------------------------------------------------------|

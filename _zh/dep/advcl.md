@@ -79,7 +79,7 @@ If the adverbial is non-clausal, use [advmod]() instead.
 
 ~~~
 
-Purpose clauses typically come after the main clause and may be introduced by function words such as 來 _lái_ (4), 去 _qù_, 以 _yǐ_.
+Purpose clauses typically come after the main clause and may be introduced by function words such as 來 _lái_ (4), 去 _qù_, 以 _yǐ_.
 
 ~~~ conllu
 # visual-style 1 7 advcl	color:blue

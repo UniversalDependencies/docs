@@ -80,7 +80,7 @@ Note that in Chinese resultative compounds the second verb can be an adjective, 
 
 ### Phase compounds
 
-Phase compounds involve a second verb that adds aspect or telicity to the first verb. However, these second verbs have not fully grammaticalized and syntactically behave like the second verb in resultative compounds, and therefore are not considered the same as the postverbal aspect markers tagged as AUX.
+Phase compounds involve a second verb that adds aspect or telicity to the first verb. However, these second verbs have not fully grammaticalized and syntactically behave like the second verb in resultative compounds, and therefore are not considered the same as the postverbal aspect markers tagged as [AUX]().
 
 These verbs include (non-neutral-tone versions of): 着 / _zháo_ "touched, got at, successful after an attempt", 到 _dào_ "arrive, reach", 見 _jiàn_ "see", 完 _wán_ "be complete, be finished", 過 _guò_ "pass, cross" (see Chao 1968:446-450 for details). 
 

@@ -5,26 +5,63 @@ shortdef: 'compound'
 udver: '2'
 ---
 
-`compound` is one of the relations in UD for compounding in UD (together with [flat]() and [fixed]()). `compound` is used for:
+The `compound` relation is one of three relations for multiword expressions (MWEs) (the other two being [fixed]() and [flat]()). It is used:
 
-* numbers
-
-The most left numeral is the head, the other numerals are attached as its modifiers.
+- for any kind of X<sup>0</sup> compounding: bare noun compounds (e.g., *phone book*), but also
+adjective/adverb compounds.
 
 ~~~ sdparse
-Սա առավելագույնը հինգ հազար դրամ կարժենա ։ \n It will cost at-most 5 thousand drams .
-nummod(դրամ, հինգ)
-nummod(drams, 5)
-compound(հինգ, հազար-4)
-compound(5, thousand-14)
+տուն - թանգարան \n house - museum
+compound(տուն, թանգարան)
+compound(house, museum)
 ~~~
 
 ~~~ sdparse
-Սա առավելագույնը հարյուր հիսունհինգ հազար դրամ կարժենա ։ \n It will cost at-most hundred fifty-five thousand drams .
-nummod(դրամ, հարյուր)
-nummod(drams, hundred)
-compound(հարյուր, հիսունհինգ-4)
-compound(hundred, fifty-five)
-compound(հիսունհինգ, հազար-5)
-compound(fifty-five, thousand)
+գեներալ - լեյտենանտ \n general - lieutenant
+compound(գեներալ, լեյտենանտ)
+compound(general, lieutenant)
 ~~~
+
+~~~ sdparse
+թղթակից անդամ \n associate member
+compound(թղթակից, անդամ)
+compound(associate, member)
+~~~
+
+~~~ sdparse
+երկար - բարակ \n long - thin
+compound(երկար, բարակ)
+compound(long, thin)
+~~~
+
+- for fraction or range [numbers](NumType)—contrast with [flat]().
+
+~~~ sdparse
+երեք քառորդ բաժին հաց \n three quarters pieces of-bread
+nmod(հաց, բաժին)
+nmod(of-bread, pieces)
+nummod(բաժին, երեք)
+nummod(pieces, three)
+compound(երեք, քառորդ)
+compound(three, quarters)
+~~~
+
+~~~ sdparse
+չորս - հինգ ժամ \n four - five hours
+compound(չորս, հինգ)
+compound(four, five)
+punct(հինգ, --2)
+punct(five, --7)
+nummod(ժամ, չորս)
+nummod(hours, four)
+~~~
+
+~~~ sdparse
+տասից տասնհինգ ժամ \n from-ten to-fifteen hours
+compound(տասից, տասնհինգ)
+compound(from-ten, to-fifteen)
+nummod(ժամ, տասից)
+nummod(hours, from-ten)
+~~~
+
+`compound` in Armenian is used also for serial verbs (with the subtype [compound:svc]()), for light verbs (with the subtype [compound:lvc]()) and for a range of reduplicated forms (with the subtype [compound:redup]()).

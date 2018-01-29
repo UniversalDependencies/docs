@@ -28,6 +28,10 @@ Weather verbs are 0-place predicates like "rain" and "snow", which typically tak
 det regnar \n it rains
 expl(regnar, det)
 ~~~
+~~~ sdparse
+het regent \n it rains
+nsubj(regent, het)
+~~~
 
 "Intrinsically impersonal verbs" encompasses a more general category of verbs, not only 0-place predicates but also 1-place predicates, that typically take an expletive pronoun as their subject, without any parallelism to a construction with a full subject. This is the case in French for the deficient verb "falloir" (be necessary), which has one semantic argument, realized as a direct object. In the current French treebanks, all preverbal explective "il" clitics are treated as plain subjects (nsubj).
 
@@ -42,6 +46,26 @@ obj(faut,recrutements)
 ~~~
 
 **Joakim:** Could you add the dependencies to this example? In particular, what relation is assigned to "recrutements"?
+
+It seems that Dutch has a few comparable cases as well (i.e. non-wheather verbs that nevertheless can only have ´het' as subject:
+
+~~~ sdparse
+het ontbreekt aan een langere speler \n it lacks of a longer player
+nsubj(ontbreekt,het)
+obl(ontbreekt,speler)
+~~~
+~~~ sdparse
+het gaat hen voor de wind \n it goes them for the wind (well)
+nsubj(gaat,het)
+iobj(gaat,hen)
+obl(gaat,wind)
+~~~
+~~~ sdparse
+nog slechter verging het Ehlvest
+nsubj(slechter,het)
+iobj(slechter,Ehlvest)
+cop(slechter,verging)
+~~~
 
 Finnish is a partial pro-drop language, where subject pronouns can be dropped in the first and second person, but not the third. However, weather verbs do not take overt subjects except optionally in spoken language.
 
@@ -68,6 +92,28 @@ obl(sitter, mattan)
 ~~~
 
 The Swedish and Norwegian UD treebanks treat the dummy pronoun as an expletive and analyzes the indefinite noun phrase as `nsubj` to capture the parallelism to the simple intransitive sentence. However, there are good arguments that the indefinite noun phrase syntactically behaves as an object in the second sentence. The Dutch UD treebank also treats the indefinite noun phrase as `nsubj` (and it seems to behave like a subject in Dutch) but analyzes the putative expletive as `advmod` (which is a pronominal adverb similar to English "there"). 
+
+~~~ sdparse
+er is overal grote armoede \n there is everywhere great poverty
+advmod(is,er)
+nsubj(is,armoede)
+~~~
+~~~ sdparse
+er bestaan echter allerlei hindernissen \n there exist however various obstacles
+advmod(bestaan,er)
+nsubj(bestaan,hindernissen)
+~~~
+~~~ sdparse
+er vindt regelmatig overleg plaats \n there takes regularly meetings place
+advmod(vindt,er)
+nsubj(vindt,overleg)
+compound:prt(vindt,plaats)
+~~~
+~~~ sdparse
+er ontstaan overal nieuwe diensten \n there appear everywhere new services
+advmod(ontstaan,er)
+nsubj(ontstaan,diensten)
+~~~
 
 For French, the traditionally called "impersonal construction" encompasses various cases of extraposed subjects, including indefinite noun phrases, possible for some intransitive verbs (those taking "être" as auxiliary, but not only). There too are arguments to view the postverbal indefinite NP as a direct object (in particular, it is pronominalized using the quantitative "en" clitic). 
 
@@ -161,6 +207,12 @@ expl(seems, it)
 * that she came seems
 ~~~
 
+~~~ sdparse
+het lukte Field om twee andere fabrikanten te vinden \n it succeeded Field to find 2 other manufacturers
+csubj(lukte,vinden)
+expl(lukte,het)
+~~~
+
 For French, the extraposition of a (finite or infinitival) subject clause occurs both impersonal construction (with an "il" nominative clitic) and in the more general right dislocation (with a "ça" pronoun, not necessarily subject, see below)
 
 ####French right dislocation of a subject clause ("il" not possible):
@@ -197,10 +249,11 @@ The same type of construction is found in Finnish, but only Finnish-FTB uses `ex
 
 ## Object Expletives
 
-Expletives in object position have been assumed in (at least) two types of constructions:
+Expletives in object position have been assumed in (at least) three types of constructions:
 
 1. Extraposed complement clauses
 2. Inherent reflexives
+3. Verbs with an inherent expletive (object) argument
 
 Extraposed complement clauses, with or without a corresponding expletive pronoun, typically occur together with a predicative `xcomp` as in the following examples.
 
@@ -227,6 +280,23 @@ expl(kände, sig)
 ~~~
 ~~~ sdparse
 *hon kände honom sjuk \n she felt him sick
+~~~
+
+Pullum and Postal argue that English has expletives in subcategorized positions (not counting the subject). They present evidence for expletive objects and expletive arguments of prepositions. Dutch has at least expletive objects as well (but does not currently mark these as such):
+~~~ sdparse
+Agalev doet het goed  \n Agalev does (it) well
+nsubj(doet,Agalev)
+obj(doet,het)
+advmod(doet,goed)
+~~~
+~~~ sdparse
+Men heeft het over hetzelfde \n One has it about the same -- One talks about the same
+~~~
+~~~ sdparse
+Göring moest het opnemen tegen een groep Sopwidthjagers \n Göring had it compete agains a group hunters -- Göring had to battle with a group of hunters
+~~~
+~~~ sdparse
+De brug begaf het \n The bridge collapsed it
 ~~~
 
 ## Right dislocation (≠ expletive?)
@@ -305,6 +375,13 @@ The following table summarizes the different relations that would be used for di
 
 Out of 102 treebanks from 60 languages in UD version 2.1: 39 treebanks contain expletives (the expl relation)
 
+Note: Czech is not listed since Czech ONLY uses expl with language-specific extension, expl:pv and expl:pass, and not expl as such (bug in extraction code here?). Please see:
+
+  * http://universaldependencies.org/treebanks/cs/index.html#reflexive-verbs
+  * http://universaldependencies.org/cs/dep/expl-pv.html
+  * http://universaldependencies.org/cs/dep/expl-pass.html
+
+
 The 39 treebanks are from the following 20 languages:
  * Arabic (only in the PUD treebank, influence from English?)
  * Bulgarian
@@ -339,10 +416,53 @@ The 39 treebanks are from the following 20 languages:
 8 occurrences of `expl` in UD Arabic-PUD. Not clear whether they are errors or not (under investigation).
 
 ### Bulgarian
-  * В дискусията, предполагам, ще се засегнат важни въпроси. (expletive "се" is a reflexive pronoun, transl. "In the discussion, I suppose, will affect important issues".)
+
+There seem to be two cases, reflexive verbs and doubled clitics.
+
+~~~ conllu
+# visual-style	4	bgColor:lightgreen
+# hittoken:	3	те	аз	PRON	Ppetas2	Case=Acc|Number=Sing|Person=2|PronType=Prs	4	expl	_	_SpaceAfter=No
+1	Аз	аз	PRON	Ppe-os1	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	тебе	аз	PRON	Ppelas2	Case=Acc|Number=Sing|Person=2|PronType=Prs	4	obj	_	_
+3	те	аз	PRON	Ppetas2	Case=Acc|Number=Sing|Person=2|PronType=Prs	4	expl	_	_
+4	слушам	слушам	VERB	Vpitf-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	punct	_	4	punct	_	_ 
+~~~ 
+
+ * Аз тебе те слушам ("I hear you")
+
+# visual-style	5	bgColor:lightgreen
+# hittoken:	5	шегувам	шегувам-се	VERB	Vpiif-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	SpaceAfter=No
+1	Каза	кажа	VERB	Vpptf-o3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	да	да	AUX	Tx	_	5	aux	_	_
+3	не	не	PART	Tn	Polarity=Neg	5	advmod	_	_
+4	се	се	PRON	Ppxta	Case=Acc|PronType=Prs|Reflex=Yes	5	expl	_	_
+5	шегувам	шегувам-се	VERB	Vpiif-r1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	1	ccomp	_	SpaceAfter=No
+6	.	.	PUNCT	punct	_	1	punct	_	_
+
+ * Каза да не се шегувам  ("He told me not to joke")
 
 ### Croatian
   * Seb Bytyci, izvršni ravnatelj Instituta za balkansku politiku, slaže se s time. (expletive "se" is a reflexive pronoun, transl. "Seb Bytyci, executive director of the Institute for Balkan Policy, agrees.")
+  
+### Czech
+
+#### Weather verbs
+  * podívej se, ono (= personal pronoun, 3rd pers. sg. nom.) prší. Now: nsubj(prší,ono) or discourse(prší,ono) (no example found in PDT, depends on original annotation of ono in PDT)
+
+#### Extraposition of Nominal Subjects
+  * 'tam' (= there) always referential- Again, pers. pronoun (this time inflected, agreement with nsubj) can be used: Ona je ta kočka na podložce (a ne na křesle)' (she-nom.sg.fem. is that cat-nom.sg.fem on a-mat (and not on chair)'. Now: discourse (cannot be nsubj, since that would be 2nd subject).
+  
+#### Extraposition of Clausal Subjects
+  * Czech is similar to Polish. It does not necessarily imply "extraposition" (which is not really an interesting notion in an FWO language). 
+  * Examples: To, že je kočka na podložce, mě překvapuje (i.e. like the Polish example above), from PDT (and current deprel in UD): To.nsubj, že byl.acl díky OSN v New Yorku, bylo samozřejmě velkou výhodou.root . ('It.nsubj, that he-was.acl thanks-to UN in New York, was of-course big advantage.root .'); výhodou.root je to.nsubj, že šifrovat může.acl kdokoli ('advantage.root.case=instrumental is it(that).nsubj, that encrypt.xcomp.inf can.acl anyone'. As Adam says, it is too complicated to see why to use "to" here (discourse/information structure reasons, perhaps), since it is always syntactically OK to leave it out (perhaps an argument for making it "expl," because then the "acl" would be "csubj" with or without "to": Je evidentní.root, že lékař porušil.csubj řád ('Is clear.root, that doctor broke.csubj rules') as well as (after this change to "expl"): Je evidentní.root to.expl, že lékař porušil.csubj řád).
+
+#### Raising Verbs
+  * (a) ?[that the cat is on the mat]Y seems
+  * (b) [it]X seems [that the cat is on the mat]Y
+  * (c) [it]X seems [like the cat is on the mat]Y
+  * (d) [the cat]Y1 seems [to be on the mat]Y2
+  * In theory, (4a) is possible due to FWO, but no expl here. (4b) does not require it in Czech, but the personal pronoun in neuter ('ono') can be used here (even though not syntactically required) and perhaps expl would be the appropriate reprel. (4c) would best be exemplified with ono to vypadá, jako by kočka byla na rohožce) 'it.expl it.nsubj looks, like would cat were.advcl on the-mat'), where 'ono' (pers. pron 3rd pers neuter) can be used (not required) and it would best get expl, since 'to' (dem. pronoun 3rd pers. neuter, agreement with verb) is nsubj. Currently, the advcl (dependent of the verb 'looks') might actually now be getting xcomp (since in PDT, it is marked as complementation).
 
 ### Danish
   * Så skal der rafles om husholdningspengene. (expletive "der", transl. "So, there will be discussions about household money")
@@ -385,13 +505,76 @@ French exhibits all of the prototypical constructions including some special var
 * UD_French-PUD: The `expl` relation seems to be overused and is found also in cases where a pronoun is clearly referential (perhaps as a result of automatic parsing without full manual validation).
 
 ### Galician
-  * Ás cinco remátase de traballar. (expletive clitic "-se", transl. "At five it is over to work")
+The `expl` relation is only used in Galician-TreeGal, never in Galician. The most frequen case involves the clitic -se in what I think are inherently reflexive verbs. 
+
+~~~ conllu
+# visual-style	4	bgColor:lightgreen
+# hittoken:	5	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	4	expl	_	_
+1	A	a	ADP	P	AdpType=Prep	3	case	_	_
+2	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	cinco	cinco	NUM	Ncnfp	Gender=Fem|Number=Plur|NumType=Card	4	obl	_	_
+4	remata	rematar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	4	expl	_	_
+6	de	de	ADP	P	AdpType=Prep	7	mark	_	_
+7	traballar	traballar	VERB	V0f000	VerbForm=Inf	4	xcomp	_	SpaceAfter=No
+8	"	"	PUNCT	Q"	_	4	punct	_	SpaceAfter=No
+9	.	.	PUNCT	Q.	_	4	punct	_	_
+~~~
+
+It is also used for clitic doubling.
+
+~~~ conllu
+# visual-style	12	bgColor:lightgreen
+# hittoken:	13	lle	lle	PRON	Rad3ms	Case=Dat|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	expl	_	_
+1	Os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
+2	topónimos	topónimo	NOUN	Scmp	Gender=Masc|Number=Plur	3	nsubj	_	_
+3	terán	ter	VERB	Vfi30p	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	Q,	_	3	punct	_	_
+5	como	como	ADV	Wr	PronType=Rel	7	case	_	_
+6	única	único	ADJ	A0fs	Gender=Fem|Number=Sing	7	amod	_	_
+7	forma	forma	NOUN	Scfs	Gender=Fem|Number=Sing	3	obl	_	_
+8	oficial	oficial	ADJ	A0fs	Gender=Fem|Number=Sing	7	amod	_	_
+9	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	galega	galego	ADJ	A0fs	Gender=Fem|Number=Sing	3	obj	_	_
+11	e	e	CCONJ	Cc	_	12	cc	_	_
+12	corresponderá	corresponder	VERB	Vfi30s	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	conj	_	_
+13	lle	lle	PRON	Rad3ms	Case=Dat|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	expl	_	_
+14	a	a	ADP	P	AdpType=Prep	16	case	_	_
+15	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	Goberno	Goberno	PROPN	Spms	Gender=Masc|Number=Sing	12	iobj	_	_
+17	galego	galego	ADJ	A0ms	Gender=Masc|Number=Sing	16	amod	_	_
+18	determinar	determinar	VERB	V0f000	VerbForm=Inf	12	xcomp	_	_
+19	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
+20	nomes	nome	NOUN	Scmp	Gender=Masc|Number=Plur	18	obj	_	_
+21	de	de	ADP	P	AdpType=Prep	22	case	_	_
+22	lugar	lugar	NOUN	Scms	Gender=Masc|Number=Sing	20	nmod	_	SpaceAfter=No
+23	.	.	PUNCT	Q.	_	3	punct	_	_
+~~~
+
+There is one example with two clitic pronouns both annotated with `expl`.
+
+  * Non se lle cocía o pan en o corpo a Don Quixote 
 
 ### German
   * Die Party ist vorbei, heißt es nun. (expletive "es", transl. "The party is over, it is now said")
 
 ### Greek
+All the examples involve a clitic pronoun doubling an object realized by a non-clitic pronoun or a full NP.
   * Πιστεύω ότι είναι δίκαιο να το αναγνωρίσουμε αυτό. (expletive "το", transl. "I believe it is fair to recognize this.")
+
+~~~ conllu
+# visual-style	2	bgColor:lightgreen
+# hittoken: 6	το	εγώ	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	expl	_	_
+1	Πιστεύω	πιστεύω	VERB	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ότι	ότι	SCONJ	SCONJ	_	4	mark	_	_
+3	είναι	είμαι	AUX	AUX	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	4	cop	_	_
+4	δίκαιο	δίκαιο	ADV	ADV	_	1	ccomp	_	_
+5	να	να	PART	PART	_	7	aux	_	_
+6	το	εγώ	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	expl	_	_
+7	αναγνωρίσουμε	αναγνωρίζω	VERB	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	4	csubj	_	_
+8	αυτό	αυτός	PRON	PRON	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Dem	7	obj	_	SpaceAfter=No
+9	.	.	PUNCT	PUNCT	_	1	punct	_	_
+~~~
 
 ### Italian
 The `expl` relation is used exclusively with clitic pronouns (Clitic=Yes). In a
@@ -465,7 +648,7 @@ Una Fiesta per Vip Se i cavalli ci sono si devono vedere. (Transl.: A Fiesta for
 
 ~~~
 
-* inherent reflexives, these are often but not always enclitic: Mansell e Prost si sono scambiati segni di reciproca stima. (Transl.: Mansell and Prost exchanged signs of mutual respect.)
+* Regular reflexives: Mansell e Prost si sono scambiati segni di reciproca stima. (Transl.: Mansell and Prost exchanged signs of mutual respect.)
 
 ~~~ conllu
 # visual-style	4	bgColor:lightgreen
@@ -596,8 +779,126 @@ In the Norwegian UD treebanks the `expl` relation is used for the following of t
 
 
 ### Portuguese
-  * Na confusão que se segue, parte um primeiro tiro [...] (expletive "se", transl. "In the confusion that follows, a first shot [...]") 
-  
+The `expl` relation is only found in UD_Portuguese (not Portuguese-BR) and it is used exclusively for the pronoun "se".
+
+[Natalia Silveira's dissertation](https://nlp.stanford.edu/~manning/dissertations/Silveira-Natalia-dissertation-augmented.pdf)
+discusses use of the SE-clitic in Romance ("se" in French, Portuguese
+and Spanish, "si" in Italian). The SE-clitic is apparently used for a range of different
+constructions, which prove difficult to unify.  Silveira discusses the
+following constructions:
+
+* true reflexive: have a transitive counterpart
+* inherent reflexive: have no transitive counterpart, additional arguments realized as obliques
+* inchoative se (break): alternate with transitive counterpart, no reciprocal reading
+* passive/middle se: cannot take an agent phrase
+* impersonal se: no overt subject, present argument does not trigger agreement
+
+Silveira presents data from the 1.2 treebanks (where the Portuguese,
+Spanish and French treebanks did not make use of the expl relation at all for
+se). 
+In the 2.1 version of the Portuguese treebank, `expl` is used for "se" and always co-occurs with a verb which bears the feature "se-passive". This is somewhat misleading because these are often not actually passive constructions. 
+
+Examples (some are taken from Silveira, marked as such):
+
+* true reflexive (from Silveira): Gravações acústicas se encaixam com o nosso tipo de som. (Transl.: Sound recordings fit with our type of sound.) 
+
+~~~ conllu
+# visual-style	3	bgColor:lightgreen
+# hittoken:	3	se	se	PRON	PERS|F|3P|ACC|@ACC>-PASS	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	4	expl	_	_
+1	Gravações	gravação	NOUN	<np-idf>|N|F|P|@SUBJ>	Gender=Fem|Number=Plur	4	nsubj	_	_
+2	acústicas	acústico	ADJ	ADJ|F|P|@N<	Gender=Fem|Number=Plur	1	amod	_	_
+3	se	se	PRON	PERS|F|3P|ACC|@ACC>-PASS	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	4	expl	_	_
+4	encaixam	encaixar	VERB	<mv>|<se-passive>|V|PR|3P|IND|@FS-STA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	com	com	ADP	PRP|@<PIV	_	8	case	_	_
+6	o	o	DET	<artd>|ART|M|S|@>N	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+7	nosso	nosso	DET	<poss>|DET|M|S|@>N	Gender=Masc|Number=Sing|PronType=Prs	8	det	_	_
+8	tipo	tipo	NOUN	<meta>|<np-def>|N|M|S|@P<	Gender=Masc|Number=Sing	4	obl	_	_
+9	de	de	ADP	PRP|@N<	_	10	case	_	_
+10	som	som	NOUN	<np-idf>|N|M|S|@P<	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	PU|@PU	_	4	punct	_	_
+
+~~~
+
+* inherent reflexive: O deputado se aproximou. (Transl.: The deputy approached.)
+
+~~~ conllu
+# visual-style	3	bgColor:lightgreen
+# hittoken:	3	se	se	PRON	PERS|M|3S|ACC|@ACC>-PASS	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
+1	O	o	DET	<artd>|ART|M|S|@>N	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	deputado	deputado	NOUN	<np-def>|N|M|S|@SUBJ>	Gender=Masc|Number=Sing	4	nsubj	_	_
+3	se	se	PRON	PERS|M|3S|ACC|@ACC>-PASS	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
+4	aproximou	aproximar	VERB	<mv>|<se-passive>|V|PS|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	PU|@PU	_	4	punct	_	_
+
+~~~
+
+* inchoative: E, mesmo ao cair da folha, 1994 tornou-se um ano de alegria. (Transl.: And even as it fell from the leaf, 1994 became a year of joy.)
+
+~~~ conllu
+# visual-style	13	bgColor:lightgreen
+# hittoken:	13	se	se	PRON	PERS|M|3S|ACC|@<ACC-PASS	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	expl	_	_
+1	E	e	CCONJ	KC|@CO	_	12	cc	_	SpaceAfter=No
+2	,	,	PUNCT	PU|@PU	_	6	punct	_	_
+3	mesmo	mesmo	ADV	<quant>|ADV|@>A	_	6	advmod	_	_
+4-5	ao	_	_	_	_	_	_	_	_
+4	a	a	ADP	<sam->|PRP|@ADVL>	_	6	mark	_	_
+5	o	o	DET	<-sam>|<artd>|ART|M|S|@>N	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	cair	cair	VERB	<mv>|V|INF|@ICL-P<	VerbForm=Inf	12	advcl	_	_
+7-8	da	_	_	_	_	_	_	_	_
+7	de	de	ADP	<sam->|PRP|@<ADVL	_	9	case	_	_
+8	a	o	DET	<-sam>|<artd>|ART|F|S|@>N	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	folha	folha	NOUN	<np-def>|N|F|S|@P<	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
+10	,	,	PUNCT	PU|@PU	_	6	punct	_	_
+11	1994	1994	NUM	<year>|<card>|<date>|NUM|M|S|@SUBJ>	NumType=Card	12	nsubj	_	_
+12-13	tornou-se	_	_	_	_	_	_	_	_
+12	tornou	tornar	VERB	<mv>|<hyphen>|<se-passive>|V|PS|3S|IND|@FS-STA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+13	se	se	PRON	PERS|M|3S|ACC|@<ACC-PASS	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	expl	_	_
+14	um	um	NUM	<card>|NUM|M|S|@>N	NumType=Card	15	nummod	_	_
+15	ano	ano	NOUN	<np-def>|N|M|S|@<OC	Gender=Masc|Number=Sing	12	xcomp	_	_
+16	de	de	ADP	PRP|@N<	_	17	case	_	_
+17	alegria	alegria	NOUN	<np-idf>|N|F|S|@P<	Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
+18	.	.	PUNCT	PU|@PU	_	12	punct	_	_
+
+~~~
+
+* passive/middle (from Silveira): E aí colocam-se novas dúvidas: (Transl.: And then there are new doubts:)
+
+~~~ conllu
+# visual-style	4	bgColor:lightgreen
+# hittoken:	4	se	se	PRON	PERS|F|3P|ACC|@<ACC-PASS	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	3	expl	_	_
+1	E	e	CCONJ	KC|@CO	_	3	cc	_	_
+2	aí	aí	ADV	<kc>|ADV|@ADVL>	_	3	advmod	_	_
+3-4	colocam-se	_	_	_	_	_	_	_	_
+3	colocam	colocar	VERB	<mv>|V|PR|3P|IND|@FS-STA	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	se	se	PRON	PERS|F|3P|ACC|@<ACC-PASS	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	3	expl	_	_
+5	novas	novo	ADJ	ADJ|F|P|@>N	Gender=Fem|Number=Plur	6	amod	_	_
+6	dúvidas	dúvida	NOUN	<np-idf>|N|F|P|@<SUBJ	Gender=Fem|Number=Plur	3	nsubj	_	SpaceAfter=No
+7	:	:	PUNCT	PU|@PU	_	3	punct	_	_
+
+~~~
+
+* impersonal: Pense-se em Kingsley Amis, Malcolm Bradbury e Albert Finney. (Transl.: Think of Kingsley Amis, Malcolm Bradbury and Albert Finney.)
+
+~~~ conllu
+# visual-style	2	bgColor:lightgreen
+# hittoken:	2	se	se	PRON	PERS|M/F|3S/P|ACC|@VOC	Case=Acc|Gender=Unsp|PronType=Prs	1	expl	_	SUBJ_INDEF
+1-2	Pense-se	_	_	_	_	_	_	_	_
+1	Pense	pensar	VERB	<mv>|V|PR|3S|SUBJ|@FS-STA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	se	se	PRON	PERS|M/F|3S/P|ACC|@VOC	Case=Acc|Gender=Unsp|PronType=Prs	1	expl	_	SUBJ_INDEF
+3	em	em	ADP	PRP|@<PIV	_	4	case	_	_
+4	Kingsley	Kingsley	PROPN	_	Gender=Unsp|Number=Sing	1	obl	_	MWE=Kingsley_Amis|MWEPOS=PROPN
+5	Amis	Amis	PROPN	_	Number=Sing	4	flat:name	_	SpaceAfter=No
+6	,	,	PUNCT	PU|@PU	_	1	punct	_	_
+7	Malcolm	Malcolm	PROPN	_	Gender=Masc|Number=Sing	4	conj	_	MWE=Malcolm_Bradbury|MWEPOS=PROPN
+8	Bradbury	Bradbury	PROPN	_	Number=Sing	7	flat:name	_	_
+9	e	e	CCONJ	<co-prparg>|KC|@CO	_	10	cc	_	_
+10	Albert	Albert	PROPN	_	Gender=Masc|Number=Sing	4	conj	_	MWE=Albert_Finney|MWEPOS=PROPN
+11	Finney	Finney	PROPN	_	Number=Sing	10	flat:name	_	SpaceAfter=No
+12	.	.	PUNCT	PU|@PU	_	1	punct	_	_
+
+~~~
+
+
 ### Romanian
   * Dar asemenea lucruri nu le știai decât din zvonuri vagi. (expletive "le", transl. "But you knew such things only from vague rumors.")
   
@@ -605,7 +906,43 @@ In the Norwegian UD treebanks the `expl` relation is used for the following of t
   * Или это снег таял на груди? (expletive "это", transl. "Or was it snow melting on his chest?")
 
 ### Slovenian
-  * V takšnem primeru se lahko bolnikovo stanje celo poslabša. (expletive "se", transl. "In this case, the patient's condition may even deteriorate.")
+(**Preliminary**)
+The `expl` relation is used exclusively for the reflexive pronoun "se/si". It is used at least for the following:
+
+* inherent reflexive: Skozi steno slišim, kako se zabavajo. (Transl.: I hear through the wall how they have fun.)
+
+~~~ conllu
+# visual-style	6	bgColor:lightgreen
+# hittoken:	6	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	7	expl	_	Dep=7|Rel=PPart
+1	Skozi	skozi	ADP	Sa	Case=Acc	2	case	_	Dep=2|Rel=Atr
+2	steno	stena	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	Dep=3|Rel=AdvM
+3	slišim	slišati	VERB	Vmbr1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|Dep=0|Rel=Root
+4	,	,	PUNCT	Z	_	7	punct	_	Dep=0|Rel=Root
+5	kako	kako	ADV	Rgp	Degree=Pos	7	advmod	_	Dep=7|Rel=Conj
+6	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	7	expl	_	Dep=7|Rel=PPart
+7	zabavajo	zabavati	VERB	Vmpr3p	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	SpaceAfter=No|Dep=3|Rel=Obj
+8	.	.	PUNCT	Z	_	3	punct	_	Dep=0|Rel=Root
+
+~~~
+
+* passive/impersonal: V normalnem besednjaku se pozitivna diskriminacija označuje kot privilegij. (Transl.: In the normal vocabulary, positive discrimination is marked as a privilege.)
+
+~~~ conllu
+# visual-style	4	bgColor:lightgreen
+# hittoken:	4	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	7	expl	_	Dep=7|Rel=PPart
+1	V	v	ADP	Sl	Case=Loc	3	case	_	Dep=3|Rel=Atr
+2	normalnem	normalen	ADJ	Agpmsl	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	Dep=3|Rel=Atr
+3	besednjaku	besednjak	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	7	obl	_	Dep=7|Rel=AdvO
+4	se	se	PRON	Px------y	PronType=Prs|Reflex=Yes|Variant=Short	7	expl	_	Dep=7|Rel=PPart
+5	pozitivna	pozitiven	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	6	amod	_	Dep=6|Rel=Atr
+6	diskriminacija	diskriminacija	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	Dep=7|Rel=Sb
+7	označuje	označevati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Dep=0|Rel=Root
+8	kot	kot	SCONJ	Cs	_	9	case	_	Dep=9|Rel=Conj
+9	privilegij	privilegij	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No|Dep=7|Rel=AdvM
+10	.	.	PUNCT	Z	_	7	punct	_	Dep=0|Rel=Root 
+
+~~~
+
 
 ### Swedish
 

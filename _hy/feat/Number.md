@@ -17,7 +17,7 @@ udver: '2'
 
 In Armenian, `Number` is a feature of [nouns](NOUN) and other parts of speech that mark agreement with nouns, i.e. personal [pronouns](PRON), and [verbs](VERB). 
 
-Some geographical names appear only in the plural form (e.g. _<b>Ալպեր</b>_ “The Alps”, _<b>Ապալաչներ</b>_ “Appalachian Mountains”) even though they denote one thing (semantic singular). We don’t mark these [proper nouns](PROPN) as `Ptan`. Grammatically they behave like plurals, so `Plur` is obviously the back-off value here.
+Some geographical names appear only in the plural form (e.g. _<b>Ալպեր</b>_ “The Alps”, _<b>Ապալաչներ</b>_ “Appalachian Mountains”) even though they denote one thing (semantic singular). We don’t mark these [proper nouns](PROPN) as `Ptan` (plurale tantum). Grammatically they behave like plurals, so `Plur` is obviously the back-off value here.
 
 ### <a name="Sing">`Sing`</a>: singular number
 
@@ -29,7 +29,7 @@ A singular noun denotes one person, animal or thing.
 
 Pronouns that refer to a single person, an animal or a thing are also marked with this feature.
 
-* _<b>Ես, ինքս, իմ; դու, ինքդ, քո; նա, ինքը, նրա</b>_
+* _<b>Ես, ինքս, իմ; դու, ինքդ, քո; նա, ինքը, իր</b>_
 * _I, myself, my; you, yourself, your; he, himself, his; she, herself, her; it, itself, its_
 
 Demonstrative pronouns that refer to singular nouns, but not demonstrative determiners of singular or plural nouns (e.g. _<b>այս գիրքը/գրքերը</b>_ “this/these book/books”; _<b>այդ գիրքը/գրքերը</b>_ “that/those book/books (medial)”, _<b>այն գիրքը/գրքերը</b>_ “that/those book/books”), are also marked with this feature.
@@ -49,7 +49,7 @@ A plural noun denotes several persons, animals or things.
 
 Pronouns that refer to several persons, animals or things are also marked with this feature.
 
-* _<b>մենք, ինքներս, մեր; դուք, ինքներդ, ձեր; նրանք, ինքները, նրանց</b>_
+* _<b>մենք, ինքներս, մեր; դուք, ինքներդ, ձեր; նրանք, ինքները, իրենց</b>_
 * _we, ourselves, our; you, yourselves, your; they, themselves, their_
 
 Demonstrative pronouns that refer to plural nouns, but not demonstrative determiners of singular or plural nouns (e.g. _<b>այս գիրքը/գրքերը</b>_ “this/these book/books”; _<b>այդ գիրքը/գրքերը</b>_ “that/those book/books (medial)”, _<b>այն գիրքը/գրքերը</b>_ “that/those book/books”), are also marked with this feature.
@@ -86,7 +86,7 @@ Collective or mass or singulare tantum is a special case of singular. It applies
 * _<b>կաթ</b>_ “milk”
 * _<b>պողպատ</b>_ “steel”
 
-#### Diffs
+## Diffs
 
 ### Eastern Armenian National Corpus
 

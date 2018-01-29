@@ -7,9 +7,9 @@ udver: '2'
 
 ### Definition
 
-A verb is a member of the syntactic class of words that typically signal events and actions, can constitute a minimal predicate in a clause, and govern the number and types of other constituents which may occur in the clause.
+A verb is a member of the syntactic class of words that typically signal events and actions, can constitute a minimal predicate in a clause, and govern the number and types of other constituents which may occur in the clause.  Typically, A verb can be pre-modified by the negator 不 / _bù_ except that those can be pre-modified by degree modifier like 好 / _hǎo_ "very" are classified as <a>`ADJ`</a>.
 
-Despite its use in copular constructions, 是 / _shì_ "be" is tagged as a verb due to its other non-copular meanings and functions.
+Despite its use in copular constructions, 是 / _shì_ "be" is tagged as a verb due to its other non-copular meanings and functions.
 
 ### Examples
 

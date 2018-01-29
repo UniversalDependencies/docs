@@ -70,7 +70,7 @@ When the particle 的 is used after a verb, predicate adjective, or object-less 
 2	寫	_	VERB	_	_	6	nsubj	_	write
 3	的	_	PART	_	_	2	mark:rel	_	NMZR
 4	不	_	ADV	_	_	5	advmod	_	NEG
-5	是	_	ADJ	_	_	6	cop	_	be
+5	是	_	COP	_	_	6	cop	_	be
 6	詩	_	NOUN	_	_	0	root	_	poetry
 
 1	"What	_	_	_	_	0	_	_	_

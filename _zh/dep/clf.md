@@ -5,7 +5,7 @@ shortdef: 'classifier'
 udver: '2'
 ---
 
-The `clf` relation is used in noun phrases where a cardinal numeral (1,3), an ordinal numeral (2), or a determiner (4) modifying the head noun is accompanied by a classifier. The classifier is attached to the numeral if a numeral is present, or else to the determiner. Note that ordinal numerals are tagged <a>`ADJ`</a> and labeled <a>`amod`</a> in relation to the noun; they are the only words tagged `ADJ` that can be accompanied by a classifier.
+The `clf` relation is used in noun phrases where a cardinal numeral (1,3), an ordinal numeral (2), or a determiner (4) modifying the head noun is accompanied by a classifier. The classifier is attached to the numeral if a numeral is present, or else to the determiner. Note that ordinal numerals are tagged <a>`ADJ`</a> and labeled <a>`amod`</a> in relation to the noun; they are the only words tagged [`ADJ`]() that can be accompanied by a classifier.
 
 ~~~ conllu
 # visual-style 1 2 clf	color:blue
@@ -140,4 +140,4 @@ If there is a genitive 的 _de_ between the classifier and the noun, then the cl
 
 ~~~
 
-Note that classifiers are tagged as NOUN. The feature `NounType=Clf` is recommended for distinguishing classifiers from regular nouns.
+Note that classifiers are tagged as [NOUN](). The feature `NounType=Clf` is recommended for distinguishing classifiers from regular nouns.

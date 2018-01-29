@@ -34,8 +34,8 @@ Names preceding titles or relationship roles are also treated as noun compounds,
 1	馬	_	PROPN	_	_	2	compound	_	Ma
 2	先生	_	NOUN	_	_	0	root	_	Mr.
 
-1	"Mr.	_	_	_	_	0	_	_	_
-2	Ma"	_	_	_	_	0	_	_	_
+1	"Mr	_	_	_	_	0	_	_	_
+2	Mǎ"	_	_	_	_	0	_	_	_
 
 ~~~
 
@@ -48,17 +48,17 @@ Names preceding titles or relationship roles are also treated as noun compounds,
 # visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-1	威威	_	PROPN	_	_	3	compound	_	Weiwei
+1	威威	_	PROPN	_	_	3	compound	_	Wēiwēi
 2	職業	_	NOUN	_	_	3	compound	_	employment
 3	介紹所	_	NOUN	_	_	0	root	_	agency
 
-1	"Weiwei	_	_	_	_	0	_	_	_
+1	"Wēiwēi	_	_	_	_	0	_	_	_
 2	Employment	_	_	_	_	0	_	_	_
 3	Agency"	_	_	_	_	0	_	_	_
 
 ~~~
 
-Internal compounding should always be parsed first. For example, in (3) the last two nouns 職業 介紹所 _employment agency_ form a compound first before compounding with the proper noun 威威 _Weiwei_; but in (4), 警察 招募 _police recruitment_ form a compound first before compounding further with 廣告 _advertisement_.
+Internal compounding should always be parsed first. For example, in (3) the last two nouns 職業 介紹所 / _zhíyè jièshàosuǒ_ "employment agency" form a compound first before compounding with the proper noun 威威 / _Wēiwēi_; but in (4), 警察 招募 / _jǐngchá_ "police recruitment" form a compound first before compounding further with 廣告 / _guǎnggào_ "advertisement".
 
 ~~~ conllu
 # visual-style 2 1 compound	color:blue

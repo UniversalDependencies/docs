@@ -22,11 +22,11 @@ fi
 
 # create a language collection
 mkdir "$f"
-cp _template-overview/template-index.md "$f"
+cp _template/template-index.md "$f"
 
 # replace references to "template" with references to the language
 # code in the copied materials:
-perl -p -i -e 's/template/'"$lc"'/' "_$f"/*.md
+perl -p -i -e 's/template/'"$lc"'/' "$f"/*.md
 
 tmp=`mktemp addlanguage-tmp-XXX`
 

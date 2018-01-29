@@ -25,7 +25,7 @@ A verb that does not take arguments other than the subject.
 
 ### <a name="Tran">`Tran`</a>: transitive verb
 
-A verb that takes a direct (accusative) object as argument (in addition to the subject).
+A verb that takes a direct object as argument (in addition to the subject).
 These verbs can be passivized, then the direct object becomes the subject.
 
 #### Examples

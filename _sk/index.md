@@ -58,7 +58,7 @@ udver: '2'
   In some cases the masculine gender is further subclassified by the [Animacy]() values `Anim` and `Inan`.
   Feminine and neuter nominals do not distinguish animacy grammatically.
   * The following parts of speech inflect for `Gender` and `Animacy` because they must agree with nouns: [ADJ](), [DET](), [NUM](),
-    [VERB](), [AUX](). For verbs (including auxiliaries), only participles and converbs inflect for gender. Finite verbs don't.
+    [VERB](), [AUX](). For verbs (including auxiliaries), only participles inflect for gender. Finite verbs don't.
 * The two main values of the [Number]() feature are `Sing` and `Plur`. The following parts of speech inflect for number:
   [NOUN](), [PROPN](), [PRON](), [ADJ](), [DET](), [VERB](), [AUX]() (finite, participles and converbs), marginally [NUM]().
   * Selected nouns are plurale tantum (`Ptan`) or singulare tantum (`Coll`). These two values are lexical and cannot be used with
@@ -76,7 +76,7 @@ udver: '2'
 * [Polarity]() has two values, `Pos` and `Neg`, and applies primarily to verbs ([VERB](), [AUX]()), adjectives ([ADJ]()) and adverbs ([ADV]())
   that can be negated using the bound morpheme _ne-_.
   * Occasionally _ne_ occurs as an independent negation particle ([PART]()) and is marked with `Polarity=Neg`.
-  * Negating nouns is usually limited to those derived from verbs _(neúspěch, nedůvěra, nevydávání)_ but in principle every noun can be negated.
+  * Negating nouns is usually limited to those derived from verbs _(neúspech, nedôvera, neútočenie)_ but in principle every noun can be negated.
   * The `Polarity` feature is not used with pronouns and determiners, although there is a subset of negative pronouns and determiners.
     The `PronType=Neg` feature is used there instead.
 
@@ -109,7 +109,7 @@ udver: '2'
   possessive interrogative, indefinite or negative determiners (e.g. _čí_ “whose”),
   and possessive adjectives (e.g. _otcov_ “father's”).
 * The [Reflex]() feature marks reflexive pronouns _(sa, si)_ and determiners _(svoj)_.
-  In Polish it is always used together with `PronType=Prs`.
+  In Slovak it is always used together with `PronType=Prs`.
 * [Person]() is a lexical feature of personal pronouns ([PRON]()) and has three values, `1`, `2` and `3`.
   With personal possessive determiners ([DET]()), the feature actually encodes the person of the possessor.
   Person is not marked on other types of pronouns and on nouns, although they can be almost always interpreted as the 3rd person.
@@ -126,7 +126,7 @@ udver: '2'
   * [AdpType]()
   * [Hyph]()
   * [Typo]()
-* The following universal features are not used in Polish: [Definite](), [Evident](), [Polite]().
+* The following universal features are not used in Slovak: [Definite](), [Evident](), [Polite]().
 
 ## Syntax
 
@@ -159,7 +159,7 @@ udver: '2'
     Example: _zbil psa palicou_ “he beat up the dog with a stick.”
   * All prepositional phrases that are not prepositional objects (i.e., their role and form is not defined lexically by the predicate)
     are adjuncts.
-* Extra attention has to be paid to clitic forms of reflexive pronouns _se_ (accusative) and _si_ (dative). They can function as:
+* Extra attention has to be paid to clitic forms of reflexive pronouns _sa_ (accusative) and _si_ (dative). They can function as:
   * Core objects ([obj]() or [iobj]()): _zbadal sa/seba v zrkadle_ “he sighted himself in the mirror,” _ublížila si/sebe_ “she hurt herself.”
   * Reciprocal core objects (`obj` or `iobj`): _bozkávali sa_ “they were kissing each other,”
     _vykali si_ “they used the polite form of address for each other.”
@@ -192,13 +192,13 @@ udver: '2'
   * [flat:foreign]() for non-first words in quoted foreign phrases
 * The following main types are not used alone and must be subtyped:
   [expl]()
-* The following relation types are not used in Polish at all:
+* The following relation types are not used in Slovak at all:
   [clf](), [dislocated]()
 
 ## Treebanks
 
 There is one Slovak UD treebank:
 
-  * [Slovak](../../treebanks/sk-index.html)
+  * [Slovak](../treebanks/sk/index.html)
 
 [Czech-Slovak comparison](../../treebanks/cs-sk-comparison.html)

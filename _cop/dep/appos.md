@@ -10,7 +10,7 @@ Marks appositions in all free apposition constructions, as well as the special c
 ~~~ sdparse
 ⲙⲛ/ADP ⲡⲉⲕ/DET ⲉⲓⲱⲧ/NOUN ⲡ/DET ⲇⲓⲁⲃⲟⲗⲟⲥ/NOUN \n with your father, the devil
 
-appos(ⲉⲓϣⲧ, ⲇⲓⲁⲃⲟⲗⲟⲥ)
+appos(ⲉⲓⲱⲧ, ⲇⲓⲁⲃⲟⲗⲟⲥ)
 det(ⲇⲓⲁⲃⲟⲗⲟⲥ, ⲡ)
 det(ⲉⲓⲱⲧ, ⲡⲉⲕ)
 ~~~

@@ -35,7 +35,7 @@ See also the relatived feature [PossPerson]().
 
 #### Examples
 
-* _տուն<b>ն</b>եր<b>ս</b>_ “<b>our</b> houses” `PossNumber=Plur|Number=Plur`
+* _տուն<b>ներս</b>_ “<b>our</b> houses” `PossNumber=Plur|Number=Plur`
 * _գալ<b>ներս</b>_ “<b>our</b> coming” `PossNumber=Plur`
 * _ինք<b>ներս</b>_ “<b>we ourselves</b>” `PossNumber=Plur|Number=Sing`
 * _հետ<b>ներս</b>_ “with <b>us</b>” `PossNumber=Plur`

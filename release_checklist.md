@@ -10,6 +10,7 @@ This checklist is meant to provide guidance for teams contributing treebank data
 
 Contents:
 
+* [New language or treebank](#new-language-or-treebank)
 * [Executive summary](#executive-summary)
 * [Repository and files](#repository-and-files)
   - [The README file](#the-readme-file)
@@ -20,6 +21,21 @@ Contents:
   - [Syntax](#syntax)
 * [Language-specific guidelines](#language-specific-guidelines)
 
+# New language or treebank
+
+If you want to write UD guidelines and/or provide annotated data for a language that is currently not listed on the UD website,
+make sure you have a github account and contact a member of our release and documentation task force:
+Dan Zeman (zeman@ufal.mff.cuni.cz), Filip Ginter (ginter@cs.utu.fi). They will get you going.
+
+Similarly, if you want to contribute a new treebank of a language that is already listed on the UD website,
+contact the release task force and they will create a new treebank repository.
+Think of an acronym or short word that will be used as the treebank identifier in the name of the repository
+(for example, UD_English-LinES and UD_English-ParTUT are two different English UD treebanks
+and their identifiers are LinES and ParTUT).
+
+While you are waiting for your repository, read the instructions below. They explain what you need to do
+so that your treebank works well with our infrastructure and can be released.
+
 # Executive summary
 
 * Make sure [your repository has the right files](#repository-and-files), [correct metadata](#treebank-metadata) in the README, and data being prepared for the next release [lives on the `dev` branch](#repository-branches).
@@ -28,25 +44,25 @@ Contents:
 
 # Repository and files
 
-Every language has its own GitHub repository called `UD_Language`, where `Language` is the name of the language. For example, the repository for Finnish is called `UD_Finnish`. Make sure to create the repository for your language if it does not already exist. Some languages have more than one treebank and the additional treebanks have their own repositories with a `-Treebank` identifier after the language name. For example, `UD_Finnish-FTB` is the repository for the FinnTreeBank, while the plain `UD_Finnish` holds the Turku Dependency Treebank.
+Every language has its own GitHub repository called `UD_Language`, where `Language` is the name of the language. For example, the repository for Finnish is called `UD_Finnish`. If your repository does not exist yet, get in touch with us (see above). Some languages have more than one treebank and the additional treebanks have their own repositories with a `-Treebank` identifier after the language name. For example, `UD_Finnish-FTB` is the repository for the FinnTreeBank, while the plain `UD_Finnish` holds the Turku Dependency Treebank.
 
-Every language repository should contain the following five files (where `xx` is the ISO code for the given language; if this is not the first treebank for the language, use `xx_y` instead, where `y` is the lowercased treebank identifier):
+Every treebank repository should contain the following files (where `xx` is the ISO code for the given language; if this is not the first treebank for the language, use `xx_y` instead, where `y` is the lowercased treebank identifier).
+Small treebanks may have just the test file but no training and development data
+(more detailed recommendations for train-dev-test data splits are currently under negotiation).
 
-1. `xx-ud-train.conllu`
-2. `xx-ud-dev.conllu`
-3. <del>xx-ud-test.conllu</del> temporary rule for UD 2.0: **do not publish the test set!** Validate it offline and then send it by e-mail to ud.conll.shared.task.2017@gmail.com.
-4. `README.txt` or `README.md`
-5. `LICENSE.txt`
+1. `README.md` or `README.txt`
+2. `LICENSE.txt`
+3. `xx-ud-test.conllu`
+4. `xx-ud-train.conllu`
+5. `xx-ud-dev.conllu`
 
-The first three files contain the treebank data split into a training, development and test set. These should be in `CONLL-U` format and conform to the universal guidelines. They need to be validated as described below.
+The `README.md` file contains basic documentation of the treebank and machine-readable metadata for the UD main page (see below) and the `LICENSE.txt` specifies under what license the treebank is made available.
 
-If the treebank consists of more than 20,000 words, make the test set and dev set at least 10,000 words each, even if it leaves you with training data smaller than development data (that is [necessary for the CoNLL 2017 shared task](http://universaldependencies.org/conll17/inclusion-rules.html)). There is no upper limit on the size of dev/test. If you cannot reach 10,000 words of test data, use a more typical split, e.g. 80-10-10% (but the treebank will not be included in the shared task).
+The data files (training, development and test set) must be in the `CONLL-U` format and conform to the universal guidelines. They need to be validated as described below.
 
-The training-development-test data split should be stable across releases. It should not happen that a sentence that was once part of training data ever appears in the test data, and vice versa (except for sentences that are naturally occurring duplicates in independent texts). We want to prevent accidental misguided results of experiments where people take a parser trained on UD 1.1 and apply it to test data from UD 1.2. **We decided to make an exception to this rule for UD 2.0 where it is needed to achieve 10K test or dev, on the ground that v2 annotation is not backward-compatible anyway.**
+The training-development-test data split should be stable across releases. It should not happen that a sentence that was once part of training data ever appears in the test data, and vice versa (except for sentences that are naturally occurring duplicates in independent texts). We want to prevent accidental misguided results of experiments where people take a parser trained on UD 1.1 and apply it to test data from UD 1.2.
 
-The `README.txt` file contains basic documentation of the treebank and machine-readable metadata for the UD main page (see below) and the `LICENSE.txt` specifies under what license the treebank is made available.
-
-Repositories of released treebanks also contain a `stats.xml` file, which is generated as part of the release-building process, using the script `conllu-stats.pl` available from the `tools` repository. Data providers do not have to care about this file.
+Repositories of released treebanks also contain a `stats.xml` file, which is generated as part of the release-building process, using the script `conllu-stats.pl` available from the `tools` repository. Data providers do not have to care about this file; it will be generated by the release task force.
 
 ## The README file
 
@@ -85,13 +101,13 @@ of the superordinate section and will be copied with it.
 # Summary
 
 UD Swedish-TP is a conversion of the Prose section of Talbanken, originally annotated in the MAMBA annotation scheme,
-and consisting of a variety of informative text genres, including textbooks, information brochures and newspaper articles. 
+and consisting of a variety of informative text genres, including textbooks, information brochures and newspaper articles.
 
 # Introduction
 
 UD Swedish-TP is a conversion of the Prose section of Talbanken (Einarsson, 1976), originally annotated…
 
-# Acknowledgments 
+# Acknowledgments
 
 The new conversion has been performed by Joakim Nivre and Aaron Smith at Uppsala University. We thank everyone who…
 
@@ -196,7 +212,9 @@ e.g.
 ## Repository branches
 
 While the official UD release is always through Lindat, many users of UD source their data from the GitHub language repositories. Therefore, the `master` branch of every language should contain the last, officially released version of the data for the given language. The development in between releases should happen on the `dev` branch of the repository.
-Although it is currently not locked, treebank maintainers should never touch the `master` branch, they should always push to `dev`. At release time, the release task force will take care of merging the contents of the `dev` branch into `master`.
+Treebank maintainers should never touch the `master` branch, they should always push to `dev`.
+(Ordinary contributors are not even able to push to `master`, the branch is protected.)
+At release time, the release task force will take care of merging the contents of the `dev` branch into `master`.
 <strong>Please do not submit pull requests from the dev branch (or from anywhere else) to the master branch.</strong>
 This is not needed for the release merge to take place, and if someone overlooks the destination branch and accepts the pull request,
 it will again result in a commit to the master branch at wrong time.
@@ -281,9 +299,11 @@ the repository:
 
 Since the `v2.0` release, whitespace is allowed in the `FORM` and `LEMMA` fields under conditions specified in [here](v2/segmentation.html). This is supported in the validator through the UD-wide file `data/tokens_w_space.ud` and its language-specific variants `data/tokens_w_space.xx`. In these files, each line is a [Python regular expression](https://docs.python.org/2/library/re.html) defining the permissible forms and lemmas that can contain a whitespace.
 
-# Syntax
+# Content validation
 
 For the `v1.3` release, we have created an additional number of tests which try to uncover possible logical inconsistencies in the treebank data. Automatic validation runs for this syntax validation are available [here](http://universaldependencies.org/svalidation.html). Unlike the data format and repository validation, this validation machinery is not streamlined enough to be distributed for offline use, therefore it is important to regularly push your data to the `dev` branch of the repository.
+(However, similar tests are now available in the
+[Udapi](https://github.com/udapi/udapi-python/blob/master/udapi/block/ud/markbugs.py) tool.)
 
 The tests are specified in the file `gen_index/stests.yaml` and rely on the query language of the [SETS search interface](http://bionlp-www.utu.fi/dep_search).
 
@@ -303,3 +323,5 @@ writing UD documentation, such as how to format examples).
 # Building the release
 
 Documentation of the steps to be taken by the release task force is [on a separate page](release_checklist_task_force.html).
+
+Documentation of adding languages or treebanks by the maintenance crew is [here](release_checklist_add_language.html).

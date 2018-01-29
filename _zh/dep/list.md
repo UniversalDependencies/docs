@@ -5,7 +5,7 @@ shortdef: 'list'
 udver: '2'
 ---
 
-The list relation is used for chains of comparable items. In lists with more than two items, all items of the list should modify the first one. Informal and web texts often contain passages which are meant to be interpreted as lists but are parsed as single sentences. Email signatures often contain these structures, in the form of contact information: the different contact information items are labeled as `list`; the key-value pair relations are labeled as `appos`.
+The list relation is used for chains of comparable items. In lists with more than two items, all items of the list should modify the first one. Informal and web texts often contain passages which are meant to be interpreted as lists but are parsed as single sentences. Email signatures often contain these structures, in the form of contact information: the different contact information items are labeled as `list`; the key-value pair relations are labeled as [`appos`]().
 
 ~~~ conllu
 # visual-style 1 2 list	color:blue
@@ -16,7 +16,7 @@ The list relation is used for chains of comparable items. In lists with more tha
 # visual-style 2	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-1	李四	_	PROPN	_	_	0	root	_	Li-Si
+1	李四	_	PROPN	_	_	0	root	_	Lǐ-Sì
 2	電話	_	NOUN	_	_	1	list	_	phone
 3	：	_	PUNCT	_	_	4	punct	_	_
 4	2540-5654	_	NOUN	_	_	2	appos	_	_
@@ -24,8 +24,8 @@ The list relation is used for chains of comparable items. In lists with more tha
 6	：	_	PUNCT	_	_	7	punct	_	_
 7	lisi@lisimail.com	_	NOUN	_	_	5	appos	_	_
 
-1	"Li	_	_	_	_	0	_	_	_
-2	Si	_	_	_	_	0	_	_	_
+1	"Lǐ	_	_	_	_	0	_	_	_
+2	Sì	_	_	_	_	0	_	_	_
 3	Phone:	_	_	_	_	0	_	_	_
 4	2540-5654	_	_	_	_	0	_	_	_
 5	E-mail:	_	_	_	_	0	_	_	_

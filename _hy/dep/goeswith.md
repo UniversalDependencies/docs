@@ -6,14 +6,13 @@ udver: '2'
 ---
 
 This relation links two or more parts of a word that are separated in text that is not well edited.
-These parts should be written together as one word according to the ortographic rules of a given language.
-The head is always the first part, the other parts are attached to it with the `goeswith` relation
-(for consistency, similarly as in [flat](), [fixed]() and [conj]()).
+These parts should be written together as one word according to the ortographic rules of Armenian.
+The head is the first or in some sense the _main_ part, the other parts are attached to it with the `goeswith` relation (for consistency, similarly as in [flat](), [fixed]() and [conj]()).
 Note that only the last part may be annotated with `SpaceAfter=No`.
 
 ~~~ sdparse
 նա ի զուր էր այդքան անհանգստանում
-goeswith(ի-2, զուր-3)
+goeswith(ի, զուր)
 ~~~
 
 ~~~ sdparse
@@ -21,3 +20,24 @@ goeswith(ի-2, զուր-3)
 goeswith(կարգ, ու)
 goeswith(կարգ, կանոն)
 ~~~
+
+Note that we also use this relation to link the inflectional bound morphemes that are separated due to tokenization to the _main_ part of the word (usually the last word of phrases or sentences used as names).
+
+~~~ sdparse
+« Երկիր/NOUN[Case=Nom] Նաիրի/NOUN » - ից/Case=Abl \n “ Yerkir Nairi ” - from
+punct(Նաիրի, «)
+punct(Նաիրի, »)
+nmod(Նաիրի, Երկիր)
+punct(ից, -)
+goeswith(Նաիրի, ից)
+~~~
+
+~~~ sdparse
+1937/NUM[NumType=Card] թ/NOUN[Abbr=Yes|Number=Sing] . - ին/Case=Dat \n in year 1937
+nummod(թ, 1937)
+punct(թ, .)
+punct(ին, -)
+goeswith(թ, ին)
+~~~
+
+For more details see the [tokenization page](http://universaldependencies.org/hy/tokenization.html).

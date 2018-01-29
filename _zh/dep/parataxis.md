@@ -5,7 +5,7 @@ shortdef: 'parataxis'
 udver: '2'
 ---
 
-Parataxis is a relation for "side-by-side sentences" including reported speech (1), parenthetical comments and clausal interjections (2), tag questions (3), and generally pairs of clauses that are pragmatically understood to be related in a discursive way despite lacking linking words between them (4). Clauses introduced after a colon (冒號 "：") or long dash (破折號 "──") also exemplify this kind of usage (5).
+Parataxis is a relation for "side-by-side sentences" including reported speech (1), parenthetical comments and clausal interjections (2), tag questions (3), and generally pairs of clauses that are pragmatically understood to be related in a discursive way despite lacking linking words between them (4). Clauses introduced after a colon (冒號 / _màohào_ "：") or long dash (破折號 / _puòzhéhào_ "──") also exemplify this kind of usage (5).
 
 ~~~ conllu
 # visual-style 4 11 parataxis	color:blue

@@ -112,7 +112,7 @@ Postnominal clausal modifiers (known as "descriptive clauses" in Li & Thompson, 
 8	帳户	_	NOUN	_	_	9	nsubj	_	account
 9	没	_	VERB	_	_	6	ccomp	_	not-have
 10	錢	_	NOUN	_	_	9	obj	_	money
-11	了	_	PART	_	_	9	discourse:sp	_	SP
+11	了	_	PART	_	_	3	discourse:sp	_	SP
 
 1	"I	_	_	_	_	0	_	_	_
 2	received	_	_	_	_	0	_	_	_
