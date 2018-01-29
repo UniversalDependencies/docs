@@ -18,7 +18,7 @@ whether the word is possessive.
 While many tagsets would have “possessive” as one of the various
 pronoun types, this feature is intentionally separate from
 [PronType](), as it is orthogonal to pronominal types. Several of the
-pronominal types can be optionally possessive, and nouns can too.
+pronominal types can be optionally possessive, nouns and adjectives can too.
 
 ### <a name="Yes">`Yes`</a>: it is possessive
 
@@ -32,3 +32,4 @@ means that empty value has the `No` meaning).
 * possessive reflexive determiners: _իր, իրենց&nbsp;_ “one’s own, their own”
 * possessive relative determiners: _ում, որի&nbsp;_ “whose”
 * possessive nouns: _հայրիկինը&nbsp;_ “father's”, _մայրիկինը&nbsp;_ “mother's”, _սեղանինը&nbsp;_ “of table”
+* possessive adjectives: _հայոց&nbsp;_ “armenian, armenians', refer to armenians”, _վրաց&nbsp;_ “georgian, georgians', refer to georgians”, _վանա&nbsp;_ “of Van”
