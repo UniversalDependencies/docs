@@ -9,7 +9,5 @@ The category `acl` is used for adverbial modification of a noun, but not for mod
 
 ~~~ sdparse
 POJKE SITTA VARELSE-Vb-BEFINNA-SIG LEDSEN \n The-boy sat (there), sad
-nsubj(SITTA, POJKE)
 acl(POJKE, LEDSEN)
-conj(SITTA, VARELSE-Vb-BEFINNA-SIG)
 ~~~
