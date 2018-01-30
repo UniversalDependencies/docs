@@ -15,12 +15,12 @@ The obl relation can be further specified by the case. In conjunction with the [
 Նրա/DET խոսքերը/NOUN[Case=Nom] ազդեցություն/NOUN[Case=Nom] գործեցին/VERB պապի/NOUN[Case=Dat] վրա/ADP[Case=Nom] ։ \n His words had an-impression on grandfather .
 det:poss(խոսքերը, Նրա)
 nsubj(գործեցին, խոսքերը)
-obl:arg(գործեցին, պապի)
+obl(գործեցին, պապի)
 obj(գործեցին, ազդեցություն)
 case:loc(պապի, վրա)
 det:poss(words, His)
 nsubj(had, words)
-obl:arg(had, grandfather)
+obl(had, grandfather)
 obj(had, an-impression)
 case:loc(grandfather, on)
 ~~~
@@ -50,7 +50,7 @@ det(աշխատանքում, այդ)
 
 ~~~ sdparse
 Նրանք/PROPN հմտացել/VERB են/AUX այդ/DET աշխատանքի/NOUN[Case=Dat] մեջ/ADP[Case=Nom] ։ \n
-obl:arg(հմտացել, աշխատանքի)
+obl(հմտացել, աշխատանքի)
 case:loc(աշխատանքի, մեջ)
 det(աշխատանքի, այդ)
 ~~~
