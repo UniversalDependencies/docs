@@ -48,7 +48,7 @@ Every language has its own GitHub repository called `UD_Language`, where `Langua
 
 Every treebank repository should contain the following files (where `xx` is the ISO code for the given language; if this is not the first treebank for the language, use `xx_y` instead, where `y` is the lowercased treebank identifier).
 Small treebanks may have just the test file but no training and development data
-(more detailed recommendations for train-dev-test data splits are currently under negotiation).
+(more detailed recommendations for train-dev-test data splits are [currently under negotiation](https://github.com/UniversalDependencies/docs/issues/506)).
 
 1. `README.md` or `README.txt`
 2. `LICENSE.txt`
