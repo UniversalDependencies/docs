@@ -6,7 +6,8 @@ udver: '2'
 
 # Release checklist
 
-This checklist is meant to provide guidance for teams contributing treebank data for a new release of Universal Dependencies. It was created for release v1.2 and applies, unless otherwise noted, to any upcoming release.
+This checklist is meant to provide guidance for teams contributing treebank data for a new release of Universal Dependencies.
+It was created for release v1.2 and applies, unless otherwise noted, to any upcoming release.
 
 Contents:
 
