@@ -46,7 +46,8 @@ so that your treebank works well with our infrastructure and can be released.
 
 Every language has its own GitHub repository called `UD_Language`, where `Language` is the name of the language. For example, the repository for Finnish is called `UD_Finnish`. If your repository does not exist yet, get in touch with us (see above). Some languages have more than one treebank and the additional treebanks have their own repositories with a `-Treebank` identifier after the language name. For example, `UD_Finnish-FTB` is the repository for the FinnTreeBank, while the plain `UD_Finnish` holds the Turku Dependency Treebank.
 
-Every treebank repository should contain the following files (where `xx` is the ISO code for the given language; if this is not the first treebank for the language, use `xx_y` instead, where `y` is the lowercased treebank identifier).
+Every treebank repository should contain the following files (where `xx` is the ISO code for the given language;
+if this is not the first treebank for the language, use `xx_y` instead, where `y` is the lowercased treebank identifier).
 Small treebanks may have just the test file but no training and development data
 (more detailed recommendations for train-dev-test data splits are
 [currently under negotiation](https://github.com/UniversalDependencies/docs/issues/506)).
