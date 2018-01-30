@@ -19,3 +19,5 @@ udver: '2'
 * If you want to contribute to language-specific documentation, follow these [guidelines](contributing_language_specific.html).
 
 Please consider subscribing to the [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud), <strong>especially if you are going to contribute data.</strong> Important announcements for the data providers are circulated through this list.
+
+[Alternative validation site](http://quest.ms.mff.cuni.cz/cgi-bin/zeman/unidep/validation-report.pl)
