@@ -91,7 +91,6 @@ This is an automatically generated list of features and values (both universal a
 * AdpType=Prep	la	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * AdpType=Prep	la_ittb	26410
 * AdpType=Prep	la_proiel	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* AdpType=Prep	mt	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * AdpType=Prep	nl	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * AdpType=Prep	nl_lassysmall	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * AdpType=Prep	pl	8588
@@ -102,7 +101,6 @@ This is an automatically generated list of features and values (both universal a
 * AdpType=Prep	sk	8102
 * AdpType=Preppron	ca	14733
 * AdpType=Preppron	es_ancora	10786
-* AdpType=Preppron	mt	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * AdpType=Preppron	nl	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * AdpType=Preppron	nl_lassysmall	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * AdpType=Preppron	pt	1
@@ -122,18 +120,11 @@ This is an automatically generated list of features and values (both universal a
 * AdvType=Deg	hi	372
 * AdvType=Deg	hi_pud	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * AdvType=Deg	ur	145
-* AdvType=Ex	mt	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * AdvType=Ex	nl	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * AdvType=Ex	nl_lassysmall	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * AdvType=Mod	hsb	4
 * AdvType=Tim	ca	1693
 * AdvType=Tim	es_ancora	1902
-
-## Agent
-
-[Agent]()
-
-* Agent=Yes	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 
 ## Animacy
 
@@ -194,25 +185,16 @@ This is an automatically generated list of features and values (both universal a
 * Animacy[gram]=Anim	uk	30
 * Animacy[gram]=Inan	uk	8
 
-## Animacy[obj]
-
-[Animacy[obj]]()
-
-* Animacy[obj]=Inan	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-
 ## Aspect
 
 [Aspect]()
 
 * Aspect=DurPerf	tr	3
 * Aspect=DurPerf	tr_pud	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* Aspect=DurPerf	ug	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Aspect=DurPerfProg	tr	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Aspect=DurPerfProg	tr_pud	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* Aspect=DurPerfProg	ug	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Aspect=DurProg	tr	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Aspect=DurProg	tr_pud	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* Aspect=DurProg	ug	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Aspect=Hab	bxr	21
 * Aspect=Hab	mr	10
 * Aspect=Hab	tr_pud	169
@@ -308,13 +290,11 @@ This is an automatically generated list of features and values (both universal a
 * Aspect=Prog	zh_pud	40
 * Aspect=ProgRapid	tr	1
 * Aspect=ProgRapid	tr_pud	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* Aspect=ProgRapid	ug	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Aspect=Prosp	eu	1529
 * Aspect=Prosp	mr	16
 * Aspect=Prosp	tr_pud	4
 * Aspect=Rapid	tr	11
 * Aspect=Rapid	tr_pud	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* Aspect=Rapid	ug	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Aspect=Res	cu	200
 
 ## Case
@@ -832,9 +812,7 @@ This is an automatically generated list of features and values (both universal a
 [Clusivity]()
 
 * Clusivity=Ex	id	28
-* Clusivity=Ex	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Clusivity=In	id	65
-* Clusivity=In	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Clusivity=Incl	mr	5
 
 ## Compound
@@ -863,12 +841,6 @@ This is an automatically generated list of features and values (both universal a
 * Connegative=Yes	fi_ftb	2738
 * Connegative=Yes	fi_pud	74
 * Connegative=Yes	sme	402
-
-## Contrast
-
-[Contrast]()
-
-* Contrast=Yes	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 
 ## Definite
 
@@ -976,12 +948,6 @@ This is an automatically generated list of features and values (both universal a
 * Definite=Ind	sv_lines	15783
 * Definite=Ind	sv_pud	3721
 * Definite=Ind	tr_pud	483
-
-## Definite[obj]
-
-[Definite[obj]]()
-
-* Definite[obj]=Def	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 
 ## Degree
 
@@ -1204,10 +1170,7 @@ This is an automatically generated list of features and values (both universal a
 [Distance]()
 
 * Distance=Dist	mr	226
-* Distance=Dist	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* Distance=Med	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Distance=Prox	mr	47
-* Distance=Prox	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 
 ## Echo
 
@@ -1217,7 +1180,6 @@ This is an automatically generated list of features and values (both universal a
 * Echo=Rdp	hi_pud	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Echo=Rdp	tr	23
 * Echo=Rdp	tr_pud	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* Echo=Rdp	ug	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Echo=Rdp	ur	66
 
 ## Evident
@@ -1231,12 +1193,6 @@ This is an automatically generated list of features and values (both universal a
 * Evident=Nfh	lv	122
 * Evident=Nfh	tr	637
 * Evident=Nfh	tr_pud	219
-
-## Focus
-
-[Focus]()
-
-* Focus=Yes	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 
 ## Foreign
 
@@ -1519,14 +1475,6 @@ This is an automatically generated list of features and values (both universal a
 * Gender[erg]=Fem	eu	8
 * Gender[erg]=Masc	eu	5
 
-## Gender[obj]
-
-[Gender[obj]]()
-
-* Gender[obj]=Fem	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* Gender[obj]=Masc	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* Gender[obj]=Neut	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-
 ## Gender[psor]
 
 [Gender[psor]]()
@@ -1542,7 +1490,6 @@ This is an automatically generated list of features and values (both universal a
 * Gender[psor]=Fem	hr	118
 * Gender[psor]=Fem	hsb	4
 * Gender[psor]=Fem	ru_pud	27
-* Gender[psor]=Fem	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Gender[psor]=Fem	sk	155
 * Gender[psor]=Fem	sl	138
 * Gender[psor]=Fem	sl_sst	5
@@ -1558,7 +1505,6 @@ This is an automatically generated list of features and values (both universal a
 * Gender[psor]=Masc	hr	224
 * Gender[psor]=Masc	hsb	14
 * Gender[psor]=Masc	ru_pud	60
-* Gender[psor]=Masc	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Gender[psor]=Masc	sk	325
 * Gender[psor]=Masc	sl	248
 * Gender[psor]=Masc	sl_sst	4
@@ -1634,40 +1580,26 @@ This is an automatically generated list of features and values (both universal a
 * InfForm=Dict	mr	22
 * InfForm=Incp	mr	22
 
-## Link
-
-[Link]()
-
-* Link=Yes	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-
 ## Mood
 
 [Mood]()
 
 * Mood=Abil	tr	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Mood=Abil	tr_pud	19
-* Mood=Abil	ug	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Mood=AbilCnd	tr	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Mood=AbilCnd	tr_pud	1
-* Mood=AbilCnd	ug	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Mood=AbilDes	tr	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Mood=AbilDes	tr_pud	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* Mood=AbilDes	ug	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Mood=AbilGen	tr	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Mood=AbilGen	tr_pud	51
-* Mood=AbilGen	ug	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Mood=AbilGenNec	tr	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Mood=AbilGenNec	tr_pud	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* Mood=AbilGenNec	ug	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Mood=AbilImp	tr	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Mood=AbilImp	tr_pud	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* Mood=AbilImp	ug	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Mood=AbilNec	tr	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Mood=AbilNec	tr_pud	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* Mood=AbilNec	ug	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Mood=AbilPrs	tr	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Mood=AbilPrs	tr_pud	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* Mood=AbilPrs	ug	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Mood=Cnd	be	11
 * Mood=Cnd	bg	138
 * Mood=Cnd	bxr	9
@@ -1725,11 +1657,8 @@ This is an automatically generated list of features and values (both universal a
 * Mood=DesPot	tr_pud	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Mood=Gen	tr	359
 * Mood=Gen	tr_pud	351
-* Mood=Gen	ug	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* Mood=Gen-Nec	ug	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Mood=GenNec	tr	4
 * Mood=GenNec	tr_pud	2
-* Mood=GenNec	ug	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Mood=GenNecPot	tr	1
 * Mood=GenNecPot	tr_pud	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Mood=GenPot	tr	1
@@ -1894,7 +1823,6 @@ This is an automatically generated list of features and values (both universal a
 * Mood=Ind	uk	8745
 * Mood=Ind	ur	5695
 * Mood=Int	ga	19
-* Mood=Int	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Mood=Inter	zh	8
 * Mood=Inter	zh_pud	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Mood=Jus	ar	665
@@ -1926,7 +1854,6 @@ This is an automatically generated list of features and values (both universal a
 * Mood=Pot	tr	491
 * Mood=Prs	tr	2
 * Mood=Prs	tr_pud	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* Mood=Prs	ug	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Mood=Prsc	bxr	2
 * Mood=Qot	et	54
 * Mood=Qot	lv	122
@@ -1986,7 +1913,6 @@ This is an automatically generated list of features and values (both universal a
 * NameType=Geo	cs_cltt	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * NameType=Geo	cs_fictree	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * NameType=Geo	cs_pud	403
-* NameType=Geo	fo	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * NameType=Geo	sk	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * NameType=Giv	cs	15689
 * NameType=Giv	cs_cac	1339
@@ -2014,7 +1940,6 @@ This is an automatically generated list of features and values (both universal a
 * NameType=Pro	cs_fictree	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * NameType=Pro	cs_pud	24
 * NameType=Pro	sk	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* NameType=Prs	fo	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * NameType=Sur	cs	27098
 * NameType=Sur	cs_cac	3453
 * NameType=Sur	cs_cltt	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
@@ -2023,19 +1948,11 @@ This is an automatically generated list of features and values (both universal a
 * NameType=Sur	sk	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * NameType=Sur	uk	821
 
-## NounClass
-
-[NounClass]()
-
-* NounClass=10	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-
 ## NounType
 
 [NounType]()
 
-* NounType=Loc	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * NounType=NotSlender	ga	39
-* NounType=Rel	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * NounType=Slender	ga	14
 * NounType=Strong	ga	119
 * NounType=Weak	ga	67
@@ -2057,7 +1974,6 @@ This is an automatically generated list of features and values (both universal a
 * NumForm=Digit	et	1268
 * NumForm=Digit	la_ittb	749
 * NumForm=Digit	la_proiel	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* NumForm=Digit	mt	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * NumForm=Digit	nl	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * NumForm=Digit	nl_lassysmall	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * NumForm=Digit	ro	3975
@@ -2073,7 +1989,6 @@ This is an automatically generated list of features and values (both universal a
 * NumForm=Roman	cs_fictree	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * NumForm=Roman	cs_pud	16
 * NumForm=Roman	et	29
-* NumForm=Roman	mt	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * NumForm=Roman	ro	235
 * NumForm=Roman	ro_nonstandard	1
 * NumForm=Roman	sk	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
@@ -2087,7 +2002,6 @@ This is an automatically generated list of features and values (both universal a
 * NumForm=Word	cs_cltt	69
 * NumForm=Word	cs_fictree	1237
 * NumForm=Word	cs_pud	140
-* NumForm=Word	mt	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * NumForm=Word	ro	1282
 * NumForm=Word	ro_nonstandard	126
 * NumForm=Word	sk	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
@@ -2274,7 +2188,6 @@ This is an automatically generated list of features and values (both universal a
 * NumValue=1	cs_cltt	58
 * NumValue=1	cs_fictree	847
 * NumValue=1	cs_pud	103
-* NumValue=1	mt	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * NumValue=1	sk	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * NumValue=2	ar	29
 * NumValue=2	ar_nyuad	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
@@ -2510,21 +2423,12 @@ This is an automatically generated list of features and values (both universal a
 * Number[abs]=Plur	eu	3421
 * Number[abs]=Sing	eu	11254
 
-## Number[acc]
-
-[Number[acc]]()
-
-* Number[acc]=Plur	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* Number[acc]=Sing	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-
 ## Number[dat]
 
 [Number[dat]]()
 
 * Number[dat]=Plur	eu	329
-* Number[dat]=Plur	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Number[dat]=Sing	eu	968
-* Number[dat]=Sing	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 
 ## Number[erg]
 
@@ -2532,13 +2436,6 @@ This is an automatically generated list of features and values (both universal a
 
 * Number[erg]=Plur	eu	2592
 * Number[erg]=Sing	eu	5235
-
-## Number[obj]
-
-[Number[obj]]()
-
-* Number[obj]=Plur	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* Number[obj]=Sing	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 
 ## Number[psed]
 
@@ -2585,7 +2482,6 @@ This is an automatically generated list of features and values (both universal a
 * Number[psor]=Plur	ro	278
 * Number[psor]=Plur	ro_nonstandard	63
 * Number[psor]=Plur	ru_pud	54
-* Number[psor]=Plur	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Number[psor]=Plur	sk	204
 * Number[psor]=Plur	sl	323
 * Number[psor]=Plur	sl_sst	77
@@ -2593,7 +2489,6 @@ This is an automatically generated list of features and values (both universal a
 * Number[psor]=Plur	sr	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Number[psor]=Plur	tr	986
 * Number[psor]=Plur	tr_pud	125
-* Number[psor]=Plur	ug	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Number[psor]=Sing	bxr	108
 * Number[psor]=Sing	ca	43
 * Number[psor]=Sing	cs	4833
@@ -2624,7 +2519,6 @@ This is an automatically generated list of features and values (both universal a
 * Number[psor]=Sing	ro	783
 * Number[psor]=Sing	ro_nonstandard	227
 * Number[psor]=Sing	ru_pud	98
-* Number[psor]=Sing	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Number[psor]=Sing	sk	727
 * Number[psor]=Sing	sl	472
 * Number[psor]=Sing	sl_sst	55
@@ -2632,7 +2526,6 @@ This is an automatically generated list of features and values (both universal a
 * Number[psor]=Sing	sr	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Number[psor]=Sing	tr	7097
 * Number[psor]=Sing	tr_pud	2414
-* Number[psor]=Sing	ug	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 
 ## Orth
 
@@ -2667,8 +2560,6 @@ This is an automatically generated list of features and values (both universal a
 * PartType=Conseq	uk	82
 * PartType=Cop	ga	1
 * PartType=Deg	ga	4
-* PartType=Dir	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* PartType=Emph	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * PartType=Gen	af	178
 * PartType=Inf	af	987
 * PartType=Inf	da	3038
@@ -2678,7 +2569,6 @@ This is an automatically generated list of features and values (both universal a
 * PartType=Inf	ro	837
 * PartType=Inf	ro_nonstandard	47
 * PartType=Int	sa	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* PartType=Int	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * PartType=Neg	af	267
 * PartType=Num	ga	10
 * PartType=Pat	ga	64
@@ -2963,24 +2853,13 @@ This is an automatically generated list of features and values (both universal a
 * Person[abs]=2	eu	96
 * Person[abs]=3	eu	14162
 
-## Person[acc]
-
-[Person[acc]]()
-
-* Person[acc]=1	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* Person[acc]=2	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* Person[acc]=3	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-
 ## Person[dat]
 
 [Person[dat]]()
 
 * Person[dat]=1	eu	203
-* Person[dat]=1	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Person[dat]=2	eu	51
-* Person[dat]=2	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Person[dat]=3	eu	1043
-* Person[dat]=3	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 
 ## Person[erg]
 
@@ -2989,15 +2868,6 @@ This is an automatically generated list of features and values (both universal a
 * Person[erg]=1	eu	1036
 * Person[erg]=2	eu	212
 * Person[erg]=3	eu	6579
-
-## Person[obj]
-
-[Person[obj]]()
-
-* Person[obj]=0	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* Person[obj]=1	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* Person[obj]=2	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* Person[obj]=3	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 
 ## Person[psor]
 
@@ -3010,22 +2880,18 @@ This is an automatically generated list of features and values (both universal a
 * Person[psor]=1	hu	107
 * Person[psor]=1	id	41
 * Person[psor]=1	kk	89
-* Person[psor]=1	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Person[psor]=1	sme	92
 * Person[psor]=1	tr	1052
 * Person[psor]=1	tr_pud	44
-* Person[psor]=1	ug	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Person[psor]=2	de_pud	1
 * Person[psor]=2	fi	167
 * Person[psor]=2	fi_ftb	251
 * Person[psor]=2	fi_pud	2
 * Person[psor]=2	id	51
 * Person[psor]=2	kk	29
-* Person[psor]=2	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Person[psor]=2	sme	69
 * Person[psor]=2	tr	342
 * Person[psor]=2	tr_pud	28
-* Person[psor]=2	ug	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Person[psor]=3	bxr	108
 * Person[psor]=3	de_pud	205
 * Person[psor]=3	fi	2377
@@ -3034,11 +2900,9 @@ This is an automatically generated list of features and values (both universal a
 * Person[psor]=3	hu	2682
 * Person[psor]=3	id	1785
 * Person[psor]=3	kk	1280
-* Person[psor]=3	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Person[psor]=3	sme	257
 * Person[psor]=3	tr	6689
 * Person[psor]=3	tr_pud	2475
-* Person[psor]=3	ug	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Person[psor]=None	hu	10808
 
 ## Polarity
@@ -3861,19 +3725,6 @@ This is an automatically generated list of features and values (both universal a
 * PunctType=Semi	nl	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * PunctType=Semi	nl_lassysmall	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 
-## RefRole
-
-[RefRole]()
-
-* RefRole=Act	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* RefRole=Age	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* RefRole=Ben	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* RefRole=Ins	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* RefRole=Loc	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* RefRole=Man	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* RefRole=Pat	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* RefRole=The	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-
 ## Reflex
 
 [Reflex]()
@@ -3942,10 +3793,8 @@ This is an automatically generated list of features and values (both universal a
 
 * Register=Form	tr	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Register=Form	tr_pud	11
-* Register=Form	ug	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Register=Inf	tr	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Register=Inf	tr_pud	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* Register=Inf	ug	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 
 ## Strength
 
@@ -4027,10 +3876,8 @@ This is an automatically generated list of features and values (both universal a
 * Tense=Aor	kk	357
 * Tense=Aor	tr	1017
 * Tense=Aor	tr_pud	9
-* Tense=Aor	ug	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Tense=AorPast	tr	162
 * Tense=AorPast	tr_pud	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* Tense=AorPast	ug	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Tense=Fut	ar_pud	71
 * Tense=Fut	be	74
 * Tense=Fut	ca	3729
@@ -4088,7 +3935,6 @@ This is an automatically generated list of features and values (both universal a
 * Tense=Fut	ur	688
 * Tense=FutPast	tr	37
 * Tense=FutPast	tr_pud	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* Tense=FutPast	ug	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Tense=FutPlan	kk	6
 * Tense=Imp	bg	1021
 * Tense=Imp	ca	3138
@@ -4286,12 +4132,6 @@ This is an automatically generated list of features and values (both universal a
 * Tense=Pres	uk	3356
 * Tense=Pres	ur	3962
 * Tense=PresHab	lt	3
-
-## Topic
-
-[Topic]()
-
-* Topic=Yes	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 
 ## Typo
 
@@ -4634,7 +4474,6 @@ This is an automatically generated list of features and values (both universal a
 * VerbForm=PartPast	hu	509
 * VerbForm=PartPres	hu	628
 * VerbForm=PartPus	lt	9
-* VerbForm=Rel	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * VerbForm=Stem	sv	1
 * VerbForm=Stem	sv_pud	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * VerbForm=Sup	cu	65
@@ -4720,7 +4559,6 @@ This is an automatically generated list of features and values (both universal a
 * Voice=Act	ta	1616
 * Voice=Act	uk	90
 * Voice=Act	ur	8656
-* Voice=Agf	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Voice=Auto	ga	251
 * Voice=Cau	bxr	14
 * Voice=Cau	eu	234
@@ -4734,10 +4572,7 @@ This is an automatically generated list of features and values (both universal a
 * Voice=Cau	zh_pud	129
 * Voice=CauPass	tr	136
 * Voice=CauPass	tr_pud	29
-* Voice=CauPass	ug	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Voice=Coop	kk	31
-* Voice=Insf	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
-* Voice=Locf	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Voice=Mid	be	140
 * Voice=Mid	grc	9908
 * Voice=Mid	grc_proiel	7836
@@ -4746,7 +4581,6 @@ This is an automatically generated list of features and values (both universal a
 * Voice=Mid	ru_syntagrus	23520
 * Voice=Mid	sa	15
 * Voice=Necess	lt	8
-* Voice=Paf	shopen	ZERO BUT LISTED AS PERMITTED IN VALIDATOR DATA
 * Voice=Pass	ar	1219
 * Voice=Pass	ar_nyuad	3736
 * Voice=Pass	ar_pud	242
