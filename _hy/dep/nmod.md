@@ -65,7 +65,7 @@ case(gold, like)
 
 Note, that so-called “bare noun compounds” (e.g. _թղթակից անդամ&nbsp;_ “corresponding member”) marked using the [compound]() relation.
 
-* for an explicative attribute of a noun: a typical example is a title attached to a name of a person. The relation is similar to the [flat]() relation that links the first and the last name, but it is not labeled `flat` because the title is not part of the name:
+* for an explicative attribute of a noun or for noun modifier specifying the whole-part relation: a typical example is a title/profession attached to a name of a person. The relation is similar to the [flat]() relation that links the first and the last name, but it is not labeled `flat` because the title is not part of the name:
 
 ~~~ sdparse
 առաջին նախագահ/NOUN[Case=Nom] Լևոն Տեր - Պետրոսյանը \n the-first president Levon Ter - Petrosyan 
