@@ -101,6 +101,17 @@ A Common Lisp library for various CoNLL-U-related operations. We have already fu
 * Homepage: <https://github.com/own-pt/cl-conllu/>
 * References: http://arademaker.github.io/bibliography/tilic-stil-2017.html
 
+### conllu-mode
+
+An Emacs mode for editing conllu files (syntax highlight, shortcuts from move cursor etc).
+
+* Category: editor
+* Platform: any SO that runs Emacs
+* Implementation: Emacs Lisp
+* License: CC-BY 4.0 (to confirm)
+* Homepage <https://github.com/odanoburu/conllu-mode>
+
+
 ### CoNLL-U viewer
 
 A simple browser-based (JavaScript, i.e. client side) viewer of your CoNLL-U files. Open your file, see the tree, go to the next tree. Click on a node to see all its attributes. Save the tree as an SVG graphics if needed. There is no way of jumping directly to a tree, neither by tree number, nor by searching attribute values.
