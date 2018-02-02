@@ -13,10 +13,3 @@ As discussed at the [brainstorming meeting in Pisa](http://universaldependencies
 3. [Existentials](existentials.html)
 4. [Comparative constructions](comparatives.html)
 5. [Expletives](expletives.html)
-
------
-
-Temporary discussion about guidelines for other aspects than annotation.
-The guidelines will be later moved to an appropriate page.
-
-1. [Data split to training, development and test files](split.html)
