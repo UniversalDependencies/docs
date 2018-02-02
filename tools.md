@@ -20,7 +20,8 @@ If you would like to have your tool added to this page, please write the
   * Format conversion
 * [Third-party tools](#third-party-tools)
   * [brat rapid annotation tool](#brat-rapid-annotation-tool)
-  * [CL-CONLLU](#cl-conllu)  
+  * [CL-CONLLU](#cl-conllu)
+  * [conllu-mode](#conllu-mode)
   * [CoNLL-U viewer](#conll-u-viewer)
   * [DKPro Core CoNLL-U reader/writer support](#dkpro-core-conll-u-readerwriter)
   * [Treex](#treex)
@@ -95,7 +96,7 @@ of treebanks from [UD v1](http://universaldependencies.org/docsv1/) to v2 guidel
 A Common Lisp library for various CoNLL-U-related operations. We have already functions for reading, writing, making queries, construct visualizations of sentences, compare trees etc. 
 
 * Category: library
-* Platform: any SO that runs a Common Lisp implementation
+* Platform: any OS that runs a Common Lisp implementation
 * Implementation: Common Lisp
 * License: Apache License
 * Homepage: <https://github.com/own-pt/cl-conllu/>
@@ -103,10 +104,10 @@ A Common Lisp library for various CoNLL-U-related operations. We have already fu
 
 ### conllu-mode
 
-An Emacs mode for editing conllu files (syntax highlight, shortcuts from move cursor etc).
+An Emacs mode for editing CoNLL-U files (syntax highlighting, column alignment, shortcuts for navigation, etc).
 
 * Category: editor
-* Platform: any SO that runs Emacs
+* Platform: any OS that runs Emacs
 * Implementation: Emacs Lisp
 * License: GPL 3.0
 * Homepage <https://github.com/odanoburu/conllu-mode>
