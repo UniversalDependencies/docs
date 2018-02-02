@@ -315,16 +315,15 @@ The tests are specified in the file `gen_index/stests.yaml` and rely on the quer
 
 # Language-specific guidelines
 
-Every treebank should be accompanied by a set of language-specific guidelines at http://universaldependencies.org/. These guidelines should minimally specify the following:
+Every language should have a set of language-specific guidelines at http://universaldependencies.org/.
+If there are multiple UD treebanks in one language, all should follow the same language-specific
+guidelines. It is common responsibility of the teams providing the treebanks to also provide the
+language-specific documentation.
 
-1. Tokenization: How was word segmentation performed? Does the treebank include multiword tokens?
-2. POS tags: What universal POS tags (if any) are not used?
-3. Features: What universal features are not used? What language-specific features/values have been added?
-4. Relations: What universal relations are not used? What language-specific subtypes have been added?
-
-There are <a href="contributing_language_specific.html">more detailed guidelines for language-specific documentation.</a>
-Also see the general guidelines about <a href="contributing.html">how to contribute</a> (which covers the conventions used in
-writing UD documentation, such as how to format examples).
+There are <a href="contributing_language_specific.html">guidelines specifying the requirements on
+language-specific documentation.</a> Also see the general guidelines about
+[how to contribute](contributing.html) (which covers the conventions used in writing UD
+documentation, such as how to format examples).
 
 # Building the release
 
