@@ -259,7 +259,8 @@ Once you do this, you are all set. Your copy will stay switched to the dev branc
 
 ## Data format and repository
 
-Up-to-date automatic validation runs of the repositories are available [here](http://universaldependencies.org/validation.html). These are based on the `dev` branch of the data and use the `validate.py` script described below.
+Up-to-date automatic validation runs of the repositories are available [here](http://quest.ms.mff.cuni.cz/cgi-bin/zeman/unidep/validation-report.pl).
+These are based on the `dev` branch of the data and use the `validate.py` script described below.
 
 The final data validation is an important step and each file released
 in the project is expected to validate as conforming to the basic
@@ -285,23 +286,24 @@ language-specific lists are stored in `data/deprel.xx`
 (language-specific relations) and `data/feat_val.xx`
 (language-specific features). In addition `data/*.ud` stores the UD
 taglists. Before you can validate data for a given language, you need to
-produce and commit the necessary tag lists. You can make the initial lists
-like so:
-
-    $ python conllu-stats.py --deprels=langspec path_to_your_data/*.conllu > data/deprel.xx
-    $ python conllu-stats.py --catvals=langspec path_to_your_data/*.conllu > data/feat_val.xx
-
-This will gather the language-specific lists in descending order by
-their frequency. It is important to check the resulting files for
-correctness, because otherwise the validation would of course be a
-no-op. Once you have checked the lists manually, you can add them to
-the repository:
+produce and commit the necessary tag lists and add them to the
+repository:
 
     $ git add data/deprel.xx data/feat_val.xx
     $ git commit -m "Adding language-specific data for xx."
     $ git push
 
-Since the `v2.0` release, whitespace is allowed in the `FORM` and `LEMMA` fields under conditions specified in [here](v2/segmentation.html). This is supported in the validator through the UD-wide file `data/tokens_w_space.ud` and its language-specific variants `data/tokens_w_space.xx`. In these files, each line is a [Python regular expression](https://docs.python.org/2/library/re.html) defining the permissible forms and lemmas that can contain a whitespace.
+**IMPORTANT:** Before UD release 2.2, the language specific lists of labels were in fact
+treebank-specific: for example, the two Finnish treebanks had separate lists of relation
+types, `deprel.fi` and `deprel.fi_ftb`, respectively. This is no longer supported. From the very
+beginning the UD policy is that all treebanks of one language adhere to the same language-specific
+guidelines. Therefore, all Finnish treebanks must now validate according to `deprel.fi`.
+
+Since the `v2.0` release, whitespace is allowed in the `FORM` and `LEMMA` fields under conditions
+specified [here](v2/segmentation.html). This is supported in the validator through the UD-wide
+file `data/tokens_w_space.ud` and its language-specific variants `data/tokens_w_space.xx`. In
+these files, each line is a [Python regular expression](https://docs.python.org/2/library/re.html)
+defining the permissible forms and lemmas that can contain a whitespace.
 
 # Content validation
 
