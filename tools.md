@@ -108,7 +108,7 @@ An Emacs mode for editing conllu files (syntax highlight, shortcuts from move cu
 * Category: editor
 * Platform: any SO that runs Emacs
 * Implementation: Emacs Lisp
-* License: CC-BY 4.0 (to confirm)
+* License: GPL 3.0
 * Homepage <https://github.com/odanoburu/conllu-mode>
 
 
