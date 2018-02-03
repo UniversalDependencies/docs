@@ -20,7 +20,7 @@ Contents:
   - [Repository branches](#repository-branches)
 * [Validation](#validation)
   - [Data format and repository](#data-format-and-repository)
-  - [Syntax](#syntax)
+  - [Content validation](#content-validation)
 * [Language-specific guidelines](#language-specific-guidelines)
 
 # New language or treebank
