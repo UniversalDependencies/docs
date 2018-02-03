@@ -32,6 +32,7 @@ If you would like to have your tool added to this page, please write the
   * [DgAnnotator](#DgAnnotator)
   * [Arborator](#Arborator)
   * [Deptreeviz](#Deptreeviz)
+  * [UD Annotatrix](#UDAnnotatrix)
 
 ## UD-maintained tools
 
@@ -229,3 +230,16 @@ WebAnno 3.0.0 does not support the CoNLL-U 2.0 format at this time.
 * License: Apache License 2.0 (open source)
 * Homepage: <https://gitlab.com/nats/deptreeviz>
 * References: Sven Zimmer, Arne Köhn
+
+
+### UD Annotatrix
+
+**UD Annotatrix** is a browser-based offline + online annotation tool for dependency trees aimed at the UD community. It supports a number of features, including validation and two-level tokenisation.
+
+* Category: manual annotation tool
+* Platform: Any
+* Implementation: Python, JavaScript
+* License: GPL-3.0 (open source)
+* Homepage: <https://github.com/jonorthwash/ud-annotatrix>
+* References:  Tyers, F. M., Sheyanova, M. and Washington, J. N. (2018) "UD Annotatrix: An annotation tool for Universal Dependencies". Proceedings of the 16th Conference on Treebanks and Linguistic Theories
+
