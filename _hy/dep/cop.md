@@ -100,11 +100,11 @@ cop(սենյակում, էր)
 cop(room.Loc, was)
 advmod(սենյակում, նորից)
 advmod(room.Loc, again)
-nmod:poss(սենյակում, իմ)
-nmod:poss(room.Loc, in-my)
+det:poss(սենյակում, իմ)
+det:poss(room.Loc, in-my)
 ~~~
 
-Note, that there is variation for existential constructions with existential auxiliary _կամ_ “be, exist”:
+Note, that there is variation for existential constructions with existential verb _կամ_ “be, exist” (see also [AUX](AUX_)):
 
 ~~~ sdparse
 Սեղանի վրա գիրք կա ։ \n There-is a-book on the-table .
