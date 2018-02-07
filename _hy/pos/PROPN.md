@@ -18,17 +18,14 @@ Single-word named entities should be tagged `PROPN` though they originate from a
 
 Note that names of languages (հայերեն, անգլերեն) and adjectives derived from geographical names (_հայկական, հայոց, անգլիական, երևանյան&nbsp;_ “Armenian, English, of Yerevan”) are written in lowercase and are not tagged `PROPN`.
 
-Personal names are typically treated as a sequence of proper nouns (one or more given names and one or more surnames). If the name contains prepositions, conjunctions or articles (foreign names), these are also tagged as `X` and the morphological analysis do not includes their original part of speech.
+Personal names are typically treated as a sequence of proper nouns (one or more given names and one or more surnames). If the name contains prepositions, conjunctions or articles (foreign names), these are also tagged as [X]() and the morphological analysis do not includes their original part of speech.
 
 When other phrases or sentences are used as names, the component words retain their original tags. For example, in _«Մենք ենք մեր սարերը»&nbsp;_, _Մենք&nbsp;_ is [PRON](), _ենք&nbsp;_ is [AUX](), _մեր&nbsp;_ is [DET](), etc.
 
 Acronyms of proper nouns, such as _ՄԱԿ&nbsp;_ “UN” and _ՆԱՏՕ&nbsp;_ “NATO”, should be tagged `PROPN`. Even if they contain numbers (as in various product names), they are tagged `PROPN` and not [SYM](): _ՏՈՒ-154Մ&nbsp;_, _ԻԼ-76&nbsp;_. However, if the token consists entirely of digits (like _7&nbsp;_ in _Windows 7&nbsp;_), it is tagged [NUM]().
 
-Armenian multi-word named entities have internal syntactic
-structure, which is preserved in the annotation. The headword is always noun
-and there may be other nouns involved. They will be tagged `PROPN` if they are proper nouns as single-word named entities. Even if an adjective is the
-first word of a multi-word name, and thus it starts with an uppercase letter,
-it is still tagged `ADJ`.
+Armenian multi-word named entities have internal syntactic structure, which is preserved in the annotation. The headword is always noun
+and there may be other nouns involved. They will be tagged `PROPN` if they are proper nouns as single-word named entities. Even if an adjective is the first word of a multi-word name, and thus it starts with an uppercase letter, it is still tagged `ADJ`.
 
 ### Examples
 
