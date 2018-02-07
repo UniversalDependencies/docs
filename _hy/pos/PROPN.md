@@ -33,7 +33,7 @@ it is still tagged `ADJ`.
 ### Examples
 
 - _<b>Դոնի</b>_.`PROPN` _<b>Ռոստով</b>_.`PROPN`, _<b>Մայնի</b>_.`PROPN` _<b>Ֆրանկֆուրտ</b>_.`PROPN` “Rostov-on-Don, Frankfurt am Main”. _Ռոստով&nbsp;_ and _Ֆրանկֆուրտ&nbsp;_ are the heads. The _Դոնի&nbsp;_, _Մայնի&nbsp;_ parts refer to the rivers flowing through the city, and are tagged as `PROPN` too.
-- _<b>Լյուդվիգ</b>_.`PROPN` _<b>վան</b>_.`PROPN` _<b>Բեթհովեն</b>_.`PROPN`, _<b>Միգել</b>_.`PROPN` _<b>դը</b>_.`PROPN` _<b>Սերվանտես</b>_.`PROPN` “Ludwig van Beethoven”, “Miguel de Cervantes”. The _van, de&nbsp;_ parts are prepositions in the languages of the names’ origin, but are tagged as `PROPN` in Armenian as sufficient grammaticalization has taken place.
+- _<b>Լյուդվիգ</b>_.`PROPN` _<b>վան</b>_.`PROPN` _<b>Բեթհովեն</b>_.`PROPN`, _<b>Միգել</b>_.`PROPN` _<b>դը</b>_.`PROPN` _<b>Սերվանտես</b>_.`PROPN` “Ludwig van Beethoven”, “Miguel de Cervantes”. The _van, de&nbsp;_ parts are prepositions in the languages of the names’ origin, but are tagged as `PROPN` in Armenian.
 - _Վերին_.`ADJ` _<b>Սասնաշեն</b>_.`PROPN` is a village. _Սասնաշեն&nbsp;_ is the head and it is
   tagged `PROPN` although it is a geographical name. _Վերին&nbsp;_ is an adjective meaning “upper” and it is
   tagged `ADJ`.
@@ -43,4 +43,3 @@ it is still tagged `ADJ`.
 - _Միավորված_.`ADJ` _ազգերի_.`NOUN` _կազմակերպություն_.`NOUN` “United Nations Organization”
   consists of three words, none of which is proper noun. However, the acronym
   _<b>ՄԱԿ</b>&nbsp;_ “UNO” is a single-token name and is tagged `PROPN`. In _ԵԱՀԿ.`PROPN`_ _Մինսկի.`PROPN`_ _խումբ.`NOUN`_ “The OSCE Minsk Group” the first two words as single-tokens are proper nouns and are tagged as such.
-
