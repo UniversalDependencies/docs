@@ -20,7 +20,8 @@ If you would like to have your tool added to this page, please write the
   * Format conversion
 * [Third-party tools](#third-party-tools)
   * [brat rapid annotation tool](#brat-rapid-annotation-tool)
-  * [CL-CONLLU](#cl-conllu)  
+  * [CL-CONLLU](#cl-conllu)
+  * [conllu-mode](#conllu-mode)
   * [CoNLL-U viewer](#conll-u-viewer)
   * [DKPro Core CoNLL-U reader/writer support](#dkpro-core-conll-u-readerwriter)
   * [Treex](#treex)
@@ -31,6 +32,7 @@ If you would like to have your tool added to this page, please write the
   * [DgAnnotator](#DgAnnotator)
   * [Arborator](#Arborator)
   * [Deptreeviz](#Deptreeviz)
+  * [UD Annotatrix](#UDAnnotatrix)
 
 ## UD-maintained tools
 
@@ -95,11 +97,22 @@ of treebanks from [UD v1](http://universaldependencies.org/docsv1/) to v2 guidel
 A Common Lisp library for various CoNLL-U-related operations. We have already functions for reading, writing, making queries, construct visualizations of sentences, compare trees etc. 
 
 * Category: library
-* Platform: any SO that runs a Common Lisp implementation
+* Platform: any OS that runs a Common Lisp implementation
 * Implementation: Common Lisp
 * License: Apache License
 * Homepage: <https://github.com/own-pt/cl-conllu/>
 * References: http://arademaker.github.io/bibliography/tilic-stil-2017.html
+
+### conllu-mode
+
+An Emacs mode for editing CoNLL-U files (syntax highlighting, column alignment, shortcuts for navigation, etc).
+
+* Category: editor
+* Platform: any OS that runs Emacs
+* Implementation: Emacs Lisp
+* License: GPL 3.0
+* Homepage <https://github.com/odanoburu/conllu-mode>
+
 
 ### CoNLL-U viewer
 
@@ -217,3 +230,16 @@ WebAnno 3.0.0 does not support the CoNLL-U 2.0 format at this time.
 * License: Apache License 2.0 (open source)
 * Homepage: <https://gitlab.com/nats/deptreeviz>
 * References: Sven Zimmer, Arne Köhn
+
+
+### UD Annotatrix
+
+**UD Annotatrix** is a browser-based offline + online annotation tool for dependency trees aimed at the UD community. It supports a number of features, including validation and two-level tokenisation.
+
+* Category: manual annotation tool
+* Platform: Any
+* Implementation: Python, JavaScript
+* License: GPL-3.0 (open source)
+* Homepage: <https://github.com/jonorthwash/ud-annotatrix>
+* References:  Tyers, F. M., Sheyanova, M. and Washington, J. N. (2018) "UD Annotatrix: An annotation tool for Universal Dependencies". Proceedings of the 16th Conference on Treebanks and Linguistic Theories
+
