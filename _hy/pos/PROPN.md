@@ -18,7 +18,7 @@ Single-word named entities should be tagged `PROPN` though they originate from a
 
 Note that names of languages (հայերեն, անգլերեն) and adjectives derived from geographical names (_հայկական, հայոց, անգլիական, երևանյան&nbsp;_ “Armenian, English, of Yerevan”) are written in lowercase and are not tagged `PROPN`.
 
-Personal names are typically treated as a sequence of proper nouns (one or more given names and one or more surnames). If the name contains prepositions, conjunctions or articles (foreign names), these are tagged as [DET](), the morphological analysis do not includes their original part of speech.
+Personal names are typically treated as a sequence of proper nouns (one or more given names and one or more surnames). If the name contains prepositions, conjunctions or articles (foreign names), these are also tagged as `PROPN` and the morphological analysis do not includes their original part of speech.
 
 When other phrases or sentences are used as names, the component words retain their original tags. For example, in _«Մենք ենք մեր սարերը»&nbsp;_, _Մենք&nbsp;_ is [PRON](), _ենք&nbsp;_ is [AUX](), _մեր&nbsp;_ is [DET](), etc.
 
@@ -33,6 +33,7 @@ it is still tagged `ADJ`.
 ### Examples
 
 - _<b>Դոնի</b>_.`PROPN` _<b>Ռոստով</b>_.`PROPN`, _<b>Մայնի</b>_.`PROPN` _<b>Ֆրանկֆուրտ</b>_.`PROPN` “Rostov-on-Don, Frankfurt am Main”. _Ռոստով&nbsp;_ and _Ֆրանկֆուրտ&nbsp;_ are the heads. The _Դոնի&nbsp;_, _Մայնի&nbsp;_ parts refer to the rivers flowing through the city, and are tagged as `PROPN` too.
+- _<b>Լյուդվիգ</b>_.`PROPN` _<b>վան</b>_.`PROPN` _<b>Բեթհովեն</b>_.`PROPN`, _<b>Միգել</b>_.`PROPN` _<b>դը</b>_.`PROPN` _<b>Սերվանտես</b>_.`PROPN` “Ludwig van Beethoven”, “Miguel de Cervantes”. The _van, de&nbsp;_ parts are prepositions in the languages of the names’ origin, but are tagged as `PROPN` in Armenian as sufficient grammaticalization has taken place.
 - _Վերին_.`ADJ` _<b>Սասնաշեն</b>_.`PROPN` is a village. _Սասնաշեն&nbsp;_ is the head and it is
   tagged `PROPN` although it is a geographical name. _Վերին&nbsp;_ is an adjective meaning “upper” and it is
   tagged `ADJ`.
@@ -42,3 +43,4 @@ it is still tagged `ADJ`.
 - _Միավորված_.`ADJ` _ազգերի_.`NOUN` _կազմակերպություն_.`NOUN` “United Nations Organization”
   consists of three words, none of which is proper noun. However, the acronym
   _<b>ՄԱԿ</b>&nbsp;_ “UNO” is a single-token name and is tagged `PROPN`. In _ԵԱՀԿ.`PROPN`_ _Մինսկի.`PROPN`_ _խումբ.`NOUN`_ “The OSCE Minsk Group” the first two words as single-tokens are proper nouns and are tagged as such.
+
