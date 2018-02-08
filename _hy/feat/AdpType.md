@@ -36,4 +36,4 @@ a postposition) as in _դեմ հանդիման_ “in front of”.
 
 #### Examples
 
-* _ի <b>հեճուկս</b>_ “to spite”, _ի <b>փառս</b>_ “in praise of”, _<b>հիման</b> վրա_ “on the basis of”
+* _ի <b>հեճուկս</b>_ “to spite”, _ի <b>փառս</b>_ “in praise of”
