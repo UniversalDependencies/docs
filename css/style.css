@@ -566,3 +566,69 @@ div.bordered-char span {
   line-height: 8.5px;
   font-weight: bold;
 }
+
+#stars00 {
+    width: 160px;
+    height: 32px;
+    background: url(http://universaldependencies.org/img/stars.png) 0 0;
+}
+
+#stars05 {
+    width: 160px;
+    height: 32px;
+    background: url(http://universaldependencies.org/img/stars.png) 0 -32px;
+}
+
+#stars10 {
+    width: 160px;
+    height: 32px;
+    background: url(http://universaldependencies.org/img/stars.png) 0 -64px;
+}
+
+#stars15 {
+    width: 160px;
+    height: 32px;
+    background: url(http://universaldependencies.org/img/stars.png) 0 -96px;
+}
+
+#stars20 {
+    width: 160px;
+    height: 32px;
+    background: url(http://universaldependencies.org/img/stars.png) 0 -128px;
+}
+
+#stars25 {
+    width: 160px;
+    height: 32px;
+    background: url(http://universaldependencies.org/img/stars.png) 0 -160px;
+}
+
+#stars30 {
+    width: 160px;
+    height: 32px;
+    background: url(http://universaldependencies.org/img/stars.png) 0 -192px;
+}
+
+#stars35 {
+    width: 160px;
+    height: 32px;
+    background: url(http://universaldependencies.org/img/stars.png) 0 -224px;
+}
+
+#stars40 {
+    width: 160px;
+    height: 32px;
+    background: url(http://universaldependencies.org/img/stars.png) 0 -256px;
+}
+
+#stars45 {
+    width: 160px;
+    height: 32px;
+    background: url(http://universaldependencies.org/img/stars.png) 0 -288px;
+}
+
+#stars50 {
+    width: 160px;
+    height: 32px;
+    background: url(http://universaldependencies.org/img/stars.png) 0 -320px;
+}
