@@ -19,20 +19,29 @@ If you would like to have your tool added to this page, please write the
   * Data validation
   * Format conversion
 * [Third-party tools](#third-party-tools)
-  * [brat rapid annotation tool](#brat-rapid-annotation-tool)
-  * [CL-CONLLU](#cl-conllu)
-  * [conllu-mode](#conllu-mode)
-  * [CoNLL-U viewer](#conll-u-viewer)
-  * [DKPro Core CoNLL-U reader/writer support](#dkpro-core-conll-u-readerwriter)
-  * [Treex](#treex)
-  * [Tred](#tred)
-  * [UDPipe](#udpipe)
-  * [UDAPI](#udapi)
-  * [WebAnno](#webanno)
-  * [DgAnnotator](#DgAnnotator)
-  * [Arborator](#Arborator)
-  * [Deptreeviz](#Deptreeviz)
-  * [UD Annotatrix](#UDAnnotatrix)
+  * Annotation tools
+    * [brat rapid annotation tool](#brat-rapid-annotation-tool)
+    * [WebAnno](#webanno)
+    * [DgAnnotator](#DgAnnotator)
+    * [UD Annotatrix](#UDAnnotatrix)
+    * [Tred](#tred)
+    * [Arborator](#Arborator)
+  * Editor modes
+    * [Emacs](#Emacs)
+    * [Atom](#Atom)
+    * [Sublime Text](#Sublime-text)
+  * Processing tools
+    * [CL-CONLLU](#cl-conllu)
+    * [DKPro Core CoNLL-U reader/writer support](#dkpro-core-conll-u-readerwriter)
+    * [Treex](#treex)
+    * [UDPipe](#udpipe)
+    * [UDAPI](#udapi)
+  * Visualization tools
+    * [Deptreeviz](#Deptreeviz)
+    * [CoNLL-U viewer](#conll-u-viewer)
+
+
+
 
 ## UD-maintained tools
 
@@ -80,7 +89,9 @@ of treebanks from [UD v1](http://universaldependencies.org/docsv1/) to v2 guidel
 
 ## Third-party tools
 
-### brat rapid annotation tool
+### Annotation Tools
+
+#### brat rapid annotation tool
 
 <img style="width: 40%; float:right" src="http://universaldependencies.org/img/brat.png"/>
 **brat** is a browser-based tool for text annotation. The brat [visualization](visualization.html) component is used in the [UD documentation system](https://spyysalo.github.io/annodoc/) and the tool comes with a [custom configuration](https://github.com/nlplab/brat/tree/master/configurations/Universal-Dependencies) allowing it to be used for UD annotation .
@@ -92,98 +103,8 @@ of treebanks from [UD v1](http://universaldependencies.org/docsv1/) to v2 guidel
 * Homepage: <http://brat.nlplab.org/>
 * References: [Stenetorp et al. (2012)](http://anthology.aclweb.org/E/E12/E12-2021.pdf)
 
-### CL-CoNLLU
 
-A Common Lisp library for various CoNLL-U-related operations. We have already functions for reading, writing, making queries, construct visualizations of sentences, compare trees etc. 
-
-* Category: library
-* Platform: any OS that runs a Common Lisp implementation
-* Implementation: Common Lisp
-* License: Apache License
-* Homepage: <https://github.com/own-pt/cl-conllu/>
-* References: http://arademaker.github.io/bibliography/tilic-stil-2017.html
-
-### conllu-mode
-
-An Emacs mode for editing CoNLL-U files (syntax highlighting, column alignment, shortcuts for navigation, etc).
-
-* Category: editor
-* Platform: any OS that runs Emacs
-* Implementation: Emacs Lisp
-* License: GPL 3.0
-* Homepage <https://github.com/odanoburu/conllu-mode>
-
-
-### CoNLL-U viewer
-
-A simple browser-based (JavaScript, i.e. client side) viewer of your CoNLL-U files. Open your file, see the tree, go to the next tree. Click on a node to see all its attributes. Save the tree as an SVG graphics if needed. There is no way of jumping directly to a tree, neither by tree number, nor by searching attribute values.
-
-* Category: tree viewer
-* Platform: any (browser-based)
-* Implementation: JavaScript
-* Credit: Milan Straka, Michal Sedlák
-* [Access here](conllu_viewer.html)
-
-### DKPro Core CoNLL-U reader/writer
-
-DKPro Core is collection of software components for natural language processing (NLP) based on the Apache UIMA framework. DKPro Core can be used to build workflows that automatically process text using a wide range of NLP tools from third parties that are all interoperable (Stanford CoreNLP, Apache OpenNLP, ClearNLP, mate-tools, etc etc.). It also supports a range of different data formats and can be used to convert between the different supported formats.
-
-Starting with version 1.9.0, DKPro Core supports [reading and writing](https://zoidberg.ukp.informatik.tu-darmstadt.de/jenkins/job/DKPro%20Core%20Documentation%20(GitHub)/de.tudarmstadt.ukp.dkpro.core$de.tudarmstadt.ukp.dkpro.core.doc-asl/doclinks/6/#format-ConllU) the CoNLL-U format. 
-
-The latest CoNLL-U 2.0 format is not yet supported.
-
-* Category: UIMA component
-* Platform: Windows, Linux, OS X
-* Implementation: Java
-* License: Apache License 2.0 (open source)
-* Homepage: <https://dkpro.github.io/dkpro-core/>
-* References: [see DKPro Core website](https://dkpro.github.io/dkpro-core/)
-
-
-### Treex
-
-**Treex** is a modular natural language processing framework. It reads and writes data in many formats (including CoNLL-U) and provides API for dependency tree manipulation. Many treebanks have been harmonized in [HamleDT](http://ufal.mff.cuni.cz/hamledt) and then converted to UD using Treex.
-
-* Category: treebank processing framework
-* Platform: tested mainly on Linux
-* Implementation: Perl
-* License: Perl
-* Homepage: <http://ufal.mff.cuni.cz/treex>
-* References: [Popel and Žabokrtský (2010)](http://ufal.mff.cuni.cz/~popel/papers/2010_icetal.pdf)
-
-### Tred
-
-<img style="float:right" src="http://universaldependencies.org/img/tred.png"/>
-**Tred** (Tree Editor) is a graph visualization and manipulation program written in Perl. It was the main tool used to annotate the Prague treebanks. It supports macros (in Perl) to automate frequently repeated operations. There are extensions for various annotation layers such as MWEs or coreference. It cannot read directly the CoNLL-U format. However, it is quite powerful in combination with [Treex](#treex), which can also convert the files from and to CoNLL-U.
-
-* Category: manual annotation tool
-* Platform: Windows, Linux, OS X
-* Implementation: Perl
-* License: GPL (open source)
-* Homepage: <http://ufal.mff.cuni.cz/tred/>
-* References: Petr Pajas, Peter Fabian
-
-### UDPipe
-
-<img style="float:right" src="http://universaldependencies.org/img/udpipe.png"/>
-**UDPipe** is a trainable pipeline for tokenization, tagging, lemmatization and parsing of CoNLL-U files. UDPipe is language-agnostic and can be trained given only annotated data in CoNLL-U format. (Nevertheless, to train the tokenizer, either the `SpaceAfter` feature must be present, or at least some plain text must be available; also morphological analyzer and lemmatizer can be improved if morphological dictionary is provided.) Trained models are provided for nearly all UD treebanks. UDPipe is available as a binary, as a library for C++, Python, Perl, Java, C#, and as a web service.
-
-* Category: trainable tokenizer, tagger, lemmatizer and parser
-* Platform: Linux, Windows, OS X
-* Implementation: C++; language bindings for Python, Perl, Java and C#
-* License: MPL 2.0 (open source)
-* Homepage: <http://ufal.mff.cuni.cz/udpipe>
-* On-line service: <http://lindat.mff.cuni.cz/services/udpipe/>
-* References: Milan Straka, Jan Hajič and Jana Straková 2016. UDPipe: Trainable Pipeline for Processing CoNLL-U Files Performing Tokenization, Morphological Analysis, POS Tagging and Parsing. LREC 2016, Portorož, Slovenia, May 2016.
-
-### UDAPI
-
-* Category: libraries for various UD and CoNLL-U-related operations in several programming languages
-* Implementation: Java, Perl, Python
-* License: GPL, Perl
-* Homepage: <http://udapi.github.io/>
-
-### WebAnno
+#### WebAnno
 
 WebAnno is a general purpose web-based annotation tool  for a wide range of linguistic annotations including various layers of morphological, syntactical, and semantic annotations. Additionaly, custom annotation layers can be defined, allowing WebAnno to be used also for non-linguistic annotation tasks. WebAnno targets annotation teams in which all annotators work independently from each other. The tool includes facilities for curating/merging the annotations from multiple annotators, calculating inter-annotator agreement, and project management. Additional features include a correction and automation mode as well as decent support for right-to-left languages.
 
@@ -198,7 +119,8 @@ WebAnno 3.0.0 does not support the CoNLL-U 2.0 format at this time.
 * Homepage: <https://webanno.github.io/webanno/>
 * References: [see WebAnno website](https://webanno.github.io/webanno/)
 
-### DgAnnotator
+
+#### DgAnnotator
 
 <img style="float:right" src="http://universaldependencies.org/img/dga.png"/>
 **DgAnnotator** (Dependency Graph Annotator) is a visual tool for annotating text with syntactic information, in particular creating a dependency tree. The tool reads and produces annotated documents in both XML, CoNLL-X and CoNLL-U tab separated format. Additional features: shows the differences, highlighted in red, between two different dependency trees on the same corpus; generates PNG snapshots of trees; performs PoS tagging and parsing connecting to a network service; panning and zooming.
@@ -210,29 +132,8 @@ WebAnno 3.0.0 does not support the CoNLL-U 2.0 format at this time.
 * Homepage: <http://medialab.di.unipi.it/Project/QA/Parser/DgAnnotator/>
 * References: Giuseppe Attardi
 
-### Arborator
 
-<img style="float:right" src="http://universaldependencies.org/img/arborator.PNG"/>
-**Arborator** is a manual dependency annotation tool supporting editing of POS tags and dependency relations in an easy to use drag and drop interface. It has project management features including specialized class-sourcing features, such as mixing in small amounts of gold data for evaluation/grading and assigning tasks to annotators. It supports color schemes for different labels and can read and write conll format dependencies. It now supports conllu input as well. There is also a 'quick mode' that can be used without setting up a project, just be copy-pasting conll data. For a demo, see here: <https://arborator.ilpga.fr/q.cgi>
-
-* Category: manual annotation tool
-* Platform: Any
-* Implementation: Python, JavaScript
-* License: AGPL-3.0 (open source)
-* Homepage: <https://arborator.ilpga.fr/>
-* References: Gerdes, Kim (2013), Collaborative Dependency Annotation. In: Proceedings of the Second International Conference on Dependency Linguistics (DepLing 2013). Prague, 88–97. 
-
-### Deptreeviz
-
-* Category: tree visualization (SVG graphics)
-* Platform: Any
-* Implementation: Java
-* License: Apache License 2.0 (open source)
-* Homepage: <https://gitlab.com/nats/deptreeviz>
-* References: Sven Zimmer, Arne Köhn
-
-
-### UD Annotatrix
+#### UD Annotatrix
 
 **UD Annotatrix** is a browser-based offline + online annotation tool for dependency trees aimed at the UD community. It supports a number of features, including validation and two-level tokenisation.
 
@@ -243,3 +144,151 @@ WebAnno 3.0.0 does not support the CoNLL-U 2.0 format at this time.
 * Homepage: <https://github.com/jonorthwash/ud-annotatrix>
 * References:  Tyers, F. M., Sheyanova, M. and Washington, J. N. (2018) "UD Annotatrix: An annotation tool for Universal Dependencies". Proceedings of the 16th Conference on Treebanks and Linguistic Theories
 
+
+#### Tred
+
+<img style="float:right" src="http://universaldependencies.org/img/tred.png"/>
+**Tred** (Tree Editor) is a graph visualization and manipulation program written in Perl. It was the main tool used to annotate the Prague treebanks. It supports macros (in Perl) to automate frequently repeated operations. There are extensions for various annotation layers such as MWEs or coreference. It cannot read directly the CoNLL-U format. However, it is quite powerful in combination with [Treex](#treex), which can also convert the files from and to CoNLL-U.
+
+* Category: manual annotation tool
+* Platform: Windows, Linux, OS X
+* Implementation: Perl
+* License: GPL (open source)
+* Homepage: <http://ufal.mff.cuni.cz/tred/>
+* References: Petr Pajas, Peter Fabian
+
+
+#### Arborator
+
+<img style="float:right" src="http://universaldependencies.org/img/arborator.PNG"/>
+**Arborator** is a manual dependency annotation tool supporting editing of POS tags and dependency relations in an easy to use drag and drop interface. It has project management features including specialized class-sourcing features, such as mixing in small amounts of gold data for evaluation/grading and assigning tasks to annotators. It supports color schemes for different labels and can read and write conll format dependencies. It now supports conllu input as well. There is also a 'quick mode' that can be used without setting up a project, just be copy-pasting conll data. For a demo, see here: <https://arborator.ilpga.fr/q.cgi>
+
+* Category: manual annotation tool
+* Platform: Any
+* Implementation: Python, JavaScript
+* License: AGPL-3.0 (open source)
+* Homepage: <https://arborator.ilpga.fr/>
+* References: Gerdes, Kim (2013), Collaborative Dependency Annotation. In: Proceedings of the Second International Conference on Dependency Linguistics (DepLing 2013). Prague, 88–97.
+
+
+
+
+### Editor modes
+
+#### Emacs
+
+`conllu-mode` is an Emacs mode for editing CoNLL-U files (syntax highlighting, column alignment, shortcuts for navigation, etc).
+
+* Category: editor
+* Platform: any OS that runs Emacs
+* Implementation: Emacs Lisp
+* License: GPL 3.0
+* Homepage <https://github.com/odanoburu/conllu-mode>
+
+#### Atom
+
+This package provides syntax highlighting for CoNLL-U files in Atom.
+
+* Category: editor
+* Platform: any OS that runs Atom
+* Implementation: --
+* License: Apache 2.0
+* Homepage <https://atom.io/packages/language-conllu>
+
+
+#### Sublime Text
+
+Syntax highlighting for CoNLL-U files on Sublime Text.
+
+* Category: editor
+* Platform: any OS that runs Sublime Text
+* Implementation: --
+* License: Apache 2.0
+* Homepage <https://github.com/stephsamson/CoNLL-U.tmLanguage/>
+
+
+
+### Processing tools
+
+#### CL-CoNLLU
+
+A Common Lisp library for various CoNLL-U-related operations. We have already functions for reading, writing, making queries, construct visualizations of sentences, compare trees etc. 
+
+* Category: library
+* Platform: any OS that runs a Common Lisp implementation
+* Implementation: Common Lisp
+* License: Apache License
+* Homepage: <https://github.com/own-pt/cl-conllu/>
+* References: http://arademaker.github.io/bibliography/tilic-stil-2017.html
+
+
+#### DKPro Core CoNLL-U reader/writer
+
+DKPro Core is collection of software components for natural language processing (NLP) based on the Apache UIMA framework. DKPro Core can be used to build workflows that automatically process text using a wide range of NLP tools from third parties that are all interoperable (Stanford CoreNLP, Apache OpenNLP, ClearNLP, mate-tools, etc etc.). It also supports a range of different data formats and can be used to convert between the different supported formats.
+
+Starting with version 1.9.0, DKPro Core supports [reading and writing](https://zoidberg.ukp.informatik.tu-darmstadt.de/jenkins/job/DKPro%20Core%20Documentation%20(GitHub)/de.tudarmstadt.ukp.dkpro.core$de.tudarmstadt.ukp.dkpro.core.doc-asl/doclinks/6/#format-ConllU) the CoNLL-U format. 
+
+The latest CoNLL-U 2.0 format is not yet supported.
+
+* Category: UIMA component
+* Platform: Windows, Linux, OS X
+* Implementation: Java
+* License: Apache License 2.0 (open source)
+* Homepage: <https://dkpro.github.io/dkpro-core/>
+* References: [see DKPro Core website](https://dkpro.github.io/dkpro-core/)
+
+#### Treex
+
+**Treex** is a modular natural language processing framework. It reads and writes data in many formats (including CoNLL-U) and provides API for dependency tree manipulation. Many treebanks have been harmonized in [HamleDT](http://ufal.mff.cuni.cz/hamledt) and then converted to UD using Treex.
+
+* Category: treebank processing framework
+* Platform: tested mainly on Linux
+* Implementation: Perl
+* License: Perl
+* Homepage: <http://ufal.mff.cuni.cz/treex>
+* References: [Popel and Žabokrtský (2010)](http://ufal.mff.cuni.cz/~popel/papers/2010_icetal.pdf)
+
+
+#### UDPipe
+
+<img style="float:right" src="http://universaldependencies.org/img/udpipe.png"/>
+**UDPipe** is a trainable pipeline for tokenization, tagging, lemmatization and parsing of CoNLL-U files. UDPipe is language-agnostic and can be trained given only annotated data in CoNLL-U format. (Nevertheless, to train the tokenizer, either the `SpaceAfter` feature must be present, or at least some plain text must be available; also morphological analyzer and lemmatizer can be improved if morphological dictionary is provided.) Trained models are provided for nearly all UD treebanks. UDPipe is available as a binary, as a library for C++, Python, Perl, Java, C#, and as a web service.
+
+* Category: trainable tokenizer, tagger, lemmatizer and parser
+* Platform: Linux, Windows, OS X
+* Implementation: C++; language bindings for Python, Perl, Java and C#
+* License: MPL 2.0 (open source)
+* Homepage: <http://ufal.mff.cuni.cz/udpipe>
+* On-line service: <http://lindat.mff.cuni.cz/services/udpipe/>
+* References: Milan Straka, Jan Hajič and Jana Straková 2016. UDPipe: Trainable Pipeline for Processing CoNLL-U Files Performing Tokenization, Morphological Analysis, POS Tagging and Parsing. LREC 2016, Portorož, Slovenia, May 2016.
+
+#### UDAPI
+
+* Category: libraries for various UD and CoNLL-U-related operations in several programming languages
+* Implementation: Java, Perl, Python
+* License: GPL, Perl
+* Homepage: <http://udapi.github.io/>
+
+
+
+### Visualization tools
+
+#### Deptreeviz
+
+* Category: tree visualization (SVG graphics)
+* Platform: Any
+* Implementation: Java
+* License: Apache License 2.0 (open source)
+* Homepage: <https://gitlab.com/nats/deptreeviz>
+* References: Sven Zimmer, Arne Köhn
+
+
+#### CoNLL-U viewer
+
+A simple browser-based (JavaScript, i.e. client side) viewer of your CoNLL-U files. Open your file, see the tree, go to the next tree. Click on a node to see all its attributes. Save the tree as an SVG graphics if needed. There is no way of jumping directly to a tree, neither by tree number, nor by searching attribute values.
+
+* Category: tree viewer
+* Platform: any (browser-based)
+* Implementation: JavaScript
+* Credit: Milan Straka, Michal Sedlák
+* [Access here](conllu_viewer.html)
