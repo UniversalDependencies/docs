@@ -22,14 +22,14 @@ If you would like to have your tool added to this page, please write the
   * Annotation tools
     * [brat rapid annotation tool](#brat-rapid-annotation-tool)
     * [WebAnno](#webanno)
-    * [DgAnnotator](#DgAnnotator)
-    * [UD Annotatrix](#UDAnnotatrix)
+    * [DgAnnotator](#dgannotator)
+    * [UD Annotatrix](#udannotatrix)
     * [Tred](#tred)
-    * [Arborator](#Arborator)
+    * [Arborator](#arborator)
   * Editor modes
-    * [Emacs](#Emacs)
-    * [Atom](#Atom)
-    * [Sublime Text](#Sublime-text)
+    * [Emacs](#emacs)
+    * [Atom](#atom)
+    * [Sublime Text](#sublime-text)
   * Processing tools
     * [CL-CONLLU](#cl-conllu)
     * [DKPro Core CoNLL-U reader/writer support](#dkpro-core-conll-u-readerwriter)
@@ -37,7 +37,7 @@ If you would like to have your tool added to this page, please write the
     * [UDPipe](#udpipe)
     * [UDAPI](#udapi)
   * Visualization tools
-    * [Deptreeviz](#Deptreeviz)
+    * [Deptreeviz](#deptreeviz)
     * [CoNLL-U viewer](#conll-u-viewer)
     * [UDAPI](#udapi)
 
