@@ -43,6 +43,21 @@ nummod(xuéshēng, sān)
 clf(sān, gè)
 </div>
 
+Sometimes a classifier is inserted between a demonstrative and a noun (instead of numeral and noun) [zh]:
+
+<div class="sd-parse">
+乘坐 這 輛 巴士 \n Chéngzuò zhè liàng bāshì \n Take this CLF bus
+obj(乘坐, 巴士)
+det(巴士, 這)
+clf(這, 輛)
+obj(Chéngzuò, bāshì)
+det(bāshì, zhè)
+clf(zhè, liàng)
+obj(Take, bus)
+det(bus, this)
+clf(this, CLF)
+</div>
+
 Classifier words also occur in various other constructions, and so it is important to distinguish the word in a particular
 language from the universal classifier function proposed in UD. We go through here some further examples with Chinese classifiers.
 
