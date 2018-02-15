@@ -78,7 +78,7 @@ the modified noun. In Armenian exclamative determiners are recruited from the se
 Article is a special case of determiner that bears the feature of
 [definiteness](Definite). Note, that in Armenian `Def` value is marked directly on nouns.
 
-See also the related features [PossNumber]() and [PossPerson]().
+See also the related features [Number[psor]]() and [Person[psor]]().
 
 #### Examples
 
@@ -104,7 +104,7 @@ Note that Armenian make a distinction between proximal or first person (objects 
 
 As emphatic pro-adjectives (determiners) these emphasize the nominal they depend on. There are similarities with personal, demonstrative, reflexive and possessive pronouns / determiners.
 
-See also the [PossNumber]() and [PossPerson]() features for further details.
+See also the [Number[psor]]() and [Person[psor]]() features for further details.
 
 #### Examples
 
@@ -124,7 +124,7 @@ See also the [PossNumber]() and [PossPerson]() features for further details.
 
 ### <a name="Neg">`Neg`</a>: negative pronoun or determiner
 
-Negative pronominal words are distinguished from negating [particles](PART) and from words that inflect for polarity (verbs.) Those words do not use `PronType=Neg`, they use `Polarity=Neg` instead. See the [Polarity](Polarity) feature for further details.
+Negative pronominal words are distinguished from negating [particles](PART) and from words that inflect for polarity (verbs.) Those words do not use `PronType=Neg`, they use `Polarity=Neg` instead. See the [Polarity]() feature for further details.
 
 #### Examples
 
