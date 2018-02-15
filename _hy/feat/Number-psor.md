@@ -1,6 +1,6 @@
 ---
 layout: feature
-title: 'PossNumber'
+title: 'Number[psor]'
 shortdef: 'possessor’s number'
 udver: '2'
 ---
@@ -15,27 +15,27 @@ udver: '2'
 
 Possessives may have two different numbers: that of the possessed object (number
 agreement with modified noun) and that of the possessor. The
-`PossNumber` feature captures the possessor's number. 
+`Number[psor]` feature captures the possessor's number. 
 
 Note that in traditional Armenian grammars besides the definite article, possessive, demonstrative and personal articles (suffixes) are distinguished. These make a distinction between the objects, that are near to the speaker (proximal, first person), near to the addressee (second person), and far from both (third person) or are possessed to them. We do not distinguish them as separate features.
 
-See also the relatived feature [PossPerson]().
+See also the relatived feature [Person[psor]]().
 
 ### <a name="Sing">`Sing`</a>: singular possessor
 
 #### Examples
 
-* _տուն<b>ս</b>_ “<b>my</b> house” `PossNumber=Sing|Number=Sing`
-* _տներ<b>ս</b>_ “<b>my</b> houses” `PossNumber=Sing|Number=Plur`
-* _գալ<b>ս</b>_ “<b>my</b> coming” `PossNumber=Sing`
-* _ինք<b>ս</b>_ “<b>I myself</b>” `PossNumber=Sing|Number=Sing`
-* _հետ<b>ս</b>_ “with <b>me</b>” `PossNumber=Sing`
+* _տուն<b>ս</b>_ “<b>my</b> house” `Number[psor]=Sing|Number=Sing`
+* _տներ<b>ս</b>_ “<b>my</b> houses” `Number[psor]=Sing|Number=Plur`
+* _գալ<b>ս</b>_ “<b>my</b> coming” `Number[psor]=Sing`
+* _ինք<b>ս</b>_ “<b>I myself</b>” `Number[psor]=Sing|Number=Sing`
+* _հետ<b>ս</b>_ “with <b>me</b>” `Number[psor]=Sing`
 
 ### <a name="Plur">`Plur`</a>: plural possessor
 
 #### Examples
 
-* _տուն<b>ներս</b>_ “<b>our</b> houses” `PossNumber=Plur|Number=Plur`
-* _գալ<b>ներս</b>_ “<b>our</b> coming” `PossNumber=Plur`
-* _ինք<b>ներս</b>_ “<b>we ourselves</b>” `PossNumber=Plur|Number=Sing`
-* _հետ<b>ներս</b>_ “with <b>us</b>” `PossNumber=Plur`
+* _տուն<b>ներս</b>_ “<b>our</b> houses” `Number[psor]=Plur|Number=Plur`
+* _գալ<b>ներս</b>_ “<b>our</b> coming” `Number[psor]=Plur`
+* _ինք<b>ներս</b>_ “<b>we ourselves</b>” `Number[psor]=Plur|Number=Sing`
+* _հետ<b>ներս</b>_ “with <b>us</b>” `Number[psor]=Plur`
