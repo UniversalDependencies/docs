@@ -4,7 +4,7 @@ title:  'Armenian UD'
 udver: '2'
 ---
 
-# UD for Armenian (Eastern) <span class="flagspan"><img class="flag" src="../../flags/svg/HY.svg" /></span>
+# UD for Armenian (Eastern) <span class="flagspan"><img class="flag" src="../../flags/svg/AM.svg" /></span>
 
 ## Tokenization and Word Segmentation
 
