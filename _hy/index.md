@@ -24,5 +24,13 @@ This is an overview only. For more detailed discussion and examples, see the lis
 and [Armenian features](feat/index.html).
 
 * Armenian uses all 17 universal POS categories, including particles ([PART]()). The exact list of particles yet to be worked out.
-* The tag [DET]() is used for articles and pronominal words used with a determiner function, including possessives (the traditional grammar does not define determiners, but distinguish pronominal modifiers). The tag [PRON]() is reserved for pronouns occurring as the head of a noun phrase.
-  Pronominal quantifiers (which the traditional grammar includes in pronouns) are [DET]() as well.
+* The tag [DET]() is used for articles and pronominal words used with a determiner function, including possessives (the traditional grammar does not define determiners, but distinguish pronominal modifiers). The tag [PRON]() is reserved for pronouns occurring as the head of a noun phrase. Pronominal quantifiers (which the traditional grammar includes in pronouns) are [DET]() as well.
+
+* Verbs with modal meaning are not considered auxiliary in Armenian.
+* There are five main (de)verbal forms, distinguished by the UPOS tag and the value of the [VerbForm]() feature:
+  * Infinitive `Inf`, tagged [VERB]() or [AUX]().
+  * Finite verb `Fin`, tagged [VERB]() or [AUX]().
+  * Participle `Part`, tagged [VERB]() or [AUX]() (in so-called secondary periphrastic tenses).
+  * Converb `Conv`, tagged [VERB]() or [AUX]().
+  * Gerundive `Gdv`, tagged [VERB]().
+* Though participles can be used adjectivally in Armenian they are generally tagged [VERB]().
