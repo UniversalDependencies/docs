@@ -651,7 +651,7 @@ The following formal rules apply (copied from the summary at the beginning of th
 <table> <!--Er sitzt auf dem Boden. \n He sits on the floor.-->
 <tbody><tr><td width="600">
 <div class="conllu-parse">
-# visual-style 2 4 nmod color:green
+# visual-style 2 5 obl color:green
 # text = He sits on the floor
 1  Er     he     PRON _ Case=Nom 2 nsubj _ _
 2  sitzt  sits   NOUN _ _        0 root  _ _
@@ -661,7 +661,7 @@ The following formal rules apply (copied from the summary at the beginning of th
 </div>
 </td><td width="600">
 <div class="conllu-parse">
-# visual-style 2 4 nmod:gen color:blue
+# visual-style 2 5 obl:auf:dat color:blue
 # text = He sits on the floor
 1  Er     he     PRON _ Case=Nom 2 nsubj       _ _
 2  sitzt  sits   NOUN _ _        0 root        _ _
