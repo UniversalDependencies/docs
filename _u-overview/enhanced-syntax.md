@@ -702,6 +702,38 @@ The following formal rules apply (copied from the summary at the beginning of th
 </td></tr></tbody>
 </table>
 
+<table> <!--В течение долгого времени изучал язык майя. \n For a long time he studied the Maya language.-->
+<tbody><tr><td width="600">
+<div class="conllu-parse">
+# visual-style 5 4 obl:tmod color:green
+# visual-style 6 7 nmod color:green
+# text = For a long time he studied the Maya language.
+1  В        In        ADP    _  _         4  case      _  _
+2  течение  duration  NOUN   _  Case=Loc  1  fixed     _  _
+3  долгого  long      ADJ    _  Case=Gen  4  amod      _  _
+4  времени  time      NOUN   _  Case=Gen  5  obl:tmod  _  _
+5  изучал   studied   VERB   _  _         0  root      _  _
+6  язык     language  NOUN   _  Case=Acc  5  obj       _  _
+7  майя     Maya      PROPN  _  Case=Gen  6  nmod      _  SpaceAfter=No
+8  .        .         PUNCT  _  _         5  punct     _  _
+</div>
+</td><td width="600">
+<div class="conllu-parse">
+# visual-style 5 4 obl:tmod:в_течение:gen color:blue
+# visual-style 6 7 nmod:gen color:blue
+# text = For a long time he studied the Maya language.
+1  В        In        ADP    _  _         4  case                    _  _
+2  течение  duration  NOUN   _  Case=Loc  1  fixed                   _  _
+3  долгого  long      ADJ    _  Case=Gen  4  amod                    _  _
+4  времени  time      NOUN   _  Case=Gen  5  obl:tmod:в_течение:gen  _  _
+5  изучал   studied   VERB   _  _         0  root                    _  _
+6  язык     language  NOUN   _  Case=Acc  5  obj                     _  _
+7  майя     Maya      PROPN  _  Case=Gen  6  nmod:gen                _  SpaceAfter=No
+8  .        .         PUNCT  _  _         5  punct                   _  _
+</div>
+</td></tr></tbody>
+</table>
+
 ## Additional enhancements
 
 Some postprocessing steps such as demoting light nouns that behave like quantificational determiners (as, for example, described in [Schuster and Manning (2016)](http://www.lrec-conf.org/proceedings/lrec2016/pdf/779_Paper.pdf)) can improve the usability of the dependency graphs for downstream applications. However, as most of these additions are highly language-specific, we do not provide any universal guidelines for such a representation and anything beyond the above additions is not part of the UD standard and should not be added to the officially released treebanks.
