@@ -21,7 +21,7 @@ the feature of polarity.
 It applies to [verbs](VERB) and [auxilaries](AUX).
 
 Note that `Polarity=Neg` is not the same thing as
-[PronType]()`=Neg`. For pronouns and other pronominal parts of speech
+`[PronType]()=Neg`. For pronouns and other pronominal parts of speech
 there is no such binary opposition as for verbs and auxilaries. (There
 is no such thing as “affirmative pronoun”.)
 
