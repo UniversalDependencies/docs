@@ -32,7 +32,7 @@ colon-separated sections is 4. We provide a more detailed explanation of the ext
 
 1. Universal dependency relation. In addition to the [37 relations](http://universaldependencies.org/u/dep/index.html)
    defined in the basic representation, the relation can also be <tt><a href="#relative-clauses">ref</a></tt>.
-2. Documented relation subtype (either language-specific or more general) from the basic representation.
+2. Documented [relation subtype](/ext-dep-index.html) (either language-specific or more general) from the basic representation.
 3. Enhanced subtype: either `xcomp` or `relcl`.
 4. [Case information](#case-information) –
    adposition or conjunction that occurs as a `case`, `mark` or `cc` dependent of the node whose relation to its
