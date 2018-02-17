@@ -13,8 +13,8 @@ We always intended the Universal Dependencies representation to be used in shall
 _Enhanced_ UD graphs may contain some or all of the following enhancements, which are described in the sections below.
 
 * [Null nodes for elided predicates](#ellipsis)
-* [Additional subject relations for control and raising constructions](#controlledraised-subjects)
 * [Propagation of conjuncts](#propagation-of-conjuncts)
+* [Additional subject relations for control and raising constructions](#controlledraised-subjects)
 * [Coreference in relative clause constructions](#relative-clauses)
 * [Modifier labels that contain the preposition or other case-marking information](#case-information)
 
@@ -46,64 +46,6 @@ colon-separated sections is 4. We provide a more detailed explanation of the ext
    morphological case of the node whose relation to its parent is being enhanced. Value corresponds to the value of
    the Case feature but it is lowercased (e.g., `gen` instead of `Gen`). Unlike in morphological features, multivalues with comma
    (`Case=Acc,Dat`) are not allowed. Case information in enhanced relations must be fully disambiguated.
-
-
-## Controlled/raised subjects
-
-The _basic_ trees lack a subject dependency between a controlled verb and its controller or between an embedded verb and its raised subject. In the _enhanced_ graph, there is an additional dependency between the embedded verb and the subject of the matrix clause.
-
-<table id="control-raising-example1"> <!--Mary wants to buy a book .-->
-<thead><tr><th>Basic</th><th>Enhanced</th></tr></thead>
-<tbody><tr><td width="600">
-<div class="conllu-parse">
-1 Mary  _ _ _ _ 2 nsubj _ _
-2 wants _ _ _ _ 0 root  _ _
-3 to    _ _ _ _ 4 mark  _ _
-4 buy   _ _ _ _ 2 xcomp _ _
-5 a     _ _ _ _ 6 det   _ _
-6 book  _ _ _ _ 4 obj   _ _
-7 .     _ _ _ _ 2 punct _ _
-</div>
-</td><td width="600">
-<div class="conllu-parse">
-# visual-style 4 1 nsubj color:blue
-1 Mary  _ _ _ _ 2 nsubj 4:nsubj _
-2 wants _ _ _ _ 0 root  _ _
-3 to    _ _ _ _ 4 mark  _ _
-4 buy   _ _ _ _ 2 xcomp _ _
-5 a     _ _ _ _ 6 det   _ _
-6 book  _ _ _ _ 4 obj   _ _
-7 .     _ _ _ _ 2 punct _ _
-</div>
-</td></tr></tbody>
-</table>
-
-<table id="control-raising-example2"> <!--She seems to be reading a book .-->
-<tbody><tr><td width="600">
-<div class="conllu-parse">
-1 She     _ _ _ _ 2 nsubj _ _
-2 seems   _ _ _ _ 0 root  _ _
-3 to      _ _ _ _ 5 mark  _ _
-4 be      _ _ _ _ 5 aux   _ _
-5 reading _ _ _ _ 2 xcomp _ _
-6 a       _ _ _ _ 7 det   _ _
-7 book    _ _ _ _ 5 obj   _ _
-8 .       _ _ _ _ 2 punct _ _
-</div>
-</td><td width="600">
-<div class="conllu-parse">
-# visual-style 5 1 nsubj color:blue
-1 She     _ _ _ _ 2 nsubj 5:nsubj _
-2 seems   _ _ _ _ 0 root  _ _
-3 to      _ _ _ _ 5 mark  _ _
-4 be      _ _ _ _ 5 aux   _ _
-5 reading _ _ _ _ 2 xcomp _ _
-6 a       _ _ _ _ 7 det   _ _
-7 book    _ _ _ _ 5 obj   _ _
-8 .       _ _ _ _ 2 punct _ _
-</div>
-</td></tr></tbody>
-</table>
 
 
 ## Ellipsis
@@ -445,6 +387,65 @@ Each conjunct in a conjoined modifier phrase gets attached to the governor of th
 </div>
 </td></tr></tbody>
 </table>
+
+
+## Controlled/raised subjects
+
+The _basic_ trees lack a subject dependency between a controlled verb and its controller or between an embedded verb and its raised subject. In the _enhanced_ graph, there is an additional dependency between the embedded verb and the subject of the matrix clause.
+
+<table id="control-raising-example1"> <!--Mary wants to buy a book .-->
+<thead><tr><th>Basic</th><th>Enhanced</th></tr></thead>
+<tbody><tr><td width="600">
+<div class="conllu-parse">
+1 Mary  _ _ _ _ 2 nsubj _ _
+2 wants _ _ _ _ 0 root  _ _
+3 to    _ _ _ _ 4 mark  _ _
+4 buy   _ _ _ _ 2 xcomp _ _
+5 a     _ _ _ _ 6 det   _ _
+6 book  _ _ _ _ 4 obj   _ _
+7 .     _ _ _ _ 2 punct _ _
+</div>
+</td><td width="600">
+<div class="conllu-parse">
+# visual-style 4 1 nsubj color:blue
+1 Mary  _ _ _ _ 2 nsubj 4:nsubj _
+2 wants _ _ _ _ 0 root  _ _
+3 to    _ _ _ _ 4 mark  _ _
+4 buy   _ _ _ _ 2 xcomp _ _
+5 a     _ _ _ _ 6 det   _ _
+6 book  _ _ _ _ 4 obj   _ _
+7 .     _ _ _ _ 2 punct _ _
+</div>
+</td></tr></tbody>
+</table>
+
+<table id="control-raising-example2"> <!--She seems to be reading a book .-->
+<tbody><tr><td width="600">
+<div class="conllu-parse">
+1 She     _ _ _ _ 2 nsubj _ _
+2 seems   _ _ _ _ 0 root  _ _
+3 to      _ _ _ _ 5 mark  _ _
+4 be      _ _ _ _ 5 aux   _ _
+5 reading _ _ _ _ 2 xcomp _ _
+6 a       _ _ _ _ 7 det   _ _
+7 book    _ _ _ _ 5 obj   _ _
+8 .       _ _ _ _ 2 punct _ _
+</div>
+</td><td width="600">
+<div class="conllu-parse">
+# visual-style 5 1 nsubj color:blue
+1 She     _ _ _ _ 2 nsubj 5:nsubj _
+2 seems   _ _ _ _ 0 root  _ _
+3 to      _ _ _ _ 5 mark  _ _
+4 be      _ _ _ _ 5 aux   _ _
+5 reading _ _ _ _ 2 xcomp _ _
+6 a       _ _ _ _ 7 det   _ _
+7 book    _ _ _ _ 5 obj   _ _
+8 .       _ _ _ _ 2 punct _ _
+</div>
+</td></tr></tbody>
+</table>
+
 
 ## Relative clauses
 
