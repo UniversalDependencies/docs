@@ -28,4 +28,4 @@ and [Armenian features](feat/index.html).
   * Participle `Part`, tagged [VERB]() or [AUX]() (in so-called secondary periphrastic tenses).
   * Converb `Conv`, tagged [VERB]() or [AUX]().
   * Gerundive `Gdv`, tagged [VERB]().
-* Though participles can be used adjectivally they are generally tagged [VERB]().
+* Though the resulative, subject and future-I participles can be used adjectivally and can be negated they are generally tagged [VERB]().
