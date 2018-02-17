@@ -557,7 +557,7 @@ Case information may be represented by the lemma of an adposition attached via a
 For clauses, the corresponding information may be represented by the lemma of a `mark` dependent instead.
 <!-- DZ: Do we really want to include cc dependents here? How are they related to case? Don't we want to make them augment conj relations instead? -->
 Case information may also be represented by the value of the morphological feature [Case](/u/feat/Case.html).
-In some language, there is an adposition and the morphological case, and their combination must be reflected in the enhanced relation.
+In some languages, there is both the adposition and the morphological case, and their combination must be reflected in the enhanced relation.
 
 The following formal rules apply (copied from the summary at the beginning of this page):
 
