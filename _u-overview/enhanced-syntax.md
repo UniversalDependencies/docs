@@ -653,21 +653,23 @@ The following formal rules apply (copied from the summary at the beginning of th
 <div class="conllu-parse">
 # visual-style 2 5 obl color:green
 # text = He sits on the floor
-1  Er     he     PRON _ Case=Nom 2 nsubj _ _
-2  sitzt  sits   NOUN _ _        0 root  _ _
-3  auf    on     ADP  _ _        5 case  _ _
-4  dem    the    DET  _ Case=Dat 5 det   _ _
-5  Boden  floor  NOUN _ Case=Dat 2 obl   _ _
+1  Er     he     PRON  _ Case=Nom 2 nsubj _ _
+2  sitzt  sits   NOUN  _ _        0 root  _ _
+3  auf    on     ADP   _ _        5 case  _ _
+4  dem    the    DET   _ Case=Dat 5 det   _ _
+5  Boden  floor  NOUN  _ Case=Dat 2 obl   _ SpaceAfter=No
+6  .      .      PUNCT _ _        2 punct _ _
 </div>
 </td><td width="600">
 <div class="conllu-parse">
 # visual-style 2 5 obl:auf:dat color:blue
 # text = He sits on the floor
-1  Er     he     PRON _ Case=Nom 2 nsubj       _ _
-2  sitzt  sits   NOUN _ _        0 root        _ _
-3  auf    on     ADP  _ _        5 case        _ _
-4  dem    the    DET  _ Case=Dat 5 det         _ _
-5  Boden  floor  NOUN _ Case=Dat 2 obl:auf:dat _ _
+1  Er     he     PRON  _ Case=Nom 2 nsubj       _ _
+2  sitzt  sits   NOUN  _ _        0 root        _ _
+3  auf    on     ADP   _ _        5 case        _ _
+4  dem    the    DET   _ Case=Dat 5 det         _ _
+5  Boden  floor  NOUN  _ Case=Dat 2 obl:auf:dat _ SpaceAfter=No
+6  .      .      PUNCT _ _        2 punct       _ _
 </div>
 </td></tr></tbody>
 </table>
