@@ -20,6 +20,34 @@ _Enhanced_ UD graphs may contain some or all of the following enhancements, whic
 
 Note that the _enhanced_ graph is not necessarily a supergraph of the basic tree, i.e., the graph is not required to contain all the basic dependency relations. For this reason, all relations of the enhanced graph (also the ones that are present in the basic UD tree) have to be included in the _DEPS_ column of a CoNLL-U file. See the specificiation of the [CoNLL-U](/format.html) file format for details.
 
+Furthermore, the dependency relation labels in the enhanced graph in DEPS may contain certain extensions that are not permitted
+in the basic relation type in the DEPREL column. The regular expression restricting relation labels in DEPREL is pretty simple;
+the label can contain only lowercase English letters and at most one colon, which separates the universal and the language-specific
+part of the label: `^[a-z]+(:[a-z]+)?$`. In contrast, the relation label in DEPS may contain up to three colons, separating up to
+four sections. One of the sections (never the first one) may also contain lowercase Unicode letters and the underscore character:
+`^[a-z]+(:[\p{Ll}\p{Lm}\p{Lo}\p{M}]+(_[\p{Ll}\p{Lm}\p{Lo}\p{M}]+)*(:[\p{Ll}\p{Lm}\p{Lo}\p{M}]+(_[\p{Ll}\p{Lm}\p{Lo}\p{M}]+)*(:[\p{Ll}\p{Lm}\p{Lo}\p{M}]+(_[\p{Ll}\p{Lm}\p{Lo}\p{M}]+)*)?)?)?$`.
+Only the first section, the universal relation, is mandatory. The other sections are optional but if they appear, they must appear
+in the order described below. The enhanced subtype is mutually exclusive with case information, thus the maximum number of
+colon-separated sections is 4. We provide a more detailed explanation of the extra sections later on this page; here is a summary:
+
+1. Universal dependency relation. In addition to the [37 relations](http://universaldependencies.org/u/dep/index.html)
+   defined in the basic representation, the relation can also be `ref`.
+2. Documented relation subtype (either language-specific or more general) from the basic representation.
+3. Enhanced subtype: either `xcomp` or `relcl`.
+4. [Case information](#case-information) –
+   adposition or conjunction that occurs as a `case`, `mark` or `cc` dependent of the node whose relation to its
+   parent is being enhanced. Note that this is the only part where non-ASCII letters are permitted within the enhanced relation label.
+   The word should be normalized (lowercased, no typos), i.e., in general we take its lemma. However, if the case/mark/cc dependent is
+   a fixed multi-word expression, the lemma of the expression is not necessarily composed of lemmas of the individual member words.
+   For instance, the string representing the English expression “As Opposed To” is `as_opposed_to`. That is, the casing is normalized
+   from “As” to “as” etc., but “opposed” is not replaced by its lemma “oppose” because the expression is fixed. We use the underscore
+   character (“_”) to connect member words.
+5. [Case information](#case-information) –
+   morphological case of the node whose relation to its parent is being enhanced. Value corresponds to the value of
+   the Case feature but it is lowercased (e.g., `gen` instead of `Gen`). Unlike in morphological features, multivalues with comma
+   (`Case=Acc,Dat`) are not allowed. Case information in enhanced relations must be fully disambiguated.
+
+
 ## Controlled/raised subjects
 
 The _basic_ trees lack a subject dependency between a controlled verb and its controller or between an embedded verb and its raised subject. In the _enhanced_ graph, there is an additional dependency between the embedded verb and the subject of the matrix clause.
