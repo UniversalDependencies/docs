@@ -7,16 +7,18 @@ udver: '2'
 
 # Introduction
 
-UD currently contains one treebank for Armenian (Eastern):
+UD currently contains one treebank for Eastern Armenian:
 
-* The Eastern Armenian data come from the ՀայՇտեմ - ArmDT-East dataset (version 1.0): a mix of random sentences sampled from different sources and representing different genres and domains, released in several formats (local on-line newspaper and journal articles, contemporary fiction, textbooks). UD Eastern Armenian is a conversion of the ArmDT-East dataset originally annotated and manually checked by a team led by Marat M. Yavrumyan at the Yerevan State University and by Hrant H. Khachatryan in YerevaNN research lab (Yerevan).
-
-Below we give a brief description of UD Eastern Armenian treebank. More information can be found in the respective README files.
+* UD_Armenian
 
 ## UD Armenian (Eastern)
 [https://github.com/UniversalDependencies/UD_Armenian/](https://github.com/UniversalDependencies/UD_Armenian/)  
 
-UD Armenian is based on the ՀայՇտեմ - ArmDT-East dataset (version 1.0) originally annotated by the team led by Marat M. Yavrumyan. It consists of --- sentences and --- tokens. The annotation scheme was developed in according to the UD guidelines. All data were checked manually. Documentation is provided by Marat M. Yavrumyan and Anna S. Danielyan.
+UD_Armenian is based on the ՀայՇտեմ - ArmDT-East dataset (version 1.0), a mix of random sentences sampled from different sources and representing different genres and domains, released in several formats (local on-line newspaper and journal articles, contemporary fiction, textbooks), originally annotated by a team led by Marat M. Yavrumyan at the Yerevan State University. The annotation scheme was developed in according to the UD guidelines. All data were checked manually. The tokenization and POS-tagging process was carried out through alternating steps of automatic scripting and manual revision, and finally with some out-of-domain parsing modules led by Hrant H. Khachatryan in the YerevaNN research lab. Parsing results also underwent a manual revision.
+
+UD_Armenian comprises --- sentences and --- tokens. Documentation is provided by Marat M. Yavrumyan and Anna S. Danielyan.
+
+The first preliminary release was issued in April 2018, for the CoNLL-2018 shared task.
 
 ### Source of annotations
 
