@@ -147,8 +147,8 @@ Note that the DEPS field should be a self-contained representation of the enhanc
     5    books    book    NOUN    NNS    Number=Plur                        2    obj      2:obj|4:obj
     6    .        .       PUNCT   .      _                                  2    punct    2:punct
 
-The dependency relations in both DEPREL and DEPS must have the form `[a-z][a-z_-]*(:[a-z][a-z_-]*)?`,
-and use of the dash (`-`) character instead of underscore (`_`) is encouraged.
+The dependency relations in DEPREL must have the form `[a-z]+(:[a-z]+)?`.
+Certain extensions of this basic format will be allowed in DEPS but not in DEPRELS.
 
 # Miscellaneous
 
