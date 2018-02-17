@@ -154,7 +154,8 @@ Note that the DEPS field should be a self-contained representation of the enhanc
     6    .        .       PUNCT   .      _                                  2    punct    2:punct
 
 The dependency relations in DEPREL must have the form `[a-z]+(:[a-z]+)?`.
-Certain extensions of this basic format will be allowed in DEPS but not in DEPREL.
+Certain extensions of this basic format will be allowed in DEPS but not in DEPREL;
+see the guidelines for the [enhanced representation](/u/overview/enhanced-syntax.html) for details.
 
 # Miscellaneous
 
