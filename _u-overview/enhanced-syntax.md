@@ -648,6 +648,30 @@ The following formal rules apply (copied from the summary at the beginning of th
 </td></tr></tbody>
 </table>
 
+<table> <!--Er sitzt auf dem Boden. \n He sits on the floor.-->
+<tbody><tr><td width="600">
+<div class="conllu-parse">
+# visual-style 2 4 nmod color:green
+# text = He sits on the floor
+1  Er     he     PRON _ Case=Nom 2 nsubj _ _
+2  sitzt  sits   NOUN _ _        0 root  _ _
+3  auf    on     ADP  _ _        5 case  _ _
+4  dem    the    DET  _ Case=Dat 5 det   _ _
+5  Boden  floor  NOUN _ Case=Dat 2 obl   _ _
+</div>
+</td><td width="600">
+<div class="conllu-parse">
+# visual-style 2 4 nmod:gen color:blue
+# text = He sits on the floor
+1  Er     he     PRON _ Case=Nom 2 nsubj       _ _
+2  sitzt  sits   NOUN _ _        0 root        _ _
+3  auf    on     ADP  _ _        5 case        _ _
+4  dem    the    DET  _ Case=Dat 5 det         _ _
+5  Boden  floor  NOUN _ Case=Dat 2 obl:auf:dat _ _
+</div>
+</td></tr></tbody>
+</table>
+
 ## Additional enhancements
 
 Some postprocessing steps such as demoting light nouns that behave like quantificational determiners (as, for example, described in [Schuster and Manning (2016)](http://www.lrec-conf.org/proceedings/lrec2016/pdf/779_Paper.pdf)) can improve the usability of the dependency graphs for downstream applications. However, as most of these additions are highly language-specific, we do not provide any universal guidelines for such a representation and anything beyond the above additions is not part of the UD standard and should not be added to the officially released treebanks.
