@@ -549,7 +549,28 @@ It may be embedded deeper as in the following example.
 
 ## Case Information
 
-Adding prepositions (or case information) to the relation name of non-core dependents often makes it possible to disambiguate its semantic role. We therefore augment `nmod`, `obl`, `acl` and `advcl` relation labels with the preposition or the case of the modifier.
+Adding prepositions (or case information) to the relation name of non-core dependents often makes it possible to disambiguate its
+semantic role. We therefore augment certain relation labels with the case information of the modifier.
+The augmented relations are `nmod`, `acl`, `obl` and `advcl`; if it makes sense in the language, some core relations may also be
+augmented: `obj`, `iobj`, `ccomp`.
+Case information may be represented by the lemma of an adposition attached via a `case` relation.
+For clauses, the corresponding information may be represented by the lemma of a `mark` dependent instead.
+<!-- DZ: Do we really want to include cc dependents here? How are they related to case? Don't we want to make them augment conj relations instead? -->
+Case information may also be represented by the value of the morphological feature [Case](/u/feat/Case.html).
+In some language, there is an adposition and the morphological case, and their combination must be reflected in the enhanced relation.
+
+The following formal rules apply (copied from the summary at the beginning of this page):
+
+* Adposition or conjunction that occurs as a `case` or `mark` <!--or `cc` ?--> dependent of the node whose relation to its
+  parent is being enhanced. Note that this is the only part where non-ASCII letters are permitted within the enhanced relation label.
+  The word should be normalized (lowercased, no typos), i.e., in general we take its lemma. However, if the case/mark dependent is
+  a fixed multi-word expression, the lemma of the expression is not necessarily composed of lemmas of the individual member words.
+  For instance, the string representing the English expression “As Opposed To” is `as_opposed_to`. That is, the casing is normalized
+  from “As” to “as” etc., but “opposed” is not replaced by its lemma “oppose” because the expression is fixed. We use the underscore
+  character (“_”) to connect member words.
+* Morphological case of the node whose relation to its parent is being enhanced. Value corresponds to the value of
+  the Case feature but it is lowercased (e.g., `gen` instead of `Gen`). Unlike in morphological features, multivalues with comma
+  (`Case=Acc,Dat`) are not allowed. Case information in enhanced relations must be fully disambiguated.
 
 <table> <!--the house on the hill-->
 <tbody><tr><td width="600">
