@@ -50,11 +50,11 @@ In Armenian linguistics, these words are normally called _converbs_. However, si
 
 Armenian has eight types of participles:
 
-- The resultative participle is used to form the indicative mood in present perfect resultative, imperfect in the past resultative and proper resultative tense. It can be also used adjectively.
-- The subject participle can be used only adjectively.
+- The resultative participle is used to form the indicative mood in present perfect resultative, imperfect in the past resultative and proper resultative tense. It can be also used adjectively and can be negated.
+- The subject participle can be used only adjectively and can be negated.
 - The imperfective participle is used to form the indicative mood in present or imperfect tense.
 - The future-I participle is used to form the indicative mood in present prospective (future) or imperfect prospective (future in the past) tense.
-- The future-II (state of prospective action) participle can be used only adjectively.
+- The future-II (state of prospective action) participle can be used only adjectively and can be negated.
 - The perfect participle is used to form the indicative mood in present perfect or imperfect in the past (past perfect) tense.
 - The negative participle is used to form the negated conditional mood in present or imperfect tense.
 - The processual (progressive) participle is used to form the indicative mood in present or imperfect tense for the verbs _գալ, լալ, տալ_.
