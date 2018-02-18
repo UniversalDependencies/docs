@@ -48,6 +48,7 @@ udver: '2'
   * Converb `Conv` (an adverbial participle), tagged [VERB]() or (in principle, but not in release 2.2) [AUX]().
   * Participle `Part` (an adjectival participle), tagged [ADJ]().
   * Verbal noun `Vnoun` (a gerund), tagged [NOUN]().
+* Inherently impersonal forms ending in _-no/-to_ (a specialty of Polish and Ukrainian) are marked as finite verbs with `Person=0` (and `Tense=Past`).
 
 ### Nominal Features
 
@@ -63,43 +64,12 @@ udver: '2'
   * Some tagsets also include `Case` as a feature of prepositions ([ADP]()), although in this case it is a valency (i.e., syntactic rather than morphological) feature.  As such, as of release 2.2, it is only present in the MISC column in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank (but still in the FEATS column in the [Original](http://universaldependencies.org/treebanks/pl/index.html) treebank).
 * [Polite]() is used in Polish as a nominal feature, with the language-specific value `Depr` in case of special derogatory forms of some human masculine nouns, e.g., _profesory_ “professors (derogatory)”, as opposed to _profesorowie_ “professors (neutral)”.
 
-### Degree and Polarity
+### Pronouns, Determiners, Numerals
 
-* [Degree]() applies to adjectives ([ADJ]()) and adverbs ([ADV]()) and has one of three possible values: `Pos`, `Cmp`, `Sup`.
-* [Polarity]() has two values, `Pos` and `Neg`, and applies to de-verbal adjectives ([ADJ](); i.e., adjectival participles) and nouns ([NOUN](); i.e., gerunds), which can be negated using the bound morpheme _nie_.
-  * Often, _nie_ occurs as an independent negation particle ([PART]()) and is marked with `Polarity=Neg`.
-  * The `Polarity` feature is not used with pronouns, determiners or adverbs, although there is a subset of traditional pronouns (hence, here, elements of various parts of speech) which are negative in the sense that they have a negative meaning when used as standalone utterances but do not introduce additional negation when they occur with negated verbs (i.e., when they participate in so-called negative concord).  The `PronType=Neg` feature is used for such cases.
-
-### Verbal Features
-
-* Verbs have a lexical [Aspect](), either imperfective (`Imp`) or perfective (`Perf`). A few verbs are biaspectual and they lack the `Aspect`
-  feature. Some imperfective verbs could be further classified as iteratives but they are not marked as such (although UD provides `Aspect=Iter`).
-  * The `Aspect` feature should be also used with the corresponding derived nouns and adjectives (participles), if they have the
-    `VerbForm` feature.
-* Finite verbs always have one of three values of [Mood](): `Ind`, `Imp` or `Cnd`. The conditional mood is only used with conditional
-  auxiliary _(by)_. The finite part of the auxiliary, if present _(m, ś, śmy, ście),_ as well as the l-participle of the main verb, needed to form a periphrastic conditional,
-  are not marked with this feature.
-* Verbs in the indicative mood always have one of three values of [Tense](): `Past`, `Pres` or `Fut`.
-  Note that `Tense=Pres` is also used with forms of perfective verbs, which are formally present, but semantically future.
-  Hence both _idę do domu_ “I am going home” and _przyjdę do domu_ “I will come home” end up marked as `Tense=Pres`.
-  On the other hand, a few imperfective verbs can form a genuine future form using prefixes, and they are marked `Tense=Fut`:
-  _pójdę do domu_ “I will go home”.
-  * Imperative and conditional forms do not have the `Tense` feature (note that past and present conditionals are distinguished
-    analytically).
-  * The `Tense` feature is also used to distinguish present and past converbs (_robiąc_ “while doing” vs. _zrobiwszy_ “having done”),
-    and present and past participles (_robiący_ “doing” vs. _zrobiwszy_ “having done”).
-    The l-participle (tagged `VERB` or `AUX`) also has `Tense=Past` because its primary function is to form the past tense.
-    The passive participle does not have the `Tense` feature.
-* There are two values of the [Voice]() feature: `Act` and `Pass`. Only the passive participle has `Voice=Pass`. All other verb forms have
-  `Voice=Act`.
-
-### Pronouns, Determiners, Quantifiers
-
-* [PronType]() is used with pronouns ([PRON]()), determiners ([DET]()) and adverbs ([ADV]()).
-* [NumType]() is used with numerals ([NUM]()), adjectives ([ADJ]()), determiners ([DET]()) and adverbs ([ADV]()).
+* [PronType]() is used with pronouns ([PRON]()), determiners ([DET]()) and adverbs ([ADV]()), as well as with the word _co_ when it plays the dual role of a complementiser ([SCONJ]()) introducing a special kind of relative clause (one that may involve resumptive pronouns).
+* [NumType]() (`Card` or `Frac`) is used with numerals ([NUM]()) and determiners ([DET]()).
 * The [Poss]() feature marks possessive personal determiners (e.g. _mój_ “my”).
-* The [Reflex]() feature marks reflexive pronouns _(się, sobie)_ and determiners _(swój)_.
-  In Polish it is always used together with `PronType=Prs`.
+* The [Reflex]() feature marks so-called reflexive pronouns _(się, sobie)_ and determiners _(swój)_, even when they are not used reflexively.
 * [Person]() is a lexical feature of personal pronouns ([PRON]()) and has three values, `1`, `2` and `3`.
   With personal possessive determiners ([DET]()), the feature actually encodes the person of the possessor.
   Person is not marked on other types of pronouns and on nouns, although they can be almost always interpreted as the 3rd person.
@@ -109,15 +79,47 @@ udver: '2'
   The extra layer is needed to distinguish this lexical number from the inflectional number
   that marks agreement with the modified (possessed) noun.
 
+### Degree and Polarity
+
+* [Degree]() applies to adjectives ([ADJ]()) and adverbs ([ADV]()) and has one of three possible values: `Pos`, `Cmp`, `Sup`.
+* [Polarity]() has two values, `Pos` and `Neg`, and applies to de-verbal adjectives ([ADJ](); i.e., adjectival participles) and nouns ([NOUN](); i.e., gerunds), which can be negated using the bound morpheme _nie_.
+  * Often, _nie_ occurs as an independent negation particle ([PART]()) and is marked with `Polarity=Neg`.
+  * The `Polarity` feature is not used with pronouns, determiners or adverbs, although there is a subset of traditional pronouns (hence, here, elements of various parts of speech) which are negative in the sense that they have a negative meaning when used as standalone utterances but do not introduce additional negation when they occur with negated verbs (i.e., when they participate in so-called negative concord).  The `PronType=Neg` feature is used for such cases.
+
+### Verbal Features
+
+* Typical Polish verbs (including auxiliaries) have lexical [Aspect](), either imperfective (`Imp`) or perfective (`Perf`). There is, however, a class of verb-like words, marked as [VERB]() with the universal `VerbType` feature with the language-specific `Quasi` value, which do not inflect for person and do not have aspect.
+  * The `Aspect` feature is also used with the corresponding derived nouns (gerunds) and adjectives (participles), if they have the `VerbForm` feature.
+* Finite verbs always have one of three values of [Mood](): `Ind`, `Imp` or `Cnd`. The conditional mood is only used with conditional
+  auxiliary _(by)_. The finite part of the auxiliary, if present _(m, ś, śmy, ście),_ as well as the l-participle of the main verb, needed to form a periphrastic conditional,
+  are not marked with this feature.
+* Verbs in the indicative mood always have one of three values of [Tense](): `Past`, `Pres` or `Fut`.
+  Note that `Tense=Pres` is also used with forms of perfective verbs, which are formally present, but semantically future.
+  Hence both _idę do domu_ “I am going home” and _przyjdę do domu_ “I will come home” end up marked as `Tense=Pres`.
+  On the other hand, a few imperfective verbs can form a genuine future form using prefixes, and they are marked `Tense=Fut`:
+  _pójdę do domu_ “I will go home”.
+  * Imperative and conditional forms do not have the `Tense` feature (note that past and present conditionals are distinguished analytically).
+  * The `Tense` feature is also used to distinguish present and past converbs (_robiąc_ “while doing” vs. _zrobiwszy_ “having done”),
+    and present and past participles (_robiący_ “doing” vs. _zrobiwszy_ “having done”).
+    The l-participle (tagged `VERB` or `AUX`) also has `Tense=Past` because its primary function is to form the past tense.
+    The passive participle does not have the `Tense` feature.
+* There are two values of the [Voice]() feature: `Act` and `Pass`. Only the passive participle has `Voice=Pass`. All other verb forms have `Voice=Act`.
+
 ### Other Features
 
-* Besides the layered features listed above, there are several other language-specific features:
-  * [AdpType]()
-  * [Hyph]()
-  * [PrepCase]()
-  * [Variant]() ... distinguishes short and long forms of adjectives, a Slavic-wide phenomenon
-  * [Typo]()
-* The following universal features are not used in Polish: [Definite](), [Evident](), [Polite]().
+* Other universal features used in Polish include:
+  * [AdpType]() – almost always `Prep`, but in the case of the adposition _temu_ “ago” it is `Post`.
+  * [Hyph]() – marks forms such as _biało_ “white" in _biało-czerwony_ “white-and-red”.
+  * [PartType]() – used (as of release 2.2, only in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank) only to mark question particles (`Int`).
+  * [PrepCase]() – distinguishes those pronominal forms which may only occur as dependents of prepositions (`Pre`) from those which may only occur in other contexts (`Npr`).
+  * [PunctSide]() and [PunctType]()
+  * [Typo]() – marks typos (as of release 2.2, only used in the [Original](http://universaldependencies.org/treebanks/pl/index.html) treebank).
+* The following universal features are not used in Polish: [Definite](), [Evident]().
+* Apart from [SubGender](), other language-specific features include:
+  * [Agglutination]() – distinguishes these rare situation where the l-participle has different forms depending on whether the “mobile inflection” auxiliary attaches to it or not, e.g., _on mógł_ “he could” (`Agglutination=Nagl`) vs. _mogł_ in _ja mogłem_ “I could” (`Agglutination=Agl`); as of release 2.2, only used in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank).
+  * [Emphatic]() – present on those traditional pronouns (hence, various parts of speech here) which include the emphatic particle _ż(e)_, e.g., _co_ “what” (neutral) vs. _cóż_ “what” (emphatic); as of release 2.2, only used in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank).
+  * [Variant]() – distinguishes short and long forms of adjectives, a Slavic-wide phenomenon; in Polish also used to distinguish basic from vocalised versions of some pronouns (e.g., _z_ vs. _ze_ “from”), basic from vocalised versions of the “mobile inflection” auxiliary (e.g., _m_ from _em_), and short (not accentable) from long (accentable) forms of some pronouns.
+
 
 ## Syntax
 
