@@ -15,40 +15,37 @@ udver: '2'
 * In general, words are delimited by whitespace characters. Description of exceptions follows.
 * According to typographical rules, a punctuation mark is attached to a neighbouring (usually preceding) word. Punctuation marks are usually tokenised as separate tokens (words), unless they are considered an integral part of the lemma (as in _Rolls-Royce_ “Rolls-Royce”, _O’Donellowie_ “the O'Donells”, or _85-lecie_ “85th anniversary”) or are used to express inflection (as in the accusative or genitive _Melville'a_ “Melville”).  On the other hand, hyphens in constructions such as _biało-czerwona_ “white-and-red” are treated as separate tokens.
 * A whitespace separating digits in a large number is not treated as a word separator. For example, _1&nbsp;000&nbsp;000_ (“1,000,000” by English rules) is one token. (However, such tokens do not occur in Polish treebanks as of release 2.2.)
-* There are two classes of contractions that are treated as multi-word tokens and segmented to individual syntactic words. The most prominent type is an l-participle (or, rarely, another form) fused with a so-called “mobile inflection” auxiliary (e.g., _śmy_ expressing first person and plural number) or the conditional particle (also treated as an auxiliary) _by_, as in: _wyprodukowalibyśmy = wyprodukowali + by + śmy_ “we would have produced”.
+* There are two classes of contractions that are treated as multi-word tokens and segmented to individual syntactic words.
+  * The most prominent type is an l-participle (or, rarely, another form) fused with a so-called “mobile inflection” auxiliary (e.g., _śmy_ expressing first person and plural number) or the conditional particle _by_ (also treated as an auxiliary), as in: _wyprodukowalibyśmy = wyprodukowali + by + śmy_ “we would have produced”.
+  * Contractions of the other class consist of a preposition and a short (de-accented) pronouns, as in _czekał nań = czekałem na + ń_ “(he) waited for him”.
 
 ## Morphology
 
 ### Tags
 
-* Polish uses all 17 universal POS categories, including particles ([PART]()).
-  At present, more than 60 word types are tagged [PART](). This is a legacy of an existing Polish morphological analyzer
-  and many of these words should probably belong to another category in UD; however, the exact list has yet to be worked out.
-* The pronoun ([PRON]()) vs. determiner ([DET]()) distinction is based on word lists because the traditional grammar does not define determiners.
-  In general, words that inflect for gender, to be able to agree with a modified noun, are tagged [DET](), even if they
-  act independently in a given sentence; that includes possessives.
-  Pronominal quantifiers (which the traditional grammar includes in numerals) are [DET]() as well.
-* Polish has just one auxiliary verb ([AUX]()), _być_ (“to be”), but the lemma _bywać_ is also possible.
-  It is in fact just a variant of _być_, but it is a separate lemma because
-  the morphological process that relates it to _być_ is considered derivational.
+* Polish in principle uses all 17 universal POS categories, although, as of release 2.2, [SYM]() is used in neither of the two available treebanks, [X]() is only used in the [Original](http://universaldependencies.org/treebanks/pl/index.html) treebank (to mark abbreviations), and [INTJ]() is only used in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank.
+* The [NOUN]() tag is used not only for prototypical nouns, but also – somewhat arbitrarily – for gerunds (the so-called _-nie/-cie_ forms).
+* Pronouns ([PRON]()) are here understood as personal pronouns, so-called reflexive pronouns (also in their non-reflexive and – generally – non-pronominal uses), and such nominal pronouns as _kto_ “who”, _nic_ “nothing” and _wszyscy_ “everybody”.
+* As Polish grammars do not include a separate part of speech _determiner_, the [DET]() class is based on a word list and includes words treated by standard Polish tagsets as adjectives, numerals or even nouns:
+  * determiners treated elsewhere as adjectives inlclude possessive pronouns, as well as words such as _ten_ “this”, _każdy_ “each”, _taki_ “such”, _którykolwiek_ “whichever”, etc.,
+  * determiners treated elsewhere as numerals include indefinite numerals (e.g., _wiele_ “many”, _niedużo_ “not much, not many”, _kilka_ “several”), as well as fractional numerals such as _pół_ “half”,
+  * one determiner treated elsewhere as a noun is _mnóstwo_ “a lot”.
+* The main auxiliary verb ([AUX]()) in Polish is _być_ (“to be”), with the aspectual variant _bywać_ “to be (habitual)”.
   The auxiliary verb is used in several types of constructions:
-  * The copula with non-verbal predicates.
-  * Periphrastic future tense (future form of _być_ + infinitive of the main verb).
-  * Periphrastic past tense (present form of _być_ + l-participle of the main verb; the auxiliary is omitted with 3rd-person subjects).
-  * Periphrastic conditional (conditional form of _być_ + l-participle of the main verb).
-  * Periphrastic passive (any form of _być_, including periphrastic forms, + passive participle of the main verb).
-* In other words, _być_ and _bywać_ are the only lemmas that occur with the [AUX]() tag.
-  They may still occur also as normal [VERB]() if they are used in purely existential sentences
-  (i.e. such that don't even indicate location because if they do, then _być_ is treated as copula).
-  * Note that this may be changed in future. Existential sentences could be treated as elliptical versions of locational sentences;
-    then the verb would be the root, but it could still be tagged as `AUX` and the `AUX`-`VERB` distinction could be anchored in the lexicon.
+  * the copula with non-verbal predicates,
+  * periphrastic future tense (future form of _być_ + infinitive or so-called l-participle form of the main verb),
+  * periphrastic conditional (conditional form of _być_ + l-participle of the main verb),
+  * (imperfective) periphrastic passive (any form of _być_, including periphrastic forms, + passive participle of the main verb).
+  Another auxiliary, _zostać_ “become” (and its habitual version _zostawać_), is used for the perfective periphrastic passive (any form of _zostać_ + passive participle of the main verb).  Additionally, mood markers _by_ (conditional) and _niech_ (imperative, also its variant _niechaj_) are marked as `AUX`, as are the copular uses of _to_ (usually, but inappropriately in this context, translated as “this”).
+* The words _być_, _bywać_, _zostać_ and _zostawać_ may also occur as normal [VERB]() if they are used in purely existential sentences
+  (i.e. ones that don't even indicate location because if they do, then they shoul be treated as copulae).
 * Verbs with modal meaning are not considered auxiliary in Polish.
 * There are five main (de)verbal forms, distinguished by the UPOS tag and the value of the [VerbForm]() feature:
   * Infinitive `Inf`, tagged [VERB]() or [AUX]().
   * Finite verb `Fin`, tagged [VERB]() or [AUX]().
-  * Participle `Part`, tagged [VERB]() or [AUX]() (the so-called l-participle) or [ADJ]() (all other participle types).
-  * Converb `Conv`, tagged [VERB]() or [AUX]().
-  * Verbal noun `Vnoun`, tagged [NOUN]().
+  * Converb `Conv` (an adverbial participle), tagged [VERB]().
+  * Participle `Part` (an adjectival participle), tagged [ADJ]().
+  * Verbal noun `Vnoun` (a gerund), tagged [NOUN]().
 
 ### Nominal Features
 
@@ -191,8 +188,9 @@ udver: '2'
 
 ## Treebanks
 
-There is one Polish UD treebank:
+There are two Polish UD treebanks:
 
-  * [Polish](../../treebanks/pl-index.html)
+  * [Original](http://universaldependencies.org/treebanks/pl/index.html)
+  * [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html)
 
 [Czech-Polish comparison](../../treebanks/cs-pl-comparison.html)
