@@ -52,7 +52,7 @@ __ATTENTION: This page is currently (as of 18 February 2018) being revised, so i
 
 ### Nominal Features
 
-* Nouns words ([NOUN]() and [PROPN]()) have an inherent [Gender]() feature.  Five genders are standardly assumed in Polish linguistics (and in Polish tagsets): three masculine, one feminine and one neuter.  The three masculine genders are often called “human masculine”, “animate masculine” and “inanimate masculine”, but the correlation with the semantic animacy feature is far from perfect.  In particular, there are many “animate masculine” semantically inanimate nouns (including all masculine names of dances, and many more), as well as “animate masculine” nouns which are, semantically, human and feminine (some derogatory nouns for women, e.g., _babsztyl_), or which are human and, well, no longer animate (_trup_ “corpse”), or which are “superhuman” (e.g., _diabeł_ “devil” and _anioł_ “angel”, but not _bóg_ “god”, which is “human masculine”).  For the sake of cross-linugal consistency, three values are assume for the `Gender` feature, i.e., `Masc`, `Fem` and `Neut`, but there must be another feature which distinguishes the three masculine genders.
+* Nouns words ([NOUN]() and [PROPN]()) have an inherent [Gender]() feature.  Five genders are standardly assumed in Polish linguistics (and in Polish tagsets): three masculine, one feminine and one neuter.  The three masculine genders are often called “human masculine”, “animate masculine” and “inanimate masculine”, but the correlation with the semantic animacy feature is far from perfect.  In particular, there are many “animate masculine” semantically inanimate nouns (including all masculine names of dances, and many more), as well as “animate masculine” nouns which are, semantically, human and feminine (some derogatory nouns for women, e.g., _babsztyl_), or which are human and, well, no longer animate (_trup_ “corpse”), or which are “superhuman” (e.g., _diabeł_ “devil” and _anioł_ “angel”, but not _bóg_ “god”, which is “human masculine”).  For the sake of cross-linuguistic consistency, three values are assumed for the `Gender` feature, i.e., `Masc`, `Fem` and `Neut`, but there must be another feature which distinguishes the three masculine genders.
   * In the [Original](http://universaldependencies.org/treebanks/pl/index.html) treebank, the masculine gender is further subclassified by the [Animacy]() values `Hum`, `Nhum` and `Inan`.
   * In the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank, the masculine gender is further subclassified by the language-specific [SubGender]() feature with values `Masc1`, `Masc2` and `Masc3`.
 * The following parts of speech in general inflect for gender (they agree with nouns): [ADJ](), [DET](), [NUM](), [PRON](), [VERB](), [AUX](). In the case of pronouns, only personal pronouns inflect for gender; other nominal pronouns (as well as the nominal determiner _wszyscy_ “everybody”) have this feature defined lexically, and so-called reflexive pronouns lack this feature altogether.  In the case of tokens tagged as `VERB` or `AUX`, only past forms of finite verbs overtly inflect for gender.
@@ -62,14 +62,14 @@ __ATTENTION: This page is currently (as of 18 February 2018) being revised, so i
   It occurs with the nominal words, i.e., [NOUN](), [PROPN](), [PRON](), [ADJ](), [DET](), [NUM]().
   It can occur with de-verbal forms but only with those tagged as `ADJ` (adjectival participles) or `NOUN` (gerunds).  It never occurs with purely verbal forms.
   * Some tagsets also include `Case` as a feature of prepositions ([ADP]()), although in this case it is a valency (i.e., syntactic rather than morphological) feature.  As such, as of release 2.2, it is only present in the MISC column in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank (but still in the FEATS column in the [Original](http://universaldependencies.org/treebanks/pl/index.html) treebank).
-* [Polite]() is used in Polish as a nominal feature, with the language-specific value `Depr` in case of special derogatory forms of some human masculine nouns, e.g., _profesory_ “professors (derogatory)”, as opposed to _profesorowie_ “professors (neutral)”.
+* [Polite]() is used in Polish (in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank of release 2.2) as a nominal feature, with the language-specific value `Depr` in case of special derogatory forms of some human masculine nouns, e.g., _profesory_ “professors (derogatory)”, as opposed to _profesorowie_ “professors (neutral)”.
 
 ### Pronouns, Determiners, Numerals
 
 * [PronType]() is used with pronouns ([PRON]()), determiners ([DET]()) and adverbs ([ADV]()), as well as with the word _co_ when it plays the dual role of a complementiser ([SCONJ]()) introducing a special kind of relative clause (one that may involve resumptive pronouns).
 * [NumType]() (`Card` or `Frac`) is used with numerals ([NUM]()) and determiners ([DET]()).
 * The [Poss]() feature marks possessive personal determiners (e.g., _mój_ “my”).
-* The [Reflex]() feature marks so-called reflexive pronouns _(się, siebie)_ and determiners _(swój)_, even when they are not used reflexively.
+* The [Reflex]() feature marks so-called reflexive pronouns _(się, siebie)_ and determiners _(swój)_, even when they are not used reflexively or reciprocally.
 * [Person]() is a lexical feature of personal pronouns ([PRON]()) and has three values, `1`, `2` and `3`.
   With personal possessive determiners ([DET]()), the feature actually encodes the person of the possessor.
   Person is not marked on other types of pronouns and on nouns, although they can be almost always interpreted as the 3rd person.
@@ -90,7 +90,7 @@ __ATTENTION: This page is currently (as of 18 February 2018) being revised, so i
 
 * Typical Polish verbs (including auxiliaries) have lexical [Aspect](), either imperfective (`Imp`) or perfective (`Perf`). There is, however, a class of verb-like words, marked as [VERB]() with the universal `VerbType` feature with the language-specific `Quasi` value, which do not inflect for person and do not have aspect.
   * The `Aspect` feature is also used with the corresponding derived nouns (gerunds) and adjectives (participles), if they have the `VerbForm` feature.
-* Finite verbs always have one of three values of [Mood](): `Ind`, `Imp` or `Cnd`. The conditional mood is only used with conditional
+* Finite verbs have one of three values of [Mood](): `Ind`, `Imp` or `Cnd`. The conditional mood is only used with conditional
   auxiliary _(by)_. The finite part of the auxiliary, if present _(m, ś, śmy, ście),_ as well as the l-participle of the main verb, needed to form a periphrastic conditional,
   are not marked with this feature.
 * Verbs in the indicative mood always have one of three values of [Tense](): `Past`, `Pres` or `Fut`.
@@ -133,7 +133,7 @@ __ATTENTION: This page is currently (as of 18 February 2018) being revised, so i
   * However, it is possible to have a `csubj` dependency to a nominal word (a noun or an adjective), namely, when this word heads a copular clause.
 * In passive clauses (both reflexive and periphrastic passive), the subject is labeled with [nsubj:pass]() or [csubj:pass](), respectively.
   * The auxiliary verb in periphrastic passive is labeled [aux:pass]().
-  * If the demoted agent is present, it has the form of a bare instrumental phrase and its relation is labeled [obl:agent]().
+  * If the demoted agent is present, it has the form of a prepositional phrase headed by _przez_ “by”, and its relation is labeled [obl:agent]().
 * Direct objects are those dependents of verbs which may passivise, i.e., which become subjects in the passive voice.  Nominal direct objects are marked as [obj]().  They usually occur in the accusative case (but not bare accusative nominals are objects), but also some instrumental and genitive nominals may be direct objects.
   * Since only nominal dependents may be considered objects according to current UD guidelines, passivisable clauses are marked as [ccomp:obj]().
   * In the case of typical numeral phrases in the accusative object position, the noun actually occurs in the genitive case, similarly to subject positions, and the numeral is uncontroversially accusative.  Such constructions are marked as in the case of numeral subjects (see above).
