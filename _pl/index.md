@@ -142,8 +142,8 @@ __ATTENTION: This page is currently (as of 18 February 2018) being revised, so i
 * Required clausal dependents of verbs are marked as [ccomp](), unless they are subjects (`csubj`) or direct objects (`ccomp:obj`).
 * Open (“controlled”) dependents are marked as [xcomp](); typically, they are infinitival phrases, but also, in the case of some governing verbs (such as _stać się_ “become”), nominal phrases.
 * Extra attention has to be paid to the so-called reflexive pronoun _się_. It may function as:
-  * reflexive core object ([obj]()): _zobaczył się w lustrze_ “he sighted himself in the mirror” (in such cases _się_ may alternate with the longer form _siebie_),
-  * reciprocal core objects (`obj`): _całowali się_ “they were kissing each other”,
+  * reflexive direct object ([obj]()): _zobaczył się w lustrze_ “he sighted himself in the mirror” (in such cases _się_ may alternate with the longer form _siebie_),
+  * reciprocal directo object (`obj`): _całowali się_ “they were kissing each other”,
   * impersonal ([expl:impers]()): _oddycha się historią_ “one breathes with history”, lit. “breathe _się_ history.INS”,
   * an inherent part of a verb (usually included in the lemma in dictionaries). In accord with the current UD guidelines, we label the relation
     between the verb and the clitic as [expl:pv](), not `compound`. Example: _śmiała się_ “she laughed.”
