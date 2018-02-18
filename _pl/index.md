@@ -19,26 +19,26 @@ __ATTENTION: This page is currently (as of 18 February 2018) being revised, so i
 * A whitespace separating digits in a large number is not treated as a word separator. For example, _1&nbsp;000&nbsp;000_ (“1,000,000” by English rules) is one token. (However, such tokens do not occur in Polish treebanks as of release 2.2.)
 * There are two classes of contractions that are treated as multi-word tokens and segmented to individual syntactic words.
   * The most prominent type is an l-participle (or, rarely, another form) fused with a so-called “mobile inflection” auxiliary (e.g., _śmy_ expressing first person and plural number) or the conditional particle _by_ (also treated as an auxiliary), as in: _wyprodukowalibyśmy = wyprodukowali + by + śmy_ “we would have produced”.
-  * Contractions of the other class consist of a preposition and a short (de-accented) pronouns, as in _czekał nań = czekałem na + ń_ “(he) waited for him”.
+  * Contractions of the other class consist of a preposition and a short (not accentable) pronouns, as in _czekał nań = czekał na + ń_ “(he) waited for him”.
 
 ## Morphology
 
 ### Tags
 
 * Polish in principle uses all 17 universal POS categories, although, as of release 2.2, [SYM]() is used in neither of the two available treebanks, [X]() is only used in the [Original](http://universaldependencies.org/treebanks/pl/index.html) treebank (to mark abbreviations), and [INTJ]() is only used in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank.
-* The [NOUN]() tag is used not only for prototypical nouns, but also – somewhat arbitrarily – for gerunds (the so-called _-nie/-cie_ forms).
+* The [NOUN]() tag is used not only for prototypical nouns, but also – somewhat arbitrarily – for gerunds (the so-called _-nie/-cie_ forms), which have both nominal and verbal properties.
 * Pronouns ([PRON]()) are here understood as personal pronouns, so-called reflexive pronouns (also in their non-reflexive and – generally – non-pronominal uses), and such nominal pronouns as _kto_ “who”, _nic_ “nothing” and _wszyscy_ “everybody”.
 * As Polish grammars do not include a separate part of speech _determiner_, the [DET]() class is based on a word list and includes words treated by standard Polish tagsets as adjectives, numerals or even nouns:
   * determiners treated elsewhere as adjectives include possessive pronouns, as well as words such as _ten_ “this”, _każdy_ “each”, _taki_ “such”, _którykolwiek_ “whichever”, etc.,
   * determiners treated elsewhere as numerals include indefinite numerals (e.g., _wiele_ “many”, _niedużo_ “not much, not many”, _kilka_ “several”), as well as fractional numerals such as _pół_ “half”,
   * one determiner treated elsewhere as a noun is _mnóstwo_ “a lot”.
 * The main auxiliary verb ([AUX]()) in Polish is _być_ (“to be”), with the aspectual variant _bywać_ “to be (habitual)”.
-  The auxiliary verb is used in several types of constructions:
+  This auxiliary verb is used in several types of constructions:
   * the copula with non-verbal predicates,
   * periphrastic future tense (future form of _być_ + infinitive or so-called l-participle form of the main verb),
   * periphrastic conditional (conditional form of _być_ + l-participle of the main verb),
   * (imperfective) periphrastic passive (any form of _być_, including periphrastic forms, + passive participle of the main verb).
-  Another auxiliary, _zostać_ “become” (and its habitual version _zostawać_), is used for the perfective periphrastic passive (any form of _zostać_ + passive participle of the main verb).  Additionally, mood markers _by_ (conditional) and _niech_ (imperative, also its variant _niechaj_) are marked as `AUX`, as are the copular uses of _to_ (usually, but inappropriately in this context, translated as “this”).
+  Another auxiliary, _zostać_ “become” (and its habitual version _zostawać_), is used for the perfective periphrastic passive (any form of _zostać_ + passive participle of the main verb).  Additionally, mood markers _by_ (conditional) and _niech_ (imperative, also its variant _niechaj_) are marked as `AUX`, as are “mobile inflections” and the copular uses of _to_ (usually, but inappropriately in this context, translated as “this”).
 * The words _być_, _bywać_, _zostać_ and _zostawać_ may also occur as normal [VERB]() if they are used in purely existential sentences
   (i.e. ones that don't even indicate location because if they do, then they shoul be treated as copulae).
 * Verbs with modal meaning are not considered auxiliary in Polish.
@@ -52,7 +52,7 @@ __ATTENTION: This page is currently (as of 18 February 2018) being revised, so i
 
 ### Nominal Features
 
-* Nouns words ([NOUN]() and [PROPN]()) have an inherent [Gender]() feature.  Five genders are standardly assumed in Polish linguistics (and in Polish tagsets): three masculine, one feminine and one neuter.  The three masculine genders are often called “human masculine”, “animate masculine” and “inanimate masculine”, but the correlation with the semantic animacy feature is far from perfect.  In particular, there are many “animate masculine” semantically inanimate nouns (including all masculine names of dances, and many more), as well as “animate masculine” nouns which are, semantically, human and feminine (some derogatory nouns for women, e.g., _babsztyl_) or which are human and no longer animate (_trup_ “corpse”).  For the sake of cross-linugal consistency, three values are assume for the `Gender` feature, i.e., `Masc`, `Fem` and `Neut`, but there must be another feature which distinguishes the three masculine genders.
+* Nouns words ([NOUN]() and [PROPN]()) have an inherent [Gender]() feature.  Five genders are standardly assumed in Polish linguistics (and in Polish tagsets): three masculine, one feminine and one neuter.  The three masculine genders are often called “human masculine”, “animate masculine” and “inanimate masculine”, but the correlation with the semantic animacy feature is far from perfect.  In particular, there are many “animate masculine” semantically inanimate nouns (including all masculine names of dances, and many more), as well as “animate masculine” nouns which are, semantically, human and feminine (some derogatory nouns for women, e.g., _babsztyl_), or which are human and, well, no longer animate (_trup_ “corpse”), or which are “superhuman” (e.g., _diabeł_ “devil” and _anioł_ “angel”, but not _bóg_ “god”, which is “human masculine”).  For the sake of cross-linugal consistency, three values are assume for the `Gender` feature, i.e., `Masc`, `Fem` and `Neut`, but there must be another feature which distinguishes the three masculine genders.
   * In the [Original](http://universaldependencies.org/treebanks/pl/index.html) treebank, the masculine gender is further subclassified by the [Animacy]() values `Hum`, `Nhum` and `Inan`.
   * In the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank, the masculine gender is further subclassified by the language-specific [SubGender]() feature with values `Masc1`, `Masc2` and `Masc3`.
   * The following parts of speech in general inflect for gender (they agree with nouns): [ADJ](), [DET](), [NUM](), [PRON](), [VERB](), [AUX](). In the case of pronouns, only personal pronouns inflect for gender; other nominal pronouns (as well as the nominal determiner _wszyscy_ “everybody”) have this feature defined lexically, and so-called reflexive pronouns lack this feature altogether.  In the case of tokens tagged as `VERB` or `AUX`, only past forms of finite verbs overtly inflect for gender.
