@@ -116,8 +116,8 @@ __ATTENTION: This page is currently (as of 18 February 2018) being revised, so i
   * [Typo]() – marks typos (as of release 2.2, only used in the [Original](http://universaldependencies.org/treebanks/pl/index.html) treebank).
 * The following universal features are not used in Polish: [Definite](), [Evident]().
 * Apart from [SubGender](), other language-specific features include:
-  * [Agglutination]() – distinguishes these rare situation where the l-participle has different forms depending on whether the “mobile inflection” auxiliary attaches to it or not, e.g., _on mógł_ “he could” (`Agglutination=Nagl`) vs. _mogł_ in _ja mogłem_ “I could” (`Agglutination=Agl`); as of release 2.2, only used in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank).
-  * [Emphatic]() – present on those traditional pronouns (hence, various parts of speech here) which include the emphatic particle _ż(e)_, e.g., _co_ “what” (neutral) vs. _cóż_ “what” (emphatic); as of release 2.2, only used in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank).
+  * [Agglutination]() – distinguishes these rare situations where the l-participle has different forms depending on whether the “mobile inflection” auxiliary attaches to it or not, e.g., _on mógł_ “he could” (`Agglutination=Nagl`) vs. _mogł_ in _ja mogłem_ “I could” (`Agglutination=Agl`); as of release 2.2, only used in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank.
+  * [Emphatic]() – present on those traditional pronouns (hence, various parts of speech here) which include the emphatic particle _ż(e)_, e.g., _co_ “what” (neutral) vs. _cóż_ “what” (emphatic); as of release 2.2, only used in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank.
   * [Variant]() – distinguishes short and long forms of adjectives, a Slavic-wide phenomenon; in Polish primarily used to distinguish basic from vocalised versions of some pronouns (e.g., _z_ vs. _ze_ “from”), basic from vocalised versions of the “mobile inflection” auxiliary (e.g., _m_ from _em_), and short (not accentable) from long (accentable) forms of some pronouns.
 
 
@@ -131,9 +131,9 @@ __ATTENTION: This page is currently (as of 18 February 2018) being revised, so i
 * Clausal subjects ([csubj]()) are typically infinitival phrases or full subordinate clauses.
   * On the other hand, verbal nouns in the subject position are just `nsubj`.
   * However, it is possible to have a `csubj` dependency to a nominal word (a noun or an adjective), namely, when this word heads a copular clause.
-* In passive clauses (both reflexive and periphrastic passive), the subject is labeled with [nsubj:pass]() or [csubj:pass](), respectively.
-  * The auxiliary verb in periphrastic passive is labeled [aux:pass]().
-  * If the demoted agent is present, it has the form of a prepositional phrase headed by _przez_ “by”, and its relation is labeled [obl:agent]().
+* In passive clauses (both reflexive and periphrastic passive), the subject is labelled with [nsubj:pass]() or [csubj:pass](), respectively.
+  * The auxiliary verb in periphrastic passive is labelled [aux:pass]().
+  * If the demoted agent is present, it has the form of a prepositional phrase headed by _przez_ “by”, and its relation is labelled [obl:agent]().
 * Direct objects are those dependents of verbs which may passivise, i.e., which become subjects in the passive voice.  Nominal direct objects are marked as [obj]().  They usually occur in the accusative case (but not bare accusative nominals are objects), but also some instrumental and genitive nominals may be direct objects.
   * Since only nominal dependents may be considered objects according to current UD guidelines, passivisable clauses are marked as [ccomp:obj]().
   * In the case of typical numeral phrases in the accusative object position, the noun actually occurs in the genitive case, similarly to subject positions, and the numeral is uncontroversially accusative.  Such constructions are marked as in the case of numeral subjects (see above).
@@ -144,7 +144,7 @@ __ATTENTION: This page is currently (as of 18 February 2018) being revised, so i
 * Extra attention has to be paid to the so-called reflexive pronoun _się_. It may function as:
   * reflexive core object ([obj]()): _zobaczył się w lustrze_ “he sighted himself in the mirror” (in such cases _się_ may alternate with the longer form _siebie_),
   * reciprocal core objects (`obj`): _całowali się_ “they were kissing each other”,
-  * impersonal ([expl:impers]()): _oddycha się historią__ “one breathes with history”, lit. “breathe _się_ history.INS”,
+  * impersonal ([expl:impers]()): _oddycha się historią_ “one breathes with history”, lit. “breathe _się_ history.INS”,
   * an inherent part of a verb (usually included in the lemma in dictionaries). In accord with the current UD guidelines, we label the relation
     between the verb and the clitic as [expl:pv](), not `compound`. Example: _śmiała się_ “she laughed.”
 
