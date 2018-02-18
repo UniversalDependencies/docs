@@ -9,7 +9,7 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td style="background-color:cornflowerblue;color:white"><strong>Core:</strong> </td>
-  <td colspan="3" align="center"><a href="#Abs">Abs</a></td>
+  <td colspan="4" align="center"><a href="#Abs">Abs</a></td>
   <td colspan="4" align="center"><a href="#Acc">Acc</a></td>
   <td colspan="3" align="center"><a href="#Erg">Erg</a></td>
   <td colspan="4" align="center"><a href="#Nom">Nom</a></td>
@@ -20,6 +20,7 @@ udver: '2'
   <td><a href="#Ben">Ben</a></td>
   <td><a href="#Cau">Cau</a></td>
   <td><a href="#Cmp">Cmp</a></td>
+  <td><a href="#Cns">Cns</a></td>
   <td><a href="#Com">Com</a></td>
   <td><a href="#Dat">Dat</a></td>
   <td><a href="#Dis">Dis</a></td>
@@ -44,6 +45,7 @@ udver: '2'
   <td><a href="#Ine">Ine</a></td>
   <td><a href="#Lat">Lat</a></td>
   <td><a href="#Loc">Loc</a></td>
+  <td><a href="#Per">Per</a></td>
   <td><a href="#Sub">Sub</a></td>
   <td><a href="#Sup">Sup</a></td>
   <td><a href="#Ter">Ter</a></td>
@@ -462,6 +464,18 @@ Basque it is derived from allative, which also exists independently.
 
 * [eu] _behe_ "low"; _<b>beherantz</b>_ "down"
 
+### <a name="Per">`Per`</a>: perlative
+
+The perlative case denotes movement along something.
+It is used in Warlpiri (Andrews 2007, p.162).
+Note that Unimorph mentions the English preposition “along” in connection
+with what they call prolative/translative; but we have different
+definitions of those two cases.
+
+#### Examples
+
+* [wbp] _yurutu_ “road”; _<b>yurutuwana</b>_ “along the road” (_Pirli kalujana <b>yurutuwana</b> yirrarni_ “They are putting stones along the road”)
+
 ### <a name="Tem">`Tem`</a>: temporal
 
 The temporal case is used to indicate time.
@@ -510,6 +524,15 @@ The benefactive case corresponds to the English preposition _for_.
 
 * [eu] _mutil_ "boy"; _<b>mutilarentzat</b>_ "for boys"
 
+### <a name="Cns">`Cns`</a>: considerative
+
+The considerative case denotes something that is given in exchange for something else.
+It is used in Warlpiri (Andrews 2007, p.164).
+
+#### Examples
+
+* [wbp] _miyi_ “food”; _<b>miyiwanawana</b>_ “for food” (_Japanangkarlu kaju karli yinyi <b>miyiwanawana</b>_ “Japanangka is giving me a boomerang in exchange for food”)
+
 ### <a name="Cmp">`Cmp`</a>: comparative
 
 The comparative case means “than X”. It marks the standard of comparison and
@@ -525,3 +548,7 @@ marks the property being compared. It occurs in Turkish.
 #### Examples
 
 * [tr] _ben_ "I"; _<b>bence</b>_ "like me"
+
+# References
+
+* Avery D. Andrews: The major functions of the noun phrase. In: Timothy Shopen (ed.) (2007): Language Typology and Syntactic Description, Volume I: Clause Structure. Second Edition. Cambridge University Press. ISBN 978-0-521-58156-1.
