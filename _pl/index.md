@@ -8,7 +8,7 @@ udver: '2'
      If we agree on a scheme like this, the old proposal should be updated and made visible in the “How to Contribute” section;
      right now it is probably not linked from anywhere. -->
 
-__ATTENTION: This page is currently (as of 18 February 2018) being revised, so it may be in an inconsistent state at the moment.  Please come back later.__
+:zap: __ATTENTION: This page is currently (as of 18 February 2018) being revised, so it may be in an inconsistent state at the moment.  Please come back later.__ :zap:
 
 # UD for Polish <span class="flagspan"><img class="flag" src="../../flags/svg/PL.svg" /></span>
 
@@ -68,8 +68,8 @@ __ATTENTION: This page is currently (as of 18 February 2018) being revised, so i
 
 * [PronType]() is used with pronouns ([PRON]()), determiners ([DET]()) and adverbs ([ADV]()), as well as with the word _co_ when it plays the dual role of a complementiser ([SCONJ]()) introducing a special kind of relative clause (one that may involve resumptive pronouns).
 * [NumType]() (`Card` or `Frac`) is used with numerals ([NUM]()) and determiners ([DET]()).
-* The [Poss]() feature marks possessive personal determiners (e.g. _mój_ “my”).
-* The [Reflex]() feature marks so-called reflexive pronouns _(się, sobie)_ and determiners _(swój)_, even when they are not used reflexively.
+* The [Poss]() feature marks possessive personal determiners (e.g., _mój_ “my”).
+* The [Reflex]() feature marks so-called reflexive pronouns _(się, siebie)_ and determiners _(swój)_, even when they are not used reflexively.
 * [Person]() is a lexical feature of personal pronouns ([PRON]()) and has three values, `1`, `2` and `3`.
   With personal possessive determiners ([DET]()), the feature actually encodes the person of the possessor.
   Person is not marked on other types of pronouns and on nouns, although they can be almost always interpreted as the 3rd person.
@@ -118,70 +118,64 @@ __ATTENTION: This page is currently (as of 18 February 2018) being revised, so i
 * Apart from [SubGender](), other language-specific features include:
   * [Agglutination]() – distinguishes these rare situation where the l-participle has different forms depending on whether the “mobile inflection” auxiliary attaches to it or not, e.g., _on mógł_ “he could” (`Agglutination=Nagl`) vs. _mogł_ in _ja mogłem_ “I could” (`Agglutination=Agl`); as of release 2.2, only used in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank).
   * [Emphatic]() – present on those traditional pronouns (hence, various parts of speech here) which include the emphatic particle _ż(e)_, e.g., _co_ “what” (neutral) vs. _cóż_ “what” (emphatic); as of release 2.2, only used in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank).
-  * [Variant]() – distinguishes short and long forms of adjectives, a Slavic-wide phenomenon; in Polish also used to distinguish basic from vocalised versions of some pronouns (e.g., _z_ vs. _ze_ “from”), basic from vocalised versions of the “mobile inflection” auxiliary (e.g., _m_ from _em_), and short (not accentable) from long (accentable) forms of some pronouns.
+  * [Variant]() – distinguishes short and long forms of adjectives, a Slavic-wide phenomenon; in Polish primarily used to distinguish basic from vocalised versions of some pronouns (e.g., _z_ vs. _ze_ “from”), basic from vocalised versions of the “mobile inflection” auxiliary (e.g., _m_ from _em_), and short (not accentable) from long (accentable) forms of some pronouns.
 
 
 ## Syntax
 
-### Core Arguments, Oblique Arguments and Adjuncts
+### Core and Oblique Dependents
 
-* Nominal subject ([nsubj]()) is a noun phrase in the nominative case, without preposition.
-  * If the noun phrase is quantified, it may be in the genitive, which is required by the quantifier.
-    If this is the case, then the quantifier is attached using a special relation, either [nummod:gov]() or [det:numgov]().
-  * An infinitive verb may serve as the subject and is labeled as clausal subject, [csubj]().
-    On the other hand, verbal nouns as subjects are just `nsubj`.
-  * A finite subordinate clause may serve as the subject and is labeled `csubj`.
-* Objects defined in the Polish grammar may be bare noun phrases in accusative, dative, genitive or instrumental,
-  or prepositional phrases in accusative, dative, genitive, locative or instrumental.
-  For the purpose of UD the objects are divided to core objects, labeled [obj]() or [iobj](),
-  and oblique objects, labeled [obl:arg]().
-  * Bare accusative, dative, genitive and instrumental objects are considered core.
-  * All prepositional objects are considered oblique.
-  * Accusative objects of some verbs alternate with finite clausal complements, which are labeled [ccomp]().
-  * If a verb subcategorizes for the infinitive (e.g. modal verbs or verbs of control), the infinitival complement is labeled [xcomp]().
-  * If a verb subcategorizes for two core objects, one of them accusative (or `ccomp`) and the other non-accusative,
-    then the non-accusative object is labeled [iobj]().
-    Core nominal objects in other situations are labeled just [obj]().
-* Adjuncts (or, following the Polish grammar, adverbial modifiers realized as noun phrases) are usually
-  prepositional phrases, but they can be bare noun phrases as well. They are labeled [obl]():
-  * Temporal modifiers realized as accusative noun phrases: _poszukiwania trwały całą niedzielę_ “the search lasted all Sunday.”
-  * Instrumental noun phrases expressing the way or means with which something was done.
-    Example: _wymalują je sprayami na chodnikach_ “they will spray them on the sidewalks.”
-  * All prepositional phrases that are not prepositional objects (i.e., their role and form is not defined lexically by the predicate)
-    are adjuncts.
-* Extra attention has to be paid to clitic forms of reflexive pronouns _się_ (accusative). They can function as:
-  * Core objects ([obj]()): _zobaczył się/siebie w lustrze_ “he sighted himself in the mirror.”
-  * Reciprocal core objects (`obj`): _całowali się_ “they were kissing each other.”
-  * Reflexive passive ([expl:pass]()): _kasa otwiera się_ “the ticket window is opening,” lit. “the ticket window opens itself.”
-  * Inherently reflexive verb, cannot exist without the reflexive clitic. In accord with the current UD guidelines, we label the relation
-    between the verb and the clitic as [expl:pv](), not `compound`. Example: _śmiała się_ “she laughed.”
+* Prototypically, nominal subjects ([nsubj]()) are noun phrases in the nominative case, without preposition.  In the case of numeral phrases in the subject position, the noun itself occurs in the genitive case.  The issue of the case of the numeral is more controversial: it is nominative on some theories (and in the [Original](http://universaldependencies.org/treebanks/pl/index.html) treebank) and accusative on other (and in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank).  This special numeral construction, where the noun is in the genitive case, is marked in both release 2.2 treebanks:
+  * in the [Original](http://universaldependencies.org/treebanks/pl/index.html) treebank, the dependency relation is [det:nummod]() (instead of the plain `det`),
+  * in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank, the MISC column contains the `[DepType=Rec]` feature (it is `[DepType=Congr]` in the case of those numerals which do not assign the genitive case but rather agree with the noun).
+* Clausal subjects ([csubj]()) are typically infinitival phrases or full subordinate clauses.
+  * On the other hand, verbal nouns in the subject position are just `nsubj`.
+  * However, it is possible to have a `csubj` dependency to a nominal word (a noun or an adjective), namely, when this word heads a copular clause.
 * In passive clauses (both reflexive and periphrastic passive), the subject is labeled with [nsubj:pass]() or [csubj:pass](), respectively.
   * The auxiliary verb in periphrastic passive is labeled [aux:pass]().
   * If the demoted agent is present, it has the form of a bare instrumental phrase and its relation is labeled [obl:agent]().
+* Direct objects are those dependents of verbs which may passivise, i.e., which become subjects in the passive voice.  Nominal direct objects are marked as [obj]().  They usually occur in the accusative case (but not bare accusative nominals are objects), but also some instrumental and genitive nominals may be direct objects.
+  * Since only nominal dependents may be considered objects according to current UD guidelines, passivisable clauses are marked as [ccomp:obj]().
+  * In the case of typical numeral phrases in the accusative object position, the noun actually occurs in the genitive case, similarly to subject positions, and the numeral is uncontroversially accusative.  Such constructions are marked as in the case of numeral subjects (see above).
+* All required dependents of verbs in the dative case are indirect objects ([iobj]()).
+* All other bare nominal phrases and all adpositional phrases, when they are dependents of verbs, are treated as obliques ([obl]()).
+* Required clausal dependents of verbs are marked as [ccomp](), unless they are subjects (`csubj`) or direct objects (`ccomp:obj`).
+* Open (“controlled”) dependents are marked as [xcomp](); typically, they are infinitival phrases, but also, in the case of some governing verbs (such as _stać się_ “become”), nominal phrases.
+* Extra attention has to be paid to the so-called reflexive pronoun _się_. It may function as:
+  * reflexive core object ([obj]()): _zobaczył się w lustrze_ “he sighted himself in the mirror” (in such cases _się_ may alternate with the longer form _siebie_),
+  * reciprocal core objects (`obj`): _całowali się_ “they were kissing each other”,
+  * impersonal ([expl:impers]()): _oddycha się historią__ “one breathes with history”, lit. “breathe _się_ history.INS”,
+  * an inherent part of a verb (usually included in the lemma in dictionaries). In accord with the current UD guidelines, we label the relation
+    between the verb and the clitic as [expl:pv](), not `compound`. Example: _śmiała się_ “she laughed.”
 
 ### Non-verbal Clauses
 
-* The copula verb _być_ (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses.
+* The copula verb _być_ “be” is used in equational, attributional, locative, possessive and benefactory nonverbal clauses.
   Purely existential clauses (without indicating location) use _być_ as well but it is treated as the head of the clause and tagged [VERB]().
+  Another copula word in Polish is the quasi-verbal _to_ (inflects periphrasitically for tense, but not for person, etc.).
 
 ### Relations Overview
 
 * The following relation subtypes are used in Polish:
-  * [nsubj:pass]() for nominal subjects of passive verbs
-  * [csubj:pass]() for clausal subjects of passive verbs
-  * [obl:agent]() for agents of passive verbs
-  * [obl:arg]() for prepositional objects
-  * [expl:pv]() for reflexive clitics of inherently reflexive verbs
-  * [expl:pass]() for reflexive clitics in reflexive passives
-  * [aux:pass]() for passive auxiliaries
-  * [nummod:gov]() for cardinal numbers that are attached as children of the counted noun but govern its case
-  * [det:numgov]() for pronominal quantifiers that are attached as children of the quantified noun but govern its case
-  * [det:nummod]() for pronominal quantifiers in cases in which they do not govern the case of the quantified noun
-  * [advmod:emph]() for adverbs or particles that modify noun phrases and emphasize or negate them
+  * [nsubj:pass]() for nominal subjects of passive verbs,
+  * [csubj:pass]() for clausal subjects of passive verbs (does not occur in release 2.2),
+  * [ccomp:obj]() (as of release 2.2, only in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank),
+  * [obl:agent]() for agents of passive verbs,
+  * [expl:pv]() for inherent uses of the so-called reflexive pronoun _się_,
+  * [expl:impers]() for impersonal uses of the so-called reflexive pronoun _się_ (as of release 2.2, only in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank),
+  * [acl:relcl]() for relative clauses (as of release 2.2, only in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank),
+  * [nmod:poss]() for possessive nominal modifiers, including 3rd person possessive pronouns (as of release 2.2, only in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank),
+  * [det:numgov]() for pronominal quantifiers that are attached as children of the quantified noun but govern its case (as of release 2.2, only in the [Original](http://universaldependencies.org/treebanks/pl/index.html) treebank),
+  * [det:nummod]() for pronominal quantifiers in cases in which they do not govern the case of the quantified noun (as of release 2.2, only in the [Original](http://universaldependencies.org/treebanks/pl/index.html) treebank),
+  * [aux:pass]() for passive auxiliaries,
+  * [aux:aglt]() for “mobile inflection” auxiliaries (as of release 2.2, only in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank),
+  * [aux:mood]() for mood marking auxiliaries (as of release 2.2, only in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank),
+  * [cop:locat]() for locative uses of copulas (as of release 2.2, only in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank),
+  * [cc:preconj]() for preconjunctions (as of release 2.2, only in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank).
 * The following main types are not used alone and must be subtyped:
-  [expl]()
-* The following relation types are not used in Polish at all:
-  [clf](), [dislocated]()
+  [expl]().
+* The following relation types are not used in Polish at all (as of release 2.2):
+  [clf](), [dislocated]().
 
 ## Treebanks
 
