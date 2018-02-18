@@ -25,7 +25,7 @@ in the basic relation type in the DEPREL column. The regular expression restrict
 the label can contain only lowercase English letters and at most one colon, which separates the universal and the language-specific
 part of the label: `^[a-z]+(:[a-z]+)?$`. In contrast, the relation label in DEPS may contain up to three colons, separating up to
 four sections. One of the sections (never the first one) may also contain lowercase Unicode letters and the underscore character:
-`^[a-z]+(:[\p{Ll}\p{Lm}\p{Lo}\p{M}]+(_[\p{Ll}\p{Lm}\p{Lo}\p{M}]+)*(:[\p{Ll}\p{Lm}\p{Lo}\p{M}]+(_[\p{Ll}\p{Lm}\p{Lo}\p{M}]+)*(:[\p{Ll}\p{Lm}\p{Lo}\p{M}]+(_[\p{Ll}\p{Lm}\p{Lo}\p{M}]+)*)?)?)?$`.
+`^[a-z]+(:[\p{Ll}\p{Lm}\p{Lo}\p{M}]+(_[\p{Ll}\p{Lm}\p{Lo}\p{M}]+)*(:[\p{Ll}\p{Lm}\p{Lo}\p{M}]+(_[\p{Ll}\p{Lm}\p{Lo}\p{M}]+)*(:[a-z]+)?)?)?$`.
 Only the first section, the universal relation, is mandatory. The other sections are optional but if they appear, they must appear
 in the order described below. We provide a more detailed explanation of the extra sections later on this page; here is a summary:
 
