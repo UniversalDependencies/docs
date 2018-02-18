@@ -8,7 +8,7 @@ udver: '2'
      If we agree on a scheme like this, the old proposal should be updated and made visible in the “How to Contribute” section;
      right now it is probably not linked from anywhere. -->
 
-__ATTENTION: This page is currently (as of 18 February 2018) being revised, so it may be in an inconsistent state at the moment.  Please come back later.__
+:zap: __ATTENTION: This page is currently (as of 18 February 2018) being revised, so it may be in an inconsistent state at the moment.  Please come back later.__ :zap:
 
 # UD for Polish <span class="flagspan"><img class="flag" src="../../flags/svg/PL.svg" /></span>
 
