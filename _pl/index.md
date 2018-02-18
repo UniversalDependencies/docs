@@ -8,6 +8,8 @@ udver: '2'
      If we agree on a scheme like this, the old proposal should be updated and made visible in the “How to Contribute” section;
      right now it is probably not linked from anywhere. -->
 
+__ATTENTION: This page is currently (as of 18 February 2018) being revised, so it may be in an inconsistent state at the moment.  Please come back later.__
+
 # UD for Polish <span class="flagspan"><img class="flag" src="../../flags/svg/PL.svg" /></span>
 
 ## Tokenization and Word Segmentation
@@ -27,7 +29,7 @@ udver: '2'
 * The [NOUN]() tag is used not only for prototypical nouns, but also – somewhat arbitrarily – for gerunds (the so-called _-nie/-cie_ forms).
 * Pronouns ([PRON]()) are here understood as personal pronouns, so-called reflexive pronouns (also in their non-reflexive and – generally – non-pronominal uses), and such nominal pronouns as _kto_ “who”, _nic_ “nothing” and _wszyscy_ “everybody”.
 * As Polish grammars do not include a separate part of speech _determiner_, the [DET]() class is based on a word list and includes words treated by standard Polish tagsets as adjectives, numerals or even nouns:
-  * determiners treated elsewhere as adjectives inlclude possessive pronouns, as well as words such as _ten_ “this”, _każdy_ “each”, _taki_ “such”, _którykolwiek_ “whichever”, etc.,
+  * determiners treated elsewhere as adjectives include possessive pronouns, as well as words such as _ten_ “this”, _każdy_ “each”, _taki_ “such”, _którykolwiek_ “whichever”, etc.,
   * determiners treated elsewhere as numerals include indefinite numerals (e.g., _wiele_ “many”, _niedużo_ “not much, not many”, _kilka_ “several”), as well as fractional numerals such as _pół_ “half”,
   * one determiner treated elsewhere as a noun is _mnóstwo_ “a lot”.
 * The main auxiliary verb ([AUX]()) in Polish is _być_ (“to be”), with the aspectual variant _bywać_ “to be (habitual)”.
@@ -43,27 +45,22 @@ udver: '2'
 * There are five main (de)verbal forms, distinguished by the UPOS tag and the value of the [VerbForm]() feature:
   * Infinitive `Inf`, tagged [VERB]() or [AUX]().
   * Finite verb `Fin`, tagged [VERB]() or [AUX]().
-  * Converb `Conv` (an adverbial participle), tagged [VERB]().
+  * Converb `Conv` (an adverbial participle), tagged [VERB]() or (in principle, but not in release 2.2) [AUX]().
   * Participle `Part` (an adjectival participle), tagged [ADJ]().
   * Verbal noun `Vnoun` (a gerund), tagged [NOUN]().
 
 ### Nominal Features
 
-* Nominal words ([NOUN](), [PROPN]() and [PRON]()) have an inherent [Gender]() feature with one of three values: `Masc`, `Fem` or `Neut`.
-  In some cases the masculine gender is further subclassified by the [Animacy]() values `Hum`, `Nhum` and `Inan`.
-  Feminine and neuter nominals do not distinguish animacy grammatically.
-  * The following parts of speech inflect for `Gender` and `Animacy` because they must agree with nouns: [ADJ](), [DET](), [NUM](),
-    [VERB](), [AUX](). For verbs (including auxiliaries), only participles and converbs inflect for gender. Finite verbs don't.
-* The two main values of the [Number]() feature are `Sing` and `Plur`. The following parts of speech inflect for number:
-  [NOUN](), [PROPN](), [PRON](), [ADJ](), [DET](), [VERB](), [AUX]() (finite, participles and converbs), marginally [NUM]().
-  * Remnants of the `Dual` number occur only in the instrumental [Case]() of a few nouns and all the agreeing parts of speech.
-  * Selected nouns are plurale tantum (`Ptan`) or singulare tantum (`Coll`). These two values are lexical and cannot be used with
-    the agreeing adjectives, determiners or verbs. They also never occur with pronouns.
+* Nouns words ([NOUN]() and [PROPN]()) have an inherent [Gender]() feature.  Five genders are standardly assumed in Polish linguistics (and in Polish tagsets): three masculine, one feminine and one neuter.  The three masculine genders are often called “human masculine”, “animate masculine” and “inanimate masculine”, but the correlation with the semantic animacy feature is far from perfect.  In particular, there are many “animate masculine” semantically inanimate nouns (including all masculine names of dances, and many more), as well as “animate masculine” nouns which are, semantically, human and feminine (some derogatory nouns for women, e.g., _babsztyl_) or which are human and no longer animate (_trup_ “corpse”).  For the sake of cross-linugal consistency, three values are assume for the `Gender` feature, i.e., `Masc`, `Fem` and `Neut`, but there must be another feature which distinguishes the three masculine genders.
+  * In the [Original](http://universaldependencies.org/treebanks/pl/index.html) treebank, the masculine gender is further subclassified by the [Animacy]() values `Hum`, `Nhum` and `Inan`.
+  * In the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank, the masculine gender is further subclassified by the language-specific [SubGender]() feature with values `Masc1`, `Masc2` and `Masc3`.
+  * The following parts of speech in general inflect for gender (they agree with nouns): [ADJ](), [DET](), [NUM](), [PRON](), [VERB](), [AUX](). In the case of pronouns, only personal pronouns inflect for gender; other nominal pronouns (as well as the nominal determiner _wszyscy_ “everybody”) have this feature defined lexically, and so-called reflexive pronouns lack this feature altogether.  In the case of tokens tagged as `VERB` or `AUX`, only past forms of finite verbs overtly inflect for gender.
+* The two values of the [Number]() feature are `Sing` and `Plur`. The following parts of speech inflect for number:
+  [NOUN](), [PROPN](), [PRON](), [ADJ](), [DET](), [VERB](), [AUX]() (only finite verbs and auxiliaries).
 * [Case]() has 7 possible values: `Nom`, `Gen`, `Dat`, `Acc`, `Voc`, `Loc`, `Ins`.
   It occurs with the nominal words, i.e., [NOUN](), [PROPN](), [PRON](), [ADJ](), [DET](), [NUM]().
-  It can occur with participles but only with those tagged as `ADJ`. It never occurs with verbs.
-  * The `Case` feature also occurs with prepositions ([ADP]()). Here it is a lexical feature. Prepositions do not inflect for case
-    but they subcategorize for the case of their noun phrase.
+  It can occur with de-verbal forms but only with those tagged as `ADJ` (adjectival participles) or `NOUN` (gerunds).  It never occurs with purely verbal forms.
+  * Some tagsets also include `Case` as a feature of prepositions ([ADP]()), although in this case it is a valency feature.  As such, as of release 2.2, it is only present in the MISC column in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank (but still in the FEATS column in the [Original](http://universaldependencies.org/treebanks/pl/index.html) treebank).
 
 ### Degree and Polarity
 
