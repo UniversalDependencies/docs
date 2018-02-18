@@ -33,9 +33,9 @@ in the order described below. We provide a more detailed explanation of the extr
    defined in the basic representation, the relation can also be <tt><a href="#relative-clauses">ref</a></tt>.
 2. Documented [relation subtype](/ext-dep-index.html) (either language-specific or more general) from the basic representation.
 3. [Case information](#case-information) –
-   adposition or conjunction that occurs as a `case`, `mark` or `cc` dependent of the node whose relation to its
+   adposition or conjunction that occurs as a `case` or `mark` dependent of the node whose relation to its
    parent is being enhanced. Note that this is the only part where non-ASCII letters are permitted within the enhanced relation label.
-   The word should be normalized (lowercased, no typos), i.e., in general we take its lemma. However, if the case/mark/cc dependent is
+   The word should be normalized (lowercased, no typos), i.e., in general we take its lemma. However, if the case/mark dependent is
    a fixed multi-word expression, the lemma of the expression is not necessarily composed of lemmas of the individual member words.
    For instance, the string representing the English expression “As Opposed To” is `as_opposed_to`. That is, the casing is normalized
    from “As” to “as” etc., but “opposed” is not replaced by its lemma “oppose” because the expression is fixed. We use the underscore
