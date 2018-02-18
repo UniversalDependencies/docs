@@ -13,12 +13,9 @@ udver: '2'
 ## Tokenization and Word Segmentation
 
 * In general, words are delimited by whitespace characters. Description of exceptions follows.
-* According to typographical rules, many punctuation marks are attached to a neighboring word. We normally tokenize them as separate tokens (words);
-  however, hyphenated compounds (e.g. _Konstancinie-Jeziornie_) are kept as one token.
-* A whitespace separating digits in a large number is not treated as a word separator. For example, _1&nbsp;000&nbsp;000_ (“1,000,000” by English
-  rules) is one token.
-* There are several closed classes of contractions that are treated as multi-word tokens and segmented to individual syntactic words.
-  The most prominent type is an l-participle fused with an auxiliary: _wyprodukowaliśmy = wyprodukowali + śmy_ “we have produced”.
+* According to typographical rules, a punctuation mark is attached to a neighbouring (usually preceding) word. Punctuation marks are usually tokenised as separate tokens (words), unless they are considered an integral part of the lemma (as in _Rolls-Royce_ “Rolls-Royce”, _O’Donellowie_ “the O'Donells”, or _85-lecie_ “85th anniversary”) or are used to express inflection (as in the accusative or genitive _Melville'a_ “Melville”).  On the other hand, hyphens in constructions such as _biało-czerwona_ “white-and-red” are treated as separate tokens.
+* A whitespace separating digits in a large number is not treated as a word separator. For example, _1&nbsp;000&nbsp;000_ (“1,000,000” by English rules) is one token. (However, such tokens do not occur in Polish treebanks as of release 2.2.)
+* There are two classes of contractions that are treated as multi-word tokens and segmented to individual syntactic words. The most prominent type is an l-participle (or, rarely, another form) fused with a so-called “mobile inflection” auxiliary (e.g., _śmy_ expressing first person and plural number) or the conditional particle (also treated as an auxiliary) _by_, as in: _wyprodukowalibyśmy = wyprodukowali + by + śmy_ “we would have produced”.
 
 ## Morphology
 
