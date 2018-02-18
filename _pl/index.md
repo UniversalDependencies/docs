@@ -60,17 +60,15 @@ udver: '2'
 * [Case]() has 7 possible values: `Nom`, `Gen`, `Dat`, `Acc`, `Voc`, `Loc`, `Ins`.
   It occurs with the nominal words, i.e., [NOUN](), [PROPN](), [PRON](), [ADJ](), [DET](), [NUM]().
   It can occur with de-verbal forms but only with those tagged as `ADJ` (adjectival participles) or `NOUN` (gerunds).  It never occurs with purely verbal forms.
-  * Some tagsets also include `Case` as a feature of prepositions ([ADP]()), although in this case it is a valency feature.  As such, as of release 2.2, it is only present in the MISC column in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank (but still in the FEATS column in the [Original](http://universaldependencies.org/treebanks/pl/index.html) treebank).
+  * Some tagsets also include `Case` as a feature of prepositions ([ADP]()), although in this case it is a valency (i.e., syntactic rather than morphological) feature.  As such, as of release 2.2, it is only present in the MISC column in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank (but still in the FEATS column in the [Original](http://universaldependencies.org/treebanks/pl/index.html) treebank).
+* [Polite]() is used in Polish as a nominal feature, with the language-specific value `Depr` in case of special derogatory forms of some human masculine nouns, e.g., _profesory_ “professors (derogatory)”, as opposed to _profesorowie_ “professors (neutral)”.
 
 ### Degree and Polarity
 
-* [Degree]() applies to adjectives ([ADJ]()) and adverbs ([ADV]()) and has one of three possible values: `Pos`, `Sup`.
-* [Polarity]() has two values, `Pos` and `Neg`, and applies primarily to verbs ([VERB](), [AUX]()), adjectives ([ADJ]()) and adverbs ([ADV]())
-  that can be negated using the bound morpheme _nie-_.
-  * Occasionally _nie_ occurs as an independent negation particle ([PART]()) and is marked with `Polarity=Neg`.
-  * Negating nouns is usually limited to those derived from verbs _(niedopełnienie, niedopuszczenie, nieodpowiadanie)._
-  * The `Polarity` feature is not used with pronouns and determiners, although there is a subset of negative pronouns and determiners.
-    The `PronType=Neg` feature is used there instead.
+* [Degree]() applies to adjectives ([ADJ]()) and adverbs ([ADV]()) and has one of three possible values: `Pos`, `Cmp`, `Sup`.
+* [Polarity]() has two values, `Pos` and `Neg`, and applies to de-verbal adjectives ([ADJ](); i.e., adjectival participles) and nouns ([NOUN](); i.e., gerunds), which can be negated using the bound morpheme _nie_.
+  * Often, _nie_ occurs as an independent negation particle ([PART]()) and is marked with `Polarity=Neg`.
+  * The `Polarity` feature is not used with pronouns, determiners or adverbs, although there is a subset of traditional pronouns (hence, here, elements of various parts of speech) which are negative in the sense that they have a negative meaning when used as standalone utterances but do not introduce additional negation when they occur with negated verbs (i.e., when they participate in so-called negative concord).  The `PronType=Neg` feature is used for such cases.
 
 ### Verbal Features
 
@@ -190,4 +188,3 @@ There are two Polish UD treebanks:
   * [Original](http://universaldependencies.org/treebanks/pl/index.html)
   * [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html)
 
-[Czech-Polish comparison](../../treebanks/cs-pl-comparison.html)
