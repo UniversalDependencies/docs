@@ -27,14 +27,12 @@ part of the label: `^[a-z]+(:[a-z]+)?$`. In contrast, the relation label in DEPS
 four sections. One of the sections (never the first one) may also contain lowercase Unicode letters and the underscore character:
 `^[a-z]+(:[\p{Ll}\p{Lm}\p{Lo}\p{M}]+(_[\p{Ll}\p{Lm}\p{Lo}\p{M}]+)*(:[\p{Ll}\p{Lm}\p{Lo}\p{M}]+(_[\p{Ll}\p{Lm}\p{Lo}\p{M}]+)*(:[\p{Ll}\p{Lm}\p{Lo}\p{M}]+(_[\p{Ll}\p{Lm}\p{Lo}\p{M}]+)*)?)?)?$`.
 Only the first section, the universal relation, is mandatory. The other sections are optional but if they appear, they must appear
-in the order described below. The enhanced subtype is mutually exclusive with case information, thus the maximum number of
-colon-separated sections is 4. We provide a more detailed explanation of the extra sections later on this page; here is a summary:
+in the order described below. We provide a more detailed explanation of the extra sections later on this page; here is a summary:
 
 1. Universal dependency relation. In addition to the [37 relations](http://universaldependencies.org/u/dep/index.html)
    defined in the basic representation, the relation can also be <tt><a href="#relative-clauses">ref</a></tt>.
 2. Documented [relation subtype](/ext-dep-index.html) (either language-specific or more general) from the basic representation.
-3. Enhanced subtype: either `xcomp` or `relcl`.
-4. [Case information](#case-information) –
+3. [Case information](#case-information) –
    adposition or conjunction that occurs as a `case`, `mark` or `cc` dependent of the node whose relation to its
    parent is being enhanced. Note that this is the only part where non-ASCII letters are permitted within the enhanced relation label.
    The word should be normalized (lowercased, no typos), i.e., in general we take its lemma. However, if the case/mark/cc dependent is
@@ -42,7 +40,7 @@ colon-separated sections is 4. We provide a more detailed explanation of the ext
    For instance, the string representing the English expression “As Opposed To” is `as_opposed_to`. That is, the casing is normalized
    from “As” to “as” etc., but “opposed” is not replaced by its lemma “oppose” because the expression is fixed. We use the underscore
    character (“_”) to connect member words.
-5. [Case information](#case-information) –
+4. [Case information](#case-information) –
    morphological case of the node whose relation to its parent is being enhanced. Value corresponds to the value of
    the Case feature but it is lowercased (e.g., `gen` instead of `Gen`). Unlike in morphological features, multivalues with comma
    (`Case=Acc,Dat`) are not allowed. Case information in enhanced relations must be fully disambiguated.
