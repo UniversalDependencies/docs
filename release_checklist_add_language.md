@@ -31,3 +31,62 @@ See [here](release_checklist.html) for the checklist for data contributors.
 * Make the dev branch writable by the Contributors team (by default they cannot push to the repository
   at all).
 * Clone the repository to Dan's local system and ask Filip to add it to the validation infrastructure.
+
+# How to rename a treebank in UD
+
+Normally, the names of the treebank repositories should be stable because the infrastructure depends on them
+(which is also partially illustrated by this section). However, between releases 2.1 and 2.2 we want to rename
+the repositories that were so far named only by language (e.g., UD_Czech) so that all repository names also
+contain a treebank-specific suffix (e.g., UD_Czech-PDT, where PDT is the suffix). The change of the name involves
+at least the following steps:
+
+1.  Go to the Settings tab of the website of the repository. Change the name (e.g. from "UD_Czech" to "UD_Czech-PDT") and click the Rename button.
+2.  Go to the server where the automatic validation and evaluation runs (currently quest.ms.mff.cuni.cz, operated by Dan).
+    Remove the old clone of the repository and the reports from validation and evaluation.
+
+<code>
+ oldrepo=UD_Czech
+ rm -rf $oldrepo
+ rm log/$oldrepo.log
+ rm log/$oldrepo.eval.log
+ grep -v -P '^'$oldrepo':' validation-report.txt > /tmp/newreport.txt
+ mv /tmp/newreport.txt validation-report.txt
+ grep -v -P '^'$oldrepo'\t' evaluation-report.txt > /tmp/newreport.txt
+ mv /tmp/newreport.txt evaluation-report.txt
+</code>
+
+3.  Call docs-automation/valdan/clone_one.sh UD_Czech-PDT.
+4.  Go to one of the places where you have local clones of all UD repositories. Remove the old clone.
+    Create a new clone under the new name. Check out the dev branch.
+5.  Rename the data files in the dev branch (e.g. from "cs-ud-test.conllu" to "cs_pdt-ud-test.conllu").
+6.  Check the README.md and LICENSE.txt files for any mentions of the treebank name that may have to be modified.
+    In the README file, add a line to the Changelog, e.g.:
+
+<pre>
+* 2018-04-15 v2.2
+  * Repository renamed from UD_Czech to UD_Czech-PDT.
+</pre>
+
+7.  Commit and push the changes. This should also trigger an automatic re-validation of the treebank under the new name.
+8.  If there are other places where you maintain local clones of UD repositories (e.g., one is your laptop and the other is your
+    university network), go to each of them, do a new git clone ; git checkout dev ; rm old clone.
+9.  In tools/evaluate_treebank.pl, register the name change in the hash `%oldname`.
+    Commit and push tools; it will trigger new evaluation of all treebanks, including the renamed one.
+10. Finally, we want to regenerate the title page of Universal Dependencies.
+    Go to docs-automation. Assumption: all UD treebank repositories, and the docs repository are cloned as siblings of docs-automation
+    in the file-folder hierarchy. They are switched to the dev branch. (It does not matter for us because we will switch them to
+    master in any case; but we assume that we do this temporarily, and we will switch back to dev when we are done.)
+11. Remove the old cached metadata: rm `_corpus_metadata/UD_Czech.json`.
+12. Generate new metadata for the treebank (this script switches the repo temporarily to master):
+    ./refresh_corpus_data_master.sh ../UD_Czech-PDT
+14. Regenerate the UD title page and push it to Github:
+
+<code>
+    make dan
+    cd ../docs
+    git pull --no-edit
+    git status
+    git diff
+    git commit -a -m 'Renamed treebank repository.'
+    git push
+</code>
