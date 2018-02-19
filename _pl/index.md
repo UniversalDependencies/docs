@@ -138,16 +138,16 @@ __ATTENTION: This page is currently (as of 18 February 2018) being revised, so i
 * Required clausal dependents of verbs are marked as [ccomp](), unless they are subjects (`csubj`) or direct objects (`ccomp:obj`).
 * Open (“controlled”) dependents are marked as [xcomp](); they are either infinitival phrases or predicative complements of verbs such as _stać się_ “become”.
 * Extra attention has to be paid to the so-called reflexive pronoun _się_. It may function as:
-  * reflexive direct object ([obj]()): _zobaczył się w lustrze_ “he sighted himself in the mirror” (in such cases _się_ may alternate with the longer form _siebie_),
-  * reciprocal directo object (`obj`): _całowali się_ “they were kissing each other”,
+  * reflexive direct object ([obj]()): _zobaczył się w lustrze_ “he saw himself in the mirror” (in such cases _się_ may alternate with the longer form _siebie_),
+  * reciprocal direct object (`obj`): _całowali się_ “they were kissing each other”,
   * impersonal ([expl:impers]()): _oddycha się historią_ “one breathes with history”, lit. “breathe _się_ history.INS”,
   * an inherent part of a verb (usually included in the lemma in dictionaries). In accord with the current UD guidelines, we label the relation
     between the verb and the clitic as [expl:pv](), not `compound`. Example: _śmiała się_ “she laughed.”
 
-### Non-verbal Clauses
+### Non-verbal (Predicative) Clauses
 
-* The copula verb _być_ “be” is used in equational, attributional, locative, possessive and benefactory nonverbal clauses.
-  Purely existential clauses (without indicating location) use _być_ as well but it is treated as the head of the clause and tagged [VERB]().
+* The copula verb _być_ “be” (and the habitual variant _bywać_) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses.
+  Purely existential clauses (without indicating location) use this copula as well, but it is treated as the head of the clause and tagged [VERB]().
   Another copula word in Polish is the quasi-verbal _to_ (inflects periphrasitically for tense, but not for person, etc.).
 
 ### Relations Overview
