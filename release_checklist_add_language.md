@@ -43,8 +43,7 @@ at least the following steps:
 1.  Go to the Settings tab of the website of the repository. Change the name (e.g. from "UD_Czech" to "UD_Czech-PDT") and click the Rename button.
 2.  Go to the server where the automatic validation and evaluation runs (currently quest.ms.mff.cuni.cz, operated by Dan).
     Remove the old clone of the repository and the reports from validation and evaluation.
-
-<pre>
+    <pre>
 oldrepo=UD_Czech
 rm -rf $oldrepo
 rm log/$oldrepo.log
@@ -54,7 +53,6 @@ mv /tmp/newreport.txt validation-report.txt
 grep -v -P '^'$oldrepo'\t' evaluation-report.txt > /tmp/newreport.txt
 mv /tmp/newreport.txt evaluation-report.txt
 </pre>
-
 3.  Call docs-automation/valdan/clone_one.sh UD_Czech-PDT.
 4.  Go to one of the places where you have local clones of all UD repositories. Remove the old clone.
     Create a new clone under the new name. Check out the dev branch.
