@@ -80,4 +80,5 @@ git pull --no-edit
 git status
 git diff</pre> then press Q and
     <pre>git commit -a -m 'Renamed treebank repository.'
-git push</pre>
+git push
+cd ..</pre>
