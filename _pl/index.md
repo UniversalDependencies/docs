@@ -19,7 +19,7 @@ __ATTENTION: This page is currently (as of 18 February 2018) being revised, so i
 * A whitespace separating digits in a large number is not treated as a word separator. For example, _1&nbsp;000&nbsp;000_ (“1,000,000” by English rules) is one token. (However, such tokens do not occur in Polish treebanks as of release 2.2.)
 * There are two classes of “orthographic words” (sequences of letters without spaces inside) that are split into several syntactic tokens.
   * The most prominent type is an l-participle (or, rarely, another form) fused with a so-called “mobile inflection” auxiliary (e.g., _śmy_ expressing first person and plural number) or the conditional particle _by_ (also treated as an auxiliary), as in: _wyprodukowalibyśmy = wyprodukowali + by + śmy_ “we would have produced”.
-  * Contractions of the other class consist of a preposition and a short (not accentable) pronouns, as in _czekał nań = czekał na + ń_ “(he) waited for him”.
+  * Orthographic words of the other class consist of a preposition and a short (not accentable) pronoun, as in _czekał nań = czekał na + ń_ “(he) waited for him”.
 
 ## Morphology
 
