@@ -57,12 +57,8 @@ mv /tmp/newreport.txt evaluation-report.txt</pre>
 5.  Rename the data files in the dev branch (e.g. from "cs-ud-test.conllu" to "cs_pdt-ud-test.conllu").
 6.  Check the README.md and LICENSE.txt files for any mentions of the treebank name that may have to be modified.
     In the README file, add a line to the Changelog, e.g.:
-
-<pre>
-* 2018-04-15 v2.2
-  * Repository renamed from UD_Czech to UD_Czech-PDT.
-</pre>
-
+    <pre>* 2018-04-15 v2.2
+  * Repository renamed from UD_Czech to UD_Czech-PDT.</pre>
 7.  Commit and push the changes. This should also trigger an automatic re-validation of the treebank under the new name.
 8.  If there are other places where you maintain local clones of UD repositories (e.g., one is your laptop and the other is your
     university network), go to each of them, do a new git clone ; git checkout dev ; rm old clone.
@@ -76,13 +72,10 @@ mv /tmp/newreport.txt evaluation-report.txt</pre>
 12. Generate new metadata for the treebank (this script switches the repo temporarily to master):
     ./refresh_corpus_data_master.sh ../UD_Czech-PDT
 14. Regenerate the UD title page and push it to Github:
-
-<pre>
-make dan
+    <pre>make dan
 cd ../docs
 git pull --no-edit
 git status
 git diff
 git commit -a -m 'Renamed treebank repository.'
-git push
-</pre>
+git push</pre>
