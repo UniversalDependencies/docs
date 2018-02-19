@@ -88,17 +88,15 @@ __ATTENTION: This page is currently (as of 19 February 2018) being revised, so i
 
 ### Verbal Features
 
-* Typical Polish verbs (including auxiliaries) have lexical [Aspect](), either imperfective (`Imp`) or perfective (`Perf`). There is, however, a class of verb-like words, marked as [VERB]() with the universal `VerbType` feature with the language-specific `Quasi` value, which do not inflect for person and do not have aspect.
-  * The `Aspect` feature is also used with de-verbal nouns (gerunds) and adjectives (participles), if they have the `VerbForm` feature.
-* Finite verbs have one of three values of [Mood](): `Ind`, `Imp` or `Cnd`. The conditional mood is only used with the conditional auxiliary (_by_). The “mobile inflection” auxiliary _(m, ś, śmy, ście)_, if present, as well as the l-participle of the main verb needed to form a periphrastic conditional, are not marked with this feature.
+* Typical Polish verbs (including auxiliaries) have lexical [Aspect](), either imperfective (`Imp`) or perfective (`Perf`). 
+  * There is, however, a class of verb-like words, marked as [VERB]() with the universal `VerbType` feature with the language-specific `Quasi` value, which do not inflect for person and do not have aspect.
+  * On the other hand, the `Aspect` feature is used with de-verbal nouns (gerunds) and adjectives (participles), if they have the `VerbForm` feature.
+* Finite verbs have one of three values of [Mood](): `Ind`, `Imp` or `Cnd`. The conditional mood is only used with the conditional auxiliary (_by_). The imperative mood is marked on imperative forms of verbs, as well as on the imperative auxiliary (_niech_, and its variant _niechaj_).  All other finite verb forms, but not the “mobile inflection” auxiliaries (_m_, _śmy_, etc.), are marked for the indicative mood.
 * Verbs in the indicative mood always have one of three values of [Tense](): `Past`, `Pres` or `Fut`.
-  Note that `Tense=Pres` is also used with forms of perfective verbs, which are formally present, but semantically future.
-  Hence both _idę do domu_ “I am going home” and _przyjdę do domu_ “I will come home” end up marked as `Tense=Pres`.
-  * Imperative and conditional forms do not have the `Tense` feature (note that past and present conditionals are distinguished analytically).
-  * The `Tense` feature is also used to distinguish present and past converbs (_robiąc_ “while doing” vs. _zrobiwszy_ “having done”),
-    and present and past participles (_robiący_ “doing” vs. _zrobiwszy_ “having done”).
-    The l-participle (tagged `VERB` or `AUX`) also has `Tense=Past` because its primary function is to form the past tense.
-    The passive participle does not have the `Tense` feature.
+  * Imperative forms of verbs do not have the `Tense` feature.
+  * The `Tense` feature is also used to distinguish contemporary and anterior adverbial participles (sometimes called “converbs”), e.g., _robiąc_ “while doing” (`Tense=Pres`) vs. _zrobiwszy_ “having done” (`Tense=Past`).
+  * The l-participle (tagged `VERB` or `AUX`) also has `Tense=Past` because its primary function is to form the past tense.
+  * De-verbal adjectives (adjectival participles) and nouns (gerunds) do not have `Tense`.
 * There are two values of the [Voice]() feature: `Act` and `Pass`. Only the passive participle has `Voice=Pass`. All other verb forms have `Voice=Act`.
 
 ### Other Features
