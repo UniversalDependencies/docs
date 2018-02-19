@@ -94,8 +94,6 @@ __ATTENTION: This page is currently (as of 18 February 2018) being revised, so i
 * Verbs in the indicative mood always have one of three values of [Tense](): `Past`, `Pres` or `Fut`.
   Note that `Tense=Pres` is also used with forms of perfective verbs, which are formally present, but semantically future.
   Hence both _idę do domu_ “I am going home” and _przyjdę do domu_ “I will come home” end up marked as `Tense=Pres`.
-  On the other hand, a few imperfective verbs can form a genuine future form using prefixes, and they are marked `Tense=Fut`:
-  _pójdę do domu_ “I will go home”.
   * Imperative and conditional forms do not have the `Tense` feature (note that past and present conditionals are distinguished analytically).
   * The `Tense` feature is also used to distinguish present and past converbs (_robiąc_ “while doing” vs. _zrobiwszy_ “having done”),
     and present and past participles (_robiący_ “doing” vs. _zrobiwszy_ “having done”).
@@ -114,7 +112,7 @@ __ATTENTION: This page is currently (as of 18 February 2018) being revised, so i
   * [Typo]() – marks typos (as of release 2.2, only used in the [Original](http://universaldependencies.org/treebanks/pl/index.html) treebank).
 * The following universal features are not used in Polish: [Definite](), [Evident]().
 * Apart from [SubGender](), other language-specific features include:
-  * [Agglutination]() – distinguishes these rare situations where the l-participle has different forms depending on whether the “mobile inflection” auxiliary attaches to it or not, e.g., _on mógł_ “he could” (`Agglutination=Nagl`) vs. _mogł_ in _ja mogłem_ “I could” (`Agglutination=Agl`); as of release 2.2, only used in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank.
+  * [Agglutination]() – distinguishes these rare situations where the l-participle has different forms depending on whether the “mobile inflection” auxiliary directly attaches to it or not, e.g., _on mógł_ “he could” (`Agglutination=Nagl`) vs. _mogł_ in _ja mogłem_ “I could” (`Agglutination=Agl`); as of release 2.2, only used in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank.
   * [Emphatic]() – present on those traditional pronouns (hence, various parts of speech here) which include the emphatic particle _ż(e)_, e.g., _co_ “what” (neutral) vs. _cóż_ “what” (emphatic); as of release 2.2, only used in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank.
   * [Variant]() – distinguishes short and long forms of adjectives, a Slavic-wide phenomenon; in Polish primarily used to distinguish basic from vocalised versions of some pronouns (e.g., _z_ vs. _ze_ “from”), basic from vocalised versions of the “mobile inflection” auxiliary (e.g., _m_ from _em_), and short (not accentable) from long (accentable) forms of some pronouns.
 
@@ -123,13 +121,13 @@ __ATTENTION: This page is currently (as of 18 February 2018) being revised, so i
 
 ### Core and Oblique Dependents
 
-* Prototypically, nominal subjects ([nsubj]()) are noun phrases in the nominative case, without preposition.  In the case of numeral phrases in the subject position, the noun itself occurs in the genitive case.  The issue of the case of the numeral is more controversial: it is nominative on some theories (and in the [Original](http://universaldependencies.org/treebanks/pl/index.html) treebank) and accusative on other (and in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank).  This special numeral construction, where the noun is in the genitive case, is marked in both release 2.2 treebanks:
+* Prototypically, nominal subjects ([nsubj]()) are bare noun phrases in the nominative case.  In the case of typical numeral phrases in the subject position, the noun itself occurs in the genitive case.  The issue of the case of the numeral is more controversial: it is nominative on some theories (and in the [Original](http://universaldependencies.org/treebanks/pl/index.html) treebank) and accusative on other (and in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank).  This special numeral construction, where the noun is in the genitive case, is marked in both release 2.2 treebanks:
   * in the [Original](http://universaldependencies.org/treebanks/pl/index.html) treebank, the dependency relation is [det:nummod]() (instead of the plain `det`),
   * in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank, the MISC column contains the `[DepType=Rec]` feature (it is `[DepType=Congr]` in the case of those numerals which do not assign the genitive case but rather agree with the noun).
-* Clausal subjects ([csubj]()) are typically infinitival phrases or full subordinate clauses.
+* Clausal subjects ([csubj]()) are typically infinitival phrases or subordinate clauses.
   * On the other hand, verbal nouns in the subject position are just `nsubj`.
   * However, it is possible to have a `csubj` dependency to a nominal word (a noun or an adjective), namely, when this word heads a copular clause.
-* In passive clauses (both reflexive and periphrastic passive), the subject is labelled with [nsubj:pass]() or [csubj:pass](), respectively.
+* In passive clauses, the subject is labelled with [nsubj:pass]() or [csubj:pass](), respectively.
   * The auxiliary verb in periphrastic passive is labelled [aux:pass]().
   * If the demoted agent is present, it has the form of a prepositional phrase headed by _przez_ “by”, and its relation is labelled [obl:agent]().
 * Direct objects are those dependents of verbs which may passivise, i.e., which become subjects in the passive voice.  Nominal direct objects are marked as [obj]().  They usually occur in the accusative case (but not bare accusative nominals are objects), but also some instrumental and genitive nominals may be direct objects.
