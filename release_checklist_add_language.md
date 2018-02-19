@@ -49,8 +49,10 @@ rm log/$oldrepo.log
 rm log/$oldrepo.eval.log
 grep -v -P '^'$oldrepo':' validation-report.txt > /tmp/newreport.txt
 mv /tmp/newreport.txt validation-report.txt
+chmod 666 validation-report.txt
 grep -v -P '^'$oldrepo'\t' evaluation-report.txt > /tmp/newreport.txt
-mv /tmp/newreport.txt evaluation-report.txt</pre>
+mv /tmp/newreport.txt evaluation-report.txt
+chmod 666 evaluation-report.txt</pre>
 3.  Call docs-automation/valdan/clone_one.sh UD_Czech-PDT.
 4.  Go to one of the places where you have local clones of all UD repositories. Remove the old clone.
     Create a new clone under the new name. Check out the dev branch.
