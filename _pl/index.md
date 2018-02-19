@@ -165,7 +165,7 @@ __ATTENTION: This page is currently (as of 18 February 2018) being revised, so i
   * [det:nummod]() for pronominal quantifiers in cases in which they do not govern the case of the quantified noun (as of release 2.2, only in the [Original](http://universaldependencies.org/treebanks/pl/index.html) treebank),
   * [aux:pass]() for passive auxiliaries,
   * [aux:aglt]() for “mobile inflection” auxiliaries (as of release 2.2, only in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank),
-  * [aux:mood]() for mood marking auxiliaries (as of release 2.2, only in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank),
+  * [aux:mood]() for mood marker auxiliaries (as of release 2.2, only in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank),
   * [cop:locat]() for locative uses of copulas (as of release 2.2, only in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank),
   * [cc:preconj]() for preconjunctions (as of release 2.2, only in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank).
 * The following main types are not used alone and must be subtyped:
