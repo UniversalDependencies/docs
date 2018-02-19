@@ -130,13 +130,13 @@ __ATTENTION: This page is currently (as of 18 February 2018) being revised, so i
 * In passive clauses, the subject is labelled with [nsubj:pass]() or [csubj:pass](), respectively.
   * The auxiliary verb in periphrastic passive is labelled [aux:pass]().
   * If the demoted agent is present, it has the form of a prepositional phrase headed by _przez_ “by”, and its relation is labelled [obl:agent]().
-* Direct objects are those dependents of verbs which may passivise, i.e., which become subjects in the passive voice.  Nominal direct objects are marked as [obj]().  They usually occur in the accusative case (but not bare accusative nominals are objects), but also some instrumental and genitive nominals may be direct objects.
+* Direct objects are those dependents of verbs which may passivise, i.e., which become subjects in the passive voice.  Nominal direct objects are marked as [obj]().  They usually occur in the accusative case (but not all bare accusative nominals are objects), but also some instrumental and genitive nominals may be direct objects.
   * Since only nominal dependents may be considered objects according to current UD guidelines, passivisable clauses are marked as [ccomp:obj]().
   * In the case of typical numeral phrases in the accusative object position, the noun actually occurs in the genitive case, similarly to subject positions, and the numeral is uncontroversially accusative.  Such constructions are marked as in the case of numeral subjects (see above).
 * All required dependents of verbs in the dative case are indirect objects ([iobj]()).
 * All other bare nominal phrases and all adpositional phrases, when they are dependents of verbs, are treated as obliques ([obl]()).
 * Required clausal dependents of verbs are marked as [ccomp](), unless they are subjects (`csubj`) or direct objects (`ccomp:obj`).
-* Open (“controlled”) dependents are marked as [xcomp](); typically, they are infinitival phrases, but also, in the case of some governing verbs (such as _stać się_ “become”), nominal phrases.
+* Open (“controlled”) dependents are marked as [xcomp](); they are either infinitival phrases or predicative complements of verbs such as _stać się_ “become”.
 * Extra attention has to be paid to the so-called reflexive pronoun _się_. It may function as:
   * reflexive direct object ([obj]()): _zobaczył się w lustrze_ “he sighted himself in the mirror” (in such cases _się_ may alternate with the longer form _siebie_),
   * reciprocal directo object (`obj`): _całowali się_ “they were kissing each other”,
