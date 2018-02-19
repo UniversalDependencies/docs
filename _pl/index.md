@@ -34,9 +34,9 @@ __ATTENTION: This page is currently (as of 18 February 2018) being revised, so i
   * one determiner treated elsewhere as a noun is _mnóstwo_ “a lot”.
 * The main auxiliary verb ([AUX]()) in Polish is _być_ (“to be”), with the aspectual variant _bywać_ “to be (habitual)”.
   This auxiliary verb is used in several types of constructions:
-  * the copula with non-verbal predicates,
+  * the copula with predicative phrases,
   * periphrastic future tense (future form of _być_ + infinitive or so-called l-participle form of the main verb),
-  * periphrastic conditional (conditional form of _być_ + l-participle of the main verb),
+  * periphrastic conditional (any form of _być_ + the conditional mood marker _by_ + l-participle of the main verb),
   * (imperfective) periphrastic passive (any form of _być_, including periphrastic forms, + passive participle of the main verb).
 * Another auxiliary, _zostać_ “become” (and its habitual version _zostawać_), is used for the perfective periphrastic passive (any form of _zostać_ + passive participle of the main verb).  Additionally, mood markers _by_ (conditional) and _niech_ (imperative, also its variant _niechaj_) are marked as `AUX`, as are “mobile inflections” and the copular uses of _to_ (usually, but inappropriately in this context, translated as “this”).
 * The words _być_, _bywać_, _zostać_ and _zostawać_ may also occur as normal [VERB]() if they are used in purely existential sentences
