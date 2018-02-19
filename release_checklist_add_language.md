@@ -44,16 +44,16 @@ at least the following steps:
 2.  Go to the server where the automatic validation and evaluation runs (currently quest.ms.mff.cuni.cz, operated by Dan).
     Remove the old clone of the repository and the reports from validation and evaluation.
 
-<code>
- oldrepo=UD_Czech
- rm -rf $oldrepo
- rm log/$oldrepo.log
- rm log/$oldrepo.eval.log
- grep -v -P '^'$oldrepo':' validation-report.txt > /tmp/newreport.txt
- mv /tmp/newreport.txt validation-report.txt
- grep -v -P '^'$oldrepo'\t' evaluation-report.txt > /tmp/newreport.txt
- mv /tmp/newreport.txt evaluation-report.txt
-</code>
+<pre>
+oldrepo=UD_Czech
+rm -rf $oldrepo
+rm log/$oldrepo.log
+rm log/$oldrepo.eval.log
+grep -v -P '^'$oldrepo':' validation-report.txt > /tmp/newreport.txt
+mv /tmp/newreport.txt validation-report.txt
+grep -v -P '^'$oldrepo'\t' evaluation-report.txt > /tmp/newreport.txt
+mv /tmp/newreport.txt evaluation-report.txt
+</pre>
 
 3.  Call docs-automation/valdan/clone_one.sh UD_Czech-PDT.
 4.  Go to one of the places where you have local clones of all UD repositories. Remove the old clone.
@@ -81,12 +81,12 @@ at least the following steps:
     ./refresh_corpus_data_master.sh ../UD_Czech-PDT
 14. Regenerate the UD title page and push it to Github:
 
-<code>
-    make dan
-    cd ../docs
-    git pull --no-edit
-    git status
-    git diff
-    git commit -a -m 'Renamed treebank repository.'
-    git push
-</code>
+<pre>
+make dan
+cd ../docs
+git pull --no-edit
+git status
+git diff
+git commit -a -m 'Renamed treebank repository.'
+git push
+</pre>
