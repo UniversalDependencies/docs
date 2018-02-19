@@ -72,7 +72,8 @@ __ATTENTION: This page is currently (as of 18 February 2018) being revised, so i
 * The [Reflex]() feature marks so-called reflexive pronouns _(się, siebie)_ and determiners _(swój)_, even when they are not used reflexively or reciprocally.
 * [Person]() is a lexical feature of personal pronouns ([PRON]()) and has three values, `1`, `2` and `3`.
   With personal possessive determiners ([DET]()), the feature actually encodes the person of the possessor.
-  Person is not marked on other types of pronouns and on nouns, although they can be almost always interpreted as the 3rd person, but it is marked on finite verbs ([VERB](), [AUX]()).
+  Person is not marked on other types of pronouns and on nouns, although they can be almost always interpreted as the 3rd person. 
+  On the other hand, it is marked on finite verbs ([VERB](), [AUX]()).
 * A [layered feature](../../u/overview/feat-layers.html), [Number[psor]](),
   appears with certain possessive determiners and encodes the lexical number of the possessor.
   The extra layer is needed to distinguish this lexical number from the inflectional number
@@ -88,10 +89,8 @@ __ATTENTION: This page is currently (as of 18 February 2018) being revised, so i
 ### Verbal Features
 
 * Typical Polish verbs (including auxiliaries) have lexical [Aspect](), either imperfective (`Imp`) or perfective (`Perf`). There is, however, a class of verb-like words, marked as [VERB]() with the universal `VerbType` feature with the language-specific `Quasi` value, which do not inflect for person and do not have aspect.
-  * The `Aspect` feature is also used with the corresponding derived nouns (gerunds) and adjectives (participles), if they have the `VerbForm` feature.
-* Finite verbs have one of three values of [Mood](): `Ind`, `Imp` or `Cnd`. The conditional mood is only used with conditional
-  auxiliary _(by)_. The finite part of the auxiliary, if present _(m, ś, śmy, ście),_ as well as the l-participle of the main verb, needed to form a periphrastic conditional,
-  are not marked with this feature.
+  * The `Aspect` feature is also used with de-verbal nouns (gerunds) and adjectives (participles), if they have the `VerbForm` feature.
+* Finite verbs have one of three values of [Mood](): `Ind`, `Imp` or `Cnd`. The conditional mood is only used with the conditional auxiliary (_by_). The “mobile inflection” auxiliary _(m, ś, śmy, ście)_, if present, as well as the l-participle of the main verb needed to form a periphrastic conditional, are not marked with this feature.
 * Verbs in the indicative mood always have one of three values of [Tense](): `Past`, `Pres` or `Fut`.
   Note that `Tense=Pres` is also used with forms of perfective verbs, which are formally present, but semantically future.
   Hence both _idę do domu_ “I am going home” and _przyjdę do domu_ “I will come home” end up marked as `Tense=Pres`.
