@@ -17,7 +17,7 @@ __ATTENTION: This page is currently (as of 18 February 2018) being revised, so i
 * In general, words are delimited by whitespace characters. Description of exceptions follows.
 * According to typographical rules, a punctuation mark is attached to a neighbouring (usually preceding) word. Punctuation marks are usually tokenised as separate tokens (words), unless they are considered an integral part of the lemma (as in _Rolls-Royce_ “Rolls-Royce”, _O’Donellowie_ “the O'Donells”, or _85-lecie_ “85th anniversary”) or are used to express inflection (as in the accusative or genitive _Melville'a_ “Melville”).  On the other hand, hyphens in constructions such as _biało-czerwona_ “white-and-red” are treated as separate tokens.
 * A whitespace separating digits in a large number is not treated as a word separator. For example, _1&nbsp;000&nbsp;000_ (“1,000,000” by English rules) is one token. (However, such tokens do not occur in Polish treebanks as of release 2.2.)
-* There are two classes of contractions that are treated as multi-word tokens and segmented to individual syntactic words.
+* There are two classes of “orthographic words” (sequences of letters without spaces inside) that are split into several syntactic tokens.
   * The most prominent type is an l-participle (or, rarely, another form) fused with a so-called “mobile inflection” auxiliary (e.g., _śmy_ expressing first person and plural number) or the conditional particle _by_ (also treated as an auxiliary), as in: _wyprodukowalibyśmy = wyprodukowali + by + śmy_ “we would have produced”.
   * Contractions of the other class consist of a preposition and a short (not accentable) pronouns, as in _czekał nań = czekał na + ń_ “(he) waited for him”.
 
@@ -38,7 +38,7 @@ __ATTENTION: This page is currently (as of 18 February 2018) being revised, so i
   * periphrastic future tense (future form of _być_ + infinitive or so-called l-participle form of the main verb),
   * periphrastic conditional (conditional form of _być_ + l-participle of the main verb),
   * (imperfective) periphrastic passive (any form of _być_, including periphrastic forms, + passive participle of the main verb).
-  Another auxiliary, _zostać_ “become” (and its habitual version _zostawać_), is used for the perfective periphrastic passive (any form of _zostać_ + passive participle of the main verb).  Additionally, mood markers _by_ (conditional) and _niech_ (imperative, also its variant _niechaj_) are marked as `AUX`, as are “mobile inflections” and the copular uses of _to_ (usually, but inappropriately in this context, translated as “this”).
+* Another auxiliary, _zostać_ “become” (and its habitual version _zostawać_), is used for the perfective periphrastic passive (any form of _zostać_ + passive participle of the main verb).  Additionally, mood markers _by_ (conditional) and _niech_ (imperative, also its variant _niechaj_) are marked as `AUX`, as are “mobile inflections” and the copular uses of _to_ (usually, but inappropriately in this context, translated as “this”).
 * The words _być_, _bywać_, _zostać_ and _zostawać_ may also occur as normal [VERB]() if they are used in purely existential sentences
   (i.e. ones that don't even indicate location because if they do, then they shoul be treated as copulae).
 * Verbs with modal meaning are not considered auxiliary in Polish.
