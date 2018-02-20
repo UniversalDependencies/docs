@@ -47,10 +47,17 @@ so that your treebank works well with our infrastructure and can be released.
 
 # Repository and files
 
-Every language has its own GitHub repository called `UD_Language`, where `Language` is the name of the language. For example, the repository for Finnish is called `UD_Finnish`. If your repository does not exist yet, get in touch with us (see above). Some languages have more than one treebank and the additional treebanks have their own repositories with a `-Treebank` identifier after the language name. For example, `UD_Finnish-FTB` is the repository for the FinnTreeBank, while the plain `UD_Finnish` holds the Turku Dependency Treebank.
+Every treebank has its own GitHub repository called `UD_Language-Treebank`, where `Language` is the name of the language and
+`Treebank` is a unique identifier of a treebank within a language. For example, `UD_Finnish-TDT` and `UD_Finnish-FTB` are repositories
+of two different treebanks of Finnish: `TDT` stands for “Turku Dependency Treebank”, and `FTB` stands for “FinnTreeBank”.
+If treebanks in different languages are strongly related (especially if they are parallel translations of the same text),
+it is desirable that they have the same treebank identifier. For example, `UD_English-LinES` and `UD_Swedish-LinES` are two halves
+of an English-Swedish parallel treebank. On the other hand, it is allowed that two unrelated treebanks in different languages have
+identical identifiers simply by chance. For example, `UD_French-FTB` (standing for “French TreeBank”) uses the identifier `FTB`
+although it is not related to FinnTreeBank.
 
-Every treebank repository should contain the following files (where `xx` is the ISO code for the given language;
-if this is not the first treebank for the language, use `xx_y` instead, where `y` is the lowercased treebank identifier).
+Every treebank repository should contain the following files (where `xx` is the ISO code for the given language,
+and `y` is the lowercased treebank identifier). For example, `fi_tdt` is the code used in the Turku Dependency Treebank of Finnish.
 Small treebanks may have just the test file but no training and development data; see below for
 more detailed recommendations for train-dev-test data splits.
 
