@@ -28,4 +28,3 @@ compounds (the independent form would be _անգլիական_).
 * _<b>նախա</b>- և հետպատերազմական&nbsp;_ “pre- and postwar”
 * _<b>հեռուստա</b>- և ռադիոհեռարձակում&nbsp;_ “TV and radio broadcasting”
 * _<b>ֆրանս</b>-գերմանական&nbsp;_ “french-german”
-* _<b>վրաց</b>-ռուսական&nbsp;_ “georgian-russian”
