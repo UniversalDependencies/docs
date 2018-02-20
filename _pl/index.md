@@ -8,8 +8,6 @@ udver: '2'
      If we agree on a scheme like this, the old proposal should be updated and made visible in the “How to Contribute” section;
      right now it is probably not linked from anywhere. -->
 
-__ATTENTION: This page is currently (as of 19 February 2018) being revised, so it may be in an inconsistent state at the moment.  Please come back later.__
-
 # UD for Polish <span class="flagspan"><img class="flag" src="../../flags/svg/PL.svg" /></span>
 
 ## Tokenization and Word Segmentation
@@ -25,7 +23,7 @@ __ATTENTION: This page is currently (as of 19 February 2018) being revised, so i
 
 ### Tags
 
-* Polish in principle uses all 17 universal POS categories, although, as of release 2.2, [SYM]() is used in neither of the two available treebanks, [X]() is only used in the [Original](http://universaldependencies.org/treebanks/pl/index.html) treebank (to mark abbreviations), and [INTJ]() is only used in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank.
+* Polish in principle uses all 17 universal POS categories, although, as of release 2.2, [SYM]() is used in neither of the two available treebanks, [X]() is only used in the [SZ](http://universaldependencies.org/treebanks/pl_sz/index.html) treebank (to mark abbreviations), and [INTJ]() is only used in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank.
 * The [NOUN]() tag is used not only for prototypical nouns, but also – somewhat arbitrarily – for gerunds (the so-called _-nie/-cie_ forms), which have both nominal and verbal properties.
 * Pronouns ([PRON]()) are here understood as personal pronouns, so-called reflexive pronouns (also in their non-reflexive and – generally – non-pronominal uses), and such nominal pronouns as _kto_ “who”, _nic_ “nothing” and _wszyscy_ “everybody”.
 * As Polish grammars do not include a separate part of speech _determiner_, the [DET]() class is based on a word list and includes words treated by standard Polish tagsets as adjectives, numerals or even nouns:
@@ -53,7 +51,7 @@ __ATTENTION: This page is currently (as of 19 February 2018) being revised, so i
 ### Nominal Features
 
 * Nouns ([NOUN]() and [PROPN]()) have an inherent [Gender]() feature.  Five genders are standardly assumed in Polish linguistics (and in Polish tagsets): three masculine, one feminine and one neuter.  The three masculine genders are often called “human masculine”, “animate masculine” and “inanimate masculine”, but the correlation with the semantic animacy feature is far from perfect.  In particular, there are many “animate masculine” semantically inanimate nouns (including all masculine names of dances, and many more), as well as “animate masculine” nouns which are, semantically, human and feminine (some derogatory nouns for women, e.g., _babsztyl_), or which are human and, well, no longer animate (_trup_ “corpse”), or which are “superhuman” (e.g., _diabeł_ “devil” and _anioł_ “angel”, but not _bóg_ “god”, which is “human masculine”).  For the sake of cross-linuguistic consistency, three values are assumed for the `Gender` feature, i.e., `Masc`, `Fem` and `Neut`, but there must be another feature which distinguishes the three masculine genders.
-  * In the [Original](http://universaldependencies.org/treebanks/pl/index.html) treebank, the masculine gender is further subclassified by the [Animacy]() values `Hum`, `Nhum` and `Inan`.
+  * In the [SZ](http://universaldependencies.org/treebanks/pl_sz/index.html) treebank, the masculine gender is further subclassified by the [Animacy]() values `Hum`, `Nhum` and `Inan`.
   * In the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank, the masculine gender is further subclassified by the language-specific [SubGender]() feature with values `Masc1`, `Masc2` and `Masc3`.
 * The following parts of speech in general inflect for gender: [ADJ](), [DET](), [NUM](), [PRON](), [VERB](), [AUX](). In the case of pronouns, only personal pronouns inflect for gender; other nominal pronouns (as well as the nominal determiner _wszyscy_ “everybody”) have this feature defined lexically, and so-called reflexive pronouns lack this feature altogether.  In the case of tokens tagged as `VERB` or `AUX`, only past forms of finite verbs overtly inflect for gender.
 * The two values of the [Number]() feature are `Sing` and `Plur`. The following parts of speech inflect for number:
@@ -61,7 +59,7 @@ __ATTENTION: This page is currently (as of 19 February 2018) being revised, so i
 * [Case]() has 7 possible values: `Nom`, `Acc`, `Gen`, `Dat`, `Loc`, `Ins`, `Voc`.
   It occurs on broadly nominal categories, i.e., [NOUN](), [PROPN](), [PRON](), [ADJ](), [DET](), [NUM]().
   It can occur with de-verbal forms but only with those tagged as `ADJ` (adjectival participles) or `NOUN` (gerunds).  It never occurs with purely verbal forms.
-  * Some tagsets also include `Case` as a feature of prepositions ([ADP]()), although in this case it is a valency (i.e., syntactic rather than morphological) feature.  As such, as of release 2.2, it is only present in the MISC column in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank (but still in the FEATS column in the [Original](http://universaldependencies.org/treebanks/pl/index.html) treebank).
+  * Some tagsets also include `Case` as a feature of prepositions ([ADP]()), although in this case it is a valency (i.e., syntactic rather than morphological) feature.  As such, as of release 2.2, it is only present in the MISC column in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank (but still in the FEATS column in the [SZ](http://universaldependencies.org/treebanks/pl_sz/index.html) treebank).
 * [Polite]() is used in Polish (in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank of release 2.2) as a nominal feature, with the language-specific value `Depr` in case of special derogatory forms of some human masculine nouns, e.g., _profesory_ “professors (derogatory)”, as opposed to _profesorowie_ “professors (neutral)”.
 
 ### Pronouns, Determiners, Numerals
@@ -107,7 +105,7 @@ __ATTENTION: This page is currently (as of 19 February 2018) being revised, so i
   * [PartType]() – used (as of release 2.2, only in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank) only to mark question particles (`Int`).
   * [PrepCase]() – distinguishes those pronominal forms which may only occur as dependents of prepositions (`Pre`) from those which may only occur in other contexts (`Npr`).
   * [PunctSide]() and [PunctType]()
-  * [Typo]() – marks typos (as of release 2.2, only used in the [Original](http://universaldependencies.org/treebanks/pl/index.html) treebank).
+  * [Typo]() – marks typos (as of release 2.2, only used in the [SZ](http://universaldependencies.org/treebanks/pl_sz/index.html) treebank).
 * The following universal features are not used in Polish: [Definite](), [Evident]().
 * Apart from [SubGender](), other language-specific features include:
   * [Agglutination]() – distinguishes these rare situations where the l-participle has different forms depending on whether the “mobile inflection” auxiliary directly attaches to it or not, e.g., _on mógł_ “he could” (`Agglutination=Nagl`) vs. _mogł_ in _ja mogłem_ “I could” (`Agglutination=Agl`); as of release 2.2, only used in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank.
@@ -119,8 +117,8 @@ __ATTENTION: This page is currently (as of 19 February 2018) being revised, so i
 
 ### Core and Oblique Dependents
 
-* Prototypically, nominal subjects ([nsubj]()) are bare noun phrases in the nominative case.  In the case of typical numeral phrases in the subject position, the noun itself occurs in the genitive case.  The issue of the case of the numeral is more controversial: it is nominative on some theories (and in the [Original](http://universaldependencies.org/treebanks/pl/index.html) treebank) and accusative on other (and in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank).  This special numeral construction, where the noun is in the genitive case, is marked in both release 2.2 treebanks:
-  * in the [Original](http://universaldependencies.org/treebanks/pl/index.html) treebank, the dependency relation is [det:nummod]() (instead of the plain `det`),
+* Prototypically, nominal subjects ([nsubj]()) are bare noun phrases in the nominative case.  In the case of typical numeral phrases in the subject position, the noun itself occurs in the genitive case.  The issue of the case of the numeral is more controversial: it is nominative on some theories (and in the [SZ](http://universaldependencies.org/treebanks/pl_sz/index.html) treebank) and accusative on other (and in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank).  This special numeral construction, where the noun is in the genitive case, is marked in both release 2.2 treebanks:
+  * in the [SZ](http://universaldependencies.org/treebanks/pl_sz/index.html) treebank, the dependency relation is [det:nummod]() (instead of the plain `det`),
   * in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank, the MISC column contains the `[DepType=Rec]` feature (it is `[DepType=Congr]` in the case of those numerals which do not assign the genitive case but rather agree with the noun).
 * Clausal subjects ([csubj]()) are typically infinitival phrases or subordinate clauses.
   * On the other hand, verbal nouns in the subject position are just `nsubj`.
@@ -159,8 +157,8 @@ __ATTENTION: This page is currently (as of 19 February 2018) being revised, so i
   * [expl:impers]() for impersonal uses of the so-called reflexive pronoun _się_ (as of release 2.2, only in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank),
   * [acl:relcl]() for relative clauses (as of release 2.2, only in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank),
   * [nmod:poss]() for possessive nominal modifiers, including 3rd person possessive pronouns (as of release 2.2, only in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank),
-  * [det:numgov]() for pronominal quantifiers that are attached as children of the quantified noun but govern its case (as of release 2.2, only in the [Original](http://universaldependencies.org/treebanks/pl/index.html) treebank),
-  * [det:nummod]() for pronominal quantifiers in cases in which they do not govern the case of the quantified noun (as of release 2.2, only in the [Original](http://universaldependencies.org/treebanks/pl/index.html) treebank),
+  * [det:numgov]() for pronominal quantifiers that are attached as children of the quantified noun but govern its case (as of release 2.2, only in the [SZ](http://universaldependencies.org/treebanks/pl_sz/index.html) treebank),
+  * [det:nummod]() for pronominal quantifiers in cases in which they do not govern the case of the quantified noun (as of release 2.2, only in the [SZ](http://universaldependencies.org/treebanks/pl_sz/index.html) treebank),
   * [aux:pass]() for passive auxiliaries,
   * [aux:aglt]() for “mobile inflection” auxiliaries (as of release 2.2, only in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank),
   * [aux:mood]() for mood marker auxiliaries (as of release 2.2, only in the [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html) treebank),
@@ -175,6 +173,6 @@ __ATTENTION: This page is currently (as of 19 February 2018) being revised, so i
 
 There are two Polish UD treebanks:
 
-  * [Original](http://universaldependencies.org/treebanks/pl/index.html)
+  * [SZ](http://universaldependencies.org/treebanks/pl_sz/index.html)
   * [LFG](http://universaldependencies.org/treebanks/pl_lfg/index.html)
 
