@@ -18,7 +18,7 @@ mark(attacked, after)
 
 ~~~ sdparse
 He says that you like to swim
-mark(swim, that)
+mark(like, that)
 ~~~
 
 ~~~ sdparse
