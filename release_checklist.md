@@ -326,12 +326,17 @@ for example for Finnish:
     *** PASSED ***
 
 Among other items, the script also validates the language-specific set
-of tags and relations and therefore it needs to know about these. The
-language-specific lists are stored in `data/deprel.xx`
-(language-specific relations) and `data/feat_val.xx`
-(language-specific features). In addition `data/*.ud` stores the UD
-taglists. Before you can validate data for a given language, you need to
-produce and commit the necessary tag lists and add them to the
+of morphological features and relations and therefore it needs to know about these. The
+language-specific lists are stored in:
+
+* `data/feat_val.xx` (language-specific feature-value pairs)
+* `data/deprel.xx` (language-specific relations valid in the _basic representation,_ i.e., the DEPREL column)
+* `data/edeprel.xx` (additional language-specific relations that are valid _only_ in the _enhanced representation,_ i.e., the DEPS column;
+  do not put these in `deprel.xx`!)
+
+In addition `data/*.ud` stores the UD POS tags, features and relations.
+Before you can validate data for a given language, you need to
+produce and commit the necessary label lists and add them to the
 repository:
 
     $ git add data/deprel.xx data/feat_val.xx
@@ -349,6 +354,8 @@ specified [here](v2/segmentation.html). This is supported in the validator throu
 file `data/tokens_w_space.ud` and its language-specific variants `data/tokens_w_space.xx`. In
 these files, each line is a [Python regular expression](https://docs.python.org/2/library/re.html)
 defining the permissible forms and lemmas that can contain a whitespace.
+
+
 
 # Content validation
 
