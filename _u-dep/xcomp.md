@@ -104,7 +104,7 @@ In the enhanced representation, there is an additional subject link showing the 
 She declared the cake beautiful .
 nsubj(declared, She)
 obj(declared, cake)
-comp(declared, beautiful)
+xcomp(declared, beautiful)
 nsubj(beautiful, cake)
 ~~~
 
