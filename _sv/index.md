@@ -69,7 +69,7 @@ For more information, see the list of [Swedish relations](../dep/index.html).
 
 There are three Swedish UD treebanks:
 
-  * |Swedish-Talbanken](http://universaldependencies.org/treebanks/sv_talbanken/index.html)
+  * [Swedish-Talbanken](http://universaldependencies.org/treebanks/sv/index.html)
   * [Swedish-LinES](http://universaldependencies.org/treebanks/sv_lines/index.html)
   * [Swedish-PUD](http://universaldependencies.org/treebanks/sv_pud/index.html)
 
