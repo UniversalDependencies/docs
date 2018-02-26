@@ -18,7 +18,7 @@ udver: '2'
 ### Tags
 
 * Swedish uses all 17 universal tags.
-* The only word tagged [PART]() is the infinitive marker *att*.
+* The only words tagged [PART]() are the infinitive marker *att* and the negation particles *inte*, *icke*, *ej*.
 * Auxiliaries ([AUX]()) are all verbal in Swedish and can be grouped into four types:
   * The copula *vara* (be).
   * The temporal auxiliary *ha* (have), which combines with the supine form of the main verb to form perfect tenses.
@@ -69,7 +69,7 @@ For more information, see the list of [Swedish relations](../dep/index.html).
 
 There are three Swedish UD treebanks:
 
-  * |Swedish-TP](http://universaldependencies.org/treebanks/sv/index.html)
+  * |Swedish-Talbanken](http://universaldependencies.org/treebanks/sv_talbanken/index.html)
   * [Swedish-LinES](http://universaldependencies.org/treebanks/sv_lines/index.html)
   * [Swedish-PUD](http://universaldependencies.org/treebanks/sv_pud/index.html)
 
