@@ -4,28 +4,23 @@ title: 'amod'
 shortdef: 'adjectival modifier'
 udver: '2'
 ---
-The relation `amod` is used for adjectival modifiers of noun phrases. In Bambara adjectival modifiers are preposed.
+The relation `amod` is used for adjectival modifiers of noun phrases. In Bamana, adjectival modifiers are postposed.
 
 ~~~ conllu
-# visual-style 4 3 amod	color:blue
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 3 4 amod	color:blue
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-1	na	na	PART	PART	_	4	cop	_	_
-2	very	very	ADV	ADV	_	3	advmod	_	_
-3	bad	bad	ADJ	ADJ	_	4	amod	_	_
-4	thing	thing	NOUN	NOUN	_	0	root	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 
-1	be	_	_	_	_	0	_	_	_
-2	very	_	_	_	_	0	_	_	_
-3	bad	_	_	_	_	0	_	_	_
-4	thing	_	_	_	_	0	_	_	_	
+1	a	à	PRON	_	_	2	nsubj	_	_
+2	ko	kó	VERB	_	_	0	root	_	_
+3	kuma	kúma	NOUN	_	_	5	nsubj	_	_
+4	caman	cáman	ADJ _	_	3	amod	_	_
+5	tè	tɛ́	VERB	_	_	2	parataxis:obj	_	_
+6	a	à	PRON	_	_	5	obl	_	_
+7	rò	rɔ́	ADP	_	_	6	case	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
 
-1	It	_	_	_	_	0	_	_	_
-2	is	_	_	_	_	0	_	_	_
-3	a	_	_	_	_	0	_	_	_
-4	very	_	_	_	_	0	_	_	_	
-5	bad	_	_	_	_	0	_	_	_	
-6	thing	_	_	_	_	0	_	_	_	
+'He said: "There is no much talks about it"'.
 ~~~
