@@ -25,7 +25,7 @@ The `nmod:poss` relation is used between a nominal phrase and its possessive det
 8	fò	fɔ́	VERB	_	_	4	xcomp	_	_
 9	.	.	PUNCT	_	_	8	punct	_	_
 
-'No one could not say a name of a child'.
+'No one could say the child's name'.
 ~~~
 
 Alienable possession is marked by a postposition ka which follows a dependent noun.

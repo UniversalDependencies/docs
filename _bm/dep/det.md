@@ -24,4 +24,6 @@ The `det` relation is used between a nominal phrase and its determiner.
 7	tògò	tɔ́gɔ	NOUN	_	_	8	obj	_	_
 8	fò	fɔ́	VERB	_	_	4	xcomp	_	_
 9	.	.	PUNCT	_	_	8	punct	_	_
+
+'No one could say the child's name'.
 ~~~

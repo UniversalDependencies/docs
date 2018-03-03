@@ -23,5 +23,5 @@ The `xcomp` relation is used for clausal complements of verbs which function lik
 5	yuguyugu	yúguyugu	VERB	_	_	2	xcomp	_	_
 6	.	.	PUNCT	_	_	2	punct	_	_
 
-'A chicken climbed a lemon tree and shacked it'
+'A chicken climbed a lemon tree and shook it'
 ~~~
