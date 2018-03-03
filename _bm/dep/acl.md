@@ -5,51 +5,27 @@ shortdef: 'clausal modifier of noun'
 udver: '2'
 ---
 
-The `acl` relation is used for clauses that modify a noun or an adjective. Adjectives can also have clausal complements with their own subject, in that case we use the [ccomp]() relation instead.
+The `acl` relation is used for clauses that modify a noun phrase in a main clause. We annotate a modified noun phrase as a head of a predicate of subordinative clause.
 
 ~~~ conllu
-# visual-style 8 10 acl	color:blue
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-1	I	I	PRON	PRON	_	2	nsubj	_	_
-2	happy	happy	ADJ	ADJ	_	0	root	_	_
-3	sey	that	SCONJ	SCONJ	_	5	mark	_	_
-4	una	you	PRON	PRON	_	5	nsubj	_	_
-5	give	give	VERB	VERB	_	2	advcl	_	_
-6	me	I	PRON	PRON	_	5	iobj	_	_
-7	dis	this	DET	DET	_	8	det	_	_
-8	opportunity	opportunity	NOUN	NOUN	_	5	obj	_	_
-9	to	to	PART	ADP	_	10	mark	_	_
-10	talk	talk	VERB	VERB	_	8	acl	_	_
+# visual-style 3 7 acl	color:blue
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 
-1	I	_	_	_	_	0	_	_	_
-2	happy	_	_	_	_	0	_	_	_
-3	that	_	_	_	_	0	_	_	_
-4	you	_	_	_	_	0	_	_	_
-5	give	_	_	_	_	0	_	_	_
-6	me	_	_	_	_	0	_	_	_
-7	this	_	_	_	_	0	_	_	_
-8	opportunity	_	_	_	_	0	_	_	_
-9	to	_	_	_	_	0	_	_	_
-10	talk	_	_	_	_	0	_	_	_
+1	u	ù	PRON	_	_	4	nsubj	_	_
+2	ma	ma	AUX	_	_	4	aux	_	_
+3	mògò	mɔ̀gɔ	NOUN	_	_	4	obj	_	_
+4	sòrò	sɔ̀rɔ	VERB	_	_	0	root	_	_
+5	min	mîn	PRON	_	_	7	nsubj	_	_
+6	bè	bɛ	AUX	_	_	7	aux	_	_
+7	se	sé	VERB	_	_	3	acl	_	_
+8	ka	kà	AUX	_	_	11	_	_	_
+9	kurun	kùrun	NOUN	_	_	11	obj	_ _
+10	nin	nìn	DET	_ _	9	det	_	_
+11	ci	cì	VERB	_	_	7	xcomp	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_.
 
-1	I	_	_	_	_	0	_	_	_
-2	am	_	_	_	_	0	_	_	_
-3	happy	_	_	_	_	0	_	_	_
-4	that	_	_	_	_	0	_	_	_
-5	you	_	_	_	_	0	_	_	_
-6	all	_	_	_	_	0	_	_	_
-7	have	_	_	_	_	0	_	_	_
-8	given	_	_	_	_	0	_	_	_
-9	me	_	_	_	_	0	_	_	_
-10	this	_	_	_	_	0	_	_	_
-11	opportunity	_	_	_	_	0	_	_	_
-12	to	_	_	_	_	0	_	_	_
-13	talk	_	_	_	_	0	_	_	_
-~~~ 
-
-
-See [acl:cleft]() for clefted modifiers and [acl:relcl]() for relative clauses.
-
+'They did not find a man who could break this boat'.
+~~~

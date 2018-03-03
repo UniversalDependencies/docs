@@ -5,41 +5,23 @@ shortdef: 'direct speech'
 udver: '2'
 ---
 
-The relation `parataxis:obj` is used between a verb introducing direct speech and the governor of the direct speech.
+In Bamana, the relation [parataxis:obj]() is used for a direct speech, which is expressed by a complete sentence. If a direct speech is expressed by an incomplete sentence, the relation [obj]() is used. [REFERENCE TO PCM]
 
 ~~~ conllu
-# visual-style 2 6 parataxis:obj	color:blue
+# visual-style 2 4 parataxis:obj	color:blue
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-1	dem	they	PRON	PRON	_	2	nsubj	_	_
-2	say	say	VERB	VERB	_	0	root	_	_
-3	"ah"	"ah"	INTJ	INTJ	_	6	discourse	_	_
-4	"ah"	"ah"	INTJ	INTJ	_	3	goeswith	_	_
-5	who	who	PRON	PRON	_	6	nsubj	_	_
-6	kill	kill	VERB	VERB	_	2	parataxis:obj	_	_
-7	dis	this	DET	DET	_	8	det	_	_
-8	animal	animal	NOUN	NOUN	_	6	obj	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 
 
-1	They	_	_	_	_	0	_	_	_
-2	say	_	_	_	_	0	_	_	_
-3	ah	_	_	_	_	0	_	_	_
-4	ah	_	_	_	_	0	_	_	_
-5	who	_	_	_	_	0	_	_	_
-6	kill	_	_	_	_	0	_	_	_
-7	this	_	_	_	_	0	_	_	_
-8	animal	_	_	_	_	0	_	_	_
+1	a	à	PRON	_	_	2	nsubj	_	_
+2	ko	kó	VERB	_	_	0	root	_	_
+3	baasi	báasi	NOUN	_	_	4	nsubj	_	_
+4	tè	tɛ́	VERB	_	_	2	parataxis:obj	_	_
+5	.	.	PUNCT	_	_	2	punct	_	_
 
-1	They	_	_	_	_	0	_	_	_
-2	say	_	_	_	_	0	_	_	_
-3	"ah"	_	_	_	_	0	_	_	_
-4	"ah"	_	_	_	_	0	_	_	_
-5	who	_	_	_	_	0	_	_	_
-6	killed	_	_	_	_	0	_	_	_
-7	this	_	_	_	_	0	_	_	_
-8	animal	_	_	_	_	0	_	_	_
+'He said: "There is no problem"'.
 
 ~~~
 

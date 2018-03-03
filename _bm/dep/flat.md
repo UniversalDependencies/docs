@@ -5,8 +5,22 @@ shortdef: 'flat multiword expression'
 udver: '2'
 ---
 
-The flat relation is one of the relations used for multiword expressions multiword expressions (MWEs). It is used for exocentric (headless) semi-fixed MWEs. It contrasts with two other relations used for MWEs : [compound](), which applies to endocentric (headed) MWEs such as _speed limit_, and [fixed](), which applies to completely fixed grammaticized MWEs like _so dat_.
+The `flat` relation is one of the relations used for multiword expressions multiword expressions (MWEs).  All subsequent words in such expressions are attached to the first one. The assumption is that these expressions do not have any internal syntactic structure and that the structural annotation is in principle arbitrary.
 
-Flat MWEs are annotated with a flat structure, where all subsequent words in the expression are attached to the first one using the flat label. The assumption is that these expressions do not have any internal syntactic structure and that the structural annotation is in principle arbitrary. 
+~~~ conllu
+# visual-style 4 5 dislocated	color:blue
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4 fgColor:white
 
-In Bambara the [nmod:appos]() relation is used instead of `flat` when part of the expression serves to define, name, or describe the rest.
+1	a	à	PRON	_	_	2	nsubj	_	_
+2	ko	kó	VERB	_	_	0	root	_	_
+3	:	:	PUNCT	_	_	2	punct	_	_
+4	Mamadu	Mamadu	PROPN	_	_	2	obj	_	_
+5	Tarawele	Tàrawéle	PROPN	_	_	4	flat	_	_
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+
+'He says: "Mamadu Tarawele, Mamadu Tarawele"'.
+~~~
