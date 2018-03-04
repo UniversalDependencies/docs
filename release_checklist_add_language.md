@@ -73,10 +73,12 @@ chmod 666 evaluation-report.txt</pre>
 11. Remove the old cached metadata: rm `_corpus_metadata/UD_Czech.json`.
 12. Generate new metadata for the treebank (this script switches the repo temporarily to master):
     ./refresh_corpus_data_master.sh ../UD_Czech-PDT
-14. Regenerate the UD title page and push it to Github:
+13. Regenerate the UD title page and push it to Github:
     <pre>make dan
 cd ../docs
-git pull --no-edit
+git pull --no-edit</pre>
+14. Rename the folder with the treebank hub page in the `docs` repository. Then push the changes.
+    <pre>git mv treebanks/cs treebanks/cs_pdt
 git status
 git diff</pre> then press Q and
     <pre>git commit -a -m 'Renamed treebank repository.'
