@@ -50,7 +50,8 @@ The UD approach to ellipsis can be summarized as follows:
 
 1. If the elided element has no overt dependents, we do nothing.
 2. If the elided element has overt dependents, we promote one of these to take the role of the head.
-3. If the elided element is a predicate and the promoted element a core argument, we use the `orphan` relation when attaching other non-functional dependents to the promoted head.
+3. If the elided element is a predicate and the promoted element is one of its arguments or adjuncts,
+   we use the `orphan` relation when attaching other non-functional dependents to the promoted head.
 
 ### Ellipsis in Nominals
 
@@ -187,6 +188,24 @@ orphan(Jenny, CD)
 ~~~
 
 Note that the `orphan` relation is only used when an ordinary relation would be misleading (for example, when attaching an object to a subject). In particular, the ordinary `cc` relation should be used for the coordinating conjunction, which attaches to the pseudo-constituent formed through the `orphan` dependency.
+
+In German the grammar requires that non-finite verbs are at the end of the clause, which may mean that they are far away from
+their finite auxiliary verbs, possibly with intervening conjuncts. In the following example we do not try to keep _wurde geschieden_
+in one constituent. Instead, the auxiliary verb _wurde_ is promoted as the head of the first conjunct, and the content participle
+_geschieden_ heads the third conjunct. There is no verb in the middle conjunct and the `orphan` relation is used instead.
+
+~~~ sdparse
+Der Genuß wurde von der Arbeit , das Mittel vom Zweck , die Anstrengung von der Belohnung geschieden . \n The pleasure was from the work , the means from goal , the effort from the reward distinguished .
+nsubj:pass(wurde, Genuß)
+obl(wurde, Arbeit)
+conj(wurde, Mittel)
+orphan(Mittel, Zweck)
+punct(Mittel, ,-7)
+conj(wurde, geschieden)
+nsubj:pass(geschieden, Anstrengung)
+obl(geschieden, Belohnung)
+punct(geschieden, ,-12)
+~~~
 
 ## Multiword Expressions
 
