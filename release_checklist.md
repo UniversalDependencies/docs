@@ -349,6 +349,20 @@ types, `deprel.fi` and `deprel.fi_ftb`, respectively. This is no longer supporte
 beginning the UD policy is that all treebanks of one language adhere to the same language-specific
 guidelines. Therefore, all Finnish treebanks must now validate according to `deprel.fi`.
 
+If there are no label lists for the language yet, it is possible to create the initial lists
+by collecting labels from the data. However, such lists must be carefully examined by a human
+before they are deployed! Obviously it would not make sense to look for erroneous labels in the
+data using label lists based on the same data. Here is an example of a Bash command that collects
+the language-specific relation subtypes from the DEPREL column:
+
+    cat pl_lfg-ud-*.conllu | grep -P '^\d+\t' | cut -f8 | sort -u | grep ':'
+
+Here is an example of a Bash (+Perl) command that collects the relations from the DEPS column.
+Note that it cannot know which subtypes are also allowed in the DEPREL column and which are
+used only in the enhanced representation. Only the latter should be listed in `edeprel.xx`.
+
+    cat pl_lfg-ud-*.conllu | perl -CDS -e 'while(<>) { if(m/^[\d\.]+\t/) { @f=split(/\t/); @d=split(/\|/, $f[8]); foreach my $d (@d) { $d =~ s/^\d+://; $h{$d}++ } } } @k=sort(keys(%h)); foreach my $k (@k) { print $k, "\n"; }' | grep ':'
+
 Since the `v2.0` release, whitespace is allowed in the `FORM` and `LEMMA` fields under conditions
 specified [here](v2/segmentation.html). This is supported in the validator through the UD-wide
 file `data/tokens_w_space.ud` and its language-specific variants `data/tokens_w_space.xx`. In
