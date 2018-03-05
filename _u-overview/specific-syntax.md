@@ -196,7 +196,7 @@ _geschieden_ heads the third conjunct. There is no verb in the middle conjunct a
 See also [issue 522](https://github.com/UniversalDependencies/docs/issues/522).
 
 ~~~ sdparse
-Der Genuß wurde von der Arbeit , das Mittel vom Zweck , die Anstrengung von der Belohnung geschieden . \n The pleasure was from the work , the means from goal , the effort from the reward distinguished .
+Der Genuß wurde von der Arbeit , das Mittel vom Zweck , die Anstrengung von der Belohnung geschieden . \n The pleasure was from the work , the means from-the goal , the effort from the reward distinguished .
 nsubj:pass(wurde, Genuß)
 obl(wurde, Arbeit)
 conj(wurde, Mittel)
