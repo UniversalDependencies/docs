@@ -355,13 +355,13 @@ before they are deployed! Obviously it would not make sense to look for erroneou
 data using label lists based on the same data. Here is an example of a Bash command that collects
 the language-specific relation subtypes from the DEPREL column:
 
-    cat pl_lfg-ud-*.conllu | grep -P '^\d+\t' | cut -f8 | sort -u | grep ':'
+    cat *-ud-*.conllu | grep -P '^\d+\t' | cut -f8 | sort -u | grep ':'
 
 Here is an example of a Bash (+Perl) command that collects the relations from the DEPS column.
 Note that it cannot know which subtypes are also allowed in the DEPREL column and which are
 used only in the enhanced representation. Only the latter should be listed in `edeprel.xx`.
 
-    cat pl_lfg-ud-*.conllu | perl -CDS -e 'while(<>) { if(m/^[\d\.]+\t/) { @f=split(/\t/); @d=split(/\|/, $f[8]); foreach my $d (@d) { $d =~ s/^\d+://; $h{$d}++ } } } @k=sort(keys(%h)); foreach my $k (@k) { print $k, "\n"; }' | grep ':'
+    cat *-ud-*.conllu | perl -CDS -e 'while(<>) { if(m/^[\d\.]+\t/) { @f=split(/\t/); @d=split(/\|/, $f[8]); foreach my $d (@d) { $d =~ s/^\d+://; $h{$d}++ } } } @k=sort(keys(%h)); foreach my $k (@k) { print $k, "\n"; }' | grep ':'
 
 Since the `v2.0` release, whitespace is allowed in the `FORM` and `LEMMA` fields under conditions
 specified [here](v2/segmentation.html). This is supported in the validator through the UD-wide
