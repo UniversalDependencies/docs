@@ -193,6 +193,7 @@ In German the grammar requires that non-finite verbs are at the end of the claus
 their finite auxiliary verbs, possibly with intervening conjuncts. In the following example we do not try to keep _wurde geschieden_
 in one constituent. Instead, the auxiliary verb _wurde_ is promoted as the head of the first conjunct, and the content participle
 _geschieden_ heads the third conjunct. There is no verb in the middle conjunct and the `orphan` relation is used instead.
+See also [issue 522](https://github.com/UniversalDependencies/docs/issues/522).
 
 ~~~ sdparse
 Der Genuß wurde von der Arbeit , das Mittel vom Zweck , die Anstrengung von der Belohnung geschieden . \n The pleasure was from the work , the means from goal , the effort from the reward distinguished .
