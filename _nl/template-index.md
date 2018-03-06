@@ -25,7 +25,13 @@ udver: '2'
 
 ### Tags
 
-*
+* All tags are used except PART.
+* AUX is used for 
+    * perfect tense auxiliaries _hebben_ and _zijn_
+    * the passive tense auxiliary _worden_
+    * the modal verbs _kunnen, zullen, moeten, mogen, blijken, hoeven_ (The treebank annotation on which the conversion to UD is based does not distinguish between auxiliaries and main verbs. Here we take a conservative approach in labeling modals as auxiliaries. )
+    * the copula verbs _zijn, worden, blijven, heten, blijken and lijken_ (These are the Dutch copula verbs according to Dutch grammar, excluding cases where the copula takes an additional (non-subject, non-predicative) argument)
+    
 
 ---
 **Instruction**: Specify any unused tags. Explain what words are tagged as PART. Describe how the AUX-VERB and DET-PRON distinctions are drawn, and specify whether there are (de)verbal forms tagged as ADJ, ADV or NOUN. Include links to language-specific tag definitions if any.
