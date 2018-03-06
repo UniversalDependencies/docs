@@ -21,7 +21,7 @@ It can be marked on definite and indefinite [articles](DET), or directly on [nou
 
 In Armenian there are definite and indefinite articles. The definite article is part of the word, in postposition (_շունը, շունն_ “dog-the”). The indefinite articles can be: the form _մի_ “a/an, one” or the zero marker.
 
-See also the related features of [PossPerson]() and [PossNumber]().
+See also the related features of [Person[psor]]() and [Number[psor]]().
 
 ### <a name="Ind">`Ind`</a>: indefinite
 
