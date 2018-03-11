@@ -15,7 +15,7 @@ UD currently contains one treebank for Eastern Armenian:
 
 [Github repository](https://github.com/UniversalDependencies/UD_Armenian/)  
 
-UD_Armenian is based on the ՀայՇտեմ - ArmTDP-East dataset (version 1.0), a mix of random sentences sampled from different sources and representing different genres and domains, released in several formats (local on-line newspaper and journal articles, contemporary fiction), originally annotated by a team led by Marat M. Yavrumyan at the Yerevan State University. The annotation scheme was developed in according to the UD guidelines. All data were checked manually. The tokenization and POS-tagging process was carried out through alternating steps of automatic scripting and manual revision, and finally with some out-of-domain parsing modules led by Hrant H. Khachatrian in the YerevaNN research lab. Parsing results also underwent a manual revision.
+UD_Armenian is based on the ՀայՇտեմ - ArmTDP-East dataset (version 1.0), a mix of random sentences sampled from different sources and representing different genres and domains, released in several formats (local on-line newspaper and journal articles, contemporary fiction), originally annotated by a team led by Marat M. Yavrumyan at the Yerevan State University. The annotation scheme was developed in according to the UD guidelines. The tokenization and POS-tagging process was carried out through alternating steps of automatic scripting and manual revision in the YerevaNN research lab (led by Hrant H. Khachatrian).
 
 UD_Armenian comprises --- sentences and --- tokens. Documentation is provided by Marat M. Yavrumyan and Anna S. Danielyan.
 
