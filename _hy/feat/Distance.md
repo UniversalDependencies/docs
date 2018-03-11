@@ -26,7 +26,7 @@ Indicate objects near to the speaker.
  
 #### Examples
 
-* _սա, այս, այսպիսի, այսքան, սույն_ “this”
+* _սա, այս, այսպիսի, այսքան, այստեղ, սույն_ “this, this, such, this many, here, this”
 
 ### <a name="Mid">`Mid`</a>: medial
 
@@ -34,7 +34,7 @@ Objects are near to the addressee.
 
 #### Examples
 
-* _դա, այդ, այդպիսի, այդքան_ “that”
+* _դա, այդ, այդպիսի, այդքան, այդտեղ_ “that, that, such, that many, there”
 
 ### <a name="Dist">`Dist`</a>: distal
 
@@ -42,4 +42,4 @@ Objects far from both.
 
 #### Examples
 
-* _այն, այնպիսի, այնքան, նույն_ “that, same”
+* _այն, այնպիսի, այնքան, այնտեղ, նույն_ “that, such, to many, there, same”
