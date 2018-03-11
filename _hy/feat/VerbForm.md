@@ -56,7 +56,7 @@ Armenian has eight types of participles:
 - The future-I participle is used to form the indicative mood in present prospective (future) or imperfect prospective (future in the past) tense.
 - The future-II (state of prospective action) participle can be used only adjectively and can be negated.
 - The perfect participle is used to form the indicative mood in present perfect or imperfect in the past (past perfect) tense.
-- The negative participle is used to form the negated conditional mood in present or imperfect tense.
+- The negative participle is used to form the negated conditional mood in present or imperfect tense (see the related feature [Connegative]()).
 - The processual (progressive) participle is used to form the indicative mood in present or imperfect tense for the verbs _գալ, լալ, տալ_.
 
 Note, that the processual (progressive), resultative and future-I participles can be used to form the secondary complex tenses (in any tense or mood).
@@ -71,7 +71,7 @@ Participles will have also [Aspect]() and [Voice]().
 * _տեսնելու, լվացվելու, մեղմացվելու_ &nbsp;“for seeing, for washing, for beeing extenuated” (future-I participle, in different voices),
 * _կարդալիք, կառուցվելիք_ &nbsp;“(smth.) to be read, to be built” (future-II participle, in different voices),
 * _գնացել, խմել, դրել_ &nbsp;“have done, have drunk, have put” (perfect participle),
-* _(չեմ) գրի, (չէի) ասի, (չեմ) կարդա, (չէի) մոտենա_ &nbsp;“I will not write, I would not say, I will not read, I woul not approach” (negative participle),
+* _չեմ <b>գրի</b>, չէի <b>ասի</b>, չեմ <b>կարդա</b>, չէի <b>մոտենա</b>_ &nbsp;“I will not <b>write</b>, I would not <b>say</b>, I will not <b>read</b>, I woul not <b>approach</b>” (negative participle),
 * _<b>գալիս</b> եմ/էի, <b>տալիս</b> եմ/էի, <b>լալիս</b> եմ/էի, <b>աշխատելիս</b> է եղել_ &nbsp;“I am/was <b>coming</b>, I am/was <b>giving</b>, I am/was <b>crying</b>, he has been <b>working</b>” (processual participle in different moods and tenses)
 
 ### <a name="Conv">`Conv`</a>: converb, adverbial participle
