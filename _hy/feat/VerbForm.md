@@ -21,7 +21,7 @@ exclusively with [verbs](VERB), the `Part` value can be used also with [adjectiv
 
 ### <a name="Fin">`Fin`</a>: finite verb
 
-Rule of thumb: if it has non-empty [Mood](), it is finite. In Armenian this applies to conditional, indicative, imperative and subjunctive forms.
+Rule of thumb: if it has non-empty [Mood](), it is finite. In Armenian this applies to conditional (also to [connegative](Connegative)), indicative, imperative and subjunctive forms.
 
 #### Examples
 
@@ -40,7 +40,7 @@ Infinitive is the citation form of verbs. In Armenian it has non-finite form. It
 
 * _<b>խմել</b> տվեցի_ &nbsp;“I made him <b>drink</b>”,
 * _կարող ես <b>գնալ</b>_ &nbsp;“you can <b>go</b>”,
-* _որոշեցի անմիջապես <b>չասել</b>_ &nbsp;“I decided <b>not to say</b> immediately”,
+* _որոշեցի անմիջապես <b>չասել</b>_ &nbsp;“I decided <b>not to say</b> immediately”
 
 ### <a name="Part">`Part`</a>: participle, verbal adjective
 
@@ -48,7 +48,9 @@ Participle is a non-finite verb form that shares properties of verbs and adjecti
 
 In Armenian linguistics, these words are normally called _converbs_. However, since the UD definition `Part` partially covers the use of converbs, we use the same label.
 
-Armenian has eight types of participles:
+Note, that the so called _negative participle_ is used to form negated periphrastic conditional forms. They will have the additional feature [Connegative]().
+
+Armenian has seven types of participles:
 
 - The resultative participle is used to form the indicative mood in present perfect resultative, imperfect in the past resultative and proper resultative tense. It can be also used adjectively and can be negated.
 - The subject participle can be used only adjectively and can be negated.
@@ -56,7 +58,6 @@ Armenian has eight types of participles:
 - The future-I participle is used to form the indicative mood in present prospective (future) or imperfect prospective (future in the past) tense.
 - The future-II (state of prospective action) participle can be used only adjectively and can be negated.
 - The perfect participle is used to form the indicative mood in present perfect or imperfect in the past (past perfect) tense.
-- The negative participle is used to form the negated conditional mood in present or imperfect tense (see the related feature [Connegative]()).
 - The processual (progressive) participle is used to form the indicative mood in present or imperfect tense for the verbs _գալ, լալ, տալ_.
 
 Note, that the processual (progressive), resultative and future-I participles can be used to form the secondary complex tenses (in any tense or mood).
@@ -71,7 +72,6 @@ Participles will have also [Aspect]() and [Voice]().
 * _տեսնելու, լվացվելու, մեղմացվելու_ &nbsp;“for seeing, for washing, for beeing extenuated” (future-I participle, in different voices),
 * _կարդալիք, կառուցվելիք_ &nbsp;“(smth.) to be read, to be built” (future-II participle, in different voices),
 * _գնացել, խմել, դրել_ &nbsp;“have done, have drunk, have put” (perfect participle),
-* _չեմ <b>գրի</b>, չէի <b>ասի</b>, չեմ <b>կարդա</b>, չէի <b>մոտենա</b>_ &nbsp;“I will not <b>write</b>, I would not <b>say</b>, I will not <b>read</b>, I woul not <b>approach</b>” (negative participle),
 * _<b>գալիս</b> եմ/էի, <b>տալիս</b> եմ/էի, <b>լալիս</b> եմ/էի, <b>աշխատելիս</b> է եղել_ &nbsp;“I am/was <b>coming</b>, I am/was <b>giving</b>, I am/was <b>crying</b>, he has been <b>working</b>” (processual participle in different moods and tenses)
 
 ### <a name="Conv">`Conv`</a>: converb, adverbial participle
@@ -95,7 +95,8 @@ Not to confuse with gerund.
 
 #### Examples
 
-* _<b>սպանվելու</b> միտքը ծանր էր_ &nbsp;“lit: the thought <b>of to be killed</b> was hard”
+* _<b>սպանվելու</b> միտքը ծանր էր_ &nbsp;“lit: the thought <b>of to be killed</b> was hard”,
+* _սովոր էր մենակ <b>ծննդաբերելուն</b>_ &nbsp;“lit: <b></b>”,
 * _<b>մտնելուց</b> հետո_ &nbsp;“after <b>entering</b>”,
-* _մոտեցավ <b>վազելով</b>_ &nbsp;“lit: <b></b>”
+* _մոտեցավ <b>վազելով</b>_ &nbsp;“lit: <b></b>”,
 * _<b>ճառելում</b> նա հմուտ էր_ &nbsp;“lit: <b></b>”
