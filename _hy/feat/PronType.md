@@ -41,7 +41,7 @@ personal/possessive pronouns (e.g. _իրեն / իր&nbsp;_ see the
 
 ### <a name="Int">`Int`</a>: interrogative pronoun, determiner or adverb
 
-Note that possessive interrogative determiners (_whose_) can be distinguished by the [Poss]() feature. Interrogative determiners can be used as exclamatives with exclamation mark or stress. We don't distinguish them.
+Note that possessive interrogative determiners (_whose_) can be distinguished by the [Poss]() feature. Interrogative determiners can be used as exclamatives with exclamation mark or stress.
 
 #### Examples: 
 
@@ -86,7 +86,7 @@ See also the related features [Number[psor]]() and [Person[psor]]().
 
 ### <a name="Dem">`Dem`</a>: demonstrative pronoun, determiner or adverb
 
-Note that Armenian make a distinction between proximal or first person (objects near to the speaker), medial or second person (objects near to the addressee), and distal or third person (objects far from both) demonstratives. We do not distinguish a separate feature of distance.
+Note that Armenian make a distinction between proximal or first person (objects near to the speaker), medial or second person (objects near to the addressee), and distal or third person (objects far from both) demonstratives. We distinguish a separate feature of [Distance]().
 
 #### Examples
 
@@ -124,7 +124,7 @@ See also the [Number[psor]]() and [Person[psor]]() features for further details.
 
 ### <a name="Neg">`Neg`</a>: negative pronoun or determiner
 
-Negative pronominal words are distinguished from negating [particles](PART) and from words that inflect for polarity (verbs.) Those words do not use `PronType=Neg`, they use `Polarity=Neg` instead. See the [Polarity]() feature for further details.
+Negative pronominal words are distinguished from negating [particles](PART) and from words that inflect for polarity (verbs.) Those words do not use `PronType=Neg`, they use `Polarity=Neg` instead. See [Polarity]() and [Connegative]() for further details.
 
 #### Examples
 
