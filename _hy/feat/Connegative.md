@@ -12,11 +12,11 @@ udver: '2'
 </tr>
 </table>
 
-Boolean feature of verbs ([VERB]() and [AUX]()), marking a non-finite verbform as
+Boolean feature of verbs ([VERB]() and [AUX]()), marking a word as
 being in connegative form.
 
 In Armenian negated conditional mood in present or imperfect tenses are formed of the auxiliary negative verb (*չեմ*) and the main verb, the latter of which typically appears in
-connegative form (traditionally called negative participle).
+connegative form (traditionally called _negative participle_).
 
 Note that there is no `No` value. If the word is not connegative, the
 `Connegative` feature will not appear.
