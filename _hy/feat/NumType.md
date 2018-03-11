@@ -68,5 +68,5 @@ This could be considered a subtype of cardinal numbers (provided tokenization le
 
 #### Examples
 
-* _չորս-հինգ_ “four-five” (“eiter four or five”)
+* _չորս-հինգ_ “four-five” (“either four or five”)
 * _տասից տասնհինգ_ “ten fifteen” (“from ten to fifteen”)
