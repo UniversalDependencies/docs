@@ -86,7 +86,7 @@ See also the related features [Number[psor]]() and [Person[psor]]().
 
 ### <a name="Dem">`Dem`</a>: demonstrative pronoun, determiner or adverb
 
-Note that Armenian make a distinction between proximal or first person (objects near to the speaker), medial or second person (objects near to the addressee), and distal or third person (objects far from both) demonstratives. We distinguish a separate feature of [Distance]().
+Note that Armenian make a distinction between proximal or first person (objects near to the speaker), medial or second person (objects near to the addressee), and distal or third person (objects far from both) demonstratives. We distinguish also a separate feature [Distance]().
 
 #### Examples
 
