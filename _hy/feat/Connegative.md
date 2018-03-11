@@ -25,7 +25,7 @@ Note that there is no `No` value. If the word is not connegative, the
 
 #### Examples
 
-* _չեմ <b>գրի</b>_ “I will not <b>write</b>”,
-* _չէի <b>ասի</b>_ “I would not <b>say</b>”,
-* _չեմ <b>կարդա</b>_ “I will not <b>read</b>”,
-* _չէի <b>մոտենա</b>_ “I woul not <b>approach</b>”
+* _չեմ, չես, չի, չենք, չեք, չեն <b>գրի</b>_ “I; you; he/she/it; we; you; they will not <b>write</b>”,
+* _չէի, չէիր, չէր, չէինք, չէիք, չէին <b>ասի</b>_ “I; you; he/she/it; we; you; they would not <b>say</b>”,
+* _չեմ, չես, չի, չենք, չեք, չեն <b>կարդա</b>_ “I; you; he/she/it; we; you; they will not <b>read</b>”,
+* _չէի, չէիր, չէր, չէինք, չէիք, չէին<b>մոտենա</b>_ “I; you; he/she/it; we; you; they woul not <b>approach</b>”
