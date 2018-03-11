@@ -54,7 +54,7 @@ place under some circumstances but they actually did not / do not
 happen. In Armenian it combines with two different
 tenses (imperfect and present).
 
-The negation of conditional mood is formed periphrastically using the special participle of main verb and negated auxiliary _չեմ_ “not to be”. The participle of main verb is marked as [Connegative]().
+The negation of conditional mood is formed periphrastically using the special form of main verb (traditionally called negative participle) and negated auxiliary _չեմ_ “not to be”. The main verb is marked as [Connegative]().
 
 #### Examples
 
