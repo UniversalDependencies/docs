@@ -67,6 +67,6 @@ The same analysis applies to the presentative particle ⲉⲓⲥ ('behold', 'voi
 
 nsubj(ⲉⲓⲥ, ⲥⲃⲱ)
 det(ⲥⲃⲱ, ⲟⲩ)
-nmod(ⲃⲣⲣⲉ, ⲥⲃⲱ)
+nmod(ⲥⲃⲱ, ⲃⲣⲣⲉ)
 case(ⲃⲣⲣⲉ, ⲛ)
 ~~~
