@@ -13,7 +13,7 @@ Multi-word expressions are sequences of tokens which form a fixed expression, fo
 
 aux(ⲛⲧ, ⲁ)
 nsubj(ⲛⲧ, ⲩ)
-dobj(ⲛⲧ, ⲟⲩ)
+obj(ⲛⲧ, ⲟⲩ)
 nmod(ⲛⲧ, ⲏⲓ)
 case(ⲏⲓ, ⲉⲃⲟⲗ)
 fixed(ⲉⲃⲟⲗ, ϩⲙ)
