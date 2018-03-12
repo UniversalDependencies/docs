@@ -10,14 +10,14 @@ This label is used for arguments or ‘hanging topics’ that are preposed befor
 ~~~ sdparse
 ⲡ/DET ϣⲓⲡⲉ/NOUN ⲙ/ADP ⲡⲉⲓ/DET ⲙⲁ/NOUN ,/PUNCT ⲡ/DET ⲉⲟⲟⲩ/NOUN ⲙ/ADP ⲡⲉⲓ/DET ⲙⲁ/NOUN ⲁ/AUX ⲓ/PRON ⲡⲁⲣⲁⲓⲧⲉⲓ/VERB ⲙⲙⲟ/ADP ⲩ/PRON \n The shame of this place, the glory of this place, I have forsaken them.
 
-det(ϣⲓⲡⲉ, ⲡ)
+det(ϣⲓⲡⲉ, ⲡ-1)
 nmod(ϣⲓⲡⲉ, ⲙⲁ-5)
-det(ⲙⲁ-5, ⲡⲉⲓ)
+det(ⲙⲁ-5, ⲡⲉⲓ-4)
 case(ⲙⲁ-5, ⲙ)
 conj(ⲙⲁ-5, ⲉⲟⲟⲩ)
-det(ⲉⲟⲟⲩ, ⲡ)
+det(ⲉⲟⲟⲩ, ⲡ-7)
 nmod(ⲉⲟⲟⲩ, ⲙⲁ-11)
-det(ⲙⲁ-11, ⲡⲉⲓ)
+det(ⲙⲁ-11, ⲡⲉⲓ-10)
 case(ⲙⲁ-11, ⲙ)
 dislocated(ⲡⲁⲣⲁⲓⲧⲉⲓ, ϣⲓⲡⲉ)
 case(ⲩ, ⲙⲙⲟ)
