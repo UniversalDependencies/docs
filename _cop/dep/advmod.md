@@ -2,6 +2,7 @@
 layout: relation
 title: 'advmod'
 shortdef: 'adverbial modifier'
+udver: '2'
 ---
 
 An adverbial modification, usually modifying a verb or a noun. This can be an adverb like ⲉⲙⲁⲧⲉ ‘very much’, ⲙⲙⲁⲩ ‘there’, a sentence particle (modifying the main predicate) like ⲅⲁⲣ ‘after all’, or a directional adverbial such as ⲉⲃⲟⲗ ‘out’, as well as Greek adverbs in -ⲱⲥ. 
@@ -38,3 +39,17 @@ Example:
 ⲛ/DET ⲕⲟⲟⲩⲉ/NOUN ⲧⲏⲣ/ADV ⲟⲩ/PRON \n all the others (lit. the others in their entirety)
 advmod(ⲕⲟⲟⲩⲉ, ⲧⲏⲣ)
 ~~~ 
+
+Finally, this is also the label for negations such as ⲁⲛ, ⲛ, ⲧⲙ etc. which receive the Scriptorium POS tag NEG. The attachment is to the negated element, often from the predicate or verb. Copula sentence negation is attached to the predicate, not to the copula. In circum-negation (ⲛ…ⲁⲛ), both elements are attached to the same element with the neg label.
+
+~~~ sdparse
+ⲟⲩ ϩⲱⲃ ⲉ ⲛⲁⲛⲟⲩ ϥ ⲁⲛ ⲡⲉ \n it is not a good deed
+
+det(ϩⲱⲃ, ⲟⲩ)
+acl(ϩⲱⲃ, ⲛⲁⲛⲟⲩ)
+cop(ϩⲱⲃ, ⲡⲉ)
+advmod(ϩⲱⲃ, ⲁⲛ)
+mark(ⲛⲁⲛⲟⲩ, ⲉ)
+nsubj(ⲛⲁⲛⲟⲩ, ϥ)
+~~~
+
