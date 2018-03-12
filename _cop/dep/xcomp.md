@@ -20,7 +20,7 @@ xcomp(ⲕⲱ, ⲥⲣϥⲉ)
 mark(ⲥⲣϥⲉ, ⲉ-6)
 xcomp(ⲥⲣϥⲉ, ⲁⲁ)
 mark(ⲁⲁ, ⲉ-8)
-det(ⲁⲁ, ϥ)
+obj(ⲁⲁ, ϥ)
 ~~~
 
 Note how in the example above, the subject of both infinitives marked by ⲉ is the object of the main verb ⲕⲱ, which is external to the infinitive clauses. The infinitive clauses marked by xcomp are inheriting their subject argument from the main clause argument.
