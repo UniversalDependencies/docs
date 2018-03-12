@@ -2,9 +2,10 @@
 layout: relation
 title: 'discourse'
 shortdef: 'discourse element'
+udver: '2'
 ---
 
-Function label for discourse particles, such as negative/affirmative answers (yes, …) or interjections (oh! Hah! etc.). The discourse particle is connected to the root of its clause using the `discourse` function.
+Function label for discourse particles, such as negative/affirmative answers (yes, …) or interjections (oh! Hah! etc.). The discourse particle is usually connected to the root of its clause using the `discourse` function.
 
 ~~~ sdparse
 ϩⲁⲙⲟⲓ/CONJ ⲟⲛ/ADV ⲛⲉ/AUX ϣⲁ/AUX ⲧⲉⲧⲛ/PRON ϭⲱ/VERB ⲛ/ADP ⲧⲉⲓ/DET ϩⲉ/NOUN ⲡⲉ/AUX \n Oh, would that you would stop in this way! 
@@ -18,4 +19,13 @@ cop(ϭⲱ, ⲡⲉ)
 nmod(ϭⲱ, ϩⲉ)
 det(ϩⲉ, ⲧⲉⲓ)
 case(ϩⲉ, ⲛ)
+~~~
+
+The appelation particle ⲱ 'oh (NAME)!' is attached to the head of the nominal expression (the vocative), even if it is not the root of the clause:
+
+~~~ sdparse
+ⲱ ⲡ ⲛⲟⲩⲧⲉ ⲥⲱⲧⲙ ⲉⲣⲟ ⲓ \n Oh God, hear me! 
+
+vocative(ⲥⲱⲧⲙ, ⲛⲟⲩⲧⲉ)
+discourse(ⲛⲟⲩⲧⲉ, ⲱ)
 ~~~
