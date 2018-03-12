@@ -139,7 +139,7 @@ If there is a genitive 嘅 _ge3_ between the classifier and the noun, then the c
 
 ~~~ conllu
 1	呢	_	DET	_	_	3	det	_	these
-2	幾	_	DET	_	_	3	several	_	several
+2	幾	_	DET	_	_	3	nummod	_	several
 3	日	_	NOUN	_	_	5	nmod	_	CL:days
 4	嘅	_	PART	_	_	3	case	_	GEN
 5	行程	_	NOUN	_	_	0	root	_	itinerary
