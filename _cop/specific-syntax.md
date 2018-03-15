@@ -69,3 +69,19 @@ nmod(ⲕⲁⲕⲉ, ⲟⲩⲟⲉⲓⲛ)
 case(ⲟⲩⲟⲉⲓⲛ,ⲉϩⲟⲩⲉ)
 case(ⲟⲩⲟⲉⲓⲛ,ⲉ)
 ~~~
+
+## Multiple ACONJ chaining rule- ⲛ̄ⲧⲉ-, ⲛ̄= 
+
+In constructions with multiple auxiliary conjunctives (ACONJ), link the clauses together in a chain rather than linking each clause seperately from the root.
+
+Example from Corinthians 1:10:
+
+~~~ sdparse
+ϫⲱ ⲙ ⲡⲓ ϣⲁϫⲉ ... ⲛⲧⲉ/ACONJ ⲧⲙ ⲡⲱⲣϫ ϣⲱⲡⲉ ⲛϩⲏⲧ ⲧⲏⲩⲧⲛ. ⲛ/ACONJ ⲧⲉⲧⲛ ϣⲱⲡⲉ.. \n ...all speak the same thing and that there be no divisions among you
+
+advcl(ϫⲱ, ϣⲱⲡⲉ)
+aux(ϣⲱⲡⲉ,ⲛⲧⲉ)
+advcl(ϣⲱⲡⲉ, ϣⲱⲡⲉ..)
+aux(ϣⲱⲡⲉ..,ⲛ)
+
+~~~
