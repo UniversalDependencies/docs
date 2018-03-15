@@ -23,7 +23,7 @@ If you would like to have your tool added to this page, please write the
     * [brat rapid annotation tool](#brat-rapid-annotation-tool)
     * [WebAnno](#webanno)
     * [DgAnnotator](#dgannotator)
-    * [UD Annotatrix](#udannotatrix)
+    * [UD Annotatrix](#ud-annotatrix)
     * [Tred](#tred)
     * [Arborator](#arborator)
   * Editor modes
