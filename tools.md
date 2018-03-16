@@ -81,7 +81,8 @@ perl conllu-stats.pl --detailed --data .. --docs ../docs --lang pt
 
 ### Data validation
 
-(Description TODO)
+Validation of UD released treebanks is done using the script `validate.py` from the `tools` repository. More details are given
+on the [release checklist page](/release_checklist.html#validation).
 
 ### Format conversion
 
