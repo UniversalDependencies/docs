@@ -8,20 +8,22 @@ udver: '2'
 
 The syntactic annotation in the Eastern Armenian UD treebank follows the [general guidelines](../../u/dep/index.html) but adds fifteen [language-specific relations](../hy/dep/index.html):
 
-* _acl:relcl_ for relative clauses
-* _advmod:emph_ for adverbial modifiers of noun phrases
-* _aux:caus_ for causative auxiliaries
-* _case:loc_ for postpositional localizers
-* _compound:lvc_ for light compound verbs
-* _compound:redup_ for reduplicated compounds
-* _compound:svc_ for serial compound verbs
-* _csubj:pass_ for clausal subjects of passive verbs
-* _det:poss_ for possessive determiners
-* _iobj:agent_ for agentive indirect objects of causative verbs
-* _nmod:npmod_ for noun phrases
-* _nmod:poss_ for possessive modifiers
-* _nsubj:caus_ for nominal subjects of causative verbs
-* _nsubj:pass_ for nominal subjects of passive verbs
-* _obl:agent_ for agents of passive verbs
+* [acl:relcl]() for relative clauses
+* [advmod:emph]() for adverbs or particles that modify noun phrases and emphasize or negate them
+* [aux:caus]() for causative auxiliaries
+* [case:loc]() for postpositional localizers
+* [compound:lvc]() for light compound verbs
+* [compound:redup]() for reduplicated compounds
+* [compound:svc]() for serial compound verbs
+* [csubj:pass]() for clausal subjects of passive verbs
+* [det:poss]() for possessive determiners
+* [iobj:agent]() for agentive indirect objects of causative verbs
+* [nmod:npmod]() for noun phrases
+* [nmod:poss]() for possessive modifiers
+* [nsubj:caus]() for nominal subjects of causative verbs
+* [nsubj:pass]() for nominal subjects of passive verbs
+* [obl:agent]() for agents of passive verbs
+
+The following relation types are not used in Armenian at all: [clf](), [expl](), [dislocated]().
 
 The syntactic annotation has been checked manually and corrected on a systematic basis.
