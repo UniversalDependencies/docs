@@ -59,3 +59,33 @@ and [Armenian features](feat/index.html).
   * The `Case` feature also occurs with some of adpositions, with “locatives” ([ADP]()). Here it is an inflectional feature.
 * The two main values of the [Definite]() feature are `Def` and `Ind`. The following parts of speech inflect for definitness:
   [NOUN](), [PROPN](), [DET]().
+* [Degree]() applies to adjectives ([ADJ]()) and some of adverbs ([ADV]()) and has one of four possible values: `Pos`, `Cmp`, `Sup`, `Abs`.
+
+### Verbal Features
+
+* Verbs have a lexical [Subcat](), either intransitive (`Intr`) or transitive (`Tran`).
+* Verbs have one of six values of [Aspect](): `Dur`, `Imp`, `Iter`, `Perf`, `Prog` or `Prosp`.
+  * Note, that in Armenian iterative is considered as a lexical feature of verbs, thus they have morphologically related not iterative counterparts, but it is not a regular system and the two verbs are represented by different lemmas. We mark them as biaspectual.
+  * The `Aspect` feature should be also used with the corresponding deverbatives, if they have the `VerbForm` feature.
+* Finite verbs always have one of five values of [Mood](): `Cnd`, `Imp`, `Ind`, `Nec` of `Sub`.
+  * The necessitative mood is only used with necessitative particle _պիտի_ or the impersonal predicative _պետք է_. The subjuncitve finite form of the main verb, that is needed to form a periphrastic necessitative, is not marked with this feature.
+  * The negated conditional mood is only used with indicative auxiliaries _(եմ, էի)_. The connegative of the main verb, that is needed to form a periphrastic negated conditional, is also marked with this feature.
+* Verbs in indicative mood always have one of three values of [Tense](): `Past`, `Pres` or `Imp`.
+  Hence both _jdu domů_ “I am going home” and _přijdu domů_ “I will come home” end up marked as `Tense=Pres`.
+  On the other hand, a few imperfective verbs can form a genuine future form using prefixes, and they are marked `Tense=Fut`:
+  _půjdu domů_ “I will go home”.
+  * Imperative and necessitative forms do not have the `Tense` feature (note that imperfect and present necessitatives are distinguished
+    analytically).
+  * Subjunctve and conditional forms have one of the `Tense=Imp` or `Tense=Pres` features, which are formally imperfect or present, but semantically future.
+  * There are four values of the [Voice]() feature: `Act`, `Cau`, `Mid`, `Pass`. Active and causative verbs have `Subcate=Tran`, the other two `Subcate=Intr`.
+
+### Polarity
+
+* [Polarity]() has two values, `Pos` and `Neg`, and applies primarily to verbs ([VERB](), [AUX]()) that can be negated using the bound morpheme _չ-_.
+  * Occasionally _ոչ_ occurs as an independent negation particle ([PART]()) and is marked with `Polarity=Neg`.
+  * Negating nouns is usually limited to those derived from verbs _(չունեցողի, չգրվածները)_.
+  * The `Polarity` feature is not used with pronouns and determiners, although there is a subset of negative pronouns and determiners.
+    The `PronType=Neg` feature is used there instead.
+  * The `Polarity` feature is not used with conditional mood, the `Connegative=Yes` feature is used there instead.
+
+### Pronouns, Determiners, Quantifiers
