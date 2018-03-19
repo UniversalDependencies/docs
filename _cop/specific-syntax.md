@@ -23,7 +23,7 @@ Greek conjunctions and particles that are non-coordinating (i.e. not meaning ‘
 ~~~ sdparse
 ⲙⲏ ⲁⲣⲁ ⲉ ⲓ ⲟⲩⲏϩ ⲟⲛ ϩⲓϫⲛ ⲧ ⲙⲏⲧⲉ ⲛ ϫⲱ ⲕ \n After all do I still sit upon the middle of your head?
 
-advmod(ⲟⲩⲏϩ, ⲙⲏ)
+advmod(ⲟⲩⲏϩ, ⲁⲣⲁ)
 ~~~
 
 ## Inverted modifying construction - ⲛⲟϭ ⲛϭⲟⲙ
@@ -84,4 +84,25 @@ aux(ϣⲱⲡⲉ,ⲛⲧⲉ)
 advcl(ϣⲱⲡⲉ, ϣⲱⲡⲉ..)
 aux(ϣⲱⲡⲉ..,ⲛ)
 
+~~~
+
+## Clauses and fragments with ϩⲱⲥ
+
+The Greek conjunction ϩⲱⲥ introduces adverbial clauses which can be analyzed like any `advcl`:
+
+~~~ sdparse
+ϣϣⲉ ⲉⲣⲟ ⲛ ⲉ ⲙⲉⲉⲩⲉ ⲛ ⲧⲉⲓ ϩⲉ ϩⲱⲥ/SCONJ ⲉ ⲛ ⲛⲁ ϯⲗⲟⲅⲟⲥ/V ⲙ ⲡ ⲛⲟⲩⲧⲉ ⲙ ⲙⲏⲛⲉ \n it is fitting for us to think in this way, as if we will report to God daily
+
+advcl(ⲙⲉⲉⲩⲉ,ϯⲗⲟⲅⲟⲥ)
+mark(ϯⲗⲟⲅⲟⲥ,ϩⲱⲥ)
+~~~
+
+However, ϩⲱⲥ is also used sometimes to introduce an NP, similarly to native Coptic prepositions, despite the fact that it does not behave like a preposition in other respects (e.g. not tightly bound to the following noun). For consistency with the normal adverbial clause case, we annotate these as elliptical adverbial clauses, retaining the label `advcl` for the lexical item and `mark` for ϩⲱⲥ:
+
+~~~ sdparse
+ⲛⲉⲕ/DET ⲙⲏⲙⲟⲟⲩ/N ⲉⲧ/SCONJ ϩⲛ/ADP ϩⲉⲛ/DET ϣⲟϣⲟⲩ/N ϩⲱⲥ/SCONJ ⲏⲣⲡ/N \n your urine, which is in jars as wine [is]
+
+acl(ⲙⲏⲙⲟⲟⲩ,ϣⲟϣⲟⲩ)
+advcl(ϣⲟϣⲟⲩ,ⲏⲣⲡ)
+mark(ⲏⲣⲡ,ϩⲱⲥ)
 ~~~
