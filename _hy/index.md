@@ -124,10 +124,14 @@ as well as Armenian-specific examples scattered across the documentation of cons
 
 ### Core Arguments, Oblique Arguments and Adjuncts
 
+* In passive clauses (both reflexive and periphrastic passive), the subject is labeled with [nsubj:pass]() or [csubj:pass](), respectively.
+  * The auxiliary verb in periphrastic passive is labeled [aux]().
+  * If the demoted agent is present, it has the form of a bare instrumental phrase and its relation is labeled [obl:agent]().
+
 ### Non-verbal Clauses
 
 * The copula verb _եմ_ (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses.
-  Purely existential clauses (without indicating location) use _լինել_ as well but it is treated as the head of the clause and tagged [VERB]().
+  Purely existential clauses (without indicating location) normally use a different lemma, _լինել_, and it is treated as the head of the clause and tagged [VERB]().
 
 ### Relations Overview
 
