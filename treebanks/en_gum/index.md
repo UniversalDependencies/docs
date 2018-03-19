@@ -9,9 +9,12 @@ udver: '2'
 Universal Dependency version of syntax annotations from the Georgetown University Multilayer Corpus (GUM). 
 Many further annotation layers are available for this dataset, see the corpus website for more details: 
 
-https://corpling.uis.georgetown.edu/gum/
+[https://corpling.uis.georgetown.edu/gum/](
+https://corpling.uis.georgetown.edu/gum/)
 
-The UD data itself is always available from https://github.com/UniversalDependencies/UD_English-GUM/
+The UD data itself is always available from: 
+
+[https://github.com/UniversalDependencies/UD_English-GUM/](https://github.com/UniversalDependencies/UD_English-GUM/)
 
 Genre: academic, fiction, news, nonfiction, spoken, web, wiki
 
@@ -19,7 +22,7 @@ Genre: academic, fiction, news, nonfiction, spoken, web, wiki
 
 GUM, the Georgetown University Multilayer corpus, is an open source collection of richly annotated web texts from multiple text types. The corpus is collected and expanded by students as part of the curriculum in LING-367 Computational Corpus Linguistics at Georgetown University. The selection of text types is meant to represent different communicative purposes, while coming from sources that are readily and openly available (usually Creative Commons licenses), so that new texts can be annotated and published with ease.
 
-The dependencies in corpus were originally annotated using Stanford Typed Depenencies (de Marneffe & Manning 2013) and converted automatically to UD using DepEdit (https://corpling.uis.georgetown.edu/depedit/). The rule-based conversion takes into account gold entity annotations found in other annotation layers of the GUM corpus (e.g. entity annotations). The conversion script used can found in the GUM build bot code, available from the (non-UD) GUM repository.
+The dependencies in corpus were originally annotated using Stanford Typed Depenencies (de Marneffe & Manning 2013) and converted automatically to UD using [DepEdit](https://corpling.uis.georgetown.edu/depedit/). The rule-based conversion takes into account gold entity annotations found in other annotation layers of the GUM corpus (e.g. entity annotations). The conversion script used can found in the GUM build bot code, available from the (non-UD) GUM repository.
 
 ## Acknowledgments
 
