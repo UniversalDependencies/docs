@@ -119,6 +119,16 @@ and [Armenian features](feat/index.html).
 
 ## Syntax
 
+This is an overview only. For more detailed discussion and examples, see the list of [Armenian relations](dep/index.html),
+as well as Armenian-specific examples scattered across the documentation of constructions.
+
+### Core Arguments, Oblique Arguments and Adjuncts
+
+### Non-verbal Clauses
+
+* The copula verb _եմ_ (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses.
+  Purely existential clauses (without indicating location) use _լինել_ as well but it is treated as the head of the clause and tagged [VERB]().
+
 ### Relations Overview
 
 * The following relation subtypes are used in Armenian:
