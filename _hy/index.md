@@ -21,6 +21,20 @@ This is an overview only. For more detailed discussion and examples, see the lis
 and [Armenian features](feat/index.html).
 * Armenian uses all 17 universal POS categories, including particles ([PART]()). The exact list of particles yet to be worked out.
 * The tag [DET]() is used for articles and pronominal words used with a determiner function, including possessives (the traditional grammar does not define determiners, but distinguish pronominal modifiers). The tag [PRON]() is reserved for pronouns occurring as the head of a noun phrase. Pronominal quantifiers (which the traditional grammar includes in pronouns) are [DET]() as well.
+* Eastern Armenian has one auxiliary verb ([AUX]()), _եմ_ (“to be”), but lemma _լինել_ is also possible.
+  This is in fact just aspectual variants of _եմ_, but this is separate lemmas because
+  the morphological process that relates this to _եմ_ is considered derivational. There is another voice auxiliary _տալ_ (“cause/make someone to perform action”).  
+  Auxiliaries are all verbal in Eastern Armenian and can be grouped into three types:
+  * The copula with non-verbal predicates.
+  * Periphrastic present tense (present form of _եմ_ + resultative participle of the main verb).
+  * Periphrastic past tense (present form of _եմ_ + perfect of the main verb; imperfect form of _եմ_ + imperfective, perfect, future-I and reslutative participles of the main verb).
+  * Periphrastic future tense (present form of _եմ_ + future-I participle of the main verb).
+  * Periphrastic negated conditional (negated present or imperfect form of _եմ_ + connegative form of the main verb).
+  * Periphrastic “secondary compound tenses” ((any form of _լինել_, including periphrastic forms, + processual, resultative and future-I participles of the main verb).
+  * Periphrastic causative (any form of _տալ_, including periphrastic forms, + infinitve of the main verb).
+* In other words, _եմ, լինել_ and _տալ_ are the only lemmas that occur with the [AUX]() tag (exception: finite existentials _կամ_ and _ունեմ_ in combination with resultative participle).
+  They may still occur also as normal [VERB]() if they are used in purely existential sentences
+  (i.e. such that don't even indicate location because if they do, then _եմ_ is treated as copula). 
 * Verbs with modal meaning are not considered auxiliary in Armenian.
 * There are five main (de)verbal forms, distinguished by the UPOS tag and the value of the [VerbForm]() feature:
   * Infinitive `Inf`, tagged [VERB]() or [AUX]().
@@ -29,4 +43,4 @@ and [Armenian features](feat/index.html).
   * Converb `Conv`, tagged [VERB]() or [AUX]().
   * Gerundive `Gdv`, tagged [VERB]().
   * Verbal noun `Vnoun`, tagged [NOUN]().
-* Though the resulative, subject and future-I participles can be used adjectivally and can be negated they are generally tagged [VERB]().
+* Though the resulative, subject and future-I participles can be used adjectivally and can be negated they are generally tagged [VERB](). The only exception is future-II participles, they are tagged [ADJ]().
