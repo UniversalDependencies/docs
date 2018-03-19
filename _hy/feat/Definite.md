@@ -17,7 +17,7 @@ udver: '2'
 Definiteness is typically a feature of nouns and
 articles. Its value distinguishes whether we are talking about
 something known and concrete, or something general or unknown.
-It can be marked on definite and indefinite [articles](DET), or directly on [nouns](NOUN), [pronouns](PRON) etc.
+It can be marked on indefinite [articles](DET), or directly on [nouns](NOUN).
 
 In Armenian there are definite and indefinite articles. The definite article is part of the word, in postposition (_շունը, շունն_ “dog-the”). The indefinite articles can be: the form _մի_ “a/an, one” or the zero marker.
 
