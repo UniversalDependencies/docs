@@ -99,7 +99,7 @@ The subject participle also indicate durative aspect.
 
 ### <a name="Iter">`Iter`</a>: iterative
 
-Denotes repeated action, with multiplicative or distributive meanings. Armenian has three main iterative markers _-ատ&nbsp;, -ոտ&nbsp;, -տ&nbsp;_ or root reduplication.
+Denotes repeated action, with multiplicative or distributive meanings. Armenian has three main iterative markers _-ատ&nbsp;, -ոտ&nbsp;, -տ&nbsp;_ or _root reduplication_.
 
 Note, that in Armenian iterative is considered as a lexical feature of [verbs](VERB), thus they have morphologically related not iterative counterparts, but it is not a regular system and the two verbs are represented by different lemmas.
 
