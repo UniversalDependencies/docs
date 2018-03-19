@@ -47,14 +47,14 @@ The quality of one object is compared to the same quality of another object.
 
 ### <a name="Sup">`Sup`</a>: superlative, third degree
 
-The quality of one object is compared to the same quality of all other objects within a set. Most Armenian qualitative adjectives and adverbs have both morphological and periphrastic superlative forms, modified through the adverbs _ամենից_ or _բոլորից_ “most of all”. We annotate these adverbs with the third degree feature.
+The quality of one object is compared to the same quality of all other objects within a set. Most Armenian qualitative adjectives and adverbs have both morphological and periphrastic superlative forms, modified through the inflected pronouns _ամենից_ or _բոլորից_ “most of all”.
 
 #### Examples
 
-* _Նա մեր խմբի <b>ամենախելացի</b> / <b>ամենից</b> խելացի / <b>բոլորից</b> խելացի մարդն է։&nbsp;_ “He/She is the <b>cleverest</b> man in our group.”
-* _Նա մեր խմբի <b>լավագույն</b> / <b>ամենից</b> լավ / <b>բոլորից</b> լավ երաժիշտն է։&nbsp;_ “He/She is the <b>best</b> musician in our group.”
-* _Սա <b>ամենանորագույն</b> / <b>ամենից</b> նոր / <b>բոլորից</b> նոր նմուշն է։&nbsp;_ “This is the <b>very newest</b> exemplar.”
-* _Նա <b>ամենաարագն</b> / <b>ամենից</b> արագն / <b>բոլորից</b> արագն է քայլում։&nbsp;_ “He/She walks <b>the most quickly</b>.”
+* _Նա մեր խմբի <b>ամենախելացի</b> / <b>ամենից խելացի</b> / <b>բոլորից խելացի</b> մարդն է։&nbsp;_ “He/She is the <b>cleverest</b> man in our group.”
+* _Նա մեր խմբի <b>լավագույն</b> / <b>ամենից լավ</b> / <b>բոլորից լավ</b> երաժիշտն է։&nbsp;_ “He/She is the <b>best</b> musician in our group.”
+* _Սա <b>ամենանորագույն</b> / <b>ամենից նոր</b> / <b>բոլորից</b> նոր նմուշն է։&nbsp;_ “This is the <b>very newest</b> exemplar.”
+* _Նա <b>ամենաարագն</b> / <b>ամենից արագն</b> / <b>բոլորից արագն</b> է քայլում։&nbsp;_ “He/She walks <b>the most quickly</b>.”
 
 ### <a name="Abs">`Abs`</a>: absolute superlative
 
