@@ -124,9 +124,32 @@ as well as Armenian-specific examples scattered across the documentation of cons
 
 ### Core Arguments, Oblique Arguments and Adjuncts
 
-* In passive clauses (both reflexive and periphrastic passive), the subject is labeled with [nsubj:pass]() or [csubj:pass](), respectively.
+* Nominal subject ([nsubj]()) is a noun phrase in the nominative case, without preposition.
+  * If the noun is quantified in partitive meaning, it may be in the ablative.
+  * An infinitive verb may serve as the subject and is labeled as clausal subject, [csubj]().
+    On the other hand, verbal nouns or gerundives as subjects are just `nsubj`.
+  * A finite subordinate clause may serve as the subject and is labeled `csubj`.
+* Objects defined in the Armenain grammar may be bare noun phrases in nominative or dative (as direct objects or “voice objects”) and in dative, ablative, instrumental or locative, or adpositional phrases mainly in dative (as indirect / “objects of nature” or adpositional objects).
+  For the purpose of UD the objects are divided to core objects, labeled [obj]() or [iobj]().
+  Oblique objects are labeled [obl]().
+  * Bare nominative and dative objects are considered core. Note, that dative noun phrases with benefactive or possessive role (i.e. if the verb does not subcategorize for a single dative object and if it is not a verb of giving (or similar), where the dative could be interpreted as the recipient, are also considered core. Example: _գլուխը հենել էր ժայռին_ “.”
+  * All adpositional objects are considered oblique.
+  * Nominative/dative objects of some verbs alternate with finite clausal complements, which are labeled [ccomp]().
+  * If a verb subcategorizes for the infinitive (e.g. modal verbs or verbs of control), the infinitival complement is labeled [xcomp]().
+  * If a verb subcategorizes for two core objects, one of them nominative (or `ccomp`) and the other non-nominative (mainly dative),
+    then the non-nominative object is labeled [iobj]().
+    Core nominal objects in other situations are labeled just [obj]().
+* Adjuncts are usually adpositional phrases, but they can be bare noun phrases as well (following the Armenian grammar, adverbial modifiers realized as noun phrases). They are labeled [obl]():
+  * Temporal or locational modifiers realized as noun phrases: _կեսգիշերին եկավ_ “He came at midnight.”
+  * Instrumental or directional noun phrases expressing the way or means with which something was done or direction from some point.
+    Example: _հաճույքով լսում էր_ “He was listening with pleasure.”
+  * All adpositional phrases (i.e., their role and form is not defined lexically by the predicate) are adjuncts.
+* In passive clauses (both reflexive and reciprocal), the subject is labeled with [nsubj:pass]() or [csubj:pass](), respectively.
   * The auxiliary verb in periphrastic passive is labeled [aux]().
-  * If the demoted agent is present, it has the form of a bare instrumental phrase and its relation is labeled [obl:agent]().
+  * If the demoted agent is present, it has the form of a bare instrumental or adpositional phrase and its relation is labeled [obl:agent]().
+* In causative clauses (both bare and periphrastic causative), the subject is labeled with [nsubj:caus]().
+  * The auxiliary verb in periphrastic causative is labeled [aux:caus]().
+  * The demoted agent of the action (if present) has the form of a bare dative and is labeled [iobj:agent]. 
 
 ### Non-verbal Clauses
 
