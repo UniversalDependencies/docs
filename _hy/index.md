@@ -80,7 +80,7 @@ and [Armenian features](feat/index.html).
 
 * [Polarity]() has two values, `Pos` and `Neg`, and applies primarily to verbs ([VERB](), [AUX]()) that can be negated using the bound morpheme _չ-_.
   * Occasionally _ոչ_ occurs as an independent negation particle ([PART]()) and is marked with `Polarity=Neg`.
-  * Negating nouns is usually limited to those derived from verbs _(չունեցողի, չգրվածները)_.
+  * Negated nouns are usually limited to those derived from verbs _(չունեցողի, չգրվածները)_.
   * The `Polarity` feature is not used with pronouns and determiners, although there is a subset of negative pronouns and determiners.
     The `PronType=Neg` feature is used there instead.
   * The `Polarity` feature is not used with conditional mood, the `Connegative=Yes` feature is used there instead.
@@ -97,7 +97,7 @@ and [Armenian features](feat/index.html).
   In Armenian it is always used together with `PronType=Emp` or `PronType=Prs`.
 * [Person]() is a lexical feature of personal pronouns ([PRON]()) and has three values, `1`, `2` and `3`.
   With personal possessive determiners ([DET]()), the feature actually encodes the person of the possessor.
-  Person is not marked on other types of pronouns and on nouns, although they can be almost always interpreted as the 3rd person.
+  Person is not marked on other types of pronouns and on nouns, although they can almost always be interpreted as the 3rd person.
   * As a cross-reference to subject, person is also marked on finite verbs ([VERB](), [AUX]()).
 * There are two [layered features](../../u/overview/feat-layers.html), [Person[psor]]() and [Number[psor]]().
   They appear with nouns, gerundives, certain determiners and adpositions and encode the lexical person(deixis)/number of the possessor.
