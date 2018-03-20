@@ -86,7 +86,7 @@ and [Armenian features](feat/index.html).
     The `PronType=Neg` feature is used there instead.
   * The `Polarity` feature is not used with conditional mood, the `Connegative=Yes` feature is used there instead.
 
-### Pronouns, Determiners
+### Pronouns, Determiners, Quantifiers
 
 * [PronType]() is used with pronouns ([PRON]()), determiners ([DET]()) and adverbs ([ADV]()).
 * [NumType]() is used with numerals ([NUM]()), adjectives ([ADJ]()) and adverbs ([ADV]()).
