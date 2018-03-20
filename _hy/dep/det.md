@@ -9,7 +9,7 @@ The relation determiner (`det`) holds between a nominal head and its [determiner
 This relation is used for pronominal adjectival modifiers of noun phrases.
 Non-pronominal adjectives are tagged [ADJ]() and the relation is labeled [amod]().
 
-Note, that possessive determiners like _իմ&nbsp;_ “my” is currently given the POS tag `DET` but the relation [nmod:poss](), so that it is parallel with other possessive constructions.
+Note, that possessive determiners like _իմ&nbsp;_ “my” is currently given the POS tag `DET` and the relation [det:poss]().
 
 ~~~ sdparse
 Մի արահետ գտանք ։ \n A path we-found . 
