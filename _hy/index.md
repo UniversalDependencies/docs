@@ -44,11 +44,11 @@ and [Armenian features](feat/index.html).
   * Converb `Conv`, tagged [VERB]() or [AUX]().
   * Gerundive `Gdv`, tagged [VERB]() or [AUX]().
   * Verbal noun `Vnoun`, tagged [NOUN]().
-* Though the resulative, subject and future-I participles can be used adjectivally and can be negated they are generally tagged [VERB](). The only exception is future-II participles, they are tagged [ADJ]().
+* Though the resultative, subject and future-I participles can be used adjectivally and can be negated they are generally tagged [VERB](). The only exception is future-II participles, they are tagged [ADJ]().
 
 ### Nominal Features
 
-* Nominal words ([NOUN](), [PROPN]() and some of [PRON]()) have an inherent [Animacy]() feature with one of three values: `Hum`, `Inan` or `Nhum`. Note that this may be changed in future. Nominal words could be treated as having inherent `Hum`, `Nhum` and would be further subclassified by the layered `Animacy[gram]` values `Anim` vs. `Inan`.
+* Nominal words ([NOUN](), [PROPN]() and some of [PRON]()) have an inherent [Animacy]() feature with one of three values: `Hum`, `Inan` or `Nhum`. Note that this may be changed in future. Nominal words could be treated as having inherent `Hum`, `Nhum` and further would be subclassified by the layered `Animacy[gram]` values `Anim` vs. `Inan`.
 * The two main values of the [Number]() feature are `Sing` and `Plur`. The following parts of speech inflect for number:
   [NOUN](), [PROPN](), [PRON](), [VERB](), [AUX]() (finite).
   * Selected nouns are plurale tantum (`Ptan`) or singulare tantum (`Coll`). These two values are lexical, and cannot be used with
@@ -56,10 +56,9 @@ and [Armenian features](feat/index.html).
   * There is a language-specific value `Assoc` (associative plural). This is also lexical and occurs with `NOUN` and `PROPN`. Only two pronouns (_մերոնք, ձերոնք_) are associative.
 * [Case]() has 6 possible values: `Nom`, `Gen`, `Dat`, `Abl`, `Ins`, `Loc`.
   It occurs with the nominal words, i.e., [NOUN](), [PROPN](), [PRON](), [DET](). Note, that `Gen` occurs only with pronouns and determiners.
-  It can also occur with gerundives (they are tagged as `VERB`).
-  * The `Case` feature also occurs with some of adpositions, subclassified as “locatives” ([ADP]()). Here it is an inflectional feature.
+  * The `Case` feature also occurs with some of adpositions, subclassified as “locatives” ([ADP]()). It is an inflectional feature here.
 * The two main values of the [Definite]() feature are `Def` and `Ind`. The following parts of speech inflect for definitness:
-  [NOUN](), [PROPN](), [DET](). With gerundives, resultative and subject participles the feature sometimes encodes the person/deixis of the possessor, although they can be almost interpreted as the 3rd person or distal deixis. We mark them as `Def`.
+  [NOUN](), [PROPN](), [PRON](). With gerundives, resultative and subject participles the feature sometimes encodes the person/deixis of the possessor, although they can be almost interpreted as the 3rd person or distal deixis. We mark them as `Def`.
 * [Degree]() applies to adjectives ([ADJ]()) and some adverbs ([ADV]()) and has one of four possible values: `Pos`, `Cmp`, `Sup`, `Abs`.
 
 ### Verbal Features
