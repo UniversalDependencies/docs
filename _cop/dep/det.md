@@ -48,3 +48,18 @@ Note that the suffix possessors are pure pronouns, and are therefore tagged as P
 
 det(ⲣⲛⲧ, ⲕ)
 ~~~
+
+## The p-et relative construction
+
+Articles expanded by a relative clause in the p-et construction are actually stand-ins for a full NP head, so they are **not** labeled using the function label `det`. Rather, they are given whatever function that NP has in the sentence, see for instance both 'articles' in this example:
+
+~~~ sdparse
+ⲃⲁⲥⲓⲙⲟⲥ/PROPN ⲡ/DET ⲉⲧ/SCONJ ϣⲟⲟⲡ/VERB ϩⲛ/ADP ⲛ/DET ⲉⲧ/SCONJ ⲟⲩⲁⲁⲃ/VERB \n Basimos, the one who is among the ones who are holy
+
+appos(ⲃⲁⲥⲓⲙⲟⲥ,ⲡ-2)
+acl(ⲡ,ϣⲟⲟⲡ)
+mark(ϣⲟⲟⲡ,ⲉⲧ-3)
+acl(ⲛ,ⲟⲩⲁⲁⲃ)
+mark(ⲟⲩⲁⲁⲃ,ⲉⲧ-7)
+obl(ϣⲟⲟⲡ,ⲛ)
+~~~
