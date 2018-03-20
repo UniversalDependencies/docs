@@ -20,7 +20,7 @@ udver: '2'
 This is an overview only. For more detailed discussion and examples, see the list of [Armenian POS tags](pos/index.html)
 and [Armenian features](feat/index.html).
 
-* Armenian uses all 17 universal POS categories, including particles ([PART]()). The exact list of particles yet to be worked out.
+* Armenian uses all 17 universal POS categories, including particles ([PART]()). The exact list of particles is in the stage of being worked out.
 * The tag [DET]() is used for articles and pronominal words used with a determiner function, including possessives (the traditional grammar does not define determiners, but distinguish pronominal modifiers). The tag [PRON]() is reserved for pronouns occurring as the head of a noun phrase. Pronominal quantifiers (which the traditional grammar includes in pronouns) are [DET]() as well.
 * Eastern Armenian has one auxiliary verb ([AUX]()), _եմ_ (“to be”), but lemma _լինել_ is also possible.
   This is in fact just aspectual variants of _եմ_, but this is separate lemmas because
