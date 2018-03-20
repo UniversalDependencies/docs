@@ -14,3 +14,18 @@ Example:
 acl(ⲏⲣⲡ, ⲗⲟⲙⲥ)
 mark(ⲗⲟⲙⲥ,ⲉⲧ)
 ~~~
+
+## The p-et relative construction
+
+Articles expanded by a relative clause in the p-et construction are actually stand-ins for a full NP head, so they are expanded using the function `acl` as in any other relative clause ('the one which...'). See for instance both expanded articles in this example:
+
+~~~ sdparse
+ⲃⲁⲥⲓⲙⲟⲥ/PROPN ⲡ/DET ⲉⲧ/SCONJ ϣⲟⲟⲡ/VERB ϩⲛ/ADP ⲛ/DET ⲉⲧ/SCONJ ⲟⲩⲁⲁⲃ/VERB \n Basimos, the one who is among the ones who are holy
+
+appos(ⲃⲁⲥⲓⲙⲟⲥ,ⲡ-2)
+acl(ⲡ,ϣⲟⲟⲡ)
+mark(ϣⲟⲟⲡ,ⲉⲧ-3)
+acl(ⲛ,ⲟⲩⲁⲁⲃ)
+mark(ⲟⲩⲁⲁⲃ,ⲉⲧ-7)
+obl(ϣⲟⲟⲡ,ⲛ)
+~~~
