@@ -134,7 +134,7 @@ as well as Armenian-specific examples scattered across the documentation of cons
   Oblique objects are labeled [obl]().
   * Bare nominative and dative objects are considered core. Note, that dative noun phrases with benefactive or possessive role (i.e. if the verb does not subcategorize for a single dative object and if it is not a verb of giving (or similar), where the dative could be interpreted as the recipient, are also considered core. Example: _գլուխը հենել էր ժայռին_ “.”
   * All adpositional objects are considered oblique.
-  * Nominative/dative objects of some verbs alternate with finite clausal complements, which are labeled [ccomp]().
+  * Nominative objects of some verbs alternate with finite clausal complements, which are labeled [ccomp]().
   * If a verb subcategorizes for the infinitive (e.g. modal verbs or verbs of control), the infinitival complement is labeled [xcomp]().
   * If a verb subcategorizes for two core objects, one of them nominative (or `ccomp`) and the other non-nominative (mainly dative),
     then the non-nominative object is labeled [iobj]().
