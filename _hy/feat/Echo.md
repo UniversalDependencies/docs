@@ -13,7 +13,7 @@ udver: '2'
 </tr>
 </table>
 
-This covers a range of compound reduplicated forms or echo words in Armenian. The reduplicative words get the same POS tag as the head word or will be tagged according to their basic use. We mark the echo words with [X]() POS tag.
+This covers a range of compound reduplicated forms or echo words in Armenian. The reduplicative and echo words get the same POS tag as the head word or will be tagged according to their basic use.
 
 See also the related feature [Hyph]().
 
