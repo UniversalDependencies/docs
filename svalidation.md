@@ -4,7 +4,7 @@ title:  'Universal Dependencies --- Syntactic validation'
 udver:  '2'
 ---
 
-Regenerated <time class="timeago" datetime="2018-03-16T13:51:19Z">2018-03-16T13:51:19 zulu</time>
+Regenerated <time class="timeago" datetime="2018-03-20T05:09:59Z">2018-03-20T05:09:59 zulu</time>
 
 # Aux chain
 
@@ -85,16 +85,6 @@ aux(left, have)
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Basque-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Basque-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Basque-dev">2</a></td>
-</tr>
-<tr><td>UD_Cantonese</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Cantonese-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CCONJ+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Cantonese-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Catalan</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Catalan-dev">&nbsp;</a></td>
@@ -305,13 +295,6 @@ aux(left, have)
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Basque-dev">Go to search</a><p/>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Cantonese</span>
-<span class="widespan">1 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+%28_+%3Caux%7C%3Caux%3Apass%7C%3Ccop+_%29&db=UD_Cantonese-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Catalan</span>
@@ -958,22 +941,6 @@ conj(honest, big)
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Cconj%40R+_&db=UD_Bulgarian-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Cconj%40R+_&db=UD_Bulgarian-dev">&nbsp;</a></td>
 </tr>
-<tr><td>UD_Cantonese</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cconj%40R+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Cconj%40R+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3Cconj%40R+_&db=UD_Cantonese-dev">1</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CCONJ+%3Cconj%40R+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Cconj%40R+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=INTJ+%3Cconj%40R+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Cconj%40R+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Cconj%40R+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3Cconj%40R+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Cconj%40R+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Cconj%40R+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3Cconj%40R+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Cconj%40R+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Cconj%40R+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-</tr>
 <tr><td>UD_Dutch</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cconj%40R+_&db=UD_Dutch-dev">1</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Cconj%40R+_&db=UD_Dutch-dev">&nbsp;</a></td>
@@ -1195,13 +1162,6 @@ conj(honest, big)
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Cconj%40R+_&db=UD_Bulgarian-dev">Go to search</a><p/>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Cantonese</span>
-<span class="widespan">1 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Cconj%40R+_&db=UD_Cantonese-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Dutch</span>
@@ -2012,20 +1972,6 @@ Search expression: `(!(AUX|PRON)) <cop _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Ccop+_&db=UD_Belarusian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Ccop+_&db=UD_Belarusian-dev">&nbsp;</a></td>
 </tr>
-<tr><td>UD_Cantonese</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Ccop+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Ccop+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3Ccop+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CCONJ+%3Ccop+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Ccop+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Ccop+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Ccop+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3Ccop+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Ccop+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SYM+%3Ccop+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Ccop+_&db=UD_Cantonese-dev">2</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Ccop+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-</tr>
 <tr><td>UD_Catalan</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Ccop+_&db=UD_Catalan-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Ccop+_&db=UD_Catalan-dev">3</a></td>
@@ -2293,13 +2239,6 @@ Search expression: `(!(AUX|PRON)) <cop _`
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%28%21%28AUX%7CPRON%29%29+%3Ccop+_&db=UD_Belarusian-dev">Go to search</a><p/>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Cantonese</span>
-<span class="widespan">2 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=%28%21%28AUX%7CPRON%29%29+%3Ccop+_&db=UD_Cantonese-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Catalan</span>
@@ -2653,13 +2592,6 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Bulgarian-dev">Go to search</a><p/>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Cantonese</span>
-<span class="widespan">9 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=%28%21DET%26%21PRON%29+%3Cdet+_&db=UD_Cantonese-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Catalan</span>
@@ -3258,13 +3190,6 @@ Hits table not produced since the query does not start with the simple token spe
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%28PRON%7CDET%29%26%21PronType&db=UD_Belarusian-dev">Go to search</a><p/>
 </div>
 <div>
-<span class="doublewidespan" style="padding-left:3em">UD_Cantonese</span>
-<span class="widespan">58 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=%28PRON%7CDET%29%26%21PronType&db=UD_Cantonese-dev">Go to search</a><p/>
-</div>
-<div>
 <span class="doublewidespan" style="padding-left:3em">UD_Catalan</span>
 <span class="widespan">6598 hits</span>
 </div>
@@ -3557,13 +3482,6 @@ Hits table not produced since the query does not start with the simple token spe
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM%26%21NumType&db=UD_Bulgarian-dev">Go to search</a><p/>
 </div>
 <div>
-<span class="doublewidespan" style="padding-left:3em">UD_Cantonese</span>
-<span class="widespan">18 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM%26%21NumType&db=UD_Cantonese-dev">Go to search</a><p/>
-</div>
-<div>
 <span class="doublewidespan" style="padding-left:3em">UD_Catalan</span>
 <span class="widespan">4053 hits</span>
 </div>
@@ -3770,13 +3688,6 @@ Hits table not produced since the query does not start with the simple token spe
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%28VERB%29%26%21VerbForm&db=UD_Belarusian-dev">Go to search</a><p/>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Cantonese</span>
-<span class="widespan">120 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=%28VERB%29%26%21VerbForm&db=UD_Cantonese-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Catalan</span>
@@ -6403,13 +6314,6 @@ Hits table not produced since the query does not start with the simple token spe
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3E%21conj%26%3E%21cc%26%3E%21punct%26%3E%21fixed+_&db=UD_Bulgarian-dev">Go to search</a><p/>
 </div>
 <div>
-<span class="doublewidespan" style="padding-left:3em">UD_Cantonese</span>
-<span class="widespan">5 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3E%21conj%26%3E%21cc%26%3E%21punct%26%3E%21fixed+_&db=UD_Cantonese-dev">Go to search</a><p/>
-</div>
-<div>
 <span class="doublewidespan" style="padding-left:3em">UD_Catalan</span>
 <span class="widespan">383 hits</span>
 </div>
@@ -7462,13 +7366,6 @@ Hits table not produced since the query does not start with the simple token spe
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=%28%21ADV%29+%3Cadvmod+_&db=UD_Bulgarian-dev">Go to search</a><p/>
 </div>
 <div>
-<span class="doublewidespan" style="padding-left:3em">UD_Cantonese</span>
-<span class="widespan">12 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=%28%21ADV%29+%3Cadvmod+_&db=UD_Cantonese-dev">Go to search</a><p/>
-</div>
-<div>
 <span class="doublewidespan" style="padding-left:3em">UD_Catalan</span>
 <span class="widespan">2496 hits</span>
 </div>
@@ -7934,27 +7831,6 @@ Search expression: `_ <advmod (NOUN|PROPN|NUM|PRON)`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SYM+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Bulgarian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Bulgarian-dev">&nbsp;</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Bulgarian-dev">&nbsp;</a></td>
-</tr>
-<tr><td>UD_Cantonese</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Cantonese-dev">2</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CCONJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CONJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=INTJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRT+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SYM+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Cantonese-dev">&nbsp;</a></td>
 </tr>
 <tr><td>UD_Catalan</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Catalan-dev">39</a></td>
@@ -8874,13 +8750,6 @@ Search expression: `_ <advmod (NOUN|PROPN|NUM|PRON)`
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Bulgarian-dev">Go to search</a><p/>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Cantonese</span>
-<span class="widespan">2 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Cadvmod+%28NOUN%7CPROPN%7CNUM%7CPRON%29&db=UD_Cantonese-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Catalan</span>
@@ -10107,9 +9976,6 @@ Search expression: `NUM (<!nummod&<!nmod&<!compound) _`
 <tr><td>UD_Bulgarian</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Bulgarian-dev">255</a></td>
 </tr>
-<tr><td>UD_Cantonese</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Cantonese-dev">4</a></td>
-</tr>
 <tr><td>UD_Catalan</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Catalan-dev">2254</a></td>
 </tr>
@@ -10290,13 +10156,6 @@ Search expression: `NUM (<!nummod&<!nmod&<!compound) _`
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Bulgarian-dev">Go to search</a><p/>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Cantonese</span>
-<span class="widespan">4 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%28%3C%21nummod%26%3C%21nmod%26%3C%21compound%29+_&db=UD_Cantonese-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Catalan</span>
@@ -11166,9 +11025,6 @@ Search expression: `AUX (<!aux&<!aux:pass) _`
 <tr><td>UD_Bulgarian</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%28%3C%21aux%26%3C%21aux%3Apass%29+_&db=UD_Bulgarian-dev">2577</a></td>
 </tr>
-<tr><td>UD_Cantonese</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%28%3C%21aux%26%3C%21aux%3Apass%29+_&db=UD_Cantonese-dev">5</a></td>
-</tr>
 <tr><td>UD_Catalan</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%28%3C%21aux%26%3C%21aux%3Apass%29+_&db=UD_Catalan-dev">5076</a></td>
 </tr>
@@ -11318,13 +11174,6 @@ Search expression: `AUX (<!aux&<!aux:pass) _`
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%28%3C%21aux%26%3C%21aux%3Apass%29+_&db=UD_Bulgarian-dev">Go to search</a><p/>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Cantonese</span>
-<span class="widespan">5 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%28%3C%21aux%26%3C%21aux%3Apass%29+_&db=UD_Cantonese-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Catalan</span>
@@ -14558,25 +14407,6 @@ Search expression: `_ >xcomp _`
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Excomp+_&db=UD_Bulgarian-dev">733</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Excomp+_&db=UD_Bulgarian-dev">&nbsp;</a></td>
 </tr>
-<tr><td>UD_Cantonese</td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Excomp+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Excomp+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADV+%3Excomp+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=AUX+%3Excomp+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=CCONJ+%3Excomp+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=DET+%3Excomp+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=INTJ+%3Excomp+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NOUN+%3Excomp+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=NUM+%3Excomp+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PART+%3Excomp+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PRON+%3Excomp+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PROPN+%3Excomp+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=PUNCT+%3Excomp+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SCONJ+%3Excomp+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=SYM+%3Excomp+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=VERB+%3Excomp+_&db=UD_Cantonese-dev">3</a></td>
-<td><a href="http://bionlp-www.utu.fi/dep_search/query?search=X+%3Excomp+_&db=UD_Cantonese-dev">&nbsp;</a></td>
-</tr>
 <tr><td>UD_Catalan</td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADJ+%3Excomp+_&db=UD_Catalan-dev">132</a></td>
 <td><a href="http://bionlp-www.utu.fi/dep_search/query?search=ADP+%3Excomp+_&db=UD_Catalan-dev">9</a></td>
@@ -15330,13 +15160,6 @@ Search expression: `_ >xcomp _`
 </div>
 <div>
 <a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Excomp+_&db=UD_Bulgarian-dev">Go to search</a><p/>
-</div>
-<div>
-<span class="doublewidespan" style="padding-left:3em">UD_Cantonese</span>
-<span class="widespan">3 hits</span>
-</div>
-<div>
-<a href="http://bionlp-www.utu.fi/dep_search/query?search=_+%3Excomp+_&db=UD_Cantonese-dev">Go to search</a><p/>
 </div>
 <div>
 <span class="doublewidespan" style="padding-left:3em">UD_Catalan</span>
