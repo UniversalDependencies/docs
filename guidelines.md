@@ -16,6 +16,7 @@ udver: '2'
   * [Nominals](u/overview/nominal-syntax.html)
   * [Simple clauses](u/overview/simple-syntax.html)
   * [Complex clauses](u/overview/complex-syntax.html)
+  * [Comparative constructions – working group materials](/workgroups/comparatives.html)
   * [Other constructions](u/overview/specific-syntax.html)
 * Documentation of tags, features and relations
   * [POS tags](u/pos/index.html) ([single document](u/pos/all.html))
