@@ -493,6 +493,25 @@ In _basic_ trees, relative pronouns are attached to the main predicate of the re
 </td></tr></tbody>
 </table>
 
+<table> <!--the book I read-->
+<tbody><tr><td width="600">
+<div class="conllu-parse">
+1 the   the  DET  _ Definite=Def|PronType=Art 2 det       _ _
+2 book  book NOUN _ Gender=Neut|Number=Sing 0 root      _ _
+3 I     I    PRON _ Number=Sing|Person=1|PronType=Prs 4 nsubj     _ _
+4 read  read VERB _ Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin 2 acl:relcl _ _
+</div>
+</td><td width="600">
+<div class="conllu-parse">
+# visual-style 4 2 obj color:blue
+1 the   the DET _ Definite=Def|PronType=Art 2 det       _ _
+2 book  book NOUN _ Gender=Neut|Number=Sing 0 root      4:obj _
+3 I     I PRON _ Number=Sing|Person=1|PronType=Prs 4 nsubj     _ _
+4 read  read VERB _ Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin 2 acl:relcl _ _
+</div>
+</td></tr></tbody>
+</table>
+
 The enhanced relations include deep syntactic relations. Therefore, in case marking languages the enhanced dependencies may link verb dependents that are not in the expected morphological case, required by surface syntax. In the following Czech example, the relative modifier phrase _v&nbsp;němž_ “in which” is obligatorily in the locative case form (`Case=Loc`). If it were a main clause, the referent _dům_ “house” would have to be in locative too: _v&nbsp;domě_ “in house”. However, here it is in the nominative (`Case=Nom`), and the enhanced dependency `obl` going to a nominative dependent is something we would not expect to see, given the morpho-syntactic rules of the language.
 
 <table> <!--dům, v němž žijeme = the house we live in (lit. house, in that we-live)-->
