@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Swedish'
+title:  'UD_Swedish-Talbanken'
 udver: '2'
 ---
 
@@ -9,7 +9,7 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Swedish
+# UD Swedish-Talbanken
 
 Language: [Swedish](../sv/overview/sv-hub.html) (code: `sv`)<br/>
 Family: Indo-European, Germanic
@@ -18,7 +18,7 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 
 The following people have contributed to making this treebank part of UD: Joakim Nivre, Aaron Smith.
 
-Repository: [UD_Swedish](https://github.com/UniversalDependencies/UD_Swedish)
+Repository: [UD_Swedish-Talbanken](https://github.com/UniversalDependencies/UD_Swedish-Talbanken)
 
 License: CC BY-SA 4.0
 
@@ -26,7 +26,7 @@ Genre: news, nonfiction
 
 Questions, comments?
 General annotation questions (either Swedish-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Swedish/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Swedish-Talbanken/issues).
 If you want to collaborate, please contact [joakim&nbsp;•&nbsp;nivre&nbsp;(æt)&nbsp;lingfil&nbsp;•&nbsp;uu&nbsp;•&nbsp;se].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
@@ -42,12 +42,12 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-The Swedish-TP treebank is based on Talbanken, a treebank developed at Lund University
+The UD Swedish-Talbanken treebank is based on Talbanken, a treebank developed at Lund University
 in the 1970s.
 
 
 
-The Swedish-TP treebank is a conversion of the Prose section of Talbanken (Einarsson,
+The UD Swedish-Talbanken treebank is a conversion of the Prose section of Talbanken (Einarsson,
 1976), originally annotated by a team led by Ulf Teleman at Lund University according
 to the MAMBA annotation scheme (Teleman, 1974). It consists of roughly 6,000 sentences
 and 95,000 tokens taken from a variety of informative text genres, including textbooks,
@@ -88,7 +88,7 @@ svenska. Studentlitteratur.
 Department of Linguistics.
 
 
-# Statistics of UD Swedish
+# Statistics of UD Swedish-Talbanken
 
 ## POS Tags
 
