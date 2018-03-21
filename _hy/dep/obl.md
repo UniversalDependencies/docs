@@ -17,12 +17,12 @@ det:poss(խոսքերը, Նրա)
 nsubj(գործեցին, խոսքերը)
 obl(գործեցին, պապի)
 obj(գործեցին, ազդեցություն)
-case:loc(պապի, վրա)
+case(պապի, վրա)
 det:poss(words, His)
 nsubj(had, words)
 obl(had, grandfather)
 obj(had, an-impression)
-case:loc(grandfather, on)
+case(grandfather, on)
 ~~~
 
 * Dative, ablative, instrumental and locative alternations where the prepositional construction gets a similar analysis to the bare noun phrase:
