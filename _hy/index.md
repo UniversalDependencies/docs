@@ -131,7 +131,7 @@ as well as Armenian-specific examples scattered across the documentation of cons
 * Objects defined in the Armenain grammar may be bare noun phrases in nominative or dative (as direct objects or “voice objects”) and in dative, ablative, instrumental or locative, or adpositional phrases mainly in dative (as indirect / “objects of nature” or adpositional objects).
   For the purpose of UD the objects are divided to core objects, labeled [obj]() or [iobj]().
   Oblique objects are labeled [obl]().
-  * Bare nominative and dative objects are considered core. Note, that dative noun phrases with benefactive or possessive role, where the dative could be interpreted as the recipient, are also considered core. Example: _մոտենում էր քաղաքին_ “He was approaching the city.” I.e. they are treated as verbs subcategorize for a single dative object or verbr of giving (or similar). Example: _գլուխը հենել էր ժայռին_ “He was leaning his head against the rock.”
+  * Bare nominative and dative objects are considered core. Verbs that subcategorize for a single dative object are also considered core. Example: _մոտենում էր քաղաքին_ “He was approaching the city.”
   * All adpositional objects are considered oblique.
   * Nominative objects of some verbs alternate with finite clausal complements, which are labeled [ccomp]().
   * If a verb subcategorizes for the infinitive (e.g. modal verbs or verbs of control), the infinitival complement is labeled [xcomp]().
@@ -140,6 +140,9 @@ as well as Armenian-specific examples scattered across the documentation of cons
     Core nominal objects in other situations are labeled just [obj]().
 * Adjuncts are usually adpositional phrases, but they can be bare noun phrases as well (following the Armenian grammar, adverbial modifiers realized as noun phrases). They are labeled [obl]():
   * Temporal or locational modifiers realized as noun phrases: _կեսգիշերին եկավ_ “He came at midnight.”
+  * Dative noun phrases with benefactive or possessive role (i.e. if the verb does not subcategorize for a single dative object
+    and if it is not a verb of giving (or similar), where the dative could be interpreted as the recipient.
+    Example: _նրան սուրճ եփեց_ “he made (for) him coffee.”
   * Instrumental or directional noun phrases expressing the way or means with which something was done or direction from some point.
     Example: _հաճույքով լսում էր_ “He was listening with pleasure.”
   * All adpositional phrases (i.e., their role and form is not defined lexically by the predicate) are adjuncts.
