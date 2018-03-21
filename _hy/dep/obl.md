@@ -31,7 +31,7 @@ case(grandfather, on)
 Երեխաներին/NOUN[Case=Dat] նոր/ADJ հագուստ/NOUN[Case=Nom] գնեց/VERB ։ \n
 obj(գնեց, հագուստ)
 amod(հագուստ, նոր)
-iobj(գնեց, Երեխաներին)
+obl(գնեց, Երեխաներին)
 ~~~
 
 ~~~ sdparse
