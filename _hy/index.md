@@ -124,14 +124,14 @@ as well as Armenian-specific examples scattered across the documentation of cons
 ### Core Arguments, Oblique Arguments and Adjuncts
 
 * Nominal subject ([nsubj]()) is a noun phrase in the nominative case, without preposition.
-  * If the noun is quantified in partitive meaning, it may be in the ablative.
+  * If the noun is quantified in partitive meaning, it may be in the ablative: _Հնչեցին Կոմիտասի երգերից_ “Sounded from songs of Komitas.”
   * An infinitive verb may serve as the subject and is labeled as clausal subject, [csubj]().
     On the other hand, verbal nouns or gerundives as subjects are just `nsubj`.
   * A finite subordinate clause may serve as the subject and is labeled `csubj`.
 * Objects defined in the Armenain grammar may be bare noun phrases in nominative or dative (as direct objects or “voice objects”) and in dative, ablative, instrumental or locative, or adpositional phrases mainly in dative (as indirect / “objects of nature” or adpositional objects).
   For the purpose of UD the objects are divided to core objects, labeled [obj]() or [iobj]().
   Oblique objects are labeled [obl]().
-  * Bare nominative and dative objects are considered core. Note, that dative noun phrases with benefactive or possessive role (i.e. if the verb does not subcategorize for a single dative object and if it is not a verb of giving (or similar), where the dative could be interpreted as the recipient, are also considered core. Example: _գլուխը հենել էր ժայռին_ “He was leaning his head ond the rock.”
+  * Bare nominative and dative objects are considered core. Note, that dative noun phrases with benefactive or possessive role, where the dative could be interpreted as the recipient, are also considered core. Example: _մոտենում էր քաղաքին_ “He was approaching the city.” I.e. if the verb does not subcategorize for a single dative object and if it is not a verb of giving (or similar) _գլուխը հենել էր ժայռին_ “He was leaning his head against the rock.” Example: _գլուխը հենել էր ժայռին_ “He was leaning his head against the rock.”
   * All adpositional objects are considered oblique.
   * Nominative objects of some verbs alternate with finite clausal complements, which are labeled [ccomp]().
   * If a verb subcategorizes for the infinitive (e.g. modal verbs or verbs of control), the infinitival complement is labeled [xcomp]().
