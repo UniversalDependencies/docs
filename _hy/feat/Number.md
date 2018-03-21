@@ -85,9 +85,3 @@ Collective or mass or singulare tantum is a special case of singular. It applies
 * _<b>գութ</b>_ “compassion”
 * _<b>կաթ</b>_ “milk”
 * _<b>պողպատ</b>_ “steel”
-
-## Diffs
-
-### Eastern Armenian National Corpus
-
-The EANC tagset grammaticaly does not distinguish `Coll` from `Sing`. Therefore, there is a lexical subcategory _“collective noun”_ for `Coll`.
