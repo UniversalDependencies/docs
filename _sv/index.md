@@ -27,7 +27,7 @@ udver: '2'
 * The tag [DET]() is used for articles and pronominal words used with a determiner function, including possessives. The tag [PRON]() is reserved for pronouns occurring as the head of a noun phrase.
 * Participles (both present and past) are mainly used adjectivally in Swedish and are generally tagged [ADJ](). The only exception is that past participles used to form periphrastic passives are tagged [VERB]().
 
-For more information, see the list of [Swedish POS tags](../pos/index.html).
+For more information, see the list of [Swedish POS tags](pos/index.html).
 
 ### Features
 
@@ -38,7 +38,7 @@ For more information, see the list of [Swedish POS tags](../pos/index.html).
 * Personal pronouns inflect for [Case]() with three values (nominative, accusative, genitive).
 * Determiners agree with nouns in the same way as adjectives.
 
-For more information, see the list of [Swedish features](../feat/index.html).
+For more information, see the list of [Swedish features](feat/index.html).
 
 ## Syntax
 
@@ -63,13 +63,13 @@ For more information, see the list of [Swedish features](../feat/index.html).
   * [nsubj:pass]() for nominal subjects of passive verbs
   * [obl:agent]() for agents of passive verbs
 
-For more information, see the list of [Swedish relations](../dep/index.html).
+For more information, see the list of [Swedish relations](dep/index.html).
 
 ## Treebanks
 
 There are three Swedish UD treebanks:
 
-  * [Swedish-Talbanken](http://universaldependencies.org/treebanks/sv/index.html)
+  * [Swedish-Talbanken](http://universaldependencies.org/treebanks/sv_talbanken/index.html)
   * [Swedish-LinES](http://universaldependencies.org/treebanks/sv_lines/index.html)
   * [Swedish-PUD](http://universaldependencies.org/treebanks/sv_pud/index.html)
 
