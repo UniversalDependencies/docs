@@ -138,7 +138,7 @@ as well as Armenian-specific examples scattered across the documentation of cons
   * If a verb subcategorizes for two core objects, one of them nominative (or `ccomp`) and the other non-nominative (mainly dative),
     then the non-nominative object is labeled [iobj]().
     Core nominal objects in other situations are labeled just [obj]().
-* Adjuncts are usually adpositional phrases, but they can be bare noun phrases as well (following the Armenian grammar, adverbial modifiers realized as noun phrases). They are labeled [obl]():
+* Adjuncts are usually adpositional phrases, but they can be bare noun phrases as well (following the Armenian grammar, adverbial modifiers are realized as noun phrases). They are labeled [obl]():
   * Temporal or locational modifiers realized as noun phrases: _կեսգիշերին եկավ_ “He came at midnight.”
   * Dative noun phrases with benefactive or possessive role (i.e. if the verb does not subcategorize for a single dative object
     and if it is not a verb of giving (or similar), where the dative could be interpreted as the recipient.
@@ -181,6 +181,6 @@ as well as Armenian-specific examples scattered across the documentation of cons
 
 ## Treebanks
 
-There is just one Eastern Armenian UD treebanks
+There is just one Eastern Armenian UD treebank.
 
   * [Armenian-ArmTDP](http://universaldependencies.org/treebanks/hy/index.html)
