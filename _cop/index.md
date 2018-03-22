@@ -17,9 +17,6 @@ Some functions from the Universal Dependencies are not used, most notably labels
 
 The dependency guidelines assume part of speech tagging based on the Coptic Scriptorium Guidelines (Zeldes & Schroeder 2016). Please consult the tagging guidelines for background on tagging, as well as tokenization decisions (e.g. portmanteau tokens and tags, such as fused ⲉⲣⲉ for 2nd person feminine singular, etc.; see Section 3). In general, these guidelines have been formed to complement the POS tag’s expressivity, e.g. favoring distinctions that cannot be easily obtained from the POS tags (for example the label `amod` for the archaic attributive adjectives, which have no distinct POS tag).
 
--------------
-
-
 ## Individual topics
   * [Morphology](morphology.html)
   * [Specific-Syntax](specific-syntax.html)
@@ -27,7 +24,7 @@ The dependency guidelines assume part of speech tagging based on the Coptic Scri
   * [Dependency relations in depth](dep/index.html)
 
 
-** Overview list of dependency labels**
+## Overview list of dependency labels**
 
 | Label        | Example        |   
 | ------------- |:-------------| 
