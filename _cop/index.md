@@ -4,7 +4,7 @@ title:  'Coptic UD'
 udver: '2'
 ---
 
-# UD for Coptic <span class="flagspan"><img class="flag" src="../../flags/svg/COP.svg" /></span>
+# UD for Coptic <span class="flagspan"><img class="flag" src="../../flags/svg/COP.svg" style="height:100px"/></span>
 
 
 ## Introduction
