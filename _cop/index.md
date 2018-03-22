@@ -1,11 +1,13 @@
 ---
 layout: base
-title:  'Introduction'
-permalink: cop/overview/introduction.html
+title:  'Coptic UD'
 udver: '2'
 ---
 
-# Introduction
+# UD for Coptic <span class="flagspan"><img class="flag" src="../../flags/svg/COP.svg" /></span>
+
+
+## Introduction
 
 These guidelines describe the application of the Stanford Universal Dependency scheme (de Marneffe et al. 2014) to Sahidic Coptic sentences. Where cases are left unspecified, the principles governing the Universal Dependency guidelines for languages other than Coptic may be consulted (see http://universaldependencies.org/). 
 
@@ -15,13 +17,23 @@ Some functions from the Universal Dependencies are not used, most notably labels
 
 The dependency guidelines assume part of speech tagging based on the Coptic Scriptorium Guidelines (Zeldes & Schroeder 2016). Please consult the tagging guidelines for background on tagging, as well as tokenization decisions (e.g. portmanteau tokens and tags, such as fused ⲉⲣⲉ for 2nd person feminine singular, etc.; see Section 3). In general, these guidelines have been formed to complement the POS tag’s expressivity, e.g. favoring distinctions that cannot be easily obtained from the POS tags (for example the label `amod` for the archaic attributive adjectives, which have no distinct POS tag).
 
-**List of dependency labels**
+-------------
+
+
+## Individual topics
+  * [Morphology](morphology.html)
+  * [Specific-Syntax](specific-syntax.html)
+  * [Tokenization](tokenization.html)
+  * [Dependency relations in depth](dep/index.html)
+
+
+** Overview list of dependency labels**
 
 | Label        | Example        |   
 | ------------- |:-------------| 
 | acl – adjunct clause      | ⲡⲣⲱⲙⲉ ⲉⲧⲥⲱⲧⲙ | 
 | advcl – adverbial clause  | ⲉϥϫⲱ, ϫⲉⲕⲁⲁⲥ ϥⲟⲩⲱϣ  |  
-| advmod – adverbial modifier | ⲟⲛ, ⲕⲁⲗⲱⲥ|  
+| advmod – adverbial modifier | ⲟⲛ, ⲕⲁⲗⲱⲥ, ⲁⲛ|  
 | amod – adjective modifier		| ϣⲏⲣⲉ ϣⲏⲙ | 
 | appos – appositions 	| 		ⲡⲉⲕⲉⲓⲱⲧ ⲙⲁⲙⲙⲱⲛⲁⲥ| 
 | aux – auxiliary 		| 	ⲁ, ⲙⲡⲁⲧ, ϣⲁⲣⲉ| 
@@ -39,9 +51,8 @@ The dependency guidelines assume part of speech tagging based on the Coptic Scri
 | obl - oblique verb modifier |  ⲟⲩⲏϩ ϩⲙⲡⲏⲓ|
 | iobj – indirect object (possessor)| 	ⲟⲩⲛⲧⲁⲩ ⲁⲡⲟⲧ| 
 | mark – clause marker or converter	| ⲡⲉϫⲁ ϥ ϫⲉ ⲉⲧⲃⲉ ⲟⲩ, ⲉ ⲓ ⲥⲱⲧⲙ ⲉⲣⲟ ⲕ| 
-| mwe – multiword expression	| 	ⲉⲃⲟⲗ ϩⲛ| 
-| name – multi-word name	| 	ⲁⲡⲁ ⲡⲁⲡⲛⲟⲩⲧⲉ| 
-| neg – negation 	| 		ⲧⲙ ⲥⲱⲧⲙ, ⲟⲩ ⲣⲱⲙⲉ ⲁⲛ| 
+| fixed – multiword expression	| 	ⲉⲃⲟⲗ ϩⲛ| 
+| flat – multi-word name	| 	ⲁⲡⲁ ⲡⲁⲡⲛⲟⲩⲧⲉ| 
 | nmod – nominal modifier	| 	ⲟⲩ ⲣⲱⲙⲉ ⲛ ⲁⲡⲓⲥⲧⲟⲥ| 
 | nummod – number modifier	| 	ϩⲙⲉ ⲛ ϩⲟⲟⲩ| 
 | nsubj – nominal subject	| 	ⲡⲣⲱⲙⲉ ⲥⲱⲧⲙ, ⲁⲓⲣⲛⲟⲃⲉ| 
