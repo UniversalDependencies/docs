@@ -24,7 +24,7 @@ The dependency guidelines assume part of speech tagging based on the Coptic Scri
   * [Specific Constructions](specific-syntax.html)
 
 
-## Overview list of dependency labels**
+## Overview list of dependency labels
 
 | Label        | Example        |   
 | ------------- |:-------------| 
