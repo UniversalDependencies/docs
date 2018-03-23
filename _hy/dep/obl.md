@@ -66,14 +66,14 @@ obl(I-met, in-the-cafe)
 ~~~
 
 ~~~ sdparse
-Ղրիմում/PROPN[Case=Loc] կատարած/ADJ[VerbForm=Part] իր/DET[Poss=Yes] շրջագայության/NOUN[Case=Dat] ժամանակ/NOUN[Case=Nom] առատ/ADJ[Degree=Pos] հունձ/NOUN[Case=Nom] էր/AUX ունեցել/VERB ։ \n
+Ղրիմում/PROPN[Case=Loc] կատարած/VERB[VerbForm=Part] իր/DET[Poss=Yes] շրջագայության/NOUN[Case=Dat] ժամանակ/NOUN[Case=Nom] առատ/ADJ[Degree=Pos] հունձ/NOUN[Case=Nom] էր/AUX ունեցել/VERB ։ \n
 obj(ունեցել, հունձ)
 amod(հունձ, առատ)
 aux(ունեցել, էր)
 obl(ունեցել, ժամանակ)
 nmod:poss(ժամանակ, շրջագայության)
 det:poss(շրջագայության, իր)
-amod(շրջագայության, կատարած)
+acl(շրջագայության, կատարած)
 obl(կատարած, Ղրիմում)
 ~~~
 
