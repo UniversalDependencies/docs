@@ -11,7 +11,7 @@ are not analyzed as `cop`.
 
 We normally take a copula as a dependent of its complement (the nominal predicate).
 The nominal predicate is usually a [noun](NOUN), an [adjective](ADJ), a [pronoun](PRON)
-or a <a href="../feat/VerbForm.html#participle">participle</a>.
+or a <a href="../feat/VerbForm.html#Part">participle</a>.
 
 ~~~ sdparse
 Արամը ազնիվ մարդ է ։ \n Aram is honest man .
@@ -104,7 +104,7 @@ det:poss(սենյակում, իմ)
 det:poss(room.Loc, in-my)
 ~~~
 
-Note, that there is variation for existential constructions with existential verb _կամ_ “be, exist” (see also [AUX](AUX_)):
+Note, that there is variation for existential constructions with existential verb _կամ_ “be, exist” (see also [AUX](hy-pos/AUX_)):
 
 ~~~ sdparse
 Սեղանի վրա գիրք կա ։ \n There-is a-book on the-table .
