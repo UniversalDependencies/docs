@@ -6,7 +6,7 @@ udver: '2'
 ---
 
 A copula is the relation between the nominal predicate _(ստորոգելիական վերադիր)_ and
-the copular verb _<b>եմ</b>,_ “to be” (or its variants (with separate lemma) _լինեմ_). The verbs _դառնալ, թվալ, երևալ, ձևանալ, մնալ, հաշվել_ etc. “to become”, despite being counted among copular verbs by some authors,
+the copular verb _<b>եմ</b>,_ “to be” (or its variants (with separate lemma) _լինել_). The verbs _դառնալ, թվալ, երևալ, ձևանալ, մնալ, հաշվել_ etc. “to become”, despite being counted among copular verbs by some authors,
 are not analyzed as `cop`.
 
 We normally take a copula as a dependent of its complement (the nominal predicate).
