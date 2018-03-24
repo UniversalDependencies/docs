@@ -33,10 +33,10 @@ cop(late, It-was)
 
 ~~~ sdparse
 Ժամանակին նա մեծ բանաստեղծ է եղել ։ \n He has been a-great poet long-time-ago . 
-cop(բանաստեղծ, եղել)
+cop(բանաստեղծ, է)
 cop(poet, been)
-aux(եղել, է)
-aux(been, has)
+aux(բանաստեղծ, եղել)
+aux(poet, has)
 ~~~
 
 Note that subject participle and infinitive can also be used as nominal predicate with copula.
@@ -88,8 +88,8 @@ cop(վիճակում, էր)
 cop(situation.Loc, was)
 amod(վիճակում, տագնապալի)
 amod(situation.Loc, anxious)
-advmod(տագնապալի, Նույն)
-advmod(anxious, in-the-same)
+det(վիճակում, Նույն)
+det(situation.Loc, in-the-same)
 nsubj(վիճակում, Գոհարը)
 nsubj(situation.Loc, Gohar)
 ~~~
