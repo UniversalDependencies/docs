@@ -18,52 +18,39 @@ the [AUX]() tag. (Russian modal verbs are not considered auxiliary.)
 See the description of `AUX` for more information on the borderline
 between `VERB` and `AUX`.
 
-Czech verbs can take the following morphological forms:
+Russian verbs can take the following morphological forms:
 
 - Infinitive (this is the citation form)
-- Finite verb (indicative and imperative forms; conditional is constructed periphrastically)
-- Past participle (used to construct past and conditional)
-- Passive participle (used to construct passive voice; also used separately as an adjective)
-- Transgressive (also called adverbial participle)
+- Finite verb (indicative and imperative forms; conditional future tense forms are constructed periphrastically)
+- Participle (short forms mostly used in passive predicative constructions, full forms mostly used in attributive constructions)
+- Converb (also called adverbial participle or transgressive)  
+See examples below.
 
-There are participial forms that are tagged as adjectives ([ADJ]()) rather than verbs.
-See below for examples.
-
-A verbal noun can be derived productively from almost every verb
-(e.g. _есть_ &nbsp;“to eat” → _поедание_ &nbsp;“eating”).
-While in other languages a corresponding form may be called gerund and tagged `VERB`,
-in Russian it is tagged [NOUN](). It has always the neuter [ru-feat/Gender]()
-and it inflects for [ru-feat/Number]() and [ru-feat/Case]().
+A verbal noun can be derived productively from many verbs (e.g. _есть_ &nbsp;“to eat” → _поедание_ &nbsp;“eating”).
+While in other languages the corresponding form may be called gerund and tagged `VERB`,
+in Russian it is tagged [NOUN](). It inflects for [ru-feat/Number]() and [ru-feat/Case]().
 
 ### Examples
 
-- _рисовать_ &nbsp;“to draw”
-- _рисую, рисуешь, рисует, рисуем, рисуете, рисуют_ &nbsp;“I draw, you draw, he/she/it draw, we draw, you draw, they draw”
-- _рисуй, рисуйте_ &nbsp;“draw” (imperative in different persons and numbers)
-- _рисовал, рисовала, рисовало, рисовали_ &nbsp;“drew” (past participle in different genders and numbers)
-- _рисован, рисована, рисовано, рисованы_ &nbsp;“drawn” (passive participle in different genders and numbers)
-- _рисуя_ &nbsp;“drawing” (present transgressive)
+- _рисовать_ &nbsp;“to draw” (infinitive)
+- _рисую, рисуешь, рисует, рисуем, рисуете, рисуют, рисовал, рисовала, рисовало, рисовали_ &nbsp;“I draw, you draw, he/she/it draw, we draw, you draw, they draw” (finite indicative)
+- _рисуй, рисуйте_ &nbsp;“draw” (finite imperative)
+- _(на)рисован, рисуем_ &nbsp;“drawn” (short passive participle in different tenses)
+- _рисующий, рисовавший, рисуемый, рисованный_ &nbsp;“drew” (participle in different tenses and voices, full forms)
+- _рисуя, рисовав_ &nbsp;“drawing” (converb)
 
 ### Border cases
 
-There are passive participles as verb forms (`VERB`)
-and participial adjectives (`ADJ`). For example:
+There can be passive participles (tagged as verb forms (`VERB`)) 
+and participial adjectives (tagged as (`ADJ`)). For example:
 
-- Verb: _рисован, рисована, рисовано, рисованы_ &nbsp;“drawn”
-- Adjective: _рисованый, рисованая, рисованое, рисованые_ &nbsp;“drawn”
+- Verb: _бронирован, бронирована, бронировано, бронированы, бронированный, бронированная, бронированное, бронированное_ &nbsp;“armored”
+- Adjective: _бронированный, бронированная, бронированное, бронированное_ &nbsp;“armored”
 
 Their meaning is almost identical but the usage slightly varies.
 Both groups can be used in nominal predication with [copula](ru-dep/cop).
-Only true participles (verbs) can be used to form the passive voice
-(but it may be sometimes difficult to distinguish from copula constructions, see [AUX]()).
-On the other hand, the participial adjectives inflect for case and thus
-can modify nouns.
+Only true participles (verbs) can be used to form the passive construction and 
+take obliques that refer to semantic agents (actor), place and other circumstances of the situation
+(e. g. _танк не был бронирован на заводе_, _бронированный на заводе танк_ &nbsp;“the tank (was) armored at the factory”).
+On the other hand, the participial adjectives modify nouns and are used in attributive, depictive (and sometimes predicative) constructions.
 
-There is an analogy with some adjectives that preserved so called nominal (short) forms.
-And these adjectives are not derived from verbs. Example:
-
-- Short (nominal) forms: _стар, стара, старо_ &nbsp;“old”
-- Normal (pronominal) forms: _старый, старая, старое_ &nbsp;“old”
-
-Here both groups are `ADJ`. The nominal forms are used in predication,
-the standard forms both in predication and to modify nouns.
