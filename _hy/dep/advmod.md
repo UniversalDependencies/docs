@@ -26,7 +26,7 @@ advmod(often, less)
 ~~~
 
 ~~~ sdparse
-Ուր/PRON ՞/PUNCT ես/AUX ուզում/VERB գնալ/VERB արձակուրդներին/NOUN ։/PUNCT \n Where do-you want to-go during-the-holidays ?
+Ուր/ADV[PronType=Int] ՞/PUNCT ես/AUX ուզում/VERB գնալ/VERB արձակուրդներին/NOUN ։/PUNCT \n Where do-you want to-go during-the-holidays ?
 advmod(գնալ, Ուր)
 obl(գնալ, արձակուրդներին)
 advmod(to-go, Where)
@@ -37,18 +37,6 @@ obl(to-go, during-the-holidays)
 Մոտ/ADV հարյուր/NUM մարդ/NOUN եկավ/VERB խնջույքի/NOUN ։ \n About 100 people came to-the-party .
 advmod(հարյուր, Մոտ)
 advmod(100, About)
-~~~
-
-~~~ sdparse
-Խնդիրը/NOUN[Case=Nom] պարզվեց/VERB ընտրություններից/NOUN[Case=Abl] երկու/NUM օր/NOUN[Case=Nom] առաջ/ADV ։ \n The-problem was-solved two days before the-elections .
-advmod(պարզվեց, առաջ)
-obl(առաջ, օր)
-nummod(օր, երկու)
-obl(առաջ, ընտրություններից)
-advmod(was-solved, before)
-obl(before, days)
-nummod(days, two)
-obl(before, the-elections)
 ~~~
 
 We use a special label, [advmod:emph]() for adverbial modifiers that are used for emphasis.
