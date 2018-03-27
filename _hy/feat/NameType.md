@@ -33,7 +33,7 @@ Names of cities, countries, rivers, mountains etc.
 
 ### <a name="Prs">`Prs`</a>: name of person
 
-This value is used if it is not known whether it is a given or a family name, but it is known that it is a personal name. We used this value for pseudonyms, nicknames, pen-names, patronyms, etc. 
+This value is used if it is not known whether it is a given or a family name, but it is known that it is a personal name. We used this value for pseudonyms, nicknames, pen-names, etc. 
 
 * _<b>Բենեդիկտոս, Րաֆֆի, Նար-Դոս, Գամառ-Քատիպա, Քաչալ</b>&nbsp;_ “Benedictus, Raffi, Nar-Dos, Gamar-Katipa, Kachal (skinhead)”
 
