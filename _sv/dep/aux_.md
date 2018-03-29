@@ -4,7 +4,7 @@ title: 'aux'
 shortdef: 'auxiliary'
 # The filename "aux" is not allowed on Windows, so we redirect instead
 # (see https://github.com/UniversalDependencies/docs/issues/20)
-redirect_from: "swl/dep/aux.html"
+redirect_from: "sv/dep/aux.html"
 udver: '2'
 ---
 
