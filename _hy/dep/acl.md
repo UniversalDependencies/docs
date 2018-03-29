@@ -34,3 +34,13 @@ acl(He, errant)
 acl(կնոջը, Գունատ)
 acl(his-wife, pale)
 ~~~
+
+Armenian also allows finite clausal complements for nouns with 
+a subset of pronouns like *այն* or *նրանում*.
+These look roughly like relative clauses, but do not have any omitted role in the dependent clause.
+These are also analyzed as `acl`.
+
+~~~ sdparse
+Բանն այն է , որ նա չի գալու . \n
+acl(այն, գալու)
+~~~
