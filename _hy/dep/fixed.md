@@ -44,7 +44,6 @@ fixed(as-well, as)
 ~~~
 
 ~~~ sdparse
-հիման վրա \n on the-basis-of
-fixed(հիման, վրա)
-fixed(on, the-basis-of)
+ի վերուստ \n
+fixed(ի, վերուստ)
 ~~~
