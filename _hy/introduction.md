@@ -32,7 +32,7 @@ This table summarizes the origins and checking of the various columns of the CoN
 | LEMMA | Generated automatically from FORM using Eastern Armenian lexicons and then hand-corrected. |
 | UPOSTAG | Generated automatically from LEMMA and then hand-corrected. |
 | XPOSTAG | _ (currently unused) |
-| FEATS | Generated automatically from LEMMA and then hand-corrected. |
+| FEATS | Generated automatically from FORM and then hand-corrected. |
 | HEAD | Annotated manually. |
 | DEPREL | Annotated manually. |
 | DEPS | _ (currently unused) |
