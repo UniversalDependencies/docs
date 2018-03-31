@@ -52,11 +52,11 @@ and [Armenian features](feat/index.html).
 * The two main values of the [Number]() feature are `Sing` and `Plur`. The following parts of speech inflect for number:
   [NOUN](), [PROPN](), [PRON](), [VERB](), [AUX]() (finite).
   * Selected nouns are plurale tantum (`Ptan`) or singulare tantum (`Coll`). These two values are lexical, and cannot be used with
-    the agreeing verbs. They also never occur with pronouns. (`Coll`) occurs with gerundives. 
+    the agreeing verbs. They also never occur with pronouns. `Coll` occurs with gerundives.
   * There is a language-specific value `Assoc` (associative plural). This is also lexical and occurs with `NOUN` and `PROPN`. Some of pronouns (_մերոնք, ձերոնք, իմոնք, քոնոնք_) are also associative.
 * [Case]() has 6 possible values: `Nom`, `Gen`, `Dat`, `Abl`, `Ins`, `Loc`.
-  It occurs with the nominal words, i.e., [NOUN](), [PROPN](), [PRON](), [DET](). Note, that `Gen` occurs only with pronouns and determiners.
-  * The `Case` feature also occurs with some of adpositions, subclassified as “locatives” ([ADP]()). It is an inflectional feature here.
+  It occurs with the nominal words, i.e., [NOUN](), [PROPN](), [PRON](), [DET](), and gerundives. Note, that `Gen` occurs only with pronouns and determiners.
+  * The `Case` feature also occurs with some of adpositions, subclassified as “localizers” ([ADP]()). It is an inflectional feature here.
 * The two main values of the [Definite]() feature are `Def` and `Ind`. The following parts of speech inflect for definitness:
   [NOUN](), [PROPN](), [PRON](). With gerundives, resultative and subject participles the feature sometimes encodes the lexical person of the possessor, although they can be almost interpreted as the 3rd person. We mark them as `Def` (see the layered features below).
 * [Degree]() applies to adjectives ([ADJ]()) and some adverbs ([ADV]()) and has one of four possible values: `Pos`, `Cmp`, `Sup`, `Abs`.
@@ -79,8 +79,8 @@ and [Armenian features](feat/index.html).
 ### Polarity
 
 * [Polarity]() has two values, `Pos` and `Neg`, and applies primarily to verbs ([VERB](), [AUX]()) that can be negated using the bound morpheme _չ-_.
-  * Occasionally _ոչ_ occurs as an independent negation particle ([PART]()) and is marked with `Polarity=Neg`.
-  * Negated nouns are usually limited to those derived from verbs _(չունեցողի, չգրվածները)_.
+  * Occasionally _ոչ_ occurs as an independent negation particle ([PART]()) and is marked with `Polarity=Neg`. The `Polarity=Neg` feature is also used with negation necessitative mood particles _(չ)պիտի, _(չ)պետք է_ .
+  * Negating nouns are usually limited to those derived from verbs _(չունեցողի, չգրվածները)_.
   * The `Polarity` feature is not used with pronouns and determiners, although there is a subset of negative pronouns and determiners.
     The `PronType=Neg` feature is used there instead.
   * The `Polarity` feature is not used with conditional mood, the `Connegative=Yes` feature is used there instead.
