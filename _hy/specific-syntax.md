@@ -130,7 +130,7 @@ case(his-brother, as)
 ~~~
 
 ~~~ sdparse
-Նպատակասլացությունը/NOUN նույնքան/SCONJ կարևոր/ADJ[Degree=Pos] է/AUX , որքան/SCONJ խաղացողի/NOUN տաղանդը/NOUN ։ \n Commitment is as important as a-player's talent .
+Նպատակասլացությունը/NOUN նույնքան/ADV[PronType=Dem] կարևոր/ADJ[Degree=Pos] է/AUX , որքան/SCONJ խաղացողի/NOUN տաղանդը/NOUN ։ \n Commitment is as important as a-player's talent .
 advmod(կարևոր, նույնքան)
 advmod(important, as-13)
 case(տաղանդը, որքան)
@@ -143,7 +143,7 @@ If a property is compared to a clause, the clause is attached as [advcl]() inste
 and the conjunction _(քան)_ is attached to the subordinate clause as [mark]().
 
 ~~~ sdparse
-Նա/PRON որքան/SCONJ աներկյուղ/ADJ[Degree=Pos] էր/AUX , նույնքան/SCONJ գեղեցիկ/ADJ[Degree=Pos] ։ \n She is as brave as beautiful .
+Նա/PRON որքան/SCONJ աներկյուղ/ADJ[Degree=Pos] էր/AUX , նույնքան/ADV[PronType=Dem] գեղեցիկ/ADJ[Degree=Pos] ։ \n She is as brave as beautiful .
 advmod(աներկյուղ, որքան)
 advmod(brave, as-12)
 advcl(աներկյուղ, գեղեցիկ)
@@ -153,7 +153,7 @@ mark(beautiful, as-14)
 ~~~
 
 ~~~ sdparse
-Ես/PRON ավելացրի/VERB այնքան/SCONJ ալյուր/NOUN , որքան/SCONJ ասվում/VERB էր/AUX բաղադրատոմսում/NOUN ։ \n I put in as-much flour as was called-for in-the-recipe .
+Ես/PRON ավելացրի/VERB այնքան/ADV[PronType=Dem] ալյուր/NOUN , որքան/SCONJ ասվում/VERB էր/AUX բաղադրատոմսում/NOUN ։ \n I put in as-much flour as was called-for in-the-recipe .
 amod(ալյուր, այնքան)
 amod(flour, as-much)
 advcl(այնքան, ասվում)
