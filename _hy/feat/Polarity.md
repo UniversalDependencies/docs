@@ -35,6 +35,7 @@ A set of non-productive prefixes, _ան-,&nbsp; ապ-,&nbsp; դժ-,&nbsp; տ-,&n
 
 * _<b>եկավ</b>&nbsp;_ “he came”
 * _<b>են</b>&nbsp;_ “they are”
+* _<b>պիտի (պետք է)</b> գրեն&nbsp;_ “they must write”
 
 ### <a name="Neg">`Neg`</a>: negative
 
@@ -42,3 +43,4 @@ A set of non-productive prefixes, _ան-,&nbsp; ապ-,&nbsp; դժ-,&nbsp; տ-,&n
 
 * _<b>չեկավ</b>&nbsp;_ “he did not come”
 * _<b>չեն</b>&nbsp;_ “they are not”
+* _<b>չպիտի (չպետք է)</b> գրեն&nbsp;_ “they mustn't write”
