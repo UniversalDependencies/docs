@@ -33,7 +33,8 @@ See [here](release_checklist.html) for the checklist for data contributors.
   can push to it.
 * Make the dev branch writable by the Contributors team (by default they cannot push to the repository
   at all).
-* Clone the repository to Dan's local system and ask Filip to add it to the validation infrastructure.
+* Clone the repository to Dan's local system.
+* Clone the repository to Dan's validation server (`quest`) and ask Filip to add it to his validation infrastructure.
 
 # How to rename a treebank in UD
 
