@@ -149,17 +149,7 @@ obl(կարևոր, տաղանդը)
 obl(important, talent)
 ~~~
 
-It is clear that the material in the complement _as Y_ can be clausal. It is also usually optional, as indicated above. For that reason, we usually make the complement an [advcl](), with the second as analyzed as [mark](). That gives us:
-
-~~~ sdparse
-Նա/PRON որքան/SCONJ աներկյուղ/ADJ[Degree=Pos] էր/AUX , նույնքան/ADV[PronType=Dem] գեղեցիկ/ADJ[Degree=Pos] ։ \n She is as brave as beautiful .
-advmod(աներկյուղ, որքան)
-advmod(brave, as-12)
-advcl(աներկյուղ, գեղեցիկ)
-advcl(brave, beautiful)
-mark(գեղեցիկ, նույնքան)
-mark(beautiful, as-14)
-~~~
+It is clear that the material in the complement _as Y_ can be clausal. It is also usually optional, as indicated above. For that reason, we usually make the complement an [advcl](), with the second _as_ analyzed as [mark](). That gives us:
 
 ~~~ sdparse
 Ես/PRON ավելացրի/VERB այնքան/ADV[PronType=Dem] ալյուր/NOUN , որքան/SCONJ ասվում/VERB էր/AUX բաղադրատոմսում/NOUN ։ \n I put in as-much flour as was called-for in-the-recipe .
@@ -210,6 +200,44 @@ advcl(բարդ, կարծում)
 advcl(difficult, thought)
 mark(կարծում, քան)
 mark(thought, than)
+~~~
+
+### Ellipsis in Comparative Constructions
+
+Very commonly the complement clause in a comparative undergoes various amounts of partial reduction or ellipsis, sometimes to a quite extreme extent. If the head is elided, then the functional element can be promoted:
+
+~~~ sdparse
+Նա/PRON որքան/SCONJ աներկյուղ/ADJ[Degree=Pos] էր/AUX , նույնքան/ADV[PronType=Dem] գեղեցիկ/ADJ[Degree=Pos] ։ \n She is as brave as beautiful .
+advmod(աներկյուղ, որքան)
+advmod(brave, as-12)
+advcl(աներկյուղ, գեղեցիկ)
+advcl(brave, beautiful)
+mark(գեղեցիկ, նույնքան)
+mark(beautiful, as-14)
+~~~
+
+“She is as much brave as for how much she is beautiful.”
+
+~~~ sdparse
+Նա/PRON հարբած/VERB[VerbType=Part] ավելի/ADV լավ/ADJ[Degree=Pos] է/AUX խաղում/VERB[VerbType=Fin] , քան/SCONJ սթափ/ADJ[Degree=Pos] ։ \n He plays better drunk than sober .
+nsubj(խաղում, Նա)
+аuх(խաղում, է)
+acl(Նա, հարբած)
+advmod(լավ, ավելի)
+advmod(խաղում, լավ)
+mark(սթափ, քան)
+advcl(լավ, սթափ)
+nsubj(plays, He)
+acl(He, drunk)
+advmod(plays, better)
+mark(sober, than)
+advcl(better, sober)
+~~~
+
+“He plays better when he is drunk than how he plays when he is sober.”
+
+~~~ sdparse
+Your hair is pinker than ever .
 ~~~
 
 ### Comparatives (quantity)
