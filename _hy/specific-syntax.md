@@ -134,9 +134,15 @@ case(his-brother, as)
 ~~~
 
 ~~~ sdparse
-մթին/ADJ[Degree=Pos] ու/CCONJ սառը/ADJ[Degree=Pos], ինչպես/SCONJ շիրիմ/NOUN \n
+մթին/ADJ[Degree=Pos] ու/CCONJ սառը/ADJ[Degree=Pos] , ինչպես/SCONJ շիրիմ/NOUN \n dark and cold like a-grave
 case(շիրիմ, ինչպես)
 obl(մթին, շիրիմ)
+cc(սառը, ու)
+conj(մթին, սառը)
+case(a-grave, like)
+obl(dark, a-grave)
+cc(cold, and)
+conj(dark, cold)
 ~~~
 
 ~~~ sdparse
@@ -235,10 +241,6 @@ advcl(better, sober)
 ~~~
 
 “He plays better when he is drunk than how he plays when he is sober.”
-
-~~~ sdparse
-Your hair is pinker than ever .
-~~~
 
 ### Comparatives (quantity)
 
