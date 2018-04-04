@@ -41,7 +41,7 @@ The most frequently used comparative constructions are the following:
 * _Արամը_.Nom _եղբորից_.Abl <b>_խելացի_</b> / <b>_ավելի խելացի_</b> / _է_ ։ “Aram is <b>smarter</b> than his brother.” (with both types of comparatives)
 * _Արամը_.Nom <b>_ավելի խելացի_</b> _է_, _քան (թե) եղբայրը_.Nom։ “Aram is <b>smarter</b> than his brother.”
 * _Արամը_.Nom _բոլոր_ _ուսանողներից_.Abl <b>_ամենից խելացին_</b> / <b>_ամենախելացին_</b> _է_ ։ “Aram is <b>the smartest one</b> of all the students.” (with both types of superlatives)
-* _Արամը_.Nom _եղբոր_.Dat _պես / նման / չափ_.POST <b>_խելացի_</b> _է_ ։ “Aram is <b>smart</b> as his brother.” (equality comparison)
+* _Արամը_.Nom _եղբոր_.Dat _պես / նման / չափ_.ADP <b>_խելացի_</b> _է_ ։ “Aram is <b>smart</b> as his brother.” (equality comparison)
 
 The “lesser degree” comparison (expressed periphrastically) is marked the same way:
 
@@ -114,12 +114,16 @@ obl(smart, of-all)
 ~~~ sdparse
 Նա/PRON ինձնից/PRON[Case=Abl] շատ/ADV[Degree=Pos] է/AUX կարդում/VERB ։ \n He reads more than-me .
 advmod(կարդում, շատ)
-obl(կարդում, ինձնից)
+obl(շատ, ինձնից)
 advmod(reads, more)
-obl(reads, than-me)
+obl(more, than-me)
 ~~~
 
 ### Relations in Equality Comparison
+
+In constructions of the form _as X as Y_ or _the same X as Y_, X and Y can be of a range of syntactic types. However, this first _as_ may not modify the head of X, it may modify an existing modifier of the head of X. Its role is adverbial ([advmod]()), consistent with other kinds of degree modification.
+
+We take the complement of the comparative (that is, the standard of comparison) as an oblique dependent of the first part. 
 
 ~~~ sdparse
 Արամը/PROPN եղբոր/NOUN պես/ADP խելացի/ADJ[Degree=Pos] է/AUX ։ \n Aram is smart as his-brother .
@@ -127,6 +131,12 @@ obl(խելացի, եղբոր)
 obl(smart, his-brother)
 case(եղբոր, պես)
 case(his-brother, as)
+~~~
+
+~~~ sdparse
+մթին/ADJ[Degree=Pos] ու/CCONJ սառը/ADJ[Degree=Pos], ինչպես/SCONJ շիրիմ/NOUN \n
+case(շիրիմ, ինչպես)
+obl(մթին, շիրիմ)
 ~~~
 
 ~~~ sdparse
@@ -139,8 +149,7 @@ obl(կարևոր, տաղանդը)
 obl(important, talent)
 ~~~
 
-If a property is compared to a clause, the clause is attached as [advcl]() instead of [obl]()
-and the conjunction _(քան)_ is attached to the subordinate clause as [mark]().
+It is clear that the material in the complement _as Y_ can be clausal. It is also usually optional, as indicated above. For that reason, we usually make the complement an [advcl](), with the second as analyzed as [mark](). That gives us:
 
 ~~~ sdparse
 Նա/PRON որքան/SCONJ աներկյուղ/ADJ[Degree=Pos] էր/AUX , նույնքան/ADV[PronType=Dem] գեղեցիկ/ADJ[Degree=Pos] ։ \n She is as brave as beautiful .
@@ -163,7 +172,7 @@ mark(called-for, as)
 ~~~
 
 ~~~ sdparse
-Նա/PRON այնքան/SCONJ հրապուրիչ/ADJ էր/AUX , որ/SCONJ խմբագիրը/NOUN հիացավ/VERB ։ \n She was so attractive , that the-editor admired her.
+Նա/PRON այնքան/ADV[PronType=Dem] հրապուրիչ/ADJ էր/AUX , որ/SCONJ խմբագիրը/NOUN հիացավ/VERB ։ \n She was so attractive , that the-editor admired her.
 advmod(հրապուրիչ, այնքան)
 advmod(attractive, so)
 advcl(այնքան, հիացավ)
@@ -173,6 +182,9 @@ mark(admired, that)
 ~~~
 
 ### Inequality Scalar Comparison
+
+If a property is compared to a clause, the clause is attached as [advcl]() instead of [obl]()
+and the conjunction _(քան)_ is attached to the subordinate clause as [mark]().
 
 ~~~ sdparse
 Արամը/PROPN շատ/ADV ավելի/ADV[Degree=Cmp] խելացի/ADJ[Degree=Pos] է/AUX , քան/SCONJ թվում/VERB է/AUX ։ \n Aram is much more smart , than it seems .
