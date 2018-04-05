@@ -43,21 +43,9 @@ Armenian qualitative adjectives and adverbs have only periphrastic comparative f
 * _Արամը եղբոր պես / նման / չափ <b>խելացի</b> է_ ։ “Aram is <b>smart</b> as his brother.”
 
 ~~~ sdparse
-Արամը/PROPN եղբորից/NOUN[Animacy=Inan|Case=Abl|Definite=Ind|Number=Sing] խելացի/ADJ[Degree=Pos] է/AUX ։ \n Aram is smart than-his-brother .
-obl(խելացի, եղբորից)
-obl(smart, than-his-brother)
-~~~
-
-~~~ sdparse
 Արամը/PROPN ամենախելացի/ADJ[Degree=Sup] ուսանողն/NOUN է/AUX ։ \n Aram is the-smartest student .
 amod(ուսանողն, ամենախելացի)
 amod(student, the-smartest)
-~~~
-
-~~~ sdparse
-Արամը/PROPN ամենից / բոլորից/PRON[Case=Abl|Number=Sing|PronType=Tot] խելացի/ADJ[Degree=Pos] է/AUX ։ \n Aram is smart of-all .
-obl(խելացի, բոլորից)
-obl(smart, of-all)
 ~~~
 
 To keep the analyses of the morphological and the periphrastic cases parallel
@@ -96,6 +84,20 @@ advmod(reads, more)
 obl(more, than-me)
 ~~~
 
+Note that in Armenian there is an another possibility when the base form of the adjective is used and the fact that it is being compared must be derived from the coding of the other participants, e.g., the standard of comparison.
+
+~~~ sdparse
+Արամը/PROPN եղբորից/NOUN[Animacy=Inan|Case=Abl|Definite=Ind|Number=Sing] խելացի/ADJ[Degree=Pos] է/AUX ։ \n Aram is smart than-his-brother .
+obl(խելացի, եղբորից)
+obl(smart, than-his-brother)
+~~~
+
+~~~ sdparse
+Արամը/PROPN ամենից / բոլորից/PRON[Case=Abl|Number=Sing|PronType=Tot] խելացի/ADJ[Degree=Pos] է/AUX ։ \n Aram is smart of-all .
+obl(խելացի, բոլորից)
+obl(smart, of-all)
+~~~
+
 ### Relations in Equality Comparison
 
 In constructions of the form _as X as Y_ or _the same X as Y_, X and Y can be of a range of syntactic types. However, this first _as_ may not modify the head of X, it may modify an existing modifier of the head of X. Its role is adverbial ([advmod]()), consistent with other kinds of degree modification.
@@ -103,7 +105,7 @@ In constructions of the form _as X as Y_ or _the same X as Y_, X and Y can be of
 We take the complement of the comparative (that is, the standard of comparison) as an oblique dependent of the first part. 
 
 ~~~ sdparse
-Արամը/PROPN եղբոր/NOUN պես/ADP խելացի/ADJ[Degree=Pos] է/AUX ։ \n Aram is smart as his-brother .
+Արամը/PROPN եղբոր/NOUN պես/նման/չափ/ADP խելացի/ADJ[Degree=Pos] է/AUX ։ \n Aram is smart as his-brother .
 obl(խելացի, եղբոր)
 obl(smart, his-brother)
 case(եղբոր, պես)
