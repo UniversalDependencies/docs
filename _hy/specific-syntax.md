@@ -104,7 +104,7 @@ nsubj(student, Aram)
 cop(student, is)
 obl(the-smartest, of-all)
 amod(student, the-smartest)
-punct(ուսանողն, .)
+punct(student, .)
 ~~~
 
 ~~~ sdparse
