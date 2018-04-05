@@ -282,19 +282,7 @@ punct(thought, ,-14)
 
 ### Ellipsis in Comparative Constructions
 
-Very commonly the complement clause in a comparative undergoes various amounts of partial reduction or ellipsis, sometimes to a quite extreme extent. If the head is elided, then the functional element can be promoted:
-
-~~~ sdparse
-Նա/PRON որքան/SCONJ աներկյուղ/ADJ[Degree=Pos] էր/AUX , նույնքան/ADV[PronType=Dem] գեղեցիկ/ADJ[Degree=Pos] ։ \n She is as brave as beautiful .
-advmod(աներկյուղ, որքան)
-advmod(brave, as-12)
-advcl(աներկյուղ, գեղեցիկ)
-advcl(brave, beautiful)
-mark(գեղեցիկ, նույնքան)
-mark(beautiful, as-14)
-~~~
-
-“She is as much brave as for how much she is beautiful.”
+Very commonly the complement clause in a comparative undergoes various amounts of partial reduction or ellipsis, sometimes to a quite extreme extent. In general, we treat whatever remnant that remains as still an [advcl]():
 
 ~~~ sdparse
 Նա/PRON հարբած/VERB[VerbType=Part] ավելի/ADV[Degree=Cmp] լավ/ADJ[Degree=Pos] է/AUX խաղում/VERB[VerbType=Fin] ,/PUNCT քան/SCONJ սթափ/ADJ[Degree=Pos] ։/PUNCT \n He plays better drunk than sober .
@@ -316,6 +304,28 @@ punct(plays, .)
 ~~~
 
 “He plays better when he is drunk than how he plays when he is sober.”
+
+Commonly case is that the adverbial clause as standard of comparison precedes the partially reduced comparee:
+
+~~~ sdparse
+Նա/PRON որքան/SCONJ աներկյուղ/ADJ[Degree=Pos] է/AUX ,։/PUNCT նույնքան/ADV[PronType=Dem] գեղեցիկ/ADJ[Degree=Pos] ։/PUNCT \n She is as brave as beautiful .
+nsubj(գեղեցիկ, Նա)
+cop(աներկյուղ, է)
+advmod(գեղեցիկ, նույնքան)
+advcl(գեղեցիկ, աներկյուղ)
+mark(աներկյուղ, որքան)
+punct(գեղեցիկ, ։)
+punct(գեղեցիկ, ,)
+nsubj(beautiful, She)
+cop(brave, is)
+mark(brave, as-12)
+advcl(beautiful, brave)
+advmod(beautiful, as-14)
+punct(beautiful, .)
+~~~
+
+“She is as much beautiful as for how much she is brave.”
+
 
 ### Comparatives (quantity)
 
