@@ -199,23 +199,40 @@ punct(important, .)
 It is clear that the material in the complement _as Y_ can be clausal. It is also usually optional, as indicated above. For that reason, we usually make the complement an [advcl](), with the second _as_ analyzed as [mark](). That gives us:
 
 ~~~ sdparse
-Ես/PRON ավելացրի/VERB այնքան/ADV[PronType=Dem] ալյուր/NOUN[SpaceAfter=No] , որքան/SCONJ ասվում/VERB էր/AUX բաղադրատոմսում/NOUN[SpaceAfter=No] ։ \n I put in as-much flour as was called-for in-the-recipe .
+Ես/PRON ավելացրի/VERB այնքան/ADV[PronType=Dem] ալյուր/NOUN[SpaceAfter=No] ,/PUNCT որքան/SCONJ ասվում/VERB էր/AUX բաղադրատոմսում/NOUN[SpaceAfter=No] ։/PUNCT \n I put in as-much flour as was called-for in-the-recipe .
+nsubj(ավելացրի, Ես)
 amod(ալյուր, այնքան)
-amod(flour, as-much)
 advcl(այնքան, ասվում)
-advcl(as-much, called-for)
 mark(ասվում, որքան)
+aux(ասվում, էր)
+obl(ասվում, բաղադրատոմսում)
+punct(ավելացրի, ։)
+punct(ասվում, ,-5)
+nsubj(put, I)
+amod(flour, as-much)
+advcl(as-much, called-for)
 mark(called-for, as)
+aux(called-for, was)
+obl(called-for, in-the-recipe)
+punct(put, .)
 ~~~
 
 ~~~ sdparse
-Նա/PRON այնքան/ADV[PronType=Dem] հրապուրիչ/ADJ էր/AUX[SpaceAfter=No] , որ/SCONJ խմբագիրը/NOUN հիացավ/VERB[SpaceAfter=No] ։ \n She was so attractive , that the-editor admired her.
+Նա/PRON այնքան/ADV[PronType=Dem] հրապուրիչ/ADJ էր/AUX[SpaceAfter=No] ,/PUNCT որ/SCONJ խմբագիրը/NOUN հիացավ/VERB[SpaceAfter=No] ։/PUNCT \n She was so attractive , that the-editor admired her.
+nsubj(հրապուրիչ, Նա)
+cop(հրապուրիչ, էր)
 advmod(հրապուրիչ, այնքան)
-advmod(attractive, so)
 advcl(այնքան, հիացավ)
-advcl(so, admired)
 mark(հիացավ, որ)
+punct(հրապուրիչ, ։)
+punct(հիացավ, ,-5)
+nsubj(attractive, She)
+cop(attractive, was)
+advmod(attractive, so)
+advcl(so, admired)
 mark(admired, that)
+punct(attractive, .)
+punct(attractive, ,-15)
 ~~~
 
 ### Inequality Scalar Comparison
@@ -223,7 +240,7 @@ mark(admired, that)
 In general, the standard of comparison always depends on an adjective or adverb, and is usually an [advcl]() or [obl]().
 
 ~~~ sdparse
-Արամը/PROPN շատ/ADV[Degree=Pos] ավելի/ADV[Degree=Cmp] խելացի/ADJ[Degree=Pos] է/AUX[SpaceAfter=No] , քան/SCONJ թվում/VERB է/AUX[SpaceAfter=No] ։ \n Aram is much more smart , than it seems .
+Արամը/PROPN շատ/ADV[Degree=Pos] ավելի/ADV[Degree=Cmp] խելացի/ADJ[Degree=Pos] է/AUX[SpaceAfter=No] ,/PUNCT քան/SCONJ թվում/VERB է/AUX[SpaceAfter=No] ։/PUNCT \n Aram is much more smart , than it seems .
 nsubj(Արամը, խելացի)
 cop(խելացի, է)
 advcl(խելացի, թվում)
@@ -243,7 +260,7 @@ punct(smart, .)
 ~~~
 
 ~~~ sdparse
-շատ/ADV[Degree=Pos] ավելի/ADV[Degree=Cmp] բարդ/ADJ[Degree=Pos] խնդիր/NOUN[SpaceAfter=No] , քան/SCONJ կարծում/VERB ես/AUX \n much more difficult problem , than you thought
+շատ/ADV[Degree=Pos] ավելի/ADV[Degree=Cmp] բարդ/ADJ[Degree=Pos] խնդիր/NOUN[SpaceAfter=No] ,/PUNCT քան/SCONJ կարծում/VERB ես/AUX \n much more difficult problem , than you thought
 amod(խնդիր, բարդ)
 advmod(բարդ, ավելի)
 advmod(ավելի, շատ)
