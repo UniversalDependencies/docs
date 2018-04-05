@@ -297,7 +297,7 @@ mark(beautiful, as-14)
 “She is as much brave as for how much she is beautiful.”
 
 ~~~ sdparse
-Նա/PRON հարբած/VERB[VerbType=Part] ավելի/ADV[Degree=Cmp] լավ/ADJ[Degree=Pos] է/AUX խաղում/VERB[VerbType=Fin] , քան/SCONJ սթափ/ADJ[Degree=Pos] ։ \n He plays better drunk than sober .
+Նա/PRON հարբած/VERB[VerbType=Part] ավելի/ADV[Degree=Cmp] լավ/ADJ[Degree=Pos] է/AUX խաղում/VERB[VerbType=Fin] ,/PUNCT քան/SCONJ սթափ/ADJ[Degree=Pos] ։/PUNCT \n He plays better drunk than sober .
 nsubj(խաղում, Նա)
 аuх(խաղում, է)
 acl(Նա, հարբած)
@@ -305,11 +305,14 @@ advmod(լավ, ավելի)
 advmod(խաղում, լավ)
 mark(սթափ, քան)
 advcl(լավ, սթափ)
+punct(խաղում, ։)
+punct(սթափ, ,)
 nsubj(plays, He)
 acl(He, drunk)
 advmod(plays, better)
 mark(sober, than)
 advcl(better, sober)
+punct(plays, .)
 ~~~
 
 “He plays better when he is drunk than how he plays when he is sober.”
