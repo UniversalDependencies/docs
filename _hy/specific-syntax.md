@@ -125,14 +125,26 @@ Note that in Armenian there is an another possibility when the base form of the 
 
 ~~~ sdparse
 Արամը/PROPN եղբորից/NOUN[Animacy=Inan|Case=Abl|Definite=Ind|Number=Sing] խելացի/ADJ[Degree=Pos] է/AUX ։ \n Aram is smart than-his-brother .
+nsubj(խելացի, Արամը)
+cop(խելացի, է)
 obl(խելացի, եղբորից)
+punct(խելացի, ։)
+nsubj(smart, Aram)
+cop(smart, is)
 obl(smart, than-his-brother)
+punct(smart, .)
 ~~~
 
 ~~~ sdparse
-Արամը/PROPN ամենից / բոլորից/PRON[Case=Abl|Number=Sing|PronType=Tot] խելացի/ADJ[Degree=Pos] է/AUX ։ \n Aram is smart of-all .
+Արամը/PROPN բոլորից/PRON[Case=Abl|Number=Sing|PronType=Tot] խելացի/ADJ[Degree=Pos] է/AUX ։ \n Aram is smart of-all .
+nsubj(խելացի, Արամը)
+cop(խելացի, է)
 obl(խելացի, բոլորից)
+punct(խելացի, ։)
+nsubj(smart, Aram)
+cop(smart, is)
 obl(smart, of-all)
+punct(smart, .)
 ~~~
 
 ### Relations in Equality Comparison
