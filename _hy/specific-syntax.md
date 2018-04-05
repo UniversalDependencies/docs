@@ -38,12 +38,9 @@ Armenian qualitative adjectives and adverbs have only periphrastic comparative f
 
 * _Արամը եղբորից <b>խելացի</b> / <b>ավելի խելացի</b> / է_ ։ “Aram is <b>smarter</b> than his brother.”
 * _Արամը <b>ավելի խելացի</b> է, քան (թե) եղբայրը_ ։ “Aram is <b>smarter</b> than his brother.”
+* _Արամը <b>նվազ / պակաս խելացի</b> է, քան (թե) եղբայրը_ ։ “Aram is <b>less smart</b> than his brother.”
 * _Արամը <b>ամենից / բոլորից խելացի</b> / <b>ամենախելացի</b> ուսանողն է_ ։ “Aram is <b>the smartest one</b> of all the students.”
 * _Արամը եղբոր պես / նման / չափ <b>խելացի</b> է_ ։ “Aram is <b>smart</b> as his brother.”
-
-The “lesser degree” comparison (expressed periphrastically) is marked the same way:
-
-* _Արամը <b>նվազ / պակաս խելացի</b> է, քան (թե) եղբայրը_ ։ “Aram is <b>less smart</b> than his brother.”
 
 ~~~ sdparse
 Արամը/PROPN եղբորից/NOUN[Animacy=Inan|Case=Abl|Definite=Ind|Number=Sing] խելացի/ADJ[Degree=Pos] է/AUX ։ \n Aram is smart than-his-brother .
