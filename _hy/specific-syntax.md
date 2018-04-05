@@ -308,7 +308,7 @@ punct(plays, .)
 Commonly case is that the adverbial clause as standard of comparison precedes the partially reduced comparee:
 
 ~~~ sdparse
-Նա/PRON որքան/SCONJ աներկյուղ/ADJ[Degree=Pos] է/AUX ,։/PUNCT նույնքան/ADV[PronType=Dem] գեղեցիկ/ADJ[Degree=Pos] ։/PUNCT \n She is as brave as beautiful .
+Նա/PRON որքան/SCONJ աներկյուղ/ADJ[Degree=Pos] է/AUX ,/PUNCT նույնքան/ADV[PronType=Dem] գեղեցիկ/ADJ[Degree=Pos] ։/PUNCT \n She is as brave as beautiful .
 nsubj(գեղեցիկ, Նա)
 cop(աներկյուղ, է)
 advmod(գեղեցիկ, նույնքան)
