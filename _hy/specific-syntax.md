@@ -156,13 +156,13 @@ In constructions of the form _as X as Y_ or _the same X as Y_, X and Y can be of
 nsubj(խելացի, Արամը)
 cop(խելացի, է)
 obl(խելացի, եղբոր)
-case(եղբոր, պես)
+case(եղբոր, չափ)
 punct(խելացի, ։)
 nsubj(smart, Aram)
 cop(smart, is)
 obl(smart, his-brother)
 case(his-brother, as)
-punct(խելացի, .)
+punct(smart, .)
 ~~~
 
 ~~~ sdparse
