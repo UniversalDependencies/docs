@@ -118,7 +118,7 @@ nsubj(reading, He)
 aux(reading, is)
 advmod(reading, more)
 obl(more, than-me)
-punct(reads, .)
+punct(reading, .)
 ~~~
 
 Note that in Armenian there is an another possibility when the base form of the adjective is used and the fact that it is being compared must be derived from the coding of the other participants, e.g., the standard of comparison.
