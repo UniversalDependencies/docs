@@ -201,9 +201,9 @@ punct(important, .)
 It is clear that the material in the complement _as Y_ can be clausal. It is also usually optional, as indicated above. For that reason, we usually make the complement an [advcl](), with the second _as_ analyzed as [mark](). That gives us:
 
 ~~~ sdparse
-Ես/PRON ավելացրի/VERB այնքան/ADV[PronType=Dem] ալյուր/NOUN[SpaceAfter=No] ,/PUNCT որքան/SCONJ ասվում/VERB էր/AUX բաղադրատոմսում/NOUN[SpaceAfter=No] ։/PUNCT \n I put-in as-much flour as was called-for in-the-recipe .
+Ես/PRON ավելացրի/VERB այնքան/DET[PronType=Dem] ալյուր/NOUN[SpaceAfter=No] ,/PUNCT որքան/SCONJ ասվում/VERB էր/AUX բաղադրատոմսում/NOUN[SpaceAfter=No] ։/PUNCT \n I put-in as-much flour as was called-for in-the-recipe .
 nsubj(ավելացրի, Ես)
-amod(ալյուր, այնքան)
+det(ալյուր, այնքան)
 advcl(այնքան, ասվում)
 mark(ասվում, որքան)
 aux(ասվում, էր)
@@ -211,7 +211,7 @@ obl(ասվում, բաղադրատոմսում)
 punct(ավելացրի, ։)
 punct(ասվում, ,-5)
 nsubj(put-in, I)
-amod(flour, as-much)
+det(flour, as-much)
 advcl(as-much, called-for)
 mark(called-for, as)
 aux(called-for, was)
