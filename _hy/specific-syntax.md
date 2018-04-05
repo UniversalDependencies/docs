@@ -76,10 +76,21 @@ punct(smart, .)
 
 ~~~ sdparse
 Արամը/PROPN ավելի/ADV[Degree=Cmp] խելացի/ADJ[Degree=Pos] է/AUX , քան/SCONJ եղբայրը/NOUN[Animacy=Inan|Case=Nom|Definite=Def|Number=Sing] ։ \n Aram is more smart , than his-brother .
+
+nsubj(խելացի, Արամը)
+cop(խելացի, է)
+advmod(խելացի, ավելի)
 obl(խելացի, եղբայրը)
-obl(smart, his-brother)
 case(եղբայրը, քան)
+punct(եղբայրը, ,-5)
+punct(խելացի, ։)
+nsubj(smart, Aram)
+cop(smart, is)
+advmod(smart, more)
+obl(smart, his-brother)
 case(his-brother, than)
+punct(his-brother, ,-14)
+punct(smart, .)
 ~~~
 
 ~~~ sdparse
