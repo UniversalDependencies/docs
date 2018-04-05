@@ -213,8 +213,7 @@ mark(admired, that)
 
 ### Inequality Scalar Comparison
 
-If a property is compared to a clause, the clause is attached as [advcl]() instead of [obl]()
-and the conjunction _(քան)_ is attached to the subordinate clause as [mark]().
+In general, the standard of comparison always depends on an adjective or adverb, and is usually an [advcl]() or [obl]().
 
 ~~~ sdparse
 Արամը/PROPN շատ/ADV[Degree=Pos] ավելի/ADV[Degree=Cmp] խելացի/ADJ[Degree=Pos] է/AUX[SpaceAfter=No] , քան/SCONJ թվում/VERB է/AUX[SpaceAfter=No] ։ \n Aram is much more smart , than it seems .
@@ -270,7 +269,7 @@ mark(beautiful, as-14)
 “She is as much brave as for how much she is beautiful.”
 
 ~~~ sdparse
-Նա/PRON հարբած/VERB[VerbType=Part] ավելի/ADV լավ/ADJ[Degree=Pos] է/AUX խաղում/VERB[VerbType=Fin] , քան/SCONJ սթափ/ADJ[Degree=Pos] ։ \n He plays better drunk than sober .
+Նա/PRON հարբած/VERB[VerbType=Part] ավելի/ADV[Degree=Cmp] լավ/ADJ[Degree=Pos] է/AUX խաղում/VERB[VerbType=Fin] , քան/SCONJ սթափ/ADJ[Degree=Pos] ։ \n He plays better drunk than sober .
 nsubj(խաղում, Նա)
 аuх(խաղում, է)
 acl(Նա, հարբած)
