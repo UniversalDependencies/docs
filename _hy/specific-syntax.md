@@ -75,7 +75,7 @@ punct(smart, .)
 ~~~
 
 ~~~ sdparse
-Արամը/PROPN ավելի/ADV[Degree=Cmp] խելացի/ADJ[Degree=Pos] է/AUX , քան/SCONJ եղբայրը/NOUN[Animacy=Inan|Case=Nom|Definite=Def|Number=Sing] ։/PUNCT \n Aram is more smart , than his-brother .
+Արամը/PROPN ավելի/ADV[Degree=Cmp] խելացի/ADJ[Degree=Pos] է/AUX ,/PUNCT քան/SCONJ եղբայրը/NOUN[Animacy=Inan|Case=Nom|Definite=Def|Number=Sing] ։/PUNCT \n Aram is more smart , than his-brother .
 
 nsubj(խելացի, Արամը)
 cop(խելացի, է)
