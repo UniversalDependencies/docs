@@ -217,29 +217,40 @@ If a property is compared to a clause, the clause is attached as [advcl]() inste
 and the conjunction _(քան)_ is attached to the subordinate clause as [mark]().
 
 ~~~ sdparse
-Արամը/PROPN շատ/ADV ավելի/ADV[Degree=Cmp] խելացի/ADJ[Degree=Pos] է/AUX[SpaceAfter=No] , քան/SCONJ թվում/VERB է/AUX[SpaceAfter=No] ։ \n Aram is much more smart , than it seems .
+Արամը/PROPN շատ/ADV[Degree=Pos] ավելի/ADV[Degree=Cmp] խելացի/ADJ[Degree=Pos] է/AUX[SpaceAfter=No] , քան/SCONJ թվում/VERB է/AUX[SpaceAfter=No] ։ \n Aram is much more smart , than it seems .
+nsubj(Արամը, խելացի)
+cop(խելացի, է)
 advcl(խելացի, թվում)
-advcl(smart, seems)
 mark(թվում, քան)
-mark(seems, than)
 advmod(ավելի, շատ)
-advmod(more, much)
 advmod(խելացի, ավելի)
+punct(թվում, ,-6)
+punct(խելացի, ։)
+nsubj(Aram, smart)
+cop(smart, is)
+advcl(smart, seems)
+mark(seems, than)
+advmod(more, much)
 advmod(smart, more)
+punct(seems, ,-17)
+punct(smart, .)
 ~~~
 
 ~~~ sdparse
-շատ/ADV ավելի/ADV[Degree=Cmp] բարդ/ADJ[Degree=Pos] խնդիր/NOUN[SpaceAfter=No] , քան/SCONJ կարծում/VERB ես \n much more difficult problem , than you thought
+շատ/ADV[Degree=Pos] ավելի/ADV[Degree=Cmp] բարդ/ADJ[Degree=Pos] խնդիր/NOUN[SpaceAfter=No] , քան/SCONJ կարծում/VERB ես/AUX \n much more difficult problem , than you thought
 amod(խնդիր, բարդ)
-amod(problem, difficult)
 advmod(բարդ, ավելի)
-advmod(difficult, more)
 advmod(ավելի, շատ)
-advmod(more, much)
 advcl(բարդ, կարծում)
-advcl(difficult, thought)
 mark(կարծում, քան)
+aux(կարծում, ես)
+punct(կարծում, ,-5)
+amod(problem, difficult)
+advmod(difficult, more)
+advmod(more, much)
+advcl(difficult, thought)
 mark(thought, than)
+punct(thought, ,-14)
 ~~~
 
 ### Ellipsis in Comparative Constructions
