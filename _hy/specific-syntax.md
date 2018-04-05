@@ -34,20 +34,6 @@ nmod:poss(from-songs, of-Komitas)
 
 ### Comparative constructions
 
-Unlike in English, most Czech adjectives and adverbs have morphological comparative and superlative forms (see the [cs-feat/Degree]() feature):
-_chytrý_ “smart”, _chytřejší_ “smarter”, _nejchytřejší_ “smartest”. Periphrastic constructions such as English _more intelligent_
-cannot be completely excluded but they are infrequent and often deemed poor style: _inteligentnější_ is preferred over _více inteligentní._
-The exception is when the adjective or adverb applies less to the entity being compared than to the entity being compared to:
-_méně inteligentní_ “less intelligent” is the only way of reversing the comparison.
-Equality comparisons are also periphrastic.
-
-* _Martin je <b>inteligentnější</b> než Vojta._ “Martin is <b>more intelligent</b> than Vojta.”
-* _Vojta je <b>méně inteligentní</b> než Martin._ “Vojta is <b>less intelligent</b> than Martin.”
-* _Vojta je <b>stejně inteligentní</b> jako Matěj._ “Vojta is <b>as intelligent</b> as Matěj.”
-* _Martin je <b>nejinteligentnější</b> ze všech._ “Martin is <b>the most intelligent one</b> of them all.”
-
-
-
 Armenian qualitative adjectives and adverbs have only periphrastic comparative forms, most of them can have also a periphrastic superlative (see the [Degree]() feature), e. g. _խելացի_ “smart”, _ավելի խելացի_ “smarter”, _ամենախելացի_ “smartest”, _ամենից խելացի_, _բոլորից խելացի_ “smartest”. The morphological superlative forms are assigned the `Sup` [Degree]() feature. Equality comparisons are also periphrastic. If the standard of comparison is a nominal, it is marked morphologically by a ablative [Case]() or by a dative.
 
 * _Արամը եղբորից <b>խելացի</b> / <b>ավելի խելացի</b> / է_ ։ “Aram is <b>smarter</b> than his brother.”
