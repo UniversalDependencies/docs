@@ -198,7 +198,7 @@ nmpod:poss(talent, a-player's)
 punct(important, .)
 ~~~
 
-It is clear that the material in the complement _as Y_ can be clausal. It is also usually optional, as indicated above. For that reason, we usually make the complement an [advcl](), with the second _as_ analyzed as [mark](). That gives us:
+It is clear that the material in the complement _as Y_ can be clausal. It is also usually optional, for that reason, we usually make the complement an [advcl](), with the second _as_ analyzed as [mark](). That gives us:
 
 ~~~ sdparse
 Ես/PRON ավելացրի/VERB այնքան/DET[PronType=Dem] ալյուր/NOUN[SpaceAfter=No] ,/PUNCT որքան/SCONJ ասվում/VERB էր/AUX բաղադրատոմսում/NOUN[SpaceAfter=No] ։/PUNCT \n I put-in as-much flour as was called-for in-the-recipe .
@@ -338,7 +338,7 @@ In certain contexts the comparative complement combines both the action or adjec
 In these cases we consider more than to be a fixed multi-word expression because the two words are inseparable. One cannot say *more percent than 90*.
 
 ~~~ sdparse
-Դա/PRON ավելի/ADV քան/SCONJ հավանական/ADJ է/AUX[SpaceAfter=No] ։ \n That is more than likely .
+Դա/PRON ավելի/ADV քան/SCONJ հավանական/ADJ է/AUX[SpaceAfter=No] ։/PUNCT \n That is more than likely .
 nsubj(հավանական, Դա)
 nsubj(likely, That)
 cop(հավանական, է)
@@ -386,48 +386,30 @@ fixed(more, than)
 _Ավելի_ / _քիչ_ / _պակաս_ governs the case of the cardinal numeral.
 
 ~~~ sdparse
-Հարյուրից/NOUN[Case=Abl] ավելի/ADV մարդ/NOUN եկավ/VERB[SpaceAfter=No] : \n Came more-than 100 people .
+Հարյուրից/NOUN[Case=Abl] ավելի/ADV մարդ/NOUN եկավ/VERB[SpaceAfter=No] :/PUNCT \n Came more-than 100 people .
 nsubj(եկավ, մարդ)
 nsubj(Came, people)
-nmod(մարդ, Հարյուրից)
-nmod(people, 100)
-case(Հարյուրից, ավելի)
-case(100, more-than)
+advmod(եկավ, ավելի)
+advmod(Came, more-than)
+obl(ավելի, Հարյուրից)
+obl(more-than, 100)
+punct(եկավ, :)
+punct(Came, .)
 ~~~
 
 ~~~ sdparse
-Հարյուրից/NOUN[Case=Abl] քիչ/NOUN մարդ/NOUN եկավ/VERB[SpaceAfter=No] : \n Came less-than 100 people .
+Հարյուրից/NOUN[Case=Abl] քիչ/ADV[Degree=Pos] մարդ/NOUN եկավ/VERB[SpaceAfter=No] :/PUNCT \n Came less-than 100 people .
 nsubj(եկավ, մարդ)
 nsubj(Came, people)
-nmod(մարդ, Հարյուրից)
-nmod(people, 100)
-case(Հարյուրից, քիչ)
-case(100, less-than)
+advmod(եկավ, քիչ)
+advmod(Came, less-than)
+obl(քիչ, Հարյուրից)
+obl(less-than, 100)
+punct(եկավ, :)
+punct(Came, .)
 ~~~
 
 ## Noun phrases with quantifiers
-
-### Constructions with cardinal numerals
-
-See [flat]() and [compound]() on the compound numerals.
-
-Other types of QP:
-
-* _երկու.Nom ամբողջ.Nom.Sg չորս.Nom տասն(եր)որդական.Nom.Sg միլիոն.Nom.Sg դրամ.Nom.Sg_ “2.4 million drams” (i.e. “four tenth parts of million” with the ellipsis of “parts”)
-
-~~~ sdparse
-երկու ամբողջ չորս տասնորդական միլիոն դրամ \n two whole-parts four tenth million drams
-nummod(դրամ, միլիոն)
-nummod(drams, million)
-nummod(միլիոն, ամբողջ)
-nummod(million, whole-parts)
-nummod(տասնորդական, չորս)
-nummod(tenth, four)
-nummod(ամբողջ, երկու)
-nummod(whole-parts, two)
-conj(ամբողջ, տասնորդական)
-conj(whole-parts, tenth)
-~~~
 
 ### Constructions with numerals and adjectives
 
