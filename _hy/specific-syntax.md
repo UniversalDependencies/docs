@@ -180,13 +180,20 @@ punct(a-grave, ,-11)
 ~~~
 
 ~~~ sdparse
-Նպատակասլացությունը/NOUN նույնքան/ADV[PronType=Dem] կարևոր/ADJ[Degree=Pos] է/AUX[SpaceAfter=No] , որքան/SCONJ խաղացողի/NOUN տաղանդը/NOUN[SpaceAfter=No] ։ \n Commitment is as important as a-player's talent .
+Նպատակասլացությունը/NOUN նույնքան/ADV[PronType=Dem] կարևոր/ADJ[Degree=Pos] է/AUX[SpaceAfter=No] ,/PUNCT որքան/SCONJ խաղացողի/NOUN տաղանդը/NOUN[SpaceAfter=No] ։/PUNCT \n Commitment is as important as a-player's talent .
+nsubj(կարևոր, Նպատակասլացությունը)
+cop(կարևոր, է)
 advmod(կարևոր, նույնքան)
-advmod(important, as-13)
 case(տաղանդը, որքան)
-case(talent, as-15)
 obl(կարևոր, տաղանդը)
+punct(կարևոր, ։)
+punct(տաղանդը, ,)
+nsubj(important, Commitment)
+cop(important, is)
+advmod(important, as-13)
+case(talent, as-15)
 obl(important, talent)
+punct(important, .)
 ~~~
 
 It is clear that the material in the complement _as Y_ can be clausal. It is also usually optional, as indicated above. For that reason, we usually make the complement an [advcl](), with the second _as_ analyzed as [mark](). That gives us:
