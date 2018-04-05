@@ -95,18 +95,30 @@ punct(smart, .)
 
 ~~~ sdparse
 Արամը/PROPN ամենից/PRON[Case=Abl|Number=Sing|PronType=Tot] խելացի/ADJ[Degree=Pos] ուսանողն/NOUN է/AUX ։ \n Aram is the-smartest student of-all .
+nsubj(ուսանողն, Արամը)
+cop(ուսանողն, է)
 obl(խելացի, ամենից)
-obl(the-smartest, of-all)
 amod(ուսանողն, խելացի)
+punct(ուսանողն, ։)
+nsubj(student, Aram)
+cop(student, is)
+obl(the-smartest, of-all)
 amod(student, the-smartest)
+punct(ուսանողն, .)
 ~~~
 
 ~~~ sdparse
-Նա/PRON ինձնից/PRON[Case=Abl] շատ/ADV[Degree=Pos] է/AUX կարդում/VERB ։ \n He reads more than-me .
+Նա/PRON ինձնից/PRON[Case=Abl] շատ/ADV[Degree=Pos] է/AUX կարդում/VERB ։ \n He is reading more than-me .
+nsubj(կարդում, Նա)
+aux(կարդում, է)
 advmod(կարդում, շատ)
 obl(շատ, ինձնից)
-advmod(reads, more)
+punct(կարդում, ։)
+nsubj(reading, He)
+aux(reading, is)
+advmod(reading, more)
 obl(more, than-me)
+punct(reads, .)
 ~~~
 
 Note that in Armenian there is an another possibility when the base form of the adjective is used and the fact that it is being compared must be derived from the coding of the other participants, e.g., the standard of comparison.
