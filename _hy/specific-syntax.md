@@ -220,7 +220,7 @@ punct(put, .)
 ~~~
 
 ~~~ sdparse
-Նա/PRON այնքան/ADV[PronType=Dem] հրապուրիչ/ADJ էր/AUX[SpaceAfter=No] ,/PUNCT որ/SCONJ խմբագիրը/NOUN հիացավ/VERB[SpaceAfter=No] ։/PUNCT \n She was so attractive , that the-editor admired her.
+Նա/PRON այնքան/ADV[PronType=Dem] հրապուրիչ/ADJ էր/AUX[SpaceAfter=No] ,/PUNCT որ/SCONJ խմբագիրը/NOUN հիացավ/VERB[SpaceAfter=No] ։/PUNCT \n She was so attractive , that the-editor admired-her .
 nsubj(հրապուրիչ, Նա)
 cop(հրապուրիչ, էր)
 advmod(հրապուրիչ, այնքան)
@@ -231,10 +231,10 @@ punct(հիացավ, ,-5)
 nsubj(attractive, She)
 cop(attractive, was)
 advmod(attractive, so)
-advcl(so, admired)
-mark(admired, that)
+advcl(so, admired-her)
+mark(admired-her, that)
 punct(attractive, .)
-punct(attractive, ,-15)
+punct(admired-her, ,-15)
 ~~~
 
 ### Inequality Scalar Comparison
