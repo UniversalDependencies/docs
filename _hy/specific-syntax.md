@@ -28,6 +28,8 @@ nsubj(Հնչեցին, երգերից)
 nsubj(Sounded, from-songs)
 nmod:poss(երգերից, Կոմիտասի)
 nmod:poss(from-songs, of-Komitas)
+punct(Հնչեցին, ։)
+punct(Sounded, .)
 ~~~
 
 ## Adjectival and adverbial constructions
@@ -44,8 +46,14 @@ Armenian qualitative adjectives and adverbs have only periphrastic comparative f
 
 ~~~ sdparse
 Արամը/PROPN ամենախելացի/ADJ[Degree=Sup] ուսանողն/NOUN է/AUX ։ \n Aram is the-smartest student .
+nsubj(ուսանողն, Արամը)
 amod(ուսանողն, ամենախելացի)
+cop(ուսանողն, է)
+punct(ուսանողն, ։)
+nsubj(student, Aram)
 amod(student, the-smartest)
+cop(student, is)
+punct(student, .)
 ~~~
 
 To keep the analyses of the morphological and the periphrastic cases parallel
@@ -54,10 +62,16 @@ in the periphrastic examples the entity comapared to modifies still the adjectiv
 
 ~~~ sdparse
 Արամը/PROPN եղբորից/NOUN[Animacy=Inan|Case=Abl|Definite=Ind|Number=Sing] ավելի/ADV[Degree=Cmp] խելացի/ADJ[Degree=Pos] է/AUX ։ \n Aram is more smart than-his-brother .
+nsubj(խելացի, Արամը)
+cop(խելացի, է)
 obl(խելացի, եղբորից)
-obl(smart, than-his-brother)
 advmod(խելացի, ավելի)
+punct(խելացի, ։)
+nsubj(smart, Aram)
+cop(smart, is)
+obl(smart, than-his-brother)
 advmod(smart, more)
+punct(smart, .)
 ~~~
 
 ~~~ sdparse
