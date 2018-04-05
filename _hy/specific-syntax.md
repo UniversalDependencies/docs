@@ -34,45 +34,47 @@ nmod:poss(from-songs, of-Komitas)
 
 ### Comparative constructions
 
-Armenian qualitative adjectives and adverbs have only periphrastic comparative forms, most of them can have also a periphrastic superlative (see the [Degree]() feature), e. g. _խելացի_ “smart”, _ավելի խելացի_ “smarter”, _ամենախելացի_ “smartest”, _ամենից խելացի_, _բոլորից խելացի_ “smartest”. The morphological superlative forms are assigned the `Sup` [Degree]() feature.
+Unlike in English, most Czech adjectives and adverbs have morphological comparative and superlative forms (see the [cs-feat/Degree]() feature):
+_chytrý_ “smart”, _chytřejší_ “smarter”, _nejchytřejší_ “smartest”. Periphrastic constructions such as English _more intelligent_
+cannot be completely excluded but they are infrequent and often deemed poor style: _inteligentnější_ is preferred over _více inteligentní._
+The exception is when the adjective or adverb applies less to the entity being compared than to the entity being compared to:
+_méně inteligentní_ “less intelligent” is the only way of reversing the comparison.
+Equality comparisons are also periphrastic.
 
-The most frequently used comparative constructions are the following:
+* _Martin je <b>inteligentnější</b> než Vojta._ “Martin is <b>more intelligent</b> than Vojta.”
+* _Vojta je <b>méně inteligentní</b> než Martin._ “Vojta is <b>less intelligent</b> than Martin.”
+* _Vojta je <b>stejně inteligentní</b> jako Matěj._ “Vojta is <b>as intelligent</b> as Matěj.”
+* _Martin je <b>nejinteligentnější</b> ze všech._ “Martin is <b>the most intelligent one</b> of them all.”
 
-* _Արամը_.Nom _եղբորից_.Abl <b>_խելացի_</b> / <b>_ավելի խելացի_</b> / _է_ ։ “Aram is <b>smarter</b> than his brother.” (with both types of comparatives)
-* _Արամը_.Nom <b>_ավելի խելացի_</b> _է_, _քան (թե) եղբայրը_.Nom։ “Aram is <b>smarter</b> than his brother.”
-* _Արամը_.Nom _բոլոր_ _ուսանողներից_.Abl <b>_ամենից խելացին_</b> / <b>_ամենախելացին_</b> _է_ ։ “Aram is <b>the smartest one</b> of all the students.” (with both types of superlatives)
-* _Արամը_.Nom _եղբոր_.Dat _պես / նման / չափ_.ADP <b>_խելացի_</b> _է_ ։ “Aram is <b>smart</b> as his brother.” (equality comparison)
+
+
+Armenian qualitative adjectives and adverbs have only periphrastic comparative forms, most of them can have also a periphrastic superlative (see the [Degree]() feature), e. g. _խելացի_ “smart”, _ավելի խելացի_ “smarter”, _ամենախելացի_ “smartest”, _ամենից խելացի_, _բոլորից խելացի_ “smartest”. The morphological superlative forms are assigned the `Sup` [Degree]() feature. Equality comparisons are also periphrastic. If the standard of comparison is a nominal, it is marked morphologically by a ablative [Case]() or by a dative.
+
+* _Արամը եղբորից <b>խելացի</b> / <b>ավելի խելացի</b> / է_ ։ “Aram is <b>smarter</b> than his brother.”
+* _Արամը <b>ավելի խելացի</b> է, քան (թե) եղբայրը_ ։ “Aram is <b>smarter</b> than his brother.”
+* _Արամը <b>ամենից / բոլորից խելացի</b> / <b>ամենախելացի</b> ուսանողն է_ ։ “Aram is <b>the smartest one</b> of all the students.”
+* _Արամը եղբոր պես / նման / չափ <b>խելացի</b> է_ ։ “Aram is <b>smart</b> as his brother.”
 
 The “lesser degree” comparison (expressed periphrastically) is marked the same way:
 
-* _Արամը_.Nom <b>_նվազ խելացի_</b> / <b>_պակաս խելացի_</b> _է_, _քան (թե) եղբայրը_.Nom։ “Aram is <b>less smart</b> than his brother.” (with both types of comparatives)
+* _Արամը <b>նվազ / պակաս խելացի</b> է, քան (թե) եղբայրը_ ։ “Aram is <b>less smart</b> than his brother.”
 
 ~~~ sdparse
-Արամը/PROPN եղբորից/NOUN խելացի/ADJ[Degree=Pos] է/AUX ։ \n Aram is smart than-his-brother .
+Արամը/PROPN եղբորից/NOUN[Animacy=Inan|Case=Abl|Definite=Ind|Number=Sing] խելացի/ADJ[Degree=Pos] է/AUX ։ \n Aram is smart than-his-brother .
 obl(խելացի, եղբորից)
 obl(smart, than-his-brother)
 ~~~
 
 ~~~ sdparse
-Արամը/PROPN բոլոր/DET ուսանողներից/NOUN ամենախելացին/ADJ[Degree=Sup] է/AUX ։ \n Aram is the-smartest-one of-all the-students .
-obl(ամենախելացին, ուսանողներից)
-obl(the-smartest-one, the-students)
-det(ուսանողներից, բոլոր)
-det(the-students, of-all)
-~~~
-
-If the standard of comparison is a nominal, it is marked morphologically by a ablative [Case]() or by a dative:
-
-~~~ sdparse
-Սիրուններից/NOUN[Case=Abl] էլ/PART ամենասիրունն/ADJ[Degree=Sup] էիր/AUX դուն/PRON ։ \n You were the-most-beautiful from-the-beautiful-ones .
-obl(ամենասիրունն, Սիրուններից)
-obl(the-most-beautiful, from-the-beautiful-ones)
+Արամը/PROPN ամենախելացի/ADJ[Degree=Sup] ուսանողն/NOUN է/AUX ։ \n Aram is the-smartest student .
+amod(ուսանողն, ամենախելացի)
+amod(student, the-smartest)
 ~~~
 
 ~~~ sdparse
-Սիրունների/NOUN[Case=Dat] ամենասիրունն/ADJ[Degree=Sup] էիր/AUX դուն/PRON ։ \n You were the-most-beautiful of-the-beautiful-ones .
-obl(ամենասիրունն, Սիրունների)
-obl(the-most-beautiful, of-the-beautiful-ones)
+Արամը/PROPN ամենից / բոլորից/PRON[Case=Abl|Number=Sing|PronType=Tot] խելացի/ADJ[Degree=Pos] է/AUX ։ \n Aram is smart of-all .
+obl(խելացի, բոլորից)
+obl(smart, of-all)
 ~~~
 
 To keep the analyses of the morphological and the periphrastic cases parallel
@@ -80,7 +82,7 @@ To keep the analyses of the morphological and the periphrastic cases parallel
 in the periphrastic examples the entity comapared to modifies still the adjective and not the adverb:
 
 ~~~ sdparse
-Արամը/PROPN եղբորից/NOUN[Case=Abl] ավելի/ADV[Degree=Cmp] խելացի/ADJ[Degree=Pos] է/AUX ։ \n Aram is more smart than-his-brother .
+Արամը/PROPN եղբորից/NOUN[Animacy=Inan|Case=Abl|Definite=Ind|Number=Sing] ավելի/ADV[Degree=Cmp] խելացի/ADJ[Degree=Pos] է/AUX ։ \n Aram is more smart than-his-brother .
 obl(խելացի, եղբորից)
 obl(smart, than-his-brother)
 advmod(խելացի, ավելի)
@@ -88,7 +90,7 @@ advmod(smart, more)
 ~~~
 
 ~~~ sdparse
-Արամը/PROPN ավելի/ADV[Degree=Cmp] խելացի/ADJ[Degree=Pos] է/AUX , քան/SCONJ եղբայրը/NOUN ։ \n Aram is more smart , than his-brother .
+Արամը/PROPN ավելի/ADV[Degree=Cmp] խելացի/ADJ[Degree=Pos] է/AUX , քան/SCONJ եղբայրը/NOUN[Animacy=Inan|Case=Nom|Definite=Def|Number=Sing] ։ \n Aram is more smart , than his-brother .
 obl(խելացի, եղբայրը)
 obl(smart, his-brother)
 case(եղբայրը, քան)
@@ -96,19 +98,11 @@ case(his-brother, than)
 ~~~
 
 ~~~ sdparse
-Արամը/PROPN բոլոր/DET ուսանողներից/NOUN ամենից/ADV[Degree=Sup] խելացին/ADJ[Degree=Pos] է/AUX ։ \n Aram is the-most smartest-one of-all the-students .
-obl(խելացին, ուսանողներից)
-obl(smartest-one, the-students)
-det(ուսանողներից, բոլոր)
-det(the-students, of-all)
-advmod(խելացին, ամենից)
-advmod(smartest-one, the-most)
-~~~
-
-~~~ sdparse
-Արամը/PROPN բոլորից/PRON[Case=Abl] խելացի/ADJ[Degree=Pos] է/AUX ։ \n Aram is smart of-all .
-obl(խելացի, բոլորից)
-obl(smart, of-all)
+Արամը/PROPN ամենից/PRON[Case=Abl|Number=Sing|PronType=Tot] խելացի/ADJ[Degree=Pos] ուսանողն/NOUN է/AUX ։ \n Aram is the-smartest student of-all .
+obl(խելացի, ամենից)
+obl(the-smartest, of-all)
+amod(ուսանողն, խելացի)
+amod(student, the-smartest)
 ~~~
 
 ~~~ sdparse
