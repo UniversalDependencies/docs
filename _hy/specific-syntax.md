@@ -23,7 +23,7 @@ However, there are constructions which have non canonical case patterns.
 The constructions are instantiated by a middle voice verb, the first argument of which is in the Ablative case with a partitive meaning and not in the canonical Nominative case. The ablative argument is also labeled [nsubj]().
 
 ~~~ sdparse
-Հնչեցին/VERB Կոմիտասի/PROPN[Case=Dat] երգերից/NOUN[Case=Abl] ։/PUNCT \n Sounded from-songs of-Komitas .
+Հնչեցին/VERB Կոմիտասի/PROPN[Case=Dat] երգերից/NOUN[Case=Abl|SpaceAfter=No] ։/PUNCT \n Sounded from-songs of-Komitas .
 nsubj(Հնչեցին, երգերից)
 nsubj(Sounded, from-songs)
 nmod:poss(երգերից, Կոմիտասի)
@@ -45,7 +45,7 @@ Armenian qualitative adjectives and adverbs have only periphrastic comparative f
 * _Արամը եղբոր պես / նման / չափ <b>խելացի</b> է_ ։ “Aram is <b>smart</b> as his brother.”
 
 ~~~ sdparse
-Արամը/PROPN ամենախելացի/ADJ[Degree=Sup] ուսանողն/NOUN է/AUX ։/PUNCT \n Aram is the-smartest student .
+Արամը/PROPN ամենախելացի/ADJ[Degree=Sup] ուսանողն/NOUN է/AUX[SpaceAfter=No] ։/PUNCT \n Aram is the-smartest student .
 nsubj(ուսանողն, Արամը)
 amod(ուսանողն, ամենախելացի)
 cop(ուսանողն, է)
@@ -61,7 +61,7 @@ To keep the analyses of the morphological and the periphrastic cases parallel
 in the periphrastic examples the entity comapared to modifies still the adjective and not the adverb:
 
 ~~~ sdparse
-Արամը/PROPN եղբորից/NOUN[Animacy=Inan|Case=Abl|Definite=Ind|Number=Sing] ավելի/ADV[Degree=Cmp] խելացի/ADJ[Degree=Pos] է/AUX ։/PUNCT \n Aram is more smart than-his-brother .
+Արամը/PROPN եղբորից/NOUN[Animacy=Inan|Case=Abl|Definite=Ind|Number=Sing] ավելի/ADV[Degree=Cmp] խելացի/ADJ[Degree=Pos] է/AUX[SpaceAfter=No] ։/PUNCT \n Aram is more smart than-his-brother .
 nsubj(խելացի, Արամը)
 cop(խելացի, է)
 obl(խելացի, եղբորից)
@@ -75,7 +75,7 @@ punct(smart, .)
 ~~~
 
 ~~~ sdparse
-Արամը/PROPN ավելի/ADV[Degree=Cmp] խելացի/ADJ[Degree=Pos] է/AUX ,/PUNCT քան/SCONJ եղբայրը/NOUN[Animacy=Inan|Case=Nom|Definite=Def|Number=Sing] ։/PUNCT \n Aram is more smart , than his-brother .
+Արամը/PROPN ավելի/ADV[Degree=Cmp] խելացի/ADJ[Degree=Pos] է/AUX[SpaceAfter=No] ,/PUNCT քան/SCONJ եղբայրը/NOUN[Animacy=Inan|Case=Nom|Definite=Def|Number=Sing|SpaceAfter=No] ։/PUNCT \n Aram is more smart , than his-brother .
 
 nsubj(խելացի, Արամը)
 cop(խելացի, է)
@@ -94,7 +94,7 @@ punct(smart, .)
 ~~~
 
 ~~~ sdparse
-Արամը/PROPN ամենից/PRON[Case=Abl|Number=Sing|PronType=Tot] խելացի/ADJ[Degree=Pos] ուսանողն/NOUN է/AUX ։/PUNCT \n Aram is the-smartest student of-all .
+Արամը/PROPN ամենից/PRON[Case=Abl|Number=Sing|PronType=Tot] խելացի/ADJ[Degree=Pos] ուսանողն/NOUN է/AUX[SpaceAfter=No] ։/PUNCT \n Aram is the-smartest student of-all .
 nsubj(ուսանողն, Արամը)
 cop(ուսանողն, է)
 obl(խելացի, ամենից)
@@ -108,7 +108,7 @@ punct(student, .)
 ~~~
 
 ~~~ sdparse
-Նա/PRON ինձնից/PRON[Case=Abl] շատ/ADV[Degree=Pos] է/AUX կարդում/VERB ։/PUNCT \n He is reading more than-me .
+Նա/PRON ինձնից/PRON[Case=Abl] շատ/ADV[Degree=Pos] է/AUX կարդում/VERB[SpaceAfter=No] ։/PUNCT \n He is reading more than-me .
 nsubj(կարդում, Նա)
 aux(կարդում, է)
 advmod(կարդում, շատ)
@@ -124,7 +124,7 @@ punct(reading, .)
 Very commonly the base form of the adjective is used and the fact that it is being compared must be derived from the coding of the other participants, e.g., the standard of comparison.
 
 ~~~ sdparse
-Արամը/PROPN եղբորից/NOUN[Animacy=Inan|Case=Abl|Definite=Ind|Number=Sing] խելացի/ADJ[Degree=Pos] է/AUX ։/PUNCT \n Aram is smart than-his-brother .
+Արամը/PROPN եղբորից/NOUN[Animacy=Inan|Case=Abl|Definite=Ind|Number=Sing] խելացի/ADJ[Degree=Pos] է/AUX[SpaceAfter=No] ։/PUNCT \n Aram is smart than-his-brother .
 nsubj(խելացի, Արամը)
 cop(խելացի, է)
 obl(խելացի, եղբորից)
@@ -136,7 +136,7 @@ punct(smart, .)
 ~~~
 
 ~~~ sdparse
-Արամը/PROPN բոլորից/PRON[Case=Abl|Number=Sing|PronType=Tot] խելացի/ADJ[Degree=Pos] է/AUX ։/PUNCT \n Aram is smart of-all .
+Արամը/PROPN բոլորից/PRON[Case=Abl|Number=Sing|PronType=Tot] խելացի/ADJ[Degree=Pos] է/AUX[SpaceAfter=No] ։/PUNCT \n Aram is smart of-all .
 nsubj(խելացի, Արամը)
 cop(խելացի, է)
 obl(խելացի, բոլորից)
@@ -149,32 +149,38 @@ punct(smart, .)
 
 ### Relations in Equality Comparison
 
-In constructions of the form _as X as Y_ or _the same X as Y_, X and Y can be of a range of syntactic types. However, this first _as_ may not modify the head of X, it may modify an existing modifier of the head of X. Its role is adverbial ([advmod]()), consistent with other kinds of degree modification.
-
-We take the complement of the comparative (that is, the standard of comparison) as an oblique dependent of the first part. 
+In constructions of the form _as X as Y_ or _the same X as Y_, X and Y can be of a range of syntactic types. However, this first _as_ may not modify the head of X, it may modify an existing modifier of the head of X. Its role is adverbial ([advmod]()), consistent with other kinds of degree modification. We take the complement of the comparative (that is, the standard of comparison) as an oblique dependent of the first part. 
 
 ~~~ sdparse
-Արամը/PROPN եղբոր/NOUN պես/նման/չափ/ADP խելացի/ADJ[Degree=Pos] է/AUX ։ \n Aram is smart as his-brother .
+Արամը/PROPN եղբոր/NOUN[Case=Dat|Definite=Ind|Number=Sing] չափ/ADP[AdpType=Post] խելացի/ADJ[Degree=Pos] է/AUX[SpaceAfter=No] ։/PUNCT \n Aram is smart as his-brother .
+nsubj(խելացի, Արամը)
+cop(խելացի, է)
 obl(խելացի, եղբոր)
-obl(smart, his-brother)
 case(եղբոր, պես)
+punct(խելացի, ։)
+nsubj(smart, Aram)
+cop(smart, is)
+obl(smart, his-brother)
 case(his-brother, as)
+punct(խելացի, .)
 ~~~
 
 ~~~ sdparse
-մթին/ADJ[Degree=Pos] ու/CCONJ սառը/ADJ[Degree=Pos] , ինչպես/SCONJ շիրիմ/NOUN \n dark and cold like a-grave
+մթին/ADJ[Degree=Pos] ու/CCONJ սառը/ADJ[Degree=Pos|SpaceAfter=No] ,/PUNCT ինչպես/SCONJ շիրիմ/NOUN \n dark and cold , like a-grave
 case(շիրիմ, ինչպես)
 obl(մթին, շիրիմ)
 cc(սառը, ու)
 conj(մթին, սառը)
+punct(շիրիմ, ,-4)
 case(a-grave, like)
 obl(dark, a-grave)
 cc(cold, and)
 conj(dark, cold)
+punct(a-grave, ,-11)
 ~~~
 
 ~~~ sdparse
-Նպատակասլացությունը/NOUN նույնքան/ADV[PronType=Dem] կարևոր/ADJ[Degree=Pos] է/AUX , որքան/SCONJ խաղացողի/NOUN տաղանդը/NOUN ։ \n Commitment is as important as a-player's talent .
+Նպատակասլացությունը/NOUN նույնքան/ADV[PronType=Dem] կարևոր/ADJ[Degree=Pos] է/AUX[SpaceAfter=No] , որքան/SCONJ խաղացողի/NOUN տաղանդը/NOUN[SpaceAfter=No] ։ \n Commitment is as important as a-player's talent .
 advmod(կարևոր, նույնքան)
 advmod(important, as-13)
 case(տաղանդը, որքան)
@@ -186,7 +192,7 @@ obl(important, talent)
 It is clear that the material in the complement _as Y_ can be clausal. It is also usually optional, as indicated above. For that reason, we usually make the complement an [advcl](), with the second _as_ analyzed as [mark](). That gives us:
 
 ~~~ sdparse
-Ես/PRON ավելացրի/VERB այնքան/ADV[PronType=Dem] ալյուր/NOUN , որքան/SCONJ ասվում/VERB էր/AUX բաղադրատոմսում/NOUN ։ \n I put in as-much flour as was called-for in-the-recipe .
+Ես/PRON ավելացրի/VERB այնքան/ADV[PronType=Dem] ալյուր/NOUN[SpaceAfter=No] , որքան/SCONJ ասվում/VERB էր/AUX բաղադրատոմսում/NOUN[SpaceAfter=No] ։ \n I put in as-much flour as was called-for in-the-recipe .
 amod(ալյուր, այնքան)
 amod(flour, as-much)
 advcl(այնքան, ասվում)
@@ -196,7 +202,7 @@ mark(called-for, as)
 ~~~
 
 ~~~ sdparse
-Նա/PRON այնքան/ADV[PronType=Dem] հրապուրիչ/ADJ էր/AUX , որ/SCONJ խմբագիրը/NOUN հիացավ/VERB ։ \n She was so attractive , that the-editor admired her.
+Նա/PRON այնքան/ADV[PronType=Dem] հրապուրիչ/ADJ էր/AUX[SpaceAfter=No] , որ/SCONJ խմբագիրը/NOUN հիացավ/VERB[SpaceAfter=No] ։ \n She was so attractive , that the-editor admired her.
 advmod(հրապուրիչ, այնքան)
 advmod(attractive, so)
 advcl(այնքան, հիացավ)
@@ -211,7 +217,7 @@ If a property is compared to a clause, the clause is attached as [advcl]() inste
 and the conjunction _(քան)_ is attached to the subordinate clause as [mark]().
 
 ~~~ sdparse
-Արամը/PROPN շատ/ADV ավելի/ADV[Degree=Cmp] խելացի/ADJ[Degree=Pos] է/AUX , քան/SCONJ թվում/VERB է/AUX ։ \n Aram is much more smart , than it seems .
+Արամը/PROPN շատ/ADV ավելի/ADV[Degree=Cmp] խելացի/ADJ[Degree=Pos] է/AUX[SpaceAfter=No] , քան/SCONJ թվում/VERB է/AUX[SpaceAfter=No] ։ \n Aram is much more smart , than it seems .
 advcl(խելացի, թվում)
 advcl(smart, seems)
 mark(թվում, քան)
@@ -223,7 +229,7 @@ advmod(smart, more)
 ~~~
 
 ~~~ sdparse
-շատ/ADV ավելի/ADV[Degree=Cmp] բարդ/ADJ[Degree=Pos] խնդիր/NOUN , քան/SCONJ կարծում/VERB ես \n much more difficult problem , than you thought
+շատ/ADV ավելի/ADV[Degree=Cmp] բարդ/ADJ[Degree=Pos] խնդիր/NOUN[SpaceAfter=No] , քան/SCONJ կարծում/VERB ես \n much more difficult problem , than you thought
 amod(խնդիր, բարդ)
 amod(problem, difficult)
 advmod(բարդ, ավելի)
@@ -281,7 +287,7 @@ In certain contexts the comparative complement combines both the action or adjec
 In these cases we consider more than to be a fixed multi-word expression because the two words are inseparable. One cannot say *more percent than 90*.
 
 ~~~ sdparse
-Դա/PRON ավելի/ADV քան/SCONJ հավանական/ADJ է/AUX ։ \n That is more than likely .
+Դա/PRON ավելի/ADV քան/SCONJ հավանական/ADJ է/AUX[SpaceAfter=No] ։ \n That is more than likely .
 nsubj(հավանական, Դա)
 nsubj(likely, That)
 cop(հավանական, է)
@@ -329,7 +335,7 @@ fixed(more, than)
 _Ավելի_ / _քիչ_ / _պակաս_ governs the case of the cardinal numeral.
 
 ~~~ sdparse
-Հարյուրից/NOUN[Case=Abl] ավելի/ADV մարդ/NOUN եկավ/VERB : \n Came more-than 100 people .
+Հարյուրից/NOUN[Case=Abl] ավելի/ADV մարդ/NOUN եկավ/VERB[SpaceAfter=No] : \n Came more-than 100 people .
 nsubj(եկավ, մարդ)
 nsubj(Came, people)
 nmod(մարդ, Հարյուրից)
@@ -339,7 +345,7 @@ case(100, more-than)
 ~~~
 
 ~~~ sdparse
-Հարյուրից/NOUN[Case=Abl] քիչ/NOUN մարդ/NOUN եկավ/VERB : \n Came less-than 100 people .
+Հարյուրից/NOUN[Case=Abl] քիչ/NOUN մարդ/NOUN եկավ/VERB[SpaceAfter=No] : \n Came less-than 100 people .
 nsubj(եկավ, մարդ)
 nsubj(Came, people)
 nmod(մարդ, Հարյուրից)
