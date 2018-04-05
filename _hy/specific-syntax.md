@@ -23,7 +23,7 @@ However, there are constructions which have non canonical case patterns.
 The constructions are instantiated by a middle voice verb, the first argument of which is in the Ablative case with a partitive meaning and not in the canonical Nominative case. The ablative argument is also labeled [nsubj]().
 
 ~~~ sdparse
-Հնչեցին/VERB Կոմիտասի/PROPN[Case=Dat] երգերից/NOUN[Case=Abl] ։ \n Sounded from-songs of-Komitas .
+Հնչեցին/VERB Կոմիտասի/PROPN[Case=Dat] երգերից/NOUN[Case=Abl] ։/PUNCT \n Sounded from-songs of-Komitas .
 nsubj(Հնչեցին, երգերից)
 nsubj(Sounded, from-songs)
 nmod:poss(երգերից, Կոմիտասի)
@@ -45,7 +45,7 @@ Armenian qualitative adjectives and adverbs have only periphrastic comparative f
 * _Արամը եղբոր պես / նման / չափ <b>խելացի</b> է_ ։ “Aram is <b>smart</b> as his brother.”
 
 ~~~ sdparse
-Արամը/PROPN ամենախելացի/ADJ[Degree=Sup] ուսանողն/NOUN է/AUX ։ \n Aram is the-smartest student .
+Արամը/PROPN ամենախելացի/ADJ[Degree=Sup] ուսանողն/NOUN է/AUX ։/PUNCT \n Aram is the-smartest student .
 nsubj(ուսանողն, Արամը)
 amod(ուսանողն, ամենախելացի)
 cop(ուսանողն, է)
@@ -61,7 +61,7 @@ To keep the analyses of the morphological and the periphrastic cases parallel
 in the periphrastic examples the entity comapared to modifies still the adjective and not the adverb:
 
 ~~~ sdparse
-Արամը/PROPN եղբորից/NOUN[Animacy=Inan|Case=Abl|Definite=Ind|Number=Sing] ավելի/ADV[Degree=Cmp] խելացի/ADJ[Degree=Pos] է/AUX ։ \n Aram is more smart than-his-brother .
+Արամը/PROPN եղբորից/NOUN[Animacy=Inan|Case=Abl|Definite=Ind|Number=Sing] ավելի/ADV[Degree=Cmp] խելացի/ADJ[Degree=Pos] է/AUX ։/PUNCT \n Aram is more smart than-his-brother .
 nsubj(խելացի, Արամը)
 cop(խելացի, է)
 obl(խելացի, եղբորից)
@@ -75,7 +75,7 @@ punct(smart, .)
 ~~~
 
 ~~~ sdparse
-Արամը/PROPN ավելի/ADV[Degree=Cmp] խելացի/ADJ[Degree=Pos] է/AUX , քան/SCONJ եղբայրը/NOUN[Animacy=Inan|Case=Nom|Definite=Def|Number=Sing] ։ \n Aram is more smart , than his-brother .
+Արամը/PROPN ավելի/ADV[Degree=Cmp] խելացի/ADJ[Degree=Pos] է/AUX , քան/SCONJ եղբայրը/NOUN[Animacy=Inan|Case=Nom|Definite=Def|Number=Sing] ։/PUNCT \n Aram is more smart , than his-brother .
 
 nsubj(խելացի, Արամը)
 cop(խելացի, է)
@@ -94,7 +94,7 @@ punct(smart, .)
 ~~~
 
 ~~~ sdparse
-Արամը/PROPN ամենից/PRON[Case=Abl|Number=Sing|PronType=Tot] խելացի/ADJ[Degree=Pos] ուսանողն/NOUN է/AUX ։ \n Aram is the-smartest student of-all .
+Արամը/PROPN ամենից/PRON[Case=Abl|Number=Sing|PronType=Tot] խելացի/ADJ[Degree=Pos] ուսանողն/NOUN է/AUX ։/PUNCT \n Aram is the-smartest student of-all .
 nsubj(ուսանողն, Արամը)
 cop(ուսանողն, է)
 obl(խելացի, ամենից)
@@ -108,7 +108,7 @@ punct(student, .)
 ~~~
 
 ~~~ sdparse
-Նա/PRON ինձնից/PRON[Case=Abl] շատ/ADV[Degree=Pos] է/AUX կարդում/VERB ։ \n He is reading more than-me .
+Նա/PRON ինձնից/PRON[Case=Abl] շատ/ADV[Degree=Pos] է/AUX կարդում/VERB ։/PUNCT \n He is reading more than-me .
 nsubj(կարդում, Նա)
 aux(կարդում, է)
 advmod(կարդում, շատ)
@@ -124,7 +124,7 @@ punct(reading, .)
 Note that in Armenian there is an another possibility when the base form of the adjective is used and the fact that it is being compared must be derived from the coding of the other participants, e.g., the standard of comparison.
 
 ~~~ sdparse
-Արամը/PROPN եղբորից/NOUN[Animacy=Inan|Case=Abl|Definite=Ind|Number=Sing] խելացի/ADJ[Degree=Pos] է/AUX ։ \n Aram is smart than-his-brother .
+Արամը/PROPN եղբորից/NOUN[Animacy=Inan|Case=Abl|Definite=Ind|Number=Sing] խելացի/ADJ[Degree=Pos] է/AUX ։/PUNCT \n Aram is smart than-his-brother .
 nsubj(խելացի, Արամը)
 cop(խելացի, է)
 obl(խելացի, եղբորից)
@@ -136,7 +136,7 @@ punct(smart, .)
 ~~~
 
 ~~~ sdparse
-Արամը/PROPN բոլորից/PRON[Case=Abl|Number=Sing|PronType=Tot] խելացի/ADJ[Degree=Pos] է/AUX ։ \n Aram is smart of-all .
+Արամը/PROPN բոլորից/PRON[Case=Abl|Number=Sing|PronType=Tot] խելացի/ADJ[Degree=Pos] է/AUX ։/PUNCT \n Aram is smart of-all .
 nsubj(խելացի, Արամը)
 cop(խելացի, է)
 obl(խելացի, բոլորից)
