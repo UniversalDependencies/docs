@@ -254,6 +254,17 @@ Example:
     4   clue    clue    NOUN    NN    Number=Sing                       2   obj     _   SpaceAfter=No
     5   .       .       PUNCT   .     _                                 2   punct   _   _
 
+    # sent_id = panc0.s4
+    # text = तत् यथानुश्रूयते।
+    # translit = tat yathānuśrūyate.
+    # text_fr = Voilà ce qui nous est parvenu par la tradition orale.
+    # text_en = This is what is heard.
+    1   तत्	तद्	DET	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Dem	3	nsubj:cop	_	Translit=tat|LTranslit=tad|Gloss=it
+    2-3   यथानुश्रूयते	_	_	_	_	_	_	_	SpaceAfter=No
+    2   यथा	यथा	ADV	_	PronType=Rel	3	advmod	_	Translit=yathā|LTranslit=yathā|Gloss=how
+    3   अनुश्रूयते	अनु-श्रु	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Translit=anuśrūyate|LTranslit=anu-śru|Gloss=it-is-heard
+    4   ।	।	PUNCT	_	_	3	punct	_	Translit=.|LTranslit=.|Gloss=.
+
 # Paragraph and Document Boundaries
 
 In addition, we define sentence-level and token-level comments (attributes) that mark paragraph and document boundaries.
