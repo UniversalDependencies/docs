@@ -34,7 +34,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
 * Merge the `dev` branch into `master` in the shared task repositories.
   The `master` branch should not be touched the next seven months and it should have exactly the contents that was officially
   released and used in the shared task.<br />
-  <code>for i in $(cat shared_task_treebanks.txt) ; do echo $i ; cd $i ; git checkout master ; git pull --no-edit ; git merge dev ; git push ; git checkout dev ; cd .. ; echo ; done</code>
+  <code>for i in $(cat shared_task_treebanks.txt) ; do echo $i ; cd $i ; git checkout master ; git pull --no-edit ; git merge dev --no-edit ; git push ; git checkout dev ; cd .. ; echo ; done</code>
 * Check for conflicts from the previous step. If people misbehaved and pushed commits to `master`, even after a revert automatic merging may no longer be possible. We must resolve all conflicts manually before going on! The conflicted repositories are still switched to the `master` branch and git will not allow any further operations with them!<br />
   <code>for i in $(cat shared_task_treebanks.txt) ; do echo $i ; cd $i ; if ( git status | grep conflict ) ; then echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX CONFLICT XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX ; sleep 2 ; else echo OK ; fi ; cd .. ; echo ; done</code>
   * <code>cd UD_...(the-one-with-conflict) ; git status</code> will show what files have a problem. Let's assume that only `README.txt` has a problem. This is how we replace it with the version from the `dev` branch and conclude the merge:<br />
@@ -86,7 +86,7 @@ Až to bude v masteru:
   The `master` branch should not be touched the next six months and it should have exactly the contents that was officially
   released. In fact, the individual data providers should never commit anything to the `master` branch, only to `dev` branch.
   (But we currently do not have means to enforce it. If someone commits to `master`, we will have to remove the commits from the history manually, using `git revert`.)<br />
-  <code>for i in UD_* ; do echo $i ; cd $i ; git checkout master ; git pull --no-edit ; git merge dev ; git push ; git checkout dev ; cd .. ; echo ; done</code>
+  <code>for i in UD_* ; do echo $i ; cd $i ; git checkout master ; git pull --no-edit ; git merge dev --no-edit ; git push ; git checkout dev ; cd .. ; echo ; done</code>
 * Check for conflicts from the previous step. If people misbehaved and pushed commits to `master`, even after a revert automatic merging may no longer be possible. We must resolve all conflicts manually before going on! The conflicted repositories are still switched to the `master` branch and git will not allow any further operations with them!<br />
   <code>for i in UD_* ; do echo $i ; cd $i ; if ( git status | grep conflict ) ; then echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX CONFLICT XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX ; sleep 2 ; else echo OK ; fi ; cd .. ; echo ; done</code>
   * <code>cd UD_...(the-one-with-conflict) ; git status</code> will show what files have a problem. Let's assume that only `README.txt` has a problem. This is how we replace it with the version from the `dev` branch and conclude the merge:<br />
