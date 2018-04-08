@@ -27,6 +27,8 @@ See [here](release_checklist.html) for the checklist for data contributors.
   (Its source code was temporarily modified to contain the list of shared task treebanks and only look at these!)
   It will visit all UD_* repositories and report any missing files, unexpected or unexpectedly named files.
   It will also collect information such as the list of contributors (we need this metadata for Lindat).
+* Update statistics in the `stats.xml` file in each repository:<br />
+  <code>for i in $(cat shared_task_treebanks.txt) ; do echo $i ; cd $i ; ( cat *.conllu | ../tools/conllu-stats.pl > stats.xml ) ; git add stats.xml ; git commit -m 'Updated statistics.' ; git push ; cd .. ; echo ; done</code>
 
 ## Full checklist
 
