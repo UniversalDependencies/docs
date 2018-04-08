@@ -23,6 +23,8 @@ See [here](release_checklist.html) for the checklist for data contributors.
   (results of the validator are [available on-line](http://quest.ms.mff.cuni.cz/cgi-bin/zeman/unidep/validation-report.pl)
   but make sure that no repository is missing there).<br />
   <code>for i in $(cat shared_task_treebanks.txt) ; do cd $i ; if [ -f *-test.conllu ] ; then for j in *.conllu ; do x=$(echo $j | perl -pe 'chomp; s/_.*//') ; if ../tools/validate.py --lang $x $j &gt;&amp; /dev/null ; then echo $j valid ; else echo $j INVALID ==================== ; fi ; done ; fi ; cd .. ; done</code>
+* Make sure that there are not significant overlaps between training and dev/test files of treebanks of one language.<br />
+  <code>check_overlaps.pl $(cat shared_task_treebanks.txt) |& tee overlap.log</code>
 * Run `tools/check_files.pl |& tee release-2.2st-report.txt | less`.
   (Its source code was temporarily modified to contain the list of shared task treebanks and only look at these!)
   It will visit all UD_* repositories and report any missing files, unexpected or unexpectedly named files.
@@ -51,6 +53,8 @@ Až to bude v masteru:
   WARNING: The following command tags all UD repositories, including those that are not part of the current release.<br />
   <code>for i in UD_* docs tools ; do echo $i ; cd $i ; git tag r2.1 ; git push --tags ; cd .. ; echo ; done</code>
 * Tell Anša Vernerová that she can start importing the data to Kontext (ideally the announcement about the release would include links to PML-TQ, Kontext and SETS).
+* Upload data to TIRA.
+* Announce it to the shared task participants.
 
 ## Full checklist
 
@@ -62,6 +66,8 @@ Až to bude v masteru:
   (results of the validator are [available on-line](http://quest.ms.mff.cuni.cz/cgi-bin/zeman/unidep/validation-report.pl)
   but make sure that no repository is missing there).<br />
   <code>for i in UD_* ; do cd $i ; if [ -f *-test.conllu ] ; then for j in *.conllu ; do x=$(echo $j | perl -pe 'chomp; s/_.*//') ; if ../tools/validate.py --lang $x $j &gt;&amp; /dev/null ; then echo $j valid ; else echo $j INVALID ==================== ; fi ; done ; fi ; cd .. ; done</code>
+* Make sure that there are not significant overlaps between training and dev/test files of treebanks of one language.<br />
+  <code>check_overlaps.pl $(cat shared_task_treebanks.txt) |& tee overlap.log</code>
 * Run `tools/check_files.pl |& tee release-2.1-report.txt | less`.
   It will visit all UD_* repositories and report any missing files, unexpected or unexpectedly named files.
   It will also collect information such as the list of contributors (we need this metadata for Lindat).
