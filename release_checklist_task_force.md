@@ -10,12 +10,34 @@ This checklist describes the steps needed in order to release a new version of t
 It is meant for the maintenance task force rather than individual treebank teams.
 See [here](release_checklist.html) for the checklist for data contributors.
 
+## Partial checklist for the shared task treebanks in UD 2.2 (April 2018)
+
+* Freeze the list of treebanks that will be used in the shared task. There are two sources from
+  which the list can be derived: the online validation report, and output of `tools/check_files.pl`.
+  Save the list as `shared_task_treebanks.txt`.
 * Make sure that you have local clones of all UD_* repositories that should be released.
   This step cannot be automated (unless you write a script that queries Github about all repositories belonging to the UniversalDependencies organization).
 * Make sure you have the most current content of all the repositories (note that this command assumes you have not modified your local copy of the data without pushing it back; if this is the case, you will see lists of modified files in the output and you will have to resolve it). Also make sure that you are working with the `dev` branch:<br />
   <code>for i in UD_* ; do echo $i ; cd $i ; git checkout dev ; git pull --no-edit ; cd .. ; echo ; done</code>
-* Make sure that all CoNLL-U files are formally valid (results of the validator are [available on-line](validation.html) but make sure that no repository is missing there).<br />
-  <code>for i in UD_* ; do cd $i ; if [ -f *-test.conllu ] ; then for j in *.conllu ; do x=$(echo $j | perl -pe 'chomp; s/-ud.*//') ; if ../tools/validate.py --lang $x $j &gt;&amp; /dev/null ; then echo $j valid ; else echo $j INVALID ==================== ; fi ; done ; fi ; cd .. ; done</code>
+* Make sure that all CoNLL-U files are formally valid
+  (results of the validator are [available on-line](http://quest.ms.mff.cuni.cz/cgi-bin/zeman/unidep/validation-report.pl)
+  but make sure that no repository is missing there).<br />
+  <code>for i in $(cat shared_task_treebanks.txt) ; do cd $i ; if [ -f *-test.conllu ] ; then for j in *.conllu ; do x=$(echo $j | perl -pe 'chomp; s/_.*//') ; if ../tools/validate.py --lang $x $j &gt;&amp; /dev/null ; then echo $j valid ; else echo $j INVALID ==================== ; fi ; done ; fi ; cd .. ; done</code>
+* Run `tools/check_files.pl |& tee release-2.2st-report.txt | less`.
+  (Its source code was temporarily modified to contain the list of shared task treebanks and only look at these!)
+  It will visit all UD_* repositories and report any missing files, unexpected or unexpectedly named files.
+  It will also collect information such as the list of contributors (we need this metadata for Lindat).
+
+## Full checklist
+
+* Make sure that you have local clones of all UD_* repositories that should be released.
+  This step cannot be automated (unless you write a script that queries Github about all repositories belonging to the UniversalDependencies organization).
+* Make sure you have the most current content of all the repositories (note that this command assumes you have not modified your local copy of the data without pushing it back; if this is the case, you will see lists of modified files in the output and you will have to resolve it). Also make sure that you are working with the `dev` branch:<br />
+  <code>for i in UD_* ; do echo $i ; cd $i ; git checkout dev ; git pull --no-edit ; cd .. ; echo ; done</code>
+* Make sure that all CoNLL-U files are formally valid
+  (results of the validator are [available on-line](http://quest.ms.mff.cuni.cz/cgi-bin/zeman/unidep/validation-report.pl)
+  but make sure that no repository is missing there).<br />
+  <code>for i in UD_* ; do cd $i ; if [ -f *-test.conllu ] ; then for j in *.conllu ; do x=$(echo $j | perl -pe 'chomp; s/_.*//') ; if ../tools/validate.py --lang $x $j &gt;&amp; /dev/null ; then echo $j valid ; else echo $j INVALID ==================== ; fi ; done ; fi ; cd .. ; done</code>
 * Run `tools/check_files.pl |& tee release-2.1-report.txt | less`.
   It will visit all UD_* repositories and report any missing files, unexpected or unexpectedly named files.
   It will also collect information such as the list of contributors (we need this metadata for Lindat).
