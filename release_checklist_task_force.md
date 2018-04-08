@@ -33,9 +33,24 @@ See [here](release_checklist.html) for the checklist for data contributors.
   The `master` branch should not be touched the next seven months and it should have exactly the contents that was officially
   released and used in the shared task.<br />
   <code>for i in $(cat shared_task_treebanks.txt) ; do echo $i ; cd $i ; git checkout master ; git pull --no-edit ; git merge dev ; git push ; git checkout dev ; cd .. ; echo ; done</code>
+* Check for conflicts from the previous step. If people misbehaved and pushed commits to `master`, even after a revert automatic merging may no longer be possible. We must resolve all conflicts manually before going on! The conflicted repositories are still switched to the `master` branch and git will not allow any further operations with them!<br />
+  <code>for i in $(cat shared_task_treebanks.txt) ; do echo $i ; cd $i ; if ( git status | grep conflict ) ; then echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX CONFLICT XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX ; sleep 2 ; else echo OK ; fi ; cd .. ; echo ; done</code>
+  * <code>cd UD_...(the-one-with-conflict) ; git status</code> will show what files have a problem. Let's assume that only `README.txt` has a problem. This is how we replace it with the version from the `dev` branch and conclude the merge:<br />
+    <code>git checkout --theirs README.txt ; git add README.txt ; git commit -m 'Merge branch dev' ; git push ; git checkout dev ; cd ..</code>
+* After resolving the conflicts do not forget to checkout the `dev` branch again! (If there were no conflicts, we are already back in `dev`.)<br />
+  <code>for i in $(cat shared_task_treebanks.txt) ; do echo $i ; cd $i ; git checkout dev ; cd .. ; echo ; done</code>
 
 Až to bude v masteru:
 * Run the script that refreshes the title page of Universal Dependencies (list of languages, treebanks and their properties).
+* Tag the current commit in all repositories with the tag of the current release (`git tag r2.1` for UD 2.1).
+  Push the tag to Github: `git push origin --tags`.
+  You may even tag a particular commit retroactively: `git tag -a r2.1 9fceb02`.
+  If the repository is updated after you assigned the tag and you need to re-assign the tag to a newer commit,
+  this is how you remove the tag from where it is now: `git tag -d r2.1`.
+  And this is how you remove it from Github: `git push origin :refs/tags/r2.1`.
+  WARNING: The following command tags all UD repositories, including those that are not part of the current release.<br />
+  <code>for i in UD_* docs tools ; do echo $i ; cd $i ; git tag r2.1 ; git push --tags ; cd .. ; echo ; done</code>
+* Tell Anša Vernerová that she can start importing the data to Kontext (ideally the announcement about the release would include links to PML-TQ, Kontext and SETS).
 
 ## Full checklist
 
