@@ -24,7 +24,7 @@ Most Armenian adjectives inflect for [Degree]() (_մեծ, ավելի մեծ, ա�
 -	_կանաչ_ “green”
 -	_անընկալելի_ “incomprehensible”
 -	_առաջին, երկրորդ, երրորդ_ “first, second, third”
--	_հայոց, վրաց, պարսից, Վանա_ “armenians’, georgians’, of Persis, of Van” (possessive adjectives)
+-	_հայոց, վրաց, պարսից, վանա_ “armenians’, georgians’, of Persis, of Van” (possessive adjectives)
 
 ### Border cases
 
