@@ -99,8 +99,16 @@ and [Armenian features](feat/index.html).
   With personal possessive determiners ([DET]()), the feature actually encodes the person of the possessor.
   Person is not marked on other types of pronouns and on nouns, although they can almost always be interpreted as the 3rd person.
   * As a cross-reference to subject, person is also marked on finite verbs ([VERB](), [AUX]()).
+* The [Polite]() feature distinguishes informal second-person pronouns (_դու, դուք,_ `Polite=Infm`)
+  from the formal _Դուք_ (`Polite=Form`).
+  The formal pronoun is phonologically equivalent in all its case forms to the second-person plural _դուք_
+  but it is distinguished in orthography by the capital letter _Դ._
+  We tag it as second person (because that is its meaning) and we tag also its number (it is used for singular addressees) despite the fact that it combines with second-person plural verbs.
+  The parser must learn that `Number=Sing|Person=2|Polite=Form` subject attaches to `Number=Plur|Person=2` verbs,
+  while `Number=Sing|Person=2|Polite=Infm` subject attaches to `Number=Sing|Person=2` verbs.
 * There are two [layered features](../../u/overview/feat-layers.html), [Person[psor]]() and [Number[psor]]().
-  They appear with nouns, gerundives, certain determiners and adpositions and encode the lexical person(deixis)/number of the possessor.
+  They appear with nouns, gerundives, certain determiners and adpositions and encode the lexical person(deixis)/number of the possessor. The extra layer is needed to distinguish these lexical features from the inflectional person and number
+  that mark agreement with the modified (possessed) noun.
 
 ### Other Features
 
