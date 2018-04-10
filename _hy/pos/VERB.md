@@ -14,19 +14,17 @@ may occur in the clause.
 
 Note that the `VERB` tag covers main verbs _(content verbs)_, but it does not cover _auxiliary verbs_ and _copulas,_ for which there is
 the [AUX]() tag.
-See the description of `AUX` for more information on the borderline
-between `VERB` and `AUX`.
+See the description of `AUX` for more information on the borderline between `VERB` and `AUX`.
 
 Armenian verbs can take the following morphological forms:
 
 - Infinitive (this is the citation form),
-- Finite verb (indicative, imperative, subjunctive and conditional forms; necessitative is constructed periphrastically),
-- Resultative, processual, imperfective, future-I, perfect and negative participles (used to construct (secondary) complex tenses and moods),
+- Gerundive (shares properties of verbs and nouns),
+- Finite verb (indicative, imperative, subjunctive and conditional forms; necessitative is constructed periphrastically, connegative forms),
+- Resultative, processual, imperfective, future-I, perfect participles (used to construct (secondary) complex tenses and moods),
 - Converb (also called adverbial participle).
 
-There are participial forms (subject, future-II) that are tagged as adjectives ([ADJ]()) rather than verbs.
-
-Infinitves behave similarly to nouns ([NOUN]()) and are used as such. Depending on context, they may be tagged as either `VERB` or `NOUN`.
+There are participial forms (_verbal adjectives_) that are tagged as verbs rather than adjectives ([ADJ]()). See below for examples.
 
 ### Examples
 
@@ -44,7 +42,7 @@ Infinitves behave similarly to nouns ([NOUN]()) and are used as such. Depending 
 
 ### Border cases
 
-Resultative, subject, future-II participles lie on the border between verbs and adjectives. Core participial forms are tagged [VERB]() and used to form the moods. As participial adjectives they are tagged [ADJ]() (used in nominal predication with copula, and to modify nouns), although they may have verbal features in addition to the adjectival ones. For example:
+Resultative, subject and future-II participles are word forms that may share properties and usage of adjectives and verbs. Note, that in release 2.2 both core participial forms (used to form the moods) and as participial adjectives (used in nominal predication with [copula](cop), and to modify nouns) they are tagged [VERB](). For example:
 
 -	Resultative: _<b>կառուցված</b> շենք_ “a <b>built</b> house”,
 -	Subject: _<b>կառուցվող</b> շենք_ “a house, that is <b>being built</b>”,
