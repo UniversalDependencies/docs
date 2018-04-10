@@ -24,16 +24,11 @@ Most Armenian adjectives inflect for [Degree]() (_մեծ, ավելի մեծ, ա�
 -	_կանաչ_ “green”
 -	_անընկալելի_ “incomprehensible”
 -	_առաջին, երկրորդ, երրորդ_ “first, second, third”
--	_հայոց, վրաց, պարսից, Վանա_  “armenians’, georgians’, of Persis, of Van” (possessive adjectives)
+-	_հայոց, վրաց, պարսից, Վանա_ “armenians’, georgians’, of Persis, of Van” (possessive adjectives)
 
 ### Border cases
 
-Resultative and subject participles are word forms that may share properties and usage of adjectives and verbs. Note, that in release 2.2 both core participial forms (used to form the moods) and as participial adjectives (used in nominal predication with [copula](cop), and to modify nouns) they are tagged [VERB]():
+Resultative, subject and future-II participles are word forms that may share properties and usage of adjectives and verbs. Note, that in release 2.2 both core participial forms (used to form the moods) and as participial adjectives (used in nominal predication with [copula](cop), and to modify nouns) they are tagged [VERB]():
 
--	_<b>կառուցված, կառուցվող</b> շենք_ “a built house; a house, that is being built”
--	_<b>հնչած, հնչող</b> զանգ_ “a ringing call; a call that ringed”
-
-Future-II participles are participial adjectives, they are used to modify nouns and are tagged `ADJ`, although they may have verbal features in addition to the adjectival ones:
-
--	_<b>կառուցվելիք</b> շենք_ “a house that will be built” (`Aspect=Prosp|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Pass`)
--	_<b>հնչելիք</b> զանգ_ “a call that will ring” (`Aspect=Prosp|Polarity=Pos|Subcat=Intr|VerbForm=Part|Voice=Mid`)
+- _<b>կառուցված, կառուցվող, կառուցվելիք</b> շենք_ “a built house; a house, that is being built; a house that will be built”
+-	_<b>հնչած, հնչող, հնչելիք</b> զանգ_ “a ringing call; a call that ringed; a call that will ring”
