@@ -383,26 +383,26 @@ fixed(more, than)
 
 ### Constructions more and less quantity
 
-_Ավելի_ / _քիչ_ / _պակաս_ governs the case of the cardinal numeral.
+_Ավել_ / _քիչ_ / _պակաս_ governs the case of the cardinal numeral.
 
 ~~~ sdparse
-Հարյուրից/NOUN[Case=Abl] ավելի/ADV մարդ/NOUN եկավ/VERB[SpaceAfter=No] :/PUNCT \n Came more-than 100 people .
+Հարյուրից/NOUN[Case=Abl] ավել/ADJ[Degree=Pos] մարդ/NOUN եկավ/VERB[SpaceAfter=No] :/PUNCT \n Came more-than 100 people .
 nsubj(եկավ, մարդ)
 nsubj(Came, people)
-advmod(եկավ, ավելի)
-advmod(Came, more-than)
-obl(ավելի, Հարյուրից)
+amod(մարդ, ավել)
+amod(people, more-than)
+obl(ավել, Հարյուրից)
 obl(more-than, 100)
 punct(եկավ, :)
 punct(Came, .)
 ~~~
 
 ~~~ sdparse
-Հարյուրից/NOUN[Case=Abl] քիչ/ADV[Degree=Pos] մարդ/NOUN եկավ/VERB[SpaceAfter=No] :/PUNCT \n Came less-than 100 people .
+Հարյուրից/NOUN[Case=Abl] քիչ/ADJ[Degree=Pos] մարդ/NOUN եկավ/VERB[SpaceAfter=No] :/PUNCT \n Came less-than 100 people .
 nsubj(եկավ, մարդ)
 nsubj(Came, people)
-advmod(եկավ, քիչ)
-advmod(Came, less-than)
+amod(մարդ, քիչ)
+amod(people, less-than)
 obl(քիչ, Հարյուրից)
 obl(less-than, 100)
 punct(եկավ, :)
