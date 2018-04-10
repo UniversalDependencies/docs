@@ -156,7 +156,7 @@ as well as Armenian-specific examples scattered across the documentation of cons
 ### Non-verbal Clauses
 
 * The copula verb _եմ_ (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses.
-  Purely existential clauses (without indicating location) normally use a different lemma, _լինել_, and it is treated as the head of the clause and tagged [VERB]().
+  Purely existential clauses (without indicating location) normally use different lemmas, _լինել, կամ_, and they are treated as the head of the clause and tagged [VERB]().
 
 ### Relations Overview
 
