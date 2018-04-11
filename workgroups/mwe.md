@@ -16,7 +16,7 @@ The definition of the `fixed` relation states that `fixed` constructions &quot;d
 
 Following the definition, `compound` should be used for &quot;any kind of X0 compounding&quot; (which seems quite circular and cryptic) and lists a few examples: noun-noun compounds, verb-particles, serial verbs and, strangely enough, light-verb constructions in Persian and Japanese.
 
-The definition of `flat` states that it should be used for &quot;exocentric (headless) semi-`fixed` MWEs&quot;, while it is not clear what &quot;semi-`fixed`&quot; means. It is used for many constructions where it seems straightforward to determine a head, such as &quot;President Obama&quot;, where Obama can be used alone instead of the whole construction, but not President. President Obama went to Paris. Obama went to Paris. \*President went to Paris.
+The definition of `flat` states that it should be used for &quot;exocentric (headless) semi-fixed MWEs&quot;, while it is not clear what &quot;semi-fixed&quot; means. It is used for many constructions where it seems straightforward to determine a head, such as &quot;President Obama&quot;, where Obama can be used alone instead of the whole construction, but not President. President Obama went to Paris. Obama went to Paris. \*President went to Paris.
 
 All syntactically regular constructions should receive a normal compositional analysis. Their idiomatic status can be annotated on a different level of (semantic) annotation. This includes semantically compositional (_the dog slept_), semi-compositional (_[wide] awake, [heavy] smoker, rain [cats and dogs]_), and semantically non-compositional constructions (_kick the bucket, green card, cats and dogs, in the light (of), Fr. pomme de terre &#39;potato&#39;_). See the article Kahane, Courtin, Gerdes &quot;[Multi-word annotation in syntactic treebanks](http://www.anthology.aclweb.org/W/W17/W17-7622.pdf)&quot;, TLT 2018 for a detailed definition of the terms.
 
@@ -72,7 +72,7 @@ Thus, we obtain
 
 3. &quot;Al  -`flat`→ Quaida&quot;, &quot;El -`flat`→ Païs&quot;, &quot;He sang Mahna -`flat`→ Mahna badi bidibi&quot; (see Title section below)
 
-4,  orang -`flat:foreign`→ utan, And then she went : _gjiko_ -`flat:foreign`→ _frac zen_
+4.  orang -`flat:foreign`→ utan, And then she went : _gjiko_ -`flat:foreign`→ _frac zen_
 
 5. &quot;ad -`fixed`→ hoc&quot;, &quot;parce -`fixed`→ que&quot;.
 
@@ -85,7 +85,7 @@ Note that we do not have `fixed`:foreign which could be a worthwhile distinction
 Discussion of some putative `flat` constructions:
 
 - For &quot;Louis XIV of France&quot; it is clear that Louis is the head since he cannot be called XIV. The relation Louis → XIV should be appos, and not `flat`.
-- Equally, titles are appositive: &quot;President ←appos- bama&quot;, &quot;Milliardär ←appos- oss -`flat`→ Perot&quot;, French ←`amod`- ctor ←appos-Gaspard  -`flat`→ Ulliel
+- Equally, titles are appositive: &quot;President ←appos- bama&quot;, &quot;Milliardär ←appos- Ross -`flat`→ Perot&quot;, French ←`amod`- ctor ←appos-Gaspard  -`flat`→ Ulliel
 - &quot;Natural Resources Conservation Service&quot; is a named entity with a transparent syntactic analysis. Only `amod` and `compound` (for noun-noun) to be used here.
 - `flat` should not be used for &quot;New York&quot;, which is syntactically transparent in English (`amod`). idem to be analyzed with the usual compositional structure: United Kingdom, North Dakota, Rhode Island, Victoria Lake, Croke Park (by means of `amod`, `compound`, etc). Idem for hyphened entities: Stratford-upon-Avon or Southend-on-Sea ? They are analyzed just as their counterpart without hyphens: &quot;Newcastle upon Tyne&quot;. The hyphens are just to be attached as punct relations.
 - For &quot;Hillary Rodham Clinton&quot;, Rodham alone cannot be used alone to address this person, only Hillary Rodham. Thus Rodham should depend on Hillary but not with a `flat` relation, possibly appos is a better choice.
@@ -133,7 +133,7 @@ it is easy to kick out these parts for any training on the treebanks or to downg
 
 Note that the current French Google UD has already analyzed English Language subsystems. The same treebank also shows that sometimes this practice leads to errors: For example, Sun Yat-Sen is analyzed as `compound`&gt; instead of `flat`&gt; (it&#39;s a person&#39;s name)
 
-l&#39; Université de Zhongshan ( Sun ←`compound`- at-Sen ) à Canton
+l&#39; Université de Zhongshan ( Sun ←`compound`- Yat-Sen ) à Canton
 
 Question:
 
@@ -226,7 +226,7 @@ Question: Even Lake Michigan, Mount Rushmore, Fort Alamo should be a left-to-rig
 
 _This paragraph briefly records some of the arguments that have been made in the past on relations for name structure. It is an issue over which there has historically been variation and about which there is some continuing debate._ Examples like _French actor Gaspard Ulliel:_ Some treebanks have used `nmod` for titles and honorifics like _Mr._ or _French actor_. Most people think this is inappropriate, since an `nmod` dependent should be a full phrase, which will typically take its own case as a modifier in a cased language. In contrast, these titles seem to be part of the same phrase as the name that follows them; they show case agreement concord in a cased language.
 
-**Answer: This argument would imply that all languages use `nmod` only where the modifier is a complete sentence. This would make the very productive noun-noun `compound`s in French impossible to analyze.**
+**Answer: This argument would imply that all languages use `nmod` only where the modifier is a complete sentence. This would make the very productive noun-noun `compound`s in French impossible to analyze:**
 
 **Imprimante →? laser; accès → handicapés; espace → fumeur**
 
