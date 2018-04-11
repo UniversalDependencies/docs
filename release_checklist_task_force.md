@@ -49,6 +49,9 @@ See [here](release_checklist.html) for the checklist for data contributors.
   Do not push the tag to Github now; wait for the full release in July.
   <br />
   <code>for i in $(cat shared_task_treebanks.txt) ; do echo $i ; cd $i ; git tag r2.2 ; cd .. ; echo ; done</code>
+* Run the script <tt>tools/package_ud_release.sh</tt>, which must find the release number in the environment,
+  and its arguments are names of folders to be released.<br />
+  <code>RELEASE=2.2 tools/package_ud_release.sh $(cat shared_task_treebanks.txt)</code>
 
 Až to bude v masteru:
 * Tell Anša Vernerová that she can start importing the data to Kontext (ideally the announcement about the release would include links to PML-TQ, Kontext and SETS).
