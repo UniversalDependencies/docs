@@ -43,10 +43,10 @@ See [here](release_checklist.html) for the checklist for data contributors.
   <code>for i in $(cat shared_task_treebanks.txt) ; do echo $i ; cd $i ; git checkout dev ; cd .. ; echo ; done</code>
 * Re-evaluate the treebanks for the star ranking on the website. This is done only in the master branch and the result is stored there.<br />
   <code>for i in $(cat shared_task_treebanks.txt) ; do echo $i ; cd $i ; git checkout master ; cd .. ; perl -I tools tools/evaluate_treebank.pl $i --verbose &gt;&amp; $i/eval.log ; cd $i ; git add eval.log ; git commit -m 'Updated treebank evaluation.' ; git push ; git checkout dev ; cd .. ; done</code>
+* Run the script that refreshes the title page of Universal Dependencies (list of languages, treebanks and their properties).<br />
+  <code>cd docs-automation ; make all<br />(and git commit ; git push)</code>
 
 Až to bude v masteru:
-* Nové hvězdičkové hodnocení treebanků.
-* Run the script that refreshes the title page of Universal Dependencies (list of languages, treebanks and their properties).
 * Tag the current commit in all repositories with the tag of the current release (`git tag r2.1` for UD 2.1).
   Push the tag to Github: `git push origin --tags`.
   You may even tag a particular commit retroactively: `git tag -a r2.1 9fceb02`.
