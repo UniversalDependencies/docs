@@ -52,9 +52,9 @@ See [here](release_checklist.html) for the checklist for data contributors.
 * Run the script <tt>tools/package_ud_release.sh</tt>, which must find the release number in the environment,
   and its arguments are names of folders to be released.<br />
   <code>RELEASE=2.2 tools/package_ud_release.sh $(cat shared_task_treebanks.txt)</code>
+* Tell Anša Vernerová that she can start importing the data to Kontext (ideally the announcement about the release would include links to PML-TQ, Kontext and SETS).
 
 Až to bude v masteru:
-* Tell Anša Vernerová that she can start importing the data to Kontext (ideally the announcement about the release would include links to PML-TQ, Kontext and SETS).
 * Upload data to TIRA.
 * Announce it to the shared task participants.
 
