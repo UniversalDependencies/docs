@@ -45,16 +45,12 @@ See [here](release_checklist.html) for the checklist for data contributors.
   <code>for i in $(cat shared_task_treebanks.txt) ; do echo $i ; cd $i ; git checkout master ; cd .. ; perl -I tools tools/evaluate_treebank.pl $i --verbose &gt;&amp; $i/eval.log ; cd $i ; git add eval.log ; git commit -m 'Updated treebank evaluation.' ; git push ; git checkout dev ; cd .. ; done</code>
 * Run the script that refreshes the title page of Universal Dependencies (list of languages, treebanks and their properties).<br />
   <code>cd docs-automation ; make all<br />(and git commit ; git push)</code>
+* Tag the current commit in all repositories with the tag of the current release (`git tag r2.2` for UD 2.2).
+  Do not push the tag to Github now; wait for the full release in July.
+  <br />
+  <code>for i in $(cat shared_task_treebanks.txt) ; do echo $i ; cd $i ; git tag r2.2 ; cd .. ; echo ; done</code>
 
 Až to bude v masteru:
-* Tag the current commit in all repositories with the tag of the current release (`git tag r2.1` for UD 2.1).
-  Push the tag to Github: `git push origin --tags`.
-  You may even tag a particular commit retroactively: `git tag -a r2.1 9fceb02`.
-  If the repository is updated after you assigned the tag and you need to re-assign the tag to a newer commit,
-  this is how you remove the tag from where it is now: `git tag -d r2.1`.
-  And this is how you remove it from Github: `git push origin :refs/tags/r2.1`.
-  WARNING: The following command tags all UD repositories, including those that are not part of the current release.<br />
-  <code>for i in UD_* docs tools ; do echo $i ; cd $i ; git tag r2.1 ; git push --tags ; cd .. ; echo ; done</code>
 * Tell Anša Vernerová that she can start importing the data to Kontext (ideally the announcement about the release would include links to PML-TQ, Kontext and SETS).
 * Upload data to TIRA.
 * Announce it to the shared task participants.
