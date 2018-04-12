@@ -1,3 +1,4 @@
+
 ---
 layout: relation
 title: 'case'
@@ -23,7 +24,7 @@ The `case` relation is used for adpositions.
 7	rò	rɔ́	ADP	_	_	6	case	_	_
 8	.	.	PUNCT	_	_	5	punct	_	_
 
-'He and an old woman met on the root'.
+'He and an old woman met on the road'.
 ~~~
 
 In Bamana, the majority of adpositions are postpositions, but there are some prepositions as well. These are kàbí ~ kàbíni 'since', fó ~ fɔ́ 'till, ní and àní 'with'.
@@ -53,7 +54,6 @@ In Bamana, the majority of adpositions are postpositions, but there are some pre
 
 All these prepositions are conjunctions as well, if they introduce a clause.
 ~~~ conllu
-
 
 1	kabini	kàbini	SCONJ	_	_	3	mark	_	_
 2	o	ò	PRON	_	_	3	nsubj	_	_

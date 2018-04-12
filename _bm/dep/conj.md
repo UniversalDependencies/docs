@@ -10,7 +10,7 @@ The `conj`relation is used between a coordinative conjunction and its governor.
 
 
 ~~~ conllu
-# visual-style 1 3 conj:coord	color:blue
+# visual-style 1 3 conj	color:blue
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 3	bgColor:blue

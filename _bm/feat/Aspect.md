@@ -10,32 +10,42 @@ udver: '2'
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Imp">imperfective</a></td>
   <td><a href="#Perf">perfect</a></td>
-  <td><a href="#Real">realis</a></td>
+  <td><a href="#Prog">progressive</a></td>
 </tr>
 </table>
 
-In Bambara, aspect is a lexical feature of [auxiliaries](bm-pos/AUX) that specifies the duration and completion of processes in time.
+In Bambara, aspect is expressed mainly by [auxiliaries](bm-pos/AUX).
 
 ### <a name="Imp">`Imp`</a>: imperfect
 
-The imperfect aspect is used to indicate ongoing processes.
+The imperfective auxiliary is bɛ́ (negative equivalent tɛ́).
 
 #### Example
 
-* _you get blow out tire for road as you <b>dey</b> travel_ "you get a blown out tire on the road as you are travelling"
+* _Fàntá <b>bɛ́</b> dɔ́nkili dá dɔ́n ò dɔ́n.  _ "Fanta sings every day".
 
 ### <a name="Perf">`Perf`</a>: perfect
 
-The perfect aspect is used to indicate that a process occurred and was completed before the time under consideration. The focus may therefore be on the resulting state rather than on the event itself.
+The expression of perfective aspect depend on transitivity of a verb. If a verb is transitive, an auxiliary is yé (negative equivalent tɛ́).
 
 #### Example
 
-* _im <b>don</b> happen_ "it has happened"
-* _we <b>neva</b> eat_ "we haven't eaten"
+* _Fàntá <b>yé</b> dɔ́nkili dá.  _ "Fanta sang".
 
-### <a name="Real">`Real`</a>: realis
 
+If a verb is intransitive, a suffix -ra is used. In the negation, there is still an auxiliary tɛ́.
+
+* _Fàntá jɔ́<b>ra</b>.  _ "Fanta stood up".
+* _Fàntá <b>tɛ́</b> jɔ́.  _ "Fanta did not stand up".
+
+### <a name="Prog">`Prog`</a>: progressive
+
+The progressive aspect is used to indicate ongoing processes. There are several ways to express progressive, the most common is with auxiliary bɛ́kà (negative equivalent tɛ́kà).
 
 #### Example
+* _Fàntá <b>bɛ́kà</b> dɔ́nkili dá.  _ "Fanta is singing".
 
-* _tire go <b>come</b> burst_ "the tire would explode"
+Another way to express progressive is to use a verbal noun with a postposition lá.
+* _Fàntá <b>bɛ́</b> dɔ́nkili dá lá.  _ "Fanta is singing (litt. Fanta is in giving of a song)".
+
+

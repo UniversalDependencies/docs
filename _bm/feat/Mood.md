@@ -8,37 +8,37 @@ udver: '2'
 <table class="typeindex" border="1">
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
-  <td><a href="#Ind">Ind</a></td>
-  <td><a href="#Imp">Imp</a></td>
-  <td><a href="#Jus">Jus</a></td>
+  <td><a href="#Imp">Imperative</a></td>
+  <td><a href="#Subj">Subjunctive</a></td>
+  <td><a href="#Cond">Conditional</a></td>
 </tr>
 </table>
 
-In Bambara the `Mood` feature which expresses modality is a feature of [auxiliaries](bm-pos/AUX) and [verbs](bm-pos/VERB).
+In Bamana, aspect is expressed by [auxiliaries](bm-pos/AUX) or, in case of imperative, by its abcense.
 
-The `Ind` and `Imp` values are only carried by instances of verbs following the English morphology, e.g _teaches, teaching, taught..._
-
-### <a name="Ind">`Ind`</a>: indicative
-
-
-
-#### Example
-
-
-* _you <b>say</b> grandma need push_ "You said grandma needs to be pushed"
-* _dat <b>means</b> you be student_ "That means you are a student"
 
 ### <a name="Imp">`Imp`</a>: imperative
 
+In affirmative imperative, ther is no auxiliaries, while in negative imperative (prohibitive), an auxiliary kàna is used.
 
 #### Example
 
-* _you want test me ? <b>give</b> me sample_ "You want to test me ? Give me a sample"
 
-### <a name="Jus">`Jus`</a>: jussive
+* _Bɔ́ yàn!_ "Go away!"
+* _Í <b>kána</b> kàsi!_ "Do not cry!"
 
-The jussive aspect is used to exhort someone to do something. It is carried by the auxiliary _make_.
+### <a name="Subj">`Subj`</a>: Subjunctive
+
+In subjunctive, an auxiliary ká is used.
+#### Example
+
+* _Í <b>ká</b> dɔń kɛ́!_ "You should dance!"
+
+### <a name="Cond">`Cond`</a>: Conditional
+
+Conditional may be expressed by an auxiliary mána, but such cases are rather rare.
 
 #### Example
 
-* _<b>make</b> you dey tink of oda people_ "you should think of other people"
+* _Dúnan <b>mána</b> nà, mɔ̀gɔw bɛ́ dɔ́n kɛ́_ "If guests come, people will dance".
+

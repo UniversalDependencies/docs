@@ -5,7 +5,7 @@ shortdef: 'direct speech'
 udver: '2'
 ---
 
-In Bamana, the relation [parataxis:obj]() is used for a direct speech, which is expressed by a complete sentence. If a direct speech is expressed by an incomplete sentence, the relation [obj]() is used. [REFERENCE TO PCM]
+In Bamana, the relation `parataxis:obj` is used for a direct speech.
 
 ~~~ conllu
 # visual-style 2 4 parataxis:obj	color:blue

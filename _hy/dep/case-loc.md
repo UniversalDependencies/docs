@@ -10,23 +10,32 @@ We treat a closed set of postpositions (traditionally known as “improper adpos
 The head of the localizer is the noun or the main verb of the clause preceding it. Localizers are always tagged ADP (adposition). When it follows a noun, it receives the `case:loc` relation label.
 
 ~~~ sdparse
-գինետան/NOUN[Case=Dat] մոտով/ADP[Case=Ins] \n by the-tavern
+գինետան/NOUN[Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing] մոտով/ADP[AdpType=Post|Case=Ins] \n by the-tavern
 case:loc(գինետան, մոտով)
 case:loc(the-tavern, by)
 ~~~
 
 ~~~ sdparse
-Վերցրեց գիրքը սեղանի/NOUN[Case=Dat] վրայից/ADP[Case=Abl] ։ \n He-took the-book from-on the-table .
+Վերցրեց/VERB[Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Subcat=Tran|Tense=Past|VerbForm=Fin|Voice=Act] գիրքը/NOUN[Animacy=Inan|Case=Nom|Definite=Def|Number=Sing] սեղանի/NOUN[Animacy=Inan|Case=Dat|Definite=Ind|Number=Sing] վրայից/ADP[AdpType=Post|Case=Abl] ։/PUNCT \n He-took the-book from-on the-table .
+obj(Վերցրեց, գիրքը)
+obj(He-took, the-book)
 obl(Վերցրեց, սեղանի)
 obl(He-took, the-table)
 case:loc(սեղանի, վրայից)
 case:loc(the-table, from-on)
+punct(Վերցրեց, ։)
+punct(He-took, .)
 ~~~
 
 ~~~ sdparse
-Ճանապարհն անցնում էր դաշտերի/NOUN[Case=Dat] միջով/ADP[Case=Ins] ։ \n The-road passed through the-fields .
+Ճանապարհն/NOUN[Animacy=Inan|Case=Nom|Definite=Def|Number=Sing] անցնում/VERB[Aspect=Imp|Subcat=Intr|VerbForm=Part|Voice=Mid] էր/AUX[Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbForm=Fin] դաշտերի/NOUN[Animacy=Inan|Case=Dat|Definite=Ind|Number=Plur] միջով/ADP[AdpType=Post|Case=Ins] ։/PUNCT \n The-road passed through the-fields .
+nsubj(անցնում, Ճանապարհն)
+nsubj(passed, The-road)
+aux(անցնում, էր)
 obl(անցնում, դաշտերի)
 obl(passed, the-fields)
 case:loc(դաշտերի, միջով)
 case:loc(the-fields, through)
+punct(անցնում, ։)
+punct(passed, .)
 ~~~

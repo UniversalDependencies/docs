@@ -12,25 +12,10 @@ udver: '2'
 </tr>
 </table>
 
-This feature typically applies to [nouns](bm-pos/NOUN) and other parts of speech that mark agreement with nouns, i.e [pronouns](bm-pos/PRON) and [determiners](bm-pos/DET).
+This feature typically applies to [nouns](bm-pos/NOUN) and other parts of speech that mark agreement with nouns, i.e [pronouns](bm-pos/PRON), [adjectives] (bm-POS/ADJ) and [determiners](bm-pos/DET).
 
-### <a name="Sing">`Sing`</a>: singular
-
-The singular is used when refering to one person, animal or thing. 
-
-#### Examples
-
-+ _<b>dis</b> ting na lie_ "this thing is a lie"
-+ _<b>I</b> happy sey una give me dis opportunity to talk_ "I am happy that you all have given me this opportunity to talk."
-
-### <a name="Plur">`Plur`</a>: plural
-
-The plural is used when refering to several person, animals or things. 
-
-#### Examples
-
-+ _I happy sey <b>una</b> give me dis opportunity to talk_ "I am happy that you all have given me this opportunity to talk."
-+ _I no dey interested in all <b>dose</b> wahala wey you dey talk_ " I am not interested in all those problems that you have been talking about."
+In Bamana, the number marking for non-human is often optional, so tha absence of a plural marker does not al$
+ 
+There are two plural markers: -w and -lù. -lù is less frequent and can be added only to animate nouns.
 
 
-Note : the [particle](bm-pos/PART) _dem_ also has a plural value.

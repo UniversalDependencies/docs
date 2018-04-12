@@ -5,11 +5,6 @@ shortdef: 'adverb'
 udver: '2'
 ---
 
-### Definiton 
+Adverbs are words that typically modify [VERB]() for such categories as time, place, direction or manner. In Bamana, the majority of adverbs are postposed, but there are several adverbs which are preposed.
 
-Adverbs are words that typically modify [VERB]() for such categories as time, place, direction or manner. They may also modify [ADJ]() and other adverbs
 
-### The adverbs of Bambara include :
-
-- so (used to focalize the attention) : <b>So</b> na bad thing.
-- naim (used as a marker in the second part of a cleft phrase) : Na only di living <b>naim</b> dey celebrate.
