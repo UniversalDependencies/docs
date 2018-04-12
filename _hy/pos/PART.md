@@ -8,7 +8,7 @@ udver: '2'
 ### Definition
 
 Particles are function words that must be associated with another word or phrase to impart meaning and that do not satisfy definitions of other universal parts of speech (e.g.  [adpositions](ADP), [coordinating conjunctions](CCONJ), [subordinating conjunctions](SCONJ)
-or [auxiliary verbs](AUX)). Particles may encode grammatical categories such as negation, mood, tense etc. Particles are not inflected.
+or [auxiliary verbs](AUX)). Particles may encode grammatical categories such as negation, mood, tense etc. Particles are not inflected. Only exception: mood particles inflect for [Polarity](). 
 
 Note that particles like _այո_ “yes”, _ոչ_ “no”, _անշուշտ_ “sure”, etc. as response words (as feedback particles) are considered as interjections under the UD standard.
 
@@ -23,4 +23,4 @@ Note that particles like _այո_ “yes”, _ոչ_ “no”, _անշուշտ_ �
 - Negation particle: _ոչ, չէ, բնավ, ամենևին_
 - Wish particle: _երանի, երնեկ_
 - Volition particle: _ապա, դե, թող_
-- Mood particle: _պիտի, պետք է_
+- Mood particle: _(չ)պիտի, (չ)պետք է_
