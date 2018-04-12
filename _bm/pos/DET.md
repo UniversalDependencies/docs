@@ -5,19 +5,32 @@ shortdef: 'determiner'
 udver: '2'
 ---
 
-### Definition
-
-Determiners are words that modify nouns or noun phrases and express the reference of the noun phrase in context. That is, a determiner may indicate whether the noun is referring to a definite or indefinite element of a class.
-
-Numerals are annotated as [NUM]() and possessive pronouns are annotated as [PRON]().
-
+Determiners are words that modify nouns or noun phrases and express the reference of the noun phrase in context. 
 
 ### The determiners of Bambara include :
 
-- di (singular definite article) : Now see <b>di</b> process
-- dem (plural definite article) : <b>Dem</b> no dey send
-  - [PRON](): Any time <b>dem</b> want am.
-  - [PART](): Na farmer <b>dem</b> de happy pass when rain fall like dis.
-- dis (singular demonstrative pronoun) : na me park <b>dis</b> car
-- dese (plural demonstrative pronoun) : so <b>dese</b> kind thing no good
+- nín 'this'                                                
+- ò 'that'
+- dɔ́ 'some'
+- bɛ́ɛ 'all'
+- dɔ́rɔn 'only'
+
+All determiners, exept dɔ́ron, can function as [pronouns](PRON).
+
+#### Examples
+
+*_Mùsó <b>dɔ́</b>bɛ́ dɔ́kili dá._ "A (some) woman sings".
+* _<b>Dɔ́</b> bɛ́ dɔ́kili dá._ "Someone sings".
+
+Dɔ́rɔn can modify the whole clause, in this case, it functions like an [adverb](ADV).
+
+#### Example
+
+*_Fàntá yé dɔ́kili dá <b>dɔ́rɔn</b> kà tàa só. 'Fanta just sang a song and then went home'.
+
+
+
+
+
+
 

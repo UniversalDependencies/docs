@@ -10,42 +10,25 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Past">Past</a></td>
-  <td><a href="#Pres">Pres</a></td>
-    <td><a href="#Prosp">Prosp</a></td>
+  <td><a href="#Fut">Fut</a></td>
 </tr>
 </table>
 
-In Bambara, `Tense` is a feature of [auxiliaries](bm-pos/AUX) and [verbs](bm-pos/VERB) which specifies the time when the action took / takes / will take place, in relation to another process or the utterance itself.
-
-
-There are three values for this feature :
-
-+ Past : past
-+ Pres : present
-+ Prosp : prospective
-
+`Tense` is a feature of function words.
 
 ### <a name="Past">`Past`</a>: past
 
-The past tense is ued to indicate that the process is situated in the past in relation to another process or the utterance itself.
+`Past` is a feature of a particle tùn which have the `aux` relation with its head. It is always used with other auxiliaries.
 
 #### Example
 
-* _I <b>bin</b> go school_ "I went to school"
-
-### <a name="Pres">`Pres`</a>: present
-
-The present tense is used to situate the process in present time.
-
-#### Example
+* _Fàntá <b>tùn</b> bɛ́ dɔ́kili dá._ "Fanta was singing".
 
 
-* _dat <b>means</b> you be student_ "That means you are a student"
+### <a name="Fut">`Fut`</a>: future
 
-### <a name="Prosp">`Prosp`</a>: prospective
-
-The prospective tense is used to indicate that the process has not yet taken place. It is situated in the future in relation to another process or the utterance itself.
+Future can be expressed by two auxiliaries: nà and bɛ́nà, which are grammaticalized recently from a verb nà 'to come'. Sometimes, bɛ́nà is written with a space between bɛ́ and nà. In this case, a relation [`fixed`] (bm-dep/fixed).
 
 #### Example
 
-* _hope still dey sey dem <b>go</b> born anoda pikin_ "there is hope that they would have givern birth to another child"
+* _Fàntá  <b>bɛ́nà</b> dɔ́kili dá_ "Fàntá will sing".

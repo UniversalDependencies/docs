@@ -26,7 +26,7 @@ The `advcl` relation is used between an adverbial clause and the verb or other p
 10	bè	bɛ	AUX	_	_	12	aux	_	_
 11	a	à	PRON	_	_	12	obj	_	_
 12	to	tó	VERB	_	_	0	root	_	_
-13	yen	yèn	ADV	_	_	12	advcl	_	_
+13	yen	yèn	ADV	_	_	12	obl	_	_
 14	.	.	PUNCT	_	_	12	punct	_	_
 
 'If I can not break it, I leave it here'.
