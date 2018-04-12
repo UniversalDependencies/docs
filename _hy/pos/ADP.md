@@ -18,7 +18,7 @@ Note, that the Armenian `ADP` covers also “localizers”. These are a closed s
 
 Although a few localizers have further grammaticalized into adverbials denoting spatial concepts. Localizers with the adverbial function are still tagged as `ADP` (but are labeled with additional features and with the dependency relation [advmod]()).
 
-- _<b>Մոտովս</b>_.Ins_ անցան երկու սիլուետներ։&nbsp;_ “Two silhouettes passed by me.”
+- _<b>Մոտովս</b> անցան երկու սիլուետներ։&nbsp;_ “Two silhouettes passed by me.”
 
 Note also, that there is a number of case-marking elements (traditionally called “adpositional words”), derived from a closed set of nouns, [adjectivs/participles](VerbForm) or [adverbs](ADV). They are still tagged `ADP`.
 
