@@ -11,10 +11,14 @@ Armenian has prepositions and postpositions but no circumpositions. They occur b
 
 Some prepositions take the form of fixed multiword expressions, e.g. _ի սեր&nbsp;_ “for the love of”, _ի պատիվ&nbsp;_ “in honor of”. The component words are then still tagged according to their basic use (_ի&nbsp;_ is `ADP`, _սեր&nbsp;_ is [NOUN](), etc.) and their status as multiword expressions is accounted for in the [syntactic annotation](fixed).
 
-Note, that the Armenian `ADP` covers also “localizers”. These are a closed set of postpositions (traditionally known as “improper adpositions”) which inflect for [Case](), [PossNumber]() and [PossPerson]() and typically indicate spatial information in relation to the noun preceding it. Although a few localizers have further grammaticalized functions denoting temporal and other non-spatial concepts. Localizers are still tagged as `ADP`, but are labeled with additional features and with special [dependency](case:loc) relation mark:
+Note, that the Armenian `ADP` covers also “localizers”. These are a closed set of postpositions (traditionally known as “improper adpositions”) which inflect for [Case](), [Number[psor]]() and [Person[psor]]() and typically indicate spatial information in relation to the noun preceding it. Localizers are still tagged as `ADP`, but are labeled with additional features and with special dependency relation [case:loc]():
 
-- _Վերցրեց գիրքը սեղանի վրայից_.Abl։&nbsp; “He took the book from on the table.”
-- _Ճանապարհն անցնում էր դաշտերի միջով_.Ins։&nbsp; “The road passed through the fields.”
+- _Վերցրեց գիրքը սեղանի <b>վրայից</b>։&nbsp;_ “He took the book from on the table.”
+- _Ճանապարհն անցնում էր դաշտերի <b>միջով</b>։&nbsp;_ “The road passed through the fields.”
+
+Although a few localizers have further grammaticalized into adverbials denoting spatial concepts. Localizers with the adverbial function are still tagged as `ADP` (but are labeled with additional features and with the dependency relation [advmod]()).
+
+- _<b>Մոտովս</b> անցան երկու սիլուետներ։&nbsp;_ “Two silhouettes passed by me.”
 
 Note also, that there is a number of case-marking elements (traditionally called “adpositional words”), derived from a closed set of nouns, [adjectivs/participles](VerbForm) or [adverbs](ADV). They are still tagged `ADP`.
 
