@@ -1,3 +1,9 @@
+---
+layout: base
+title:  'Working Group on Multiword Expressions'
+udver: '2'
+---
+
 # Working Group on Multiword Expressions
 
 ## MWE in UD
@@ -281,11 +287,6 @@ What is a MWE?
 
 # old stuff from the page:
 
----
-layout: base
-title:  'Working Group on Multiword Expressions'
-udver: '2'
----
 
 
 * Names
