@@ -66,3 +66,21 @@ case(ϫⲣⲟⲡ, ⲛ)
 ~~~
 
 This analysis effectively treats predicates of verbs of 'becoming' as a small clause: become(x,be(y)), with x serving as the overt subject of become, but also the external subject of the 'be' predication, much like a governed infinitive.
+
+## Naming constructions
+
+Verbs of naming take the name argument as `xcomp`, and if the complementizer ϫⲉ is present, it is labeled as `mark`:
+
+~~~ sdparse
+
+ⲥⲉ/PRON ⲙⲟⲩⲧⲉ/V ⲙⲉⲛ/PART ⲉⲣⲟ/PRON ϩⲙ/ADP ⲡⲟⲩ/DET ⲣⲁⲛ/N ϫⲉ/SCONJ ⲁⲫⲑⲟⲛⲓⲁ/PROPN \n They call you by your name 'Aphthonia'
+
+nsubj(ⲙⲟⲩⲧⲉ,ⲥⲉ)
+obl(ⲙⲟⲩⲧⲉ,ⲣⲁⲛ)
+obl(ⲙⲟⲩⲧⲉ,ⲉⲣⲟ)
+case(ⲣⲁⲛ,ϩⲙ)
+det(ⲣⲁⲛ,ⲡⲟⲩ)
+xcomp(ⲙⲟⲩⲧⲉ,ⲁⲫⲑⲟⲛⲓⲁ)
+mark(ⲁⲫⲑⲟⲛⲓⲁ,ϫⲉ)
+
+~~~
