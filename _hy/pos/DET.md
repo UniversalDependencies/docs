@@ -19,6 +19,7 @@ Note that in Armenian nominal usually allows one `DET` modifier, but there are o
 
 ### Examples
 
+- indefinite article: _մի&nbsp;_ “a, an”
 - possessive determiners: _իմ, քո, նրա, մեր, ձեր, նրանց, իրենց&nbsp;_ “my, your, his/her/its, our, your, their”
 - reflexive possessive determiners: _իր, իրենց&nbsp;_ “one's own, themselves”
 - demonstrative determiners: _այս&nbsp;_ as in _<b>Այս</b> մեքենան ես երեկ տեսել եմ։&nbsp;_ “I saw <b>this</b> car yesterday.”
