@@ -28,7 +28,7 @@ See also the relatived feature [Number[psor]]().
 
 * _տուն<b>ս</b>_ “<b>my</b> house” `Person[psor]=1|Number[psor]=Sing|Number=Sing`
 * _տներ<b>ս</b>_ “<b>my</b> houses” `Person[psor]=1|Number[psor]=Sing|Number=Plur`
-* _գալ<b>ս</b>_ “<b>my</b> coming” `Person[psor]=1|Number[psor]=Sing`
+* _գալ<b>ս</b>_ “<b>my</b> coming” `Person[psor]=1|Number[psor]=Sing|Number=Coll`
 * _օրեր<b>ս</b>_ “in <b>these</b> days” `Person[psor]=1|Number=Plur`
 * _քաղաք<b>ս</b>_ “<b>this</b> town” `Person[psor]=1|Number=Sing`
 * _(ես) ուսուցիչ<b>ս</b>_ “<b>I</b> the teacher” or “<b>my</b> teacher” `Person[psor]=1|Number=Sing` or `Person[psor]=1|Number[psor]=Sing|Number=Sing`
@@ -41,7 +41,7 @@ See also the relatived feature [Number[psor]]().
 
 * _տուն<b>դ</b>_ “<b>your</b>.`Sing` house” `Person[psor]=2|Number[psor]=Sing|Number=Sing`
 * _տներ<b>դ</b>_ “<b>your</b>.`Sing` houses” `Person[psor]=2|Number[psor]=Sing|Number=Plur`
-* _գալ<b>դ</b>_ “<b>your</b>.`Sing` coming” `Person[psor]=2|Number[psor]=Sing`
+* _գալ<b>դ</b>_ “<b>your</b>.`Sing` coming” `Person[psor]=2|Number[psor]=Sing|Number=Coll`
 * _(դու) ուսուցիչ<b>դ</b>_ “<b>You</b>.`Sing` the teacher” or “<b>your</b>.`Sing` teacher” `Person[psor]=2|Number=Sing` or `Person[psor]=2|Number[psor]=Sing|Number=Sing`
 * _ինք<b>դ</b>_ “<b>you</b>.`Sing` <b>yourself</b>” `Person[psor]=2|Number[psor]=Sing|Number=Sing`
 * _հետ<b>դ</b>_ “with <b>you</b>.`Sing`” `Person[psor]=2|Number[psor]=Sing`
@@ -53,7 +53,7 @@ See also the relatived feature [Number[psor]]().
 * _տուն<b>ն(ը)</b>_ “<b>his/her/its</b> house” `Person[psor]=3|Number[psor]=Sing|Number=Sing` 
 * _տներ<b>ն(ը)</b>_ “<b>his/her/its</b> houses” `Person[psor]=3|Number[psor]=Sing|Number=Plur` 
 * _(նա) ուսուցիչ<b>ն(ը)</b>_ “<b>He/She</b> the teacher” or “<b>his/her/its</b> teacher” `Person[psor]=3|Number=Sing` or `Person[psor]=3|Number[psor]=Sing|Number=Sing`
-* _գալ<b>ն(ը)</b>_ “<b>his/her/its</b> coming” `Person[psor]=3|Number[psor]=Sing`
+* _գալ<b>ն(ը)</b>_ “<b>his/her/its</b> coming” `Person[psor]=3|Number[psor]=Sing|Number=Coll`
 * _ինք<b>ն(ը)</b>_ “<b>he/she/it himself/herself/itself</b>” `Person[psor]=3|Number[psor]=Sing|Number=Sing`
 * _հետ<b>ն(ը)</b>_ “with <b>him/her/it</b>” `Person[psor]=3|Number[psor]=Sing`
 
