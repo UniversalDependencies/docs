@@ -27,7 +27,7 @@ See also the relatived feature [Person[psor]]().
 
 * _տուն<b>ս</b>_ “<b>my</b> house” `Number[psor]=Sing|Number=Sing`
 * _տներ<b>ս</b>_ “<b>my</b> houses” `Number[psor]=Sing|Number=Plur`
-* _գալ<b>ս</b>_ “<b>my</b> coming” `Number[psor]=Sing`
+* _գալ<b>ս</b>_ “<b>my</b> coming” `Number[psor]=Sing|Number=Coll`
 * _ինք<b>ս</b>_ “<b>I myself</b>” `Number[psor]=Sing|Number=Sing`
 * _հետ<b>ս</b>_ “with <b>me</b>” `Number[psor]=Sing`
 
@@ -36,6 +36,6 @@ See also the relatived feature [Person[psor]]().
 #### Examples
 
 * _տուն<b>ներս</b>_ “<b>our</b> houses” `Number[psor]=Plur|Number=Plur`
-* _գալ<b>ներս</b>_ “<b>our</b> coming” `Number[psor]=Plur`
+* _գալ<b>ներս</b>_ “<b>our</b> coming” `Number[psor]=Plur|Number=Coll`
 * _ինք<b>ներս</b>_ “<b>we ourselves</b>” `Number[psor]=Plur|Number=Sing`
 * _հետ<b>ներս</b>_ “with <b>us</b>” `Number[psor]=Plur`
