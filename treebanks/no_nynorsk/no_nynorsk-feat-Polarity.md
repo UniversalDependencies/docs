@@ -12,16 +12,16 @@ It occurs with 1 different values: `Neg`.
 2755 tokens (1%) have a non-empty value of `Polarity`.
 8 types (0%) occur at least once with a non-empty value of `Polarity`.
 3 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 3 part-of-speech tags: <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (2527; 1% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (138; 0% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (90; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (2527; 1% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (138; 0% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (90; 0% instances).
 
-### `ADV`
+### `PART`
 
-2527 <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> tokens (22% of all `ADV` tokens) have a non-empty value of `Polarity`.
+2527 <tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> tokens (38% of all `PART` tokens) have a non-empty value of `Polarity`.
 
-`ADV` tokens may have the following values of `Polarity`:
+`PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (2527; 100% of non-empty `Polarity`): <em>ikkje</em>
-* `EMPTY` (9097): <em>så, også, no, her, berre, slik, då, nok, òg, korleis</em>
+* `EMPTY` (4181): <em>å, eingong, og, ei, einast</em>
 
 ### `DET`
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 `DET` tokens may have the following values of `Polarity`:
 
 * `Neg` (138; 100% of non-empty `Polarity`): <em>ingen, inga</em>
-* `EMPTY` (16418): <em>ein, den, eit, dei, ei, det, andre, alle, denne, sin</em>
+* `EMPTY` (14868): <em>ein, den, eit, dei, ei, det, andre, alle, denne, anna</em>
 
 ### `PRON`
 
@@ -43,5 +43,5 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (90; 100% of non-empty `Polarity`): <em>ingen, ingenting</em>
-* `EMPTY` (21151): <em>det, som, dei, han, eg, vi, seg, ein, dette, ho</em>
+* `EMPTY` (22701): <em>det, som, dei, han, eg, vi, seg, ein, dette, ho</em>
 

@@ -8,37 +8,37 @@ udver: '2'
 
 This relation is universal.
 
-61 nodes (0%) are attached to their parents as `parataxis`.
+62 nodes (0%) are attached to their parents as `parataxis`.
 
-53 instances of `parataxis` (87%) are left-to-right (parent precedes child).
-Average distance between parent and child is 12.4918032786885.
+53 instances of `parataxis` (85%) are left-to-right (parent precedes child).
+Average distance between parent and child is 12.4032258064516.
 
-The following 18 pairs of parts of speech are connected with `parataxis`: <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (29; 48% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (4; 7% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (4; 7% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (4; 7% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (3; 5% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 18 pairs of parts of speech are connected with `parataxis`: <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (30; 48% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (4; 6% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (4; 6% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (4; 6% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (3; 5% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (2; 3% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 6 parataxis	color:blue
-1	Algúns	algún	PRON	Inmp	Gender=Masc|Number=Plur|PronType=Ind	2	nsubj	_	_
-2	acadan	acadar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-4	fama	fama	NOUN	Scfs	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
-5	,	,	PUNCT	Q,	_	2	punct	_	_
-6	parecen	parecer	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
-7	definitivos	definitivo	ADJ	A0mp	Gender=Masc|Number=Plur	6	xcomp	_	_
-8	e	e	CCONJ	Cc	_	15	cc	_	_
-9	a	a	ADP	P	AdpType=Prep	15	case	_	_
-10	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	fixed	_	_
-11	cabo	cabo	NOUN	Scms	Gender=Masc|Number=Sing	9	fixed	_	_
-12	de	de	ADP	P	AdpType=Prep	9	fixed	_	_
-13	os	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-14	anos	ano	NOUN	Scmp	Gender=Masc|Number=Plur	15	obl	_	_
-15	esvaen	esvaer	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
-16	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	15	expl	_	_
-17	.	.	PUNCT	Q.	_	2	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 5 parataxis	color:blue
+1	Para	para	ADP	P	AdpType=Prep	3	case	_	_
+2	todo	todo	DET	Idms	Gender=Masc|Number=Sing|PronType=Ind	3	det	_	_
+3	isto	este	PRON	Enns	Gender=Neut|Number=Sing|PronType=Dem	5	obl	_	_
+4	e	e	CCONJ	Cc	_	5	cc	_	_
+5	solicito	solicitar	VERB	Vpi10s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	parataxis	_	_
+6	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+7	súa	seu	DET	Md3afs	Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
+8	libre	libre	ADJ	A0fs	Gender=Fem|Number=Sing	9	amod	_	_
+9	colaboración	colaboración	NOUN	Scfs	Gender=Fem|Number=Sing	5	obj	_	SpaceAfter=No
+10	,	,	PUNCT	Q,	_	9	punct	_	_
+11	vou	ir	AUX	Vpi10s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	facer	facer	VERB	V0f000	VerbForm=Inf	0	root	_	_
+13	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	minuto	minuto	NOUN	Scms	Gender=Masc|Number=Sing	12	obj	_	_
+15	de	de	ADP	P	AdpType=Prep	16	case	_	_
+16	silencio	silencio	NOUN	Scms	Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	Q.	_	9	punct	_	_
 
 ~~~
 

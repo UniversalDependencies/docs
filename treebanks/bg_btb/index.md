@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Bulgarian'
+title:  'UD_Bulgarian-BTB'
 udver: '2'
 ---
 
@@ -9,7 +9,7 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Bulgarian
+# UD Bulgarian BTB
 
 Language: [Bulgarian](../bg/overview/bg-hub.html) (code: `bg`)<br/>
 Family: Indo-European, Slavic
@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 
 The following people have contributed to making this treebank part of UD: Kiril Simov, Petya Osenova, Martin Popel.
 
-Repository: [UD_Bulgarian](https://github.com/UniversalDependencies/UD_Bulgarian)
+Repository: [UD_Bulgarian-BTB](https://github.com/UniversalDependencies/UD_Bulgarian-BTB)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udbg_btb)
 
 License: CC BY-NC-SA 3.0
 
@@ -26,42 +27,92 @@ Genre: news, legal, fiction, misc
 
 Questions, comments?
 General annotation questions (either Bulgarian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Bulgarian/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Bulgarian-BTB/issues).
 If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbsp;•&nbsp;org, petya&nbsp;(æt)&nbsp;bultreebank&nbsp;•&nbsp;org].
+Development of the treebank happens outside the UD repository.
+If there are bugs, either the original data source or the conversion procedure must be fixed.
+Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
-| XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Lemmas | annotated manually in non-UD style, automatically converted to UD |
+| UPOS | annotated manually in non-UD style, automatically converted to UD |
+| XPOS | annotated manually |
+| Features | annotated manually in non-UD style, automatically converted to UD |
+| Relations | annotated manually in non-UD style, automatically converted to UD |
 
 ## Description
 
+UD_Bulgarian-BTB is based on the HPSG-based BulTreeBank,
+created at the Institute of Information and Communication Technologies,
+Bulgarian Academy of Sciences.
+The original consists of 215,000 tokens (over 15,000 sentences).
+
+All the texts were processed automatically at tokenization, morphological
+and chunk level. Then, the full syntactic analysis were perfomed manually by
+trained annotators.
+
+
+
+The UD_Bulgarian-BTB consists of 156 149 tokens (11,138 sentences).
+This subset of BulTreeBank excludes ellipses and some rare phenomena.
+The conversion was done semi-automatically by Kiril Simov,
+with the application of set of rules and constraints for result consistency.
+
+The rest of the sentences will be converted for the next releases.
+The original version is freely available for research upon request.
+
 ## Acknowledgments
 
-# Statistics of UD Bulgarian
+The original treebank was developed in a project (2001-2004), funded by the
+Volkswagen Stiftung, Federal Republic of Germany under the Programme
+"Cooperation with Natural and Engineering Scientists in Central and Eastern
+Europe". The project was carried out mainly at IICT-BAS in tight cooperation
+with researchers at the Seminar für Sprachwissenschaft (SfS),
+Eberhard-Karls-Universität, Tübingen, Germany. Link:
+http://bultreebank.org/
+The conversion of BulTreeBank into Universal Dependency format was supported
+by the EU Project QTLeap. Link: http://qtleap.eu/
+
+We would like to thank all our colleagues that contributed to the annotation of the original treebank:
+Elisaveta Balabanova, Dimitar Dojkov, Maggie Ivanchukova, Sia Kolkovska, Milena Slavcheva, Petya Osenova.
+We also would like to thank our annotator and validator to the treebank UD version: Stanislava Kancheva.
+
+
+# Statistics of UD Bulgarian BTB
 
 ## POS Tags
 
-[ADJ](bg-pos-ADJ.html) – [ADP](bg-pos-ADP.html) – [ADV](bg-pos-ADV.html) – [AUX](bg-pos-AUX.html) – [CCONJ](bg-pos-CCONJ.html) – [DET](bg-pos-DET.html) – [INTJ](bg-pos-INTJ.html) – [NOUN](bg-pos-NOUN.html) – [NUM](bg-pos-NUM.html) – [PART](bg-pos-PART.html) – [PRON](bg-pos-PRON.html) – [PROPN](bg-pos-PROPN.html) – [PUNCT](bg-pos-PUNCT.html) – [SCONJ](bg-pos-SCONJ.html) – [VERB](bg-pos-VERB.html) – [X](bg-pos-X.html)
+[ADJ](bg_btb-pos-ADJ.html) – [ADP](bg_btb-pos-ADP.html) – [ADV](bg_btb-pos-ADV.html) – [AUX](bg_btb-pos-AUX.html) – [CCONJ](bg_btb-pos-CCONJ.html) – [DET](bg_btb-pos-DET.html) – [INTJ](bg_btb-pos-INTJ.html) – [NOUN](bg_btb-pos-NOUN.html) – [NUM](bg_btb-pos-NUM.html) – [PART](bg_btb-pos-PART.html) – [PRON](bg_btb-pos-PRON.html) – [PROPN](bg_btb-pos-PROPN.html) – [PUNCT](bg_btb-pos-PUNCT.html) – [SCONJ](bg_btb-pos-SCONJ.html) – [VERB](bg_btb-pos-VERB.html) – [X](bg_btb-pos-X.html)
 
 ## Features
 
-[Animacy](bg-feat-Animacy.html) – [Aspect](bg-feat-Aspect.html) – [Case](bg-feat-Case.html) – [Definite](bg-feat-Definite.html) – [Degree](bg-feat-Degree.html) – [Foreign](bg-feat-Foreign.html) – [Gender](bg-feat-Gender.html) – [Mood](bg-feat-Mood.html) – [Number](bg-feat-Number.html) – [NumType](bg-feat-NumType.html) – [Person](bg-feat-Person.html) – [Polarity](bg-feat-Polarity.html) – [Poss](bg-feat-Poss.html) – [PronType](bg-feat-PronType.html) – [Reflex](bg-feat-Reflex.html) – [Tense](bg-feat-Tense.html) – [VerbForm](bg-feat-VerbForm.html) – [Voice](bg-feat-Voice.html)
+[Animacy](bg_btb-feat-Animacy.html) – [Aspect](bg_btb-feat-Aspect.html) – [Case](bg_btb-feat-Case.html) – [Definite](bg_btb-feat-Definite.html) – [Degree](bg_btb-feat-Degree.html) – [Foreign](bg_btb-feat-Foreign.html) – [Gender](bg_btb-feat-Gender.html) – [Mood](bg_btb-feat-Mood.html) – [Number](bg_btb-feat-Number.html) – [NumType](bg_btb-feat-NumType.html) – [Person](bg_btb-feat-Person.html) – [Polarity](bg_btb-feat-Polarity.html) – [Poss](bg_btb-feat-Poss.html) – [PronType](bg_btb-feat-PronType.html) – [Reflex](bg_btb-feat-Reflex.html) – [Tense](bg_btb-feat-Tense.html) – [VerbForm](bg_btb-feat-VerbForm.html) – [Voice](bg_btb-feat-Voice.html)
 
 ## Relations
 
-[acl](bg-dep-acl.html) – [advcl](bg-dep-advcl.html) – [advmod](bg-dep-advmod.html) – [amod](bg-dep-amod.html) – [appos](bg-dep-appos.html) – [aux](bg-dep-aux.html) – [aux:pass](bg-dep-aux-pass.html) – [case](bg-dep-case.html) – [cc](bg-dep-cc.html) – [ccomp](bg-dep-ccomp.html) – [compound](bg-dep-compound.html) – [conj](bg-dep-conj.html) – [cop](bg-dep-cop.html) – [csubj](bg-dep-csubj.html) – [csubj:pass](bg-dep-csubj-pass.html) – [det](bg-dep-det.html) – [discourse](bg-dep-discourse.html) – [expl](bg-dep-expl.html) – [fixed](bg-dep-fixed.html) – [flat](bg-dep-flat.html) – [goeswith](bg-dep-goeswith.html) – [iobj](bg-dep-iobj.html) – [mark](bg-dep-mark.html) – [nmod](bg-dep-nmod.html) – [nsubj](bg-dep-nsubj.html) – [nsubj:pass](bg-dep-nsubj-pass.html) – [nummod](bg-dep-nummod.html) – [obj](bg-dep-obj.html) – [obl](bg-dep-obl.html) – [orphan](bg-dep-orphan.html) – [parataxis](bg-dep-parataxis.html) – [punct](bg-dep-punct.html) – [root](bg-dep-root.html) – [vocative](bg-dep-vocative.html) – [xcomp](bg-dep-xcomp.html)
+[acl](bg_btb-dep-acl.html) – [advcl](bg_btb-dep-advcl.html) – [advmod](bg_btb-dep-advmod.html) – [amod](bg_btb-dep-amod.html) – [appos](bg_btb-dep-appos.html) – [aux](bg_btb-dep-aux.html) – [aux:pass](bg_btb-dep-aux-pass.html) – [case](bg_btb-dep-case.html) – [cc](bg_btb-dep-cc.html) – [ccomp](bg_btb-dep-ccomp.html) – [compound](bg_btb-dep-compound.html) – [conj](bg_btb-dep-conj.html) – [cop](bg_btb-dep-cop.html) – [csubj](bg_btb-dep-csubj.html) – [csubj:pass](bg_btb-dep-csubj-pass.html) – [det](bg_btb-dep-det.html) – [discourse](bg_btb-dep-discourse.html) – [expl](bg_btb-dep-expl.html) – [fixed](bg_btb-dep-fixed.html) – [flat](bg_btb-dep-flat.html) – [goeswith](bg_btb-dep-goeswith.html) – [iobj](bg_btb-dep-iobj.html) – [mark](bg_btb-dep-mark.html) – [nmod](bg_btb-dep-nmod.html) – [nsubj](bg_btb-dep-nsubj.html) – [nsubj:pass](bg_btb-dep-nsubj-pass.html) – [nummod](bg_btb-dep-nummod.html) – [obj](bg_btb-dep-obj.html) – [obl](bg_btb-dep-obl.html) – [orphan](bg_btb-dep-orphan.html) – [parataxis](bg_btb-dep-parataxis.html) – [punct](bg_btb-dep-punct.html) – [root](bg_btb-dep-root.html) – [vocative](bg_btb-dep-vocative.html) – [xcomp](bg_btb-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 11138 sentences and 156149 tokens.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 21089 tokens (14%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
-<li>This corpus contains 777 types of words that contain both letters and punctuation. Examples: г., лв., млн., в., по-късно, г-н, млрд., д-р, св., по-малко, ген., по-голяма, ч., по-добре, проф., ИТАР-ТАСС, най-много, с., т.г., т.нар., министър-председателят, най-вече, най-добрият, най-сетне, по-голямата, по-голямо, хил., най-често, по-големи, м.г., най-големите, най-добре, най-добрите, най-малко, по-голям, ул., др., най-голям, по-силно, ст., Йоан-Павел, министър-председателя, най-големи, най-после, по-бързо, по-рано, по-скоро, полк., чл., GSM-оператор</li>
+</ul>
+
+<ul>
+<li>This corpus contains 777 types of words that contain both letters and punctuation. Examples: г., лв., млн., в., по-късно, г-н, млрд., д-р, св., по-малко, ген., по-голяма, ч., по-добре, проф., ИТАР-ТАСС, най-много, с., т.г., т.нар., м​и​н​и​с​т​ъ​р​-​п​р​е​д​с​е​д​а​т​е​л​я​т, най-вече, най-добрият, най-сетне, по-голямата, по-голямо, хил., най-често, по-големи, м.г., най-големите, най-добре, най-добрите, най-малко, по-голям, ул., др., най-голям, по-силно, ст., Йоан-Павел, м​и​н​и​с​т​ъ​р​-​п​р​е​д​с​е​д​а​т​е​л​я, най-големи, най-после, по-бързо, по-рано, по-скоро, полк., чл., GSM-оператор</li>
+</ul>
+
+<ul>
 </ul>
 
 <h2>Morphology</h2>
@@ -71,6 +122,9 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
 <ul>
 <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: SYM</li>
+</ul>
+
+<ul>
 <li>This corpus contains 33 word types tagged as particles (PART): А, Ами, Е, Значи, Па, Та, Хайде, бе, даже, дали, дано, дори, ей, ето, ли, май, ми, мигар, му, нали, не, нека, нима, нито, пък, си, стига, ти, то, уж, хич, чак, я</li>
 </ul>
 
@@ -95,7 +149,9 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
 </ul>
 
 <ul>
-<li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Fin
   <ul>
@@ -103,6 +159,9 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
     <li>VERB: има, няма, може, трябва, е, каза, могат, съобщи, заяви, стана</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>ADJ: миналата, следващата, въоръжените, останалите, свързани, миналия, управляващите, определени, цитиран, определен</li>
@@ -111,12 +170,12 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
+
 <li><a>Gender</a>
+
   <ul>
     <li>Fem
       <ul>
@@ -131,6 +190,9 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
         <li>VERB-Part: била, могла, можела, получила, представена, приета, започнала, избрана, поставена, щяла</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>ADJ: друг, новия, европейския, българския, нов, 1, новият, втори, първи, бившия</li>
@@ -144,6 +206,9 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
         <li>VERB-Part: направил, дал, заминал, искал, казал, дошъл, избран, имал, станал, видял</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neut
       <ul>
         <li>ADJ: народното, същото, цялото, друго, българското, народно, ново, новото, голямо, първото</li>
@@ -159,9 +224,13 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Animacy</a>
+
   <ul>
     <li>Anim
       <ul>
@@ -171,15 +240,22 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Number</a>
+
   <ul>
     <li>Count
       <ul>
         <li>NOUN: %, лв., млн., $, месеца, дни, лева, млрд., пъти, долара</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Plur
       <ul>
         <li>ADJ: други, другите, последните, нови, новите, първите, различни, българските, големи, въоръжените</li>
@@ -196,12 +272,18 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
         <li>VERB-Part: направили, щели, започнали, отказали, изправени, останали, открити, показани, получили, успели</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ptan
       <ul>
         <li>NOUN: хората, хора, души, преговори, преговорите, финансите, боеприпаси, книжа, книжата, белезници</li>
         <li>PROPN: Кремиковци, ОАЕ, Брадвари, Драгалевци</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: народното, българската, нова, европейската, 2001, друг, цялата, 2000, голяма, новия</li>
@@ -219,9 +301,13 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Acc
       <ul>
@@ -230,17 +316,26 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
         <li>PROPN: Петка</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dat
       <ul>
         <li>PRON: си, му, ми, й, им, ти, ни, ви, мен, мене</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Nom
       <ul>
         <li>DET: тази, това, всички, един, всеки, едно, някои, тая, всяко, някой</li>
         <li>PRON: си, това, той, които, който, тя, те, която, което, аз</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Voc
       <ul>
         <li>ADJ: Нови, уважаеми, драги, млади, Велики, Преподобни, други, любезни, мили, скъпи</li>
@@ -248,10 +343,15 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Definite</a>
+
   <ul>
     <li>Def
       <ul>
@@ -266,6 +366,9 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
         <li>VERB-Part: останалите, Останалото, Уволнените, отличените</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>ADJ: други, нова, 2001, друг, нови, 2000, голяма, български, различни, 1</li>
@@ -282,11 +385,16 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Degree and Polarity</h3>
 
+
 <li><a>Degree</a>
+
   <ul>
     <li>Cmp
       <ul>
@@ -296,6 +404,9 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
         <li>VERB-Part: по-напреднали, по-проточен</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>ADJ: други, народното, българската, нова, другите, нови, европейската, последните, 2001, друг</li>
@@ -305,6 +416,9 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
         <li>VERB-Part: Уволнените, останалите, отличените</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sup
       <ul>
         <li>ADJ: най-добрият, най-големите, най-добрите, най-голям, най-големи, най-важното, най-важната, най-голяма, най-доброто, най-добър</li>
@@ -313,9 +427,13 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Polarity</a>
+
   <ul>
     <li>Neg
       <ul>
@@ -324,12 +442,18 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Verbal Features</h3>
 
+
 <li><a>Aspect</a>
+
   <ul>
     <li>Imp
       <ul>
@@ -340,6 +464,9 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
         <li>VERB-Part: имало, трябвало, искал, имал, щели, нямало, могъл, била, могла, можела</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Perf
       <ul>
         <li>ADJ-Part: миналата, въоръжените, останалите, свързани, миналия, определени, цитиран, определен, пострадали, обединена</li>
@@ -349,9 +476,13 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Mood</a>
+
   <ul>
     <li>Cnd
       <ul>
@@ -359,12 +490,18 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
         <li>VERB-Fin: би</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Imp
       <ul>
         <li>AUX-Fin: Бъди</li>
         <li>VERB-Fin: виж, кажи, вземи, опитай, Излез, Прочети, вж., върни, дай, дайте</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>AUX-Fin: е, са, бе, бъде, беше, бяха, съм, бъдат, сме, си</li>
@@ -374,9 +511,13 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Tense</a>
+
   <ul>
     <li>Imp
       <ul>
@@ -384,6 +525,9 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
         <li>VERB-Part: имало, трябвало, щели, нямало, имал, можела, щял, знаел, щяла, имали</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Past
       <ul>
         <li>ADJ-Part: миналата, останалите, миналия, пострадали, загиналите, изминалата, останали, потъналата, участвали, записалите</li>
@@ -392,6 +536,9 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
         <li>VERB-Part: направил, дал, заминал, казал, направили, дошъл, имало, станал, станало, започнали</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pres
       <ul>
         <li>ADJ-Part: следващата, управляващите, следващите, следващия, водещи, предстоящите, предстоящата, присъстващите, работещите, следващото</li>
@@ -400,9 +547,13 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Voice</a>
+
   <ul>
     <li>Act
       <ul>
@@ -413,6 +564,9 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
         <li>VERB-Part: имало, направил, дал, трябвало, заминал, искал, казал, направили, дошъл, имал</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pass
       <ul>
         <li>ADJ-Part: въоръжените, свързани, определени, цитиран, определен, обединена, организираната, запознати, задържаните, приета</li>
@@ -420,12 +574,18 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Dem
       <ul>
@@ -434,6 +594,9 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
         <li>PRON: това, Тази</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>ADV: понякога, някъде, някога, някак, донякъде, нанякъде, отнякъде</li>
@@ -441,6 +604,9 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
         <li>PRON: нещо, някой, нещата, някои, неколцина, някого, няколко, един, едно, Единият</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Int
       <ul>
         <li>ADV: как, къде, кога, колко, откъде, докъде, где, доколко, накъде, Отде</li>
@@ -448,6 +614,9 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
         <li>PRON: кой, защо, кого, кои, коя, кое</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neg
       <ul>
         <li>ADV: никога, никак, отникъде, никъде</li>
@@ -455,12 +624,18 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
         <li>PRON: никой, нищо, никого, никому, нищото</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
         <li>DET: нашите, своите, своя, нашата, техните, наши, неговата, своята, своето, тяхното</li>
         <li>PRON: се, си, той, му, го, ни, те, тя, й, им</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rel
       <ul>
         <li>ADV: когато, както, където, колкото, откакто, откак, дето, доколкото, откъдето, гдето</li>
@@ -468,6 +643,9 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
         <li>PRON: които, който, която, което, когото, каквото, дето, що</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Tot
       <ul>
         <li>ADV: отвсякъде, навсякъде</li>
@@ -476,9 +654,13 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>NumType</a>
+
   <ul>
     <li>Card
       <ul>
@@ -486,6 +668,9 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
         <li>NUM: две, един, два, 2, една, 1, 3, три, 10, двамата</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ord
       <ul>
         <li>ADJ: 2001, 2000, първата, първите, 1, втори, първи, 1998, II, втора</li>
@@ -493,9 +678,13 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Poss</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -504,9 +693,13 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Reflex</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -515,9 +708,13 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Person</a>
+
   <ul>
     <li>1
       <ul>
@@ -527,6 +724,9 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
         <li>VERB-Fin: искам, мога, можем, имаме, кажа, говоря, искаме, мисля, смятам, надявам</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>AUX-Fin: си, сте, бъдеш, бихте, бяхте, беше, бъдете, Би, Бъди</li>
@@ -535,6 +735,9 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
         <li>VERB-Fin: можеш, имате, дойдеш, мислиш, имаш, искаш, знаеш, смятате, кажеш, коментирате</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>AUX-Fin: е, са, бе, бъде, беше, бяха, бъдат, би, биха, биват</li>
@@ -544,12 +747,19 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
 
 
+
+
+
 <h3>Other Features</h3>
+
 
 <li><a>Foreign</a>
   <ul>
@@ -567,6 +777,9 @@ If you want to collaborate, please contact [kivs&nbsp;(æt)&nbsp;bultreebank&nbs
 
 <ul>
 <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: съм, бъда.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 5 lemmas as auxiliaries (<a>aux</a>). Examples: да, ще, съм, бъда, би.</li>
 <li>This corpus uses 4 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: съм, бъда, ще, бивам.</li>
 </ul>

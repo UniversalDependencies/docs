@@ -13,7 +13,7 @@ Some words have combined values of the feature; 1 combinations have been observe
 117190 tokens (39%) have a non-empty value of `Number`.
 23730 types (76%) occur at least once with a non-empty value of `Number`.
 16131 lemmas (71%) occur at least once with a non-empty value of `Number`.
-The feature is used with 6 part-of-speech tags: <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (55395; 18% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (24752; 8% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (17439; 6% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (15843; 5% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (3757; 1% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (4; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (55395; 18% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (24752; 8% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (18989; 6% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (14293; 5% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (3757; 1% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (4; 0% instances).
 
 ### `NOUN`
 
@@ -58,32 +58,32 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `PRON`
 
-17439 <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> tokens (82% of all `PRON` tokens) have a non-empty value of `Number`.
+18989 <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> tokens (83% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="no_nynorsk-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (15977; 92%), <tt><a href="no_nynorsk-feat-Person.html">Person</a></tt><tt>=3</tt> (11200; 64%), <tt><a href="no_nynorsk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (10726; 62%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="no_nynorsk-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (17527; 92%), <tt><a href="no_nynorsk-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (12276; 65%), <tt><a href="no_nynorsk-feat-Person.html">Person</a></tt><tt>=3</tt> (11200; 59%), <tt><a href="no_nynorsk-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (9694; 51%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (4211; 24% of non-empty `Number`): <em>dei, vi, me, oss, alle, de, ingen, kvarandre, nokon, desse</em>
-* `Sing` (13228; 76% of non-empty `Number`): <em>det, han, eg, seg, ein, dette, ho, du, noko, meg</em>
+* `Plur` (4601; 24% of non-empty `Number`): <em>dei, vi, me, oss, sine, alle, våre, de, ingen, kvarandre</em>
+* `Sing` (14388; 76% of non-empty `Number`): <em>det, han, eg, seg, ein, dette, ho, du, noko, sin</em>
 * `EMPTY` (3802): <em>som, kva, kven, d., eg, ha, Dette, dét, man</em>
 
 <table>
-  <tr><th>Paradigm <i>nokon</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="no_nynorsk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>nokon</em></td><td></td></tr>
-  <tr><td><tt></tt></td><td></td><td><em>nokon</em></td></tr>
+  <tr><th>Paradigm <i>sin</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="no_nynorsk-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>sin</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="no_nynorsk-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>si</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="no_nynorsk-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>sitt</em></td><td></td></tr>
+  <tr><td><tt></tt></td><td></td><td><em>sine</em></td></tr>
 </table>
-
-`Number` seems to be **lexical feature** of `PRON`. 93% lemmas (28) occur only with one value of `Number`.
 
 ### `DET`
 
-15843 <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> tokens (96% of all `DET` tokens) have a non-empty value of `Number`.
+14293 <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> tokens (95% of all `DET` tokens) have a non-empty value of `Number`.
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (3361; 21% of non-empty `Number`): <em>dei, andre, alle, sine, desse, nokre, slike, våre, ingen, eigne</em>
-* `Sing` (12482; 79% of non-empty `Number`): <em>ein, den, eit, ei, det, denne, sin, anna, noko, sitt</em>
+* `Plur` (2971; 21% of non-empty `Number`): <em>dei, andre, alle, desse, nokre, slike, ingen, eigne, begge, nokon</em>
+* `Sing` (11322; 79% of non-empty `Number`): <em>ein, den, eit, ei, det, denne, anna, noko, dette, kvar</em>
 * `EMPTY` (713): <em>same, sjølv, kva, sjølve, neste, førre, the, II, III, Forrige</em>
 
 <table>
@@ -134,8 +134,8 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="no_nynorsk-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (5748; 54%),
 <tt>NOUN --[<tt><a href="no_nynorsk-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2821; 73%),
 <tt>NOUN --[<tt><a href="no_nynorsk-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (1934; 88%),
+<tt>NOUN --[<tt><a href="no_nynorsk-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (1697; 93%),
 <tt>ADJ --[<tt><a href="no_nynorsk-dep-obl.html">obl</a></tt>]--> NOUN</tt> (1584; 54%),
-<tt>NOUN --[<tt><a href="no_nynorsk-dep-nmod.html">nmod</a></tt>]--> DET</tt> (1523; 98%),
 <tt>ADJ --[<tt><a href="no_nynorsk-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1111; 78%),
 <tt>ADJ --[<tt><a href="no_nynorsk-dep-conj.html">conj</a></tt>]--> ADJ</tt> (861; 84%),
 <tt>ADJ --[<tt><a href="no_nynorsk-dep-expl.html">expl</a></tt>]--> PRON</tt> (837; 91%).

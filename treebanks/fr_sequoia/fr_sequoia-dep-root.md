@@ -11,9 +11,9 @@ This relation is universal.
 3099 nodes (4%) are attached to their parents as `root`.
 
 3099 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.88028396256857.
+Average distance between parent and child is 6.88286544046467.
 
-The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1959; 63% instances), -<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (789; 25% instances), -<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (174; 6% instances), -<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (130; 4% instances), -<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (23; 1% instances), -<tt><a href="fr_sequoia-pos-X.html">X</a></tt> (10; 0% instances), -<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (5; 0% instances), -<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (3; 0% instances), -<tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (3; 0% instances), -<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances).
+The following 10 pairs of parts of speech are connected with `root`: -<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1964; 63% instances), -<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (789; 25% instances), -<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (174; 6% instances), -<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (130; 4% instances), -<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (18; 1% instances), -<tt><a href="fr_sequoia-pos-X.html">X</a></tt> (10; 0% instances), -<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (5; 0% instances), -<tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (3; 0% instances), -<tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (3; 0% instances), -<tt><a href="fr_sequoia-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances).
 
 
 ~~~ conllu
@@ -51,7 +51,7 @@ The following 10 pairs of parts of speech are connected with `root`: -<tt><a hre
 11	30	30	NUM	_	NumType=Card	10	nummod	_	_
 12	à	à	ADP	_	_	14	case	_	_
 13	18	18	NUM	_	NumType=Card	14	nummod	_	SpaceAfter=No
-14	h	h	NOUN	_	_	10	nmod	_	SpaceAfter=No
+14	h	h	NOUN	_	_	10	nmod:range	_	SpaceAfter=No
 15	.	.	PUNCT	_	_	1	punct	_	_
 
 ~~~

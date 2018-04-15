@@ -8,71 +8,65 @@ udver: '2'
 
 This relation is universal.
 
-1038 nodes (4%) are attached to their parents as `conj`.
+1037 nodes (4%) are attached to their parents as `conj`.
 
 1037 instances of `conj` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 8.13391136801541.
+Average distance between parent and child is 8.13404050144648.
 
-The following 45 pairs of parts of speech are connected with `conj`: <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (372; 36% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (213; 21% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (117; 11% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (116; 11% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (27; 3% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (24; 2% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (23; 2% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (21; 2% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (17; 2% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (14; 1% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (12; 1% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (10; 1% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="gl_treegal-pos-DET.html">DET</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-DET.html">DET</a></tt>-<tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-DET.html">DET</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-DET.html">DET</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 conj	color:blue
-1	O	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	peón	peón	NOUN	Scms	Gender=Masc|Number=Sing	5	nsubj	_	_
-3	ou	ou	CCONJ	Cc	_	4	cc	_	_
-4	trompo	trompo	NOUN	Scms	Gender=Masc|Number=Sing	2	conj	_	_
-5	baila	bailar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-6	enriba	enriba	ADV	Wn	_	9	advmod	_	_
-7	de	de	ADP	P	AdpType=Prep	9	case	_	_
-8	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	pé	pé	NOUN	Scms	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
-10	.	.	PUNCT	Q.	_	5	punct	_	_
-
-~~~
+The following 45 pairs of parts of speech are connected with `conj`: <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (372; 36% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (212; 20% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (117; 11% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (115; 11% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (27; 3% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (25; 2% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (23; 2% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (21; 2% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt>-<tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (17; 2% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (14; 1% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (12; 1% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (10; 1% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (8; 1% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (5; 0% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (4; 0% instances), <tt><a href="gl_treegal-pos-DET.html">DET</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-DET.html">DET</a></tt>-<tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-DET.html">DET</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-DET.html">DET</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="gl_treegal-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 9 conj	color:blue
-1	Creo	crer	VERB	Vpi10s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	en	en	ADP	P	AdpType=Prep	4	case	_	_
-3	unha	un	DET	Difs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-4	España	España	PROPN	Spfs	Gender=Fem|Number=Sing	1	obl	_	_
-5	plural	plural	ADJ	A0fs	Gender=Fem|Number=Sing	4	amod	_	SpaceAfter=No
-6	,	,	PUNCT	Q,	_	9	punct	_	_
-7	pero	pero	SCONJ	Cs	_	9	cc	_	_
-8	non	non	ADV	Wn	Polarity=Neg	9	advmod	_	_
-9	quero	querer	VERB	Vpi10s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	conj	_	_
-10	fronteiras	fronteira	NOUN	Scfp	Gender=Fem|Number=Plur	9	obj	_	SpaceAfter=No
-11	.	.	PUNCT	Q.	_	1	punct	_	_
+# visual-style 1 3 conj	color:blue
+1	Liberdade	liberdade	NOUN	Scfs	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+2	,	,	PUNCT	Q,	_	3	punct	_	_
+3	xustiza	xustiza	NOUN	Scfs	Gender=Fem|Number=Sing	1	conj	_	SpaceAfter=No
+4	,	,	PUNCT	Q,	_	5	punct	_	_
+5	benestar	benestar	NOUN	Scms	Gender=Masc|Number=Sing	1	conj	_	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 conj	color:blue
+1	Por	por	ADP	P	AdpType=Prep	2	mark	_	_
+2	emocionar	emocionar	VERB	V0f000	VerbForm=Inf	0	root	_	_
+3	nos	nos	PRON	Raa1ap	Case=Acc|Clitic=Yes|Gender=Com|Number=Plur|Person=1|PronType=Prs	2	obj	_	_
+4	e	e	CCONJ	Cc	_	5	cc	_	_
+5	facer	facer	VERB	V0f000	VerbForm=Inf	2	conj	_	_
+6	nos	nos	PRON	Raa1ap	Case=Acc|Clitic=Yes|Gender=Com|Number=Plur|Person=1|PronType=Prs	5	obj	_	_
+7	sentir	sentir	VERB	V0f000	VerbForm=Inf	5	xcomp	_	SpaceAfter=No
+8	.	.	PUNCT	Q.	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 9 conj	color:blue
-1	En	en	ADP	P	AdpType=Prep	4	advmod	_	_
-2	xeral	xeral	ADJ	A0ms	Number=Sing	1	fixed	_	_
-3	son	ser	AUX	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-4	palabras	palabra	NOUN	Scfp	Gender=Fem|Number=Plur	0	root	_	_
-5	de	de	ADP	P	AdpType=Prep	6	case	_	_
-6	uso	uso	NOUN	Scms	Gender=Masc|Number=Sing	4	nmod	_	_
-7	técnico	técnico	ADJ	A0ms	Gender=Masc|Number=Sing	6	amod	_	_
-8	e	e	CCONJ	Cc	_	9	cc	_	_
-9	científico	científico	ADJ	A0ms	Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
-10	.	.	PUNCT	Q.	_	4	punct	_	_
+# visual-style 9 11 conj	color:blue
+1	A	a	ADP	P	AdpType=Prep	3	case	_	_
+2	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	veces	vez	NOUN	Scfp	Gender=Fem|Number=Plur	5	obl	_	_
+4	podemos	poder	AUX	Vpi10p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	escoller	escoller	VERB	V0f000	VerbForm=Inf	0	root	_	_
+6	para	para	ADP	P	AdpType=Prep	7	mark	_	_
+7	andar	andar	VERB	V0f000	VerbForm=Inf	5	advcl	_	_
+8	pés	pé	NOUN	Scmp	Gender=Masc|Number=Plur	5	obj	_	_
+9	latinos	latino	ADJ	A0mp	Gender=Masc|Number=Plur	8	amod	_	_
+10	ou	ou	CCONJ	Cc	_	11	cc	_	_
+11	gregos	grego	ADJ	A0mp	Gender=Masc|Number=Plur	9	conj	_	SpaceAfter=No
+12	:	:	PUNCT	Q:	_	7	punct	_	_
 
 ~~~
 

@@ -22,53 +22,58 @@ The following 33 pairs of parts of speech are connected with `fixed`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 fixed	color:blue
-1	tako	tako	CCONJ	Cc	_	3	cc	_	word=tak|msd=Vp
+1	tako	tako	CCONJ	Cc	_	7	advmod	_	word=tak|msd=Vp
 2	da	da	SCONJ	Cs	_	1	fixed	_	word=da|msd=Vd
-3	pazi	paziti	VERB	Vmpm2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	word=pazi|msd=Ggnvde
+3	mogoče	mogoče	ADV	Rgp	Degree=Pos	7	advmod	_	word=mogoče|msd=Rsn
+4	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	cop	_	word=je|msd=Gp-ste-n
+5	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	nsubj	_	word=to|msd=Zk-sei
+6	celo	celo	PART	Q	_	7	advmod	_	word=celo|msd=L
+7	zanimivo	zanimiv	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	word=zanimivo|msd=Ppnsei
+8	ne	ne	PART	Q	_	7	discourse	_	word=ne|msd=L
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 fixed	color:blue
-1	recimo	reči	VERB	Vmem1p	Aspect=Perf|Mood=Imp|Number=Plur|Person=1|VerbForm=Fin	3	parataxis:discourse	_	word=recimo|msd=Ggdvpm
-2	eee	eee	INTJ	I	_	3	discourse:filler	_	word=eee|msd=M
-3	čevlje	čevelj	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	0	root	_	word=čevle|msd=Sommt
-4	nogavice	nogavica	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	3	conj	_	word=nogavice|msd=Sozmt
-5	ali	ali	CCONJ	Cc	_	7	cc	_	word=ali|msd=Vp
-6	pa	pa	CCONJ	Cc	_	5	fixed	_	word=pa|msd=Vp
-7	kravato	kravata	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	3	conj	_	word=kravato|msd=Sozet
-8	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	word=jz|msd=Zop-ei
-9	sem	biti	VERB	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	parataxis	_	word=sem|msd=Gp-spe-n
-10	rec	_	X	Xt	_	9	reparandum	_	word=rec|msd=Nt
-11	[gap]	[gap]	X	X	_	3	punct	_	word=[gap]|msd=N
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 fixed	color:blue
+1	ali	ali	CCONJ	Cc	_	6	cc	_	word=al|msd=Vp
+2	pa	pa	CCONJ	Cc	_	1	fixed	_	word=pej|msd=Vp
+3	ista	isti	DET	Pi-fsn	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	5	det	_	word=ista|msd=Zn-zei
+4	mmm	mmm	INTJ	I	_	5	discourse:filler	_	word=mmm|msd=M
+5	zadeva	zadeva	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	word=zadeva|msd=Sozei
+6	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	word=je|msd=Gp-ste-n
+7	dol	dol	ADV	Rgp	Degree=Pos	6	advmod	_	word=duol|msd=Rsn
+8	če	če	SCONJ	Cs	_	9	mark	_	word=če|msd=Vd
+9	greš	iti	VERB	Vmbr2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	advcl	_	word=griš|msd=Ggvsde
+10	med	med	ADP	Si	Case=Ins	11	case	_	word=med|msd=Do
+11	parmo	Parma	PROPN	Npfsi	Case=Ins|Gender=Fem|Number=Sing	9	obl	_	word=Parmo|msd=Slzeo
+12	in	in	CCONJ	Cc	_	14	cc	_	word=in|msd=Vp
+13	la	la	X	Xf	Foreign=Yes	14	nmod	_	word=La|msd=Nj
+14	spezio	Spezia	PROPN	Npfsi	Case=Ins|Gender=Fem|Number=Sing	11	conj	_	word=Specio|msd=Slzeo
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 13 fixed	color:blue
-1	tu	tu	ADV	Rgp	Degree=Pos	0	root	_	word=tu|msd=Rsn
-2	[gap]	[gap]	X	X	_	1	punct	_	word=[gap]|msd=N
-3	ko	ko	SCONJ	Cs	_	4	mark	_	word=ko|msd=Vd
-4	greš	iti	VERB	Vmbr2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	parataxis	_	word=greš|msd=Ggvsde
-5	v	v	ADP	Sa	Case=Acc	6	case	_	word=v|msd=Dt
-6	šolo	šola	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	word=šolo|msd=Sozet
-7	pa	pa	CCONJ	Cc	_	10	cc	_	word=pa|msd=Vp
-8	si	biti	AUX	Va-r2s-n	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	cop	_	word=si|msd=Gp-sde-n
-9	prvič	prvič	ADV	Rgp	Degree=Pos	10	advmod	_	word=prvič|msd=Rsn
-10	ocenjen	ocenjen	ADJ	Appmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part	4	conj	_	word=ocenjen|msd=Pdnmein
-11	recimo	reči	VERB	Vmem1p	Aspect=Perf|Mood=Imp|Number=Plur|Person=1|VerbForm=Fin	4	parataxis:discourse	_	word=recimo|msd=Ggdvpm
-12	a	a	ADV	Rgp	Degree=Pos	4	discourse	_	word=a|msd=Rsn
-13	ne	ne	PART	Q	_	12	fixed	_	word=ne|msd=L
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 fixed	color:blue
+1	ja	ja	PART	Q	_	4	discourse	_	word=ja|msd=L
+2	ja	ja	PART	Q	_	4	discourse	_	word=ja|msd=L
+3	pa	pa	CCONJ	Cc	_	4	cc	_	word=pa|msd=Vp
+4	moraš	morati	VERB	Vmpr2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	word=morš|msd=Ggnsde
+5	malo	malo	DET	Rgp	PronType=Ind	4	advmod	_	word=malo|msd=Rsn
+6	dohajati	dohajati	VERB	Vmpn	Aspect=Imp|VerbForm=Inf	4	xcomp	_	word=dohajat|msd=Ggnn
+7	a	a	ADV	Rgp	Degree=Pos	4	discourse	_	word=a|msd=Rsn
+8	ne	ne	PART	Q	_	7	fixed	_	word=n|msd=L
+9	da	da	SCONJ	Cs	_	7	fixed	_	word=da|msd=Vd
+10	[speaker:laughter]	[speaker:laughter]	X	X	_	4	punct	_	word=[speaker:laughter]|msd=N
 
 ~~~
 

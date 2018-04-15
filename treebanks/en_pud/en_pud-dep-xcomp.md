@@ -22,19 +22,19 @@ The following 13 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 8 xcomp	color:blue
-1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	SpaceAfter=No
-2	’re	’re	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	_
-3	usually	usually	ADV	RB	_	4	advmod	_	_
-4	artists	artist	NOUN	NNS	Number=Plur	0	root	_	_
-5	who	who	PRON	WP	PronType=Rel	6	nsubj	_	_
-6	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
-7	to	to	PART	TO	_	8	mark	_	_
-8	do	do	VERB	VB	VerbForm=Inf	6	xcomp	_	_
-9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	_
-10	bunch	bunch	NOUN	NN	Number=Sing	8	obj	_	_
-11	of	of	ADP	IN	_	12	case	_	_
-12	stuff	stuff	NOUN	NN	Number=Sing	10	nmod	_	SpaceAfter=No
-13	.	.	PUNCT	.	_	4	punct	_	_
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	4:nsubj	SpaceAfter=No
+2	’re	’re	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	4:cop	_
+3	usually	usually	ADV	RB	_	4	advmod	4:advmod	_
+4	artists	artist	NOUN	NNS	Number=Plur	0	root	6:nsubj|8:nsubj:xsubj	_
+5	who	who	PRON	WP	PronType=Rel	6	nsubj	4:ref	_
+6	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	acl:relcl	4:acl:relcl	_
+7	to	to	PART	TO	_	8	mark	8:mark	_
+8	do	do	VERB	VB	VerbForm=Inf	6	xcomp	6:xcomp	_
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	10:det	_
+10	bunch	bunch	NOUN	NN	Number=Sing	8	obj	8:obj	_
+11	of	of	ADP	IN	_	12	case	12:case	_
+12	stuff	stuff	NOUN	NN	Number=Sing	10	nmod	10:nmod:of	SpaceAfter=No
+13	.	.	PUNCT	.	_	4	punct	4:punct	_
 
 ~~~
 
@@ -45,14 +45,14 @@ The following 13 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 xcomp	color:blue
-1	Still	still	ADV	RB	_	4	advmod	_	SpaceAfter=No
-2	,	,	PUNCT	,	_	4	punct	_	_
-3	there	there	PRON	EX	_	4	expl	_	_
-4	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	questions	question	NOUN	NNS	Number=Plur	4	nsubj	_	_
-6	left	leave	VERB	VBN	Tense=Past|VerbForm=Part	5	acl	_	_
-7	unanswered	unanswered	ADJ	JJ	Degree=Pos	6	xcomp	_	SpaceAfter=No
-8	.	.	PUNCT	.	_	4	punct	_	_
+1	Still	still	ADV	RB	_	4	advmod	4:advmod	SpaceAfter=No
+2	,	,	PUNCT	,	_	4	punct	4:punct	_
+3	there	there	PRON	EX	_	4	expl	4:expl	_
+4	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+5	questions	question	NOUN	NNS	Number=Plur	4	nsubj	4:nsubj	_
+6	left	leave	VERB	VBN	Tense=Past|VerbForm=Part	5	acl	5:acl	_
+7	unanswered	unanswered	ADJ	JJ	Degree=Pos	6	xcomp	6:xcomp	SpaceAfter=No
+8	.	.	PUNCT	.	_	4	punct	4:punct	_
 
 ~~~
 
@@ -63,15 +63,15 @@ The following 13 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 7 xcomp	color:blue
-1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	SpaceAfter=No
-3	n’t	n’t	PART	RB	Polarity=Neg	4	advmod	_	_
-4	call	call	VERB	VB	VerbForm=Inf	0	root	_	_
-5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
-6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	_
-7	beast	beast	NOUN	NN	Number=Sing	4	xcomp	_	_
-8	lightly	lightly	ADV	RB	_	4	advmod	_	SpaceAfter=No
-9	.	.	PUNCT	.	_	4	punct	_	_
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	4:aux	SpaceAfter=No
+3	n’t	n’t	PART	RB	Polarity=Neg	4	advmod	4:advmod	_
+4	call	call	VERB	VB	VerbForm=Inf	0	root	0:root	_
+5	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	4:obj|7:nsubj:xsubj	_
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	7:det	_
+7	beast	beast	NOUN	NN	Number=Sing	4	xcomp	4:xcomp	_
+8	lightly	lightly	ADV	RB	_	4	advmod	4:advmod	SpaceAfter=No
+9	.	.	PUNCT	.	_	4	punct	4:punct	_
 
 ~~~
 

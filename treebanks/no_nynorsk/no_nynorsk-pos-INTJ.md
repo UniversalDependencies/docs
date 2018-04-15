@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Norwegian-Nynorsk: POS Tags: `INTJ`
 
 There are 38 `INTJ` lemmas (0%), 38 `INTJ` types (0%) and 234 `INTJ` tokens (0%).
-Out of 17 observed tags, the rank of `INTJ` is: 10 in number of lemmas, 12 in number of types and 16 in number of tokens.
+Out of 17 observed tags, the rank of `INTJ` is: 12 in number of lemmas, 13 in number of types and 16 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>ja, nei, hm, jau, jo, ha, hei, he, tja, jaja</em>
 
@@ -47,7 +47,7 @@ The 10 most frequent ambiguous types:  <em>ja</em> (<tt><a href="no_nynorsk-pos-
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.347131).
+The form / lemma ratio of `INTJ` is 1.000000 (the average of all parts of speech is 1.346565).
 
 The 1st highest number of forms (1) was observed with the lemma “arrgh”: <em>Arrgh</em>.
 
@@ -76,5 +76,5 @@ The highest child degree of a `INTJ` node is 5.
 
 Children of `INTJ` nodes are attached using 9 different relations: <tt><a href="no_nynorsk-dep-punct.html">punct</a></tt> (244; 83% instances), <tt><a href="no_nynorsk-dep-advmod.html">advmod</a></tt> (13; 4% instances), <tt><a href="no_nynorsk-dep-conj.html">conj</a></tt> (10; 3% instances), <tt><a href="no_nynorsk-dep-cc.html">cc</a></tt> (8; 3% instances), <tt><a href="no_nynorsk-dep-discourse.html">discourse</a></tt> (8; 3% instances), <tt><a href="no_nynorsk-dep-obl.html">obl</a></tt> (6; 2% instances), <tt><a href="no_nynorsk-dep-parataxis.html">parataxis</a></tt> (3; 1% instances), <tt><a href="no_nynorsk-dep-case.html">case</a></tt> (2; 1% instances), <tt><a href="no_nynorsk-dep-advcl.html">advcl</a></tt> (1; 0% instances)
 
-Children of `INTJ` nodes belong to 9 different parts of speech: <tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (244; 83% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (10; 3% instances), <tt><a href="no_nynorsk-pos-INTJ.html">INTJ</a></tt> (9; 3% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (9; 3% instances), <tt><a href="no_nynorsk-pos-CCONJ.html">CCONJ</a></tt> (8; 3% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (8; 3% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
+Children of `INTJ` nodes belong to 10 different parts of speech: <tt><a href="no_nynorsk-pos-PUNCT.html">PUNCT</a></tt> (244; 83% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (9; 3% instances), <tt><a href="no_nynorsk-pos-INTJ.html">INTJ</a></tt> (9; 3% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (9; 3% instances), <tt><a href="no_nynorsk-pos-CCONJ.html">CCONJ</a></tt> (8; 3% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (8; 3% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (4; 1% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="no_nynorsk-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt> (1; 0% instances)
 

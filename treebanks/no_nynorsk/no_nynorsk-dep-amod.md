@@ -47,7 +47,7 @@ The following 8 pairs of parts of speech are connected with `amod`: <tt><a href=
 3	avmektige	avmektig	ADJ	_	Definite=Def|Degree=Pos|Number=Sing	4	amod	_	_
 4	Europautvalet	Europautvalet	PROPN	_	_	7	nsubj	_	_
 5	var	vere	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	7	cop	_	_
-6	ikkje	ikkje	ADV	_	Polarity=Neg	7	advmod	_	_
+6	ikkje	ikkje	PART	_	Polarity=Neg	7	advmod	_	_
 7	påtenkt	påtenkt	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	SpaceAfter=No
 8	.	$.	PUNCT	_	_	7	punct	_	_
 

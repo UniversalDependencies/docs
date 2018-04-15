@@ -15,44 +15,44 @@ The 10 most frequent `INTJ` types:  <em>eee, mhm, eem, aha, mmm, aja, a, ej, aaa
 
 The 10 most frequent ambiguous lemmas: <em>a</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 137, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 16, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 3, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>o</em> (<tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 50, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 8), <em>m</em> (<tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 2), <em>ti</em> (<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 194, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 137, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 16, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="sl_sst-pos-X.html">X</a></tt> 4, <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 3), <em>o</em> (<tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 50, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 8, <tt><a href="sl_sst-pos-X.html">X</a></tt> 4), <em>m</em> (<tt><a href="sl_sst-pos-X.html">X</a></tt> 16, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 2), <em>je</em> (<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 699, <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 299, <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 5, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 3), <em>di</em> (<tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>e</em> (<tt><a href="sl_sst-pos-X.html">X</a></tt> 3, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 2), <em>jo</em> (<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 37, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 1), <em>ti</em> (<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 100, <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 15, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>u</em> (<tt><a href="sl_sst-pos-X.html">X</a></tt> 8, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 137, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 16, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 6, <tt><a href="sl_sst-pos-X.html">X</a></tt> 4, <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 3), <em>o</em> (<tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 50, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 8, <tt><a href="sl_sst-pos-X.html">X</a></tt> 4), <em>m</em> (<tt><a href="sl_sst-pos-X.html">X</a></tt> 16, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 5, <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 2), <em>je</em> (<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 700, <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 298, <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 5, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 3), <em>di</em> (<tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>e</em> (<tt><a href="sl_sst-pos-X.html">X</a></tt> 3, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 2), <em>jo</em> (<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 37, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 1), <em>ti</em> (<tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 100, <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 15, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 1, <tt><a href="sl_sst-pos-X.html">X</a></tt> 1), <em>u</em> (<tt><a href="sl_sst-pos-X.html">X</a></tt> 8, <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 1)
 
 
 * <em>a</em>
-  * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 137: <em>tu [gap] ko greš v šolo pa si prvič ocenjen recimo <b>a</b> ne</em>
-  * <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 16: <em><b>a</b> da</em>
+  * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 137: <em><b>a</b> res ali kaj ?</em>
+  * <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 16: <em><b>a</b></em>
   * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 6: <em>da je to [gap] mislim <b>a</b></em>
   * <tt><a href="sl_sst-pos-X.html">X</a></tt> 4: <em><b>a</b> [gap] ampak jaz se ga spomnim kot profesorja ki sebe daje</em>
   * <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 3: <em><b>a</b> jaz ja takvida</em>
 * <em>o</em>
-  * <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 50: <em><b>o</b> koncu kariere</em>
-  * <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 8: <em><b>o</b> to pa ne bo šlo</em>
+  * <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 50: <em>jaz sem danes pozabil zvezke doma ker sem mislil da pišemo to <b>o</b> ronji</em>
+  * <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 8: <em><b>o</b> tako obleko bi jaz imela</em>
   * <tt><a href="sl_sst-pos-X.html">X</a></tt> 4: <em>eee torej on [gap] <b>o</b> [gap]</em>
 * <em>m</em>
-  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 16: <em>[all:laughter] saj zdaj si pa kot <b>m</b> [gap] ne vem beavis and butthead</em>
-  * <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 5: <em>mm … <b>m</b></em>
+  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 16: <em>pa veš da bodo <b>m</b> [gap] veš da bodo <b>m</b> [gap]</em>
+  * <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 5: <em><b>m</b> <b>m</b></em>
   * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 2: <em><b>m</b> <b>m</b> ne avto [gap] saj avtomob [gap] [:voice] menda je šel do vsakega avta da ga je požegnal</em>
 * <em>je</em>
-  * <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 699: <em>ja lionizem <b>je</b> tudi morda največja socialna mreža v svetu</em>
-  * <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 299: <em>na vrhu <b>je</b> tako kot si rekla en šef lahko sta tudi dva</em>
+  * <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> 700: <em><b>je</b> videl kakšne barve mešajo</em>
+  * <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 298: <em>verjetno <b>je</b> tudi v teh ugotovitvah naše poslušalke kar precej soli ne</em>
   * <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 5: <em>sploh če <b>je</b> ne prebereš mislim tako da jo prebereš</em>
   * <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 3: <em><b>je</b> ene štir [gap] ene š [gap] štirideset</em>
 * <em>di</em>
   * <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 2: <em>pa če noče zaspati ko je še mala pa ji špilaš pred posteljico veš [audience:laughter] tako delaš ti <b>di</b> <b>di</b> pa še igraš</em>
   * <tt><a href="sl_sst-pos-X.html">X</a></tt> 1: <em>v povprečju moško telo nar [gap] [gap] <b>di</b> dvajset do trideset procentov več kot eee testosterona kot žensko ampak eee p [gap] igra pomembno vlogo v zdravju tako moškega tudi eee žensk</em>
 * <em>e</em>
-  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 3: <em>eee <b>e</b> [gap] enkraten no res</em>
+  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 3: <em>a <b>e</b> [gap]</em>
   * <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 2: <em><b>e</b> ?</em>
 * <em>jo</em>
-  * <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 37: <em>sploh če je ne prebereš mislim tako da <b>jo</b> prebereš</em>
+  * <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 37: <em>samo ti pa niso v oplotnici doma ti so <b>jo</b> v zrečah</em>
   * <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 1: <em><b>jo</b> pa ej sploh ne vem a so se pogledal oni mislim na teh slikah k</em>
 * <em>ti</em>
-  * <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 100: <em>ko bo prišel domov pa <b>ti</b> bo stopnice pokozlal</em>
+  * <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 100: <em><b>ti</b> nalijem še zraven ?</em>
   * <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 15: <em>samo <b>ti</b> pa niso v oplotnici doma <b>ti</b> so jo v zrečah</em>
   * <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 1: <em>pa če noče zaspati ko je še mala pa ji špilaš pred posteljico veš [audience:laughter] tako delaš <b>ti</b> di di pa še igraš</em>
   * <tt><a href="sl_sst-pos-X.html">X</a></tt> 1: <em>in se smejem kot matasta tipo ki že costi <b>ti</b> ga bi bujeri ser [all:laughter]</em>
 * <em>u</em>
-  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 8: <em>aja <b>u</b> [gap] ne saj so predavatelji so sigurno mlajši od tele [gap]</em>
+  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 8: <em>ja zdajle imate <b>u</b> [gap] a je tu kolektiven ali kako je zdaj to</em>
   * <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 1: <em><b>u</b> zanimivo</em>
 
 ## Morphology

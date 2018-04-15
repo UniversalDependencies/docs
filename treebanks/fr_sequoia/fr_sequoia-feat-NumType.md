@@ -21,7 +21,7 @@ The feature is used with 4 part-of-speech tags: <tt><a href="fr_sequoia-pos-NUM.
 `NUM` tokens may have the following values of `NumType`:
 
 * `Card` (1645; 100% of non-empty `NumType`): <em>deux, 5, 2006, trois, 2, 10, 30, 4, 3, 1</em>
-* `EMPTY` (5): <em>14, 2, 3, 3000, 914571</em>
+* `EMPTY` (1): <em>3000</em>
 
 `NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (348) occur only with one value of `NumType`.
 
@@ -34,7 +34,7 @@ The most frequent other feature values with which `ADJ` and `NumType` co-occurre
 `ADJ` tokens may have the following values of `NumType`:
 
 * `Ord` (207; 100% of non-empty `NumType`): <em>première, premier, dernier, 3e, deuxième, 1er, premiers, troisième, quatrième, 21e</em>
-* `EMPTY` (4181): <em>autres, ancien, indésirables, tous, autre, zolédronique, européenne, rénale, politique, même</em>
+* `EMPTY` (4188): <em>autres, tous, ancien, indésirables, autre, zolédronique, européenne, rénale, politique, même</em>
 
 `NumType` seems to be **lexical feature** of `ADJ`. 100% lemmas (24) occur only with one value of `NumType`.
 
@@ -47,7 +47,7 @@ The most frequent other feature values with which `NOUN` and `NumType` co-occurr
 `NOUN` tokens may have the following values of `NumType`:
 
 * `Card` (118; 100% of non-empty `NumType`): <em>millions, milliards, 1/10, 2006-08-07, 1/100, milliard, 1/1000, million, -1,5, -2,5</em>
-* `EMPTY` (14912): <em>patients, affaire, %, bivalirudine, ans, perfusion, traitement, mg, président, cas</em>
+* `EMPTY` (14893): <em>patients, affaire, %, bivalirudine, ans, perfusion, traitement, mg, président, cas</em>
 
 `NumType` seems to be **lexical feature** of `NOUN`. 100% lemmas (38) occur only with one value of `NumType`.
 
@@ -60,7 +60,7 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 `PRON` tokens may have the following values of `NumType`:
 
 * `Card` (63; 100% of non-empty `NumType`): <em>1, deux, 100, 1/10, 1/100, 10, 6, 96, six, trois</em>
-* `EMPTY` (2835): <em>il, qui, nous, se, je, s', vous, elle, ce, que</em>
+* `EMPTY` (2830): <em>il, qui, nous, se, je, s', vous, elle, ce, que</em>
 
 `NumType` seems to be **lexical feature** of `PRON`. 100% lemmas (44) occur only with one value of `NumType`.
 
@@ -68,10 +68,13 @@ The most frequent other feature values with which `PRON` and `NumType` co-occurr
 
 The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<tt><a href="fr_sequoia-dep-conj.html">conj</a></tt>]--> NUM</tt> (30; 100%),
-<tt>NUM --[<tt><a href="fr_sequoia-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (23; 100%),
+<tt>NUM --[<tt><a href="fr_sequoia-dep-nmod.html">nmod</a></tt>]--> NUM</tt> (19; 100%),
 <tt>ADJ --[<tt><a href="fr_sequoia-dep-conj.html">conj</a></tt>]--> ADJ</tt> (4; 100%),
 <tt>NOUN --[<tt><a href="fr_sequoia-dep-conj.html">conj</a></tt>]--> NOUN</tt> (4; 57%),
+<tt>NUM --[<tt><a href="fr_sequoia-dep-nmod-range.html">nmod:range</a></tt>]--> NUM</tt> (4; 100%),
 <tt>NUM --[<tt><a href="fr_sequoia-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (3; 100%),
 <tt>NUM --[<tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt>]--> NUM</tt> (2; 100%),
+<tt>PRON --[<tt><a href="fr_sequoia-dep-nmod-range.html">nmod:range</a></tt>]--> PRON</tt> (2; 100%),
+<tt>NOUN --[<tt><a href="fr_sequoia-dep-nmod-range.html">nmod:range</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>PRON --[<tt><a href="fr_sequoia-dep-conj.html">conj</a></tt>]--> PRON</tt> (1; 100%).
 

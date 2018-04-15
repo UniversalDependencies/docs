@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-16462 nodes (10%) are attached to their parents as `root`.
+18400 nodes (9%) are attached to their parents as `root`.
 
-16462 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.75628720690074.
+18400 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.90347826086956.
 
-The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (13530; 82% instances), -<tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (906; 6% instances), -<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (857; 5% instances), -<tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> (298; 2% instances), -<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (292; 2% instances), -<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (211; 1% instances), -<tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (111; 1% instances), -<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (91; 1% instances), -<tt><a href="la_proiel-pos-INTJ.html">INTJ</a></tt> (75; 0% instances), -<tt><a href="la_proiel-pos-X.html">X</a></tt> (53; 0% instances), -<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (38; 0% instances).
+The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (15031; 82% instances), -<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (1049; 6% instances), -<tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (1023; 6% instances), -<tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> (343; 2% instances), -<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (324; 2% instances), -<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (232; 1% instances), -<tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (121; 1% instances), -<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (98; 1% instances), -<tt><a href="la_proiel-pos-INTJ.html">INTJ</a></tt> (79; 0% instances), -<tt><a href="la_proiel-pos-X.html">X</a></tt> (57; 0% instances), -<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (43; 0% instances).
 
 
 ~~~ conllu
@@ -37,20 +37,6 @@ The following 11 pairs of parts of speech are connected with `root`: -<tt><a hre
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 0	bgColor:blue
-# visual-style 0	fgColor:white
-# visual-style 0 3 root	color:blue
-1	vos	vos	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	ref=MATT_5.13
-2	estis	sum	AUX	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=MATT_5.13
-3	sal	sal	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	0	root	_	ref=MATT_5.13
-4	terrae	terra	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	ref=MATT_5.13
-
-~~~
-
-
-~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 0	bgColor:blue
@@ -64,6 +50,20 @@ The following 11 pairs of parts of speech are connected with `root`: -<tt><a hre
 6	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ref=MATT_5.3
 7	regnum	regnum	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	ref=MATT_5.3
 8	caelorum	caelum	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	ref=MATT_5.3
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 3 root	color:blue
+1	vos	vos	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	ref=MATT_5.13
+2	estis	sum	AUX	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=MATT_5.13
+3	sal	sal	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	0	root	_	ref=MATT_5.13
+4	terrae	terra	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	ref=MATT_5.13
 
 ~~~
 

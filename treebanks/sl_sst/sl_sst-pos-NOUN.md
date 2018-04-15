@@ -19,8 +19,8 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="sl_sst-pos-ADV.h
 
 
 * <em>a</em>
-  * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 137: <em>tu [gap] ko greš v šolo pa si prvič ocenjen recimo <b>a</b> ne</em>
-  * <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 16: <em><b>a</b> da</em>
+  * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 137: <em><b>a</b> res ali kaj ?</em>
+  * <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 16: <em><b>a</b></em>
   * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 6: <em>da je to [gap] mislim <b>a</b></em>
   * <tt><a href="sl_sst-pos-X.html">X</a></tt> 4: <em><b>a</b> [gap] ampak jaz se ga spomnim kot profesorja ki sebe daje</em>
   * <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 3: <em><b>a</b> jaz ja takvida</em>
@@ -28,19 +28,19 @@ The 10 most frequent ambiguous types:  <em>a</em> (<tt><a href="sl_sst-pos-ADV.h
   * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 6: <em>a tako moraš pol na <b>konec</b> še zmeraj s smetišnico pobrati ali</em>
   * <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 2: <em>ja se bolj splača zdaj moram zdaj moram še ono moram še internet isto ker internet mi bo pa zdaj pa eee <b>konec</b> marca pretekel ne</em>
 * <em>minus</em>
-  * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 6: <em><b>minus</b> tri iks ja</em>
+  * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 6: <em>ali pa je skozi <b>minus</b></em>
   * <tt><a href="sl_sst-pos-X.html">X</a></tt> 1: <em>ja aber tule morava travo še [name:personal] a boš ti hambrt a boš ti tudi farbala ? … sieben <b>minus</b> funf gleich zwei</em>
 * <em>kot</em>
-  * <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 91: <em>na vrhu je tako <b>kot</b> si rekla en šef lahko sta tudi dva</em>
-  * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 5: <em>ja ampak tukaj če gledava ta <b>kot</b> kaj bo ta črta glede na ta <b>kot</b> ?</em>
+  * <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 91: <em>ja če se vam zdi za za bolj za klasifikacijo nezasebno <b>kot</b> zasebno komot</em>
+  * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 5: <em><b>kot</b> petinšestdeset eee petnš [gap] eee petnajst stopinj</em>
 * <em>plus</em>
-  * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 5: <em>zato poznamo ion ena <b>plus</b> ion dva <b>plus</b> in ion tri <b>plus</b></em>
+  * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 5: <em>ion <b>plus</b> ki ga imenujemo kation</em>
   * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 1: <em>sam urbanistični del <b>plus</b> ne vem kaj stroški so že sigurno nad osemsto no</em>
 * <em>avto</em>
-  * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 4: <em>potem se je pa še mogla noter v <b>avto</b> spraviti</em>
+  * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 4: <em>ja kaj ni [name:personal] ta <b>avto</b> ?</em>
   * <tt><a href="sl_sst-pos-X.html">X</a></tt> 1: <em>m m ne <b>avto</b> [gap] saj avtomob [gap] [:voice] menda je šel do vsakega avta da ga je požegnal</em>
 * <em>dela</em>
-  * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 4: <em>vrtičkarji imate gotovo aprila veliko <b>dela</b></em>
+  * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 4: <em>no ne me vprašati kako sem se uvajala v vsa ta <b>dela</b></em>
   * <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 3: <em>dobro naj bo ljubezenska zdaj pa kaj jo pa <b>dela</b> ljubezensko kaj ?</em>
   * <tt><a href="sl_sst-pos-X.html">X</a></tt> 1: <em>ampak nisem s [gap] pa še zmeraj jaz nekaj za jezike bil spe [gap] spet eee sem jaz cvek pisal če sem če smo eee <b>dela</b> [gap] delal sem pol mat [gap] mi [gap] takrat je bila eee matura ne diploma na poklicni šoli ker sem jaz prvo končal</em>
 * <em>r</em>

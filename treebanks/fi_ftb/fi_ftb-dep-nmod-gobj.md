@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Finnish-FTB: Relations: `nmod:gobj`
 
 This relation is a language-specific subtype of <tt><a href="fi_ftb-dep-nmod.html">nmod</a></tt>.
-There are also 2 other language-specific subtypes of `nmod`: <tt><a href="fi_ftb-dep-nmod-gsubj.html">nmod:gsubj</a></tt>, <tt><a href="fi_ftb-dep-nmod-own.html">nmod:own</a></tt>.
+There are also 1 other language-specific subtypes of `nmod`: <tt><a href="fi_ftb-dep-nmod-gsubj.html">nmod:gsubj</a></tt>.
 
 264 nodes (0%) are attached to their parents as `nmod:gobj`.
 
 264 instances of `nmod:gobj` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.10606060606061.
+Average distance between parent and child is 1.11363636363636.
 
-The following 4 pairs of parts of speech are connected with `nmod:gobj`: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (225; 85% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (28; 11% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (6; 2% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (5; 2% instances).
+The following 5 pairs of parts of speech are connected with `nmod:gobj`: <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (224; 85% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (28; 11% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (6; 2% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (5; 2% instances), <tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fi_ftb-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

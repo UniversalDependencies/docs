@@ -12,17 +12,17 @@ It occurs with 5 different values: `Conv`, `Fin`, `Inf`, `Part`, `Sup`.
 6056 tokens (21%) have a non-empty value of `VerbForm`.
 1638 types (27%) occur at least once with a non-empty value of `VerbForm`.
 842 lemmas (21%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 4 part-of-speech tags: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (3935; 13% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (1934; 7% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (186; 1% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The feature is used with 4 part-of-speech tags: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (3933; 13% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (1936; 7% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (186; 1% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `VERB`
 
-3935 <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+3933 <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="sl_sst-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (3189; 81%), <tt><a href="sl_sst-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2771; 70%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2542; 65%), <tt><a href="sl_sst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2292; 58%), <tt><a href="sl_sst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2228; 57%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="sl_sst-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (3189; 81%), <tt><a href="sl_sst-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2769; 70%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2540; 65%), <tt><a href="sl_sst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2290; 58%), <tt><a href="sl_sst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2226; 57%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
-* `Fin` (2515; 64% of non-empty `VerbForm`): <em>je, vem, veš, mislim, ni, recimo, ima, so, bo, pravi</em>
+* `Fin` (2513; 64% of non-empty `VerbForm`): <em>je, vem, veš, mislim, ni, recimo, ima, so, bo, pravi</em>
 * `Inf` (238; 6% of non-empty `VerbForm`): <em>biti, narediti, reči, iti, videti, delati, imeti, priti, kupiti, pomagati</em>
 * `Part` (1164; 30% of non-empty `VerbForm`): <em>bilo, bil, imela, rekel, imeli, šla, bila, imel, rekla, rekli</em>
 * `Sup` (18; 0% of non-empty `VerbForm`): <em>delat, jest, ponavljat, žegnat, gledat, izpeljat, naročit, osvajat, peljat, preverjat</em>
@@ -45,13 +45,13 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 ### `AUX`
 
-1934 <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
+1936 <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> tokens (100% of all `AUX` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="sl_sst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1656; 86%), <tt><a href="sl_sst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1536; 79%), <tt><a href="sl_sst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1421; 73%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1289; 67%), <tt><a href="sl_sst-feat-Person.html">Person</a></tt><tt>=3</tt> (1121; 58%).
+The most frequent other feature values with which `AUX` and `VerbForm` co-occurred: <tt><a href="sl_sst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1658; 86%), <tt><a href="sl_sst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1538; 79%), <tt><a href="sl_sst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1423; 74%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1291; 67%), <tt><a href="sl_sst-feat-Person.html">Person</a></tt><tt>=3</tt> (1122; 58%).
 
 `AUX` tokens may have the following values of `VerbForm`:
 
-* `Fin` (1794; 93% of non-empty `VerbForm`): <em>je, so, sem, bi, bo, smo, ni, si, bomo, ste</em>
+* `Fin` (1796; 93% of non-empty `VerbForm`): <em>je, so, sem, bi, bo, smo, ni, si, bomo, ste</em>
 * `Inf` (12; 1% of non-empty `VerbForm`): <em>biti</em>
 * `Part` (128; 7% of non-empty `VerbForm`): <em>bila, bil, bilo, bili, bile</em>
 
@@ -124,7 +124,7 @@ The most frequent other feature values with which `ADV` and `VerbForm` co-occurr
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="sl_sst-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (321; 70%),
 <tt>VERB --[<tt><a href="sl_sst-dep-conj.html">conj</a></tt>]--> VERB</tt> (238; 80%),
-<tt>VERB --[<tt><a href="sl_sst-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (134; 68%),
+<tt>VERB --[<tt><a href="sl_sst-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (135; 68%),
 <tt>VERB --[<tt><a href="sl_sst-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (119; 54%),
 <tt>VERB --[<tt><a href="sl_sst-dep-parataxis-discourse.html">parataxis:discourse</a></tt>]--> VERB</tt> (102; 74%),
 <tt>VERB --[<tt><a href="sl_sst-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (49; 94%),

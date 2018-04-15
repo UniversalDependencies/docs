@@ -8,61 +8,66 @@ udver: '2'
 
 This relation is universal.
 
-1216 nodes (4%) are attached to their parents as `aux`.
+1218 nodes (4%) are attached to their parents as `aux`.
 
-1166 instances of `aux` (96%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.25328947368421.
+1168 instances of `aux` (96%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.25205254515599.
 
-The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (1082; 89% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (66; 5% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (46; 4% instances), <tt><a href="sl_sst-pos-X.html">X</a></tt>-<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (10; 1% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt>-<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 aux	color:blue
-1	nismo	biti	AUX	Va-r1p-y	Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	3	aux	_	word=nismo|msd=Gp-spm-d
-2	[gap]	[gap]	X	X	_	3	punct	_	word=[gap]|msd=N
-3	zmenili	zmeniti	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	word=zmenil|msd=Ggdd-mm
-4	ja	ja	PART	Q	_	3	discourse	_	word=ja|msd=L
-
-~~~
+The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (1084; 89% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (66; 5% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (46; 4% instances), <tt><a href="sl_sst-pos-X.html">X</a></tt>-<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (10; 1% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt>-<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt>-<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt>-<tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 3 aux	color:blue
-1	da	da	PART	Q	_	4	discourse	_	word=da|msd=L
-2	saj	saj	CCONJ	Cc	_	4	cc	_	word=sej|msd=Vp
-3	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	word=je|msd=Gp-ste-n
-4	rečeno	rečen	ADJ	Appnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part	0	root	_	word=rečeno|msd=Pdnsei
-5	bilo	biti	AUX	Vmpp-sn	Aspect=Imp|Gender=Neut|Number=Sing|VerbForm=Part	4	cop	_	word=blo|msd=Ggnd-es
+# visual-style 4 2 aux	color:blue
+1	mogoče	mogoče	ADV	Rgp	Degree=Pos	4	advmod	_	word=mogoče|msd=Rsn
+2	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	4	aux	_	word=bi|msd=Gp-g
+3	še	še	PART	Q	_	4	advmod	_	word=še|msd=L
+4	dodal	dodati	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	word=dodal|msd=Ggdd-em
+5	prej	prej	ADV	Rgc	Degree=Cmp	4	advmod	_	word=prej|msd=Rsr
+6	ko	ko	SCONJ	Cs	_	8	mark	_	word=ko|msd=Vd
+7	nisem	biti	AUX	Va-r1s-y	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	8	aux	_	word=nisn|msd=Gp-spe-d
+8	dokončal	dokončati	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	5	acl	_	word=dokončal|msd=Ggdd-em
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 9 aux	color:blue
-1	o	o	ADP	Sl	Case=Loc	2	case	_	word=o|msd=Dm
-2	tem	ta	DET	Pd-nsl	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	6	obl	_	word=tem|msd=Zk-sem
-3	se	se	PRON	Px------y	PronType=Prs|Variant=Short	6	expl	_	word=se|msd=Zp------k
-4	sploh	sploh	PART	Q	_	6	advmod	_	word=sploh|msd=L
-5	nismo	biti	AUX	Va-r1p-y	Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	6	aux	_	word=nismo|msd=Gp-spm-d
-6	pogovarjali	pogovarjati	VERB	Vmpp-pm	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	word=pogovarjali|msd=Ggnd-mm
-7	in	in	CCONJ	Cc	_	12	cc	_	word=in|msd=Vp
-8	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	12	nsubj	_	word=to|msd=Zk-sei
-9	ni	biti	AUX	Va-r3s-y	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	12	aux	_	word=ni|msd=Gp-ste-d
-10	bilo	biti	AUX	Va-p-sn	Gender=Neut|Number=Sing|VerbForm=Part	12	cop	_	word=bilo|msd=Gp-d-es
-11	javno	javen	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	12	amod	_	word=javno|msd=Ppnsei
-12	vprašanje	vprašanje	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	6	conj	_	word=vprašanje|msd=Sosei
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 3 aux	color:blue
+1	pa	pa	CCONJ	Cc	_	6	advmod	_	word=pa|msd=Vp
+2	a	a	ADV	Rgp	Degree=Pos	6	advmod	_	word=a|msd=Rsn
+3	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	aux	_	word=je|msd=Gp-ste-n
+4	bilo	biti	AUX	Va-p-sn	Gender=Neut|Number=Sing|VerbForm=Part	6	cop	_	word=blo|msd=Gp-d-es
+5	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	word=to|msd=Zk-sei
+6	regularno	regularen	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	word=regularno|msd=Ppnsei
+7	?	?	PUNCT	Z	_	6	punct	_	word=?|msd=U
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 aux	color:blue
+1	od	od	ADP	Sg	Case=Gen	3	case	_	word=od|msd=Dr
+2	maja	maj	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	word=maja|msd=Somer
+3	meseca	mesec	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	10	obl	_	word=mesca|msd=Somer
+4	pa	pa	CCONJ	Cc	_	10	advmod	_	word=pa|msd=Vp
+5	dokler	dokler	SCONJ	Cs	_	8	mark	_	word=dokler|msd=Vd
+6	ni	biti	AUX	Va-r3s-y	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	8	aux	_	word=ni|msd=Gp-ste-d
+7	bila	biti	AUX	Va-p-sf	Gender=Fem|Number=Sing|VerbForm=Part	8	cop	_	word=bla|msd=Gp-d-ez
+8	slana	slana	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	10	advcl	_	word=slana|msd=Sozei
+9	smo	biti	AUX	Va-r1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	aux	_	word=smo|msd=Gp-spm-n
+10	pasli	pasti	VERB	Vmpp-pm	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	word=pasl|msd=Ggnd-mm
+11	[:voice]	[:voice]	X	X	_	10	punct	_	word=[:voice]|msd=N
 
 ~~~
 

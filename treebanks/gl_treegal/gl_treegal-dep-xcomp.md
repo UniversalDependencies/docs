@@ -19,40 +19,38 @@ The following 9 pairs of parts of speech are connected with `xcomp`: <tt><a href
 ~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 7 xcomp	color:blue
-1	A	a	ADP	P	AdpType=Prep	3	case	_	_
-2	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
-3	cinco	cinco	NUM	Ncnfp	Gender=Fem|Number=Plur|NumType=Card	4	obl	_	_
-4	remata	rematar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	4	expl	_	_
-6	de	de	ADP	P	AdpType=Prep	7	mark	_	_
-7	traballar	traballar	VERB	V0f000	VerbForm=Inf	4	xcomp	_	SpaceAfter=No
-8	"	"	PUNCT	Q"	_	4	punct	_	SpaceAfter=No
-9	.	.	PUNCT	Q.	_	4	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 xcomp	color:blue
+1	En	en	ADP	P	AdpType=Prep	2	case	_	_
+2	titulares	titular	NOUN	Scmp	Gender=Masc|Number=Plur	5	obl	_	_
+3	máis	máis	ADV	Wm	_	4	advmod	_	_
+4	pequenos	pequeno	ADJ	A0mp	Gender=Masc|Number=Plur	2	amod	_	_
+5	pode	poder	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	7	expl	_	_
+7	ler	ler	VERB	V0f000	VerbForm=Inf	5	xcomp	_	SpaceAfter=No
+8	:	:	PUNCT	Q:	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 11 xcomp	color:blue
-1	Mais	mais	SCONJ	Cs	_	4	mark	_	_
-2	han	haber	AUX	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
-3	de	de	ADP	P	AdpType=Prep	4	mark	_	_
-4	voar	voar	VERB	V0f000	VerbForm=Inf	0	root	_	_
-5	xa	xa	ADV	Wn	_	4	advmod	_	_
-6	para	para	ADP	P	AdpType=Prep	10	mark	_	_
-7	que	que	SCONJ	Cs	_	10	mark	_	_
-8	non	non	ADV	Wn	Polarity=Neg	10	advmod	_	_
-9	nos	nos	PRON	Raa1mp	Case=Acc|Clitic=Yes|Gender=Masc|Number=Plur|Person=1|PronType=Prs	10	obj	_	_
-10	pillen	pillar	VERB	Vps30p	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
-11	adormecidos	adormecido	ADJ	A0mp	Gender=Masc|Number=Plur	10	xcomp	_	SpaceAfter=No
-12	.	.	PUNCT	Q.	_	10	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 xcomp	color:blue
+1	Demandan	demandar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	Cs	_	6	mark	_	_
+3	BNG	BNG	PROPN	Zg00	_	6	nsubj	_	_
+4	e	e	CCONJ	Cc	_	5	cc	_	_
+5	PSOE	PSOE	PROPN	Zg00	_	3	conj	_	_
+6	fagan	facer	VERB	Vps30p	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+7	críbel	críbel	ADJ	A0fs	Gender=Fem|Number=Sing	6	xcomp	_	_
+8	unha	un	DET	Difs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	alternativa	alternativa	NOUN	Scfs	Gender=Fem|Number=Sing	7	obj	_	_
+10	a	a	ADP	P	AdpType=Prep	11	case	_	_
+11	Fraga	Fraga	PROPN	Sp00	_	9	nmod	_	_
 
 ~~~
 

@@ -19,39 +19,39 @@ The 10 most frequent ambiguous types:  <em>s</em> (<tt><a href="sl_sst-pos-ADP.h
 
 
 * <em>s</em>
-  * <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 80: <em>preverjeno tudi <b>s</b> tvoje strani ?</em>
+  * <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 80: <em>smo prišli popoldne <b>s</b> šole ob dveh ob treh smo gnali pasti</em>
   * <tt><a href="sl_sst-pos-X.html">X</a></tt> 34: <em>tam ko smo <b>s</b> [gap] ko smo se enkrat z atijem peljali ne [gap]</em>
   * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1: <em>eee hkrati se bo pa naredila z eee projekt z izvedbo <b>s</b> in bo z [gap] eee zajemalo notri eee detajle kako narediti ograjo kako narediti tlake med sabo da bojo višinsko enaki</em>
 * <em>m</em>
-  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 16: <em>[all:laughter] saj zdaj si pa kot <b>m</b> [gap] ne vem beavis and butthead</em>
-  * <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 5: <em>mm … <b>m</b></em>
+  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 16: <em>pa veš da bodo <b>m</b> [gap] veš da bodo <b>m</b> [gap]</em>
+  * <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 5: <em><b>m</b> <b>m</b></em>
   * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 2: <em><b>m</b> <b>m</b> ne avto [gap] saj avtomob [gap] [:voice] menda je šel do vsakega avta da ga je požegnal</em>
 * <em>p</em>
-  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 16: <em>vi <b>p</b> [gap] noben jim noče v obraz spustiti</em>
+  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 16: <em>veš koliko so ga <b>p</b> [gap] je bil star koliko [gap] … štirideset ja</em>
   * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1: <em><b>p</b> čez trikotnik naj gre ja</em>
 * <em>z</em>
-  * <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 117: <em>ja res je eee kuharica je bila <b>z</b> loma nad tržičem</em>
-  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 16: <em>ja to pa bova <b>z</b> [gap]</em>
+  * <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 117: <em><b>z</b> zvezdniki</em>
+  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 16: <em>ena bo še pa <b>z</b> [gap] pa [name:personal] zrihtala ne eno zvezo</em>
 * <em>k</em>
   * <tt><a href="sl_sst-pos-X.html">X</a></tt> 10: <em>ne ta ta je taka eem <b>k</b> [gap] jaz temu pravim življenjska</em>
   * <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 8: <em>ja če imamo [gap] <b>k</b> analizam</em>
   * <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 2: <em>jo pa ej sploh ne vem a so se pogledal oni mislim na teh slikah <b>k</b></em>
   * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1: <em>eee ti in jaz čisto v dobri veri dajta mi malo za piti a veš pa me zebe sem šla se obleči in kostanj lepo lupimo tam <b>k</b> eee [name:personal] ga pa peče</em>
 * <em>v</em>
-  * <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 478: <em>tu [gap] ko greš <b>v</b> šolo pa si prvič ocenjen recimo a ne</em>
-  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 10: <em>kaj sem bil <b>v</b> [gap] vnet jaz sem bil vnet ja</em>
+  * <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 478: <em>verjetno je tudi <b>v</b> teh ugotovitvah naše poslušalke kar precej soli ne</em>
+  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 10: <em>zdaj eee <b>v</b> [gap] kaj več pa je težko reči v tem trenutku ne</em>
   * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1: <em>brez drugega dramaturga tako da pozorni še posebej bodite na [name:personal] ker bo drugi del <b>v</b> d dramaturga v smislu da te stvari kar bomo eee poskušali v likih ustvarjati bomo t [gap] skoz govor in bo [name:personal] mogla malo večkrat posr [gap] pomagati na tej poti da to dejansko dobimo</em>
 * <em>d</em>
-  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 9: <em>kdo pa je to <b>d</b> [gap] to ste vi dobili [gap]</em>
+  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 9: <em>[all:laughter] tako da bodite previdni ker <b>d</b> [gap] eee</em>
   * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 1: <em>brez drugega dramaturga tako da pozorni še posebej bodite na [name:personal] ker bo drugi del v <b>d</b> dramaturga v smislu da te stvari kar bomo eee poskušali v likih ustvarjati bomo t [gap] skoz govor in bo [name:personal] mogla malo večkrat posr [gap] pomagati na tej poti da to dejansko dobimo</em>
 * <em>ka</em>
   * <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 22: <em><b>ka</b> so stopnjo više kakor ti [gap]</em>
   * <tt><a href="sl_sst-pos-X.html">X</a></tt> 8: <em>ta človek se tako pisal <b>ka</b> to fi ?</em>
 * <em>po</em>
-  * <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 78: <em>in spodaj so vsi komentini malo istrijani malo <b>po</b> hrvaško</em>
-  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 8: <em><b>po</b> [gap] povsod so fe [gap] fernki</em>
+  * <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 78: <em>a to so [name:surname] <b>po</b> domače</em>
+  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 8: <em>tudi to je <b>po</b> [gap] kar pogosta rastlina na naših travnikih ne</em>
 * <em>u</em>
-  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 8: <em>aja <b>u</b> [gap] ne saj so predavatelji so sigurno mlajši od tele [gap]</em>
+  * <tt><a href="sl_sst-pos-X.html">X</a></tt> 8: <em>ja zdajle imate <b>u</b> [gap] a je tu kolektiven ali kako je zdaj to</em>
   * <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 1: <em><b>u</b> zanimivo</em>
 
 ## Morphology

@@ -41,14 +41,14 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 ### `ADV`
 
-274 <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> tokens (24% of all `ADV` tokens) have a non-empty value of `Degree`.
+274 <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> tokens (27% of all `ADV` tokens) have a non-empty value of `Degree`.
 
 `ADV` tokens may have the following values of `Degree`:
 
 * `Cmp` (73; 27% of non-empty `Degree`): <em>mer, senare, tidigare, längre, bättre, mindre, hellre, snarare, närmare, vidare</em>
 * `Pos` (172; 63% of non-empty `Degree`): <em>helt, mycket, ofta, väldigt, djupt, långt, direkt, lite, väl, faktiskt</em>
 * `Sup` (29; 11% of non-empty `Degree`): <em>mest, sist, främst, värst, Minst, helst, ytterst, knappast</em>
-* `EMPTY` (886): <em>inte, när, så, in, ut, där, också, upp, bara, fram</em>
+* `EMPTY` (738): <em>så, in, ut, där, också, upp, bara, fram, här, även</em>
 
 <table>
   <tr><th>Paradigm <i>mycket</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>

@@ -55,7 +55,7 @@ The 10 most frequent ambiguous types:  <em>en</em> (<tt><a href="fr_sequoia-pos-
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.399011).
+The form / lemma ratio of `X` is 1.000000 (the average of all parts of speech is 1.399096).
 
 The 1st highest number of forms (1) was observed with the lemma “115L”: <em>115L</em>.
 
@@ -68,7 +68,7 @@ The 3rd highest number of forms (1) was observed with the lemma “Abingdon”: 
 
 ## Relations
 
-`X` nodes are attached to their parents using 9 different relations: <tt><a href="fr_sequoia-dep-dep.html">dep</a></tt> (77; 43% instances), <tt><a href="fr_sequoia-dep-flat-foreign.html">flat:foreign</a></tt> (76; 42% instances), <tt><a href="fr_sequoia-dep-root.html">root</a></tt> (10; 6% instances), <tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt> (6; 3% instances), <tt><a href="fr_sequoia-dep-amod.html">amod</a></tt> (3; 2% instances), <tt><a href="fr_sequoia-dep-advmod.html">advmod</a></tt> (2; 1% instances), <tt><a href="fr_sequoia-dep-nmod.html">nmod</a></tt> (2; 1% instances), <tt><a href="fr_sequoia-dep-obl.html">obl</a></tt> (2; 1% instances), <tt><a href="fr_sequoia-dep-appos.html">appos</a></tt> (1; 1% instances)
+`X` nodes are attached to their parents using 10 different relations: <tt><a href="fr_sequoia-dep-dep.html">dep</a></tt> (77; 43% instances), <tt><a href="fr_sequoia-dep-flat-foreign.html">flat:foreign</a></tt> (76; 42% instances), <tt><a href="fr_sequoia-dep-root.html">root</a></tt> (10; 6% instances), <tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt> (6; 3% instances), <tt><a href="fr_sequoia-dep-amod.html">amod</a></tt> (3; 2% instances), <tt><a href="fr_sequoia-dep-advmod.html">advmod</a></tt> (2; 1% instances), <tt><a href="fr_sequoia-dep-nmod.html">nmod</a></tt> (2; 1% instances), <tt><a href="fr_sequoia-dep-appos.html">appos</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-dep-obl-arg.html">obl:arg</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-dep-obl-mod.html">obl:mod</a></tt> (1; 1% instances)
 
 Parents of `X` nodes belong to 7 different parts of speech: <tt><a href="fr_sequoia-pos-X.html">X</a></tt> (89; 50% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (51; 28% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (24; 13% instances),  (10; 6% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (1; 1% instances)
 

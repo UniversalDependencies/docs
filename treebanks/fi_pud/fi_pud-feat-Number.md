@@ -11,10 +11,10 @@ It occurs with 2 different values: `Plur`, `Sing`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="fi_pud-feat-Number.html">Number</a></tt>, <tt><a href="fi_pud-feat-Number-psor.html">Number[psor]</a></tt>.
 
-10652 tokens (67%) have a non-empty value of `Number`.
+10650 tokens (67%) have a non-empty value of `Number`.
 6974 types (92%) occur at least once with a non-empty value of `Number`.
 4346 lemmas (88%) occur at least once with a non-empty value of `Number`.
-The feature is used with 9 part-of-speech tags: <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt> (4211; 27% instances), <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (1807; 11% instances), <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt> (1501; 9% instances), <tt><a href="fi_pud-pos-PRON.html">PRON</a></tt> (1161; 7% instances), <tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt> (1079; 7% instances), <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> (766; 5% instances), <tt><a href="fi_pud-pos-NUM.html">NUM</a></tt> (121; 1% instances), <tt><a href="fi_pud-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="fi_pud-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances).
+The feature is used with 9 part-of-speech tags: <tt><a href="fi_pud-pos-NOUN.html">NOUN</a></tt> (4211; 27% instances), <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (1805; 11% instances), <tt><a href="fi_pud-pos-PROPN.html">PROPN</a></tt> (1501; 9% instances), <tt><a href="fi_pud-pos-PRON.html">PRON</a></tt> (1161; 7% instances), <tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt> (1079; 7% instances), <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> (766; 5% instances), <tt><a href="fi_pud-pos-NUM.html">NUM</a></tt> (121; 1% instances), <tt><a href="fi_pud-pos-SYM.html">SYM</a></tt> (4; 0% instances), <tt><a href="fi_pud-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
@@ -42,15 +42,15 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `VERB`
 
-1807 <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> tokens (89% of all `VERB` tokens) have a non-empty value of `Number`.
+1805 <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> tokens (89% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1668; 92%), <tt><a href="fi_pud-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (1441; 80%), <tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1356; 75%), <tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (1356; 75%), <tt><a href="fi_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1181; 65%), <tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (990; 55%), <tt><a href="fi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (948; 52%), <tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (938; 52%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (1666; 92%), <tt><a href="fi_pud-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (1439; 80%), <tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1354; 75%), <tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (1354; 75%), <tt><a href="fi_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1179; 65%), <tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (988; 55%), <tt><a href="fi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (946; 52%), <tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (936; 52%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Plur` (353; 20% of non-empty `Number`): <em>alkoivat, kuuluvat, käyttivät, olevat, pitävät, antoivat, nousevat, ottivat, päättivät, saivat</em>
-* `Sing` (1454; 80% of non-empty `Number`): <em>sanoi, tulee, tuli, sanoo, alkoi, kertoi, auttaa, eikä, johti, sai</em>
-* `EMPTY` (228): <em>rakennettiin, käytettiin, pidetään, julkaistiin, perustettiin, tunnetaan, julistettiin, kerrottiin, pysty, sanotaan</em>
+* `Sing` (1452; 80% of non-empty `Number`): <em>sanoi, tulee, tuli, sanoo, kertoi, alkoi, auttaa, eikä, johti, sai</em>
+* `EMPTY` (226): <em>rakennettiin, käytettiin, pidetään, julkaistiin, julistettiin, kerrottiin, perustettiin, pysty, sanotaan, tunnetaan</em>
 
 <table>
   <tr><th>Paradigm <i>sanoa</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>

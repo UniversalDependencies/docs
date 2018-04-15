@@ -17,43 +17,17 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 9 cop	color:blue
-1	"	"	PUNCT	Q"	_	10	punct	_	SpaceAfter=No
-2	A	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-3	cultura	cultura	NOUN	Scfs	Gender=Fem|Number=Sing	10	nsubj	_	_
-4	subsidiada	subsidiado	ADJ	A0fs	Gender=Fem|Number=Sing	3	amod	_	_
-5	_	_	PUNCT	Q_	_	6	punct	_	SpaceAfter=No
-6	di	dicir	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	parataxis	_	SpaceAfter=No
-7	_	_	PUNCT	Q_	_	6	punct	_	_
-8	non	non	ADV	Wn	Polarity=Neg	10	advmod	_	_
-9	é	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
-10	cultura	cultura	NOUN	Scfs	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
-11	"	"	PUNCT	Q"	_	10	punct	_	SpaceAfter=No
-12	.	.	PUNCT	Q.	_	10	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 3 cop	color:blue
-1	A	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	administración	administración	NOUN	Scfs	Gender=Fem|Number=Sing	5	nsubj	_	_
+1	Discutir	discutir	VERB	V0f000	VerbForm=Inf	0	root	_	_
+2	que	que	PRON	Gnms	Gender=Masc|Number=Sing|PronType=Int	5	nsubj	_	_
 3	é	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-4	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	única	único	ADJ	A0fs	Gender=Fem|Number=Sing	0	root	_	_
-6	que	que	PRON	Tnfs	Gender=Fem|Number=Sing|PronType=Rel	8	nsubj	_	_
-7	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	8	expl	_	_
-8	libra	librar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl	_	SpaceAfter=No
-9	"	"	PUNCT	Q"	_	5	punct	_	SpaceAfter=No
-10	.	.	PUNCT	Q.	_	5	punct	_	_
+4	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	clásico	clásico	NOUN	Scms	Gender=Masc|Number=Sing	1	ccomp	_	SpaceAfter=No
+6	.	.	PUNCT	Q.	_	1	punct	_	_
 
 ~~~
 
@@ -64,19 +38,33 @@ The following 8 pairs of parts of speech are connected with `cop`: <tt><a href="
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 7 cop	color:blue
-1	Dicía	dicir	VERB	Vii30s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-2	Jean	jean	PROPN	Spm0	Gender=Masc	1	nsubj	_	_
-3	Cocteau	cocteau	PROPN	Spm0	Gender=Masc	2	flat:name	_	_
-4	que	que	SCONJ	Cs	_	10	mark	_	_
-5	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-6	moda	moda	NOUN	Scfs	Gender=Fem|Number=Sing	8	nsubj	_	_
-7	é	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
-8	o	o	PRON	Ddms	Gender=Masc|Number=Sing|Person=3|PronType=Art	1	ccomp	_	_
-9	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	10	nsubj	_	_
-10	pasa	pasar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl	_	_
-11	de	de	ADP	P	AdpType=Prep	12	case	_	_
-12	moda	moda	NOUN	Scfs	Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
-13	.	.	PUNCT	Q.	_	1	punct	_	_
+1	Cando	cando	ADV	Wr	PronType=Rel	3	advmod	_	_
+2	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	3	obj	_	_
+3	montou	montar	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	Q,	_	3	punct	_	_
+5	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	rexeitamento	rexeitamento	NOUN	Scms	Gender=Masc|Number=Sing	8	nsubj	_	_
+7	foi	ser	AUX	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	cop	_	_
+8	total	total	ADJ	A0ms	Gender=Masc|Number=Sing	3	parataxis	_	SpaceAfter=No
+9	.	.	PUNCT	Q.	_	3	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 cop	color:blue
+1	Un	un	PRON	Inms	Gender=Masc|Number=Sing|PronType=Ind	5	nsubj	_	_
+2	de	de	ADP	P	AdpType=Prep	3	case	_	_
+3	eles	el	PRON	Rtp3mp	Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	nmod	_	_
+4	é	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+5	o	o	PRON	Ddms	Gender=Masc|Number=Sing|Person=3|PronType=Art	0	root	_	_
+6	de	de	ADP	P	AdpType=Prep	7	case	_	_
+7	Celulosas	Celulosas	PROPN	Sp00	_	5	nmod	_	SpaceAfter=No
+8	.	.	PUNCT	Q.	_	5	punct	_	_
 
 ~~~
 

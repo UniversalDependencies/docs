@@ -56,19 +56,19 @@ The following 12 pairs of parts of speech are connected with `cc`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 cc	color:blue
-1	Kölnin	Köln	PROPN	_	Case=Gen|Number=Sing	4	nmod:poss	_	_
-2	ja	ja	CCONJ	_	_	3	cc	_	_
-3	Bremenin	Bremen	PROPN	_	Case=Gen|Number=Sing	1	conj	_	_
-4	kaupungit	kaupunki	NOUN	_	Case=Nom|Number=Plur	5	nsubj	_	_
-5	kunnioittivat	kunnioittaa	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-6	Weissia	Weiss	PROPN	_	Case=Par|Number=Sing	5	obj	_	_
-7	kirjallisuuspalkinnoilla	kirjallisuus#palkinto	NOUN	_	Case=Ade|Number=Plur	5	obl	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	5	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 cc	color:blue
+1	Durán	Durán	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
+2	toimii	toimia	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	edustajana	edustaja	NOUN	_	Case=Ess|Derivation=Ja|Number=Sing	2	obl	_	_
+4	ja	ja	CCONJ	_	_	5	cc	6.1:cc	_
+5	Ángel	Ángel	PROPN	_	Case=Nom|Number=Sing	2	conj	6.1:nsubj	_
+6	Pintado	Pintado	PROPN	_	Case=Nom|Number=Sing	5	flat:name	_	_
+7	taloudenhoitajana	talouden#hoitaja	NOUN	_	Case=Ess|Derivation=Ja|Number=Sing	5	orphan	6.1:obl	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

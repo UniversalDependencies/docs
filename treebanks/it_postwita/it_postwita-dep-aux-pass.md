@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="it_postwita-dep-aux.html">aux</a></tt>.
 
-81 nodes (0%) are attached to their parents as `aux:pass`.
+152 nodes (0%) are attached to their parents as `aux:pass`.
 
-81 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.16049382716049.
+152 instances of `aux:pass` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.11842105263158.
 
-The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (79; 98% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (1; 1% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (1; 1% instances).
+The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (149; 98% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_postwita-pos-AUX.html">AUX</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -32,6 +32,43 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 8	va	andare	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	_	_
 9	tolta	togliere	VERB	V	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	7	conj	_	_
 10	http://t.co/7klJ49BVBj	http://t.co/7klJ49BVBj	SYM	X	_	7	dep	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 25	bgColor:blue
+# visual-style 25	fgColor:white
+# visual-style 26	bgColor:blue
+# visual-style 26	fgColor:white
+# visual-style 26 25 aux:pass	color:blue
+1	Troppo	troppo	ADV	B	_	2	advmod	_	_
+2	berlusconismo	berlusconismo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+3	in	in	ADP	E	_	5	case	_	_
+4	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
+5	esordio	esordio	NOUN	S	Gender=Masc|Number=Sing	2	nmod	_	_
+6	di	di	ADP	E	_	8	case	_	_
+7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	governo	governo	NOUN	S	Gender=Masc|Number=Sing	5	nmod	_	_
+9	Monti	Monti	PROPN	SP	_	8	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	2	punct	_	_
+11	E	e	CCONJ	CC	_	26	cc	_	_
+12	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	13	det	_	SpaceAfter=No
+13	Italia	italia	PROPN	SP	_	26	nsubj:pass	_	SpaceAfter=No
+14	,	,	PUNCT	FF	_	13	punct	_	_
+15	a	a	ADP	E	_	16	case	_	_
+16	furia	furia	NOUN	S	Gender=Fem|Number=Sing	26	obl	_	_
+17	di	di	ADP	E	_	18	mark	_	_
+18	subire	subire	VERB	V	VerbForm=Inf	16	acl	_	_
+19	"	"	PUNCT	FB	_	20	punct	_	_
+20	lacrime	lacrima	NOUN	S	Gender=Fem|Number=Plur	18	obj	_	_
+21	e	e	CCONJ	CC	_	22	cc	_	_
+22	sangue	sangue	NOUN	S	Gender=Masc|Number=Sing	20	conj	_	_
+23	"	"	PUNCT	FB	_	20	punct	_	SpaceAfter=No
+24	,	,	PUNCT	FF	_	20	punct	_	_
+25	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	aux:pass	_	_
+26	governa...	governa...	X	X	_	2	parataxis	_	_
+27	http://t.co/9Qfg6RsM	http://t.co/9Qfg6RsM	SYM	X	_	2	dep	_	_
 
 ~~~
 
@@ -70,41 +107,6 @@ The following 3 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 26	sarebbe	essere	AUX	VA	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	aux	_	_
 27	fermato	fermare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	23	ccomp	_	_
 28	anche	anche	ADV	B	_	27	advmod	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 23	bgColor:blue
-# visual-style 23	fgColor:white
-# visual-style 24	bgColor:blue
-# visual-style 24	fgColor:white
-# visual-style 24 23 aux:pass	color:blue
-1	Berlusconi	Berlusconi	PROPN	SP	_	4	nsubj	_	_
-2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	_	_
-3	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
-4	dimesso	dimettere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
-5	,	,	PUNCT	FF	_	4	punct	_	_
-6	sì	sì	INTJ	I	_	4	discourse	_	_
-7	a	a	ADP	E	_	9	case	_	_
-8	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	governo	governo	NOUN	S	Gender=Masc|Number=Sing	6	nmod	_	_
-10	Monti	Monti	PROPN	SP	_	9	nmod	_	SpaceAfter=No
-11	:	:	PUNCT	FC	_	4	punct	_	_
-12	Berlusconi	Berlusconi	PROPN	SP	_	15	nsubj	_	_
-13	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	15	expl	_	_
-14	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
-15	dimesso	dimettere	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	parataxis	_	_
-16	dopo	dopo	ADP	E	_	17	case	_	_
-17	che	che	SCONJ	CS	_	24	mark	_	_
-18	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
-19	legge	legge	NOUN	S	Gender=Fem|Number=Sing	24	nsubj	_	_
-20	di	di	ADP	E	_	21	case	_	_
-21	stabilità	stabilità	NOUN	S	Gender=Fem	19	nmod	_	_
-22	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	aux	_	_
-23	stata	essere	AUX	VA	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	24	aux:pass	_	_
-24	app...	app...	X	X	_	15	ccomp	_	_
-25	http://t.co/xZKGq7jr	http://t.co/xZKGq7jr	SYM	X	_	4	dep	_	_
 
 ~~~
 

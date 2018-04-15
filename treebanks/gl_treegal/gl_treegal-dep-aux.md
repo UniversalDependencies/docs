@@ -18,21 +18,22 @@ The following 6 pairs of parts of speech are connected with `aux`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 aux	color:blue
-1	Quen	quen	PRON	Gnas	Gender=Com|Number=Sing|PronType=Int	3	nsubj	_	_
-2	vai	ir	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
-3	marcar	marcar	VERB	V0f000	VerbForm=Inf	0	root	_	_
-4	agora	agora	ADV	Wn	_	3	advmod	_	_
-5	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-6	política	política	NOUN	Scfs	Gender=Fem|Number=Sing	3	obj	_	_
-7	en	en	ADP	P	AdpType=Prep	9	case	_	_
-8	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	concello	concello	NOUN	Scms	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
-10	?	?	PUNCT	Q?	_	3	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 aux	color:blue
+1	Desde	desde	ADP	P	AdpType=Prep	3	case	_	_
+2	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	PSOE	PSOE	PROPN	Zgms	Gender=Masc|Number=Sing	7	obl	_	_
+4	tamén	tamén	ADV	Wn	_	7	advmod	_	_
+5	están	estar	AUX	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+6	a	a	ADP	P	AdpType=Prep	7	mark	_	_
+7	traballar	traballar	VERB	V0f000	VerbForm=Inf	0	root	_	_
+8	con	con	ADP	P	AdpType=Prep	10	case	_	_
+9	outra	outro	DET	Idfs	Gender=Fem|Number=Sing|PronType=Ind	10	det	_	_
+10	posibilidade	posibilidade	NOUN	Scfs	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
+11	:	:	PUNCT	Q:	_	7	punct	_	_
 
 ~~~
 

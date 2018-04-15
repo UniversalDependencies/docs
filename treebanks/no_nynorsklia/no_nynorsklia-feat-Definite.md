@@ -55,7 +55,7 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
 
 ### `DET`
 
-42 <tt><a href="no_nynorsklia-pos-DET.html">DET</a></tt> tokens (9% of all `DET` tokens) have a non-empty value of `Definite`.
+42 <tt><a href="no_nynorsklia-pos-DET.html">DET</a></tt> tokens (10% of all `DET` tokens) have a non-empty value of `Definite`.
 
 The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="no_nynorsklia-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (39; 93%), <tt><a href="no_nynorsklia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (29; 69%).
 
@@ -63,7 +63,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 * `Def` (18; 43% of non-empty `Definite`): <em>same, andre</em>
 * `Ind` (24; 57% of non-empty `Definite`): <em>anna, annan, eigen, eige</em>
-* `EMPTY` (408): <em>ein, den, dei, noko, ei, det, eit, alle, andre, sånn</em>
+* `EMPTY` (386): <em>ein, den, dei, noko, ei, det, eit, alle, andre, sånn</em>
 
 <table>
   <tr><th>Paradigm <i>annan</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -91,7 +91,7 @@ The most frequent other feature values with which `NUM` and `Definite` co-occurr
 `ADV` tokens may have the following values of `Definite`:
 
 * `Ind` (1; 100% of non-empty `Definite`): <em>kloss</em>
-* `EMPTY` (1395): <em>da, så, ikkje, jo, nå, der, vel, her, berre, altså</em>
+* `EMPTY` (1261): <em>da, så, jo, nå, der, vel, her, berre, altså, også</em>
 
 ## Relations with Agreement in `Definite`
 

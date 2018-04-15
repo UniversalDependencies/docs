@@ -12,27 +12,27 @@ It occurs with 1 different values: `Neg`.
 3035 tokens (1%) have a non-empty value of `Polarity`.
 8 types (0%) occur at least once with a non-empty value of `Polarity`.
 3 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 3 part-of-speech tags: <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> (2687; 1% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (197; 0% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (151; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="no_bokmaal-pos-PART.html">PART</a></tt> (2687; 1% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (197; 0% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (151; 0% instances).
 
-### `ADV`
+### `PART`
 
-2687 <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> tokens (21% of all `ADV` tokens) have a non-empty value of `Polarity`.
+2687 <tt><a href="no_bokmaal-pos-PART.html">PART</a></tt> tokens (38% of all `PART` tokens) have a non-empty value of `Polarity`.
 
-`ADV` tokens may have the following values of `Polarity`:
+`PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (2687; 100% of non-empty `Polarity`): <em>ikke</em>
-* `EMPTY` (9979): <em>også, så, nå, bare, her, da, selv, hvor, nok, jo</em>
+* `EMPTY` (4311): <em>å, og, ei</em>
 
 ### `DET`
 
 197 <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> tokens (1% of all `DET` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `DET` and `Polarity` co-occurred: <tt><a href="no_bokmaal-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (197; 100%), <tt><a href="no_bokmaal-feat-PronType.html">PronType</a></tt><tt>=Neg</tt> (197; 100%), <tt><a href="no_bokmaal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (127; 64%), <tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (122; 62%).
+The most frequent other feature values with which `DET` and `Polarity` co-occurred: <tt><a href="no_bokmaal-feat-PronType.html">PronType</a></tt><tt>=Neg</tt> (197; 100%), <tt><a href="no_bokmaal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (127; 64%), <tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (122; 62%).
 
 `DET` tokens may have the following values of `Polarity`:
 
 * `Neg` (197; 100% of non-empty `Polarity`): <em>ingen, intet</em>
-* `EMPTY` (16278): <em>en, et, den, de, det, andre, sin, alle, denne, noen</em>
+* `EMPTY` (14183): <em>en, et, den, de, det, andre, alle, denne, noen, noe</em>
 
 ### `PRON`
 
@@ -43,5 +43,5 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (151; 100% of non-empty `Polarity`): <em>ingen, ingenting</em>
-* `EMPTY` (23709): <em>det, som, jeg, han, vi, de, seg, hun, du, dette</em>
+* `EMPTY` (25804): <em>det, som, jeg, han, vi, de, seg, hun, du, dette</em>
 

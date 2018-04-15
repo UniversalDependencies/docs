@@ -9,12 +9,12 @@ udver: '2'
 This relation is universal.
 There are 2 language-specific subtypes of `flat`: <tt><a href="la_proiel-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="la_proiel-dep-flat-name.html">flat:name</a></tt>.
 
-624 nodes (0%) are attached to their parents as `flat`.
+649 nodes (0%) are attached to their parents as `flat`.
 
-624 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.56891025641026.
+649 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.557781201849.
 
-The following 10 pairs of parts of speech are connected with `flat`: <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> (445; 71% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (58; 9% instances), <tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (40; 6% instances), <tt><a href="la_proiel-pos-INTJ.html">INTJ</a></tt>-<tt><a href="la_proiel-pos-INTJ.html">INTJ</a></tt> (30; 5% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (22; 4% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (19; 3% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="la_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="la_proiel-pos-DET.html">DET</a></tt>-<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `flat`: <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> (463; 71% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (59; 9% instances), <tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (42; 6% instances), <tt><a href="la_proiel-pos-INTJ.html">INTJ</a></tt>-<tt><a href="la_proiel-pos-INTJ.html">INTJ</a></tt> (28; 4% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (26; 4% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (20; 3% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (5; 1% instances), <tt><a href="la_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="la_proiel-pos-DET.html">DET</a></tt>-<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 10 pairs of parts of speech are connected with `flat`: <tt><a href
 # visual-style 3	fgColor:white
 # visual-style 3 4 flat	color:blue
 1	nobis	nos	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=1|PronType=Prs	7	iobj	_	ref=1.11.3
-2	eos	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	obj:dir	_	ref=1.11.3
+2	eos	is	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs	7	obj	_	ref=1.11.3
 3	quem	quemadmodum	ADV	Dq	PronType=Rel	6	advmod	_	ref=1.11.3
 4	ad	ad	ADV	Dq	PronType=Rel	3	flat	_	ref=1.11.3
 5	modum	modum	ADV	Dq	PronType=Rel	3	flat	_	ref=1.11.3

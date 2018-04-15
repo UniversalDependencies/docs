@@ -7,13 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_French-Sequoia: Relations: `iobj`
 
 This relation is universal.
+There are 1 language-specific subtypes of `iobj`: <tt><a href="fr_sequoia-dep-iobj-agent.html">iobj:agent</a></tt>.
 
-237 nodes (0%) are attached to their parents as `iobj`.
+215 nodes (0%) are attached to their parents as `iobj`.
 
-189 instances of `iobj` (80%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.9662447257384.
+186 instances of `iobj` (87%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.0093023255814.
 
-The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (218; 92% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (15; 6% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (4; 2% instances).
+The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (207; 96% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (4; 2% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (4; 2% instances).
 
 
 ~~~ conllu
@@ -28,7 +29,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 4	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	aucun	aucun	DET	_	Gender=Masc|Number=Sing	6	det	_	_
 6	motif	motif	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
-7	pour	pour	ADP	_	_	11	mark	_	_
+7	pour	pour	ADP	_	_	11	mark	_	MWE=pour_que|MWEPOS=SCONJ
 8	qu'	que	SCONJ	_	_	7	fixed	_	SpaceAfter=No
 9	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3	11	nsubj	_	_
 10	y	y	PRON	_	Person=3	11	iobj	_	_
@@ -39,21 +40,24 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 iobj	color:blue
-1	Ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3	4	nsubj	_	_
-2	étaient	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
-3	tous	tout	PRON	_	Gender=Masc|Number=Plur	4	iobj	_	_
-4	coupables	coupable	ADJ	_	Number=Plur	0	root	_	_
-5	ou	ou	CCONJ	_	_	8	cc	_	_
-6	aucun	aucun	PRON	_	Gender=Masc|Number=Sing	8	nsubj	_	_
-7	ne	ne	ADV	_	Polarity=Neg	8	advmod	_	_
-8	l'	le	PRON	_	Number=Sing|Person=3	4	conj	_	SpaceAfter=No
-9	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	SpaceAfter=No
-10	.	.	PUNCT	_	_	4	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 9 iobj	color:blue
+1	D'	de	ADP	_	_	5	advmod	_	MWE=d'abord|MWEPOS=ADV|SpaceAfter=No
+2	abord	abord	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
+5	arrive	arriver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	dans	dans	ADP	_	_	8	case	_	_
+7	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	pays	pays	NOUN	_	Gender=Masc|Number=Sing	5	obl:arg	_	_
+9	où	où	PRON	_	PronType=Rel	12	iobj	_	_
+10	tout	tout	PRON	_	Gender=Masc|Number=Sing	12	nsubj	_	_
+11	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
+12	blanc	blanc	ADJ	_	Gender=Masc|Number=Sing	8	acl:relcl	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
 

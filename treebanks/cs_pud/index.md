@@ -93,11 +93,24 @@ employ ten-fold cross-validation.
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 1000 sentences, 18565 tokens and 18610 syntactic words.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 2634 tokens (14%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 10 types of words with spaces. Examples: 10 000, 100 000, 12 000, 15 001, 16 500, 19 999, 25 000, 330 000, 35 000, 600 000</li>
+</ul>
+
+<ul>
 <li>This corpus contains 9 types of words that contain both letters and punctuation. Examples: e-maily, sci-fi, B-29, Ce-sü, Chu-nan, Chu-pej, Harley-Davidson, Šen-čenu, š’</li>
+</ul>
+
+<ul>
 <li>This corpus contains 45 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
 <li>There are 5 types of multi-word tokens. Examples: aby, kdyby, abych, abychom, abyste.</li>
 </ul>
@@ -109,6 +122,9 @@ employ ten-fold cross-validation.
 <ul>
 <li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a></li>
 <li>This corpus does not use the following tags: INTJ, X</li>
+</ul>
+
+<ul>
 <li>This corpus contains 12 word types tagged as particles (PART): Bohužel, Koneckonců, asi, ať, až, jen, jenom, ne, no, ovšem, snad, vůbec</li>
 </ul>
 
@@ -133,25 +149,36 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Conv
   <ul>
     <li>VERB: Počínaje, nedbajíce, redukujíc</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Fin
   <ul>
     <li>AUX: je, by, jsou, bude, jsem, není, jsme, budou, nebude, budeme</li>
     <li>VERB: má, je, může, říká, mohou, mají, lze, obsahuje, pomáhá, ukazuje</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Inf
   <ul>
     <li>AUX: být</li>
     <li>VERB: mít, vidět, získat, najít, opustit, pokračovat, stát, vést, dělat, muset</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>ADJ: řečeno, propuštěn, vedoucí, nabídnuto, následující, označen, poražena, používán, považováno, považovány</li>
@@ -160,12 +187,12 @@ employ ten-fold cross-validation.
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
+
 <li><a>Gender</a>
+
   <ul>
     <li>Fem
       <ul>
@@ -180,6 +207,9 @@ employ ten-fold cross-validation.
         <li>VERB-Part: začala, řekla</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Fem,Masc
       <ul>
         <li>ADJ: považovány, aktivovány, budovány, diskutovány, exponovány, legalizovány, odváty, otevřeny, ovlivněny, podloženy</li>
@@ -188,6 +218,9 @@ employ ten-fold cross-validation.
         <li>VERB-Part: měly, vypadaly, začaly, mohly, používaly, umožnily, vedly, vyvíjely, Následovaly, Podávaly</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Fem,Neut
       <ul>
         <li>ADJ: poražena, vytvořena, založena, chráněna, definována, dána, hlášena, kritizována, obviněna, odstraněna</li>
@@ -199,6 +232,9 @@ employ ten-fold cross-validation.
         <li>VERB-Part: stala, uvedla, mohla, vedla, měla, ukázala, vydala, začala, řekla, umožnila</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>ADJ: další, každý, Spojených, nové, nový, první, schopen, vládní, americké, dalších</li>
@@ -213,6 +249,9 @@ employ ten-fold cross-validation.
         <li>VERB-Part: řekl, mohl, měl, stal, vedl, pracoval, rozhodl, uvedl, vrátil, začal</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc,Neut
       <ul>
         <li>DET: toho, tím, tohoto, n, svého, tomu, její, tom, svém, svým</li>
@@ -220,6 +259,9 @@ employ ten-fold cross-validation.
         <li>PRON: ho, mu, něj, ním, něm, jím, něhož, jehož, něho, němu</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neut
       <ul>
         <li>ADJ: posledních, další, jasné, možné, řečeno, jiné, šedesátých, Karibské, Severního, britského</li>
@@ -234,9 +276,13 @@ employ ten-fold cross-validation.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Animacy</a>
+
   <ul>
     <li>Anim
       <ul>
@@ -250,6 +296,9 @@ employ ten-fold cross-validation.
         <li>VERB-Part: mohli, měli, rozhodli, bavili, dostali, neměli, potřebovali, požádali, stáli, tvořili</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Inan
       <ul>
         <li>ADJ: Spojených, nové, další, nový, první, vládní, dalších, dalším, hlavní, každý</li>
@@ -263,9 +312,13 @@ employ ten-fold cross-validation.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Number</a>
+
   <ul>
     <li>Dual
       <ul>
@@ -273,6 +326,9 @@ employ ten-fold cross-validation.
         <li>NOUN: ušima</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Plur
       <ul>
         <li>ADJ: další, nové, posledních, Spojených, různých, dalších, jiných, malé, nových, první</li>
@@ -289,6 +345,9 @@ employ ten-fold cross-validation.
         <li>VERB-Part: měly, mohli, měli, rozhodli, vypadaly, začaly, bavili, dostali, mohly, neměli</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Plur,Sing
       <ul>
         <li>ADJ: poražena, vytvořena, založena, chráněna, definována, dána, hlášena, kritizována, obviněna, odstraněna</li>
@@ -297,6 +356,9 @@ employ ten-fold cross-validation.
         <li>VERB-Part: stala, uvedla, mohla, vedla, měla, ukázala, vydala, začala, řekla, umožnila</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: první, druhé, jižní, severní, další, hlavní, velká, každý, větší, nové</li>
@@ -315,9 +377,13 @@ employ ten-fold cross-validation.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Acc
       <ul>
@@ -331,6 +397,9 @@ employ ten-fold cross-validation.
         <li>PROPN: Německo, Richarda, Trumpa, Abakumova, Aljašku, Alvareze, Andre, Anglii, Annu, Antarktidu</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dat
       <ul>
         <li>ADJ: Osmanské, Spojeným, nížinné, obecné, větší, Alexandrově, Druhé, Mrtvým, Parmské, Starší</li>
@@ -343,6 +412,9 @@ employ ten-fold cross-validation.
         <li>PROPN: Evropě, Itálii, Roně, Rusku, Andymu, Benoîtovi, Britům, Churchillovi, Disneyovi, Francii</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Gen
       <ul>
         <li>ADJ: jiných, nových, prvního, Spojených, amerického, dalších, druhé, nové, první, různých</li>
@@ -355,6 +427,9 @@ employ ten-fold cross-validation.
         <li>PROPN: Clintonové, Albánie, Ameriky, Afriky, Burgoyna, Disneyho, Donalda, Duffyho, Egypta, Francie</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ins
       <ul>
         <li>ADJ: americkou, dalším, velkou, dalšími, hlavním, hongkongským, nejvyšším, největším, politickou, první</li>
@@ -367,6 +442,9 @@ employ ten-fold cross-validation.
         <li>PROPN: Albánií, Bogdgegénem, Kristem, Markem, Alvarezem, Anglií, Asií, Averym, Benátkami, Brantem</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Loc
       <ul>
         <li>ADJ: druhé, posledních, Velké, jižní, první, Nové, Severní, Spojených, bronzové, celém</li>
@@ -379,6 +457,9 @@ employ ten-fold cross-validation.
         <li>PROPN: Británii, Asii, Africe, Americe, Evropě, Facebooku, Glasgow, Itálii, Norsku, Papui</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Nom
       <ul>
         <li>ADJ: další, první, velká, severní, každý, poslední, jasné, jižní, každá, možné</li>
@@ -391,33 +472,49 @@ employ ten-fold cross-validation.
         <li>PROPN: Čína, Trump, Bluntová, Británie, Donald, Francie, Mišima, Seagal, Winstone, Wright</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Voc
       <ul>
         <li>NOUN: přátelé</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>PrepCase</a>
+
   <ul>
     <li>Npr
       <ul>
         <li>PRON: jenž, jež, jehož</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pre
       <ul>
         <li>PRON: nich, ní, něj, ním, nimi, nichž, níž, ně, něm, něhož</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Degree and Polarity</h3>
 
+
 <li><a>Degree</a>
+
   <ul>
     <li>Cmp
       <ul>
@@ -425,12 +522,18 @@ employ ten-fold cross-validation.
         <li>ADV: více, víc, později, dříve, méně, Přesněji, dál, lépe, raději, radši</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>ADJ: další, nové, jižní, severní, hlavní, velká, velké, vlastní, poslední, jiné</li>
         <li>ADV: stejně, často, pravděpodobně, původně, samozřejmě, dobře, přibližně, společně, úplně, krátce</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sup
       <ul>
         <li>ADJ: nejvyšší, největší, Nejnovější, nejdůležitější, nejhorších, nejlepších, nejvyšším, největším, Nejrozšířenější, Nejstarší</li>
@@ -438,9 +541,13 @@ employ ten-fold cross-validation.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Polarity</a>
+
   <ul>
     <li>Neg
       <ul>
@@ -455,6 +562,9 @@ employ ten-fold cross-validation.
         <li>VERB-Part: neměl, neměla, neměli, Nemohli, nedopřál, nedoznaly, nedošlo, neexistovalo, nekomunikoval, nekomunikovala</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>ADJ: další, nové, jižní, severní, hlavní, velká, velké, vlastní, poslední, jiné</li>
@@ -473,9 +583,13 @@ employ ten-fold cross-validation.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Variant</a>
+
   <ul>
     <li>Short
       <ul>
@@ -485,11 +599,16 @@ employ ten-fold cross-validation.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Verbal Features</h3>
 
+
 <li><a>Aspect</a>
+
   <ul>
     <li>Imp
       <ul>
@@ -502,6 +621,9 @@ employ ten-fold cross-validation.
         <li>VERB-Part: pracoval, režíroval, snažil, varoval, vládl, vypadaly, bavili, fungoval, konalo, miloval</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Perf
       <ul>
         <li>ADJ-Part: nabídnuto, označen, prodán, rozděleno, vytvořen, vytvořena, založena, zamítnuto, zvolen, dovoleno</li>
@@ -512,9 +634,13 @@ employ ten-fold cross-validation.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Mood</a>
+
   <ul>
     <li>Cnd
       <ul>
@@ -522,11 +648,17 @@ employ ten-fold cross-validation.
         <li>VERB-Fin: by</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Imp
       <ul>
         <li>VERB-Fin: Polož, Řekněme</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>AUX-Fin: je, jsou, bude, jsem, není, jsme, budou, nebude, budeme, budu</li>
@@ -534,9 +666,13 @@ employ ten-fold cross-validation.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Tense</a>
+
   <ul>
     <li>Fut
       <ul>
@@ -544,6 +680,9 @@ employ ten-fold cross-validation.
         <li>VERB-Fin: nebude, půjde, bude, neporoste</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Past
       <ul>
         <li>AUX-Part: byl, bylo, byla, byly, byli, nebyly, nebyla, nebyl, nebylo</li>
@@ -551,6 +690,9 @@ employ ten-fold cross-validation.
         <li>VERB-Part: řekl, mohl, měl, stal, stala, uvedla, vedl, bylo, mohla, pracoval</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pres
       <ul>
         <li>ADJ-Part: vedoucí, následující, probíhající, sestávající, studujících, dosluhující, dospívající, dospívajícího, dívající, hanobící</li>
@@ -560,9 +702,13 @@ employ ten-fold cross-validation.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Voice</a>
+
   <ul>
     <li>Act
       <ul>
@@ -575,18 +721,27 @@ employ ten-fold cross-validation.
         <li>VERB-Part: řekl, mohl, měl, stal, stala, uvedla, vedl, bylo, mohla, pracoval</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pass
       <ul>
         <li>ADJ-Part: řečeno, propuštěn, nabídnuto, označen, poražena, používán, považováno, považovány, prodán, provedeno</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Dem
       <ul>
@@ -594,11 +749,17 @@ employ ten-fold cross-validation.
         <li>DET: to, toho, tím, tento, tohoto, toto, této, tomu, tyto, tato</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Emp
       <ul>
         <li>DET: sama, sám, sami, samo</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>ADV: někdy, kdykoli, málokdy, několikrát, mnohokrát</li>
@@ -606,6 +767,9 @@ employ ten-fold cross-validation.
         <li>PRON: něco, někdo, kdokoli, kdokoliv, někoho, něčem, něčemu, něčím</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Int,Rel
       <ul>
         <li>ADV: jak, kde, kdy, proč, odkud, kam</li>
@@ -613,6 +777,9 @@ employ ten-fold cross-validation.
         <li>PRON: co, kdo, koho, čím</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neg
       <ul>
         <li>ADV: nikdy</li>
@@ -620,18 +787,27 @@ employ ten-fold cross-validation.
         <li>PRON: nic, nikdo, nikoho, nikým, ničím</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
         <li>DET: jeho, jejich, své, její, n, svou, svého, svůj, svých, svým</li>
         <li>PRON: se, si, ho, nich, ní, jí, mu, mě, ji, něj</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rel
       <ul>
         <li>DET: jejichž, jehož, jejíž</li>
         <li>PRON: což, jenž, nichž, níž, jež, něhož, čemuž, čímž, jehož, nimž</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Tot
       <ul>
         <li>ADV: vždy</li>
@@ -640,9 +816,13 @@ employ ten-fold cross-validation.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>NumType</a>
+
   <ul>
     <li>Card
       <ul>
@@ -650,26 +830,39 @@ employ ten-fold cross-validation.
         <li>NUM: dva, čtyři, dvou, dvě, jedné, 1, 3, jeden, 20, dvěma</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Mult
       <ul>
         <li>ADV: třikrát, dvakrát, jednou, několikrát, mnohokrát</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ord
       <ul>
         <li>ADJ: první, druhé, prvního, třetí, druhou, šedesátých, druhý, dvacátého, padesátých, prvních</li>
         <li>ADV: poprvé, podruhé</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sets
       <ul>
         <li>ADJ: jedni</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Poss</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -678,9 +871,13 @@ employ ten-fold cross-validation.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Reflex</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -689,9 +886,13 @@ employ ten-fold cross-validation.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Person</a>
+
   <ul>
     <li>1
       <ul>
@@ -701,6 +902,9 @@ employ ten-fold cross-validation.
         <li>VERB-Fin: musíme, Myslím, Nevím, hraju, máme, nemůžeme, Jdeme, Musím, Míjíme, Navštěvuji</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>AUX-Fin: jste, byste</li>
@@ -709,6 +913,9 @@ employ ten-fold cross-validation.
         <li>VERB-Fin: musíte, Hádáte, Polož, Skončíte, máte, víte, čekáte</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>AUX-Fin: je, by, jsou, bude, není, budou, nebude, nebudou, nejsou, bývají</li>
@@ -718,10 +925,15 @@ employ ten-fold cross-validation.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Gender[psor]</a>
+
   <ul>
     <li>Fem
       <ul>
@@ -729,35 +941,52 @@ employ ten-fold cross-validation.
         <li>DET: její, jejím, jejích, jejího, jejíž</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>ADJ: achaimenovské, Achaimenovskou, Achaimenovská, Alexandrově, Bergeronova, Berijovo, Blochových, Caesarovi, Cottonovy, Césarovo</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc,Neut
       <ul>
         <li>DET: jeho, jehož</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Number[psor]</a>
+
   <ul>
     <li>Plur
       <ul>
         <li>DET: jejich, n, naše, jejichž, naší, naším, náš, vašich</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>DET: jeho, její, jejím, jehož, jejích, mých, Moje, jejího, jejíž, mé</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Other Features</h3>
+
 
 <li><a>Abbr</a>
   <ul>
@@ -773,6 +1002,7 @@ employ ten-fold cross-validation.
     </li>
   </ul>
 </li>
+
 <li><a>AdpType</a>
   <ul>
     <li>Comprep
@@ -792,6 +1022,7 @@ employ ten-fold cross-validation.
     </li>
   </ul>
 </li>
+
 <li><a>Foreign</a>
   <ul>
     <li>Yes
@@ -807,6 +1038,7 @@ employ ten-fold cross-validation.
     </li>
   </ul>
 </li>
+
 <li><a>Hyph</a>
   <ul>
     <li>Yes
@@ -816,6 +1048,7 @@ employ ten-fold cross-validation.
     </li>
   </ul>
 </li>
+
 <li><a>NameType</a>
   <ul>
     <li>Com
@@ -885,6 +1118,7 @@ employ ten-fold cross-validation.
     </li>
   </ul>
 </li>
+
 <li><a>NumForm</a>
   <ul>
     <li>Digit
@@ -904,6 +1138,7 @@ employ ten-fold cross-validation.
     </li>
   </ul>
 </li>
+
 <li><a>NumValue</a>
   <ul>
     <li>1
@@ -918,6 +1153,7 @@ employ ten-fold cross-validation.
     </li>
   </ul>
 </li>
+
 <li><a>Style</a>
   <ul>
     <li>Arch
@@ -957,6 +1193,9 @@ employ ten-fold cross-validation.
 
 <ul>
 <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: být, bývat.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: být.</li>
 <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být.</li>
 </ul>
@@ -1112,7 +1351,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li>This corpus contains 36 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: dostat se, vrátit se, zapojit se, zapsat se, donést si, halit se, hledat se, hrát si, integrovat své, klást si, koupit si, měnit se, nasazovat si, nastěhovat se, naučit se, naštvat se, obrátit se, odklonit se, potopit se, prohlásit se, promísit se, prosadit se, přeměnit se, připravovat se, půjčit si, rozvíjet se, rozšiřovat se, smířit se, spasit se, spojit se, udržet se, ukázat se, vybrat si, zaměstnat se, zastavit se, zhoršovat se</li>
     <ul>
-      <li>Out of those, 3 lemmas occurred more than once, but never without a reflexive dependent. Examples: vrátit, zapojit, zapsat, donést, halit, integrovat, koupit, měnit, nasazovat, nastěhovat, naštvat, obrátit, odklonit, potopit, promísit, prosadit, přeměnit, půjčit, rozšiřovat, smířit, spasit, spojit, zaměstnat, zhoršovat</li>
+      <li>Out of those, 3 lemmas occurred more than once, but never without a reflexive dependent. Examples: vrátit, zapojit, zapsat</li>
     </ul>
 </ul>
 

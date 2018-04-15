@@ -24,7 +24,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 * `Imp` (1639; 57% of non-empty `Aspect`): <em>vem, veš, mislim, ima, imamo, imaš, imela, imeli, imajo, zdi</em>
 * `Perf` (1231; 43% of non-empty `Aspect`): <em>recimo, rekel, daj, rekla, rekli, da, narediti, pride, dobil, reči</em>
-* `EMPTY` (1065): <em>je, ni, bilo, so, bo, bil, pravi, gre, šla, bila</em>
+* `EMPTY` (1063): <em>je, ni, bilo, so, bo, bil, pravi, gre, šla, bila</em>
 
 <table>
   <tr><th>Paradigm <i>pasti</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th></tr>
@@ -47,7 +47,7 @@ The most frequent other feature values with which `AUX` and `Aspect` co-occurred
 `AUX` tokens may have the following values of `Aspect`:
 
 * `Imp` (2; 100% of non-empty `Aspect`): <em>bil, bilo</em>
-* `EMPTY` (1932): <em>je, so, sem, bi, bo, smo, ni, si, bomo, bila</em>
+* `EMPTY` (1934): <em>je, so, sem, bi, bo, smo, ni, si, bomo, bila</em>
 
 ## Relations with Agreement in `Aspect`
 

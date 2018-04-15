@@ -31,7 +31,7 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 7	отставали	отставать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 8	от	от	ADP	_	_	9	case	9:case	_
 9	Запада	запад	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	obl	7:obl	_
-10	-	-	PUNCT	_	_	9	punct	9:punct	_
+10	-	-	PUNCT	_	_	14	punct	14:punct	_
 11	прежде	прежде	ADP	_	_	14	advmod	14:advmod	_
 12	всего	все	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	11	fixed	11:fixed	_
 13	в	в	ADP	_	_	14	case	14:case	_
@@ -40,7 +40,7 @@ The following 1 pairs of parts of speech are connected with `dep`: <tt><a href="
 16	и	и	CCONJ	_	_	18	cc	18:cc	_
 17	компьютерных	компьютерный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	18	amod	18:amod	_
 18	технологий	технология	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	15	conj	15:conj	SpaceAfter=No
-19	.	.	PUNCT	_	_	18	punct	18:punct	_
+19	.	.	PUNCT	_	_	14	punct	14:punct	_
 
 ~~~
 

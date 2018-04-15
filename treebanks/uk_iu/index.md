@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Ukrainian'
+title:  'UD_Ukrainian-IU'
 udver: '2'
 ---
 
@@ -9,7 +9,7 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Ukrainian
+# UD Ukrainian IU
 
 Language: [Ukrainian](../uk/overview/uk-hub.html) (code: `uk`)<br/>
 Family: Indo-European, Slavic
@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v1.4 release.
 
 The following people have contributed to making this treebank part of UD: Natalia Kotsyba, Bohdan Moskalevskyi, Mykhailo Romanenko.
 
-Repository: [UD_Ukrainian](https://github.com/UniversalDependencies/UD_Ukrainian)
+Repository: [UD_Ukrainian-IU](https://github.com/UniversalDependencies/UD_Ukrainian-IU)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uduk_iu)
 
 License: CC BY-NC-SA 4.0
 
@@ -26,7 +27,7 @@ Genre: news, fiction, legal, social, wiki, web, email
 
 Questions, comments?
 General annotation questions (either Ukrainian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Ukrainian/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Ukrainian-IU/issues).
 If you want to collaborate, please contact [org&nbsp;(æt)&nbsp;mova&nbsp;•&nbsp;institute].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
@@ -61,27 +62,40 @@ We thank Prof. Larysa Masenko for guidance.
 
 
 
-# Statistics of UD Ukrainian
+# Statistics of UD Ukrainian IU
 
 ## POS Tags
 
-[ADJ](uk-pos-ADJ.html) – [ADP](uk-pos-ADP.html) – [ADV](uk-pos-ADV.html) – [AUX](uk-pos-AUX.html) – [CCONJ](uk-pos-CCONJ.html) – [DET](uk-pos-DET.html) – [INTJ](uk-pos-INTJ.html) – [NOUN](uk-pos-NOUN.html) – [NUM](uk-pos-NUM.html) – [PART](uk-pos-PART.html) – [PRON](uk-pos-PRON.html) – [PROPN](uk-pos-PROPN.html) – [PUNCT](uk-pos-PUNCT.html) – [SCONJ](uk-pos-SCONJ.html) – [SYM](uk-pos-SYM.html) – [VERB](uk-pos-VERB.html) – [X](uk-pos-X.html)
+[ADJ](uk_iu-pos-ADJ.html) – [ADP](uk_iu-pos-ADP.html) – [ADV](uk_iu-pos-ADV.html) – [AUX](uk_iu-pos-AUX.html) – [CCONJ](uk_iu-pos-CCONJ.html) – [DET](uk_iu-pos-DET.html) – [INTJ](uk_iu-pos-INTJ.html) – [NOUN](uk_iu-pos-NOUN.html) – [NUM](uk_iu-pos-NUM.html) – [PART](uk_iu-pos-PART.html) – [PRON](uk_iu-pos-PRON.html) – [PROPN](uk_iu-pos-PROPN.html) – [PUNCT](uk_iu-pos-PUNCT.html) – [SCONJ](uk_iu-pos-SCONJ.html) – [SYM](uk_iu-pos-SYM.html) – [VERB](uk_iu-pos-VERB.html) – [X](uk_iu-pos-X.html)
 
 ## Features
 
-[Abbr](uk-feat-Abbr.html) – [Animacy](uk-feat-Animacy.html) – [Animacy[gram]](uk-feat-Animacy-gram.html) – [Aspect](uk-feat-Aspect.html) – [Case](uk-feat-Case.html) – [Degree](uk-feat-Degree.html) – [Foreign](uk-feat-Foreign.html) – [Gender](uk-feat-Gender.html) – [Hyph](uk-feat-Hyph.html) – [Mood](uk-feat-Mood.html) – [NameType](uk-feat-NameType.html) – [Number](uk-feat-Number.html) – [NumType](uk-feat-NumType.html) – [Orth](uk-feat-Orth.html) – [PartType](uk-feat-PartType.html) – [Person](uk-feat-Person.html) – [Polarity](uk-feat-Polarity.html) – [Poss](uk-feat-Poss.html) – [PronType](uk-feat-PronType.html) – [PunctType](uk-feat-PunctType.html) – [Reflex](uk-feat-Reflex.html) – [Tense](uk-feat-Tense.html) – [Uninflect](uk-feat-Uninflect.html) – [Variant](uk-feat-Variant.html) – [VerbForm](uk-feat-VerbForm.html) – [Voice](uk-feat-Voice.html)
+[Abbr](uk_iu-feat-Abbr.html) – [Animacy](uk_iu-feat-Animacy.html) – [Animacy[gram]](uk_iu-feat-Animacy-gram.html) – [Aspect](uk_iu-feat-Aspect.html) – [Case](uk_iu-feat-Case.html) – [Degree](uk_iu-feat-Degree.html) – [Foreign](uk_iu-feat-Foreign.html) – [Gender](uk_iu-feat-Gender.html) – [Hyph](uk_iu-feat-Hyph.html) – [Mood](uk_iu-feat-Mood.html) – [NameType](uk_iu-feat-NameType.html) – [Number](uk_iu-feat-Number.html) – [NumType](uk_iu-feat-NumType.html) – [Orth](uk_iu-feat-Orth.html) – [PartType](uk_iu-feat-PartType.html) – [Person](uk_iu-feat-Person.html) – [Polarity](uk_iu-feat-Polarity.html) – [Poss](uk_iu-feat-Poss.html) – [PronType](uk_iu-feat-PronType.html) – [PunctType](uk_iu-feat-PunctType.html) – [Reflex](uk_iu-feat-Reflex.html) – [Tense](uk_iu-feat-Tense.html) – [Uninflect](uk_iu-feat-Uninflect.html) – [Variant](uk_iu-feat-Variant.html) – [VerbForm](uk_iu-feat-VerbForm.html) – [Voice](uk_iu-feat-Voice.html)
 
 ## Relations
 
-[acl](uk-dep-acl.html) – [advcl](uk-dep-advcl.html) – [advcl:sp](uk-dep-advcl-sp.html) – [advcl:svc](uk-dep-advcl-svc.html) – [advmod](uk-dep-advmod.html) – [amod](uk-dep-amod.html) – [appos](uk-dep-appos.html) – [aux](uk-dep-aux.html) – [case](uk-dep-case.html) – [cc](uk-dep-cc.html) – [ccomp](uk-dep-ccomp.html) – [compound](uk-dep-compound.html) – [compound:svc](uk-dep-compound-svc.html) – [conj](uk-dep-conj.html) – [conj:svc](uk-dep-conj-svc.html) – [cop](uk-dep-cop.html) – [csubj](uk-dep-csubj.html) – [dep](uk-dep-dep.html) – [det](uk-dep-det.html) – [det:numgov](uk-dep-det-numgov.html) – [det:nummod](uk-dep-det-nummod.html) – [discourse](uk-dep-discourse.html) – [dislocated](uk-dep-dislocated.html) – [expl](uk-dep-expl.html) – [fixed](uk-dep-fixed.html) – [flat](uk-dep-flat.html) – [flat:foreign](uk-dep-flat-foreign.html) – [flat:name](uk-dep-flat-name.html) – [flat:repeat](uk-dep-flat-repeat.html) – [flat:title](uk-dep-flat-title.html) – [goeswith](uk-dep-goeswith.html) – [iobj](uk-dep-iobj.html) – [list](uk-dep-list.html) – [mark](uk-dep-mark.html) – [nmod](uk-dep-nmod.html) – [nsubj](uk-dep-nsubj.html) – [nsubj:pass](uk-dep-nsubj-pass.html) – [nummod](uk-dep-nummod.html) – [nummod:gov](uk-dep-nummod-gov.html) – [obj](uk-dep-obj.html) – [obl](uk-dep-obl.html) – [orphan](uk-dep-orphan.html) – [parataxis](uk-dep-parataxis.html) – [parataxis:discourse](uk-dep-parataxis-discourse.html) – [parataxis:newsent](uk-dep-parataxis-newsent.html) – [punct](uk-dep-punct.html) – [reparandum](uk-dep-reparandum.html) – [root](uk-dep-root.html) – [vocative](uk-dep-vocative.html) – [xcomp](uk-dep-xcomp.html) – [xcomp:sp](uk-dep-xcomp-sp.html)
+[acl](uk_iu-dep-acl.html) – [advcl](uk_iu-dep-advcl.html) – [advcl:sp](uk_iu-dep-advcl-sp.html) – [advcl:svc](uk_iu-dep-advcl-svc.html) – [advmod](uk_iu-dep-advmod.html) – [amod](uk_iu-dep-amod.html) – [appos](uk_iu-dep-appos.html) – [aux](uk_iu-dep-aux.html) – [case](uk_iu-dep-case.html) – [cc](uk_iu-dep-cc.html) – [ccomp](uk_iu-dep-ccomp.html) – [compound](uk_iu-dep-compound.html) – [compound:svc](uk_iu-dep-compound-svc.html) – [conj](uk_iu-dep-conj.html) – [conj:svc](uk_iu-dep-conj-svc.html) – [cop](uk_iu-dep-cop.html) – [csubj](uk_iu-dep-csubj.html) – [dep](uk_iu-dep-dep.html) – [det](uk_iu-dep-det.html) – [det:numgov](uk_iu-dep-det-numgov.html) – [det:nummod](uk_iu-dep-det-nummod.html) – [discourse](uk_iu-dep-discourse.html) – [dislocated](uk_iu-dep-dislocated.html) – [expl](uk_iu-dep-expl.html) – [fixed](uk_iu-dep-fixed.html) – [flat](uk_iu-dep-flat.html) – [flat:foreign](uk_iu-dep-flat-foreign.html) – [flat:name](uk_iu-dep-flat-name.html) – [flat:repeat](uk_iu-dep-flat-repeat.html) – [flat:title](uk_iu-dep-flat-title.html) – [goeswith](uk_iu-dep-goeswith.html) – [iobj](uk_iu-dep-iobj.html) – [list](uk_iu-dep-list.html) – [mark](uk_iu-dep-mark.html) – [nmod](uk_iu-dep-nmod.html) – [nsubj](uk_iu-dep-nsubj.html) – [nsubj:pass](uk_iu-dep-nsubj-pass.html) – [nummod](uk_iu-dep-nummod.html) – [nummod:gov](uk_iu-dep-nummod-gov.html) – [obj](uk_iu-dep-obj.html) – [obl](uk_iu-dep-obl.html) – [orphan](uk_iu-dep-orphan.html) – [parataxis](uk_iu-dep-parataxis.html) – [parataxis:discourse](uk_iu-dep-parataxis-discourse.html) – [parataxis:newsent](uk_iu-dep-parataxis-newsent.html) – [punct](uk_iu-dep-punct.html) – [reparandum](uk_iu-dep-reparandum.html) – [root](uk_iu-dep-root.html) – [vocative](uk_iu-dep-vocative.html) – [xcomp](uk_iu-dep-xcomp.html) – [xcomp:sp](uk_iu-dep-xcomp-sp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
-<li>This corpus contains 5866 sentences and 100364 tokens.</li>
-<li>This corpus contains 18502 tokens (18%) that are not followed by a space.</li>
+<li>This corpus contains 5873 sentences and 100408 tokens.</li>
+</ul>
+
+<ul>
+<li>This corpus contains 18511 tokens (18%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 7 types of words with spaces. Examples: 1 010, 12 000, 19 700, 2 750, 26 000, 3 079, 4 000</li>
+</ul>
+
+<ul>
 <li>This corpus contains 567 types of words that contain both letters and punctuation. Examples: здоров’я, пов’язані, п’яти, з-під, пам’яток, сім’ї, зв’язку, об’єднання, об’єднаної, будь-якого, м’язів, пам’яті, прем'єр, п’ять, ім’я, 1930-х, з’явився, пам’ятки, пов’язаних, 1920-х, будь-який, будь-яких, будь-якому, будь-яку, з-за, зв'язку, здоров'я, зобов’язань, кров’ю, пам'ятати, пам’ятці, п’ятдесят, руків'я, слов’янських, ім'я, 11-ї, 2-х, 2016-го, 2017-го, Ма-у, О'Райлі, Сан-Ремо, де-не-де, дев’ять, кав’ярні, обов"язково, обов'язково, об’єкта, пам'ять, перемир’я</li>
+</ul>
+
+<ul>
 </ul>
 
 <h2>Morphology</h2>
@@ -90,6 +104,9 @@ We thank Prof. Larysa Masenko for guidance.
 
 <ul>
 <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
+</ul>
+
+<ul>
 <li>This corpus contains 90 word types tagged as particles (PART): Авжеж, Анті, Ба, Гаразд, Дю, Коли, Ле, На, Он, Ото, Тож, Усе-таки, Чиж, а, аж, ані, б, би, бо, бодай, вже, власне, все, все-таки, всього, геть, да, де, десь, ж, же, завгодно, й, куди, лиш, лише, лишень, мовби, навіть, най, наче, не, невже, немов, немовби, неначе, нехай, но, ну, ні, ніби, нібито, ось, осьо, от, отже, отож, оце, пак, попросту, просто, прямо, саме, та, так, таки, типу, то, тощо, тільки, тілько, уже, усе, усього, фон, хай, хан, хоч, хоча, хіба, це, чи, шо, ще, що, щоб, як, якраз, і, іще</li>
 </ul>
 
@@ -114,7 +131,9 @@ We thank Prof. Larysa Masenko for guidance.
 </ul>
 
 <ul>
-<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Conv
   <ul>
@@ -122,30 +141,39 @@ We thank Prof. Larysa Masenko for guidance.
     <li>VERB: тримаючи, враховуючи, зважаючи, знаючи, починаючи, вивчаючи, виходячи, кажучи, перебуваючи, говорячи</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Fin
   <ul>
     <li>AUX: було, був, є, була, були, буде, будуть, будемо, буду, будете</li>
     <li>VERB: є, може, має, було, можуть, мав, мають, міг, були, була</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Inf
   <ul>
     <li>AUX: бути</li>
     <li>VERB: зробити, робити, знайти, працювати, сказати, говорити, стати, дати, писати, мати</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>ADJ: пов’язані, установленому, об’єднаної, затвердженого, вибраний, включені, населених, пов’язаних, відкритим, зареєстрованого</li>
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
+
 <li><a>Gender</a>
+
   <ul>
     <li>Fem
       <ul>
@@ -161,6 +189,9 @@ We thank Prof. Larysa Masenko for guidance.
         <li>X: Снарская, блядєй, системы, строгой, частєй</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>ADJ: 2017, 2016, українського, український, цілий, перший, першого, новий, нового, державного</li>
@@ -175,6 +206,9 @@ We thank Prof. Larysa Masenko for guidance.
         <li>X: GMAT, Kapital’у, дождєй, факінґ</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neut
       <ul>
         <li>ADJ: ціле, нове, 1, XI, державного, 15, 26, 14, 21, 23</li>
@@ -190,9 +224,13 @@ We thank Prof. Larysa Masenko for guidance.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Animacy</a>
+
   <ul>
     <li>Anim
       <ul>
@@ -206,6 +244,9 @@ We thank Prof. Larysa Masenko for guidance.
         <li>X: Снарская, блядєй, ю</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Inan
       <ul>
         <li>ADJ: цілий, останні, перший, перші, новий, окремі, другий, нові, різні, спеціальні</li>
@@ -219,9 +260,13 @@ We thank Prof. Larysa Masenko for guidance.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Number</a>
+
   <ul>
     <li>Plur
       <ul>
@@ -237,6 +282,9 @@ We thank Prof. Larysa Masenko for guidance.
         <li>X: блядєй, воєнських, дождєй, частєй</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ptan
       <ul>
         <li>NOUN: даних, виборів, гроші, грошей, дані, коштів, двері, даними, дверей, пестощі</li>
@@ -244,6 +292,9 @@ We thank Prof. Larysa Masenko for guidance.
         <li>PROPN: США, Карпати, Черкаси, Карпат, Бережани, Броварів, Бітлз, Держгеонадр, Дубосар, Жуляни</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: 2017, української, державної, українського, 2016, національної, державного, нового, українська, український</li>
@@ -258,9 +309,13 @@ We thank Prof. Larysa Masenko for guidance.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Acc
       <ul>
@@ -274,6 +329,9 @@ We thank Prof. Larysa Masenko for guidance.
         <li>PROPN: Україну, Київ, Сибір, Хруща, Камену, Карпати, Коцького, М, Михайла, Пуню</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dat
       <ul>
         <li>ADJ: першому, літературній, фізичній, засудженим, спеціалізованим, терористичним, українським, Атомним, Всенароднім, Епітеліальній</li>
@@ -286,6 +344,9 @@ We thank Prof. Larysa Masenko for guidance.
         <li>PROPN: Україні, Софії, Є, Ігорю, Г, Джонові, Марфі, Миколайовичу, Михайлові, Моцарту</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Gen
       <ul>
         <li>ADJ: української, 2017, державної, українського, українських, національної, перших, державного, нового, різних</li>
@@ -299,6 +360,9 @@ We thank Prof. Larysa Masenko for guidance.
         <li>X: GMAT, Kapital’у, блядєй, воєнських, дождєй, системы, строгой, частєй</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ins
       <ul>
         <li>ADJ: першим, новим, різними, єдиним, головним, першою, центральним, великим, малими, українською</li>
@@ -311,6 +375,9 @@ We thank Prof. Larysa Masenko for guidance.
         <li>PROPN: Трампом, Україною, Юрком, Дністром, Йохаєм, Л, Лесем, Лесею, Москвою, Олександром</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Loc
       <ul>
         <li>ADJ: різних, установленому, українській, 2016, далекому, великій, другій, навчальному, окремих, третьому</li>
@@ -323,6 +390,9 @@ We thank Prof. Larysa Masenko for guidance.
         <li>PROPN: Україні, Києві, Львові, Франківську, Європі, Читі, Празі, Америці, Варшаві, Делятині</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Nom
       <ul>
         <li>ADJ: українська, повинні, український, нові, злий, нова, різні, українські, перша, повинна</li>
@@ -335,36 +405,52 @@ We thank Prof. Larysa Masenko for guidance.
         <li>X: Снарская, Утопия, город, крушеніє, место, факінґ</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Voc
       <ul>
         <li>ADJ: дорогий, Шановне, Високоповажний, Дорогая, Шановна, Шановні, дорогі, загублене, народні, рівна</li>
         <li>ADJ-Part: загублене</li>
         <li>DET: моя, мої, мій, наші, якийсь</li>
-        <li>NOUN: дядечку, друже, дівко, Хлопці, боже, видавництво, дочко, друзі, ма, товаришу</li>
+        <li>NOUN: дядечку, друже, дівко, Хлопці, боже, видавництво, дочко, друзі, ма, мамо</li>
         <li>PRON: Ви, ти</li>
         <li>PROPN: Соню, Господи, Григоровичу, Катю, Левку, Павле, Євгене, Іванко, А-ба-ба, Андрію</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
 
 
 
 <h3>Degree and Polarity</h3>
 
+
 <li><a>Degree</a>
+
   <ul>
     <li>Abs
       <ul>
         <li>ADV: щонайменше, якнайбільш, щонайгірше, щонайширше, якнайбільше, якнайменше, якнайочевидніше, якнайпорядніше, якнайпослідовніше, якнайстаранніш</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Cmp
       <ul>
         <li>ADJ: старший, більших, вищих, кращий, старшого, більша, більшу, більші, краще, кращих</li>
         <li>ADV: більше, більш, раніше, краще, пізніше, менш, вище, менше, швидше, нижче</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>ADJ: перших, нового, нові, великої, перший, першого, нових, перші, новий, великі</li>
@@ -372,6 +458,9 @@ We thank Prof. Larysa Masenko for guidance.
         <li>ADV: дуже, добре, часто, багато, відповідно, видно, потрібно, довго, значно, швидко</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sup
       <ul>
         <li>ADJ: найкращих, найбільша, найважливіші, найкращий, найближчими, найбільший, найбільших, найбільшу, найкращим, найкращі</li>
@@ -379,9 +468,13 @@ We thank Prof. Larysa Masenko for guidance.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Polarity</a>
+
   <ul>
     <li>Neg
       <ul>
@@ -391,9 +484,13 @@ We thank Prof. Larysa Masenko for guidance.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Variant</a>
+
   <ul>
     <li>Short
       <ul>
@@ -402,6 +499,9 @@ We thank Prof. Larysa Masenko for guidance.
         <li>PRON: кожен</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Uncontr
       <ul>
         <li>ADJ: Дорогая, Красную, бідная</li>
@@ -409,11 +509,16 @@ We thank Prof. Larysa Masenko for guidance.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Verbal Features</h3>
 
+
 <li><a>Aspect</a>
+
   <ul>
     <li>Imp
       <ul>
@@ -428,6 +533,9 @@ We thank Prof. Larysa Masenko for guidance.
         <li>VERB-Inf: робити, працювати, говорити, писати, мати, жити, дивитися, брати, бути, використовувати</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Perf
       <ul>
         <li>ADJ-Part: пов’язані, установленому, об’єднаної, затвердженого, вибраний, включені, населених, пов’язаних, відкритим, зареєстрованого</li>
@@ -438,21 +546,31 @@ We thank Prof. Larysa Masenko for guidance.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Mood</a>
+
   <ul>
     <li>Cnd
       <ul>
         <li>AUX: б, би</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Imp
       <ul>
         <li>AUX-Fin: будьте</li>
         <li>VERB-Fin: див, будь, дивіться, давай, підкажіть, скажіть, слухайте, допомагайте, згадайте, скажи</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>AUX-Fin: було, був, є, була, були, буде, будуть, будемо, буду, будете</li>
@@ -460,9 +578,13 @@ We thank Prof. Larysa Masenko for guidance.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Tense</a>
+
   <ul>
     <li>Fut
       <ul>
@@ -470,6 +592,9 @@ We thank Prof. Larysa Masenko for guidance.
         <li>VERB-Fin: буде, вийде, матиме, дасть, Нагадаємо, зроблю, прийде, скаже, залишиться, знадобиться</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Past
       <ul>
         <li>AUX-Conv: бувши</li>
@@ -478,6 +603,9 @@ We thank Prof. Larysa Masenko for guidance.
         <li>VERB-Fin: було, мав, міг, були, була, мали, був, знав, почав, почали</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pres
       <ul>
         <li>ADJ-Part: діючих, Караюча, блеючий, блеючого, взаємодіючих, генеруючими, діючого, діючої, енергогенеруючої, западаючу</li>
@@ -488,9 +616,13 @@ We thank Prof. Larysa Masenko for guidance.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Voice</a>
+
   <ul>
     <li>Act
       <ul>
@@ -498,6 +630,9 @@ We thank Prof. Larysa Masenko for guidance.
         <li>NOUN: оточуючих, загиблих, загиблого, минуле, Наболілим, виконуюча, завідуючий, загиблим, командуючого, комплектуючих</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pass
       <ul>
         <li>ADJ-Part: пов’язані, установленому, об’єднаної, затвердженого, вибраний, включені, населених, пов’язаних, відкритим, зареєстрованого</li>
@@ -505,12 +640,18 @@ We thank Prof. Larysa Masenko for guidance.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Dem
       <ul>
@@ -519,11 +660,17 @@ We thank Prof. Larysa Masenko for guidance.
         <li>PRON: це, те, того, цього, тим, цьому, тому, то, таке, цим</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Emp
       <ul>
         <li>ADV: ніде, ніяк</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>ADV: десь, якось, колись, іноді, дещо, чомусь, інакше, де-не-де, подекуди, інколи</li>
@@ -531,6 +678,9 @@ We thank Prof. Larysa Masenko for guidance.
         <li>PRON: щось, хтось, що, когось, чого, чимось, інше, кому, комусь, іншого</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Int
       <ul>
         <li>ADV: як, чого, чому, коли, навіщо, де, звідки, куди, скільки, чом</li>
@@ -538,6 +688,9 @@ We thank Prof. Larysa Masenko for guidance.
         <li>PRON: що, хто, чим, кого, чого, Шо, кому, чому</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neg
       <ul>
         <li>ADV: ніколи, ніяк, ніко́ли, нікуди, ніде, нізащо</li>
@@ -545,6 +698,9 @@ We thank Prof. Larysa Masenko for guidance.
         <li>PRON: ніхто, нічого, нікого, нікому, ніщо, нічим, нічому</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
         <li>ADV: по-моєму, по-нашому</li>
@@ -554,6 +710,9 @@ We thank Prof. Larysa Masenko for guidance.
         <li>X: ю</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rel
       <ul>
         <li>ADV: коли, де, як, поки, куди, чому, доки, відколи, скільки, допоки</li>
@@ -561,6 +720,9 @@ We thank Prof. Larysa Masenko for guidance.
         <li>PRON: що, хто, чого, чим, кого, чому, ким, кому, віщо, чім</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Tot
       <ul>
         <li>ADV: завжди, скрізь, всюди, всього, звідусіль, повсюди, усюди</li>
@@ -569,9 +731,13 @@ We thank Prof. Larysa Masenko for guidance.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>NumType</a>
+
   <ul>
     <li>Card
       <ul>
@@ -580,6 +746,9 @@ We thank Prof. Larysa Masenko for guidance.
         <li>NUM: 1, 2, 5, 3, три, 7, двох, два, 4, 10</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ord
       <ul>
         <li>ADJ: 2017, 2016, перших, перший, першого, перші, 1, першим, першу, другий</li>
@@ -587,9 +756,13 @@ We thank Prof. Larysa Masenko for guidance.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Poss</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -599,9 +772,13 @@ We thank Prof. Larysa Masenko for guidance.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Reflex</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -610,24 +787,34 @@ We thank Prof. Larysa Masenko for guidance.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Person</a>
+
   <ul>
     <li>0
       <ul>
         <li>VERB-Fin: заборонено, написано, виявлено, записано, знайдено, позначено, використано, дано, зазначено, запущено</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>1
       <ul>
         <li>ADV: по-моєму, по-нашому</li>
         <li>AUX-Fin: будемо, буду, є</li>
-        <li>DET: наші, мій, наших, нашого, наша, мого, моя, наш, нашої, мою</li>
+        <li>DET: наші, мій, наших, нашого, моя, наша, мого, наш, нашої, мою</li>
         <li>PRON: я, ми, нас, мене, мені, нам, нами, мною</li>
         <li>VERB-Fin: маю, маємо, знаю, кажу, думаю, дякую, бачу, люблю, можу, хочу</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>AUX-Fin: будете, будьте, будеш</li>
@@ -637,6 +824,9 @@ We thank Prof. Larysa Masenko for guidance.
         <li>X: ю</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>AUX-Fin: є, буде, будуть, буває</li>
@@ -646,12 +836,19 @@ We thank Prof. Larysa Masenko for guidance.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
 
 
+
+
+
 <h3>Other Features</h3>
+
 
 <li><a>Abbr</a>
   <ul>
@@ -669,6 +866,7 @@ We thank Prof. Larysa Masenko for guidance.
     </li>
   </ul>
 </li>
+
 <li><a>Animacy[gram]</a>
   <ul>
     <li>Anim
@@ -683,6 +881,7 @@ We thank Prof. Larysa Masenko for guidance.
     </li>
   </ul>
 </li>
+
 <li><a>Foreign</a>
   <ul>
     <li>Yes
@@ -692,6 +891,7 @@ We thank Prof. Larysa Masenko for guidance.
     </li>
   </ul>
 </li>
+
 <li><a>Hyph</a>
   <ul>
     <li>Yes
@@ -701,6 +901,7 @@ We thank Prof. Larysa Masenko for guidance.
     </li>
   </ul>
 </li>
+
 <li><a>NameType</a>
   <ul>
     <li>Giv
@@ -720,9 +921,10 @@ We thank Prof. Larysa Masenko for guidance.
     </li>
   </ul>
 </li>
+
 <li><a>Orth</a>
   <ul>
-    <li>Khark
+    <li>Alt
       <ul>
         <li>ADJ: большевицької, большевицького, Всенародніми, Народніх, инший, матеріяльної, спеціяльні, Всенароднім, Всенародніх, большевицьких</li>
         <li>ADV: Инакше, спеціяльно</li>
@@ -732,6 +934,7 @@ We thank Prof. Larysa Masenko for guidance.
     </li>
   </ul>
 </li>
+
 <li><a>PartType</a>
   <ul>
     <li>Conseq
@@ -741,6 +944,7 @@ We thank Prof. Larysa Masenko for guidance.
     </li>
   </ul>
 </li>
+
 <li><a>PunctType</a>
   <ul>
     <li>Dash
@@ -765,6 +969,7 @@ We thank Prof. Larysa Masenko for guidance.
     </li>
   </ul>
 </li>
+
 <li><a>Uninflect</a>
   <ul>
     <li>Yes
@@ -787,6 +992,9 @@ We thank Prof. Larysa Masenko for guidance.
 
 <ul>
 <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: бути, бувати.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: бути, б, би, бувати.</li>
 </ul>
 
@@ -800,7 +1008,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen-ADP(близько) (4)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(до) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(понад) (1)</li>
-      <li>VERB-Fin--NOUN-Nom (2753)</li>
+      <li>VERB-Fin--NOUN-Nom (2756)</li>
       <li>VERB-Fin--PRON-Gen (3)</li>
       <li>VERB-Fin--PRON-Nom (1479)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
@@ -829,7 +1037,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen-ADP(понад) (3)</li>
       <li>VERB-Fin--NOUN-Ins (9)</li>
       <li>VERB-Fin--NOUN-Nom (3)</li>
-      <li>VERB-Fin--PRON-Acc (444)</li>
+      <li>VERB-Fin--PRON-Acc (445)</li>
       <li>VERB-Fin--PRON-Dat (135)</li>
       <li>VERB-Fin--PRON-Gen (36)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
@@ -867,6 +1075,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
   <li>This corpus contains 58 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: дозволити собі, дозволяти собі, обрати собі, поставити собі, проявити себе, пізнавати себе, бажати собі, варити собі, вводити собі, вибирати самому, вибити собі, вигадати собі, видати собі, визнавати себе, викликати собі, виховувати собі, властивий собі, влаштовувати собі, впізнавати себе, віддати себе, відмовляти собі, віднайти себе, вітати себе, гризти своїх, губити себе, доповнювати себе, заздрити собі, замовити собі, запам’ятати собі, запитувати себе, зарахувати себе, збудитися самому, зварити собі, здобути собі, знайти себе, знайти собі, зробити собі, копати собі, корисний самому, купити собі, набрати собі, назвати себе, нашкодити собі, отямити себе, показати себе, понаписувати собі, постановити собі, почувати себе, преміювати своїх, присоромити себе</li>
+    <ul>
+      <li>Out of those, 1 lemmas occurred more than once, but never without a reflexive dependent. Examples: проявити</li>
+    </ul>
 </ul>
 
 <h3>Relations Overview</h3>

@@ -12,7 +12,7 @@ It occurs with 2 different values: `Def`, `Ind`.
 6896 tokens (36%) have a non-empty value of `Definite`.
 3414 types (55%) occur at least once with a non-empty value of `Definite`.
 2683 lemmas (54%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 6 part-of-speech tags: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (3891; 20% instances), <tt><a href="sv_pud-pos-DET.html">DET</a></tt> (1259; 7% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (920; 5% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (822; 4% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (2; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (3891; 20% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (1076; 6% instances), <tt><a href="sv_pud-pos-DET.html">DET</a></tt> (1005; 5% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (920; 5% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
@@ -34,16 +34,30 @@ The most frequent other feature values with which `NOUN` and `Definite` co-occur
   <tr><td><tt><tt><a href="sv_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="sv_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>år</em></td><td><em>åren</em></td></tr>
 </table>
 
+### `PRON`
+
+1076 <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> tokens (82% of all `PRON` tokens) have a non-empty value of `Definite`.
+
+The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="sv_pud-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (1012; 94%), <tt><a href="sv_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (822; 76%), <tt><a href="sv_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (664; 62%), <tt><a href="sv_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (648; 60%).
+
+`PRON` tokens may have the following values of `Definite`:
+
+* `Def` (942; 88% of non-empty `Definite`): <em>det, han, de, sig, hans, jag, sin, hon, den, sina</em>
+* `Ind` (134; 12% of non-empty `Definite`): <em>vad, en, vilket, vilka, alla, många, andra, ett, mycket, allt</em>
+* `EMPTY` (235): <em>som</em>
+
+`Definite` seems to be **lexical feature** of `PRON`. 100% lemmas (54) occur only with one value of `Definite`.
+
 ### `DET`
 
-1259 <tt><a href="sv_pud-pos-DET.html">DET</a></tt> tokens (99% of all `DET` tokens) have a non-empty value of `Definite`.
+1005 <tt><a href="sv_pud-pos-DET.html">DET</a></tt> tokens (98% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="sv_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (1005; 80%), <tt><a href="sv_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (910; 72%), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (630; 50%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="sv_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (833; 83%), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (576; 57%).
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (743; 59% of non-empty `Definite`): <em>den, de, det, hans, sin, sina, dess, deras, hennes, denna</em>
-* `Ind` (516; 41% of non-empty `Definite`): <em>en, ett, samma, varje, några, någon, något, ingen, inget, a</em>
+* `Def` (489; 49% of non-empty `Definite`): <em>den, de, det, denna, the, dessa, detta, a, Die, El</em>
+* `Ind` (516; 51% of non-empty `Definite`): <em>en, ett, samma, varje, några, någon, något, ingen, inget, a</em>
 * `EMPTY` (18): <em>alla, all, allt</em>
 
 <table>
@@ -51,7 +65,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
   <tr><td><tt></tt></td><td><em>a</em></td><td><em>a</em></td></tr>
 </table>
 
-`Definite` seems to be **lexical feature** of `DET`. 97% lemmas (29) occur only with one value of `Definite`.
+`Definite` seems to be **lexical feature** of `DET`. 94% lemmas (15) occur only with one value of `Definite`.
 
 ### `ADJ`
 
@@ -72,20 +86,6 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
   <tr><td><tt><tt><a href="sv_pud-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="sv_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>stora</em></td></tr>
   <tr><td><tt><tt><a href="sv_pud-feat-Degree.html">Degree</a></tt><tt>=Sup</tt></tt></td><td></td><td><em>största</em></td></tr>
 </table>
-
-### `PRON`
-
-822 <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> tokens (78% of all `PRON` tokens) have a non-empty value of `Definite`.
-
-The most frequent other feature values with which `PRON` and `Definite` co-occurred: <tt><a href="sv_pud-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (763; 93%), <tt><a href="sv_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (587; 71%).
-
-`PRON` tokens may have the following values of `Definite`:
-
-* `Def` (688; 84% of non-empty `Definite`): <em>det, han, de, sig, jag, hon, den, vi, detta, honom</em>
-* `Ind` (134; 16% of non-empty `Definite`): <em>vad, en, vilket, vilka, alla, många, andra, ett, mycket, allt</em>
-* `EMPTY` (235): <em>som</em>
-
-`Definite` seems to be **lexical feature** of `PRON`. 100% lemmas (40) occur only with one value of `Definite`.
 
 ### `NUM`
 

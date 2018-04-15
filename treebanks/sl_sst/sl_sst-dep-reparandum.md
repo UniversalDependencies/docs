@@ -19,38 +19,15 @@ The following 75 pairs of parts of speech are connected with `reparandum`: <tt><
 ~~~ conllu
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 5 reparandum	color:blue
-1	da	da	SCONJ	Cs	_	8	mark	_	word=de|msd=Vd
-2	ne	ne	PART	Q	Polarity=Neg	8	advmod	_	word=ne|msd=L
-3	bo	biti	AUX	Va-f3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	8	aux	_	word=bo|msd=Gp-pte-n
-4	časa	čas	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	8	nsubj	_	word=časa|msd=Somer
-5	zl	_	X	Xt	_	8	reparandum	_	word=zl|msd=Nt
-6	[gap]	[gap]	X	X	_	8	punct	_	word=[gap]|msd=N
-7	[gap]	[gap]	X	X	_	8	punct	_	word=[gap]|msd=N
-8	manjkal	manjkati	VERB	Vmpp-sm	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	word=manjkal|msd=Ggnd-em
-9	slučajno	slučajno	ADV	Rgp	Degree=Pos	8	advmod	_	word=slučajno|msd=Rsn
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 7 reparandum	color:blue
-1	tam	tam	ADV	Rgp	Degree=Pos	0	root	_	word=tm|msd=Rsn
-2	kamor	kamor	SCONJ	Cs	_	3	mark	_	word=kamr|msd=Vd
-3	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	1	acl	_	word=je|msd=Gp-ste-n
-4	eee	eee	INTJ	I	_	5	discourse:filler	_	word=eee|msd=M
-5	vhod	vhod	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	word=vhod|msd=Somei
-6	v	v	ADP	Sa	Case=Acc	7	case	_	word=v|msd=Dt
-7	mar	_	X	Xt	_	10	reparandum	_	word=mar|msd=Nt
-8	[gap]	[gap]	X	X	_	1	punct	_	word=[gap]|msd=N
-9	v	v	ADP	Sa	Case=Acc	10	case	_	word=v|msd=Dt
-10	market	market	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	nmod	_	word=market|msd=Sometn
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 reparandum	color:blue
+1	no	no	PART	Q	_	2	discourse	_	word=no|msd=L
+2	ni	biti	VERB	Va-r3s-y	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	word=ni|msd=Gp-ste-d
+3	[gap]	[gap]	X	X	_	2	punct	_	word=[gap]|msd=N
+4	že	že	PART	Q	_	2	advmod	_	word=že|msd=L
+5	vs	_	X	Xt	_	2	reparandum	_	word=vs|msd=Nt
+6	[gap]	[gap]	X	X	_	2	punct	_	word=[gap]|msd=N
 
 ~~~
 
@@ -61,12 +38,38 @@ The following 75 pairs of parts of speech are connected with `reparandum`: <tt><
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 reparandum	color:blue
-1	dobimo	dobiti	VERB	Vmer1p	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	reparandum	_	word=dobimo|msd=Ggdspm
-2	boste	biti	AUX	Va-f2p-n	Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Fut|VerbForm=Fin	3	aux	_	word=boste|msd=Gp-pdm-n
-3	dobil	dobiti	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	word=dobil|msd=Ggdd-em
-4	kom	_	X	Xt	_	6	reparandum	_	word=kom|msd=Nt
-5	[gap]	[gap]	X	X	_	3	punct	_	word=[gap]|msd=N
-6	konja	konj	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	3	obj	_	word=konja|msd=Somer
+1	zag	_	X	Xt	_	3	reparandum	_	word=zag|msd=Nt
+2	[gap]	[gap]	X	X	_	4	punct	_	word=[gap]|msd=N
+3	zagovora	zagovor	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	4	obj	_	word=zagovora|msd=Somer
+4	ne	ne	PART	Q	Polarity=Neg	0	root	_	word=ne|msd=L
+5	zaradi	zaradi	ADP	Sg	Case=Gen	6	case	_	word=zard|msd=Dr
+6	tega	ta	DET	Pd-nsg	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	4	nmod	_	word=tega|msd=Zk-ser
+7	ker	ker	SCONJ	Cs	_	11	mark	_	word=k|msd=Vd
+8	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	cop	_	word=je|msd=Gp-ste-n
+9	samo	samo	PART	Q	_	10	advmod	_	word=sm|msd=L
+10	dvajset	dvajset	NUM	Mlc-pn	Case=Nom|Number=Plur|NumForm=Word|NumType=Card	11	nummod	_	word=dvejset|msd=Kbg-mi
+11	procentov	procent	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	6	acl	_	word=procentov|msd=Sommr
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 5 reparandum	color:blue
+1	ne	ne	PART	Q	_	7	discourse	_	word=ne|msd=L
+2	daj	dati	VERB	Vmem2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	7	parataxis:discourse	_	word=dej|msd=Ggdvde
+3	[gap]	[gap]	X	X	_	7	punct	_	word=[gap]|msd=N
+4	naj	naj	PART	Q	_	5	advmod	_	word=nej|msd=L
+5	požri	požreti	VERB	Vmem2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	7	reparandum	_	word=požri|msd=Ggdvde
+6	naj	naj	PART	Q	_	7	advmod	_	word=nej|msd=L
+7	požre	požreti	VERB	Vmer3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	word=požre|msd=Ggdste
+8	tisto	tisti	DET	Pd-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	7	obj	_	word=tist|msd=Zk-set
+9	kaj	kaj	PRON	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	7	parataxis	_	word=ka|msd=Zv-sei
+10	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	cop	_	word=je|msd=Gp-ste-n
+11	[gap]	[gap]	X	X	_	7	punct	_	word=[gap]|msd=N
 
 ~~~
 

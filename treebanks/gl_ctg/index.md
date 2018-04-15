@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Galician'
+title:  'UD_Galician-CTG'
 udver: '2'
 ---
 
@@ -9,7 +9,7 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Galician
+# UD Galician CTG
 
 Language: [Galician](../gl/overview/gl-hub.html) (code: `gl`)<br/>
 Family: Indo-European, Romance
@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 
 The following people have contributed to making this treebank part of UD: Xavier Gómez Guinovart.
 
-Repository: [UD_Galician](https://github.com/UniversalDependencies/UD_Galician)
+Repository: [UD_Galician-CTG](https://github.com/UniversalDependencies/UD_Galician-CTG)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgl_ctg)
 
 License: CC BY-NC-SA 3.0
 
@@ -26,42 +27,70 @@ Genre: medical, legal, nonfiction, news
 
 Questions, comments?
 General annotation questions (either Galician-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Galician/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Galician-CTG/issues).
 If you want to collaborate, please contact [xgg&nbsp;(æt)&nbsp;uvigo&nbsp;•&nbsp;es].
+Development of the treebank happens outside the UD repository.
+If there are bugs, either the original data source or the conversion procedure must be fixed.
+Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
-| XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Lemmas | annotated manually in non-UD style, automatically converted to UD |
+| UPOS | annotated manually in non-UD style, automatically converted to UD |
+| XPOS | annotated manually |
+| Features | not available |
+| Relations | annotated manually in non-UD style, automatically converted to UD |
 
 ## Description
 
+The Galician UD treebank is based on the automatic parsing of the Galician Technical Corpus (http://sli.uvigo.gal/CTG) created at the University of Vigo by the the TALG NLP research group.
+
+Original corpus sentences were selected and shuffled at random, and divided in 60-20-20 splits for the train, dev and test files, respectively.
+
+The bootstrap version of the CTG UD annotated corpus was obtained by using FreeLing 4.0 parser with the Treeler library, and by adapting the POS and dependency relations tags to CoNLL-U Format. Next versions of the corpus imply a review of the results of this initial version.
+
+The Galician UD treebank covers mainly technical texts of the fields of medicine, sociology, ecology, economy and law.
+
+
 ## Acknowledgments
 
-# Statistics of UD Galician
+* Special thanks to Martin Popel and Dan Zeman for their invaluable help
+
+
+# Statistics of UD Galician CTG
 
 ## POS Tags
 
-[ADJ](gl-pos-ADJ.html) – [ADP](gl-pos-ADP.html) – [ADV](gl-pos-ADV.html) – [AUX](gl-pos-AUX.html) – [CCONJ](gl-pos-CCONJ.html) – [DET](gl-pos-DET.html) – [INTJ](gl-pos-INTJ.html) – [NOUN](gl-pos-NOUN.html) – [NUM](gl-pos-NUM.html) – [PART](gl-pos-PART.html) – [PRON](gl-pos-PRON.html) – [PROPN](gl-pos-PROPN.html) – [PUNCT](gl-pos-PUNCT.html) – [SCONJ](gl-pos-SCONJ.html) – [SYM](gl-pos-SYM.html) – [VERB](gl-pos-VERB.html)
+[ADJ](gl_ctg-pos-ADJ.html) – [ADP](gl_ctg-pos-ADP.html) – [ADV](gl_ctg-pos-ADV.html) – [AUX](gl_ctg-pos-AUX.html) – [CCONJ](gl_ctg-pos-CCONJ.html) – [DET](gl_ctg-pos-DET.html) – [INTJ](gl_ctg-pos-INTJ.html) – [NOUN](gl_ctg-pos-NOUN.html) – [NUM](gl_ctg-pos-NUM.html) – [PART](gl_ctg-pos-PART.html) – [PRON](gl_ctg-pos-PRON.html) – [PROPN](gl_ctg-pos-PROPN.html) – [PUNCT](gl_ctg-pos-PUNCT.html) – [SCONJ](gl_ctg-pos-SCONJ.html) – [SYM](gl_ctg-pos-SYM.html) – [VERB](gl_ctg-pos-VERB.html)
 
 ## Features
 
-[Foreign](gl-feat-Foreign.html) – [Polarity](gl-feat-Polarity.html)
+[Foreign](gl_ctg-feat-Foreign.html) – [Polarity](gl_ctg-feat-Polarity.html)
 
 ## Relations
 
-[acl](gl-dep-acl.html) – [advcl](gl-dep-advcl.html) – [advmod](gl-dep-advmod.html) – [amod](gl-dep-amod.html) – [appos](gl-dep-appos.html) – [aux](gl-dep-aux.html) – [case](gl-dep-case.html) – [cc](gl-dep-cc.html) – [ccomp](gl-dep-ccomp.html) – [conj](gl-dep-conj.html) – [cop](gl-dep-cop.html) – [dep](gl-dep-dep.html) – [det](gl-dep-det.html) – [flat](gl-dep-flat.html) – [iobj](gl-dep-iobj.html) – [mark](gl-dep-mark.html) – [nmod](gl-dep-nmod.html) – [nsubj](gl-dep-nsubj.html) – [nummod](gl-dep-nummod.html) – [obj](gl-dep-obj.html) – [obl](gl-dep-obl.html) – [punct](gl-dep-punct.html) – [root](gl-dep-root.html) – [xcomp](gl-dep-xcomp.html)
+[acl](gl_ctg-dep-acl.html) – [advcl](gl_ctg-dep-advcl.html) – [advmod](gl_ctg-dep-advmod.html) – [amod](gl_ctg-dep-amod.html) – [appos](gl_ctg-dep-appos.html) – [aux](gl_ctg-dep-aux.html) – [case](gl_ctg-dep-case.html) – [cc](gl_ctg-dep-cc.html) – [ccomp](gl_ctg-dep-ccomp.html) – [conj](gl_ctg-dep-conj.html) – [cop](gl_ctg-dep-cop.html) – [dep](gl_ctg-dep-dep.html) – [det](gl_ctg-dep-det.html) – [flat](gl_ctg-dep-flat.html) – [iobj](gl_ctg-dep-iobj.html) – [mark](gl_ctg-dep-mark.html) – [nmod](gl_ctg-dep-nmod.html) – [nsubj](gl_ctg-dep-nsubj.html) – [nummod](gl_ctg-dep-nummod.html) – [obj](gl_ctg-dep-obj.html) – [obl](gl_ctg-dep-obl.html) – [punct](gl_ctg-dep-punct.html) – [root](gl_ctg-dep-root.html) – [xcomp](gl_ctg-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 3993 sentences, 126011 tokens and 138837 syntactic words.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 13812 tokens (11%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
-<li>This corpus contains 242 types of words that contain both letters and punctuation. Examples: etc., AA., CC., C., S.A., a., art., pp., d/105, L., 1.ª, 2.a, 2.º, 5.º, 80/68/CEE, 92/43/CEE, B., C.H., Castela-A, E., EE.UU., I., J., Timbre-Real, contencioso-administrativo, gr., m/105h, marítimo-terrestre, ptas., varianzas-covarianzas, -n/2, 08.05.432A.740.0, 1%dos, 1.1.-España, 1.Programa, 1.a, 101/97/CE, 12.1.e, 123.A, 149.1.21.ª, 1999/519/EC, 2.o, 2000/76/CE, 2005,mais, 21.Un, 3.º, 35.3.n, 4.º, 620.1.º, 76/464/CEE</li>
+</ul>
+
+<ul>
+<li>This corpus contains 242 types of words that contain both letters and punctuation. Examples: etc., AA., CC., C., S.A., a., art., pp., d/105, L., 1.ª, 2.a, 2.º, 5.º, 80/68/CEE, 92/43/CEE, B., C.H., Castela-A, E., EE.UU., I., J., Timbre-Real, c​o​n​t​e​n​c​i​o​s​o​-​a​d​m​i​n​i​s​t​r​a​t​i​v​o, gr., m/105h, marítimo-terrestre, ptas., v​a​r​i​a​n​z​a​s​-​c​o​v​a​r​i​a​n​z​a​s, -n/2, 08.05.432A.740.0, 1%dos, 1.1.-España, 1.Programa, 1.a, 101/97/CE, 12.1.e, 123.A, 149.1.21.ª, 1999/519/EC, 2.o, 2000/76/CE, 2005,mais, 21.Un, 3.º, 35.3.n, 4.º, 620.1.º, 76/464/CEE</li>
+</ul>
+
+<ul>
 <li>This corpus contains 12750 multi-word tokens. On average, one multi-word token consists of 2.01 syntactic words.</li>
 <li>There are 1211 types of multi-word tokens. Examples: do, da, no, dos, na, das, ao, á, nos, ó, polo, nas, co, pola, dun, coa, dunha, neste, aos, ós, nun, deste, desta, nunha, polos, cos, cunha, nesta, coas, cun, termos, polas, tódolos, destes, destas, nestes, deles, pódese, noutros, tódalas, delas, doutros, doutras, trátase, del, nese, débese, modifícase, nalgúns, desa.</li>
 </ul>
@@ -73,6 +102,9 @@ If you want to collaborate, please contact [xgg&nbsp;(æt)&nbsp;uvigo&nbsp;•&n
 <ul>
 <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a></li>
 <li>This corpus does not use the following tags: X</li>
+</ul>
+
+<ul>
 <li>This corpus contains 5 word types tagged as particles (PART): Ln, föhn, non, on, senon</li>
 </ul>
 
@@ -108,10 +140,20 @@ If you want to collaborate, please contact [xgg&nbsp;(æt)&nbsp;uvigo&nbsp;•&n
 
 
 
+
+
+
+
+
+
+
 <h3>Degree and Polarity</h3>
 
 
+
+
 <li><a>Polarity</a>
+
   <ul>
     <li>Neg
       <ul>
@@ -119,10 +161,20 @@ If you want to collaborate, please contact [xgg&nbsp;(æt)&nbsp;uvigo&nbsp;•&n
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <h3>Verbal Features</h3>
+
+
+
+
+
+
 
 
 
@@ -139,7 +191,17 @@ If you want to collaborate, please contact [xgg&nbsp;(æt)&nbsp;uvigo&nbsp;•&n
 
 
 
+
+
+
+
+
+
+
+
+
 <h3>Other Features</h3>
+
 
 <li><a>Foreign</a>
   <ul>
@@ -167,6 +229,9 @@ If you want to collaborate, please contact [xgg&nbsp;(æt)&nbsp;uvigo&nbsp;•&n
 
 <ul>
 <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: ser, estar.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 89 lemmas as auxiliaries (<a>aux</a>). Examples: poder, deber, ser, haber, estar, ter, ir, seguir, chegar, continuar, deixar, tender, vir, como, empezar, acabar, axudar, pasar, facer, tratar, comezar, adoitar, dar, proceder, a, caber, comenzar, contribuír, corresponder, custar, falar, interesar, necesitar, obrigar, outro, repartir, ver, volver, 16, abster, acceder, aceptar, acostumbrarse, analizar, apabulladas, aprender, aquel, bloquear, buscar, calquera.</li>
 </ul>
 

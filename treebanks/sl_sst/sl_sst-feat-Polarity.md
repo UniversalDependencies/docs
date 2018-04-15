@@ -12,18 +12,18 @@ It occurs with 2 different values: `Neg`, `Pos`.
 2694 tokens (9%) have a non-empty value of `Polarity`.
 46 types (1%) occur at least once with a non-empty value of `Polarity`.
 4 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 3 part-of-speech tags: <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (1656; 6% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (746; 3% instances), <tt><a href="sl_sst-pos-PART.html">PART</a></tt> (292; 1% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (1658; 6% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (744; 3% instances), <tt><a href="sl_sst-pos-PART.html">PART</a></tt> (292; 1% instances).
 
 ### `AUX`
 
-1656 <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> tokens (86% of all `AUX` tokens) have a non-empty value of `Polarity`.
+1658 <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> tokens (86% of all `AUX` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="sl_sst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1656; 100%), <tt><a href="sl_sst-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1656; 100%), <tt><a href="sl_sst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1421; 86%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1183; 71%), <tt><a href="sl_sst-feat-Person.html">Person</a></tt><tt>=3</tt> (1121; 68%).
+The most frequent other feature values with which `AUX` and `Polarity` co-occurred: <tt><a href="sl_sst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1658; 100%), <tt><a href="sl_sst-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1658; 100%), <tt><a href="sl_sst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1423; 86%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1185; 71%), <tt><a href="sl_sst-feat-Person.html">Person</a></tt><tt>=3</tt> (1122; 68%).
 
 `AUX` tokens may have the following values of `Polarity`:
 
 * `Neg` (120; 7% of non-empty `Polarity`): <em>ni, nisem, nismo, niso, nisi, niste, nisva</em>
-* `Pos` (1536; 93% of non-empty `Polarity`): <em>je, so, sem, bo, smo, si, bomo, ste, bom, sta</em>
+* `Pos` (1538; 93% of non-empty `Polarity`): <em>je, so, sem, bo, smo, si, bomo, ste, bom, sta</em>
 * `EMPTY` (278): <em>bi, bila, bil, bilo, bili, biti, bodite, bile, bodi</em>
 
 <table>
@@ -48,14 +48,14 @@ The most frequent other feature values with which `AUX` and `Polarity` co-occurr
 
 ### `VERB`
 
-746 <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> tokens (19% of all `VERB` tokens) have a non-empty value of `Polarity`.
+744 <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> tokens (19% of all `VERB` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="sl_sst-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (746; 100%), <tt><a href="sl_sst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (746; 100%), <tt><a href="sl_sst-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (746; 100%), <tt><a href="sl_sst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (682; 91%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (569; 76%), <tt><a href="sl_sst-feat-Person.html">Person</a></tt><tt>=3</tt> (535; 72%), <tt><a href="sl_sst-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (533; 71%).
+The most frequent other feature values with which `VERB` and `Polarity` co-occurred: <tt><a href="sl_sst-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (744; 100%), <tt><a href="sl_sst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (744; 100%), <tt><a href="sl_sst-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (744; 100%), <tt><a href="sl_sst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (680; 91%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (567; 76%), <tt><a href="sl_sst-feat-Person.html">Person</a></tt><tt>=3</tt> (534; 72%), <tt><a href="sl_sst-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (531; 71%).
 
 `VERB` tokens may have the following values of `Polarity`:
 
-* `Neg` (93; 12% of non-empty `Polarity`): <em>ni, nima, nimam, nisem, nimajo, niso, noče, nimamo, nimate, nimaš</em>
-* `Pos` (653; 88% of non-empty `Polarity`): <em>je, ima, so, bo, imamo, imaš, imajo, imate, sem, imam</em>
+* `Neg` (93; 13% of non-empty `Polarity`): <em>ni, nima, nimam, nisem, nimajo, niso, noče, nimamo, nimate, nimaš</em>
+* `Pos` (651; 88% of non-empty `Polarity`): <em>je, ima, so, bo, imamo, imaš, imajo, imate, sem, imam</em>
 * `EMPTY` (3189): <em>vem, veš, mislim, bilo, recimo, bil, pravi, gre, imela, rekel</em>
 
 <table>

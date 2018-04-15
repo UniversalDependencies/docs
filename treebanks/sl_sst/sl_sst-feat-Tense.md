@@ -12,18 +12,18 @@ It occurs with 2 different values: `Fut`, `Pres`.
 3948 tokens (13%) have a non-empty value of `Tense`.
 707 types (12%) occur at least once with a non-empty value of `Tense`.
 435 lemmas (11%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (2292; 8% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (1656; 6% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (2290; 8% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (1658; 6% instances).
 
 ### `VERB`
 
-2292 <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> tokens (58% of all `VERB` tokens) have a non-empty value of `Tense`.
+2290 <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> tokens (58% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="sl_sst-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2292; 100%), <tt><a href="sl_sst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2292; 100%), <tt><a href="sl_sst-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2292; 100%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1662; 73%), <tt><a href="sl_sst-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1546; 67%), <tt><a href="sl_sst-feat-Person.html">Person</a></tt><tt>=3</tt> (1234; 54%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="sl_sst-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2290; 100%), <tt><a href="sl_sst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2290; 100%), <tt><a href="sl_sst-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2290; 100%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1660; 72%), <tt><a href="sl_sst-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1546; 68%), <tt><a href="sl_sst-feat-Person.html">Person</a></tt><tt>=3</tt> (1233; 54%).
 
 `VERB` tokens may have the following values of `Tense`:
 
 * `Fut` (64; 3% of non-empty `Tense`): <em>bo, bom, boš, bodo, bomo, bojo, bosta, bova</em>
-* `Pres` (2228; 97% of non-empty `Tense`): <em>je, vem, veš, mislim, ni, ima, so, pravi, imamo, gre</em>
+* `Pres` (2226; 97% of non-empty `Tense`): <em>je, vem, veš, mislim, ni, ima, so, pravi, imamo, gre</em>
 * `EMPTY` (1643): <em>bilo, recimo, bil, imela, rekel, imeli, daj, šla, bila, imel</em>
 
 <table>
@@ -47,14 +47,14 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
 
 ### `AUX`
 
-1656 <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> tokens (86% of all `AUX` tokens) have a non-empty value of `Tense`.
+1658 <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> tokens (86% of all `AUX` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="sl_sst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1656; 100%), <tt><a href="sl_sst-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1656; 100%), <tt><a href="sl_sst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1536; 93%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1183; 71%), <tt><a href="sl_sst-feat-Person.html">Person</a></tt><tt>=3</tt> (1121; 68%).
+The most frequent other feature values with which `AUX` and `Tense` co-occurred: <tt><a href="sl_sst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1658; 100%), <tt><a href="sl_sst-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1658; 100%), <tt><a href="sl_sst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1538; 93%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1185; 71%), <tt><a href="sl_sst-feat-Person.html">Person</a></tt><tt>=3</tt> (1122; 68%).
 
 `AUX` tokens may have the following values of `Tense`:
 
 * `Fut` (235; 14% of non-empty `Tense`): <em>bo, bomo, bom, boš, boste, bodo, bova, bosta, bojo</em>
-* `Pres` (1421; 86% of non-empty `Tense`): <em>je, so, sem, smo, ni, si, ste, sta, nisem, nismo</em>
+* `Pres` (1423; 86% of non-empty `Tense`): <em>je, so, sem, smo, ni, si, ste, sta, nisem, nismo</em>
 * `EMPTY` (278): <em>bi, bila, bil, bilo, bili, biti, bodite, bile, bodi</em>
 
 <table>

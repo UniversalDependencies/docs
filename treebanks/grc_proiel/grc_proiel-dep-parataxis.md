@@ -31,7 +31,7 @@ The following 21 pairs of parts of speech are connected with `parataxis`: <tt><a
 7	ἁλίσας	ἁλίζω#1	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	8	advcl	_	ref=1.119.7
 8	θάψειν	θάπτω	VERB	V-	Tense=Fut|VerbForm=Inf|Voice=Act	3	ccomp	_	ref=1.119.7
 9	τὰ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	10	det	_	ref=1.119.7
-10	πάντα	πᾶς	ADJ	Px	Case=Acc|Gender=Neut|Number=Plur	8	obj:dir	_	ref=1.119.7
+10	πάντα	πᾶς	ADJ	Px	Case=Acc|Gender=Neut|Number=Plur	8	obj	_	ref=1.119.7
 
 ~~~
 
@@ -63,15 +63,15 @@ The following 21 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 4 5 parataxis	color:blue
 1	Τί	τίς	PRON	Pi	Case=Acc|Gender=Neut|Number=Sing|PronType=Int	4	obl	_	ref=LUKE_6.46
 2	δέ	δέ	ADV	Df	_	4	discourse	_	ref=LUKE_6.46
-3	με	ἐγώ	PRON	Pp	Case=Acc|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	4	obj:dir	_	ref=LUKE_6.46
+3	με	ἐγώ	PRON	Pp	Case=Acc|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	4	obj	_	ref=LUKE_6.46
 4	καλεῖτε	καλέω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_6.46
 5	κύριε	κύριος	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	4	parataxis	_	ref=LUKE_6.46
 6	κύριε	κύριος	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	4	parataxis	_	ref=LUKE_6.46
 7	καὶ	καί	CCONJ	C-	_	4	cc	_	ref=LUKE_6.46
 8	οὐ	οὐ	ADV	Df	Polarity=Neg	9	advmod	_	ref=LUKE_6.46
 9	ποιεῖτε	ποιέω	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	ref=LUKE_6.46
-10	ἃ	ὅς	PRON	Pr	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	11	obj:dir	_	ref=LUKE_6.46
-11	λέγω	λέγω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	obj:dir	_	ref=LUKE_6.46
+10	ἃ	ὅς	PRON	Pr	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	11	obj	_	ref=LUKE_6.46
+11	λέγω	λέγω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	obj	_	ref=LUKE_6.46
 
 ~~~
 

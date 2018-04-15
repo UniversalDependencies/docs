@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Irish'
+title:  'UD_Irish-IDT'
 udver: '2'
 ---
 
@@ -9,7 +9,7 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Irish
+# UD Irish IDT
 
 Language: [Irish](../ga/overview/ga-hub.html) (code: `ga`)<br/>
 Family: Indo-European, Celtic
@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 
 The following people have contributed to making this treebank part of UD: Teresa Lynn, Jennifer Foster.
 
-Repository: [UD_Irish](https://github.com/UniversalDependencies/UD_Irish)
+Repository: [UD_Irish-IDT](https://github.com/UniversalDependencies/UD_Irish-IDT)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udga_idt)
 
 License: CC BY-SA 3.0
 
@@ -26,7 +27,7 @@ Genre: news, fiction, web, legal, media
 
 Questions, comments?
 General annotation questions (either Irish-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Irish/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Irish-IDT/issues).
 If you want to collaborate, please contact [teresa&nbsp;•&nbsp;lynn&nbsp;(æt)&nbsp;adaptcentre&nbsp;•&nbsp;ie; jennifer&nbsp;•&nbsp;foster&nbsp;(æt)&nbsp;dcu&nbsp;•&nbsp;ie].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
@@ -73,27 +74,40 @@ and is co-funded under the European Regional Development Fund.
 
 
 
-# Statistics of UD Irish
+# Statistics of UD Irish IDT
 
 ## POS Tags
 
-[ADJ](ga-pos-ADJ.html) – [ADP](ga-pos-ADP.html) – [ADV](ga-pos-ADV.html) – [AUX](ga-pos-AUX.html) – [CCONJ](ga-pos-CCONJ.html) – [DET](ga-pos-DET.html) – [INTJ](ga-pos-INTJ.html) – [NOUN](ga-pos-NOUN.html) – [NUM](ga-pos-NUM.html) – [PART](ga-pos-PART.html) – [PRON](ga-pos-PRON.html) – [PROPN](ga-pos-PROPN.html) – [PUNCT](ga-pos-PUNCT.html) – [SCONJ](ga-pos-SCONJ.html) – [SYM](ga-pos-SYM.html) – [VERB](ga-pos-VERB.html) – [X](ga-pos-X.html)
+[ADJ](ga_idt-pos-ADJ.html) – [ADP](ga_idt-pos-ADP.html) – [ADV](ga_idt-pos-ADV.html) – [AUX](ga_idt-pos-AUX.html) – [CCONJ](ga_idt-pos-CCONJ.html) – [DET](ga_idt-pos-DET.html) – [INTJ](ga_idt-pos-INTJ.html) – [NOUN](ga_idt-pos-NOUN.html) – [NUM](ga_idt-pos-NUM.html) – [PART](ga_idt-pos-PART.html) – [PRON](ga_idt-pos-PRON.html) – [PROPN](ga_idt-pos-PROPN.html) – [PUNCT](ga_idt-pos-PUNCT.html) – [SCONJ](ga_idt-pos-SCONJ.html) – [SYM](ga_idt-pos-SYM.html) – [VERB](ga_idt-pos-VERB.html) – [X](ga_idt-pos-X.html)
 
 ## Features
 
-[Abbr](ga-feat-Abbr.html) – [Case](ga-feat-Case.html) – [Definite](ga-feat-Definite.html) – [Degree](ga-feat-Degree.html) – [Dialect](ga-feat-Dialect.html) – [Foreign](ga-feat-Foreign.html) – [Form](ga-feat-Form.html) – [Gender](ga-feat-Gender.html) – [Mood](ga-feat-Mood.html) – [NounType](ga-feat-NounType.html) – [Number](ga-feat-Number.html) – [NumType](ga-feat-NumType.html) – [PartType](ga-feat-PartType.html) – [Person](ga-feat-Person.html) – [Polarity](ga-feat-Polarity.html) – [Poss](ga-feat-Poss.html) – [PrepForm](ga-feat-PrepForm.html) – [PronType](ga-feat-PronType.html) – [Reflex](ga-feat-Reflex.html) – [Tense](ga-feat-Tense.html) – [VerbForm](ga-feat-VerbForm.html) – [Voice](ga-feat-Voice.html)
+[Abbr](ga_idt-feat-Abbr.html) – [Case](ga_idt-feat-Case.html) – [Definite](ga_idt-feat-Definite.html) – [Degree](ga_idt-feat-Degree.html) – [Dialect](ga_idt-feat-Dialect.html) – [Foreign](ga_idt-feat-Foreign.html) – [Form](ga_idt-feat-Form.html) – [Gender](ga_idt-feat-Gender.html) – [Mood](ga_idt-feat-Mood.html) – [NounType](ga_idt-feat-NounType.html) – [Number](ga_idt-feat-Number.html) – [NumType](ga_idt-feat-NumType.html) – [PartType](ga_idt-feat-PartType.html) – [Person](ga_idt-feat-Person.html) – [Polarity](ga_idt-feat-Polarity.html) – [Poss](ga_idt-feat-Poss.html) – [PrepForm](ga_idt-feat-PrepForm.html) – [PronType](ga_idt-feat-PronType.html) – [Reflex](ga_idt-feat-Reflex.html) – [Tense](ga_idt-feat-Tense.html) – [VerbForm](ga_idt-feat-VerbForm.html) – [Voice](ga_idt-feat-Voice.html)
 
 ## Relations
 
-[acl:relcl](ga-dep-acl-relcl.html) – [advcl](ga-dep-advcl.html) – [advmod](ga-dep-advmod.html) – [amod](ga-dep-amod.html) – [appos](ga-dep-appos.html) – [case](ga-dep-case.html) – [case:voc](ga-dep-case-voc.html) – [cc](ga-dep-cc.html) – [ccomp](ga-dep-ccomp.html) – [compound](ga-dep-compound.html) – [compound:prt](ga-dep-compound-prt.html) – [conj](ga-dep-conj.html) – [cop](ga-dep-cop.html) – [csubj:cleft](ga-dep-csubj-cleft.html) – [csubj:cop](ga-dep-csubj-cop.html) – [det](ga-dep-det.html) – [discourse](ga-dep-discourse.html) – [fixed](ga-dep-fixed.html) – [flat](ga-dep-flat.html) – [flat:name](ga-dep-flat-name.html) – [list](ga-dep-list.html) – [mark](ga-dep-mark.html) – [mark:prt](ga-dep-mark-prt.html) – [nmod](ga-dep-nmod.html) – [nmod:poss](ga-dep-nmod-poss.html) – [nsubj](ga-dep-nsubj.html) – [nummod](ga-dep-nummod.html) – [obj](ga-dep-obj.html) – [obl](ga-dep-obl.html) – [obl:prep](ga-dep-obl-prep.html) – [obl:tmod](ga-dep-obl-tmod.html) – [parataxis](ga-dep-parataxis.html) – [punct](ga-dep-punct.html) – [root](ga-dep-root.html) – [vocative](ga-dep-vocative.html) – [xcomp](ga-dep-xcomp.html) – [xcomp:pred](ga-dep-xcomp-pred.html)
+[acl:relcl](ga_idt-dep-acl-relcl.html) – [advcl](ga_idt-dep-advcl.html) – [advmod](ga_idt-dep-advmod.html) – [amod](ga_idt-dep-amod.html) – [appos](ga_idt-dep-appos.html) – [case](ga_idt-dep-case.html) – [case:voc](ga_idt-dep-case-voc.html) – [cc](ga_idt-dep-cc.html) – [ccomp](ga_idt-dep-ccomp.html) – [compound](ga_idt-dep-compound.html) – [compound:prt](ga_idt-dep-compound-prt.html) – [conj](ga_idt-dep-conj.html) – [cop](ga_idt-dep-cop.html) – [csubj:cleft](ga_idt-dep-csubj-cleft.html) – [csubj:cop](ga_idt-dep-csubj-cop.html) – [det](ga_idt-dep-det.html) – [discourse](ga_idt-dep-discourse.html) – [fixed](ga_idt-dep-fixed.html) – [flat](ga_idt-dep-flat.html) – [flat:name](ga_idt-dep-flat-name.html) – [list](ga_idt-dep-list.html) – [mark](ga_idt-dep-mark.html) – [mark:prt](ga_idt-dep-mark-prt.html) – [nmod](ga_idt-dep-nmod.html) – [nmod:poss](ga_idt-dep-nmod-poss.html) – [nsubj](ga_idt-dep-nsubj.html) – [nummod](ga_idt-dep-nummod.html) – [obj](ga_idt-dep-obj.html) – [obl](ga_idt-dep-obl.html) – [obl:prep](ga_idt-dep-obl-prep.html) – [obl:tmod](ga_idt-dep-obl-tmod.html) – [parataxis](ga_idt-dep-parataxis.html) – [punct](ga_idt-dep-punct.html) – [root](ga_idt-dep-root.html) – [vocative](ga_idt-dep-vocative.html) – [xcomp](ga_idt-dep-xcomp.html) – [xcomp:pred](ga_idt-dep-xcomp-pred.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 1020 sentences and 23964 tokens.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 2516 tokens (10%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 204 types of words that contain both letters and punctuation. Examples: d', b', fho-alt, (a), (b), a', m', (c), Co., 'n, Uimh., s', t-am, &quot;, O', a'm, n', n-a, n-oibreacha, n-áirítear, nua-aimseartha, t-airgead, t-ábhar, (d), (i), (ii), Anne-Marie, Ard-Chomhairle, Ard-Mhúsaem, I.R., J., P., bhfo-alt, h-Íde, mb', meán-suidhte, n-athair, n-éireoidh, nea-mbrí, t-eolas, t-ionad, 's, (W), (e), (f), (iii), (iv), (vi), -e, .i.</li>
+</ul>
+
+<ul>
 </ul>
 
 <h2>Morphology</h2>
@@ -102,6 +116,9 @@ and is co-funded under the European Regional Development Fund.
 
 <ul>
 <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
+</ul>
+
+<ul>
 <li>This corpus contains 34 word types tagged as particles (PART): Mac, Mc, Mhic, Nic, O', Uí, a, a', ab, an, ar, ba, d', de, do, faoina, go, gur, ina, inar, is, le, lena, lenar, n', n-a, nach, ná, nár, ní, níor, o, trasna, Ó</li>
 </ul>
 
@@ -126,7 +143,9 @@ and is co-funded under the European Regional Development Fund.
 </ul>
 
 <ul>
-<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Cop
   <ul>
@@ -135,28 +154,37 @@ and is co-funded under the European Regional Development Fund.
     <li>X: Caidé</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Inf
   <ul>
     <li>NOUN: fáil, bheith, chur, dhéanamh, rá, dul, thabhairt, cur, tabhairt, bhaint</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>ADJ: déanta, bunaithe, imithe, leagtha, ráite, scríofa, tugtha, Aontaithe, bailithe, briste</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Vnoun
   <ul>
     <li>NOUN: dul, faire, obair, teacht, éirí, déanamh, iarraidh, brath, cur, breathnú</li>
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
+
 <li><a>Gender</a>
+
   <ul>
     <li>Fem
       <ul>
@@ -169,6 +197,9 @@ and is co-funded under the European Regional Development Fund.
         <li>X: open</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>ADJ: mór, éigin, beag, chéanna, fada, óg, ard, bán, deireanach, eachtraigh</li>
@@ -183,10 +214,15 @@ and is co-funded under the European Regional Development Fund.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Number</a>
+
   <ul>
     <li>Plur
       <ul>
@@ -199,6 +235,9 @@ and is co-funded under the European Regional Development Fund.
         <li>VERB: Táimid, bhíodar, Amharcaigí, Bhíomar, Casaimid, Chaitheamar, Chuamar, Chuiridís, Creidimidne, Fuaireamar</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: éigin, mór, chéanna, mhaith, mhór, óg, fada, beag, iomlán, ard</li>
@@ -213,9 +252,13 @@ and is co-funded under the European Regional Development Fund.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Dat
       <ul>
@@ -223,6 +266,9 @@ and is co-funded under the European Regional Development Fund.
         <li>PROPN: Éirinn, hÉirinn</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Gen
       <ul>
         <li>ADJ: beaga, eachtraigh, mhóir, speisialta, éagsúla, Caitlicí, Ultacha, bána, cháilithigh, deonacha</li>
@@ -232,6 +278,9 @@ and is co-funded under the European Regional Development Fund.
         <li>PROPN: Gaeilge, Átha, Bhaile, hÉireann, mBaile, Fraince, Chill, Mumhan, hEorpa, Chaoin</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>NomAcc
       <ul>
         <li>ADJ: éigin, mór, chéanna, mhaith, mhór, óg, beaga, fada, beag, iomlán</li>
@@ -241,6 +290,9 @@ and is co-funded under the European Regional Development Fund.
         <li>X: Kill, open</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Voc
       <ul>
         <li>NOUN: Chapaillín, Dhochtúir, Oideachais, bhithiúnaigh, chúil, dhaoine, fheara, ghrá, naofacht, pheaitín</li>
@@ -248,10 +300,15 @@ and is co-funded under the European Regional Development Fund.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Definite</a>
+
   <ul>
     <li>Def
       <ul>
@@ -262,23 +319,34 @@ and is co-funded under the European Regional Development Fund.
         <li>X: achan</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>NOUN: láimh, Criosanna, dlíthe, gnóthaí, oibre, uibheacha</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Degree and Polarity</h3>
 
+
 <li><a>Degree</a>
+
   <ul>
     <li>Cmp,Sup
       <ul>
         <li>ADJ: mó, fearr, fhearr, mhó, déanaí, báine, caoile, ceolmhaire, ciallmhaire, daoire</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>ADJ: amháin, maith, léir, mór, áirithe, fada, mó, beag, céanna, náisiúnta</li>
@@ -286,9 +354,13 @@ and is co-funded under the European Regional Development Fund.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Polarity</a>
+
   <ul>
     <li>Neg
       <ul>
@@ -299,13 +371,20 @@ and is co-funded under the European Regional Development Fund.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Verbal Features</h3>
 
 
+
+
 <li><a>Mood</a>
+
   <ul>
     <li>Cnd
       <ul>
@@ -313,6 +392,9 @@ and is co-funded under the European Regional Development Fund.
         <li>VERB: bheadh, mbeadh, dtiocfadh, dhéanfadh, rachadh, bhféadfadh, bhféadfaí, chuirfeadh, dtuigfí, fhéadfadh</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Imp
       <ul>
         <li>PART: ná</li>
@@ -320,18 +402,27 @@ and is co-funded under the European Regional Development Fund.
         <li>X: dein</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>VERB: bhí, tá, raibh, atá, bhfuil, bheidh, beidh, thug, tháinig, mbeidh</li>
         <li>X: dhein, Bhraitheas, chuireas, deineadh</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Int
       <ul>
         <li>AUX-Cop: nach, an, Cén, cad, nár</li>
         <li>PART: nach</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sub
       <ul>
         <li>PART: go</li>
@@ -339,15 +430,22 @@ and is co-funded under the European Regional Development Fund.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Tense</a>
+
   <ul>
     <li>Fut
       <ul>
         <li>VERB: bheidh, beidh, mbeidh, caithfidh, déanfaidh, cuirfidh, déanfar, féadfaidh, féadfidh, measfaidh</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Past
       <ul>
         <li>AUX-Cop: ba, b', gur, níor, gurbh, mba, nár, ab, níorbh, ar</li>
@@ -358,6 +456,9 @@ and is co-funded under the European Regional Development Fund.
         <li>X: dhein, chuireas, deineadh</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pres
       <ul>
         <li>AUX-Cop: is, gur, ní, nach, gurb, an, ar, sea</li>
@@ -366,9 +467,13 @@ and is co-funded under the European Regional Development Fund.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Voice</a>
+
   <ul>
     <li>Auto
       <ul>
@@ -377,12 +482,18 @@ and is co-funded under the European Regional Development Fund.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Art
       <ul>
@@ -391,6 +502,9 @@ and is co-funded under the European Regional Development Fund.
         <li>DET: an, na, a, a', 'n</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dem
       <ul>
         <li>AUX-Cop: Seo, Sin</li>
@@ -399,18 +513,27 @@ and is co-funded under the European Regional Development Fund.
         <li>X: san, so</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Emp
       <ul>
         <li>ADP: againne, agamsa, agatsa, domsa, leatsa, liomsa, airsean, dósan, leosan, tríothusan</li>
         <li>PRON: mise, seisean, eisean, ise, siadsan, sinne, iadsan, tusa</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>DET: aon, cibé, uile, haon, n-uile</li>
         <li>PRON: pé, Cibé, ceachtar, cheachtar</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Int
       <ul>
         <li>ADV: conas, cá</li>
@@ -418,11 +541,17 @@ and is co-funded under the European Regional Development Fund.
         <li>PRON: cad, cé, cén, céard</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
         <li>ADP: á, dhá</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rel
       <ul>
         <li>AUX-Cop: ba, nach, is, ab, nár, nárbh</li>
@@ -432,9 +561,13 @@ and is co-funded under the European Regional Development Fund.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>NumType</a>
+
   <ul>
     <li>Card
       <ul>
@@ -442,15 +575,22 @@ and is co-funded under the European Regional Development Fund.
         <li>NUM: dhá, trí, céad, seacht, aon, ceithre, fiche, sé, dá, cúig</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ord
       <ul>
         <li>NUM: chéad, dara, 10ú, gcéad, 11ú, 17ú, 18ú, 3ú, cheathrú, dtríú</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Poss</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -459,9 +599,13 @@ and is co-funded under the European Regional Development Fund.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Reflex</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -470,9 +614,13 @@ and is co-funded under the European Regional Development Fund.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Person</a>
+
   <ul>
     <li>1
       <ul>
@@ -483,6 +631,9 @@ and is co-funded under the European Regional Development Fund.
         <li>X: Bhraitheas, chuireas, domhsa</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>ADP: leat, agat, duit, ort, agatsa, leatsa, uait, agaibh, asat, oraibh</li>
@@ -492,6 +643,9 @@ and is co-funded under the European Regional Development Fund.
         <li>X: dein</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>ADP: ann, ina, air, leis, acu, á, dá, aige, orthu, dó</li>
@@ -503,12 +657,19 @@ and is co-funded under the European Regional Development Fund.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
 
 
+
+
+
 <h3>Other Features</h3>
+
 
 <li><a>Abbr</a>
   <ul>
@@ -521,6 +682,7 @@ and is co-funded under the European Regional Development Fund.
     </li>
   </ul>
 </li>
+
 <li><a>Dialect</a>
   <ul>
     <li>Connaught
@@ -542,6 +704,7 @@ and is co-funded under the European Regional Development Fund.
     </li>
   </ul>
 </li>
+
 <li><a>Foreign</a>
   <ul>
     <li>Yes
@@ -557,6 +720,7 @@ and is co-funded under the European Regional Development Fund.
     </li>
   </ul>
 </li>
+
 <li><a>Form</a>
   <ul>
     <li>Ecl
@@ -612,6 +776,7 @@ and is co-funded under the European Regional Development Fund.
     </li>
   </ul>
 </li>
+
 <li><a>NounType</a>
   <ul>
     <li>NotSlender
@@ -640,6 +805,7 @@ and is co-funded under the European Regional Development Fund.
     </li>
   </ul>
 </li>
+
 <li><a>PartType</a>
   <ul>
     <li>Ad
@@ -699,6 +865,7 @@ and is co-funded under the European Regional Development Fund.
     </li>
   </ul>
 </li>
+
 <li><a>PrepForm</a>
   <ul>
     <li>Cmpd
@@ -715,6 +882,9 @@ and is co-funded under the European Regional Development Fund.
 
 <ul>
 <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: is, má.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain auxiliaries.</li>
 </ul>
 

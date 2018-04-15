@@ -17,20 +17,17 @@ The following 38 pairs of parts of speech are connected with `fixed`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 8 fixed	color:blue
-1	E	e	CCONJ	Cc	_	2	mark	_	_
-2	segue	seguir	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-4	seu	seu	DET	Md3sms	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
-5	baduar	baduar	VERB	V0f000	VerbForm=Inf	2	obj	_	_
-6	a	a	ADP	P	AdpType=Prep	2	advmod	_	_
-7	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	fixed	_	_
-8	chou	chou	NOUN	Scms	Gender=Masc|Number=Sing	6	fixed	_	SpaceAfter=No
-9	:	:	PUNCT	Q:	_	2	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 fixed	color:blue
+1	diálogo	diálogo	NOUN	Scms	Gender=Masc|Number=Sing	0	root	_	_
+2	a	a	ADP	P	AdpType=Prep	6	case	_	_
+3	través	través	NOUN	Scms	Gender=Masc|Number=Sing	2	fixed	_	_
+4	de	de	ADP	P	AdpType=Prep	2	fixed	_	_
+5	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	medios	medio	NOUN	Scmp	Gender=Masc|Number=Plur	1	nmod	_	_
 
 ~~~
 

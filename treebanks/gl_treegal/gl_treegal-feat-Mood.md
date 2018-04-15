@@ -76,8 +76,8 @@ The most frequent other feature values with which `AUX` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="gl_treegal-dep-conj.html">conj</a></tt>]--> VERB</tt> (111; 74%),
-<tt>VERB --[<tt><a href="gl_treegal-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (16; 57%),
+<tt>VERB --[<tt><a href="gl_treegal-dep-conj.html">conj</a></tt>]--> VERB</tt> (111; 75%),
+<tt>VERB --[<tt><a href="gl_treegal-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (16; 55%),
 <tt>VERB --[<tt><a href="gl_treegal-dep-mark.html">mark</a></tt>]--> VERB</tt> (2; 100%),
 <tt>AUX --[<tt><a href="gl_treegal-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%).
 

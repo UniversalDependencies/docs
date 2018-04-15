@@ -18,23 +18,18 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 flat:name	color:blue
-1	A	a	ADP	P	AdpType=Prep	3	case	_	_
-2	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-3	dereita	dereita	NOUN	Scfs	Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
-4	,	,	PUNCT	Q,	_	5	punct	_	_
-5	Lech	lech	PROPN	Spm0	Gender=Masc	0	root	_	_
-6	Walesa	walesa	PROPN	Spm0	Gender=Masc	5	flat:name	_	_
-7	en	en	ADP	P	AdpType=Prep	9	case	_	_
-8	unha	un	DET	Difs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-9	fotografía	fotografía	NOUN	Scfs	Gender=Fem|Number=Sing	5	nmod	_	_
-10	de	de	ADP	P	AdpType=Prep	11	case	_	_
-11	1999	1999	NUM	Ncnms	Gender=Masc|Number=Sing|NumType=Card	9	nmod	_	SpaceAfter=No
-12	.	.	PUNCT	Q.	_	5	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 flat:name	color:blue
+1	Intervención	intervención	NOUN	Scfs	Gender=Fem|Number=Sing	0	root	_	_
+2	de	de	ADP	P	AdpType=Prep	3	case	_	_
+3	Xosé	xosé	PROPN	Spm0	Gender=Masc	1	nmod	_	_
+4	Luís	luís	PROPN	Spm0	Gender=Masc	3	flat:name	_	_
+5	Barreiro	barreiro	PROPN	Spm0	Gender=Masc	3	flat:name	_	_
+6	Rivas	rivas	PROPN	Spm0	Gender=Masc	3	flat:name	_	SpaceAfter=No
+7	.	.	PUNCT	Q.	_	1	punct	_	_
 
 ~~~
 

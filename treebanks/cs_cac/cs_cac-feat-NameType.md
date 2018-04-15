@@ -136,8 +136,8 @@ The 10 most frequent relations where parent and child node agree in `NameType`:
 <tt>PROPN --[<tt><a href="cs_cac-dep-dep.html">dep</a></tt>]--> PROPN</tt> (8; 57%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> PROPN</tt> (7; 54%),
 <tt>PROPN --[<tt><a href="cs_cac-dep-xcomp.html">xcomp</a></tt>]--> PROPN</tt> (7; 100%),
-<tt>PROPN --[<tt><a href="cs_cac-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADJ</tt> (6; 86%),
-<tt>ADJ --[<tt><a href="cs_cac-dep-amod.html">amod</a></tt>]--> ADJ</tt> (4; 57%),
+<tt>ADJ --[<tt><a href="cs_cac-dep-flat-foreign.html">flat:foreign</a></tt>]--> PROPN</tt> (4; 57%),
 <tt>PROPN --[<tt><a href="cs_cac-dep-obj.html">obj</a></tt>]--> PROPN</tt> (4; 80%),
-<tt>PROPN --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> PROPN</tt> (3; 60%).
+<tt>PROPN --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> PROPN</tt> (3; 60%),
+<tt>PROPN --[<tt><a href="cs_cac-dep-obl.html">obl</a></tt>]--> PROPN</tt> (3; 75%).
 

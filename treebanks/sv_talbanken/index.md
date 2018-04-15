@@ -9,7 +9,7 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Swedish-Talbanken
+# UD Swedish Talbanken
 
 Language: [Swedish](../sv/overview/sv-hub.html) (code: `sv`)<br/>
 Family: Indo-European, Germanic
@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 
 The following people have contributed to making this treebank part of UD: Joakim Nivre, Aaron Smith.
 
-Repository: [UD_Swedish-Talbanken](https://github.com/UniversalDependencies/UD_Swedish-Talbanken)
+Repository: [UD_Swedish-Talbanken](https://github.com/UniversalDependencies/UD_Swedish-Talbanken)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsv_talbanken)
 
 License: CC BY-SA 4.0
 
@@ -42,12 +43,12 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-The UD Swedish-Talbanken treebank is based on Talbanken, a treebank developed at Lund University
+The Swedish-Talbanken treebank is based on Talbanken, a treebank developed at Lund University
 in the 1970s.
 
 
 
-The UD Swedish-Talbanken treebank is a conversion of the Prose section of Talbanken (Einarsson,
+The Swedish-Talbanken treebank is a conversion of the Prose section of Talbanken (Einarsson,
 1976), originally annotated by a team led by Ulf Teleman at Lund University according
 to the MAMBA annotation scheme (Teleman, 1974). It consists of roughly 6,000 sentences
 and 95,000 tokens taken from a variety of informative text genres, including textbooks,
@@ -88,27 +89,40 @@ svenska. Studentlitteratur.
 Department of Linguistics.
 
 
-# Statistics of UD Swedish-Talbanken
+# Statistics of UD Swedish Talbanken
 
 ## POS Tags
 
-[ADJ](sv-pos-ADJ.html) – [ADP](sv-pos-ADP.html) – [ADV](sv-pos-ADV.html) – [AUX](sv-pos-AUX.html) – [CCONJ](sv-pos-CCONJ.html) – [DET](sv-pos-DET.html) – [INTJ](sv-pos-INTJ.html) – [NOUN](sv-pos-NOUN.html) – [NUM](sv-pos-NUM.html) – [PART](sv-pos-PART.html) – [PRON](sv-pos-PRON.html) – [PROPN](sv-pos-PROPN.html) – [PUNCT](sv-pos-PUNCT.html) – [SCONJ](sv-pos-SCONJ.html) – [SYM](sv-pos-SYM.html) – [VERB](sv-pos-VERB.html)
+[ADJ](sv_talbanken-pos-ADJ.html) – [ADP](sv_talbanken-pos-ADP.html) – [ADV](sv_talbanken-pos-ADV.html) – [AUX](sv_talbanken-pos-AUX.html) – [CCONJ](sv_talbanken-pos-CCONJ.html) – [DET](sv_talbanken-pos-DET.html) – [INTJ](sv_talbanken-pos-INTJ.html) – [NOUN](sv_talbanken-pos-NOUN.html) – [NUM](sv_talbanken-pos-NUM.html) – [PART](sv_talbanken-pos-PART.html) – [PRON](sv_talbanken-pos-PRON.html) – [PROPN](sv_talbanken-pos-PROPN.html) – [PUNCT](sv_talbanken-pos-PUNCT.html) – [SCONJ](sv_talbanken-pos-SCONJ.html) – [SYM](sv_talbanken-pos-SYM.html) – [VERB](sv_talbanken-pos-VERB.html)
 
 ## Features
 
-[Abbr](sv-feat-Abbr.html) – [Case](sv-feat-Case.html) – [Definite](sv-feat-Definite.html) – [Degree](sv-feat-Degree.html) – [Foreign](sv-feat-Foreign.html) – [Gender](sv-feat-Gender.html) – [Mood](sv-feat-Mood.html) – [Number](sv-feat-Number.html) – [NumType](sv-feat-NumType.html) – [Polarity](sv-feat-Polarity.html) – [Poss](sv-feat-Poss.html) – [PronType](sv-feat-PronType.html) – [Tense](sv-feat-Tense.html) – [VerbForm](sv-feat-VerbForm.html) – [Voice](sv-feat-Voice.html)
+[Abbr](sv_talbanken-feat-Abbr.html) – [Case](sv_talbanken-feat-Case.html) – [Definite](sv_talbanken-feat-Definite.html) – [Degree](sv_talbanken-feat-Degree.html) – [Foreign](sv_talbanken-feat-Foreign.html) – [Gender](sv_talbanken-feat-Gender.html) – [Mood](sv_talbanken-feat-Mood.html) – [Number](sv_talbanken-feat-Number.html) – [NumType](sv_talbanken-feat-NumType.html) – [Polarity](sv_talbanken-feat-Polarity.html) – [Poss](sv_talbanken-feat-Poss.html) – [PronType](sv_talbanken-feat-PronType.html) – [Tense](sv_talbanken-feat-Tense.html) – [VerbForm](sv_talbanken-feat-VerbForm.html) – [Voice](sv_talbanken-feat-Voice.html)
 
 ## Relations
 
-[acl](sv-dep-acl.html) – [acl:relcl](sv-dep-acl-relcl.html) – [advcl](sv-dep-advcl.html) – [advmod](sv-dep-advmod.html) – [amod](sv-dep-amod.html) – [appos](sv-dep-appos.html) – [aux](sv-dep-aux.html) – [aux:pass](sv-dep-aux-pass.html) – [case](sv-dep-case.html) – [cc](sv-dep-cc.html) – [ccomp](sv-dep-ccomp.html) – [compound](sv-dep-compound.html) – [compound:prt](sv-dep-compound-prt.html) – [conj](sv-dep-conj.html) – [cop](sv-dep-cop.html) – [csubj](sv-dep-csubj.html) – [csubj:pass](sv-dep-csubj-pass.html) – [det](sv-dep-det.html) – [discourse](sv-dep-discourse.html) – [dislocated](sv-dep-dislocated.html) – [expl](sv-dep-expl.html) – [fixed](sv-dep-fixed.html) – [flat:name](sv-dep-flat-name.html) – [iobj](sv-dep-iobj.html) – [list](sv-dep-list.html) – [mark](sv-dep-mark.html) – [nmod](sv-dep-nmod.html) – [nmod:poss](sv-dep-nmod-poss.html) – [nsubj](sv-dep-nsubj.html) – [nsubj:pass](sv-dep-nsubj-pass.html) – [nummod](sv-dep-nummod.html) – [obj](sv-dep-obj.html) – [obl](sv-dep-obl.html) – [obl:agent](sv-dep-obl-agent.html) – [orphan](sv-dep-orphan.html) – [parataxis](sv-dep-parataxis.html) – [punct](sv-dep-punct.html) – [root](sv-dep-root.html) – [vocative](sv-dep-vocative.html) – [xcomp](sv-dep-xcomp.html)
+[acl](sv_talbanken-dep-acl.html) – [acl:cleft](sv_talbanken-dep-acl-cleft.html) – [acl:relcl](sv_talbanken-dep-acl-relcl.html) – [advcl](sv_talbanken-dep-advcl.html) – [advmod](sv_talbanken-dep-advmod.html) – [amod](sv_talbanken-dep-amod.html) – [appos](sv_talbanken-dep-appos.html) – [aux](sv_talbanken-dep-aux.html) – [aux:pass](sv_talbanken-dep-aux-pass.html) – [case](sv_talbanken-dep-case.html) – [cc](sv_talbanken-dep-cc.html) – [ccomp](sv_talbanken-dep-ccomp.html) – [compound](sv_talbanken-dep-compound.html) – [compound:prt](sv_talbanken-dep-compound-prt.html) – [conj](sv_talbanken-dep-conj.html) – [cop](sv_talbanken-dep-cop.html) – [csubj](sv_talbanken-dep-csubj.html) – [csubj:pass](sv_talbanken-dep-csubj-pass.html) – [det](sv_talbanken-dep-det.html) – [discourse](sv_talbanken-dep-discourse.html) – [dislocated](sv_talbanken-dep-dislocated.html) – [expl](sv_talbanken-dep-expl.html) – [fixed](sv_talbanken-dep-fixed.html) – [flat:name](sv_talbanken-dep-flat-name.html) – [iobj](sv_talbanken-dep-iobj.html) – [list](sv_talbanken-dep-list.html) – [mark](sv_talbanken-dep-mark.html) – [nmod](sv_talbanken-dep-nmod.html) – [nmod:poss](sv_talbanken-dep-nmod-poss.html) – [nsubj](sv_talbanken-dep-nsubj.html) – [nsubj:pass](sv_talbanken-dep-nsubj-pass.html) – [nummod](sv_talbanken-dep-nummod.html) – [obj](sv_talbanken-dep-obj.html) – [obl](sv_talbanken-dep-obl.html) – [obl:agent](sv_talbanken-dep-obl-agent.html) – [orphan](sv_talbanken-dep-orphan.html) – [parataxis](sv_talbanken-dep-parataxis.html) – [punct](sv_talbanken-dep-punct.html) – [root](sv_talbanken-dep-root.html) – [vocative](sv_talbanken-dep-vocative.html) – [xcomp](sv_talbanken-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 6026 sentences and 96819 tokens.</li>
-<li>This corpus contains 9735 tokens (10%) that are not followed by a space.</li>
+</ul>
+
+<ul>
+<li>This corpus contains 9733 tokens (10%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 12 types of words with spaces. Examples: t ex, s k, bl a, t o m, o s v, d v s, fr o m, m m, f n, e d, m fl, t v</li>
+</ul>
+
+<ul>
 <li>This corpus contains 365 types of words that contain both letters and punctuation. Examples: t.ex., bl.a., u-länderna, s., EEC:s, kap., s.k., u-länder, 60-talet, kl., EEC-länderna, dvs., 1800-talet, yrkes-, 1960-talet, 70-talet, FN:s, RFSU-laboratoriet, a., doc., m.fl., resp., sid., t.o.m., u-ländernas, 1800-talets, 1900-talet, KF:s, barn-, ett-, i-länderna, m.m., manisk-depressiva, u-land, 15-årsperioden, 1960-talets, B-inkomster, I., Ollo-Food, Per-Ola, RFSU-laboratoriets, a), b), fack-, far-, fig., hem-, i-länder, kibbutz-, kommun-</li>
+</ul>
+
+<ul>
 </ul>
 
 <h2>Morphology</h2>
@@ -118,19 +132,22 @@ Department of Linguistics.
 <ul>
 <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a></li>
 <li>This corpus does not use the following tags: X</li>
-<li>This corpus contains 1 word types tagged as particles (PART): att</li>
 </ul>
 
 <ul>
-<li>This corpus contains 52 lemmas tagged as pronouns (PRON): all, allt, alltihop, allting, annan, bägge, båda, bådadera, de, den, denna, densamma, det, dom, du, en, envar, fler, flera, få, han, hon, ingen, ingendera, ingenting, jag, man, mycken, mycket, många, mången, ni, någon, någonting, nånting, samtlig, sig, som, somlig, sån, två, vad, var, vara, varandra, varann, varannan, vardera, vem, vi, vilken, vissa</li>
+<li>This corpus contains 4 word types tagged as particles (PART): att, ej, icke, inte</li>
 </ul>
 
 <ul>
-<li>This corpus contains 35 lemmas tagged as determiners (DET): all, allt, annan, bägge, de, den, denna, det, du, en, han, hon, ingen, jag, man, mitt, ni, någon, samma, sig, the, var, vara, varandra, varannan, vardera, varenda, varje, vars, vem, vi, vilka, vilken, vilket, vår</li>
+<li>This corpus contains 56 lemmas tagged as pronouns (PRON): all, allt, alltihop, allting, annan, bägge, båda, bådadera, de, den, denna, densamma, det, dom, du, en, envar, fler, flera, få, han, hon, ingen, ingendera, ingenting, jag, man, mitt, mycken, mycket, många, mången, ni, någon, någonting, nånting, samtlig, sig, som, somlig, sån, två, vad, var, vara, varandra, varann, varannan, vardera, vars, vem, vi, vilka, vilken, vissa, vår</li>
 </ul>
 
 <ul>
-<li>Out of the above, 26 lemmas occurred sometimes as PRON and sometimes as DET: all, allt, annan, bägge, de, den, denna, det, du, en, han, hon, ingen, jag, man, ni, någon, sig, var, vara, varandra, varannan, vardera, vem, vi, vilken</li>
+<li>This corpus contains 21 lemmas tagged as determiners (DET): all, allt, bägge, de, den, denna, det, en, ingen, man, någon, samma, the, var, vara, varannan, vardera, varenda, varje, vilken, vilket</li>
+</ul>
+
+<ul>
+<li>Out of the above, 16 lemmas occurred sometimes as PRON and sometimes as DET: all, allt, bägge, de, den, denna, det, en, ingen, man, någon, var, vara, varannan, vardera, vilken</li>
 </ul>
 
 <ul>
@@ -142,7 +159,9 @@ Department of Linguistics.
 </ul>
 
 <ul>
-<li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Fin
   <ul>
@@ -150,23 +169,35 @@ Department of Linguistics.
     <li>VERB: har, finns, är, blir, får, gäller, ger, går, kommer, gör</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Inf
   <ul>
     <li>AUX: vara, kunna, få, ha, bli, behöva, vilja, komma, dra</li>
     <li>VERB: få, ha, bli, göra, ge, ta, komma, gå, se, vara</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>ADJ: följande, beroende, särskild, särskilda, ökad, motsvarande, liknande, ökade, gifta, nuvarande</li>
     <li>VERB: påverkade, vald, vänd, hörselskadad, tvungna, accepterad, anpassade, bedövade, diciplinerade, emanciperade</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Stem
   <ul>
     <li>VERB: läs-</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Sup
   <ul>
     <li>AUX: varit, kunnat, fått, kommit, blivit, velat</li>
@@ -174,29 +205,35 @@ Department of Linguistics.
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
+
 <li><a>Gender</a>
+
   <ul>
     <li>Com
       <ul>
         <li>ADJ: stor, annan, själv, sådan, viss, egen, ny, hög, kristen, social</li>
         <li>ADJ-Part: särskild, ökad, beredd, gift, bosatt, fortsatt, oförändrad, angiven, född, genomförd</li>
-        <li>DET: en, den, sin, denna, någon, vår, ingen, vilken, din, var</li>
+        <li>DET: en, den, denna, någon, ingen, vilken, var, all, varannan, nån</li>
         <li>NOUN: del, procent, människor, tid, familjen, kvinnor, man, dag, miljoner, fråga</li>
         <li>NUM: en</li>
-        <li>PRON: man, vi, den, du, han, jag, oss, hon, en, dig</li>
+        <li>PRON: man, vi, den, du, sin, han, jag, oss, hon, en</li>
         <li>VERB-Part: vald, vänd, hörselskadad, accepterad, förstärkt, förändrad, ifylld, komplicerad, likställd, lämnad</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Fem
       <ul>
         <li>NOUN: nuptiam</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>ADJ: enskilde, andre, sjuke, ene, enskildes, lille, skattskyldige, unge, amerikanske, andres</li>
@@ -205,48 +242,63 @@ Department of Linguistics.
         <li>PRON: denne</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neut
       <ul>
         <li>ADJ: annat, svårt, nytt, möjligt, sådant, viktigt, eget, socialt, stort, övrigt</li>
         <li>ADJ-Part: sett, taget, särskilt, sagt, ökat, förbjudet, fött, inkomstprövat, räknat, valt</li>
-        <li>DET: ett, det, detta, sitt, något, vårt, allt, ditt, inget, vilket</li>
+        <li>DET: ett, det, detta, något, allt, inget, vilket, vart, vartannat</li>
         <li>NOUN: år, barn, äktenskapet, barnen, sätt, samhället, arbete, fall, äktenskap, barnet</li>
         <li>NUM: ett</li>
-        <li>PRON: det, detta, vad, något, allt, vilket, mycket, annat, detsamma, ett</li>
+        <li>PRON: det, detta, vad, sitt, något, vårt, allt, vilket, ditt, mycket</li>
         <li>VERB-Part: förbjudet, opåverkat, reglerat, sysselsatt, tillgodosett, upplagt</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Number</a>
+
   <ul>
     <li>Plur
       <ul>
         <li>ADJ: olika, andra, många, vissa, stora, flera, flesta, nya, små, sådana</li>
         <li>ADJ-Part: särskilda, gifta, handikappade, ökade, bestämda, skilda, kända, avsedda, höjda, isolerade</li>
-        <li>DET: de, alla, dessa, sina, några, våra, vilka, dina, inga, bägge</li>
+        <li>DET: de, alla, dessa, några, vilka, inga, bägge, dom</li>
         <li>NOUN: barn, år, barnen, procent, människor, kvinnor, miljoner, kronor, fall, länder</li>
-        <li>PRON: de, vi, dem, oss, andra, många, alla, varandra, dessa, vilka</li>
+        <li>PRON: de, vi, dem, sina, oss, våra, andra, många, alla, varandra</li>
         <li>VERB-Part: påverkade, tvungna, anpassade, bedövade, diciplinerade, emanciperade, fjärrundersökta, frusterade, färdigräknade, fördelade</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: stor, hela, annan, nya, själv, sådan, viss, egen, annat, ny</li>
         <li>ADJ-Part: särskild, ökad, sett, taget, beredd, särskilt, fortsatt, gift, ökade, bosatt</li>
-        <li>DET: en, den, ett, det, sin, denna, varje, någon, detta, sitt</li>
+        <li>DET: en, den, ett, det, denna, varje, någon, detta, ingen, något</li>
         <li>NOUN: del, äktenskapet, år, tid, samhället, familjen, arbete, barn, sätt, äktenskap</li>
         <li>NUM: en, ett</li>
-        <li>PRON: det, man, den, du, detta, vad, han, jag, hon, en</li>
+        <li>PRON: det, man, den, du, sin, detta, vad, han, jag, sitt</li>
         <li>VERB-Part: vald, vänd, hörselskadad, accepterad, förbjudet, förstärkt, förändrad, ifylld, komplicerad, likställd</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Acc
       <ul>
@@ -254,6 +306,9 @@ Department of Linguistics.
         <li>PRON: sig, dem, oss, dig, varandra, mig, henne, honom, sej, varann</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Gen
       <ul>
         <li>ADJ: anställdas, enskildes, försäkrades, äldres, andres, avlidnes, dubbelarbetandes, efterkommandes, enskilds, frånskildas</li>
@@ -262,6 +317,9 @@ Department of Linguistics.
         <li>PROPN: Sveriges, EEC:s, Guds, Stockholms, FN:s, Kristi, KF:s, Parsons, Europas, Jesu</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Nom
       <ul>
         <li>ADJ: olika, andra, första, nya, många, stora, stor, större, vissa, hela</li>
@@ -274,20 +332,28 @@ Department of Linguistics.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Definite</a>
+
   <ul>
     <li>Def
       <ul>
         <li>ADJ: hela, nya, flesta, svenska, andra, bästa, ekonomiska, största, kristna, närmaste</li>
         <li>ADJ-Part: ökade, gifta, dolda, nedärvda, nämnda, beräknade, förändrade, minskade, motsatta, orangefärgade</li>
-        <li>DET: den, de, det, sin, denna, dessa, sina, deras, detta, sitt</li>
+        <li>DET: den, de, det, denna, dessa, detta, bägge, vardera, dom</li>
         <li>NOUN: äktenskapet, barnen, samhället, familjen, kvinnan, barnet, mannen, kvinnorna, världen, föräldrarna</li>
-        <li>PRON: det, de, sig, vi, den, du, detta, dem, han, jag</li>
+        <li>PRON: det, de, sig, vi, den, du, sin, detta, dem, han</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>ADJ: stor, flera, annan, själv, sådan, viss, annat, ny, sådana, svårt</li>
@@ -300,11 +366,16 @@ Department of Linguistics.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Degree and Polarity</h3>
 
+
 <li><a>Degree</a>
+
   <ul>
     <li>Cmp
       <ul>
@@ -312,12 +383,18 @@ Department of Linguistics.
         <li>ADV: mer, tidigare, mindre, vidare, mera, längre, senare, ytterligare, bättre, närmare</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>ADJ: olika, andra, nya, många, stora, stor, vissa, hela, flera, annan</li>
         <li>ADV: mycket, helt, ofta, länge, långt, snabbt, relativt, direkt, starkt, säkert</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sup
       <ul>
         <li>ADJ: flesta, bästa, största, närmaste, högsta, viktigaste, senaste, vanligaste, störst, främsta</li>
@@ -325,25 +402,37 @@ Department of Linguistics.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Polarity</a>
+
   <ul>
     <li>Neg
       <ul>
-        <li>ADV: inte, aldrig, ej, icke, knappast, ingalunda, föga, nu, näppeligen, så</li>
+        <li>ADV: aldrig, knappast, ingalunda, föga, nu, näppeligen, så, knappt, långt, minst</li>
         <li>CCONJ: varken</li>
+        <li>PART: inte, ej, icke</li>
         <li>PRON: sig</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Verbal Features</h3>
 
 
+
+
 <li><a>Mood</a>
+
   <ul>
     <li>Imp
       <ul>
@@ -351,12 +440,18 @@ Department of Linguistics.
         <li>VERB-Fin: se, låt, ta, ge, jfr, kontrollera, Diskutera, kolla, Läs, byt</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>AUX-Fin: är, kan, har, måste, skall, skulle, ska, kommer, var, får</li>
         <li>VERB-Fin: har, finns, är, blir, får, gäller, ger, går, kommer, gör</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sub
       <ul>
         <li>AUX-Fin: vore</li>
@@ -364,9 +459,13 @@ Department of Linguistics.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Tense</a>
+
   <ul>
     <li>Past
       <ul>
@@ -376,6 +475,9 @@ Department of Linguistics.
         <li>VERB-Part: påverkade, vald, vänd, hörselskadad, tvungna, accepterad, anpassade, bedövade, diciplinerade, emanciperade</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pres
       <ul>
         <li>ADJ-Part: följande, beroende, motsvarande, liknande, nuvarande, omfattande, pensionsgrundande, avgörande, krävande, oberoende</li>
@@ -384,9 +486,13 @@ Department of Linguistics.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Voice</a>
+
   <ul>
     <li>Act
       <ul>
@@ -398,6 +504,9 @@ Department of Linguistics.
         <li>VERB-Sup: fått, blivit, haft, gjort, ökat, kommit, gått, visat, börjat, skett</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pass
       <ul>
         <li>VERB-Fin: behövs, kallas, beräknas, används, anses, användes, föds, ges, görs, tvingas</li>
@@ -406,12 +515,18 @@ Department of Linguistics.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Art
       <ul>
@@ -419,48 +534,70 @@ Department of Linguistics.
         <li>PRON: Det</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dem
       <ul>
-        <li>DET: denna, dessa, detta, dennes, dessas</li>
-        <li>PRON: detta, dessa, denna, denne</li>
+        <li>DET: denna, dessa, detta</li>
+        <li>PRON: detta, dessa, denna, denne, dennes, dessas</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
-        <li>DET: samma, någon, några, något, var, varannan, andras, ens, varje, alla</li>
+        <li>DET: samma, någon, några, något, var, varannan, varje, alla, inget, nån</li>
         <li>PRON: man, andra, många, något, någon, mycket, detsamma, fler, några, sådana</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Int
       <ul>
-        <li>DET: vilka, vilken, vilket, Vems</li>
-        <li>PRON: vad, vem, vilka, vilken, vilket</li>
+        <li>DET: vilka, vilken, vilket</li>
+        <li>PRON: vad, vem, vilka, vilken, vilket, Vems</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neg
       <ul>
         <li>DET: ingen, inget, inga, någon, samma</li>
         <li>PRON: ingen, ingenting, inget, inga, ingendera</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
-        <li>DET: sin, sina, deras, sitt, våra, vår, vårt, dess, din, ditt</li>
-        <li>PRON: det, de, sig, vi, den, du, dem, han, jag, oss</li>
+        <li>DET: det, de, den, varje, alla, detta, någon, all, dom, samma</li>
+        <li>PRON: det, de, sig, vi, den, du, sin, dem, han, sina</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rcp
       <ul>
-        <li>DET: varandras</li>
-        <li>PRON: varandra, varann</li>
+        <li>PRON: varandra, varann, varandras</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rel
       <ul>
-        <li>DET: vars, vilkas</li>
-        <li>PRON: som, vilket, vilka, vilken, något, man, Vad, de</li>
+        <li>PRON: som, vilket, vilka, vars, vilken, något, vilkas, man, Vad, de</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Tot
       <ul>
         <li>DET: alla, varje, allt, all, var, bägge, vardera, varenda, vart, vilka</li>
@@ -468,9 +605,13 @@ Department of Linguistics.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>NumType</a>
+
   <ul>
     <li>Card
       <ul>
@@ -478,15 +619,22 @@ Department of Linguistics.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Poss</a>
+
   <ul>
     <li>Yes
       <ul>
-        <li>DET: sin, sina, deras, sitt, våra, vår, vårt, dess, din, ditt</li>
+        <li>PRON: sin, sina, deras, sitt, våra, vår, vårt, dess, din, ditt</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
   </ul>
 </li>
 
@@ -495,7 +643,13 @@ Department of Linguistics.
 
 
 
+
+
+
+
+
 <h3>Other Features</h3>
+
 
 <li><a>Abbr</a>
   <ul>
@@ -510,6 +664,7 @@ Department of Linguistics.
     </li>
   </ul>
 </li>
+
 <li><a>Foreign</a>
   <ul>
     <li>Yes
@@ -530,6 +685,9 @@ Department of Linguistics.
 
 <ul>
 <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: vara.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 14 lemmas as auxiliaries (<a>aux</a>). Examples: kunna, ha, skola, måste, komma, få, vilja, böra, behöva, torde, må, lär, bruka, dra.</li>
 <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: bli.</li>
 </ul>
@@ -541,13 +699,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB-Fin--NOUN (13)</li>
-      <li>VERB-Fin--NOUN-Nom (2063)</li>
+      <li>VERB-Fin--NOUN-Nom (2075)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(till) (1)</li>
-      <li>VERB-Fin--PRON (1045)</li>
+      <li>VERB-Fin--PRON (1024)</li>
       <li>VERB-Fin--PRON-Nom (1021)</li>
       <li>VERB-Inf--NOUN (1)</li>
-      <li>VERB-Inf--NOUN-Nom (496)</li>
-      <li>VERB-Inf--PRON (200)</li>
+      <li>VERB-Inf--NOUN-Nom (498)</li>
+      <li>VERB-Inf--PRON (197)</li>
       <li>VERB-Inf--PRON-Nom (521)</li>
       <li>VERB-Sup--NOUN (3)</li>
       <li>VERB-Sup--NOUN-Nom (275)</li>
@@ -566,16 +724,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Nom (1762)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(för) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(mellan) (1)</li>
-      <li>VERB-Fin--PRON (158)</li>
+      <li>VERB-Fin--PRON (160)</li>
       <li>VERB-Fin--PRON-Acc (230)</li>
       <li>VERB-Inf--NOUN (10)</li>
       <li>VERB-Inf--NOUN-Nom (1290)</li>
       <li>VERB-Inf--NOUN-Nom-ADP(för) (1)</li>
-      <li>VERB-Inf--PRON (117)</li>
+      <li>VERB-Inf--PRON (118)</li>
       <li>VERB-Inf--PRON-Acc (149)</li>
       <li>VERB-Sup--NOUN (2)</li>
       <li>VERB-Sup--NOUN-Nom (256)</li>
-      <li>VERB-Sup--PRON (25)</li>
+      <li>VERB-Sup--PRON (26)</li>
       <li>VERB-Sup--PRON-Acc (33)</li>
     </ul>
   </li>
@@ -602,7 +760,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
+<li>This corpus uses 9 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
 <li>The following 4 relation types are not used in this corpus at all: <a>clf</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

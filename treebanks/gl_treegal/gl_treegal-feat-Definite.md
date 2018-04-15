@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Def`, `Ind`.
 
-3452 tokens (14%) have a non-empty value of `Definite`.
+3451 tokens (14%) have a non-empty value of `Definite`.
 18 types (0%) occur at least once with a non-empty value of `Definite`.
 2 lemmas (0%) occur at least once with a non-empty value of `Definite`.
-The feature is used with 2 part-of-speech tags: <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (3451; 14% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (3450; 14% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 ### `DET`
 
-3451 <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> tokens (84% of all `DET` tokens) have a non-empty value of `Definite`.
+3450 <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> tokens (84% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="gl_treegal-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3451; 100%), <tt><a href="gl_treegal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2737; 79%), <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1829; 53%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="gl_treegal-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3450; 100%), <tt><a href="gl_treegal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2736; 79%), <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (1829; 53%).
 
 `DET` tokens may have the following values of `Definite`:
 
-* `Def` (2989; 87% of non-empty `Definite`): <em>o, a, os, as, lo, la, los, las</em>
+* `Def` (2988; 87% of non-empty `Definite`): <em>o, a, os, as, lo, la, los, las</em>
 * `Ind` (462; 13% of non-empty `Definite`): <em>un, unha, uns, unhas</em>
-* `EMPTY` (669): <em>súa, seu, esta, este, seus, nosa, todo, súas, todos, ese</em>
+* `EMPTY` (670): <em>súa, seu, esta, este, seus, nosa, todo, súas, todos, ese</em>
 
 ### `PRON`
 

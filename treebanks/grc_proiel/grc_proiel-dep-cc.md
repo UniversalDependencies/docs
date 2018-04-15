@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-13838 nodes (7%) are attached to their parents as `cc`.
+13980 nodes (7%) are attached to their parents as `cc`.
 
-10594 instances of `cc` (77%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.85821650527533.
+10714 instances of `cc` (77%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.86580829756795.
 
-The following 13 pairs of parts of speech are connected with `cc`: <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> (7911; 57% instances), <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> (3207; 23% instances), <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> (1142; 8% instances), <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> (751; 5% instances), <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> (282; 2% instances), <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> (162; 1% instances), <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> (137; 1% instances), <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> (124; 1% instances), <tt><a href="grc_proiel-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> (80; 1% instances), <tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> (21; 0% instances), <tt><a href="grc_proiel-pos-DET.html">DET</a></tt>-<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> (9; 0% instances), <tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="grc_proiel-pos-INTJ.html">INTJ</a></tt>-<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances).
+The following 13 pairs of parts of speech are connected with `cc`: <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> (7964; 57% instances), <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> (3240; 23% instances), <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> (1167; 8% instances), <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> (765; 5% instances), <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> (288; 2% instances), <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> (162; 1% instances), <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> (137; 1% instances), <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> (125; 1% instances), <tt><a href="grc_proiel-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> (84; 1% instances), <tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> (25; 0% instances), <tt><a href="grc_proiel-pos-DET.html">DET</a></tt>-<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> (11; 0% instances), <tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances), <tt><a href="grc_proiel-pos-INTJ.html">INTJ</a></tt>-<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> (6; 0% instances).
 
 
 ~~~ conllu
@@ -40,7 +40,7 @@ The following 13 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 cc	color:blue
-1	ἐγχειρίδια	ἐγχειρίδιον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	5	obj:dir	_	ref=7.92.1
+1	ἐγχειρίδια	ἐγχειρίδιον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	5	obj	_	ref=7.92.1
 2	δὲ	δέ	ADV	Df	_	5	discourse	_	ref=7.92.1
 3	καὶ	καί	CCONJ	C-	_	1	cc	_	ref=7.92.1
 4	δρέπανα	δρέπανον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	1	conj	_	ref=7.92.1

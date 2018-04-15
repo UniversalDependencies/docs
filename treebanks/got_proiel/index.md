@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Gothic'
+title:  'UD_Gothic-PROIEL'
 udver: '2'
 ---
 
@@ -9,7 +9,7 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Gothic
+# UD Gothic PROIEL
 
 Language: [Gothic](../got/overview/got-hub.html) (code: `got`)<br/>
 Family: Indo-European, Germanic
@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 
 The following people have contributed to making this treebank part of UD: Dag Haug.
 
-Repository: [UD_Gothic](https://github.com/UniversalDependencies/UD_Gothic)
+Repository: [UD_Gothic-PROIEL](https://github.com/UniversalDependencies/UD_Gothic-PROIEL)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgot_proiel)
 
 License: CC BY-NC-SA 3.0
 
@@ -26,7 +27,7 @@ Genre: bible
 
 Questions, comments?
 General annotation questions (either Gothic-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Gothic/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Gothic-PROIEL/issues).
 If you want to collaborate, please contact [daghaug&nbsp;(æt)&nbsp;ifikk&nbsp;•&nbsp;uio&nbsp;•&nbsp;no].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
@@ -46,7 +47,7 @@ The UD Gothic treebank is based on the Gothic data from the PROIEL treebank, and
 
 
 
-The UD Gothic treebank is based on the Gothic data in the PROIEL treebank, which is maintained at the Department of Philosophy, Classics, History of Arts and Ideas at the University of Oslo. The conversion is based on the 20170214 release of the PROIEL treebank available from https://github.com/proiel/proiel-treebank/releases. The original annotators are acknowledged in the files available there. The conversion code is available in the Rubygem proiel-cli, https://github.com/proiel/proiel-cli.
+The UD Gothic treebank is based on the Gothic data in the PROIEL treebank, which is maintained at the Department of Philosophy, Classics, History of Arts and Ideas at the University of Oslo. The conversion is based on the 20180408 release of the PROIEL treebank available from https://github.com/proiel/proiel-treebank/releases. The original annotators are acknowledged in the files available there. The conversion code is available in the Rubygem proiel-cli, https://github.com/proiel/proiel-cli.
 
 The treebank contains the text of Wulfila's Bible translation. The original annotation guidelines are available at http://folk.uio.no/daghaug/syntactic_guidelines.pdf. The text and tokenization comes from the Wulfila project www.wulfila.be.
 
@@ -55,27 +56,40 @@ The treebank contains the text of Wulfila's Bible translation. The original anno
 The data have been automatically converted to the UD scheme by Dag Haug. Thanks to all the original annotators!
 
 
-# Statistics of UD Gothic
+# Statistics of UD Gothic PROIEL
 
 ## POS Tags
 
-[ADJ](got-pos-ADJ.html) – [ADP](got-pos-ADP.html) – [ADV](got-pos-ADV.html) – [AUX](got-pos-AUX.html) – [CCONJ](got-pos-CCONJ.html) – [DET](got-pos-DET.html) – [INTJ](got-pos-INTJ.html) – [NOUN](got-pos-NOUN.html) – [NUM](got-pos-NUM.html) – [PRON](got-pos-PRON.html) – [PROPN](got-pos-PROPN.html) – [SCONJ](got-pos-SCONJ.html) – [VERB](got-pos-VERB.html) – [X](got-pos-X.html)
+[ADJ](got_proiel-pos-ADJ.html) – [ADP](got_proiel-pos-ADP.html) – [ADV](got_proiel-pos-ADV.html) – [AUX](got_proiel-pos-AUX.html) – [CCONJ](got_proiel-pos-CCONJ.html) – [DET](got_proiel-pos-DET.html) – [INTJ](got_proiel-pos-INTJ.html) – [NOUN](got_proiel-pos-NOUN.html) – [NUM](got_proiel-pos-NUM.html) – [PRON](got_proiel-pos-PRON.html) – [PROPN](got_proiel-pos-PROPN.html) – [SCONJ](got_proiel-pos-SCONJ.html) – [VERB](got_proiel-pos-VERB.html) – [X](got_proiel-pos-X.html)
 
 ## Features
 
-[Aspect](got-feat-Aspect.html) – [Case](got-feat-Case.html) – [Degree](got-feat-Degree.html) – [Gender](got-feat-Gender.html) – [Mood](got-feat-Mood.html) – [Number](got-feat-Number.html) – [Person](got-feat-Person.html) – [Polarity](got-feat-Polarity.html) – [Poss](got-feat-Poss.html) – [PronType](got-feat-PronType.html) – [Reflex](got-feat-Reflex.html) – [Strength](got-feat-Strength.html) – [Tense](got-feat-Tense.html) – [VerbForm](got-feat-VerbForm.html) – [Voice](got-feat-Voice.html)
+[Aspect](got_proiel-feat-Aspect.html) – [Case](got_proiel-feat-Case.html) – [Degree](got_proiel-feat-Degree.html) – [Gender](got_proiel-feat-Gender.html) – [Mood](got_proiel-feat-Mood.html) – [Number](got_proiel-feat-Number.html) – [Person](got_proiel-feat-Person.html) – [Polarity](got_proiel-feat-Polarity.html) – [Poss](got_proiel-feat-Poss.html) – [PronType](got_proiel-feat-PronType.html) – [Reflex](got_proiel-feat-Reflex.html) – [Strength](got_proiel-feat-Strength.html) – [Tense](got_proiel-feat-Tense.html) – [VerbForm](got_proiel-feat-VerbForm.html) – [Voice](got_proiel-feat-Voice.html)
 
 ## Relations
 
-[acl](got-dep-acl.html) – [advcl](got-dep-advcl.html) – [advmod](got-dep-advmod.html) – [amod](got-dep-amod.html) – [appos](got-dep-appos.html) – [aux](got-dep-aux.html) – [aux:pass](got-dep-aux-pass.html) – [case](got-dep-case.html) – [cc](got-dep-cc.html) – [ccomp](got-dep-ccomp.html) – [conj](got-dep-conj.html) – [csubj:pass](got-dep-csubj-pass.html) – [dep](got-dep-dep.html) – [det](got-dep-det.html) – [discourse](got-dep-discourse.html) – [fixed](got-dep-fixed.html) – [flat](got-dep-flat.html) – [flat:name](got-dep-flat-name.html) – [iobj](got-dep-iobj.html) – [mark](got-dep-mark.html) – [nmod](got-dep-nmod.html) – [nsubj](got-dep-nsubj.html) – [nsubj:pass](got-dep-nsubj-pass.html) – [nummod](got-dep-nummod.html) – [obj:dir](got-dep-obj-dir.html) – [obl](got-dep-obl.html) – [obl:agent](got-dep-obl-agent.html) – [orphan](got-dep-orphan.html) – [parataxis](got-dep-parataxis.html) – [root](got-dep-root.html) – [vocative](got-dep-vocative.html) – [xcomp](got-dep-xcomp.html)
+[acl](got_proiel-dep-acl.html) – [advcl](got_proiel-dep-advcl.html) – [advmod](got_proiel-dep-advmod.html) – [amod](got_proiel-dep-amod.html) – [appos](got_proiel-dep-appos.html) – [aux](got_proiel-dep-aux.html) – [aux:pass](got_proiel-dep-aux-pass.html) – [case](got_proiel-dep-case.html) – [cc](got_proiel-dep-cc.html) – [ccomp](got_proiel-dep-ccomp.html) – [conj](got_proiel-dep-conj.html) – [csubj:pass](got_proiel-dep-csubj-pass.html) – [dep](got_proiel-dep-dep.html) – [det](got_proiel-dep-det.html) – [discourse](got_proiel-dep-discourse.html) – [fixed](got_proiel-dep-fixed.html) – [flat](got_proiel-dep-flat.html) – [flat:name](got_proiel-dep-flat-name.html) – [iobj](got_proiel-dep-iobj.html) – [mark](got_proiel-dep-mark.html) – [nmod](got_proiel-dep-nmod.html) – [nsubj](got_proiel-dep-nsubj.html) – [nsubj:pass](got_proiel-dep-nsubj-pass.html) – [nummod](got_proiel-dep-nummod.html) – [obj](got_proiel-dep-obj.html) – [obl](got_proiel-dep-obl.html) – [obl:agent](got_proiel-dep-obl-agent.html) – [orphan](got_proiel-dep-orphan.html) – [parataxis](got_proiel-dep-parataxis.html) – [root](got_proiel-dep-root.html) – [vocative](got_proiel-dep-vocative.html) – [xcomp](got_proiel-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
-<li>This corpus contains 5400 sentences and 55320 tokens.</li>
+<li>This corpus contains 5401 sentences and 55336 tokens.</li>
+</ul>
+
+<ul>
 <li>All tokens in this corpus are followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 35 types of words that contain both letters and punctuation. Examples: ·b·, ·ib·, ·a·, ·l·, ·r·, at-gaf, uz-hof, uz-iddja, ·e·, ·j·, þat-ain, _biuda, _nins, _teins, an-kumbei, an-niujaiþ, at-gaggand, bi-gitai, bi-gitanda, diz-sat, ga-dauþniþ, ga-laubeis, ga-laubidedeiþ, ga-laubjats, ga-sandidedum, ga-seƕi, ga-traua, gariud_n, in-sandidedun, miþ-qam, uf-wopida, us-gibiþ, ·id·, ·k·, ·t·</li>
+</ul>
+
+<ul>
 </ul>
 
 <h2>Morphology</h2>
@@ -85,6 +99,9 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 <ul>
 <li>This corpus uses 14 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: PART, SYM, PUNCT</li>
+</ul>
+
+<ul>
 </ul>
 
 <ul>
@@ -107,30 +124,38 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 </ul>
 
 <ul>
-<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Fin
   <ul>
     <li>VERB: ist, qaþ, was, warþ, qeþun, qiþa, sind, im, wairþiþ, qam</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Inf
   <ul>
     <li>VERB: wisan, taujan, galeiþan, qiman, qiþan, gaggan, wairþan, rodjan, saiƕan, giban</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>VERB: qiþands, qiþandans, andhafjands, gameliþ, gasaiƕands, qimands, habandans, wisands, habands, wisandans</li>
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
+
 <li><a>Gender</a>
+
   <ul>
     <li>Fem
       <ul>
@@ -144,6 +169,9 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
         <li>VERB-Part: qiþandei, gasaiƕandei, gahausjandei, habandei, wisandein, atgaggandei, atgibana, gibana, qimandei, qiþandeins</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Fem,Masc
       <ul>
         <li>ADJ: izwaris, meinaim, seinos, sunjeins, þeinaim, þlaqus</li>
@@ -154,12 +182,18 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
         <li>PRON: izwis, jus, izwara, uns, unsis, weis, ik, mik, þu, mis</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Fem,Neut
       <ul>
         <li>ADJ: silbo, taihswo, wraiqo</li>
         <li>NOUN: malo, sunno</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>ADJ: sa, ƕas, sumai, managai, allai, þai, meins, ainshun, þamma, silba</li>
@@ -172,6 +206,9 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
         <li>VERB-Part: qiþands, qiþandans, andhafjands, gasaiƕands, qimands, habandans, wisands, habands, wisandans, gasaiƕandans</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc,Neut
       <ul>
         <li>ADJ: unsaris, seinamma, meinamma, unsar, unsaramma, þeinamma, izwaramma, seinis, izwaris, godaize</li>
@@ -184,6 +221,9 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
         <li>VERB-Part: libandins, andhulidamma, wisandam, afwandjandane, bimaitanaize, faursniwandam, frawardidaize, gabairhtjandin, gafriþondin, gahulidamma</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neut
       <ul>
         <li>ADJ: þata, all, mein, þo, alla, ƕa, allamma, allata, leitil, þat</li>
@@ -197,10 +237,15 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Number</a>
+
   <ul>
     <li>Dual
       <ul>
@@ -208,6 +253,9 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
         <li>VERB-Fin: gaggats, qiþaits, bigitats, siju, taujats, andbindats, attiuhats, bidjats, bidjos, driggkats</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Plur
       <ul>
         <li>ADJ: sumai, managai, seinaim, allai, allaim, þai, þo, alla, þaim, dauþaim</li>
@@ -221,6 +269,9 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
         <li>VERB-Part: qiþandans, habandans, wisandans, gasaiƕandans, gahausjandans, gaggandans, hausjandans, usgaggandans, witandans, bidjandans</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: þata, sa, ƕas, all, seinamma, meinamma, þamma, þeinamma, meina, izwar</li>
@@ -235,9 +286,13 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Acc
       <ul>
@@ -251,6 +306,9 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
         <li>VERB-Part: habandans, sitandan, qimandan, sandjandan, hausjandona, waurþanana, gabundanana, gawalidans, gawasidana, habandan</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dat
       <ul>
         <li>ADJ: seinamma, meinamma, seinaim, þamma, þeinamma, allaim, seinai, þaim, allamma, dauþaim</li>
@@ -263,6 +321,9 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
         <li>VERB-Part: galaubjandam, wisandam, habandin, sandjandin, wisandin, gaggandam, qimandin, rodjandin, ungalaubjandam, usgaggandin</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Gen
       <ul>
         <li>ADJ: unsaris, þis, meinis, seinis, izwaraizos, seinaizos, þize, izwaris, meinaizos, seinaize</li>
@@ -274,6 +335,9 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
         <li>VERB-Part: libandins, sandjandins, standandane, anakumbjandane, daupjandins, atstandandane, galaubjandane, gataurnandins, gawalidane, habandane</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Nom
       <ul>
         <li>ADJ: sa, ƕas, sumai, managai, allai, þai, meins, ainshun, þata, meina</li>
@@ -285,6 +349,9 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
         <li>VERB-Part: qiþands, qiþandans, andhafjands, gameliþ, gasaiƕands, qimands, wisands, habands, gasaiƕandans, gahausjands</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Voc
       <ul>
         <li>ADJ: liubans, unhrainja, weiha, þiuþeiga, audahafta, batista, dwala, garaihta, goda, inwindo</li>
@@ -296,13 +363,20 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
 
 
 
 <h3>Degree and Polarity</h3>
 
+
 <li><a>Degree</a>
+
   <ul>
     <li>Cmp
       <ul>
@@ -310,12 +384,18 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
         <li>ADV: mais, aljaleikos, mins, airis, framis, hauhis, sniumundos, wairs</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>ADJ: managai, anþar, silba, dauþaim, silban, anþara, silbans, leitil, goþ, managans</li>
         <li>ADV: filu, sniumundo, fram, uhteigo, usdaudo</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sup
       <ul>
         <li>ADJ: auhumistans, frumista, spedistin, sinistam, hauhistins, sinistans, auhumista, auhumistins, auhumistam, frumistin</li>
@@ -323,9 +403,13 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Polarity</a>
+
   <ul>
     <li>Neg
       <ul>
@@ -333,12 +417,18 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Verbal Features</h3>
 
+
 <li><a>Aspect</a>
+
   <ul>
     <li>Perf
       <ul>
@@ -348,29 +438,43 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Mood</a>
+
   <ul>
     <li>Imp
       <ul>
         <li>VERB-Fin: gagg, saiƕiþ, urreis, gaggam, galaubeiþ, let, usgagg, faginoþ, gaggiþ, gif</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>VERB-Fin: ist, qaþ, was, warþ, qeþun, qiþa, sind, im, wairþiþ, qam</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Opt
       <ul>
         <li>VERB-Fin: sijai, wesi, wairþai, sijaiþ, wairþaiþ, sijaina, sijais, taujaiþ, habai, gaggaiþ</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Tense</a>
+
   <ul>
     <li>Past
       <ul>
@@ -379,17 +483,24 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
         <li>VERB-Part: gameliþ, skuld, gamelido, qiþan, atgiban, gabaurans, gamelid, daupidai, haitans, bigitans</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pres
       <ul>
-        <li>VERB-Fin: ist, qiþa, sind, im, wairþiþ, qiþiþ, habaiþ, sijai, sijuþ, nist</li>
+        <li>VERB-Fin: ist, qiþa, sind, im, wairþiþ, qiþiþ, habaiþ, sijuþ, sijai, nist</li>
         <li>VERB-Inf: wisan, taujan, galeiþan, qiman, qiþan, gaggan, wairþan, rodjan, saiƕan, giban</li>
         <li>VERB-Part: qiþands, qiþandans, andhafjands, gasaiƕands, qimands, habandans, wisands, habands, wisandans, gasaiƕandans</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Voice</a>
+
   <ul>
     <li>Act
       <ul>
@@ -398,6 +509,9 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
         <li>VERB-Part: qiþands, qiþandans, andhafjands, gasaiƕands, qimands, habandans, wisands, habands, wisandans, gasaiƕandans</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pass
       <ul>
         <li>VERB-Fin: haitada, afletanda, afnimada, atgibada, gibada, haitaidau, merjada, usfulljada, bigitaidau, frijoda</li>
@@ -406,12 +520,18 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Int
       <ul>
@@ -419,16 +539,25 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
         <li>PRON: ƕa, ƕas, ƕo, ƕamma, ƕana, ƕis, ƕaþar, ƕarjis, ƕarja, ƕarjai</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
         <li>PRON: izwis, imma, ina, is, im, mis, ik, mik, jus, þus</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rcp
       <ul>
         <li>PRON: anþar, anþaris, anþarana</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rel
       <ul>
         <li>ADV: swaswe, swe, þarei, þei, þadei, ei, þan, þanei, ƕaiwa, þaþroei</li>
@@ -436,10 +565,15 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Poss</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -447,9 +581,13 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Reflex</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -458,9 +596,13 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Person</a>
+
   <ul>
     <li>1
       <ul>
@@ -469,6 +611,9 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
         <li>VERB-Fin: qiþa, im, qaþ, sijum, wiljau, bidja, gagga, was, qam, tauja</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>ADJ: izwara, þeinamma, þeina, izwar, þeinai, þeinana, þeins, þein, izwaraim, izwaraizos</li>
@@ -476,6 +621,9 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
         <li>VERB-Fin: sijuþ, is, gagg, habaiþ, wituþ, qiþiþ, saiƕiþ, sijaiþ, wairþaiþ, galaubeiþ</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>ADJ: seinamma, seinaim, seina, seinai, seinana, seinis, seinans, sein, seinaizos, seinos</li>
@@ -485,12 +633,19 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
 
 
+
+
+
 <h3>Other Features</h3>
+
 
 <li><a>Strength</a>
   <ul>
@@ -502,7 +657,7 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
     </li>
     <li>Weak
       <ul>
-        <li>ADJ: silba, silban, silbans, samo, aiweinon, auhumistans, managizo, weiham, dauþans, taihswon</li>
+        <li>ADJ: silba, silban, silbans, samo, aiweinon, auhumistans, weiham, managizo, dauþans, taihswon</li>
         <li>VERB-Part: qiþandans, habandans, wisandans, gasaiƕandans, gahausjandans, gaggandans, hausjandans, usgaggandans, witandans, gamelido</li>
       </ul>
     </li>
@@ -515,6 +670,9 @@ The data have been automatically converted to the UD scheme by Dag Haug. Thanks 
 
 <ul>
 <li>This corpus does not contain copulas.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: sik, ga-siggqan, qiþan, silba.</li>
 <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: wisan#1.</li>
 </ul>
@@ -558,6 +716,30 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
+      <li>VERB-Fin--NOUN (7)</li>
+      <li>VERB-Fin--NOUN-Acc (1156)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(bi) (1)</li>
+      <li>VERB-Fin--NOUN-Dat (1)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(af) (1)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(bi) (2)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(du) (1)</li>
+      <li>VERB-Fin--NOUN-Dat-ADP(uf) (2)</li>
+      <li>VERB-Fin--NOUN-Gen (14)</li>
+      <li>VERB-Fin--NOUN-Nom (1)</li>
+      <li>VERB-Fin--NOUN-Voc (1)</li>
+      <li>VERB-Fin--PRON-Acc (1011)</li>
+      <li>VERB-Fin--PRON-Dat (8)</li>
+      <li>VERB-Fin--PRON-Gen (5)</li>
+      <li>VERB-Inf--NOUN-Acc (166)</li>
+      <li>VERB-Inf--NOUN-Dat-ADP(in) (1)</li>
+      <li>VERB-Inf--NOUN-Gen (1)</li>
+      <li>VERB-Inf--PRON-Acc (105)</li>
+      <li>VERB-Part--NOUN (1)</li>
+      <li>VERB-Part--NOUN-Acc (300)</li>
+      <li>VERB-Part--NOUN-Dat-ADP(us) (1)</li>
+      <li>VERB-Part--NOUN-Gen (2)</li>
+      <li>VERB-Part--PRON-Acc (157)</li>
+      <li>VERB-Part--PRON-Dat-ADP(at) (1)</li>
     </ul>
   </li>
 </ul>
@@ -596,7 +778,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 6 relation subtypes: <a>aux:pass</a>, <a>csubj:pass</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obj:dir</a>, <a>obl:agent</a></li>
-<li>The following 2 main types are not used alone, they are always subtyped: <a>csubj</a>, <a>obj</a></li>
+<li>This corpus uses 5 relation subtypes: <a>aux:pass</a>, <a>csubj:pass</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
+<li>The following 1 main types are not used alone, they are always subtyped: <a>csubj</a></li>
 <li>The following 9 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>cop</a>, <a>clf</a>, <a>compound</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>punct</a></li>
 </ul>

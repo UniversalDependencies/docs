@@ -17,15 +17,25 @@ The following 26 pairs of parts of speech are connected with `punct`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 punct	color:blue
-1	nismo	biti	AUX	Va-r1p-y	Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	3	aux	_	word=nismo|msd=Gp-spm-d
-2	[gap]	[gap]	X	X	_	3	punct	_	word=[gap]|msd=N
-3	zmenili	zmeniti	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	word=zmenil|msd=Ggdd-mm
-4	ja	ja	PART	Q	_	3	discourse	_	word=ja|msd=L
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 12 punct	color:blue
+1	in	in	CCONJ	Cc	_	4	cc	_	word=in|msd=Vp
+2	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	expl	_	word=to|msd=Zk-sei
+3	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	word=so|msd=Gp-stm-n
+4	mešali	mešati	VERB	Vmpp-pm	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	word=mešal|msd=Ggnd-mm
+5	kar	kar	ADV	Rgp	Degree=Pos	6	advmod	_	word=kr|msd=Rsn
+6	eno	en	NUM	Mlpnsa	Case=Acc|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card	7	nummod	_	word=en|msd=Kbzset
+7	olje	olje	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	word=ole|msd=Soset
+8	pa	pa	CCONJ	Cc	_	14	cc	_	word=pa|msd=Vp
+9	ene	en	NUM	Mlpfpa	Case=Acc|Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	14	nummod	_	word=ene|msd=Kbzzmt
+10	take	tak	DET	Pd-fpa	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	14	det	_	word=take|msd=Zk-zmt
+11	č	_	X	Xt	_	13	reparandum	_	word=č|msd=Nt
+12	[gap]	[gap]	X	X	_	4	punct	_	word=[gap]|msd=N
+13	stare	star	ADJ	Agpfpa	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	14	amod	_	word=stare|msd=Ppnzmt
+14	barve	barva	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	7	conj	_	word=barve|msd=Sozmt
 
 ~~~
 
@@ -48,19 +58,16 @@ The following 26 pairs of parts of speech are connected with `punct`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 4 punct	color:blue
-1	mene	jaz	PRON	Pp1-sa	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	word=mene|msd=Zop-et
-2	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	word=je|msd=Gp-ste-n
-3	strah	strah	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	word=strah|msd=Somei
-4	[audience:laughter]	[audience:laughter]	X	X	_	3	punct	_	word=[audience:laughter]|msd=N
-5	ker	ker	SCONJ	Cs	_	7	mark	_	word=ker|msd=Vd
-6	se	se	PRON	Px------y	PronType=Prs|Variant=Short	7	expl	_	word=se|msd=Zp------k
-7	snema	snemati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	word=snema|msd=Ggnste
-8	[all:laughter]	[all:laughter]	X	X	_	3	punct	_	word=[all:laughter]|msd=N
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 3 punct	color:blue
+1	ja	ja	PART	Q	_	5	discourse	_	word=ja|msd=L
+2	mojo	moj	DET	Ps1fsas	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	reparandum	_	word=moj|msd=Zspzete
+3	[gap]	[gap]	X	X	_	5	punct	_	word=[gap]|msd=N
+4	mojo	moj	DET	Ps1fsas	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	word=moj|msd=Zspzete
+5	cimro	cimra	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	0	root	_	word=cimro|msd=Sozet
 
 ~~~
 

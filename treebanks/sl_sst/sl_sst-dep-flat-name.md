@@ -11,26 +11,20 @@ There are also 1 other language-specific subtypes of `flat`: <tt><a href="sl_sst
 
 125 nodes (0%) are attached to their parents as `flat:name`.
 
-124 instances of `flat:name` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.048.
+125 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.064.
 
 The following 2 pairs of parts of speech are connected with `flat:name`: <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt>-<tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (124; 99% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt>-<tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 flat:name	color:blue
-1	pa	pa	CCONJ	Cc	_	5	cc	_	word=pa|msd=Vp
-2	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	5	aux	_	word=bi|msd=Gp-g
-3	še	še	PART	Q	_	5	advmod	_	word=še|msd=L
-4	vmes	vmes	ADV	Rgp	Degree=Pos	5	advmod	_	word=vmes|msd=Rsn
-5	skočil	skočiti	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	word=skočo|msd=Ggdd-em
-6	pavle	Pavle	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	word=Pavle|msd=Slmei
-7	ravnohrib	Ravnohrib	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	6	flat:name	_	word=Ravnohrib|msd=Slmei
-8	[audience:laughter]	[audience:laughter]	X	X	_	5	punct	_	word=[audience:laughter]|msd=N
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 flat:name	color:blue
+1	[name:personal]	[name:personal]	PROPN	X	_	0	root	_	word=[name:personal]|msd=N
+2	[name:surname]	[name:surname]	PROPN	X	_	1	flat:name	_	word=[name:surname]|msd=N
 
 ~~~
 

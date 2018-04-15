@@ -114,11 +114,24 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 24709 sentences, 493306 tokens and 494382 syntactic words.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 57992 tokens (12%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words that contain both letters and punctuation.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 1076 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
 <li>There are 13 types of multi-word tokens. Examples: aby, abychom, kdyby, abyste, kdybychom, abych, oč, kdybych, zač, Abys, Kdybyste, kdybys, nač.</li>
 </ul>
@@ -130,15 +143,18 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
 <ul>
 <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a></li>
 <li>This corpus does not use the following tags: X</li>
+</ul>
+
+<ul>
 <li>This corpus contains 44 word types tagged as particles (PART): Al, Anti, Copak, Cožpak, Jakby, La, Le, Nazdar, Nu, ahoj, ano, arciť, asi, ať, až, ba, bohdá, bohužel, co, das, des, el, fakt, jen, jenom, jo, kdoví, li, natož, ne, nechť, nejen, no, non, ovšem, prý, quo, s, takříkajíc, to, tož, viď, viďte, Žel</li>
 </ul>
 
 <ul>
-<li>This corpus contains 37 lemmas tagged as pronouns (PRON): Tous, co, cokoliv, copak, cosi, což, eo, er, ipso, jenž, já, kdekdo, kdo, kdokoli, kdokoliv, kdopak, kdosi, kdovíco, leccos, leckdo, ledacos, málokdo, nic, nikdo, nízko, něco, někdo, on, pražádný, qua, samý, se, they, ty, veškerý, všecek, všechno</li>
+<li>This corpus contains 36 lemmas tagged as pronouns (PRON): Tous, co, cokoliv, copak, cosi, což, eo, er, ipso, jenž, já, kdekdo, kdo, kdokoli, kdokoliv, kdopak, kdosi, kdovíco, leccos, leckdo, ledacos, málokdo, nic, nikdo, nízko, něco, někdo, on, qua, samý, se, they, ty, veškerý, všecek, všechno</li>
 </ul>
 
 <ul>
-<li>This corpus contains 49 lemmas tagged as determiners (DET): hoc, jaký, jakýkoli, jakýkoliv, jakýpak, jakýsi, jeho, jenž, každý, kdejaký, kdovíkolik, kolik, kolikátý, které, který, kterýkoli, kterýkoliv, kterýžto, leckterý, mnoho, málo, málokterý, můj, nejeden, nemálo, nějaký, několik, některý, něčí, onen, quem, sui, svůj, sám, takový, takovýhle, takovýto, ten, tenhle, tenhleten, tento, tentýž, tolik, tvůj, týž, všechen, všelijaký, čí, žádný</li>
+<li>This corpus contains 50 lemmas tagged as determiners (DET): hoc, jaký, jakýkoli, jakýkoliv, jakýpak, jakýsi, jeho, jenž, každý, kdejaký, kdovíkolik, kolik, kolikátý, které, který, kterýkoli, kterýkoliv, kterýžto, leckterý, mnoho, málo, málokterý, můj, nejeden, nemálo, nějaký, několik, některý, něčí, onen, pražádný, quem, sui, svůj, sám, takový, takovýhle, takovýto, ten, tenhle, tenhleten, tento, tentýž, tolik, tvůj, týž, všechen, všelijaký, čí, žádný</li>
 </ul>
 
 <ul>
@@ -154,7 +170,9 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
 </ul>
 
 <ul>
-<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Conv
   <ul>
@@ -162,18 +180,27 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
     <li>VERB: počínaje, nemluvě, nevyjímaje, říkajíc, Chráníce, Počínajíc, chtíc, dožívaje, klusaje, konče</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Fin
   <ul>
     <li>AUX: je, by, jsou, bude, jsme, není, jsem, budou, bychom, nejsou</li>
     <li>VERB: je, má, mají, musí, může, jde, lze, jsou, mohou, můžeme</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Inf
   <ul>
     <li>AUX: být, býti, pěstovat, vyžadovat</li>
     <li>VERB: mít, být, zajistit, říci, vidět, dělat, řešit, věnovat, použít, provádět</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>ADJ: pracujících, rozhodující, pracující, vedoucí, řečeno, dosaženo, odpovídající, následující, věnována, řídící</li>
@@ -182,12 +209,12 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
+
 <li><a>Gender</a>
+
   <ul>
     <li>Fem
       <ul>
@@ -200,6 +227,9 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
         <li>PROPN: KSČ, Praze, Praha, ČSAV, ČSSR, SSM, Škoda, Prahy, ČSR, NDR</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Fem,Masc
       <ul>
         <li>ADJ: uvedeny, určeny, splněny, provedeny, spojeny, stanoveny, připraveny, vytvořeny, umístěny, charakterizovány</li>
@@ -208,6 +238,9 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
         <li>VERB-Part: měly, mohly, byly, staly, vznikly, začaly, vytvořily, vedly, dosáhly, neměly</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Fem,Neut
       <ul>
         <li>ADJ: věnována, dána, provedena, určena, zahájena, povinna, založena, dokončena, stanovena, vybudována</li>
@@ -220,6 +253,9 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
         <li>VERB-Part: měla, byla, mohla, stala, začala, dosáhla, vznikla, dala, zůstala, objevila</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>ADJ: další, jednotlivých, první, základní, pracovní, dalších, velký, celý, pracujících, nové</li>
@@ -234,6 +270,9 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
         <li>VERB-Part: měl, mohli, mohl, měli, byl, řekl, chtěl, stal, ukázal, dostal</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc,Neut
       <ul>
         <li>DET: tím, tom, toho, tomu, tohoto, tomto, našeho, svého, našem, svým</li>
@@ -241,6 +280,9 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
         <li>PRON: mu, ho, němž, jej, něm, něho, ním, něj, něhož, všeho</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neut
       <ul>
         <li>ADJ: možno, možné, nutno, nutné, národního, další, posledních, jiné, řečeno, vědeckého</li>
@@ -255,9 +297,13 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Animacy</a>
+
   <ul>
     <li>Anim
       <ul>
@@ -272,6 +318,9 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
         <li>VERB-Part: mohli, měli, byli, začali, dali, chtěli, dosáhli, viděli, pracovali, přišli</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Inan
       <ul>
         <li>ADJ: jednotlivých, další, základní, pracovní, celý, první, velký, nové, nový, dalších</li>
@@ -286,9 +335,13 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Number</a>
+
   <ul>
     <li>Dual
       <ul>
@@ -298,6 +351,9 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
         <li>NUM: dvěma, oběma</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Plur
       <ul>
         <li>ADJ: jednotlivých, různých, dalších, další, jiných, nové, výrobních, různé, nových, základních</li>
@@ -315,6 +371,9 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
         <li>VERB-Part: mohli, měli, měly, mohly, byly, byli, začali, dali, chtěli, staly</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Plur,Sing
       <ul>
         <li>ADJ: věnována, dána, provedena, určena, zahájena, povinna, založena, dokončena, stanovena, vybudována</li>
@@ -323,6 +382,9 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
         <li>VERB-Part: měla, byla, mohla, stala, začala, dosáhla, vznikla, dala, zůstala, objevila</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: pracovní, první, možno, další, socialistické, druhé, základní, vlastní, národního, větší</li>
@@ -341,9 +403,13 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Acc
       <ul>
@@ -357,6 +423,9 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
         <li>PROPN: Slovensko, Fučíka, Prahu, Karpaty, Josefa, Lužnici, Miroslava, Pepíčka, Jeana, Marxe</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dat
       <ul>
         <li>ADJ: dalšímu, jiným, ostatním, národnímu, jednotlivým, různým, socialistickému, Slovenskému, plánovaným, určitému</li>
@@ -369,6 +438,9 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
         <li>PROPN: Erbenovi, Karlu, Pasákovi, Vietnamu, Zemi, Františku, Fučíkovi, Ivo, Janu, Křikavové</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Gen
       <ul>
         <li>ADJ: jednotlivých, národního, socialistické, výrobních, dalších, různých, jiných, nových, základních, pracovní</li>
@@ -381,6 +453,9 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
         <li>PROPN: Prahy, Československa, Země, Evropy, Karla, Gottwalda, Jana, Vltavy, Fermiho, Klementa</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ins
       <ul>
         <li>ADJ: jinými, hlavním, ostatními, základním, různými, velkým, elektrickým, dalším, určitým, novým</li>
@@ -393,6 +468,9 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
         <li>PROPN: Labem, Bečvou, Václavem, Karlem, Prahou, Alpami, Karpatami, Sázavou, Cidlinou, Honzou</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Loc
       <ul>
         <li>ADJ: současné, druhé, různých, jednotlivých, dalších, jiných, celé, pracovní, celém, posledních</li>
@@ -405,6 +483,9 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
         <li>PROPN: Praze, Čechách, Brně, Slovensku, Československu, Evropě, Paříži, Hradci, Moskvě, Klatovech</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Nom
       <ul>
         <li>ADJ: další, první, možné, nutné, nové, základní, pracovní, větší, různé, ostatní</li>
@@ -417,6 +498,9 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
         <li>PROPN: Praha, Škoda, Fučík, Erben, Karel, Horálek, Knappová, Němec, Těšitelová, Brno</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Voc
       <ul>
         <li>ADJ: vážený, vážení, vážená, vážené, dolarovej, drahej, mladí, podnikový</li>
@@ -426,27 +510,40 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>PrepCase</a>
+
   <ul>
     <li>Npr
       <ul>
         <li>PRON: jež, jimiž, jenž, jehož, jímž, jichž, jíž, jemuž, jimž, již</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pre
       <ul>
         <li>PRON: nich, nichž, níž, němž, ní, ně, něm, nimi, něho, ním</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Degree and Polarity</h3>
 
+
 <li><a>Degree</a>
+
   <ul>
     <li>Cmp
       <ul>
@@ -454,6 +551,9 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
         <li>ADV: více, dále, méně, později, dříve, víc, spíše, lépe, dál, výše</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>ADJ: další, pracovní, jednotlivých, základní, nové, socialistické, různých, dalších, jiné, vlastní</li>
@@ -461,6 +561,9 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
         <li>DET: každý, každé, každého, každá, každém, každou, každým, každému, každých, každej</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sup
       <ul>
         <li>ADJ: největší, nejlepší, nejvyšší, nejdůležitější, nejmenší, nejbližší, nejlepším, nejrůznějších, největším, nejlepších</li>
@@ -468,9 +571,13 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Polarity</a>
+
   <ul>
     <li>Neg
       <ul>
@@ -486,6 +593,9 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
         <li>VERB-Part: nebylo, nemohl, neměl, neměli, nepodařilo, nechtěl, nedošlo, neměla, nebyl, nemohli</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>ADJ: další, pracovní, jednotlivých, základní, nové, možno, socialistické, různých, dalších, větší</li>
@@ -505,9 +615,13 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Variant</a>
+
   <ul>
     <li>Short
       <ul>
@@ -517,11 +631,16 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Verbal Features</h3>
 
+
 <li><a>Aspect</a>
+
   <ul>
     <li>Imp
       <ul>
@@ -538,6 +657,9 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
         <li>VERB-Part: zabýval, pracoval, pracovali, konal, pracovalo, snažili, hovořil, pokračovalo, sloužila, znamenalo</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Perf
       <ul>
         <li>ADJ-Part: splněny, zahájena, založena, splněn, stanovena, spojeno, spojeny, stanoveny, vybudována, připraveny</li>
@@ -550,21 +672,31 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Mood</a>
+
   <ul>
     <li>Cnd
       <ul>
         <li>AUX-Fin: by, bychom, bych, byste, bys</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Imp
       <ul>
         <li>AUX-Fin: buď, budiž, buďme, buďte, Nebuď</li>
         <li>VERB-Fin: viz, překonej, připomeňme, uveďme, nechte, pověste, vraťme, žehlete, nezapomeňte, perte</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>AUX-Fin: je, jsou, bude, jsme, není, jsem, budou, nejsou, budeme, jste</li>
@@ -572,9 +704,13 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Tense</a>
+
   <ul>
     <li>Fut
       <ul>
@@ -582,6 +718,9 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
         <li>VERB-Fin: bude, půjde, budou, nebude, budu, pojedu, půjdou, Nepůjde, Pojede, nebudu</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Past
       <ul>
         <li>ADJ-Part: nastoupivšími, rozpadnuvší</li>
@@ -591,6 +730,9 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
         <li>VERB-Part: měl, měla, bylo, mohli, došlo, mohl, měli, byl, měly, mělo</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pres
       <ul>
         <li>ADJ-Part: pracujících, rozhodující, pracující, vedoucí, odpovídající, následující, řídící, týkající, vyplývající, rostoucí</li>
@@ -601,9 +743,13 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Voice</a>
+
   <ul>
     <li>Act
       <ul>
@@ -616,18 +762,27 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
         <li>VERB-Part: měl, měla, bylo, mohli, došlo, mohl, měli, byl, měly, mělo</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pass
       <ul>
         <li>ADJ-Part: řečeno, dosaženo, věnována, dána, provedena, uvedeny, určena, určeny, splněny, zahájena</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Dem
       <ul>
@@ -635,11 +790,17 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
         <li>DET: to, tím, této, těchto, tyto, tom, toho, tento, tohoto, tomu</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Emp
       <ul>
         <li>DET: sám, sama, sami, samo, samy, samu</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>ADV: někdy, někde, kdysi, nějak, několikrát, někam, jaksi, jakkoli, jakkoliv, kdykoliv</li>
@@ -647,6 +808,9 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
         <li>PRON: něco, někdo, někomu, něčeho, něčemu, kdekdo, cosi, ledacos, málokdo, někoho</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Int,Rel
       <ul>
         <li>ADV: jak, kde, kdy, proč, kam, odkud, kolikrát, kudy, dokdy, kdes</li>
@@ -654,25 +818,37 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
         <li>PRON: co, kdo, čím, čem, čeho, copak, kdož, koho, čemu, komu</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neg
       <ul>
         <li>ADV: nikdy, nijak, nikde, nikam</li>
-        <li>DET: žádné, žádný, žádná, žádnou, žádném, žádných, žádným, žádného, žádnému, žádnými</li>
-        <li>PRON: nic, nikdo, nikoho, ničím, nikomu, ničeho, ničemu, nikým, ničem, pražádnou</li>
+        <li>DET: žádné, žádný, žádná, žádnou, žádném, žádných, žádným, žádného, žádnému, pražádnou</li>
+        <li>PRON: nic, nikdo, nikoho, ničím, nikomu, ničeho, ničemu, nikým, ničem</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
         <li>DET: jejich, jeho, své, její, naší, svou, naše, našeho, svých, našich</li>
         <li>PRON: se, si, je, nás, nám, nich, ji, jim, mu, sebe</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rel
       <ul>
         <li>DET: jehož, jejichž, jejíž, jejímž, jejímuž, jejíchž, kterážto</li>
         <li>PRON: jež, nichž, což, níž, němž, jimiž, něhož, čímž, jenž, nimiž</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Tot
       <ul>
         <li>ADV: vždy, všude, odjakživa, navždy, odevždy</li>
@@ -681,9 +857,13 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>NumType</a>
+
   <ul>
     <li>Card
       <ul>
@@ -691,21 +871,33 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
         <li>NUM: #, dvou, jeden, dvě, tři, dva, obou, jedné, jednoho, jedním</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Frac
       <ul>
         <li>NUM: třetinu, třetina, třetiny, čtvrtiny, dvanáctinu, třetinou, třetině, šestině, desetin, desetinu</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Mult
       <ul>
         <li>ADV: dvakrát, nejednou, několikrát, třikrát, mnohokrát, kolikrát, desetkrát, stokrát, čtyřikrát, dvanáctkrát</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Mult,Sets
       <ul>
         <li>ADJ: dvojí, obojí, dvojím, trojí, dvojího, trojím, dvojímu, oboje, obojího, obojím</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ord
       <ul>
         <li>ADJ: první, prvním, třetí, prvních, prvního, šedesátých, třetího, třicátých, dvacátých, páté</li>
@@ -713,15 +905,22 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
         <li>DET: Kolikátý, kolikátá, kolikátém</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sets
       <ul>
         <li>ADJ: jedněch, jedni, jedny</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Poss</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -730,9 +929,13 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Reflex</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -741,9 +944,13 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Person</a>
+
   <ul>
     <li>1
       <ul>
@@ -753,6 +960,9 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
         <li>VERB-Fin: můžeme, máme, musíme, chceme, mám, nemůžeme, známe, myslím, nazýváme, vidíme</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>AUX-Fin: jste, byste, budete, jsi, buď, nebudete, bys, budeš, buďte, Nebuď</li>
@@ -761,6 +971,9 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
         <li>VERB-Fin: viz, můžete, máte, víte, najdete, překonej, nechte, nemáte, znáte, chcete</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>AUX-Fin: je, by, jsou, bude, není, budou, nejsou, bývá, nebude, nebudou</li>
@@ -770,10 +983,15 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Gender[psor]</a>
+
   <ul>
     <li>Fem
       <ul>
@@ -781,35 +999,52 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
         <li>DET: její, jejíž, jejím, jejího, jejích, jejímž, jejímu, jejími, jejímuž, jejíchž</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>ADJ: Karlovy, Erbenových, Erbenovy, Fučíkova, Mohorovičićovy, Bohrův, Fučíkovy, Erbenova, Erbenově, Fučíkův</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc,Neut
       <ul>
         <li>DET: jeho, jehož</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Number[psor]</a>
+
   <ul>
     <li>Plur
       <ul>
         <li>DET: jejich, naší, naše, našeho, našich, jejichž, našem, naši, náš, naším</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>DET: jeho, její, jehož, jejíž, jejím, jejího, jejích, mého, jejímž, jejímu</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Other Features</h3>
+
 
 <li><a>Abbr</a>
   <ul>
@@ -825,6 +1060,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
     </li>
   </ul>
 </li>
+
 <li><a>AdpType</a>
   <ul>
     <li>Comprep
@@ -844,6 +1080,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
     </li>
   </ul>
 </li>
+
 <li><a>ConjType</a>
   <ul>
     <li>Oper
@@ -853,6 +1090,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
     </li>
   </ul>
 </li>
+
 <li><a>Foreign</a>
   <ul>
     <li>Yes
@@ -873,6 +1111,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
     </li>
   </ul>
 </li>
+
 <li><a>Hyph</a>
   <ul>
     <li>Yes
@@ -882,6 +1121,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
     </li>
   </ul>
 </li>
+
 <li><a>NameType</a>
   <ul>
     <li>Com
@@ -997,6 +1237,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
     </li>
   </ul>
 </li>
+
 <li><a>NumForm</a>
   <ul>
     <li>Digit
@@ -1011,6 +1252,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
     </li>
   </ul>
 </li>
+
 <li><a>NumValue</a>
   <ul>
     <li>1
@@ -1025,6 +1267,7 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
     </li>
   </ul>
 </li>
+
 <li><a>Style</a>
   <ul>
     <li>Arch
@@ -1087,6 +1330,9 @@ http://sas.ujc.cas.cz/archiv.php?art=2911
 
 <ul>
 <li>This corpus uses 37 lemmas as copulas (<a>cop</a>). Examples: být, bývat, *, moci, mít, muset, determinační, dlouhý, doktrína, doprovázený, dosažitelný, dále, faktor, impuls, jeden, krásný, lhostejný, metoda, měkký, nabubřování, naopak, nebo, náboženství, odolný, pohyblivost, prostředek, pěstovat, připadat, souhrn, titul, uhlí, vyžadovat, výhodný, zahrada, znak, značka, řehole.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 9 lemmas as auxiliaries (<a>aux</a>). Examples: být, *, &camount;, bývat, jako, rozdělený, ten, třeba, vytištěný.</li>
 <li>This corpus uses 5 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být, bývat, *, &camount;, rámec.</li>
 </ul>
@@ -1097,7 +1343,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (31)</li>
+      <li>VERB-Fin--NOUN (30)</li>
       <li>VERB-Fin--NOUN-Acc (36)</li>
       <li>VERB-Fin--NOUN-Gen (181)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(kolem) (3)</li>
@@ -1116,14 +1362,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Gen (7)</li>
       <li>VERB-Inf--NOUN-Nom (184)</li>
       <li>VERB-Inf--PRON-Nom (15)</li>
-      <li>VERB-Part--NOUN (33)</li>
+      <li>VERB-Part--NOUN (32)</li>
       <li>VERB-Part--NOUN-Acc (5)</li>
       <li>VERB-Part--NOUN-Gen (137)</li>
       <li>VERB-Part--NOUN-Gen-ADP(kolem) (2)</li>
       <li>VERB-Part--NOUN-Gen-ADP(na) (2)</li>
       <li>VERB-Part--NOUN-Gen-ADP(přes) (2)</li>
       <li>VERB-Part--NOUN-Ins (1)</li>
-      <li>VERB-Part--NOUN-Nom (3725)</li>
+      <li>VERB-Part--NOUN-Nom (3726)</li>
       <li>VERB-Part--PRON (15)</li>
       <li>VERB-Part--PRON-Acc (1)</li>
       <li>VERB-Part--PRON-Gen (6)</li>
@@ -1158,7 +1404,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Acc (3542)</li>
       <li>VERB-Inf--NOUN-Dat (133)</li>
       <li>VERB-Inf--NOUN-Gen (219)</li>
-      <li>VERB-Inf--NOUN-Ins (61)</li>
+      <li>VERB-Inf--NOUN-Ins (62)</li>
       <li>VERB-Inf--NOUN-Loc (2)</li>
       <li>VERB-Inf--NOUN-Nom (27)</li>
       <li>VERB-Inf--PRON (6)</li>
@@ -1201,7 +1447,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN (2)</li>
       <li>VERB-Inf--NOUN-Acc (19)</li>
       <li>VERB-Inf--NOUN-Dat (160)</li>
-      <li>VERB-Inf--NOUN-Gen (8)</li>
+      <li>VERB-Inf--NOUN-Gen (7)</li>
       <li>VERB-Inf--NOUN-Ins (36)</li>
       <li>VERB-Inf--NOUN-Nom (3)</li>
       <li>VERB-Inf--PRON-Acc (6)</li>
@@ -1236,9 +1482,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 119 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: překonat sebe, připomenout si, říci si, klást si, položit si, přečíst si, vzdělávat se, dát si, obohacovat se, podobný si, ukázat si, vyprávět si, dát se, krýt se, odradit se, osvobodit se, ovlivňovat se, prohlašovat se, připomínat si, připoutat se, připravovat se, rozumět si, ukrýt se, uživit se, vidět sebe, zaplnit se, znát se, řeknout si, říkat si, adaptovat se, adekvátní sobě, blízký sobě, bránit se, chránit se, definovat sebe, demaskovat se, doléčovat se, dovolit si, hledat sebe, hlídat se, hostit sebe, klamat sebe, kompenzovat se, koupat se, koupit si, koupit sis, kupovat si, křížit se, léčit se, mít se</li>
+  <li>This corpus contains 120 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: překonat sebe, připomenout si, říci si, klást si, položit si, přečíst si, vzdělávat se, dát si, obohacovat se, podobný si, ukázat si, vyprávět si, dát se, krýt se, odradit se, osvobodit se, ovlivňovat se, prohlašovat se, připomínat si, připoutat se, připravovat se, rozumět si, ukrýt se, uživit se, vidět sebe, zaplnit se, znát se, řeknout si, říkat si, adaptovat se, adekvátní sobě, blízký sobě, bránit se, charakterizovat sui, chránit se, definovat sebe, demaskovat se, doléčovat se, dovolit si, hledat sebe, hlídat se, hostit sebe, klamat sebe, kompenzovat se, koupat se, koupit si, koupit sis, kupovat si, křížit se, léčit se</li>
     <ul>
-      <li>Out of those, 2 lemmas occurred more than once, but never without a reflexive dependent. Examples: ukrýt, uživit, adaptovat, doléčovat, koupat, obeznámit, odepřít, plácnout, pokřivit, procvičovat, přemisťovat, přikrývat, připodobnit, telefonovat, vyplétat, vypomáhat, vyvažovat, zabarikádovat, zanadávat, zrekreovat</li>
+      <li>Out of those, 2 lemmas occurred more than once, but never without a reflexive dependent. Examples: ukrýt, uživit</li>
     </ul>
 </ul>
 

@@ -17,19 +17,44 @@ The following 12 pairs of parts of speech are connected with `expl`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 expl	color:blue
-1	å	å	INTJ	_	_	3	discourse	_	_
-2	da	da	ADV	_	_	3	advmod	_	_
-3	var	vere	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-4	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
-5	å	å	PART	_	_	6	mark	_	_
-6	køyre	køyre	VERB	_	VerbForm=Inf	3	csubj	_	_
-7	tur	tur	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	6	obj	_	_
-8	.	$.	PUNCT	_	_	3	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 expl	color:blue
+1	kom	komme	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+2	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	expl	_	_
+3	bilar	bil	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	1	nsubj	_	_
+4	frå	frå	ADP	_	_	6	case	_	_
+5	heile	heil	ADJ	_	Degree=Pos|Number=Plur	6	amod	_	_
+6	Austlandet	Austlandet	PROPN	_	_	1	obl	_	_
+7	dit	dit	ADV	_	_	1	advmod	_	_
+8	da	da	ADV	_	_	1	advmod	_	_
+9	?	$?	PUNCT	_	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 7 expl	color:blue
+1	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	kjøpte	kjøpe	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	han	han	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+4	ikkje	ikkje	PART	_	Polarity=Neg	2	advmod	_	_
+5	opp	opp	ADP	_	_	2	compound:prt	_	_
+6	#	#	PUNCT	_	_	9	punct	_	_
+7	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	expl	_	_
+8	var	vere	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	9	cop	_	_
+9	folk	folk	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	2	conj	_	_
+10	som	som	PRON	_	PronType=Rel	11	nsubj	_	_
+11	sendte	sende	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	9	acl:cleft	_	_
+12	han	han	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	_
+13	med	med	ADP	_	_	11	compound:prt	_	_
+14	.	$.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
@@ -37,49 +62,19 @@ The following 12 pairs of parts of speech are connected with `expl`: <tt><a href
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 2 expl	color:blue
-1	men	men	CCONJ	_	_	5	cc	_	_
-2	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	expl	_	_
-3	var	vere	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	5	cop	_	_
-4	han	han	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	det	_	_
-5	far	far	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
-6	som	som	PRON	_	PronType=Rel	7	nsubj	_	_
-7	dreiv	drive	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	5	acl:relcl	_	_
-8	garden	gard	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	7	obj	_	_
-9	da	da	ADV	_	_	7	advmod	_	_
-10	ja	ja	INTJ	_	_	7	obl	_	_
-11	#	#	PUNCT	_	_	13	punct	_	_
-12	han	han	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	det	_	_
-13	M12	M12	PROPN	_	_	5	appos	_	_
-14	?	$?	PUNCT	_	_	5	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 expl	color:blue
-1	nei	nei	INTJ	_	_	6	discourse	_	_
-2	#	#	PUNCT	_	_	6	punct	_	_
-3	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	obl	_	_
-4	var	vere	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	6	cop	_	_
-5	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	expl	_	_
-6	best	god	ADJ	_	Definite=Ind|Degree=Sup	0	root	_	_
-7	å	å	PART	_	_	9	mark	_	_
-8	#	#	PUNCT	_	_	9	punct	_	_
-9	sleppe	sleppe	VERB	_	VerbForm=Inf	6	csubj	_	_
-10	ifrå	ifrå	ADP	_	_	3	case	_	_
-11	alt	all	DET	_	Gender=Neut|Number=Sing|PronType=Tot	12	det	_	_
-12	saman	saman	ADV	_	_	3	appos	_	_
-13	da	da	ADV	_	_	9	advmod	_	_
-14	for	for	ADP	_	_	15	case	_	_
-15	da	da	ADV	_	_	9	advmod	_	_
-16	.	$.	PUNCT	_	_	6	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 expl	color:blue
+1	var	vere	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	3	cop	_	_
+2	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+3	norske	norsk	ADJ	_	Degree=Pos|Number=Plur	0	root	_	_
+4	som	som	PRON	_	PronType=Rel	5	nsubj	_	_
+5	kontrollerte	kontrollere	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	3	acl:cleft	_	_
+6	eller	eller	CCONJ	_	_	9	cc	_	_
+7	var	vere	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	9	cop	_	_
+8	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	expl	_	_
+9	tyske	tysk	ADJ	_	Degree=Pos|Number=Plur	5	conj	_	_
+10	?	$?	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

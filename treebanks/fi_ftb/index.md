@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 
 The following people have contributed to making this treebank part of UD: Jussi Piitulainen, Hanna Nurmi.
 
-Repository: [UD_Finnish-FTB](https://github.com/UniversalDependencies/UD_Finnish-FTB)
+Repository: [UD_Finnish-FTB](https://github.com/UniversalDependencies/UD_Finnish-FTB)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_ftb)
 
 License: CC BY 4.0
 
@@ -53,15 +54,28 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
 
 ## Relations
 
-[acl](fi_ftb-dep-acl.html) – [advcl](fi_ftb-dep-advcl.html) – [advmod](fi_ftb-dep-advmod.html) – [amod](fi_ftb-dep-amod.html) – [appos](fi_ftb-dep-appos.html) – [aux](fi_ftb-dep-aux.html) – [case](fi_ftb-dep-case.html) – [cc](fi_ftb-dep-cc.html) – [ccomp](fi_ftb-dep-ccomp.html) – [compound](fi_ftb-dep-compound.html) – [compound:nn](fi_ftb-dep-compound-nn.html) – [compound:prt](fi_ftb-dep-compound-prt.html) – [conj](fi_ftb-dep-conj.html) – [cop](fi_ftb-dep-cop.html) – [csubj](fi_ftb-dep-csubj.html) – [csubj:cop](fi_ftb-dep-csubj-cop.html) – [dep](fi_ftb-dep-dep.html) – [det](fi_ftb-dep-det.html) – [discourse](fi_ftb-dep-discourse.html) – [expl](fi_ftb-dep-expl.html) – [fixed](fi_ftb-dep-fixed.html) – [flat](fi_ftb-dep-flat.html) – [goeswith](fi_ftb-dep-goeswith.html) – [mark](fi_ftb-dep-mark.html) – [nmod](fi_ftb-dep-nmod.html) – [nmod:gobj](fi_ftb-dep-nmod-gobj.html) – [nmod:gsubj](fi_ftb-dep-nmod-gsubj.html) – [nmod:own](fi_ftb-dep-nmod-own.html) – [nsubj](fi_ftb-dep-nsubj.html) – [nsubj:cop](fi_ftb-dep-nsubj-cop.html) – [nummod](fi_ftb-dep-nummod.html) – [obj](fi_ftb-dep-obj.html) – [punct](fi_ftb-dep-punct.html) – [reparandum](fi_ftb-dep-reparandum.html) – [root](fi_ftb-dep-root.html) – [vocative](fi_ftb-dep-vocative.html) – [xcomp](fi_ftb-dep-xcomp.html) – [xcomp:ds](fi_ftb-dep-xcomp-ds.html)
+[acl](fi_ftb-dep-acl.html) – [advcl](fi_ftb-dep-advcl.html) – [advmod](fi_ftb-dep-advmod.html) – [amod](fi_ftb-dep-amod.html) – [appos](fi_ftb-dep-appos.html) – [aux](fi_ftb-dep-aux.html) – [case](fi_ftb-dep-case.html) – [cc](fi_ftb-dep-cc.html) – [ccomp](fi_ftb-dep-ccomp.html) – [compound](fi_ftb-dep-compound.html) – [compound:nn](fi_ftb-dep-compound-nn.html) – [compound:prt](fi_ftb-dep-compound-prt.html) – [conj](fi_ftb-dep-conj.html) – [cop](fi_ftb-dep-cop.html) – [csubj](fi_ftb-dep-csubj.html) – [csubj:cop](fi_ftb-dep-csubj-cop.html) – [dep](fi_ftb-dep-dep.html) – [det](fi_ftb-dep-det.html) – [discourse](fi_ftb-dep-discourse.html) – [expl](fi_ftb-dep-expl.html) – [fixed](fi_ftb-dep-fixed.html) – [flat](fi_ftb-dep-flat.html) – [goeswith](fi_ftb-dep-goeswith.html) – [mark](fi_ftb-dep-mark.html) – [nmod](fi_ftb-dep-nmod.html) – [nmod:gobj](fi_ftb-dep-nmod-gobj.html) – [nmod:gsubj](fi_ftb-dep-nmod-gsubj.html) – [nsubj](fi_ftb-dep-nsubj.html) – [nsubj:cop](fi_ftb-dep-nsubj-cop.html) – [nummod](fi_ftb-dep-nummod.html) – [obj](fi_ftb-dep-obj.html) – [punct](fi_ftb-dep-punct.html) – [reparandum](fi_ftb-dep-reparandum.html) – [root](fi_ftb-dep-root.html) – [vocative](fi_ftb-dep-vocative.html) – [xcomp](fi_ftb-dep-xcomp.html) – [xcomp:ds](fi_ftb-dep-xcomp-ds.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 18723 sentences, 159314 tokens and 159612 syntactic words.</li>
+</ul>
+
+<ul>
 <li>All tokens in this corpus are followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 1120 types of words that contain both letters and punctuation. Examples: x:n, mm., EU:n, ns., NN:n, 1900-luvulta, esim., n., A:n, EU-maiden, EU:hun, Oy:n, YK:n, ja/tai, keski-ikäinen, sosiaali-, torstai-iltana, 12-vuotias, 18-vuotiaana, 1980-luvulla, 1980-luvun, B:n, Esa-Pekka, Etelä-Amerikan, Kauppa-, Kivi-juhlat, MM-kisoihin, SAK:n, SDP:n, USA:n, ala-, ala-asteen, keng-, km/h, liike-elämässä, maa-, tv:n, tv:tä, vapaa-aikana, vapaa-ajan, -henkinen, 16-vuotiaita, 16-vuotias, 1700-luvulla, 1800-luvun, 1870-luvulla, 1900-luvun, 1970-luvulla, 1970-luvun, 1990-luvulla</li>
+</ul>
+
+<ul>
 <li>This corpus contains 298 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
 <li>There are 33 types of multi-word tokens. Examples: ettei, etten, ellei, etteikö, miksei, etteivät, jollei, muttei, vaikkei, ettet, jolleivät, elleivät, ellet, ettenkö, ehkei, ettette, vaikkeivät, Mikset, ellen, jollet, vaikket, Mutteihän, ellette, etteivätkö, jolleivat, jollen, jossei, jottei, jotten, mikseipä, mutteipa, vaikkeivat, vaikken.</li>
 </ul>
@@ -72,6 +86,9 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
 
 <ul>
 <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
+</ul>
+
+<ul>
 <li>This corpus contains 304 word types tagged as particles (PART): 28v, 2h, 30-35v, 70,00%, D.E.D, Eli, Elikä, Ettäkö, Ettäs, Ihanko, Ihanks, Johan, Joko, Jokos, Jopas, K-18, Ka, Katos, Katso, Kylläpä, Liekö, Mr., Mrs., Näinkö, OK, Tuskinpa, aika, aina, ainakaan, ainaki, ainakin, ainoastaan, aivan, arviolta, eKr, eKr., edes, ees, ehk, ehkä, ehkäpä, eiku, eikun, elikkä, em., enintään, ennää, entä, entäs, enää, enään, eres, erittäin, esim, esim., etenkin, etenkään, hyvänsä, hädin, iha, iham, ihan, ihav, ja, jne, jne., jo, jokseenkin, joku, jooko, jopa, jos, jospa, jotain, jotakuinkin, just, justii, juuri, järin, kai, kaiketi, kaikkein, kaikkiaan, kaikkiansa, kait, kans, kanssa, kas, kato, katsos, kenties, kerran, kerranki, kerrankin, kerta, km/h, ko., korkeintaan, koskapa, kovin, kovinkaan, kuhan, kuitenkaan, kuitenki, kuitenkin, kumminkaan, kumminki, kumminkin, kun, kunpa, kuule, kuulemaa, kuulemma, kuulemma-, kuules, kuulkaa, kuuluu, kyl, kylhän, kyllä, kyllähän, kylläkin, kylläkään, kylläpäs, kylä, lie, lieh, lien, liene, lienee, liki, likimain, lopen, lähemmäs, lähes, läheskään, lähestulkoon, lähinnä, melkeen, melkein, melkeinpä, melkke, melko, miltei, mitä, mk/kg, mm, mm., muka, mukamas, muute, muuten, myos, myös, myöskin, myöskään, n., napin, ni, nii, niiku, niim, niin, niinkin, niinko, niinku, niinkuin, niinkun, niinpä, nikun, nimenomaan, nimittäi, nimittäin, nin, ninku, ninkun, nipin, noi, noin, ns., nuin, ny, nyk., nyt, nytten, näemmä, näet, näi, näim, näin, näinkin, näkyy, näköjeä, näköjään, nääs, o.s., oik., oikeastaan, oikeestaa, oikeestaan, olletikin, osapuilleen, pe, pelkästään, perin, peräti, plus, puolestaan, päi, päin, rp., saati, saatikka, sangen, semminkin, sen, sentää, sentään, siim, siinä, siis, silti, sitte, sitten, sittenkin, sittenkään, sitä, sitäpaitsi, suinkaan, suorastaan, taas, tahansa, tervetuloa, tiemmä, ties, tietenkin, tietenkään, tietysti, tietystikään, tms, todella, todellakaan, todellakin, toisaalta, toki, tokko, tosi, tosiaan, tosiaankaan, tosin, tota, totta, tottahan, tottakai, tuota, tuskin, v., vaa, vaan, vaikka, vaikkapa, vain, vallan, vallankin, varhmaan, varmaa, varmaan, varmaankaan, varmaankin, varmmaam, varsin, varsinkaan, varsinkin, varsinni, vas., vast, vasta, verraten, verrattain, viel, vielä, vieläk, vieläkin, vieläkö, vieläpä, vihdoin, vihdoinkin, viimein, viimeistään, vissii, vissiin, viä, viäl, vua, vv., vähintään, vähintäänkin, yhteensä, yhtikäs, yhä, yhäkö, yksinomaan, ym, yms.</li>
 </ul>
 
@@ -96,7 +113,9 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
 </ul>
 
 <ul>
-<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Fin
   <ul>
@@ -104,12 +123,18 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
     <li>VERB: on, ei, oli, en, ole, voi, ovat, olisi, eivät, tulee</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Inf
   <ul>
     <li>AUX: olla, olemaan, tulla, tehdä, ollen, tulemaan, olemasta, ollakseen, ollapa, ollessa</li>
     <li>VERB: olla, tehdä, mennä, tulla, saada, ottaa, lähteä, sanoa, käydä, käyttää</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>AUX: ollut, olevan, olleet, tullut, ollu, oltava, oltu, tuleva, kasvanut, kehkeytynyt</li>
@@ -117,14 +142,16 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
 
 
+
+
+
 <li><a>Number</a>
+
   <ul>
     <li>Plur
       <ul>
@@ -140,6 +167,9 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
         <li>VERB-Part: saaneet, olleet, olevat, tulleet, olevia, kuulleet, kertoneet, menneet, tehdyt, alkaneet</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: hyvä, hyvää, uusi, oma, ensimmäinen, uutta, uuden, suuri, ainoa, oman</li>
@@ -155,9 +185,13 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Abe
       <ul>
@@ -167,6 +201,9 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
         <li>VERB-Inf: tekemättä, ottamatta, huomaamatta, juomatta, käyttämättä, maksamatta, sanomatta, tulematta, puuttumatta, pyytämättä</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Abl
       <ul>
         <li>ADJ: hyvältä, oudolta, upealta, mukavalta, suomalaisilta, oikealta, omalta, selvältä, tutulta, uudelta</li>
@@ -178,11 +215,17 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
         <li>VERB-Part: tulehtuneelta, hämmentyneeltä, uskomattomalta, vapauttavalta, asuneilta, hakevalta, istuvalta, jäsennellyltä, loukkaantuneelta, merkityltä</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Acc
       <ul>
         <li>PRON: hänet, minut, sinut, heidät, meidät, teidät, kenet, mut, sinutkin, sut</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ade
       <ul>
         <li>ADJ: omalla, ensimmäisellä, halvalla, hyvällä, pienellä, suomalaisilla, kovalla, omilla, suurella, toisella</li>
@@ -195,6 +238,9 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
         <li>VERB-Part: saatavilla, edellyttämällä, Avatulla, Uusittavalla, ajettavilla, annetuilla, erikoistuneilla, estävällä, jakamalla, jätetyllä</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>All
       <ul>
         <li>ADJ: hyvälle, suomalaisille, kauniille, omalle, uudelle, pienelle, poliittisille, suomalaiselle, vieraalle, ahtaalle</li>
@@ -206,6 +252,9 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
         <li>VERB-Part: olevalle, sovitulle, tehdylle, tehtävälle, Syömälakkoilleelle, arvaamattomalle, hoidettavalle, hypnotisoidulle, hävinneelle, irtisanomilleen</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Com
       <ul>
         <li>ADJ: asiaankuuluvine, kiiltävine, mustine, omine, pitkine, sinisine, turhine, uusine, valkoisine, ystävällisine</li>
@@ -215,6 +264,9 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
         <li>VERB-Part: esiintyvine, kiiluvine, lisääntyvine</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ela
       <ul>
         <li>ADJ: omasta, suomalaisista, omista, uudesta, törkeästä, edellisestä, erilaisesta, erilaisista, hyvästä, kuluvasta</li>
@@ -228,6 +280,9 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
         <li>VERB-Part: aiheuttamasta, tehdyistä, tulevasta, harkitsevista, jätetyistä, olevista, puhumastaan, saavutetuista, vaikuttavista, Kasvavista</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ess
       <ul>
         <li>ADJ: ensimmäisenä, nuorena, pienenä, kuumana, tärkeänä, valmiina, vapaana, väsyneenä, hyvänä, puhtaana</li>
@@ -240,6 +295,9 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
         <li>VERB-Part: verrattuna, seuraavana, katsottuna, suhteutettuna, kuolleena, mitattuna, pidätettynä, elävänä, katottuna, kuultavana</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Gen
       <ul>
         <li>ADJ: uuden, oman, pienen, suomalaisen, ensimmäisen, erityisen, mahdollisimman, suomalaisten, hyvän, nuorten</li>
@@ -252,6 +310,9 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
         <li>VERB-Part: olevan, olevansa, kuluvan, olleen, tulevan, tulleen, kadonneen, näkevän, pitävän, tulevansa</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ill
       <ul>
         <li>ADJ: uuteen, hyvään, uusiin, pitkään, suuriin, väärään, entiseen, varsinaiseen, ensimmäiseen, isoon</li>
@@ -265,6 +326,9 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
         <li>VERB-Part: olevaan, saatuihin, sijaitsevaan, ajavaan, ajettuun, alkaviin, avanneeseen, hallitseviin, hallittaviin, haluamaansa</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ine
       <ul>
         <li>ADJ: omassa, hyvässä, hyvissä, vanhassa, pienessä, suuressa, ensimmäisessä, nykyisessä, uudessa, korkeassa</li>
@@ -278,6 +342,9 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
         <li>VERB-Part: korjattavissa, nähtävissä, tavattavissa, aistittavissa, käytettävissä, olevissa, saatavissa, tehtävissä, koskevissa, odotettavissa</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ins
       <ul>
         <li>ADJ: omin, selvin, taitavin, vähin, aistinvaraisin, halvoin, herkin, juhlallisin, jyrkin, järeämmin</li>
@@ -289,12 +356,18 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
         <li>VERB-Inf: ollen, ottaen, lukien, tullen, katsoen, sanoen, yllättäen, käyttäen, istuen, katsellen</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Lat
       <ul>
         <li>AUX-Inf: olla, tulla, tehdä, ollapa, kasvaa, kehittyä, kehittää, viimeistellä</li>
         <li>VERB-Inf: olla, tehdä, mennä, tulla, saada, ottaa, lähteä, sanoa, käydä, käyttää</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Nom
       <ul>
         <li>ADJ: hyvä, uusi, oma, ensimmäinen, suuri, ainoa, pieni, vaikea, vanha, parempi</li>
@@ -307,6 +380,9 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
         <li>VERB-Part: ollut, saanut, tullut, oleva, tehty, käynyt, sanonut, ollu, tehnyt, nähnyt</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Par
       <ul>
         <li>ADJ: hyvää, uutta, uusia, omaa, mahdollista, hauskaa, mukavaa, hyviä, parasta, sellaista</li>
@@ -319,6 +395,9 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
         <li>VERB-Part: olevia, olevaa, tehtyä, tultua, jääneitä, levättyään, aiheuttamaa, annettavaa, katsottavaa, kuultuaan</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Tra
       <ul>
         <li>ADJ: valmiiksi, hyväksi, kuuluisaksi, toiseksi, hulluksi, tyhjäksi, kuuluisiksi, kyseenalaiseksi, parhaaksi, alttiiksi</li>
@@ -333,13 +412,20 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
 
 
 
 <h3>Degree and Polarity</h3>
 
+
 <li><a>Degree</a>
+
   <ul>
     <li>Cmp
       <ul>
@@ -352,6 +438,9 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
         <li>VERB-Part: korostavampana</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sup
       <ul>
         <li>ADJ: suurin, parasta, paras, mahdollisimman, parhaat, pahin, nopein, suurimman, suurimmat, tärkeintä</li>
@@ -363,9 +452,13 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Polarity</a>
+
   <ul>
     <li>Neg
       <ul>
@@ -374,13 +467,20 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Verbal Features</h3>
 
 
+
+
 <li><a>Mood</a>
+
   <ul>
     <li>Cnd
       <ul>
@@ -388,24 +488,36 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
         <li>VERB-Fin: olisi, pitäisi, voisi, tulisi, olisin, haluaisin, luulisi, olisivat, saisi, haluaisi</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Imp
       <ul>
         <li>AUX-Fin: ole, olkaa, olkoon, olkoot, Olkaamme, Tehkää, olepa, olkoonkin, olkoonpa</li>
         <li>VERB-Fin: älä, ota, tule, älkää, anna, tulkaa, kerro, sano, olkoon, vie</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>AUX-Fin: on, oli, ovat, ole, olivat, olen, tuli, olet, tulee, olin</li>
         <li>VERB-Fin: on, oli, ole, voi, ovat, tulee, tuli, olen, saa, sanoi</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Opt
       <ul>
         <li>AUX-Fin: Ollos</li>
         <li>VERB-Fin: Kuullos, Nukkuos</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pot
       <ul>
         <li>AUX-Fin: liene, lienee, Lieneekö, lienemme, lienevät</li>
@@ -413,9 +525,13 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Tense</a>
+
   <ul>
     <li>Past
       <ul>
@@ -423,6 +539,9 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
         <li>VERB-Fin: oli, tuli, sanoi, olin, olivat, sai, ollut, piti, meni, jäi</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pres
       <ul>
         <li>AUX-Fin: on, ovat, ole, olen, olet, tulee, onko, olemme, ollaan, olette</li>
@@ -430,9 +549,13 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Voice</a>
+
   <ul>
     <li>Act
       <ul>
@@ -444,6 +567,9 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
         <li>VERB-Part: ollut, saanut, olevan, tullut, oleva, käynyt, sanonut, ollu, tehnyt, nähnyt</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pass
       <ul>
         <li>AUX-Fin: ollaan, oltiin, tehdään, tehtiin, ollaanpas, olla, Ollaanhan, ennustetaan, leivottiin, odotetaan</li>
@@ -454,12 +580,18 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Dem
       <ul>
@@ -469,6 +601,9 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
         <li>PRON: se, sen, sitä, ne, siitä, tämä, siihen, siinä, niitä, tästä</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>ADJ: jonkinlaista, samanlaisia, samanlainen, monenlaista, kaikenlaista, minkäänlaista, monenlaisia, kaikenlaisia, samanlaista, jonkinlainen</li>
@@ -477,6 +612,9 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
         <li>PRON: kaikki, mitään, joku, kukaan, jotain, toinen, muuta, kaiken, muut, jotakin</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Int
       <ul>
         <li>ADJ: millainen, minkälainen, millaisia, minkälaisen, millaisen, millaisena, millanen, mimmonen, minkälaisia, minkäslaista</li>
@@ -485,18 +623,27 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
         <li>PRON: mitä, kuka, mikä, mistä, miltä, mitäs, minkä, kenelle, ketä, kenen</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
         <li>DET: hänen, meidän, minun, heidän, mun, sinun, teidän, sun, sinä, meistä</li>
         <li>PRON: hän, minä, mä, sinä, he, me, hänen, minulla, minua, sä</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rcp
       <ul>
         <li>DET: toistensa, toisensa</li>
         <li>PRON: toisiaan, toisensa, toistaan, toisiinsa, toistensa, toisilleen, toisistaan, toisemme, toisestaan, toisiamme</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rel
       <ul>
         <li>ADJ: jollainen, jollaisen, jollaista, jollaiseksi, jollaisia, jollaiset, jollaisissa</li>
@@ -506,25 +653,37 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>NumType</a>
+
   <ul>
     <li>Card
       <ul>
         <li>NUM: kaksi, yksi, kolme, kymmenen, 10, viisi, kahden, pari, yhden, neljä</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ord
       <ul>
         <li>ADJ: ensimmäinen, ensimmäisen, toinen, toisen, toista, ensimmäisellä, ensimmäisenä, ensimmäistä, ensimmäiset, kolmas</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Reflex</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -533,9 +692,13 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Person</a>
+
   <ul>
     <li>1
       <ul>
@@ -545,6 +708,9 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
         <li>VERB-Fin: en, olen, olin, emme, sanoin, olemme, tulen, olisin, ajattelin, näin</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>AUX-Fin: olet, olette, ole, olkaa, oletko, oot, olit, olisit, Olisitpa, Olisitte</li>
@@ -553,6 +719,9 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
         <li>VERB-Fin: et, älä, olet, ette, olette, ota, saat, oot, tule, älkää</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>AUX-Fin: on, oli, ovat, olivat, olisi, tuli, tulee, onko, ei, onkin</li>
@@ -562,11 +731,17 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
 
+
+
 <li><a>Number[psor]</a>
+
   <ul>
     <li>Plur
       <ul>
@@ -580,6 +755,9 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
         <li>VERB-Part: järjestämiämme, Itkettyämme, Tekemämme, huomaavinamme, omistamanne, onnistuneenne, päätettävissänne, saavuttuamme, tekemiämme, valmistuvanne</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: parhaani, omani, omiani, Kahdeksanvuotiaani, ainoani, ikäiseni, ikäseim, kaltaiseksesi, kaltaiseni, kokoiseni</li>
@@ -596,9 +774,13 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Other Features</h3>
+
 
 <li><a>Abbr</a>
   <ul>
@@ -612,6 +794,7 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
     </li>
   </ul>
 </li>
+
 <li><a>Clitic</a>
   <ul>
     <li>Han
@@ -715,7 +898,7 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
     </li>
     <li>Ko
       <ul>
-        <li>ADJ: Kuusivuotiaanako, Luonnonsuojelullisistako, Pitkäkö, Suuriko, Vanhako, metalliseltako, tällaistako</li>
+        <li>ADJ: Kuusivuotiaanako, L​u​o​n​n​o​n​s​u​o​j​e​l​u​l​l​i​s​i​s​t​a​k​o, Pitkäkö, Suuriko, Vanhako, metalliseltako, tällaistako</li>
         <li>ADV: paljonko, kauanko, Eilenkö, Taasko, Miksikö, Noinko, Näinkö, paljoko, sielläkö</li>
         <li>AUX-Fin: onko, oliko, olenko, onks, oletko, olisiko, onk, Tuleeko, Lieneekö, Olisinko</li>
         <li>DET: montako, Tämäkö, kumpaanko, tuonko</li>
@@ -773,6 +956,7 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
     </li>
   </ul>
 </li>
+
 <li><a>Connegative</a>
   <ul>
     <li>Yes
@@ -783,6 +967,7 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
     </li>
   </ul>
 </li>
+
 <li><a>Foreign</a>
   <ul>
     <li>Yes
@@ -792,6 +977,7 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
     </li>
   </ul>
 </li>
+
 <li><a>InfForm</a>
   <ul>
     <li>1
@@ -814,6 +1000,7 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
     </li>
   </ul>
 </li>
+
 <li><a>PartForm</a>
   <ul>
     <li>Agt
@@ -840,6 +1027,7 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
     </li>
   </ul>
 </li>
+
 <li><a>Person[psor]</a>
   <ul>
     <li>1
@@ -888,6 +1076,7 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
     </li>
   </ul>
 </li>
+
 <li><a>PunctSide</a>
   <ul>
     <li>Fin
@@ -902,6 +1091,7 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
     </li>
   </ul>
 </li>
+
 <li><a>Style</a>
   <ul>
     <li>Arch
@@ -941,6 +1131,9 @@ If you want to collaborate, please contact [fin-clarin&nbsp;(æt)&nbsp;helsinki&
 
 <ul>
 <li>This corpus uses 21 lemmas as copulas (<a>cop</a>). Examples: olla, tulla, tehdä, ei, kasvaa, saada, kehittyä, kehkeytyä, odottaa, tulo, täyttää, alkaa, ennustaa, kehittää, leipoa, muodostua, muovata, sukeutua, toivoa, veikata, viimeistellä.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 54 lemmas as auxiliaries (<a>aux</a>). Examples: ei, olla, voida, pitää, saada, täytyä, tulla, alkaa, saattaa, kannattaa, taitaa, tarvita, ehtiä, näyttää, ruveta, jäädä, mahtaa, tuntua, kuulua, jättää, ryhtyä, sattua, sopia, uhata, joutaa, ottaa, tahtoa, keretä, keritä, pyrkiä, ennättää, haluta, käydä, meinata, osata, vaikuttaa, huolia, joutua, kelvata, lakata, osoittautua, parata, passata, yrittää, auttaa, did, kärsiä, minkki, näkyä, pakata.</li>
 </ul>
 
@@ -952,8 +1145,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN-Ela (69)</li>
       <li>VERB-Fin--NOUN-Gen (7)</li>
-      <li>VERB-Fin--NOUN-Nom (4231)</li>
-      <li>VERB-Fin--NOUN-Par (1054)</li>
+      <li>VERB-Fin--NOUN-Nom (4218)</li>
+      <li>VERB-Fin--NOUN-Par (1053)</li>
       <li>VERB-Fin--PRON-Acc (7)</li>
       <li>VERB-Fin--PRON-Ela (10)</li>
       <li>VERB-Fin--PRON-Gen (13)</li>
@@ -970,8 +1163,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Nom (223)</li>
       <li>VERB-Inf--PRON-Par (11)</li>
       <li>VERB-Part--NOUN-Ela (10)</li>
-      <li>VERB-Part--NOUN-Gen (228)</li>
-      <li>VERB-Part--NOUN-Nom (517)</li>
+      <li>VERB-Part--NOUN-Gen (226)</li>
+      <li>VERB-Part--NOUN-Nom (515)</li>
       <li>VERB-Part--NOUN-Par (111)</li>
       <li>VERB-Part--PRON-Ela (4)</li>
       <li>VERB-Part--PRON-Gen (124)</li>
@@ -987,8 +1180,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Ela (18)</li>
       <li>VERB-Fin--NOUN-Gen (889)</li>
       <li>VERB-Fin--NOUN-Ill (2)</li>
-      <li>VERB-Fin--NOUN-Nom (729)</li>
-      <li>VERB-Fin--NOUN-Par (1994)</li>
+      <li>VERB-Fin--NOUN-Nom (727)</li>
+      <li>VERB-Fin--NOUN-Par (1989)</li>
       <li>VERB-Fin--NOUN-Par-ADP(paitsi) (3)</li>
       <li>VERB-Fin--NOUN-Par-ADP(vaille) (1)</li>
       <li>VERB-Fin--NOUN-Tra (1)</li>
@@ -1004,8 +1197,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Ela (4)</li>
       <li>VERB-Inf--NOUN-Gen (245)</li>
       <li>VERB-Inf--NOUN-Ill (3)</li>
-      <li>VERB-Inf--NOUN-Nom (379)</li>
-      <li>VERB-Inf--NOUN-Par (1024)</li>
+      <li>VERB-Inf--NOUN-Nom (377)</li>
+      <li>VERB-Inf--NOUN-Par (1021)</li>
       <li>VERB-Inf--NOUN-Tra (1)</li>
       <li>VERB-Inf--PRON-Acc (18)</li>
       <li>VERB-Inf--PRON-Ela (1)</li>
@@ -1014,7 +1207,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Par (265)</li>
       <li>VERB-Part--NOUN-Ela (5)</li>
       <li>VERB-Part--NOUN-Gen (242)</li>
-      <li>VERB-Part--NOUN-Nom (284)</li>
+      <li>VERB-Part--NOUN-Nom (283)</li>
       <li>VERB-Part--NOUN-Par (524)</li>
       <li>VERB-Part--PRON-Acc (23)</li>
       <li>VERB-Part--PRON-Gen (66)</li>
@@ -1036,12 +1229,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 103 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: lyödä itsensä, tuntea itseni, ajatella itseäni, ajatella itseään, ampua itsensä, kunnioittaa itseään, piristää itseään, pitää itsensä, saattaa itsensä, tanssia itsensä, toteuttaa itseään, toteuttaminen itsensä, ahmia itsensä, ampua itseä, arvostaa itseäsi, asua itsensä, auttaa itseämme, elättää itsensä, esiintunkeminen itsensä, esittäminen itsensä, filmata itseään, helliminen itsensä, hemmotella itseään, hillitä itsensä, hillitä itseäni, huvittaa itseä, hyväksyä itsensä, hyväksyä itsesi, häpäistä itseni, häpäistä itsenne, höynäyttää itseään, ilmaista itseään, juoda ihtiisäj, juoda itsensä, kasvattaa itseään, katsoa itseään, kehittäminen itsensä, kehittää itseäni, kehittää itseään, kiinnostaa itseäni, kirjoituttaa itsensä, kiusata itseänne, kokea itsensä, kokea itseään, koota itsensä, kuivatella itsensä, kuivatella itseään, kuvaaminen itsensä, kuvitella itseni, kuvitella itsensä</li>
+  <li>This corpus contains 103 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: lyödä itsensä, tuntea itseni, ajatella itseäni, ajatella itseään, ampua itsensä, kunnioittaa itseään, piristää itseään, pitää itsensä, saattaa itsensä, tanssia itsensä, toteuttaa itseään, t​o​t​e​u​t​t​a​m​i​n​e​n​ ​i​t​s​e​n​s​ä, ahmia itsensä, ampua itseä, arvostaa itseäsi, asua itsensä, auttaa itseämme, elättää itsensä, e​s​i​i​n​t​u​n​k​e​m​i​n​e​n​ ​i​t​s​e​n​s​ä, esittäminen itsensä, filmata itseään, helliminen itsensä, hemmotella itseään, hillitä itsensä, hillitä itseäni, huvittaa itseä, hyväksyä itsensä, hyväksyä itsesi, häpäistä itseni, häpäistä itsenne, höynäyttää itseään, ilmaista itseään, juoda ihtiisäj, juoda itsensä, kasvattaa itseään, katsoa itseään, kehittäminen itsensä, kehittää itseäni, kehittää itseään, kiinnostaa itseäni, kirjoituttaa itsensä, kiusata itseänne, kokea itsensä, kokea itseään, koota itsensä, kuivatella itsensä, kuivatella itseään, kuvaaminen itsensä, kuvitella itseni, kuvitella itsensä</li>
+    <ul>
+      <li>Out of those, 3 lemmas occurred more than once, but never without a reflexive dependent. Examples: hillitä, häpäistä, piristää</li>
+    </ul>
 </ul>
 
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 8 relation subtypes: <a>compound:nn</a>, <a>compound:prt</a>, <a>csubj:cop</a>, <a>nmod:gobj</a>, <a>nmod:gsubj</a>, <a>nmod:own</a>, <a>nsubj:cop</a>, <a>xcomp:ds</a></li>
+<li>This corpus uses 7 relation subtypes: <a>compound:nn</a>, <a>compound:prt</a>, <a>csubj:cop</a>, <a>nmod:gobj</a>, <a>nmod:gsubj</a>, <a>nsubj:cop</a>, <a>xcomp:ds</a></li>
 <li>The following 7 relation types are not used in this corpus at all: <a>iobj</a>, <a>obl</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a></li>
 </ul>

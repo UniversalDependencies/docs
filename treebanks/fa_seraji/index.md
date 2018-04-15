@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Persian'
+title:  'UD_Persian-Seraji'
 udver: '2'
 ---
 
@@ -9,7 +9,7 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Persian
+# UD Persian Seraji
 
 Language: [Persian](../fa/overview/fa-hub.html) (code: `fa`)<br/>
 Family: Indo-European, Iranian
@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 
 The following people have contributed to making this treebank part of UD: Mojgan Seraji, Filip Ginter, Joakim Nivre.
 
-Repository: [UD_Persian](https://github.com/UniversalDependencies/UD_Persian)
+Repository: [UD_Persian-Seraji](https://github.com/UniversalDependencies/UD_Persian-Seraji)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfa_seraji)
 
 License: CC BY-SA 4.0
 
@@ -26,7 +27,7 @@ Genre: news, fiction, medical, legal, social, spoken, nonfiction
 
 Questions, comments?
 General annotation questions (either Persian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Persian/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Persian-Seraji/issues).
 If you want to collaborate, please contact [mojgan&nbsp;•&nbsp;seraji96&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
@@ -54,27 +55,40 @@ The conversion of the UPDT to the Universal Dependencies has been carried out se
 The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji in collaboration with Filip Ginter. The annotations (PoS tags and dependency relations) were manually checked and corrected by Mojgan Seraji. The universal morphological features and lemmas were further added by Mojgan. The process has been carried out in consultation with Joakim Nivre. The original UPDT was also developed by Mojgan Seraji at Uppsala University. Mojgan is deeply thankful to Joakim Nivre and Carina Jahani for their consultations during the development of the UPDT.
 
 
-# Statistics of UD Persian
+# Statistics of UD Persian Seraji
 
 ## POS Tags
 
-[ADJ](fa-pos-ADJ.html) – [ADP](fa-pos-ADP.html) – [ADV](fa-pos-ADV.html) – [AUX](fa-pos-AUX.html) – [CCONJ](fa-pos-CCONJ.html) – [DET](fa-pos-DET.html) – [INTJ](fa-pos-INTJ.html) – [NOUN](fa-pos-NOUN.html) – [NUM](fa-pos-NUM.html) – [PART](fa-pos-PART.html) – [PRON](fa-pos-PRON.html) – [PUNCT](fa-pos-PUNCT.html) – [SCONJ](fa-pos-SCONJ.html) – [VERB](fa-pos-VERB.html) – [X](fa-pos-X.html)
+[ADJ](fa_seraji-pos-ADJ.html) – [ADP](fa_seraji-pos-ADP.html) – [ADV](fa_seraji-pos-ADV.html) – [AUX](fa_seraji-pos-AUX.html) – [CCONJ](fa_seraji-pos-CCONJ.html) – [DET](fa_seraji-pos-DET.html) – [INTJ](fa_seraji-pos-INTJ.html) – [NOUN](fa_seraji-pos-NOUN.html) – [NUM](fa_seraji-pos-NUM.html) – [PART](fa_seraji-pos-PART.html) – [PRON](fa_seraji-pos-PRON.html) – [PUNCT](fa_seraji-pos-PUNCT.html) – [SCONJ](fa_seraji-pos-SCONJ.html) – [VERB](fa_seraji-pos-VERB.html) – [X](fa_seraji-pos-X.html)
 
 ## Features
 
-[Case](fa-feat-Case.html) – [Degree](fa-feat-Degree.html) – [Mood](fa-feat-Mood.html) – [Number](fa-feat-Number.html) – [NumType](fa-feat-NumType.html) – [Person](fa-feat-Person.html) – [Polarity](fa-feat-Polarity.html) – [PronType](fa-feat-PronType.html) – [Reflex](fa-feat-Reflex.html) – [Tense](fa-feat-Tense.html) – [VerbForm](fa-feat-VerbForm.html)
+[Case](fa_seraji-feat-Case.html) – [Degree](fa_seraji-feat-Degree.html) – [Mood](fa_seraji-feat-Mood.html) – [Number](fa_seraji-feat-Number.html) – [NumType](fa_seraji-feat-NumType.html) – [Person](fa_seraji-feat-Person.html) – [Polarity](fa_seraji-feat-Polarity.html) – [PronType](fa_seraji-feat-PronType.html) – [Reflex](fa_seraji-feat-Reflex.html) – [Tense](fa_seraji-feat-Tense.html) – [VerbForm](fa_seraji-feat-VerbForm.html)
 
 ## Relations
 
-[acl:relcl](fa-dep-acl-relcl.html) – [advcl](fa-dep-advcl.html) – [advmod](fa-dep-advmod.html) – [amod](fa-dep-amod.html) – [appos](fa-dep-appos.html) – [aux](fa-dep-aux.html) – [aux:pass](fa-dep-aux-pass.html) – [case](fa-dep-case.html) – [cc](fa-dep-cc.html) – [cc:preconj](fa-dep-cc-preconj.html) – [ccomp](fa-dep-ccomp.html) – [compound](fa-dep-compound.html) – [compound:lvc](fa-dep-compound-lvc.html) – [compound:prt](fa-dep-compound-prt.html) – [conj](fa-dep-conj.html) – [cop](fa-dep-cop.html) – [dep](fa-dep-dep.html) – [det](fa-dep-det.html) – [det:predet](fa-dep-det-predet.html) – [dislocated](fa-dep-dislocated.html) – [fixed](fa-dep-fixed.html) – [flat](fa-dep-flat.html) – [flat:foreign](fa-dep-flat-foreign.html) – [mark](fa-dep-mark.html) – [nmod](fa-dep-nmod.html) – [nmod:poss](fa-dep-nmod-poss.html) – [nsubj](fa-dep-nsubj.html) – [nsubj:nc](fa-dep-nsubj-nc.html) – [nsubj:pass](fa-dep-nsubj-pass.html) – [nummod](fa-dep-nummod.html) – [obj](fa-dep-obj.html) – [obl](fa-dep-obl.html) – [parataxis](fa-dep-parataxis.html) – [punct](fa-dep-punct.html) – [root](fa-dep-root.html) – [vocative](fa-dep-vocative.html) – [xcomp](fa-dep-xcomp.html)
+[acl:relcl](fa_seraji-dep-acl-relcl.html) – [advcl](fa_seraji-dep-advcl.html) – [advmod](fa_seraji-dep-advmod.html) – [amod](fa_seraji-dep-amod.html) – [appos](fa_seraji-dep-appos.html) – [aux](fa_seraji-dep-aux.html) – [aux:pass](fa_seraji-dep-aux-pass.html) – [case](fa_seraji-dep-case.html) – [cc](fa_seraji-dep-cc.html) – [cc:preconj](fa_seraji-dep-cc-preconj.html) – [ccomp](fa_seraji-dep-ccomp.html) – [compound](fa_seraji-dep-compound.html) – [compound:lvc](fa_seraji-dep-compound-lvc.html) – [compound:prt](fa_seraji-dep-compound-prt.html) – [conj](fa_seraji-dep-conj.html) – [cop](fa_seraji-dep-cop.html) – [dep](fa_seraji-dep-dep.html) – [det](fa_seraji-dep-det.html) – [det:predet](fa_seraji-dep-det-predet.html) – [dislocated](fa_seraji-dep-dislocated.html) – [fixed](fa_seraji-dep-fixed.html) – [flat](fa_seraji-dep-flat.html) – [flat:foreign](fa_seraji-dep-flat-foreign.html) – [mark](fa_seraji-dep-mark.html) – [nmod](fa_seraji-dep-nmod.html) – [nmod:poss](fa_seraji-dep-nmod-poss.html) – [nsubj](fa_seraji-dep-nsubj.html) – [nsubj:nc](fa_seraji-dep-nsubj-nc.html) – [nsubj:pass](fa_seraji-dep-nsubj-pass.html) – [nummod](fa_seraji-dep-nummod.html) – [obj](fa_seraji-dep-obj.html) – [obl](fa_seraji-dep-obl.html) – [parataxis](fa_seraji-dep-parataxis.html) – [punct](fa_seraji-dep-punct.html) – [root](fa_seraji-dep-root.html) – [vocative](fa_seraji-dep-vocative.html) – [xcomp](fa_seraji-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 5997 sentences, 151625 tokens and 152920 syntactic words.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 13133 tokens (9%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 2 types of words that contain both letters and punctuation. Examples: بود؛, می‌زد؛</li>
+</ul>
+
+<ul>
 <li>This corpus contains 1291 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
 <li>There are 715 types of multi-word tokens. Examples: خودش، خودشان، خودم، مرا، معتقدند، بدین، برایش، خودت، دلم، اوست، چیست، کشورمان، ماست، پیداست، خودمان، پدرش، درین، بدان، سرش، مادرش، همسرم، پدرم، آخرش، آن‌هاست، امیدواریم، خانواده‌اش، نامه‌ات، ازین، امیدوارم، امیدوارند، بهش، دستش، دلش، همه‌اش، پایش، کارش، کجاست، آزادند، ارزشهاست، برخوردارند، توست، خانه‌اش، خداست، خودتان، رویش، زین، صدایش، قبلی‌اش، مدتهاست، منظورم.</li>
 </ul>
@@ -86,6 +100,9 @@ The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji
 <ul>
 <li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: PROPN, SYM</li>
+</ul>
+
+<ul>
 <li>This corpus contains 3 word types tagged as particles (PART): را, رو, و</li>
 </ul>
 
@@ -110,7 +127,9 @@ The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji
 </ul>
 
 <ul>
-<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Fin
   <ul>
@@ -118,11 +137,17 @@ The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji
     <li>VERB: بتواند, بتوانند, بتوانم, بتوانیم</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Inf
   <ul>
     <li>AUX: باید, نباید, بایستی, می‌باید, می‌بایست, بباید, می‌شود, نمی‌باید, نبایستی, نمی‌بایست</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>ADJ: آمده, ساخته, یادشده, بسته, توقیف‌شده, ناخواسته, انجام‌شده, عقب‌افتاده, کاسته, کشته</li>
@@ -131,14 +156,16 @@ The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
 
 
+
+
+
 <li><a>Number</a>
+
   <ul>
     <li>Plur
       <ul>
@@ -152,6 +179,9 @@ The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji
         <li>VERB-Part: کرده‌اند, داده‌اند, داشته‌اند, گرفته‌اند, گفته‌اند, نکرده‌اند, آمده‌اند, بوده‌اند, شده‌اند, نوشته‌اند</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ-Part: آمده, ساخته, یادشده, بسته, توقیف‌شده, ناخواسته, انجام‌شده, عقب‌افتاده, کاسته, کشته</li>
@@ -166,53 +196,80 @@ The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Loc
       <ul>
         <li>ADV: بالا, اینجا, آنجا, پیش, بیرون, پایین, آن‌جا, زیر</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Tem
       <ul>
         <li>ADV: بعد, پس, پیش, حالا, امروز, قبل, اکنون, کنون, همیشه, دیروز</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Voc
       <ul>
         <li>NOUN: پروردگارا, الهی, حافظا</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
 
 
 
 <h3>Degree and Polarity</h3>
 
+
 <li><a>Degree</a>
+
   <ul>
     <li>Cmp
       <ul>
         <li>ADJ: بیشتر, بیش, کمتر, بیشتری, بهتر, بالاتر, برتر, بزرگتر, فراتر, نزدیکتر</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>ADJ: اسلامی, دیگر, سیاسی, دوم, گذشته, فرهنگی, جدید, چند, ملی, پیدا</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sup
       <ul>
         <li>ADJ: نخستین, بهترین, اولین, آخرین, بزرگترین, دومین, مهمترین, بیشترین, سومین, بالاترین</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Polarity</a>
+
   <ul>
     <li>Neg
       <ul>
@@ -227,13 +284,20 @@ The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Verbal Features</h3>
 
 
+
+
 <li><a>Mood</a>
+
   <ul>
     <li>Imp
       <ul>
@@ -241,6 +305,9 @@ The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji
         <li>VERB: کن, گو, بگو, بگیر, بده, ببین, برو, بیا, بدانید, بزن</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sub
       <ul>
         <li>AUX: شود, باشد, باشند, بشود, شوند, نباشد, گردد, نشود, بشوند, باشید</li>
@@ -250,15 +317,22 @@ The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Tense</a>
+
   <ul>
     <li>Fut
       <ul>
         <li>AUX-Fin: خواهد, خواهند, نخواهد, خواهم, خواهیم, نخواهم, نخواهند, خواهی, خواهید, نخواهی</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Past
       <ul>
         <li>AUX: بود, شد, بودند, می‌شد, شدند, نبود, بودم, نشد, می‌شدند, نمی‌شد</li>
@@ -266,6 +340,9 @@ The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji
         <li>VERB: کرد, گفت, بود, داشت, کردند, داد, افزود, گرفت, بودند, می‌کرد</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pres
       <ul>
         <li>AUX: است, می‌شود, نیست, شود, باشد, هستند, ست, ند, می‌شوند, باشند</li>
@@ -275,59 +352,91 @@ The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
 
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Dem
       <ul>
         <li>PRON: آن, این, آن‌ها, آنان, این‌ها, همین, آنرا, همان, اینان, دان</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>PRON: بعضی, برخی, دیگران, هرکس, یک, دیگری, بعضی‌ها, بسیاری, تک‌تک, دیگر</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Int
       <ul>
         <li>ADV: چه, چرا, چی, چگونه, کجا, مگر, چقدر, چطور, کی, چه‌طور</li>
         <li>PRON: هرکه, کی</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neg
       <ul>
         <li>PRON: هیچکدام, هیچکس, هیچیک, هیچ‌یک</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
         <li>PRON: خود, او, ما, ش, من, وی, تو, شان, م, شما</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rcp
       <ul>
         <li>PRON: هم, یکدیگر, همدیگر</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rel
       <ul>
         <li>PRON: آنچه</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Tot
       <ul>
         <li>PRON: همه, همهٔ, همگی, همگان, همه‌, تمام, هرکدام</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>NumType</a>
+
   <ul>
     <li>Card
       <ul>
@@ -335,10 +444,15 @@ The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Reflex</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -346,9 +460,13 @@ The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Person</a>
+
   <ul>
     <li>1
       <ul>
@@ -361,6 +479,9 @@ The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji
         <li>VERB-Part: کرده‌ایم, کرده‌ام, آمده‌ام, آمده‌ایم, دیده‌ایم, خوانده‌ام, داده‌ام, دیده‌ام, نکرده‌ام, نیامده‌ایم</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>AUX: هستی, باشید, نیستی, باش, هستید, ای, ید, باشی, خواهی, شده‌ای</li>
@@ -371,6 +492,9 @@ The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji
         <li>VERB-Part: شنیده‌اید, کرده‌ای, کرده‌اید, نوشته‌ای, داده‌ای, ساخته‌ای, آمده‌ای, آمده‌اید, افکنده‌ای, بوده‌اید</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>ADJ-Part: آمده, ساخته, یادشده, بسته, توقیف‌شده, ناخواسته, انجام‌شده, عقب‌افتاده, کاسته, کشته</li>
@@ -384,7 +508,13 @@ The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
+
 
 
 
@@ -398,6 +528,9 @@ The conversion of the UPDT to the Persian UD has been performed by Mojgan Seraji
 
 <ul>
 <li>This corpus uses 17 lemmas as copulas (<a>cop</a>). Examples: کرد#کن، است، بود#باش، هست، بود، _، گشت#گرد، کرد، گردید#گرد، آورد#آور، باد، برد#بر، داشت#دار، زایید#زا، ساخت#ساز، شدید، مجدد.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 12 lemmas as auxiliaries (<a>aux</a>). Examples: است، خواست#خواه، بایست#باید، بود#باش، توانست#توان، بود، توان، _، داشت#دار، کرد#کن، آمد#آ، رفت#رو.</li>
 <li>This corpus uses 4 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: کرد#کن، بود#باش، کرد، گشت#گرد.</li>
 </ul>

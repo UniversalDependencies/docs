@@ -59,9 +59,9 @@ The most frequent other feature values with which `NOUN` and `Mood` co-occurred:
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="no_nynorsklia-dep-conj.html">conj</a></tt>]--> VERB</tt> (174; 80%),
-<tt>VERB --[<tt><a href="no_nynorsklia-dep-parataxis-deletion.html">parataxis:deletion</a></tt>]--> VERB</tt> (45; 85%),
-<tt>VERB --[<tt><a href="no_nynorsklia-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (44; 94%),
+<tt>VERB --[<tt><a href="no_nynorsklia-dep-conj.html">conj</a></tt>]--> VERB</tt> (172; 80%),
+<tt>VERB --[<tt><a href="no_nynorsklia-dep-parataxis-deletion.html">parataxis:deletion</a></tt>]--> VERB</tt> (46; 85%),
+<tt>VERB --[<tt><a href="no_nynorsklia-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (46; 94%),
 <tt>VERB --[<tt><a href="no_nynorsklia-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (38; 73%),
 <tt>VERB --[<tt><a href="no_nynorsklia-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (21; 57%),
 <tt>VERB --[<tt><a href="no_nynorsklia-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (4; 57%),

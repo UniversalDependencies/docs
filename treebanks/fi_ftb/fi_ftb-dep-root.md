@@ -11,9 +11,9 @@ This relation is universal.
 18723 nodes (12%) are attached to their parents as `root`.
 
 18723 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.52037600811836.
+Average distance between parent and child is 3.51498157346579.
 
-The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (14082; 75% instances), -<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (2510; 13% instances), -<tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (1577; 8% instances), -<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (165; 1% instances), -<tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (161; 1% instances), -<tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (91; 0% instances), -<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (42; 0% instances), -<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (37; 0% instances), -<tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (36; 0% instances), -<tt><a href="fi_ftb-pos-X.html">X</a></tt> (15; 0% instances), -<tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances).
+The following 11 pairs of parts of speech are connected with `root`: -<tt><a href="fi_ftb-pos-VERB.html">VERB</a></tt> (14086; 75% instances), -<tt><a href="fi_ftb-pos-NOUN.html">NOUN</a></tt> (2490; 13% instances), -<tt><a href="fi_ftb-pos-ADJ.html">ADJ</a></tt> (1574; 8% instances), -<tt><a href="fi_ftb-pos-PRON.html">PRON</a></tt> (165; 1% instances), -<tt><a href="fi_ftb-pos-PROPN.html">PROPN</a></tt> (161; 1% instances), -<tt><a href="fi_ftb-pos-ADV.html">ADV</a></tt> (91; 0% instances), -<tt><a href="fi_ftb-pos-PART.html">PART</a></tt> (42; 0% instances), -<tt><a href="fi_ftb-pos-INTJ.html">INTJ</a></tt> (37; 0% instances), -<tt><a href="fi_ftb-pos-NUM.html">NUM</a></tt> (36; 0% instances), -<tt><a href="fi_ftb-pos-X.html">X</a></tt> (34; 0% instances), -<tt><a href="fi_ftb-pos-SCONJ.html">SCONJ</a></tt> (7; 0% instances).
 
 
 ~~~ conllu

@@ -19,38 +19,38 @@ The 10 most frequent ambiguous types:  <em>to</em> (<tt><a href="sl_sst-pos-DET.
 
 
 * <em>to</em>
-  * <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 515: <em>zdaj mogoče <b>to</b> ni treba vsepovsod</em>
+  * <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 515: <em>in <b>to</b> so mešali kar eno olje pa ene take č [gap] stare barve</em>
   * <tt><a href="sl_sst-pos-X.html">X</a></tt> 1: <em>mi smo kar eee kolega ni povedal v letošnjem letu intenzivirali obnavljanje in eee eee gradnjo na progi in pri tem opravili s [gap] <b>to</b> [gap] opisano povečanje tovornega prometa navkljub</em>
 * <em>malo</em>
-  * <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 60: <em>in spodaj so vsi komentini <b>malo</b> istrijani <b>malo</b> po hrvaško</em>
+  * <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 60: <em>ampak če nimate sline je to <b>malo</b> težje ne</em>
   * <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 3: <em>ker nama je bilo ful všeč tako <b>malo</b> mestece tako mir kar pa [gap]</em>
 * <em>vse</em>
-  * <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 58: <em>vsakič znova je koristno ker vsakič je <b>vse</b> znova ne</em>
-  * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 7: <em>mislim kaj znaš kako je [gap] takšen je bil ej tako je visel samo pa tako <b>vse</b> [:voice]</em>
+  * <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 58: <em>aha z [name:personal] <b>vse</b> uštimamo</em>
+  * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 7: <em>[gap] tole so <b>vse</b> karavanke in tukaj je en sicer ne to je že pohorje zdaj pa [gap]</em>
 * <em>nič</em>
-  * <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 41: <em>pač en tak oblačen četrtek je pred nami <b>nič</b> hudega</em>
-  * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 22: <em>kaj da ne more <b>nič</b> ?</em>
+  * <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 41: <em>ja kar stopi ja tako tako … ja absolutno še noben ni skoraj <b>nič</b> [gap] ja</em>
+  * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 22: <em>vsi pravijo da tam <b>nič</b> ne more noben zmeniti</em>
 * <em>te</em>
-  * <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 37: <em>mhm … ja vse je do <b>te</b> višine a ne</em>
-  * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 21: <em>eee to bi <b>te</b> bilo vse ven pobrati samo jaz sem to ne imela toliko časa</em>
-  * <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 13: <em>[gap] iščem pa [gap] ne <b>te</b> najdem [audience:laughter]</em>
+  * <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 37: <em>ja pa so vam pol tudi gnoj dali za <b>te</b> njive pa ?</em>
+  * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 21: <em>no <b>te</b> se pa lahko v sredo dobiva ne ?</em>
+  * <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 13: <em>daj naj požri boli <b>te</b> kurac</em>
 * <em>več</em>
-  * <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 27: <em>dosti je <b>več</b> tako ni ne videti</em>
+  * <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 27: <em>polovico <b>več</b> ne rabimo da vidimo preskok</em>
   * <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 16: <em>ne ne bom <b>več</b> [all:laughter] ampak ne ful mi je dober</em>
 * <em>ti</em>
-  * <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 100: <em>ko bo prišel domov pa <b>ti</b> bo stopnice pokozlal</em>
+  * <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 100: <em><b>ti</b> nalijem še zraven ?</em>
   * <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 15: <em>samo <b>ti</b> pa niso v oplotnici doma <b>ti</b> so jo v zrečah</em>
   * <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 1: <em>pa če noče zaspati ko je še mala pa ji špilaš pred posteljico veš [audience:laughter] tako delaš <b>ti</b> di di pa še igraš</em>
   * <tt><a href="sl_sst-pos-X.html">X</a></tt> 1: <em>in se smejem kot matasta tipo ki že costi <b>ti</b> ga bi bujeri ser [all:laughter]</em>
 * <em>oni</em>
-  * <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 12: <em>aja <b>oni</b> je bil tu v zrečah nekaj pri eni teti ali kako</em>
-  * <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 12: <em>ker <b>oni</b> naprej svoje terajo denar držijo</em>
+  * <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 12: <em>na glavnik <b>oni</b> špila [gap] [name:surname] ja tam je [name:surname]</em>
+  * <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> 12: <em>in tako so <b>oni</b> nekako izvabili ven resnico oziroma odkrili laž</em>
 * <em>veliko</em>
-  * <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 12: <em>vrtičkarji imate gotovo aprila <b>veliko</b> dela</em>
+  * <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 12: <em>razlogov more biti zagotovo <b>veliko</b></em>
   * <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 3: <em>jutranji pogled na cerkev je bil za vaščane <b>veliko</b> presenečenje</em>
 * <em>tako</em>
-  * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 233: <em>na vrhu je <b>tako</b> kot si rekla en šef lahko sta tudi dva</em>
-  * <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 51: <em><b>tako</b> da pazi</em>
+  * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 233: <em>in <b>tako</b> so oni nekako izvabili ven resnico oziroma odkrili laž</em>
+  * <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 51: <em><b>tako</b> da mogoče je to celo zanimivo ne</em>
   * <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 11: <em>o <b>tako</b> obleko bi jaz imela</em>
 
 ## Morphology

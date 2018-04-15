@@ -19,7 +19,7 @@ The 10 most frequent ambiguous types:  <em>un</em> (<tt><a href="gl_treegal-pos-
 
 
 * <em>un</em>
-  * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 250: <em>Entrou como <b>un</b> canón con Tesis .</em>
+  * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 250: <em>Touriño dá <b>un</b> xiro en a súa estratexia de campaña</em>
   * <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> 13: <em>Ese foi <b>un</b> de os temas que máis discutimos en a Asamblea Constituínte .</em>
   * <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> 9: <em>Menos que agora , se é <b>un</b> cuarto de hora para un recado rápido .</em>
 * <em>primeiro</em>
@@ -38,13 +38,13 @@ The 10 most frequent ambiguous types:  <em>un</em> (<tt><a href="gl_treegal-pos-
   * <tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> 4: <em>Igualmente , o mantemento de os niveis básicos de benestar medidos <b>segundo</b> os parámetros de a renda básica , vivenda , educación e sanidade .</em>
   * <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> 1: <em>Esa cooperación estendeu se tamén a outras iniciativas como a modificación de o proxecto de o <b>segundo</b> cinto de circunvalación para que incluíse un acceso directo a Balaídos ou o debuxo en o novo PXOM de unha superficie industrial que lle facilitase a a Zona Franca a ampliación de o reducido polígono onde está ubicada a factoría automobilística .</em>
 * <em>unha</em>
-  * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 172: <em>A a dereita , Lech Walesa en <b>unha</b> fotografía de 1999 .</em>
+  * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 172: <em>Walesa critica <b>unha</b> emisora católica</em>
   * <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> 8: <em>A familiaridade é <b>unha</b> de elas .</em>
   * <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> 1: <em>Pero seguramente máis que agora , por <b>unha</b> hora ou máis .</em>
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.066667 (the average of all parts of speech is 1.370813).
+The form / lemma ratio of `NUM` is 1.066667 (the average of all parts of speech is 1.370902).
 
 The 1st highest number of forms (4) was observed with the lemma “primeiro”: <em>primeira, primeiras, primeiro, primeiros</em>.
 

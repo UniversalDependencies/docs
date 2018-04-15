@@ -6,7 +6,8 @@ udver: '2'
 
 ## Treebank Statistics: UD_French-Sequoia: Relations: `obl:agent`
 
-This relation is a language-specific subtype of <tt><a href="fr_sequoia-dep-obl.html">obl</a></tt>.
+This relation is a language-specific subtype of .
+There are also 2 other language-specific subtypes of `obl`: <tt><a href="fr_sequoia-dep-obl-arg.html">obl:arg</a></tt>, <tt><a href="fr_sequoia-dep-obl-mod.html">obl:mod</a></tt>.
 
 282 nodes (0%) are attached to their parents as `obl:agent`.
 
@@ -28,7 +29,7 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 4	subventionné	subventionner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 5	à	à	ADP	_	_	7	case	_	_
 6	50	50	NUM	_	NumType=Card	7	nummod	_	SpaceAfter=No
-7	%	%	NOUN	_	Gender=Masc	4	obl	_	_
+7	%	%	NOUN	_	Gender=Masc	4	obl:mod	_	_
 8	par	par	ADP	_	_	10	case	_	_
 9	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	conseil	conseil	NOUN	_	Gender=Masc|Number=Sing	4	obl:agent	_	_
@@ -51,12 +52,12 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 5	démontré	démontrer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl	_	_
 6	par	par	ADP	_	_	7	case	_	_
 7	Aclasta	Aclasta	PROPN	_	_	5	obl:agent	_	_
-8	à	à	ADP	_	_	13	case	_	_
+8	à	à	ADP	_	_	13	case	_	MWE=au_cours_de|MWEPOS=ADP
 9	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	fixed	_	_
 10	cours	cours	NOUN	_	Gender=Masc	8	fixed	_	_
 11	de	de	ADP	_	_	8	fixed	_	_
 12	les	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
-13	études	étude	NOUN	_	Gender=Fem|Number=Plur	5	obl	_	_
+13	études	étude	NOUN	_	Gender=Fem|Number=Plur	5	obl:mod	_	_
 14	?	?	PUNCT	_	_	1	punct	_	_
 
 ~~~
@@ -94,10 +95,10 @@ The following 3 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 24	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
 25	caporal	caporal	NOUN	_	Gender=Masc|Number=Sing	23	nsubj	_	_
 26	Maupas	Maupas	PROPN	_	Gender=Masc|Number=Sing	25	flat:name	_	_
-27	lors	lors	ADV	_	_	30	case	_	_
+27	lors	lors	ADV	_	_	30	case	_	MWE=lors_de|MWEPOS=ADP
 28	de	de	ADP	_	_	27	fixed	_	_
 29	son	son	DET	_	Number=Sing|Poss=Yes	30	det	_	_
-30	interrogatoire	interrogatoire	NOUN	_	Gender=Masc|Number=Sing	23	obl	_	SpaceAfter=No
+30	interrogatoire	interrogatoire	NOUN	_	Gender=Masc|Number=Sing	23	obl:mod	_	SpaceAfter=No
 31	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~

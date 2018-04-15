@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Greek'
+title:  'UD_Greek-GDT'
 udver: '2'
 ---
 
@@ -9,7 +9,7 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Greek
+# UD Greek GDT
 
 Language: [Greek](../el/overview/el-hub.html) (code: `el`)<br/>
 Family: Indo-European, Greek
@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 
 The following people have contributed to making this treebank part of UD: Prokopis Prokopidis.
 
-Repository: [UD_Greek](https://github.com/UniversalDependencies/UD_Greek)
+Repository: [UD_Greek-GDT](https://github.com/UniversalDependencies/UD_Greek-GDT)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udel_gdt)
 
 License: CC BY-NC-SA 3.0
 
@@ -26,7 +27,7 @@ Genre: news, wiki, spoken
 
 Questions, comments?
 General annotation questions (either Greek-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Greek/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Greek-GDT/issues).
 If you want to collaborate, please contact [prokopis&nbsp;(æt)&nbsp;ilsp&nbsp;•&nbsp;gr].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
@@ -73,27 +74,40 @@ for Language and Speech Processing, the University of Athens and the
 National Technical University of Athens.
 
 
-# Statistics of UD Greek
+# Statistics of UD Greek GDT
 
 ## POS Tags
 
-[ADJ](el-pos-ADJ.html) – [ADP](el-pos-ADP.html) – [ADV](el-pos-ADV.html) – [AUX](el-pos-AUX.html) – [CCONJ](el-pos-CCONJ.html) – [DET](el-pos-DET.html) – [NOUN](el-pos-NOUN.html) – [NUM](el-pos-NUM.html) – [PART](el-pos-PART.html) – [PRON](el-pos-PRON.html) – [PROPN](el-pos-PROPN.html) – [PUNCT](el-pos-PUNCT.html) – [SCONJ](el-pos-SCONJ.html) – [SYM](el-pos-SYM.html) – [VERB](el-pos-VERB.html) – [X](el-pos-X.html)
+[ADJ](el_gdt-pos-ADJ.html) – [ADP](el_gdt-pos-ADP.html) – [ADV](el_gdt-pos-ADV.html) – [AUX](el_gdt-pos-AUX.html) – [CCONJ](el_gdt-pos-CCONJ.html) – [DET](el_gdt-pos-DET.html) – [NOUN](el_gdt-pos-NOUN.html) – [NUM](el_gdt-pos-NUM.html) – [PART](el_gdt-pos-PART.html) – [PRON](el_gdt-pos-PRON.html) – [PROPN](el_gdt-pos-PROPN.html) – [PUNCT](el_gdt-pos-PUNCT.html) – [SCONJ](el_gdt-pos-SCONJ.html) – [SYM](el_gdt-pos-SYM.html) – [VERB](el_gdt-pos-VERB.html) – [X](el_gdt-pos-X.html)
 
 ## Features
 
-[Abbr](el-feat-Abbr.html) – [Aspect](el-feat-Aspect.html) – [Case](el-feat-Case.html) – [Definite](el-feat-Definite.html) – [Degree](el-feat-Degree.html) – [Foreign](el-feat-Foreign.html) – [Gender](el-feat-Gender.html) – [Mood](el-feat-Mood.html) – [Number](el-feat-Number.html) – [NumType](el-feat-NumType.html) – [Person](el-feat-Person.html) – [Poss](el-feat-Poss.html) – [PronType](el-feat-PronType.html) – [Tense](el-feat-Tense.html) – [VerbForm](el-feat-VerbForm.html) – [Voice](el-feat-Voice.html)
+[Abbr](el_gdt-feat-Abbr.html) – [Aspect](el_gdt-feat-Aspect.html) – [Case](el_gdt-feat-Case.html) – [Definite](el_gdt-feat-Definite.html) – [Degree](el_gdt-feat-Degree.html) – [Foreign](el_gdt-feat-Foreign.html) – [Gender](el_gdt-feat-Gender.html) – [Mood](el_gdt-feat-Mood.html) – [Number](el_gdt-feat-Number.html) – [NumType](el_gdt-feat-NumType.html) – [Person](el_gdt-feat-Person.html) – [Poss](el_gdt-feat-Poss.html) – [PronType](el_gdt-feat-PronType.html) – [Tense](el_gdt-feat-Tense.html) – [VerbForm](el_gdt-feat-VerbForm.html) – [Voice](el_gdt-feat-Voice.html)
 
 ## Relations
 
-[acl](el-dep-acl.html) – [acl:relcl](el-dep-acl-relcl.html) – [advcl](el-dep-advcl.html) – [advmod](el-dep-advmod.html) – [amod](el-dep-amod.html) – [appos](el-dep-appos.html) – [aux](el-dep-aux.html) – [case](el-dep-case.html) – [cc](el-dep-cc.html) – [ccomp](el-dep-ccomp.html) – [compound](el-dep-compound.html) – [conj](el-dep-conj.html) – [cop](el-dep-cop.html) – [csubj](el-dep-csubj.html) – [dep](el-dep-dep.html) – [det](el-dep-det.html) – [discourse](el-dep-discourse.html) – [expl](el-dep-expl.html) – [fixed](el-dep-fixed.html) – [iobj](el-dep-iobj.html) – [mark](el-dep-mark.html) – [nmod](el-dep-nmod.html) – [nsubj](el-dep-nsubj.html) – [nummod](el-dep-nummod.html) – [obj](el-dep-obj.html) – [obl](el-dep-obl.html) – [obl:arg](el-dep-obl-arg.html) – [orphan](el-dep-orphan.html) – [parataxis](el-dep-parataxis.html) – [punct](el-dep-punct.html) – [root](el-dep-root.html) – [vocative](el-dep-vocative.html) – [xcomp](el-dep-xcomp.html)
+[acl](el_gdt-dep-acl.html) – [acl:relcl](el_gdt-dep-acl-relcl.html) – [advcl](el_gdt-dep-advcl.html) – [advmod](el_gdt-dep-advmod.html) – [amod](el_gdt-dep-amod.html) – [appos](el_gdt-dep-appos.html) – [aux](el_gdt-dep-aux.html) – [case](el_gdt-dep-case.html) – [cc](el_gdt-dep-cc.html) – [ccomp](el_gdt-dep-ccomp.html) – [compound](el_gdt-dep-compound.html) – [conj](el_gdt-dep-conj.html) – [cop](el_gdt-dep-cop.html) – [csubj](el_gdt-dep-csubj.html) – [det](el_gdt-dep-det.html) – [discourse](el_gdt-dep-discourse.html) – [expl](el_gdt-dep-expl.html) – [fixed](el_gdt-dep-fixed.html) – [flat](el_gdt-dep-flat.html) – [iobj](el_gdt-dep-iobj.html) – [mark](el_gdt-dep-mark.html) – [nmod](el_gdt-dep-nmod.html) – [nsubj](el_gdt-dep-nsubj.html) – [nummod](el_gdt-dep-nummod.html) – [obj](el_gdt-dep-obj.html) – [obl](el_gdt-dep-obl.html) – [orphan](el_gdt-dep-orphan.html) – [parataxis](el_gdt-dep-parataxis.html) – [punct](el_gdt-dep-punct.html) – [root](el_gdt-dep-root.html) – [vocative](el_gdt-dep-vocative.html) – [xcomp](el_gdt-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 2521 sentences, 61773 tokens and 63441 syntactic words.</li>
-<li>This corpus contains 6140 tokens (10%) that are not followed by a space.</li>
+</ul>
+
+<ul>
+<li>This corpus contains 6139 tokens (10%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 155 types of words that contain both letters and punctuation. Examples: κ., χλμ., γι', απ', σ', Β', π.χ., ό,τι, Ν., αριθ., μ', Γ', Λ'Άκουιλα, απ’, μ., ν', Β., Δρ., Παρ', κατ', 11_Σεπτεμβρίου, 11ης_Σεπτεμβρίου, 27_Δεκεμβρίου, 5_Σεπτεμβρίου, d', Α', ΑΚΕ/ΕΕ, Γ., Δ', Ε.Α.Μ., ΕΕ., ΕΛΚ-ΕΔ, Ναγκόρνο-Καραμπάχ, εκατ., επ', καθ', κλπ., στ', 10_Αυγούστου_1920, 11/24_Νοεμβρίου_1916, 11_Δεκεμβρίου, 11_Ιανουαρίου, 11η_Σεπτεμβρίου, 12ης_Ιανουαρίου, 13_Απριλίου_2000, 13_Δεκεμβρίου, 13_Ιανουαρίου, 15__Αυγούστου, 15_Ιανουαρίου, 16_Αυγούστου_1916</li>
+</ul>
+
+<ul>
 <li>This corpus contains 1668 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
 <li>There are 7 types of multi-word tokens. Examples: στην, στο, στη, στις, στον, στα, στους.</li>
 </ul>
@@ -105,6 +119,9 @@ National Technical University of Athens.
 <ul>
 <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: INTJ</li>
+</ul>
+
+<ul>
 <li>This corpus contains 10 word types tagged as particles (PART): άραγε, ας, δε, δεν, θα, μη, μην, ν', να, όχι</li>
 </ul>
 
@@ -113,11 +130,11 @@ National Technical University of Athens.
 </ul>
 
 <ul>
-<li>This corpus contains 3 lemmas tagged as determiners (DET): ένας, ο, τον/την</li>
+<li>This corpus contains 4 lemmas tagged as determiners (DET): ένας, εγώ, ο, τον/την</li>
 </ul>
 
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: ένας</li>
+<li>Out of the above, 2 lemmas occurred sometimes as PRON and sometimes as DET: ένας, εγώ</li>
 </ul>
 
 <ul>
@@ -129,36 +146,47 @@ National Technical University of Athens.
 </ul>
 
 <ul>
-<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Conv
   <ul>
     <li>VERB: λέγοντας, έχοντας, προκαλώντας, ακολουθώντας, Απαντώντας, Τελειώνοντας, χαρακτηρίζοντας, αρχίζοντας, αυξάνοντας, αφήνοντας</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Fin
   <ul>
     <li>AUX: είναι, ήταν, είμαστε, είμαι, ήμασταν, είσαστε, ήσαν</li>
     <li>VERB: πρέπει, έχει, έχουν, μπορεί, είχε, αφορά, αποτελεί, δήλωσε, είχαν, έχουμε</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Inf
   <ul>
     <li>VERB: γίνει, λάβει, δημιουργήσει, επιτύχει, πει, συλληφθεί, τεθεί, χάσει, αποκλειστεί, αρχίσει</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
-    <li>VERB: χτισμένη, περιορισμένη, χτισμένο, συμπεριλαμβανομένης, συμπεριλαμβανομένων, αποτυχημένη, αυξημένη, δομημένο, εκλεγμένος, ευνοημένων</li>
+    <li>VERB: χτισμένη, χτισμένο, περιορισμένη, συμπεριλαμβανομένης, συμπεριλαμβανομένων, αποτυχημένη, αυξημένη, δομημένο, εκλεγμένος, ευνοημένων</li>
   </ul>
   </li>
-</ul>
-</li>
 </ul>
 
 <h3>Nominal Features</h3>
 
+
 <li><a>Gender</a>
+
   <ul>
     <li>Fem
       <ul>
@@ -169,9 +197,12 @@ National Technical University of Athens.
         <li>NUM: δύο, πρώτη, τρεις, μία, δεύτερη, μια, δεκάδες, τρίτη, πρώτες, πρώτης</li>
         <li>PRON: που, αυτή, της, οποία, αυτές, οποίες, αυτής, τους, την, άλλες</li>
         <li>PROPN: Ελλάδα, Ευρώπη, Τουρκία, Κορέα, Ρωσία, Γαλλία, Ευρώπης, Γερμανίας, Κορέας, Ελλάδας</li>
-        <li>VERB-Part: χτισμένη, περιορισμένη, συμπεριλαμβανομένης, αποτυχημένη, αυξημένη, ολοκληρωμένη, συμπεριλαμβανομένων, συντονισμένη, χαμένη, αιτιολογημένη</li>
+        <li>VERB-Part: χτισμένη, περιορισμένη, συμπεριλαμβανομένης, αποτυχημένη, αυξημένη, ολοκληρωμένη, συμπεριλαμβανομένων, συντονισμένη, αιτιολογημένη, απασχολημένες</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>ADJ: όλους, πολλοί, όλοι, Αγίου, πολλούς, μεγάλο, επικεφαλής, περισσότεροι, Άγιος, Ερυθρού</li>
@@ -183,6 +214,9 @@ National Technical University of Athens.
         <li>VERB-Part: εκλεγμένος, ευνοημένων, ικανοποιημένοι, συμπεριλαμβανομένου, υποχρεωμένοι, ακροβολισμένοι, αυτοαπασχολούμενους, αυτοαπασχολούμενων, διατεθειμένοι, εκλεγμένων</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neut
       <ul>
         <li>ADJ: ευρωπαϊκό, όλα, σημαντικό, ευρωπαϊκού, πολλά, ορισμένα, νέο, περισσότερα, μεγαλύτερο, σαφές</li>
@@ -190,16 +224,21 @@ National Technical University of Athens.
         <li>DET: το, τα, του, των, ένα, ενός, τω</li>
         <li>NOUN: κοινοβούλιο, Συμβούλιο, μέλη, ευρώ, χρόνια, πλαίσιο, πρόγραμμα, κοινοβουλίου, ζήτημα, κράτη</li>
         <li>NUM: δύο, ένα, πρώτο, τρία, δεύτερο, πέντε, Β', δέκα, εκατοστά, δεκαπέντε</li>
-        <li>PRON: που, αυτό, οποίο, το, αυτά, του, κάτι, αυτού, οποία, άλλα</li>
+        <li>PRON: που, αυτό, οποίο, αυτά, το, του, κάτι, αυτού, οποία, άλλα</li>
         <li>PROPN: Κάστρο, Παγγαίου, Ελσίνκι, Μάλι, Αιγαίου, Στρασβούργο, Βέλγιο, Βίδο, Κάστρου, Πατητήρι</li>
         <li>VERB-Part: χτισμένο, δομημένο, κτισμένο, απηρχαιωμένο, αποκεντρωμένα, αποκεντρωμένο, αποτυπωμένο, αποτυχημένο, ασβεστωμένα, γκρεμισμένα</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Number</a>
+
   <ul>
     <li>Plur
       <ul>
@@ -215,6 +254,9 @@ National Technical University of Athens.
         <li>VERB-Part: συμπεριλαμβανομένων, ευνοημένων, ικανοποιημένοι, υποχρεωμένοι, ακροβολισμένοι, απασχολημένες, αποδεδειγμένων, αποκεντρωμένα, ασβεστωμένα, αυτοαπασχολούμενους</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: ευρωπαϊκή, ευρωπαϊκό, σημαντικό, ευρωπαϊκής, νέα, μεγάλη, ευρωπαϊκού, βόρεια, ίδια, σημαντική</li>
@@ -226,13 +268,17 @@ National Technical University of Athens.
         <li>PRON: που, αυτό, του, αυτή, της, οποία, οποίο, μου, το, οποίος</li>
         <li>PROPN: Ελλάδα, Ευρώπη, Τουρκία, Κορέα, Ρωσία, Ομπάμα, Γαλλία, Ευρώπης, Γερμανίας, Κορέας</li>
         <li>VERB-Fin: πρέπει, έχει, μπορεί, είχε, αφορά, αποτελεί, δήλωσε, υπάρχει, ήθελα, βρίσκεται</li>
-        <li>VERB-Part: χτισμένη, περιορισμένη, χτισμένο, αποτυχημένη, αυξημένη, δομημένο, εκλεγμένος, κτισμένο, ολοκληρωμένη, συμπεριλαμβανομένης</li>
+        <li>VERB-Part: χτισμένη, χτισμένο, περιορισμένη, αποτυχημένη, αυξημένη, δομημένο, εκλεγμένος, κτισμένο, ολοκληρωμένη, συμπεριλαμβανομένης</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
   </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Acc
       <ul>
@@ -243,9 +289,12 @@ National Technical University of Athens.
         <li>NUM: δύο, πρώτη, τρεις, πρώτο, ένα, δέκα, μία, πέντε, τρία, έναν</li>
         <li>PRON: που, αυτό, αυτή, οποία, το, οποίο, αυτά, αυτές, μας, οποίες</li>
         <li>PROPN: Ελλάδα, Ευρώπη, Τουρκία, Ρωσία, Γαλλία, Αθήνα, Κορέα, Κούβα, Γερμανία, Κάστρο</li>
-        <li>VERB-Part: αυξημένη, περιορισμένη, συντονισμένη, χαμένη, απασχολημένες, απηρχαιωμένο, αποκεντρωμένα, αποτυχημένη, αποτυχημένο, ασβεστωμένα</li>
+        <li>VERB-Part: αυξημένη, περιορισμένη, συντονισμένη, απασχολημένες, απηρχαιωμένο, αποκεντρωμένα, αποτυχημένη, αποτυχημένο, ασβεστωμένα, αυτοαπασχολούμενους</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dat
       <ul>
         <li>ADJ: πάση</li>
@@ -253,6 +302,9 @@ National Technical University of Athens.
         <li>NOUN: λόγω, μέρει, περιπτώσει, βάσει, μέσω, συντομία, γένει, γνώσει, θυσία, συνεχεία</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Gen
       <ul>
         <li>ADJ: ευρωπαϊκής, ευρωπαϊκού, Ηνωμένων, νέας, Αγίου, νέων, οικονομικής, πολιτικών, όλων, εθνικών</li>
@@ -264,6 +316,9 @@ National Technical University of Athens.
         <li>VERB-Part: συμπεριλαμβανομένης, συμπεριλαμβανομένων, ευνοημένων, συμπεριλαμβανομένου, αποδεδειγμένων, αυτοαπασχολούμενων, διευρυμένης, εκλεγμένων, κατεστραμμένης, νομιμοποιημένης</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Nom
       <ul>
         <li>ADJ: ευρωπαϊκή, σημαντικό, ευρωπαϊκό, πολλοί, όλα, νέα, όλοι, όλες, σαφές, βόρεια</li>
@@ -272,9 +327,12 @@ National Technical University of Athens.
         <li>NUM: δύο, πρώτη, τρεις, πέντε, δεύτερη, Β', ένα, ένας, μία, πρώτες</li>
         <li>PRON: που, αυτό, οποία, αυτή, οποίος, οποίο, αυτά, εμείς, αυτές, οποίες</li>
         <li>PROPN: Κορέα, Ομπάμα, Ρωσία, Κλίντον, Τουρκία, Χίλαρι, Βενιζέλος, Ελλάδα, Μπαράκ, ΣΩΚΡΑΤΗΣ</li>
-        <li>VERB-Part: χτισμένη, χτισμένο, εκλεγμένος, ικανοποιημένοι, κτισμένο, περιορισμένη, υποχρεωμένοι, αιτιολογημένη, ακροβολισμένοι, αποκεντρωμένο</li>
+        <li>VERB-Part: χτισμένη, χτισμένο, εκλεγμένος, ικανοποιημένοι, κτισμένο, υποχρεωμένοι, αιτιολογημένη, ακροβολισμένοι, αποκεντρωμένο, αποτυπωμένο</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Voc
       <ul>
         <li>ADJ: Ύπατε, αγαπητοί, αξιότιμε, αξιότιμοι</li>
@@ -282,27 +340,40 @@ National Technical University of Athens.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Definite</a>
+
   <ul>
     <li>Def
       <ul>
         <li>DET: την, της, το, η, του, των, ο, οι, τα, τη</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>DET: μια, ένα, μία, ένας, ενός, μιας, έναν, μίας</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Degree and Polarity</h3>
 
+
 <li><a>Degree</a>
+
   <ul>
     <li>Cmp
       <ul>
@@ -310,6 +381,9 @@ National Technical University of Athens.
         <li>ADV: περισσότερο, αργότερα, νωρίτερα, καλύτερα, λιγότερο, ειδικότερα, παλαιότερα, Παλιότερα, αυστηρότερα, βορειότερα</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sup
       <ul>
         <li>ADJ: σοβαρότατες, ελάχιστες, ελάχιστο, Ανώτατο, ανώτατων, ελάχιστα, μέγιστη, Γαληνότατης, Δριμύτατη, άριστες</li>
@@ -317,13 +391,20 @@ National Technical University of Athens.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
 
 
 
 <h3>Verbal Features</h3>
 
+
 <li><a>Aspect</a>
+
   <ul>
     <li>Imp
       <ul>
@@ -332,24 +413,34 @@ National Technical University of Athens.
         <li>VERB-Fin: πρέπει, έχει, έχουν, μπορεί, είχε, αφορά, αποτελεί, έχουμε, υπάρχει, ήθελα</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Perf
       <ul>
         <li>AUX-Fin: ήταν</li>
         <li>VERB-Fin: δήλωσε, ανέφερε, γίνει, έγινε, πω, ανακοίνωσε, αποτελέσει, γίνουν, επεσήμανε, ευχαριστήσω</li>
         <li>VERB-Inf: γίνει, λάβει, δημιουργήσει, επιτύχει, πει, συλληφθεί, τεθεί, χάσει, αποκλειστεί, αρχίσει</li>
-        <li>VERB-Part: χτισμένη, περιορισμένη, χτισμένο, συμπεριλαμβανομένης, συμπεριλαμβανομένων, αποτυχημένη, αυξημένη, δομημένο, εκλεγμένος, ευνοημένων</li>
+        <li>VERB-Part: χτισμένη, χτισμένο, περιορισμένη, συμπεριλαμβανομένης, συμπεριλαμβανομένων, αποτυχημένη, αυξημένη, δομημένο, εκλεγμένος, ευνοημένων</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
   </ul>
 </li>
 
 <li><a>Mood</a>
+
   <ul>
     <li>Imp
       <ul>
         <li>VERB-Fin: επιτρέψτε, Δώστε, Αφήστε, Δείτε, Επιλέξτε, Μιλήστε, καλλιεργείστε, λάβετε, περιορίστε</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>AUX-Fin: είναι, ήταν, είμαστε, είμαι, ήμασταν, είσαστε, ήσαν</li>
@@ -357,9 +448,13 @@ National Technical University of Athens.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Tense</a>
+
   <ul>
     <li>Past
       <ul>
@@ -367,6 +462,9 @@ National Technical University of Athens.
         <li>VERB-Fin: είχε, δήλωσε, είχαν, ήθελα, ανέφερε, έγινε, ήταν, μπορούσε, έπρεπε, ανακοίνωσε</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pres
       <ul>
         <li>AUX-Fin: είναι, είμαστε, είμαι, είσαστε</li>
@@ -374,9 +472,13 @@ National Technical University of Athens.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Voice</a>
+
   <ul>
     <li>Act
       <ul>
@@ -385,86 +487,130 @@ National Technical University of Athens.
         <li>VERB-Inf: λάβει, δημιουργήσει, επιτύχει, πει, χάσει, αρχίσει, εκφράσει, αναφέρει, αποτύχει, ασκήσει</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pass
       <ul>
         <li>AUX-Fin: είναι, ήταν, είμαστε, είμαι, ήμασταν, είσαστε, ήσαν</li>
         <li>VERB-Fin: βρίσκεται, πρόκειται, είναι, γίνεται, βρίσκονται, γίνει, έγινε, ήταν, γίνουν, φαίνεται</li>
         <li>VERB-Inf: γίνει, συλληφθεί, αποκλειστεί, τεθεί, αναγνωριστεί, ανταποκριθεί, αποδεχθεί, ειπωθεί, εκδοθεί, εμφανιστεί</li>
-        <li>VERB-Part: χτισμένη, περιορισμένη, χτισμένο, συμπεριλαμβανομένης, συμπεριλαμβανομένων, αποτυχημένη, αυξημένη, δομημένο, εκλεγμένος, ευνοημένων</li>
+        <li>VERB-Part: χτισμένη, χτισμένο, περιορισμένη, συμπεριλαμβανομένης, συμπεριλαμβανομένων, αποτυχημένη, αυξημένη, δομημένο, εκλεγμένος, ευνοημένων</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
   </ul>
 </li>
 
 
+
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Art
       <ul>
         <li>DET: την, της, το, η, του, των, ο, οι, τα, τη</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dem
       <ul>
         <li>PRON: αυτό, αυτή, αυτά, αυτές, αυτής, αυτού, αυτών, αυτόν, αυτήν, αυτούς</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>PRON: κάθε, κάτι, άλλες, άλλα, άλλη, άλλων, κανείς, κάποια, άλλο, καμία</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind,Rel
       <ul>
         <li>PRON: όσα, οποιαδήποτε, ό,τι, όσοι, οτιδήποτε, όσους, όσων, οποιασδήποτε, οποιοδήποτε, Οποιεσδήποτε</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Int
       <ul>
         <li>PRON: τι, ποιο, Τίνος, ποιες, ποιον, ποιος</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
         <li>PRON: τους, μας, του, της, σας, μου, το, εμείς, την, τον</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rel
       <ul>
         <li>PRON: που, οποία, οποίο, οποίες, οποίος, οποίων, οποίοι, οποίας, οποίους, οποίου</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>NumType</a>
+
   <ul>
     <li>Card
       <ul>
         <li>NUM: δύο, τρεις, 1, 15, πέντε, 100, 20, 3, 30, 80</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Mult
       <ul>
         <li>NUM: διπλή, διπλάσιο, διπλό</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ord
       <ul>
         <li>NUM: πρώτη, πρώτο, Β', δεύτερη, δεύτερο, τρίτη, πρώτες, πρώτης, πρώτος, δεύτερος</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sets
       <ul>
         <li>NUM: δεκάδες, χιλιάδες, εκατοντάδες, χιλιάδων, εκατοντάδων</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Poss</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -472,18 +618,26 @@ National Technical University of Athens.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Person</a>
+
   <ul>
     <li>1
       <ul>
         <li>AUX-Fin: είμαστε, είμαι, ήμασταν</li>
-        <li>PRON: μας, μου, εμείς, εγώ, εμάς, με, μένα, το, του</li>
+        <li>PRON: μας, μου, εμείς, εγώ, εμάς, με, μένα, του</li>
         <li>VERB-Fin: έχουμε, ήθελα, πιστεύω, θέλω, θεωρώ, μπορούμε, ελπίζω, πω, κάνουμε, έχω</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>AUX-Fin: είσαστε</li>
@@ -491,6 +645,9 @@ National Technical University of Athens.
         <li>VERB-Fin: είπατε, έχετε, επιτρέψτε, Δώστε, αναφερθήκατε, επισκεφθείτε, κάνετε, μπορείτε, Αφήστε, βρεθείτε</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>AUX-Fin: είναι, ήταν, ήσαν</li>
@@ -499,12 +656,19 @@ National Technical University of Athens.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
 
 
+
+
+
 <h3>Other Features</h3>
+
 
 <li><a>Abbr</a>
   <ul>
@@ -515,6 +679,7 @@ National Technical University of Athens.
     </li>
   </ul>
 </li>
+
 <li><a>Foreign</a>
   <ul>
     <li>Yes
@@ -531,6 +696,9 @@ National Technical University of Athens.
 
 <ul>
 <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: είμαι.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: να, θα, έχω, ας.</li>
 </ul>
 
@@ -540,17 +708,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (35)</li>
+      <li>VERB-Fin--NOUN (61)</li>
       <li>VERB-Fin--NOUN-Acc (1)</li>
-      <li>VERB-Fin--NOUN-Nom (1824)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(παρά) (1)</li>
-      <li>VERB-Fin--PRON-Acc (7)</li>
-      <li>VERB-Fin--PRON-Gen (2)</li>
-      <li>VERB-Fin--PRON-Nom (694)</li>
-      <li>VERB-Inf--NOUN (2)</li>
-      <li>VERB-Inf--NOUN-Acc (1)</li>
-      <li>VERB-Inf--NOUN-Nom (107)</li>
-      <li>VERB-Inf--PRON-Acc (1)</li>
+      <li>VERB-Fin--NOUN-Nom (1827)</li>
+      <li>VERB-Fin--PRON-Nom (692)</li>
+      <li>VERB-Inf--NOUN (3)</li>
+      <li>VERB-Inf--NOUN-Nom (108)</li>
       <li>VERB-Inf--PRON-Nom (47)</li>
       <li>VERB-Part--NOUN-Nom (11)</li>
       <li>VERB-Part--PRON-Nom (4)</li>
@@ -561,17 +724,18 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
+      <li>VERB-Conv--NOUN (1)</li>
       <li>VERB-Conv--NOUN-Acc (55)</li>
       <li>VERB-Conv--PRON-Acc (4)</li>
-      <li>VERB-Fin--NOUN (2)</li>
-      <li>VERB-Fin--NOUN-Acc (1734)</li>
+      <li>VERB-Fin--NOUN (7)</li>
+      <li>VERB-Fin--NOUN-Acc (1718)</li>
       <li>VERB-Fin--NOUN-Gen (4)</li>
       <li>VERB-Fin--NOUN-Nom (9)</li>
-      <li>VERB-Fin--PRON-Acc (331)</li>
+      <li>VERB-Fin--PRON-Acc (330)</li>
       <li>VERB-Fin--PRON-Gen (13)</li>
-      <li>VERB-Inf--NOUN-Acc (62)</li>
+      <li>VERB-Inf--NOUN-Acc (61)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
-      <li>VERB-Inf--PRON-Acc (26)</li>
+      <li>VERB-Inf--PRON-Acc (25)</li>
     </ul>
   </li>
 </ul>
@@ -593,6 +757,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 2 relation subtypes: <a>acl:relcl</a>, <a>obl:arg</a></li>
-<li>The following 6 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>flat</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
+<li>This corpus uses 1 relation subtypes: <a>acl:relcl</a></li>
+<li>The following 6 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

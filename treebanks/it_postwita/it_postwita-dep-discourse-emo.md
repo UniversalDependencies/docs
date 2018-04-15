@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="it_postwita-dep-discourse.html">discourse</a></tt>.
 
-415 nodes (1%) are attached to their parents as `discourse:emo`.
+729 nodes (1%) are attached to their parents as `discourse:emo`.
 
-374 instances of `discourse:emo` (90%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.1421686746988.
+657 instances of `discourse:emo` (90%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.95747599451303.
 
-The following 15 pairs of parts of speech are connected with `discourse:emo`: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt>-<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (225; 54% instances), <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (58; 14% instances), <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (38; 9% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (30; 7% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt>-<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (24; 6% instances), <tt><a href="it_postwita-pos-SYM.html">SYM</a></tt>-<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (9; 2% instances), <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt>-<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (8; 2% instances), <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (7; 2% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt>-<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (7; 2% instances), <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt>-<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt>-<tt><a href="it_postwita-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt>-<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="it_postwita-pos-DET.html">DET</a></tt>-<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt>-<tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
+The following 15 pairs of parts of speech are connected with `discourse:emo`: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt>-<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (399; 55% instances), <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (115; 16% instances), <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (74; 10% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (51; 7% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt>-<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (30; 4% instances), <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (16; 2% instances), <tt><a href="it_postwita-pos-SYM.html">SYM</a></tt>-<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (12; 2% instances), <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt>-<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (11; 2% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt>-<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (9; 1% instances), <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt>-<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (5; 1% instances), <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt>-<tt><a href="it_postwita-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt>-<tt><a href="it_postwita-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt> (1; 0% instances), <tt><a href="it_postwita-pos-SYM.html">SYM</a></tt>-<tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -25,15 +25,15 @@ The following 15 pairs of parts of speech are connected with `discourse:emo`: <t
 1	@cioonas	@cioonas	SYM	SYM	_	8	vocative:mention	_	_
 2	ok	ok	INTJ	I	_	8	discourse	_	_
 3	grazie	grazie	INTJ	I	_	8	discourse	_	_
-4	mille	mille	NUM	N	NumType=Card	3	fixed	_	_
+4	mille	mille	NUM	N	NumType=Card	3	nummod	_	_
 5	c:	c:	SYM	SYM	_	8	discourse:emo	_	_
 6	te	te	PRON	PC	Clitic=Yes|Number=Sing|Person=2|PronType=Prs	8	expl	_	_
 7	la	la	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	obj	_	_
 8	do	dare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	dopo	dopo	ADV	B	_	8	advmod	_	_
 10	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
-11	foto	foto	NOUN	S	Gender=Fem	8	obj	_	SpaceAfter=No
-12	?	?	PUNCT	FS	_	8	punct	_	_
+11	foto	foto	NOUN	S	Gender=Fem	8	dislocated	_	SpaceAfter=No
+12	?	?	PUNCT	FS	_	11	punct	_	_
 
 ~~~
 
@@ -55,16 +55,15 @@ The following 15 pairs of parts of speech are connected with `discourse:emo`: <t
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 discourse:emo	color:blue
-1	@LinaOspino24	@LinaOspino24	SYM	SYM	_	3	vocative:mention	_	_
-2	*.*	*.*	SYM	SYM	_	3	discourse:emo	_	_
-3	si	sì	INTJ	I	_	0	root	_	_
-4	si	sì	INTJ	I	_	3	conj	_	_
-5	:*	:*	SYM	SYM	_	3	discourse:emo	_	_
+# visual-style 2 4 discourse:emo	color:blue
+1	@Chia_LovesHarry	@Chia_LovesHarry	SYM	SYM	_	2	vocative:mention	_	_
+2	grazie	grazie	INTJ	I	_	0	root	_	_
+3	!!	!!	PUNCT	FS	_	2	punct	_	_
+4	:D	:D	SYM	SYM	_	2	discourse:emo	_	_
 
 ~~~
 

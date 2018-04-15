@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-13538 nodes (8%) are attached to their parents as `case`.
+15522 nodes (8%) are attached to their parents as `case`.
 
-13361 instances of `case` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.15718717683557.
+15333 instances of `case` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.17162736760727.
 
-The following 11 pairs of parts of speech are connected with `case`: <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (8162; 60% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (2589; 19% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (1208; 9% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (1163; 9% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (244; 2% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (71; 1% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (70; 1% instances), <tt><a href="la_proiel-pos-DET.html">DET</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (18; 0% instances), <tt><a href="la_proiel-pos-X.html">X</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="la_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `case`: <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (9453; 61% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (2912; 19% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (1414; 9% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (1238; 8% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (325; 2% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (76; 0% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (73; 0% instances), <tt><a href="la_proiel-pos-DET.html">DET</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (18; 0% instances), <tt><a href="la_proiel-pos-X.html">X</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (9; 0% instances), <tt><a href="la_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -46,7 +46,7 @@ The following 11 pairs of parts of speech are connected with `case`: <tt><a href
 2	enim	enim	ADV	Df	_	3	discourse	_	ref=MATT_5.12
 3	persecuti	persequor	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=MATT_5.12
 4	sunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	ref=MATT_5.12
-5	prophetas	propheta	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	3	obj:dir	_	ref=MATT_5.12
+5	prophetas	propheta	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	3	obj	_	ref=MATT_5.12
 6	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	9	nsubj	_	ref=MATT_5.12
 7	fuerunt	sum	AUX	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	ref=MATT_5.12
 8	ante	ante	ADP	R-	_	9	case	_	ref=MATT_5.12

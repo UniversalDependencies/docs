@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Turkish'
+title:  'UD_Turkish-IMST'
 udver: '2'
 ---
 
@@ -9,16 +9,17 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Turkish
+# UD Turkish IMST
 
 Language: [Turkish](../tr/overview/tr-hub.html) (code: `tr`)<br/>
-Family: Altaic, Turkic
+Family: Turkic, Southwestern
 
 This treebank has been part of Universal Dependencies since the UD v1.3 release.
 
 The following people have contributed to making this treebank part of UD: Çağrı Çöltekin, Gülşen Cebiroğlu Eryiğit, Memduh Gökırmak, Hüner Kaşıkara, Umut Sulubacak, Francis Tyers.
 
-Repository: [UD_Turkish](https://github.com/UniversalDependencies/UD_Turkish)
+Repository: [UD_Turkish-IMST](https://github.com/UniversalDependencies/UD_Turkish-IMST)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udtr_imst)
 
 License: CC BY-NC-SA
 
@@ -26,7 +27,7 @@ Genre: nonfiction, news
 
 Questions, comments?
 General annotation questions (either Turkish-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Turkish/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Turkish-IMST/issues).
 If you want to collaborate, please contact [memduhg&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
@@ -53,27 +54,40 @@ The UD Turkish Treebank, also called the IMST-UD Treebank, is a semi-automatic c
 This treebank follows a set of morphosyntactic annotation guidelines based on those established by Çağrı Çöltekin, and later revised and restructured by Memduh Gökırmak, Francis Tyers, and Umut Sulubacak. The conversion from the IMST Treebank was done by Umut Sulubacak. The contributors would also like to thank Birsel Karakoç, Hüner Kaşıkara, and Tuğba Pamay for their discussions and insights.
 
 
-# Statistics of UD Turkish
+# Statistics of UD Turkish IMST
 
 ## POS Tags
 
-[ADJ](tr-pos-ADJ.html) – [ADP](tr-pos-ADP.html) – [ADV](tr-pos-ADV.html) – [AUX](tr-pos-AUX.html) – [CCONJ](tr-pos-CCONJ.html) – [DET](tr-pos-DET.html) – [INTJ](tr-pos-INTJ.html) – [NOUN](tr-pos-NOUN.html) – [NUM](tr-pos-NUM.html) – [PRON](tr-pos-PRON.html) – [PROPN](tr-pos-PROPN.html) – [PUNCT](tr-pos-PUNCT.html) – [VERB](tr-pos-VERB.html) – [X](tr-pos-X.html)
+[ADJ](tr_imst-pos-ADJ.html) – [ADP](tr_imst-pos-ADP.html) – [ADV](tr_imst-pos-ADV.html) – [AUX](tr_imst-pos-AUX.html) – [CCONJ](tr_imst-pos-CCONJ.html) – [DET](tr_imst-pos-DET.html) – [INTJ](tr_imst-pos-INTJ.html) – [NOUN](tr_imst-pos-NOUN.html) – [NUM](tr_imst-pos-NUM.html) – [PRON](tr_imst-pos-PRON.html) – [PROPN](tr_imst-pos-PROPN.html) – [PUNCT](tr_imst-pos-PUNCT.html) – [VERB](tr_imst-pos-VERB.html) – [X](tr_imst-pos-X.html)
 
 ## Features
 
-[Abbr](tr-feat-Abbr.html) – [Aspect](tr-feat-Aspect.html) – [Case](tr-feat-Case.html) – [Echo](tr-feat-Echo.html) – [Evident](tr-feat-Evident.html) – [Mood](tr-feat-Mood.html) – [Number](tr-feat-Number.html) – [Number[psor]](tr-feat-Number-psor.html) – [NumType](tr-feat-NumType.html) – [Person](tr-feat-Person.html) – [Person[psor]](tr-feat-Person-psor.html) – [Polarity](tr-feat-Polarity.html) – [Polite](tr-feat-Polite.html) – [PronType](tr-feat-PronType.html) – [Reflex](tr-feat-Reflex.html) – [Tense](tr-feat-Tense.html) – [VerbForm](tr-feat-VerbForm.html) – [Voice](tr-feat-Voice.html)
+[Abbr](tr_imst-feat-Abbr.html) – [Aspect](tr_imst-feat-Aspect.html) – [Case](tr_imst-feat-Case.html) – [Echo](tr_imst-feat-Echo.html) – [Evident](tr_imst-feat-Evident.html) – [Mood](tr_imst-feat-Mood.html) – [Number](tr_imst-feat-Number.html) – [Number[psor]](tr_imst-feat-Number-psor.html) – [NumType](tr_imst-feat-NumType.html) – [Person](tr_imst-feat-Person.html) – [Person[psor]](tr_imst-feat-Person-psor.html) – [Polarity](tr_imst-feat-Polarity.html) – [Polite](tr_imst-feat-Polite.html) – [PronType](tr_imst-feat-PronType.html) – [Reflex](tr_imst-feat-Reflex.html) – [Tense](tr_imst-feat-Tense.html) – [VerbForm](tr_imst-feat-VerbForm.html) – [Voice](tr_imst-feat-Voice.html)
 
 ## Relations
 
-[acl](tr-dep-acl.html) – [advmod](tr-dep-advmod.html) – [advmod:emph](tr-dep-advmod-emph.html) – [amod](tr-dep-amod.html) – [appos](tr-dep-appos.html) – [aux:q](tr-dep-aux-q.html) – [case](tr-dep-case.html) – [cc](tr-dep-cc.html) – [ccomp](tr-dep-ccomp.html) – [compound](tr-dep-compound.html) – [compound:lvc](tr-dep-compound-lvc.html) – [compound:redup](tr-dep-compound-redup.html) – [conj](tr-dep-conj.html) – [cop](tr-dep-cop.html) – [csubj](tr-dep-csubj.html) – [det](tr-dep-det.html) – [discourse](tr-dep-discourse.html) – [fixed](tr-dep-fixed.html) – [flat](tr-dep-flat.html) – [mark](tr-dep-mark.html) – [nmod](tr-dep-nmod.html) – [nmod:poss](tr-dep-nmod-poss.html) – [nsubj](tr-dep-nsubj.html) – [nummod](tr-dep-nummod.html) – [obj](tr-dep-obj.html) – [obl](tr-dep-obl.html) – [parataxis](tr-dep-parataxis.html) – [punct](tr-dep-punct.html) – [root](tr-dep-root.html)
+[acl](tr_imst-dep-acl.html) – [advmod](tr_imst-dep-advmod.html) – [advmod:emph](tr_imst-dep-advmod-emph.html) – [amod](tr_imst-dep-amod.html) – [appos](tr_imst-dep-appos.html) – [aux:q](tr_imst-dep-aux-q.html) – [case](tr_imst-dep-case.html) – [cc](tr_imst-dep-cc.html) – [ccomp](tr_imst-dep-ccomp.html) – [compound](tr_imst-dep-compound.html) – [compound:lvc](tr_imst-dep-compound-lvc.html) – [compound:redup](tr_imst-dep-compound-redup.html) – [conj](tr_imst-dep-conj.html) – [cop](tr_imst-dep-cop.html) – [csubj](tr_imst-dep-csubj.html) – [dep](tr_imst-dep-dep.html) – [det](tr_imst-dep-det.html) – [discourse](tr_imst-dep-discourse.html) – [fixed](tr_imst-dep-fixed.html) – [flat](tr_imst-dep-flat.html) – [mark](tr_imst-dep-mark.html) – [nmod](tr_imst-dep-nmod.html) – [nmod:poss](tr_imst-dep-nmod-poss.html) – [nsubj](tr_imst-dep-nsubj.html) – [nummod](tr_imst-dep-nummod.html) – [obj](tr_imst-dep-obj.html) – [obl](tr_imst-dep-obl.html) – [parataxis](tr_imst-dep-parataxis.html) – [punct](tr_imst-dep-punct.html) – [root](tr_imst-dep-root.html) – [vocative](tr_imst-dep-vocative.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 5635 sentences, 56422 tokens and 58097 syntactic words.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 10115 tokens (18%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 611 types of words that contain both letters and punctuation. Examples: Türkiye'nin, Türkiye'de, Taşhan'ın, Erdoğan'ın, Türkiye'ye, 'li, İstanbul'a, Diyarbakır'a, Ankara'ya, Avrupa'da, Mahmut'un, ABD'nin, Ankara'da, Devrim'in, Diyarbakır'da, Gül'ün, Hülya'nın, Irak'ta, Recep'in, Yunak'ın, İstanbul'da, Arınç'ın, Hablemitoğlu'nun, Kemal'in, NA'nın, İstanbul'dan, AB'ye, Akgündüz'ün, Ali'nin, Almanya'da, Anadolu'da, Avrupa'dan, Bakanlığı'na, Erbakan'ın, Erdoğan'ı, Hazine'nin, KKTC'de, Meclis'e, Parkı'na, Sezer'in, Tanrı'nın, 'lı, Alev'in, Başbakanlık'ta, Bey'in, Cumhuriyet'in, Dr., Erbakan'la, Erdoğan'a, Esin'le</li>
+</ul>
+
+<ul>
 <li>This corpus contains 1640 multi-word tokens. On average, one multi-word token consists of 2.02 syntactic words.</li>
 <li>There are 1119 types of multi-word tokens. Examples: önemli, yoktu, vardı, vardır, yoksa, benim, vadeli, önceki, arasındaki, gibiydi, hafifçe, sessiz, yoktur, içindeki, saatlik, üzerindeki, ?edir, adlı, demektir, dolarlık, olanlar, yıllardır, altındaki, aptalca, buradaki, buydu, bölgedeki, iyice, parmaklı, rahatça, tehlikeli, yanındaki, zamanki, üretici, Katana, adamdı, başlıklı, camlı, doluydu, elindeki, imkansız, içindeydi, kazadaki, olanları, sağlıklı, sebzedir, tarihli, yavaşça, yaşındaydı, yıldır.</li>
 </ul>
@@ -85,6 +99,9 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
 <ul>
 <li>This corpus uses 14 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: SCONJ, PART, SYM</li>
+</ul>
+
+<ul>
 </ul>
 
 <ul>
@@ -107,7 +124,9 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
 </ul>
 
 <ul>
-<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Conv
   <ul>
@@ -115,25 +134,33 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
     <li>VERB: gidip, olup, dönüp, diyerek, ederek, edip, gelip, kalkıp, koşarak, belirterek</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>VERB: olan, olduğunu, olduğu, gelen, eden, yapılan, olmadığını, yapan, alan, yapılacak</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Vnoun
   <ul>
     <li>VERB: demek, olması, olmak, savunma, almak, görmek, yapmak, etmek, kurtulmak, etmeye</li>
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
 
 
+
+
+
 <li><a>Number</a>
+
   <ul>
     <li>Plur
       <ul>
@@ -148,6 +175,9 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
         <li>VERB-Conv: atlarlarken, çıkarlarken</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: içinde, kadın, var, arasında, kız, yok, ortaya, arada, içine, yanında</li>
@@ -163,22 +193,29 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Abl
       <ul>
         <li>ADJ: ortadan, yandan, arasından, yoktan, altından, yakından, önünden, üstünden, arkasından, yanından</li>
         <li>ADP: kinden, den, dan, lardan, lerden, liğinden</li>
         <li>NOUN: tarafından, yüzünden, oradan, yerden, yüzden, ardından, başından, yerinden, elinden, evden</li>
-        <li>NUM: 4'ten, bindokuzyuzotuzalti'dan, doksanaltı'dan, ikibinbir'den, ikisinden, otuz'dan, sıfırdan, İkimizden</li>
+        <li>NUM: 4'ten, b​i​n​d​o​k​u​z​y​u​z​o​t​u​z​a​l​t​i​'​d​a​n, doksanaltı'dan, ikibinbir'den, ikisinden, otuz'dan, sıfırdan, İkimizden</li>
         <li>PRON: ondan, neden, nereden, benden, bundan, bunlardan, ?, Nerden, Onlardan, bizden</li>
         <li>PROPN: İstanbul'dan, Avrupa'dan, Türkiye'den, Almanya'dan, Mebrure'den, Yakutsk'tan, ANAP'tan, Allah'tan, Ana'dan, Arjantin'den</li>
         <li>VERB-Part: olduğundan, olduktan, bildiğinden, geçtikten, gittikten, olmayacağından, söyledikten, çarpıştıktan, Uyandığınızdan, anlayacaklarından</li>
         <li>VERB-Vnoun: olmaktan, buzlanmadan, buzlanmasından, artmasından, düşünmekten, gitmekten, konuşmaktan, Gitmeden, Koşmaktan, Tartışmaktan</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Acc
       <ul>
         <li>ADJ: olacağını, geleceğini, acısını, deliği, kızı, arkasını, eşini, gerçeği, kadınları, önünü</li>
@@ -191,6 +228,9 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
         <li>VERB-Vnoun: olmasını, konuşmayı, olmayı, sormayı, tartışmayı, yapmayı, bitmesini, durmasını, etmesini, gelişmelerini</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dat
       <ul>
         <li>ADJ: ortaya, içine, üstüne, önüne, yanına, yana, arasına, altına, sonuna, öne</li>
@@ -203,6 +243,9 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
         <li>VERB-Vnoun: etmeye, almaya, anlatmaya, düşünmeye, incelemeye, yapmaya, yaşamaya, çıkmasına, anlamaya, dolaşmaya</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Equ
       <ul>
         <li>ADJ: başkalarınca, bilgece, düşmanca, yurtseverce</li>
@@ -211,6 +254,9 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
         <li>VERB-Part: elverdiğince</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Gen
       <ul>
         <li>ADJ: kızın, kadınların, kadının, erkeklerin, başkalarının, Arının, gençlerin, geçmişin, kahramanının, sevgilinin</li>
@@ -223,6 +269,9 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
         <li>VERB-Vnoun: yaşamanın, olmanın, olmasının, ulaşmanın, çatışmanın, Kıskanmanın, Sevişmenin, almanın, alınmamasının, aramaların</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ins
       <ul>
         <li>ADJ: kadınla, acıyla, eşiyle, kızla, kızlarla, zorla, arayla, başkasıyla, bütünüyle, güçle</li>
@@ -235,6 +284,9 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
         <li>VERB-Vnoun: gelmesiyle, Seyretmekle, anlamakla, anlatmakla, aramakla, beklemekle, boşanmayla, durmakla, düzeltmeyle, düzenlemeyle</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Loc
       <ul>
         <li>ADJ: içinde, arasında, arada, yanında, önünde, üstünde, altında, dışında, karşısında, zorunda</li>
@@ -247,6 +299,9 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
         <li>VERB-Vnoun: açıklamada, belirlenmesinde, düzenlemelerde, Kamulaştırmalarda, araştırmada, açıklamasında, beklemesinde, belirlemede, düzenlemede, edinmemizde</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Nom
       <ul>
         <li>ADJ: kadın, var, kız, yok, erkekler, erkek, ilgili, doğrusu, acı, kadınlar</li>
@@ -260,14 +315,22 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
 
 
 
 <h3>Degree and Polarity</h3>
 
 
+
+
 <li><a>Polarity</a>
+
   <ul>
     <li>Neg
       <ul>
@@ -277,6 +340,9 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
         <li>VERB-Vnoun: olmaması, verilmemesi, Duyulmaması, alınmamasının, anlayamaması, anımsamamanız, asılmaması, açılmamak, açılmaması, bakmaması</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>VERB: dedi, olan, dedim, olduğunu, oldu, olduğu, söyledi, gelen, olur, etti</li>
@@ -286,12 +352,18 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Verbal Features</h3>
 
+
 <li><a>Aspect</a>
+
   <ul>
     <li>DurPerf
       <ul>
@@ -299,6 +371,9 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
         <li>VERB-Part: uyuyakaldığı, uyuyakaldığını</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Imp
       <ul>
         <li>VERB: olur, olmaz, olabilir, eder, ister, gerekir, gelir, sanırım, yeter, ?</li>
@@ -306,6 +381,9 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
         <li>VERB-Part: benzer, ?, inanılmaz, açmaz, bilmez, götürür, kaynar, sığmaz, Anlar, Görünmez</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Perf
       <ul>
         <li>AUX: mi, mı, dır, dir, ydi, dı, ydı, tu, mu, dur</li>
@@ -316,16 +394,25 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
         <li>VERB-Vnoun: demek, olması, olmak, savunma, almak, görmek, yapmak, etmek, kurtulmak, etmeye</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prog
       <ul>
         <li>VERB: diyor, oluyor, bilmiyorum, geliyor, biliyorum, biliyor, istiyorum, gidiyoruz, yapıyor, ediyor</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>ProgRapid
       <ul>
         <li>VERB: takılıveriyor</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rapid
       <ul>
         <li>VERB: alıverdi, doluverdi, ediver, edivermişti, gidiverdi, giriverir, oluverip, siliniverir, tıraşlayıvermiştin, yapıverir</li>
@@ -334,9 +421,13 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Mood</a>
+
   <ul>
     <li>Cnd
       <ul>
@@ -345,52 +436,82 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
         <li>VERB: değilse, verirse, kalırsa, olmazsa, olursa, bakarsanız, geliyorsa, isterse, isterseniz, yaparsam</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>CndPot
       <ul>
         <li>VERB: Gelemeyecekse, becerebilirse, bulamazsam, keşfedemezseniz, yaratabiliyorsanız</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Des
       <ul>
         <li>VERB: olsa, varsa, konuşsaydınız, olsaydım, anlatsam, baksam, bağlansa, bıraksa, desek, dönsem</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>DesPot
       <ul>
         <li>VERB: bilemese, dokundurabilselerdi, yayabilsek, yuvarlayabilsem</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Gen
       <ul>
         <li>AUX: dır, dir, dur, tir, tur, tır, dür, edir, lerdir, lardır</li>
         <li>VERB: değildir, olmuştur, olacaktır, açmıştır, gerçekleşmiştir, ulaşmıştır, başlamıştır, doğurmuştur, gelmiştir, girmiştir</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>GenNec
       <ul>
         <li>VERB: alınmalıdırlar, bulunmalıdır, olmalıdır, uyarlanmalıdır</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>GenNecPot
       <ul>
         <li>VERB: söyleyebilmelidir</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>GenPot
       <ul>
         <li>VERB: okşayabilmiştir</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Imp
       <ul>
         <li>VERB: var, olsun, bakın, bak, gerek, gel, al, at, bırakın, geç</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>ImpPot
       <ul>
         <li>VERB: devredebilsin</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>AUX: mi, mı, ydi, dı, ydı, tu, mu, ydu, im, tı</li>
@@ -401,21 +522,33 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
         <li>VERB-Vnoun: demek, olması, olmak, savunma, almak, görmek, yapmak, etmek, kurtulmak, etmeye</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Nec
       <ul>
         <li>VERB: olmalı, olmalıydı, gitmeliyim, bulmalıyım, dönmeliyim, Anlatılmalı, Edilmeli, almalı, anlatmalıydım, anlatmalıyım</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>NecPot
       <ul>
         <li>VERB: konuşabilmeli</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Opt
       <ul>
         <li>VERB: bakalım, gidelim, yazayım, alalım, anlatayım, diye, bakıla, basa, bileyim, edelim</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pot
       <ul>
         <li>VERB: olabilir, giremiyorum, alabilen, bilemiyorum, giremiyor, ?, anlatamadım, edemiyor, girebilir, girebilmek</li>
@@ -424,15 +557,22 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
         <li>VERB-Vnoun: girebilmek, olabilmek, anlayamaması, belirleyebilmek, bulabilmek, bulamaması, bulunabilmek, danışabilmek, edebilmek, edememe</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
         <li>VERB: Baksana, düşünsene</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Tense</a>
+
   <ul>
     <li>Aor
       <ul>
@@ -441,22 +581,34 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
         <li>VERB-Part: benzer, ?, inanılmaz, açmaz, bilmez, götürür, kaynar, sığmaz, Anlar, Görünmez</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>AorPast
       <ul>
         <li>VERB: olurdu, bilirdi, derdi, ederdi, isterdim, okurdu, otururdu, verirdi, yapardı, başlardı</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Fut
       <ul>
         <li>VERB: olacak, yapılacak, gelecek, verecek, yapacak, olmayacak, sürecek, yapacağız, alacak, olacaktır</li>
         <li>VERB-Part: yapılacak, sürecek, alınacak, yapacak, yapacaklarını, anlatacaklarım, anlatacağım, anlatacağımı, verecek, yapacağı</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>FutPast
       <ul>
         <li>VERB: olacaktı, öğrenecekti, Feshedeceklermiş, anlatacaktım, anlatacaktın, anlatmayacaktım, bekleyecektim, bitmeyecekmiş, bulabileceklerdi, diyecektik</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Past
       <ul>
         <li>ADP: idi</li>
@@ -467,11 +619,17 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
         <li>VERB-Part: olduğunu, olduğu, olmadığını, ettiği, verdiği, yaptığı, olmadığı, gerektiğini, olduğuna, olduğum</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pqp
       <ul>
         <li>VERB: başlamıştı, demişti, gelmişti, etmişti, geçmişti, kalkmıştı, çıkmıştı, başlamışlardı, dönmüştü, heyecanlanmıştı</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pres
       <ul>
         <li>AUX: mi, mı, dır, dir, mu, dur, sa, tir, im, yim</li>
@@ -483,9 +641,13 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Voice</a>
+
   <ul>
     <li>Cau
       <ul>
@@ -495,6 +657,9 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
         <li>VERB-Vnoun: Uzatma, öldürme, doldurmaya, uydurma, öldürmek, Ulaştırma, bastırmak, biçimlendirmek, canlandırmaya, düzeltmeye</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>CauPass
       <ul>
         <li>VERB: belirtildi, yerleştirilmiş, gerçekleştirilmesi, kaldırıldı, kaldırılsın, bastırılmış, cezalandırılması, değerlendirildi, geliştirilen, genişletiliyor</li>
@@ -503,6 +668,9 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
         <li>VERB-Vnoun: gerçekleştirilmesi, cezalandırılması, kaldırılması, kapatılmaya, değerlendirilmesi, değiştirilmesi, diriltilmesi, doldurulmayı, düzeltilmesini, geliştirilmesi</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pass
       <ul>
         <li>VERB: yapılan, yapılacak, edildi, verilen, alınması, ediliyor, edilmiş, hazırlanan, inanılmaz, katıldı</li>
@@ -512,9 +680,13 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Evident</a>
+
   <ul>
     <li>Nfh
       <ul>
@@ -526,52 +698,78 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Dem
       <ul>
         <li>PRON: bu, o, bunu, bunlar, buna, bunun, bunları, onu, onun, şunları</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>PRON: biri, hepsi, birbirimize, birbirlerine, kimi, hiçbiri, birbirine, birisi, hepimiz, hepsinin</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
         <li>PRON: ben, bana, o, beni, benim, onu, onun, ona, sen, sana</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>NumType</a>
+
   <ul>
     <li>Card
       <ul>
         <li>NUM: bir, iki, bin, üç, on, dört, beş, yüzde, altı, milyon</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dist
       <ul>
         <li>NUM: birer, ikişer, otuzbeşer, yirmisekizer</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ord
       <ul>
         <li>NUM: birincisi, onyedi., ikincisi, İkincisi, birinci, doksandokuz., dokuz., oniki., onikinci., onsekiz.</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Reflex</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -579,9 +777,13 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Person</a>
+
   <ul>
     <li>1
       <ul>
@@ -590,6 +792,9 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
         <li>VERB: dedim, bilmiyorum, biliyorum, ettim, değilim, sordum, gördüm, bakalım, istiyorum, gidiyoruz</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>AUX: musun, musunuz, sınız, misin, sın, erdeydin, imsiniz, mısın, misiniz, sin</li>
@@ -597,6 +802,9 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
         <li>VERB: var, bakın, bak, anlattın, biliyorsunuz, gerek, gel, geldiniz, al, at</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>ADJ: içinde, kadın, var, arasında, kız, yok, ortaya, arada, içine, yanında</li>
@@ -612,25 +820,37 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Polite</a>
+
   <ul>
     <li>Form
       <ul>
         <li>VERB: kapsamaktadır, andırmaktadır, anlatmakta, atmakta, barışmakta, canlanmakta, dayanmaktadır, desteklemektedir, edinmekte, etmekte</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Infm
       <ul>
         <li>VERB: diyor, oluyor, bilmiyorum, geliyor, biliyorum, biliyor, istiyorum, gidiyoruz, yapıyor, ediyor</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Number[psor]</a>
+
   <ul>
     <li>Plur
       <ul>
@@ -643,6 +863,9 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
         <li>VERB-Vnoun: olmaları, almamız, anımsamamanız, araştırmalarını, bakmalarını, bildirmeleri, bilmenizi, bulmamız, edinmelerini, edinmemizde</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: içinde, arasında, içine, yanında, üstüne, önünde, önüne, doğrusu, yanına, üstünde</li>
@@ -656,9 +879,13 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Other Features</h3>
+
 
 <li><a>Abbr</a>
   <ul>
@@ -669,6 +896,7 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
     </li>
   </ul>
 </li>
+
 <li><a>Echo</a>
   <ul>
     <li>Rdp
@@ -678,6 +906,7 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
     </li>
   </ul>
 </li>
+
 <li><a>Person[psor]</a>
   <ul>
     <li>1
@@ -723,7 +952,10 @@ This treebank follows a set of morphosyntactic annotation guidelines based on th
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: i, değil.</li>
+<li>This corpus uses 8 lemmas as copulas (<a>cop</a>). Examples: i, değil, ama, amaç, bil, hava, oku, teşvik.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain auxiliaries.</li>
 </ul>
 
@@ -741,7 +973,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Ins (1)</li>
       <li>VERB--NOUN-Loc (3)</li>
       <li>VERB--NOUN-Loc-ADP(ki) (2)</li>
-      <li>VERB--NOUN-Nom (984)</li>
+      <li>VERB--NOUN-Nom (985)</li>
       <li>VERB--NOUN-Nom-ADP(_) (2)</li>
       <li>VERB--PRON-Acc (1)</li>
       <li>VERB--PRON-Gen (2)</li>
@@ -763,6 +995,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Dat (1)</li>
       <li>VERB-Part--NOUN-Gen (58)</li>
       <li>VERB-Part--NOUN-Nom (104)</li>
+      <li>VERB-Part--NOUN-Nom-ADP(li) (1)</li>
       <li>VERB-Part--PRON-Acc (1)</li>
       <li>VERB-Part--PRON-Gen (4)</li>
       <li>VERB-Part--PRON-Nom (13)</li>
@@ -781,7 +1014,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN-Abl (1)</li>
-      <li>VERB--NOUN-Acc (588)</li>
+      <li>VERB--NOUN-Acc (584)</li>
       <li>VERB--NOUN-Dat (13)</li>
       <li>VERB--NOUN-Dat-ADP(_) (1)</li>
       <li>VERB--NOUN-Dat-ADP(dair) (2)</li>
@@ -789,13 +1022,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Ins (5)</li>
       <li>VERB--NOUN-Loc (5)</li>
       <li>VERB--NOUN-Loc-ADP(ki) (1)</li>
-      <li>VERB--NOUN-Nom (655)</li>
+      <li>VERB--NOUN-Nom (654)</li>
       <li>VERB--NOUN-Nom-ADP(diye) (1)</li>
       <li>VERB--NOUN-Nom-ADP(gibi) (1)</li>
       <li>VERB--NOUN-Nom-ADP(li) (3)</li>
       <li>VERB--NOUN-Nom-ADP(li)-ADP(lik) (1)</li>
       <li>VERB--NOUN-Nom-ADP(olarak) (1)</li>
-      <li>VERB--PRON-Acc (210)</li>
+      <li>VERB--PRON-Acc (209)</li>
       <li>VERB--PRON-Dat (4)</li>
       <li>VERB--PRON-Dat-ADP(diye) (1)</li>
       <li>VERB--PRON-Gen (2)</li>
@@ -811,7 +1044,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--NOUN-Nom-ADP(li) (1)</li>
       <li>VERB-Conv--PRON-Acc (14)</li>
       <li>VERB-Part--NOUN-Abl (1)</li>
-      <li>VERB-Part--NOUN-Acc (168)</li>
+      <li>VERB-Part--NOUN-Acc (165)</li>
       <li>VERB-Part--NOUN-Dat (5)</li>
       <li>VERB-Part--NOUN-Gen (14)</li>
       <li>VERB-Part--NOUN-Ins (3)</li>
@@ -822,7 +1055,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--PRON-Acc (38)</li>
       <li>VERB-Part--PRON-Nom (16)</li>
       <li>VERB-Vnoun--NOUN-Abl (1)</li>
-      <li>VERB-Vnoun--NOUN-Acc (115)</li>
+      <li>VERB-Vnoun--NOUN-Acc (114)</li>
       <li>VERB-Vnoun--NOUN-Dat (4)</li>
       <li>VERB-Vnoun--NOUN-Gen (9)</li>
       <li>VERB-Vnoun--NOUN-Ins (3)</li>
@@ -856,5 +1089,5 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
 <li>This corpus uses 5 relation subtypes: <a>advmod:emph</a>, <a>aux:q</a>, <a>compound:lvc</a>, <a>compound:redup</a>, <a>nmod:poss</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>aux</a></li>
-<li>The following 12 relation types are not used in this corpus at all: <a>iobj</a>, <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>advcl</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 10 relation types are not used in this corpus at all: <a>iobj</a>, <a>xcomp</a>, <a>expl</a>, <a>dislocated</a>, <a>advcl</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>

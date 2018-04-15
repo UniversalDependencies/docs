@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Arabic'
+title:  'UD_Arabic-PADT'
 udver: '2'
 ---
 
@@ -9,7 +9,7 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Arabic
+# UD Arabic PADT
 
 Language: [Arabic](../ar/overview/ar-hub.html) (code: `ar`)<br/>
 Family: Afro-Asiatic, Semitic
@@ -18,8 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 
 The following people have contributed to making this treebank part of UD: Daniel Zeman, Zdeněk Žabokrtský, Shadi Saleh.
 
-Repository: [UD_Arabic](https://github.com/UniversalDependencies/UD_Arabic)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udar)
+Repository: [UD_Arabic-PADT](https://github.com/UniversalDependencies/UD_Arabic-PADT)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udar_padt)
 
 License: CC BY-NC-SA 3.0
 
@@ -27,7 +27,7 @@ Genre: news
 
 Questions, comments?
 General annotation questions (either Arabic-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Arabic/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Arabic-PADT/issues).
 If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&nbsp;mff&nbsp;•&nbsp;cuni&nbsp;•&nbsp;cz].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
@@ -43,7 +43,7 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-The Arabic UD treebank is based on the
+The Arabic-PADT UD treebank is based on the
 [Prague Arabic Dependency Treebank](http://ufal.mff.cuni.cz/padt/) (PADT),
 created at the Charles University in Prague.
 
@@ -87,19 +87,19 @@ Marrakech, Morocco.
 
 
 
-# Statistics of UD Arabic
+# Statistics of UD Arabic PADT
 
 ## POS Tags
 
-[ADJ](ar-pos-ADJ.html) – [ADP](ar-pos-ADP.html) – [ADV](ar-pos-ADV.html) – [AUX](ar-pos-AUX.html) – [CCONJ](ar-pos-CCONJ.html) – [DET](ar-pos-DET.html) – [INTJ](ar-pos-INTJ.html) – [NOUN](ar-pos-NOUN.html) – [NUM](ar-pos-NUM.html) – [PART](ar-pos-PART.html) – [PRON](ar-pos-PRON.html) – [PROPN](ar-pos-PROPN.html) – [PUNCT](ar-pos-PUNCT.html) – [SYM](ar-pos-SYM.html) – [VERB](ar-pos-VERB.html) – [X](ar-pos-X.html)
+[ADJ](ar_padt-pos-ADJ.html) – [ADP](ar_padt-pos-ADP.html) – [ADV](ar_padt-pos-ADV.html) – [AUX](ar_padt-pos-AUX.html) – [CCONJ](ar_padt-pos-CCONJ.html) – [DET](ar_padt-pos-DET.html) – [INTJ](ar_padt-pos-INTJ.html) – [NOUN](ar_padt-pos-NOUN.html) – [NUM](ar_padt-pos-NUM.html) – [PART](ar_padt-pos-PART.html) – [PRON](ar_padt-pos-PRON.html) – [PROPN](ar_padt-pos-PROPN.html) – [PUNCT](ar_padt-pos-PUNCT.html) – [SYM](ar_padt-pos-SYM.html) – [VERB](ar_padt-pos-VERB.html) – [X](ar_padt-pos-X.html)
 
 ## Features
 
-[Abbr](ar-feat-Abbr.html) – [AdpType](ar-feat-AdpType.html) – [Aspect](ar-feat-Aspect.html) – [Case](ar-feat-Case.html) – [Definite](ar-feat-Definite.html) – [Foreign](ar-feat-Foreign.html) – [Gender](ar-feat-Gender.html) – [Mood](ar-feat-Mood.html) – [Number](ar-feat-Number.html) – [NumForm](ar-feat-NumForm.html) – [NumValue](ar-feat-NumValue.html) – [Person](ar-feat-Person.html) – [Polarity](ar-feat-Polarity.html) – [PronType](ar-feat-PronType.html) – [VerbForm](ar-feat-VerbForm.html) – [Voice](ar-feat-Voice.html)
+[Abbr](ar_padt-feat-Abbr.html) – [AdpType](ar_padt-feat-AdpType.html) – [Aspect](ar_padt-feat-Aspect.html) – [Case](ar_padt-feat-Case.html) – [Definite](ar_padt-feat-Definite.html) – [Foreign](ar_padt-feat-Foreign.html) – [Gender](ar_padt-feat-Gender.html) – [Mood](ar_padt-feat-Mood.html) – [Number](ar_padt-feat-Number.html) – [NumForm](ar_padt-feat-NumForm.html) – [NumValue](ar_padt-feat-NumValue.html) – [Person](ar_padt-feat-Person.html) – [Polarity](ar_padt-feat-Polarity.html) – [PronType](ar_padt-feat-PronType.html) – [VerbForm](ar_padt-feat-VerbForm.html) – [Voice](ar_padt-feat-Voice.html)
 
 ## Relations
 
-[acl](ar-dep-acl.html) – [advcl](ar-dep-advcl.html) – [advmod](ar-dep-advmod.html) – [advmod:emph](ar-dep-advmod-emph.html) – [amod](ar-dep-amod.html) – [appos](ar-dep-appos.html) – [aux](ar-dep-aux.html) – [aux:pass](ar-dep-aux-pass.html) – [case](ar-dep-case.html) – [cc](ar-dep-cc.html) – [ccomp](ar-dep-ccomp.html) – [conj](ar-dep-conj.html) – [cop](ar-dep-cop.html) – [csubj](ar-dep-csubj.html) – [csubj:pass](ar-dep-csubj-pass.html) – [dep](ar-dep-dep.html) – [det](ar-dep-det.html) – [fixed](ar-dep-fixed.html) – [flat:foreign](ar-dep-flat-foreign.html) – [iobj](ar-dep-iobj.html) – [mark](ar-dep-mark.html) – [nmod](ar-dep-nmod.html) – [nsubj](ar-dep-nsubj.html) – [nsubj:pass](ar-dep-nsubj-pass.html) – [nummod](ar-dep-nummod.html) – [obj](ar-dep-obj.html) – [obl](ar-dep-obl.html) – [obl:arg](ar-dep-obl-arg.html) – [orphan](ar-dep-orphan.html) – [parataxis](ar-dep-parataxis.html) – [punct](ar-dep-punct.html) – [root](ar-dep-root.html) – [xcomp](ar-dep-xcomp.html)
+[acl](ar_padt-dep-acl.html) – [advcl](ar_padt-dep-advcl.html) – [advmod](ar_padt-dep-advmod.html) – [advmod:emph](ar_padt-dep-advmod-emph.html) – [amod](ar_padt-dep-amod.html) – [appos](ar_padt-dep-appos.html) – [aux](ar_padt-dep-aux.html) – [aux:pass](ar_padt-dep-aux-pass.html) – [case](ar_padt-dep-case.html) – [cc](ar_padt-dep-cc.html) – [ccomp](ar_padt-dep-ccomp.html) – [conj](ar_padt-dep-conj.html) – [cop](ar_padt-dep-cop.html) – [csubj](ar_padt-dep-csubj.html) – [csubj:pass](ar_padt-dep-csubj-pass.html) – [dep](ar_padt-dep-dep.html) – [det](ar_padt-dep-det.html) – [fixed](ar_padt-dep-fixed.html) – [flat:foreign](ar_padt-dep-flat-foreign.html) – [iobj](ar_padt-dep-iobj.html) – [mark](ar_padt-dep-mark.html) – [nmod](ar_padt-dep-nmod.html) – [nsubj](ar_padt-dep-nsubj.html) – [nsubj:pass](ar_padt-dep-nsubj-pass.html) – [nummod](ar_padt-dep-nummod.html) – [obj](ar_padt-dep-obj.html) – [obl](ar_padt-dep-obl.html) – [obl:arg](ar_padt-dep-obl-arg.html) – [orphan](ar_padt-dep-orphan.html) – [parataxis](ar_padt-dep-parataxis.html) – [punct](ar_padt-dep-punct.html) – [root](ar_padt-dep-root.html) – [xcomp](ar_padt-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
@@ -654,21 +654,23 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN-Acc (826)</li>
+      <li>VERB--NOUN-Acc (825)</li>
+      <li>VERB--NOUN-Acc-ADP(إِضَافَة) (1)</li>
       <li>VERB--NOUN-Acc-ADP(إِلَى) (3)</li>
       <li>VERB--NOUN-Acc-ADP(إِلَى)-ADP(عَلَى) (1)</li>
-      <li>VERB--NOUN-Acc-ADP(بَينَ) (1)</li>
       <li>VERB--NOUN-Acc-ADP(بِ) (2)</li>
       <li>VERB--NOUN-Acc-ADP(بِ)-ADP(فِي) (1)</li>
       <li>VERB--NOUN-Acc-ADP(تَحتَ) (1)</li>
       <li>VERB--NOUN-Acc-ADP(ضِدَّ) (1)</li>
       <li>VERB--NOUN-Acc-ADP(ضِمنَ) (1)</li>
       <li>VERB--NOUN-Acc-ADP(عَلَى) (2)</li>
-      <li>VERB--NOUN-Acc-ADP(فِي) (6)</li>
+      <li>VERB--NOUN-Acc-ADP(فِي) (4)</li>
       <li>VERB--NOUN-Acc-ADP(قَيدَ) (1)</li>
-      <li>VERB--NOUN-Acc-ADP(لِ) (3)</li>
+      <li>VERB--NOUN-Acc-ADP(لِ) (1)</li>
       <li>VERB--NOUN-Acc-ADP(مِن) (1)</li>
       <li>VERB--NOUN-Acc-ADP(مِن)-ADP(فِي) (1)</li>
+      <li>VERB--NOUN-Acc-ADP(هُوَ) (4)</li>
+      <li>VERB--NOUN-Acc-ADP(وَ) (1)</li>
       <li>VERB--NOUN-Gen (12)</li>
       <li>VERB--NOUN-Gen-ADP(إِلَى) (1)</li>
       <li>VERB--NOUN-Gen-ADP(بأنهما) (1)</li>
@@ -678,13 +680,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Gen-ADP(سِوَى) (1)</li>
       <li>VERB--NOUN-Gen-ADP(عَلَى) (1)</li>
       <li>VERB--NOUN-Gen-ADP(عَن) (3)</li>
-      <li>VERB--NOUN-Gen-ADP(فِي) (1)</li>
-      <li>VERB--NOUN-Gen-ADP(فِي)-ADP(حِينَ) (1)</li>
+      <li>VERB--NOUN-Gen-ADP(فِي) (2)</li>
       <li>VERB--NOUN-Gen-ADP(كَ) (1)</li>
       <li>VERB--NOUN-Gen-ADP(كُلّ) (1)</li>
       <li>VERB--NOUN-Gen-ADP(مِن) (1)</li>
-      <li>VERB--NOUN-Nom (4262)</li>
-      <li>VERB--NOUN-Nom-ADP(عَلَى) (1)</li>
+      <li>VERB--NOUN-Nom (4261)</li>
+      <li>VERB--NOUN-Nom-ADP(إِضَافَة) (1)</li>
+      <li>VERB--NOUN-Nom-ADP(عِلَاوَة)-ADP(وَ) (1)</li>
       <li>VERB--NOUN-Nom-ADP(كَان) (1)</li>
       <li>VERB--NOUN-Nom-ADP(وَصَل) (1)</li>
       <li>VERB--PRON-Acc (189)</li>
@@ -697,15 +699,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--PRON-Acc-ADP(فِي)-ADP(مِن) (1)</li>
       <li>VERB--PRON-Gen (3)</li>
       <li>VERB--PRON-Gen-ADP(حَوَالَى)-ADP(مِن) (1)</li>
-      <li>VERB--PRON-Gen-ADP(مِن) (4)</li>
+      <li>VERB--PRON-Gen-ADP(مِن) (3)</li>
+      <li>VERB--PRON-Gen-ADP(وَ) (1)</li>
       <li>VERB--PRON-Nom (19)</li>
       <li>VERB--PRON-Nom-ADP(عَلَى) (1)</li>
-      <li>VERB-Fin--NOUN-Acc (1152)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(بِ) (2)</li>
+      <li>VERB-Fin--NOUN-Acc (1151)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(إِضَافَة) (1)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(بِ) (1)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(بِ)-ADP(إِضَافَة) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(بِ)-ADP(فِي) (1)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(عَلَى)-ADP(بِ) (1)</li>
-      <li>VERB-Fin--NOUN-Acc-ADP(فِي) (5)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(فِي) (4)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(مَعَ)-ADP(مِن) (1)</li>
+      <li>VERB-Fin--NOUN-Acc-ADP(هُوَ) (1)</li>
       <li>VERB-Fin--NOUN-Gen (11)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(إِلَى) (1)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(سِوَى) (7)</li>
@@ -714,8 +720,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen-ADP(مِثلَ) (4)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(مِن) (2)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(وِفقَ) (1)</li>
-      <li>VERB-Fin--NOUN-Nom (2769)</li>
-      <li>VERB-Fin--NOUN-Nom-ADP(بِ) (2)</li>
+      <li>VERB-Fin--NOUN-Nom (2765)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(إِضَافَة) (2)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(بِ) (1)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(بِ)-ADP(إِضَافَة) (1)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(بِ)-ADP(مَا)-ADP(ذٰلِكَ) (1)</li>
+      <li>VERB-Fin--NOUN-Nom-ADP(فَضل) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(فِي) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(لِ) (1)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(مِن) (1)</li>
@@ -724,8 +734,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Gen (2)</li>
       <li>VERB-Fin--PRON-Gen-ADP(وَ)-ADP(فِي) (1)</li>
       <li>VERB-Fin--PRON-Nom (80)</li>
+      <li>VERB-Fin--PRON-Nom-ADP(إِمَّا) (1)</li>
       <li>VERB-Fin--PRON-Nom-ADP(فِي) (1)</li>
-      <li>VERB-Fin--PRON-Nom-ADP(مِن) (1)</li>
     </ul>
   </li>
 </ul>
@@ -738,9 +748,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Nom (93)</li>
       <li>VERB--PRON-Acc (640)</li>
       <li>VERB--PRON-Nom (2)</li>
-      <li>VERB-Fin--NOUN-Acc (2676)</li>
+      <li>VERB-Fin--NOUN-Acc (2674)</li>
       <li>VERB-Fin--NOUN-Gen (9)</li>
-      <li>VERB-Fin--NOUN-Nom (50)</li>
+      <li>VERB-Fin--NOUN-Nom (49)</li>
       <li>VERB-Fin--PRON-Acc (589)</li>
     </ul>
   </li>

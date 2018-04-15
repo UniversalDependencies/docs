@@ -17,22 +17,24 @@ The following 8 pairs of parts of speech are connected with `amod`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 amod	color:blue
-1	så	så	CCONJ	_	_	4	cc	_	_
-2	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-3	brydde	bry	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-4	budd	bu	VERB	_	VerbForm=Part	3	ccomp	_	_
-5	i	i	ADP	_	_	8	case	_	_
-6	den	den	DET	_	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
-7	vesle	liten	ADJ	_	Definite=Def|Degree=Pos|Number=Sing	8	amod	_	_
-8	bygningen	bygning	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	4	obl	_	_
-9	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	2	appos	_	_
-10	da	da	ADV	_	_	4	advmod	_	_
-11	.	$.	PUNCT	_	_	4	punct	_	_
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 11 amod	color:blue
+1	for	for	ADP	_	_	3	case	_	_
+2	å	å	PART	_	_	3	mark	_	_
+3	få	få	VERB	_	VerbForm=Inf	8	reparandum	_	_
+4	e	e	X	_	_	8	discourse:filler	_	_
+5	#	#	PUNCT	_	_	8	punct	_	_
+6	for	for	ADP	_	_	8	case	_	_
+7	å	å	PART	_	_	8	mark	_	_
+8	komme	komme	VERB	_	VerbForm=Inf	0	root	_	_
+9	til	til	ADP	_	_	12	case	_	_
+10	noko	nokon	DET	_	Gender=Neut|Number=Sing|PronType=Ind	12	det	_	_
+11	større	stor	ADJ	_	_	12	amod	_	_
+12	materiell	materiell	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	8	obl	_	_
+13	.	$.	PUNCT	_	_	8	punct	_	_
 
 ~~~
 
@@ -44,7 +46,7 @@ The following 8 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 7	fgColor:white
 # visual-style 7 6 amod	color:blue
 1	å	å	INTJ	_	_	7	discourse	_	_
-2	ikkje	ikkje	ADV	_	Polarity=Neg	7	advmod	_	_
+2	ikkje	ikkje	PART	_	Polarity=Neg	7	advmod	_	_
 3	var	vere	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	7	cop	_	_
 4	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
 5	så	så	ADV	_	_	7	advmod	_	_
@@ -67,7 +69,7 @@ The following 8 pairs of parts of speech are connected with `amod`: <tt><a href=
 # visual-style 4 6 amod	color:blue
 1	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
 2	var	vere	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	4	cop	_	_
-3	ikkje	ikkje	ADV	_	Polarity=Neg	4	advmod	_	_
+3	ikkje	ikkje	PART	_	Polarity=Neg	4	advmod	_	_
 4	noko	noko	PRON	_	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Ind,Prs	0	root	_	_
 5	#	#	PUNCT	_	_	6	punct	_	_
 6	meir	mykje	ADJ	_	_	4	amod	_	_

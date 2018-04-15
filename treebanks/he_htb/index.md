@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Hebrew'
+title:  'UD_Hebrew-HTB'
 udver: '2'
 ---
 
@@ -9,16 +9,17 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Hebrew
+# UD Hebrew HTB
 
 Language: [Hebrew](../he/overview/he-hub.html) (code: `he`)<br/>
 Family: Afro-Asiatic, Semitic
 
 This treebank has been part of Universal Dependencies since the UD v1.1 release.
 
-The following people have contributed to making this treebank part of UD: Yoav Goldberg, Reut Tsarfaty, Amir More.
+The following people have contributed to making this treebank part of UD: Yoav Goldberg, Reut Tsarfaty, Amir More, Shoval Saddeh.
 
-Repository: [UD_Hebrew](https://github.com/UniversalDependencies/UD_Hebrew)
+Repository: [UD_Hebrew-HTB](https://github.com/UniversalDependencies/UD_Hebrew-HTB)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhe_htb)
 
 License: CC BY-NC-SA 4.0
 
@@ -26,42 +27,112 @@ Genre: news
 
 Questions, comments?
 General annotation questions (either Hebrew-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Hebrew/issues).
-If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com, reut&nbsp;•&nbsp;tsarfaty&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com, habeanf&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com].
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Hebrew-HTB/issues).
+If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com, reut&nbsp;•&nbsp;tsarfaty&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com, habeanf&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com, shovatz&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com].
+Development of the treebank happens outside the UD repository.
+If there are bugs, either the original data source or the conversion procedure must be fixed.
+Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
-| XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Lemmas | annotated manually in non-UD style, automatically converted to UD |
+| UPOS | annotated manually in non-UD style, automatically converted to UD |
+| XPOS | annotated manually |
+| Features | annotated manually in non-UD style, automatically converted to UD |
+| Relations | annotated manually in non-UD style, automatically converted to UD |
 
 ## Description
 
+A Universal Dependencies Corpus for Hebrew.
+
+
+
+
+
+Universal Dependencies - Hebrew Dependency Treebank (v2)
+https://github.com/UniversalDependencies/UD_Hebrew
+
+V1 for the the corpus was built by semi-automatic conversion of the
+Hebrew Constituency Treebank (v2).
+V2 is converted from V1, using a combination of automatic conversion when possible,
+and manual conversion and verification in other cases.
+
+
+
 ## Acknowledgments
 
-# Statistics of UD Hebrew
+The Universal Dependencies Hebrew Treebank created by:
+(in alphabetic order):
+
+- Yoav Goldberg
+- Reut Tsarfaty
+
+- The following people were also involved in the creation of v2:
+- Amir More (adding Lemmas, detokenization, v1->v2 conversion)
+- Yuval Pinter (documentation)
+
+The Universal Dependencies Hebrew Treebank is based on the
+Hebrew Constituency Treebank (v2) developed by MILA, The Knowledge Center for Processing Hebrew.
+(http://www.mila.cs.technion.ac.il/resources_treebank.html)
+
+## References
+
+You are encouraged to cite these papers if you use the Hebrew Universal Dependencies Treebank:
+
+@inproceedings{tsarfaty2013unified,
+title={A Unified Morpho-Syntactic Scheme of Stanford Dependencies},
+author={Tsarfaty, Reut},
+booktitle={Proc. of ACL},
+year={2013}
+}
+
+@inproceedings{mcdonald2013universal,
+title={Universal Dependency Annotation for Multilingual Parsing},
+author={McDonald, Ryan T and Nivre, Joakim and Quirmbach-Brundage, Yvonne and Goldberg, Yoav and Das, Dipanjan and Ganchev, Kuzman and Hall, Keith B and Petrov, Slav and Zhang, Hao and T{\"a}ckstr{\"o}m, Oscar and others},
+booktitle={Proc. of ACL},
+year={2013}
+}
+
+Note that these papers do not accurately reflect the current annotation in the Treebank. A more up-to-date publication
+is forthcoming.
+
+
+
+
+# Statistics of UD Hebrew HTB
 
 ## POS Tags
 
-[ADJ](he-pos-ADJ.html) – [ADP](he-pos-ADP.html) – [ADV](he-pos-ADV.html) – [AUX](he-pos-AUX.html) – [CCONJ](he-pos-CCONJ.html) – [DET](he-pos-DET.html) – [INTJ](he-pos-INTJ.html) – [NOUN](he-pos-NOUN.html) – [NUM](he-pos-NUM.html) – [PART](he-pos-PART.html) – [PRON](he-pos-PRON.html) – [PROPN](he-pos-PROPN.html) – [PUNCT](he-pos-PUNCT.html) – [SCONJ](he-pos-SCONJ.html) – [VERB](he-pos-VERB.html) – [X](he-pos-X.html)
+[ADJ](he_htb-pos-ADJ.html) – [ADP](he_htb-pos-ADP.html) – [ADV](he_htb-pos-ADV.html) – [AUX](he_htb-pos-AUX.html) – [CCONJ](he_htb-pos-CCONJ.html) – [DET](he_htb-pos-DET.html) – [INTJ](he_htb-pos-INTJ.html) – [NOUN](he_htb-pos-NOUN.html) – [NUM](he_htb-pos-NUM.html) – [PART](he_htb-pos-PART.html) – [PRON](he_htb-pos-PRON.html) – [PROPN](he_htb-pos-PROPN.html) – [PUNCT](he_htb-pos-PUNCT.html) – [SCONJ](he_htb-pos-SCONJ.html) – [VERB](he_htb-pos-VERB.html) – [X](he_htb-pos-X.html)
 
 ## Features
 
-[Abbr](he-feat-Abbr.html) – [Case](he-feat-Case.html) – [Definite](he-feat-Definite.html) – [Gender](he-feat-Gender.html) – [HebBinyan](he-feat-HebBinyan.html) – [HebExistential](he-feat-HebExistential.html) – [HebSource](he-feat-HebSource.html) – [Mood](he-feat-Mood.html) – [Number](he-feat-Number.html) – [Person](he-feat-Person.html) – [Polarity](he-feat-Polarity.html) – [Prefix](he-feat-Prefix.html) – [PronType](he-feat-PronType.html) – [Reflex](he-feat-Reflex.html) – [Tense](he-feat-Tense.html) – [VerbForm](he-feat-VerbForm.html) – [VerbType](he-feat-VerbType.html) – [Voice](he-feat-Voice.html) – [Xtra](he-feat-Xtra.html)
+[Abbr](he_htb-feat-Abbr.html) – [Case](he_htb-feat-Case.html) – [Definite](he_htb-feat-Definite.html) – [Gender](he_htb-feat-Gender.html) – [HebBinyan](he_htb-feat-HebBinyan.html) – [HebExistential](he_htb-feat-HebExistential.html) – [HebSource](he_htb-feat-HebSource.html) – [Mood](he_htb-feat-Mood.html) – [Number](he_htb-feat-Number.html) – [Person](he_htb-feat-Person.html) – [Polarity](he_htb-feat-Polarity.html) – [Prefix](he_htb-feat-Prefix.html) – [PronType](he_htb-feat-PronType.html) – [Reflex](he_htb-feat-Reflex.html) – [Tense](he_htb-feat-Tense.html) – [VerbForm](he_htb-feat-VerbForm.html) – [VerbType](he_htb-feat-VerbType.html) – [Voice](he_htb-feat-Voice.html) – [Xtra](he_htb-feat-Xtra.html)
 
 ## Relations
 
-[acl](he-dep-acl.html) – [acl:inf](he-dep-acl-inf.html) – [acl:relcl](he-dep-acl-relcl.html) – [advcl](he-dep-advcl.html) – [advmod](he-dep-advmod.html) – [advmod:inf](he-dep-advmod-inf.html) – [advmod:phrase](he-dep-advmod-phrase.html) – [amod](he-dep-amod.html) – [appos](he-dep-appos.html) – [aux](he-dep-aux.html) – [aux:q](he-dep-aux-q.html) – [case](he-dep-case.html) – [case:acc](he-dep-case-acc.html) – [case:gen](he-dep-case-gen.html) – [cc](he-dep-cc.html) – [ccomp](he-dep-ccomp.html) – [compound:smixut](he-dep-compound-smixut.html) – [conj](he-dep-conj.html) – [conj:discourse](he-dep-conj-discourse.html) – [cop](he-dep-cop.html) – [csubj](he-dep-csubj.html) – [dep](he-dep-dep.html) – [det](he-dep-det.html) – [det:def](he-dep-det-def.html) – [det:quant](he-dep-det-quant.html) – [dislocated](he-dep-dislocated.html) – [fixed](he-dep-fixed.html) – [flat:name](he-dep-flat-name.html) – [goeswith](he-dep-goeswith.html) – [iobj](he-dep-iobj.html) – [mark](he-dep-mark.html) – [nmod](he-dep-nmod.html) – [nmod:poss](he-dep-nmod-poss.html) – [nsubj](he-dep-nsubj.html) – [nsubj:cop](he-dep-nsubj-cop.html) – [nummod](he-dep-nummod.html) – [obj](he-dep-obj.html) – [obl](he-dep-obl.html) – [obl:tmod](he-dep-obl-tmod.html) – [parataxis](he-dep-parataxis.html) – [punct](he-dep-punct.html) – [root](he-dep-root.html) – [xcomp](he-dep-xcomp.html)
+[acl](he_htb-dep-acl.html) – [acl:inf](he_htb-dep-acl-inf.html) – [acl:relcl](he_htb-dep-acl-relcl.html) – [advcl](he_htb-dep-advcl.html) – [advmod](he_htb-dep-advmod.html) – [advmod:inf](he_htb-dep-advmod-inf.html) – [advmod:phrase](he_htb-dep-advmod-phrase.html) – [amod](he_htb-dep-amod.html) – [appos](he_htb-dep-appos.html) – [aux](he_htb-dep-aux.html) – [aux:q](he_htb-dep-aux-q.html) – [case](he_htb-dep-case.html) – [case:acc](he_htb-dep-case-acc.html) – [case:gen](he_htb-dep-case-gen.html) – [cc](he_htb-dep-cc.html) – [ccomp](he_htb-dep-ccomp.html) – [compound:smixut](he_htb-dep-compound-smixut.html) – [conj](he_htb-dep-conj.html) – [conj:discourse](he_htb-dep-conj-discourse.html) – [cop](he_htb-dep-cop.html) – [csubj](he_htb-dep-csubj.html) – [dep](he_htb-dep-dep.html) – [det](he_htb-dep-det.html) – [det:def](he_htb-dep-det-def.html) – [det:quant](he_htb-dep-det-quant.html) – [dislocated](he_htb-dep-dislocated.html) – [fixed](he_htb-dep-fixed.html) – [flat:name](he_htb-dep-flat-name.html) – [goeswith](he_htb-dep-goeswith.html) – [iobj](he_htb-dep-iobj.html) – [mark](he_htb-dep-mark.html) – [nmod](he_htb-dep-nmod.html) – [nmod:poss](he_htb-dep-nmod-poss.html) – [nsubj](he_htb-dep-nsubj.html) – [nsubj:cop](he_htb-dep-nsubj-cop.html) – [nummod](he_htb-dep-nummod.html) – [obj](he_htb-dep-obj.html) – [obl](he_htb-dep-obl.html) – [obl:tmod](he_htb-dep-obl-tmod.html) – [parataxis](he_htb-dep-parataxis.html) – [punct](he_htb-dep-punct.html) – [root](he_htb-dep-root.html) – [xcomp](he_htb-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 6216 sentences, 115535 tokens and 161369 syntactic words.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 19497 tokens (17%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 976 types of words that contain both letters and punctuation. Examples: ה_, _של_, _הוא, _הם, _היא, את_, של_, _הן, _אני, _אנחנו, ש"ח, ארה"ב, יו"ר, צה"ל, _אתה, מנכ"ל, ח"כ, יד_, דבר_, שם_, בית_, בריה"ם, חבר_, בית"ר, תפקיד_, ד"ר, פנים_, דרך_, חיים_, חלק_, חו"ל, מוות_, ראש_, _אתם, בן_, עו"ד, פה_, מ"ר, מד"א, סוף_, עין_, איש_, דעה_, מקום_, כוונה_, מצב_, ספר_, ארץ_, כוח_, דירה_</li>
+</ul>
+
+<ul>
 <li>This corpus contains 37035 multi-word tokens. On average, one multi-word token consists of 2.24 syntactic words.</li>
 <li>There are 15652 types of multi-word tokens. Examples: לו, שהוא, בו, המשפט, המשטרה, אותו, שלו, ביום, בבית, הפועל, בכל, הממשלה, החברה, ולא, שלא, להם, לכל, הזה, האוצר, לי, בישראל, שהיה, הבחירות, לה, שיש, הראשון, הביטחון, שבו, בה, בארץ, בדרך, בירושלים, העבודה, אותה, בהם, ועל, אותם, הארץ, במסגרת, השבוע, וגם, בימים, המדינה, הראשונה, לכך, מהם, העובדים, שהם, המשחק, לנו.</li>
 </ul>
@@ -73,6 +144,9 @@ If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æ
 <ul>
 <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: SYM</li>
+</ul>
+
+<ul>
 <li>This corpus contains 17 word types tagged as particles (PART): אותה, אותו, אותם, אותן, את, את_, אתו, אתכם, אתם, כש, מש, של, שלה, שלהם, שלו, שלך, שלנו</li>
 </ul>
 
@@ -97,13 +171,18 @@ If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æ
 </ul>
 
 <ul>
-<li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Inf
   <ul>
     <li>VERB: להיות, לעשות, לתת, לשלם, לפנות, למנוע, לבצע, לחיות, לקבל, למצוא</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>AUX: יכול, יכולה, יכולים, מאפשרת, מאפשר, יכולות, מאפשרים, מאפשרות, מתאפשרת</li>
@@ -111,12 +190,12 @@ If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æ
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
+
 <li><a>Gender</a>
+
   <ul>
     <li>Fem
       <ul>
@@ -130,6 +209,9 @@ If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æ
         <li>VERB-Part: היא, אינה, אומרת, אינן, הן, איננה, כוללת, מבוססת, עולות, עומדת</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Fem,Masc
       <ul>
         <li>AUX: יוכלו, מאפשר, נוכל, מאפשרים</li>
@@ -141,6 +223,9 @@ If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æ
         <li>VERB-Part: אינני, איננו, איני</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>ADJ: אחרים, ראשון, גדול, לאומי, חדש, אחר, רבים, רב, טוב, ישראלי</li>
@@ -155,10 +240,15 @@ If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æ
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Number</a>
+
   <ul>
     <li>Dual
       <ul>
@@ -166,11 +256,17 @@ If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æ
         <li>NUM: אלפיים</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dual,Plur
       <ul>
         <li>NOUN: שוליים, שפתיים</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Plur
       <ul>
         <li>ADJ: אחרים, רבים, אחרונים, שונים, חדשים, רבות, אחרות, גדולים, שונות, אחרונות</li>
@@ -183,12 +279,18 @@ If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æ
         <li>VERB-Part: אינם, הם, חולים, רבים, רוצים, אינן, אומרים, הן, טוענים, יודעים</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Plur,Sing
       <ul>
         <li>NOUN: %, ס"ם, ברוטו</li>
         <li>PRON: אילו</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: ראשון, גדול, לאומי, חדש, אחר, ראשונה, רב, טוב, ישראלי, אמריקאי</li>
@@ -202,9 +304,13 @@ If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æ
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Acc
       <ul>
@@ -212,6 +318,9 @@ If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æ
         <li>PRON: אותו, אותה, _הוא, _הם, אותם, _היא, אותן, _הן, _אני, _אתה</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Gen
       <ul>
         <li>ADP: של_</li>
@@ -219,6 +328,9 @@ If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æ
         <li>PRON: _הוא, _היא, _הם, _הן, _אני, _אנחנו, _אתה, _אתם, _את</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Tem
       <ul>
         <li>ADP: מ</li>
@@ -228,10 +340,15 @@ If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æ
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Definite</a>
+
   <ul>
     <li>Cons
       <ul>
@@ -242,18 +359,27 @@ If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æ
         <li>VERB-Part: ממלא, מחזיקות, אוזלת, מצופה, נותן, רווי, יוצאת, לובשי, מיידי, מכבי</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Def
       <ul>
         <li>NOUN: יד_, דבר_, שם_, בית_, חבר_, תפקיד_, פנים_, דרך_, חיים_, חלק_</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Degree and Polarity</h3>
 
 
+
+
 <li><a>Polarity</a>
+
   <ul>
     <li>Neg
       <ul>
@@ -261,6 +387,9 @@ If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æ
         <li>VERB-Part: אינו, אינה, אינם, אינן, איננו, איננה, אינני, איני, אינך, אינכם</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>VERB: היה, היו, הוא, היא, היתה, יהיה, להיות, תהיה, הם, יהיו</li>
@@ -269,13 +398,20 @@ If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æ
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Verbal Features</h3>
 
 
+
+
 <li><a>Mood</a>
+
   <ul>
     <li>Imp
       <ul>
@@ -283,9 +419,13 @@ If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æ
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Tense</a>
+
   <ul>
     <li>Fut
       <ul>
@@ -293,6 +433,9 @@ If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æ
         <li>VERB: יהיה, תהיה, יהיו, תקבל, יכלו, יגיעו, יישאר, יישארו, יגיע, יקבלו</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Past
       <ul>
         <li>AUX: קשה, סביר, קל, יכול, צפוי, מעוניין, אל, מומלץ, עדיף, עתיד</li>
@@ -300,9 +443,13 @@ If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æ
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Voice</a>
+
   <ul>
     <li>Act
       <ul>
@@ -311,6 +458,9 @@ If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æ
         <li>VERB-Part: אומר, חולים, כולל, יודע, רבים, עולה, רוצה, רוצים, אומרת, קשור</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Mid
       <ul>
         <li>VERB: נראה, נמצא, נעשה, נאמר, נקבע, נמסר, נפצעו, נבחר, ניתן, נודע</li>
@@ -318,6 +468,9 @@ If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æ
         <li>VERB-Part: נראה, נמצאים, נוסף, נמצא, נחשב, נדמה, נעשה, ניתנים, נמנע, נמנעת</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pass
       <ul>
         <li>VERB: מדובר, הוחלט, הוגשה, הוטל, מדורגת, מוצע, סוכם, הוגש, הוגשו, הועברו</li>
@@ -325,45 +478,69 @@ If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æ
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Art
       <ul>
         <li>DET: ה, ה_</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dem
       <ul>
         <li>PRON: זו, זה, כך, אלה, זאת, כן, אלו, הללו, זהו, זוהי</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>PRON: כלשהו, כלשהי, איזושהי, כלשהם, כלשהן, מישהו</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Int
       <ul>
         <li>ADV: מה, מי, האם, מדוע, כיצד, איך, למה, היכן, איזו, איפה</li>
         <li>PRON: איזו, מהו, מיהו, אילו, מהם, מהן, מיהם</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
         <li>PRON: _הוא, _הם, _היא, הוא, הם, היא, _הן, _אני, _אנחנו, אני</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
 
+
+
 <li><a>Reflex</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -371,9 +548,13 @@ If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æ
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Person</a>
+
   <ul>
     <li>1
       <ul>
@@ -383,6 +564,9 @@ If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æ
         <li>VERB-Part: אינני, איננו, איני, ממיסים, ניצב, מצליחין, ניצבת</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>1,2,3
       <ul>
         <li>AUX: יכול, צריך, יכולה, ניתן, אמור, עלול, חייב, מוכן, חשוב, עשוי</li>
@@ -390,6 +574,9 @@ If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æ
         <li>VERB-Part: אומר, מדובר, חולים, כולל, נראה, יודע, רבים, רוצה, עולה, רוצים</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>AUX: יוכל, תוכל</li>
@@ -398,6 +585,9 @@ If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æ
         <li>VERB-Part: אינך, אינכם</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>AUX: יוכלו, יכול</li>
@@ -407,12 +597,19 @@ If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æ
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
 
 
+
+
+
 <h3>Other Features</h3>
+
 
 <li><a>Abbr</a>
   <ul>
@@ -430,6 +627,7 @@ If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æ
     </li>
   </ul>
 </li>
+
 <li><a>HebBinyan</a>
   <ul>
     <li>HIFIL
@@ -481,6 +679,7 @@ If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æ
     </li>
   </ul>
 </li>
+
 <li><a>HebExistential</a>
   <ul>
     <li>True
@@ -490,6 +689,7 @@ If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æ
     </li>
   </ul>
 </li>
+
 <li><a>HebSource</a>
   <ul>
     <li>ConvUncertainHead
@@ -531,6 +731,7 @@ If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æ
     </li>
   </ul>
 </li>
+
 <li><a>Prefix</a>
   <ul>
     <li>Yes
@@ -540,6 +741,7 @@ If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æ
     </li>
   </ul>
 </li>
+
 <li><a>VerbType</a>
   <ul>
     <li>Cop
@@ -557,6 +759,7 @@ If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æ
     </li>
   </ul>
 </li>
+
 <li><a>Xtra</a>
   <ul>
     <li>Junk
@@ -573,6 +776,9 @@ If you want to collaborate, please contact [yoav&nbsp;•&nbsp;goldberg&nbsp;(æ
 
 <ul>
 <li>This corpus uses 6 lemmas as copulas (<a>cop</a>). Examples: הוא, זה, הנו, הינה, זאת, זו.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 8 lemmas as auxiliaries (<a>aux</a>). Examples: היה, _, הפך, היווה, היות, נהפך, הבה, תהייה.</li>
 </ul>
 

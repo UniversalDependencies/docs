@@ -109,16 +109,16 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 1242 <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> tokens (76% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="sl_sst-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (957; 77%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (901; 73%), <tt><a href="sl_sst-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (836; 67%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="sl_sst-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (957; 77%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (901; 73%), <tt><a href="sl_sst-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (837; 67%).
 
 `PRON` tokens may have the following values of `Case`:
 
 * `Acc` (314; 25% of non-empty `Case`): <em>kaj, ga, jih, jo, me, kar, nas, te, vas, mene</em>
-* `Dat` (279; 22% of non-empty `Case`): <em>mi, si, ti, vam, meni, jim, mu, ji, nam, njemu</em>
+* `Dat` (278; 22% of non-empty `Case`): <em>mi, si, ti, vam, meni, jim, mu, ji, nam, njemu</em>
 * `Gen` (62; 5% of non-empty `Case`): <em>jih, ga, mene, česa, je, me, nas, nje, te, tebe</em>
 * `Ins` (45; 4% of non-empty `Case`): <em>nami, mano, njimi, sabo, vami, njo, čim, njim, seboj, tabo</em>
 * `Loc` (22; 2% of non-empty `Case`): <em>nas, njej, meni, njih, njem, sebi, vas, čem, čemer</em>
-* `Nom` (520; 42% of non-empty `Case`): <em>jaz, kaj, ti, mi, kdo, vi, on, ona, kar, oni</em>
+* `Nom` (521; 42% of non-empty `Case`): <em>jaz, kaj, ti, mi, kdo, vi, on, ona, kar, oni</em>
 * `EMPTY` (398): <em>se</em>
 
 <table>

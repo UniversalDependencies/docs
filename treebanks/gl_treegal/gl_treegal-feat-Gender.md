@@ -38,7 +38,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 4111 <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="gl_treegal-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3452; 84%), <tt><a href="gl_treegal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3183; 77%), <tt><a href="gl_treegal-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2989; 73%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="gl_treegal-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3452; 84%), <tt><a href="gl_treegal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3183; 77%), <tt><a href="gl_treegal-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2988; 73%).
 
 `DET` tokens may have the following values of `Gender`:
 
@@ -50,6 +50,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
   <tr><th>Paradigm <i>o</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
   <tr><td><tt><tt><a href="gl_treegal-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="gl_treegal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>o, lo, os</em></td><td><em>a, la</em></td></tr>
   <tr><td><tt><tt><a href="gl_treegal-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="gl_treegal-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>os, los</em></td><td><em>as, las</em></td></tr>
+  <tr><td><tt><tt><a href="gl_treegal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>a</em></td></tr>
   <tr><td><tt><tt><a href="gl_treegal-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="gl_treegal-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>os</em></td><td></td></tr>
 </table>
 
@@ -64,7 +65,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 * `Com` (21; 1% of non-empty `Gender`): <em>obstante, embargante, best, coincidente, diferentes, Simple, Visitábel, bípedes, capaz, conscientes</em>
 * `Fem` (802; 47% of non-empty `Gender`): <em>galega, política, europea, nova, social, Franca, actual, cultural, laboral, mellor</em>
 * `Masc` (870; 51% of non-empty `Gender`): <em>novo, galego, español, galegos, socialista, constitucional, difícil, gran, mellor, claro</em>
-* `EMPTY` (27): <em>xeral, Mellor, galega, Artístico, Barataria, Constituínte, Franca, Profesional, Reservada, Tradicional</em>
+* `EMPTY` (26): <em>xeral, Mellor, galega, Artístico, Barataria, Constituínte, Franca, Profesional, Reservada, Tradicional</em>
 
 <table>
   <tr><th>Paradigm <i>nacionalista</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Com</tt></th></tr>

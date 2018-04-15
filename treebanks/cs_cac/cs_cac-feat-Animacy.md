@@ -151,7 +151,7 @@ The most frequent other feature values with which `DET` and `Animacy` co-occurre
 
 * `Anim` (858; 35% of non-empty `Animacy`): <em>kteří, každý, sami, každého, ti, někteří, naši, svého, každému, tito</em>
 * `Inan` (1567; 65% of non-empty `Animacy`): <em>které, tyto, který, tento, svůj, každý, některé, ty, každém, její</em>
-* `EMPTY` (17591): <em>to, které, jejich, jeho, která, který, tím, této, své, těchto</em>
+* `EMPTY` (17592): <em>to, které, jejich, jeho, která, který, tím, této, své, těchto</em>
 
 <table>
   <tr><th>Paradigm <i>ten</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -170,7 +170,7 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 
 * `Anim` (371; 43% of non-empty `Animacy`): <em>všichni, kdo, někdo, nikdo, oni, někomu, nikoho, jehož, kdož, koho</em>
 * `Inan` (495; 57% of non-empty `Animacy`): <em>co, všechny, čím, čem, čeho, copak, veškeré, čemu, samý, veškerý</em>
-* `EMPTY` (15167): <em>se, si, všech, je, nás, nám, všechny, jež, nich, nichž</em>
+* `EMPTY` (15166): <em>se, si, všech, je, nás, nám, všechny, jež, nich, nichž</em>
 
 <table>
   <tr><th>Paradigm <i>všechno</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
@@ -223,10 +223,10 @@ The 10 most frequent relations where parent and child node agree in `Animacy`:
 <tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1363; 90%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (714; 61%),
 <tt>PROPN --[<tt><a href="cs_cac-dep-flat.html">flat</a></tt>]--> PROPN</tt> (707; 99%),
-<tt>PROPN --[<tt><a href="cs_cac-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (627; 84%),
+<tt>PROPN --[<tt><a href="cs_cac-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (624; 84%),
 <tt>PROPN --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> PROPN</tt> (535; 61%),
-<tt>PROPN --[<tt><a href="cs_cac-dep-amod.html">amod</a></tt>]--> ADJ</tt> (217; 73%),
-<tt>PROPN --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> NOUN</tt> (102; 81%),
+<tt>PROPN --[<tt><a href="cs_cac-dep-amod.html">amod</a></tt>]--> ADJ</tt> (216; 73%),
+<tt>PROPN --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> NOUN</tt> (101; 81%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> ADJ</tt> (52; 91%),
 <tt>NOUN --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (48; 55%).
 

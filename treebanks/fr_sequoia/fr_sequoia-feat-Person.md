@@ -50,7 +50,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (457; 24% of non-empty `Person`): <em>nous, je, j', me, m', moi, -nous, -je, -moi</em>
 * `2` (135; 7% of non-empty `Person`): <em>vous, -vous, Toi</em>
 * `3` (1308; 69% of non-empty `Person`): <em>il, se, y, s', en, elle, ils, c', on, le</em>
-* `EMPTY` (998): <em>qui, que, ce, dont, cela, où, qu', un, laquelle, ceci</em>
+* `EMPTY` (993): <em>qui, que, ce, dont, cela, où, qu', un, laquelle, ceci</em>
 
 <table>
   <tr><th>Paradigm <i>il</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
@@ -98,15 +98,15 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 `ADP` tokens may have the following values of `Person`:
 
 * `3` (7; 100% of non-empty `Person`): <em>à, de</em>
-* `EMPTY` (11392): <em>de, à, d', en, pour, dans, par, sur, avec, chez</em>
+* `EMPTY` (11371): <em>de, à, d', en, pour, dans, par, sur, avec, chez</em>
 
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="fr_sequoia-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (713; 61%),
-<tt>VERB --[<tt><a href="fr_sequoia-dep-expl.html">expl</a></tt>]--> PRON</tt> (195; 57%),
-<tt>VERB --[<tt><a href="fr_sequoia-dep-conj.html">conj</a></tt>]--> VERB</tt> (117; 59%),
-<tt>PRON --[<tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (31; 91%),
-<tt>PRON --[<tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (17; 94%),
+<tt>VERB --[<tt><a href="fr_sequoia-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (733; 62%),
+<tt>VERB --[<tt><a href="fr_sequoia-dep-expl.html">expl</a></tt>]--> PRON</tt> (203; 58%),
+<tt>VERB --[<tt><a href="fr_sequoia-dep-conj.html">conj</a></tt>]--> VERB</tt> (118; 58%),
+<tt>PRON --[<tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (23; 88%),
+<tt>PRON --[<tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (9; 90%),
 <tt>PRON --[<tt><a href="fr_sequoia-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (1; 100%).
 

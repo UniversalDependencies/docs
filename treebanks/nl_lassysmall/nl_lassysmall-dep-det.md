@@ -8,56 +8,62 @@ udver: '2'
 
 This relation is universal.
 
-10522 nodes (10%) are attached to their parents as `det`.
+10109 nodes (10%) are attached to their parents as `det`.
 
-10514 instances of `det` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.43233225622505.
+10107 instances of `det` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.41952715402117.
 
-The following 24 pairs of parts of speech are connected with `det`: <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (8557; 81% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (1043; 10% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (529; 5% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (123; 1% instances), <tt><a href="nl_lassysmall-pos-X.html">X</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (58; 1% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (44; 0% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (43; 0% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt> (37; 0% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (36; 0% instances), <tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (14; 0% instances), <tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (11; 0% instances), <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (9; 0% instances), <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt>-<tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+The following 23 pairs of parts of speech are connected with `det`: <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (8149; 81% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (1326; 13% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (283; 3% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (114; 1% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (45; 0% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (42; 0% instances), <tt><a href="nl_lassysmall-pos-X.html">X</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (38; 0% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt> (35; 0% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (29; 0% instances), <tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (13; 0% instances), <tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (10; 0% instances), <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt>-<tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt>-<tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt>-<tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 det	color:blue
-1	WTA	WTA	PROPN	SPEC|deeleigen	_	0	root	_	_
-2	Hamburg	Hamburg	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	1	flat:name	_	_
-3	-	-	PUNCT	LET	_	4	punct	_	_
-4	winst	winst	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	1	parataxis	_	_
-5	in	in	ADP	VZ|init	_	7	case	_	_
-6	de	de	DET	LID|bep|stan|rest	Definite=Def	7	det	_	_
-7	finale	finale	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	nmod	_	_
-8	tegen	tegen	ADP	VZ|init	_	9	case	_	_
-9	Venus	Venus	PROPN	SPEC|deeleigen	_	7	nmod	_	_
-10	Williams	Williams	PROPN	SPEC|deeleigen	_	9	flat:name	_	SpaceAfter=No
-11	.	.	PUNCT	LET	_	1	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 det	color:blue
+1	Leden	lid	NOUN	N|soort|mv|basis	Number=Plur	0	root	0:root	_
+2	in	in	ADP	VZ|init	_	4	case	4:case	_
+3	de	de	DET	LID|bep|stan|rest	Definite=Def	4	det	4:det	_
+4	Kamer	kamer	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	1	nmod	1:nmod	_
+5	van	van	ADP	VZ|init	_	6	case	6:case	_
+6	Volksvertegenwoordigers	volksvertegenwoordiger	NOUN	N|soort|mv|basis	Number=Plur	4	nmod	4:nmod	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 det	color:blue
-1	De	de	DET	LID|bep|stan|rest	Definite=Def	2	det	_	_
-2	Onze-Lieve-Vrouwekerk	Onze-Lieve-Vrouwekerk	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	0	root	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 det	color:blue
+1	Leden	lid	NOUN	N|soort|mv|basis	Number=Plur	0	root	0:root	_
+2	in	in	ADP	VZ|init	_	4	case	4:case	_
+3	het	het	DET	LID|bep|stan|evon	Definite=Def	4	det	4:det	_
+4	Vlaams	Vlaams	PROPN	SPEC|deeleigen	_	1	nmod	1:nmod	_
+5	Parlement	Parlement	PROPN	SPEC|deeleigen	_	4	flat:name	4:flat:name	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 det	color:blue
-1	Het	het	DET	LID|bep|stan|evon	Definite=Def	2	det	_	_
-2	Etnografisch	etnografisch	ADJ	ADJ|prenom|basis|zonder	Degree=Pos	0	root	_	_
-3	Museum	museum	NOUN	N|soort|ev|basis|onz|stan	Gender=Neut|Number=Sing	2	fixed	_	_
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 8 det	color:blue
+1	De	de	DET	LID|bep|stan|rest	Definite=Def	4	nsubj:pass	4:nsubj:pass	_
+2	Schelde	Schelde	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	1	flat:name	1:flat:name	_
+3	werd	worden	AUX	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	4	aux:pass	4:aux:pass	_
+4	beschouwd	beschouwen	VERB	WW|vd|vrij|zonder	VerbForm=Part	0	root	0:root	_
+5	als	als	ADP	VZ|init	_	6	mark	6:mark	_
+6	grens	grens	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	xcomp	4:xcomp	_
+7	tussen	tussen	ADP	VZ|init	_	10	case	10:case	_
+8	de	de	DET	LID|bep|stan|rest	Definite=Def	10	det	10:det	_
+9	beide	beide	DET	VNW|onbep|grad|stan|prenom|met-e|mv|basis	_	10	det	10:det	_
+10	rijken	rijk	ADJ	ADJ|nom|basis|met-e|mv-n	Degree=Pos	6	nmod	6:nmod	SpaceAfter=No
+11	.	.	PUNCT	LET	_	4	punct	4:punct	_
 
 ~~~
 

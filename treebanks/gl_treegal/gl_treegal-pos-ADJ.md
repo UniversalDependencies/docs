@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Galician-TreeGal: POS Tags: `ADJ`
 
-There are 691 `ADJ` lemmas (17%), 904 `ADJ` types (16%) and 1720 `ADJ` tokens (7%).
+There are 690 `ADJ` lemmas (17%), 903 `ADJ` types (16%) and 1719 `ADJ` tokens (7%).
 Out of 16 observed tags, the rank of `ADJ` is: 3 in number of lemmas, 3 in number of types and 6 in number of tokens.
 
 The 10 most frequent `ADJ` lemmas: <em>galego, novo, político, grande, español, mellor, público, propio, social, económico</em>
@@ -19,7 +19,7 @@ The 10 most frequent ambiguous types:  <em>galega</em> (<tt><a href="gl_treegal-
 
 
 * <em>galega</em>
-  * <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> 34: <em>A camareira <b>galega</b></em>
+  * <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> 34: <em>Cidadanía <b>galega</b></em>
   * <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> 1: <em>E pasa o mesmo con as bases XIII ( A actividade económica e o desenvolvemento substentábel ) , a XIV ( O financiamento público de o Poder galego . O sistema fiscal e a Facenda galega ) ou a XV ( O dereito universal a a prestación sanitaria e a sanidade <b>galega</b> ) .</em>
 * <em>galego</em>
   * <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> 16: <em>É mais , a nivel <b>galego</b> tamén se segue esa liña .</em>
@@ -31,7 +31,7 @@ The 10 most frequent ambiguous types:  <em>galega</em> (<tt><a href="gl_treegal-
   * <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> 15: <em>A larvada guerra <b>política</b> que se mantén entre o mandatario branquiazul e o Concello facía inviábel , como en moitas outras cousas , a súa materialización .</em>
   * <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> 11: <em>Quen vai marcar agora a <b>política</b> en o concello ?</em>
 * <em>galegos</em>
-  * <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> 10: <em>Algo rexeitado , en principio , por los nacionalistas vascos , cataláns e <b>galegos</b> .</em>
+  * <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> 10: <em>Teñen a condición de cidadáns <b>galegos</b> as persoas con veciñanza administrativa en Galiza .</em>
   * <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> 10: <em>En Galiza , os <b>galegos</b> votan si .</em>
 * <em>nacionalista</em>
   * <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> 8: <em>A proposta <b>nacionalista</b> tamén aposta claramente por la autonomía en o plano xudicial ( coincide en o fondo con a proposta socialista ) .</em>
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>galega</em> (<tt><a href="gl_treegal-
 
 ## Morphology
 
-The form / lemma ratio of `ADJ` is 1.308249 (the average of all parts of speech is 1.370813).
+The form / lemma ratio of `ADJ` is 1.308696 (the average of all parts of speech is 1.370902).
 
 The 1st highest number of forms (4) was observed with the lemma “amplo”: <em>ampla, amplas, amplo, amplos</em>.
 
@@ -59,22 +59,22 @@ The 2nd highest number of forms (4) was observed with the lemma “básico”: <
 
 The 3rd highest number of forms (4) was observed with the lemma “directo”: <em>directa, directas, directo, directos</em>.
 
-`ADJ` occurs with 4 features: <tt><a href="gl_treegal-feat-Number.html">Number</a></tt> (1697; 99% instances), <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt> (1693; 98% instances), <tt><a href="gl_treegal-feat-Degree.html">Degree</a></tt> (40; 2% instances), <tt><a href="gl_treegal-feat-AdpType.html">AdpType</a></tt> (1; 0% instances)
+`ADJ` occurs with 3 features: <tt><a href="gl_treegal-feat-Number.html">Number</a></tt> (1697; 99% instances), <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt> (1693; 98% instances), <tt><a href="gl_treegal-feat-Degree.html">Degree</a></tt> (40; 2% instances)
 
-`ADJ` occurs with 8 feature-value pairs: `AdpType=Prep`, `Degree=Cmp`, `Degree=Sup`, `Gender=Com`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`
+`ADJ` occurs with 7 feature-value pairs: `Degree=Cmp`, `Degree=Sup`, `Gender=Com`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`
 
-`ADJ` occurs with 16 feature combinations.
+`ADJ` occurs with 15 feature combinations.
 The most frequent feature combination is `Gender=Masc|Number=Sing` (629 tokens).
 Examples: <em>novo, galego, español, socialista, constitucional, difícil, gran, claro, próximo, único</em>
 
 
 ## Relations
 
-`ADJ` nodes are attached to their parents using 19 different relations: <tt><a href="gl_treegal-dep-amod.html">amod</a></tt> (1377; 80% instances), <tt><a href="gl_treegal-dep-conj.html">conj</a></tt> (139; 8% instances), <tt><a href="gl_treegal-dep-root.html">root</a></tt> (58; 3% instances), <tt><a href="gl_treegal-dep-xcomp.html">xcomp</a></tt> (23; 1% instances), <tt><a href="gl_treegal-dep-fixed.html">fixed</a></tt> (22; 1% instances), <tt><a href="gl_treegal-dep-acl.html">acl</a></tt> (19; 1% instances), <tt><a href="gl_treegal-dep-ccomp.html">ccomp</a></tt> (15; 1% instances), <tt><a href="gl_treegal-dep-obj.html">obj</a></tt> (14; 1% instances), <tt><a href="gl_treegal-dep-compound.html">compound</a></tt> (10; 1% instances), <tt><a href="gl_treegal-dep-advcl.html">advcl</a></tt> (9; 1% instances), <tt><a href="gl_treegal-dep-obl.html">obl</a></tt> (9; 1% instances), <tt><a href="gl_treegal-dep-nsubj.html">nsubj</a></tt> (7; 0% instances), <tt><a href="gl_treegal-dep-nmod.html">nmod</a></tt> (6; 0% instances), <tt><a href="gl_treegal-dep-advmod.html">advmod</a></tt> (3; 0% instances), <tt><a href="gl_treegal-dep-parataxis.html">parataxis</a></tt> (3; 0% instances), <tt><a href="gl_treegal-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="gl_treegal-dep-case.html">case</a></tt> (2; 0% instances), <tt><a href="gl_treegal-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="gl_treegal-dep-list.html">list</a></tt> (1; 0% instances)
+`ADJ` nodes are attached to their parents using 19 different relations: <tt><a href="gl_treegal-dep-amod.html">amod</a></tt> (1377; 80% instances), <tt><a href="gl_treegal-dep-conj.html">conj</a></tt> (139; 8% instances), <tt><a href="gl_treegal-dep-root.html">root</a></tt> (58; 3% instances), <tt><a href="gl_treegal-dep-xcomp.html">xcomp</a></tt> (23; 1% instances), <tt><a href="gl_treegal-dep-fixed.html">fixed</a></tt> (22; 1% instances), <tt><a href="gl_treegal-dep-acl.html">acl</a></tt> (19; 1% instances), <tt><a href="gl_treegal-dep-ccomp.html">ccomp</a></tt> (15; 1% instances), <tt><a href="gl_treegal-dep-obj.html">obj</a></tt> (14; 1% instances), <tt><a href="gl_treegal-dep-compound.html">compound</a></tt> (10; 1% instances), <tt><a href="gl_treegal-dep-advcl.html">advcl</a></tt> (9; 1% instances), <tt><a href="gl_treegal-dep-obl.html">obl</a></tt> (9; 1% instances), <tt><a href="gl_treegal-dep-nsubj.html">nsubj</a></tt> (7; 0% instances), <tt><a href="gl_treegal-dep-nmod.html">nmod</a></tt> (6; 0% instances), <tt><a href="gl_treegal-dep-advmod.html">advmod</a></tt> (3; 0% instances), <tt><a href="gl_treegal-dep-parataxis.html">parataxis</a></tt> (3; 0% instances), <tt><a href="gl_treegal-dep-appos.html">appos</a></tt> (2; 0% instances), <tt><a href="gl_treegal-dep-case.html">case</a></tt> (1; 0% instances), <tt><a href="gl_treegal-dep-csubj.html">csubj</a></tt> (1; 0% instances), <tt><a href="gl_treegal-dep-list.html">list</a></tt> (1; 0% instances)
 
-Parents of `ADJ` nodes belong to 10 different parts of speech: <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (1257; 73% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (132; 8% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (130; 8% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (95; 6% instances),  (58; 3% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (18; 1% instances), <tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> (16; 1% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `ADJ` nodes belong to 10 different parts of speech: <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (1256; 73% instances), <tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (132; 8% instances), <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> (130; 8% instances), <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> (95; 6% instances),  (58; 3% instances), <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> (18; 1% instances), <tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> (16; 1% instances), <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> (7; 0% instances), <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> (6; 0% instances), <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> (1; 0% instances)
 
-1224 (71%) `ADJ` nodes are leaves.
+1223 (71%) `ADJ` nodes are leaves.
 
 246 (14%) `ADJ` nodes have one child.
 

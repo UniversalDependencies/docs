@@ -17,40 +17,38 @@ The following 47 pairs of parts of speech are connected with `nmod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 7 nmod	color:blue
-1	veš	vedeti	VERB	Vmpr2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	word=veš|msd=Ggnsde
-2	kako	kako	ADV	Rgp	Degree=Pos	3	advmod	_	word=kako|msd=Rsn
-3	vrti	vrteti	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	word=vrti|msd=Ggnste
-4	tisto	tisti	DET	Pd-fsa	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	word=tisto|msd=Zk-zet
-5	kosilnico	kosilnica	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	word=kosilnico|msd=Sozet
-6	brez	brez	ADP	Sg	Case=Gen	7	case	_	word=brez|msd=Dr
-7	motorja	motor	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	word=motorja|msd=Somer
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 6 nmod	color:blue
+1	hvala	hvala	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	word=hvala|msd=Sozei
+2	vam	ti	PRON	Pp2-pd	Case=Dat|Number=Plur|Person=2|PronType=Prs	1	obj	_	word=vam|msd=Zod-md
+3	za	za	ADP	Sa	Case=Acc	6	case	_	word=za|msd=Dt
+4	eee	eee	INTJ	I	_	6	discourse:filler	_	word=eee|msd=M
+5	vašo	vaš	DET	Ps2fsap	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	6	det	_	word=vašo|msd=Zsdzetm
+6	pripombo	pripomba	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	1	nmod	_	word=pripombo|msd=Sozet
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 nmod	color:blue
-1	najbolj	najbolj	ADV	Rgs	Degree=Sup	2	advmod	_	word=najbolj|msd=Rss
-2	pozitiven	pozitiven	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	word=pozitivn|msd=Ppnmein
-3	tak	tak	DET	Pd-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	word=tak|msd=Zk-mei
-4	del	del	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	8	xcomp	_	word=del|msd=Somei
-5	slovenije	Slovenija	PROPN	Npfsg	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	word=Slovenije|msd=Slzer
-6	se	se	PRON	Px------y	PronType=Prs|Variant=Short	8	expl	_	word=se|msd=Zp------k
-7	mi	jaz	PRON	Pp1-sd--y	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	8	obj	_	word=mi|msd=Zop-ed--k
-8	zdi	zdeti	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	word=zdi|msd=Ggnste
-9	morje	morje	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	8	parataxis	_	word=morje|msd=Sosei
-10	…	…	PUNCT	Z	_	8	punct	_	word=…|msd=U
-11	ja	ja	PART	Q	_	12	discourse	_	word=ja|msd=L
-12	širina	širina	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	8	parataxis	_	word=širina|msd=Sozei
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 nmod	color:blue
+1	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	word=tu|msd=Zk-sei
+2	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	word=so|msd=Gp-stm-n
+3	[name:organisation]	[name:organisation]	PROPN	X	_	0	root	_	word=[name:organisation]|msd=N
+4	pol	pol	ADV	Rgp	Degree=Pos	5	advmod	_	word=po|msd=Rsn
+5	so	biti	VERB	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	parataxis	_	word=so|msd=Gp-stm-n
+6	pa	pa	CCONJ	Cc	_	5	advmod	_	word=pa|msd=Vp
+7	še	še	PART	Q	_	5	advmod	_	word=še|msd=L
+8	sony	Sony	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	9	nmod	_	word=soni|msd=Slmei
+9	variante	varianta	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	word=variante|msd=Sozmi
+10	ne	ne	PART	Q	_	5	discourse	_	word=ne|msd=L
+11	?	?	PUNCT	Z	_	5	punct	_	word=?|msd=U
 
 ~~~
 

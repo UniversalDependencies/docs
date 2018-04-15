@@ -17,19 +17,23 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 3 root	color:blue
-1	nei	nei	INTJ	_	_	3	discourse	_	_
-2	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
-3	var	vere	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-4	nå	nå	ADV	_	_	3	advmod	_	_
-5	i	i	ADP	_	_	6	case	_	_
-6	tredvetala	tredvetale	NOUN	_	Definite=Def|Gender=Fem|Number=Sing	3	obl	_	_
-7	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	appos	_	_
-8	.	$.	PUNCT	_	_	3	punct	_	_
+# visual-style 0 8 root	color:blue
+1	ja	ja	INTJ	_	_	8	discourse	_	_
+2	det	det	DET	_	Gender=Neut|Number=Sing|PronType=Dem	3	det	_	_
+3	første	første	ADJ	_	Definite=Def|Degree=Pos|Number=Sing	5	advmod	_	_
+4	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+5	begynte	begynne	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	8	parataxis:deletion	_	_
+6	#	#	PUNCT	_	_	8	punct	_	_
+7	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+8	var	vere	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+9	#	#	PUNCT	_	_	11	punct	_	_
+10	i	i	ADP	_	_	11	case	_	_
+11	femogtjue	femogtjue	NUM	_	Number=Plur|NumType=Card	8	obl	_	_
+12	.	$.	PUNCT	_	_	8	punct	_	_
 
 ~~~
 
@@ -47,21 +51,19 @@ The following 13 pairs of parts of speech are connected with `root`: -<tt><a hre
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
-# visual-style 0 6 root	color:blue
-1	den	den	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
-2	tid	tid	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	6	obl	_	_
-3	var	vere	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	6	cop	_	_
-4	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
-5	jo	jo	ADV	_	_	6	advmod	_	_
-6	tennpluggar	tennplugg	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	0	root	_	_
-7	og	og	CCONJ	_	_	9	cc	_	_
-8	#	#	PUNCT	_	_	9	punct	_	_
-9	vanleg	vanleg	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	6	conj	_	_
-10	.	$.	PUNCT	_	_	6	punct	_	_
+# visual-style 0 3 root	color:blue
+1	om	om	ADP	_	_	3	case	_	_
+2	om	om	ADP	_	_	3	reparandum	_	_
+3	dagen	dag	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	0	root	_	_
+4	#	#	PUNCT	_	_	7	punct	_	_
+5	som	som	PRON	_	PronType=Rel	7	obj	_	_
+6	vi	vi	PRON	_	Animacy=Hum|Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	_
+7	bar	bere	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	3	acl:relcl	_	_
+8	.	$.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

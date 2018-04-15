@@ -13,7 +13,7 @@ Some words have combined values of the feature; 1 combinations have been observe
 116842 tokens (38%) have a non-empty value of `Number`.
 24244 types (75%) occur at least once with a non-empty value of `Number`.
 16079 lemmas (69%) occur at least once with a non-empty value of `Number`.
-The feature is used with 6 part-of-speech tags: <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (55805; 18% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (22540; 7% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (18821; 6% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (15916; 5% instances), <tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt> (3759; 1% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (1; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (55805; 18% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (22540; 7% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (20916; 7% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (13821; 4% instances), <tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt> (3759; 1% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -59,34 +59,32 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `PRON`
 
-18821 <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> tokens (79% of all `PRON` tokens) have a non-empty value of `Number`.
+20916 <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> tokens (81% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="no_bokmaal-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (17891; 95%), <tt><a href="no_bokmaal-feat-Person.html">Person</a></tt><tt>=3</tt> (12257; 65%), <tt><a href="no_bokmaal-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (9660; 51%), <tt><a href="no_bokmaal-feat-Case.html">Case</a></tt><tt>=Nom</tt> (9529; 51%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="no_bokmaal-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (19983; 96%), <tt><a href="no_bokmaal-feat-Person.html">Person</a></tt><tt>=3</tt> (12257; 59%), <tt><a href="no_bokmaal-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (11256; 54%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (4372; 23% of non-empty `Number`): <em>vi, de, oss, dem, alle, ingen, dere, hverandre, disse, noen</em>
-* `Sing` (14449; 77% of non-empty `Number`): <em>det, jeg, han, hun, du, dette, man, meg, den, noe</em>
+* `Plur` (4919; 24% of non-empty `Number`): <em>vi, de, oss, dem, sine, alle, våre, ingen, dere, hverandre</em>
+* `Sing` (15997; 76% of non-empty `Number`): <em>det, jeg, han, hun, du, dette, man, sin, meg, den</em>
 * `EMPTY` (5039): <em>som, seg, hva, hvem, hvis, hvilket, ikkenoe, jag, whatever, you</em>
 
 <table>
-  <tr><th>Paradigm <i>noen</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=Fem,Masc</tt></tt></td><td><em>noen</em></td><td></td></tr>
-  <tr><td><tt></tt></td><td></td><td><em>noen</em></td></tr>
+  <tr><th>Paradigm <i>sin</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>sin</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>si</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>sitt</em></td><td></td></tr>
+  <tr><td><tt></tt></td><td></td><td><em>sine</em></td></tr>
 </table>
-
-`Number` seems to be **lexical feature** of `PRON`. 94% lemmas (29) occur only with one value of `Number`.
 
 ### `DET`
 
-15916 <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> tokens (97% of all `DET` tokens) have a non-empty value of `Number`.
-
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="no_bokmaal-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (13821; 87%).
+13821 <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> tokens (96% of all `DET` tokens) have a non-empty value of `Number`.
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (3531; 22% of non-empty `Number`): <em>de, andre, alle, sine, noen, disse, våre, slike, egne, ingen</em>
-* `Sing` (12385; 78% of non-empty `Number`): <em>en, et, den, det, sin, denne, noe, annet, sitt, hans</em>
+* `Plur` (2984; 22% of non-empty `Number`): <em>de, andre, alle, noen, disse, slike, egne, ingen, begge, hvilke</em>
+* `Sing` (10837; 78% of non-empty `Number`): <em>en, et, den, det, denne, noe, annet, dette, annen, ingen</em>
 * `EMPTY` (559): <em>selv, samme, neste, forrige, selve, selveste, 135a, sjøl, the, Endel</em>
 
 <table>
@@ -132,10 +130,10 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="no_bokmaal-dep-det.html">det</a></tt>]--> DET</tt> (11769; 96%),
-<tt>NOUN --[<tt><a href="no_bokmaal-dep-amod.html">amod</a></tt>]--> ADJ</tt> (11361; 84%),
+<tt>NOUN --[<tt><a href="no_bokmaal-dep-amod.html">amod</a></tt>]--> ADJ</tt> (11362; 84%),
 <tt>NOUN --[<tt><a href="no_bokmaal-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (5407; 57%),
 <tt>NOUN --[<tt><a href="no_bokmaal-dep-conj.html">conj</a></tt>]--> NOUN</tt> (2810; 72%),
-<tt>NOUN --[<tt><a href="no_bokmaal-dep-nmod.html">nmod</a></tt>]--> DET</tt> (2077; 97%),
+<tt>NOUN --[<tt><a href="no_bokmaal-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (2232; 92%),
 <tt>NOUN --[<tt><a href="no_bokmaal-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (2002; 91%),
 <tt>ADJ --[<tt><a href="no_bokmaal-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (992; 50%),
 <tt>ADJ --[<tt><a href="no_bokmaal-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (815; 78%),

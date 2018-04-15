@@ -19,11 +19,11 @@ The 10 most frequent ambiguous types:  <em>pet</em> (<tt><a href="sl_sst-pos-NUM
 
 
 * <em>pet</em>
-  * <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> 14: <em>se pravi tukaj si boste zapisovali vzorce en dva tri štiri <b>pet</b></em>
+  * <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> 14: <em>pol sem jaz pol kar naenkrat imel ne vem <b>pet</b> jurjev naročnine</em>
   * <tt><a href="sl_sst-pos-X.html">X</a></tt> 1: <em>aha <b>pet</b> [gap] [gap] [all:laughter] … resno ?</em>
 * <em>ene</em>
   * <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> 10: <em>in to so mešali kar eno olje pa <b>ene</b> take č [gap] stare barve</em>
-  * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 6: <em>in smo šle po <b>ene</b> trikrat s križa v gozd</em>
+  * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 6: <em>je <b>ene</b> štir [gap] <b>ene</b> š [gap] štirideset</em>
 * <em>osemdesetih</em>
   * <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 2: <em>tole so mister mister broken wings bili so to časi <b>osemdesetih</b> let ko se je pač tale pesem držala pa še vedno se</em>
   * <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> 1: <em>v nadaljevanju pesem iz <b>osemdesetih</b> belinda karlyle heaven is a place on earth pa star čebelji pregovor tudi sledi</em>

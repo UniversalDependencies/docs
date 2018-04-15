@@ -24,7 +24,7 @@ The following 11 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 24 27 orphan	color:blue
 1	De	de	ADP	_	_	3	case	_	_
 2	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-3	somme	somme	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+3	somme	somme	NOUN	_	Gender=Fem|Number=Sing	11	obl:mod	_	_
 4	de	de	ADP	_	_	6	case	_	_
 5	4,2	4,2	NUM	_	NumType=Card	6	nummod	_	_
 6	milliards	milliard	NOUN	_	Gender=Masc|Number=Plur|NumType=Card	3	nmod	_	SpaceAfter=No
@@ -35,7 +35,7 @@ The following 11 pairs of parts of speech are connected with `orphan`: <tt><a hr
 11	consacré	consacrer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 12	à	à	ADP	_	_	14	case	_	_
 13	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
-14	reconstruction	reconstruction	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	SpaceAfter=No
+14	reconstruction	reconstruction	NOUN	_	Gender=Fem|Number=Sing	11	obl:arg	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	17	punct	_	_
 16	17	17	NUM	_	NumType=Card	17	nummod	_	SpaceAfter=No
 17	%	%	NOUN	_	Gender=Masc	11	conj	_	_
@@ -69,7 +69,7 @@ The following 11 pairs of parts of speech are connected with `orphan`: <tt><a hr
 7	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	8	det	_	_
 8	Colonies	colonie	NOUN	_	Gender=Fem|Number=Plur	5	nmod	_	_
 9	(	(	PUNCT	_	_	5	punct	_	SpaceAfter=No
-10	à	à	ADP	_	_	13	case	_	_
+10	à	à	ADP	_	_	13	case	_	MWE=à_partir_de|MWEPOS=ADP
 11	partir	partir	VERB	_	VerbForm=Inf	10	fixed	_	_
 12	de	de	ADP	_	_	10	fixed	_	_
 13	1950	1950	NUM	_	NumType=Card	5	nmod	_	SpaceAfter=No

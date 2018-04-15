@@ -40,7 +40,7 @@ The following 6 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 3	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj:pass	_	_
 4	innføres	innføre	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
 5	jo	jo	ADV	_	_	4	advmod	_	_
-6	for	for	ADP	_	_	8	mark	_	_
+6	for	for	SCONJ	_	_	8	mark	_	_
 7	å	å	PART	_	_	8	mark	_	_
 8	beskytte	beskytte	VERB	_	VerbForm=Inf	4	advcl	_	_
 9	dere	dere	PRON	_	Animacy=Hum|Case=Acc|Number=Plur|Person=2|PronType=Prs	8	obj	_	_

@@ -315,11 +315,11 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>NOUN --[<tt><a href="fi_ftb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5256; 90%),
+<tt>NOUN --[<tt><a href="fi_ftb-dep-amod.html">amod</a></tt>]--> ADJ</tt> (5245; 90%),
 <tt>NOUN --[<tt><a href="fi_ftb-dep-det.html">det</a></tt>]--> DET</tt> (2551; 78%),
-<tt>NOUN --[<tt><a href="fi_ftb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1507; 91%),
+<tt>NOUN --[<tt><a href="fi_ftb-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1506; 91%),
 <tt>NOUN --[<tt><a href="fi_ftb-dep-acl.html">acl</a></tt>]--> VERB</tt> (1124; 53%),
-<tt>ADJ --[<tt><a href="fi_ftb-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> NOUN</tt> (465; 59%),
+<tt>ADJ --[<tt><a href="fi_ftb-dep-nsubj-cop.html">nsubj:cop</a></tt>]--> NOUN</tt> (464; 59%),
 <tt>PROPN --[<tt><a href="fi_ftb-dep-flat.html">flat</a></tt>]--> PROPN</tt> (463; 60%),
 <tt>ADJ --[<tt><a href="fi_ftb-dep-conj.html">conj</a></tt>]--> ADJ</tt> (432; 97%),
 <tt>PROPN --[<tt><a href="fi_ftb-dep-conj.html">conj</a></tt>]--> PROPN</tt> (326; 93%),

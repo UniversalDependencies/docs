@@ -58,15 +58,15 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
 
 ### `DET`
 
-884 <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> tokens (5% of all `DET` tokens) have a non-empty value of `Definite`.
+884 <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> tokens (6% of all `DET` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="no_bokmaal-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (884; 100%), <tt><a href="no_bokmaal-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (687; 78%), <tt><a href="no_bokmaal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (543; 61%).
+The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="no_bokmaal-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (687; 78%), <tt><a href="no_bokmaal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (543; 61%).
 
 `DET` tokens may have the following values of `Definite`:
 
 * `Def` (367; 42% of non-empty `Definite`): <em>samme, neste, forrige, andre, selve, selveste, the</em>
 * `Ind` (517; 58% of non-empty `Definite`): <em>annet, annen, egen, eget, annens</em>
-* `EMPTY` (15591): <em>en, et, den, de, det, andre, sin, alle, denne, noen</em>
+* `EMPTY` (13496): <em>en, et, den, de, det, andre, alle, denne, noen, noe</em>
 
 <table>
   <tr><th>Paradigm <i>annen</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -108,8 +108,8 @@ The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>ADJ --[<tt><a href="no_bokmaal-dep-conj.html">conj</a></tt>]--> ADJ</tt> (569; 87%),
 <tt>NOUN --[<tt><a href="no_bokmaal-dep-obl.html">obl</a></tt>]--> NOUN</tt> (310; 58%),
 <tt>NOUN --[<tt><a href="no_bokmaal-dep-appos.html">appos</a></tt>]--> NOUN</tt> (173; 56%),
-<tt>NOUN --[<tt><a href="no_bokmaal-dep-acl-relcl.html">acl:relcl</a></tt>]--> ADJ</tt> (104; 54%),
-<tt>NOUN --[<tt><a href="no_bokmaal-dep-acl.html">acl</a></tt>]--> NOUN</tt> (67; 56%),
+<tt>NOUN --[<tt><a href="no_bokmaal-dep-acl-relcl.html">acl:relcl</a></tt>]--> ADJ</tt> (99; 56%),
+<tt>NOUN --[<tt><a href="no_bokmaal-dep-acl.html">acl</a></tt>]--> NOUN</tt> (67; 55%),
 <tt>NOUN --[<tt><a href="no_bokmaal-dep-xcomp.html">xcomp</a></tt>]--> NOUN</tt> (50; 53%),
-<tt>NOUN --[<tt><a href="no_bokmaal-dep-acl-relcl.html">acl:relcl</a></tt>]--> NOUN</tt> (45; 57%).
+<tt>NOUN --[<tt><a href="no_bokmaal-dep-acl-relcl.html">acl:relcl</a></tt>]--> NOUN</tt> (40; 62%).
 

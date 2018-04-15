@@ -17,37 +17,38 @@ The following 10 pairs of parts of speech are connected with `obj`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 obj	color:blue
-1	Europeizar	europeizar	VERB	V0f000	VerbForm=Inf	0	root	_	_
-2	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	horario	horario	NOUN	Scms	Gender=Masc|Number=Sing	1	obj	_	_
-4	de	de	ADP	P	AdpType=Prep	5	case	_	_
-5	traballo	traballo	NOUN	Scms	Gender=Masc|Number=Sing	3	nmod	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 obj	color:blue
+1	Só	só	ADV	Wn	_	2	advmod	_	_
+2	dedican	dedicar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	máis	máis	ADV	Wm	_	4	advmod	_	_
+4	tempo	tempo	NOUN	Scms	Gender=Masc|Number=Sing	2	obj	_	_
+5	en	en	ADP	P	AdpType=Prep	7	case	_	_
+6	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	Estados	estados	PROPN	Sp00	Gender=Masc|Number=Plur	2	obl	_	_
+8	Unidos	unido	ADJ	A0mp	Gender=Masc|Number=Plur	7	amod	_	SpaceAfter=No
+9	.	.	PUNCT	Q.	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 obj	color:blue
-1	E	e	CCONJ	Cc	_	5	mark	_	_
-2	tamén	tamén	ADV	Wn	_	5	advmod	_	_
-3	por	por	ADP	P	AdpType=Prep	5	mark	_	_
-4	poder	poder	AUX	V0f000	VerbForm=Inf	5	aux	_	_
-5	ver	ver	VERB	V0f000	VerbForm=Inf	0	root	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 3 obj	color:blue
+1	Por	por	ADP	P	AdpType=Prep	2	mark	_	_
+2	emocionar	emocionar	VERB	V0f000	VerbForm=Inf	0	root	_	_
+3	nos	nos	PRON	Raa1ap	Case=Acc|Clitic=Yes|Gender=Com|Number=Plur|Person=1|PronType=Prs	2	obj	_	_
+4	e	e	CCONJ	Cc	_	5	cc	_	_
+5	facer	facer	VERB	V0f000	VerbForm=Inf	2	conj	_	_
 6	nos	nos	PRON	Raa1ap	Case=Acc|Clitic=Yes|Gender=Com|Number=Plur|Person=1|PronType=Prs	5	obj	_	_
-7	en	en	ADP	P	AdpType=Prep	10	case	_	_
-8	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
-9	seu	seu	DET	Md3sms	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
-10	espello	espello	NOUN	Scms	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
-11	.	.	PUNCT	Q.	_	5	punct	_	_
+7	sentir	sentir	VERB	V0f000	VerbForm=Inf	5	xcomp	_	SpaceAfter=No
+8	.	.	PUNCT	Q.	_	2	punct	_	_
 
 ~~~
 
@@ -58,15 +59,11 @@ The following 10 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 obj	color:blue
-1	Lograrán	lograr	VERB	Vfi30p	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
-2	apartar	apartar	VERB	V0f000	VerbForm=Inf	1	xcomp	_	_
-3	a	a	ADP	P	AdpType=Prep	4	case	_	_
-4	Pérez	pérez	PROPN	Sp00	_	2	obj	_	_
-5	Mariño	mariño	PROPN	Sp00	_	4	flat:name	_	_
-6	de	de	ADP	P	AdpType=Prep	8	case	_	_
-7	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-8	concello	concello	NOUN	Scms	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
-9	?	?	PUNCT	Q?	_	1	punct	_	_
+1	"	"	PUNCT	Q"	_	2	punct	_	SpaceAfter=No
+2	Votamos	votar	VERB	Vpi10p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	Constitución	Constitución	PROPN	Spfs	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
+5	.	.	PUNCT	Q.	_	2	punct	_	_
 
 ~~~
 

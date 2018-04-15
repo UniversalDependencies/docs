@@ -25,13 +25,13 @@ The following 5 pairs of parts of speech are connected with `expl`: <tt><a href=
 1	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	expl	4:expl	_
 2	как	как	ADV	_	Degree=Pos	4	advmod	4:advmod	_
 3	кто	кто	PRON	_	Case=Nom	4	nsubj	4:nsubj	_
-4	решит	решать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	решит	решить	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	0:root	_
 5	для	для	ADP	_	_	6	case	6:case	_
 6	себя	себя	PRON	_	Case=Gen	4	obl	4:obl	SpaceAfter=No
-7	,	,	PUNCT	_	_	6	punct	6:punct	_
+7	,	,	PUNCT	_	_	8	punct	8:punct	_
 8	посмотрев	смотреть	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	4	advcl	4:advcl	_
 9	фильм	фильм	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obj	8:obj	SpaceAfter=No
-10	.	.	PUNCT	_	_	9	punct	9:punct	_
+10	.	.	PUNCT	_	_	8	punct	8:punct	_
 
 ~~~
 
@@ -66,7 +66,7 @@ The following 5 pairs of parts of speech are connected with `expl`: <tt><a href=
 5	любят	любить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	csubj	9:csubj	SpaceAfter=No
 6	,	,	PUNCT	_	_	5	punct	5:punct	_
 7	так	так	ADV	_	Degree=Pos	9	advmod	9:advmod	_
-8	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	expl	9:root	_
+8	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	expl	9:expl	_
 9	японцев	японец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	0	root	0:root	SpaceAfter=No
 10	.	.	PUNCT	_	_	9	punct	9:punct	_
 

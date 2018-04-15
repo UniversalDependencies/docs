@@ -19,16 +19,16 @@ The 10 most frequent ambiguous types:  <em>da</em> (<tt><a href="sl_sst-pos-SCON
 
 
 * <em>da</em>
-  * <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 533: <em><b>da</b> ne bo časa zl [gap] [gap] manjkal slučajno</em>
-  * <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 16: <em><b>da</b> <b>da</b></em>
-  * <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 15: <em>prosim če se le <b>da</b> v pravopisno čim bolj čisti nekako mmm podobi</em>
+  * <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 533: <em>mislim <b>da</b> ne še</em>
+  * <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 16: <em><b>da</b> in kar odstopila je torej anja pärson</em>
+  * <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 15: <em>pa tudi pač mislim se <b>da</b> videti na več koncih</em>
   * <tt><a href="sl_sst-pos-X.html">X</a></tt> 1: <em>genau wo ist den das ? ach so <b>da</b></em>
 * <em>če</em>
-  * <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 159: <em>sploh <b>če</b> je ne prebereš mislim tako da jo prebereš</em>
+  * <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 159: <em>ampak <b>če</b> nimate sline je to malo težje ne</em>
   * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 1: <em>in so se pač spraševali tudi ti znanstveniki ki so to proizvajali na vseh testih so dali zmeraj vprašanje kaj pa <b>če</b></em>
 * <em>kot</em>
-  * <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 91: <em>na vrhu je tako <b>kot</b> si rekla en šef lahko sta tudi dva</em>
-  * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 5: <em>ja ampak tukaj če gledava ta <b>kot</b> kaj bo ta črta glede na ta <b>kot</b> ?</em>
+  * <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 91: <em>ja če se vam zdi za za bolj za klasifikacijo nezasebno <b>kot</b> zasebno komot</em>
+  * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 5: <em><b>kot</b> petinšestdeset eee petnš [gap] eee petnajst stopinj</em>
 * <em>ka</em>
   * <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 22: <em><b>ka</b> so stopnjo više kakor ti [gap]</em>
   * <tt><a href="sl_sst-pos-X.html">X</a></tt> 8: <em>ta človek se tako pisal <b>ka</b> to fi ?</em>

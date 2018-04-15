@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-32690 nodes (11%) are attached to their parents as `case`.
+32684 nodes (11%) are attached to their parents as `case`.
 
-32461 instances of `case` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.58739675741817.
+32455 instances of `case` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.5871068412679.
 
-The following 11 pairs of parts of speech are connected with `case`: <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (23277; 71% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (5271; 16% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (1790; 5% instances), <tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (778; 2% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (773; 2% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (291; 1% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (267; 1% instances), <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (142; 0% instances), <tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (88; 0% instances), <tt><a href="no_bokmaal-pos-X.html">X</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (10; 0% instances), <tt><a href="no_bokmaal-pos-SYM.html">SYM</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (3; 0% instances).
+The following 11 pairs of parts of speech are connected with `case`: <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (23274; 71% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (5271; 16% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (1794; 5% instances), <tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (778; 2% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (773; 2% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (287; 1% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (264; 1% instances), <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (142; 0% instances), <tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (88; 0% instances), <tt><a href="no_bokmaal-pos-X.html">X</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (10; 0% instances), <tt><a href="no_bokmaal-pos-SYM.html">SYM</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (3; 0% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 11 pairs of parts of speech are connected with `case`: <tt><a href
 3	på	på	ADP	_	_	4	case	_	_
 4	vei	vei	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 5	til	til	ADP	_	_	8	case	_	_
-6	sin	sin	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	nmod	_	_
+6	sin	sin	PRON	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	nmod	_	_
 7	neste	neste	DET	_	Definite=Def|PronType=Dem	8	det	_	_
 8	gjerning	gjerning	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
 9	.	$.	PUNCT	_	_	4	punct	_	_
@@ -62,7 +62,7 @@ The following 11 pairs of parts of speech are connected with `case`: <tt><a href
 1	Man	man	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|PronType=Prs	2	nsubj	_	_
 2	bryter	bryte	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	anstendighet	anstendighet	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	2	obj	_	_
-4	for	for	ADP	_	_	6	mark	_	_
+4	for	for	SCONJ	_	_	6	mark	_	_
 5	å	å	PART	_	_	6	mark	_	_
 6	si	si	VERB	_	VerbForm=Inf	2	advcl	_	_
 7	seg	seg	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	6	obj	_	_

@@ -22,10 +22,10 @@ The following 53 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 advcl	color:blue
-1	Chodíte	chodit	VERB	VB-P---2P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2	pravidelně	pravidelně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	3	advmod	_	LDeriv=pravidelný
-3	plavat	plavat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	1	advcl	_	SpaceAfter=No
-4	.	.	PUNCT	Z:-------------	_	1	punct	_	_
+1	Chodíte	chodit	VERB	VB-P---2P-AA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	pravidelně	pravidelně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	3	advmod	3:advmod	LDeriv=pravidelný
+3	plavat	plavat	VERB	Vf--------A----	Polarity=Pos|VerbForm=Inf	1	advcl	1:advcl	SpaceAfter=No
+4	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~
 
@@ -36,17 +36,17 @@ The following 53 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 8 advcl	color:blue
-1	Nejsou	být	AUX	VB-P---3P-NA---	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
-2	nebezpečné	bezpečný	ADJ	AAFP1----1N----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Neg	0	root	_	SpaceAfter=No|LId=bezpečný-1
-3	,	,	PUNCT	Z:-------------	_	8	punct	_	_
-4	protože	protože	SCONJ	J,-------------	_	8	mark	_	_
-5	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	8	expl:pv	_	LGloss=(zvr._zájmeno/částice)
-6	prakticky	prakticky	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	8	advmod	_	LDeriv=praktický
-7	nikdy	nikdy	ADV	Db-------------	PronType=Neg	8	advmod	_	_
-8	nemění	měnit	VERB	VB-P---3P-NA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	_
-9	v	v	ADP	RR--4----------	AdpType=Prep|Case=Acc	10	case	_	LId=v-1
-10	nádor	nádor	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	8	obl:arg	_	SpaceAfter=No
-11	.	.	PUNCT	Z:-------------	_	2	punct	_	_
+1	Nejsou	být	AUX	VB-P---3P-NA---	Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	2:cop	_
+2	nebezpečné	bezpečný	ADJ	AAFP1----1N----	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Neg	0	root	0:root	SpaceAfter=No|LId=bezpečný-1
+3	,	,	PUNCT	Z:-------------	_	8	punct	8:punct	_
+4	protože	protože	SCONJ	J,-------------	_	8	mark	8:mark	_
+5	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	8	expl:pv	8:expl:pv	LGloss=(zvr._zájmeno/částice)
+6	prakticky	prakticky	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	8	advmod	8:advmod	LDeriv=praktický
+7	nikdy	nikdy	ADV	Db-------------	PronType=Neg	8	advmod	8:advmod	_
+8	nemění	měnit	VERB	VB-P---3P-NA---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	2:advcl	_
+9	v	v	ADP	RR--4----------	AdpType=Prep|Case=Acc	10	case	10:case	LId=v-1
+10	nádor	nádor	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	8	obl:arg	8:obl:arg	SpaceAfter=No
+11	.	.	PUNCT	Z:-------------	_	2	punct	2:punct	_
 
 ~~~
 
@@ -57,18 +57,18 @@ The following 53 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 11 advcl	color:blue
-1	Zachoval	zachovat	VERB	VpYS---XR-AA---	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-2	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	1	expl:pv	_	LGloss=(zvr._zájmeno/částice)
-3	však	však	CCONJ	J^-------------	_	1	cc	_	_
-4	tak	tak	ADV	Db-------------	PronType=Dem	1	advmod	_	SpaceAfter=No|LId=tak-3
-5	,	,	PUNCT	Z:-------------	_	11	punct	_	_
-6	že	že	SCONJ	J,-------------	_	11	mark	_	_
-7	byl	být	AUX	VpYS---XR-AA---	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	11	cop	_	_
-8	při	při	ADP	RR--6----------	AdpType=Prep|Case=Loc	10	case	_	LId=při-1
-9	soudním	soudní	ADJ	AANS6----1A----	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	10	amod	_	_
-10	řízení	řízení	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	11	obl	_	LDeriv=řídit
-11	osvobozen	osvobozený	ADJ	VsYS---XX-AP---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	1	advcl	_	SpaceAfter=No
-12	.	.	PUNCT	Z:-------------	_	1	punct	_	_
+1	Zachoval	zachovat	VERB	VpYS---XR-AA---	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
+2	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	1	expl:pv	1:expl:pv	LGloss=(zvr._zájmeno/částice)
+3	však	však	CCONJ	J^-------------	_	1	cc	1:cc	_
+4	tak	tak	ADV	Db-------------	PronType=Dem	1	advmod	1:advmod	SpaceAfter=No|LId=tak-3
+5	,	,	PUNCT	Z:-------------	_	11	punct	11:punct	_
+6	že	že	SCONJ	J,-------------	_	11	mark	11:mark	_
+7	byl	být	AUX	VpYS---XR-AA---	Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	11	cop	11:cop	_
+8	při	při	ADP	RR--6----------	AdpType=Prep|Case=Loc	10	case	10:case	LId=při-1
+9	soudním	soudní	ADJ	AANS6----1A----	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	10	amod	10:amod	_
+10	řízení	řízení	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	11	obl	11:obl	LDeriv=řídit
+11	osvobozen	osvobozený	ADJ	VsYS---XX-AP---	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	1	advcl	1:advcl	SpaceAfter=No
+12	.	.	PUNCT	Z:-------------	_	1	punct	1:punct	_
 
 ~~~
 

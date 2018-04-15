@@ -19,35 +19,35 @@ The 10 most frequent ambiguous types:  <em>ne</em> (<tt><a href="sl_sst-pos-PART
 
 
 * <em>ne</em>
-  * <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 787: <em>samo barva <b>ne</b></em>
+  * <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 787: <em>verjetno je tudi v teh ugotovitvah naše poslušalke kar precej soli <b>ne</b></em>
   * <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 2: <em>no pri eee prispevku pri registraciji bi [gap] za sto evrov in gotovo pa pa ne bi bilo <b>ne</b> vinjet pa <b>ne</b> kontrole na cesti pa razmetavanja za take neumnosti</em>
 * <em>še</em>
-  * <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 203: <em><b>še</b> vedno rajši tako v malih zasedbah bolj ne ?</em>
+  * <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 203: <em>mogoče bi <b>še</b> dodal prej ko nisem dokončal</em>
   * <tt><a href="sl_sst-pos-X.html">X</a></tt> 1: <em>[name:personal] ti to kar <b>še</b> [gap] seštej</em>
 * <em>samo</em>
-  * <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 113: <em><b>samo</b> barva ne</em>
+  * <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 113: <em><b>samo</b> ti pa niso v oplotnici doma ti so jo v zrečah</em>
   * <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 1: <em>eee izkušnja v letih za <b>samo</b> vzdrževanje eee cest eee ta nivo vzdrževanja tako imenovani standard je padel po v letih nazaj pod petdeset procentov</em>
 * <em>naj</em>
-  * <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 27: <em><b>naj</b> daj <b>naj</b> požri</em>
+  * <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 27: <em>jutri pa v petek pa <b>naj</b> potem učiteljica z vami [gap]</em>
   * <tt><a href="sl_sst-pos-X.html">X</a></tt> 1: <em>ampak se vam ne zdi če pravite da pride nazaj eee ne ne glede na ceno v roke države ne u [gap] za razliko bo pa gospod [name:surname] pa gospod [name:surname] plačala kredite ki sta jih <b>naj</b> [gap] najela za lastninjenje laškega</em>
 * <em>ma</em>
-  * <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 19: <em><b>ma</b> tlele sem tole slamo postavil balo tlele sem premaknil</em>
+  * <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 19: <em>ja ja <b>ma</b> pazi tam je pa tudi višina notri na tistem viaduktu</em>
   * <tt><a href="sl_sst-pos-X.html">X</a></tt> 2: <em>dobro jutro bom rekel sicer je že <b>ma</b> [gap] še malo zgodaj za zjutraj</em>
 * <em>prav</em>
-  * <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 18: <em>in sicer <b>prav</b> tako v sredo doma</em>
+  * <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 18: <em><b>prav</b> tako kako se napiše nekaj sedaj vedno in te</em>
   * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 8: <em>jaz mislim da je danes <b>prav</b> da se zahvalimo tudi policistom in tem vojakom</em>
   * <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 1: <em>eno veterinarko <b>prav</b></em>
 * <em>da</em>
-  * <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 533: <em><b>da</b> ne bo časa zl [gap] [gap] manjkal slučajno</em>
-  * <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 16: <em><b>da</b> <b>da</b></em>
-  * <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 15: <em>prosim če se le <b>da</b> v pravopisno čim bolj čisti nekako mmm podobi</em>
+  * <tt><a href="sl_sst-pos-SCONJ.html">SCONJ</a></tt> 533: <em>mislim <b>da</b> ne še</em>
+  * <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 16: <em><b>da</b> in kar odstopila je torej anja pärson</em>
+  * <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> 15: <em>pa tudi pač mislim se <b>da</b> videti na več koncih</em>
   * <tt><a href="sl_sst-pos-X.html">X</a></tt> 1: <em>genau wo ist den das ? ach so <b>da</b></em>
 * <em>več</em>
-  * <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 27: <em>dosti je <b>več</b> tako ni ne videti</em>
+  * <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 27: <em>polovico <b>več</b> ne rabimo da vidimo preskok</em>
   * <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 16: <em>ne ne bom <b>več</b> [all:laughter] ampak ne ful mi je dober</em>
 * <em>sicer</em>
-  * <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 15: <em>in <b>sicer</b> prav tako v sredo doma</em>
-  * <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 14: <em>dobro jutro bom rekel <b>sicer</b> je že ma [gap] še malo zgodaj za zjutraj</em>
+  * <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 15: <em>no seveda pa je tu tudi drugi problem ne in <b>sicer</b> problem za moške</em>
+  * <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 14: <em>a to <b>sicer</b> eee ni praksa drugače drugod po sloveniji ?</em>
 * <em>celo</em>
   * <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 7: <em>vemo da ima rada škofjo loko <b>celo</b> njen zmenek v blaževi ulici nam je znan</em>
   * <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 6: <em>ti boš v bistvu <b>celo</b> solato naredil ne ?</em>

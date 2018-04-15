@@ -17,59 +17,50 @@ The following 16 pairs of parts of speech are connected with `punct`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 punct	color:blue
-1	En	en	ADP	P	AdpType=Prep	2	case	_	_
-2	titulares	titular	NOUN	Scmp	Gender=Masc|Number=Plur	3	obl	_	_
-3	escribe	escribir	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
-4	:	:	PUNCT	Q:	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 1 punct	color:blue
-1	"	"	PUNCT	Q"	_	10	punct	_	SpaceAfter=No
-2	A	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-3	cultura	cultura	NOUN	Scfs	Gender=Fem|Number=Sing	10	nsubj	_	_
-4	subsidiada	subsidiado	ADJ	A0fs	Gender=Fem|Number=Sing	3	amod	_	_
-5	_	_	PUNCT	Q_	_	6	punct	_	SpaceAfter=No
-6	di	dicir	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	parataxis	_	SpaceAfter=No
-7	_	_	PUNCT	Q_	_	6	punct	_	_
-8	non	non	ADV	Wn	Polarity=Neg	10	advmod	_	_
-9	é	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
-10	cultura	cultura	NOUN	Scfs	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
-11	"	"	PUNCT	Q"	_	10	punct	_	SpaceAfter=No
-12	.	.	PUNCT	Q.	_	10	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 punct	color:blue
+1	"	"	PUNCT	Q"	_	2	punct	_	SpaceAfter=No
+2	Votamos	votar	VERB	Vpi10p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	Constitución	Constitución	PROPN	Spfs	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
+5	.	.	PUNCT	Q.	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 punct	color:blue
-1	A	a	ADP	P	AdpType=Prep	3	case	_	_
-2	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-3	dereita	dereita	NOUN	Scfs	Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
-4	,	,	PUNCT	Q,	_	5	punct	_	_
-5	Lech	lech	PROPN	Spm0	Gender=Masc	0	root	_	_
-6	Walesa	walesa	PROPN	Spm0	Gender=Masc	5	flat:name	_	_
-7	en	en	ADP	P	AdpType=Prep	9	case	_	_
-8	unha	un	DET	Difs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-9	fotografía	fotografía	NOUN	Scfs	Gender=Fem|Number=Sing	5	nmod	_	_
-10	de	de	ADP	P	AdpType=Prep	11	case	_	_
-11	1999	1999	NUM	Ncnms	Gender=Masc|Number=Sing|NumType=Card	9	nmod	_	SpaceAfter=No
-12	.	.	PUNCT	Q.	_	5	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 7 punct	color:blue
+1	Intervención	intervención	NOUN	Scfs	Gender=Fem|Number=Sing	0	root	_	_
+2	de	de	ADP	P	AdpType=Prep	3	case	_	_
+3	Xosé	xosé	PROPN	Spm0	Gender=Masc	1	nmod	_	_
+4	Luís	luís	PROPN	Spm0	Gender=Masc	3	flat:name	_	_
+5	Barreiro	barreiro	PROPN	Spm0	Gender=Masc	3	flat:name	_	_
+6	Rivas	rivas	PROPN	Spm0	Gender=Masc	3	flat:name	_	SpaceAfter=No
+7	.	.	PUNCT	Q.	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 7 punct	color:blue
+1	Francisco	francisco	PROPN	Spm0	Gender=Masc	0	root	_	_
+2	Leiro	leiro	PROPN	Spm0	Gender=Masc	1	flat:name	_	_
+3	desde	desde	ADP	P	AdpType=Prep	6	case	_	_
+4	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
+5	primeiras	primeiro	NUM	Nodfp	Gender=Fem|Number=Plur|NumType=Ord	6	nummod	_	_
+6	esculturas	escultura	NOUN	Scfp	Gender=Fem|Number=Plur	1	nmod	_	SpaceAfter=No
+7	.	.	PUNCT	Q.	_	1	punct	_	_
 
 ~~~
 

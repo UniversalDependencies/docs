@@ -23,15 +23,10 @@ The following 4 pairs of parts of speech are connected with `flat:foreign`: <tt>
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 flat:foreign	color:blue
-1	genau	genau	X	Xf	Foreign=Yes	0	root	_	word=genau|msd=Nj
-2	wo	wo	X	Xf	Foreign=Yes	1	flat:foreign	_	word=vo|msd=Nj
-3	ist	ist	X	Xf	Foreign=Yes	1	flat:foreign	_	word=isn[split_1-2]|msd=Nj
-4	den	den	X	Xf	Foreign=Yes	1	flat:foreign	_	word=isn[split_2-2]|msd=Nj
-5	das	das	X	Xf	Foreign=Yes	1	flat:foreign	_	word=dos|msd=Nj
-6	?	?	PUNCT	Z	_	1	punct	_	word=?|msd=U
-7	ach	ach	X	Xf	Foreign=Yes	1	parataxis	_	word=a|msd=Nj
-8	so	so	X	Xf	Foreign=Yes	7	flat:foreign	_	word=so|msd=Nj
-9	da	da	X	Xf	Foreign=Yes	7	flat:foreign	_	word=do|msd=Nj
+1	gung	gung	X	Xf	Foreign=Yes	0	root	_	word=gung|msd=Nj
+2	haj	haj	X	Xf	Foreign=Yes	1	flat:foreign	_	word=haj|msd=Nj
+3	fa	fa	X	Xf	Foreign=Yes	1	flat:foreign	_	word=fa|msd=Nj
+4	čoj	čoj	X	Xf	Foreign=Yes	1	flat:foreign	_	word=čoj|msd=Nj
 
 ~~~
 

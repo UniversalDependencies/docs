@@ -9,19 +9,28 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-97 tokens (0%) have a non-empty value of `Polarity`.
-8 types (0%) occur at least once with a non-empty value of `Polarity`.
+98 tokens (0%) have a non-empty value of `Polarity`.
+9 types (0%) occur at least once with a non-empty value of `Polarity`.
 6 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 1 part-of-speech tags: <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (97; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (87; 0% instances), <tt><a href="sv_lines-pos-PART.html">PART</a></tt> (11; 0% instances).
 
 ### `ADV`
 
-97 <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> tokens (2% of all `ADV` tokens) have a non-empty value of `Polarity`.
+87 <tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="sv_lines-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (92; 95%).
+The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="sv_lines-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (82; 94%).
 
 `ADV` tokens may have the following values of `Polarity`:
 
-* `Neg` (97; 100% of non-empty `Polarity`): <em>aldrig, ej, icke, ingalunda, knappast, Inte</em>
-* `EMPTY` (5977): <em>så, ut, där, upp, in, bara, här, hur, också, till</em>
+* `Neg` (87; 100% of non-empty `Polarity`): <em>aldrig, ingalunda, knappast</em>
+* `EMPTY` (5970): <em>så, ut, där, upp, in, bara, här, hur, också, till</em>
+
+### `PART`
+
+11 <tt><a href="sv_lines-pos-PART.html">PART</a></tt> tokens (1% of all `PART` tokens) have a non-empty value of `Polarity`.
+
+`PART` tokens may have the following values of `Polarity`:
+
+* `Neg` (11; 100% of non-empty `Polarity`): <em>ej, icke, inte</em>
+* `EMPTY` (1793): <em>att, inte, så, to</em>
 

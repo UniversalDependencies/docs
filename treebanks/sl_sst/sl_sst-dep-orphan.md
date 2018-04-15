@@ -37,18 +37,10 @@ The following 22 pairs of parts of speech are connected with `orphan`: <tt><a hr
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 orphan	color:blue
-1	lahko	lahko	ADV	Rgp	Degree=Pos	0	root	_	word=loh|msd=Rsn
-2	pa	pa	CCONJ	Cc	_	1	advmod	_	word=pa|msd=Vp
+1	ja	ja	PART	Q	_	2	discourse	_	word=ja|msd=L
+2	mislim	misliti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	word=mislem|msd=Ggnspe
 3	da	da	SCONJ	Cs	_	4	orphan	_	word=da|msd=Vd
-4	nikoli	nikoli	ADV	Rgp	Degree=Pos	1	csubj	_	word=nkol|msd=Rsn
-5	no	no	PART	Q	_	1	discourse	_	word=no|msd=L
-6	ampak	ampak	CCONJ	Cc	_	8	cc	_	word=ampak|msd=Vp
-7	bolj	bolj	ADV	Rgc	Degree=Cmp	8	reparandum	_	word=bolj|msd=Rsr
-8	bolj	bolj	ADV	Rgc	Degree=Cmp	4	orphan	_	word=bolj|msd=Rsr
-9	saj	saj	CCONJ	Cc	_	11	cc	_	word=sej|msd=Vp
-10	si	biti	AUX	Va-r2s-n	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	aux	_	word=s|msd=Gp-sde-n
-11	videl	videti	VERB	Vmbp-sm	Gender=Masc|Number=Sing|VerbForm=Part	1	parataxis:restart	_	word=vidu|msd=Ggvd-em
-12	[gap]	[gap]	X	X	_	1	punct	_	word=[gap]|msd=N
+4	drugače	drugače	ADV	Rgp	Degree=Pos	2	ccomp	_	word=drgač|msd=Rsn
 
 ~~~
 

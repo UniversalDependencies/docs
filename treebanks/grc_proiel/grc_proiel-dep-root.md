@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-16912 nodes (8%) are attached to their parents as `root`.
+17081 nodes (8%) are attached to their parents as `root`.
 
-16912 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.29215941343425.
+17081 instances of `root` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.31678473157309.
 
-The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (14304; 85% instances), -<tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> (817; 5% instances), -<tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> (806; 5% instances), -<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (244; 1% instances), -<tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> (234; 1% instances), -<tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> (192; 1% instances), -<tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt> (120; 1% instances), -<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> (80; 0% instances), -<tt><a href="grc_proiel-pos-INTJ.html">INTJ</a></tt> (69; 0% instances), -<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> (40; 0% instances), -<tt><a href="grc_proiel-pos-X.html">X</a></tt> (5; 0% instances), -<tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `root`: -<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (14453; 85% instances), -<tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> (828; 5% instances), -<tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> (809; 5% instances), -<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (246; 1% instances), -<tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> (237; 1% instances), -<tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> (192; 1% instances), -<tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt> (120; 1% instances), -<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> (81; 0% instances), -<tt><a href="grc_proiel-pos-INTJ.html">INTJ</a></tt> (69; 0% instances), -<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> (40; 0% instances), -<tt><a href="grc_proiel-pos-X.html">X</a></tt> (5; 0% instances), -<tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

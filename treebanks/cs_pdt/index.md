@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Czech'
+title:  'UD_Czech-PDT'
 udver: '2'
 ---
 
@@ -9,7 +9,7 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Czech
+# UD Czech PDT
 
 Language: [Czech](../cs/overview/cs-hub.html) (code: `cs`)<br/>
 Family: Indo-European, Slavic
@@ -18,16 +18,16 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 
 The following people have contributed to making this treebank part of UD: Daniel Zeman, Jan Hajič.
 
-Repository: [UD_Czech](https://github.com/UniversalDependencies/UD_Czech)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs)
+Repository: [UD_Czech-PDT](https://github.com/UniversalDependencies/UD_Czech-PDT)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udcs_pdt)
 
 License: CC BY-NC-SA 3.0
 
-Genre: news
+Genre: news, reviews, nonfiction
 
 Questions, comments?
 General annotation questions (either Czech-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Czech/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Czech-PDT/issues).
 If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&nbsp;mff&nbsp;•&nbsp;cuni&nbsp;•&nbsp;cz].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
@@ -43,7 +43,7 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-The Czech UD treebank is based on the Prague Dependency Treebank 3.0 (PDT),
+The Czech-PDT UD treebank is based on the Prague Dependency Treebank 3.0 (PDT),
 created at the Charles University in Prague.
 
 
@@ -88,27 +88,40 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
 
 
 
-# Statistics of UD Czech
+# Statistics of UD Czech PDT
 
 ## POS Tags
 
-[ADJ](cs-pos-ADJ.html) – [ADP](cs-pos-ADP.html) – [ADV](cs-pos-ADV.html) – [AUX](cs-pos-AUX.html) – [CCONJ](cs-pos-CCONJ.html) – [DET](cs-pos-DET.html) – [INTJ](cs-pos-INTJ.html) – [NOUN](cs-pos-NOUN.html) – [NUM](cs-pos-NUM.html) – [PART](cs-pos-PART.html) – [PRON](cs-pos-PRON.html) – [PROPN](cs-pos-PROPN.html) – [PUNCT](cs-pos-PUNCT.html) – [SCONJ](cs-pos-SCONJ.html) – [SYM](cs-pos-SYM.html) – [VERB](cs-pos-VERB.html) – [X](cs-pos-X.html)
+[ADJ](cs_pdt-pos-ADJ.html) – [ADP](cs_pdt-pos-ADP.html) – [ADV](cs_pdt-pos-ADV.html) – [AUX](cs_pdt-pos-AUX.html) – [CCONJ](cs_pdt-pos-CCONJ.html) – [DET](cs_pdt-pos-DET.html) – [INTJ](cs_pdt-pos-INTJ.html) – [NOUN](cs_pdt-pos-NOUN.html) – [NUM](cs_pdt-pos-NUM.html) – [PART](cs_pdt-pos-PART.html) – [PRON](cs_pdt-pos-PRON.html) – [PROPN](cs_pdt-pos-PROPN.html) – [PUNCT](cs_pdt-pos-PUNCT.html) – [SCONJ](cs_pdt-pos-SCONJ.html) – [SYM](cs_pdt-pos-SYM.html) – [VERB](cs_pdt-pos-VERB.html) – [X](cs_pdt-pos-X.html)
 
 ## Features
 
-[Abbr](cs-feat-Abbr.html) – [AdpType](cs-feat-AdpType.html) – [Animacy](cs-feat-Animacy.html) – [Aspect](cs-feat-Aspect.html) – [Case](cs-feat-Case.html) – [ConjType](cs-feat-ConjType.html) – [Degree](cs-feat-Degree.html) – [Foreign](cs-feat-Foreign.html) – [Gender](cs-feat-Gender.html) – [Gender[psor]](cs-feat-Gender-psor.html) – [Hyph](cs-feat-Hyph.html) – [Mood](cs-feat-Mood.html) – [NameType](cs-feat-NameType.html) – [Number](cs-feat-Number.html) – [Number[psor]](cs-feat-Number-psor.html) – [NumForm](cs-feat-NumForm.html) – [NumType](cs-feat-NumType.html) – [NumValue](cs-feat-NumValue.html) – [Person](cs-feat-Person.html) – [Polarity](cs-feat-Polarity.html) – [Poss](cs-feat-Poss.html) – [PrepCase](cs-feat-PrepCase.html) – [PronType](cs-feat-PronType.html) – [Reflex](cs-feat-Reflex.html) – [Style](cs-feat-Style.html) – [Tense](cs-feat-Tense.html) – [Variant](cs-feat-Variant.html) – [VerbForm](cs-feat-VerbForm.html) – [Voice](cs-feat-Voice.html)
+[Abbr](cs_pdt-feat-Abbr.html) – [AdpType](cs_pdt-feat-AdpType.html) – [Animacy](cs_pdt-feat-Animacy.html) – [Aspect](cs_pdt-feat-Aspect.html) – [Case](cs_pdt-feat-Case.html) – [ConjType](cs_pdt-feat-ConjType.html) – [Degree](cs_pdt-feat-Degree.html) – [Foreign](cs_pdt-feat-Foreign.html) – [Gender](cs_pdt-feat-Gender.html) – [Gender[psor]](cs_pdt-feat-Gender-psor.html) – [Hyph](cs_pdt-feat-Hyph.html) – [Mood](cs_pdt-feat-Mood.html) – [NameType](cs_pdt-feat-NameType.html) – [Number](cs_pdt-feat-Number.html) – [Number[psor]](cs_pdt-feat-Number-psor.html) – [NumForm](cs_pdt-feat-NumForm.html) – [NumType](cs_pdt-feat-NumType.html) – [NumValue](cs_pdt-feat-NumValue.html) – [Person](cs_pdt-feat-Person.html) – [Polarity](cs_pdt-feat-Polarity.html) – [Poss](cs_pdt-feat-Poss.html) – [PrepCase](cs_pdt-feat-PrepCase.html) – [PronType](cs_pdt-feat-PronType.html) – [Reflex](cs_pdt-feat-Reflex.html) – [Style](cs_pdt-feat-Style.html) – [Tense](cs_pdt-feat-Tense.html) – [Variant](cs_pdt-feat-Variant.html) – [VerbForm](cs_pdt-feat-VerbForm.html) – [Voice](cs_pdt-feat-Voice.html)
 
 ## Relations
 
-[acl](cs-dep-acl.html) – [advcl](cs-dep-advcl.html) – [advmod](cs-dep-advmod.html) – [advmod:emph](cs-dep-advmod-emph.html) – [amod](cs-dep-amod.html) – [appos](cs-dep-appos.html) – [aux](cs-dep-aux.html) – [aux:pass](cs-dep-aux-pass.html) – [case](cs-dep-case.html) – [cc](cs-dep-cc.html) – [ccomp](cs-dep-ccomp.html) – [compound](cs-dep-compound.html) – [conj](cs-dep-conj.html) – [cop](cs-dep-cop.html) – [csubj](cs-dep-csubj.html) – [csubj:pass](cs-dep-csubj-pass.html) – [dep](cs-dep-dep.html) – [det](cs-dep-det.html) – [det:numgov](cs-dep-det-numgov.html) – [det:nummod](cs-dep-det-nummod.html) – [discourse](cs-dep-discourse.html) – [expl:pass](cs-dep-expl-pass.html) – [expl:pv](cs-dep-expl-pv.html) – [fixed](cs-dep-fixed.html) – [flat](cs-dep-flat.html) – [flat:foreign](cs-dep-flat-foreign.html) – [iobj](cs-dep-iobj.html) – [mark](cs-dep-mark.html) – [nmod](cs-dep-nmod.html) – [nsubj](cs-dep-nsubj.html) – [nsubj:pass](cs-dep-nsubj-pass.html) – [nummod](cs-dep-nummod.html) – [nummod:gov](cs-dep-nummod-gov.html) – [obj](cs-dep-obj.html) – [obl](cs-dep-obl.html) – [obl:agent](cs-dep-obl-agent.html) – [obl:arg](cs-dep-obl-arg.html) – [orphan](cs-dep-orphan.html) – [parataxis](cs-dep-parataxis.html) – [punct](cs-dep-punct.html) – [root](cs-dep-root.html) – [vocative](cs-dep-vocative.html) – [xcomp](cs-dep-xcomp.html)
+[acl](cs_pdt-dep-acl.html) – [advcl](cs_pdt-dep-advcl.html) – [advmod](cs_pdt-dep-advmod.html) – [advmod:emph](cs_pdt-dep-advmod-emph.html) – [amod](cs_pdt-dep-amod.html) – [appos](cs_pdt-dep-appos.html) – [aux](cs_pdt-dep-aux.html) – [aux:pass](cs_pdt-dep-aux-pass.html) – [case](cs_pdt-dep-case.html) – [cc](cs_pdt-dep-cc.html) – [ccomp](cs_pdt-dep-ccomp.html) – [compound](cs_pdt-dep-compound.html) – [conj](cs_pdt-dep-conj.html) – [cop](cs_pdt-dep-cop.html) – [csubj](cs_pdt-dep-csubj.html) – [csubj:pass](cs_pdt-dep-csubj-pass.html) – [dep](cs_pdt-dep-dep.html) – [det](cs_pdt-dep-det.html) – [det:numgov](cs_pdt-dep-det-numgov.html) – [det:nummod](cs_pdt-dep-det-nummod.html) – [discourse](cs_pdt-dep-discourse.html) – [expl:pass](cs_pdt-dep-expl-pass.html) – [expl:pv](cs_pdt-dep-expl-pv.html) – [fixed](cs_pdt-dep-fixed.html) – [flat](cs_pdt-dep-flat.html) – [flat:foreign](cs_pdt-dep-flat-foreign.html) – [iobj](cs_pdt-dep-iobj.html) – [mark](cs_pdt-dep-mark.html) – [nmod](cs_pdt-dep-nmod.html) – [nsubj](cs_pdt-dep-nsubj.html) – [nsubj:pass](cs_pdt-dep-nsubj-pass.html) – [nummod](cs_pdt-dep-nummod.html) – [nummod:gov](cs_pdt-dep-nummod-gov.html) – [obj](cs_pdt-dep-obj.html) – [obl](cs_pdt-dep-obl.html) – [obl:agent](cs_pdt-dep-obl-agent.html) – [obl:arg](cs_pdt-dep-obl-arg.html) – [orphan](cs_pdt-dep-orphan.html) – [parataxis](cs_pdt-dep-parataxis.html) – [punct](cs_pdt-dep-punct.html) – [root](cs_pdt-dep-root.html) – [vocative](cs_pdt-dep-vocative.html) – [xcomp](cs_pdt-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 87913 sentences, 1503732 tokens and 1506484 syntactic words.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 216384 tokens (14%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 4 types of words that contain both letters and punctuation. Examples: Preud'homma, Preud'homme, Ze'ev, nemusej'</li>
+</ul>
+
+<ul>
 <li>This corpus contains 2752 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
 <li>There are 10 types of multi-word tokens. Examples: aby, kdyby, abychom, abych, kdybychom, kdybych, abyste, kdybyste, Kdybys, Neníť.</li>
 </ul>
@@ -119,19 +132,22 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
 
 <ul>
 <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
+</ul>
+
+<ul>
 <li>This corpus contains 82 word types tagged as particles (PART): Achtung, Bah, Bienvenue, CA, Což, Cožpak, Dobrá, L, Mnohem, Naneštěstí, Nejenomže, Nu, On, Please, Sic, So, Vot, Zaplaťpánbůh, ahoj, al, ano, anti, arciť, asi, at, ať, až, ba, bene, bohužel, by, bůhsuď, bůhví, ciao, co, copak, džambo, el, gala, hele, hop, ja, jen, jenom, jo, ka, kdoví, kéž, leda, li, n, natož, ne, nechť, nejen, netto, neřkuli, než, nie, no, non, not, nuže, off, oui, ovšem, ovšemže, pozor, právěže, prý, s, sbohem, sorry, t, takříkajíc, to, tož, viva, viďte, we, zaplaťpánbu, žel</li>
 </ul>
 
 <ul>
-<li>This corpus contains 55 lemmas tagged as pronouns (PRON): Everything, I, all, bůhvíco, co, cokoliv, copak, cosi, což, gdo, he, it, ja, jenž, já, kdeco, kdekdo, kdo, kdokoliv, kdopak, kdosi, lecco, leccos, leckdo, ledacos, ledasco, man, máloco, málokdo, nic, nihil, nikdo, nothing, něco, někdo, on, ourselves, q, sa, samý, se, some, sotvakdo, takýs, ty, veškerý, von, vy, všecek, všechno, was, we, who, you, čo</li>
+<li>This corpus contains 53 lemmas tagged as pronouns (PRON): Everything, I, all, bůhvíco, co, cokoliv, copak, cosi, což, gdo, he, it, ja, jenž, já, kdeco, kdekdo, kdo, kdokoliv, kdopak, kdosi, lecco, leccos, leckdo, ledacos, ledasco, man, máloco, málokdo, nic, nihil, nikdo, nothing, něco, někdo, on, ourselves, q, sa, samý, se, sotvakdo, ty, veškerý, von, vy, všecek, všechno, was, we, who, you, čo</li>
 </ul>
 
 <ul>
-<li>This corpus contains 70 lemmas tagged as determiners (DET): Notre, Your, bůhvíjaký, c, ce, cui, hodně, jaký, jakýkoliv, jakýpak, jakýs, jakýsi, jeho, jenž, každý, kdejaký, kdovíjaký, kolik, který, kterýkoliv, kterýžto, ktorý, lecjaký, leckterý, ledajaký, mio, mnoho, moc, my, málo, málokterý, míň, móóc, můj, nejeden, nemnoho, nemálo, nespočet, nějaký, několik, několikátý, některý, něčí, onen, pranic, přemnoho, some, suus, svůj, sám, takový, takovýhle, takovýto, taký, ten, tenhle, tenhleten, tento, tentýž, that, this, tolik, toť, tvůj, týž, více, všechen, všelijaký, čí, žádný</li>
+<li>This corpus contains 71 lemmas tagged as determiners (DET): Notre, Your, bůhvíjaký, c, ce, cui, hodně, jaký, jakýkoliv, jakýpak, jakýs, jakýsi, jeho, jenž, každý, kdejaký, kdovíjaký, kolik, který, kterýkoliv, kterýžto, ktorý, lecjaký, leckterý, ledajaký, mio, mnoho, moc, my, málo, málokterý, míň, móóc, můj, nejeden, nemnoho, nemálo, nespočet, nějaký, několik, několikátý, některý, něčí, onen, pranic, přemnoho, some, suus, svůj, sám, takový, takovýhle, takovýto, taký, takýs, ten, tenhle, tenhleten, tento, tentýž, that, this, tolik, toť, tvůj, týž, více, všechen, všelijaký, čí, žádný</li>
 </ul>
 
 <ul>
-<li>Out of the above, 2 lemmas occurred sometimes as PRON and sometimes as DET: jenž, some</li>
+<li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: jenž</li>
 </ul>
 
 <ul>
@@ -143,7 +159,9 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
 </ul>
 
 <ul>
-<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Conv
   <ul>
@@ -151,18 +169,27 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
     <li>VERB: počínaje, nemluvě, vlastně, konče, Mluvě, soudě, říkajíc, maje, nehledě, nepočítaje</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Fin
   <ul>
     <li>AUX: je, by, jsou, bude, jsem, jsme, není, budou, bychom, bych</li>
     <li>VERB: má, je, může, mají, musí, jde, jsou, lze, mohou, říká</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Inf
   <ul>
     <li>AUX: být, býti, nebýt</li>
     <li>VERB: mít, získat, stát, být, hrát, říci, platit, muset, dělat, dostat</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>ADJ: rozhodující, řečeno, vedoucí, následující, přesvědčen, připravena, připraven, vynikající, týkající, otevřena</li>
@@ -171,12 +198,12 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
+
 <li><a>Gender</a>
+
   <ul>
     <li>Fem
       <ul>
@@ -190,6 +217,9 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
         <li>VERB-Part: Were</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Fem,Masc
       <ul>
         <li>ADJ: uvedeny, připraveny, známy, určeny, uzavřeny, nalezeny, považovány, schopny, stanoveny, uloženy</li>
@@ -198,6 +228,9 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
         <li>VERB-Part: měly, mohly, byly, začaly, objevily, dosáhly, získaly, neměly, staly, vedly</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Fem,Neut
       <ul>
         <li>ADJ: připravena, schopna, otevřena, uzavřena, založena, zahájena, stanovena, určena, podepsána, ráda</li>
@@ -210,6 +243,9 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
         <li>VERB-Part: měla, mohla, byla, stala, začala, získala, musela, vznikla, oznámila, rozhodla</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>ADJ: další, první, nový, český, českého, dalších, celý, nového, druhý, velký</li>
@@ -225,6 +261,9 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
         <li>VERB-Part: řekl, měl, uvedl, měli, mohl, prohlásil, stal, mohli, byl, dodal</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc,Neut
       <ul>
         <li>DET: tím, tom, tomu, toho, tohoto, tomto, svého, svém, svým, našeho</li>
@@ -232,6 +271,9 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
         <li>PRON: mu, ho, něj, jej, něm, němž, jehož, ním, něho, něhož</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neut
       <ul>
         <li>ADJ: možné, třeba, jiné, další, prvním, posledních, životního, nutné, první, možno</li>
@@ -246,9 +288,13 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Animacy</a>
+
   <ul>
     <li>Anim
       <ul>
@@ -263,6 +309,9 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
         <li>VERB-Part: měli, mohli, chtěli, začali, museli, dostali, získali, byli, rozhodli, přišli</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Inan
       <ul>
         <li>ADJ: další, první, nový, českého, celý, český, velký, letošního, státního, minulý</li>
@@ -277,9 +326,13 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Number</a>
+
   <ul>
     <li>Dual
       <ul>
@@ -290,6 +343,9 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
         <li>NUM: oběma, dvěma, čtyřma</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Plur
       <ul>
         <li>ADJ: další, dalších, českých, posledních, nové, jiných, nových, jednotlivých, různých, zahraničních</li>
@@ -307,6 +363,9 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
         <li>VERB-Part: měli, měly, mohli, mohly, chtěli, začali, museli, dostali, byly, získali</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Plur,Sing
       <ul>
         <li>ADJ: připravena, schopna, otevřena, uzavřena, založena, zahájena, stanovena, určena, podepsána, ráda</li>
@@ -315,6 +374,9 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
         <li>VERB-Part: měla, mohla, byla, stala, začala, získala, musela, vznikla, oznámila, rozhodla</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: první, české, další, druhé, poslední, státní, možné, třeba, česká, vlastní</li>
@@ -333,9 +395,13 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Acc
       <ul>
@@ -349,6 +415,9 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
         <li>PROPN: Slovensko, Evropu, Prahu, Němce, Německo, Václava, Klause, Jiřího, Josefa, Čechy</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dat
       <ul>
         <li>ADJ: české, dalším, českým, dalšímu, jiným, zahraničním, českému, jinému, novému, ostatním</li>
@@ -361,6 +430,9 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
         <li>PROPN: Slovensku, Rusku, Německu, Jiřímu, Němcům, Spartě, Čechům, Evropě, Václavu, Klausovi</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Gen
       <ul>
         <li>ADJ: české, dalších, českého, českých, nového, nových, druhé, národního, jiných, státního</li>
@@ -373,6 +445,9 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
         <li>PROPN: Evropy, Prahy, Německa, Jana, Ruska, Slovenska, Jiřího, Československa, Králové, Čech</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ins
       <ul>
         <li>ADJ: hlavním, dalšími, o, dalším, jinými, jediným, českou, prvním, největším, jiným</li>
@@ -385,6 +460,9 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
         <li>PROPN: Labem, Ruskem, Německem, Izraelem, Slovenskem, Václavem, Klausem, Spartou, Srby, Polskem</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Loc
       <ul>
         <li>ADJ: druhé, české, prvním, současné, posledních, první, poslední, pražském, druhém, českém</li>
@@ -397,6 +475,9 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
         <li>PROPN: Praze, Evropě, Německu, Brně, Slovensku, Čechách, Ostravě, Francii, Moravě, Bosně</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Nom
       <ul>
         <li>ADJ: další, první, možné, česká, český, nový, státní, nová, nové, hlavní</li>
@@ -409,6 +490,9 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
         <li>PROPN: Praha, Jiří, Jan, Brno, Václav, Petr, Pavel, Josef, Vladimír, Klaus</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Voc
       <ul>
         <li>ADJ: vážení, Svatý, Vážený, Milí, drahá, milý, rudá, Drahý, DŮSTOJNÝ, Laskavý</li>
@@ -419,27 +503,40 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>PrepCase</a>
+
   <ul>
     <li>Npr
       <ul>
         <li>PRON: jež, jehož, jenž, jemuž, jímž, jimž, jimiž, jichž, jíž, již</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pre
       <ul>
         <li>PRON: nich, ní, něj, nichž, níž, něm, němž, ně, nimi, ním</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Degree and Polarity</h3>
 
+
 <li><a>Degree</a>
+
   <ul>
     <li>Cmp
       <ul>
@@ -447,6 +544,9 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
         <li>ADV: více, méně, spíše, později, dříve, víc, lépe, spíš, raději, dále</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>ADJ: další, české, nové, poslední, státní, dalších, možné, vlastní, jiné, velké</li>
@@ -454,6 +554,9 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
         <li>DET: každý, každé, každého, každém, každá, každou, každému, každým, každých</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sup
       <ul>
         <li>ADJ: největší, nejlepší, nejvyšší, největším, nejbližší, nejnižší, největších, nejlepším, nejdůležitější, nejrůznějších</li>
@@ -461,9 +564,13 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Polarity</a>
+
   <ul>
     <li>Neg
       <ul>
@@ -480,6 +587,9 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
         <li>VERB-Part: neměl, nemohl, neměli, neměla, nemělo, nepodařilo, nebylo, nedošlo, nemohli, nebyl</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>ADJ: další, české, nové, poslední, státní, dalších, možné, vlastní, jiné, velké</li>
@@ -499,9 +609,13 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Variant</a>
+
   <ul>
     <li>Short
       <ul>
@@ -511,11 +625,16 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Verbal Features</h3>
 
+
 <li><a>Aspect</a>
+
   <ul>
     <li>Imp
       <ul>
@@ -530,6 +649,9 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
         <li>VERB-Part: znamenalo, činil, jednal, nechal, pracoval, hovořil, reagoval, činila, hovořili, jednalo</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Perf
       <ul>
         <li>ADJ-Part: řečeno, přesvědčen, připravena, připraven, rozhodnuto, zvolen, založena, zahájena, obviněn, stanovena</li>
@@ -541,9 +663,13 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Mood</a>
+
   <ul>
     <li>Cnd
       <ul>
@@ -551,12 +677,18 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
         <li>VERB-Fin: by, bych, bychom, bysem, bysme, bysom</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Imp
       <ul>
         <li>AUX-Fin: buď, buďte, budiž, Buďme, Nebuďte</li>
         <li>VERB-Fin: viz, řekněme, dejme, připomeňme, doufejme, vraťme, dodejme, Ponechme, podívejme, předpokládejme</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>AUX-Fin: je, jsou, bude, jsem, jsme, není, budou, nebude, nejsou, jste</li>
@@ -564,9 +696,13 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Tense</a>
+
   <ul>
     <li>Fut
       <ul>
@@ -574,6 +710,9 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
         <li>VERB-Fin: bude, půjde, budou, nebude, nepůjde, pojede, nebudou, půjdou, pojedou, ponese</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Past
       <ul>
         <li>ADJ-Part: odstoupivšího, byvší, doloživší, nastavší, ocitnuvšího, odstoupivších, provinivšího, předčivší, přeživšího, vyskytnuvší</li>
@@ -582,6 +721,9 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
         <li>VERB-Part: řekl, měl, měla, uvedl, měli, mělo, mohl, měly, bylo, prohlásil</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pres
       <ul>
         <li>ADJ-Part: rozhodující, vedoucí, následující, vynikající, týkající, odpovídající, rostoucí, žijící, kupující, následujících</li>
@@ -592,9 +734,13 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Voice</a>
+
   <ul>
     <li>Act
       <ul>
@@ -607,18 +753,27 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
         <li>VERB-Part: řekl, měl, měla, uvedl, měli, mělo, mohl, měly, bylo, prohlásil</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pass
       <ul>
         <li>ADJ-Part: řečeno, přesvědčen, připravena, připraven, otevřena, rozhodnuto, zvolen, uzavřena, uvedeno, založena</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Dem
       <ul>
@@ -626,11 +781,17 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
         <li>DET: to, tím, tom, této, tomu, tento, toho, tohoto, tato, těchto</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Emp
       <ul>
         <li>DET: sám, sama, sami, samy, samo, samu, samého</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>ADV: někdy, někde, kdysi, nějak, několikrát, jakkoli, jaksi, kdykoliv, kdykoli, někam</li>
@@ -638,6 +799,9 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
         <li>PRON: něco, někdo, někoho, cosi, něčeho, cokoli, něčím, někomu, málokdo, něčem</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Int,Rel
       <ul>
         <li>ADV: jak, kdy, kde, proč, kam, odkud, kudy, kolikrát, Odkdy</li>
@@ -645,6 +809,9 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
         <li>PRON: co, kdo, čím, čem, koho, komu, čeho, čemu, kým, kdož</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neg
       <ul>
         <li>ADV: nikdy, nijak, nikde, nikam, odnikud</li>
@@ -652,18 +819,27 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
         <li>PRON: nic, nikdo, nikoho, nikomu, ničím, ničem, ničemu, nikým, ničeho, nihil</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
         <li>DET: jeho, jejich, své, její, svou, svého, svých, svůj, naše, svým</li>
         <li>PRON: se, si, nás, je, nám, nich, mu, ji, ho, jim</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rel
       <ul>
         <li>DET: jejichž, jehož, jejíž, jejímž, jejíchž, jejíhož, jejímiž, jejímuž, kterážto</li>
         <li>PRON: což, nichž, jež, níž, němž, jehož, jenž, něhož, něž, jemuž</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Tot
       <ul>
         <li>ADV: vždy, všude, navždy, odjakživa, všudy, odevšad</li>
@@ -672,9 +848,13 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>NumType</a>
+
   <ul>
     <li>Card
       <ul>
@@ -682,21 +862,33 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
         <li>NUM: 1, 2, 3, dva, tři, 4, jeden, 6, dvě, tisíc</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Frac
       <ul>
         <li>NUM: třetiny, třetinu, třetina, třetině, čtvrtinu, čtvrtina, desetinu, čtvrtiny, pětinu, desetina</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Mult
       <ul>
         <li>ADV: dvakrát, jednou, třikrát, několikrát, pětkrát, desetkrát, čtyřikrát, nejednou, šestkrát, mnohokrát</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Mult,Sets
       <ul>
         <li>ADJ: dvojí, obojí, dvojím, dvojího, dvoje, obojím, trojí, oboje, dvojími, obé</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ord
       <ul>
         <li>ADJ: první, druhé, prvním, třetí, druhý, druhou, prvních, prvního, druhá, druhém</li>
@@ -704,15 +896,22 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
         <li>DET: několikáté, několikátý</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sets
       <ul>
         <li>ADJ: jedny, jedni, jedněch, jedněm, jedněmi</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Poss</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -721,9 +920,13 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Reflex</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -732,9 +935,13 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Person</a>
+
   <ul>
     <li>1
       <ul>
@@ -744,6 +951,9 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
         <li>VERB-Fin: máme, mám, můžeme, myslím, musíme, chceme, musím, nevím, víme, jsme</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>AUX-Fin: jste, byste, buď, budete, buďte, jsi, nejste, nebudete, budeš, bys</li>
@@ -753,6 +963,9 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
         <li>VERB-Part: Were</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>AUX-Fin: je, jsou, bude, by, není, budou, nebude, nejsou, nebudou, bývá</li>
@@ -762,10 +975,15 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Gender[psor]</a>
+
   <ul>
     <li>Fem
       <ul>
@@ -773,35 +991,52 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
         <li>DET: její, jejím, jejíž, jejího, jejích, jejímž, jejímu, jejími, jejíchž, jejíhož</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>ADJ: Karlovy, Karlových, Nobelovy, Milíčova, Masarykově, Karlova, Karlově, prezidentův, Benešových, Nobelovu</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc,Neut
       <ul>
         <li>DET: jeho, jehož</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Number[psor]</a>
+
   <ul>
     <li>Plur
       <ul>
         <li>DET: jejich, naše, naší, našich, jejichž, náš, našeho, naši, našem, vaše</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>DET: jeho, její, jehož, jejím, jejíž, můj, jejího, jejích, mého, moje</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Other Features</h3>
+
 
 <li><a>Abbr</a>
   <ul>
@@ -821,6 +1056,7 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
     </li>
   </ul>
 </li>
+
 <li><a>AdpType</a>
   <ul>
     <li>Comprep
@@ -840,6 +1076,7 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
     </li>
   </ul>
 </li>
+
 <li><a>ConjType</a>
   <ul>
     <li>Oper
@@ -850,6 +1087,7 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
     </li>
   </ul>
 </li>
+
 <li><a>Foreign</a>
   <ul>
     <li>Yes
@@ -859,12 +1097,12 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
         <li>ADP: de, of, di, van, in, von, versus, ad, Pro, to</li>
         <li>ADV: cca, priori, Today, live, Here, Only, Sic, Very, dove, echt</li>
         <li>CCONJ: and, et, und, As, or, ma, So, e, n</li>
-        <li>DET: My, That, This, Your, sua, C, Notre, Some, These, ce</li>
+        <li>DET: Some, My, That, This, Your, sua, C, Notre, These, ce</li>
         <li>INTJ: O, propos, Bang, Boom, Crash</li>
         <li>NOUN: play, managementu, management, CD, s, facto, st, o, homo, neem</li>
         <li>NUM: Four, Twenty, Seven, Six, one, Five, Three, Tre, Tri, seděm</li>
         <li>PART: off, džambo, not, t, oui, Bienvenue, So, ne, sorry, viva</li>
-        <li>PRON: it, All, you, I, Me, We, Us, She, Some, WAS</li>
+        <li>PRON: it, All, you, I, Me, We, Us, She, WAS, ja</li>
         <li>PROPN: HZDS, IRA, Floyd, Nature, International, Science, Sinn, Fein, Times, Cup</li>
         <li>SCONJ: as, If, When, ak, ako, gdyž, kak</li>
         <li>VERB-Fin: is, est, transit, Habent, Want, Wish, Won, are, ist, need</li>
@@ -874,6 +1112,7 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
     </li>
   </ul>
 </li>
+
 <li><a>Hyph</a>
   <ul>
     <li>Yes
@@ -883,6 +1122,7 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
     </li>
   </ul>
 </li>
+
 <li><a>NameType</a>
   <ul>
     <li>Com
@@ -1069,6 +1309,7 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
     </li>
   </ul>
 </li>
+
 <li><a>NumForm</a>
   <ul>
     <li>Digit
@@ -1088,6 +1329,7 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
     </li>
   </ul>
 </li>
+
 <li><a>NumValue</a>
   <ul>
     <li>1
@@ -1102,6 +1344,7 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
     </li>
   </ul>
 </li>
+
 <li><a>Style</a>
   <ul>
     <li>Arch
@@ -1191,6 +1434,9 @@ http://www.aclweb.org/anthology/C/C12/C12-1015.pdf
 
 <ul>
 <li>This corpus uses 6 lemmas as copulas (<a>cop</a>). Examples: být, bývat, bývávat, stát, moci, mít.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: být, bývat.</li>
 <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být, bývat.</li>
 </ul>
@@ -1201,8 +1447,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Conv--NOUN (1)</li>
-      <li>VERB-Fin--NOUN (133)</li>
+      <li>VERB-Fin--NOUN (129)</li>
       <li>VERB-Fin--NOUN-Acc (10)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(na) (4)</li>
       <li>VERB-Fin--NOUN-Acc-ADP(přes) (1)</li>
@@ -1212,7 +1457,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen-ADP(na) (22)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(okolo) (2)</li>
       <li>VERB-Fin--NOUN-Gen-ADP(přes) (19)</li>
-      <li>VERB-Fin--NOUN-Nom (23382)</li>
+      <li>VERB-Fin--NOUN-Nom (23381)</li>
       <li>VERB-Fin--PRON (18)</li>
       <li>VERB-Fin--PRON-Gen (30)</li>
       <li>VERB-Fin--PRON-Gen-ADP(na) (1)</li>
@@ -1225,7 +1470,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--NOUN-Gen-ADP(na) (3)</li>
       <li>VERB-Inf--NOUN-Gen-ADP(okolo) (1)</li>
       <li>VERB-Inf--NOUN-Loc-ADP(po) (1)</li>
-      <li>VERB-Inf--NOUN-Nom (1104)</li>
+      <li>VERB-Inf--NOUN-Nom (1103)</li>
       <li>VERB-Inf--PRON-Acc (1)</li>
       <li>VERB-Inf--PRON-Nom (78)</li>
       <li>VERB-Part--NOUN (69)</li>
@@ -1239,7 +1484,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Gen-ADP(přes) (8)</li>
       <li>VERB-Part--NOUN-Ins (1)</li>
       <li>VERB-Part--NOUN-Loc-ADP(po) (3)</li>
-      <li>VERB-Part--NOUN-Nom (17729)</li>
+      <li>VERB-Part--NOUN-Nom (17728)</li>
       <li>VERB-Part--PRON (10)</li>
       <li>VERB-Part--PRON-Acc (3)</li>
       <li>VERB-Part--PRON-Dat (1)</li>
@@ -1259,9 +1504,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--NOUN-Ins (8)</li>
       <li>VERB-Conv--PRON-Acc (2)</li>
       <li>VERB-Conv--PRON-Dat (1)</li>
-      <li>VERB-Fin--NOUN (93)</li>
-      <li>VERB-Fin--NOUN-Acc (14680)</li>
-      <li>VERB-Fin--NOUN-Dat (930)</li>
+      <li>VERB-Fin--NOUN (89)</li>
+      <li>VERB-Fin--NOUN-Acc (14677)</li>
+      <li>VERB-Fin--NOUN-Dat (931)</li>
       <li>VERB-Fin--NOUN-Gen (1334)</li>
       <li>VERB-Fin--NOUN-Ins (535)</li>
       <li>VERB-Fin--NOUN-Nom (43)</li>
@@ -1271,8 +1516,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--PRON-Gen (95)</li>
       <li>VERB-Fin--PRON-Ins (25)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
-      <li>VERB-Inf--NOUN (33)</li>
-      <li>VERB-Inf--NOUN-Acc (9872)</li>
+      <li>VERB-Inf--NOUN (31)</li>
+      <li>VERB-Inf--NOUN-Acc (9871)</li>
       <li>VERB-Inf--NOUN-Dat (499)</li>
       <li>VERB-Inf--NOUN-Gen (689)</li>
       <li>VERB-Inf--NOUN-Ins (255)</li>
@@ -1283,13 +1528,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Inf--PRON-Gen (50)</li>
       <li>VERB-Inf--PRON-Ins (20)</li>
       <li>VERB-Inf--PRON-Nom (6)</li>
-      <li>VERB-Part--NOUN (65)</li>
-      <li>VERB-Part--NOUN-Acc (13250)</li>
+      <li>VERB-Part--NOUN (61)</li>
+      <li>VERB-Part--NOUN-Acc (13249)</li>
       <li>VERB-Part--NOUN-Dat (718)</li>
       <li>VERB-Part--NOUN-Gen (1404)</li>
       <li>VERB-Part--NOUN-Ins (602)</li>
-      <li>VERB-Part--NOUN-Nom (23)</li>
-      <li>VERB-Part--PRON (3)</li>
+      <li>VERB-Part--NOUN-Nom (22)</li>
+      <li>VERB-Part--PRON (2)</li>
       <li>VERB-Part--PRON-Acc (1869)</li>
       <li>VERB-Part--PRON-Dat (517)</li>
       <li>VERB-Part--PRON-Gen (70)</li>
@@ -1304,7 +1549,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--PRON-Dat (1)</li>
       <li>VERB-Fin--NOUN (3)</li>
       <li>VERB-Fin--NOUN-Acc (145)</li>
-      <li>VERB-Fin--NOUN-Dat (552)</li>
+      <li>VERB-Fin--NOUN-Dat (551)</li>
       <li>VERB-Fin--NOUN-Gen (22)</li>
       <li>VERB-Fin--NOUN-Ins (62)</li>
       <li>VERB-Fin--NOUN-Nom (4)</li>
@@ -1354,7 +1599,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li>This corpus contains 659 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: představit se, seznámit se, koupit si, říci si, prosadit se, přečíst si, nechat se, klást si, dát si, připomenout si, připsat si, spojit se, nechat si, položit si, střídat se, říkat si, zajistit si, ponechat si, poradit si, prezentovat se, vysvětlovat si, připravit se, učit se, znát se, bránit se, protnout se, považovat se, představovat se, vysvětlit si, dostat se, připomínat si, připravovat se, uživit se, vystřídat se, zařadit se, dovolit si, kupovat si, pomáhat si, přihlásit se, přizpůsobit se, stanovit si, zapsat se, živit se, orientovat se, pomoci si, ponechávat si, prosazovat se, skrývat se, udržet se, ujasnit si</li>
     <ul>
-      <li>Out of those, 15 lemmas occurred more than once, but never without a reflexive dependent. Examples: připojistit, prolínat, transformující, dotýkat, koupat, navléknout, obalamutit, objímat, osamostatnit, potřást, překrývající, specializovat, vykoupat, zabarikádovat, zadlužit, blamovat, distancovat, dobrat, domlouvat, halící, hlásící, holit, izolující, konkurující, líbající, masakrovat, nabít, nalhávat, nalodit, namočit, napojovat, napíchat, naroubovat, nastěhovat, oblažit, obohacující, obtížit, odhlásit, odřezávat, odřít, osamostatňující, otipovat, ověsit, podobat, podvádět, pojišťovat, pokydat, políbit, poněmčovat, posilnit</li>
+      <li>Out of those, 15 lemmas occurred more than once, but never without a reflexive dependent. Examples: připojistit, prolínat, transformující, dotýkat, koupat, navléknout, obalamutit, objímat, osamostatnit, potřást, překrývající, specializovat, vykoupat, zabarikádovat, zadlužit</li>
     </ul>
 </ul>
 

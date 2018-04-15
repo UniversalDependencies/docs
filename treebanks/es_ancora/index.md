@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 
 The following people have contributed to making this treebank part of UD: Héctor Martínez Alonso, Daniel Zeman.
 
-Repository: [UD_Spanish-AnCora](https://github.com/UniversalDependencies/UD_Spanish-AnCora)
+Repository: [UD_Spanish-AnCora](https://github.com/UniversalDependencies/UD_Spanish-AnCora)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_ancora)
 
 License: GNU GPL 3.0
 
@@ -62,11 +63,24 @@ Spanish data from the AnCora corpus.
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 17680 sentences, 547681 tokens and 549570 syntactic words.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 61771 tokens (11%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 618 types of words that contain both letters and punctuation. Examples: TV-3, W., d'Esquadra, A., fig., G., S., coca-cola, d'Hebron, E., Iber-X, M., C., &amp;, Alvarez-Cascos, B., Castilla-La, L., P., TVE-1, A-7, L'Hospitalet, Macapagal-Arroyo, Reynard/Honda, Ruiz-Mateos, Sotheby's, TCNQ-TTF, A-2, Alonso-Cuevillas, Carod-Rovira, D'Alema, IC-V, Ibex-35, Ivesur-PTV, J., PSC-PSOE, PSE-EE, PSE-PSOE, Paral.lel, T., d'Ebre, 12-M, CATAC-Presons, Deportivo-Juventus, F., Heinz-Harald, Horta-Guinardó, Jean-Pierre, Madrid-Barça, Miami-Dade</li>
+</ul>
+
+<ul>
 <li>This corpus contains 1887 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
 <li>There are 1083 types of multi-word tokens. Examples: hacerlo, hacerse, haberse, convertirse, darle, enfrentarse, encontrarse, darse, presentarse, reunirse, situarse, ponerse, producirse, dedicarse, mantenerse, quedarse, conseguirlo, imponerse, sentirse, someterse, acercarse, asegurarse, considerarse, incorporarse, iniciarse, pedirle, referirse, irse, llevarse, pronunciarse, sentarse, verse, conocerse, darles, desprenderse, hacerle, situándose, tratarse, alejarse, casarse, clasificarse, concentrarse, distanciarse, fijarse, manifestarse, retirarse, alzarse, aplicarse, celebrarse, deberse.</li>
 </ul>
@@ -77,6 +91,9 @@ Spanish data from the AnCora corpus.
 
 <ul>
 <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
+</ul>
+
+<ul>
 <li>This corpus contains 1 word types tagged as particles (PART): no</li>
 </ul>
 
@@ -101,7 +118,9 @@ Spanish data from the AnCora corpus.
 </ul>
 
 <ul>
-<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Fin
   <ul>
@@ -110,12 +129,18 @@ Spanish data from the AnCora corpus.
     <li>VERB: tiene, dijo, tienen, aseguró, explicó, afirmó, señaló, hizo, anunció, añadió</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Ger
   <ul>
     <li>AUX: siendo, diciendo, intentando, teniendo, pensando, habiendo, estando, tratando, dejando, gritando</li>
     <li>VERB: haciendo, dando, trabajando, teniendo, hablando, jugando, perdiendo, luchando, tocando, esperando</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Inf
   <ul>
     <li>ADV: menos</li>
@@ -123,6 +148,9 @@ Spanish data from the AnCora corpus.
     <li>VERB: hacer, dar, tener, ganar, poner, ver, jugar, mantener, conseguir, llegar</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>ADJ: pasado, pasada, previsto, abierta, abierto, dispuesto, hecho, privado, fallecido, llamado</li>
@@ -132,12 +160,12 @@ Spanish data from the AnCora corpus.
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
+
 <li><a>Gender</a>
+
   <ul>
     <li>Fem
       <ul>
@@ -152,6 +180,9 @@ Spanish data from the AnCora corpus.
         <li>VERB-Part: aprobada, considerada, dada, utilizada, dadas, incluida, rechazada, recibida, violada, aprobadas</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>ADJ: pasado, primer, nuevo, próximo, últimos, español, segundo, último, único, político</li>
@@ -169,10 +200,15 @@ Spanish data from the AnCora corpus.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Number</a>
+
   <ul>
     <li>Plur
       <ul>
@@ -190,6 +226,9 @@ Spanish data from the AnCora corpus.
         <li>VERB-Part: detenidos, incluidos, trasladados, juzgados, entregados, dadas, dados, designados, informados, utilizados</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: gran, mayor, pasado, mejor, general, primer, posible, primera, actual, electoral</li>
@@ -209,29 +248,43 @@ Spanish data from the AnCora corpus.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Acc
       <ul>
         <li>PRON: lo, la, los, le, las, les, se, Nos</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dat
       <ul>
         <li>PRON: le, les, se</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Nom
       <ul>
         <li>PRON: yo, tú</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>PrepCase</a>
+
   <ul>
     <li>Pre
       <ul>
@@ -239,27 +292,40 @@ Spanish data from the AnCora corpus.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Definite</a>
+
   <ul>
     <li>Def
       <ul>
         <li>DET: la, el, los, las, lo</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>DET: un, una, unos, unas, la, El, LO, les</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Degree and Polarity</h3>
 
 
+
+
 <li><a>Polarity</a>
+
   <ul>
     <li>Neg
       <ul>
@@ -267,13 +333,20 @@ Spanish data from the AnCora corpus.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Verbal Features</h3>
 
 
+
+
 <li><a>Mood</a>
+
   <ul>
     <li>Cnd
       <ul>
@@ -281,12 +354,18 @@ Spanish data from the AnCora corpus.
         <li>VERB-Fin: tendría, gustaría, haría, supondría, diría, permitiría, tendrían, trataría, daría, iría</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Imp
       <ul>
         <li>AUX-Fin: sea, He, vaya, deje, haya, Sé, dejen</li>
         <li>VERB-Fin: mira, añade, afirma, asegura, lean, vaya, vea, apunta, figura, hagamos</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>ADV-Fin: menos</li>
@@ -294,6 +373,9 @@ Spanish data from the AnCora corpus.
         <li>VERB-Fin: tiene, dijo, tienen, aseguró, explicó, afirmó, señaló, hizo, anunció, añadió</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sub
       <ul>
         <li>AUX-Fin: sea, haya, hubiera, pueda, puedan, fuera, sean, pudiera, hayan, esté</li>
@@ -301,9 +383,13 @@ Spanish data from the AnCora corpus.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Tense</a>
+
   <ul>
     <li>Fut
       <ul>
@@ -311,6 +397,9 @@ Spanish data from the AnCora corpus.
         <li>VERB-Fin: tendrá, hará, permitirá, tendrán, celebrará, disputará, presentará, dará, mantendrá, pondrá</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Imp
       <ul>
         <li>ADV-Fin: menos</li>
@@ -318,6 +407,9 @@ Spanish data from the AnCora corpus.
         <li>VERB-Fin: tenía, tenían, decía, quería, sabía, hacía, encontraba, estaba, llevaba, esperaba</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Past
       <ul>
         <li>AUX-Fin: fue, fueron, pudo, hubo, estuvo, volvió, llegó, pudieron, comenzó, hizo</li>
@@ -326,6 +418,9 @@ Spanish data from the AnCora corpus.
         <li>VERB-Part: hecho, tenido, dado, visto, conseguido, ganado, pasado, perdido, logrado, puesto</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pres
       <ul>
         <li>AUX-Fin: es, ha, han, son, está, hay, puede, hace, están, debe</li>
@@ -333,49 +428,74 @@ Spanish data from the AnCora corpus.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
 
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Art
       <ul>
         <li>DET: la, el, los, un, las, una, lo, unos, unas, les</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dem
       <ul>
         <li>DET: este, esta, esa, ese, estos, estas, esos, esas, aquel, tal</li>
         <li>PRON: eso, esto, éste, ésta, este, éstos, aquellos, aquello, tal, esta</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>DET: todo, todos, otros, cada, todas, otro, mismo, otras, toda, otra</li>
         <li>PRON: uno, nada, una, algo, todo, unos, nadie, otros, todos, otro</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Int
       <ul>
         <li>DET: qué, cuántos, Dios, cuánto, sabe, cuánta</li>
         <li>PRON: cómo, qué, dónde, quién, cuál, cuándo, cuáles, cuánto, adónde, como</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
         <li>DET: su, sus, mi, nuestra, nuestro, nuestros, mis, nuestras, tu, suyo</li>
         <li>PRON: le, lo, me, nos, la, les, él, ellos, ello, yo</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rel
       <ul>
         <li>DET: qué</li>
         <li>PRON: que, donde, quien, cuando, quienes, cual, cuyo, cuya, cuales, como</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Tot
       <ul>
         <li>DET: todo</li>
@@ -383,9 +503,13 @@ Spanish data from the AnCora corpus.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>NumType</a>
+
   <ul>
     <li>Card
       <ul>
@@ -393,21 +517,31 @@ Spanish data from the AnCora corpus.
         <li>NUM: dos, ciento, tres, cinco, cuatro, seis, ambos, siete, diez, ocho</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Frac
       <ul>
         <li>NUM: cada, 1-0</li>
         <li>SYM: %, 50%, 10%, 30%, 60%, 20%, 80%, 25%, 5%, 3%</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ord
       <ul>
         <li>ADJ: primer, primera, últimos, segunda, segundo, último, última, primeros, últimas, tercera</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Poss</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -416,10 +550,15 @@ Spanish data from the AnCora corpus.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Person</a>
+
   <ul>
     <li>1
       <ul>
@@ -429,6 +568,9 @@ Spanish data from the AnCora corpus.
         <li>VERB-Fin: creo, tenemos, tengo, sé, queremos, quiero, pienso, sabemos, digo, hacemos</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>AUX-Fin: eres, puedes, debes, has, He, estás, eras, podéis, seas, Estabas</li>
@@ -437,6 +579,9 @@ Spanish data from the AnCora corpus.
         <li>VERB-Fin: mira, añade, tienes, afirma, asegura, sabes, apunta, figura, haz, Aprietas</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>ADV-Fin: menos</li>
@@ -447,9 +592,13 @@ Spanish data from the AnCora corpus.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Polite</a>
+
   <ul>
     <li>Form
       <ul>
@@ -457,10 +606,15 @@ Spanish data from the AnCora corpus.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Number[psor]</a>
+
   <ul>
     <li>Plur
       <ul>
@@ -468,6 +622,9 @@ Spanish data from the AnCora corpus.
         <li>PRON: nuestra, nuestro, nuestras</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>DET: mi, mis, tu, mío, tus, mía</li>
@@ -475,9 +632,13 @@ Spanish data from the AnCora corpus.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Other Features</h3>
+
 
 <li><a>AdpType</a>
   <ul>
@@ -497,6 +658,7 @@ Spanish data from the AnCora corpus.
     </li>
   </ul>
 </li>
+
 <li><a>AdvType</a>
   <ul>
     <li>Tim
@@ -508,6 +670,7 @@ Spanish data from the AnCora corpus.
     </li>
   </ul>
 </li>
+
 <li><a>NumForm</a>
   <ul>
     <li>Digit
@@ -519,6 +682,7 @@ Spanish data from the AnCora corpus.
     </li>
   </ul>
 </li>
+
 <li><a>PunctSide</a>
   <ul>
     <li>Fin
@@ -533,6 +697,7 @@ Spanish data from the AnCora corpus.
     </li>
   </ul>
 </li>
+
 <li><a>PunctType</a>
   <ul>
     <li>Brck
@@ -589,6 +754,9 @@ Spanish data from the AnCora corpus.
 
 <ul>
 <li>This corpus uses 71 lemmas as copulas (<a>cop</a>). Examples: ser, estar, parecer, el, encontrar, ir, tener, no, resultar, sumar, vivir, esto, haber, o, sufrir, uno, utilizar, 22926, abrir, aceite, además, arrancar, autodefinirse, autoproclamar, caracterizar, cobrar, considerar, costar, dar, donde, empatar, en, entrar, es, esperar, estilo, explotar, faltar, formar, fue, ganar, garantizar, hablar, hacer, hecho, igual, impedir, iniciar, ligado, mantener.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 327 lemmas as auxiliaries (<a>aux</a>). Examples: haber, poder, ser, deber, hacer, estar, ir, seguir, volver, dejar, empezar, llegar, comenzar, acabar, decir, tratar, soler, tener, intentar, evitar, continuar, ver, considerar, venir, pensar, saber, parecer, asegurar, conseguir, pasar, querer, terminar, afirmar, explicar, lograr, recordar, llevar, impedir, demostrar, exigir, permitir, tener_que_ver, mantener, pedir, señalar, comprobar, dar, aclarar, precisar, acostumbrar.</li>
 </ul>
 

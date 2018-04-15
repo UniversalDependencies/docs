@@ -51,7 +51,7 @@ The following 2 pairs of parts of speech are connected with `flat:foreign`: <tt>
 6	Romney	Romney	PROPN	_	_	5	flat:name	_	_
 7	ligger	ligge	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
 8	an	an	ADV	_	_	7	advmod	_	_
-9	til	til	ADP	_	_	11	mark	_	_
+9	til	til	SCONJ	_	_	11	mark	_	_
 10	å	å	PART	_	_	11	mark	_	_
 11	vinne	vinne	VERB	_	VerbForm=Inf	7	advcl	_	_
 12	de	de	DET	_	Number=Plur|PronType=Dem	14	det	_	_

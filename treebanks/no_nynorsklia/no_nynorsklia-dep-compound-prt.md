@@ -17,19 +17,18 @@ The following 1 pairs of parts of speech are connected with `compound:prt`: <tt>
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 7 compound:prt	color:blue
-1	hadde	ha	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-2	du	du	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
-3	med	med	ADP	_	_	4	case	_	_
-4	deg	du	PRON	_	Animacy=Hum|Case=Acc|Number=Sing|Person=2|PronType=Prs	1	obl	_	_
-5	nokon	nokon	DET	_	Gender=Masc|Number=Sing|PronType=Ind	6	det	_	_
-6	varer	vare	NOUN	_	Definite=Ind|Gender=Fem|Number=Plur	1	obj	_	_
-7	heim	heim	ADP	_	_	1	compound:prt	_	_
-8	?	$?	PUNCT	_	_	1	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 compound:prt	color:blue
+1	som	som	PRON	_	PronType=Rel	3	nmod	_	_
+2	vi	vi	PRON	_	Animacy=Hum|Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	_
+3	leste	lesse	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	opp	opp	ADP	_	_	3	compound:prt	_	_
+5	det	det	DET	_	Gender=Neut|Number=Sing|PronType=Dem	3	expl	_	_
+6	mjølka	mjølk	NOUN	_	Definite=Def|Gender=Fem|Number=Sing	5	appos	_	_
+7	.	$.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 

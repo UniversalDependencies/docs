@@ -68,15 +68,15 @@ The most frequent other feature values with which `ADJ` and `Case` co-occurred: 
 
 ### `PRON`
 
-428 <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> tokens (40% of all `PRON` tokens) have a non-empty value of `Case`.
+428 <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> tokens (33% of all `PRON` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="sv_pud-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (428; 100%), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (424; 99%), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (281; 66%), <tt><a href="sv_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (237; 55%).
+The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="sv_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (428; 100%), <tt><a href="sv_pud-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (428; 100%), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (424; 99%), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (281; 66%), <tt><a href="sv_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (237; 55%).
 
 `PRON` tokens may have the following values of `Case`:
 
 * `Acc` (126; 29% of non-empty `Case`): <em>sig, honom, dem, henne, oss, mig, dig, er, sej, varandra</em>
 * `Nom` (302; 71% of non-empty `Case`): <em>han, de, jag, hon, vi, du, man, ni</em>
-* `EMPTY` (629): <em>som, det, den, detta, vad, en, vilket, vilka, alla, många</em>
+* `EMPTY` (883): <em>som, det, hans, sin, den, sina, dess, deras, hennes, detta</em>
 
 <table>
   <tr><th>Paradigm <i>han</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
@@ -114,7 +114,7 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>PROPN --[<tt><a href="sv_pud-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (170; 94%),
 <tt>NOUN --[<tt><a href="sv_pud-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (163; 97%),
 <tt>PROPN --[<tt><a href="sv_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (101; 94%),
-<tt>ADJ --[<tt><a href="sv_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (77; 100%),
+<tt>ADJ --[<tt><a href="sv_pud-dep-obl.html">obl</a></tt>]--> NOUN</tt> (86; 100%),
 <tt>PROPN --[<tt><a href="sv_pud-dep-conj.html">conj</a></tt>]--> PROPN</tt> (64; 98%),
 <tt>ADJ --[<tt><a href="sv_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (60; 98%).
 

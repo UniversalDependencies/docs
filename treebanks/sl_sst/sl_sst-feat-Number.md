@@ -14,19 +14,19 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 14478 tokens (49%) have a non-empty value of `Number`.
 5269 types (87%) occur at least once with a non-empty value of `Number`.
 3299 lemmas (84%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (3664; 12% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (3627; 12% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (1788; 6% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (1664; 6% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt> (1613; 5% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (1179; 4% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (499; 2% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (444; 2% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (3662; 12% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (3627; 12% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (1790; 6% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (1664; 6% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt> (1613; 5% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (1179; 4% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (499; 2% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (444; 2% instances).
 
 ### `VERB`
 
-3664 <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> tokens (93% of all `VERB` tokens) have a non-empty value of `Number`.
+3662 <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> tokens (93% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="sl_sst-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2918; 80%), <tt><a href="sl_sst-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2500; 68%), <tt><a href="sl_sst-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2500; 68%), <tt><a href="sl_sst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2292; 63%), <tt><a href="sl_sst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2228; 61%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="sl_sst-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2918; 80%), <tt><a href="sl_sst-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2498; 68%), <tt><a href="sl_sst-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2498; 68%), <tt><a href="sl_sst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2290; 63%), <tt><a href="sl_sst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2226; 61%).
 
 `VERB` tokens may have the following values of `Number`:
 
 * `Dual` (85; 2% of non-empty `Number`): <em>sta, šla, bila, gledava, imava, prišla, dajva, greva, imata, imela</em>
 * `Plur` (1037; 28% of non-empty `Number`): <em>recimo, so, imamo, imeli, imajo, imate, gremo, rekli, vemo, smo</em>
-* `Sing` (2542; 69% of non-empty `Number`): <em>je, vem, veš, mislim, bilo, ni, ima, bo, bil, pravi</em>
+* `Sing` (2540; 69% of non-empty `Number`): <em>je, vem, veš, mislim, bilo, ni, ima, bo, bil, pravi</em>
 * `EMPTY` (271): <em>bi, narediti, reči, biti, delati, imeti, iti, priti, videti, kupiti</em>
 
 <table>
@@ -71,15 +71,15 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `AUX`
 
-1788 <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> tokens (92% of all `AUX` tokens) have a non-empty value of `Number`.
+1790 <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> tokens (92% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="sl_sst-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1660; 93%), <tt><a href="sl_sst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1656; 93%), <tt><a href="sl_sst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1536; 86%), <tt><a href="sl_sst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1421; 79%), <tt><a href="sl_sst-feat-Person.html">Person</a></tt><tt>=3</tt> (1121; 63%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="sl_sst-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1662; 93%), <tt><a href="sl_sst-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1658; 93%), <tt><a href="sl_sst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1538; 86%), <tt><a href="sl_sst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1423; 79%), <tt><a href="sl_sst-feat-Person.html">Person</a></tt><tt>=3</tt> (1122; 63%).
 
 `AUX` tokens may have the following values of `Number`:
 
 * `Dual` (51; 3% of non-empty `Number`): <em>sta, sva, bova, bila, bosta, nisva</em>
 * `Plur` (448; 25% of non-empty `Number`): <em>so, smo, bomo, ste, boste, bili, bodo, nismo, niso, bojo</em>
-* `Sing` (1289; 72% of non-empty `Number`): <em>je, sem, bo, ni, si, bil, bila, bilo, bom, boš</em>
+* `Sing` (1291; 72% of non-empty `Number`): <em>je, sem, bo, ni, si, bil, bila, bilo, bom, boš</em>
 * `EMPTY` (146): <em>bi, biti</em>
 
 <table>
@@ -173,7 +173,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 1179 <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> tokens (72% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="sl_sst-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (894; 76%), <tt><a href="sl_sst-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (822; 70%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="sl_sst-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (894; 76%), <tt><a href="sl_sst-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (823; 70%).
 
 `PRON` tokens may have the following values of `Number`:
 
@@ -252,14 +252,14 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>VERB --[<tt><a href="sl_sst-dep-aux.html">aux</a></tt>]--> AUX</tt> (951; 88%),
+<tt>VERB --[<tt><a href="sl_sst-dep-aux.html">aux</a></tt>]--> AUX</tt> (953; 88%),
 <tt>NOUN --[<tt><a href="sl_sst-dep-amod.html">amod</a></tt>]--> ADJ</tt> (945; 100%),
 <tt>NOUN --[<tt><a href="sl_sst-dep-det.html">det</a></tt>]--> DET</tt> (591; 92%),
 <tt>VERB --[<tt><a href="sl_sst-dep-obl.html">obl</a></tt>]--> NOUN</tt> (464; 55%),
 <tt>VERB --[<tt><a href="sl_sst-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (370; 89%),
-<tt>VERB --[<tt><a href="sl_sst-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (350; 96%),
+<tt>VERB --[<tt><a href="sl_sst-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (351; 96%),
 <tt>VERB --[<tt><a href="sl_sst-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (319; 70%),
 <tt>ADJ --[<tt><a href="sl_sst-dep-cop.html">cop</a></tt>]--> AUX</tt> (302; 96%),
-<tt>VERB --[<tt><a href="sl_sst-dep-obj.html">obj</a></tt>]--> PRON</tt> (251; 62%),
+<tt>VERB --[<tt><a href="sl_sst-dep-obj.html">obj</a></tt>]--> PRON</tt> (248; 62%),
 <tt>NOUN --[<tt><a href="sl_sst-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (244; 65%).
 

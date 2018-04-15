@@ -29,7 +29,7 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 4	fait	faire	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	aux:caus	_	_
 5	jouer	jouer	VERB	_	VerbForm=Inf	0	root	_	_
 6	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
-7	enfants	enfant	NOUN	_	Number=Plur	5	obj	_	SpaceAfter=No
+7	enfants	enfant	NOUN	_	Number=Plur	5	obj:agent	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~
@@ -44,7 +44,7 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 1	Dans	dans	ADP	_	_	4	case	_	_
 2	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	4	det	_	_
 3	deux	deux	NUM	_	NumType=Card	4	nummod	_	_
-4	cas	cas	NOUN	_	Gender=Masc|Number=Plur	10	obl	_	SpaceAfter=No
+4	cas	cas	NOUN	_	Gender=Masc|Number=Plur	10	obl:mod	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	10	punct	_	_
 6	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
 7	évolution	évolution	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	_
@@ -70,14 +70,14 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 6	être	être	AUX	_	VerbForm=Inf	7	aux:pass	_	_
 7	libéré	libérer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	xcomp	_	_
 8	pour	pour	ADP	_	_	9	case	_	_
-9	raison	raison	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
+9	raison	raison	NOUN	_	Gender=Fem|Number=Sing	7	obl:mod	_	_
 10	de	de	ADP	_	_	11	case	_	_
 11	santé	santé	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	7	punct	_	_
-13	suite	suite	NOUN	_	Gender=Fem|Number=Sing	16	case	_	_
+13	suite	suite	NOUN	_	Gender=Fem|Number=Sing	16	case	_	MWE=suite_à|MWEPOS=ADP
 14	à	à	ADP	_	_	13	fixed	_	_
 15	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
-16	attentat	attentat	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
+16	attentat	attentat	NOUN	_	Gender=Masc|Number=Sing	7	obl:mod	_	_
 17	dont	dont	PRON	_	PronType=Rel	22	nmod	_	_
 18	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3	22	nsubj	_	_
 19	avait	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	22	aux	_	_

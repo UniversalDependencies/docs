@@ -9,28 +9,28 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-585081 tokens (53%) have a non-empty value of `Number`.
-113504 types (98%) occur at least once with a non-empty value of `Number`.
-36888 lemmas (87%) occur at least once with a non-empty value of `Number`.
-The feature is used with 7 part-of-speech tags: <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (266159; 24% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (110056; 10% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (96620; 9% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (43507; 4% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (39164; 4% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (22198; 2% instances), <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (7377; 1% instances).
+581078 tokens (53%) have a non-empty value of `Number`.
+113466 types (98%) occur at least once with a non-empty value of `Number`.
+38377 lemmas (87%) occur at least once with a non-empty value of `Number`.
+The feature is used with 7 part-of-speech tags: <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (271732; 25% instances), <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> (107017; 10% instances), <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> (96620; 9% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (37445; 3% instances), <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> (36151; 3% instances), <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> (24735; 2% instances), <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> (7378; 1% instances).
 
 ### `NOUN`
 
-266159 <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+271732 <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="ru_syntagrus-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (231872; 87%).
+The most frequent other feature values with which `NOUN` and `Number` co-occurred: <tt><a href="ru_syntagrus-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (236114; 87%).
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (80416; 30% of non-empty `Number`): <em>лет, людей, люди, деньги, годы, тысяч, словам, человек, стран, пор</em>
-* `Sing` (185743; 70% of non-empty `Number`): <em>года, время, году, жизни, раз, человека, случае, времени, власти, страны</em>
-* `EMPTY` (100): <em>интернет, ButtKicker, robots.txt, RoboCup, вся, нейтроно, паро, MSc, h1, СовЭкон</em>
+* `Plur` (81550; 30% of non-empty `Number`): <em>лет, люди, людей, деньги, годы, тысяч, словам, человек, стран, пор</em>
+* `Sing` (190182; 70% of non-empty `Number`): <em>время, года, году, жизни, раз, дело, человека, случае, времени, власти</em>
+* `EMPTY` (104): <em>интернет, ButtKicker, robots.txt, RoboCup, А, вся, нейтроно, паро, MSc, h1</em>
 
 <table>
   <tr><th>Paradigm <i>год</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>год, г., г</em></td><td><em>годы, гг., г, гг</em></td></tr>
-  <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>году, г., г</em></td><td><em>годам</em></td></tr>
-  <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>года, г., г</em></td><td><em>лет, годов, гг., г., гг, г, годах</em></td></tr>
+  <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>году, г, г.</em></td><td><em>годам</em></td></tr>
+  <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>года, г., г</em></td><td><em>лет, годов, гг., г., гг, годах, г</em></td></tr>
   <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>лет</em></td></tr>
   <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>годом, г, г.</em></td><td><em>годами</em></td></tr>
   <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>году, г., г</em></td><td><em>годах, гг., гг, г.</em></td></tr>
@@ -39,15 +39,15 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 ### `ADJ`
 
-110056 <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Number`.
+107017 <tt><a href="ru_syntagrus-pos-ADJ.html">ADJ</a></tt> tokens (98% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="ru_syntagrus-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (109438; 99%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="ru_syntagrus-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (106398; 99%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (35733; 32% of non-empty `Number`): <em>других, многие, другие, должны, новые, многих, последние, новых, сами, самых</em>
-* `Sing` (74323; 68% of non-empty `Number`): <em>нужно, другой, сам, должен, первый, самом, каждый, российской, второй, должна</em>
-* `EMPTY` (1781): <em>лучше, выше, больше, ниже, хуже, легче, проще, меньше, социально, ближе</em>
+* `Plur` (34610; 32% of non-empty `Number`): <em>других, другие, должны, новые, последние, новых, сами, самых, российских, разных</em>
+* `Sing` (72407; 68% of non-empty `Number`): <em>нужно, другой, сам, должен, первый, самом, российской, второй, должна, известно</em>
+* `EMPTY` (1785): <em>лучше, выше, больше, ниже, хуже, легче, проще, меньше, социально, ближе</em>
 
 <table>
   <tr><th>Paradigm <i>другой</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -83,7 +83,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 96620 <tt><a href="ru_syntagrus-pos-VERB.html">VERB</a></tt> tokens (78% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (83741; 87%), <tt><a href="ru_syntagrus-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (78293; 81%), <tt><a href="ru_syntagrus-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (77283; 80%), <tt><a href="ru_syntagrus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (62464; 65%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (59146; 61%), <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (56317; 58%), <tt><a href="ru_syntagrus-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (56126; 58%), <tt><a href="ru_syntagrus-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (51036; 53%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (83741; 87%), <tt><a href="ru_syntagrus-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (78293; 81%), <tt><a href="ru_syntagrus-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (77283; 80%), <tt><a href="ru_syntagrus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (62464; 65%), <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (59147; 61%), <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (56316; 58%), <tt><a href="ru_syntagrus-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (56126; 58%), <tt><a href="ru_syntagrus-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (51035; 53%).
 
 `VERB` tokens may have the following values of `Number`:
 
@@ -115,15 +115,15 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `PROPN`
 
-43507 <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> tokens (95% of all `PROPN` tokens) have a non-empty value of `Number`.
+37445 <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> tokens (94% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (27628; 64%), <tt><a href="ru_syntagrus-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt> (22945; 53%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (24576; 66%), <tt><a href="ru_syntagrus-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt> (19102; 51%).
 
 `PROPN` tokens may have the following values of `Number`:
 
-* `Plur` (2343; 5% of non-empty `Number`): <em>США, Люди, Новости, Ученые, Цилиндры, НИ, НКО, Цилиндров, Эксперты, Деньги</em>
-* `Sing` (41164; 95% of non-empty `Number`): <em>России, СССР, Россия, В., Путин, А., Москве, Владимир, Сергей, Москвы</em>
-* `EMPTY` (2389): <em>MBA, FIA, ButtKicker, бен, PM, RoboCup, FOXP2, Weta, А, XGR</em>
+* `Plur` (1193; 3% of non-empty `Number`): <em>США, Цилиндры, НКО, Цилиндров, Сил, Альпах, Игр, РКС, Сочи, ОАЭ</em>
+* `Sing` (36252; 97% of non-empty `Number`): <em>России, СССР, Россия, В., Путин, А., Москве, Владимир, Сергей, Москвы</em>
+* `EMPTY` (2385): <em>MBA, FIA, ButtKicker, бен, PM, RoboCup, FOXP2, Weta, XGR, Bazelevs</em>
 
 <table>
   <tr><th>Paradigm <i>путин</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -135,19 +135,19 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Путин, ПУТИН</em></td><td><em>Путины</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 95% lemmas (7217) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 98% lemmas (6685) occur only with one value of `Number`.
 
 ### `PRON`
 
-39164 <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> tokens (76% of all `PRON` tokens) have a non-empty value of `Number`.
+36151 <tt><a href="ru_syntagrus-pos-PRON.html">PRON</a></tt> tokens (74% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="ru_syntagrus-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (27585; 70%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="ru_syntagrus-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (24513; 68%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (10996; 28% of non-empty `Number`): <em>их, мы, они, них, нас, вы, нам, им, все, вас</em>
-* `Sing` (28168; 72% of non-empty `Number`): <em>он, это, его, я, ее, она, то, того, том, все</em>
-* `EMPTY` (12625): <em>что, которые, который, кто, себя, это, которых, себе, которая, ничего</em>
+* `Plur` (10075; 28% of non-empty `Number`): <em>мы, они, их, них, нас, вы, нам, им, все, вас</em>
+* `Sing` (26076; 72% of non-empty `Number`): <em>он, это, я, его, она, то, того, том, все, ее</em>
+* `EMPTY` (12908): <em>что, которые, который, кто, себя, это, которых, себе, которая, ничего</em>
 
 <table>
   <tr><th>Paradigm <i>все</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -173,12 +173,13 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `DET`
 
-22198 <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
+24735 <tt><a href="ru_syntagrus-pos-DET.html">DET</a></tt> tokens (89% of all `DET` tokens) have a non-empty value of `Number`.
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (7834; 35% of non-empty `Number`): <em>все, эти, всех, свои, этих, тех, те, своих, такие, таких</em>
-* `Sing` (14364; 65% of non-empty `Number`): <em>этот, этой, такой, этого, этом, своей, это, эта, свою, том</em>
+* `Plur` (8309; 34% of non-empty `Number`): <em>все, эти, всех, тех, свои, этих, те, своих, такие, таких</em>
+* `Sing` (16426; 66% of non-empty `Number`): <em>этот, этой, такой, этом, этого, своей, это, эта, свою, том</em>
+* `EMPTY` (3073): <em>его, их, ее, её</em>
 
 <table>
   <tr><th>Paradigm <i>этот</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -210,14 +211,14 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 ### `AUX`
 
-7377 <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> tokens (91% of all `AUX` tokens) have a non-empty value of `Number`.
+7378 <tt><a href="ru_syntagrus-pos-AUX.html">AUX</a></tt> tokens (91% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="ru_syntagrus-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (7377; 100%), <tt><a href="ru_syntagrus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7377; 100%), <tt><a href="ru_syntagrus-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7372; 100%), <tt><a href="ru_syntagrus-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7345; 100%), <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5295; 72%), <tt><a href="ru_syntagrus-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5295; 72%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="ru_syntagrus-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt> (7378; 100%), <tt><a href="ru_syntagrus-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (7378; 100%), <tt><a href="ru_syntagrus-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (7373; 100%), <tt><a href="ru_syntagrus-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (7346; 100%), <tt><a href="ru_syntagrus-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (5296; 72%), <tt><a href="ru_syntagrus-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (5296; 72%).
 
 `AUX` tokens may have the following values of `Number`:
 
 * `Plur` (1887; 26% of non-empty `Number`): <em>были, будут, будем, есть, будете, будьте, бывшие, суть</em>
-* `Sing` (5490; 74% of non-empty `Number`): <em>было, был, будет, была, есть, буду, будь, будешь, бывший, бывшем</em>
+* `Sing` (5491; 74% of non-empty `Number`): <em>было, был, будет, была, есть, буду, будь, будешь, бывший, бывшем</em>
 * `EMPTY` (767): <em>быть, будучи</em>
 
 <table>
@@ -238,14 +239,14 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-amod.html">amod</a></tt>]--> ADJ</tt> (82377; 99%),
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (45440; 61%),
-<tt>VERB --[<tt><a href="ru_syntagrus-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (31110; 93%),
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-det.html">det</a></tt>]--> DET</tt> (19161; 99%),
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> NOUN</tt> (14995; 80%),
-<tt>VERB --[<tt><a href="ru_syntagrus-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (12170; 75%),
-<tt>VERB --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> VERB</tt> (10327; 79%),
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-acl.html">acl</a></tt>]--> VERB</tt> (7404; 95%),
-<tt>NOUN --[<tt><a href="ru_syntagrus-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (7213; 72%),
-<tt>VERB --[<tt><a href="ru_syntagrus-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (6972; 93%).
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-amod.html">amod</a></tt>]--> ADJ</tt> (80646; 99%),
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (46594; 61%),
+<tt>VERB --[<tt><a href="ru_syntagrus-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (31584; 94%),
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-det.html">det</a></tt>]--> DET</tt> (20751; 87%),
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> NOUN</tt> (15439; 80%),
+<tt>VERB --[<tt><a href="ru_syntagrus-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (12004; 75%),
+<tt>VERB --[<tt><a href="ru_syntagrus-dep-conj.html">conj</a></tt>]--> VERB</tt> (10309; 79%),
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-acl.html">acl</a></tt>]--> VERB</tt> (7579; 95%),
+<tt>NOUN --[<tt><a href="ru_syntagrus-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (7351; 72%),
+<tt>VERB --[<tt><a href="ru_syntagrus-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (5569; 94%).
 

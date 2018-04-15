@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Serbian'
+title:  'UD_Serbian-SET'
 udver: '2'
 ---
 
@@ -9,7 +9,7 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Serbian
+# UD Serbian SET
 
 Language: [Serbian](../sr/overview/sr-hub.html) (code: `sr`)<br/>
 Family: Indo-European, Slavic
@@ -18,15 +18,16 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
 The following people have contributed to making this treebank part of UD: Tanja Samardžić, Nikola Ljubešić.
 
-Repository: [UD_Serbian](https://github.com/UniversalDependencies/UD_Serbian)
+Repository: [UD_Serbian-SET](https://github.com/UniversalDependencies/UD_Serbian-SET)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsr_set)
 
 License: CC BY-SA 4.0
 
-Genre: news, wiki
+Genre: news
 
 Questions, comments?
 General annotation questions (either Serbian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Serbian/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Serbian-SET/issues).
 If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(æt)&nbsp;uzh&nbsp;•&nbsp;ch].
 
 | Annotation | Source |
@@ -39,29 +40,45 @@ If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(
 
 ## Description
 
+The Serbian UD treebank is based on the SETimes-SR corpus.
+
+
 ## Acknowledgments
 
-# Statistics of UD Serbian
+# Statistics of UD Serbian SET
 
 ## POS Tags
 
-[ADJ](sr-pos-ADJ.html) – [ADP](sr-pos-ADP.html) – [ADV](sr-pos-ADV.html) – [AUX](sr-pos-AUX.html) – [CCONJ](sr-pos-CCONJ.html) – [NOUN](sr-pos-NOUN.html) – [NUM](sr-pos-NUM.html) – [PART](sr-pos-PART.html) – [PRON](sr-pos-PRON.html) – [PROPN](sr-pos-PROPN.html) – [PUNCT](sr-pos-PUNCT.html) – [SCONJ](sr-pos-SCONJ.html) – [VERB](sr-pos-VERB.html)
+[ADJ](sr_set-pos-ADJ.html) – [ADP](sr_set-pos-ADP.html) – [ADV](sr_set-pos-ADV.html) – [AUX](sr_set-pos-AUX.html) – [CCONJ](sr_set-pos-CCONJ.html) – [NOUN](sr_set-pos-NOUN.html) – [NUM](sr_set-pos-NUM.html) – [PART](sr_set-pos-PART.html) – [PRON](sr_set-pos-PRON.html) – [PROPN](sr_set-pos-PROPN.html) – [PUNCT](sr_set-pos-PUNCT.html) – [SCONJ](sr_set-pos-SCONJ.html) – [VERB](sr_set-pos-VERB.html)
 
 ## Features
 
-[Animacy](sr-feat-Animacy.html) – [Case](sr-feat-Case.html) – [Definite](sr-feat-Definite.html) – [Degree](sr-feat-Degree.html) – [Gender](sr-feat-Gender.html) – [Mood](sr-feat-Mood.html) – [Number](sr-feat-Number.html) – [NumType](sr-feat-NumType.html) – [Person](sr-feat-Person.html) – [Poss](sr-feat-Poss.html) – [PronType](sr-feat-PronType.html) – [Reflex](sr-feat-Reflex.html) – [Tense](sr-feat-Tense.html) – [VerbForm](sr-feat-VerbForm.html)
+[Animacy](sr_set-feat-Animacy.html) – [Case](sr_set-feat-Case.html) – [Definite](sr_set-feat-Definite.html) – [Degree](sr_set-feat-Degree.html) – [Gender](sr_set-feat-Gender.html) – [Mood](sr_set-feat-Mood.html) – [Number](sr_set-feat-Number.html) – [NumType](sr_set-feat-NumType.html) – [Person](sr_set-feat-Person.html) – [Poss](sr_set-feat-Poss.html) – [PronType](sr_set-feat-PronType.html) – [Reflex](sr_set-feat-Reflex.html) – [Tense](sr_set-feat-Tense.html) – [VerbForm](sr_set-feat-VerbForm.html)
 
 ## Relations
 
-[acl](sr-dep-acl.html) – [advcl](sr-dep-advcl.html) – [advmod](sr-dep-advmod.html) – [amod](sr-dep-amod.html) – [appos](sr-dep-appos.html) – [aux](sr-dep-aux.html) – [case](sr-dep-case.html) – [cc](sr-dep-cc.html) – [ccomp](sr-dep-ccomp.html) – [compound](sr-dep-compound.html) – [conj](sr-dep-conj.html) – [cop](sr-dep-cop.html) – [csubj](sr-dep-csubj.html) – [dep](sr-dep-dep.html) – [det](sr-dep-det.html) – [det:numgov](sr-dep-det-numgov.html) – [discourse](sr-dep-discourse.html) – [fixed](sr-dep-fixed.html) – [flat](sr-dep-flat.html) – [goeswith](sr-dep-goeswith.html) – [iobj](sr-dep-iobj.html) – [list](sr-dep-list.html) – [mark](sr-dep-mark.html) – [nmod](sr-dep-nmod.html) – [nsubj](sr-dep-nsubj.html) – [nummod](sr-dep-nummod.html) – [nummod:gov](sr-dep-nummod-gov.html) – [obj](sr-dep-obj.html) – [obl](sr-dep-obl.html) – [orphan](sr-dep-orphan.html) – [parataxis](sr-dep-parataxis.html) – [punct](sr-dep-punct.html) – [root](sr-dep-root.html) – [vocative](sr-dep-vocative.html) – [xcomp](sr-dep-xcomp.html)
+[acl](sr_set-dep-acl.html) – [advcl](sr_set-dep-advcl.html) – [advmod](sr_set-dep-advmod.html) – [amod](sr_set-dep-amod.html) – [appos](sr_set-dep-appos.html) – [aux](sr_set-dep-aux.html) – [case](sr_set-dep-case.html) – [cc](sr_set-dep-cc.html) – [ccomp](sr_set-dep-ccomp.html) – [compound](sr_set-dep-compound.html) – [conj](sr_set-dep-conj.html) – [cop](sr_set-dep-cop.html) – [csubj](sr_set-dep-csubj.html) – [dep](sr_set-dep-dep.html) – [det](sr_set-dep-det.html) – [det:numgov](sr_set-dep-det-numgov.html) – [discourse](sr_set-dep-discourse.html) – [fixed](sr_set-dep-fixed.html) – [flat](sr_set-dep-flat.html) – [goeswith](sr_set-dep-goeswith.html) – [iobj](sr_set-dep-iobj.html) – [list](sr_set-dep-list.html) – [mark](sr_set-dep-mark.html) – [nmod](sr_set-dep-nmod.html) – [nsubj](sr_set-dep-nsubj.html) – [nummod](sr_set-dep-nummod.html) – [nummod:gov](sr_set-dep-nummod-gov.html) – [obj](sr_set-dep-obj.html) – [obl](sr_set-dep-obl.html) – [orphan](sr_set-dep-orphan.html) – [parataxis](sr_set-dep-parataxis.html) – [punct](sr_set-dep-punct.html) – [root](sr_set-dep-root.html) – [vocative](sr_set-dep-vocative.html) – [xcomp](sr_set-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 3891 sentences and 86754 tokens.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 10469 tokens (12%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
-<li>This corpus contains 178 types of words that contain both letters and punctuation. Examples: UN-a, NATO-u, NATO-a, OEBS-a, KFOR-a, UNMIK-a, MMF-a, OHR-a, BDP-a, EULEKS-a, PDV-a, Pop-Lazić, Bukumirić-Katić, MMF-om, UNESKO-a, tzv., Burgas-Aleksandropolis, Cro-a-Porter, KFOR-u, Saks-Koburg, UNODC-a, V., 15-članom, 25-metarskim, 55-člane, CHP-a, EULEKS-om, EXIT-u, Fashion.hr, HAK-PAR, HDZ-u, Ki-Muna, Kostić-Mandić, Kozaku-Markulis, MKSJ-a, MKSJ-u, NATO-om, OEBS-ODIHR, Pop-Lazićke, SDS-a, SETimes-a, SFOR-a, Zalata-Dravica, di-džejevi, eko-aktiviste, grčko-rimskom, stend-baj, zemlja-vazduh, Žan-Klod, 11-godišnja</li>
+</ul>
+
+<ul>
+<li>This corpus contains 178 types of words that contain both letters and punctuation. Examples: UN-a, NATO-u, NATO-a, OEBS-a, KFOR-a, UNMIK-a, MMF-a, OHR-a, BDP-a, EULEKS-a, PDV-a, Pop-Lazić, Bukumirić-Katić, MMF-om, UNESKO-a, tzv., B​u​r​g​a​s​-​A​l​e​k​s​a​n​d​r​o​p​o​l​i​s, Cro-a-Porter, KFOR-u, Saks-Koburg, UNODC-a, V., 15-članom, 25-metarskim, 55-člane, CHP-a, EULEKS-om, EXIT-u, Fashion.hr, HAK-PAR, HDZ-u, Ki-Muna, Kostić-Mandić, Kozaku-Markulis, MKSJ-a, MKSJ-u, NATO-om, OEBS-ODIHR, Pop-Lazićke, SDS-a, SETimes-a, SFOR-a, Zalata-Dravica, di-džejevi, eko-aktiviste, grčko-rimskom, stend-baj, zemlja-vazduh, Žan-Klod, 11-godišnja</li>
+</ul>
+
+<ul>
 </ul>
 
 <h2>Morphology</h2>
@@ -71,6 +88,9 @@ If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(
 <ul>
 <li>This corpus uses 13 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a></li>
 <li>This corpus does not use the following tags: DET, INTJ, SYM, X</li>
+</ul>
+
+<ul>
 <li>This corpus contains 14 word types tagged as particles (PART): Neka, Zar, bilo, evo, god, i, kako, li, ne, ni, niti, sve, tako, što</li>
 </ul>
 
@@ -94,7 +114,9 @@ If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(
 </ul>
 
 <ul>
-<li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Inf
   <ul>
@@ -102,6 +124,9 @@ If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(
     <li>VERB: imati, nastaviti, ostati, pomoći, početi, moći, morati, dobiti, doneti, raditi</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>ADJ: održan, održana, otvorena, održano, otvoren, postignut, završen, zadužen, održanom, osuđen</li>
@@ -111,12 +136,12 @@ If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
+
 <li><a>Gender</a>
+
   <ul>
     <li>Fem
       <ul>
@@ -130,6 +155,9 @@ If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(
         <li>VERB-Part: rekla, mogla, saopštila, dobila, postala, osvojila, povećala, objavila, imala, potpisala</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>ADJ: novi, inostranih, bivši, glavni, novog, mnogi, unutrašnjih, srpski, međunarodni, turski</li>
@@ -142,6 +170,9 @@ If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(
         <li>VERB-Part: rekao, izjavio, dodao, sastao, pozvao, ukazao, izrazio, dobio, saopštio, istakao</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neut
       <ul>
         <li>ADJ: potrebno, ljudskih, ljudska, moguće, održano, Crnog, važno, radna, radnih, svetskom</li>
@@ -155,9 +186,13 @@ If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Animacy</a>
+
   <ul>
     <li>Anim
       <ul>
@@ -169,6 +204,9 @@ If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(
         <li>PROPN: Đinđića, Gruevskog, Krasnićija, Morinu, Nikolu, Rena, Zorana, Abdela, Acu, Ahtisarija</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Inan
       <ul>
         <li>ADJ: ekonomski, novi, veliki, međunarodni, politički, važan, Ahtisarijev, direktan, glavni, ključni</li>
@@ -180,9 +218,13 @@ If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Number</a>
+
   <ul>
     <li>Plur
       <ul>
@@ -198,6 +240,9 @@ If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(
         <li>VERB-Part: potpisali, postigli, imali, rekli, mogli, dobili, složili, počeli, doneli, mogle</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: prošle, novi, bivši, novog, Crne, srpske, glavni, srpski, evropske, jugoistočne</li>
@@ -213,9 +258,13 @@ If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Acc
       <ul>
@@ -228,6 +277,9 @@ If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(
         <li>PROPN: Kosovo, EU, NATO, Srbiju, Tursku, SETimes, BiH, Bugarsku, Albaniju, Balkan</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dat
       <ul>
         <li>ADJ: evropskoj, bivšem, konačnom, kosovskom, međunarodnim, demokratskim, ekonomskom, evropskim, kosovskim, stranim</li>
@@ -239,6 +291,9 @@ If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(
         <li>PROPN: NATO-u, Beogradu, Srbiji, Evropi, Turskoj, Briselu, Bugarskoj, Hrvatskoj, Makedoniji, Rusiji</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Gen
       <ul>
         <li>ADJ: prošle, inostranih, Crne, novog, srpske, unutrašnjih, političkih, novih, evropske, jugoistočne</li>
@@ -250,6 +305,9 @@ If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(
         <li>PROPN: Kosova, Srbije, Turske, Evrope, UN-a, Makedonije, Hrvatske, Bugarske, NATO-a, Beograda</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ins
       <ul>
         <li>ADJ: međunarodnim, srpskim, velikim, Crnom, kosovskim, ličnim, novim, političkim, Haškim, krivičnim</li>
@@ -261,6 +319,9 @@ If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(
         <li>PROPN: Srbijom, Grčkom, Kosovom, Makedonijom, Beogradom, Fatmirom, Sejdiuom, Turskom, Bosnom, Hercegovinom</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Loc
       <ul>
         <li>ADJ: Crnoj, novom, jugoistočnoj, političkoj, svetskom, objavljenom, velikoj, makedonskom, međunarodnim, bivšoj</li>
@@ -272,6 +333,9 @@ If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(
         <li>PROPN: Kosovu, Srbiji, Beogradu, Makedoniji, Evropi, Balkanu, Bugarskoj, Albaniji, Bosni, Hercegovini</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Nom
       <ul>
         <li>ADJ: novi, bivši, mnogi, srpski, glavni, kosovski, turski, Crna, međunarodni, srpska</li>
@@ -282,16 +346,24 @@ If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(
         <li>PROPN: EU, BiH, Srbija, Kosovo, UN, Makedonija, Turska, Bugarska, Hrvatska, Rusija</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Voc
       <ul>
         <li>NOUN: Gospodine, predsedniče</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Definite</a>
+
   <ul>
     <li>Def
       <ul>
@@ -299,6 +371,9 @@ If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(
         <li>ADJ-Part: održana, otvorena, održano, održanom, povređeno, izloženi, objavljenom, održani, razgovarano, uhapšeno</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>ADJ: važan, održan, otvoren, poznat, postignut, završen, dobar, zadužen, osuđen, pozitivan</li>
@@ -306,11 +381,16 @@ If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Degree and Polarity</h3>
 
+
 <li><a>Degree</a>
+
   <ul>
     <li>Cmp
       <ul>
@@ -318,6 +398,9 @@ If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(
         <li>ADV: više, dalje, kasnije, manje, ranije, bolje, gore, snažnije, aktivnije, brže</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>ADJ: prošle, novi, inostranih, bivši, srpske, novog, evropske, Crne, glavni, nove</li>
@@ -325,6 +408,9 @@ If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(
         <li>ADV: takođe, međutim, kada, još, odsto, samo, sada, nekoliko, oko, uvek</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sup
       <ul>
         <li>ADJ: najveći, najvećih, najbolji, najveća, najveće, najviši, najbolju, najnovije, najnovijem, najvećim</li>
@@ -332,14 +418,22 @@ If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
 
 
 
 <h3>Verbal Features</h3>
 
 
+
+
 <li><a>Mood</a>
+
   <ul>
     <li>Imp
       <ul>
@@ -348,9 +442,13 @@ If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Tense</a>
+
   <ul>
     <li>Fut
       <ul>
@@ -358,12 +456,18 @@ If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(
         <li>VERB: biće, doneće, imaće, moraće, predstavljaće, dobiće, otvoriće, zavisiće, Ostvarićemo, Preduzećemo</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Past
       <ul>
         <li>AUX: bi, bih, bismo</li>
         <li>VERB: dogodi</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pres
       <ul>
         <li>AUX: je, su, će, nije, bude, smo, neće, nisu, sam, budu</li>
@@ -371,58 +475,88 @@ If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
 
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Dem
       <ul>
         <li>PRON: to, ove, toga, taj, tom, te, ta, tog, tome, ovog</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>PRON: koji, koje, koja, što, sve, koju, kojima, neki, kojem, kojim</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Int
       <ul>
         <li>PRON: Šta, Kakvo, Kakav, Kakve, Koji, kojoj</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
         <li>PRON: on, ona, oni, ga, mi, ih, im, njega, njih, joj</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>NumType</a>
+
   <ul>
     <li>Card
       <ul>
         <li>NUM: tri, dva, jedan, pet, 20, dve, četiri, šest, 50, deset</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Mult
       <ul>
         <li>NUM: obe, troje, 1998-1999., dvoje, 4.7.2011., oba, dve, 11.9., 19.11.2011., 29.9.2011.</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ord
       <ul>
         <li>NUM: 2007., drugi, 2004., 21., 1., 2008., 9., 12., 28., prvi</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Poss</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -431,9 +565,13 @@ If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Reflex</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -441,9 +579,13 @@ If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Person</a>
+
   <ul>
     <li>1
       <ul>
@@ -452,6 +594,9 @@ If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(
         <li>VERB: imamo, mislim, moramo, možemo, vidimo, želimo, nadam, nadamo, verujem, imam</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>AUX: ste, Hajde, jeste, ćete</li>
@@ -459,6 +604,9 @@ If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(
         <li>VERB: očekujete, možete, tražite, želite, Zauzmi, dobijete, dozvolite, imate, izaberete, morate</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>AUX: je, su, će, bi, nije, bude, neće, nisu, biće, budu</li>
@@ -467,7 +615,13 @@ If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
+
 
 
 
@@ -481,6 +635,9 @@ If you want to collaborate, please contact [tanja&nbsp;•&nbsp;samardzic&nbsp;(
 
 <ul>
 <li>This corpus uses 3 lemmas as copulas (<a>cop</a>). Examples: biti, biće, period.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: biti, hteti, sebe, biće, na, neka, će.</li>
 </ul>
 

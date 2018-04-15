@@ -17,20 +17,24 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 7 nummod	color:blue
-1	Algúns	algún	PRON	Inmp	Gender=Masc|Number=Plur|PronType=Ind	2	nsubj	_	_
-2	fan	facer	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	xornadas	xornada	NOUN	Scfp	Gender=Fem|Number=Plur	2	obj	_	_
-4	de	de	ADP	P	AdpType=Prep	5	case	_	_
-5	máis	máis	ADV	Wn	_	3	advmod	_	_
-6	de	de	ADP	P	AdpType=Prep	8	case	_	_
-7	12	12	NUM	Ncdfp	Gender=Fem|Number=Plur|NumType=Card	8	nummod	_	_
-8	horas	hora	NOUN	Scfp	Gender=Fem|Number=Plur	5	obl	_	SpaceAfter=No
-9	.	.	PUNCT	Q.	_	2	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 nummod	color:blue
+1	Reclama	reclamar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	primeiro	primeiro	NUM	Nodms	Gender=Masc|Number=Sing|NumType=Ord	4	nummod	_	_
+4	posto	posto	NOUN	Scms	Gender=Masc|Number=Sing	1	obj	_	_
+5	en	en	ADP	P	AdpType=Prep	7	case	_	_
+6	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	lista	lista	NOUN	Scfs	Gender=Fem|Number=Sing	4	nmod	_	_
+8	de	de	ADP	P	AdpType=Prep	10	case	_	_
+9	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
+10	Coruña	coruña	PROPN	Sp00	_	7	nmod	_	_
+11	a	a	ADP	P	AdpType=Prep	13	case	_	_
+12	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	Parlamento	Parlamento	PROPN	Spms	Gender=Masc|Number=Sing	7	nmod	_	_
 
 ~~~
 

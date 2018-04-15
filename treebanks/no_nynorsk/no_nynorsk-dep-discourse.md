@@ -53,7 +53,7 @@ The following 11 pairs of parts of speech are connected with `discourse`: <tt><a
 4	i	i	ADP	_	_	6	case	_	_
 5	det	det	DET	_	Gender=Neut|Number=Sing|PronType=Dem	6	det	_	_
 6	minste	liten	ADJ	_	Definite=Def|Degree=Sup	10	advmod	_	_
-7	ikkje	ikkje	ADV	_	Polarity=Neg	10	advmod	_	_
+7	ikkje	ikkje	PART	_	Polarity=Neg	10	advmod	_	_
 8	på	på	ADP	_	_	10	case	_	_
 9	kort	kort	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	10	amod	_	_
 10	sikt	sikt	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No

@@ -17,44 +17,43 @@ The following 16 pairs of parts of speech are connected with `acl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 acl	color:blue
-1	Son	ser	AUX	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
-2	só	só	ADV	Wn	_	3	advmod	_	_
-3	consultas	consulta	NOUN	Scfp	Gender=Fem|Number=Plur	0	root	_	_
-4	que	que	PRON	Tnfp	Gender=Fem|Number=Plur|PronType=Rel	5	nsubj	_	_
-5	responden	responder	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	acl	_	_
-6	a	a	ADP	P	AdpType=Prep	8	case	_	_
-7	outras	outro	DET	Idfp	Gender=Fem|Number=Plur|PronType=Ind	8	det	_	_
-8	consultas	consulta	NOUN	Scfp	Gender=Fem|Number=Plur	5	obj	_	_
-9	previas	previo	ADJ	A0fp	Gender=Fem|Number=Plur	8	amod	_	SpaceAfter=No
-10	.	.	PUNCT	Q.	_	3	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 9 acl	color:blue
+1	A	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
+2	súa	seu	DET	Md3afs	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
+3	desaparición	desaparición	NOUN	Scfs	Gender=Fem|Number=Sing	6	nsubj	_	_
+4	é	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
+5	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	logro	logro	NOUN	Scms	Gender=Masc|Number=Sing	0	root	_	_
+7	europeo	europeo	ADJ	A0ms	Gender=Masc|Number=Sing	6	amod	_	_
+8	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	9	obj	_	_
+9	defendo	defender	VERB	Vpi10s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	acl	_	SpaceAfter=No
+10	.	.	PUNCT	Q.	_	6	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 10 acl	color:blue
-1	Dicía	dicir	VERB	Vii30s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-2	Jean	jean	PROPN	Spm0	Gender=Masc	1	nsubj	_	_
-3	Cocteau	cocteau	PROPN	Spm0	Gender=Masc	2	flat:name	_	_
-4	que	que	SCONJ	Cs	_	10	mark	_	_
-5	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-6	moda	moda	NOUN	Scfs	Gender=Fem|Number=Sing	8	nsubj	_	_
-7	é	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
-8	o	o	PRON	Ddms	Gender=Masc|Number=Sing|Person=3|PronType=Art	1	ccomp	_	_
-9	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	10	nsubj	_	_
-10	pasa	pasar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl	_	_
-11	de	de	ADP	P	AdpType=Prep	12	case	_	_
-12	moda	moda	NOUN	Scfs	Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
-13	.	.	PUNCT	Q.	_	1	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 acl	color:blue
+1	É	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	algo	algo	PRON	Inms	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	_
+3	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	_
+4	che	che	PRON	Rad2as	Case=Dat|Clitic=Yes|Gender=Com|Number=Sing|Person=2|PronType=Prs	5	iobj	_	_
+5	fai	facer	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	_
+6	ver	ver	VERB	V0f000	VerbForm=Inf	5	xcomp	_	_
+7	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	natureza	natureza	NOUN	Scfs	Gender=Fem|Number=Sing	6	obj	_	_
+9	de	de	ADP	P	AdpType=Prep	10	case	_	_
+10	maneira	maneira	NOUN	Scfs	Gender=Fem|Number=Sing	6	obl	_	_
+11	diferente	diferente	ADJ	A0fs	Gender=Fem|Number=Sing	10	amod	_	SpaceAfter=No
+12	.	.	PUNCT	Q.	_	2	punct	_	_
 
 ~~~
 

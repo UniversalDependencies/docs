@@ -65,7 +65,7 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 9	intéressent	intéresser	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	à	à	ADP	_	_	12	case	_	_
 11	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
-12	liste	liste	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
+12	liste	liste	NOUN	_	Gender=Fem|Number=Sing	9	obl:arg	_	_
 13	détenue	détenir	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	12	acl	_	_
 14	par	par	ADP	_	_	16	case	_	_
 15	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
@@ -84,10 +84,10 @@ The following 3 pairs of parts of speech are connected with `flat:name`: <tt><a 
 28	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	29	det	_	_
 29	commissions	commission	NOUN	_	Gender=Fem|Number=Plur	26	nmod	_	_
 30	versées	verser	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	29	acl	_	_
-31	lors	lors	ADV	_	_	34	case	_	_
+31	lors	lors	ADV	_	_	34	case	_	MWE=lors_de|MWEPOS=ADP
 32	de	de	ADP	_	_	31	fixed	_	_
 33	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
-34	contrat	contrat	NOUN	_	Gender=Masc|Number=Sing	30	obl	_	_
+34	contrat	contrat	NOUN	_	Gender=Masc|Number=Sing	30	obl:mod	_	_
 35	Bravo	Bravo	PROPN	_	_	34	nmod	_	SpaceAfter=No
 36	.	.	PUNCT	_	_	9	punct	_	_
 

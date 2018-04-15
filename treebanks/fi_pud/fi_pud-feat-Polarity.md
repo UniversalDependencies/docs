@@ -34,5 +34,5 @@ The most frequent other feature values with which `VERB` and `Polarity` co-occur
 `VERB` tokens may have the following values of `Polarity`:
 
 * `Neg` (17; 100% of non-empty `Polarity`): <em>eikä, ettei, ei, eivät, ellei, etteivät, etten, miksei</em>
-* `EMPTY` (2018): <em>sanoi, tulee, tuli, sanoo, alkoi, kertoi, auttaa, johti, sai, syntyi</em>
+* `EMPTY` (2014): <em>sanoi, tulee, tuli, sanoo, kertoi, alkoi, auttaa, johti, sai, syntyi</em>
 

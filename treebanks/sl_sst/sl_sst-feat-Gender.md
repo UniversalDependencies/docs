@@ -107,7 +107,7 @@ The most frequent other feature values with which `VERB` and `Gender` co-occurre
 * `Fem` (314; 27% of non-empty `Gender`): <em>imela, šla, bila, rekla, videla, dala, naredila, delala, izdala, mogla</em>
 * `Masc` (719; 62% of non-empty `Gender`): <em>bil, rekel, imeli, imel, rekli, šel, dobil, videl, videli, mogel</em>
 * `Neut` (131; 11% of non-empty `Gender`): <em>bilo, šlo, prišlo, zgodilo, dalo, ostalo, moglo, moralo, potegnilo, ratalo</em>
-* `EMPTY` (2771): <em>je, vem, veš, mislim, ni, recimo, ima, so, bo, pravi</em>
+* `EMPTY` (2769): <em>je, vem, veš, mislim, ni, recimo, ima, so, bo, pravi</em>
 
 <table>
   <tr><th>Paradigm <i>biti</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -205,7 +205,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 * `Fem` (36; 28% of non-empty `Gender`): <em>bila, bile</em>
 * `Masc` (60; 47% of non-empty `Gender`): <em>bil, bili, bila</em>
 * `Neut` (32; 25% of non-empty `Gender`): <em>bilo, bila</em>
-* `EMPTY` (1806): <em>je, so, sem, bi, bo, smo, ni, si, bomo, ste</em>
+* `EMPTY` (1808): <em>je, so, sem, bi, bo, smo, ni, si, bomo, ste</em>
 
 <table>
   <tr><th>Paradigm <i>biti</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>

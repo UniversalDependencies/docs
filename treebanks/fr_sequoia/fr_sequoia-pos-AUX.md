@@ -48,14 +48,14 @@ The 10 most frequent ambiguous types:  <em>est</em> (<tt><a href="fr_sequoia-pos
   * <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> 11: <em>M. Hosneld <b>avait</b> 44 ans .</em>
 * <em>avoir</em>
   * <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> 40: <em>Il a beaucoup de chance d' <b>avoir</b> survécu . "</em>
-  * <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> 20: <em>Elle allait <b>avoir</b> aujourd' hui 79 ans .</em>
+  * <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> 20: <em>Elle allait <b>avoir</b> aujourd'hui 79 ans .</em>
 * <em>sera</em>
   * <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> 35: <em>Il <b>sera</b> donc limité de mars à octobre à raison d' un passage par mois .</em>
   * <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> 1: <em>L' Union européenne sera lieu de droits ou ne <b>sera</b> pas .</em>
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 16.333333 (the average of all parts of speech is 1.399011).
+The form / lemma ratio of `AUX` is 16.333333 (the average of all parts of speech is 1.399096).
 
 The 1st highest number of forms (24) was observed with the lemma “être”: <em>ETRE, Etaient, est, furent, fut, sera, seraient, serais, serait, seront, soient, sois, soit, sommes, sont, soyons, suis, étaient, étais, était, étant, été, êtes, être</em>.
 
@@ -74,11 +74,17 @@ Examples: <em>est, a, fait</em>
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 4 different relations: <tt><a href="fr_sequoia-dep-aux.html">aux</a></tt> (947; 41% instances), <tt><a href="fr_sequoia-dep-aux-pass.html">aux:pass</a></tt> (756; 33% instances), <tt><a href="fr_sequoia-dep-cop.html">cop</a></tt> (566; 25% instances), <tt><a href="fr_sequoia-dep-aux-caus.html">aux:caus</a></tt> (34; 1% instances)
+`AUX` nodes are attached to their parents using 4 different relations: <tt><a href="fr_sequoia-dep-aux.html">aux</a></tt> (947; 41% instances), <tt><a href="fr_sequoia-dep-aux-pass.html">aux:pass</a></tt> (757; 33% instances), <tt><a href="fr_sequoia-dep-cop.html">cop</a></tt> (565; 25% instances), <tt><a href="fr_sequoia-dep-aux-caus.html">aux:caus</a></tt> (34; 1% instances)
 
 Parents of `AUX` nodes belong to 8 different parts of speech: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (1701; 74% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (285; 12% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (276; 12% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (29; 1% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (5; 0% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt> (1; 0% instances)
 
-2303 (100%) `AUX` nodes are leaves.
+2302 (100%) `AUX` nodes are leaves.
 
-The highest child degree of a `AUX` node is 0.
+1 (0%) `AUX` nodes have one child.
+
+The highest child degree of a `AUX` node is 1.
+
+Children of `AUX` nodes are attached using 1 different relations: <tt><a href="fr_sequoia-dep-conj.html">conj</a></tt> (1; 100% instances)
+
+Children of `AUX` nodes belong to 1 different parts of speech: <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (1; 100% instances)
 

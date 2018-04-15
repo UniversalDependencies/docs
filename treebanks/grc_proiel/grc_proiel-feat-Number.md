@@ -9,19 +9,19 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Plur`, `Sing`.
 
-148463 tokens (70%) have a non-empty value of `Number`.
-29881 types (93%) occur at least once with a non-empty value of `Number`.
-8465 lemmas (91%) occur at least once with a non-empty value of `Number`.
-The feature is used with 8 part-of-speech tags: <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> (35340; 17% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (35052; 17% instances), <tt><a href="grc_proiel-pos-DET.html">DET</a></tt> (31577; 15% instances), <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> (17721; 8% instances), <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> (16516; 8% instances), <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt> (7951; 4% instances), <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (3486; 2% instances), <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> (820; 0% instances).
+150284 tokens (70%) have a non-empty value of `Number`.
+30205 types (93%) occur at least once with a non-empty value of `Number`.
+8546 lemmas (91%) occur at least once with a non-empty value of `Number`.
+The feature is used with 8 part-of-speech tags: <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> (35745; 17% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (35479; 17% instances), <tt><a href="grc_proiel-pos-DET.html">DET</a></tt> (31947; 15% instances), <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> (17844; 8% instances), <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> (16828; 8% instances), <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt> (8100; 4% instances), <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (3516; 2% instances), <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> (825; 0% instances).
 
 ### `NOUN`
 
-35340 <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
+35745 <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> tokens (100% of all `NOUN` tokens) have a non-empty value of `Number`.
 
 `NOUN` tokens may have the following values of `Number`:
 
-* `Plur` (10670; 30% of non-empty `Number`): <em>ἀνθρώπων, ἀδελφοί, ἄνδρες, μαθηταὶ, Περσέων, ἡμέρας, νέας, Ἑλλήνων, Πέρσαι, ἀνδρῶν</em>
-* `Sing` (24670; 70% of non-empty `Number`): <em>θεοῦ, θεὸς, κυρίου, λόγον, θεῷ, κύριος, πόλιν, γῆς, πνεῦμα, ἀνθρώπου</em>
+* `Plur` (10830; 30% of non-empty `Number`): <em>ἀνθρώπων, ἀδελφοί, ἄνδρες, μαθηταὶ, Περσέων, ἡμέρας, νέας, Ἑλλήνων, ἀνδρῶν, Πέρσαι</em>
+* `Sing` (24915; 70% of non-empty `Number`): <em>θεοῦ, θεὸς, κυρίου, λόγον, θεῷ, πόλιν, γῆς, κύριος, πνεῦμα, ἀνθρώπου</em>
 * `EMPTY` (68): <em>πάσχα, ῥαββεί, μάννα, οὐαὶ, ω, ἀββᾶ, ἄλφα, ῥαββουνί, Μαδιάμ, Χερουβεὶν</em>
 
 <table>
@@ -39,22 +39,22 @@ The feature is used with 8 part-of-speech tags: <tt><a href="grc_proiel-pos-NOUN
 
 ### `VERB`
 
-35052 <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> tokens (90% of all `VERB` tokens) have a non-empty value of `Number`.
+35479 <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> tokens (89% of all `VERB` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (23710; 68%), <tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (23696; 68%), <tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (23696; 68%), <tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (23691; 68%), <tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (20028; 57%), <tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (19685; 56%).
+The most frequent other feature values with which `VERB` and `Number` co-occurred: <tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (23953; 68%), <tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (23937; 67%), <tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (23923; 67%), <tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (23923; 67%), <tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (20275; 57%), <tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (19890; 56%).
 
 `VERB` tokens may have the following values of `Number`:
 
-* `Plur` (12821; 37% of non-empty `Number`): <em>λέγοντες, εἶπαν, εἶχον, ἔλεγον, λέγουσι, ἔχοντες, ἀκούσαντες, λέγουσιν, οἴδατε, ἦλθον</em>
-* `Sing` (22231; 63% of non-empty `Number`): <em>εἶπεν, λέγει, ἐγένετο, λέγω, λέγων, ἔχει, ἔχων, δεῖ, ἀποκριθεὶς, ἦλθεν</em>
-* `EMPTY` (4110): <em>γενέσθαι, λέγειν, ἔχειν, ποιῆσαι, ἐλθεῖν, δοῦναι, ποιέειν, εἰπεῖν, ἰδεῖν, εἰσελθεῖν</em>
+* `Plur` (13059; 37% of non-empty `Number`): <em>λέγοντες, εἶπαν, εἶχον, λέγουσι, ἔλεγον, ἔχοντες, ἀκούσαντες, λέγουσιν, οἴδατε, ἦλθον</em>
+* `Sing` (22420; 63% of non-empty `Number`): <em>εἶπεν, λέγει, ἐγένετο, λέγω, λέγων, ἔχει, ἔχων, δεῖ, ἀποκριθεὶς, ἦλθεν</em>
+* `EMPTY` (4194): <em>γενέσθαι, λέγειν, ἔχειν, ποιῆσαι, ἐλθεῖν, ποιέειν, δοῦναι, εἰπεῖν, ἰδεῖν, εἰσελθεῖν</em>
 
 <table>
   <tr><th>Paradigm <i>λέγω</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ἔλεγον</em></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td></td><td><em>ἐλέγετε</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ἔλεγεν, ἔλεγε, ἔλεγέ, ἔλεγὲ</em></td><td><em>ἔλεγον, ἔλεγόν, ἔλεγαν</em></td></tr>
-  <tr><td><tt><tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>εἴρητο, ἐλέγετο</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>ἐλέγετο, εἴρητο</em></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>εἰπόντα, εἴπαντα</em></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>ῥηθέντα</em></td><td><em>εἰρημένους</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>εἰρημένην</em></td><td></td></tr>
@@ -71,14 +71,14 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
   <tr><td><tt><tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>εἴπας, εἰπὼν, εἰπών, εἶπας, λέξας</em></td><td><em>εἰπόντες, εἴπαντες</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>εἰρημένος, ῥηθεὶς</em></td><td><em>συλλεγέντες</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>εἰποῦσα</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>ῥηθὲν, εἰρημένον</em></td><td><em>εἰρημένα</em></td></tr>
+  <tr><td><tt><tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>ῥηθὲν, εἰρημένον, ῥηθέντα</em></td><td><em>εἰρημένα</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>εἰπὲ, εἰπὸν, εἰπέ, εἰπόν, εἶπε</em></td><td><em>εἴπατε, εἴπατέ</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>εἰπάτω</em></td><td><em>εἰπάτωσαν</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>εἰρήσθω</em></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>εἶπον, εἶπα, εἴρηκα, εἶπόν, ἔλεξα, συνέλεξα</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>εἴρηκας, εἶπας, εἶπες</em></td><td><em>εἰρήκατε, εἴπατε</em></td></tr>
-  <tr><td><tt><tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>εἶπεν, εἶπε, εἶπέν, ἔλεξε, εἴρηκεν, ἔλεξέ, εἴρηκέν, εἶπέ, εἰπέ, ἔλεξεν</em></td><td><em>εἶπαν, εἶπον, ἔλεξαν, εἶπόν, εἰρήκασιν, εἶπάν</em></td></tr>
-  <tr><td><tt><tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>εἴρηται, ἐρρέθη, εἴρηταί, εἰρέθη</em></td><td><em>εἰρέαται, ἐρρέθησαν, εἰρέαταί</em></td></tr>
+  <tr><td><tt><tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>εἴρηκας, εἶπας, εἶπες</em></td><td><em>εἴπατε, εἰρήκατε</em></td></tr>
+  <tr><td><tt><tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>εἶπεν, εἶπε, εἶπέν, ἔλεξε, εἴρηκεν, εἴρηκέν, ἔλεξέ, εἶπέ, ἔλεξεν, εἰπέ</em></td><td><em>εἶπαν, εἶπον, ἔλεξαν, εἶπόν, εἶπάν, εἰρήκασιν</em></td></tr>
+  <tr><td><tt><tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>εἴρηται, ἐρρέθη, εἴρηταί, εἰρέθη</em></td><td><em>εἰρέαται, εἰρέαταί, ἐρρέθησαν</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Opt</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>εἴποι</em></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>εἴπω</em></td><td><em>εἴπωμεν</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>εἴπῃς</em></td><td><em>εἴπητε, εἴπητέ</em></td></tr>
@@ -99,7 +99,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>λεγομένης</em></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>λέγοντος</em></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td><em>λεγομένων</em></td></tr>
-  <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ἐρέων, λέξων</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>λέξων, ἐρέων</em></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>λέγων, λέγοντα</em></td><td><em>λέγοντες</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>λεγόμενος</em></td><td><em>λεγόμενοι</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>λέγουσα</em></td><td><em>λέγουσαι, λέγοντες</em></td></tr>
@@ -118,7 +118,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
   <tr><td><tt><tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>ἔρηται</em></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pqp</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>εἰρήκει</em></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pqp</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>εἴρητο</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>λέγει</em></td><td><em>λέγουσι, λέγουσιν, λέγουσίν, λέγουσί</em></td></tr>
+  <tr><td><tt><tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>λέγει</em></td><td><em>λέγουσι, λέγουσιν, λέγουσί, λέγουσίν</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td><em>λέγεται</em></td><td><em>λέγονται, λέγονταί</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Opt</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>λέγοι</em></td><td><em>λέγοιεν</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Sub</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>λέγω</em></td><td><em>λέγωμεν</em></td></tr>
@@ -128,14 +128,14 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 
 ### `DET`
 
-31577 <tt><a href="grc_proiel-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
+31947 <tt><a href="grc_proiel-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="grc_proiel-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (28107; 89%), <tt><a href="grc_proiel-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (28107; 89%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="grc_proiel-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (28426; 89%), <tt><a href="grc_proiel-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (28426; 89%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (9612; 30% of non-empty `Number`): <em>τῶν, οἱ, τὰ, τοὺς, τὰς, τοῖς, τοῖσι, αἱ, ταῖς, πάντα</em>
-* `Sing` (21965; 70% of non-empty `Number`): <em>ὁ, τοῦ, τὴν, τὸ, τὸν, τῆς, τῷ, ἡ, τῇ, τι</em>
+* `Plur` (9763; 31% of non-empty `Number`): <em>τῶν, οἱ, τὰ, τοὺς, τὰς, τοῖς, τοῖσι, αἱ, ταῖς, πάντα</em>
+* `Sing` (22184; 69% of non-empty `Number`): <em>ὁ, τοῦ, τὴν, τὸ, τὸν, τῆς, τῷ, ἡ, τῇ, τι</em>
 
 <table>
   <tr><th>Paradigm <i>ὁ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -143,9 +143,9 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>τὴν, τήν</em></td><td><em>τὰς, τάς</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>τὸ, τό</em></td><td><em>τὰ, τά</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt></tt></td><td><em>τῷ</em></td><td><em>τοῖς, τοῖσι, τοῖσί</em></td></tr>
-  <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>τῷ</em></td><td><em>τοῖς, τοῖσι, τοὶς, τοῖσί</em></td></tr>
+  <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>τῷ</em></td><td><em>τοῖς, τοῖσι, τοῖσί, τοὶς</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>τῇ, τῆ</em></td><td><em>ταῖς, τῇσι</em></td></tr>
-  <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>τῷ</em></td><td><em>τοῖς, τοῖσι</em></td></tr>
+  <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>τῷ</em></td><td><em>τοῖς, τοῖσι, τοῖσί</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc,Neut</tt></tt></td><td><em>τοῦ</em></td><td><em>τῶν</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>τοῦ, τοὺ</em></td><td><em>τῶν</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>τῆς</em></td><td><em>τῶν</em></td></tr>
@@ -160,14 +160,14 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `PRON`
 
-17721 <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
+17844 <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="grc_proiel-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (14269; 81%), <tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (12768; 72%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="grc_proiel-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (14365; 81%), <tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (12856; 72%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (6634; 37% of non-empty `Number`): <em>αὐτῶν, ὑμῖν, αὐτοῖς, ὑμῶν, ὑμᾶς, ἡμῶν, σφι, αὐτοὺς, ὑμεῖς, οἳ</em>
-* `Sing` (11087; 63% of non-empty `Number`): <em>αὐτοῦ, αὐτῷ, αὐτὸν, μου, σου, ἐγὼ, τί, με, αὐτόν, μοι</em>
+* `Plur` (6705; 38% of non-empty `Number`): <em>αὐτῶν, ὑμῖν, αὐτοῖς, ὑμῶν, ὑμᾶς, ἡμῶν, σφι, αὐτοὺς, ὑμεῖς, οἳ</em>
+* `Sing` (11139; 62% of non-empty `Number`): <em>αὐτοῦ, αὐτῷ, αὐτὸν, μου, σου, ἐγὼ, τί, με, μοι, αὐτόν</em>
 
 <table>
   <tr><th>Paradigm <i>αὐτός</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -181,27 +181,27 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>αὐτῆς</em></td><td><em>αὐτῶν, αὐτέων</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>αὐτοῦ</em></td><td><em>αὐτῶν</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>αὐτὸς, αὐτός</em></td><td><em>αὐτοὶ, αὐτοί</em></td></tr>
-  <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>αὐτὴ, αὕτη</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>αὐτὴ, αὕτη, αὐτή</em></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>αὐτὸ</em></td><td></td></tr>
 </table>
 
 ### `ADJ`
 
-16516 <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
+16828 <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> tokens (100% of all `ADJ` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="grc_proiel-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (10132; 61%).
+The most frequent other feature values with which `ADJ` and `Number` co-occurred: <tt><a href="grc_proiel-feat-Degree.html">Degree</a></tt><tt>=Pos</tt> (10335; 61%).
 
 `ADJ` tokens may have the following values of `Number`:
 
-* `Plur` (7612; 46% of non-empty `Number`): <em>ταῦτα, πάντα, τούτων, οὗτοι, τάδε, πάντες, πολλοὶ, πάντων, πολλὰ, νεκρῶν</em>
-* `Sing` (8904; 54% of non-empty `Number`): <em>τοῦτο, τις, οὗτος, πρότερον, οὐδεὶς, αὐτὸς, οὐδὲν, πρῶτον, τι, τούτου</em>
+* `Plur` (7795; 46% of non-empty `Number`): <em>ταῦτα, πάντα, τούτων, οὗτοι, τάδε, πάντες, πολλοὶ, πολλὰ, πάντων, νεκρῶν</em>
+* `Sing` (9033; 54% of non-empty `Number`): <em>τοῦτο, τις, οὗτος, πρότερον, οὐδεὶς, αὐτὸς, οὐδὲν, πρῶτον, τι, τούτου</em>
 * `EMPTY` (5): <em>ἀγχοῦ, ἔμπαλιν, δεῖνα</em>
 
 <table>
   <tr><th>Paradigm <i>οὗτος</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>τοῦτον, τοῦτόν</em></td><td><em>τούτους</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>ταύτην</em></td><td><em>ταύτας</em></td></tr>
-  <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>τοῦτο, τοῦτό</em></td><td><em>ταῦτα, ταῦτά</em></td></tr>
+  <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>τοῦτο, τοῦτό</em></td><td><em>ταῦτα, ταῦτά, ταῦτ’</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>τούτῳ</em></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>τούτῳ</em></td><td><em>τούτοισι, τούτοισί</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>ταύτῃ</em></td><td><em>ταύτῃσι, ταύταις</em></td></tr>
@@ -216,14 +216,14 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `PROPN`
 
-7951 <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt> tokens (91% of all `PROPN` tokens) have a non-empty value of `Number`.
+8100 <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt> tokens (91% of all `PROPN` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5602; 70%).
+The most frequent other feature values with which `PROPN` and `Number` co-occurred: <tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (5681; 70%).
 
 `PROPN` tokens may have the following values of `Number`:
 
-* `Plur` (452; 6% of non-empty `Number`): <em>Σάρδις, Δελφοὺς, Ἀθήνας, Ἱεροσόλυμα, Δελφοῖσι, Σαρδίων, Σοῦσα, Ἀθηνέων, Ἱεροσολύμοις, Ἱεροσολύμων</em>
-* `Sing` (7499; 94% of non-empty `Number`): <em>Ἰησοῦς, Ἰησοῦ, Χριστοῦ, Ἰησοῦν, Χριστῷ, Πέτρος, Ξέρξης, Παῦλος, Χριστὸς, Κροῖσος</em>
+* `Plur` (464; 6% of non-empty `Number`): <em>Σάρδις, Δελφοὺς, Ἀθήνας, Ἱεροσόλυμα, Δελφοῖσι, Σαρδίων, Σοῦσα, Ἀθηνέων, Ἱεροσολύμοις, Ἱεροσολύμων</em>
+* `Sing` (7636; 94% of non-empty `Number`): <em>Ἰησοῦς, Ἰησοῦ, Χριστοῦ, Ἰησοῦν, Χριστῷ, Πέτρος, Ξέρξης, Παῦλος, Χριστὸς, Κροῖσος</em>
 * `EMPTY` (755): <em>Ἀβραὰμ, Ἱερουσαλὴμ, Ἱερουσαλήμ, Ἰσραήλ, Δαυεὶδ, Ἰσραὴλ, Ἰωσὴφ, Ἀβραάμ, Δαυείδ, Ἰσαὰκ</em>
 
 <table>
@@ -235,19 +235,19 @@ The most frequent other feature values with which `PROPN` and `Number` co-occurr
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>Ἱεροσόλυμα</em></td></tr>
 </table>
 
-`Number` seems to be **lexical feature** of `PROPN`. 98% lemmas (1213) occur only with one value of `Number`.
+`Number` seems to be **lexical feature** of `PROPN`. 98% lemmas (1235) occur only with one value of `Number`.
 
 ### `AUX`
 
-3486 <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> tokens (90% of all `AUX` tokens) have a non-empty value of `Number`.
+3516 <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> tokens (89% of all `AUX` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3250; 93%), <tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2928; 84%), <tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2928; 84%), <tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2928; 84%), <tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2723; 78%), <tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2703; 78%), <tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2488; 71%), <tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (2433; 70%).
+The most frequent other feature values with which `AUX` and `Number` co-occurred: <tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (3279; 93%), <tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2948; 84%), <tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2948; 84%), <tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2948; 84%), <tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (2742; 78%), <tt><a href="grc_proiel-feat-Aspect.html">Aspect</a></tt><tt>=EMPTY</tt> (2723; 77%), <tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2507; 71%), <tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt> (2452; 70%).
 
 `AUX` tokens may have the following values of `Number`:
 
-* `Plur` (902; 26% of non-empty `Number`): <em>ἦσαν, εἰσὶ, εἰσιν, ἐστε, ἐόντες, εἰσίν, εἰσὶν, ἔσονται, ἐσμεν, ἐόντας</em>
-* `Sing` (2584; 74% of non-empty `Number`): <em>ἦν, ἐστιν, ἐστὶ, ἔσται, ἔστιν, εἰμι, ἐστὶν, εἶ, εἴη, ἐὼν</em>
-* `EMPTY` (401): <em>εἶναι, ἔσεσθαι, εἶναί, ἔσεσθαί</em>
+* `Plur` (916; 26% of non-empty `Number`): <em>ἦσαν, εἰσὶ, εἰσιν, ἐστε, ἐόντες, εἰσίν, εἰσὶν, ἔσονται, ἐόντας, ἐσμεν</em>
+* `Sing` (2600; 74% of non-empty `Number`): <em>ἦν, ἐστιν, ἐστὶ, ἔσται, ἔστιν, εἰμι, ἐστὶν, εἶ, εἴη, ἐὼν</em>
+* `EMPTY` (421): <em>εἶναι, ἔσεσθαι, εἶναί, ἔσεσθαί</em>
 
 <table>
   <tr><th>Paradigm <i>εἰμί#1</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -271,17 +271,17 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ὄντος, ἐόντος, ὄντων</em></td><td><em>ἐόντων, ὄντων</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ἐούσης, οὔσης</em></td><td><em>ἐουσέων, οὐσῶν</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ἐόντος, ὄντος</em></td><td><em>ἐόντων, ὄντων</em></td></tr>
-  <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ἐὼν, ὢν, ὤν, ἐών</em></td><td><em>ἐόντες, ὄντες</em></td></tr>
+  <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ἐὼν, ὢν, ἐών, ὤν</em></td><td><em>ἐόντες, ὄντες</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ἐοῦσα, οὖσα, ἐοῦσαι</em></td><td><em>ἐοῦσαι, οὖσαι</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ἐὸν, ἐόν, ὂν</em></td><td><em>ἐόντα, ὄντα</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ἴσθι</em></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ἔστω, ἤτω</em></td><td><em>ἔστωσαν</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td><em>ἔσομαι</em></td><td><em>ἐσόμεθα</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>εἰμι, εἰμὶ, εἰμί</em></td><td><em>ἐσμεν, ἐσμὲν, ἐσμέν, εἰμὲν</em></td></tr>
-  <tr><td><tt><tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td><em>ἔσῃ, ἔσεαι, ἔσσῃ</em></td><td><em>ἔσεσθε, ἔσεσθέ</em></td></tr>
+  <tr><td><tt><tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td><em>ἔσῃ, ἔσσῃ, ἔσεαι</em></td><td><em>ἔσεσθε, ἔσεσθέ</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>εἶ, εἶς</em></td><td><em>ἐστε, ἐστὲ, ἐστέ</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td><em>ἔσται</em></td><td><em>ἔσονται, ἔσονταί</em></td></tr>
-  <tr><td><tt><tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ἐστιν, ἐστὶ, ἔστιν, ἐστὶν, ἐστίν, ἔστι, ἐστί, ἐστι</em></td><td><em>εἰσὶ, εἰσιν, εἰσίν, εἰσὶν, εἰσί, εἰσι, εἱσι, εἶσὶ</em></td></tr>
+  <tr><td><tt><tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>ἐστιν, ἐστὶ, ἔστιν, ἐστὶν, ἔστι, ἐστίν, ἐστί, ἐστι</em></td><td><em>εἰσὶ, εἰσιν, εἰσίν, εἰσὶν, εἰσί, εἰσι, εἱσι, εἶσὶ</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Opt</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>εἴην</em></td><td><em>εἴημεν</em></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Opt</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Mid</tt></tt></td><td><em>ἔσοιτο</em></td><td></td></tr>
   <tr><td><tt><tt><a href="grc_proiel-feat-Mood.html">Mood</a></tt><tt>=Opt</tt>|<tt><a href="grc_proiel-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="grc_proiel-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="grc_proiel-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt>|<tt><a href="grc_proiel-feat-Voice.html">Voice</a></tt><tt>=Act</tt></tt></td><td><em>εἴη</em></td><td><em>εἶεν, εἴησαν</em></td></tr>
@@ -292,13 +292,13 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 
 ### `NUM`
 
-820 <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> tokens (50% of all `NUM` tokens) have a non-empty value of `Number`.
+825 <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> tokens (50% of all `NUM` tokens) have a non-empty value of `Number`.
 
 `NUM` tokens may have the following values of `Number`:
 
-* `Plur` (407; 50% of non-empty `Number`): <em>τρεῖς, τριῶν, τρία, τέσσερας, τεσσάρων, χίλιοι, τέσσερα, τέσσαρες, τριηκοσίας, καὶ</em>
-* `Sing` (413; 50% of non-empty `Number`): <em>εἷς, ἓν, ἕνα, μίαν, ἑνὸς, ἑνὶ, μία, μιᾷ, ἕν, μιᾶς</em>
-* `EMPTY` (807): <em>δύο, ἑπτὰ, δώδεκα, πέντε, δέκα, εἴκοσι, ἑκατὸν, τεσσεράκοντα, τριήκοντα, πεντήκοντα</em>
+* `Plur` (411; 50% of non-empty `Number`): <em>τρεῖς, τριῶν, τρία, τέσσερας, τεσσάρων, χίλιοι, τέσσερα, τέσσαρες, τριηκοσίας, καὶ</em>
+* `Sing` (414; 50% of non-empty `Number`): <em>εἷς, ἓν, ἕνα, μίαν, ἑνὸς, ἑνὶ, μία, μιᾷ, ἕν, μιᾶς</em>
+* `EMPTY` (811): <em>δύο, ἑπτὰ, δώδεκα, πέντε, δέκα, εἴκοσι, ἑκατὸν, τεσσεράκοντα, τριήκοντα, πεντήκοντα</em>
 
 <table>
   <tr><th>Paradigm <i>χίλιοι</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -316,14 +316,14 @@ The most frequent other feature values with which `AUX` and `Number` co-occurred
 ## Relations with Agreement in `Number`
 
 The 10 most frequent relations where parent and child node agree in `Number`:
-<tt>NOUN --[<tt><a href="grc_proiel-dep-det.html">det</a></tt>]--> DET</tt> (20994; 99%),
-<tt>VERB --[<tt><a href="grc_proiel-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (6949; 77%),
-<tt>VERB --[<tt><a href="grc_proiel-dep-obl.html">obl</a></tt>]--> NOUN</tt> (3921; 53%),
-<tt>VERB --[<tt><a href="grc_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (3917; 87%),
-<tt>VERB --[<tt><a href="grc_proiel-dep-obj-dir.html">obj:dir</a></tt>]--> NOUN</tt> (3470; 53%),
-<tt>VERB --[<tt><a href="grc_proiel-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3457; 89%),
-<tt>ADJ --[<tt><a href="grc_proiel-dep-det.html">det</a></tt>]--> DET</tt> (3225; 99%),
-<tt>PROPN --[<tt><a href="grc_proiel-dep-det.html">det</a></tt>]--> DET</tt> (3151; 92%),
-<tt>NOUN --[<tt><a href="grc_proiel-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2979; 97%),
-<tt>NOUN --[<tt><a href="grc_proiel-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2845; 72%).
+<tt>NOUN --[<tt><a href="grc_proiel-dep-det.html">det</a></tt>]--> DET</tt> (21191; 99%),
+<tt>VERB --[<tt><a href="grc_proiel-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (7058; 77%),
+<tt>VERB --[<tt><a href="grc_proiel-dep-obl.html">obl</a></tt>]--> NOUN</tt> (3946; 53%),
+<tt>VERB --[<tt><a href="grc_proiel-dep-conj.html">conj</a></tt>]--> VERB</tt> (3942; 87%),
+<tt>VERB --[<tt><a href="grc_proiel-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (3494; 88%),
+<tt>VERB --[<tt><a href="grc_proiel-dep-obj.html">obj</a></tt>]--> NOUN</tt> (3494; 52%),
+<tt>ADJ --[<tt><a href="grc_proiel-dep-det.html">det</a></tt>]--> DET</tt> (3286; 99%),
+<tt>PROPN --[<tt><a href="grc_proiel-dep-det.html">det</a></tt>]--> DET</tt> (3213; 93%),
+<tt>NOUN --[<tt><a href="grc_proiel-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3036; 97%),
+<tt>NOUN --[<tt><a href="grc_proiel-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (2864; 72%).
 

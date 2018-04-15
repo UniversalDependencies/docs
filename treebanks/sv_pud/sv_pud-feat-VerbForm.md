@@ -69,14 +69,14 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="sv_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (156; 86%),
-<tt>VERB --[<tt><a href="sv_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (37; 62%),
+<tt>VERB --[<tt><a href="sv_pud-dep-conj.html">conj</a></tt>]--> VERB</tt> (154; 86%),
+<tt>VERB --[<tt><a href="sv_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (38; 62%),
 <tt>VERB --[<tt><a href="sv_pud-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (6; 75%),
 <tt>AUX --[<tt><a href="sv_pud-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (3; 100%),
 <tt>AUX --[<tt><a href="sv_pud-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (3; 100%),
 <tt>AUX --[<tt><a href="sv_pud-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (2; 67%),
-<tt>VERB --[<tt><a href="sv_pud-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (2; 100%),
 <tt>AUX --[<tt><a href="sv_pud-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (1; 100%),
-<tt>AUX --[<tt><a href="sv_pud-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%),
-<tt>VERB --[<tt><a href="sv_pud-dep-appos.html">appos</a></tt>]--> VERB</tt> (1; 100%).
+<tt>VERB --[<tt><a href="sv_pud-dep-appos.html">appos</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="sv_pud-dep-obl.html">obl</a></tt>]--> VERB</tt> (1; 100%),
+<tt>VERB --[<tt><a href="sv_pud-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (1; 100%).
 

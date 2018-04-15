@@ -9,25 +9,25 @@ udver: '2'
 This feature is universal.
 It occurs with 6 different values: `Dem`, `Ind`, `Int`, `Prs`, `Rcp`, `Rel`.
 
-3471 tokens (3%) have a non-empty value of `PronType`.
-117 types (1%) occur at least once with a non-empty value of `PronType`.
+3337 tokens (3%) have a non-empty value of `PronType`.
+116 types (1%) occur at least once with a non-empty value of `PronType`.
 58 lemmas (0%) occur at least once with a non-empty value of `PronType`.
-The feature is used with 1 part-of-speech tags: <tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (3471; 3% instances).
+The feature is used with 1 part-of-speech tags: <tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> (3337; 3% instances).
 
 ### `PRON`
 
-3471 <tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
+3337 <tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="nl_lassysmall-feat-Person.html">Person</a></tt><tt>=3</tt> (2506; 72%), <tt><a href="nl_lassysmall-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2484; 72%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="nl_lassysmall-feat-Person.html">Person</a></tt><tt>=3</tt> (2398; 72%), <tt><a href="nl_lassysmall-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (2389; 72%).
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Dem` (207; 6% of non-empty `PronType`): <em>deze, dit, dat, die, zo'n, degenen, degene</em>
-* `Ind` (440; 13% of non-empty `PronType`): <em>meer, vele, veel, meeste, minder, meest, enige, beide, alle, alles</em>
-* `Int` (55; 2% of non-empty `PronType`): <em>wat, wie, welke</em>
-* `Prs` (2264; 65% of non-empty `PronType`): <em>hij, zijn, ze, het, zich, haar, hun, zij, men, hem</em>
-* `Rcp` (23; 1% of non-empty `PronType`): <em>elkaar, mekaar</em>
-* `Rel` (482; 14% of non-empty `PronType`): <em>die, dat, hetgeen, hetwelk</em>
+* `Dem` (200; 6% of non-empty `PronType`): <em>deze, dit, dat, die, zo'n, degenen, degene</em>
+* `Ind` (425; 13% of non-empty `PronType`): <em>meer, vele, veel, meeste, enige, minder, meest, alle, weinig, alles</em>
+* `Int` (51; 2% of non-empty `PronType`): <em>wat, wie, welke</em>
+* `Prs` (2172; 65% of non-empty `PronType`): <em>hij, zijn, ze, het, zich, haar, hun, zij, men, hem</em>
+* `Rcp` (22; 1% of non-empty `PronType`): <em>elkaar, mekaar</em>
+* `Rel` (467; 14% of non-empty `PronType`): <em>die, dat, hetgeen, hetwelk</em>
 
 <table>
   <tr><th>Paradigm <i>die</i></th><th><tt>Rel</tt></th><th><tt>Dem</tt></th></tr>
@@ -40,9 +40,9 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 ## Relations with Agreement in `PronType`
 
 The 10 most frequent relations where parent and child node agree in `PronType`:
-<tt>PRON --[<tt><a href="nl_lassysmall-dep-conj.html">conj</a></tt>]--> PRON</tt> (4; 100%),
-<tt>PRON --[<tt><a href="nl_lassysmall-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (3; 75%),
+<tt>PRON --[<tt><a href="nl_lassysmall-dep-conj.html">conj</a></tt>]--> PRON</tt> (5; 100%),
 <tt>PRON --[<tt><a href="nl_lassysmall-dep-obl.html">obl</a></tt>]--> PRON</tt> (3; 100%),
+<tt>PRON --[<tt><a href="nl_lassysmall-dep-fixed.html">fixed</a></tt>]--> PRON</tt> (2; 67%),
 <tt>PRON --[<tt><a href="nl_lassysmall-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (2; 67%),
 <tt>PRON --[<tt><a href="nl_lassysmall-dep-advcl.html">advcl</a></tt>]--> PRON</tt> (1; 100%).
 

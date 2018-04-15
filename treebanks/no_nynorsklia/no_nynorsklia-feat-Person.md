@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="no_nynorsklia-pos-P
 
 ### `PRON`
 
-1759 <tt><a href="no_nynorsklia-pos-PRON.html">PRON</a></tt> tokens (89% of all `PRON` tokens) have a non-empty value of `Person`.
+1759 <tt><a href="no_nynorsklia-pos-PRON.html">PRON</a></tt> tokens (88% of all `PRON` tokens) have a non-empty value of `Person`.
 
 The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="no_nynorsklia-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (1726; 98%), <tt><a href="no_nynorsklia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1363; 77%), <tt><a href="no_nynorsklia-feat-Case.html">Case</a></tt><tt>=Nom</tt> (989; 56%), <tt><a href="no_nynorsklia-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (935; 53%), <tt><a href="no_nynorsklia-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (906; 52%).
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (430; 24% of non-empty `Person`): <em>eg, vi, meg, oss</em>
 * `2` (199; 11% of non-empty `Person`): <em>du, de, deg, dykk</em>
 * `3` (1130; 64% of non-empty `Person`): <em>det, dei, han, den, ho, noko, nokon, dette, ingen, desse</em>
-* `EMPTY` (213): <em>som, ein, seg, kva, kven, ingenting, kvarandre, einannan</em>
+* `EMPTY` (235): <em>som, ein, seg, kva, kven, hans, min, ingenting, kvarandre, mi</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (17) occur only with one value of `Person`.
 

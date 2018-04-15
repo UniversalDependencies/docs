@@ -20,57 +20,66 @@ The following 31 pairs of parts of speech are connected with `cc`: <tt><a href="
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 1 cc	color:blue
-1	torej	torej	CCONJ	Cc	_	5	cc	_	word=torej|msd=Vp
-2	bomo	biti	AUX	Va-f1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin	5	aux	_	word=bomo|msd=Gp-ppm-n
-3	naslednji	naslednji	ADJ	Agpmsay	Case=Acc|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	word=naslednji|msd=Ppnmetd
-4	teden	teden	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	word=teden|msd=Sometn
-5	doživeli	doživeti	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	word=doživeli|msd=Ggdd-mm
-6	stotko	stotka	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	word=stotko|msd=Sozet
-7	?	?	PUNCT	Z	_	5	punct	_	word=?|msd=U
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 cc	color:blue
+1	in	in	CCONJ	Cc	_	4	cc	_	word=in|msd=Vp
+2	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	expl	_	word=to|msd=Zk-sei
+3	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	word=so|msd=Gp-stm-n
+4	mešali	mešati	VERB	Vmpp-pm	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	word=mešal|msd=Ggnd-mm
+5	kar	kar	ADV	Rgp	Degree=Pos	6	advmod	_	word=kr|msd=Rsn
+6	eno	en	NUM	Mlpnsa	Case=Acc|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card	7	nummod	_	word=en|msd=Kbzset
+7	olje	olje	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	word=ole|msd=Soset
+8	pa	pa	CCONJ	Cc	_	14	cc	_	word=pa|msd=Vp
+9	ene	en	NUM	Mlpfpa	Case=Acc|Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	14	nummod	_	word=ene|msd=Kbzzmt
+10	take	tak	DET	Pd-fpa	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	14	det	_	word=take|msd=Zk-zmt
+11	č	_	X	Xt	_	13	reparandum	_	word=č|msd=Nt
+12	[gap]	[gap]	X	X	_	4	punct	_	word=[gap]|msd=N
+13	stare	star	ADJ	Agpfpa	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	14	amod	_	word=stare|msd=Ppnzmt
+14	barve	barva	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	7	conj	_	word=barve|msd=Sozmt
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 8 7 cc	color:blue
-1	edini	edin	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	word=edin|msd=Ppnmeid
-2	problem	problem	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	word=problem|msd=Somei
-3	bo	biti	AUX	Va-f3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	2	cop	_	word=bo|msd=Gp-pte-n
-4	tam	tam	ADV	Rgp	Degree=Pos	2	advmod	_	word=tam|msd=Rsn
-5	razumevanje	razumevanje	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	word=razumeva|msd=Sosei
-6	italijanščine	italijanščina	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	word=italijanščine|msd=Sozer
-7	pa	pa	CCONJ	Cc	_	8	cc	_	word=pa|msd=Vp
-8	nemščine	nemščina	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	6	conj	_	word=nemščine|msd=Sozer
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 8 cc	color:blue
+1	in	in	CCONJ	Cc	_	4	cc	_	word=in|msd=Vp
+2	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	expl	_	word=to|msd=Zk-sei
+3	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	word=so|msd=Gp-stm-n
+4	mešali	mešati	VERB	Vmpp-pm	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	word=mešal|msd=Ggnd-mm
+5	kar	kar	ADV	Rgp	Degree=Pos	6	advmod	_	word=kr|msd=Rsn
+6	eno	en	NUM	Mlpnsa	Case=Acc|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card	7	nummod	_	word=en|msd=Kbzset
+7	olje	olje	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	word=ole|msd=Soset
+8	pa	pa	CCONJ	Cc	_	14	cc	_	word=pa|msd=Vp
+9	ene	en	NUM	Mlpfpa	Case=Acc|Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	14	nummod	_	word=ene|msd=Kbzzmt
+10	take	tak	DET	Pd-fpa	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	14	det	_	word=take|msd=Zk-zmt
+11	č	_	X	Xt	_	13	reparandum	_	word=č|msd=Nt
+12	[gap]	[gap]	X	X	_	4	punct	_	word=[gap]|msd=N
+13	stare	star	ADJ	Agpfpa	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	14	amod	_	word=stare|msd=Ppnzmt
+14	barve	barva	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	7	conj	_	word=barve|msd=Sozmt
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 7 cc	color:blue
-1	tu	tu	ADV	Rgp	Degree=Pos	0	root	_	word=tu|msd=Rsn
-2	[gap]	[gap]	X	X	_	1	punct	_	word=[gap]|msd=N
-3	ko	ko	SCONJ	Cs	_	4	mark	_	word=ko|msd=Vd
-4	greš	iti	VERB	Vmbr2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	parataxis	_	word=greš|msd=Ggvsde
-5	v	v	ADP	Sa	Case=Acc	6	case	_	word=v|msd=Dt
-6	šolo	šola	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	word=šolo|msd=Sozet
-7	pa	pa	CCONJ	Cc	_	10	cc	_	word=pa|msd=Vp
-8	si	biti	AUX	Va-r2s-n	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	cop	_	word=si|msd=Gp-sde-n
-9	prvič	prvič	ADV	Rgp	Degree=Pos	10	advmod	_	word=prvič|msd=Rsn
-10	ocenjen	ocenjen	ADJ	Appmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part	4	conj	_	word=ocenjen|msd=Pdnmein
-11	recimo	reči	VERB	Vmem1p	Aspect=Perf|Mood=Imp|Number=Plur|Person=1|VerbForm=Fin	4	parataxis:discourse	_	word=recimo|msd=Ggdvpm
-12	a	a	ADV	Rgp	Degree=Pos	4	discourse	_	word=a|msd=Rsn
-13	ne	ne	PART	Q	_	12	fixed	_	word=ne|msd=L
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 1 cc	color:blue
+1	ampak	ampak	CCONJ	Cc	_	8	cc	_	word=ampak|msd=Vp
+2	če	če	SCONJ	Cs	_	3	mark	_	word=če|msd=Vd
+3	nimate	imeti	VERB	Vmpr2p-y	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Polarity=Neg|Tense=Pres|VerbForm=Fin	8	advcl	_	word=nimate|msd=Ggnsdm-d
+4	sline	slina	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	3	obl	_	word=sline|msd=Sozer
+5	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	cop	_	word=je|msd=Gp-ste-n
+6	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	8	nsubj	_	word=to|msd=Zk-sei
+7	malo	malo	DET	Rgp	PronType=Ind	8	advmod	_	word=malo|msd=Rsn
+8	težje	težek	ADJ	Agcnsn	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing	0	root	_	word=težje|msd=Pppsei
+9	ne	ne	PART	Q	_	8	discourse	_	word=ne|msd=L
 
 ~~~
 

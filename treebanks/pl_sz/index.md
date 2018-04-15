@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Polish'
+title:  'UD_Polish-SZ'
 udver: '2'
 ---
 
@@ -9,7 +9,7 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Polish
+# UD Polish SZ
 
 Language: [Polish](../pl/overview/pl-hub.html) (code: `pl`)<br/>
 Family: Indo-European, Slavic
@@ -18,8 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 
 The following people have contributed to making this treebank part of UD: Daniel Zeman, Jan Mašek, Rudolf Rosa.
 
-Repository: [UD_Polish](https://github.com/UniversalDependencies/UD_Polish)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpl)
+Repository: [UD_Polish-SZ](https://github.com/UniversalDependencies/UD_Polish-SZ)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpl_sz)
 
 License: GNU GPL 3.0
 
@@ -27,7 +27,7 @@ Genre: fiction, nonfiction, news
 
 Questions, comments?
 General annotation questions (either Polish-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Polish/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Polish-SZ/issues).
 If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&nbsp;mff&nbsp;•&nbsp;cuni&nbsp;•&nbsp;cz].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
@@ -62,6 +62,7 @@ conversion procedure has been further improved.
 * http://ufal.mff.cuni.cz/treex ... Treex is the software used for conversion
 * http://ufal.mff.cuni.cz/interset ... Interset was used to convert POS tags and features
 
+<pre>
 @inproceedings{pl,
 author = {Wr{\'o}blewska, Alina and Przepi{\'o}rkowski, Adam},
 title = {Projection-based Annotation of a {Polish} Dependency Treebank},
@@ -70,23 +71,24 @@ pages = {2306--2312},
 address = {Reykjavík, Iceland},
 year = {2014}
 }
+</pre>
 
 
 ## Acknowledgments
 
-# Statistics of UD Polish
+# Statistics of UD Polish SZ
 
 ## POS Tags
 
-[ADJ](pl-pos-ADJ.html) – [ADP](pl-pos-ADP.html) – [ADV](pl-pos-ADV.html) – [AUX](pl-pos-AUX.html) – [CCONJ](pl-pos-CCONJ.html) – [DET](pl-pos-DET.html) – [NOUN](pl-pos-NOUN.html) – [NUM](pl-pos-NUM.html) – [PART](pl-pos-PART.html) – [PRON](pl-pos-PRON.html) – [PROPN](pl-pos-PROPN.html) – [PUNCT](pl-pos-PUNCT.html) – [SCONJ](pl-pos-SCONJ.html) – [VERB](pl-pos-VERB.html) – [X](pl-pos-X.html)
+[ADJ](pl_sz-pos-ADJ.html) – [ADP](pl_sz-pos-ADP.html) – [ADV](pl_sz-pos-ADV.html) – [AUX](pl_sz-pos-AUX.html) – [CCONJ](pl_sz-pos-CCONJ.html) – [DET](pl_sz-pos-DET.html) – [NOUN](pl_sz-pos-NOUN.html) – [NUM](pl_sz-pos-NUM.html) – [PART](pl_sz-pos-PART.html) – [PRON](pl_sz-pos-PRON.html) – [PROPN](pl_sz-pos-PROPN.html) – [PUNCT](pl_sz-pos-PUNCT.html) – [SCONJ](pl_sz-pos-SCONJ.html) – [VERB](pl_sz-pos-VERB.html) – [X](pl_sz-pos-X.html)
 
 ## Features
 
-[Abbr](pl-feat-Abbr.html) – [AdpType](pl-feat-AdpType.html) – [Animacy](pl-feat-Animacy.html) – [Aspect](pl-feat-Aspect.html) – [Case](pl-feat-Case.html) – [Degree](pl-feat-Degree.html) – [Gender](pl-feat-Gender.html) – [Hyph](pl-feat-Hyph.html) – [Mood](pl-feat-Mood.html) – [Number](pl-feat-Number.html) – [Number[psor]](pl-feat-Number-psor.html) – [NumType](pl-feat-NumType.html) – [Person](pl-feat-Person.html) – [Polarity](pl-feat-Polarity.html) – [Poss](pl-feat-Poss.html) – [PrepCase](pl-feat-PrepCase.html) – [PronType](pl-feat-PronType.html) – [Reflex](pl-feat-Reflex.html) – [Tense](pl-feat-Tense.html) – [Typo](pl-feat-Typo.html) – [Variant](pl-feat-Variant.html) – [VerbForm](pl-feat-VerbForm.html) – [Voice](pl-feat-Voice.html)
+[Abbr](pl_sz-feat-Abbr.html) – [AdpType](pl_sz-feat-AdpType.html) – [Animacy](pl_sz-feat-Animacy.html) – [Aspect](pl_sz-feat-Aspect.html) – [Case](pl_sz-feat-Case.html) – [Degree](pl_sz-feat-Degree.html) – [Gender](pl_sz-feat-Gender.html) – [Hyph](pl_sz-feat-Hyph.html) – [Mood](pl_sz-feat-Mood.html) – [Number](pl_sz-feat-Number.html) – [Number[psor]](pl_sz-feat-Number-psor.html) – [NumType](pl_sz-feat-NumType.html) – [Person](pl_sz-feat-Person.html) – [Polarity](pl_sz-feat-Polarity.html) – [Poss](pl_sz-feat-Poss.html) – [PrepCase](pl_sz-feat-PrepCase.html) – [PronType](pl_sz-feat-PronType.html) – [Reflex](pl_sz-feat-Reflex.html) – [Tense](pl_sz-feat-Tense.html) – [Typo](pl_sz-feat-Typo.html) – [Variant](pl_sz-feat-Variant.html) – [VerbForm](pl_sz-feat-VerbForm.html) – [Voice](pl_sz-feat-Voice.html)
 
 ## Relations
 
-[acl](pl-dep-acl.html) – [advcl](pl-dep-advcl.html) – [advmod](pl-dep-advmod.html) – [amod](pl-dep-amod.html) – [appos](pl-dep-appos.html) – [aux](pl-dep-aux.html) – [aux:pass](pl-dep-aux-pass.html) – [case](pl-dep-case.html) – [cc](pl-dep-cc.html) – [ccomp](pl-dep-ccomp.html) – [conj](pl-dep-conj.html) – [cop](pl-dep-cop.html) – [csubj](pl-dep-csubj.html) – [det](pl-dep-det.html) – [det:numgov](pl-dep-det-numgov.html) – [det:nummod](pl-dep-det-nummod.html) – [expl:pv](pl-dep-expl-pv.html) – [fixed](pl-dep-fixed.html) – [flat](pl-dep-flat.html) – [iobj](pl-dep-iobj.html) – [mark](pl-dep-mark.html) – [nmod](pl-dep-nmod.html) – [nsubj](pl-dep-nsubj.html) – [nsubj:pass](pl-dep-nsubj-pass.html) – [nummod](pl-dep-nummod.html) – [obj](pl-dep-obj.html) – [obl](pl-dep-obl.html) – [obl:agent](pl-dep-obl-agent.html) – [obl:arg](pl-dep-obl-arg.html) – [punct](pl-dep-punct.html) – [root](pl-dep-root.html) – [xcomp](pl-dep-xcomp.html)
+[acl](pl_sz-dep-acl.html) – [advcl](pl_sz-dep-advcl.html) – [advmod](pl_sz-dep-advmod.html) – [amod](pl_sz-dep-amod.html) – [appos](pl_sz-dep-appos.html) – [aux](pl_sz-dep-aux.html) – [aux:pass](pl_sz-dep-aux-pass.html) – [case](pl_sz-dep-case.html) – [cc](pl_sz-dep-cc.html) – [ccomp](pl_sz-dep-ccomp.html) – [conj](pl_sz-dep-conj.html) – [cop](pl_sz-dep-cop.html) – [csubj](pl_sz-dep-csubj.html) – [det](pl_sz-dep-det.html) – [det:numgov](pl_sz-dep-det-numgov.html) – [det:nummod](pl_sz-dep-det-nummod.html) – [expl:pv](pl_sz-dep-expl-pv.html) – [fixed](pl_sz-dep-fixed.html) – [flat](pl_sz-dep-flat.html) – [iobj](pl_sz-dep-iobj.html) – [mark](pl_sz-dep-mark.html) – [nmod](pl_sz-dep-nmod.html) – [nsubj](pl_sz-dep-nsubj.html) – [nsubj:pass](pl_sz-dep-nsubj-pass.html) – [nummod](pl_sz-dep-nummod.html) – [obj](pl_sz-dep-obj.html) – [obl](pl_sz-dep-obl.html) – [obl:agent](pl_sz-dep-obl-agent.html) – [obl:arg](pl_sz-dep-obl-arg.html) – [punct](pl_sz-dep-punct.html) – [root](pl_sz-dep-root.html) – [xcomp](pl_sz-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 

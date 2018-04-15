@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3304 nodes (2%) are attached to their parents as `cop`.
+3344 nodes (2%) are attached to their parents as `cop`.
 
-1692 instances of `cop` (51%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.93734866828087.
+1708 instances of `cop` (51%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.93570574162679.
 
-The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (1258; 38% instances), <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (1049; 32% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (322; 10% instances), <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (266; 8% instances), <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (198; 6% instances), <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (149; 5% instances), <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (54; 2% instances), <tt><a href="grc_proiel-pos-DET.html">DET</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="grc_proiel-pos-INTJ.html">INTJ</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (1278; 38% instances), <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (1062; 32% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (324; 10% instances), <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (268; 8% instances), <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (200; 6% instances), <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (150; 4% instances), <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (54; 2% instances), <tt><a href="grc_proiel-pos-DET.html">DET</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="grc_proiel-pos-INTJ.html">INTJ</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -43,7 +43,7 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 # visual-style 8 5 cop	color:blue
 1	ἄλλα	ἄλλος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	3	amod	_	ref=1.16.2
 2	δὲ	δέ	ADV	Df	_	4	discourse	_	ref=1.16.2
-3	ἔργα	ἔργον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	4	obj:dir	_	ref=1.16.2
+3	ἔργα	ἔργον	NOUN	Nb	Case=Acc|Gender=Neut|Number=Plur	4	obj	_	ref=1.16.2
 4	ἀπεδέξατο	ἀποδέχομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	ref=1.16.2
 5	ἐὼν	εἰμί#1	AUX	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	cop	_	ref=1.16.2
 6	ἐν	ἐν	ADP	R-	_	8	case	_	ref=1.16.2
@@ -67,7 +67,7 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 4	καὶ	καί#1	ADV	Df	_	9	advmod	_	ref=1.18.2
 5	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	9	det	_	ref=1.18.2
 6	τὸν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	7	det	_	ref=1.18.2
-7	πόλεμον	πόλεμος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	9	obj:dir	_	ref=1.18.2
+7	πόλεμον	πόλεμος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	ref=1.18.2
 8	ἦν	εἰμί#1	AUX	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	ref=1.18.2
 9	συνάψας	συνάπτω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	ref=1.18.2
 

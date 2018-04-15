@@ -80,7 +80,7 @@ The following 2 pairs of parts of speech are connected with `goeswith`: <tt><a h
 34	bénéficier	bénéficier	VERB	_	VerbForm=Inf	33	xcomp	_	_
 35	d'	de	ADP	_	_	37	case	_	SpaceAfter=No
 36	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	37	det	_	_
-37	intervention	intervention	NOUN	_	Gender=Fem|Number=Sing	34	obl	_	_
+37	intervention	intervention	NOUN	_	Gender=Fem|Number=Sing	34	obl:arg	_	_
 38	urgente	urgent	ADJ	_	Gender=Fem|Number=Sing	37	amod	_	_
 39	ou	ou	CCONJ	_	_	40	cc	_	_
 40	précoce	précoce	ADJ	_	Number=Sing	38	conj	_	SpaceAfter=No

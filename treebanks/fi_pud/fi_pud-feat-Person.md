@@ -11,24 +11,24 @@ It occurs with 4 different values: `0`, `1`, `2`, `3`.
 
 This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with the following layers: <tt><a href="fi_pud-feat-Person.html">Person</a></tt>, <tt><a href="fi_pud-feat-Person-psor.html">Person[psor]</a></tt>.
 
-2021 tokens (13%) have a non-empty value of `Person`.
+2019 tokens (13%) have a non-empty value of `Person`.
 664 types (9%) occur at least once with a non-empty value of `Person`.
 390 lemmas (8%) occur at least once with a non-empty value of `Person`.
-The feature is used with 3 part-of-speech tags: <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (990; 6% instances), <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> (706; 4% instances), <tt><a href="fi_pud-pos-PRON.html">PRON</a></tt> (325; 2% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (988; 6% instances), <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> (706; 4% instances), <tt><a href="fi_pud-pos-PRON.html">PRON</a></tt> (325; 2% instances).
 
 ### `VERB`
 
-990 <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> tokens (49% of all `VERB` tokens) have a non-empty value of `Person`.
+988 <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> tokens (49% of all `VERB` tokens) have a non-empty value of `Person`.
 
-The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="fi_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (990; 100%), <tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (990; 100%), <tt><a href="fi_pud-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (990; 100%), <tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (990; 100%), <tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (990; 100%), <tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (990; 100%), <tt><a href="fi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (948; 96%), <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (763; 77%), <tt><a href="fi_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (599; 61%).
+The most frequent other feature values with which `VERB` and `Person` co-occurred: <tt><a href="fi_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (988; 100%), <tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (988; 100%), <tt><a href="fi_pud-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (988; 100%), <tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (988; 100%), <tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (988; 100%), <tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (988; 100%), <tt><a href="fi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (946; 96%), <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (761; 77%), <tt><a href="fi_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (598; 61%).
 
 `VERB` tokens may have the following values of `Person`:
 
 * `0` (8; 1% of non-empty `Person`): <em>Vaikutti, haluaa, hämärtää, kävi, pääsee, saa, tulee, täytyy</em>
 * `1` (37; 4% of non-empty `Person`): <em>Luulen, Arvioimme, Halusin, Huomasin, Joudun, Julistan, Katselin, Kokeilin, Kysyin, Käyn</em>
 * `2` (7; 1% of non-empty `Person`): <em>Kiisteletkö, Päädyt, Sano, huomasitteko, kiertele, räjähdä, vaikuta</em>
-* `3` (938; 95% of non-empty `Person`): <em>sanoi, tulee, tuli, sanoo, alkoi, kertoi, eikä, johti, sai, syntyi</em>
-* `EMPTY` (1045): <em>rakennettiin, tehdä, käytettiin, pidetään, julkaistiin, liittyen, lukien, olemassa, perustettiin, tullut</em>
+* `3` (936; 95% of non-empty `Person`): <em>sanoi, tulee, tuli, sanoo, kertoi, alkoi, eikä, johti, sai, syntyi</em>
+* `EMPTY` (1043): <em>rakennettiin, tehdä, käytettiin, pidetään, julkaistiin, liittyen, lukien, olemassa, tullut, johtaa</em>
 
 <table>
   <tr><th>Paradigm <i>haluta</i></th><th><tt>1</tt></th><th><tt>3</tt></th><th><tt>0</tt></th></tr>

@@ -19,42 +19,42 @@ The 10 most frequent ambiguous types:  <em>o</em> (<tt><a href="gl_treegal-pos-D
 
 
 * <em>o</em>
-  * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 1005: <em>Europeizar <b>o</b> horario de traballo</em>
-  * <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> 86: <em>Dicía Jean Cocteau que a moda é <b>o</b> que pasa de moda .</em>
+  * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 1005: <em>E como <b>o</b> falar non ten cancela , engade :</em>
+  * <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> 86: <em>Un de eles é <b>o</b> de Celulosas .</em>
 * <em>a</em>
-  * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 1011: <em>" Temos <b>a</b> xornada laboral máis longa de Europa .</em>
-  * <tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> 436: <em>E segue o seu baduar <b>a</b> o chou :</em>
-  * <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> 28: <em>A mesma que hai catro anos e que <b>a</b> de Abel Caballero hai oito :</em>
+  * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 1011: <em>O Foro para o Novo Estatuto recolle o dereito a <b>a</b> autodeterminación</em>
+  * <tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> 436: <em>O Foro para o Novo Estatuto recolle o dereito <b>a</b> a autodeterminación</em>
+  * <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> 28: <em>A primeira versión de o Quixote en galego fixo <b>a</b> A Nosa Terra en 1917</em>
 * <em>os</em>
-  * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 357: <em>Pero non todos <b>os</b> socialistas están de acordo con esta estratexia .</em>
+  * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 357: <em>Traballamos máis horas que <b>os</b> xaponeses .</em>
   * <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> 16: <em>Tamén <b>os</b> de a OTAN .</em>
 * <em>as</em>
-  * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 270: <em>A <b>as</b> cinco remata se de traballar " .</em>
+  * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 270: <em>Quen decidirá os candidatos a <b>as</b> futuras eleccións autonómicas e locais ?</em>
   * <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> 11: <em>Nin tampouco relacionar a súa proposta con <b>as</b> de Euskadi e Cataluña , que por moito que sexan diferentes forman parte de a mesma e inseparábel conxuntura política .</em>
 * <em>un</em>
-  * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 250: <em>Entrou como <b>un</b> canón con Tesis .</em>
+  * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 250: <em>Touriño dá <b>un</b> xiro en a súa estratexia de campaña</em>
   * <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> 13: <em>Ese foi <b>un</b> de os temas que máis discutimos en a Asamblea Constituínte .</em>
   * <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> 9: <em>Menos que agora , se é <b>un</b> cuarto de hora para un recado rápido .</em>
 * <em>unha</em>
-  * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 172: <em>A a dereita , Lech Walesa en <b>unha</b> fotografía de 1999 .</em>
+  * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 172: <em>Walesa critica <b>unha</b> emisora católica</em>
   * <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> 8: <em>A familiaridade é <b>unha</b> de elas .</em>
   * <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> 1: <em>Pero seguramente máis que agora , por <b>unha</b> hora ou máis .</em>
 * <em>lo</em>
   * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 50: <em>Será a partir de o 1 de abril e non sen polémicas nin alegacións por <b>lo</b> medio .</em>
   * <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> 20: <em>Sigo a ser <b>lo</b> .</em>
 * <em>seu</em>
-  * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 48: <em>E segue o <b>seu</b> baduar a o chou :</em>
+  * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 48: <em>Bach , Scarlatti , Tárrega ... forman parte de o <b>seu</b> repertorio .</em>
   * <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> 2: <em>Pero despois de situar un home <b>seu</b> a a fronte de a comarca pontevedresa , a dirección galega tomou lle medo e deixou de procurar terceiras vías .</em>
 * <em>esta</em>
-  * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 44: <em>Pero non todos os socialistas están de acordo con <b>esta</b> estratexia .</em>
+  * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 44: <em>Por <b>esta</b> razón a guitarra é difícil de tocar en público .</em>
   * <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> 3: <em>Concretamente en <b>esta</b> resulta dificil sinalar as máis salientábeis , as mellor configuradas .</em>
 * <em>este</em>
-  * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 35: <em>É o indicador de entrada en <b>este</b> país .</em>
+  * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 35: <em>O Brasil de Lula centra as informacións de <b>este</b> número .</em>
   * <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> 6: <em>O anterior expediente , o de 1999 , foi mellor ca <b>este</b> .</em>
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 2.588235 (the average of all parts of speech is 1.370813).
+The form / lemma ratio of `DET` is 2.588235 (the average of all parts of speech is 1.370902).
 
 The 1st highest number of forms (8) was observed with the lemma “ese”: <em>esa, esas, ese, eses, esta, estas, este, estes</em>.
 
@@ -62,11 +62,11 @@ The 2nd highest number of forms (8) was observed with the lemma “o”: <em>a, 
 
 The 3rd highest number of forms (5) was observed with the lemma “moito”: <em>moita, moitas, moito, moitos, moitísimas</em>.
 
-`DET` occurs with 7 features: <tt><a href="gl_treegal-feat-PronType.html">PronType</a></tt> (4120; 100% instances), <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt> (4111; 100% instances), <tt><a href="gl_treegal-feat-Number.html">Number</a></tt> (4111; 100% instances), <tt><a href="gl_treegal-feat-Definite.html">Definite</a></tt> (3451; 84% instances), <tt><a href="gl_treegal-feat-Person.html">Person</a></tt> (231; 6% instances), <tt><a href="gl_treegal-feat-Number-psor.html">Number[psor]</a></tt> (230; 6% instances), <tt><a href="gl_treegal-feat-Poss.html">Poss</a></tt> (230; 6% instances)
+`DET` occurs with 7 features: <tt><a href="gl_treegal-feat-PronType.html">PronType</a></tt> (4120; 100% instances), <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt> (4111; 100% instances), <tt><a href="gl_treegal-feat-Number.html">Number</a></tt> (4111; 100% instances), <tt><a href="gl_treegal-feat-Definite.html">Definite</a></tt> (3450; 84% instances), <tt><a href="gl_treegal-feat-Person.html">Person</a></tt> (231; 6% instances), <tt><a href="gl_treegal-feat-Number-psor.html">Number[psor]</a></tt> (230; 6% instances), <tt><a href="gl_treegal-feat-Poss.html">Poss</a></tt> (230; 6% instances)
 
 `DET` occurs with 17 feature-value pairs: `Definite=Def`, `Definite=Ind`, `Gender=Fem`, `Gender=Masc`, `Number=Plur`, `Number=Sing`, `Number[psor]=Plur`, `Number[psor]=Sing`, `Person=1`, `Person=3`, `Poss=Yes`, `PronType=Art`, `PronType=Dem`, `PronType=Ind`, `PronType=Int`, `PronType=Prs`, `PronType=Rel`
 
-`DET` occurs with 38 feature combinations.
+`DET` occurs with 39 feature combinations.
 The most frequent feature combination is `Definite=Def|Gender=Masc|Number=Sing|PronType=Art` (1156 tokens).
 Examples: <em>o, lo, os</em>
 

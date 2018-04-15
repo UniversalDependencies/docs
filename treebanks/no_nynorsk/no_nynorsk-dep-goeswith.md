@@ -62,10 +62,10 @@ The following 14 pairs of parts of speech are connected with `goeswith`: <tt><a 
 1	Ho	ho	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
 2	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	lei	lei	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	0	root	_	_
-4	for	for	ADP	_	_	9	mark	_	_
+4	for	for	SCONJ	_	_	9	mark	_	_
 5	at	at	SCONJ	_	_	9	mark	_	_
 6	ho	ho	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
-7	ikkje	ikkje	ADV	_	Polarity=Neg	9	advmod	_	_
+7	ikkje	ikkje	PART	_	Polarity=Neg	9	advmod	_	_
 8	var	vere	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	9	cop	_	_
 9	merksam	merksam	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	3	advcl	_	_
 10	på	på	ADP	_	_	11	case	_	_
@@ -78,7 +78,7 @@ The following 14 pairs of parts of speech are connected with `goeswith`: <tt><a 
 17	som	som	PRON	_	PronType=Rel	19	nsubj:pass	_	_
 18	vart	verte	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	19	aux:pass	_	_
 19	gjort	gjere	ADJ	_	Definite=Ind|Gender=Neut|Number=Sing|VerbForm=Part	16	amod	_	_
-20	ikkje	ikkje	ADV	_	Polarity=Neg	22	advmod	_	_
+20	ikkje	ikkje	PART	_	Polarity=Neg	22	advmod	_	_
 21	er	vere	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	3	goeswith	_	_
 22	lenger	lenge	ADJ	_	Degree=Cmp	24	advmod	_	_
 23	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	24	cop	_	_

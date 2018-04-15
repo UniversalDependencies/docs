@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Basque'
+title:  'UD_Basque-BDT'
 udver: '2'
 ---
 
@@ -9,7 +9,7 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Basque
+# UD Basque BDT
 
 Language: [Basque](../eu/overview/eu-hub.html) (code: `eu`)<br/>
 Family: Basque
@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v1.1 release.
 
 The following people have contributed to making this treebank part of UD: Maria Jesus Aranzabe, Aitziber Atutxa, Kepa Bengoetxea, Arantza Diaz de Ilarraza, Iakes Goenaga, Koldo Gojenola, Larraitz Uria.
 
-Repository: [UD_Basque](https://github.com/UniversalDependencies/UD_Basque)
+Repository: [UD_Basque-BDT](https://github.com/UniversalDependencies/UD_Basque-BDT)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udeu_bdt)
 
 License: CC BY-NC-SA 3.0
 
@@ -26,7 +27,7 @@ Genre: news
 
 Questions, comments?
 General annotation questions (either Basque-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Basque/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Basque-BDT/issues).
 If you want to collaborate, please contact [koldo&nbsp;•&nbsp;gojenola&nbsp;(æt)&nbsp;ehu&nbsp;•&nbsp;eus].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
@@ -56,27 +57,40 @@ The conversion of the original treebank has been performed by Aitziber Atutxa, I
 Sentences were randomized and divided in 60-20-20 splits for the train, dev and test files, repectively.
 
 
-# Statistics of UD Basque
+# Statistics of UD Basque BDT
 
 ## POS Tags
 
-[ADJ](eu-pos-ADJ.html) – [ADP](eu-pos-ADP.html) – [ADV](eu-pos-ADV.html) – [AUX](eu-pos-AUX.html) – [CCONJ](eu-pos-CCONJ.html) – [DET](eu-pos-DET.html) – [INTJ](eu-pos-INTJ.html) – [NOUN](eu-pos-NOUN.html) – [NUM](eu-pos-NUM.html) – [PART](eu-pos-PART.html) – [PRON](eu-pos-PRON.html) – [PROPN](eu-pos-PROPN.html) – [PUNCT](eu-pos-PUNCT.html) – [SYM](eu-pos-SYM.html) – [VERB](eu-pos-VERB.html) – [X](eu-pos-X.html)
+[ADJ](eu_bdt-pos-ADJ.html) – [ADP](eu_bdt-pos-ADP.html) – [ADV](eu_bdt-pos-ADV.html) – [AUX](eu_bdt-pos-AUX.html) – [CCONJ](eu_bdt-pos-CCONJ.html) – [DET](eu_bdt-pos-DET.html) – [INTJ](eu_bdt-pos-INTJ.html) – [NOUN](eu_bdt-pos-NOUN.html) – [NUM](eu_bdt-pos-NUM.html) – [PART](eu_bdt-pos-PART.html) – [PRON](eu_bdt-pos-PRON.html) – [PROPN](eu_bdt-pos-PROPN.html) – [PUNCT](eu_bdt-pos-PUNCT.html) – [SYM](eu_bdt-pos-SYM.html) – [VERB](eu_bdt-pos-VERB.html) – [X](eu_bdt-pos-X.html)
 
 ## Features
 
-[Animacy](eu-feat-Animacy.html) – [Aspect](eu-feat-Aspect.html) – [Case](eu-feat-Case.html) – [Definite](eu-feat-Definite.html) – [Degree](eu-feat-Degree.html) – [Gender](eu-feat-Gender.html) – [Gender[dat]](eu-feat-Gender-dat.html) – [Gender[erg]](eu-feat-Gender-erg.html) – [Mood](eu-feat-Mood.html) – [Number](eu-feat-Number.html) – [Number[abs]](eu-feat-Number-abs.html) – [Number[dat]](eu-feat-Number-dat.html) – [Number[erg]](eu-feat-Number-erg.html) – [NumType](eu-feat-NumType.html) – [Person](eu-feat-Person.html) – [Person[abs]](eu-feat-Person-abs.html) – [Person[dat]](eu-feat-Person-dat.html) – [Person[erg]](eu-feat-Person-erg.html) – [Polarity](eu-feat-Polarity.html) – [Polite](eu-feat-Polite.html) – [Polite[abs]](eu-feat-Polite-abs.html) – [Polite[dat]](eu-feat-Polite-dat.html) – [Polite[erg]](eu-feat-Polite-erg.html) – [PronType](eu-feat-PronType.html) – [VerbForm](eu-feat-VerbForm.html) – [Voice](eu-feat-Voice.html)
+[Animacy](eu_bdt-feat-Animacy.html) – [Aspect](eu_bdt-feat-Aspect.html) – [Case](eu_bdt-feat-Case.html) – [Definite](eu_bdt-feat-Definite.html) – [Degree](eu_bdt-feat-Degree.html) – [Gender](eu_bdt-feat-Gender.html) – [Gender[dat]](eu_bdt-feat-Gender-dat.html) – [Gender[erg]](eu_bdt-feat-Gender-erg.html) – [Mood](eu_bdt-feat-Mood.html) – [Number](eu_bdt-feat-Number.html) – [Number[abs]](eu_bdt-feat-Number-abs.html) – [Number[dat]](eu_bdt-feat-Number-dat.html) – [Number[erg]](eu_bdt-feat-Number-erg.html) – [NumType](eu_bdt-feat-NumType.html) – [Person](eu_bdt-feat-Person.html) – [Person[abs]](eu_bdt-feat-Person-abs.html) – [Person[dat]](eu_bdt-feat-Person-dat.html) – [Person[erg]](eu_bdt-feat-Person-erg.html) – [Polarity](eu_bdt-feat-Polarity.html) – [Polite](eu_bdt-feat-Polite.html) – [Polite[abs]](eu_bdt-feat-Polite-abs.html) – [Polite[dat]](eu_bdt-feat-Polite-dat.html) – [Polite[erg]](eu_bdt-feat-Polite-erg.html) – [PronType](eu_bdt-feat-PronType.html) – [VerbForm](eu_bdt-feat-VerbForm.html) – [Voice](eu_bdt-feat-Voice.html)
 
 ## Relations
 
-[acl](eu-dep-acl.html) – [advcl](eu-dep-advcl.html) – [advmod](eu-dep-advmod.html) – [amod](eu-dep-amod.html) – [appos](eu-dep-appos.html) – [aux](eu-dep-aux.html) – [case](eu-dep-case.html) – [cc](eu-dep-cc.html) – [ccomp](eu-dep-ccomp.html) – [compound](eu-dep-compound.html) – [conj](eu-dep-conj.html) – [cop](eu-dep-cop.html) – [csubj](eu-dep-csubj.html) – [dep](eu-dep-dep.html) – [det](eu-dep-det.html) – [discourse](eu-dep-discourse.html) – [fixed](eu-dep-fixed.html) – [flat](eu-dep-flat.html) – [iobj](eu-dep-iobj.html) – [mark](eu-dep-mark.html) – [nmod](eu-dep-nmod.html) – [nsubj](eu-dep-nsubj.html) – [nummod](eu-dep-nummod.html) – [obj](eu-dep-obj.html) – [obl](eu-dep-obl.html) – [parataxis](eu-dep-parataxis.html) – [punct](eu-dep-punct.html) – [root](eu-dep-root.html) – [vocative](eu-dep-vocative.html) – [xcomp](eu-dep-xcomp.html)
+[acl](eu_bdt-dep-acl.html) – [advcl](eu_bdt-dep-advcl.html) – [advmod](eu_bdt-dep-advmod.html) – [amod](eu_bdt-dep-amod.html) – [appos](eu_bdt-dep-appos.html) – [aux](eu_bdt-dep-aux.html) – [case](eu_bdt-dep-case.html) – [cc](eu_bdt-dep-cc.html) – [ccomp](eu_bdt-dep-ccomp.html) – [compound](eu_bdt-dep-compound.html) – [conj](eu_bdt-dep-conj.html) – [cop](eu_bdt-dep-cop.html) – [csubj](eu_bdt-dep-csubj.html) – [dep](eu_bdt-dep-dep.html) – [det](eu_bdt-dep-det.html) – [discourse](eu_bdt-dep-discourse.html) – [fixed](eu_bdt-dep-fixed.html) – [flat](eu_bdt-dep-flat.html) – [iobj](eu_bdt-dep-iobj.html) – [mark](eu_bdt-dep-mark.html) – [nmod](eu_bdt-dep-nmod.html) – [nsubj](eu_bdt-dep-nsubj.html) – [nummod](eu_bdt-dep-nummod.html) – [obj](eu_bdt-dep-obj.html) – [obl](eu_bdt-dep-obl.html) – [parataxis](eu_bdt-dep-parataxis.html) – [punct](eu_bdt-dep-punct.html) – [root](eu_bdt-dep-root.html) – [vocative](eu_bdt-dep-vocative.html) – [xcomp](eu_bdt-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 8993 sentences and 121443 tokens.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 19438 tokens (16%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
-<li>This corpus contains 693 types of words that contain both letters and punctuation. Examples: PSE-EEk, II.a, PSE-EEko, bat-batean, II., Euskaltel-Euskadi, I.a, II.ak, PSE-EE, bete-betean, denboraldi-aurrea, denboraldi-aurreko, parte-hartzea, behin-behineko, denboraldi-aurrean, elektrizitate-lineari, poliki-poliki, PSE-EEren, Yong-Kooren, buru-belarri, cm-ko, Calcio-n, Donibane-Lohizuneko, Francine-k, Jazztel-Costa, Lutxana-Deustu, PSE-EEri, Uda-udazken, Yong-Koo, aitzin-multzoan, bizi-bizi, gorri-berdeak, kili-kolo, lur-nahaste, pertsona-komunztadura-markek, pixkanaka-pixkanaka, potentzial-diferentzia, soil-soilik, transformazio-zentroari, zehatz-mehatz, zelai-erdian, zer-nolako, 30.eko, A., AEK-ko, Asegarce-Altiren, Biztanle-kopuruak, CD-ROMetan, Dae-jung, Dole-k</li>
+</ul>
+
+<ul>
+<li>This corpus contains 693 types of words that contain both letters and punctuation. Examples: PSE-EEk, II.a, PSE-EEko, bat-batean, II., Euskaltel-Euskadi, I.a, II.ak, PSE-EE, bete-betean, denboraldi-aurrea, denboraldi-aurreko, parte-hartzea, behin-behineko, denboraldi-aurrean, e​l​e​k​t​r​i​z​i​t​a​t​e​-​l​i​n​e​a​r​i, poliki-poliki, PSE-EEren, Yong-Kooren, buru-belarri, cm-ko, Calcio-n, Donibane-Lohizuneko, Francine-k, Jazztel-Costa, Lutxana-Deustu, PSE-EEri, Uda-udazken, Yong-Koo, aitzin-multzoan, bizi-bizi, gorri-berdeak, kili-kolo, lur-nahaste, p​e​r​t​s​o​n​a​-​k​o​m​u​n​z​t​a​d​u​r​a​-​m​a​r​k​e​k, pixkanaka-pixkanaka, p​o​t​e​n​t​z​i​a​l​-​d​i​f​e​r​e​n​t​z​i​a, soil-soilik, t​r​a​n​s​f​o​r​m​a​z​i​o​-​z​e​n​t​r​o​a​r​i, zehatz-mehatz, zelai-erdian, zer-nolako, 30.eko, A., AEK-ko, Asegarce-Altiren, Biztanle-kopuruak, CD-ROMetan, Dae-jung, Dole-k</li>
+</ul>
+
+<ul>
 </ul>
 
 <h2>Morphology</h2>
@@ -86,6 +100,9 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
 <ul>
 <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: SCONJ</li>
+</ul>
+
+<ul>
 <li>This corpus contains 5 word types tagged as particles (PART): bai, baietz, ez, ezetz, omen</li>
 </ul>
 
@@ -109,7 +126,9 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
 </ul>
 
 <ul>
-<li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Inf
   <ul>
@@ -117,6 +136,9 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
     <li>VERB: egiten, ematen, egin, erabiltzen, ikus, ikusten, izan, izaten, agertzen, esaten</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>ADV: Desesperatuki</li>
@@ -125,12 +147,12 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
+
 <li><a>Gender</a>
+
   <ul>
     <li>Fem
       <ul>
@@ -138,6 +160,9 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
         <li>VERB: dun, dinat, niken, baditinagu, baditinat, bazaukan, dakinat, din, dinagu, naun</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>AUX: duk, diat, nian, dik, nauk, zagok, zegoan, zegok</li>
@@ -145,9 +170,13 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Animacy</a>
+
   <ul>
     <li>Anim
       <ul>
@@ -156,6 +185,9 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
         <li>PROPN: Manek, Maneren, Putinek, Tirapu</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Inan
       <ul>
         <li>ADJ: ergatibodunak, harrotsu, hesidunetan, istilutsua, kotoitsua, latza, molduradunei, osasuntsuena, sabeldunak</li>
@@ -166,9 +198,13 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Number</a>
+
   <ul>
     <li>Plur
       <ul>
@@ -185,6 +221,9 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
         <li>VERB-Part: eginak, atxilotuak, eginez, gonbidatuak, ikasiak, jarriak, zaurituak, armatuak, armatuen, baztertuak</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: handia, ona, bakarra, nagusia, zaila, berria, onena, garrantzitsua, osoa, berezia</li>
@@ -203,9 +242,13 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Abl
       <ul>
@@ -220,6 +263,9 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
         <li>VERB-Part: mintzatutik, normalizatutik, zaurituetatik</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Abs
       <ul>
         <li>ADJ: handia, ona, bakarra, nagusia, zaila, berria, onena, garrantzitsua, nagusi, osoa</li>
@@ -237,6 +283,9 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
         <li>VERB-Part: izana, egina, hasia, izan, irekia, bateratua, egin, eginak, esana, galdua</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>All
       <ul>
         <li>ADJ: hobera, laburrera, politikora, Zurira, gorenera, onera, osora, publikora, Batuetara, Nagusira</li>
@@ -251,16 +300,22 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
         <li>VERB-Part: gonbidatuetara, aginduetara, armatura, itxietara, jakinetara</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ben
       <ul>
         <li>ADJ: Akziodunentzat, bahamatarrentzat, baionesentzat, bakarrarentzat, berriarentzat, berrientzat, britainiarrentzat, frantziarrarentzat, handirentzat, hungariarrarentzat</li>
         <li>AUX: denarentzat, duenarentzat, nauenarentzat, zuenarentzat</li>
         <li>DET: gehienentzat, guztientzat, harentzat, guztiontzat, horientzat, Zerendako, askorentzat, batzuentzat, berarentzat, beretzat</li>
-        <li>NOUN: emakumeentzat, ertzainentzat, gorritxoentzat, jokalarientzat, Estatuarentzat, Greziarrentzat, Hegoaldekoentzat, Munduarentzat, Txirrindularitzarentzat, Zuzenbidearentzat</li>
+        <li>NOUN: emakumeentzat, ertzainentzat, gorritxoentzat, jokalarientzat, Estatuarentzat, Greziarrentzat, Hegoaldekoentzat, Munduarentzat, T​x​i​r​r​i​n​d​u​l​a​r​i​t​z​a​r​e​n​t​z​a​t, Zuzenbidearentzat</li>
         <li>PRON: norbaitentzat</li>
         <li>PROPN: Alavesentzat, Eibarrentzat, Udalbiltzarentzat, Andreasentzat, Astillerorentzat, Athleticentzat, Barakentzat, Batistutarentzat, Bretainiarentzat, Echevarrieta-rentzat</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Cau
       <ul>
         <li>ADJ: bikoitzagatik, eskasagatik, espainiarragatik, handiagatik, handiengatik, hutsagatik, ikusgarriarengatik, militarragatik, normal-normalengatik, politikoengatik</li>
@@ -274,6 +329,9 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
         <li>VERB-Part: izanagatik</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Com
       <ul>
         <li>ADJ: handiarekin, onenekin, osoarekin, bakarrarekin, handiekin, ingelesarekin, koadroarekin, nagusiarekin, ohiarekin, onarekin</li>
@@ -287,6 +345,9 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
         <li>VERB-Part: erasoekin, handi-handituekin, kualifikatuarekin</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dat
       <ul>
         <li>ADJ: ohiari, Batuari, politikoari, zaleei, bakoitzari, baltseroari, demokratikoari, fisikoari, onari, politikoei</li>
@@ -300,6 +361,9 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
         <li>VERB-Part: prefabrikatuari, zimurtuari, afiliatuei, elbarrituei, eroritakoei, eztabaidatutakoei, kaltetutakoei, zaurituei</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Erg
       <ul>
         <li>ADJ: bakoitzak, Gorenak, ohiak, nagusiak, gazteak, berriak, estatubatuarrak, sozialistak, zibilak, Batuek</li>
@@ -314,6 +378,9 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
         <li>VERB-Part: izanak, armatuak, inplikatuek, moderatuek, Abokatuek, aritutakoek, atxilotutakoek, defendituak, desplazatuak, eginikoak</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ess
       <ul>
         <li>ADJ: ezinbestekotzat, garrantzitsutzat, nagusitzat, basatitzat, egokitzat, historikotzat, normaltzat, positibotzat, Batutzat, Naturaltzat</li>
@@ -322,6 +389,9 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
         <li>VERB-Part: amaitutzat, desagertutzat, erabakitzat, galdutzat, jaiotakotzat, lortutzat</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Gen
       <ul>
         <li>ADJ: berriaren, bakoitzaren, zaleen, handien, nazionalaren, politikoaren, ohiaren, Batuen, atzerritarren, palestinarraren</li>
@@ -336,6 +406,9 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
         <li>VERB-Part: esandakoaren, armatuen, entzundakoaren, gertatutakoaren, izanaren, Gutxituen, Irekien, Jakinaren, afiliatuen, atxilotutakoen</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ine
       <ul>
         <li>ADJ: osoan, nagusian, zabalean, Batuetan, bakoitzean, onean, onenean, nagusietan, batuan, betean</li>
@@ -350,6 +423,9 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
         <li>VERB-Part: amaitutakoan, entzundakoan, Afizionatuetan, Irekian, aurreratuenetan, bilduetan, gertatutakoan, gutxituetan, idatzian, ihesian</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ins
       <ul>
         <li>ADJ: handiz, onez, osoz, biziz, estreinakoz, azkenekoz, kulturalaz, naturalez, olinpiarrez, sozialaz</li>
@@ -364,6 +440,9 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
         <li>VERB-Part: eginez, erabiliz, esanez, utziz, eraginez, izanez, emanez, errespetatuz, idatziz, irabaziz</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Lat
       <ul>
         <li>ADJ: Baturantz</li>
@@ -373,6 +452,9 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
         <li>PROPN: Ingalaterrarantz</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Loc
       <ul>
         <li>ADJ: handiko, Batuetako, Nazionaleko, bakoitzeko, zibileko, goreneko, Batuko, osoko, bakarreko, Demokratikoko</li>
@@ -390,6 +472,9 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
         <li>VERB-Part: egindako, izandako, eginiko, lortutako, aurkeztutako, jokatutako, sortutako, aipatutako, emandako, hartutako</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Par
       <ul>
         <li>ADJ: handirik, halakorik, onik, horrelakorik, berezirik, faboritorik, larririk, politikorik, ziurrenik, garbirik</li>
@@ -404,10 +489,15 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Definite</a>
+
   <ul>
     <li>Def
       <ul>
@@ -425,6 +515,9 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
         <li>VERB-Part: izana, egina, hasia, irekia, izanak, armatuak, bateratua, eginak, esana, galdua</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>ADJ: nagusi, bizi, handirik, handiz, zuzen, ziur, berri, indartsu, sendo, ageri</li>
@@ -442,11 +535,16 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Degree and Polarity</h3>
 
+
 <li><a>Degree</a>
+
   <ul>
     <li>Abs
       <ul>
@@ -454,6 +552,9 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
         <li>ADV: goizegi, urrunegi</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Cmp
       <ul>
         <li>ADJ: handiagoa, azkarrago, errazago, indartsuago, sendoago, txikiagoa, txikiagoan, altuago, argiagoa, ezkorrago</li>
@@ -462,6 +563,9 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
         <li>VERB-Part: atsekabetuago, bermatuagoa, bideratuagoa, irekiagoa, orekatuagoa</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sup
       <ul>
         <li>ADJ: onena, garrantzitsuena, handiena, onenak, indartsuena, onenean, azkarrena, garrantzitsuenak, onenetakoa, egokiena</li>
@@ -472,15 +576,22 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Polarity</a>
+
   <ul>
     <li>Neg
       <ul>
         <li>PART: ez, ezetz</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>AUX: bada, bazuen, badira, badirela, baditu, badu, badute, baliteke, balituzkete, baziren</li>
@@ -489,12 +600,18 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Verbal Features</h3>
 
+
 <li><a>Aspect</a>
+
   <ul>
     <li>Imp
       <ul>
@@ -502,6 +619,9 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
         <li>VERB-Inf: egiten, ematen, erabiltzen, ikusten, izaten, agertzen, esaten, hartzen, gertatzen, jarraitzen</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Perf
       <ul>
         <li>AUX-Part: izan, ibili, geratu, egon</li>
@@ -509,12 +629,18 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
         <li>VERB-Part: egin, izan, esan, eman, joan, lortu, hasi, hil, irabazi, azaldu</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prog
       <ul>
         <li>AUX: da, dira, dela, zen, dago, den, zegoen, du, direla, daude</li>
         <li>VERB: da, du, dago, dute, dira, daude, dugu, dela, dut, zegoen</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prosp
       <ul>
         <li>AUX-Part: izango, egongo, izanen, ibiliko, egonen</li>
@@ -522,9 +648,13 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Mood</a>
+
   <ul>
     <li>Cnd
       <ul>
@@ -532,24 +662,36 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
         <li>VERB: nuke, luke, balitz, niken, Badakit, bagina, bailitzan, balego, banitu, bazekikeen</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Imp
       <ul>
         <li>AUX: ezazu, itzazu, zaitez, ezan, ezazue, iezaiezu, Zaude, iezaidazu, iezaion, iezaiozu</li>
         <li>VERB: egizu, hago, Demagun, Hoa, emaidazu, zaude, zaudezte, zoaz, zoazte</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>AUX: da, zuen, zen, du, dira, dute, zuten, ziren, ditu, zituen</li>
         <li>VERB: da, du, dago, dute, dira, daude, dugu, dela, dut, zegoen</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pot
       <ul>
         <li>AUX: daiteke, dezake, daitezke, daitekeela, daitezkeen, liteke, daitekeen, dezakeen, dezakete, ditzakete</li>
         <li>VERB: baliteke, litekeena, lekarkioke, liteke</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sub
       <ul>
         <li>AUX: dadin, dezagun, dezan, dezala, dadila, daitezen, dezaten, ditzan, zezaten, daitezela</li>
@@ -557,10 +699,15 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Voice</a>
+
   <ul>
     <li>Cau
       <ul>
@@ -568,12 +715,18 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Int
       <ul>
@@ -581,32 +734,48 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
         <li>PRON: nork, nor, noren, nori, nortzuren</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
         <li>PRON: gure, nire, nik, euren, guk, ni, zure, gu, beraiek, niri</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>NumType</a>
+
   <ul>
     <li>Card
       <ul>
         <li>NUM: bat, bi, hiru, batean, baten, batek, lau, batez, bost, sei</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ord
       <ul>
         <li>NUM: azken, lehen, bigarren, hirugarren, lehenengo, laugarren, bosgarren, seigarren, II.a, lehena</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
 
+
+
 <li><a>Person</a>
+
   <ul>
     <li>1
       <ul>
@@ -615,12 +784,18 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
         <li>PRON: neure, neu, geu, geure, Geuregan, Geuri, Neuk</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>ADP: artean, barneko, gain, gisara, inguruan</li>
         <li>PRON: Zeu, Zeuk, heure, zeure</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>ADP: arteko, aitzinean, artean, esku, kontra</li>
@@ -628,9 +803,13 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Polite</a>
+
   <ul>
     <li>Infm
       <ul>
@@ -640,11 +819,17 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
 
+
+
 <h3>Other Features</h3>
+
 
 <li><a>Gender[dat]</a>
   <ul>
@@ -656,6 +841,7 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
     </li>
   </ul>
 </li>
+
 <li><a>Gender[erg]</a>
   <ul>
     <li>Fem
@@ -672,6 +858,7 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
     </li>
   </ul>
 </li>
+
 <li><a>Number[abs]</a>
   <ul>
     <li>Plur
@@ -688,6 +875,7 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
     </li>
   </ul>
 </li>
+
 <li><a>Number[dat]</a>
   <ul>
     <li>Plur
@@ -704,6 +892,7 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
     </li>
   </ul>
 </li>
+
 <li><a>Number[erg]</a>
   <ul>
     <li>Plur
@@ -720,6 +909,7 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
     </li>
   </ul>
 </li>
+
 <li><a>Person[abs]</a>
   <ul>
     <li>1
@@ -742,6 +932,7 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
     </li>
   </ul>
 </li>
+
 <li><a>Person[dat]</a>
   <ul>
     <li>1
@@ -764,6 +955,7 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
     </li>
   </ul>
 </li>
+
 <li><a>Person[erg]</a>
   <ul>
     <li>1
@@ -786,6 +978,7 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
     </li>
   </ul>
 </li>
+
 <li><a>Polite[abs]</a>
   <ul>
     <li>Infm
@@ -796,6 +989,7 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
     </li>
   </ul>
 </li>
+
 <li><a>Polite[dat]</a>
   <ul>
     <li>Infm
@@ -806,6 +1000,7 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
     </li>
   </ul>
 </li>
+
 <li><a>Polite[erg]</a>
   <ul>
     <li>Infm
@@ -823,6 +1018,9 @@ Sentences were randomized and divided in 60-20-20 splits for the train, dev and 
 
 <ul>
 <li>This corpus uses 13 lemmas as copulas (<a>cop</a>). Examples: izan, egon, ukan, ibili, geratu, apropos, ari_izan, aurkari, gizon, onartu, sartu, sortu, txiki.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 19 lemmas as auxiliaries (<a>aux</a>). Examples: *edun, izan, egin, *edin, *ezan, ari, ukan, baldin, ohi, egon, omen, jakin, eskertu, gelditu, geu, guzti, ibili, joan, oso.</li>
 </ul>
 

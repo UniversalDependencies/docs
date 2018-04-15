@@ -13,7 +13,7 @@ Some words have combined values of the feature; 1 combinations have been observe
 89456 tokens (29%) have a non-empty value of `Gender`.
 20726 types (64%) occur at least once with a non-empty value of `Gender`.
 13975 lemmas (60%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 7 part-of-speech tags: <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (56308; 18% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (12359; 4% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (10250; 3% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (7685; 2% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> (2689; 1% instances), <tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt> (164; 0% instances), <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The feature is used with 7 part-of-speech tags: <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (56308; 18% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (11798; 4% instances), <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (10811; 3% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (7685; 2% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> (2689; 1% instances), <tt><a href="no_bokmaal-pos-NUM.html">NUM</a></tt> (164; 0% instances), <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -39,40 +39,43 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 `Gender` seems to be **lexical feature** of `NOUN`. 94% lemmas (11544) occur only with one value of `Gender`.
 
+### `PRON`
+
+11798 <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> tokens (45% of all `PRON` tokens) have a non-empty value of `Gender`.
+
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="no_bokmaal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (11798; 100%), <tt><a href="no_bokmaal-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (11387; 97%), <tt><a href="no_bokmaal-feat-Person.html">Person</a></tt><tt>=3</tt> (10250; 87%), <tt><a href="no_bokmaal-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (8655; 73%), <tt><a href="no_bokmaal-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (8655; 73%).
+
+`PRON` tokens may have the following values of `Gender`:
+
+* `Fem` (1034; 9% of non-empty `Gender`): <em>hun, henne, vår, hans, deres, si, hennes, di, mi</em>
+* `Fem,Masc` (548; 5% of non-empty `Gender`): <em>den, noen, denne, ingen, enhver, der</em>
+* `Masc` (3161; 27% of non-empty `Gender`): <em>han, sin, ham, min, hans, vår, din, deres, hennes</em>
+* `Neut` (7055; 60% of non-empty `Gender`): <em>det, dette, noe, sitt, alt, mitt, vårt, hans, hennes, ditt</em>
+* `EMPTY` (14157): <em>som, jeg, vi, de, seg, du, man, meg, hva, oss</em>
+
+<table>
+  <tr><th>Paradigm <i>sin</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>sin</em></td><td><em>si</em></td><td><em>sitt</em></td></tr>
+</table>
+
 ### `DET`
 
-12359 <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> tokens (75% of all `DET` tokens) have a non-empty value of `Gender`.
+10811 <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> tokens (75% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="no_bokmaal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12359; 100%), <tt><a href="no_bokmaal-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (10811; 87%), <tt><a href="no_bokmaal-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (6182; 50%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="no_bokmaal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10811; 100%), <tt><a href="no_bokmaal-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (6182; 57%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (496; 4% of non-empty `Gender`): <em>den, vår, hans, ei, noen, all, denne, hver, egen, annen</em>
-* `Masc` (7470; 60% of non-empty `Gender`): <em>en, den, sin, denne, min, ingen, annen, hans, hver, egen</em>
-* `Neut` (4393; 36% of non-empty `Gender`): <em>et, det, noe, annet, sitt, dette, hvert, mitt, vårt, eget</em>
-* `EMPTY` (4116): <em>de, andre, alle, sine, noen, selv, disse, samme, våre, slike</em>
+* `Fem` (360; 3% of non-empty `Gender`): <em>den, ei, noen, all, denne, hver, egen, annen, enhver, hvilken</em>
+* `Masc` (6554; 61% of non-empty `Gender`): <em>en, den, denne, ingen, annen, hver, egen, slik, noen, all</em>
+* `Neut` (3897; 36% of non-empty `Gender`): <em>et, det, noe, annet, dette, hvert, eget, alt, slikt, hvilket</em>
+* `EMPTY` (3569): <em>de, andre, alle, noen, selv, disse, samme, slike, neste, egne</em>
 
 <table>
   <tr><th>Paradigm <i>en</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
   <tr><td><tt><tt><a href="no_bokmaal-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>ens</em></td><td></td><td></td></tr>
   <tr><td><tt></tt></td><td><em>en</em></td><td><em>ei</em></td><td><em>et, er, at, ett</em></td></tr>
 </table>
-
-### `PRON`
-
-10250 <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> tokens (43% of all `PRON` tokens) have a non-empty value of `Gender`.
-
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="no_bokmaal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (10250; 100%), <tt><a href="no_bokmaal-feat-Person.html">Person</a></tt><tt>=3</tt> (10250; 100%), <tt><a href="no_bokmaal-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (9839; 96%), <tt><a href="no_bokmaal-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (7107; 69%), <tt><a href="no_bokmaal-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (7107; 69%).
-
-`PRON` tokens may have the following values of `Gender`:
-
-* `Fem` (898; 9% of non-empty `Gender`): <em>hun, henne</em>
-* `Fem,Masc` (548; 5% of non-empty `Gender`): <em>den, noen, denne, ingen, enhver, der</em>
-* `Masc` (2245; 22% of non-empty `Gender`): <em>han, ham</em>
-* `Neut` (6559; 64% of non-empty `Gender`): <em>det, dette, noe, alt, slikt, sånt, intet, dét, et</em>
-* `EMPTY` (13610): <em>som, jeg, vi, de, seg, du, man, meg, hva, oss</em>
-
-`Gender` seems to be **lexical feature** of `PRON`. 100% lemmas (15) occur only with one value of `Gender`.
 
 ### `ADJ`
 
@@ -128,24 +131,22 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 1 <tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `ADV` and `Gender` co-occurred: <tt><a href="no_bokmaal-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%).
-
 `ADV` tokens may have the following values of `Gender`:
 
 * `Masc` (1; 100% of non-empty `Gender`): <em>Jo</em>
-* `EMPTY` (12665): <em>ikke, også, så, nå, bare, her, da, selv, hvor, nok</em>
+* `EMPTY` (9977): <em>også, så, nå, bare, her, da, selv, hvor, nok, jo</em>
 
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="no_bokmaal-dep-det.html">det</a></tt>]--> DET</tt> (9413; 77%),
-<tt>NOUN --[<tt><a href="no_bokmaal-dep-nmod.html">nmod</a></tt>]--> DET</tt> (1517; 71%),
+<tt>NOUN --[<tt><a href="no_bokmaal-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (1546; 64%),
 <tt>ADJ --[<tt><a href="no_bokmaal-dep-expl.html">expl</a></tt>]--> PRON</tt> (552; 90%),
 <tt>ADJ --[<tt><a href="no_bokmaal-dep-conj.html">conj</a></tt>]--> ADJ</tt> (209; 78%),
 <tt>DET --[<tt><a href="no_bokmaal-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (121; 66%),
-<tt>NOUN --[<tt><a href="no_bokmaal-dep-acl.html">acl</a></tt>]--> NOUN</tt> (65; 55%),
+<tt>NOUN --[<tt><a href="no_bokmaal-dep-acl.html">acl</a></tt>]--> NOUN</tt> (67; 55%),
 <tt>PRON --[<tt><a href="no_bokmaal-dep-expl.html">expl</a></tt>]--> PRON</tt> (48; 52%),
-<tt>PRON --[<tt><a href="no_bokmaal-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (31; 51%),
-<tt>PRON --[<tt><a href="no_bokmaal-dep-acl-relcl.html">acl:relcl</a></tt>]--> ADJ</tt> (28; 72%),
-<tt>DET --[<tt><a href="no_bokmaal-dep-conj.html">conj</a></tt>]--> DET</tt> (27; 87%).
+<tt>DET --[<tt><a href="no_bokmaal-dep-conj.html">conj</a></tt>]--> DET</tt> (27; 90%),
+<tt>PRON --[<tt><a href="no_bokmaal-dep-acl-relcl.html">acl:relcl</a></tt>]--> ADJ</tt> (25; 71%),
+<tt>PRON --[<tt><a href="no_bokmaal-dep-det.html">det</a></tt>]--> DET</tt> (24; 51%).
 

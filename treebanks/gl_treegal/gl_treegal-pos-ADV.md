@@ -19,13 +19,13 @@ The 10 most frequent ambiguous types:  <em>máis</em> (<tt><a href="gl_treegal-p
 
 
 * <em>máis</em>
-  * <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> 97: <em>" Temos a xornada laboral <b>máis</b> longa de Europa .</em>
+  * <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> 97: <em>En titulares <b>máis</b> pequenos pode se ler :</em>
   * <tt><a href="gl_treegal-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Adxudicou se a a Sociedade Espazos Temolúdicos SA de capital maioritario de Caixa Galicia , a xestión privada de unha parte de a obra , nomeadamente a explotación comercial e os locais de hostalaría con o que se xerarán , en conxunto , case catrocentos empregos directos <b>máis</b> outros tantos indirectos , aspecto importante dada a elevada porcentaxe de paro existente en a comarca coruñesa .</em>
 * <em>como</em>
-  * <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> 80: <em>Xente nova , <b>como</b> dicía o anuncio , sobradamente preparada .</em>
-  * <tt><a href="gl_treegal-pos-SCONJ.html">SCONJ</a></tt> 49: <em>Sería <b>como</b> reeditar o goberno tripartito .</em>
+  * <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> 80: <em>Afirman a condición de Galiza <b>como</b> nación ;</em>
+  * <tt><a href="gl_treegal-pos-SCONJ.html">SCONJ</a></tt> 49: <em>E <b>como</b> o falar non ten cancela , engade :</em>
 * <em>só</em>
-  * <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> 26: <em>Son <b>só</b> consultas que responden a outras consultas previas .</em>
+  * <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> 26: <em>porque <b>só</b> ten cinco anos ?</em>
   * <tt><a href="gl_treegal-pos-ADJ.html">ADJ</a></tt> 3: <em>Libro que consta de un <b>só</b> poema , dividido en catro partes ( seis , sete , doce e catro poemas , respectivamente ) e mais un epitafio .</em>
 * <em>tanto</em>
   * <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> 14: <em>Moi cómoda , <b>tanto</b> en o partido como en o grupo municipal .</em>
@@ -39,7 +39,7 @@ The 10 most frequent ambiguous types:  <em>máis</em> (<tt><a href="gl_treegal-p
   * <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> 11: <em>Todo un exemplo para outros , <b>mesmo</b> para algúns nacidos en a propia casa .</em>
   * <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> 5: <em>A miña postura sobre iso vén de longo e o <b>mesmo</b> sucede con o meu partido .</em>
 * <em>moito</em>
-  * <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> 12: <em>Agora é <b>moito</b> máis grave " .</em>
+  * <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> 12: <em>Gustaría me <b>moito</b> desenvolver esta arte aquí por varias razóns .</em>
   * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 7: <em>Pois van de lado , temos Zapatero para <b>moito</b> tempo e Touriño será o próximo presidente .</em>
   * <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> 5: <em>Ademais se o alumno vai ser profesor de escola ou de música en xeral serve de <b>moito</b> ter certas nocións básicas para realizar acompañamentos .</em>
 * <em>si</em>
@@ -54,7 +54,7 @@ The 10 most frequent ambiguous types:  <em>máis</em> (<tt><a href="gl_treegal-p
 
 ## Morphology
 
-The form / lemma ratio of `ADV` is 1.031447 (the average of all parts of speech is 1.370813).
+The form / lemma ratio of `ADV` is 1.031447 (the average of all parts of speech is 1.370902).
 
 The 1st highest number of forms (3) was observed with the lemma “moito”: <em>moi, moito, moitísimo</em>.
 

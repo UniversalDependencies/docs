@@ -10,18 +10,18 @@ This relation is universal.
 
 1 nodes (0%) are attached to their parents as `orphan`.
 
-1 instances of `orphan` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 9.
+1 instances of `orphan` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.
 
-The following 1 pairs of parts of speech are connected with `orphan`: <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt>-<tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> (1; 100% instances).
+The following 1 pairs of parts of speech are connected with `orphan`: <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="gl_treegal-pos-PROPN.html">PROPN</a></tt> (1; 100% instances).
 
 
 ~~~ conllu
+# visual-style 57	bgColor:blue
+# visual-style 57	fgColor:white
 # visual-style 59	bgColor:blue
 # visual-style 59	fgColor:white
-# visual-style 50	bgColor:blue
-# visual-style 50	fgColor:white
-# visual-style 50 59 orphan	color:blue
+# visual-style 59 57 orphan	color:blue
 1	Son	ser	AUX	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
 2	fuxidos	fuxido	NOUN	Scmp	Gender=Masc|Number=Plur	0	root	_	_
 3	que	que	PRON	Tnmp	Gender=Masc|Number=Plur|PronType=Rel	4	nsubj	_	_
@@ -76,11 +76,11 @@ The following 1 pairs of parts of speech are connected with `orphan`: <tt><a hre
 52	un	un	NUM	Ncdms	Gender=Masc|Number=Sing|NumType=Card	53	nummod	_	_
 53	fillo	fillo	NOUN	Scms	Gender=Masc|Number=Sing	50	obj	_	SpaceAfter=No
 54	,	,	PUNCT	Q,	_	59	punct	_	_
-55	e	e	CCONJ	Cc	_	57	cc	_	_
+55	e	e	CCONJ	Cc	_	59	cc	_	_
 56	a	a	ADP	P	AdpType=Prep	57	case	_	_
-57	Marcial	Marcial	PROPN	Spm0	Gender=Masc	47	conj	_	_
+57	Marcial	Marcial	PROPN	Spm0	Gender=Masc	59	orphan	_	_
 58	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	59	det	_	_
-59	pai	pai	NOUN	Scms	Gender=Masc|Number=Sing	50	orphan	_	SpaceAfter=No
+59	pai	pai	NOUN	Scms	Gender=Masc|Number=Sing	50	conj	_	SpaceAfter=No
 60	)	)	PUNCT	Q)	_	50	punct	_	SpaceAfter=No
 61	,	,	PUNCT	Q,	_	62	punct	_	_
 62	poder	poder	AUX	V0f000	VerbForm=Inf	63	aux	_	_

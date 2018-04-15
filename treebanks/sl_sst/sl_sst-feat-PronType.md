@@ -41,7 +41,7 @@ The most frequent other feature values with which `DET` and `PronType` co-occurr
 
 1640 <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> tokens (100% of all `PRON` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="sl_sst-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (958; 58%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (901; 55%), <tt><a href="sl_sst-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (836; 51%).
+The most frequent other feature values with which `PRON` and `PronType` co-occurred: <tt><a href="sl_sst-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (958; 58%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (901; 55%), <tt><a href="sl_sst-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (837; 51%).
 
 `PRON` tokens may have the following values of `PronType`:
 

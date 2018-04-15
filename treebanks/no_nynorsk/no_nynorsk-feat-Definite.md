@@ -58,7 +58,7 @@ The most frequent other feature values with which `ADJ` and `Definite` co-occurr
 
 ### `DET`
 
-1024 <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> tokens (6% of all `DET` tokens) have a non-empty value of `Definite`.
+1024 <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> tokens (7% of all `DET` tokens) have a non-empty value of `Definite`.
 
 The most frequent other feature values with which `DET` and `Definite` co-occurred: <tt><a href="no_nynorsk-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (735; 72%), <tt><a href="no_nynorsk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (583; 57%).
 
@@ -66,7 +66,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 
 * `Def` (476; 46% of non-empty `Definite`): <em>same, sjølve, neste, førre, andre, Forrige, sama</em>
 * `Ind` (548; 54% of non-empty `Definite`): <em>anna, eigen, annan, eige, eiga, annen, egen</em>
-* `EMPTY` (15532): <em>ein, den, eit, dei, ei, det, alle, andre, denne, sin</em>
+* `EMPTY` (13982): <em>ein, den, eit, dei, ei, det, alle, andre, denne, noko</em>
 
 <table>
   <tr><th>Paradigm <i>annan</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
@@ -102,19 +102,17 @@ The most frequent other feature values with which `VERB` and `Definite` co-occur
 
 2 <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Definite`.
 
-The most frequent other feature values with which `ADV` and `Definite` co-occurred: <tt><a href="no_nynorsk-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (2; 100%).
-
 `ADV` tokens may have the following values of `Definite`:
 
 * `Def` (2; 100% of non-empty `Definite`): <em>sjølve</em>
-* `EMPTY` (11622): <em>ikkje, så, også, no, her, berre, slik, då, nok, òg</em>
+* `EMPTY` (9083): <em>så, også, no, her, berre, slik, då, nok, òg, korleis</em>
 
 ## Relations with Agreement in `Definite`
 
 The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>NOUN --[<tt><a href="no_nynorsk-dep-amod.html">amod</a></tt>]--> ADJ</tt> (8206; 56%),
-<tt>NOUN --[<tt><a href="no_nynorsk-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (5568; 52%),
-<tt>NOUN --[<tt><a href="no_nynorsk-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3240; 84%),
+<tt>NOUN --[<tt><a href="no_nynorsk-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (5570; 52%),
+<tt>NOUN --[<tt><a href="no_nynorsk-dep-conj.html">conj</a></tt>]--> NOUN</tt> (3238; 84%),
 <tt>ADJ --[<tt><a href="no_nynorsk-dep-conj.html">conj</a></tt>]--> ADJ</tt> (670; 85%),
 <tt>NOUN --[<tt><a href="no_nynorsk-dep-obl.html">obl</a></tt>]--> NOUN</tt> (326; 56%),
 <tt>ADJ --[<tt><a href="no_nynorsk-dep-obj.html">obj</a></tt>]--> NOUN</tt> (185; 81%),

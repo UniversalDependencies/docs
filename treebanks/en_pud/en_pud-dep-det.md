@@ -23,18 +23,18 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 det	color:blue
-1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_
-2	new	new	ADJ	JJ	Degree=Pos	3	amod	_	_
-3	spending	spending	NOUN	NN	Number=Sing	5	nsubj:pass	_	_
-4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	_
-5	fueled	fuel	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-6	by	by	ADP	IN	_	11	case	_	_
-7	Clinton	Clinton	PROPN	NNP	Number=Sing	11	nmod:poss	_	SpaceAfter=No
-8	’s	’s	PART	POS	_	7	case	_	_
-9	large	large	ADJ	JJ	Degree=Pos	11	amod	_	_
-10	bank	bank	NOUN	NN	Number=Sing	11	compound	_	_
-11	account	account	NOUN	NN	Number=Sing	5	obl	_	SpaceAfter=No
-12	.	.	PUNCT	.	_	5	punct	_	_
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+2	new	new	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+3	spending	spending	NOUN	NN	Number=Sing	5	nsubj:pass	5:nsubj:pass	_
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	5:aux:pass	_
+5	fueled	fuel	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+6	by	by	ADP	IN	_	11	case	11:case	_
+7	Clinton	Clinton	PROPN	NNP	Number=Sing	11	nmod:poss	11:nmod:poss	SpaceAfter=No
+8	’s	’s	PART	POS	_	7	case	7:case	_
+9	large	large	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+10	bank	bank	NOUN	NN	Number=Sing	11	compound	11:compound	_
+11	account	account	NOUN	NN	Number=Sing	5	obl	5:obl:by	SpaceAfter=No
+12	.	.	PUNCT	.	_	5	punct	5:punct	_
 
 ~~~
 
@@ -45,15 +45,15 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 det	color:blue
-1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	worked	work	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-3	for	for	ADP	IN	_	5	case	_	_
-4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	_
-5	BBC	BBC	PROPN	NNP	Number=Sing	2	obl	_	_
-6	for	for	ADP	IN	_	8	case	_	_
-7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	_
-8	decade	decade	NOUN	NN	Number=Sing	2	obl	_	SpaceAfter=No
-9	.	.	PUNCT	.	_	2	punct	_	_
+1	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+2	worked	work	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	for	for	ADP	IN	_	5	case	5:case	_
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	5:det	_
+5	BBC	BBC	PROPN	NNP	Number=Sing	2	obl	2:obl:for	_
+6	for	for	ADP	IN	_	8	case	8:case	_
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	8:det	_
+8	decade	decade	NOUN	NN	Number=Sing	2	obl	2:obl:for	SpaceAfter=No
+9	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 ~~~
 
@@ -64,11 +64,11 @@ The following 8 pairs of parts of speech are connected with `det`: <tt><a href="
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 det	color:blue
-1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	spotted	spot	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	_
-4	few	few	ADJ	JJ	Degree=Pos	2	obj	_	SpaceAfter=No
-5	.	.	PUNCT	.	_	2	punct	_	_
+1	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+2	spotted	spot	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	0:root	_
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	4:det	_
+4	few	few	ADJ	JJ	Degree=Pos	2	obj	2:obj	SpaceAfter=No
+5	.	.	PUNCT	.	_	2	punct	2:punct	_
 
 ~~~
 
