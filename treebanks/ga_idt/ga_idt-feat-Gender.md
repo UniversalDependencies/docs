@@ -123,7 +123,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 <table>
   <tr><th>Paradigm <i>mór</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
   <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>mhóir</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt></tt></td><td><em>mór, ró-mhór, ollmhór, mhór</em></td><td><em>mhór</em></td></tr>
+  <tr><td><tt><tt><a href="ga_idt-feat-Case.html">Case</a></tt><tt>=NomAcc</tt></tt></td><td><em>mór, mhór, ollmhór, ró-mhór</em></td><td><em>mhór</em></td></tr>
 </table>
 
 ### `X`

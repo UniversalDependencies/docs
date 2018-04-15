@@ -69,8 +69,8 @@ The most frequent other feature values with which `PROPN` and `Definite` co-occu
 * `EMPTY` (78): <em>де, Р-300, ван, -, 2000, ал, ди, дела, дьо, 173</em>
 
 <table>
-  <tr><th>Paradigm <i>ес</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>ЕС, Ес</em></td><td><em>ЕС</em></td></tr>
+  <tr><th>Paradigm <i>европа</i></th><th><tt>Ind</tt></th><th><tt>Def</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>Европа</em></td><td><em>Европата</em></td></tr>
 </table>
 
 `Definite` seems to be **lexical feature** of `PROPN`. 98% lemmas (2863) occur only with one value of `Definite`.

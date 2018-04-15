@@ -67,9 +67,6 @@ Text collections for evaluation of Russian morphological taggers. Jazykovedny Ca
 
 * Shavrina, Tatiana, Olga Shapovalova. (2017) To the methodology of corpus construction for machine learning: «Taiga» syntax tree corpus and parser. In Proceedings of the International Conference "CORPORA 2017", Saint-Petersbourg, Russia.
 
-
-<pre>
-
 # Statistics of UD Russian Taiga
 
 ## POS Tags

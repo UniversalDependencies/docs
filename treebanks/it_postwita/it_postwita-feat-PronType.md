@@ -55,7 +55,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 <table>
   <tr><th>Paradigm <i>che</i></th><th><tt>Int</tt></th><th><tt>Rel</tt></th><th><tt>Ind</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>che</em></td><td><em>che, ke, que, k</em></td><td><em>che</em></td></tr>
+  <tr><td><tt></tt></td><td><em>che</em></td><td><em>che, ke, k, que</em></td><td><em>che</em></td></tr>
 </table>
 
 ### `ADV`

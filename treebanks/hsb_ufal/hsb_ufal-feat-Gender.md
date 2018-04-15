@@ -60,7 +60,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
   <tr><td><tt><tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb_ufal-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>serbskeje</em></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Serbskeho</em></td><td><em>serbskeje</em></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>serbskich</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>serbsku, serbskej</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>serbskej, serbsku</em></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="hsb_ufal-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Serbskim</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Serbskim</em></td><td><em>serbskej</em></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb_ufal-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Serbski, SERBSKI</em></td><td><em>serbska</em></td><td></td></tr>
@@ -82,9 +82,9 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 * `EMPTY` (57): <em>Aššur, C, Adl, Angeles, Gasche, Los, Tamil, Tlustulimu, Beth, Bilād</em>
 
 <table>
-  <tr><th>Paradigm <i>Kurigalzu</i></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="hsb_ufal-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt></tt></td><td><em>Kurigalzu</em></td><td></td></tr>
-  <tr><td><tt></tt></td><td></td><td><em>Kurigalzu</em></td></tr>
+  <tr><th>Paradigm <i>Institut</i></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><tt><a href="hsb_ufal-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>Institut</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td></td><td><em>Institut</em></td></tr>
 </table>
 
 `Gender` seems to be **lexical feature** of `PROPN`. 99% lemmas (319) occur only with one value of `Gender`.

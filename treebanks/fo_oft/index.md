@@ -66,8 +66,6 @@ or second person, as can be expected from Wikipedia texts.
 The morphology and preliminary disambiguation was done by Trond Trosterud's
 finite-state morphology and constraint grammar for Faroese.
 
-<pre>
-
 # Statistics of UD Faroese OFT
 
 ## POS Tags

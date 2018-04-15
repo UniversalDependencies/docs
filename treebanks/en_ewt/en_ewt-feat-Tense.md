@@ -53,7 +53,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
   <tr><td><tt><tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_ewt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>is, 's, s, ’s, `s, ai</em></td><td><em>was</em></td></tr>
   <tr><td><tt><tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>was</em></td></tr>
   <tr><td><tt><tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_ewt-feat-Typo.html">Typo</a></tt><tt>=Yes</tt>|<tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>ar</em></td><td><em>wase</em></td></tr>
-  <tr><td><tt><tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>are, 'm, 're, m, r, re, ´m, art, is, ai, 's, ’m</em></td><td><em>were</em></td></tr>
+  <tr><td><tt><tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>are, 'm, 're, m, r, re, 's, ai, art, is, ´m, ’m</em></td><td><em>were</em></td></tr>
   <tr><td><tt><tt><a href="en_ewt-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>been</em></td></tr>
 </table>
 

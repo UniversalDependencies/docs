@@ -65,8 +65,6 @@ As a scholarly citation for the corpus in articles, please use this paper:
 
 * Zeldes, Amir (2017) "The GUM Corpus: Creating Multilayer Resources in the Classroom". Language Resources and Evaluation 51(3), 581–612.
 
-<pre>
-
 # Statistics of UD English GUM
 
 ## POS Tags

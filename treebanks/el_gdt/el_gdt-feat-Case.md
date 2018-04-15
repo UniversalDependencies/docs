@@ -51,7 +51,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 
 <table>
   <tr><th>Paradigm <i>ο</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>ο, το, O</em></td><td><em>τον, το</em></td><td></td><td><em>του</em></td></tr>
+  <tr><td><tt><tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>ο, O, το</em></td><td><em>τον, το</em></td><td></td><td><em>του</em></td></tr>
   <tr><td><tt><tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>οι</em></td><td><em>τους</em></td><td></td><td><em>των</em></td></tr>
   <tr><td><tt><tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>η</em></td><td><em>την, τη</em></td><td><em>τη</em></td><td><em>της, τις</em></td></tr>
   <tr><td><tt><tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>οι</em></td><td><em>τις</em></td><td></td><td><em>των</em></td></tr>
@@ -162,12 +162,8 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `EMPTY` (6257): <em>πρέπει, έχει, έχουν, μπορεί, είχε, αφορά, αποτελεί, δήλωσε, είχαν, έχουμε</em>
 
 <table>
-  <tr><th>Paradigm <i>χτίζω</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>χτισμένοι</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>χτισμένη</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>χτισμένες</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>χτισμένο</em></td><td><em>χτισμένο</em></td></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Gender.html">Gender</a></tt><tt>=Neut</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>χτισμένα</em></td><td></td></tr>
+  <tr><th>Paradigm <i>ολοκληρώνω</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>ολοκληρωμένη</em></td><td><em>ολοκληρωμένη</em></td></tr>
 </table>
 
 ### `ADP`

@@ -28,7 +28,7 @@ The most frequent other feature values with which `VERB` and `VerbForm` co-occur
 
 <table>
   <tr><th>Paradigm <i>izan</i></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
-  <tr><td><tt>_</tt></td><td><em>izan</em></td><td><em>izan, izanda, arizan</em></td></tr>
+  <tr><td><tt>_</tt></td><td><em>izan</em></td><td><em>izan, arizan, izanda</em></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt></tt></td><td><em>izaten</em></td><td></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt></tt></td><td></td><td><em>izan</em></td></tr>
   <tr><td><tt><tt><a href="eu_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Prosp</tt></tt></td><td></td><td><em>izango, izanen</em></td></tr>

@@ -57,7 +57,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
   <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td></td><td><em>τη</em></td><td><em>τω</em></td></tr>
   <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>του</em></td><td><em>της, τις</em></td><td><em>του</em></td></tr>
   <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>των</em></td><td><em>των</em></td><td><em>των</em></td></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>ο, το, O</em></td><td><em>η</em></td><td><em>το</em></td></tr>
+  <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>ο, O, το</em></td><td><em>η</em></td><td><em>το</em></td></tr>
   <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="el_gdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="el_gdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>οι</em></td><td><em>οι</em></td><td><em>τα</em></td></tr>
 </table>
 
@@ -117,10 +117,10 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 * `Neut` (166; 9% of non-empty `Gender`): <em>Κάστρο, Παγγαίου, Ελσίνκι, Μάλι, Αιγαίου, Στρασβούργο, Βέλγιο, Βίδο, Κάστρου, Πατητήρι</em>
 
 <table>
-  <tr><th>Paradigm <i>Σύβοτα</i></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Σύβοτα</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>Σύβοτα</em></td></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>Σύβοτα</em></td></tr>
+  <tr><th>Paradigm <i>Αχέροντας</i></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td></td><td><em>Αχέροντα</em></td></tr>
+  <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>Αχέροντα</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>Αχέροντας</em></td><td></td></tr>
 </table>
 
 `Gender` seems to be **lexical feature** of `PROPN`. 99% lemmas (593) occur only with one value of `Gender`.

@@ -217,7 +217,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 <table>
   <tr><th>Paradigm <i>on</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>ga, njega</em></td><td><em>je, ju, nju</em></td><td><em>ga, njega, nj</em></td></tr>
+  <tr><td><tt><tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>ga, njega</em></td><td><em>je, ju, nju</em></td><td><em>ga, nj, njega</em></td></tr>
   <tr><td><tt><tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>mu, njemu</em></td><td><em>joj, njoj</em></td><td></td></tr>
   <tr><td><tt><tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>njega</em></td><td><em>nje, je</em></td><td></td></tr>
   <tr><td><tt><tt><a href="hr_set-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td><em>njim, njime</em></td><td><em>njom, njome</em></td><td><em>njime, njim</em></td></tr>

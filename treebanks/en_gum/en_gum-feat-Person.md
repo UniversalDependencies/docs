@@ -44,7 +44,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 <table>
   <tr><th>Paradigm <i>be</i></th><th><tt>1</tt></th><th><tt>3</tt></th></tr>
   <tr><td><tt><tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>was</em></td><td><em>was</em></td></tr>
-  <tr><td><tt><tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>am</em></td><td><em>is, 's, ’s, s, isn</em></td></tr>
+  <tr><td><tt><tt><a href="en_gum-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>am</em></td><td><em>is, 's, ’s, isn, s</em></td></tr>
 </table>
 
 ### `VERB`

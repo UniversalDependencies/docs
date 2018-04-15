@@ -27,7 +27,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 <table>
   <tr><th>Paradigm <i>partij</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt>_</tt></td><td></td><td><em>partijen, partij(en), Partijen/Europese</em></td></tr>
+  <tr><td><tt>_</tt></td><td></td><td><em>partijen, Partijen/Europese, partij(en)</em></td></tr>
   <tr><td><tt><tt><a href="nl_lassysmall-feat-Gender.html">Gender</a></tt><tt>=Com</tt></tt></td><td><em>partij</em></td><td></td></tr>
 </table>
 

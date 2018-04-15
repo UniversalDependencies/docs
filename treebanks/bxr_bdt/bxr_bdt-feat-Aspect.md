@@ -30,7 +30,7 @@ The most frequent other feature values with which `VERB` and `Aspect` co-occurre
 
 <table>
   <tr><th>Paradigm <i>бай</i></th><th><tt>Imp</tt></th><th><tt>Perf</tt></th><th><tt>Prog</tt></th></tr>
-  <tr><td><tt><tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>байгаагүйб, байгааб</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>байгааб, байгаагүйб</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>байгааш</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Aor</tt></tt></td><td></td><td></td><td><em>байнабди</em></td></tr>
   <tr><td><tt><tt><a href="bxr_bdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>байгаад</em></td><td></td><td></td></tr>

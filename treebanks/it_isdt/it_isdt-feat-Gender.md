@@ -49,7 +49,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 <table>
   <tr><th>Paradigm <i>il</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
   <tr><td><tt><tt><a href="it_isdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt></tt></td><td></td><td><em>l’</em></td></tr>
-  <tr><td><tt><tt><a href="it_isdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_isdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>il, lo, l’, l', lu, i1, i</em></td><td><em>la, l’, l', le, il</em></td></tr>
+  <tr><td><tt><tt><a href="it_isdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="it_isdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>il, lo, l’, l', i, i1, lu</em></td><td><em>la, l’, l', le, il</em></td></tr>
   <tr><td><tt><tt><a href="it_isdt-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="it_isdt-feat-PronType.html">PronType</a></tt><tt>=Art</tt></tt></td><td><em>i, gli, il</em></td><td><em>le, l’</em></td></tr>
   <tr><td><tt><tt><a href="it_isdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>il</em></td><td><em>la</em></td></tr>
 </table>

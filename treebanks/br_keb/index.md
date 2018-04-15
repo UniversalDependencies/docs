@@ -73,8 +73,6 @@ year = 2018
 }
 ```
 
-<pre>
-
 # Statistics of UD Breton KEB
 
 ## POS Tags

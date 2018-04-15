@@ -63,7 +63,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 
 <table>
   <tr><th>Paradigm <i>indirect</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>_, añ, nnañ, nañ</em></td><td><em>i, _, nni, zi, ni</em></td></tr>
+  <tr><td><tt></tt></td><td><em>_, añ, nañ, nnañ</em></td><td><em>i, _, nni, zi, ni</em></td></tr>
 </table>
 
 ### `VERB`

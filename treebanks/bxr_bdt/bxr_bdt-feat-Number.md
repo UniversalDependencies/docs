@@ -29,9 +29,15 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
 * `EMPTY` (1068): <em>гэжэ, байгаа, бии, гээшэ, ажаһуудаг, болонхой, байдаг, боложо, болохо, бэлэй</em>
 
 <table>
-  <tr><th>Paradigm <i>гэ</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="bxr_bdt-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td></td><td><em>гэгшэд</em></td></tr>
-  <tr><td><tt><tt><a href="bxr_bdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Aor</tt>|<tt><a href="bxr_bdt-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>гэнэ</em></td><td></td></tr>
+  <tr><th>Paradigm <i>бай</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="bxr_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>байгааб, байгаагүйб</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="bxr_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>байгааш</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="bxr_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Imp</tt>|<tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td><em>байгаад</em></td></tr>
+  <tr><td><tt><tt><a href="bxr_bdt-feat-Aspect.html">Aspect</a></tt><tt>=Prog</tt>|<tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Aor</tt></tt></td><td></td><td><em>байнабди</em></td></tr>
+  <tr><td><tt><tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Aor</tt></tt></td><td><em>байнаб</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Aor</tt></tt></td><td></td><td><em>байнат</em></td></tr>
+  <tr><td><tt><tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Aor</tt></tt></td><td><em>байна</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="bxr_bdt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="bxr_bdt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>байһан, байһаншье</em></td><td></td></tr>
 </table>
 
 ### `NOUN`

@@ -101,9 +101,8 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `EMPTY` (31): <em>sum, ið</em>
 
 <table>
-  <tr><th>Paradigm <i>hon</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
-  <tr><td><tt><tt><a href="fo_oft-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fo_oft-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>hon</em></td><td><em>hana</em></td><td><em>henni</em></td><td><em>hennara</em></td></tr>
-  <tr><td><tt></tt></td><td><em>Hon</em></td><td></td><td></td><td></td></tr>
+  <tr><th>Paradigm <i>hann</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>hann</em></td><td><em>hann</em></td><td><em>honum</em></td><td><em>hansara</em></td></tr>
 </table>
 
 ### `NUM`

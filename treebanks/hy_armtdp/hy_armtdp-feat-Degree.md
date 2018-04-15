@@ -26,7 +26,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="hy_armtdp-pos-ADJ.h
 
 <table>
   <tr><th>Paradigm <i>լավ</i></th><th><tt>Pos</tt></th><th><tt>Sup</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>լավ</em></td><td><em>լավագույն, ամենալավ</em></td></tr>
+  <tr><td><tt></tt></td><td><em>լավ</em></td><td><em>ամենալավ, լավագույն</em></td></tr>
 </table>
 
 `Degree` seems to be **lexical feature** of `ADJ`. 98% lemmas (224) occur only with one value of `Degree`.

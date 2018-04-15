@@ -73,9 +73,9 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_perseus-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>maior</em></td><td><em>maior</em></td><td><em>maius</em></td></tr>
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_perseus-feat-Degree.html">Degree</a></tt><tt>=Cmp</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>maiores</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_perseus-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>maximus</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>magnus</em></td><td><em>magna, maxuma</em></td><td><em>maxumum, magnum</em></td></tr>
+  <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>magnus</em></td><td><em>magna, maxuma</em></td><td><em>magnum, maxumum</em></td></tr>
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>magnae</em></td><td><em>magna</em></td></tr>
-  <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Voc</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>maxime, magne</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Voc</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>magne, maxime</em></td><td></td><td></td></tr>
 </table>
 
 ### `PRON`
@@ -99,7 +99,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>quos</em></td><td><em>quas</em></td><td><em>quae</em></td></tr>
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>cui</em></td><td><em>cui</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>quibus</em></td><td></td><td><em>quibus</em></td></tr>
-  <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>cuius, quoius</em></td><td><em>cuius</em></td><td><em>quoius, cuius</em></td></tr>
+  <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>cuius, quoius</em></td><td><em>cuius</em></td><td><em>cuius, quoius</em></td></tr>
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>quorum</em></td><td><em>quarum</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>qui</em></td><td><em>quae</em></td><td><em>quod</em></td></tr>
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_perseus-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>qui</em></td><td><em>quae</em></td><td><em>quae</em></td></tr>
