@@ -7,13 +7,13 @@ udver: '2'
 <table>
 <tr>
   <td width="50%" valign="top">
-<h1>UD_Romanian</h1>
-
-  </td>
-  <td width="50%" valign="top">
 <h1>UD_Romanian-Nonstandard</h1>
 
   </td>
+  <td width="50%" valign="top">
+<h1>UD_Romanian-RRT</h1>
+
+  </td>
 </tr>
 <tr>
   <td width="50%" valign="top">
@@ -28,37 +28,37 @@ udver: '2'
   </td>
 </tr>
 <tr>
+  <td width="50%" valign="top">
+<ul>
+<li>This corpus contains 6305 sentences and 116554 tokens.</li>
+</ul>
+
+  </td>
   <td width="50%" valign="top">
 <ul>
 <li>This corpus contains 9524 sentences and 218511 tokens.</li>
 </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
 <ul>
-<li>This corpus contains 1200 sentences and 20668 tokens.</li>
+<li>This corpus contains 19668 tokens (17%) that are not followed by a space.</li>
 </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
 <ul>
 <li>This corpus contains 29742 tokens (14%) that are not followed by a space.</li>
 </ul>
 
   </td>
-  <td width="50%" valign="top">
-<ul>
-<li>This corpus contains 3901 tokens (19%) that are not followed by a space.</li>
-</ul>
-
-  </td>
 </tr>
 <tr>
   <td width="50%" valign="top">
 <ul>
-<li>This corpus does not contain words with spaces.</li>
+<li>This corpus contains 4 types of words with spaces. Examples: ca să, ca și, de la, de sus</li>
 </ul>
 
   </td>
@@ -70,18 +70,18 @@ udver: '2'
   </td>
 </tr>
 <tr>
+  <td width="50%" valign="top">
+<ul>
+<li>This corpus contains 335 types of words that contain both letters and punctuation. Examples: -i, -l, n-, s-, într-, m-, -să, -mi, -n, -o, -va, -ți, -s, mi-, l-, -au, de-, te-, -și, i-, ne-, -te, ce-, și-, ți-, -am, le-, -mă, şi-, -a, c-, -vă, dentr-, -său, -veți, -voiu, -ai, -sa, pe-, pentr-, -ar, -se, -vor, -un, v-, -aș, -oi, sculîndu-, să-, ș-</li>
+</ul>
+
+  </td>
   <td width="50%" valign="top">
 <ul>
 <li>This corpus contains 701 types of words that contain both letters and punctuation. Examples: s-, într-, și-, -i, -și, -l, art., -se, a., n-, -o, l-, dintr-, nr., i-, de-, m-, -a, b., -mi, printr-, lit., -ți, mi-, -n, -lea, alin., le-, ne-, -ul, I., v-, O'Brien, n., c., D., ți-, -ului, pct., -vă, te-, 17-beta, într-adevăr, Al., a-, de-a, -mă, etc., tele-ecran, -le</li>
 </ul>
 
   </td>
-  <td width="50%" valign="top">
-<ul>
-<li>This corpus contains 118 types of words that contain both letters and punctuation. Examples: -i, -l, n-, s-, -mi, -ți, -n, -o, -am, într-, -a, -va, mi-, -s, -și, -ai, l-, m-, -să, -aș, -te, -se, -sa, -său, de-, te-, -ar, -mă, le-, și-, ce-, i-, ți-, -un, -au, -om, -vor, dentr-, pân-, ș-, -al, -vă, C-, pe-, -așteaptă, -ați, -ncoace, -ne, -ta, -vei</li>
-</ul>
-
-  </td>
 </tr>
 <tr>
   <td width="50%" valign="top">
@@ -96,16 +96,6 @@ udver: '2'
   </td>
 </tr>
 <tr>
-  <td width="50%" valign="top">
-<h2>Morphology</h2>
-
-<h3>Tags</h3>
-
-<ul>
-<li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
-</ul>
-
-  </td>
   <td width="50%" valign="top">
 <h2>Morphology</h2>
 
@@ -117,87 +107,97 @@ udver: '2'
 </ul>
 
   </td>
+  <td width="50%" valign="top">
+<h2>Morphology</h2>
+
+<h3>Tags</h3>
+
+<ul>
+<li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
+</ul>
+
+  </td>
 </tr>
 <tr>
+  <td width="50%" valign="top">
+<ul>
+<li>This corpus contains 8 word types tagged as particles (PART): -a, a, ca, ca să, s-, să, să-, xă</li>
+</ul>
+
+  </td>
   <td width="50%" valign="top">
 <ul>
 <li>This corpus contains 8 word types tagged as particles (PART): -a, a, a-, n-, nu, o, s-, să</li>
 </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
 <ul>
-<li>This corpus contains 4 word types tagged as particles (PART): a, ca, s-, să</li>
+<li>This corpus contains 104 lemmas tagged as pronouns (PRON): -te, -ul, Măriia, aceaia, aceala, aceea, acel, acela, acest, acesta, aela, alt, altul, atât, atâta, care, ce, cealaltă, ceialaltă, cel, cela, celălalt, cesta, ceva, ci, cine, cineva, cineși, cât, câte, că, dumneata, dânsa, dânsu, dânsul, ea, eiși, el, ele, eluși, eu, fi, fiecare, fiecine, fiește, fiștecare, fiștecine, fiștecăruia, l, lamma, lor, loruși, lui, m, meu, mie, mineși, mult, măria, mărie, neștine, niciun, niciunul, nime, nimeni, nimic, nimica, nimicuța, nimică, noao, noi, nostru, oarecare, oarece, oarecine, puțin, puțîn, se, sfinția, sfinție, siine, sine, ssine, să, său, tot, totul, tu, tău, unu, unul, vi, voao, voi, voiși, vreunul, îns, însul, însumi, însuși, însuți, ălalalt, ăsta, și</li>
 </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
 <ul>
 <li>This corpus contains 49 lemmas tagged as pronouns (PRON): acela, același, acesta, altceva, altcineva, altul, atât, care, ce, celălalt, ceva, cine, cineva, cutare, cât, câtva, destul, dumnealui, dumneata, dumneavoastră, dvs., dânsul, el, eu, fiecare, lui, meu, mult, nici_unul, nimeni, nimic, oarecare, oricare, orice, oricine, oricât, orișice, orișicine, puțin, sine, său, tot, tu, tău, unul, vreunul, Î.P.S., însul, ș.a.</li>
 </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
 <ul>
-<li>This corpus contains 58 lemmas tagged as pronouns (PRON): aceea, acel, acela, acesta, aela, altul, care, ce, cealaltă, cel, celălalt, ceva, cine, cineva, cât, câte, că, dumneata, dânsa, dânsul, ea, el, eluși, eu, fiecare, fiștecare, fiștecine, l, lor, m, meu, mult, nimeni, nimic, nimica, nimică, noi, nostru, oarece, oarecine, se, siine, sine, ssine, tot, tu, tău, unu, unul, voao, voi, vreunul, însul, însuși, însuți, ălalalt, ăsta, și</li>
+<li>This corpus contains 67 lemmas tagged as determiners (DET): -atâta, -lui, -mieu, -ul, =ul, a, aceasta, aceea, acel, acela, același, acest, acesta, acătare, al, alt, altul, atât, au, care, ce, ceale, cel, cela, celălalt, ceva, ci, cât, câte, câtva, destul, el, fiecare, ista, meeu, meu, mie, mult, multă, nicio, niciun, niște, nostru, oare, oare-, orice, plin, puțin, puțintel, său, toată, tot, tău, ul, un, unul, vostru, vreo, vreun, vrun, însul, însumi, însuși, însuți, ăl, ăst, ăsta</li>
 </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
 <ul>
 <li>This corpus contains 44 lemmas tagged as determiners (DET): -a, -ilor, -lea, -ul, -ului, -uri, -urile, -urilor, acel, acela, același, acest, acesta, al, alt, anumit, atât, care, ce, cel, celelat, celălalt, cest, cutare, cât, câtva, destul, fiecare, lui, meu, mult, nici_un, niște, oarecare, oricare, orice, puțin, său, tot, tău, un, vreun, însumi, însuși</li>
 </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
 <ul>
-<li>This corpus contains 36 lemmas tagged as determiners (DET): -ul, aceasta, aceea, acela, acesta, al, alt, altul, atât, care, ce, cel, ceva, cât, câte, fiecare, meeu, meu, mult, niciun, nostru, oare, oare-, orice, puțin, puțintel, său, tot, tău, ul, un, vostru, vreo, vreun, ăl, ăsta</li>
+<li>Out of the above, 35 lemmas occurred sometimes as PRON and sometimes as DET: -ul, aceea, acel, acela, acest, acesta, alt, altul, atât, care, ce, cel, cela, celălalt, ceva, ci, cât, câte, el, fiecare, meu, mie, mult, niciun, nostru, puțin, său, tot, tău, unul, însul, însumi, însuși, însuți, ăsta</li>
 </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
 <ul>
 <li>Out of the above, 22 lemmas occurred sometimes as PRON and sometimes as DET: acela, același, acesta, atât, care, ce, celălalt, cutare, cât, câtva, destul, fiecare, lui, meu, mult, oarecare, oricare, orice, puțin, său, tot, tău</li>
 </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
 <ul>
-<li>Out of the above, 17 lemmas occurred sometimes as PRON and sometimes as DET: aceea, acela, acesta, altul, care, ce, cel, ceva, cât, câte, fiecare, meu, mult, nostru, tot, tău, ăsta</li>
+<li>This corpus contains 15 lemmas tagged as auxiliaries (AUX): a, afire, au, avea, ați, ea, fi, putea, putere, seca, trebui, tu, veni, vrea, ști</li>
 </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
 <ul>
 <li>This corpus contains 3 lemmas tagged as auxiliaries (AUX): avea, fi, vrea</li>
 </ul>
 
   </td>
-  <td width="50%" valign="top">
-<ul>
-<li>This corpus contains 5 lemmas tagged as auxiliaries (AUX): avea, fi, putea, vrea, ști</li>
-</ul>
-
-  </td>
 </tr>
 <tr>
   <td width="50%" valign="top">
 <ul>
-<li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: avea, fi, vrea</li>
+<li>Out of the above, 8 lemmas occurred sometimes as AUX and sometimes as VERB: avea, fi, putea, seca, trebui, veni, vrea, ști</li>
 </ul>
 
   </td>
   <td width="50%" valign="top">
 <ul>
-<li>Out of the above, 5 lemmas occurred sometimes as AUX and sometimes as VERB: avea, fi, putea, vrea, ști</li>
+<li>Out of the above, 3 lemmas occurred sometimes as AUX and sometimes as VERB: avea, fi, vrea</li>
 </ul>
 
   </td>
@@ -221,8 +221,9 @@ udver: '2'
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: este, sunt, era, fie, e, erau, fusese, -i, sunteți, eram</li>
-    <li>VERB: poate, trebuie, pot, are, avea, este, era, există, putea, au</li>
+    <li>AUX: are</li>
+    <li>PROPN: Avraame</li>
+    <li>VERB: zise, iaste, era, -i, e, zisără, zic, fu, veni, fie</li>
   </ul>
   </li>
 </ul>
@@ -232,7 +233,8 @@ udver: '2'
 <ul>
   <li>Fin
   <ul>
-    <li>VERB: zise, iaste, -i, născu, e, zic, era, face, sînt, veni</li>
+    <li>AUX: este, sunt, era, fie, e, erau, fusese, -i, sunteți, eram</li>
+    <li>VERB: poate, trebuie, pot, are, avea, este, era, există, putea, au</li>
   </ul>
   </li>
 </ul>
@@ -245,7 +247,7 @@ udver: '2'
   <li>Ger
   <ul>
     <li>AUX: fiind, nefiind</li>
-    <li>VERB: având, începând, ținând, făcând, fiind, lăsând, urmând, înregistrând, putând, reprezentând</li>
+    <li>VERB: zicînd, răspunzînd, văzînd, fiind, auzind, eșind, grăind, zicând, mergînd, întrînd</li>
   </ul>
   </li>
 </ul>
@@ -255,8 +257,8 @@ udver: '2'
 <ul>
   <li>Ger
   <ul>
-    <li>AUX: fiind</li>
-    <li>VERB: zicînd, grăind, răspunzînd, văzînd, auzind, fiind, eșind, întrînd, apropiindu, avînd</li>
+    <li>AUX: fiind, nefiind</li>
+    <li>VERB: având, începând, ținând, făcând, fiind, lăsând, urmând, înregistrând, putând, reprezentând</li>
   </ul>
   </li>
 </ul>
@@ -264,6 +266,17 @@ udver: '2'
   </td>
 </tr>
 <tr>
+  <td width="50%" valign="top">
+<ul>
+  <li>Inf
+  <ul>
+    <li>AUX: fi, putea, puteare, afire, fire</li>
+    <li>VERB: fi, da, face, veni, zice, lua, vedea, mearge, creade, lăsa</li>
+  </ul>
+  </li>
+</ul>
+
+  </td>
   <td width="50%" valign="top">
 <ul>
   <li>Inf
@@ -275,19 +288,19 @@ udver: '2'
 </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
 <ul>
-  <li>Inf
+  <li>Part
   <ul>
-    <li>AUX: fi, putea</li>
-    <li>VERB: da, face, fi, lua, zice, erta, grăi, piiarde, veni, afla</li>
+    <li>AUX: fost, vrut, putut</li>
+    <li>VERB: făcut, venit, fost, dat, scris, văzut, luat, zis, trimes, pus</li>
   </ul>
   </li>
 </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
 <ul>
   <li>Part
@@ -299,41 +312,46 @@ udver: '2'
 </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
-<ul>
-  <li>Part
+<h3>Nominal Features</h3>
+
+
+  </td>
+  <td width="50%" valign="top">
+<h3>Nominal Features</h3>
+
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<li><a>Gender</a>
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>Gender</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
   <ul>
-    <li>AUX: fost</li>
-    <li>VERB: făcut, venit, fost, luat, zis, dat, murit, văzut, aflat, eșit</li>
+    <li>Fem
+      <ul>
+        <li>ADJ: mare, bună, frumoasă, verde, neagră, bune, mari, grecească, noao, rea</li>
+        <li>DET: a, o, toate, toată, mea, ta, tot, aceasta, multă, multe</li>
+        <li>NOUN: împărățiia, casa, casă, apă, muiarea, mulțime, zi, cale, zilele, inima</li>
+        <li>NUM: doao, treia, două, sută, mie, trei, cinci, patra, șapte, jumătate</li>
+        <li>PRON: o, aceasta, aceaia, aceastea, carea, le, toate, ei, ia, -o</li>
+        <li>PROPN: Maria, Galilea, evangheliia, Iudea, evanghelia, Galileei, Magdalina, Marta, evanghelii, Elisafta</li>
+        <li>VERB-Part: dată, scrise, scrisă, uscată, ascunsă, pusă, făcută, gătită, zisă, făcute</li>
+      </ul>
+    </li>
   </ul>
-  </li>
-</ul>
 
   </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-<h3>Nominal Features</h3>
-
-
-  </td>
-  <td width="50%" valign="top">
-<h3>Nominal Features</h3>
-
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-<li><a>Gender</a>
-
-  </td>
-  <td width="50%" valign="top">
-<li><a>Gender</a>
-
-  </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
   <ul>
     <li>Fem
@@ -350,24 +368,24 @@ udver: '2'
   </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Fem
+    <li>Masc
       <ul>
-        <li>ADJ: mare, bună, bune, reale, verde, nouă, rea, strîmtă, albă, curată</li>
-        <li>DET: o, tot, a, toată, ta, sa, toate, mea, voastră, multe</li>
-        <li>NOUN: împărățiia, casa, ceriurelor, casă, muma, inima, muiarea, pîini, apă, milă</li>
-        <li>NUM: două, trei, șapte, doao, mie, cinci, sută, patru, noao, noaozeci</li>
-        <li>PRON: o, le, carea, toate, aceaia, -o, aceasta, ia, aceastea, ei</li>
-        <li>PROPN: Chira, Galilea, Gheenă, Iudea, Maria, Mariia, Orade, Vitsaida, Anița, Bistrița</li>
-        <li>VERB-Part: dată, lăsată, zisă, Asămănată, ascunsă, făcute, perite, pusă, temeiată, Aduse</li>
+        <li>ADJ: mare, omenesc, bun, verde, sfînt, rău, nou, mari, curat, mic</li>
+        <li>DET: un, mieu, al, tău, cel, cei, său, vostru, toți, săi</li>
+        <li>NOUN: fiiul, tatăl, ucenicii, adevăr, doamne, om, numele, domnul, ceriu, domnului</li>
+        <li>NUM: doi, doisprăzeace, întăiu, întîi, dentîi, zeace, un, amîndoi, cinci, trei</li>
+        <li>PRON: el, lui, -l, ei, carele, cela, carii, unul, -i, acesta</li>
+        <li>PROPN: Iisus, Dumnezău, Hristos, Ioan, Pătru, Pilat, Simon, David, Ierosalim, Dumnedzău</li>
+        <li>VERB-Part: scris, zis, trimes, născut, aruncat, făcut, pus, fericiți, iubit, luminat</li>
       </ul>
     </li>
   </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
   <ul>
     <li>Masc
@@ -385,64 +403,66 @@ udver: '2'
   </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Masc
+  </ul>
+</li>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<li><a>Number</a>
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>Number</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Plur
       <ul>
-        <li>ADJ: omenesc, mare, bun, rău, destoinic, mici, drag, mic, negru, nou</li>
-        <li>DET: tău, un, mieu, vostru, săi, său, al, cei, cel, mulți</li>
-        <li>NOUN: ucenicii, fiiul, tatăl, Doamne, adevăr, ceriu, om, pămînt, cuvîntul, numele</li>
-        <li>NUM: doi, dentîi, doisprăzeace, întîi, amîndoi, trei, amândoi, doispăzeace, patru, treilea</li>
-        <li>PRON: lui, el, -l, ei, carele, cela, carii, unul, -i, l-</li>
-        <li>PROPN: Iisus, Hristos, Ioan, Dumnedzău, Pătru, Dumnedzeu, Irod, Iacov, David, Dumnezeu</li>
-        <li>VERB-Part: zis, scris, aruncat, fericiți, adunați, iubit, luminat, măsurat, prins, urîți</li>
+        <li>ADJ: mari, bune, mici, negri, necurate, fățarnici, minciunoși, pline, reale, buni</li>
+        <li>AUX: au, am, vor, veți, ați, -am, vom, or, -veți, sînt</li>
+        <li>DET: toate, cei, multe, toți, meale, săi, tăi, mulți, voastre, ai</li>
+        <li>NOUN: ucenicii, ochii, popilor, zilele, oamenilor, oameni, cuvintele, marii, oamenii, picioarele</li>
+        <li>NUM: doi, trei, cinci, doisprăzeace, doao, două, șapte, patru, nouă, zeace</li>
+        <li>PRON: lor, ei, voi, voao, vă, carii, le, aceastea, noi, -i</li>
+        <li>PROPN: Paștile, Hristoși, evanghelii, Carpați, Paștilor, Vitfaghi, Vărzărești, zile, Bâlhăci, Cernăuți</li>
+        <li>VERB-Fin: zisără, zic, veniră, -s, sînt, știți, mearsără, faceți, ziceți, vor</li>
+        <li>VERB-Part: scrise, fericiți, adunați, chemați, făcute, nespălate, urîți, îngreuiați, dați, ertate</li>
       </ul>
     </li>
   </ul>
 
   </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-<li><a>Number</a>
-
-  </td>
-  <td width="50%" valign="top">
-<li><a>Number</a>
-
-  </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
   <ul>
     <li>Plur
@@ -462,25 +482,28 @@ udver: '2'
   </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Plur
+    <li>Sing
       <ul>
-        <li>ADJ: bune, mici, reale, răi, buni, moi, nevinovați, omenești, pline, sănătoși</li>
-        <li>AUX: au, am, vor, veți, ați, -am, -ar, vom, -om, -s</li>
-        <li>DET: toate, săi, cei, multe, voastre, mulți, aceastea, ceale, celor, sale</li>
-        <li>NOUN: ucenicii, ceriurelor, oamenilor, oameni, oamenii, pîini, ucenicilor, ori, frații, îngerii</li>
-        <li>NUM: doi, trei, cinci, două, șapte, doao, nouă, doisprăzeace, patru, amîndoi</li>
-        <li>PRON: lor, ei, voao, voi, vă, le, ne, toate, -i, carii</li>
-        <li>VERB-Fin: sînt, veniră, zisără, -s, adusără, vor, fac, faceți, zic, văzură</li>
-        <li>VERB-Part: fericiți, adunați, făcute, perite, urîți, Aduse, aduși, auziți, bătute, chinuite</li>
+        <li>ADJ: mare, omenesc, bună, verde, bun, sfînt, rău, nou, frumoasă, curat</li>
+        <li>AUX: va, a, voiu, ai, -va, ară, vei, -au, am, -i</li>
+        <li>AUX-Fin: are</li>
+        <li>DET: lui, un, a, o, mieu, al, tău, mea, toată, cel</li>
+        <li>NOUN: fiiul, tatăl, adevăr, doamne, om, numele, împărățiia, casa, domnul, ceriu</li>
+        <li>NUM: întăiu, treia, sută, mie, dentîiu, întîi, dentîi, doao, patra, un</li>
+        <li>PRON: el, lui, -l, carele, eu, mine, te, mă, -i, o</li>
+        <li>PROPN: Iisus, Dumnezău, Hristos, Ioan, Pătru, Pilat, Simon, David, Ierosalim, Maria</li>
+        <li>PROPN-Fin: Avraame</li>
+        <li>VERB-Fin: zise, iaste, era, -i, e, fu, veni, ești, răspunse, zicea</li>
+        <li>VERB-Part: scris, zis, dată, trimes, născut, aruncat, făcut, pus, scrisă, iubit</li>
       </ul>
     </li>
   </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
   <ul>
     <li>Sing
@@ -501,50 +524,43 @@ udver: '2'
   </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Sing
+  </ul>
+</li>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<li><a>Case</a>
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>Case</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Acc
       <ul>
-        <li>ADJ: mare, omenesc, bun, bună, rău, destoinic, verde, drag, dulce, mic</li>
-        <li>AUX: va, a, ară, voiu, -a, -va, ai, vei, -ai, iaste</li>
-        <li>DET: lui, tău, un, o, mieu, tot, ta, toată, sa, vostru</li>
-        <li>NOUN: fiiul, împărățiia, tatăl, Doamne, casa, adevăr, ceriu, om, casă, muma</li>
-        <li>NUM: mie, sută, întîi, dentîi, treia, dintîi, patra, patru, treilea, un</li>
-        <li>PRON: lui, el, -l, te, mine, carele, o, eu, -mi, cela</li>
-        <li>PROPN: Iisus, Hristos, Ioan, Dumnedzău, Pătru, Dumnedzeu, Irod, Iacov, David, Dumnezeu</li>
-        <li>VERB-Fin: zise, iaste, -i, născu, e, era, face, veni, are, zic</li>
-        <li>VERB-Part: zis, scris, aruncat, dată, lăsată, zisă, Asămănată, ascunsă, iubit, luminat</li>
+        <li>ADP: de, pre, în, la, cu, den, ca, pe, întru, cătră</li>
+        <li>PRON: să, el, -l, mine, mă, te, ei, voi, o, se</li>
       </ul>
     </li>
   </ul>
 
   </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-<li><a>Case</a>
-
-  </td>
-  <td width="50%" valign="top">
-<li><a>Case</a>
-
-  </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
   <ul>
     <li>Acc
@@ -556,19 +572,24 @@ udver: '2'
   </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Acc
+    <li>Acc,Nom
       <ul>
-        <li>ADP: de, pre, în, cu, la, pe, din, den, întru, după</li>
-        <li>PRON: să, el, -l, te, se, mine, o, mă, ei, vă</li>
+        <li>ADJ: mare, omenesc, bună, verde, bun, sfînt, rău, mari, nou, frumoasă</li>
+        <li>DET: un, a, o, al, toate, toată, mea, cel, ta, tot</li>
+        <li>NOUN: fiiul, tatăl, ucenicii, adevăr, om, numele, împărățiia, casa, domnul, ceriu</li>
+        <li>NUM: sută, doao, mie, amîndoi, jumătate, amândoi, mii, una, amîndoao, Unu</li>
+        <li>PRON: ce, el, carele, cine, voi, aceasta, aceaia, carii, cela, tu</li>
+        <li>PROPN: Iisus, Dumnezău, Hristos, Ioan, Pătru, Pilat, Simon, David, Ierosalim, Maria</li>
+        <li>VERB-Part: dată, scrisă, uscată, ascunsă, pusă, făcută, gătită, zisă, luminată, aleasă</li>
       </ul>
     </li>
   </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
   <ul>
     <li>Acc,Nom
@@ -584,24 +605,20 @@ udver: '2'
   </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Acc,Nom
+    <li>Dat
       <ul>
-        <li>ADJ: mare, omenesc, bună, bun, rău, bune, destoinic, verde, drag, dulce</li>
-        <li>DET: un, o, tot, a, ce, toată, ta, sa, toate, mea</li>
-        <li>NOUN: ucenicii, fiiul, împărățiia, tatăl, casa, adevăr, ceriu, om, casă, muma</li>
-        <li>NUM: mie, sută, amîndoi, amândoi, amîndoao, mii, treilea</li>
-        <li>PRON: ce, carele, cine, el, cela, carea, tu, toate, carii, aceaia</li>
-        <li>PROPN: Iisus, Hristos, Ioan, Dumnedzău, Pătru, Dumnedzeu, Irod, Iacov, David, Dumnezeu</li>
-        <li>VERB-Part: dată, lăsată, zisă, Asămănată, ascunsă, pusă, temeiată, Fericită, călcată, deschisă</li>
+        <li>ADP: derept, asemenea, înainte</li>
+        <li>CCONJ: și</li>
+        <li>PRON: lor, lui, voao, -i, -mi, ție, -ți, mi-, mi, -și</li>
       </ul>
     </li>
   </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
   <ul>
     <li>Dat
@@ -613,19 +630,24 @@ udver: '2'
   </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Dat
+    <li>Dat,Gen
       <ul>
-        <li>ADP: Derept</li>
-        <li>PRON: lui, voao, lor, -mi, -i, -ți, ție, mi, mi-, -și</li>
+        <li>ADJ: marelui, reale, sfintei, Cinstitului, Matei, Negre, Ungurești, blagoslovitului, bune, cerești</li>
+        <li>DET: lui, celui, tale, celor, sale, aceluia, meale, acestuia, unui, mele</li>
+        <li>NOUN: domnului, oamenilor, popilor, ucenicilor, jidovilor, tatălui, lumii, ceriului, ceriurelor, omului</li>
+        <li>NUM: mulțimei, mii, sute, amîndurora, tusșapte</li>
+        <li>PRON: lor, cui, căruia, celuia, celor, celora, cărora, tuturor, celui, aceluia</li>
+        <li>PROPN: Galileei, Marii, Galileiului, Iudei, Sidonului, Tirului, Iudeei, Ardealului, Gheennei, Iordanului</li>
+        <li>VERB-Part: arate, aduse, curate, dată, nedespărțitei, pierdute, uscate</li>
       </ul>
     </li>
   </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
   <ul>
     <li>Dat,Gen
@@ -641,22 +663,19 @@ udver: '2'
   </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Dat,Gen
+    <li>Gen
       <ul>
-        <li>ADJ: marelui, reale</li>
-        <li>DET: lui, celor, celui, acestuia, sale, Tale, acelui, aceluia, aceștii, aceștiia</li>
-        <li>NOUN: ceriurelor, oamenilor, ceriului, omului, ucenicilor, Tatălui, domnului, fratelui, lumii, pămîntului</li>
-        <li>PRON: lor, cui, celora, celor, acelora, cărora, tuturor, -le, Acestuia, Căruia</li>
-        <li>PROPN: Galileiului, Iudei, Sidonului, Sodomului, Tirului, Chesarii, Dar, Dumnedzeu, Dumnedzeului, Galileii</li>
+        <li>ADP: înaintea, împrotiva, deasupra, desupra, împregiurul, înainte, aseamenea, asemanea, asupra, denaintea</li>
+        <li>PRON: lui, ei, măriei, o, lor, mării, sfinției</li>
       </ul>
     </li>
   </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
   <ul>
     <li>Gen
@@ -667,19 +686,18 @@ udver: '2'
   </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Gen
+    <li>Nom
       <ul>
-        <li>ADP: înaintea, asemanea, deasupra, Aseamenile, asemenea, denlontrul, Împrejuru, înainte</li>
-        <li>PRON: lui, ei, lor</li>
+        <li>PRON: eu, ei, noi, le, înși, înșii, eu-, ne-, m-, iale</li>
       </ul>
     </li>
   </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
   <ul>
     <li>Nom
@@ -690,18 +708,20 @@ udver: '2'
   </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Nom
+    <li>Voc
       <ul>
-        <li>PRON: eu, ei, noi, -i, dînșii, iale</li>
+        <li>ADJ: Cinstite, Galantoane, Sfinte, bune, bătrîne, dereapte, dragă, oarbe, răule, străine</li>
+        <li>NOUN: doamne, Învățătoriule, părinte, bădiță, Dascale, bade, Soațe, Trenule, fățarnicilor, Berbecuțule</li>
+        <li>PROPN: Iisuse, Staline, Manole, Doamne, Simone, Bucovină, Ierosalime, Bujore, Ole, Eloi</li>
       </ul>
     </li>
   </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
   <ul>
     <li>Voc
@@ -712,60 +732,63 @@ udver: '2'
   </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Voc
+  </ul>
+</li>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<li><a>Definite</a>
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>Definite</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Def
       <ul>
-        <li>ADJ: Cinstite, bune, bătrîne, străine</li>
-        <li>NOUN: Doamne, murgule, părinte, bade, bădiță, Fățarnicilor, mândro, Învățătoare, Cucule, Cuculețule</li>
-        <li>PROPN: Doamne, Manole, Simone, Iisuse, Iosife, Satano, Vitleaeme</li>
+        <li>ADJ: marelui, sfînta, bune, neagra, tânărul, Dragele, Dragii, sfintei, săraca, vestitul</li>
+        <li>DET: lui, -lea, un</li>
+        <li>NOUN: fiiul, tatăl, ucenicii, numele, împărățiia, casa, domnul, domnului, cuvîntul, duhul</li>
+        <li>NUM: mulțimei, treilea, 8-lea, doilea, noaole, treile, 2-lea, cincilesprăzeace, mia, patrulea</li>
+        <li>PRON: carele, carii, carea, caria, careleși, carile, fietecarele</li>
+        <li>PROPN: Maria, Galilea, evangheliia, Iuda, Iudea, Iisus, evanghelia, Galileei, Caiafa, Magdalina</li>
       </ul>
     </li>
   </ul>
 
   </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-<li><a>Definite</a>
-
-  </td>
-  <td width="50%" valign="top">
-<li><a>Definite</a>
-
-  </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
   <ul>
     <li>Def
@@ -780,23 +803,21 @@ udver: '2'
   </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Def
+    <li>Ind
       <ul>
-        <li>ADJ: Mândrul, SFÎNTA, bune, marelui, pățitul, sînta, viitoriul</li>
-        <li>DET: lui</li>
-        <li>NOUN: ucenicii, fiiul, împărățiia, tatăl, casa, ceriurelor, cuvîntul, muma, numele, oamenilor</li>
-        <li>NUM: treilea</li>
-        <li>PRON: carele, carea</li>
-        <li>PROPN: Iisus, Chira, Galilea, Iona, Isaia, Iuda, Dumnedzăul, Ezechiia, Galileiului, Isaiia</li>
+        <li>ADJ: mare, omenesc, bună, verde, bun, mari, sfînt, rău, nou, frumoasă</li>
+        <li>NOUN: adevăr, om, doamne, ceriu, casă, apă, mulțime, zi, cale, oameni</li>
+        <li>NUM: sută, doao, mie, întîi, un, dentîi, jumătate, mii, sute, una</li>
+        <li>PROPN: Iisus, Dumnezău, Hristos, Ioan, Pătru, Pilat, Simon, Ierosalim, David, Dumnedzău</li>
       </ul>
     </li>
   </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
   <ul>
     <li>Ind
@@ -810,19 +831,6 @@ udver: '2'
   </ul>
 
   </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Ind
-      <ul>
-        <li>ADJ: mare, omenesc, bună, bun, rău, bune, mici, destoinic, verde, reale</li>
-        <li>NOUN: Doamne, adevăr, ceriu, om, casă, pămînt, mare, oameni, pîini, apă</li>
-        <li>NUM: mie, sută, dentîi, mii, un, întăi</li>
-        <li>PROPN: Iisus, Hristos, Ioan, Dumnedzău, Pătru, Dumnedzeu, Irod, Iacov, David, Dumnezeu</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
 </tr>
 <tr>
   <td width="50%" valign="top">
@@ -861,6 +869,9 @@ udver: '2'
   </td>
 </tr>
 <tr>
+  <td width="50%" valign="top">
+
+  </td>
   <td width="50%" valign="top">
   <ul>
     <li>Cmp
@@ -872,11 +883,19 @@ udver: '2'
   </ul>
 
   </td>
-  <td width="50%" valign="top">
-
-  </td>
 </tr>
 <tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Pos
+      <ul>
+        <li>ADJ: mare, omenesc, bună, verde, bun, mari, sfînt, rău, nou, frumoasă</li>
+        <li>NOUN: SVÎNT, orb, plata, venitori, vergurele, Îndrăcitul</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
   <td width="50%" valign="top">
   <ul>
     <li>Pos
@@ -888,18 +907,11 @@ udver: '2'
   </ul>
 
   </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Pos
-      <ul>
-        <li>ADJ: mare, omenesc, bună, bun, bune, rău, mici, destoinic, verde, reale</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
 </tr>
 <tr>
+  <td width="50%" valign="top">
+
+  </td>
   <td width="50%" valign="top">
   <ul>
     <li>Sup
@@ -911,9 +923,6 @@ udver: '2'
   </ul>
 
   </td>
-  <td width="50%" valign="top">
-
-  </td>
 </tr>
 <tr>
   <td width="50%" valign="top">
@@ -940,6 +949,21 @@ udver: '2'
   </td>
 </tr>
 <tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Neg
+      <ul>
+        <li>ADV: nu, n-, nu-, n, nece</li>
+        <li>AUX-Ger: nefiind</li>
+        <li>CCONJ: nece, ce, nici, neci, nice</li>
+        <li>VERB-Fin: duce, face, curvi, gândi, lua, teame, îmbla, blestema, dormi, fura</li>
+        <li>VERB-Ger: eșind, neavînd, neputîndu, neaflînd, neaflîndu-, nebotezîndu, necrezând, necrezînd, nefăcînd, negătindu</li>
+        <li>VERB-Part: nespălate, nestinsu, neînsurat, Neștiut, nebotezat, necununat, necusută, nedespărțitei, nefericiți, nefolosit</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
   <td width="50%" valign="top">
   <ul>
     <li>Neg
@@ -951,21 +975,25 @@ udver: '2'
   </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Neg
+    <li>Pos
       <ul>
-        <li>ADV: nu, n-, n</li>
-        <li>CCONJ: ce, nici, neci, nece</li>
-        <li>VERB-Fin: curvi, întreba, -ntreba, blestema, bucina, cere, duce, fura, lua, mărturisi</li>
-        <li>VERB-Part: nerătăcite, nespălate, nestins</li>
+        <li>AUX-Ger: fiind</li>
+        <li>CCONJ: și, iară, şi, ce, dară, sau, au, dar, şi-, și-</li>
+        <li>PRON: ce</li>
+        <li>PROPN-Fin: Avraame</li>
+        <li>SCONJ: că, de, să, ca, deaca, c-, căce, de-, dacă, pînă</li>
+        <li>VERB-Fin: pasă, ia, dă, vino, scoală, du, lasă, spune, fă, ieși</li>
+        <li>VERB-Ger: zicînd, răspunzînd, văzînd, fiind, auzind, grăind, eșind, zicând, mergînd, întrînd</li>
+        <li>VERB-Part: scris, zis, dată, trimes, născut, aruncat, făcut, pus, scrise, scrisă</li>
       </ul>
     </li>
   </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
   <ul>
     <li>Pos
@@ -977,21 +1005,6 @@ udver: '2'
   </ul>
 
   </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Pos
-      <ul>
-        <li>AUX-Ger: fiind</li>
-        <li>CCONJ: și, iară, dară, sau, Şi, deci, au, dar, ci, ori</li>
-        <li>SCONJ: că, de, deaca, să, pînă, C, dacă, C-, Căci, De-</li>
-        <li>VERB-Fin: dă, vino, lasă, ia, pasă, du, scoală, scoate, spune, pune</li>
-        <li>VERB-Ger: zicînd, grăind, răspunzînd, văzînd, auzind, fiind, eșind, întrînd, apropiindu, avînd</li>
-        <li>VERB-Part: zis, scris, aruncat, dată, fericiți, lăsată, zisă, Asămănată, adunați, ascunsă</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
 </tr>
 <tr>
   <td width="50%" valign="top">
@@ -1018,21 +1031,26 @@ udver: '2'
   </td>
 </tr>
 <tr>
-  <td width="50%" valign="top">
-
-  </td>
   <td width="50%" valign="top">
   <ul>
     <li>Long
       <ul>
-        <li>VERB-Fin: grijireți, teamereți, adunareți, dareți, fireți, giudecareți, giurareți, grăireți, gîndireți, oprireți</li>
+        <li>AUX-Inf: puteare, afire, fire</li>
+        <li>VERB-Fin: teamereți, grijireți, giudecareți, contenireți, oprireți, plîngereți, spămîntareți, adunareți, bucurareți, creadereți</li>
+        <li>VERB-Inf: treace, ceare, erta, priimi, blăstăma, fire-, perire-, slujirea, săvîrșirea, ziceare</li>
       </ul>
     </li>
   </ul>
 
   </td>
+  <td width="50%" valign="top">
+
+  </td>
 </tr>
 <tr>
+  <td width="50%" valign="top">
+
+  </td>
   <td width="50%" valign="top">
   <ul>
     <li>Short
@@ -1057,9 +1075,6 @@ udver: '2'
   </ul>
 
   </td>
-  <td width="50%" valign="top">
-
-  </td>
 </tr>
 <tr>
   <td width="50%" valign="top">
@@ -1114,6 +1129,17 @@ udver: '2'
   </td>
 </tr>
 <tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Imp
+      <ul>
+        <li>PROPN-Fin: Avraame</li>
+        <li>VERB-Fin: pasă, ia, dă, vino, meargeți, scoală, du, dați, faceți, lasă</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
   <td width="50%" valign="top">
   <ul>
     <li>Imp
@@ -1125,18 +1151,20 @@ udver: '2'
   </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Imp
+    <li>Ind
       <ul>
-        <li>VERB-Fin: dă, vino, lasă, ia, pasă, du, faceți, scoală, Luați, pune</li>
+        <li>AUX: va, au, am, a, vor, veți, voiu, ai, ați, -va</li>
+        <li>AUX-Fin: are</li>
+        <li>VERB-Fin: zise, iaste, era, -i, e, zisără, zic, fu, veni, ești</li>
       </ul>
     </li>
   </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
   <ul>
     <li>Ind
@@ -1148,19 +1176,19 @@ udver: '2'
   </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Ind
+    <li>Sub
       <ul>
-        <li>AUX: va, am, a, au, vor, veți, ai, ară, voiu, -am</li>
-        <li>VERB-Fin: zise, iaste, -i, născu, e, zic, era, face, sînt, veni</li>
+        <li>AUX: fie, poată, putem, știe</li>
+        <li>VERB-Fin: fie, dea, vie, vază, facă, ia, împle, auză, știți, chiamă</li>
       </ul>
     </li>
   </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
   <ul>
     <li>Sub
@@ -1173,17 +1201,6 @@ udver: '2'
   </ul>
 
   </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Sub
-      <ul>
-        <li>AUX: fie</li>
-        <li>VERB-Fin: fie, vie, auză, facă, vază, împle, dea, ia, treacă, arate</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
 </tr>
 <tr>
   <td width="50%" valign="top">
@@ -1210,6 +1227,9 @@ udver: '2'
   </td>
 </tr>
 <tr>
+  <td width="50%" valign="top">
+
+  </td>
   <td width="50%" valign="top">
   <ul>
     <li>Fut
@@ -1220,11 +1240,19 @@ udver: '2'
   </ul>
 
   </td>
-  <td width="50%" valign="top">
-
-  </td>
 </tr>
 <tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Imp
+      <ul>
+        <li>AUX: era, putea, erai, еrа</li>
+        <li>VERB-Fin: era, zicea, mergea, avea, grăiia, vrea, făcea, sta, mira, învăța</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
   <td width="50%" valign="top">
   <ul>
     <li>Imp
@@ -1236,19 +1264,19 @@ udver: '2'
   </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Imp
+    <li>Past
       <ul>
-        <li>AUX: era, еrа</li>
-        <li>VERB-Fin: era, avea, făcea, mergea, lua, vrea, ședea, auzea, chema, lega</li>
+        <li>AUX: fu, fură, putură, putu, putum, săcă, veni</li>
+        <li>VERB-Fin: zise, zisără, fu, veni, răspunse, veniră, mearse, văzu, deade, luo</li>
       </ul>
     </li>
   </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
   <ul>
     <li>Past
@@ -1260,19 +1288,18 @@ udver: '2'
   </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Past
+    <li>Pqp
       <ul>
-        <li>AUX: fu, fură, putură</li>
-        <li>VERB-Fin: zise, născu, veni, veniră, zisără, grăi, fu, răspunse, văzu, duse</li>
+        <li>VERB-Fin: venise, zisease, dedease, mersease, învise, făcuse, văzuse, eșise, legase, prinsease</li>
       </ul>
     </li>
   </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
   <ul>
     <li>Pqp
@@ -1284,18 +1311,20 @@ udver: '2'
   </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Pqp
+    <li>Pres
       <ul>
-        <li>VERB-Fin: adunasă, legase, prinsease, zisease, întrebase</li>
+        <li>AUX: va, au, am, a, vor, veți, voiu, ai, ați, -va</li>
+        <li>AUX-Fin: are</li>
+        <li>VERB-Fin: iaste, -i, e, zic, fie, ești, sînt, -s, zice, face</li>
       </ul>
     </li>
   </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
   <ul>
     <li>Pres
@@ -1309,87 +1338,86 @@ udver: '2'
   </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Pres
+  </ul>
+</li>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<h3>Pronouns, Determiners, Quantifiers</h3>
+
+
+  </td>
+  <td width="50%" valign="top">
+<h3>Pronouns, Determiners, Quantifiers</h3>
+
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<li><a>PronType</a>
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>PronType</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Art
       <ul>
-        <li>AUX: va, am, a, au, vor, veți, ai, ară, voiu, -am</li>
-        <li>VERB-Fin: iaste, -i, e, zic, face, sînt, are, fie, grăesc, fac</li>
+        <li>DET: lui, a, al, ale, ai, -al, -lea, un</li>
       </ul>
     </li>
   </ul>
 
   </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-
-  </td>
-  <td width="50%" valign="top">
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-<h3>Pronouns, Determiners, Quantifiers</h3>
-
-
-  </td>
-  <td width="50%" valign="top">
-<h3>Pronouns, Determiners, Quantifiers</h3>
-
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-<li><a>PronType</a>
-
-  </td>
-  <td width="50%" valign="top">
-<li><a>PronType</a>
-
-  </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
   <ul>
     <li>Art
@@ -1400,18 +1428,19 @@ udver: '2'
   </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Art
+    <li>Dem
       <ul>
-        <li>DET: lui, a, al, -al, ai</li>
+        <li>DET: cel, cei, aceasta, aceaia, cea, acel, acesta, acest, acela, celui</li>
+        <li>PRON: aceasta, aceaia, cela, aceastea, acesta, acela, cel, ceia, aceia, cei</li>
       </ul>
     </li>
   </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
   <ul>
     <li>Dem
@@ -1423,19 +1452,19 @@ udver: '2'
   </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Dem
+    <li>Emp
       <ul>
-        <li>DET: cei, cel, aceaia, cea, aceastea, acela, ceale, ceaia, celor, aceasta</li>
-        <li>PRON: cela, aceaia, aceasta, aceastea, acesta, cel, acela, aceia, cei, ceia</li>
+        <li>DET: însuși, înșivă, înșiși, însuți, înși</li>
+        <li>PRON: eiși, însuși, Mineși, eluși, voiși, însuți, înșivă, iași, loruși, înșine</li>
       </ul>
     </li>
   </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
   <ul>
     <li>Emp
@@ -1446,18 +1475,19 @@ udver: '2'
   </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Emp
+    <li>Ind
       <ul>
-        <li>PRON: eiși, Însuși, înse, însuți, înșiși</li>
+        <li>DET: un, o, toate, toată, tot, multă, multe, toți, mulți, altă</li>
+        <li>PRON: unul, toți, toate, mulți, altul, unii, una, alții, cineva, ceva</li>
       </ul>
     </li>
   </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
   <ul>
     <li>Ind
@@ -1469,19 +1499,20 @@ udver: '2'
   </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Ind
+    <li>Int,Rel
       <ul>
-        <li>DET: un, o, tot, toată, toate, multe, multă, mulți, toți, -un</li>
-        <li>PRON: toate, unul, altul, toți, una, tot, varecine, alții, cineva, alta</li>
+        <li>ADV: cum, unde, când, cînd, cît, cât, cumu, unde-, cîndu, cîtu</li>
+        <li>DET: ce, care, câte, cîte, Câtă, cîtă, Cât, Câți</li>
+        <li>PRON: ce, carele, cine, carii, care, carea, ce-, cui, căruia, cîte</li>
       </ul>
     </li>
   </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
   <ul>
     <li>Int,Rel
@@ -1494,20 +1525,19 @@ udver: '2'
   </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Int,Rel
+    <li>Neg
       <ul>
-        <li>ADV: cum, când, unde, cînd, cît, cât, cumu, Cine, Cîndu, cîtu</li>
-        <li>DET: ce, cîte, câte, care</li>
-        <li>PRON: ce, carele, cine, carea, carii, cui, ce-, care, cărora, Căruia</li>
+        <li>DET: Nicio, niciun, necio</li>
+        <li>PRON: nime, nemică, nemurui, nimic, nimica, niciuna, nimeni, nemărui, nimică, nemănui</li>
       </ul>
     </li>
   </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
   <ul>
     <li>Neg
@@ -1520,19 +1550,20 @@ udver: '2'
   </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Neg
+    <li>Prs
       <ul>
-        <li>DET: Nicio, niciun</li>
-        <li>PRON: nime, nemică, Nemărui, Nimic, nemurui, nemănui, nimica, nimică</li>
+        <li>CCONJ: și</li>
+        <li>DET: mieu, tău, mea, ta, său, vostru, meale, voastră, tale, sa</li>
+        <li>PRON: să, el, lui, lor, ei, -l, voi, eu, mine, -i</li>
       </ul>
     </li>
   </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
   <ul>
     <li>Prs
@@ -1544,19 +1575,18 @@ udver: '2'
   </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Prs
+    <li>Tot
       <ul>
-        <li>DET: tău, mieu, ta, sa, vostru, mea, săi, său, voastră, voastre</li>
-        <li>PRON: să, lui, el, lor, ei, -l, te, voao, -i, se</li>
+        <li>NUM: amîndoi, amândoi, amîndoao, tusșapte, amândouă, amîndurora, tușapte</li>
       </ul>
     </li>
   </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
   <ul>
     <li>Tot
@@ -1567,42 +1597,42 @@ udver: '2'
   </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Tot
+  </ul>
+</li>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<li><a>NumType</a>
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>NumType</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Card
       <ul>
-        <li>NUM: amîndoi, amândoi, amîndoao</li>
+        <li>NUM: doi, trei, cinci, doao, doisprăzeace, două, șapte, patru, nouă, zeace</li>
       </ul>
     </li>
   </ul>
 
   </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-<li><a>NumType</a>
-
-  </td>
-  <td width="50%" valign="top">
-<li><a>NumType</a>
-
-  </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
   <ul>
     <li>Card
@@ -1613,18 +1643,48 @@ udver: '2'
   </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Card
+    <li>Frac
       <ul>
-        <li>NUM: doi, trei, cinci, două, șapte, doao, mie, nouă, doisprăzeace, sută</li>
+        <li>NUM: giumătate</li>
       </ul>
     </li>
   </ul>
 
   </td>
+  <td width="50%" valign="top">
+
+  </td>
 </tr>
 <tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Fract
+      <ul>
+        <li>NUM: jumătate, giumătate</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
+  <td width="50%" valign="top">
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Ord
+      <ul>
+        <li>NUM: întăiu, treia, întîi, dentîi, dentîiu, patra, doao, întîiu, doa, noaole</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
   <td width="50%" valign="top">
   <ul>
     <li>Ord
@@ -1635,42 +1695,43 @@ udver: '2'
   </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Ord
+  </ul>
+</li>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<li><a>Poss</a>
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>Poss</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Yes
       <ul>
-        <li>NUM: dentîi, întîi, treia, dintîi, patra, patru, treilea, întăi</li>
+        <li>DET: a, al, tău, ale, ai, mieu, ta, vostru, mea, sa</li>
+        <li>PRON: ta, meu, nostru, tău</li>
       </ul>
     </li>
   </ul>
 
   </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-<li><a>Poss</a>
-
-  </td>
-  <td width="50%" valign="top">
-<li><a>Poss</a>
-
-  </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
   <ul>
     <li>Yes
@@ -1682,43 +1743,42 @@ udver: '2'
   </ul>
 
   </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<li><a>Reflex</a>
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>Reflex</a>
+
+  </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
     <li>Yes
       <ul>
-        <li>DET: tău, mieu, a, ta, sa, vostru, mea, săi, său, voastră</li>
-        <li>PRON: ta, meu, nostru, tău</li>
+        <li>PRON: să, se, s-, -să, -și, sine, -se, și, și-, -s</li>
       </ul>
     </li>
   </ul>
 
   </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-<li><a>Reflex</a>
-
-  </td>
-  <td width="50%" valign="top">
-<li><a>Reflex</a>
-
-  </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
   <ul>
     <li>Yes
@@ -1729,42 +1789,45 @@ udver: '2'
   </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Yes
+  </ul>
+</li>
+
+  </td>
+  <td width="50%" valign="top">
+  <ul>
+  </ul>
+</li>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+<li><a>Person</a>
+
+  </td>
+  <td width="50%" valign="top">
+<li><a>Person</a>
+
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>1
       <ul>
-        <li>PRON: să, se, s-, -și, sine, -să, -se, și, și-, -s</li>
+        <li>AUX: am, voiu, -am, oi, vom, -voiu, aș, voi, -aș, -oi</li>
+        <li>DET: mieu, mea, voastră, meale, nostru, noastră, miei, meu, mele, noștri</li>
+        <li>PRON: eu, mine, mă, voi, tu, m-, noi, -mi, mi-, ne</li>
+        <li>VERB-Fin: zic, am, sânt, știu, fac, duc, sînt, știm, grăescu, dau</li>
       </ul>
     </li>
   </ul>
 
   </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-  <td width="50%" valign="top">
-  <ul>
-  </ul>
-</li>
-
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-<li><a>Person</a>
-
-  </td>
-  <td width="50%" valign="top">
-<li><a>Person</a>
-
-  </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
   <ul>
     <li>1
@@ -1779,21 +1842,22 @@ udver: '2'
   </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
-    <li>1
+    <li>2
       <ul>
-        <li>AUX: am, voiu, -am, -aș, oi, voi, vom, -om, aș, om</li>
-        <li>DET: mieu, mea, voastră, meu, noastră, mele, Miu, noastre, nostru, meale</li>
-        <li>PRON: mine, eu, mă, -mi, ne, tu, m, mi, mi-, voi</li>
-        <li>VERB-Fin: zic, grăesc, am, fac, duc, știu, las, sînt, vedem, văd</li>
+        <li>AUX: veți, ai, ați, vei, -veți, -ai, -i, puteți, poți, veri</li>
+        <li>DET: tău, ta, vostru, tale, tăi, voastre, voștri, -ta, -tău, înșivă</li>
+        <li>PRON: voao, te, vă, voi, tine, ție, -ți, te-, ți, -te</li>
+        <li>PROPN-Fin: Avraame</li>
+        <li>VERB-Fin: ești, știți, faceți, ziceți, ai, pasă, ia, dă, aveți, creadeți</li>
       </ul>
     </li>
   </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
   <ul>
     <li>2
@@ -1808,21 +1872,23 @@ udver: '2'
   </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
-    <li>2
+    <li>3
       <ul>
-        <li>AUX: veți, ai, ați, vei, -ai, -i, puteți, -ați, -vei, ești</li>
-        <li>DET: tău, ta, vostru, voastre, tale, voștri, Tăi, -ta, -tău</li>
-        <li>PRON: voao, te, vă, voi, -ți, tine, ție, ți, -te, te-</li>
-        <li>VERB-Fin: ești, dă, vino, faci, lasă, faceți, ia, pasă, du, fiți</li>
+        <li>AUX: va, au, a, vor, -va, ară, -au, o, era, -i</li>
+        <li>AUX-Fin: are</li>
+        <li>CCONJ: și</li>
+        <li>DET: toate, toată, tot, ce, aceasta, multă, multe, aceaia, său, toți</li>
+        <li>PRON: să, el, lui, ce, lor, ei, -l, carele, -i, cine</li>
+        <li>VERB-Fin: zise, iaste, era, -i, e, zisără, fu, veni, fie, răspunse</li>
       </ul>
     </li>
   </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
   <ul>
     <li>3
@@ -1837,19 +1903,6 @@ udver: '2'
   </ul>
 
   </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>3
-      <ul>
-        <li>AUX: va, a, au, vor, ară, -a, -va, iaste, -ar, ar</li>
-        <li>DET: tot, ce, toată, sa, toate, săi, său, multe, multă, aceaia</li>
-        <li>PRON: să, lui, ce, el, lor, ei, -l, -i, se, carele</li>
-        <li>VERB-Fin: zise, iaste, -i, născu, e, era, face, veni, are, fie</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
 </tr>
 <tr>
   <td width="50%" valign="top">
@@ -1866,39 +1919,39 @@ udver: '2'
   </td>
 </tr>
 <tr>
-  <td width="50%" valign="top">
-
-  </td>
   <td width="50%" valign="top">
 <li><a>Polite</a>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
     <li>Form
       <ul>
-        <li>PRON: dumneavoastră</li>
+        <li>PRON: dumitale, însul, dumneavoastră, dumneavostră</li>
       </ul>
     </li>
   </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
   </ul>
 </li>
 
   </td>
+  <td width="50%" valign="top">
+
+  </td>
 </tr>
 <tr>
   <td width="50%" valign="top">
@@ -1927,6 +1980,17 @@ udver: '2'
   </td>
 </tr>
 <tr>
+  <td width="50%" valign="top">
+  <ul>
+    <li>Plur
+      <ul>
+        <li>DET: vostru, voastră, nostru, voastre, noastră, voștri, noștri, noastre</li>
+        <li>PRON: nostru, vostru, noastră, voastră</li>
+      </ul>
+    </li>
+  </ul>
+
+  </td>
   <td width="50%" valign="top">
   <ul>
     <li>Plur
@@ -1938,19 +2002,19 @@ udver: '2'
   </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
   <ul>
-    <li>Plur
+    <li>Sing
       <ul>
-        <li>DET: vostru, voastră, voastre, voștri, noastră, noastre, nostru, noștri</li>
-        <li>PRON: nostru</li>
+        <li>DET: mieu, tău, mea, ta, său, meale, tale, sa, sale, săi</li>
+        <li>PRON: ta, Meale, mea, mieu, tăi, tău, tale, meu, săi, mele</li>
       </ul>
     </li>
   </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
   <ul>
     <li>Sing
@@ -1962,17 +2026,6 @@ udver: '2'
   </ul>
 
   </td>
-  <td width="50%" valign="top">
-  <ul>
-    <li>Sing
-      <ul>
-        <li>DET: tău, mieu, ta, sa, mea, săi, său, -sa, -său, meu</li>
-        <li>PRON: ta, meu, tău</li>
-      </ul>
-    </li>
-  </ul>
-
-  </td>
 </tr>
 <tr>
   <td width="50%" valign="top">
@@ -2001,6 +2054,9 @@ udver: '2'
   </td>
 </tr>
 <tr>
+  <td width="50%" valign="top">
+
+  </td>
   <td width="50%" valign="top">
 <li><a>Abbr</a>
   <ul>
@@ -2017,11 +2073,20 @@ udver: '2'
 </li>
 
   </td>
-  <td width="50%" valign="top">
-
-  </td>
 </tr>
 <tr>
+  <td width="50%" valign="top">
+<li><a>AdpType</a>
+  <ul>
+    <li>Prep
+      <ul>
+        <li>ADP: de, pre, în, la, cu, den, ca, pe, întru, cătră</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
   <td width="50%" valign="top">
 <li><a>AdpType</a>
   <ul>
@@ -2036,39 +2101,31 @@ udver: '2'
 </li>
 
   </td>
-  <td width="50%" valign="top">
-<li><a>AdpType</a>
-  <ul>
-    <li>Prep
-      <ul>
-        <li>ADP: de, pre, în, cu, la, pe, din, den, întru, după</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-
-  </td>
 </tr>
 <tr>
-  <td width="50%" valign="top">
-
-  </td>
   <td width="50%" valign="top">
 <li><a>Compound</a>
   <ul>
     <li>Yes
       <ul>
-        <li>ADP: din, den, după, pentru, decît, prin, întru, pren, într-, peste</li>
-        <li>CCONJ: neci, deci, nece, Dece, dară, Iară, ce, deaca, Însă</li>
-        <li>SCONJ: deaca, Căci, dacă, deacă, Dară, căce, să</li>
+        <li>ADP: den, din, după, pentru, de, cătră, pînă, pren, prin, dentr-</li>
+        <li>ADV: nece</li>
+        <li>CCONJ: nece, deci, nici, neci, ce, deacii, însă, dară, dece, și</li>
+        <li>SCONJ: ca, deaca, căce, dacă, căci, pentru, ca să, deacă, să, Şi</li>
       </ul>
     </li>
   </ul>
 </li>
 
   </td>
+  <td width="50%" valign="top">
+
+  </td>
 </tr>
 <tr>
+  <td width="50%" valign="top">
+
+  </td>
   <td width="50%" valign="top">
 <li><a>Foreign</a>
   <ul>
@@ -2088,11 +2145,30 @@ udver: '2'
 </li>
 
   </td>
-  <td width="50%" valign="top">
-
-  </td>
 </tr>
 <tr>
+  <td width="50%" valign="top">
+<li><a>NumForm</a>
+  <ul>
+    <li>Digit
+      <ul>
+        <li>NUM: 1, 14, 2, 3, 4, 9, 15, 12, 25, 28</li>
+      </ul>
+    </li>
+    <li>Roman
+      <ul>
+        <li>NUM: întăiu, dentîiu, 16, întîiu, treile, dentîi, dintîi</li>
+      </ul>
+    </li>
+    <li>Word
+      <ul>
+        <li>NUM: doi, trei, cinci, doao, doisprăzeace, treia, două, întăiu, șapte, patru</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
+  </td>
   <td width="50%" valign="top">
 <li><a>NumForm</a>
   <ul>
@@ -2115,30 +2191,30 @@ udver: '2'
 </li>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
-<li><a>NumForm</a>
+<li><a>PartType</a>
   <ul>
-    <li>Digit
+    <li>Future
       <ul>
-        <li>NUM: 14, 5, acolo, bolnavilor, om</li>
+        <li>PART: să</li>
       </ul>
     </li>
-    <li>Roman
+    <li>Inf
       <ul>
-        <li>NUM: dintîi</li>
+        <li>PART: a, -a</li>
       </ul>
     </li>
-    <li>Word
+    <li>Sub
       <ul>
-        <li>NUM: doi, trei, cinci, două, șapte, doao, mie, dentîi, nouă, doisprăzeace</li>
+        <li>PART: să, s-, ca, să-, ca să, xă</li>
       </ul>
     </li>
   </ul>
 </li>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
 <li><a>PartType</a>
   <ul>
@@ -2151,25 +2227,26 @@ udver: '2'
 </li>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
-<li><a>PartType</a>
+<li><a>Position</a>
   <ul>
-    <li>Inf
+    <li>Postnom
       <ul>
-        <li>PART: a</li>
+        <li>DET: acesta, acela, aceasta, aceștiia, acealea, aceaia, aceluia, cela, acestuia, aceastea</li>
+        <li>PRON: ceia, celora</li>
       </ul>
     </li>
-    <li>Sub
+    <li>Prenom
       <ul>
-        <li>PART: să, s-, ca</li>
+        <li>DET: acel, acest, această, aceasta, acea, aceaia, ceaia, aceastea, cest, acei</li>
       </ul>
     </li>
   </ul>
 </li>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
 <li><a>Position</a>
   <ul>
@@ -2187,25 +2264,26 @@ udver: '2'
 </li>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
-<li><a>Position</a>
+<li><a>Strength</a>
   <ul>
-    <li>Postnom
+    <li>Strong
       <ul>
-        <li>DET: aceasta, acela, aceastea, aceaia, cela, acesta, acestuia, aceștiia, aceia, acelea</li>
+        <li>PRON: el, lor, lui, mine, voao, ei, voi, tine, ție, ia</li>
       </ul>
     </li>
-    <li>Prenom
+    <li>Weak
       <ul>
-        <li>DET: acel, acest, aceaia, acela, ceaia, cest, acea, aceasta, această, acelui</li>
+        <li>CCONJ: și</li>
+        <li>PRON: să, -l, -i, mă, te, vă, o, se, s-, le</li>
       </ul>
     </li>
   </ul>
 </li>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
 <li><a>Strength</a>
   <ul>
@@ -2223,35 +2301,8 @@ udver: '2'
 </li>
 
   </td>
-  <td width="50%" valign="top">
-<li><a>Strength</a>
-  <ul>
-    <li>Strong
-      <ul>
-        <li>PRON: el, lui, voao, lor, mine, ei, voi, tine, ție, sine</li>
-      </ul>
-    </li>
-    <li>Weak
-      <ul>
-        <li>PRON: să, -l, te, se, -i, vă, o, mă, -mi, le</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-
-  </td>
 </tr>
 <tr>
-  <td width="50%" valign="top">
-<h2>Syntax</h2>
-
-<h3>Auxiliary Verbs and Copula</h3>
-
-<ul>
-<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: fi.</li>
-</ul>
-
-  </td>
   <td width="50%" valign="top">
 <h2>Syntax</h2>
 
@@ -2262,8 +2313,25 @@ udver: '2'
 </ul>
 
   </td>
+  <td width="50%" valign="top">
+<h2>Syntax</h2>
+
+<h3>Auxiliary Verbs and Copula</h3>
+
+<ul>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: fi.</li>
+</ul>
+
+  </td>
 </tr>
 <tr>
+  <td width="50%" valign="top">
+<ul>
+<li>This corpus uses 22 lemmas as auxiliaries (<a>aux</a>). Examples: avea, vrea, putea, fi, al, a, sine, el, ști, trebui, tu, eu, oare, afire, ați, cel, ea, floare, om, să, tot, un.</li>
+<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: fi.</li>
+</ul>
+
+  </td>
   <td width="50%" valign="top">
 <ul>
 <li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: avea, vrea, fi, o, or, el, un.</li>
@@ -2271,15 +2339,59 @@ udver: '2'
 </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
+<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
+
+Here we consider only relations between verbs (parent) and nouns or pronouns (child).
 <ul>
-<li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: vrea, avea, putea, fi, ști, a, tot.</li>
-<li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: fi.</li>
+  <li><a>nsubj</a>
+    <ul>
+      <li>VERB-Fin--NOUN-Acc,Nom (1846)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom-ADP(ca) (1)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom-ADP(ca)-ADP(la) (1)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom-ADP(de) (1)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom-ADP(din) (1)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom-ADP(meu) (1)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom-ADP(pe) (1)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom-ADP(în) (1)</li>
+      <li>VERB-Fin--NOUN-Dat,Gen (4)</li>
+      <li>VERB-Fin--NOUN-Voc (1)</li>
+      <li>VERB-Fin--PRON (20)</li>
+      <li>VERB-Fin--PRON-Acc (14)</li>
+      <li>VERB-Fin--PRON-Acc,Nom (1590)</li>
+      <li>VERB-Fin--PRON-Acc,Nom-ADP(de) (2)</li>
+      <li>VERB-Fin--PRON-Acc,Nom-ADP(pe) (2)</li>
+      <li>VERB-Fin--PRON-Acc,Nom-ADP(întru) (1)</li>
+      <li>VERB-Fin--PRON-Dat (2)</li>
+      <li>VERB-Fin--PRON-Dat,Gen (2)</li>
+      <li>VERB-Fin--PRON-Gen (2)</li>
+      <li>VERB-Fin--PRON-Nom (305)</li>
+      <li>VERB-Ger--NOUN-Acc,Nom (126)</li>
+      <li>VERB-Ger--PRON (2)</li>
+      <li>VERB-Ger--PRON-Acc (1)</li>
+      <li>VERB-Ger--PRON-Acc,Nom (84)</li>
+      <li>VERB-Ger--PRON-Acc,Nom-ADP(cărturar) (1)</li>
+      <li>VERB-Ger--PRON-Gen (1)</li>
+      <li>VERB-Ger--PRON-Nom (34)</li>
+      <li>VERB-Inf--NOUN-Acc,Nom (340)</li>
+      <li>VERB-Inf--NOUN-Acc,Nom-ADP(cu) (1)</li>
+      <li>VERB-Inf--NOUN-Dat,Gen (2)</li>
+      <li>VERB-Inf--PRON (2)</li>
+      <li>VERB-Inf--PRON-Acc (5)</li>
+      <li>VERB-Inf--PRON-Acc,Nom (368)</li>
+      <li>VERB-Inf--PRON-Nom (84)</li>
+      <li>VERB-Part--NOUN-Acc,Nom (317)</li>
+      <li>VERB-Part--PRON (1)</li>
+      <li>VERB-Part--PRON-Acc (3)</li>
+      <li>VERB-Part--PRON-Acc,Nom (263)</li>
+      <li>VERB-Part--PRON-Nom (66)</li>
+    </ul>
+  </li>
 </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
 
@@ -2333,39 +2445,70 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
-<h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
-
-Here we consider only relations between verbs (parent) and nouns or pronouns (child).
 <ul>
-  <li><a>nsubj</a>
+  <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Acc,Nom (367)</li>
-      <li>VERB-Fin--NOUN-Acc,Nom-ADP(ca) (1)</li>
-      <li>VERB-Fin--NOUN-Acc,Nom-ADP(de) (1)</li>
-      <li>VERB-Fin--NOUN-Acc,Nom-ADP(meu) (1)</li>
-      <li>VERB-Fin--PRON (2)</li>
-      <li>VERB-Fin--PRON-Acc (8)</li>
-      <li>VERB-Fin--PRON-Acc,Nom (245)</li>
-      <li>VERB-Fin--PRON-Nom (38)</li>
-      <li>VERB-Ger--NOUN-Acc,Nom (22)</li>
-      <li>VERB-Ger--PRON-Acc,Nom (11)</li>
-      <li>VERB-Ger--PRON-Nom (5)</li>
-      <li>VERB-Inf--NOUN-Acc,Nom (63)</li>
-      <li>VERB-Inf--PRON-Acc (3)</li>
-      <li>VERB-Inf--PRON-Acc,Nom (72)</li>
-      <li>VERB-Inf--PRON-Nom (11)</li>
-      <li>VERB-Part--NOUN-Acc,Nom (58)</li>
-      <li>VERB-Part--PRON-Acc (1)</li>
-      <li>VERB-Part--PRON-Acc,Nom (17)</li>
-      <li>VERB-Part--PRON-Nom (4)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom (1933)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom-ADP(de) (2)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom-ADP(după) (1)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom-ADP(fără) (1)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom-ADP(pe) (3)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom-ADP(în) (1)</li>
+      <li>VERB-Fin--NOUN-Dat,Gen (4)</li>
+      <li>VERB-Fin--NOUN-Dat,Gen-ADP(în) (1)</li>
+      <li>VERB-Fin--NOUN-Dat,Gen-ADP(înaintea) (1)</li>
+      <li>VERB-Fin--NOUN-Voc (2)</li>
+      <li>VERB-Fin--PRON (3)</li>
+      <li>VERB-Fin--PRON-Acc (1028)</li>
+      <li>VERB-Fin--PRON-Acc,Nom (395)</li>
+      <li>VERB-Fin--PRON-Acc,Nom-ADP(de) (1)</li>
+      <li>VERB-Fin--PRON-Acc,Nom-ADP(pe) (1)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(de) (1)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(după) (1)</li>
+      <li>VERB-Fin--PRON-Acc-ADP(pe) (5)</li>
+      <li>VERB-Fin--PRON-Dat (13)</li>
+      <li>VERB-Fin--PRON-Dat,Gen (2)</li>
+      <li>VERB-Fin--PRON-Gen (6)</li>
+      <li>VERB-Fin--PRON-Nom (10)</li>
+      <li>VERB-Ger--NOUN-Acc,Nom (231)</li>
+      <li>VERB-Ger--NOUN-Acc,Nom-ADP(pe) (1)</li>
+      <li>VERB-Ger--NOUN-Acc,Nom-ADP(spre) (1)</li>
+      <li>VERB-Ger--NOUN-Acc,Nom-ADP(în) (1)</li>
+      <li>VERB-Ger--NOUN-Acc,Nom-ADP(întru) (1)</li>
+      <li>VERB-Ger--PRON-Acc (58)</li>
+      <li>VERB-Ger--PRON-Acc,Nom (58)</li>
+      <li>VERB-Ger--PRON-Acc,Nom-ADP(de) (1)</li>
+      <li>VERB-Ger--PRON-Dat (2)</li>
+      <li>VERB-Inf--NOUN-Acc,Nom (423)</li>
+      <li>VERB-Inf--NOUN-Acc,Nom-ADP(Dumnezeu) (1)</li>
+      <li>VERB-Inf--NOUN-Acc,Nom-ADP(cu) (1)</li>
+      <li>VERB-Inf--NOUN-Acc,Nom-ADP(de) (1)</li>
+      <li>VERB-Inf--NOUN-Acc,Nom-ADP(meu) (2)</li>
+      <li>VERB-Inf--PRON (2)</li>
+      <li>VERB-Inf--PRON-Acc (260)</li>
+      <li>VERB-Inf--PRON-Acc,Nom (139)</li>
+      <li>VERB-Inf--PRON-Acc,Nom-ADP(cu) (1)</li>
+      <li>VERB-Inf--PRON-Acc,Nom-ADP(pe) (1)</li>
+      <li>VERB-Inf--PRON-Acc-ADP(pe) (1)</li>
+      <li>VERB-Inf--PRON-Dat (7)</li>
+      <li>VERB-Inf--PRON-Gen (3)</li>
+      <li>VERB-Inf--PRON-Nom (3)</li>
+      <li>VERB-Part--NOUN-Acc,Nom (288)</li>
+      <li>VERB-Part--NOUN-Acc,Nom-ADP(ca) (1)</li>
+      <li>VERB-Part--NOUN-Voc (1)</li>
+      <li>VERB-Part--PRON (1)</li>
+      <li>VERB-Part--PRON-Acc (296)</li>
+      <li>VERB-Part--PRON-Acc,Nom (120)</li>
+      <li>VERB-Part--PRON-Dat (7)</li>
+      <li>VERB-Part--PRON-Nom (8)</li>
     </ul>
   </li>
 </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
 <ul>
   <li><a>obj</a>
@@ -2431,48 +2574,50 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </ul>
 
   </td>
+</tr>
+<tr>
   <td width="50%" valign="top">
 <ul>
-  <li><a>obj</a>
+  <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN-Acc,Nom (377)</li>
-      <li>VERB-Fin--NOUN-Acc,Nom-ADP(de) (2)</li>
-      <li>VERB-Fin--NOUN-Acc,Nom-ADP(pe) (3)</li>
-      <li>VERB-Fin--NOUN-Dat,Gen (1)</li>
-      <li>VERB-Fin--NOUN-Dat,Gen-ADP(înaintea) (1)</li>
-      <li>VERB-Fin--NOUN-Voc (1)</li>
-      <li>VERB-Fin--PRON-Acc (197)</li>
-      <li>VERB-Fin--PRON-Acc,Nom (51)</li>
-      <li>VERB-Fin--PRON-Acc,Nom-ADP(pe) (1)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(de) (1)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(după) (1)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(pe) (3)</li>
-      <li>VERB-Fin--PRON-Dat (1)</li>
-      <li>VERB-Ger--NOUN-Acc,Nom (35)</li>
-      <li>VERB-Ger--NOUN-Acc,Nom-ADP(pe) (1)</li>
-      <li>VERB-Ger--NOUN-Acc,Nom-ADP(în) (1)</li>
-      <li>VERB-Ger--NOUN-Acc,Nom-ADP(întru) (1)</li>
-      <li>VERB-Ger--PRON-Acc (5)</li>
-      <li>VERB-Ger--PRON-Acc,Nom (6)</li>
-      <li>VERB-Inf--NOUN-Acc,Nom (94)</li>
-      <li>VERB-Inf--NOUN-Acc,Nom-ADP(cu) (1)</li>
-      <li>VERB-Inf--NOUN-Acc,Nom-ADP(meu) (1)</li>
-      <li>VERB-Inf--PRON-Acc (58)</li>
-      <li>VERB-Inf--PRON-Acc,Nom (31)</li>
-      <li>VERB-Inf--PRON-Acc,Nom-ADP(cu) (1)</li>
-      <li>VERB-Inf--PRON-Acc,Nom-ADP(pe) (1)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(pe) (1)</li>
-      <li>VERB-Part--NOUN-Acc,Nom (42)</li>
-      <li>VERB-Part--PRON-Acc (43)</li>
-      <li>VERB-Part--PRON-Acc,Nom (17)</li>
-      <li>VERB-Part--PRON-Dat (1)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom (9)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom-ADP(a) (3)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom-ADP(cu) (1)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom-ADP(de) (1)</li>
+      <li>VERB-Fin--NOUN-Acc,Nom-ADP(sub) (1)</li>
+      <li>VERB-Fin--NOUN-Dat,Gen (241)</li>
+      <li>VERB-Fin--NOUN-Dat,Gen-ADP(fără) (1)</li>
+      <li>VERB-Fin--NOUN-Voc (2)</li>
+      <li>VERB-Fin--PRON-Acc (17)</li>
+      <li>VERB-Fin--PRON-Acc,Nom (12)</li>
+      <li>VERB-Fin--PRON-Dat (1503)</li>
+      <li>VERB-Fin--PRON-Dat,Gen (98)</li>
+      <li>VERB-Fin--PRON-Gen (86)</li>
+      <li>VERB-Fin--PRON-Nom (3)</li>
+      <li>VERB-Ger--NOUN-Dat,Gen (3)</li>
+      <li>VERB-Ger--PRON-Dat (35)</li>
+      <li>VERB-Ger--PRON-Dat,Gen (4)</li>
+      <li>VERB-Ger--PRON-Gen (2)</li>
+      <li>VERB-Inf--NOUN-Acc,Nom (4)</li>
+      <li>VERB-Inf--NOUN-Dat,Gen (53)</li>
+      <li>VERB-Inf--PRON-Acc (5)</li>
+      <li>VERB-Inf--PRON-Acc,Nom (5)</li>
+      <li>VERB-Inf--PRON-Dat (196)</li>
+      <li>VERB-Inf--PRON-Dat,Gen (33)</li>
+      <li>VERB-Inf--PRON-Gen (8)</li>
+      <li>VERB-Part--NOUN-Acc,Nom-ADP(de) (1)</li>
+      <li>VERB-Part--NOUN-Dat,Gen (26)</li>
+      <li>VERB-Part--PRON-Acc (4)</li>
+      <li>VERB-Part--PRON-Acc,Nom (4)</li>
+      <li>VERB-Part--PRON-Acc,Nom-ADP(pe) (1)</li>
+      <li>VERB-Part--PRON-Dat (222)</li>
+      <li>VERB-Part--PRON-Dat,Gen (21)</li>
+      <li>VERB-Part--PRON-Gen (3)</li>
     </ul>
   </li>
 </ul>
 
   </td>
-</tr>
-<tr>
   <td width="50%" valign="top">
 <ul>
   <li><a>iobj</a>
@@ -2561,40 +2706,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </ul>
 
   </td>
-  <td width="50%" valign="top">
-<ul>
-  <li><a>iobj</a>
-    <ul>
-      <li>VERB-Fin--NOUN-Acc,Nom (1)</li>
-      <li>VERB-Fin--NOUN-Acc,Nom-ADP(de) (1)</li>
-      <li>VERB-Fin--NOUN-Dat,Gen (56)</li>
-      <li>VERB-Fin--PRON-Acc (4)</li>
-      <li>VERB-Fin--PRON-Dat (316)</li>
-      <li>VERB-Fin--PRON-Dat,Gen (15)</li>
-      <li>VERB-Fin--PRON-Gen (4)</li>
-      <li>VERB-Fin--PRON-Nom (1)</li>
-      <li>VERB-Ger--NOUN-Dat,Gen (1)</li>
-      <li>VERB-Ger--PRON-Dat (3)</li>
-      <li>VERB-Inf--NOUN-Acc,Nom (1)</li>
-      <li>VERB-Inf--NOUN-Dat,Gen (17)</li>
-      <li>VERB-Inf--PRON-Dat (38)</li>
-      <li>VERB-Inf--PRON-Dat,Gen (5)</li>
-      <li>VERB-Part--NOUN-Dat,Gen (7)</li>
-      <li>VERB-Part--PRON-Acc,Nom (1)</li>
-      <li>VERB-Part--PRON-Dat (43)</li>
-      <li>VERB-Part--PRON-Dat,Gen (7)</li>
-    </ul>
-  </li>
-</ul>
-
-  </td>
 </tr>
 <tr>
   <td width="50%" valign="top">
 <h3>Reflexive Verbs</h3>
 
 <ul>
-  <li>This corpus contains 896 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: afla se, putea se, întâmpla se, numi se, întoarce se, termina s-, duce se, opri se, părea se, îneca s-, uita se, apropia se, așeza se, referi se, face se, ridica se, asigura se, gândi se, întâmpla s-, petrece se, găsi se, îngroșa se, întâlni se, angaja se, descompune se, răni s-, simți se, încheia s-, întinde se, termina se, îneca se, desfășura se, dovedi se, lăsa se, produce se, scurge se, îndrepta se, mișca se, ocupa se, putea s-, răni se, încheia se, întări se, apuca se, baza se, conforma se, deschide se, hotărî se, lega se, mări se</li>
+  <li>This corpus contains 766 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: apropia să, scula să, umple să, mira să, duce să, arăta să, vindeca să, ruga să, întoarce să, chema să, duce te, aduna să, duce mă, înturna să, bucura să, închina să, atinge să, sui să, teme să, zice să, face să, lepăda să, ruga vă, scula s-, teme vă, apropia -să, jura să, scula -să, da să, sătura să, cădea să, mânia să, întrista să, duce -te, spăsi să, teme te, tulbura să, boteza să, deschide să, duce s-, duce se, face se, mântui să, mărita să, ridica să, sminti să, vedea se, aduce vă, aduce și, afla să</li>
 </ul>
 
   </td>
@@ -2602,12 +2720,20 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Verbs</h3>
 
 <ul>
-  <li>This corpus contains 230 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: apropia să, scula să, vindeca să, duce să, mira să, umple să, întoarce să, arăta să, duce mă, vedea se, închina să, face să, griji vă, teme vă, apropia -să, atinge să, duce te, ruga să, sminti să, sătura să, asemăna să, duce se, logodi s-, mânia să, ruga te, ruga vă, sui să, teme să, întrista să, aduna să, afunda să, apropia s-, arăta s-, arăta te, bucura să, curăți să, deschide să, despărți să, duce -te, duce vă, lepăda să, lovi să, mângâia să, mărita se, pocăi să, pune s-, pune se, roși să, uita -te, închina te</li>
+  <li>This corpus contains 897 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: afla se, putea se, întâmpla se, numi se, întoarce se, termina s-, duce se, opri se, părea se, îneca s-, uita se, apropia se, așeza se, referi se, face se, ridica se, asigura se, gândi se, întâmpla s-, petrece se, găsi se, îngroșa se, întâlni se, angaja se, descompune se, răni s-, simți se, încheia s-, întinde se, termina se, îneca se, desfășura se, dovedi se, lăsa se, produce se, scurge se, îndrepta se, mișca se, ocupa se, putea s-, răni se, încheia se, întări se, apuca se, baza se, conforma se, deschide se, hotărî se, lega se, mări se</li>
 </ul>
 
   </td>
 </tr>
 <tr>
+  <td width="50%" valign="top">
+<h3>Reflexive Passive</h3>
+
+<ul>
+  <li>This corpus contains 95 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: da să, lua să, boteza să, ierta să, vinde să, face să, lăsa să, propovădui să, pune se, vesti să, arunca să, boteza mă, da -să, vedea se, zice să, chema să, ispiti să, lua -să, naște să, turna se, ști să, adăuga să, cunoaște să, deschide să, erta să, grăi să, ierta s, lăsa -să, omorî să, risipi să, răstigni să, trimite -să, tăia să, vărsa să, aduna să, arde să, arunca -se, arunca -să, arunca s-, arăta s-, arăta să, auzi se, auzi să, bate -să, blestema să, boteza -vă, boteza vă, cere să, chema se, chiema să</li>
+</ul>
+
+  </td>
   <td width="50%" valign="top">
 <h3>Reflexive Passive</h3>
 
@@ -2616,24 +2742,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </ul>
 
   </td>
-  <td width="50%" valign="top">
-<h3>Reflexive Passive</h3>
-
-<ul>
-  <li>This corpus contains 40 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: da să, boteza să, ierta să, vedea se, zice să, arunca să, chema să, deschide să, ispiti să, lua să, naște să, aduna să, arde să, arunca -se, arunca s-, arăta s-, auzi se, boteza mă, chema se, chiema să, cunoaște să, da -să, descopere să, erta să, face să, ierta -se, judeca -te, judeca te, măsura să, naște s-, omorî să, propovădui să, smulge -să, spune să, tăia -se, tăia să, umple să, vinde să, întreba se, ști să</li>
-</ul>
-
-  </td>
 </tr>
 <tr>
-  <td width="50%" valign="top">
-<h3>Verbs with Reflexive Core Objects</h3>
-
-<ul>
-  <li>This corpus contains 84 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: răni s-, răni se, aminti -și, opri se, face -și, rezerva își, aminti își, aminti și-, apropia se, asigura se, cumpăra -și, face își, lovi s-, lua își, lăsa se, pregăti se, propune își, ridica se, răni -se, înscrie s-, întoarce se, abandona -se, alege își, amenaja și-, apăra -se, apăra se, arunca -și, ascunde se, asigura -și, asuma își, băga se, considera se, croi -și, cumpăra și-, da își, deștepta se, dori își, fixa se, furniza -și, găsi își, indica și, integra și-, intrebându -se, izbi -se, justifica se, legăna își, lua -și, lua și-, lumina -se, menține se</li>
-</ul>
-
-  </td>
   <td width="50%" valign="top">
 <h3>Verbs with Reflexive Core Objects</h3>
 
@@ -2642,6 +2752,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </ul>
 
   </td>
+  <td width="50%" valign="top">
+<h3>Verbs with Reflexive Core Objects</h3>
+
+<ul>
+  <li>This corpus contains 84 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: răni s-, răni se, aminti -și, opri se, face -și, rezerva își, aminti își, aminti și-, apropia se, asigura se, cumpăra -și, face își, lovi s-, lua își, lăsa se, pregăti se, propune își, ridica se, răni -se, înscrie s-, întoarce se, abandona -se, alege își, amenaja și-, apăra -se, apăra se, arunca -și, ascunde se, asigura -și, asuma își, băga se, considera se, croi -și, cumpăra și-, da își, deștepta se, dori își, fixa se, furniza -și, găsi își, indica și, integra și-, intrebându -se, izbi -se, justifica se, legăna își, lua -și, lua și-, lumina -se, menține se</li>
+</ul>
+
+  </td>
 </tr>
 <tr>
   <td width="50%" valign="top">
@@ -2649,7 +2767,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 14 relation subtypes: <a>advcl:tcl</a>, <a>advmod:tmod</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:pmod</a>, <a>csubj:pass</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>expl:poss</a>, <a>expl:pv</a>, <a>nmod:agent</a>, <a>nmod:pmod</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a></li>
-<li>The following 2 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a></li>
+<li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>
 
   </td>
@@ -2658,7 +2776,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
 <li>This corpus uses 14 relation subtypes: <a>advcl:tcl</a>, <a>advmod:tmod</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>ccomp:pmod</a>, <a>csubj:pass</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>expl:poss</a>, <a>expl:pv</a>, <a>nmod:agent</a>, <a>nmod:pmod</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a></li>
-<li>The following 6 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 2 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a></li>
 </ul>
 
   </td>

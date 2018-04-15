@@ -7,7 +7,7 @@ udver: '2'
 <table>
 <tr>
   <td width="50%" valign="top">
-<h1>UD_Slovenian</h1>
+<h1>UD_Slovenian-SSJ</h1>
 
   </td>
   <td width="50%" valign="top">
@@ -2438,7 +2438,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Nom (263)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(kakor) (1)</li>
       <li>VERB-Fin--PRON-Gen (4)</li>
-      <li>VERB-Fin--PRON-Nom (214)</li>
+      <li>VERB-Fin--PRON-Nom (215)</li>
       <li>VERB-Part--NOUN-Gen (15)</li>
       <li>VERB-Part--NOUN-Nom (100)</li>
       <li>VERB-Part--PRON-Gen (7)</li>
@@ -2494,7 +2494,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen-ADP(čez) (1)</li>
       <li>VERB-Fin--NOUN-Nom (4)</li>
       <li>VERB-Fin--PRON-Acc (155)</li>
-      <li>VERB-Fin--PRON-Dat (79)</li>
+      <li>VERB-Fin--PRON-Dat (76)</li>
       <li>VERB-Fin--PRON-Gen (17)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Inf--NOUN-Acc (45)</li>
@@ -2506,7 +2506,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Acc (217)</li>
       <li>VERB-Part--NOUN-Acc-ADP(navkljub) (1)</li>
       <li>VERB-Part--NOUN-Gen (37)</li>
-      <li>VERB-Part--PRON-Acc (85)</li>
+      <li>VERB-Part--PRON-Acc (83)</li>
       <li>VERB-Part--PRON-Dat (35)</li>
       <li>VERB-Part--PRON-Gen (10)</li>
       <li>VERB-Sup--NOUN-Acc (7)</li>
@@ -2549,13 +2549,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN-Dat (3)</li>
       <li>VERB-Fin--PRON-Acc (1)</li>
-      <li>VERB-Fin--PRON-Dat (37)</li>
+      <li>VERB-Fin--PRON-Dat (39)</li>
       <li>VERB-Inf--NOUN-Acc (1)</li>
       <li>VERB-Inf--PRON-Acc (1)</li>
       <li>VERB-Inf--PRON-Dat (3)</li>
       <li>VERB-Part--NOUN-Acc (1)</li>
       <li>VERB-Part--NOUN-Dat (3)</li>
-      <li>VERB-Part--PRON-Acc (3)</li>
+      <li>VERB-Part--PRON-Acc (5)</li>
       <li>VERB-Part--PRON-Dat (35)</li>
     </ul>
   </li>

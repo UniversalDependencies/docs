@@ -7,7 +7,7 @@ udver: '2'
 <table>
 <tr>
   <td width="50%" valign="top">
-<h1>UD_Turkish</h1>
+<h1>UD_Turkish-IMST</h1>
 
   </td>
   <td width="50%" valign="top">
@@ -144,7 +144,7 @@ udver: '2'
   </td>
   <td width="50%" valign="top">
 <ul>
-<li>This corpus contains 1 lemmas tagged as pronouns (PRON): _</li>
+<li>This corpus contains 34 lemmas tagged as pronouns (PRON): Buray, _, bazı, ben, bir, birbiri, biri, birçoğu, biz, bu, bura, diğer, hangi, hangis, hepsi, herkes, hiçbiri, kendi, ki, kim, kimse, ne, nere, o, on, ora, senden, siz, tamam, çok, çoğ, Şura, şey, şu</li>
 </ul>
 
   </td>
@@ -158,7 +158,7 @@ udver: '2'
   </td>
   <td width="50%" valign="top">
 <ul>
-<li>This corpus contains 1 lemmas tagged as determiners (DET): _</li>
+<li>This corpus contains 20 lemmas tagged as determiners (DET): bazı, bir, birkaç, birtakım, birçok, bu, diğer, hangi, hemen, her, herhangi, hiçbir, kaç, ne, o, tüm, çok, çoğu, öte, şu</li>
 </ul>
 
   </td>
@@ -172,7 +172,7 @@ udver: '2'
   </td>
   <td width="50%" valign="top">
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: _</li>
+<li>Out of the above, 9 lemmas occurred sometimes as PRON and sometimes as DET: bazı, bir, bu, diğer, hangi, ne, o, çok, şu</li>
 </ul>
 
   </td>
@@ -186,7 +186,7 @@ udver: '2'
   </td>
   <td width="50%" valign="top">
 <ul>
-<li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): _</li>
+<li>This corpus contains 55 lemmas tagged as auxiliaries (AUX): _, al, aldığı, bil, bul, bırak, bırakılı, değil, dur, dön, düş, ed, et, eğillerdi, gel, getir, geçen, gibi, git, gör, görün, hal, hissed, i, idi, ise, izle, kal, kaldığ, kalma, karşıla, kıl, mi, mu, mı, ol, olabilecekler, olacak, olarak, olduklar, olduğ, olduğu, olma, olmalısı, olmamış, rastla, say, seç, seçilir, taşı, tutul, yaşam, çalış, çevir, çık</li>
 </ul>
 
   </td>
@@ -199,7 +199,7 @@ udver: '2'
   </td>
   <td width="50%" valign="top">
 <ul>
-<li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: _</li>
+<li>Out of the above, 28 lemmas occurred sometimes as AUX and sometimes as VERB: _, al, bil, bul, bırak, değil, dur, dön, düş, ed, et, gel, getir, git, gör, görün, i, ise, izle, kal, karşıla, ol, rastla, seç, seçilir, taşı, çalış, çık</li>
 </ul>
 
   </td>
@@ -2684,7 +2684,7 @@ udver: '2'
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: i, değil.</li>
+<li>This corpus uses 8 lemmas as copulas (<a>cop</a>). Examples: i, değil, ama, amaç, bil, hava, oku, teşvik.</li>
 </ul>
 
   </td>
@@ -2694,7 +2694,7 @@ udver: '2'
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
+<li>This corpus uses 52 lemmas as copulas (<a>cop</a>). Examples: ol, i, olarak, _, değil, et, kal, olacak, gel, gör, görün, al, bul, bırak, dön, say, çık, aldığı, bil, bırakılı, dur, düş, ed, eğillerdi, getir, geçen, gibi, git, hal, hissed, idi, ise, izle, kaldığ, kalma, karşıla, kıl, olabilecekler, olduklar, olduğ, olduğu, olma, olmalısı, olmamış, rastla, seç, seçilir, taşı, tutul, yaşam.</li>
 </ul>
 
   </td>
@@ -2708,7 +2708,7 @@ udver: '2'
   </td>
   <td width="50%" valign="top">
 <ul>
-<li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
+<li>This corpus uses 21 lemmas as auxiliaries (<a>aux</a>). Examples: Karşılaştır, anlaşıla, büyü, dön, gel, içer, kabul, kal, kapa, mi, mı, oluş, oyna, seç, söyle, tamamla, yap, yönetil, yık, çalış, öngörüleb.</li>
 </ul>
 
   </td>
@@ -2729,7 +2729,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Ins (1)</li>
       <li>VERB--NOUN-Loc (3)</li>
       <li>VERB--NOUN-Loc-ADP(ki) (2)</li>
-      <li>VERB--NOUN-Nom (984)</li>
+      <li>VERB--NOUN-Nom (985)</li>
       <li>VERB--NOUN-Nom-ADP(_) (2)</li>
       <li>VERB--PRON-Acc (1)</li>
       <li>VERB--PRON-Gen (2)</li>
@@ -2751,6 +2751,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Dat (1)</li>
       <li>VERB-Part--NOUN-Gen (58)</li>
       <li>VERB-Part--NOUN-Nom (104)</li>
+      <li>VERB-Part--NOUN-Nom-ADP(li) (1)</li>
       <li>VERB-Part--PRON-Acc (1)</li>
       <li>VERB-Part--PRON-Gen (4)</li>
       <li>VERB-Part--PRON-Nom (13)</li>
@@ -2776,7 +2777,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN (25)</li>
       <li>VERB--NOUN-Nom (364)</li>
       <li>VERB--PRON (2)</li>
-      <li>VERB--PRON-ADP(_) (1)</li>
+      <li>VERB--PRON-ADP(de) (1)</li>
       <li>VERB--PRON-Nom (34)</li>
       <li>VERB-Conv--NOUN-Nom (1)</li>
     </ul>
@@ -2791,7 +2792,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB--NOUN-Abl (1)</li>
-      <li>VERB--NOUN-Acc (588)</li>
+      <li>VERB--NOUN-Acc (584)</li>
       <li>VERB--NOUN-Dat (13)</li>
       <li>VERB--NOUN-Dat-ADP(_) (1)</li>
       <li>VERB--NOUN-Dat-ADP(dair) (2)</li>
@@ -2799,13 +2800,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-Ins (5)</li>
       <li>VERB--NOUN-Loc (5)</li>
       <li>VERB--NOUN-Loc-ADP(ki) (1)</li>
-      <li>VERB--NOUN-Nom (655)</li>
+      <li>VERB--NOUN-Nom (654)</li>
       <li>VERB--NOUN-Nom-ADP(diye) (1)</li>
       <li>VERB--NOUN-Nom-ADP(gibi) (1)</li>
       <li>VERB--NOUN-Nom-ADP(li) (3)</li>
       <li>VERB--NOUN-Nom-ADP(li)-ADP(lik) (1)</li>
       <li>VERB--NOUN-Nom-ADP(olarak) (1)</li>
-      <li>VERB--PRON-Acc (210)</li>
+      <li>VERB--PRON-Acc (209)</li>
       <li>VERB--PRON-Dat (4)</li>
       <li>VERB--PRON-Dat-ADP(diye) (1)</li>
       <li>VERB--PRON-Gen (2)</li>
@@ -2821,7 +2822,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Conv--NOUN-Nom-ADP(li) (1)</li>
       <li>VERB-Conv--PRON-Acc (14)</li>
       <li>VERB-Part--NOUN-Abl (1)</li>
-      <li>VERB-Part--NOUN-Acc (168)</li>
+      <li>VERB-Part--NOUN-Acc (165)</li>
       <li>VERB-Part--NOUN-Dat (5)</li>
       <li>VERB-Part--NOUN-Gen (14)</li>
       <li>VERB-Part--NOUN-Ins (3)</li>
@@ -2832,7 +2833,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--PRON-Acc (38)</li>
       <li>VERB-Part--PRON-Nom (16)</li>
       <li>VERB-Vnoun--NOUN-Abl (1)</li>
-      <li>VERB-Vnoun--NOUN-Acc (115)</li>
+      <li>VERB-Vnoun--NOUN-Acc (114)</li>
       <li>VERB-Vnoun--NOUN-Dat (4)</li>
       <li>VERB-Vnoun--NOUN-Gen (9)</li>
       <li>VERB-Vnoun--NOUN-Ins (3)</li>
@@ -2918,7 +2919,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 2 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: _ kendisini, _ kendini</li>
+  <li>This corpus contains 7 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: bul kendisini, devir kendisini, dost kendisini, kur kendisini, yönet kendini, yönet kendisini, önemse kendini</li>
 </ul>
 
   </td>
@@ -2930,7 +2931,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
 <li>This corpus uses 5 relation subtypes: <a>advmod:emph</a>, <a>aux:q</a>, <a>compound:lvc</a>, <a>compound:redup</a>, <a>nmod:poss</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>aux</a></li>
-<li>The following 12 relation types are not used in this corpus at all: <a>iobj</a>, <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>advcl</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 10 relation types are not used in this corpus at all: <a>iobj</a>, <a>xcomp</a>, <a>expl</a>, <a>dislocated</a>, <a>advcl</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
 </ul>
 
   </td>
@@ -2938,7 +2939,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 9 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>cc:preconj</a>, <a>dep:ig</a>, <a>det:predet</a>, <a>flat:name</a>, <a>nmod:arg</a>, <a>nmod:poss</a>, <a>obl:tmod</a></li>
+<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>advmod:emph</a>, <a>cc:preconj</a>, <a>det:predet</a>, <a>flat:name</a>, <a>nmod:arg</a>, <a>nmod:poss</a>, <a>obl:tmod</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>acl</a></li>
 <li>The following 3 relation types are not used in this corpus at all: <a>expl</a>, <a>list</a>, <a>reparandum</a></li>
 </ul>

@@ -7,7 +7,7 @@ udver: '2'
 <table>
 <tr>
   <td width="25%" valign="top">
-<h1>UD_Italian</h1>
+<h1>UD_Italian-ISDT</h1>
 
   </td>
   <td width="25%" valign="top">
@@ -48,7 +48,7 @@ udver: '2'
 <tr>
   <td width="25%" valign="top">
 <ul>
-<li>This corpus contains 13884 sentences, 273444 tokens and 293028 syntactic words.</li>
+<li>This corpus contains 14167 sentences, 278429 tokens and 298344 syntactic words.</li>
 </ul>
 
   </td>
@@ -66,7 +66,7 @@ udver: '2'
   </td>
   <td width="25%" valign="top">
 <ul>
-<li>This corpus contains 3510 sentences, 61887 tokens and 64538 syntactic words.</li>
+<li>This corpus contains 6713 sentences, 119272 tokens and 124444 syntactic words.</li>
 </ul>
 
   </td>
@@ -74,7 +74,7 @@ udver: '2'
 <tr>
   <td width="25%" valign="top">
 <ul>
-<li>This corpus contains 39252 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 39877 tokens (14%) that are not followed by a space.</li>
 </ul>
 
   </td>
@@ -92,7 +92,7 @@ udver: '2'
   </td>
   <td width="25%" valign="top">
 <ul>
-<li>This corpus contains 6693 tokens (11%) that are not followed by a space.</li>
+<li>This corpus contains 13160 tokens (11%) that are not followed by a space.</li>
 </ul>
 
   </td>
@@ -126,7 +126,7 @@ udver: '2'
 <tr>
   <td width="25%" valign="top">
 <ul>
-<li>This corpus contains 206 types of words that contain both letters and punctuation. Examples: l', d', un', l’, art., c', quest', cos', po', v., n., e', s', dov', 's, d’, l., quest’, c’, un’, anch', att., quell', check-up, S., Sant', e-mail, tutt', ss., cinquant', Cost., F., artt., ecc., n', trent', com', dell', distr., s.p.a., sett., vent', Civ., Cod., H., Proc., T., W., al., cm.</li>
+<li>This corpus contains 210 types of words that contain both letters and punctuation. Examples: l', d', un', l’, art., c', quest', cos', d’, po', v., quest’, n., e', s', dov', 's, l., c’, un’, anch', att., quell', check-up, S., Sant', e-mail, tutt', ss., R.E.M., cinquant', Cost., F., artt., ecc., n', trent', com', dell', distr., s.p.a., sett., vent', Civ., Cod., H., Proc., T., W., al.</li>
 </ul>
 
   </td>
@@ -144,7 +144,7 @@ udver: '2'
   </td>
   <td width="25%" valign="top">
 <ul>
-<li>This corpus contains 3582 types of words that contain both letters and punctuation. Examples: l', #grillo, #monti, e', #governo, c', #serviziopubblico, d', #m5s, #piazzapulita, un', @youtube, #manovra, #mario, po', #italia, #Napolitano, #berlusconi, #ministri, #politica, @beppe_grillo, #lega, #oramonti, @addthis, #bersani, #fullmonti, #pd, #sapevatelo, @fattoquotidiano, :D, #pdl, #rt, @SkyTg24, @repubblicait, B., c:, #news, #rimontiamo, #roma, #ballarò, #bossi, #movimento5stelle, #opencamera, #xf7, perche', #fatepresto, #liberalizzazioni, #nomonti, #postofisso, #vendola</li>
+<li>This corpus contains 6217 types of words that contain both letters and punctuation. Examples: l', #grillo, #monti, #governo, e', c', #serviziopubblico, #piazzapulita, #m5s, d', un', #manovra, #berlusconi, @youtube, #mario, #politica, #lega, #ministri, #pd, #italia, :D, #Napolitano, po', #oramonti, #sapevatelo, @addthis, @beppe_grillo, #bersani, #rimontiamo, #pdl, B., #fullmonti, #bossi, @fattoquotidiano, c:, #rt, #crisi, #m5stour, #news, #roma, @skytg24, #fatepresto, #liberalizzazioni, @repubblicait, #ballarò, #cinemaInChiesa, #movimento5stelle, #antipolitica, #opencamera, #postofisso</li>
 </ul>
 
   </td>
@@ -152,8 +152,8 @@ udver: '2'
 <tr>
   <td width="25%" valign="top">
 <ul>
-<li>This corpus contains 19558 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 809 types of multi-word tokens. Examples: del, della, dei, al, nel, dell', delle, alla, dal, all', nella, degli, dalla, ai, alle, nei, sul, nell', nelle, sulla, dall', dalle, dello, dai, negli, sulle, sull', agli, sui, dell’, dagli, allo, nello, col, sugli, dallo, all’, sullo, farsi, farlo, esserci, essersi, farne, nell’, dall’, coi, muoversi, osservarsi, renderlo, servirsi.</li>
+<li>This corpus contains 19889 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+<li>There are 810 types of multi-word tokens. Examples: del, della, dei, al, nel, dell', delle, alla, dal, all', nella, degli, dalla, ai, alle, nei, sul, nell', nelle, sulla, dall', dalle, dello, dai, negli, sulle, dell’, sull', agli, sui, dagli, allo, nello, col, sugli, dallo, all’, sullo, farsi, farlo, esserci, essersi, nell’, dall’, farne, coi, muoversi, osservarsi, renderlo, servirsi.</li>
 </ul>
 
   </td>
@@ -173,8 +173,8 @@ udver: '2'
   </td>
   <td width="25%" valign="top">
 <ul>
-<li>This corpus contains 2639 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-<li>There are 278 types of multi-word tokens. Examples: del, della, al, alla, dei, nel, sul, all', alle, dal, dell', ai, delle, sui, nella, sulla, degli, dalla, nei, agli, col, sulle, sull', dall', dai, allo, dalle, nell', nelle, seguimi, dello, ditemi, farlo, negli, dagli, farsi, farci, farmi, permettersi, risolverla, INFORMATEVI, andarmene, andarsene, cercasi, chiedermi, coi, comunicarvi, dallo, dirgli, ditelo.</li>
+<li>This corpus contains 5144 multi-word tokens. On average, one multi-word token consists of 2.01 syntactic words.</li>
+<li>There are 459 types of multi-word tokens. Examples: del, della, al, alla, dei, nel, sul, dal, dell', all', alle, ai, delle, sulla, nella, dalla, degli, sui, nei, sulle, agli, dai, col, dall', nell', dalle, sull', allo, dello, nelle, seguimi, farlo, farsi, negli, dagli, farci, coi, ditemi, glielo, dirlo, nello, parlarne, spararsi, dallo, dargli, dirla, farla, farmi, fatemi, permettersi.</li>
 </ul>
 
   </td>
@@ -269,7 +269,7 @@ udver: '2'
   </td>
   <td width="25%" valign="top">
 <ul>
-<li>This corpus contains 64 lemmas tagged as pronouns (PRON): alcuno, altro, ce, che, chi, chiunque, ci, ciò, cosa, cui, c’, dove, egli, entrambi, esso, gli, il, io, la, le, li, lo, loro, me, mi, mio, molto, ne, nessuno, niente, noi, nostro, nulla, ognuno, parecchio, poco, qual, qualche, qualcosa, qualcosaltro, qualcuno, quale, quando, quanto, quello, questo, se, si, stesso, suo, sè, tanto, te, ti, tu, tuo, tutto, una, uno, ve, vi, voi, voialtri, vostro</li>
+<li>This corpus contains 69 lemmas tagged as pronouns (PRON): alcuno, altro, ce, che, chi, chiunque, ché, ci, ciò, coloro, cosa, costui, cui, c’, dove, egli, entrambi, esso, gli, il, io, la, le, li, lo, loro, me, mi, mio, molto, ne, nessuno, niente, noi, nostro, nulla, ognuno, parecchio, poco, qual, qualche, qualcosa, qualcosaltro, qualcuno, quale, quando, quanto, quello, questo, se, si, stesso, suo, sé, tanto, te, terzo, ti, tu, tuo, tutto, una, uni, uno, ve, vi, voi, voialtri, vostro</li>
 </ul>
 
   </td>
@@ -277,7 +277,7 @@ udver: '2'
 <tr>
   <td width="25%" valign="top">
 <ul>
-<li>This corpus contains 79 lemmas tagged as determiners (DET): Every, Les, Ma, Una, Une, a, alcun, alcuno, altrettanto, altro, altrui, ambedue, certo, che, ciascun, ciascuno, cui, da, de, dei, del, della, determinato, di, diverso, entrambi, equale, i, il, l', la, le, lo, loro, mio, moltissimi, molto, my, nessun, nessuna, nessuno, niente, nostro, numeroso, ogni, parecchio, più, poco, proprio, qualche, qualcuno, quale, quali, qualsiasi, qualsivoglia, qualunque, quanta, quanto, quelle, quello, quest', questo, suo, svariato, tale, taluna, taluno, tanto, the, troppo, tuo, tutta, tutti, tutto, un, uno, vario, veruno, vostro</li>
+<li>This corpus contains 80 lemmas tagged as determiners (DET): Every, Les, Ma, Una, Une, a, abbastanza, alcun, alcuno, altrettanto, altro, altrui, ambedue, certo, che, ciascun, ciascuno, cui, da, de, dei, del, della, determinato, di, diverso, entrambi, equale, i, il, l', la, le, lo, loro, mio, moltissimi, molto, my, nessun, nessuna, nessuno, niente, nostro, numeroso, ogni, parecchio, più, poco, proprio, qualche, qualcuno, quale, quali, qualsiasi, qualsivoglia, qualunque, quanta, quanto, quelle, quello, quest', questo, suo, svariato, tale, taluna, taluno, tanto, the, troppo, tuo, tutta, tutti, tutto, un, uno, vario, veruno, vostro</li>
 </ul>
 
   </td>
@@ -295,7 +295,7 @@ udver: '2'
   </td>
   <td width="25%" valign="top">
 <ul>
-<li>This corpus contains 39 lemmas tagged as determiners (DET): 1, alcuno, altro, certo, che, del, della, di, diverso, il, lo, loro, mio, molto, nessuno, niente, nostro, ogni, poco, proprio, qualche, quale, qualsiasi, qualunque, quanto, quello, questo, simile, stesso, sto, suo, tanto, troppo, tuo, tutto, uno, vario, vostro, ‎lo</li>
+<li>This corpus contains 41 lemmas tagged as determiners (DET): 1, alcuno, altro, certo, che, del, della, di, diverso, il, lo, loro, mio, molto, nessuno, niente, nostro, ogni, poco, proprio, qualche, quale, qualsiasi, qualunque, quanto, quello, questo, simile, stesso, sto, suo, tale, tantissimo, tanto, troppo, tuo, tutto, uno, vario, vostro, ‎lo</li>
 </ul>
 
   </td>
@@ -409,8 +409,8 @@ udver: '2'
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: è, sono, ha, può, hanno, era, deve, possono, sia, fu</li>
-    <li>VERB: ha, è, hanno, trova, sono, fa, chiama, dice, morì, fanno</li>
+    <li>AUX: è, sono, ha, può, hanno, era, possono, deve, sia, fu</li>
+    <li>VERB: ha, è, hanno, trova, sono, fa, chiama, fanno, dice, morì</li>
   </ul>
   </li>
 </ul>
@@ -434,9 +434,8 @@ udver: '2'
 <ul>
   <li>Fin
   <ul>
-    <li>AUX: è, ha, sono, e', ho, può, siamo, sei, sarà, hanno</li>
-    <li>VERB: fa, è, ha, dice, piace, ho, va, parla, so, fanno</li>
-    <li>X: amo, preciso</li>
+    <li>AUX: è, sono, ha, ho, e', siamo, sei, può, hanno, sarà</li>
+    <li>VERB: fa, è, ha, dice, piace, va, ho, parla, amo, fanno</li>
   </ul>
   </li>
 </ul>
@@ -474,7 +473,7 @@ udver: '2'
   <li>Ger
   <ul>
     <li>AUX: essendo, avendo, dovendo</li>
-    <li>VERB: facendo, aspettando, andando, cambiando, sostenendo, comprando, considerando, dando, dicendo, iniziando</li>
+    <li>VERB: facendo, aspettando, andando, dando, dicendo, dimostrando, guardando, cercando, diventando, parlando</li>
   </ul>
   </li>
 </ul>
@@ -487,7 +486,7 @@ udver: '2'
   <li>Inf
   <ul>
     <li>AUX: essere, aver, poter, esser, dover, avere, voler, venire, far</li>
-    <li>VERB: fare, far, vedere, avere, dire, dare, chiedere, andare, pagare, usare</li>
+    <li>VERB: fare, far, vedere, avere, dire, dare, pagare, andare, chiedere, usare</li>
   </ul>
   </li>
 </ul>
@@ -511,8 +510,8 @@ udver: '2'
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: essere, aver, voler, esser, avere, dover, poter, potere, volere</li>
-    <li>VERB: fare, far, dire, vedere, avere, andare, dare, parlare, ridere, cambiare</li>
+    <li>AUX: essere, aver, voler, esser, poter, avere, dover, potere, volere</li>
+    <li>VERB: fare, far, dire, vedere, andare, avere, parlare, pagare, ridere, uscire</li>
   </ul>
   </li>
 </ul>
@@ -525,8 +524,8 @@ udver: '2'
   <li>Part
   <ul>
     <li>AUX: stato, stata, stati, state, potuto, dovuto, voluto, andato, potuta, andata</li>
-    <li>NOUN: previsto</li>
-    <li>VERB: fatto, visto, vinto, avuto, tenuto, detto, nato, dato, ricevuto, messo</li>
+    <li>NOUN: partiti, previsto</li>
+    <li>VERB: fatto, visto, vinto, avuto, tenuto, detto, nato, dato, messo, ricevuto</li>
   </ul>
   </li>
 </ul>
@@ -550,8 +549,8 @@ udver: '2'
 <ul>
   <li>Part
   <ul>
-    <li>AUX: stato, stata, stati, potuto, state, dovuta, dovuto</li>
-    <li>VERB: fatto, detto, dato, messo, nominato, fatta, iniziato, perso, preso, stata</li>
+    <li>AUX: stato, stata, stati, state, potuto, dovuto, dovuta</li>
+    <li>VERB: fatto, detto, dato, nominato, fatta, messo, trovato, letto, perso, iniziato</li>
   </ul>
   </li>
 </ul>
@@ -603,13 +602,13 @@ udver: '2'
   <ul>
     <li>Fem
       <ul>
-        <li>ADJ: prima, italiana, altra, stessa, altre, nuova, nuove, economica, seconda, alta</li>
+        <li>ADJ: prima, italiana, altra, altre, stessa, seconda, nuova, nuove, economica, alta</li>
         <li>AUX-Part: stata, state, potuta, andata, fatta</li>
-        <li>DET: la, le, una, sua, un', questa, sue, queste, tutte, tutta</li>
-        <li>NOUN: città, parte, legge, società, persone, proprietà, attività, vita, servitù, commissione</li>
+        <li>DET: la, le, una, sua, un', questa, sue, queste, tutte, molte</li>
+        <li>NOUN: città, parte, persone, legge, società, proprietà, attività, vita, servitù, commissione</li>
         <li>PRON: la, le, quella, quelle, una, questa, essa, esse, altra, lei</li>
         <li>PROPN: hye</li>
-        <li>VERB-Part: fatta, stabilite, dovuta, fatte, vista, considerata, costituita, fondata, nata, chiamata</li>
+        <li>VERB-Part: fatta, stabilite, fatte, vista, dovuta, considerata, costituita, fondata, nata, chiamata</li>
       </ul>
     </li>
   </ul>
@@ -653,12 +652,12 @@ udver: '2'
   <ul>
     <li>Fem
       <ul>
-        <li>ADJ: buona, bella, politica, italiana, nuova, prima, unica, pubblica, prime, sola</li>
+        <li>ADJ: bella, buona, nuova, prima, politica, italiana, unica, vera, prime, economica</li>
         <li>AUX-Part: stata, state, dovuta</li>
-        <li>DET: la, le, una, mia, un', questa, tua, sua, nostra, queste</li>
-        <li>NOUN: crisi, politica, manovra, vita, tv, foto, gente, fiducia, cosa, cose</li>
-        <li>PRON: la, le, lei, questa, quella, tutte, quelle, una, altre, tua</li>
-        <li>VERB-Part: fatta, stata, chiamata, finita, andata, fatte, interrogata, riuscita, varata, adottata</li>
+        <li>DET: la, le, una, mia, questa, un', sua, tua, nostra, sue</li>
+        <li>NOUN: crisi, politica, manovra, vita, tv, foto, cosa, fiducia, gente, fine</li>
+        <li>PRON: la, le, lei, quella, questa, tutte, quelle, una, tua, sua</li>
+        <li>VERB-Part: fatta, finita, stata, chiamata, fatte, andata, varata, arrivata, dedicata, morta</li>
       </ul>
     </li>
   </ul>
@@ -670,16 +669,16 @@ udver: '2'
   <ul>
     <li>Masc
       <ul>
-        <li>ADJ: primo, nuovo, altri, altro, stesso, vero, europeo, secondo, terzo, pubblico</li>
+        <li>ADJ: primo, nuovo, altri, altro, stesso, vero, secondo, terzo, europeo, italiani</li>
         <li>ADP: del, du</li>
         <li>ADV: pochissimo</li>
         <li>AUX-Part: stato, stati, potuto, dovuto, voluto, andato, fatto, potuti</li>
         <li>DET: il, i, un, gli, lo, suo, questo, tutti, suoi, alcuni</li>
-        <li>NOUN: anni, presidente, fondo, diritto, anno, stato, film, proprietario, mondo, caso</li>
-        <li>NOUN-Part: previsto</li>
+        <li>NOUN: anni, presidente, anno, fondo, diritto, film, stato, proprietario, mondo, caso</li>
+        <li>NOUN-Part: partiti, previsto</li>
         <li>PRON: lo, quello, uno, li, questo, gli, lui, tutto, ciò, tutti</li>
         <li>VERB-Fin: chiamati</li>
-        <li>VERB-Part: fatto, visto, vinto, avuto, tenuto, detto, nato, dato, ricevuto, messo</li>
+        <li>VERB-Part: fatto, visto, vinto, avuto, tenuto, detto, nato, dato, messo, ricevuto</li>
         <li>X: mixer</li>
       </ul>
     </li>
@@ -725,13 +724,14 @@ udver: '2'
   <ul>
     <li>Masc
       <ul>
-        <li>ADJ: nuovo, buon, primo, vero, giusto, bravo, italiano, bel, fisso, caro</li>
+        <li>ADJ: nuovo, buon, primo, vero, giusto, fisso, tecnico, bello, bravo, italiano</li>
         <li>AUX-Part: stato, stati, potuto, dovuto</li>
-        <li>DET: il, i, un, gli, lo, questo, mio, suo, suoi, uno</li>
-        <li>NOUN: governo, video, anni, premier, presidente, partiti, lavoro, amore, professor, italiani</li>
-        <li>PRON: lo, tutti, tutto, quello, l', li, uno, questo, gli, altro</li>
-        <li>VERB-Part: fatto, detto, dato, messo, nominato, iniziato, perso, preso, morto, trovato</li>
-        <li>X: Gol, amor, mal, quanto</li>
+        <li>DET: il, i, un, gli, lo, questo, mio, suo, uno, suoi</li>
+        <li>NOUN: governo, video, anni, premier, lavoro, presidente, partiti, paese, italiani, professor</li>
+        <li>PRON: lo, tutti, tutto, quello, l', li, gli, questo, uno, nessuno</li>
+        <li>PROPN: pepe</li>
+        <li>VERB-Part: fatto, detto, dato, nominato, messo, trovato, letto, perso, iniziato, rotto</li>
+        <li>X: mal</li>
       </ul>
     </li>
   </ul>
@@ -815,15 +815,17 @@ udver: '2'
   <ul>
     <li>Plur
       <ul>
-        <li>ADJ: altri, grandi, seguenti, nazionali, speciali, altre, locali, importanti, internazionali, principali</li>
-        <li>AUX-Fin: sono, hanno, possono, erano, siano, devono, abbiamo, possiamo, siamo, vengono</li>
+        <li>ADJ: altri, grandi, seguenti, nazionali, importanti, locali, altre, speciali, internazionali, italiani</li>
+        <li>AUX-Fin: sono, hanno, possono, erano, siano, devono, abbiamo, possiamo, siamo, avevano</li>
         <li>AUX-Part: stati, state, potuti</li>
         <li>DET: i, le, gli, tutti, suoi, alcuni, quanti, sue, questi, queste</li>
-        <li>NOUN: anni, persone, opere, paesi, diritti, giorni, membri, cittadini, donne, stati</li>
+        <li>NOUN: anni, persone, paesi, opere, cittadini, diritti, giorni, membri, donne, condizioni</li>
+        <li>NOUN-Part: partiti</li>
         <li>PRON: ci, li, noi, tutti, altri, loro, quelli, quelle, quali, vi</li>
         <li>PROPN: hye</li>
-        <li>VERB-Fin: hanno, sono, fanno, trovano, applicano, partecipano, abbiamo, esistono, vivono, vanno</li>
-        <li>VERB-Part: stabilite, fatti, stabiliti, fatte, derivanti, esistenti, chiamati, appartenenti, compresi, costituite</li>
+        <li>VERB: hanno, sono, fanno, fatti, stabilite, trovano, stabiliti, applicano, partecipano, vivono</li>
+        <li>VERB-Fin: hanno, sono, fanno, trovano, applicano, partecipano, vivono, abbiamo, esistono, lavorano</li>
+        <li>VERB-Part: fatti, stabilite, stabiliti, fatte, derivanti, chiamati, appartenenti, costituite, posti, previsti</li>
       </ul>
     </li>
   </ul>
@@ -868,14 +870,14 @@ udver: '2'
   <ul>
     <li>Plur
       <ul>
-        <li>ADJ: grande, sociali, giovani, deboli, inutili, forti, prime, primi, migliori, importanti</li>
-        <li>AUX-Fin: sono, siamo, hanno, abbiamo, siete, avete, dobbiamo, saranno, stanno, erano</li>
+        <li>ADJ: grande, migliori, sociali, deboli, inutili, forti, primi, prime, giovani, importanti</li>
+        <li>AUX-Fin: sono, siamo, hanno, abbiamo, siete, saranno, avete, dobbiamo, stanno, erano</li>
         <li>AUX-Part: stati, state</li>
-        <li>DET: i, le, gli, suoi, miei, questi, nostri, tuoi, queste, sue</li>
-        <li>NOUN: anni, partiti, cose, italiani, giorni, politici, ministri, elezioni, pensioni, ragazzi</li>
-        <li>PRON: ci, tutti, c', noi, vi, li, voi, ce, altri, quelli</li>
-        <li>VERB-Fin: fanno, sono, speriamo, dicono, hanno, abbiamo, fate, dite, parlano, servono</li>
-        <li>VERB-Part: costretti, fatte, dati, esistenti, imposte, messi, morti, passati, rotti, soddisfatti</li>
+        <li>DET: i, le, gli, suoi, questi, miei, sue, nostri, sti, queste</li>
+        <li>NOUN: anni, partiti, italiani, politici, cose, ministri, giorni, elezioni, parole, voti</li>
+        <li>PRON: ci, tutti, c', noi, vi, li, ce, voi, loro, altri</li>
+        <li>VERB-Fin: fanno, speriamo, hanno, sono, fate, dicono, abbiamo, parlano, vediamo, dite</li>
+        <li>VERB-Part: fatte, stati, costretti, messi, morti, nati, visti, abituati, ammessi, dati</li>
       </ul>
     </li>
   </ul>
@@ -887,17 +889,17 @@ udver: '2'
   <ul>
     <li>Sing
       <ul>
-        <li>ADJ: grande, presente, primo, comune, prima, internazionale, nazionale, possibile, mondiale, sociale</li>
+        <li>ADJ: grande, presente, primo, comune, mondiale, prima, internazionale, nazionale, possibile, sociale</li>
         <li>ADP: del, du</li>
         <li>ADV: pochissimo</li>
         <li>AUX-Fin: è, ha, può, era, deve, sia, fu, viene, aveva, venne</li>
         <li>AUX-Part: stato, stata, potuto, dovuto, voluto, andato, potuta, andata, fatta, fatto</li>
         <li>DET: il, la, l', un, una, lo, quale, sua, suo, un'</li>
-        <li>NOUN: presidente, parte, fondo, diritto, anno, legge, stato, proprietario, mondo, caso</li>
+        <li>NOUN: presidente, parte, anno, fondo, diritto, legge, stato, proprietario, mondo, caso</li>
         <li>NOUN-Part: previsto</li>
         <li>PRON: lo, qual, quanto, mi, quale, quello, uno, la, questo, cosa</li>
-        <li>VERB-Fin: ha, è, trova, fa, chiama, dice, morì, significa, vede, sembra</li>
-        <li>VERB-Part: fatto, visto, vinto, avuto, tenuto, detto, nato, dato, ricevuto, messo</li>
+        <li>VERB-Fin: ha, è, trova, fa, chiama, dice, morì, significa, vede, era</li>
+        <li>VERB-Part: fatto, visto, vinto, avuto, tenuto, detto, nato, dato, messo, ricevuto</li>
         <li>X: cultural, state</li>
       </ul>
     </li>
@@ -944,17 +946,16 @@ udver: '2'
   <ul>
     <li>Sing
       <ul>
-        <li>ADJ: nuovo, difficile, forte, migliore, buon, primo, buona, bella, fiscale, possibile</li>
-        <li>AUX-Fin: è, ha, sono, e', ho, può, sei, sarà, sia, deve</li>
-        <li>AUX-Part: stato, stata, potuto, dovuta, dovuto, state</li>
-        <li>DET: il, la, l', un, una, lo, questo, mio, mia, suo</li>
-        <li>NOUN: governo, politica, manovra, vita, presidente, gente, lavoro, fiducia, amore, cosa</li>
-        <li>PRON: mi, lo, ti, io, la, me, tutto, quello, te, tu</li>
-        <li>VERB: fatto, fa, è, ha, dice, piace, ho, va, detto, parla</li>
-        <li>VERB-Fin: fa, è, ha, dice, piace, ho, va, parla, so, sta</li>
-        <li>VERB-Part: fatto, detto, dato, messo, nominato, fatta, iniziato, perso, preso, stata</li>
-        <li>X: amo, amor, mal, me, preciso, quanto, te</li>
-        <li>X-Fin: amo, preciso</li>
+        <li>ADJ: nuovo, bella, buon, possibile, facile, buona, primo, forte, migliore, sociale</li>
+        <li>AUX-Fin: è, ha, sono, ho, e', sei, può, sarà, sia, sta</li>
+        <li>AUX-Part: stato, stata, potuto, dovuto, dovuta, state</li>
+        <li>DET: il, la, l', un, una, lo, questo, mio, mia, questa</li>
+        <li>NOUN: governo, politica, manovra, vita, presidente, lavoro, cosa, fiducia, paese, gente</li>
+        <li>PRON: mi, lo, ti, io, tutto, me, la, quello, te, tu</li>
+        <li>VERB: fa, fatto, è, ha, dice, piace, va, ho, detto, parla</li>
+        <li>VERB-Fin: fa, è, ha, dice, piace, va, ho, parla, amo, so</li>
+        <li>VERB-Part: fatto, detto, dato, nominato, fatta, messo, trovato, letto, perso, iniziato</li>
+        <li>X: mal, te</li>
       </ul>
     </li>
   </ul>
@@ -1143,7 +1144,7 @@ udver: '2'
   <ul>
     <li>Def
       <ul>
-        <li>DET: il, la, i, l', le, gli, lo, l, Lle, a</li>
+        <li>DET: il, la, i, l', le, gli, lo, l, del, Lle</li>
         <li>PRON: le</li>
       </ul>
     </li>
@@ -1179,7 +1180,8 @@ udver: '2'
   <ul>
     <li>Ind
       <ul>
-        <li>DET: un, una, un', uno, na, kol, n'</li>
+        <li>DET: un, una, un', uno, na, 1, l', n', io, kol</li>
+        <li>PRON: una</li>
       </ul>
     </li>
   </ul>
@@ -1290,7 +1292,7 @@ udver: '2'
   <ul>
     <li>Abs
       <ul>
-        <li>ADJ: bellissimo, bellissima, bravissimo, dolcissimo, durissime, facilissimo, felicissima, grandissima, Carissimo, Cattivissimo</li>
+        <li>ADJ: bellissimo, bellissima, bravissimo, felicissima, gentilissimo, grandissima, grandissimo, bellissime, bravissimi, dolcissimo</li>
       </ul>
     </li>
   </ul>
@@ -1639,8 +1641,8 @@ udver: '2'
   <ul>
     <li>Cnd
       <ul>
-        <li>AUX-Fin: sarebbe, dovrebbe, potrebbe, vorrei, avremmo, sarei, avrebbero, avrei, potremmo, potresti</li>
-        <li>VERB-Fin: bisognerebbe, farebbe, andrebbero, direi, vorrei, avremmo, vorrebbe, avrebbe, direbbe, faresti</li>
+        <li>AUX-Fin: sarebbe, dovrebbe, potrebbe, vorrei, avrebbe, avrebbero, avrei, potrebbero, potrei, potremmo</li>
+        <li>VERB-Fin: vorrei, direi, farebbe, bisognerebbe, vorrebbe, andrebbero, faresti, andrebbe, avrebbe, avremmo</li>
       </ul>
     </li>
   </ul>
@@ -1653,6 +1655,7 @@ udver: '2'
     <li>Imp
       <ul>
         <li>AUX-Fin: devi, dovete, sii</li>
+        <li>VERB: v., Nomina, Dimmi, Elenca, vedi, Dammi, andate, clicca, ricorda, usa</li>
         <li>VERB-Fin: v., Nomina, Dimmi, Elenca, vedi, Dammi, clicca, ricorda, usa, vai</li>
       </ul>
     </li>
@@ -1684,9 +1687,9 @@ udver: '2'
   <ul>
     <li>Imp
       <ul>
-        <li>AUX-Fin: abbiamo, vogliamo, stiamo</li>
-        <li>VERB: speriamo, basta, Controlla, dite, segui, vai, guarda, pensa, scusate, fate</li>
-        <li>VERB-Fin: speriamo, basta, Controlla, dite, segui, vai, guarda, pensa, scusate, fate</li>
+        <li>AUX-Fin: abbiamo, siate, Siamo, vogliamo, Sii, stai, state, stiamo</li>
+        <li>VERB: speriamo, segui, fate, Controlla, dite, scusa, guarda, vai, scusate, vediamo</li>
+        <li>VERB-Fin: speriamo, segui, fate, Controlla, dite, scusa, guarda, vai, scusate, vediamo</li>
       </ul>
     </li>
   </ul>
@@ -1698,8 +1701,8 @@ udver: '2'
   <ul>
     <li>Ind
       <ul>
-        <li>AUX-Fin: è, sono, ha, può, hanno, era, deve, possono, fu, erano</li>
-        <li>VERB-Fin: ha, è, hanno, trova, sono, fa, chiama, dice, morì, fanno</li>
+        <li>AUX-Fin: è, sono, ha, può, hanno, era, possono, deve, fu, erano</li>
+        <li>VERB-Fin: ha, è, hanno, trova, sono, fa, chiama, fanno, dice, morì</li>
       </ul>
     </li>
   </ul>
@@ -1731,9 +1734,8 @@ udver: '2'
   <ul>
     <li>Ind
       <ul>
-        <li>AUX-Fin: è, ha, sono, e', ho, può, siamo, sei, sarà, hanno</li>
-        <li>VERB-Fin: fa, è, ha, dice, piace, ho, va, parla, so, fanno</li>
-        <li>X-Fin: amo, preciso</li>
+        <li>AUX-Fin: è, sono, ha, ho, e', sei, siamo, può, hanno, sarà</li>
+        <li>VERB-Fin: fa, è, ha, dice, piace, va, ho, parla, amo, fanno</li>
       </ul>
     </li>
   </ul>
@@ -1778,8 +1780,8 @@ udver: '2'
   <ul>
     <li>Sub
       <ul>
-        <li>AUX-Fin: sia, fosse, siano, abbia, fossi, possa, dobbiamo, abbiano, fossero, stia</li>
-        <li>VERB-Fin: faccia, dica, abbia, vada, fosse, sia, dia, abbiano, arrivi, chiami</li>
+        <li>AUX-Fin: sia, fosse, siano, abbia, possa, stia, fossi, avesse, dobbiamo, fossero</li>
+        <li>VERB-Fin: faccia, sia, vada, dica, abbia, dia, fosse, arrivi, duri, facciano</li>
       </ul>
     </li>
   </ul>
@@ -1835,8 +1837,8 @@ udver: '2'
   <ul>
     <li>Fut
       <ul>
-        <li>AUX-Fin: sarà, saranno, potrà, dovrà, potranno, dovranno, verrà, sarò, avrà, verranno</li>
-        <li>VERB-Fin: sarà, vedrà, avrà, farà, vedremo, andrà, diventerà, saranno, avranno, continuerà</li>
+        <li>AUX-Fin: sarà, saranno, potrà, dovrà, potranno, dovranno, verrà, sarò, avrà, potremo</li>
+        <li>VERB-Fin: sarà, vedrà, avrà, farà, vedremo, andrà, continuerà, diventerà, saranno, avranno</li>
       </ul>
     </li>
   </ul>
@@ -1868,8 +1870,8 @@ udver: '2'
   <ul>
     <li>Fut
       <ul>
-        <li>AUX-Fin: sarà, saranno, saremo, sarò, verrà, avrà, potrai, Avrai, Dovrò, Sará</li>
-        <li>VERB-Fin: farà, sarà, andrà, arriverà, toccherà, avrà, faremo, sara', andremo, durerà</li>
+        <li>AUX-Fin: sarà, saranno, avrà, saremo, dovrà, sarò, verrà, sarai, dovrò, potrai</li>
+        <li>VERB-Fin: farà, sarà, andrà, faremo, avrà, sara', arriverà, toccherà, andremo, durerà</li>
       </ul>
     </li>
   </ul>
@@ -1881,8 +1883,8 @@ udver: '2'
   <ul>
     <li>Imp
       <ul>
-        <li>AUX-Fin: era, erano, aveva, avevano, fosse, avesse, poteva, fossero, potevano, avevo</li>
-        <li>VERB-Fin: era, aveva, chiamava, erano, faceva, avevano, facevano, diceva, lavorava, prevedeva</li>
+        <li>AUX-Fin: era, erano, aveva, avevano, fosse, avesse, poteva, potevano, fossero, avevo</li>
+        <li>VERB-Fin: era, aveva, chiamava, erano, faceva, avevano, facevano, diceva, lavorava, lavoravano</li>
       </ul>
     </li>
   </ul>
@@ -1906,8 +1908,8 @@ udver: '2'
   <ul>
     <li>Imp
       <ul>
-        <li>AUX-Fin: era, fosse, ero, erano, avevo, fossi, poteva, aveva, volevo, voleva</li>
-        <li>VERB-Fin: aveva, era, fosse, diceva, stavi, stavo, conoscevo, dimenticavo, erano, faceva</li>
+        <li>AUX-Fin: era, fosse, avevo, erano, ero, poteva, aveva, fossi, voleva, doveva</li>
+        <li>VERB-Fin: era, aveva, faceva, erano, fosse, pensavo, avevo, diceva, facesse, stavo</li>
       </ul>
     </li>
   </ul>
@@ -1921,9 +1923,9 @@ udver: '2'
       <ul>
         <li>AUX-Fin: fu, venne, furono, vennero, potè, Fui, dovette, poterono</li>
         <li>AUX-Part: stato, stata, stati, state, potuto, dovuto, voluto, andato, potuta, andata</li>
-        <li>NOUN-Part: previsto</li>
+        <li>NOUN-Part: partiti, previsto</li>
         <li>VERB-Fin: morì, scrisse, nacque, ebbe, fu, vide, avvenne, divenne, portò, fece</li>
-        <li>VERB-Part: fatto, visto, vinto, avuto, tenuto, detto, nato, dato, ricevuto, messo</li>
+        <li>VERB-Part: fatto, visto, vinto, avuto, tenuto, detto, nato, dato, messo, ricevuto</li>
       </ul>
     </li>
   </ul>
@@ -1957,10 +1959,10 @@ udver: '2'
   <ul>
     <li>Past
       <ul>
-        <li>AUX-Fin: fu, venne</li>
-        <li>AUX-Part: stato, stata, stati, potuto, state, dovuta, dovuto</li>
-        <li>VERB-Fin: evasi, appesi, dette, disse, presi, accorsi, capìì, chiese, colpì, comprai</li>
-        <li>VERB-Part: fatto, detto, dato, messo, nominato, fatta, iniziato, perso, preso, stata</li>
+        <li>AUX-Fin: fu, venne, dovette, voleste</li>
+        <li>AUX-Part: stato, stata, stati, state, potuto, dovuto, dovuta</li>
+        <li>VERB-Fin: disse, evasi, appesi, compresi, dette, divenne, multò, nacque, por, prese</li>
+        <li>VERB-Part: fatto, detto, dato, nominato, fatta, messo, trovato, letto, perso, iniziato</li>
       </ul>
     </li>
   </ul>
@@ -1972,9 +1974,9 @@ udver: '2'
   <ul>
     <li>Pres
       <ul>
-        <li>AUX-Fin: è, sono, ha, può, hanno, deve, possono, sia, viene, ho</li>
-        <li>VERB-Fin: ha, è, hanno, trova, sono, fa, chiama, dice, fanno, significa</li>
-        <li>VERB-Part: servente, concedente, derivanti, esistenti, appartenenti, concernente, dominante, emergenti, aventi, provenienti</li>
+        <li>AUX-Fin: è, sono, ha, può, hanno, possono, deve, sia, viene, ho</li>
+        <li>VERB-Fin: ha, è, hanno, trova, sono, fa, chiama, fanno, dice, significa</li>
+        <li>VERB-Part: concedente, derivanti, appartenenti, concernente, aventi, esistenti, provenienti, concernenti, appartenente, avente</li>
       </ul>
     </li>
   </ul>
@@ -2007,11 +2009,10 @@ udver: '2'
   <ul>
     <li>Pres
       <ul>
-        <li>AUX-Fin: è, ha, sono, e', ho, può, siamo, sei, hanno, sia</li>
-        <li>VERB: fa, è, ha, dice, piace, ho, va, parla, so, fanno</li>
-        <li>VERB-Fin: fa, è, ha, dice, piace, ho, va, parla, so, fanno</li>
-        <li>VERB-Part: esistenti, dominante, parlante, preoccupante, ridotta</li>
-        <li>X-Fin: amo, preciso</li>
+        <li>AUX-Fin: è, sono, ha, ho, e', siamo, sei, può, hanno, sia</li>
+        <li>VERB: fa, è, ha, dice, piace, va, ho, parla, amo, fanno</li>
+        <li>VERB-Fin: fa, è, ha, dice, piace, va, ho, parla, amo, fanno</li>
+        <li>VERB-Part: esistenti, dominante, funzionante, parlante, preoccupante, ridotta, tendenti, vivente</li>
       </ul>
     </li>
   </ul>
@@ -2225,7 +2226,7 @@ udver: '2'
     <li>Art
       <ul>
         <li>DET: il, la, i, l', un, le, una, gli, lo, un'</li>
-        <li>PRON: le</li>
+        <li>PRON: le, una</li>
       </ul>
     </li>
   </ul>
@@ -2237,7 +2238,7 @@ udver: '2'
   <ul>
     <li>Dem
       <ul>
-        <li>DET: questo, questa, questi, tale, queste, quest', quel, tali, quella, tal</li>
+        <li>DET: questo, questa, questi, tale, queste, quest', quel, tali, quest’, quella</li>
         <li>PRON: quello, questo, ciò, quella, quelli, quelle, questa, questi, coloro, queste</li>
       </ul>
     </li>
@@ -2269,8 +2270,8 @@ udver: '2'
   <ul>
     <li>Dem
       <ul>
-        <li>DET: questo, questa, quel, sta, sto, sti, questi, quei, ste, stessa</li>
-        <li>PRON: quello, questo, quelli, questa, quella, ciò, quelle, questi, stesso, quel</li>
+        <li>DET: questo, questa, quel, sto, sta, questi, stesso, quei, stessa, ste</li>
+        <li>PRON: quello, questo, quelli, ciò, quella, questa, questi, stesso, quelle, quel</li>
       </ul>
     </li>
   </ul>
@@ -2298,7 +2299,7 @@ udver: '2'
   <ul>
     <li>Exc
       <ul>
-        <li>DET: che, quanto, Quanta, quante</li>
+        <li>DET: che, quanto, quanta, quante, quanti</li>
       </ul>
     </li>
   </ul>
@@ -2335,8 +2336,8 @@ udver: '2'
   <ul>
     <li>Ind
       <ul>
-        <li>DET: tutti, tutto, tutta, qualche, tutte, ogni, tanti, altri, altro, nessun</li>
-        <li>PRON: tutti, tutto, niente, nulla, qualcosa, uno, altro, nessuno, qualcuno, altri</li>
+        <li>DET: tutti, tutto, ogni, tutta, qualche, tutte, altro, tanti, nessun, altri</li>
+        <li>PRON: tutti, tutto, niente, nulla, uno, qualcosa, nessuno, qualcuno, altro, altri</li>
       </ul>
     </li>
   </ul>
@@ -2373,9 +2374,8 @@ udver: '2'
   <ul>
     <li>Int
       <ul>
-        <li>DET: che, quale, quali, quanta, quante, quanti, quanto</li>
-        <li>PRON: cosa, quanto, che, chi, cos', qnti, qual', quale, QUANDO, Quando</li>
-        <li>X: quanto</li>
+        <li>DET: che, quale, quali, quanta, quanti, quanto, ke, quante</li>
+        <li>PRON: cosa, chi, che, quanto, cos', quale, qnti, qual', quali, QUANDO</li>
       </ul>
     </li>
   </ul>
@@ -2423,8 +2423,8 @@ udver: '2'
     <li>Prs
       <ul>
         <li>ADJ: propria</li>
-        <li>DET: sua, suo, loro, suoi, sue, proprio, nostra, mio, nostro, propria</li>
-        <li>PRON: si, ci, lo, ne, mi, c', la, li, gli, lui</li>
+        <li>DET: sua, suo, loro, suoi, sue, proprio, nostra, mio, nostro, nostri</li>
+        <li>PRON: si, ci, lo, ne, c', mi, la, li, gli, lui</li>
       </ul>
     </li>
   </ul>
@@ -2456,9 +2456,9 @@ udver: '2'
   <ul>
     <li>Prs
       <ul>
-        <li>DET: mio, mia, suo, suoi, loro, tua, sua, tuo, miei, nostra</li>
-        <li>PRON: si, mi, ci, lo, ti, io, la, me, c', ne</li>
-        <li>X: me, te</li>
+        <li>DET: mio, mia, suo, sua, suoi, tuo, loro, nostro, tua, miei</li>
+        <li>PRON: si, mi, ci, lo, ti, io, c', me, la, ne</li>
+        <li>X: te</li>
       </ul>
     </li>
   </ul>
@@ -2471,7 +2471,7 @@ udver: '2'
     <li>Rel
       <ul>
         <li>DET: cui, quali</li>
-        <li>PRON: che, cui, chi, quale, quanto, quali, dove, chiunque, quando, come</li>
+        <li>PRON: che, cui, chi, quale, quanto, quali, dove, chiunque, quando, quanti</li>
       </ul>
     </li>
   </ul>
@@ -2496,7 +2496,7 @@ udver: '2'
     <li>Rel
       <ul>
         <li>CCONJ: che</li>
-        <li>PRON: che, chi, cui, quanto, ke, dove, quale, cha, chiunque, k</li>
+        <li>PRON: che, chi, cui, quanto, dove, ke, quale, chiunque, cha, k</li>
       </ul>
     </li>
   </ul>
@@ -2508,7 +2508,7 @@ udver: '2'
   <ul>
     <li>Tot
       <ul>
-        <li>DET: tutti, tutte, tutto, tutta, entrambi, entrambe, ambedue, tutt'</li>
+        <li>DET: tutti, tutte, tutto, tutta, entrambi, entrambe, ambedue, tutt', quanti</li>
       </ul>
     </li>
   </ul>
@@ -2610,7 +2610,7 @@ udver: '2'
   <ul>
     <li>Card
       <ul>
-        <li>NUM: 2, 1, due, 3, 5, 4, 7, 20, 10, 6</li>
+        <li>NUM: 2, 3, 1, due, 5, 4, 7, 6, 10, 20</li>
       </ul>
     </li>
   </ul>
@@ -2623,6 +2623,7 @@ udver: '2'
     <li>Ord
       <ul>
         <li>ADJ: primo, prima, secondo, terzo, seconda, primi, ultimi, prime, ultimo, ii</li>
+        <li>NUM: I</li>
       </ul>
     </li>
   </ul>
@@ -2646,7 +2647,7 @@ udver: '2'
   <ul>
     <li>Ord
       <ul>
-        <li>ADJ: primo, prima, prime, primi, 1°, ennesima, ennesimo, secondo, terza, seconda</li>
+        <li>ADJ: primo, prima, primi, prime, ennesimo, seconda, terzo, 1°, terza, ennesima</li>
       </ul>
     </li>
   </ul>
@@ -2720,7 +2721,7 @@ udver: '2'
     <li>Yes
       <ul>
         <li>ADJ: propria</li>
-        <li>DET: sua, suo, loro, suoi, sue, proprio, nostra, mio, nostro, propria</li>
+        <li>DET: sua, suo, loro, suoi, sue, proprio, nostra, mio, nostro, nostri</li>
         <li>PRON: sua, suo, suoi, proprio, tuo, mia, miei, mio, nostro, tua</li>
       </ul>
     </li>
@@ -2745,9 +2746,8 @@ udver: '2'
   <ul>
     <li>Yes
       <ul>
-        <li>ADJ: mia, mio, suo</li>
-        <li>DET: mio, mia, suo, suoi, loro, tua, sua, tuo, miei, nostra</li>
-        <li>PRON: tua, mia, sua, suoi, mie, miei, mio, suo, nostri, tue</li>
+        <li>DET: mio, mia, suo, sua, suoi, tuo, loro, nostro, tua, miei</li>
+        <li>PRON: tua, mio, sua, suoi, mia, miei, mie, suo, LORO, nostri</li>
       </ul>
     </li>
   </ul>
@@ -2900,11 +2900,9 @@ udver: '2'
   <ul>
     <li>1
       <ul>
-        <li>AUX-Fin: sono, ho, siamo, devo, abbiamo, posso, sto, vorrei, dobbiamo, voglio</li>
-        <li>PRON: mi, ci, io, me, c', noi, ce, ioooooo, m', m</li>
-        <li>VERB-Fin: ho, so, visto, speriamo, amo, vedo, voglio, credo, spero, capito</li>
-        <li>X: amo, me, preciso</li>
-        <li>X-Fin: amo, preciso</li>
+        <li>AUX-Fin: sono, ho, siamo, devo, posso, abbiamo, sto, vorrei, voglio, dobbiamo</li>
+        <li>PRON: mi, ci, io, c', me, noi, ce, m', ioooooo, c</li>
+        <li>VERB-Fin: ho, amo, so, visto, speriamo, credo, spero, faccio, capito, vedo</li>
       </ul>
     </li>
   </ul>
@@ -2918,6 +2916,7 @@ udver: '2'
       <ul>
         <li>AUX-Fin: puoi, devi, sei, hai, avete, siete, vuoi, volete, Dovevi, abbiate</li>
         <li>PRON: ti, vi, te, tu, voi</li>
+        <li>VERB: v., Nomina, Dimmi, vedi, fai, Elenca, hai, ricevi, Dammi, crei</li>
         <li>VERB-Fin: v., Nomina, Dimmi, vedi, fai, Elenca, hai, ricevi, Dammi, crei</li>
       </ul>
     </li>
@@ -2952,10 +2951,10 @@ udver: '2'
   <ul>
     <li>2
       <ul>
-        <li>AUX-Fin: sei, siete, hai, avete, puoi, devi, vuoi, dovete, potete, potresti</li>
+        <li>AUX-Fin: sei, hai, siete, avete, puoi, devi, dovete, siate, vuoi, potresti</li>
         <li>PRON: ti, te, tu, vi, voi, ve, v', TU', de, foi</li>
-        <li>VERB: hai, segui, fai, basta, pensi, vai, fate, Controlla, dite, sai</li>
-        <li>VERB-Fin: hai, segui, fai, basta, pensi, vai, fate, Controlla, dite, sai</li>
+        <li>VERB: fai, fate, hai, segui, pensi, sai, Controlla, vai, dite, scusa</li>
+        <li>VERB-Fin: fai, fate, hai, segui, pensi, sai, Controlla, vai, dite, scusa</li>
         <li>VERB-Part: rimorchiate</li>
         <li>X: te</li>
       </ul>
@@ -2969,9 +2968,9 @@ udver: '2'
   <ul>
     <li>3
       <ul>
-        <li>AUX-Fin: è, sono, ha, può, hanno, era, deve, possono, sia, fu</li>
+        <li>AUX-Fin: è, sono, ha, può, hanno, era, possono, deve, sia, fu</li>
         <li>PRON: si, lo, la, li, gli, lui, le, l', loro, se</li>
-        <li>VERB-Fin: ha, è, hanno, trova, sono, fa, chiama, dice, morì, fanno</li>
+        <li>VERB-Fin: ha, è, hanno, trova, sono, fa, chiama, fanno, dice, morì</li>
       </ul>
     </li>
   </ul>
@@ -3006,9 +3005,9 @@ udver: '2'
   <ul>
     <li>3
       <ul>
-        <li>AUX-Fin: è, ha, e', sono, può, sarà, hanno, deve, era, sia</li>
-        <li>PRON: si, lo, la, lui, l', li, le, gli, se, loro</li>
-        <li>VERB-Fin: fa, è, ha, dice, piace, va, parla, fanno, sta, sa</li>
+        <li>AUX-Fin: è, ha, sono, e', può, hanno, sarà, sta, era, sia</li>
+        <li>PRON: si, lo, la, l', lui, li, gli, le, se, loro</li>
+        <li>VERB-Fin: fa, è, ha, dice, piace, va, parla, fanno, sembra, sa</li>
       </ul>
     </li>
   </ul>
@@ -3200,7 +3199,7 @@ udver: '2'
   <ul>
     <li>Yes
       <ul>
-        <li>PRON: si, ci, lo, ne, mi, c', la, li, gli, le</li>
+        <li>PRON: si, ci, lo, ne, c', mi, la, li, gli, le</li>
       </ul>
     </li>
   </ul>
@@ -3227,8 +3226,8 @@ udver: '2'
   <ul>
     <li>Yes
       <ul>
-        <li>PRON: si, mi, ci, lo, ti, la, c', ne, vi, l'</li>
-        <li>X: me, te</li>
+        <li>PRON: si, mi, ci, lo, ti, c', la, ne, vi, l'</li>
+        <li>X: te</li>
       </ul>
     </li>
   </ul>
@@ -3244,7 +3243,7 @@ udver: '2'
       <ul>
         <li>NOUN: Award</li>
         <li>PROPN: Les, Nobody, barbares, knows</li>
-        <li>X: Illusions, de, perdues, ad, home, la, Come, Damage, Ecce, bombo</li>
+        <li>X: de, Illusions, perdues, ad, home, la, the, Come, Damage, Ecce</li>
       </ul>
     </li>
   </ul>
@@ -3316,7 +3315,7 @@ udver: '2'
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 3 lemmas as copulas (<a>cop</a>). Examples: essere, stare, c.</li>
+<li>This corpus uses 5 lemmas as copulas (<a>cop</a>). Examples: essere, stare, c, c’è, ok.</li>
 </ul>
 
   </td>
@@ -3345,8 +3344,8 @@ udver: '2'
   </td>
   <td width="25%" valign="top">
 <ul>
-<li>This corpus uses 11 lemmas as auxiliaries (<a>aux</a>). Examples: avere, essere, potere, dovere, volere, stare, andare, sapere, #Monti, #delusionemonti, venire.</li>
-<li>This corpus uses 4 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: essere, andare, venire, stare.</li>
+<li>This corpus uses 10 lemmas as auxiliaries (<a>aux</a>). Examples: avere, essere, potere, dovere, volere, stare, andare, sapere, venire, s’è.</li>
+<li>This corpus uses 4 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: essere, venire, andare, stare.</li>
 </ul>
 
   </td>
@@ -3359,15 +3358,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (3680)</li>
-      <li>VERB-Fin--PRON (1842)</li>
+      <li>VERB-Fin--NOUN (3774)</li>
+      <li>VERB-Fin--PRON (1883)</li>
       <li>VERB-Ger--NOUN (46)</li>
       <li>VERB-Ger--PRON (21)</li>
-      <li>VERB-Inf--NOUN (590)</li>
-      <li>VERB-Inf--PRON (188)</li>
-      <li>VERB-Part--NOUN (1232)</li>
+      <li>VERB-Inf--NOUN (609)</li>
+      <li>VERB-Inf--PRON (187)</li>
+      <li>VERB-Part--NOUN (1298)</li>
       <li>VERB-Part--NOUN-ADP(di) (2)</li>
-      <li>VERB-Part--PRON (549)</li>
+      <li>VERB-Part--PRON (560)</li>
     </ul>
   </li>
 </ul>
@@ -3395,14 +3394,14 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (640)</li>
-      <li>VERB-Fin--PRON (326)</li>
+      <li>VERB-Fin--NOUN (642)</li>
+      <li>VERB-Fin--PRON (328)</li>
       <li>VERB-Ger--NOUN (9)</li>
       <li>VERB-Ger--PRON (2)</li>
       <li>VERB-Inf--NOUN (109)</li>
       <li>VERB-Inf--PRON (23)</li>
-      <li>VERB-Part--NOUN (172)</li>
-      <li>VERB-Part--PRON (75)</li>
+      <li>VERB-Part--NOUN (173)</li>
+      <li>VERB-Part--PRON (74)</li>
     </ul>
   </li>
 </ul>
@@ -3415,18 +3414,20 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (618)</li>
-      <li>VERB-Fin--NOUN-ADP(di) (2)</li>
+      <li>VERB-Fin--NOUN (1164)</li>
+      <li>VERB-Fin--NOUN-ADP(di) (4)</li>
       <li>VERB-Fin--NOUN-ADP(senza) (1)</li>
-      <li>VERB-Fin--PRON (474)</li>
-      <li>VERB-Ger--NOUN (12)</li>
-      <li>VERB-Ger--PRON (16)</li>
-      <li>VERB-Inf--NOUN (47)</li>
-      <li>VERB-Inf--PRON (41)</li>
+      <li>VERB-Fin--PRON (906)</li>
+      <li>VERB-Fin--PRON-ADP(a) (1)</li>
+      <li>VERB-Fin--PRON-ADP(in) (1)</li>
+      <li>VERB-Ger--NOUN (28)</li>
+      <li>VERB-Ger--PRON (27)</li>
+      <li>VERB-Inf--NOUN (92)</li>
+      <li>VERB-Inf--PRON (72)</li>
       <li>VERB-Inf--PRON-ADP(per) (1)</li>
-      <li>VERB-Part--NOUN (82)</li>
+      <li>VERB-Part--NOUN (176)</li>
       <li>VERB-Part--NOUN-ADP(oltre) (1)</li>
-      <li>VERB-Part--PRON (88)</li>
+      <li>VERB-Part--PRON (150)</li>
     </ul>
   </li>
 </ul>
@@ -3438,15 +3439,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (3445)</li>
-      <li>VERB-Fin--PRON (765)</li>
+      <li>VERB-Fin--NOUN (3535)</li>
+      <li>VERB-Fin--PRON (766)</li>
       <li>VERB-Ger--NOUN (360)</li>
       <li>VERB-Ger--PRON (53)</li>
-      <li>VERB-Inf--NOUN (2806)</li>
+      <li>VERB-Inf--NOUN (2882)</li>
       <li>VERB-Inf--NOUN-ADP(in) (1)</li>
-      <li>VERB-Inf--PRON (448)</li>
-      <li>VERB-Part--NOUN (1285)</li>
-      <li>VERB-Part--PRON (308)</li>
+      <li>VERB-Inf--PRON (447)</li>
+      <li>VERB-Part--NOUN (1335)</li>
+      <li>VERB-Part--PRON (317)</li>
     </ul>
   </li>
 </ul>
@@ -3470,15 +3471,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (707)</li>
+      <li>VERB-Fin--NOUN (706)</li>
       <li>VERB-Fin--NOUN-ADP(di) (1)</li>
-      <li>VERB-Fin--PRON (137)</li>
+      <li>VERB-Fin--PRON (135)</li>
       <li>VERB-Ger--NOUN (86)</li>
       <li>VERB-Ger--PRON (12)</li>
       <li>VERB-Inf--NOUN (664)</li>
       <li>VERB-Inf--PRON (88)</li>
-      <li>VERB-Part--NOUN (199)</li>
-      <li>VERB-Part--PRON (37)</li>
+      <li>VERB-Part--NOUN (198)</li>
+      <li>VERB-Part--PRON (38)</li>
     </ul>
   </li>
 </ul>
@@ -3488,18 +3489,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (893)</li>
-      <li>VERB-Fin--NOUN-ADP(di) (2)</li>
+      <li>VERB-Fin--NOUN (1663)</li>
+      <li>VERB-Fin--NOUN-ADP(a) (1)</li>
+      <li>VERB-Fin--NOUN-ADP(di) (3)</li>
       <li>VERB-Fin--NOUN-ADP(su) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(via) (1)</li>
-      <li>VERB-Fin--PRON (515)</li>
-      <li>VERB-Ger--NOUN (37)</li>
-      <li>VERB-Ger--PRON (18)</li>
-      <li>VERB-Inf--NOUN (427)</li>
-      <li>VERB-Inf--PRON (186)</li>
+      <li>VERB-Fin--PRON (949)</li>
+      <li>VERB-Fin--PRON-ADP(contro) (1)</li>
+      <li>VERB-Ger--NOUN (77)</li>
+      <li>VERB-Ger--PRON (28)</li>
+      <li>VERB-Inf--NOUN (812)</li>
+      <li>VERB-Inf--PRON (344)</li>
       <li>VERB-Inf--PRON-ADP(a) (1)</li>
-      <li>VERB-Part--NOUN (166)</li>
-      <li>VERB-Part--PRON (92)</li>
+      <li>VERB-Part--NOUN (351)</li>
+      <li>VERB-Part--PRON (150)</li>
     </ul>
   </li>
 </ul>
@@ -3511,10 +3513,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--PRON (307)</li>
+      <li>VERB-Fin--PRON (315)</li>
       <li>VERB-Ger--PRON (26)</li>
-      <li>VERB-Inf--PRON (171)</li>
-      <li>VERB-Part--PRON (157)</li>
+      <li>VERB-Inf--PRON (172)</li>
+      <li>VERB-Part--PRON (158)</li>
     </ul>
   </li>
 </ul>
@@ -3547,10 +3549,12 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--PRON (324)</li>
-      <li>VERB-Ger--PRON (6)</li>
-      <li>VERB-Inf--PRON (54)</li>
-      <li>VERB-Part--PRON (64)</li>
+      <li>VERB-Fin--PRON (682)</li>
+      <li>VERB-Fin--PRON-ADP(a) (3)</li>
+      <li>VERB-Ger--PRON (12)</li>
+      <li>VERB-Inf--NOUN-ADP(a) (1)</li>
+      <li>VERB-Inf--PRON (95)</li>
+      <li>VERB-Part--PRON (130)</li>
     </ul>
   </li>
 </ul>
@@ -3595,7 +3599,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Passive</h3>
 
 <ul>
-  <li>This corpus contains 15 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: fare si, vedere si, assumere si, avere si, eliminare si, guardare si, mandare si, militarizzare si, montare si, organizzare si, pagare si, seguire si, sentire si, vistare si, votare si</li>
+  <li>This corpus contains 33 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: fare si, vedere si, pagare si, sentire si, abbassare si, accusare si, assumere si, avere si, cambiare si, capitare si, definire si, eliminare si, girare si, guardare si, mandare si, militarizzare si, misurare si, montare si, negare si, organizzare si, perdere si, rafforzare si, riassumere si, rinforzire si, rivedere si, scegliere si, seguire si, sentire mi, stare si, utilizzare si, vergognare si, volere ci, votare si</li>
 </ul>
 
   </td>
@@ -3651,8 +3655,8 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 16 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>det:poss</a>, <a>det:predet</a>, <a>discourse:emo</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>parataxis:hashtag</a>, <a>parataxis:insert</a>, <a>parataxis:nsubj</a>, <a>parataxis:obj</a>, <a>vocative:mention</a></li>
-<li>The following 1 relation types are not used in this corpus at all: <a>clf</a></li>
+<li>This corpus uses 18 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>det:poss</a>, <a>det:predet</a>, <a>discourse:emo</a>, <a>expl:impers</a>, <a>expl:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>obl:agent</a>, <a>parataxis:appos</a>, <a>parataxis:discourse</a>, <a>parataxis:hashtag</a>, <a>parataxis:insert</a>, <a>parataxis:nsubj</a>, <a>parataxis:obj</a>, <a>vocative:mention</a></li>
+<li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>reparandum</a></li>
 </ul>
 
   </td>
