@@ -36,7 +36,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb_ufal-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="hsb_ufal-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hsb_ufal-feat-VerbType.html">VerbType</a></tt><tt>=Mod</tt></tt></td><td></td><td></td><td><em>njemóžeše</em></td></tr>
   <tr><td><tt><tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb_ufal-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="hsb_ufal-feat-VerbType.html">VerbType</a></tt><tt>=Mod</tt></tt></td><td></td><td></td><td><em>móžachu</em></td></tr>
   <tr><td><tt><tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>móžeja</em></td></tr>
-  <tr><td><tt><tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="hsb_ufal-feat-VerbType.html">VerbType</a></tt><tt>=Mod</tt></tt></td><td><em>móžemy</em></td><td><em>móžeće</em></td><td><em>móžeja, móža</em></td></tr>
+  <tr><td><tt><tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb_ufal-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="hsb_ufal-feat-VerbType.html">VerbType</a></tt><tt>=Mod</tt></tt></td><td><em>móžemy</em></td><td><em>móžeće</em></td><td><em>móža, móžeja</em></td></tr>
 </table>
 
 `Person` seems to be **lexical feature** of `VERB`. 95% lemmas (259) occur only with one value of `Person`.

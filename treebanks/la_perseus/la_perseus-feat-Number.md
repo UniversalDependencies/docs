@@ -112,8 +112,8 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_perseus-feat-Degree.html">Degree</a></tt><tt>=Sup</tt>|<tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>maximus</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>magnus</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>magna, maxuma</em></td><td><em>magnae</em></td></tr>
-  <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>maxumum, magnum</em></td><td><em>magna</em></td></tr>
-  <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Voc</tt>|<tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>maxime, magne</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>magnum, maxumum</em></td><td><em>magna</em></td></tr>
+  <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Voc</tt>|<tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>magne, maxime</em></td><td></td></tr>
 </table>
 
 ### `PRON`
@@ -141,7 +141,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>quibus</em></td></tr>
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>cuius, quoius</em></td><td><em>quorum</em></td></tr>
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>cuius</em></td><td><em>quarum</em></td></tr>
-  <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>quoius, cuius</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>cuius, quoius</em></td><td></td></tr>
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>qui</em></td><td><em>qui</em></td></tr>
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>quae</em></td><td><em>quae</em></td></tr>
   <tr><td><tt><tt><a href="la_perseus-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="la_perseus-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>quod</em></td><td><em>quae</em></td></tr>

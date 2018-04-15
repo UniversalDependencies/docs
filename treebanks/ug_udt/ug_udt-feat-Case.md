@@ -121,7 +121,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 
 <table>
   <tr><th>Paradigm <i>بىر</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Gen</tt></th><th><tt>Abl</tt></th></tr>
-  <tr><td><tt><tt><a href="ug_udt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur,Sing</tt>|<tt><a href="ug_udt-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td>بىرى, بىرىنىڭكى, بىرىمۇ</td><td>بىرىنى</td><td>بىرىنىڭ</td><td>بىرىدىن</td></tr>
+  <tr><td><tt><tt><a href="ug_udt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur,Sing</tt>|<tt><a href="ug_udt-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td>بىرى, بىرىمۇ, بىرىنىڭكى</td><td>بىرىنى</td><td>بىرىنىڭ</td><td>بىرىدىن</td></tr>
   <tr><td><tt></tt></td><td>بىر</td><td>بىرنى</td><td></td><td>بىردىن</td></tr>
 </table>
 

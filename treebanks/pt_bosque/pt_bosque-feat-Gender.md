@@ -50,7 +50,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 <table>
   <tr><th>Paradigm <i>muito</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Unsp</tt></th></tr>
-  <tr><td><tt><tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>muito, mais</em></td><td><em>muita, mais</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>muito, mais</em></td><td><em>mais, muita</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>muitos, mais</em></td><td><em>muitas, mais</em></td><td><em>mais</em></td></tr>
   <tr><td><tt><tt><a href="pt_bosque-feat-Number.html">Number</a></tt><tt>=Unsp</tt></tt></td><td></td><td></td><td><em>mais</em></td></tr>
 </table>

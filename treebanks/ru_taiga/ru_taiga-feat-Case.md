@@ -153,9 +153,9 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `EMPTY` (2238): <em>есть, можно, может, нет, надо, было, стоит, быть, добавить, показать</em>
 
 <table>
-  <tr><th>Paradigm <i>представить</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>представленного</em></td></tr>
-  <tr><td><tt><tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>представленные</em></td><td></td></tr>
+  <tr><th>Paradigm <i>действовать</i></th><th><tt>Dat</tt></th><th><tt>Loc</tt></th></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>действующем</em></td></tr>
+  <tr><td><tt><tt><a href="ru_taiga-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>действующим</em></td><td></td></tr>
 </table>
 
 `Case` seems to be **lexical feature** of `VERB`. 96% lemmas (107) occur only with one value of `Case`.

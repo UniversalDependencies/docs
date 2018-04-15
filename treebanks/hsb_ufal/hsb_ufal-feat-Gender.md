@@ -60,7 +60,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
   <tr><td><tt><tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb_ufal-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>serbskeje</em></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Serbskeho</em></td><td><em>serbskeje</em></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>serbskich</em></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>serbskej, serbsku</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>serbsku, serbskej</em></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="hsb_ufal-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Serbskim</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Serbskim</em></td><td><em>serbskej</em></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="hsb_ufal-feat-Degree.html">Degree</a></tt><tt>=Pos</tt>|<tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Serbski, SERBSKI</em></td><td><em>serbska</em></td><td></td></tr>
@@ -141,7 +141,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
   <tr><td><tt><tt><a href="hsb_ufal-feat-Animacy.html">Animacy</a></tt><tt>=Nhum</tt>|<tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jeho</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>jón, jeho</em></td><td><em>ju, nju</em></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>je</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>jeje, Jej, njej</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>Jej, jeje, njej</em></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>njeje</em></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>nich</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>nimi</em></td></tr>
@@ -186,7 +186,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 
 <table>
   <tr><th>Paradigm <i>jedyn</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="hsb_ufal-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>jedyn, jedny</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="hsb_ufal-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>jedny, jedyn</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb_ufal-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>jedyn</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb_ufal-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>jedneho</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb_ufal-feat-Animacy.html">Animacy</a></tt><tt>=Inan</tt>|<tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>jedyn</em></td><td></td><td></td></tr>

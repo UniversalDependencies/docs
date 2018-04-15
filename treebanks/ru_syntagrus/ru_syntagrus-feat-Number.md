@@ -29,7 +29,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 <table>
   <tr><th>Paradigm <i>год</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>год, г., г</em></td><td><em>годы, гг., г, гг</em></td></tr>
-  <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>году, г, г.</em></td><td><em>годам</em></td></tr>
+  <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>году, г., г</em></td><td><em>годам</em></td></tr>
   <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>года, г., г</em></td><td><em>лет, годов, гг., г., гг, годах, г</em></td></tr>
   <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td></td><td><em>лет</em></td></tr>
   <tr><td><tt><tt><a href="ru_syntagrus-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="ru_syntagrus-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>годом, г, г.</em></td><td><em>годами</em></td></tr>

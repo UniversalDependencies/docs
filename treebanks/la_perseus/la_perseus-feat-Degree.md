@@ -57,7 +57,7 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 <table>
   <tr><th>Paradigm <i>parvus</i></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>minus</em></td><td><em>minimum, minime</em></td></tr>
+  <tr><td><tt></tt></td><td><em>minus</em></td><td><em>minime, minimum</em></td></tr>
 </table>
 
 `Degree` seems to be **lexical feature** of `ADV`. 91% lemmas (29) occur only with one value of `Degree`.

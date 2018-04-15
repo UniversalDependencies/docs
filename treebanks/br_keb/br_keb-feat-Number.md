@@ -57,7 +57,7 @@ The most frequent other feature values with which `VERB` and `Number` co-occurre
   <tr><td><tt><tt><a href="br_keb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="br_keb-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="br_keb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="br_keb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>out, Emaout</em></td><td></td></tr>
   <tr><td><tt><tt><a href="br_keb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="br_keb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="br_keb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt>|<tt><a href="br_keb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>vo, vezo</em></td><td><em>vint</em></td></tr>
   <tr><td><tt><tt><a href="br_keb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="br_keb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="br_keb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="br_keb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>oa</em></td><td><em>oant</em></td></tr>
-  <tr><td><tt><tt><a href="br_keb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="br_keb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="br_keb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="br_keb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>eo, zo, emañ, ez eus, 'zo</em></td><td><em>int, emaint</em></td></tr>
+  <tr><td><tt><tt><a href="br_keb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="br_keb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="br_keb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="br_keb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>eo, zo, emañ, ez eus, 'zo</em></td><td><em>emaint, int</em></td></tr>
   <tr><td><tt><tt><a href="br_keb-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="br_keb-feat-Person.html">Person</a></tt><tt>=Auto</tt>|<tt><a href="br_keb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="br_keb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td></td><td><em>eur</em></td></tr>
   <tr><td><tt><tt><a href="br_keb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>vije</em></td><td></td></tr>
   <tr><td><tt><tt><a href="br_keb-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="br_keb-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="br_keb-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>voe</em></td><td></td></tr>
@@ -104,11 +104,11 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 <table>
   <tr><th>Paradigm <i>indirect</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="br_keb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="br_keb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>_, añ, nañ, nnañ</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="br_keb-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="br_keb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>_, añ, nnañ, nañ</em></td><td></td></tr>
   <tr><td><tt><tt><a href="br_keb-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="br_keb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>i, _, nni, zi, ni</em></td><td></td></tr>
   <tr><td><tt><tt><a href="br_keb-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>_</em></td><td><em>_</em></td></tr>
   <tr><td><tt><tt><a href="br_keb-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>_</em></td><td><em>h</em></td></tr>
-  <tr><td><tt><tt><a href="br_keb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>_, o, nno, no</em></td></tr>
+  <tr><td><tt><tt><a href="br_keb-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>_, o, no, nno</em></td></tr>
 </table>
 
 ### `DET`

@@ -70,7 +70,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 <table>
   <tr><th>Paradigm <i>sam</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
   <tr><td><tt><tt><a href="pl_lfg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pl_lfg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>sam</em></td><td><em>samą</em></td><td><em>samo</em></td></tr>
-  <tr><td><tt><tt><a href="pl_lfg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pl_lfg-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>samych, same</em></td><td><em>same</em></td><td><em>same</em></td></tr>
+  <tr><td><tt><tt><a href="pl_lfg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pl_lfg-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>same, samych</em></td><td><em>same</em></td><td><em>same</em></td></tr>
   <tr><td><tt><tt><a href="pl_lfg-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="pl_lfg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>samej</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pl_lfg-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_lfg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>samego</em></td><td><em>samej</em></td><td><em>samego</em></td></tr>
   <tr><td><tt><tt><a href="pl_lfg-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_lfg-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>samych</em></td><td></td><td><em>samych</em></td></tr>
@@ -187,7 +187,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
   <tr><th>Paradigm <i>dwa</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
   <tr><td><tt><tt><a href="pl_lfg-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>dwa, dwóch</em></td><td><em>dwie</em></td><td><em>dwa</em></td></tr>
   <tr><td><tt><tt><a href="pl_lfg-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>dwóch, dwu</em></td><td><em>dwóch</em></td><td><em>dwu</em></td></tr>
-  <tr><td><tt><tt><a href="pl_lfg-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td><em>dwoma</em></td><td><em>dwoma, dwiema</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="pl_lfg-feat-Case.html">Case</a></tt><tt>=Ins</tt></tt></td><td><em>dwoma</em></td><td><em>dwiema, dwoma</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pl_lfg-feat-Case.html">Case</a></tt><tt>=Loc</tt></tt></td><td><em>dwóch</em></td><td><em>dwóch</em></td><td><em>dwóch</em></td></tr>
   <tr><td><tt><tt><a href="pl_lfg-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>dwa, dwaj</em></td><td><em>dwie</em></td><td><em>dwa</em></td></tr>
 </table>

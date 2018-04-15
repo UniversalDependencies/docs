@@ -68,7 +68,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 <table>
   <tr><th>Paradigm <i>premier</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>premier, 1er, Ier, 1e, 1</em></td><td><em>première, 1ère, 1re</em></td></tr>
+  <tr><td><tt><tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>premier, 1er, Ier, 1e, 1</em></td><td><em>première, 1re, 1ère</em></td></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>premiers</em></td><td><em>premières</em></td></tr>
 </table>
 
@@ -105,7 +105,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
 <table>
   <tr><th>Paradigm <i>il</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>-Tu</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>il, -il, Lui, t-il</em></td><td><em>-elle, elle</em></td></tr>
+  <tr><td><tt><tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>il, -il, t-il, Lui</em></td><td><em>-elle, elle</em></td></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>﻿Lui</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>ils, -ils</em></td><td><em>elles, -elles</em></td></tr>
 </table>

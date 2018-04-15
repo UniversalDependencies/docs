@@ -154,7 +154,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 
 <table>
   <tr><th>Paradigm <i>bargat</i></th><th><tt>Loc</tt></th><th><tt>Ess</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>bargamis</em></td><td><em>bargame, bargamin</em></td></tr>
+  <tr><td><tt></tt></td><td><em>bargamis</em></td><td><em>bargamin, bargame</em></td></tr>
 </table>
 
 `Case` seems to be **lexical feature** of `VERB`. 93% lemmas (67) occur only with one value of `Case`.

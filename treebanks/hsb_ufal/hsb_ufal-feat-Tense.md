@@ -32,7 +32,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
   <tr><td><tt><tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb_ufal-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td><em>njeje</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>je</em></td><td><em>budźe</em></td><td><em>bě</em></td></tr>
   <tr><td><tt><tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="hsb_ufal-feat-Voice.html">Voice</a></tt><tt>=Pass</tt></tt></td><td></td><td></td><td><em>bu</em></td></tr>
-  <tr><td><tt><tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb_ufal-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td><em>njesu, Njejsu</em></td><td></td><td><em>njeběchu</em></td></tr>
+  <tr><td><tt><tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="hsb_ufal-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td><em>Njejsu, njesu</em></td><td></td><td><em>njeběchu</em></td></tr>
   <tr><td><tt><tt><a href="hsb_ufal-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>su</em></td><td><em>budu</em></td><td><em>běchu</em></td></tr>
 </table>
 

@@ -27,7 +27,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="nl_alpino-pos-ADJ.h
 
 <table>
   <tr><th>Paradigm <i>groot</i></th><th><tt>Pos</tt></th><th><tt>Cmp</tt></th><th><tt>Sup</tt></th></tr>
-  <tr><td><tt></tt></td><td><em>grote, groot, groten</em></td><td><em>grotere, groter</em></td><td><em>grootste, grootst</em></td></tr>
+  <tr><td><tt></tt></td><td><em>grote, groot, groten</em></td><td><em>groter, grotere</em></td><td><em>grootste, grootst</em></td></tr>
 </table>
 
 `Degree` seems to be **lexical feature** of `ADJ`. 94% lemmas (2410) occur only with one value of `Degree`.

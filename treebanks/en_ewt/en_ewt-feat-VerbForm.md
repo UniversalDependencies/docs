@@ -67,7 +67,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
   <tr><td><tt><tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_ewt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_ewt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>was</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_ewt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>were</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_ewt-feat-Tense.html">Tense</a></tt><tt>=Past</tt>|<tt><a href="en_ewt-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>wase</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt><tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>are, 'm, 're, m, r, re, ’m, 's, ´m, art, ai, is</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>are, 'm, 're, m, r, re, ’m, ai, 's, is, art, ´m</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="en_ewt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_ewt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="en_ewt-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td><em>ar</em></td><td></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="en_ewt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>been</em></td><td></td></tr>
 </table>

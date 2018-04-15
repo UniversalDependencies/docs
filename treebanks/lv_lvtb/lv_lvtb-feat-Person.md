@@ -37,7 +37,7 @@ The most frequent other feature values with which `VERB` and `Person` co-occurre
   <tr><td><tt><tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt>|<tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>nav</em></td></tr>
   <tr><td><tt><tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td></td><td></td><td><em>būs</em></td></tr>
   <tr><td><tt><tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>bija</em></td></tr>
-  <tr><td><tt><tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>ir, Tr, bij</em></td></tr>
+  <tr><td><tt><tt><a href="lv_lvtb-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="lv_lvtb-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td></td><td></td><td><em>ir, bij, Tr</em></td></tr>
 </table>
 
 ### `PRON`

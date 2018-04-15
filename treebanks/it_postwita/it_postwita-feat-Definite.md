@@ -32,7 +32,7 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
   <tr><td><tt><tt><a href="it_postwita-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>i, gli</em></td></tr>
   <tr><td><tt><tt><a href="it_postwita-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>la</em></td></tr>
   <tr><td><tt><tt><a href="it_postwita-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>le, e</em></td></tr>
-  <tr><td><tt><tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>l', kol, io</em></td><td><em>l', Lle, a, ll, li, in</em></td></tr>
+  <tr><td><tt><tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>l', io, kol</em></td><td><em>l', li, in, a, ll, Lle</em></td></tr>
 </table>
 
 ### `PRON`

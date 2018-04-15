@@ -30,7 +30,7 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 <table>
   <tr><th>Paradigm <i>mignon</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
   <tr><td><tt><tt><a href="br_keb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>mignon</em></td><td><em>vignonez</em></td></tr>
-  <tr><td><tt><tt><a href="br_keb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>vignoned, mignoned</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="br_keb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>mignoned, vignoned</em></td><td></td></tr>
 </table>
 
 `Gender` seems to be **lexical feature** of `NOUN`. 99% lemmas (808) occur only with one value of `Gender`.

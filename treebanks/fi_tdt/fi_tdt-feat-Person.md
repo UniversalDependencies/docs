@@ -115,7 +115,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
   <tr><td><tt><tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fi_tdt-feat-Tense.html">Tense</a></tt><tt>=Pres</tt></tt></td><td><em>olemme</em></td><td><em>olette</em></td><td><em>ovat</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Pot</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="fi_tdt-feat-Typo.html">Typo</a></tt><tt>=Yes</tt></tt></td><td></td><td></td><td></td><td><em>lie</em></td></tr>
   <tr><td><tt><tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Pot</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>lienee</em></td><td><em>lienee</em></td></tr>
-  <tr><td><tt><tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Pot</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>lie, lienevät</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="fi_tdt-feat-Mood.html">Mood</a></tt><tt>=Pot</tt>|<tt><a href="fi_tdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>lienevät, lie</em></td><td></td></tr>
 </table>
 
 ### `PRON`

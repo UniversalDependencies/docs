@@ -117,9 +117,10 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 * `Neut` (166; 9% of non-empty `Gender`): <em>Κάστρο, Παγγαίου, Ελσίνκι, Μάλι, Αιγαίου, Στρασβούργο, Βέλγιο, Βίδο, Κάστρου, Πατητήρι</em>
 
 <table>
-  <tr><th>Paradigm <i>πατητήρι</i></th><th><tt>Masc</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td><em>Πατητήρι</em></td><td><em>Πατητήρι</em></td></tr>
-  <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td></td><td><em>Πατητήρι</em></td></tr>
+  <tr><th>Paradigm <i>Σύβοτα</i></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Σύβοτα</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>Σύβοτα</em></td></tr>
+  <tr><td><tt><tt><a href="el_gdt-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="el_gdt-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>Σύβοτα</em></td></tr>
 </table>
 
 `Gender` seems to be **lexical feature** of `PROPN`. 99% lemmas (593) occur only with one value of `Gender`.

@@ -99,7 +99,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
   <tr><th>Paradigm <i>premier</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt>_</tt></td><td><em>Premier</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>premier, 1er, Ier, 1e, 1</em></td><td><em>premiers</em></td></tr>
-  <tr><td><tt><tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>première, 1re, 1ère</em></td><td><em>premières</em></td></tr>
+  <tr><td><tt><tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>première, 1ère, 1re</em></td><td><em>premières</em></td></tr>
 </table>
 
 ### `AUX`
@@ -149,7 +149,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 <table>
   <tr><th>Paradigm <i>il</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td><em>-Tu</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>il, -il, t-il, Lui</em></td><td><em>ils, -ils</em></td></tr>
+  <tr><td><tt><tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>il, -il, Lui, t-il</em></td><td><em>ils, -ils</em></td></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>﻿Lui</em></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>-elle, elle</em></td><td><em>elles, -elles</em></td></tr>
   <tr><td><tt><tt><a href="fr_gsd-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td><em>je, me</em></td><td></td></tr>

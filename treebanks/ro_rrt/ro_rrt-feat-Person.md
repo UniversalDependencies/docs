@@ -72,7 +72,7 @@ The most frequent other feature values with which `AUX` and `Person` co-occurred
 
 <table>
   <tr><th>Paradigm <i>fi</i></th><th><tt>1</tt></th><th><tt>2</tt></th><th><tt>3</tt></th></tr>
-  <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>fii, fi</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Imp</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>fi, fii</em></td><td></td></tr>
   <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Imp</tt></tt></td><td></td><td><em>erai</em></td><td><em>era</em></td></tr>
   <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td></td><td></td><td><em>fu</em></td></tr>
   <tr><td><tt><tt><a href="ro_rrt-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="ro_rrt-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="ro_rrt-feat-Tense.html">Tense</a></tt><tt>=Pqp</tt></tt></td><td></td><td></td><td><em>fusese</em></td></tr>

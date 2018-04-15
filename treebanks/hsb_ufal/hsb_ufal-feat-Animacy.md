@@ -126,7 +126,7 @@ The most frequent other feature values with which `NUM` and `Animacy` co-occurre
   <tr><th>Paradigm <i>jedyn</i></th><th><tt>Anim</tt></th><th><tt>Inan</tt></th></tr>
   <tr><td><tt><tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td></td><td><em>jedyn</em></td></tr>
   <tr><td><tt><tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td></td><td><em>jedneho</em></td></tr>
-  <tr><td><tt><tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>jedny, jedyn</em></td><td><em>jedyn</em></td></tr>
+  <tr><td><tt><tt><a href="hsb_ufal-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>jedyn, jedny</em></td><td><em>jedyn</em></td></tr>
 </table>
 
 ### `PRON`

@@ -35,7 +35,7 @@ The feature is used with 11 part-of-speech tags: <tt><a href="et_edt-pos-NOUN.ht
   <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Ill</tt></tt></td><td><em>aastasse</em></td><td></td></tr>
   <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Ine</tt></tt></td><td><em>aastas</em></td><td><em>aastates</em></td></tr>
   <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>aasta</em></td><td><em>aastad</em></td></tr>
-  <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Par</tt></tt></td><td><em>aastat, aastatki, aastas</em></td><td><em>aastaid</em></td></tr>
+  <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Par</tt></tt></td><td><em>aastat, aastas, aastatki</em></td><td><em>aastaid</em></td></tr>
   <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Ter</tt></tt></td><td><em>aastani</em></td><td><em>aastateni</em></td></tr>
   <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Tra</tt></tt></td><td><em>aastaks</em></td><td><em>aastateks</em></td></tr>
 </table>
@@ -135,7 +135,7 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
   <tr><th>Paradigm <i>tema</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
   <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Abl</tt>|<tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="et_edt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>temalt, talt</em></td><td><em>neilt</em></td></tr>
   <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Ade</tt>|<tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="et_edt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>tal, temal, temalgi</em></td><td><em>neil, nendel</em></td></tr>
-  <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=All</tt>|<tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="et_edt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>talle, temale</em></td><td><em>neile, nendele, neilegi, nendelegi</em></td></tr>
+  <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=All</tt>|<tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="et_edt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>talle, temale</em></td><td><em>neile, nendele, nendelegi, neilegi</em></td></tr>
   <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Com</tt>|<tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="et_edt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>temaga</em></td><td><em>nendega</em></td></tr>
   <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Ela</tt>|<tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="et_edt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>temast, tast, te-mast, temastki</em></td><td><em>neist, nendest</em></td></tr>
   <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="et_edt-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="et_edt-feat-PronType.html">PronType</a></tt><tt>=Prs</tt></tt></td><td><em>tema, ta</em></td><td><em>nende</em></td></tr>
@@ -198,7 +198,7 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
   <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Com</tt></tt></td><td><em>miljoniga</em></td><td></td></tr>
   <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Ela</tt></tt></td><td><em>miljonist</em></td><td><em>miljonitest</em></td></tr>
   <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td><em>miljoni</em></td><td><em>miljonite</em></td></tr>
-  <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>miljon, miljonit, miljoni, miljoneid, miljonilt, miljonitest, miljoniteni, miljonini</em></td><td><em>miljonid</em></td></tr>
+  <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>miljon, miljonit, miljoni, miljonitest, miljoniteni, miljoneid, miljonini, miljonilt</em></td><td><em>miljonid</em></td></tr>
   <tr><td><tt><tt><a href="et_edt-feat-Case.html">Case</a></tt><tt>=Par</tt></tt></td><td><em>miljonit, miljoni</em></td><td><em>miljoneid</em></td></tr>
 </table>
 

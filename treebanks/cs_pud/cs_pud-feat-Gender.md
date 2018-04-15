@@ -88,10 +88,11 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 * `EMPTY` (125): <em>Čching, Danevirke, Aviva, Investors, Liao, Multi, RECO, School, Strategy, Addenbrooke</em>
 
 <table>
-  <tr><th>Paradigm <i>Andy</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_pud-feat-NameType.html">NameType</a></tt><tt>=Giv</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Andymu</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_pud-feat-NameType.html">NameType</a></tt><tt>=Giv</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>Andyho</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pud-feat-NameType.html">NameType</a></tt><tt>=Geo</tt>|<tt><a href="cs_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>Andy</em></td></tr>
+  <tr><th>Paradigm <i>Karel</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_pud-feat-NameType.html">NameType</a></tt><tt>=Giv</tt></tt></td><td><em>Karla</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Animacy.html">Animacy</a></tt><tt>=Anim</tt>|<tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pud-feat-NameType.html">NameType</a></tt><tt>=Giv</tt></tt></td><td><em>Karel</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="cs_pud-feat-NameType.html">NameType</a></tt><tt>=Sur</tt></tt></td><td></td><td><em>Karel</em></td></tr>
+  <tr><td><tt><tt><a href="cs_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="cs_pud-feat-NameType.html">NameType</a></tt><tt>=Sur</tt></tt></td><td></td><td><em>Karel</em></td></tr>
 </table>
 
 `Gender` seems to be **lexical feature** of `PROPN`. 99% lemmas (681) occur only with one value of `Gender`.

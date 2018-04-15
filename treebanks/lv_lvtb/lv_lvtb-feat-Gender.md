@@ -94,7 +94,7 @@ The most frequent other feature values with which `PRON` and `Gender` co-occurre
   <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>viņu</em></td><td></td></tr>
   <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>viņā</em></td><td></td></tr>
   <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>viņš</em></td><td><em>viņa</em></td></tr>
-  <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>viņi, VĪNI, viņu</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="lv_lvtb-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="lv_lvtb-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>viņi, viņu, VĪNI</em></td><td></td></tr>
 </table>
 
 ### `VERB`

@@ -97,9 +97,9 @@ The most frequent other feature values with which `NOUN` and `Tense` co-occurred
 * `EMPTY` (52240): <em>jahr, Jahre, Jahren, zeit, Stadt, Ende, Teil, Prozent, Familie, Ort</em>
 
 <table>
-  <tr><th>Paradigm <i>sein</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
-  <tr><td><tt><tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>War</em></td></tr>
-  <tr><td><tt><tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>Bin</em></td><td></td></tr>
+  <tr><th>Paradigm <i>gut</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
+  <tr><td><tt><tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>gute</em></td></tr>
+  <tr><td><tt><tt><a href="de_gsd-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>besten</em></td><td></td></tr>
 </table>
 
 `Tense` seems to be **lexical feature** of `NOUN`. 93% lemmas (39) occur only with one value of `Tense`.

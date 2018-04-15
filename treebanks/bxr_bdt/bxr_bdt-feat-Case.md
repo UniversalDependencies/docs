@@ -75,7 +75,7 @@ The most frequent other feature values with which `NOUN` and `Case` co-occurred:
 <table>
   <tr><th>Paradigm <i>тэрэ</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Com</tt></th><th><tt>Abl</tt></th></tr>
   <tr><td><tt><tt><a href="bxr_bdt-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="bxr_bdt-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td><em>тэрээндэнь</em></td><td></td><td></td><td></td></tr>
-  <tr><td><tt></tt></td><td><em>тэрэ, тэрээн, тэрэшни, тэрэмни</em></td><td><em>тэрэниие, тэрээниие</em></td><td><em>тэрээндэ</em></td><td><em>тэрэнэй</em></td><td><em>тэрэнтэй</em></td><td><em>Тэрээнһээ</em></td></tr>
+  <tr><td><tt></tt></td><td><em>тэрэ, тэрэшни, тэрээн, тэрэмни</em></td><td><em>тэрэниие, тэрээниие</em></td><td><em>тэрээндэ</em></td><td><em>тэрэнэй</em></td><td><em>тэрэнтэй</em></td><td><em>Тэрээнһээ</em></td></tr>
 </table>
 
 ### `VERB`

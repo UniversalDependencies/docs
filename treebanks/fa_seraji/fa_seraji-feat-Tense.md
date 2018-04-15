@@ -46,7 +46,7 @@ The most frequent other feature values with which `VERB` and `Tense` co-occurred
   <tr><td><tt><tt><a href="fa_seraji-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fa_seraji-feat-Person.html">Person</a></tt><tt>=1</tt></tt></td><td>می‌کنیم</td><td>کردیم</td></tr>
   <tr><td><tt><tt><a href="fa_seraji-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fa_seraji-feat-Person.html">Person</a></tt><tt>=2</tt></tt></td><td>می‌کنید, می‌شوید, نمی‌کنید</td><td>کردید</td></tr>
   <tr><td><tt><tt><a href="fa_seraji-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fa_seraji-feat-Person.html">Person</a></tt><tt>=2</tt>|<tt><a href="fa_seraji-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td>نمی‌کنید</td><td>نکردید</td></tr>
-  <tr><td><tt><tt><a href="fa_seraji-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fa_seraji-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>می‌کنند, می‌شوند</td><td>کردند, می‌کردند, شدند, کنند, می‌شدند</td></tr>
+  <tr><td><tt><tt><a href="fa_seraji-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fa_seraji-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td>می‌کنند, می‌شوند</td><td>کردند, می‌کردند, شدند, می‌شدند, کنند</td></tr>
   <tr><td><tt><tt><a href="fa_seraji-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fa_seraji-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="fa_seraji-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td>نمی‌کنند</td><td>نکردند</td></tr>
 </table>
 

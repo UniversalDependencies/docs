@@ -48,7 +48,7 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 <table>
   <tr><th>Paradigm <i>be</i></th><th><tt>Pres</tt></th><th><tt>Past</tt></th></tr>
   <tr><td><tt><tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=1</tt>|<tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>am</em></td><td><em>was</em></td></tr>
-  <tr><td><tt><tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>is, 's, ’s, isn, s</em></td><td><em>was</em></td></tr>
+  <tr><td><tt><tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gum-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="en_gum-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>is, 's, ’s, s, isn</em></td><td><em>was</em></td></tr>
   <tr><td><tt><tt><a href="en_gum-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt></tt></td><td><em>are, 're, ’re, 'm, m, ’m, be</em></td><td><em>were, where</em></td></tr>
   <tr><td><tt><tt><a href="en_gum-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>been</em></td></tr>
 </table>
