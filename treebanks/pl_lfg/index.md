@@ -73,9 +73,6 @@ A citable description of this treebank is in progress. Below are references to t
 * Agnieszka Patejuk and Adam Przepiórkowski. “Parallel development of linguistic resources: Towards a structure bank of Polish”. _Prace Filologiczne_, __LXV__:255–270, 2015.
 * Adam Przepiórkowski, Mirosław Bańko, Rafał L. Górski, Barbara Lewandowska-Tomaszczyk, Marek Łaziński, and Piotr Pęzik. “National Corpus of Polish”. In Zygmunt Vetulani, editor, *Proceedings of the 5th Language & Technology Conference: Human Language Technologies as a Challenge for Computer Science and Linguistics*, pages 259–263, Poznań, Poland, 2011.
 
-
-<pre>
-
 # Statistics of UD Polish LFG
 
 ## POS Tags

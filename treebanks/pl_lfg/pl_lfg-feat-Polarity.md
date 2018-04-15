@@ -36,10 +36,10 @@ The most frequent other feature values with which `ADJ` and `Polarity` co-occurr
 * `EMPTY` (7393): <em>sam, pierwszy, cały, jeden, inne, sama, całe, sami, innych, całą</em>
 
 <table>
-  <tr><th>Paradigm <i>uzbroić</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
-  <tr><td><tt><tt><a href="pl_lfg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pl_lfg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_lfg-feat-SubGender.html">SubGender</a></tt><tt>=Masc1</tt></tt></td><td><em>uzbrojony</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="pl_lfg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pl_lfg-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="pl_lfg-feat-SubGender.html">SubGender</a></tt><tt>=Masc1</tt></tt></td><td><em>uzbrojeni</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="pl_lfg-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="pl_lfg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>nieuzbrojona</em></td></tr>
+  <tr><th>Paradigm <i>spotykać</i></th><th><tt>Pos</tt></th><th><tt>Neg</tt></th></tr>
+  <tr><td><tt><tt><a href="pl_lfg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pl_lfg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_lfg-feat-SubGender.html">SubGender</a></tt><tt>=Masc2</tt></tt></td><td><em>spotykany</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="pl_lfg-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="pl_lfg-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="pl_lfg-feat-SubGender.html">SubGender</a></tt><tt>=Masc3</tt></tt></td><td><em>spotykany</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="pl_lfg-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="pl_lfg-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>niespotykane</em></td></tr>
 </table>
 
 `Polarity` seems to be **lexical feature** of `ADJ`. 99% lemmas (819) occur only with one value of `Polarity`.

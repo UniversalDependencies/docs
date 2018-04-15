@@ -70,7 +70,7 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 <table>
   <tr><th>Paradigm <i>sam</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
   <tr><td><tt><tt><a href="pl_lfg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pl_lfg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>sam</em></td><td><em>samą</em></td><td><em>samo</em></td></tr>
-  <tr><td><tt><tt><a href="pl_lfg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pl_lfg-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>same, samych</em></td><td><em>same</em></td><td><em>same</em></td></tr>
+  <tr><td><tt><tt><a href="pl_lfg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pl_lfg-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>samych, same</em></td><td><em>same</em></td><td><em>same</em></td></tr>
   <tr><td><tt><tt><a href="pl_lfg-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="pl_lfg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>samej</em></td><td></td></tr>
   <tr><td><tt><tt><a href="pl_lfg-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_lfg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>samego</em></td><td><em>samej</em></td><td><em>samego</em></td></tr>
   <tr><td><tt><tt><a href="pl_lfg-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="pl_lfg-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>samych</em></td><td></td><td><em>samych</em></td></tr>
@@ -157,7 +157,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
 
 <table>
   <tr><th>Paradigm <i>ten</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
-  <tr><td><tt><tt><a href="pl_lfg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pl_lfg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ten, tego, tyn</em></td><td><em>tę, tą, te, ta</em></td><td><em>to, te</em></td></tr>
+  <tr><td><tt><tt><a href="pl_lfg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pl_lfg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>ten, tego, tyn</em></td><td><em>tę, tą, ta, te</em></td><td><em>to, te</em></td></tr>
   <tr><td><tt><tt><a href="pl_lfg-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="pl_lfg-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>te, tych</em></td><td><em>te</em></td><td><em>te</em></td></tr>
   <tr><td><tt><tt><a href="pl_lfg-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="pl_lfg-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>tej</em></td><td><em>temu</em></td></tr>
   <tr><td><tt><tt><a href="pl_lfg-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="pl_lfg-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>tym</em></td><td><em>tym</em></td><td></td></tr>
