@@ -11,7 +11,6 @@ udver: '2'
   <td><a href="#Imp">Imp</a></td>
   <td><a href="#Past">Past</a></td>
   <td><a href="#Pres">Pres</a></td>
-  Imp: imperfect
   
 </tr>
 </table>
