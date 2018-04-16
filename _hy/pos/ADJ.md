@@ -28,7 +28,7 @@ Most Armenian adjectives inflect for [Degree]() (_մեծ, ավելի մեծ, ա�
 
 ### Border cases
 
-Resultative, subject and future-II participles are word forms that may share properties and usage of adjectives and verbs. Note, that in release 2.2 both core participial forms (used to form the moods) and as participial adjectives (used in nominal predication with [copula](cop), and to modify nouns) they are tagged [VERB]():
+Resultative, subject and future-II participles are word forms that may share properties and usage of adjectives and verbs. Note, that in release 2.2 both core participial forms (used to form the moods) and participial adjectives (used in nominal predication with [copula](cop), and to modify nouns) are tagged [VERB]():
 
 - _<b>կառուցված, կառուցվող, կառուցվելիք</b> շենք_ “a built house; a house, that is being built; a house that will be built”
 -	_<b>հնչած, հնչող, հնչելիք</b> զանգ_ “a ringing call; a call that ringed; a call that will ring”
