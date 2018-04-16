@@ -46,7 +46,7 @@ The finite and non-finite forms of verbs are labeled `Voice=Pass` in the passive
 
 ### <a name="Mid">`Mid`</a>: middle voice
 
-Between active and passive. Needed also for the reflexive, traditionally called medio-passiv (for reciprocal verbs see below); in this case, the verbs are marked with passiv infix _-վ-_ (but the lemma is tagged as non-reflexive).
+Between active and passive. Needed also for the reflexive, traditionally called medio-passiv (for reciprocal verbs see below); in this case, the verbs are marked with passiv infix _-վ-_ (but the lemma is tagged as non-reflexive). A reflexive voice will be distinguished in future. 
 
 Note, that there is a not large set of middle voice verbs marked with passive infix _-վ-_ (so-called passivizied middle verbs). These forms are morphologically very close to the passive, do not have morphologically related non-marked counterparts and are tagged `Voice=Mid`. If there is a morphologically related non-marked counterpart, than the two verbs are represented by different lemmas (e.g. _վերաբերվել&nbsp;_.`Mid` “treat, be about”, but _վերաբերել&nbsp;_.`Act` “refer to”).
 
@@ -82,7 +82,7 @@ Note, that the auxiliary _տալ&nbsp;_ (in various tenses and moods) is accombi
 
 A reciprocal verb describes an event in which two agents (or groups of agents) perform the same action upon each other.
 
-The reciprocal is expressed by the suffix _-վ_ however, the verb roots that can become reciprocal is limited.
+The reciprocal is expressed by the passiv infix _-վ-_ however, the verb roots that can become reciprocal is limited.
 
 #### Examples
 
