@@ -39,5 +39,5 @@ and people of higher social status than the one of the speaker.
 
 Examples:
 
-* _<b>Դուք գնացիք</b>_ (you went.Sing/Plur)
-* _<b>Դուք</b> գնում <b>եք</b>_ (you go.Sing/Plur)
+* _<b>Դուք գնացիք</b>_ (you went.Sing)
+* _<b>Դուք</b> գնում <b>եք</b>_ (you go.Sing)
