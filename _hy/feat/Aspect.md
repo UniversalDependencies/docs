@@ -85,7 +85,7 @@ Action is in progress with respect to current or a reference time. The converb i
 
 A situation or action that has persisted over a period of time and still continues.
 
-The subject participle also indicate durative aspect.
+The subject participle indicate durative aspect.
 
 #### Examples
 
