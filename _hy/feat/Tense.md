@@ -77,7 +77,7 @@ Present forms of verbs in subjunctive, conditional and necessitative moods have 
 * _կամ&nbsp;_ “I am / exist.`Ind`”,
 * _<b>գնամ</b> տուն&nbsp;_ “I'd better <b>go</b>.`Sub` home”,
 * _<b>կգնամ</b> տուն&nbsp;_ “<b>I shall go</b>.`Cnd` home”,
-* _<b>պիտի գնամ</b> տուն&nbsp;_ “I must <b>go</b>.`Nec` home”,
+* _<b>պիտի գնամ</b> տուն&nbsp;_ “<b>I must go</b>.`Nec` home”,
 * _ունեմ&nbsp;_ “I have.`Ind`”,
 * _գիտեմ&nbsp;_ “I know.`Ind`”,
 * _արժեմ&nbsp;_ “I am worth.`Ind`”,
