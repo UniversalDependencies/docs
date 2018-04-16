@@ -49,13 +49,13 @@ Note, that a limited set of verbs (_գիտեմ, ունեմ, արժեմ_) form im
 
 #### Examples
 
-* _էի</b>&nbsp;_ “<b>I was</b>.`Ind`”,
-* _կայի</b>&nbsp;_ “<b>I was / existed</b>.`Ind`”,
+* _էի&nbsp;_ “<b>I was</b>.`Ind`”,
+* _կայի&nbsp;_ “<b>I was / existed</b>.`Ind`”,
 * _<b>գնայի</b> տուն&nbsp;_ “<b>I wish I went</b>.`Sub` home”,
 * _<b>վազեի</b> տուն&nbsp;_ “<b>I wish I ran</b>.`Sub` home”,
 * _<b>պիտի գնայի</b> տուն&nbsp;_ “<b>I should go</b>.`Nec` home”,
-* _ունեի</b>&nbsp;_ “I had”.`Ind`,
-* _գիտեի</b>&nbsp;_ “I knew”.`Ind`,
+* _ունեի&nbsp;_ “I had”.`Ind`,
+* _գիտեի&nbsp;_ “I knew”.`Ind`,
 * _արժեի&nbsp;_ “I was worth.`Ind`”,
 * _ունենայի&nbsp;_ “I wish I had.`Sub`”,
 * _գիտենայի&nbsp;_ “I wish I knew.`Sub`”,
@@ -73,8 +73,8 @@ Present forms of verbs in subjunctive, conditional and necessitative moods have 
 
 #### Examples
 
-* _եմ</b>&nbsp;_ “I am.`Ind`”,
-* _կամ</b>&nbsp;_ “I am / exist.`Ind`”,
+* _եմ&nbsp;_ “I am.`Ind`”,
+* _կամ&nbsp;_ “I am / exist.`Ind`”,
 * _<b>գնամ</b> տուն&nbsp;_ “I'd better <b>go</b>.`Sub` home”,
 * _<b>կգնամ</b> տուն&nbsp;_ “<b>I shall go</b>.`Cnd` home”,
 * _<b>պիտի գնամ</b> տուն&nbsp;_ “I must <b>go</b>.`Nec` home”,
