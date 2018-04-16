@@ -27,9 +27,9 @@ is no such thing as “affirmative pronoun”.)
 
 Note that in Armenian [adjectives](ADJ), sometimes also [adverbs](ADV) can be negated by adding the negating particle _ոչ&nbsp;_, denote the complement of the original adjective or adverb: e.g. _պաշտոնական&nbsp;_ “official” vs. _ոչ պաշտոնական&nbsp;_ “unofficial” (lit: “not official (something)”).
 
-A set of non-productive prefixes, _ան-,&nbsp; ապ-,&nbsp; դժ-,&nbsp; տ-,&nbsp; չ-,&nbsp;_ can be used for negating a lexicalized set of adjectives, e.g. _անբախտ, ապաշնորհ, դժբախտ, տգեղ, չտես_ “unlucky, dull, unfortunate, ugly, covetous”. We (currently) do not mark adjectives for the `Polarity` feature.
+A set of non-productive prefixes, _ան-,&nbsp; ապ-,&nbsp; դժ-,&nbsp; տ-,&nbsp; չ-,&nbsp;_ can be used for negating a lexicalized set of adjectives, e.g. _անբախտ, ապաշնորհ, դժբախտ, տգեղ, չտես_ “unlucky, dull, unfortunate, ugly, covetous”. We do not mark adjectives for the `Polarity` feature.
 
-Negating nouns are usually limited to those derived from verbs (_չունեցողի, չգրվածները_). We don't mark them with `Polarity=Neg`. 
+Negating nouns are usually limited to those derived from verbs (_չունեցողի, չգրվածները_). We (currently) do not mark them with `Polarity=Neg`. 
 
 ### <a name="Pos">`Pos`</a>: positive, affirmative
 
