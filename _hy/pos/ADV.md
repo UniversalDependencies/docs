@@ -8,7 +8,7 @@ udver: '2'
 ### Definition
 
 Adverbs are words that typically modify [verbs](VERB) for such categories as time, place, direction or manner. They may also modify
-[adjectives](ADJ) and other adverbs, as in _<b>հավանաբար</b> սխալ&nbsp;_ “provably wrong” or _<b>շատ</b> հազվադեպ&nbsp;_ “very rarely”.
+[adjectives](ADJ) and other adverbs, as in _<b>հավանաբար</b> սխալ&nbsp;_ “probably wrong” or _<b>շատ</b> հազվադեպ&nbsp;_ “very rarely”.
 
 There is a closed subclass of _pronominal adverbs_ that refer to circumstances in context, rather than naming them directly; similarly
 to pronouns, these can be categorized as interrogative, relative, demonstrative, indefinite. Pronominal adverbs also get the `ADV` part-of-speech tag but they are differentiated by additional features.
