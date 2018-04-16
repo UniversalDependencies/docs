@@ -15,7 +15,7 @@ udver: '2'
 </table>
 
 Person is a feature of personal and possessive
-[pronouns](PRON), [determiners](DET), and of [auxiliaries](AUX) and [verbs](VERB). On verbs it is in
+[pronouns](PRON) / [determiners](DET), and of [verbs](VERB). On verbs it is in
 fact an agreement feature that marks the person of the verb's subject. Person
 marked on verbs makes it unnecessary to always add a personal pronoun
 as subject and thus subjects are sometimes dropped (Armenian is a pro-drop language).
