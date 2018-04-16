@@ -49,8 +49,8 @@ Note, that a limited set of verbs (_գիտեմ, ունեմ, արժեմ_) form im
 
 #### Examples
 
-* _էի&nbsp;_ “<b>I was</b>.`Ind`”,
-* _կայի&nbsp;_ “<b>I was / existed</b>.`Ind`”,
+* _էի&nbsp;_ “I was.`Ind`”,
+* _կայի&nbsp;_ “I was / existed.`Ind`”,
 * _<b>գնայի</b> տուն&nbsp;_ “<b>I wish I went</b>.`Sub` home”,
 * _<b>վազեի</b> տուն&nbsp;_ “<b>I wish I ran</b>.`Sub` home”,
 * _<b>պիտի գնայի</b> տուն&nbsp;_ “<b>I should go</b>.`Nec` home”,
