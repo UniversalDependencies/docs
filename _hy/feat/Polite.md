@@ -29,8 +29,8 @@ members and close friends).
 
 Examples:
 
-* _<b>դու գնացիր / դուք գնացիք</b>_ (you went.Sing/Plur)
-* _<b>դու</b> գնում <b>ես / դուք</b> գնում <b>եք</b>_ (you go.Sing/Plur)
+* _<b>դու գնացիր / դուք գնացիք</b>_ (you went.`Sing/Plur`)
+* _<b>դու</b> գնում <b>ես / դուք</b> գնում <b>եք</b>_ (you go.`Sing/Plur`)
 
 ### <a name="Form">`Form`</a>: formal register
 
@@ -39,5 +39,5 @@ and people of higher social status than the one of the speaker.
 
 Examples:
 
-* _<b>Դուք գնացիք</b>_ (you went.Sing)
-* _<b>Դուք</b> գնում <b>եք</b>_ (you are.Sing going)
+* _<b>Դուք գնացիք</b>_ (you went.`Sing`)
+* _<b>Դուք</b> գնում <b>եք</b>_ (you are.`Sing` going)
