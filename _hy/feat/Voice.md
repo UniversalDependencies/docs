@@ -12,6 +12,7 @@ udver: '2'
   <td><a href="#Cau">Cau</a></td>
   <td><a href="#Mid">Mid</a></td>
   <td><a href="#Pass">Pass</a></td>
+  <td><a href="#Rcp">Rcp</a></td>
 </tr>
 </table>
 
@@ -45,7 +46,7 @@ The finite and non-finite forms of verbs are labeled `Voice=Pass` in the passive
 
 ### <a name="Mid">`Mid`</a>: middle voice
 
-Between active and passive. Needed also for the reflexive and reciprocal verbs (traditionally called medio-passiv); in this case, the verbs are marked with passiv infix _-վ-_ (but the lemma is tagged as non-reflexive, non-reciprocal).
+Between active and passive. Needed also for the reflexive, traditionally called medio-passiv (for reciprocal verbs see below); in this case, the verbs are marked with passiv infix _-վ-_ (but the lemma is tagged as non-reflexive).
 
 Note, that there is a not large set of middle voice verbs marked with passive infix _-վ-_ (so-called passivizied middle verbs). These forms are morphologically very close to the passive, do not have morphologically related non-marked counterparts and are tagged `Voice=Mid`. If there is a morphologically related non-marked counterpart, than the two verbs are represented by different lemmas (e.g. _վերաբերվել&nbsp;_.`Mid` “treat, be about”, but _վերաբերել&nbsp;_.`Act` “refer to”).
 
@@ -53,7 +54,6 @@ Note, that there is a not large set of middle voice verbs marked with passive in
 
 * _Նա <b>վախենում</b> է մթից&nbsp;_ “He is <b>afraid</b> of darkness”,
 * _Նա արագ <b>լվացվեց</b>, <b>հագնվեց</b>&nbsp;_ “He <b>washed</b>, <b>dressed</b> quickly (lit: he washed himself, he dressed himself)”,
-* _Նրանք <b>գրկախառնվեցին</b>, <b>համբուրվեցին</b>&nbsp;_ “They <b>emraced</b> and <b>kissed</b> each other”,
 * _Մենք <b>հարձակվեցինք</b> թշնամու վրա&nbsp;_ “We <b>attacked</b> the enemy”,
 * _Ամիսներ անց բոլորն էլ <b>հաշտվեցին</b> այդ մտքի հետ&nbsp;_ “After several months everybody <b>stood</b> thought of it”.
 
@@ -77,3 +77,13 @@ Note, that the auxiliary _տալ&nbsp;_ (in various tenses and moods) is accombi
 * _հասկանալ_.`Act` _<b>տալ</b>&nbsp;_.`Cau` “lit: to <b>make</b> somebody understand”,
 * _<b>հասկացնել</b>&nbsp;_.`Cau` “lit: to <b>make</b> somebody understand”,
 * _<b>հասկացնել</b>_.`Cau` _<b>տալ</b>&nbsp;_.`Cau` “lit: to <b>make</b> someone <b>make</b> someone understand”.
+
+### <a name="Rcp">`Rcp`</a>: reciprocal voice
+
+A reciprocal verb describes an event in which two agents (or groups of agents) perform the same action upon each other.
+
+The reciprocal is expressed by the suffix _-վ_ however, the verb roots that can become reciprocal is limited.
+
+#### Examples
+
+* _Նրանք <b>գրկախառնվեցին</b>&nbsp;_ “They hugged each other”.
