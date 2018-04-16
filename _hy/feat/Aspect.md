@@ -73,7 +73,7 @@ The future-II participle also indicate progressive aspect.
 
 ### <a name="Prog">`Prog`</a>: progressive aspect
 
-Action is in progress with respect to current or a reference time. The processual participle indicate progressive aspect.
+Action is in progress with respect to current or a reference time. The converb indicate progressive aspect.
 
 #### Examples
 
