@@ -17,7 +17,7 @@ udver: '2'
 </table>
 
 Even though the name of the feature seems to suggest that it is used
-exclusively with [verbs](VERB), the `Part` value can be used also with [adjectives](ADJ). It distinguishes participles from other verb forms, and participial adjectives from other adjectives.
+exclusively with [verbs](VERB), it is not the case. The `Part` value can be used also with [nouns](NOUN) (nominalized subject or resultative participles), to separate them from other verb forms or other types of nouns. Note, that some [adjectives](ADJ) that fall in the gray zone between adjectives and participles are marked `Part` too.
 
 ### <a name="Fin">`Fin`</a>: finite verb
 
