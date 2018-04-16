@@ -39,7 +39,7 @@ it. In Armenian this is aorist.
 #### Examples
 
 * _նա <b>գնաց</b> տուն&nbsp;_ “he <b>went</b>.`Ind` home”,
-* _<b>եղա</b>&nbsp;_ “<b>I was</b>.`Ind`”
+* _եղա&nbsp;_ “I was.`Ind`”
 
 ### <a name="Imp">`Imp`</a>: imperfect
 
@@ -49,18 +49,18 @@ Note, that a limited set of verbs (_գիտեմ, ունեմ, արժեմ_) form im
 
 #### Examples
 
-* _<b>էի</b>&nbsp;_ “<b>I was</b>.`Ind`”,
-* _<b>կայի</b>&nbsp;_ “<b>I was / existed</b>.`Ind`”,
+* _էի</b>&nbsp;_ “<b>I was</b>.`Ind`”,
+* _կայի</b>&nbsp;_ “<b>I was / existed</b>.`Ind`”,
 * _<b>գնայի</b> տուն&nbsp;_ “<b>I wish I went</b>.`Sub` home”,
 * _<b>վազեի</b> տուն&nbsp;_ “<b>I wish I ran</b>.`Sub` home”,
 * _<b>պիտի գնայի</b> տուն&nbsp;_ “<b>I should go</b>.`Nec` home”,
-* _<b>ունեի</b>&nbsp;_ “<b>I had</b>”.`Ind`,
-* _<b>գիտեի</b>&nbsp;_ “<b>I knew</b>”.`Ind`,
-* _<b>արժեի</b>&nbsp;_ “<b>I was worth</b>.`Ind`”,
-* _<b>ունենայի</b>&nbsp;_ “<b>I wish I had</b>.`Sub`”,
-* _<b>գիտենայի</b>&nbsp;_ “<b>I wish I knew</b>.`Sub`”,
-* _<b>արժենայի</b>&nbsp;_ “<b>I wish I were worth</b>.`Sub`”
-* _<b>լինեի</b>&nbsp;_ “<b>I wish I were</b>.`Sub`”,
+* _ունեի</b>&nbsp;_ “I had”.`Ind`,
+* _գիտեի</b>&nbsp;_ “I knew”.`Ind`,
+* _արժեի&nbsp;_ “I was worth.`Ind`”,
+* _ունենայի&nbsp;_ “I wish I had.`Sub`”,
+* _գիտենայի&nbsp;_ “I wish I knew.`Sub`”,
+* _արժենայի&nbsp;_ “I wish I were worth.`Sub`”
+* _լինեի&nbsp;_ “I wish I were.`Sub`”,
 
 ### <a name="Pres">`Pres`</a>: present tense
 
@@ -73,15 +73,15 @@ Present forms of verbs in subjunctive, conditional and necessitative moods have 
 
 #### Examples
 
-* _<b>եմ</b>&nbsp;_ “<b>I am</b>.`Ind`”,
-* _<b>կամ</b>&nbsp;_ “<b>I am / exist</b>.`Ind`”,
+* _եմ</b>&nbsp;_ “I am.`Ind`”,
+* _կամ</b>&nbsp;_ “I am / exist.`Ind`”,
 * _<b>գնամ</b> տուն&nbsp;_ “I'd better <b>go</b>.`Sub` home”,
 * _<b>կգնամ</b> տուն&nbsp;_ “<b>I shall go</b>.`Cnd` home”,
 * _<b>պիտի գնամ</b> տուն&nbsp;_ “I must <b>go</b>.`Nec` home”,
-* _<b>ունեմ</b>&nbsp;_ “<b>I have</b>.`Ind`”,
-* _<b>գիտեմ</b>&nbsp;_ “<b>I know</b>.`Ind`”,
-* _<b>արժեմ</b>&nbsp;_ “<b>I am worth</b>.`Ind`”,
-* _<b>ունենամ</b>&nbsp;_ “(if) <b>I have</b>.`Sub`”,
-* _<b>գիտենամ</b>&nbsp;_ “(if) <b>I know</b>.`Sub`”,
-* _<b>արժենամ</b>&nbsp;_ “(if) <b>I am worth</b>.`Sub`”
-* _<b>լինեմ</b>&nbsp;_ “<b>I am / I will be</b>.`Sub`”,
+* _ունեմ&nbsp;_ “I have.`Ind`”,
+* _գիտեմ&nbsp;_ “I know.`Ind`”,
+* _արժեմ&nbsp;_ “I am worth.`Ind`”,
+* _ունենամ&nbsp;_ “(if) I have.`Sub`”,
+* _գիտենամ&nbsp;_ “(if) I know.`Sub`”,
+* _արժենամ&nbsp;_ “(if) I am worth.`Sub`”
+* _լինեմ&nbsp;_ “I am / I will be.`Sub`”,
