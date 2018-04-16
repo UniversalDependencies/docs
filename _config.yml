@@ -110,8 +110,6 @@ collections:
     output: true
   la:
     output: true
-  lv:
-    output: true
   mr:
     output: true
 ###!!! DZ: I cannot make Jekyll process a collection called just "no".
