@@ -15,8 +15,8 @@ udver: '2'
 </tr>
 </table>
 
-Feature of cardinal and ordinal numbers. Is the number expressed by
-digits or as a word?
+Feature of all types of numbers. Is the number expressed by
+digits or as a word? Several types of nouns can also have this feature, adjectives and adverbs can too.
 
 ### <a name="Word">`Word`</a>: number expressed as a word
 
