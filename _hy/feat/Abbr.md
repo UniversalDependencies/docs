@@ -39,7 +39,7 @@ Boolean feature. Is this an abbreviation? Note that the abbreviated word typical
 
 Note that the `Abbr` feature will be mentioned for foreign acronyms written in Amrenian: _ՏԱՍՍ (Телеграфное агентство Советского Союза)&nbsp;_ “TASS, Telegraph Agency of the Soviet Union”, _ՆԱՏՕ&nbsp;_ “NATO”, _ՕՊԵԿ&nbsp;_ “OPEC”.
 
-## Countrexamples
+#### Countrexamples
 
 * Some Russian acronyms are loan words in Armenian:
   _զագս (ЗАГС / загс, запись актов гражданского состояния)&nbsp;_ “registry office”,
