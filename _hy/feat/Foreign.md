@@ -18,7 +18,7 @@ text, e.g. inside direct speech, titles of books etc.
 
 This feature would apply either to the [X]() part of speech (unanalyzable token), or to other parts of speech if we know and are willing to annotate the class to which the word belongs in its original language.
 
-Note, that the articles, prepositions in foreign names (_the, die, le, van, de_) are tagged [X]().
+Note, that the articles, prepositions in foreign names (_դը, դե, դ՚, ֆոն, դել, վան_) are tagged [X]().
 
 ### <a name="Yes">`Yes`</a>: it is foreign
 
