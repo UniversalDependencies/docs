@@ -14,7 +14,7 @@ udver: '2'
 
 Boolean feature. Is this the first part of a hyphenated compound?
 
-Compound [adjectives](ADJ) or [participles/gerundives](VerbForm) with hyphens, such as _անգլո-ամերիկյան&nbsp;_ “Anglo-American” or _<b>գնալ-գալու</b> արանքում&nbsp;_ “between <b>going-coming</b>” get split during
+Compound [adjectives](ADJ) or [gerundives](VerbForm) with hyphens, such as _անգլո-ամերիկյան&nbsp;_ “Anglo-American” or _<b>գնալ-գալու</b> արանքում&nbsp;_ “between <b>going-coming</b>” get split during
 tokenization. The last part, _ամերիկյան&nbsp;_ or _գալու,&nbsp;_ is an independent adjective/gerundive. However, the first part, _անգլո&nbsp;_ is a form that does not occur elsewhere than in
 compounds (the independent form would be _անգլիական_). The form _գնալ&nbsp;_ is homonymous with the bare infinitive.
 
