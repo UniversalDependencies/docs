@@ -19,6 +19,7 @@ an open community effort with over 200 contributors producing more than 100 tree
 * Query UD treebanks online:
   * [SETS treebank search](http://bionlp-www.utu.fi/dep_search) maintained by the University of Turku
   * [PML Tree Query](http://lindat.mff.cuni.cz/services/pmltq/) maintained by the Charles University in Prague
+  * [Kontext](http://lindat.mff.cuni.cz/services/kontext/corpora/corplist) maintained by the Charles University in Prague
 
 If you want to receive news about Universal Dependencies, you can subscribe to the
 [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud).
