@@ -12,7 +12,7 @@ udver: '2'
 </tr>
 </table>
 
-Boolean feature of noun, pronouns or determiners. It tells
+Boolean feature of noun, pronouns, determiners or adjectives. It tells
 whether the word is possessive.
 
 While many tagsets would have “possessive” as one of the various
