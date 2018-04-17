@@ -58,6 +58,8 @@ This is a subtype of cardinal numbers. It may denote a fraction or just the deno
 
 Used to express that the same quantity is distributed to each member in a set of targets.
 
+Note that _<b>20-ական, 30-ական</b> թվականներին_.`Plur` “by twenty, thirthies” are not considered distributive numerals, we mark them either `ADJ` or `NOUN`.
+
 #### Examples
 
 * _<b>երեքական (երեք-երեք)</b> խնձոր յուրաքանչյուրին_ “three apples per / for each one”
