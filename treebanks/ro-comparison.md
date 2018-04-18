@@ -323,11 +323,15 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <li><a>Gender</a>
+      <ul>
+        <li><a>Gender</a></li>
+      </ul>
 
     </td>
     <td width="50%" valign="top">
-      <li><a>Gender</a>
+      <ul>
+        <li><a>Gender</a></li>
+      </ul>
 
     </td>
   </tr>
@@ -432,11 +436,15 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <li><a>Number</a>
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
 
     </td>
     <td width="50%" valign="top">
-      <li><a>Number</a>
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
 
     </td>
   </tr>
@@ -537,11 +545,15 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <li><a>Case</a>
+      <ul>
+        <li><a>Case</a></li>
+      </ul>
 
     </td>
     <td width="50%" valign="top">
-      <li><a>Case</a>
+      <ul>
+        <li><a>Case</a></li>
+      </ul>
 
     </td>
   </tr>
@@ -761,11 +773,15 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <li><a>Definite</a>
+      <ul>
+        <li><a>Definite</a></li>
+      </ul>
 
     </td>
     <td width="50%" valign="top">
-      <li><a>Definite</a>
+      <ul>
+        <li><a>Definite</a></li>
+      </ul>
 
     </td>
   </tr>
@@ -854,11 +870,15 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <li><a>Degree</a>
+      <ul>
+        <li><a>Degree</a></li>
+      </ul>
 
     </td>
     <td width="50%" valign="top">
-      <li><a>Degree</a>
+      <ul>
+        <li><a>Degree</a></li>
+      </ul>
 
     </td>
   </tr>
@@ -934,11 +954,15 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <li><a>Polarity</a>
+      <ul>
+        <li><a>Polarity</a></li>
+      </ul>
 
     </td>
     <td width="50%" valign="top">
-      <li><a>Polarity</a>
+      <ul>
+        <li><a>Polarity</a></li>
+      </ul>
 
     </td>
   </tr>
@@ -1017,11 +1041,15 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <li><a>Variant</a>
+      <ul>
+        <li><a>Variant</a></li>
+      </ul>
 
     </td>
     <td width="50%" valign="top">
-      <li><a>Variant</a>
+      <ul>
+        <li><a>Variant</a></li>
+      </ul>
 
     </td>
   </tr>
@@ -1113,11 +1141,15 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <li><a>Mood</a>
+      <ul>
+        <li><a>Mood</a></li>
+      </ul>
 
     </td>
     <td width="50%" valign="top">
-      <li><a>Mood</a>
+      <ul>
+        <li><a>Mood</a></li>
+      </ul>
 
     </td>
   </tr>
@@ -1211,11 +1243,15 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <li><a>Tense</a>
+      <ul>
+        <li><a>Tense</a></li>
+      </ul>
 
     </td>
     <td width="50%" valign="top">
-      <li><a>Tense</a>
+      <ul>
+        <li><a>Tense</a></li>
+      </ul>
 
     </td>
   </tr>
@@ -1390,11 +1426,15 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <li><a>PronType</a>
+      <ul>
+        <li><a>PronType</a></li>
+      </ul>
 
     </td>
     <td width="50%" valign="top">
-      <li><a>PronType</a>
+      <ul>
+        <li><a>PronType</a></li>
+      </ul>
 
     </td>
   </tr>
@@ -1606,11 +1646,15 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <li><a>NumType</a>
+      <ul>
+        <li><a>NumType</a></li>
+      </ul>
 
     </td>
     <td width="50%" valign="top">
-      <li><a>NumType</a>
+      <ul>
+        <li><a>NumType</a></li>
+      </ul>
 
     </td>
   </tr>
@@ -1689,11 +1733,15 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <li><a>Poss</a>
+      <ul>
+        <li><a>Poss</a></li>
+      </ul>
 
     </td>
     <td width="50%" valign="top">
-      <li><a>Poss</a>
+      <ul>
+        <li><a>Poss</a></li>
+      </ul>
 
     </td>
   </tr>
@@ -1737,11 +1785,15 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <li><a>Reflex</a>
+      <ul>
+        <li><a>Reflex</a></li>
+      </ul>
 
     </td>
     <td width="50%" valign="top">
-      <li><a>Reflex</a>
+      <ul>
+        <li><a>Reflex</a></li>
+      </ul>
 
     </td>
   </tr>
@@ -1783,11 +1835,15 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <li><a>Person</a>
+      <ul>
+        <li><a>Person</a></li>
+      </ul>
 
     </td>
     <td width="50%" valign="top">
-      <li><a>Person</a>
+      <ul>
+        <li><a>Person</a></li>
+      </ul>
 
     </td>
   </tr>
@@ -1898,7 +1954,9 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <li><a>Polite</a>
+      <ul>
+        <li><a>Polite</a></li>
+      </ul>
 
     </td>
     <td width="50%" valign="top">
@@ -1949,11 +2007,15 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <li><a>Number[psor]</a>
+      <ul>
+        <li><a>Number[psor]</a></li>
+      </ul>
 
     </td>
     <td width="50%" valign="top">
-      <li><a>Number[psor]</a>
+      <ul>
+        <li><a>Number[psor]</a></li>
+      </ul>
 
     </td>
   </tr>
