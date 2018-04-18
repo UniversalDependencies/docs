@@ -58,3 +58,45 @@ advcl(I-write, promised)
 xcomp(Խոստացել, գրել)
 xcomp(Promised, to-write)
 ~~~
+
+### Secondary Predicates
+
+The `xcomp` relation is also used in constructions that are known as _secondary predicates_ or _predicatives_.
+Examples:
+
+* _Նա դատավճիռը մտահոգիչ համարեց։_
+* _Նա դատավճիռը հաղթանակ համարեց։_
+* _She declared the cake beautiful._
+* _She declared the cake a success._
+
+We could paraphrase the sentence using a subordinate clause: _She declared that the cake was beautiful._
+There are two predicates mixed in one clause: 1. she declared something, and 2. the cake was beautiful (according to her opinion).
+The secondary predicate will be attached to the main predicate as an `xcomp`:
+
+~~~ sdparse
+She declared the cake beautiful .
+nsubj(declared, She)
+obj(declared, cake)
+xcomp(declared, beautiful)
+~~~
+
+In the enhanced representation, there is an additional subject link showing the secondary predication:
+
+~~~ sdparse
+She declared the cake beautiful .
+nsubj(declared, She)
+obj(declared, cake)
+xcomp(declared, beautiful)
+nsubj(beautiful, cake)
+~~~
+
+Remember that `xcomp` is used for core arguments of clausal predicates
+so it will not be used for other instances of secondary predication.
+For instance, in _Նա մոլոր մտավ սենյակ_ “She entered the room errant” we also have a double predication
+(she entered the room; she was errant).
+But _մոլոր_ “errant” is not a core argument of _մտնել_ “enter”: leaving it out will neither affect grammaticality
+nor significantly alter the meaning of the verb.
+On the other hand, leaving out _beautiful_ in _she declared the cake beautiful_
+will either render the sentence ungrammatical or lead to a different interpretation of _declared._
+
+The result is that in _Նա մոլոր մտավ սենյակ,_ “She entered the room errant”, _մոլոր_ “errant” will depend on _Նա_ “She” and the relation will be [acl]() instead of `xcomp`.
