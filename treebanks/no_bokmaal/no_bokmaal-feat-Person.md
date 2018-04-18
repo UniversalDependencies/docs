@@ -16,7 +16,7 @@ The feature is used with 1 part-of-speech tags: <tt><a href="no_bokmaal-pos-PRON
 
 ### `PRON`
 
-18148 <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> tokens (76% of all `PRON` tokens) have a non-empty value of `Person`.
+18148 <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> tokens (70% of all `PRON` tokens) have a non-empty value of `Person`.
 
 The most frequent other feature values with which `PRON` and `Person` co-occurred: <tt><a href="no_bokmaal-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (17412; 96%), <tt><a href="no_bokmaal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (13846; 76%), <tt><a href="no_bokmaal-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (9114; 50%).
 
@@ -25,7 +25,7 @@ The most frequent other feature values with which `PRON` and `Person` co-occurre
 * `1` (5011; 28% of non-empty `Person`): <em>jeg, vi, meg, oss, mæ, Eg, mig, æ</em>
 * `2` (880; 5% of non-empty `Person`): <em>du, deg, dere</em>
 * `3` (12257; 68% of non-empty `Person`): <em>det, han, de, hun, dette, den, noe, dem, ham, alt</em>
-* `EMPTY` (5712): <em>som, seg, man, hva, hvem, en, hverandre, ingenting, hvis, ens</em>
+* `EMPTY` (7807): <em>som, seg, man, sin, hva, sine, hans, sitt, min, vår</em>
 
 `Person` seems to be **lexical feature** of `PRON`. 100% lemmas (27) occur only with one value of `Person`.
 

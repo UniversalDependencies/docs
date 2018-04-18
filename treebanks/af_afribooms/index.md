@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Afrikaans'
+title:  'UD_Afrikaans-AfriBooms'
 udver: '2'
 ---
 
@@ -9,7 +9,7 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Afrikaans
+# UD Afrikaans AfriBooms
 
 Language: [Afrikaans](../af/overview/af-hub.html) (code: `af`)<br/>
 Family: Indo-European, Germanic
@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
 The following people have contributed to making this treebank part of UD: Peter Dirix, Liesbeth Augustinus, Daniel van Niekerk.
 
-Repository: [UD_Afrikaans](https://github.com/UniversalDependencies/UD_Afrikaans)
+Repository: [UD_Afrikaans-AfriBooms](https://github.com/UniversalDependencies/UD_Afrikaans-AfriBooms)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udaf_afribooms)
 
 License: CC BY-SA 4.0
 
@@ -26,7 +27,7 @@ Genre: government, text
 
 Questions, comments?
 General annotation questions (either Afrikaans-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Afrikaans/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Afrikaans-AfriBooms/issues).
 If you want to collaborate, please contact [peter&nbsp;•&nbsp;dirix&nbsp;(æt)&nbsp;kuleuven&nbsp;•&nbsp;be, liesbeth&nbsp;•&nbsp;augustinus&nbsp;(æt)&nbsp;kuleuven&nbsp;•&nbsp;be].
 Development of the treebank happens directly in the UD repository, so you may submit bug fixes as pull requests against the dev branch.
 
@@ -40,11 +41,11 @@ Development of the treebank happens directly in the UD repository, so you may su
 
 ## Description
 
-UD Afrikaans is a conversion of the AfriBooms Dependency Treebank, originally annotated with a simplified PoS set and dependency relations according to a subset of the Stanford tag set. The corpus consists of public government documents.
+UD Afrikaans-AfriBooms is a conversion of the AfriBooms Dependency Treebank, originally annotated with a simplified PoS set and dependency relations according to a subset of the Stanford tag set. The corpus consists of public government documents.
 
 
 
-UD Afrikaans is a conversion AfriBooms Dependency Treebank, which is based on the Afrikaans section of the NCHLT Annotated Text Corpora and is available from the South African Language Resource Management Agency, Potchefstroom. We will be working on manually verifying the treebank.
+UD Afrikaans-AfriBooms is a conversion AfriBooms Dependency Treebank, which is based on the Afrikaans section of the NCHLT Annotated Text Corpora and is available from the South African Language Resource Management Agency, Potchefstroom. We will be working on manually verifying the treebank.
 
 Size of the differents parts:
 - train size = 1315 sentences
@@ -56,27 +57,40 @@ Size of the differents parts:
 The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at the University of Leuven and by Daniel van Niekerk at the Potchefstroom campus of North West University.
 
 
-# Statistics of UD Afrikaans
+# Statistics of UD Afrikaans AfriBooms
 
 ## POS Tags
 
-[ADJ](af-pos-ADJ.html) – [ADP](af-pos-ADP.html) – [ADV](af-pos-ADV.html) – [AUX](af-pos-AUX.html) – [CCONJ](af-pos-CCONJ.html) – [DET](af-pos-DET.html) – [NOUN](af-pos-NOUN.html) – [NUM](af-pos-NUM.html) – [PART](af-pos-PART.html) – [PRON](af-pos-PRON.html) – [PROPN](af-pos-PROPN.html) – [PUNCT](af-pos-PUNCT.html) – [SCONJ](af-pos-SCONJ.html) – [SYM](af-pos-SYM.html) – [VERB](af-pos-VERB.html) – [X](af-pos-X.html)
+[ADJ](af_afribooms-pos-ADJ.html) – [ADP](af_afribooms-pos-ADP.html) – [ADV](af_afribooms-pos-ADV.html) – [AUX](af_afribooms-pos-AUX.html) – [CCONJ](af_afribooms-pos-CCONJ.html) – [DET](af_afribooms-pos-DET.html) – [NOUN](af_afribooms-pos-NOUN.html) – [NUM](af_afribooms-pos-NUM.html) – [PART](af_afribooms-pos-PART.html) – [PRON](af_afribooms-pos-PRON.html) – [PROPN](af_afribooms-pos-PROPN.html) – [PUNCT](af_afribooms-pos-PUNCT.html) – [SCONJ](af_afribooms-pos-SCONJ.html) – [SYM](af_afribooms-pos-SYM.html) – [VERB](af_afribooms-pos-VERB.html) – [X](af_afribooms-pos-X.html)
 
 ## Features
 
-[AdjType](af-feat-AdjType.html) – [AdpType](af-feat-AdpType.html) – [Case](af-feat-Case.html) – [Definite](af-feat-Definite.html) – [Degree](af-feat-Degree.html) – [Number](af-feat-Number.html) – [PartType](af-feat-PartType.html) – [Person](af-feat-Person.html) – [Poss](af-feat-Poss.html) – [PronType](af-feat-PronType.html) – [Reflex](af-feat-Reflex.html) – [Subcat](af-feat-Subcat.html) – [Tense](af-feat-Tense.html) – [VerbForm](af-feat-VerbForm.html) – [VerbType](af-feat-VerbType.html)
+[AdjType](af_afribooms-feat-AdjType.html) – [AdpType](af_afribooms-feat-AdpType.html) – [Case](af_afribooms-feat-Case.html) – [Definite](af_afribooms-feat-Definite.html) – [Degree](af_afribooms-feat-Degree.html) – [Number](af_afribooms-feat-Number.html) – [PartType](af_afribooms-feat-PartType.html) – [Person](af_afribooms-feat-Person.html) – [Poss](af_afribooms-feat-Poss.html) – [PronType](af_afribooms-feat-PronType.html) – [Reflex](af_afribooms-feat-Reflex.html) – [Subcat](af_afribooms-feat-Subcat.html) – [Tense](af_afribooms-feat-Tense.html) – [VerbForm](af_afribooms-feat-VerbForm.html) – [VerbType](af_afribooms-feat-VerbType.html)
 
 ## Relations
 
-[advmod](af-dep-advmod.html) – [amod](af-dep-amod.html) – [appos](af-dep-appos.html) – [aux](af-dep-aux.html) – [aux:pass](af-dep-aux-pass.html) – [case](af-dep-case.html) – [cc](af-dep-cc.html) – [ccomp](af-dep-ccomp.html) – [compound:prt](af-dep-compound-prt.html) – [conj](af-dep-conj.html) – [cop](af-dep-cop.html) – [csubj](af-dep-csubj.html) – [dep](af-dep-dep.html) – [det](af-dep-det.html) – [flat](af-dep-flat.html) – [iobj](af-dep-iobj.html) – [mark](af-dep-mark.html) – [nmod](af-dep-nmod.html) – [nsubj](af-dep-nsubj.html) – [nsubj:pass](af-dep-nsubj-pass.html) – [nummod](af-dep-nummod.html) – [obj](af-dep-obj.html) – [obl](af-dep-obl.html) – [punct](af-dep-punct.html) – [root](af-dep-root.html) – [xcomp](af-dep-xcomp.html)
+[advmod](af_afribooms-dep-advmod.html) – [amod](af_afribooms-dep-amod.html) – [appos](af_afribooms-dep-appos.html) – [aux](af_afribooms-dep-aux.html) – [aux:pass](af_afribooms-dep-aux-pass.html) – [case](af_afribooms-dep-case.html) – [cc](af_afribooms-dep-cc.html) – [ccomp](af_afribooms-dep-ccomp.html) – [compound:prt](af_afribooms-dep-compound-prt.html) – [conj](af_afribooms-dep-conj.html) – [cop](af_afribooms-dep-cop.html) – [csubj](af_afribooms-dep-csubj.html) – [dep](af_afribooms-dep-dep.html) – [det](af_afribooms-dep-det.html) – [flat](af_afribooms-dep-flat.html) – [iobj](af_afribooms-dep-iobj.html) – [mark](af_afribooms-dep-mark.html) – [nmod](af_afribooms-dep-nmod.html) – [nsubj](af_afribooms-dep-nsubj.html) – [nsubj:pass](af_afribooms-dep-nsubj-pass.html) – [nummod](af_afribooms-dep-nummod.html) – [obj](af_afribooms-dep-obj.html) – [obl](af_afribooms-dep-obl.html) – [punct](af_afribooms-dep-punct.html) – [root](af_afribooms-dep-root.html) – [xcomp](af_afribooms-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 1934 sentences and 49276 tokens.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 4514 tokens (9%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
-<li>This corpus contains 407 types of words that contain both letters and punctuation. Examples: 'n, Suid-Afrika, Suid-Afrikaanse, Suid-Afrikaners, Direkteur-generaal, 6-opgawe, top-prioriteite, werke-program, Mariene-, R-9, bv., finansiÃ«le, Afrika-Unie, Algemene-Onderwys-en-Opleidingsband, OKD-kantoor, Suider-Afrikaanse, Tale-leerareaverklaring, hoÃ«r, maatreÃ«ls, nie-seksistiese, rekreasie-invoerpermit, veeartseny-invoerpermit, weerspieÃ«l, Midde-Ooste, Regeringsdienste-webtuiste, SAID-kantoor, Wêreldbeker-sokkertoernooi, breÃ«, e-pos, leer-, makro-ekonomiese, metro's, nie-rassige, nÃ¡, onderwys-, -inligtingstelsel, -voorwaardes, 12-riglyne, 2004-verkiesing, 6-opgawes, Anglo-, Comore-eilande, DEA&T, Dienste-inligting, ID-nommer, IRP5-sertifikaat, Inter-Ministeriële, MIV-infeksies, Noord-Amerika, PDF-dokumente</li>
+</ul>
+
+<ul>
+<li>This corpus contains 407 types of words that contain both letters and punctuation. Examples: 'n, Suid-Afrika, Suid-Afrikaanse, Suid-Afrikaners, Direkteur-generaal, 6-opgawe, top-prioriteite, werke-program, Mariene-, R-9, bv., finansiÃ«le, Afrika-Unie, A​l​g​e​m​e​n​e​-​O​n​d​e​r​w​y​s​-​e​n​-​O​p​l​e​i​d​i​n​g​s​b​a​n​d, OKD-kantoor, Suider-Afrikaanse, T​a​l​e​-​l​e​e​r​a​r​e​a​v​e​r​k​l​a​r​i​n​g, hoÃ«r, maatreÃ«ls, nie-seksistiese, r​e​k​r​e​a​s​i​e​-​i​n​v​o​e​r​p​e​r​m​i​t, v​e​e​a​r​t​s​e​n​y​-​i​n​v​o​e​r​p​e​r​m​i​t, weerspieÃ«l, Midde-Ooste, R​e​g​e​r​i​n​g​s​d​i​e​n​s​t​e​-​w​e​b​t​u​i​s​t​e, SAID-kantoor, W​ê​r​e​l​d​b​e​k​e​r​-​s​o​k​k​e​r​t​o​e​r​n​o​o​i, breÃ«, e-pos, leer-, makro-ekonomiese, metro's, nie-rassige, nÃ¡, onderwys-, -inligtingstelsel, -voorwaardes, 12-riglyne, 2004-verkiesing, 6-opgawes, Anglo-, Comore-eilande, DEA&T, Dienste-inligting, ID-nommer, IRP5-sertifikaat, Inter-Ministeriële, MIV-infeksies, Noord-Amerika, PDF-dokumente</li>
+</ul>
+
+<ul>
 </ul>
 
 <h2>Morphology</h2>
@@ -86,6 +100,9 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
 <ul>
 <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: INTJ</li>
+</ul>
+
+<ul>
 <li>This corpus contains 5 word types tagged as particles (PART): Die, nie, s'n, se, te</li>
 </ul>
 
@@ -110,33 +127,43 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
 </ul>
 
 <ul>
-<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Fin
   <ul>
     <li>AUX: is, was, moes, sou, kon, geword, geraak, geblyk, gelyk, gewees</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Fin,Inf
   <ul>
     <li>AUX: word, is, sal, het, moet, kan, wees, wil, mag, behoort</li>
     <li>VERB: doen, maak, gebruik, het, verbeter, verseker, stel, betaal, verskaf, werk</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>VERB: gemaak, gedoen, gestel, uitgereik, geneem, geregistreer, ingedien, ingevul, gebaseer, ingevoer</li>
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
 
 
+
+
+
 <li><a>Number</a>
+
   <ul>
     <li>Plur
       <ul>
@@ -144,6 +171,9 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
         <li>PRON: ons, hulle, hul, onsself, julle, hulself</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>NOUN: jaar, regering, aansoek, inligting, land, departement, staat, toegang, webwerf, persoon</li>
@@ -152,20 +182,30 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Acc
       <ul>
         <li>PRON: jou, my, haar, hom</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Acc,Nom
       <ul>
         <li>PRON: ons, hulle, julle</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Nom
       <ul>
         <li>ADJ: ander, nasionale, Suid-Afrikaanse, openbare, maatskaplike, voorlopige, nuwe, plaaslike, ekonomiese, groot</li>
@@ -173,27 +213,40 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Definite</a>
+
   <ul>
     <li>Def
       <ul>
         <li>DET: die, de, dien</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>DET: 'n</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Degree and Polarity</h3>
 
+
 <li><a>Degree</a>
+
   <ul>
     <li>Cmp
       <ul>
@@ -201,17 +254,26 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
         <li>ADV: verder, beter, later, langer, vinniger, harder, minder, vroeër, sterker, armer</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dim
       <ul>
         <li>NOUN: koekies, knoppie, venstertjie, Korting-blokkie, Soekvenstertjie, deeltjie, koekie, treetjies, tydjie</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>ADJ: ander, nasionale, Suid-Afrikaanse, openbare, maatskaplike, voorlopige, nuwe, plaaslike, ekonomiese, groot</li>
         <li>ADV: nie, ook, in, saam, nog, uit, aan, egter, reeds, slegs</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sup
       <ul>
         <li>ADJ: naaste, beste, grootste, belangrikste, hoogste, enigste, ergste, meeste, doeltreffendste, jongste</li>
@@ -219,7 +281,12 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
 
 
 
@@ -227,7 +294,11 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
 
 
 
+
+
+
 <li><a>Tense</a>
+
   <ul>
     <li>Past
       <ul>
@@ -235,6 +306,9 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
         <li>VERB-Part: gemaak, gedoen, gestel, uitgereik, geneem, geregistreer, ingedien, ingevul, gebaseer, ingevoer</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pres
       <ul>
         <li>AUX-Fin,Inf: word, is, sal, het, moet, kan, wees, wil, mag, behoort</li>
@@ -242,55 +316,85 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
 
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Art
       <ul>
         <li>DET: die, 'n, de, dien</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dem
       <ul>
         <li>DET: hierdie, daardie, dié, sodanige, sulke, daar, diÃ©, sodanig</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>DET: alle, meer, al, baie, paar, sommige, laaste, soveel, talle, min</li>
         <li>PRON: enige, daar, almal, elke, diegene, alles, ander, iemand, elk, enigiemand</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Int
       <ul>
         <li>PRON: hoe, wat, Wie, Watter, Hoekom, Waar, Waarom, Wanneer, waaroor</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
         <li>PRON: ons, dit, jy, hulle, jou, ek, sy, hul, hy, my</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rcp
       <ul>
         <li>PRON: mekaar</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rel
       <ul>
         <li>PRON: wat, wanneer, waar, daarvan, watter, hoe, waarop, daartoe, wie, waarin</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Poss</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -298,9 +402,13 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Reflex</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -308,32 +416,49 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Person</a>
+
   <ul>
     <li>1
       <ul>
         <li>PRON: ons, ek, my, onsself, myself</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>PRON: jy, jou, u, julle, jouself</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>PRON: dit, hulle, sy, hul, hy, haar, self, hom, haarself, homself</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
 
 
+
+
+
 <h3>Other Features</h3>
+
 
 <li><a>AdjType</a>
   <ul>
@@ -349,6 +474,7 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
     </li>
   </ul>
 </li>
+
 <li><a>AdpType</a>
   <ul>
     <li>Prep
@@ -358,6 +484,7 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
     </li>
   </ul>
 </li>
+
 <li><a>PartType</a>
   <ul>
     <li>Gen
@@ -377,6 +504,7 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
     </li>
   </ul>
 </li>
+
 <li><a>Subcat</a>
   <ul>
     <li>Intr
@@ -398,6 +526,7 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
     </li>
   </ul>
 </li>
+
 <li><a>VerbType</a>
   <ul>
     <li>Aux
@@ -431,9 +560,12 @@ The new conversion has been performed by Peter Dirix and Liesbeth Augustinus at 
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 34 lemmas as copulas (<a>cop</a>). Examples: is wees word bly raak behulpsaam voel bewus blyk lyk aanspreeklik afdwingbaar bang beloop beskik beskikbaar betrek bykomend byster duidelik gelyklopend gepaardgaan ly nodig onseker onvas oorkoepel oud pas teenwoordig tevrede trots verifieerbaar verskuldig.</li>
-<li>This corpus uses 43 lemmas as auxiliaries (<a>aux</a>). Examples: sal het moet kan wil mag behoort laat gaan hoef kom bly bystaan hê probeer aanhou baseer begin bereik besluit beteken bewerkstellig bring daal dan deelneem doen gebruik instel leer lei moenie neem registreer talm toets verbeter verkry verskaf verskil voorkom voortspruit werk.</li>
-<li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: word is wees.</li>
+<li>This corpus uses 34 lemmas as copulas (<a>cop</a>). Examples: is, wees, word, bly, raak, behulpsaam, voel, bewus, blyk, lyk, aanspreeklik, afdwingbaar, bang, beloop, beskik, beskikbaar, betrek, bykomend, byster, duidelik, gelyklopend, gepaardgaan, ly, nodig, onseker, onvas, oorkoepel, oud, pas, teenwoordig, tevrede, trots, verifieerbaar, verskuldig.</li>
+</ul>
+
+<ul>
+<li>This corpus uses 43 lemmas as auxiliaries (<a>aux</a>). Examples: sal, het, moet, kan, wil, mag, behoort, laat, gaan, hoef, kom, bly, bystaan, hê, probeer, aanhou, baseer, begin, bereik, besluit, beteken, bewerkstellig, bring, daal, dan, deelneem, doen, gebruik, instel, leer, lei, moenie, neem, registreer, talm, toets, verbeter, verkry, verskaf, verskil, voorkom, voortspruit, werk.</li>
+<li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: word, is, wees.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -453,13 +585,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin,Inf--PRON-ADP(van) (4)</li>
       <li>VERB-Fin,Inf--PRON-Acc (2)</li>
       <li>VERB-Fin,Inf--PRON-Acc,Nom (437)</li>
-      <li>VERB-Fin,Inf--PRON-Nom (348)</li>
+      <li>VERB-Fin,Inf--PRON-Nom (347)</li>
       <li>VERB-Part--NOUN (134)</li>
-      <li>VERB-Part--PRON (168)</li>
+      <li>VERB-Part--PRON (167)</li>
       <li>VERB-Part--PRON-ADP(oor) (1)</li>
       <li>VERB-Part--PRON-ADP(van) (1)</li>
       <li>VERB-Part--PRON-Acc,Nom (76)</li>
-      <li>VERB-Part--PRON-Nom (41)</li>
+      <li>VERB-Part--PRON-Nom (42)</li>
     </ul>
   </li>
 </ul>
@@ -467,7 +599,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin,Inf--NOUN (1927)</li>
+      <li>VERB-Fin,Inf--NOUN (1928)</li>
       <li>VERB-Fin,Inf--PRON (37)</li>
       <li>VERB-Fin,Inf--PRON-Acc (13)</li>
       <li>VERB-Fin,Inf--PRON-Acc,Nom (51)</li>
@@ -494,7 +626,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 13 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: afvra onsself verbind onsself druk ons flous onsself herverbind hulle herverbind onsself onderhou homself skaar ons sluit hulle stel ons toewy myself verbind hom verbind ons</li>
+  <li>This corpus contains 13 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: afvra onsself, verbind onsself, druk ons, flous onsself, herverbind hulle, herverbind onsself, onderhou homself, skaar ons, sluit hulle, stel ons, toewy myself, verbind hom, verbind ons</li>
+    <ul>
+      <li>Out of those, 1 lemmas occurred more than once, but never without a reflexive dependent. Examples: afvra</li>
+    </ul>
 </ul>
 
 <h3>Relations Overview</h3>

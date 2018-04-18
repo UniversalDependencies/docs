@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_English'
+title:  'UD_English-EWT'
 udver: '2'
 ---
 
@@ -9,16 +9,17 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD English
+# UD English EWT
 
 Language: [English](../en/overview/en-hub.html) (code: `en`)<br/>
 Family: Indo-European, Germanic
 
 This treebank has been part of Universal Dependencies since the UD v1.0 release.
 
-The following people have contributed to making this treebank part of UD: Natalia Silveira, Timothy Dozat, Christopher Manning, Sebastian Schuster, John Bauer, Miriam Connor, Marie-Catherine de Marneffe, Sam Bowman, Hanzhi Zhu, Daniel Galbraith.
+The following people have contributed to making this treebank part of UD: Natalia Silveira, Timothy Dozat, Christopher Manning, Sebastian Schuster, John Bauer, Miriam Connor, Marie-Catherine de Marneffe, Nathan Schneider, Sam Bowman, Hanzhi Zhu, Daniel Galbraith.
 
-Repository: [UD_English](https://github.com/UniversalDependencies/UD_English)
+Repository: [UD_English-EWT](https://github.com/UniversalDependencies/UD_English-EWT)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_ewt)
 
 License: CC BY-SA 4.0
 
@@ -26,7 +27,7 @@ Genre: blog, social, reviews, email
 
 Questions, comments?
 General annotation questions (either English-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_English/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_English-EWT/issues).
 If you want to collaborate, please contact [syntacticdependencies&nbsp;(æt)&nbsp;lists&nbsp;•&nbsp;stanford&nbsp;•&nbsp;edu].
 Development of the treebank happens in the UD repository but not directly in the final CoNLL-U files.
 You may submit bug fixes as pull requests against the dev branch but you have to go to the folder called `not-to-release` and locate the source files there.
@@ -53,9 +54,9 @@ The corpus comprises 254,830 words and 16,622 sentences, taken from five genres
 of web media: weblogs, newsgroups, emails, reviews, and Yahoo! answers. See the
 LDC2012T13 documentation for more details on the sources of the sentences. The
 trees were automatically converted into Stanford Dependencies and then
-hand-corrected to Universal Dependencies. All the dependency annotations have been single-annotated, a limited portion of them have been double-annotated,
+hand-corrected to Universal Dependencies. All the basic dependency annotations have been single-annotated, a limited portion of them have been double-annotated,
 and subsequent correction has been done to improve consistency. Other aspects
-of the treebank, such as Universal POS and features, has mainly been done
+of the treebank, such as Universal POS, features and enhanced dependencies, has mainly been done
 automatically, with very limited hand-correction.
 
 ## Acknowledgments
@@ -68,6 +69,7 @@ Annotation of the Universal Dependencies English Web Treebank was carried out by
 - Sebastian Schuster
 - Miriam Connor
 - Marie-Catherine de Marneffe
+- Nathan Schneider
 - Samuel Bowman
 - Hanzhi Zhu
 - Daniel Galbraith
@@ -85,27 +87,40 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 
 
 
-# Statistics of UD English
+# Statistics of UD English EWT
 
 ## POS Tags
 
-[ADJ](en-pos-ADJ.html) – [ADP](en-pos-ADP.html) – [ADV](en-pos-ADV.html) – [AUX](en-pos-AUX.html) – [CCONJ](en-pos-CCONJ.html) – [DET](en-pos-DET.html) – [INTJ](en-pos-INTJ.html) – [NOUN](en-pos-NOUN.html) – [NUM](en-pos-NUM.html) – [PART](en-pos-PART.html) – [PRON](en-pos-PRON.html) – [PROPN](en-pos-PROPN.html) – [PUNCT](en-pos-PUNCT.html) – [SCONJ](en-pos-SCONJ.html) – [SYM](en-pos-SYM.html) – [VERB](en-pos-VERB.html) – [X](en-pos-X.html)
+[ADJ](en_ewt-pos-ADJ.html) – [ADP](en_ewt-pos-ADP.html) – [ADV](en_ewt-pos-ADV.html) – [AUX](en_ewt-pos-AUX.html) – [CCONJ](en_ewt-pos-CCONJ.html) – [DET](en_ewt-pos-DET.html) – [INTJ](en_ewt-pos-INTJ.html) – [NOUN](en_ewt-pos-NOUN.html) – [NUM](en_ewt-pos-NUM.html) – [PART](en_ewt-pos-PART.html) – [PRON](en_ewt-pos-PRON.html) – [PROPN](en_ewt-pos-PROPN.html) – [PUNCT](en_ewt-pos-PUNCT.html) – [SCONJ](en_ewt-pos-SCONJ.html) – [SYM](en_ewt-pos-SYM.html) – [VERB](en_ewt-pos-VERB.html) – [X](en_ewt-pos-X.html)
 
 ## Features
 
-[Case](en-feat-Case.html) – [Definite](en-feat-Definite.html) – [Degree](en-feat-Degree.html) – [Foreign](en-feat-Foreign.html) – [Gender](en-feat-Gender.html) – [Mood](en-feat-Mood.html) – [Number](en-feat-Number.html) – [NumType](en-feat-NumType.html) – [Person](en-feat-Person.html) – [Poss](en-feat-Poss.html) – [PronType](en-feat-PronType.html) – [Reflex](en-feat-Reflex.html) – [Tense](en-feat-Tense.html) – [VerbForm](en-feat-VerbForm.html) – [Voice](en-feat-Voice.html)
+[Abbr](en_ewt-feat-Abbr.html) – [Case](en_ewt-feat-Case.html) – [Definite](en_ewt-feat-Definite.html) – [Degree](en_ewt-feat-Degree.html) – [Foreign](en_ewt-feat-Foreign.html) – [Gender](en_ewt-feat-Gender.html) – [Mood](en_ewt-feat-Mood.html) – [Number](en_ewt-feat-Number.html) – [NumType](en_ewt-feat-NumType.html) – [Person](en_ewt-feat-Person.html) – [Poss](en_ewt-feat-Poss.html) – [PronType](en_ewt-feat-PronType.html) – [Reflex](en_ewt-feat-Reflex.html) – [Tense](en_ewt-feat-Tense.html) – [Typo](en_ewt-feat-Typo.html) – [VerbForm](en_ewt-feat-VerbForm.html) – [Voice](en_ewt-feat-Voice.html)
 
 ## Relations
 
-[_](en-dep-_.html) – [acl](en-dep-acl.html) – [acl:relcl](en-dep-acl-relcl.html) – [advcl](en-dep-advcl.html) – [advmod](en-dep-advmod.html) – [amod](en-dep-amod.html) – [appos](en-dep-appos.html) – [aux](en-dep-aux.html) – [aux:pass](en-dep-aux-pass.html) – [case](en-dep-case.html) – [cc](en-dep-cc.html) – [cc:preconj](en-dep-cc-preconj.html) – [ccomp](en-dep-ccomp.html) – [compound](en-dep-compound.html) – [compound:prt](en-dep-compound-prt.html) – [conj](en-dep-conj.html) – [cop](en-dep-cop.html) – [csubj](en-dep-csubj.html) – [csubj:pass](en-dep-csubj-pass.html) – [dep](en-dep-dep.html) – [det](en-dep-det.html) – [det:predet](en-dep-det-predet.html) – [discourse](en-dep-discourse.html) – [dislocated](en-dep-dislocated.html) – [expl](en-dep-expl.html) – [fixed](en-dep-fixed.html) – [flat](en-dep-flat.html) – [flat:foreign](en-dep-flat-foreign.html) – [goeswith](en-dep-goeswith.html) – [iobj](en-dep-iobj.html) – [list](en-dep-list.html) – [mark](en-dep-mark.html) – [nmod](en-dep-nmod.html) – [nmod:npmod](en-dep-nmod-npmod.html) – [nmod:poss](en-dep-nmod-poss.html) – [nmod:tmod](en-dep-nmod-tmod.html) – [nsubj](en-dep-nsubj.html) – [nsubj:pass](en-dep-nsubj-pass.html) – [nummod](en-dep-nummod.html) – [obj](en-dep-obj.html) – [obl](en-dep-obl.html) – [obl:npmod](en-dep-obl-npmod.html) – [obl:tmod](en-dep-obl-tmod.html) – [orphan](en-dep-orphan.html) – [parataxis](en-dep-parataxis.html) – [punct](en-dep-punct.html) – [reparandum](en-dep-reparandum.html) – [root](en-dep-root.html) – [vocative](en-dep-vocative.html) – [xcomp](en-dep-xcomp.html)
+[acl](en_ewt-dep-acl.html) – [acl:relcl](en_ewt-dep-acl-relcl.html) – [advcl](en_ewt-dep-advcl.html) – [advmod](en_ewt-dep-advmod.html) – [amod](en_ewt-dep-amod.html) – [appos](en_ewt-dep-appos.html) – [aux](en_ewt-dep-aux.html) – [aux:pass](en_ewt-dep-aux-pass.html) – [case](en_ewt-dep-case.html) – [cc](en_ewt-dep-cc.html) – [cc:preconj](en_ewt-dep-cc-preconj.html) – [ccomp](en_ewt-dep-ccomp.html) – [compound](en_ewt-dep-compound.html) – [compound:prt](en_ewt-dep-compound-prt.html) – [conj](en_ewt-dep-conj.html) – [cop](en_ewt-dep-cop.html) – [csubj](en_ewt-dep-csubj.html) – [csubj:pass](en_ewt-dep-csubj-pass.html) – [dep](en_ewt-dep-dep.html) – [det](en_ewt-dep-det.html) – [det:predet](en_ewt-dep-det-predet.html) – [discourse](en_ewt-dep-discourse.html) – [dislocated](en_ewt-dep-dislocated.html) – [expl](en_ewt-dep-expl.html) – [fixed](en_ewt-dep-fixed.html) – [flat](en_ewt-dep-flat.html) – [flat:foreign](en_ewt-dep-flat-foreign.html) – [goeswith](en_ewt-dep-goeswith.html) – [iobj](en_ewt-dep-iobj.html) – [list](en_ewt-dep-list.html) – [mark](en_ewt-dep-mark.html) – [nmod](en_ewt-dep-nmod.html) – [nmod:npmod](en_ewt-dep-nmod-npmod.html) – [nmod:poss](en_ewt-dep-nmod-poss.html) – [nmod:tmod](en_ewt-dep-nmod-tmod.html) – [nsubj](en_ewt-dep-nsubj.html) – [nsubj:pass](en_ewt-dep-nsubj-pass.html) – [nummod](en_ewt-dep-nummod.html) – [obj](en_ewt-dep-obj.html) – [obl](en_ewt-dep-obl.html) – [obl:npmod](en_ewt-dep-obl-npmod.html) – [obl:tmod](en_ewt-dep-obl-tmod.html) – [orphan](en_ewt-dep-orphan.html) – [parataxis](en_ewt-dep-parataxis.html) – [punct](en_ewt-dep-punct.html) – [reparandum](en_ewt-dep-reparandum.html) – [root](en_ewt-dep-root.html) – [vocative](en_ewt-dep-vocative.html) – [xcomp](en_ewt-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
-<li>This corpus contains 16622 sentences and 254854 tokens.</li>
+<li>This corpus contains 16622 sentences and 254829 tokens.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 34370 tokens (13%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
-<li>This corpus contains 924 types of words that contain both letters and punctuation. Examples: 's, n't, 'm, 'll, 've, 're, 'd, Dr., e-mail, Mr., ’s, U.S., st., Inc., etc., Sept., vs., W., .doc, carol.st.clair@enron.com, it's, 01-Feb-02, n’t, Dec., Ft., Oct., alt.animals.cat, p&l, :D, Corp., Ms., No., Non-Bondad, PG&E, S., Yahoo!, i.e., A., Analysis_0712, D.C., E., ENRON.XLS, MEH-risk, Sha'lan, b/c, co., ekrapels@esaibos.com, enrongss.xls, p.m., 80's</li>
+</ul>
+
+<ul>
+<li>This corpus contains 924 types of words that contain both letters and punctuation. Examples: 's, n't, 'm, 'll, 've, 're, 'd, Dr., e-mail, Mr., ’s, U.S., st., Inc., etc., Sept., vs., W., .doc, c​a​r​o​l​.​s​t​.​c​l​a​i​r​@​e​n​r​o​n​.​c​o​m, it's, 01-Feb-02, n’t, Dec., Ft., Oct., alt.animals.cat, p&l, :D, Corp., Ms., No., Non-Bondad, PG&E, S., Yahoo!, i.e., A., Analysis_0712, D.C., E., ENRON.XLS, MEH-risk, Sha'lan, b/c, co., ekrapels@esaibos.com, enrongss.xls, p.m., 80's</li>
+</ul>
+
+<ul>
 </ul>
 
 <h2>Morphology</h2>
@@ -114,31 +129,36 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
 
 <ul>
 <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
+</ul>
+
+<ul>
 <li>This corpus contains 21 word types tagged as particles (PART): ', 's, -s, 2, `s, a, n, n't, na, not, nt, n’t, ot, s, t, ta, the, to, too, ’, ’s</li>
 </ul>
 
 <ul>
-<li>This corpus contains 82 lemmas tagged as pronouns (PRON): 'em, 's, anybody, anyone, anything, em, ever, everybody, everyone, everything, he, hers, herself, himself, i, is, it, it's, its, itself, mine, mines, my, myself, nobody, nothing, one, ours, ourselves, out, s, self, she, somebody, someone, something, that, the, thei, their, theirs, themselves, then, there, these, they, they're, theyy, thier, this, those, thou, thy, ti, u, ur, us, use, waht, we, what, whatever, which, who, who's, whoever, whom, whomever, whoooooo, whose, wht, wtf, ya, ya'll, ye, yo, you, you're, your, yours, yourself, yourselves</li>
+<li>This corpus contains 81 lemmas tagged as pronouns (PRON): 'em, 's, anybody, anyone, anything, em, ever, everybody, everyone, everything, he, hers, herself, himself, i, is, it, it's, its, itself, mine, mines, my, myself, nobody, nothing, one, our, ours, ourselves, s, self, she, somebody, someone, something, that, the, thei, their, theirs, themselves, then, there, these, they, they're, theyy, thier, this, those, thou, thy, ti, u, ur, us, use, waht, we, what, whatever, which, who, who's, whoever, whom, whomever, whoooooo, whose, wtf, ya, ya'll, ye, yo, you, you're, your, yours, yourself, yourselves</li>
 </ul>
 
 <ul>
-<li>This corpus contains 37 lemmas tagged as determiners (DET): a, aa, all, and, another, any, both, da, dat, dthat, each, either, every, half, he, many, neither, no, quite, sm, some, ssome, such, te, teh, that, the, then, ther, these, thi$, this, those, what, whatever, whhich, which</li>
+<li>This corpus contains 23 lemmas tagged as determiners (DET): a, all, another, any, both, each, either, every, half, many, neither, no, quite, some, such, that, the, these, this, those, what, whatever, which</li>
 </ul>
 
 <ul>
-<li>Out of the above, 10 lemmas occurred sometimes as PRON and sometimes as DET: he, that, the, then, these, this, those, what, whatever, which</li>
+<li>Out of the above, 8 lemmas occurred sometimes as PRON and sometimes as DET: that, the, these, this, those, what, whatever, which</li>
 </ul>
 
 <ul>
-<li>This corpus contains 37 lemmas tagged as auxiliaries (AUX): ', 'd, -ll, `s, a, ar, art, as, b, be, can, cold, could, do, get, hav, have, hvae, made, may, might, most, must, my, of, ought, shal, shall, should, wase, wil, will, willl, with, woud, would, wud</li>
+<li>This corpus contains 14 lemmas tagged as auxiliaries (AUX): be, can, could, do, get, have, may, might, must, ought, shall, should, will, would</li>
 </ul>
 
 <ul>
-<li>Out of the above, 7 lemmas occurred sometimes as AUX and sometimes as VERB: ar, be, can, do, get, hav, have</li>
+<li>Out of the above, 5 lemmas occurred sometimes as AUX and sometimes as VERB: be, can, do, get, have</li>
 </ul>
 
 <ul>
-<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Fin
   <ul>
@@ -146,52 +166,72 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
     <li>VERB: have, is, had, said, has, are, want, need, let, think</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Ger
   <ul>
     <li>AUX: being, having, getting</li>
     <li>VERB: going, getting, looking, following, including, taking, having, using, doing, regarding</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Inf
   <ul>
     <li>AUX: be, have, do, get, of, am, 've, are, b</li>
     <li>VERB: have, get, know, do, go, make, take, see, like, find</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>AUX: been</li>
-    <li>VERB: going, had, attached, done, made, used, called, based, doing, looking</li>
+    <li>VERB: going, had, attached, done, made, used, based, called, doing, looking</li>
   </ul>
   </li>
-</ul>
-</li>
 </ul>
 
 <h3>Nominal Features</h3>
 
+
 <li><a>Gender</a>
+
   <ul>
     <li>Fem
       <ul>
         <li>PRON: she, her, herself</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>PRON: he, his, him, himself</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neut
       <ul>
         <li>PRON: it, its, itself</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Number</a>
+
   <ul>
     <li>Plur
       <ul>
@@ -202,13 +242,15 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
         <li>VERB: associates, rays</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: Global, Pakistani, criminal, female, middle</li>
-        <li>ADP: auto</li>
         <li>ADV: best</li>
         <li>AUX-Fin: is, was, has, 's, am, does, s, ’s, `s, ai</li>
-        <li>DET: this, that, A</li>
+        <li>DET: this, that</li>
         <li>INTJ: appetit</li>
         <li>NOUN: time, service, place, thanks, food, way, year, day, number, pm</li>
         <li>NUM: 9/11</li>
@@ -221,25 +263,37 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Acc
       <ul>
         <li>PRON: me, it, you, them, him, us, her, yourself, myself, themselves</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Nom
       <ul>
         <li>PRON: i, you, it, they, we, he, she</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Definite</a>
+
   <ul>
     <li>Def
       <ul>
@@ -247,17 +301,25 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
         <li>PRON: The</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>DET: a, an</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Degree and Polarity</h3>
 
+
 <li><a>Degree</a>
+
   <ul>
     <li>Cmp
       <ul>
@@ -265,6 +327,9 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
         <li>ADV: later, better, longer, less, earlier, sooner, further, closer, higher, faster</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>ADJ: good, great, other, new, many, last, same, few, sure, little</li>
@@ -274,6 +339,9 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
         <li>PROPN: Central, Modern, english</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sup
       <ul>
         <li>ADJ: best, most, worst, cheapest, largest, latest, easiest, highest, oldest, biggest</li>
@@ -281,51 +349,73 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
 
 
 
 <h3>Verbal Features</h3>
 
 
+
+
 <li><a>Mood</a>
+
   <ul>
     <li>Imp
       <ul>
         <li>AUX-Fin: do, be, get</li>
-        <li>VERB-Fin: let, go, see, take, try, get, make, give, call, keep</li>
+        <li>VERB-Fin: let, go, see, take, try, get, make, give, call, put</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
-        <li>AUX-Fin: is, was, are, have, do, has, were, 's, am, 'm</li>
+        <li>AUX-Fin: is, was, are, do, have, has, were, 's, am, 'm</li>
         <li>VERB-Fin: have, is, had, said, has, are, want, need, know, think</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Tense</a>
+
   <ul>
     <li>Past
       <ul>
         <li>AUX-Fin: was, were, did, had, got, 'd, wase</li>
         <li>AUX-Part: been</li>
-        <li>VERB-Fin: had, said, was, got, took, did, came, went, told, called</li>
-        <li>VERB-Part: had, attached, done, made, used, called, based, given, seen, sent</li>
+        <li>VERB-Fin: had, said, was, got, took, came, went, did, told, called</li>
+        <li>VERB-Part: had, attached, done, made, used, based, called, given, seen, sent</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pres
       <ul>
-        <li>AUX-Fin: is, are, have, do, has, 's, am, 'm, does, 've</li>
+        <li>AUX-Fin: is, are, do, have, has, 's, am, 'm, does, 've</li>
         <li>VERB-Fin: have, is, has, are, want, need, know, think, thank, get</li>
         <li>VERB-Part: going, doing, looking, working, trying, getting, having, coming, making, planning</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Voice</a>
+
   <ul>
     <li>Pass
       <ul>
@@ -333,12 +423,18 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Art
       <ul>
@@ -346,6 +442,9 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
         <li>PRON: The</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dem
       <ul>
         <li>ADV: there, then, here, that</li>
@@ -353,6 +452,9 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
         <li>PRON: this, that, those, these</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Int
       <ul>
         <li>ADV: when, how, why, where, whenever, ever, wherever, however, were, y</li>
@@ -360,11 +462,17 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
         <li>PRON: what, which, who, whom, whatever, whose, who's, Wtf, ever, waht</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
         <li>PRON: i, you, it, they, my, we, he, your, me, their</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rel
       <ul>
         <li>ADV: where, that, when, why, how, were, wherein</li>
@@ -373,20 +481,30 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>NumType</a>
+
   <ul>
     <li>Card
       <ul>
         <li>NUM: one, two, 2, 3, 5, 1, 10, 4, three, 20</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Mult
       <ul>
         <li>ADV: once, twice</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ord
       <ul>
         <li>ADJ: first, second, third, 5th, fourth, 19th, 2nd, 1st, 20th, 21st</li>
@@ -394,19 +512,27 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Poss</a>
+
   <ul>
     <li>Yes
       <ul>
-        <li>PRON: my, your, their, his, our, its, her, whose, Theirs, you</li>
+        <li>PRON: my, your, their, his, our, its, her, whose, out, ur</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
   </ul>
 </li>
 
 <li><a>Reflex</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -414,9 +540,13 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Person</a>
+
   <ul>
     <li>1
       <ul>
@@ -425,11 +555,17 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
         <li>VERB-Fin: was, am</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
-        <li>PRON: you, your, yourself, yourselves</li>
+        <li>PRON: you, your, yourself, ur, yourselves</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>AUX-Fin: is, was, has, 's, does, s, ’s, `s, ai, gets</li>
@@ -438,12 +574,43 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
 
 
+
+
+
 <h3>Other Features</h3>
+
+
+<li><a>Abbr</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADP: o, thru, w, ta, vs, f, b/c, w/, 2, 4</li>
+        <li>ADV: aka</li>
+        <li>AUX-Fin: shal, wud</li>
+        <li>AUX-Inf: b</li>
+        <li>CCONJ: n, 'n, VS</li>
+        <li>DET: da, dat, sm</li>
+        <li>INTJ: wel</li>
+        <li>NOUN: b, c, r., syd, yrs</li>
+        <li>PART: na, ta, 2, a</li>
+        <li>PRON: ur, any1, wht</li>
+        <li>SCONJ: b/c, 4, bc, cos, coz, cus, ig, w/out</li>
+        <li>VERB-Fin: wan, ar, hav</li>
+        <li>VERB-Ger: playin</li>
+        <li>VERB-Inf: hav, wan</li>
+        <li>VERB-Part: gon</li>
+      </ul>
+    </li>
+  </ul>
+</li>
 
 <li><a>Foreign</a>
   <ul>
@@ -455,13 +622,40 @@ partially funded by a gift from Google, Inc., which we gratefully acknowledge.
   </ul>
 </li>
 
+<li><a>Typo</a>
+  <ul>
+    <li>Yes
+      <ul>
+        <li>ADJ: accomdating, hid, particlular, wierd</li>
+        <li>ADP: then, a, and, of, aboout, abou, admidst, aground, amoung, becuse</li>
+        <li>ADV: to, a, that, their</li>
+        <li>AUX-Fin: woud, a, ar, as, cold, hav, hvae, made, most, my</li>
+        <li>CCONJ: an, adn, a, ad=nd, amd, ans, at, of</li>
+        <li>DET: and, teh, aa, dthat, he, ssome, te, then, ther, whhich</li>
+        <li>NOUN: catagory, Unlce, appartment, begiinning, cge, eneedle, hlep, ocnversation, oone, peiod</li>
+        <li>PART: too, ot</li>
+        <li>PRON: out, you</li>
+        <li>PROPN: Thanksgiv8ing</li>
+        <li>SCONJ: becuse, wether, I'd, Seince, Whie, altough, ask, beacuse, becouse, then</li>
+        <li>VERB-Fin: fixeded, preceded, reffered</li>
+        <li>VERB-Ger: drive</li>
+        <li>VERB-Inf: accomodate, bare, critisize, endevour, hlep, reccommend</li>
+        <li>VERB-Part: botn, excepted</li>
+      </ul>
+    </li>
+  </ul>
+</li>
+
 <h2>Syntax</h2>
 
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 4 lemmas as copulas (<a>cop</a>). Examples: be, `s, ', b.</li>
-<li>This corpus uses 37 lemmas as auxiliaries (<a>aux</a>). Examples: have, be, will, do, can, would, could, should, may, might, must, shall, get, better, of, woud, 'd, -ll, `s, a, ar, art, as, cold, hav, hvae, made, most, my, se, shal, to, wase, wil, willl, with, wud.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: be.</li>
+</ul>
+
+<ul>
+<li>This corpus uses 16 lemmas as auxiliaries (<a>aux</a>). Examples: have, be, will, do, can, would, could, should, may, might, must, shall, get, better, se, to.</li>
 <li>This corpus uses 5 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: be, get, become, have, would.</li>
 </ul>
 
@@ -471,22 +665,22 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1999)</li>
-      <li>VERB-Fin--PRON (791)</li>
+      <li>VERB-Fin--NOUN (1998)</li>
+      <li>VERB-Fin--PRON (794)</li>
       <li>VERB-Fin--PRON-Acc (3)</li>
-      <li>VERB-Fin--PRON-Nom (4760)</li>
+      <li>VERB-Fin--PRON-Nom (4746)</li>
       <li>VERB-Ger--NOUN (85)</li>
       <li>VERB-Ger--PRON (23)</li>
       <li>VERB-Ger--PRON-Acc (7)</li>
-      <li>VERB-Ger--PRON-Nom (189)</li>
-      <li>VERB-Inf--NOUN (657)</li>
+      <li>VERB-Ger--PRON-Nom (186)</li>
+      <li>VERB-Inf--NOUN (658)</li>
       <li>VERB-Inf--PRON (293)</li>
       <li>VERB-Inf--PRON-Acc (37)</li>
-      <li>VERB-Inf--PRON-Nom (2612)</li>
+      <li>VERB-Inf--PRON-Nom (2611)</li>
       <li>VERB-Part--NOUN (458)</li>
-      <li>VERB-Part--PRON (145)</li>
+      <li>VERB-Part--PRON (144)</li>
       <li>VERB-Part--PRON-Acc (4)</li>
-      <li>VERB-Part--PRON-Nom (1263)</li>
+      <li>VERB-Part--PRON-Nom (1266)</li>
     </ul>
   </li>
 </ul>
@@ -495,19 +689,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB-Fin--NOUN (3499)</li>
-      <li>VERB-Fin--NOUN-ADP(s) (1)</li>
-      <li>VERB-Fin--PRON (347)</li>
-      <li>VERB-Fin--PRON-Acc (865)</li>
+      <li>VERB-Fin--NOUN-ADP('s) (1)</li>
+      <li>VERB-Fin--PRON (340)</li>
+      <li>VERB-Fin--PRON-Acc (870)</li>
       <li>VERB-Fin--PRON-Nom (63)</li>
-      <li>VERB-Ger--NOUN (1041)</li>
+      <li>VERB-Ger--NOUN (1042)</li>
       <li>VERB-Ger--PRON (47)</li>
       <li>VERB-Ger--PRON-Acc (118)</li>
       <li>VERB-Ger--PRON-Nom (10)</li>
-      <li>VERB-Inf--NOUN (3195)</li>
+      <li>VERB-Inf--NOUN (3197)</li>
       <li>VERB-Inf--NOUN-ADP('s) (1)</li>
       <li>VERB-Inf--NOUN-ADP(of) (1)</li>
-      <li>VERB-Inf--PRON (328)</li>
-      <li>VERB-Inf--PRON-Acc (787)</li>
+      <li>VERB-Inf--PRON (326)</li>
+      <li>VERB-Inf--PRON-Acc (789)</li>
       <li>VERB-Inf--PRON-Nom (88)</li>
       <li>VERB-Part--NOUN (770)</li>
       <li>VERB-Part--PRON (123)</li>
@@ -522,7 +716,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN (17)</li>
       <li>VERB-Fin--PRON (4)</li>
-      <li>VERB-Fin--PRON-Acc (171)</li>
+      <li>VERB-Fin--PRON-Acc (173)</li>
       <li>VERB-Fin--PRON-Nom (5)</li>
       <li>VERB-Ger--NOUN (9)</li>
       <li>VERB-Ger--PRON-Acc (24)</li>
@@ -542,7 +736,10 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 58 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: find yourself, save yourself, ask yourself, blow himself, burn itself, consider themselves, describe themselves, do yourself, feel yourself, give yourself, protect ourselves, work themselves, absent himself, absent yourself, adapt itself, ally itself, avail myself, blow herself, bunker themselves, call himself, cloak himself, commit ourselves, compose himself, contradict themselves, embarrass himself, enjoy myself, enjoy yourself, explode himself, explode yourself, find himself, find themselves, get myself, hurt themselves, imagine yourself, introduce herself, introduce myself, keep himself, keep myself, kill themselves, land herself, leave yourself, make yourself, manifest itself, misrepresent themselves, organize themselves, picture yourself, present yourself, pride themselves, prove himself, put yourself</li>
+  <li>This corpus contains 58 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: find yourself, save yourself, ask yourself, blow himself, burn itself, consider themselves, describe themselves, do yourself, feel yourself, give yourself, protect ourselves, work themselves, absent himself, absent yourself, adapt itself, ally itself, avail myself, blow herself, bunker themselves, call himself, cloak himself, commit ourselves, compose himself, c​o​n​t​r​a​d​i​c​t​ ​t​h​e​m​s​e​l​v​e​s, embarrass himself, enjoy myself, enjoy yourself, explode himself, explode yourself, find himself, find themselves, get myself, hurt themselves, imagine yourself, introduce herself, introduce myself, keep himself, keep myself, kill themselves, land herself, leave yourself, make yourself, manifest itself, m​i​s​r​e​p​r​e​s​e​n​t​ ​t​h​e​m​s​e​l​v​e​s, organize themselves, picture yourself, present yourself, pride themselves, prove himself, put yourself</li>
+    <ul>
+      <li>Out of those, 1 lemmas occurred more than once, but never without a reflexive dependent. Examples: absent</li>
+    </ul>
 </ul>
 
 <h3>Relations Overview</h3>

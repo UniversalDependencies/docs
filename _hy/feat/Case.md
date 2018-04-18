@@ -18,7 +18,7 @@ udver: '2'
 </table>
 
 Case is an inflectional feature of [nouns](NOUN) and
-[pronouns](PRON). It is also valency feature of [adpositions](ADP) (saying that
+[pronouns](PRON). It is also inflectional feature of some [adpositions](ADP) (ant not valency feature saying that
 the adposition requires its argument to be in that case).
 
 Case helps to specify the role of the noun phrase in the sentence.
@@ -59,7 +59,7 @@ In Armenian this is the word form used for subjects of clauses, for direct objec
 In many languages prototypical meaning of genitive is that the noun phrase somehow
 belongs to its governor.
 
-We not recognizing the genitive except for possessive personal, some demonstrative pronouns and _իր&nbsp;_ “one’s own”.
+We not recognizing the genitive except for possessive personal, some demonstrative pronouns/determiners and _իր&nbsp;_ “one’s own”.
 
 ### <a name="Dat">`Dat`</a>: dative
 

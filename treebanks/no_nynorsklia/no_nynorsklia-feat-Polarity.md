@@ -12,16 +12,16 @@ It occurs with 1 different values: `Neg`.
 142 tokens (1%) have a non-empty value of `Polarity`.
 3 types (0%) occur at least once with a non-empty value of `Polarity`.
 3 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 3 part-of-speech tags: <tt><a href="no_nynorsklia-pos-ADV.html">ADV</a></tt> (133; 1% instances), <tt><a href="no_nynorsklia-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="no_nynorsklia-pos-DET.html">DET</a></tt> (1; 0% instances).
+The feature is used with 3 part-of-speech tags: <tt><a href="no_nynorsklia-pos-PART.html">PART</a></tt> (133; 1% instances), <tt><a href="no_nynorsklia-pos-PRON.html">PRON</a></tt> (8; 0% instances), <tt><a href="no_nynorsklia-pos-DET.html">DET</a></tt> (1; 0% instances).
 
-### `ADV`
+### `PART`
 
-133 <tt><a href="no_nynorsklia-pos-ADV.html">ADV</a></tt> tokens (10% of all `ADV` tokens) have a non-empty value of `Polarity`.
+133 <tt><a href="no_nynorsklia-pos-PART.html">PART</a></tt> tokens (60% of all `PART` tokens) have a non-empty value of `Polarity`.
 
-`ADV` tokens may have the following values of `Polarity`:
+`PART` tokens may have the following values of `Polarity`:
 
 * `Neg` (133; 100% of non-empty `Polarity`): <em>ikkje</em>
-* `EMPTY` (1263): <em>da, så, jo, nå, der, vel, her, berre, altså, også</em>
+* `EMPTY` (88): <em>å, eingong</em>
 
 ### `PRON`
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `PRON` and `Polarity` co-occur
 `PRON` tokens may have the following values of `Polarity`:
 
 * `Neg` (8; 100% of non-empty `Polarity`): <em>ingen, ingenting</em>
-* `EMPTY` (1964): <em>det, eg, dei, du, vi, han, som, den, ein, de</em>
+* `EMPTY` (1986): <em>det, eg, dei, du, vi, han, som, den, ein, de</em>
 
 ### `DET`
 
@@ -43,10 +43,10 @@ The most frequent other feature values with which `DET` and `Polarity` co-occurr
 `DET` tokens may have the following values of `Polarity`:
 
 * `Neg` (1; 100% of non-empty `Polarity`): <em>ingen</em>
-* `EMPTY` (449): <em>ein, den, dei, noko, ei, andre, det, eit, alle, same</em>
+* `EMPTY` (427): <em>ein, den, dei, noko, ei, andre, det, eit, alle, same</em>
 
 ## Relations with Agreement in `Polarity`
 
 The 10 most frequent relations where parent and child node agree in `Polarity`:
-<tt>ADV --[<tt><a href="no_nynorsklia-dep-reparandum.html">reparandum</a></tt>]--> ADV</tt> (4; 100%).
+<tt>PART --[<tt><a href="no_nynorsklia-dep-reparandum.html">reparandum</a></tt>]--> PART</tt> (4; 100%).
 

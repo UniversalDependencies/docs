@@ -75,22 +75,22 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 24	favorable	favorable	ADJ	_	Number=Sing	0	root	_	SpaceAfter=No
 25	,	,	PUNCT	_	_	24	punct	_	_
 26	sous	sous	ADP	_	_	27	case	_	_
-27	condition	condition	NOUN	_	Gender=Fem|Number=Sing	24	obl	_	SpaceAfter=No
+27	condition	condition	NOUN	_	Gender=Fem|Number=Sing	24	obl:mod	_	SpaceAfter=No
 28	,	,	PUNCT	_	_	24	punct	_	_
 29	à	à	ADP	_	_	31	case	_	_
 30	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	31	det	_	_
-31	levée	levée	NOUN	_	Gender=Fem|Number=Sing	24	obl	_	_
+31	levée	levée	NOUN	_	Gender=Fem|Number=Sing	24	obl:arg	_	_
 32	de	de	ADP	_	_	34	case	_	_
 33	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	34	det	_	SpaceAfter=No
 34	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	31	nmod	_	_
 35	imposé	imposer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	34	acl	_	_
 36	à	à	ADP	_	_	38	case	_	_
 37	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	38	det	_	SpaceAfter=No
-38	Irak	Irak	PROPN	_	Gender=Masc|Number=Sing	35	obl	_	_
+38	Irak	Irak	PROPN	_	Gender=Masc|Number=Sing	35	obl:arg	_	_
 39	depuis	depuis	ADP	_	_	42	case	_	_
 40	bientôt	bientôt	ADV	_	_	42	advmod	_	_
 41	dix	dix	NUM	_	NumType=Card	42	nummod	_	_
-42	ans	an	NOUN	_	Gender=Masc|Number=Plur	35	obl	_	SpaceAfter=No
+42	ans	an	NOUN	_	Gender=Masc|Number=Plur	35	obl:mod	_	SpaceAfter=No
 43	.	.	PUNCT	_	_	24	punct	_	_
 
 ~~~
@@ -116,7 +116,7 @@ The following 3 pairs of parts of speech are connected with `vocative`: <tt><a h
 12	encore	encore	ADV	_	_	11	advmod	_	_
 13	de	de	ADP	_	_	15	case	_	_
 14	votre	son	DET	_	Number=Sing|Poss=Yes	15	det	_	_
-15	présence	présence	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
+15	présence	présence	NOUN	_	Gender=Fem|Number=Sing	11	obl:arg	_	_
 16	et	et	CCONJ	_	_	19	cc	_	_
 17	de	de	ADP	_	_	19	case	_	_
 18	votre	son	DET	_	Number=Sing|Poss=Yes	19	det	_	_

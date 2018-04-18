@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="it_postwita-dep-expl.html">expl</a></tt>.
 There are also 1 other language-specific subtypes of `expl`: <tt><a href="it_postwita-dep-expl-pass.html">expl:pass</a></tt>.
 
-103 nodes (0%) are attached to their parents as `expl:impers`.
+190 nodes (0%) are attached to their parents as `expl:impers`.
 
-102 instances of `expl:impers` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.33980582524272.
+188 instances of `expl:impers` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.29473684210526.
 
-The following 2 pairs of parts of speech are connected with `expl:impers`: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt>-<tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (102; 99% instances), <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 3 pairs of parts of speech are connected with `expl:impers`: <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt>-<tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (188; 99% instances), <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt>-<tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -70,6 +70,25 @@ The following 2 pairs of parts of speech are connected with `expl:impers`: <tt><
 25	di	di	ADP	E	_	27	case	_	_
 26	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	27	det	_	_
 27	grosse	grosso	ADJ	A	Gender=Fem|Number=Plur	24	obl	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 expl:impers	color:blue
+1	@GabrielleWhite_	@GabrielleWhite_	SYM	SYM	_	3	vocative:mention	_	_
+2	Cosa	cosa	PRON	PQ	PronType=Int	3	obj	_	_
+3	fai	fare	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	dopo	dopo	ADP	E	_	6	case	_	_
+5	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	scuola	scuola	NOUN	S	Gender=Fem|Number=Sing	3	obl	_	_
+7	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	8	expl:impers	_	_
+8	cagna	cagna	X	X	_	3	parataxis	_	SpaceAfter=No
+9	?	?	PUNCT	FS	_	8	punct	_	_
 
 ~~~
 

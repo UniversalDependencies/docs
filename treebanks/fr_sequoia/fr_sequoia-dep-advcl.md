@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-695 nodes (1%) are attached to their parents as `advcl`.
+642 nodes (1%) are attached to their parents as `advcl`.
 
-516 instances of `advcl` (74%) are left-to-right (parent precedes child).
-Average distance between parent and child is 12.2402877697842.
+467 instances of `advcl` (73%) are left-to-right (parent precedes child).
+Average distance between parent and child is 11.7180685358255.
 
-The following 10 pairs of parts of speech are connected with `advcl`: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (561; 81% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (46; 7% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (36; 5% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (17; 2% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (13; 2% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (13; 2% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
+The following 10 pairs of parts of speech are connected with `advcl`: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (531; 83% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (42; 7% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (18; 3% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (17; 3% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (13; 2% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (12; 2% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="fr_sequoia-pos-NUM.html">NUM</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -40,25 +40,28 @@ The following 10 pairs of parts of speech are connected with `advcl`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 10 advcl	color:blue
-1	Aucun	aucun	DET	_	Gender=Masc|Number=Sing	2	det	_	_
-2	ajustement	ajustement	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 13 2 advcl	color:blue
+1	S'	se	PRON	_	Person=3|Reflex=Yes	2	expl	_	SpaceAfter=No
+2	agissant	agir	VERB	_	Tense=Pres|VerbForm=Part	13	advcl	_	_
 3	de	de	ADP	_	_	5	case	_	_
 4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	dose	dose	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	SpaceAfter=No
-7	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
-8	nécessaire	nécessaire	ADJ	_	Number=Sing	0	root	_	_
-9	(	(	PUNCT	_	_	8	punct	_	SpaceAfter=No
-10	voir	voir	VERB	_	VerbForm=Inf	8	advcl	_	_
-11	rubrique	rubrique	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	_
-12	5.2	5.2	NUM	_	NumType=Card	11	nummod	_	SpaceAfter=No
-13	)	)	PUNCT	_	_	8	punct	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	8	punct	_	_
+5	maladie	maladie	NOUN	_	Gender=Fem|Number=Sing	2	obl:arg	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	Paget	Paget	PROPN	_	Gender=Fem|Number=Sing	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	13	punct	_	_
+9	Aclasta	Aclasta	PROPN	_	_	13	nsubj	_	_
+10	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+11	été	être	AUX	_	Tense=Past|VerbForm=Part	13	cop	_	_
+12	plus	plus	ADV	_	_	13	advmod	_	_
+13	efficace	efficace	ADJ	_	Number=Sing	0	root	_	_
+14	que	que	SCONJ	_	_	16	mark	_	_
+15	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	risédronate	risédronate	NOUN	_	Gender=Masc|Number=Sing	13	dep	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	13	punct	_	_
 
 ~~~
 

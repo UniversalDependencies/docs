@@ -17,47 +17,48 @@ The following 20 pairs of parts of speech are connected with `vocative`: <tt><a 
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 1 vocative	color:blue
-1	bruno	Bruno	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	5	vocative	_	word=Bruno|msd=Slmei
-2	na	na	ADP	Sa	Case=Acc	3	case	_	word=na|msd=Dt
-3	svidenje	svidenje	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	5	discourse	_	word=svidenje|msd=Soset
-4	lahko	lahko	ADV	Rgp	Degree=Pos	5	advmod	_	word=lahko|msd=Rsn
-5	greste	iti	VERB	Vmbr2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	word=greste|msd=Ggvsdm
-6	ja	ja	PART	Q	_	5	discourse	_	word=ja|msd=L
-7	…	…	PUNCT	Z	_	5	punct	_	word=…|msd=U
-8	ja	ja	PART	Q	_	5	discourse	_	word=ja|msd=L
-9	ja	ja	PART	Q	_	5	discourse	_	word=ja|msd=L
-10	[all:laughter]	[all:laughter]	X	X	_	5	punct	_	word=[all:laughter]|msd=N
+# visual-style 5 9 vocative	color:blue
+1	katere	kateri	DET	Pq-fpa	Case=Acc|Gender=Fem|Number=Plur|PronType=Int	2	det	_	word=katere|msd=Zv-zmt
+2	vrste	vrsta	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	5	iobj	_	word=vrste|msd=Sozmt
+3	rastlin	rastlina	NOUN	Ncfpg	Case=Gen|Gender=Fem|Number=Plur	2	nmod	_	word=rastlin|msd=Sozmr
+4	smo	biti	AUX	Va-r1p-n	Mood=Ind|Number=Plur|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	aux	_	word=smo|msd=Gp-spm-n
+5	omenjali	omenjati	VERB	Vmpp-pm	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	word=omenjali|msd=Ggnd-mm
+6	da	da	SCONJ	Cs	_	8	mark	_	word=da|msd=Vd
+7	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	cop	_	word=so|msd=Gp-stm-n
+8	metuljnice	metuljnica	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	5	ccomp	_	word=metuljnice|msd=Sozmi
+9	[name:personal]	[name:personal]	PROPN	X	_	5	vocative	_	word=[name:personal]|msd=N
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 vocative	color:blue
-1	bivol	bivol	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	2	vocative	_	word=bivol|msd=Somei
-2	pomagaj	pomagati	VERB	Vmbm2s	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	word=pomagaj|msd=Ggvvde
-3	nam	jaz	PRON	Pp1-pd	Case=Dat|Number=Plur|Person=1|PronType=Prs	2	obj	_	word=nam|msd=Zop-md
-4	!	!	PUNCT	Z	_	2	punct	_	word=!|msd=U
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 vocative	color:blue
+1	ne	ne	PART	Q	_	4	discourse	_	word=ne|msd=L
+2	ne	ne	PART	Q	Polarity=Neg	4	advmod	_	word=ne|msd=L
+3	bom	biti	AUX	Va-f1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Fut|VerbForm=Fin	4	aux	_	word=bom|msd=Gp-ppe-n
+4	mogel	moči	VERB	Vmpp-sm	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	word=mogu|msd=Ggnd-em
+5	učiteljica	učiteljica	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	4	vocative	_	word=učiteljica|msd=Sozei
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 1 vocative	color:blue
-1	[name:personal]	[name:personal]	PROPN	X	_	2	vocative	_	word=[name:personal]|msd=N
-2	pozdravljen	pozdravljen	ADJ	Appmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	word=pozdravljen|msd=Pdnmein
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 vocative	color:blue
+1	preverjeno	preverjen	ADJ	Appnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|VerbForm=Part	0	root	_	word=preverjeno|msd=Pdnsei
+2	[name:personal]	[name:personal]	PROPN	X	_	1	vocative	_	word=[name:personal]|msd=N
+3	?	?	PUNCT	Z	_	1	punct	_	word=?|msd=U
 
 ~~~
 

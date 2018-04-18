@@ -13,7 +13,7 @@ This relation is universal.
 6790 instances of `cop` (97%) are right-to-left (child precedes parent).
 Average distance between parent and child is 2.28707793132925.
 
-The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (3027; 43% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (2741; 39% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (376; 5% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (222; 3% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (215; 3% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (197; 3% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (100; 1% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (92; 1% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (45; 1% instances), <tt><a href="no_nynorsk-pos-X.html">X</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (4; 0% instances).
+The following 10 pairs of parts of speech are connected with `cop`: <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (3027; 43% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (2741; 39% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (376; 5% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (222; 3% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (217; 3% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (197; 3% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (98; 1% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (92; 1% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (45; 1% instances), <tt><a href="no_nynorsk-pos-X.html">X</a></tt>-<tt><a href="no_nynorsk-pos-AUX.html">AUX</a></tt> (4; 0% instances).
 
 
 ~~~ conllu
@@ -28,7 +28,7 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 4	lært	lære	VERB	_	VerbForm=Part	0	root	_	_
 5	av	av	ADP	_	_	6	case	_	_
 6	søstra	søster	NOUN	_	Definite=Def|Gender=Fem|Number=Sing	4	obl	_	_
-7	mi	min	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	nmod	_	SpaceAfter=No
+7	mi	min	PRON	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	6	nmod	_	SpaceAfter=No
 8	,	$,	PUNCT	_	_	4	punct	_	_
 9	og	og	CCONJ	_	_	13	cc	_	_
 10	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	_
@@ -75,7 +75,7 @@ The following 10 pairs of parts of speech are connected with `cop`: <tt><a href=
 4	brød	brød	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	5	nsubj	_	_
 5	held	halde	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	seg	seg	PRON	_	Case=Acc|Number=Sing|PronType=Prs	5	obj	_	_
-7	ikkje	ikkje	ADV	_	Polarity=Neg	5	advmod	_	_
+7	ikkje	ikkje	PART	_	Polarity=Neg	5	advmod	_	_
 8	ferske	fersk	ADJ	_	Degree=Pos|Number=Plur	1	acl	_	_
 9	så	så	ADV	_	_	10	advmod	_	_
 10	lenge	lenge	ADJ	_	Degree=Pos	5	advmod	_	SpaceAfter=No

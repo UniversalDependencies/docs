@@ -17,18 +17,18 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 5 iobj	color:blue
-1	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
-2	skal	skulle	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	_
-3	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-4	seie	seie	VERB	_	VerbForm=Inf	0	root	_	_
-5	deg	du	PRON	_	Animacy=Hum|Case=Acc|Number=Sing|Person=2|PronType=Prs	4	iobj	_	_
-6	gitt	gitt	ADV	_	_	4	advmod	_	_
-7	.	$.	PUNCT	_	_	4	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 iobj	color:blue
+1	den	den	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	obj	_	_
+2	leverte	levere	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	vi	vi	PRON	_	Animacy=Hum|Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+4	han	han	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	iobj	_	_
+5	til	til	ADP	_	_	6	case	_	_
+6	Linde	Linde	PROPN	_	_	2	obl	_	_
+7	.	$.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
@@ -44,7 +44,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 3	jo	jo	ADV	_	_	4	advmod	_	_
 4	ingen	ingen	PRON	_	Case=Nom|Number=Plur|Person=3|Polarity=Neg|PronType=Neg,Prs	0	root	_	_
 5	som	som	PRON	_	PronType=Rel	6	obj	_	_
-6	kunne	kunne	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	4	acl:relcl	_	_
+6	kunne	kunne	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	4	acl:cleft	_	_
 7	greie	greie	NOUN	_	Definite=Ind|Gender=Neut|Number=Sing	6	nsubj	_	_
 8	han	han	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	iobj	_	_
 9	anna	annan	DET	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing|PronType=Dem	12	obl	_	_
@@ -54,7 +54,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 13	til	til	ADP	_	_	14	case	_	_
 14	byen	by	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	12	obl	_	_
 15	#	#	PUNCT	_	_	19	punct	_	_
-16	for	for	ADP	_	_	19	mark	_	_
+16	for	for	SCONJ	_	_	19	mark	_	_
 17	å	å	PART	_	_	19	mark	_	_
 18	få	få	AUX	_	VerbForm=Inf	19	aux	_	_
 19	greidd	greie	VERB	_	VerbForm=Part	12	advcl	_	_
@@ -87,7 +87,7 @@ The following 3 pairs of parts of speech are connected with `iobj`: <tt><a href=
 13	pris	pris	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	12	obj	_	_
 14	på	på	ADP	_	_	15	case	_	_
 15	køyringa	køyring	NOUN	_	Definite=Def|Gender=Fem|Number=Sing	13	nmod	_	_
-16	hans	hans	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	17	nmod	_	_
+16	hans	hans	PRON	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	17	nmod	_	_
 17	eidsberg_uio_0301	eidsberg_uio_0301	PROPN	_	_	12	obj	_	_
 18	i	i	ADP	_	_	21	case	_	_
 19	alle	all	DET	_	Number=Plur|PronType=Tot	21	det	_	_

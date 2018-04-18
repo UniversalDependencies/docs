@@ -17,40 +17,44 @@ The following 15 pairs of parts of speech are connected with `det`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 det	color:blue
-1	og	og	CCONJ	_	_	3	cc	_	_
-2	nå	nå	ADV	_	_	3	advmod	_	_
-3	kostar	koste	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	ein	ein	DET	_	Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-5	lastebil	lastebil	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	3	nsubj	_	_
-6	to	to	NUM	_	Number=Plur|NumType=Card	10	nummod	_	_
-7	hundre	hundre	NUM	_	Number=Plur|NumType=Card	10	nummod	_	_
-8	tre	tre	NUM	_	Number=Plur|NumType=Card	10	nummod	_	_
-9	hundre	hundre	NUM	_	Number=Plur|NumType=Card	10	nummod	_	_
-10	tusen	tusen	NUM	_	Number=Plur|NumType=Card	3	obj	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 det	color:blue
+1	men	men	CCONJ	_	_	3	cc	_	_
+2	den	den	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	køyrde	køyre	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+5	med	med	SCONJ	_	_	8	mark	_	_
+6	ein	ein	DET	_	Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	månads	månad	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	8	nmod	_	_
+8	seie	seie	VERB	_	VerbForm=Inf	3	advcl	_	_
+9	så	så	ADV	_	_	3	advmod	_	_
+10	e	e	X	_	_	3	discourse:filler	_	_
 11	.	$.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 det	color:blue
-1	hadde	ha	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-2	du	du	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
-3	tid	tid	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	1	obj	_	_
-4	til	til	ADP	_	_	6	case	_	_
-5	noko	nokon	DET	_	Gender=Neut|Number=Sing|PronType=Ind	6	det	_	_
-6	meir	mykje	ADJ	_	_	1	amod	_	_
-7	da	da	ADV	_	_	1	advmod	_	_
-8	?	$?	PUNCT	_	_	1	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 det	color:blue
+1	ja	ja	INTJ	_	_	8	discourse	_	_
+2	det	det	DET	_	Gender=Neut|Number=Sing|PronType=Dem	3	det	_	_
+3	første	første	ADJ	_	Definite=Def|Degree=Pos|Number=Sing	5	advmod	_	_
+4	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+5	begynte	begynne	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	8	parataxis:deletion	_	_
+6	#	#	PUNCT	_	_	8	punct	_	_
+7	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
+8	var	vere	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+9	#	#	PUNCT	_	_	11	punct	_	_
+10	i	i	ADP	_	_	11	case	_	_
+11	femogtjue	femogtjue	NUM	_	Number=Plur|NumType=Card	8	obl	_	_
+12	.	$.	PUNCT	_	_	8	punct	_	_
 
 ~~~
 

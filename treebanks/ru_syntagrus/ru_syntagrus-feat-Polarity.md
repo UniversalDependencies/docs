@@ -9,19 +9,19 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Neg`.
 
-435 tokens (0%) have a non-empty value of `Polarity`.
+452 tokens (0%) have a non-empty value of `Polarity`.
 9 types (0%) occur at least once with a non-empty value of `Polarity`.
 5 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 2 part-of-speech tags: <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (249; 0% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (186; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> (266; 0% instances), <tt><a href="ru_syntagrus-pos-ADV.html">ADV</a></tt> (186; 0% instances).
 
 ### `PART`
 
-249 <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> tokens (1% of all `PART` tokens) have a non-empty value of `Polarity`.
+266 <tt><a href="ru_syntagrus-pos-PART.html">PART</a></tt> tokens (1% of all `PART` tokens) have a non-empty value of `Polarity`.
 
 `PART` tokens may have the following values of `Polarity`:
 
-* `Neg` (249; 100% of non-empty `Polarity`): <em>не, ни, нет, нет-нет</em>
-* `EMPTY` (34601): <em>не, и, же, только, бы, даже, вот, ли, лишь, именно</em>
+* `Neg` (266; 100% of non-empty `Polarity`): <em>не, ни, нет, нет-нет</em>
+* `EMPTY` (35119): <em>не, и, же, только, бы, даже, вот, ли, лишь, именно</em>
 
 ### `ADV`
 
@@ -32,7 +32,7 @@ The most frequent other feature values with which `ADV` and `Polarity` co-occurr
 `ADV` tokens may have the following values of `Polarity`:
 
 * `Neg` (186; 100% of non-empty `Polarity`): <em>несмотря, невзирая</em>
-* `EMPTY` (56035): <em>так, уже, еще, можно, более, как, очень, однако, где, сейчас</em>
+* `EMPTY` (55928): <em>так, уже, еще, можно, более, как, очень, однако, где, сейчас</em>
 
 ## Relations with Agreement in `Polarity`
 

@@ -12,7 +12,7 @@ It occurs with 2 different values: `Plur`, `Sing`.
 7063 tokens (37%) have a non-empty value of `Number`.
 3611 types (58%) occur at least once with a non-empty value of `Number`.
 2832 lemmas (57%) occur at least once with a non-empty value of `Number`.
-The feature is used with 6 part-of-speech tags: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (3915; 21% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (1275; 7% instances), <tt><a href="sv_pud-pos-DET.html">DET</a></tt> (1111; 6% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (758; 4% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (2; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (3915; 21% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (1275; 7% instances), <tt><a href="sv_pud-pos-DET.html">DET</a></tt> (995; 5% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (874; 5% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (2; 0% instances).
 
 ### `NOUN`
 
@@ -55,15 +55,15 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 ### `DET`
 
-1111 <tt><a href="sv_pud-pos-DET.html">DET</a></tt> tokens (87% of all `DET` tokens) have a non-empty value of `Number`.
+995 <tt><a href="sv_pud-pos-DET.html">DET</a></tt> tokens (97% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="sv_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (995; 90%), <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (633; 57%), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (588; 53%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="sv_pud-feat-Gender.html">Gender</a></tt><tt>=Com</tt> (579; 58%), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt><tt>=Ind</tt> (505; 51%).
 
 `DET` tokens may have the following values of `Number`:
 
-* `Plur` (197; 18% of non-empty `Number`): <em>de, sina, alla, dessa, några, våra, inga, dina, era, mina</em>
-* `Sing` (914; 82% of non-empty `Number`): <em>en, den, ett, det, sin, denna, sitt, varje, detta, någon</em>
-* `EMPTY` (166): <em>hans, dess, deras, hennes, samma, the, a, vars, Die, El</em>
+* `Plur` (158; 16% of non-empty `Number`): <em>de, alla, dessa, några, inga</em>
+* `Sing` (837; 84% of non-empty `Number`): <em>en, den, ett, det, denna, varje, detta, någon, något, ingen</em>
+* `EMPTY` (28): <em>samma, the, a, Die, El, Le, That, las</em>
 
 <table>
   <tr><th>Paradigm <i>den</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
@@ -76,23 +76,22 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
 
 ### `PRON`
 
-758 <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> tokens (72% of all `PRON` tokens) have a non-empty value of `Number`.
+874 <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> tokens (67% of all `PRON` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="sv_pud-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (699; 92%), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (624; 82%), <tt><a href="sv_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (394; 52%).
+The most frequent other feature values with which `PRON` and `Number` co-occurred: <tt><a href="sv_pud-feat-PronType.html">PronType</a></tt><tt>=EMPTY</tt> (815; 93%), <tt><a href="sv_pud-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (758; 87%), <tt><a href="sv_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (740; 85%), <tt><a href="sv_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (510; 58%).
 
 `PRON` tokens may have the following values of `Number`:
 
-* `Plur` (171; 23% of non-empty `Number`): <em>de, vi, dem, vilka, oss, alla, många, andra, dessa, båda</em>
-* `Sing` (587; 77% of non-empty `Number`): <em>det, han, jag, hon, den, detta, honom, vad, en, vilket</em>
-* `EMPTY` (299): <em>som, sig, sej</em>
+* `Plur` (210; 24% of non-empty `Number`): <em>de, sina, vi, dem, vilka, oss, alla, många, andra, dessa</em>
+* `Sing` (664; 76% of non-empty `Number`): <em>det, han, jag, sin, hon, den, detta, honom, sitt, vad</em>
+* `EMPTY` (437): <em>som, sig, hans, dess, deras, hennes, vars, bådas, dennes, ens</em>
 
 <table>
-  <tr><th>Paradigm <i>ni</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="sv_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td></td><td><em>er</em></td></tr>
-  <tr><td><tt><tt><a href="sv_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt></tt></td><td><em>ni</em></td><td></td></tr>
+  <tr><th>Paradigm <i>sin</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="sv_pud-feat-Gender.html">Gender</a></tt><tt>=Com</tt></tt></td><td><em>sin</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="sv_pud-feat-Gender.html">Gender</a></tt><tt>=Neut</tt></tt></td><td><em>sitt</em></td><td></td></tr>
+  <tr><td><tt></tt></td><td></td><td><em>sina</em></td></tr>
 </table>
-
-`Number` seems to be **lexical feature** of `PRON`. 97% lemmas (38) occur only with one value of `Number`.
 
 ### `NUM`
 

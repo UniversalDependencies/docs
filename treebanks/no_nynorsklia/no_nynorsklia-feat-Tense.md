@@ -62,8 +62,8 @@ The most frequent other feature values with which `NOUN` and `Tense` co-occurred
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="no_nynorsklia-dep-conj.html">conj</a></tt>]--> VERB</tt> (159; 73%),
-<tt>VERB --[<tt><a href="no_nynorsklia-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (42; 89%),
-<tt>VERB --[<tt><a href="no_nynorsklia-dep-parataxis-deletion.html">parataxis:deletion</a></tt>]--> VERB</tt> (40; 75%),
+<tt>VERB --[<tt><a href="no_nynorsklia-dep-conj.html">conj</a></tt>]--> VERB</tt> (157; 73%),
+<tt>VERB --[<tt><a href="no_nynorsklia-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (44; 90%),
+<tt>VERB --[<tt><a href="no_nynorsklia-dep-parataxis-deletion.html">parataxis:deletion</a></tt>]--> VERB</tt> (41; 76%),
 <tt>VERB --[<tt><a href="no_nynorsklia-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (4; 57%).
 

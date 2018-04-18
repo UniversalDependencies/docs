@@ -23,7 +23,7 @@ If the numerals inflect as nouns, they are tagged [NOUN]().
 - _I, II, III, IV, V, MMXIV_
 -	_մեկ, երկու, երեք, չորս, հինգ, յոթանասուն&nbsp;_ “one, two, three, four, five, seventy”
 -	_Ա, Ժ, Է, ԺԱ, Ն, Ռ_ “1, 10, 7, 11, 400, 1000”
--	_կես, քառորդ&nbsp;_ “one-half, quarter”: denominators of fractions constitute a separate class of cardinal numerals (see [specific syntax](../specific-syntax.html) on their morphosyntactic behavior).
+-	_կես, քառորդ&nbsp;_ “one-half, quarter”: denominators of fractions constitute a separate class of cardinal numerals.
 
 ### Counterexamples
 

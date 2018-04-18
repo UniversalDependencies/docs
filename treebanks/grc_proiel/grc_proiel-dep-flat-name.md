@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="grc_proiel-dep-flat.html">flat</a></tt>.
 
-281 nodes (0%) are attached to their parents as `flat:name`.
+282 nodes (0%) are attached to their parents as `flat:name`.
 
-277 instances of `flat:name` (99%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.34875444839858.
+282 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.35815602836879.
 
-The following 1 pairs of parts of speech are connected with `flat:name`: <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt> (281; 100% instances).
+The following 1 pairs of parts of speech are connected with `flat:name`: <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt> (282; 100% instances).
 
 
 ~~~ conllu

@@ -17,70 +17,54 @@ The following 55 pairs of parts of speech are connected with `advmod`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 10 advmod	color:blue
-1	na	na	ADP	Sl	Case=Loc	2	case	_	word=na|msd=Dm
-2	vrhu	vrh	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	3	obl	_	word=vrhu|msd=Somem
-3	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	word=je|msd=Gp-ste-n
-4	tako	tako	ADV	Rgp	Degree=Pos	7	mark	_	word=tako|msd=Rsn
-5	kot	kot	SCONJ	Cs	_	4	fixed	_	word=kot|msd=Vd
-6	si	biti	AUX	Va-r2s-n	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	word=si|msd=Gp-sde-n
-7	rekla	reči	VERB	Vmep-sf	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	3	advcl	_	word=rekla|msd=Ggdd-ez
-8	en	en	NUM	Mlpmsn	Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	9	nummod	_	word=en|msd=Kbzmei
-9	šef	šef	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	word=šef|msd=Somei
-10	lahko	lahko	ADV	Rgp	Degree=Pos	11	advmod	_	word=lahko|msd=Rsn
-11	sta	biti	VERB	Va-r3d-n	Mood=Ind|Number=Dual|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	parataxis	_	word=sta|msd=Gp-std-n
-12	tudi	tudi	PART	Q	_	11	advmod	_	word=tudi|msd=L
-13	dva	dva	NUM	Mlcmdn	Case=Nom|Gender=Masc|Number=Dual|NumForm=Word|NumType=Card	11	obl	_	word=dva|msd=Kbgmdi
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 1 advmod	color:blue
+1	mogoče	mogoče	ADV	Rgp	Degree=Pos	4	advmod	_	word=mogoče|msd=Rsn
+2	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	4	aux	_	word=bi|msd=Gp-g
+3	še	še	PART	Q	_	4	advmod	_	word=še|msd=L
+4	dodal	dodati	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	word=dodal|msd=Ggdd-em
+5	prej	prej	ADV	Rgc	Degree=Cmp	4	advmod	_	word=prej|msd=Rsr
+6	ko	ko	SCONJ	Cs	_	8	mark	_	word=ko|msd=Vd
+7	nisem	biti	AUX	Va-r1s-y	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	8	aux	_	word=nisn|msd=Gp-spe-d
+8	dokončal	dokončati	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	5	acl	_	word=dokončal|msd=Ggdd-em
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 12 advmod	color:blue
-1	na	na	ADP	Sl	Case=Loc	2	case	_	word=na|msd=Dm
-2	vrhu	vrh	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	3	obl	_	word=vrhu|msd=Somem
-3	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	word=je|msd=Gp-ste-n
-4	tako	tako	ADV	Rgp	Degree=Pos	7	mark	_	word=tako|msd=Rsn
-5	kot	kot	SCONJ	Cs	_	4	fixed	_	word=kot|msd=Vd
-6	si	biti	AUX	Va-r2s-n	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	word=si|msd=Gp-sde-n
-7	rekla	reči	VERB	Vmep-sf	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	3	advcl	_	word=rekla|msd=Ggdd-ez
-8	en	en	NUM	Mlpmsn	Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	9	nummod	_	word=en|msd=Kbzmei
-9	šef	šef	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	word=šef|msd=Somei
-10	lahko	lahko	ADV	Rgp	Degree=Pos	11	advmod	_	word=lahko|msd=Rsn
-11	sta	biti	VERB	Va-r3d-n	Mood=Ind|Number=Dual|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	parataxis	_	word=sta|msd=Gp-std-n
-12	tudi	tudi	PART	Q	_	11	advmod	_	word=tudi|msd=L
-13	dva	dva	NUM	Mlcmdn	Case=Nom|Gender=Masc|Number=Dual|NumForm=Word|NumType=Card	11	obl	_	word=dva|msd=Kbgmdi
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 advmod	color:blue
+1	mogoče	mogoče	ADV	Rgp	Degree=Pos	4	advmod	_	word=mogoče|msd=Rsn
+2	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	4	aux	_	word=bi|msd=Gp-g
+3	še	še	PART	Q	_	4	advmod	_	word=še|msd=L
+4	dodal	dodati	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	word=dodal|msd=Ggdd-em
+5	prej	prej	ADV	Rgc	Degree=Cmp	4	advmod	_	word=prej|msd=Rsr
+6	ko	ko	SCONJ	Cs	_	8	mark	_	word=ko|msd=Vd
+7	nisem	biti	AUX	Va-r1s-y	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	8	aux	_	word=nisn|msd=Gp-spe-d
+8	dokončal	dokončati	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	5	acl	_	word=dokončal|msd=Ggdd-em
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 11 advmod	color:blue
-1	pa	pa	CCONJ	Cc	_	2	reparandum	_	word=pa|msd=Vp
-2	pa	pa	CCONJ	Cc	_	6	cc	_	word=pa|msd=Vp
-3	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	aux	_	word=so|msd=Gp-stm-n
-4	ga	on	PRON	Pp3msa--y	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Variant=Short	6	obj	_	word=ga|msd=Zotmet--k
-5	ljudje	človek	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	word=ludi|msd=Sommi
-6	zajebavali	zajebavati	VERB	Vmpp-pm	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	word=zajebovali|msd=Ggnd-mm
-7	evo	evo	PART	Q	_	12	discourse	_	word=evo|msd=L
-8	pol	pol	ADV	Rgp	Degree=Pos	12	advmod	_	word=po|msd=Rsn
-9	vam	ti	PRON	Pp2-pd	Case=Dat|Number=Plur|Person=2|PronType=Prs	12	iobj	_	word=vam|msd=Zod-md
-10	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	12	aux	_	word=je|msd=Gp-ste-n
-11	pa	pa	CCONJ	Cc	_	12	advmod	_	word=pa|msd=Vp
-12	dal	dati	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	6	parataxis	_	word=dal|msd=Ggdd-em
-13	kajlo	kajla	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	12	obj	_	word=kajlo|msd=Sozet
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 advmod	color:blue
+1	predvsem	predvsem	PART	Q	_	3	advmod	_	word=predvsem|msd=L
+2	pa	pa	CCONJ	Cc	_	3	advmod	_	word=pa|msd=Vp
+3	opazujemo	opazovati	VERB	Vmpr1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	word=opazujemo|msd=Ggnspm
+4	in	in	CCONJ	Cc	_	5	cc	_	word=in|msd=Vp
+5	opazujemo	opazovati	VERB	Vmpr1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	word=opazujemo|msd=Ggnspm
+6	in	in	CCONJ	Cc	_	7	cc	_	word=in|msd=Vp
+7	opazujemo	opazovati	VERB	Vmpr1p	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	word=opazujemo|msd=Ggnspm
 
 ~~~
 

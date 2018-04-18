@@ -17,37 +17,36 @@ The following 5 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 
 
 ~~~ conllu
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 23	bgColor:blue
-# visual-style 23	fgColor:white
-# visual-style 23 17 nsubj:pass	color:blue
-1	"	"	PUNCT	Q"	_	8	punct	_	SpaceAfter=No
-2	O	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	22	22	NUM	Ncnms	Gender=Masc|Number=Sing|NumType=Card	8	obl	_	_
-4	de	de	ADP	P	AdpType=Prep	5	case	_	_
-5	febreiro	febreiro	NOUN	Scms	Gender=Masc|Number=Sing	3	nmod	_	_
-6	dous	dous	NUM	Ncdmp	Gender=Masc|Number=Plur|NumType=Card	7	nummod	_	_
-7	articulistas	articulista	NOUN	Scmp	Gender=Masc|Number=Plur	8	nsubj	_	_
-8	afirmaban	afirmar	VERB	Vii30p	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+# visual-style 18	bgColor:blue
+# visual-style 18	fgColor:white
+# visual-style 24	bgColor:blue
+# visual-style 24	fgColor:white
+# visual-style 24 18 nsubj:pass	color:blue
+1	O	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+2	ex	ex	ADJ	A0ms	Gender=Masc|Number=Sing	3	amod	_	_
+3	sindicalista	sindicalista	NOUN	Scms	Gender=Masc|Number=Sing	13	nsubj	_	SpaceAfter=No
+4	,	,	PUNCT	Q,	_	3	punct	_	_
+5	hoxe	hoxe	ADV	Wn	_	8	advmod	_	_
+6	con	con	ADP	P	AdpType=Prep	8	case	_	_
+7	escaso	escaso	ADJ	A0ms	Gender=Masc|Number=Sing	8	amod	_	_
+8	predicamento	predicamento	NOUN	Scms	Gender=Masc|Number=Sing	3	nmod	_	_
 9	en	en	ADP	P	AdpType=Prep	11	case	_	_
 10	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
-11	periódico	periódico	NOUN	Scms	Gender=Masc|Number=Sing	8	obl	_	_
-12	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	14	obj	_	_
-13	vostede	vostede	PRON	Rtn3as	Case=Nom|Gender=Com|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
-14	dirixe	dirixir	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl	_	_
-15	que	que	SCONJ	Cs	_	23	mark	_	_
-16	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
-17	obra	obra	NOUN	Scfs	Gender=Fem|Number=Sing	23	nsubj:pass	_	_
-18	de	de	ADP	P	AdpType=Prep	19	case	_	_
-19	Guillermo	guillermo	PROPN	Spm0	Gender=Masc	17	nmod	_	_
-20	Cabrera	cabrera	PROPN	Spm0	Gender=Masc	19	flat:name	_	_
-21	Infante	infante	PROPN	Spm0	Gender=Masc	19	flat:name	_	_
-22	foi	ser	AUX	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	aux:pass	_	_
-23	prohibida	prohibir	VERB	V0p0fs	Gender=Fem|Number=Sing|VerbForm=Part	8	ccomp	_	_
-24	en	en	ADP	P	AdpType=Prep	25	case	_	_
-25	Cuba	Cuba	PROPN	Sp00	_	23	obl	_	SpaceAfter=No
-26	.	.	PUNCT	Q.	_	8	punct	_	_
+11	país	país	NOUN	Scms	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	Q,	_	3	punct	_	_
+13	logrou	lograr	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+14	non	non	ADV	Wn	_	13	advmod	_	_
+15	obstante	obstante	ADJ	A0as	Gender=Com	14	fixed	_	_
+16	que	que	SCONJ	Cs	_	24	mark	_	_
+17	esta	este	DET	Edfs	Gender=Fem|Number=Sing|PronType=Dem	18	det	_	_
+18	opinión	opinión	NOUN	Scfs	Gender=Fem|Number=Sing	24	nsubj:pass	_	_
+19	sobre	sobre	ADP	P	AdpType=Prep	21	case	_	_
+20	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
+21	emisora	emisora	NOUN	Scfs	Gender=Fem|Number=Sing	18	nmod	_	_
+22	fose	ser	AUX	Ves30s	Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	aux:pass	_	_
+23	moi	moito	ADV	Wm	_	24	advmod	_	_
+24	comentada	comentar	VERB	V0p0fs	Gender=Fem|Number=Sing|VerbForm=Part	13	ccomp	_	SpaceAfter=No
+25	.	.	PUNCT	Q.	_	13	punct	_	_
 
 ~~~
 

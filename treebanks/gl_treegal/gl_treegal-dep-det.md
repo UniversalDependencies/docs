@@ -17,35 +17,33 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 det	color:blue
-1	Europeizar	europeizar	VERB	V0f000	VerbForm=Inf	0	root	_	_
-2	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	horario	horario	NOUN	Scms	Gender=Masc|Number=Sing	1	obj	_	_
-4	de	de	ADP	P	AdpType=Prep	5	case	_	_
-5	traballo	traballo	NOUN	Scms	Gender=Masc|Number=Sing	3	nmod	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 5 det	color:blue
+1	Traballamos	traballar	VERB	Vpi10p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	máis	máis	ADV	Wm	_	3	advmod	_	_
+3	horas	hora	NOUN	Scfp	Gender=Fem|Number=Plur	1	obl	_	_
+4	que	que	SCONJ	Cs	_	6	case	_	_
+5	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	xaponeses	xaponés	NOUN	Scmp	Gender=Masc|Number=Plur	1	obl	_	SpaceAfter=No
+7	.	.	PUNCT	Q.	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 2 det	color:blue
-1	(	(	PUNCT	Q(	_	3	punct	_	SpaceAfter=No
-2	La	la	DET	D0fs	PronType=Art	3	det	_	_
-3	Vanguardia	vanguardia	PROPN	Sp00	_	0	root	_	SpaceAfter=No
-4	,	,	PUNCT	Q,	_	3	punct	_	_
-5	28	28	NUM	Ncnms	Gender=Masc|Number=Sing|NumType=Card	3	nmod	_	_
-6	de	de	ADP	P	AdpType=Prep	7	case	_	_
-7	febreiro	febreiro	NOUN	Scms	Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
-8	)	)	PUNCT	Q)	_	3	punct	_	SpaceAfter=No
-9	.	.	PUNCT	Q.	_	3	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 det	color:blue
+1	"	"	PUNCT	Q"	_	2	punct	_	SpaceAfter=No
+2	Votamos	votar	VERB	Vpi10p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	Constitución	Constitución	PROPN	Spfs	Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
+5	.	.	PUNCT	Q.	_	2	punct	_	_
 
 ~~~
 

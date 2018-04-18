@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>XSD</em> (<tt><a href="en_lines-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.090909 (the average of all parts of speech is 1.245216).
+The form / lemma ratio of `X` is 1.090909 (the average of all parts of speech is 1.244910).
 
 The 1st highest number of forms (2) was observed with the lemma “xsl”: <em>.xsl, XSL</em>.
 
@@ -32,7 +32,13 @@ The 2nd highest number of forms (1) was observed with the lemma “COM”: <em>C
 
 The 3rd highest number of forms (1) was observed with the lemma “OLE”: <em>OLE</em>.
 
-`X` does not occur with any features.
+`X` occurs with 1 features: <tt><a href="en_lines-feat-Case.html">Case</a></tt> (4; 9% instances)
+
+`X` occurs with 1 feature-value pairs: `Case=Nom`
+
+`X` occurs with 2 feature combinations.
+The most frequent feature combination is `_` (39 tokens).
+Examples: <em>XSLT, SA, XSL, W3C, .xsl, XSD, .adp, .lpk, .mdb, .odc</em>
 
 
 ## Relations

@@ -30,4 +30,4 @@ acl:relcl(enseignants,souvenez)
 obl:comp(souvenez,dont)
 ~~~
 
-N.B.: For cleft sentences, FrenchSpoken uses the [acl:cleft]() subrelation.
+N.B.: For cleft sentences, FrenchSpoken uses the [advcl:cleft]() subrelation.

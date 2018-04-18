@@ -17,24 +17,21 @@ The following 14 pairs of parts of speech are connected with `ccomp`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 8 ccomp	color:blue
-1	En	en	ADP	P	AdpType=Prep	5	advmod	_	_
-2	todo	todo	DET	Idms	Gender=Masc|Number=Sing|PronType=Ind	1	fixed	_	_
-3	caso	caso	NOUN	Scms	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
-4	,	,	PUNCT	Q,	_	5	punct	_	_
-5	parece	parecer	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-6	que	que	SCONJ	Cs	_	8	mark	_	_
-7	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	8	nsubj	_	_
-8	entende	entender	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
-9	ben	ben	ADV	Wn	_	8	advmod	_	_
-10	con	con	ADP	P	AdpType=Prep	12	case	_	_
-11	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
-12	nacionalistas	nacionalista	NOUN	Scmp	Gender=Masc|Number=Plur	8	obl	_	SpaceAfter=No
-13	.	.	PUNCT	Q.	_	5	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 6 ccomp	color:blue
+1	E	e	CCONJ	Cc	_	9	mark	_	_
+2	como	como	SCONJ	Cs	_	6	mark	_	_
+3	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	falar	falar	NOUN	Scms	Gender=Masc|Number=Sing	6	nsubj	_	_
+5	non	non	ADV	Wn	Polarity=Neg	6	advmod	_	_
+6	ten	ter	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ccomp	_	_
+7	cancela	cancela	NOUN	Scfs	Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No
+8	,	,	PUNCT	Q,	_	6	punct	_	_
+9	engade	engadir	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+10	:	:	PUNCT	Q:	_	9	punct	_	_
 
 ~~~
 

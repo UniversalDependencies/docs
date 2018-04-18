@@ -39,14 +39,14 @@ The most frequent other feature values with which `ADJ` and `Degree` co-occurred
 
 ### `DET`
 
-29 <tt><a href="no_nynorsklia-pos-DET.html">DET</a></tt> tokens (6% of all `DET` tokens) have a non-empty value of `Degree`.
+29 <tt><a href="no_nynorsklia-pos-DET.html">DET</a></tt> tokens (7% of all `DET` tokens) have a non-empty value of `Degree`.
 
 The most frequent other feature values with which `DET` and `Degree` co-occurred: <tt><a href="no_nynorsklia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (29; 100%), <tt><a href="no_nynorsklia-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (26; 90%).
 
 `DET` tokens may have the following values of `Degree`:
 
 * `Pos` (29; 100% of non-empty `Degree`): <em>anna, annan, andre, eigen, eige</em>
-* `EMPTY` (421): <em>ein, den, dei, noko, ei, det, eit, alle, andre, same</em>
+* `EMPTY` (399): <em>ein, den, dei, noko, ei, det, eit, alle, andre, same</em>
 
 ### `ADV`
 
@@ -55,7 +55,7 @@ The most frequent other feature values with which `DET` and `Degree` co-occurred
 `ADV` tokens may have the following values of `Degree`:
 
 * `Pos` (2; 100% of non-empty `Degree`): <em>lenge</em>
-* `EMPTY` (1394): <em>da, så, ikkje, jo, nå, der, vel, her, berre, altså</em>
+* `EMPTY` (1260): <em>da, så, jo, nå, der, vel, her, berre, altså, også</em>
 
 ### `NOUN`
 

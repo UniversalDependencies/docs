@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Hindi'
+title:  'UD_Hindi-HDTB'
 udver: '2'
 ---
 
@@ -9,7 +9,7 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Hindi
+# UD Hindi HDTB
 
 Language: [Hindi](../hi/overview/hi-hub.html) (code: `hi`)<br/>
 Family: Indo-European, Indic
@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 
 The following people have contributed to making this treebank part of UD: Riyaz Ahmad Bhat, Daniel Zeman.
 
-Repository: [UD_Hindi](https://github.com/UniversalDependencies/UD_Hindi)
+Repository: [UD_Hindi-HDTB](https://github.com/UniversalDependencies/UD_Hindi-HDTB)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhi_hdtb)
 
 License: CC BY-NC-SA 4.0
 
@@ -26,42 +27,94 @@ Genre: news
 
 Questions, comments?
 General annotation questions (either Hindi-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Hindi/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Hindi-HDTB/issues).
 If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&nbsp;mff&nbsp;•&nbsp;cuni&nbsp;•&nbsp;cz].
+Development of the treebank happens directly in the UD repository, so you may submit bug fixes as pull requests against the dev branch.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
-| XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Lemmas | annotated manually in non-UD style, automatically converted to UD |
+| UPOS | annotated manually in non-UD style, automatically converted to UD |
+| XPOS | annotated manually |
+| Features | annotated manually in non-UD style, automatically converted to UD |
+| Relations | annotated manually in non-UD style, automatically converted to UD |
 
 ## Description
 
+The Hindi UD treebank is based on the Hindi Dependency Treebank (HDTB),
+created at IIIT Hyderabad, India.
+
+
+
+
+The Hindi Universal Dependency Treebank was automatically converted from Hindi Dependency Treebank (HDTB) which is part of an ongoing effort of creating multi-layered treebanks for Hindi and Urdu. HDTB is developed at IIIT-H India.
+
+
 ## Acknowledgments
 
-# Statistics of UD Hindi
+The project is supported by NSF Grant (Award Number: CNS 0751202; CFDA Number: 47.070).
+
+Any publication reporting the work done using this data should cite the following references:
+
+Riyaz Ahmad Bhat, Rajesh Bhatt, Annahita Farudi, Prescott Klassen, Bhuvana Narasimhan, Martha Palmer, Owen Rambow, Dipti Misra Sharma, Ashwini Vaidya, Sri Ramagurumurthy Vishnu, and Fei Xia. The Hindi/Urdu Treebank Project. In the Handbook of Linguistic Annotation (edited by Nancy Ide and James Pustejovsky), Springer Press
+
+<pre>
+@InCollection{bhathindi,
+Title = {The Hindi/Urdu Treebank Project},
+Author = {Bhat, Riyaz Ahmad and Bhatt, Rajesh and Farudi, Annahita and Klassen, Prescott and Narasimhan, Bhuvana and Palmer, Martha and Rambow, Owen and Sharma, Dipti Misra and Vaidya, Ashwini and Vishnu, Sri Ramagurumurthy and others},
+Booktitle = {Handbook of Linguistic Annotation},
+Publisher = {Springer Press}
+}
+</pre>
+
+Martha Palmer, Rajesh Bhatt, Bhuvana Narasimhan, Owen Rambow, Dipti Misra Sharma, Fei Xia. Hindi Syntax: Annotating Dependency, Lexical Predicate-Argument Structure, and Phrase Structure. In the Proceedings of the 7th International Conference on Natural Language Processing, ICON-2009, Hyderabad, India, Dec 14-17, 2009.
+
+<pre>
+@inproceedings{palmer2009hindi,
+title={Hindi syntax: Annotating dependency, lexical predicate-argument structure, and phrase structure},
+author={Palmer, Martha and Bhatt, Rajesh and Narasimhan, Bhuvana and Rambow, Owen and Sharma, Dipti Misra and Xia, Fei},
+booktitle={The 7th International Conference on Natural Language Processing},
+pages={14--17},
+year={2009}
+}
+</pre>
+
+
+
+# Statistics of UD Hindi HDTB
 
 ## POS Tags
 
-[ADJ](hi-pos-ADJ.html) – [ADP](hi-pos-ADP.html) – [ADV](hi-pos-ADV.html) – [AUX](hi-pos-AUX.html) – [CCONJ](hi-pos-CCONJ.html) – [DET](hi-pos-DET.html) – [INTJ](hi-pos-INTJ.html) – [NOUN](hi-pos-NOUN.html) – [NUM](hi-pos-NUM.html) – [PART](hi-pos-PART.html) – [PRON](hi-pos-PRON.html) – [PROPN](hi-pos-PROPN.html) – [PUNCT](hi-pos-PUNCT.html) – [SCONJ](hi-pos-SCONJ.html) – [VERB](hi-pos-VERB.html) – [X](hi-pos-X.html)
+[ADJ](hi_hdtb-pos-ADJ.html) – [ADP](hi_hdtb-pos-ADP.html) – [ADV](hi_hdtb-pos-ADV.html) – [AUX](hi_hdtb-pos-AUX.html) – [CCONJ](hi_hdtb-pos-CCONJ.html) – [DET](hi_hdtb-pos-DET.html) – [INTJ](hi_hdtb-pos-INTJ.html) – [NOUN](hi_hdtb-pos-NOUN.html) – [NUM](hi_hdtb-pos-NUM.html) – [PART](hi_hdtb-pos-PART.html) – [PRON](hi_hdtb-pos-PRON.html) – [PROPN](hi_hdtb-pos-PROPN.html) – [PUNCT](hi_hdtb-pos-PUNCT.html) – [SCONJ](hi_hdtb-pos-SCONJ.html) – [VERB](hi_hdtb-pos-VERB.html) – [X](hi_hdtb-pos-X.html)
 
 ## Features
 
-[AdpType](hi-feat-AdpType.html) – [AdvType](hi-feat-AdvType.html) – [Aspect](hi-feat-Aspect.html) – [Case](hi-feat-Case.html) – [Echo](hi-feat-Echo.html) – [Foreign](hi-feat-Foreign.html) – [Gender](hi-feat-Gender.html) – [Mood](hi-feat-Mood.html) – [Number](hi-feat-Number.html) – [NumType](hi-feat-NumType.html) – [Person](hi-feat-Person.html) – [Polarity](hi-feat-Polarity.html) – [Polite](hi-feat-Polite.html) – [Poss](hi-feat-Poss.html) – [PronType](hi-feat-PronType.html) – [Tense](hi-feat-Tense.html) – [VerbForm](hi-feat-VerbForm.html) – [Voice](hi-feat-Voice.html)
+[AdpType](hi_hdtb-feat-AdpType.html) – [AdvType](hi_hdtb-feat-AdvType.html) – [Aspect](hi_hdtb-feat-Aspect.html) – [Case](hi_hdtb-feat-Case.html) – [Echo](hi_hdtb-feat-Echo.html) – [Foreign](hi_hdtb-feat-Foreign.html) – [Gender](hi_hdtb-feat-Gender.html) – [Mood](hi_hdtb-feat-Mood.html) – [Number](hi_hdtb-feat-Number.html) – [NumType](hi_hdtb-feat-NumType.html) – [Person](hi_hdtb-feat-Person.html) – [Polarity](hi_hdtb-feat-Polarity.html) – [Polite](hi_hdtb-feat-Polite.html) – [Poss](hi_hdtb-feat-Poss.html) – [PronType](hi_hdtb-feat-PronType.html) – [Tense](hi_hdtb-feat-Tense.html) – [VerbForm](hi_hdtb-feat-VerbForm.html) – [Voice](hi_hdtb-feat-Voice.html)
 
 ## Relations
 
-[acl](hi-dep-acl.html) – [acl:relcl](hi-dep-acl-relcl.html) – [advcl](hi-dep-advcl.html) – [advmod](hi-dep-advmod.html) – [amod](hi-dep-amod.html) – [aux](hi-dep-aux.html) – [aux:pass](hi-dep-aux-pass.html) – [case](hi-dep-case.html) – [cc](hi-dep-cc.html) – [compound](hi-dep-compound.html) – [conj](hi-dep-conj.html) – [cop](hi-dep-cop.html) – [dep](hi-dep-dep.html) – [det](hi-dep-det.html) – [dislocated](hi-dep-dislocated.html) – [iobj](hi-dep-iobj.html) – [mark](hi-dep-mark.html) – [nmod](hi-dep-nmod.html) – [nsubj](hi-dep-nsubj.html) – [nsubj:pass](hi-dep-nsubj-pass.html) – [nummod](hi-dep-nummod.html) – [obj](hi-dep-obj.html) – [obl](hi-dep-obl.html) – [punct](hi-dep-punct.html) – [root](hi-dep-root.html) – [vocative](hi-dep-vocative.html) – [xcomp](hi-dep-xcomp.html)
+[acl](hi_hdtb-dep-acl.html) – [acl:relcl](hi_hdtb-dep-acl-relcl.html) – [advcl](hi_hdtb-dep-advcl.html) – [advmod](hi_hdtb-dep-advmod.html) – [amod](hi_hdtb-dep-amod.html) – [aux](hi_hdtb-dep-aux.html) – [aux:pass](hi_hdtb-dep-aux-pass.html) – [case](hi_hdtb-dep-case.html) – [cc](hi_hdtb-dep-cc.html) – [compound](hi_hdtb-dep-compound.html) – [conj](hi_hdtb-dep-conj.html) – [cop](hi_hdtb-dep-cop.html) – [dep](hi_hdtb-dep-dep.html) – [det](hi_hdtb-dep-det.html) – [dislocated](hi_hdtb-dep-dislocated.html) – [iobj](hi_hdtb-dep-iobj.html) – [mark](hi_hdtb-dep-mark.html) – [nmod](hi_hdtb-dep-nmod.html) – [nsubj](hi_hdtb-dep-nsubj.html) – [nsubj:pass](hi_hdtb-dep-nsubj-pass.html) – [nummod](hi_hdtb-dep-nummod.html) – [obj](hi_hdtb-dep-obj.html) – [obl](hi_hdtb-dep-obl.html) – [punct](hi_hdtb-dep-punct.html) – [root](hi_hdtb-dep-root.html) – [vocative](hi_hdtb-dep-vocative.html) – [xcomp](hi_hdtb-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 16647 sentences and 351704 tokens.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 6170 tokens (2%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 30 types of words that contain both letters and punctuation. Examples: एस., -JOIN, आर., एम., ए., एन., एच., एल., वाई., ई., आई., उ.प्र., जी.टी., कि.मी., द., म.प्र., स्व., (एनएसजी), ई.पू., ईआरडीसीआईटीवीएम., ए.डबल्यू.डबल्यू.ए., ओ., टेक., पुन:, फिल., बे-लगाम, रू-ब-रू, रेत..., विधान-सभा, हुए...</li>
+</ul>
+
+<ul>
 </ul>
 
 <h2>Morphology</h2>
@@ -71,6 +124,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
 <ul>
 <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: SYM</li>
+</ul>
+
+<ul>
 <li>This corpus contains 62 word types tagged as particles (PART): अकेले, अमूमन, आदि, इत्यादि, उर्फ, उर्फ़, ए, एकमात्र, औसतन, करीब, कि, के, केवल, गुना, जरा, जी, जैसा, जैसे, ठीक, तक, तकरीबन, तत्काल, तुंरत, तुरंत, तो, तक़रीबन, दर, न, नही, नहीं, प्रति, फिर, फौरन, बगैर, बस, बिना, बी, बग़ैर, भर, भला, भले, भी, भी..., मत, महज, महोदय, मात्र, में, लगभग, वगैरह, वाया, वैसे, सा, साहब, सिर्फ, सिर्फ़, सिवा, सि‍र्फ़, सी, से, ही, क़रीब</li>
 </ul>
 
@@ -95,7 +151,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
 </ul>
 
 <ul>
-<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Conv
   <ul>
@@ -105,6 +163,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
     <li>VERB: लेकर, करके, होकर, देकर, मिलकर, आकर, जाकर, छोड़कर, बढ़कर, देखकर</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Fin
   <ul>
     <li>ADP: के</li>
@@ -115,6 +176,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
     <li>VERB: है, करेंगे, होगा, होगी, हैं, था, करेगी, करेगा, होंगे, करें</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Inf
   <ul>
     <li>AUX: जाने, जाना, जानी, रखने, देना, पाने, देने, लेने, पाना, रहने</li>
@@ -122,6 +186,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
     <li>VERB: करने, होने, देने, कहना, करना, बनाने, आने, लेने, मिलने, कराने</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>ADP: लिए</li>
@@ -133,12 +200,12 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
+
 <li><a>Gender</a>
+
   <ul>
     <li>Fem
       <ul>
@@ -163,6 +230,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>X: थोड़ी, इतनी, खासी, बड़ी</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>ADJ: पिछले, पूरा, अगले, नए, पूरे, दूसरे, बड़े, पहले, बड़ा, नया</li>
@@ -193,10 +263,15 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Number</a>
+
   <ul>
     <li>Plur
       <ul>
@@ -223,6 +298,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>X-Part: बुझे</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: पिछले, पूरी, पूरा, अगले, पहली, पूरे, नए, नई, दूसरी, दूसरे</li>
@@ -255,9 +333,13 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Acc
       <ul>
@@ -280,12 +362,18 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>X: बड़े, बडे, बड़ी</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Acc,Dat
       <ul>
         <li>NOUN: हमें</li>
         <li>PRON: उन्हें, उसे, इसे, हमें, जिसे, मुझे, इन्हें, जिन्हें, आपको, उनको</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Acc,Erg
       <ul>
         <li>AUX: जाने</li>
@@ -293,6 +381,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>VERB: जाने, ढूंढ़ने, पहुंचने, सुलझाने, कराने, बांटने, मांगने, संभालने</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Acc,Gen
       <ul>
         <li>ADP: का, की, के</li>
@@ -301,16 +392,25 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>VERB: करके</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Acc,Ine
       <ul>
         <li>PRON: इसमें, जिसमें, इनमें, जिनमें, उसमें, उनमें, हममें</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Acc,Ins
       <ul>
         <li>PRON: इससे, जिससे, उनसे, उससे, इनसे, जिनसे, सबसे, मुझसे, हमसे, उनके</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Nom
       <ul>
         <li>ADJ: विशेष, पूर्व, मुख्य, अन्य, अंतिम, अलग, पूरा, पूरी, महत्वपूर्ण, भारी</li>
@@ -337,14 +437,22 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
 
 
 
 <h3>Degree and Polarity</h3>
 
 
+
+
 <li><a>Polarity</a>
+
   <ul>
     <li>Neg
       <ul>
@@ -352,12 +460,18 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Verbal Features</h3>
 
+
 <li><a>Aspect</a>
+
   <ul>
     <li>Imp
       <ul>
@@ -366,6 +480,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>VERB-Part: करते, देते, चाहते, देखते, होता, होती, चाहती, बताते, होते, करता</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Perf
       <ul>
         <li>ADP-Part: लिए</li>
@@ -376,9 +493,13 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Mood</a>
+
   <ul>
     <li>Imp
       <ul>
@@ -387,6 +508,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>VERB-Fin: करो, बताओ, जाओ, दो, बचाओ, लो</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>ADP-Fin: के</li>
@@ -395,6 +519,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>VERB-Fin: है, करेंगे, होगा, होगी, हैं, था, करेगी, करेगा, होंगे, मिलेगा</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sub
       <ul>
         <li>AUX-Fin: जाए, सके, जाएं, दें, हुए, रहे, सकें, लें, चुके, रहें</li>
@@ -404,9 +531,13 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Tense</a>
+
   <ul>
     <li>Fut
       <ul>
@@ -415,6 +546,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>VERB-Fin: करेंगे, होगा, होगी, करेगी, करेगा, होंगे, मिलेगा, रहेगा, मिलेगी, रहेंगे</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Past
       <ul>
         <li>ADP-Fin: के</li>
@@ -422,6 +556,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>VERB-Fin: था, थे, थी, थीं, थीः, भांपते</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pres
       <ul>
         <li>AUX-Fin: है, हैं, हूं, हूँ, हैँ</li>
@@ -429,9 +566,13 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Voice</a>
+
   <ul>
     <li>Act
       <ul>
@@ -446,6 +587,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>VERB-Part: कहा, किया, की, बताया, दिया, हुई, दी, हुआ, करते, किए</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pass
       <ul>
         <li>AUX-Fin: है, थी, हैं</li>
@@ -458,12 +602,18 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Dem
       <ul>
@@ -471,22 +621,34 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>PRON: इस, यह</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>DET: कुछ, कई, सभी, कम, ज्यादा, काफी, अधिक, और, हर, बहुत</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Int
       <ul>
         <li>DET: क्या, किस, किन, कितने, कौन, कितना, कितनी, क्‍या</li>
         <li>PRON: क्या, कैसे, क्यों, कब, कौन, कहाँ, कहां, किस, किसने, कैसा</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neg
       <ul>
         <li>PART: नहीं, न, बिना, बगैर, मत, नही</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
         <li>PRON: उन्होंने, इसके, यह, अपने, वह, कोई, उनके, अब, उन्हें, अपनी</li>
@@ -494,24 +656,35 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>NumType</a>
+
   <ul>
     <li>Card
       <ul>
         <li>NUM: एक, दो, तीन, दोनों, करोड़, चार, लाख, हजार, पांच, छह</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ord
       <ul>
         <li>ADJ: पहली, दूसरे, दूसरी, पहले, तीसरे, पहला, प्रथम, दूसरा, चौथे, तीसरी</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Poss</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -522,10 +695,15 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Person</a>
+
   <ul>
     <li>1
       <ul>
@@ -541,6 +719,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>VERB-Part: करते, चाहते, चाहता, चाहती, करता, की, आया, करा, कहती, चलाता</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>ADP: के</li>
@@ -556,6 +737,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>VERB-Part: करते, चाहते, खोलते, देते, समझते</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>ADJ: उत्तर, भूकंप, सुरक्षा, नक्सल, विश्व, दक्षिण, मानसून, अवकाश, चुनाव, कृषि</li>
@@ -586,9 +770,13 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Polite</a>
+
   <ul>
     <li>Form
       <ul>
@@ -608,6 +796,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>VERB-Part: चाहते, आए, करते, रहे, पहुंचे, गए, हुए, कहते, बताते, बने</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Infm
       <ul>
         <li>AUX-Fin: दो</li>
@@ -616,11 +807,17 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
 
+
+
 <h3>Other Features</h3>
+
 
 <li><a>AdpType</a>
   <ul>
@@ -635,6 +832,7 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
     </li>
   </ul>
 </li>
+
 <li><a>AdvType</a>
   <ul>
     <li>Deg
@@ -644,6 +842,7 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
     </li>
   </ul>
 </li>
+
 <li><a>Echo</a>
   <ul>
     <li>Rdp
@@ -660,6 +859,7 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
     </li>
   </ul>
 </li>
+
 <li><a>Foreign</a>
   <ul>
     <li>Yes
@@ -676,6 +876,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
 
 <ul>
 <li>This corpus uses 3 lemmas as copulas (<a>cop</a>). Examples: है, था, बशर्ते.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 63 lemmas as auxiliaries (<a>aux</a>). Examples: है, रह, जा, हो, था, दे, सक, ले, चुक, चाहिए, पा, कर, पड़, लग, पड, वाला, रख, आ, डाल, बैठ, उठ, गिरा, पड़, पहुंच, चुका, निकल, निकाल, बन, उच्च, उठा, चल, चाह, पहुँच, लगा, अवकाश, आव्रजन, एक, खडा, गुजर, घेर, जान, जैसा, दबोच, दिखा, दिया, धमक, नव, पहुंचा, फूंक, फेंक.</li>
 <li>This corpus uses 35 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: जा, है, था, रह, दे, सक, चाहिए, ले, चुक, हो, जान, चुका, रख, वाला, गिरा, चल, लग, कर, जाना, लगा, अमेरिकी, आ, एक, करा, गैर, जो, थी, दिया, निकाल, पड, पा, पड़, लिया, हों, ९७५१.</li>
 </ul>

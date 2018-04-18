@@ -70,7 +70,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADV` tokens may have the following values of `VerbForm`:
 
 * `Inf` (1; 100% of non-empty `VerbForm`): <em>så</em>
-* `EMPTY` (1395): <em>da, så, ikkje, jo, nå, der, vel, her, berre, altså</em>
+* `EMPTY` (1261): <em>da, så, jo, nå, der, vel, her, berre, altså, også</em>
 
 ### `CCONJ`
 
@@ -95,9 +95,9 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="no_nynorsklia-dep-conj.html">conj</a></tt>]--> VERB</tt> (196; 81%),
-<tt>VERB --[<tt><a href="no_nynorsklia-dep-parataxis-deletion.html">parataxis:deletion</a></tt>]--> VERB</tt> (47; 85%),
-<tt>VERB --[<tt><a href="no_nynorsklia-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (47; 94%),
+<tt>VERB --[<tt><a href="no_nynorsklia-dep-conj.html">conj</a></tt>]--> VERB</tt> (194; 81%),
+<tt>VERB --[<tt><a href="no_nynorsklia-dep-reparandum.html">reparandum</a></tt>]--> VERB</tt> (49; 94%),
+<tt>VERB --[<tt><a href="no_nynorsklia-dep-parataxis-deletion.html">parataxis:deletion</a></tt>]--> VERB</tt> (48; 86%),
 <tt>VERB --[<tt><a href="no_nynorsklia-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (40; 74%),
 <tt>VERB --[<tt><a href="no_nynorsklia-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (21; 54%),
 <tt>VERB --[<tt><a href="no_nynorsklia-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (4; 57%),

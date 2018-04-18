@@ -14,7 +14,7 @@ There are also 1 other language-specific subtypes of `nummod`: <tt><a href="ru_s
 63 instances of `nummod:entity` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.41269841269841.
 
-The following 5 pairs of parts of speech are connected with `nummod:entity`: <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt> (33; 52% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (18; 29% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt> (8; 13% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (3; 5% instances), <tt><a href="ru_syntagrus-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt> (1; 2% instances).
+The following 4 pairs of parts of speech are connected with `nummod:entity`: <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt> (37; 59% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt> (18; 29% instances), <tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ru_syntagrus-pos-SYM.html">SYM</a></tt> (5; 8% instances), <tt><a href="ru_syntagrus-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ru_syntagrus-pos-PROPN.html">PROPN</a></tt> (3; 5% instances).
 
 
 ~~~ conllu
@@ -27,12 +27,12 @@ The following 5 pairs of parts of speech are connected with `nummod:entity`: <tt
 2	такими	такой	DET	_	Case=Ins|Number=Plur	3	det	3:det	_
 3	мыслями	мысль	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	5	obl	5:obl	_
 4	Люда	люда	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	5:nsubj	_
-5	вошла	входить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
+5	вошла	войти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	0:root	_
 6	в	в	ADP	_	_	7	case	7:case	_
 7	комнату	комната	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	5	obl	5:obl	_
 8	№	№	SYM	_	_	7	nummod:entity	7:nummod:entity	_
 9	387	387	NUM	_	_	8	nummod	8:nummod	SpaceAfter=No
-10	.	.	PUNCT	_	_	9	punct	9:punct	_
+10	.	.	PUNCT	_	_	5	punct	5:punct	_
 
 ~~~
 
@@ -48,7 +48,7 @@ The following 5 pairs of parts of speech are connected with `nummod:entity`: <tt
 3	номер	номер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nummod:entity	2:nummod:entity	_
 4	девять	девять	NUM	_	Case=Nom	3	nummod:gov	3:nummod:gov	SpaceAfter=No
 5	"	"	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
-6	.	.	PUNCT	_	_	4	punct	4:punct	_
+6	.	.	PUNCT	_	_	1	punct	1:punct	_
 
 ~~~
 
@@ -56,43 +56,34 @@ The following 5 pairs of parts of speech are connected with `nummod:entity`: <tt
 ~~~ conllu
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 8 nummod:entity	color:blue
-1	(	(	PUNCT	_	_	2	punct	2:punct	SpaceAfter=No
-2	См.	смотреть	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	0	root	0:root	_
-3	"	"	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No
-4	Наука	наука	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	obl	2:obl	_
-5	и	и	CCONJ	_	_	6	cc	6:cc	_
-6	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	conj	4:conj	SpaceAfter=No
-7	"	"	PUNCT	_	_	6	punct	6:punct	_
-8	№№	№№	SYM	_	_	4	nummod:entity	4:nummod	_
-9	9	9	NUM	_	_	8	nummod	8:nummod	SpaceAfter=No
-10	,	,	PUNCT	_	_	9	punct	9:punct	_
-11	12	12	NUM	_	_	9	conj	9:conj	SpaceAfter=No
-12	,	,	PUNCT	_	_	11	punct	11:punct	_
-13	2004	2004	NUM	_	_	14	nummod	14:nummod	_
-14	г	год	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	conj	8:conj	SpaceAfter=No
-15	.	.	PUNCT	_	_	14	punct	14:punct	SpaceAfter=No
-16	;	;	PUNCT	_	_	14	punct	14:punct	_
-17	и	и	CCONJ	_	_	18	cc	18:cc	_
-18	№№	№№	SYM	_	_	8	conj	8:conj	_
-19	1	1	NUM	_	_	18	nummod	18:nummod	SpaceAfter=No
-20	,	,	PUNCT	_	_	19	punct	19:punct	_
-21	2	2	NUM	_	_	19	conj	19:conj	SpaceAfter=No
-22	,	,	PUNCT	_	_	21	punct	21:punct	_
-23	3	3	NUM	_	_	19	conj	19:conj	SpaceAfter=No
-24	,	,	PUNCT	_	_	23	punct	23:punct	_
-25	4	4	NUM	_	_	19	conj	19:conj	SpaceAfter=No
-26	,	,	PUNCT	_	_	25	punct	25:punct	_
-27	5	5	NUM	_	_	19	conj	19:conj	SpaceAfter=No
-28	,	,	PUNCT	_	_	27	punct	27:punct	_
-29	9	9	NUM	_	_	19	conj	19:conj	SpaceAfter=No
-30	,	,	PUNCT	_	_	29	punct	29:punct	_
-31	2005	2005	NUM	_	_	32	nummod	32:nummod	_
-32	г	год	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	8	conj	8:conj	SpaceAfter=No
-33	.	.	PUNCT	_	_	32	punct	32:punct	SpaceAfter=No
-34	)	)	PUNCT	_	_	32	punct	32:punct	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 8 nummod:entity	color:blue
+1	Нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+2	и	и	PART	_	_	3	advmod	3:advmod	_
+3	серийных	серийный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	4	amod	4:amod	_
+4	суперкаров	суперкар	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1	nsubj	1:nsubj	_
+5	Marussia	marussia	PROPN	_	Foreign=Yes	4	flat:foreign	4:flat:foreign	_
+6	(	(	PUNCT	_	_	7	punct	7:punct	SpaceAfter=No
+7	АР	ар	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	parataxis	4:parataxis	_
+8	№	№	SYM	_	_	7	nummod:entity	7:nummod:entity	_
+9	1	1	NUM	_	_	8	nummod	8:nummod	SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	11:punct	_
+11	2009	2009	NUM	_	_	8	conj	8:conj	SpaceAfter=No
+12	)	)	PUNCT	_	_	7	punct	7:punct	SpaceAfter=No
+13	,	,	PUNCT	_	_	11	punct	11:punct	_
+14	объем	объем	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	20	nsubj	20:nsubj	_
+15	выпуска	выпуск	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	14	nmod	14:nmod	_
+16	которых	который	PRON	_	Case=Gen	14	nmod	14:nmod	_
+17	в	в	ADP	_	_	19	case	19:case	_
+18	2010	2010	NUM	_	_	19	nummod	19:nummod	_
+19	году	год	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	20	obl	20:obl	_
+20	должен	должен	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	4	acl:relcl	4:acl:relcl	_
+21	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	20	cop	20:cop	_
+22	достичь	достичь	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	20	xcomp	20:xcomp	_
+23	1200	1200	NUM	_	_	24	nummod	24:nummod	_
+24	штук	штука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	22	obl	22:obl	SpaceAfter=No
+25	…	…	PUNCT	_	_	20	punct	20:punct	_
 
 ~~~
 

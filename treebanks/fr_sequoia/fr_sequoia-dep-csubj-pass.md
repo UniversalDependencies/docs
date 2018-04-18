@@ -43,7 +43,7 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 19	état	état	NOUN	_	Gender=Masc|Number=Sing	16	xcomp	_	_
 20	pour	pour	ADP	_	_	22	case	_	_
 21	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
-22	moment	moment	NOUN	_	Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
+22	moment	moment	NOUN	_	Gender=Masc|Number=Sing	16	obl:mod	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~

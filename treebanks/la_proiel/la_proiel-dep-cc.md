@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-12443 nodes (7%) are attached to their parents as `cc`.
+14559 nodes (7%) are attached to their parents as `cc`.
 
-8566 instances of `cc` (69%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.33014546331271.
+10315 instances of `cc` (71%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.31650525448176.
 
-The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (7714; 62% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (2672; 21% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (815; 7% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (476; 4% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (255; 2% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (170; 1% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (127; 1% instances), <tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (125; 1% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (42; 0% instances), <tt><a href="la_proiel-pos-X.html">X</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (19; 0% instances), <tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (11; 0% instances), <tt><a href="la_proiel-pos-INTJ.html">INTJ</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (10; 0% instances), <tt><a href="la_proiel-pos-DET.html">DET</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (5; 0% instances), <tt><a href="la_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances).
+The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (8470; 58% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (3474; 24% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (1186; 8% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (509; 3% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (289; 2% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (228; 2% instances), <tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (154; 1% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (140; 1% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (58; 0% instances), <tt><a href="la_proiel-pos-X.html">X</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (20; 0% instances), <tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (11; 0% instances), <tt><a href="la_proiel-pos-INTJ.html">INTJ</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (10; 0% instances), <tt><a href="la_proiel-pos-DET.html">DET</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (8; 0% instances), <tt><a href="la_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -27,7 +27,7 @@ The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="
 3	esuriunt	esurio	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	nsubj	_	ref=MATT_5.6
 4	et	et	CCONJ	C-	_	3	cc	_	ref=MATT_5.6
 5	sitiunt	sitio	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	ref=MATT_5.6
-6	iustitiam	iustitia	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj:dir	_	ref=MATT_5.6
+6	iustitiam	iustitia	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	ref=MATT_5.6
 7	quoniam	quoniam	SCONJ	G-	_	9	mark	_	ref=MATT_5.6
 8	ipsi	ipse	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	nsubj:pass	_	ref=MATT_5.6
 9	saturabuntur	saturo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Pass	1	advcl	_	ref=MATT_5.6
@@ -46,7 +46,7 @@ The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="
 3	quoniam	quoniam	SCONJ	G-	_	4	mark	_	ref=MATT_5.17
 4	veni	venio	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	ref=MATT_5.17
 5	solvere	solvo	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	4	advcl	_	ref=MATT_5.17
-6	legem	lex	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj:dir	_	ref=MATT_5.17
+6	legem	lex	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	ref=MATT_5.17
 7	aut	aut	CCONJ	C-	_	6	cc	_	ref=MATT_5.17
 8	prophetas	propheta	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	6	conj	_	ref=MATT_5.17
 

@@ -19,39 +19,39 @@ The 10 most frequent ambiguous types:  <em>var</em> (<tt><a href="no_nynorsklia-
 
 
 * <em>var</em>
-  * <tt><a href="no_nynorsklia-pos-AUX.html">AUX</a></tt> 284: <em>den tid <b>var</b> det jo tennpluggar og # vanleg .</em>
-  * <tt><a href="no_nynorsklia-pos-VERB.html">VERB</a></tt> 213: <em>nei det <b>var</b> nå i tredvetala det .</em>
+  * <tt><a href="no_nynorsklia-pos-AUX.html">AUX</a></tt> 284: <em><b>var</b> det samlestasjonar det da ?</em>
+  * <tt><a href="no_nynorsklia-pos-VERB.html">VERB</a></tt> 213: <em>ja det første eg begynte # det <b>var</b> # i femogtjue .</em>
 * <em>er</em>
-  * <tt><a href="no_nynorsklia-pos-AUX.html">AUX</a></tt> 64: <em>e du må nok gi p- to hundre tusen for ein men den <b>er</b> større da .</em>
-  * <tt><a href="no_nynorsklia-pos-VERB.html">VERB</a></tt> 35: <em>og så nå <b>er</b> det jo ein heilt annan diesel .</em>
+  * <tt><a href="no_nynorsklia-pos-AUX.html">AUX</a></tt> 64: <em>å ikkje var det så mykje bygd som det <b>er</b> nå .</em>
+  * <tt><a href="no_nynorsklia-pos-VERB.html">VERB</a></tt> 35: <em>var tyskerane <b>er</b> p- # full heile vegen med tyskarar .</em>
 * <em>har</em>
-  * <tt><a href="no_nynorsklia-pos-AUX.html">AUX</a></tt> 40: <em>ja # der <b>har</b> eg vore .</em>
-  * <tt><a href="no_nynorsklia-pos-VERB.html">VERB</a></tt> 17: <em>ja # og vi <b>har</b> … .</em>
+  * <tt><a href="no_nynorsklia-pos-AUX.html">AUX</a></tt> 40: <em>atten øre er billegaste eg <b>har</b> kjøpt .</em>
+  * <tt><a href="no_nynorsklia-pos-VERB.html">VERB</a></tt> 17: <em>mjølkeforsyninga <b>har</b> ma- # trur eg <b>har</b> mange hestar i dag au .</em>
 * <em>måtte</em>
-  * <tt><a href="no_nynorsklia-pos-AUX.html">AUX</a></tt> 34: <em><b>måtte</b> du reise med på ein sånn tur .</em>
-  * <tt><a href="no_nynorsklia-pos-VERB.html">VERB</a></tt> 10: <em>for da <b>måtte</b> du ut til å arbeide .</em>
+  * <tt><a href="no_nynorsklia-pos-AUX.html">AUX</a></tt> 34: <em>det var jo alle slags folk det han <b>måtte</b> vere i saman med .</em>
+  * <tt><a href="no_nynorsklia-pos-VERB.html">VERB</a></tt> 10: <em>så da <b>måtte</b> … .</em>
 * <em>kunne</em>
   * <tt><a href="no_nynorsklia-pos-AUX.html">AUX</a></tt> 21: <em>og det <b>kunne</b> vere ein ti femten kasser det .</em>
-  * <tt><a href="no_nynorsklia-pos-VERB.html">VERB</a></tt> 9: <em>og folk <b>kunne</b> jo .</em>
+  * <tt><a href="no_nynorsklia-pos-VERB.html">VERB</a></tt> 9: <em>eg rekna ut det at eg <b>kunne</b> var det # var sju øre liter .</em>
 * <em>kan</em>
-  * <tt><a href="no_nynorsklia-pos-AUX.html">AUX</a></tt> 20: <em>eg <b>kan</b> forklare det dei messom e .</em>
-  * <tt><a href="no_nynorsklia-pos-VERB.html">VERB</a></tt> 6: <em><b>kan</b> jo med dieselen nå det var jo ikkje .</em>
+  * <tt><a href="no_nynorsklia-pos-AUX.html">AUX</a></tt> 20: <em>nei det <b>kan</b> eg ikkje seie .</em>
+  * <tt><a href="no_nynorsklia-pos-VERB.html">VERB</a></tt> 6: <em>det var vel kanskje skal seie # ja ja eg <b>kan</b> jo .</em>
 * <em>skulle</em>
-  * <tt><a href="no_nynorsklia-pos-AUX.html">AUX</a></tt> 16: <em>og <b>skulle</b> reise heim om laurdagen .</em>
-  * <tt><a href="no_nynorsklia-pos-VERB.html">VERB</a></tt> 4: <em>også heim til dei <b>skulle</b> til Mehamn e ja det var til Mehamn .</em>
+  * <tt><a href="no_nynorsklia-pos-AUX.html">AUX</a></tt> 16: <em>da var det ein s- fem stykke som <b>skulle</b> rømme til Sverige .</em>
+  * <tt><a href="no_nynorsklia-pos-VERB.html">VERB</a></tt> 4: <em>å så e sånn var det når vi # <b>skulle</b> til byen med mjølka .</em>
 * <em>vere</em>
   * <tt><a href="no_nynorsklia-pos-AUX.html">AUX</a></tt> 12: <em>og det kunne <b>vere</b> ein ti femten kasser det .</em>
   * <tt><a href="no_nynorsklia-pos-VERB.html">VERB</a></tt> 11: <em>det var jo alle slags folk det han måtte <b>vere</b> i saman med .</em>
 * <em>blei</em>
-  * <tt><a href="no_nynorsklia-pos-VERB.html">VERB</a></tt> 27: <em>ja eg slutta jo da eg <b>blei</b> # da eg <b>blei</b> sytti år eg veit du .</em>
+  * <tt><a href="no_nynorsklia-pos-VERB.html">VERB</a></tt> 27: <em>køyre buss og da <b>blei</b> det heitte # Øss- b- Eidsberg bilruter .</em>
   * <tt><a href="no_nynorsklia-pos-AUX.html">AUX</a></tt> 10: <em><b>blei</b> du kontrollert ?</em>
 * <em>hadde</em>
-  * <tt><a href="no_nynorsklia-pos-VERB.html">VERB</a></tt> 101: <em>enn em enn den her som ein eg <b>hadde</b> .</em>
+  * <tt><a href="no_nynorsklia-pos-VERB.html">VERB</a></tt> 101: <em>og da # kj- <b>hadde</b> eg Forden # eg <b>hadde</b> Forden da au .</em>
   * <tt><a href="no_nynorsklia-pos-AUX.html">AUX</a></tt> 9: <em><b>hadde</b> eg lest opp mjølka # og e .</em>
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 2.625000 (the average of all parts of speech is 1.235467).
+The form / lemma ratio of `AUX` is 2.625000 (the average of all parts of speech is 1.234089).
 
 The 1st highest number of forms (4) was observed with the lemma “vere”: <em>er, var, vere, vore</em>.
 

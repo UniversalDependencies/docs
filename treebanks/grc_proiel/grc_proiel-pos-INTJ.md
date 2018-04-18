@@ -6,7 +6,7 @@ udver: '2'
 
 ## Treebank Statistics: UD_Ancient_Greek-PROIEL: POS Tags: `INTJ`
 
-There are 12 `INTJ` lemmas (0%), 19 `INTJ` types (0%) and 545 `INTJ` tokens (0%).
+There are 12 `INTJ` lemmas (0%), 19 `INTJ` types (0%) and 552 `INTJ` tokens (0%).
 Out of 14 observed tags, the rank of `INTJ` is: 12 in number of lemmas, 13 in number of types and 13 in number of tokens.
 
 The 10 most frequent `INTJ` lemmas: <em>ἰδοὺ, ἀμήν, ὦ, οὐαί, ναί, δεῦτε, δεῦρο, ὡσαννά, ἁλληλουϊά, ὄφελον</em>
@@ -15,11 +15,11 @@ The 10 most frequent `INTJ` types:  <em>ἰδοὺ, ὦ, ἀμὴν, οὐαὶ,
 
 The 10 most frequent ambiguous lemmas: <em>οὐαί</em> (<tt><a href="grc_proiel-pos-INTJ.html">INTJ</a></tt> 41, <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> 4), <em>δεῦρο</em> (<tt><a href="grc_proiel-pos-INTJ.html">INTJ</a></tt> 8, <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>ὦ</em> (<tt><a href="grc_proiel-pos-INTJ.html">INTJ</a></tt> 109, <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> 2), <em>οὐαὶ</em> (<tt><a href="grc_proiel-pos-INTJ.html">INTJ</a></tt> 30, <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> 4), <em>δεῦρο</em> (<tt><a href="grc_proiel-pos-INTJ.html">INTJ</a></tt> 8, <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> 1), <em>ὄφελον</em> (<tt><a href="grc_proiel-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> 1), <em>ἔα</em> (<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> 8, <tt><a href="grc_proiel-pos-INTJ.html">INTJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>ὦ</em> (<tt><a href="grc_proiel-pos-INTJ.html">INTJ</a></tt> 116, <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> 2), <em>οὐαὶ</em> (<tt><a href="grc_proiel-pos-INTJ.html">INTJ</a></tt> 30, <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> 4), <em>δεῦρο</em> (<tt><a href="grc_proiel-pos-INTJ.html">INTJ</a></tt> 8, <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> 1), <em>ὄφελον</em> (<tt><a href="grc_proiel-pos-INTJ.html">INTJ</a></tt> 2, <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> 1), <em>ἔα</em> (<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> 8, <tt><a href="grc_proiel-pos-INTJ.html">INTJ</a></tt> 1)
 
 
 * <em>ὦ</em>
-  * <tt><a href="grc_proiel-pos-INTJ.html">INTJ</a></tt> 109: <em><b>ὦ</b> δέσποτα ἐγὼ ταῦτα τοῦτον ἐποίησα σὺν δίκῃ</em>
+  * <tt><a href="grc_proiel-pos-INTJ.html">INTJ</a></tt> 116: <em><b>ὦ</b> δέσποτα ἐγὼ ταῦτα τοῦτον ἐποίησα σὺν δίκῃ</em>
   * <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> 2: <em>ὅταν ἐν τῷ κόσμῳ <b>ὦ</b> φῶς εἰμι τοῦ κόσμου</em>
 * <em>οὐαὶ</em>
   * <tt><a href="grc_proiel-pos-INTJ.html">INTJ</a></tt> 30: <em>Πλὴν <b>οὐαὶ</b> ὑμῖν τοῖς πλουσίοις ὅτι ἀπέχετε τὴν παράκλησιν ὑμῶν</em>
@@ -36,7 +36,7 @@ The 10 most frequent ambiguous types:  <em>ὦ</em> (<tt><a href="grc_proiel-pos
 
 ## Morphology
 
-The form / lemma ratio of `INTJ` is 1.583333 (the average of all parts of speech is 3.429154).
+The form / lemma ratio of `INTJ` is 1.583333 (the average of all parts of speech is 3.435571).
 
 The 1st highest number of forms (2) was observed with the lemma “ναί”: <em>ναί, ναὶ</em>.
 
@@ -49,11 +49,11 @@ The 3rd highest number of forms (2) was observed with the lemma “ἀμήν”:
 
 ## Relations
 
-`INTJ` nodes are attached to their parents using 10 different relations: <tt><a href="grc_proiel-dep-vocative.html">vocative</a></tt> (348; 64% instances), <tt><a href="grc_proiel-dep-discourse.html">discourse</a></tt> (115; 21% instances), <tt><a href="grc_proiel-dep-root.html">root</a></tt> (69; 13% instances), <tt><a href="grc_proiel-dep-nsubj.html">nsubj</a></tt> (6; 1% instances), <tt><a href="grc_proiel-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="grc_proiel-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="grc_proiel-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="grc_proiel-dep-obj-dir.html">obj:dir</a></tt> (1; 0% instances), <tt><a href="grc_proiel-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="grc_proiel-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
+`INTJ` nodes are attached to their parents using 10 different relations: <tt><a href="grc_proiel-dep-vocative.html">vocative</a></tt> (348; 63% instances), <tt><a href="grc_proiel-dep-discourse.html">discourse</a></tt> (122; 22% instances), <tt><a href="grc_proiel-dep-root.html">root</a></tt> (69; 13% instances), <tt><a href="grc_proiel-dep-nsubj.html">nsubj</a></tt> (6; 1% instances), <tt><a href="grc_proiel-dep-conj.html">conj</a></tt> (2; 0% instances), <tt><a href="grc_proiel-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="grc_proiel-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="grc_proiel-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="grc_proiel-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="grc_proiel-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `INTJ` nodes belong to 10 different parts of speech: <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (296; 54% instances), <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> (116; 21% instances),  (69; 13% instances), <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> (21; 4% instances), <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt> (10; 2% instances), <tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> (8; 1% instances), <tt><a href="grc_proiel-pos-INTJ.html">INTJ</a></tt> (8; 1% instances), <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> (5; 1% instances)
+Parents of `INTJ` nodes belong to 10 different parts of speech: <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (295; 53% instances), <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> (118; 21% instances),  (69; 13% instances), <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> (22; 4% instances), <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt> (14; 3% instances), <tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> (9; 2% instances), <tt><a href="grc_proiel-pos-INTJ.html">INTJ</a></tt> (8; 1% instances), <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> (7; 1% instances), <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> (5; 1% instances)
 
-484 (89%) `INTJ` nodes are leaves.
+491 (89%) `INTJ` nodes are leaves.
 
 18 (3%) `INTJ` nodes have one child.
 

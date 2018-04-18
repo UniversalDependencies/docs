@@ -65,7 +65,7 @@ The following 4 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 2	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	_
 3	blitt	bli	ADJ	_	Definite=Ind|Gender=Neut|Number=Sing|VerbForm=Part	4	aux:pass	_	_
 4	nyansert	nyansere	ADJ	_	Definite=Ind|Gender=Neut|Number=Sing|VerbForm=Part	0	root	_	_
-5	ved	ved	ADP	_	_	9	mark	_	_
+5	ved	ved	SCONJ	_	_	9	mark	_	_
 6	at	at	SCONJ	_	_	9	mark	_	_
 7	ein	ein	PRON	_	Animacy=Hum|Number=Sing|PronType=Art,Prs	9	nsubj	_	_
 8	har	ha	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux	_	_

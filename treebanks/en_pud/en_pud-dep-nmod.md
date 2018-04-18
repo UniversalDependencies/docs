@@ -23,21 +23,21 @@ The following 33 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 4 nmod	color:blue
-1	Investments	investment	NOUN	NNS	Number=Plur	6	nsubj	_	_
-2	in	in	ADP	IN	_	4	case	_	_
-3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	_	_
-4	area	area	NOUN	NN	Number=Sing	1	nmod	_	_
-5	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	cop	_	_
-6	up	up	ADV	RB	_	0	root	_	_
-7	by	by	ADP	IN	_	9	case	_	_
-8	6	6	NUM	CD	NumType=Card	9	nummod	_	SpaceAfter=No
-9	%	%	SYM	NN	Number=Sing	6	obl	_	_
-10	in	in	ADP	IN	_	11	case	_	_
-11	2015	2015	NUM	CD	NumType=Card	6	obl	_	_
-12	to	to	ADP	IN	_	13	case	_	_
-13	$	$	SYM	$	_	6	obl	_	SpaceAfter=No
-14	221bn	221bn	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No
-15	.	.	PUNCT	.	_	6	punct	_	_
+1	Investments	investment	NOUN	NNS	Number=Plur	6	nsubj	6:nsubj	_
+2	in	in	ADP	IN	_	4	case	4:case	_
+3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	4:det	_
+4	area	area	NOUN	NN	Number=Sing	1	nmod	1:nmod:in	_
+5	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	cop	6:cop	_
+6	up	up	ADV	RB	_	0	root	0:root	_
+7	by	by	ADP	IN	_	9	case	9:case	_
+8	6	6	NUM	CD	NumType=Card	9	nummod	9:nummod	SpaceAfter=No
+9	%	%	SYM	NN	Number=Sing	6	obl	6:obl:by	_
+10	in	in	ADP	IN	_	11	case	11:case	_
+11	2015	2015	NUM	CD	NumType=Card	6	obl	6:obl:in	_
+12	to	to	ADP	IN	_	13	case	13:case	_
+13	$	$	SYM	$	_	6	obl	6:obl:to	SpaceAfter=No
+14	221bn	221bn	NUM	CD	NumType=Card	13	nummod	13:nummod	SpaceAfter=No
+15	.	.	PUNCT	.	_	6	punct	6:punct	_
 
 ~~~
 
@@ -48,14 +48,14 @@ The following 33 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 7 nmod	color:blue
-1	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	_
-2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
-3	by	by	ADP	IN	_	4	case	_	_
-4	boat	boat	NOUN	NN	Number=Sing	0	root	_	_
-5	from	from	ADP	IN	_	7	case	_	_
-6	continental	continental	ADJ	JJ	Degree=Pos	7	amod	_	_
-7	Europe	Europe	PROPN	NNP	Number=Sing	4	nmod	_	SpaceAfter=No
-8	.	.	PUNCT	.	_	4	punct	_	_
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	4:nsubj	_
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	4:cop	_
+3	by	by	ADP	IN	_	4	case	4:case	_
+4	boat	boat	NOUN	NN	Number=Sing	0	root	0:root	_
+5	from	from	ADP	IN	_	7	case	7:case	_
+6	continental	continental	ADJ	JJ	Degree=Pos	7	amod	7:amod	_
+7	Europe	Europe	PROPN	NNP	Number=Sing	4	nmod	4:nmod:from	SpaceAfter=No
+8	.	.	PUNCT	.	_	4	punct	4:punct	_
 
 ~~~
 
@@ -66,19 +66,19 @@ The following 33 pairs of parts of speech are connected with `nmod`: <tt><a href
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 12 nmod	color:blue
-1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	_	_
-2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
-3	conducted	conduct	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-4	just	just	ADV	RB	_	8	advmod	_	_
-5	off	off	ADP	IN	_	8	case	_	_
-6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	_
-7	Mexican	mexican	ADJ	JJ	Degree=Pos	8	amod	_	Proper=True
-8	coast	coast	NOUN	NN	Number=Sing	3	obl	_	_
-9	from	from	ADP	IN	_	10	case	_	_
-10	April	April	PROPN	NNP	Number=Sing	3	obl	_	_
-11	to	to	ADP	IN	_	12	case	_	_
-12	June	June	PROPN	NNP	Number=Sing	10	nmod	_	SpaceAfter=No
-13	.	.	PUNCT	.	_	3	punct	_	_
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	3:nsubj:pass	_
+2	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	3:aux:pass	_
+3	conducted	conduct	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+4	just	just	ADV	RB	_	8	advmod	8:advmod	_
+5	off	off	ADP	IN	_	8	case	8:case	_
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	8:det	_
+7	Mexican	mexican	ADJ	JJ	Degree=Pos	8	amod	8:amod	Proper=True
+8	coast	coast	NOUN	NN	Number=Sing	3	obl	3:obl:off	_
+9	from	from	ADP	IN	_	10	case	10:case	_
+10	April	April	PROPN	NNP	Number=Sing	3	obl	3:obl:from	_
+11	to	to	ADP	IN	_	12	case	12:case	_
+12	June	June	PROPN	NNP	Number=Sing	10	nmod	10:nmod:to	SpaceAfter=No
+13	.	.	PUNCT	.	_	3	punct	3:punct	_
 
 ~~~
 

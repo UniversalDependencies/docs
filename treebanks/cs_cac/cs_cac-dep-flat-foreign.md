@@ -8,74 +8,71 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="cs_cac-dep-flat.html">flat</a></tt>.
 
-142 nodes (0%) are attached to their parents as `flat:foreign`.
+137 nodes (0%) are attached to their parents as `flat:foreign`.
 
-88 instances of `flat:foreign` (62%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.38732394366197.
+137 instances of `flat:foreign` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.37226277372263.
 
-The following 23 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (35; 25% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> (18; 13% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (17; 12% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (14; 10% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> (14; 10% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (7; 5% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-PART.html">PART</a></tt> (6; 4% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (5; 4% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (4; 3% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> (4; 3% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-DET.html">DET</a></tt> (3; 2% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_cac-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 26 pairs of parts of speech are connected with `flat:foreign`: <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (25; 18% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (20; 15% instances), <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (19; 14% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (12; 9% instances), <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (9; 7% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (8; 6% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (7; 5% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> (5; 4% instances), <tt><a href="cs_cac-pos-PART.html">PART</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (4; 3% instances), <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (3; 2% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt>-<tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-PART.html">PART</a></tt> (2; 1% instances), <tt><a href="cs_cac-pos-PART.html">PART</a></tt>-<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt>-<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="cs_cac-pos-ADP.html">ADP</a></tt>-<tt><a href="cs_cac-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="cs_cac-pos-ADV.html">ADV</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt>-<tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="cs_cac-pos-PART.html">PART</a></tt>-<tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt>-<tt><a href="cs_cac-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt>-<tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 flat:foreign	color:blue
+1	Týlní	týlní	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	2	amod	2:amod	_
+2	otvor	otvor	NOUN	NNIS1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	11	nsubj	11:nsubj	SpaceAfter=No
+3	,	,	PUNCT	Z:-------------	_	4	punct	4:punct	_
+4	foramen	foramen	NOUN	NNNS1-----A----	Case=Nom|Foreign=Yes|Gender=Neut|Number=Sing|Polarity=Pos	2	appos	2:appos	_
+5	magnum	magnus	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Foreign=Yes|Gender=Neut|Number=Sing|Polarity=Pos	4	flat:foreign	4:flat:foreign	SpaceAfter=No
+6	,	,	PUNCT	Z:-------------	_	4	punct	4:punct	_
+7	bývá	bývat	AUX	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	11:cop	_
+8	u	u	ADP	RR--2----------	AdpType=Prep|Case=Gen	9	case	9:case	LId=u-1
+9	ptáků	pták	NOUN	NNMP2-----A----	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	11	obl:arg	11:obl:arg	_
+10	poměrně	poměrně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	11	advmod	11:advmod	LDeriv=poměrný
+11	velký	velký	ADJ	AAIS1----1A----	Animacy=Inan|Case=Nom|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	0	root	0:root	SpaceAfter=No
+12	.	.	PUNCT	Z:-------------	_	11	punct	11:punct	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 7 6 flat:foreign	color:blue
-1	Hostům	host	NOUN	NNMP3-----A----	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur|Polarity=Pos	4	obj	_	_
-2	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	3	case	_	LId=na-1
-3	*	*	SYM	Xx-------------	Abbr=Yes	4	advmod	_	_
-4	nepomohla	pomoci	VERB	VpQW---XR-NA---	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-5	ani	ani	CCONJ	J^-------------	_	7	advmod:emph	_	_
-6	power	power	ADJ	AAXXX----1A----	Degree=Pos|Foreign=Yes|Polarity=Pos	7	flat:foreign	_	_
-7	play	play	NOUN	NNFXX-----A----	Foreign=Yes|Gender=Fem|Polarity=Pos	4	nsubj	_	SpaceAfter=No|LId=play-1
-8	.	.	PUNCT	Z:-------------	_	4	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 flat:foreign	color:blue
+1	Hostům	host	NOUN	NNMP3-----A----	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur|Polarity=Pos	4	obj	4:obj	_
+2	na	na	ADP	RR--4----------	AdpType=Prep|Case=Acc	3	case	3:case	LId=na-1
+3	*	*	SYM	Xx-------------	Abbr=Yes	4	advmod	4:advmod	_
+4	nepomohla	pomoci	VERB	VpQW---XR-NA---	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Neg|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
+5	ani	ani	CCONJ	J^-------------	_	6	advmod:emph	6:advmod:emph	_
+6	power	power	ADJ	AAXXX----1A----	Degree=Pos|Foreign=Yes|Polarity=Pos	4	nsubj	4:nsubj	_
+7	play	play	NOUN	NNFXX-----A----	Foreign=Yes|Gender=Fem|Polarity=Pos	6	flat:foreign	6:flat:foreign	SpaceAfter=No|LId=play-1
+8	.	.	PUNCT	Z:-------------	_	4	punct	4:punct	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
-# visual-style 10 9 flat:foreign	color:blue
-1	Všechny	všechno	PRON	PLIP1----------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	2	nmod	_	_
-2	druhy	druh	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	4	nsubj	_	LId=druh-1|LGloss=(typ)
-3	jedenáctistovek	jedenáctistovka	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	2	nmod	_	_
-4	byly	být	VERB	VpTP---XR-AA---	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-5	vždy	vždy	ADV	Db-------------	PronType=Tot	4	advmod	_	_
-6	jen	jen	PART	TT-------------	_	8	advmod:emph	_	LId=jen-1|LGloss=(pouze)
-7	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	8	case	_	LId=v-1
-8	provedení	provedení	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	4	obl	_	LDeriv=provést
-9	de	de	ADP	RR--X----------	AdpType=Prep|Foreign=Yes	10	flat:foreign	_	_
-10	luxe	luxe	NOUN	NNXXX-----A----	Foreign=Yes|Polarity=Pos	8	nmod	_	_
-11	.	.	PUNCT	Z:-------------	_	4	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 14 flat:foreign	color:blue
-1	Jemný	jemný	ADJ	AAIS4----1A----	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	2	amod	_	_
-2	způsob	způsob	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	4	obj	_	_
-3	peelingu	peeling	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Foreign=Yes|Gender=Masc|Number=Sing|Polarity=Pos	2	nmod	_	_
-4	představuje	představovat	VERB	VB-S---3P-AA---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-5	směs	směs	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	4	nsubj	_	_
-6	mandlových	mandlový	ADJ	AAFP2----1A----	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur|Polarity=Pos	7	amod	_	_
-7	otrub	otruby	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	5	nmod	_	_
-8	a	a	CCONJ	J^-------------	_	10	cc	_	LId=a-1
-9	mořského	mořský	ADJ	AAIS2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	10	amod	_	_
-10	písku	písek	NOUN	NNIS2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Polarity=Pos	7	conj	_	SpaceAfter=No
-11	,	,	PUNCT	Z:-------------	_	5	punct	_	_
-12	grains	grains	NOUN	NNIPX-----A----	Animacy=Inan|Foreign=Yes|Gender=Masc|Number=Plur|Polarity=Pos	5	dep	_	_
-13	de	de	ADP	RR--1----------	AdpType=Prep|Case=Nom|Foreign=Yes	12	flat:foreign	_	LGloss=(z_franc._de,_zejm._ve_jménech)
-14	beauté	beauté	NOUN	NNFXX-----A----	Foreign=Yes|Gender=Fem|Polarity=Pos	12	flat:foreign	_	SpaceAfter=No
-15	.	.	PUNCT	Z:-------------	_	4	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 flat:foreign	color:blue
+1	Všechny	všechno	PRON	PLIP1----------	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|PronType=Tot	2	nmod	2:nmod	_
+2	druhy	druh	NOUN	NNIP1-----A----	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur|Polarity=Pos	4	nsubj	4:nsubj	LId=druh-1|LGloss=(typ)
+3	jedenáctistovek	jedenáctistovka	NOUN	NNFP2-----A----	Case=Gen|Gender=Fem|Number=Plur|Polarity=Pos	2	nmod	2:nmod	_
+4	byly	být	VERB	VpTP---XR-AA---	Animacy=Inan|Gender=Fem,Masc|Number=Plur|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
+5	vždy	vždy	ADV	Db-------------	PronType=Tot	4	advmod	4:advmod	_
+6	jen	jen	PART	TT-------------	_	8	advmod:emph	8:advmod:emph	LId=jen-1|LGloss=(pouze)
+7	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	8	case	8:case	LId=v-1
+8	provedení	provedení	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	4	obl	4:obl	LDeriv=provést
+9	de	de	ADP	RR--X----------	AdpType=Prep|Foreign=Yes	8	nmod	8:nmod	_
+10	luxe	luxe	NOUN	NNXXX-----A----	Foreign=Yes|Polarity=Pos	9	flat:foreign	9:flat:foreign	_
+11	.	.	PUNCT	Z:-------------	_	4	punct	4:punct	_
 
 ~~~
 

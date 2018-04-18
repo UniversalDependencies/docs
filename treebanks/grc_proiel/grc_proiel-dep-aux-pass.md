@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="grc_proiel-dep-aux.html">aux</a></tt>.
 
-43 nodes (0%) are attached to their parents as `aux:pass`.
+45 nodes (0%) are attached to their parents as `aux:pass`.
 
-25 instances of `aux:pass` (58%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.27906976744186.
+27 instances of `aux:pass` (60%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.33333333333333.
 
-The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (42; 98% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (1; 2% instances).
+The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (44; 98% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -40,7 +40,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 1	φευγόντων	φεύγω	VERB	V-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	8	advcl	_	ref=1.63.2
 2	δὲ	δέ	ADV	Df	_	8	discourse	_	ref=1.63.2
 3	τούτων	οὗτος	ADJ	Pd	Case=Gen|Gender=Neut|Number=Plur	1	nsubj	_	ref=1.63.2
-4	βουλὴν	βουλή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	obj:dir	_	ref=1.63.2
+4	βουλὴν	βουλή	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	8	obj	_	ref=1.63.2
 5	ἐνθαῦτα	ἐνταῦθα	ADV	Df	_	8	advmod	_	ref=1.63.2
 6	σοφωτάτην	σοφός	ADJ	A-	Case=Acc|Degree=Sup|Gender=Fem|Number=Sing	4	amod	_	ref=1.63.2
 7	Πεισίστρατος	Πεισίστρατος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	ref=1.63.2

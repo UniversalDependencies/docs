@@ -169,39 +169,19 @@ udver: '2'
 <tr>
   <td width="33%" valign="top">
 <ul>
-<li>This corpus contains 2 word types tagged as particles (PART): og, å</li>
+<li>This corpus contains 4 word types tagged as particles (PART): ei, ikke, og, å</li>
 </ul>
 
   </td>
   <td width="33%" valign="top">
 <ul>
-<li>This corpus contains 2 word types tagged as particles (PART): og, å</li>
+<li>This corpus contains 6 word types tagged as particles (PART): ei, einast, eingong, ikkje, og, å</li>
 </ul>
 
   </td>
   <td width="33%" valign="top">
 <ul>
-<li>This corpus contains 1 word types tagged as particles (PART): å</li>
-</ul>
-
-  </td>
-</tr>
-<tr>
-  <td width="33%" valign="top">
-<ul>
-<li>This corpus contains 40 lemmas tagged as pronouns (PRON): alle, alt, begge, de, den, denne, dere, det, dette, disse, du, en, enhver, ham, han, hun, hva, hvem, hverandre, hvilket, hvis, ikkenoe, ingen, ingenting, intet, jag, jeg, man, meg, noe, noen, samtlige, seg, slikt, som, sånt, vi, whatever, you, æ</li>
-</ul>
-
-  </td>
-  <td width="33%" valign="top">
-<ul>
-<li>This corpus contains 34 lemmas tagged as pronouns (PRON): alle, alt, begge, båe, d., de, dei, den, denne, desse, det, dette, du, eg, ein, han, ho, ingen, ingenting, kva, kvarandre, kven, kån, man, me, noko, nokon, nokre, seg, slikt, som, somme, sånt, vi</li>
-</ul>
-
-  </td>
-  <td width="33%" valign="top">
-<ul>
-<li>This corpus contains 25 lemmas tagged as pronouns (PRON): de, dei, den, denne, desse, det, dette, du, eg, ein, einannan, han, ho, ingen, ingenting, kva, kvarandre, kven, noko, nokon, nokre, seg, som, somme, vi</li>
+<li>This corpus contains 3 word types tagged as particles (PART): eingong, ikkje, å</li>
 </ul>
 
   </td>
@@ -209,19 +189,19 @@ udver: '2'
 <tr>
   <td width="33%" valign="top">
 <ul>
-<li>This corpus contains 46 lemmas tagged as determiners (DET): 135a, all, alle, annen, begge, de, den, denne, deres, det, dette, din, disse, egen, en, endel, enhver, fire-fem, forrige, hans, hennes, hin, hver, hverandres, hvilken, hvis, ingen, min, neste, nineish, noe, noen, samme, samtlige, selv, selve, selveste, sin, sitt, sjøl, slik, sådan, sånn, tenish, the, vår</li>
+<li>This corpus contains 49 lemmas tagged as pronouns (PRON): alle, alt, begge, de, den, denne, dere, deres, det, dette, din, disse, du, en, enhver, ham, han, hans, hennes, hun, hva, hvem, hverandre, hverandres, hvilket, hvis, ikkenoe, ingen, ingenting, intet, jag, jeg, man, meg, min, noe, noen, samtlige, seg, sin, sitt, slikt, som, sånt, vi, vår, whatever, you, æ</li>
 </ul>
 
   </td>
   <td width="33%" valign="top">
 <ul>
-<li>This corpus contains 53 lemmas tagged as determiners (DET): II, III, a, all, alle, annan, annen, begge, de, dei, deira, den, denne, desse, det, dette, din, dinnja, dykkar, eige, eigen, ein, einkvan, einkvar, eit, et, forrige, four, førre, hans, hass, hennar, hin, ingen, kva, kvar, kåns, mangt, min, mine, neste, noko, nokon, same, samme, sin, sjølv, sjølve, slik, sånn, the, vår, ½</li>
+<li>This corpus contains 44 lemmas tagged as pronouns (PRON): alle, alt, begge, båe, d., de, dei, deira, den, denne, desse, det, dette, din, du, dykkar, eg, ein, han, hans, hennar, ho, ingen, ingenting, kva, kvarandre, kven, kån, kåns, man, me, min, mine, noko, nokon, nokre, seg, sin, slikt, som, somme, sånt, vi, vår</li>
 </ul>
 
   </td>
   <td width="33%" valign="top">
 <ul>
-<li>This corpus contains 27 lemmas tagged as determiners (DET): all, annan, annen, begge, dei, den, denne, desse, det, din, dykkar, eigen, ein, hans, hennar, hin, ingen, kva, kvar, min, nittenfemogtjue, noko, nokon, same, slik, sånn, vår</li>
+<li>This corpus contains 31 lemmas tagged as pronouns (PRON): de, dei, den, denne, desse, det, dette, din, du, dykkar, eg, ein, einannan, han, hans, hennar, ho, ingen, ingenting, kva, kvarandre, kven, min, noko, nokon, nokre, seg, som, somme, vi, vår</li>
 </ul>
 
   </td>
@@ -229,7 +209,27 @@ udver: '2'
 <tr>
   <td width="33%" valign="top">
 <ul>
-<li>Out of the above, 15 lemmas occurred sometimes as PRON and sometimes as DET: alle, begge, de, den, denne, det, dette, disse, en, enhver, hvis, ingen, noe, noen, samtlige</li>
+<li>This corpus contains 38 lemmas tagged as determiners (DET): 135a, all, alle, annen, begge, de, den, denne, det, dette, disse, egen, en, endel, enhver, fire-fem, forrige, hin, hver, hvilken, hvis, ingen, min, neste, nineish, noe, noen, samme, samtlige, selv, selve, selveste, sjøl, slik, sådan, sånn, tenish, the</li>
+</ul>
+
+  </td>
+  <td width="33%" valign="top">
+<ul>
+<li>This corpus contains 43 lemmas tagged as determiners (DET): II, III, a, all, alle, annan, annen, begge, de, dei, den, denne, desse, det, dette, dinnja, eige, eigen, ein, einkvan, einkvar, eit, et, forrige, four, førre, hass, hin, ingen, kva, kvar, mangt, neste, noko, nokon, same, samme, sjølv, sjølve, slik, sånn, the, ½</li>
+</ul>
+
+  </td>
+  <td width="33%" valign="top">
+<ul>
+<li>This corpus contains 21 lemmas tagged as determiners (DET): all, annan, annen, begge, dei, den, denne, desse, det, eigen, ein, hin, ingen, kva, kvar, nittenfemogtjue, noko, nokon, same, slik, sånn</li>
+</ul>
+
+  </td>
+</tr>
+<tr>
+  <td width="33%" valign="top">
+<ul>
+<li>Out of the above, 16 lemmas occurred sometimes as PRON and sometimes as DET: alle, begge, de, den, denne, det, dette, disse, en, enhver, hvis, ingen, min, noe, noen, samtlige</li>
 </ul>
 
   </td>
@@ -454,10 +454,10 @@ udver: '2'
   <ul>
     <li>Fem
       <ul>
-        <li>DET: den, vår, hans, ei, noen, all, denne, hver, egen, annen</li>
+        <li>DET: den, ei, noen, all, denne, hver, egen, annen, enhver, hvilken</li>
         <li>NOUN: tid, kirke, kroner, kvinner, støtte, hjelp, uker, side, mor, endringer</li>
         <li>NUM: halvannen, annenhver</li>
-        <li>PRON: hun, henne</li>
+        <li>PRON: hun, henne, vår, hans, deres, si, hennes, di, mi</li>
         <li>PROPN: Kristin, Marit, Hanne, Hanna, Märtha, Gro, Ingrid, Maria, Marie, Anne</li>
       </ul>
     </li>
@@ -470,10 +470,10 @@ udver: '2'
       <ul>
         <li>ADJ: lita, bundi, opa, teki, vedteki</li>
         <li>ADJ-Part: teki, vedteki</li>
-        <li>DET: ei, den, denne, si, anna, slik, vår, eiga, all, hans</li>
+        <li>DET: ei, den, denne, anna, slik, eiga, all, inga, kvar, noko</li>
         <li>NOUN: tid, kroner, regjeringa, saka, verda, boka, tida, meldinga, lov, grad</li>
         <li>NUM: éi, annakvar, ei</li>
-        <li>PRON: ho, henne, ei</li>
+        <li>PRON: ho, si, henne, vår, hans, mi, hennar, di, deira, ei</li>
       </ul>
     </li>
   </ul>
@@ -484,10 +484,10 @@ udver: '2'
     <li>Fem
       <ul>
         <li>ADJ: lita</li>
-        <li>DET: den, ei, hans, mi, sånn, di, vår, anna, denne, hi</li>
+        <li>DET: den, ei, sånn, anna, denne, hi, kvar, noka, noko, slik</li>
         <li>NOUN: mjølka, tid, mjølk, gata, nota, dieselolje, kasser, landnot, lina, greier</li>
         <li>NUM: halvanna</li>
-        <li>PRON: ho, henne</li>
+        <li>PRON: ho, hans, henne, mi, di, vår</li>
       </ul>
     </li>
   </ul>
@@ -527,10 +527,10 @@ udver: '2'
         <li>ADJ: antiautoritære, stor, straffet</li>
         <li>ADJ-Part: straffet</li>
         <li>ADV: Jo</li>
-        <li>DET: en, den, sin, denne, min, ingen, annen, hans, hver, egen</li>
+        <li>DET: en, den, denne, ingen, annen, hver, egen, slik, noen, all</li>
         <li>NOUN: dag, prosent, gang, verden, del, grunn, saken, ganger, ting, millioner</li>
         <li>NUM: én, halvannen, annenhver, Èn</li>
-        <li>PRON: han, ham</li>
+        <li>PRON: han, sin, ham, min, hans, vår, din, deres, hennes</li>
         <li>PROPN: Jan, Espen, Martin, Olav, Erik, Øyvind, Per, Kjell, Aftenposten, Sverre</li>
       </ul>
     </li>
@@ -542,10 +542,10 @@ udver: '2'
     <li>Masc
       <ul>
         <li>ADJ: liten, open, kristen, oppteken, god, lunken, medfaren, sliten, velkomen, Forboden</li>
-        <li>DET: ein, den, sin, denne, kvar, eigen, annan, nokon, ingen, vår</li>
+        <li>DET: ein, den, denne, kvar, eigen, annan, nokon, ingen, all, slik</li>
         <li>NOUN: dag, prosent, del, millionar, gong, grunn, Olav, leiar, bruk, kommunen</li>
         <li>NUM: éin, en, annankvar, èin</li>
-        <li>PRON: han, nokon, ingen, ha, honom</li>
+        <li>PRON: han, sin, vår, min, hans, nokon, hennar, deira, ingen, din</li>
       </ul>
     </li>
   </ul>
@@ -557,10 +557,10 @@ udver: '2'
       <ul>
         <li>ADJ: liten, brosten, oppvaksen</li>
         <li>ADV: kloss</li>
-        <li>DET: ein, den, annan, sånn, kvar, min, nokon, eigen, all, din</li>
+        <li>DET: ein, den, annan, sånn, kvar, nokon, eigen, all, ingen, noko</li>
         <li>NOUN: byen, båten, krigen, måten, båt, båtar, mann, del, sjøen, båtane</li>
         <li>NUM: annankvar</li>
-        <li>PRON: han, nokon, ingen</li>
+        <li>PRON: han, nokon, min, din, hennar, ingen</li>
       </ul>
     </li>
   </ul>
@@ -574,10 +574,10 @@ udver: '2'
       <ul>
         <li>ADJ: mye, helt, godt, litt, langt, samtidig, veldig, mulig, svært, lite</li>
         <li>ADJ-Part: bortsett, knyttet, samlet, opptalt, fredet, sett, uttalt, basert, betalt, integrert</li>
-        <li>DET: et, det, noe, annet, sitt, dette, hvert, mitt, vårt, eget</li>
+        <li>DET: et, det, noe, annet, dette, hvert, eget, alt, slikt, hvilket</li>
         <li>NOUN: år, folk, land, barn, landet, mennesker, livet, spørsmål, forhold, tillegg</li>
         <li>NUM: ett, halvannet, mangt, annethvert</li>
-        <li>PRON: det, dette, noe, alt, slikt, sånt, intet, dét, et</li>
+        <li>PRON: det, dette, noe, sitt, alt, mitt, vårt, hans, hennes, ditt</li>
         <li>PROPN: Stortinget, Dagbladet, Fremskrittspartiet, Senterpartiet, Stortingets, Sørlandet, Internett, Barentshavet, Norden, Vestlandet</li>
       </ul>
     </li>
@@ -590,10 +590,10 @@ udver: '2'
       <ul>
         <li>ADJ: mykje, godt, heilt, langt, svært, litt, rett, veldig, viktig, norsk</li>
         <li>ADJ-Part: sett, lagt, gjort, sagt, utvida, knytt, teke, vedteke, gjeve, samla</li>
-        <li>DET: eit, det, sitt, anna, noko, dette, kvart, eitt, eige, vårt</li>
+        <li>DET: eit, det, anna, noko, dette, kvart, eitt, eige, alt, slikt</li>
         <li>NOUN: år, folk, språk, stortinget, landet, land, Framstegspartiet, tillegg, departementet, arbeidet</li>
         <li>NUM: annakvart, halvanna, halvtanna, noe</li>
-        <li>PRON: det, dette, noko, alt, slikt, dét, detta, dei, dte, sånt</li>
+        <li>PRON: det, dette, noko, sitt, alt, vårt, mitt, hans, slikt, hennar</li>
         <li>VERB-Part: blir, innført, lagt</li>
       </ul>
     </li>
@@ -605,10 +605,10 @@ udver: '2'
     <li>Neut
       <ul>
         <li>ADJ: mykje, bra, heilt, langt, veldig, godt, fint, billig, lite, stort</li>
-        <li>DET: noko, det, eit, anna, alt, kvart, eitt, mitt, eige, sånt</li>
+        <li>DET: noko, det, eit, anna, alt, kvart, eitt, eige, sånt</li>
         <li>NOUN: år, folk, fiske, slags, land, øre, havet, uvêr, par, vêr</li>
         <li>NUM: annakvart</li>
-        <li>PRON: det, noko, dette</li>
+        <li>PRON: det, noko, dette, mitt</li>
       </ul>
     </li>
   </ul>
@@ -722,10 +722,10 @@ udver: '2'
       <ul>
         <li>ADJ: mange, store, nye, norske, siste, gode, få, ulike, 22., ansatte</li>
         <li>ADJ-Part: økte, fredede, gjentatte, interesserte, samlede, forente, kvalifiserte, solgte, tapte, undertrykte</li>
-        <li>DET: de, andre, alle, sine, noen, disse, våre, slike, egne, ingen</li>
+        <li>DET: de, andre, alle, noen, disse, slike, egne, ingen, begge, hvilke</li>
         <li>NOUN: år, prosent, folk, barn, mennesker, ganger, kroner, land, ting, millioner</li>
         <li>NUM: to, tre, fire, 2, fem, ti, 20, seks, 3, 50</li>
-        <li>PRON: vi, de, oss, dem, alle, ingen, dere, hverandre, disse, noen</li>
+        <li>PRON: vi, de, oss, dem, sine, alle, våre, ingen, dere, hverandre</li>
       </ul>
     </li>
   </ul>
@@ -737,10 +737,10 @@ udver: '2'
       <ul>
         <li>ADJ: mange, store, nye, ulike, norske, gode, 1., siste, tilsette, få</li>
         <li>ADJ-Part: samla, tekne, auka, brukte, frammøtte, komne, reduserte, interesserte, knytte, nemnde</li>
-        <li>DET: dei, andre, alle, sine, desse, nokre, slike, våre, ingen, eigne</li>
+        <li>DET: dei, andre, alle, desse, nokre, slike, ingen, eigne, begge, nokon</li>
         <li>NOUN: år, folk, prosent, kroner, millionar, åra, pengar, land, menneske, tiltak</li>
         <li>NUM: to, tre, fire, ti, fem, 20, seks, 2005, 2006, 2</li>
-        <li>PRON: dei, vi, me, oss, alle, de, ingen, kvarandre, nokon, desse</li>
+        <li>PRON: dei, vi, me, oss, sine, alle, våre, de, ingen, kvarandre</li>
       </ul>
     </li>
   </ul>
@@ -751,10 +751,10 @@ udver: '2'
     <li>Plur
       <ul>
         <li>ADJ: mange, forskjellige, komne, heile, mykje, skada, brotne, gamle, heldige, store</li>
-        <li>DET: dei, alle, andre, nokon, nokre, sånne, begge, desse, nittenfemogtjue, dykkar</li>
+        <li>DET: dei, alle, andre, nokon, nokre, sånne, begge, desse, nittenfemogtjue, slike</li>
         <li>NOUN: år, folk, båtar, båtane, øre, bilar, land, dagar, fiske, hektoliter</li>
         <li>NUM: to, tre, hundre, seks, tusen, fem, fire, fjorten, sju, seksti</li>
-        <li>PRON: dei, vi, de, oss, ingen, desse, kvarandre, dykk, nokon, einannan</li>
+        <li>PRON: dei, vi, de, oss, ingen, desse, kvarandre, dykk, nokon, dykkar</li>
       </ul>
     </li>
   </ul>
@@ -793,10 +793,10 @@ udver: '2'
       <ul>
         <li>ADJ: mye, første, helt, litt, godt, hele, norske, stor, ny, god</li>
         <li>ADJ-Part: økt, bekymret, knyttet, samlet, overrasket, bortsett, domfelte, interessert, lovforankret, integrert</li>
-        <li>DET: en, et, den, det, sin, denne, noe, annet, sitt, hans</li>
+        <li>DET: en, et, den, det, denne, noe, annet, dette, annen, ingen</li>
         <li>NOUN: dag, gang, tid, verden, del, år, kirke, landet, grunn, saken</li>
         <li>NUM: ett, én, ene, 1, halvannen, annenhver, halvannet, mangt, 1., annethvert</li>
-        <li>PRON: det, jeg, han, hun, du, dette, man, meg, den, noe</li>
+        <li>PRON: det, jeg, han, hun, du, dette, man, sin, meg, den</li>
         <li>VERB-Part: overrasket</li>
       </ul>
     </li>
@@ -809,10 +809,10 @@ udver: '2'
       <ul>
         <li>ADJ: mykje, heile, godt, heilt, norsk, viktig, langt, svært, litt, rett</li>
         <li>ADJ-Part: sett, lagt, gjort, auka, samla, knytt, utvida, sagt, kalla, brukt</li>
-        <li>DET: ein, den, eit, ei, det, denne, sin, anna, noko, sitt</li>
+        <li>DET: ein, den, eit, ei, det, denne, anna, noko, dette, kvar</li>
         <li>NOUN: dag, tid, år, del, språk, landet, regjeringa, saka, verda, gong</li>
         <li>NUM: eine, éin, éi, en, annankvar, annakvar, annakvart, ei, halvanna, halvtanna</li>
-        <li>PRON: det, han, eg, seg, ein, dette, ho, du, noko, meg</li>
+        <li>PRON: det, han, eg, seg, ein, dette, ho, du, noko, sin</li>
         <li>VERB-Part: blir, innført, lagt, stoppa</li>
       </ul>
     </li>
@@ -1336,8 +1336,8 @@ udver: '2'
   <ul>
     <li>Neg
       <ul>
-        <li>ADV: ikke</li>
         <li>DET: ingen, intet</li>
+        <li>PART: ikke</li>
         <li>PRON: ingen, ingenting</li>
       </ul>
     </li>
@@ -1348,8 +1348,8 @@ udver: '2'
   <ul>
     <li>Neg
       <ul>
-        <li>ADV: ikkje</li>
         <li>DET: ingen, inga</li>
+        <li>PART: ikkje</li>
         <li>PRON: ingen, ingenting</li>
       </ul>
     </li>
@@ -1360,8 +1360,8 @@ udver: '2'
   <ul>
     <li>Neg
       <ul>
-        <li>ADV: ikkje</li>
         <li>DET: ingen</li>
+        <li>PART: ikkje</li>
         <li>PRON: ingen, ingenting</li>
       </ul>
     </li>
@@ -2054,7 +2054,7 @@ udver: '2'
   <ul>
     <li>Prs
       <ul>
-        <li>DET: sin, selv, sine, hans, sitt, min, vår, deres, egen, mitt</li>
+        <li>DET: selv, egen, egne, eget, selve, 135a, sjøl, selveste, the, fire-fem</li>
         <li>PRON: det, jeg, han, vi, de, seg, hun, du, dette, man</li>
       </ul>
     </li>
@@ -2065,7 +2065,7 @@ udver: '2'
   <ul>
     <li>Prs
       <ul>
-        <li>DET: sjølv, sin, sine, sitt, si, hans, vår, sjølve, eigen, våre</li>
+        <li>DET: sjølv, sjølve, eigen, eige, eigne, eiga, the, II, III, eitkvart</li>
         <li>PRON: det, dei, han, eg, vi, seg, dette, ho, me, du</li>
       </ul>
     </li>
@@ -2076,7 +2076,7 @@ udver: '2'
   <ul>
     <li>Prs
       <ul>
-        <li>DET: hans, min, mi, di, eigen, hennar, mitt, vår, din, dykkar</li>
+        <li>DET: eigen, eige</li>
         <li>PRON: det, eg, dei, du, vi, han, den, de, ho, seg</li>
       </ul>
     </li>
@@ -2114,8 +2114,7 @@ udver: '2'
   <ul>
     <li>Rcp
       <ul>
-        <li>DET: hverandres</li>
-        <li>PRON: hverandre</li>
+        <li>PRON: hverandre, hverandres</li>
       </ul>
     </li>
   </ul>
@@ -2311,8 +2310,7 @@ udver: '2'
   <ul>
     <li>Yes
       <ul>
-        <li>DET: sin, sine, hans, sitt, min, vår, deres, mitt, våre, vårt</li>
-        <li>PRON: hvis</li>
+        <li>PRON: sin, sine, hans, sitt, min, vår, deres, mitt, våre, vårt</li>
       </ul>
     </li>
   </ul>
@@ -2322,7 +2320,7 @@ udver: '2'
   <ul>
     <li>Yes
       <ul>
-        <li>DET: sin, sine, sitt, si, hans, vår, våre, hennar, vårt, deira</li>
+        <li>PRON: sin, sine, sitt, si, hans, vår, våre, hennar, vårt, deira</li>
       </ul>
     </li>
   </ul>
@@ -2332,7 +2330,7 @@ udver: '2'
   <ul>
     <li>Yes
       <ul>
-        <li>DET: hans, min, mi, di, hennar, mitt, vår, din, dykkar, mine</li>
+        <li>PRON: hans, min, mi, di, hennar, mitt, vår, din, dykkar, mine</li>
       </ul>
     </li>
   </ul>
@@ -2731,13 +2729,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (4712)</li>
+      <li>VERB-Fin--NOUN (4772)</li>
       <li>VERB-Fin--NOUN-ADP(med) (10)</li>
       <li>VERB-Fin--NOUN-ADP(over) (2)</li>
-      <li>VERB-Fin--PRON (2606)</li>
+      <li>VERB-Fin--PRON (2629)</li>
       <li>VERB-Fin--PRON-Acc (6)</li>
       <li>VERB-Fin--PRON-Nom (5621)</li>
-      <li>VERB-Inf--NOUN (1054)</li>
+      <li>VERB-Inf--NOUN (1058)</li>
       <li>VERB-Inf--NOUN-Gen (1)</li>
       <li>VERB-Inf--PRON (534)</li>
       <li>VERB-Inf--PRON-Acc (7)</li>
@@ -2758,19 +2756,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (5869)</li>
+      <li>VERB-Fin--NOUN (5915)</li>
       <li>VERB-Fin--NOUN-ADP(blant) (1)</li>
       <li>VERB-Fin--NOUN-ADP(med) (6)</li>
       <li>VERB-Fin--NOUN-Gen (1)</li>
-      <li>VERB-Fin--PRON (2740)</li>
+      <li>VERB-Fin--PRON (2761)</li>
       <li>VERB-Fin--PRON-Acc (11)</li>
-      <li>VERB-Fin--PRON-Nom (4185)</li>
-      <li>VERB-Inf--NOUN (1569)</li>
+      <li>VERB-Fin--PRON-Nom (4186)</li>
+      <li>VERB-Inf--NOUN (1574)</li>
       <li>VERB-Inf--NOUN-ADP(med) (4)</li>
       <li>VERB-Inf--PRON (891)</li>
       <li>VERB-Inf--PRON-Acc (3)</li>
       <li>VERB-Inf--PRON-Nom (1079)</li>
-      <li>VERB-Part--NOUN (844)</li>
+      <li>VERB-Part--NOUN (845)</li>
       <li>VERB-Part--NOUN-ADP(med) (1)</li>
       <li>VERB-Part--PRON (373)</li>
       <li>VERB-Part--PRON-Acc (1)</li>
@@ -2787,11 +2785,11 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (82)</li>
+      <li>VERB-Fin--NOUN (90)</li>
       <li>VERB-Fin--NOUN-ADP(over) (1)</li>
       <li>VERB-Fin--PRON (190)</li>
-      <li>VERB-Fin--PRON-Acc (5)</li>
-      <li>VERB-Fin--PRON-Nom (618)</li>
+      <li>VERB-Fin--PRON-Acc (6)</li>
+      <li>VERB-Fin--PRON-Nom (624)</li>
       <li>VERB-Inf--NOUN (5)</li>
       <li>VERB-Inf--PRON (14)</li>
       <li>VERB-Inf--PRON-Nom (92)</li>
@@ -2813,16 +2811,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN (5102)</li>
       <li>VERB-Fin--NOUN-ADP(over) (1)</li>
       <li>VERB-Fin--NOUN-Gen (1)</li>
-      <li>VERB-Fin--PRON (782)</li>
+      <li>VERB-Fin--PRON (784)</li>
       <li>VERB-Fin--PRON-Acc (819)</li>
       <li>VERB-Fin--PRON-Nom (11)</li>
       <li>VERB-Inf--NOUN (3500)</li>
-      <li>VERB-Inf--PRON (399)</li>
+      <li>VERB-Inf--PRON (400)</li>
       <li>VERB-Inf--PRON-ADP(med) (1)</li>
       <li>VERB-Inf--PRON-Acc (499)</li>
       <li>VERB-Inf--PRON-Nom (5)</li>
       <li>VERB-Part--NOUN (1271)</li>
-      <li>VERB-Part--PRON (169)</li>
+      <li>VERB-Part--PRON (172)</li>
       <li>VERB-Part--PRON-Acc (182)</li>
     </ul>
   </li>
@@ -2835,15 +2833,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN (4854)</li>
       <li>VERB-Fin--NOUN-ADP(med) (1)</li>
-      <li>VERB-Fin--PRON (717)</li>
+      <li>VERB-Fin--PRON (723)</li>
       <li>VERB-Fin--PRON-Acc (652)</li>
       <li>VERB-Fin--PRON-Nom (12)</li>
       <li>VERB-Inf--NOUN (3570)</li>
-      <li>VERB-Inf--PRON (355)</li>
+      <li>VERB-Inf--PRON (360)</li>
       <li>VERB-Inf--PRON-Acc (390)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN (973)</li>
-      <li>VERB-Part--PRON (113)</li>
+      <li>VERB-Part--PRON (117)</li>
       <li>VERB-Part--PRON-Acc (153)</li>
       <li>VERB-Part--PRON-Nom (1)</li>
     </ul>
@@ -2981,9 +2979,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 7 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a></li>
+<li>This corpus uses 8 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
-<li>The following 6 relation types are not used in this corpus at all: <a>vocative</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 7 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>
 
   </td>
@@ -2991,9 +2989,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 7 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a></li>
+<li>This corpus uses 8 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
-<li>The following 6 relation types are not used in this corpus at all: <a>vocative</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 7 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>
 
   </td>
@@ -3001,9 +2999,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 7 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>discourse:filler</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>parataxis:deletion</a></li>
+<li>This corpus uses 8 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>discourse:filler</a>, <a>flat:name</a>, <a>nsubj:pass</a>, <a>parataxis:deletion</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
-<li>The following 7 relation types are not used in this corpus at all: <a>vocative</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>dep</a></li>
+<li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>dep</a></li>
 </ul>
 
   </td>

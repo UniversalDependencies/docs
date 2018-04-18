@@ -19,14 +19,14 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="gl_treegal-pos
 
 
 * <em>que</em>
-  * <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> 489: <em>A administración é a única <b>que</b> se libra " .</em>
-  * <tt><a href="gl_treegal-pos-SCONJ.html">SCONJ</a></tt> 331: <em>A mesma <b>que</b> hai catro anos e <b>que</b> a de Abel Caballero hai oito :</em>
+  * <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> 489: <em>Discutir <b>que</b> é un clásico .</em>
+  * <tt><a href="gl_treegal-pos-SCONJ.html">SCONJ</a></tt> 331: <em>Traballamos máis horas <b>que</b> os xaponeses .</em>
   * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 3: <em>Con <b>que</b> obxectivo nace o Sindicato de Xornalistas de Galicia ?</em>
 * <em>como</em>
-  * <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> 80: <em>Xente nova , <b>como</b> dicía o anuncio , sobradamente preparada .</em>
-  * <tt><a href="gl_treegal-pos-SCONJ.html">SCONJ</a></tt> 49: <em>Sería <b>como</b> reeditar o goberno tripartito .</em>
+  * <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> 80: <em>Afirman a condición de Galiza <b>como</b> nación ;</em>
+  * <tt><a href="gl_treegal-pos-SCONJ.html">SCONJ</a></tt> 49: <em>E <b>como</b> o falar non ten cancela , engade :</em>
 * <em>se</em>
-  * <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> 236: <em>A as cinco remata <b>se</b> de traballar " .</em>
+  * <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> 236: <em>En titulares máis pequenos pode <b>se</b> ler :</em>
   * <tt><a href="gl_treegal-pos-SCONJ.html">SCONJ</a></tt> 31: <em><b>se</b> cando a paso a a guitarra , esa obra perde non a fago .</em>
   * <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> 1: <em>Hai quen afirma que se fose a estrutura orgánica de o BNG a que elaborase as bases para un novo Estatuto , tería medo , <b>se</b> cadra , de facer lo tan " nacionalista " .</em>
 * <em>mais</em>
@@ -38,7 +38,7 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="gl_treegal-pos
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.370813).
+The form / lemma ratio of `SCONJ` is 1.000000 (the average of all parts of speech is 1.370902).
 
 The 1st highest number of forms (1) was observed with the lemma “ca”: <em>ca</em>.
 

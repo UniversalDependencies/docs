@@ -17,26 +17,21 @@ The following 23 pairs of parts of speech are connected with `mark`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 mark	color:blue
-1	A	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	mesma	mesmo	PRON	Infs	Gender=Fem|Number=Sing|PronType=Ind	0	root	_	_
-3	que	que	SCONJ	Cs	_	4	mark	_	_
-4	hai	haber	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	_
-5	catro	catro	NUM	Ncdmp	Gender=Masc|Number=Plur|NumType=Card	6	nummod	_	_
-6	anos	ano	NOUN	Scmp	Gender=Masc|Number=Plur	4	obj	_	_
-7	e	e	CCONJ	Cc	_	9	cc	_	_
-8	que	que	SCONJ	Cs	_	13	mark	_	_
-9	a	o	PRON	Ddfs	Gender=Fem|Number=Sing|Person=3|PronType=Art	2	conj	_	_
-10	de	de	ADP	P	AdpType=Prep	11	case	_	_
-11	Abel	abel	PROPN	Spm0	Gender=Masc	9	nmod	_	_
-12	Caballero	caballero	PROPN	Spm0	Gender=Masc	11	flat:name	_	_
-13	hai	haber	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ccomp	_	_
-14	oito	oito	NUM	Ncnmp	Gender=Masc|Number=Plur|NumType=Card	13	obj	_	SpaceAfter=No
-15	:	:	PUNCT	Q:	_	2	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 2 mark	color:blue
+1	E	e	CCONJ	Cc	_	9	mark	_	_
+2	como	como	SCONJ	Cs	_	6	mark	_	_
+3	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	falar	falar	NOUN	Scms	Gender=Masc|Number=Sing	6	nsubj	_	_
+5	non	non	ADV	Wn	Polarity=Neg	6	advmod	_	_
+6	ten	ter	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ccomp	_	_
+7	cancela	cancela	NOUN	Scfs	Gender=Fem|Number=Sing	6	obj	_	SpaceAfter=No
+8	,	,	PUNCT	Q,	_	6	punct	_	_
+9	engade	engadir	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+10	:	:	PUNCT	Q:	_	9	punct	_	_
 
 ~~~
 
@@ -47,15 +42,17 @@ The following 23 pairs of parts of speech are connected with `mark`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 mark	color:blue
-1	A	a	ADP	P	AdpType=Prep	3	case	_	_
-2	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
-3	cinco	cinco	NUM	Ncnfp	Gender=Fem|Number=Plur|NumType=Card	4	obl	_	_
-4	remata	rematar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	4	expl	_	_
-6	de	de	ADP	P	AdpType=Prep	7	mark	_	_
-7	traballar	traballar	VERB	V0f000	VerbForm=Inf	4	xcomp	_	SpaceAfter=No
-8	"	"	PUNCT	Q"	_	4	punct	_	SpaceAfter=No
-9	.	.	PUNCT	Q.	_	4	punct	_	_
+1	Desde	desde	ADP	P	AdpType=Prep	3	case	_	_
+2	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	PSOE	PSOE	PROPN	Zgms	Gender=Masc|Number=Sing	7	obl	_	_
+4	tamén	tamén	ADV	Wn	_	7	advmod	_	_
+5	están	estar	AUX	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+6	a	a	ADP	P	AdpType=Prep	7	mark	_	_
+7	traballar	traballar	VERB	V0f000	VerbForm=Inf	0	root	_	_
+8	con	con	ADP	P	AdpType=Prep	10	case	_	_
+9	outra	outro	DET	Idfs	Gender=Fem|Number=Sing|PronType=Ind	10	det	_	_
+10	posibilidade	posibilidade	NOUN	Scfs	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
+11	:	:	PUNCT	Q:	_	7	punct	_	_
 
 ~~~
 
@@ -63,16 +60,18 @@ The following 23 pairs of parts of speech are connected with `mark`: <tt><a href
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 mark	color:blue
-1	Entrou	entrar	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-2	como	como	SCONJ	Cs	_	4	mark	_	_
-3	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
-4	canón	canón	NOUN	Scms	Gender=Masc|Number=Sing	1	advcl	_	_
-5	con	con	ADP	P	AdpType=Prep	6	case	_	_
-6	Tesis	Tesis	PROPN	Sp00	_	4	nmod	_	SpaceAfter=No
-7	.	.	PUNCT	Q.	_	1	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 2 mark	color:blue
+1	Coida	coidar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	que	que	SCONJ	Cs	_	5	mark	_	_
+3	é	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	unha	un	DET	Difs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	arte	arte	NOUN	Scfs	Gender=Fem|Number=Sing	1	ccomp	_	_
+6	apreciada	apreciado	ADJ	A0fs	Gender=Fem|Number=Sing	5	amod	_	_
+7	en	en	ADP	P	AdpType=Prep	8	case	_	_
+8	Galiza	Galiza	PROPN	Sp00	_	6	obl	_	SpaceAfter=No
+9	?	?	PUNCT	Q?	_	1	punct	_	_
 
 ~~~
 

@@ -18,7 +18,7 @@ The feature is used with 2 part-of-speech tags: <tt><a href="fr_sequoia-pos-VERB
 
 4690 <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> tokens (79% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="fr_sequoia-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (3934; 84%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3034; 65%), <tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2568; 55%), <tt><a href="fr_sequoia-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2567; 55%), <tt><a href="fr_sequoia-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2564; 55%), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2495; 53%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="fr_sequoia-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (3933; 84%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3034; 65%), <tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (2568; 55%), <tt><a href="fr_sequoia-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (2567; 55%), <tt><a href="fr_sequoia-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt> (2567; 55%), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2495; 53%).
 
 `VERB` tokens may have the following values of `Tense`:
 
@@ -80,7 +80,6 @@ The most frequent other feature values with which `AUX` and `Tense` co-occurred:
 ## Relations with Agreement in `Tense`
 
 The 10 most frequent relations where parent and child node agree in `Tense`:
-<tt>VERB --[<tt><a href="fr_sequoia-dep-conj.html">conj</a></tt>]--> VERB</tt> (238; 72%),
-<tt>VERB --[<tt><a href="fr_sequoia-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (11; 52%),
+<tt>VERB --[<tt><a href="fr_sequoia-dep-conj.html">conj</a></tt>]--> VERB</tt> (239; 72%),
 <tt>VERB --[<tt><a href="fr_sequoia-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (2; 67%).
 

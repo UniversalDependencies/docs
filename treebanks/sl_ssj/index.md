@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Slovenian'
+title:  'UD_Slovenian-SSJ'
 udver: '2'
 ---
 
@@ -9,7 +9,7 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Slovenian
+# UD Slovenian SSJ
 
 Language: [Slovenian](../sl/overview/sl-hub.html) (code: `sl`)<br/>
 Family: Indo-European, Slavic
@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 
 The following people have contributed to making this treebank part of UD: Kaja Dobrovoljc, Tomaž Erjavec, Simon Krek.
 
-Repository: [UD_Slovenian](https://github.com/UniversalDependencies/UD_Slovenian)
+Repository: [UD_Slovenian-SSJ](https://github.com/UniversalDependencies/UD_Slovenian-SSJ)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsl_ssj)
 
 License: CC BY-NC-SA 4.0
 
@@ -26,7 +27,7 @@ Genre: news, nonfiction, fiction
 
 Questions, comments?
 General annotation questions (either Slovenian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Slovenian/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Slovenian-SSJ/issues).
 If you want to collaborate, please contact [kaja&nbsp;•&nbsp;dobrovoljc&nbsp;(æt)&nbsp;gmail&nbsp;•&nbsp;com; tomaz&nbsp;•&nbsp;erjavec&nbsp;(æt)&nbsp;ijs&nbsp;•&nbsp;si; simon&nbsp;•&nbsp;krek&nbsp;(æt)&nbsp;ijs&nbsp;•&nbsp;si].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
@@ -47,7 +48,7 @@ The Slovenian UD Treebank is a rule-based conversion of the ssj500k treebank, th
 
 
 
-The Slovenian UD Treebank (Dobrovoljc et al. 2017) is based on the ssj500k treebank
+The Slovenian SSJ UD Treebank (Dobrovoljc et al. 2017) is based on the ssj500k treebank
 (Krek et al. 2015), a balanced collection of sampled texts from the FidaPLUS reference
 corpus of written Slovene (Arhar and Gorjanc 2007). The original ssj500k corpus has
 been manually segmented, tokenized, lemmatized and morphosyntactically tagged within
@@ -58,7 +59,7 @@ scheme. The syntactically annotated part of the ssj500k corpus (known as ssj200k
 consisting of 11,411 annotated sentences and 235,864 tokens, has been used as the
 basis for conversion to the Slovenian UD Treebank.
 
-The conversion from ssj200k to the Slovenian UD Treebank was completely automatic,
+The conversion from ssj200k to the Slovenian SSJ UD Treebank was completely automatic,
 based on a large set of rules for both morphosyntactic and syntactic layer,
 which include different lexical, morphological and dependency features. Due to the
 specifics of the original JOS syntactic annotation scheme, not all dependency relations
@@ -85,27 +86,40 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
 
 
 
-# Statistics of UD Slovenian
+# Statistics of UD Slovenian SSJ
 
 ## POS Tags
 
-[ADJ](sl-pos-ADJ.html) – [ADP](sl-pos-ADP.html) – [ADV](sl-pos-ADV.html) – [AUX](sl-pos-AUX.html) – [CCONJ](sl-pos-CCONJ.html) – [DET](sl-pos-DET.html) – [INTJ](sl-pos-INTJ.html) – [NOUN](sl-pos-NOUN.html) – [NUM](sl-pos-NUM.html) – [PART](sl-pos-PART.html) – [PRON](sl-pos-PRON.html) – [PROPN](sl-pos-PROPN.html) – [PUNCT](sl-pos-PUNCT.html) – [SCONJ](sl-pos-SCONJ.html) – [VERB](sl-pos-VERB.html) – [X](sl-pos-X.html)
+[ADJ](sl_ssj-pos-ADJ.html) – [ADP](sl_ssj-pos-ADP.html) – [ADV](sl_ssj-pos-ADV.html) – [AUX](sl_ssj-pos-AUX.html) – [CCONJ](sl_ssj-pos-CCONJ.html) – [DET](sl_ssj-pos-DET.html) – [INTJ](sl_ssj-pos-INTJ.html) – [NOUN](sl_ssj-pos-NOUN.html) – [NUM](sl_ssj-pos-NUM.html) – [PART](sl_ssj-pos-PART.html) – [PRON](sl_ssj-pos-PRON.html) – [PROPN](sl_ssj-pos-PROPN.html) – [PUNCT](sl_ssj-pos-PUNCT.html) – [SCONJ](sl_ssj-pos-SCONJ.html) – [VERB](sl_ssj-pos-VERB.html) – [X](sl_ssj-pos-X.html)
 
 ## Features
 
-[Abbr](sl-feat-Abbr.html) – [Animacy](sl-feat-Animacy.html) – [Aspect](sl-feat-Aspect.html) – [Case](sl-feat-Case.html) – [Definite](sl-feat-Definite.html) – [Degree](sl-feat-Degree.html) – [Foreign](sl-feat-Foreign.html) – [Gender](sl-feat-Gender.html) – [Gender[psor]](sl-feat-Gender-psor.html) – [Mood](sl-feat-Mood.html) – [Number](sl-feat-Number.html) – [Number[psor]](sl-feat-Number-psor.html) – [NumForm](sl-feat-NumForm.html) – [NumType](sl-feat-NumType.html) – [Person](sl-feat-Person.html) – [Polarity](sl-feat-Polarity.html) – [Poss](sl-feat-Poss.html) – [PronType](sl-feat-PronType.html) – [Reflex](sl-feat-Reflex.html) – [Tense](sl-feat-Tense.html) – [Variant](sl-feat-Variant.html) – [VerbForm](sl-feat-VerbForm.html)
+[Abbr](sl_ssj-feat-Abbr.html) – [Animacy](sl_ssj-feat-Animacy.html) – [Aspect](sl_ssj-feat-Aspect.html) – [Case](sl_ssj-feat-Case.html) – [Definite](sl_ssj-feat-Definite.html) – [Degree](sl_ssj-feat-Degree.html) – [Foreign](sl_ssj-feat-Foreign.html) – [Gender](sl_ssj-feat-Gender.html) – [Gender[psor]](sl_ssj-feat-Gender-psor.html) – [Mood](sl_ssj-feat-Mood.html) – [Number](sl_ssj-feat-Number.html) – [Number[psor]](sl_ssj-feat-Number-psor.html) – [NumForm](sl_ssj-feat-NumForm.html) – [NumType](sl_ssj-feat-NumType.html) – [Person](sl_ssj-feat-Person.html) – [Polarity](sl_ssj-feat-Polarity.html) – [Poss](sl_ssj-feat-Poss.html) – [PronType](sl_ssj-feat-PronType.html) – [Reflex](sl_ssj-feat-Reflex.html) – [Tense](sl_ssj-feat-Tense.html) – [Variant](sl_ssj-feat-Variant.html) – [VerbForm](sl_ssj-feat-VerbForm.html)
 
 ## Relations
 
-[acl](sl-dep-acl.html) – [advcl](sl-dep-advcl.html) – [advmod](sl-dep-advmod.html) – [amod](sl-dep-amod.html) – [appos](sl-dep-appos.html) – [aux](sl-dep-aux.html) – [case](sl-dep-case.html) – [cc](sl-dep-cc.html) – [cc:preconj](sl-dep-cc-preconj.html) – [ccomp](sl-dep-ccomp.html) – [conj](sl-dep-conj.html) – [cop](sl-dep-cop.html) – [csubj](sl-dep-csubj.html) – [dep](sl-dep-dep.html) – [det](sl-dep-det.html) – [discourse](sl-dep-discourse.html) – [expl](sl-dep-expl.html) – [fixed](sl-dep-fixed.html) – [flat](sl-dep-flat.html) – [flat:foreign](sl-dep-flat-foreign.html) – [flat:name](sl-dep-flat-name.html) – [iobj](sl-dep-iobj.html) – [mark](sl-dep-mark.html) – [nmod](sl-dep-nmod.html) – [nsubj](sl-dep-nsubj.html) – [nummod](sl-dep-nummod.html) – [obj](sl-dep-obj.html) – [obl](sl-dep-obl.html) – [parataxis](sl-dep-parataxis.html) – [punct](sl-dep-punct.html) – [root](sl-dep-root.html) – [xcomp](sl-dep-xcomp.html)
+[acl](sl_ssj-dep-acl.html) – [advcl](sl_ssj-dep-advcl.html) – [advmod](sl_ssj-dep-advmod.html) – [amod](sl_ssj-dep-amod.html) – [appos](sl_ssj-dep-appos.html) – [aux](sl_ssj-dep-aux.html) – [case](sl_ssj-dep-case.html) – [cc](sl_ssj-dep-cc.html) – [cc:preconj](sl_ssj-dep-cc-preconj.html) – [ccomp](sl_ssj-dep-ccomp.html) – [conj](sl_ssj-dep-conj.html) – [cop](sl_ssj-dep-cop.html) – [csubj](sl_ssj-dep-csubj.html) – [dep](sl_ssj-dep-dep.html) – [det](sl_ssj-dep-det.html) – [discourse](sl_ssj-dep-discourse.html) – [expl](sl_ssj-dep-expl.html) – [fixed](sl_ssj-dep-fixed.html) – [flat](sl_ssj-dep-flat.html) – [flat:foreign](sl_ssj-dep-flat-foreign.html) – [flat:name](sl_ssj-dep-flat-name.html) – [iobj](sl_ssj-dep-iobj.html) – [mark](sl_ssj-dep-mark.html) – [nmod](sl_ssj-dep-nmod.html) – [nsubj](sl_ssj-dep-nsubj.html) – [nummod](sl_ssj-dep-nummod.html) – [obj](sl_ssj-dep-obj.html) – [obl](sl_ssj-dep-obl.html) – [parataxis](sl_ssj-dep-parataxis.html) – [punct](sl_ssj-dep-punct.html) – [root](sl_ssj-dep-root.html) – [xcomp](sl_ssj-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 8000 sentences and 140670 tokens.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 20488 tokens (15%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 57 types of words that contain both letters and punctuation. Examples: dr., oz., i., t., d., sv., P., M., j., o., R., K., A., B., H., V., š., II., L., npr., F., G., O'Neal, S., TAM-u, Z., mag., n., prof., salomon.si, 200-tem, AMD-jevimi, BTC-ju, BUS-a, C., E., IV., IX., Konoplja.org, Mt., O'Briana, ROM-u, SFOR-ju, SVIZ-ove, XI., XIV., angl., http://dnka.com/, itd., ml.</li>
+</ul>
+
+<ul>
 </ul>
 
 <h2>Morphology</h2>
@@ -115,6 +129,9 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
 <ul>
 <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: SYM</li>
+</ul>
+
+<ul>
 <li>This corpus contains 51 word types tagged as particles (PART): Ja, Kajpada, Ma, bojda, bržkone, bržčas, celo, da, domala, edino, kajne, kajpak, koli, kvečjemu, le, menda, morda, morebiti, naj, najbrž, ne, nej, nemara, nikar, niti, no, pač, prav, pravzaprav, predvsem, ravno, sam, samo, samó, seveda, sicer, skoraj, skorajda, sploh, tud, tudi, več, vsaj, vsej, vsekakor, zgolj, zlasti, češ, še, šele, že</li>
 </ul>
 
@@ -139,25 +156,36 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
 </ul>
 
 <ul>
-<li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Conv
   <ul>
     <li>ADV: rekoč, sodeč, Molče, hote, nehote, neupoštevaje, nevede, sklicujoč, stoje, upoštevaje</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Fin
   <ul>
     <li>AUX: je, so, bi, bo, ni, sem, bodo, sta, smo, niso</li>
     <li>VERB: je, ima, ni, gre, so, bo, imajo, mora, pomeni, zdi</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Inf
   <ul>
     <li>AUX: biti</li>
     <li>VERB: videti, slišati, biti, pomagati, razumeti, imeti, reči, narediti, vedeti, dobiti</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>ADJ: znani, prepričan, znano, določene, pripravljeni, zaposlenih, prepričani, zaposleni, pripravljen, sprejet</li>
@@ -165,18 +193,21 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
     <li>VERB: bilo, bila, imel, moral, povedal, imela, imeli, morali, bil, morala</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Sup
   <ul>
     <li>VERB: delat, organizirat, spat, gledat, iskat, krpat, mižat, odpotovat, osvobodit, pogledat</li>
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
+
 <li><a>Gender</a>
+
   <ul>
     <li>Fem
       <ul>
@@ -191,6 +222,9 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
         <li>VERB-Part: bila, imela, morala, začela, prišla, rekla, pokazala, vedela, dobila, sprejela</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>ADJ: sam, prvi, drugi, slovenski, drugih, pravi, sami, novi, velik, državni</li>
@@ -204,6 +238,9 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
         <li>VERB-Part: imel, moral, povedal, imeli, bil, morali, dejal, začeli, postal, rekel</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neut
       <ul>
         <li>ADJ: mogoče, pomembno, jasno, potrebno, težko, novo, drugim, novega, prihodnje, drugo</li>
@@ -218,9 +255,13 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Animacy</a>
+
   <ul>
     <li>Anim
       <ul>
@@ -228,6 +269,9 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
         <li>PROPN: Andreja, Billyja, Henrika, Boja, Damijana, Filipa, Francija, Hočevarja, Janeza, Johna</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Inan
       <ul>
         <li>NOUN: dan, čas, način, primer, denar, del, sistem, svet, teden, konec</li>
@@ -235,9 +279,13 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Number</a>
+
   <ul>
     <li>Dual
       <ul>
@@ -254,6 +302,9 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
         <li>VERB-Part: imela, morala, bila, odšla, hotela, srečala, začela, nastopila, pogovarjala, povedala</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Plur
       <ul>
         <li>ADJ: druge, drugih, različnih, nove, zadnjih, novih, slovenskih, sami, drugi, drugimi</li>
@@ -269,6 +320,9 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
         <li>VERB-Part: imeli, morali, začeli, dobili, odločili, predstavili, bili, pripravili, prišli, postali</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: mogoče, prvi, sam, drugi, novo, veliko, drugo, novega, pomembno, drugega</li>
@@ -285,9 +339,13 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Acc
       <ul>
@@ -301,6 +359,9 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
         <li>PROPN: Slovenijo, EU, Ljubljano, Dunaj, Francijo, Irak, Koroško, Slovence, Andreja, Billyja</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dat
       <ul>
         <li>ADJ: drugim, državnemu, novim, drugemu, ponižnemu, velikemu, velikim, zbranim, današnjemu, delovni</li>
@@ -313,6 +374,9 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
         <li>PROPN: Srbom, Bosku, Diegu, Janezu, Jatu, Ljubljani, Sloveniji, Vatanenu, Adriaticu, Alici</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Gen
       <ul>
         <li>ADJ: novega, drugih, novih, drugega, slovenskih, različnih, slovenske, evropske, prvega, nove</li>
@@ -325,6 +389,9 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
         <li>PROPN: Slovenije, EU, Ljubljane, Evrope, Slovencev, Kosova, Hrvaške, Amerike, Dolenjske, Jugoslavije</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ins
       <ul>
         <li>ADJ: drugim, drugimi, različnimi, kratkim, veliko, drugo, novimi, novo, prvim, posebnimi</li>
@@ -337,6 +404,9 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
         <li>PROPN: Davidom, Marjanom, Slovenijo, Freddijem, Hrvaško, Hughesom, Jugoslavijo, Miranom, Morosino, Sampsonom</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Loc
       <ul>
         <li>ADJ: drugi, zadnjih, drugih, drugem, prvem, prvi, različnih, veliki, glavnem, zadnjem</li>
@@ -349,6 +419,9 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
         <li>PROPN: Sloveniji, Ljubljani, Mariboru, Evropi, ZDA, Ameriki, Jugoslaviji, Britaniji, EU, Franciji</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Nom
       <ul>
         <li>ADJ: mogoče, sam, prvi, velika, drugi, prva, sama, slovenska, jasno, pomembno</li>
@@ -361,10 +434,15 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Definite</a>
+
   <ul>
     <li>Def
       <ul>
@@ -372,6 +450,9 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
         <li>ADJ-Part: minuli, izbrani, znani, omenjeni, spoštovani, imenovani, izpodbijani, navedeni, odprti, plačani</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>ADJ: sam, velik, nov, drug, pomemben, prepričan, dober, podoben, pripravljen, sprejet</li>
@@ -379,11 +460,16 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Degree and Polarity</h3>
 
+
 <li><a>Degree</a>
+
   <ul>
     <li>Cmp
       <ul>
@@ -391,6 +477,9 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
         <li>ADV: bolj, prej, večkrat, bolje, pozneje, raje, kasneje, dlje, hitreje, laže</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>ADJ: mogoče, sam, novo, nove, različnih, veliko, slovenski, velika, veliki, novega</li>
@@ -398,6 +487,9 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
         <li>ADV: lahko, tako, zelo, kako, vedno, potem, kar, zdaj, treba, ali</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sup
       <ul>
         <li>ADJ: največji, najboljši, največja, največjih, najboljša, najboljših, najpomembnejši, največje, najprimernejše, največjo</li>
@@ -405,9 +497,13 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Polarity</a>
+
   <ul>
     <li>Neg
       <ul>
@@ -416,6 +512,9 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
         <li>VERB-Fin: ni, nima, nimajo, nimam, noče, nimamo, nimate, nisem, nismo, niso</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>AUX-Fin: je, so, bo, sem, bodo, sta, smo, bomo, boste, ste</li>
@@ -423,26 +522,38 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Variant</a>
+
   <ul>
     <li>Bound
       <ul>
         <li>PRON: zanj, zame, zase, nanjo, zanjo, vanjo, nanj, vanj, zanje, name</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Short
       <ul>
         <li>PRON: se, ga, jih, si, jo, mu, mi, ji, me, jim</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Verbal Features</h3>
 
+
 <li><a>Aspect</a>
+
   <ul>
     <li>Imp
       <ul>
@@ -452,6 +563,9 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
         <li>VERB-Sup: delat, spat, gledat, iskat, krpat, mižat, prest, prosit, smučat, snemat</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Perf
       <ul>
         <li>VERB-Fin: pride, postane, začne, dobijo, nastane, da, zgodi, ostane, pove, dobi</li>
@@ -461,9 +575,13 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Mood</a>
+
   <ul>
     <li>Cnd
       <ul>
@@ -471,12 +589,18 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
         <li>VERB-Fin: bi</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Imp
       <ul>
         <li>AUX-Fin: bodite, Bodi</li>
         <li>VERB-Fin: dodajte, Ugotovimo, dajte, pazite, denimo, poglejmo, pojdite, poskusite, povej, pozabite</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>AUX-Fin: je, so, bo, ni, sem, bodo, sta, smo, niso, bomo</li>
@@ -484,9 +608,13 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Tense</a>
+
   <ul>
     <li>Fut
       <ul>
@@ -494,6 +622,9 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
         <li>VERB-Fin: bo, bodo, boste, bom</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pres
       <ul>
         <li>AUX-Fin: je, so, ni, sem, sta, smo, niso, ste, nisem, sva</li>
@@ -501,49 +632,74 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
 
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Dem
       <ul>
         <li>DET: to, tem, ta, tega, te, toliko, teh, temu, tej, tisti</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>DET: nekaj, več, veliko, manj, dovolj, malo, pol, preveč, največ, nekatere</li>
         <li>PRON: nekaj, nekdo, marsikaj, nekoga, marsikoga, nečesa, Marsikdo, malokdo, marsičem, neki</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Int
       <ul>
         <li>DET: katerem, katerih, kateri, katero, katere, koliko, katerega, kakšno, katerimi, katerim</li>
         <li>PRON: kaj, kdo, česa, komu, čem, koga, kom, kej, kva</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neg
       <ul>
         <li>DET: nobenega, nobene, noben, nobenih, nobena, nikakršne, nobenim, Nikakršnih, Nobeno, nikakršen</li>
         <li>PRON: nič, nihče, nikogar, ničesar, nikomur, ničemer, nobeden, ničemur, nč</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
         <li>DET: svoje, svojo, svoj, svojega, njegov, svoji, njegovo, svojih, njegove, naše</li>
         <li>PRON: se, ga, jih, si, jo, mu, mi, ji, nas, nam</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rel
       <ul>
         <li>DET: kakršen, kakršnokoli, kakršna, kakršnih, kakršno, kakršni, kakršenkoli, kakršne, kakršnega, kakršnegakoli</li>
         <li>PRON: kar, čemer, česar, čimer, kdor, karkoli, kogar, komerkoli, čemerkoli</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Tot
       <ul>
         <li>DET: vse, vseh, vsi, vsak, vsem, ves, vsako, oba, obeh, vsega</li>
@@ -551,35 +707,52 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>NumType</a>
+
   <ul>
     <li>Card
       <ul>
         <li>NUM: eno, tri, dva, dveh, eden, ena, tisoč, štiri, dve, štirih</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Mult
       <ul>
         <li>ADJ: dvojnega, dvojnim, dvojno, trojnim</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ord
       <ul>
         <li>ADJ: prvi, prva, prvo, prve, prvem, prvih, prvega, tretji, tretje, prvim</li>
         <li>NUM: 1., 20., 18., 9., 14., 17., 19., 6., 3., 10.</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sets
       <ul>
         <li>NUM: dvoje, tisočerih, troje</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Poss</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -588,9 +761,13 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Reflex</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -599,9 +776,13 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Person</a>
+
   <ul>
     <li>1
       <ul>
@@ -611,6 +792,9 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
         <li>VERB-Fin: moramo, mislim, imamo, moremo, smemo, vem, imam, moram, vemo, morem</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>AUX-Fin: boste, ste, si, niste, bodite, nisi, sta, Bodi, as, bosta</li>
@@ -619,6 +803,9 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
         <li>VERB-Fin: imate, morate, želite, dodajte, veš, potrebujete, boste, moraš, si, ste</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>AUX-Fin: je, so, bo, ni, bodo, sta, niso, bosta, nista, bojo</li>
@@ -628,50 +815,75 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Gender[psor]</a>
+
   <ul>
     <li>Fem
       <ul>
         <li>DET: njeno, njen, njene, njena, njeni, njenih, njenim, njenega, njenem, njenemu</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>DET: njegov, njegovo, njegove, njegova, njegovem, njegovi, njegovih, njegovega, njegovim, njegovimi</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neut
       <ul>
         <li>DET: njegov</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Number[psor]</a>
+
   <ul>
     <li>Dual
       <ul>
         <li>DET: njun, njuna, njuno, njuni, najin, najinih, vajino, Najine, najina, najinega</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Plur
       <ul>
         <li>DET: naše, naših, njihove, naš, naša, njihovo, njihov, njihova, njihovih, naši</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>DET: njegov, njegovo, njegove, njegova, njeno, njen, njegovem, njegovi, njene, njegovih</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Other Features</h3>
+
 
 <li><a>Abbr</a>
   <ul>
@@ -682,6 +894,7 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
     </li>
   </ul>
 </li>
+
 <li><a>Foreign</a>
   <ul>
     <li>Yes
@@ -691,6 +904,7 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
     </li>
   </ul>
 </li>
+
 <li><a>NumForm</a>
   <ul>
     <li>Digit
@@ -717,6 +931,9 @@ Modrijan, Sara Može, Tanja Novak, Lea Peršič, Tanja Radovič, Simona
 
 <ul>
 <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: biti.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 9 lemmas as auxiliaries (<a>aux</a>). Examples: biti, bga, dab, dam, gauš, kse, neb, seu, tlelevš.</li>
 </ul>
 

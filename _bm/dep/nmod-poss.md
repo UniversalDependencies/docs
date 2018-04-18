@@ -28,7 +28,7 @@ The `nmod:poss` relation is used between a nominal phrase and its possessive det
 'No one could say the child's name'.
 ~~~
 
-Alienable possession is marked by a postposition ka which follows a dependent noun.
+Alienable possession is marked by a postposition ká which follows a dependent noun.
 ~~~ conllu
 # visual-style 5 3 nmod:poss	color:blue
 # visual-style 3	bgColor:blue

@@ -16,10 +16,11 @@ udver: '2'
 Politeness in Armenian belongs to the _speaker-referent
 axis_ (meant to include the addressee when he happens to be the referent) and the honorific pronouns are used to refer to the addressee.
 
-Note, that in Armenian, formal second person has the same form for singular and plural, and
-is identical to informal second person plural. This involves both the pronoun
+Note, that in Armenian, formal second person is identical to informal second person plural. This involves both the pronoun
 and the finite verb but not a participle, which has no special formal form. In addition, special pronouns are used
 that only occur in the formal register (_Դուք_).
+
+Thus, the `Polite` feature distinguishes informal second-person pronouns (_դու, դուք_) from the formal _Դուք_. The formal pronoun is phonologically equivalent in all its case forms to the second-person plural _դուք_ but it is distinguished in orthography by the capital letter _Դ_. We tag it as second person (because that is its meaning) and we tag also its number (it is used for singular addressees) despite the fact that it combines with second-person plural verbs.
 
 ### <a name="Infm">`Infm`</a>: informal register
 
@@ -28,8 +29,8 @@ members and close friends).
 
 Examples:
 
-* _<b>դու գնացիր / դուք գնացիք</b>_ (you went.Sing/Plur)
-* _<b>դու</b> գնում <b>ես / դուք</b> գնում <b>եք</b>_ (you go.Sing/Plur)
+* _<b>դու գնացիր / դուք գնացիք</b>_ (you went.`Sing/Plur`)
+* _<b>դու</b> գնում <b>ես / դուք</b> գնում <b>եք</b>_ (you go.`Sing/Plur`)
 
 ### <a name="Form">`Form`</a>: formal register
 
@@ -38,5 +39,5 @@ and people of higher social status than the one of the speaker.
 
 Examples:
 
-* _<b>Դուք գնացիք</b>_ (you went.Sing/Plur)
-* _<b>Դուք</b> գնում <b>եք</b>_ (you go.Sing/Plur)
+* _<b>Դուք գնացիք</b>_ (you went.`Sing`)
+* _<b>Դուք</b> գնում <b>եք</b>_ (you are.`Sing` going)

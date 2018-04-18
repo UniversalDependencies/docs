@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-351 nodes (0%) are attached to their parents as `expl`.
+371 nodes (1%) are attached to their parents as `expl`.
 
-346 instances of `expl` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.22222222222222.
+366 instances of `expl` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.21024258760108.
 
-The following 4 pairs of parts of speech are connected with `expl`: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (342; 97% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-PART.html">PART</a></tt> (7; 2% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 4 pairs of parts of speech are connected with `expl`: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (350; 94% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_sequoia-pos-PART.html">PART</a></tt> (19; 5% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -27,9 +27,9 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 3	s'	se	PRON	_	Person=3|Reflex=Yes	4	expl	_	SpaceAfter=No
 4	inclina	incliner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	devant	devant	ADP	_	_	6	case	_	_
-6	Joeuf	Joeuf	PROPN	_	Gender=Masc|Number=Sing	4	obl	_	_
+6	Joeuf	Joeuf	PROPN	_	Gender=Masc|Number=Sing	4	obl:mod	_	_
 7	par	par	ADP	_	_	8	case	_	_
-8	70-61	70-61	NOUN	_	NumType=Card	4	obl	_	SpaceAfter=No
+8	70-61	70-61	NOUN	_	NumType=Card	4	obl:mod	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
@@ -63,7 +63,7 @@ The following 4 pairs of parts of speech are connected with `expl`: <tt><a href=
 2	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
 3	réalisation	réalisation	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
 4	permet	permettre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	advcl	_	_
-5	en	en	ADP	_	_	4	advmod	_	_
+5	en	en	ADP	_	_	4	advmod	_	MWE=en_plus|MWEPOS=ADV
 6	plus	plus	ADV	_	_	5	fixed	_	_
 7	d'	de	ADP	_	_	8	mark	_	SpaceAfter=No
 8	améliorer	améliorer	VERB	_	VerbForm=Inf	4	xcomp	_	_

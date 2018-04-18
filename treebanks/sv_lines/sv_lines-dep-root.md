@@ -11,9 +11,9 @@ This relation is universal.
 4564 nodes (6%) are attached to their parents as `root`.
 
 4564 instances of `root` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.47830850131464.
+Average distance between parent and child is 4.46779141104294.
 
-The following 14 pairs of parts of speech are connected with `root`: -<tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (3540; 78% instances), -<tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (485; 11% instances), -<tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (302; 7% instances), -<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (78; 2% instances), -<tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (42; 1% instances), -<tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (39; 1% instances), -<tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (38; 1% instances), -<tt><a href="sv_lines-pos-INTJ.html">INTJ</a></tt> (22; 0% instances), -<tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (9; 0% instances), -<tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), -<tt><a href="sv_lines-pos-PART.html">PART</a></tt> (2; 0% instances), -<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="sv_lines-pos-DET.html">DET</a></tt> (1; 0% instances), -<tt><a href="sv_lines-pos-SYM.html">SYM</a></tt> (1; 0% instances).
+The following 13 pairs of parts of speech are connected with `root`: -<tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (3550; 78% instances), -<tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (492; 11% instances), -<tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (306; 7% instances), -<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (80; 2% instances), -<tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (43; 1% instances), -<tt><a href="sv_lines-pos-ADV.html">ADV</a></tt> (39; 1% instances), -<tt><a href="sv_lines-pos-INTJ.html">INTJ</a></tt> (22; 0% instances), -<tt><a href="sv_lines-pos-AUX.html">AUX</a></tt> (14; 0% instances), -<tt><a href="sv_lines-pos-NUM.html">NUM</a></tt> (10; 0% instances), -<tt><a href="sv_lines-pos-CCONJ.html">CCONJ</a></tt> (4; 0% instances), -<tt><a href="sv_lines-pos-PART.html">PART</a></tt> (2; 0% instances), -<tt><a href="sv_lines-pos-ADP.html">ADP</a></tt> (1; 0% instances), -<tt><a href="sv_lines-pos-SYM.html">SYM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu

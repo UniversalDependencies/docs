@@ -19,20 +19,19 @@ The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 ccomp	color:blue
-1	så	så	CCONJ	_	_	4	cc	_	_
-2	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-3	brydde	bry	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-4	budd	bu	VERB	_	VerbForm=Part	3	ccomp	_	_
-5	i	i	ADP	_	_	8	case	_	_
-6	den	den	DET	_	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
-7	vesle	liten	ADJ	_	Definite=Def|Degree=Pos|Number=Sing	8	amod	_	_
-8	bygningen	bygning	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	4	obl	_	_
-9	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	2	appos	_	_
-10	da	da	ADV	_	_	4	advmod	_	_
-11	.	$.	PUNCT	_	_	4	punct	_	_
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 ccomp	color:blue
+1	var	vere	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+2	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
+3	du	du	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
+4	leverte	levere	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	1	ccomp	_	_
+5	mjølka	mjølk	NOUN	_	Definite=Def|Gender=Fem|Number=Sing	4	obj	_	_
+6	hen	hen	ADP	_	_	4	compound:prt	_	_
+7	i	i	ADP	_	_	8	case	_	_
+8	Oslo	Oslo	PROPN	_	_	4	obl	_	_
+9	da	da	ADV	_	_	4	advmod	_	_
+10	?	$?	PUNCT	_	_	1	punct	_	_
 
 ~~~
 
@@ -72,7 +71,7 @@ The following 8 pairs of parts of speech are connected with `ccomp`: <tt><a href
 3	#	#	PUNCT	_	_	5	punct	_	_
 4	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 5	trur	tru	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-6	ikkje	ikkje	ADV	_	Polarity=Neg	5	advmod	_	_
+6	ikkje	ikkje	PART	_	Polarity=Neg	5	advmod	_	_
 7	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
 8	var	vere	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	9	cop	_	_
 9	med	med	ADP	_	_	5	ccomp	_	_

@@ -18,68 +18,66 @@ The following 38 pairs of parts of speech are connected with `parataxis`: <tt><a
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 15 parataxis	color:blue
-1	ja	ja	INTJ	_	_	3	discourse	_	_
-2	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-3	slutta	slutte	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-4	jo	jo	ADV	_	_	3	advmod	_	_
-5	da	da	SCONJ	_	_	7	mark	_	_
-6	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
-7	blei	bli	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	11	reparandum	_	_
-8	#	#	PUNCT	_	_	7	punct	_	_
-9	da	da	SCONJ	_	_	11	mark	_	_
-10	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
-11	blei	bli	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	3	ccomp	_	_
-12	sytti	sytti	NUM	_	Number=Plur|NumType=Card	13	nummod	_	_
-13	år	år	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	11	xcomp	_	_
-14	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	10	appos	_	_
-15	veit	vite	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	11	parataxis	_	_
-16	du	du	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=2|PronType=Prs	15	nsubj	_	_
-17	.	$.	PUNCT	_	_	3	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 9 parataxis	color:blue
+1	under	under	ADP	_	_	2	case	_	_
+2	krigen	krig	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	4	obl	_	_
+3	så	så	ADV	_	_	4	advmod	_	_
+4	var	vere	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+5	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	expl	_	_
+6	mange	mange	ADJ	_	Degree=Pos|Number=Plur	7	amod	_	_
+7	slags	slags	NOUN	_	Gender=Masc	8	nmod	_	_
+8	opplevelsar	opplevelse	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	4	obj	_	_
+9	veit	vite	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
+10	du	du	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	_
+11	.	$.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 6 parataxis	color:blue
-1	og	og	CCONJ	_	_	3	cc	_	_
-2	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
-3	var	vere	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-4	der	der	ADV	_	_	3	advmod	_	_
-5	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	appos	_	_
-6	farsgarden	farsgard	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	3	parataxis	_	_
-7	.	$.	PUNCT	_	_	3	punct	_	_
-
-~~~
-
-
-~~~ conllu
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 parataxis	color:blue
-1	og	og	CCONJ	_	_	6	cc	_	_
-2	den	den	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	reparandum	_	_
-3	e	e	X	_	_	5	discourse:filler	_	_
-4	#	#	PUNCT	_	_	5	punct	_	_
-5	den	den	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	6	parataxis	_	_
-6	hadde	ha	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-7	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
-8	jobben	jobb	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	6	obj	_	_
-9	å	å	PART	_	_	10	mark	_	_
-10	køyre	køyre	VERB	_	VerbForm=Inf	6	advcl	_	_
-11	alle	all	DET	_	Number=Plur|PronType=Tot	12	det	_	_
-12	sjukepleierskene	sjukepleierske	NOUN	_	Definite=Def|Gender=Fem|Number=Plur	10	obj	_	_
-13	.	$.	PUNCT	_	_	6	punct	_	_
+# visual-style 5 8 parataxis	color:blue
+1	blei	bli	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	2	aux:pass	_	_
+2	tatt	ta	VERB	_	VerbForm=Part	0	root	_	_
+3	og	og	CCONJ	_	_	5	cc	_	_
+4	dei	dei	PRON	_	Animacy=Hum|Case=Nom|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	_
+5	gjekk	gå	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	2	conj	_	_
+6	av	av	ADP	_	_	5	compound:prt	_	_
+7	som	som	ADP	_	_	8	case	_	_
+8	regel	regel	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	5	parataxis	_	_
+9	og	og	CCONJ	_	_	5	conj	_	_
+10	.	$.	PUNCT	_	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 7 parataxis	color:blue
+1	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
+2	var	vere	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	jo	jo	ADV	_	_	2	advmod	_	_
+4	alle	all	DET	_	Number=Plur|PronType=Tot	6	det	_	_
+5	slags	slags	NOUN	_	Gender=Neut	6	nmod	_	_
+6	folk	folk	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	2	nsubj	_	_
+7	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	parataxis	_	_
+8	han	han	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+9	måtte	måtte	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	10	aux	_	_
+10	vere	vere	VERB	_	VerbForm=Inf	6	acl:relcl	_	_
+11	i	i	ADP	_	_	10	compound:prt	_	_
+12	saman	saman	ADV	_	_	11	advmod	_	_
+13	med	med	ADP	_	_	12	obl	_	_
+14	.	$.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 

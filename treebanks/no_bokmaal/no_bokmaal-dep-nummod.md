@@ -58,7 +58,7 @@ The following 7 pairs of parts of speech are connected with `nummod`: <tt><a hre
 1	Og	og	CCONJ	_	_	5	cc	_	_
 2	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 3	er	være	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_
-4	ikke	ikke	ADV	_	Polarity=Neg	5	advmod	_	_
+4	ikke	ikke	PART	_	Polarity=Neg	5	advmod	_	_
 5	gjort	gjøre	VERB	_	VerbForm=Part	0	root	_	_
 6	i	i	ADP	_	_	7	case	_	_
 7	løpet	løp	NOUN	_	Definite=Def|Gender=Neut|Number=Sing	5	obl	_	_

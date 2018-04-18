@@ -5,7 +5,7 @@ shortdef: 'dislocated elements'
 udver: '2'
 ---
 
-The `dislocated` relation is used between a dislocated phrase and its head. It is used only for arguments, dislocated adjuncts have a the relations `obl`.
+The `dislocated` relation is used between a dislocated phrase and its head. It is used if only there is a trace of a dislocated element.
 
 ~~~ conllu
 # visual-style 6 1 dislocated	color:blue

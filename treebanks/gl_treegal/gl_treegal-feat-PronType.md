@@ -18,7 +18,7 @@ The feature is used with 3 part-of-speech tags: <tt><a href="gl_treegal-pos-DET.
 
 4120 <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `PronType`.
 
-The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="gl_treegal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3183; 77%), <tt><a href="gl_treegal-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2989; 73%), <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2175; 53%).
+The most frequent other feature values with which `DET` and `PronType` co-occurred: <tt><a href="gl_treegal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3183; 77%), <tt><a href="gl_treegal-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2988; 73%), <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2175; 53%).
 
 `DET` tokens may have the following values of `PronType`:
 

@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Past`, `Pres`.
 
-1770 tokens (11%) have a non-empty value of `Tense`.
+1766 tokens (11%) have a non-empty value of `Tense`.
 725 types (10%) occur at least once with a non-empty value of `Tense`.
 420 lemmas (8%) occur at least once with a non-empty value of `Tense`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (1164; 7% instances), <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> (606; 4% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (1160; 7% instances), <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> (606; 4% instances).
 
 ### `VERB`
 
-1164 <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> tokens (57% of all `VERB` tokens) have a non-empty value of `Tense`.
+1160 <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> tokens (57% of all `VERB` tokens) have a non-empty value of `Tense`.
 
-The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="fi_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1164; 100%), <tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1164; 100%), <tt><a href="fi_pud-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (1164; 100%), <tt><a href="fi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1164; 100%), <tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (1164; 100%), <tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1164; 100%), <tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (948; 81%), <tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (902; 77%), <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (725; 62%).
+The most frequent other feature values with which `VERB` and `Tense` co-occurred: <tt><a href="fi_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1160; 100%), <tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1160; 100%), <tt><a href="fi_pud-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (1160; 100%), <tt><a href="fi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1160; 100%), <tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (1160; 100%), <tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1160; 100%), <tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (946; 82%), <tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (900; 78%), <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (723; 62%).
 
 `VERB` tokens may have the following values of `Tense`:
 
-* `Past` (719; 62% of non-empty `Tense`): <em>sanoi, tuli, alkoi, kertoi, johti, sai, syntyi, teki, rakennettiin, käytettiin</em>
-* `Pres` (445; 38% of non-empty `Tense`): <em>tulee, sanoo, auttaa, pidetään, toimii, kuuluvat, pitää, tunnetaan, alkaa, haluaa</em>
+* `Past` (717; 62% of non-empty `Tense`): <em>sanoi, tuli, kertoi, alkoi, johti, sai, syntyi, teki, rakennettiin, käytettiin</em>
+* `Pres` (443; 38% of non-empty `Tense`): <em>tulee, sanoo, auttaa, pidetään, kuuluvat, pitää, toimii, alkaa, haluaa, kuuluu</em>
 * `EMPTY` (871): <em>eikä, tehdä, liittyen, lukien, olemassa, tullut, johtaa, johtuen, käytetty, käyttämällä</em>
 
 <table>

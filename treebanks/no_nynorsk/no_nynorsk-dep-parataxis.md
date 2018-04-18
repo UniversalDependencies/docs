@@ -24,7 +24,7 @@ The following 36 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 2 7 parataxis	color:blue
 1	Men	men	CCONJ	_	_	2	cc	_	_
 2	har	ha	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	ikkje	ikkje	ADV	_	Polarity=Neg	2	advmod	_	_
+3	ikkje	ikkje	PART	_	Polarity=Neg	2	advmod	_	_
 4	du	du	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
 5	brødbakemaskin	brødbakemaskin	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	2	obj	_	SpaceAfter=No
 6	,	$,	PUNCT	_	_	2	punct	_	_
@@ -65,7 +65,7 @@ The following 36 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 3	fgColor:white
 # visual-style 3 5 parataxis	color:blue
 1	Heller	heller	ADV	_	_	2	advmod	_	_
-2	ikkje	ikkje	ADV	_	Polarity=Neg	3	advmod	_	_
+2	ikkje	ikkje	PART	_	Polarity=Neg	3	nmod	_	_
 3	nynorsk	nynorsk	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 4	,	$,	PUNCT	_	_	3	punct	_	_
 5	sa	seie	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	3	parataxis	_	_

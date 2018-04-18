@@ -23,16 +23,16 @@ The following 43 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 3 nsubj	color:blue
-1	Ale	ale	CCONJ	J^-------------	_	8	cc	_	_
-2	tohle	tenhle	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	det	_	_
-3	setkání	setkání	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	8	nsubj	_	_
-4	se	s	ADP	RV--7----------	AdpType=Voc|Case=Ins	6	case	_	_
-5	zachráněným	zachráněný	ADJ	AANS7----1A----	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	6	amod	_	_
-6	kotětem	kotě	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	3	nmod	_	_
-7	mi	já	PRON	PH-S3--1-------	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	8	iobj	_	_
-8	dodalo	dodat	VERB	VpNS----R-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
-9	sílu	síla	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	8	obj	_	SpaceAfter=No
-10	.	.	PUNCT	Z:-------------	_	8	punct	_	_
+1	Ale	ale	CCONJ	J^-------------	_	8	cc	8:cc	_
+2	tohle	tenhle	DET	PDNS1----------	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	det	3:det	_
+3	setkání	setkání	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	8	nsubj	8:nsubj	_
+4	se	s	ADP	RV--7----------	AdpType=Voc|Case=Ins	6	case	6:case	_
+5	zachráněným	zachráněný	ADJ	AANS7----1A----	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	6	amod	6:amod	_
+6	kotětem	kotě	NOUN	NNNS7-----A----	Case=Ins|Gender=Neut|Number=Sing|Polarity=Pos	3	nmod	3:nmod	_
+7	mi	já	PRON	PH-S3--1-------	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	8	iobj	8:iobj	_
+8	dodalo	dodat	VERB	VpNS----R-AA---	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	0	root	0:root	_
+9	sílu	síla	NOUN	NNFS4-----A----	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	8	obj	8:obj	SpaceAfter=No
+10	.	.	PUNCT	Z:-------------	_	8	punct	8:punct	_
 
 ~~~
 
@@ -43,19 +43,19 @@ The following 43 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 3 nsubj	color:blue
-1	"	"	PUNCT	Z:-------------	_	8	punct	_	SpaceAfter=No
-2	A	a	CCONJ	J^-------------	_	8	cc	_	_
-3	on	on	PRON	PPMS1--3-------	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
-4	dnes	dnes	ADV	Db-------------	_	8	advmod	_	_
-5	ve	v	ADP	RV--6----------	AdpType=Voc|Case=Loc	6	case	_	_
-6	školce	školka	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	8	obl	_	_
-7	tolik	tolik	ADV	Db-------------	_	8	advmod	_	_
-8	plakal	plakat	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	11	ccomp	_	SpaceAfter=No
-9	,	,	PUNCT	Z:-------------	_	8	punct	_	SpaceAfter=No
-10	"	"	PUNCT	Z:-------------	_	8	punct	_	_
-11	žaluje	žalovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-12	dítě	dítě	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	11	nsubj	_	SpaceAfter=No
-13	.	.	PUNCT	Z:-------------	_	11	punct	_	_
+1	"	"	PUNCT	Z:-------------	_	8	punct	8:punct	SpaceAfter=No
+2	A	a	CCONJ	J^-------------	_	8	cc	8:cc	_
+3	on	on	PRON	PPMS1--3-------	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	8:nsubj	_
+4	dnes	dnes	ADV	Db-------------	_	8	advmod	8:advmod	_
+5	ve	v	ADP	RV--6----------	AdpType=Voc|Case=Loc	6	case	6:case	_
+6	školce	školka	NOUN	NNFS6-----A----	Case=Loc|Gender=Fem|Number=Sing|Polarity=Pos	8	obl	8:obl	_
+7	tolik	tolik	ADV	Db-------------	_	8	advmod	8:advmod	_
+8	plakal	plakat	VERB	VpMS----R-AA---	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part|Voice=Act	11	ccomp	11:ccomp	SpaceAfter=No
+9	,	,	PUNCT	Z:-------------	_	8	punct	8:punct	SpaceAfter=No
+10	"	"	PUNCT	Z:-------------	_	8	punct	8:punct	_
+11	žaluje	žalovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+12	dítě	dítě	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	11	nsubj	11:nsubj	SpaceAfter=No
+13	.	.	PUNCT	Z:-------------	_	11	punct	11:punct	_
 
 ~~~
 
@@ -66,12 +66,12 @@ The following 43 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 nsubj	color:blue
-1	"	"	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
-2	Kolik	kolik	DET	C?--1----------	Case=Nom|NumType=Card|PronType=Int,Rel	4	nsubj	_	_
-3	jí	on	PRON	PPFS3--3-------	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	_	_
-4	je	být	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
-5	?	?	PUNCT	Z:-------------	_	4	punct	_	SpaceAfter=No
-6	"	"	PUNCT	Z:-------------	_	4	punct	_	_
+1	"	"	PUNCT	Z:-------------	_	4	punct	4:punct	SpaceAfter=No
+2	Kolik	kolik	DET	C?--1----------	Case=Nom|NumType=Card|PronType=Int,Rel	4	nsubj	4:nsubj	_
+3	jí	on	PRON	PPFS3--3-------	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obj	4:obj	_
+4	je	být	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	SpaceAfter=No
+5	?	?	PUNCT	Z:-------------	_	4	punct	4:punct	SpaceAfter=No
+6	"	"	PUNCT	Z:-------------	_	4	punct	4:punct	_
 
 ~~~
 

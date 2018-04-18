@@ -13,7 +13,7 @@ This relation is universal.
 35 instances of `goeswith` (74%) are left-to-right (parent precedes child).
 Average distance between parent and child is 5.95744680851064.
 
-The following 17 pairs of parts of speech are connected with `goeswith`: <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (10; 21% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt>-<tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (10; 21% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt>-<tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (5; 11% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt>-<tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (4; 9% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt>-<tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (3; 6% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt>-<tt><a href="no_bokmaal-pos-SCONJ.html">SCONJ</a></tt> (3; 6% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt>-<tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_bokmaal-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt>-<tt><a href="no_bokmaal-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt>-<tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt>-<tt><a href="no_bokmaal-pos-ADV.html">ADV</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt>-<tt><a href="no_bokmaal-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt>-<tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt>-<tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 17 pairs of parts of speech are connected with `goeswith`: <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (10; 21% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt>-<tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (10; 21% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt>-<tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (5; 11% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt>-<tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> (4; 9% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt>-<tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt> (3; 6% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt>-<tt><a href="no_bokmaal-pos-SCONJ.html">SCONJ</a></tt> (3; 6% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt>-<tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (2; 4% instances), <tt><a href="no_bokmaal-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_bokmaal-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_bokmaal-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt>-<tt><a href="no_bokmaal-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt>-<tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt>-<tt><a href="no_bokmaal-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt>-<tt><a href="no_bokmaal-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt>-<tt><a href="no_bokmaal-pos-PART.html">PART</a></tt> (1; 2% instances), <tt><a href="no_bokmaal-pos-VERB.html">VERB</a></tt>-<tt><a href="no_bokmaal-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
 
 
 ~~~ conllu
@@ -43,11 +43,11 @@ The following 17 pairs of parts of speech are connected with `goeswith`: <tt><a 
 1	-	$-	PUNCT	_	_	5	punct	_	_
 2	Man	man	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|PronType=Prs	5	nsubj	_	_
 3	skal	skulle	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_
-4	ikke	ikke	ADV	_	Polarity=Neg	5	advmod	_	_
+4	ikke	ikke	PART	_	Polarity=Neg	5	advmod	_	_
 5	si	si	VERB	_	VerbForm=Inf	0	root	_	_
 6	at	at	SCONJ	_	_	5	goeswith	_	_
 7	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	goeswith	_	_
-8	ikke	ikke	ADV	_	Polarity=Neg	5	goeswith	_	_
+8	ikke	ikke	PART	_	Polarity=Neg	5	goeswith	_	_
 9	mulig	mulig	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	5	goeswith	_	_
 10	å	å	PART	_	_	11	mark	_	_
 11	vinne	vinne	VERB	_	VerbForm=Inf	5	goeswith	_	_
@@ -67,11 +67,11 @@ The following 17 pairs of parts of speech are connected with `goeswith`: <tt><a 
 1	-	$-	PUNCT	_	_	5	punct	_	_
 2	Man	man	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|PronType=Prs	5	nsubj	_	_
 3	skal	skulle	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_
-4	ikke	ikke	ADV	_	Polarity=Neg	5	advmod	_	_
+4	ikke	ikke	PART	_	Polarity=Neg	5	advmod	_	_
 5	si	si	VERB	_	VerbForm=Inf	0	root	_	_
 6	at	at	SCONJ	_	_	5	goeswith	_	_
 7	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	goeswith	_	_
-8	ikke	ikke	ADV	_	Polarity=Neg	5	goeswith	_	_
+8	ikke	ikke	PART	_	Polarity=Neg	5	goeswith	_	_
 9	mulig	mulig	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	5	goeswith	_	_
 10	å	å	PART	_	_	11	mark	_	_
 11	vinne	vinne	VERB	_	VerbForm=Inf	5	goeswith	_	_

@@ -218,6 +218,8 @@ all treebanks.
 * `Translit` … transliteration or transcription of the word form to another writing system. Typically this attribute is used in languages that do not write using the Latin script, and the attribute provides some standard romanization.
 * `LTranslit` … analogy of `Translit` for lemmas.
 * `Gloss` … approximate translation of the word form or the lemma to another language (typically English). If the translation consists of multiple words, they are connected using a hyphen.
+* `MSeg` … morphemic segmentation as commonly used in interlinear glossed text in linguistic literature: a hyphen (“-”) denotes boundary between morphemes, “=” is placed between a clitic and its host word.
+* `MGloss` … glossing of individual morphemes as commonly used in interlinear glossed text in linguistic literature. Hypens and equals-to symbols delimit morphemes as in `MSeg`, and there should be the same number of morphemes as in `MSeg` (if `MSeg` is missing, a single morpheme is assumed). A gloss is either a lexical meaning in English, or a grammatical tag; if multiple words/tags are needed in the gloss of one morpheme, they are joined by a period (“.”). There are no guidelines for the tags ([Leipzig glossing rules](https://www.eva.mpg.de/lingua/resources/glossing-rules.php) are a source of tags that are commonly used). However, most of the tags should probably have a corresponding feature in the FEATS column, and there it must follow the UD guidelines.
 
 # Sentence Boundaries and Comments
 
@@ -231,6 +233,7 @@ The contents of the comments and metadata is basically unrestricted and will var
 * A treebank-wide unique sentence id (`sent_id`), formatted as in the examples below. It is assumed that the actual identifier does not contain whitespace characters (while the comment line may contain whitespace around the `sent_id` keyword and the equals-to sign). In sentence ids, the slash character ("/") is reserved for specialized downstream use and should be avoided in UD treebanks. (The specialized use deals with multiple annotations of one sentence within one file, or with parallel data within one file. See [Issue 321](https://github.com/UniversalDependencies/docs/issues/321) for more details. UD releases include some parallel treebanks but these are distributed separately by languages, hence sentence ids with slashes are not used.)
 * Comments used to specify the unannotated sentence as a single string (`text`) should also be formatted as below. If the original text is not available, the providers of the UD treebanks must approximate the `text` attribute using detokenization heuristics.
   * If you provided the `Translit` attribute in MISC (see above), maybe you want to also provide the transliteration of the entire sentence as a sentence-level comment; use `# translit = ...`. In contrast to the `text` attribute, `translit` is optional.
+  * Whether or not you provided the `Gloss` attribute in MISC (see above), you may want to provide the fluent translation of the sentence to English or another language. Use `# text_en = ...` for English (and a similar comment with the corresponding language code for other languages). In contrast to the `text` attribute, `text_en` is optional.
 
 Example:
 
@@ -250,6 +253,18 @@ Example:
     3   no      no      DET     DT    PronType=Neg                      4   det     _   _
     4   clue    clue    NOUN    NN    Number=Sing                       2   obj     _   SpaceAfter=No
     5   .       .       PUNCT   .     _                                 2   punct   _   _
+
+    # sent_id = panc0.s4
+    # text = तत् यथानुश्रूयते।
+    # translit = tat yathānuśrūyate.
+    # text_fr = Voilà ce qui nous est parvenu par la tradition orale.
+    # text_en = This is what is heard.
+    1     तत्	तद्	DET     _   Case=Nom|…|PronType=Dem   3   nsubj    _   Translit=tat|LTranslit=tad|Gloss=it
+    2-3   यथानुश्रूयते	_	_       _   _                         _   _        _   SpaceAfter=No
+    2     यथा	यथा	ADV     _   PronType=Rel              3   advmod   _   Translit=yathā|LTranslit=yathā|Gloss=how
+    3     अनुश्रूयते   अनु-श्रु	VERB    _   Mood=Ind|…|Voice=Pass     0   root     _   Translit=anuśrūyate|LTranslit=anu-śru|Gloss=it-is-heard
+    4     ।      	।	PUNCT   _   _                         3   punct    _   Translit=.|LTranslit=.|Gloss=.
+
 
 # Paragraph and Document Boundaries
 

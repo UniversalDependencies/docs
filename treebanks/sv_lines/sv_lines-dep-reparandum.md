@@ -22,8 +22,8 @@ The following 3 pairs of parts of speech are connected with `reparandum`: <tt><a
 # visual-style 24	bgColor:blue
 # visual-style 24	fgColor:white
 # visual-style 24 14 reparandum	color:blue
-1	Det	det	PRON	PERS-P3SG	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	2	nsubj	_	_
-2	var	vara	AUX	PAST-ACT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+1	Det	det	PRON	PERS-P3SG	Definite=Def|Gender=Neut|Number=Sing|PronType=Prs	2	expl	_	_
+2	var	vara	VERB	PAST-ACT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	precis	precis	ADV	_	_	9	advmod	_	_
 4	som	som	SCONJ	_	_	9	mark	_	_
 5	om	om	SCONJ	_	_	4	fixed	_	_

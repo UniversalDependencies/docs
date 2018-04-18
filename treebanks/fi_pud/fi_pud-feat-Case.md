@@ -145,7 +145,7 @@ The most frequent other feature values with which `VERB` and `Case` co-occurred:
 * `Nom` (266; 42% of non-empty `Case`): <em>tullut, käytetty, oleva, olevat, saanut, tehty, halunnut, ollut, päättänyt, tehnyt</em>
 * `Par` (38; 6% of non-empty `Case`): <em>olevaa, Palattuaan, Päätettyään, altistuneita, aseistettuja, asuttuaan, asuvaa, ehdotettuja, estettyä, hermostunutta</em>
 * `Tra` (24; 4% of non-empty `Case`): <em>saadakseen, keskittyäkseen, Päästäkseen, alkavaksi, arvioitavaksi, edistääkseen, hyötyäkseen, keskustellakseen, käyttääkseen, löytääkseni</em>
-* `EMPTY` (1407): <em>sanoi, tulee, tuli, sanoo, alkoi, kertoi, auttaa, eikä, johti, sai</em>
+* `EMPTY` (1403): <em>sanoi, tulee, tuli, sanoo, kertoi, alkoi, auttaa, eikä, johti, sai</em>
 
 <table>
   <tr><th>Paradigm <i>olla</i></th><th><tt>Nom</tt></th><th><tt>Gen</tt></th><th><tt>Par</tt></th><th><tt>Ine</tt></th><th><tt>Ill</tt></th><th><tt>Ela</tt></th></tr>

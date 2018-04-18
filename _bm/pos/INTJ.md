@@ -5,18 +5,12 @@ shortdef: 'interjection'
 udver: '2'
 ---
 
-### Definition
 
-An interjection is a word that is used most often as an exclamation or part of an exclamation. It typically expresses an emotional reaction,
-is not syntactically related to other accompanying expressions, and may include a combination of sounds not otherwise found in the language.
+An interjection is a word that is an equivalent of a whole clause.
+It is not syntactically related to other accompanying expressions.
 
-### Examples in Bambara
+### Examples 
 
-- <b>Em</b> na we FRSC as una know.
-- <b>Em</b> na distraction.
-- <b>See</b> two lose now.
-- Wey come dey check sey <b>ah ah</b> ma car na me park dis car.
-- <b>Mtschew</b> I go fit go.
-- Some people go say dis brak <b>ah</b> dis brake dey too go down.
-- <b>Ehn</b> one thing one thing.
-- So dat you no go go enter <b>em</b> mouth of anoder car.
+*_<b>Àyí</b>, né má Fàntá yé. "No, I did not see Fanta"._
+*_Búguri kó: <b>tot-tot-tot</b>. "Dust said: tot-tot-tot"._
+

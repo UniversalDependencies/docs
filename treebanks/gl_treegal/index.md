@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v1.4 release.
 
 The following people have contributed to making this treebank part of UD: Marcos Garcia.
 
-Repository: [UD_Galician-TreeGal](https://github.com/UniversalDependencies/UD_Galician-TreeGal)
+Repository: [UD_Galician-TreeGal](https://github.com/UniversalDependencies/UD_Galician-TreeGal)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgl_treegal)
 
 License: LGPLLR
 
@@ -48,15 +49,15 @@ The Galician-TreeGal is a treebank for Galician developed at LyS Group (Universi
 
 The resource derives from a subset (called *xeral*) of the XIADA corpus (v2.6), created at the Centro Ramón Piñeiro para a Investigación en Humanidades (http://corpus.cirp.es/xiada/).
 
-All the information except the syntactic one was semi-automatically converted to UD from the original resource. The dependency labels were assigned using cross-lingual parsing techniques, and then manually corrected by a linguist (see the references for more information).
+All the information except the syntactic one was semi-automatically converted to UD from the original resource. The dependency labels were assigned using cross-lingual parsing techniques, and then manually corrected by a linguist (see the references for more information). At the end of this process, several corrections were carried out in order to agree with the UD guidelines.
 
-Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens), and it is divided 20-40-40 splits (train-dev-test).
+Galician-TreeGal v0.41 contains 1000 sentences of the xeral corpus (~25k tokens), and it is divided 20-40-40 splits (train-dev-test).
 
 ## Acknowledgments
 
 * Garcia, Marcos, 2016. *Universal Dependencies Guidelines for the Galician-TreeGal Treebank.* Technical Report. LyS Group, Universidade da Coruña.
 
-* Garcia, Marcos, Carlos Gómez-Rodríguez and Miguel A. Alonso, 2017. *New treebank or repurposed? On the feasibility of cross-lingual parsing of Romance languages with Universal Dependencies.* Natural Language Engineering, doi:10.1017/S1351324917000377
+* Garcia, Marcos, Carlos Gómez-Rodríguez and Miguel A. Alonso, 2018. *New treebank or repurposed? On the feasibility of cross-lingual parsing of Romance languages with Universal Dependencies.* Natural Language Engineering, 24(1): 91-122.
 
 * Rojo, Guillermo, Marisol López Martínez, Eva Domínguez Noya and Fco. Mario Barcala, 2015. *Corpus de adestramento do Etiquetador/Lematizador do Galego Actual (XIADA),* v2.6. Centro Ramón Piñeiro para a Investigación en Humanidades.
 
@@ -77,11 +78,24 @@ Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens),
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 1000 sentences, 23479 tokens and 25548 syntactic words.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 2682 tokens (11%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 1 types of words with spaces. Examples: 687 614 874</li>
-<li>This corpus contains 32 types of words that contain both letters and punctuation. Examples: PSdeG-PSOE, etc., Costa-Gavras, (in)cultura, BNG-PSOE, Barros', CIG-ensino, Campos', Cunqueiro:, D., Dulcinea,, F., Galego-portuguesa, Oops..., P., PSOE-BNG, Qué!, R., S., Silencio,, again!, best-sellers, centro-esquerda, cow-boy, d'Estudis, económico-financeira, galego-portugués-brasileiro, manuelmaria@as-pg.com, sex-shop, www.bng-galiza.org, www.novoestatuto.com, xurídico-público</li>
+</ul>
+
+<ul>
+<li>This corpus contains 32 types of words that contain both letters and punctuation. Examples: PSdeG-PSOE, etc., Costa-Gavras, (in)cultura, BNG-PSOE, Barros', CIG-ensino, Campos', Cunqueiro:, D., Dulcinea,, F., Galego-portuguesa, Oops..., P., PSOE-BNG, Qué!, R., S., Silencio,, again!, best-sellers, centro-esquerda, cow-boy, d'Estudis, económico-financeira, g​a​l​e​g​o​-​p​o​r​t​u​g​u​é​s​-​b​r​a​s​i​l​e​i​r​o, m​a​n​u​e​l​m​a​r​i​a​@​a​s​-​p​g​.​c​o​m, sex-shop, www.bng-galiza.org, www.novoestatuto.com, xurídico-público</li>
+</ul>
+
+<ul>
 <li>This corpus contains 2059 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
 <li>There are 301 types of multi-word tokens. Examples: do, da, no, na, dos, ao, á, das, polo, nas, coa, nos, co, dun, pola, ás, aos, dunha, nunha, cos, coas, nun, polos, cun, deste, neste, nesta, polas, desta, darlle, delas, dese, cunha, doutras, nesa, trátase, dela, deles, destes, doutros, entenderse, nese, 'García, Barros', Constrúese, Gustaríame, corresponderalle, coñecelo, cúmprense, daqueles.</li>
 </ul>
@@ -93,6 +107,9 @@ Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens),
 <ul>
 <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: PART</li>
+</ul>
+
+<ul>
 </ul>
 
 <ul>
@@ -116,7 +133,9 @@ Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens),
 </ul>
 
 <ul>
-<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Fin
   <ul>
@@ -124,18 +143,27 @@ Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens),
     <li>VERB: hai, ten, teñen, fai, fixo, quere, considera, di, dá, fan</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Ger
   <ul>
     <li>AUX: sendo, podendo</li>
     <li>VERB: afirmando, partindo, considerando, dando, pagando, recoñecendo, agardando, apuntando, chegando, cobrando</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Inf
   <ul>
     <li>AUX: ser, poder, estar, ter, acabar, ir, parecer, quedar, seren, sermos</li>
     <li>VERB: facer, ter, ver, falar, dar, pasar, traballar, seguir, dicir, gañar</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>AUX: considerado</li>
@@ -143,12 +171,12 @@ Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens),
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
+
 <li><a>Gender</a>
+
   <ul>
     <li>Com
       <ul>
@@ -158,6 +186,9 @@ Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens),
         <li>PRON: se, nos, que, me, quen, lle, eu, nós, vostede, alguén</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Fem
       <ul>
         <li>ADJ: galega, política, europea, nova, social, Franca, actual, cultural, laboral, mellor</li>
@@ -169,6 +200,9 @@ Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens),
         <li>VERB-Part: recibida, dirixida, destinadas, feita, feitas, prometidas, realizada, vencellada, Configurada, Nacida</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>ADJ: novo, galego, español, galegos, socialista, constitucional, difícil, gran, mellor, claro</li>
@@ -181,16 +215,24 @@ Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens),
         <li>VERB-Part: debido, baseado, elaborado, elixido, afectado, apresentado, atendidos, chamado, dirixido, empeñados</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neut
       <ul>
         <li>PRON: iso, isto</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Number</a>
+
   <ul>
     <li>Plur
       <ul>
@@ -208,6 +250,9 @@ Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens),
         <li>VERB-Part: atendidos, destinadas, empeñados, feitas, obrigados, prometidas, Decididos, afectados, apresentadas, asinados</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: galega, novo, galego, español, mellor, política, social, xeral, actual, difícil</li>
@@ -223,30 +268,45 @@ Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens),
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Acc
       <ul>
         <li>PRON: o, nos, lo, a, as, os, me, no, los, na</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dat
       <ul>
         <li>PRON: lle, nos, lles, me, che</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Nom
       <ul>
         <li>PRON: eu, el, vostede, nós, ti, eles</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Definite</a>
+
   <ul>
     <li>Def
       <ul>
@@ -254,32 +314,47 @@ Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens),
         <li>PRON: a</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>DET: un, unha, uns, unhas</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Degree and Polarity</h3>
 
+
 <li><a>Degree</a>
+
   <ul>
     <li>Cmp
       <ul>
         <li>ADJ: mellor, maior, maiores, peor, meirande, mellores, menor</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sup
       <ul>
         <li>ADJ: máximo, altísimo, importantísima, máxima</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Polarity</a>
+
   <ul>
     <li>Neg
       <ul>
@@ -289,13 +364,20 @@ Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens),
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Verbal Features</h3>
 
 
+
+
 <li><a>Mood</a>
+
   <ul>
     <li>Cnd,Ind
       <ul>
@@ -304,17 +386,26 @@ Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens),
         <li>VERB-Fin: gustaría, tería, Diría, Quedaría, correspondería, empobrecería, escluiría, faltaría, gostaría, instalaría</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Imp
       <ul>
         <li>VERB-Fin: Explica, Imaxina</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>AUX-Fin: é, foi, está, son, pode, están, era, vai, será, poden</li>
         <li>VERB-Fin: hai, ten, teñen, fai, fixo, quere, considera, di, dá, fan</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sub
       <ul>
         <li>AUX-Fin: sexa, fose, sexan, estea, estivese, poidan, teña, estean, for, fosen</li>
@@ -322,9 +413,13 @@ Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens),
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Tense</a>
+
   <ul>
     <li>Fut
       <ul>
@@ -332,24 +427,36 @@ Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens),
         <li>VERB-Fin: terá, contará, corresponderá, decidirá, ocupará, recollerá, terán, Atribuirá, Lograrán, Pasarán</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Imp
       <ul>
         <li>AUX-Fin: era, estaba, ía, eran, estaban, podía, Podiamos, debían, podia, tiña</li>
         <li>VERB-Fin: había, tiña, sabía, facía, quería, daba, defendiamos, dicía, escribía, falaba</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Past
       <ul>
         <li>AUX-Fin: foi, foron, fose, estivese, estivo, puido, viñeron, estiveron, fosen, puidemos</li>
         <li>VERB-Fin: fixo, deu, dixo, houbo, publicou, tivo, chegaron, conseguiu, fixemos, comezou</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pqp
       <ul>
         <li>AUX-Fin: fora, deberan, foran</li>
         <li>VERB-Fin: quixera, cometeran, comunicara, escribiran, houbera, reflectira, rematara, valera, vira</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pres
       <ul>
         <li>AUX-Fin: é, está, son, pode, están, vai, poden, ten, sexa, hai</li>
@@ -357,13 +464,20 @@ Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens),
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
 
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Art
       <ul>
@@ -371,18 +485,27 @@ Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens),
         <li>PRON: o, a, os, as</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dem
       <ul>
         <li>DET: esta, este, ese, esa, estes, estas, aqueles, esas, eses, aquel</li>
         <li>PRON: iso, isto, este, estes, esta, aqueles, Ese, aquel, aquela, esa</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>DET: todo, todos, mesmo, outra, outro, outros, outras, toda, cada, calquera</li>
         <li>PRON: algo, todo, nada, un, algúns, unha, outros, outro, alguén, mesmo</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Int
       <ul>
         <li>ADV: como, cómo, onde</li>
@@ -390,12 +513,18 @@ Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens),
         <li>PRON: que, Cal, Quen, canto, Cales, Cantos</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
         <li>DET: súa, seu, seus, nosa, súas, noso, meu, miña, nosos, meus</li>
         <li>PRON: se, lle, nos, o, me, lo, lles, a, elas, nós</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rel
       <ul>
         <li>ADV: como, cando, onde</li>
@@ -404,24 +533,35 @@ Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens),
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>NumType</a>
+
   <ul>
     <li>Card
       <ul>
         <li>NUM: catro, dous, tres, un, dúas, cinco, dez, 1990, 25, 36</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ord
       <ul>
         <li>NUM: primeira, primeiro, segunda, II, IX, terceira, terceiro, V, primeiras, primeiros</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Poss</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -430,10 +570,15 @@ Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens),
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Person</a>
+
   <ul>
     <li>1
       <ul>
@@ -446,11 +591,17 @@ Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens),
         <li>VERB-Inf: completarmos, integrarmos, irmos, termos</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>1,3
       <ul>
         <li>VERB-Fin: Diría</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>AUX-Fin: Vas</li>
@@ -458,6 +609,9 @@ Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens),
         <li>VERB-Fin: Explica, Imaxina, aceptas, alboreas, atoparás, buscas, chegas, escoites, escureces, miras</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>AUX-Fin: é, foi, está, son, pode, están, era, sería, vai, será</li>
@@ -469,11 +623,17 @@ Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens),
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
 
+
+
 <li><a>Number[psor]</a>
+
   <ul>
     <li>Plur
       <ul>
@@ -481,6 +641,9 @@ Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens),
         <li>PRON: nosa</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>DET: súa, seu, seus, súas, meu, miña, meus, sua</li>
@@ -488,20 +651,24 @@ Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens),
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Other Features</h3>
+
 
 <li><a>AdpType</a>
   <ul>
     <li>Prep
       <ul>
-        <li>ADJ: por</li>
         <li>ADP: de, en, a, por, con, para, sobre, entre, sen, desde</li>
       </ul>
     </li>
   </ul>
 </li>
+
 <li><a>Clitic</a>
   <ul>
     <li>Yes
@@ -518,6 +685,9 @@ Galician-TreeGal v0.4 contains 1000 sentences of the xeral corpus (~25k tokens),
 
 <ul>
 <li>This corpus uses 9 lemmas as copulas (<a>cop</a>). Examples: ser, estar, resultar, parecer, considerar, permanecer, deixar, eis, ter.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 18 lemmas as auxiliaries (<a>aux</a>). Examples: poder, ir, ter, estar, deber, haber, vir, seguir, acabar, adoitar, pasar, ver, acertar, levar, quedar, querer, semellar, tratar.</li>
 <li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: ser, estar, quedar.</li>
 </ul>

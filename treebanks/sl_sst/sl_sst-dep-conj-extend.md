@@ -17,23 +17,21 @@ The following 18 pairs of parts of speech are connected with `conj:extend`: <tt>
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 11 conj:extend	color:blue
-1	mislim	misliti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	parataxis:discourse	_	word=mislim|msd=Ggnspe
-2	sicer	sicer	CCONJ	Cc	_	7	discourse	_	word=sicer|msd=Vp
-3	eem	eem	INTJ	I	_	7	discourse:filler	_	word=eem|msd=M
-4	okej	okej	ADV	Rgp	Degree=Pos	7	discourse	_	word=okej|msd=Rsn
-5	ful	ful	ADV	Rgp	Degree=Pos	7	advmod	_	word=ful|msd=Rsn
-6	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	aux	_	word=sn|msd=Gp-spe-n
-7	pogrešala	pogrešati	VERB	Vmpp-sf	Aspect=Imp|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	word=pogrešala|msd=Ggnd-ez
-8	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	word=jaz|msd=Zop-ei
-9	kolege	kolega	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	7	obj	_	word=kolege|msd=Sommt
-10	pa	pa	CCONJ	Cc	_	11	cc	_	word=pa|msd=Vp
-11	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	9	conj:extend	_	word=to|msd=Zk-sei
-12	ful	ful	ADV	Rgp	Degree=Pos	7	dislocated	_	word=ful|msd=Rsn
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 10 conj:extend	color:blue
+1	srbščine	srbščina	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	0	root	_	word=srbščine|msd=Sozer
+2	in	in	CCONJ	Cc	_	3	cc	_	word=in|msd=Vp
+3	hrvaščine	hrvaščina	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	1	conj	_	word=hrvaščine|msd=Sozer
+4	pa	pa	CCONJ	Cc	_	5	cc	_	word=pa|msd=Vp
+5	še	še	PART	Q	_	1	conj	_	word=še|msd=L
+6	[gap]	[gap]	X	X	_	1	punct	_	word=[gap]|msd=N
+7	pa	pa	CCONJ	Cc	_	8	cc	_	word=pa|msd=Vp
+8	cirilica	cirilica	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	word=cirilica|msd=Sozei
+9	pa	pa	CCONJ	Cc	_	10	cc	_	word=pa|msd=Vp
+10	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	1	conj:extend	_	word=to|msd=Zk-sei
 
 ~~~
 
@@ -60,18 +58,23 @@ The following 18 pairs of parts of speech are connected with `conj:extend`: <tt>
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 7 conj:extend	color:blue
-1	pa	pa	CCONJ	Cc	_	7	cc	_	word=pa|msd=Vp
-2	kake	kak	DET	Pq-mpa	Case=Acc|Gender=Masc|Number=Plur|PronType=Int	3	det	_	word=kake|msd=Zv-mmt
-3	popuste	popust	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	5	obj	_	word=popuste|msd=Sommt
-4	jim	on	PRON	Pp3mpd--y	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Variant=Short	5	iobj	_	word=jim|msd=Zotmmd--k
-5	daješ	dajati	VERB	Vmpr2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	word=daješ|msd=Ggnsde
-6	pa	pa	CCONJ	Cc	_	7	cc	_	word=pa|msd=Vp
-7	tako	tako	ADV	Rgp	Degree=Pos	5	conj:extend	_	word=tako|msd=Rsn
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 11 conj:extend	color:blue
+1	saj	saj	CCONJ	Cc	_	11	cc	_	word=sej|msd=Vp
+2	potem	potem	ADV	Rgp	Degree=Pos	8	advmod	_	word=potem|msd=Rsn
+3	si	se	PRON	Px---d--y	Case=Dat|PronType=Prs|Variant=Short	8	expl	_	word=si|msd=Zp---d--k
+4	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	8	aux	_	word=je|msd=Gp-ste-n
+5	v	v	ADP	Sl	Case=Loc	6	case	_	word=v|msd=Dm
+6	bistvu	bistvo	NOUN	Ncnsl	Case=Loc|Gender=Neut|Number=Sing	8	obl	_	word=bistvu|msd=Sosem
+7	sama	sam	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	8	obl	_	word=sama|msd=Ppnzei
+8	kupila	kupiti	VERB	Vmep-sf	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	word=kupila|msd=Ggdd-ez
+9	ne	ne	PART	Q	_	8	discourse	_	word=ne|msd=L
+10	ali	ali	CCONJ	Cc	_	11	cc	_	word=al|msd=Vp
+11	kako	kako	ADV	Rgp	Degree=Pos	8	conj:extend	_	word=kako|msd=Rsn
+12	?	?	PUNCT	Z	_	8	punct	_	word=?|msd=U
 
 ~~~
 

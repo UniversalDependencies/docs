@@ -41,7 +41,7 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="fr_sequoia-pos
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.571429 (the average of all parts of speech is 1.399011).
+The form / lemma ratio of `SCONJ` is 1.571429 (the average of all parts of speech is 1.399096).
 
 The 1st highest number of forms (2) was observed with the lemma “lorsque”: <em>lorsqu', lorsque</em>.
 
@@ -54,9 +54,9 @@ The 3rd highest number of forms (2) was observed with the lemma “que”: <em>q
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="fr_sequoia-dep-mark.html">mark</a></tt> (617; 81% instances), <tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt> (143; 19% instances), <tt><a href="fr_sequoia-dep-advmod.html">advmod</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="fr_sequoia-dep-mark.html">mark</a></tt> (616; 81% instances), <tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt> (143; 19% instances), <tt><a href="fr_sequoia-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="fr_sequoia-dep-dep.html">dep</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (468; 61% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (73; 10% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (70; 9% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (59; 8% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (49; 6% instances), <tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> (21; 3% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (11; 1% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (9; 1% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 9 different parts of speech: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (469; 62% instances), <tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (74; 10% instances), <tt><a href="fr_sequoia-pos-ADP.html">ADP</a></tt> (69; 9% instances), <tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (59; 8% instances), <tt><a href="fr_sequoia-pos-ADV.html">ADV</a></tt> (50; 7% instances), <tt><a href="fr_sequoia-pos-SCONJ.html">SCONJ</a></tt> (21; 3% instances), <tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (11; 1% instances), <tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (7; 1% instances), <tt><a href="fr_sequoia-pos-DET.html">DET</a></tt> (1; 0% instances)
 
 739 (97%) `SCONJ` nodes are leaves.
 

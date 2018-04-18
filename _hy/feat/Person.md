@@ -15,12 +15,12 @@ udver: '2'
 </table>
 
 Person is a feature of personal and possessive
-[pronouns](PRON), [determiners](DET), and of [auxiliaries](AUX) and [verbs](VERB). On verbs it is in
+[pronouns](PRON) / [determiners](DET), and of [auxiliaries](AUX) / [verbs](VERB). On verbs it is in
 fact an agreement feature that marks the person of the verb's subject. Person
 marked on verbs makes it unnecessary to always add a personal pronoun
 as subject and thus subjects are sometimes dropped (Armenian is a pro-drop language).
 
-We also apply the feature [PossPerson]() to denote the person of the possessor on nominal or pronominal elements.
+We also apply the feature [Person[psor]]() to denote the person of the possessor on nominal or pronominal elements.
 
 ### <a name="1">`1`</a>: first person
 

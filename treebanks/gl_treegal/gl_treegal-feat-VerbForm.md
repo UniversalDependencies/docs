@@ -92,7 +92,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="gl_treegal-dep-conj.html">conj</a></tt>]--> VERB</tt> (168; 79%),
 <tt>VERB --[<tt><a href="gl_treegal-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (80; 52%),
-<tt>VERB --[<tt><a href="gl_treegal-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (21; 72%),
+<tt>VERB --[<tt><a href="gl_treegal-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (21; 70%),
 <tt>VERB --[<tt><a href="gl_treegal-dep-mark.html">mark</a></tt>]--> VERB</tt> (2; 100%),
 <tt>AUX --[<tt><a href="gl_treegal-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%).
 

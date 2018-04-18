@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Swedish-PUD: POS Tags: `NUM`
 
 There are 204 `NUM` lemmas (4%), 208 `NUM` types (3%) and 390 `NUM` tokens (2%).
-Out of 16 observed tags, the rank of `NUM` is: 6 in number of lemmas, 6 in number of types and 12 in number of tokens.
+Out of 16 observed tags, the rank of `NUM` is: 6 in number of lemmas, 6 in number of types and 13 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>två, tre, 1, fyra, 3, sex, 10, tio, 000, 2014</em>
 
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>1</em> (<tt><a href="sv_pud-pos-NUM.h
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 1.019608 (the average of all parts of speech is 1.237726).
+The form / lemma ratio of `NUM` is 1.019608 (the average of all parts of speech is 1.237541).
 
 The 1st highest number of forms (2) was observed with the lemma “1”: <em>1, I</em>.
 
@@ -87,5 +87,5 @@ The highest child degree of a `NUM` node is 7.
 
 Children of `NUM` nodes are attached using 15 different relations: <tt><a href="sv_pud-dep-advmod.html">advmod</a></tt> (46; 25% instances), <tt><a href="sv_pud-dep-case.html">case</a></tt> (40; 22% instances), <tt><a href="sv_pud-dep-nmod.html">nmod</a></tt> (29; 16% instances), <tt><a href="sv_pud-dep-punct.html">punct</a></tt> (25; 14% instances), <tt><a href="sv_pud-dep-nummod.html">nummod</a></tt> (12; 7% instances), <tt><a href="sv_pud-dep-cc.html">cc</a></tt> (7; 4% instances), <tt><a href="sv_pud-dep-conj.html">conj</a></tt> (4; 2% instances), <tt><a href="sv_pud-dep-cop.html">cop</a></tt> (4; 2% instances), <tt><a href="sv_pud-dep-mark.html">mark</a></tt> (4; 2% instances), <tt><a href="sv_pud-dep-nsubj.html">nsubj</a></tt> (4; 2% instances), <tt><a href="sv_pud-dep-det.html">det</a></tt> (3; 2% instances), <tt><a href="sv_pud-dep-amod.html">amod</a></tt> (2; 1% instances), <tt><a href="sv_pud-dep-acl-relcl.html">acl:relcl</a></tt> (1; 1% instances), <tt><a href="sv_pud-dep-appos.html">appos</a></tt> (1; 1% instances), <tt><a href="sv_pud-dep-obl.html">obl</a></tt> (1; 1% instances)
 
-Children of `NUM` nodes belong to 13 different parts of speech: <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (42; 23% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (41; 22% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (31; 17% instances), <tt><a href="sv_pud-pos-PUNCT.html">PUNCT</a></tt> (25; 14% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (18; 10% instances), <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> (10; 5% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (4; 2% instances), <tt><a href="sv_pud-pos-DET.html">DET</a></tt> (4; 2% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="sv_pud-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances)
+Children of `NUM` nodes belong to 14 different parts of speech: <tt><a href="sv_pud-pos-ADP.html">ADP</a></tt> (42; 23% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (39; 21% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (31; 17% instances), <tt><a href="sv_pud-pos-PUNCT.html">PUNCT</a></tt> (25; 14% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (18; 10% instances), <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> (7; 4% instances), <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> (5; 3% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (4; 2% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (4; 2% instances), <tt><a href="sv_pud-pos-DET.html">DET</a></tt> (4; 2% instances), <tt><a href="sv_pud-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="sv_pud-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances)
 

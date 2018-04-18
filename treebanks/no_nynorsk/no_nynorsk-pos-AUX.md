@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Norwegian-Nynorsk: POS Tags: `AUX`
 
 There are 10 `AUX` lemmas (0%), 41 `AUX` types (0%) and 16066 `AUX` tokens (5%).
-Out of 17 observed tags, the rank of `AUX` is: 15 in number of lemmas, 11 in number of types and 8 in number of tokens.
+Out of 17 observed tags, the rank of `AUX` is: 15 in number of lemmas, 12 in number of types and 7 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>vere, ha, kunne, skulle, vilje, måtte, bli, få, burde, tore</em>
 
@@ -63,7 +63,7 @@ The 10 most frequent ambiguous types:  <em>er</em> (<tt><a href="no_nynorsk-pos-
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 4.100000 (the average of all parts of speech is 1.347131).
+The form / lemma ratio of `AUX` is 4.100000 (the average of all parts of speech is 1.346565).
 
 The 1st highest number of forms (7) was observed with the lemma “bli”: <em>ble, blei, bli, blir, blitt, vart, vorte</em>.
 
@@ -84,7 +84,7 @@ Examples: <em>er, har, kan, skal, vil, må, blir, bør, får, hev</em>
 
 `AUX` nodes are attached to their parents using 3 different relations: <tt><a href="no_nynorsk-dep-aux.html">aux</a></tt> (8486; 53% instances), <tt><a href="no_nynorsk-dep-cop.html">cop</a></tt> (7019; 44% instances), <tt><a href="no_nynorsk-dep-aux-pass.html">aux:pass</a></tt> (561; 3% instances)
 
-Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (7140; 44% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (4911; 31% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (3027; 19% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (253; 2% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (248; 2% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (232; 1% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (105; 1% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt> (98; 1% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (48; 0% instances), <tt><a href="no_nynorsk-pos-X.html">X</a></tt> (4; 0% instances)
+Parents of `AUX` nodes belong to 10 different parts of speech: <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt> (7140; 44% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt> (4911; 31% instances), <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt> (3027; 19% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (253; 2% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> (248; 2% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> (234; 1% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt> (103; 1% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt> (98; 1% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt> (48; 0% instances), <tt><a href="no_nynorsk-pos-X.html">X</a></tt> (4; 0% instances)
 
 16060 (100%) `AUX` nodes are leaves.
 

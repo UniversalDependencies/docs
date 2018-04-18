@@ -22,10 +22,11 @@ The following 14 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 xcomp	color:blue
-1	vart	bli	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-2	du	du	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
-3	sliten	sliten	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	1	xcomp	_	_
-4	.	$.	PUNCT	_	_	1	punct	_	_
+1	gjekk	gå	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+2	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
+3	klar	klar	ADJ	_	Definite=Ind|Degree=Pos|Number=Sing	1	xcomp	_	_
+4	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	2	appos	_	_
+5	.	$.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 
@@ -33,41 +34,44 @@ The following 14 pairs of parts of speech are connected with `xcomp`: <tt><a hre
 ~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 7 xcomp	color:blue
-1	ja	ja	INTJ	_	_	6	discourse	_	_
-2	dei	dei	PRON	_	Animacy=Hum|Case=Nom|Number=Plur|Person=3|PronType=Prs	6	parataxis:deletion	_	_
-3	e	e	X	_	_	6	discourse:filler	_	_
-4	#	#	PUNCT	_	_	6	punct	_	_
-5	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	expl	_	_
-6	blei	bli	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-7	slutt	slute	VERB	_	VerbForm=Part	6	xcomp	_	_
-8	med	med	ADP	_	_	9	case	_	_
-9	mjølketransporten	mjølketransport	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	6	obl	_	_
-10	og	og	CCONJ	_	_	6	cc	_	_
-11	.	$.	PUNCT	_	_	6	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 xcomp	color:blue
+1	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	var	vere	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	4	cop	_	_
+3	fire	fire	NUM	_	Number=Plur|NumType=Card	4	nummod	_	_
+4	øre	øre	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	0	root	_	_
+5	hugsar	hugse	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
+6	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+7	var	vere	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	5	xcomp	_	_
+8	.	$.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 6 xcomp	color:blue
-1	men	men	CCONJ	_	_	3	cc	_	_
-2	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	obl	_	_
-3	hadde	ha	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-4	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-5	veldig	veldig	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	6	advmod	_	_
-6	moro	moro	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	3	xcomp	_	_
-7	av	av	ADP	_	_	2	case	_	_
-8	for	for	CCONJ	_	_	9	cc	_	_
-9	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	conj	_	_
-10	at	at	SCONJ	_	_	9	parataxis	_	_
-11	.	$.	PUNCT	_	_	3	punct	_	_
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 16 xcomp	color:blue
+1	og	og	CCONJ	_	_	6	cc	_	_
+2	da	da	ADV	_	_	5	reparandum	_	_
+3	e	e	X	_	_	6	discourse:filler	_	_
+4	#	#	PUNCT	_	_	6	punct	_	_
+5	da	da	ADV	_	_	6	advmod	_	_
+6	var	vere	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	11	parataxis:deletion	_	_
+7	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	expl	_	_
+8	jo	jo	ADV	_	_	6	advmod	_	_
+9	#	#	PUNCT	_	_	11	punct	_	_
+10	da	da	ADV	_	_	11	advmod	_	_
+11	vart	bli	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+12	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	expl	_	_
+13	jo	jo	ADV	_	_	11	advmod	_	_
+14	vel	vel	ADV	_	_	11	advmod	_	_
+15	noko	noko	DET	_	Gender=Fem|Number=Sing|PronType=Ind	16	det	_	_
+16	handtering	handtering	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	11	xcomp	_	_
+17	.	$.	PUNCT	_	_	11	punct	_	_
 
 ~~~
 

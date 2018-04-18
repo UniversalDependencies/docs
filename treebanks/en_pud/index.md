@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Jesse Kirchner, Lorenzo Lambertino, Martin Popel, Daniel Zeman, Christopher Manning, Sebastian Schuster, Siva Reddy.
 
-Repository: [UD_English-PUD](https://github.com/UniversalDependencies/UD_English-PUD)
+Repository: [UD_English-PUD](https://github.com/UniversalDependencies/UD_English-PUD)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/uden_pud)
 
 License: CC BY-SA 3.0
 
@@ -111,11 +112,24 @@ features and lemmata were added by Sebastian Schuster.
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 1000 sentences and 21176 tokens.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 2746 tokens (13%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 46 types of words that contain both letters and punctuation. Examples: 's, ’s, n't, n’t, U.S., No., St., co-starring, ’d, B.C., Ms., ’m, ’ve, 'Ya, 'd, 'm, 've, B-29s, B.C.E., G.D.P., I., Jr., M.A., Mr., Z., anti-fascist, ca., co-starred, co-wrote, e-mail, ex-minister, extra-marital, inter-communal, mid-1962, mid-1970s, mid-1980s, mid-Sixties, multi-ethnic, non-fiction, non-white, pro-Beijing, re-domesticated, re-elected, un-detectable, wi-fi, ’re</li>
+</ul>
+
+<ul>
 </ul>
 
 <h2>Morphology</h2>
@@ -124,6 +138,9 @@ features and lemmata were added by Sebastian Schuster.
 
 <ul>
 <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
+</ul>
+
+<ul>
 <li>This corpus contains 8 word types tagged as particles (PART): ', 's, n't, not, n’t, to, up, ’s</li>
 </ul>
 
@@ -148,7 +165,9 @@ features and lemmata were added by Sebastian Schuster.
 </ul>
 
 <ul>
-<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Fin
   <ul>
@@ -157,18 +176,27 @@ features and lemmata were added by Sebastian Schuster.
     <li>VERB: said, took, are, has, is, began, was, became, says, have</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Ger
   <ul>
     <li>AUX: being, having</li>
     <li>VERB: according, following, including, making, playing, using, getting, working, co-starring, growing</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Inf
   <ul>
     <li>AUX: be, have, go, make</li>
     <li>VERB: have, take, do, keep, go, help, see, make, come, get</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>AUX: been, become, declared, frozen, named</li>
@@ -176,33 +204,44 @@ features and lemmata were added by Sebastian Schuster.
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
+
 <li><a>Gender</a>
+
   <ul>
     <li>Fem
       <ul>
         <li>PRON: her, she, herself</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>PRON: he, his, him, himself</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neut
       <ul>
         <li>PRON: it, its, itself</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Number</a>
+
   <ul>
     <li>Plur
       <ul>
@@ -213,6 +252,9 @@ features and lemmata were added by Sebastian Schuster.
         <li>PROPN: States, Alps, Powers, Ages, Americans, Americas, Andes, Balkans, Chinese, Democrats</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: Canadian, Historian, Spanish, male</li>
@@ -228,42 +270,62 @@ features and lemmata were added by Sebastian Schuster.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Acc
       <ul>
         <li>PRON: it, him, them, her, us, me, himself, themselves, itself, You</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Nom
       <ul>
         <li>PRON: it, he, they, I, she, we, you</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Definite</a>
+
   <ul>
     <li>Def
       <ul>
         <li>DET: the</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>DET: a, an</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Degree and Polarity</h3>
 
+
 <li><a>Degree</a>
+
   <ul>
     <li>Cmp
       <ul>
@@ -271,12 +333,18 @@ features and lemmata were added by Sebastian Schuster.
         <li>ADV: longer, earlier, less, better, closer, further</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>ADJ: new, many, other, such, last, great, high, first, own, several</li>
         <li>ADV: well, far, late, soon, close, early, hard, long, Fast</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sup
       <ul>
         <li>ADJ: best, most, biggest, latest, worst, tallest, largest, least, deepest, earliest</li>
@@ -284,9 +352,13 @@ features and lemmata were added by Sebastian Schuster.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Polarity</a>
+
   <ul>
     <li>Neg
       <ul>
@@ -296,13 +368,20 @@ features and lemmata were added by Sebastian Schuster.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Verbal Features</h3>
 
 
+
+
 <li><a>Mood</a>
+
   <ul>
     <li>Ind
       <ul>
@@ -312,9 +391,13 @@ features and lemmata were added by Sebastian Schuster.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Tense</a>
+
   <ul>
     <li>Past
       <ul>
@@ -325,6 +408,9 @@ features and lemmata were added by Sebastian Schuster.
         <li>VERB-Part: used, known, given, made, built, left, released, seen, allowed, considered</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pres
       <ul>
         <li>AUX-Fin: is, are, has, have, 's, do, ’s, does, am, ’m</li>
@@ -333,19 +419,29 @@ features and lemmata were added by Sebastian Schuster.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
 
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Art
       <ul>
         <li>DET: the, a, an</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dem
       <ul>
         <li>ADV: then, there, here</li>
@@ -354,6 +450,9 @@ features and lemmata were added by Sebastian Schuster.
         <li>SCONJ: that</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Int
       <ul>
         <li>ADV: when, how, why, where, whenever</li>
@@ -362,11 +461,17 @@ features and lemmata were added by Sebastian Schuster.
         <li>SCONJ: when</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
         <li>PRON: it, he, his, their, they, I, her, its, she, we</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rel
       <ul>
         <li>ADV: where, when, why</li>
@@ -376,9 +481,13 @@ features and lemmata were added by Sebastian Schuster.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>NumType</a>
+
   <ul>
     <li>Card
       <ul>
@@ -386,20 +495,30 @@ features and lemmata were added by Sebastian Schuster.
         <li>PROPN: I, I., V, VI, X</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Mult
       <ul>
         <li>ADV: once, twice</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ord
       <ul>
         <li>ADJ: first, second, third, 8th, 16th, 20th, 3rd, 5th, 13th, 14th</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Poss</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -407,9 +526,13 @@ features and lemmata were added by Sebastian Schuster.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Reflex</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -417,9 +540,13 @@ features and lemmata were added by Sebastian Schuster.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Person</a>
+
   <ul>
     <li>1
       <ul>
@@ -427,11 +554,17 @@ features and lemmata were added by Sebastian Schuster.
         <li>PRON: I, we, our, my, us, me</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>PRON: you, your</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>AUX-Fin: was, is, has, 's, ’s, does, means</li>
@@ -440,12 +573,19 @@ features and lemmata were added by Sebastian Schuster.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
 
 
+
+
+
 <h3>Other Features</h3>
+
 
 <li><a>Foreign</a>
   <ul>
@@ -463,6 +603,9 @@ features and lemmata were added by Sebastian Schuster.
 
 <ul>
 <li>This corpus uses 4 lemmas as copulas (<a>cop</a>). Examples: be, ’s, ’m, ’re.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 16 lemmas as auxiliaries (<a>aux</a>). Examples: have, be, will, would, can, do, could, may, might, should, must, ’d, ’s, ’ve, to, ’m.</li>
 <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: be, get.</li>
 </ul>

@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Latin'
+title:  'UD_Latin-Perseus'
 udver: '2'
 ---
 
@@ -9,7 +9,7 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Latin
+# UD Latin Perseus
 
 Language: [Latin](../la/overview/la-hub.html) (code: `la`)<br/>
 Family: Indo-European, Latin
@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 
 The following people have contributed to making this treebank part of UD: Giuseppe G. A. Celano, Daniel Zeman.
 
-Repository: [UD_Latin](https://github.com/UniversalDependencies/UD_Latin)
+Repository: [UD_Latin-Perseus](https://github.com/UniversalDependencies/UD_Latin-Perseus)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_perseus)
 
 License: CC BY-NC-SA 2.5
 
@@ -26,16 +27,19 @@ Genre: fiction, nonfiction, bible
 
 Questions, comments?
 General annotation questions (either Latin-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Latin/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Latin-Perseus/issues).
 If you want to collaborate, please contact [celano&nbsp;(æt)&nbsp;informatik&nbsp;•&nbsp;uni-leipzig&nbsp;•&nbsp;de].
+Development of the treebank happens outside the UD repository.
+If there are bugs, either the original data source or the conversion procedure must be fixed.
+Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
-| XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Lemmas | annotated manually in non-UD style, automatically converted to UD |
+| UPOS | annotated manually in non-UD style, automatically converted to UD |
+| XPOS | annotated manually |
+| Features | annotated manually in non-UD style, automatically converted to UD |
+| Relations | annotated manually in non-UD style, automatically converted to UD |
 
 ## Description
 
@@ -100,27 +104,40 @@ Further details can be found at:
 * http://perseusdl.github.io/treebank_data/
 
 
-# Statistics of UD Latin
+# Statistics of UD Latin Perseus
 
 ## POS Tags
 
-[ADJ](la-pos-ADJ.html) – [ADP](la-pos-ADP.html) – [ADV](la-pos-ADV.html) – [CCONJ](la-pos-CCONJ.html) – [INTJ](la-pos-INTJ.html) – [NOUN](la-pos-NOUN.html) – [NUM](la-pos-NUM.html) – [PRON](la-pos-PRON.html) – [PUNCT](la-pos-PUNCT.html) – [SCONJ](la-pos-SCONJ.html) – [VERB](la-pos-VERB.html) – [X](la-pos-X.html)
+[ADJ](la_perseus-pos-ADJ.html) – [ADP](la_perseus-pos-ADP.html) – [ADV](la_perseus-pos-ADV.html) – [CCONJ](la_perseus-pos-CCONJ.html) – [INTJ](la_perseus-pos-INTJ.html) – [NOUN](la_perseus-pos-NOUN.html) – [NUM](la_perseus-pos-NUM.html) – [PRON](la_perseus-pos-PRON.html) – [PUNCT](la_perseus-pos-PUNCT.html) – [SCONJ](la_perseus-pos-SCONJ.html) – [VERB](la_perseus-pos-VERB.html) – [X](la_perseus-pos-X.html)
 
 ## Features
 
-[Aspect](la-feat-Aspect.html) – [Case](la-feat-Case.html) – [Degree](la-feat-Degree.html) – [Gender](la-feat-Gender.html) – [Mood](la-feat-Mood.html) – [Number](la-feat-Number.html) – [Person](la-feat-Person.html) – [Tense](la-feat-Tense.html) – [VerbForm](la-feat-VerbForm.html) – [Voice](la-feat-Voice.html)
+[Aspect](la_perseus-feat-Aspect.html) – [Case](la_perseus-feat-Case.html) – [Degree](la_perseus-feat-Degree.html) – [Gender](la_perseus-feat-Gender.html) – [Mood](la_perseus-feat-Mood.html) – [Number](la_perseus-feat-Number.html) – [Person](la_perseus-feat-Person.html) – [Tense](la_perseus-feat-Tense.html) – [VerbForm](la_perseus-feat-VerbForm.html) – [Voice](la_perseus-feat-Voice.html)
 
 ## Relations
 
-[acl](la-dep-acl.html) – [advcl](la-dep-advcl.html) – [advmod](la-dep-advmod.html) – [amod](la-dep-amod.html) – [appos](la-dep-appos.html) – [aux](la-dep-aux.html) – [case](la-dep-case.html) – [cc](la-dep-cc.html) – [ccomp](la-dep-ccomp.html) – [conj](la-dep-conj.html) – [cop](la-dep-cop.html) – [csubj](la-dep-csubj.html) – [iobj](la-dep-iobj.html) – [mark](la-dep-mark.html) – [nmod](la-dep-nmod.html) – [nsubj](la-dep-nsubj.html) – [nummod](la-dep-nummod.html) – [obj](la-dep-obj.html) – [obl](la-dep-obl.html) – [parataxis](la-dep-parataxis.html) – [punct](la-dep-punct.html) – [root](la-dep-root.html) – [vocative](la-dep-vocative.html) – [xcomp](la-dep-xcomp.html)
+[acl](la_perseus-dep-acl.html) – [advcl](la_perseus-dep-advcl.html) – [advmod](la_perseus-dep-advmod.html) – [amod](la_perseus-dep-amod.html) – [appos](la_perseus-dep-appos.html) – [aux](la_perseus-dep-aux.html) – [case](la_perseus-dep-case.html) – [cc](la_perseus-dep-cc.html) – [ccomp](la_perseus-dep-ccomp.html) – [conj](la_perseus-dep-conj.html) – [cop](la_perseus-dep-cop.html) – [csubj](la_perseus-dep-csubj.html) – [iobj](la_perseus-dep-iobj.html) – [mark](la_perseus-dep-mark.html) – [nmod](la_perseus-dep-nmod.html) – [nsubj](la_perseus-dep-nsubj.html) – [nummod](la_perseus-dep-nummod.html) – [obj](la_perseus-dep-obj.html) – [obl](la_perseus-dep-obl.html) – [parataxis](la_perseus-dep-parataxis.html) – [punct](la_perseus-dep-punct.html) – [root](la_perseus-dep-root.html) – [vocative](la_perseus-dep-vocative.html) – [xcomp](la_perseus-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 2273 sentences and 29138 tokens.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 4381 tokens (15%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 11 types of words that contain both letters and punctuation. Examples: p., M., L., R., C., Cn., D., Ian., Kal., Q., T.</li>
+</ul>
+
+<ul>
 </ul>
 
 <h2>Morphology</h2>
@@ -133,7 +150,10 @@ Further details can be found at:
 </ul>
 
 <ul>
-<li>This corpus contains 62 lemmas tagged as pronouns (PRON): aliqui1, aliquis, aliquis1, aliquot1, alius2, amplus1, ceterus1, ecquis1, ego, ego1, hic, hic1, idem, idem1, ille, ille1, ipse, ipse1, is, is1, iste, iste1, meis, meus, nemo, nihil1, nos, nos1, noster, qualis, qualiscumque, quam1, qui, qui1, qui2, quicumque, quicumque1, quidam, quidam1, quis, quis1, quis2, quisnam, quisnam1, quisquam, quisquam1, quisque, quisque1, quisquis, quisquis1, quivis, quivis1, sui, sui1, suus, tu, tu1, tuus, uter3, uterque, uterque1, vester</li>
+</ul>
+
+<ul>
+<li>This corpus contains 39 lemmas tagged as pronouns (PRON): aliqui, aliquis, aliquot, alius, amplus, ceterus, ecquis, ego, hic, idem, ille, ipse, is, iste, meis, meus, nemo, nihil, nos, noster, qualis, qualiscumque, quam, qui, quicumque, quidam, quis, quisnam, quisquam, quisque, quisquis, quivis, sui, suus, tu, tuus, uter, uterque, vester</li>
 </ul>
 
 <ul>
@@ -151,7 +171,9 @@ Further details can be found at:
 </ul>
 
 <ul>
-<li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Fin
   <ul>
@@ -159,22 +181,34 @@ Further details can be found at:
     <li>X: conlubuissent, nutricas, vomuit</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Gdv
   <ul>
     <li>VERB: accipiundis, aperiundum, appellando, augendae, canendo, cavendum, coercendas, commutando, concitanda, confirmandam</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Ger
   <ul>
     <li>VERB: adsentandi, transeundi, cenandum, cogitandum, consolandi, convertendi, eundi, exprobrandi, faciendum, flendi</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Inf
   <ul>
     <li>VERB: esse, habere, dicere, facere, posse, ire, vivere, fore, fuisse, afferri</li>
     <li>X: decollari</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>NOUN: meriti</li>
@@ -182,12 +216,12 @@ Further details can be found at:
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
+
 <li><a>Gender</a>
+
   <ul>
     <li>Fem
       <ul>
@@ -200,6 +234,9 @@ Further details can be found at:
         <li>VERB-Part: dicentem, ardens, contenta, data, diversa, mota, visa, advocata, cognita, composita</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>ADJ: omnes, omnium, suo, alter, omnis, meo, omnibus, alii, duo, magno</li>
@@ -211,6 +248,9 @@ Further details can be found at:
         <li>X: Aefulanum, sestertiarios</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neut
       <ul>
         <li>ADJ: omnia, multa, suum, sua, tantum, magna, talia, cuncta, duo, magnum</li>
@@ -226,10 +266,15 @@ Further details can be found at:
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Number</a>
+
   <ul>
     <li>Plur
       <ul>
@@ -244,6 +289,9 @@ Further details can be found at:
         <li>X-Fin: conlubuissent</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: magna, publicae, suo, publicam, suam, meo, magno, magnum, suum, magnam</li>
@@ -261,9 +309,13 @@ Further details can be found at:
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Abl
       <ul>
@@ -277,6 +329,9 @@ Further details can be found at:
         <li>VERB-Part: falso, posito, actis, interfecto, adverso, advocata, aperto, cantante, confirmata, data</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Acc
       <ul>
         <li>ADJ: omnia, publicam, suam, omnis, magnam, magnum, multa, omnes, suum, tantum</li>
@@ -290,6 +345,9 @@ Further details can be found at:
         <li>X: Aefulanum, sestertiarios</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dat
       <ul>
         <li>ADJ: omnibus, publicae, meo, suis, Germanicis, ingrato, miserae, nostris, nulli, suo</li>
@@ -300,6 +358,9 @@ Further details can be found at:
         <li>VERB-Part: audienti, habenti, monitis, querenti, reposcenti, victis, Afflictis, Docto, absenti, adeuntibus</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Gen
       <ul>
         <li>ADJ: omnium, publicae, alterius, mei, mali, multarum, magni, meae, suae, tanti</li>
@@ -313,11 +374,17 @@ Further details can be found at:
         <li>VERB-Part: amantis, dicentis, dicentium, perditorum, sedentis, Dictorum, Periturae, abrupti, agitantis, agundi</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Loc
       <ul>
         <li>NOUN: Romae, domi, militiae, animi</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Nom
       <ul>
         <li>ADJ: magna, duo, omnes, alter, nulla, solus, alii, unus, altera, ceteri</li>
@@ -329,6 +396,9 @@ Further details can be found at:
         <li>VERB-Part: dicentes, dicens, mota, natus, ardens, contenta, existumans, locutus, nactus, obliti</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Voc
       <ul>
         <li>ADJ: infelix, audax, carissime, conscia, crudelior, demens, digna, improbe, incognite, insane</li>
@@ -338,13 +408,20 @@ Further details can be found at:
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
 
 
 
 <h3>Degree and Polarity</h3>
 
+
 <li><a>Degree</a>
+
   <ul>
     <li>Cmp
       <ul>
@@ -353,12 +430,18 @@ Further details can be found at:
         <li>VERB-Part: audentior, doctior</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>ADJ: Aliam, Augustalia, Capenam, Hadriano, Marcia, Martiales, Narbonensi, Reducis, Romani, Romanorum</li>
         <li>VERB-Part: apsenti, natus</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sup
       <ul>
         <li>ADJ: extremo, summa, extrema, maximus, proxima, proximam, proximis, summo, taeterrima, ultima</li>
@@ -367,13 +450,20 @@ Further details can be found at:
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
 
 
 
 <h3>Verbal Features</h3>
 
+
 <li><a>Aspect</a>
+
   <ul>
     <li>Imp
       <ul>
@@ -381,6 +471,9 @@ Further details can be found at:
         <li>VERB-Fin: erat, esset, habebat, posset, erant, faceret, videbatur, dicebat, habebant, diceret</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Perf
       <ul>
         <li>NOUN-Part: meriti</li>
@@ -392,21 +485,31 @@ Further details can be found at:
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Mood</a>
+
   <ul>
     <li>Imp
       <ul>
         <li>VERB-Fin: cave, aspice, noli, proficiscere, refer, Credite, crede, da, desine, dic</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>VERB-Fin: est, habet, inquit, erat, dixit, fuit, vidi, coepit, dedit, audivi</li>
         <li>X-Fin: nutricas, vomuit</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sub
       <ul>
         <li>VERB-Fin: sit, esset, possit, posset, audiat, faceret, foret, aperuisset, facias, sim</li>
@@ -414,9 +517,13 @@ Further details can be found at:
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Tense</a>
+
   <ul>
     <li>Fut
       <ul>
@@ -425,6 +532,9 @@ Further details can be found at:
         <li>VERB-Part: facturum, futura, Periturae, accessurum, cessuros, conflagraturum, conservaturum, daturus, dicturus, dolitura</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Past
       <ul>
         <li>NOUN-Part: meriti</li>
@@ -435,12 +545,18 @@ Further details can be found at:
         <li>X-Fin: vomuit</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pqp
       <ul>
         <li>VERB-Fin: aperuisset, fecerat, dixerat, habuerat, fuerat, iussisset, viderat, censuerat, ceperat, coeperat</li>
         <li>X-Fin: conlubuissent</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pres
       <ul>
         <li>VERB: est, esse, habet, sunt, habere, sit, dicere, potest, facere, iubet</li>
@@ -454,9 +570,13 @@ Further details can be found at:
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Voice</a>
+
   <ul>
     <li>Act
       <ul>
@@ -469,6 +589,9 @@ Further details can be found at:
         <li>X-Fin: conlubuissent, nutricas, vomuit</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pass
       <ul>
         <li>NOUN-Part: meriti</li>
@@ -481,7 +604,11 @@ Further details can be found at:
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
@@ -490,7 +617,13 @@ Further details can be found at:
 
 
 
+
+
+
+
+
 <li><a>Person</a>
+
   <ul>
     <li>1
       <ul>
@@ -498,12 +631,18 @@ Further details can be found at:
         <li>VERB-Fin: vidi, audivi, potui, puto, sum, cogor, habemus, possum, quaeso, coepi</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>VERB-Fin: es, eris, potes, putes, vides, cave, facias, vis, habes, aspice</li>
         <li>X-Fin: nutricas</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>VERB: est, habet, inquit, erat, dixit, fuit, coepit, dedit, sunt, fecit</li>
@@ -512,7 +651,13 @@ Further details can be found at:
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
+
 
 
 
@@ -525,8 +670,11 @@ Further details can be found at:
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: sum1.</li>
-<li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: foro1, celeber, edo1, sum1.</li>
+<li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: sum.</li>
+</ul>
+
+<ul>
+<li>This corpus uses 4 lemmas as auxiliaries (<a>aux</a>). Examples: foro, celeber, edo, sum.</li>
 </ul>
 
 <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>

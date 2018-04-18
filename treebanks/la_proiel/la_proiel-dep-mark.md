@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5476 nodes (3%) are attached to their parents as `mark`.
+6523 nodes (3%) are attached to their parents as `mark`.
 
-5461 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.2954711468225.
+6506 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.36501609688793.
 
-The following 11 pairs of parts of speech are connected with `mark`: <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (4677; 85% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (256; 5% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (235; 4% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (115; 2% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (68; 1% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (61; 1% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (47; 1% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (9; 0% instances), <tt><a href="la_proiel-pos-X.html">X</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (3; 0% instances), <tt><a href="la_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
+The following 12 pairs of parts of speech are connected with `mark`: <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (5545; 85% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (322; 5% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (302; 5% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (136; 2% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (78; 1% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (61; 1% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (55; 1% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (9; 0% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="la_proiel-pos-X.html">X</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (4; 0% instances), <tt><a href="la_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -27,25 +27,7 @@ The following 11 pairs of parts of speech are connected with `mark`: <tt><a href
 3	quoniam	quoniam	SCONJ	G-	_	5	mark	_	ref=MATT_5.4
 4	ipsi	ipse	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	ref=MATT_5.4
 5	possidebunt	possideo	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	1	advcl	_	ref=MATT_5.4
-6	terram	terra	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj:dir	_	ref=MATT_5.4
-
-~~~
-
-
-~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 mark	color:blue
-1	exi	exeo	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_5.8
-2	a	ab	ADP	R-	_	3	case	_	ref=LUKE_5.8
-3	me	ego	PRON	Pp	Case=Abl|Gender=Masc|Number=Sing|Person=1|PronType=Prs	1	obl	_	ref=LUKE_5.8
-4	quia	quia	SCONJ	G-	_	5	mark	_	ref=LUKE_5.8
-5	homo	homo	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	advcl	_	ref=LUKE_5.8
-6	peccator	peccator	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nmod	_	ref=LUKE_5.8
-7	sum	sum	AUX	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ref=LUKE_5.8
-8	Domine	dominus	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	ref=LUKE_5.8
+6	terram	terra	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	ref=MATT_5.4
 
 ~~~
 
@@ -66,6 +48,24 @@ The following 11 pairs of parts of speech are connected with `mark`: <tt><a href
 8	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	ref=MATT_5.12
 9	in	in	ADP	R-	_	10	case	_	ref=MATT_5.12
 10	caelis	caelum	NOUN	Nb	Case=Abl|Gender=Neut|Number=Plur	5	nmod	_	ref=MATT_5.12
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 mark	color:blue
+1	exi	exeo	VERB	V-	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=LUKE_5.8
+2	a	ab	ADP	R-	_	3	case	_	ref=LUKE_5.8
+3	me	ego	PRON	Pp	Case=Abl|Gender=Masc|Number=Sing|Person=1|PronType=Prs	1	obl	_	ref=LUKE_5.8
+4	quia	quia	SCONJ	G-	_	5	mark	_	ref=LUKE_5.8
+5	homo	homo	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	1	advcl	_	ref=LUKE_5.8
+6	peccator	peccator	NOUN	Nb	Case=Nom|Gender=Masc|Number=Sing	5	nmod	_	ref=LUKE_5.8
+7	sum	sum	AUX	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ref=LUKE_5.8
+8	Domine	dominus	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	ref=LUKE_5.8
 
 ~~~
 

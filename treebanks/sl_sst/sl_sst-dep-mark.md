@@ -17,24 +17,38 @@ The following 16 pairs of parts of speech are connected with `mark`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 6 mark	color:blue
+1	mogoče	mogoče	ADV	Rgp	Degree=Pos	4	advmod	_	word=mogoče|msd=Rsn
+2	bi	biti	AUX	Va-c	Mood=Cnd|VerbForm=Fin	4	aux	_	word=bi|msd=Gp-g
+3	še	še	PART	Q	_	4	advmod	_	word=še|msd=L
+4	dodal	dodati	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	word=dodal|msd=Ggdd-em
+5	prej	prej	ADV	Rgc	Degree=Cmp	4	advmod	_	word=prej|msd=Rsr
+6	ko	ko	SCONJ	Cs	_	8	mark	_	word=ko|msd=Vd
+7	nisem	biti	AUX	Va-r1s-y	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	8	aux	_	word=nisn|msd=Gp-spe-d
+8	dokončal	dokončati	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	5	acl	_	word=dokončal|msd=Ggdd-em
+
+~~~
+
+
+~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 3 mark	color:blue
-1	tu	tu	ADV	Rgp	Degree=Pos	0	root	_	word=tu|msd=Rsn
-2	[gap]	[gap]	X	X	_	1	punct	_	word=[gap]|msd=N
-3	ko	ko	SCONJ	Cs	_	4	mark	_	word=ko|msd=Vd
-4	greš	iti	VERB	Vmbr2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	parataxis	_	word=greš|msd=Ggvsde
-5	v	v	ADP	Sa	Case=Acc	6	case	_	word=v|msd=Dt
-6	šolo	šola	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	word=šolo|msd=Sozet
-7	pa	pa	CCONJ	Cc	_	10	cc	_	word=pa|msd=Vp
-8	si	biti	AUX	Va-r2s-n	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	cop	_	word=si|msd=Gp-sde-n
-9	prvič	prvič	ADV	Rgp	Degree=Pos	10	advmod	_	word=prvič|msd=Rsn
-10	ocenjen	ocenjen	ADJ	Appmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part	4	conj	_	word=ocenjen|msd=Pdnmein
-11	recimo	reči	VERB	Vmem1p	Aspect=Perf|Mood=Imp|Number=Plur|Person=1|VerbForm=Fin	4	parataxis:discourse	_	word=recimo|msd=Ggdvpm
-12	a	a	ADV	Rgp	Degree=Pos	4	discourse	_	word=a|msd=Rsn
-13	ne	ne	PART	Q	_	12	fixed	_	word=ne|msd=L
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 4 mark	color:blue
+1	sony	Sony	PROPN	Npmsn	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	word=soni|msd=Slmei
+2	mislim	misliti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	word=mislm|msd=Ggnspe
+3	pa	pa	CCONJ	Cc	_	2	advmod	_	word=pa|msd=Vp
+4	da	da	SCONJ	Cs	_	7	mark	_	word=da|msd=Vd
+5	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	7	cop	_	word=je|msd=Gp-ste-n
+6	malo	malo	DET	Rgp	PronType=Ind	7	advmod	_	word=mal|msd=Rsn
+7	dražji	drag	ADJ	Agcmsny	Case=Nom|Definite=Def|Degree=Cmp|Gender=Masc|Number=Sing	2	ccomp	_	word=dražji|msd=Pppmeid
+8	ne	ne	PART	Q	_	2	discourse	_	word=ne|msd=L
+9	?	?	PUNCT	Z	_	2	punct	_	word=?|msd=U
 
 ~~~
 
@@ -42,36 +56,15 @@ The following 16 pairs of parts of speech are connected with `mark`: <tt><a href
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 2 mark	color:blue
-1	tisti	tisti	DET	Pd-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	6	nsubj	_	word=tist|msd=Zk-mei
-2	ki	ki	SCONJ	Cs	_	4	mark	_	word=ko|msd=Vd
-3	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	cop	_	word=je|msd=Gp-ste-n
-4	žejen	žejen	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	1	acl	_	word=žejn|msd=Ppnmein
-5	bo	biti	AUX	Va-f3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	6	aux	_	word=bo|msd=Gp-pte-n
-6	spil	spiti	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	word=spil|msd=Ggdd-em
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 11 7 mark	color:blue
-1	zag	_	X	Xt	_	3	reparandum	_	word=zag|msd=Nt
-2	[gap]	[gap]	X	X	_	4	punct	_	word=[gap]|msd=N
-3	zagovora	zagovor	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	4	obj	_	word=zagovora|msd=Somer
-4	ne	ne	PART	Q	Polarity=Neg	0	root	_	word=ne|msd=L
-5	zaradi	zaradi	ADP	Sg	Case=Gen	6	case	_	word=zard|msd=Dr
-6	tega	ta	DET	Pd-nsg	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	4	nmod	_	word=tega|msd=Zk-ser
-7	ker	ker	SCONJ	Cs	_	11	mark	_	word=k|msd=Vd
-8	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	11	cop	_	word=je|msd=Gp-ste-n
-9	samo	samo	PART	Q	_	10	advmod	_	word=sm|msd=L
-10	dvajset	dvajset	NUM	Mlc-pn	Case=Nom|Number=Plur|NumForm=Word|NumType=Card	11	nummod	_	word=dvejset|msd=Kbg-mi
-11	procentov	procent	NOUN	Ncmpg	Case=Gen|Gender=Masc|Number=Plur	6	acl	_	word=procentov|msd=Sommr
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 2 mark	color:blue
+1	mislim	misliti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	word=mislim|msd=Ggnspe
+2	da	da	SCONJ	Cs	_	6	mark	_	word=da|msd=Vd
+3	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	cop	_	word=je|msd=Gp-ste-n
+4	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	word=to|msd=Zk-sei
+5	velik	velik	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	word=velik|msd=Ppnmein
+6	problem	problem	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	1	ccomp	_	word=problem|msd=Somei
 
 ~~~
 

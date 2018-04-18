@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Norwegian-Nynorsk: POS Tags: `SYM`
 
 There are 3 `SYM` lemmas (0%), 3 `SYM` types (0%) and 88 `SYM` tokens (0%).
-Out of 17 observed tags, the rank of `SYM` is: 16 in number of lemmas, 16 in number of types and 17 in number of tokens.
+Out of 17 observed tags, the rank of `SYM` is: 17 in number of lemmas, 17 in number of types and 17 in number of tokens.
 
 The 10 most frequent `SYM` lemmas: <em>$/, ©, ½</em>
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>½</em> (<tt><a href="no_nynorsk-pos-
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.347131).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.346565).
 
 The 1st highest number of forms (1) was observed with the lemma “$/”: <em>/</em>.
 

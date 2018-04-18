@@ -17,60 +17,55 @@ The following 30 pairs of parts of speech are connected with `advmod`: <tt><a hr
 
 
 ~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 1 advmod	color:blue
+1	Só	só	ADV	Wn	_	2	advmod	_	_
+2	dedican	dedicar	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	máis	máis	ADV	Wm	_	4	advmod	_	_
+4	tempo	tempo	NOUN	Scms	Gender=Masc|Number=Sing	2	obj	_	_
+5	en	en	ADP	P	AdpType=Prep	7	case	_	_
+6	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
+7	Estados	estados	PROPN	Sp00	Gender=Masc|Number=Plur	2	obl	_	_
+8	Unidos	unido	ADJ	A0mp	Gender=Masc|Number=Plur	7	amod	_	SpaceAfter=No
+9	.	.	PUNCT	Q.	_	2	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 advmod	color:blue
-1	Quen	quen	PRON	Gnas	Gender=Com|Number=Sing|PronType=Int	3	nsubj	_	_
-2	vai	ir	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
-3	marcar	marcar	VERB	V0f000	VerbForm=Inf	0	root	_	_
-4	agora	agora	ADV	Wn	_	3	advmod	_	_
-5	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-6	política	política	NOUN	Scfs	Gender=Fem|Number=Sing	3	obj	_	_
-7	en	en	ADP	P	AdpType=Prep	9	case	_	_
-8	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	concello	concello	NOUN	Scms	Gender=Masc|Number=Sing	3	obl	_	SpaceAfter=No
-10	?	?	PUNCT	Q?	_	3	punct	_	_
+# visual-style 4 3 advmod	color:blue
+1	En	en	ADP	P	AdpType=Prep	2	case	_	_
+2	titulares	titular	NOUN	Scmp	Gender=Masc|Number=Plur	5	obl	_	_
+3	máis	máis	ADV	Wm	_	4	advmod	_	_
+4	pequenos	pequeno	ADJ	A0mp	Gender=Masc|Number=Plur	2	amod	_	_
+5	pode	poder	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	7	expl	_	_
+7	ler	ler	VERB	V0f000	VerbForm=Inf	5	xcomp	_	SpaceAfter=No
+8	:	:	PUNCT	Q:	_	5	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 advmod	color:blue
-1	"	"	PUNCT	Q"	_	2	punct	_	SpaceAfter=No
-2	Temos	ter	VERB	Vpi10p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-4	xornada	xornada	NOUN	Scfs	Gender=Fem|Number=Sing	2	obj	_	_
-5	laboral	laboral	ADJ	A0fs	Gender=Fem|Number=Sing	4	amod	_	_
-6	máis	máis	ADV	Wm	_	7	advmod	_	_
-7	longa	longo	ADJ	A0fs	Gender=Fem|Number=Sing	4	amod	_	_
-8	de	de	ADP	P	AdpType=Prep	9	case	_	_
-9	Europa	Europa	PROPN	Sp00	_	7	obl	_	SpaceAfter=No
-10	.	.	PUNCT	Q.	_	2	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 5 advmod	color:blue
-1	Algúns	algún	PRON	Inmp	Gender=Masc|Number=Plur|PronType=Ind	2	nsubj	_	_
-2	fan	facer	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	xornadas	xornada	NOUN	Scfp	Gender=Fem|Number=Plur	2	obj	_	_
-4	de	de	ADP	P	AdpType=Prep	5	case	_	_
-5	máis	máis	ADV	Wn	_	3	advmod	_	_
-6	de	de	ADP	P	AdpType=Prep	8	case	_	_
-7	12	12	NUM	Ncdfp	Gender=Fem|Number=Plur|NumType=Card	8	nummod	_	_
-8	horas	hora	NOUN	Scfp	Gender=Fem|Number=Plur	5	obl	_	SpaceAfter=No
-9	.	.	PUNCT	Q.	_	2	punct	_	_
+# visual-style 3 2 advmod	color:blue
+1	Traballamos	traballar	VERB	Vpi10p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	máis	máis	ADV	Wm	_	3	advmod	_	_
+3	horas	hora	NOUN	Scfp	Gender=Fem|Number=Plur	1	obl	_	_
+4	que	que	SCONJ	Cs	_	6	case	_	_
+5	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	xaponeses	xaponés	NOUN	Scmp	Gender=Masc|Number=Plur	1	obl	_	SpaceAfter=No
+7	.	.	PUNCT	Q.	_	1	punct	_	_
 
 ~~~
 

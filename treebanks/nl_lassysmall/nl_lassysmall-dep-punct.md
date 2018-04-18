@@ -8,75 +8,67 @@ udver: '2'
 
 This relation is universal.
 
-15260 nodes (15%) are attached to their parents as `punct`.
+14670 nodes (15%) are attached to their parents as `punct`.
 
-7940 instances of `punct` (52%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.47922673656619.
+7633 instances of `punct` (52%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.52440354464894.
 
-The following 16 pairs of parts of speech are connected with `punct`: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (4405; 29% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (3732; 24% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (3252; 21% instances), <tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (1312; 9% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (804; 5% instances), <tt><a href="nl_lassysmall-pos-X.html">X</a></tt>-<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (515; 3% instances), <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt>-<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (448; 3% instances), <tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt>-<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (433; 3% instances), <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (121; 1% instances), <tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt>-<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (87; 1% instances), <tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (80; 1% instances), <tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (24; 0% instances), <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt>-<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (20; 0% instances), <tt><a href="nl_lassysmall-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (18; 0% instances), <tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="nl_lassysmall-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances).
+The following 16 pairs of parts of speech are connected with `punct`: <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (4295; 29% instances), <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (3560; 24% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (3388; 23% instances), <tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (1275; 9% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (686; 5% instances), <tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt>-<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (456; 3% instances), <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt>-<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (451; 3% instances), <tt><a href="nl_lassysmall-pos-X.html">X</a></tt>-<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (262; 2% instances), <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (116; 1% instances), <tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (84; 1% instances), <tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt>-<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (45; 0% instances), <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt>-<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (16; 0% instances), <tt><a href="nl_lassysmall-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (16; 0% instances), <tt><a href="nl_lassysmall-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (10; 0% instances), <tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (6; 0% instances), <tt><a href="nl_lassysmall-pos-INTJ.html">INTJ</a></tt>-<tt><a href="nl_lassysmall-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 4 1 punct	color:blue
-1	«	«	PUNCT	LET	_	4	punct	_	SpaceAfter=No
-2	Maar	maar	CCONJ	VG|neven	_	4	mark	_	_
-3	doodslaan	doodslaan	VERB	WW|inf|vrij|zonder	VerbForm=Inf	4	obj	_	_
-4	deed	doen	VERB	WW|pv|verl|ev	Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	_
-5	hij	hij	PRON	VNW|pers|pron|nomin|vol|3|ev|masc	Case=Nom|Person=3|PronType=Prs	4	nsubj	_	_
-6	niet	niet	ADV	BW	_	4	advmod	_	SpaceAfter=No
-7	,	,	PUNCT	LET	_	10	punct	_	_
-8	want	want	CCONJ	VG|neven	_	10	cc	_	_
-9	tussen	tussen	ADP	VZ|init	_	10	case	_	_
-10	droom	droom	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	conj	_	_
-11	en	en	CCONJ	VG|neven	_	12	cc	_	_
-12	daad	daad	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	10	conj	_	SpaceAfter=No
-13	»	»	PUNCT	LET	_	4	punct	_	_
+# visual-style 4 10 punct	color:blue
+1	Het	het	DET	LID|bep|stan|evon	Definite=Def	2	det	2:det	_
+2	Vlaams	Vlaams	PROPN	SPEC|deeleigen	_	4	nsubj	4:nsubj	_
+3	Gewest	Gewest	PROPN	SPEC|deeleigen	_	2	flat:name	2:flat:name	_
+4	beheert	beheren	VERB	WW|pv|tgw|met-t	Number=Sing|Tense=Pres|VerbForm=Fin	0	root	0:root	_
+5	ook	ook	ADV	BW	_	4	advmod	4:advmod	_
+6	de	de	DET	LID|bep|stan|rest	Definite=Def	7	det	7:det	_
+7	gewestwegen	gewestweg	NOUN	N|soort|mv|basis	Number=Plur	4	obj	4:obj	_
+8	in	in	ADP	VZ|init	_	9	case	9:case	_
+9	Vlaanderen	Vlaanderen	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	4	obl	4:obl	SpaceAfter=No
+10	.	.	PUNCT	LET	_	4	punct	4:punct	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 4 punct	color:blue
+1	Bart	Bart	PROPN	SPEC|deeleigen	_	0	root	0:root	_
+2	De	De	PROPN	SPEC|deeleigen	_	1	flat:name	1:flat:name	_
+3	Wever	Wever	PROPN	SPEC|deeleigen	_	1	flat:name	1:flat:name	SpaceAfter=No
+4	:	:	PUNCT	LET	_	6	punct	6:punct	_
+5	algemeen	algemeen	ADJ	ADJ|prenom|basis|zonder	Degree=Pos	6	amod	6:amod	_
+6	voorzitter	voorzitter	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	1	appos	1:appos	_
+7	(	(	PUNCT	LET	_	9	punct	9:punct	SpaceAfter=No
+8	sinds	sinds	ADP	VZ|init	_	9	case	9:case	_
+9	23	23	NUM	TW|hoofd|vrij	_	6	nmod	6:nmod	_
+10	oktober	oktober	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	9	flat:name	9:flat:name	_
+11	2004	2004	NUM	TW|hoofd|vrij	_	9	flat:name	9:flat:name	SpaceAfter=No
+12	)	)	PUNCT	LET	_	9	punct	9:punct	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 punct	color:blue
-1	WTA	WTA	PROPN	SPEC|deeleigen	_	0	root	_	_
-2	Hamburg	Hamburg	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	1	flat:name	_	_
-3	-	-	PUNCT	LET	_	4	punct	_	_
-4	winst	winst	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	1	parataxis	_	_
-5	in	in	ADP	VZ|init	_	7	case	_	_
-6	de	de	DET	LID|bep|stan|rest	Definite=Def	7	det	_	_
-7	finale	finale	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	nmod	_	_
-8	tegen	tegen	ADP	VZ|init	_	9	case	_	_
-9	Venus	Venus	PROPN	SPEC|deeleigen	_	7	nmod	_	_
-10	Williams	Williams	PROPN	SPEC|deeleigen	_	9	flat:name	_	SpaceAfter=No
-11	.	.	PUNCT	LET	_	1	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 11 punct	color:blue
-1	WTA	WTA	PROPN	SPEC|deeleigen	_	0	root	_	_
-2	Hamburg	Hamburg	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	1	flat:name	_	_
-3	-	-	PUNCT	LET	_	4	punct	_	_
-4	winst	winst	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	1	parataxis	_	_
-5	in	in	ADP	VZ|init	_	7	case	_	_
-6	de	de	DET	LID|bep|stan|rest	Definite=Def	7	det	_	_
-7	finale	finale	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	4	nmod	_	_
-8	tegen	tegen	ADP	VZ|init	_	9	case	_	_
-9	Venus	Venus	PROPN	SPEC|deeleigen	_	7	nmod	_	_
-10	Williams	Williams	PROPN	SPEC|deeleigen	_	9	flat:name	_	SpaceAfter=No
-11	.	.	PUNCT	LET	_	1	punct	_	_
+# visual-style 3 2 punct	color:blue
+1	Antwerpen	Antwerpen	PROPN	N|eigen|ev|basis|onz|stan	Gender=Neut|Number=Sing	0	root	0:root	SpaceAfter=No
+2	:	:	PUNCT	LET	_	3	punct	3:punct	_
+3	Gerda	Gerda	PROPN	SPEC|deeleigen	_	1	parataxis	1:parataxis	_
+4	Van	Van	PROPN	SPEC|deeleigen	_	3	flat:name	3:flat:name	_
+5	Langendonck	Langendonck	PROPN	SPEC|deeleigen	_	3	flat:name	3:flat:name	_
 
 ~~~
 

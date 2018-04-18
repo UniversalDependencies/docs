@@ -19,23 +19,23 @@ The 10 most frequent ambiguous types:  <em>é</em> (<tt><a href="gl_treegal-pos-
 
 
 * <em>é</em>
-  * <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 156: <em>A administración <b>é</b> a única que se libra " .</em>
+  * <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 156: <em>Discutir que <b>é</b> un clásico .</em>
   * <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 1: <em>Porque pavor é o que un sente só de pensar que xente así ten o privilexio de ensinar a outros , isto <b>é</b> , licenza para deformar e empobrecer .</em>
 * <em>foi</em>
-  * <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 37: <em>O anterior expediente , o de 1999 , <b>foi</b> mellor ca este .</em>
+  * <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 37: <em>Cando se montou , o rexeitamento <b>foi</b> total .</em>
   * <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 1: <em>En esa liña de traballo estaba o delegado de a Zona Franca cando se lle ocorreu poñer en cuestión a participación de o consorcio en a creación de novo solo industrial en Vigo , e <b>foi</b> en ese momento cando Riera dixo :</em>
 * <em>está</em>
-  * <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 35: <em>Esa compañía di que a única saída é continuar onde <b>está</b> .</em>
+  * <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 35: <em>A lei <b>está</b> para cumprir , pero tamén ofrece algunhas alternativas .</em>
   * <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 2: <em>Falando de o seu partido , vostede <b>está</b> en contra de a Celulosa , pero en o PSOE hai posturas ambiguas .</em>
 * <em>ser</em>
   * <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 33: <em>Como ten que <b>ser</b> .</em>
   * <tt><a href="gl_treegal-pos-NOUN.html">NOUN</a></tt> 1: <em>A o seu carón , Roxelio , un ex garda civil , un <b>ser</b> anxelical , comprensivo .</em>
   * <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 1: <em>O fundimento ten a virtude de presentar un Hitler críbel , humano , como non podía ser menos , familiar dentro de o que daba de si a situación de emerxencia , o que nos permite analizar mellor as razóns de <b>ser</b> de o fenómeno nazi .</em>
 * <em>pode</em>
-  * <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 19: <em>' A ikebana <b>pode</b> ter un gran futuro en Galiza '</em>
-  * <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 2: <em>O que <b>pode</b> busca a vida fóra .</em>
+  * <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 19: <em>Sempre se <b>pode</b> deixar o coche en o garaxe de a casa e patear as rúas .</em>
+  * <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 2: <em>En titulares máis pequenos <b>pode</b> se ler :</em>
 * <em>están</em>
-  * <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 17: <em>Pero non todos os socialistas <b>están</b> de acordo con esta estratexia .</em>
+  * <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 17: <em>Desde o PSOE tamén <b>están</b> a traballar con outra posibilidade :</em>
   * <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 1: <em>Tamén <b>están</b> os traballadores .</em>
 * <em>vai</em>
   * <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 13: <em>Quen <b>vai</b> marcar agora a política en o concello ?</em>
@@ -44,7 +44,7 @@ The 10 most frequent ambiguous types:  <em>é</em> (<tt><a href="gl_treegal-pos-
   * <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 8: <em>Pois van de lado , temos Zapatero para moito tempo e Touriño <b>será</b> o próximo presidente .</em>
   * <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 1: <em>Con a fin de lograr o máximo consenso para un novo texto estatutario que ou é de todos ou non <b>será</b> .</em>
 * <em>ten</em>
-  * <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 30: <em>É un rango que <b>ten</b> o PSC que a min me gustaría que alcanzase o PSdeG .</em>
+  * <tt><a href="gl_treegal-pos-VERB.html">VERB</a></tt> 30: <em>E como o falar non <b>ten</b> cancela , engade :</em>
   * <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 9: <em>Como <b>ten</b> que ser .</em>
 * <em>sexa</em>
   * <tt><a href="gl_treegal-pos-AUX.html">AUX</a></tt> 8: <em>En calquera grupo de goberno , <b>sexa</b> de coalición ou de unha soa cor , ten que haber disensión .</em>
@@ -52,7 +52,7 @@ The 10 most frequent ambiguous types:  <em>é</em> (<tt><a href="gl_treegal-pos-
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 4.760000 (the average of all parts of speech is 1.370813).
+The form / lemma ratio of `AUX` is 4.760000 (the average of all parts of speech is 1.370902).
 
 The 1st highest number of forms (24) was observed with the lemma “ser”: <em>e, era, eran, foi, for, fora, foran, foron, fose, fosen, sendo, ser, seren, sermos, será, serán, sería, sexa, sexamos, sexan, seña, somos, son, é</em>.
 

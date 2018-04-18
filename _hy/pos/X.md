@@ -13,6 +13,8 @@ A special usage of `X` is for cases of code-switching where it is not possible (
 
 This usage does not extend to ordinary loan words which should be assigned a normal part-of-speech. For example, in _Նա նոր գաջեթների սիրահար է։_ "He is fond of new gadgets", _գաջեթ_ is an ordinary [NOUN]().
 
+Note that the articles, prepositions in foreign names (_դը, դե, դ՚, ֆոն, դել, վան_) are also tagged [X]().
+
 ### Examples
 
 - _Եվ ապա նա պարզապես <b>xfgh pdl jklw</b>։_ “And then he just <b>xfgh pdl jklw</b>”

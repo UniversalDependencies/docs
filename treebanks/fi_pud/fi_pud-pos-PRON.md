@@ -27,7 +27,7 @@ The 10 most frequent ambiguous types:  <em>sen</em> (<tt><a href="fi_pud-pos-PRO
   * <tt><a href="fi_pud-pos-SCONJ.html">SCONJ</a></tt> 5: <em>Ukkosmyrskyt ovat harvinaisia , <b>sillä</b> kaupungissa raportoidaan ukkosta vain seitsemänä päivänä vuodessa .</em>
 * <em>yksi</em>
   * <tt><a href="fi_pud-pos-NUM.html">NUM</a></tt> 7: <em>Heillä on <b>yksi</b> yritys pelastua , Englannin voittaminen .</em>
-  * <tt><a href="fi_pud-pos-PRON.html">PRON</a></tt> 4: <em>Ensin <b>yksi</b> jesidinaisista alkoi itkeä , sen jälkeen yksi hänen ystävistään alkoi .</em>
+  * <tt><a href="fi_pud-pos-PRON.html">PRON</a></tt> 4: <em>Ensin <b>yksi</b> jesidinaisista alkoi itkeä , sen jälkeen yksi hänen ystävistään .</em>
 * <em>toinen</em>
   * <tt><a href="fi_pud-pos-ADJ.html">ADJ</a></tt> 2: <em>Onko <b>toinen</b> kausi toiminut tähän asti ?</em>
   * <tt><a href="fi_pud-pos-PRON.html">PRON</a></tt> 2: <em>Sitten perustettiin <b>toinen</b> Apulian ja Calabrian kuninkaallinen alue , johon kuului myös Samnium , osia Molisesta sekä itäinen Basilicata .</em>

@@ -8,26 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3741 nodes (2%) are attached to their parents as `cop`.
+4594 nodes (2%) are attached to their parents as `cop`.
 
-2161 instances of `cop` (58%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.57738572574178.
+2766 instances of `cop` (60%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.59403569873748.
 
-The following 11 pairs of parts of speech are connected with `cop`: <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (1284; 34% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (1199; 32% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (321; 9% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (294; 8% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (289; 8% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (284; 8% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (42; 1% instances), <tt><a href="la_proiel-pos-X.html">X</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (16; 0% instances), <tt><a href="la_proiel-pos-DET.html">DET</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="la_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (3; 0% instances).
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 2 cop	color:blue
-1	vos	vos	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	ref=MATT_5.13
-2	estis	sum	AUX	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=MATT_5.13
-3	sal	sal	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	0	root	_	ref=MATT_5.13
-4	terrae	terra	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	ref=MATT_5.13
-
-~~~
+The following 11 pairs of parts of speech are connected with `cop`: <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (1553; 34% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (1473; 32% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (500; 11% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (363; 8% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (318; 7% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (307; 7% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (47; 1% instances), <tt><a href="la_proiel-pos-X.html">X</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (19; 0% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="la_proiel-pos-DET.html">DET</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="la_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (4; 0% instances).
 
 
 ~~~ conllu
@@ -51,19 +37,30 @@ The following 11 pairs of parts of speech are connected with `cop`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 cop	color:blue
+1	vos	vos	PRON	Pp	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	ref=MATT_5.13
+2	estis	sum	AUX	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	ref=MATT_5.13
+3	sal	sal	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	0	root	_	ref=MATT_5.13
+4	terrae	terra	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	ref=MATT_5.13
+
+~~~
+
+
+~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 6 cop	color:blue
-1	beati	beatus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	ref=MATT_5.3
-2	pauperes	pauper	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	1	nsubj	_	ref=MATT_5.3
-3	spiritu	spiritus	NOUN	Nb	Case=Abl|Gender=Masc|Number=Sing	2	nmod	_	ref=MATT_5.3
-4	quoniam	quoniam	SCONJ	G-	_	5	mark	_	ref=MATT_5.3
-5	ipsorum	ipse	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	1	advcl	_	ref=MATT_5.3
-6	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ref=MATT_5.3
-7	regnum	regnum	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	ref=MATT_5.3
-8	caelorum	caelum	NOUN	Nb	Case=Gen|Gender=Neut|Number=Plur	7	nmod	_	ref=MATT_5.3
+# visual-style 5 4 cop	color:blue
+1	talitha	talitha	X	F-	_	5	vocative	_	ref=MARK_5.41
+2	cumi	cumi	X	F-	_	5	vocative	_	ref=MARK_5.41
+3	quod	qui	PRON	Pr	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	5	nsubj	_	ref=MARK_5.41
+4	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	ref=MARK_5.41
+5	interpretatum	interpretor	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=MARK_5.41
 
 ~~~
 

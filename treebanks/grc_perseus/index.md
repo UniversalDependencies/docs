@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Ancient_Greek'
+title:  'UD_Ancient_Greek-Perseus'
 udver: '2'
 ---
 
@@ -9,7 +9,7 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Ancient Greek
+# UD Ancient Greek Perseus
 
 Language: [Ancient Greek](../grc/overview/grc-hub.html) (code: `grc`)<br/>
 Family: Indo-European, Greek
@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 
 The following people have contributed to making this treebank part of UD: Giuseppe G. A. Celano, Daniel Zeman.
 
-Repository: [UD_Ancient_Greek](https://github.com/UniversalDependencies/UD_Ancient_Greek)
+Repository: [UD_Ancient_Greek-Perseus](https://github.com/UniversalDependencies/UD_Ancient_Greek-Perseus)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udgrc_perseus)
 
 License: CC BY-NC-SA 2.5
 
@@ -26,7 +27,7 @@ Genre: fiction
 
 Questions, comments?
 General annotation questions (either Ancient Greek-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Ancient_Greek/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Ancient_Greek-Perseus/issues).
 If you want to collaborate, please contact [celano&nbsp;(æt)&nbsp;informatik&nbsp;•&nbsp;uni-leipzig&nbsp;•&nbsp;de].
 
 | Annotation | Source |
@@ -120,27 +121,40 @@ Further details can be found at:
 * http://perseusdl.github.io/treebank_data/
 
 
-# Statistics of UD Ancient Greek
+# Statistics of UD Ancient Greek Perseus
 
 ## POS Tags
 
-[ADJ](grc-pos-ADJ.html) – [ADP](grc-pos-ADP.html) – [ADV](grc-pos-ADV.html) – [CCONJ](grc-pos-CCONJ.html) – [DET](grc-pos-DET.html) – [INTJ](grc-pos-INTJ.html) – [NOUN](grc-pos-NOUN.html) – [NUM](grc-pos-NUM.html) – [PART](grc-pos-PART.html) – [PRON](grc-pos-PRON.html) – [PUNCT](grc-pos-PUNCT.html) – [SCONJ](grc-pos-SCONJ.html) – [VERB](grc-pos-VERB.html) – [X](grc-pos-X.html)
+[ADJ](grc_perseus-pos-ADJ.html) – [ADP](grc_perseus-pos-ADP.html) – [ADV](grc_perseus-pos-ADV.html) – [CCONJ](grc_perseus-pos-CCONJ.html) – [DET](grc_perseus-pos-DET.html) – [INTJ](grc_perseus-pos-INTJ.html) – [NOUN](grc_perseus-pos-NOUN.html) – [NUM](grc_perseus-pos-NUM.html) – [PART](grc_perseus-pos-PART.html) – [PRON](grc_perseus-pos-PRON.html) – [PUNCT](grc_perseus-pos-PUNCT.html) – [SCONJ](grc_perseus-pos-SCONJ.html) – [VERB](grc_perseus-pos-VERB.html) – [X](grc_perseus-pos-X.html)
 
 ## Features
 
-[Aspect](grc-feat-Aspect.html) – [Case](grc-feat-Case.html) – [Degree](grc-feat-Degree.html) – [Gender](grc-feat-Gender.html) – [Mood](grc-feat-Mood.html) – [Number](grc-feat-Number.html) – [Person](grc-feat-Person.html) – [Tense](grc-feat-Tense.html) – [VerbForm](grc-feat-VerbForm.html) – [Voice](grc-feat-Voice.html)
+[Aspect](grc_perseus-feat-Aspect.html) – [Case](grc_perseus-feat-Case.html) – [Degree](grc_perseus-feat-Degree.html) – [Gender](grc_perseus-feat-Gender.html) – [Mood](grc_perseus-feat-Mood.html) – [Number](grc_perseus-feat-Number.html) – [Person](grc_perseus-feat-Person.html) – [Tense](grc_perseus-feat-Tense.html) – [VerbForm](grc_perseus-feat-VerbForm.html) – [Voice](grc_perseus-feat-Voice.html)
 
 ## Relations
 
-[acl](grc-dep-acl.html) – [advcl](grc-dep-advcl.html) – [advmod](grc-dep-advmod.html) – [amod](grc-dep-amod.html) – [appos](grc-dep-appos.html) – [aux](grc-dep-aux.html) – [case](grc-dep-case.html) – [cc](grc-dep-cc.html) – [ccomp](grc-dep-ccomp.html) – [conj](grc-dep-conj.html) – [cop](grc-dep-cop.html) – [csubj](grc-dep-csubj.html) – [det](grc-dep-det.html) – [iobj](grc-dep-iobj.html) – [mark](grc-dep-mark.html) – [nmod](grc-dep-nmod.html) – [nsubj](grc-dep-nsubj.html) – [nummod](grc-dep-nummod.html) – [obj](grc-dep-obj.html) – [obl](grc-dep-obl.html) – [parataxis](grc-dep-parataxis.html) – [punct](grc-dep-punct.html) – [root](grc-dep-root.html) – [vocative](grc-dep-vocative.html) – [xcomp](grc-dep-xcomp.html)
+[acl](grc_perseus-dep-acl.html) – [advcl](grc_perseus-dep-advcl.html) – [advmod](grc_perseus-dep-advmod.html) – [amod](grc_perseus-dep-amod.html) – [appos](grc_perseus-dep-appos.html) – [aux](grc_perseus-dep-aux.html) – [case](grc_perseus-dep-case.html) – [cc](grc_perseus-dep-cc.html) – [ccomp](grc_perseus-dep-ccomp.html) – [conj](grc_perseus-dep-conj.html) – [cop](grc_perseus-dep-cop.html) – [csubj](grc_perseus-dep-csubj.html) – [det](grc_perseus-dep-det.html) – [iobj](grc_perseus-dep-iobj.html) – [mark](grc_perseus-dep-mark.html) – [nmod](grc_perseus-dep-nmod.html) – [nsubj](grc_perseus-dep-nsubj.html) – [nummod](grc_perseus-dep-nummod.html) – [obj](grc_perseus-dep-obj.html) – [obl](grc_perseus-dep-obl.html) – [parataxis](grc_perseus-dep-parataxis.html) – [punct](grc_perseus-dep-punct.html) – [root](grc_perseus-dep-root.html) – [vocative](grc_perseus-dep-vocative.html) – [xcomp](grc_perseus-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 13919 sentences and 202989 tokens.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 24950 tokens (12%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words that contain both letters and punctuation.</li>
+</ul>
+
+<ul>
 </ul>
 
 <h2>Morphology</h2>
@@ -150,6 +164,9 @@ Further details can be found at:
 <ul>
 <li>This corpus uses 14 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: PROPN, AUX, SYM</li>
+</ul>
+
+<ul>
 <li>This corpus contains 96 word types tagged as particles (PART): αὐτάρ, αὐτὰρ, γ̓, γάρ, γέ, γε, γοῦν, γὰρ, δ̓, δέ, δή, δήπου, δὲ, δὴ, εἶεν, θ̓, θήν, θην, κ̓, κέ, κέν, καίπερ, καίτοι, κε, κεν, κοὐδ̓, κἂν, μάν, μέν, μέντοι, μέντἂν, μήθ̓, μήν, μήτ̓, μήτέ, μήτε, μεντἂν, μη, μηδὲ, μὰ, μὰν, μὲν, μὴ, μὴν, οὐ, οὐδὲ, οὖν, πέρ, περ, πεῤ, ποθ̓, ποθέν, ποθεν, ποτ̓, ποτέ, ποτε, ποτὲ, πω, πως, πώ, πώς, πᾷ, πῃ, πῇ, τ̓, τέ, τε, τοί, τοίνυν, τοι, τοιγάρ, τοιγαροῦν, τοιγὰρ, τοὶ, τἂν, τἄῤ, τἄρα, τὰρ, χ̓, ἀτάρ, ἀτὰρ, ἂν, ἂρ, ἃν, ἄν, ἄρ, ἄῤ, ἄρά, ἄρα, ἆῤ, ἆρα, ἠΰτε, ἤτοι, ῥ̓, ῥά, ῥα</li>
 </ul>
 
@@ -173,7 +190,9 @@ Further details can be found at:
 </ul>
 
 <ul>
-<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Fin
   <ul>
@@ -181,23 +200,29 @@ Further details can be found at:
     <li>X: ξύμβληντο, φύεν, ἔσχεθον</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Inf
   <ul>
     <li>VERB: εἶναι, γενέσθαι, ἔχειν, μάχεσθαι, λέγειν, ἰέναι, εἰπεῖν, ἔμμεναι, φέρειν, λαβεῖν</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>VERB: ἔχων, ἰδὼν, εἰπὼν, ἔχοντες, ὢν, λέγων, ἐόντα, ἐὼν, φωνήσας, ἀπαμειβόμενος</li>
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
+
 <li><a>Gender</a>
+
   <ul>
     <li>Fem
       <ul>
@@ -211,6 +236,9 @@ Further details can be found at:
         <li>X: τάς</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>ADJ: Ἀχαιῶν, αὐτὸς, πάντες, πάντας, πάντων, αὐτῷ, αὐτὸν, μέγας, οὗτος, ἄλλοι</li>
@@ -224,6 +252,9 @@ Further details can be found at:
         <li>X: Λάϊον</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neut
       <ul>
         <li>ADJ: μέγα, πάντα, πολλὰ, πρῶτον, ταῦτα, πολὺ, πᾶν, τοῦτο, πρότερον, κακὸν</li>
@@ -237,10 +268,15 @@ Further details can be found at:
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Number</a>
+
   <ul>
     <li>Dual
       <ul>
@@ -252,6 +288,9 @@ Further details can be found at:
         <li>VERB-Part: μεμαῶτε, ἀΐξαντε, ἀχνυμένω, δερκομένω, διακρινθέντε, εἰδότε, κλαίοντε, μυρομένω, πεσόντ̓, πρήσσοντε</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Plur
       <ul>
         <li>ADJ: Ἀχαιῶν, πάντα, πάντες, πολλὰ, πάντων, πάντας, ταῦτα, ἄλλων, ἄλλοι, πτερόεντα</li>
@@ -266,6 +305,9 @@ Further details can be found at:
         <li>X-Fin: ξύμβληντο, ἔσχεθον</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: μέγα, αὐτὸς, πρῶτον, φίλον, αὐτῷ, κακὸν, αὐτὸν, πολὺ, πᾶν, μέγας</li>
@@ -281,9 +323,13 @@ Further details can be found at:
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Acc
       <ul>
@@ -295,6 +341,9 @@ Further details can be found at:
         <li>X: τί, Λάϊον, τάς, τέκμαρ</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dat
       <ul>
         <li>ADJ: αὐτῷ, πᾶσιν, πᾶσι, πολλῷ, ἀθανάτοισι, μεγάλῳ, ὀξέϊ, αὐτοῖς, αὐτῇ, τούτῳ</li>
@@ -307,6 +356,9 @@ Further details can be found at:
         <li>X: τοῖσι</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Gen
       <ul>
         <li>ADJ: Ἀχαιῶν, πάντων, ἄλλων, πολλῶν, αὐτοῦ, αὐτῶν, κακῶν, τούτων, Ἀργείων, ἁπάντων</li>
@@ -316,11 +368,17 @@ Further details can be found at:
         <li>VERB-Part: γενομένης, ἄρχοντος, θανόντος, γενομένων, εἰπόντος, παρόντων, ἐχόντων, ἔχοντος, αἰθομένοιο, γενομένου</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Loc
       <ul>
         <li>NOUN: Ἀθήνησιν</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Nom
       <ul>
         <li>ADJ: αὐτὸς, πάντες, μέγας, ἄλλοι, δῖος, οὗτος, ἕκαστος, πρῶτος, Ἀχαιοὶ, αὐτοὶ</li>
@@ -334,6 +392,9 @@ Further details can be found at:
         <li>X: τὰ</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Voc
       <ul>
         <li>ADJ: φίλοι, πέπον, διοτρεφὲς, νήπιε, φίλαι, φίλον, ἐμὸν, αἰνότατε, διογενὲς, κύδιστε</li>
@@ -344,13 +405,20 @@ Further details can be found at:
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
 
 
 
 <h3>Degree and Polarity</h3>
 
+
 <li><a>Degree</a>
+
   <ul>
     <li>Cmp
       <ul>
@@ -358,6 +426,9 @@ Further details can be found at:
         <li>ADV: μᾶλλον, ἆσσον, θειοτέρως, κατωτέρω, μεγάλως, ἀπωτέρω</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sup
       <ul>
         <li>ADJ: πρῶτον, τάχιστα, ἄριστοι, πρῶτος, αἰνότατε, πρῶτα, ἄριστος, μέγιστον, φίλτατος, ἀκρότατον</li>
@@ -365,13 +436,20 @@ Further details can be found at:
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
 
 
 
 <h3>Verbal Features</h3>
 
+
 <li><a>Aspect</a>
+
   <ul>
     <li>Imp
       <ul>
@@ -379,6 +457,9 @@ Further details can be found at:
         <li>X-Fin: φύεν</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Perf
       <ul>
         <li>VERB-Fin: οἶδα, οἶδ̓, οἶσθα, ἔοικεν, ἴδμεν, οἶσθ̓, τέτυκται, ἔοικε, εἴρηται, τέθνηκεν</li>
@@ -387,35 +468,52 @@ Further details can be found at:
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Mood</a>
+
   <ul>
     <li>Imp
       <ul>
         <li>VERB-Fin: δὸς, ἴθι, ἴτω, ἔα, ἴθ̓, εἰπὲ, θάρσει, βάλλεο, δέξαι, λέγ̓</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>VERB-Fin: ἦν, προσέφη, ἔφη, ἔχει, φησιν, ἦσαν, φάτο, ἐστὶ, προσηύδα, ἐστι</li>
         <li>X-Fin: ξύμβληντο, φύεν, ἔσχεθον</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Opt
       <ul>
         <li>VERB-Fin: εἴη, γένοιτο, γένοιτ̓, ἔχοι, ἴδοι, εἴην, εἴποι, λάβοι, μέλλοι, ἵκοιτο</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sub
       <ul>
         <li>VERB-Fin: γένηται, εἴπω, ᾖ, πειθώμεθα, δώῃ, ἴομεν, ἔλθῃ, ἵκηται, εἴπῃς, τύχῃ</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Tense</a>
+
   <ul>
     <li>Fut
       <ul>
@@ -424,6 +522,9 @@ Further details can be found at:
         <li>VERB-Part: καλουμένην, ἀγγελέουσα, καλουμένας, καλουμένων, ἐρέων, ἐσομένην, βοηθήσοντα, δεησομένους, κακκείοντες, καλεόμενον</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Past
       <ul>
         <li>VERB: ἦν, προσέφη, ἔφη, γενέσθαι, ἦσαν, φάτο, προσηύδα, ἰδὼν, εἰπὼν, ἔφατ̓</li>
@@ -433,12 +534,18 @@ Further details can be found at:
         <li>X-Fin: ξύμβληντο, φύεν, ἔσχεθον</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pqp
       <ul>
         <li>VERB-Fin: ὀρώρει, ἕστασαν, ᾔδη, ἑστήκει, ἧστο, βεβήκει, ἐφέστασαν, μέμασαν, τέτατο, τέτυκτο</li>
         <li>VERB-Part: ἠγκυλημένος</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pres
       <ul>
         <li>VERB: εἶναι, ἔχων, ἔχει, φησιν, ἐστὶ, ἐστι, ἔχειν, ἐστιν, ἔχοντες, φησι</li>
@@ -448,9 +555,13 @@ Further details can be found at:
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Voice</a>
+
   <ul>
     <li>Act
       <ul>
@@ -461,6 +572,9 @@ Further details can be found at:
         <li>X-Fin: φύεν, ἔσχεθον</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Mid
       <ul>
         <li>VERB-Fin: φάτο, ἔφατ̓, ἐγένετο, ἐγένοντο, ἔφαθ̓, ἠμείβετ̓, ἕποντο, ἔσται, λέγεται, γένηται</li>
@@ -469,6 +583,9 @@ Further details can be found at:
         <li>X-Fin: ξύμβληντο</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pass
       <ul>
         <li>VERB: ἐτύχθη, ἀχνύμενοί, ἐπράχθη, ἐρασθεὶς, δαμῆναι, θωρηχθέντες, τυπεὶς, ἠράσθη, ἤχθη, δαμέντες</li>
@@ -478,7 +595,11 @@ Further details can be found at:
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
@@ -487,7 +608,13 @@ Further details can be found at:
 
 
 
+
+
+
+
+
 <li><a>Person</a>
+
   <ul>
     <li>1
       <ul>
@@ -496,6 +623,9 @@ Further details can be found at:
         <li>VERB-Fin: ἔχω, λέγω, οἶδα, ἐρέω, ὀΐω, οἶδ̓, δοκῶ, φημι, ὁρῶ, εἶμι</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>PRON: σε, σὺ, σοι, ὑμῖν, σὲ, σοὶ, σύ, τοι, σου, ὑμεῖς</li>
@@ -503,6 +633,9 @@ Further details can be found at:
         <li>VERB-Fin: λέγεις, ἔχεις, ἔειπες, ἐσσι, οἶσθα, εἶ, δὸς, ἐθέλεις, εἶπας, ἴθι</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>PRON: μιν</li>
@@ -512,7 +645,13 @@ Further details can be found at:
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
+
 
 
 
@@ -526,6 +665,9 @@ Further details can be found at:
 
 <ul>
 <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: εἰμί.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 9 lemmas as auxiliaries (<a>aux</a>). Examples: δέ, ἔχω, καί, γάρ, τε, μέν, εἶτα, οὐ, οὖν.</li>
 </ul>
 

@@ -21,7 +21,7 @@ udver: '2'
 Aspect is a feature that specifies duration of the action in time,
 whether the action has been completed etc. In Armenian some tenses are actually combinations of tense and aspect. 
 
-Note, that some aspectual meanings in compound tenses may be expressed at participles.
+Note, that some aspectual meanings in (secondary) compound tenses may be expressed at participles.
 
 ### <a name="Imp">`Imp`</a>: imperfect aspect
 
@@ -73,7 +73,7 @@ The future-II participle also indicate progressive aspect.
 
 ### <a name="Prog">`Prog`</a>: progressive aspect
 
-Action is in progress with respect to current or a reference time. The processual participle indicate progressive aspect.
+Action is in progress with respect to current or a reference time. The converb indicate progressive aspect.
 
 #### Examples
 
@@ -85,15 +85,10 @@ Action is in progress with respect to current or a reference time. The processua
 
 A situation or action that has persisted over a period of time and still continues.
 
-The finite form of auxilary _լինեմ&nbsp;_ (in various tenses and moods or in the infinitive _լինել&nbsp;_) accombined with processual, resultative and future participles of main verb indicates this aspect. The first one might better be defined as ‘durative progressive’ and others as ‘durative stative’ and ‘durative prospective’.
-
-The subject participle also indicate durative aspect.
+The subject participle indicate durative aspect.
 
 #### Examples
 
-* _գնալիս <b>լինեմ</b>&nbsp;_ “(If / when) I will be going”,
-* _գնացած <b>լինեմ</b>&nbsp;_ “(If / when) I will be gone”,
-* _գնալու <b>լինեմ</b>&nbsp;_ “(If / when) I go”
 * _<b>կառուցվող</b> շենք&nbsp;_ “a house, that is being built”
 * _<b>հնչող</b> զանգ&nbsp;_ “a call that ringed”
 
@@ -101,7 +96,7 @@ The subject participle also indicate durative aspect.
 
 Denotes repeated action, with multiplicative or distributive meanings. Armenian has three main iterative markers _-ատ&nbsp;, -ոտ&nbsp;, -տ&nbsp;_ or _root reduplication_.
 
-Note, that in Armenian iterative is considered as a lexical feature of [verbs](VERB), thus they have morphologically related not iterative counterparts, but it is not a regular system and the two verbs are represented by different lemmas.
+Note, that in Armenian iterative is considered as a lexical feature of [verbs](VERB), thus they have morphologically related not iterative counterparts, but it is not a regular system and the two verbs are represented by different lemmas. We mark them as biaspectual.
 
 #### Examples
 

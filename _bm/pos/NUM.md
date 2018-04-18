@@ -7,14 +7,8 @@ udver: '2'
 
 ### Definition
 
-A numeral is a word, functioning most typically as a determiner,
-adjective or pronoun, that expresses a number and a relation to the
-number, such as quantity, sequence, frequency or fraction.
+A numeral is word functioning as a determiner, if it is a [cardinal number](bm-feat/NumType), or as an adjective, if it is an [ordaninal number](bm-feat/NumType).
 
 See [DET]() for determiners.
 
-### Examples in Bambara
 
-- <b>Fifty eight</b> percent of accident wey im happen for road na overspeeding naim dey cause am.
-- Make I give you <b>one</b> instance.
-- Im daughter fall from <b>three</b> storey build for school.

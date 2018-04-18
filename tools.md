@@ -150,14 +150,14 @@ WebAnno 3.0.0 does not support the CoNLL-U 2.0 format at this time.
 #### Tred
 
 <img style="float:right" src="http://universaldependencies.org/img/tred.png"/>
-**Tred** (Tree Editor) is a graph visualization and manipulation program written in Perl. It was the main tool used to annotate the Prague treebanks. It supports macros (in Perl) to automate frequently repeated operations. There are extensions for various annotation layers such as MWEs or coreference. It cannot read directly the CoNLL-U format. However, it is quite powerful in combination with [Treex](#treex), which can also convert the files from and to CoNLL-U.
+**Tred** (Tree Editor) is a graph visualization and manipulation program written in Perl. It was the main tool used to annotate the Prague treebanks. It supports macros (in Perl) to automate frequently repeated operations. There are extensions for various annotation layers such as MWEs or coreference. Since January 2018, there is also an extension for CoNLL-U files (including multi-word tokens and enhanced dependencies).
 
 * Category: manual annotation tool
 * Platform: Windows, Linux, OS X
 * Implementation: Perl
 * License: GPL (open source)
 * Homepage: <http://ufal.mff.cuni.cz/tred/>
-* References: Petr Pajas, Peter Fabian
+* References: Petr Pajas, Peter Fabian, Jan Štěpánek
 
 
 #### Arborator

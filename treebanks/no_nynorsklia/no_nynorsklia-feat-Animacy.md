@@ -23,7 +23,7 @@ The most frequent other feature values with which `PRON` and `Animacy` co-occurr
 `PRON` tokens may have the following values of `Animacy`:
 
 * `Hum` (873; 100% of non-empty `Animacy`): <em>eg, dei, du, vi, ein, de, meg, oss, kven, deg</em>
-* `EMPTY` (1099): <em>det, han, som, den, ho, seg, kva, noko, nokon, dette</em>
+* `EMPTY` (1121): <em>det, han, som, den, ho, seg, kva, noko, nokon, dette</em>
 
 ## Relations with Agreement in `Animacy`
 

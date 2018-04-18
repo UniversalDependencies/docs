@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Hungarian'
+title:  'UD_Hungarian-Szeged'
 udver: '2'
 ---
 
@@ -9,7 +9,7 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Hungarian
+# UD Hungarian Szeged
 
 Language: [Hungarian](../hu/overview/hu-hub.html) (code: `hu`)<br/>
 Family: Uralic, Ugric
@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 
 The following people have contributed to making this treebank part of UD: Richárd Farkas, Katalin Simkó, Zsolt Szántó, Viktor Varga, Veronika Vincze.
 
-Repository: [UD_Hungarian](https://github.com/UniversalDependencies/UD_Hungarian)
+Repository: [UD_Hungarian-Szeged](https://github.com/UniversalDependencies/UD_Hungarian-Szeged)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udhu_szeged)
 
 License: CC BY-NC-SA 3.0
 
@@ -26,42 +27,65 @@ Genre: news
 
 Questions, comments?
 General annotation questions (either Hungarian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Hungarian/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Hungarian-Szeged/issues).
 If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•&nbsp;u-szeged&nbsp;•&nbsp;hu, vinczev&nbsp;(æt)&nbsp;inf&nbsp;•&nbsp;u-szeged&nbsp;•&nbsp;hu].
+Development of the treebank happens outside the UD repository.
+If there are bugs, either the original data source or the conversion procedure must be fixed.
+Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
-| XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Lemmas | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
+| UPOS | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
+| XPOS | not available |
+| Features | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
+| Relations | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
 
 ## Description
 
+
+The Hungarian UD treebank is derived from the Szeged Dependency Treebank (Vincze et al. 2010). One of its newspaper sections (Népszava) has been semi-automatically converted to the Universal Dependencies scheme, and linguists have corrected the annotation manually. Hence, it contains texts from the newspaper domain with various topics (politics, economics, sport, culture etc.).
+
+Sentences 1-129 (i.e. 10% of the sentences) form the development set, then sentences 130-1162 (80%) form the training set and finally sentences 1163-1299 (10%) form the test set.
+
+In version 1.3, 500 sentences from the HVG subcorpus of the Szeged Treebank were added to the data, in harmony with the above principles.
+
 ## Acknowledgments
 
-# Statistics of UD Hungarian
+# Statistics of UD Hungarian Szeged
 
 ## POS Tags
 
-[ADJ](hu-pos-ADJ.html) – [ADP](hu-pos-ADP.html) – [ADV](hu-pos-ADV.html) – [AUX](hu-pos-AUX.html) – [CCONJ](hu-pos-CCONJ.html) – [DET](hu-pos-DET.html) – [INTJ](hu-pos-INTJ.html) – [NOUN](hu-pos-NOUN.html) – [NUM](hu-pos-NUM.html) – [PART](hu-pos-PART.html) – [PRON](hu-pos-PRON.html) – [PROPN](hu-pos-PROPN.html) – [PUNCT](hu-pos-PUNCT.html) – [SCONJ](hu-pos-SCONJ.html) – [VERB](hu-pos-VERB.html) – [X](hu-pos-X.html)
+[ADJ](hu_szeged-pos-ADJ.html) – [ADP](hu_szeged-pos-ADP.html) – [ADV](hu_szeged-pos-ADV.html) – [AUX](hu_szeged-pos-AUX.html) – [CCONJ](hu_szeged-pos-CCONJ.html) – [DET](hu_szeged-pos-DET.html) – [INTJ](hu_szeged-pos-INTJ.html) – [NOUN](hu_szeged-pos-NOUN.html) – [NUM](hu_szeged-pos-NUM.html) – [PART](hu_szeged-pos-PART.html) – [PRON](hu_szeged-pos-PRON.html) – [PROPN](hu_szeged-pos-PROPN.html) – [PUNCT](hu_szeged-pos-PUNCT.html) – [SCONJ](hu_szeged-pos-SCONJ.html) – [VERB](hu_szeged-pos-VERB.html) – [X](hu_szeged-pos-X.html)
 
 ## Features
 
-[Aspect](hu-feat-Aspect.html) – [Case](hu-feat-Case.html) – [Definite](hu-feat-Definite.html) – [Degree](hu-feat-Degree.html) – [Mood](hu-feat-Mood.html) – [Number](hu-feat-Number.html) – [Number[psed]](hu-feat-Number-psed.html) – [Number[psor]](hu-feat-Number-psor.html) – [NumType](hu-feat-NumType.html) – [Person](hu-feat-Person.html) – [Person[psor]](hu-feat-Person-psor.html) – [Poss](hu-feat-Poss.html) – [PronType](hu-feat-PronType.html) – [Reflex](hu-feat-Reflex.html) – [Tense](hu-feat-Tense.html) – [VerbForm](hu-feat-VerbForm.html) – [Voice](hu-feat-Voice.html)
+[Aspect](hu_szeged-feat-Aspect.html) – [Case](hu_szeged-feat-Case.html) – [Definite](hu_szeged-feat-Definite.html) – [Degree](hu_szeged-feat-Degree.html) – [Mood](hu_szeged-feat-Mood.html) – [Number](hu_szeged-feat-Number.html) – [Number[psed]](hu_szeged-feat-Number-psed.html) – [Number[psor]](hu_szeged-feat-Number-psor.html) – [NumType](hu_szeged-feat-NumType.html) – [Person](hu_szeged-feat-Person.html) – [Person[psor]](hu_szeged-feat-Person-psor.html) – [Poss](hu_szeged-feat-Poss.html) – [PronType](hu_szeged-feat-PronType.html) – [Reflex](hu_szeged-feat-Reflex.html) – [Tense](hu_szeged-feat-Tense.html) – [VerbForm](hu_szeged-feat-VerbForm.html) – [Voice](hu_szeged-feat-Voice.html)
 
 ## Relations
 
-[acl](hu-dep-acl.html) – [advcl](hu-dep-advcl.html) – [advmod](hu-dep-advmod.html) – [advmod:locy](hu-dep-advmod-locy.html) – [advmod:mode](hu-dep-advmod-mode.html) – [advmod:obl](hu-dep-advmod-obl.html) – [advmod:que](hu-dep-advmod-que.html) – [advmod:tfrom](hu-dep-advmod-tfrom.html) – [advmod:tlocy](hu-dep-advmod-tlocy.html) – [advmod:to](hu-dep-advmod-to.html) – [advmod:tto](hu-dep-advmod-tto.html) – [amod:att](hu-dep-amod-att.html) – [amod:attlvc](hu-dep-amod-attlvc.html) – [amod:mode](hu-dep-amod-mode.html) – [amod:obl](hu-dep-amod-obl.html) – [appos](hu-dep-appos.html) – [aux](hu-dep-aux.html) – [case](hu-dep-case.html) – [cc](hu-dep-cc.html) – [ccomp](hu-dep-ccomp.html) – [ccomp:obj](hu-dep-ccomp-obj.html) – [ccomp:obl](hu-dep-ccomp-obl.html) – [ccomp:pred](hu-dep-ccomp-pred.html) – [compound](hu-dep-compound.html) – [compound:preverb](hu-dep-compound-preverb.html) – [conj](hu-dep-conj.html) – [cop](hu-dep-cop.html) – [csubj](hu-dep-csubj.html) – [dep](hu-dep-dep.html) – [det](hu-dep-det.html) – [discourse](hu-dep-discourse.html) – [dislocated](hu-dep-dislocated.html) – [flat:name](hu-dep-flat-name.html) – [goeswith](hu-dep-goeswith.html) – [iobj](hu-dep-iobj.html) – [list](hu-dep-list.html) – [mark](hu-dep-mark.html) – [nmod](hu-dep-nmod.html) – [nmod:att](hu-dep-nmod-att.html) – [nmod:attlvc](hu-dep-nmod-attlvc.html) – [nmod:obl](hu-dep-nmod-obl.html) – [nmod:obllvc](hu-dep-nmod-obllvc.html) – [nsubj](hu-dep-nsubj.html) – [nsubj:lvc](hu-dep-nsubj-lvc.html) – [nummod](hu-dep-nummod.html) – [obj](hu-dep-obj.html) – [obj:lvc](hu-dep-obj-lvc.html) – [obl](hu-dep-obl.html) – [orphan](hu-dep-orphan.html) – [parataxis](hu-dep-parataxis.html) – [punct](hu-dep-punct.html) – [root](hu-dep-root.html) – [vocative](hu-dep-vocative.html) – [xcomp](hu-dep-xcomp.html)
+[acl](hu_szeged-dep-acl.html) – [advcl](hu_szeged-dep-advcl.html) – [advmod](hu_szeged-dep-advmod.html) – [advmod:locy](hu_szeged-dep-advmod-locy.html) – [advmod:mode](hu_szeged-dep-advmod-mode.html) – [advmod:obl](hu_szeged-dep-advmod-obl.html) – [advmod:que](hu_szeged-dep-advmod-que.html) – [advmod:tfrom](hu_szeged-dep-advmod-tfrom.html) – [advmod:tlocy](hu_szeged-dep-advmod-tlocy.html) – [advmod:to](hu_szeged-dep-advmod-to.html) – [advmod:tto](hu_szeged-dep-advmod-tto.html) – [amod:att](hu_szeged-dep-amod-att.html) – [amod:attlvc](hu_szeged-dep-amod-attlvc.html) – [amod:mode](hu_szeged-dep-amod-mode.html) – [amod:obl](hu_szeged-dep-amod-obl.html) – [appos](hu_szeged-dep-appos.html) – [aux](hu_szeged-dep-aux.html) – [case](hu_szeged-dep-case.html) – [cc](hu_szeged-dep-cc.html) – [ccomp](hu_szeged-dep-ccomp.html) – [ccomp:obj](hu_szeged-dep-ccomp-obj.html) – [ccomp:obl](hu_szeged-dep-ccomp-obl.html) – [ccomp:pred](hu_szeged-dep-ccomp-pred.html) – [compound](hu_szeged-dep-compound.html) – [compound:preverb](hu_szeged-dep-compound-preverb.html) – [conj](hu_szeged-dep-conj.html) – [cop](hu_szeged-dep-cop.html) – [csubj](hu_szeged-dep-csubj.html) – [dep](hu_szeged-dep-dep.html) – [det](hu_szeged-dep-det.html) – [discourse](hu_szeged-dep-discourse.html) – [dislocated](hu_szeged-dep-dislocated.html) – [flat:name](hu_szeged-dep-flat-name.html) – [goeswith](hu_szeged-dep-goeswith.html) – [iobj](hu_szeged-dep-iobj.html) – [list](hu_szeged-dep-list.html) – [mark](hu_szeged-dep-mark.html) – [nmod](hu_szeged-dep-nmod.html) – [nmod:att](hu_szeged-dep-nmod-att.html) – [nmod:attlvc](hu_szeged-dep-nmod-attlvc.html) – [nmod:obl](hu_szeged-dep-nmod-obl.html) – [nmod:obllvc](hu_szeged-dep-nmod-obllvc.html) – [nsubj](hu_szeged-dep-nsubj.html) – [nsubj:lvc](hu_szeged-dep-nsubj-lvc.html) – [nummod](hu_szeged-dep-nummod.html) – [obj](hu_szeged-dep-obj.html) – [obj:lvc](hu_szeged-dep-obj-lvc.html) – [obl](hu_szeged-dep-obl.html) – [orphan](hu_szeged-dep-orphan.html) – [parataxis](hu_szeged-dep-parataxis.html) – [punct](hu_szeged-dep-punct.html) – [root](hu_szeged-dep-root.html) – [vocative](hu_szeged-dep-vocative.html) – [xcomp](hu_szeged-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 1800 sentences and 42032 tokens.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 5367 tokens (13%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 526 types of words that contain both letters and punctuation. Examples: -e, Rt., kft., HVG-nek, I., dr., 2/B, Bács-Kiskun, élelmiszer-ipari, 1-jén, 1-jétől, 1991-ben, 1997-ben, Fidesz-MPP, II., egy-egy, 1990-es, 1992-ben, 1995-ben, 1998-ban, 26-án, 30-án, Dél-Koreában, Pénz-, Somogyi-Tóth, XVIII., dél-koreai, kht., magyar-orosz, 16-án, 180-as, 1959-es, 1964-ben, 1990-ben, 1992-es, 1996-ban, 1998-ig, 1999-ben, 2-0-ra, 2000-ben, 2000-re, 2002-ben, 21-én, 30-áig, 4-es, 6-os, 6-án, 8-án, APEH-elnök, Daewoo-átalakítás</li>
+</ul>
+
+<ul>
 </ul>
 
 <h2>Morphology</h2>
@@ -71,6 +95,9 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
 <ul>
 <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: SYM</li>
+</ul>
+
+<ul>
 <li>This corpus contains 2 word types tagged as particles (PART): meg, utol</li>
 </ul>
 
@@ -95,54 +122,73 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
 </ul>
 
 <ul>
-<li>There are 6 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 6 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Conv
   <ul>
     <li>ADV: hivatkozva, mondván, írva, hozzátéve, lévén, megszüntetve, nyilatkozva, számolva, szólva, zárva</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Fin
   <ul>
     <li>AUX: volt, lesz, lenne, voltak, lehet, legyen, lett, lehetett, volna, fogja</li>
     <li>VERB: kell, van, lehet, volt, mondta, elmondta, kellene, jelentette, került, nincs</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Inf
   <ul>
     <li>AUX: elszenvedni, lenni</li>
     <li>VERB: tudni, tartani, folytatni, látni, számítani, ellátni, hívni, kérni, lemondani, menni</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>PartFut
   <ul>
     <li>ADJ: adandó, befejezendő, benyújtandó, elfogadandónak, elkövetkezendő, letöltendő, maradandó, megelőzendő, nyújtandó, operálandó</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>PartPast
   <ul>
     <li>ADJ: elmúlt, jegyzett, készült, tervezett, elfogadott, elkövetett, készített, kialakult, kiemelt, megbízott</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>PartPres
   <ul>
     <li>ADJ: jövő, való, követően, lévő, álló, következő, vezető, várhatóan, szóló, várható</li>
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
 
 
+
+
+
 <li><a>Number</a>
+
   <ul>
     <li>Plur
       <ul>
         <li>ADJ: hajlandóak, dolgozók, ellenzékiek, foglalkoztatottak, jók, kénytelenek, nagyok, várhatók, alacsonyak, alkalmasak</li>
-        <li>ADJ-PartPast: foglalkoztatottak, elhangzottak, elmondottakra, elzártaknak, feljelentettjeit, gyógyszermérgezetteket, leromlottakat, meghaltak, túlzottaknak, érdekeltek</li>
+        <li>ADJ-PartPast: foglalkoztatottak, elhangzottak, elmondottakra, elzártaknak, feljelentettjeit, g​y​ó​g​y​s​z​e​r​m​é​r​g​e​z​e​t​t​e​k​e​t, leromlottakat, meghaltak, túlzottaknak, érdekeltek</li>
         <li>ADJ-PartPres: dolgozók, várhatók, beruházók, előzőekkel, kitartóknak, láthatók, megtekinthetők, megvásárolhatók, működők, részesülőkre</li>
         <li>AUX: voltak, fognak, fogják, legyenek, lesznek, vannak, lennének, leszünk, maradnak, voltunk</li>
         <li>AUX-Fin: voltak, legyenek, lesznek, vannak, fogják, lennének, leszünk, maradnak, voltunk</li>
@@ -155,13 +201,16 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
         <li>VERB-Inf: biztosítaniuk, csodálkoznunk, dönteniük, felváltaniuk, fölvenniük, gazdálkodniuk, hagyniuk, játszanunk, kibogarászniuk, nyújtanunk</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: első, magyar, új, orosz, nagy, gazdasági, százalékos, parlamenti, jövő, nemzetközi</li>
         <li>ADJ-PartFut: adandó, befejezendő, benyújtandó, elfogadandónak, elkövetkezendő, letöltendő, maradandó, megelőzendő, nyújtandó, operálandó</li>
         <li>ADJ-PartPast: elmúlt, jegyzett, készült, tervezett, elfogadott, elkövetett, készített, kialakult, kiemelt, megbízott</li>
         <li>ADJ-PartPres: jövő, való, követően, lévő, álló, következő, vezető, várhatóan, szóló, várható</li>
-        <li>AUX: volt, volna, lesz, lenne, lehet, legyen, lett, fog, lehetett, fogja</li>
+        <li>AUX: volt, volna, lesz, lenne, lehet, legyen, lett, fog, fogja, lehetett</li>
         <li>AUX-Fin: volt, lesz, lenne, lehet, legyen, lett, lehetett, volna, fogja, vagyok</li>
         <li>DET: ez, ezt, azt, ezen, ebben, ilyen, e, arra, az, olyan</li>
         <li>NOUN: kormány, év, cég, forint, százalékkal, évben, elnök, héten, miniszterelnök, szerdán</li>
@@ -173,9 +222,13 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Abl
       <ul>
@@ -188,6 +241,9 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
         <li>PROPN: Kft.-től, 2-től, Andrástól, Banktól, Budapesttől, Csellóegyüttestől, Groznijtól, Grúziától, Györgytől, Gézától</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Abs
       <ul>
         <li>ADJ: kellőképpen, dortmundiként, háromféleképp</li>
@@ -196,10 +252,13 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
         <li>PROPN: Moraleseként, Teiresziászaként</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Acc
       <ul>
-        <li>ADJ: feljelentettjeit, gyógyszermérgezetteket, jobbat, jót, kicsit, kiválót, korszakosat, kultikust, közöttieket, lepattanót</li>
-        <li>ADJ-PartPast: feljelentettjeit, gyógyszermérgezetteket, leromlottakat</li>
+        <li>ADJ: feljelentettjeit, g​y​ó​g​y​s​z​e​r​m​é​r​g​e​z​e​t​t​e​k​e​t, jobbat, jót, kicsit, kiválót, korszakosat, kultikust, közöttieket, lepattanót</li>
+        <li>ADJ-PartPast: feljelentettjeit, g​y​ó​g​y​s​z​e​r​m​é​r​g​e​z​e​t​t​e​k​e​t, leromlottakat</li>
         <li>ADJ-PartPres: lepattanót</li>
         <li>DET: ezt, azt, azokat, sokat, többet, ezeket, keveset, legtöbbet, sokakat</li>
         <li>NOUN: százalékát, részt, törvényt, forintot, részét, szerepet, javaslatot, kérdést, munkát, pontot</li>
@@ -208,6 +267,9 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
         <li>PROPN: Vjahirevet, Budapestet, Ferencet, Groznijt, Gyerevet, Kft.-t, Koszovót, NATO-t, Pelagéját, Schrödert</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ade
       <ul>
         <li>ADJ: vártnál, eddiginél, tavalyinál, korúnál, közepesnél, számítottnál, szükségesnél, tervezettnél, véginél, átlagosnál</li>
@@ -218,15 +280,21 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
         <li>PROPN: Brókernél, Gazpromnál, 2-nél, Agassinál, Daewoonál, Előszállásnál, Ersténél, LRI-nél, Starbucksnál</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>All
       <ul>
         <li>ADJ: düsseldorfihoz, 1997-eshez, megyeihez, tavalyihoz, utcaihoz, évihez</li>
         <li>DET: ehhez</li>
-        <li>NOUN: ellátáshoz, elnyeréséhez, fűtőolajhoz, inflációhoz, maradáshoz, végéhez, Alkotmánybírósághoz, Dosztojevszkij-rendezéséhez, EU-tagállamokhoz, Laptársunkhoz</li>
+        <li>NOUN: ellátáshoz, elnyeréséhez, fűtőolajhoz, inflációhoz, maradáshoz, végéhez, Alkotmánybírósághoz, D​o​s​z​t​o​j​e​v​s​z​k​i​j​-​r​e​n​d​e​z​é​s​é​h​e​z, EU-tagállamokhoz, Laptársunkhoz</li>
         <li>PRON: hozzá, ahhoz, amihez, ehhez, amelyhez, hozzájuk, magához, mindazokhoz</li>
         <li>PROPN: Brókerhez, Bírósághoz, Daewooéhoz, Kelebiától, Kolozsvárhoz, Kouchnerhez, Kínához, Lehmannhoz, McDonald'séhoz, NATO-hoz</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Cau
       <ul>
         <li>NOUN: dollárért, koronáért, BL-szereplésért, bocsátásáért, címért, díjamért, elismerésemért, energiahordozókért, euróért, forintért</li>
@@ -235,6 +303,9 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
         <li>PROPN: Jugoszláviáért</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dat
       <ul>
         <li>ADJ: alkalmatlannak, bűnösnek, döntőnek, Alkotmánysértőnek, Kedvezőbbnek, Megalázónak, Sajnálatosnak, Szerencsésebbnek, Súlyosnak, alkalmasnak</li>
@@ -247,6 +318,9 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
         <li>PROPN: HVG-nek, Országgyűlésnek, 2000"-nek, Amadindának, Csirkefejének, Daewoonak, ENSZ-nek, Endrének, Enqvistnek, Jánosnak</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Del
       <ul>
         <li>DET: erről</li>
@@ -256,12 +330,18 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
         <li>PROPN: Babiucról, Budapestről, Dubcekről, Jaguárról, Kecskemétről, Koronáról, Moraleséről, Rezníkről</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dis
       <ul>
         <li>ADJ: Szakmailag</li>
         <li>NOUN: tonnánként, félóránként, hordónként, háromhetenként, százméterenként, utanként</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ela
       <ul>
         <li>ADJ: utóbbiból</li>
@@ -272,6 +352,9 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
         <li>PROPN: 007-esből, Ankarából, Dél-Koreából, Fiorentinából, Isztambulból, Kft.-ből, Macedóniából, Németországból, Oroszországból, Seattle-ből</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ess
       <ul>
         <li>ADJ: követően, teljesen, várhatóan, gyorsan, hasonlóan, pontosan, folyamatosan, természetesen, jelentősen, könnyen</li>
@@ -282,6 +365,9 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
         <li>PRON: ennyien, mindannyian</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Gen
       <ul>
         <li>ADJ: láthatatlannak</li>
@@ -292,6 +378,9 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
         <li>PROPN: Gazpromnak, Péternek, Szövetségének, Aracsicsnak, Banknak, Brosnannek, Cigánybárójának, Cressidájának, Dubceknak, Főbiztosságának</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ill
       <ul>
         <li>DET: abba, sokba</li>
@@ -300,6 +389,9 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
         <li>PROPN: Hamburgba, Hannoverbe, Moszkvába, Amszterdamba, Ankarába, Bakonyba, Belgrádba, Borba, Hivatalba, Hágába</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ine
       <ul>
         <li>DET: ebben, azokban, ezekben</li>
@@ -309,6 +401,9 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
         <li>PROPN: Európában, Moszkvában, Németországban, megyében, Dél-Koreában, Koszovóban, Múzeumban, Orahovacban, Államokban, Athénban</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ins
       <ul>
         <li>ADJ: előzőekkel, hamisítottal, utcaival, újabbakkal</li>
@@ -321,11 +416,17 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
         <li>PROPN: Andrással, Gáborral, Rt.-vel, Anitával, Antallal, Atatürkkel, Barcelonával, Csabával, Cserkeszfölddel, Daewooval</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Loc
       <ul>
         <li>NOUN: helyütt</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Nom
       <ul>
         <li>ADJ: első, magyar, új, orosz, nagy, gazdasági, százalékos, parlamenti, jövő, nemzetközi</li>
@@ -339,6 +440,9 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
         <li>PROPN: László, Magyar, Orbán, Gazprom, Viktor, Ferenc, János, Rt., Starbucks, HVG</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sub
       <ul>
         <li>ADJ: egyformára, egységesre, elmondottakra, fájdalmasra, fősre, háromszorosára, pontnyira, rendűre, részesülőkre, rövidre</li>
@@ -351,6 +455,9 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
         <li>PROPN: Magyarországra, Budapestre, Nyugatra, Vjahirevre, Bodmérre, Csecsenföldre, Fischerre, Giovannira, Goghra, Koszovóra</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sup
       <ul>
         <li>ADJ: vastagon</li>
@@ -360,12 +467,18 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
         <li>PROPN: Magyarországon, Budapesten, Bíróságon, Szegeden, Thaiföldön, Zeneakadémián, 2-n, Cserkeszföldön, EU-n, Főiskolán</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Tem
       <ul>
         <li>NOUN: órakor, Letartóztatásakor, elrontásakor, előterjesztésekor, készítésekor, lapzártánkkor, megkötésekor, visszatérésekor, záráskor, összekötésekor</li>
         <li>NUM: tízkor</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ter
       <ul>
         <li>NOUN: végéig, napig, évig, 30-áig, ideig, korig, 10-éig, 31-ig, 31-éig, Tetejükig</li>
@@ -374,6 +487,9 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
         <li>PROPN: Budapestig, hídig, pályaudvarig</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Tra
       <ul>
         <li>ADJ: lehetővé, boldoggá, Megközelíthetetlenné, elronthatatlanná, elterjedtebbé, felelőssé, feszültebbé, fizetésképtelenné, hamissá, ismertté</li>
@@ -383,16 +499,24 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Definite</a>
+
   <ul>
     <li>2
       <ul>
         <li>VERB-Fin: nézlek</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Def
       <ul>
         <li>AUX: fogja, fogják, hozta</li>
@@ -401,6 +525,9 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
         <li>VERB-Fin: mondta, elmondta, jelentette, teszi, tette, tájékoztatta, közölte, szeretné, tudta, jelezte</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>AUX: volt, volna, lesz, lenne, voltak, lehet, legyen, lett, fog, lehetett</li>
@@ -410,11 +537,16 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Degree and Polarity</h3>
 
+
 <li><a>Degree</a>
+
   <ul>
     <li>Cmp
       <ul>
@@ -422,6 +554,9 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
         <li>ADV: korábban, inkább, továbbra, előbb, jobban, kevésbé, közelebb, utóbb</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>ADJ: magyar, új, orosz, nagy, gazdasági, százalékos, parlamenti, nemzetközi, politikai, évi</li>
@@ -431,6 +566,9 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
         <li>ADV: ki, fel, be, le, elő, vissza, végül, össze, jól, először</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sup
       <ul>
         <li>ADJ: legnagyobb, legfontosabb, legfőbb, legjobb, legfelsőbb, legmagasabb, legszebb, legkritikusabb, legsúlyosabb, legbékésebbnek</li>
@@ -438,13 +576,20 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
 
 
 
 <h3>Verbal Features</h3>
 
+
 <li><a>Aspect</a>
+
   <ul>
     <li>Iter
       <ul>
@@ -452,9 +597,13 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Mood</a>
+
   <ul>
     <li>Cnd
       <ul>
@@ -463,29 +612,44 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
         <li>VERB-Fin: kellene, szeretné, lenne, szeretne, szeretnék, emelnék, volna, adná, alakítanák, aláterveznék</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Cnd,Pot
       <ul>
         <li>VERB-Fin: lehetne, adhatnák, elfoglalhatná, fordulhatna, kérdezhetné, megtehetne, számíthatna, Érthetné, ítélhetnék</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Imp
       <ul>
         <li>AUX-Fin: legyen, legyenek</li>
         <li>VERB-Fin: kerüljön, legyen, menjen, gyűjtsenek, hagyják, kerüljenek, osszák, segítsenek, tervezze, váltsák</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Imp,Pot
       <ul>
         <li>VERB-Fin: dönthessenek, elindulhasson, emelhesse, lehessen, megkaphassák, megmenthesse, okozhasson, parkolhassanak, állíthassa, énekelhessenek</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
-        <li>AUX: volt, lesz, voltak, lett, fog, lehetett, fogja, fognak, fogják, vagyok</li>
+        <li>AUX: volt, lesz, voltak, lett, fog, fogja, lehetett, fognak, fogják, vagyok</li>
         <li>AUX-Fin: volt, lesz, voltak, lett, lehetett, fogja, vagyok, fog, lesznek, lettem</li>
         <li>VERB-Fin: kell, van, volt, mondta, elmondta, jelentette, került, nincs, vannak, kellett</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pot
       <ul>
         <li>AUX-Fin: lehet</li>
@@ -494,9 +658,13 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Tense</a>
+
   <ul>
     <li>Past
       <ul>
@@ -504,6 +672,9 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
         <li>VERB-Fin: volt, mondta, elmondta, jelentette, került, kellett, tett, tette, történt, adott</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pres
       <ul>
         <li>AUX: volna, lesz, lenne, lehet, legyen, fog, fogja, fognak, fogják, vagyok</li>
@@ -513,19 +684,26 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Voice</a>
+
   <ul>
     <li>Act
       <ul>
-        <li>AUX: volt, volna, lesz, lenne, voltak, lehet, legyen, lett, fog, lehetett</li>
+        <li>AUX: volt, volna, lesz, lenne, voltak, lehet, legyen, lett, fog, fogja</li>
         <li>AUX-Fin: volt, lesz, lenne, voltak, lehet, legyen, lett, lehetett, volna, fogja</li>
         <li>AUX-Inf: elszenvedni, lenni</li>
         <li>VERB-Fin: kell, van, lehet, volt, mondta, elmondta, kellene, jelentette, került, nincs</li>
         <li>VERB-Inf: tudni, tartani, folytatni, látni, számítani, ellátni, hívni, kérni, lemondani, menni</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Cau
       <ul>
         <li>VERB-Fin: tájékoztatta, ismertette, tájékoztatott, Elhitették, Kiszivárogtatott, altatja, bekérette, bányásztasson, bújtatta, dolgoztassák</li>
@@ -533,18 +711,27 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Art
       <ul>
         <li>DET: a, az, egy</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dem
       <ul>
         <li>ADV: úgy, akkor, így, ezért, ott, ugyanakkor, azért, eddig, itt, azóta</li>
@@ -552,6 +739,9 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
         <li>PRON: azt, az, ez, annak, arra, ezt, ennek, arról, ezzel, azzal</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>ADV: egyrészt, másrészt, olykor, Valamikor, máskor, némileg, valahol, Sokáig</li>
@@ -559,6 +749,9 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
         <li>PRON: egyik, néhány, más, másik, valaki, mások, egyebek, mást, egyéb, ki</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Int
       <ul>
         <li>ADV: -e, hogyan, miért, mikor, miként, vajon, hová, meddig, Hol, mennyire</li>
@@ -566,6 +759,9 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
         <li>PRON: mi, milyen, mit, Ki, mire, hány, kik, kivel, melyik, mennyit</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neg
       <ul>
         <li>ADV: nem, sem, name, soha, se, sehova, semmiképpen</li>
@@ -573,23 +769,35 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
         <li>PRON: semmi, senki, semmibe, semmit</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
         <li>DET: saját</li>
-        <li>PRON: ő, én, őket, hozzá, maga, saját, őt, vele, nekem, ők</li>
+        <li>PRON: ő, én, őket, maga, hozzá, magát, saját, őt, vele, nekem</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rcp
       <ul>
         <li>PRON: egymás, egymást, egymással, egymásba, egymásnak</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rel
       <ul>
         <li>ADV: amikor, ahol, míg, mint, miközben, ahogy, ahogyan, amint, amíg, mire</li>
         <li>PRON: aki, amely, ami, amelynek, amit, akik, amelyben, akit, amelyek, mely</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Tot
       <ul>
         <li>ADV: mindig, soha, mindenképpen, mind, mindenhol, mindenáron, mindenütt, bármikor</li>
@@ -598,34 +806,51 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>NumType</a>
+
   <ul>
     <li>Card
       <ul>
         <li>NUM: két, milliárd, millió, egy, három, több, ezer, négy, 30, 10</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dist
       <ul>
         <li>NUM: egy-egy, 50-50</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Frac
       <ul>
         <li>NUM: fél, másfél, 3,5, 8,25, 2,5, 2,6, 4,2, 6,3, 7,2, 0,7</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ord
       <ul>
         <li>ADJ: első, második, 2000., 1999., I., harmadik, negyedik, 1992., 1998., 2.</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Poss</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -633,9 +858,13 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Reflex</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -643,9 +872,13 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Person</a>
+
   <ul>
     <li>1
       <ul>
@@ -655,15 +888,21 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
         <li>VERB-Inf: csodálkoznunk, játszanunk, látnom, mennem, nyújtanunk</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>PRON: néktek, téged</li>
         <li>VERB-Fin: Repülj, Tégy, felejtsd, keveredsz, lásd, megöltétek, énekelsz, őrizd</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
-        <li>AUX: volt, volna, lesz, lenne, voltak, lehet, legyen, lett, fog, lehetett</li>
+        <li>AUX: volt, volna, lesz, lenne, voltak, lehet, legyen, lett, fog, fogja</li>
         <li>AUX-Fin: volt, lesz, lenne, voltak, lehet, legyen, lett, lehetett, volna, fogja</li>
         <li>DET: ez, ezt, azt, ezen, ebben, ilyen, e, arra, az, azokat</li>
         <li>PRON: azt, az, aki, ez, amely, ami, annak, arra, amelynek, ő</li>
@@ -672,11 +911,17 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
 
+
+
 <li><a>Number[psor]</a>
+
   <ul>
     <li>None
       <ul>
@@ -691,6 +936,9 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
         <li>PROPN: László, Ferenc, János, Magyar, RTL, és, Dubcek, Klub, Megyei, Csapó</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Plur
       <ul>
         <li>NOUN: lapunknak, lapunkat, napjainkban, válogatottunk, Termelésük, együttesünk, erejük, gyanújukat, helyzetüket, kérdésünkre</li>
@@ -698,6 +946,9 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
         <li>PRON: egyikőjük</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: feljelentettjeit, hatszorosa, háromszorosára, ismerőjének, kulcsjátékosai, megtestesítője, tizenötszörösére</li>
@@ -710,9 +961,13 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Other Features</h3>
+
 
 <li><a>Number[psed]</a>
   <ul>
@@ -739,6 +994,7 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
     </li>
   </ul>
 </li>
+
 <li><a>Person[psor]</a>
   <ul>
     <li>1
@@ -779,6 +1035,9 @@ If you want to collaborate, please contact [rfarkas&nbsp;(æt)&nbsp;inf&nbsp;•
 
 <ul>
 <li>This corpus uses 6 lemmas as copulas (<a>cop</a>). Examples: van, lesz, lehet, marad, elszenved, hoz.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: volna, fog.</li>
 </ul>
 
@@ -789,7 +1048,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>nsubj</a>
     <ul>
       <li>VERB-Fin--NOUN-Ine (1)</li>
-      <li>VERB-Fin--NOUN-Nom (1535)</li>
+      <li>VERB-Fin--NOUN-Nom (1538)</li>
       <li>VERB-Fin--PRON-Nom (266)</li>
       <li>VERB-Inf--NOUN-Nom (9)</li>
     </ul>
@@ -800,6 +1059,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
   <li><a>obj</a>
     <ul>
       <li>VERB-Fin--NOUN-Acc (1107)</li>
+      <li>VERB-Fin--NOUN-Nom (2)</li>
       <li>VERB-Fin--PRON-Acc (185)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Inf--NOUN-Abs (1)</li>

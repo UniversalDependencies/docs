@@ -7,7 +7,7 @@ udver: '2'
 <table>
 <tr>
   <td width="50%" valign="top">
-<h1>UD_Dutch</h1>
+<h1>UD_Dutch-Alpino</h1>
 
   </td>
   <td width="50%" valign="top">
@@ -36,7 +36,7 @@ udver: '2'
   </td>
   <td width="50%" valign="top">
 <ul>
-<li>This corpus contains 7641 sentences and 101873 tokens.</li>
+<li>This corpus contains 7341 sentences and 98107 tokens.</li>
 </ul>
 
   </td>
@@ -50,7 +50,7 @@ udver: '2'
   </td>
   <td width="50%" valign="top">
 <ul>
-<li>This corpus contains 14218 tokens (14%) that are not followed by a space.</li>
+<li>This corpus contains 13704 tokens (14%) that are not followed by a space.</li>
 </ul>
 
   </td>
@@ -78,7 +78,7 @@ udver: '2'
   </td>
   <td width="50%" valign="top">
 <ul>
-<li>This corpus contains 971 types of words that contain both letters and punctuation. Examples: Sint-Niklaas, CD&V, sp.a, N-VA, Vlaams-Brabant, Henin-Hardenne, o.a., ca., 't, kabinet-Van, Oost-Vlaanderen, West-Vlaanderen, Parijs-Roubaix, Waals-Brabant, zo'n, kabinet-Kok, Oostenrijk-Este, minister-president, mr., nr., v.Chr., B​r​u​s​s​e​l​-​H​a​l​l​e​-​V​i​l​v​o​o​r​d​e, Saksen-Coburg-Gotha, links-liberale, programma's, Nieuw-Vlaamse, Pandy's, V​l​a​a​m​s​-​n​a​t​i​o​n​a​l​i​s​t​i​s​c​h​e, vice-premier, 's, kabinet-Balkenende, kabinet-Den, Evangelist/Apostel, F.C., I-City, Jean-Marie, Noord-Brabant, Vandersteen's, Vlaams-Nationaal, rooms-katholieke, thema's, C​h​r​i​s​t​e​n​-​D​e​m​o​c​r​a​t​i​s​c​h, Jean-Luc, Noord-Frankrijk, Sint-Katelijne-Waver, WTA-toernooi, a., auto's, b., e.</li>
+<li>This corpus contains 971 types of words that contain both letters and punctuation. Examples: Sint-Niklaas, CD&V, sp.a, N-VA, Vlaams-Brabant, Henin-Hardenne, ca., o.a., 't, Oost-Vlaanderen, kabinet-Van, Parijs-Roubaix, West-Vlaanderen, Waals-Brabant, kabinet-Kok, zo'n, minister-president, Oostenrijk-Este, mr., nr., programma's, v.Chr., B​r​u​s​s​e​l​-​H​a​l​l​e​-​V​i​l​v​o​o​r​d​e, Nieuw-Vlaamse, Pandy's, Saksen-Coburg-Gotha, V​l​a​a​m​s​-​n​a​t​i​o​n​a​l​i​s​t​i​s​c​h​e, links-liberale, kabinet-Balkenende, vice-premier, 's, F.C., Jean-Marie, Vandersteen's, Vlaams-Nationaal, kabinet-Den, rooms-katholieke, thema's, C​h​r​i​s​t​e​n​-​D​e​m​o​c​r​a​t​i​s​c​h, I-City, Jean-Luc, Noord-Brabant, Noord-Frankrijk, Sint-Katelijne-Waver, WTA-toernooi, auto's, b., e., en/of, g.</li>
 </ul>
 
   </td>
@@ -140,7 +140,7 @@ udver: '2'
   </td>
   <td width="50%" valign="top">
 <ul>
-<li>This corpus contains 58 lemmas tagged as pronouns (PRON): al, alles, beide, dat, degene, deze, die, dit, elk, elkaar, enig, enkel, geen, haar, hem, hemzelf, hen, het, hetgeen, hetwelk, hij, hun, ieder, iedereen, iemand, iets, ik, je, jij, me, meer, meerdere, mekaar, men, mij, mijn, minder, niemand, niets, ons, sommig, teveel, u, uw, veel, wat, we, weinig, welk, wie, wij, ze, zich, zichzelf, zij, zijn, zijzelf, zo'n</li>
+<li>This corpus contains 57 lemmas tagged as pronouns (PRON): al, alles, beide, dat, degene, deze, die, dit, elk, elkaar, enig, enkel, geen, haar, hem, hemzelf, hen, het, hetgeen, hetwelk, hij, hun, ieder, iedereen, iemand, iets, ik, je, jij, me, meer, mekaar, men, mij, mijn, minder, niemand, niets, ons, sommig, teveel, u, uw, veel, wat, we, weinig, welk, wie, wij, ze, zich, zichzelf, zij, zijn, zijzelf, zo'n</li>
 </ul>
 
   </td>
@@ -154,7 +154,7 @@ udver: '2'
   </td>
   <td width="50%" valign="top">
 <ul>
-<li>This corpus contains 25 lemmas tagged as determiners (DET): al, beide, dat, de, der, deze, die, dit, een, elk, enig, enkel, geen, het, ieder, meerdere, menig, sommig, veel, wat, weinig, welk, wie, zo'n, zulk</li>
+<li>This corpus contains 26 lemmas tagged as determiners (DET): 't, al, beide, dat, de, der, deze, die, dit, een, elk, enig, enkel, geen, het, ieder, meerdere, menig, sommig, veel, wat, weinig, welk, wie, zo'n, zulk</li>
 </ul>
 
   </td>
@@ -168,7 +168,7 @@ udver: '2'
   </td>
   <td width="50%" valign="top">
 <ul>
-<li>Out of the above, 20 lemmas occurred sometimes as PRON and sometimes as DET: al, beide, dat, deze, die, dit, elk, enig, enkel, geen, het, ieder, meerdere, sommig, veel, wat, weinig, welk, wie, zo'n</li>
+<li>Out of the above, 19 lemmas occurred sometimes as PRON and sometimes as DET: al, beide, dat, deze, die, dit, elk, enig, enkel, geen, het, ieder, sommig, veel, wat, weinig, welk, wie, zo'n</li>
 </ul>
 
   </td>
@@ -176,13 +176,13 @@ udver: '2'
 <tr>
   <td width="50%" valign="top">
 <ul>
-<li>This corpus contains 65 lemmas tagged as auxiliaries (AUX): aandoen, achten, bedoelen, beschouwen, blijken, blijven, brengen, dat_zijn, dienen, doen, fungeren, gaan, gelden, geven, gooien, hangen, hebben, heten, hoeven, houden, kleuren, klinken, komen, kunnen, laten, liggen, lijken, lopen, luiden, maken, moeten, mogen, noemen, ogen, optreden, opvatten, raken, schijnen, slaan, smaken, springen, staan, stellen, stemmen, sukkelen, tellen, tillen, treden, uitvallen, vallen, vastleggen, verklaren, veronderstellen, vinden, vliegen, voelen, werken, wezen, wijzen, willen, worden, zien, zijn, zitten, zullen</li>
+<li>This corpus contains 14 lemmas tagged as auxiliaries (AUX): blijken, blijven, hebben, heten, hoeven, krijgen, kunnen, lijken, moeten, mogen, schijnen, worden, zijn, zullen</li>
 </ul>
 
   </td>
   <td width="50%" valign="top">
 <ul>
-<li>This corpus contains 38 lemmas tagged as auxiliaries (AUX): bekendstaan, beschouwen, blijken, blijven, dienen, doen, fungeren, gaan, gelden, hebben, heten, hoeven, klinken, komen, kunnen, laten, liggen, lijken, mogen, noemen, ogen, optreden, raken, scheren, spreken, staan, stellen, titelen, treden, vallen, wedijveren, werken, willen, worden, zien, zijn, zitten, zullen</li>
+<li>This corpus contains 12 lemmas tagged as auxiliaries (AUX): blijken, blijven, hebben, heten, hoeven, kunnen, lijken, moeten, mogen, worden, zijn, zullen</li>
 </ul>
 
   </td>
@@ -190,13 +190,13 @@ udver: '2'
 <tr>
   <td width="50%" valign="top">
 <ul>
-<li>Out of the above, 61 lemmas occurred sometimes as AUX and sometimes as VERB: aandoen, achten, bedoelen, beschouwen, blijken, blijven, brengen, dienen, doen, gaan, gelden, geven, gooien, hangen, hebben, heten, hoeven, houden, kleuren, klinken, komen, kunnen, laten, liggen, lijken, lopen, luiden, maken, moeten, mogen, noemen, optreden, opvatten, raken, schijnen, slaan, springen, staan, stellen, stemmen, sukkelen, tellen, tillen, treden, uitvallen, vallen, vastleggen, verklaren, veronderstellen, vinden, vliegen, voelen, werken, wezen, wijzen, willen, worden, zien, zijn, zitten, zullen</li>
+<li>Out of the above, 14 lemmas occurred sometimes as AUX and sometimes as VERB: blijken, blijven, hebben, heten, hoeven, krijgen, kunnen, lijken, moeten, mogen, schijnen, worden, zijn, zullen</li>
 </ul>
 
   </td>
   <td width="50%" valign="top">
 <ul>
-<li>Out of the above, 29 lemmas occurred sometimes as AUX and sometimes as VERB: beschouwen, blijken, blijven, dienen, doen, gaan, gelden, hebben, klinken, komen, kunnen, laten, liggen, lijken, noemen, optreden, raken, spreken, staan, stellen, titelen, treden, vallen, werken, willen, worden, zien, zijn, zitten</li>
+<li>Out of the above, 8 lemmas occurred sometimes as AUX and sometimes as VERB: blijken, blijven, hebben, kunnen, lijken, moeten, worden, zijn</li>
 </ul>
 
   </td>
@@ -221,7 +221,7 @@ udver: '2'
   <li>Fin
   <ul>
     <li>AUX: is, was, heeft, werd, wordt, zijn, zal, zou, kan, hebben</li>
-    <li>VERB: moet, heeft, komt, is, zei, noemt, hebben, zijn, kwam, ligt</li>
+    <li>VERB: heeft, komt, wil, is, gaat, zei, kwam, noemt, ligt, hebben</li>
   </ul>
   </li>
 </ul>
@@ -232,7 +232,7 @@ udver: '2'
   <li>Fin
   <ul>
     <li>AUX: is, werd, was, wordt, zijn, werden, worden, waren, zou, kan</li>
-    <li>VERB: zie, heeft, is, kwam, zijn, komt, telt, wint, was, kreeg</li>
+    <li>VERB: zie, heeft, kwam, is, zijn, komt, telt, staat, was, wint</li>
   </ul>
   </li>
 </ul>
@@ -244,8 +244,8 @@ udver: '2'
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: worden, zijn, kunnen, hebben, gaan, willen, laten, blijven, zullen, mogen</li>
-    <li>VERB: komen, moeten, maken, zien, doen, gaan, nemen, zeggen, geven, hebben</li>
+    <li>AUX: worden, zijn, kunnen, moeten, hebben, blijven, zullen, mogen, hoeven, krijgen</li>
+    <li>VERB: komen, gaan, maken, zien, doen, nemen, laten, zeggen, geven, brengen</li>
   </ul>
   </li>
 </ul>
@@ -255,8 +255,8 @@ udver: '2'
 <ul>
   <li>Inf
   <ul>
-    <li>AUX: worden, zijn, laten, kunnen, hebben, gaan, blijven, stellen, fungeren, gelden</li>
-    <li>VERB: maken, tekenen, geven, houden, zien, bestaan, hebben, nemen, gaan, komen</li>
+    <li>AUX: worden, zijn, kunnen, hebben, moeten, blijven, heten, mogen, zullen</li>
+    <li>VERB: maken, gaan, laten, tekenen, geven, houden, zien, nemen, hebben, komen</li>
   </ul>
   </li>
 </ul>
@@ -268,7 +268,7 @@ udver: '2'
 <ul>
   <li>Part
   <ul>
-    <li>AUX: geweest, geworden, gegaan, gebleven, geraakt, gekomen, gebleken, gemaakt, gevonden, liggende</li>
+    <li>AUX: geweest, geworden, gebleven, gebleken, gekregen, zijnde, gehad</li>
     <li>VERB: gemaakt, gehouden, genoemd, genomen, gedaan, afgelopen, gegeven, gekomen, gezien, gesteld</li>
   </ul>
   </li>
@@ -279,8 +279,8 @@ udver: '2'
 <ul>
   <li>Part
   <ul>
-    <li>AUX: geworden, geweest, genoemd, zijnde, gebleven, beschouwd, gaande, gegaan, gegane, geheten</li>
-    <li>VERB: genoemd, volgende, opgericht, gemaakt, gebruikt, gelegen, gekozen, verkozen, gevestigd, bestaande</li>
+    <li>AUX: geworden, geweest, gebleven, zijnde, geheten</li>
+    <li>VERB: genoemd, volgende, opgericht, gemaakt, gebruikt, gekozen, gelegen, verkozen, bestaande, geboren</li>
   </ul>
   </li>
 </ul>
@@ -315,7 +315,7 @@ udver: '2'
     <li>Com
       <ul>
         <li>NOUN: heer, plaats, tijd, minister, flo, stad, man, dag, week, politie</li>
-        <li>PROPN: zaterdag, januari, zondag, JGZ, Robbert, mei, juli, september, vrijdag, april</li>
+        <li>PROPN: zaterdag, januari, zondag, JGZ, Robbert, mei, juli, september, vrijdag, God</li>
       </ul>
     </li>
   </ul>
@@ -325,8 +325,8 @@ udver: '2'
   <ul>
     <li>Com
       <ul>
-        <li>NOUN: partij, stad, eeuw, naam, regering, koning, finale, gemeenschap, politie, provincie</li>
-        <li>PROPN: Wiske, Suske, oktober, Ensor, juni, Vandersteen, VLD, Boudewijn, Kuifje, CVP</li>
+        <li>NOUN: partij, stad, eeuw, naam, regering, koning, finale, provincie, politie, reeks</li>
+        <li>PROPN: juni, oktober, Ensor, Vandersteen, Kuifje, VLD, CVP, D66, november, Napoleon</li>
       </ul>
     </li>
   </ul>
@@ -338,8 +338,8 @@ udver: '2'
   <ul>
     <li>Com,Neut
       <ul>
-        <li>NOUN: soort, boord, keer, paar, subsidie, opium, punt, accordeon, affiche, animo</li>
-        <li>PROPN: Holthaus, WK, Bijlmerbetonmeer, Enkelaar, Enusa, Europe, Gezant, Hoch, Hoornik, Kvp</li>
+        <li>NOUN: soort, boord, keer, paar, subsidie, opium, punt, accordeon, affiche, aperitief</li>
+        <li>PROPN: Estonia, Financien, ARJOS, Beernink, Eeg, IOS, Munchen, SAR, VHO, Van</li>
       </ul>
     </li>
   </ul>
@@ -349,8 +349,8 @@ udver: '2'
   <ul>
     <li>Com,Neut
       <ul>
-        <li>NOUN: keer, soort, mout, Salon, cement, katoen, natuursteen, tin</li>
-        <li>PROPN: Spirit, Giroux, Vivant, Andras, Bouckaert, Brouckère, Dekeyser, Den, Flickr, Marine</li>
+        <li>NOUN: keer, soort, mout, Salon, katoen, sorghum, tin, wort</li>
+        <li>PROPN: Spirit, Vivant, Euronext, Giroux, Dexia, Fortis, Mobistar, Philips, Prego, 4FM</li>
       </ul>
     </li>
   </ul>
@@ -373,8 +373,8 @@ udver: '2'
   <ul>
     <li>Neut
       <ul>
-        <li>NOUN: jaar, gewest, deel, aantal, museum, parlement, werk, begin, land, centrum</li>
-        <li>PROPN: België, Brussel, Vlaanderen, Antwerpen, Hasselt, Nederland, Limburg, Luik, Europa, Gent</li>
+        <li>NOUN: jaar, deel, aantal, werk, begin, gewest, museum, land, bier, centrum</li>
+        <li>PROPN: België, Brussel, Antwerpen, Vlaanderen, Hasselt, Nederland, Bel, Limburg, Luik, Gent</li>
       </ul>
     </li>
   </ul>
@@ -426,10 +426,10 @@ udver: '2'
   <ul>
     <li>Plur
       <ul>
-        <li>AUX-Fin: zijn, hebben, worden, zullen, waren, werden, kunnen, zouden, hadden, willen</li>
+        <li>AUX-Fin: zijn, hebben, worden, zullen, waren, werden, kunnen, zouden, moeten, hadden</li>
         <li>NOUN: mensen, kinderen, jaren, problemen, zaken, landen, boeken, dagen, vrouwen, weken</li>
-        <li>PROPN: Italianen, Nederlanders, GGD-en, Egyptenaren, Rabo's, Surinamers, Cubanen, Nederlanden, Zuid-Amerikanen, Afrikanen</li>
-        <li>VERB-Fin: hebben, zijn, moeten, komen, gaan, kwamen, hadden, krijgen, moesten, konden</li>
+        <li>PROPN: Italianen, Nederlanders, Egyptenaren, GGD-en, Surinamers, Chinezen, Europeanen, Friezen, Joden, Palestijnen</li>
+        <li>VERB-Fin: hebben, zijn, gaan, willen, komen, kwamen, hadden, krijgen, waren, konden</li>
       </ul>
     </li>
   </ul>
@@ -439,10 +439,10 @@ udver: '2'
   <ul>
     <li>Plur
       <ul>
-        <li>AUX-Fin: zijn, werden, worden, waren, hebben, kunnen, hadden, zouden, willen, gaan</li>
+        <li>AUX-Fin: zijn, werden, worden, waren, hebben, kunnen, hadden, moeten, zouden, moesten</li>
         <li>NOUN: jaren, verkiezingen, gemeenten, partijen, inwoners, leden, links, zetels, verhalen, provincies</li>
-        <li>PROPN: Nederlanden, Belgen, Vlamingen, Fransen, Pruisen, grenslandhallen, Kempen, Ardennen, Duitsers, Middeleeuwen</li>
-        <li>VERB-Fin: zijn, hebben, kwamen, staan, verschenen, vormen, hadden, komen, bestaan, kregen</li>
+        <li>PROPN: Belgen, Nederlanden, Fransen, Vlamingen, Pruisen, Kempen, grenslandhallen, Ardennen, Brusselaars, Middeleeuwen</li>
+        <li>VERB-Fin: zijn, hebben, kwamen, staan, vormen, verschenen, hadden, gaan, komen, bestaan</li>
       </ul>
     </li>
   </ul>
@@ -454,10 +454,10 @@ udver: '2'
   <ul>
     <li>Sing
       <ul>
-        <li>AUX-Fin: is, was, heeft, werd, wordt, zal, zou, kan, heet, had</li>
+        <li>AUX-Fin: is, was, heeft, werd, wordt, zal, zou, kan, moet, heet</li>
         <li>NOUN: jaar, land, heer, plaats, tijd, minister, flo, uur, stad, man</li>
         <li>PROPN: Nederland, Amsterdam, zaterdag, Groningen, Rotterdam, Europa, Engeland, januari, zondag, JGZ</li>
-        <li>VERB-Fin: moet, heeft, komt, is, zei, noemt, kwam, ligt, staat, gaat</li>
+        <li>VERB-Fin: heeft, komt, wil, is, gaat, zei, kwam, noemt, ligt, staat</li>
       </ul>
     </li>
   </ul>
@@ -467,10 +467,10 @@ udver: '2'
   <ul>
     <li>Sing
       <ul>
-        <li>AUX-Fin: is, werd, was, wordt, zou, kan, had, heeft, kon, zal</li>
-        <li>NOUN: partij, jaar, stad, gewest, eeuw, naam, regering, koning, finale, deel</li>
-        <li>PROPN: België, Brussel, Vlaanderen, Antwerpen, Hasselt, Wiske, Suske, Nederland, oktober, Ensor</li>
-        <li>VERB-Fin: zie, heeft, is, kwam, komt, telt, wint, was, kreeg, ontstond</li>
+        <li>AUX-Fin: is, werd, was, wordt, zou, kan, had, heeft, kon, moest</li>
+        <li>NOUN: partij, jaar, stad, eeuw, naam, regering, koning, finale, deel, provincie</li>
+        <li>PROPN: België, Brussel, Antwerpen, Vlaanderen, Hasselt, Nederland, Bel, juni, oktober, Vandersteen</li>
+        <li>VERB-Fin: zie, heeft, kwam, is, komt, telt, staat, was, wint, had</li>
       </ul>
     </li>
   </ul>
@@ -516,7 +516,7 @@ udver: '2'
   <ul>
     <li>Acc
       <ul>
-        <li>PRON: zich, hem, elkaar, hen, haar, zichzelf, ons, je, mij, hemzelf</li>
+        <li>PRON: zich, hem, elkaar, hen, haar, zichzelf, ons, je, mij, me</li>
       </ul>
     </li>
   </ul>
@@ -568,7 +568,7 @@ udver: '2'
   <ul>
     <li>Nom
       <ul>
-        <li>PRON: hij, zij, men, ik, je, we, wij, u, jij, Zijzelf</li>
+        <li>PRON: hij, zij, men, ik, je, we, wij, u, Zijzelf, jij</li>
       </ul>
     </li>
   </ul>
@@ -630,7 +630,7 @@ udver: '2'
   <ul>
     <li>Def
       <ul>
-        <li>DET: de, het, der, 's, 't, des, dé</li>
+        <li>DET: de, het, der, 't, 's, des, dé</li>
       </ul>
     </li>
   </ul>
@@ -710,7 +710,7 @@ udver: '2'
   <ul>
     <li>Cmp
       <ul>
-        <li>ADJ: later, verder, beter, hogere, vroegere, jongeren, latere, oudere, verdere, vroeger</li>
+        <li>ADJ: later, verder, beter, hogere, vroegere, jongeren, latere, oudere, verdere, groter</li>
       </ul>
     </li>
   </ul>
@@ -722,7 +722,7 @@ udver: '2'
   <ul>
     <li>Pos
       <ul>
-        <li>ADJ: nieuwe, grote, andere, Nederlandse, goed, heel, groot, goede, Amerikaanse, eigen</li>
+        <li>ADJ: nieuwe, grote, andere, Nederlandse, goed, heel, groot, Amerikaanse, eigen, goede</li>
       </ul>
     </li>
   </ul>
@@ -732,7 +732,7 @@ udver: '2'
   <ul>
     <li>Pos
       <ul>
-        <li>ADJ: Vlaamse, belgische, andere, grote, nieuwe, externe, Vlaams, Franse, eigen, federale</li>
+        <li>ADJ: Vlaamse, belgische, andere, grote, nieuwe, externe, eigen, federale, politieke, verschillende</li>
       </ul>
     </li>
   </ul>
@@ -754,7 +754,7 @@ udver: '2'
   <ul>
     <li>Sup
       <ul>
-        <li>ADJ: grootste, laatste, belangrijkste, hoogste, oudste, beste, bekendste, voornaamste, best, kleinste</li>
+        <li>ADJ: grootste, laatste, belangrijkste, hoogste, oudste, beste, bekendste, best, kleinste, mooiste</li>
       </ul>
     </li>
   </ul>
@@ -866,8 +866,8 @@ udver: '2'
   <ul>
     <li>Past
       <ul>
-        <li>AUX-Fin: was, werd, zou, had, waren, werden, kon, zouden, hadden, wilde</li>
-        <li>VERB-Fin: zei, kwam, had, was, moest, vond, kreeg, vroeg, won, maakte</li>
+        <li>AUX-Fin: was, werd, zou, had, waren, werden, kon, zouden, moest, hadden</li>
+        <li>VERB-Fin: zei, kwam, had, was, vond, kreeg, vroeg, maakte, won, ging</li>
       </ul>
     </li>
   </ul>
@@ -877,8 +877,8 @@ udver: '2'
   <ul>
     <li>Past
       <ul>
-        <li>AUX-Fin: werd, was, werden, waren, zou, had, kon, hadden, liet, zouden</li>
-        <li>VERB-Fin: kwam, was, kreeg, ontstond, had, moest, nam, maakte, ging, bleef</li>
+        <li>AUX-Fin: werd, was, werden, waren, zou, had, kon, moest, hadden, zouden</li>
+        <li>VERB-Fin: kwam, was, had, ontstond, kreeg, ging, nam, maakte, bleef, zorgde</li>
       </ul>
     </li>
   </ul>
@@ -890,8 +890,8 @@ udver: '2'
   <ul>
     <li>Pres
       <ul>
-        <li>AUX-Fin: is, heeft, wordt, zijn, zal, kan, hebben, heet, heb, worden</li>
-        <li>VERB-Fin: moet, heeft, komt, is, noemt, hebben, zijn, ligt, staat, gaat</li>
+        <li>AUX-Fin: is, heeft, wordt, zijn, zal, kan, hebben, moet, heet, heb</li>
+        <li>VERB-Fin: heeft, komt, wil, is, gaat, noemt, ligt, hebben, zijn, staat</li>
       </ul>
     </li>
   </ul>
@@ -901,8 +901,8 @@ udver: '2'
   <ul>
     <li>Pres
       <ul>
-        <li>AUX-Fin: is, wordt, zijn, worden, kan, heeft, hebben, zal, kunnen, staat</li>
-        <li>VERB-Fin: zie, heeft, is, zijn, komt, telt, wint, hebben, bestaat, staat</li>
+        <li>AUX-Fin: is, wordt, zijn, worden, kan, heeft, zal, moet, hebben, kunnen</li>
+        <li>VERB-Fin: zie, heeft, is, zijn, komt, telt, staat, wint, gaat, hebben</li>
       </ul>
     </li>
   </ul>
@@ -1014,7 +1014,7 @@ udver: '2'
   <ul>
     <li>Ind
       <ul>
-        <li>PRON: meer, vele, veel, meeste, minder, meest, enige, beide, alle, alles</li>
+        <li>PRON: meer, vele, veel, meeste, enige, minder, meest, alle, weinig, alles</li>
       </ul>
     </li>
   </ul>
@@ -1226,7 +1226,7 @@ udver: '2'
   <ul>
     <li>1
       <ul>
-        <li>PRON: ik, we, mijn, ons, onze, wij, mij, me</li>
+        <li>PRON: ik, ons, mijn, we, onze, wij, mij, me</li>
       </ul>
     </li>
   </ul>
@@ -1357,7 +1357,7 @@ udver: '2'
   <ul>
     <li>Yes
       <ul>
-        <li>X: o.a., jl., o.m., Ad, a.s., etc., v.j., enz., b.v., e.d.</li>
+        <li>X: o.a., jl., o.m., a.s., etc., v.j., enz., b.v., e.d., j.l.</li>
       </ul>
     </li>
   </ul>
@@ -1369,7 +1369,7 @@ udver: '2'
   <ul>
     <li>Yes
       <ul>
-        <li>X: Bel, sp.a, o.a., ca., VVKSM, nr., lib, COCOF, OSF, VGC</li>
+        <li>X: o.a., o.m., dd, enz., Co, Dir, Gew, N.B., OLV, a.k.a</li>
       </ul>
     </li>
   </ul>
@@ -1395,7 +1395,7 @@ udver: '2'
   <ul>
     <li>Yes
       <ul>
-        <li>X: les, de, Vive, grand, art, la, le, the, cordon, des</li>
+        <li>X: de, la, les, the, Vive, of, art, cordon, des, design</li>
       </ul>
     </li>
   </ul>
@@ -1410,7 +1410,7 @@ udver: '2'
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 62 lemmas as copulas (<a>cop</a>). Examples: zijn, worden, heten, blijven, lijken, gaan, komen, vinden, staan, maken, blijken, raken, liggen, zien, zitten, kunnen, vallen, treden, werken, achten, gelden, klinken, moeten, dienen, doen, fungeren, optreden, stemmen, hebben, houden, luiden, laten, voelen, beschouwen, geven, hangen, noemen, ogen, smaken, wezen, aandoen, bedoelen, brengen, dat_zijn, gooien, kleuren, lopen, opvatten, schijnen, slaan.</li>
+<li>This corpus uses 7 lemmas as copulas (<a>cop</a>). Examples: zijn, worden, heten, blijven, lijken, blijken, schijnen.</li>
 </ul>
 
   </td>
@@ -1420,7 +1420,7 @@ udver: '2'
 <h3>Auxiliary Verbs and Copula</h3>
 
 <ul>
-<li>This corpus uses 32 lemmas as copulas (<a>cop</a>). Examples: zijn, worden, blijven, staan, heten, gaan, komen, noemen, raken, blijken, vallen, fungeren, liggen, doen, gelden, bekendstaan, klinken, ogen, stellen, treden, zien, zitten, beschouwen, dienen, hebben, lijken, optreden, scheren, spreken, titelen, wedijveren, werken.</li>
+<li>This corpus uses 6 lemmas as copulas (<a>cop</a>). Examples: zijn, worden, blijven, heten, blijken, lijken.</li>
 </ul>
 
   </td>
@@ -1428,14 +1428,14 @@ udver: '2'
 <tr>
   <td width="50%" valign="top">
 <ul>
-<li>This corpus uses 10 lemmas as auxiliaries (<a>aux</a>). Examples: hebben, zullen, zijn, kunnen, willen, gaan, mogen, laten, blijken, hoeven.</li>
-<li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: worden, zijn.</li>
+<li>This corpus uses 8 lemmas as auxiliaries (<a>aux</a>). Examples: hebben, zullen, zijn, kunnen, moeten, mogen, blijken, hoeven.</li>
+<li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: worden, zijn, krijgen.</li>
 </ul>
 
   </td>
   <td width="50%" valign="top">
 <ul>
-<li>This corpus uses 10 lemmas as auxiliaries (<a>aux</a>). Examples: hebben, zijn, kunnen, zullen, laten, willen, gaan, mogen, blijken, hoeven.</li>
+<li>This corpus uses 8 lemmas as auxiliaries (<a>aux</a>). Examples: hebben, zijn, kunnen, zullen, moeten, mogen, blijken, hoeven.</li>
 <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: worden, zijn.</li>
 </ul>
 
@@ -1449,19 +1449,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (3473)</li>
+      <li>VERB-Fin--NOUN (3467)</li>
       <li>VERB-Fin--NOUN-ADP(op) (1)</li>
-      <li>VERB-Fin--PRON (1668)</li>
+      <li>VERB-Fin--PRON (1687)</li>
       <li>VERB-Fin--PRON-Acc (1)</li>
-      <li>VERB-Fin--PRON-Nom (2492)</li>
-      <li>VERB-Inf--NOUN (597)</li>
-      <li>VERB-Inf--PRON (318)</li>
+      <li>VERB-Fin--PRON-Nom (2576)</li>
+      <li>VERB-Inf--NOUN (602)</li>
+      <li>VERB-Inf--PRON (303)</li>
       <li>VERB-Inf--PRON-Acc (2)</li>
-      <li>VERB-Inf--PRON-Nom (593)</li>
-      <li>VERB-Part--NOUN (911)</li>
-      <li>VERB-Part--PRON (554)</li>
+      <li>VERB-Inf--PRON-Nom (551)</li>
+      <li>VERB-Part--NOUN (809)</li>
+      <li>VERB-Part--PRON (275)</li>
       <li>VERB-Part--PRON-Acc (1)</li>
-      <li>VERB-Part--PRON-Nom (522)</li>
+      <li>VERB-Part--PRON-Nom (511)</li>
     </ul>
   </li>
 </ul>
@@ -1474,15 +1474,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1375)</li>
-      <li>VERB-Fin--PRON (635)</li>
-      <li>VERB-Fin--PRON-Nom (410)</li>
-      <li>VERB-Inf--NOUN (94)</li>
-      <li>VERB-Inf--PRON (62)</li>
-      <li>VERB-Inf--PRON-Nom (58)</li>
-      <li>VERB-Part--NOUN (118)</li>
-      <li>VERB-Part--PRON (136)</li>
-      <li>VERB-Part--PRON-Nom (34)</li>
+      <li>VERB-Fin--NOUN (1314)</li>
+      <li>VERB-Fin--PRON (624)</li>
+      <li>VERB-Fin--PRON-Nom (397)</li>
+      <li>VERB-Inf--NOUN (98)</li>
+      <li>VERB-Inf--PRON (56)</li>
+      <li>VERB-Inf--PRON-Nom (55)</li>
+      <li>VERB-Part--NOUN (105)</li>
+      <li>VERB-Part--PRON (52)</li>
+      <li>VERB-Part--PRON-Nom (32)</li>
     </ul>
   </li>
 </ul>
@@ -1494,32 +1494,20 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (2771)</li>
+      <li>VERB-Fin--NOUN (2781)</li>
       <li>VERB-Fin--NOUN-ADP(voor) (1)</li>
-      <li>VERB-Fin--PRON (516)</li>
-      <li>VERB-Fin--PRON-Acc (447)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(achter) (1)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(bij) (1)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(met) (7)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(tot) (1)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(van) (1)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(voor) (2)</li>
-      <li>VERB-Fin--PRON-Nom (4)</li>
-      <li>VERB-Inf--NOUN (1459)</li>
+      <li>VERB-Fin--PRON (520)</li>
+      <li>VERB-Fin--PRON-Acc (209)</li>
+      <li>VERB-Fin--PRON-Nom (2)</li>
+      <li>VERB-Inf--NOUN (1438)</li>
       <li>VERB-Inf--NOUN-ADP(voor) (1)</li>
-      <li>VERB-Inf--PRON (269)</li>
-      <li>VERB-Inf--PRON-Acc (187)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(bij) (1)</li>
-      <li>VERB-Inf--PRON-Acc-ADP(op) (1)</li>
+      <li>VERB-Inf--PRON (266)</li>
+      <li>VERB-Inf--PRON-Acc (102)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
-      <li>VERB-Part--NOUN (804)</li>
-      <li>VERB-Part--PRON (183)</li>
-      <li>VERB-Part--PRON-Acc (114)</li>
-      <li>VERB-Part--PRON-Acc-ADP(achter) (1)</li>
-      <li>VERB-Part--PRON-Acc-ADP(om)-ADP(heen) (1)</li>
-      <li>VERB-Part--PRON-Acc-ADP(voor) (1)</li>
-      <li>VERB-Part--PRON-Nom (2)</li>
-      <li>VERB-Part--PRON-Nom-ADP(tot) (1)</li>
+      <li>VERB-Part--NOUN (715)</li>
+      <li>VERB-Part--PRON (182)</li>
+      <li>VERB-Part--PRON-Acc (47)</li>
+      <li>VERB-Part--PRON-Nom (1)</li>
     </ul>
   </li>
 </ul>
@@ -1529,22 +1517,16 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1240)</li>
-      <li>VERB-Fin--NOUN-ADP(boven) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(in) (1)</li>
-      <li>VERB-Fin--NOUN-ADP(waaronder) (1)</li>
-      <li>VERB-Fin--PRON (88)</li>
-      <li>VERB-Fin--PRON-Acc (171)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(bij) (1)</li>
-      <li>VERB-Fin--PRON-Acc-ADP(op) (2)</li>
-      <li>VERB-Inf--NOUN (386)</li>
-      <li>VERB-Inf--PRON (29)</li>
-      <li>VERB-Inf--PRON-Acc (66)</li>
+      <li>VERB-Fin--NOUN (1165)</li>
+      <li>VERB-Fin--PRON (85)</li>
+      <li>VERB-Fin--PRON-Acc (50)</li>
+      <li>VERB-Inf--NOUN (358)</li>
+      <li>VERB-Inf--PRON (26)</li>
+      <li>VERB-Inf--PRON-Acc (43)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
-      <li>VERB-Part--NOUN (135)</li>
-      <li>VERB-Part--NOUN-ADP(van) (1)</li>
-      <li>VERB-Part--PRON (12)</li>
-      <li>VERB-Part--PRON-Acc (16)</li>
+      <li>VERB-Part--NOUN (73)</li>
+      <li>VERB-Part--PRON (11)</li>
+      <li>VERB-Part--PRON-Acc (3)</li>
     </ul>
   </li>
 </ul>
@@ -1556,19 +1538,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN (61)</li>
+      <li>VERB-Fin--NOUN (66)</li>
       <li>VERB-Fin--NOUN-ADP(aan) (1)</li>
       <li>VERB-Fin--PRON (3)</li>
       <li>VERB-Fin--PRON-ADP(aan) (1)</li>
-      <li>VERB-Fin--PRON-Acc (120)</li>
-      <li>VERB-Fin--PRON-Nom (5)</li>
+      <li>VERB-Fin--PRON-Acc (146)</li>
+      <li>VERB-Fin--PRON-Nom (6)</li>
       <li>VERB-Inf--NOUN (45)</li>
       <li>VERB-Inf--NOUN-ADP(aan) (1)</li>
       <li>VERB-Inf--PRON (5)</li>
       <li>VERB-Inf--PRON-ADP(aan) (1)</li>
-      <li>VERB-Inf--PRON-Acc (40)</li>
-      <li>VERB-Inf--PRON-Nom (4)</li>
-      <li>VERB-Part--NOUN (48)</li>
+      <li>VERB-Inf--PRON-Acc (41)</li>
+      <li>VERB-Inf--PRON-Nom (5)</li>
+      <li>VERB-Part--NOUN (49)</li>
       <li>VERB-Part--NOUN-ADP(aan) (2)</li>
       <li>VERB-Part--PRON (3)</li>
       <li>VERB-Part--PRON-ADP(aan) (2)</li>
@@ -1583,13 +1565,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>iobj</a>
     <ul>
-      <li>VERB-Fin--NOUN (13)</li>
-      <li>VERB-Fin--PRON (4)</li>
-      <li>VERB-Fin--PRON-Acc (12)</li>
-      <li>VERB-Inf--NOUN (9)</li>
+      <li>VERB-Fin--NOUN (12)</li>
+      <li>VERB-Fin--PRON (2)</li>
+      <li>VERB-Fin--PRON-Acc (10)</li>
+      <li>VERB-Inf--NOUN (10)</li>
+      <li>VERB-Inf--PRON (1)</li>
       <li>VERB-Inf--PRON-Acc (4)</li>
-      <li>VERB-Part--NOUN (4)</li>
-      <li>VERB-Part--NOUN-ADP(aan) (1)</li>
+      <li>VERB-Part--NOUN (3)</li>
       <li>VERB-Part--PRON-Acc (5)</li>
     </ul>
   </li>
@@ -1599,9 +1581,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 </tr>
 <tr>
   <td width="50%" valign="top">
+<h3>Reflexive Verbs</h3>
+
+<ul>
+  <li>This corpus contains 178 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: bevinden zich, voelen zich, bewust zich, laten zich, maken zich, tonen zich, melden zich, voordoen zich, ontwikkelen zich, plaatsen zich, vraag zich, bewegen zich, doen zich, houden zich, richten zich, afvragen zich, begeven zich, beraden zich, brengen zich, concentreren zich, opstellen zich, vergissen zich, aanmelden zich, gedragen zich, herstellen zich, spelen zich, stellen zich, uitspreken zich, voelen me, voelen ons, voltrekken zich, wagen zich, wreken zich, begeven ons, beperken zich, buigen zich, mengen zich, permitteren zich, schamen je, schamen zich, spreken zich, toeleggen zich, verzetten zich, vraag me, afscheiden zich, afspelen zich, afvragen ons, beklagen me, bemoeien zich, gaan zich</li>
+</ul>
 
   </td>
   <td width="50%" valign="top">
+<h3>Reflexive Verbs</h3>
+
+<ul>
+  <li>This corpus contains 79 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: bevinden zich, vestigen zich, richten zich, sluiten zich, voelen zich, herstellen zich, bekeren zich, kenmerken zich, scharen zich, verklaren zich, afspelen zich, engageren zich, geven zich, manifesteren zich, nemen zich, ontpoppen zich, profileren zich, spelen zich, toeleggen zich, tonen zich, vertalen zich, verzetten zich, voltrekken zich, aaneensluiten zich, afscheiden zich, afvragen zich, begeven zich, bemoeien zich, beperken zich, bezoedelen zich, binden zich, blesseren zich, doen zich, emanciperen zich, focussen zich, formeren zich, hebben zich, herinneren zich, herpakken zich, ingraven zich, inspannen zich, leggen zich, maken zich, melden zich, onderscheiden zich, onderwerpen mij, ontplooien zich, ontwikkelen zich, ophouden zich, opvallen zich</li>
+</ul>
 
   </td>
 </tr>
@@ -1618,9 +1610,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 213 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: bevinden zich, maken zich, houden zich, laten zich, voelen zich, bewust zich, stellen zich, tonen zich, melden zich, plaatsen zich, voordoen zich, ontwikkelen zich, vraag zich, richten zich, bewegen zich, bezighouden zich, doen zich, afvragen zich, begeven zich, beraden zich, brengen zich, concentreren zich, opstellen zich, sluiten zich, vergissen zich, aanmelden zich, gedragen zich, handhaven zich, herstellen zich, spelen zich, strekken zich, uitspreken zich, voltrekken zich, wagen zich, wreken zich, beperken zich, breiden zich, buigen zich, mengen zich, nemen zich, permitteren zich, schamen zich, spreken zich, toeleggen zich, verklaren zich, verzetten zich, achten zich, afscheiden zich, afspelen zich, bemoeien zich</li>
+  <li>This corpus contains 85 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: houden zich, stellen zich, bezighouden zich, handhaven zich, maken zich, breiden zich, laten zich, sluiten zich, strekken zich, achten zich, interesseren zich, noemen zich, omvormen zich, prikken zichzelf, redden zich, versterken zich, verwonden zichzelf, voorbereiden zich, wassen zich, wringen zich, zien zich, aaneensluiten zich, aankondigen zich, aanschaffen zich, aansluiten zich, afficheren zich, bekeren zich, belasten zich, bereiden zich, beschermen zich, bieden zich, binden zich, blesseren zich, chanteren zich, dekken zich, doen zichzelf, dringen zich, dupliceren zich, emanciperen zich, forceren zich, fêteren zich, geven zich, herhalen zichzelf, inkapselen zich, installeren zich, intimideren zich, kennen zich, misbruiken zich, nemen zich, noemen zichzelf</li>
     <ul>
-      <li>Out of those, 13 lemmas occurred more than once, but never without a reflexive dependent. Examples: voordoen, beraden, aanmelden, gedragen, wreken, permitteren, bemoeien, manifesteren, omvormen, onttrekken, terugvechten, wenden, wringen</li>
+      <li>Out of those, 2 lemmas occurred more than once, but never without a reflexive dependent. Examples: omvormen, wringen</li>
     </ul>
 </ul>
 
@@ -1629,9 +1621,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 104 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: bevinden zich, vestigen zich, trekken zich, richten zich, sluiten zich, voelen zich, bezighouden zich, herstellen zich, bekeren zich, houden zich, kenmerken zich, noemen zich, noemen zichzelf, opmerken zich, organiseren zich, positioneren zich, profileren zich, scharen zich, verklaren zich, afspelen zich, begeven zich, doen zich, engageren zich, geven zich, herpakken zich, inschrijven zich, maken zich, manifesteren zich, nemen zich, onthouden zich, ontpoppen zich, schamen zich, spelen zich, splitsen zich, terugtrekken zich, toeleggen zich, tonen zich, verplaatsen zich, vertalen zich, verzetten zich, voltrekken zich, zetten zich, aaneensluiten zich, afscheiden zich, afvragen zich, bemoeien zich, beperken zich, bevrijden zich, bezoedelen zich, binden zich</li>
+  <li>This corpus contains 31 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: trekken zich, bezighouden zich, houden zich, noemen zich, noemen zichzelf, opmerken zich, organiseren zich, positioneren zich, inschrijven zich, laten zich, onthouden zich, terugtrekken zich, bevrijden zich, breiden zich, doen zich, dompelen zich, interesseren zich, kruisen zich, maken zich, opofferen zich, profileren zich, respecteren zichzelf, spelen zichzelf, splitsen zich, steunen zich, uitroepen zich, verdelen zich, verzorgen zich, voorstellen zichzelf, werken zich, zetten zich</li>
     <ul>
-      <li>Out of those, 13 lemmas occurred more than once, but never without a reflexive dependent. Examples: bezighouden, bekeren, opmerken, profileren, scharen, afspelen, begeven, herpakken, ontpoppen, schamen, toeleggen, verzetten, voltrekken</li>
+      <li>Out of those, 2 lemmas occurred more than once, but never without a reflexive dependent. Examples: bezighouden, opmerken</li>
     </ul>
 </ul>
 
@@ -1642,9 +1634,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 6 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a></li>
+<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>expl:pv</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
 <li>The following 2 main types are not used alone, they are always subtyped: <a>compound</a>, <a>flat</a></li>
-<li>The following 9 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>
 
   </td>
@@ -1652,9 +1644,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 6 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a></li>
+<li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>expl:pv</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
 <li>The following 2 main types are not used alone, they are always subtyped: <a>compound</a>, <a>flat</a></li>
-<li>The following 9 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>
 
   </td>

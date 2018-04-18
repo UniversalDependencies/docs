@@ -41,10 +41,10 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 flat	color:blue
-1	ὅ	ὅστις	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	4	obj:dir	_	ref=JOHN_2.5
+1	ὅ	ὅστις	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	4	obj	_	ref=JOHN_2.5
 2	τι	τι	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	1	flat	_	ref=JOHN_2.5
 3	ἂν	ἄν	ADV	Df	_	4	advmod	_	ref=JOHN_2.5
-4	λέγῃ	λέγω	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	obj:dir	_	ref=JOHN_2.5
+4	λέγῃ	λέγω	VERB	V-	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	obj	_	ref=JOHN_2.5
 5	ὑμῖν	ὑμεῖς	PRON	Pp	Case=Dat|Gender=Fem,Masc|Number=Plur|Person=2|PronType=Prs	4	iobj	_	ref=JOHN_2.5
 6	ποιήσατε	ποιέω	VERB	V-	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=JOHN_2.5
 
@@ -60,11 +60,11 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 1	Αἰγινῆταί	Αἰγινήτης	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	ref=5.89.2
 2	τε	τε	CCONJ	C-	_	4	cc	_	ref=5.89.2
 3	δὴ	δή	ADV	Df	_	4	discourse	_	ref=5.89.2
-4	ἐδηίουν	δηιόω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=5.89.2
+4	ἐδηίουν	δηϊόω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=5.89.2
 5	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	ref=5.89.2
 6	Ἀττικῆς	Αττική	PROPN	Ne	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	ref=5.89.2
 7	τὰ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Plur|PronType=Dem	8	det	_	ref=5.89.2
-8	παραθαλάσσια	παραθαλάσσιος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	4	obj:dir	_	ref=5.89.2
+8	παραθαλάσσια	παραθαλάσσιος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	4	obj	_	ref=5.89.2
 9	καὶ	καί	CCONJ	C-	_	4	cc	_	ref=5.89.2
 10	Ἀθηναίοισι	Ἀθηναῖος	ADJ	A-	Case=Dat|Degree=Pos|Gender=Masc|Number=Plur	15	iobj	_	ref=5.89.2
 11	ὁρμημένοισι	ὁρμάω	VERB	V-	Aspect=Perf|Case=Dat|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	15	advcl	_	ref=5.89.2
@@ -87,7 +87,7 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 28	καὶ	καὶ	ADJ	Mo	Case=Dat|Gender=Neut|Number=Sing	27	flat	_	ref=5.89.2
 29	τριηκοστῷ	τριακοστός	ADJ	Mo	Case=Dat|Gender=Neut|Number=Sing	27	flat	_	ref=5.89.2
 30	Αἰακῷ	Αἰακός	PROPN	Ne	Case=Dat|Gender=Masc|Number=Sing	32	iobj	_	ref=5.89.2
-31	τέμενος	τέμενος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	32	obj:dir	_	ref=5.89.2
+31	τέμενος	τέμενος	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	32	obj	_	ref=5.89.2
 32	ἀποδέξαντας	ἀποδείκνυμι	VERB	V-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	33	advcl	_	ref=5.89.2
 33	ἄρχεσθαι	ἄρχω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Mid	16	ccomp	_	ref=5.89.2
 34	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	37	det	_	ref=5.89.2
@@ -97,7 +97,7 @@ The following 4 pairs of parts of speech are connected with `flat`: <tt><a href=
 38	καί	καί	CCONJ	C-	_	33	cc	_	ref=5.89.2
 39	σφι	σφεῖς	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	40	iobj	_	ref=5.89.2
 40	χωρήσειν	χωρέω	VERB	V-	Tense=Fut|VerbForm=Inf|Voice=Act	33	conj	_	ref=5.89.2
-41	τὰ	ὁ	PRON	Pr	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	42	obj:dir	_	ref=5.89.2
+41	τὰ	ὁ	PRON	Pr	Case=Acc|Gender=Neut|Number=Plur|PronType=Rel	42	obj	_	ref=5.89.2
 42	βούλονται	βούλομαι	VERB	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	40	nsubj	_	ref=5.89.2
 
 ~~~

@@ -12,16 +12,25 @@ It occurs with 1 different values: `Neg`.
 104 tokens (1%) have a non-empty value of `Polarity`.
 8 types (0%) occur at least once with a non-empty value of `Polarity`.
 6 lemmas (0%) occur at least once with a non-empty value of `Polarity`.
-The feature is used with 1 part-of-speech tags: <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (104; 1% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="sv_pud-pos-PART.html">PART</a></tt> (99; 1% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (5; 0% instances).
+
+### `PART`
+
+99 <tt><a href="sv_pud-pos-PART.html">PART</a></tt> tokens (24% of all `PART` tokens) have a non-empty value of `Polarity`.
+
+`PART` tokens may have the following values of `Polarity`:
+
+* `Neg` (99; 100% of non-empty `Polarity`): <em>inte, icke, ej</em>
+* `EMPTY` (309): <em>att</em>
 
 ### `ADV`
 
-104 <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> tokens (9% of all `ADV` tokens) have a non-empty value of `Polarity`.
+5 <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `Polarity`.
 
-The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="sv_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (103; 99%).
+The most frequent other feature values with which `ADV` and `Polarity` co-occurred: <tt><a href="sv_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (4; 80%).
 
 `ADV` tokens may have the following values of `Polarity`:
 
-* `Neg` (104; 100% of non-empty `Polarity`): <em>inte, aldrig, icke, ej, föga, knappast</em>
-* `EMPTY` (1056): <em>när, så, mer, in, ut, där, också, upp, bara, fram</em>
+* `Neg` (5; 100% of non-empty `Polarity`): <em>aldrig, föga, knappast</em>
+* `EMPTY` (1007): <em>så, mer, in, ut, där, också, upp, bara, fram, här</em>
 

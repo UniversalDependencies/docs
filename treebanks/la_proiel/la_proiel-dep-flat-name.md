@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="la_proiel-dep-flat.html">flat</a></tt>.
 There are also 1 other language-specific subtypes of `flat`: <tt><a href="la_proiel-dep-flat-foreign.html">flat:foreign</a></tt>.
 
-510 nodes (0%) are attached to their parents as `flat:name`.
+582 nodes (0%) are attached to their parents as `flat:name`.
 
-493 instances of `flat:name` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.41960784313725.
+582 instances of `flat:name` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.37628865979381.
 
-The following 1 pairs of parts of speech are connected with `flat:name`: <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (510; 100% instances).
+The following 1 pairs of parts of speech are connected with `flat:name`: <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (582; 100% instances).
 
 
 ~~~ conllu
@@ -23,7 +23,7 @@ The following 1 pairs of parts of speech are connected with `flat:name`: <tt><a 
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 5 flat:name	color:blue
-1	quod	qui	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	3	obj:dir	_	ref=LUKE_5.8
+1	quod	qui	PRON	Pr	Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	3	obj	_	ref=LUKE_5.8
 2	cum	cum	SCONJ	G-	_	3	mark	_	ref=LUKE_5.8
 3	videret	video	VERB	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	ref=LUKE_5.8
 4	Simon	Simon	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	ref=LUKE_5.8

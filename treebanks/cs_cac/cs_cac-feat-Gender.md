@@ -15,7 +15,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 252494 tokens (51%) have a non-empty value of `Gender`.
 58315 types (93%) occur at least once with a non-empty value of `Gender`.
 25144 lemmas (88%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 8 part-of-speech tags: <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (136143; 28% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (73917; 15% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (15571; 3% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (10563; 2% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (9803; 2% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (2848; 1% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (2450; 0% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (1199; 0% instances).
+The feature is used with 8 part-of-speech tags: <tt><a href="cs_cac-pos-NOUN.html">NOUN</a></tt> (136143; 28% instances), <tt><a href="cs_cac-pos-ADJ.html">ADJ</a></tt> (73917; 15% instances), <tt><a href="cs_cac-pos-DET.html">DET</a></tt> (15572; 3% instances), <tt><a href="cs_cac-pos-VERB.html">VERB</a></tt> (10563; 2% instances), <tt><a href="cs_cac-pos-PROPN.html">PROPN</a></tt> (9803; 2% instances), <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> (2847; 1% instances), <tt><a href="cs_cac-pos-AUX.html">AUX</a></tt> (2450; 0% instances), <tt><a href="cs_cac-pos-NUM.html">NUM</a></tt> (1199; 0% instances).
 
 ### `NOUN`
 
@@ -101,13 +101,13 @@ The most frequent other feature values with which `ADJ` and `Gender` co-occurred
 
 ### `DET`
 
-15571 <tt><a href="cs_cac-pos-DET.html">DET</a></tt> tokens (78% of all `DET` tokens) have a non-empty value of `Gender`.
+15572 <tt><a href="cs_cac-pos-DET.html">DET</a></tt> tokens (78% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (14047; 90%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (14047; 90%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (13146; 84%), <tt><a href="cs_cac-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (12859; 83%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12438; 80%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=EMPTY</tt> (14048; 90%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (14048; 90%), <tt><a href="cs_cac-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (13147; 84%), <tt><a href="cs_cac-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (12860; 83%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (12439; 80%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (4751; 31% of non-empty `Gender`): <em>které, která, této, své, naší, tato, svou, tyto, kterou, tuto</em>
+* `Fem` (4752; 31% of non-empty `Gender`): <em>které, která, této, své, naší, tato, svou, tyto, kterou, tuto</em>
 * `Fem,Neut` (136; 1% of non-empty `Gender`): <em>naše, moje, vaše, tvoje</em>
 * `Masc` (3928; 25% of non-empty `Gender`): <em>který, které, kteří, tento, každý, tyto, sám, některé, svůj, ten</em>
 * `Masc,Neut` (3597; 23% of non-empty `Gender`): <em>tím, tom, toho, tomu, tohoto, tomto, našeho, svého, našem, svým</em>
@@ -129,7 +129,7 @@ The most frequent other feature values with which `DET` and `Gender` co-occurred
   <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>našemu</em></td><td><em>naší</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>mého</em></td><td><em>mé, mojí</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>našeho</em></td><td><em>naší</em></td><td></td></tr>
-  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>mým</em></td><td><em>mou, mojí</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>mým</em></td><td><em>mojí, mou</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>naším</em></td><td><em>naší</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td></td><td><em>mýma</em></td><td></td></tr>
   <tr><td><tt><tt><a href="cs_cac-feat-Case.html">Case</a></tt><tt>=Ins</tt>|<tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Dual</tt>|<tt><a href="cs_cac-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td></td><td><em>našima</em></td><td></td></tr>
@@ -190,13 +190,13 @@ The most frequent other feature values with which `PROPN` and `Gender` co-occurr
 
 ### `PRON`
 
-2848 <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> tokens (18% of all `PRON` tokens) have a non-empty value of `Gender`.
+2847 <tt><a href="cs_cac-pos-PRON.html">PRON</a></tt> tokens (18% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (2848; 100%), <tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (2536; 89%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2103; 74%), <tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (1914; 67%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1576; 55%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="cs_cac-feat-Reflex.html">Reflex</a></tt><tt>=EMPTY</tt> (2847; 100%), <tt><a href="cs_cac-feat-Variant.html">Variant</a></tt><tt>=EMPTY</tt> (2535; 89%), <tt><a href="cs_cac-feat-Number.html">Number</a></tt><tt>=Sing</tt> (2102; 74%), <tt><a href="cs_cac-feat-PrepCase.html">PrepCase</a></tt><tt>=EMPTY</tt> (1913; 67%), <tt><a href="cs_cac-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1575; 55%).
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (872; 31% of non-empty `Gender`): <em>ji, všechny, níž, ní, jí, jež, ni, veškeré, jíž, veškerou</em>
+* `Fem` (871; 31% of non-empty `Gender`): <em>ji, všechny, níž, ní, jí, jež, ni, veškeré, jíž, veškerou</em>
 * `Masc` (622; 22% of non-empty `Gender`): <em>všechny, všichni, kdo, někdo, nikdo, jeho, jenž, on, oni, veškeré</em>
 * `Masc,Neut` (1017; 36% of non-empty `Gender`): <em>mu, ho, němž, jej, něm, něho, ním, něj, něhož, všeho</em>
 * `Neut` (337; 12% of non-empty `Gender`): <em>všechno, vše, je, všechna, jež, ně, co, ono, veškeré, všecko</em>
@@ -278,14 +278,14 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 ## Relations with Agreement in `Gender`
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
-<tt>NOUN --[<tt><a href="cs_cac-dep-amod.html">amod</a></tt>]--> ADJ</tt> (59331; 99%),
-<tt>NOUN --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> NOUN</tt> (7050; 50%),
+<tt>NOUN --[<tt><a href="cs_cac-dep-amod.html">amod</a></tt>]--> ADJ</tt> (59329; 99%),
+<tt>NOUN --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> NOUN</tt> (7049; 50%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADJ</tt> (3642; 92%),
 <tt>ADJ --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (1912; 77%),
 <tt>VERB --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> VERB</tt> (1111; 59%),
 <tt>PROPN --[<tt><a href="cs_cac-dep-flat.html">flat</a></tt>]--> PROPN</tt> (838; 99%),
-<tt>PROPN --[<tt><a href="cs_cac-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (754; 85%),
-<tt>PROPN --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> PROPN</tt> (746; 65%),
-<tt>VERB --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (733; 54%),
-<tt>NOUN --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> NOUN</tt> (692; 50%).
+<tt>PROPN --[<tt><a href="cs_cac-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (751; 85%),
+<tt>PROPN --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> PROPN</tt> (745; 65%),
+<tt>VERB --[<tt><a href="cs_cac-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (731; 54%),
+<tt>NOUN --[<tt><a href="cs_cac-dep-appos.html">appos</a></tt>]--> NOUN</tt> (688; 50%).
 

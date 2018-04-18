@@ -53,7 +53,7 @@ The most frequent other feature values with which `VERB` and `Degree` co-occurre
 
 * `Pos` (449; 100% of non-empty `Degree`): <em>tullut, käytetty, oleva, olevat, saanut, tehty, halunnut, olevaa, ollut, päättänyt</em>
 * `Sup` (2; 0% of non-empty `Degree`): <em>menestynein, myydyimmistään</em>
-* `EMPTY` (1584): <em>sanoi, tulee, tuli, sanoo, alkoi, kertoi, auttaa, eikä, johti, sai</em>
+* `EMPTY` (1580): <em>sanoi, tulee, tuli, sanoo, kertoi, alkoi, auttaa, eikä, johti, sai</em>
 
 <table>
   <tr><th>Paradigm <i>myydä</i></th><th><tt>Pos</tt></th><th><tt>Sup</tt></th></tr>

@@ -90,11 +90,24 @@ http://ceur-ws.org/Vol-1885/181.pdf
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 12760 sentences, 166432 tokens and 167010 syntactic words.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 31659 tokens (19%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 11 types of words that contain both letters and punctuation. Examples: Ha-vel, O-po-nu, pr-chá, A-ano, Cutter's, D-dobře, J-já, Ji-jistě, Za-pla-tit, bytí-na-zemi, t-tento</li>
+</ul>
+
+<ul>
 <li>This corpus contains 578 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
 <li>There are 13 types of multi-word tokens. Examples: aby, abych, kdyby, kdybych, abys, abychom, abyste, kdybyste, kdybys, kdybychom, oč, Nač, zač.</li>
 </ul>
@@ -106,6 +119,9 @@ http://ceur-ws.org/Vol-1885/181.pdf
 <ul>
 <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: SYM</li>
+</ul>
+
+<ul>
 <li>This corpus contains 124 word types tagged as particles (PART): A-ano, Což, Dobře, Díky, Fakt, Jestlipak, Ji-jistě, Neee, Nejenomže, Náhodou, Pardon, Pozor, Príma, ahoj, ale, alespoň, ani, ano, asi, aspoň, ať, až, ba, bezesporu, beztak, bohužel, budiž, bůhví, celkem, co, copak, div, dobrá, dokonce, doopravdy, dozajista, hned, i, jasně, jednoduše, jen, jenom, ještě, jistě, již, jo, kdepak, kdoví, když, klidně, koneckonců, konečně, kupodivu, kéž, leda, možná, nakonec, naneštěstí, naopak, například, natož, ne, nejen, nejenže, nejspíš, nepochybně, nesporně, nicméně, nikoli, nikoliv, no, opravdu, ostatně, ovšem, patrně, pochopitelně, prakticky, pravděpodobně, prej, prostě, právě, prý, přece, přeci, především, přesně, přímo, rozhodně, samozřejmě, sbohem, skoro, skutečně, snad, sotva, spíš, spíše, stejně, tak, takříkajíc, teda, tedy, teprve, to, totiž, třeba, určitě, už, viď, viďte, vlastně, vážně, však, vůbec, vždyť, zajisté, zas, zase, zejména, zkrátka, zrovna, zvláště, zvlášť, zřejmě, že</li>
 </ul>
 
@@ -130,7 +146,9 @@ http://ceur-ws.org/Vol-1885/181.pdf
 </ul>
 
 <ul>
-<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Conv
   <ul>
@@ -138,18 +156,27 @@ http://ceur-ws.org/Vol-1885/181.pdf
     <li>VERB: chtěje, hledajíc, netuše, Divě, Jda, Nechtíc, Opíraje, Pronášejíc, Třesouc, domnívajíc</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Fin
   <ul>
     <li>AUX: jsem, by, je, bych, jsme, bude, jsou, jste, jsi, není</li>
     <li>VERB: je, má, mám, může, nevím, musí, není, mají, musím, vím</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Inf
   <ul>
     <li>AUX: být, nebýt, stát</li>
     <li>VERB: dělat, mít, říct, vidět, být, jít, udělat, žít, stát, dát</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>ADJ: přesvědčen, řečeno, oblečena, uspořádány, následující, rozhodující, třesoucí, napsáno, nastávající, obklopen</li>
@@ -158,12 +185,12 @@ http://ceur-ws.org/Vol-1885/181.pdf
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
+
 <li><a>Gender</a>
+
   <ul>
     <li>Fem
       <ul>
@@ -180,6 +207,9 @@ http://ceur-ws.org/Vol-1885/181.pdf
         <li>VERB-Part: měla, řekla, byla, chtěla, mohla, vzala, přišla, začala, dala, neměla</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>ADJ: celý, rád, další, první, malý, druhý, starý, jediný, ostatní, mladý</li>
@@ -194,6 +224,9 @@ http://ceur-ws.org/Vol-1885/181.pdf
         <li>VERB-Part: řekl, měl, mohl, chtěl, byl, viděl, začal, přišel, vzal, zeptal</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neut
       <ul>
         <li>ADJ: jiného, jasné, možné, jiná, malé, celé, první, druhé, lepší, těžké</li>
@@ -209,9 +242,13 @@ http://ceur-ws.org/Vol-1885/181.pdf
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Animacy</a>
+
   <ul>
     <li>Anim
       <ul>
@@ -227,6 +264,9 @@ http://ceur-ws.org/Vol-1885/181.pdf
         <li>VERB-Part: řekl, měl, chtěl, mohl, viděl, byl, vzal, zeptal, měli, přišel</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Inan
       <ul>
         <li>ADJ: celý, další, první, druhý, malý, jediný, nový, plný, dobrý, velký</li>
@@ -242,9 +282,13 @@ http://ceur-ws.org/Vol-1885/181.pdf
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Number</a>
+
   <ul>
     <li>Dual
       <ul>
@@ -254,6 +298,9 @@ http://ceur-ws.org/Vol-1885/181.pdf
         <li>NUM: oběma</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Plur
       <ul>
         <li>ADJ: další, ostatní, celé, jiná, rádi, jiné, malé, velké, bílé, staré</li>
@@ -270,6 +317,9 @@ http://ceur-ws.org/Vol-1885/181.pdf
         <li>VERB-Part: měli, byli, mohli, byly, chtěli, šli, museli, neměli, seděli, začali</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: celý, první, rád, jiného, poslední, další, celou, malý, druhý, hlavní</li>
@@ -288,9 +338,13 @@ http://ceur-ws.org/Vol-1885/181.pdf
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Acc
       <ul>
@@ -304,6 +358,9 @@ http://ceur-ws.org/Vol-1885/181.pdf
         <li>PROPN: Janičku, Alžbětu, Valentýnu, Láďu, Havla, Oscara, Veroniku, Flajšmana, Filipa, Ajaxe</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dat
       <ul>
         <li>ADJ: druhému, ostatním, Máchovu, jinému, neznámému, vlastním, dalšímu, malé, malému, staré</li>
@@ -316,6 +373,9 @@ http://ceur-ws.org/Vol-1885/181.pdf
         <li>PROPN: Havlovi, Valentýně, Alžbětě, Leošovi, Janičce, Eduardovi, Flajšmanovi, Havlenovi, Ježíškovi, Láďovi</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Gen
       <ul>
         <li>ADJ: jiného, velkého, celého, nového, prvního, druhé, starých, první, jediného, jiných</li>
@@ -328,6 +388,9 @@ http://ceur-ws.org/Vol-1885/181.pdf
         <li>PROPN: Prahy, Poděbrad, Čáslavi, Boleslava, Kolína, Krásné, Moravy, Náchoda, Německa, Československa</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ins
       <ul>
         <li>ADJ: ostatními, stejnou, druhým, celým, dlouhou, největší, pravou, velkým, celou, dlouhými</li>
@@ -340,6 +403,9 @@ http://ceur-ws.org/Vol-1885/181.pdf
         <li>PROPN: Leošem, Valentýnou, Janičkou, Alicí, Eduardem, Alžbětou, Filipem, Láďou, Veronikou, Amadeem</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Loc
       <ul>
         <li>ADJ: prvním, druhém, poslední, druhé, malém, celé, jiném, spodní, velké, velkém</li>
@@ -352,6 +418,9 @@ http://ceur-ws.org/Vol-1885/181.pdf
         <li>PROPN: Praze, Poděbradech, Čáslavi, Československu, Kolíně, Náchodě, Čechách, Berlíně, Slaném, Valentýně</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Nom
       <ul>
         <li>ADJ: první, celá, jasné, starý, malá, další, celý, možné, jediný, mladý</li>
@@ -364,6 +433,9 @@ http://ceur-ws.org/Vol-1885/181.pdf
         <li>PROPN: Láďa, Leoš, Valentýna, Eduard, Havel, Alžběta, Flajšman, Veronika, Havlena, Filip</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Voc
       <ul>
         <li>ADJ: milá, milý, Milí, urozený, drahá, drazí, vzácný, vážený, zlatá, Dobrá</li>
@@ -375,27 +447,40 @@ http://ceur-ws.org/Vol-1885/181.pdf
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>PrepCase</a>
+
   <ul>
     <li>Npr
       <ul>
         <li>PRON: jež, jenž, jehož, jemuž, jíž, již, jímž, jimiž, jimž, jejž</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pre
       <ul>
         <li>PRON: ní, něj, nich, ním, něho, něm, ni, němu, nimi, ně</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Degree and Polarity</h3>
 
+
 <li><a>Degree</a>
+
   <ul>
     <li>Cmp
       <ul>
@@ -403,6 +488,9 @@ http://ceur-ws.org/Vol-1885/181.pdf
         <li>ADV: víc, později, dřív, dál, dříve, méně, raději, lépe, více, hůř</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>ADJ: celý, další, jiného, poslední, malé, celé, celou, velké, vlastní, celá</li>
@@ -411,6 +499,9 @@ http://ceur-ws.org/Vol-1885/181.pdf
         <li>NOUN: hospodský</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sup
       <ul>
         <li>ADJ: nejlepší, největší, nejbližší, nejrychlejší, největším, nejkrásnější, nejmladší, nejbohatší, nejsladší, nejstarší</li>
@@ -418,9 +509,13 @@ http://ceur-ws.org/Vol-1885/181.pdf
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Polarity</a>
+
   <ul>
     <li>Neg
       <ul>
@@ -437,6 +532,9 @@ http://ceur-ws.org/Vol-1885/181.pdf
         <li>VERB-Part: nemohl, neměl, nevěděl, nebyl, neměla, nebylo, nechtěl, nemohla, nechtěla, nevěděla</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>ADJ: celý, rád, další, jiného, poslední, malé, celé, celou, velké, vlastní</li>
@@ -457,9 +555,13 @@ http://ceur-ws.org/Vol-1885/181.pdf
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Variant</a>
+
   <ul>
     <li>Short
       <ul>
@@ -469,11 +571,16 @@ http://ceur-ws.org/Vol-1885/181.pdf
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Verbal Features</h3>
 
+
 <li><a>Aspect</a>
+
   <ul>
     <li>Imp
       <ul>
@@ -482,15 +589,22 @@ http://ceur-ws.org/Vol-1885/181.pdf
         <li>VERB-Conv: chtěje, hledajíc, netuše, Divě, Jda, Nechtíc, Opíraje, Pronášejíc, Třesouc, domnívajíc</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Perf
       <ul>
         <li>VERB-Conv: připomenuv, vrhnuv, vzdychnuv</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Mood</a>
+
   <ul>
     <li>Cnd
       <ul>
@@ -498,12 +612,18 @@ http://ceur-ws.org/Vol-1885/181.pdf
         <li>VERB-Fin: by, bych, bys</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Imp
       <ul>
         <li>AUX-Fin: buď, buďte, Buďme, Nebuď</li>
         <li>VERB-Fin: řekni, dej, nech, pojď, podívej, počkej, neboj, vezmi, vrať, vzpomeňte</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>AUX-Fin: jsem, je, jsme, bude, jsou, jste, jsi, není, budu, budeš</li>
@@ -511,9 +631,13 @@ http://ceur-ws.org/Vol-1885/181.pdf
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Tense</a>
+
   <ul>
     <li>Fut
       <ul>
@@ -521,6 +645,9 @@ http://ceur-ws.org/Vol-1885/181.pdf
         <li>VERB-Fin: bude, nepůjde, nepůjdu, nebude, půjde, půjdeme, půjdu, budou, nebudu, pojedeme</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Past
       <ul>
         <li>AUX-Part: byl, byla, bylo, byly, byli, nebyl, nebylo, nebyla, býval, bývala</li>
@@ -528,6 +655,9 @@ http://ceur-ws.org/Vol-1885/181.pdf
         <li>VERB-Part: řekl, měl, bylo, měla, řekla, mohl, chtěl, byl, byla, chtěla</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pres
       <ul>
         <li>ADJ-Part: následující, rozhodující, třesoucí, nastávající, povznášející, stojící, vynikající, zbývající, blížícího, bušícím</li>
@@ -539,9 +669,13 @@ http://ceur-ws.org/Vol-1885/181.pdf
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Voice</a>
+
   <ul>
     <li>Act
       <ul>
@@ -555,18 +689,27 @@ http://ceur-ws.org/Vol-1885/181.pdf
         <li>VERB-Part: řekl, měl, bylo, měla, řekla, mohl, chtěl, byl, byla, chtěla</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pass
       <ul>
         <li>ADJ-Part: přesvědčen, řečeno, oblečena, uspořádány, napsáno, obklopen, poslán, pozván, zakázáno, ztraceno</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Dem
       <ul>
@@ -574,16 +717,25 @@ http://ceur-ws.org/Vol-1885/181.pdf
         <li>DET: to, ten, tom, toho, tím, té, ta, tu, tomu, tohle</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dem,Ind
       <ul>
         <li>ADV: nesčetněkrát</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Emp
       <ul>
         <li>DET: sám, sama, sami, samo, samy, samu</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>ADV: někdy, nějak, kdysi, někde, někam, jaksi, několikrát, málokdy, kdykoli, mnohokrát</li>
@@ -591,6 +743,9 @@ http://ceur-ws.org/Vol-1885/181.pdf
         <li>PRON: něco, někdo, někoho, cosi, někomu, cokoli, něčím, kdosi, něčem, kdekdo</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Int,Rel
       <ul>
         <li>ADV: jak, proč, kde, kdy, kam, odkud, kolikrát, kudy, Jaks</li>
@@ -598,6 +753,9 @@ http://ceur-ws.org/Vol-1885/181.pdf
         <li>PRON: co, kdo, čím, čem, koho, čeho, čemu, komu, kým, copak</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neg
       <ul>
         <li>ADV: nikdy, nijak, nikde, nikam</li>
@@ -605,18 +763,27 @@ http://ceur-ws.org/Vol-1885/181.pdf
         <li>PRON: nic, nikdo, nikoho, nikomu, ničeho, ničemu, nikým, ničím, ničem</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
         <li>DET: jeho, své, její, jejich, moje, svou, svého, můj, svým, svůj</li>
         <li>PRON: se, si, mi, mě, ho, já, mu, ji, je, jí</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rel
       <ul>
         <li>DET: jehož, jejichž, jejíž, jejímž</li>
         <li>PRON: což, níž, jež, nichž, němž, jenž, nímž, nimiž, něhož, jehož</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Tot
       <ul>
         <li>ADV: všude, vždy, navždy, odevšad, odjakživa</li>
@@ -625,9 +792,13 @@ http://ceur-ws.org/Vol-1885/181.pdf
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>NumType</a>
+
   <ul>
     <li>Card
       <ul>
@@ -635,36 +806,55 @@ http://ceur-ws.org/Vol-1885/181.pdf
         <li>NUM: pár, jeden, dva, dvě, jednoho, tři, jedna, jednu, oba, čtyři</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Frac
       <ul>
         <li>NUM: desetin, čtvrtiny, třetinu</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Mult
       <ul>
         <li>ADV: jednou, dvakrát, kolikrát, několikrát, třikrát, párkrát, mnohokrát, tolikrát, pětkrát, stokrát</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Mult,Sets
       <ul>
         <li>ADJ: Obojí, dvojí, dvojím, oboje, obého</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ord
       <ul>
         <li>ADJ: první, druhý, druhé, třetí, prvním, druhou, druhá, druhém, druhého, prvního</li>
         <li>ADV: poprvé, podruhé, popáté, potřetí, popadesáté, posté, potisící</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sets
       <ul>
         <li>ADJ: jedny, jedněch</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Poss</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -673,9 +863,13 @@ http://ceur-ws.org/Vol-1885/181.pdf
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Reflex</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -684,9 +878,13 @@ http://ceur-ws.org/Vol-1885/181.pdf
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Person</a>
+
   <ul>
     <li>1
       <ul>
@@ -696,6 +894,9 @@ http://ceur-ws.org/Vol-1885/181.pdf
         <li>VERB-Fin: mám, nevím, musím, vím, nemám, chci, nechci, prosím, ptám, mohu</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>AUX-Fin: jste, jsi, byste, bys, budeš, budete, nebudeš, si, buď, buďte</li>
@@ -705,6 +906,9 @@ http://ceur-ws.org/Vol-1885/181.pdf
         <li>VERB-Fin: víš, máš, víte, chceš, můžeš, máte, řekni, myslíš, musíš, dej</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>AUX-Fin: je, by, bude, jsou, není, budou, nebude, nejsou, bývá, bývají</li>
@@ -714,10 +918,15 @@ http://ceur-ws.org/Vol-1885/181.pdf
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Gender[psor]</a>
+
   <ul>
     <li>Fem
       <ul>
@@ -725,36 +934,53 @@ http://ceur-ws.org/Vol-1885/181.pdf
         <li>DET: její, jejich, jejím, jejího, jejích, jejímu, jejíž, jejímž, jejichž</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>ADJ: Havlovo, Láďova, Máchovo, Máchovu, Mašínovi, otcova, primářova, primářově, přítelova, Flajšmanova</li>
         <li>DET: jeho, jejich, jehož, jejichž</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neut
       <ul>
         <li>DET: jeho, jejich</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Number[psor]</a>
+
   <ul>
     <li>Plur
       <ul>
         <li>DET: jejich, naše, náš, vaše, naší, naši, našem, našeho, našich, váš</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>DET: jeho, její, moje, můj, mého, mé, mých, mým, mojí, tvůj</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Other Features</h3>
+
 
 <li><a>Abbr</a>
   <ul>
@@ -767,6 +993,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
     </li>
   </ul>
 </li>
+
 <li><a>AdpType</a>
   <ul>
     <li>Comprep
@@ -786,6 +1013,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
     </li>
   </ul>
 </li>
+
 <li><a>ConjType</a>
   <ul>
     <li>Oper
@@ -795,6 +1023,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
     </li>
   </ul>
 </li>
+
 <li><a>Hyph</a>
   <ul>
     <li>Yes
@@ -804,6 +1033,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
     </li>
   </ul>
 </li>
+
 <li><a>NumForm</a>
   <ul>
     <li>Digit
@@ -818,6 +1048,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
     </li>
   </ul>
 </li>
+
 <li><a>NumValue</a>
   <ul>
     <li>1
@@ -832,6 +1063,7 @@ http://ceur-ws.org/Vol-1885/181.pdf
     </li>
   </ul>
 </li>
+
 <li><a>Style</a>
   <ul>
     <li>Arch
@@ -865,6 +1097,9 @@ http://ceur-ws.org/Vol-1885/181.pdf
 
 <ul>
 <li>This corpus uses 4 lemmas as copulas (<a>cop</a>). Examples: být, bývat, jít, stát.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: být, bývat, ztracený.</li>
 <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: být.</li>
 </ul>
@@ -991,7 +1226,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li>This corpus contains 263 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: říkat si, koupit si, říci si, svlékat se, svléknout se, mít se, schovat se, nalít si, převléknout se, přečíst si, slyšet se, vidět se, nabídnout se, vyčítat si, znát se, nasadit si, nechat si, odpovědět si, opakovat si, prostřít se, zabít se, navonět se, odpustit si, pomoci si, ponechat si, potkat se, psát si, přesvědčit se, převlékat se, připomenout si, přiznat si, schovávat se, udržet se, ujistit se, chytnout se, držet se, dělat si, kupovat si, milující se, namlouvat si, nazvat se, obléknout se, obout se, odradit se, odvést se, odvézt se, ohlásit se, omlouvat se, omluvit se, osvobozovat se</li>
     <ul>
-      <li>Out of those, 12 lemmas occurred more than once, but never without a reflexive dependent. Examples: převléknout, prostřít, navonět, obout, převlékat, milující, omlouvat, omluvit, ptát, sprchovat, ubránit, zakoupit, bít, cuknout, dolít, dopřávat, hanobit, holit, kousat, krýt, naládovat, namazat, namáhat, nasazovat, nasytit, natřásat, naverbovat, oblíknout, obouvat, ochudit, omezovat, opojený, opít, ospravedlňovat, osprchovat, otrávit, ovládat, označit, podrbat, popovídat, posvětit, poškrábat, předhánět, přeřadit, přeříkat, přiopít, přiožrat, připodobňovat, přizpůsobovat, půjčovat</li>
+      <li>Out of those, 12 lemmas occurred more than once, but never without a reflexive dependent. Examples: převléknout, prostřít, navonět, obout, převlékat, milující, omlouvat, omluvit, ptát, sprchovat, ubránit, zakoupit</li>
     </ul>
 </ul>
 

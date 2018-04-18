@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Urdu'
+title:  'UD_Urdu-UDTB'
 udver: '2'
 ---
 
@@ -9,7 +9,7 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Urdu
+# UD Urdu UDTB
 
 Language: [Urdu](../ur/overview/ur-hub.html) (code: `ur`)<br/>
 Family: Indo-European, Indic
@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 
 The following people have contributed to making this treebank part of UD: Riyaz Ahmad Bhat, Daniel Zeman.
 
-Repository: [UD_Urdu](https://github.com/UniversalDependencies/UD_Urdu)
+Repository: [UD_Urdu-UDTB](https://github.com/UniversalDependencies/UD_Urdu-UDTB)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udur_udtb)
 
 License: CC BY-NC-SA 4.0
 
@@ -26,7 +27,7 @@ Genre: news
 
 Questions, comments?
 General annotation questions (either Urdu-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Urdu/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Urdu-UDTB/issues).
 If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&nbsp;mff&nbsp;•&nbsp;cuni&nbsp;•&nbsp;cz].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
@@ -73,27 +74,40 @@ year={2009}
 
 
 
-# Statistics of UD Urdu
+# Statistics of UD Urdu UDTB
 
 ## POS Tags
 
-[ADJ](ur-pos-ADJ.html) – [ADP](ur-pos-ADP.html) – [ADV](ur-pos-ADV.html) – [AUX](ur-pos-AUX.html) – [CCONJ](ur-pos-CCONJ.html) – [DET](ur-pos-DET.html) – [INTJ](ur-pos-INTJ.html) – [NOUN](ur-pos-NOUN.html) – [NUM](ur-pos-NUM.html) – [PART](ur-pos-PART.html) – [PRON](ur-pos-PRON.html) – [PROPN](ur-pos-PROPN.html) – [PUNCT](ur-pos-PUNCT.html) – [SCONJ](ur-pos-SCONJ.html) – [VERB](ur-pos-VERB.html) – [X](ur-pos-X.html)
+[ADJ](ur_udtb-pos-ADJ.html) – [ADP](ur_udtb-pos-ADP.html) – [ADV](ur_udtb-pos-ADV.html) – [AUX](ur_udtb-pos-AUX.html) – [CCONJ](ur_udtb-pos-CCONJ.html) – [DET](ur_udtb-pos-DET.html) – [INTJ](ur_udtb-pos-INTJ.html) – [NOUN](ur_udtb-pos-NOUN.html) – [NUM](ur_udtb-pos-NUM.html) – [PART](ur_udtb-pos-PART.html) – [PRON](ur_udtb-pos-PRON.html) – [PROPN](ur_udtb-pos-PROPN.html) – [PUNCT](ur_udtb-pos-PUNCT.html) – [SCONJ](ur_udtb-pos-SCONJ.html) – [VERB](ur_udtb-pos-VERB.html) – [X](ur_udtb-pos-X.html)
 
 ## Features
 
-[AdpType](ur-feat-AdpType.html) – [AdvType](ur-feat-AdvType.html) – [Aspect](ur-feat-Aspect.html) – [Case](ur-feat-Case.html) – [Echo](ur-feat-Echo.html) – [Foreign](ur-feat-Foreign.html) – [Gender](ur-feat-Gender.html) – [Mood](ur-feat-Mood.html) – [Number](ur-feat-Number.html) – [NumType](ur-feat-NumType.html) – [Person](ur-feat-Person.html) – [Polarity](ur-feat-Polarity.html) – [Polite](ur-feat-Polite.html) – [Poss](ur-feat-Poss.html) – [PronType](ur-feat-PronType.html) – [Tense](ur-feat-Tense.html) – [VerbForm](ur-feat-VerbForm.html) – [Voice](ur-feat-Voice.html)
+[AdpType](ur_udtb-feat-AdpType.html) – [AdvType](ur_udtb-feat-AdvType.html) – [Aspect](ur_udtb-feat-Aspect.html) – [Case](ur_udtb-feat-Case.html) – [Echo](ur_udtb-feat-Echo.html) – [Foreign](ur_udtb-feat-Foreign.html) – [Gender](ur_udtb-feat-Gender.html) – [Mood](ur_udtb-feat-Mood.html) – [Number](ur_udtb-feat-Number.html) – [NumType](ur_udtb-feat-NumType.html) – [Person](ur_udtb-feat-Person.html) – [Polarity](ur_udtb-feat-Polarity.html) – [Polite](ur_udtb-feat-Polite.html) – [Poss](ur_udtb-feat-Poss.html) – [PronType](ur_udtb-feat-PronType.html) – [Tense](ur_udtb-feat-Tense.html) – [VerbForm](ur_udtb-feat-VerbForm.html) – [Voice](ur_udtb-feat-Voice.html)
 
 ## Relations
 
-[acl](ur-dep-acl.html) – [acl:relcl](ur-dep-acl-relcl.html) – [advcl](ur-dep-advcl.html) – [advmod](ur-dep-advmod.html) – [amod](ur-dep-amod.html) – [aux](ur-dep-aux.html) – [case](ur-dep-case.html) – [cc](ur-dep-cc.html) – [compound](ur-dep-compound.html) – [conj](ur-dep-conj.html) – [cop](ur-dep-cop.html) – [dep](ur-dep-dep.html) – [det](ur-dep-det.html) – [dislocated](ur-dep-dislocated.html) – [iobj](ur-dep-iobj.html) – [mark](ur-dep-mark.html) – [nmod](ur-dep-nmod.html) – [nsubj](ur-dep-nsubj.html) – [nummod](ur-dep-nummod.html) – [obj](ur-dep-obj.html) – [obl](ur-dep-obl.html) – [punct](ur-dep-punct.html) – [root](ur-dep-root.html) – [vocative](ur-dep-vocative.html) – [xcomp](ur-dep-xcomp.html)
+[acl](ur_udtb-dep-acl.html) – [acl:relcl](ur_udtb-dep-acl-relcl.html) – [advcl](ur_udtb-dep-advcl.html) – [advmod](ur_udtb-dep-advmod.html) – [amod](ur_udtb-dep-amod.html) – [aux](ur_udtb-dep-aux.html) – [case](ur_udtb-dep-case.html) – [cc](ur_udtb-dep-cc.html) – [compound](ur_udtb-dep-compound.html) – [conj](ur_udtb-dep-conj.html) – [cop](ur_udtb-dep-cop.html) – [dep](ur_udtb-dep-dep.html) – [det](ur_udtb-dep-det.html) – [dislocated](ur_udtb-dep-dislocated.html) – [iobj](ur_udtb-dep-iobj.html) – [mark](ur_udtb-dep-mark.html) – [nmod](ur_udtb-dep-nmod.html) – [nsubj](ur_udtb-dep-nsubj.html) – [nummod](ur_udtb-dep-nummod.html) – [obj](ur_udtb-dep-obj.html) – [obl](ur_udtb-dep-obl.html) – [punct](ur_udtb-dep-punct.html) – [root](ur_udtb-dep-root.html) – [vocative](ur_udtb-dep-vocative.html) – [xcomp](ur_udtb-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 5130 sentences and 138077 tokens.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 6729 tokens (5%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 652 types of words that contain both letters and punctuation. Examples: بات_چیت, کریں_گے, ذمہ_داری, جائیں_گے, ذمہ_دار, عسکریت_پسندوں, فی_الحال, سی_ڈی, عمل_آوری, بین_الاقوامی, رشوت_ستانی, صورت_حال, دہشت_گردی, قبل_ازیں, ہوں_گے, حلف_برداری, عادل_آباد, پیش_نظر, خلاف_ورزی, عسکریت_پسند, حیرت_انگیز, سری_لنکائی, منصوبہ_بندی, دیں_گے, طریقہ_کار, فرقہ_وارانہ, پیش_رفت, تبادلہ_خیال, دہشت_گرد, ذمہ_داروں, رائے_دہی, نظام_آباد, رہیں_گے, سماج_وادی, علاوہ_ازیں, فلائی۔اوور, قطع_نظر, کریں_گی, اسوسی_ایشن, داخل_کردہ, شعبہ_جات, فرقہ_پرست, قانون_سازی, ٹیلی_ویژن, ہوں_گی, اختتام_پذیر, الہ_آباد, انتہا_پسندی, تازہ_ترین, جائیں_گی</li>
+</ul>
+
+<ul>
 </ul>
 
 <h2>Morphology</h2>
@@ -103,6 +117,9 @@ year={2009}
 <ul>
 <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: SYM</li>
+</ul>
+
+<ul>
 <li>This corpus contains 96 word types tagged as particles (PART): آنحضرت, ائے, از, اللہ, اور, اپ, اے, اےک, بالکل, بجائے, برائے, بغیر, بلا, بنا, بھر, بھلا, بھلے, بھی, بہ, تا, تر, تعالی, تعالیٰ, تقریبا, تقریباً, تقریبًا, تو, توں, تک, جناب, جی, جیسے, حضرات, حضرت, حضور, خود, رضی, رفتہ, روزہ, زائد, زدہ, سا, سالہ, سوا, سوائے, سہی, سی, سیدنا, سے, شریف, شریمتی, صاحب, صرف, صلی, عدم, عرف, عظمی, علیہ, عنہ, فوری, فی, قریب, لے, مبارک, محترم, محترمہ, محض, مرحوم, مس, مسز, مسٹر, منسٹر, مولانا, مولوی, نہ, نہیں, و, واں, وسلم, وغیرہ, ویں, پھر, کام, کر, کرام, کریم, کم, کچھ, کہ, کیا, کے, گئے, گویا, ہذا, ہی, یعنی</li>
 </ul>
 
@@ -127,13 +144,18 @@ year={2009}
 </ul>
 
 <ul>
-<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Conv
   <ul>
     <li>VERB: کرکے, آکر, اٹھاکر, لےکر, ملکر, ہوکر, دےکر, بتاکر, بجکر, دلاکر</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Fin
   <ul>
     <li>AUX: ہے, ہیں, تھا, ہےں, تھی, تھے, گے, جائےگا, جائے, گا</li>
@@ -141,6 +163,9 @@ year={2009}
     <li>VERB: ہے, کریں, ہیں, کریں_گے, ہےں, تھے, تھا, کرے, تھی, کرےگی</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Inf
   <ul>
     <li>ADJ: سلجھے</li>
@@ -151,6 +176,9 @@ year={2009}
     <li>X: جانے</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>ADJ: بھرے, برساتی, بڑی, بھری, دکھتی, رنگے, سمجھے, سوچے, لکھی, پڑھی</li>
@@ -167,12 +195,12 @@ year={2009}
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
+
 <li><a>Gender</a>
+
   <ul>
     <li>Fem
       <ul>
@@ -199,6 +227,9 @@ year={2009}
         <li>VERB-Part: کی, دی, ہوئی, ہوتی, بتائی, رہی, آئی, کرتی, رکھی, کہی</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>ADJ: بڑے, دوسرے, نئے, پہلے, پہلا, دوسرا, بڑا, تیسرے, پرانے, پچھلے</li>
@@ -235,10 +266,15 @@ year={2009}
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Number</a>
+
   <ul>
     <li>Plur
       <ul>
@@ -268,6 +304,9 @@ year={2009}
         <li>X: کتنے</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: بڑے, دوسرے, پہلی, پہلے, پہلا, دوسرا, نئے, بڑا, دوسری, نئی</li>
@@ -302,9 +341,13 @@ year={2009}
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Acc
       <ul>
@@ -333,27 +376,42 @@ year={2009}
         <li>X: کتنے, افسوس, کاش</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Acc,Dat
       <ul>
         <li>DET: ہم</li>
         <li>PRON: انہیں, اسے, انھیں, جسے, انہوں, ہمیں, مجھے, جنہیں, میرے, اُنھیں</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Acc,Erg
       <ul>
         <li>AUX: جانے</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Acc,Gen
       <ul>
         <li>PRON: ان, ہم, میری, میرا, اس, جس, میرے, ہمارے</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Acc,Ins
       <ul>
         <li>PRON: ازیں</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Nom
       <ul>
         <li>ADJ: سابق, گزشتہ, سخت, اہم, شدید, ریاستی, بہترین, دیگر, سیاسی, تمام</li>
@@ -380,14 +438,22 @@ year={2009}
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
 
 
 
 <h3>Degree and Polarity</h3>
 
 
+
+
 <li><a>Polarity</a>
+
   <ul>
     <li>Neg
       <ul>
@@ -396,12 +462,18 @@ year={2009}
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Verbal Features</h3>
 
+
 <li><a>Aspect</a>
+
   <ul>
     <li>Imp
       <ul>
@@ -411,6 +483,9 @@ year={2009}
         <li>VERB-Part: کرتے, ہوتا, دیتے, ہوتی, رکھتے, ہوتے, کرتا, کرتی, رہتے, رکھتا</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Perf
       <ul>
         <li>ADJ-Part: بھرے, بڑی, بھری, رنگے, سمجھے, سوچے, لکھی, پڑھی</li>
@@ -426,9 +501,13 @@ year={2009}
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Mood</a>
+
   <ul>
     <li>Imp
       <ul>
@@ -436,6 +515,9 @@ year={2009}
         <li>VERB-Fin: کرو, رکھو, جاؤں, دیکھو, سناؤ</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>AUX-Fin: ہے, ہیں, تھا, ہےں, تھی, تھے, گے, جائےگا, گا, گی</li>
@@ -443,6 +525,9 @@ year={2009}
         <li>VERB-Fin: ہے, ہیں, کریں_گے, ہےں, تھے, تھا, تھی, کرےگی, کریںگے, دیں_گے</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sub
       <ul>
         <li>AUX-Fin: جائے, جائیں, چاہیے, چاہئے, چاہیئے, دیں, سکے, لیں, سکیں, پائیں</li>
@@ -451,9 +536,13 @@ year={2009}
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Tense</a>
+
   <ul>
     <li>Fut
       <ul>
@@ -461,12 +550,18 @@ year={2009}
         <li>VERB-Fin: کریں_گے, کرےگی, کریںگے, دیں_گے, رہےگا, کرےگا, ہوگا, آئےگا, رہیں_گے, کریں_گی</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Past
       <ul>
         <li>AUX-Fin: تھا, تھی, تھے, تھیں, جاتے</li>
         <li>VERB-Fin: تھے, تھا, تھی, تھیں, آئے, رکھتی, رکھتے</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pres
       <ul>
         <li>AUX-Fin: ہے, ہیں, ہےں, ہوں, ہو, رہے</li>
@@ -475,9 +570,13 @@ year={2009}
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Voice</a>
+
   <ul>
     <li>Act
       <ul>
@@ -496,6 +595,9 @@ year={2009}
         <li>VERB-Part: کہا, کیا, کی, بتایا, دیا, دی, ہوا, ہوئی, ہوتا, ہوئے</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pass
       <ul>
         <li>ADJ: جاری</li>
@@ -508,12 +610,18 @@ year={2009}
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Dem
       <ul>
@@ -521,12 +629,18 @@ year={2009}
         <li>PRON: اس, ان, اسی, ایسے, جہاں, وہی, یہ</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>DET: کئی, تمام, کچھ, ہر, چند, بعض, زیادہ, کم, بہت, اور</li>
         <li>PART: کم</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Int
       <ul>
         <li>DET: کیا, کس, کونسا, کتنے, کون, کیسا</li>
@@ -534,35 +648,52 @@ year={2009}
         <li>PRON: کیوں, کیا, کہاں, آیا, کس, کیسے, کون, کب, کتنا, کونسی</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neg
       <ul>
         <li>PART: نہیں, نہ, بغیر, بجائے, عدم, بنا, سوا, سوائے</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
         <li>PRON: اس, وہ, ان, انہوں, اپنے, جس, جو, یہ, اپنی, انہیں</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>NumType</a>
+
   <ul>
     <li>Card
       <ul>
         <li>NUM: اےک, ایک, دو, تین, دونوں, لاکھ, ہزار, پانچ, کروڑ, چار</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ord
       <ul>
         <li>ADJ: دوسری, پہلے, پہلی, دوسرے, پہلا, دوسرا, تیسرے, دوم, واحد, دونوں</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Poss</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -570,10 +701,15 @@ year={2009}
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Person</a>
+
   <ul>
     <li>1
       <ul>
@@ -587,6 +723,9 @@ year={2009}
         <li>VERB-Fin: کروںگا, کریں_گے, ہے</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>ADJ: ہوئے</li>
@@ -600,6 +739,9 @@ year={2009}
         <li>VERB-Part: ہوئے, پہنچے</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>ADJ: ریاستی, پہلے, جملہ, خبررساں, بلدی, امریکی, فوجی, مرکزی, حامی, زخمی</li>
@@ -632,9 +774,13 @@ year={2009}
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Polite</a>
+
   <ul>
     <li>Form
       <ul>
@@ -652,6 +798,9 @@ year={2009}
         <li>VERB-Part: ہوئے, رہے, آتے, بنے, دیتے, رکھتے, رہتے, رہیں, پہنچے, چاہتے</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Infm
       <ul>
         <li>AUX-Fin: جاؤ, رہو, آؤ, لو, چاہو</li>
@@ -659,11 +808,17 @@ year={2009}
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
 
+
+
 <h3>Other Features</h3>
+
 
 <li><a>AdpType</a>
   <ul>
@@ -675,6 +830,7 @@ year={2009}
     </li>
   </ul>
 </li>
+
 <li><a>AdvType</a>
   <ul>
     <li>Deg
@@ -684,6 +840,7 @@ year={2009}
     </li>
   </ul>
 </li>
+
 <li><a>Echo</a>
   <ul>
     <li>Rdp
@@ -702,6 +859,7 @@ year={2009}
     </li>
   </ul>
 </li>
+
 <li><a>Foreign</a>
   <ul>
     <li>Yes
@@ -719,6 +877,9 @@ year={2009}
 
 <ul>
 <li>This corpus uses 6 lemmas as copulas (<a>cop</a>). Examples: ہے، تھا، ہیں، تھی، ہ، ۔.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 102 lemmas as auxiliaries (<a>aux</a>). Examples: ہے، جا، تھا، ہو، رہ، دے، سک، کر، لے، گا، چک، پڑ، گے، چاہ، چاہئے، چاہیے، جائے، گی، چاہیئے، لگ، ہیں، تھی، پا، کا، آ، والا، رکھ، جاتا، جان، دیا، رہا، تھے، چکا، کیوں، بنا، جاتی، سربراہ، لا، چاہئیں، گیا، یہ، رہے، لیا، ناٹ، چل، کوئی، کے، اپنا، بن، بیٹھ.</li>
 </ul>
 

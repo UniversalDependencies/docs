@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Swedish-PUD: POS Tags: `AUX`
 
 There are 15 `AUX` lemmas (0%), 30 `AUX` types (0%) and 691 `AUX` tokens (4%).
-Out of 16 observed tags, the rank of `AUX` is: 11 in number of lemmas, 10 in number of types and 11 in number of tokens.
+Out of 16 observed tags, the rank of `AUX` is: 12 in number of lemmas, 9 in number of types and 10 in number of tokens.
 
 The 10 most frequent `AUX` lemmas: <em>vara, ha, kunna, skola, komma, måste, vilja, böra, behöva, få</em>
 
@@ -51,7 +51,7 @@ The 10 most frequent ambiguous types:  <em>är</em> (<tt><a href="sv_pud-pos-AUX
 
 ## Morphology
 
-The form / lemma ratio of `AUX` is 2.000000 (the average of all parts of speech is 1.237726).
+The form / lemma ratio of `AUX` is 2.000000 (the average of all parts of speech is 1.237541).
 
 The 1st highest number of forms (5) was observed with the lemma “vara”: <em>var, vara, varade, varit, är</em>.
 
@@ -70,21 +70,21 @@ Examples: <em>är, har, kan, kommer, måste, ska, vill, bör, får, må</em>
 
 ## Relations
 
-`AUX` nodes are attached to their parents using 9 different relations: <tt><a href="sv_pud-dep-cop.html">cop</a></tt> (337; 49% instances), <tt><a href="sv_pud-dep-aux.html">aux</a></tt> (333; 48% instances), <tt><a href="sv_pud-dep-root.html">root</a></tt> (12; 2% instances), <tt><a href="sv_pud-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-aux-pass.html">aux:pass</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-parataxis.html">parataxis</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="sv_pud-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="sv_pud-dep-conj.html">conj</a></tt> (1; 0% instances)
+`AUX` nodes are attached to their parents using 8 different relations: <tt><a href="sv_pud-dep-cop.html">cop</a></tt> (343; 50% instances), <tt><a href="sv_pud-dep-aux.html">aux</a></tt> (333; 48% instances), <tt><a href="sv_pud-dep-root.html">root</a></tt> (8; 1% instances), <tt><a href="sv_pud-dep-advcl.html">advcl</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-aux-pass.html">aux:pass</a></tt> (2; 0% instances), <tt><a href="sv_pud-dep-acl-relcl.html">acl:relcl</a></tt> (1; 0% instances), <tt><a href="sv_pud-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="sv_pud-dep-parataxis.html">parataxis</a></tt> (1; 0% instances)
 
-Parents of `AUX` nodes belong to 9 different parts of speech: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (307; 44% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (164; 24% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (157; 23% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (18; 3% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (14; 2% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (12; 2% instances),  (12; 2% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (3; 0% instances)
+Parents of `AUX` nodes belong to 9 different parts of speech: <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (305; 44% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (167; 24% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (157; 23% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (19; 3% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (16; 2% instances), <tt><a href="sv_pud-pos-PROPN.html">PROPN</a></tt> (12; 2% instances),  (8; 1% instances), <tt><a href="sv_pud-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (3; 0% instances)
 
-672 (97%) `AUX` nodes are leaves.
+678 (98%) `AUX` nodes are leaves.
 
 0 (0%) `AUX` nodes have one child.
 
-5 (1%) `AUX` nodes have two children.
+2 (0%) `AUX` nodes have two children.
 
-14 (2%) `AUX` nodes have three or more children.
+11 (2%) `AUX` nodes have three or more children.
 
 The highest child degree of a `AUX` node is 6.
 
-Children of `AUX` nodes are attached using 13 different relations: <tt><a href="sv_pud-dep-punct.html">punct</a></tt> (12; 18% instances), <tt><a href="sv_pud-dep-nsubj.html">nsubj</a></tt> (11; 16% instances), <tt><a href="sv_pud-dep-expl.html">expl</a></tt> (10; 15% instances), <tt><a href="sv_pud-dep-advmod.html">advmod</a></tt> (7; 10% instances), <tt><a href="sv_pud-dep-dislocated.html">dislocated</a></tt> (6; 9% instances), <tt><a href="sv_pud-dep-obl.html">obl</a></tt> (5; 7% instances), <tt><a href="sv_pud-dep-ccomp.html">ccomp</a></tt> (4; 6% instances), <tt><a href="sv_pud-dep-parataxis.html">parataxis</a></tt> (3; 4% instances), <tt><a href="sv_pud-dep-xcomp.html">xcomp</a></tt> (3; 4% instances), <tt><a href="sv_pud-dep-advcl.html">advcl</a></tt> (2; 3% instances), <tt><a href="sv_pud-dep-aux.html">aux</a></tt> (2; 3% instances), <tt><a href="sv_pud-dep-mark.html">mark</a></tt> (2; 3% instances), <tt><a href="sv_pud-dep-cc.html">cc</a></tt> (1; 1% instances)
+Children of `AUX` nodes are attached using 12 different relations: <tt><a href="sv_pud-dep-nsubj.html">nsubj</a></tt> (11; 23% instances), <tt><a href="sv_pud-dep-punct.html">punct</a></tt> (9; 19% instances), <tt><a href="sv_pud-dep-advmod.html">advmod</a></tt> (4; 8% instances), <tt><a href="sv_pud-dep-ccomp.html">ccomp</a></tt> (4; 8% instances), <tt><a href="sv_pud-dep-expl.html">expl</a></tt> (4; 8% instances), <tt><a href="sv_pud-dep-obl.html">obl</a></tt> (4; 8% instances), <tt><a href="sv_pud-dep-parataxis.html">parataxis</a></tt> (3; 6% instances), <tt><a href="sv_pud-dep-xcomp.html">xcomp</a></tt> (3; 6% instances), <tt><a href="sv_pud-dep-aux.html">aux</a></tt> (2; 4% instances), <tt><a href="sv_pud-dep-mark.html">mark</a></tt> (2; 4% instances), <tt><a href="sv_pud-dep-advcl.html">advcl</a></tt> (1; 2% instances), <tt><a href="sv_pud-dep-cc.html">cc</a></tt> (1; 2% instances)
 
-Children of `AUX` nodes belong to 8 different parts of speech: <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (18; 26% instances), <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (13; 19% instances), <tt><a href="sv_pud-pos-PUNCT.html">PUNCT</a></tt> (12; 18% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (10; 15% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (8; 12% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (3; 4% instances), <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> (3; 4% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances)
+Children of `AUX` nodes belong to 9 different parts of speech: <tt><a href="sv_pud-pos-NOUN.html">NOUN</a></tt> (10; 21% instances), <tt><a href="sv_pud-pos-PRON.html">PRON</a></tt> (10; 21% instances), <tt><a href="sv_pud-pos-PUNCT.html">PUNCT</a></tt> (9; 19% instances), <tt><a href="sv_pud-pos-VERB.html">VERB</a></tt> (9; 19% instances), <tt><a href="sv_pud-pos-ADV.html">ADV</a></tt> (3; 6% instances), <tt><a href="sv_pud-pos-AUX.html">AUX</a></tt> (3; 6% instances), <tt><a href="sv_pud-pos-SCONJ.html">SCONJ</a></tt> (2; 4% instances), <tt><a href="sv_pud-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="sv_pud-pos-CCONJ.html">CCONJ</a></tt> (1; 2% instances)
 

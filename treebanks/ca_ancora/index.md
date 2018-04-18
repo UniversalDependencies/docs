@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Catalan'
+title:  'UD_Catalan-AnCora'
 udver: '2'
 ---
 
@@ -9,7 +9,7 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Catalan
+# UD Catalan AnCora
 
 Language: [Catalan](../ca/overview/ca-hub.html) (code: `ca`)<br/>
 Family: Indo-European, Romance
@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 
 The following people have contributed to making this treebank part of UD: Héctor Martínez Alonso, Elena Pascual, Daniel Zeman.
 
-Repository: [UD_Catalan](https://github.com/UniversalDependencies/UD_Catalan)
+Repository: [UD_Catalan-AnCora](https://github.com/UniversalDependencies/UD_Catalan-AnCora)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udca_ancora)
 
 License: GNU GPL 3.0
 
@@ -26,7 +27,7 @@ Genre: news
 
 Questions, comments?
 General annotation questions (either Catalan-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Catalan/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Catalan-AnCora/issues).
 If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&nbsp;mff&nbsp;•&nbsp;cuni&nbsp;•&nbsp;cz].
 Development of the treebank happens directly in the UD repository, so you may submit bug fixes as pull requests against the dev branch.
 
@@ -46,27 +47,40 @@ Catalan data from the AnCora corpus.
 
 ## Acknowledgments
 
-# Statistics of UD Catalan
+# Statistics of UD Catalan AnCora
 
 ## POS Tags
 
-[ADJ](ca-pos-ADJ.html) – [ADP](ca-pos-ADP.html) – [ADV](ca-pos-ADV.html) – [AUX](ca-pos-AUX.html) – [CCONJ](ca-pos-CCONJ.html) – [DET](ca-pos-DET.html) – [INTJ](ca-pos-INTJ.html) – [NOUN](ca-pos-NOUN.html) – [NUM](ca-pos-NUM.html) – [PART](ca-pos-PART.html) – [PRON](ca-pos-PRON.html) – [PROPN](ca-pos-PROPN.html) – [PUNCT](ca-pos-PUNCT.html) – [SCONJ](ca-pos-SCONJ.html) – [SYM](ca-pos-SYM.html) – [VERB](ca-pos-VERB.html) – [X](ca-pos-X.html)
+[ADJ](ca_ancora-pos-ADJ.html) – [ADP](ca_ancora-pos-ADP.html) – [ADV](ca_ancora-pos-ADV.html) – [AUX](ca_ancora-pos-AUX.html) – [CCONJ](ca_ancora-pos-CCONJ.html) – [DET](ca_ancora-pos-DET.html) – [INTJ](ca_ancora-pos-INTJ.html) – [NOUN](ca_ancora-pos-NOUN.html) – [NUM](ca_ancora-pos-NUM.html) – [PART](ca_ancora-pos-PART.html) – [PRON](ca_ancora-pos-PRON.html) – [PROPN](ca_ancora-pos-PROPN.html) – [PUNCT](ca_ancora-pos-PUNCT.html) – [SCONJ](ca_ancora-pos-SCONJ.html) – [SYM](ca_ancora-pos-SYM.html) – [VERB](ca_ancora-pos-VERB.html) – [X](ca_ancora-pos-X.html)
 
 ## Features
 
-[AdpType](ca-feat-AdpType.html) – [AdvType](ca-feat-AdvType.html) – [Case](ca-feat-Case.html) – [Definite](ca-feat-Definite.html) – [Gender](ca-feat-Gender.html) – [Mood](ca-feat-Mood.html) – [Number](ca-feat-Number.html) – [Number[psor]](ca-feat-Number-psor.html) – [NumForm](ca-feat-NumForm.html) – [NumType](ca-feat-NumType.html) – [Person](ca-feat-Person.html) – [Polarity](ca-feat-Polarity.html) – [Polite](ca-feat-Polite.html) – [Poss](ca-feat-Poss.html) – [PrepCase](ca-feat-PrepCase.html) – [PronType](ca-feat-PronType.html) – [PunctSide](ca-feat-PunctSide.html) – [PunctType](ca-feat-PunctType.html) – [Tense](ca-feat-Tense.html) – [VerbForm](ca-feat-VerbForm.html)
+[AdpType](ca_ancora-feat-AdpType.html) – [AdvType](ca_ancora-feat-AdvType.html) – [Case](ca_ancora-feat-Case.html) – [Definite](ca_ancora-feat-Definite.html) – [Gender](ca_ancora-feat-Gender.html) – [Mood](ca_ancora-feat-Mood.html) – [Number](ca_ancora-feat-Number.html) – [Number[psor]](ca_ancora-feat-Number-psor.html) – [NumForm](ca_ancora-feat-NumForm.html) – [NumType](ca_ancora-feat-NumType.html) – [Person](ca_ancora-feat-Person.html) – [Polarity](ca_ancora-feat-Polarity.html) – [Polite](ca_ancora-feat-Polite.html) – [Poss](ca_ancora-feat-Poss.html) – [PrepCase](ca_ancora-feat-PrepCase.html) – [PronType](ca_ancora-feat-PronType.html) – [PunctSide](ca_ancora-feat-PunctSide.html) – [PunctType](ca_ancora-feat-PunctType.html) – [Tense](ca_ancora-feat-Tense.html) – [VerbForm](ca_ancora-feat-VerbForm.html)
 
 ## Relations
 
-[acl](ca-dep-acl.html) – [advcl](ca-dep-advcl.html) – [advmod](ca-dep-advmod.html) – [advmod:emph](ca-dep-advmod-emph.html) – [amod](ca-dep-amod.html) – [appos](ca-dep-appos.html) – [aux](ca-dep-aux.html) – [case](ca-dep-case.html) – [cc](ca-dep-cc.html) – [ccomp](ca-dep-ccomp.html) – [compound](ca-dep-compound.html) – [conj](ca-dep-conj.html) – [cop](ca-dep-cop.html) – [csubj](ca-dep-csubj.html) – [csubj:pass](ca-dep-csubj-pass.html) – [dep](ca-dep-dep.html) – [det](ca-dep-det.html) – [expl:pass](ca-dep-expl-pass.html) – [fixed](ca-dep-fixed.html) – [flat](ca-dep-flat.html) – [iobj](ca-dep-iobj.html) – [mark](ca-dep-mark.html) – [nmod](ca-dep-nmod.html) – [nsubj](ca-dep-nsubj.html) – [nsubj:pass](ca-dep-nsubj-pass.html) – [nummod](ca-dep-nummod.html) – [obj](ca-dep-obj.html) – [obl](ca-dep-obl.html) – [orphan](ca-dep-orphan.html) – [parataxis](ca-dep-parataxis.html) – [punct](ca-dep-punct.html) – [root](ca-dep-root.html) – [xcomp](ca-dep-xcomp.html)
+[acl](ca_ancora-dep-acl.html) – [advcl](ca_ancora-dep-advcl.html) – [advmod](ca_ancora-dep-advmod.html) – [advmod:emph](ca_ancora-dep-advmod-emph.html) – [amod](ca_ancora-dep-amod.html) – [appos](ca_ancora-dep-appos.html) – [aux](ca_ancora-dep-aux.html) – [case](ca_ancora-dep-case.html) – [cc](ca_ancora-dep-cc.html) – [ccomp](ca_ancora-dep-ccomp.html) – [compound](ca_ancora-dep-compound.html) – [conj](ca_ancora-dep-conj.html) – [cop](ca_ancora-dep-cop.html) – [csubj](ca_ancora-dep-csubj.html) – [csubj:pass](ca_ancora-dep-csubj-pass.html) – [dep](ca_ancora-dep-dep.html) – [det](ca_ancora-dep-det.html) – [expl:pass](ca_ancora-dep-expl-pass.html) – [fixed](ca_ancora-dep-fixed.html) – [flat](ca_ancora-dep-flat.html) – [iobj](ca_ancora-dep-iobj.html) – [mark](ca_ancora-dep-mark.html) – [nmod](ca_ancora-dep-nmod.html) – [nsubj](ca_ancora-dep-nsubj.html) – [nsubj:pass](ca_ancora-dep-nsubj-pass.html) – [nummod](ca_ancora-dep-nummod.html) – [obj](ca_ancora-dep-obj.html) – [obl](ca_ancora-dep-obl.html) – [orphan](ca_ancora-dep-orphan.html) – [parataxis](ca_ancora-dep-parataxis.html) – [punct](ca_ancora-dep-punct.html) – [root](ca_ancora-dep-root.html) – [xcomp](ca_ancora-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 16678 sentences, 530766 tokens and 531971 syntactic words.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 76738 tokens (14%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 960 types of words that contain both letters and punctuation. Examples: l', d', s', n', col·laboració, IC-V, instal·lacions, m', 'n, col·lectiu, col·legi, 'ls, instal·lació, sol·licitar, pel·lícula, novel·la, Carod-Rovira, nord-americana, Intra-ACN, m., paral·lelament, il·legal, pel·lícules, Mas-Colell, col·lecció, 's, A-7, col·laboradors, nord-americà, al·legacions, col·lectius, satèl·lit, Segarra-Garrigues, col·laborar, instal·lar, col·lectiva, il·lusió, sol·licitud, PSC-CpC, col·locar, t', Pimec-Sefes, intel·lectual, paral·lel, Brussel·les, col·laborat, col·locació, C., Josep-Lluís, TV-3</li>
+</ul>
+
+<ul>
 <li>This corpus contains 1179 multi-word tokens. On average, one multi-word token consists of 2.02 syntactic words.</li>
 <li>There are 783 types of multi-word tokens. Examples: fer-ho, haver-se, convertir-se, fer-se, dirigir-se, desplaçar-se, donar-li, fer-li, posar-se, reunir-se, aconseguir-ho, quedar-se, anar-se'n, curar-se, fer-hi, fer-los, haver-hi, incloent-hi, amenaçant-lo, aturar-se, demanar-li, desfer-se, dient-li, negar-se, obligar-la, pronunciar-se, referir-se, tractar-se, acostar-se, assegurar-se, barallar-se, basant-se, beneficiar-se, dir-li, fer-les, fer-lo, presentar-se, recuperar-se, retirar-se, situar-se, ajudar-los, apropar-se, arribar-hi, celebrar-se, citar-ne, clavar-li, comportar-se, considerar-la, dedicar-se, deixar-se.</li>
 </ul>
@@ -77,6 +91,9 @@ Catalan data from the AnCora corpus.
 
 <ul>
 <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
+</ul>
+
+<ul>
 <li>This corpus contains 1 word types tagged as particles (PART): no</li>
 </ul>
 
@@ -101,7 +118,9 @@ Catalan data from the AnCora corpus.
 </ul>
 
 <ul>
-<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Fin
   <ul>
@@ -109,18 +128,27 @@ Catalan data from the AnCora corpus.
     <li>VERB: té, ha, tenen, fa, considera, cal, farà, vol, tracta, demana</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Ger
   <ul>
     <li>AUX: sent, dient, essent, tenint, aprofitant, intentant, afirmant, assegurant, demanant, fent</li>
     <li>VERB: fent, treballant, passant, donant, seguint, tenint, coincidint, aprofitant, parlant, demanant</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Inf
   <ul>
     <li>AUX: ser, haver, poder, fer, estar, tornar, començar, deixar, intentar, arribar</li>
     <li>VERB: fer, tenir, dir, donar, arribar, aconseguir, passar, presentar, veure, anar</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>ADJ: passat, previst, passada, obert, relacionats, format, oberta, privada, situat, afectats</li>
@@ -129,12 +157,12 @@ Catalan data from the AnCora corpus.
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
+
 <li><a>Gender</a>
+
   <ul>
     <li>Fem
       <ul>
@@ -149,6 +177,9 @@ Catalan data from the AnCora corpus.
         <li>VERB-Part: dictada, aprovada, presentada, considerada, donada, atesa, inclosa, inaugurada, traslladada, coneguda</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>ADJ: passat, primer, nou, espanyol, nous, català, públic, últims, polític, últim</li>
@@ -166,10 +197,15 @@ Catalan data from the AnCora corpus.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Number</a>
+
   <ul>
     <li>Plur
       <ul>
@@ -187,6 +223,9 @@ Catalan data from the AnCora corpus.
         <li>VERB-Part: detinguts, jutjats, traslladats, atesos, condemnats, desallotjats, elegits, fetes, identificades, rescatats</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: gran, general, passat, primer, nou, primera, actual, nova, important, social</li>
@@ -205,29 +244,43 @@ Catalan data from the AnCora corpus.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Acc
       <ul>
         <li>PRON: la, el, l', lo, les, els, 'l, li, 'ls, -la</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dat
       <ul>
         <li>PRON: li, lo</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Nom
       <ul>
         <li>PRON: jo, mi</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>PrepCase</a>
+
   <ul>
     <li>Pre
       <ul>
@@ -235,27 +288,40 @@ Catalan data from the AnCora corpus.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Definite</a>
+
   <ul>
     <li>Def
       <ul>
         <li>DET: la, el, l', les, els</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>DET: en, l', al, col·laboració, la, sa, ses, suficient</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Degree and Polarity</h3>
 
 
+
+
 <li><a>Polarity</a>
+
   <ul>
     <li>Neg
       <ul>
@@ -263,13 +329,20 @@ Catalan data from the AnCora corpus.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Verbal Features</h3>
 
 
+
+
 <li><a>Mood</a>
+
   <ul>
     <li>Cnd
       <ul>
@@ -277,18 +350,27 @@ Catalan data from the AnCora corpus.
         <li>VERB-Fin: caldria, faria, agradaria, permetria, quedaria, farien, hauria, suposaria, tindria, aconseguiria</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Imp
       <ul>
         <li>AUX-Fin: sigui, deixi, estigui, siguin, acabin, gosa, seguim</li>
         <li>VERB-Fin: seguim, superi, aclareixi, estrena, gestioni, miri, quedin, Aprovin, Escolta, Fabriquem</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>AUX-Fin: va, ha, és, van, han, són, està, havia, pot, serà</li>
         <li>VERB-Fin: té, ha, tenen, fa, considera, cal, farà, vol, tracta, demana</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sub
       <ul>
         <li>AUX-Fin: sigui, hagi, pugui, puguin, hagin, siguin, hagués, fos, estigui, pogués</li>
@@ -296,9 +378,13 @@ Catalan data from the AnCora corpus.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Tense</a>
+
   <ul>
     <li>Fut
       <ul>
@@ -306,12 +392,18 @@ Catalan data from the AnCora corpus.
         <li>VERB-Fin: farà, tindrà, haurà, celebrarà, presentarà, faran, permetrà, començarà, comptarà, oferirà</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Imp
       <ul>
         <li>AUX-Fin: havia, era, havien, estava, eren, podia, hagués, fos, estaven, podien</li>
         <li>VERB-Fin: tenia, havia, feia, tenien, deia, volia, estava, feien, sabia, demanava</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Past
       <ul>
         <li>AUX-Fin: fou, foren</li>
@@ -320,6 +412,9 @@ Catalan data from the AnCora corpus.
         <li>VERB-Part: fet, explicat, dit, presentat, tingut, assegurat, destacat, demanat, passat, assenyalat</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pres
       <ul>
         <li>AUX-Fin: va, ha, és, van, han, són, està, pot, fa, estan</li>
@@ -327,49 +422,74 @@ Catalan data from the AnCora corpus.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
 
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Art
       <ul>
         <li>DET: la, el, l', les, els, un, meva, una, los, las</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dem
       <ul>
         <li>DET: aquest, aquesta, aquests, aquestes, aquell, aquells, aquella, aquelles, tal, tals</li>
         <li>PRON: això, aquest, aquesta, tal, allò, aquests, aquestes, aquells, aquell, aquelles</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>DET: un, una, altres, tots, mateix, tot, cap, cada, uns, diferents</li>
         <li>PRON: un, una, altres, uns, alguns, res, tots, altra, altre, ningú</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Int
       <ul>
         <li>DET: quina, quin, quines, quins, quants</li>
         <li>PRON: com, què, qui, on, quan, quina, quin, quines, quins, quant</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
         <li>DET: seva, seu, seus, seves, nostra, nostre, nostres, meu, meus, su</li>
         <li>PRON: hi, li, ho, els, la, el, l', ens, ell, n'</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rel
       <ul>
         <li>DET: qual, Que</li>
         <li>PRON: que, on, què, qui, qual, quals, quan, com</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Tot
       <ul>
         <li>DET: tot</li>
@@ -377,30 +497,44 @@ Catalan data from the AnCora corpus.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>NumType</a>
+
   <ul>
     <li>Card
       <ul>
         <li>NUM: dos, tres, cent, dues, quatre, un, cinc, nou, sis, una</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Frac
       <ul>
         <li>NUM: cada, 1,1, 10, 15, 161, 17,8/100.000, 26,5/100.000, 3,9, 37,45, 57,9/100.000</li>
         <li>SYM: %, 50%, 10%, 30%, 5%, 25%, 1%, 20%, 40%, 2%</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ord
       <ul>
         <li>ADJ: primer, primera, últims, segona, últim, segon, primers, última, tercer, darrers</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Poss</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -409,10 +543,15 @@ Catalan data from the AnCora corpus.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Person</a>
+
   <ul>
     <li>1
       <ul>
@@ -422,6 +561,9 @@ Catalan data from the AnCora corpus.
         <li>VERB-Fin: tenim, crec, volem, sé, tinc, vull, estem, dic, penso, sabem</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>AUX-Fin: has, pots, esteu, heu, acabes, ets, feu, gosa, haureu, podeu</li>
@@ -430,6 +572,9 @@ Catalan data from the AnCora corpus.
         <li>VERB-Fin: fas, estrena, voleu, Escolta, Obres, acuses, afirma, aturis, busqueu, cantes</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>AUX-Fin: va, ha, és, van, han, són, està, havia, pot, serà</li>
@@ -439,9 +584,13 @@ Catalan data from the AnCora corpus.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Polite</a>
+
   <ul>
     <li>Form
       <ul>
@@ -449,10 +598,15 @@ Catalan data from the AnCora corpus.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Number[psor]</a>
+
   <ul>
     <li>Plur
       <ul>
@@ -460,6 +614,9 @@ Catalan data from the AnCora corpus.
         <li>PRON: nostre, nostres</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>DET: meu, meus, teu, meva, teus, teva</li>
@@ -467,9 +624,13 @@ Catalan data from the AnCora corpus.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Other Features</h3>
+
 
 <li><a>AdpType</a>
   <ul>
@@ -488,6 +649,7 @@ Catalan data from the AnCora corpus.
     </li>
   </ul>
 </li>
+
 <li><a>AdvType</a>
   <ul>
     <li>Tim
@@ -499,6 +661,7 @@ Catalan data from the AnCora corpus.
     </li>
   </ul>
 </li>
+
 <li><a>NumForm</a>
   <ul>
     <li>Digit
@@ -510,6 +673,7 @@ Catalan data from the AnCora corpus.
     </li>
   </ul>
 </li>
+
 <li><a>PunctSide</a>
   <ul>
     <li>Fin
@@ -524,6 +688,7 @@ Catalan data from the AnCora corpus.
     </li>
   </ul>
 </li>
+
 <li><a>PunctType</a>
   <ul>
     <li>Brck
@@ -580,6 +745,9 @@ Catalan data from the AnCora corpus.
 
 <ul>
 <li>This corpus uses 51 lemmas as copulas (<a>cop</a>). Examples: ser, estar, semblar, el, donar, deixar, voler, anar, haver, tenir, a, així, guanyar, quedar, un, accedir, acusar, adoptar, al, arribar, atendre, aterrar, atreure, basar, celebrar, col·locar, complir, continuar, convocar, dir, emetre, esdevenir, establir, existir, jugar, juntament, merèixer, nomenar, o, optar, perjudicar, permetre, poder, produir, punxar, que, qüestionar, seriar, sofrir, trobar.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 310 lemmas as auxiliaries (<a>aux</a>). Examples: haver, anar, poder, ser, fer, estar, tornar, començar, deixar, continuar, acabar, seguir, voler, arribar, dir, intentar, saber, evitar, veure, considerar, tenir, aconseguir, passar, demostrar, pensar, mirar, demanar, soler, entendre, posar, recordar, garantir, donar, a, assegurar, acostumar, afirmar, aprofitar, conèixer, deure, quedar, assenyalar, destacar, entrar, explicar, impedir, portar, suport, argumentar, augmentar.</li>
 </ul>
 

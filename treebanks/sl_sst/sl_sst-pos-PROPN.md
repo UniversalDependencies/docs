@@ -22,7 +22,7 @@ The 10 most frequent ambiguous types:  <em>božje</em> (<tt><a href="sl_sst-pos-
   * <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> 1: <em>ko pa sem ko pa sem pisal spis pa sem dobil spet eee ena do dva ker je tisti profesor iz iz <b>božje</b> milosti nekaj mi šenkal</em>
   * <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> 1: <em><b>božje</b> nad oplotnico … oni je tu oženjen [name:surname] ?</em>
 * <em>maja</em>
-  * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 2: <em>potem bomo kar začeli z majskimi igrami ki se začnejo četrtega <b>maja</b></em>
+  * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 2: <em>od <b>maja</b> meseca pa dokler ni bila slana smo pasli [:voice]</em>
   * <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> 1: <em>eee andrej blatnik <b>maja</b> novak berta bojetu alojz ihan aleš debeljak franjo frančič [gap] igor zabel igor bratož</em>
 * <em>mark</em>
   * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 3: <em>sem rekel ta bo in sem dal za njega sedemsto <b>mark</b></em>
@@ -53,11 +53,11 @@ Examples: <em>[name:personal], [name:surname], [name:address], [name:organisatio
 
 Parents of `PROPN` nodes belong to 11 different parts of speech: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (268; 35% instances), <tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (193; 25% instances), <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (155; 20% instances),  (88; 12% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (23; 3% instances), <tt><a href="sl_sst-pos-DET.html">DET</a></tt> (12; 2% instances), <tt><a href="sl_sst-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (5; 1% instances), <tt><a href="sl_sst-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> (2; 0% instances), <tt><a href="sl_sst-pos-PART.html">PART</a></tt> (1; 0% instances)
 
-359 (47%) `PROPN` nodes are leaves.
+361 (48%) `PROPN` nodes are leaves.
 
-255 (34%) `PROPN` nodes have one child.
+251 (33%) `PROPN` nodes have one child.
 
-83 (11%) `PROPN` nodes have two children.
+85 (11%) `PROPN` nodes have two children.
 
 61 (8%) `PROPN` nodes have three or more children.
 

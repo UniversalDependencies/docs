@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Slovak'
+title:  'UD_Slovak-SNK'
 udver: '2'
 ---
 
@@ -9,7 +9,7 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Slovak
+# UD Slovak SNK
 
 Language: [Slovak](../sk/overview/sk-hub.html) (code: `sk`)<br/>
 Family: Indo-European, Slavic
@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v1.4 release.
 
 The following people have contributed to making this treebank part of UD: Katarína Gajdošová, Mária Šimková, Daniel Zeman.
 
-Repository: [UD_Slovak](https://github.com/UniversalDependencies/UD_Slovak)
+Repository: [UD_Slovak-SNK](https://github.com/UniversalDependencies/UD_Slovak-SNK)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsk_snk)
 
 License: CC BY-SA 4.0
 
@@ -26,7 +27,7 @@ Genre: fiction, nonfiction, news
 
 Questions, comments?
 General annotation questions (either Slovak-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Slovak/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Slovak-SNK/issues).
 If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&nbsp;mff&nbsp;•&nbsp;cuni&nbsp;•&nbsp;cz].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
@@ -88,27 +89,40 @@ vol. 68, no. 2, pp. 385-395
 
 ## Acknowledgments
 
-# Statistics of UD Slovak
+# Statistics of UD Slovak SNK
 
 ## POS Tags
 
-[ADJ](sk-pos-ADJ.html) – [ADP](sk-pos-ADP.html) – [ADV](sk-pos-ADV.html) – [AUX](sk-pos-AUX.html) – [CCONJ](sk-pos-CCONJ.html) – [DET](sk-pos-DET.html) – [INTJ](sk-pos-INTJ.html) – [NOUN](sk-pos-NOUN.html) – [NUM](sk-pos-NUM.html) – [PART](sk-pos-PART.html) – [PRON](sk-pos-PRON.html) – [PROPN](sk-pos-PROPN.html) – [PUNCT](sk-pos-PUNCT.html) – [SCONJ](sk-pos-SCONJ.html) – [SYM](sk-pos-SYM.html) – [VERB](sk-pos-VERB.html) – [X](sk-pos-X.html)
+[ADJ](sk_snk-pos-ADJ.html) – [ADP](sk_snk-pos-ADP.html) – [ADV](sk_snk-pos-ADV.html) – [AUX](sk_snk-pos-AUX.html) – [CCONJ](sk_snk-pos-CCONJ.html) – [DET](sk_snk-pos-DET.html) – [INTJ](sk_snk-pos-INTJ.html) – [NOUN](sk_snk-pos-NOUN.html) – [NUM](sk_snk-pos-NUM.html) – [PART](sk_snk-pos-PART.html) – [PRON](sk_snk-pos-PRON.html) – [PROPN](sk_snk-pos-PROPN.html) – [PUNCT](sk_snk-pos-PUNCT.html) – [SCONJ](sk_snk-pos-SCONJ.html) – [SYM](sk_snk-pos-SYM.html) – [VERB](sk_snk-pos-VERB.html) – [X](sk_snk-pos-X.html)
 
 ## Features
 
-[Abbr](sk-feat-Abbr.html) – [AdpType](sk-feat-AdpType.html) – [Animacy](sk-feat-Animacy.html) – [Aspect](sk-feat-Aspect.html) – [Case](sk-feat-Case.html) – [Degree](sk-feat-Degree.html) – [Foreign](sk-feat-Foreign.html) – [Gender](sk-feat-Gender.html) – [Gender[psor]](sk-feat-Gender-psor.html) – [Hyph](sk-feat-Hyph.html) – [Mood](sk-feat-Mood.html) – [Number](sk-feat-Number.html) – [Number[psor]](sk-feat-Number-psor.html) – [NumForm](sk-feat-NumForm.html) – [NumType](sk-feat-NumType.html) – [Person](sk-feat-Person.html) – [Polarity](sk-feat-Polarity.html) – [Poss](sk-feat-Poss.html) – [PronType](sk-feat-PronType.html) – [Reflex](sk-feat-Reflex.html) – [Tense](sk-feat-Tense.html) – [Typo](sk-feat-Typo.html) – [VerbForm](sk-feat-VerbForm.html) – [Voice](sk-feat-Voice.html)
+[Abbr](sk_snk-feat-Abbr.html) – [AdpType](sk_snk-feat-AdpType.html) – [Animacy](sk_snk-feat-Animacy.html) – [Aspect](sk_snk-feat-Aspect.html) – [Case](sk_snk-feat-Case.html) – [Degree](sk_snk-feat-Degree.html) – [Foreign](sk_snk-feat-Foreign.html) – [Gender](sk_snk-feat-Gender.html) – [Gender[psor]](sk_snk-feat-Gender-psor.html) – [Hyph](sk_snk-feat-Hyph.html) – [Mood](sk_snk-feat-Mood.html) – [Number](sk_snk-feat-Number.html) – [Number[psor]](sk_snk-feat-Number-psor.html) – [NumForm](sk_snk-feat-NumForm.html) – [NumType](sk_snk-feat-NumType.html) – [Person](sk_snk-feat-Person.html) – [Polarity](sk_snk-feat-Polarity.html) – [Poss](sk_snk-feat-Poss.html) – [PronType](sk_snk-feat-PronType.html) – [Reflex](sk_snk-feat-Reflex.html) – [Tense](sk_snk-feat-Tense.html) – [Typo](sk_snk-feat-Typo.html) – [VerbForm](sk_snk-feat-VerbForm.html) – [Voice](sk_snk-feat-Voice.html)
 
 ## Relations
 
-[acl](sk-dep-acl.html) – [advcl](sk-dep-advcl.html) – [advmod](sk-dep-advmod.html) – [advmod:emph](sk-dep-advmod-emph.html) – [amod](sk-dep-amod.html) – [appos](sk-dep-appos.html) – [aux](sk-dep-aux.html) – [aux:pass](sk-dep-aux-pass.html) – [case](sk-dep-case.html) – [cc](sk-dep-cc.html) – [ccomp](sk-dep-ccomp.html) – [compound](sk-dep-compound.html) – [conj](sk-dep-conj.html) – [cop](sk-dep-cop.html) – [csubj](sk-dep-csubj.html) – [csubj:pass](sk-dep-csubj-pass.html) – [dep](sk-dep-dep.html) – [det](sk-dep-det.html) – [det:numgov](sk-dep-det-numgov.html) – [discourse](sk-dep-discourse.html) – [expl:pass](sk-dep-expl-pass.html) – [expl:pv](sk-dep-expl-pv.html) – [fixed](sk-dep-fixed.html) – [flat](sk-dep-flat.html) – [flat:foreign](sk-dep-flat-foreign.html) – [iobj](sk-dep-iobj.html) – [mark](sk-dep-mark.html) – [nmod](sk-dep-nmod.html) – [nsubj](sk-dep-nsubj.html) – [nsubj:pass](sk-dep-nsubj-pass.html) – [nummod](sk-dep-nummod.html) – [obj](sk-dep-obj.html) – [obl](sk-dep-obl.html) – [obl:agent](sk-dep-obl-agent.html) – [obl:arg](sk-dep-obl-arg.html) – [orphan](sk-dep-orphan.html) – [parataxis](sk-dep-parataxis.html) – [punct](sk-dep-punct.html) – [root](sk-dep-root.html) – [vocative](sk-dep-vocative.html) – [xcomp](sk-dep-xcomp.html)
+[acl](sk_snk-dep-acl.html) – [advcl](sk_snk-dep-advcl.html) – [advmod](sk_snk-dep-advmod.html) – [advmod:emph](sk_snk-dep-advmod-emph.html) – [amod](sk_snk-dep-amod.html) – [appos](sk_snk-dep-appos.html) – [aux](sk_snk-dep-aux.html) – [aux:pass](sk_snk-dep-aux-pass.html) – [case](sk_snk-dep-case.html) – [cc](sk_snk-dep-cc.html) – [ccomp](sk_snk-dep-ccomp.html) – [compound](sk_snk-dep-compound.html) – [conj](sk_snk-dep-conj.html) – [cop](sk_snk-dep-cop.html) – [csubj](sk_snk-dep-csubj.html) – [csubj:pass](sk_snk-dep-csubj-pass.html) – [dep](sk_snk-dep-dep.html) – [det](sk_snk-dep-det.html) – [det:numgov](sk_snk-dep-det-numgov.html) – [discourse](sk_snk-dep-discourse.html) – [expl:pass](sk_snk-dep-expl-pass.html) – [expl:pv](sk_snk-dep-expl-pv.html) – [fixed](sk_snk-dep-fixed.html) – [flat](sk_snk-dep-flat.html) – [flat:foreign](sk_snk-dep-flat-foreign.html) – [iobj](sk_snk-dep-iobj.html) – [mark](sk_snk-dep-mark.html) – [nmod](sk_snk-dep-nmod.html) – [nsubj](sk_snk-dep-nsubj.html) – [nsubj:pass](sk_snk-dep-nsubj-pass.html) – [nummod](sk_snk-dep-nummod.html) – [obj](sk_snk-dep-obj.html) – [obl](sk_snk-dep-obl.html) – [obl:agent](sk_snk-dep-obl-agent.html) – [obl:arg](sk_snk-dep-obl-arg.html) – [orphan](sk_snk-dep-orphan.html) – [parataxis](sk_snk-dep-parataxis.html) – [punct](sk_snk-dep-punct.html) – [root](sk_snk-dep-root.html) – [vocative](sk_snk-dep-vocative.html) – [xcomp](sk_snk-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 10604 sentences and 106043 tokens.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 17859 tokens (17%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words that contain both letters and punctuation.</li>
+</ul>
+
+<ul>
 </ul>
 
 <h2>Morphology</h2>
@@ -117,6 +131,9 @@ vol. 68, no. 2, pp. 385-395
 
 <ul>
 <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
+</ul>
+
+<ul>
 <li>This corpus contains 146 word types tagged as particles (PART): Ako, Ano, Beztak, Bohužiaľ, Chvalabohu, Dobre, Ešteže, Fajn, Horkýže, Isteže, Kdeže, Kiež, Lenže, Lúčne, Mimochodom, Možnože, Namojdušu, Nanešťastie, Nech, Niežeby, Nijako, Nože, Nuž, Obzvlášť, Pomóóóc, Práveže, Reku, Skrátka, Snáď, Správne, Super, TUŠÍM, Takisto, Taktiež, Takže, Ticho, Tuším, Vcelku, Veruže, Vážne, a, aj, akiste, akoby, akurát, ale, ani, asi, aspoň, až, bezpochyby, celkom, div, dokonca, doslova, dosť, ešte, hlavne, hneď, hádam, i, iba, inak, iste, jedine, jednoducho, keď, koncov, konečne, len, možno, najmenej, najmä, nakoniec, naopak, naozaj, napodiv, napokon, napríklad, naviac, navyše, našťastie, nie, nič, no, náhodou, pekne, pochopiteľne, pomerne, poprípade, pravda, pravdaže, pravdepodobne, pravdpodobne, predovšetkým, predsa, presne, priam, približne, prinajmenšom, prirodzene, prosím, práve, radšej, respektíve, rozhodne, samozrejme, skoro, skôr, sotva, stále, síce, tak, takmer, takpovediac, tam, teda, tiež, to, totiž, toto, tu, určite, už, vari, veru, veď, vlastne, vonkoncom, vraj, vskutku, vôbec, výlučne, však, zasa, zase, zhruba, zo, zrejme, áno, údajne, čo, čoraz, Škoda, že, žiaľ</li>
 </ul>
 
@@ -140,25 +157,36 @@ vol. 68, no. 2, pp. 385-395
 </ul>
 
 <ul>
-<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Conv
   <ul>
     <li>VERB: cítiac, Hľadajúc, Nehovoriac, Zostupujúc, bežiac, kašlúc, kľajúc, lapajúc, ležiac, listujúc</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Fin
   <ul>
     <li>AUX: som, je, sme, sú, bude, si, ste, budú, nebude, budeme</li>
     <li>VERB: je, má, ide, môže, mám, musí, majú, musím, sú, chcem</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Inf
   <ul>
     <li>AUX: byť</li>
     <li>VERB: povedať, mať, ísť, podporovať, robiť, stať, venovať, pokračovať, hľadať, stáť</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>ADJ: nasledujúcich, nasledujúci, ozbrojených, sledovaných, zmätený, Zhlúpnutý, nájdené, otvorené, pripravená, pripravený</li>
@@ -167,12 +195,12 @@ vol. 68, no. 2, pp. 385-395
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
+
 <li><a>Gender</a>
+
   <ul>
     <li>Fem
       <ul>
@@ -188,6 +216,9 @@ vol. 68, no. 2, pp. 385-395
         <li>VERB-Part: povedala, mala, bola, odvetila, zvolala, spýtala, chcela, začala, nemala, pozrela</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>ADJ: celý, prvý, druhý, veľký, ďalší, nový, veľkého, jediný, prvým, nového</li>
@@ -204,6 +235,9 @@ vol. 68, no. 2, pp. 385-395
         <li>X: VB</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neut
       <ul>
         <li>ADJ: veľké, celé, ľudské, možné, ďalšie, známe, jasné, nové, prvé, malé</li>
@@ -218,9 +252,13 @@ vol. 68, no. 2, pp. 385-395
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Animacy</a>
+
   <ul>
     <li>Anim
       <ul>
@@ -236,6 +274,9 @@ vol. 68, no. 2, pp. 385-395
         <li>X: VB</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Inan
       <ul>
         <li>ADJ: celý, druhý, prvý, veľký, nový, ďalší, nového, veľkého, posledný, tretí</li>
@@ -252,9 +293,13 @@ vol. 68, no. 2, pp. 385-395
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Number</a>
+
   <ul>
     <li>Plur
       <ul>
@@ -272,6 +317,9 @@ vol. 68, no. 2, pp. 385-395
         <li>VERB-Part: mali, mohli, boli, prišli, začali, sedeli, dali, dostali, išli, chceli</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: celý, prvý, druhý, veľký, druhej, veľkého, nový, veľkej, prvá, slovenskej</li>
@@ -290,9 +338,13 @@ vol. 68, no. 2, pp. 385-395
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Acc
       <ul>
@@ -307,6 +359,9 @@ vol. 68, no. 2, pp. 385-395
         <li>PROPN: Chrisa, Maju, Winstona, Aladina, Mauglího, Vilka, Briena, Lori, Margu, Jazmínu</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dat
       <ul>
         <li>ADJ: vlastným, mladým, Doležalovej, Hádovej, Zlej, cirkevnej, ostatným, starej, sultánovej, ďalším</li>
@@ -319,6 +374,9 @@ vol. 68, no. 2, pp. 385-395
         <li>PROPN: Maji, Winstonovi, Chrisovi, Júlii, Bohu, Irme, Lori, Vilkovi, Balúovi, Ferdovi</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Gen
       <ul>
         <li>ADJ: verejných, veľkého, slovenskej, nového, cirkevného, európskej, veľkej, zahraničnej, celého, slovenského</li>
@@ -332,6 +390,9 @@ vol. 68, no. 2, pp. 385-395
         <li>PROPN: Uhorska, Ríma, Jána, Pavla, Zeme, Nemecka, Mesiaca, Paríža, Slovenska, Busha</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ins
       <ul>
         <li>ADJ: prvým, ďalším, veľkým, jediným, veľkými, ďalšou, hlavnou, najväčším, druhým, dôležitou</li>
@@ -344,6 +405,9 @@ vol. 68, no. 2, pp. 385-395
         <li>PROPN: Chrisom, Vilkom, Allenom, Euroáziou, Európou, Ginsbergom, Mesiacom, Rickom, Rudkom, Aladinom</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Loc
       <ul>
         <li>ADJ: druhej, prvom, poslednom, druhom, poslednej, celom, nasledujúcich, sledovaných, starej, veľkej</li>
@@ -356,6 +420,9 @@ vol. 68, no. 2, pp. 385-395
         <li>PROPN: Iraku, Novgorode, Slovensku, Európe, Mesiaci, Nemecku, Zemi, Jene, Prahe, Rusi</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Nom
       <ul>
         <li>ADJ: prvý, veľký, prvá, ďalšie, možné, veľká, známe, ďalší, celý, jediný</li>
@@ -369,6 +436,9 @@ vol. 68, no. 2, pp. 385-395
         <li>X: VB</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Voc
       <ul>
         <li>NOUN: mami, slečna, chlapče, ocko, Soľ, drahý, džin, pane, priatelia, priateľko</li>
@@ -376,13 +446,20 @@ vol. 68, no. 2, pp. 385-395
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
 
 
 
 <h3>Degree and Polarity</h3>
 
+
 <li><a>Degree</a>
+
   <ul>
     <li>Cmp
       <ul>
@@ -391,6 +468,9 @@ vol. 68, no. 2, pp. 385-395
         <li>ADV: viac, bližšie, dlhšie, menej, vyššie, silnejšie, neskôr, nižšie, ľahšie, dávnejšie</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>ADJ: celý, ďalšie, veľký, nové, veľkého, veľké, ďalší, nový, verejných, celé</li>
@@ -398,6 +478,9 @@ vol. 68, no. 2, pp. 385-395
         <li>ADV: veľmi, potom, opäť, teraz, už, stále, dnes, neskôr, dobre, napokon</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sup
       <ul>
         <li>ADJ: najväčším, najlepšie, najradšej, najväčšie, najvýznamnejších, najdôležitejšie, najlepšia, najlepší, najmenšie, najväčšou</li>
@@ -406,9 +489,13 @@ vol. 68, no. 2, pp. 385-395
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Polarity</a>
+
   <ul>
     <li>Neg
       <ul>
@@ -421,6 +508,9 @@ vol. 68, no. 2, pp. 385-395
         <li>VERB-Part: nemal, nemala, nemohla, nevidel, nevedel, nechcela, nepovedal, nestalo, nemohol, nevidela</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>ADJ-Part: nasledujúcich, nasledujúci, ozbrojených, sledovaných, zmätený, Zhlúpnutý, nájdené, otvorené, pripravená, pripravený</li>
@@ -435,12 +525,18 @@ vol. 68, no. 2, pp. 385-395
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Verbal Features</h3>
 
+
 <li><a>Aspect</a>
+
   <ul>
     <li>Imp
       <ul>
@@ -455,6 +551,9 @@ vol. 68, no. 2, pp. 385-395
         <li>VERB-Part: mal, mala, bol, bolo, bola, mali, chcel, vedel, chcela, mohol</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Imp,Perf
       <ul>
         <li>VERB-Fin: dá, daj, Počuješ, nedá, poznám, reaguje, realizuje, venuje, dám, nedajú</li>
@@ -462,6 +561,9 @@ vol. 68, no. 2, pp. 385-395
         <li>VERB-Part: dal, počul, dali, venoval, dala, stačilo, neodpovedal, odpovedala, poznal, poznala</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Perf
       <ul>
         <li>AUX-Part: stal</li>
@@ -472,9 +574,13 @@ vol. 68, no. 2, pp. 385-395
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Mood</a>
+
   <ul>
     <li>Cnd
       <ul>
@@ -483,12 +589,18 @@ vol. 68, no. 2, pp. 385-395
         <li>SCONJ: aby, keby, akoby</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Imp
       <ul>
         <li>AUX-Fin: buďte, Buďme, Nebuď</li>
         <li>VERB-Fin: pozri, poď, počkajte, počkaj, Prestaň, daj, nerob, pustite, čujte, Dotkni</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>AUX-Fin: som, je, sme, sú, bude, si, ste, budú, nebude, budeme</li>
@@ -496,9 +608,13 @@ vol. 68, no. 2, pp. 385-395
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Tense</a>
+
   <ul>
     <li>Fut
       <ul>
@@ -506,6 +622,9 @@ vol. 68, no. 2, pp. 385-395
         <li>VERB-Fin: bude, pôjdeme, nebudú, pôjdem, pôjde, Poletím, Poletíš, budem, budeš, budú</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Past
       <ul>
         <li>ADJ-Part: plávajú, Nestoja, Trúfa, tuhnú</li>
@@ -513,6 +632,9 @@ vol. 68, no. 2, pp. 385-395
         <li>VERB-Part: mal, povedal, povedala, mala, bol, bolo, bola, odvetil, spýtal, odvetila</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pres
       <ul>
         <li>AUX-Fin: som, je, sme, sú, si, ste, má, býva, majú, nebýva</li>
@@ -520,27 +642,40 @@ vol. 68, no. 2, pp. 385-395
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Voice</a>
+
   <ul>
     <li>Act
       <ul>
         <li>ADJ-Part: nasledujúcich, nasledujúci, nasledujúcej, týkajúcich, Lietajúca, krútiace, nasledujúcom, predchádzajúce, predsedajúci, provokujúce</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pass
       <ul>
         <li>ADJ-Part: ozbrojených, sledovaných, zmätený, Zhlúpnutý, nájdené, otvorené, pripravená, pripravený, uvedených, zatajeným</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Dem
       <ul>
@@ -548,11 +683,17 @@ vol. 68, no. 2, pp. 385-395
         <li>DET: to, ten, tom, toho, tomu, tejto, toto, tento, tohto, tieto</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Emp
       <ul>
         <li>DET: sám, sama, samé, sami, samo, samom, samej, samého, samých, samým</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>ADV: niekedy, niekde, kedysi, inak, niekoľkokrát, akosi, kdesi, inde, inokedy, nejako</li>
@@ -560,6 +701,9 @@ vol. 68, no. 2, pp. 385-395
         <li>PRON: niečo, niekto, čosi, ktosi, niečím, všeličo, čokoľvek, niekoho, niečoho, ktokoľvek</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Int,Rel
       <ul>
         <li>ADV: kde, ako, prečo, kam, kedy, odkiaľ, odkedy, Kamže, kadiaľ, kdeby</li>
@@ -567,6 +711,9 @@ vol. 68, no. 2, pp. 385-395
         <li>PRON: čo, kto, čím, čom, koho, Čože, čomu, komu, ktože, čoho</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neg
       <ul>
         <li>ADV: nikdy, nijako, nikam, nikde</li>
@@ -574,12 +721,18 @@ vol. 68, no. 2, pp. 385-395
         <li>PRON: nič, nikto, nik, nikoho, nikomu, ničoho, ničom, ničomu</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
         <li>DET: jeho, jej, ich, svoje, svojej, môj, svojho, svojich, svoju, moja</li>
         <li>PRON: sa, si, mi, ho, ma, mu, ju, ja, jej, ich</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Tot
       <ul>
         <li>ADV: vždy, všade, Všelijako</li>
@@ -588,30 +741,44 @@ vol. 68, no. 2, pp. 385-395
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>NumType</a>
+
   <ul>
     <li>Card
       <ul>
         <li>DET: niekoľko, niekoľkých, toľko, koľko, niekoľkými, niekolko</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Mult
       <ul>
         <li>ADJ: jediný, mnohých, jediného, jediným, jediné, mnohí, jediná, ostatní, dvojitý, dvojnásobné</li>
         <li>ADV: raz, prvýkrát, niekoľkokrát, neraz, dvakrát, Tisíckrát, dvojako, mnohokrát, ráz, stokrát</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ord
       <ul>
         <li>ADJ: prvý, druhý, druhej, prvé, prvá, prvom, prvým, prvej, druhá, tretí</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Poss</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -619,9 +786,13 @@ vol. 68, no. 2, pp. 385-395
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Reflex</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -630,9 +801,13 @@ vol. 68, no. 2, pp. 385-395
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Person</a>
+
   <ul>
     <li>1
       <ul>
@@ -642,6 +817,9 @@ vol. 68, no. 2, pp. 385-395
         <li>VERB-Fin: mám, musím, chcem, neviem, máme, ďakujem, som, viem, nemám, nemôžem</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>AUX-Fin: si, ste, budeš, budete, buďte, Nebudete, Nebuď, nebudeš</li>
@@ -650,6 +828,9 @@ vol. 68, no. 2, pp. 385-395
         <li>VERB-Fin: máš, chceš, si, pozri, máte, poď, musíš, nemôžeš, počkajte, chcete</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>AUX-Fin: je, sú, bude, budú, nebude, má, býva, majú, nebudú, nebýva</li>
@@ -659,40 +840,59 @@ vol. 68, no. 2, pp. 385-395
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Gender[psor]</a>
+
   <ul>
     <li>Fem
       <ul>
         <li>DET: jej</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc,Neut
       <ul>
         <li>DET: jeho, ich, jej</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Number[psor]</a>
+
   <ul>
     <li>Plur
       <ul>
         <li>DET: ich, naše, našej, náš, nášho, našu, vaše, našich, našom, naša</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>DET: jeho, jej, môj, moja, moje, môjho, mojich, mojej, moju, tvoj</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Other Features</h3>
+
 
 <li><a>Abbr</a>
   <ul>
@@ -703,6 +903,7 @@ vol. 68, no. 2, pp. 385-395
     </li>
   </ul>
 </li>
+
 <li><a>AdpType</a>
   <ul>
     <li>Prep
@@ -722,6 +923,7 @@ vol. 68, no. 2, pp. 385-395
     </li>
   </ul>
 </li>
+
 <li><a>Foreign</a>
   <ul>
     <li>Yes
@@ -731,6 +933,7 @@ vol. 68, no. 2, pp. 385-395
     </li>
   </ul>
 </li>
+
 <li><a>Hyph</a>
   <ul>
     <li>Yes
@@ -740,6 +943,7 @@ vol. 68, no. 2, pp. 385-395
     </li>
   </ul>
 </li>
+
 <li><a>NumForm</a>
   <ul>
     <li>Digit
@@ -749,6 +953,7 @@ vol. 68, no. 2, pp. 385-395
     </li>
   </ul>
 </li>
+
 <li><a>Typo</a>
   <ul>
     <li>Yes
@@ -779,6 +984,9 @@ vol. 68, no. 2, pp. 385-395
 
 <ul>
 <li>This corpus uses 7 lemmas as copulas (<a>cop</a>). Examples: byť, sa, bývať, sto, mať, si, stať.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 6 lemmas as auxiliaries (<a>aux</a>). Examples: byť, by, sa, si, sto, so.</li>
 <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: byť, bývať.</li>
 </ul>
@@ -895,6 +1103,9 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 
 <ul>
   <li>This corpus contains 58 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: povedať si, prečítať si, hľadieť si, napraviť si, nájsť si, obliekať sa, odkryť si, pošúchať si, upraviť si, veriť si, bičovať sa, brúsiť si, chytiť si, farbiť sa, hladkať si, hovoriť si, kefovať si, korunovať sa, naliať sebe, nastaviť si, obdivovať sa, objať si, objednávať si, obliecť si, obliekať si, obnažovať seba, obuť si, oprašovať si, ovplyvňovať sa, pomädliť si, povzbudzovať sa, poškrabať sa, presvedčiť seba, prikázať si, prinútiť sa, pripadať si, prisahať si, priznať si, strhnúť si, ubrániť sa, udrieť si, umývať sa, uvidieť sa, vravieť si, vydrhnúť si, vyhlasovať seba, vymaniť si, vynadať si, vytiahnuť si, vyzliecť sa</li>
+    <ul>
+      <li>Out of those, 1 lemmas occurred more than once, but never without a reflexive dependent. Examples: pošúchať</li>
+    </ul>
 </ul>
 
 <h3>Relations Overview</h3>

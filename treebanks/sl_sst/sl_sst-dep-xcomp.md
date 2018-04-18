@@ -8,73 +8,66 @@ udver: '2'
 
 This relation is universal.
 
-242 nodes (1%) are attached to their parents as `xcomp`.
+243 nodes (1%) are attached to their parents as `xcomp`.
 
-229 instances of `xcomp` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.12396694214876.
+229 instances of `xcomp` (94%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.11934156378601.
 
-The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (183; 76% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (40; 17% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (11; 5% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 9 xcomp	color:blue
-1	vi	ti	PRON	Pp2mpn	Case=Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	2	nsubj	_	word=vi|msd=Zodmmi
-2	p	_	X	Xt	_	6	reparandum	_	word=p|msd=Nt
-3	[gap]	[gap]	X	X	_	6	punct	_	word=[gap]|msd=N
-4	noben	noben	DET	Pz-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Neg	6	nsubj	_	word=noben|msd=Zl-mei
-5	jim	on	PRON	Pp3mpd--y	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Variant=Short	9	obj	_	word=jim|msd=Zotmmd--k
-6	noče	hoteti	VERB	Vmpr3s-y	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	word=noče|msd=Ggnste-d
-7	v	v	ADP	Sa	Case=Acc	8	case	_	word=v|msd=Dt
-8	obraz	obraz	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obl	_	word=obraz|msd=Sometn
-9	spustiti	spustiti	VERB	Vmen	Aspect=Perf|VerbForm=Inf	6	xcomp	_	word=spustit|msd=Ggdn
-
-~~~
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 10 11 xcomp	color:blue
-1	marinado	marinada	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	word=marinado|msd=Sozet
-2	sva	biti	AUX	Va-r1d-n	Mood=Ind|Number=Dual|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	aux	_	word=sva|msd=Gp-spd-n
-3	še	še	PART	Q	_	5	advmod	_	word=še|msd=L
-4	prej	prej	ADV	Rgc	Degree=Cmp	5	advmod	_	word=prej|msd=Rsr
-5	ohladila	ohladiti	VERB	Vmep-dm	Aspect=Perf|Gender=Masc|Number=Dual|VerbForm=Part	0	root	_	word=ohladila|msd=Ggdd-dm
-6	bog	bog	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	word=bog|msd=Somei
-7	ne	ne	PART	Q	Polarity=Neg	8	advmod	_	word=ne|msd=L
-8	daj	dati	VERB	Vmem2s	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	5	parataxis	_	word=dej|msd=Ggdvde
-9	da	da	SCONJ	Cs	_	10	mark	_	word=da|msd=Vd
-10	date	dati	VERB	Vmer2p	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	8	ccomp	_	word=date|msd=Ggdsdm
-11	toplo	topel	ADJ	Agpfsa	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	10	xcomp	_	word=toplo|msd=Ppnzet
-12	gor	gor	ADV	Rgp	Degree=Pos	10	advmod	_	word=gor|msd=Rsn
-
-~~~
+The following 7 pairs of parts of speech are connected with `xcomp`: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (183; 75% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (40; 16% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> (11; 5% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (3; 1% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> (3; 1% instances), <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt>-<tt><a href="sl_sst-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sl_sst-pos-ADJ.html">ADJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 4 xcomp	color:blue
+1	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	aux	_	word=je|msd=Gp-ste-n
+2	že	že	PART	Q	_	3	advmod	_	word=že|msd=L
+3	moglo	moči	VERB	Vmpp-sn	Aspect=Imp|Gender=Neut|Number=Sing|VerbForm=Part	0	root	_	word=mogl|msd=Ggnd-es
+4	biti	biti	VERB	Va-n	VerbForm=Inf	3	xcomp	_	word=bit|msd=Gp-n
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 8 4 xcomp	color:blue
-1	najbolj	najbolj	ADV	Rgs	Degree=Sup	2	advmod	_	word=najbolj|msd=Rss
-2	pozitiven	pozitiven	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	word=pozitivn|msd=Ppnmein
-3	tak	tak	DET	Pd-msn	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	word=tak|msd=Zk-mei
-4	del	del	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	8	xcomp	_	word=del|msd=Somei
-5	slovenije	Slovenija	PROPN	Npfsg	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	word=Slovenije|msd=Slzer
-6	se	se	PRON	Px------y	PronType=Prs|Variant=Short	8	expl	_	word=se|msd=Zp------k
-7	mi	jaz	PRON	Pp1-sd--y	Case=Dat|Number=Sing|Person=1|PronType=Prs|Variant=Short	8	obj	_	word=mi|msd=Zop-ed--k
-8	zdi	zdeti	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	word=zdi|msd=Ggnste
-9	morje	morje	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	8	parataxis	_	word=morje|msd=Sosei
-10	…	…	PUNCT	Z	_	8	punct	_	word=…|msd=U
-11	ja	ja	PART	Q	_	12	discourse	_	word=ja|msd=L
-12	širina	širina	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	8	parataxis	_	word=širina|msd=Sozei
+# visual-style 8 9 xcomp	color:blue
+1	ki	ki	SCONJ	Cs	_	3	mark	_	word=k|msd=Vd
+2	se	se	PRON	Px------y	PronType=Prs|Variant=Short	3	expl	_	word=se|msd=Zp------k
+3	začne	začeti	VERB	Vmer3s	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	word=začne|msd=Ggdste
+4	v	v	ADP	Sl	Case=Loc	6	case	_	word=v|msd=Dm
+5	gvinejskem	gvinejski	ADJ	Agpmsl	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	word=Gvinejskem|msd=Ppnmem
+6	zalivu	zaliv	NOUN	Ncmsl	Case=Loc|Gender=Masc|Number=Sing	3	obl	_	word=zalivu|msd=Somem
+7	se	se	PRON	Px------y	PronType=Prs|Variant=Short	8	expl	_	word=se|msd=Zp------k
+8	imenuje	imenovati	VERB	Vmbr3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	word=imenuje|msd=Ggvste
+9	zalivski	zalivski	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	8	xcomp	_	word=Zalivski|msd=Ppnmeid
+10	zalivski	zalivski	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	word=Zalivski|msd=Ppnmeid
+11	tok	tok	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	9	appos	_	word=tok|msd=Somei
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 xcomp	color:blue
+1	ravno	ravno	PART	Q	_	2	advmod	_	word=ravno|msd=L
+2	prav	prav	PART	Q	_	4	reparandum	_	word=prav|msd=L
+3	ravno	ravno	PART	Q	_	4	advmod	_	word=ravno|msd=L
+4	pravšnja	pravšnji	ADJ	Agpfsn	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	word=pravšnja|msd=Ppnzei
+5	eee	eee	INTJ	I	_	7	discourse:filler	_	word=eee|msd=M
+6	eee	eee	INTJ	I	_	7	discourse:filler	_	word=eee|msd=M
+7	moč	moč	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	8	xcomp	_	word=moč|msd=Sozei
+8	mora	morati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	word=mora|msd=Ggnste
+9	biti	biti	AUX	Va-n	VerbForm=Inf	7	cop	_	word=bit|msd=Gp-n
+10	a	a	ADV	Rgp	Degree=Pos	8	discourse	_	word=a|msd=Rsn
+11	ne	ne	PART	Q	_	10	fixed	_	word=ne|msd=L
 
 ~~~
 

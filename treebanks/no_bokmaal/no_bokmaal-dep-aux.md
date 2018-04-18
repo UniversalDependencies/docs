@@ -24,7 +24,7 @@ The following 9 pairs of parts of speech are connected with `aux`: <tt><a href="
 # visual-style 8	fgColor:white
 # visual-style 8 7 aux	color:blue
 1	Dette	dette	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	root	_	_
-2	uaktet	uaktet	ADP	_	_	8	mark	_	_
+2	uaktet	uaktet	SCONJ	_	_	8	mark	_	_
 3	at	at	SCONJ	_	_	8	mark	_	_
 4	også	også	ADV	_	_	5	advmod	_	_
 5	han	han	PRON	_	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_

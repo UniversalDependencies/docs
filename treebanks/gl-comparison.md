@@ -7,7 +7,7 @@ udver: '2'
 <table>
 <tr>
   <td width="50%" valign="top">
-<h1>UD_Galician</h1>
+<h1>UD_Galician-CTG</h1>
 
   </td>
   <td width="50%" valign="top">
@@ -1410,7 +1410,6 @@ udver: '2'
   <ul>
     <li>Prep
       <ul>
-        <li>ADJ: por</li>
         <li>ADP: de, en, a, por, con, para, sobre, entre, sen, desde</li>
       </ul>
     </li>

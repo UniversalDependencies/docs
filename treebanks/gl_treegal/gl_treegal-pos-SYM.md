@@ -9,9 +9,9 @@ udver: '2'
 There are 7 `SYM` lemmas (0%), 7 `SYM` types (0%) and 7 `SYM` tokens (0%).
 Out of 16 observed tags, the rank of `SYM` is: 13 in number of lemmas, 13 in number of types and 15 in number of tokens.
 
-The 10 most frequent `SYM` lemmas: <em>%, /, 687 614 874, manuelmaria@as-pg.com, podo, www.bng-galiza.org, www.novoestatuto.com</em>
+The 10 most frequent `SYM` lemmas: <em>%, /, 687 614 874, m​a​n​u​e​l​m​a​r​i​a​@​a​s​-​p​g​.​c​o​m, podo, www.bng-galiza.org, www.novoestatuto.com</em>
 
-The 10 most frequent `SYM` types:  <em>%, /, 687 614 874, manuelmaria@as-pg.com, podo, www.bng-galiza.org, www.novoestatuto.com</em>
+The 10 most frequent `SYM` types:  <em>%, /, 687 614 874, m​a​n​u​e​l​m​a​r​i​a​@​a​s​-​p​g​.​c​o​m, podo, www.bng-galiza.org, www.novoestatuto.com</em>
 
 The 10 most frequent ambiguous lemmas: <em>/</em> (<tt><a href="gl_treegal-pos-PUNCT.html">PUNCT</a></tt> 3, <tt><a href="gl_treegal-pos-SYM.html">SYM</a></tt> 1)
 
@@ -24,7 +24,7 @@ The 10 most frequent ambiguous types:  <em>/</em> (<tt><a href="gl_treegal-pos-P
 
 ## Morphology
 
-The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.370813).
+The form / lemma ratio of `SYM` is 1.000000 (the average of all parts of speech is 1.370902).
 
 The 1st highest number of forms (1) was observed with the lemma “%”: <em>%</em>.
 

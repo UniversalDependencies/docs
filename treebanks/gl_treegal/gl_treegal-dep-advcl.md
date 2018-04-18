@@ -19,34 +19,42 @@ The following 16 pairs of parts of speech are connected with `advcl`: <tt><a hre
 ~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 7 advcl	color:blue
-1	Como	como	ADV	Wr	PronType=Rel	2	advmod	_	_
-2	facía	facer	VERB	Vii30s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-3	Picasso	Picasso	PROPN	Sp00	_	2	nsubj	_	SpaceAfter=No
-4	,	,	PUNCT	Q,	_	2	punct	_	_
-5	aínda	aínda	ADV	Wn	_	7	mark	_	_
-6	que	que	SCONJ	Cs	_	5	fixed	_	_
-7	esaxeremos	esaxerar	VERB	Vps10p	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	SpaceAfter=No
-8	.	.	PUNCT	Q.	_	2	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 advcl	color:blue
+1	A	a	ADP	P	AdpType=Prep	3	case	_	_
+2	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
+3	veces	vez	NOUN	Scfp	Gender=Fem|Number=Plur	5	obl	_	_
+4	podemos	poder	AUX	Vpi10p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	escoller	escoller	VERB	V0f000	VerbForm=Inf	0	root	_	_
+6	para	para	ADP	P	AdpType=Prep	7	mark	_	_
+7	andar	andar	VERB	V0f000	VerbForm=Inf	5	advcl	_	_
+8	pés	pé	NOUN	Scmp	Gender=Masc|Number=Plur	5	obj	_	_
+9	latinos	latino	ADJ	A0mp	Gender=Masc|Number=Plur	8	amod	_	_
+10	ou	ou	CCONJ	Cc	_	11	cc	_	_
+11	gregos	grego	ADJ	A0mp	Gender=Masc|Number=Plur	9	conj	_	SpaceAfter=No
+12	:	:	PUNCT	Q:	_	7	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 advcl	color:blue
-1	Unha	un	DET	Difs	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	reforma	reforma	NOUN	Scfs	Gender=Fem|Number=Sing	0	root	_	_
-3	para	para	ADP	P	AdpType=Prep	4	mark	_	_
-4	discutir	discutir	VERB	V0f000	VerbForm=Inf	2	advcl	_	_
-5	con	con	ADP	P	AdpType=Prep	7	case	_	_
-6	os	o	DET	Ddmp	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
-7	socialistas	socialista	NOUN	Scmp	Gender=Masc|Number=Plur	4	obl	_	_
+# visual-style 4 7 advcl	color:blue
+1	Será	ser	AUX	Vfi30s	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	cop	_	_
+2	el	el	PRON	Rtn3ms	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+3	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	candidato	candidato	NOUN	Scms	Gender=Masc|Number=Sing	0	root	_	_
+5	socialista	socialista	ADJ	A0ms	Gender=Masc|Number=Sing	4	amod	_	_
+6	se	se	SCONJ	Cs	_	7	mark	_	_
+7	hai	haber	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+8	moción	moción	NOUN	Scfs	Gender=Fem|Number=Sing	7	obj	_	_
+9	de	de	ADP	P	AdpType=Prep	10	case	_	_
+10	censura	censura	NOUN	Scfs	Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
+11	?	?	PUNCT	Q?	_	4	punct	_	_
 
 ~~~
 

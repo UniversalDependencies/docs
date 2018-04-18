@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 
 The following people have contributed to making this treebank part of UD: Kaja Dobrovoljc, Joakim Nivre.
 
-Repository: [UD_Slovenian-SST](https://github.com/UniversalDependencies/UD_Slovenian-SST)
+Repository: [UD_Slovenian-SST](https://github.com/UniversalDependencies/UD_Slovenian-SST)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udsl_sst)
 
 License: CC BY-NC-SA 4.0
 
@@ -53,7 +54,7 @@ The spelling, tokenization and segmentation principles follow the transcription 
 The SST treebank includes manual annotations of lemmas, part-of-speech categories, morphological features and dependency relations in accordance with the Universal Dependencies annotation scheme. In addition to language-specific extensions, in line with the written Slovenian UD Treebank, the SST treebank also includes new speech-specific extensions to accommodate the structural and pragmatic particularities of spoken language syntax, such as disfluencies, fillers, parentheticals, general extenders etc. More information on the treebank construction and annotation is given in Dobrovoljc and Nivre (2016).
 
 
-The current version of the SST treebank includes 3,188 utterances (sentences) or 29,488 tokens, produced by 606 speakers in 287 different speech events. As opposed to SST treebank releases in previous (UDv1) releases, in which the treebank has been linearly split into training (80%), development (10%) and test (10%) sets, the utterances have been randomly shuffled to ensure equal genre distributions across the training (9,487 tokens), development (10,001 tokens) and testing (10,000) data subsets, which have been resized according to the CONLL-ST 2017 requirements.. The original order of the utterances can be restored by sentence IDs.
+The current version of the SST treebank includes 3,188 utterances (sentences) or 29,488 tokens, produced by 606 speakers in 287 different speech events. As opposed to previous releases with unequal genre distributions, sentence-level randomization and different train-dev-test splits (UDv1 to UDv2.1), the SST UDv2.2 data has been randomized on text-level and split into testing (10,015) and training (19,473) subsets, in accordance with the CONLL-ST 2018 requirements. The original order of the utterances can be restored by sentence IDs.
 
 ## Acknowledgments
 
@@ -78,11 +79,24 @@ Joakim Nivre (guidelines consulting)
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 3188 sentences and 29488 tokens.</li>
+</ul>
+
+<ul>
 <li>All tokens in this corpus are followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 13 types of words that contain both letters and punctuation. Examples: [gap], [name:personal], [pause], [speaker:laughter], [name:surname], [audience:laughter], [:voice], [all:laughter], [incident], [name:address], [name:organisation], [name:place], macdonald's</li>
+</ul>
+
+<ul>
 </ul>
 
 <h2>Morphology</h2>
@@ -92,6 +106,9 @@ Joakim Nivre (guidelines consulting)
 <ul>
 <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: SYM</li>
+</ul>
+
+<ul>
 <li>This corpus contains 46 word types tagged as particles (PART): alora, arki, baje, baš, bržkone, celo, da, domala, edino, evo, i, itak, ja, kajne, kajneda, le, ma, menda, morda, naj, najbrž, najsibo, ne, niti, no, pač, prav, pravzaprav, predvsem, ravno, samo, seveda, sicer, skoraj, skorajda, sploh, tipo, tudi, valjda, več, vsaj, zgolj, zlasti, še, šele, že</li>
 </ul>
 
@@ -115,25 +132,36 @@ Joakim Nivre (guidelines consulting)
 </ul>
 
 <ul>
-<li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Conv
   <ul>
     <li>ADV: rekoč</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Fin
   <ul>
     <li>AUX: je, so, sem, bi, bo, smo, ni, si, bomo, ste</li>
     <li>VERB: je, vem, veš, mislim, ni, recimo, ima, so, bo, pravi</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Inf
   <ul>
     <li>AUX: biti</li>
     <li>VERB: biti, narediti, reči, iti, videti, delati, imeti, priti, kupiti, pomagati</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>ADJ: vnet, preverjeno, znan, odprta, pozdravljeni, rečeno, imenovana, imenovani, narejeno, ostali</li>
@@ -141,18 +169,21 @@ Joakim Nivre (guidelines consulting)
     <li>VERB: bilo, bil, imela, rekel, imeli, šla, bila, imel, rekla, rekli</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Sup
   <ul>
     <li>VERB: delat, jest, ponavljat, žegnat, gledat, izpeljat, naročit, osvajat, peljat, preverjat</li>
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
+
 <li><a>Gender</a>
+
   <ul>
     <li>Fem
       <ul>
@@ -167,6 +198,9 @@ Joakim Nivre (guidelines consulting)
         <li>VERB-Part: imela, šla, bila, rekla, videla, dala, naredila, delala, izdala, mogla</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>ADJ: dober, prvi, drugi, lep, sam, stari, mali, sami, cel, pravi</li>
@@ -180,6 +214,9 @@ Joakim Nivre (guidelines consulting)
         <li>VERB-Part: bil, rekel, imeli, imel, rekli, šel, dobil, videl, videli, mogel</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neut
       <ul>
         <li>ADJ: dobro, glavnem, zanimivo, drugega, mogoče, drugo, hudega, jasno, podobno, pomembno</li>
@@ -194,9 +231,13 @@ Joakim Nivre (guidelines consulting)
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Animacy</a>
+
   <ul>
     <li>Anim
       <ul>
@@ -204,6 +245,9 @@ Joakim Nivre (guidelines consulting)
         <li>PROPN: arturja, boruca, giordanota, miklavža, petra, planinška, poljanška, sinclairja</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Inan
       <ul>
         <li>NOUN: dan, način, petek, denar, izraz, teden, primer, čas, konec, mesec</li>
@@ -211,9 +255,13 @@ Joakim Nivre (guidelines consulting)
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Number</a>
+
   <ul>
     <li>Dual
       <ul>
@@ -230,6 +278,9 @@ Joakim Nivre (guidelines consulting)
         <li>VERB-Part: šla, bila, prišla, imela, našla, brala, dobila, dogovarjala, dosegla, izmislila</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Plur
       <ul>
         <li>ADJ: sami, zadnjih, same, dobri, druge, drugih, ljudske, psihološki, tujih, bogatejši</li>
@@ -245,6 +296,9 @@ Joakim Nivre (guidelines consulting)
         <li>VERB-Part: imeli, rekli, videli, dali, dobili, šli, bili, delali, naredili, prišli</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: dobro, drugo, prvi, dober, drugi, zanimivo, druga, drugega, glavnem, lep</li>
@@ -261,9 +315,13 @@ Joakim Nivre (guidelines consulting)
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Acc
       <ul>
@@ -277,6 +335,9 @@ Joakim Nivre (guidelines consulting)
         <li>PROPN: paranoid, ameriko, rodik, triglav, albanijo, ano, arturja, avstralijo, beatlese, benetke</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dat
       <ul>
         <li>ADJ: drugemu, državni, javnim, krompirjevi, krompirjevim, levi, meteorološki, meteorološkim, neumnemu, novim</li>
@@ -288,6 +349,9 @@ Joakim Nivre (guidelines consulting)
         <li>PROPN: robertu, savianu, turnšku</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Gen
       <ul>
         <li>ADJ: drugega, drugih, hudega, novega, druge, slovenske, drobnih, finančnih, iraških, logarske</li>
@@ -300,6 +364,9 @@ Joakim Nivre (guidelines consulting)
         <li>PROPN: slovenije, pohorja, viktorije, iraka, mure, afrike, američanov, borna, camorre, celja</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ins
       <ul>
         <li>ADJ: drugo, tretjo, vremenskimi, kratkim, pravim, aktivnim, belo, bivšim, debelim, dobrimi</li>
@@ -312,6 +379,9 @@ Joakim Nivre (guidelines consulting)
         <li>PROPN: [name:personal], [name:surname], andersonom, avstrijo, bennyjem, bojanom, dimitrijem, dimom, istrabenzom, jezerskim</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Loc
       <ul>
         <li>ADJ: glavnem, zadnjih, drugi, prvi, spletni, laični, majhni, beli, bolniški, delovnih</li>
@@ -324,6 +394,9 @@ Joakim Nivre (guidelines consulting)
         <li>PROPN: sloveniji, božjah, iraku, evropi, jugoslaviji, gazi, ledinah, ljubljani, zrečah, aktualu</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Nom
       <ul>
         <li>ADJ: druga, lepa, rdeča, sam, stari, zanimivo, dober, mali, drugi, prvi</li>
@@ -336,10 +409,15 @@ Joakim Nivre (guidelines consulting)
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Definite</a>
+
   <ul>
     <li>Def
       <ul>
@@ -347,6 +425,9 @@ Joakim Nivre (guidelines consulting)
         <li>ADJ-Part: delujoči, imenovani, nariti, pozdravljeni, vladajoči</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>ADJ: dober, lep, sam, cel, velik, vnet, slab, znan, drug, moder</li>
@@ -354,11 +435,16 @@ Joakim Nivre (guidelines consulting)
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Degree and Polarity</h3>
 
+
 <li><a>Degree</a>
+
   <ul>
     <li>Cmp
       <ul>
@@ -366,6 +452,9 @@ Joakim Nivre (guidelines consulting)
         <li>ADV: bolj, prej, rajši, kasneje, večkrat, bolje, boljše, ceneje, dlje, konkretneje</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>ADJ: dobro, dober, zanimivo, glavnem, lep, lepa, mali, rdeča, sam, stari</li>
@@ -373,6 +462,9 @@ Joakim Nivre (guidelines consulting)
         <li>ADV: tako, zdaj, a, pol, kako, lahko, tam, kar, potem, res</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sup
       <ul>
         <li>ADJ: največja, največji, najbogatejši, najboljša, najboljše, najdebelejši, najlažje, najljubše, najnovejšo, največje</li>
@@ -380,9 +472,13 @@ Joakim Nivre (guidelines consulting)
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Polarity</a>
+
   <ul>
     <li>Neg
       <ul>
@@ -391,6 +487,9 @@ Joakim Nivre (guidelines consulting)
         <li>VERB-Fin: ni, nima, nimam, nisem, nimajo, niso, noče, nimamo, nimate, nimaš</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>AUX-Fin: je, so, sem, bo, smo, si, bomo, ste, bom, sta</li>
@@ -398,26 +497,38 @@ Joakim Nivre (guidelines consulting)
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Variant</a>
+
   <ul>
     <li>Bound
       <ul>
         <li>PRON: zanjo, vanj, zame, zanj, zase, zate</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Short
       <ul>
         <li>PRON: se, mi, ga, jih, si, ti, jo, me, jim, mu</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Verbal Features</h3>
 
+
 <li><a>Aspect</a>
+
   <ul>
     <li>Imp
       <ul>
@@ -428,6 +539,9 @@ Joakim Nivre (guidelines consulting)
         <li>VERB-Sup: delat, jest, ponavljat, gledat, osvajat, peljat, preverjat, sekirat, čakat, štet</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Perf
       <ul>
         <li>VERB-Fin: recimo, daj, da, pride, daš, povej, reče, poglejte, prideš, dobijo</li>
@@ -437,9 +551,13 @@ Joakim Nivre (guidelines consulting)
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Mood</a>
+
   <ul>
     <li>Cnd
       <ul>
@@ -447,12 +565,18 @@ Joakim Nivre (guidelines consulting)
         <li>VERB-Fin: bi</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Imp
       <ul>
         <li>AUX-Fin: bodite, bodi</li>
         <li>VERB-Fin: recimo, daj, glej, čakaj, povej, glejte, poglejte, gremo, dajmo, požri</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>AUX-Fin: je, so, sem, bo, smo, ni, si, bomo, ste, bom</li>
@@ -460,9 +584,13 @@ Joakim Nivre (guidelines consulting)
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Tense</a>
+
   <ul>
     <li>Fut
       <ul>
@@ -470,6 +598,9 @@ Joakim Nivre (guidelines consulting)
         <li>VERB-Fin: bo, bom, boš, bodo, bomo, bojo, bosta, bova</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pres
       <ul>
         <li>AUX-Fin: je, so, sem, smo, ni, si, ste, sta, nisem, nismo</li>
@@ -477,37 +608,56 @@ Joakim Nivre (guidelines consulting)
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
 
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Dem
       <ul>
         <li>DET: to, ta, tem, tega, te, tisto, teh, tisti, tole, take</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>DET: malo, nekaj, več, dosti, toliko, veliko, pol, manj, preveč, neko</li>
         <li>PRON: nekdo, nekoga, nekomu, marsikaj</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Int
       <ul>
         <li>DET: koliko, kakšen, kakšna, kakšne, kakšni, kateri, kako, kakšno, katere, katerih</li>
         <li>PRON: kaj, kdo, česa, koga, čim, komu, čem, čemu, što</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neg
       <ul>
         <li>DET: nič, noben, nobene, nobenega, nobena, nikakršne, ničesar, nobenem, nobenemu, nobeni</li>
         <li>PRON: nihče, nobeden</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
         <li>ADJ: sirovo, andrejevo, belvijevega, bertrandova, blaževi, bučkino, centrovi, dolinarjeva, gobovo, heglovem</li>
@@ -515,46 +665,69 @@ Joakim Nivre (guidelines consulting)
         <li>PRON: se, jaz, mi, ti, ga, jih, si, jo, nas, vi</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rel
       <ul>
         <li>DET: kakršnakoli, kakršne, kakršni, kateremkoli</li>
         <li>PRON: kar, karkoli, kdor, kdorkoli, čemer, česar</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Tot
       <ul>
         <li>DET: vse, vsi, vsak, vsako, vseh, vsa, obe, vsakega, vsakem, vsakemu</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>NumType</a>
+
   <ul>
     <li>Card
       <ul>
         <li>NUM: eno, dva, en, ena, tri, tisoč, dvajset, dve, pet, enega</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Mult
       <ul>
         <li>ADJ: dvojni, dvojno, trojni</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ord
       <ul>
         <li>ADJ: prvi, prvo, prva, tretjo, prvega, devetindvajseti, peta, tretja, tretji, trideseti</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sets
       <ul>
         <li>NUM: dvoje</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Poss</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -563,10 +736,15 @@ Joakim Nivre (guidelines consulting)
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Person</a>
+
   <ul>
     <li>1
       <ul>
@@ -576,6 +754,9 @@ Joakim Nivre (guidelines consulting)
         <li>VERB-Fin: vem, mislim, recimo, imamo, sem, imam, gremo, bom, moram, prosim</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>AUX-Fin: si, ste, boš, boste, nisi, bodite, niste, bodi</li>
@@ -584,6 +765,9 @@ Joakim Nivre (guidelines consulting)
         <li>VERB-Fin: veš, imaš, daj, imate, si, glej, čakaj, daš, greš, moraš</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>AUX-Fin: je, so, bo, ni, sta, bodo, niso, bosta, bojo, biti</li>
@@ -593,45 +777,67 @@ Joakim Nivre (guidelines consulting)
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Gender[psor]</a>
+
   <ul>
     <li>Fem
       <ul>
         <li>DET: njeni, njen, njene, njeno</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>DET: njegova, njegove, njegovo</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Number[psor]</a>
+
   <ul>
     <li>Dual
       <ul>
         <li>DET: najino</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Plur
       <ul>
         <li>DET: naša, naše, naš, naši, naših, našega, našo, vaš, vaša, vaše</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>DET: moja, moje, moj, mojega, tvoja, mojo, mojemu, njegova, njeni, tvoj</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Other Features</h3>
+
 
 <li><a>Foreign</a>
   <ul>
@@ -642,6 +848,7 @@ Joakim Nivre (guidelines consulting)
     </li>
   </ul>
 </li>
+
 <li><a>NumForm</a>
   <ul>
     <li>Word
@@ -658,6 +865,9 @@ Joakim Nivre (guidelines consulting)
 
 <ul>
 <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: biti, _.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: biti, _.</li>
 </ul>
 
@@ -671,7 +881,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Nom (263)</li>
       <li>VERB-Fin--NOUN-Nom-ADP(kakor) (1)</li>
       <li>VERB-Fin--PRON-Gen (4)</li>
-      <li>VERB-Fin--PRON-Nom (214)</li>
+      <li>VERB-Fin--PRON-Nom (215)</li>
       <li>VERB-Part--NOUN-Gen (15)</li>
       <li>VERB-Part--NOUN-Nom (100)</li>
       <li>VERB-Part--PRON-Gen (7)</li>
@@ -691,7 +901,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen-ADP(čez) (1)</li>
       <li>VERB-Fin--NOUN-Nom (4)</li>
       <li>VERB-Fin--PRON-Acc (155)</li>
-      <li>VERB-Fin--PRON-Dat (79)</li>
+      <li>VERB-Fin--PRON-Dat (76)</li>
       <li>VERB-Fin--PRON-Gen (17)</li>
       <li>VERB-Fin--PRON-Nom (1)</li>
       <li>VERB-Inf--NOUN-Acc (45)</li>
@@ -703,7 +913,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Part--NOUN-Acc (217)</li>
       <li>VERB-Part--NOUN-Acc-ADP(navkljub) (1)</li>
       <li>VERB-Part--NOUN-Gen (37)</li>
-      <li>VERB-Part--PRON-Acc (85)</li>
+      <li>VERB-Part--PRON-Acc (83)</li>
       <li>VERB-Part--PRON-Dat (35)</li>
       <li>VERB-Part--PRON-Gen (10)</li>
       <li>VERB-Sup--NOUN-Acc (7)</li>
@@ -716,13 +926,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN-Dat (3)</li>
       <li>VERB-Fin--PRON-Acc (1)</li>
-      <li>VERB-Fin--PRON-Dat (37)</li>
+      <li>VERB-Fin--PRON-Dat (39)</li>
       <li>VERB-Inf--NOUN-Acc (1)</li>
       <li>VERB-Inf--PRON-Acc (1)</li>
       <li>VERB-Inf--PRON-Dat (3)</li>
       <li>VERB-Part--NOUN-Acc (1)</li>
       <li>VERB-Part--NOUN-Dat (3)</li>
-      <li>VERB-Part--PRON-Acc (3)</li>
+      <li>VERB-Part--PRON-Acc (5)</li>
       <li>VERB-Part--PRON-Dat (35)</li>
     </ul>
   </li>

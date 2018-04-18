@@ -22,16 +22,16 @@ The following 32 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 1 advmod	color:blue
-1	Previously	previously	ADV	RB	_	7	advmod	_	_
-2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_
-3	jets	jet	NOUN	NNS	Number=Plur	7	nsubj:pass	_	_
-4	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	aux	_	_
-5	only	only	ADV	RB	_	7	advmod	_	_
-6	been	be	AUX	VBN	Tense=Past|VerbForm=Part	7	aux:pass	_	_
-7	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-8	by	by	ADP	IN	_	9	case	_	_
-9	bloggers	blogger	NOUN	NNS	Number=Plur	7	obl	_	SpaceAfter=No
-10	.	.	PUNCT	.	_	7	punct	_	_
+1	Previously	previously	ADV	RB	_	7	advmod	7:advmod	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+3	jets	jet	NOUN	NNS	Number=Plur	7	nsubj:pass	7:nsubj:pass	_
+4	had	have	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	aux	7:aux	_
+5	only	only	ADV	RB	_	7	advmod	7:advmod	_
+6	been	be	AUX	VBN	Tense=Past|VerbForm=Part	7	aux:pass	7:aux:pass	_
+7	seen	see	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+8	by	by	ADP	IN	_	9	case	9:case	_
+9	bloggers	blogger	NOUN	NNS	Number=Plur	7	obl	7:obl:by	SpaceAfter=No
+10	.	.	PUNCT	.	_	7	punct	7:punct	_
 
 ~~~
 
@@ -42,14 +42,14 @@ The following 32 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 1 advmod	color:blue
-1	Maybe	maybe	ADV	RB	_	7	advmod	_	_
-2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
-3	dress	dress	NOUN	NN	Number=Sing	4	compound	_	_
-4	code	code	NOUN	NN	Number=Sing	7	nsubj	_	_
-5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
-6	too	too	ADV	RB	_	7	advmod	_	_
-7	stuffy	stuffy	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No
-8	.	.	PUNCT	.	_	7	punct	_	_
+1	Maybe	maybe	ADV	RB	_	7	advmod	7:advmod	_
+2	the	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
+3	dress	dress	NOUN	NN	Number=Sing	4	compound	4:compound	_
+4	code	code	NOUN	NN	Number=Sing	7	nsubj	7:nsubj	_
+5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	7:cop	_
+6	too	too	ADV	RB	_	7	advmod	7:advmod	_
+7	stuffy	stuffy	ADJ	JJ	Degree=Pos	0	root	0:root	SpaceAfter=No
+8	.	.	PUNCT	.	_	7	punct	7:punct	_
 
 ~~~
 
@@ -60,14 +60,14 @@ The following 32 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 7 advmod	color:blue
-1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	SpaceAfter=No
-2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
-3	like	like	ADP	IN	_	6	case	_	_
-4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	_
-5	super	super	ADJ	JJ	Degree=Pos	6	amod	_	_
-6	power	power	NOUN	NN	Number=Sing	0	root	_	_
-7	sometimes	sometimes	ADV	RB	_	6	advmod	_	SpaceAfter=No
-8	.	.	PUNCT	.	_	6	punct	_	_
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj	SpaceAfter=No
+2	's	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	6:cop	_
+3	like	like	ADP	IN	_	6	case	6:case	_
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	6:det	_
+5	super	super	ADJ	JJ	Degree=Pos	6	amod	6:amod	_
+6	power	power	NOUN	NN	Number=Sing	0	root	0:root	_
+7	sometimes	sometimes	ADV	RB	_	6	advmod	6:advmod	SpaceAfter=No
+8	.	.	PUNCT	.	_	6	punct	6:punct	_
 
 ~~~
 

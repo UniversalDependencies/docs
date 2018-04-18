@@ -37,7 +37,7 @@ The most frequent other feature values with which `NOUN` and `Number` co-occurre
 
 4111 <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> tokens (100% of all `DET` tokens) have a non-empty value of `Number`.
 
-The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="gl_treegal-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3452; 84%), <tt><a href="gl_treegal-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2989; 73%), <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2175; 53%).
+The most frequent other feature values with which `DET` and `Number` co-occurred: <tt><a href="gl_treegal-feat-PronType.html">PronType</a></tt><tt>=Art</tt> (3452; 84%), <tt><a href="gl_treegal-feat-Definite.html">Definite</a></tt><tt>=Def</tt> (2988; 73%), <tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (2175; 53%).
 
 `DET` tokens may have the following values of `Number`:
 
@@ -50,6 +50,7 @@ The most frequent other feature values with which `DET` and `Number` co-occurred
   <tr><td><tt><tt><a href="gl_treegal-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td><em>o, lo, os</em></td><td><em>os, los</em></td></tr>
   <tr><td><tt><tt><a href="gl_treegal-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>a, la</em></td><td><em>as, las</em></td></tr>
   <tr><td><tt><tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="gl_treegal-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>os</em></td></tr>
+  <tr><td><tt><tt><a href="gl_treegal-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td><em>a</em></td><td></td></tr>
 </table>
 
 ### `ADJ`
@@ -62,7 +63,7 @@ The most frequent other feature values with which `ADJ` and `Number` co-occurred
 
 * `Plur` (433; 26% of non-empty `Number`): <em>galegos, diferentes, distintos, maiores, últimos, autonómicas, grandes, económicos, internacionais, novos</em>
 * `Sing` (1264; 74% of non-empty `Number`): <em>galega, novo, galego, español, mellor, política, social, xeral, actual, difícil</em>
-* `EMPTY` (23): <em>Mellor, galega, obstante, Artístico, Barataria, Franca, Profesional, Reservada, Tradicional, best</em>
+* `EMPTY` (22): <em>Mellor, galega, obstante, Artístico, Barataria, Franca, Profesional, Reservada, Tradicional, best</em>
 
 <table>
   <tr><th>Paradigm <i>galego</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>

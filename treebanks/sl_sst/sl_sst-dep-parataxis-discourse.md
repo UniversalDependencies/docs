@@ -18,64 +18,62 @@ The following 12 pairs of parts of speech are connected with `parataxis:discours
 
 
 ~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 11 parataxis:discourse	color:blue
-1	tu	tu	ADV	Rgp	Degree=Pos	0	root	_	word=tu|msd=Rsn
-2	[gap]	[gap]	X	X	_	1	punct	_	word=[gap]|msd=N
-3	ko	ko	SCONJ	Cs	_	4	mark	_	word=ko|msd=Vd
-4	greš	iti	VERB	Vmbr2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	parataxis	_	word=greš|msd=Ggvsde
-5	v	v	ADP	Sa	Case=Acc	6	case	_	word=v|msd=Dt
-6	šolo	šola	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	word=šolo|msd=Sozet
-7	pa	pa	CCONJ	Cc	_	10	cc	_	word=pa|msd=Vp
-8	si	biti	AUX	Va-r2s-n	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	cop	_	word=si|msd=Gp-sde-n
-9	prvič	prvič	ADV	Rgp	Degree=Pos	10	advmod	_	word=prvič|msd=Rsn
-10	ocenjen	ocenjen	ADJ	Appmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing|VerbForm=Part	4	conj	_	word=ocenjen|msd=Pdnmein
-11	recimo	reči	VERB	Vmem1p	Aspect=Perf|Mood=Imp|Number=Plur|Person=1|VerbForm=Fin	4	parataxis:discourse	_	word=recimo|msd=Ggdvpm
-12	a	a	ADV	Rgp	Degree=Pos	4	discourse	_	word=a|msd=Rsn
-13	ne	ne	PART	Q	_	12	fixed	_	word=ne|msd=L
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 parataxis:discourse	color:blue
+1	tudi	tudi	PART	Q	_	7	advmod	_	word=tut|msd=L
+2	ko	ko	SCONJ	Cs	_	7	mark	_	word=ku|msd=Vd
+3	pri	pri	ADP	Sl	Case=Loc	5	case	_	word=par|msd=Dm
+4	štirje	štirje	NUM	Mlcmpn	Case=Nom|Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	5	nummod	_	word=Štirje|msd=Kbgmmi
+5	revni	reven	ADJ	Agpmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	7	obl	_	word=revni|msd=Ppnmmi
+6	veš	vedeti	VERB	Vmpr2s	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	parataxis:discourse	_	word=vajš|msd=Ggnsde
+7	špila	špilati	VERB	Vmpr3s	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	word=špejla|msd=Ggnste
+8	na	na	ADP	Sa	Case=Acc	9	case	_	word=na|msd=Dt
+9	glavnik	glavnik	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	7	obl	_	word=glavnejk|msd=Sometn
+10	pa	pa	CCONJ	Cc	_	11	cc	_	word=pa|msd=Vp
+11	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	7	conj:extend	_	word=tav|msd=Zk-sei
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 parataxis:discourse	color:blue
-1	recimo	reči	VERB	Vmem1p	Aspect=Perf|Mood=Imp|Number=Plur|Person=1|VerbForm=Fin	3	parataxis:discourse	_	word=recimo|msd=Ggdvpm
-2	eee	eee	INTJ	I	_	3	discourse:filler	_	word=eee|msd=M
-3	čevlje	čevelj	NOUN	Ncmpa	Case=Acc|Gender=Masc|Number=Plur	0	root	_	word=čevle|msd=Sommt
-4	nogavice	nogavica	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	3	conj	_	word=nogavice|msd=Sozmt
-5	ali	ali	CCONJ	Cc	_	7	cc	_	word=ali|msd=Vp
-6	pa	pa	CCONJ	Cc	_	5	fixed	_	word=pa|msd=Vp
-7	kravato	kravata	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	3	conj	_	word=kravato|msd=Sozet
-8	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	word=jz|msd=Zop-ei
-9	sem	biti	VERB	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	parataxis	_	word=sem|msd=Gp-spe-n
-10	rec	_	X	Xt	_	9	reparandum	_	word=rec|msd=Nt
-11	[gap]	[gap]	X	X	_	3	punct	_	word=[gap]|msd=N
-
-~~~
-
-
-~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 9	bgColor:blue
 # visual-style 9	fgColor:white
+# visual-style 9 7 parataxis:discourse	color:blue
+1	ja	ja	PART	Q	_	4	discourse	_	word=ja|msd=L
+2	ja	ja	PART	Q	_	4	discourse	_	word=ja|msd=L
+3	ja	ja	PART	Q	_	4	discourse	_	word=ja|msd=L
+4	kaj	kaj	PRON	Pq-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Int	0	root	_	word=kej|msd=Zv-sei
+5	pa	pa	CCONJ	Cc	_	4	advmod	_	word=pa|msd=Vp
+6	…	…	PUNCT	Z	_	4	punct	_	word=…|msd=U
+7	mislim	misliti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	parataxis:discourse	_	word=misim|msd=Ggnspe
+8	brez	brez	ADP	Sg	Case=Gen	9	case	_	word=brez|msd=Dr
+9	veze	veza	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	4	parataxis	_	word=veze|msd=Sozer
+10	saj	saj	CCONJ	Cc	_	9	discourse	_	word=sej|msd=Vp
+11	saj	saj	CCONJ	Cc	_	9	discourse	_	word=sej|msd=Vp
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 9 parataxis:discourse	color:blue
-1	glih	glih	ADV	Rgp	Degree=Pos	2	advmod	_	word=lih|msd=Rsn
-2	tako	tako	ADV	Rgp	Degree=Pos	5	advmod	_	word=takue|msd=Rsn
-3	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	aux	_	word=je|msd=Gp-ste-n
-4	bilo	biti	AUX	Va-p-sn	Gender=Neut|Number=Sing|VerbForm=Part	5	cop	_	word=blo|msd=Gp-d-es
-5	lepo	lep	ADJ	Agpnsn	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	word=lepu|msd=Ppnsei
-6	lahko	lahko	ADV	Rgp	Degree=Pos	7	advmod	_	word=lohko|msd=Rsn
-7	je	biti	VERB	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	parataxis	_	word=je|msd=Gp-ste-n
-8	majica	majica	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	word=majca|msd=Sozei
-9	glej	gledati	VERB	Vmpm2s	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	5	parataxis:discourse	_	word=lej|msd=Ggnvde
+# visual-style 5 2 parataxis:discourse	color:blue
+1	eee	eee	INTJ	I	_	5	discourse:filler	_	word=eee|msd=M
+2	poglejte	pogledati	VERB	Vmem2p	Aspect=Perf|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	5	parataxis:discourse	_	word=poglejte|msd=Ggdvdm
+3	zaposleni	zaposlen	ADJ	Appmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part	5	nsubj	_	word=zaposleni|msd=Pdnmmi
+4	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	cop	_	word=so|msd=Gp-stm-n
+5	zaskrbljeni	zaskrbljen	ADJ	Appmpn	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	word=zaskrbljeni|msd=Pdnmmi
+6	za	za	ADP	Sa	Case=Acc	9	case	_	word=za|msd=Dt
+7	svoja	svoj	DET	Px-npa	Case=Acc|Gender=Neut|Number=Plur|PronType=Prs	9	det	_	word=svoja|msd=Zp-smt
+8	delovna	deloven	ADJ	Agpnpa	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	9	amod	_	word=delovna|msd=Ppnsmt
+9	mesta	mesto	NOUN	Ncnpa	Case=Acc|Gender=Neut|Number=Plur	5	obl	_	word=mesta|msd=Sosmt
 
 ~~~
 

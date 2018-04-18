@@ -27,7 +27,7 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 3	på	på	ADP	_	_	4	case	_	_
 4	vei	vei	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	0	root	_	_
 5	til	til	ADP	_	_	8	case	_	_
-6	sin	sin	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	nmod	_	_
+6	sin	sin	PRON	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	8	nmod	_	_
 7	neste	neste	DET	_	Definite=Def|PronType=Dem	8	det	_	_
 8	gjerning	gjerning	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	4	nmod	_	SpaceAfter=No
 9	.	$.	PUNCT	_	_	4	punct	_	_
@@ -63,7 +63,7 @@ The following 11 pairs of parts of speech are connected with `det`: <tt><a href=
 # visual-style 5	fgColor:white
 # visual-style 5 6 det	color:blue
 1	Dette	dette	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	0	root	_	_
-2	uaktet	uaktet	ADP	_	_	8	mark	_	_
+2	uaktet	uaktet	SCONJ	_	_	8	mark	_	_
 3	at	at	SCONJ	_	_	8	mark	_	_
 4	også	også	ADV	_	_	5	advmod	_	_
 5	han	han	PRON	_	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_

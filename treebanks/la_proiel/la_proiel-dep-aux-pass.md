@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="la_proiel-dep-aux.html">aux</a></tt>.
 
-1613 nodes (1%) are attached to their parents as `aux:pass`.
+1777 nodes (1%) are attached to their parents as `aux:pass`.
 
-1358 instances of `aux:pass` (84%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.14135151890887.
+1485 instances of `aux:pass` (84%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.1541924592009.
 
-The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (1606; 100% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (7; 0% instances).
+The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (1769; 100% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (8; 0% instances).
 
 
 ~~~ conllu

@@ -17,41 +17,32 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 13 12 nummod	color:blue
-1	ja	ja	INTJ	_	_	3	discourse	_	_
-2	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-3	slutta	slutte	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-4	jo	jo	ADV	_	_	3	advmod	_	_
-5	da	da	SCONJ	_	_	7	mark	_	_
-6	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
-7	blei	bli	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	11	reparandum	_	_
-8	#	#	PUNCT	_	_	7	punct	_	_
-9	da	da	SCONJ	_	_	11	mark	_	_
-10	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
-11	blei	bli	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	3	ccomp	_	_
-12	sytti	sytti	NUM	_	Number=Plur|NumType=Card	13	nummod	_	_
-13	år	år	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	11	xcomp	_	_
-14	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	10	appos	_	_
-15	veit	vite	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	11	parataxis	_	_
-16	du	du	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=2|PronType=Prs	15	nsubj	_	_
-17	.	$.	PUNCT	_	_	3	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 nummod	color:blue
+1	med	med	ADP	_	_	3	case	_	_
+2	to	to	NUM	_	Number=Plur|NumType=Card	3	nummod	_	_
+3	bilar	bil	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	0	root	_	_
+4	.	$.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 nummod	color:blue
-1	fjorten	fjorten	NUM	_	Number=Plur|NumType=Card	2	nummod	_	_
-2	tusen	tusen	NUM	_	Number=Plur|NumType=Card	0	root	_	_
-3	?	$?	PUNCT	_	_	2	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 nummod	color:blue
+1	trur	tru	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	er	vere	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	reparandum	_	_
+3	var	vere	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	5	cop	_	_
+4	tre	tre	NUM	_	Number=Plur|NumType=Card	5	nummod	_	_
+5	tusen	tusen	NUM	_	Number=Plur|NumType=Card	1	xcomp	_	_
+6	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	5	parataxis	_	_
+7	.	$.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 
@@ -63,7 +54,7 @@ The following 6 pairs of parts of speech are connected with `nummod`: <tt><a hre
 # visual-style 10	fgColor:white
 # visual-style 10 9 nummod	color:blue
 1	svigerbroren	svigerbror	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	4	nsubj	_	_
-2	min	min	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	1	nmod	_	_
+2	min	min	PRON	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs	1	nmod	_	_
 3	var	vere	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	4	cop	_	_
 4	med	med	ADP	_	_	0	root	_	_
 5	og	og	CCONJ	_	_	6	reparandum	_	_

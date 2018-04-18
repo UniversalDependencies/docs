@@ -16,7 +16,7 @@ The feature is used with 5 part-of-speech tags: <tt><a href="no_nynorsk-pos-PRON
 
 ### `PRON`
 
-9301 <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> tokens (44% of all `PRON` tokens) have a non-empty value of `Case`.
+9301 <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> tokens (41% of all `PRON` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="no_nynorsk-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (9301; 100%), <tt><a href="no_nynorsk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (7014; 75%), <tt><a href="no_nynorsk-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (5850; 63%), <tt><a href="no_nynorsk-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5444; 59%).
 
@@ -24,7 +24,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 
 * `Acc` (2252; 24% of non-empty `Case`): <em>seg, dei, oss, meg, han, henne, deg, ho, dykk, kån</em>
 * `Nom` (7049; 76% of non-empty `Case`): <em>han, eg, dei, vi, ho, me, du, de, man, ha</em>
-* `EMPTY` (11940): <em>det, som, ein, dette, kva, noko, alt, den, alle, nokon</em>
+* `EMPTY` (13490): <em>det, som, ein, dette, kva, noko, sin, sine, sitt, si</em>
 
 <table>
   <tr><th>Paradigm <i>dei</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
@@ -75,7 +75,7 @@ The most frequent other feature values with which `DET` and `Case` co-occurred: 
 `DET` tokens may have the following values of `Case`:
 
 * `Gen` (5; 100% of non-empty `Case`): <em>andres, dens, dets</em>
-* `EMPTY` (16551): <em>ein, den, eit, dei, ei, det, andre, alle, denne, sin</em>
+* `EMPTY` (15001): <em>ein, den, eit, dei, ei, det, andre, alle, denne, anna</em>
 
 ## Relations with Agreement in `Case`
 

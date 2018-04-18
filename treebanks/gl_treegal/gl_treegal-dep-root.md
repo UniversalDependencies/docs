@@ -17,16 +17,40 @@ The following 9 pairs of parts of speech are connected with `root`: -<tt><a href
 
 
 ~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 0	bgColor:blue
+# visual-style 0	fgColor:white
+# visual-style 0 7 root	color:blue
+1	O	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	Foro	foro	PROPN	Spms	Gender=Masc|Number=Sing	7	nsubj	_	_
+3	para	para	ADP	P	AdpType=Prep	6	case	_	_
+4	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+5	Novo	novo	ADJ	A0ms	Gender=Masc|Number=Sing	6	amod	_	_
+6	Estatuto	estatuto	NOUN	Scms	Gender=Masc|Number=Sing	2	nmod	_	_
+7	recolle	recoller	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	dereito	dereito	NOUN	Scms	Gender=Masc|Number=Sing	7	obj	_	_
+10	a	a	ADP	P	AdpType=Prep	12	case	_	_
+11	a	o	DET	Ddfs	Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	autodeterminación	autodeterminación	NOUN	Scfs	Gender=Fem|Number=Sing	9	nmod	_	_
+
+~~~
+
+
+~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 1 root	color:blue
-1	Europeizar	europeizar	VERB	V0f000	VerbForm=Inf	0	root	_	_
-2	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	horario	horario	NOUN	Scms	Gender=Masc|Number=Sing	1	obj	_	_
-4	de	de	ADP	P	AdpType=Prep	5	case	_	_
-5	traballo	traballo	NOUN	Scms	Gender=Masc|Number=Sing	3	nmod	_	_
+1	Intervención	intervención	NOUN	Scfs	Gender=Fem|Number=Sing	0	root	_	_
+2	de	de	ADP	P	AdpType=Prep	3	case	_	_
+3	Xosé	xosé	PROPN	Spm0	Gender=Masc	1	nmod	_	_
+4	Luís	luís	PROPN	Spm0	Gender=Masc	3	flat:name	_	_
+5	Barreiro	barreiro	PROPN	Spm0	Gender=Masc	3	flat:name	_	_
+6	Rivas	rivas	PROPN	Spm0	Gender=Masc	3	flat:name	_	SpaceAfter=No
+7	.	.	PUNCT	Q.	_	1	punct	_	_
 
 ~~~
 
@@ -37,38 +61,17 @@ The following 9 pairs of parts of speech are connected with `root`: -<tt><a href
 # visual-style 0	bgColor:blue
 # visual-style 0	fgColor:white
 # visual-style 0 10 root	color:blue
-1	"	"	PUNCT	Q"	_	10	punct	_	SpaceAfter=No
-2	A	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-3	cultura	cultura	NOUN	Scfs	Gender=Fem|Number=Sing	10	nsubj	_	_
-4	subsidiada	subsidiado	ADJ	A0fs	Gender=Fem|Number=Sing	3	amod	_	_
-5	_	_	PUNCT	Q_	_	6	punct	_	SpaceAfter=No
-6	di	dicir	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	parataxis	_	SpaceAfter=No
-7	_	_	PUNCT	Q_	_	6	punct	_	_
-8	non	non	ADV	Wn	Polarity=Neg	10	advmod	_	_
+1	As	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
+2	rúas	rúa	NOUN	Scfp	Gender=Fem|Number=Plur	5	nsubj	_	_
+3	son	ser	AUX	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
+4	máis	máis	ADV	Wm	_	5	advmod	_	_
+5	acolledoras	acolledor	ADJ	A0fp	Gender=Fem|Number=Plur	10	ccomp	_	_
+6	para	para	ADP	P	AdpType=Prep	7	mark	_	_
+7	pasear	pasear	VERB	V0f000	VerbForm=Inf	5	advcl	_	SpaceAfter=No
+8	,	,	PUNCT	Q,	_	5	punct	_	_
 9	é	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
-10	cultura	cultura	NOUN	Scfs	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
-11	"	"	PUNCT	Q"	_	10	punct	_	SpaceAfter=No
-12	.	.	PUNCT	Q.	_	10	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 0	bgColor:blue
-# visual-style 0	fgColor:white
-# visual-style 0 5 root	color:blue
-1	A	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	administración	administración	NOUN	Scfs	Gender=Fem|Number=Sing	5	nsubj	_	_
-3	é	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-4	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	única	único	ADJ	A0fs	Gender=Fem|Number=Sing	0	root	_	_
-6	que	que	PRON	Tnfs	Gender=Fem|Number=Sing|PronType=Rel	8	nsubj	_	_
-7	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	8	expl	_	_
-8	libra	librar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl	_	SpaceAfter=No
-9	"	"	PUNCT	Q"	_	5	punct	_	SpaceAfter=No
-10	.	.	PUNCT	Q.	_	5	punct	_	_
+10	certo	certo	ADJ	A0ms	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+11	;	;	PUNCT	Q;	_	10	punct	_	_
 
 ~~~
 

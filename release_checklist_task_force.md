@@ -10,12 +10,71 @@ This checklist describes the steps needed in order to release a new version of t
 It is meant for the maintenance task force rather than individual treebank teams.
 See [here](release_checklist.html) for the checklist for data contributors.
 
+## Partial checklist for the shared task treebanks in UD 2.2 (April 2018)
+
+* Freeze the list of treebanks that will be used in the shared task. There are two sources from
+  which the list can be derived: the online validation report, and output of `tools/check_files.pl`.
+  Save the list as `shared_task_treebanks.txt`.
 * Make sure that you have local clones of all UD_* repositories that should be released.
   This step cannot be automated (unless you write a script that queries Github about all repositories belonging to the UniversalDependencies organization).
 * Make sure you have the most current content of all the repositories (note that this command assumes you have not modified your local copy of the data without pushing it back; if this is the case, you will see lists of modified files in the output and you will have to resolve it). Also make sure that you are working with the `dev` branch:<br />
   <code>for i in UD_* ; do echo $i ; cd $i ; git checkout dev ; git pull --no-edit ; cd .. ; echo ; done</code>
-* Make sure that all CoNLL-U files are formally valid (results of the validator are [available on-line](validation.html) but make sure that no repository is missing there).<br />
-  <code>for i in UD_* ; do cd $i ; if [ -f *-test.conllu ] ; then for j in *.conllu ; do x=$(echo $j | perl -pe 'chomp; s/-ud.*//') ; if ../tools/validate.py --lang $x $j &gt;&amp; /dev/null ; then echo $j valid ; else echo $j INVALID ==================== ; fi ; done ; fi ; cd .. ; done</code>
+* Make sure that all CoNLL-U files are formally valid
+  (results of the validator are [available on-line](http://quest.ms.mff.cuni.cz/cgi-bin/zeman/unidep/validation-report.pl)
+  but make sure that no repository is missing there).<br />
+  <code>for i in $(cat shared_task_treebanks.txt) ; do cd $i ; if [ -f *-test.conllu ] ; then for j in *.conllu ; do x=$(echo $j | perl -pe 'chomp; s/_.*//') ; if ../tools/validate.py --lang $x $j &gt;&amp; /dev/null ; then echo $j valid ; else echo $j INVALID ==================== ; fi ; done ; fi ; cd .. ; done</code>
+* Make sure that there are not significant overlaps between training and dev/test files of treebanks of one language.<br />
+  <code>check_overlaps.pl $(cat shared_task_treebanks.txt) |& tee overlap.log</code>
+* Run `tools/check_files.pl |& tee release-2.2st-report.txt | less`.
+  (Its source code was temporarily modified to contain the list of shared task treebanks and only look at these!)
+  It will visit all UD_* repositories and report any missing files, unexpected or unexpectedly named files.
+  It will also collect information such as the list of contributors (we need this metadata for Lindat).
+* Update statistics in the `stats.xml` file in each repository:<br />
+  <code>for i in $(cat shared_task_treebanks.txt) ; do echo $i ; cd $i ; ( cat *.conllu | ../tools/conllu-stats.pl > stats.xml ) ; git add stats.xml ; git commit -m 'Updated statistics.' ; git push ; cd .. ; echo ; done</code>
+* Merge the `dev` branch into `master` in the shared task repositories.
+  The `master` branch should not be touched the next seven months and it should have exactly the contents that was officially
+  released and used in the shared task.<br />
+  <code>for i in $(cat shared_task_treebanks.txt) ; do echo $i ; cd $i ; git checkout master ; git pull --no-edit ; git merge dev --no-edit ; git push ; git checkout dev ; cd .. ; echo ; done</code>
+* Check for conflicts from the previous step. If people misbehaved and pushed commits to `master`, even after a revert automatic merging may no longer be possible. We must resolve all conflicts manually before going on! The conflicted repositories are still switched to the `master` branch and git will not allow any further operations with them!<br />
+  <code>for i in $(cat shared_task_treebanks.txt) ; do echo $i ; cd $i ; if ( git status | grep conflict ) ; then echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX CONFLICT XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX ; sleep 2 ; else echo OK ; fi ; cd .. ; echo ; done</code>
+  * <code>cd UD_...(the-one-with-conflict) ; git status</code> will show what files have a problem. Let's assume that only `README.txt` has a problem. This is how we replace it with the version from the `dev` branch and conclude the merge:<br />
+    <code>git checkout --theirs README.txt ; git add README.txt ; git commit -m 'Merge branch dev' ; git push ; git checkout dev ; cd ..</code>
+* After resolving the conflicts do not forget to checkout the `dev` branch again! (If there were no conflicts, we are already back in `dev`.)<br />
+  <code>for i in $(cat shared_task_treebanks.txt) ; do echo $i ; cd $i ; git checkout dev ; cd .. ; echo ; done</code>
+* Re-evaluate the treebanks for the star ranking on the website. This is done only in the master branch and the result is stored there.<br />
+  <code>for i in $(cat shared_task_treebanks.txt) ; do echo $i ; cd $i ; git checkout master ; cd .. ; perl -I tools tools/evaluate_treebank.pl $i --verbose &gt;&amp; $i/eval.log ; cd $i ; git add eval.log ; git commit -m 'Updated treebank evaluation.' ; git push ; git checkout dev ; cd .. ; done</code>
+* Run the script that refreshes the title page of Universal Dependencies (list of languages, treebanks and their properties).<br />
+  <code>cd docs-automation ; make all<br />(and git commit ; git push)</code>
+* Tag the current commit in all repositories with the tag of the current release (`git tag r2.2` for UD 2.2).
+  Do not push the tag to Github now; wait for the full release in July.
+  <br />
+  <code>for i in $(cat shared_task_treebanks.txt) ; do echo $i ; cd $i ; git tag r2.2 ; cd .. ; echo ; done</code>
+* Run the script <tt>tools/package_ud_release.sh</tt>, which must find the release number in the environment,
+  and its arguments are names of folders to be released.<br />
+  <code>RELEASE=2.2 tools/package_ud_release.sh $(cat shared_task_treebanks.txt)</code>
+* Tell Anša Vernerová that she can start importing the data to Kontext (ideally the announcement about the release would include links to PML-TQ, Kontext and SETS).
+
+* Run the same script again (but with different settings) and generate the long statistics that are displayed in the docs:<br />
+  <code>cd docs ; git pull --no-edit ; cd .. ; for i in $(cat shared_task_treebanks.txt) ; do echo $i ; tools/conllu-stats.pl --oformat newdetailed --treebank $i --docs docs ; echo ; done ; cd docs ; git add treebanks/*/*.md ; git commit -m 'Updated statistics.' ; git push ; cd ..</code>
+* Generate side-by-side comparison whenever there are multiple treebanks of one language:<br />
+  <code>perl tools/generate_comparison_of_treebanks.pl ; cd docs ; git add treebanks/*-comparison.md ; git commit -m 'Updated comparison of treebanks.' ; git push ; cd ..</code>
+
+Až to bude v masteru:
+* Upload data to TIRA.
+* Announce it to the shared task participants.
+
+## Full checklist
+
+* Make sure that you have local clones of all UD_* repositories that should be released.
+  This step cannot be automated (unless you write a script that queries Github about all repositories belonging to the UniversalDependencies organization).
+* Make sure you have the most current content of all the repositories (note that this command assumes you have not modified your local copy of the data without pushing it back; if this is the case, you will see lists of modified files in the output and you will have to resolve it). Also make sure that you are working with the `dev` branch:<br />
+  <code>for i in UD_* ; do echo $i ; cd $i ; git checkout dev ; git pull --no-edit ; cd .. ; echo ; done</code>
+* Make sure that all CoNLL-U files are formally valid
+  (results of the validator are [available on-line](http://quest.ms.mff.cuni.cz/cgi-bin/zeman/unidep/validation-report.pl)
+  but make sure that no repository is missing there).<br />
+  <code>for i in UD_* ; do cd $i ; if [ -f *-test.conllu ] ; then for j in *.conllu ; do x=$(echo $j | perl -pe 'chomp; s/_.*//') ; if ../tools/validate.py --lang $x $j &gt;&amp; /dev/null ; then echo $j valid ; else echo $j INVALID ==================== ; fi ; done ; fi ; cd .. ; done</code>
+* Make sure that there are not significant overlaps between training and dev/test files of treebanks of one language.<br />
+  <code>check_overlaps.pl $(cat shared_task_treebanks.txt) |& tee overlap.log</code>
 * Run `tools/check_files.pl |& tee release-2.1-report.txt | less`.
   It will visit all UD_* repositories and report any missing files, unexpected or unexpectedly named files.
   It will also collect information such as the list of contributors (we need this metadata for Lindat).
@@ -29,18 +88,20 @@ See [here](release_checklist.html) for the checklist for data contributors.
   <code>perl tools/generate_comparison_of_treebanks.pl ; cd docs ; git add treebanks/*-comparison.md ; git commit -m 'Updated comparison of treebanks.' ; git push ; cd ..</code>
 * Run two other scripts that generate the lists of language-specific features and dependency relation subtypes for the docs repository. Note that the first script does not directly rewrite the page in the docs repository, we must redirect its STDOUT there. The second script, <code>survey_deprel_subtypes.pl</code>, accesses directly <code>docs/ext-dep-index.md</code>. Also note: these two scripts currently collect labels from all treebanks in their sight. However, we probably want to list only the labels found in the data to be released! The first script now has the option <code>--datapath</code>, which can be used to redirect the script to a copy of the UD folder where only approved treebank versions are visible. Once the two files are updated, we must commit and push them to Github of course.<br />
   <code>perl tools/survey_features.pl > docs/ext-feat-index.md ; perl tools/survey_deprel_subtypes.pl ; cd docs ; ...</code>
-* Run the script that refreshes the title page of Universal Dependencies (list of languages, treebanks and their properties).
 * Merge the `dev` branch into `master` in every UD_* repository.
   The `master` branch should not be touched the next six months and it should have exactly the contents that was officially
   released. In fact, the individual data providers should never commit anything to the `master` branch, only to `dev` branch.
   (But we currently do not have means to enforce it. If someone commits to `master`, we will have to remove the commits from the history manually, using `git revert`.)<br />
-  <code>for i in UD_* ; do echo $i ; cd $i ; git checkout master ; git pull --no-edit ; git merge dev ; git push ; git checkout dev ; cd .. ; echo ; done</code>
+  <code>for i in UD_* ; do echo $i ; cd $i ; git checkout master ; git pull --no-edit ; git merge dev --no-edit ; git push ; git checkout dev ; cd .. ; echo ; done</code>
 * Check for conflicts from the previous step. If people misbehaved and pushed commits to `master`, even after a revert automatic merging may no longer be possible. We must resolve all conflicts manually before going on! The conflicted repositories are still switched to the `master` branch and git will not allow any further operations with them!<br />
   <code>for i in UD_* ; do echo $i ; cd $i ; if ( git status | grep conflict ) ; then echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX CONFLICT XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX ; sleep 2 ; else echo OK ; fi ; cd .. ; echo ; done</code>
   * <code>cd UD_...(the-one-with-conflict) ; git status</code> will show what files have a problem. Let's assume that only `README.txt` has a problem. This is how we replace it with the version from the `dev` branch and conclude the merge:<br />
     <code>git checkout --theirs README.txt ; git add README.txt ; git commit -m 'Merge branch dev' ; git push ; git checkout dev ; cd ..</code>
 * After resolving the conflicts do not forget to checkout the `dev` branch again! (If there were no conflicts, we are already back in `dev`.)<br />
   <code>for i in UD_* ; do echo $i ; cd $i ; git checkout dev ; cd .. ; echo ; done</code>
+* Re-evaluate the treebanks for the star ranking on the website. This is done only in the master branch and the result is stored there.<br />
+  <code>for i in UD_* ; do echo $i ; cd $i ; git checkout master ; cd .. ; perl -I tools tools/evaluate_treebank.pl $i --verbose &gt;&amp; $i/eval.log ; cd $i ; git add eval.log ; git commit -m 'Updated treebank evaluation.' ; git push ; git checkout dev ; cd .. ; done</code>
+* Run the script that refreshes the title page of Universal Dependencies (list of languages, treebanks and their properties).
 * Tell Anša Vernerová that she can start importing the data to Kontext (ideally the announcement about the release would include links to PML-TQ, Kontext and SETS).
 * The following steps are now performed by the script <tt>tools/package_ud_release.sh</tt>, which must find the release number in the environment, and its arguments are names of folders to be released (copy the list from the output of <tt>check_files.pl</tt>).<br />
 <code>RELEASE=2.1 tools/package_ud_release.sh UD_Afrikaans UD_Ancient_Greek UD_Ancient_Greek-PROIEL UD_Arabic UD_Arabic-NYUAD UD_Arabic-PUD UD_Basque UD_Belarusian UD_Bulgarian UD_Buryat UD_Cantonese UD_Catalan UD_Chinese UD_Chinese-CFL UD_Chinese-HK UD_Chinese-PUD UD_Coptic UD_Croatian UD_Czech UD_Czech-CAC UD_Czech-CLTT UD_Czech-FicTree UD_Czech-PUD UD_Danish UD_Dutch UD_Dutch-LassySmall UD_English UD_English-LinES UD_English-PUD UD_English-ParTUT UD_Estonian UD_Finnish UD_Finnish-FTB UD_Finnish-PUD UD_French UD_French-FTB UD_French-PUD UD_French-ParTUT UD_French-Sequoia UD_Galician UD_Galician-TreeGal UD_German UD_German-PUD UD_Gothic UD_Greek UD_Hebrew UD_Hindi UD_Hindi-PUD UD_Hungarian UD_Indonesian UD_Irish UD_Italian UD_Italian-PUD UD_Italian-ParTUT UD_Italian-PoSTWITA UD_Japanese UD_Japanese-PUD UD_Kazakh UD_Korean UD_Kurmanji UD_Latin UD_Latin-ITTB UD_Latin-PROIEL UD_Latvian UD_Lithuanian UD_Marathi UD_North_Sami UD_Norwegian-Bokmaal UD_Norwegian-Nynorsk UD_Norwegian-NynorskLIA UD_Old_Church_Slavonic UD_Persian UD_Polish UD_Portuguese UD_Portuguese-BR UD_Portuguese-PUD UD_Romanian UD_Romanian-Nonstandard UD_Russian UD_Russian-PUD UD_Russian-SynTagRus UD_Sanskrit UD_Serbian UD_Slovak UD_Slovenian UD_Slovenian-SST UD_Spanish UD_Spanish-AnCora UD_Spanish-PUD UD_Swedish UD_Swedish-LinES UD_Swedish-PUD UD_Swedish_Sign_Language UD_Tamil UD_Telugu UD_Turkish UD_Turkish-PUD UD_Ukrainian UD_Upper_Sorbian UD_Urdu UD_Uyghur UD_Vietnamese</code>

@@ -43,7 +43,7 @@ The following 12 pairs of parts of speech are connected with `expl`: <tt><a href
 1	Risikofritt	risikofri	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
 2	er	være	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	1	cop	_	_
 3	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	1	expl	_	_
-4	ikke	ikke	ADV	_	Polarity=Neg	1	advmod	_	SpaceAfter=No
+4	ikke	ikke	PART	_	Polarity=Neg	1	advmod	_	SpaceAfter=No
 5	.	$.	PUNCT	_	_	1	punct	_	_
 
 ~~~
@@ -64,7 +64,7 @@ The following 12 pairs of parts of speech are connected with `expl`: <tt><a href
 7	politiske	politisk	ADJ	_	Definite=Def|Degree=Pos|Number=Sing	8	amod	_	_
 8	kjøttvekt	kjøttvekt	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	0	root	_	_
 9	som	som	PRON	_	PronType=Rel	10	nsubj	_	_
-10	slår	slå	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+10	slår	slå	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	8	acl:cleft	_	_
 11	ut	ut	ADP	_	_	10	compound:prt	_	SpaceAfter=No
 12	.	$.	PUNCT	_	_	8	punct	_	_
 

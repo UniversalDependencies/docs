@@ -19,33 +19,33 @@ The 10 most frequent ambiguous types:  <em>in</em> (<tt><a href="sl_sst-pos-CCON
 
 
 * <em>in</em>
-  * <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 414: <em><b>in</b> spodaj so vsi komentini malo istrijani malo po hrvaško</em>
+  * <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 414: <em><b>in</b> to so mešali kar eno olje pa ene take č [gap] stare barve</em>
   * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 1: <em>eee poleg one ta glavne … poleg one ki je ki je bila najbolj <b>in</b></em>
   * <tt><a href="sl_sst-pos-X.html">X</a></tt> 1: <em>aaa spreminja pa se vsebina operacije nato training mission <b>in</b> irak</em>
 * <em>ali</em>
-  * <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 113: <em>recimo eee čevlje nogavice <b>ali</b> pa kravato jaz sem rec [gap]</em>
+  * <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 113: <em>a res <b>ali</b> kaj ?</em>
   * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 12: <em>torej paul david hewson … si ugibal <b>ali</b> veš kdo je to ?</em>
 * <em>tako</em>
-  * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 233: <em>na vrhu je <b>tako</b> kot si rekla en šef lahko sta tudi dva</em>
-  * <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 51: <em><b>tako</b> da pazi</em>
+  * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 233: <em>in <b>tako</b> so oni nekako izvabili ven resnico oziroma odkrili laž</em>
+  * <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 51: <em><b>tako</b> da mogoče je to celo zanimivo ne</em>
   * <tt><a href="sl_sst-pos-DET.html">DET</a></tt> 11: <em>o <b>tako</b> obleko bi jaz imela</em>
 * <em>torej</em>
   * <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 28: <em><b>torej</b> bomo naslednji teden doživeli stotko ?</em>
-  * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 11: <em>vode kaj <b>torej</b> tiste puščice pomenijo ?</em>
+  * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 11: <em>na potezi je <b>torej</b> država</em>
 * <em>sicer</em>
-  * <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 15: <em>in <b>sicer</b> prav tako v sredo doma</em>
-  * <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 14: <em>dobro jutro bom rekel <b>sicer</b> je že ma [gap] še malo zgodaj za zjutraj</em>
+  * <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 15: <em>no seveda pa je tu tudi drugi problem ne in <b>sicer</b> problem za moške</em>
+  * <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 14: <em>a to <b>sicer</b> eee ni praksa drugače drugod po sloveniji ?</em>
 * <em>zato</em>
-  * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 20: <em><b>zato</b> ker mestni avtobusi imajo zelo slab izkoristek</em>
-  * <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 6: <em>eee <b>zato</b> pa za st [gap] strokovne besedila je pa osem evrov</em>
+  * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 20: <em><b>zato</b> ker ni džabest ali pa ni mobi</em>
+  * <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 6: <em><b>zato</b> poznamo ion ena plus ion dva plus in ion tri plus</em>
 * <em>a</em>
-  * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 137: <em>tu [gap] ko greš v šolo pa si prvič ocenjen recimo <b>a</b> ne</em>
-  * <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 16: <em><b>a</b> da</em>
+  * <tt><a href="sl_sst-pos-ADV.html">ADV</a></tt> 137: <em><b>a</b> res ali kaj ?</em>
+  * <tt><a href="sl_sst-pos-INTJ.html">INTJ</a></tt> 16: <em><b>a</b></em>
   * <tt><a href="sl_sst-pos-NOUN.html">NOUN</a></tt> 6: <em>da je to [gap] mislim <b>a</b></em>
   * <tt><a href="sl_sst-pos-X.html">X</a></tt> 4: <em><b>a</b> [gap] ampak jaz se ga spomnim kot profesorja ki sebe daje</em>
   * <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 3: <em><b>a</b> jaz ja takvida</em>
 * <em>ne</em>
-  * <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 787: <em>samo barva <b>ne</b></em>
+  * <tt><a href="sl_sst-pos-PART.html">PART</a></tt> 787: <em>verjetno je tudi v teh ugotovitvah naše poslušalke kar precej soli <b>ne</b></em>
   * <tt><a href="sl_sst-pos-CCONJ.html">CCONJ</a></tt> 2: <em>no pri eee prispevku pri registraciji bi [gap] za sto evrov in gotovo pa pa ne bi bilo <b>ne</b> vinjet pa <b>ne</b> kontrole na cesti pa razmetavanja za take neumnosti</em>
 * <em>razen</em>
   * <tt><a href="sl_sst-pos-ADP.html">ADP</a></tt> 1: <em>[:voice] samo od uze [gap] izobraževanja samo še to da zdaj je pa marec sredina marca in mislim da moram da <b>razen</b> datumov za junijsko izobraževanje nimamo nič drugega še in da je zdaj pač čas da eem pač dorečemo kaj bomo in kako bomo a ne</em>

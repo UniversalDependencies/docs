@@ -17,38 +17,46 @@ The following 20 pairs of parts of speech are connected with `dislocated`: <tt><
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 7 dislocated	color:blue
-1	ma	ma	PART	Q	_	6	discourse	_	word=ma|msd=L
-2	tlele	tule	ADV	Rgp	Degree=Pos	6	advmod	_	word=tlele|msd=Rsn
-3	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	aux	_	word=sem|msd=Gp-spe-n
-4	tole	tale	DET	Pd-fsa	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	word=tole|msd=Zk-zet
-5	slamo	slama	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	word=slamo|msd=Sozet
-6	postavil	postaviti	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	word=postavu|msd=Ggdd-em
-7	balo	bala	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	6	dislocated	_	word=balo|msd=Sozet
-8	tlele	tule	ADV	Rgp	Degree=Pos	10	advmod	_	word=tlele|msd=Rsn
-9	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	10	aux	_	word=sem|msd=Gp-spe-n
-10	premaknil	premakniti	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	6	parataxis	_	word=premeknu|msd=Ggdd-em
+# visual-style 6 3 dislocated	color:blue
+1	eee	eee	INTJ	I	_	6	discourse:filler	_	word=eee|msd=M
+2	do	do	ADP	Sg	Case=Gen	3	case	_	word=do|msd=Dr
+3	petka	petek	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	6	dislocated	_	word=petka|msd=Somer
+4	boš	biti	AUX	Va-f2s-n	Mood=Ind|Number=Sing|Person=2|Polarity=Pos|Tense=Fut|VerbForm=Fin	6	aux	_	word=boš|msd=Gp-pde-n
+5	lahko	lahko	ADV	Rgp	Degree=Pos	6	advmod	_	word=lahko|msd=Rsn
+6	prebral	prebrati	VERB	Vmep-sm	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	word=prebral|msd=Ggdd-em
+7	do	do	ADP	Sg	Case=Gen	8	case	_	word=do|msd=Dr
+8	petka	petek	NOUN	Ncmsg	Case=Gen|Gender=Masc|Number=Sing	6	obl	_	word=petka|msd=Somer
+9	vsaj	vsaj	PART	Q	_	6	advmod	_	word=vsaj|msd=L
+10	?	?	PUNCT	Z	_	6	punct	_	word=?|msd=U
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 7 dislocated	color:blue
-1	[all:laughter]	[all:laughter]	X	X	_	4	punct	_	word=[all:laughter]|msd=N
-2	vse	ves	DET	Pg-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	4	obj	_	word=vse|msd=Zc-set
-3	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	word=je|msd=Gp-ste-n
-4	imel	imeti	VERB	Vmpp-sm	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	word=mel|msd=Ggnd-em
-5	v	v	ADP	Sl	Case=Loc	6	case	_	word=v|msd=Dm
-6	glavnem	glaven	ADJ	Agpnsl	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	4	obl	_	word=glavnem|msd=Ppnsem
-7	vse	ves	DET	Pg-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	4	dislocated	_	word=vse|msd=Zc-set
+# visual-style 7 3 dislocated	color:blue
+1	res	res	ADV	Rgp	Degree=Pos	7	discourse	_	word=res|msd=Rsn
+2	no	no	PART	Q	_	7	discourse	_	word=no|msd=L
+3	vse	ves	DET	Pg-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	7	dislocated	_	word=vse|msd=Zc-sei
+4	vse	ves	DET	Pg-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	3	conj	_	word=vse|msd=Zc-sei
+5	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	word=jz|msd=Zop-ei
+6	ne	ne	PART	Q	Polarity=Neg	7	advmod	_	word=ne|msd=L
+7	vem	vedeti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	word=vem|msd=Ggnspe
+8	česa	kaj	PRON	Pq-nsg	Case=Gen|Gender=Neut|Number=Sing|PronType=Int	11	obj	_	word=česa|msd=Zv-ser
+9	vse	ves	DET	Pg-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	8	nmod	_	word=vse|msd=Zc-sei
+10	ni	biti	AUX	Va-r3s-y	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	11	aux	_	word=ni|msd=Gp-ste-d
+11	imel	imeti	VERB	Vmpp-sm	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	7	ccomp	_	word=mel|msd=Ggnd-em
+12	…	…	PUNCT	Z	_	7	punct	_	word=…|msd=U
+13	ja	ja	PART	Q	_	7	discourse	_	word=ja|msd=L
+14	ja	ja	PART	Q	_	7	discourse	_	word=ja|msd=L
+15	ja	ja	PART	Q	_	7	discourse	_	word=ja|msd=L
 
 ~~~
 

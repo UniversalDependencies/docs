@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Chinese'
+title:  'UD_Chinese-GSD'
 udver: '2'
 ---
 
@@ -9,7 +9,7 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Chinese
+# UD Chinese GSD
 
 Language: [Chinese](../zh/overview/zh-hub.html) (code: `zh`)<br/>
 Family: Sino-Tibetan
@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v1.3 release.
 
 The following people have contributed to making this treebank part of UD: Mo Shen, Ryan McDonald, Daniel Zeman.
 
-Repository: [UD_Chinese](https://github.com/UniversalDependencies/UD_Chinese)
+Repository: [UD_Chinese-GSD](https://github.com/UniversalDependencies/UD_Chinese-GSD)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_gsd)
 
 License: CC BY-NC-SA 4.0
 
@@ -26,7 +27,7 @@ Genre: wiki
 
 Questions, comments?
 General annotation questions (either Chinese-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Chinese/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Chinese-GSD/issues).
 If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&nbsp;mff&nbsp;•&nbsp;cuni&nbsp;•&nbsp;cz].
 The UD version of this treebank currently does not have a maintainer.
 If you know the language and want to help, please consider adopting the treebank.
@@ -48,27 +49,40 @@ Google.
 
 ## Acknowledgments
 
-# Statistics of UD Chinese
+# Statistics of UD Chinese GSD
 
 ## POS Tags
 
-[ADJ](zh-pos-ADJ.html) – [ADP](zh-pos-ADP.html) – [ADV](zh-pos-ADV.html) – [AUX](zh-pos-AUX.html) – [CCONJ](zh-pos-CCONJ.html) – [DET](zh-pos-DET.html) – [NOUN](zh-pos-NOUN.html) – [NUM](zh-pos-NUM.html) – [PART](zh-pos-PART.html) – [PRON](zh-pos-PRON.html) – [PROPN](zh-pos-PROPN.html) – [PUNCT](zh-pos-PUNCT.html) – [SYM](zh-pos-SYM.html) – [VERB](zh-pos-VERB.html) – [X](zh-pos-X.html)
+[ADJ](zh_gsd-pos-ADJ.html) – [ADP](zh_gsd-pos-ADP.html) – [ADV](zh_gsd-pos-ADV.html) – [AUX](zh_gsd-pos-AUX.html) – [CCONJ](zh_gsd-pos-CCONJ.html) – [DET](zh_gsd-pos-DET.html) – [NOUN](zh_gsd-pos-NOUN.html) – [NUM](zh_gsd-pos-NUM.html) – [PART](zh_gsd-pos-PART.html) – [PRON](zh_gsd-pos-PRON.html) – [PROPN](zh_gsd-pos-PROPN.html) – [PUNCT](zh_gsd-pos-PUNCT.html) – [SYM](zh_gsd-pos-SYM.html) – [VERB](zh_gsd-pos-VERB.html) – [X](zh_gsd-pos-X.html)
 
 ## Features
 
-[Aspect](zh-feat-Aspect.html) – [Case](zh-feat-Case.html) – [Mood](zh-feat-Mood.html) – [Number](zh-feat-Number.html) – [NumType](zh-feat-NumType.html) – [Person](zh-feat-Person.html) – [Polarity](zh-feat-Polarity.html) – [Voice](zh-feat-Voice.html)
+[Aspect](zh_gsd-feat-Aspect.html) – [Case](zh_gsd-feat-Case.html) – [Mood](zh_gsd-feat-Mood.html) – [Number](zh_gsd-feat-Number.html) – [NumType](zh_gsd-feat-NumType.html) – [Person](zh_gsd-feat-Person.html) – [Polarity](zh_gsd-feat-Polarity.html) – [Voice](zh_gsd-feat-Voice.html)
 
 ## Relations
 
-[acl](zh-dep-acl.html) – [acl:relcl](zh-dep-acl-relcl.html) – [advcl](zh-dep-advcl.html) – [advmod](zh-dep-advmod.html) – [amod](zh-dep-amod.html) – [appos](zh-dep-appos.html) – [aux](zh-dep-aux.html) – [aux:caus](zh-dep-aux-caus.html) – [aux:pass](zh-dep-aux-pass.html) – [case](zh-dep-case.html) – [case:aspect](zh-dep-case-aspect.html) – [case:dec](zh-dep-case-dec.html) – [case:pref](zh-dep-case-pref.html) – [case:suff](zh-dep-case-suff.html) – [cc](zh-dep-cc.html) – [ccomp](zh-dep-ccomp.html) – [clf](zh-dep-clf.html) – [conj](zh-dep-conj.html) – [cop](zh-dep-cop.html) – [csubj](zh-dep-csubj.html) – [csubj:pass](zh-dep-csubj-pass.html) – [dep](zh-dep-dep.html) – [det](zh-dep-det.html) – [discourse](zh-dep-discourse.html) – [dislocated](zh-dep-dislocated.html) – [flat:foreign](zh-dep-flat-foreign.html) – [iobj](zh-dep-iobj.html) – [mark](zh-dep-mark.html) – [mark:advb](zh-dep-mark-advb.html) – [mark:comp](zh-dep-mark-comp.html) – [mark:relcl](zh-dep-mark-relcl.html) – [nmod](zh-dep-nmod.html) – [nmod:tmod](zh-dep-nmod-tmod.html) – [nsubj](zh-dep-nsubj.html) – [nsubj:pass](zh-dep-nsubj-pass.html) – [nummod](zh-dep-nummod.html) – [obj](zh-dep-obj.html) – [obl](zh-dep-obl.html) – [orphan](zh-dep-orphan.html) – [punct](zh-dep-punct.html) – [root](zh-dep-root.html) – [vocative](zh-dep-vocative.html) – [xcomp](zh-dep-xcomp.html)
+[acl](zh_gsd-dep-acl.html) – [acl:relcl](zh_gsd-dep-acl-relcl.html) – [advcl](zh_gsd-dep-advcl.html) – [advmod](zh_gsd-dep-advmod.html) – [amod](zh_gsd-dep-amod.html) – [appos](zh_gsd-dep-appos.html) – [aux](zh_gsd-dep-aux.html) – [aux:caus](zh_gsd-dep-aux-caus.html) – [aux:pass](zh_gsd-dep-aux-pass.html) – [case](zh_gsd-dep-case.html) – [case:aspect](zh_gsd-dep-case-aspect.html) – [case:dec](zh_gsd-dep-case-dec.html) – [case:pref](zh_gsd-dep-case-pref.html) – [case:suff](zh_gsd-dep-case-suff.html) – [cc](zh_gsd-dep-cc.html) – [ccomp](zh_gsd-dep-ccomp.html) – [clf](zh_gsd-dep-clf.html) – [conj](zh_gsd-dep-conj.html) – [cop](zh_gsd-dep-cop.html) – [csubj](zh_gsd-dep-csubj.html) – [csubj:pass](zh_gsd-dep-csubj-pass.html) – [dep](zh_gsd-dep-dep.html) – [det](zh_gsd-dep-det.html) – [discourse](zh_gsd-dep-discourse.html) – [dislocated](zh_gsd-dep-dislocated.html) – [flat:foreign](zh_gsd-dep-flat-foreign.html) – [iobj](zh_gsd-dep-iobj.html) – [mark](zh_gsd-dep-mark.html) – [mark:advb](zh_gsd-dep-mark-advb.html) – [mark:comp](zh_gsd-dep-mark-comp.html) – [mark:relcl](zh_gsd-dep-mark-relcl.html) – [nmod](zh_gsd-dep-nmod.html) – [nmod:tmod](zh_gsd-dep-nmod-tmod.html) – [nsubj](zh_gsd-dep-nsubj.html) – [nsubj:pass](zh_gsd-dep-nsubj-pass.html) – [nummod](zh_gsd-dep-nummod.html) – [obj](zh_gsd-dep-obj.html) – [obl](zh_gsd-dep-obl.html) – [orphan](zh_gsd-dep-orphan.html) – [punct](zh_gsd-dep-punct.html) – [root](zh_gsd-dep-root.html) – [vocative](zh_gsd-dep-vocative.html) – [xcomp](zh_gsd-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 4997 sentences and 123283 tokens.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 122954 tokens (100%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 45 types of words that contain both letters and punctuation. Examples: #A, DC-10, km/h, #B, #C, #D, #E, #F, #G, -an, A-AVG, AK-47, Arzacq-Arraziguet, Beaune-Sud, Berne-Belp, CI-7957, CRH380B-002, F-15A, F-16A, Frito-Lay, It's, Kink.com, MD-11, Micro-USM, NX-01, Navy's, O., P-700, Pre-rendering, S-IVB, TVS-5, Tu-16, Uhler-Phillips, al-Banna, f(x), g(x), t.163.com, t.qq.com, t.sina.com.cn, t.sohu.com, t.xxxx.com, 一,, 一而再、再而三, 三、, 列夫·達維多維奇</li>
+</ul>
+
+<ul>
 </ul>
 
 <h2>Morphology</h2>
@@ -78,6 +92,9 @@ Google.
 <ul>
 <li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: SCONJ, INTJ</li>
+</ul>
+
+<ul>
 <li>This corpus contains 578 word types tagged as particles (PART): 不, 中, 主, 之, 了, 事, 井, 亞, 亭, 人, 今, 代, 令, 位, 低, 佛, 作, 佬, 使, 侯, 俠, 信, 們, 值, 側, 偽, 傳, 僑, 價, 元, 先, 光, 光棍, 內, 公, 兵, 典, 冠, 冢, 冷, 准, 刀, 分, 列, 制, 券, 前, 副, 劇, 劍, 劑, 力, 功, 劣, 包, 化, 區, 半, 卡, 卿, 原, 友, 口, 古, 台, 史, 司, 同, 名, 君, 否, 吧, 周, 味, 和美, 品, 哈爾濱, 員, 商, 單, 嘴, 器, 因, 圈, 國, 圍, 園, 圓, 圖, 團, 土, 地, 坊, 坡, 型, 城, 埤, 基, 堂, 堡, 堤, 報, 場, 塔, 塘, 墓, 墟, 墳, 壓, 士, 外, 多, 夜, 夢, 大, 天, 夾, 奏, 套, 女, 奸, 好, 妃, 妹, 始, 娘, 婆, 婦, 子, 孔, 字, 季, 學, 宏, 宗, 官, 客, 室, 宮, 家, 富, 審, 寬, 寺, 將, 對, 小, 尖, 局, 屋, 屍, 展, 層, 屬, 屯, 山, 岩, 岸, 峰, 島, 峽, 崖, 崗, 嶺, 嶼, 川, 州, 工, 巷, 市, 布, 帝, 師, 席, 帶, 帽, 幣, 幫, 年, 床, 底, 店, 府, 度, 座, 庫, 庭, 廟, 廠, 廬, 廳, 廷, 式, 強, 彈, 彎, 形, 後, 徑, 徒, 得, 御, 微, 徽, 心, 志, 快, 性, 怪, 恆, 感, 態, 戀, 戰, 戲, 戶, 房, 所, 手, 打, 拖, 擋, 支, 教, 數, 文, 新, 方, 族, 旗, 日, 星, 晚, 暖, 暗, 曲, 書, 會, 月, 服, 朝, 期, 本, 材, 村, 束, 杯, 板, 林, 架, 校, 株, 核, 格, 案, 桿, 梁, 棍, 棒, 棚, 業, 榜, 槍, 槳, 樂, 樓, 樹, 橋, 橙, 機, 橢, 檔, 櫃, 權, 次, 款, 歌, 正, 死, 段, 殿, 母, 毒, 氏, 氣, 水, 江, 池, 河, 沼, 泉, 法, 波, 洋, 洞, 洲, 派, 浦, 海, 涌, 液, 淡, 深, 混, 淺, 清, 渡, 港, 湖, 準, 溝, 溥儀, 溪, 滿, 滿洲, 潮, 澡, 澳, 濁, 濃, 灘, 灣, 火, 炎, 炮, 烴, 煙, 熱, 營, 爐, 父, 爺, 牆, 片, 版, 牌, 物, 犯, 狀, 狂, 狗, 獅, 獎, 率, 王, 班, 球, 琴, 生, 男, 町, 界, 畔, 畫, 病, 症, 癌, 癖, 的, 皮, 盃, 目, 省, 眼, 眾, 督, 短, 石, 砲, 硅, 碑, 碼, 礁, 礦, 社, 神, 祠, 禮, 秀, 秋, 科, 秤, 稅, 種, 窟, 窯, 站, 端, 符, 笨, 等, 管, 箱, 節, 篇, 籍, 米, 粉, 精, 系, 紀, 紅, 紋, 純, 紙, 級, 素, 組, 結, 綉, 綜, 綫, 綱, 網, 線, 縣, 總, 罩, 罪, 署, 羊, 美, 群, 翁, 老, 者, 聖, 肉, 胎, 胚, 能, 腔, 腳, 腿, 膜, 膠, 臉, 臨, 臺, 舊, 舞, 船, 艇, 艙, 艦, 色, 花, 茶, 莊, 菌, 菜, 葉, 著, 藍, 藤, 藥, 藩, 處, 號, 蛙, 行, 術, 街, 衛, 衣, 表, 裔, 裙, 製, 褲, 親, 觀, 角, 記, 詞, 詩, 話, 誌, 語, 說, 課, 論, 證, 譜, 變, 谷, 豆, 象, 貓, 費, 資, 質, 賽, 超, 路, 躁, 身, 車, 軍, 軒, 軟, 軸, 輕, 近, 迷, 通, 週, 過, 道, 遠, 邊, 邦, 邨, 郎, 郡, 部, 都, 鄉, 配, 酒, 酸, 醣, 醫, 里, 重, 量, 金, 針, 銘, 鋼, 錄, 錦, 鍋, 鍵, 鎮, 鏈, 鏡, 鐵, 長, 門, 間, 閣, 關, 院, 陵, 陸, 隊, 階, 際, 集, 電, 非, 面, 音, 頂, 頭, 題, 額, 類, 風, 飯, 餅, 餐, 館, 饃, 馬, 骨, 體, 高, 鬥, 鬼, 魚, 鮮, 鳥, 鹼, 點, 黨, 齋</li>
 </ul>
 
@@ -109,7 +126,11 @@ Google.
 
 
 
+
+
+
 <li><a>Number</a>
+
   <ul>
     <li>Plur
       <ul>
@@ -119,9 +140,13 @@ Google.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Gen
       <ul>
@@ -130,14 +155,22 @@ Google.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
 
 
 
 <h3>Degree and Polarity</h3>
 
 
+
+
 <li><a>Polarity</a>
+
   <ul>
     <li>Neg
       <ul>
@@ -145,12 +178,18 @@ Google.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Verbal Features</h3>
 
+
 <li><a>Aspect</a>
+
   <ul>
     <li>Perf
       <ul>
@@ -158,15 +197,22 @@ Google.
         <li>X: 了</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prog
       <ul>
         <li>PART: 著</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Mood</a>
+
   <ul>
     <li>Inter
       <ul>
@@ -174,10 +220,15 @@ Google.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Voice</a>
+
   <ul>
     <li>Cau
       <ul>
@@ -185,19 +236,29 @@ Google.
         <li>VERB: 將, 以, 使, 把, 讓, 使得, 令, 導致, 要求, 派</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pass
       <ul>
         <li>VERB: 被, 為</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
+
+
 <li><a>NumType</a>
+
   <ul>
     <li>Card
       <ul>
@@ -205,29 +266,47 @@ Google.
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
 
+
+
 <li><a>Person</a>
+
   <ul>
     <li>1
       <ul>
         <li>PRON: 我, 我們</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>PRON: 你, 妳, 您</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>PRON: 他, 其, 她, 它, 他們, 它們, 牠們, 她們, 牠, 祂</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
+
 
 
 
@@ -241,6 +320,9 @@ Google.
 
 <ul>
 <li>This corpus uses 135 lemmas as copulas (<a>cop</a>). Examples: 是、 為、 也是、 就是、 不是、 即、 都是、 感到、 非、 則是、 變、 亦是、 亦為、 而是、 並非、 則為、 發展、 而非、 表現、 影響、 還是、 顯得、 做、 卻是、 夠、 如、 控制、 是否是、 為人、 爲、 獲利、 看似、 裝、 謂、 變得、 連任、 一爭、 上表、 不夠、 且是、 仍是、 仍算、 令、 以為、 以爲、 低、 來、 便宜、 便是、 保存.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 40 lemmas as auxiliaries (<a>aux</a>). Examples: 會、 可以、 可、 能、 要、 可能、 必須、 能夠、 不會、 不能、 想、 需要、 需、 應、 未能、 不可、 不得、 須、 不應、 不願、 應該、 欲、 願意、 不想、 必、 不需、 請、 不準、 不肯、 不要、 不該、 只能、 得、 愛、 應當、 敢、 沒能、 當、 肯、 能否.</li>
 <li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: 被、 為、 把.</li>
 </ul>

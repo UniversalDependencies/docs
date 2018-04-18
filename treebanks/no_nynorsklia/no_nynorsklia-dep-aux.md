@@ -18,47 +18,47 @@ The following 7 pairs of parts of speech are connected with `aux`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 3 aux	color:blue
-1	e	e	X	_	_	5	discourse:filler	_	_
-2	du	du	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
-3	må	måtte	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_
-4	nok	nok	ADV	_	_	5	advmod	_	_
-5	gi	gi	VERB	_	VerbForm=Inf	0	root	_	_
-6	p-	p-	X	_	_	9	discourse:filler	_	_
-7	to	to	NUM	_	Number=Plur|NumType=Card	9	nummod	_	_
-8	hundre	hundre	NUM	_	Number=Plur|NumType=Card	9	nummod	_	_
-9	tusen	tusen	NUM	_	Number=Plur|NumType=Card	5	obj	_	_
-10	for	for	ADP	_	_	11	case	_	_
-11	ein	ein	PRON	_	Animacy=Hum|Case=Acc|Number=Sing|PronType=Art,Prs	5	obl	_	_
-12	men	men	CCONJ	_	_	15	cc	_	_
-13	den	den	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	15	nsubj	_	_
-14	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	15	cop	_	_
-15	større	stor	ADJ	_	_	5	conj	_	_
-16	da	da	ADV	_	_	15	advmod	_	_
-17	.	$.	PUNCT	_	_	5	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 9 aux	color:blue
+1	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	expl	_	_
+2	var	vere	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	jo	jo	ADV	_	_	2	advmod	_	_
+4	alle	all	DET	_	Number=Plur|PronType=Tot	6	det	_	_
+5	slags	slags	NOUN	_	Gender=Neut	6	nmod	_	_
+6	folk	folk	NOUN	_	Definite=Ind|Gender=Neut|Number=Plur	2	nsubj	_	_
+7	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	parataxis	_	_
+8	han	han	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
+9	måtte	måtte	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	10	aux	_	_
+10	vere	vere	VERB	_	VerbForm=Inf	6	acl:relcl	_	_
+11	i	i	ADP	_	_	10	compound:prt	_	_
+12	saman	saman	ADV	_	_	11	advmod	_	_
+13	med	med	ADP	_	_	12	obl	_	_
+14	.	$.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 aux	color:blue
-1	ja	ja	INTJ	_	_	5	discourse	_	_
-2	##	##	PUNCT	_	_	5	punct	_	_
-3	samvirkelaget	samvirkelag	NOUN	_	Definite=Def|Gender=Neut|Number=Sing	5	nsubj	_	_
-4	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	_
-5	nedst	nedre	ADJ	_	Definite=Ind|Degree=Sup	0	root	_	_
-6	i	i	ADP	_	_	7	case	_	_
-7	gata	gate	NOUN	_	Definite=Def|Gender=Fem|Number=Sing	5	obl	_	_
-8	så	så	ADV	_	_	5	advmod	_	_
-9	.	$.	PUNCT	_	_	5	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 3 aux	color:blue
+1	for	for	CCONJ	_	_	8	cc	_	_
+2	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+3	skulle	skulle	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	8	aux	_	_
+4	jo	jo	ADV	_	_	8	advmod	_	_
+5	vere	vere	AUX	_	VerbForm=Inf	8	cop	_	_
+6	f-	f-	X	_	_	8	discourse:filler	_	_
+7	#	#	PUNCT	_	_	8	punct	_	_
+8	ferdig	ferdig	ADJ	_	Definite=Ind|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
+9	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	2	appos	_	_
+10	au	au	ADV	_	_	9	advmod	_	_
+11	da	da	ADV	_	_	8	advmod	_	_
+12	.	$.	PUNCT	_	_	8	punct	_	_
 
 ~~~
 

@@ -8,115 +8,91 @@ udver: '2'
 
 This relation is universal.
 
-22 nodes (0%) are attached to their parents as `goeswith`.
+43 nodes (0%) are attached to their parents as `goeswith`.
 
-21 instances of `goeswith` (95%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.04545454545455.
+30 instances of `goeswith` (70%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.06976744186047.
 
-The following 12 pairs of parts of speech are connected with `goeswith`: <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (7; 32% instances), <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (2; 9% instances), <tt><a href="it_postwita-pos-DET.html">DET</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (2; 9% instances), <tt><a href="it_postwita-pos-SYM.html">SYM</a></tt>-<tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> (2; 9% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt>-<tt><a href="it_postwita-pos-X.html">X</a></tt> (2; 9% instances), <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt>-<tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> (1; 5% instances), <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt>-<tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (1; 5% instances), <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt> (1; 5% instances), <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> (1; 5% instances), <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> (1; 5% instances), <tt><a href="it_postwita-pos-SYM.html">SYM</a></tt>-<tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> (1; 5% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (1; 5% instances).
+The following 19 pairs of parts of speech are connected with `goeswith`: <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (9; 21% instances), <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt>-<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (7; 16% instances), <tt><a href="it_postwita-pos-DET.html">DET</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (3; 7% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt>-<tt><a href="it_postwita-pos-VERB.html">VERB</a></tt> (3; 7% instances), <tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (3; 7% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt>-<tt><a href="it_postwita-pos-X.html">X</a></tt> (3; 7% instances), <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (2; 5% instances), <tt><a href="it_postwita-pos-SYM.html">SYM</a></tt>-<tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> (2; 5% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (1; 2% instances), <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt>-<tt><a href="it_postwita-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="it_postwita-pos-ADP.html">ADP</a></tt>-<tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt> (1; 2% instances), <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (1; 2% instances), <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt>-<tt><a href="it_postwita-pos-PUNCT.html">PUNCT</a></tt> (1; 2% instances), <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> (1; 2% instances), <tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> (1; 2% instances), <tt><a href="it_postwita-pos-SYM.html">SYM</a></tt>-<tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt> (1; 2% instances).
+
+
+~~~ conllu
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 12 goeswith	color:blue
+1	RT	retweet	NOUN	S	_	5	dep	_	_
+2	@tnkzay	@tnkzay	SYM	SYM	_	5	vocative:mention	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	2	punct	_	_
+4	'	'	PUNCT	FB	_	5	punct	_	_
+5	cose	cosa	NOUN	S	Gender=Fem|Number=Plur	0	root	_	_
+6	irresistibili	irresistibile	ADJ	A	Number=Plur	5	amod	_	_
+7	in	in	ADP	E	_	9	case	_	_
+8	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	ragazzo	ragazzo	NOUN	S	Gender=Masc|Number=Sing	6	obl	_	_
+10	'	'	PUNCT	FB	_	5	punct	_	_
+11	pt	parte	NOUN	S	Gender=Fem|Number=Sing	5	appos	_	SpaceAfter=No
+12	.	.	PUNCT	FS	_	11	goeswith	_	_
+13	4	4	NUM	N	NumType=Card	11	nummod	_	_
+14	QUANDO	quando	SCONJ	CS	_	16	mark	_	_
+15	SI	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	16	expl	_	_
+16	MORDONO	mordere	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	_	_
+17	LE	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
+18	LABBRA	labbro	NOUN	S	Gender=Fem|Number=Plur	16	obj	_	SpaceAfter=No
+19	.	.	PUNCT	FS	_	18	punct	_	_
+
+~~~
 
 
 ~~~ conllu
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 goeswith	color:blue
-1	RT	RT	X	X	_	13	dep	_	_
-2	@fjfthdirection	@fjfthdirection	SYM	SYM	_	13	vocative:mention	_	SpaceAfter=No
-3	:	:	PUNCT	FC	_	2	punct	_	_
-4	Citazioni	citazione	NOUN	S	Gender=Fem|Number=Plur	13	parataxis	_	_
-5	pt	parte	NOUN	S	Gender=Fem|Number=Sing	4	compound	_	SpaceAfter=No
-6	.	.	PUNCT	FS	_	5	goeswith	_	_
-7	426	426	NUM	N	NumType=Card	5	nummod	_	_
-8	Voglio	volere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	aux	_	_
-9	solo	solo	ADV	B	_	13	advmod	_	_
-10	essere	essere	AUX	V	VerbForm=Inf	13	cop	_	_
-11	di	di	ADP	E	_	12	case	_	_
-12	nuovo	nuovo	ADJ	A	Gender=Masc|Number=Sing	13	advmod	_	_
-13	felice	felice	ADJ	A	Number=Sing	0	root	_	SpaceAfter=No
-14	.	.	PUNCT	FS	_	13	punct	_	_
-15	http://t.co/KdzaRzWUQr	http://t.co/KdzaRzWUQr	SYM	X	_	13	dep	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 goeswith	color:blue
+1	BORSA	BORSA	PROPN	SP	_	4	parataxis	_	_
+2	MILANO	milano	PROPN	SP	_	1	nmod	_	SpaceAfter=No
+3	:	:	PUNCT	FC	_	1	punct	_	_
+4	POSITIVA	positivo	ADJ	A	Gender=Fem|Number=Sing	0	root	_	_
+5	(	(	PUNCT	FB	_	8	punct	_	SpaceAfter=No
+6	+	+	SYM	SYM	_	7	goeswith	_	SpaceAfter=No
+7	0,5	0,5	NUM	N	NumType=Card	8	nummod	_	SpaceAfter=No
+8	%	%	SYM	SYM	_	4	appos	_	SpaceAfter=No
+9	)	)	PUNCT	FB	_	8	punct	_	_
+10	DOPO	dopo	ADP	E	_	11	case	_	_
+11	AVVIO	avvio	NOUN	S	Gender=Masc|Number=Sing	4	obl	_	_
+12	GOVERNO	GOVERNO	PROPN	SP	_	11	nmod	_	_
+13	MONTI	MONTI	PROPN	SP	_	12	nmod	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 29	bgColor:blue
-# visual-style 29	fgColor:white
-# visual-style 28	bgColor:blue
-# visual-style 28	fgColor:white
-# visual-style 28 29 goeswith	color:blue
-1	#Grillo	#Grillo	SYM	SYM	_	0	root	_	_
-2	a	a	ADP	E	_	5	case	_	_
-3	l'	il	DET	RD	Definite=Def|Number=Sing|PronType=Art	5	det	_	_
-4	8	8	NUM	N	NumType=Card	5	nummod	_	SpaceAfter=No
-5	%	%	SYM	SYM	_	1	nmod	_	_
-6	............	............	PUNCT	FS	_	1	punct	_	_
-7	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-8	doveroso	doveroso	ADJ	A	Gender=Masc|Number=Sing	9	amod	_	_
-9	grazie	grazie	INTJ	I	_	1	parataxis	_	_
-10	a	a	ADP	E	_	13	case	_	_
-11	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
-12	vari	vario	DET	DI	PronType=Ind	13	amod	_	_
-13	#Napolitano	#Napolitano	SYM	SYM	_	9	nmod	_	SpaceAfter=No
-14	,	,	PUNCT	FF	_	15	punct	_	_
-15	#Bersani	#Bersani	SYM	SYM	_	13	conj	_	SpaceAfter=No
-16	,	,	PUNCT	FF	_	17	punct	_	_
-17	#Vendola	#Vendola	SYM	SYM	_	13	conj	_	SpaceAfter=No
-18	,	,	PUNCT	FF	_	19	punct	_	_
-19	#Alemanno	#Alemanno	SYM	SYM	_	13	conj	_	SpaceAfter=No
-20	,	,	PUNCT	FF	_	21	punct	_	_
-21	#Libero	#Libero	SYM	SYM	_	13	conj	_	SpaceAfter=No
-22	,	,	PUNCT	FF	_	23	punct	_	_
-23	#IL	#IL	SYM	SYM	_	13	conj	_	_
-24	Giornale	Giornale	PROPN	SP	_	23	flat:name	_	SpaceAfter=No
-25	,	,	PUNCT	FF	_	26	punct	_	_
-26	ecc	ecc	ADV	B	_	13	conj	_	SpaceAfter=No
-27	.	.	PUNCT	FS	_	26	goeswith	_	_
-28	ecc	ecc	ADV	B	_	13	conj	_	SpaceAfter=No
-29	.	.	PUNCT	FS	_	28	goeswith	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 15 14 goeswith	color:blue
-1	complimenti	complimento	NOUN	S	Gender=Masc|Number=Plur	0	root	_	_
-2	a	a	ADP	E	_	4	case	_	_
-3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
-4	coraggio	coraggio	NOUN	S	Gender=Masc|Number=Sing	1	nmod	_	_
-5	di	di	ADP	E	_	7	case	_	_
-6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	governo	governo	NOUN	S	Gender=Masc|Number=Sing	4	nmod	_	_
-8	Monti	Monti	PROPN	SP	_	7	nmod	_	_
-9	su	su	ADP	E	_	11	case	_	_
-10	i	il	DET	RD	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
-11	taxi	taxi	NOUN	S	Gender=Masc	4	nmod	_	SpaceAfter=No
-12	.	.	PUNCT	FS	_	1	punct	_	_
-13	a	a	ADP	E	_	20	case	_	_
-14	'	'	PUNCT	FB	_	15	goeswith	_	_
-15	sto	questo	DET	DD	PronType=Dem	16	det	_	_
-16	punto	punto	NOUN	S	Gender=Masc|Number=Sing	20	nsubj	_	_
-17	erano	essere	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	20	cop	_	_
-18	meglio	meglio	ADV	B	_	20	advmod	_	_
-19	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
-20	pecore	pecora	NOUN	S	Gender=Fem|Number=Plur	1	parataxis	_	_
-21	di	di	ADP	E	_	23	case	_	_
-22	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
-23	PDL	PDL	PROPN	SP	_	20	nmod	_	SpaceAfter=No
-24	.	.	PUNCT	FS	_	20	punct	_	_
-25	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
-26	paese	paese	NOUN	S	Gender=Masc|Number=Sing	1	parataxis	_	_
-27	ricattato	ricattare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	26	acl	_	_
-28	da	da	ADP	E	_	30	case	_	_
-29	4	4	NUM	N	NumType=Card	30	nummod	_	_
-30	bifolchi	bifolco	NOUN	S	Gender=Masc|Number=Plur	27	obl:agent	_	SpaceAfter=No
-31	.	.	PUNCT	FS	_	1	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 3 goeswith	color:blue
+1	http://t.co/JpjzBCVE3j	http://t.co/JpjzBCVE3j	SYM	X	_	7	dep	_	_
+2	http://t.co/QbM5xuhaNH	http://t.co/QbM5xuhaNH	SYM	X	_	7	dep	_	_
+3	'	'	PUNCT	FB	_	4	goeswith	_	SpaceAfter=No
+4	sti	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	5	det	_	_
+5	due	due	NUM	N	NumType=Card	7	nsubj	_	_
+6	mi	mi	PRON	PC	Clitic=Yes|Number=Sing|Person=1|PronType=Prs	7	iobj	_	_
+7	fanno	fare	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	morire	morire	VERB	V	VerbForm=Inf	7	ccomp	_	SpaceAfter=No
+9	.	.	PUNCT	FS	_	7	punct	_	_
+10	Potrei	potere	AUX	VM	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	_
+11	anche	anche	ADV	B	_	12	advmod	_	_
+12	shippar	shippare	VERB	V	VerbForm=Inf	7	parataxis	_	_
+13	li	li	PRON	PC	Clitic=Yes|Gender=Masc|Number=Plur|Person=3|PronType=Prs	12	obj	_	_
+14	.	.	PUNCT	FS	_	12	punct	_	_
+15	Ah	ah	INTJ	I	_	7	discourse	_	SpaceAfter=No
+16	,	,	PUNCT	FF	_	15	punct	_	_
+17	già	già	ADV	B	_	19	advmod	_	_
+18	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	obj	_	_
+19	faccio	fare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	parataxis	_	_
 
 ~~~
 

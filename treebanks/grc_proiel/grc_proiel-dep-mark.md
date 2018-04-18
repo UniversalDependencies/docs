@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-3936 nodes (2%) are attached to their parents as `mark`.
+3984 nodes (2%) are attached to their parents as `mark`.
 
-3934 instances of `mark` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.17123983739837.
+3982 instances of `mark` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.17871485943775.
 
-The following 11 pairs of parts of speech are connected with `mark`: <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-SCONJ.html">SCONJ</a></tt> (3356; 85% instances), <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_proiel-pos-SCONJ.html">SCONJ</a></tt> (206; 5% instances), <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_proiel-pos-SCONJ.html">SCONJ</a></tt> (198; 5% instances), <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="grc_proiel-pos-SCONJ.html">SCONJ</a></tt> (49; 1% instances), <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_proiel-pos-SCONJ.html">SCONJ</a></tt> (48; 1% instances), <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_proiel-pos-SCONJ.html">SCONJ</a></tt> (39; 1% instances), <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="grc_proiel-pos-SCONJ.html">SCONJ</a></tt> (28; 1% instances), <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="grc_proiel-pos-SCONJ.html">SCONJ</a></tt> (9; 0% instances), <tt><a href="grc_proiel-pos-INTJ.html">INTJ</a></tt>-<tt><a href="grc_proiel-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `mark`: <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-SCONJ.html">SCONJ</a></tt> (3399; 85% instances), <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_proiel-pos-SCONJ.html">SCONJ</a></tt> (208; 5% instances), <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_proiel-pos-SCONJ.html">SCONJ</a></tt> (198; 5% instances), <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="grc_proiel-pos-SCONJ.html">SCONJ</a></tt> (51; 1% instances), <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_proiel-pos-SCONJ.html">SCONJ</a></tt> (49; 1% instances), <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_proiel-pos-SCONJ.html">SCONJ</a></tt> (39; 1% instances), <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="grc_proiel-pos-SCONJ.html">SCONJ</a></tt> (28; 1% instances), <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="grc_proiel-pos-SCONJ.html">SCONJ</a></tt> (9; 0% instances), <tt><a href="grc_proiel-pos-INTJ.html">INTJ</a></tt>-<tt><a href="grc_proiel-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -52,7 +52,7 @@ The following 11 pairs of parts of speech are connected with `mark`: <tt><a href
 9	τηνικαῦτα	τηνικαῦτα	ADV	Df	_	10	advmod	_	ref=1.17.1
 10	ἐσέβαλλε	εἰσβάλλω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1.17.1
 11	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	12	det	_	ref=1.17.1
-12	στρατιήν	στρατιά	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	10	obj:dir	_	ref=1.17.1
+12	στρατιήν	στρατιά	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	ref=1.17.1
 
 ~~~
 

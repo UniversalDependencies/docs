@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-549 nodes (1%) are attached to their parents as `nummod`.
+1090 nodes (1%) are attached to their parents as `nummod`.
 
-411 instances of `nummod` (75%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.63205828779599.
+780 instances of `nummod` (72%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.73119266055046.
 
-The following 17 pairs of parts of speech are connected with `nummod`: <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> (296; 54% instances), <tt><a href="it_postwita-pos-SYM.html">SYM</a></tt>-<tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> (88; 16% instances), <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> (84; 15% instances), <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt>-<tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> (27; 5% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt>-<tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> (18; 3% instances), <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (10; 2% instances), <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> (9; 2% instances), <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt>-<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (5; 1% instances), <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt>-<tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> (3; 1% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt>-<tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="it_postwita-pos-ADV.html">ADV</a></tt>-<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt>-<tt><a href="it_postwita-pos-X.html">X</a></tt> (1; 0% instances).
+The following 16 pairs of parts of speech are connected with `nummod`: <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> (553; 51% instances), <tt><a href="it_postwita-pos-SYM.html">SYM</a></tt>-<tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> (189; 17% instances), <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> (184; 17% instances), <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt>-<tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> (64; 6% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt>-<tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> (37; 3% instances), <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> (27; 2% instances), <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (10; 1% instances), <tt><a href="it_postwita-pos-NUM.html">NUM</a></tt>-<tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> (9; 1% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt>-<tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt>-<tt><a href="it_postwita-pos-NUM.html">NUM</a></tt> (5; 0% instances), <tt><a href="it_postwita-pos-VERB.html">VERB</a></tt>-<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (2; 0% instances), <tt><a href="it_postwita-pos-INTJ.html">INTJ</a></tt>-<tt><a href="it_postwita-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="it_postwita-pos-NOUN.html">NOUN</a></tt>-<tt><a href="it_postwita-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="it_postwita-pos-PROPN.html">PROPN</a></tt>-<tt><a href="it_postwita-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="it_postwita-pos-X.html">X</a></tt>-<tt><a href="it_postwita-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -42,43 +42,33 @@ The following 17 pairs of parts of speech are connected with `nummod`: <tt><a hr
 
 
 ~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 8 nummod	color:blue
-1	Sondaggio	sondaggio	NOUN	S	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-2	:	:	PUNCT	FC	_	1	punct	_	_
-3	Fiducia	fiducia	NOUN	S	Gender=Fem|Number=Sing	1	nmod	_	_
-4	governo	governo	NOUN	S	Gender=Masc|Number=Sing	3	compound	_	_
-5	Monti	Monti	PROPN	SP	_	4	nmod	_	_
-6	a	a	ADP	E	_	9	case	_	_
-7	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-8	57	57	NUM	N	NumType=Card	9	nummod	_	SpaceAfter=No
-9	%	%	SYM	SYM	_	3	nmod	_	SpaceAfter=No
-10	.	.	PUNCT	FS	_	1	punct	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 nummod	color:blue
+1	Ancora	ancora	ADV	B	_	3	advmod	_	_
+2	32	32	NUM	N	NumType=Card	3	nummod	_	SpaceAfter=No
+3	%	%	SYM	SYM	_	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	3	punct	_	_
+5	bella	bello	ADJ	A	Gender=Fem|Number=Sing	6	amod	_	_
+6	merda	merda	NOUN	S	Gender=Fem|Number=Sing	3	discourse	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 10 nummod	color:blue
-1	RT	RT	X	X	_	7	dep	_	_
-2	@my_supersoccer	@my_supersoccer	SYM	SYM	_	7	vocative:mention	_	SpaceAfter=No
-3	:	:	PUNCT	FC	_	2	punct	_	_
-4	FULL	full	X	SW	_	7	discourse	_	_
-5	TIME	time	X	SW	_	4	flat:foreign	_	_
-6	!!!!	!!!!	PUNCT	FS	_	4	punct	_	_
-7	Fiorentina	Fiorentina	PROPN	SP	_	0	root	_	_
-8	vs	vs	ADP	E	_	9	case	_	_
-9	Juventus	Juventus	PROPN	SP	_	7	nmod	_	_
-10	4	4	NUM	N	NumType=Card	7	nummod	_	_
-11	-	-	PUNCT	FB	_	12	punct	_	_
-12	2	2	NUM	N	NumType=Card	10	flat	_	_
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 2 nummod	color:blue
+1	Torino	torino	PROPN	SP	_	0	root	_	_
+2	2	2	NUM	N	NumType=Card	1	nummod	_	_
+3	-	-	PUNCT	FB	_	4	punct	_	_
+4	2	2	NUM	N	NumType=Card	2	flat	_	_
+5	Inter	Inter	PROPN	SP	_	1	nmod	_	_
+6	milan	milan	PROPN	SP	_	5	flat	_	_
 
 ~~~
 

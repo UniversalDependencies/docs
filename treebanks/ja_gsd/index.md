@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Japanese'
+title:  'UD_Japanese-GSD'
 udver: '2'
 ---
 
@@ -9,7 +9,7 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Japanese
+# UD Japanese GSD
 
 Language: [Japanese](../ja/overview/ja-hub.html) (code: `ja`)<br/>
 Family: Japanese
@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v1.4 release.
 
 The following people have contributed to making this treebank part of UD: Hiroshi Kanayama, Masayuki Asahara, Yusuke Miyao, Takaaki Tanaka, Ryan McDonald, Joakim Nivre, Daniel Zeman, Yuji Matsumoto, Shinsuke Mori, Sumire Uematsu.
 
-Repository: [UD_Japanese](https://github.com/UniversalDependencies/UD_Japanese)
+Repository: [UD_Japanese-GSD](https://github.com/UniversalDependencies/UD_Japanese-GSD)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_gsd)
 
 License: CC BY-NC-SA 3.0 US
 
@@ -26,7 +27,7 @@ Genre: news, blog
 
 Questions, comments?
 General annotation questions (either Japanese-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Japanese/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Japanese-GSD/issues).
 If you want to collaborate, please contact [hkana&nbsp;(æt)&nbsp;jp&nbsp;•&nbsp;ibm&nbsp;•&nbsp;com].
 
 | Annotation | Source |
@@ -80,27 +81,40 @@ through discussion and validation with
 - Sumire Uematsu
 
 
-# Statistics of UD Japanese
+# Statistics of UD Japanese GSD
 
 ## POS Tags
 
-[ADJ](ja-pos-ADJ.html) – [ADP](ja-pos-ADP.html) – [ADV](ja-pos-ADV.html) – [AUX](ja-pos-AUX.html) – [CCONJ](ja-pos-CCONJ.html) – [DET](ja-pos-DET.html) – [NOUN](ja-pos-NOUN.html) – [NUM](ja-pos-NUM.html) – [PART](ja-pos-PART.html) – [PRON](ja-pos-PRON.html) – [PROPN](ja-pos-PROPN.html) – [PUNCT](ja-pos-PUNCT.html) – [SCONJ](ja-pos-SCONJ.html) – [SYM](ja-pos-SYM.html) – [VERB](ja-pos-VERB.html)
+[ADJ](ja_gsd-pos-ADJ.html) – [ADP](ja_gsd-pos-ADP.html) – [ADV](ja_gsd-pos-ADV.html) – [AUX](ja_gsd-pos-AUX.html) – [CCONJ](ja_gsd-pos-CCONJ.html) – [DET](ja_gsd-pos-DET.html) – [NOUN](ja_gsd-pos-NOUN.html) – [NUM](ja_gsd-pos-NUM.html) – [PART](ja_gsd-pos-PART.html) – [PRON](ja_gsd-pos-PRON.html) – [PROPN](ja_gsd-pos-PROPN.html) – [PUNCT](ja_gsd-pos-PUNCT.html) – [SCONJ](ja_gsd-pos-SCONJ.html) – [SYM](ja_gsd-pos-SYM.html) – [VERB](ja_gsd-pos-VERB.html)
 
 ## Features
 
-[NumType](ja-feat-NumType.html)
+[NumType](ja_gsd-feat-NumType.html)
 
 ## Relations
 
-[acl](ja-dep-acl.html) – [advcl](ja-dep-advcl.html) – [advmod](ja-dep-advmod.html) – [amod](ja-dep-amod.html) – [aux](ja-dep-aux.html) – [case](ja-dep-case.html) – [cc](ja-dep-cc.html) – [ccomp](ja-dep-ccomp.html) – [compound](ja-dep-compound.html) – [cop](ja-dep-cop.html) – [csubj](ja-dep-csubj.html) – [dep](ja-dep-dep.html) – [det](ja-dep-det.html) – [fixed](ja-dep-fixed.html) – [iobj](ja-dep-iobj.html) – [mark](ja-dep-mark.html) – [nmod](ja-dep-nmod.html) – [nsubj](ja-dep-nsubj.html) – [nummod](ja-dep-nummod.html) – [obj](ja-dep-obj.html) – [obl](ja-dep-obl.html) – [punct](ja-dep-punct.html) – [root](ja-dep-root.html)
+[acl](ja_gsd-dep-acl.html) – [advcl](ja_gsd-dep-advcl.html) – [advmod](ja_gsd-dep-advmod.html) – [amod](ja_gsd-dep-amod.html) – [aux](ja_gsd-dep-aux.html) – [case](ja_gsd-dep-case.html) – [cc](ja_gsd-dep-cc.html) – [ccomp](ja_gsd-dep-ccomp.html) – [compound](ja_gsd-dep-compound.html) – [cop](ja_gsd-dep-cop.html) – [csubj](ja_gsd-dep-csubj.html) – [dep](ja_gsd-dep-dep.html) – [det](ja_gsd-dep-det.html) – [fixed](ja_gsd-dep-fixed.html) – [iobj](ja_gsd-dep-iobj.html) – [mark](ja_gsd-dep-mark.html) – [nmod](ja_gsd-dep-nmod.html) – [nsubj](ja_gsd-dep-nsubj.html) – [nummod](ja_gsd-dep-nummod.html) – [obj](ja_gsd-dep-obj.html) – [obl](ja_gsd-dep-obl.html) – [punct](ja_gsd-dep-punct.html) – [root](ja_gsd-dep-root.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 8232 sentences and 186071 tokens.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 185519 tokens (100%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
-<li>This corpus contains 69 types of words that contain both letters and punctuation. Examples: 、と, 、という, SETI@home, ”と, が、, スター・ウォーズ, ルイ・ヴィトン, (株), )し, A.T, D.C.I, E.T, IT'SFRIDAY, L'Arc, L'OrateurduPeuple, L.E.D, PaulKantner'sWoodenship, PaulO'Malley, S&P, http://en.wikipedia.org/wiki/Acute_intermittent_porphyria, ”する, ”に, 、が, 、で, 、といった, 、など, 、の, 、を, 」し, あ、, アル・パチーノ, アンディ・ウォーホル, アンドレ・アガシ, イー・モバイル, ウォール・ストリート・ジャーナル, エル・ドラード, エール・フランス, オードリー・ヘップバーン, カール・ツァイス, クリーブランド・ブラウンズ, ゴールドマン・サックス, サム・シェパード, シラノ・ド・ベルジュラック, ジェームズ・ブキャナン, ジェームズ・ワトソン, ジャネット・ジャクソン, ジョン・レノン, ジョージ・ハリスン, セブン-イレブン, ソニー・コンピュータエンタテインメント</li>
+</ul>
+
+<ul>
+<li>This corpus contains 69 types of words that contain both letters and punctuation. Examples: 、と, 、という, SETI@home, ”と, が、, スター・ウォーズ, ルイ・ヴィトン, (株), )し, A.T, D.C.I, E.T, IT'SFRIDAY, L'Arc, L'OrateurduPeuple, L.E.D, P​a​u​l​K​a​n​t​n​e​r​'​s​W​o​o​d​e​n​s​h​i​p, PaulO'Malley, S&P, h​t​t​p​:​/​/​e​n​.​w​i​k​i​p​e​d​i​a​.​o​r​g​/​w​i​k​i​/​A​c​u​t​e​_​i​n​t​e​r​m​i​t​t​e​n​t​_​p​o​r​p​h​y​r​i​a, ”する, ”に, 、が, 、で, 、といった, 、など, 、の, 、を, 」し, あ、, アル・パチーノ, アンディ・ウォーホル, アンドレ・アガシ, イー・モバイル, ウォール・ストリート・ジャーナル, エル・ドラード, エール・フランス, オードリー・ヘップバーン, カール・ツァイス, クリーブランド・ブラウンズ, ゴールドマン・サックス, サム・シェパード, シラノ・ド・ベルジュラック, ジェームズ・ブキャナン, ジェームズ・ワトソン, ジャネット・ジャクソン, ジョン・レノン, ジョージ・ハリスン, セブン-イレブン, ソニー・コンピュータエンタテインメント</li>
+</ul>
+
+<ul>
 </ul>
 
 <h2>Morphology</h2>
@@ -110,6 +124,9 @@ through discussion and validation with
 <ul>
 <li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a></li>
 <li>This corpus does not use the following tags: INTJ, X</li>
+</ul>
+
+<ul>
 <li>This corpus contains 73 word types tagged as particles (PART): +, -, ~, 、の, およそ, か, かしらん, かどうか, か否か, さ, ぞ, ぞお, とともに, と共に, な, なぁ, なあ, なー, に, において, における, にとって, にまつわる, に於いて, に於ける, ね, ねえ, の, のよ, ほぼ, よ, よー, わ, をもとに, を元に, を基に, を基にして, ん, ナンバー, ベスト, マイナス, マッハ, 丸, 人口, 全長, 分の, 南緯, 同, 夜, 対, 平成, 年, 延べ, 昭和, 最低, 最多, 最大, 最高, 残り, 毎時, 直径, 第, 築, 紀元前, 約, 総計, 翌, 計, 金, 長さ, 高さ, 齢, ～</li>
 </ul>
 
@@ -144,7 +161,18 @@ through discussion and validation with
 
 
 
+
+
+
+
+
+
+
 <h3>Degree and Polarity</h3>
+
+
+
+
 
 
 
@@ -156,10 +184,19 @@ through discussion and validation with
 
 
 
+
+
+
+
+
+
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
+
+
 <li><a>NumType</a>
+
   <ul>
     <li>Card
       <ul>
@@ -167,7 +204,16 @@ through discussion and validation with
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
+
+
+
+
 
 
 
@@ -184,6 +230,9 @@ through discussion and validation with
 
 <ul>
 <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: だ, ですね.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 100 lemmas as auxiliaries (<a>aux</a>). Examples: た, する, いる, だ, れる, ます, ない, こと, ようだ, られる, なる, おる, *可能*, う, せる, 来る, できる, たい, しまう, くれる, いく, そうだ, さ, たら, もらう, みる, べし, なら, やすい, くださる, いただく, 続ける, らしい, でした, 始める, 行く, かもしれる, みたいだ, 出す, 出来る, 合う, すぎる, 込む, 頂く, ある, ちゃう, おく, なければ, させる, もらえる.</li>
 </ul>
 

@@ -29,7 +29,7 @@ The following 1 pairs of parts of speech are connected with `aux:caus`: <tt><a h
 4	fait	faire	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	aux:caus	_	_
 5	jouer	jouer	VERB	_	VerbForm=Inf	0	root	_	_
 6	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
-7	enfants	enfant	NOUN	_	Number=Plur	5	obj	_	SpaceAfter=No
+7	enfants	enfant	NOUN	_	Number=Plur	5	obj:agent	_	SpaceAfter=No
 8	.	.	PUNCT	_	_	5	punct	_	_
 
 ~~~

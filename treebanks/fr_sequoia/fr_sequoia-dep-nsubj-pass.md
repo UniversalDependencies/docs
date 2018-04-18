@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="fr_sequoia-dep-nsubj.html">nsubj</a></tt>.
 There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="fr_sequoia-dep-nsubj-caus.html">nsubj:caus</a></tt>.
 
-594 nodes (1%) are attached to their parents as `nsubj:pass`.
+595 nodes (1%) are attached to their parents as `nsubj:pass`.
 
-584 instances of `nsubj:pass` (98%) are right-to-left (child precedes parent).
-Average distance between parent and child is 6.1010101010101.
+585 instances of `nsubj:pass` (98%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.09915966386555.
 
-The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (373; 63% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (138; 23% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (81; 14% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
+The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-NOUN.html">NOUN</a></tt> (374; 63% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-PRON.html">PRON</a></tt> (138; 23% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-PROPN.html">PROPN</a></tt> (81; 14% instances), <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_sequoia-pos-ADJ.html">ADJ</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -30,7 +30,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 5	constituée	constituer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 7	2	2	NUM	_	NumType=Card	8	nummod	_	_
-8	juillet	juillet	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+8	juillet	juillet	NOUN	_	Gender=Masc|Number=Sing	5	obl:mod	_	_
 9	1953	1953	NUM	_	NumType=Card	8	nummod	_	_
 10	;	;	PUNCT	_	_	5	punct	_	_
 
@@ -47,7 +47,7 @@ The following 4 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 2	sera	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	aux:pass	_	_
 3	annulée	annuler	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 4	en	en	ADP	_	_	5	case	_	_
-5	octobre	octobre	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+5	octobre	octobre	NOUN	_	Gender=Masc|Number=Sing	3	obl:mod	_	_
 6	2000	2000	NUM	_	NumType=Card	5	nummod	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	3	punct	_	_
 

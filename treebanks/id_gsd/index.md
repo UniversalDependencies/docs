@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Indonesian'
+title:  'UD_Indonesian-GSD'
 udver: '2'
 ---
 
@@ -9,16 +9,17 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Indonesian
+# UD Indonesian GSD
 
 Language: [Indonesian](../id/overview/id-hub.html) (code: `id`)<br/>
-Family: Austronesian
+Family: Austronesian, Malayo-Sumbawan
 
 This treebank has been part of Universal Dependencies since the UD v1.1 release.
 
 The following people have contributed to making this treebank part of UD: Ryan McDonald, Joakim Nivre, Daniel Zeman, Septina Dian Larasati.
 
-Repository: [UD_Indonesian](https://github.com/UniversalDependencies/UD_Indonesian)
+Repository: [UD_Indonesian-GSD](https://github.com/UniversalDependencies/UD_Indonesian-GSD)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udid_gsd)
 
 License: CC BY-NC-SA 3.0 US
 
@@ -26,7 +27,7 @@ Genre: news, blog
 
 Questions, comments?
 General annotation questions (either Indonesian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Indonesian/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Indonesian-GSD/issues).
 If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&nbsp;mff&nbsp;•&nbsp;cuni&nbsp;•&nbsp;cz].
 The UD version of this treebank currently does not have a maintainer.
 If you know the language and want to help, please consider adopting the treebank.
@@ -53,27 +54,40 @@ http://septinalarasati.com/morphind/).
 
 ## Acknowledgments
 
-# Statistics of UD Indonesian
+# Statistics of UD Indonesian GSD
 
 ## POS Tags
 
-[ADJ](id-pos-ADJ.html) – [ADP](id-pos-ADP.html) – [ADV](id-pos-ADV.html) – [AUX](id-pos-AUX.html) – [CCONJ](id-pos-CCONJ.html) – [DET](id-pos-DET.html) – [NOUN](id-pos-NOUN.html) – [NUM](id-pos-NUM.html) – [PART](id-pos-PART.html) – [PRON](id-pos-PRON.html) – [PROPN](id-pos-PROPN.html) – [PUNCT](id-pos-PUNCT.html) – [SCONJ](id-pos-SCONJ.html) – [SYM](id-pos-SYM.html) – [VERB](id-pos-VERB.html) – [X](id-pos-X.html)
+[ADJ](id_gsd-pos-ADJ.html) – [ADP](id_gsd-pos-ADP.html) – [ADV](id_gsd-pos-ADV.html) – [AUX](id_gsd-pos-AUX.html) – [CCONJ](id_gsd-pos-CCONJ.html) – [DET](id_gsd-pos-DET.html) – [NOUN](id_gsd-pos-NOUN.html) – [NUM](id_gsd-pos-NUM.html) – [PART](id_gsd-pos-PART.html) – [PRON](id_gsd-pos-PRON.html) – [PROPN](id_gsd-pos-PROPN.html) – [PUNCT](id_gsd-pos-PUNCT.html) – [SCONJ](id_gsd-pos-SCONJ.html) – [SYM](id_gsd-pos-SYM.html) – [VERB](id_gsd-pos-VERB.html) – [X](id_gsd-pos-X.html)
 
 ## Features
 
-[Clusivity](id-feat-Clusivity.html) – [Degree](id-feat-Degree.html) – [Gender](id-feat-Gender.html) – [Number](id-feat-Number.html) – [Number[psor]](id-feat-Number-psor.html) – [NumType](id-feat-NumType.html) – [Person](id-feat-Person.html) – [Person[psor]](id-feat-Person-psor.html) – [Polarity](id-feat-Polarity.html) – [Polite](id-feat-Polite.html) – [PronType](id-feat-PronType.html) – [Voice](id-feat-Voice.html)
+[Clusivity](id_gsd-feat-Clusivity.html) – [Degree](id_gsd-feat-Degree.html) – [Gender](id_gsd-feat-Gender.html) – [Number](id_gsd-feat-Number.html) – [Number[psor]](id_gsd-feat-Number-psor.html) – [NumType](id_gsd-feat-NumType.html) – [Person](id_gsd-feat-Person.html) – [Person[psor]](id_gsd-feat-Person-psor.html) – [Polarity](id_gsd-feat-Polarity.html) – [Polite](id_gsd-feat-Polite.html) – [PronType](id_gsd-feat-PronType.html) – [Voice](id_gsd-feat-Voice.html)
 
 ## Relations
 
-[acl](id-dep-acl.html) – [advcl](id-dep-advcl.html) – [advmod](id-dep-advmod.html) – [amod](id-dep-amod.html) – [appos](id-dep-appos.html) – [aux](id-dep-aux.html) – [case](id-dep-case.html) – [cc](id-dep-cc.html) – [ccomp](id-dep-ccomp.html) – [compound](id-dep-compound.html) – [compound:plur](id-dep-compound-plur.html) – [conj](id-dep-conj.html) – [cop](id-dep-cop.html) – [csubj](id-dep-csubj.html) – [csubj:pass](id-dep-csubj-pass.html) – [dep](id-dep-dep.html) – [det](id-dep-det.html) – [fixed](id-dep-fixed.html) – [flat](id-dep-flat.html) – [iobj](id-dep-iobj.html) – [mark](id-dep-mark.html) – [nmod](id-dep-nmod.html) – [nsubj](id-dep-nsubj.html) – [nsubj:pass](id-dep-nsubj-pass.html) – [nummod](id-dep-nummod.html) – [obj](id-dep-obj.html) – [obl](id-dep-obl.html) – [parataxis](id-dep-parataxis.html) – [punct](id-dep-punct.html) – [root](id-dep-root.html) – [xcomp](id-dep-xcomp.html)
+[acl](id_gsd-dep-acl.html) – [advcl](id_gsd-dep-advcl.html) – [advmod](id_gsd-dep-advmod.html) – [amod](id_gsd-dep-amod.html) – [appos](id_gsd-dep-appos.html) – [aux](id_gsd-dep-aux.html) – [case](id_gsd-dep-case.html) – [cc](id_gsd-dep-cc.html) – [ccomp](id_gsd-dep-ccomp.html) – [compound](id_gsd-dep-compound.html) – [compound:plur](id_gsd-dep-compound-plur.html) – [conj](id_gsd-dep-conj.html) – [cop](id_gsd-dep-cop.html) – [csubj](id_gsd-dep-csubj.html) – [csubj:pass](id_gsd-dep-csubj-pass.html) – [dep](id_gsd-dep-dep.html) – [det](id_gsd-dep-det.html) – [fixed](id_gsd-dep-fixed.html) – [flat](id_gsd-dep-flat.html) – [iobj](id_gsd-dep-iobj.html) – [mark](id_gsd-dep-mark.html) – [nmod](id_gsd-dep-nmod.html) – [nsubj](id_gsd-dep-nsubj.html) – [nsubj:pass](id_gsd-dep-nsubj-pass.html) – [nummod](id_gsd-dep-nummod.html) – [obj](id_gsd-dep-obj.html) – [obl](id_gsd-dep-obl.html) – [parataxis](id_gsd-dep-parataxis.html) – [punct](id_gsd-dep-punct.html) – [root](id_gsd-dep-root.html) – [xcomp](id_gsd-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 5593 sentences and 121923 tokens.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 16358 tokens (13%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
-<li>This corpus contains 124 types of words that contain both letters and punctuation. Examples: &amp;, km&amp;sup2, orang-orang, benar-benar, &amp;nbsp, laki-laki, pertanyaan-pertanyaan, Moody's, Rubik's, berlaksa-laksa, diam-diam, hal-hal, hamba-Ku, kata-kata, tanda-tanda, 14&amp;nbsp, 22&amp;nbsp, 36&amp;nbsp, 40&amp;nbsp, 764&amp;nbsp, Anggota-anggota, Aphrodite's, Assisted_GPS, Bird's, Cinta-Dante-Cahaya, Dosen-dosen, GL_ARB_robustness, GL_EXT_robustness, He's, Heaven's, ID&amp;T, It's, Ja's, Jane's, Levy's, Lloyd's, M&amp;D, Nama-Nya, Negara-negara, P&amp;G, PEI-AISAH, Pepper's, Punk's, Rasul-Nya, Robert's, She's, TV's, Tiba-tiba, Valve's, Vol.</li>
+</ul>
+
+<ul>
+<li>This corpus contains 124 types of words that contain both letters and punctuation. Examples: &amp;, km&amp;sup2, orang-orang, benar-benar, &amp;nbsp, laki-laki, p​e​r​t​a​n​y​a​a​n​-​p​e​r​t​a​n​y​a​a​n, Moody's, Rubik's, berlaksa-laksa, diam-diam, hal-hal, hamba-Ku, kata-kata, tanda-tanda, 14&amp;nbsp, 22&amp;nbsp, 36&amp;nbsp, 40&amp;nbsp, 764&amp;nbsp, Anggota-anggota, Aphrodite's, Assisted_GPS, Bird's, Cinta-Dante-Cahaya, Dosen-dosen, GL_ARB_robustness, GL_EXT_robustness, He's, Heaven's, ID&amp;T, It's, Ja's, Jane's, Levy's, Lloyd's, M&amp;D, Nama-Nya, Negara-negara, P&amp;G, PEI-AISAH, Pepper's, Punk's, Rasul-Nya, Robert's, She's, TV's, Tiba-tiba, Valve's, Vol.</li>
+</ul>
+
+<ul>
 </ul>
 
 <h2>Morphology</h2>
@@ -83,19 +97,22 @@ http://septinalarasati.com/morphind/).
 <ul>
 <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: INTJ</li>
+</ul>
+
+<ul>
 <li>This corpus contains 36 word types tagged as particles (PART): Berdasar, Hei, Iye, Jadi, Loh, Tuh, belum, bersorak, bukan, bukankah, bukanlah, bukannya, ga, hai, jangan, kan, keluar, kok, koq, lah, membelinya, non, nya, pun, silakan, tak, tanpa, tercetusnya, terkejutnya, tiada, tidak, tidakkah, tidaklah, tidaknya, ya, yang</li>
 </ul>
 
 <ul>
-<li>This corpus contains 65 lemmas tagged as pronouns (PRON): a, abang, ada, adanya, aku, anak, anda, apa, bagaimana, bagaimanasebuah, bahwa, banyak, beberapa, begitu, beliau, berapa, berdiri, beta, dekat, demikian, dia, dimana, diri, engkau, gimana, i, ia, ini, isi, it, itu, jang, kalian, kami, kamu, kapan, kau, kenapa, keseluruhan, kesemuanya, kita, kita.dan, ku, mahabharata, mana, media, mengapa, mereka, nya, para, perang, saya, segala, segenap, sejumlah, semua, sendiri, seorang, siapa, sini, uskup, vertebrata, yang, yg, your</li>
+<li>This corpus contains 75 lemmas tagged as pronouns (PRON): a, abang, ada, adanya, agar, aku, anak, anda, apa, bagaimana, bagaimanasebuah, bahwa, banyak, beberapa, begitu, beliau, berapa, berdiri, berkat, beta, bila, bilamana, dekat, demikian, dia, dimana, diri, engkau, gimana, i, ia, ini, isi, it, itu, jadi, jang, kalian, kami, kamu, kapan, kau, kenapa, keseluruhan, kesemuanya, ketika, kita, kita.dan, ku, mahabharata, mana, manakala, media, mengapa, mereka, nya, para, perang, saat, saya, sebelum, sedangkan, segala, segenap, sejumlah, semua, sendiri, seorang, siapa, sini, uskup, vertebrata, yang, yg, your</li>
 </ul>
 
 <ul>
-<li>This corpus contains 106 lemmas tagged as determiners (DET): 2, a, al, an, aneka, apa, bagaimana, bagi, baik, banyak, beberapa, begini, begitu, berapa, berbagai, berberapa, berdua, berikut, berragam, buah, buruh, demikian, dibeberapa, dr, gepenglah, how, in, ini, itu, itua, ke, kebanyakan, kedua, keempat, kelima, kenapa, keseluruhan, ketiga, khususnya, la, lain, lainnya, macam, maka, mana, masing, mayoritas, nya, oh, orang, para, penbantaian, per, pituruh, pula, pun, ratusan, ribuan, salah, sama, sang, satu, satusatunya, sauatu, se, seantero, sebagaian, sebagian, sebua, sebuah, sedikit, sedikitnya, seekor, segala, segenap, sejumlah, sekali, sekelompok, sekeping, sekitar, sekumpulan, seluruh, semacam, semangkuk, semua, sendiri, seorang, sepasang, sepucuk, serangkaian, sesuatu, setiap, si, stu, suatu, tangguh, tersebut, tertentu, tesebut, tetap, the, tiap, tsb, tujuh, uap, yaitu</li>
+<li>This corpus contains 110 lemmas tagged as determiners (DET): 2, a, al, an, aneka, apa, bagaimana, bagi, baik, banyak, beberapa, begini, begitu, berapa, berbagai, berberapa, berdua, berikut, berragam, buah, buruh, demikian, dibeberapa, dr, gepenglah, how, in, ini, itu, itua, jadi, ke, kebanyakan, kedua, keempat, kelima, kemudian, kenapa, keseluruhan, ketiga, khususnya, la, lain, lainnya, macam, maka, mana, masing, mayoritas, nya, oh, orang, para, penbantaian, per, pituruh, pula, pun, ratusan, ribuan, salah, sama, sang, satu, satusatunya, sauatu, se, seantero, sebagaian, sebagian, sebua, sebuah, sedikit, sedikitnya, seekor, segala, segenap, sehubungan, sejumlah, sekali, sekelompok, sekeping, sekitar, sekumpulan, seluruh, semacam, semangkuk, sementara, semua, sendiri, seorang, sepasang, sepucuk, serangkaian, sesuatu, setiap, si, stu, suatu, tangguh, tersebut, tertentu, tesebut, tetap, the, tiap, tsb, tujuh, uap, yaitu</li>
 </ul>
 
 <ul>
-<li>Out of the above, 21 lemmas occurred sometimes as PRON and sometimes as DET: a, apa, bagaimana, banyak, beberapa, begitu, berapa, demikian, ini, itu, kenapa, keseluruhan, mana, nya, para, segala, segenap, sejumlah, semua, sendiri, seorang</li>
+<li>Out of the above, 22 lemmas occurred sometimes as PRON and sometimes as DET: a, apa, bagaimana, banyak, beberapa, begitu, berapa, demikian, ini, itu, jadi, kenapa, keseluruhan, mana, nya, para, segala, segenap, sejumlah, semua, sendiri, seorang</li>
 </ul>
 
 <ul>
@@ -112,7 +129,9 @@ http://septinalarasati.com/morphind/).
 
 <h3>Nominal Features</h3>
 
+
 <li><a>Gender</a>
+
   <ul>
     <li>Fem
       <ul>
@@ -120,6 +139,9 @@ http://septinalarasati.com/morphind/).
         <li>PROPN: Indrawati, Selawati</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>ADJ: dermawan</li>
@@ -128,21 +150,29 @@ http://septinalarasati.com/morphind/).
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Number</a>
+
   <ul>
     <li>Plur
       <ul>
         <li>ADJ: laki-laki, cuma-cuma, diam-diam</li>
         <li>ADV: mati-matian, bersama-sama, betul-betul, diam-diam</li>
-        <li>NOUN: orang-orang, pertanyaan-pertanyaan, hal-hal, kata-kata, tanda-tanda, Anggota-anggota, Dosen-dosen, anjing-anjing, badan-badan, batu-batu</li>
+        <li>NOUN: orang-orang, p​e​r​t​a​n​y​a​a​n​-​p​e​r​t​a​n​y​a​a​n, hal-hal, kata-kata, tanda-tanda, Anggota-anggota, Dosen-dosen, anjing-anjing, badan-badan, batu-batu</li>
         <li>PRON: mereka, kita, kami, kalian, anak-anakmu, kamilah, merekapun</li>
         <li>PROPN: Negara-negara</li>
         <li>VERB: berlaksa-laksa, orang-orang, berdua-duaan</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: lain, besar, awal, baru, sama, kecil, utama, tinggi, baik, sendiri</li>
@@ -164,14 +194,22 @@ http://septinalarasati.com/morphind/).
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
+
 
 
 
 
 <h3>Degree and Polarity</h3>
 
+
 <li><a>Degree</a>
+
   <ul>
     <li>Pos
       <ul>
@@ -192,6 +230,9 @@ http://septinalarasati.com/morphind/).
         <li>X: anti</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sup
       <ul>
         <li>ADJ: terbesar, terakhir, tertinggi, terbaik, terdekat, tertua, terbanyak, terpenting, tersendiri, terakhirnya</li>
@@ -204,9 +245,13 @@ http://septinalarasati.com/morphind/).
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Polarity</a>
+
   <ul>
     <li>Neg
       <ul>
@@ -218,7 +263,11 @@ http://septinalarasati.com/morphind/).
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Verbal Features</h3>
@@ -226,7 +275,12 @@ http://septinalarasati.com/morphind/).
 
 
 
+
+
+
+
 <li><a>Voice</a>
+
   <ul>
     <li>Act
       <ul>
@@ -244,6 +298,9 @@ http://septinalarasati.com/morphind/).
         <li>VERB: menjadi, memiliki, berada, menggunakan, membuat, bermain, mulai, kembali, berasal, mempunyai</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pass
       <ul>
         <li>ADJ: terkenal, terpisah, terbalik, tercinta, terkemuka, ternama, dibakar, didaerah, dijahit, dipecah</li>
@@ -257,12 +314,18 @@ http://septinalarasati.com/morphind/).
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Dem
       <ul>
@@ -274,6 +337,9 @@ http://septinalarasati.com/morphind/).
         <li>VERB: Tersebutlah</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>ADP: Berbagai</li>
@@ -283,6 +349,9 @@ http://septinalarasati.com/morphind/).
         <li>VERB: adanya</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Int
       <ul>
         <li>ADP: dimana, bagaimana, mana, apakah</li>
@@ -294,11 +363,26 @@ http://septinalarasati.com/morphind/).
         <li>VERB: apa</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
         <li>PRON: ia, mereka, kita, dia, kamu, engkau, aku, kami, beliau, saya</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
+    <li>Rel
+      <ul>
+        <li>DET: kemudian, sementara, demikian, jadi, maka, sehubungan</li>
+        <li>PRON: yang, saat, bahwa, jadi, berkat, ketika, yg, agar, Bila, Demikian</li>
+      </ul>
+    </li>
+  </ul>
+
+  <ul>
     <li>Tot
       <ul>
         <li>ADV: semua, segalanya</li>
@@ -307,9 +391,13 @@ http://septinalarasati.com/morphind/).
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>NumType</a>
+
   <ul>
     <li>Card
       <ul>
@@ -320,11 +408,17 @@ http://septinalarasati.com/morphind/).
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
 
+
+
 <li><a>Person</a>
+
   <ul>
     <li>1
       <ul>
@@ -333,37 +427,55 @@ http://septinalarasati.com/morphind/).
         <li>VERB: kukatakan, Kubebaskankah, Kutebuskah, kudengar</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>PRON: kamu, engkau, anda, kalian, kau</li>
         <li>VERB: kaukatakan</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>PRON: ia, mereka, dia, beliau, Nya, merekapun</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Polite</a>
+
   <ul>
     <li>Form
       <ul>
         <li>PRON: beliau, saya, anda</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Infm
       <ul>
         <li>PRON: kamu, engkau, aku</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Number[psor]</a>
+
   <ul>
     <li>Sing
       <ul>
@@ -375,16 +487,20 @@ http://septinalarasati.com/morphind/).
         <li>NOUN: ayahnya, namanya, penduduknya, anaknya, ibunya, keduanya, kalinya, sebagainya, adiknya, harinya</li>
         <li>NUM: pertamanya, satunya, keduanya, keenamnya</li>
         <li>PART: bukannya, membelinya, tercetusnya, terkejutnya, tidaknya</li>
-        <li>PRON: dirinya, semuanya, akau, anak-anakmu, berdirinya, isinya, keseluruhannya</li>
+        <li>PRON: dirinya, semuanya, saatnya, akau, anak-anakmu, berdirinya, isinya, keseluruhannya</li>
         <li>PROPN: Allahku, Ayahnya, Miku, Tuanku, Allahmu, Bintangmu, CPOKU, Cintaku, Dalihnya, Inggrisnya</li>
         <li>SCONJ: akibatnya</li>
         <li>VERB: artinya, masuknya, melakukannya, membuatnya, menjadikannya, terjadinya, berdirinya, ditemukannya, menolongnya, menyebutnya</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Other Features</h3>
+
 
 <li><a>Clusivity</a>
   <ul>
@@ -400,6 +516,7 @@ http://septinalarasati.com/morphind/).
     </li>
   </ul>
 </li>
+
 <li><a>Person[psor]</a>
   <ul>
     <li>1
@@ -431,7 +548,7 @@ http://septinalarasati.com/morphind/).
         <li>NOUN: ayahnya, namanya, penduduknya, anaknya, ibunya, keduanya, kalinya, sebagainya, adiknya, harinya</li>
         <li>NUM: pertamanya, satunya, keduanya, keenamnya</li>
         <li>PART: bukannya, membelinya, tercetusnya, terkejutnya, tidaknya</li>
-        <li>PRON: dirinya, semuanya, berdirinya, isinya, keseluruhannya</li>
+        <li>PRON: dirinya, semuanya, saatnya, berdirinya, isinya, keseluruhannya</li>
         <li>PROPN: Ayahnya, Dalihnya, Inggrisnya, Istrinya, Jadinya, Kabarnya, Matinya, Oktobernya, Penyelenggaranya, Rasanya</li>
         <li>SCONJ: akibatnya</li>
         <li>VERB: artinya, masuknya, melakukannya, membuatnya, menjadikannya, terjadinya, berdirinya, ditemukannya, menolongnya, menyebutnya</li>
@@ -446,6 +563,9 @@ http://septinalarasati.com/morphind/).
 
 <ul>
 <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: adalah, ialah.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: dapat, harus, terpaksa.</li>
 </ul>
 
@@ -455,13 +575,13 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB--NOUN (1597)</li>
+      <li>VERB--NOUN (1594)</li>
       <li>VERB--NOUN-ADP(dalam) (2)</li>
       <li>VERB--NOUN-ADP(di)-ADP(antara) (1)</li>
       <li>VERB--NOUN-ADP(saat) (1)</li>
       <li>VERB--NOUN-ADP(seperti) (1)</li>
       <li>VERB--NOUN-ADP(untuk) (1)</li>
-      <li>VERB--PRON (2061)</li>
+      <li>VERB--PRON (2067)</li>
     </ul>
   </li>
 </ul>
@@ -469,7 +589,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB--NOUN (4370)</li>
+      <li>VERB--NOUN (4369)</li>
       <li>VERB--NOUN-ADP(atas) (2)</li>
       <li>VERB--NOUN-ADP(bahkan) (1)</li>
       <li>VERB--NOUN-ADP(dalam) (1)</li>
@@ -489,7 +609,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB--NOUN-ADP(terhadap) (1)</li>
       <li>VERB--NOUN-ADP(untuk) (3)</li>
       <li>VERB--NOUN-ADP(yaitu) (1)</li>
-      <li>VERB--PRON (326)</li>
+      <li>VERB--PRON (327)</li>
     </ul>
   </li>
 </ul>

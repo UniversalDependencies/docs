@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
 The following people have contributed to making this treebank part of UD: Jenna Kanerva, Filip Ginter, Stina Ojala, Anna Missilä.
 
-Repository: [UD_Finnish-PUD](https://github.com/UniversalDependencies/UD_Finnish-PUD)
+Repository: [UD_Finnish-PUD](https://github.com/UniversalDependencies/UD_Finnish-PUD)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_pud)
 
 License: CC BY-SA 4.0
 
@@ -31,11 +32,11 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
-| XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Lemmas | annotated manually, natively in UD style |
+| UPOS | annotated manually, natively in UD style |
+| XPOS | not available |
+| Features | annotated manually, natively in UD style |
+| Relations | annotated manually, natively in UD style |
 
 ## Description
 
@@ -53,15 +54,28 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
 
 ## Relations
 
-[_](fi_pud-dep-_.html) – [acl](fi_pud-dep-acl.html) – [acl:relcl](fi_pud-dep-acl-relcl.html) – [advcl](fi_pud-dep-advcl.html) – [advmod](fi_pud-dep-advmod.html) – [amod](fi_pud-dep-amod.html) – [appos](fi_pud-dep-appos.html) – [aux](fi_pud-dep-aux.html) – [aux:pass](fi_pud-dep-aux-pass.html) – [case](fi_pud-dep-case.html) – [cc](fi_pud-dep-cc.html) – [cc:preconj](fi_pud-dep-cc-preconj.html) – [ccomp](fi_pud-dep-ccomp.html) – [compound](fi_pud-dep-compound.html) – [compound:nn](fi_pud-dep-compound-nn.html) – [compound:prt](fi_pud-dep-compound-prt.html) – [conj](fi_pud-dep-conj.html) – [cop](fi_pud-dep-cop.html) – [cop:own](fi_pud-dep-cop-own.html) – [csubj](fi_pud-dep-csubj.html) – [csubj:cop](fi_pud-dep-csubj-cop.html) – [det](fi_pud-dep-det.html) – [discourse](fi_pud-dep-discourse.html) – [fixed](fi_pud-dep-fixed.html) – [flat](fi_pud-dep-flat.html) – [flat:foreign](fi_pud-dep-flat-foreign.html) – [flat:name](fi_pud-dep-flat-name.html) – [mark](fi_pud-dep-mark.html) – [nmod](fi_pud-dep-nmod.html) – [nmod:gobj](fi_pud-dep-nmod-gobj.html) – [nmod:gsubj](fi_pud-dep-nmod-gsubj.html) – [nmod:poss](fi_pud-dep-nmod-poss.html) – [nsubj](fi_pud-dep-nsubj.html) – [nsubj:cop](fi_pud-dep-nsubj-cop.html) – [nummod](fi_pud-dep-nummod.html) – [obj](fi_pud-dep-obj.html) – [obl](fi_pud-dep-obl.html) – [orphan](fi_pud-dep-orphan.html) – [parataxis](fi_pud-dep-parataxis.html) – [punct](fi_pud-dep-punct.html) – [root](fi_pud-dep-root.html) – [vocative](fi_pud-dep-vocative.html) – [xcomp](fi_pud-dep-xcomp.html) – [xcomp:ds](fi_pud-dep-xcomp-ds.html)
+[acl](fi_pud-dep-acl.html) – [acl:relcl](fi_pud-dep-acl-relcl.html) – [advcl](fi_pud-dep-advcl.html) – [advmod](fi_pud-dep-advmod.html) – [amod](fi_pud-dep-amod.html) – [appos](fi_pud-dep-appos.html) – [aux](fi_pud-dep-aux.html) – [aux:pass](fi_pud-dep-aux-pass.html) – [case](fi_pud-dep-case.html) – [cc](fi_pud-dep-cc.html) – [cc:preconj](fi_pud-dep-cc-preconj.html) – [ccomp](fi_pud-dep-ccomp.html) – [compound](fi_pud-dep-compound.html) – [compound:nn](fi_pud-dep-compound-nn.html) – [compound:prt](fi_pud-dep-compound-prt.html) – [conj](fi_pud-dep-conj.html) – [cop](fi_pud-dep-cop.html) – [cop:own](fi_pud-dep-cop-own.html) – [csubj](fi_pud-dep-csubj.html) – [csubj:cop](fi_pud-dep-csubj-cop.html) – [det](fi_pud-dep-det.html) – [discourse](fi_pud-dep-discourse.html) – [fixed](fi_pud-dep-fixed.html) – [flat](fi_pud-dep-flat.html) – [flat:foreign](fi_pud-dep-flat-foreign.html) – [flat:name](fi_pud-dep-flat-name.html) – [mark](fi_pud-dep-mark.html) – [nmod](fi_pud-dep-nmod.html) – [nmod:gobj](fi_pud-dep-nmod-gobj.html) – [nmod:gsubj](fi_pud-dep-nmod-gsubj.html) – [nmod:poss](fi_pud-dep-nmod-poss.html) – [nsubj](fi_pud-dep-nsubj.html) – [nsubj:cop](fi_pud-dep-nsubj-cop.html) – [nummod](fi_pud-dep-nummod.html) – [obj](fi_pud-dep-obj.html) – [obl](fi_pud-dep-obl.html) – [orphan](fi_pud-dep-orphan.html) – [parataxis](fi_pud-dep-parataxis.html) – [punct](fi_pud-dep-punct.html) – [root](fi_pud-dep-root.html) – [vocative](fi_pud-dep-vocative.html) – [xcomp](fi_pud-dep-xcomp.html) – [xcomp:ds](fi_pud-dep-xcomp-ds.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
-<li>This corpus contains 1000 sentences and 15812 tokens.</li>
+<li>This corpus contains 1000 sentences and 15808 tokens.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 2351 tokens (15%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 12 types of words with spaces. Examples: 10 000, 100 000, 12 000, 15 000, 15 001, 16 500, 168 000, 19 999, 25 000, 330 000, 35 000, 600 000</li>
-<li>This corpus contains 290 types of words that contain both letters and punctuation. Examples: eKr., %:lla, -dynastia, -dynastian, III:n, -järjestöstä, -liittouman, -puisto, -vuotiaista, -yliopiston, 1960-luvulta, 1990-luvulla, 60-luvun, BBC:lle, DNA:n, Etelä-Afrikka, Ison-Britannian, Isossa-Britanniassa, Itä-Afrikan, Papua-Uudessa-Guineassa, Pohjois-Carolina, St., USA:n, YK:n, golf-turnaukseen, jKr., %:n, -akatemiaan, -albumin, -alueen, -alueet, -antologia, -dynastiaan, -elokuvaa, -elokuvassa, -hahmoiksi, -hinnalla, -imitaattori, -instituuttiin, -joella, -joen, -järjestön, -järven, -kadulla, -kanavalla, -keskuksen, -keskustelupalstan, -kirjasta, -kirjeet, -kirjoja</li>
+</ul>
+
+<ul>
+<li>This corpus contains 290 types of words that contain both letters and punctuation. Examples: eKr., %:lla, -dynastia, -dynastian, III:n, -järjestöstä, -liittouman, -puisto, -vuotiaista, -yliopiston, 1960-luvulta, 1990-luvulla, 60-luvun, BBC:lle, DNA:n, Etelä-Afrikka, Ison-Britannian, Isossa-Britanniassa, Itä-Afrikan, P​a​p​u​a​-​U​u​d​e​s​s​a​-​G​u​i​n​e​a​s​s​a, Pohjois-Carolina, St., USA:n, YK:n, golf-turnaukseen, jKr., %:n, -akatemiaan, -albumin, -alueen, -alueet, -antologia, -dynastiaan, -elokuvaa, -elokuvassa, -hahmoiksi, -hinnalla, -imitaattori, -instituuttiin, -joella, -joen, -järjestön, -järven, -kadulla, -kanavalla, -keskuksen, -keskustelupalstan, -kirjasta, -kirjeet, -kirjoja</li>
+</ul>
+
+<ul>
 </ul>
 
 <h2>Morphology</h2>
@@ -71,6 +85,9 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
 <ul>
 <li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: DET, PART</li>
+</ul>
+
+<ul>
 </ul>
 
 <ul>
@@ -93,20 +110,28 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
 </ul>
 
 <ul>
-<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Fin
   <ul>
     <li>AUX: on, oli, ei, ovat, ole, voi, olivat, eivät, olisi, voisi</li>
-    <li>VERB: sanoi, tulee, tuli, sanoo, alkoi, kertoi, eikä, johti, sai, syntyi</li>
+    <li>VERB: sanoi, tulee, tuli, sanoo, kertoi, alkoi, eikä, johti, sai, syntyi</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Inf
   <ul>
     <li>AUX: olla, ollessa, Saattaa, Voidakseen, olemaan, ollakin</li>
     <li>VERB: tehdä, liittyen, lukien, olemassa, johtaa, johtuen, käyttämällä, nähdä, palata, saadakseen</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>AUX: ollut, olleet, olevan, oltu, olevansa, aikonut, olleen, pitänyt, saattaneet, täytynyt</li>
@@ -114,14 +139,16 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
 
 
+
+
+
 <li><a>Number</a>
+
   <ul>
     <li>Plur
       <ul>
@@ -136,6 +163,9 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
         <li>VERB-Part: olevat, kasvaneista, liittyvissä, olleet, saaneet, toteuttaneet, Konsultoidut, altistuneita, aseistettuja, asuttaneet</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: suurin, uuden, ensimmäinen, ensimmäisen, suuri, ensimmäistä, pienen, korkean, mahdollista, poliittisen</li>
@@ -148,15 +178,19 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
         <li>PROPN: of, Ranskan, Australian, Kiinan, Hong, Venäjän, de, the, Euroopan, Britannian</li>
         <li>PUNCT: ., ”</li>
         <li>SYM: %:lla, %:n</li>
-        <li>VERB-Fin: sanoi, tulee, tuli, sanoo, alkoi, kertoi, eikä, johti, sai, syntyi</li>
+        <li>VERB-Fin: sanoi, tulee, tuli, sanoo, kertoi, alkoi, eikä, johti, sai, syntyi</li>
         <li>VERB-Inf: tehdä, liittyen, lukien, olemassa, johtaa, johtuen, käyttämällä, nähdä, palata, saadakseen</li>
         <li>VERB-Part: tullut, käytetty, oleva, saanut, tehty, halunnut, olevaa, päättänyt, tehnyt, alkanut</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Abe
       <ul>
@@ -164,6 +198,9 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
         <li>VERB-Inf: pysähtymättä, välittämättä</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Abl
       <ul>
         <li>ADJ: suurelta, epäasialliselta, erilaiselta, todelliselta, tyyneltä, varhaiselta, yllättävältä</li>
@@ -173,11 +210,17 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
         <li>VERB-Part: osallistuneilta, räätälöidyltä</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Acc
       <ul>
         <li>PRON: hänet, meidät</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ade
       <ul>
         <li>ADJ: suurimmalla, kansallisella, Jälkiklassisella, Suuremmilla, Toisella, Tyynellä, Viidennellä, institutionaalisella, kannettavalla, kansainvälisillä</li>
@@ -190,6 +233,9 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
         <li>VERB-Part: keskittyneillä, kovettamalla, liittoutuneilla, painamalla</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>All
       <ul>
         <li>ADJ: alaville, amerikkalaisille, itäiselle, kansainväliselle, kolmannelle, kuiville, laajemmalle, meksikolaisille, poliittisille, rikkaille</li>
@@ -199,12 +245,18 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
         <li>VERB-Part: kerääntyneelle, kohdistetuille, käytettäville, sidotuille, sijaitsevalle, valituille</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Com
       <ul>
         <li>NOUN: liittolaisineen, minareetteineen, vaimoineen</li>
         <li>NUM: kaksine</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ela
       <ul>
         <li>ADJ: omasta, tarkasta, Demografisesta, Rutiininomaisesta, aiemmasta, alituisesta, ankarista, avoimesta, espanjalaisista, etnisistä</li>
@@ -216,6 +268,9 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
         <li>VERB-Part: kasvaneista, jaetusta, johtavasta, julkaistusta, jääneistä, kestäneestä, kukoistavista, käydystä, liittyvästä, lisääntyvistä</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ess
       <ul>
         <li>ADJ: ensimmäisenä, seuraavana, vaatimattomana, Innokkaana, Kolmantena, Myöhempinä, alaisena, alastomana, alueellisena, avoimena</li>
@@ -226,6 +281,9 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
         <li>VERB-Part: katsottuna, edustettuina, johtamina, kiinnitettynä, lämmittävänä, muotoiltuna, sanottuna, vaikuttavana, verrattuna, vierailevana</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Gen
       <ul>
         <li>ADJ: uuden, ensimmäisen, pienen, korkean, poliittisen, suuren, suurimman, uusien, viimeisen, Yhdistyneen</li>
@@ -238,6 +296,9 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
         <li>VERB-Part: olevan, sijaitsevan, tulleen, ympäröivän, Luodun, alkavan, edustavan, epäiltyjen, erottavan, esittämien</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ill
       <ul>
         <li>ADJ: useisiin, kansallisiin, pieniin, Kolmanteen, Thaimaalaisiin, Tämänhetkisiin, aseelliseen, digitaaliseen, epätavallisempiin, epätavanomaisiin</li>
@@ -250,6 +311,9 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
         <li>VERB-Part: havaitsemaan, julkaistuun, kasvavaan, kiemurtelevaan, linnoitettuun, lisääntyneeseen, mainittuun, olevaan, toimimaan, tukeviin</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ine
       <ul>
         <li>ADJ: kansainvälisessä, korkeimmassa, parhaassa, suuressa, Alemmassa, Kaukaisimmassa, Monikansallisessa, Ruotsalaisessa, Tammikuullisessa, Toisessa</li>
@@ -262,6 +326,9 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
         <li>VERB-Part: allekirjoitetussa, liittyvissä, hallittavissa, käytettävissä, käytettävissään, lisääntyvässä, löydettävissä, pullistavassa, sijaitsevassa, sijaitsevissa</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ins
       <ul>
         <li>ADJ: avoimin, kevyin, selkein</li>
@@ -269,6 +336,9 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
         <li>VERB-Inf: liittyen, lukien, johtuen, muodostaen, Ohittaen, Poiketen, antaen, ehdottaen, helpottaen, jättäen</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Nom
       <ul>
         <li>ADJ: suurin, ensimmäinen, suuri, suuret, viimeinen, Jälkimmäinen, kansallinen, kreikkalaiset, merkittävä, omat</li>
@@ -281,6 +351,9 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
         <li>VERB-Part: tullut, käytetty, oleva, olevat, saanut, tehty, halunnut, ollut, päättänyt, tehnyt</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Par
       <ul>
         <li>ADJ: uusia, useita, ensimmäistä, lukuisia, erilaisia, mahdollista, suuria, uutta, mahtavaa, aikaista</li>
@@ -291,6 +364,9 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
         <li>VERB-Part: olevaa, Palattuaan, Päätettyään, altistuneita, aseistettuja, asuttuaan, asuvaa, ehdotettuja, estettyä, hermostunutta</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Tra
       <ul>
         <li>ADJ: selväksi, merkittäväksi, valmiiksi, aktiiviseksi, harmonisemmaksi, hämmentyneiksi, itsenäiseksi, järkevämmäksi, kansalliseksi, lyhyeksi</li>
@@ -302,13 +378,20 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
 
 
 
 <h3>Degree and Polarity</h3>
 
+
 <li><a>Degree</a>
+
   <ul>
     <li>Cmp
       <ul>
@@ -316,6 +399,9 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
         <li>ADV: useammin, vahvemmin</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>ADJ: uuden, suuri, uusia, useita, lukuisia, pienen, erilaisia, korkean, mahdollista, poliittisen</li>
@@ -324,6 +410,9 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
         <li>VERB-Part: tullut, käytetty, oleva, olevat, saanut, tehty, halunnut, olevaa, ollut, päättänyt</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sup
       <ul>
         <li>ADJ: suurin, suurimman, suurimmalla, tunnetuin, viimeisin, korkeimman, korkeimmassa, korkein, parhaassa, Kaukaisimmassa</li>
@@ -332,9 +421,13 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Polarity</a>
+
   <ul>
     <li>Neg
       <ul>
@@ -343,13 +436,20 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Verbal Features</h3>
 
 
+
+
 <li><a>Mood</a>
+
   <ul>
     <li>Cnd
       <ul>
@@ -357,101 +457,146 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
         <li>VERB-Fin: haluaisi, antautuisi, auttaisi, eroaisi, haastateltaisiin, haluaisin, hyökkäisi, juoksisi, kuluisi, kuolisi</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Imp
       <ul>
         <li>VERB-Fin: Sano, kiertele, räjähdä, vaikuta</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>AUX-Fin: on, oli, ovat, ole, voi, olivat, täytyy, voivat, olemme, olen</li>
-        <li>VERB-Fin: sanoi, tulee, tuli, sanoo, alkoi, kertoi, johti, sai, syntyi, auttaa</li>
+        <li>VERB-Fin: sanoi, tulee, tuli, sanoo, kertoi, alkoi, johti, sai, syntyi, auttaa</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
   </ul>
 </li>
 
 <li><a>Tense</a>
+
   <ul>
     <li>Past
       <ul>
         <li>AUX-Fin: oli, olivat, oliko, olin, täytyi, olivatkaan, piti, voikin, voitiin</li>
-        <li>VERB-Fin: sanoi, tuli, alkoi, kertoi, johti, sai, syntyi, teki, rakennettiin, käytettiin</li>
+        <li>VERB-Fin: sanoi, tuli, kertoi, alkoi, johti, sai, syntyi, teki, rakennettiin, käytettiin</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pres
       <ul>
         <li>AUX-Fin: on, ovat, ole, voi, täytyy, voivat, olemme, olen, onko, voidaan</li>
-        <li>VERB-Fin: tulee, sanoo, auttaa, pidetään, toimii, kuuluvat, pitää, tunnetaan, alkaa, haluaa</li>
+        <li>VERB-Fin: tulee, sanoo, auttaa, pidetään, kuuluvat, pitää, toimii, alkaa, haluaa, kuuluu</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
   </ul>
 </li>
 
 <li><a>Voice</a>
+
   <ul>
     <li>Act
       <ul>
         <li>AUX-Fin: on, oli, ei, ovat, olivat, voi, eivät, voisi, olisi, täytyy</li>
         <li>AUX-Inf: olla, ollessa, Saattaa, Voidakseen, olemaan, ollakin</li>
         <li>AUX-Part: ollut, olleet, olevan, olevansa, aikonut, olleen, pitänyt, saattaneet, täytynyt, voineet</li>
-        <li>VERB: sanoi, tulee, tuli, sanoo, alkoi, kertoi, auttaa, eikä, johti, sai</li>
-        <li>VERB-Fin: sanoi, tulee, tuli, sanoo, alkoi, kertoi, eikä, johti, sai, syntyi</li>
+        <li>VERB: sanoi, tulee, tuli, sanoo, kertoi, alkoi, auttaa, eikä, johti, sai</li>
+        <li>VERB-Fin: sanoi, tulee, tuli, sanoo, kertoi, alkoi, eikä, johti, sai, syntyi</li>
         <li>VERB-Inf: tehdä, liittyen, lukien, olemassa, johtaa, johtuen, käyttämällä, nähdä, palata, saadakseen</li>
         <li>VERB-Part: tullut, oleva, olevat, saanut, halunnut, olevaa, päättänyt, tehnyt, alkanut, havaitsemaan</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pass
       <ul>
         <li>AUX-Fin: voidaan, pidetään, voitiin</li>
         <li>AUX-Part: oltu, ollut</li>
-        <li>VERB-Fin: rakennettiin, käytettiin, pidetään, julkaistiin, perustettiin, tunnetaan, julistettiin, kerrottiin, sanotaan, annettiin</li>
+        <li>VERB-Fin: rakennettiin, käytettiin, pidetään, julkaistiin, julistettiin, kerrottiin, perustettiin, sanotaan, tunnetaan, annettiin</li>
         <li>VERB-Inf: matkustettaessa, yritettäessä</li>
         <li>VERB-Part: käytetty, tehty, allekirjoitetussa, havaittu, hyväksytty, ilmoitettu, julkaistu, katsottuna, perustettu, sovittu</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Dem
       <ul>
         <li>PRON: sen, se, tämä, sitä, tällä, siitä, ne, tämän, niiden, nämä</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>PRON: kaikki, monet, samaan, jotkut, monta, muuta, jokainen, joku, muiden, muut</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Int
       <ul>
         <li>PRON: mitä, kuka, Mitkä, missä, Keitä, Mistä, kenelle, kumpi, mikä, millä</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
         <li>PRON: hän, hänen, he, heidän, hänet, häntä, hänelle, heillä, meidän, hänellä</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rcp
       <ul>
         <li>PRON: toinen, toisiaan, toiseen, toisen, toisensa, toisesta, toiset, toista, toisten</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rel
       <ul>
         <li>PRON: joka, jotka, jossa, jonka, jota, joissa, joita, jolla, mikä, joiden</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>NumType</a>
+
   <ul>
     <li>Card
       <ul>
@@ -460,6 +605,9 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
         <li>PUNCT: -</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ord
       <ul>
         <li>ADJ: ensimmäinen, ensimmäisen, 1., 30., I, ensimmäistä, 10., 21., 3., 31.</li>
@@ -468,10 +616,15 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Reflex</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -479,9 +632,13 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Person</a>
+
   <ul>
     <li>0
       <ul>
@@ -489,6 +646,9 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
         <li>VERB-Fin: Vaikutti, haluaa, hämärtää, kävi, pääsee, saa, tulee, täytyy</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>1
       <ul>
         <li>AUX-Fin: en, olemme, emme, olen, olin, Voin, voimme</li>
@@ -496,31 +656,46 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
         <li>VERB-Fin: Luulen, Arvioimme, Halusin, Huomasin, Joudun, Julistan, Katselin, Kokeilin, Kysyin, Käyn</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>PRON: sinä, sinua, teidän, teitä</li>
         <li>VERB-Fin: Kiisteletkö, Päädyt, Sano, huomasitteko, kiertele, räjähdä, vaikuta</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>AUX-Fin: on, oli, ei, ovat, olivat, voi, eivät, voisi, olisi, täytyy</li>
         <li>PRON: hän, hänen, he, heidän, hänet, häntä, hänelle, heillä, hänellä, hänestä</li>
-        <li>VERB-Fin: sanoi, tulee, tuli, sanoo, alkoi, kertoi, eikä, johti, sai, syntyi</li>
+        <li>VERB-Fin: sanoi, tulee, tuli, sanoo, kertoi, alkoi, eikä, johti, sai, syntyi</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
   </ul>
 </li>
 
 
 
+
+
 <li><a>Number[psor]</a>
+
   <ul>
     <li>Plur
       <ul>
         <li>NOUN: Työmme, dieselimme, elämiemme, erimielisyytemme, hartioillanne, maahamme, matkapuhelimemme, meremme, pakkomielteeseemme</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADV: ympärilläni</li>
@@ -530,9 +705,13 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Other Features</h3>
+
 
 <li><a>Abbr</a>
   <ul>
@@ -544,6 +723,7 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
     </li>
   </ul>
 </li>
+
 <li><a>AdpType</a>
   <ul>
     <li>Post
@@ -558,6 +738,7 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
     </li>
   </ul>
 </li>
+
 <li><a>Clitic</a>
   <ul>
     <li>Ka
@@ -597,6 +778,7 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
     </li>
   </ul>
 </li>
+
 <li><a>Connegative</a>
   <ul>
     <li>Yes
@@ -607,6 +789,7 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
     </li>
   </ul>
 </li>
+
 <li><a>Derivation</a>
   <ul>
     <li>Inen
@@ -622,7 +805,7 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
     </li>
     <li>Inen,Vs
       <ul>
-        <li>NOUN: kokonaisuutena, avarakatseisuutta, heroiiniriippuvuutensa, julkisuudessa, löyhämoraalisuutenaan, ominaisuus, piioksidipitoisuuden, salaisuutensa, samankaltaisuuksia, suolapitoisuuden</li>
+        <li>NOUN: kokonaisuutena, avarakatseisuutta, h​e​r​o​i​i​n​i​r​i​i​p​p​u​v​u​u​t​e​n​s​a, julkisuudessa, l​ö​y​h​ä​m​o​r​a​a​l​i​s​u​u​t​e​n​a​a​n, ominaisuus, piioksidipitoisuuden, salaisuutensa, samankaltaisuuksia, suolapitoisuuden</li>
       </ul>
     </li>
     <li>Ja
@@ -660,7 +843,7 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
     </li>
     <li>Llinen,Vs
       <ul>
-        <li>NOUN: mahdollisuutta, mahdollisuus, teollisuuden, Elokuvateollisuus, julkaisuteollisuudesta, kaivosteollisuudesta, kansallisuuksia, kaunokirjallisuuden, kemikaaliteollisuuden, kirjallisuudesta</li>
+        <li>NOUN: mahdollisuutta, mahdollisuus, teollisuuden, Elokuvateollisuus, j​u​l​k​a​i​s​u​t​e​o​l​l​i​s​u​u​d​e​s​t​a, kaivosteollisuudesta, kansallisuuksia, kaunokirjallisuuden, k​e​m​i​k​a​a​l​i​t​e​o​l​l​i​s​u​u​d​e​n, kirjallisuudesta</li>
       </ul>
     </li>
     <li>Minen
@@ -700,16 +883,17 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
     </li>
     <li>U
       <ul>
-        <li>NOUN: avulla, haastattelussa, taistelussa, kasvua, laulun, loppujen, tappelut, -laulustaan, -tuoksu, Facebook-julkaisuistaan</li>
+        <li>NOUN: avulla, haastattelussa, taistelussa, kasvua, laulun, loppujen, tappelut, -laulustaan, -tuoksu, F​a​c​e​b​o​o​k​-​j​u​l​k​a​i​s​u​i​s​t​a​a​n</li>
       </ul>
     </li>
     <li>Vs
       <ul>
-        <li>NOUN: vanhuuteen, -palkintotilaisuudessa, Kuuluisuudet, Laajuudeltaan, Osuus, avaruuteen, ehdokkuutensa, ehdokkuutta, epämukavuutta, eroavaisuuksia</li>
+        <li>NOUN: vanhuuteen, -​p​a​l​k​i​n​t​o​t​i​l​a​i​s​u​u​d​e​s​s​a, Kuuluisuudet, Laajuudeltaan, Osuus, avaruuteen, ehdokkuutensa, ehdokkuutta, epämukavuutta, eroavaisuuksia</li>
       </ul>
     </li>
   </ul>
 </li>
+
 <li><a>Foreign</a>
   <ul>
     <li>Yes
@@ -720,6 +904,7 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
     </li>
   </ul>
 </li>
+
 <li><a>InfForm</a>
   <ul>
     <li>1
@@ -742,6 +927,7 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
     </li>
   </ul>
 </li>
+
 <li><a>PartForm</a>
   <ul>
     <li>Agt
@@ -763,6 +949,7 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
     </li>
   </ul>
 </li>
+
 <li><a>Person[psor]</a>
   <ul>
     <li>1
@@ -794,6 +981,7 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
     </li>
   </ul>
 </li>
+
 <li><a>Style</a>
   <ul>
     <li>Coll
@@ -810,6 +998,9 @@ If you want to collaborate, please contact [jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&
 
 <ul>
 <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: olla.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 8 lemmas as auxiliaries (<a>aux</a>). Examples: olla, ei, voida, täytyä, pitää, saattaa, aikoa, täytyy.</li>
 <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: olla, voida.</li>
 </ul>

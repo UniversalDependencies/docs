@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of .
 
-188 nodes (0%) are attached to their parents as `csubj:pass`.
+213 nodes (0%) are attached to their parents as `csubj:pass`.
 
-156 instances of `csubj:pass` (83%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.27127659574468.
+173 instances of `csubj:pass` (81%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.29107981220657.
 
-The following 9 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (153; 81% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (9; 5% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (9; 5% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (6; 3% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (5; 3% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (2; 1% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-X.html">X</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (167; 78% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (14; 7% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (9; 4% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (9; 4% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (5; 2% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (5; 2% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-X.html">X</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -36,36 +36,36 @@ The following 9 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 10 csubj:pass	color:blue
-1	et	et	CCONJ	C-	_	2	cc	_	ref=LUKE_9.18
-2	factum	facio	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=LUKE_9.18
-3	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	aux:pass	_	ref=LUKE_9.18
-4	cum	cum	SCONJ	G-	_	7	mark	_	ref=LUKE_9.18
-5	solus	solus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	7	advmod	_	ref=LUKE_9.18
-6	esset	sum	AUX	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	ref=LUKE_9.18
-7	orans	oro	VERB	V-	Case=Nom|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	advcl	_	ref=LUKE_9.18
-8	erant	sum	AUX	V-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	cop	_	ref=LUKE_9.18
-9	cum	cum	ADP	R-	_	10	case	_	ref=LUKE_9.18
-10	illo	ille	ADJ	Pd	Case=Abl|Gender=Masc|Number=Sing	2	csubj:pass	_	ref=LUKE_9.18
-11	et	et	ADV	Df	_	12	discourse	_	ref=LUKE_9.18
-12	discipuli	discipulus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	ref=LUKE_9.18
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 csubj:pass	color:blue
+1	quibus	qui	PRON	Pr	Case=Abl|Number=Plur|PronType=Rel	2	det	_	ref=1.25
+2	rebus	res	NOUN	Nb	Case=Abl|Gender=Fem|Number=Plur	3	obl	_	ref=1.25
+3	effectum	efficio	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=1.25
+4	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux:pass	_	ref=1.25
+5	ut	ut	SCONJ	G-	_	6	mark	_	ref=1.25
+6	infinita	infinitus	ADJ	A-	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	3	csubj:pass	_	ref=1.25
+7	pecuniae	pecunia	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	ref=1.25
+8	cupiditas	cupiditas	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	ref=1.25
+9	esset	sum	AUX	V-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	ref=1.25
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 csubj:pass	color:blue
-1	scriptum	scribo	VERB	V-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=LUKE_4.4
-2	est	sum	AUX	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux:pass	_	ref=LUKE_4.4
-3	quia	quia	SCONJ	G-	_	1	csubj:pass	_	ref=LUKE_4.4
+# visual-style 3 5 csubj:pass	color:blue
+1	timuerunt	timeo	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=ACTS_16.38
+2	que	que	CCONJ	C-	_	1	cc	_	ref=ACTS_16.38
+3	audito	audio	VERB	V-	Aspect=Perf|Case=Abl|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	advcl	_	ref=ACTS_16.38
+4	quod	quod	SCONJ	G-	_	5	mark	_	ref=ACTS_16.38
+5	Romani	Romanus	NOUN	Nb	Case=Nom|Gender=Masc|Number=Plur	3	csubj:pass	_	ref=ACTS_16.38
+6	essent	sum	AUX	V-	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	ref=ACTS_16.38
 
 ~~~
 

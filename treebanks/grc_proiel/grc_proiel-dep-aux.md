@@ -43,7 +43,7 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 2	ποιεῖ	ποιέω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=REV_13.16
 3	πάντας	πᾶς	DET	Px	Case=Acc|Gender=Masc|Number=Plur	5	det	_	ref=REV_13.16
 4	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	5	det	_	ref=REV_13.16
-5	μικροὺς	μικρός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	2	obj:dir	_	ref=REV_13.16
+5	μικροὺς	μικρός	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	2	obj	_	ref=REV_13.16
 6	καὶ	καί	CCONJ	C-	_	5	cc	_	ref=REV_13.16
 7	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	8	det	_	ref=REV_13.16
 8	μεγάλους	μέγας	ADJ	A-	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	5	conj	_	ref=REV_13.16
@@ -62,7 +62,7 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 21	ἵνα	ἵνα	SCONJ	G-	_	22	mark	_	ref=REV_13.16
 22	δῶσιν	δίδωμι	VERB	V-	Aspect=Perf|Mood=Sub|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	ref=REV_13.16
 23	αὐτοῖς	αὐτός	PRON	Pp	Case=Dat|Gender=Masc|Number=Plur|Person=3|PronType=Prs	22	iobj	_	ref=REV_13.16
-24	χάραγμα	χάραγμα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	22	obj:dir	_	ref=REV_13.16
+24	χάραγμα	χάραγμα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	22	obj	_	ref=REV_13.16
 25	ἐπὶ	ἐπί	ADP	R-	_	27	case	_	ref=REV_13.16
 26	τῆς	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	27	det	_	ref=REV_13.16
 27	χειρὸς	χείρ	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	22	obl	_	ref=REV_13.16
@@ -86,7 +86,7 @@ The following 4 pairs of parts of speech are connected with `aux`: <tt><a href="
 45	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	46	det	_	ref=REV_13.17
 46	ἔχων	ἔχω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	43	nsubj	_	ref=REV_13.17
 47	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	48	det	_	ref=REV_13.17
-48	χάραγμα	χάραγμα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	46	obj:dir	_	ref=REV_13.17
+48	χάραγμα	χάραγμα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	46	obj	_	ref=REV_13.17
 49	τὸ	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	50	det	_	ref=REV_13.17
 50	ὄνομα	ὄνομα	NOUN	Nb	Case=Acc|Gender=Neut|Number=Sing	48	appos	_	ref=REV_13.17
 51	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Neut|Number=Sing|PronType=Dem	52	det	_	ref=REV_13.17

@@ -17,29 +17,28 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 3 aux:pass	color:blue
-1	Vén	vir	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
-2	de	de	ADP	P	AdpType=Prep	3	mark	_	_
-3	ser	ser	AUX	V0f000	VerbForm=Inf	4	aux:pass	_	_
-4	elixido	elixir	VERB	V0p0ms	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
-5	secretario	secretario	NOUN	Scms	Gender=Masc|Number=Sing	4	xcomp	_	_
-6	xeral	xeral	ADJ	A0ms	Gender=Masc|Number=Sing	5	amod	_	_
-7	de	de	ADP	P	AdpType=Prep	10	case	_	_
-8	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
-9	novo	novo	ADJ	A0ms	Gender=Masc|Number=Sing	10	amod	_	_
-10	Sindicato	sindicato	PROPN	Spms	Gender=Masc|Number=Sing	5	nmod	_	_
-11	de	de	ADP	P	AdpType=Prep	12	case	_	_
-12	Xornalistas	xornalista	NOUN	Scmp	Gender=Masc|Number=Plur	10	nmod	_	_
-13	de	de	ADP	P	AdpType=Prep	14	case	_	_
-14	Galicia	galicia	PROPN	Spms	Gender=Masc|Number=Sing	12	nmod	_	_
-15	(	(	PUNCT	Q(	_	16	punct	_	SpaceAfter=No
-16	SXG	SXG	PROPN	Zg00	_	10	appos	_	SpaceAfter=No
-17	)	)	PUNCT	Q)	_	16	punct	_	SpaceAfter=No
-18	.	.	PUNCT	Q.	_	4	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 aux:pass	color:blue
+1	Hai	haber	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	moitas	moito	DET	Idfp	Gender=Fem|Number=Plur|PronType=Ind	3	det	_	_
+3	obras	obra	NOUN	Scfp	Gender=Fem|Number=Plur	1	obj	_	_
+4	que	que	PRON	Tnfp	Gender=Fem|Number=Plur|PronType=Rel	8	nsubj:pass	_	_
+5	aínda	aínda	ADV	Wn	_	8	advmod	_	_
+6	non	non	ADV	Wn	Polarity=Neg	8	advmod	_	_
+7	foron	ser	AUX	Vei30p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	aux:pass	_	_
+8	tocadas	tocar	VERB	V0p0fp	Gender=Fem|Number=Plur|VerbForm=Part	3	acl	_	SpaceAfter=No
+9	,	,	PUNCT	Q,	_	15	punct	_	_
+10	que	que	PRON	Tnfp	Gender=Fem|Number=Plur|PronType=Rel	16	obj	_	_
+11	non	non	ADV	Wm	Polarity=Neg	12	advmod	_	_
+12	todo	todo	DET	Idms	Gender=Masc|Number=Sing|PronType=Ind	14	det	_	_
+13	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	mundo	mundo	NOUN	Scms	Gender=Masc|Number=Sing	15	nsubj	_	_
+15	quere	querer	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
+16	facer	facer	VERB	V0f000	VerbForm=Inf	15	xcomp	_	SpaceAfter=No
+17	.	.	PUNCT	Q.	_	16	punct	_	_
 
 ~~~
 
@@ -51,7 +50,7 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 # visual-style 5	fgColor:white
 # visual-style 5 4 aux:pass	color:blue
 1	Contos	contos	PROPN	Sp00	_	5	nsubj:pass	_	_
-2	por	por	ADJ	P	AdpType=Prep	3	case	_	_
+2	por	por	ADP	P	AdpType=Prep	3	case	_	_
 3	palabras	palabra	NOUN	Scfp	Gender=Fem|Number=Plur	1	nmod	_	_
 4	foi	ser	AUX	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
 5	merecente	merecente	ADJ	A0ms	Gender=Masc|Number=Sing	0	root	_	_

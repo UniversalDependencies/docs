@@ -6,16 +6,16 @@ udver: '2'
 
 ## Treebank Statistics: UD_Ancient_Greek-PROIEL: POS Tags: `NUM`
 
-There are 70 `NUM` lemmas (1%), 165 `NUM` types (1%) and 1627 `NUM` tokens (1%).
+There are 70 `NUM` lemmas (1%), 165 `NUM` types (0%) and 1636 `NUM` tokens (1%).
 Out of 14 observed tags, the rank of `NUM` is: 6 in number of lemmas, 8 in number of types and 12 in number of tokens.
 
 The 10 most frequent `NUM` lemmas: <em>εἷς, δύο, ἑπτά, τρεῖς, δώδεκα, τέσσαρες, πέντε, δέκα, ἑκατόν, εἴκοσι</em>
 
-The 10 most frequent `NUM` types:  <em>δύο, εἷς, ἑπτὰ, δώδεκα, πέντε, δέκα, ἓν, τρεῖς, ἕνα, μίαν</em>
+The 10 most frequent `NUM` types:  <em>δύο, εἷς, ἑπτὰ, δώδεκα, πέντε, δέκα, τρεῖς, ἓν, ἕνα, μίαν</em>
 
-The 10 most frequent ambiguous lemmas: <em>εἷς</em> (<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> 408, <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> 1), <em>διακόσιοι</em> (<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> 26, <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> 2), <em>τετρακόσιοι</em> (<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> 16, <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> 2), <em>καὶ</em> (<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> 15, <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> 1), <em>δέκατος</em> (<tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> 2), <em>τε</em> (<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> 1354, <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> 35, <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> 2), <em>μυρίος</em> (<tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> 1), <em>χίλιος</em> (<tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>εἷς</em> (<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> 409, <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> 1), <em>διακόσιοι</em> (<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> 27, <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> 2), <em>τετρακόσιοι</em> (<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> 16, <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> 2), <em>καὶ</em> (<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> 15, <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> 1), <em>δέκατος</em> (<tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> 2), <em>τε</em> (<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> 1391, <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> 37, <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> 2), <em>μυρίος</em> (<tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> 8, <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> 1), <em>χίλιος</em> (<tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>εἷς</em> (<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> 104, <tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt> 2), <em>ἑνὶ</em> (<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> 26, <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> 1), <em>καὶ</em> (<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> 10461, <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> 1184, <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> 15, <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> 1), <em>τε</em> (<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> 1341, <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> 33, <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> 2), <em>τετρακόσιοι</em> (<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> 2, <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> 1), <em>εἶς</em> (<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> 6, <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> 1), <em>τετρακοσίας</em> (<tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>εἷς</em> (<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> 104, <tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt> 2), <em>ἑνὶ</em> (<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> 26, <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> 1), <em>καὶ</em> (<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> 10528, <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> 1199, <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> 15, <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> 1), <em>τε</em> (<tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> 1376, <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> 35, <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> 2), <em>τετρακόσιοι</em> (<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> 2, <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> 1), <em>εἶς</em> (<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> 6, <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> 1), <em>τετρακοσίας</em> (<tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> 1)
 
 
 * <em>εἷς</em>
@@ -25,13 +25,13 @@ The 10 most frequent ambiguous types:  <em>εἷς</em> (<tt><a href="grc_proiel
   * <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> 26: <em><b>ἑνὶ</b> δὲ ἑκάστῳ αὐτῶν οὔνομα οὐδὲν κέεται</em>
   * <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> 1: <em>Αἰγινῆταί τε δὴ ἐδηίουν τῆς Ἀττικῆς τὰ παραθαλάσσια καὶ Ἀθηναίοισι ὁρμημένοισι ἐπ’ Αἰγινήτας στρατεύεσθαι ἦλθε μαντήιον ἐκ Δελφῶν ἐπισχόντας ἀπὸ τοῦ Αἰγινητέων ἀδικίου τριήκοντα ἔτεα τῷ <b>ἑνὶ</b> καὶ τριηκοστῷ Αἰακῷ τέμενος ἀποδέξαντας ἄρχεσθαι τοῦ πρὸς Αἰγινήτας πολέμου καί σφι χωρήσειν τὰ βούλονται</em>
 * <em>καὶ</em>
-  * <tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> 10461: <em><b>καὶ</b> μετὰ ταῦτα αὐτίκα παρῆν καὶ ἡ γυνή</em>
-  * <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> 1184: <em>καὶ μετὰ ταῦτα αὐτίκα παρῆν <b>καὶ</b> ἡ γυνή</em>
+  * <tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> 10528: <em><b>καὶ</b> μετὰ ταῦτα αὐτίκα παρῆν καὶ ἡ γυνή</em>
+  * <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> 1199: <em>καὶ μετὰ ταῦτα αὐτίκα παρῆν <b>καὶ</b> ἡ γυνή</em>
   * <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> 15: <em>οὗτοι οἱ πάντες σταθμοί εἰσι ἕνδεκα <b>καὶ</b> ἑκατόν</em>
   * <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> 1: <em>Αἰγινῆταί τε δὴ ἐδηίουν τῆς Ἀττικῆς τὰ παραθαλάσσια καὶ Ἀθηναίοισι ὁρμημένοισι ἐπ’ Αἰγινήτας στρατεύεσθαι ἦλθε μαντήιον ἐκ Δελφῶν ἐπισχόντας ἀπὸ τοῦ Αἰγινητέων ἀδικίου τριήκοντα ἔτεα τῷ ἑνὶ <b>καὶ</b> τριηκοστῷ Αἰακῷ τέμενος ἀποδέξαντας ἄρχεσθαι τοῦ πρὸς Αἰγινήτας πολέμου καί σφι χωρήσειν τὰ βούλονται</em>
 * <em>τε</em>
-  * <tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> 1341: <em>ἀνεῖλέ <b>τε</b> δὴ τὸ χρηστήριον καὶ ἐβασίλευσε οὕτω Γύγης</em>
-  * <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> 33: <em>ἐς γὰρ τὸ ἔμπροσθε οὐκ οἷοι <b>τε</b> εἰσὶ προεμβαλλόντων ἐς τὴν γῆν τῶν κερέων</em>
+  * <tt><a href="grc_proiel-pos-CCONJ.html">CCONJ</a></tt> 1376: <em>ἀνεῖλέ <b>τε</b> δὴ τὸ χρηστήριον καὶ ἐβασίλευσε οὕτω Γύγης</em>
+  * <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> 35: <em>ἐς γὰρ τὸ ἔμπροσθε οὐκ οἷοι <b>τε</b> εἰσὶ προεμβαλλόντων ἐς τὴν γῆν τῶν κερέων</em>
   * <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> 2: <em>τοὺς δὲ ὀκτώ <b>τε</b> καὶ ἐνενήκοντα αὐτῶν λοιμὸς ὑπολαβὼν ἀπήνεικε</em>
 * <em>τετρακόσιοι</em>
   * <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> 2: <em>ἀπὸ δὲ Κορίνθου <b>τετρακόσιοι</b> καὶ ἀπὸ Φλειοῦντος διηκόσιοι καὶ Μυκηναίων ὀγδώκοντα</em>
@@ -45,7 +45,7 @@ The 10 most frequent ambiguous types:  <em>εἷς</em> (<tt><a href="grc_proiel
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 2.357143 (the average of all parts of speech is 3.429154).
+The form / lemma ratio of `NUM` is 2.357143 (the average of all parts of speech is 3.435571).
 
 The 1st highest number of forms (16) was observed with the lemma “εἷς”: <em>εἶς, εἷς, μία, μίαν, μιᾶς, μιᾷ, μιῆς, μιῇ, ἐνὶ, ἑνί, ἑνός, ἑνὶ, ἑνὸς, ἓν, ἕν, ἕνα</em>.
 
@@ -53,22 +53,22 @@ The 2nd highest number of forms (12) was observed with the lemma “διακόσ
 
 The 3rd highest number of forms (11) was observed with the lemma “τέσσαρες”: <em>τέσσαρα, τέσσαρας, τέσσαρες, τέσσαρσιν, τέσσερα, τέσσερας, τέσσερες, τέσσερσι, τέτορες, τεσσάρων, τεσσέρων</em>.
 
-`NUM` occurs with 3 features: <tt><a href="grc_proiel-feat-Case.html">Case</a></tt> (820; 50% instances), <tt><a href="grc_proiel-feat-Number.html">Number</a></tt> (820; 50% instances), <tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt> (787; 48% instances)
+`NUM` occurs with 3 features: <tt><a href="grc_proiel-feat-Case.html">Case</a></tt> (825; 50% instances), <tt><a href="grc_proiel-feat-Number.html">Number</a></tt> (825; 50% instances), <tt><a href="grc_proiel-feat-Gender.html">Gender</a></tt> (792; 48% instances)
 
 `NUM` occurs with 11 feature-value pairs: `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
 
 `NUM` occurs with 33 feature combinations.
-The most frequent feature combination is `_` (807 tokens).
+The most frequent feature combination is `_` (811 tokens).
 Examples: <em>δύο, ἑπτὰ, δώδεκα, πέντε, δέκα, εἴκοσι, ἑκατὸν, τεσσεράκοντα, τριήκοντα, πεντήκοντα</em>
 
 
 ## Relations
 
-`NUM` nodes are attached to their parents using 18 different relations: <tt><a href="grc_proiel-dep-nummod.html">nummod</a></tt> (974; 60% instances), <tt><a href="grc_proiel-dep-conj.html">conj</a></tt> (112; 7% instances), <tt><a href="grc_proiel-dep-nsubj.html">nsubj</a></tt> (112; 7% instances), <tt><a href="grc_proiel-dep-obj-dir.html">obj:dir</a></tt> (69; 4% instances), <tt><a href="grc_proiel-dep-flat.html">flat</a></tt> (65; 4% instances), <tt><a href="grc_proiel-dep-obl.html">obl</a></tt> (59; 4% instances), <tt><a href="grc_proiel-dep-orphan.html">orphan</a></tt> (46; 3% instances), <tt><a href="grc_proiel-dep-root.html">root</a></tt> (40; 2% instances), <tt><a href="grc_proiel-dep-iobj.html">iobj</a></tt> (37; 2% instances), <tt><a href="grc_proiel-dep-appos.html">appos</a></tt> (33; 2% instances), <tt><a href="grc_proiel-dep-nmod.html">nmod</a></tt> (20; 1% instances), <tt><a href="grc_proiel-dep-nsubj-pass.html">nsubj:pass</a></tt> (17; 1% instances), <tt><a href="grc_proiel-dep-xcomp.html">xcomp</a></tt> (16; 1% instances), <tt><a href="grc_proiel-dep-advcl.html">advcl</a></tt> (14; 1% instances), <tt><a href="grc_proiel-dep-advmod.html">advmod</a></tt> (4; 0% instances), <tt><a href="grc_proiel-dep-ccomp.html">ccomp</a></tt> (4; 0% instances), <tt><a href="grc_proiel-dep-obl-agent.html">obl:agent</a></tt> (4; 0% instances), <tt><a href="grc_proiel-dep-csubj-pass.html">csubj:pass</a></tt> (1; 0% instances)
+`NUM` nodes are attached to their parents using 18 different relations: <tt><a href="grc_proiel-dep-nummod.html">nummod</a></tt> (982; 60% instances), <tt><a href="grc_proiel-dep-conj.html">conj</a></tt> (112; 7% instances), <tt><a href="grc_proiel-dep-nsubj.html">nsubj</a></tt> (112; 7% instances), <tt><a href="grc_proiel-dep-obj.html">obj</a></tt> (69; 4% instances), <tt><a href="grc_proiel-dep-flat.html">flat</a></tt> (65; 4% instances), <tt><a href="grc_proiel-dep-obl.html">obl</a></tt> (59; 4% instances), <tt><a href="grc_proiel-dep-orphan.html">orphan</a></tt> (46; 3% instances), <tt><a href="grc_proiel-dep-root.html">root</a></tt> (40; 2% instances), <tt><a href="grc_proiel-dep-iobj.html">iobj</a></tt> (37; 2% instances), <tt><a href="grc_proiel-dep-appos.html">appos</a></tt> (33; 2% instances), <tt><a href="grc_proiel-dep-nmod.html">nmod</a></tt> (20; 1% instances), <tt><a href="grc_proiel-dep-nsubj-pass.html">nsubj:pass</a></tt> (17; 1% instances), <tt><a href="grc_proiel-dep-xcomp.html">xcomp</a></tt> (17; 1% instances), <tt><a href="grc_proiel-dep-advcl.html">advcl</a></tt> (14; 1% instances), <tt><a href="grc_proiel-dep-advmod.html">advmod</a></tt> (4; 0% instances), <tt><a href="grc_proiel-dep-ccomp.html">ccomp</a></tt> (4; 0% instances), <tt><a href="grc_proiel-dep-obl-agent.html">obl:agent</a></tt> (4; 0% instances), <tt><a href="grc_proiel-dep-csubj-pass.html">csubj:pass</a></tt> (1; 0% instances)
 
-Parents of `NUM` nodes belong to 11 different parts of speech: <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> (959; 59% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (305; 19% instances), <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> (191; 12% instances), <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> (72; 4% instances),  (40; 2% instances), <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt> (18; 1% instances), <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> (17; 1% instances), <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> (14; 1% instances), <tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="grc_proiel-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `NUM` nodes belong to 11 different parts of speech: <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> (966; 59% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (307; 19% instances), <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> (191; 12% instances), <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> (72; 4% instances),  (40; 2% instances), <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt> (18; 1% instances), <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> (17; 1% instances), <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> (14; 1% instances), <tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt> (6; 0% instances), <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="grc_proiel-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-1070 (66%) `NUM` nodes are leaves.
+1079 (66%) `NUM` nodes are leaves.
 
 280 (17%) `NUM` nodes have one child.
 

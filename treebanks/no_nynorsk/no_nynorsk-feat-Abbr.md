@@ -31,12 +31,10 @@ The most frequent other feature values with which `NOUN` and `Abbr` co-occurred:
 
 109 <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> tokens (1% of all `ADV` tokens) have a non-empty value of `Abbr`.
 
-The most frequent other feature values with which `ADV` and `Abbr` co-occurred: <tt><a href="no_nynorsk-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (109; 100%).
-
 `ADV` tokens may have the following values of `Abbr`:
 
 * `Yes` (109; 100% of non-empty `Abbr`): <em>etc, ca., etc., t.v., dvs., f.v., ca, t.d., f.eks., t.h.</em>
-* `EMPTY` (11515): <em>ikkje, så, også, no, her, berre, slik, då, nok, òg</em>
+* `EMPTY` (8976): <em>så, også, no, her, berre, slik, då, nok, òg, korleis</em>
 
 `Abbr` seems to be **lexical feature** of `ADV`. 100% lemmas (18) occur only with one value of `Abbr`.
 
@@ -69,7 +67,7 @@ The most frequent other feature values with which `ADJ` and `Abbr` co-occurred: 
 `ADP` tokens may have the following values of `Abbr`:
 
 * `Yes` (15; 100% of non-empty `Abbr`): <em>m.a., pr.</em>
-* `EMPTY` (42325): <em>i, til, på, for, av, med, om, frå, som, etter</em>
+* `EMPTY` (37793): <em>i, på, til, av, med, for, om, frå, ut, etter</em>
 
 ### `PRON`
 
@@ -80,7 +78,7 @@ The most frequent other feature values with which `PRON` and `Abbr` co-occurred:
 `PRON` tokens may have the following values of `Abbr`:
 
 * `Yes` (4; 100% of non-empty `Abbr`): <em>d.</em>
-* `EMPTY` (21237): <em>det, som, dei, han, eg, vi, seg, ein, dette, ho</em>
+* `EMPTY` (22787): <em>det, som, dei, han, eg, vi, seg, ein, dette, ho</em>
 
 ### `CCONJ`
 

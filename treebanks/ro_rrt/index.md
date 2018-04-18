@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Romanian'
+title:  'UD_Romanian-RRT'
 udver: '2'
 ---
 
@@ -9,7 +9,7 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Romanian
+# UD Romanian RRT
 
 Language: [Romanian](../ro/overview/ro-hub.html) (code: `ro`)<br/>
 Family: Indo-European, Romance
@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 
 The following people have contributed to making this treebank part of UD: Verginica Barbu Mititelu, Elena Irimia, Cenel-Augusto Perez, Radu Ion, Radu Simionescu, Martin Popel.
 
-Repository: [UD_Romanian](https://github.com/UniversalDependencies/UD_Romanian)
+Repository: [UD_Romanian-RRT](https://github.com/UniversalDependencies/UD_Romanian-RRT)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udro_rrt)
 
 License: CC BY-SA 4.0
 
@@ -26,7 +27,7 @@ Genre: wiki, legal, news, fiction, medical, nonfiction, science
 
 Questions, comments?
 General annotation questions (either Romanian-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Romanian/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Romanian-RRT/issues).
 If you want to collaborate, please contact [vergi&nbsp;(æt)&nbsp;racai&nbsp;•&nbsp;ro].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
@@ -53,27 +54,40 @@ It is based on RACAI-RoTb (Irimia and Barbu Mititelu, 2015) and on UAIC-RoTb (Pe
 This work was supported by a grant of the Romanian National Authority for Scientific Research and Innovation, CNCS - UEFISCDI, project number PN-II-RU-TE-2014-4-1362.
 
 
-# Statistics of UD Romanian
+# Statistics of UD Romanian RRT
 
 ## POS Tags
 
-[ADJ](ro-pos-ADJ.html) – [ADP](ro-pos-ADP.html) – [ADV](ro-pos-ADV.html) – [AUX](ro-pos-AUX.html) – [CCONJ](ro-pos-CCONJ.html) – [DET](ro-pos-DET.html) – [INTJ](ro-pos-INTJ.html) – [NOUN](ro-pos-NOUN.html) – [NUM](ro-pos-NUM.html) – [PART](ro-pos-PART.html) – [PRON](ro-pos-PRON.html) – [PROPN](ro-pos-PROPN.html) – [PUNCT](ro-pos-PUNCT.html) – [SCONJ](ro-pos-SCONJ.html) – [SYM](ro-pos-SYM.html) – [VERB](ro-pos-VERB.html) – [X](ro-pos-X.html)
+[ADJ](ro_rrt-pos-ADJ.html) – [ADP](ro_rrt-pos-ADP.html) – [ADV](ro_rrt-pos-ADV.html) – [AUX](ro_rrt-pos-AUX.html) – [CCONJ](ro_rrt-pos-CCONJ.html) – [DET](ro_rrt-pos-DET.html) – [INTJ](ro_rrt-pos-INTJ.html) – [NOUN](ro_rrt-pos-NOUN.html) – [NUM](ro_rrt-pos-NUM.html) – [PART](ro_rrt-pos-PART.html) – [PRON](ro_rrt-pos-PRON.html) – [PROPN](ro_rrt-pos-PROPN.html) – [PUNCT](ro_rrt-pos-PUNCT.html) – [SCONJ](ro_rrt-pos-SCONJ.html) – [SYM](ro_rrt-pos-SYM.html) – [VERB](ro_rrt-pos-VERB.html) – [X](ro_rrt-pos-X.html)
 
 ## Features
 
-[Abbr](ro-feat-Abbr.html) – [AdpType](ro-feat-AdpType.html) – [Case](ro-feat-Case.html) – [Definite](ro-feat-Definite.html) – [Degree](ro-feat-Degree.html) – [Foreign](ro-feat-Foreign.html) – [Gender](ro-feat-Gender.html) – [Mood](ro-feat-Mood.html) – [Number](ro-feat-Number.html) – [Number[psor]](ro-feat-Number-psor.html) – [NumForm](ro-feat-NumForm.html) – [NumType](ro-feat-NumType.html) – [PartType](ro-feat-PartType.html) – [Person](ro-feat-Person.html) – [Polarity](ro-feat-Polarity.html) – [Position](ro-feat-Position.html) – [Poss](ro-feat-Poss.html) – [PronType](ro-feat-PronType.html) – [Reflex](ro-feat-Reflex.html) – [Strength](ro-feat-Strength.html) – [Tense](ro-feat-Tense.html) – [Variant](ro-feat-Variant.html) – [VerbForm](ro-feat-VerbForm.html)
+[Abbr](ro_rrt-feat-Abbr.html) – [AdpType](ro_rrt-feat-AdpType.html) – [Case](ro_rrt-feat-Case.html) – [Definite](ro_rrt-feat-Definite.html) – [Degree](ro_rrt-feat-Degree.html) – [Foreign](ro_rrt-feat-Foreign.html) – [Gender](ro_rrt-feat-Gender.html) – [Mood](ro_rrt-feat-Mood.html) – [Number](ro_rrt-feat-Number.html) – [Number[psor]](ro_rrt-feat-Number-psor.html) – [NumForm](ro_rrt-feat-NumForm.html) – [NumType](ro_rrt-feat-NumType.html) – [PartType](ro_rrt-feat-PartType.html) – [Person](ro_rrt-feat-Person.html) – [Polarity](ro_rrt-feat-Polarity.html) – [Position](ro_rrt-feat-Position.html) – [Poss](ro_rrt-feat-Poss.html) – [PronType](ro_rrt-feat-PronType.html) – [Reflex](ro_rrt-feat-Reflex.html) – [Strength](ro_rrt-feat-Strength.html) – [Tense](ro_rrt-feat-Tense.html) – [Variant](ro_rrt-feat-Variant.html) – [VerbForm](ro_rrt-feat-VerbForm.html)
 
 ## Relations
 
-[acl](ro-dep-acl.html) – [advcl](ro-dep-advcl.html) – [advcl:tcl](ro-dep-advcl-tcl.html) – [advmod](ro-dep-advmod.html) – [advmod:tmod](ro-dep-advmod-tmod.html) – [amod](ro-dep-amod.html) – [appos](ro-dep-appos.html) – [aux](ro-dep-aux.html) – [aux:pass](ro-dep-aux-pass.html) – [case](ro-dep-case.html) – [cc](ro-dep-cc.html) – [cc:preconj](ro-dep-cc-preconj.html) – [ccomp](ro-dep-ccomp.html) – [ccomp:pmod](ro-dep-ccomp-pmod.html) – [compound](ro-dep-compound.html) – [conj](ro-dep-conj.html) – [cop](ro-dep-cop.html) – [csubj](ro-dep-csubj.html) – [csubj:pass](ro-dep-csubj-pass.html) – [dep](ro-dep-dep.html) – [det](ro-dep-det.html) – [discourse](ro-dep-discourse.html) – [expl](ro-dep-expl.html) – [expl:impers](ro-dep-expl-impers.html) – [expl:pass](ro-dep-expl-pass.html) – [expl:poss](ro-dep-expl-poss.html) – [expl:pv](ro-dep-expl-pv.html) – [fixed](ro-dep-fixed.html) – [flat](ro-dep-flat.html) – [goeswith](ro-dep-goeswith.html) – [iobj](ro-dep-iobj.html) – [list](ro-dep-list.html) – [mark](ro-dep-mark.html) – [nmod](ro-dep-nmod.html) – [nmod:agent](ro-dep-nmod-agent.html) – [nmod:pmod](ro-dep-nmod-pmod.html) – [nmod:tmod](ro-dep-nmod-tmod.html) – [nsubj](ro-dep-nsubj.html) – [nsubj:pass](ro-dep-nsubj-pass.html) – [nummod](ro-dep-nummod.html) – [obj](ro-dep-obj.html) – [obl](ro-dep-obl.html) – [orphan](ro-dep-orphan.html) – [parataxis](ro-dep-parataxis.html) – [punct](ro-dep-punct.html) – [reparandum](ro-dep-reparandum.html) – [root](ro-dep-root.html) – [vocative](ro-dep-vocative.html) – [xcomp](ro-dep-xcomp.html)
+[acl](ro_rrt-dep-acl.html) – [advcl](ro_rrt-dep-advcl.html) – [advcl:tcl](ro_rrt-dep-advcl-tcl.html) – [advmod](ro_rrt-dep-advmod.html) – [advmod:tmod](ro_rrt-dep-advmod-tmod.html) – [amod](ro_rrt-dep-amod.html) – [appos](ro_rrt-dep-appos.html) – [aux](ro_rrt-dep-aux.html) – [aux:pass](ro_rrt-dep-aux-pass.html) – [case](ro_rrt-dep-case.html) – [cc](ro_rrt-dep-cc.html) – [cc:preconj](ro_rrt-dep-cc-preconj.html) – [ccomp](ro_rrt-dep-ccomp.html) – [ccomp:pmod](ro_rrt-dep-ccomp-pmod.html) – [compound](ro_rrt-dep-compound.html) – [conj](ro_rrt-dep-conj.html) – [cop](ro_rrt-dep-cop.html) – [csubj](ro_rrt-dep-csubj.html) – [csubj:pass](ro_rrt-dep-csubj-pass.html) – [dep](ro_rrt-dep-dep.html) – [det](ro_rrt-dep-det.html) – [discourse](ro_rrt-dep-discourse.html) – [expl](ro_rrt-dep-expl.html) – [expl:impers](ro_rrt-dep-expl-impers.html) – [expl:pass](ro_rrt-dep-expl-pass.html) – [expl:poss](ro_rrt-dep-expl-poss.html) – [expl:pv](ro_rrt-dep-expl-pv.html) – [fixed](ro_rrt-dep-fixed.html) – [flat](ro_rrt-dep-flat.html) – [goeswith](ro_rrt-dep-goeswith.html) – [iobj](ro_rrt-dep-iobj.html) – [list](ro_rrt-dep-list.html) – [mark](ro_rrt-dep-mark.html) – [nmod](ro_rrt-dep-nmod.html) – [nmod:agent](ro_rrt-dep-nmod-agent.html) – [nmod:pmod](ro_rrt-dep-nmod-pmod.html) – [nmod:tmod](ro_rrt-dep-nmod-tmod.html) – [nsubj](ro_rrt-dep-nsubj.html) – [nsubj:pass](ro_rrt-dep-nsubj-pass.html) – [nummod](ro_rrt-dep-nummod.html) – [obj](ro_rrt-dep-obj.html) – [obl](ro_rrt-dep-obl.html) – [orphan](ro_rrt-dep-orphan.html) – [parataxis](ro_rrt-dep-parataxis.html) – [punct](ro_rrt-dep-punct.html) – [reparandum](ro_rrt-dep-reparandum.html) – [root](ro_rrt-dep-root.html) – [vocative](ro_rrt-dep-vocative.html) – [xcomp](ro_rrt-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 9524 sentences and 218511 tokens.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 29742 tokens (14%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 701 types of words that contain both letters and punctuation. Examples: s-, într-, și-, -i, -și, -l, art., -se, a., n-, -o, l-, dintr-, nr., i-, de-, m-, -a, b., -mi, printr-, lit., -ți, mi-, -n, -lea, alin., le-, ne-, -ul, I., v-, O'Brien, n., c., D., ți-, -ului, pct., -vă, te-, 17-beta, într-adevăr, Al., a-, de-a, -mă, etc., tele-ecran, -le</li>
+</ul>
+
+<ul>
 </ul>
 
 <h2>Morphology</h2>
@@ -82,6 +96,9 @@ This work was supported by a grant of the Romanian National Authority for Scient
 
 <ul>
 <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
+</ul>
+
+<ul>
 <li>This corpus contains 8 word types tagged as particles (PART): -a, a, a-, n-, nu, o, s-, să</li>
 </ul>
 
@@ -106,7 +123,9 @@ This work was supported by a grant of the Romanian National Authority for Scient
 </ul>
 
 <ul>
-<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Fin
   <ul>
@@ -114,18 +133,27 @@ This work was supported by a grant of the Romanian National Authority for Scient
     <li>VERB: poate, trebuie, pot, are, avea, este, era, există, putea, au</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Ger
   <ul>
     <li>AUX: fiind, nefiind</li>
     <li>VERB: având, începând, ținând, făcând, fiind, lăsând, urmând, înregistrând, putând, reprezentând</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Inf
   <ul>
     <li>AUX: fi</li>
     <li>VERB: putea, trebui, avea, face, fi, aduce, lua, asigura, permite, vedea</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>AUX: fost</li>
@@ -133,12 +161,12 @@ This work was supported by a grant of the Romanian National Authority for Scient
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
+
 <li><a>Gender</a>
+
   <ul>
     <li>Fem
       <ul>
@@ -151,6 +179,9 @@ This work was supported by a grant of the Romanian National Authority for Scient
         <li>VERB-Part: prevăzute, prevăzută, menționate, stabilite, legate, puse, utilizate, obținute, prezentate, aflate</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>ADJ: prezentul, mare, nou, european, prezentului, general, mic, național, românesc, singur</li>
@@ -164,10 +195,15 @@ This work was supported by a grant of the Romanian National Authority for Scient
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Number</a>
+
   <ul>
     <li>Plur
       <ul>
@@ -183,6 +219,9 @@ This work was supported by a grant of the Romanian National Authority for Scient
         <li>VERB-Part: prevăzute, menționate, stabilite, legate, puse, utilizate, obținute, prezentate, aflate, enumerate</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: mare, prezentul, nou, europene, europeană, prezenta, european, prezentului, mică, general</li>
@@ -199,9 +238,13 @@ This work was supported by a grant of the Romanian National Authority for Scient
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Acc
       <ul>
@@ -209,6 +252,9 @@ This work was supported by a grant of the Romanian National Authority for Scient
         <li>PRON: se, s-, o, -l, îl, le, -se, mă, ne, te</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Acc,Nom
       <ul>
         <li>ADJ: mare, prezentul, europeană, prezenta, mică, română, maximă, necesară, românească, bună</li>
@@ -219,12 +265,18 @@ This work was supported by a grant of the Romanian National Authority for Scient
         <li>PROPN: Banatul, Iașii, Israelul, Carpații, Contemporanul, Dunărea, Ierusalimul, Irakul, Brașovul, Brâncovanul</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dat
       <ul>
         <li>ADP: conform, datorită, potrivit, aidoma</li>
         <li>PRON: își, -și, și-, îi, i, -i, i-, le, -mi, -ți</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dat,Gen
       <ul>
         <li>ADJ: europene, prezentului, prezentei, naționale, române, publice, românești, umane, comunitare, politice</li>
@@ -235,26 +287,40 @@ This work was supported by a grant of the Romanian National Authority for Scient
         <li>PROPN: României, Moldovei, Dunării, Europei, Franței, Italiei, Norvegiei, Rusiei, Ungariei, Germaniei</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Gen
       <ul>
         <li>ADP: asupra, împotriva, deasupra, înaintea, dinaintea, contra, împrejurul, înlăuntrul, -mpotriva, jurul</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Nom
       <ul>
         <li>PRON: eu, tu</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Voc
       <ul>
         <li>NOUN: domnule, Marino, Graham, Porcule, tovarășe, Labrador, bowling, doamne, Adonis, Benjamin</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Definite</a>
+
   <ul>
     <li>Def
       <ul>
@@ -265,6 +331,9 @@ This work was supported by a grant of the Romanian National Authority for Scient
         <li>PROPN: României, Moldovei, Dunării, Europei, Franței, Italiei, Norvegiei, Rusiei, Ungariei, Germaniei</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>ADJ: mare, europene, nou, necesare, europeană, mari, european, mică, naționale, general</li>
@@ -274,11 +343,16 @@ This work was supported by a grant of the Romanian National Authority for Scient
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Degree and Polarity</h3>
 
+
 <li><a>Degree</a>
+
   <ul>
     <li>Cmp
       <ul>
@@ -286,12 +360,18 @@ This work was supported by a grant of the Romanian National Authority for Scient
         <li>ADV: superior</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>ADJ: asemenea, mare, europene, prezentul, nou, necesare, europeană, standard, mari, prezenta</li>
         <li>ADV: astfel, numai, mult, înainte, chiar, puțin, așa, atunci, încă, aproape</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sup
       <ul>
         <li>ADJ: extremă, perfectă, extreme</li>
@@ -299,9 +379,13 @@ This work was supported by a grant of the Romanian National Authority for Scient
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Polarity</a>
+
   <ul>
     <li>Neg
       <ul>
@@ -309,6 +393,9 @@ This work was supported by a grant of the Romanian National Authority for Scient
         <li>PART: nu, n-</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>CCONJ: și, sau, dar, însă, ci, și-, ori, fie, deci, căci</li>
@@ -316,9 +403,13 @@ This work was supported by a grant of the Romanian National Authority for Scient
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Variant</a>
+
   <ul>
     <li>Short
       <ul>
@@ -340,12 +431,18 @@ This work was supported by a grant of the Romanian National Authority for Scient
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Verbal Features</h3>
 
 
+
+
 <li><a>Mood</a>
+
   <ul>
     <li>Imp
       <ul>
@@ -353,12 +450,18 @@ This work was supported by a grant of the Romanian National Authority for Scient
         <li>VERB-Fin: poți, lasă, luați, lăsați, Uite, adresați, puteți, ai, citește, spuneți</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>AUX-Fin: este, sunt, era, e, erau, fusese, -i, sunteți, eram, ești</li>
         <li>VERB-Fin: poate, trebuie, pot, are, avea, este, era, există, putea, au</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sub
       <ul>
         <li>AUX-Fin: fie, fii, fiu, fim, fiți</li>
@@ -367,33 +470,49 @@ This work was supported by a grant of the Romanian National Authority for Scient
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Tense</a>
+
   <ul>
     <li>Fut
       <ul>
         <li>PART: o</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Imp
       <ul>
         <li>AUX-Fin: era, erau, eram, erai, avea, aveau</li>
         <li>VERB-Fin: avea, era, putea, trebuia, făcea, stătea, știa, părea, aveau, erau</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Past
       <ul>
         <li>AUX-Fin: fu, fură</li>
         <li>VERB-Fin: există, aplică, află, intră, determină, asigură, continuă, modifică, respectă, zise</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pqp
       <ul>
         <li>AUX-Fin: fusese, fuseseră</li>
         <li>VERB-Fin: începuse, făcuse, văzuse, trecuse, fusese, devenise, scosese, avusese, petrecuse, rănise</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pres
       <ul>
         <li>AUX-Fin: este, sunt, fie, e, -i, sunteți, ești, fii, suntem, fiu</li>
@@ -403,36 +522,55 @@ This work was supported by a grant of the Romanian National Authority for Scient
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
 
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Art
       <ul>
         <li>DET: lui, -lea, -ul, -a, -ului, -urilor, -ilor, -urile</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dem
       <ul>
         <li>DET: acest, cel, această, aceste, cele, cea, același, acestor, cei, aceeași</li>
         <li>PRON: ceea, aceasta, acestea, cel, acesta, cele, cei, cea, acestuia, aceea</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Emp
       <ul>
         <li>DET: însuși, însăși, înșiși, însumi, însele, înseși</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>DET: o, un, unei, unui, orice, toate, unor, alte, fiecare, multe</li>
         <li>PRON: unul, una, toate, ceva, fiecare, totul, tot, multe, toți, altul</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Int,Rel
       <ul>
         <li>ADV: când, cum, unde, cât, precum, oare, ce, cân'</li>
@@ -440,6 +578,9 @@ This work was supported by a grant of the Romanian National Authority for Scient
         <li>PRON: care, ce, cine, cărora, căruia, căreia, ce-, cari, câte, cui</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neg
       <ul>
         <li>ADV: nici, niciodată, nicăieri, nicicând</li>
@@ -447,36 +588,53 @@ This work was supported by a grant of the Romanian National Authority for Scient
         <li>PRON: nimic, nimeni, nimica, Niciunul, niciuna, nime, nimenea</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
         <li>DET: a, al, ale, lui, lor, ei, său, ai, sale, sa</li>
         <li>PRON: se, s-, el, le, o, își, -și, -l, și-, îi</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Tot
       <ul>
         <li>NUM: ambele, amândoi, amândouă, ambelor, ambii, tustrei</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>NumType</a>
+
   <ul>
     <li>Card
       <ul>
         <li>NUM: 1, 2, 3, două, 4, trei, 5, 6, doi, 7</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ord
       <ul>
         <li>NUM: primul, prima, I, ii, doilea, doua, primele, iii, treia, ultimii</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Poss</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -485,9 +643,13 @@ This work was supported by a grant of the Romanian National Authority for Scient
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Reflex</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -495,9 +657,13 @@ This work was supported by a grant of the Romanian National Authority for Scient
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Person</a>
+
   <ul>
     <li>1
       <ul>
@@ -508,6 +674,9 @@ This work was supported by a grant of the Romanian National Authority for Scient
         <li>VERB-Fin: știu, putem, avem, cred, rog, așteptam, rugăm, spun, vedem, văd</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>AUX: ai, ați, veți, sunteți, ești, fii, erai, vei, -ai, oi</li>
@@ -517,6 +686,9 @@ This work was supported by a grant of the Romanian National Authority for Scient
         <li>VERB-Fin: luați, vezi, aveți, poți, utilizați, puteai, spuneți, puteți, ai, știți</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>AUX: a, este, au, ar, sunt, era, va, fie, e, vor</li>
@@ -527,11 +699,17 @@ This work was supported by a grant of the Romanian National Authority for Scient
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
 
+
+
 <li><a>Number[psor]</a>
+
   <ul>
     <li>Plur
       <ul>
@@ -539,6 +717,9 @@ This work was supported by a grant of the Romanian National Authority for Scient
         <li>PRON: lor, noastră, nostru, noștri, voastră</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>DET: lui, ei, său, sale, sa, mea, meu, mele, săi, ta</li>
@@ -546,9 +727,13 @@ This work was supported by a grant of the Romanian National Authority for Scient
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Other Features</h3>
+
 
 <li><a>Abbr</a>
   <ul>
@@ -563,6 +748,7 @@ This work was supported by a grant of the Romanian National Authority for Scient
     </li>
   </ul>
 </li>
+
 <li><a>AdpType</a>
   <ul>
     <li>Prep
@@ -574,6 +760,7 @@ This work was supported by a grant of the Romanian National Authority for Scient
     </li>
   </ul>
 </li>
+
 <li><a>Foreign</a>
   <ul>
     <li>Yes
@@ -590,6 +777,7 @@ This work was supported by a grant of the Romanian National Authority for Scient
     </li>
   </ul>
 </li>
+
 <li><a>NumForm</a>
   <ul>
     <li>Digit
@@ -609,6 +797,7 @@ This work was supported by a grant of the Romanian National Authority for Scient
     </li>
   </ul>
 </li>
+
 <li><a>PartType</a>
   <ul>
     <li>Inf
@@ -618,6 +807,7 @@ This work was supported by a grant of the Romanian National Authority for Scient
     </li>
   </ul>
 </li>
+
 <li><a>Position</a>
   <ul>
     <li>Postnom
@@ -632,6 +822,7 @@ This work was supported by a grant of the Romanian National Authority for Scient
     </li>
   </ul>
 </li>
+
 <li><a>Strength</a>
   <ul>
     <li>Strong
@@ -653,6 +844,9 @@ This work was supported by a grant of the Romanian National Authority for Scient
 
 <ul>
 <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: fi.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: avea, vrea, fi, o, or, el, un.</li>
 <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: fi, avea.</li>
 </ul>
@@ -860,7 +1054,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Reflexive Verbs</h3>
 
 <ul>
-  <li>This corpus contains 896 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: afla se, putea se, întâmpla se, numi se, întoarce se, termina s-, duce se, opri se, părea se, îneca s-, uita se, apropia se, așeza se, referi se, face se, ridica se, asigura se, gândi se, întâmpla s-, petrece se, găsi se, îngroșa se, întâlni se, angaja se, descompune se, răni s-, simți se, încheia s-, întinde se, termina se, îneca se, desfășura se, dovedi se, lăsa se, produce se, scurge se, îndrepta se, mișca se, ocupa se, putea s-, răni se, încheia se, întări se, apuca se, baza se, conforma se, deschide se, hotărî se, lega se, mări se</li>
+  <li>This corpus contains 897 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: afla se, putea se, întâmpla se, numi se, întoarce se, termina s-, duce se, opri se, părea se, îneca s-, uita se, apropia se, așeza se, referi se, face se, ridica se, asigura se, gândi se, întâmpla s-, petrece se, găsi se, îngroșa se, întâlni se, angaja se, descompune se, răni s-, simți se, încheia s-, întinde se, termina se, îneca se, desfășura se, dovedi se, lăsa se, produce se, scurge se, îndrepta se, mișca se, ocupa se, putea s-, răni se, încheia se, întări se, apuca se, baza se, conforma se, deschide se, hotărî se, lega se, mări se</li>
 </ul>
 
 <h3>Reflexive Passive</h3>

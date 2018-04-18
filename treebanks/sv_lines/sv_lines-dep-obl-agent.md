@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="sv_lines-dep-obl.html">obl</a></tt>.
 
-69 nodes (0%) are attached to their parents as `obl:agent`.
+68 nodes (0%) are attached to their parents as `obl:agent`.
 
-67 instances of `obl:agent` (97%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.1304347826087.
+66 instances of `obl:agent` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.11764705882353.
 
-The following 6 pairs of parts of speech are connected with `obl:agent`: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (53; 77% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (8; 12% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (4; 6% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 6 pairs of parts of speech are connected with `obl:agent`: <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (52; 76% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-PROPN.html">PROPN</a></tt> (8; 12% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-PRON.html">PRON</a></tt> (4; 6% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt> (2; 3% instances), <tt><a href="sv_lines-pos-ADJ.html">ADJ</a></tt>-<tt><a href="sv_lines-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="sv_lines-pos-VERB.html">VERB</a></tt>-<tt><a href="sv_lines-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -90,7 +90,7 @@ The following 6 pairs of parts of speech are connected with `obl:agent`: <tt><a 
 28	uppåtsipprande	uppåtsipprande	ADJ	NDE	Case=Nom|Definite=Ind|Degree=Pos|Number=Sing	30	amod	_	_
 29	växtsaftsliknande	växtsaftsliknande	ADJ	NDE	Case=Nom|Definite=Ind|Degree=Pos|Number=Sing	30	amod	_	_
 30	sort	sort	NOUN	SG-IND-NOM	Case=Nom|Definite=Ind|Gender=Com|Number=Sing	23	obl	_	_
-31	som	som	SCONJ	REL	_	34	mark	_	_
+31	som	som	PRON	REL	PronType=Rel	34	nsubj	_	_
 32	är	vara	AUX	PRES-ACT	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	34	cop	_	_
 33	lika	lika	ADV	CMP	_	34	advmod	_	_
 34	kortlivad	kortlivad	ADJ	POS-SG-IND	Case=Nom|Definite=Ind|Degree=Pos|Number=Sing	30	acl:relcl	_	_

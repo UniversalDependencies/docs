@@ -22,48 +22,58 @@ The following 19 pairs of parts of speech are connected with `obj`: <tt><a href=
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 3 obj	color:blue
-1	hadde	ha	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-2	du	du	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	_
-3	tid	tid	NOUN	_	Definite=Ind|Gender=Fem|Number=Sing	1	obj	_	_
-4	til	til	ADP	_	_	6	case	_	_
-5	noko	nokon	DET	_	Gender=Neut|Number=Sing|PronType=Ind	6	det	_	_
-6	meir	mykje	ADJ	_	_	1	amod	_	_
-7	da	da	ADV	_	_	1	advmod	_	_
-8	?	$?	PUNCT	_	_	1	punct	_	_
+1	køyrde	køyre	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+2	bøndene	bonde	NOUN	_	Definite=Def|Gender=Masc|Number=Plur	1	nsubj	_	_
+3	mjølka	mjølk	NOUN	_	Definite=Def|Gender=Fem|Number=Sing	1	obj	_	_
+4	dit	dit	ADV	_	_	1	advmod	_	_
+5	med	med	ADP	_	_	6	case	_	_
+6	hest	hest	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	1	obl	_	_
+7	?	$?	PUNCT	_	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 3 4 obj	color:blue
-1	og	og	CCONJ	_	_	3	cc	_	_
-2	nå	nå	ADV	_	_	3	advmod	_	_
-3	kostar	koste	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	han	han	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
-5	?	$?	PUNCT	_	_	3	punct	_	_
+# visual-style 3 2 obj	color:blue
+1	men	men	CCONJ	_	_	3	cc	_	_
+2	den	den	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+3	køyrde	køyre	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+4	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
+5	med	med	SCONJ	_	_	8	mark	_	_
+6	ein	ein	DET	_	Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	månads	månad	NOUN	_	Definite=Ind|Gender=Masc|Number=Sing	8	nmod	_	_
+8	seie	seie	VERB	_	VerbForm=Inf	3	advcl	_	_
+9	så	så	ADV	_	_	3	advmod	_	_
+10	e	e	X	_	_	3	discourse:filler	_	_
+11	.	$.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 obj	color:blue
-1	ja	ja	INTJ	_	_	6	discourse	_	_
-2	i	i	ADP	_	_	3	case	_	_
-3	Grønnegata	Grønnegata	PROPN	_	_	6	obl	_	_
-4	#	#	PUNCT	_	_	5	punct	_	_
-5	Grønnegata	Grønnegata	PROPN	_	_	6	obj	_	_
-6	heiter	heite	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	_
-7	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
-8	her	her	ADV	_	_	6	advmod	_	_
-9	.	$.	PUNCT	_	_	6	punct	_	_
+# visual-style 5 7 obj	color:blue
+1	og	og	CCONJ	_	_	10	cc	_	_
+2	da	da	ADV	_	_	5	advmod	_	_
+3	#	#	PUNCT	_	_	5	punct	_	_
+4	kj-	kj-	X	_	_	5	discourse:filler	_	_
+5	hadde	ha	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	10	reparandum	_	_
+6	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+7	Forden	Forden	PROPN	_	_	5	obj	_	_
+8	#	#	PUNCT	_	_	10	punct	_	_
+9	eg	eg	PRON	_	Animacy=Hum|Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
+10	hadde	ha	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+11	Forden	Forden	PROPN	_	_	10	obj	_	_
+12	da	da	ADV	_	_	10	advmod	_	_
+13	au	au	ADV	_	_	10	advmod	_	_
+14	.	$.	PUNCT	_	_	10	punct	_	_
 
 ~~~
 

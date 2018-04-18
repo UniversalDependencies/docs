@@ -17,20 +17,19 @@ The following 3 pairs of parts of speech are connected with `expl`: <tt><a href=
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 5 expl	color:blue
-1	A	a	ADP	P	AdpType=Prep	3	case	_	_
-2	as	o	DET	Ddfp	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
-3	cinco	cinco	NUM	Ncnfp	Gender=Fem|Number=Plur|NumType=Card	4	obl	_	_
-4	remata	rematar	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-5	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	4	expl	_	_
-6	de	de	ADP	P	AdpType=Prep	7	mark	_	_
-7	traballar	traballar	VERB	V0f000	VerbForm=Inf	4	xcomp	_	SpaceAfter=No
-8	"	"	PUNCT	Q"	_	4	punct	_	SpaceAfter=No
-9	.	.	PUNCT	Q.	_	4	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 6 expl	color:blue
+1	En	en	ADP	P	AdpType=Prep	2	case	_	_
+2	titulares	titular	NOUN	Scmp	Gender=Masc|Number=Plur	5	obl	_	_
+3	máis	máis	ADV	Wm	_	4	advmod	_	_
+4	pequenos	pequeno	ADJ	A0mp	Gender=Masc|Number=Plur	2	amod	_	_
+5	pode	poder	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	7	expl	_	_
+7	ler	ler	VERB	V0f000	VerbForm=Inf	5	xcomp	_	SpaceAfter=No
+8	:	:	PUNCT	Q:	_	5	punct	_	_
 
 ~~~
 

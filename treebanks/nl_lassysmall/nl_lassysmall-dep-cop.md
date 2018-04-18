@@ -8,61 +8,69 @@ udver: '2'
 
 This relation is universal.
 
-1366 nodes (1%) are attached to their parents as `cop`.
+1236 nodes (1%) are attached to their parents as `cop`.
 
-1020 instances of `cop` (75%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.89751098096633.
+934 instances of `cop` (76%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.82686084142395.
 
-The following 12 pairs of parts of speech are connected with `cop`: <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (681; 50% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (388; 28% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (103; 8% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (79; 6% instances), <tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (54; 4% instances), <tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (16; 1% instances), <tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (14; 1% instances), <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (10; 1% instances), <tt><a href="nl_lassysmall-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="nl_lassysmall-pos-X.html">X</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (3; 0% instances).
+The following 13 pairs of parts of speech are connected with `cop`: <tt><a href="nl_lassysmall-pos-NOUN.html">NOUN</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (624; 50% instances), <tt><a href="nl_lassysmall-pos-ADJ.html">ADJ</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (343; 28% instances), <tt><a href="nl_lassysmall-pos-PROPN.html">PROPN</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (94; 8% instances), <tt><a href="nl_lassysmall-pos-VERB.html">VERB</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (74; 6% instances), <tt><a href="nl_lassysmall-pos-NUM.html">NUM</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (51; 4% instances), <tt><a href="nl_lassysmall-pos-PRON.html">PRON</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (13; 1% instances), <tt><a href="nl_lassysmall-pos-ADV.html">ADV</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (9; 1% instances), <tt><a href="nl_lassysmall-pos-ADP.html">ADP</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (8; 1% instances), <tt><a href="nl_lassysmall-pos-SYM.html">SYM</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="nl_lassysmall-pos-X.html">X</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (6; 0% instances), <tt><a href="nl_lassysmall-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (5; 0% instances), <tt><a href="nl_lassysmall-pos-DET.html">DET</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt>-<tt><a href="nl_lassysmall-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 3 cop	color:blue
-1	Anne	Anne	PROPN	SPEC|deeleigen	_	5	nsubj	_	_
-2	Demelenne	Demelenne	PROPN	SPEC|deeleigen	_	1	flat:name	_	_
-3	is	zijn	AUX	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	5	cop	_	_
-4	algemeen	algemeen	ADJ	ADJ|prenom|basis|zonder	Degree=Pos	5	amod	_	_
-5	secretaris	secretaris	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	LET	_	5	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 4 cop	color:blue
+1	In	in	ADP	VZ|init	_	3	case	3:case	_
+2	die	die	DET	VNW|aanw|det|stan|prenom|zonder|rest	_	3	det	3:det	_
+3	zin	zin	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	7	obl	7:obl	_
+4	is	zijn	AUX	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	7	cop	7:cop	_
+5	het	het	PRON	VNW|pers|pron|stan|red|3|ev|onz	Person=3|PronType=Prs	7	nsubj	7:nsubj	_
+6	een	een	DET	LID|onbep|stan|agr	Definite=Ind	7	det	7:det	_
+7	voorbereiding	voorbereiding	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	0	root	0:root	_
+8	op	op	ADP	VZ|init	_	9	case	9:case	_
+9	Goede	Goede	PROPN	SPEC|deeleigen	_	7	nmod	7:nmod	_
+10	Vrijdag	Vrijdag	PROPN	SPEC|deeleigen	_	9	flat:name	9:flat:name	_
+11	en	en	CCONJ	VG|neven	_	12	cc	12:cc	_
+12	Pasen	Pasen	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	9	conj	7:nmod|9:conj	SpaceAfter=No
+13	.	.	PUNCT	LET	_	7	punct	7:punct	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 5 2 cop	color:blue
-1	Bovendien	bovendien	ADV	BW	_	5	advmod	_	_
-2	waren	zijn	AUX	WW|pv|verl|mv	Number=Plur|Tense=Past|VerbForm=Fin	5	cop	_	_
-3	de	de	DET	LID|bep|stan|rest	Definite=Def	4	det	_	_
-4	flanken	flank	NOUN	N|soort|mv|basis	Number=Plur	5	nsubj	_	_
-5	ongedekt	ongedekt	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	LET	_	5	punct	_	_
+# visual-style 5 4 cop	color:blue
+1	De	de	DET	LID|bep|stan|rest	Definite=Def	3	det	3:det	_
+2	officiële	officieel	ADJ	ADJ|prenom|basis|met-e|stan	Degree=Pos	3	amod	3:amod	_
+3	taal	taal	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	5	nsubj	5:nsubj	_
+4	is	zijn	AUX	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	5	cop	5:cop	_
+5	Nederlands	Nederlands	ADJ	ADJ|vrij|basis|zonder	Degree=Pos	0	root	0:root	SpaceAfter=No
+6	.	.	PUNCT	LET	_	5	punct	5:punct	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 5 cop	color:blue
-1	Een	één	NUM	TW|hoofd|nom|zonder-n|basis	_	6	nsubj	_	_
-2	van	van	ADP	VZ|init	_	4	case	_	_
-3	zijn	zijn	PRON	VNW|bez|det|stan|vol|3|ev|prenom|zonder|agr	Person=3|PronType=Prs	4	nmod:poss	_	_
-4	medeleerlingen	medeleerling	NOUN	N|soort|mv|basis	Number=Plur	1	nmod	_	_
-5	is	zijn	AUX	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	6	cop	_	_
-6	Achiel	Achiel	PROPN	SPEC|deeleigen	_	0	root	_	_
-7	Van	Van	PROPN	SPEC|deeleigen	_	6	flat:name	_	_
-8	Sassenbroeck	Sassenbroeck	PROPN	SPEC|deeleigen	_	6	flat:name	_	SpaceAfter=No
-9	.	.	PUNCT	LET	_	6	punct	_	_
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 7 cop	color:blue
+1	De	de	DET	LID|bep|stan|rest	Definite=Def	3	det	3:det	_
+2	voornaamste	voornaam	ADJ	ADJ|prenom|sup|met-e|stan	Degree=Sup	3	amod	3:amod	_
+3	zijrivier	zijrivier	NOUN	N|soort|ev|basis|zijd|stan	Gender=Com|Number=Sing	9	nsubj	9:nsubj	_
+4	van	van	ADP	VZ|init	_	6	case	6:case	_
+5	de	de	DET	LID|bep|stan|rest	Definite=Def	6	det	6:det	_
+6	Mezen	Mezen	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	3	nmod	3:nmod	_
+7	is	zijn	AUX	WW|pv|tgw|ev	Number=Sing|Tense=Pres|VerbForm=Fin	9	cop	9:cop	_
+8	de	de	DET	LID|bep|stan|rest	Definite=Def	9	det	9:det	_
+9	Vasjka	Vasjka	PROPN	N|eigen|ev|basis|zijd|stan	Gender=Com|Number=Sing	0	root	0:root	SpaceAfter=No
+10	.	.	PUNCT	LET	_	9	punct	9:punct	_
 
 ~~~
 

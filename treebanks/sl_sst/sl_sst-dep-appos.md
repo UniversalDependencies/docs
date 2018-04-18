@@ -17,21 +17,18 @@ The following 19 pairs of parts of speech are connected with `appos`: <tt><a hre
 
 
 ~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 appos	color:blue
-1	ampak	ampak	CCONJ	Cc	_	8	cc	_	word=ampak|msd=Vp
-2	eee	eee	INTJ	I	_	8	discourse:filler	_	word=eee|msd=M
-3	sandali	sandal	NOUN	Ncmpn	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	word=sandali|msd=Sommi
-4	kakšne	kakšen	DET	Pq-fpn	Case=Nom|Gender=Fem|Number=Plur|PronType=Int	5	det	_	word=kekšne|msd=Zv-zmi
-5	superge	superga	NOUN	Ncfpn	Case=Nom|Gender=Fem|Number=Plur	3	appos	_	word=superge|msd=Sozmi
-6	recimo	reči	VERB	Vmem1p	Aspect=Perf|Mood=Imp|Number=Plur|Person=1|VerbForm=Fin	5	parataxis:discourse	_	word=recimo|msd=Ggdvpm
-7	tudi	tudi	PART	Q	_	8	advmod	_	word=tudi|msd=L
-8	pridejo	priti	VERB	Vmer3p	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	word=pridejo|msd=Ggdstm
-9	v	v	ADP	Sa	Case=Acc	10	case	_	word=v|msd=Dt
-10	poštev	poštev	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	8	obl	_	word=poštev|msd=Sometn
+# visual-style 5 6 appos	color:blue
+1	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	word=to|msd=Zk-sei
+2	sta	biti	AUX	Va-r3d-n	Mood=Ind|Number=Dual|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	5	cop	_	word=sta|msd=Gp-std-n
+3	zadnja	zadnji	ADJ	Agpmdn	Case=Nom|Degree=Pos|Gender=Masc|Number=Dual	5	amod	_	word=zadnja|msd=Ppnmdi
+4	dva	dva	NUM	Mlcmdn	Case=Nom|Gender=Masc|Number=Dual|NumForm=Word|NumType=Card	5	nummod	_	word=dva|msd=Kbgmdi
+5	elementa	element	NOUN	Ncmdn	Case=Nom|Gender=Masc|Number=Dual	0	root	_	word=elementa|msd=Somdi
+6	kondenzator	kondenzator	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	5	appos	_	word=kondenzator|msd=Somei
+7	upor	upor	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	6	conj	_	word=upor|msd=Somei
 
 ~~~
 
@@ -57,14 +54,17 @@ The following 19 pairs of parts of speech are connected with `appos`: <tt><a hre
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 appos	color:blue
-1	aha	aha	INTJ	I	_	2	discourse	_	word=aha|msd=M
-2	[name:address]	[name:address]	PROPN	X	_	0	root	_	word=[name:address]|msd=N
-3	[name:address]	[name:address]	PROPN	X	_	2	appos	_	word=[name:address]|msd=N
+# visual-style 3 4 appos	color:blue
+1	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	3	nsubj	_	word=tav|msd=Zk-sei
+2	je	biti	AUX	Va-r3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	3	cop	_	word=je|msd=Gp-ste-n
+3	[name:surname]	[name:surname]	PROPN	X	_	0	root	_	word=[name:surname]|msd=N
+4	[name:personal]	[name:personal]	PROPN	X	_	3	appos	_	word=[name:personal]|msd=N
+5	[name:surname]	[name:surname]	PROPN	X	_	4	flat:name	_	word=[name:surname]|msd=N
+6	ja	ja	PART	Q	_	3	discourse	_	word=ja|msd=L
 
 ~~~
 

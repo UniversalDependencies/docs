@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 
 The following people have contributed to making this treebank part of UD: Lilja Øvrelid, Fredrik Jørgensen, Petter Hohle.
 
-Repository: [UD_Norwegian-Nynorsk](https://github.com/UniversalDependencies/UD_Norwegian-Nynorsk)
+Repository: [UD_Norwegian-Nynorsk](https://github.com/UniversalDependencies/UD_Norwegian-Nynorsk)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udno_nynorsk)
 
 License: CC BY-SA
 
@@ -167,15 +168,28 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
 
 ## Relations
 
-[acl](no_nynorsk-dep-acl.html) – [acl:relcl](no_nynorsk-dep-acl-relcl.html) – [advcl](no_nynorsk-dep-advcl.html) – [advmod](no_nynorsk-dep-advmod.html) – [amod](no_nynorsk-dep-amod.html) – [appos](no_nynorsk-dep-appos.html) – [aux](no_nynorsk-dep-aux.html) – [aux:pass](no_nynorsk-dep-aux-pass.html) – [case](no_nynorsk-dep-case.html) – [cc](no_nynorsk-dep-cc.html) – [ccomp](no_nynorsk-dep-ccomp.html) – [compound](no_nynorsk-dep-compound.html) – [compound:prt](no_nynorsk-dep-compound-prt.html) – [conj](no_nynorsk-dep-conj.html) – [cop](no_nynorsk-dep-cop.html) – [csubj](no_nynorsk-dep-csubj.html) – [csubj:pass](no_nynorsk-dep-csubj-pass.html) – [det](no_nynorsk-dep-det.html) – [discourse](no_nynorsk-dep-discourse.html) – [dislocated](no_nynorsk-dep-dislocated.html) – [expl](no_nynorsk-dep-expl.html) – [flat:foreign](no_nynorsk-dep-flat-foreign.html) – [flat:name](no_nynorsk-dep-flat-name.html) – [goeswith](no_nynorsk-dep-goeswith.html) – [iobj](no_nynorsk-dep-iobj.html) – [mark](no_nynorsk-dep-mark.html) – [nmod](no_nynorsk-dep-nmod.html) – [nsubj](no_nynorsk-dep-nsubj.html) – [nsubj:pass](no_nynorsk-dep-nsubj-pass.html) – [nummod](no_nynorsk-dep-nummod.html) – [obj](no_nynorsk-dep-obj.html) – [obl](no_nynorsk-dep-obl.html) – [orphan](no_nynorsk-dep-orphan.html) – [parataxis](no_nynorsk-dep-parataxis.html) – [punct](no_nynorsk-dep-punct.html) – [root](no_nynorsk-dep-root.html) – [xcomp](no_nynorsk-dep-xcomp.html)
+[acl](no_nynorsk-dep-acl.html) – [acl:cleft](no_nynorsk-dep-acl-cleft.html) – [acl:relcl](no_nynorsk-dep-acl-relcl.html) – [advcl](no_nynorsk-dep-advcl.html) – [advmod](no_nynorsk-dep-advmod.html) – [amod](no_nynorsk-dep-amod.html) – [appos](no_nynorsk-dep-appos.html) – [aux](no_nynorsk-dep-aux.html) – [aux:pass](no_nynorsk-dep-aux-pass.html) – [case](no_nynorsk-dep-case.html) – [cc](no_nynorsk-dep-cc.html) – [ccomp](no_nynorsk-dep-ccomp.html) – [compound](no_nynorsk-dep-compound.html) – [compound:prt](no_nynorsk-dep-compound-prt.html) – [conj](no_nynorsk-dep-conj.html) – [cop](no_nynorsk-dep-cop.html) – [csubj](no_nynorsk-dep-csubj.html) – [csubj:pass](no_nynorsk-dep-csubj-pass.html) – [det](no_nynorsk-dep-det.html) – [discourse](no_nynorsk-dep-discourse.html) – [expl](no_nynorsk-dep-expl.html) – [flat:foreign](no_nynorsk-dep-flat-foreign.html) – [flat:name](no_nynorsk-dep-flat-name.html) – [goeswith](no_nynorsk-dep-goeswith.html) – [iobj](no_nynorsk-dep-iobj.html) – [mark](no_nynorsk-dep-mark.html) – [nmod](no_nynorsk-dep-nmod.html) – [nsubj](no_nynorsk-dep-nsubj.html) – [nsubj:pass](no_nynorsk-dep-nsubj-pass.html) – [nummod](no_nynorsk-dep-nummod.html) – [obj](no_nynorsk-dep-obj.html) – [obl](no_nynorsk-dep-obl.html) – [orphan](no_nynorsk-dep-orphan.html) – [parataxis](no_nynorsk-dep-parataxis.html) – [punct](no_nynorsk-dep-punct.html) – [root](no_nynorsk-dep-root.html) – [xcomp](no_nynorsk-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 17575 sentences and 301353 tokens.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 30772 tokens (10%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 1302 types of words that contain both letters and punctuation. Examples: Vest-Telemark, kap., kultur-, firda.no, jf., nr., s., I., H., ca., etc., St.meld., Strøm-Erichsen, helse-, mill., 1990-åra, m.a., 1800-talet, t.v., EØS-avtalen, Dyrsku'n, olje-, A., arbeids-, dvs., km/t, ml-rørsla, www.firda.no, 1700-talet, 1990-talet, Anne-Grete, Paulus', Saudi-Arabia, d., lov-, 20-åra, e., u-land, 1970-åra, 90-talet, G., K., Ki-moon, Kyoto-avtalen, PB., e-post, f.v., miljø-, o., raud-grøne</li>
+</ul>
+
+<ul>
 </ul>
 
 <h2>Morphology</h2>
@@ -184,15 +198,18 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
 
 <ul>
 <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
-<li>This corpus contains 2 word types tagged as particles (PART): og, å</li>
 </ul>
 
 <ul>
-<li>This corpus contains 34 lemmas tagged as pronouns (PRON): alle, alt, begge, båe, d., de, dei, den, denne, desse, det, dette, du, eg, ein, han, ho, ingen, ingenting, kva, kvarandre, kven, kån, man, me, noko, nokon, nokre, seg, slikt, som, somme, sånt, vi</li>
+<li>This corpus contains 6 word types tagged as particles (PART): ei, einast, eingong, ikkje, og, å</li>
 </ul>
 
 <ul>
-<li>This corpus contains 53 lemmas tagged as determiners (DET): II, III, a, all, alle, annan, annen, begge, de, dei, deira, den, denne, desse, det, dette, din, dinnja, dykkar, eige, eigen, ein, einkvan, einkvar, eit, et, forrige, four, førre, hans, hass, hennar, hin, ingen, kva, kvar, kåns, mangt, min, mine, neste, noko, nokon, same, samme, sin, sjølv, sjølve, slik, sånn, the, vår, ½</li>
+<li>This corpus contains 44 lemmas tagged as pronouns (PRON): alle, alt, begge, båe, d., de, dei, deira, den, denne, desse, det, dette, din, du, dykkar, eg, ein, han, hans, hennar, ho, ingen, ingenting, kva, kvarandre, kven, kån, kåns, man, me, min, mine, noko, nokon, nokre, seg, sin, slikt, som, somme, sånt, vi, vår</li>
+</ul>
+
+<ul>
+<li>This corpus contains 43 lemmas tagged as determiners (DET): II, III, a, all, alle, annan, annen, begge, de, dei, den, denne, desse, det, dette, dinnja, eige, eigen, ein, einkvan, einkvar, eit, et, forrige, four, førre, hass, hin, ingen, kva, kvar, mangt, neste, noko, nokon, same, samme, sjølv, sjølve, slik, sånn, the, ½</li>
 </ul>
 
 <ul>
@@ -208,7 +225,9 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
 </ul>
 
 <ul>
-<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Fin
   <ul>
@@ -216,6 +235,9 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
     <li>VERB: har, seier, vart, er, kjem, får, meiner, går, fekk, kom</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Inf
   <ul>
     <li>ADV: hende</li>
@@ -223,6 +245,9 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
     <li>VERB: få, ha, ta, gå, bli, sjå, gjere, gje, gjera, seie</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>ADJ: sett, lagt, auka, gjort, manglande, samla, avgjerande, følgjande, aukande, komande</li>
@@ -231,52 +256,65 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
+
 <li><a>Gender</a>
+
   <ul>
     <li>Fem
       <ul>
         <li>ADJ: lita, bundi, opa, teki, vedteki</li>
         <li>ADJ-Part: teki, vedteki</li>
-        <li>DET: ei, den, denne, si, anna, slik, vår, eiga, all, hans</li>
+        <li>DET: ei, den, denne, anna, slik, eiga, all, inga, kvar, noko</li>
         <li>NOUN: tid, kroner, regjeringa, saka, verda, boka, tida, meldinga, lov, grad</li>
         <li>NUM: éi, annakvar, ei</li>
-        <li>PRON: ho, henne, ei</li>
+        <li>PRON: ho, si, henne, vår, hans, mi, hennar, di, deira, ei</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Fem,Masc
       <ul>
         <li>PRON: den, denne, dén</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>ADJ: liten, open, kristen, oppteken, god, lunken, medfaren, sliten, velkomen, Forboden</li>
-        <li>DET: ein, den, sin, denne, kvar, eigen, annan, nokon, ingen, vår</li>
+        <li>DET: ein, den, denne, kvar, eigen, annan, nokon, ingen, all, slik</li>
         <li>NOUN: dag, prosent, del, millionar, gong, grunn, Olav, leiar, bruk, kommunen</li>
         <li>NUM: éin, en, annankvar, èin</li>
-        <li>PRON: han, nokon, ingen, ha, honom</li>
+        <li>PRON: han, sin, vår, min, hans, nokon, hennar, deira, ingen, din</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neut
       <ul>
         <li>ADJ: mykje, godt, heilt, langt, svært, litt, rett, veldig, viktig, norsk</li>
         <li>ADJ-Part: sett, lagt, gjort, sagt, utvida, knytt, teke, vedteke, gjeve, samla</li>
-        <li>DET: eit, det, sitt, anna, noko, dette, kvart, eitt, eige, vårt</li>
+        <li>DET: eit, det, anna, noko, dette, kvart, eitt, eige, alt, slikt</li>
         <li>NOUN: år, folk, språk, stortinget, landet, land, Framstegspartiet, tillegg, departementet, arbeidet</li>
         <li>NUM: annakvart, halvanna, halvtanna, noe</li>
-        <li>PRON: det, dette, noko, alt, slikt, dét, detta, dei, dte, sånt</li>
+        <li>PRON: det, dette, noko, sitt, alt, vårt, mitt, hans, slikt, hennar</li>
         <li>VERB-Part: blir, innført, lagt</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Animacy</a>
+
   <ul>
     <li>Hum
       <ul>
@@ -284,46 +322,63 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Number</a>
+
   <ul>
     <li>Plur
       <ul>
         <li>ADJ: mange, store, nye, ulike, norske, gode, 1., siste, tilsette, få</li>
         <li>ADJ-Part: samla, tekne, auka, brukte, frammøtte, komne, reduserte, interesserte, knytte, nemnde</li>
-        <li>DET: dei, andre, alle, sine, desse, nokre, slike, våre, ingen, eigne</li>
+        <li>DET: dei, andre, alle, desse, nokre, slike, ingen, eigne, begge, nokon</li>
         <li>NOUN: år, folk, prosent, kroner, millionar, åra, pengar, land, menneske, tiltak</li>
         <li>NUM: to, tre, fire, ti, fem, 20, seks, 2005, 2006, 2</li>
-        <li>PRON: dei, vi, me, oss, alle, de, ingen, kvarandre, nokon, desse</li>
+        <li>PRON: dei, vi, me, oss, sine, alle, våre, de, ingen, kvarandre</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Plur,Sing
       <ul>
         <li>NOUN: BNP, AS, KS, PS, SS</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: mykje, heile, godt, heilt, norsk, viktig, langt, svært, litt, rett</li>
         <li>ADJ-Part: sett, lagt, gjort, auka, samla, knytt, utvida, sagt, kalla, brukt</li>
-        <li>DET: ein, den, eit, ei, det, denne, sin, anna, noko, sitt</li>
+        <li>DET: ein, den, eit, ei, det, denne, anna, noko, dette, kvar</li>
         <li>NOUN: dag, tid, år, del, språk, landet, regjeringa, saka, verda, gong</li>
         <li>NUM: eine, éin, éi, en, annankvar, annakvar, annakvart, ei, halvanna, halvtanna</li>
-        <li>PRON: det, han, eg, seg, ein, dette, ho, du, noko, meg</li>
+        <li>PRON: det, han, eg, seg, ein, dette, ho, du, noko, sin</li>
         <li>VERB-Part: blir, innført, lagt, stoppa</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Acc
       <ul>
         <li>PRON: seg, dei, oss, meg, han, henne, deg, ho, dykk, kån</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Gen
       <ul>
         <li>ADJ: liks, enkeltes, intellektuelles, kristnes, mogleges, rettes, tilsettes</li>
@@ -332,16 +387,24 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
         <li>PROPN: Guds, Noregs, Breiviks, Høgres, Parkinsons, Europas, Paulus', Hitlers, Venstres, Tysklands</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Nom
       <ul>
         <li>PRON: han, eg, dei, vi, ho, me, du, de, man, ha</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Definite</a>
+
   <ul>
     <li>Def
       <ul>
@@ -353,11 +416,17 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
         <li>NUM: einaste, eine</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Def,Ind
       <ul>
         <li>NOUN: BNP, AS, IT, KS, PS, SS</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>ADJ: mykje, godt, heilt, norsk, viktig, langt, mest, svært, litt, rett</li>
@@ -368,48 +437,70 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Degree and Polarity</h3>
 
+
 <li><a>Degree</a>
+
   <ul>
     <li>Cmp
       <ul>
         <li>ADJ: meir, fleire, tidlegare, større, vidare, betre, mindre, lenger, nærare, seinare</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>ADJ: mange, mykje, nye, store, heile, godt, heilt, norske, norsk, siste</li>
         <li>ADJ-Part: Samla, utpeikt</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sup
       <ul>
         <li>ADJ: mest, minst, fleste, beste, største, viktigaste, fremst, best, flest, meste</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Polarity</a>
+
   <ul>
     <li>Neg
       <ul>
-        <li>ADV: ikkje</li>
         <li>DET: ingen, inga</li>
+        <li>PART: ikkje</li>
         <li>PRON: ingen, ingenting</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Verbal Features</h3>
 
 
+
+
 <li><a>Mood</a>
+
   <ul>
     <li>Imp
       <ul>
@@ -417,6 +508,9 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
         <li>VERB-Fin: sjå, Les, del, la, ta, legg, tenk, ha, hell, hugs</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>AUX-Fin: er, har, var, kan, skal, vil, må, blir, hadde, kunne</li>
@@ -424,9 +518,13 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Tense</a>
+
   <ul>
     <li>Past
       <ul>
@@ -434,6 +532,9 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
         <li>VERB-Fin: vart, fekk, kom, hadde, gjekk, sa, var, tok, gjorde, såg</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pres
       <ul>
         <li>AUX-Fin: er, har, kan, skal, vil, må, blir, bør, får, hev</li>
@@ -441,87 +542,134 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
 
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Art
       <ul>
         <li>DET: ein, eit, ei, eitt, en, eir</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Art,Prs
       <ul>
         <li>PRON: ein, ei</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dem
       <ul>
         <li>DET: den, dei, det, andre, denne, anna, same, dette, desse, slike</li>
         <li>NUM: fem-seks</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>DET: noko, nokre, nokon, noka, nokor</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind,Prs
       <ul>
         <li>PRON: noko, nokon</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Int
       <ul>
         <li>DET: kva</li>
         <li>PRON: kva, kven</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neg
       <ul>
         <li>DET: ingen, inga</li>
         <li>PRON: ingenting</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neg,Prs
       <ul>
         <li>PRON: ingen</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
-        <li>DET: sjølv, sin, sine, sitt, si, hans, vår, sjølve, eigen, våre</li>
+        <li>DET: sjølv, sjølve, eigen, eige, eigne, eiga, the, II, III, eitkvart</li>
         <li>PRON: det, dei, han, eg, vi, seg, dette, ho, me, du</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs,Tot
       <ul>
         <li>PRON: alle, begge</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rcp
       <ul>
         <li>PRON: kvarandre</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rel
       <ul>
         <li>PRON: som</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Tot
       <ul>
         <li>DET: alle, kvar, kvart, all, alt, begge, einkvar</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>NumType</a>
+
   <ul>
     <li>Card
       <ul>
@@ -529,43 +677,65 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Poss</a>
+
   <ul>
     <li>Yes
       <ul>
-        <li>DET: sin, sine, sitt, si, hans, vår, våre, hennar, vårt, deira</li>
+        <li>PRON: sin, sine, sitt, si, hans, vår, våre, hennar, vårt, deira</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
   </ul>
 </li>
 
 
+
 <li><a>Person</a>
+
   <ul>
     <li>1
       <ul>
         <li>PRON: eg, vi, me, oss, meg, kån</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>PRON: du, de, deg, dykk</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>PRON: det, dei, han, dette, ho, noko, alt, den, alle, nokon</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
 
 
+
+
+
 <h3>Other Features</h3>
+
 
 <li><a>Abbr</a>
   <ul>
@@ -590,6 +760,9 @@ We thank the annotators of the original NDT: Pål Kristian Eriksen, Kari Kinn an
 
 <ul>
 <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: vere.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 10 lemmas as auxiliaries (<a>aux</a>). Examples: ha, kunne, skulle, vilje, måtte, vere, få, burde, bli, tore.</li>
 <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: verte, bli.</li>
 </ul>
@@ -600,19 +773,19 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>nsubj</a>
     <ul>
-      <li>VERB-Fin--NOUN (5869)</li>
+      <li>VERB-Fin--NOUN (5915)</li>
       <li>VERB-Fin--NOUN-ADP(blant) (1)</li>
       <li>VERB-Fin--NOUN-ADP(med) (6)</li>
       <li>VERB-Fin--NOUN-Gen (1)</li>
-      <li>VERB-Fin--PRON (2740)</li>
+      <li>VERB-Fin--PRON (2761)</li>
       <li>VERB-Fin--PRON-Acc (11)</li>
-      <li>VERB-Fin--PRON-Nom (4185)</li>
-      <li>VERB-Inf--NOUN (1569)</li>
+      <li>VERB-Fin--PRON-Nom (4186)</li>
+      <li>VERB-Inf--NOUN (1574)</li>
       <li>VERB-Inf--NOUN-ADP(med) (4)</li>
       <li>VERB-Inf--PRON (891)</li>
       <li>VERB-Inf--PRON-Acc (3)</li>
       <li>VERB-Inf--PRON-Nom (1079)</li>
-      <li>VERB-Part--NOUN (844)</li>
+      <li>VERB-Part--NOUN (845)</li>
       <li>VERB-Part--NOUN-ADP(med) (1)</li>
       <li>VERB-Part--PRON (373)</li>
       <li>VERB-Part--PRON-Acc (1)</li>
@@ -626,15 +799,15 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
     <ul>
       <li>VERB-Fin--NOUN (4854)</li>
       <li>VERB-Fin--NOUN-ADP(med) (1)</li>
-      <li>VERB-Fin--PRON (717)</li>
+      <li>VERB-Fin--PRON (723)</li>
       <li>VERB-Fin--PRON-Acc (652)</li>
       <li>VERB-Fin--PRON-Nom (12)</li>
       <li>VERB-Inf--NOUN (3570)</li>
-      <li>VERB-Inf--PRON (355)</li>
+      <li>VERB-Inf--PRON (360)</li>
       <li>VERB-Inf--PRON-Acc (390)</li>
       <li>VERB-Inf--PRON-Nom (1)</li>
       <li>VERB-Part--NOUN (973)</li>
-      <li>VERB-Part--PRON (113)</li>
+      <li>VERB-Part--PRON (117)</li>
       <li>VERB-Part--PRON-Acc (153)</li>
       <li>VERB-Part--PRON-Nom (1)</li>
     </ul>
@@ -665,7 +838,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 7 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a></li>
+<li>This corpus uses 8 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a></li>
 <li>The following 1 main types are not used alone, they are always subtyped: <a>flat</a></li>
-<li>The following 6 relation types are not used in this corpus at all: <a>vocative</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>reparandum</a>, <a>dep</a></li>
+<li>The following 7 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>list</a>, <a>reparandum</a>, <a>dep</a></li>
 </ul>

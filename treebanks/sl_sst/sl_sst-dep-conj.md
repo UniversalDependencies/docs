@@ -18,52 +18,62 @@ The following 54 pairs of parts of speech are connected with `conj`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 4 conj	color:blue
-1	ja	ja	PART	Q	_	2	discourse	_	word=ja|msd=L
-2	ima	imeti	VERB	Vmpr3s-n	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	word=ma|msd=Ggnste-n
-3	samo	samo	PART	Q	_	4	cc	_	word=sam|msd=L
-4	čakajte	čakati	VERB	Vmpm2p	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	2	conj	_	word=čakte|msd=Ggnvdm
-5	samo	samo	PART	Q	_	4	advmod	_	word=sam|msd=L
-6	malo	malo	DET	Rgp	PronType=Ind	4	advmod	_	word=malo|msd=Rsn
-7	zdaj	zdaj	ADV	Rgp	Degree=Pos	9	advmod	_	word=zdaj|msd=Rsn
-8	ne	ne	PART	Q	Polarity=Neg	9	advmod	_	word=ne|msd=L
-9	vem	vedeti	VERB	Vmpr1s	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	parataxis	_	word=vem|msd=Ggnspe
-10	na	na	ADP	Sa	Case=Acc	11	case	_	word=na|msd=Dt
-11	pamet	pamet	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	word=pamet|msd=Sozet
-
-~~~
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
-# visual-style 6 8 conj	color:blue
-1	edini	edin	ADJ	Agpmsny	Case=Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	word=edin|msd=Ppnmeid
-2	problem	problem	NOUN	Ncmsn	Case=Nom|Gender=Masc|Number=Sing	0	root	_	word=problem|msd=Somei
-3	bo	biti	AUX	Va-f3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	2	cop	_	word=bo|msd=Gp-pte-n
-4	tam	tam	ADV	Rgp	Degree=Pos	2	advmod	_	word=tam|msd=Rsn
-5	razumevanje	razumevanje	NOUN	Ncnsn	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	word=razumeva|msd=Sosei
-6	italijanščine	italijanščina	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	word=italijanščine|msd=Sozer
-7	pa	pa	CCONJ	Cc	_	8	cc	_	word=pa|msd=Vp
-8	nemščine	nemščina	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	6	conj	_	word=nemščine|msd=Sozer
+# visual-style 6 10 conj	color:blue
+1	in	in	CCONJ	Cc	_	10	cc	_	word=in|msd=Vp
+2	tako	tako	ADV	Rgp	Degree=Pos	6	advmod	_	word=tako|msd=Rsn
+3	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	6	aux	_	word=so|msd=Gp-stm-n
+4	oni	on	PRON	Pp3mpn	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	6	nsubj	_	word=oni|msd=Zotmmi
+5	nekako	nekako	ADV	Rgp	Degree=Pos	6	advmod	_	word=nekako|msd=Rsn
+6	izvabili	izvabiti	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	word=izvabili|msd=Ggdd-mm
+7	ven	ven	ADV	Rgp	Degree=Pos	6	advmod	_	word=ven|msd=Rsn
+8	resnico	resnica	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	word=resnico|msd=Sozet
+9	oziroma	oziroma	CCONJ	Cc	_	10	cc	_	word=oziroma|msd=Vp
+10	odkrili	odkriti	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	6	conj	_	word=odkrili|msd=Ggdd-mm
+11	laž	laž	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	word=laž|msd=Sozet
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 conj	color:blue
-1	devetindvajseti	devetindvajseti	ADJ	Mlomsn	Case=Nom|Gender=Masc|Number=Sing|NumType=Ord	0	root	_	word=devetindvejsti|msd=Kbvmei
-2	trideseti	trideseti	ADJ	Mlomsn	Case=Nom|Gender=Masc|Number=Sing|NumType=Ord	1	conj	_	word=trieseti|msd=Kbvmei
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 14 conj	color:blue
+1	in	in	CCONJ	Cc	_	4	cc	_	word=in|msd=Vp
+2	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	expl	_	word=to|msd=Zk-sei
+3	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	word=so|msd=Gp-stm-n
+4	mešali	mešati	VERB	Vmpp-pm	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	word=mešal|msd=Ggnd-mm
+5	kar	kar	ADV	Rgp	Degree=Pos	6	advmod	_	word=kr|msd=Rsn
+6	eno	en	NUM	Mlpnsa	Case=Acc|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card	7	nummod	_	word=en|msd=Kbzset
+7	olje	olje	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	word=ole|msd=Soset
+8	pa	pa	CCONJ	Cc	_	14	cc	_	word=pa|msd=Vp
+9	ene	en	NUM	Mlpfpa	Case=Acc|Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	14	nummod	_	word=ene|msd=Kbzzmt
+10	take	tak	DET	Pd-fpa	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	14	det	_	word=take|msd=Zk-zmt
+11	č	_	X	Xt	_	13	reparandum	_	word=č|msd=Nt
+12	[gap]	[gap]	X	X	_	4	punct	_	word=[gap]|msd=N
+13	stare	star	ADJ	Agpfpa	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	14	amod	_	word=stare|msd=Ppnzmt
+14	barve	barva	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	7	conj	_	word=barve|msd=Sozmt
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 conj	color:blue
+1	preskok	preskok	NOUN	Ncmsan	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	0	root	_	word=preskok|msd=Sometn
+2	barve	barva	NOUN	Ncfsg	Case=Gen|Gender=Fem|Number=Sing	1	nmod	_	word=barve|msd=Sozer
+3	…	…	PUNCT	Z	_	1	punct	_	word=…|msd=U
+4	torej	torej	CCONJ	Cc	_	6	cc	_	word=torej|msd=Vp
+5	moder	moder	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	1	parataxis	_	word=moder|msd=Ppnmein
+6	rdeč	rdeč	ADJ	Agpmsnn	Case=Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	5	conj	_	word=rdeč|msd=Ppnmein
 
 ~~~
 

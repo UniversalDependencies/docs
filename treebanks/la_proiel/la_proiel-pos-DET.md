@@ -6,87 +6,86 @@ udver: '2'
 
 ## Treebank Statistics: UD_Latin-PROIEL: POS Tags: `DET`
 
-There are 29 `DET` lemmas (0%), 194 `DET` types (1%) and 3622 `DET` tokens (2%).
+There are 33 `DET` lemmas (0%), 210 `DET` types (1%) and 4327 `DET` tokens (2%).
 Out of 14 observed tags, the rank of `DET` is: 9 in number of lemmas, 7 in number of types and 11 in number of tokens.
 
-The 10 most frequent `DET` lemmas: <em>omnis, hic, is, ille, ipse, alius, iste, quidam, idem, nullus</em>
+The 10 most frequent `DET` lemmas: <em>omnis, hic, is, ille, ipse, alius, idem, quidam, iste, nullus</em>
 
-The 10 most frequent `DET` types:  <em>omnes, omnibus, hoc, omni, omnis, his, omnia, ipsum, omnium, eius</em>
+The 10 most frequent `DET` types:  <em>omnes, hoc, omnibus, omni, omnis, ipsum, his, omnia, omnium, omnem</em>
 
-The 10 most frequent ambiguous lemmas: <em>omnis</em> (<tt><a href="la_proiel-pos-DET.html">DET</a></tt> 894, <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 593), <em>hic</em> (<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 1234, <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 666, <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> 75), <em>is</em> (<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> 3931, <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 405, <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 86), <em>ille</em> (<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 1660, <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 404), <em>ipse</em> (<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> 379, <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 307, <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 111), <em>alius</em> (<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 201, <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 149), <em>iste</em> (<tt><a href="la_proiel-pos-DET.html">DET</a></tt> 135, <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 53), <em>quidam</em> (<tt><a href="la_proiel-pos-DET.html">DET</a></tt> 128, <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 110), <em>idem</em> (<tt><a href="la_proiel-pos-DET.html">DET</a></tt> 121, <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 60, <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> 1), <em>nullus</em> (<tt><a href="la_proiel-pos-DET.html">DET</a></tt> 114, <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 24)
+The 10 most frequent ambiguous lemmas: <em>omnis</em> (<tt><a href="la_proiel-pos-DET.html">DET</a></tt> 1060, <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 688), <em>hic</em> (<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 1393, <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 815, <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> 75), <em>is</em> (<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> 4265, <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 460, <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 100), <em>ille</em> (<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 1747, <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 445), <em>ipse</em> (<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> 394, <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 383, <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 137), <em>alius</em> (<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 257, <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 175), <em>idem</em> (<tt><a href="la_proiel-pos-DET.html">DET</a></tt> 167, <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 69, <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> 1), <em>quidam</em> (<tt><a href="la_proiel-pos-DET.html">DET</a></tt> 159, <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 121), <em>iste</em> (<tt><a href="la_proiel-pos-DET.html">DET</a></tt> 141, <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 53), <em>nullus</em> (<tt><a href="la_proiel-pos-DET.html">DET</a></tt> 139, <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 33)
 
-The 10 most frequent ambiguous types:  <em>omnes</em> (<tt><a href="la_proiel-pos-DET.html">DET</a></tt> 196, <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 186), <em>omnibus</em> (<tt><a href="la_proiel-pos-DET.html">DET</a></tt> 165, <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 99), <em>hoc</em> (<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 307, <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 125), <em>omni</em> (<tt><a href="la_proiel-pos-DET.html">DET</a></tt> 117, <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 6), <em>omnis</em> (<tt><a href="la_proiel-pos-DET.html">DET</a></tt> 110, <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 59), <em>his</em> (<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 169, <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 72), <em>omnia</em> (<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 213, <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 104), <em>ipsum</em> (<tt><a href="la_proiel-pos-DET.html">DET</a></tt> 101, <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> 38, <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 6), <em>omnium</em> (<tt><a href="la_proiel-pos-DET.html">DET</a></tt> 87, <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 18), <em>eius</em> (<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> 747, <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 80, <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 2)
+The 10 most frequent ambiguous types:  <em>omnes</em> (<tt><a href="la_proiel-pos-DET.html">DET</a></tt> 212, <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 206), <em>hoc</em> (<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 362, <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 176), <em>omnibus</em> (<tt><a href="la_proiel-pos-DET.html">DET</a></tt> 189, <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 120), <em>omni</em> (<tt><a href="la_proiel-pos-DET.html">DET</a></tt> 167, <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 8), <em>omnis</em> (<tt><a href="la_proiel-pos-DET.html">DET</a></tt> 122, <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 62), <em>ipsum</em> (<tt><a href="la_proiel-pos-DET.html">DET</a></tt> 117, <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> 39, <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 7), <em>his</em> (<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 210, <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 83), <em>omnia</em> (<tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 247, <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 113), <em>omnium</em> (<tt><a href="la_proiel-pos-DET.html">DET</a></tt> 102, <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 20), <em>omnem</em> (<tt><a href="la_proiel-pos-DET.html">DET</a></tt> 93, <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 5)
 
 
 * <em>omnes</em>
-  * <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 196: <em>qui curabantur <b>omnes</b></em>
-  * <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 186: <em>et <b>omnes</b> mirabantur</em>
-* <em>omnibus</em>
-  * <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 165: <em>scit enim Pater vester quia his <b>omnibus</b> indigetis</em>
-  * <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 99: <em>et subductis ad terram navibus relictis <b>omnibus</b> secuti sunt illum</em>
+  * <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 212: <em>qui curabantur <b>omnes</b></em>
+  * <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 206: <em>et <b>omnes</b> mirabantur</em>
 * <em>hoc</em>
-  * <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 307: <em>nonne et publicani <b>hoc</b> faciunt</em>
-  * <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 125: <em>quoniam si est ex hominibus consilium <b>hoc</b> aut opus dissolvetur</em>
+  * <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 362: <em>nonne et publicani <b>hoc</b> faciunt</em>
+  * <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 176: <em>quoniam si est ex hominibus consilium <b>hoc</b> aut opus dissolvetur</em>
+* <em>omnibus</em>
+  * <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 189: <em>scit enim Pater vester quia his <b>omnibus</b> indigetis</em>
+  * <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 120: <em>et subductis ad terram navibus relictis <b>omnibus</b> secuti sunt illum</em>
 * <em>omni</em>
-  * <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 117: <em>et placuit sermo coram <b>omni</b> multitudine</em>
-  * <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 6: <em><b>omni</b> autem cui multum datum est multum quaeretur ab eo</em>
+  * <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 167: <em>et placuit sermo coram <b>omni</b> multitudine</em>
+  * <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 8: <em><b>omni</b> autem cui multum datum est multum quaeretur ab eo</em>
 * <em>omnis</em>
-  * <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 110: <em>ecce venit cum nubibus et videbit eum <b>omnis</b> oculus et qui eum pupugerunt</em>
-  * <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 59: <em><b>omnis</b> qui irascitur fratri suo reus erit iudicio</em>
-* <em>his</em>
-  * <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 169: <em>quod autem <b>his</b> abundantius est a malo est</em>
-  * <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 72: <em><b>his</b> de rebus plura ad te in ea epistula scribam quam ipsi Quinto dabo</em>
-* <em>omnia</em>
-  * <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 213: <em>fili tu semper me cum es et <b>omnia</b> mea tua sunt</em>
-  * <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 104: <em>ite et stantes loquimini in templo plebi <b>omnia</b> verba vitae huius</em>
+  * <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 122: <em>ecce venit cum nubibus et videbit eum <b>omnis</b> oculus et qui eum pupugerunt</em>
+  * <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 62: <em><b>omnis</b> qui irascitur fratri suo reus erit iudicio</em>
 * <em>ipsum</em>
-  * <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 101: <em>sed iam tempus est me <b>ipsum</b> a me amari quando ab illis nullo modo possum</em>
-  * <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> 38: <em>alioquin rumpet vinum novum utres et <b>ipsum</b> effundetur et utres peribunt</em>
-  * <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 6: <em>non est autem scriptum tantum propter <b>ipsum</b> quia reputatum est illi</em>
+  * <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 117: <em>sed iam tempus est me <b>ipsum</b> a me amari quando ab illis nullo modo possum</em>
+  * <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> 39: <em>alioquin rumpet vinum novum utres et <b>ipsum</b> effundetur et utres peribunt</em>
+  * <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 7: <em>non est autem scriptum tantum propter <b>ipsum</b> quia reputatum est illi</em>
+* <em>his</em>
+  * <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 210: <em>quod autem <b>his</b> abundantius est a malo est</em>
+  * <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 83: <em>sed hoc in <b>his</b> locis quae gelu et nebulis infesta esse non possunt</em>
+* <em>omnia</em>
+  * <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 247: <em>fili tu semper me cum es et <b>omnia</b> mea tua sunt</em>
+  * <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 113: <em>ite et stantes loquimini in templo plebi <b>omnia</b> verba vitae huius</em>
 * <em>omnium</em>
-  * <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 87: <em>hic est <b>omnium</b> Dominus</em>
-  * <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 18: <em>et nos testes sumus <b>omnium</b> quae fecit in regione Iudaeorum et Hierusalem</em>
-* <em>eius</em>
-  * <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> 747: <em>dicebat enim quia si vel vestimentum <b>eius</b> tetigero salva ero</em>
-  * <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 80: <em>multa signa sunt <b>eius</b> rei</em>
-  * <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 2: <em>pelles pro velis alutae que tenuiter confectae sive propter inopiam lini atque <b>eius</b> usus inscientiam sive eo quod est magis veri simile quod tantas tempestates Oceani tantos que impetus ventorum sustineri ac tanta onera navium regi velis non satis commode posse arbitrabantur</em>
+  * <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 102: <em>hic est <b>omnium</b> Dominus</em>
+  * <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 20: <em>et nos testes sumus <b>omnium</b> quae fecit in regione Iudaeorum et Hierusalem</em>
+* <em>omnem</em>
+  * <tt><a href="la_proiel-pos-DET.html">DET</a></tt> 93: <em>et constituit eum praepositum super Aegyptum et super <b>omnem</b> domum suam</em>
+  * <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> 5: <em>omnem palmitem in me non ferentem fructum tollet eum et <b>omnem</b> qui fert fructum purgabit eum ut fructum plus adferat</em>
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 6.689655 (the average of all parts of speech is 3.305200).
+The form / lemma ratio of `DET` is 6.363636 (the average of all parts of speech is 3.403337).
 
 The 1st highest number of forms (17) was observed with the lemma “hic”: <em>hac, hae, haec, hanc, harum, has, hi, hic, hii, his, hoc, horum, hos, huic, huius, huiusce, hunc</em>.
 
 The 2nd highest number of forms (16) was observed with the lemma “is”: <em>ea, eae, eam, earum, eas, ei, eis, eius, eo, eorum, eos, eum, id, ii, iis, is</em>.
 
-The 3rd highest number of forms (14) was observed with the lemma “ille”: <em>illa, illae, illam, illarum, illas, ille, illi, illis, illius, illo, illorum, illos, illud, illum</em>.
+The 3rd highest number of forms (14) was observed with the lemma “idem”: <em>Eorundem, eadem, eaedem, eandem, easdem, eisdem, eiusdem, eodem, eosdem, eundem, idem, iidem, iisdem, isdem</em>.
 
-`DET` occurs with 3 features: <tt><a href="la_proiel-feat-Case.html">Case</a></tt> (3610; 100% instances), <tt><a href="la_proiel-feat-Number.html">Number</a></tt> (3610; 100% instances), <tt><a href="la_proiel-feat-Gender.html">Gender</a></tt> (2976; 82% instances)
+`DET` occurs with 3 features: <tt><a href="la_proiel-feat-Case.html">Case</a></tt> (4314; 100% instances), <tt><a href="la_proiel-feat-Number.html">Number</a></tt> (4314; 100% instances), <tt><a href="la_proiel-feat-Gender.html">Gender</a></tt> (3584; 83% instances)
 
 `DET` occurs with 14 feature-value pairs: `Case=Abl`, `Case=Acc`, `Case=Dat`, `Case=Gen`, `Case=Nom`, `Case=Voc`, `Gender=Fem`, `Gender=Fem,Masc`, `Gender=Fem,Neut`, `Gender=Masc`, `Gender=Masc,Neut`, `Gender=Neut`, `Number=Plur`, `Number=Sing`
 
-`DET` occurs with 54 feature combinations.
-The most frequent feature combination is `Case=Abl|Gender=Fem|Number=Sing` (278 tokens).
-Examples: <em>hac, illa, ea, eadem, omni, ista, nulla, alia, ulla, ipsa</em>
+`DET` occurs with 56 feature combinations.
+The most frequent feature combination is `Case=Abl|Gender=Fem|Number=Sing` (337 tokens).
+Examples: <em>hac, illa, ea, omni, eadem, alia, aliqua, ista, nulla, ulla</em>
 
 
 ## Relations
 
-`DET` nodes are attached to their parents using 1 different relations: <tt><a href="la_proiel-dep-det.html">det</a></tt> (3622; 100% instances)
+`DET` nodes are attached to their parents using 1 different relations: <tt><a href="la_proiel-dep-det.html">det</a></tt> (4327; 100% instances)
 
-Parents of `DET` nodes belong to 10 different parts of speech: <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (2942; 81% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (260; 7% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (243; 7% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (94; 3% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (37; 1% instances), <tt><a href="la_proiel-pos-X.html">X</a></tt> (29; 1% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="la_proiel-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
+Parents of `DET` nodes belong to 10 different parts of speech: <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (3551; 82% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (307; 7% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (279; 6% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (99; 2% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (44; 1% instances), <tt><a href="la_proiel-pos-X.html">X</a></tt> (29; 1% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (11; 0% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="la_proiel-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances)
 
-3513 (97%) `DET` nodes are leaves.
+4199 (97%) `DET` nodes are leaves.
 
-92 (3%) `DET` nodes have one child.
+107 (2%) `DET` nodes have one child.
 
-8 (0%) `DET` nodes have two children.
+9 (0%) `DET` nodes have two children.
 
-9 (0%) `DET` nodes have three or more children.
+12 (0%) `DET` nodes have three or more children.
 
 The highest child degree of a `DET` node is 4.
 
-Children of `DET` nodes are attached using 14 different relations: <tt><a href="la_proiel-dep-advmod.html">advmod</a></tt> (34; 25% instances), <tt><a href="la_proiel-dep-acl.html">acl</a></tt> (21; 15% instances), <tt><a href="la_proiel-dep-case.html">case</a></tt> (18; 13% instances), <tt><a href="la_proiel-dep-nmod.html">nmod</a></tt> (14; 10% instances), <tt><a href="la_proiel-dep-amod.html">amod</a></tt> (9; 7% instances), <tt><a href="la_proiel-dep-appos.html">appos</a></tt> (8; 6% instances), <tt><a href="la_proiel-dep-discourse.html">discourse</a></tt> (6; 4% instances), <tt><a href="la_proiel-dep-nsubj.html">nsubj</a></tt> (6; 4% instances), <tt><a href="la_proiel-dep-cc.html">cc</a></tt> (5; 4% instances), <tt><a href="la_proiel-dep-conj.html">conj</a></tt> (5; 4% instances), <tt><a href="la_proiel-dep-cop.html">cop</a></tt> (5; 4% instances), <tt><a href="la_proiel-dep-det.html">det</a></tt> (3; 2% instances), <tt><a href="la_proiel-dep-flat.html">flat</a></tt> (1; 1% instances), <tt><a href="la_proiel-dep-orphan.html">orphan</a></tt> (1; 1% instances)
+Children of `DET` nodes are attached using 14 different relations: <tt><a href="la_proiel-dep-advmod.html">advmod</a></tt> (38; 23% instances), <tt><a href="la_proiel-dep-acl.html">acl</a></tt> (27; 17% instances), <tt><a href="la_proiel-dep-case.html">case</a></tt> (18; 11% instances), <tt><a href="la_proiel-dep-nmod.html">nmod</a></tt> (14; 9% instances), <tt><a href="la_proiel-dep-amod.html">amod</a></tt> (10; 6% instances), <tt><a href="la_proiel-dep-appos.html">appos</a></tt> (10; 6% instances), <tt><a href="la_proiel-dep-conj.html">conj</a></tt> (9; 6% instances), <tt><a href="la_proiel-dep-cc.html">cc</a></tt> (8; 5% instances), <tt><a href="la_proiel-dep-discourse.html">discourse</a></tt> (7; 4% instances), <tt><a href="la_proiel-dep-nsubj.html">nsubj</a></tt> (6; 4% instances), <tt><a href="la_proiel-dep-cop.html">cop</a></tt> (5; 3% instances), <tt><a href="la_proiel-dep-det.html">det</a></tt> (4; 2% instances), <tt><a href="la_proiel-dep-orphan.html">orphan</a></tt> (4; 2% instances), <tt><a href="la_proiel-dep-flat.html">flat</a></tt> (2; 1% instances)
 
-Children of `DET` nodes belong to 11 different parts of speech: <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> (51; 38% instances), <tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (19; 14% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (18; 13% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (16; 12% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (9; 7% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (6; 4% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (6; 4% instances), <tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (5; 4% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (4; 3% instances), <tt><a href="la_proiel-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (1; 1% instances)
+Children of `DET` nodes belong to 11 different parts of speech: <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt> (57; 35% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt> (26; 16% instances), <tt><a href="la_proiel-pos-ADP.html">ADP</a></tt> (19; 12% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (19; 12% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt> (11; 7% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt> (9; 6% instances), <tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt> (8; 5% instances), <tt><a href="la_proiel-pos-AUX.html">AUX</a></tt> (6; 4% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt> (4; 2% instances), <tt><a href="la_proiel-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt> (1; 1% instances)
 

@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v1.2 release.
 
 The following people have contributed to making this treebank part of UD: Marco Passarotti, Daniel Zeman, Berta Gonzáles Saavedra.
 
-Repository: [UD_Latin-ITTB](https://github.com/UniversalDependencies/UD_Latin-ITTB)
+Repository: [UD_Latin-ITTB](https://github.com/UniversalDependencies/UD_Latin-ITTB)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udla_ittb)
 
 License: CC BY-NC-SA 3.0
 
@@ -28,18 +29,63 @@ Questions, comments?
 General annotation questions (either Latin-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Latin-ITTB/issues).
 If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&nbsp;mff&nbsp;•&nbsp;cuni&nbsp;•&nbsp;cz].
+Development of the treebank happens outside the UD repository.
+If there are bugs, either the original data source or the conversion procedure must be fixed.
+Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | (undocumented) |
-| UPOS | (undocumented) |
-| XPOS | (undocumented) |
-| Features | (undocumented) |
-| Relations | (undocumented) |
+| Lemmas | annotated manually in non-UD style, automatically converted to UD |
+| UPOS | annotated manually in non-UD style, automatically converted to UD |
+| XPOS | annotated manually |
+| Features | annotated manually in non-UD style, automatically converted to UD |
+| Relations | annotated manually in non-UD style, automatically converted to UD |
 
 ## Description
 
+Latin data from the Index Thomisticus Treebank. It contains the complete work by Thomas Aquinas
+(1225–1274; medieval Latin), and by 61 authors related to Thomas.
+
+
+
+
+The UD_Latin-ITTB dataset results from conversion of the Index Thomisticus Treebank.
+The data was first converted to the Prague dependency style as a part of HamleDT;
+then it was automatically converted to Universal Dependencies (HamleDT 3.0, 2015). The first
+release of Universal Dependencies that includes this treebank is UD v1.2 in November 2015. The
+conversion of dependency relations and morphological features is almost identical to HamleDT
+3.0. On the other hand, part of speech tags have been significantly improved. The original ITT
+categories were based on a “tripartity” classification, which is based purely on inflectional
+behavior of words, and distinguishes nominal inflection, participles, and verbal inflection.
+
+In HamleDT 3.0, all nominally inflected words were tagged NOUN. In UD 1.2, they are further
+divided according to their lemma. A lexicon was obtained from the latin lemmatizer LEMLAT, and
+words not covered by the lexicon were manually disambiguated by Berta Gonzáles and Marco
+Passarotti. Thus the nominally inflected words were retagged as NOUN, ADJ, PRON, DET or NUM.
+Furthermore, the uninflected words, previously tagged PART, are now retagged as ADV, ADP, CONJ,
+INTJ.
+
+
 ## Acknowledgments
+
+* http://itreebank.marginalia.it/ ... Index Thomisticus Treebank
+* http://ufal.mff.cuni.cz/hamledt ... HamleDT
+* http://ufal.mff.cuni.cz/treex ... Treex is the software used for conversion
+* http://ufal.mff.cuni.cz/interset ... Interset was used to convert POS tags and features
+
+<pre>
+@article{lait,
+author = {Passarotti, Marco and Dell’Orletta, Felice},
+title = {Improvements in parsing the index thomisticus treebank. Revision, combination and a feature model for medieval Latin},
+journal = {Training},
+volume = {2},
+pages = {61--024},
+year = {2010}
+}
+</pre>
+
+
+
 
 # Statistics of UD Latin ITTB
 
@@ -57,11 +103,24 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 17258 sentences and 291295 tokens.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 39978 tokens (14%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 90 types of words that contain both letters and punctuation. Examples: metaph., necesse-esse, cap., physic., gen., sap., metaphys., trin., dist., div., nom., phys., ioan., matth., rom., art., eccli., etc., ethic., lib., cor., ult., hier., cael., philipp., proverb., quaest., apoc., deut., eccle., ephes., eth., exod., prov., qu., quaestiunc., reg., ecclesiast., hebr., litt., luc., philip., corp., iac., ierem., psalm., tim., comment., consol., dan.</li>
+</ul>
+
+<ul>
 </ul>
 
 <h2>Morphology</h2>
@@ -71,6 +130,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
 <ul>
 <li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: PART, SYM</li>
+</ul>
+
+<ul>
 </ul>
 
 <ul>
@@ -93,7 +155,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
 </ul>
 
 <ul>
-<li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 5 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Fin
   <ul>
@@ -101,24 +165,36 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
     <li>VERB: est, potest, oportet, habet, sunt, patet, dicitur, sit, dicit, cognoscit</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Gdv
   <ul>
     <li>AUX: consideranda, iudicanda, ponenda</li>
     <li>VERB: dicendum, sciendum, considerandum, ostendendum, intelligendas, ponenda, intelligendum, inquirendum, cognoscenda, videndam</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Ger
   <ul>
     <li>AUX: essendi</li>
     <li>VERB: essendi, intelligendo, cognoscendo, agendo, intelligendum, recipiendum, intelligendi, movendo, loquendo, cognoscendum</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Inf
   <ul>
     <li>AUX: esse, dici, fieri, fuisse, cogitari, existere, accipi, effici, fore, resumi</li>
     <li>VERB: esse, intelligere, habere, fieri, dici, facere, velle, dicere, moveri, agere</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>AUX: facta, existentes, existens, existentia, creatae, creatas, dicta, factae, facti, habens</li>
@@ -126,12 +202,12 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
+
 <li><a>Gender</a>
+
   <ul>
     <li>Fem
       <ul>
@@ -149,6 +225,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>X: quod, decupla</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Masc
       <ul>
         <li>ADJ: possibilis, primo, ultimus, universi, divinus, possibili, ultimum, possibilem, christi, naturalis</li>
@@ -164,6 +243,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>X: quam</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neut
       <ul>
         <li>ADJ: impossibile, primum, infinitum, possibile, intelligibilia, proprium, secundum, manifestum, multa, necessarium</li>
@@ -182,10 +264,15 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Number</a>
+
   <ul>
     <li>Plur
       <ul>
@@ -204,6 +291,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>X: etc., omega</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: vero, divina, solum, impossibile, amplius, primum, primo, possibilis, divinae, prima</li>
@@ -226,9 +316,13 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Abl
       <ul>
@@ -246,6 +340,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>X: decupla</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Acc
       <ul>
         <li>ADJ: divinam, primum, infinitum, propriam, secundum, ultimum, possibilem, tertium, primam, diversas</li>
@@ -261,6 +358,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>VERB-Part: separatas, agentem, consequens, movens, determinatam, determinatum, factum, praedictam, intellecta, motum</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dat
       <ul>
         <li>ADJ: divinae, primo, diversis, mobili, naturali, intellectualibus, soli, principali, humanae, multis</li>
@@ -274,6 +374,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>VERB-Part: praedictae, creatis, existenti, agenti, creatae, creato, generanti, praedictis, separatis, discurrenti</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Gen
       <ul>
         <li>ADJ: divinae, universi, christi, primi, sensibilium, intellectualis, humanae, singularium, divini, possibilis</li>
@@ -290,6 +393,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>VERB-Part: separatae, agentis, moventis, intelligentis, separatarum, existentis, creati, mixti, generati, generantis</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Loc
       <ul>
         <li>ADJ: vero, solum, amplius, similiter, primo, naturaliter, simpliciter, prius, maxime, minus</li>
@@ -300,6 +406,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>VERB-Part: convenienter, expresse, determinate, diligenter, sufficienter, contingenter, convenientius, divisim, consequenter, deficienter</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Nom
       <ul>
         <li>ADJ: impossibile, divina, possibilis, prima, primum, possibile, intellectualis, substantialis, humana, naturalis</li>
@@ -318,6 +427,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>X: decuplum</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Voc
       <ul>
         <li>ADJ: maxime, praecipue, immediate</li>
@@ -327,13 +439,20 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
 
 
 
 <h3>Degree and Polarity</h3>
 
+
 <li><a>Degree</a>
+
   <ul>
     <li>Cmp
       <ul>
@@ -344,6 +463,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>X: ephes.</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>ADJ: vero, divina, solum, impossibile, primum, primo, prima, possibilis, divinae, divinam</li>
@@ -363,6 +485,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>X: decuplum, decupla</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sup
       <ul>
         <li>ADJ: maxime, ultimus, ultima, ultimum, ultimam, ultimo, optimum, nobilissima, supremum, nobilissimum</li>
@@ -373,13 +498,20 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
 
 
 
 <h3>Verbal Features</h3>
 
+
 <li><a>Aspect</a>
+
   <ul>
     <li>Imp
       <ul>
@@ -387,6 +519,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>VERB-Fin: esset, posset, sequeretur, oporteret, essent, erat, cognosceret, dicebant, haberet, possent</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Perf
       <ul>
         <li>AUX-Fin: fuit, fuerit, fuisset, fuerint, fuerunt, fuissent, fuerat, fuerant, remansisset</li>
@@ -398,9 +533,13 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Mood</a>
+
   <ul>
     <li>Imp
       <ul>
@@ -408,12 +547,18 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>VERB-Fin: puta, accipite, comedite, docete, mediate, nolite, quaerite, accipe, ambula, audi</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>AUX-Fin: est, sunt, dicitur, erit, fit, fuit, dicuntur, videtur, invenitur, erat</li>
         <li>VERB-Fin: est, potest, oportet, habet, sunt, patet, dicitur, dicit, cognoscit, habent</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sub
       <ul>
         <li>AUX-Fin: sit, esset, sint, essent, dicatur, fiat, fuisset, fuerit, existat, fuerint</li>
@@ -421,9 +566,13 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Tense</a>
+
   <ul>
     <li>Fut
       <ul>
@@ -434,12 +583,18 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>VERB-Part: facturum, judicaturus, venturi, amissuros, appariturum, desitura, duratura, duraturam, facturus, futuram</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Imp
       <ul>
         <li>AUX-Fin: esset, essent, erat, erant, fieret, videretur, dicerentur, diceretur, foret, manebat</li>
         <li>VERB-Fin: esset, posset, sequeretur, oporteret, essent, erat, cognosceret, dicebant, haberet, possent</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Past
       <ul>
         <li>AUX-Fin: fuit, fuerit, fuerunt, fuerint</li>
@@ -450,12 +605,18 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>VERB-Part: ostensum, separatae, dictum, probatum, separata, separatas, dictis, intellecta, praemissis, praedicta</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pqp
       <ul>
         <li>AUX-Fin: fuisset, fuissent, fuerat, fuerant, remansisset</li>
         <li>VERB-Fin: dixerat, fecerat, fuisset, accepisset, dixisset, habuisset, patrarat, assumpsissent, confirmasset, dedisset</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pres
       <ul>
         <li>AUX-Fin: est, sit, sunt, dicitur, sint, fit, dicuntur, videtur, invenitur, dicatur</li>
@@ -468,9 +629,13 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Voice</a>
+
   <ul>
     <li>Act
       <ul>
@@ -484,6 +649,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>VERB-Part: movens, agens, intelligens, existens, habens, agentem, agentis, agente, existentes, conveniens</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pass
       <ul>
         <li>AUX-Fin: dicitur, fit, dicuntur, videtur, invenitur, dicatur, fiat, efficitur, fiunt, ponitur</li>
@@ -498,12 +666,18 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Dem
       <ul>
@@ -511,77 +685,118 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>PRON: hoc, illud, haec, his, illa, illius, hac, hanc, huius, illam</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dem,Ind
       <ul>
         <li>PRON: tot</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dem,Prs
       <ul>
         <li>PRON: eius, ipsum, eo, ea, ipsa, id, ei, ipsius, eorum, ipso</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>DET: omnia, omne, omnis, omnes, omnibus, omnium, omni, omnem, cuncta, ceteris</li>
         <li>PRON: aliquid, aliqua, alia, aliud, quaedam, aliquam, aliquo, alicuius, aliis, alio</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind,Int
       <ul>
         <li>PRON: quid, quis, quem, quo, cui, numquid, nunquid, quae, qui, quod</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind,Rel
       <ul>
         <li>PRON: quicquid, quaecumque, quocumque, quicumque, quidquid, cuiuscumque, quamcumque, utrumlibet, quodcumque, quacumque</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Int,Rel
       <ul>
         <li>PRON: qualiter, qualis, quale, quot, qualem, quales, quantum, quantae, quali, qualia</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Neg
       <ul>
         <li>PRON: nihil, nihilo, nihilum, nemo, nil</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
         <li>DET: suam, sua, suum, suae, suo, noster, sui, nostra, suis, nostrae</li>
         <li>PRON: se, sibi, nobis, seipsum, nos, sui, seipsam, seipso, seipsa, ego</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rel
       <ul>
         <li>PRON: quae, quod, qui, quo, quam, qua, quibus, cuius, quorum, quem</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>NumType</a>
+
   <ul>
     <li>Card
       <ul>
         <li>NUM: unum, una, uno, unius, unam, unus, duo, duobus, tres, duae</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Dist
       <ul>
         <li>ADJ: singula, singulis, singulas, singulae, singulorum, singillatim, singulos, singulum</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ord
       <ul>
         <li>ADJ: primum, primo, prima, prius, secundum, secundo, tertium, primam, primi, secunda</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Poss</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -589,9 +804,13 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Reflex</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -599,9 +818,13 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Person</a>
+
   <ul>
     <li>1
       <ul>
@@ -609,6 +832,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>VERB-Fin: dicimus, videmus, possumus, intelligimus, respondeo, dico, cognoscimus, ostendi, volumus, attribui</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>AUX-Fin: es, estis, esto, estote</li>
@@ -616,6 +842,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
         <li>X: etc.</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>AUX-Fin: est, sit, sunt, esset, dicitur, sint, erit, fit, fuit, dicuntur</li>
@@ -624,12 +853,19 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
 
 
+
+
+
 <h3>Other Features</h3>
+
 
 <li><a>Abbr</a>
   <ul>
@@ -640,6 +876,7 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
     </li>
   </ul>
 </li>
+
 <li><a>AdpType</a>
   <ul>
     <li>Prep
@@ -649,6 +886,7 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
     </li>
   </ul>
 </li>
+
 <li><a>NumForm</a>
   <ul>
     <li>Digit
@@ -658,6 +896,7 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
     </li>
   </ul>
 </li>
+
 <li><a>VerbType</a>
   <ul>
     <li>Mod
@@ -678,6 +917,9 @@ If you want to collaborate, please contact [zeman&nbsp;(æt)&nbsp;ufal&nbsp;•&
 
 <ul>
 <li>This corpus uses 101 lemmas as copulas (<a>cop</a>). Examples: sum, dico, facio, video, invenio, pono, existo, efficio, significo, remaneo, maneo, intelligo, accipio, cogito, reddo, appareo, nomino, denomino, reputo, considero, voco, aestimo, creo, redeo, habeo, ostendo, propono, apprehendo, beatitudo, cognosco, computo, conspicio, constituo, esse, et, intellectus, iudico, possum, resumo, subsistens, subsisto, substantia, ,, ;, accidens, affinis, aliquis, animal, appello, arbitror.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 2 lemmas as auxiliaries (<a>aux</a>). Examples: sum, multus.</li>
 <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: sum, injustus.</li>
 </ul>

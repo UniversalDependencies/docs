@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-33699 nodes (11%) are attached to their parents as `case`.
+33696 nodes (11%) are attached to their parents as `case`.
 
-33518 instances of `case` (99%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.56900798243271.
+33515 instances of `case` (99%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.56882122507123.
 
-The following 11 pairs of parts of speech are connected with `case`: <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (24650; 73% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (4929; 15% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (1589; 5% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (941; 3% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (799; 2% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (325; 1% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (220; 1% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (127; 0% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (98; 0% instances), <tt><a href="no_nynorsk-pos-X.html">X</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (19; 0% instances), <tt><a href="no_nynorsk-pos-INTJ.html">INTJ</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (2; 0% instances).
+The following 11 pairs of parts of speech are connected with `case`: <tt><a href="no_nynorsk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (24649; 73% instances), <tt><a href="no_nynorsk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (4929; 15% instances), <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (1591; 5% instances), <tt><a href="no_nynorsk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (941; 3% instances), <tt><a href="no_nynorsk-pos-NUM.html">NUM</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (799; 2% instances), <tt><a href="no_nynorsk-pos-DET.html">DET</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (323; 1% instances), <tt><a href="no_nynorsk-pos-VERB.html">VERB</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (218; 1% instances), <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (127; 0% instances), <tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (98; 0% instances), <tt><a href="no_nynorsk-pos-X.html">X</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (19; 0% instances), <tt><a href="no_nynorsk-pos-INTJ.html">INTJ</a></tt>-<tt><a href="no_nynorsk-pos-ADP.html">ADP</a></tt> (2; 0% instances).
 
 
 ~~~ conllu
@@ -47,7 +47,7 @@ The following 11 pairs of parts of speech are connected with `case`: <tt><a href
 3	troikaen	troika	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	1	nmod	_	_
 4	er	vere	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	_
 5	her	her	ADV	_	_	0	root	_	_
-6	for	for	ADP	_	_	8	mark	_	_
+6	for	for	SCONJ	_	_	8	mark	_	_
 7	å	å	PART	_	_	8	mark	_	_
 8	få	få	VERB	_	VerbForm=Inf	5	advcl	_	_
 9	til	til	ADP	_	_	11	case	_	_

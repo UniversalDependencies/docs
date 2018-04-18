@@ -5,7 +5,7 @@ shortdef: 'reduplicated compound'
 udver: '2'
 ---
 
-The `compound:redup` relation is used for reduplicated compounds. There is a reduplication when a token is followed by one or several occurrence of the same token. [REFERENCE TO PCM] In Bamana, reduplication occurs with adverbs and interjections.
+The `compound:redup` relation is used for reduplication. In Bamana, reduplication occurs with almost all parts of speech, but most often with interjections.
 ~~~ conllu
 # visual-style 5 7 compound:redup	color:blue
 # visual-style 5	bgColor:blue

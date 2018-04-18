@@ -19,6 +19,7 @@ an open community effort with over 200 contributors producing more than 100 tree
 * Query UD treebanks online:
   * [SETS treebank search](http://bionlp-www.utu.fi/dep_search) maintained by the University of Turku
   * [PML Tree Query](http://lindat.mff.cuni.cz/services/pmltq/) maintained by the Charles University in Prague
+  * [Kontext](http://lindat.mff.cuni.cz/services/kontext/corpora/corplist) maintained by the Charles University in Prague
 
 If you want to receive news about Universal Dependencies, you can subscribe to the
 [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud).
@@ -46,6 +47,7 @@ If you want to receive news about Universal Dependencies, you can subscribe to t
 
 The data is released through LINDAT/CLARIN.
 
+* Version 2.2 treebanks: the training and development data of the [CoNLL 2018 Shared Task](http://universaldependencies.org/conll18/) are [available here](http://ufal.mff.cuni.cz/~zeman/soubory/release-2.2-st-train-dev-data.zip). The full release 2.2 will happen after the shared task and is scheduled for July 1.
 * Version 2.1 treebanks are available at <a href="http://hdl.handle.net/11234/1-2515">http://hdl.handle.net/11234/1-2515</a>. 102 treebanks, 60 languages, released November 15, 2017.
 * Version 2.0 treebanks are archived at http://hdl.handle.net/11234/1-1983. 70 treebanks, 50 languages, released March 1, 2017.
   * Test data 2.0 are archived at http://hdl.handle.net/11234/1-2184. 81 treebanks, 49 languages, released May 18, 2017.
@@ -55,5 +57,5 @@ The data is released through LINDAT/CLARIN.
 * Version 1.1 treebanks are archived at http://hdl.handle.net/11234/LRT-1478. 19 treebanks, 18 languages, released May 15, 2015.
 * Version 1.0 treebanks are archived at http://hdl.handle.net/11234/1-1464. 10 treebanks, 10 languages, released January 15, 2015.
 * In general, we intend to have regular treebank releases every six months. The v2.0 and v2.2 releases are brought forward because of their usage in the [CoNLL 2017 and 2018 Multilingual Parsing Shared Tasks](http://universaldependencies.org/conll17/).
-* The next release (v2.2) is scheduled for April 15, 2018.
+* The next release (v2.2) is scheduled for April 15, 2018 (partial release, only the training data for the [CoNLL 2018 Shared Task](http://universaldependencies.org/conll18/)) and for July 1, 2018 (full release).
 

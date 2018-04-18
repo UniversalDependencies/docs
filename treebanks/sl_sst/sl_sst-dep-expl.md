@@ -17,37 +17,41 @@ The following 11 pairs of parts of speech are connected with `expl`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 3 expl	color:blue
-1	eee	eee	INTJ	I	_	6	discourse:filler	_	word=eee|msd=M
-2	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	6	nsubj	_	word=to|msd=Zk-sei
-3	se	se	PRON	Px------y	PronType=Prs|Variant=Short	6	expl	_	word=se|msd=Zp------k
-4	bo	biti	AUX	Va-f3s-n	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbForm=Fin	6	aux	_	word=bo|msd=Gp-pte-n
-5	očitno	očitno	ADV	Rgp	Degree=Pos	6	advmod	_	word=očitno|msd=Rsn
-6	razmahnilo	razmahniti	VERB	Vmep-sn	Aspect=Perf|Gender=Neut|Number=Sing|VerbForm=Part	0	root	_	word=razmahnilo|msd=Ggdd-es
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 expl	color:blue
+1	[speaker:laughter]	[speaker:laughter]	X	X	_	5	punct	_	word=[speaker:laughter]|msd=N
+2	dobro	dobro	ADV	Rgp	Degree=Pos	5	discourse	_	word=dobro|msd=Rsn
+3	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	word=jaz|msd=Zop-ei
+4	se	se	PRON	Px------y	PronType=Prs|Variant=Short	5	expl	_	word=se|msd=Zp------k
+5	nisem	biti	VERB	Va-r1s-y	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	word=nisem|msd=Gp-spe-d
+6	eem	eem	INTJ	I	_	5	discourse:filler	_	word=eem|msd=M
 
 ~~~
 
 
 ~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 4 expl	color:blue
-1	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	word=jaz|msd=Zop-ei
-2	sem	biti	AUX	Va-r1s-n	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbForm=Fin	9	aux	_	word=sem|msd=Gp-spe-n
-3	pa	pa	CCONJ	Cc	_	9	advmod	_	word=pa|msd=Vp
-4	to	ta	DET	Pd-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	9	expl	_	word=to|msd=Zk-set
-5	že	že	PART	Q	_	9	advmod	_	word=že|msd=L
-6	zjutraj	zjutraj	ADV	Rgp	Degree=Pos	9	advmod	_	word=zjutrej|msd=Rsn
-7	o	o	ADP	Sl	Case=Loc	8	case	_	word=o|msd=Dm
-8	tem	ta	DET	Pd-nsl	Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	9	obl	_	word=tem|msd=Zk-sem
-9	razglabljal	razglabljati	VERB	Vmpp-sm	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	word=razglablov|msd=Ggnd-em
-10	ne	ne	PART	Q	_	9	discourse	_	word=ne|msd=L
+# visual-style 4 2 expl	color:blue
+1	in	in	CCONJ	Cc	_	4	cc	_	word=in|msd=Vp
+2	to	ta	DET	Pd-nsn	Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	4	expl	_	word=to|msd=Zk-sei
+3	so	biti	AUX	Va-r3p-n	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	4	aux	_	word=so|msd=Gp-stm-n
+4	mešali	mešati	VERB	Vmpp-pm	Aspect=Imp|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	word=mešal|msd=Ggnd-mm
+5	kar	kar	ADV	Rgp	Degree=Pos	6	advmod	_	word=kr|msd=Rsn
+6	eno	en	NUM	Mlpnsa	Case=Acc|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card	7	nummod	_	word=en|msd=Kbzset
+7	olje	olje	NOUN	Ncnsa	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	word=ole|msd=Soset
+8	pa	pa	CCONJ	Cc	_	14	cc	_	word=pa|msd=Vp
+9	ene	en	NUM	Mlpfpa	Case=Acc|Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	14	nummod	_	word=ene|msd=Kbzzmt
+10	take	tak	DET	Pd-fpa	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	14	det	_	word=take|msd=Zk-zmt
+11	č	_	X	Xt	_	13	reparandum	_	word=č|msd=Nt
+12	[gap]	[gap]	X	X	_	4	punct	_	word=[gap]|msd=N
+13	stare	star	ADJ	Agpfpa	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	14	amod	_	word=stare|msd=Ppnzmt
+14	barve	barva	NOUN	Ncfpa	Case=Acc|Gender=Fem|Number=Plur	7	conj	_	word=barve|msd=Sozmt
 
 ~~~
 

@@ -12,19 +12,19 @@ It occurs with 3 different values: `Cnd`, `Imp`, `Ind`.
 4309 tokens (15%) have a non-empty value of `Mood`.
 773 types (13%) occur at least once with a non-empty value of `Mood`.
 451 lemmas (11%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (2515; 9% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (1794; 6% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> (2513; 9% instances), <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> (1796; 6% instances).
 
 ### `VERB`
 
-2515 <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> tokens (64% of all `VERB` tokens) have a non-empty value of `Mood`.
+2513 <tt><a href="sl_sst-pos-VERB.html">VERB</a></tt> tokens (64% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="sl_sst-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2515; 100%), <tt><a href="sl_sst-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2515; 100%), <tt><a href="sl_sst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2228; 89%), <tt><a href="sl_sst-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1769; 70%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1761; 70%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="sl_sst-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (2513; 100%), <tt><a href="sl_sst-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (2513; 100%), <tt><a href="sl_sst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (2226; 89%), <tt><a href="sl_sst-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1769; 70%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1759; 70%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (15; 1% of non-empty `Mood`): <em>bi</em>
 * `Imp` (208; 8% of non-empty `Mood`): <em>recimo, daj, glej, čakaj, povej, glejte, poglejte, gremo, dajmo, požri</em>
-* `Ind` (2292; 91% of non-empty `Mood`): <em>je, vem, veš, mislim, ni, ima, so, bo, pravi, imamo</em>
+* `Ind` (2290; 91% of non-empty `Mood`): <em>je, vem, veš, mislim, ni, ima, so, bo, pravi, imamo</em>
 * `EMPTY` (1420): <em>bilo, bil, imela, rekel, imeli, šla, bila, imel, rekla, rekli</em>
 
 <table>
@@ -57,15 +57,15 @@ The most frequent other feature values with which `VERB` and `Mood` co-occurred:
 
 ### `AUX`
 
-1794 <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Mood`.
+1796 <tt><a href="sl_sst-pos-AUX.html">AUX</a></tt> tokens (93% of all `AUX` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="sl_sst-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1794; 100%), <tt><a href="sl_sst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1536; 86%), <tt><a href="sl_sst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1421; 79%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1184; 66%), <tt><a href="sl_sst-feat-Person.html">Person</a></tt><tt>=3</tt> (1121; 62%).
+The most frequent other feature values with which `AUX` and `Mood` co-occurred: <tt><a href="sl_sst-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1796; 100%), <tt><a href="sl_sst-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt> (1538; 86%), <tt><a href="sl_sst-feat-Tense.html">Tense</a></tt><tt>=Pres</tt> (1423; 79%), <tt><a href="sl_sst-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1186; 66%), <tt><a href="sl_sst-feat-Person.html">Person</a></tt><tt>=3</tt> (1122; 62%).
 
 `AUX` tokens may have the following values of `Mood`:
 
 * `Cnd` (134; 7% of non-empty `Mood`): <em>bi</em>
 * `Imp` (4; 0% of non-empty `Mood`): <em>bodite, bodi</em>
-* `Ind` (1656; 92% of non-empty `Mood`): <em>je, so, sem, bo, smo, ni, si, bomo, ste, bom</em>
+* `Ind` (1658; 92% of non-empty `Mood`): <em>je, so, sem, bo, smo, ni, si, bomo, ste, bom</em>
 * `EMPTY` (140): <em>bila, bil, bilo, bili, biti, bile</em>
 
 <table>

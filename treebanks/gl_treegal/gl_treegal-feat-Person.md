@@ -95,9 +95,9 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>VERB --[<tt><a href="gl_treegal-dep-expl.html">expl</a></tt>]--> PRON</tt> (200; 70%),
-<tt>VERB --[<tt><a href="gl_treegal-dep-conj.html">conj</a></tt>]--> VERB</tt> (109; 71%),
+<tt>VERB --[<tt><a href="gl_treegal-dep-conj.html">conj</a></tt>]--> VERB</tt> (109; 72%),
 <tt>PRON --[<tt><a href="gl_treegal-dep-acl.html">acl</a></tt>]--> VERB</tt> (54; 68%),
-<tt>VERB --[<tt><a href="gl_treegal-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (18; 64%),
+<tt>VERB --[<tt><a href="gl_treegal-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (18; 62%),
 <tt>PRON --[<tt><a href="gl_treegal-dep-conj.html">conj</a></tt>]--> PRON</tt> (2; 67%),
 <tt>AUX --[<tt><a href="gl_treegal-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (1; 100%).
 

@@ -21,7 +21,7 @@ The 10 most frequent ambiguous types:
 
 ## Morphology
 
-The form / lemma ratio of `X` is 1.076923 (the average of all parts of speech is 3.429154).
+The form / lemma ratio of `X` is 1.076923 (the average of all parts of speech is 3.435571).
 
 The 1st highest number of forms (2) was observed with the lemma “ἑλωΐ”: <em>ἑλωῒ, ἡλεὶ</em>.
 
@@ -34,7 +34,7 @@ The 3rd highest number of forms (1) was observed with the lemma “κορβᾶν
 
 ## Relations
 
-`X` nodes are attached to their parents using 6 different relations: <tt><a href="grc_proiel-dep-vocative.html">vocative</a></tt> (8; 42% instances), <tt><a href="grc_proiel-dep-root.html">root</a></tt> (5; 26% instances), <tt><a href="grc_proiel-dep-amod.html">amod</a></tt> (2; 11% instances), <tt><a href="grc_proiel-dep-xcomp.html">xcomp</a></tt> (2; 11% instances), <tt><a href="grc_proiel-dep-obj-dir.html">obj:dir</a></tt> (1; 5% instances), <tt><a href="grc_proiel-dep-parataxis.html">parataxis</a></tt> (1; 5% instances)
+`X` nodes are attached to their parents using 6 different relations: <tt><a href="grc_proiel-dep-vocative.html">vocative</a></tt> (8; 42% instances), <tt><a href="grc_proiel-dep-root.html">root</a></tt> (5; 26% instances), <tt><a href="grc_proiel-dep-amod.html">amod</a></tt> (2; 11% instances), <tt><a href="grc_proiel-dep-xcomp.html">xcomp</a></tt> (2; 11% instances), <tt><a href="grc_proiel-dep-obj.html">obj</a></tt> (1; 5% instances), <tt><a href="grc_proiel-dep-parataxis.html">parataxis</a></tt> (1; 5% instances)
 
 Parents of `X` nodes belong to 4 different parts of speech: <tt><a href="grc_proiel-pos-X.html">X</a></tt> (8; 42% instances),  (5; 26% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (4; 21% instances), <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> (2; 11% instances)
 

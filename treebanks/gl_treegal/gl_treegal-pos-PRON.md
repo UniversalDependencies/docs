@@ -19,43 +19,43 @@ The 10 most frequent ambiguous types:  <em>que</em> (<tt><a href="gl_treegal-pos
 
 
 * <em>que</em>
-  * <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> 489: <em>A administración é a única <b>que</b> se libra " .</em>
-  * <tt><a href="gl_treegal-pos-SCONJ.html">SCONJ</a></tt> 331: <em>A mesma <b>que</b> hai catro anos e <b>que</b> a de Abel Caballero hai oito :</em>
+  * <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> 489: <em>Discutir <b>que</b> é un clásico .</em>
+  * <tt><a href="gl_treegal-pos-SCONJ.html">SCONJ</a></tt> 331: <em>Traballamos máis horas <b>que</b> os xaponeses .</em>
   * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 3: <em>Con <b>que</b> obxectivo nace o Sindicato de Xornalistas de Galicia ?</em>
 * <em>se</em>
-  * <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> 236: <em>A as cinco remata <b>se</b> de traballar " .</em>
+  * <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> 236: <em>En titulares máis pequenos pode <b>se</b> ler :</em>
   * <tt><a href="gl_treegal-pos-SCONJ.html">SCONJ</a></tt> 31: <em><b>se</b> cando a paso a a guitarra , esa obra perde non a fago .</em>
   * <tt><a href="gl_treegal-pos-ADV.html">ADV</a></tt> 1: <em>Hai quen afirma que se fose a estrutura orgánica de o BNG a que elaborase as bases para un novo Estatuto , tería medo , <b>se</b> cadra , de facer lo tan " nacionalista " .</em>
 * <em>o</em>
-  * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 1005: <em>Europeizar <b>o</b> horario de traballo</em>
-  * <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> 86: <em>Dicía Jean Cocteau que a moda é <b>o</b> que pasa de moda .</em>
+  * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 1005: <em>E como <b>o</b> falar non ten cancela , engade :</em>
+  * <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> 86: <em>Un de eles é <b>o</b> de Celulosas .</em>
 * <em>a</em>
-  * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 1011: <em>" Temos <b>a</b> xornada laboral máis longa de Europa .</em>
-  * <tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> 436: <em>E segue o seu baduar <b>a</b> o chou :</em>
-  * <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> 28: <em>A mesma que hai catro anos e que <b>a</b> de Abel Caballero hai oito :</em>
+  * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 1011: <em>O Foro para o Novo Estatuto recolle o dereito a <b>a</b> autodeterminación</em>
+  * <tt><a href="gl_treegal-pos-ADP.html">ADP</a></tt> 436: <em>O Foro para o Novo Estatuto recolle o dereito <b>a</b> a autodeterminación</em>
+  * <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> 28: <em>A primeira versión de o Quixote en galego fixo <b>a</b> A Nosa Terra en 1917</em>
 * <em>lo</em>
   * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 50: <em>Será a partir de o 1 de abril e non sen polémicas nin alegacións por <b>lo</b> medio .</em>
   * <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> 20: <em>Sigo a ser <b>lo</b> .</em>
 * <em>os</em>
-  * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 357: <em>Pero non todos <b>os</b> socialistas están de acordo con esta estratexia .</em>
+  * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 357: <em>Traballamos máis horas que <b>os</b> xaponeses .</em>
   * <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> 16: <em>Tamén <b>os</b> de a OTAN .</em>
 * <em>todo</em>
   * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 20: <em>En <b>todo</b> caso , parece que se entende ben con os nacionalistas .</em>
   * <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> 17: <em>De todos modos , o meu público é , sobre <b>todo</b> , xuvenil .</em>
 * <em>un</em>
-  * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 250: <em>Entrou como <b>un</b> canón con Tesis .</em>
+  * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 250: <em>Touriño dá <b>un</b> xiro en a súa estratexia de campaña</em>
   * <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> 13: <em>Ese foi <b>un</b> de os temas que máis discutimos en a Asamblea Constituínte .</em>
   * <tt><a href="gl_treegal-pos-NUM.html">NUM</a></tt> 9: <em>Menos que agora , se é <b>un</b> cuarto de hora para un recado rápido .</em>
 * <em>algúns</em>
   * <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> 11: <em>Todo un exemplo para outros , mesmo para <b>algúns</b> nacidos en a propia casa .</em>
   * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 6: <em>En Cataluña a polémica de o 3 % ( que supostamente cobraron <b>algúns</b> políticos de as construtoras ) ;</em>
 * <em>as</em>
-  * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 270: <em>A <b>as</b> cinco remata se de traballar " .</em>
+  * <tt><a href="gl_treegal-pos-DET.html">DET</a></tt> 270: <em>Quen decidirá os candidatos a <b>as</b> futuras eleccións autonómicas e locais ?</em>
   * <tt><a href="gl_treegal-pos-PRON.html">PRON</a></tt> 11: <em>Nin tampouco relacionar a súa proposta con <b>as</b> de Euskadi e Cataluña , que por moito que sexan diferentes forman parte de a mesma e inseparábel conxuntura política .</em>
 
 ## Morphology
 
-The form / lemma ratio of `PRON` is 1.975000 (the average of all parts of speech is 1.370813).
+The form / lemma ratio of `PRON` is 1.975000 (the average of all parts of speech is 1.370902).
 
 The 1st highest number of forms (10) was observed with the lemma “o”: <em>a, as, la, lo, los, na, no, nos, o, os</em>.
 

@@ -19,40 +19,45 @@ The following 7 pairs of parts of speech are connected with `iobj`: <tt><a href=
 ~~~ conllu
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 iobj	color:blue
-1	Moitos	moito	DET	Idmp	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
-2	presidentes	presidente	NOUN	Scmp	Gender=Masc|Number=Plur	3	nsubj	_	_
-3	sorriron	sorrir	VERB	Vei30p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-4	lle	lle	PRON	Rad3as	Case=Dat|Clitic=Yes|Gender=Com|Number=Sing|Person=3|PronType=Prs	3	iobj	_	_
-5	.	.	PUNCT	Q.	_	3	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 iobj	color:blue
+1	É	ser	AUX	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
+2	algo	algo	PRON	Inms	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	_
+3	que	que	PRON	Tnms	Gender=Masc|Number=Sing|PronType=Rel	5	nsubj	_	_
+4	che	che	PRON	Rad2as	Case=Dat|Clitic=Yes|Gender=Com|Number=Sing|Person=2|PronType=Prs	5	iobj	_	_
+5	fai	facer	VERB	Vpi30s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	_
+6	ver	ver	VERB	V0f000	VerbForm=Inf	5	xcomp	_	_
+7	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	natureza	natureza	NOUN	Scfs	Gender=Fem|Number=Sing	6	obj	_	_
+9	de	de	ADP	P	AdpType=Prep	10	case	_	_
+10	maneira	maneira	NOUN	Scfs	Gender=Fem|Number=Sing	6	obl	_	_
+11	diferente	diferente	ADJ	A0fs	Gender=Fem|Number=Sing	10	amod	_	SpaceAfter=No
+12	.	.	PUNCT	Q.	_	2	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 10 iobj	color:blue
-1	¿	¿	PUNCT	Q¿	_	6	punct	_	SpaceAfter=No
-2	Por	por	ADP	P	AdpType=Prep	3	case	_	_
-3	que	que	PRON	Gnaa	Gender=Com|PronType=Int	6	obl	_	_
-4	non	non	ADV	Wn	Polarity=Neg	6	advmod	_	_
-5	lle	lle	PRON	Rad3fs	Case=Dat|Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
-6	piden	pedir	VERB	Vpi30p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-7	previsión	previsión	NOUN	Scfs	Gender=Fem|Number=Sing	6	obj	_	_
-8	a	a	ADP	P	AdpType=Prep	10	case	_	_
-9	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-10	empresa	empresa	NOUN	Scfs	Gender=Fem|Number=Sing	6	iobj	_	_
-11	para	para	ADP	P	AdpType=Prep	12	mark	_	_
-12	asegurar	asegurar	VERB	V0f000	VerbForm=Inf	6	advcl	_	_
-13	se	se	PRON	Rao3aa	Clitic=Yes|Gender=Com|Person=3|PronType=Prs	12	nsubj	_	_
-14	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
-15	futuro	futuro	NOUN	Scms	Gender=Masc|Number=Sing	12	obj	_	SpaceAfter=No
-16	?	?	PUNCT	Q?	_	6	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 9 iobj	color:blue
+1	O	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+2	BNG	BNG	PROPN	Zgms	Gender=Masc|Number=Sing	3	nsubj	_	_
+3	solicitou	solicitar	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	lle	lle	PRON	Rad3ms	Case=Dat|Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
+5	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	proposta	proposta	NOUN	Scfs	Gender=Fem|Number=Sing	3	obj	_	_
+7	a	a	ADP	P	AdpType=Prep	9	case	_	_
+8	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	equipo	equipo	NOUN	Scms	Gender=Masc|Number=Sing	3	iobj	_	_
+10	de	de	ADP	P	AdpType=Prep	11	case	_	_
+11	expertos	experto	NOUN	Scmp	Gender=Masc|Number=Plur	9	nmod	_	_
+12	en	en	ADP	P	AdpType=Prep	14	case	_	_
+13	diferentes	diferente	ADJ	A0fp	Gender=Fem|Number=Plur	14	amod	_	_
+14	áreas	área	NOUN	Scfp	Gender=Fem|Number=Plur	11	nmod	_	_
 
 ~~~
 

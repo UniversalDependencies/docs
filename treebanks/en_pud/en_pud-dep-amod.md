@@ -22,18 +22,18 @@ The following 14 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 2 amod	color:blue
-1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	_
-2	new	new	ADJ	JJ	Degree=Pos	3	amod	_	_
-3	spending	spending	NOUN	NN	Number=Sing	5	nsubj:pass	_	_
-4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	_
-5	fueled	fuel	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-6	by	by	ADP	IN	_	11	case	_	_
-7	Clinton	Clinton	PROPN	NNP	Number=Sing	11	nmod:poss	_	SpaceAfter=No
-8	’s	’s	PART	POS	_	7	case	_	_
-9	large	large	ADJ	JJ	Degree=Pos	11	amod	_	_
-10	bank	bank	NOUN	NN	Number=Sing	11	compound	_	_
-11	account	account	NOUN	NN	Number=Sing	5	obl	_	SpaceAfter=No
-12	.	.	PUNCT	.	_	5	punct	_	_
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	_
+2	new	new	ADJ	JJ	Degree=Pos	3	amod	3:amod	_
+3	spending	spending	NOUN	NN	Number=Sing	5	nsubj:pass	5:nsubj:pass	_
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	5:aux:pass	_
+5	fueled	fuel	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+6	by	by	ADP	IN	_	11	case	11:case	_
+7	Clinton	Clinton	PROPN	NNP	Number=Sing	11	nmod:poss	11:nmod:poss	SpaceAfter=No
+8	’s	’s	PART	POS	_	7	case	7:case	_
+9	large	large	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
+10	bank	bank	NOUN	NN	Number=Sing	11	compound	11:compound	_
+11	account	account	NOUN	NN	Number=Sing	5	obl	5:obl:by	SpaceAfter=No
+12	.	.	PUNCT	.	_	5	punct	5:punct	_
 
 ~~~
 
@@ -44,20 +44,20 @@ The following 14 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 11 amod	color:blue
-1	New	new	ADJ	JJ	Degree=Pos	2	amod	_	_
-2	episodes	episode	NOUN	NNS	Number=Plur	4	nsubj:pass	_	_
-3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
-4	followed	follow	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-5	by	by	ADP	IN	_	6	case	_	_
-6	after	after	ADP	GW	_	4	obl	_	_
-7	show	show	NOUN	NN	Number=Sing	6	goeswith	_	SpaceAfter=No
-8	,	,	PUNCT	,	_	4	punct	_	_
-9	"	"	PUNCT	``	_	12	punct	_	SpaceAfter=No
-10	The	the	DET	DT	Definite=Def|PronType=Art	12	det	_	Proper=True
-11	Talking	talk	VERB	VBG	VerbForm=Ger	12	amod	_	_
-12	Dead	dead	NOUN	NN	Number=Sing	6	appos	_	SpaceAfter=No
-13	.	.	PUNCT	.	_	12	punct	_	SpaceAfter=No
-14	"	"	PUNCT	''	_	12	punct	_	_
+1	New	new	ADJ	JJ	Degree=Pos	2	amod	2:amod	_
+2	episodes	episode	NOUN	NNS	Number=Plur	4	nsubj:pass	4:nsubj:pass	_
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux:pass	4:aux:pass	_
+4	followed	follow	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+5	by	by	ADP	IN	_	6	case	6:case	_
+6	after	after	ADP	GW	_	4	obl	4:obl:by	_
+7	show	show	NOUN	NN	Number=Sing	6	goeswith	6:goeswith	SpaceAfter=No
+8	,	,	PUNCT	,	_	4	punct	4:punct	_
+9	"	"	PUNCT	``	_	12	punct	12:punct	SpaceAfter=No
+10	The	the	DET	DT	Definite=Def|PronType=Art	12	det	12:det	Proper=True
+11	Talking	talk	VERB	VBG	VerbForm=Ger	12	amod	12:amod	_
+12	Dead	dead	NOUN	NN	Number=Sing	6	appos	6:appos	SpaceAfter=No
+13	.	.	PUNCT	.	_	12	punct	12:punct	SpaceAfter=No
+14	"	"	PUNCT	''	_	12	punct	12:punct	_
 
 ~~~
 
@@ -68,19 +68,19 @@ The following 14 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 amod	color:blue
-1	The	the	DET	DT	Definite=Def|PronType=Art	4	det	_	_
-2	last	last	ADJ	JJ	Degree=Pos	4	amod	_	_
-3	Olympic	Olympic	PROPN	NNP	Number=Sing	4	compound	_	_
-4	Games	Games	PROPN	NNPS	Number=Plur	6	nsubj:pass	_	_
-5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux:pass	_	_
-6	believed	believe	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	_
-7	to	to	PART	TO	_	10	mark	_	_
-8	have	have	AUX	VB	VerbForm=Inf	10	aux	_	_
-9	been	be	AUX	VBN	Tense=Past|VerbForm=Part	10	aux:pass	_	_
-10	held	hold	VERB	VBN	Tense=Past|VerbForm=Part	6	xcomp	_	_
-11	in	in	ADP	IN	_	12	case	_	_
-12	393	393	NUM	CD	NumType=Card	10	obl	_	SpaceAfter=No
-13	.	.	PUNCT	.	_	6	punct	_	_
+1	The	the	DET	DT	Definite=Def|PronType=Art	4	det	4:det	_
+2	last	last	ADJ	JJ	Degree=Pos	4	amod	4:amod	_
+3	Olympic	Olympic	PROPN	NNP	Number=Sing	4	compound	4:compound	_
+4	Games	Games	PROPN	NNPS	Number=Plur	6	nsubj:pass	6:nsubj:pass|10:nsubj:xsubj	_
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux:pass	6:aux:pass	_
+6	believed	believe	VERB	VBN	Tense=Past|VerbForm=Part	0	root	0:root	_
+7	to	to	PART	TO	_	10	mark	10:mark	_
+8	have	have	AUX	VB	VerbForm=Inf	10	aux	10:aux	_
+9	been	be	AUX	VBN	Tense=Past|VerbForm=Part	10	aux:pass	10:aux:pass	_
+10	held	hold	VERB	VBN	Tense=Past|VerbForm=Part	6	xcomp	6:xcomp	_
+11	in	in	ADP	IN	_	12	case	12:case	_
+12	393	393	NUM	CD	NumType=Card	10	obl	10:obl:in	SpaceAfter=No
+13	.	.	PUNCT	.	_	6	punct	6:punct	_
 
 ~~~
 

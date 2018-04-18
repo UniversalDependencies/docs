@@ -71,19 +71,17 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 
 1 <tt><a href="no_nynorsk-pos-ADV.html">ADV</a></tt> tokens (0% of all `ADV` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `ADV` and `VerbForm` co-occurred: <tt><a href="no_nynorsk-feat-Polarity.html">Polarity</a></tt><tt>=EMPTY</tt> (1; 100%).
-
 `ADV` tokens may have the following values of `VerbForm`:
 
 * `Inf` (1; 100% of non-empty `VerbForm`): <em>hende</em>
-* `EMPTY` (11623): <em>ikkje, så, også, no, her, berre, slik, då, nok, òg</em>
+* `EMPTY` (9084): <em>så, også, no, her, berre, slik, då, nok, òg, korleis</em>
 
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="no_nynorsk-dep-conj.html">conj</a></tt>]--> VERB</tt> (2157; 79%),
 <tt>VERB --[<tt><a href="no_nynorsk-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (560; 59%),
-<tt>VERB --[<tt><a href="no_nynorsk-dep-appos.html">appos</a></tt>]--> VERB</tt> (11; 79%),
+<tt>VERB --[<tt><a href="no_nynorsk-dep-acl.html">acl</a></tt>]--> VERB</tt> (11; 79%),
 <tt>ADJ --[<tt><a href="no_nynorsk-dep-aux-pass.html">aux:pass</a></tt>]--> ADJ</tt> (7; 100%),
 <tt>ADJ --[<tt><a href="no_nynorsk-dep-mark.html">mark</a></tt>]--> ADJ</tt> (7; 88%),
 <tt>AUX --[<tt><a href="no_nynorsk-dep-conj.html">conj</a></tt>]--> VERB</tt> (3; 100%),

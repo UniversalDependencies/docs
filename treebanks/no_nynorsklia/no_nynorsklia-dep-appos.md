@@ -17,19 +17,17 @@ The following 14 pairs of parts of speech are connected with `appos`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 2 7 appos	color:blue
-1	nei	nei	INTJ	_	_	3	discourse	_	_
+# visual-style 2 4 appos	color:blue
+1	var	vere	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	3	cop	_	_
 2	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
-3	var	vere	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-4	nå	nå	ADV	_	_	3	advmod	_	_
-5	i	i	ADP	_	_	6	case	_	_
-6	tredvetala	tredvetale	NOUN	_	Definite=Def|Gender=Fem|Number=Sing	3	obl	_	_
-7	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	appos	_	_
-8	.	$.	PUNCT	_	_	3	punct	_	_
+3	samlestasjonar	samlestasjon	NOUN	_	Definite=Ind|Gender=Masc|Number=Plur	0	root	_	_
+4	det	det	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	2	appos	_	_
+5	da	da	ADV	_	_	3	advmod	_	_
+6	?	$?	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
@@ -60,22 +58,16 @@ The following 14 pairs of parts of speech are connected with `appos`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 2 appos	color:blue
-1	han	han	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	_
-2	M13	M13	PROPN	_	_	1	appos	_	_
-3	å	_	X	_	_	8	obl	_	_
-4	han	han	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	1	conj	_	_
-5	M14	M14	PROPN	_	_	4	appos	_	_
-6	var	vere	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	8	cop	_	_
-7	jo	jo	ADV	_	_	8	advmod	_	_
-8	mindre	liten	ADJ	_	_	0	root	_	_
-9	så	så	ADV	_	_	10	cc	_	_
-10	han	han	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	conj	_	_
-11	.	$.	PUNCT	_	_	8	punct	_	_
+# visual-style 1 3 appos	color:blue
+1	desse	desse	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	0	root	_	_
+2	her	her	ADV	_	_	1	advmod	_	_
+3	Fordane	Fordane	PROPN	_	_	1	appos	_	_
+4	førstninga	førstning	NOUN	_	Definite=Def|Gender=Fem|Number=Sing	1	obl	_	_
+5	.	$.	PUNCT	_	_	1	punct	_	_
 
 ~~~
 

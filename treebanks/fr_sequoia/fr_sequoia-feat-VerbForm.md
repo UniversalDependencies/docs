@@ -9,23 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Fin`, `Inf`, `Part`.
 
-8206 tokens (12%) have a non-empty value of `VerbForm`.
-2589 types (28%) occur at least once with a non-empty value of `VerbForm`.
+8209 tokens (12%) have a non-empty value of `VerbForm`.
+2590 types (28%) occur at least once with a non-empty value of `VerbForm`.
 980 lemmas (15%) occur at least once with a non-empty value of `VerbForm`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (5903; 8% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (2303; 3% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> (5906; 8% instances), <tt><a href="fr_sequoia-pos-AUX.html">AUX</a></tt> (2303; 3% instances).
 
 ### `VERB`
 
-5903 <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
+5906 <tt><a href="fr_sequoia-pos-VERB.html">VERB</a></tt> tokens (100% of all `VERB` tokens) have a non-empty value of `VerbForm`.
 
-The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="fr_sequoia-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (5147; 87%), <tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3775; 64%), <tt><a href="fr_sequoia-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3769; 64%), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3708; 63%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3034; 51%).
+The most frequent other feature values with which `VERB` and `VerbForm` co-occurred: <tt><a href="fr_sequoia-feat-Voice.html">Voice</a></tt><tt>=EMPTY</tt> (5149; 87%), <tt><a href="fr_sequoia-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (3778; 64%), <tt><a href="fr_sequoia-feat-Mood.html">Mood</a></tt><tt>=EMPTY</tt> (3772; 64%), <tt><a href="fr_sequoia-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (3711; 63%), <tt><a href="fr_sequoia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (3034; 51%).
 
 `VERB` tokens may have the following values of `VerbForm`:
 
 * `Fin` (2134; 36% of non-empty `VerbForm`): <em>doit, a, peut, est, doivent, faut, peuvent, voudrais, pense, agit</em>
 * `Inf` (1205; 20% of non-empty `VerbForm`): <em>voir, faire, prendre, avoir, utiliser, dire, partir, savoir, obtenir, recevoir</em>
-* `Part` (2564; 43% of non-empty `VerbForm`): <em>mis, eu, traités, utilisé, atteints, administré, reçu, concernant, pris, pu</em>
-* `EMPTY` (3): <em>étant</em>
+* `Part` (2567; 43% of non-empty `VerbForm`): <em>mis, eu, traités, utilisé, atteints, administré, reçu, concernant, pris, pu</em>
 
 <table>
   <tr><th>Paradigm <i>devoir</i></th><th><tt>Fin</tt></th><th><tt>Inf</tt></th><th><tt>Part</tt></th></tr>
@@ -93,7 +92,7 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 ## Relations with Agreement in `VerbForm`
 
 The 10 most frequent relations where parent and child node agree in `VerbForm`:
-<tt>VERB --[<tt><a href="fr_sequoia-dep-conj.html">conj</a></tt>]--> VERB</tt> (319; 80%),
-<tt>VERB --[<tt><a href="fr_sequoia-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (15; 71%),
+<tt>VERB --[<tt><a href="fr_sequoia-dep-conj.html">conj</a></tt>]--> VERB</tt> (320; 80%),
+<tt>VERB --[<tt><a href="fr_sequoia-dep-fixed.html">fixed</a></tt>]--> VERB</tt> (3; 100%),
 <tt>VERB --[<tt><a href="fr_sequoia-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (2; 67%).
 

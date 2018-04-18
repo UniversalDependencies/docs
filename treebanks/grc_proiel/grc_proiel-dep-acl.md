@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-2623 nodes (1%) are attached to their parents as `acl`.
+2653 nodes (1%) are attached to their parents as `acl`.
 
-2220 instances of `acl` (85%) are left-to-right (parent precedes child).
-Average distance between parent and child is 4.66107510484178.
+2243 instances of `acl` (85%) are left-to-right (parent precedes child).
+Average distance between parent and child is 4.66453071993969.
 
-The following 24 pairs of parts of speech are connected with `acl`: <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (1677; 64% instances), <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (475; 18% instances), <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (228; 9% instances), <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (73; 3% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (23; 1% instances), <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (22; 1% instances), <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> (21; 1% instances), <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (20; 1% instances), <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> (15; 1% instances), <tt><a href="grc_proiel-pos-DET.html">DET</a></tt>-<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (14; 1% instances), <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (13; 0% instances), <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="grc_proiel-pos-DET.html">DET</a></tt>-<tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (1; 0% instances).
+The following 26 pairs of parts of speech are connected with `acl`: <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (1694; 64% instances), <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (480; 18% instances), <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (229; 9% instances), <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (73; 3% instances), <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (23; 1% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (23; 1% instances), <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> (21; 1% instances), <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (20; 1% instances), <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (15; 1% instances), <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> (15; 1% instances), <tt><a href="grc_proiel-pos-DET.html">DET</a></tt>-<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (14; 1% instances), <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> (11; 0% instances), <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> (8; 0% instances), <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt>-<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> (3; 0% instances), <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="grc_proiel-pos-DET.html">DET</a></tt>-<tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-AUX.html">AUX</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 24 pairs of parts of speech are connected with `acl`: <tt><a href=
 5	παρεουσέων	πάρειμι#1	VERB	V-	Case=Gen|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	ref=1.11.2
 6	Γύγη	Γύγης	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	7	vocative	_	ref=1.11.2
 7	δίδωμί	δίδωμι	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1.11.2
-8	αἵρεσιν	αἵρεσις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obj:dir	_	ref=1.11.2
+8	αἵρεσιν	αἵρεσις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	ref=1.11.2
 
 ~~~
 
@@ -44,11 +44,11 @@ The following 24 pairs of parts of speech are connected with `acl`: <tt><a href=
 2	δὲ	δέ	ADV	Df	_	4	discourse	_	ref=1.112.2
 3	οὐκ	οὐ	ADV	Df	Polarity=Neg	5	advmod	_	ref=1.112.2
 4	ἔφη	φημί	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=1.112.2
-5	οἷός	οἷος	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	ccomp	_	ref=1.112.2
+5	οἷός	οἷος#1	ADJ	A-	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	ccomp	_	ref=1.112.2
 6	τ’	τε	ADV	Df	_	5	discourse	_	ref=1.112.2
 7	εἶναι	εἰμί#1	AUX	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	cop	_	ref=1.112.2
 8	ἄλλως	ἄλλως	ADV	Df	Degree=Pos	10	advmod	_	ref=1.112.2
-9	αὐτὰ	αὐτός	PRON	Pp	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	10	obj:dir	_	ref=1.112.2
+9	αὐτὰ	αὐτός	PRON	Pp	Case=Acc|Gender=Neut|Number=Plur|Person=3|PronType=Prs	10	obj	_	ref=1.112.2
 10	ποιέειν	ποιέω	VERB	V-	Tense=Pres|VerbForm=Inf|Voice=Act	5	acl	_	ref=1.112.2
 
 ~~~
@@ -67,7 +67,7 @@ The following 24 pairs of parts of speech are connected with `acl`: <tt><a href=
 5	μετὰ	μετά	ADP	R-	_	6	case	_	ref=1.15.1
 6	Γύγην	Γύγης	PROPN	Ne	Case=Acc|Gender=Masc|Number=Sing	7	obl	_	ref=1.15.1
 7	βασιλεύσαντος	βασιλεύω	VERB	V-	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	1	acl	_	ref=1.15.1
-8	μνήμην	μνήμη	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	9	obj:dir	_	ref=1.15.1
+8	μνήμην	μνήμη	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	ref=1.15.1
 9	ποιήσομαι	ποιέω	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	ref=1.15.1
 
 ~~~

@@ -9,41 +9,36 @@ udver: '2'
 This feature is universal.
 It occurs with 1 different values: `Yes`.
 
-373 tokens (1%) have a non-empty value of `Poss`.
-39 types (0%) occur at least once with a non-empty value of `Poss`.
+637 tokens (1%) have a non-empty value of `Poss`.
+45 types (0%) occur at least once with a non-empty value of `Poss`.
 7 lemmas (0%) occur at least once with a non-empty value of `Poss`.
-The feature is used with 3 part-of-speech tags: <tt><a href="it_postwita-pos-DET.html">DET</a></tt> (343; 1% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (25; 0% instances), <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> (5; 0% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="it_postwita-pos-DET.html">DET</a></tt> (598; 0% instances), <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> (39; 0% instances).
 
 ### `DET`
 
-343 <tt><a href="it_postwita-pos-DET.html">DET</a></tt> tokens (5% of all `DET` tokens) have a non-empty value of `Poss`.
+598 <tt><a href="it_postwita-pos-DET.html">DET</a></tt> tokens (4% of all `DET` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="it_postwita-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (343; 100%), <tt><a href="it_postwita-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (343; 100%), <tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt> (221; 64%), <tt><a href="it_postwita-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (188; 55%).
+The most frequent other feature values with which `DET` and `Poss` co-occurred: <tt><a href="it_postwita-feat-Definite.html">Definite</a></tt><tt>=EMPTY</tt> (598; 100%), <tt><a href="it_postwita-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (598; 100%), <tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt> (403; 67%), <tt><a href="it_postwita-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (329; 55%).
 
 `DET` tokens may have the following values of `Poss`:
 
-* `Yes` (343; 100% of non-empty `Poss`): <em>mio, mia, suo, suoi, loro, tua, sua, tuo, miei, nostra</em>
-* `EMPTY` (7070): <em>il, la, i, l', un, le, una, gli, lo, questo</em>
+* `Yes` (598; 100% of non-empty `Poss`): <em>mio, mia, suo, sua, suoi, tuo, loro, nostro, tua, miei</em>
+* `EMPTY` (13844): <em>il, la, i, l', un, le, una, gli, lo, che</em>
 
 ### `PRON`
 
-25 <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Poss`.
+39 <tt><a href="it_postwita-pos-PRON.html">PRON</a></tt> tokens (1% of all `PRON` tokens) have a non-empty value of `Poss`.
 
-The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="it_postwita-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (25; 100%), <tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (25; 100%), <tt><a href="it_postwita-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (25; 100%), <tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt> (15; 60%), <tt><a href="it_postwita-feat-Gender.html">Gender</a></tt><tt>=Fem</tt> (14; 56%).
+The most frequent other feature values with which `PRON` and `Poss` co-occurred: <tt><a href="it_postwita-feat-Clitic.html">Clitic</a></tt><tt>=EMPTY</tt> (39; 100%), <tt><a href="it_postwita-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (39; 100%), <tt><a href="it_postwita-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (39; 100%), <tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt> (25; 64%).
 
 `PRON` tokens may have the following values of `Poss`:
 
-* `Yes` (25; 100% of non-empty `Poss`): <em>tua, mia, sua, suoi, mie, miei, mio, suo, nostri, tue</em>
-* `EMPTY` (3377): <em>che, si, mi, ci, lo, ti, tutti, io, chi, la</em>
+* `Yes` (39; 100% of non-empty `Poss`): <em>tua, mio, sua, suoi, mia, miei, mie, suo, LORO, nostri</em>
+* `EMPTY` (6440): <em>che, si, mi, ci, lo, ti, tutti, io, chi, c'</em>
 
-### `ADJ`
+## Relations with Agreement in `Poss`
 
-5 <tt><a href="it_postwita-pos-ADJ.html">ADJ</a></tt> tokens (0% of all `ADJ` tokens) have a non-empty value of `Poss`.
-
-The most frequent other feature values with which `ADJ` and `Poss` co-occurred: <tt><a href="it_postwita-feat-Number.html">Number</a></tt><tt>=Sing</tt> (5; 100%), <tt><a href="it_postwita-feat-Gender.html">Gender</a></tt><tt>=Masc</tt> (3; 60%).
-
-`ADJ` tokens may have the following values of `Poss`:
-
-* `Yes` (5; 100% of non-empty `Poss`): <em>mia, mio, suo</em>
-* `EMPTY` (2617): <em>nuovo, grande, buon, primo, buona, bella, vero, giusto, politica, bravo</em>
+The 10 most frequent relations where parent and child node agree in `Poss`:
+<tt>PRON --[<tt><a href="it_postwita-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (1; 100%),
+<tt>PRON --[<tt><a href="it_postwita-dep-parataxis.html">parataxis</a></tt>]--> PRON</tt> (1; 100%).
 

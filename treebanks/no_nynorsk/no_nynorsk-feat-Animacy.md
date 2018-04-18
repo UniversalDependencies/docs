@@ -16,14 +16,14 @@ The feature is used with 1 part-of-speech tags: <tt><a href="no_nynorsk-pos-PRON
 
 ### `PRON`
 
-6774 <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> tokens (32% of all `PRON` tokens) have a non-empty value of `Animacy`.
+6774 <tt><a href="no_nynorsk-pos-PRON.html">PRON</a></tt> tokens (30% of all `PRON` tokens) have a non-empty value of `Animacy`.
 
 The most frequent other feature values with which `PRON` and `Animacy` co-occurred: <tt><a href="no_nynorsk-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (6772; 100%), <tt><a href="no_nynorsk-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (5850; 86%), <tt><a href="no_nynorsk-feat-Case.html">Case</a></tt><tt>=Nom</tt> (5004; 74%), <tt><a href="no_nynorsk-feat-Number.html">Number</a></tt><tt>=Plur</tt> (3897; 58%), <tt><a href="no_nynorsk-feat-Person.html">Person</a></tt><tt>=1</tt> (3748; 55%).
 
 `PRON` tokens may have the following values of `Animacy`:
 
 * `Hum` (6774; 100% of non-empty `Animacy`): <em>dei, eg, vi, ein, me, du, oss, meg, kven, de</em>
-* `EMPTY` (14467): <em>det, som, han, seg, dette, ho, kva, noko, alt, den</em>
+* `EMPTY` (16017): <em>det, som, han, seg, dette, ho, kva, noko, sin, sine</em>
 
 `Animacy` seems to be **lexical feature** of `PRON`. 100% lemmas (12) occur only with one value of `Animacy`.
 

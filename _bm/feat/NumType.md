@@ -20,7 +20,7 @@ This value is used for cardinal numbers, i.e tokens which are used to count.
 
 #### Example
 
-+ _you go bring <b> five hundred </b> naira_ "you will bring five hundred naira"
++ _dén <b> kélen </b>_ "one child"
 
 ### <a name="Ord">`Ord`</a>: ordinal number
 
@@ -28,4 +28,4 @@ This value is used for cardinal numbers, i.e tokens which are used to count.
 
 #### Example
 
-+ _dis plan work well well wen e <b> first</b> begin_ "this plan worked very well when it first began"
++ _dén <b> fɔ́lɔ </b>_ "first child"

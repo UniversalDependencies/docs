@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-5256 nodes (3%) are attached to their parents as `det`.
+6119 nodes (3%) are attached to their parents as `det`.
 
-3264 instances of `det` (62%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.37785388127854.
+3925 instances of `det` (64%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.39091354796535.
 
-The following 20 pairs of parts of speech are connected with `det`: <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-DET.html">DET</a></tt> (2942; 56% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (1527; 29% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-DET.html">DET</a></tt> (260; 5% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-DET.html">DET</a></tt> (243; 5% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-DET.html">DET</a></tt> (94; 2% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (66; 1% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-DET.html">DET</a></tt> (37; 1% instances), <tt><a href="la_proiel-pos-X.html">X</a></tt>-<tt><a href="la_proiel-pos-DET.html">DET</a></tt> (29; 1% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (15; 0% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="la_proiel-pos-DET.html">DET</a></tt> (11; 0% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (9; 0% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="la_proiel-pos-X.html">X</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="la_proiel-pos-DET.html">DET</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="la_proiel-pos-DET.html">DET</a></tt>-<tt><a href="la_proiel-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_proiel-pos-DET.html">DET</a></tt> (1; 0% instances).
+The following 20 pairs of parts of speech are connected with `det`: <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-DET.html">DET</a></tt> (3551; 58% instances), <tt><a href="la_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (1674; 27% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-DET.html">DET</a></tt> (307; 5% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-DET.html">DET</a></tt> (279; 5% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-DET.html">DET</a></tt> (99; 2% instances), <tt><a href="la_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (73; 1% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-DET.html">DET</a></tt> (44; 1% instances), <tt><a href="la_proiel-pos-X.html">X</a></tt>-<tt><a href="la_proiel-pos-DET.html">DET</a></tt> (29; 0% instances), <tt><a href="la_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (17; 0% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="la_proiel-pos-DET.html">DET</a></tt> (11; 0% instances), <tt><a href="la_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (9; 0% instances), <tt><a href="la_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (7; 0% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (5; 0% instances), <tt><a href="la_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="la_proiel-pos-DET.html">DET</a></tt> (4; 0% instances), <tt><a href="la_proiel-pos-X.html">X</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="la_proiel-pos-DET.html">DET</a></tt>-<tt><a href="la_proiel-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="la_proiel-pos-DET.html">DET</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="la_proiel-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="la_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="la_proiel-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="la_proiel-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="la_proiel-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -41,7 +41,7 @@ The following 20 pairs of parts of speech are connected with `det`: <tt><a href=
 2	enim	enim	ADV	Df	_	3	discourse	_	ref=MATT_5.12
 3	persecuti	persequor	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	ref=MATT_5.12
 4	sunt	sum	AUX	V-	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	ref=MATT_5.12
-5	prophetas	propheta	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	3	obj:dir	_	ref=MATT_5.12
+5	prophetas	propheta	NOUN	Nb	Case=Acc|Gender=Masc|Number=Plur	3	obj	_	ref=MATT_5.12
 6	qui	qui	PRON	Pr	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	9	nsubj	_	ref=MATT_5.12
 7	fuerunt	sum	AUX	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	ref=MATT_5.12
 8	ante	ante	ADP	R-	_	9	case	_	ref=MATT_5.12
@@ -62,7 +62,7 @@ The following 20 pairs of parts of speech are connected with `det`: <tt><a href=
 4	numquam	numquam	ADV	Df	_	5	advmod	_	ref=ACTS_10.14
 5	manducavi	manduco	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	advcl	_	ref=ACTS_10.14
 6	omne	omnis	DET	Px	Case=Acc|Gender=Neut|Number=Sing	7	det	_	ref=ACTS_10.14
-7	commune	communis	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	5	obj:dir	_	ref=ACTS_10.14
+7	commune	communis	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	5	obj	_	ref=ACTS_10.14
 8	et	et	CCONJ	C-	_	7	cc	_	ref=ACTS_10.14
 9	inmundum	immundus	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	7	conj	_	ref=ACTS_10.14
 

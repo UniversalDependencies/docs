@@ -95,7 +95,7 @@ The most frequent other feature values with which `PRON` and `Foreign` co-occurr
 `PRON` tokens may have the following values of `Foreign`:
 
 * `Yes` (8; 100% of non-empty `Foreign`): <em>eo, ipso, Tous, er, qua, they</em>
-* `EMPTY` (16025): <em>se, si, co, všech, je, nás, všechny, nám, jež, nich</em>
+* `EMPTY` (16024): <em>se, si, co, všech, je, nás, všechny, nám, jež, nich</em>
 
 ### `VERB`
 
@@ -117,7 +117,7 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 `DET` tokens may have the following values of `Foreign`:
 
 * `Yes` (5; 100% of non-empty `Foreign`): <em>sui, hoc, quem</em>
-* `EMPTY` (20011): <em>to, které, jejich, jeho, který, která, tím, této, své, těchto</em>
+* `EMPTY` (20012): <em>to, které, jejich, jeho, který, která, tím, této, své, těchto</em>
 
 ### `CCONJ`
 
@@ -131,14 +131,14 @@ The most frequent other feature values with which `DET` and `Foreign` co-occurre
 ## Relations with Agreement in `Foreign`
 
 The 10 most frequent relations where parent and child node agree in `Foreign`:
-<tt>NOUN --[<tt><a href="cs_cac-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADJ</tt> (35; 100%),
-<tt>NOUN --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> NOUN</tt> (23; 57%),
-<tt>NOUN --[<tt><a href="cs_cac-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADP</tt> (18; 100%),
-<tt>ADJ --[<tt><a href="cs_cac-dep-flat-foreign.html">flat:foreign</a></tt>]--> NOUN</tt> (14; 100%),
-<tt>NOUN --[<tt><a href="cs_cac-dep-flat-foreign.html">flat:foreign</a></tt>]--> NOUN</tt> (14; 82%),
-<tt>NOUN --[<tt><a href="cs_cac-dep-case.html">case</a></tt>]--> ADP</tt> (11; 52%),
-<tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADJ</tt> (7; 88%),
-<tt>PROPN --[<tt><a href="cs_cac-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADJ</tt> (7; 100%),
-<tt>NOUN --[<tt><a href="cs_cac-dep-flat-foreign.html">flat:foreign</a></tt>]--> PART</tt> (6; 100%),
-<tt>PROPN --[<tt><a href="cs_cac-dep-flat-foreign.html">flat:foreign</a></tt>]--> PROPN</tt> (5; 100%).
+<tt>NOUN --[<tt><a href="cs_cac-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADJ</tt> (25; 100%),
+<tt>NOUN --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> NOUN</tt> (22; 58%),
+<tt>ADJ --[<tt><a href="cs_cac-dep-flat-foreign.html">flat:foreign</a></tt>]--> NOUN</tt> (20; 100%),
+<tt>ADP --[<tt><a href="cs_cac-dep-flat-foreign.html">flat:foreign</a></tt>]--> NOUN</tt> (19; 100%),
+<tt>NOUN --[<tt><a href="cs_cac-dep-case.html">case</a></tt>]--> ADP</tt> (10; 53%),
+<tt>NOUN --[<tt><a href="cs_cac-dep-flat-foreign.html">flat:foreign</a></tt>]--> NOUN</tt> (9; 75%),
+<tt>ADJ --[<tt><a href="cs_cac-dep-conj.html">conj</a></tt>]--> ADJ</tt> (8; 89%),
+<tt>ADJ --[<tt><a href="cs_cac-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADJ</tt> (8; 100%),
+<tt>ADJ --[<tt><a href="cs_cac-dep-flat-foreign.html">flat:foreign</a></tt>]--> PROPN</tt> (7; 100%),
+<tt>NOUN --[<tt><a href="cs_cac-dep-flat-foreign.html">flat:foreign</a></tt>]--> ADP</tt> (5; 100%).
 

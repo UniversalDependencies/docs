@@ -52,11 +52,11 @@ and [Armenian features](feat/index.html).
 * The two main values of the [Number]() feature are `Sing` and `Plur`. The following parts of speech inflect for number:
   [NOUN](), [PROPN](), [PRON](), [VERB](), [AUX]() (finite).
   * Selected nouns are plurale tantum (`Ptan`) or singulare tantum (`Coll`). These two values are lexical, and cannot be used with
-    the agreeing verbs. They also never occur with pronouns. (`Coll`) occurs with gerundives. 
+    the agreeing verbs. They also never occur with pronouns. `Coll` occurs with gerundives.
   * There is a language-specific value `Assoc` (associative plural). This is also lexical and occurs with `NOUN` and `PROPN`. Some of pronouns (_մերոնք, ձերոնք, իմոնք, քոնոնք_) are also associative.
 * [Case]() has 6 possible values: `Nom`, `Gen`, `Dat`, `Abl`, `Ins`, `Loc`.
-  It occurs with the nominal words, i.e., [NOUN](), [PROPN](), [PRON](), [DET](). Note, that `Gen` occurs only with pronouns and determiners.
-  * The `Case` feature also occurs with some of adpositions, subclassified as “locatives” ([ADP]()). It is an inflectional feature here.
+  It occurs with the nominal words, i.e., [NOUN](), [PROPN](), [PRON](), [DET](), and gerundives. Note, that `Gen` occurs only with pronouns and determiners.
+  * The `Case` feature also occurs with some of adpositions, subclassified as “localizers” ([ADP]()). It is an inflectional feature here.
 * The two main values of the [Definite]() feature are `Def` and `Ind`. The following parts of speech inflect for definitness:
   [NOUN](), [PROPN](), [PRON](). With gerundives, resultative and subject participles the feature sometimes encodes the lexical person of the possessor, although they can be almost interpreted as the 3rd person. We mark them as `Def` (see the layered features below).
 * [Degree]() applies to adjectives ([ADJ]()) and some adverbs ([ADV]()) and has one of four possible values: `Pos`, `Cmp`, `Sup`, `Abs`.
@@ -79,11 +79,11 @@ and [Armenian features](feat/index.html).
 ### Polarity
 
 * [Polarity]() has two values, `Pos` and `Neg`, and applies primarily to verbs ([VERB](), [AUX]()) that can be negated using the bound morpheme _չ-_.
-  * Occasionally _ոչ_ occurs as an independent negation particle ([PART]()) and is marked with `Polarity=Neg`.
-  * Negated nouns are usually limited to those derived from verbs _(չունեցողի, չգրվածները)_.
+  * Occasionally _ոչ_ occurs as an independent negation particle ([PART]()) and is marked with `Polarity=Neg`. The `Polarity=Neg` feature is also used with necessitative mood particles _(չ)պիտի, (չ)պետք է_ .
+  * Negating nouns are usually limited to those derived from verbs _(չունեցողի, չգրվածները)_.
   * The `Polarity` feature is not used with pronouns and determiners, although there is a subset of negative pronouns and determiners.
     The `PronType=Neg` feature is used there instead.
-  * The `Polarity` feature is not used with conditional mood, the `Connegative=Yes` feature is used there instead.
+  * The `Polarity=Neg` feature is not used with negated conditional mood, the `Connegative=Yes` feature is used there instead.
 
 ### Pronouns, Determiners, Quantifiers
 
@@ -99,8 +99,16 @@ and [Armenian features](feat/index.html).
   With personal possessive determiners ([DET]()), the feature actually encodes the person of the possessor.
   Person is not marked on other types of pronouns and on nouns, although they can almost always be interpreted as the 3rd person.
   * As a cross-reference to subject, person is also marked on finite verbs ([VERB](), [AUX]()).
+* The [Polite]() feature distinguishes informal second-person pronouns (_դու, դուք,_ `Polite=Infm`)
+  from the formal _Դուք_ (`Polite=Form`).
+  The formal pronoun is phonologically equivalent in all its case forms to the second-person plural _դուք_
+  but it is distinguished in orthography by the capital letter _Դ._
+  We tag it as second person (because that is its meaning) and we tag also its number (it is used for singular addressees) despite the fact that it combines with second-person plural verbs.
+  The parser must learn that `Number=Sing|Person=2|Polite=Form` subject attaches to `Number=Plur|Person=2` verbs,
+  while `Number=Sing|Person=2|Polite=Infm` subject attaches to `Number=Sing|Person=2` verbs.
 * There are two [layered features](../../u/overview/feat-layers.html), [Person[psor]]() and [Number[psor]]().
-  They appear with nouns, gerundives, certain determiners and adpositions and encode the lexical person(deixis)/number of the possessor.
+  They appear with nouns, gerundives, certain determiners and adpositions and encode the lexical person(deixis)/number of the possessor. The extra layer is needed to distinguish these lexical features from the inflectional person and number
+  that mark agreement with the modified (possessed) noun.
 
 ### Other Features
 
@@ -156,7 +164,7 @@ as well as Armenian-specific examples scattered across the documentation of cons
 ### Non-verbal Clauses
 
 * The copula verb _եմ_ (be) is used in equational, attributional, locative, possessive and benefactory nonverbal clauses.
-  Purely existential clauses (without indicating location) normally use a different lemma, _լինել_, and it is treated as the head of the clause and tagged [VERB]().
+  * Purely existential clauses (without indicating location) normally use different lemmas, _լինել_ or _կամ_, and they are treated as the head of the clause and tagged [VERB]().
 
 ### Relations Overview
 

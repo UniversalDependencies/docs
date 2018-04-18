@@ -12,7 +12,7 @@ It occurs with 3 different values: `Fem`, `Masc`, `Neut`.
 2729 tokens (20%) have a non-empty value of `Gender`.
 725 types (45%) occur at least once with a non-empty value of `Gender`.
 581 lemmas (46%) occur at least once with a non-empty value of `Gender`.
-The feature is used with 6 part-of-speech tags: <tt><a href="no_nynorsklia-pos-NOUN.html">NOUN</a></tt> (1254; 9% instances), <tt><a href="no_nynorsklia-pos-PRON.html">PRON</a></tt> (853; 6% instances), <tt><a href="no_nynorsklia-pos-DET.html">DET</a></tt> (335; 2% instances), <tt><a href="no_nynorsklia-pos-ADJ.html">ADJ</a></tt> (282; 2% instances), <tt><a href="no_nynorsklia-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="no_nynorsklia-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The feature is used with 6 part-of-speech tags: <tt><a href="no_nynorsklia-pos-NOUN.html">NOUN</a></tt> (1254; 9% instances), <tt><a href="no_nynorsklia-pos-PRON.html">PRON</a></tt> (872; 6% instances), <tt><a href="no_nynorsklia-pos-DET.html">DET</a></tt> (316; 2% instances), <tt><a href="no_nynorsklia-pos-ADJ.html">ADJ</a></tt> (282; 2% instances), <tt><a href="no_nynorsklia-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="no_nynorsklia-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `NOUN`
 
@@ -36,29 +36,34 @@ The most frequent other feature values with which `NOUN` and `Gender` co-occurre
 
 ### `PRON`
 
-853 <tt><a href="no_nynorsklia-pos-PRON.html">PRON</a></tt> tokens (43% of all `PRON` tokens) have a non-empty value of `Gender`.
+872 <tt><a href="no_nynorsklia-pos-PRON.html">PRON</a></tt> tokens (44% of all `PRON` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="no_nynorsklia-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (853; 100%), <tt><a href="no_nynorsklia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (853; 100%), <tt><a href="no_nynorsklia-feat-Person.html">Person</a></tt><tt>=3</tt> (853; 100%), <tt><a href="no_nynorsklia-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (826; 97%), <tt><a href="no_nynorsklia-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (651; 76%).
+The most frequent other feature values with which `PRON` and `Gender` co-occurred: <tt><a href="no_nynorsklia-feat-Animacy.html">Animacy</a></tt><tt>=EMPTY</tt> (872; 100%), <tt><a href="no_nynorsklia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (872; 100%), <tt><a href="no_nynorsklia-feat-Person.html">Person</a></tt><tt>=3</tt> (853; 98%), <tt><a href="no_nynorsklia-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (845; 97%), <tt><a href="no_nynorsklia-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (670; 77%).
 
 `PRON` tokens may have the following values of `Gender`:
 
-* `Fem` (25; 3% of non-empty `Gender`): <em>ho, henne</em>
-* `Masc` (150; 18% of non-empty `Gender`): <em>han, nokon, ingen</em>
-* `Neut` (678; 79% of non-empty `Gender`): <em>det, noko, dette</em>
-* `EMPTY` (1119): <em>eg, dei, du, vi, som, den, ein, de, seg, kva</em>
+* `Fem` (36; 4% of non-empty `Gender`): <em>ho, hans, henne, mi, di, vår</em>
+* `Masc` (156; 18% of non-empty `Gender`): <em>han, nokon, min, din, hennar, ingen</em>
+* `Neut` (680; 78% of non-empty `Gender`): <em>det, noko, dette, mitt</em>
+* `EMPTY` (1122): <em>eg, dei, du, vi, som, den, ein, de, seg, kva</em>
+
+<table>
+  <tr><th>Paradigm <i>min</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>min</em></td><td><em>mi</em></td><td><em>mitt</em></td></tr>
+</table>
 
 ### `DET`
 
-335 <tt><a href="no_nynorsklia-pos-DET.html">DET</a></tt> tokens (74% of all `DET` tokens) have a non-empty value of `Gender`.
+316 <tt><a href="no_nynorsklia-pos-DET.html">DET</a></tt> tokens (74% of all `DET` tokens) have a non-empty value of `Gender`.
 
-The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="no_nynorsklia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (335; 100%).
+The most frequent other feature values with which `DET` and `Gender` co-occurred: <tt><a href="no_nynorsklia-feat-Number.html">Number</a></tt><tt>=Sing</tt> (316; 100%).
 
 `DET` tokens may have the following values of `Gender`:
 
-* `Fem` (63; 19% of non-empty `Gender`): <em>den, ei, hans, mi, sånn, di, vår, anna, denne, hi</em>
-* `Masc` (194; 58% of non-empty `Gender`): <em>ein, den, annan, sånn, kvar, min, nokon, eigen, all, din</em>
-* `Neut` (78; 23% of non-empty `Gender`): <em>noko, det, eit, anna, alt, kvart, eitt, mitt, eige, sånt</em>
-* `EMPTY` (115): <em>dei, andre, alle, same, kva, nokon, nokre, sånne, begge, desse</em>
+* `Fem` (52; 16% of non-empty `Gender`): <em>den, ei, sånn, anna, denne, hi, kvar, noka, noko, slik</em>
+* `Masc` (188; 59% of non-empty `Gender`): <em>ein, den, annan, sånn, kvar, nokon, eigen, all, ingen, noko</em>
+* `Neut` (76; 24% of non-empty `Gender`): <em>noko, det, eit, anna, alt, kvart, eitt, eige, sånt</em>
+* `EMPTY` (112): <em>dei, andre, alle, same, kva, nokon, nokre, sånne, begge, desse</em>
 
 <table>
   <tr><th>Paradigm <i>ein</i></th><th><tt>Masc</tt></th><th><tt>Fem</tt></th><th><tt>Neut</tt></th></tr>
@@ -110,7 +115,7 @@ The most frequent other feature values with which `NUM` and `Gender` co-occurred
 `ADV` tokens may have the following values of `Gender`:
 
 * `Masc` (1; 100% of non-empty `Gender`): <em>kloss</em>
-* `EMPTY` (1395): <em>da, så, ikkje, jo, nå, der, vel, her, berre, altså</em>
+* `EMPTY` (1261): <em>da, så, jo, nå, der, vel, her, berre, altså, også</em>
 
 ## Relations with Agreement in `Gender`
 
@@ -119,8 +124,8 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>ADJ --[<tt><a href="no_nynorsklia-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (46; 63%),
 <tt>PRON --[<tt><a href="no_nynorsklia-dep-reparandum.html">reparandum</a></tt>]--> PRON</tt> (24; 96%),
 <tt>PRON --[<tt><a href="no_nynorsklia-dep-appos.html">appos</a></tt>]--> PRON</tt> (23; 96%),
+<tt>NOUN --[<tt><a href="no_nynorsklia-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (17; 53%),
 <tt>ADJ --[<tt><a href="no_nynorsklia-dep-expl.html">expl</a></tt>]--> PRON</tt> (16; 62%),
-<tt>NOUN --[<tt><a href="no_nynorsklia-dep-nmod.html">nmod</a></tt>]--> DET</tt> (16; 80%),
 <tt>DET --[<tt><a href="no_nynorsklia-dep-det.html">det</a></tt>]--> DET</tt> (11; 79%),
 <tt>NOUN --[<tt><a href="no_nynorsklia-dep-reparandum.html">reparandum</a></tt>]--> NOUN</tt> (11; 100%),
 <tt>PRON --[<tt><a href="no_nynorsklia-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (8; 57%),

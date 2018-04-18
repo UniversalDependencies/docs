@@ -17,7 +17,7 @@ The feature is used with 6 part-of-speech tags: <tt><a href="no_bokmaal-pos-PRON
 
 ### `PRON`
 
-12386 <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> tokens (52% of all `PRON` tokens) have a non-empty value of `Case`.
+12386 <tt><a href="no_bokmaal-pos-PRON.html">PRON</a></tt> tokens (48% of all `PRON` tokens) have a non-empty value of `Case`.
 
 The most frequent other feature values with which `PRON` and `Case` co-occurred: <tt><a href="no_bokmaal-feat-PronType.html">PronType</a></tt><tt>=Prs</tt> (12381; 100%), <tt><a href="no_bokmaal-feat-Animacy.html">Animacy</a></tt><tt>=Hum</tt> (9516; 77%), <tt><a href="no_bokmaal-feat-Gender.html">Gender</a></tt><tt>=EMPTY</tt> (9243; 75%), <tt><a href="no_bokmaal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (7221; 58%).
 
@@ -27,7 +27,7 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Gen` (3; 0% of non-empty `Case`): <em>alles, ens</em>
 * `Gen,Nom` (2; 0% of non-empty `Case`): <em>ens</em>
 * `Nom` (9529; 77% of non-empty `Case`): <em>jeg, han, vi, de, hun, du, man, dere, Eg, mann</em>
-* `EMPTY` (11474): <em>det, som, dette, den, hva, noe, alt, alle, noen, ingen</em>
+* `EMPTY` (13569): <em>det, som, dette, sin, den, hva, noe, sine, hans, sitt</em>
 
 <table>
   <tr><th>Paradigm <i>jeg</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th></tr>
@@ -64,12 +64,12 @@ The most frequent other feature values with which `PROPN` and `Case` co-occurred
 
 47 <tt><a href="no_bokmaal-pos-DET.html">DET</a></tt> tokens (0% of all `DET` tokens) have a non-empty value of `Case`.
 
-The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="no_bokmaal-feat-Poss.html">Poss</a></tt><tt>=EMPTY</tt> (47; 100%), <tt><a href="no_bokmaal-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (39; 83%), <tt><a href="no_bokmaal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (29; 62%).
+The most frequent other feature values with which `DET` and `Case` co-occurred: <tt><a href="no_bokmaal-feat-PronType.html">PronType</a></tt><tt>=Dem</tt> (39; 83%), <tt><a href="no_bokmaal-feat-Number.html">Number</a></tt><tt>=Sing</tt> (29; 62%).
 
 `DET` tokens may have the following values of `Case`:
 
 * `Gen` (47; 100% of non-empty `Case`): <em>andres, dens, dets, alles, ens, annens, hvis</em>
-* `EMPTY` (16428): <em>en, et, den, de, det, andre, sin, alle, denne, noen</em>
+* `EMPTY` (14333): <em>en, et, den, de, det, andre, alle, denne, noen, noe</em>
 
 ### `ADJ`
 
@@ -98,7 +98,7 @@ The most frequent other feature values with which `NUM` and `Case` co-occurred: 
 ## Relations with Agreement in `Case`
 
 The 10 most frequent relations where parent and child node agree in `Case`:
-<tt>PRON --[<tt><a href="no_bokmaal-dep-conj.html">conj</a></tt>]--> PRON</tt> (15; 79%),
+<tt>PRON --[<tt><a href="no_bokmaal-dep-conj.html">conj</a></tt>]--> PRON</tt> (15; 75%),
 <tt>NOUN --[<tt><a href="no_bokmaal-dep-conj.html">conj</a></tt>]--> NOUN</tt> (12; 57%),
 <tt>PRON --[<tt><a href="no_bokmaal-dep-appos.html">appos</a></tt>]--> PRON</tt> (9; 100%),
 <tt>NOUN --[<tt><a href="no_bokmaal-dep-conj.html">conj</a></tt>]--> DET</tt> (1; 100%).

@@ -51,16 +51,19 @@ This is a subtype of cardinal numbers. It may denote a fraction or just the deno
 
 #### Examples
 
-* _երեք քառորդ_ “three-quarters”
-* _կես_ “half”, _քառորդ_ “quarter”, _<b>մեկ երրորդ</b>_ մասը “one <b>third</b> part”
+* _3-4 (երեք քառորդ)_ “three-quarters”
+* _կես_ “half”, _քառորդ_ “quarter”, _<b>1/3 (մեկ երրորդ)</b>_ մասը “one <b>third</b> part”
 
 ### <a name="Dist">`Dist`</a>: distributive numeral
 
 Used to express that the same quantity is distributed to each member in a set of targets.
 
+Note that _<b>20-ական, 30-ական</b> թվականներին_.`Plur` “by twenty, thirthies” are not considered distributive numerals, we mark them either `ADJ` or `NOUN`.
+
 #### Examples
 
 * _<b>երեքական (երեք-երեք)</b> խնձոր յուրաքանչյուրին_ “three apples per / for each one”
+* _<b>3-ական</b> խնձոր յուրաքանչյուրին_ “three apples per / for each one”
 
 ### <a name="Range">`Range`</a>: range of values
 
@@ -68,5 +71,5 @@ This could be considered a subtype of cardinal numbers (provided tokenization le
 
 #### Examples
 
-* _չորս-հինգ_ “four-five” (“either four or five”)
-* _տասից տասնհինգ_ “ten fifteen” (“from ten to fifteen”)
+* _4-5 (չորս-հինգ)_ “four-five” (“either four or five”)
+* _10-15 (տասից տասնհինգ)_ “ten fifteen” (“from ten to fifteen”)

@@ -18,28 +18,27 @@ The following 48 pairs of parts of speech are connected with `discourse`: <tt><a
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 discourse	color:blue
-1	nismo	biti	AUX	Va-r1p-y	Mood=Ind|Number=Plur|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	3	aux	_	word=nismo|msd=Gp-spm-d
-2	[gap]	[gap]	X	X	_	3	punct	_	word=[gap]|msd=N
-3	zmenili	zmeniti	VERB	Vmep-pm	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	word=zmenil|msd=Ggdd-mm
-4	ja	ja	PART	Q	_	3	discourse	_	word=ja|msd=L
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 discourse	color:blue
-1	samo	samo	PART	Q	_	2	advmod	_	word=samo|msd=L
-2	barva	barva	NOUN	Ncfsn	Case=Nom|Gender=Fem|Number=Sing	0	root	_	word=barva|msd=Sozei
-3	ne	ne	PART	Q	_	2	discourse	_	word=ne|msd=L
+# visual-style 16	bgColor:blue
+# visual-style 16	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 16 discourse	color:blue
+1	ha	ha	INTJ	I	_	0	root	_	word=ha|msd=M
+2	…	…	PUNCT	Z	_	1	punct	_	word=…|msd=U
+3	ja	ja	PART	Q	_	7	discourse	_	word=ja|msd=L
+4	ja	ja	PART	Q	_	7	discourse	_	word=ja|msd=L
+5	ja	ja	PART	Q	_	7	discourse	_	word=ja|msd=L
+6	ja	ja	PART	Q	_	7	discourse	_	word=ja|msd=L
+7	ja	ja	PART	Q	_	1	parataxis	_	word=ja|msd=L
+8	…	…	PUNCT	Z	_	1	punct	_	word=…|msd=U
+9	pekel	peči	VERB	Vmpp-sm	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	1	parataxis	_	word=peku|msd=Ggnd-em
+10	in	in	CCONJ	Cc	_	11	cc	_	word=in|msd=Vp
+11	pripravljal	pripravljati	VERB	Vmpp-sm	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	9	conj	_	word=prpravlu|msd=Ggnd-em
+12	tam	tam	ADV	Rgp	Degree=Pos	9	advmod	_	word=tam|msd=Rsn
+13	sproti	sproti	ADV	Rgp	Degree=Pos	9	advmod	_	word=sprot|msd=Rsn
+14	[gap]	[gap]	X	X	_	1	punct	_	word=[gap]|msd=N
+15	mhm	mhm	INTJ	I	_	9	discourse	_	word=mhm|msd=M
+16	ja	ja	PART	Q	_	9	discourse	_	word=ja|msd=L
 
 ~~~
 
@@ -47,15 +46,30 @@ The following 48 pairs of parts of speech are connected with `discourse`: <tt><a
 ~~~ conllu
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 1 discourse	color:blue
-1	zdaj	zdaj	ADV	Rgp	Degree=Pos	4	discourse	_	word=zej|msd=Rsn
-2	mogoče	mogoče	ADV	Rgp	Degree=Pos	4	advmod	_	word=mogoče|msd=Rsn
-3	to	ta	DET	Pd-nsa	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	4	obj	_	word=to|msd=Zk-set
-4	ni	biti	VERB	Va-r3s-y	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	word=ni|msd=Gp-ste-d
-5	treba	treba	ADV	Rgp	Degree=Pos	4	advmod	_	word=treba|msd=Rsn
-6	vsepovsod	vsepovsod	ADV	Rgp	Degree=Pos	4	advmod	_	word=vsepovsod|msd=Rsn
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 1 discourse	color:blue
+1	ja	ja	PART	Q	_	5	discourse	_	word=ja|msd=L
+2	mojo	moj	DET	Ps1fsas	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	reparandum	_	word=moj|msd=Zspzete
+3	[gap]	[gap]	X	X	_	5	punct	_	word=[gap]|msd=N
+4	mojo	moj	DET	Ps1fsas	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	word=moj|msd=Zspzete
+5	cimro	cimra	NOUN	Ncfsa	Case=Acc|Gender=Fem|Number=Sing	0	root	_	word=cimro|msd=Sozet
+
+~~~
+
+
+~~~ conllu
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 2 discourse	color:blue
+1	[speaker:laughter]	[speaker:laughter]	X	X	_	5	punct	_	word=[speaker:laughter]|msd=N
+2	dobro	dobro	ADV	Rgp	Degree=Pos	5	discourse	_	word=dobro|msd=Rsn
+3	jaz	jaz	PRON	Pp1-sn	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	word=jaz|msd=Zop-ei
+4	se	se	PRON	Px------y	PronType=Prs|Variant=Short	5	expl	_	word=se|msd=Zp------k
+5	nisem	biti	VERB	Va-r1s-y	Mood=Ind|Number=Sing|Person=1|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	word=nisem|msd=Gp-spe-d
+6	eem	eem	INTJ	I	_	5	discourse:filler	_	word=eem|msd=M
 
 ~~~
 

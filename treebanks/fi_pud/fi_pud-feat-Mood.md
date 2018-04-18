@@ -9,22 +9,22 @@ udver: '2'
 This feature is universal.
 It occurs with 3 different values: `Cnd`, `Imp`, `Ind`.
 
-1840 tokens (12%) have a non-empty value of `Mood`.
+1836 tokens (12%) have a non-empty value of `Mood`.
 763 types (10%) occur at least once with a non-empty value of `Mood`.
 427 lemmas (9%) occur at least once with a non-empty value of `Mood`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (1198; 8% instances), <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> (642; 4% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (1194; 8% instances), <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> (642; 4% instances).
 
 ### `VERB`
 
-1198 <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> tokens (59% of all `VERB` tokens) have a non-empty value of `Mood`.
+1194 <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> tokens (59% of all `VERB` tokens) have a non-empty value of `Mood`.
 
-The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fi_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1198; 100%), <tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1198; 100%), <tt><a href="fi_pud-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (1198; 100%), <tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (1198; 100%), <tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1198; 100%), <tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (973; 81%), <tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (922; 77%), <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (748; 62%), <tt><a href="fi_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (719; 60%).
+The most frequent other feature values with which `VERB` and `Mood` co-occurred: <tt><a href="fi_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1194; 100%), <tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1194; 100%), <tt><a href="fi_pud-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (1194; 100%), <tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (1194; 100%), <tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1194; 100%), <tt><a href="fi_pud-feat-Voice.html">Voice</a></tt><tt>=Act</tt> (971; 81%), <tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=3</tt> (920; 77%), <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (746; 62%), <tt><a href="fi_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt> (717; 60%).
 
 `VERB` tokens may have the following values of `Mood`:
 
 * `Cnd` (30; 3% of non-empty `Mood`): <em>haluaisi, antautuisi, auttaisi, eroaisi, haastateltaisiin, haluaisin, hyökkäisi, juoksisi, kuluisi, kuolisi</em>
 * `Imp` (4; 0% of non-empty `Mood`): <em>Sano, kiertele, räjähdä, vaikuta</em>
-* `Ind` (1164; 97% of non-empty `Mood`): <em>sanoi, tulee, tuli, sanoo, alkoi, kertoi, johti, sai, syntyi, auttaa</em>
+* `Ind` (1160; 97% of non-empty `Mood`): <em>sanoi, tulee, tuli, sanoo, kertoi, alkoi, johti, sai, syntyi, auttaa</em>
 * `EMPTY` (837): <em>eikä, tehdä, liittyen, lukien, olemassa, tullut, johtaa, johtuen, käytetty, käyttämällä</em>
 
 <table>

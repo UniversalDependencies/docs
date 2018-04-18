@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-974 nodes (0%) are attached to their parents as `nummod`.
+982 nodes (0%) are attached to their parents as `nummod`.
 
-667 instances of `nummod` (68%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.32854209445585.
+671 instances of `nummod` (68%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.33299389002037.
 
-The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> (912; 94% instances), <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> (46; 5% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `nummod`: <tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt>-<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> (919; 94% instances), <tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt>-<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> (46; 5% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt>-<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt>-<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> (2; 0% instances), <tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt>-<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -29,7 +29,7 @@ The following 8 pairs of parts of speech are connected with `nummod`: <tt><a hre
 5	παρεουσέων	πάρειμι#1	VERB	V-	Case=Gen|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	ref=1.11.2
 6	Γύγη	Γύγης	PROPN	Ne	Case=Voc|Gender=Masc|Number=Sing	7	vocative	_	ref=1.11.2
 7	δίδωμί	δίδωμι	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	ref=1.11.2
-8	αἵρεσιν	αἵρεσις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obj:dir	_	ref=1.11.2
+8	αἵρεσιν	αἵρεσις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	ref=1.11.2
 
 ~~~
 

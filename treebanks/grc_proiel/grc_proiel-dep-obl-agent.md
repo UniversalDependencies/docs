@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="grc_proiel-dep-obl.html">obl</a></tt>.
 
-469 nodes (0%) are attached to their parents as `obl:agent`.
+478 nodes (0%) are attached to their parents as `obl:agent`.
 
-318 instances of `obl:agent` (68%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.58422174840085.
+326 instances of `obl:agent` (68%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.58786610878661.
 
-The following 11 pairs of parts of speech are connected with `obl:agent`: <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> (190; 41% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> (114; 24% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> (72; 15% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt> (71; 15% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (12; 3% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `obl:agent`: <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-NOUN.html">NOUN</a></tt> (194; 41% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> (115; 24% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-ADJ.html">ADJ</a></tt> (75; 16% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt> (72; 15% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt> (12; 3% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="grc_proiel-pos-ADP.html">ADP</a></tt>-<tt><a href="grc_proiel-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt>-<tt><a href="grc_proiel-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="grc_proiel-pos-VERB.html">VERB</a></tt>-<tt><a href="grc_proiel-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -49,7 +49,7 @@ The following 11 pairs of parts of speech are connected with `obl:agent`: <tt><a
 7	πρότερόν	πρότερος	ADJ	A-	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	9	advmod	_	ref=5.35.3
 8	μοι	ἐγώ	PRON	Pp	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	9	obl:agent	_	ref=5.35.3
 9	εἴρηται	λέγω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	4	advcl	_	ref=5.35.3
-10	ἀπόστασιν	ἀπόστασις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj:dir	_	ref=5.35.3
+10	ἀπόστασιν	ἀπόστασις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	ref=5.35.3
 
 ~~~
 

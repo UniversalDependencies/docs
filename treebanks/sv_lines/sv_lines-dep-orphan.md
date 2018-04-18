@@ -31,8 +31,8 @@ The following 5 pairs of parts of speech are connected with `orphan`: <tt><a hre
 7	kan	kunna	AUX	PRES-AUX	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	13	aux	_	_
 8	vissa	viss	ADJ	POS-PL-IND	Case=Nom|Definite=Ind|Degree=Pos|Number=Plur	13	nsubj	_	_
 9	av	av	ADP	_	_	12	case	_	_
-10	de	den	DET	DEM-PL	Definite=Def|Number=Plur|PronType=Prs	12	det	_	_
-11	här	här	ADV	DEM-PL	_	10	fixed	_	_
+10	de	den	DET	DEM-PL	Definite=Def|Number=Plur|PronType=Dem	12	det	_	_
+11	här	här	ADV	_	_	10	fixed	_	_
 12	giftblandningarna	giftblandning	NOUN	PL-DEF-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Plur	8	nmod	_	_
 13	ge	ge	VERB	INF-ACT	VerbForm=Inf|Voice=Act	0	root	_	_
 14	intryck	intryck	NOUN	IND-NOM	Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	13	obj	_	_
@@ -80,7 +80,7 @@ The following 5 pairs of parts of speech are connected with `orphan`: <tt><a hre
 4	,	,	PUNCT	Comma	_	5	punct	_	_
 5	fortsatte	fortsätta	VERB	PAST-ACT	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	17	parataxis	_	_
 6	han	han	PRON	PERS-P3SG-NOM	Case=Nom|Definite=Def|Gender=Com|Number=Sing|PronType=Prs	5	nsubj	_	_
-7	utan	utan	ADP	_	_	9	case	_	_
+7	utan	utan	ADP	_	_	9	mark	_	_
 8	att	att	PART	_	_	9	mark	_	_
 9	bry	bry	VERB	INF-ACT	VerbForm=Inf|Voice=Act	5	advcl	_	_
 10	sig	sig	PRON	RFL-ACC	Case=Acc|Definite=Def|PronType=Prs	9	obj	_	_

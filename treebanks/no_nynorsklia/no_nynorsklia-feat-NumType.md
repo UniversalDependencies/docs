@@ -31,5 +31,5 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 The 10 most frequent relations where parent and child node agree in `NumType`:
 <tt>NUM --[<tt><a href="no_nynorsklia-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (15; 100%),
 <tt>NUM --[<tt><a href="no_nynorsklia-dep-conj.html">conj</a></tt>]--> NUM</tt> (7; 100%),
-<tt>NUM --[<tt><a href="no_nynorsklia-dep-reparandum.html">reparandum</a></tt>]--> NUM</tt> (3; 100%).
+<tt>NUM --[<tt><a href="no_nynorsklia-dep-reparandum.html">reparandum</a></tt>]--> NUM</tt> (2; 100%).
 

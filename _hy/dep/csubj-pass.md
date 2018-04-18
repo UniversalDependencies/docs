@@ -34,13 +34,3 @@ obl(told, In-the-letter)
 xcomp(ready, to-develop)
 mark(ready, that)
 ~~~
-
-~~~ sdparse
-Կատարվեց , ինչ սպասվում էր : \n Happened , what was expected .
-csubj(Կատարվեց, սպասվում)
-aux(սպասվում, էր)
-mark(սպասվում, ինչ)
-csubj(Happened, expected)
-aux(expected, was)
-mark(expected, what)
-~~~

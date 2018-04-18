@@ -17,49 +17,54 @@ The following 35 pairs of parts of speech are connected with `nmod`: <tt><a href
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 5 nmod	color:blue
-1	Europeizar	europeizar	VERB	V0f000	VerbForm=Inf	0	root	_	_
-2	o	o	DET	Ddms	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	horario	horario	NOUN	Scms	Gender=Masc|Number=Sing	1	obj	_	_
-4	de	de	ADP	P	AdpType=Prep	5	case	_	_
-5	traballo	traballo	NOUN	Scms	Gender=Masc|Number=Sing	3	nmod	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 4 nmod	color:blue
+1	Babecas	babecas	NOUN	Scap	Gender=Com|Number=Plur	0	root	_	_
+2	de	de	ADP	P	AdpType=Prep	4	case	_	_
+3	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	(in)cultura	(in)cultura	NOUN	Scfs	Gender=Fem|Number=Sing	1	nmod	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 4 6 nmod	color:blue
-1	Entrou	entrar	VERB	Vei30s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-2	como	como	SCONJ	Cs	_	4	mark	_	_
-3	un	un	DET	Dims	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
-4	canón	canón	NOUN	Scms	Gender=Masc|Number=Sing	1	advcl	_	_
-5	con	con	ADP	P	AdpType=Prep	6	case	_	_
-6	Tesis	Tesis	PROPN	Sp00	_	4	nmod	_	SpaceAfter=No
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 3 nmod	color:blue
+1	Intervención	intervención	NOUN	Scfs	Gender=Fem|Number=Sing	0	root	_	_
+2	de	de	ADP	P	AdpType=Prep	3	case	_	_
+3	Xosé	xosé	PROPN	Spm0	Gender=Masc	1	nmod	_	_
+4	Luís	luís	PROPN	Spm0	Gender=Masc	3	flat:name	_	_
+5	Barreiro	barreiro	PROPN	Spm0	Gender=Masc	3	flat:name	_	_
+6	Rivas	rivas	PROPN	Spm0	Gender=Masc	3	flat:name	_	SpaceAfter=No
 7	.	.	PUNCT	Q.	_	1	punct	_	_
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 1 5 nmod	color:blue
-1	Lars	lars	PROPN	Spm0	Gender=Masc	0	root	_	_
-2	Von	von	PROPN	Spm0	Gender=Masc	1	flat	_	_
-3	Trier	trier	PROPN	Spm0	Gender=Masc	1	flat	_	_
-4	con	con	ADP	P	AdpType=Prep	5	case	_	_
-5	Europa	Europa	PROPN	Sp00	_	1	nmod	_	SpaceAfter=No
-6	.	.	PUNCT	Q.	_	1	punct	_	_
+# visual-style 1 3 nmod	color:blue
+1	Paco	paco	PROPN	Spm0	Gender=Masc	0	root	_	_
+2	de	de	ADP	P	AdpType=Prep	3	case	_	_
+3	Lucía	lucía	PROPN	Spm0	Gender=Masc	1	nmod	_	_
+4	desde	desde	ADP	P	AdpType=Prep	7	case	_	_
+5	a	o	DET	Ddfs	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+6	primeira	primeiro	NUM	Nodfs	Gender=Fem|Number=Sing|NumType=Ord	7	nummod	_	_
+7	nota	nota	NOUN	Scfs	Gender=Fem|Number=Sing	1	nmod	_	_
+8	de	de	ADP	P	AdpType=Prep	9	case	_	_
+9	Entre	entre	PROPN	Sp00	_	7	nmod	_	_
+10	dos	dos	NUM	N0000	NumType=Card	11	nummod	_	_
+11	aguas	agua	NOUN	Ncfp	_	9	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	Q.	_	1	punct	_	_
 
 ~~~
 

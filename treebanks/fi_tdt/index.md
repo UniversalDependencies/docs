@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Finnish'
+title:  'UD_Finnish-TDT'
 udver: '2'
 ---
 
@@ -9,7 +9,7 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Finnish
+# UD Finnish TDT
 
 Language: [Finnish](../fi/overview/fi-hub.html) (code: `fi`)<br/>
 Family: Uralic, Finnic
@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v1.0 release.
 
 The following people have contributed to making this treebank part of UD: Filip Ginter, Jenna Kanerva, Veronika Laippala, Niko Miekka, Anna Missilä, Stina Ojala, Sampo Pyysalo.
 
-Repository: [UD_Finnish](https://github.com/UniversalDependencies/UD_Finnish)
+Repository: [UD_Finnish-TDT](https://github.com/UniversalDependencies/UD_Finnish-TDT)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfi_tdt)
 
 License: CC BY-SA 4.0
 
@@ -26,7 +27,7 @@ Genre: news, wiki, blog, legal, fiction, grammar-examples
 
 Questions, comments?
 General annotation questions (either Finnish-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Finnish/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Finnish-TDT/issues).
 If you want to collaborate, please contact [figint&nbsp;(æt)&nbsp;utu&nbsp;•&nbsp;fi, jmnybl&nbsp;(æt)&nbsp;utu&nbsp;•&nbsp;fi].
 Development of the treebank happens outside the UD repository.
 If there are bugs, either the original data source or the conversion procedure must be fixed.
@@ -42,7 +43,7 @@ Do not submit pull requests against the UD repository.
 
 ## Description
 
-UD_Finnish is based on the Turku Dependency Treebank (TDT), a broad-coverage dependency treebank of general Finnish covering numerous genres. The conversion to UD was followed by extensive manual checks and corrections, and the treebank closely adheres to the UD guidelines.
+UD_Finnish-TDT is based on the Turku Dependency Treebank (TDT), a broad-coverage dependency treebank of general Finnish covering numerous genres. The conversion to UD was followed by extensive manual checks and corrections, and the treebank closely adheres to the UD guidelines.
 
 
 
@@ -63,27 +64,40 @@ We are grateful for the funding received from:
 We thank all the authors who kindly allowed us to include their texts into the treebank, either by explicit permission, or by releasing their text under an open license in the first place.
 
 
-# Statistics of UD Finnish
+# Statistics of UD Finnish TDT
 
 ## POS Tags
 
-[ADJ](fi-pos-ADJ.html) – [ADP](fi-pos-ADP.html) – [ADV](fi-pos-ADV.html) – [AUX](fi-pos-AUX.html) – [CCONJ](fi-pos-CCONJ.html) – [INTJ](fi-pos-INTJ.html) – [NOUN](fi-pos-NOUN.html) – [NUM](fi-pos-NUM.html) – [PRON](fi-pos-PRON.html) – [PROPN](fi-pos-PROPN.html) – [PUNCT](fi-pos-PUNCT.html) – [SCONJ](fi-pos-SCONJ.html) – [SYM](fi-pos-SYM.html) – [VERB](fi-pos-VERB.html) – [X](fi-pos-X.html)
+[ADJ](fi_tdt-pos-ADJ.html) – [ADP](fi_tdt-pos-ADP.html) – [ADV](fi_tdt-pos-ADV.html) – [AUX](fi_tdt-pos-AUX.html) – [CCONJ](fi_tdt-pos-CCONJ.html) – [INTJ](fi_tdt-pos-INTJ.html) – [NOUN](fi_tdt-pos-NOUN.html) – [NUM](fi_tdt-pos-NUM.html) – [PRON](fi_tdt-pos-PRON.html) – [PROPN](fi_tdt-pos-PROPN.html) – [PUNCT](fi_tdt-pos-PUNCT.html) – [SCONJ](fi_tdt-pos-SCONJ.html) – [SYM](fi_tdt-pos-SYM.html) – [VERB](fi_tdt-pos-VERB.html) – [X](fi_tdt-pos-X.html)
 
 ## Features
 
-[Abbr](fi-feat-Abbr.html) – [AdpType](fi-feat-AdpType.html) – [Case](fi-feat-Case.html) – [Clitic](fi-feat-Clitic.html) – [Connegative](fi-feat-Connegative.html) – [Degree](fi-feat-Degree.html) – [Derivation](fi-feat-Derivation.html) – [Foreign](fi-feat-Foreign.html) – [InfForm](fi-feat-InfForm.html) – [Mood](fi-feat-Mood.html) – [Number](fi-feat-Number.html) – [Number[psor]](fi-feat-Number-psor.html) – [NumType](fi-feat-NumType.html) – [PartForm](fi-feat-PartForm.html) – [Person](fi-feat-Person.html) – [Person[psor]](fi-feat-Person-psor.html) – [Polarity](fi-feat-Polarity.html) – [PronType](fi-feat-PronType.html) – [Reflex](fi-feat-Reflex.html) – [Style](fi-feat-Style.html) – [Tense](fi-feat-Tense.html) – [Typo](fi-feat-Typo.html) – [VerbForm](fi-feat-VerbForm.html) – [Voice](fi-feat-Voice.html)
+[Abbr](fi_tdt-feat-Abbr.html) – [AdpType](fi_tdt-feat-AdpType.html) – [Case](fi_tdt-feat-Case.html) – [Clitic](fi_tdt-feat-Clitic.html) – [Connegative](fi_tdt-feat-Connegative.html) – [Degree](fi_tdt-feat-Degree.html) – [Derivation](fi_tdt-feat-Derivation.html) – [Foreign](fi_tdt-feat-Foreign.html) – [InfForm](fi_tdt-feat-InfForm.html) – [Mood](fi_tdt-feat-Mood.html) – [Number](fi_tdt-feat-Number.html) – [Number[psor]](fi_tdt-feat-Number-psor.html) – [NumType](fi_tdt-feat-NumType.html) – [PartForm](fi_tdt-feat-PartForm.html) – [Person](fi_tdt-feat-Person.html) – [Person[psor]](fi_tdt-feat-Person-psor.html) – [Polarity](fi_tdt-feat-Polarity.html) – [PronType](fi_tdt-feat-PronType.html) – [Reflex](fi_tdt-feat-Reflex.html) – [Style](fi_tdt-feat-Style.html) – [Tense](fi_tdt-feat-Tense.html) – [Typo](fi_tdt-feat-Typo.html) – [VerbForm](fi_tdt-feat-VerbForm.html) – [Voice](fi_tdt-feat-Voice.html)
 
 ## Relations
 
-[_](fi-dep-_.html) – [acl](fi-dep-acl.html) – [acl:relcl](fi-dep-acl-relcl.html) – [advcl](fi-dep-advcl.html) – [advmod](fi-dep-advmod.html) – [amod](fi-dep-amod.html) – [appos](fi-dep-appos.html) – [aux](fi-dep-aux.html) – [aux:pass](fi-dep-aux-pass.html) – [case](fi-dep-case.html) – [cc](fi-dep-cc.html) – [cc:preconj](fi-dep-cc-preconj.html) – [ccomp](fi-dep-ccomp.html) – [compound](fi-dep-compound.html) – [compound:nn](fi-dep-compound-nn.html) – [compound:prt](fi-dep-compound-prt.html) – [conj](fi-dep-conj.html) – [cop](fi-dep-cop.html) – [cop:own](fi-dep-cop-own.html) – [csubj](fi-dep-csubj.html) – [csubj:cop](fi-dep-csubj-cop.html) – [dep](fi-dep-dep.html) – [det](fi-dep-det.html) – [discourse](fi-dep-discourse.html) – [fixed](fi-dep-fixed.html) – [flat](fi-dep-flat.html) – [flat:foreign](fi-dep-flat-foreign.html) – [flat:name](fi-dep-flat-name.html) – [goeswith](fi-dep-goeswith.html) – [mark](fi-dep-mark.html) – [nmod](fi-dep-nmod.html) – [nmod:gobj](fi-dep-nmod-gobj.html) – [nmod:gsubj](fi-dep-nmod-gsubj.html) – [nmod:poss](fi-dep-nmod-poss.html) – [nsubj](fi-dep-nsubj.html) – [nsubj:cop](fi-dep-nsubj-cop.html) – [nummod](fi-dep-nummod.html) – [obj](fi-dep-obj.html) – [obl](fi-dep-obl.html) – [orphan](fi-dep-orphan.html) – [parataxis](fi-dep-parataxis.html) – [punct](fi-dep-punct.html) – [root](fi-dep-root.html) – [vocative](fi-dep-vocative.html) – [xcomp](fi-dep-xcomp.html) – [xcomp:ds](fi-dep-xcomp-ds.html)
+[acl](fi_tdt-dep-acl.html) – [acl:relcl](fi_tdt-dep-acl-relcl.html) – [advcl](fi_tdt-dep-advcl.html) – [advmod](fi_tdt-dep-advmod.html) – [amod](fi_tdt-dep-amod.html) – [appos](fi_tdt-dep-appos.html) – [aux](fi_tdt-dep-aux.html) – [aux:pass](fi_tdt-dep-aux-pass.html) – [case](fi_tdt-dep-case.html) – [cc](fi_tdt-dep-cc.html) – [cc:preconj](fi_tdt-dep-cc-preconj.html) – [ccomp](fi_tdt-dep-ccomp.html) – [compound](fi_tdt-dep-compound.html) – [compound:nn](fi_tdt-dep-compound-nn.html) – [compound:prt](fi_tdt-dep-compound-prt.html) – [conj](fi_tdt-dep-conj.html) – [cop](fi_tdt-dep-cop.html) – [cop:own](fi_tdt-dep-cop-own.html) – [csubj](fi_tdt-dep-csubj.html) – [csubj:cop](fi_tdt-dep-csubj-cop.html) – [dep](fi_tdt-dep-dep.html) – [det](fi_tdt-dep-det.html) – [discourse](fi_tdt-dep-discourse.html) – [fixed](fi_tdt-dep-fixed.html) – [flat](fi_tdt-dep-flat.html) – [flat:foreign](fi_tdt-dep-flat-foreign.html) – [flat:name](fi_tdt-dep-flat-name.html) – [goeswith](fi_tdt-dep-goeswith.html) – [mark](fi_tdt-dep-mark.html) – [nmod](fi_tdt-dep-nmod.html) – [nmod:gobj](fi_tdt-dep-nmod-gobj.html) – [nmod:gsubj](fi_tdt-dep-nmod-gsubj.html) – [nmod:poss](fi_tdt-dep-nmod-poss.html) – [nsubj](fi_tdt-dep-nsubj.html) – [nsubj:cop](fi_tdt-dep-nsubj-cop.html) – [nummod](fi_tdt-dep-nummod.html) – [obj](fi_tdt-dep-obj.html) – [obl](fi_tdt-dep-obl.html) – [orphan](fi_tdt-dep-orphan.html) – [parataxis](fi_tdt-dep-parataxis.html) – [punct](fi_tdt-dep-punct.html) – [root](fi_tdt-dep-root.html) – [vocative](fi_tdt-dep-vocative.html) – [xcomp](fi_tdt-dep-xcomp.html) – [xcomp:ds](fi_tdt-dep-xcomp-ds.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
-<li>This corpus contains 15136 sentences and 202208 tokens.</li>
+<li>This corpus contains 15136 sentences and 201952 tokens.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 28668 tokens (14%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 106 types of words with spaces. Examples: 100 000, : ), 10 000, 200 000, 50 000, 70 000, 80 000, 800 000, 1 000, 2 800, 20 000, 5 000, 170 000, 21 000, 22 000, 3 000, 30 000, 300 000, 330 000, 400 000, 413 000, 82 000, 90 000, 900 000, 1 022 806, 1 200, 1 377, 1 564, 1 671,82, 1 700, 1 800, 101 389, 102 000, 11 125, 110 000, 118 000, 12 400, 130 000, 130 005, 135 000, 14 634, 14 900, 140 000, 144 900, 154 502, 158 100, 166 000, 175 000, 180 000, 198 058</li>
-<li>This corpus contains 2276 types of words that contain both letters and punctuation. Examples: EU:n, N:o, s., mm., eaa., :D, 5(n), EKP:n, talous-, A., esim., sdp:n, EMN:n, YK:n, ns., n., A:n, -yhtye, oy:n, 2003/634/EY, II:n, huhti-kesäkuussa, ja/tai, EU:, UPM:n, Varsinais-Suomen, var., -yhtyeen, 19/65/ETY, 1980-luvun, 3.Rf3, ETA:n, I:n, kuorma-auto, pinta-ala, 1800-luvun, 1999/730/YUTP, 2.f4, 90/642/ETY, Isossa-Britanniassa, J., SDP:tä, Valko-Venäjä, koulutus-, maahanmuutto-, tutkimus-, ven., 1900-luvun, 1970-luvulla, 1990-luvun</li>
+</ul>
+
+<ul>
+<li>This corpus contains 2275 types of words that contain both letters and punctuation. Examples: EU:n, N:o, s., mm., eaa., :D, 5(n), EKP:n, talous-, A., esim., sdp:n, EMN:n, YK:n, ns., n., A:n, -yhtye, oy:n, 2003/634/EY, II:n, huhti-kesäkuussa, ja/tai, EU:, UPM:n, Varsinais-Suomen, var., -yhtyeen, 19/65/ETY, 1980-luvun, 3.Rf3, ETA:n, I:n, kuorma-auto, pinta-ala, 1800-luvun, 1999/730/YUTP, 2.f4, 90/642/ETY, Isossa-Britanniassa, J., SDP:tä, Valko-Venäjä, koulutus-, maahanmuutto-, tutkimus-, ven., 1900-luvun, 1970-luvulla, 1990-luvun</li>
+</ul>
+
+<ul>
 </ul>
 
 <h2>Morphology</h2>
@@ -93,6 +107,9 @@ We thank all the authors who kindly allowed us to include their texts into the t
 <ul>
 <li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: DET, PART</li>
+</ul>
+
+<ul>
 </ul>
 
 <ul>
@@ -115,20 +132,28 @@ We thank all the authors who kindly allowed us to include their texts into the t
 </ul>
 
 <ul>
-<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Fin
   <ul>
     <li>AUX: on, ei, oli, ovat, ole, voi, olisi, en, eivät, olivat</li>
-    <li>VERB: eikä, tulee, saa, sai, tuli, on, ettei, sanoi, ottaa, kertoo</li>
+    <li>VERB: eikä, tulee, saa, sai, tuli, ettei, on, sanoi, ottaa, sanoo</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Inf
   <ul>
     <li>AUX: olla, olemaan, pitää, ollessa, olemalla, ollen, ollessaan, voidakseen, joutua, olemassa</li>
     <li>VERB: tehdä, saada, ottaa, käyttää, antaa, mennä, olemassa, pitää, sanoa, olla</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>AUX: ollut, olevan, olleet, voinut, oltava, ollu, olleen, pitänyt, olevansa, oltu</li>
@@ -136,14 +161,16 @@ We thank all the authors who kindly allowed us to include their texts into the t
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
 
 
+
+
+
 <li><a>Number</a>
+
   <ul>
     <li>Plur
       <ul>
@@ -158,6 +185,9 @@ We thank all the authors who kindly allowed us to include their texts into the t
         <li>VERB-Part: koskevat, olevat, koskevien, olevien, liittyviä, olevia, koskevia, koskevista, saaneet, tarkoitettujen</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: hyvä, arvoisa, ensimmäinen, uusi, uuden, hyvää, ensimmäisen, oman, uutta, pieni</li>
@@ -174,9 +204,13 @@ We thank all the authors who kindly allowed us to include their texts into the t
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Case</a>
+
   <ul>
     <li>Abe
       <ul>
@@ -186,6 +220,9 @@ We thank all the authors who kindly allowed us to include their texts into the t
         <li>VERB-Part: kutsumatta, haluamatta, huomaamatta, lunastamatta, puhumattakaan, puuttumatta, rajoittamatta, saapumatta</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Abl
       <ul>
         <li>ADJ: omalta, hyvältä, suurelta, pahalta, pidemmältä, uusilta, erilaiselta, hassulta, oikeudelliselta, paremmalta</li>
@@ -196,11 +233,17 @@ We thank all the authors who kindly allowed us to include their texts into the t
         <li>VERB-Part: tapahtuvalta, aiheuttamilta, ei-hyväksytyiltä, johtavalta, julkaistulta, kuolaavalta, käyvältä, loukkaantuneelta, mainitulta, myönnetyiltä</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Acc
       <ul>
         <li>PRON: hänet, minut, meidät, sinut, heidät, mut, sut, kenet, teidät, ketkä</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ade
       <ul>
         <li>ADJ: toisella, ensimmäisellä, hyvällä, suurella, uudella, vasemmalla, kyseisellä, omalla, omilla, pitkällä</li>
@@ -214,6 +257,9 @@ We thank all the authors who kindly allowed us to include their texts into the t
         <li>VERB-Part: saatavilla, olevalla, nähtävillä, olevilla, tehdyllä, ei-hyväksytyllä, haluamallasi, johtamalla, järjestämällä, koskevalla</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>All
       <ul>
         <li>ADJ: asianomaisille, uusille, omille, vapaalle, hyvälle, nuorelle, toiselle, uudelle, asianomaiselle, julkiselle</li>
@@ -224,14 +270,20 @@ We thank all the authors who kindly allowed us to include their texts into the t
         <li>VERB-Part: oleville, kuuluville, olevalle, saataville, kuuluvalle, käytettäville, saapuville, tarkoitetuille, tehtäville, toimineelle</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Com
       <ul>
         <li>ADJ: kansanomaisine, liehuvine, ruumiillisine, tuttuine, uusine</li>
-        <li>NOUN: poikineen, postikuluineen, ajatuksineni, allekirjoittajineen, asenteineen, eduskuntakäsittelyineenkin, herkkuineen, hihoineen, iloineen, jalanjälkineen</li>
+        <li>NOUN: poikineen, postikuluineen, ajatuksineni, allekirjoittajineen, asenteineen, e​d​u​s​k​u​n​t​a​k​ä​s​i​t​t​e​l​y​i​n​e​e​n​k​i​n, herkkuineen, hihoineen, iloineen, jalanjälkineen</li>
         <li>PRON: kaikkine, Näine, muineen</li>
         <li>PROPN: bajamajoineen</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ela
       <ul>
         <li>ADJ: omasta, uudesta, suuresta, pienestä, uusista, välisestä, kolmansista, omista, tyhjästä, hyvästä</li>
@@ -244,6 +296,9 @@ We thank all the authors who kindly allowed us to include their texts into the t
         <li>VERB-Part: koskevista, koskevasta, liittyvistä, olevasta, olevista, käytetystä, sijaitsevasta, sovellettavasta, sovellettavista, tehdystä</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ess
       <ul>
         <li>ADJ: sellaisena, ensimmäisenä, seuraavana, viimeisenä, sellaisenaan, valmiina, kolmantena, sellaisina, toisena, tyytyväisenä</li>
@@ -255,6 +310,9 @@ We thank all the authors who kindly allowed us to include their texts into the t
         <li>VERB-Part: verrattuna, muutettuna, katsottuna, sanottuna, hienonnettuna, käsiteltävänä, luettuina, uhattuna, edeltävänä, edustettuina</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Gen
       <ul>
         <li>ADJ: uuden, ensimmäisen, oman, toisen, kyseisen, kansainvälisen, kolmansien, erityisen, suomalaisen, hyvän</li>
@@ -266,6 +324,9 @@ We thank all the authors who kindly allowed us to include their texts into the t
         <li>VERB-Part: olevan, koskevan, annetun, koskevien, olevien, tehdyn, tarkoitettujen, tapahtuvan, mainitun, käsittelevän</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ill
       <ul>
         <li>ADJ: uuteen, omaan, sellaiseen, uusiin, toiseen, vastaavaan, kolmanteen, oikeaan, omiin, sellaisiin</li>
@@ -279,6 +340,9 @@ We thank all the authors who kindly allowed us to include their texts into the t
         <li>VERB-Part: olevaan, koskevaan, koskeviin, liittyviin, säädettyyn, tuleviin, Luvattuun, esitettyihin, esittämiin, haluamaansa</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ine
       <ul>
         <li>ADJ: ensimmäisessä, parlamentaarisessa, virallisessa, omassa, toisessa, uudessa, pienessä, suuressa, tavanomaisessa, hyvässä</li>
@@ -292,6 +356,9 @@ We thank all the authors who kindly allowed us to include their texts into the t
         <li>VERB-Part: olevassa, annetussa, käytettävissä, koskevissa, koskevassa, pidetyssä, järjestämässä, nähtävissä, olemassa, sijaitsevassa</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ins
       <ul>
         <li>ADJ: omin, paljain, selvin, suurin, tietyin, tärkein, vähin, Avoimin, Raskain, aistinvaraisin</li>
@@ -304,6 +371,9 @@ We thank all the authors who kindly allowed us to include their texts into the t
         <li>VERB-Part: edellytetyin, soveltuvin, säädetyin</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Nom
       <ul>
         <li>ADJ: hyvä, arvoisa, ensimmäinen, uusi, pieni, oma, suuri, suurin, tärkeä, paras</li>
@@ -315,6 +385,9 @@ We thank all the authors who kindly allowed us to include their texts into the t
         <li>VERB-Part: tehty, saanut, tullut, s., tehnyt, annettu, koskevat, oleva, olevat, antanut</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Par
       <ul>
         <li>ADJ: hyvää, uutta, useita, tärkeää, uusia, mahdollista, omaa, ensimmäistä, seuraavaa, erilaisia</li>
@@ -327,6 +400,9 @@ We thank all the authors who kindly allowed us to include their texts into the t
         <li>VERB-Part: liittyviä, olevia, koskevia, olevaa, kuluttua, koskevaa, tarkoitettua, tehtyä, liittyvää, säädettyä</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Tra
       <ul>
         <li>ADJ: toiseksi, hyväksi, kolmanneksi, uudeksi, valmiiksi, neljänneksi, parhaaksi, tutuksi, ensimmäiseksi, ilmaiseksi</li>
@@ -340,13 +416,20 @@ We thank all the authors who kindly allowed us to include their texts into the t
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
+
 
 
 
 <h3>Degree and Polarity</h3>
 
+
 <li><a>Degree</a>
+
   <ul>
     <li>Cmp
       <ul>
@@ -355,6 +438,9 @@ We thank all the authors who kindly allowed us to include their texts into the t
         <li>VERB-Part: hyväksytympi</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pos
       <ul>
         <li>ADJ: hyvä, arvoisa, uusi, uuden, hyvää, oman, uutta, pieni, oma, tärkeää</li>
@@ -365,6 +451,9 @@ We thank all the authors who kindly allowed us to include their texts into the t
         <li>VERB-Part: tehty, saanut, olevan, tullut, s., tehnyt, koskevan, annettu, koskevat, annetun</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sup
       <ul>
         <li>ADJ: suurin, paras, suurimmat, korkein, suurimman, parasta, vanhin, tärkein, useimmat, parhaan</li>
@@ -373,9 +462,13 @@ We thank all the authors who kindly allowed us to include their texts into the t
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Polarity</a>
+
   <ul>
     <li>Neg
       <ul>
@@ -384,32 +477,48 @@ We thank all the authors who kindly allowed us to include their texts into the t
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Verbal Features</h3>
 
 
+
+
 <li><a>Mood</a>
+
   <ul>
     <li>Cnd
       <ul>
         <li>AUX-Fin: olisi, pitäisi, voisi, olisin, olisivat, voitaisiin, voisivat, voisin, olisiko, olisimme</li>
-        <li>VERB-Fin: tulisi, haluaisin, saisi, haluaisi, olisi, saisin, saisivat, tekisi, vaikuttaisi, kuuluisi</li>
+        <li>VERB-Fin: haluaisin, tulisi, saisi, haluaisi, olisi, saisin, saisivat, tekisi, vaikuttaisi, kuuluisi</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Imp
       <ul>
         <li>AUX-Fin: älä, älkää, ole, olkaa, älkäämme, älköön</li>
-        <li>VERB-Fin: lisää, ota, keitä, leikkaa, paista, lue, sekoita, tee, Kypsennä, anna</li>
+        <li>VERB-Fin: lisää, ota, keitä, paista, leikkaa, lue, tee, Kypsennä, anna, pidä</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>AUX-Fin: on, oli, ovat, ole, voi, olivat, voidaan, olen, olin, voivat</li>
-        <li>VERB-Fin: tulee, saa, sai, tuli, on, sanoi, ottaa, kertoo, sanoo, kertoi</li>
+        <li>VERB-Fin: tulee, saa, sai, tuli, on, sanoi, ottaa, sanoo, kertoo, kertoi</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pot
       <ul>
         <li>AUX-Fin: lienee, liene, lie, lienevät, Voinen, joutunee, lien, lieneekään, voinee</li>
@@ -417,104 +526,151 @@ We thank all the authors who kindly allowed us to include their texts into the t
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Tense</a>
+
   <ul>
     <li>Past
       <ul>
         <li>AUX-Fin: oli, olivat, olin, piti, saattoi, olikin, joutui, oliko, oltiin, taisi</li>
-        <li>VERB-Fin: sai, tuli, sanoi, kertoi, alkoi, voitti, teki, oli, toimi, nousi</li>
+        <li>VERB-Fin: sai, tuli, sanoi, kertoi, alkoi, voitti, teki, oli, nousi, jäi</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pres
       <ul>
         <li>AUX-Fin: on, ovat, ole, voi, voidaan, olen, onko, voivat, olemme, täytyy</li>
-        <li>VERB-Fin: tulee, saa, on, ottaa, kertoo, sanoo, kuuluu, tekee, tarkoitetaan, pitää</li>
+        <li>VERB-Fin: tulee, saa, on, ottaa, sanoo, kertoo, kuuluu, tekee, toimii, haluaa</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
   </ul>
 </li>
 
 <li><a>Voice</a>
+
   <ul>
     <li>Act
       <ul>
         <li>AUX-Fin: on, ei, oli, ovat, olisi, voi, en, eivät, olivat, olen</li>
         <li>AUX-Inf: olla, olemaan, pitää, ollessa, olemalla, ollen, ollessaan, voidakseen, joutua, olemassa</li>
         <li>AUX-Part: ollut, olevan, olleet, voinut, ollu, olleen, pitänyt, olevansa, joutunut, saattanut</li>
-        <li>VERB-Fin: eikä, tulee, sai, tuli, on, ettei, sanoi, saa, ottaa, kertoo</li>
+        <li>VERB-Fin: eikä, tulee, sai, tuli, ettei, on, sanoi, saa, ottaa, sanoo</li>
         <li>VERB-Inf: tehdä, saada, ottaa, käyttää, antaa, mennä, olemassa, pitää, sanoa, olla</li>
         <li>VERB-Part: saanut, olevan, tullut, s., tehnyt, koskevan, koskevat, oleva, olevat, antanut</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Pass
       <ul>
         <li>AUX-Fin: voidaan, voida, voitaisiin, ollaan, oltiin, olla, aiotaan, saatetaan, voitiin, Aiotaanko</li>
         <li>AUX-Part: ollut, oltava, oltu, voitu, voitava, jouduttu, saatettu</li>
-        <li>VERB-Fin: tarkoitetaan, tehdään, julkaistiin, sovelletaan, käytetään, otetaan, annetaan, pidetään, tarvitaan, valittiin</li>
+        <li>VERB-Fin: tehdään, sovelletaan, julkaistiin, käytetään, otetaan, annetaan, pidetään, tarvitaan, korvataan, vahvistetaan</li>
         <li>VERB-Inf: tarvittaessa, laadittaessa, Kuumennettaessa, käytettäessä, määriteltäessä, päätettäessä, tehtäessä, valittaessa, Löydettäessä, Tiedusteltaessa</li>
         <li>VERB-Part: tehty, annettu, annetun, verrattuna, saatu, muutettuna, julkaistu, tehdyn, kuluttua, tehtävä</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
+
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
+
 <li><a>PronType</a>
+
   <ul>
     <li>Dem
       <ul>
         <li>PRON: se, sen, sitä, siitä, tämän, tämä, ne, tässä, niiden, siihen</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ind
       <ul>
         <li>PRON: kaikki, mitään, jotain, joku, muita, muiden, muut, muuta, kaiken, kukaan</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Int
       <ul>
         <li>PRON: mitä, mikä, kuka, mistä, missä, mihin, minkä, mitkä, millä, mitähän</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Prs
       <ul>
         <li>PRON: hän, hänen, minä, he, meidän, mä, me, heidän, minun, minua</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rcp
       <ul>
         <li>PRON: toinen, toisen, toiselle, toiseen, toisella, toisiinsa, toisten, toiset, toisiaan, toisessa</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Rel
       <ul>
         <li>PRON: joka, jotka, jonka, jossa, mitä, joita, jota, joiden, mikä, joissa</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>NumType</a>
+
   <ul>
     <li>Card
       <ul>
         <li>NUM: 1, 2, 2009, 3, 5, 4, kaksi, 10, 2006, 6</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Ord
       <ul>
         <li>ADJ: 1., 2., 3., II, ensimmäinen, I, ensimmäisen, 7., 4., toisen</li>
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 
+
 <li><a>Reflex</a>
+
   <ul>
     <li>Yes
       <ul>
@@ -522,9 +678,13 @@ We thank all the authors who kindly allowed us to include their texts into the t
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <li><a>Person</a>
+
   <ul>
     <li>0
       <ul>
@@ -532,6 +692,9 @@ We thank all the authors who kindly allowed us to include their texts into the t
         <li>VERB-Fin: on, saa, tulee, ei, tuli, tuntuu, sai, kannattaa, oli, tulisi</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>1
       <ul>
         <li>AUX-Fin: en, olen, olin, olemme, emme, olisin, voimme, voin, enkä, voisin</li>
@@ -539,26 +702,38 @@ We thank all the authors who kindly allowed us to include their texts into the t
         <li>VERB-Fin: haluaisin, haluan, sain, enkä, huomasin, etten, toivon, ajattelin, näin, ostin</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>2
       <ul>
         <li>AUX-Fin: et, olet, älä, voit, olisit, voitte, älkää, ole, olette, ette</li>
         <li>PRON: sinä, sä, sinun, teitä, te, sinua, sinulle, teille, sinulla, sinut</li>
-        <li>VERB-Fin: lisää, ota, et, haluat, keitä, leikkaa, paista, saat, lue, sekoita</li>
+        <li>VERB-Fin: lisää, ota, et, haluat, keitä, paista, saat, leikkaa, lue, tee</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>3
       <ul>
         <li>AUX-Fin: on, ei, oli, ovat, olisi, voi, eivät, olivat, voivat, onko</li>
         <li>PRON: hän, hänen, he, heidän, hänet, häntä, hänelle, hänellä, hänestä, heitä</li>
-        <li>VERB-Fin: eikä, sai, tulee, tuli, ettei, sanoi, ottaa, on, kertoo, sanoo</li>
+        <li>VERB-Fin: eikä, sai, tulee, ettei, tuli, sanoi, ottaa, on, kertoo, sanoo</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
   </ul>
 </li>
 
 
 
+
+
 <li><a>Number[psor]</a>
+
   <ul>
     <li>Plur
       <ul>
@@ -574,6 +749,9 @@ We thank all the authors who kindly allowed us to include their texts into the t
         <li>VERB-Part: esittämistämme, laatimamme, Jätettyämme, Otettuamme, Saamiemme, asuttamastamme, haluamamme, huomaavinamme, keskusteltuamme, kuunneltuamme</li>
       </ul>
     </li>
+  </ul>
+
+  <ul>
     <li>Sing
       <ul>
         <li>ADJ: kaltaiseni, ikäiseni, omiasi, Minunlaiseni, omani, omiani, omieni, omistani, parhaani</li>
@@ -589,9 +767,13 @@ We thank all the authors who kindly allowed us to include their texts into the t
       </ul>
     </li>
   </ul>
+
+  <ul>
+  </ul>
 </li>
 
 <h3>Other Features</h3>
+
 
 <li><a>Abbr</a>
   <ul>
@@ -609,6 +791,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
     </li>
   </ul>
 </li>
+
 <li><a>AdpType</a>
   <ul>
     <li>Post
@@ -623,6 +806,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
     </li>
   </ul>
 </li>
+
 <li><a>Clitic</a>
   <ul>
     <li>Han
@@ -741,6 +925,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
     </li>
   </ul>
 </li>
+
 <li><a>Connegative</a>
   <ul>
     <li>Yes
@@ -751,6 +936,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
     </li>
   </ul>
 </li>
+
 <li><a>Derivation</a>
   <ul>
     <li>Inen
@@ -817,7 +1003,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
     <li>Ton
       <ul>
         <li>ADJ: välttämätöntä, mahdotonta, tavattoman, uskomatonta, vaivatonta, ehdottomaan, erottamaton, laittoman, maksuton, riippumaton</li>
-        <li>NOUN: pitkäaikaistyöttömien, syyttömiä, tuntemattomille, työttömien, työttömät</li>
+        <li>NOUN: p​i​t​k​ä​a​i​k​a​i​s​t​y​ö​t​t​ö​m​i​e​n, syyttömiä, tuntemattomille, työttömien, työttömät</li>
         <li>VERB-Part: asettelematonta, palamaton</li>
       </ul>
     </li>
@@ -843,6 +1029,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
     </li>
   </ul>
 </li>
+
 <li><a>Foreign</a>
   <ul>
     <li>Yes
@@ -852,6 +1039,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
     </li>
   </ul>
 </li>
+
 <li><a>InfForm</a>
   <ul>
     <li>1
@@ -874,6 +1062,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
     </li>
   </ul>
 </li>
+
 <li><a>PartForm</a>
   <ul>
     <li>Agt
@@ -901,6 +1090,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
     </li>
   </ul>
 </li>
+
 <li><a>Person[psor]</a>
   <ul>
     <li>1
@@ -947,6 +1137,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
     </li>
   </ul>
 </li>
+
 <li><a>Style</a>
   <ul>
     <li>Arch
@@ -977,6 +1168,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
     </li>
   </ul>
 </li>
+
 <li><a>Typo</a>
   <ul>
     <li>Yes
@@ -989,7 +1181,7 @@ We thank all the authors who kindly allowed us to include their texts into the t
         <li>AUX-Part: olevaan, olut</li>
         <li>CCONJ: jokö, van</li>
         <li>INTJ: joo.</li>
-        <li>NOUN: version, 1dl, 200mm, MUUTTOLIIKEIDEN, lypsy-ja, n.1, -näppäimesta, -sossupummit, 11.krenatöörirykmentin, 1kpl</li>
+        <li>NOUN: version, 1dl, 200mm, MUUTTOLIIKEIDEN, lypsy-ja, n.1, -näppäimesta, -sossupummit, 1​1​.​k​r​e​n​a​t​ö​ö​r​i​r​y​k​m​e​n​t​i​n, 1kpl</li>
         <li>NUM: kahden, miljoona</li>
         <li>PRON: minun, sen, Hedän, Kumpikin, Saman, Tosilla, Tämä, erääseen, johon, jonka</li>
         <li>PROPN: Pekkka, -Maks, Begia, Carnegiein, EMN, Guinnesiin, Guinnesin, Hohenstaufen, Isoa-Britanniaan, Japani</li>
@@ -1008,6 +1200,9 @@ We thank all the authors who kindly allowed us to include their texts into the t
 
 <ul>
 <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: olla, olla#minä.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 13 lemmas as auxiliaries (<a>aux</a>). Examples: ei, olla, voida, pitää, saattaa, täytyä, joutua, aikoa, taitaa, tarvita, mahtaa, että#ei, jos#ei.</li>
 <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: olla, voida.</li>
 </ul>
@@ -1022,26 +1217,26 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
       <li>VERB-Fin--NOUN-Gen (27)</li>
       <li>VERB-Fin--NOUN-Ill (1)</li>
       <li>VERB-Fin--NOUN-Ins (1)</li>
-      <li>VERB-Fin--NOUN-Nom (4126)</li>
+      <li>VERB-Fin--NOUN-Nom (4138)</li>
       <li>VERB-Fin--NOUN-Par (388)</li>
       <li>VERB-Fin--PRON-Gen (5)</li>
-      <li>VERB-Fin--PRON-Nom (2128)</li>
+      <li>VERB-Fin--PRON-Nom (2133)</li>
       <li>VERB-Fin--PRON-Par (52)</li>
-      <li>VERB-Inf--NOUN-Gen (230)</li>
+      <li>VERB-Inf--NOUN-Gen (232)</li>
       <li>VERB-Inf--NOUN-Ins (1)</li>
-      <li>VERB-Inf--NOUN-Nom (338)</li>
-      <li>VERB-Inf--NOUN-Par (104)</li>
+      <li>VERB-Inf--NOUN-Nom (337)</li>
+      <li>VERB-Inf--NOUN-Par (105)</li>
       <li>VERB-Inf--PRON-Acc (29)</li>
-      <li>VERB-Inf--PRON-Gen (136)</li>
-      <li>VERB-Inf--PRON-Nom (154)</li>
+      <li>VERB-Inf--PRON-Gen (137)</li>
+      <li>VERB-Inf--PRON-Nom (156)</li>
       <li>VERB-Inf--PRON-Par (32)</li>
-      <li>VERB-Part--NOUN-Gen (446)</li>
+      <li>VERB-Part--NOUN-Gen (454)</li>
       <li>VERB-Part--NOUN-Ins (1)</li>
-      <li>VERB-Part--NOUN-Nom (651)</li>
-      <li>VERB-Part--NOUN-Par (99)</li>
+      <li>VERB-Part--NOUN-Nom (654)</li>
+      <li>VERB-Part--NOUN-Par (100)</li>
       <li>VERB-Part--PRON-Acc (1)</li>
       <li>VERB-Part--PRON-Gen (152)</li>
-      <li>VERB-Part--PRON-Nom (329)</li>
+      <li>VERB-Part--PRON-Nom (332)</li>
       <li>VERB-Part--PRON-Par (15)</li>
     </ul>
   </li>
@@ -1050,36 +1245,36 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <ul>
   <li><a>obj</a>
     <ul>
-      <li>VERB-Fin--NOUN (1)</li>
+      <li>VERB-Fin--NOUN (2)</li>
       <li>VERB-Fin--NOUN-Ela (2)</li>
-      <li>VERB-Fin--NOUN-Gen (1200)</li>
+      <li>VERB-Fin--NOUN-Gen (1205)</li>
       <li>VERB-Fin--NOUN-Ill (3)</li>
       <li>VERB-Fin--NOUN-Ins (1)</li>
-      <li>VERB-Fin--NOUN-Nom (1075)</li>
-      <li>VERB-Fin--NOUN-Par (2450)</li>
+      <li>VERB-Fin--NOUN-Nom (1079)</li>
+      <li>VERB-Fin--NOUN-Par (2459)</li>
       <li>VERB-Fin--PRON-Acc (91)</li>
       <li>VERB-Fin--PRON-All (1)</li>
       <li>VERB-Fin--PRON-Gen (200)</li>
       <li>VERB-Fin--PRON-Nom (145)</li>
-      <li>VERB-Fin--PRON-Par (563)</li>
+      <li>VERB-Fin--PRON-Par (565)</li>
       <li>VERB-Inf--NOUN-Ela (1)</li>
-      <li>VERB-Inf--NOUN-Gen (329)</li>
+      <li>VERB-Inf--NOUN-Gen (330)</li>
       <li>VERB-Inf--NOUN-Ill (1)</li>
       <li>VERB-Inf--NOUN-Nom (504)</li>
-      <li>VERB-Inf--NOUN-Par (1461)</li>
+      <li>VERB-Inf--NOUN-Par (1468)</li>
       <li>VERB-Inf--PRON-Acc (12)</li>
       <li>VERB-Inf--PRON-Gen (63)</li>
-      <li>VERB-Inf--PRON-Nom (65)</li>
+      <li>VERB-Inf--PRON-Nom (66)</li>
       <li>VERB-Inf--PRON-Par (285)</li>
       <li>VERB-Part--NOUN (1)</li>
       <li>VERB-Part--NOUN-Ela (1)</li>
-      <li>VERB-Part--NOUN-Gen (336)</li>
+      <li>VERB-Part--NOUN-Gen (339)</li>
       <li>VERB-Part--NOUN-Nom (498)</li>
-      <li>VERB-Part--NOUN-Par (1112)</li>
+      <li>VERB-Part--NOUN-Par (1119)</li>
       <li>VERB-Part--PRON-Acc (17)</li>
-      <li>VERB-Part--PRON-Gen (45)</li>
-      <li>VERB-Part--PRON-Nom (79)</li>
-      <li>VERB-Part--PRON-Par (164)</li>
+      <li>VERB-Part--PRON-Gen (46)</li>
+      <li>VERB-Part--PRON-Nom (82)</li>
+      <li>VERB-Part--PRON-Par (166)</li>
     </ul>
   </li>
 </ul>
@@ -1096,7 +1291,7 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Verbs with Reflexive Core Objects</h3>
 
 <ul>
-  <li>This corpus contains 69 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: kokea itsensä, tuntea itseni, tuntea itsensä, esitellä itsensä, katsoa itseäni, kuivata itseni, , itseni, ajaa itsensä, altistaa itsensä, ampua itsensä, auttaa itseämme, elättää itsensä, etsiminen itseni, etsiä itseään, hillitä itseäni, hoitaa itseään, huiputtaa itsensä, huolitella itsemme, hyväksyä itsesi, hävetä itseäni, ilmaista itseään, juoda itsensä, kadottaa itseni, kammeta itsensä, kaupata itseään, kehittää itseään, kirjoituttaa itsensä, kirota itseään, kohdella itseään, kuivata itseään, kuivatella itsensä, kunnioittaa itseään, kuunnella itseäni, laukata itsensä, lohduttaa itseäni, lyödä itsensä, löytäminen itseni, löytää itseni, myyminen itsensäkin, määritellä itsenikin, nipistää itseään, nähdä itseni, odottaa itseään, orjuuttaa itseämme, osoittaa itseään, paikallistaa itsensä, piristää itseään, pitää itseäni, pitää itseään, psyykata itseni</li>
+  <li>This corpus contains 69 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: kokea itsensä, tuntea itseni, tuntea itsensä, esitellä itsensä, katsoa itseäni, kuivata itseni, ajaa itsensä, altistaa itsensä, ampua itsensä, auttaa itseämme, elättää itsensä, etsiminen itseni, etsiä itseään, hillitä itseäni, hoitaa itseään, huiputtaa itsensä, huolitella itsemme, hyväksyä itsesi, hävetä itseäni, ilmaista itseään, juoda itsensä, kadottaa itseni, kammeta itsensä, kaupata itseään, kehittää itseään, kirjoituttaa itsensä, kirota itseään, kohdella itseään, kuivata itseään, kuivatella itsensä, kunnioittaa itseään, kuunnella itseäni, laukata itsensä, lohduttaa itseäni, lyödä itsensä, löytäminen itseni, löytää itseni, myyminen itsensäkin, määritellä itsenikin, nipistää itseään, nähdä itseni, odottaa itseään, orjuuttaa itseämme, osoittaa itseään, paikallistaa itsensä, palelluttaa itseni, piristää itseään, pitää itseäni, pitää itseään, psyykata itseni</li>
 </ul>
 
 <h3>Relations Overview</h3>

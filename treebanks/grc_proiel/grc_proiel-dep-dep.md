@@ -72,12 +72,12 @@ The following 4 pairs of parts of speech are connected with `dep`: <tt><a href="
 # visual-style 12	bgColor:blue
 # visual-style 12	fgColor:white
 # visual-style 12 10 dep	color:blue
-1	τούτους	οὗτος	ADJ	Pd	Case=Acc|Gender=Masc|Number=Plur	3	obj:dir	_	ref=6.45.2
+1	τούτους	οὗτος	ADJ	Pd	Case=Acc|Gender=Masc|Number=Plur	3	obj	_	ref=6.45.2
 2	μέντοι	μέντοι	ADV	Df	_	4	discourse	_	ref=6.45.2
 3	καταστρεψάμενος	καταστρέφω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	4	advcl	_	ref=6.45.2
 4	ἀπῆγε	ἀπάγω	VERB	V-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	ref=6.45.2
 5	τὴν	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	6	det	_	ref=6.45.2
-6	στρατιὴν	στρατιά	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj:dir	_	ref=6.45.2
+6	στρατιὴν	στρατιά	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	ref=6.45.2
 7	ὀπίσω	ὀπίσω	ADV	Df	_	4	advmod	_	ref=6.45.2
 8	ἅτε	ἅτε	ADV	Df	_	4	advmod	_	ref=6.45.2
 9	τῷ	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	10	det	_	ref=6.45.2

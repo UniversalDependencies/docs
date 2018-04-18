@@ -9,21 +9,21 @@ udver: '2'
 This feature is universal.
 It occurs with 2 different values: `Act`, `Pass`.
 
-2773 tokens (18%) have a non-empty value of `Voice`.
+2769 tokens (18%) have a non-empty value of `Voice`.
 1427 types (19%) occur at least once with a non-empty value of `Voice`.
 616 lemmas (12%) occur at least once with a non-empty value of `Voice`.
-The feature is used with 2 part-of-speech tags: <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (2002; 13% instances), <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> (771; 5% instances).
+The feature is used with 2 part-of-speech tags: <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> (1998; 13% instances), <tt><a href="fi_pud-pos-AUX.html">AUX</a></tt> (771; 5% instances).
 
 ### `VERB`
 
-2002 <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `Voice`.
+1998 <tt><a href="fi_pud-pos-VERB.html">VERB</a></tt> tokens (98% of all `VERB` tokens) have a non-empty value of `Voice`.
 
-The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="fi_pud-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (1634; 82%), <tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1551; 77%), <tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (1551; 77%), <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1454; 73%), <tt><a href="fi_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1374; 69%), <tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1182; 59%), <tt><a href="fi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1135; 57%), <tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1012; 51%).
+The most frequent other feature values with which `VERB` and `Voice` co-occurred: <tt><a href="fi_pud-feat-InfForm.html">InfForm</a></tt><tt>=EMPTY</tt> (1630; 82%), <tt><a href="fi_pud-feat-Degree.html">Degree</a></tt><tt>=EMPTY</tt> (1547; 77%), <tt><a href="fi_pud-feat-PartForm.html">PartForm</a></tt><tt>=EMPTY</tt> (1547; 77%), <tt><a href="fi_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt> (1452; 73%), <tt><a href="fi_pud-feat-Case.html">Case</a></tt><tt>=EMPTY</tt> (1370; 69%), <tt><a href="fi_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Fin</tt> (1178; 59%), <tt><a href="fi_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt> (1131; 57%), <tt><a href="fi_pud-feat-Person.html">Person</a></tt><tt>=EMPTY</tt> (1010; 51%).
 
 `VERB` tokens may have the following values of `Voice`:
 
-* `Act` (1669; 83% of non-empty `Voice`): <em>sanoi, tulee, tuli, sanoo, alkoi, kertoi, auttaa, eikä, johti, sai</em>
-* `Pass` (333; 17% of non-empty `Voice`): <em>rakennettiin, käytettiin, pidetään, julkaistiin, perustettiin, tunnetaan, julistettiin, kerrottiin, käytetty, sanotaan</em>
+* `Act` (1667; 83% of non-empty `Voice`): <em>sanoi, tulee, tuli, sanoo, kertoi, alkoi, auttaa, eikä, johti, sai</em>
+* `Pass` (331; 17% of non-empty `Voice`): <em>rakennettiin, käytettiin, pidetään, julkaistiin, julistettiin, kerrottiin, käytetty, perustettiin, sanotaan, tehty</em>
 * `EMPTY` (33): <em>pysty, odota, ole, tiedä, auta, eroaisi, haittaa, haluaisi, häviä, kaipaa</em>
 
 <table>
