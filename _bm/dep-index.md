@@ -10,4 +10,5 @@ udver: '2'
 
 The following table lists the syntactic relations used in UD v2 for Bambara.
 
-{% include bm-dep-table.html %}
+<!-- the file does not exist
+ include bm-dep-table.html -->

@@ -52,6 +52,8 @@ collections:
     output: true
   bg:
     output: true
+  bm:
+    output: true
   ca:
     output: true
   ckb:
