@@ -5,7 +5,7 @@ shortdef: 'direct object'
 udver: '2'
 ---
 
-The direct object of a verb is the noun phrase that denotes the entity acted upon. Most often the direct object is in the [nominative case](Case) or in [dative](Case) (see also the related features [Animacy]() and [Voice]()).
+The direct object of a verb is the noun phrase that denotes the entity acted upon. Most often the direct object is in the [nominative case](Case) or in [dative](Case) (see also the related features [Animacy](), [Voice]() and [Subcat]()).
 
 Nominative example:
 
