@@ -7,11 +7,11 @@ udver: '2'
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h1>UD_Romanian-Nonstandard/</h1>
+      <h1>UD_Romanian-Nonstandard</h1>
 
     </td>
     <td width="50%" valign="top">
-      <h1>UD_Romanian-RRT/</h1>
+      <h1>UD_Romanian-RRT</h1>
 
     </td>
   </tr>
