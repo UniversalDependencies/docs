@@ -1827,6 +1827,75 @@ udver: '2'
 
     </td>
     <td width="50%" valign="top">
+      <ul>
+        <li><a>Abbr</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>ADJ: am, a.m.</li>
+                <li>ADV: etc., cca, pm, A.c., p.m., v</li>
+                <li>NOUN: art., a., nr., CE, b., mg, lit., alin., ml, CEE</li>
+                <li>PRON: ș.a., dvs., Î.P.S.</li>
+                <li>X: mp, 5a, K., Rev, p.a.</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li><a>AdpType</a>
+          <ul>
+            <li>Prep
+              <ul>
+                <li>ADP: de, pre, în, la, cu, den, ca, pe, întru, cătră</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li><a>AdpType</a>
+          <ul>
+            <li>Prep
+              <ul>
+                <li>ADP: de, în, la, cu, din, pe, pentru, prin, după, într-</li>
+                <li>PUNCT: ;</li>
+                <li>SYM: /, *</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <ul>
+        <li><a>Compound</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>ADP: den, din, după, pentru, de, cătră, pînă, pren, prin, dentr-</li>
+                <li>ADV: nece</li>
+                <li>CCONJ: nece, deci, nici, neci, ce, deacii, însă, dară, dece, și</li>
+                <li>SCONJ: ca, deaca, căce, dacă, căci, pentru, deacă, să, Şi, și</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+
+    </td>
+    <td width="50%" valign="top">
 
     </td>
   </tr>
@@ -1835,54 +1904,191 @@ udver: '2'
 
     </td>
     <td width="50%" valign="top">
+      <ul>
+        <li><a>Foreign</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>ADJ: Dance, Felin, Industrial, admirari, poetica</li>
+                <li>ADP: de</li>
+                <li>DET: al</li>
+                <li>NOUN: of, Flag, goldies, mail, B, Corner, Design, Deum, End, Forum</li>
+                <li>NUM: II</li>
+                <li>PROPN: Act, Albion, Award, Awards, Beauty, Book, Boyer, Breisgau, Bromwich, Carlo</li>
+                <li>VERB-Inf: Face</li>
+                <li>X: A­, Book, LEARNING, Mode, Records, Road, Sybir, alia, au, bout</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
 
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <ul>
+        <li><a>NumForm</a>
+          <ul>
+            <li>Digit
+              <ul>
+                <li>NUM: 1, 14, 2, 3, 4, 9, 15, 12, 25, 28</li>
+              </ul>
+            </li>
+            <li>Roman
+              <ul>
+                <li>NUM: întăiu, dentîiu, 16, întîiu, treile, dentîi, dintîi</li>
+              </ul>
+            </li>
+            <li>Word
+              <ul>
+                <li>NUM: doi, trei, cinci, doao, doisprăzeace, treia, două, întăiu, șapte, patru</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
 
     </td>
     <td width="50%" valign="top">
+      <ul>
+        <li><a>NumForm</a>
+          <ul>
+            <li>Digit
+              <ul>
+                <li>NUM: 1, 2, 3, 4, 5, 6, 7, 8, 2004, 10</li>
+              </ul>
+            </li>
+            <li>Roman
+              <ul>
+                <li>NUM: I, ii, iii, iv, V, XX, XIX, VI, VII, XIII</li>
+              </ul>
+            </li>
+            <li>Word
+              <ul>
+                <li>NUM: două, trei, primul, doi, prima, patru, cinci, doilea, doua, primele</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
 
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <ul>
+        <li><a>PartType</a>
+          <ul>
+            <li>Inf
+              <ul>
+                <li>PART: a, -a</li>
+              </ul>
+            </li>
+            <li>Sub
+              <ul>
+                <li>PART: să, s-, ca, să-, xă</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
 
     </td>
     <td width="50%" valign="top">
+      <ul>
+        <li><a>PartType</a>
+          <ul>
+            <li>Inf
+              <ul>
+                <li>PART: a, a-, -a</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
 
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <ul>
+        <li><a>Position</a>
+          <ul>
+            <li>Postnom
+              <ul>
+                <li>DET: acesta, acela, aceasta, aceștiia, acealea, aceaia, aceluia, cela, acestuia, aceastea</li>
+                <li>PRON: ceia, celora</li>
+              </ul>
+            </li>
+            <li>Prenom
+              <ul>
+                <li>DET: acel, acest, această, aceasta, acea, aceaia, ceaia, aceastea, cest, acei</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
 
     </td>
     <td width="50%" valign="top">
+      <ul>
+        <li><a>Position</a>
+          <ul>
+            <li>Postnom
+              <ul>
+                <li>DET: asta, aceea, acesta, ăsta, aceasta, acela, aia, aceia, acestea, astea</li>
+              </ul>
+            </li>
+            <li>Prenom
+              <ul>
+                <li>DET: acest, orice, această, aceste, alte, fiecare, același, acestor, unele, altă</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
 
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <ul>
+        <li><a>Strength</a>
+          <ul>
+            <li>Strong
+              <ul>
+                <li>PRON: el, lor, lui, mine, voao, ei, voi, tine, ție, ia</li>
+              </ul>
+            </li>
+            <li>Weak
+              <ul>
+                <li>CCONJ: și</li>
+                <li>PRON: să, -l, -i, mă, te, vă, o, se, s-, le</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
 
     </td>
     <td width="50%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-    </td>
-    <td width="50%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-    </td>
-    <td width="50%" valign="top">
+      <ul>
+        <li><a>Strength</a>
+          <ul>
+            <li>Strong
+              <ul>
+                <li>PRON: el, ea, dumneavoastră, ei, ele, eu, noi, mine, lui, sine</li>
+              </ul>
+            </li>
+            <li>Weak
+              <ul>
+                <li>PRON: se, s-, le, o, își, -și, -l, și-, îi, îl</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
 
     </td>
   </tr>
