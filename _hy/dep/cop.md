@@ -31,6 +31,8 @@ cop(ուշ, էր)
 cop(late, It-was)
 ~~~
 
+If the copula is accompanied by other verbal auxiliaries for tense, aspect, etc., then they are also given a flat structure, and taken as dependents of the lexical predicate:
+
 ~~~ sdparse
 Ժամանակին նա մեծ բանաստեղծ է եղել ։ \n He has been a-great poet long-time-ago . 
 cop(բանաստեղծ, է)
@@ -47,7 +49,7 @@ cop(հարբեցող, է)
 cop(a-drunkard, is)
 ~~~
 
-The nominal predicate may also be expressed using a prepositional phrase.
+The nominal predicate may also be expressed using a prepositional phrase, in which the nominal part is the head of the clause.
 
 ~~~ sdparse
 Նվերը տուփի մեջ է ։ \n The-present is in the-box .
@@ -104,7 +106,7 @@ det:poss(սենյակում, իմ)
 det:poss(room.Loc, in-my)
 ~~~
 
-Note, that there is variation for existential constructions with existential verb _կամ_ “be, exist” (see also [AUX](hy-pos/AUX_)):
+Note, that there is variation for existential constructions with existential verb _կամ_ “be, exist” (see also [AUX]()):
 
 ~~~ sdparse
 Սեղանի վրա գիրք կա ։ \n There-is a-book on the-table .
