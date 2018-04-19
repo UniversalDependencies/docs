@@ -8,45 +8,35 @@ udver: '2'
   <tr>
     <td width="20%" valign="top">
       <h1>UD_Japanese-BCCWJ</h1>
-
     </td>
     <td width="20%" valign="top">
       <h1>UD_Japanese-GSD</h1>
-
     </td>
     <td width="20%" valign="top">
       <h1>UD_Japanese-KTC</h1>
-
     </td>
     <td width="20%" valign="top">
       <h1>UD_Japanese-Modern</h1>
-
     </td>
     <td width="20%" valign="top">
       <h1>UD_Japanese-PUD</h1>
-
     </td>
   </tr>
   <tr>
     <td width="20%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
-
     </td>
     <td width="20%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
-
     </td>
     <td width="20%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
-
     </td>
     <td width="20%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
-
     </td>
     <td width="20%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
-
     </td>
   </tr>
   <tr>
@@ -54,31 +44,26 @@ udver: '2'
       <ul>
       <li>This corpus contains 57256 sentences and 1265590 tokens.</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 8232 sentences and 186071 tokens.</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 7158 sentences and 189943 tokens.</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 822 sentences and 14227 tokens.</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 1000 sentences and 26818 tokens.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -86,31 +71,26 @@ udver: '2'
       <ul>
       <li>This corpus contains 1265590 tokens (100%) that are not followed by a space.</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 185519 tokens (100%) that are not followed by a space.</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>All tokens in this corpus are followed by a space.</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 14227 tokens (100%) that are not followed by a space.</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 25817 tokens (96%) that are not followed by a space.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -118,31 +98,26 @@ udver: '2'
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -150,58 +125,48 @@ udver: '2'
       <ul>
       <li>This corpus does not contain words that contain both letters and punctuation.</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 69 types of words that contain both letters and punctuation. Examples: 、と, 、という, SETI@home, ”と, が、, スター・ウォーズ, ルイ・ヴィトン, (株), )し, A.T, D.C.I, E.T, IT'SFRIDAY, L'Arc, L'OrateurduPeuple, L.E.D, P​a​u​l​K​a​n​t​n​e​r​'​s​W​o​o​d​e​n​s​h​i​p, PaulO'Malley, S&P, h​t​t​p​:​/​/​e​n​.​w​i​k​i​p​e​d​i​a​.​o​r​g​/​w​i​k​i​/​A​c​u​t​e​_​i​n​t​e​r​m​i​t​t​e​n​t​_​p​o​r​p​h​y​r​i​a, ”する, ”に, 、が, 、で, 、といった, 、など, 、の, 、を, 」し, あ、, アル・パチーノ, アンディ・ウォーホル, アンドレ・アガシ, イー・モバイル, ウォール・ストリート・ジャーナル, エル・ドラード, エール・フランス, オードリー・ヘップバーン, カール・ツァイス, クリーブランド・ブラウンズ, ゴールドマン・サックス, サム・シェパード, シラノ・ド・ベルジュラック, ジェームズ・ブキャナン, ジェームズ・ワトソン, ジャネット・ジャクソン, ジョン・レノン, ジョージ・ハリスン, セブン-イレブン, ソニー・コンピュータエンタテインメント</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus does not contain words that contain both letters and punctuation.</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 1 types of words that contain both letters and punctuation. Examples: [JSP]</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 38 types of words that contain both letters and punctuation. Examples: 、と, ドナルド・トランプ, B.C, 、という, 、を, G.D.P, H​e​r​F​a​t​h​e​r​D​i​d​n​'​t​L​i​k​e​M​e​A​n​y​w​a​y, Thought'YaKnew, Z.A, Zettel’sTraum, 、の, 」な, ウォルト・ディズニー, エル・グレコ, オート・ガロンヌ, オードリー・ヘプバーン, カサ・サンタ・マルタ, カステルフランコ・ヴェネト, サン・ゴーダン, シガー・ロス, シー・オブ・ジ・アンティレス, ジョン・ディ・ドメニコ, スティーラーズ・ホイール, ストレンジャー・シングズ, トーキング・デッド, ド・ゴール, ハーバード・ビジネス・スクール, バハ・カリフォルニヤ, ヒラリー・クリントン, フェデリコ・フェリーニ, フランツ・ヨーゼフ, プンタ・デル・エステ, プンタ・ラサ, マラー/サド, メラニア・トランプ, ラッセ・ハルストレム, ル・コント, ルーカス・クラナッハ</li>
       </ul>
-
     </td>
   </tr>
   <tr>
     <td width="20%" valign="top">
       <ul>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -213,7 +178,6 @@ udver: '2'
       <ul>
       <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <h2>Morphology</h2>
@@ -224,7 +188,6 @@ udver: '2'
       <li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a></li>
       <li>This corpus does not use the following tags: INTJ, X</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <h2>Morphology</h2>
@@ -235,7 +198,6 @@ udver: '2'
       <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a></li>
       <li>This corpus does not use the following tags: CCONJ, X</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <h2>Morphology</h2>
@@ -245,7 +207,6 @@ udver: '2'
       <ul>
       <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <h2>Morphology</h2>
@@ -256,7 +217,6 @@ udver: '2'
       <li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a></li>
       <li>This corpus does not use the following tags: INTJ, X</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -264,31 +224,26 @@ udver: '2'
       <ul>
       <li>This corpus contains 1 word types tagged as particles (PART): _</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 73 word types tagged as particles (PART): +, -, ~, 、の, およそ, か, かしらん, かどうか, か否か, さ, ぞ, ぞお, とともに, と共に, な, なぁ, なあ, なー, に, において, における, にとって, にまつわる, に於いて, に於ける, ね, ねえ, の, のよ, ほぼ, よ, よー, わ, をもとに, を元に, を基に, を基にして, ん, ナンバー, ベスト, マイナス, マッハ, 丸, 人口, 全長, 分の, 南緯, 同, 夜, 対, 平成, 年, 延べ, 昭和, 最低, 最多, 最大, 最高, 残り, 毎時, 直径, 第, 築, 紀元前, 約, 総計, 翌, 計, 金, 長さ, 高さ, 齢, ～</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 1 word types tagged as particles (PART): _</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 43 word types tagged as particles (PART): つ, やすく, らく, を, 上, 中, 乎, 交り, 人, 内, 力, 史, 君, 品, 哉, 國, 宗, 官, 家, 島, 師, 張, 所, 易き, 書, 槍, 毎, 氏, 民, 法, 然, 生, 産, 發, 省, 石, 等, 者, 院, 難き, 類, 風, 餘</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 19 word types tagged as particles (PART): 、の, か, かい, かどうか, さ, とともに, と共に, に, において, における, にとって, の, ん, 最大, 最高, 第, 紀元前, 約, 翌</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -296,31 +251,26 @@ udver: '2'
       <ul>
       <li>This corpus contains 1 lemmas tagged as pronouns (PRON): _</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 53 lemmas tagged as pronouns (PRON): あちこち, あちら, あなた, あれ, いずれ, おまえ, おめーら, お前, かれ, ここ, こちら, この方, これ, これら, そこ, そちら, その他, それ, それぞれ, それら, どこ, どちら, どなた, どれ, ぼく, みなさま, みなさん, みんな, わたし, われわれ, 他所, 何か, 何処, 俺, 僕, 僕ら, 君, 奴, 彼, 彼ら, 彼女, 彼女たち, 彼方, 彼等, 我々, 手前, 皆, 皆さま, 皆さん, 皆様, 私, 私たち, 誰</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 22 lemmas tagged as pronouns (PRON): _, 何, 何れ, 何処, 何方, 何時, 余-代名詞, 僕, 其れ, 其処, 彼れ, 彼方此方, 御前, 我, 我々, 此の方, 此れ, 此処, 此方, 私-代名詞, 誰, 貴方</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 31 lemmas tagged as pronouns (PRON): ある, これ, 之, 之れ, 何, 何れ, 何ん, 何處, 余, 余輩, 僕, 僕輩, 其, 吾儕, 吾子, 吾輩, 子, 小子, 己, 彼, 彼れ, 我, 我輩, 是, 是れ, 此, 此れ, 焉, 爰, 茲, 誰</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 26 lemmas tagged as pronouns (PRON): あなた, いずれ, かれら, ここ, これ, これら, そこ, その他, それ, それぞれ, それら, どこ, どちら, どれ, みなさん, よそ, 君たち, 彼, 彼ら, 彼女, 我々, 皆, 私, 私たち, 私達, 誰</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -328,31 +278,26 @@ udver: '2'
       <ul>
       <li>This corpus contains 1 lemmas tagged as determiners (DET): _</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 4 lemmas tagged as determiners (DET): あの, この, その, どの</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 3 lemmas tagged as determiners (DET): _, 其の, 此の</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 2 lemmas tagged as determiners (DET): 其の, 彼の</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 4 lemmas tagged as determiners (DET): あの, この, その, どの</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -360,28 +305,23 @@ udver: '2'
       <ul>
       <li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: _</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: _</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -389,31 +329,26 @@ udver: '2'
       <ul>
       <li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): _</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 101 lemmas tagged as auxiliaries (AUX): *使役*, *可能*, あう, あげる, ある, いく, いける, いただく, いらっしゃる, いる, う, うる, える, おく, おる, かける, かねる, かもしれる, かも知れる, がたい, がちだ, がる, きる, くださる, くれる, げだ, こむ, ございる, させる, ざるをえる, ざるを得る, しまう, すぎる, する, せる, そうだ, た, たい, たら, だ, だす, だめだ, ちゃう, っぱなし, っぽい, つづける, づらい, できる, でした, ですね, ない, なければ, なさる, なら, なる, にくい, ね, はじめる, ふうだ, べし, ほしい, まい, まいる, ます, みせる, みたいだ, みる, もらう, もらえる, やすい, やる, ゆく, よい, ようだ, らしい, られる, れる, 下さる, 出す, 出来る, 切る, 化, 参る, 合う, 回る, 始める, 尽くす, 得る, 易い, 来る, 欲しい, 済み, 直す, 終わる, 続ける, 良い, 行く, 込む, 過ぎる, 難い, 頂く</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 73 lemmas tagged as auxiliaries (AUX): _, うう, うー, がらる, けり, ごとし, させる, ず, せる, そう-伝聞, そう-様態, た, たい, たり-断定, だ, てる, です, とく, ない, なり-断定, べし, ます, む, や, らしい, られる, り, れる, ウ, 上がる, 上げる, 下さる, 仕舞う, 兼ねる, 出す, 出来る, 切る, 去る, 参る, 取る, 合う, 呉れる, 始める, 尽くす, 居る, 得る, 御座る, 成る, 捲る, 掛ける, 有る, 来る, 果てる, 様, 欲しい, 為さる, 為る, 無い, 直す, 続ける, 置く, 致す, 良い, 行く, 見せる, 見る, 貰う, 込む, 遅れる, 過ぎ-時間, 過ぎる, 遣る, 頂く</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 23 lemmas tagged as auxiliaries (AUX): き, しむ, ず, たり, なし, なり, ぬ, べし, む, らる, り, る, 不, 勿し, 可し, 善し, 如し, 樣, 無し, 然らず, 若し, 莫し, 非ず</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus contains 47 lemmas tagged as auxiliaries (AUX): *使役*, *可能*, ある, いく, いる, う, うる, おる, かける, かもしれる, くれる, させる, しまう, しめる, すぎる, する, せる, そうだ, た, たい, たら, たろ, だ, できる, でした, ない, なければ, なさる, なら, なる, べし, ます, やすい, ゆく, よい, ようだ, らしい, られる, れる, 出す, 化, 始める, 来る, 終える, 続ける, 良い, 行く</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -421,30 +356,25 @@ udver: '2'
       <ul>
       <li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: _</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>Out of the above, 47 lemmas occurred sometimes as AUX and sometimes as VERB: あう, あげる, ある, いく, いける, いただく, いらっしゃる, いる, おく, おる, かける, きる, くださる, くれる, しまう, すぎる, する, せる, だす, つづける, できる, なさる, なる, はじめる, ます, みる, もらう, やる, ゆく, 下さる, 出す, 出来る, 切る, 化, 参る, 合う, 回る, 始める, 尽くす, 得る, 来る, 直す, 終わる, 続ける, 行く, 過ぎる, 頂く</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>Out of the above, 34 lemmas occurred sometimes as AUX and sometimes as VERB: _, なり-断定, や, 上がる, 上げる, 兼ねる, 出す, 出来る, 切る, 去る, 取る, 合う, 呉れる, 始める, 尽くす, 居る, 得る, 成る, 掛ける, 有る, 来る, 為る, 続ける, 置く, 良い, 行く, 見せる, 見る, 貰う, 込む, 遅れる, 過ぎる, 遣る, 頂く</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>Out of the above, 17 lemmas occurred sometimes as AUX and sometimes as VERB: ある, いく, いる, かける, する, せる, できる, なさる, なる, ます, 出す, 化, 始める, 来る, 終える, 続ける, 行く</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -452,31 +382,26 @@ udver: '2'
       <ul>
       <li>This corpus does not use the VerbForm feature.</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus does not use the VerbForm feature.</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus does not use the VerbForm feature.</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus does not use the VerbForm feature.</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -503,7 +428,6 @@ udver: '2'
         </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -532,29 +456,23 @@ udver: '2'
         </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
     <td width="20%" valign="top">
       <h3>Nominal Features</h3>
-
     </td>
     <td width="20%" valign="top">
       <h3>Nominal Features</h3>
-
     </td>
     <td width="20%" valign="top">
       <h3>Nominal Features</h3>
-
     </td>
     <td width="20%" valign="top">
       <h3>Nominal Features</h3>
-
     </td>
     <td width="20%" valign="top">
       <h3>Nominal Features</h3>
-
     </td>
   </tr>
   <tr>
@@ -608,7 +526,6 @@ udver: '2'
       <ul>
         <li><a>Number</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -633,7 +550,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -653,7 +569,6 @@ udver: '2'
       <ul>
         <li><a>Case</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -677,7 +592,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -704,7 +618,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -730,7 +643,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -756,7 +668,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -780,7 +691,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -820,23 +730,18 @@ udver: '2'
   <tr>
     <td width="20%" valign="top">
       <h3>Degree and Polarity</h3>
-
     </td>
     <td width="20%" valign="top">
       <h3>Degree and Polarity</h3>
-
     </td>
     <td width="20%" valign="top">
       <h3>Degree and Polarity</h3>
-
     </td>
     <td width="20%" valign="top">
       <h3>Degree and Polarity</h3>
-
     </td>
     <td width="20%" valign="top">
       <h3>Degree and Polarity</h3>
-
     </td>
   </tr>
   <tr>
@@ -861,7 +766,6 @@ udver: '2'
       <ul>
         <li><a>Polarity</a></li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
 
@@ -873,13 +777,11 @@ udver: '2'
       <ul>
         <li><a>Polarity</a></li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -893,7 +795,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
 
@@ -910,7 +811,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
@@ -923,7 +823,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -946,23 +845,18 @@ udver: '2'
   <tr>
     <td width="20%" valign="top">
       <h3>Verbal Features</h3>
-
     </td>
     <td width="20%" valign="top">
       <h3>Verbal Features</h3>
-
     </td>
     <td width="20%" valign="top">
       <h3>Verbal Features</h3>
-
     </td>
     <td width="20%" valign="top">
       <h3>Verbal Features</h3>
-
     </td>
     <td width="20%" valign="top">
       <h3>Verbal Features</h3>
-
     </td>
   </tr>
   <tr>
@@ -1016,7 +910,6 @@ udver: '2'
       <ul>
         <li><a>Tense</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1041,7 +934,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1061,7 +953,6 @@ udver: '2'
       <ul>
         <li><a>Voice</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1087,7 +978,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1113,7 +1003,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1136,23 +1025,18 @@ udver: '2'
   <tr>
     <td width="20%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
-
     </td>
     <td width="20%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
-
     </td>
     <td width="20%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
-
     </td>
     <td width="20%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
-
     </td>
     <td width="20%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
-
     </td>
   </tr>
   <tr>
@@ -1180,7 +1064,6 @@ udver: '2'
       <ul>
         <li><a>NumType</a></li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
 
@@ -1204,7 +1087,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
 
@@ -1267,7 +1149,6 @@ udver: '2'
       <ul>
         <li><a>Person</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1292,7 +1173,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1316,7 +1196,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1341,7 +1220,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1398,23 +1276,18 @@ udver: '2'
   <tr>
     <td width="20%" valign="top">
       <h3>Other Features</h3>
-
     </td>
     <td width="20%" valign="top">
       <h3>Other Features</h3>
-
     </td>
     <td width="20%" valign="top">
       <h3>Other Features</h3>
-
     </td>
     <td width="20%" valign="top">
       <h3>Other Features</h3>
-
     </td>
     <td width="20%" valign="top">
       <h3>Other Features</h3>
-
     </td>
   </tr>
   <tr>
@@ -1430,7 +1303,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
 
@@ -1493,7 +1365,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1505,7 +1376,6 @@ udver: '2'
       <ul>
       <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <h2>Syntax</h2>
@@ -1515,7 +1385,6 @@ udver: '2'
       <ul>
       <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: だ, ですね.</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <h2>Syntax</h2>
@@ -1525,7 +1394,6 @@ udver: '2'
       <ul>
       <li>This corpus uses 10 lemmas as copulas (<a>cop</a>). Examples: だ, _, 無い, です, とく, たり-断定, なり-断定, らしい, 成る, 有る.</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <h2>Syntax</h2>
@@ -1535,7 +1403,6 @@ udver: '2'
       <ul>
       <li>This corpus does not contain copulas.</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <h2>Syntax</h2>
@@ -1545,7 +1412,6 @@ udver: '2'
       <ul>
       <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: だ.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1553,31 +1419,26 @@ udver: '2'
       <ul>
       <li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus uses 100 lemmas as auxiliaries (<a>aux</a>). Examples: た, する, いる, だ, れる, ます, ない, こと, ようだ, られる, なる, おる, *可能*, う, せる, 来る, できる, たい, しまう, くれる, いく, そうだ, さ, たら, もらう, みる, べし, なら, やすい, くださる, いただく, 続ける, らしい, でした, 始める, 行く, かもしれる, みたいだ, 出す, 出来る, 合う, すぎる, 込む, 頂く, ある, ちゃう, おく, なければ, させる, もらえる.</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus uses 68 lemmas as auxiliaries (<a>aux</a>). Examples: _, 為る, 居る, だ, 有る, 来る, 様, うう, うー, べし, 出来る, た, 成る, せる, 行く, ず, 欲しい, そう-様態, ます, 仕舞う, 貰う, 良い, れる, 始める, られる, 続ける, 置く, 見る, 過ぎる, 呉れる, 切る, 兼ねる, たい, ウ, です, 出す, させる, 合う, 得る, 下さる, 直す, 遣る, とく, 頂く, てる, なり-断定, 去る, そう-伝聞, む, り.</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus uses 44 lemmas as auxiliaries (<a>aux</a>). Examples: なり, ず, べし, む, たり, 如し, 於く, しむ, り, き, 可し, る, 由る, 非ず, 不, 哉, らる, を, 依る, 因る, 據る, す, やすし, 樣, なし, ぬ, よる, 乎, 云ふ, 仕る, 以來, 仰ぐ, 對す, 廢す, 得, 憑る, 放つ, 方る, 易し, 望む, 然, 然らず, 若し, 行ふ.</li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
       <li>This corpus uses 47 lemmas as auxiliaries (<a>aux</a>). Examples: た, する, だ, いる, れる, こと, ない, ます, ようだ, う, られる, せる, なる, おる, 来る, できる, たい, べし, 始める, かもしれる, さ, *可能*, しまう, なければ, 続ける, すぎる, たら, 化, いく, かける, くれる, させる, そうだ, でした, 出す, *使役*, うる, しめる, たろ, なさる, なら, やすい, ゆく, らしい, 終える, 良い, 行く.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1603,7 +1464,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -1654,7 +1514,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -1672,7 +1531,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -1686,7 +1544,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -1724,7 +1581,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1745,7 +1601,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
@@ -1772,7 +1627,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
@@ -1781,7 +1635,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
@@ -1798,7 +1651,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
@@ -1820,7 +1672,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1839,7 +1690,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
@@ -1875,7 +1725,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
@@ -1890,7 +1739,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
@@ -1921,7 +1769,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <ul>
@@ -1950,7 +1797,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -2012,7 +1858,6 @@ udver: '2'
       <li>This corpus does not use relation subtypes.</li>
       <li>The following 14 relation types are not used in this corpus at all: <a>csubj</a>, <a>ccomp</a>, <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>conj</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a></li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <h3>Relations Overview</h3>
@@ -2021,7 +1866,6 @@ udver: '2'
       <li>This corpus does not use relation subtypes.</li>
       <li>The following 14 relation types are not used in this corpus at all: <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>appos</a>, <a>clf</a>, <a>conj</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <h3>Relations Overview</h3>
@@ -2030,7 +1874,6 @@ udver: '2'
       <li>This corpus does not use relation subtypes.</li>
       <li>The following 14 relation types are not used in this corpus at all: <a>obj</a>, <a>xcomp</a>, <a>obl</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <h3>Relations Overview</h3>
@@ -2039,7 +1882,6 @@ udver: '2'
       <li>This corpus does not use relation subtypes.</li>
       <li>The following 16 relation types are not used in this corpus at all: <a>csubj</a>, <a>ccomp</a>, <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>cop</a>, <a>clf</a>, <a>conj</a>, <a>fixed</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
-
     </td>
     <td width="20%" valign="top">
       <h3>Relations Overview</h3>
@@ -2048,7 +1890,6 @@ udver: '2'
       <li>This corpus does not use relation subtypes.</li>
       <li>The following 14 relation types are not used in this corpus at all: <a>xcomp</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>appos</a>, <a>clf</a>, <a>conj</a>, <a>flat</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
-
     </td>
   </tr>
 </table>

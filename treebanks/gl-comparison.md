@@ -8,21 +8,17 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <h1>UD_Galician-CTG</h1>
-
     </td>
     <td width="50%" valign="top">
       <h1>UD_Galician-TreeGal</h1>
-
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
-
     </td>
     <td width="50%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
-
     </td>
   </tr>
   <tr>
@@ -30,13 +26,11 @@ udver: '2'
       <ul>
       <li>This corpus contains 3993 sentences, 126011 tokens and 138837 syntactic words.</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus contains 1000 sentences, 23479 tokens and 25548 syntactic words.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -44,13 +38,11 @@ udver: '2'
       <ul>
       <li>This corpus contains 13812 tokens (11%) that are not followed by a space.</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus contains 2682 tokens (11%) that are not followed by a space.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -58,13 +50,11 @@ udver: '2'
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus contains 1 types of words with spaces. Examples: 687 614 874</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -72,13 +62,11 @@ udver: '2'
       <ul>
       <li>This corpus contains 242 types of words that contain both letters and punctuation. Examples: etc., AA., CC., C., S.A., a., art., pp., d/105, L., 1.ª, 2.a, 2.º, 5.º, 80/68/CEE, 92/43/CEE, B., C.H., Castela-A, E., EE.UU., I., J., Timbre-Real, c​o​n​t​e​n​c​i​o​s​o​-​a​d​m​i​n​i​s​t​r​a​t​i​v​o, gr., m/105h, marítimo-terrestre, ptas., v​a​r​i​a​n​z​a​s​-​c​o​v​a​r​i​a​n​z​a​s, -n/2, 08.05.432A.740.0, 1%dos, 1.1.-España, 1.Programa, 1.a, 101/97/CE, 12.1.e, 123.A, 149.1.21.ª, 1999/519/EC, 2.o, 2000/76/CE, 2005,mais, 21.Un, 3.º, 35.3.n, 4.º, 620.1.º, 76/464/CEE</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus contains 32 types of words that contain both letters and punctuation. Examples: PSdeG-PSOE, etc., Costa-Gavras, (in)cultura, BNG-PSOE, Barros', CIG-ensino, Campos', Cunqueiro:, D., Dulcinea,, F., Galego-portuguesa, Oops..., P., PSOE-BNG, Qué!, R., S., Silencio,, again!, best-sellers, centro-esquerda, cow-boy, d'Estudis, económico-financeira, g​a​l​e​g​o​-​p​o​r​t​u​g​u​é​s​-​b​r​a​s​i​l​e​i​r​o, m​a​n​u​e​l​m​a​r​i​a​@​a​s​-​p​g​.​c​o​m, sex-shop, www.bng-galiza.org, www.novoestatuto.com, xurídico-público</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -87,14 +75,12 @@ udver: '2'
       <li>This corpus contains 12750 multi-word tokens. On average, one multi-word token consists of 2.01 syntactic words.</li>
       <li>There are 1211 types of multi-word tokens. Examples: do, da, no, dos, na, das, ao, á, nos, ó, polo, nas, co, pola, dun, coa, dunha, neste, aos, ós, nun, deste, desta, nunha, polos, cos, cunha, nesta, coas, cun, termos, polas, tódolos, destes, destas, nestes, deles, pódese, noutros, tódalas, delas, doutros, doutras, trátase, del, nese, débese, modifícase, nalgúns, desa.</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus contains 2059 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 301 types of multi-word tokens. Examples: do, da, no, na, dos, ao, á, das, polo, nas, coa, nos, co, dun, pola, ás, aos, dunha, nunha, cos, coas, nun, polos, cun, deste, neste, nesta, polas, desta, darlle, delas, dese, cunha, doutras, nesa, trátase, dela, deles, destes, doutros, entenderse, nese, 'García, Barros', Constrúese, Gustaríame, corresponderalle, coñecelo, cúmprense, daqueles.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -107,7 +93,6 @@ udver: '2'
       <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a></li>
       <li>This corpus does not use the following tags: X</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <h2>Morphology</h2>
@@ -118,7 +103,6 @@ udver: '2'
       <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
       <li>This corpus does not use the following tags: PART</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -126,12 +110,10 @@ udver: '2'
       <ul>
       <li>This corpus contains 5 word types tagged as particles (PART): Ln, föhn, non, on, senon</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -139,13 +121,11 @@ udver: '2'
       <ul>
       <li>This corpus contains 35 lemmas tagged as pronouns (PRON): algo, alguén, aquel, aquilo, cal, cando, canto, che, como, consigo, cuxo, el, este, eu, iso, isto, lle, me, min, nada, ninguén, nos, nós, o, onde, que, quen, quén, se, si, te, ti, un, vos, vostede</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus contains 40 lemmas tagged as pronouns (PRON): algo, alguén, algún, ambos, aquel, cal, canto, che, demais, el, ese, este, eu, lle, me, mesmo, min, moito, nada, ninguén, ningún, nos, noso, nós, o, outro, pouco, propio, que, quen, se, seu, si, tal, tanto, te, ti, todo, un, vostede</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -153,13 +133,11 @@ udver: '2'
       <ul>
       <li>This corpus contains 29 lemmas tagged as determiners (DET): algún, ambos, aquel, cada, calquera, canto, certo, demais, entrambos, ese, este, mesmo, meu, moito, ningún, noso, o, outro, pouco, propio, que, senllos, seu, tal, tanto, teu, todo, un, varios</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus contains 34 lemmas tagged as determiners (DET): algún, ambos, aquel, cada, calquer, calquera, canto, certo, cuxo, demais, demasiado, determinado, el, ese, este, la, los, mesmo, meu, moito, ningún, noso, o, outras, outro, pouco, propio, que, seu, tal, tanto, todo, un, varios</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -167,13 +145,11 @@ udver: '2'
       <ul>
       <li>Out of the above, 6 lemmas occurred sometimes as PRON and sometimes as DET: aquel, canto, este, o, que, un</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>Out of the above, 22 lemmas occurred sometimes as PRON and sometimes as DET: algún, ambos, aquel, canto, demais, el, ese, este, mesmo, moito, ningún, noso, o, outro, pouco, propio, que, seu, tal, tanto, todo, un</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -181,13 +157,11 @@ udver: '2'
       <ul>
       <li>This corpus contains 2 lemmas tagged as auxiliaries (AUX): estar, ser</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus contains 25 lemmas tagged as auxiliaries (AUX): acabar, acertar, adoitar, considerar, deber, deixar, eis, estar, haber, ir, levar, parecer, pasar, permanecer, poder, quedar, querer, resultar, seguir, semellar, ser, ter, tratar, ver, vir</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -195,13 +169,11 @@ udver: '2'
       <ul>
       <li>Out of the above, 2 lemmas occurred sometimes as AUX and sometimes as VERB: estar, ser</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>Out of the above, 22 lemmas occurred sometimes as AUX and sometimes as VERB: acabar, considerar, deber, deixar, estar, haber, ir, levar, parecer, pasar, permanecer, poder, quedar, querer, resultar, seguir, semellar, ser, ter, tratar, ver, vir</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -209,13 +181,11 @@ udver: '2'
       <ul>
       <li>This corpus does not use the VerbForm feature.</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -231,7 +201,6 @@ udver: '2'
         </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -247,7 +216,6 @@ udver: '2'
         </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -263,7 +231,6 @@ udver: '2'
         </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -279,17 +246,14 @@ udver: '2'
         </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>Nominal Features</h3>
-
     </td>
     <td width="50%" valign="top">
       <h3>Nominal Features</h3>
-
     </td>
   </tr>
   <tr>
@@ -300,7 +264,6 @@ udver: '2'
       <ul>
         <li><a>Gender</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -318,7 +281,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -339,7 +301,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -361,7 +322,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -376,7 +336,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -395,7 +354,6 @@ udver: '2'
       <ul>
         <li><a>Number</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -421,7 +379,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -445,7 +402,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -456,7 +412,6 @@ udver: '2'
       <ul>
         <li><a>Case</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -471,7 +426,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -486,7 +440,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -501,7 +454,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -520,7 +472,6 @@ udver: '2'
       <ul>
         <li><a>Definite</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -536,7 +487,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -551,17 +501,14 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>Degree and Polarity</h3>
-
     </td>
     <td width="50%" valign="top">
       <h3>Degree and Polarity</h3>
-
     </td>
   </tr>
   <tr>
@@ -572,7 +519,6 @@ udver: '2'
       <ul>
         <li><a>Degree</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -587,7 +533,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -602,7 +547,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -610,13 +554,11 @@ udver: '2'
       <ul>
         <li><a>Polarity</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -628,7 +570,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -640,7 +581,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -654,11 +594,9 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <h3>Verbal Features</h3>
-
     </td>
     <td width="50%" valign="top">
       <h3>Verbal Features</h3>
-
     </td>
   </tr>
   <tr>
@@ -677,7 +615,6 @@ udver: '2'
       <ul>
         <li><a>Mood</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -694,7 +631,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -709,7 +645,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -725,7 +660,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -741,7 +675,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -752,7 +685,6 @@ udver: '2'
       <ul>
         <li><a>Tense</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -768,7 +700,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -784,7 +715,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -800,7 +730,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -816,7 +745,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -832,7 +760,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -854,11 +781,9 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
-
     </td>
     <td width="50%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
-
     </td>
   </tr>
   <tr>
@@ -869,7 +794,6 @@ udver: '2'
       <ul>
         <li><a>PronType</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -885,7 +809,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -901,7 +824,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -917,7 +839,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -934,7 +855,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -950,7 +870,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -967,7 +886,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -978,7 +896,6 @@ udver: '2'
       <ul>
         <li><a>NumType</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -993,7 +910,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1008,7 +924,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1019,7 +934,6 @@ udver: '2'
       <ul>
         <li><a>Poss</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1035,7 +949,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1054,7 +967,6 @@ udver: '2'
       <ul>
         <li><a>Person</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1075,7 +987,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1090,7 +1001,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1107,7 +1017,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1127,7 +1036,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1154,7 +1062,6 @@ udver: '2'
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1170,7 +1077,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1186,17 +1092,14 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>Other Features</h3>
-
     </td>
     <td width="50%" valign="top">
       <h3>Other Features</h3>
-
     </td>
   </tr>
   <tr>
@@ -1215,7 +1118,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1234,7 +1136,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1260,7 +1161,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -1275,7 +1175,6 @@ udver: '2'
       <ul>
       <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: ser, estar.</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <h2>Syntax</h2>
@@ -1285,7 +1184,6 @@ udver: '2'
       <ul>
       <li>This corpus uses 9 lemmas as copulas (<a>cop</a>). Examples: ser, estar, resultar, parecer, considerar, permanecer, deixar, eis, ter.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1293,14 +1191,12 @@ udver: '2'
       <ul>
       <li>This corpus uses 89 lemmas as auxiliaries (<a>aux</a>). Examples: poder, deber, ser, haber, estar, ter, ir, seguir, chegar, continuar, deixar, tender, vir, como, empezar, acabar, axudar, pasar, facer, tratar, comezar, adoitar, dar, proceder, a, caber, comenzar, contribuír, corresponder, custar, falar, interesar, necesitar, obrigar, outro, repartir, ver, volver, 16, abster, acceder, aceptar, acostumbrarse, analizar, apabulladas, aprender, aquel, bloquear, buscar, calquera.</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus uses 18 lemmas as auxiliaries (<a>aux</a>). Examples: poder, ir, ter, estar, deber, haber, vir, seguir, acabar, adoitar, pasar, ver, acertar, levar, quedar, querer, semellar, tratar.</li>
       <li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: ser, estar, quedar.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1325,7 +1221,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -1357,7 +1252,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1386,7 +1280,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -1418,7 +1311,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1430,7 +1322,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -1450,7 +1341,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1485,7 +1375,6 @@ udver: '2'
       <li>This corpus does not use relation subtypes.</li>
       <li>The following 13 relation types are not used in this corpus at all: <a>csubj</a>, <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>fixed</a>, <a>compound</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <h3>Relations Overview</h3>
@@ -1494,7 +1383,6 @@ udver: '2'
       <li>This corpus uses 4 relation subtypes: <a>aux:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>nsubj:pass</a></li>
       <li>The following 4 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
-
     </td>
   </tr>
 </table>

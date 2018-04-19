@@ -8,21 +8,17 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <h1>UD_German-GSD</h1>
-
     </td>
     <td width="50%" valign="top">
       <h1>UD_German-PUD</h1>
-
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
-
     </td>
     <td width="50%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
-
     </td>
   </tr>
   <tr>
@@ -30,13 +26,11 @@ udver: '2'
       <ul>
       <li>This corpus contains 15590 sentences, 287740 tokens and 292788 syntactic words.</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus contains 1000 sentences, 20997 tokens and 21325 syntactic words.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -44,13 +38,11 @@ udver: '2'
       <ul>
       <li>This corpus contains 34758 tokens (12%) that are not followed by a space.</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus contains 2885 tokens (14%) that are not followed by a space.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -58,13 +50,11 @@ udver: '2'
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -72,13 +62,11 @@ udver: '2'
       <ul>
       <li>This corpus contains 192 types of words that contain both letters and punctuation. Examples: St., Dr., 's, &amp;, B., I., z.B., u.a., d', z., v., W., e.V., jap., l', etc., ca., s., F., H., M., k.k., C., D., G., Inc., J., P., Co., Prof., engl., L., d.h., E., K., O'Brien, S.S., ital., k.u.k., lat., 're, 1B.LS1, A., A.V.G., C.C., Gr., I.G., K.o., L.A., Ltd.</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus contains 38 types of words that contain both letters and punctuation. Examples: Chr., v., I., bzw., B., St., ca., n., z., IV., Mrd., Nr., bleiben., Addenbrooke's, Darius', Don', Dr., Hl., III., M.A., Mio., Männer., Pompeius', Smith', Thutmosis', VI., X., Zettel's, didn', du., führen., hat., ist., tritt., u.a., werden., will., würden.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -87,14 +75,12 @@ udver: '2'
       <li>This corpus contains 5048 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 12 types of multi-word tokens. Examples: im, zum, am, zur, vom, beim, ins, ans, ums, aufs, übers, fürs.</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus contains 328 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 8 types of multi-word tokens. Examples: im, am, zum, zur, vom, beim, ins, ans.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -107,7 +93,6 @@ udver: '2'
       <li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
       <li>This corpus does not use the following tags: INTJ, SYM</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <h2>Morphology</h2>
@@ -118,7 +103,6 @@ udver: '2'
       <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
       <li>This corpus does not use the following tags: INTJ</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -126,13 +110,11 @@ udver: '2'
       <ul>
       <li>This corpus contains 34 word types tagged as particles (PART): 's, ;-), Bitte, Danke, Hallo, Na, Ok, ab, als, an, auf, auflief, aus, dar, einnahm, garnicht, her, hin, ja, keine, keinerlei, mit, ncht, nein, nich, nicht, preis, statt, to, vor, weg, wehe, wie, zu</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus contains 2 word types tagged as particles (PART): wohl, zu</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -140,13 +122,11 @@ udver: '2'
       <ul>
       <li>This corpus contains 97 lemmas tagged as pronouns (PRON): Ihr|ihr, Sie|sie, all, alle, ander, andere, beide, bißchen, dadurch, dafür, dagegen, daher, damit, daran, darauf, daraus, darin, darum, darüber, davon, davor, dazu, dein, der, dergleichen, derjenige, derselbe, diejenige, diejenigen, dies, dieselbe, du, ebendies, eigige, ein, einige, einiges, er, er|es, er|es|sie, es, etlich, etwas, euer, genug, ich, ihr, irgendein, irgendetwas, irgendwas, irgendwelch, irgendwer, jed, jeglich, jemand, jen, kein, keinerlei, keinster, man, manch, mehr, mehrere, mein, meist, nichts, niemand, nix, paar, sein, selb, selbst, sie, solch, soviel, sowas, sämtlich, unser, viel, was, welch, welche, wenig, weniger, wer, wieviele, wir, wobei, wodurch, womit, wonach, woraus, worin, wovon, wozu, zahlreich, zuviel</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus contains 1 lemmas tagged as pronouns (PRON): _</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -154,13 +134,11 @@ udver: '2'
       <ul>
       <li>This corpus contains 35 lemmas tagged as determiners (DET): Alla, Ihr|ihr, The, all, alle, beide, d, dein, der, derselbe, dessa, dies, ein, einige, einiger, etlich, euer, ihr, irgendein, jeder, jen, kein, keiner, manch, mancherlei, mehrere, mein, sein, solch, unser, viel, vieler, wenig, weniger, zahlreich</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus contains 2 lemmas tagged as determiners (DET): _, der</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -168,13 +146,11 @@ udver: '2'
       <ul>
       <li>Out of the above, 26 lemmas occurred sometimes as PRON and sometimes as DET: Ihr|ihr, all, alle, beide, dein, der, derselbe, dies, ein, einige, etlich, euer, ihr, irgendein, jen, kein, manch, mehrere, mein, sein, solch, unser, viel, wenig, weniger, zahlreich</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: _</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -182,13 +158,11 @@ udver: '2'
       <ul>
       <li>This corpus contains 114 lemmas tagged as auxiliaries (AUX): Hab, Saarinen, Ware, abkürzen, amtieren, anerkennen, angefühlt, ansehen, aufbauen, auftreten, be, bedeuten, befinden, befördern, bekommen, benennen, berufen, beschimpfen, bestehen, bestimmen, betiteln, betragen, bezeichnen, bilden, bleiben, brauchen, could, d, daneben, darstellen, degradieren, deuten, dienen, duften, dürfen, einstufen, empfinden, entlarven, entwickeln, entziffern, erachten, erheben, erklären, ernennen, erscheinen, erweisen, erweitern, erwähnen, eröffnen, feiern, feststellen, finden, folgen, fungieren, gehen, gelten, genannt, gestalten, glauben, gründen, haben, halten, handeln, have, heißen, identifizieren, is, kanns, kosten, können, küren, lassen, lauten, liegen, listen, machen, messen, mögen, müssen, nehmen, nennen, nominieren, prägen, scheinen, schlagen, schmecken, sehen, sein, seyn, sollen, stehen, stellen, umbauen, umbenennen, umbilden, umwandeln, verarbeiten, vereidigen, verhaften, verlegen, versterben, vorstellen, wandeln, was, werd, werden, wir, wirken, wissen, wollen, worden, wählen, zu, überzeugen</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): _</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -196,13 +170,11 @@ udver: '2'
       <ul>
       <li>Out of the above, 93 lemmas occurred sometimes as AUX and sometimes as VERB: Hab, amtieren, anerkennen, ansehen, aufbauen, auftreten, bedeuten, befinden, befördern, bekommen, benennen, berufen, beschimpfen, bestehen, bestimmen, betragen, bezeichnen, bilden, bleiben, brauchen, darstellen, degradieren, deuten, dienen, duften, dürfen, einstufen, empfinden, entlarven, entwickeln, erheben, erklären, ernennen, erscheinen, erweisen, erweitern, erwähnen, eröffnen, feiern, feststellen, finden, folgen, fungieren, gehen, gelten, gestalten, glauben, gründen, haben, halten, handeln, heißen, identifizieren, kosten, können, küren, lassen, lauten, liegen, machen, messen, mögen, müssen, nehmen, nennen, nominieren, prägen, scheinen, schlagen, schmecken, sehen, sein, seyn, sollen, stehen, stellen, umbauen, umbenennen, umwandeln, verarbeiten, vereidigen, verhaften, verlegen, versterben, vorstellen, wandeln, was, werden, wirken, wissen, wollen, wählen, überzeugen</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: _</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -210,13 +182,11 @@ udver: '2'
       <ul>
       <li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -240,7 +210,6 @@ udver: '2'
         </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -264,7 +233,6 @@ udver: '2'
         </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -275,7 +243,6 @@ udver: '2'
         </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -294,7 +261,6 @@ udver: '2'
         </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -305,17 +271,14 @@ udver: '2'
         </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>Nominal Features</h3>
-
     </td>
     <td width="50%" valign="top">
       <h3>Nominal Features</h3>
-
     </td>
   </tr>
   <tr>
@@ -323,13 +286,11 @@ udver: '2'
       <ul>
         <li><a>Gender</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -353,7 +314,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -368,7 +328,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -393,7 +352,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -407,7 +365,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -432,7 +389,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -447,7 +403,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -463,13 +418,11 @@ udver: '2'
       <ul>
         <li><a>Number</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -502,7 +455,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -518,7 +470,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -555,7 +506,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -572,7 +522,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -580,13 +529,11 @@ udver: '2'
       <ul>
         <li><a>Case</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -612,7 +559,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -626,7 +572,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -651,7 +596,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -667,7 +611,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -690,7 +633,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -704,7 +646,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -729,7 +670,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -743,7 +683,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -759,13 +698,11 @@ udver: '2'
       <ul>
         <li><a>Definite</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
         <li><a>Definite</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -785,7 +722,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -796,7 +732,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -818,7 +753,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -828,17 +762,14 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>Degree and Polarity</h3>
-
     </td>
     <td width="50%" valign="top">
       <h3>Degree and Polarity</h3>
-
     </td>
   </tr>
   <tr>
@@ -849,7 +780,6 @@ udver: '2'
       <ul>
         <li><a>Degree</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -865,7 +795,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -881,7 +810,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -896,7 +824,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -904,13 +831,11 @@ udver: '2'
       <ul>
         <li><a>Polarity</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -928,7 +853,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -938,7 +862,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -952,11 +875,9 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <h3>Verbal Features</h3>
-
     </td>
     <td width="50%" valign="top">
       <h3>Verbal Features</h3>
-
     </td>
   </tr>
   <tr>
@@ -972,13 +893,11 @@ udver: '2'
       <ul>
         <li><a>Mood</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -993,7 +912,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -1004,7 +922,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1027,7 +944,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -1038,7 +954,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1055,7 +970,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -1066,7 +980,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1074,13 +987,11 @@ udver: '2'
       <ul>
         <li><a>Tense</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1102,7 +1013,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -1115,7 +1025,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1136,7 +1045,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -1149,7 +1057,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1157,7 +1064,6 @@ udver: '2'
       <ul>
         <li><a>Voice</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -1177,7 +1083,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -1194,11 +1099,9 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
-
     </td>
     <td width="50%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
-
     </td>
   </tr>
   <tr>
@@ -1206,13 +1109,11 @@ udver: '2'
       <ul>
         <li><a>PronType</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1235,7 +1136,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -1257,7 +1157,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -1279,7 +1178,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -1303,7 +1201,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -1321,7 +1218,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -1346,7 +1242,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -1356,7 +1251,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1371,7 +1265,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1390,7 +1283,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -1401,13 +1293,11 @@ udver: '2'
       <ul>
         <li><a>NumType</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1424,7 +1314,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -1434,7 +1323,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1449,7 +1337,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1457,7 +1344,6 @@ udver: '2'
       <ul>
         <li><a>Poss</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -1477,7 +1363,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -1488,7 +1373,6 @@ udver: '2'
       <ul>
         <li><a>Reflex</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -1505,7 +1389,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -1516,13 +1399,11 @@ udver: '2'
       <ul>
         <li><a>Person</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1547,7 +1428,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -1559,7 +1439,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1576,7 +1455,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -1588,7 +1466,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1621,7 +1498,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -1638,7 +1514,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1657,7 +1532,6 @@ udver: '2'
       <ul>
         <li><a>Gender[psor]</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1672,7 +1546,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1687,7 +1560,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1702,7 +1574,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1713,7 +1584,6 @@ udver: '2'
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1728,7 +1598,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1743,17 +1612,14 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>Other Features</h3>
-
     </td>
     <td width="50%" valign="top">
       <h3>Other Features</h3>
-
     </td>
   </tr>
   <tr>
@@ -1780,7 +1646,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -1796,7 +1661,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1825,7 +1689,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1837,7 +1700,6 @@ udver: '2'
       <ul>
       <li>This corpus uses 210 lemmas as copulas (<a>cop</a>). Examples: sein, werden, bleiben, gelten, betragen, nennen, bezeichnen, ernennen, heißen, machen, wählen, %, bedeuten, lauten, in, von, I, umbenennen, ansehen, erheben, erscheinen, alle, befördern, genannt, halten, scheinen, werdend, Bedienung, bestehen, darstellen, einstufen, is, preis, stehen, stellen, umbauen, worden, °, 're, Atmosphäre, Mutter, Raum, als, be, befinden, berufen, bestimmen, bilden, bleibend, ein.</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <h2>Syntax</h2>
@@ -1847,7 +1709,6 @@ udver: '2'
       <ul>
       <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1856,14 +1717,12 @@ udver: '2'
       <li>This corpus uses 28 lemmas as auxiliaries (<a>aux</a>). Examples: haben, können, sein, müssen, sollen, werden, wollen, dürfen, mögen, lassen, um, zu, to, Hab, Do, bekommen, scheinen, 'm, Can, Used, bleiben, brauchen, could, daneben, have, kanns, werd, wir.</li>
       <li>This corpus uses 8 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: werden, sein, Saarinen, Signal, Ware, bekommen, müssen, wer.</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
       <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: _.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1916,7 +1775,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -1931,7 +1789,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1985,7 +1842,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -2002,7 +1858,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -2040,7 +1895,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -2054,7 +1908,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -2064,7 +1917,6 @@ udver: '2'
       <ul>
         <li>This corpus contains 12 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: befinden sich, erholen sich, weigern sich, verlieben sich, begeben sich, nähern sich, bedanken mich, aneignen sich, anfreunden uns, bedanken uns, begeben mich, erholen mich</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <h3>Reflexive Verbs</h3>
@@ -2072,7 +1924,6 @@ udver: '2'
       <ul>
         <li>This corpus contains 1 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: _ sich</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -2093,7 +1944,6 @@ udver: '2'
             <li>Out of those, 24 lemmas occurred more than once, but never without a reflexive dependent. Examples: erstrecken, kümmern, befassen, betätigen, freuen, lohnen, belaufen, distanzieren, einigen, auszahlen, erfreuen, niederlassen, zusammenschließen, anschauen, auseinandersetzen, bewähren, breiten, erhoffen, erkämpfen, scheuen, unterziehen, verbünden, verfestigen, verjüngen</li>
           </ul>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -2107,7 +1957,6 @@ udver: '2'
       <li>This corpus uses 7 relation subtypes: <a>aux:pass</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:poss</a>, <a>expl:pv</a>, <a>nmod:poss</a>, <a>nsubj:pass</a></li>
       <li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <h3>Relations Overview</h3>
@@ -2116,7 +1965,6 @@ udver: '2'
       <li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>expl:pv</a>, <a>flat:name</a>, <a>nmod:gmod</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:tmod</a></li>
       <li>The following 5 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
-
     </td>
   </tr>
 </table>

@@ -8,21 +8,17 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <h1>UD_Dutch-Alpino</h1>
-
     </td>
     <td width="50%" valign="top">
       <h1>UD_Dutch-LassySmall</h1>
-
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
-
     </td>
     <td width="50%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
-
     </td>
   </tr>
   <tr>
@@ -30,13 +26,11 @@ udver: '2'
       <ul>
       <li>This corpus contains 13583 sentences and 208633 tokens.</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus contains 7341 sentences and 98107 tokens.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -44,13 +38,11 @@ udver: '2'
       <ul>
       <li>This corpus contains 21728 tokens (10%) that are not followed by a space.</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus contains 13704 tokens (14%) that are not followed by a space.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -58,13 +50,11 @@ udver: '2'
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -72,25 +62,21 @@ udver: '2'
       <ul>
       <li>This corpus contains 1464 types of words that contain both letters and punctuation. Examples: J., mr., dr., zo'n, 't, H., a., 's, C., W., M., drs., B., prof., G., p., pct., d., R., 'n, F., L., o.a., K., Zuid-Afrika, T., z'n, v., S., auto's, jl., n.v., E., ir., Sovjet-Unie, St., West-Duitsland, o.m., Noord-Korea, mln., D'66, a.s., binnen-, m'n, mevr., Mina's, Oost-Berlijn, directeur-generaal, ds., etc.</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus contains 971 types of words that contain both letters and punctuation. Examples: Sint-Niklaas, CD&V, sp.a, N-VA, Vlaams-Brabant, Henin-Hardenne, ca., o.a., 't, Oost-Vlaanderen, kabinet-Van, Parijs-Roubaix, West-Vlaanderen, Waals-Brabant, kabinet-Kok, zo'n, minister-president, Oostenrijk-Este, mr., nr., programma's, v.Chr., B​r​u​s​s​e​l​-​H​a​l​l​e​-​V​i​l​v​o​o​r​d​e, Nieuw-Vlaamse, Pandy's, Saksen-Coburg-Gotha, V​l​a​a​m​s​-​n​a​t​i​o​n​a​l​i​s​t​i​s​c​h​e, links-liberale, kabinet-Balkenende, vice-premier, 's, F.C., Jean-Marie, Vandersteen's, Vlaams-Nationaal, kabinet-Den, rooms-katholieke, thema's, C​h​r​i​s​t​e​n​-​D​e​m​o​c​r​a​t​i​s​c​h, I-City, Jean-Luc, Noord-Brabant, Noord-Frankrijk, Sint-Katelijne-Waver, WTA-toernooi, auto's, b., e., en/of, g.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <ul>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -103,7 +89,6 @@ udver: '2'
       <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
       <li>This corpus does not use the following tags: PART</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <h2>Morphology</h2>
@@ -114,19 +99,16 @@ udver: '2'
       <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
       <li>This corpus does not use the following tags: PART</li>
       </ul>
-
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <ul>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -134,13 +116,11 @@ udver: '2'
       <ul>
       <li>This corpus contains 79 lemmas tagged as pronouns (PRON): al, allebei, alles, beide, da, dat, datgene, degene, deze, die, diegene, dien, dit, een, elk, elkaar, enig, enkele, ge, geen, gij, ginds, haar, haarzelf, hare, hem, hemzelf, hen, het, hetgeen, hetgene, hij, hijzelf, hun, ieder, iedereen, iemand, iets, ik, je, jezelf, jij, jou, jullie, m'n, me, meerdere, men, mezelf, mij, mijn, minder, mindere, minst, niemand, niets, niks, ons, onszelf, sommig, teveel, u, uw, veel, wat, we, weinig, welk, wie, wij, ze, zich, zichzelf, zij, zijn, zijzelf, zo'n, zoiets, zulk</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus contains 57 lemmas tagged as pronouns (PRON): al, alles, beide, dat, degene, deze, die, dit, elk, elkaar, enig, enkel, geen, haar, hem, hemzelf, hen, het, hetgeen, hetwelk, hij, hun, ieder, iedereen, iemand, iets, ik, je, jij, me, meer, mekaar, men, mij, mijn, minder, niemand, niets, ons, sommig, teveel, u, uw, veel, wat, we, weinig, welk, wie, wij, ze, zich, zichzelf, zij, zijn, zijzelf, zo'n</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -148,13 +128,11 @@ udver: '2'
       <ul>
       <li>This corpus contains 35 lemmas tagged as determiners (DET): 's, al, andermans, beide, dat, de, den, der, des, deze, die, dien, dit, een, elk, elkaar, enig, enkel, enkele, geen, het, ieder, meerdere, menig, minder, niemand, sommig, teveel, veel, wat, weinig, welk, wie, zo'n, zulk</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus contains 26 lemmas tagged as determiners (DET): 't, al, beide, dat, de, der, deze, die, dit, een, elk, enig, enkel, geen, het, ieder, meerdere, menig, sommig, veel, wat, weinig, welk, wie, zo'n, zulk</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -162,13 +140,11 @@ udver: '2'
       <ul>
       <li>Out of the above, 27 lemmas occurred sometimes as PRON and sometimes as DET: al, beide, dat, deze, die, dien, dit, een, elk, elkaar, enig, enkele, geen, het, ieder, meerdere, minder, niemand, sommig, teveel, veel, wat, weinig, welk, wie, zo'n, zulk</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>Out of the above, 19 lemmas occurred sometimes as PRON and sometimes as DET: al, beide, dat, deze, die, dit, elk, enig, enkel, geen, het, ieder, sommig, veel, wat, weinig, welk, wie, zo'n</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -176,13 +152,11 @@ udver: '2'
       <ul>
       <li>This corpus contains 14 lemmas tagged as auxiliaries (AUX): blijken, blijven, hebben, heten, hoeven, krijgen, kunnen, lijken, moeten, mogen, schijnen, worden, zijn, zullen</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus contains 12 lemmas tagged as auxiliaries (AUX): blijken, blijven, hebben, heten, hoeven, kunnen, lijken, moeten, mogen, worden, zijn, zullen</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -190,13 +164,11 @@ udver: '2'
       <ul>
       <li>Out of the above, 14 lemmas occurred sometimes as AUX and sometimes as VERB: blijken, blijven, hebben, heten, hoeven, krijgen, kunnen, lijken, moeten, mogen, schijnen, worden, zijn, zullen</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>Out of the above, 8 lemmas occurred sometimes as AUX and sometimes as VERB: blijken, blijven, hebben, kunnen, lijken, moeten, worden, zijn</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -204,13 +176,11 @@ udver: '2'
       <ul>
       <li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>There are 3 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -223,7 +193,6 @@ udver: '2'
         </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -234,7 +203,6 @@ udver: '2'
         </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -247,7 +215,6 @@ udver: '2'
         </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -258,7 +225,6 @@ udver: '2'
         </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -271,7 +237,6 @@ udver: '2'
         </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -282,17 +247,14 @@ udver: '2'
         </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>Nominal Features</h3>
-
     </td>
     <td width="50%" valign="top">
       <h3>Nominal Features</h3>
-
     </td>
   </tr>
   <tr>
@@ -300,13 +262,11 @@ udver: '2'
       <ul>
         <li><a>Gender</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -319,7 +279,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -330,7 +289,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -343,7 +301,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -354,7 +311,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -367,7 +323,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -378,7 +333,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -394,13 +348,11 @@ udver: '2'
       <ul>
         <li><a>Number</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -415,7 +367,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -428,7 +379,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -443,7 +393,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -456,7 +405,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -464,13 +412,11 @@ udver: '2'
       <ul>
         <li><a>Case</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -482,7 +428,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -492,7 +437,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -504,7 +448,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -519,7 +462,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -534,7 +476,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -544,7 +485,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -560,13 +500,11 @@ udver: '2'
       <ul>
         <li><a>Definite</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
         <li><a>Definite</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -578,7 +516,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -588,7 +525,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -600,7 +536,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -610,17 +545,14 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>Degree and Polarity</h3>
-
     </td>
     <td width="50%" valign="top">
       <h3>Degree and Polarity</h3>
-
     </td>
   </tr>
   <tr>
@@ -628,13 +560,11 @@ udver: '2'
       <ul>
         <li><a>Degree</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
         <li><a>Degree</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -646,7 +576,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -656,7 +585,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -668,7 +596,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -678,7 +605,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -690,7 +616,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -700,7 +625,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -722,11 +646,9 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <h3>Verbal Features</h3>
-
     </td>
     <td width="50%" valign="top">
       <h3>Verbal Features</h3>
-
     </td>
   </tr>
   <tr>
@@ -750,13 +672,11 @@ udver: '2'
       <ul>
         <li><a>Tense</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -769,7 +689,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -780,7 +699,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -793,7 +711,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -804,7 +721,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -826,11 +742,9 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
-
     </td>
     <td width="50%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
-
     </td>
   </tr>
   <tr>
@@ -838,13 +752,11 @@ udver: '2'
       <ul>
         <li><a>PronType</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -856,7 +768,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -866,7 +777,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -878,7 +788,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -888,7 +797,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -900,7 +808,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -910,7 +817,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -922,7 +828,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -932,7 +837,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -944,7 +848,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -954,7 +857,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -966,7 +868,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -976,7 +877,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1000,13 +900,11 @@ udver: '2'
       <ul>
         <li><a>Reflex</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
         <li><a>Reflex</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1018,7 +916,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -1028,7 +925,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1036,13 +932,11 @@ udver: '2'
       <ul>
         <li><a>Person</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1054,7 +948,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -1064,7 +957,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1076,7 +968,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -1086,7 +977,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1098,7 +988,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -1108,7 +997,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1138,11 +1026,9 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <h3>Other Features</h3>
-
     </td>
     <td width="50%" valign="top">
       <h3>Other Features</h3>
-
     </td>
   </tr>
   <tr>
@@ -1158,7 +1044,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -1172,7 +1057,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1188,7 +1072,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -1202,7 +1085,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1214,7 +1096,6 @@ udver: '2'
       <ul>
       <li>This corpus uses 7 lemmas as copulas (<a>cop</a>). Examples: zijn, worden, heten, blijven, lijken, blijken, schijnen.</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <h2>Syntax</h2>
@@ -1224,7 +1105,6 @@ udver: '2'
       <ul>
       <li>This corpus uses 6 lemmas as copulas (<a>cop</a>). Examples: zijn, worden, blijven, heten, blijken, lijken.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1233,14 +1113,12 @@ udver: '2'
       <li>This corpus uses 8 lemmas as auxiliaries (<a>aux</a>). Examples: hebben, zullen, zijn, kunnen, moeten, mogen, blijken, hoeven.</li>
       <li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: worden, zijn, krijgen.</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus uses 8 lemmas as auxiliaries (<a>aux</a>). Examples: hebben, zijn, kunnen, zullen, moeten, mogen, blijken, hoeven.</li>
       <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: worden, zijn.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1267,7 +1145,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -1288,7 +1165,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1313,7 +1189,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -1332,7 +1207,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1361,7 +1235,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -1378,7 +1251,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1388,7 +1260,6 @@ udver: '2'
       <ul>
         <li>This corpus contains 178 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: bevinden zich, voelen zich, bewust zich, laten zich, maken zich, tonen zich, melden zich, voordoen zich, ontwikkelen zich, plaatsen zich, vraag zich, bewegen zich, doen zich, houden zich, richten zich, afvragen zich, begeven zich, beraden zich, brengen zich, concentreren zich, opstellen zich, vergissen zich, aanmelden zich, gedragen zich, herstellen zich, spelen zich, stellen zich, uitspreken zich, voelen me, voelen ons, voltrekken zich, wagen zich, wreken zich, begeven ons, beperken zich, buigen zich, mengen zich, permitteren zich, schamen je, schamen zich, spreken zich, toeleggen zich, verzetten zich, vraag me, afscheiden zich, afspelen zich, afvragen ons, beklagen me, bemoeien zich, gaan zich</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <h3>Reflexive Verbs</h3>
@@ -1396,7 +1267,6 @@ udver: '2'
       <ul>
         <li>This corpus contains 79 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: bevinden zich, vestigen zich, richten zich, sluiten zich, voelen zich, herstellen zich, bekeren zich, kenmerken zich, scharen zich, verklaren zich, afspelen zich, engageren zich, geven zich, manifesteren zich, nemen zich, ontpoppen zich, profileren zich, spelen zich, toeleggen zich, tonen zich, vertalen zich, verzetten zich, voltrekken zich, aaneensluiten zich, afscheiden zich, afvragen zich, begeven zich, bemoeien zich, beperken zich, bezoedelen zich, binden zich, blesseren zich, doen zich, emanciperen zich, focussen zich, formeren zich, hebben zich, herinneren zich, herpakken zich, ingraven zich, inspannen zich, leggen zich, maken zich, melden zich, onderscheiden zich, onderwerpen mij, ontplooien zich, ontwikkelen zich, ophouden zich, opvallen zich</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1417,7 +1287,6 @@ udver: '2'
             <li>Out of those, 2 lemmas occurred more than once, but never without a reflexive dependent. Examples: omvormen, wringen</li>
           </ul>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <h3>Verbs with Reflexive Core Objects</h3>
@@ -1428,7 +1297,6 @@ udver: '2'
             <li>Out of those, 2 lemmas occurred more than once, but never without a reflexive dependent. Examples: bezighouden, opmerken</li>
           </ul>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1440,7 +1308,6 @@ udver: '2'
       <li>The following 2 main types are not used alone, they are always subtyped: <a>compound</a>, <a>flat</a></li>
       <li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <h3>Relations Overview</h3>
@@ -1450,7 +1317,6 @@ udver: '2'
       <li>The following 2 main types are not used alone, they are always subtyped: <a>compound</a>, <a>flat</a></li>
       <li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
-
     </td>
   </tr>
 </table>

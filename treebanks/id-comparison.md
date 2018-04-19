@@ -8,21 +8,17 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <h1>UD_Indonesian-GSD</h1>
-
     </td>
     <td width="50%" valign="top">
       <h1>UD_Indonesian-PUD</h1>
-
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
-
     </td>
     <td width="50%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
-
     </td>
   </tr>
   <tr>
@@ -30,13 +26,11 @@ udver: '2'
       <ul>
       <li>This corpus contains 5593 sentences and 121923 tokens.</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus contains 1000 sentences and 25225 tokens.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -44,13 +38,11 @@ udver: '2'
       <ul>
       <li>This corpus contains 16358 tokens (13%) that are not followed by a space.</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>All tokens in this corpus are followed by a space.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -58,13 +50,11 @@ udver: '2'
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -72,25 +62,21 @@ udver: '2'
       <ul>
       <li>This corpus contains 124 types of words that contain both letters and punctuation. Examples: &amp;, km&amp;sup2, orang-orang, benar-benar, &amp;nbsp, laki-laki, p​e​r​t​a​n​y​a​a​n​-​p​e​r​t​a​n​y​a​a​n, Moody's, Rubik's, berlaksa-laksa, diam-diam, hal-hal, hamba-Ku, kata-kata, tanda-tanda, 14&amp;nbsp, 22&amp;nbsp, 36&amp;nbsp, 40&amp;nbsp, 764&amp;nbsp, Anggota-anggota, Aphrodite's, Assisted_GPS, Bird's, Cinta-Dante-Cahaya, Dosen-dosen, GL_ARB_robustness, GL_EXT_robustness, He's, Heaven's, ID&amp;T, It's, Ja's, Jane's, Levy's, Lloyd's, M&amp;D, Nama-Nya, Negara-negara, P&amp;G, PEI-AISAH, Pepper's, Punk's, Rasul-Nya, Robert's, She's, TV's, Tiba-tiba, Valve's, Vol.</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus contains 27 types of words that contain both letters and punctuation. Examples: A.S., Nn., No., St., Tn., B.C., Ms., 'Ya, -agen, A.S, B-29, Didn't, Don't, Hitchhiker's, I., Jr., M.A., Mr., Ny., U.S., Under-Secretary, Z., Zettel’s, al-Jadaan, sampai-sampai, wi-fi, “luar</li>
       </ul>
-
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <ul>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -103,7 +89,6 @@ udver: '2'
       <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
       <li>This corpus does not use the following tags: INTJ</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <h2>Morphology</h2>
@@ -114,7 +99,6 @@ udver: '2'
       <li>This corpus uses 13 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AFFIX</a>, <a>CONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PRT</a>, <a>PUNCT</a>, <a>VERB</a>, <a>X</a></li>
       <li>This corpus does not use the following tags: PROPN, AUX, SCONJ, CCONJ, PART, INTJ, SYM</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -122,12 +106,10 @@ udver: '2'
       <ul>
       <li>This corpus contains 36 word types tagged as particles (PART): Berdasar, Hei, Iye, Jadi, Loh, Tuh, belum, bersorak, bukan, bukankah, bukanlah, bukannya, ga, hai, jangan, kan, keluar, kok, koq, lah, membelinya, non, nya, pun, silakan, tak, tanpa, tercetusnya, terkejutnya, tiada, tidak, tidakkah, tidaklah, tidaknya, ya, yang</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -135,13 +117,11 @@ udver: '2'
       <ul>
       <li>This corpus contains 75 lemmas tagged as pronouns (PRON): a, abang, ada, adanya, agar, aku, anak, anda, apa, bagaimana, bagaimanasebuah, bahwa, banyak, beberapa, begitu, beliau, berapa, berdiri, berkat, beta, bila, bilamana, dekat, demikian, dia, dimana, diri, engkau, gimana, i, ia, ini, isi, it, itu, jadi, jang, kalian, kami, kamu, kapan, kau, kenapa, keseluruhan, kesemuanya, ketika, kita, kita.dan, ku, mahabharata, mana, manakala, media, mengapa, mereka, nya, para, perang, saat, saya, sebelum, sedangkan, segala, segenap, sejumlah, semua, sendiri, seorang, siapa, sini, uskup, vertebrata, yang, yg, your</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus contains 1 lemmas tagged as pronouns (PRON): _</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -149,13 +129,11 @@ udver: '2'
       <ul>
       <li>This corpus contains 110 lemmas tagged as determiners (DET): 2, a, al, an, aneka, apa, bagaimana, bagi, baik, banyak, beberapa, begini, begitu, berapa, berbagai, berberapa, berdua, berikut, berragam, buah, buruh, demikian, dibeberapa, dr, gepenglah, how, in, ini, itu, itua, jadi, ke, kebanyakan, kedua, keempat, kelima, kemudian, kenapa, keseluruhan, ketiga, khususnya, la, lain, lainnya, macam, maka, mana, masing, mayoritas, nya, oh, orang, para, penbantaian, per, pituruh, pula, pun, ratusan, ribuan, salah, sama, sang, satu, satusatunya, sauatu, se, seantero, sebagaian, sebagian, sebua, sebuah, sedikit, sedikitnya, seekor, segala, segenap, sehubungan, sejumlah, sekali, sekelompok, sekeping, sekitar, sekumpulan, seluruh, semacam, semangkuk, sementara, semua, sendiri, seorang, sepasang, sepucuk, serangkaian, sesuatu, setiap, si, stu, suatu, tangguh, tersebut, tertentu, tesebut, tetap, the, tiap, tsb, tujuh, uap, yaitu</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus contains 1 lemmas tagged as determiners (DET): _</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -163,13 +141,11 @@ udver: '2'
       <ul>
       <li>Out of the above, 22 lemmas occurred sometimes as PRON and sometimes as DET: a, apa, bagaimana, banyak, beberapa, begitu, berapa, demikian, ini, itu, jadi, kenapa, keseluruhan, mana, nya, para, segala, segenap, sejumlah, semua, sendiri, seorang</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: _</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -177,13 +153,11 @@ udver: '2'
       <ul>
       <li>This corpus contains 3 lemmas tagged as auxiliaries (AUX): adalah, ialah, rata</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus contains 0 lemmas tagged as auxiliaries (AUX): </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -191,12 +165,10 @@ udver: '2'
       <ul>
       <li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: adalah</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -204,23 +176,19 @@ udver: '2'
       <ul>
       <li>This corpus does not use the VerbForm feature.</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus does not use the VerbForm feature.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>Nominal Features</h3>
-
     </td>
     <td width="50%" valign="top">
       <h3>Nominal Features</h3>
-
     </td>
   </tr>
   <tr>
@@ -228,7 +196,6 @@ udver: '2'
       <ul>
         <li><a>Gender</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -244,7 +211,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -261,7 +227,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -280,7 +245,6 @@ udver: '2'
       <ul>
         <li><a>Number</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -300,7 +264,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -330,7 +293,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -363,11 +325,9 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <h3>Degree and Polarity</h3>
-
     </td>
     <td width="50%" valign="top">
       <h3>Degree and Polarity</h3>
-
     </td>
   </tr>
   <tr>
@@ -375,7 +335,6 @@ udver: '2'
       <ul>
         <li><a>Degree</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -404,7 +363,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -425,7 +383,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -436,7 +393,6 @@ udver: '2'
       <ul>
         <li><a>Polarity</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -455,7 +411,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -472,11 +427,9 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <h3>Verbal Features</h3>
-
     </td>
     <td width="50%" valign="top">
       <h3>Verbal Features</h3>
-
     </td>
   </tr>
   <tr>
@@ -508,7 +461,6 @@ udver: '2'
       <ul>
         <li><a>Voice</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -534,7 +486,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -556,7 +507,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -573,11 +523,9 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
-
     </td>
     <td width="50%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
-
     </td>
   </tr>
   <tr>
@@ -585,7 +533,6 @@ udver: '2'
       <ul>
         <li><a>PronType</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -605,7 +552,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -624,7 +570,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -645,7 +590,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -660,7 +604,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -676,7 +619,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -693,7 +635,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -704,7 +645,6 @@ udver: '2'
       <ul>
         <li><a>NumType</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -722,7 +662,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -749,7 +688,6 @@ udver: '2'
       <ul>
         <li><a>Person</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -766,7 +704,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -782,7 +719,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -797,7 +733,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -808,7 +743,6 @@ udver: '2'
       <ul>
         <li><a>Polite</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -823,7 +757,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -838,7 +771,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -857,7 +789,6 @@ udver: '2'
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -883,7 +814,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -892,11 +822,9 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <h3>Other Features</h3>
-
     </td>
     <td width="50%" valign="top">
       <h3>Other Features</h3>
-
     </td>
   </tr>
   <tr>
@@ -917,7 +845,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -966,7 +893,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
 
@@ -993,7 +919,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1013,7 +938,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1060,7 +984,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1079,7 +1002,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1091,7 +1013,6 @@ udver: '2'
       <ul>
       <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: adalah, ialah.</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <h2>Syntax</h2>
@@ -1101,7 +1022,6 @@ udver: '2'
       <ul>
       <li>This corpus does not contain copulas.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1109,13 +1029,11 @@ udver: '2'
       <ul>
       <li>This corpus uses 3 lemmas as auxiliaries (<a>aux</a>). Examples: dapat, harus, terpaksa.</li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
       <li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1136,7 +1054,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -1150,7 +1067,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1182,7 +1098,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -1191,7 +1106,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1204,7 +1118,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <ul>
@@ -1214,7 +1127,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1249,7 +1161,6 @@ udver: '2'
       <li>This corpus uses 3 relation subtypes: <a>compound:plur</a>, <a>csubj:pass</a>, <a>nsubj:pass</a></li>
       <li>The following 9 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
-
     </td>
     <td width="50%" valign="top">
       <h3>Relations Overview</h3>
@@ -1258,7 +1169,6 @@ udver: '2'
       <li>This corpus does not use relation subtypes.</li>
       <li>The following 17 relation types are not used in this corpus at all: <a>obj</a>, <a>obl</a>, <a>expl</a>, <a>cop</a>, <a>nmod</a>, <a>nummod</a>, <a>acl</a>, <a>clf</a>, <a>case</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>orphan</a>, <a>reparandum</a>, <a>punct</a>, <a>root</a></li>
       </ul>
-
     </td>
   </tr>
 </table>

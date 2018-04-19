@@ -8,29 +8,23 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <h1>UD_Spanish-AnCora</h1>
-
     </td>
     <td width="33%" valign="top">
       <h1>UD_Spanish-GSD</h1>
-
     </td>
     <td width="33%" valign="top">
       <h1>UD_Spanish-PUD</h1>
-
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
-
     </td>
     <td width="33%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
-
     </td>
     <td width="33%" valign="top">
       <h2>Tokenization and Word Segmentation</h2>
-
     </td>
   </tr>
   <tr>
@@ -38,19 +32,16 @@ udver: '2'
       <ul>
       <li>This corpus contains 17680 sentences, 547681 tokens and 549570 syntactic words.</li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 16013 sentences, 423346 tokens and 431587 syntactic words.</li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 1000 sentences, 22822 tokens and 23287 syntactic words.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -58,19 +49,16 @@ udver: '2'
       <ul>
       <li>This corpus contains 61771 tokens (11%) that are not followed by a space.</li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 46415 tokens (11%) that are not followed by a space.</li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 2318 tokens (10%) that are not followed by a space.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -78,19 +66,16 @@ udver: '2'
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
       <li>This corpus does not contain words with spaces.</li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 8 types of words with spaces. Examples: 10 000, 15 000, 168 000, 25 000, 330 000, 35 000, 5 000, 6 000</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -98,19 +83,16 @@ udver: '2'
       <ul>
       <li>This corpus contains 618 types of words that contain both letters and punctuation. Examples: TV-3, W., d'Esquadra, A., fig., G., S., coca-cola, d'Hebron, E., Iber-X, M., C., &amp;, Alvarez-Cascos, B., Castilla-La, L., P., TVE-1, A-7, L'Hospitalet, Macapagal-Arroyo, Reynard/Honda, Ruiz-Mateos, Sotheby's, TCNQ-TTF, A-2, Alonso-Cuevillas, Carod-Rovira, D'Alema, IC-V, Ibex-35, Ivesur-PTV, J., PSC-PSOE, PSE-EE, PSE-PSOE, Paral.lel, T., d'Ebre, 12-M, CATAC-Presons, Deportivo-Juventus, F., Heinz-Harald, Horta-Guinardó, Jean-Pierre, Madrid-Barça, Miami-Dade</li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 242 types of words that contain both letters and punctuation. Examples: 's, etc., d', C., n., P., Dr., l', D., EE.UU., E., J., A., B., Jr., L., S.A., St., W., h., s., I., G., K., R., v., Inc., No., Sr., U.S., f., m., 'm, A.C., Bros., Ltd., O'Brien, O'Connor, O., O.T.O., d'Or, p.m., &lt;, 've, .ç, Abdu'l, B.B., Co., Croissan'Wich, D.C.</li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 11 types of words that contain both letters and punctuation. Examples: a., C., d., n.°, B-29, E.E.UU, EE., EE.UU., Z., ca., p.m.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -119,21 +101,18 @@ udver: '2'
       <li>This corpus contains 1887 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 1083 types of multi-word tokens. Examples: hacerlo, hacerse, haberse, convertirse, darle, enfrentarse, encontrarse, darse, presentarse, reunirse, situarse, ponerse, producirse, dedicarse, mantenerse, quedarse, conseguirlo, imponerse, sentirse, someterse, acercarse, asegurarse, considerarse, incorporarse, iniciarse, pedirle, referirse, irse, llevarse, pronunciarse, sentarse, verse, conocerse, darles, desprenderse, hacerle, situándose, tratarse, alejarse, casarse, clasificarse, concentrarse, distanciarse, fijarse, manifestarse, retirarse, alzarse, aplicarse, celebrarse, deberse.</li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 8219 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 856 types of multi-word tokens. Examples: del, al, convertirse, verse, darle, hacerse, hacerlo, convirtiéndose, dedicarse, quedarse, casarse, ponerse, encontrarse, presentarse, enfrentarse, haberse, incorporarse, retirarse, unirse, mantenerse, tratarse, asegurarse, comunicarse, graduarse, haciéndolo, llamarse, conocerse, considerarse, darse, decirle, hacerme, verlo, adaptarse, basándose, celebrarse, centrarse, encontrarlo, encontrándose, enterarse, habiéndose, hacerle, marcharse, preguntarse, referirse, reunirse, tomarse, trasladarse, vengarse, volverse, abrirse.</li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 465 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 61 types of multi-word tokens. Examples: del, al, verlo, beneficiarse, convirtiéndose, hacerlo, recuperarlo, adminiéndolo, alejarse, aplicándolo, centrarse, centrándose, comprometerse, concentrase, convertirse, convirtiéndola, darle, dedicarme, dedicarse, deduciéndolo, deslizándose, desplazarse, desplegarse, detenerse, enfrentarse, enfriarse, esperarnos, estarse, examinarlo, formarse, gastarse, haberse, iluminarse, impidiéndole, irritándote, llevarlo, movilizarse, pidiéndole, ponerse, poniéndole, poniéndose, presionarles, protegerse, quedarse, referirse, registrarse, relajarse, reunirse, reuniéndose, salirse.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -145,7 +124,6 @@ udver: '2'
       <ul>
       <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <h2>Morphology</h2>
@@ -156,7 +134,6 @@ udver: '2'
       <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
       <li>This corpus does not use the following tags: INTJ</li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <h2>Morphology</h2>
@@ -167,7 +144,6 @@ udver: '2'
       <li>This corpus uses 14 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
       <li>This corpus does not use the following tags: SCONJ, PART, INTJ</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -175,18 +151,15 @@ udver: '2'
       <ul>
       <li>This corpus contains 1 word types tagged as particles (PART): no</li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 24 word types tagged as particles (PART): Gram, Hola, L, Trans, Vamos, Vaya, Vice, abandono, adios, co, ex, ficha, fue, hoc, post, pre, que, re, ruso, semi, sin, sub, super, todos</li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -194,19 +167,16 @@ udver: '2'
       <ul>
       <li>This corpus contains 60 lemmas tagged as pronouns (PRON): adonde, adónde, algo, alguien, alguno, aquel, bastante, cada, como, cual, cualquiera, cuando, cuanto, cuyo, cuál, cuándo, cuánto, cómo, demasiado, demás, donde, dónde, el, ese, este, insuficiente, mi, mismo, mucho, muchísimos, mí, mío, nada, nadie, ninguno, nuestro, ná, otro, poco, poquito, que, quien, quién, qué, se, su, sus, suyo, tal, tanto, todo, tuyo, tó, tú, un, uno, varios, yo, él, éste</li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 52 lemmas tagged as pronouns (PRON): algo, alguien, alguno, ambos, aquel, aquél, bastante, cual, cualquiera, cuanto, cuyo, cuál, cuánto, demasiado, demás, ese, este, esto, me, menos, mi, mismo, muchisimio, muchisimo, mucho, muchísimo, más, nada, nadie, niguno, ninguno, nuestro, otro, poco, que, quien, quién, qué, suyo, sí, tal, tanto, todo, tú, uno, varios, yo, zse, ámbo, él, ésta, ésto</li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 1 lemmas tagged as pronouns (PRON): _</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -214,19 +184,16 @@ udver: '2'
       <ul>
       <li>This corpus contains 59 lemmas tagged as determiners (DET): Seu, Seva, alguno, aquel, bastante, cada, cierto, cual, cualquiera, cuanto, cuánto, demasiado, demás, diferente, dios, distinto, diverso, dos, el, els, escaso, ese, este, la, las, les, lo, los, mi, mismo, mismísimo, mucho, muchísimo, musha, mía, mío, ninguno, nuestro, otra, otro, poco, propio, qué, sabe, sacarla, semejante, sendos, su, suyas, suyo, tal, tanto, todo, tu, un, una, uno, varios, vuestro</li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 95 lemmas tagged as determiners (DET): a, ae, algun, alguno, all, ambos, apenas, aquel, aquél, as, bastante, cada, cierto, cualquier, cualquiera, cuan, cuanta, cuanto, cuantos, cuya, cuyo, cuàles, cuál, cuán, da, de, del, dema, demasiado, demás, den, der, des, dicha, dicho, die, distinto, diverso, e, el, ela, ese, esta, este, estós, ir, johnson, kentrocapros, l', ls, lso, mes, mi, muchisimo, mucho, muchísimo, my, ningun, ninguno, nuestro, o, otro, our, perino, plas, poco, pocos, que, qué, s., sendo, sendos, ser, su, sus, suyo, tal, tanto, the, todas, todo, tu, tus, tú, unir, uno, vaario, varios, varía, vuestra, vuestro, what, él, ﻿el, ﻿la</li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 2 lemmas tagged as determiners (DET): _, el</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -234,19 +201,16 @@ udver: '2'
       <ul>
       <li>Out of the above, 30 lemmas occurred sometimes as PRON and sometimes as DET: alguno, aquel, bastante, cada, cual, cualquiera, cuanto, cuánto, demasiado, demás, el, ese, este, mi, mismo, mucho, mío, ninguno, nuestro, otro, poco, qué, su, suyo, tal, tanto, todo, un, uno, varios</li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
       <li>Out of the above, 31 lemmas occurred sometimes as PRON and sometimes as DET: alguno, ambos, aquel, aquél, bastante, cualquiera, cuanto, cuyo, cuál, demasiado, demás, ese, este, mi, muchisimo, mucho, muchísimo, ninguno, nuestro, otro, poco, que, qué, suyo, tal, tanto, todo, tú, uno, varios, él</li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
       <li>Out of the above, 1 lemmas occurred sometimes as PRON and sometimes as DET: _</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -254,19 +218,16 @@ udver: '2'
       <ul>
       <li>This corpus contains 344 lemmas tagged as auxiliaries (AUX): abandonar, abrir, acabar, acampar, acarrear, accidentar, aceptar, acercar, acertar, aclarar, acompañar, acordar, acostumbrar, actuar, acudir, adaptar, adecuar, admitir, advertir, afirmar, agradecer, alcanzar, alegar, amenazar, ampliar, analizar, anclar, andar, anunciar, aparecer, aplicar, aportar, apostar, apreciar, aprovechar, apuntar, argumentar, armar, arrancar, asegurar, asumir, autodefinirse, autoproclamar, avanzar, averiguar, avisar, ayudar, añadir, bandarse, barruntar, batir, buscar, caber, caer, caerse, calcular, cambiar, capitular, cara, caracterizar, ceder, cesar, cifrar, cobrar, colaborar, colar, colocar, comentar, comenzar, comer, componer, comprar, comprender, comprobar, compuesto, comunicar, concentrar, concluir, conducir, confirmar, confundir, conmover, conocer, conseguir, conservar, considerar, constar, constatar, consultar, contentar, contestar, continuar, contrastar, controlar, copular, correr, costar, costear, crecer, creer, dar, dar_parte, de, debe, deber, decidir, decir, declarar, defender, definir, dejar, demoler, demostrar, denunciar, derrotar, desalojar, desaprender, descubrir, desmentir, despedir, destacar, destapar, determinar, devolver, diferenciar, discutir, diseñar, disfrutar, disponer, divertir, echar, echar_leña, ejercer, elevar, emitir, empatar, empezar, emplear, enarbolar, encontrar, enfrentar, enjugar, ensanchar, entender, entorpecer, entrar, entregar, escribir, escuchar, esgrimir, esperar, establecer, estar, estimar, estudiar, evacuar, evitar, examinar, exigir, expandir, explicar, explotar, exponer, expulsar, extender, facilitar, faltar, fijar, formar, forzar, fotografiar, fue, ganar, garantizar, generar, gritar, haber, hablar, hacer, hacer_alusión, hacer_hincapié, hallar, han, haver, hinchar, humillar, identificar, ignorar, imaginar, impedir, imponer, incentivar, increpar, indicar, informar, iniciar, insinuar, insistir, intensificar, intentar, interpretar, introducir, investigar, ir, jugar, justificar, lamentar, leer, limpiar, llegar, llevar, lograr, manipular, mantener, marcar, matar, medir, mentir, montar, notar, observar, ocupar, olvidar, opinar, ordenar, oír, pactar, pagar, paralizar, parar, parecer, parte, participar, pasar, patrocinar, pedir, pensar, percibir, permanecer, permitir, podel, poder, poner, posponer, precisar, preguntar, presentar, presionar, pretender, probar, proclamar, procurar, producir, progresar, prohibir, promocionar, promulgar, pronosticar, proponer, punto, puntualizar, que, quedar, querer, rasgar, recalcar, recibir, reclamar, reconocer, recordar, rectificar, recuperar, recurrir, reducir, referir, registrar, rehacer, reiterar, reivindicar, relanzar, rematar, remitir, repatriar, repetir, representar, resolver, respaldar, responder, restar, resultar, reunir, revelar, robar, roblar, rodar, romper, rozar, saber, saldar, salir, saltar, salvar, sanear, saquear, seguir, sentar, sentir, ser, señalar, soler, solicitar, solucionar, solventar, someter, sonar, soportar, sostener, subrayar, sufrir, sugerir, sumar, suplicar, suponer, temer, tender, tener, tener_que_ver, terminar, tomar, trabajar, trascender, trasladar, tratar, unir, usar, utilizar, vengar, venir, ver, vergüenza, viajar, vivir, volar, volver</li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 147 lemmas tagged as auxiliaries (AUX): a, acaba, acabar, acabo, andaba, andar, aparecer, apresurar, ar, arrepentiréis, ayudar, cesar, cha, comenzar, comenzôr, concluir, conseguir, continar, continuar, continuo, corresponder, dar, deber, deberar, deberiar, deberio, debir, debiér, decidir, dedicar, dejar, deje, dejeis, dejo, dejéis, desear, echar, echar_leña, empezar, encontrar, encuentro, entrar, esperar, esta, estab, estado, estar, estaría, este, estener, estoy, estuve, expresar, firebirds, fuer, fuera, fuero, fuerón, habeis, haber, habiar, habiéndo, habiér, habéis, hacer, hallar, haya, inclinar, intente, ir, llegar, llevar, llevo, lograr, luchar, morir, necesitar, negándo, noche, obligar, pasar, pensar, permanecer, permitir, pod, podeis, poder, podiar, podra, podrar, podre, podrer, podriar, podriaí, podrás, podréis, podía, poner, puder, pudiera, pudiero, pudir, pudiéndo, puede, pueden, pueder, puedes, pusar, quedar, querer, recuerdo, resultar, saber, salir, seguimo, seguir, ser, serán, serás, seréis, sigo, soler, solía, suelen, suelo, tender, tendrian, tener, tengo, tenia, tenéis, terminar, terminó, todavía, tratar, tuve, tuvir, vener, venir, vino, viér, volver, volvi, volvir, volví, vuelve, vuelvo</li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
       <li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): _</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -274,19 +235,16 @@ udver: '2'
       <ul>
       <li>Out of the above, 316 lemmas occurred sometimes as AUX and sometimes as VERB: abandonar, abrir, acabar, acampar, acarrear, aceptar, acercar, acertar, aclarar, acompañar, acordar, acostumbrar, actuar, acudir, adaptar, adecuar, admitir, advertir, afirmar, agradecer, alcanzar, alegar, amenazar, ampliar, analizar, anclar, andar, anunciar, aparecer, aplicar, aportar, apostar, apreciar, aprovechar, apuntar, argumentar, armar, arrancar, asegurar, asumir, avanzar, averiguar, avisar, ayudar, añadir, batir, buscar, caber, caer, calcular, cambiar, capitular, caracterizar, ceder, cesar, cifrar, cobrar, colaborar, colar, colocar, comentar, comenzar, comer, componer, comprar, comprender, comprobar, comunicar, concentrar, concluir, conducir, confirmar, confundir, conmover, conocer, conseguir, conservar, considerar, constar, constatar, consultar, contentar, contestar, continuar, contrastar, controlar, copular, correr, costar, costear, crecer, creer, dar, deber, decidir, decir, declarar, defender, definir, dejar, demostrar, denunciar, derrotar, desalojar, descubrir, desmentir, despedir, destacar, destapar, determinar, devolver, diferenciar, discutir, diseñar, disfrutar, disponer, divertir, echar, echar_leña, ejercer, elevar, emitir, empatar, empezar, emplear, encontrar, enfrentar, enjugar, ensanchar, entender, entorpecer, entrar, entregar, escribir, escuchar, esgrimir, esperar, establecer, estar, estimar, estudiar, evacuar, evitar, examinar, exigir, explicar, explotar, exponer, expulsar, extender, facilitar, faltar, fijar, formar, forzar, fotografiar, ganar, garantizar, generar, gritar, haber, hablar, hacer, hallar, hinchar, humillar, identificar, ignorar, imaginar, impedir, imponer, incentivar, increpar, indicar, informar, iniciar, insinuar, insistir, intensificar, intentar, interpretar, introducir, investigar, ir, jugar, justificar, lamentar, leer, limpiar, llegar, llevar, lograr, manipular, mantener, marcar, matar, medir, mentir, montar, notar, observar, ocupar, olvidar, opinar, ordenar, oír, pactar, pagar, paralizar, parar, parecer, participar, pasar, patrocinar, pedir, pensar, percibir, permanecer, permitir, poder, poner, posponer, precisar, preguntar, presentar, presionar, pretender, probar, proclamar, procurar, producir, progresar, prohibir, promocionar, promulgar, pronosticar, proponer, puntualizar, quedar, querer, rasgar, recalcar, recibir, reclamar, reconocer, recordar, rectificar, recuperar, recurrir, reducir, referir, registrar, rehacer, reiterar, reivindicar, relanzar, rematar, remitir, repatriar, repetir, representar, resolver, respaldar, responder, restar, resultar, reunir, revelar, robar, rodar, romper, rozar, saber, saldar, salir, saltar, salvar, sanear, seguir, sentar, sentir, ser, señalar, soler, solicitar, solucionar, solventar, someter, sonar, soportar, sostener, subrayar, sufrir, sugerir, sumar, suponer, temer, tender, tener, tener_que_ver, terminar, tomar, trabajar, trascender, trasladar, tratar, unir, usar, utilizar, vengar, venir, ver, viajar, vivir, volar, volver</li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
       <li>Out of the above, 85 lemmas occurred sometimes as AUX and sometimes as VERB: acabar, andar, aparecer, apresurar, ar, ayudar, cesar, comenzar, concluir, conseguir, continuar, continuo, corresponder, dar, deber, debir, decidir, dedicar, dejar, dejo, desear, echar, echar_leña, empezar, encontrar, encuentro, entrar, esperar, estado, estar, este, estener, estoy, expresar, fuera, haber, hacer, hallar, inclinar, ir, llegar, llevar, llevo, lograr, luchar, morir, necesitar, obligar, pasar, pensar, permanecer, permitir, poder, poner, puder, pueden, quedar, querer, recuerdo, resultar, saber, salir, seguimo, seguir, ser, serás, seréis, sigo, soler, tender, tener, tengo, tenia, tenéis, terminar, todavía, tratar, tuve, tuvir, vener, venir, vino, volver, volvir, vuelve</li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
       <li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: _</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -294,19 +252,16 @@ udver: '2'
       <ul>
       <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
       <li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
       <li>This corpus does not use the VerbForm feature.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -320,7 +275,6 @@ udver: '2'
         </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -331,7 +285,6 @@ udver: '2'
         </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -347,7 +300,6 @@ udver: '2'
         </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -362,7 +314,6 @@ udver: '2'
         </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -379,7 +330,6 @@ udver: '2'
         </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -394,7 +344,6 @@ udver: '2'
         </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -412,7 +361,6 @@ udver: '2'
         </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -428,7 +376,6 @@ udver: '2'
         </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -437,15 +384,12 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <h3>Nominal Features</h3>
-
     </td>
     <td width="33%" valign="top">
       <h3>Nominal Features</h3>
-
     </td>
     <td width="33%" valign="top">
       <h3>Nominal Features</h3>
-
     </td>
   </tr>
   <tr>
@@ -453,19 +397,16 @@ udver: '2'
       <ul>
         <li><a>Gender</a></li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
         <li><a>Gender</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -485,7 +426,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -509,7 +449,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -526,7 +465,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -549,7 +487,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -575,7 +512,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -592,7 +528,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -611,19 +546,16 @@ udver: '2'
       <ul>
         <li><a>Number</a></li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
         <li><a>Number</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -646,7 +578,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -671,7 +602,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -687,7 +617,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -712,7 +641,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -738,7 +666,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -754,7 +681,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -762,19 +688,16 @@ udver: '2'
       <ul>
         <li><a>Case</a></li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
         <li><a>Case</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -786,7 +709,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -797,7 +719,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -807,7 +728,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -823,7 +743,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -841,7 +760,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -859,7 +777,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -874,7 +791,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -885,7 +801,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -895,7 +810,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -907,7 +821,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -917,7 +830,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -927,7 +839,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -935,13 +846,11 @@ udver: '2'
       <ul>
         <li><a>PrepCase</a></li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
         <li><a>PrepCase</a></li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -960,7 +869,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -975,7 +883,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -985,7 +892,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -996,13 +902,11 @@ udver: '2'
       <ul>
         <li><a>Definite</a></li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
         <li><a>Definite</a></li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -1017,7 +921,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1027,7 +930,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -1042,7 +944,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1052,7 +953,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -1061,15 +961,12 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <h3>Degree and Polarity</h3>
-
     </td>
     <td width="33%" valign="top">
       <h3>Degree and Polarity</h3>
-
     </td>
     <td width="33%" valign="top">
       <h3>Degree and Polarity</h3>
-
     </td>
   </tr>
   <tr>
@@ -1080,7 +977,6 @@ udver: '2'
       <ul>
         <li><a>Degree</a></li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -1100,7 +996,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -1120,7 +1015,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -1138,7 +1032,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -1149,19 +1042,16 @@ udver: '2'
       <ul>
         <li><a>Polarity</a></li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
         <li><a>Polarity</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1173,7 +1063,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1188,7 +1077,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1198,7 +1086,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1215,15 +1102,12 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <h3>Verbal Features</h3>
-
     </td>
     <td width="33%" valign="top">
       <h3>Verbal Features</h3>
-
     </td>
     <td width="33%" valign="top">
       <h3>Verbal Features</h3>
-
     </td>
   </tr>
   <tr>
@@ -1237,7 +1121,6 @@ udver: '2'
       <ul>
         <li><a>Aspect</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1256,7 +1139,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1275,7 +1157,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1283,19 +1164,16 @@ udver: '2'
       <ul>
         <li><a>Mood</a></li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
         <li><a>Mood</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1308,7 +1186,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1319,7 +1196,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1330,7 +1206,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1343,7 +1218,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1354,7 +1228,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1364,7 +1237,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1378,7 +1250,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1389,7 +1260,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1400,7 +1270,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1413,7 +1282,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1424,7 +1292,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1435,7 +1302,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1443,19 +1309,16 @@ udver: '2'
       <ul>
         <li><a>Tense</a></li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
         <li><a>Tense</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1468,7 +1331,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1479,7 +1341,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1490,7 +1351,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1504,7 +1364,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1515,7 +1374,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -1533,7 +1391,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1546,7 +1403,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1557,7 +1413,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1570,7 +1425,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1581,7 +1435,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1592,7 +1445,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1606,7 +1458,6 @@ udver: '2'
       <ul>
         <li><a>Voice</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1625,7 +1476,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1644,7 +1494,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -1661,15 +1510,12 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
-
     </td>
     <td width="33%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
-
     </td>
     <td width="33%" valign="top">
       <h3>Pronouns, Determiners, Quantifiers</h3>
-
     </td>
   </tr>
   <tr>
@@ -1677,13 +1523,11 @@ udver: '2'
       <ul>
         <li><a>PronType</a></li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
         <li><a>PronType</a></li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -1698,7 +1542,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1708,7 +1551,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -1724,7 +1566,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1735,7 +1576,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -1751,7 +1591,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1763,7 +1602,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -1779,7 +1617,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -1801,7 +1638,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -1820,7 +1656,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -1836,7 +1671,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1847,7 +1681,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -1863,7 +1696,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -1882,7 +1714,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1893,7 +1724,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -1904,13 +1734,11 @@ udver: '2'
       <ul>
         <li><a>NumType</a></li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -1926,7 +1754,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1938,7 +1765,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -1954,7 +1780,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -1972,7 +1797,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -1982,7 +1806,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -1993,13 +1816,11 @@ udver: '2'
       <ul>
         <li><a>Poss</a></li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
         <li><a>Poss</a></li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -2015,7 +1836,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -2026,7 +1846,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -2040,7 +1859,6 @@ udver: '2'
       <ul>
         <li><a>Reflex</a></li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -2058,7 +1876,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -2069,19 +1886,16 @@ udver: '2'
       <ul>
         <li><a>Person</a></li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
         <li><a>Person</a></li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -2096,7 +1910,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -2110,7 +1923,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -2122,7 +1934,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -2137,7 +1948,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -2152,7 +1962,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -2163,7 +1972,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -2179,7 +1987,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -2194,7 +2001,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -2206,7 +2012,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -2214,13 +2019,11 @@ udver: '2'
       <ul>
         <li><a>Polite</a></li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
         <li><a>Polite</a></li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -2235,7 +2038,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -2245,7 +2047,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -2267,7 +2068,6 @@ udver: '2'
       <ul>
         <li><a>Number[psor]</a></li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -2286,7 +2086,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -2305,7 +2104,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -2317,15 +2115,12 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <h3>Other Features</h3>
-
     </td>
     <td width="33%" valign="top">
       <h3>Other Features</h3>
-
     </td>
     <td width="33%" valign="top">
       <h3>Other Features</h3>
-
     </td>
   </tr>
   <tr>
@@ -2350,7 +2145,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -2374,7 +2168,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -2400,7 +2193,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -2414,7 +2206,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -2432,7 +2223,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -2459,7 +2249,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -2521,7 +2310,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -2539,7 +2327,6 @@ udver: '2'
       <ul>
       <li>This corpus uses 71 lemmas as copulas (<a>cop</a>). Examples: ser, estar, parecer, el, encontrar, ir, tener, no, resultar, sumar, vivir, esto, haber, o, sufrir, uno, utilizar, 22926, abrir, aceite, además, arrancar, autodefinirse, autoproclamar, caracterizar, cobrar, considerar, costar, dar, donde, empatar, en, entrar, es, esperar, estilo, explotar, faltar, formar, fue, ganar, garantizar, hablar, hacer, hecho, igual, impedir, iniciar, ligado, mantener.</li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <h2>Syntax</h2>
@@ -2549,7 +2336,6 @@ udver: '2'
       <ul>
       <li>This corpus uses 216 lemmas as copulas (<a>cop</a>). Examples: ser, estar, llamado, encontrar, hacer, llamar, quedar, considerar, parecer, ver, resultar, denominado, este, volver, fuera, nombrar, significar, mantener, titulado, denominar, permanecer, nombrado, elegir, hallar, considerado, declarar, proclamar, titular, declarado, morir, pasar, salir, sentir, caer, constituir, designado, haber, nacer, nacido, nacionalizado, poner, seguir, sero, terminar, vivir, acabar, andar, aparecer, autodenominado, con.</li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <h2>Syntax</h2>
@@ -2559,7 +2345,6 @@ udver: '2'
       <ul>
       <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -2567,21 +2352,18 @@ udver: '2'
       <ul>
       <li>This corpus uses 327 lemmas as auxiliaries (<a>aux</a>). Examples: haber, poder, ser, deber, hacer, estar, ir, seguir, volver, dejar, empezar, llegar, comenzar, acabar, decir, tratar, soler, tener, intentar, evitar, continuar, ver, considerar, venir, pensar, saber, parecer, asegurar, conseguir, pasar, querer, terminar, afirmar, explicar, lograr, recordar, llevar, impedir, demostrar, exigir, permitir, tener_que_ver, mantener, pedir, señalar, comprobar, dar, aclarar, precisar, acostumbrar.</li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
       <li>This corpus uses 140 lemmas as auxiliaries (<a>aux</a>). Examples: haber, poder, estar, deber, ir, tener, comenzar, ser, volver, seguir, soler, empezar, llegar, venir, pasar, dejar, acabar, continuar, este, terminar, acabo, habéis, suelo, hacer, llevar, pudir, a, lograr, acaba, conseguir, debir, estuve, fuera, habiéndo, pensar, pueden, querer, deberiar, habiar, permitir, pod, podrar, podrer, podrás, pudiera, resultar, salir, seguimo, todavía, tratar.</li>
       <li>This corpus uses 19 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: ser, estar, fuera, este, haber, quedar, resultar, venir, be, deber, fuero, fuerón, ir, poder, serás, vener, vino, volver, was.</li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
       <li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
       <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: _.</li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -2610,7 +2392,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -2653,7 +2434,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <h3>Core Arguments, Oblique Arguments and Adjuncts</h3>
@@ -2668,7 +2448,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -2795,7 +2574,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -2848,7 +2626,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -2860,7 +2637,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -2918,7 +2694,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -2953,7 +2728,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <ul>
@@ -2964,7 +2738,6 @@ udver: '2'
           </ul>
         </li>
       </ul>
-
     </td>
   </tr>
   <tr>
@@ -2985,7 +2758,6 @@ udver: '2'
       <ul>
         <li>This corpus contains 207 lemmas that occur at least once with an <a>expl:pass</a> child. Examples: tratar se, hablar se, hacer se, decir se, ver se, esperar se, dar se, querer se, conocer se, jugar se, pasar se, proceder se, vivir se, abrir se, acusar se, creer se, informar se, llegar se, saber se, someter se, tener se, actuar se, apuntar se, contratar se, elegir se, entrar se, especular se, guardar se, incluir se, incrementar se, optar se, pedir se, producir se, sospechar se, tardar se, trabajar se, acudir se, alertar se, ampliar se, apostar se, atribuir se, avanzar se, avisar se, calcular se, cambiar se, castigar se, combatir se, comer se, condenar se, confiar se</li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -3007,7 +2779,6 @@ udver: '2'
             <li>Out of those, 71 lemmas occurred more than once, but never without a reflexive dependent. Examples: basar, refugiar, especializar, apoderar, apresurar, agotar, asientar, basándo, congregar, doctorar, encontrándo, extiender, hospedar, acoplar, afiliar, aliar, aventurar, desintegrar, enamorándo, enrolar, fugar, habiéndo, intensificar, matricular, percatar, reincorporar, reutilizar, subdividir, volviéndo, véa, yergar, abocar, abriéndo, adecuar, adjudicar, agudizar, alistar, asemejar, atrever, autoproclamar, avenir, bendizar, convertii, crio, desarrollándo, desmayar, despliegar, divorciar, enfadar, enquistar</li>
           </ul>
       </ul>
-
     </td>
     <td width="33%" valign="top">
 
@@ -3022,7 +2793,6 @@ udver: '2'
       <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
       <li>The following 7 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <h3>Relations Overview</h3>
@@ -3031,7 +2801,6 @@ udver: '2'
       <li>This corpus uses 4 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>nsubj:pass</a></li>
       <li>The following 9 relation types are not used in this corpus at all: <a>vocative</a>, <a>expl</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a></li>
       </ul>
-
     </td>
     <td width="33%" valign="top">
       <h3>Relations Overview</h3>
@@ -3041,7 +2810,6 @@ udver: '2'
       <li>The following 1 main types are not used alone, they are always subtyped: <a>compound</a></li>
       <li>The following 5 relation types are not used in this corpus at all: <a>expl</a>, <a>dislocated</a>, <a>clf</a>, <a>list</a>, <a>reparandum</a></li>
       </ul>
-
     </td>
   </tr>
 </table>
