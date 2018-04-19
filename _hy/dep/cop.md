@@ -31,6 +31,12 @@ cop(ուշ, էր)
 cop(late, It-was)
 ~~~
 
+~~~ sdparse
+Մեղավորը ես եմ ։ \n I am the-sinner .
+cop(ես, եմ)
+cop(I, am)
+~~~
+
 If the copula is accompanied by other verbal auxiliaries for tense, aspect, etc., then they are also given a flat structure, and taken as dependents of the lexical predicate:
 
 ~~~ sdparse
