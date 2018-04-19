@@ -10,7 +10,7 @@ The relation links the addressee's name or title to its host sentence.
 In Armenian vocative is always [indefinite](Definite) and always in nominative [case](Case). 
 
 ~~~ sdparse
-Պարոն ՛ , դուք հիմար եք ։ \n Sir , you are fool !
+Պարոն ՛ , Դուք հիմար եք ։ \n Sir , you are fool !
 vocative(հիմար, Պարոն)
 vocative(fool, Sir)
 cop(հիմար, եք)
