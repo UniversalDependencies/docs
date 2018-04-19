@@ -1,7 +1,7 @@
 ---
 layout: relation
 title: 'obl'
-shortdef: 'oblique argument or adjunct'
+shortdef: 'oblique nominal'
 udver: '2'
 ---
 
