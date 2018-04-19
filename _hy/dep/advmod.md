@@ -31,6 +31,8 @@ advmod(գնալ, Ուր)
 obl(գնալ, արձակուրդներին)
 advmod(to-go, Where)
 obl(to-go, during-the-holidays)
+xcomp(ուզում, գնալ)
+xcomp(want, to-go)
 ~~~
 
 ~~~ sdparse
