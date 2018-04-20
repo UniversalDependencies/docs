@@ -6,7 +6,11 @@ udver: '2'
 ---
 
   
-The `flat` relation is one of the three relations for MWE in UD (together with [compound]() and [fixed]()). In Armenian it is used for proper nouns constituted of multiple nominal elements. For phrasal or clausal names the usual relations are used (e.g. _Երևանի պետական համալսարան, Պարսից ծով, Խաղաղ օվկիանոս, Ալանաց դշխուհի_). In general, names are annotated in a `flat`, head-initial structure, in which all words in the name modify the head using the `flat` label.
+The `flat` relation is one of the three relations for MWE in UD (together with [compound]() and [fixed]()). It is used for exocentric (headless) semi-fixed MWEs like names and dates. It contrasts with [fixed](), which applies to completely fixed grammaticized (function word-like) MWEs, and with [compound], which applies to endocentric (headed) MWEs.
+
+## Names
+
+In Armenian it is used for proper nouns constituted of multiple nominal elements. For phrasal or clausal names the usual relations are used (e.g. _Երևանի պետական համալսարան, Պարսից ծով, Խաղաղ օվկիանոս, Ալանաց դշխուհի_). In general, names are annotated in a `flat`, head-initial structure, in which all words in the name modify the head using the `flat` label.
 
 ~~~ sdparse
 Նախագահ Լևոն Տեր - Պետրոսյանը երեկ այցելել է Երևանի պետական համալսարան ։ \n President Levon Ter - Petrosyan yesterday visited Yerevan State University .
@@ -29,13 +33,13 @@ flat(New, York)
 ~~~
 
 ~~~ sdparse
-Վանա/ADJ լիճ/NOUN \n Lake Van
+Վանա/ADJ[NameType=Geo|Poss=Yes] լիճ/NOUN \n Lake Van
 amod(լիճ, Վանա)
 amod(Lake, Van)
 ~~~
 
 ~~~ sdparse
-Պարսից/ADJ ծոց/NOUN \n Persian Gulf
+Պարսից/ADJ[Poss=Yes] ծոց/NOUN \n Persian Gulf
 amod(ծոց, Պարսից)
 amod(Gulf, Persian)
 ~~~
