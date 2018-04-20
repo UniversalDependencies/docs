@@ -33,16 +33,16 @@ obj(love, who)
 Հիշում եմ այն օրերը , երբ սովորում էի դպրոցում ։ \n I remember the days , when I-was studying at-school .
 acl:relcl(օրերը, սովորում)
 acl:relcl(days, studying)
-obl(սովորում, երբ)
-obl(studying, when)
+advmod(սովորում, երբ)
+advmod(studying, when)
 ~~~
 
 ~~~ sdparse
 Կուզեի լինել լեռներում , ուր անց եմ կացրել իմ մանկությունը ։ \n I-would like to-be in-the-mountains , where I have passed my childhood .
 acl:relcl(լեռներում, կացրել)
 acl:relcl(in-the-mountains, passed)
-obl(կացրել, ուր)
-obl(passed, where)
+advmod(կացրել, ուր)
+advmod(passed, where)
 ~~~
 
 ~~~ sdparse
