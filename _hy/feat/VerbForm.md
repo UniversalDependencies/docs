@@ -98,7 +98,7 @@ Not to confuse with gerund.
 #### Examples
 
 * _<b>սպանվելու</b> միտքը ծանր էր_ &nbsp;“lit: the thought <b>of to be killed</b> was hard”,
-* _սովոր էր մենակ <b>ծննդաբերելուն</b>_ &nbsp;“lit: <b></b>”,
+* _սովոր էր մենակ <b>ծննդաբերելուն</b>_ &nbsp;“lit: she get used to <b>give birth</b> alone”,
 * _<b>մտնելուց</b> հետո_ &nbsp;“after <b>entering</b>”,
-* _մոտեցավ <b>վազելով</b>_ &nbsp;“lit: <b></b>”,
-* _<b>ճառելում</b> նա հմուտ էր_ &nbsp;“lit: <b></b>”
+* _մոտեցավ <b>վազելով</b>_ &nbsp;“lit: he came up <b>running</b>”,
+* _<b>ճառելում</b> նա հմուտ էր_ &nbsp;“lit: he was skillful <b>in telling speeches</b>”
