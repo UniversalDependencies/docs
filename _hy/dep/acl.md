@@ -36,11 +36,11 @@ acl(his-wife, pale)
 ~~~
 
 Armenian also allows finite clausal complements for nouns with 
-a subset of pronouns like *այն* or *նրանում*.
+a subset of pronouns like *այն* or *նրանում* “fact is that”.
 These look roughly like relative clauses, but do not have any omitted role in the dependent clause.
 These are also analyzed as `acl`.
 
 ~~~ sdparse
-Բանն այն է , որ նա չի գալու . \n
+Բանն այն է , որ նա չի գալու . \n The fact is , that he will not came . 
 acl(այն, գալու)
 ~~~
