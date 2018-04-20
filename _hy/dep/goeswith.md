@@ -21,7 +21,7 @@ goeswith(կարգ, ու)
 goeswith(կարգ, կանոն)
 ~~~
 
-Note that we also use this relation to link the inflectional bound morphemes that are separated due to tokenization to the _main_ part of the word (usually the last word of phrases or sentences used as names).
+Note that we also use this relation to link the inflectional bound morphemes that are separated due to tokenization to the _main_ part of the word (usually the last word of phrases or sentences used as names or after abbreviations).
 
 ~~~ sdparse
 «/PUNCT Երկիր/NOUN[Animacy=Inan|Case=Nom|Definite=Ind|Number=Sing] Նաիրի/PROPN[Animacy=Inan|Case=Nom|Definite=Ind|NameType=Geo|Number=Sing] »/PUNCT -/PUNCT ից/NOUN[Animacy=Inan|Case=Abl|Definite=Ind|Number=Sing] \n “ Yerkir Nairi ” - from
