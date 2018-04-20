@@ -19,34 +19,34 @@ case(գյուղի, համար)
 case(the-village, for)
 ~~~
 
-Currently, we also use `case` for some other case-marking elements treated as separate syntactic words (a closed set of nouns, adjectivs/participles or adverbs). These elements (traditionally known as “adpositional words”) are treated as dependents of the noun or clause they attach to or introduce. They may be tagged according to their basic use. (See [ADP]() for details.)
+Currently, we also use `case` for some other case-marking elements treated as separate syntactic words (derived from a closed set of nouns, adjectivs/participles or adverbs). These elements (traditionally known as “adpositional words”) are treated as dependents of the noun or clause they attach to or introduce. They are still tagged [ADP](). Some of them may be tagged and annotated according to their basic use.
 
 ~~~ sdparse
-այս/DET իշխանությունների/NOUN[Case=Dat] երեսից/NOUN \n these authorities-' fault
-case(իշխանությունների, երեսից)
+երկրաշարժից/NOUN[Case=Abl] հետո/ADP \n after the-earthquake
+case(երկրաշարժից, հետո)
+case(the-earthquake, after)
+~~~
+
+~~~ sdparse
+այս/DET իշխանությունների/NOUN[Case=Dat] երեսից/NOUN[Case=Abl] \n these authorities-' fault
+nmod:poss(իշխանությունների, երեսից)
 det(իշխանությունների, այս)
-case(authorities-', fault)
+nmod:poss(authorities-', fault)
 det(authorities-', these)
 ~~~
 
 ~~~ sdparse
-միջազգային/ADJ չափանիշներին/NOUN[Case=Dat] համապատասխան/ADJ \n corresponding-to the-international criteria 
-case(չափանիշներին, համապատասխան)
+միջազգային/ADJ չափանիշներին/NOUN[Case=Dat] համապատասխան/ADV \n corresponding-to the-international criteria 
+obl(համապատասխան, չափանիշներին)
 amod(չափանիշներին, միջազգային)
-case(criteria, corresponding-to)
+obl(corresponding-to, criteria)
 amod(criteria, the-international)
 ~~~
 
 ~~~ sdparse
-չնայած/ADJ պարտավորություններին/NOUN[Case=Dat] \n despite obligations
-case(պարտավորություններին, չնայած)
-case(obligations, despite)
-~~~
-
-~~~ sdparse
-երկրաշարժից/NOUN[Case=Abl] հետո/ADV \n after the-earthquake
-case(երկրաշարժից, հետո)
-case(the-earthquake, after)
+չնայած/VERB պարտավորություններին/NOUN[Case=Dat] \n despite obligations
+obj(չնայած, պարտավորություններին)
+obj(despite, obligations)
 ~~~
 
 Some inflected postpositions / localizers (traditionally known as “improper adpositions”), are labeled with [case:loc]() instead.
