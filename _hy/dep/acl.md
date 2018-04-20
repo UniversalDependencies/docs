@@ -21,7 +21,7 @@ acl(the-city, called)
 
 This relation is also used for optional depictives.
 The adjective is taken to modify the nominal of which it provides a secondary predication.
-See [u-dep/xcomp]() for further discussion.
+See [xcomp]() for further discussion.
 
 ~~~ sdparse
 Նա մոլոր մտավ սենյակ : \n He entered the room errant .
