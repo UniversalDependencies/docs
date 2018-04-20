@@ -11,7 +11,7 @@ The `orphan` relation is used to provide a satisfactory treatment of certain ins
 head gets elided).
 
 ~~~ sdparse
-Դավիթը սուրճ խմեց , Մերին ՝ թեյ ։ \n David drank coffee , Mary - tea .
+Դավիթը սուրճ խմեց , իսկ Մերին ՝ թեյ ։ \n David drank coffee and Mary - tea .
 nsubj(խմեց, Դավիթը)
 nsubj(drank, David)
 obj(խմեց, սուրճ)
@@ -20,6 +20,8 @@ conj(խմեց, Մերին)
 conj(drank, Mary)
 orphan(Մերին, թեյ)
 orphan(Mary, tea)
+cc(Մերին, իսկ)
+cc(Mary, and)
 ~~~
 
-In this example, the subject _Մերին_ is promoted to the head position in the second conjunct. Attaching the object _թեյ_ to the subject is necessary to preserve the integrity of the clause, but using the standard relation [obj]() would be misleading because _թեյ_ is not the object of _Մերին_. Therefore, the `orphan` relation is used to indicate that this is a non-standard attachment.
+In this example, the subject _Մերին_ is promoted to the head position in the second conjunct. Attaching the object _թեյ_ to the subject is necessary to preserve the integrity of the clause, but using the standard relation [obj]() would be misleading because _թեյ_ is not the object of _Մերին_. Therefore, the `orphan` relation is used to indicate that this is a non-standard attachment. By contrast, the coordinating conjunction _իսկ_ performs essentially the same function as in the non-elliptical case and therefore retains its normal relation [cc]().
