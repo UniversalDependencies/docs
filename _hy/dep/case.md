@@ -29,9 +29,9 @@ case(the-earthquake, after)
 
 ~~~ sdparse
 այս/DET իշխանությունների/NOUN[Case=Dat] երեսից/NOUN[Case=Abl] \n these authorities-' fault
-nmod:poss(իշխանությունների, երեսից)
+nmod:poss(երեսից, իշխանությունների)
 det(իշխանությունների, այս)
-nmod:poss(authorities-', fault)
+nmod:poss(fault, authorities-')
 det(authorities-', these)
 ~~~
 
