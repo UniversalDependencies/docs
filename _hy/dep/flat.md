@@ -6,7 +6,7 @@ udver: '2'
 ---
 
   
-The `flat` relation is one of the three relations for MWE in UD (together with [compound]() and [fixed]()). It is used for exocentric (headless) semi-fixed MWEs like names and dates. It contrasts with [fixed](), which applies to completely fixed grammaticized (function word-like) MWEs, and with [compound], which applies to endocentric (headed) MWEs.
+The `flat` relation is one of the three relations for MWE in UD. It is used for exocentric (headless) semi-fixed MWEs like names and dates. It contrasts with [fixed](), which applies to completely fixed grammaticized (function word-like) MWEs, and with [compound](), which applies to endocentric (headed) MWEs.
 
 Flat MWEs are annotated with a flat structure, where all subsequent words in the expression are attached to the first one using the `flat` label. The assumption is that these expressions do not have any internal syntactic structure and that the structural annotation is in principle arbitrary.
 
