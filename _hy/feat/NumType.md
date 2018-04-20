@@ -51,7 +51,7 @@ This is a subtype of cardinal numbers. It may denote a fraction or just the deno
 
 #### Examples
 
-* _3-4 (երեք քառորդ)_ “three-quarters”
+* _3/4 (երեք քառորդ)_ “three-quarters”
 * _կես_ “half”, _քառորդ_ “quarter”, _<b>1/3 (մեկ երրորդ)</b>_ մասը “one <b>third</b> part”
 
 ### <a name="Dist">`Dist`</a>: distributive numeral
@@ -67,7 +67,7 @@ Note that _<b>20-ական, 30-ական</b> թվականներին_.`Plur` “by 
 
 ### <a name="Range">`Range`</a>: range of values
 
-This could be considered a subtype of cardinal numbers (provided tokenization leaves it as one token.)
+This could be considered a subtype of cardinal numbers (provided tokenization leaves it as one token).
 
 #### Examples
 
