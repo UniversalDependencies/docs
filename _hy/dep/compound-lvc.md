@@ -18,7 +18,9 @@ compound:lvc(open, did)
 compound:lvc(վեր-1, թռչել)
 compound:lvc(high-6, to-jump)
 compound:redup(վեր-1, վեր-3)
-compound:redup(high-6, high-8,)
+compound:redup(high-6, high-8)
+punct(վեր-3, --2)
+punct(high-8, --7)
 ~~~
 
 ~~~ sdparse
