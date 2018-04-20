@@ -46,11 +46,11 @@ advmod(passed, where)
 ~~~
 
 ~~~ sdparse
-քաղաքը , որի մասին շատ եմ լսել \n the-city , that I-have heard about much 
+քաղաքը , որի մասին շատ եմ լսել \n the-city , which I-have heard about much 
 acl:relcl(քաղաքը, լսել)
 acl:relcl(the-city, heard)
 obl(լսել, որի)
-obl(heard, that)
+obl(heard, which)
 case(որի, մասին)
-case(that, about)
+case(which, about)
 ~~~
