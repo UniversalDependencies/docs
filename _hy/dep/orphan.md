@@ -1,13 +1,12 @@
 ---
 layout: relation
 title: 'orphan'
-shortdef: 'connecting orphaned arguments of elided predicate'
+shortdef: 'orphan in ellipsis'
 udver: '2'
 ---
 
 The `orphan` relation is used to provide a satisfactory treatment of certain instances of
-[ellipsis](http://universaldependencies.org/hy/overview/specific-syntax.html)
-(in the case of gapping and stripping, where a predicational or verbal
+[ellipsis](http://universaldependencies.org/u/overview/specific-syntax.html#ellipsis) where simple promotion would result in unnatural and misleading dependency relation (in the case of gapping and stripping, where a predicational or verbal
 head gets elided).
 
 ~~~ sdparse
