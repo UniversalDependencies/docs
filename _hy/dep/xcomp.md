@@ -61,7 +61,7 @@ xcomp(Promised, to-write)
 
 ### Secondary Predicates
 
-The `xcomp` relation is also used in constructions that are known as _secondary predicates_ or _predicatives_.
+The `xcomp` relation is also used in constructions that are known as _secondary predicates_ or _predicatives_ (in Armenian linguistics called _ստորոգելիական վերադիր_ or _վերադրառու բայեր_).
 Examples:
 
 * _Նա որոշումը մտահոգիչ համարեց։_ “She declared the decision worrying.”
