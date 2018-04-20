@@ -14,6 +14,8 @@ We take the first conjunct as the head of the coordination.)
 
 ~~~ sdparse
 Նա ծեր ու իմաստուն մարդ է ։ \n He is old and wise man .
+conj(ծեր, իմաստուն)
+conj(old, wise)
 cc(իմաստուն, ու)
 cc(wise, and)
 ~~~
