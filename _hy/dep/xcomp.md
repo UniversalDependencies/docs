@@ -61,7 +61,7 @@ xcomp(Promised, to-write)
 
 ### Secondary Predicates
 
-The `xcomp` relation is also used in constructions that are known as _secondary predicates_ or _predicatives_ (in Armenian linguistics called _վերադրառու բայեր_ or _ստորոգելիական վերադիր_).
+The `xcomp` relation is also used in constructions that are known as _secondary predicates_ or _predicatives_.
 Examples:
 
 * _Նա որոշումը մտահոգիչ համարեց։_ “She declared the decision worrying.”
@@ -101,7 +101,7 @@ For instance, in _Նա մոլոր մտավ սենյակ_ “She entered the room
 (she entered the room; she was errant).
 But _մոլոր_ “errant” is not a core argument of _մտնել_ “enter”: leaving it out will neither affect grammaticality
 nor significantly alter the meaning of the verb.
-On the other hand, leaving out _մտահոգիչ_ “worrying” in _նա որոշուը մտահոգիչ համարեց_ “she declared the decision worrying”
+On the other hand, leaving out _մտահոգիչ_ “worrying” in _նա որոշումը մտահոգիչ համարեց_ “she declared the decision worrying”
 will either render the sentence ungrammatical or lead to a different interpretation of _համարեց_ “declared.”
 
 The result is that in _Նա մոլոր մտավ սենյակ,_ “She entered the room errant”, _մոլոր_ “errant” will depend on _Նա_ “She” and the relation will be [acl]() instead of `xcomp`.
