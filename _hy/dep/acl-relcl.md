@@ -49,8 +49,8 @@ advmod(passed, where)
 քաղաքը , որի մասին շատ եմ լսել \n the-city , that I-have heard about much 
 acl:relcl(քաղաքը, լսել)
 acl:relcl(the-city, heard)
-obj(լսել, որի)
-obj(heard, that)
+obl(լսել, որի)
+obl(heard, that)
 case(որի, մասին)
 case(that, about)
 ~~~
