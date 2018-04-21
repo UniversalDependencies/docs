@@ -221,7 +221,12 @@ This block should be the last thing in the `README` file. The properties are as 
     contains only the annotation without words and lemmas, but with a merging script that the
     user can run and merge the annotation with the corpus that they obtained through another
     channel. Such treebanks should say `no` here.
-* `Genre`: this is simply a space-separated list of genres which gets mapped into symbols in the table. The possible genres are listed in [this file](https://github.com/UniversalDependencies/docs-automation/blob/master/genre_symbols.json). If you don't see yours, just edit the file on GitHub and add your genre, choosing one of the symbols from [the *FontAwesome* list](https://fortawesome.github.io/Font-Awesome/icons/). Please make sure you get the syntax right, since this is a machine-readable JSON file. It is also possible to not add the genre to the `genre_symbols.json` file, in which case the default symbol will be used automatically. The genre name will still remain visible in the mouse-over tooltip.
+* `Genre`: this is simply a space-separated list of genres which gets mapped into symbols in the table. The possible genres are listed in [this file](https://github.com/UniversalDependencies/docs-automation/blob/master/genre_symbols.json)
+  (symbols from [the *FontAwesome* list](https://fortawesome.github.io/Font-Awesome/icons/)).
+  If you don't see yours, try to think of a less specific or similar genre that is on the list.
+  Remember that this is just an approximation and we are not aiming at a fine-grained hierarchy of all possible genres.
+  If you believe you really need a new genre, contact the release task force and try to persuade them.
+  Note that simply editing the file will no longer help you because the validation software has its own list of known genres.
 * Source of annotation of lemmas, POS tags, morphological features and dependency relations.
   There are several possible values:
   * `manual native` ... means that the annotation was done manually, directly in the UD annotation scheme.
