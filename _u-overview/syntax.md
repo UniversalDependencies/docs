@@ -289,7 +289,8 @@ to the function normally assumed by the content word head. This type of analysis
 in general be preferred over an analysis using the [u-dep/orphan]() relation, because it disrupts
 the structure less. The orphan analysis of ellipsis should only be used when there is no function word
 that can be promoted. The following examples illustrate promotion of auxiliaries, prepositions
-and subordinating conjunctions.
+and subordinating conjunctions (but only the first example illustrates the exception
+from the rule than function words have no dependents).
 
 <div id="s5a" class="sd-parse">
 Bill could not answer , but Ann could .
