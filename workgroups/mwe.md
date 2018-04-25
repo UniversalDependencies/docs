@@ -48,7 +48,7 @@ This case should be considered as default also if the annotator just does not kn
 
 ### Case B: both A and B can replace AB:
 
-Note that this description also fits to appos relations. We will have to provide criteria to distinguish when `flat`, `fixed`, or appos should be used.
+Note that this description also fits to appos relations. We will have to provide criteria to distinguish when `flat`, `fixed`, or appos should be used. <span style="color:blue">**Joakim:** The description also fits relations like `conj`, `parataxis` and `list`.</span>
 
 For "Hillary Clinton", both parts can replace the whole. Thus, we cannot determine a head. Note that we can not permute the tokens: \*Clinton Hillary
 
