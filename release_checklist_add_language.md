@@ -68,15 +68,13 @@ chmod 666 evaluation-report.txt</pre>
 7.  Commit and push the changes. This should also trigger an automatic re-validation of the treebank under the new name.
 8.  If there are other places where you maintain local clones of UD repositories (e.g., one is your laptop and the other is your
     university network), go to each of them, do a new git clone ; git checkout dev ; rm old clone.
-9.  In tools/evaluate_treebank.pl, register the name change in the hash `%oldname`.
-    Commit and push tools; it will trigger new evaluation of all treebanks, including the renamed one.
 10. Finally, we want to regenerate the title page of Universal Dependencies.
     Go to docs-automation. Assumption: all UD treebank repositories, and the docs repository are cloned as siblings of docs-automation
     in the file-folder hierarchy. They are switched to the dev branch. (It does not matter for us because we will switch them to
     master in any case; but we assume that we do this temporarily, and we will switch back to dev when we are done.)
 11. Remove the old cached metadata: rm `_corpus_metadata/UD_Czech.json`.
 12. Generate new metadata for the treebank (this script switches the repo temporarily to master):
-    ./refresh_corpus_data_master.sh ../UD_Czech-PDT
+    <pre>./refresh_corpus_data_master.sh ../UD_Czech-PDT</pre>
 13. Regenerate the UD title page and push it to Github:
     <pre>make dan
 cd ../docs
