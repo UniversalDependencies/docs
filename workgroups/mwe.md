@@ -64,11 +64,11 @@ We propose:
 
 If a headless construction...
 
-1. has a permutable word order (and case B), we use **appos**.
-2. designates as a whole a proper noun, i.e. we would like to give it PROPN as POS, we use **`flat`**. A test could include whether the sentence remains grammatical if the construction is replaced by a single proper noun. Depending on the language, this might also include dates and addresses. This does by no means imply that all proper nouns, dates, or addresses should be `flat`. They should be `flat` if and only if they are also headless. Question: maybe include POS NOUN for oran utang?
+1. has a permutable word order (and case B), we use **appos**. <span style="color:blue">**Joakim:** This does not seem consistent with the v2 guidelines. The `appos` relation is currently restricted to the case of loose (or wide) apposition (as discussed below). This may be changed in future versions, although I would personally prefer subsuming all appositions under `nmod` (possibly with special subtypes). Under the current guidelines, `nmod` seems to be the best candidate here. </span>
+2. designates as a whole a proper noun, i.e. we would like to give it PROPN as POS, we use **`flat`**. A test could include whether the sentence remains grammatical if the construction is replaced by a single proper noun. Depending on the language, this might also include dates and addresses. This does by no means imply that all proper nouns, dates, or addresses should be `flat`. They should be `flat` if and only if they are also headless. Question: maybe include POS NOUN for oran utang? <span style="color:blue">**Joakim:** It seems a bit arbitrary to single out the name category and put (almost) all other headless constructions into `fixed`. What if they are not fixed expressions but productive constructions?</span>
 3. cannot be analyzed in any way by the annotator, we use **`flat`**.
 4. is in a foreign language known to the annotator, we use **`flat:foreign`** and add a language feature lang=xxx to each token. This does not imply that all foreign text segments should be `flat`. Firstly, if the annotator knows the structure, the structures are no longer headless and should be annotated. Secondly, if the construction is a proper noun that is used in the main language of the corpus, the word is not foreign. Hong Kong is `flat` but not foreign even if we don&#39;t know the internal structure in Cantonese ("Perfumed Harbor").
-5. Remaining headless constructions will be annotated with `fixed` relations.
+5. Remaining headless constructions will be annotated with `fixed` relations. <span style="color:blue">**Joakim:** As noted above, it seems wrong to me to use `fixed` unless the expression is really fixed. And what happened to the idea that `fixed` is only used for irregular constructions?</span>
 
 Thus, we obtain
 
@@ -90,10 +90,11 @@ Note that we do not have `fixed`:foreign which could be a worthwhile distinction
 
 Discussion of some putative `flat` constructions:
 
-- For "Louis XIV of France" it is clear that Louis is the head since he cannot be called XIV. The relation Louis → XIV should be appos, and not `flat`.
-- Equally, titles are appositive: "President ←appos- bama", "Milliardär ←appos- Ross -`flat`→ Perot", French ←`amod`- ctor ←appos-Gaspard  -`flat`→ Ulliel
+- For "Louis XIV of France" it is clear that Louis is the head since he cannot be called XIV. The relation Louis → XIV should be appos, and not `flat`. <span style="color:blue">**Joakim:** Why not `nummod`?</span>
+- Equally, titles are appositive: "President ←`appos`- Obama", "Milliardär ←`appos`- Ross -`flat`→ Perot", French ←`amod`- actor ←`appos`- Gaspard -`flat`→ Ulliel <span style="color:blue">**Joakim:** Use `nmod` instead of `appos`.</span>
 - "Natural Resources Conservation Service" is a named entity with a transparent syntactic analysis. Only `amod` and `compound` (for noun-noun) to be used here.
 - `flat` should not be used for "New York", which is syntactically transparent in English (`amod`). idem to be analyzed with the usual compositional structure: United Kingdom, North Dakota, Rhode Island, Victoria Lake, Croke Park (by means of `amod`, `compound`, etc). Idem for hyphened entities: Stratford-upon-Avon or Southend-on-Sea ? They are analyzed just as their counterpart without hyphens: "Newcastle upon Tyne". The hyphens are just to be attached as punct relations.
+<span style="color:blue">**Joakim:** I am willing to defend the use of `flat` for "New York". Neither "New" nor "York" can replace the whole, so it seems to satisfy the criterion. By contrast, `amod` implies an endocentric construction.</span>
 - For "Hillary Rodham Clinton", Rodham alone cannot be used alone to address this person, only Hillary Rodham. Thus Rodham should depend on Hillary but not with a `flat` relation, possibly appos is a better choice.
 - Dates such as "the 4th of July" have a transparent syntactic analysis. Equally "der 1. März 2018". "1 December 2016" however, seems headless because none of the components can replace the whole. Thus, `flat` seems like a good solution.
 - Idem for numbers such as "four thousands". These numbers might be more syntactically transparent in other languages and would receive a compositional analysis in that case.
@@ -106,6 +107,8 @@ How to handle Papua New Guinea, North Rhine-Westphalia, Provence-Alpes-Côtes d&
 Proposal: No `flat`: Papua &lt;`compound` Guinea, Rhine -`conj`&gt; Westphalia, Tamil &lt;`compound` Nadu (Tamil is a language and an English word), la Nouvelle-Orléans.
 
 ## `flat:foreign`
+
+<span style="color:blue">**Joakim:** This and the following two sections seem to presuppose conventions that are neither part of the current guidelines, nor described on this page, such as "MWEPOS=PROPN". This needs to be clarified. I think it will be much clearer if the section entitled `flat` is followed by a section entitled `fixed`. The intervening sections should either be marked as subsections of the `flat` section or marked elsewhere.</span>
 
 Discussion of some putative `flat:foreign` constructions:
 
@@ -121,7 +124,7 @@ the annotators have two choices for these named entities
 
 1. analyzing them internally. Then
 
-- OS and relations should be correct for the given language,
+- POS and relations should be correct for the given language,
 
 - the lang feature should be specified on each word,
 
