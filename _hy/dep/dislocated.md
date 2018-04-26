@@ -24,7 +24,8 @@ obj(փրկեք, Նրանց)
 appos(ծերերին, Նրանց)
 appos(elderly, Them)
 conj(երեխաներին,ծերերին)
-~~~ sdparse
+~~~ 
+~~~
 Ծերերին ու երեխաներին, նրանց փրկեք առաջինը ։ \n Elderly and and children save them first .
 obj(փրկեք, նրանց)
 dilocated(փրկեք, Ծերերին)
