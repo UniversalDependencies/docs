@@ -11,7 +11,7 @@ The dislocated elements attach to the same governor as the dependent that they d
 spoken languages.
 
 ~~~ sdparse
-Դա էլ հենց վատ է , որ ընտանիքներով են եկել : \n That is just bad, that they have come with families .
+Դա էլ հենց վատ է , որ ընտանիքներով են եկել : \n That is just bad , that they have come with families .
 dislocated(վատ, Դա)
 dislocated(bad, That)
 csubj(եկել, վատ)
