@@ -5,8 +5,10 @@ shortdef : 'dislocated elements'
 udver: '2'
 ---
 
-The dislocated relation is used for elements that have been displaced from its regular syntactic position, often to the front or back of
-the clause it resides within or of the whole sentence. This applies often to an argument of a clause that has been moved to the periphery for topic, focus, or similar types of effects. However, this relation is also used generally for topic elements that otherwise do not fulfill any core grammatical relation of a sentence. These elements may be separated off with a comma intonation.
+The `dislocated` relation is used for elements that have been displaced from its regular syntactic position, often to the front or back of the clause it resides within or of the whole sentence. This applies often to an argument of a clause that has been moved to the periphery for topic, focus, or similar types of effects.
+
+However, this relation is also used generally for topic elements that otherwise do not fulfill any core grammatical relation of a sentence. These elements may be separated off with a comma intonation.
+
 The dislocated elements attach to the same governor as the dependent that they double for. Right dislocated elements are frequent in
 spoken languages.
 
