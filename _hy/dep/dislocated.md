@@ -21,13 +21,16 @@ always described as a postposed construction:
 ~~~
 Նրանց՝ ծերերին ու երեխաներին փրկեք առաջինը ։ \n Them elderly and children save first .
 obj(փրկեք, Նրանց)
+obj(save, Them)
 appos(ծերերին, Նրանց)
 appos(elderly, Them)
 conj(երեխաներին,ծերերին)
+conj(children, elderly)
 ~~~ 
 ~~~
 Ծերերին ու երեխաներին, նրանց փրկեք առաջինը ։ \n Elderly and and children save them first .
 obj(փրկեք, նրանց)
+obj(save, them)
 dilocated(փրկեք, Ծերերին)
 dilocated(save, Elderly)
 conj(երեխաներին, Ծերերին)
