@@ -105,14 +105,6 @@ The ABC ( Australian Broadcasting Corporation )
 appos(ABC-2, Corporation-6)
 ~~~
 
-While `appos` is normally between two nominals, there are a few cases where there is a relation with a clause, 
-such as when describing facts or events for which `appos` still feels appropriate:
-
-~~~ sdparse
-This problem , that people could lower their tax rates by choosing to become corporations , might become acute .
-appos(problem-2, lower-7)
-~~~
-
 In the rare cases of more than one appositive nominal, all nouns should be marked as modifying the first noun, rather than being chained:
 
 ~~~ sdparse
