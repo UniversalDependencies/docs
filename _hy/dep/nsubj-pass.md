@@ -21,11 +21,3 @@ Syntactic subject of a reflexive passive clause:
 nsubj:pass(կախվեց, Նա)
 nsubj:pass(hung-himself, He)
 ~~~
-
-Syntactic subject of a reciprocal passive clause:
-
-~~~ sdparse
-Նրանք համբուրվեցին ։ \n They kissed-each-other .
-nsubj:pass(համբուրվեցին, Նրանք)
-nsubj:pass(kissed-each-other, They)
-~~~

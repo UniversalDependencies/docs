@@ -48,21 +48,23 @@ Participle is a non-finite verb form that shares properties of verbs and adjecti
 
 In Armenian linguistics, these words are normally called _converbs_. However, since the UD definition `Part` partially covers the use of converbs, we use the same label.
 
-Note, that the so called _negative participle_ is used to form negated periphrastic conditional forms. They will have the additional feature [Connegative]().
+Note, that the so called _negative participle_ is used to form negated periphrastic conditional forms. We mark them [Connegative]().
 
 Armenian has seven types of participles:
 
 - The resultative participle is used to form the indicative mood in present perfect resultative, imperfect in the past resultative and proper resultative tense. It can be also used adjectively and can be negated.
 - The subject participle can be used only adjectively and can be negated.
 - The imperfective participle is used to form the indicative mood in present or imperfect tense.
-- The future-I participle is used to form the indicative mood in present prospective (future) or imperfect prospective (future in the past) tense.
+- The future-I participle is used to form the indicative mood in present prospective (future) or imperfect prospective (future-in-the-past) tense.
 - The future-II (state of prospective action) participle can be used only adjectively and can be negated.
-- The perfect participle is used to form the indicative mood in present perfect or imperfect in the past (past perfect) tense.
+- The perfect participle is used to form the indicative mood in present perfect or imperfect-in-the-past (past perfect) tense.
 - The processual (progressive) participle is used to form the indicative mood in present or imperfect tense for the verbs _գալ, լալ, տալ_.
 
-Note, that the processual (progressive), resultative and future-I participles can be used to form the secondary complex tenses (in any tense or mood).
+Note that the processual (progressive), resultative and future-I participles can be used to form the secondary complex tenses (with the auxiliary _լինել_ in any tense or mood).
 
-Participles will have also [Aspect]() and [Voice]().
+Note also that resultative, subject and future-II participles, that fall in the gray zone between adjectives and participles and can be also used adjectively, are marked `Part` too.
+
+Participles will have [Aspect](), [Voice]() and [Subcat]().
 
 #### Examples
 
@@ -71,7 +73,7 @@ Participles will have also [Aspect]() and [Voice]().
 * _սիրում, խոսվում, բարձրացվում_ &nbsp;“love; smth. to be speaking about; beeing raised” (imperfective participle, in different voices),
 * _տեսնելու, լվացվելու, մեղմացվելու_ &nbsp;“for seeing, for washing, for beeing extenuated” (future-I participle, in different voices),
 * _կարդալիք, կառուցվելիք_ &nbsp;“(smth.) to be read, to be built” (future-II participle, in different voices),
-* _գնացել, խմել, դրել_ &nbsp;“have done, have drunk, have put” (perfect participle),
+* _գնացել, խմել, դրել_ &nbsp;“have done, have drunk, have put” (perfect participle, in different voices),
 * _<b>գալիս</b> եմ/էի, <b>տալիս</b> եմ/էի, <b>լալիս</b> եմ/էի, <b>աշխատելիս</b> է եղել_ &nbsp;“I am/was <b>coming</b>, I am/was <b>giving</b>, I am/was <b>crying</b>, he has been <b>working</b>” (processual participle in different moods and tenses)
 
 ### <a name="Conv">`Conv`</a>: converb, adverbial participle
@@ -89,14 +91,14 @@ Verbs form transgressive meaning “while doing”.
 
 ### <a name="Gdv">`Gdv`</a>: gerundive
 
-Gerundive in Armenian is a non-finite verb form that shares properties of verbs and nouns. They inflect for [Case](), [Definite](), [Number[psor]]() and [Person[psor]]().
+Gerundive in Armenian is a non-finite verb form that shares properties of verbs and nouns. They inflect for [Case](), [Definite](), [Number](), [Number[psor]]() and [Person[psor]]().
 
 Not to confuse with gerund.
 
 #### Examples
 
 * _<b>սպանվելու</b> միտքը ծանր էր_ &nbsp;“lit: the thought <b>of to be killed</b> was hard”,
-* _սովոր էր մենակ <b>ծննդաբերելուն</b>_ &nbsp;“lit: <b></b>”,
+* _սովոր էր մենակ <b>ծննդաբերելուն</b>_ &nbsp;“lit: she get used to <b>give birth</b> alone”,
 * _<b>մտնելուց</b> հետո_ &nbsp;“after <b>entering</b>”,
-* _մոտեցավ <b>վազելով</b>_ &nbsp;“lit: <b></b>”,
-* _<b>ճառելում</b> նա հմուտ էր_ &nbsp;“lit: <b></b>”
+* _մոտեցավ <b>վազելով</b>_ &nbsp;“lit: he came up <b>running</b>”,
+* _<b>ճառելում</b> նա հմուտ էր_ &nbsp;“lit: he was skillful <b>in telling speeches</b>”

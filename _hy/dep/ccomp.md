@@ -46,3 +46,5 @@ The key difference here is that, while it is possible to interpret the first
 sentence to mean that the boss will not be doing any digging, in the second
 sentence it is clear that the subject of __digging__ can only be __we__. This is
 what distinguishes `ccomp` and `xcomp`.
+
+Note: Complement clauses with pronouns like _բանն այն է, որ_ “fact is that” we analyze as [acl](). Hence, `ccomp` does not appear in nominals. This makes sense, since nominals normally do not take core arguments.

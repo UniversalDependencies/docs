@@ -8,4 +8,5 @@ udver: '2'
 
 # Features
 
-{% include bm-feat-table.html %}
+<!-- the file does not exist
+ include bm-feat-table.html -->

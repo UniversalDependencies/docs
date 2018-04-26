@@ -21,7 +21,7 @@ udver: '2'
 Classification of named entities (token-based, no nesting of entities etc.)
 The feature applies mainly to the [PROPN]() tag;
 in multi-word foreign names, [adjectives](ADJ) may also have this feature
-(they preserve the `ADJ`).
+(they preserve the `ADJ` tag but at the same time they would not exist in Armenian otherwise than in the named entity).
 
 ### <a name="Geo">`Geo`</a>: geographical name
 
@@ -29,13 +29,13 @@ Names of cities, countries, rivers, mountains etc.
 
 #### Examples
 
-* _<b>Երևան, ՀՀ, Եվրոպա, Գերմանիա</b>&nbsp;_ “Yerevan, RA, Europe, Germany”
+* _<b>Երևան, ՀՀ, Եվրոպա, Գերմանիա, Վանա, Սևանա</b>&nbsp;_ “Yerevan, RA, Europe, Germany, ov Van, of Sevan”
 
 ### <a name="Prs">`Prs`</a>: name of person
 
 This value is used if it is not known whether it is a given or a family name, but it is known that it is a personal name. We used this value for pseudonyms, nicknames, pen-names, etc. 
 
-* _<b>Բենեդիկտոս, Րաֆֆի, Նար-Դոս, Գամառ-Քատիպա, Քաչալ</b>&nbsp;_ “Benedictus, Raffi, Nar-Dos, Gamar-Katipa, Kachal (skinhead)”
+* _<b>Նար-Դոս, Գամառ-Քատիպա, Քաչալ</b>&nbsp;_ “Nar-Dos, Gamar-Katipa, Kachal (skinhead)”
 
 ### <a name="Giv">`Giv`</a>: given name of person
 

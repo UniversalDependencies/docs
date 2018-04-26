@@ -130,6 +130,7 @@ In order to achieve a consistent treatment of nonverbal predication in v2, we fi
 
 1. Equation (aka identification): “she is my mother”
 2. Attribution: “she is nice”
+   2.1. Quantification: “they are two”
 3. Location: “she is in the bathroom”
 4. Possession: “the book is hers”
 5. Benefaction: “the book is for her”

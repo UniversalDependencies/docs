@@ -5,8 +5,8 @@ shortdef: 'copula'
 udver: '2'
 ---
 
-A copula is the relation between the nominal predicate _(ստորոգելիական վերադիր)_ and
-the copular verb _<b>եմ</b>,_ “to be” (or its variants (with separate lemma) _լինել_). The verbs _դառնալ, թվալ, երևալ, ձևանալ, մնալ, հաշվել_ etc. “to become”, despite being counted among copular verbs by some authors,
+A copula is the relation between the nominal predicate _(ստորոգելի)_ and
+the copular verb _<b>եմ</b>,_ “to be” (or its variants with separate lemma _լինել_). The verbs _դառնալ, թվալ, երևալ, ձևանալ, մնալ, հաշվել_ etc. “to become”, despite being counted among copular verbs by some authors (_վերադրառու բայեր, ստորոգելիական վերադիր_),
 are not analyzed as `cop`.
 
 We normally take a copula as a dependent of its complement (the nominal predicate).
@@ -32,6 +32,14 @@ cop(late, It-was)
 ~~~
 
 ~~~ sdparse
+Մեղավորը ես եմ ։ \n I am the-sinner .
+cop(ես, եմ)
+cop(I, am)
+~~~
+
+If the copula is accompanied by other verbal auxiliaries for tense, aspect, etc., then they are also given a flat structure, and taken as dependents of the lexical predicate:
+
+~~~ sdparse
 Ժամանակին նա մեծ բանաստեղծ է եղել ։ \n He has been a-great poet long-time-ago . 
 cop(բանաստեղծ, է)
 cop(poet, been)
@@ -47,7 +55,7 @@ cop(հարբեցող, է)
 cop(a-drunkard, is)
 ~~~
 
-The nominal predicate may also be expressed using a prepositional phrase.
+The nominal predicate may also be expressed using a prepositional phrase, in which the nominal part is the head of the clause.
 
 ~~~ sdparse
 Նվերը տուփի մեջ է ։ \n The-present is in the-box .
@@ -104,7 +112,7 @@ det:poss(սենյակում, իմ)
 det:poss(room.Loc, in-my)
 ~~~
 
-Note, that there is variation for existential constructions with existential verb _կամ_ “be, exist” (see also [AUX](hy-pos/AUX_)):
+Note, that there is variation for existential constructions with existential verb _կամ_ “be, exist” (see also [AUX]()):
 
 ~~~ sdparse
 Սեղանի վրա գիրք կա ։ \n There-is a-book on the-table .

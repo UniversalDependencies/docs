@@ -58,3 +58,50 @@ advcl(I-write, promised)
 xcomp(Խոստացել, գրել)
 xcomp(Promised, to-write)
 ~~~
+
+### Secondary Predicates
+
+The `xcomp` relation is also used in constructions that are known as _secondary predicates_ or _predicatives_.
+Examples:
+
+* _Նա որոշումը մտահոգիչ համարեց։_ “She declared the decision worrying.”
+* _Նա որոշումը հաջողություն համարեց։_ “She declared the decision a success.”
+
+We could paraphrase the sentence using a subordinate clause: _She declared that the decision was worrying._
+There are two predicates mixed in one clause: 1. she declared something, and 2. the decision was worrying (according to her opinion).
+The secondary predicate will be attached to the main predicate as an `xcomp`:
+
+~~~ sdparse
+Նա որոշումը մտահոգիչ համարեց ։ \n She declared the-decision worrying .
+nsubj(համարեց, Նա)
+nsubj(declared, She)
+obj(համարեց, որոշումը)
+obj(declared, the-decision)
+xcomp(համարեց, մտահոգիչ)
+xcomp(declared, worrying)
+~~~
+
+In the enhanced representation, there is an additional subject link showing the secondary predication:
+
+~~~ sdparse
+Նա որոշումը մտահոգիչ համարեց ։ \n She declared the-decision worrying .
+nsubj(համարեց, Նա)
+nsubj(declared, She)
+obj(համարեց, որոշումը)
+obj(declared, the-decision)
+xcomp(համարեց, մտահոգիչ)
+xcomp(declared, worrying)
+nsubj(մտահոգիչ, որոշումը)
+nsubj(worrying, the-decision)
+~~~
+
+Remember that `xcomp` is used for core arguments of clausal predicates
+so it will not be used for other instances of secondary predication.
+For instance, in _Նա մոլոր մտավ սենյակ_ “She entered the room errant” we also have a double predication
+(she entered the room; she was errant).
+But _մոլոր_ “errant” is not a core argument of _մտնել_ “enter”: leaving it out will neither affect grammaticality
+nor significantly alter the meaning of the verb.
+On the other hand, leaving out _մտահոգիչ_ “worrying” in _նա որոշումը մտահոգիչ համարեց_ “she declared the decision worrying”
+will either render the sentence ungrammatical or lead to a different interpretation of _համարեց_ “declared.”
+
+The result is that in _Նա մոլոր մտավ սենյակ,_ “She entered the room errant”, _մոլոր_ “errant” will depend on _Նա_ “She” and the relation will be [acl]() instead of `xcomp`.

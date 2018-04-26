@@ -52,6 +52,8 @@ collections:
     output: true
   bg:
     output: true
+  bm:
+    output: true
   ca:
     output: true
   ckb:
@@ -164,6 +166,8 @@ collections:
   pbv:
     output: true
   lv:
+    output: true
+  shp:
     output: true
 # End of language collections (do not remove this comment, addlanguage.sh looks for it)
 

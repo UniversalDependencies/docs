@@ -34,7 +34,7 @@ compound(երկար, բարակ)
 compound(long, thin)
 ~~~
 
-- for fraction or range [numbers](NumType)—contrast with [flat]().
+- for fraction and range [numbers](NumType) in contrast with [flat](). The leftmost numeral is the head, the other numerals are attached as its modifiers:
 
 ~~~ sdparse
 երեք քառորդ բաժին հաց \n three quarters pieces of-bread

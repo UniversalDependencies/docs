@@ -21,7 +21,7 @@ acl(the-city, called)
 
 This relation is also used for optional depictives.
 The adjective is taken to modify the nominal of which it provides a secondary predication.
-See [u-dep/xcomp]() for further discussion.
+See [xcomp]() for further discussion.
 
 ~~~ sdparse
 Նա մոլոր մտավ սենյակ : \n He entered the room errant .
@@ -41,6 +41,7 @@ These look roughly like relative clauses, but do not have any omitted role in th
 These are also analyzed as `acl`.
 
 ~~~ sdparse
-Բանն այն է , որ նա չի գալու . \n
+Բանն այն է , որ նա չի գալու ։ \n The_fact it is , that he will-not came . 
 acl(այն, գալու)
+acl(it, came)
 ~~~

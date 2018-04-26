@@ -1,13 +1,13 @@
 ---
 layout: relation
 title: 'obl'
-shortdef: 'oblique argument or adjunct'
+shortdef: 'oblique nominal'
 udver: '2'
 ---
 
 The `obl` relation is used for a nominal (noun, pronoun, noun phrase) functioning as a non-core (oblique) argument or adjunct. This means that it functionally corresponds to an adverbial attaching to a verb, adjective or other adverb.
 
-The obl relation can be further specified by the case. In conjunction with the [case]() relation, it provides a uniform analysis for:
+The `obl` relation can be further specified by the case. In conjunction with the [case]() relation, it provides a uniform analysis for:
 
 * variant forms with case:
 
