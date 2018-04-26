@@ -31,3 +31,4 @@ dilocated(փրկեք, Ծերերին)
 dilocated(save, Elderly)
 conj(երեխաներին, Ծերերին)
 conj(children, Elderly)
+~~~
