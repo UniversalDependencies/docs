@@ -184,15 +184,16 @@ the Sun `flat`&gt; Yat-Sen &lt;`compound` University
 
 It concerns mainly complex prepositions, complementizers and determiners.
 
-Currently this relation is used too extensively because many of these function words are actually syntactically transparent such as "on top of", "top of the range"
+Currently this relation is used too extensively because many of these function words are actually syntactically transparent such as "on top of", "top of the range". <span style="color:blue">**Joakim:** As noted above, they may be syntactically transparent but they are nevertheless irregular in that they lack articles.</span>
 
 Three main changes:
 
-- If the expression is syntactically transparent, `fixed` should no longer be used.
+- If the expression is syntactically transparent, `fixed` should no longer be used. <span style="color:blue">**Joakim:** This needs to be made more precise. Is transparent the same as regular (see comments above)=</span>
 - Prepositions that are in the valency of a governing expression are never considered as part of the governing expression.
-- To cover all cases in different languages, we simply reserve `fixed` for all headless constructions that are not permutable, understandable for the annotator, not foreign, and do not form a PROPN or NOUN.
+<span style="color:blue">**Joakim:** I don't understand what this means. It sounds like you are saying that "on" in "I depend on you" should not be part of "depend", which seems correct but not directly relevant to this topic. Please help me.</span>
+- To cover all cases in different languages, we simply reserve `fixed` for all headless constructions that are not permutable, understandable for the annotator, not foreign, and do not form a PROPN or NOUN. <span style="color:blue">**Joakim:** This seems much more permissive than the other changes and seems to imply that also regular constructions can be annotated with `fixed`. I don't see how this is going to help consistency or reduce the number of constructions that are annotated with `fixed` (which I also think we should do).</span>
 
-If we regularize an existing `fixed` MWE, we use the same dual MWEPOS/INMWE feature encoding, introduced above for `fixed`, to keep the information of the extent of the MWE in the treebank (excluding the case/preposition sub-categorization)
+If we regularize an existing `fixed` MWE, we use the same dual MWEPOS/INMWE feature encoding, introduced above for `fixed`, to keep the information of the extent of the MWE in the treebank (excluding the case/preposition sub-categorization). <span style="color:blue">**Joakim:** Again, note that this is not available in v2.</span>
 
 Currently, in many languages, many of the multi-word prepositions and determiners that form semantic units are already annotated compositionally, often with the noun as the head. For example
 
@@ -215,7 +216,7 @@ And no longer should be analyzed as `fixed`:
 
 ## `compound`:
 
-Compound should be used for very cohesive regular constructions that are neighboring morphology. Cohesive means that the meaning is often non-compositional although the construction remains productive.
+Compound should be used for very cohesive regular constructions that are neighboring morphology. Cohesive means that the meaning is often non-compositional although the construction remains productive. <span style="color:blue">**Joakim:** I think I basically agree with this point, but I would prefer morphosyntactic criteria rather than semantic.</span>
 
 Currently it is used for regular systems of "compounding" in different languages
 
@@ -237,13 +238,13 @@ Question: Even Lake Michigan, Mount Rushmore, Fort Alamo should be a left-to-rig
 
 _This paragraph briefly records some of the arguments that have been made in the past on relations for name structure. It is an issue over which there has historically been variation and about which there is some continuing debate._ Examples like _French actor Gaspard Ulliel:_ Some treebanks have used `nmod` for titles and honorifics like _Mr._ or _French actor_. Most people think this is inappropriate, since an `nmod` dependent should be a full phrase, which will typically take its own case as a modifier in a cased language. In contrast, these titles seem to be part of the same phrase as the name that follows them; they show case agreement concord in a cased language.
 
-**Answer: This argument would imply that all languages use `nmod` only where the modifier is a complete sentence. This would make the very productive noun-noun compounds in French impossible to analyze:**
+**Answer: This argument would imply that all languages use `nmod` only where the modifier is a complete noun phrase. This would make the very productive noun-noun compounds in French impossible to analyze:** <span style="color:blue">**Joakim:** I agree, there is nothing in the guidelines to suggest that an `nmod` needs to be a complete noun phrase.</span>
 
 **Imprimante →? laser; accès → handicapés; espace → fumeur**
 
 Some grammatical traditions, descending from Latin, call _French actor_ in such cases a "`fixed` (or close) apposition" and take the name as the head. UD has restricted the appos relation to following appositives (corresponding to "loose (or wide) apposition" in the Latin tradition). The relation appos is only used when you have two full nominals, typically joined loosely, and often separated by a punctuation mark like a comma. So appos is not correct for these cases. Sometimes the relation `compound` has been used, but this does not seem right. It implies headedness, and titles do not usually behave like compounds: in German, they are not joined to the following words, as compounds are normally joined in German, and they appear at the beginning of names in both German and Hebrew, even though German compounds are head last and Hebrew compounds are head first.
 
-**Answer: Is this an argument based on spelling conventions?**
+**Answer: Is this an argument based on spelling conventions?** <span style="color:blue">**Joakim:** No. The restrictive use of the `appos` relation is certainly a point worth discussing, but I would say we have to live with it in v2 and use `nmod` for the other cases.</span>
 
 So `compound` does not seem appropriate either.
 
