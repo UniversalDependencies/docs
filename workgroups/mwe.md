@@ -6,6 +6,8 @@ udver: '2'
 
 # Working Group on Multiword Expressions
 
+**This page was created by Kim Gerdes. Comments have been added by <span style="color:blue">Joakim:</span> and <span style="color:red">Nathan</span>. 
+
 ## MWE in UD
 
 The purpose of this page is to serve as a basis for discussion for the improvement of multi-word annotation in UD.
@@ -253,6 +255,8 @@ So `compound` does not seem appropriate either.
 Some UDv1 treebanks used `flat` for honorifics like _Mr._, although some felt that was wrong and `flat` should be restricted to joining the proper nouns of multi-word names. In UDv2, `flat` was removed and replaced by `flat`, which allowed a broader notion of a chunk of unheaded material. In the UDv2 guidelines, cases of both titles and honorifics are joined to names with `flat`.
 
 ## Work program of the MWE group
+
+<span style="color:blue">**Joakim:** It is not clear how this and the next section relates to the material above. One question is whether our work should start from (a refined version of) the plan below or from the tentative proposals above. Perhaps it needs to be a continuation of the two.</span>
 
 Issues to address, priorities
 
