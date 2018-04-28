@@ -186,6 +186,8 @@ the Sun `flat`&gt; Yat-Sen &lt;`compound` University
 
 It concerns mainly complex prepositions, complementizers and determiners.
 
+<span style="color:red">**Nathan:** Another set of constructions worth discussing, at least for English, are what Quirk et al. call "quasi-modals": "used to" (habitual past), "about to" (prospective), "have to" (= must), "be going to" (future), etc. It looks like the infinitive marker *to* is attached to the infinitive verb as usual, which is fine, but it's interesting that *have*, *used*, *be going*, and *about* are idiosyncratic in different morphosyntactic ways, and it's not even clear what the right POS is for *about*.</span>
+
 Currently this relation is used too extensively because many of these function words are actually syntactically transparent such as "on top of", "top of the range". <span style="color:blue">**Joakim:** As noted above, they may be syntactically transparent but they are nevertheless irregular in that they lack articles.</span>
 
 Three main changes:
