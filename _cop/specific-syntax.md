@@ -106,3 +106,19 @@ acl(ⲙⲏⲙⲟⲟⲩ,ϣⲟϣⲟⲩ)
 advcl(ϣⲟϣⲟⲩ,ⲏⲣⲡ)
 mark(ⲏⲣⲡ,ϩⲱⲥ)
 ~~~
+
+## ⲁϩⲣⲟ as the source of a clausal complement (ccomp)
+
+The interrogative pronoun ⲁϩⲣⲟ 'why' can be the source of a clausal complement with 'ccomp' pointing to the subordinate clause predicate
+
+Example from Corinthians 4:7:
+
+~~~ sdparse
+ⲁϩⲣⲟ/VBD ⲕ/PPERS ⲕ/PPERS ϣⲟⲩϣⲟⲩ/V ⲙⲙⲟ/PREP ⲕ/PPERO ϩⲱⲥ/CONJ ⲉ/CFOC ⲙⲡ/ANEGPST ⲕ/PPERS ϫⲓ/V \n why do you boast
+as if you had not received it?
+
+ccomp(ⲁϩⲣⲟ, ϣⲟⲩϣⲟⲩ)
+advcl(ϣⲟⲩϣⲟⲩ, ϫⲓ)
+nsubj(ⲁϩⲣⲟ,ⲕ)
+
+~~~
