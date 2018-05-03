@@ -6,6 +6,14 @@ udver: '2'
 
 # Working Group on Core Arguments
 
+Most of this chapter focuses on arguments of [verbs](/u/pos/VERB.html).
+Some similar patterns of other parts of speech are discussed [at the end of the chapter](#can-adjectives-have-core-arguments).
+
+Most of this chapter assumes that the arguments are [nominal](/u/pos/NOUN.html) phrases.
+Arguments realized as clauses are discussed [at the end of the chapter](#clausal-complements).
+
+<span style='color:red'>TO DO: write most of the chapter :-)</span>
+
 ## Can Adjectives Have Core Arguments?
 
 Under certain circumstances, yes.
