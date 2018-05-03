@@ -133,3 +133,46 @@ preposition _of_) but the relation is neither `obj` nor `obl`; it is `nmod`:
 7	.	.	PUNCT	_	_	6	punct	_	_
 
 ~~~
+
+
+
+## Clausal Complements
+
+So far we were dealing with nominal arguments. But sometimes an argument is realized
+as a clause. If it occurs in subject position, it is labeled as [clausal subject](/u/dep/csubj.html).
+
+<span style='color:red'>TO DO: What does “subject position” mean in free word order languages?
+What other subject properties can be tested with clauses?</span>
+
+Otherwise it may be a [clausal complement](/u/dep/ccomp.html).
+Unfortunately, the term is somewhat misleading. UD does not distinguish arguments from adjuncts
+(in other words, complements from modifiers), at least not at the universal level.
+What it does distinguish is core arguments from oblique arguments + adjuncts.
+It is thus not sufficient that the clause fills a slot defined by the valency of the matrix verb,
+i.e., that it is in some sense obligatory. We must require more. We must require that the clause
+corresponds to a core argument, that is, `obj` (or `iobj`, at least in theory).
+If it corresponds only to an oblique
+argument (or an adjunct), it should be labeled as [adverbial clause](/u/dep/advcl.html).
+Consequently, clausal complements can depend on verbs but not on adjectives or adverbs
+because the latter two normally do not have core objects.
+If an adjective or adverb is modified by a clause, that clause must be `advcl`.
+Even if it fills an obligatory slot in the adjective/adverb's valency frame.
+(Analogically, if a clause complements a noun, it must be labeled as [adnominal clause](/u/dep/acl.html).)
+
+Even clauses that alternate with direct nominal objects (and thus are labeled `ccomp`)
+often do not work the same way as their nominal counterparts. For instance, English
+direct objects can be passivized, as in:
+
+* _Tell me the secret._
+* _The secret will be told._
+
+However, a clausal complement of the same verb does not passivize the same way.
+It needs an expletive subject instead:
+
+* _Tell me that you will come._
+* _It will be told that you will come._
+
+Note that UD does not distinguish direct and indirect clausal complements.
+At present it is assumed that `ccomp` alternates with `obj` (direct object).
+
+<span style='color:red'>TO DO: Find Polish LFG examples where there are two ccomps in one sentence, one corresponding to obj and the other to iobj.</span>
