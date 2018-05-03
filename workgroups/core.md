@@ -45,3 +45,18 @@ do not have subjects.
 Related issues:
 
 * [#308 Tough adjectives](https://github.com/UniversalDependencies/docs/issues/308)
+
+
+
+## Can Adverbs Have Core Arguments?
+
+Under certain circumstances, yes.
+[Converbs](/u/feat/VerbForm.html#Conv)
+may be tagged as either [verbs](/u/pos/VERB.html) or [adverbs](/u/pos/ADV.html).
+In both cases they retain certain features that are normally associated with
+verbs. If a converb is derived from a transitive verb and tagged `ADV`,
+we have an adverb with [object](/u/dep/obj.html).
+
+Being non-finite forms, converbs do not have subjects.
+
+There are currently no examples of adverbs that are not converbs and have objects.
