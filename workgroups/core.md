@@ -174,13 +174,15 @@ often do not work the same way as their nominal counterparts. For instance, Engl
 direct objects can be passivized, as in:
 
 * _Tell me the secret._
-* _The secret will be told._
+* _The secret will be told (to me)._
+* _I will be told the secret._
 
 However, a clausal complement of the same verb does not passivize the same way.
 It needs an expletive subject instead:
 
 * _Tell me that you will come._
-* _It will be told that you will come._
+* _It will be told (to me) that you will come._
+* _I will be told that you will come._
 
 Note that UD does not distinguish direct and indirect clausal complements.
 At present it is assumed that `ccomp` alternates with `obj` (direct object).
