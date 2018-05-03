@@ -71,7 +71,16 @@ with a copula. Then it usually has a subject child ([nsubj](/u/dep/nsubj.html) o
 [csubj](/u/dep/csubj.html)).
 
 [en] _John is a teacher._
-`nsubj(teacher, John)`
+
+~~~ conllu
+# text = John is a teacher.
+1	John	John	PROPN	_	Number=Sing	4	nsubj	_	_
+2	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	a	a	DET	_	Definite=Ind|PronType=Art	4	det	_	_
+4	teacher	teacher	NOUN	_	Number=Sing	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+~~~
 
 In this case, the subject _John_ is not part of the same nominal phrase as _teacher_.
 It is the subject of the entire clause, whose predicate is _teacher_.
