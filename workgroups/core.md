@@ -102,7 +102,7 @@ preposition _of_) but the relation is neither `obj` nor `obl`; it is `nmod`:
 2	of	of	ADP	_	_	4	case	_	_
 3	any	any	DET	_	PronType=Ind	4	det	_	_
 4	action	action	NOUN	_	Number=Sing	1	nmod	_	_
-5	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
+5	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	_
 6	prohibited	prohibit	VERB	_	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	6	punct	_	_
 
