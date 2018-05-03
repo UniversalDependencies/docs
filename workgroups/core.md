@@ -60,3 +60,30 @@ we have an adverb with [object](/u/dep/obj.html).
 Being non-finite forms, converbs do not have subjects.
 
 There are currently no examples of adverbs that are not converbs and have objects.
+
+
+
+## Can Nouns Have Core Arguments?
+
+No, with one exception.
+The noun may be used as a non-verbal predicate, possibly
+with a copula. Then it usually has a subject child ([nsubj](/u/dep/nsubj.html) or
+[csubj](/u/dep/csubj.html)).
+
+[en] _John is a teacher._
+`nsubj(teacher, John)`
+
+In this case, the subject _John_ is not part of the same nominal phrase as _teacher_.
+It is the subject of the entire clause, whose predicate is _teacher_.
+
+UD makes a clear distinction between modifiers of a nominal on one side,
+and everything else on the other side. Even [verbal nouns](/u/feat/VerbForm.html#Vnoun),
+if they are tagged `NOUN` and not `VERB`, must have their modifiers attached via
+relations reserved for modifiers of nouns.
+
+For example, in [en] _to take action_, _action_ is an object of _to take_ (`obj(take, action)`).
+If the phrase is nominalized, the coding of the argument becomes oblique (requiring the
+preposition _of_) but the relation is neither `obj` nor `obl`; it is `nmod`:
+
+[en] _Taking of any action is prohibited._
+`nmod(Taking, action)`
