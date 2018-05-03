@@ -14,6 +14,8 @@ Arguments realized as clauses are discussed [at the end of the chapter](#clausal
 
 <span style='color:red'>TO DO: write most of the chapter :-)</span>
 
+
+
 ## Can Adjectives Have Core Arguments?
 
 Under certain circumstances, yes.
@@ -59,6 +61,22 @@ Related issues:
 ## Can Adverbs Have Core Arguments?
 
 Under certain circumstances, yes.
+One possibility is that the adverb is used as a non-verbal predicate (typically indicating a location), possibly
+with a copula. Then it usually has a subject child ([nsubj](/u/dep/nsubj.html) or
+[csubj](/u/dep/csubj.html)).
+
+[en] _We can be outside._
+
+~~~ conllu
+# text = We can be outside.
+1	We	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	_
+2	can	can	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	be	be	AUX	_	VerbForm=Inf	4	cop	_	_
+4	outside	outside	ADV	_	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	_
+
+~~~
+
 [Converbs](/u/feat/VerbForm.html#Conv)
 may be tagged as either [verbs](/u/pos/VERB.html) or [adverbs](/u/pos/ADV.html).
 In both cases they retain certain features that are normally associated with
