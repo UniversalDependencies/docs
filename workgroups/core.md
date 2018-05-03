@@ -24,7 +24,19 @@ with a copula. Then it usually has a subject child ([nsubj](/u/dep/nsubj.html) o
 [csubj](/u/dep/csubj.html)).
 
 [en] _Mary has been very kind to us._
-`nsubj(kind, Mary)`
+
+~~~ conllu
+# text = Mary has been very kind to us.
+1	Mary	Mary	PROPN	_	Number=Sing	5	nsubj	_	_
+2	has	have	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+3	been	be	AUX	_	Tense=Past|VerbForm=Part	5	cop	_	_
+4	very	very	ADV	_	_	5	advmod	_	_
+5	kind	kind	ADJ	_	_	0	root	_	_
+6	to	to	ADP	_	_	7	case	_	_
+7	us	we	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	5	obl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+~~~
 
 [Participles](/u/feat/VerbForm.html#Part)
 may be tagged as either [verbs](/u/pos/VERB.html) or [adjectives](/u/pos/ADJ.html).
@@ -34,8 +46,20 @@ we have an adjective with [object](/u/dep/obj.html):
 
 [cs] _Řidič opravující auto musí mít reflexní vestu._
 “A driver repairing a car must wear a reflective vest.”
-`amod(Řidič, opravující)`
-`obj(opravující, auto)`
+
+~~~ conllu
+# text = Řidič opravující auto musí mít reflexní vestu.
+# text_en = A driver repairing a car must wear a reflective vest.
+1	Řidič	řidič	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	Gloss=driver
+2	opravující	opravující	ADJ	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	1	amod	_	Gloss=repairing
+3	auto	auto	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	Gloss=car
+4	musí	muset	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=must
+5	mít	mít	VERB	_	VerbForm=Inf	4	xcomp	_	Gloss=have
+6	reflexní	reflexní	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	7	amod	_	Gloss=reflective
+7	vestu	vesta	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	Gloss=vest|SpaceAfter=No
+8	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+~~~
 
 It is unusual for a non-participial adjective to have a core object. One English
 example is _worth_, as in
