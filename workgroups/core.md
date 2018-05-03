@@ -41,7 +41,17 @@ It is unusual for a non-participial adjective to have a core object. One English
 example is _worth_, as in
 
 [en] _It is worth $10._
-`obj(worth, $10)`
+
+~~~ conllu
+# text = It is worth $10.
+1	It	it	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+2	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	worth	worth	ADJ	_	_	0	root	_	_
+4	$	$	SYM	_	_	3	obj	_	SpaceAfter=No
+5	10	10	NUM	_	_	4	nummod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	_
+
+~~~
 
 (At least this analysis occurs in UD English EWT 2.2. The putative object resembles
 objects of verbs in that it is obligatory and it is a bare nominal, without
