@@ -96,7 +96,7 @@ duration:
 
 In an unmarked declarative sentence, the core argument preceding the verb is
 the subject, and if there is another core argument following the verb, it is
-the object. A finite verb agrees in number with its subject:
+the object. A finite verb agrees in person and number with its subject:
 
 * _The boy eats one apple._
 * _The boy eats many apples._
