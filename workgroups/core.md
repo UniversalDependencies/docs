@@ -129,6 +129,38 @@ Therefore, durational temporal adjuncts have to be stated as an exception,
 and this is the one case where the argument/adjunct distinction cannot be
 avoided in UD.
 
+Some English verbs allow two objects (i.e., two core arguments following
+the verb):
+
+* _Peter gave Kate a book._
+* _Tom teaches me mathematics._
+
+The traditional approach outside UD is to call the first object _indirect_
+and the second object _direct;_ it is often defined in terms of semantic
+roles, saying that the recipient is the indirect object. UD avoids referring
+to semantic roles and says instead that [indirect object](/u/dep/iobj.html)
+is a core argument of the verb that is not its subject or direct [object](/u/dep/obj.html);
+the (direct) object is then defined as “the second most core argument of a verb after the subject.”
+In the above examples, the recipient _(Kate, me)_ is arguably more core than
+the theme _(book, mathematics)_ because the recipient can be promoted in
+passivization while the theme cannot:
+
+* _Kate was given a book by Peter. (*A book was given Kate by Peter.)_
+* _I am taught mathematics by Tom. (*Mathematics is taught me by Tom.)_
+
+The second object can be promoted only if both the subject and the first object
+are recoded as oblique arguments (in the case of _to give_) or the first object
+is removed (in the case of _to teach_):
+
+* _A book was given by Peter to Kate._
+* _Mathematics is taught by Tom. (*Mathematics is taught by Tom to me.)_
+
+Therefore, the UD v2 guidelines actually require that the second object
+is labeled `iobj`. Yet in the current English data (UD 2.1), it is still
+the first object that is labeled `iobj`, and the second object is `obj`.
+This has to be resolved by either modifying the guidelines, or the data
+(diverging from what people traditionally understand under indirect object).
+
 
 
 ## Can Adjectives Have Core Arguments?
