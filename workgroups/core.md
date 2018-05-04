@@ -297,6 +297,25 @@ If the arguments are realized as personal pronouns, the subject is in the
 nominative form _(yo, tú, él, nosotros, vosotros, ellos)_ and the object is in the accusative
 _(me, te, le, nos, os, les)._ Nouns do not inflect for case in Spanish.
 
+If both core arguments are present and if they are realized as full noun
+phrases, the prototypical word order is the same as in English: the subject
+precedes the verb and the object follows it. However, if the object is realized
+as a pronominal clitic (and if the verb is finite indicative), the object
+precedes the verb.
+
+* _El hombre lo bebe._ “The man drinks it.”
+
+~~~ conllu
+# text = El hombre lo bebe.
+# text_en = The man drinks it.
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Gloss=the
+2	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	Gloss=man
+3	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	obj	_	Gloss=it
+4	bebe	beber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=drinks|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+~~~
+
 Transitive clauses (those that have an object) can be passivized.
 
 * _El vino es bebido por los hombres._ “The wine is drunk by the men.”
@@ -321,8 +340,8 @@ adjuncts. Bare nominal adjuncts are rare, the exception being durational
 temporal adjuncts. In contrast, the preposition _a_ can be used with various
 directional and temporal adjuncts.
 
-* Él trabaja toda la semana. “He works the whole week.”
-* Subiremos al tren a las cinco. “We will be boarding the train at five.”
+* _Él trabaja toda la semana._ “He works the whole week.”
+* _Subiremos al tren a las cinco._ “We will be boarding the train at five.”
 
 ~~~ conllu
 # text = Él trabaja toda la semana.
