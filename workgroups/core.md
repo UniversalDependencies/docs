@@ -109,7 +109,8 @@ the object. A finite verb agrees in person and number with its subject:
 2	boy	boy	NOUN	_	Number=Sing	3	nsubj	_	_
 3	eats	eat	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	one	one	NUM	_	_	5	nummod	_	_
-5	apple	apple	NOUN	_	Number=Sing	3	obj	_	_
+5	apple	apple	NOUN	_	Number=Sing	3	obj	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
 
@@ -125,6 +126,19 @@ Transitive clauses (those that have an object) can be passivized, which means:
 
 * _One apple is eaten (by the boy(s))._
 * _Many apples are eaten (by the boy(s))._
+
+~~~ conllu
+# text = One apple is eaten by the boy.
+1	One	one	NUM	_	_	2	nummod	_	_
+2	apple	apple	NOUN	_	Number=Sing	4	nsubj:pass	_	_
+3	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
+4	eaten	eat	VERB	_	Tense=Past|VerbForm=Part	0	root	_	_
+5	by	by	ADP	_	_	7	case	_	_
+6	the	the	DET	_	Definite=Def|PronType=Art	7	det	_	_
+7	boy	boy	NOUN	_	Number=Sing	4	obl:agent	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	4	punct	_	_
+
+~~~
 
 The inability to passivize of _He works the whole week_ is an argument in
 support of the claim that the clause is intransitive and _the whole week_
