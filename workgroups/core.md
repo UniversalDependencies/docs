@@ -180,7 +180,7 @@ requires an object:
 5	week	week	NOUN	_	Number=Sing	2	obj	_	_
 6	in	in	ADP	_	_	7	case	_	_
 7	Oslo	Oslo	PROPN	_	Number=Sing	2	obl	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	2	punct	_	_
+8	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
@@ -215,6 +215,17 @@ is labeled `iobj`. Yet in the current English data (UD 2.1), it is still
 the first object that is labeled `iobj`, and the second object is `obj`.
 This has to be resolved by either modifying the guidelines, or the data
 (diverging from what people traditionally understand under indirect object).
+
+~~~ conllu
+# text = Peter gave Kate a book.
+1	Peter	Peter	PROPN	_	Number=Sing	2	nsubj	_	_
+2	gave	give	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	Kate	Kate	PROPN	_	Number=Sing	2	obj	_	_
+4	a	a	DET	_	Definite=Ind|PronType=Art	5	det	_	_
+5	book	book	NOUN	_	Number=Sing	2	iobj	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+~~~
 
 
 
