@@ -295,7 +295,7 @@ is a personal pronoun.
 
 If the arguments are realized as personal pronouns, the subject is in the
 nominative form _(yo, tú, él, nosotros, vosotros, ellos)_ and the object is in the accusative
-_(me, te, le, nos, os, les)._ Nouns do not inflect for case in Spanish.
+_(me, te, lo, nos, os, los)._ Nouns do not inflect for case in Spanish.
 
 If both core arguments are present and if they are realized as full noun
 phrases, the prototypical word order is the same as in English: the subject
@@ -371,6 +371,21 @@ directional and temporal adjuncts.
 ~~~
 
 Neither _toda la semana_ nor _al tren_ or _a las cinco_ can be promoted via passivization.
+
+Some Spanish verbs allow two objects:
+
+* _Pedro le dio un libro a Isabel._ “Pedro gave Isabel a book.”
+* _Pedro le dio un libro._ “Pedro gave her a book.”
+* _Santiago me enseña las matemáticas._ “Santiago teaches me mathematics.”
+
+One of the objects typically corresponds to the recipient semantic role and
+it most likely refers to a person, therefore it will be marked by the
+preposition _a_ (if it is realized as a full noun phrase). If it is represented
+by a pronominal clitic, it will be in the dative form (identical with the
+accusative except for the third person, which is _le, les,_ and does not
+distinguish gender). It is not uncommon that both the noun phrase and the
+clitic are present, as in _Pedro <b>le</b> dio un libro <b>a Isabel</b>._
+(this is known as “clitic doubling”).
 
 
 
