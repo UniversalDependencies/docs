@@ -153,6 +153,17 @@ Therefore, durational temporal adjuncts have to be stated as an exception,
 and this is the one case where the argument/adjunct distinction cannot be
 avoided in UD.
 
+~~~ conllu
+# text = He works the whole week.
+1	He	he	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	works	work	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	the	the	DET	_	Definite=Def|PronType=Art	5	det	_	_
+4	whole	whole	ADJ	_	_	5	amod	_	_
+5	week	week	NOUN	_	Number=Sing	2	obl:tmod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+~~~
+
 Some English verbs allow two objects (i.e., two core arguments following
 the verb):
 
