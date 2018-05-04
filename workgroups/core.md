@@ -146,7 +146,7 @@ is an adjunct rather than an object.
 However, this test is not sufficient because there is a small set of verbs
 that have objects but do not passivize:
 
-* _John has a new car. (*New car is had by John.)_
+* _John has a new car. (*A new car is had by John.)_
 * _Friday does not suit me. (*I am not suited by Friday.)_
 
 Therefore, durational temporal adjuncts have to be stated as an exception,
