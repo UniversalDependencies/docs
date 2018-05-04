@@ -555,6 +555,27 @@ because of the exceptional verbs like _dostat_ “to get” and _mít_ “to hav
 Therefore, durational temporal adjuncts have to be stated as an exception and
 the argument/adjunct distinction cannot be avoided in this case.
 
+Many two-argument verbs in Czech specify the second argument as a bare noun
+phrase in a case other than accusative. Whether these arguments are core
+arguments is a point of disagreement among different authors.
+The current (UD 2.1) approach in UD for Czech and several similar Indo-European
+languages is to analyze them as core.
+
+Some of the verbs resemble prototypical transitive verbs in that their
+arguments have the roles of agent and patient. For instance, the verb
+_pomoci_ “to help” takes a dative argument:
+
+* _Zuzka pomohla Martinovi s domácím úkolem._ “Zuzka helped Martin with his homework.”
+
+The clause can be passivized. However, the dative argument is not promoted
+by the passivization to the subject relation. It stays in dative and the
+verb does not cross-reference its person, number or gender. Instead, verbal
+morphology switches to the default singular neuter agreement with unexpressed subject.
+This suggests that the dative argument is less core-like (if at all) than a
+standard accusative object.
+
+* _Martinovi bylo pomoženo s domácím úkolem._ “Martin was helped with his homework.” _(*Martin byl pomožen s domácím úkolem.)_
+
 
 
 ## Can Adjectives Have Core Arguments?
