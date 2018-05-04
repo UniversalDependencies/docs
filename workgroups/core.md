@@ -252,6 +252,53 @@ in passive clauses would be subjects too!</span>
 
 
 
+### Spanish
+
+The behavior of Spanish core arguments is somewhat similar to English but there
+are differences. Like in English, it is typical for a core argument to be
+a bare nominal without preposition. However, prepositions are not completely
+excluded. If the object is animate, it is marked by the preposition _a_:
+
+* _Vimos a alguien._ “We saw somebody.”
+
+The subject's person and number is cross-referenced by verbal inflection.
+Spanish is a pro-drop language, meaning that the subject can be omitted if it
+is a personal pronoun.
+
+* _(Yo) bebo vino._ “I drink wine.”
+* _(Tú) bebes vino._ “You drink wine.” (singular)
+* _El hombre bebe vino._  “The man drinks wine.”
+* _(Nosotros) bebemos vino._ “We drink wine.”
+* _(Vosotros) bebéis vino._ “You drink wine.” (plural)
+* _Los hombres beben vino._ “The men drink wine.”
+
+~~~ conllu
+# text = Vimos a alguien.
+# text_en = We saw somebody.
+1	Vimos	ver	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	Gloss=we-saw
+2	a	a	ADP	_	_	3	case	_	Gloss=OBJ
+3	alguien	alguien	PRON	_	Number=Sing|PronType=Ind	1	obj	_	Gloss=somebody|SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+~~~
+
+~~~ conllu
+# text = El hombre bebe vino.
+# text_en = The man drinks wine.
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Gloss=the
+2	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	Gloss=man
+3	bebe	beber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=drinks
+4	vino	vino	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	Gloss=wine|SpaceAfter=No
+5	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+~~~
+
+If the arguments are realized as personal pronouns, the subject is in the
+nominative form _(yo, tú, él, nosotros, vosotros, ellos)_ and the object is in the accusative
+_(me, te, le, nos, os, les)._ Nouns do not inflect for case in English.
+
+
+
 ## Can Adjectives Have Core Arguments?
 
 Under certain circumstances, yes.
