@@ -240,6 +240,16 @@ This has to be resolved by either modifying the guidelines, or the data
 
 ~~~
 
+<span style="color:red">TO DO: How do we explain that an oblique nominal is
+annotated as subject in subordinate infinitival clause, as in
+_It was impossible <b>for him</b> to attend the meeting._
+Some authors (I do not remember where exactly I saw it) say that it is quite
+common that core arguments are coded differently in subordinate clauses.
+But can we prove that the _for_-phrase is indeed a subject?
+It is not sufficient to say that it has the same semantic role as the corresponding
+bare nominal in a main finite clause. If it was sufficient, then the _by_-phrases
+in passive clauses would be subjects too!</span>
+
 
 
 ## Can Adjectives Have Core Arguments?
