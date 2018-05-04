@@ -295,7 +295,26 @@ is a personal pronoun.
 
 If the arguments are realized as personal pronouns, the subject is in the
 nominative form _(yo, tú, él, nosotros, vosotros, ellos)_ and the object is in the accusative
-_(me, te, le, nos, os, les)._ Nouns do not inflect for case in English.
+_(me, te, le, nos, os, les)._ Nouns do not inflect for case in Spanish.
+
+Transitive clauses (those that have an object) can be passivized.
+
+* _El vino es bebido por los hombres._ “The wine is drunk by the men.”
+* _Las bebidas son bebidas por los hombres._ “The drinks are drunk by the men.”
+
+~~~ conllu
+# text = El vino es bebido por los hombres.
+# text_en = The wine is drunk by the men.
+1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Gloss=the
+2	vino	vino	NOUN	_	Gender=Masc|Number=Sing	4	nsubj:pass	_	Gloss=wine|SpaceAfter=No
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	Gloss=is
+4	bebido	beber	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Gloss=drunk
+5	por	por	ADP	_	_	7	case	_	Gloss=by
+6	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	Gloss=the
+7	hombres	hombre	NOUN	_	Gender=Masc|Number=Plur	4	obl:agent	_	Gloss=men|SpaceAfter=No
+8	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+~~~
 
 
 
