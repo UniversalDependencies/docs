@@ -419,6 +419,7 @@ pronoun (i.e., the one with the recipient role) is labeled as an indirect
 object; the unmarked/accusative object is direct. This is in line with the
 UD v2 guidelines: if the clause is passivized, the direct object is promoted
 to the subject relation, while the indirect object stays untouched.
+Hence the indirect object is less core than the direct object.
 
 * _Un libro fue dado a Isabel por Pedro._ “A book was given to Isabel by Pedro.”
 
@@ -427,7 +428,7 @@ to the subject relation, while the indirect object stays untouched.
 # text_en = A book was given to Isabel by Pedro.
 1	Un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Gloss=a
 2	libro	libro	NOUN	_	Gender=Masc|Number=Sing	4	nsubj:pass	_	Gloss=book
-3	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	Gloss=was
+3	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	Gloss=was
 4	dado	dar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Gloss=given
 5	a	a	ADP	_	_	6	case	_	Gloss=to
 6	Isabel	Isabel	PROPN	_	Gender=Fem|Number=Sing	4	iobj	_	Gloss=Isabel
