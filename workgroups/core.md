@@ -351,6 +351,8 @@ directional and temporal adjuncts.
 
 ~~~
 
+Neither _toda la semana_ nor _al tren_ or _a las cinco_ can be promoted via passivization.
+
 
 
 ## Can Adjectives Have Core Arguments?
