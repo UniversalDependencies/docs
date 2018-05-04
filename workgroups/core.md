@@ -598,9 +598,34 @@ standard accusative object.
 4	s	s	ADP	_	_	6	case	_	Gloss=with
 5	domácím	domácí	ADJ	_	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	6	amod	_	Gloss=home
 6	úkolem	úkol	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	3	obl:arg	_	Gloss=work|SpaceAfter=No
-7	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+7	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 ~~~
+
+If dative arguments are core objects, then we have to distinguish them from
+benefactive adjuncts that are also encoded as bare nominals in the dative:
+
+* _Zuzka Martinovi udělala večeři._ “Zuzka prepared a dinner for Martin.”
+
+Similarly, there are objects realized as bare genitives and even instrumentals,
+with the same passivization pattern as datives. Instrumental objects have to
+be distinguished from demoted oblique agents in passive constructions, and
+from instrumental adjuncts.
+
+* _Novináři musí dbát zásad objektivity._ “Journalists must observe principles of objectivity.” (genitive)
+* _Musí být dbáno zásad objektivity._ “Principles of objectivity must be observed.”
+* _Karel hýbal nábytkem._ “Karel moved furniture.”
+* _Nábytkem bylo hýbáno._ “The furniture has been moved.”
+
+The Czech grammar also recognizes prepositional objects but we do not consider
+them core (which means they are not objects in UD). In fact, the definition
+of object in the Czech grammar is identical with argument and leads to the
+argument/adjunct distinction, disfavored in UD. Most adjuncts are prepositional
+phrases, thus the bulk of the decisions would have to be done here; that is the
+main reason why bare datives are analyzed as core objects while prepositional
+phrases are not. It is worth noting that the neuter singular passivization
+described with bare datives, genitives and instrumentals is also available
+for prepositional phrases and even for some intransitive verbs.
 
 
 
