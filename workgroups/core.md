@@ -145,7 +145,7 @@ In the above examples, the recipient _(Kate, me)_ is arguably more core than
 the theme _(book, mathematics)_ because the recipient can be promoted in
 passivization while the theme cannot:
 
-* _Kate was given a book by Peter. (*A book was given Kate by Peter.)_
+* _Kate was given a book by Peter. (*A book was given Kate by Peter.)_ <span style="color: orange"><b>Nathan:</b> "A book was given Kate" sounds unusual or archaic but not completely ungrammatical to me. You can find examples on the web of "advice was given him/her", for example. Some COCA examples: "how do you feel about John Poindexter and the sentence that was given him today?" (1990 spoken), "But when the rooms had been shown and the paper was given him to sign, Frisch hesitated, clutching the pen." (1990 fiction). Not many COCA examples with by-phrases—only found this one from a 2012 interview with Sarah Palin, who is known for her colorful use of English: "And he got a standing ovation at the end of the speech, and that was given him by those who paid attention and stayed to the end, if you will, and heard what he had to say." No examples in EWT of a passive verb with `iobj`, though.</span>
 * _I am taught mathematics by Tom. (*Mathematics is taught me by Tom.)_
 
 The second object can be promoted only if both the subject and the first object
