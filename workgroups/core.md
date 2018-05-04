@@ -374,6 +374,7 @@ Neither _toda la semana_ nor _al tren_ or _a las cinco_ can be promoted via pass
 
 Some Spanish verbs allow two objects:
 
+* _Pedro dio un libro a Isabel._ “Pedro gave Isabel a book.”
 * _Pedro le dio un libro a Isabel._ “Pedro gave Isabel a book.”
 * _Pedro le dio un libro._ “Pedro gave her a book.”
 * _Santiago me enseña las matemáticas._ “Santiago teaches me mathematics.”
@@ -386,6 +387,55 @@ accusative except for the third person, which is _le, les,_ and does not
 distinguish gender). It is not uncommon that both the noun phrase and the
 clitic are present, as in _Pedro <b>le</b> dio un libro <b>a Isabel</b>._
 (this is known as “clitic doubling”).
+
+~~~ conllu
+# text = Pedro le dio un libro a Isabel.
+# text_en = Pedro gave Isabel a book.
+1	Pedro	Pedro	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	_	Gloss=Pedro
+2	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	expl	_	Gloss=her
+3	dio	dar	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=gave
+4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=a
+5	libro	libro	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	Gloss=book
+6	a	a	ADP	_	_	7	case	_	Gloss=to
+7	Isabel	Isabel	PROPN	_	Gender=Fem|Number=Sing	3	iobj	_	Gloss=Isabel|SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+~~~
+
+~~~ conllu
+# text = Pedro le dio un libro.
+# text_en = Pedro gave her a book.
+1	Pedro	Pedro	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	_	Gloss=Pedro
+2	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	iobj	_	Gloss=her
+3	dio	dar	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=gave
+4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=a
+5	libro	libro	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	Gloss=book|SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+~~~
+
+The object that is marked by the preposition _a_ or by the dative case of the
+pronoun (i.e., the one with the recipient role) is labeled as an indirect
+object; the unmarked/accusative object is direct. This is in line with the
+UD v2 guidelines: if the clause is passivized, the direct object is promoted
+to the subject relation, while the indirect object stays untouched.
+
+* _Un libro fue dado a Isabel por Pedro._ “A book was given to Isabel by Pedro.”
+
+~~~ conllu
+# text = Un libro fue dado a Isabel por Pedro.
+# text_en = A book was given to Isabel by Pedro.
+1	Un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Gloss=a
+2	libro	libro	NOUN	_	Gender=Masc|Number=Sing	4	nsubj:pass	_	Gloss=book
+3	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	Gloss=was
+4	dado	dar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Gloss=given
+5	a	a	ADP	_	_	6	case	_	Gloss=to
+6	Isabel	Isabel	PROPN	_	Gender=Fem|Number=Sing	4	iobj	_	Gloss=Isabel
+7	por	por	ADP	_	_	8	case	_	Gloss=by
+8	Pedro	Pedro	PROPN	_	Gender=Masc|Number=Sing	4	obl:agent	_	Gloss=Pedro|SpaceAfter=No
+9	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+~~~
 
 
 
