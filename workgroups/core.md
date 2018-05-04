@@ -257,7 +257,7 @@ in passive clauses would be subjects too!</span>
 The behavior of Spanish core arguments is somewhat similar to English but there
 are differences. Like in English, it is typical for a core argument to be
 a bare nominal without preposition. However, prepositions are not completely
-excluded. If the object is animate, it is marked by the preposition _a_:
+excluded. If the object is a person, it is marked by the preposition _a_:
 
 * _Vimos a alguien._ “We saw somebody.”
 
@@ -313,6 +313,41 @@ Transitive clauses (those that have an object) can be passivized.
 6	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	Gloss=the
 7	hombres	hombre	NOUN	_	Gender=Masc|Number=Plur	4	obl:agent	_	Gloss=men|SpaceAfter=No
 8	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+~~~
+
+Both coding strategies that are used for core arguments can also appear with
+adjuncts. Bare nominal adjuncts are rare, the exception being durational
+temporal adjuncts. In contrast, the preposition _a_ can be used with various
+directional and temporal adjuncts.
+
+* Él trabaja toda la semana. “He works the whole week.”
+* Subiremos al tren a las cinco. “We will be boarding the train at five.”
+
+~~~ conllu
+# text = Él trabaja toda la semana.
+# text_en = He works the whole week.
+1	Él	él	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Gloss=he
+2	trabaja	trabajar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=works
+3	toda	todo	DET	_	Gender=Fem|Number=Sing|PronType=Tot	5	det	_	Gloss=all
+4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	Gloss=the
+5	semana	semana	NOUN	_	Gender=Fem|Number=Sing	2	obl:tmod	_	Gloss=week|SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+~~~
+
+~~~ conllu
+# text = Subiremos al tren a las cinco.
+# text_en = We will be boarding the train at five.
+1	Subiremos	subir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	Gloss=we-will-board
+2-3	al	_	_	_	_	_	_	_	_
+2	a	a	ADP	_	_	4	case	_	Gloss=on
+3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=the
+4	tren	tren	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	Gloss=train
+5	a	a	ADP	_	_	7	case	_	Gloss=at
+6	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	Gloss=the
+7	cinco	cinco	NUM	_	NumType=Card	1	obl:tmod	_	Gloss=five|SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 ~~~
 
