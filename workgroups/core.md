@@ -522,7 +522,7 @@ Transitive clauses (those that have an accusative object) can be passivized.
 # text_en = The apple was eaten by the boy.
 1	Jablko	jablko	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	3	nsubj:pass	_	Gloss=apple
 2	bylo	být	AUX	_	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	3	aux:pass	_	Gloss=was
-3	snědeno	sníst	ADJ	_	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	Gloss=eaten
+3	snědeno	snědený	ADJ	_	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	Gloss=eaten
 4	chlapcem	chlapec	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	3	obl:agent	_	Gloss=by-boy|SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
@@ -585,6 +585,19 @@ standard accusative object.
 4	s	s	ADP	_	_	6	case	_	Gloss=with
 5	domácím	domácí	ADJ	_	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	6	amod	_	Gloss=home
 6	úkolem	úkol	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	2	obl:arg	_	Gloss=work|SpaceAfter=No
+7	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+~~~
+
+~~~ conllu
+# text = Martinovi bylo pomoženo s domácím úkolem.
+# text_en = Martin was helped with his homework.
+1	Martinovi	Martin	PROPN	_	Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	2	obj	_	Gloss=Martin
+2	bylo	být	AUX	_	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	3	aux:pass	_	Gloss=was
+3	pomoženo	pomožený	ADJ	_	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	Gloss=helped
+4	s	s	ADP	_	_	6	case	_	Gloss=with
+5	domácím	domácí	ADJ	_	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	6	amod	_	Gloss=home
+6	úkolem	úkol	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	3	obl:arg	_	Gloss=work|SpaceAfter=No
 7	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 ~~~
