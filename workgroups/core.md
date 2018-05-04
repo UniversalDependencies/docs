@@ -537,7 +537,7 @@ instance:
 It is not guaranteed that a bare accusative nominal is a core argument. It can
 also be a durational temporal adjunct, as in:
 
-* _Pracuje celý týden._
+* _Pracuje celý týden._ “He works the whole week.”
 
 ~~~ conllu
 # text = Pracuje celý týden.
