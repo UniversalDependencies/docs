@@ -103,6 +103,16 @@ the object. A finite verb agrees in person and number with its subject:
 * _The boys eat one apple._
 * _The boys eat many apples._
 
+~~~ conllu
+# text = The boy eats one apple.
+1	The	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
+2	boy	boy	NOUN	_	Number=Sing	3	nsubj	_	_
+3	eats	eat	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	one	one	NUM	_	_	5	nummod	_	_
+5	apple	apple	NOUN	_	Number=Sing	3	obj	_	_
+
+~~~
+
 If the arguments are realized as personal pronouns, the subject is in the
 nominative form _(I, he, she, we, they)_ and the object is in the accusative
 _(me, him, her, us, them)._ Nouns do not inflect for case in English.
