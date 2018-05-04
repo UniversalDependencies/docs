@@ -347,7 +347,7 @@ directional and temporal adjuncts.
 5	a	a	ADP	_	_	7	case	_	Gloss=at
 6	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	Gloss=the
 7	cinco	cinco	NUM	_	NumType=Card	1	obl:tmod	_	Gloss=five|SpaceAfter=No
-6	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+8	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 ~~~
 
