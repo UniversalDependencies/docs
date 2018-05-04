@@ -153,6 +153,8 @@ Therefore, durational temporal adjuncts have to be stated as an exception,
 and this is the one case where the argument/adjunct distinction cannot be
 avoided in UD.
 
+* _He works the whole week._
+
 ~~~ conllu
 # text = He works the whole week.
 1	He	he	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
@@ -160,6 +162,24 @@ avoided in UD.
 3	the	the	DET	_	Definite=Def|PronType=Art	5	det	_	_
 4	whole	whole	ADJ	_	_	5	amod	_	_
 5	week	week	NOUN	_	Number=Sing	2	obl:tmod	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+~~~
+
+On the other hand, even temporal noun phrases can be objects if the verb
+requires an object:
+
+* _He spent the whole week in Oslo._
+
+~~~ conllu
+# text = He spent the whole week in Oslo.
+1	He	he	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	spent	spend	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	the	the	DET	_	Definite=Def|PronType=Art	5	det	_	_
+4	whole	whole	ADJ	_	_	5	amod	_	_
+5	week	week	NOUN	_	Number=Sing	2	obj	_	_
+6	in	in	ADP	_	_	7	case	_	_
+7	Oslo	Oslo	PROPN	_	Number=Sing	2	obl	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
