@@ -136,7 +136,7 @@ Transitive clauses (those that have an object) can be passivized, which means:
 5	by	by	ADP	_	_	7	case	_	_
 6	the	the	DET	_	Definite=Def|PronType=Art	7	det	_	_
 7	boy	boy	NOUN	_	Number=Sing	4	obl:agent	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	4	punct	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 
