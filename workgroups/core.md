@@ -227,6 +227,19 @@ This has to be resolved by either modifying the guidelines, or the data
 
 ~~~
 
+~~~ conllu
+# text = Kate was given a book by Peter.
+1	Kate	Kate	PROPN	_	Number=Sing	3	nsubj:pass	_	_
+2	was	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
+3	given	give	VERB	_	Tense=Past|VerbForm=Part	0	root	_	_
+4	a	a	DET	_	Definite=Ind|PronType=Art	5	det	_	_
+5	book	book	NOUN	_	Number=Sing	3	iobj	_	_
+6	by	by	ADP	_	_	7	case	_	_
+7	Peter	Peter	PROPN	_	Number=Sing	3	obl:agent	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
+
+~~~
+
 
 
 ## Can Adjectives Have Core Arguments?
