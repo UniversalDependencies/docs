@@ -14,6 +14,17 @@ Arguments realized as clauses are discussed [at the end of the chapter](#clausal
 
 <span style='color:red'>TO DO: write most of the chapter :-)</span>
 
+* [Core vs. oblique](#core-arguments-vs-oblique-modifiers)
+  * [The definition of core arguments](#the-definition-of-core-arguments)
+  * [Avoiding an argument/adjunct distinction](#avoiding-an-argumentadjunct-distinction)
+* [Coding strategies](#coding-strategies)
+  * [English](#english)
+  * [Spanish](#spanish)
+* [Can adjectives have core arguments?](#can-adjectives-have-core-arguments)
+* [Can adverbs have core arguments?](#can-adverbs-have-core-arguments)
+* [Can nouns have core arguments?](#can-nouns-have-core-arguments)
+* [Clausal complements](#clausal-complements)
+
 ## Core Arguments vs. Oblique Modifiers
 
 The UD taxonomy is centered around the fairly clear distinction between
