@@ -21,6 +21,7 @@ Arguments realized as clauses are discussed [at the end of the chapter](#clausal
   * [English](#english)
   * [Spanish](#spanish)
   * [Czech](#czech)
+  * [Basque](#basque)
 * [Can adjectives have core arguments?](#can-adjectives-have-core-arguments)
 * [Can adverbs have core arguments?](#can-adverbs-have-core-arguments)
 * [Can nouns have core arguments?](#can-nouns-have-core-arguments)
@@ -731,6 +732,80 @@ than the other. Therefore, none of them can be labeled as indirect.
 3	učí	učit	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=teaches
 4	matematiku	matematika	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	3	obj	_	Gloss=mathematics|SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+~~~
+
+
+
+### Basque
+
+See also:
+Fernando Zúñiga, Beatriz Fernández (draft 26.6.2014):
+[Grammatical relations in Basque](http://basdisyn.net/pdf/Zuniga%20&%20Fernandez%202014%20Basque%20GRs%20270614.pdf)
+
+In Basque, like in Czech, nominal case morphology is essential for recognition
+of core argument relations. However, instead of nominative-accusative, the
+core pair of cases in Basque is ergative-absolutive. If a verb has two core
+arguments, then one of them is ergative and the other is absolutive. The
+ergative argument is labeled as subject, the absolutive argument is object.
+With primary transitive verbs, the ergative argument corresponds to the agent
+and the absolutive argument to the patient.
+
+* _Ekaitzak itsasontzia hondoratu du._ “The storm has sunk the ship.”
+
+~~~ conllu
+# text = Ekaitzak itsasontzia hondoratu du.
+# text_en = The storm has sunk the ship.
+1	Ekaitzak	ekaitz	NOUN	_	Animacy=Inan|Case=Erg|Definite=Def|Number=Sing	3	nsubj	_	Gloss=storm
+2	itsasontzia	itsasontzi	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	3	obj	_	Gloss=ship
+3	hondoratu	hondoratu	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	Gloss=sunk
+4	du	*edun	AUX	_	Mood=Ind|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin	3	aux	_	Gloss=has|SpaceAfter=No
+5	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+~~~
+
+The single argument of intransitive verbs takes sometimes the absolutive
+and sometimes the ergative form. It is labeled as subject in both cases.
+<span style="color:red">TO DO: Verify!</span>
+
+The third core case is the dative. Arguments in all three core cases are
+cross-referenced on finite verbs. Thanks to cross-referencing, the arguments
+can be omitted if they are just personal pronouns.
+
+* _Zezenak saihetsa pitzatu zidan._ “The bull cracked my rib.”
+  (ergative argument: 3 singular; absolutive argument: 3 singular; dative argument: 1 singular)
+
+~~~ conllu
+# sent_id = test-s452
+# text = Zezenak saihetsa pitzatu zidan.
+# text_en = The bull cracked my rib.
+1	Zezenak	zezen	NOUN	_	Animacy=Anim|Case=Erg|Definite=Def|Number=Sing	3	nsubj	_	Gloss=bull
+2	saihetsa	saihets	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	3	obj	_	Gloss=rib
+3	pitzatu	pitzatu	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	Gloss=cracked
+4	zidan	*edun	AUX	_	Mood=Ind|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=3|VerbForm=Fin	3	aux	_	Gloss=has-to-me|SpaceAfter=No
+5	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+~~~
+
+Basque does not have a canonical passive construction, although there are
+constructions that have been called passive by some authors.
+
+<span style="color:red">It is not clear whether and why one of the core
+arguments should be analyzed as indirect object in ditransitive clauses.
+Nevertheless, the current data (UD 2.1) use `iobj` for the dative
+argument.</span>
+
+* _(Nik) (zuri) liburua eman dizut._ “I have given you a book.”
+
+~~~ conllu
+# text = Nik zuri liburua eman dizut.
+# text_en = I have given you a book.
+1	Nik	ni	PRON	_	Case=Erg|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=I
+2	zuri	zu	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	4	obj	_	Gloss=you
+3	liburua	liburu	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	4	obj	_	Gloss=book
+4	eman	eman	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	Gloss=given
+5	dizut	*edun	AUX	_	Mood=Ind|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=1|VerbForm=Fin	4	aux	_	Gloss=have|SpaceAfter=No
+6	.	.	PUNCT	_	_	4	punct	_	Gloss=.
 
 ~~~
 
