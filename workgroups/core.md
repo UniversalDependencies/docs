@@ -592,7 +592,7 @@ standard accusative object.
 ~~~ conllu
 # text = Martinovi bylo pomoženo s domácím úkolem.
 # text_en = Martin was helped with his homework.
-1	Martinovi	Martin	PROPN	_	Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	2	obj	_	Gloss=Martin
+1	Martinovi	Martin	PROPN	_	Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	3	obj	_	Gloss=Martin
 2	bylo	být	AUX	_	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	3	aux:pass	_	Gloss=was
 3	pomoženo	pomožený	ADJ	_	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	Gloss=helped
 4	s	s	ADP	_	_	6	case	_	Gloss=with
