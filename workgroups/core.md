@@ -565,7 +565,7 @@ Some of the verbs resemble prototypical transitive verbs in that their
 arguments have the roles of agent and patient. For instance, the verb
 _pomoci_ “to help” takes a dative argument:
 
-* _Zuzka pomohla Martinovi s domácím úkolem._ “Zuzka helped Martin with his homework.”
+* _Zuzana pomohla Martinovi s domácím úkolem._ “Zuzana helped Martin with his homework.”
 
 The clause can be passivized. However, the dative argument is not promoted
 by the passivization to the subject relation. It stays in dative and the
@@ -577,9 +577,9 @@ standard accusative object.
 * _Martinovi bylo pomoženo s domácím úkolem._ “Martin was helped with his homework.” _(*Martin byl pomožen s domácím úkolem.)_
 
 ~~~ conllu
-# text = Zuzka pomohla Martinovi s domácím úkolem.
-# text_en = Zuzka helped Martin with his homework.
-1	Zuzka	Zuzka	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	2	nsubj	_	Gloss=Zuzka
+# text = Zuzana pomohla Martinovi s domácím úkolem.
+# text_en = Zuzana helped Martin with his homework.
+1	Zuzana	Zuzana	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	2	nsubj	_	Gloss=Zuzana
 2	pomohla	pomoci	VERB	_	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	Gloss=helped
 3	Martinovi	Martin	PROPN	_	Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	2	obj	_	Gloss=Martin
 4	s	s	ADP	_	_	6	case	_	Gloss=with
@@ -602,10 +602,14 @@ standard accusative object.
 
 ~~~
 
-If dative arguments are core objects, then we have to distinguish them from
-benefactive adjuncts that are also encoded as bare nominals in the dative:
+If dative arguments are core objects, then we may want to distinguish them from
+benefactive adjuncts that are also encoded as bare nominals in the dative
+(that is, if we acknowledge that benefactives should be adjuncts):
 
-* _Zuzka Martinovi udělala večeři._ “Zuzka prepared a dinner for Martin.”
+* _Zuzana Martinovi udělala večeři._ “Zuzana prepared a dinner for Martin.”
+* _Zuzana Martinovi koupila večeři._ “Zuzana bought a dinner for Martin.”
+* _Zuzana Martinovi objednala večeři._ “Zuzana ordered a dinner for Martin.”
+* _Zuzana Martinovi snědla večeři._ “Zuzana ate Martin's dinner.”
 
 Similarly, there are objects realized as bare genitives and even instrumentals,
 with the same passivization pattern as datives. Instrumental objects have to
