@@ -880,8 +880,8 @@ constructions that have been called passive by some authors in the past.
 <!-- causative of dat-abs verbs
  https://books.google.cz/books?id=nIaPL4kLt6cC&pg=PA599&lpg=PA599&dq=gustatzen+causative&source=bl&ots=LcI8u2JhcB&sig=LrbPxId629ESf0v70hw2EY73J70&hl=cs&sa=X&ved=2ahUKEwjFluOAwu_aAhWFDiwKHVbXCYkQ6AEwAXoECAAQMA#v=onepage&q=gustatzen%20causative&f=false -->
 
-While the passive, if it existed, would decrease the valence of the verb,
-there is another operation that increases the valence: the causative.
+While the passive, if it existed, would decrease the valency of the verb,
+there is another operation that increases the valency: the causative.
 
 
 
