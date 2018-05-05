@@ -565,7 +565,7 @@ Some of the verbs resemble prototypical transitive verbs in that their
 arguments have the roles of agent and patient. For instance, the verb
 _pomoci_ “to help” takes a dative argument:
 
-* _Zuzana pomohla Martinovi s domácím úkolem._ “Zuzana helped Martin with his homework.”
+* _Zuzka pomohla Martinovi s domácím úkolem._ “Zuzka helped Martin with his homework.”
 
 The clause can be passivized. However, the dative argument is not promoted
 by the passivization to the subject relation. It stays in dative and the
@@ -577,9 +577,9 @@ standard accusative object.
 * _Martinovi bylo pomoženo s domácím úkolem._ “Martin was helped with his homework.” _(*Martin byl pomožen s domácím úkolem.)_
 
 ~~~ conllu
-# text = Zuzana pomohla Martinovi s domácím úkolem.
-# text_en = Zuzana helped Martin with his homework.
-1	Zuzana	Zuzana	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	2	nsubj	_	Gloss=Zuzana
+# text = Zuzka pomohla Martinovi s domácím úkolem.
+# text_en = Zuzka helped Martin with his homework.
+1	Zuzka	Zuzka	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	2	nsubj	_	Gloss=Zuzka
 2	pomohla	pomoci	VERB	_	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	Gloss=helped
 3	Martinovi	Martin	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	2	obj	_	Gloss=Martin
 4	s	s	ADP	_	_	6	case	_	Gloss=with
@@ -606,10 +606,10 @@ If dative arguments are core objects, then we may want to distinguish them from
 benefactive adjuncts that are also encoded as bare nominals in the dative
 (that is, if we acknowledge that benefactives should be adjuncts):
 
-* _Zuzana Martinovi udělala večeři._ “Zuzana prepared a dinner for Martin.”
-* _Zuzana Martinovi koupila večeři._ “Zuzana bought a dinner for Martin.”
-* _Zuzana Martinovi objednala večeři._ “Zuzana ordered a dinner for Martin.”
-* _Zuzana Martinovi snědla večeři._ “Zuzana ate Martin's dinner.”
+* _Zuzka Martinovi udělala večeři._ “Zuzka prepared a dinner for Martin.”
+* _Zuzka Martinovi koupila večeři._ “Zuzka bought a dinner for Martin.”
+* _Zuzka Martinovi objednala večeři._ “Zuzka ordered a dinner for Martin.”
+* _Zuzka Martinovi snědla večeři._ “Zuzka ate Martin's dinner.”
 
 Similarly, there are objects realized as bare genitives and even instrumentals,
 with the same passivization pattern as datives. Instrumental objects have to
@@ -637,6 +637,57 @@ such constructions are rare:
 * _Na ředitelovo rozhodnutí bylo spoléháno._ “It was relied on the director's decision.”
 * _Ředitel rozhodl v pátek._ “The director decided on Friday.”
 * _V pátek bylo rozhodnuto._ “It was decided on Friday.”
+
+Some Czech verbs allow two objects. Typically, one object is accusative and
+the other is dative; nevertheless, some other combinations are possible, too.
+
+* _Petr dal Katce knihu._ “Petr gave Katka a book.” (dative + accusative)
+* _Tomáš mě učí matematiku._ “Tomáš teaches me mathematics.” (accusative + accusative)
+* _Muž vyhrožoval sousedovi smrtí._ “A man threatened his neighbor with death.” (dative + instrumental)
+
+The dative-accusative construction can be passivized so that the accusative
+object is promoted to subject, the dative object stays as it is, and the
+former subject disappears (or, rarely, is transformed to instrumental).
+It is thus confirmed that the dative object is less core than the accusative,
+hence the dative should be labeled as indirect.
+
+* _Kniha byla dána Katce (Petrem)._ “The book was given to Katka (by Petr).”
+
+The verb _učit_ “to teach” is special in that it allows two accusatives: one
+representing the theme (mathematics) and the other the recipient (me). Either
+one can be omitted and then we have a normal transitive clause with an accusative
+object that can be promoted via passivization. However, if both arguments are
+present in the active clause, it is not possible to promote one of them and
+leave the other untouched; the grammar does not tolerate a bare accusative
+argument in a passive clause.
+
+* _Tomáš učí matematiku._ “Tomáš teaches mathematics.”
+* _Matematika je učena Tomášem._ “Mathematics is taught by Tomáš.”
+* _Tomáš mě učí._ “Tomáš teaches me.”
+* _(Já) jsem učen Tomášem._ “I am taught by Tomáš.”
+* _Tomáš mě učí matematiku._ “Tomáš teaches me mathematics.”
+* _(*Jsem učen matematiku Tomášem. *Matematika je učena mě Tomášem.)_
+
+There thus does not seem to be any evidence that one of the accusatives is
+more core than the other. We have an example of a clause with two objects,
+neither of which is indirect.
+
+Finally, in the dative-instrumental construction, the passivization follows
+rules similar to clauses with one non-accusative object: former subject
+disappears but the objects stay untouched. Moreover, if the subject is
+not removed but transformed to an instrumental argument, it is likely that
+the original instrumental argument will be removed instead.
+Yet it is not completely ungrammatical (see the example below; but it is
+highly preferred that the two instrumental arguments are not adjacent).
+
+* _Muž vyhrožoval sousedovi smrtí._ “A man threatened his neighbor with death.”
+* _Sousedovi bylo vyhrožováno smrtí._ “The neighbor was threatened with death.”
+* _Sousedovi bylo vyhrožováno mužem._ “The neighbor was threatened by the man.”
+* _Mužem bylo sousedovi vyhrožováno smrtí._ “The neighbor was threatened by the man with death.”
+
+The dative-instrumental construction is one where both objects are clearly
+less core than accusative objects, but none of the two is more or less core
+than the other. Therefore, none of them can be labeled as indirect.
 
 
 
