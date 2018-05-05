@@ -730,7 +730,7 @@ than the other. Therefore, none of them can be labeled as indirect.
 2	mě	já	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Variant=Short	3	obj	_	Gloss=me
 3	učí	učit	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=teaches
 4	matematiku	matematika	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	3	obj	_	Gloss=mathematics|SpaceAfter=No
-5	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+5	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 ~~~
 
