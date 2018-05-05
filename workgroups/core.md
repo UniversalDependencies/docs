@@ -805,9 +805,9 @@ Some two-argument verbs take dative+absolutive, instead of ergative+absolutive:
 # text_en = I like wine.
 1	Niri	ni	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	iobj	_	Gloss=to-me
 2	ardoa	ardo	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	3	obj	_	Gloss=wine
-2	gustatzen	gustatzen	VERB	_	Aspect=Imp|VerbForm=Part	0	root	_	Gloss=pleasing
-3	zait	izan	AUX	_	Mood=Ind|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=1|VerbForm=Fin	2	aux	_	Gloss=is|SpaceAfter=No
-4	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+3	gustatzen	gustatzen	VERB	_	Aspect=Imp|VerbForm=Part	0	root	_	Gloss=pleasing
+4	zait	izan	AUX	_	Mood=Ind|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=1|VerbForm=Fin	3	aux	_	Gloss=is|SpaceAfter=No
+5	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 ~~~
 
