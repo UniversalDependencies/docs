@@ -764,18 +764,30 @@ and the absolutive argument to the patient.
 
 ~~~
 
-The single argument of intransitive verbs takes sometimes the absolutive
-and sometimes the ergative form. It is labeled as subject in both cases.
+The single argument of intransitive verbs takes mostly the absolutive
+but sometimes the ergative form. It is labeled as subject in both cases.
 <span style="color:red">TO DO: Verify!</span>
 
-* _Gizona hil da._ “The man has died.”
+* _Gizona hil da._ “The man has died.” (absolutive)
 
 ~~~ conllu
 # text = Gizona hil da.
 # text_en = The man has died.
 1	Gizona	gizon	NOUN	_	Animacy=Anim|Case=Abs|Definite=Def|Number=Sing	2	nsubj	_	Gloss=the-man
 2	hil	hil	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	Gloss=died
-3	da	izan	AUX	_	Aspect=Prog|Mood=Ind|Number[abs]=Sing|Person[abs]=3	2	aux	_	Gloss=has|SpaceAfter=No
+3	da	izan	AUX	_	Aspect=Prog|Mood=Ind|Number[abs]=Sing|Person[abs]=3|VerbForm=Fin	2	aux	_	Gloss=has|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+~~~
+
+* _Urak irakin du._ “The water has boiled.” (ergative)
+
+~~~ conllu
+# text = Urak irakin du.
+# text_en = The water has boiled.
+1	Urak	ura	NOUN	_	Animacy=Inan|Case=Erg|Definite=Ind|Number=Sing	2	nsubj	_	Gloss=water
+2	irakin	irakin	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	Gloss=boiled
+3	du	*edun	AUX	_	Mood=Ind|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin	2	aux	_	Gloss=has|SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 ~~~
