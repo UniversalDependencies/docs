@@ -629,7 +629,7 @@ phrases, thus the bulk of the decisions would have to be done for prepositional 
 that is the
 main reason why bare datives are analyzed as core objects while prepositional
 phrases are not. It is worth noting that the neuter singular passivization
-described with bare datives, genitives and instrumentals is also available
+that is described above for bare datives, genitives and instrumentals is also available
 for prepositional phrases and even for some intransitive verbs, although
 such constructions are rare:
 
@@ -660,6 +660,9 @@ object that can be promoted via passivization. However, if both arguments are
 present in the active clause, it is not possible to promote one of them and
 leave the other untouched; the grammar does not tolerate a bare accusative
 argument in a passive clause.
+Also note that there is a slightly archaic alternative where the theme (not
+the recipient!) takes the dative form. Here the passive might in theory be
+available but it still sounds clumsy.
 
 * _Tomáš učí matematiku._ “Tomáš teaches mathematics.”
 * _Matematika je učena Tomášem._ “Mathematics is taught by Tomáš.”
@@ -667,6 +670,8 @@ argument in a passive clause.
 * _(Já) jsem učen Tomášem._ “I am taught by Tomáš.”
 * _Tomáš mě učí matematiku._ “Tomáš teaches me mathematics.”
 * _(*Jsem učen matematiku Tomášem. *Matematika je učena mě Tomášem.)_
+* _Tomáš mě učí matematice._ “Tomáš teaches me mathematics.” (mathematics in dative)
+* _(?Jsem učen matematice (Tomášem).)_ “I am taught mathematics (by Tomáš).”
 
 There thus does not seem to be any evidence that one of the accusatives is
 more core than the other. We have an example of a clause with two objects,
@@ -677,7 +682,7 @@ rules similar to clauses with one non-accusative object: former subject
 disappears but the objects stay untouched. Moreover, if the subject is
 not removed but transformed to an instrumental argument, it is likely that
 the original instrumental argument will be removed instead.
-Yet it is not completely ungrammatical (see the example below; but it is
+Yet it is not completely ungrammatical to keep them both (see the example below; but it is
 highly preferred that the two instrumental arguments are not adjacent).
 
 * _Muž vyhrožoval sousedovi smrtí._ “A man threatened his neighbor with death.”
@@ -688,6 +693,33 @@ highly preferred that the two instrumental arguments are not adjacent).
 The dative-instrumental construction is one where both objects are clearly
 less core than accusative objects, but none of the two is more or less core
 than the other. Therefore, none of them can be labeled as indirect.
+
+* _Petr dal Katce knihu._ “Petr gave Katka a book.”
+
+~~~ conllu
+# text = Petr dal Katce knihu.
+# text_en = Petr gave Katka a book.
+1	Petr	Petr	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	2	nsubj	_	Gloss=Petr
+2	dal	dát	VERB	_	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	Gloss=gave
+3	Katce	Katka	PROPN	_	Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos	2	iobj	_	Gloss=to-Katka
+4	knihu	kniha	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	2	obj	_	Gloss=book|SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+~~~
+
+* _Kniha byla dána Katce Petrem._ “The book was given to Katka by Petr.”
+
+~~~ conllu
+# text = Kniha byla dána Katce Petrem.
+# text_en = The book was given to Katka by Petr.
+1	Kniha	kniha	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	3	nsubj:pass	_	Gloss=book
+2	byla	být	AUX	_	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	3	aux:pass	_	Gloss=was
+3	dána	daný	ADJ	_	Gender=Fem|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	Gloss=given
+4	Katce	Katka	PROPN	_	Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos	3	iobj	_	Gloss=to-Katka
+5	Petrem	Petr	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	3	obl:agent	_	Gloss=by-Petr|SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+~~~
 
 
 
