@@ -768,6 +768,18 @@ The single argument of intransitive verbs takes sometimes the absolutive
 and sometimes the ergative form. It is labeled as subject in both cases.
 <span style="color:red">TO DO: Verify!</span>
 
+* _Gizona hil da._ “The man has died.”
+
+~~~ conllu
+# text = Gizona hil da.
+# text_en = The man has died.
+1	Gizona	gizon	NOUN	_	Animacy=Anim|Case=Abs|Definite=Def|Number=Sing	2	nsubj	_	Gloss=the-man
+2	hil	hil	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	Gloss=died
+3	da	izan	AUX	_	Aspect=Prog|Mood=Ind|Number[abs]=Sing|Person[abs]=3	2	aux	_	Gloss=has|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+~~~
+
 The third core case is the dative. Arguments in all three core cases are
 cross-referenced on finite verbs. Thanks to cross-referencing, the arguments
 can be omitted if they are just personal pronouns.
