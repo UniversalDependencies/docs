@@ -29,12 +29,12 @@ This table summarizes the origins and checking of the various columns of the CoN
 | ------ | ------ |
 | ID | Sentence segmentation and tokenization was automatically done using [ՀայՆիշ-ArmTDP tokenizer](https://github.com/Armtreebank/Tokenizer). Additional changes (splitting and merging) were done manually during the annotation. |
 | FORM |  |
-| LEMMA | Generated automatically from FORM using Eastern Armenian lexicons and then hand-corrected. |
-| UPOSTAG | Generated automatically from LEMMA and then hand-corrected. |
+| LEMMA | Manual selection from possibilities provided by morphological analysis using Eastern Armenian lexicons: two annotators and then an arbiter. |
+| UPOSTAG | Manual selection from possibilities provided by morphological analysis: two annotators and then an arbiter. |
 | XPOSTAG | _ (currently unused) |
-| FEATS | Generated automatically from FORM and then hand-corrected. |
-| HEAD | Annotated manually. |
-| DEPREL | Annotated manually. |
+| FEATS | Generated automatically from UPOSTAG, and then hand-corrected. |
+| HEAD | Original UD annotation is manual, done by two independent annotators and then an arbiter. |
+| DEPREL | Original UD annotation is manual, done by two independent annotators and then an arbiter. |
 | DEPS | _ (currently unused) |
 | MISC | Information about token spacing. |
 
