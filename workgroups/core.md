@@ -721,6 +721,19 @@ than the other. Therefore, none of them can be labeled as indirect.
 
 ~~~
 
+* _Tomáš mě učí matematiku._ “Tomáš teaches me mathematics.”
+
+~~~ conllu
+# text = Tomáš mě učí matematiku.
+# text_en = Tomáš teaches me mathematics.
+1	Tomáš	Tomáš	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	3	nsubj	_	Gloss=Tomáš
+2	mě	já	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Variant=Short	3	obj	_	Gloss=me
+3	učí	učit	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=teaches
+4	matematiku	matematika	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	3	obj	_	Gloss=mathematics|SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+~~~
+
 
 
 ## Can Adjectives Have Core Arguments?
