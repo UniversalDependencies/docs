@@ -745,9 +745,10 @@ Fernando Zúñiga, Beatriz Fernández (draft 26.6.2014):
 
 In Basque, like in Czech, nominal case morphology is essential for recognition
 of core argument relations. However, instead of nominative-accusative, the
-core pair of cases in Basque is ergative-absolutive. If a verb has two core
-arguments, then one of them is ergative and the other is absolutive. The
-ergative argument is labeled as subject, the absolutive argument is object.
+core pair of cases in Basque is ergative-absolutive.
+Most two-argument verbs have one argument in the ergative and the other in
+the absolutive case (but see below for other possibilities).
+The ergative argument is labeled as subject, the absolutive argument is object.
 With primary transitive verbs, the ergative argument corresponds to the agent
 and the absolutive argument to the patient.
 
