@@ -795,6 +795,37 @@ The third core case is the dative. Arguments in all three core cases are
 cross-referenced on finite verbs. Thanks to cross-referencing, the arguments
 can be omitted if they are just personal pronouns.
 
+Some two-argument verbs take dative+absolutive, instead of ergative+absolutive:
+
+* _(Niri) ardoa gustatzen zait._ “I like wine.” (lit. “To-me the-wine pleasing is.”)
+
+~~~ conllu
+# text = Niri ardoa gustatzen zait.
+# text_en = I like wine.
+1	Niri	ni	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	iobj	_	Gloss=to-me
+2	ardoa	ardo	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	3	obj	_	Gloss=wine
+2	gustatzen	gustatzen	VERB	_	Aspect=Imp|VerbForm=Part	0	root	_	Gloss=pleasing
+3	zait	izan	AUX	_	Mood=Ind|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=1|VerbForm=Fin	2	aux	_	Gloss=is|SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+~~~
+
+Some two-argument verbs take ergative+dative, instead of ergative+absolutive:
+
+* _Irakasleak haserre begiratu die ikasleei._ “The teacher has looked angrily at the students.”
+
+~~~ conllu
+# text = Irakasleak haserre begiratu die ikasleei
+# text_en = The teacher has looked angrily at the students.
+1	Irakasleak	irakasle	NOUN	_	Animacy=Anim|Case=Erg|Definite=Def|Number=Sing	3	nsubj	_	Gloss=the-teacher
+2	haserre	haserre	ADV	_	_	3	advmod	_	Gloss=angrily
+3	begiratu	begiratu	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	Gloss=looked
+4	die	*edun	AUX	_	Mood=Ind|Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3|VerbForm=Fin	3	aux	_	Gloss=has
+5	ikasleei	ikasle	NOUN	_	Animacy=Anim|Case=Dat|Definite=Def|Number=Plur	3	iobj	_	Gloss=to-students|SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+~~~
+
 * _Zezenak saihetsa pitzatu zidan._ “The bull cracked my rib.”
   (ergative argument: 3 singular; absolutive argument: 3 singular; dative argument: 1 singular)
 
