@@ -614,18 +614,25 @@ from instrumental adjuncts.
 
 * _Novináři musí dbát zásad objektivity._ “Journalists must observe principles of objectivity.” (genitive)
 * _Musí být dbáno zásad objektivity._ “Principles of objectivity must be observed.”
-* _Karel hýbal nábytkem._ “Karel moved furniture.”
+* _Karel hýbal nábytkem._ “Karel moved furniture.” (instrumental)
 * _Nábytkem bylo hýbáno._ “The furniture has been moved.”
 
 The Czech grammar also recognizes prepositional objects but we do not consider
 them core (which means they are not objects in UD). In fact, the definition
 of object in the Czech grammar is identical with argument and leads to the
 argument/adjunct distinction, disfavored in UD. Most adjuncts are prepositional
-phrases, thus the bulk of the decisions would have to be done here; that is the
+phrases, thus the bulk of the decisions would have to be done for prepositional phrases;
+that is the
 main reason why bare datives are analyzed as core objects while prepositional
 phrases are not. It is worth noting that the neuter singular passivization
 described with bare datives, genitives and instrumentals is also available
-for prepositional phrases and even for some intransitive verbs.
+for prepositional phrases and even for some intransitive verbs, although
+such constructions are rare:
+
+* _Spoléhali na ředitelovo rozhodnutí._ “They relied on the director's decision.”
+* _Na ředitelovo rozhodnutí bylo spoléháno._ “It was relied on the director's decision.”
+* _Ředitel rozhodl v pátek._ “The director decided on Friday.”
+* _V pátek bylo rozhodnuto._ “It was decided on Friday.”
 
 
 
