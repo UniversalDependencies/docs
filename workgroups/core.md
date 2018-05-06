@@ -881,7 +881,44 @@ constructions that have been called passive by some authors in the past.
  https://books.google.cz/books?id=nIaPL4kLt6cC&pg=PA599&lpg=PA599&dq=gustatzen+causative&source=bl&ots=LcI8u2JhcB&sig=LrbPxId629ESf0v70hw2EY73J70&hl=cs&sa=X&ved=2ahUKEwjFluOAwu_aAhWFDiwKHVbXCYkQ6AEwAXoECAAQMA#v=onepage&q=gustatzen%20causative&f=false -->
 
 While the passive, if it existed, would decrease the valency of the verb,
-there is another operation that increases the valency: the causative.
+there is another operation that increases the valency: the causative:
+
+1. Active verb form is replaced by causative.
+2. Former subject becomes dative object and denotes the causee.
+3. A new ergative subject appears and denotes the causer.
+
+Analogically to the passive, it is recommended that the relations with modified
+interpretation (if overtly present) are labeled as subtypes:
+the causer as [nsubj:caus](/fr/dep/nsubj-caus.html)
+and the true agent as [iobj:agent](/fr/dep/iobj-agent.html).
+
+* _(Guk) arazo hau ikusi genuen._ “We have seen this problem.” (active)
+* _(Horiek) (guri) arazo hau ikuserazi digute._ “They have made us see this problem.” (causative)
+
+~~~ conllu
+# text = Guk arazo hau ikusi genuen.
+# text_en = We have seen this problem.
+1	Guk	gu	PRON	_	Case=Erg|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	Gloss=we
+2	arazo	arazo	NOUN	_	Animacy=Inan|Case=Abs|Definite=Ind|Number=Sing	4	obj	_	Gloss=problem
+3	hau	hau	DET	_	Case=Abs|Definite=Def|Number=Sing|PronType=Dem	2	det	_	Gloss=this
+4	ikusi	ikusi	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	Gloss=seen
+5	genuen	*edun	AUX	_	Mood=Ind|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1|VerbForm=Fin	4	aux	_	Gloss=have|SpaceAfter=No
+6	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+~~~
+
+~~~ conllu
+# text = Horiek guri arazo hau ikuserazi digute.
+# text_en = They have made us see this problem.
+1	Horiek	horiek	DET	_	Case=Erg|Definite=Def|Number=Plur|PronType=Dem	5	nsubj:caus	_	Gloss=they
+2	guri	gu	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	5	iobj:agent	_	Gloss=us
+3	arazo	arazo	NOUN	_	Animacy=Inan|Case=Abs|Definite=Ind|Number=Sing	5	obj	_	Gloss=problem
+4	hau	hau	DET	_	Case=Abs|Definite=Def|Number=Sing|PronType=Dem	3	det	_	Gloss=this
+5	ikuserazi	ikusi	VERB	_	Aspect=Perf|VerbForm=Part|Voice=Cau	0	root	_	Gloss=made-to-see
+6	digute	*edun	AUX	_	Mood=Ind|Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Plur|Person[abs]=3|Person[dat]=1|Person[erg]=3|VerbForm=Fin	5	aux	_	Gloss=have|SpaceAfter=No
+7	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+~~~
 
 
 
