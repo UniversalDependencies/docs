@@ -938,6 +938,20 @@ verbs.
 
 ~~~
 
+~~~ conllu
+# text = Goseak zopa hori izugarri gustatuerazi zion mutilari.
+# text_en = Hunger made the boy like that soup a lot.
+1	Goseak	gose	NOUN	_	Animacy=Inan|Case=Erg|Definite=Def|Number=Sing	5	nsubj:caus	_	Gloss=hunger
+2	zopa	zopa	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	5	obj	_	Gloss=soup
+3	hori	hori	DET	_	Case=Abs|Definite=Def|Number=Sing|PronType=Dem	2	det	_	Gloss=that
+4	izugarri	izugarri	ADV	_	_	5	advmod	_	Gloss=greatly
+5	gustatuerazi	gustatzen	VERB	_	Aspect=Imp|VerbForm=Part|Voice=Cau	0	root	_	Gloss=made-pleasing
+6	zion	*edun	AUX	_	Mood=Ind|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3|VerbForm=Fin	5	aux	_	Gloss=has
+7	mutilari	mutil	NOUN	_	Animacy=Anim|Case=Dat|Definite=Def|Number=Sing	5	iobj:agent	_	Gloss=the-boy|SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+~~~
+
 
 
 ## Can Adjectives Have Core Arguments?
