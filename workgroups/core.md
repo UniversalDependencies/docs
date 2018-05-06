@@ -953,6 +953,9 @@ verbs.
 
 ~~~
 
+Causative is only marginally accepted with ditransitive verbs, apparently due
+to the marginal acceptance of two dative-marked arguments in the same clause.
+
 
 
 ## Can Adjectives Have Core Arguments?
