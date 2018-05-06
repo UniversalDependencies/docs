@@ -1,10 +1,10 @@
 ---
 layout: base
-title:  'Working Group on Core Arguments'
+title:  'Working Group on Core and Oblique Arguments and Adjuncts'
 udver: '2'
 ---
 
-# Working Group on Core Arguments
+# Working Group on Core and Oblique Arguments and Adjuncts
 
 Most of this chapter focuses on arguments of [verbs](/u/pos/VERB.html).
 Some similar patterns of other parts of speech are discussed [at the end of the chapter](#can-adjectives-have-core-arguments).
@@ -26,6 +26,7 @@ Arguments realized as clauses are discussed [at the end of the chapter](#clausal
 * [Can adverbs have core arguments?](#can-adverbs-have-core-arguments)
 * [Can nouns have core arguments?](#can-nouns-have-core-arguments)
 * [Clausal complements](#clausal-complements)
+* [Summary of relations](#summary-of-relations)
 
 ## Core Arguments vs. Oblique Modifiers
 
@@ -1154,3 +1155,22 @@ Note that UD does not distinguish direct and indirect clausal complements.
 At present it is assumed that `ccomp` alternates with `obj` (direct object).
 
 <span style='color:red'>TO DO: Find Polish LFG examples where there are two ccomps in one sentence, one corresponding to obj and the other to iobj.</span>
+
+
+
+## Summary of Relations
+
+* [nsubj]() — nominal subject, corresponding to the S function in intransitive clauses and to the A function in transitive clauses.
+  If some of the `nsubj` subtypes are used in the language, then the bare `nsubj` denotes the remaining situations not covered by the subtypes.
+  * [nsubj:pass]() — nominal subject in a passive clause
+  * [nsubj:caus]() — nominal subject in a causative clause
+* [obj]() — nominal object, corresponding to the P function in transitive clauses.
+* [iobj]() — nominal indirect object, one of two objects in ditransitive clauses, the one that is “less core-like” of the two.
+  If the two objects are equal in there core-likelihood, none of them is `iobj`.
+  If some of the `iobj` subtypes are used in the language, then the bare `iobj` denotes the remaining situations not covered by the subtypes.
+  * [iobj:agent]() — true agent in a causative clause, if encoded as an indirect object.
+* [obl]() — nominal oblique argument or adjunct.
+  If some of the `obl` subtypes are used in the language, then the bare `obl` denotes the remaining situations not covered by the subtypes.
+  * [obl:agent]() — true agent in a passive clause, demoted from active subject
+  * [obl:arg]() — oblique argument other than `obl:agent`
+  * [obl:tmod]() — temporal adjunct
