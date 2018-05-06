@@ -841,7 +841,8 @@ There are verbs that take all three core arguments. In such constructions,
 the ergative encodes the A function, absolutive the P function (also T function = theme-like),
 and dative the G function (goal). In terms of dependency relations, it seems
 reasonable to label the ergative as `nsubj`, absolutive as `obj` and dative
-as `iobj` just to distinguish them; though the grammar does not seem to
+as `iobj` just to distinguish them and to acknowledge that absolutives and
+ergatives are more frequent than datives; though the grammar does not seem to
 target the absolutive argument in specific rules, which would make it
 more core-like than the dative.
 
