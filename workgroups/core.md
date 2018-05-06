@@ -877,9 +877,6 @@ more core-like than the dative.
 Basque does not have a canonical passive construction, although there are
 constructions that have been called passive by some authors in the past.
 
-<!-- causative of dat-abs verbs
- https://books.google.cz/books?id=nIaPL4kLt6cC&pg=PA599&lpg=PA599&dq=gustatzen+causative&source=bl&ots=LcI8u2JhcB&sig=LrbPxId629ESf0v70hw2EY73J70&hl=cs&sa=X&ved=2ahUKEwjFluOAwu_aAhWFDiwKHVbXCYkQ6AEwAXoECAAQMA#v=onepage&q=gustatzen%20causative&f=false -->
-
 While the passive, if it existed, would decrease the valency of the verb,
 there is another operation that increases the valency: the causative:
 
@@ -917,6 +914,27 @@ and the true agent as [iobj:agent](/fr/dep/iobj-agent.html).
 5	ikuserazi	ikusi	VERB	_	Aspect=Perf|VerbForm=Part|Voice=Cau	0	root	_	Gloss=made-to-see
 6	digute	*edun	AUX	_	Mood=Ind|Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Plur|Person[abs]=3|Person[dat]=1|Person[erg]=3|VerbForm=Fin	5	aux	_	Gloss=have|SpaceAfter=No
 7	.	.	PUNCT	_	_	5	punct	_	Gloss=.
+
+~~~
+
+The fact that the causative
+[is available](https://books.google.cz/books?id=nIaPL4kLt6cC&pg=PA599&lpg=PA599&dq=gustatzen+causative&source=bl&ots=LcI8u2JhcB&sig=LrbPxId629ESf0v70hw2EY73J70&hl=cs&sa=X&ved=2ahUKEwjFluOAwu_aAhWFDiwKHVbXCYkQ6AEwAXoECAAQMA#v=onepage&q=gustatzen%20causative&f=false)
+for dative-absolutive verbs supports the
+claim that the dative argument indeed is the subject in active voice of those
+verbs.
+
+* _Zopa izugarri gustatzen zaio mutilari._ “The boy likes the soup a lot.”
+* _Goseak zopa hori izugarri gustatuerazi zion mutilari._ “Hunger made the boy like that soup a lot.”
+
+~~~ conllu
+# text = Zopa izugarri gustatzen zaio mutilari.
+# text_en = The boy likes the soup a lot.
+1	Zopa	zopa	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	3	obj	_	Gloss=soup
+2	izugarri	izugarri	ADV	_	_	3	advmod	_	Gloss=greatly
+3	gustatzen	gustatzen	VERB	_	Aspect=Imp|VerbForm=Part	0	root	_	Gloss=pleasing
+4	zaio	izan	AUX	_	Mood=Ind|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3|VerbForm=Fin	3	aux	_	Gloss=is
+5	mutilari	mutil	NOUN	_	Animacy=Anim|Case=Dat|Definite=Def|Number=Sing	3	nsubj	_	Gloss=to-the-boy|SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 ~~~
 
