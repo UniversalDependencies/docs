@@ -22,6 +22,7 @@ Arguments realized as clauses are discussed [at the end of the chapter](#clausal
   * [Spanish](#spanish)
   * [Czech](#czech)
   * [Basque](#basque)
+  * [Yidiɲ](#yidiɲ)
 * [Can adjectives have core arguments?](#can-adjectives-have-core-arguments)
 * [Can adverbs have core arguments?](#can-adverbs-have-core-arguments)
 * [Can nouns have core arguments?](#can-nouns-have-core-arguments)
