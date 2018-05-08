@@ -970,62 +970,73 @@ Yidiɲ (Pama-Nyungan, Australia) has a combination of the ergative-absolutive
 system (similar to Basque) and the nominative-accusative system (similar to
 Czech). The former pair is typical for nouns, the latter for pronouns.
 
+* _Ŋayu maŋga:ɲ._ “I laughed.” (nominative)
+* _Buɲa maŋga:ɲ._ “The woman laughed.” (absolutive)
+* _Ŋaɲaɲ buɲa:ŋ wuɹa:ɲ._ “The woman slapped me.” (ergative-accusative)
+* _Ŋayu buɲa wuɹa:ɲ._ “I slapped the woman.” (nominative-absolutive)
+* _Waguɖaŋgu guda:ga wawa:l._ “The man saw the dog.” (ergative-absolutive)
+
 ~~~ conllu
 # sent_id = 3.98a/yii
 # Yidiɲ (Pama-Nyungan, Australia)
 # source = Dixon, 1977
-# text = ŋayu maŋga:ɲ
+# text = Ŋayu maŋga:ɲ.
 # gloss = I(NOM) laugh-PAST
-# text_en = I laughed
-1	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|MGloss=I(NOM)
-2	maŋga:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=laughed|MSeg=maŋga:-ɲ|MGloss=laugh-PAST
+# text_en = I laughed.
+1	Ŋayu	ŋayu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|MGloss=I(NOM)
+2	maŋga:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=laughed|MSeg=maŋga:-ɲ|MGloss=laugh-PAST|SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 ~~~
 ~~~ conllu
 # sent_id = 3.98b/yii
 # Yidiɲ (Pama-Nyungan, Australia)
 # source = Dixon, 1977
-# text = buɲa maŋga:ɲ
+# text = Buɲa maŋga:ɲ.
 # gloss = woman(ABS) laugh-PAST
-# text_en = The woman laughed
-1	buɲa	_	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Gloss=woman|MGloss=woman(ABS)
-2	maŋga:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=laughed|MSeg=maŋga:-ɲ|MGloss=laugh-PAST
+# text_en = The woman laughed.
+1	Buɲa	buɲa	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Gloss=woman|MGloss=woman(ABS)
+2	maŋga:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=laughed|MSeg=maŋga:-ɲ|MGloss=laugh-PAST|SpaceAfter=No
+3	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 ~~~
 ~~~ conllu
 # sent_id = 3.98c/yii
 # Yidiɲ (Pama-Nyungan, Australia)
 # source = Dixon, 1977
-# text = ŋaɲaɲ buɲa:ŋ wuɹa:ɲ
+# text = Ŋaɲaɲ buɲa:ŋ wuɹa:ɲ.
 # gloss = I(ACC) woman-ERG slap-PAST
-# text_en = The woman slapped me
-1	ŋaɲaɲ	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	Gloss=me|MGloss=I(ACC)
-2	buɲa:ŋ	_	NOUN	_	Case=Erg|Number=Sing	3	nsubj	_	Gloss=woman|MSeg=buɲa:-ŋ|MGloss=woman-ERG
-3	wuɹa:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=slapped|MSeg=wuɹa:-ɲ|MGloss=slap-PAST
+# text_en = The woman slapped me.
+1	Ŋaɲaɲ	ŋayu	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	Gloss=me|MGloss=I(ACC)
+2	buɲa:ŋ	buɲa	NOUN	_	Case=Erg|Number=Sing	3	nsubj	_	Gloss=woman|MSeg=buɲa:-ŋ|MGloss=woman-ERG
+3	wuɹa:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=slapped|MSeg=wuɹa:-ɲ|MGloss=slap-PAST|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 ~~~
 ~~~ conllu
 # sent_id = 3.98d/yii
 # Yidiɲ (Pama-Nyungan, Australia)
 # source = Dixon, 1977
-# text = ŋayu buɲa wuɹa:ɲ
+# text = Ŋayu buɲa wuɹa:ɲ.
 # gloss = I(NOM) woman(ABS) slap-PAST
-# text_en = I slapped the woman
-1	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=I(NOM)
-2	buɲa	_	NOUN	_	Case=Abs|Number=Sing	3	obj	_	Gloss=woman|MGloss=woman(ABS)
-3	wuɹa:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=slapped|MSeg=wuɹa:-ɲ|MGloss=slap-PAST
+# text_en = I slapped the woman.
+1	Ŋayu	ŋayu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=I(NOM)
+2	buɲa	buɲa	NOUN	_	Case=Abs|Number=Sing	3	obj	_	Gloss=woman|MGloss=woman(ABS)
+3	wuɹa:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=slapped|MSeg=wuɹa:-ɲ|MGloss=slap-PAST|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 ~~~
 ~~~ conllu
 # sent_id = 3.98e/yii
 # Yidiɲ (Pama-Nyungan, Australia)
 # source = Dixon, 1977
-# text = Waguɖaŋgu guda:ga wawa:l
+# text = Waguɖaŋgu guda:ga wawa:l.
 # gloss = man-ERG dog(ABS) see-PAST
-# text_en = The man saw the dog
-1	Waguɖaŋgu	_	NOUN	_	Case=Erg|Number=Sing	3	nsubj	_	Gloss=man|MSeg=Waguɖa-ŋgu|MGloss=man-ERG
-2	guda:ga	_	NOUN	_	Case=Abs|Number=Sing	3	obj	_	Gloss=dog|MGloss=dog(ABS)
-3	wawa:l	_	VERB	_	Tense=Past	0	root	_	Gloss=saw|MSeg=wawa:-l|MGloss=see-PAST
+# text_en = The man saw the dog.
+1	Waguɖaŋgu	waguɖa	NOUN	_	Case=Erg|Number=Sing	3	nsubj	_	Gloss=man|MSeg=Waguɖa-ŋgu|MGloss=man-ERG
+2	guda:ga	guda:ga	NOUN	_	Case=Abs|Number=Sing	3	obj	_	Gloss=dog|MGloss=dog(ABS)
+3	wawa:l	_	VERB	_	Tense=Past	0	root	_	Gloss=saw|MSeg=wawa:-l|MGloss=see-PAST|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 ~~~
 ~~~ conllu
