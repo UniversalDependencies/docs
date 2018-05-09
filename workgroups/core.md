@@ -1310,6 +1310,50 @@ with accusative.
 
 ~~~
 
+<!--
+Tagalog personal pronouns
+		Nom (ang)	Acc (ng)	Loc (sa)
+1 Sing		ako		ko		akin		I
+2 Sing		ikaw/ka		mo		iyo		you
+3 Sing		siya		niya		kanya		he/she/it
+1 Plur Ex	kami		namin		amin		we
+1 Plur In	tayo		natin		atin		we
+2 Plur		kayo		ninyo		inyo		you
+3 Plur		sila		nila		kanila		they
+-->
+Transitive (two-argument) sentences have two core arguments, one in the
+nominative (pronoun or determiner) and the other in the accusative. We may
+want to use relation subtypes for the arguments in the patient voice (similarly
+to what we do in the English passive): [nsubj:pass]() for the subject and
+[obj:agent]() (not `obl:agent`!) for the object. However, the subtypes should
+not be taken to suggest that the agent voice is default and unmarked.
+
+* _Naglilinis siya ng bahay._ “She cleans the house.” (agent voice)
+
+~~~ conllu
+# text = Naglilinis siya ng bahay.
+# text_en = She cleans the house.
+1	Naglilinis	linis	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=cleans
+2	siya	siya	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=he/she
+3	ng	ng	DET	_	Case=Acc|PronType=Art	4	det	_	Gloss=DET
+4	bahay	bahay	NOUN	_	_	1	obj	_	Gloss=house|SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	Gloss=punct
+
+~~~
+
+* _Nililinis niya ang bahay._ “She cleans the house. / The house is cleaned by her.” (patient voice)
+
+~~~ conllu
+# text = Nililinis niya ang bahay.
+# text_en = She cleans the house. / The house is cleaned by her.
+1	Nililinis	linis	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=cleans
+2	niya	siya	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj:agent	_	Gloss=he/she
+3	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	4	det	_	Gloss=the
+4	bahay	bahay	NOUN	_	_	1	nsubj:pass	_	Gloss=house|SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	Gloss=punct
+
+~~~
+
 
 
 <!---------------------------------------------------------------------------->
