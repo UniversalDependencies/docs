@@ -1050,18 +1050,18 @@ There is a near requirement (with some exceptions) that the coreferential
 nominal has S/P function in both clauses, i.e., it is the subject of an
 intransitive predicate or the object of a transitive predicate:
 
-* _Ŋayu manga:ɲ (ŋaɲaɲ) buɲa:n wuɹa:ɲunda._ “I, (who) was slapped by the woman, laughed.”
+* _Ŋayu maŋga:ɲ (ŋaɲaɲ) buɲa:n wuɹa:ɲunda._ “I, (who) was slapped by the woman, laughed.”
 * _Ŋaɲaɲ buɲa:ŋ wuɹa:ɲ (ŋayu) maŋga:ɲunda._ “I, (who) was lauging, was slapped by the woman.”
 
 ~~~ conllu
 # sent_id = 3.99aa/yii
 # Yidiɲ (Pama-Nyungan, Australia)
 # source = Dixon, 1977
-# text = Ŋayu manga:ɲ ŋaɲaɲ buɲa:n wuɹa:ɲunda.
+# text = Ŋayu maŋga:ɲ ŋaɲaɲ buɲa:n wuɹa:ɲunda.
 # gloss = I(NOM) laugh-PAST I-ACC woman-ERG slap-DATSUB
 # text_en = I, who was slapped by the woman, laughed.
 1	Ŋayu	ŋayu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|MGloss=I(NOM)
-2	manga:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=laughed|MSeg=maŋga:-ɲ|MGloss=laugh-PAST
+2	maŋga:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=laughed|MSeg=maŋga:-ɲ|MGloss=laugh-PAST
 3	ŋaɲaɲ	ŋayu	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obj	_	Gloss=me|MGloss=I(ACC)
 4	buɲa:ŋ	buɲa	NOUN	_	Case=Erg|Number=Sing	5	nsubj	_	Gloss=woman|MSeg=buɲa:-n|MGloss=woman-ERG
 5	wuɹa:ɲunda	_	VERB	_	Mood=Sub	1	acl:datsub	_	Gloss=slapping|MSeg=wuɹa:-ɲunda|MGloss=slap-DATSUB|SpaceAfter=No
