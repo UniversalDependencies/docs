@@ -968,7 +968,7 @@ See also:
   In _Timothy Shopen (ed.): Language Typology and Syntactic Description, second edition, volume I: Clause Structure._
   Pp. 193-197. Cambridge University Press. ISBN 978-0-521-58156-1.
 * R. M. W. Dixon: _A Grammar of Yidiny_ (1977).
-  Cambridge: Cambridge University Press.
+  Cambridge: Cambridge University Press. ISBN 978-0-521-21462-9.
 
 Yidiɲ (Pama-Nyungan, Australia) has a combination of the ergative-absolutive
 system (similar to Basque) and the nominative-accusative system (similar to
@@ -988,7 +988,7 @@ Czech). The former pair is typical for nouns, the latter for pronouns.
 # gloss = I(NOM) laugh-PAST
 # text_en = I laughed.
 1	Ŋayu	ŋayu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|MGloss=I(NOM)
-2	maŋga:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=laughed|MSeg=maŋga:-ɲ|MGloss=laugh-PAST|SpaceAfter=No
+2	maŋga:ɲ	maŋgan	VERB	_	Tense=Past	0	root	_	Gloss=laughed|MSeg=maŋga:-ɲ|MGloss=laugh-PAST|SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 ~~~
@@ -1000,7 +1000,7 @@ Czech). The former pair is typical for nouns, the latter for pronouns.
 # gloss = woman(ABS) laugh-PAST
 # text_en = The woman laughed.
 1	Buɲa	buɲa	NOUN	_	Case=Abs|Number=Sing	2	nsubj	_	Gloss=woman|MGloss=woman(ABS)
-2	maŋga:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=laughed|MSeg=maŋga:-ɲ|MGloss=laugh-PAST|SpaceAfter=No
+2	maŋga:ɲ	maŋgan	VERB	_	Tense=Past	0	root	_	Gloss=laughed|MSeg=maŋga:-ɲ|MGloss=laugh-PAST|SpaceAfter=No
 3	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 ~~~
@@ -1013,7 +1013,7 @@ Czech). The former pair is typical for nouns, the latter for pronouns.
 # text_en = The woman slapped me.
 1	Ŋaɲaɲ	ŋayu	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	Gloss=me|MGloss=I(ACC)
 2	buɲa:ŋ	buɲa	NOUN	_	Case=Erg|Number=Sing	3	nsubj	_	Gloss=woman|MSeg=buɲa:-ŋ|MGloss=woman-ERG
-3	wuɹa:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=slapped|MSeg=wuɹa:-ɲ|MGloss=slap-PAST|SpaceAfter=No
+3	wuɹa:ɲ	wuɹan	VERB	_	Tense=Past	0	root	_	Gloss=slapped|MSeg=wuɹa:-ɲ|MGloss=slap-PAST|SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 ~~~
@@ -1026,7 +1026,7 @@ Czech). The former pair is typical for nouns, the latter for pronouns.
 # text_en = I slapped the woman.
 1	Ŋayu	ŋayu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=I(NOM)
 2	buɲa	buɲa	NOUN	_	Case=Abs|Number=Sing	3	obj	_	Gloss=woman|MGloss=woman(ABS)
-3	wuɹa:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=slapped|MSeg=wuɹa:-ɲ|MGloss=slap-PAST|SpaceAfter=No
+3	wuɹa:ɲ	wuɹan	VERB	_	Tense=Past	0	root	_	Gloss=slapped|MSeg=wuɹa:-ɲ|MGloss=slap-PAST|SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 ~~~
@@ -1039,7 +1039,7 @@ Czech). The former pair is typical for nouns, the latter for pronouns.
 # text_en = The man saw the dog.
 1	Waguɖaŋgu	wagu:ɖa	NOUN	_	Case=Erg|Number=Sing	3	nsubj	_	Gloss=man|MSeg=Waguɖa-ŋgu|MGloss=man-ERG
 2	guda:ga	guda:ga	NOUN	_	Case=Abs|Number=Sing	3	obj	_	Gloss=dog|MGloss=dog(ABS)
-3	wawa:l	_	VERB	_	Tense=Past	0	root	_	Gloss=saw|MSeg=wawa:-l|MGloss=see-PAST|SpaceAfter=No
+3	wawa:l	wawal	VERB	_	Tense=Past	0	root	_	Gloss=saw|MSeg=wawa:-l|MGloss=see-PAST|SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 ~~~
@@ -1064,10 +1064,10 @@ intransitive predicate or the object of a transitive predicate:
 # gloss = I(NOM) laugh-PAST I-ACC woman-ERG slap-DATSUB
 # text_en = I, who was slapped by the woman, laughed.
 1	Ŋayu	ŋayu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|MGloss=I(NOM)
-2	maŋga:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=laughed|MSeg=maŋga:-ɲ|MGloss=laugh-PAST
+2	maŋga:ɲ	maŋgan	VERB	_	Tense=Past	0	root	_	Gloss=laughed|MSeg=maŋga:-ɲ|MGloss=laugh-PAST
 3	ŋaɲaɲ	ŋayu	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obj	_	Gloss=me|MGloss=I(ACC)
 4	buɲa:ŋ	buɲa	NOUN	_	Case=Erg|Number=Sing	5	nsubj	_	Gloss=woman|MSeg=buɲa:-n|MGloss=woman-ERG
-5	wuɹa:ɲunda	_	VERB	_	Mood=Sub	1	acl:datsub	_	Gloss=slapping|MSeg=wuɹa:-ɲunda|MGloss=slap-DATSUB|SpaceAfter=No
+5	wuɹa:ɲunda	wuɹan	VERB	_	Mood=Sub	1	acl:datsub	_	Gloss=slapping|MSeg=wuɹa:-ɲunda|MGloss=slap-DATSUB|SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 ~~~
@@ -1080,9 +1080,9 @@ intransitive predicate or the object of a transitive predicate:
 # text_en = I, who was laughing, was slapped by the woman.
 1	Ŋaɲaɲ	ŋayu	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	Gloss=me|MGloss=I(ACC)
 2	buɲa:ŋ	buɲa	NOUN	_	Case=Erg|Number=Sing	3	nsubj	_	Gloss=woman|MSeg=buɲa:-ŋ|MGloss=woman-ERG
-3	wuɹa:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=slapped|MSeg=wuɹa-ɲ|MGloss=slap-PAST
+3	wuɹa:ɲ	wuɹan	VERB	_	Tense=Past	0	root	_	Gloss=slapped|MSeg=wuɹa-ɲ|MGloss=slap-PAST
 4	ŋayu	ŋayu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=I|MGloss=I(NOM)
-5	maŋga:ɲunda	_	VERB	_	Mood=Sub	1	acl:datsub	_	Gloss=laughing|MSeg=maŋga-ɲunda|MGloss=laugh-DATSUB|SpaceAfter=No
+5	maŋga:ɲunda	maŋgan	VERB	_	Mood=Sub	1	acl:datsub	_	Gloss=laughing|MSeg=maŋga-ɲunda|MGloss=laugh-DATSUB|SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 ~~~
@@ -1110,7 +1110,7 @@ demoted object: [obl:patient]().
 # text_en = The man saw the dog.
 1	Wagu:ɖa	wagu:ɖa	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Gloss=man|MGloss=man(ABS)
 2	gudaganda	guda:ga	NOUN	_	Case=Dat|Number=Sing	3	obl:patient	_	Gloss=dog|MSeg=gudaga-nda|MGloss=dog-DAT
-3	wawa:ɖiɲu	_	VERB	_	Tense=Past|Voice=Antip	0	root	_	Gloss=saw|MSeg=wawa:-ɖi-ɲu|MGloss=see-ANTIPASS-PAST|SpaceAfter=No
+3	wawa:ɖiɲu	wawal	VERB	_	Tense=Past|Voice=Antip	0	root	_	Gloss=saw|MSeg=wawa:-ɖi-ɲu|MGloss=see-ANTIPASS-PAST|SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 ~~~
@@ -1127,150 +1127,87 @@ demoted object: [obl:patient]().
 # text_en = I slapped the woman.
 1	Ŋayu	ŋayu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=I(NOM)
 2	buɲa:nda	buɲa	NOUN	_	Case=Dat|Number=Sing	3	obl:patient	_	Gloss=woman|MSeg=buɲa:-nda|MGloss=woman-DAT
-3	wuɹa:ɖiɲu	_	VERB	_	Tense=Past|Voice=Antip	0	root	_	Gloss=slapped|MSeg=wuɹa:-ɖi-ɲu|MGloss=slap-ANTIPASS-PAST|SpaceAfter=No
+3	wuɹa:ɖiɲu	wuɹan	VERB	_	Tense=Past|Voice=Antip	0	root	_	Gloss=slapped|MSeg=wuɹa:-ɖi-ɲu|MGloss=slap-ANTIPASS-PAST|SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 ~~~
 
-<span style="color:red">TO DO.</span>
+It is now possible to combine clauses so that the subject of an originally
+transitive (now intransitive) predicate is coreferential:
+
+* _Ŋayu maŋga:ɲ (ŋayu) buɲa:nda wuɹa:ɖiɲunda._ “I, (who) was slapping the woman, laughed.”
 
 ~~~ conllu
 # sent_id = 3.101aa/yii
 # Yidiɲ (Pama-Nyungan, Australia)
 # source = Dixon, 1977
-# text = ŋayu maŋga:ɲ ŋayu buɲa:nda wuɹa:ɖiɲunda
+# text = Ŋayu maŋga:ɲ ŋayu buɲa:nda wuɹa:ɖiɲunda.
 # gloss = I(NOM) laugh-PAST I(NOM) woman-DAT slap-ANTIPASS-DATSUB
-# text_en = I, who was slapping the woman, laughed; I laughed while slapping the woman
-1	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|MGloss=I(NOM)
-2	maŋga:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=laughed|MSeg=maŋga:-ɲ|MGloss=laugh-PAST
-3	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=I|MGloss=I(NOM)
-4	buɲa:nda	_	NOUN	_	Case=Dat|Number=Sing	5	obl:patient	_	Gloss=woman|MSeg=buɲa:-nda|MGloss=woman-DAT
-5	wuɹa:ɖiɲunda	_	VERB	_	Mood=Sub|Voice=Antip	1	acl:datsub	_	Gloss=slapped|MSeg=wuɹa:-ɖi-ɲunda|MGloss=slap-ANTIPASS-DATSUB
+# text_en = I, who was slapping the woman, laughed; I laughed while slapping the woman.
+1	Ŋayu	ŋayu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|MGloss=I(NOM)
+2	maŋga:ɲ	maŋgan	VERB	_	Tense=Past	0	root	_	Gloss=laughed|MSeg=maŋga:-ɲ|MGloss=laugh-PAST
+3	ŋayu	ŋayu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=I|MGloss=I(NOM)
+4	buɲa:nda	buɲa	NOUN	_	Case=Dat|Number=Sing	5	obl:patient	_	Gloss=woman|MSeg=buɲa:-nda|MGloss=woman-DAT
+5	wuɹa:ɖiɲunda	wuɹan	VERB	_	Mood=Sub|Voice=Antip	1	acl:datsub	_	Gloss=slapped|MSeg=wuɹa:-ɖi-ɲunda|MGloss=slap-ANTIPASS-DATSUB|SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 ~~~
-~~~ conllu
-# sent_id = 3.101ab/yii
-# Yidiɲ (Pama-Nyungan, Australia)
-# source = Dixon, 1977
-# text = ŋayu maŋga:ɲ buɲa:nda wuɹa:ɖiɲunda
-# gloss = I(NOM) laugh-PAST woman-DAT slap-ANTIPASS-DATSUB
-# text_en = I, who was slapping the woman, laughed; I laughed while slapping the woman
-1	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|MGloss=I(NOM)
-2	maŋga:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=laughed|MSeg=maŋga:-ɲ|MGloss=laugh-PAST
-3	buɲa:nda	_	NOUN	_	Case=Dat|Number=Sing	4	obl:patient	_	Gloss=woman|MSeg=buɲa:-nda|MGloss=woman-DAT
-4	wuɹa:ɖiɲunda	_	VERB	_	Mood=Sub|Voice=Antip	1	acl:datsub	_	Gloss=slapped|MSeg=wuɹa:-ɖi-ɲunda|MGloss=slap-ANTIPASS-DATSUB
 
-~~~
+* _Ŋayu buɲa:nda wuɹa:ɖiɲu (ŋayu) maŋgaɲunda._ “I, (who) was laughing, slapped the woman.”
+
 ~~~ conllu
 # sent_id = 3.101ba/yii
 # Yidiɲ (Pama-Nyungan, Australia)
 # source = Dixon, 1977
-# text = ŋayu buɲa:nda wuɹa:ɖiɲu ŋayu maŋgaɲunda
+# text = Ŋayu buɲa:nda wuɹa:ɖiɲu ŋayu maŋgaɲunda.
 # gloss = I(NOM) woman-DAT slap-ANTIPASS-PAST I(NOM) laugh-DATSUB
-# text_en = I, who was laughing, slapped the woman; I slapped the woman while laughing
-1	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=I(NOM)
-2	buɲa:nda	_	NOUN	_	Case=Dat|Number=Sing	3	obl:patient	_	Gloss=woman|MSeg=buɲa:-nda|MGloss=woman-DAT
-3	wuɹa:ɖiɲu	_	VERB	_	Tense=Past|Voice=Antip	0	root	_	Gloss=slapped|MSeg=wuɹa:-ɖi-ɲu|MGloss=slap-ANTIPASS-PAST
-4	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=I|MGloss=I(NOM)
-5	maŋgaɲunda	_	VERB	_	Mood=Sub	1	acl:datsub	_	Gloss=laughed|MSeg=maŋga-ɲunda|MGloss=laugh-DATSUB
+# text_en = I, who was laughing, slapped the woman; I slapped the woman while laughing.
+1	Ŋayu	ŋayu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=I(NOM)
+2	buɲa:nda	buɲa	NOUN	_	Case=Dat|Number=Sing	3	obl:patient	_	Gloss=woman|MSeg=buɲa:-nda|MGloss=woman-DAT
+3	wuɹa:ɖiɲu	wuɹan	VERB	_	Tense=Past|Voice=Antip	0	root	_	Gloss=slapped|MSeg=wuɹa:-ɖi-ɲu|MGloss=slap-ANTIPASS-PAST
+4	ŋayu	ŋayu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=I|MGloss=I(NOM)
+5	maŋgaɲunda	maŋgan	VERB	_	Mood=Sub	1	acl:datsub	_	Gloss=laughed|MSeg=maŋga-ɲunda|MGloss=laugh-DATSUB|SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 ~~~
+
+Andrews notes that besides the relative clause analysis, these sentences can
+be also interpreted adverbially. The core-oblique distinction and the antipassive
+stay the same but the UD trees change:
+
+* _Ŋayu maŋga:ɲ (ŋayu) buɲa:nda wuɹa:ɖiɲunda._ “I laughed while slapping the woman.”
+
 ~~~ conllu
-# sent_id = 3.101bb/yii
+# sent_id = 3.101aa/yii
 # Yidiɲ (Pama-Nyungan, Australia)
 # source = Dixon, 1977
-# text = ŋayu buɲa:nda wuɹa:ɖiɲu maŋgaɲunda
-# gloss = I(NOM) woman-DAT slap-ANTIPASS-PAST laugh-DATSUB
-# text_en = I, who was laughing, slapped the woman; I slapped the woman while laughing
-1	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=I(NOM)
-2	buɲa:nda	_	NOUN	_	Case=Dat|Number=Sing	3	obl:patient	_	Gloss=woman|MSeg=buɲa:-nda|MGloss=woman-DAT
-3	wuɹa:ɖiɲu	_	VERB	_	Tense=Past|Voice=Antip	0	root	_	Gloss=slapped|MSeg=wuɹa:-ɖi-ɲu|MGloss=slap-ANTIPASS-PAST
-4	maŋgaɲunda	_	VERB	_	Mood=Sub	1	acl:datsub	_	Gloss=laughed|MSeg=maŋga-ɲunda|MGloss=laugh-DATSUB
+# text = Ŋayu maŋga:ɲ ŋayu buɲa:nda wuɹa:ɖiɲunda.
+# gloss = I(NOM) laugh-PAST I(NOM) woman-DAT slap-ANTIPASS-DATSUB
+# text_en = I, who was slapping the woman, laughed; I laughed while slapping the woman.
+1	Ŋayu	ŋayu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|MGloss=I(NOM)
+2	maŋga:ɲ	maŋgan	VERB	_	Tense=Past	0	root	_	Gloss=laughed|MSeg=maŋga:-ɲ|MGloss=laugh-PAST
+3	ŋayu	ŋayu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=I|MGloss=I(NOM)
+4	buɲa:nda	buɲa	NOUN	_	Case=Dat|Number=Sing	5	obl:patient	_	Gloss=woman|MSeg=buɲa:-nda|MGloss=woman-DAT
+5	wuɹa:ɖiɲunda	wuɹan	VERB	_	Mood=Sub|Voice=Antip	2	advcl:datsub	_	Gloss=slapped|MSeg=wuɹa:-ɖi-ɲunda|MGloss=slap-ANTIPASS-DATSUB|SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 ~~~
-~~~ conllu
-# sent_id = 3.102aa/yii
-# Yidiɲ (Pama-Nyungan, Australia)
-# source = Dixon, 1977a:370-1
-# text = ɲundu guwa galin
-# gloss = you(SG) west go-IMPER
-# text_en = You go west!
-1	ɲundu	_	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Gloss=you|MGloss=you(SG)
-2	guwa	_	ADV	_	_	3	advmod	_	Gloss=west
-3	galin	_	VERB	_	Mood=Imp	0	root	_	Gloss=go|MSeg=gali-n|MGloss=go-IMPER
 
-~~~
-~~~ conllu
-# sent_id = 3.102ab/yii
-# Yidiɲ (Pama-Nyungan, Australia)
-# source = Dixon, 1977a:370-1
-# text = Guwa galin
-# gloss = west go-IMPER
-# text_en = Go west!
-1	Guwa	_	ADV	_	_	2	advmod	_	Gloss=west
-2	galin	_	VERB	_	Mood=Imp	0	root	_	Gloss=go|MSeg=gali-n|MGloss=go-IMPER
+* _Ŋayu buɲa:nda wuɹa:ɖiɲu (ŋayu) maŋgaɲunda._ “I slapped the woman while laughing.”
 
-~~~
 ~~~ conllu
-# sent_id = 3.102ba/yii
+# sent_id = 3.101ba/yii
 # Yidiɲ (Pama-Nyungan, Australia)
-# source = Dixon, 1977a:370-1
-# text = ɲundu:ba buɲa wawa
-# gloss = you(PL) woman watch(IMPER)
-# text_en = All of you watch the woman!
-1	ɲundu:ba	_	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	Gloss=you|MGloss=you(PL)
-2	buɲa	_	NOUN	_	Case=Abs|Number=Sing	3	obj	_	Gloss=woman
-3	wawa	_	VERB	_	Mood=Imp	0	root	_	Gloss=watch|MGloss=watch(IMPER)
-
-~~~
-~~~ conllu
-# sent_id = 3.102bb/yii
-# Yidiɲ (Pama-Nyungan, Australia)
-# source = Dixon, 1977a:370-1
-# text = Buɲa wawa
-# gloss = woman watch(IMPER)
-# text_en = Watch the woman!
-1	Buɲa	_	NOUN	_	Case=Abs|Number=Sing	2	obj	_	Gloss=woman
-2	wawa	_	VERB	_	Mood=Imp	0	root	_	Gloss=watch|MGloss=watch(IMPER)
-
-~~~
-~~~ conllu
-# sent_id = 3.103a/yii
-# Yidiɲ (Pama-Nyungan, Australia)
-# source = Dixon, 1977a:372-82,387
-# text = ŋayu gana:ŋgar gali:ɲ
-# gloss = I(NOM) first go-PAST
-# text_en = I went first
-1	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=I(NOM)
-2	gana:ŋgar	_	ADV	_	_	3	advmod	_	Gloss=first
-3	gali:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=went|MSeg=gali:-ɲ|MGloss=go-PAST
-
-~~~
-~~~ conllu
-# sent_id = 3.103b/yii
-# Yidiɲ (Pama-Nyungan, Australia)
-# source = Dixon, 1977a:372-82,387
-# text = ŋayu gana:ŋgar gunda:l
-# gloss = I(NOM) first cut-PAST
-# text_en = I was the first person to cut [that tree]
-1	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=I(NOM)
-2	gana:ŋgar	_	ADV	_	_	3	advmod	_	Gloss=first
-3	gunda:l	_	VERB	_	Tense=Past	0	root	_	Gloss=cut|MSeg=gunda:-l|MGloss=cut-PAST
-
-~~~
-~~~ conllu
-# sent_id = 3.104/yii
-# Yidiɲ (Pama-Nyungan, Australia)
-# source = Dixon, 1977a:375
-# text = ŋayu wala wula:ɲ ŋayu galwayala burgiŋ
-# gloss = I finish die I spirit walk-about
-# text_en = I really did die; I'm walking about as a spirit now
-1	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=I(NOM)
-2	wala	_	ADV	_	_	3	advmod	_	Gloss=finish
-3	wula:ɲ	_	VERB	_	_	0	root	_	Gloss=die
-4	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Gloss=I|MGloss=I(NOM)
-5	galwayala	_	NOUN	_	Case=Abs|Number=Sing	4	acl	_	Gloss=spirit
-6	burgiŋ	_	VERB	_	_	3	parataxis	_	Gloss=walk-about
+# source = Dixon, 1977
+# text = Ŋayu buɲa:nda wuɹa:ɖiɲu ŋayu maŋgaɲunda.
+# gloss = I(NOM) woman-DAT slap-ANTIPASS-PAST I(NOM) laugh-DATSUB
+# text_en = I, who was laughing, slapped the woman; I slapped the woman while laughing.
+1	Ŋayu	ŋayu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=I(NOM)
+2	buɲa:nda	buɲa	NOUN	_	Case=Dat|Number=Sing	3	obl:patient	_	Gloss=woman|MSeg=buɲa:-nda|MGloss=woman-DAT
+3	wuɹa:ɖiɲu	wuɹan	VERB	_	Tense=Past|Voice=Antip	0	root	_	Gloss=slapped|MSeg=wuɹa:-ɖi-ɲu|MGloss=slap-ANTIPASS-PAST
+4	ŋayu	ŋayu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=I|MGloss=I(NOM)
+5	maŋgaɲunda	maŋgan	VERB	_	Mood=Sub	3	advcl:datsub	_	Gloss=laughed|MSeg=maŋga-ɲunda|MGloss=laugh-DATSUB|SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 ~~~
 
