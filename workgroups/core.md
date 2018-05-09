@@ -1286,6 +1286,30 @@ with accusative.
 
 ~~~
 
+* _Natalisod ang babae._ “The woman tripped.”
+
+~~~ conllu
+# text = Natalisod ang babae.
+# text_en = The woman tripped.
+1	Natalisod	tisod	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=tripped|MSeg=na-talisod|MGloss=PERF+INVOL-trip
+2	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	3	det	_	Gloss=the|MGloss=PIV
+3	babae	babae	NOUN	_	_	1	nsubj	_	Gloss=woman|SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	Gloss=punct
+
+~~~
+
+* _Natalisod ni Pedro._ “Pedro tripped.”
+
+~~~ conllu
+# text = Natalisod ni Pedro.
+# text_en = Pedro tripped.
+1	Natalisod	tisod	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=tripped|MSeg=na-talisod|MGloss=PERF+INVOL-trip
+2	ni	ni	DET	_	Case=Nom|Definite=Def|PronType=Art	3	det	_	Gloss=the|MGloss=PIV
+3	Pedro	Pedro	PROPN	_	_	1	nsubj	_	Gloss=Pedro|SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	Gloss=punct
+
+~~~
+
 
 
 <!---------------------------------------------------------------------------->
