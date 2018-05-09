@@ -23,6 +23,7 @@ Arguments realized as clauses are discussed [at the end of the chapter](#clausal
   * [Czech](#czech)
   * [Basque](#basque)
   * [Yidiɲ](#yidiɲ)
+  * [Tagalog](#tagalog)
 * [Can adjectives have core arguments?](#can-adjectives-have-core-arguments)
 * [Can adverbs have core arguments?](#can-adverbs-have-core-arguments)
 * [Can nouns have core arguments?](#can-nouns-have-core-arguments)
@@ -1208,6 +1209,80 @@ stay the same but the UD trees change:
 4	ŋayu	ŋayu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=I|MGloss=I(NOM)
 5	maŋgaɲunda	maŋgan	VERB	_	Mood=Sub	3	advcl:datsub	_	Gloss=laughed|MSeg=maŋga-ɲunda|MGloss=laugh-DATSUB|SpaceAfter=No
 6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+~~~
+
+
+
+### Tagalog
+
+Tagalog is a representative of a subset of Austronesian languages that have
+been described as symmetric-voice languages. There is an agent voice, where
+the most core argument corresponds to the agent role, and a patient voice,
+where the most core argument corresponds to the patient. It is tempting to
+reuse our labels of active and passive for these voices. There are at least
+two important differences from what these terms mean in Indo-European
+languages. First, the two voices in Tagalog are more symmetric and it is
+hard to say that the active is default, unmarked, and the passive is marked.
+The passive is not morphologically more complex than the passive. Both the
+agent and the patient regularly appear in both voices. They are coded
+differently, but both are coded as core, not oblique arguments. Both
+“active” and “passive” clauses thus can be transitive.
+
+The second reason is that there are more voices than the agent-oriented and
+the patient-oriented one. There is also a voice that brings a locational
+argument to front, for example.
+
+The arguments are marked by function words, which could be analyzed as either
+prepositions, or case-bearing determiners. Although adpositions are often
+associated with oblique arguments and adjuncts, we have seen that it is not
+a universal rule. Spanish marks a human direct object with the preposition _a_;
+Slavic and other languages have prepositional object that, despite not being
+considered core in UD, seem to work the same way as other non-accusative
+(but preposition-less, and currently core) arguments; and in Japanese, all
+arguments are marked by postpositions, including the subject and the direct
+object. On the other hand, if the nominal markers in Tagalog are determiners,
+then Tagalog somewhat resembles modern German, where nominal inflection has
+been greatly reduced and the varying forms of determiners are often the only
+clue about the case of a noun phrase. Categorizing the Tagalog markers as
+determiners seems to be more favored in the literature.
+
+The most core-like argument (also called _pivot_) is marked by the determiner
+_ang_. The other core argument (if any) is marked by the determiner _ng_
+(pronounced _nang_). A different set of determiners is used with proper nouns.
+No determiners are used with personal pronouns, but the pronouns themselves
+inflect for case.
+
+There have been disputes about whether the pivot is subject and whether
+Tagalog has a subject at all. Nevertheless, there does not seem to be any
+better solution than to simply identify it with the subject in UD.
+It seems appropriate to mark the determiners and the personal pronouns with
+the [Case]() feature: the pivot with nominative, and the other core argument
+with accusative.
+
+* _Nagsalita ka._ “You spoke.”
+
+~~~ conllu
+# sent_id = 1.98d/tl
+# text = Nagsalita ka.
+# gloss = (PERF.ACTIVE)speak you
+# text_en = You spoke.
+1	Nagsalita	salita	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=spoke|MSeg=nag-salita|MGloss=PERF+ACTIVE-speak
+2	ka	ikaw	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you|SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	Gloss=punct
+
+~~~
+
+* _Nagsalita ka._ “You spoke.”
+
+~~~ conllu
+# sent_id = 1.98d/tl
+# text = Nagsalita ka.
+# gloss = (PERF.ACTIVE)speak you
+# text_en = You spoke.
+1	Nagsalita	salita	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=spoke|MSeg=nag-salita|MGloss=PERF+ACTIVE-speak
+2	ka	ikaw	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you|SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	Gloss=punct
 
 ~~~
 
