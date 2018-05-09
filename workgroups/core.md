@@ -1040,60 +1040,52 @@ Czech). The former pair is typical for nouns, the latter for pronouns.
 4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 ~~~
+
+There is a type of subordinate clause that is called dative subordinate (datsub)
+because its head verb takes a subjunctive suffix similar to the dative suffix
+of nouns. The clause may be analyzed as a relative clause dependent on a noun
+phrase in the main clause. The coreferential noun phrase in the subordinate
+clause may be elided.
+There is a near requirement (with some exceptions) that the coreferential
+nominal has S/P function in both clauses, i.e., it is the subject of an
+intransitive predicate or the object of a transitive predicate:
+
+* _Ŋayu manga:ɲ (ŋaɲaɲ) buɲa:n wuɹa:ɲunda._ “I, (who) was slapped by the woman, laughed.”
+* _Ŋaɲaɲ buɲa:ŋ wuɹa:ɲ (ŋayu) maŋga:ɲunda._ “I, (who) was lauging, was slapped by the woman.”
+
 ~~~ conllu
 # sent_id = 3.99aa/yii
 # Yidiɲ (Pama-Nyungan, Australia)
 # source = Dixon, 1977
-# text = ŋayu manga:ɲ ŋaɲaɲ buɲa:n wuɹa:ɲunda
+# text = Ŋayu manga:ɲ ŋaɲaɲ buɲa:n wuɹa:ɲunda.
 # gloss = I(NOM) laugh-PAST I-ACC woman-ERG slap-DATSUB
-# text_en = I, who was slapped by the woman, laughed
-1	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|MGloss=I(NOM)
+# text_en = I, who was slapped by the woman, laughed.
+1	Ŋayu	ŋayu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|MGloss=I(NOM)
 2	manga:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=laughed|MSeg=maŋga:-ɲ|MGloss=laugh-PAST
-3	ŋaɲaɲ	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obj	_	Gloss=me|MGloss=I(ACC)
-4	buɲa:n	_	NOUN	_	Case=Erg|Number=Sing	5	nsubj	_	Gloss=woman|MSeg=buɲa:-n|MGloss=woman-ERG
-5	wuɹa:ɲunda	_	VERB	_	Mood=Sub	1	acl:datsub	_	Gloss=slapping|MSeg=wuɹa:-ɲunda|MGloss=slap-DATSUB
-
-~~~
-~~~ conllu
-# sent_id = 3.99ab/yii
-# Yidiɲ (Pama-Nyungan, Australia)
-# source = Dixon, 1977
-# text = ŋayu manga:ɲ buɲa:n wuɹa:ɲunda
-# gloss = I(NOM) laugh-PAST woman-ERG slap-DATSUB
-# text_en = I, who was slapped by the woman, laughed
-1	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|MGloss=I(NOM)
-2	manga:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=laughed|MSeg=maŋga:-ɲ|MGloss=laugh-PAST
-3	buɲa:n	_	NOUN	_	Case=Erg|Number=Sing	4	nsubj	_	Gloss=woman|MSeg=buɲa:-n|MGloss=woman-ERG
-4	wuɹa:ɲunda	_	VERB	_	Mood=Sub	1	acl:datsub	_	Gloss=slapping|MSeg=wuɹa:-ɲunda|MGloss=slap-DATSUB
+3	ŋaɲaɲ	ŋayu	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obj	_	Gloss=me|MGloss=I(ACC)
+4	buɲa:ŋ	buɲa	NOUN	_	Case=Erg|Number=Sing	5	nsubj	_	Gloss=woman|MSeg=buɲa:-n|MGloss=woman-ERG
+5	wuɹa:ɲunda	_	VERB	_	Mood=Sub	1	acl:datsub	_	Gloss=slapping|MSeg=wuɹa:-ɲunda|MGloss=slap-DATSUB|SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 ~~~
 ~~~ conllu
 # sent_id = 3.99ba/yii
 # Yidiɲ (Pama-Nyungan, Australia)
 # source = Dixon, 1977
-# text = ŋaɲaɲ buɲa:ŋ wuɹaɲ ŋayu maŋgaɲunda
+# text = Ŋaɲaɲ buɲa:ŋ wuɹa:ɲ ŋayu maŋga:ɲunda.
 # gloss = I-ACC woman-ERG slap-PAST I(NOM) laugh-DATSUB
-# text_en = I, who was laughing, was slapped by the woman
-1	ŋaɲaɲ	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	Gloss=me|MGloss=I(ACC)
-2	buɲa:ŋ	_	NOUN	_	Case=Erg|Number=Sing	3	nsubj	_	Gloss=woman|MSeg=buɲa:-ŋ|MGloss=woman-ERG
-3	wuɹaɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=slapped|MSeg=wuɹa-ɲ|MGloss=slap-PAST
-4	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=I|MGloss=I(NOM)
-5	maŋgaɲunda	_	VERB	_	Mood=Sub	1	acl:datsub	_	Gloss=laughing|MSeg=maŋga-ɲunda|MGloss=laugh-DATSUB
+# text_en = I, who was laughing, was slapped by the woman.
+1	Ŋaɲaɲ	ŋayu	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	Gloss=me|MGloss=I(ACC)
+2	buɲa:ŋ	buɲa	NOUN	_	Case=Erg|Number=Sing	3	nsubj	_	Gloss=woman|MSeg=buɲa:-ŋ|MGloss=woman-ERG
+3	wuɹa:ɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=slapped|MSeg=wuɹa-ɲ|MGloss=slap-PAST
+4	ŋayu	ŋayu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=I|MGloss=I(NOM)
+5	maŋga:ɲunda	_	VERB	_	Mood=Sub	1	acl:datsub	_	Gloss=laughing|MSeg=maŋga-ɲunda|MGloss=laugh-DATSUB|SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 ~~~
-~~~ conllu
-# sent_id = 3.99bb/yii
-# Yidiɲ (Pama-Nyungan, Australia)
-# source = Dixon, 1977
-# text = ŋaɲaɲ buɲa:ŋ wuɹaɲ maŋgaɲunda
-# gloss = I-ACC woman-ERG slap-PAST laugh-DATSUB
-# text_en = I, who was laughing, was slapped by the woman
-1	ŋaɲaɲ	_	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	Gloss=me|MGloss=I(ACC)
-2	buɲa:ŋ	_	NOUN	_	Case=Erg|Number=Sing	3	nsubj	_	Gloss=woman|MSeg=buɲa:-ŋ|MGloss=woman-ERG
-3	wuɹaɲ	_	VERB	_	Tense=Past	0	root	_	Gloss=slapped|MSeg=wuɹa-ɲ|MGloss=slap-PAST
-4	maŋgaɲunda	_	VERB	_	Mood=Sub	1	acl:datsub	_	Gloss=laughing|MSeg=maŋga-ɲunda|MGloss=laugh-DATSUB
 
-~~~
+
+
 ~~~ conllu
 # sent_id = 3.100aa/yii
 # Yidiɲ (Pama-Nyungan, Australia)
