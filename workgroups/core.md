@@ -1394,9 +1394,9 @@ indefinite). Here is an example of a sentence in four different voices:
 # OP = object pivot; PIV = pivot marker
 1	Aalisin	alis	VERB	_	Aspect=Prog|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=will-take-out|MSeg=a-alis-in|MGloss=FUT-take.out-OP
 2	ng	ng	DET	_	Case=Acc|PronType=Art	3	det	_	Gloss=DET
-3	babae	babae	NOUN	_	_	1	obj	_	Gloss=woman
+3	babae	babae	NOUN	_	_	1	obj:agent	_	Gloss=woman
 4	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	5	det	_	Gloss=the
-5	bigas	bigas	NOUN	_	_	1	nsubj	_	Gloss=rice
+5	bigas	bigas	NOUN	_	_	1	nsubj:pass	_	Gloss=rice
 6	sa	sa	DET	_	Case=Loc|PronType=Art	7	det	_	Gloss=DIR
 7	sako	sako	NOUN	_	_	1	obl	_	Gloss=sack
 8	para	para	ADP	_	_	10	case	_	Gloss=for
@@ -1413,11 +1413,11 @@ indefinite). Here is an example of a sentence in four different voices:
 # DP = directional pivot; PIV = pivot marker
 1	Aalisan	alis	VERB	_	Aspect=Prog|Mood=Ind|VerbForm=Fin|Voice=Locf	0	root	_	Gloss=will-take-out|MSeg=a-alis-an|MGloss=FUT-take.out-DP
 2	ng	ng	DET	_	Case=Acc|PronType=Art	3	det	_	Gloss=DET
-3	babae	babae	NOUN	_	_	1	obj	_	Gloss=woman
+3	babae	babae	NOUN	_	_	1	obj:agent	_	Gloss=woman
 4	ng	ng	DET	_	Case=Acc|PronType=Art	5	det	_	Gloss=DET
-5	bigas	bigas	NOUN	_	_	1	obj	_	Gloss=rice
+5	bigas	bigas	NOUN	_	_	1	obj:patient	_	Gloss=rice
 6	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	7	det	_	Gloss=the
-7	sako	sako	NOUN	_	_	1	nsubj	_	Gloss=sack
+7	sako	sako	NOUN	_	_	1	nsubj:loc	_	Gloss=sack
 8	para	para	ADP	_	_	10	case	_	Gloss=for
 9	sa	sa	DET	_	Case=Loc|PronType=Art	10	det	_	Gloss=BEN
 10	bata	bata	NOUN	_	_	1	obl	_	Gloss=child|SpaceAfter=No
@@ -1432,13 +1432,13 @@ indefinite). Here is an example of a sentence in four different voices:
 # BP = benefactive pivot; PIV = pivot marker
 1	Ipagaalis	alis	VERB	_	Aspect=Prog|Mood=Ind|VerbForm=Fin|Voice=Benf	0	root	_	Gloss=will-take-out|MSeg=Ipag-a-alis|MGloss=BP-FUT-take.out
 2	ng	ng	DET	_	Case=Acc|PronType=Art	3	det	_	Gloss=DET
-3	babae	babae	NOUN	_	_	1	obj	_	Gloss=woman
+3	babae	babae	NOUN	_	_	1	obj:agent	_	Gloss=woman
 4	ng	ng	DET	_	Case=Acc|PronType=Art	5	det	_	Gloss=DET
-5	bigas	bigas	NOUN	_	_	1	obj	_	Gloss=rice
+5	bigas	bigas	NOUN	_	_	1	obj:patient	_	Gloss=rice
 6	sa	sa	DET	_	Case=Loc|PronType=Art	7	det	_	Gloss=DIR
 7	sako	sako	NOUN	_	_	1	obl	_	Gloss=sack
 8	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	9	det	_	Gloss=the
-9	bata	bata	NOUN	_	_	1	nsubj	_	Gloss=child|SpaceAfter=No
+9	bata	bata	NOUN	_	_	1	nsubj:ben	_	Gloss=child|SpaceAfter=No
 10	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 ~~~
