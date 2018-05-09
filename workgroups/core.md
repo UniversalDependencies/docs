@@ -963,9 +963,12 @@ to the marginal acceptance of two dative-marked arguments in the same clause.
 ### Yidiɲ
 
 See also:
-Avery D. Andrews: The major functions of the noun phrase (2007).
-In _Timothy Shopen (ed.): Language Typology and Syntactic Description, second edition, volume I: Clause Structure._
-Pp. 193-197. Cambridge University Press. ISBN 978-0-521-58156-1.
+
+* Avery D. Andrews: The major functions of the noun phrase (2007).
+  In _Timothy Shopen (ed.): Language Typology and Syntactic Description, second edition, volume I: Clause Structure._
+  Pp. 193-197. Cambridge University Press. ISBN 978-0-521-58156-1.
+* R. M. W. Dixon: _A Grammar of Yidiny_ (1977).
+  Cambridge: Cambridge University Press.
 
 Yidiɲ (Pama-Nyungan, Australia) has a combination of the ergative-absolutive
 system (similar to Basque) and the nominative-accusative system (similar to
@@ -1034,7 +1037,7 @@ Czech). The former pair is typical for nouns, the latter for pronouns.
 # text = Waguɖaŋgu guda:ga wawa:l.
 # gloss = man-ERG dog(ABS) see-PAST
 # text_en = The man saw the dog.
-1	Waguɖaŋgu	waguɖa	NOUN	_	Case=Erg|Number=Sing	3	nsubj	_	Gloss=man|MSeg=Waguɖa-ŋgu|MGloss=man-ERG
+1	Waguɖaŋgu	wagu:ɖa	NOUN	_	Case=Erg|Number=Sing	3	nsubj	_	Gloss=man|MSeg=Waguɖa-ŋgu|MGloss=man-ERG
 2	guda:ga	guda:ga	NOUN	_	Case=Abs|Number=Sing	3	obj	_	Gloss=dog|MGloss=dog(ABS)
 3	wawa:l	_	VERB	_	Tense=Past	0	root	_	Gloss=saw|MSeg=wawa:-l|MGloss=see-PAST|SpaceAfter=No
 4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
@@ -1084,42 +1087,48 @@ intransitive predicate or the object of a transitive predicate:
 
 ~~~
 
+If we want to use this construction for a nominal with A function (i.e., the
+subject of a transitive predicate) in either of the two clauses, we must first
+transform the clause to antipassive, which means:
 
+1. Active verb form is replaced by antipassive.
+2. Former object is transformed to the dative or locative case and becomes oblique argument.
+3. The subject is still subject, but now of an intransitive predicate. Its function changed from A to S.
+
+Analogically to the passive, we may want to use a relation subtype for the
+demoted object: [obl:patient]().
+
+* _Waguɖaŋgu guda:ga wawa:l._ “The man saw the dog.” (active)
+* _Wagu:ɖa gudaganda wawa:ɖiɲu._ “The man saw the dog.” (antipassive)
 
 ~~~ conllu
 # sent_id = 3.100aa/yii
 # Yidiɲ (Pama-Nyungan, Australia)
 # source = Dixon, 1977
-# text = wagu:ɖa gudaganda wawa:ɖiɲu
+# text = Wagu:ɖa gudaganda wawa:ɖiɲu.
 # gloss = man(ABS) dog-DAT see-ANTIPASS-PAST
-# text_en = The man saw the dog
-1	wagu:ɖa	_	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Gloss=man|MGloss=man(ABS)
-2	gudaganda	_	NOUN	_	Case=Dat|Number=Sing	3	obl:patient	_	Gloss=dog|MSeg=gudaga-nda|MGloss=dog-DAT
-3	wawa:ɖiɲu	_	VERB	_	Tense=Past|Voice=Antip	0	root	_	Gloss=saw|MSeg=wawa:-ɖi-ɲu|MGloss=see-ANTIPASS-PAST
+# text_en = The man saw the dog.
+1	Wagu:ɖa	wagu:ɖa	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Gloss=man|MGloss=man(ABS)
+2	gudaganda	guda:ga	NOUN	_	Case=Dat|Number=Sing	3	obl:patient	_	Gloss=dog|MSeg=gudaga-nda|MGloss=dog-DAT
+3	wawa:ɖiɲu	_	VERB	_	Tense=Past|Voice=Antip	0	root	_	Gloss=saw|MSeg=wawa:-ɖi-ɲu|MGloss=see-ANTIPASS-PAST|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 ~~~
-~~~ conllu
-# sent_id = 3.100ab/yii
-# Yidiɲ (Pama-Nyungan, Australia)
-# source = Dixon, 1977
-# text = wagu:ɖa gudagala wawa:ɖiɲu
-# gloss = man(ABS) dog-LOC see-ANTIPASS-PAST
-# text_en = The man saw the dog
-1	wagu:ɖa	_	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Gloss=man|MGloss=man(ABS)
-2	gudagala	_	NOUN	_	Case=Loc|Number=Sing	3	obl:patient	_	Gloss=dog|MSeg=gudaga-la|MGloss=dog-LOC
-3	wawa:ɖiɲu	_	VERB	_	Tense=Past|Voice=Antip	0	root	_	Gloss=saw|MSeg=wawa:-ɖi-ɲu|MGloss=see-ANTIPASS-PAST
 
-~~~
+* _Ŋayu buɲa wuɹa:ɲ._ “I slapped the woman.” (active)
+* _Ŋayu buɲa:nda wuɹa:ɖiɲu._ “I slapped the woman.” (antipassive)
+
 ~~~ conllu
 # sent_id = 3.100b/yii
 # Yidiɲ (Pama-Nyungan, Australia)
 # source = Dixon, 1977
-# text = ŋayu buɲa:nda wuɹa:ɖiɲu
+# text = Ŋayu buɲa:nda wuɹa:ɖiɲu.
 # gloss = I(NOM) woman-DAT slap-ANTIPASS-PAST
-# text_en = I slapped the woman
-1	ŋayu	_	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=I(NOM)
-2	buɲa:nda	_	NOUN	_	Case=Dat|Number=Sing	3	obl:patient	_	Gloss=woman|MSeg=buɲa:-nda|MGloss=woman-DAT
-3	wuɹa:ɖiɲu	_	VERB	_	Tense=Past|Voice=Antip	0	root	_	Gloss=slapped|MSeg=wuɹa:-ɖi-ɲu|MGloss=slap-ANTIPASS-PAST
+# text_en = I slapped the woman.
+1	Ŋayu	ŋayu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=I(NOM)
+2	buɲa:nda	buɲa	NOUN	_	Case=Dat|Number=Sing	3	obl:patient	_	Gloss=woman|MSeg=buɲa:-nda|MGloss=woman-DAT
+3	wuɹa:ɖiɲu	_	VERB	_	Tense=Past|Voice=Antip	0	root	_	Gloss=slapped|MSeg=wuɹa:-ɖi-ɲu|MGloss=slap-ANTIPASS-PAST|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 ~~~
 ~~~ conllu
