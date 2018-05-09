@@ -1065,7 +1065,7 @@ intransitive predicate or the object of a transitive predicate:
 3	ŋaɲaɲ	ŋayu	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obj	_	Gloss=me|MGloss=I(ACC)
 4	buɲa:ŋ	buɲa	NOUN	_	Case=Erg|Number=Sing	5	nsubj	_	Gloss=woman|MSeg=buɲa:-n|MGloss=woman-ERG
 5	wuɹa:ɲunda	_	VERB	_	Mood=Sub	1	acl:datsub	_	Gloss=slapping|MSeg=wuɹa:-ɲunda|MGloss=slap-DATSUB|SpaceAfter=No
-6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+6	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 ~~~
 ~~~ conllu
