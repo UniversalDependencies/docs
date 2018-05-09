@@ -1358,14 +1358,19 @@ Locative, directional and benefactive arguments are normally coded as oblique.
 However, there are additional voices where these arguments become subjects.
 One of the reasons why an argument is fronted as the subject is that the
 subject is understood as the topic of the sentence. The _ang_ determiner
-implies definiteness (while _ng-_marked arguments can be definite or
+implies definiteness (while _ng_-marked arguments can be definite or
 indefinite). Here is an example of a sentence in four different voices:
+
+* _Magaalis ang babae ng bigas sa sako para sa bata._ “The woman will take some rice out of a/the sack for a/the child.” (agent voice)
+* _Aalisin ng babae ang bigas sa sako para sa bata._ “A/the woman will take the rice out of a/the sack for a/the child.” (patient voice)
+* _Aalisan ng babae ng bigas ang sako para sa bata._ “A/the woman will take some rice out of the sack for a/the child.” (locative voice)
+* _Ipagaalis ng babae ng bigas sa sako ang bata._ “A/the woman will take some rice out of a/the sack for the child.” (benefactive voice)
 
 ~~~ conllu
 # sent_id = 3.111a/tl
-# text = Magaalis ang babae ng bigas sa sako para sa bata
+# text = Magaalis ang babae ng bigas sa sako para sa bata.
 # gloss = AP-FUT-take.out PIV woman OBJ rice DIR sack for BEN child
-# text_en = The woman will take some rice out of a/the sack for a/the child
+# text_en = The woman will take some rice out of a/the sack for a/the child.
 # AP = actor pivot; PIV = pivot marker
 # http://www.seasite.niu.edu/Tagalog/tagalog_verbs.htm
 1	Magaalis	alis	VERB	_	Aspect=Prog|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=will-take-out|MSeg=mag-a-alis|MGloss=AP-FUT-take.out
@@ -1377,14 +1382,15 @@ indefinite). Here is an example of a sentence in four different voices:
 7	sako	sako	NOUN	_	_	1	obl	_	Gloss=sack
 8	para	para	ADP	_	_	10	case	_	Gloss=for
 9	sa	sa	ADP	_	_	10	case	_	Gloss=BEN
-10	bata	bata	NOUN	_	_	1	obl	_	Gloss=child
+10	bata	bata	NOUN	_	_	1	obl	_	Gloss=child|SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 ~~~
 ~~~ conllu
 # sent_id = 3.111b/tl
-# text = Aalisin ng babae ang bigas sa sako para sa bata
+# text = Aalisin ng babae ang bigas sa sako para sa bata.
 # gloss = FUT-take.out-OP ACT woman PIV rice DIR sack for BEN child
-# text_en = A/the woman will take the rice out of a/the sack for a/the child
+# text_en = A/the woman will take the rice out of a/the sack for a/the child.
 # OP = object pivot; PIV = pivot marker
 1	Aalisin	alis	VERB	_	Aspect=Prog|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=will-take-out|MSeg=a-alis-in|MGloss=FUT-take.out-OP
 2	ng	ng	ADP	_	Case=Acc	3	case	_	Gloss=ACT
@@ -1395,14 +1401,15 @@ indefinite). Here is an example of a sentence in four different voices:
 7	sako	sako	NOUN	_	_	1	obl	_	Gloss=sack
 8	para	para	ADP	_	_	10	case	_	Gloss=for
 9	sa	sa	ADP	_	_	10	case	_	Gloss=BEN
-10	bata	bata	NOUN	_	_	1	obl	_	Gloss=child
+10	bata	bata	NOUN	_	_	1	obl	_	Gloss=child|SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 ~~~
 ~~~ conllu
 # sent_id = 3.111c/tl
-# text = Aalisan ng babae ng bigas ang sako para sa bata
+# text = Aalisan ng babae ng bigas ang sako para sa bata.
 # gloss = FUT-take.out-DP ACT woman OBJ rice PIV sack BEN child
-# text_en = A/the woman will take some rice out of the sack for a/the child
+# text_en = A/the woman will take some rice out of the sack for a/the child.
 # DP = directional pivot; PIV = pivot marker
 1	Aalisan	alis	VERB	_	Aspect=Prog|Mood=Ind|VerbForm=Fin|Voice=Locf	0	root	_	Gloss=will-take-out|MSeg=a-alis-an|MGloss=FUT-take.out-DP
 2	ng	ng	ADP	_	Case=Acc	3	case	_	Gloss=ACT
@@ -1413,14 +1420,15 @@ indefinite). Here is an example of a sentence in four different voices:
 7	sako	sako	NOUN	_	_	1	nsubj	_	Gloss=sack
 8	para	para	ADP	_	_	10	case	_	Gloss=for
 9	sa	sa	ADP	_	_	10	case	_	Gloss=BEN
-10	bata	bata	NOUN	_	_	1	obl	_	Gloss=child
+10	bata	bata	NOUN	_	_	1	obl	_	Gloss=child|SpaceAfter=No
+11	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 ~~~
 ~~~ conllu
 # sent_id = 3.111d/tl
-# text = Ipagaalis ng babae ng bigas sa sako ang bata
+# text = Ipagaalis ng babae ng bigas sa sako ang bata.
 # gloss = BP-FUT-take.out ACT woman OBJ rice DIR sack PIV child
-# text_en = A/the woman will take some rice out of a/the sack for the child
+# text_en = A/the woman will take some rice out of a/the sack for the child.
 # BP = benefactive pivot; PIV = pivot marker
 1	Ipagaalis	alis	VERB	_	Aspect=Prog|Mood=Ind|VerbForm=Fin|Voice=Benf	0	root	_	Gloss=will-take-out|MSeg=Ipag-a-alis|MGloss=BP-FUT-take.out
 2	ng	ng	ADP	_	Case=Acc	3	case	_	Gloss=ACT
@@ -1430,7 +1438,9 @@ indefinite). Here is an example of a sentence in four different voices:
 6	sa	sa	ADP	_	_	7	case	_	Gloss=DIR
 7	sako	sako	NOUN	_	_	1	obl	_	Gloss=sack
 8	ang	ang	ADP	_	Case=Nom	9	case	_	Gloss=the|MGloss=PIV
-9	bata	bata	NOUN	_	_	1	nsubj	_	Gloss=child
+9	bata	bata	NOUN	_	_	1	nsubj	_	Gloss=child|SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
 ~~~
 
 
