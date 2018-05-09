@@ -1222,18 +1222,18 @@ the most core argument corresponds to the agent role, and a patient voice,
 where the most core argument corresponds to the patient. It is tempting to
 reuse our labels of active and passive for these voices. There are at least
 two important differences from what these terms mean in Indo-European
-languages. First, the two voices in Tagalog are more symmetric and it is
+languages, though. First, the two voices in Tagalog are more symmetric and it is
 hard to say that the active is default, unmarked, and the passive is marked.
 The passive is not morphologically more complex than the passive. Both the
 agent and the patient regularly appear in both voices. They are coded
 differently, but both are coded as core, not oblique arguments. Both
 “active” and “passive” clauses thus can be transitive.
 
-The second reason is that there are more voices than the agent-oriented and
-the patient-oriented one. There is also a voice that brings a locational
-argument to front, for example.
+The second difference is that there are more voices than the agent-oriented and
+the patient-oriented one. There is also a voice that fronts a locational
+argument, for example.
 
-The arguments are marked by function words, which could be analyzed as either
+The arguments are marked by function words that could be analyzed as either
 prepositions, or case-bearing determiners. Although adpositions are often
 associated with oblique arguments and adjuncts, we have seen that it is not
 a universal rule. Spanish marks a human direct object with the preposition _a_;
@@ -1273,14 +1273,14 @@ with accusative.
 
 ~~~
 
-* _Nagsalita ka._ “You spoke.”
+* _Natalisod ka._ “You tripped.”
 
 ~~~ conllu
-# sent_id = 1.98d/tl
-# text = Nagsalita ka.
-# gloss = (PERF.ACTIVE)speak you
-# text_en = You spoke.
-1	Nagsalita	salita	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=spoke|MSeg=nag-salita|MGloss=PERF+ACTIVE-speak
+# sent_id = 1.98f/tl
+# text = Natalisod ka.
+# gloss = (PERF.INVOL)trip you
+# text_en = You tripped.
+1	Natalisod	tisod	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=tripped|MSeg=na-talisod|MGloss=PERF+INVOL-trip
 2	ka	ikaw	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you|SpaceAfter=No
 3	.	.	PUNCT	_	_	1	punct	_	Gloss=punct
 
