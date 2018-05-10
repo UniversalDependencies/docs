@@ -14,3 +14,5 @@ As discussed at the [brainstorming meeting in Pisa](http://universaldependencies
 3. [Existentials](existentials.html)
 5. [Expletives](expletives.html)
 2. [Multiword expressions](mwe.html)
+
+* [Suggestions for v3 guidelines](v3.html)
