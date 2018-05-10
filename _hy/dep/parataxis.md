@@ -7,7 +7,7 @@ udver: '2'
 
 The parataxis relation (from Greek for “place side by side”) is a
 relation between a word (often the main predicate of a sentence) and other
-elements, such as a sentential parenthetical or a clause after a “.” (armenian colon) or
+elements, such as a sentential parenthetical or a clause after a “.” (Armenian colon) or
 a “—”, placed side by side without any explicit
 coordination, subordination, or argument relation with the head word. Parataxis is a discourse-like equivalent of coordination, and so usually obeys an iconic ordering. Hence it is normal for the first part of a sentence to be the head and the second part to be the parataxis dependent, regardless of the headedness properties of the language. But things do get more complicated, such as cases of parentheticals, which appear medially.
 
@@ -23,7 +23,7 @@ parataxis(գնացել, ասաց)
 parataxis(left, said)
 ~~~
 
-there are paraphrases that convey essentially the same meaning but
+There are paraphrases that convey essentially the same meaning but
 with a different syntactic structure. When the reported speech is embedded in a subordinate clause (with or 
 without an overt complementizer _որ_ “that”), the subordinate clause is a [ccomp]() of the speech verb. When the
 reported speech follows the speech verb and is separated by a colon, the reported speech forms a main clause
@@ -88,3 +88,5 @@ punct(գիտեք, ,-6)
 punct(know, ,-13)
 punct(know, ,-18)
 ~~~
+
+Note that in Armnian two coordinate clauses in a sentence can be separated with Armenian colon “.”. We do not use the [conj]() relation, but [parataxis]() to connect these clauses, if they are rather independent from each other semantically.
