@@ -1508,9 +1508,35 @@ would be just a pronoun.
 
 ~~~
 
+The two verb forms in the two previous examples differ in voice. The first
+example is in the direct voice, where the argument higher in a language-specific
+obliqueness hierarchy is more agent-like and the other argument is more patient-like.
+First person arguments are higher than third person arguments, therefore the
+agent is “we” and the patient is “they”.
+
+In the second example, the argument-marking morphemes have not changed but the
+verb is in the inverse voice where the argument lower in the hierarchy (“they”)
+is the agent and the higher argument (“we”) is the patient.
+
+In a parallel to the active-passive voice system of English, we can postulate
+that the argument higher in the hierarchy is the subject (i.e., the most core
+argument), and the lower argument is the object.
+And like with English passives, the voice has to be considered when one wants
+to map the grammatical relations to semantic roles.
+In the two previous examples, the arguments are not overtly present and the
+dependency relations are not visible. However, if there are overt arguments
+in an inverse voice clause, we may again want to use relation subtypes to
+signal that the default interpretation does not apply.
+<span style="color:red">TBD: Should we use [nsubj:pass]() and [obj:agent]()
+as in symmetric-voice languages? Or something else? Or should we even replace
+`nsubj:pass` in other languages by something more neutral?</span>
+
 
 
 <!---------------------------------------------------------------------------->
+<span style="color:red">TO DO: Discuss somewhere the layered features that are
+needed when multiple arguments are cross-referenced by verbal morphology. Try
+to standardize the layer names.</span>
 
 
 
