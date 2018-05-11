@@ -1555,6 +1555,12 @@ as in symmetric-voice languages? Or something else? Or should we even replace
 
 ~~~
 
+<!-- page 100 section 2.2.2.2 -->
+
+If two third-[Person]() arguments are involved, one of them is considered
+_proximate_ (more topical, higher in the obliqueness hierarchy) and the other
+is considered _obviative_ (less topical, lower in the obliqueness hierarchy).
+
 
 
 <!---------------------------------------------------------------------------->
