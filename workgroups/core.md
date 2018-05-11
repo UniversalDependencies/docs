@@ -1542,6 +1542,19 @@ as in symmetric-voice languages? Or something else? Or should we even replace
 
 ~~~
 
+* _Nikī-wīcihāw Cān._ “I helped John.”
+
+~~~ conllu
+# text = Nikī-wīcihāwak Cān ēkwa Mēriy.
+# text_en = I helped John and Mary.
+1	Nikī-wīcihāwak	wīcih	VERB	_	Animacy=Anim|Number[high]=Sing|Number[low]=Plur|Person[high]=1|Person[low]=3|Tense=Past|Voice=Dir	0	root	_	Gloss=I-helped-them|MSeg=ni-kī-wīcih-ā-w-ak|MGloss=1-PAST-help-DIR-3-3PL
+2	Cān	Cān	PROPN	_	Animacy=Anim|Number=Sing	1	obj	_	Gloss=John
+3	ēkwa	ēkwa	CCONJ	_	_	4	cc	_	Gloss=and
+4	Mēriy	Mēriy	PROPN	_	Animacy=Anim|Number=Sing	2	conj	_	Gloss=Mary|SpaceAfter=No
+5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+~~~
+
 
 
 <!---------------------------------------------------------------------------->
