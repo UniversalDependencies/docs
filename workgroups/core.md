@@ -1490,11 +1490,20 @@ by the verb, the argument does not need to appear as a separate word if it
 would be just a pronoun.
 
 * _Niwīcihānānak._ “We help them.”
+* _Niwīcihikonānak._ “They help us.”
 
 ~~~ conllu
 # text = Niwīcihānānak.
 # text_en = We help them.
-1	Niwīcihānānak	wīcih	VERB	_	Animacy=Anim|Number[high]=Plur|Number[low]=Plur|Person[high]=1|Person[low]=3|Voice=Dir	0	root	_	Gloss=we-help-them|MSeg=ni-wīcih-ā-nān-ak|MGloss=1-help-DIR-1PL-3PL|SpaceAfter=No
+1	Niwīcihānānak	wīcih	VERB	_	Animacy=Anim|Clusivity[high]=Ex|Number[high]=Plur|Number[low]=Plur|Person[high]=1|Person[low]=3|Voice=Dir	0	root	_	Gloss=we-help-them|MSeg=ni-wīcih-ā-nān-ak|MGloss=1-help-DIR-1PL-3PL|SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+~~~
+
+~~~ conllu
+# text = Niwīcihikonānak.
+# text_en = They help us.
+1	Niwīcihikonānak	wīcih	VERB	_	Animacy=Anim|Clusivity[high]=Ex|Number[high]=Plur|Number[low]=Plur|Person[high]=1|Person[low]=3|Voice=Inv	0	root	_	Gloss=they-help-us|MSeg=ni-wīcih-iko-nān-ak|MGloss=1-help-INV-1PL-3PL|SpaceAfter=No
 2	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 ~~~
