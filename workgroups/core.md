@@ -1542,7 +1542,7 @@ as in symmetric-voice languages? Or something else? Or should we even replace
 
 ~~~
 
-* _Nikī-wīcihāw Cān._ “I helped John.”
+* _Nikī-wīcihāwak Cān ēkwa Mēriy._ “I helped John and Mary.”
 
 ~~~ conllu
 # text = Nikī-wīcihāwak Cān ēkwa Mēriy.
