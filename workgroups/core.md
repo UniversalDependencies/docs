@@ -1529,7 +1529,15 @@ in an inverse voice clause, we may again want to use relation subtypes to
 signal that the default interpretation does not apply.
 <span style="color:red">TBD: Should we use [nsubj:pass]() and [obj:agent]()
 as in symmetric-voice languages? Or something else? Or should we even replace
-`nsubj:pass` in other languages by something more neutral?</span>
+`nsubj:pass` in other languages by something more neutral?
+Alternatively, we could make the direct-inverse voice system special in that
+we resolve the roles already in the relation labeling, i.e., higher-ranking
+argument will be labeled `nsubj` in direct voice and `obj` in inverse voice,
+and lower-ranking argument will be `obj` in direct voice and `nsubj` in
+inverse voice. That is, if there are not some typical subject tests known
+from other languages that will contradict our proposal.
+At present I do not know anything about subjecthood tests applied to Plains
+Cree.</span>
 
 * _Nikī-wīcihāw Cān._ “I helped John.”
 
@@ -1557,9 +1565,16 @@ as in symmetric-voice languages? Or something else? Or should we even replace
 
 <!-- page 100 section 2.2.2.2 -->
 
-If two third-[Person]() arguments are involved, one of them is considered
+If two third-person arguments are involved, one of them is considered
 _proximate_ (more topical, higher in the obliqueness hierarchy) and the other
 is considered _obviative_ (less topical, lower in the obliqueness hierarchy).
+The morphological features defined in Universal Dependencies capture this
+distinction within the [Person]() feature: proximate third person is encoded
+as `Person=3`, and obviative third person is encoded as `Person=4`.
+Note that Plains Cree distinguishes singular and plural [Number]() for
+proximate but not for obviative third person arguments.
+
+<!-- moje konstrukce: Cān ki-wīcihēw Mēriya = John helped Mary -->
 
 
 
