@@ -1495,7 +1495,7 @@ would be just a pronoun.
 ~~~ conllu
 # text = Niwīcihānānak.
 # text_en = We help them.
-1	Niwīcihānānak	wīcih	VERB	_	Animacy=Anim|Clusivity[high]=Ex|Number[high]=Plur|Number[low]=Plur|Person[high]=1|Person[low]=3|Voice=Dir	0	root	_	Gloss=we-help-them|MSeg=ni-wīcih-ā-nān-ak|MGloss=1-help-DIR-1PL-3PL|SpaceAfter=No
+1	Niwīcihānānak	wīcih	VERB	_	Animacy=Anim|Clusivity[high]=Ex|Number[high]=Plur|Number[low]=Plur|Person[high]=1|Person[low]=3|Tense=Pres|Voice=Dir	0	root	_	Gloss=we-help-them|MSeg=ni-wīcih-ā-nān-ak|MGloss=1-help-DIR-1PL-3PL|SpaceAfter=No
 2	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 ~~~
@@ -1503,7 +1503,7 @@ would be just a pronoun.
 ~~~ conllu
 # text = Niwīcihikonānak.
 # text_en = They help us.
-1	Niwīcihikonānak	wīcih	VERB	_	Animacy=Anim|Clusivity[high]=Ex|Number[high]=Plur|Number[low]=Plur|Person[high]=1|Person[low]=3|Voice=Inv	0	root	_	Gloss=they-help-us|MSeg=ni-wīcih-iko-nān-ak|MGloss=1-help-INV-1PL-3PL|SpaceAfter=No
+1	Niwīcihikonānak	wīcih	VERB	_	Animacy=Anim|Clusivity[high]=Ex|Number[high]=Plur|Number[low]=Plur|Person[high]=1|Person[low]=3|Tense=Pres|Voice=Inv	0	root	_	Gloss=they-help-us|MSeg=ni-wīcih-iko-nān-ak|MGloss=1-help-INV-1PL-3PL|SpaceAfter=No
 2	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 ~~~
@@ -1515,7 +1515,7 @@ First person arguments are higher than third person arguments, therefore the
 agent is “we” and the patient is “they”.
 
 In the second example, the argument-marking morphemes have not changed but the
-verb is in the inverse voice where the argument lower in the hierarchy (“they”)
+verb is in the inverse [Voice]() where the argument lower in the hierarchy (“they”)
 is the agent and the higher argument (“we”) is the patient.
 
 In a parallel to the active-passive voice system of English, we can postulate
@@ -1530,6 +1530,17 @@ signal that the default interpretation does not apply.
 <span style="color:red">TBD: Should we use [nsubj:pass]() and [obj:agent]()
 as in symmetric-voice languages? Or something else? Or should we even replace
 `nsubj:pass` in other languages by something more neutral?</span>
+
+* _Nikīwīcihāw Cān._ “I helped John.”
+
+~~~ conllu
+# text = Nikīwīcihāw Cān.
+# text_en = I helped John.
+1	Nikīwīcihāw	wīcih	VERB	_	Animacy=Anim|Number[high]=Sing|Number[low]=Sing|Person[high]=1|Person[low]=3|Tense=Past|Voice=Dir	0	root	_	Gloss=I-helped-him|MSeg=ni-kī-wīcih-ā-w|MGloss=1-PAST-help-DIR-3SG
+2	Cān	Cān	PROPN	_	Animacy=Anim|Number=Sing	1	obj	_	Gloss=John|SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+~~~
 
 
 
