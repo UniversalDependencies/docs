@@ -1531,12 +1531,12 @@ signal that the default interpretation does not apply.
 as in symmetric-voice languages? Or something else? Or should we even replace
 `nsubj:pass` in other languages by something more neutral?</span>
 
-* _Nikīwīcihāw Cān._ “I helped John.”
+* _Nikī-wīcihāw Cān._ “I helped John.”
 
 ~~~ conllu
-# text = Nikīwīcihāw Cān.
+# text = Nikī-wīcihāw Cān.
 # text_en = I helped John.
-1	Nikīwīcihāw	wīcih	VERB	_	Animacy=Anim|Number[high]=Sing|Number[low]=Sing|Person[high]=1|Person[low]=3|Tense=Past|Voice=Dir	0	root	_	Gloss=I-helped-him|MSeg=ni-kī-wīcih-ā-w|MGloss=1-PAST-help-DIR-3SG
+1	Nikī-wīcihāw	wīcih	VERB	_	Animacy=Anim|Number[high]=Sing|Number[low]=Sing|Person[high]=1|Person[low]=3|Tense=Past|Voice=Dir	0	root	_	Gloss=I-helped-him|MSeg=ni-kī-wīcih-ā-w|MGloss=1-PAST-help-DIR-3SG
 2	Cān	Cān	PROPN	_	Animacy=Anim|Number=Sing	1	obj	_	Gloss=John|SpaceAfter=No
 3	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
