@@ -24,6 +24,7 @@ Arguments realized as clauses are discussed [at the end of the chapter](#clausal
   * [Basque](#basque)
   * [Yidiɲ](#yidiɲ)
   * [Tagalog](#tagalog)
+  * [Plains Cree](#plains-cree)
 * [Can adjectives have core arguments?](#can-adjectives-have-core-arguments)
 * [Can adverbs have core arguments?](#can-adverbs-have-core-arguments)
 * [Can nouns have core arguments?](#can-nouns-have-core-arguments)
@@ -1467,6 +1468,36 @@ directioal (locative) oblique dependent.
 ~~~
 
 <!-- Locative voice? Binigyan ng lalaki ng libro ang babae. -->
+
+
+
+### Plains Cree
+
+See also:
+
+* Arok Elessar Wolvengrey (2011):
+  [Semantic and pragmatic functions in Plains Cree syntax](https://dare.uva.nl/search?identifier=153f3405-f029-4046-8d95-9f2a087b4123)
+  (PhD thesis). Utrecht: LOT. ISBN 978-94-6093-051-5.
+
+The Algonquian (North American) language Plains Cree is similar to Basque in
+its cross-referencing of both the subject and the object by verbal inflection.
+It is also very dissimilar to Basque due to its almost complete lack of case
+marking on the nouns. Yet the marking of the argument on the verbal head is
+sufficient to allow for a relatively free word order (unlike English).
+
+Like in many other languages where person and number of an argument is cross-referenced
+by the verb, the argument does not need to appear as a separate word if it
+would be just a pronoun.
+
+* _Niwīcihānānak._ “We help them.”
+
+~~~ conllu
+# text = Niwīcihānānak.
+# text_en = We help them.
+1	Niwīcihānānak	wīcih	VERB	_	Animacy=Anim|Number[high]=Plur|Number[low]=Plur|Person[high]=1|Person[low]=3|Voice=Dir	0	root	_	Gloss=we-help-them|MSeg=ni-wīcih-ā-nān-ak|MGloss=1-help-DIR-1PL-3PL|SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+~~~
 
 
 
