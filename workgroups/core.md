@@ -1607,7 +1607,12 @@ is first-person and the other third-person, both will stay in the “nominative�
 regardless of their semantic roles. Therefore, defining a new feature,
 separate from `Case`, is probably a better and less confusing solution.
 
-<!-- moje konstrukce: Cān ki-wīcihēw Mēriya = John helped Mary -->
+<!-- page 199 section 3.1 -->
+
+* _Cāniy kī-wīcihēw Mērīwa._ “Johnny helped Mary.” (direct voice)
+* _Cānīwa kī-wīcihēw Mēriy._ “Mary helped Johnny.” (direct voice)
+* _Cāniy kī-wīcihik Mērīwa._ “Mary helped Johnny. / Johnny was helped by Mary.” (inverse voice)
+* _Cānīwa kī-wīcihik Mēriy._ “Johnny helped Mary. / Mary was helped by Johnny.” (inverse voice)
 
 
 
