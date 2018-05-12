@@ -1591,8 +1591,21 @@ the feature 4 to allow for identification of a fourth person category when the
 semantic distinctions are complicated or not strictly inflectional in nature.”
 
 A possible alternative would be to revoke the “fourth person” and define
-a separate feature `Obviation` with the values `Prx` and `Obv`.
-Yet another option would be
+a separate feature `Obviation` with the values `Prx` and `Obv`. There are two
+places where the feature could be used: as a verbal feature (cross-referencing
+the argument) and as a nominal feature (marking the argument). Especially in
+nominal inflection it seems preferable to use a new feature rather than assert
+that the noun inflects for person (with values `3` and `4` only).
+
+Yet another option would be to include the nominal inflection under [Case]()
+marking, i.e., a noun with the obviative morpheme would be `Case=Acc` and
+the unmarked nouns would be `Case=Nom`. However, such an extension could be
+perceived as stretching the usual definition of case too far. The main oddity
+would be that it only applies to third-person referents and only if two such
+referents compete as arguments of the same verb. If one argument of the verb
+is first-person and the other third-person, both will stay in the “nominative”
+regardless of their semantic roles. Therefore, defining a new feature,
+separate from `Case`, is probably a better and less confusing solution.
 
 <!-- moje konstrukce: Cān ki-wīcihēw Mēriya = John helped Mary -->
 
