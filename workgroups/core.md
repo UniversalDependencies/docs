@@ -1568,11 +1568,31 @@ Cree.</span>
 If two third-person arguments are involved, one of them is considered
 _proximate_ (more topical, higher in the obliqueness hierarchy) and the other
 is considered _obviative_ (less topical, lower in the obliqueness hierarchy).
-The morphological features defined in Universal Dependencies capture this
-distinction within the [Person]() feature: proximate third person is encoded
-as `Person=3`, and obviative third person is encoded as `Person=4`.
+The obviative noun is marked morphologically by the suffix _-a_.
 Note that Plains Cree distinguishes singular and plural [Number]() for
 proximate but not for obviative third person arguments.
+
+Current UD data (as of UD 2.1) does not include languages with direct-inverse
+voice systems and proximate-obviative division of third-person arguments. The
+guidelines define a special value for the “fourth person”, which could be
+used for obviative arguments (see [Person]()). This value is inspired by the
+[Unimorph](https://unimorph.github.io/doc/unimorph-schema.pdf#page=41) project.
+However, the Unimorph specification seems to favor using `Person=3` with an
+additional subfeature for proximate and obviative status:
+“In some languages, a fourth person category is used to describe an otherwise
+third-person referent that is differentiated from other third-person referents
+by a switch-reference-like distinction … or, more commonly, by a distinction in
+obviation status… For the purposes of morphological distinctions, these fourth
+person categories may call for dedicated verbal morphology. While in some
+cases their meaning can be captured by third person (3) plus switch-reference
+features or features marking pragmatic voice distinctions (such as the
+proximate (PRX) and obviative (OBV)), we include a fourth person category with
+the feature 4 to allow for identification of a fourth person category when the
+semantic distinctions are complicated or not strictly inflectional in nature.”
+
+A possible alternative would be to revoke the “fourth person” and define
+a separate feature `Obviation` with the values `Prx` and `Obv`.
+Yet another option would be
 
 <!-- moje konstrukce: Cān ki-wīcihēw Mēriya = John helped Mary -->
 
