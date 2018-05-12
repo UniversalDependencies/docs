@@ -12,8 +12,6 @@ Some similar patterns of other parts of speech are discussed [at the end of the 
 Most of this chapter assumes that the arguments are [nominal](/u/pos/NOUN.html) phrases.
 Arguments realized as clauses are discussed [at the end of the chapter](#clausal-complements).
 
-<span style='color:red'>TO DO: write most of the chapter :-)</span>
-
 * [Core vs. oblique](#core-arguments-vs-oblique-modifiers)
   * [The definition of core arguments](#the-definition-of-core-arguments)
   * [Avoiding an argument/adjunct distinction](#avoiding-an-argumentadjunct-distinction)
