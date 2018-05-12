@@ -1545,7 +1545,7 @@ Cree.</span>
 # text = Nikī-wīcihāw Cān.
 # text_en = I helped John.
 1	Nikī-wīcihāw	wīcih	VERB	_	Animacy=Anim|Mood=Ind|Number[high]=Sing|Number[low]=Sing|Person[high]=1|Person[low]=3|Tense=Past|Voice=Dir	0	root	_	Gloss=I-helped-him|MSeg=ni-kī-wīcih-ā-w|MGloss=1-PAST-help-DIR-3SG
-2	Cān	Cān	PROPN	_	Animacy=Anim|Number=Sing	1	obj	_	Gloss=John|SpaceAfter=No
+2	Cān	Cān	PROPN	_	Animacy=Anim|Number=Sing|Obviation=Prx	1	obj	_	Gloss=John|SpaceAfter=No
 3	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 ~~~
@@ -1556,9 +1556,9 @@ Cree.</span>
 # text = Nikī-wīcihāwak Cān ēkwa Mēriy.
 # text_en = I helped John and Mary.
 1	Nikī-wīcihāwak	wīcih	VERB	_	Animacy=Anim|Mood=Ind|Number[high]=Sing|Number[low]=Plur|Person[high]=1|Person[low]=3|Tense=Past|Voice=Dir	0	root	_	Gloss=I-helped-them|MSeg=ni-kī-wīcih-ā-w-ak|MGloss=1-PAST-help-DIR-3-3PL
-2	Cān	Cān	PROPN	_	Animacy=Anim|Number=Sing	1	obj	_	Gloss=John
+2	Cān	Cān	PROPN	_	Animacy=Anim|Number=Sing|Obviation=Prx	1	obj	_	Gloss=John
 3	ēkwa	ēkwa	CCONJ	_	_	4	cc	_	Gloss=and
-4	Mēriy	Mēriy	PROPN	_	Animacy=Anim|Number=Sing	2	conj	_	Gloss=Mary|SpaceAfter=No
+4	Mēriy	Mēriy	PROPN	_	Animacy=Anim|Number=Sing|Obviation=Prx	2	conj	_	Gloss=Mary|SpaceAfter=No
 5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 ~~~
@@ -1613,6 +1613,18 @@ separate from `Case`, is probably a better and less confusing solution.
 * _Cānīwa kī-wīcihēw Mēriy._ “Mary helped Johnny.” (direct voice)
 * _Cāniy kī-wīcihik Mērīwa._ “Mary helped Johnny. / Johnny was helped by Mary.” (inverse voice)
 * _Cānīwa kī-wīcihik Mēriy._ “Johnny helped Mary. / Mary was helped by Johnny.” (inverse voice)
+
+* _Nikī-wīcihāw Cān._ “I helped John.”
+
+~~~ conllu
+# text = Cāniy kī-wīcihēw Mērīwa.
+# text_en = Johnny helped Mary.
+1	Cāniy	Cāniy	PROPN	_	Animacy=Anim|Number=Sing|Obviation=Prx	2	nsubj	_	Gloss=Johnny
+2	kī-wīcihēw	wīcih	VERB	_	Animacy=Anim|Mood=Ind|Number[high]=Sing|Number[low]=Sing|Person[high]=3|Person[low]=3|Tense=Past|Voice=Dir	0	root	_	Gloss=helped|MSeg=kī-wīcih-ē-w|MGloss=PAST-help-DIR-3SG
+3	Mērīwa	Mēriy	PROPN	_	Animacy=Anim|Number=Sing|Obviation=Obv	2	obj	_	Gloss=Mary|MSeg=Mēriy-wa|MGloss=Mary-OBV|SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+~~~
 
 
 
