@@ -1508,14 +1508,14 @@ would be just a pronoun.
 
 ~~~
 
-The two verb forms in the two previous examples differ in voice. The first
+The two verb forms in the two previous examples differ in [Voice](). The first
 example is in the direct voice, where the argument higher in a language-specific
 obliqueness hierarchy is more agent-like and the other argument is more patient-like.
 First person arguments are higher than third person arguments, therefore the
 agent is “we” and the patient is “they”.
 
 In the second example, the argument-marking morphemes have not changed but the
-verb is in the inverse [Voice]() where the argument lower in the hierarchy (“they”)
+verb is in the inverse voice where the argument lower in the hierarchy (“they”)
 is the agent and the higher argument (“we”) is the patient.
 
 In a parallel to the active-passive voice system of English, we can postulate
