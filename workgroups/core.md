@@ -1651,6 +1651,71 @@ separate from `Case`, is probably a better and less confusing solution.
 
 ~~~
 
+Ditransitive verbs (that is, verbs with three arguments) still cross-reference
+only two arguments on the verb. It is always the recipient-like argument that
+is cross-referenced, while the theme stays outside. Hence the recipient (goal)
+is more core than the theme, and deserves to be labeled [obj](). The question
+is whether the theme is still a core argument (and thus labeled [iobj]()) or
+it is already oblique. Allowing it the core status seems to be at a similar
+level of tolerance as with the non-accusative objects in languages like Czech.
+The themes in Plains Cree are not indexed on the verb, though their own surface
+form (bare nominal) is not different from the core arguments.
+
+<!-- page 95 section 2.2.3.2 -->
+
+* _Nikī-miyāw anima masinahikan._ “I gave him/her that book.” (direct voice)
+* _Nikī-miyik anima masinahikan._ “He/she gave me that book.” (inverse voice)
+* _Nikī-kiskinwahamawāw nēhiyawēwin._ “I taught him/her Cree.” (direct voice)
+* _Nikī-kiskinwahamāk nēhiyawēwin._ “He/she taught me Cree.” (inverse voice)
+
+~~~ conllu
+# text = Nikī-miyāw anima masinahikan.
+# text_en = I gave him/her that book.
+1	Nikī-miyāw	miy	VERB	_	Animacy=Anim|Mood=Ind|Number[high]=Sing|Number[low]=Sing|Person[high]=1|Person[low]=3|Tense=Past|Voice=Dir	0	root	_	Gloss=I-gave-him/her|MSeg=ni-kī-miy-ā-w|MGloss=1-PAST-give.to-DIR-3SG
+2	anima	anima	DET	_	Animacy=Inan|Number=Sing|PronType=Dem	3	det	_	Gloss=that|MGloss=DEM.0's
+3	masinahikan	masinahikan	NOUN	_	Animacy=Inan|Number=Sing	1	iobj	_	Gloss=book|SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+~~~
+
+In the above example, the verb stem used is for animate objects, while
+_masinahikan_ “book” is inanimate. That is a proof that the 3rd person singular
+cross-reference on the verb does not refer to the book but to an animate
+recipient that is not overtly represented in the sentence.
+
+Even though Plains Cree does not use morphological cases to distinguish agents
+from patients, there is a form of nouns that can be classified as the locative
+case (`Case=Loc`). It clearly marks the noun as oblique and unable to be
+cross-referenced by verbal inflection. The other, bare nominal forms, could
+then be tagged as nominative (`Case=Nom`), or, optionally, left with the [Case]()
+feature empty.
+
+* _Akocikanihk nikī-ahāwak nitastisak._ “I put my mitts on the shelf.” (mitts are grammatically animate, despite the semantics)
+
+~~~ conllu
+# text = Akocikanihk nikī-ahāwak nitastisak.
+# text_en = I put my mitts on the shelf.
+1	Akocikanihk	akocikan	NOUN	_	Animacy=Inan|Case=Loc	2	obl	_	Gloss=shelf|MSeg=akocikan-ihk|MGloss=shelf-LOC
+2	nikī-ahāwak	ah	VERB	_	Animacy=Anim|Mood=Ind|Number[high]=Sing|Number[low]=Plur|Person[high]=1|Person[low]=3|Tense=Past|Voice=Dir	0	root	_	Gloss=I-put|MSeg=ni-kī-ah-ā-wak|MGloss=1-PAST-put-DIR-3PL
+3	nitastisak	astis	NOUN	_	Animacy=Anim|Number=Plur|Person[psor]=1	2	obj	_	Gloss=my-mitts|MSeg=nit-astis-ak|MGloss=1-mitt-PL|SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+~~~
+
+Adpositions may accompany the locative, too:
+
+* _Nikī-nīhtināw akocikanihk ohci._ “I took him/her/it down from the shelf.”
+
+~~~ conllu
+# text = Nikī-nīhtināw akocikanihk ohci.
+# text_en = I took him/her/it down from the shelf.
+1	Nikī-nīhtināw	nīhtin	VERB	_	Animacy=Anim|Mood=Ind|Number[high]=Sing|Number[low]=Sing|Person[high]=1|Person[low]=3|Tense=Past|Voice=Dir	0	root	_	Gloss=I-took-it-down|MSeg=ni-kī-nīhtin-ā-w|MGloss=1-PAST-take.down-DIR-3SG
+2	akocikanihk	akocikan	NOUN	_	Animacy=Inan|Case=Loc	1	obl	_	Gloss=shelf|MSeg=akocikan-ihk|MGloss=shelf-LOC
+3	ohci	ohci	ADP	_	_	2	case	_	Gloss=from|SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+~~~
+
 
 
 <!---------------------------------------------------------------------------->
