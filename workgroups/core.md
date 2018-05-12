@@ -1614,14 +1614,21 @@ separate from `Case`, is probably a better and less confusing solution.
 * _Cāniy kī-wīcihik Mērīwa._ “Mary helped Johnny. / Johnny was helped by Mary.” (inverse voice)
 * _Cānīwa kī-wīcihik Mēriy._ “Johnny helped Mary. / Mary was helped by Johnny.” (inverse voice)
 
-* _Nikī-wīcihāw Cān._ “I helped John.”
-
 ~~~ conllu
 # text = Cāniy kī-wīcihēw Mērīwa.
 # text_en = Johnny helped Mary.
 1	Cāniy	Cāniy	PROPN	_	Animacy=Anim|Number=Sing|Obviation=Prx	2	nsubj	_	Gloss=Johnny
 2	kī-wīcihēw	wīcih	VERB	_	Animacy=Anim|Mood=Ind|Number[high]=Sing|Number[low]=Sing|Person[high]=3|Person[low]=3|Tense=Past|Voice=Dir	0	root	_	Gloss=helped|MSeg=kī-wīcih-ē-w|MGloss=PAST-help-DIR-3SG
 3	Mērīwa	Mēriy	PROPN	_	Animacy=Anim|Number=Sing|Obviation=Obv	2	obj	_	Gloss=Mary|MSeg=Mēriy-wa|MGloss=Mary-OBV|SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+~~~
+~~~ conllu
+# text = Cānīwa kī-wīcihēw Mēriy.
+# text_en = Mary helped Johnny.
+1	Cānīwa	Cāniy	PROPN	_	Animacy=Anim|Number=Sing|Obviation=Obv	2	obj	_	Gloss=Johnny|MSeg=Cāniy-wa|MGloss=Johnny-OBV
+2	kī-wīcihēw	wīcih	VERB	_	Animacy=Anim|Mood=Ind|Number[high]=Sing|Number[low]=Sing|Person[high]=3|Person[low]=3|Tense=Past|Voice=Dir	0	root	_	Gloss=helped|MSeg=kī-wīcih-ē-w|MGloss=PAST-help-DIR-3SG
+3	Mēriy	Mēriy	PROPN	_	Animacy=Anim|Number=Sing|Obviation=Prx	2	nsubj	_	Gloss=Mary|SpaceAfter=No
 4	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 ~~~
