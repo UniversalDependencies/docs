@@ -1632,6 +1632,24 @@ separate from `Case`, is probably a better and less confusing solution.
 4	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 ~~~
+~~~ conllu
+# text = Cāniy kī-wīcihik Mērīwa.
+# text_en = Mary helped Johnny. / Johnny was helped by Mary.
+1	Cāniy	Cāniy	PROPN	_	Animacy=Anim|Number=Sing|Obviation=Prx	2	nsubj:pass	_	Gloss=Johnny
+2	kī-wīcihik	wīcih	VERB	_	Animacy=Anim|Mood=Ind|Number[high]=Sing|Number[low]=Sing|Person[high]=3|Person[low]=3|Tense=Past|Voice=Inv	0	root	_	Gloss=helped|MSeg=kī-wīcih-ikw-w|MGloss=PAST-help-INV-3SG
+3	Mērīwa	Mēriy	PROPN	_	Animacy=Anim|Number=Sing|Obviation=Obv	2	obj:agent	_	Gloss=Mary|MSeg=Mēriy-wa|MGloss=Mary-OBV|SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+~~~
+~~~ conllu
+# text = Cānīwa kī-wīcihik Mēriy.
+# text_en = Johnny helped Mary. / Mary was helped by Johnny.
+1	Cānīwa	Cāniy	PROPN	_	Animacy=Anim|Number=Sing|Obviation=Obv	2	obj:agent	_	Gloss=Johnny|MSeg=Cāniy-wa|MGloss=Johnny-OBV
+2	kī-wīcihik	wīcih	VERB	_	Animacy=Anim|Mood=Ind|Number[high]=Sing|Number[low]=Sing|Person[high]=3|Person[low]=3|Tense=Past|Voice=Inv	0	root	_	Gloss=helped|MSeg=kī-wīcih-ikw-w|MGloss=PAST-help-INV-3SG
+3	Mēriy	Mēriy	PROPN	_	Animacy=Anim|Number=Sing|Obviation=Prx	2	nsubj:pass	_	Gloss=Mary|SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+~~~
 
 
 
