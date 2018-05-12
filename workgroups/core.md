@@ -1712,7 +1712,7 @@ Adpositions may accompany the locative, too:
 1	Nikī-nīhtināw	nīhtin	VERB	_	Animacy=Anim|Mood=Ind|Number[high]=Sing|Number[low]=Sing|Person[high]=1|Person[low]=3|Tense=Past|Voice=Dir	0	root	_	Gloss=I-took-it-down|MSeg=ni-kī-nīhtin-ā-w|MGloss=1-PAST-take.down-DIR-3SG
 2	akocikanihk	akocikan	NOUN	_	Animacy=Inan|Case=Loc	1	obl	_	Gloss=shelf|MSeg=akocikan-ihk|MGloss=shelf-LOC
 3	ohci	ohci	ADP	_	_	2	case	_	Gloss=from|SpaceAfter=No
-4	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 ~~~
 
