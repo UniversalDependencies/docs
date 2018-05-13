@@ -1297,13 +1297,13 @@ with accusative.
 
 ~~~
 
-* _Natalisod ni Pedro._ “Pedro tripped.”
+* _Natalisod si Pedro._ “Pedro tripped.”
 
 ~~~ conllu
-# text = Natalisod ni Pedro.
+# text = Natalisod si Pedro.
 # text_en = Pedro tripped.
 1	Natalisod	tisod	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=tripped|MSeg=na-talisod|MGloss=PERF+INVOL-trip
-2	ni	ni	DET	_	Case=Nom|Definite=Def|PronType=Art	3	det	_	Gloss=the|MGloss=PIV
+2	si	si	DET	_	Case=Nom|Definite=Def|PronType=Art	3	det	_	Gloss=the
 3	Pedro	Pedro	PROPN	_	_	1	nsubj	_	Gloss=Pedro|SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	Gloss=punct
 
