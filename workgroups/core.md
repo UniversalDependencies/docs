@@ -1255,6 +1255,13 @@ inflect for case.
 There have been disputes about whether the pivot is subject and whether
 Tagalog has a subject at all. Nevertheless, there does not seem to be any
 better solution than to simply identify it with the subject in UD.
+<span style="color:red">EDIT: Further discussion is needed. Andrews cites
+others and says (below examples 124) that both _ang_ and _ng_ arguments are
+core, but the actor is more subject-like regardless of whether it is pivot or
+not. That would mean that we should use the `nsubj` relation for the _ang_
+argument of agent-voice verbs, the _ng_ argument of patient-voice verbs,
+and we would have to select one of two _ng_ arguments in other voices,
+depending on which argument semantically fits the agent role.</span>
 It seems appropriate to mark the determiners and the personal pronouns with
 the [Case]() feature: the pivot with nominative, and the other core argument
 with accusative.
