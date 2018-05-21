@@ -51,7 +51,7 @@ det(աշխատանքում, այդ)
 ~~~ sdparse
 Նրանք/PROPN հմտացել/VERB են/AUX այդ/DET աշխատանքի/NOUN[Case=Dat] մեջ/ADP[Case=Nom] ։ \n
 obl(հմտացել, աշխատանքի)
-case:loc(աշխատանքի, մեջ)
+case(աշխատանքի, մեջ)
 det(աշխատանքի, այդ)
 ~~~
 
