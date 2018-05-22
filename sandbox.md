@@ -307,9 +307,11 @@ Simpler
 
 ### Enhanced dependencies experiments
 
+"Il governo sono io, non Walesa e presto vedrò il leader sovietico"
+
 <div class="conllu-parse" tabs="yes" id="tut-2947">
-# visual-style 4 5 ref color:red
-# visual-style 6 4 nmod:poss color:red
+# visual-style 5 11 nsubj color:red
+# visual-style 8 3 nsubj color:red
 1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
 2	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	governo	governo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
