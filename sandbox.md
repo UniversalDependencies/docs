@@ -310,21 +310,19 @@ Simpler
 <div class="conllu-parse" tabs="yes" id="tut-2947">
 # visual-style 4 5 ref color:red
 # visual-style 6 4 nmod:poss color:red
-# visual-style 6 5 nmod:poss color:blue
-1	"	"	PUNCT	FB	_	3	punct	3:punct	SpaceAfter=No
-2	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	3:det	_
-3	governo	governo	NOUN	S	Gender=Masc|Number=Sing	0	root	0:root	_
-4	sono	essere	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	3:cop	_
-5	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj|11:nsubj	Propagate=Yes|SpaceAfter=No
-6	,	,	PUNCT	FF	_	7	punct	7:punct	_
-7	non	non	ADV	BN	PronType=Neg	8	advmod	8:advmod	_
-8	Walesa	Walesa	PROPN	SP	_	5	conj	3:nsubj|5:conj	_
-9	e	e	CCONJ	CC	_	11	cc	11:cc	_
-10	presto	presto	ADV	B	_	11	advmod	11:advmod	_
-11	vedrò	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	3	conj	3:conj:e	_
-12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	13:det	_
-13	leader	leader	NOUN	S	Gender=Masc	11	obj	11:obj	_
-14	sovietico	sovietico	ADJ	A	Gender=Masc|Number=Sing	13	amod	13:amod	SpaceAfter=No
-15	"	"	PUNCT	FB	_	3	punct	3:punct	SpaceAfter=No
-16	.	.	PUNCT	FS	_	3	punct	3:punct	_
+1	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
+2	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	governo	governo	NOUN	S	Gender=Masc|Number=Sing	0	root	_	_
+4	sono	essere	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	cop	_	_
+5	io	io	PRON	PE	Number=Sing|Person=1|PronType=Prs	3	nsubj	11:nsubj	Propagate=Yes|SpaceAfter=No
+6	,	,	PUNCT	FF	_	7	punct	_	_
+7	non	non	ADV	BN	PronType=Neg	8	advmod	_	_
+8	Walesa	Walesa	PROPN	SP	_	5	conj	3:nsubj	_
+9	e	e	CCONJ	CC	_	11	cc	_	_
+10	presto	presto	ADV	B	_	11	advmod	_	_
+11	vedrò	vedere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	3	conj	_	_
+12	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	leader	leader	NOUN	S	Gender=Masc	11	obj	_	_
+14	sovietico	sovietico	ADJ	A	Gender=Masc|Number=Sing	13	amod	_	SpaceAfter=No
+15	"	"	PUNCT	FB	_	3	punct	_	SpaceAfter=No
 </div>
