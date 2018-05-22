@@ -306,7 +306,7 @@ Simpler
 ~~~
 
 ### Enhanced dependencies experiments
-Let's use red for enhanced-only, blue for basic-only and black for basic&enhanced dependencies:
+
 <div class="conllu-parse" tabs="yes" id="tut-2947">
 # visual-style 4 5 ref color:red
 # visual-style 6 4 nmod:poss color:red
