@@ -4,7 +4,9 @@ title: 'det-rel'
 shortdef: 'relative determiner'
 udver: '2'
 ---
-The det-rel relation is used between relativized element and determiner mín.
+
+The `det:rel` relation is used between relativised element and determiner _mín_.
+
 ~~~ conllu
 # visual-style 5 6 det:rel  color:blue
 # visual-style 5        bgColor:blue
@@ -25,4 +27,5 @@ The det-rel relation is used between relativized element and determiner mín.
 12	kòrr	kɔ́rr	INTJ	_	_	11	discourse	_	_
 13	!	!	PUNCT	_	_	11	punct	_	_
 ~~~
-'Where a python layed down, he tyed sticks hard (there)'.
+'Where a python lay down, he tied sticks hard (there)'.
+
