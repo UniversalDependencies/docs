@@ -21,7 +21,10 @@ Each noun falls into one of five declensions.
 
 ##### Verbal nouns
 
-Verbal nouns are marked as `NOUN` in the UD scheme. Verbal noun forms are used widely in Irish for the infinitive form (_a dhéanamh_ "to do") and progressive aspectual phrases (_ag déanamh_ "doing/ making").
+v2 UD documentation for [NOUN]() states that "some verb forms such as gerunds and infinitives may share properties and usage of nouns and verbs. Depending on language and context, they may be classified as either VERB or NOUN".
+
+Verbal nouns are marked as `NOUN` in the Irish UD scheme. 
+Verbal noun forms are used widely in Irish for the infinitive form, using the infinitive particle `a', (_a dhéanamh_ "to do") and progressive aspectual phrases (_ag déanamh_ "doing/ making").
 
 
 
