@@ -5,7 +5,7 @@ shortdef: 'conjunct'
 udver: '2'
 ---
 
-The `conj`relation is used between a coordinative conjunction and its governor.
+The `conj` relation is used between a coordinative conjunction and its governor.
 
 
 

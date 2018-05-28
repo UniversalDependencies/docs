@@ -28,8 +28,8 @@ The main forms are:
 
 
 Our analysis follows a copula-predicate-subject analysis as per Uí Dhonnchadha (2009), which applies to other constructions that we list here: 
-* Classificatory constructions: _Is lá deas é_ "It is a nice day"
-* Ownership constructions: _Is liomsa é_ "It is mine"
-* Fronting constructions: _Is ise a chonaic sé_ "It is she whom he saw"
-* Identification constructions: _Is iad na buaiteoirí_ "They are the winners"
-* Idiomatic use: _Is maith liom tae_ "I like tea"
+* Classificatory constructions: _Is lá deas é_ "It is a nice day"  [lit. `is day nice it']
+* Ownership constructions: _Is liomsa é_ "It is mine"  [lit `is with-me it']
+* Fronting constructions: _Is ise a chonaic sé_ "It is she whom he saw" [lit. `Is her REL saw he']
+* Identification constructions: _Is iad na buaiteoirí_ "They are the winners"  [`is them the winners']
+* Idiomatic use: _Is maith liom tae_ "I like tea" [`is good with-me tea']

@@ -26,7 +26,7 @@ The `case` relation is used for adpositions.
 'He and an old woman met on the road'.
 ~~~
 
-In Bamana, the majority of adpositions are postpositions, but there are some prepositions as well. These are kàbí ~ kàbíni 'since', fó ~ fɔ́ 'till, ní and àní 'with'.
+In Bamana, the majority of adpositions are postpositions, but there are some prepositions as well. These are _kàbi_, ~ _kàbíni_ 'since', _fo_, ~ _fɔ_, 'till, _ni_, and _àní_, 'with'.
 
 ~~~ conllu
 # visual-style 2 1 case	color:blue
