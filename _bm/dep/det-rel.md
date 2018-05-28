@@ -1,6 +1,6 @@
 ---
 layout: relation
-title: 'det-rel'
+title: 'det:rel'
 shortdef: 'relative determiner'
 udver: '2'
 ---
