@@ -28,6 +28,7 @@ There are many different particles in Irish:
 * _<b>a</b> hocht_ "eight" (numeral)
 * _<b>níos</b> mó_ "bigger" (comparative)
 * _<b>is</b> mó_ "biggest" (superlative)
+* _<b>a</b> dhéanamh_ "to do"  (infinitive marker) 
  
 
 
