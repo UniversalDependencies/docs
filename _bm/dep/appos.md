@@ -15,7 +15,7 @@ The `appos` relation is used when a noun phrase is apposed to another one.
 
 1	masa	màsa	NOUN	_	_	5	nsubj	_	_
 2	Ala	Ála	NOUN	_	_	1	appos	_	_
-3	ye	ye	AUX	pm	_	5	aux	_	_
+3	ye	ye	AUX	_	_	5	aux	_	_
 4	konyumannin	koɲumannin	NOUN	_	_	5	obj	_	_
 5	da	dá	VERB	_	_	0	root	_	_
 6	n	ń	PRON	_	_	5	obl	_	_

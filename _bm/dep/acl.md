@@ -13,7 +13,6 @@ The `acl` relation is used for relative clauses. We annotate a modified noun phr
 # visual-style 7	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-
 1	u	ù	PRON	_	_	4	nsubj	_	_
 2	ma	ma	AUX	_	_	4	aux	_	_
 3	mògò	mɔ̀gɔ	NOUN	_	_	4	obj	_	_
@@ -27,9 +26,8 @@ The `acl` relation is used for relative clauses. We annotate a modified noun phr
 11	ci	cì	VERB	_	_	7	xcomp	_	_
 12	.	.	PUNCT	_	_	4	punct	_	_
 
-'They did not find a man who could break this boat'.
 ~~~
-
+'They did not find a man who could break this boat'.
 
 It is possible that noun modified by a relative clause is not expressed in the main clause. In this case, the `acl` relation is between two predicates.
 
@@ -53,5 +51,6 @@ It is possible that noun modified by a relative clause is not expressed in the m
 12	kòrr	kɔ́rr	INTJ	_	_	11	discourse	_	_
 13	!	!	PUNCT	_	_	11	punct	_	_
 
-'Where a python layed down, he tyed sticks hard (there)'.
 ~~~
+
+'Where a python layed down, he tied sticks hard'.
