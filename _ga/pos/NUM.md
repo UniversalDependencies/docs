@@ -22,8 +22,8 @@ Irish numbers are split into three categories: cardinal, ordinal and personal. T
 
 * _<b>11ú</b> céad_ "11th century"
 
-* _a haon_ "one" (counting)
-* _duine amháin_ "one person"
+* _a <b>haon</b>_ "one" (counting)
+* _duine <b>amháin</b>_ "one person"
 
 * _<b>dhá</b> theanga_ "two languages"
 * _<b>beirt</b> duine_ "two people"
