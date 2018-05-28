@@ -10,4 +10,4 @@ udver: '2'
 
 The following table lists the part of speech used in UD v2 for Bambara.
 
-include bm-pos-table.html
+{% include bm-pos-table.html %}
