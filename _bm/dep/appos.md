@@ -12,7 +12,6 @@ The `appos` relation is used when a noun phrase is apposed to another one.
 # visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-
 1	masa	màsa	NOUN	_	_	5	nsubj	_	_
 2	Ala	Ála	NOUN	_	_	1	appos	_	_
 3	ye	ye	AUX	_	_	5	aux	_	_
@@ -21,6 +20,5 @@ The `appos` relation is used when a noun phrase is apposed to another one.
 6	n	ń	PRON	_	_	5	obl	_	_
 7	nyè	ɲɛ́	ADP	_	_	6	case	_	_
 8	!	!	PUNCT	_	_	5	punct	_	_
-
-'God had mercy on me! (lit: 'King Allah put on me in a good way')'.
 ~~~
+'King Allah blessed me!'
