@@ -1,4 +1,3 @@
-
 ---
 layout: relation
 title: 'orphan'
@@ -6,7 +5,7 @@ shortdef: 'orphan'
 udver: '2'
 ---
 
-The `orphan` relation is used in cases of head ellipsis. An element belonging to the same clause as the elided head is promoted, all other dependents of this elided head are considered as dependant of the promoted element with their original relations. 
+The `orphan` relation is used in cases of head ellipsis. An element belonging to the same clause as the elided head is promoted, all other dependents of this elided head are considered as dependant of the promoted element with their original relations.
 
 In the example below, a copule yé is elided and a postposition. This sentence without ellipsis would be: 'Ò bɛ́ɛ yé fɛ́n kélen yé'.
 
@@ -23,4 +22,4 @@ In the example below, a copule yé is elided and a postposition. This sentence 
 4	kelen	kélen	NUM	_	_	3	nummod	_	_
 
 'They all are the same'.
-~~~ 
+~~~
