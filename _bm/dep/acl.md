@@ -37,7 +37,7 @@ It is possible that noun modified by a relative clause is not expressed in the m
 # visual-style 11        fgColor:white
 # visual-style 4        bgColor:blue
 # visual-style 4        fgColor:white
-1	mininyan	míni.ɲan	_	4	nsubj	_	_
+1	mininyan	míni.ɲan	NOUN	_	_	4	nsubj	_	_
 2	ye	yé	AUX	_	_	4	aux	_	_
 3	i	í	PRON	_	_	4	obj	_	_
 4	la	dá	VERB	_	_	11	acl	_	_
@@ -52,5 +52,4 @@ It is possible that noun modified by a relative clause is not expressed in the m
 13	!	!	PUNCT	_	_	11	punct	_	_
 
 ~~~
-
 'Where a python layed down, he tied sticks hard'.
