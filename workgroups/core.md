@@ -6,11 +6,11 @@ udver: '2'
 
 # Working Group on Core and Oblique Arguments and Adjuncts
 
-Most of this chapter focuses on arguments of [verbs](/u/pos/VERB.html).
+Most of this chapter focuses on dependents of [verbs](/u/pos/VERB.html).
 Some similar patterns of other parts of speech are discussed [at the end of the chapter](#can-adjectives-have-core-arguments).
 
-Most of this chapter assumes that the arguments are [nominal](/u/pos/NOUN.html) phrases.
-Arguments realized as clauses are discussed [at the end of the chapter](#clausal-complements).
+Most of this chapter assumes that the dependents are [nominal](/u/pos/NOUN.html) phrases.
+Dependents realized as clauses are discussed [at the end of the chapter](#clausal-complements).
 
 * [Core vs. oblique](#core-arguments-vs-oblique-modifiers)
   * [The definition of core arguments](#the-definition-of-core-arguments)
@@ -32,8 +32,8 @@ Arguments realized as clauses are discussed [at the end of the chapter](#clausal
 ## Core Arguments vs. Oblique Modifiers
 
 The UD taxonomy is centered around the fairly clear distinction between
-core arguments (subjects, objects, clausal complements) versus other dependents.
-It does not make a distinction between adjuncts (general modifiers) versus
+core arguments (primarily subjects and objects) and other dependents.
+It does not make a distinction between adjuncts (general modifiers) and
 oblique arguments (arguments said to be selected by a head but not expressed
 as a core argument).
 
