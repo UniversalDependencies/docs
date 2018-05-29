@@ -62,3 +62,5 @@ As discussed at the [brainstorming meeting in Pisa](http://universaldependencies
   * Typos and other errors in the underlying text
   * Dates, numbers and measures (and classifiers?)
   * Quoted text in foreign language (e.g. book/movie titles); foreign names; code switching
+  * Abbreviations, multi-word abbreviations, acronyms
+
