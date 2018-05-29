@@ -20,7 +20,7 @@ There is also a special case of tagging _agus_ "and" as a subordinate conjunctio
 * _cé_ "even though"
 * _<b>cé</b> go raibh cuid mhaith ann san am gcéanna_ "<b>even though</b> there was a lot there at the same time"
 * _sula_/_sular_ "before"
-* _<b>sular</b> féidir linn imeacht, ní mór dúinn léarscáil a cheannach_ "<b>before</b> we leave, we need to buy a map"
+* _<b>sular</b> féidir linn imeacht, ní mór dúinn léarscáil a cheannach_ "<b>before</b> we can leave, we need to buy a map"
 * _Seo pictúir a tógadh dhó <b>agus</b> é briste_ "here is a picture that was taken of it <b>and</b> it broken"
 
 
