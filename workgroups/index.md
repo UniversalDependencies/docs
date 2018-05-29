@@ -56,6 +56,7 @@ As discussed at the [brainstorming meeting in Pisa](http://universaldependencies
   * (All of the above should be compared to `nmod` and the dividing line should be drawn.)
 * Comparative constructions
 * Ellipsis
+* Punctuation
 * Other relations not covered by the above
   * Parataxis, list, fixed, reparandum, goeswith, discourse
 * Other stuff
