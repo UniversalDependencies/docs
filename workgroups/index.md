@@ -38,6 +38,7 @@ As discussed at the [brainstorming meeting in Pisa](http://universaldependencies
   * Negation
   * Questions (yes/no-questions, wh-questions)
   * Commands, vocative
+  * Non-canonical sentences, fragments
 * Subordinate clauses
   * Complement clauses
     * “Complement” clauses of nouns (`acl:comp`?)
