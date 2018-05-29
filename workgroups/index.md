@@ -57,7 +57,7 @@ As discussed at the [brainstorming meeting in Pisa](http://universaldependencies
 * Comparative constructions
 * Ellipsis
 * Other relations not covered by the above
-  * Parataxis, list, fixed, reparandum, goeswith
+  * Parataxis, list, fixed, reparandum, goeswith, discourse
 * Other stuff
   * Word segmentation (where to segment and where not)
   * Typos and other errors in the underlying text
