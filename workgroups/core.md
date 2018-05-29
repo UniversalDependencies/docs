@@ -629,6 +629,9 @@ benefactive adjuncts that are also encoded as bare nominals in the dative
 * _Zuzka Martinovi objednala večeři._ “Zuzka ordered a dinner for Martin.”
 * _Zuzka Martinovi snědla večeři._ “Zuzka ate Martin's dinner.”
 
+<span style="color: blue"><b>Joakim:</b> If benefactives and datives have the same encoding, perhaps
+they should both be regarded as oblique (to facilitate annotation).</span>
+
 Similarly, there are objects realized as bare genitives and even instrumentals,
 with the same passivization pattern as datives. Instrumental objects have to
 be distinguished from demoted oblique agents in passive constructions, and
