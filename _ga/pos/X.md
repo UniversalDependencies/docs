@@ -6,7 +6,7 @@ shortdef: 'other'
 
 #### Description
 
-The tag X is used for words that for some reason cannot be assigned a real part-of-speech category.
+The tag X is used for words that for some reason cannot be assigned a real part-of-speech category. For example, abbreviations, numbering of lists, etc. 
 
 Foreign words (see [Foreign]()) are also tagged X. 
 
