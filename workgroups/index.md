@@ -31,6 +31,7 @@ As discussed at the [brainstorming meeting in Pisa](http://universaldependencies
   * Existential clauses
   * Nonverbal clauses
   * Complex predicates
+    * Auxiliaries
     * Light verbs
     * Serial verbs
   * Modal verbs
