@@ -55,3 +55,10 @@ As discussed at the [brainstorming meeting in Pisa](http://universaldependencies
   * (All of the above should be compared to `nmod` and the dividing line should be drawn.)
 * Comparative constructions
 * Ellipsis
+* Other relations not covered by the above
+  * Parataxis, list, fixed, reparandum, goeswith
+* Other stuff
+  * Word segmentation (where to segment and where not)
+  * Typos and other errors in the underlying text
+  * Dates, numbers and measures (and classifiers?)
+  * Quoted text in foreign language (e.g. book/movie titles); foreign names; code switching
