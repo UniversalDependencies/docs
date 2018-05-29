@@ -166,7 +166,7 @@ that have objects but do not passivize:
 
 Therefore, durational temporal adjuncts have to be stated as an exception,
 and this is the one case where the argument/adjunct distinction cannot be
-avoided in UD.
+avoided in UD. 
 
 * _He works the whole week._
 
@@ -198,6 +198,13 @@ requires an object:
 8	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
+
+<span style="color: blue"><b>Joakim:</b> I think word order tests can 
+be used to distinguish these two cases (instead of appealing to the arg/adj distinction):
+	
+* _John worked the whole week in Paris. John worked in Paris the whole week._
+* _John spent the whole week in Paris. *John spent in Paris the whole week._
+</span>
 
 Some English verbs allow two objects (i.e., two core arguments following
 the verb):
@@ -255,6 +262,11 @@ This has to be resolved by either modifying the guidelines, or the data
 
 ~~~
 
+<span style="color: blue"><b>Joakim:</b> I don't think this is specified by the v2 guidelines.
+I tried to argue for it on GitHub, based on syntactic criteria, but people pushed back saying that 
+it is convenient for NLP applications to have the same relation for the recipient role in both cases.
+This needs to be resolved.</span>
+
 <span style="color:red">TO DO: How do we explain that an oblique nominal is
 annotated as subject in subordinate infinitival clause, as in
 _It was impossible <b>for him</b> to attend the meeting._
@@ -265,6 +277,9 @@ It is not sufficient to say that it has the same semantic role as the correspond
 bare nominal in a main finite clause. If it was sufficient, then the _by_-phrases
 in passive clauses would be subjects too!</span>
 
+<span style="color:blue"><b>Joakim:</b> We definitely need to allow different coding 
+in subordinate clauses. That is the rule in languages like Latin and Turkish. But I 
+think we should save this for the section on subordinate clauses.</span>
 
 
 ### Spanish
