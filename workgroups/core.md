@@ -468,7 +468,7 @@ Hence the indirect object is less core than the direct object.
 
 ~~~
 
-
+<span style="color: blue"><b>Joakim:</b> Why do we treat the recipient as core in Spanish but not in English when they both have prepositions? Is this because prepositions are found with direct objects in Spanish but not in English? And what would we then do in French, where the recipient takes a prepositions but where prepositions are never used with prepositions? Same as English? It would also be possible (at least in French) to argue for a mixed system, where full noun phrases are oblique (because they take a preposition) but pronouns are core (because they have dative case).</span>
 
 ### Czech
 
