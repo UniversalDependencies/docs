@@ -5,7 +5,7 @@ shortdef: 'numeric modifier'
 udver: '2'
 ---
 
-The `nummod` relation is used between a nominal phrase and its numeric modifier.
+The `nummod` relation is used between a nominal phrase and its numeric modifier, which is expressed by cardinal numeral. For ordinal numerals, [amod]() link relation is used.
 
 ~~~ conllu
 # visual-style 3 4 nummod	color:blue
@@ -13,8 +13,6 @@ The `nummod` relation is used between a nominal phrase and its numeric modifier.
 # visual-style 4	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-
-
 1	a	à	PRON	_	_	5	nsubj	_	_
 2	ye	ye	AUX	_	_	5	aux	_	_
 3	denkè	dénkɛ	NOUN	_	_	5	obj	_	_

@@ -13,9 +13,7 @@ The `ccomp` link is used for clausal dependents which are core arguments, when t
 # visual-style 2	fgColor:white
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-
-
-1	masakè	màsakɛ	NOUN	_	_	2	nsubj	_ _
+1	masakè	màsakɛ	NOUN	_	_	2	nsubj	_	_
 2	ko	kó	VERB	_	_	0	root	_	_
 3	ko	kó	PART	_	_	7	discourse	_	_
 4	muso	mùso	NOUN	_	_	7	nsubj	_	_
@@ -28,6 +26,5 @@ The `ccomp` link is used for clausal dependents which are core arguments, when t
 11	buguri	bùguri	NOUN	_	_	7	obl	_	_
 12	ye	yé	ADP	_	_	11	case	_	_
 13	!	!	PUNCT	_	_	7	punct	_	_
-
-'A king says that all women must come with their dust'.
 ~~~
+'A king says that all women must come with their dust'.
