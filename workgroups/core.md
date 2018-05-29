@@ -938,6 +938,8 @@ and the true agent as [iobj:agent](/fr/dep/iobj-agent.html).
 
 ~~~
 
+<span style="color: blue"><b>Joakim:</b> I think it might be better to use "nsubj:caus" and "iobj:caus", indicating that these are arguments of a causative and therefore do not have the expected role but without specifying the role (cause and agent). This is more parallel with "nsubj:pass", where we just indicate that it is the subject of a passive and therefore has an unexpected role but without specifying what the role is. </span>
+
 The fact that the causative
 [is available](https://books.google.cz/books?id=nIaPL4kLt6cC&pg=PA599&lpg=PA599&dq=gustatzen+causative&source=bl&ots=LcI8u2JhcB&sig=LrbPxId629ESf0v70hw2EY73J70&hl=cs&sa=X&ved=2ahUKEwjFluOAwu_aAhWFDiwKHVbXCYkQ6AEwAXoECAAQMA#v=onepage&q=gustatzen%20causative&f=false)
 for dative-absolutive verbs supports the
