@@ -1598,8 +1598,10 @@ Note that Plains Cree distinguishes singular and plural [Number]() for
 proximate but not for obviative third person arguments.
 
 Current UD data (as of UD 2.1) does not include languages with direct-inverse
-voice systems and proximate-obviative division of third-person arguments. The
-guidelines define a special value for the “fourth person”, which could be
+voice systems and proximate-obviative division of third-person arguments. 
+<span style="color: blue"><b>Joakim:</b> But I think similar cases are discussed 
+with reference to UD in [this paper on Arapaho](http://www.aclweb.org/anthology/W16-1719).</span>
+The guidelines define a special value for the “fourth person”, which could be
 used for obviative arguments (see [Person]()). This value is inspired by the
 [Unimorph](https://unimorph.github.io/doc/unimorph-schema.pdf#page=41) project.
 However, the Unimorph specification seems to favor using `Person=3` with an
