@@ -32,3 +32,5 @@ Resultative, subject and future-II participles are word forms that may share pro
 
 - _<b>կառուցված, կառուցվող, կառուցվելիք</b> շենք_ “a built house; a house, that is being built; a house that will be built”
 -	_<b>հնչած, հնչող, հնչելիք</b> զանգ_ “a ringing call; a call that ringed; a call that will ring”
+
+Note that some participial adjectives are tagged `ADJ`, although they may have verbal features in addition to the adjectival ones.
