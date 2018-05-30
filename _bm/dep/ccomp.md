@@ -5,7 +5,27 @@ shortdef: 'clausal complement'
 udver: '2'
 ---
 
-The `ccomp` link is used for clausal dependents which are core arguments, when the subject is not controlled. However, when the subject is controlled, we use the [xcomp]() link. It is used with copula like verb kó while it introduces indirect speech. If kó introduces direct speech, we use [parataxis:obj]() or [obj]().
+The `ccomp` link is used for clausal dependents which are core arguments, when the subject is not controlled. When the subject is controlled, we use the [xcomp]() link. 
+~~~ conllu
+# visual-style 4 7 ccomp        color:blue
+# visual-style 4        bgColor:blue
+# visual-style 4        fgColor:white
+# visual-style 7        bgColor:blue
+# visual-style 7        fgColor:white
+1	ale	_	PRON	_	_	4	nsubj	_	_
+2	ye	_	AUX	_	_	4	aux	_	_
+3	a	_	PRON	_	_	4	obj	_	_
+4	mèn	_	VERB	_	_	0	root	_	_
+5	,	_	PUNCT	_	_	4	punct	_	_
+6	kòròkè	_	NOUN	_	_	7	nsubj	_	_
+7	kèra	_	VERB	_	_	4	ccomp	_	_
+8	jòn	_	NOUN	_	_	7	obl	_	_
+9	ye	_	ADP	_	_	8	case	_	_
+10	yan	_	ADV	_	_	7	obl	_	_
+11	.	_	PUNCT	_	_	4	punct	_	_
+~~~
+
+`ccomp` is used with copula like verb _kó_ while it introduces indirect speech. If _kó_ introduces direct speech, we use [parataxis:obj](). In fact, borders between (in)direct speech in Mande languages are often vague. Still, we decided to annotate the difference when it is possible.
 
 ~~~ conllu
 # visual-style 2 7 ccomp	color:blue

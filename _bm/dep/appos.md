@@ -7,7 +7,7 @@ udver: '2'
 The `appos` relation is used when a noun phrase is apposed to another one.
 
 ~~~ conllu
-# visual-style 1 2 aux	color:blue
+# visual-style 1 2 appos	color:blue
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 2	bgColor:blue

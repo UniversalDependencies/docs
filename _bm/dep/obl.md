@@ -29,11 +29,11 @@ In Bamana, `obl` is used for all verbal arguments except direct objects. Note th
 The relation `obl` is used for adverbs as well, as boundaries between nouns in oblique position are sometimes vague. So, there is no `advmod` relation neither.
 
 ~~~ conllu
-# visual-style 12 4 advcl       color:blue
-# visual-style 12       bgColor:blue
-# visual-style 12       fgColor:white
-# visual-style 4        bgColor:blue
-# visual-style 4        fgColor:white
+# visual-style 12 13 obl	color:blue
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
 1       ni      ní      SCONJ   _       _       4       mark    _       _
 2       n       ń       PRON    _       _       4       nsubj   _       _
 3       tè      tɛ      AUX     _       _       4       aux     _       _

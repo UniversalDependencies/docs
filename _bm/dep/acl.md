@@ -5,7 +5,7 @@ shortdef: 'clausal modifier of noun'
 udver: '2'
 ---
 
-The `acl` relation is used for relative clauses. We annotate a modified noun phrase as a head of a predicate of subordinative clause.
+The `acl` relation is used for relative clauses. We annotate a modified noun phrase as a head of a predicate of subordinate clause.
 
 ~~~ conllu
 # visual-style 3 7 acl	color:blue
@@ -32,11 +32,11 @@ The `acl` relation is used for relative clauses. We annotate a modified noun phr
 It is possible that noun modified by a relative clause is not expressed in the main clause. In this case, the `acl` relation is between two predicates.
 
 ~~~ conllu
-# visual-style 11 4 acl  color:blue
-# visual-style 11        bgColor:blue
-# visual-style 11        fgColor:white
-# visual-style 4        bgColor:blue
-# visual-style 4        fgColor:white
+# visual-style 11 4 acl	color:blue
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 1	mininyan	míni.ɲan	NOUN	_	_	4	nsubj	_	_
 2	ye	yé	AUX	_	_	4	aux	_	_
 3	i	í	PRON	_	_	4	obj	_	_
@@ -50,6 +50,6 @@ It is possible that noun modified by a relative clause is not expressed in the m
 11	siri	sìri	VERB	_	_	0	root	_	_
 12	kòrr	kɔ́rr	INTJ	_	_	11	discourse	_	_
 13	!	!	PUNCT	_	_	11	punct	_	_
-
 ~~~
+
 'Where a python layed down, he tied sticks hard'.
