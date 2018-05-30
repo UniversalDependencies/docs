@@ -27,7 +27,7 @@ The relation `aux` is  used between a predicative marker and a predicate. Auxili
 ~~~
 'He made a water of this'.
 
-Moreover, the relation `aux` is used with a marker of retrospective tùn, which has POS tag PART, as formally it behaves as a particle. We chose a relation `aux` for it, as semantically it is a TAM auxiliary. 
+Moreover, the relation `aux` is used with a marker of retrospective _tùn_, which has POS tag PART, as formally it behaves as a particle. We chose a relation `aux` for it, as semantically it is a TAM auxiliary. 
 
 ~~~ conllu
 # visual-style 3 2 aux  color:blue

@@ -13,7 +13,6 @@ The `mark` link is used between a marker and its head. A marker is the word intr
 # visual-style 1	fgColor:white
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
-
 1	ni	ní	SCONJ	_	_	4	mark	_	_
 2	n	ń	PRON	_	_	4	nsubj	_	_
 3	tè	tɛ	AUX	_	_	4	aux	_	_
@@ -28,7 +27,5 @@ The `mark` link is used between a marker and its head. A marker is the word intr
 12	to	tó	VERB	_	_	0	root	_	_
 13	yen	yèn	ADV	_	_	12	advcl	_	_
 14	.	.	PUNCT	_	_	12	punct	_	_
-
-'If I can not break it, I leave it here'.
-
 ~~~
+'If I can not break it, I leave it here'.
