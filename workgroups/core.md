@@ -206,6 +206,8 @@ be used to distinguish these two cases (instead of appealing to the arg/adj dist
 * _John spent the whole week in Paris. *John spent in Paris the whole week._
 </span>
 
+<span style="color: green"><b>Dan:</b> In English, yes. But the same adjunct appears in Spanish and Czech too.</span>
+
 Some English verbs allow two objects (i.e., two core arguments following
 the verb):
 
