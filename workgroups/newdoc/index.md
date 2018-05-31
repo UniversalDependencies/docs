@@ -11,7 +11,7 @@ udver: '2'
 * Modifiers (obliques and adverbials; adjectives; adverbs modifying nouns; modifiers modifying other modifiers)
 * Coordination (of simple noun phrases or simple clauses; difference from parataxis?)
 * More about simple clauses
-  * Valency-changing operations (passive, antipassive, causative, applicative)
+  * [Valency-changing operations](valency_changing_operations.html) (passive, antipassive, causative, applicative)
   * Expletives, multiple realizations of arguments
   * Existential clauses
   * Nonverbal clauses
