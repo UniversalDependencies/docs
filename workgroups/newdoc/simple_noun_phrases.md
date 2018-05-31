@@ -6,7 +6,11 @@ udver: '2'
 
 # Simple Noun Phrases
 
-The UD annotation assumes the nominal, or noun phrase, as one of the basic structures that we expect to find in all languages. A nominal minimally consists of a noun, proper noun or pronoun.
+Noun phrases are syntactic constituents built around a noun or pronoun. They occur as core arguments of predicates and typically refer to objects, although they have a range of other functions as well (including predicative uses). 
+
+## Nominal Heads
+
+In the simplest case, a noun phrase consists of a single head word, which is typically a noun, proper noun or pronoun.
 
 ~~~ sdparse
 hon såg filmen . \n she saw the-film
@@ -21,7 +25,13 @@ hon såg den \n she saw it
 obj(såg, den)
 ~~~
 
-## Modifier Dependents
+Nominal head words are tagged as [NOUN]() ("filmen"), [PROPN]() ("Batman") or [PRON]() ("den"), respectively. Depending on the language, nominal head words may in addition carry a number of morphological features. For example, the noun "filmen" is a singular, definite common gender noun ([Definite]()=Yes, [Gender]()=Common, [Number]()=Sing), and "den" is a third-person, singular, definite, common gender personal pronoun ([Definite]()=Yes[Gender]()=Common, [Number]()=Sing, [Person]()=3,[PronType]=Prs). An important feature of nouns in many languages is [Case](), which normally gives information about the relation of the noun phrase to its syntactic head. The following examples illustrate different case forms of the Czech noun "?":
+
+<span style="color: blue">**TODO:** Add relevant examples from Czech here (perhaps a nominative subject, an accusative objects, and a genitive nmod). </span>
+
+## Determiners
+
+<span style="color: blue">**CONTINUE HERE!** </span>
 
 A nominal head does not take any core arguments but may be associated with different types of modifiers:
 
