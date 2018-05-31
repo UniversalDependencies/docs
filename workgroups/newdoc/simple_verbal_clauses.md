@@ -328,6 +328,8 @@ directional and temporal adjuncts.
 
 Neither _toda la semana_ nor _al tren_ or _a las cinco_ can be promoted via passivization.
 Furthermore, they are inanimate, and only animate direct objects take the preposition.
+None of the adjuncts can be replaced by an accusative pre-verbal clitic:
+_*Él la trabaja._
 
 
 
