@@ -144,7 +144,7 @@ the grammatical function **S.**
 
 Finally, we define that nominal arguments with functions S and A should be
 called subjects and labeled [nsubj](), and arguments with functions P should
-be called objects and labeled [obj](). We also say that the subject is the
+be called objects and labeled [obj](). We also say that the subject is usually the
 “more core-like” argument of the two; nevertheless, it depends on language-particular
 criteria whether there is a scale of “coreness”, and how it can be measured.
 
