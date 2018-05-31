@@ -432,7 +432,7 @@ also be a temporal adjunct, as in:
 The nominal _celý týden_ cannot be promoted to subject via passivization, which
 supports the claim that it is not an object; however, this test is not sufficient
 because of some transitive verbs that cannot passivize (_dostat_ “to get”, _mít_ “to have”).
-Therefore, durational temporal adjuncts have to be stated as an exception and
+Therefore, accusative temporal adjuncts have to be stated as an exception and
 the argument/adjunct distinction cannot be avoided in this case.
 
 Many two-argument verbs in Czech specify the second argument as a bare noun
