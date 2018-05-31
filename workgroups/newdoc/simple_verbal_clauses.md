@@ -23,7 +23,7 @@ Later chapters will extend the discussion in various directions:
 
 Most examples in this chapter show finite clauses, although the guidelines can be
 extended to non-finite clauses where appropriate. Non-finite verb forms are often
-associated with subordinated clauses, hence more examples will be given in chapters
+associated with subordinate clauses, hence more examples will be given in chapters
 on subordination. In principle, any phrase whose head is tagged `VERB` is a clause
 in UD (while the opposite implication does not hold, a clause may be headed by a
 non-verb). This becomes important when a class of words such as participles or
