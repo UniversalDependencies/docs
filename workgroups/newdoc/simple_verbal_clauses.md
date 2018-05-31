@@ -447,19 +447,17 @@ Also, the treatment of these arguments by the grammatical rules such as
 passivization is different from the treatment that accusatives receive.
 Thus it might be better to say that only bare nominative and accusative
 arguments are core, while all the rest is oblique.
+Consequently, such two-argument clauses are intransitive.
 
-* _Zuzka pomohla Martinovi s domácím úkolem._ “Zuzka helped Martin with his homework.”
+* _Zuzka pomohla Martinovi._ “Zuzka helped Martin.”
 
 ~~~ conllu
-# text = Zuzka pomohla Martinovi s domácím úkolem.
-# text_en = Zuzka helped Martin with his homework.
+# text = Zuzka pomohla Martinovi.
+# text_en = Zuzka helped Martin.
 1	Zuzka	Zuzka	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	2	nsubj	_	Gloss=Zuzka
 2	pomohla	pomoci	VERB	_	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	Gloss=helped
-3	Martinovi	Martin	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	2	obl:arg	_	Gloss=Martin
-4	s	s	ADP	_	_	6	case	_	Gloss=with
-5	domácím	domácí	ADJ	_	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	6	amod	_	Gloss=home
-6	úkolem	úkol	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	2	obl:arg	_	Gloss=work|SpaceAfter=No
-7	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+3	Martinovi	Martin	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	2	obl:arg	_	Gloss=Martin|SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	Gloss=.
 
 ~~~
 
