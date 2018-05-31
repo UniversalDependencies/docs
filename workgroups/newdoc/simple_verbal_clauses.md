@@ -34,6 +34,7 @@ non-verb ([NOUN](), [ADJ]() or [ADV]()).
 * [Core vs. oblique](#core-arguments-vs-oblique-modifiers)
   * [The definition of core arguments](#the-definition-of-core-arguments)
   * [Avoiding an argument/adjunct distinction](#avoiding-an-argumentadjunct-distinction)
+  * [Determining the language-specific criteria for core arguments](#determining-the-language-specific-criteria-for-core-arguments)
 * [Coding strategies](#coding-strategies)
   * [English](#english)
   * [Spanish](#spanish)
