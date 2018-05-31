@@ -411,34 +411,13 @@ permutations are possible and may be required to distinguish topic and focus.
 * _Chlapec jablko snědl._ “What the boy did to the apple was that he ate it.”
 * _Jablko chlapec snědl._ “As for the apple, what the boy did to it was that he ate it.”
 * _Snědl chlapec jablko._ “A boy ate an apple.”
-* _Snědl jablko chlapec._ “A boy ate an apple.” (Most unusual order but not impossible.)
-
-Transitive clauses (those that have an accusative object) can be passivized.
-
-* _Jablko bylo snědeno chlapcem._ “The apple was eaten by the boy.”
-* _Jablka byla snědena chlapcem._ “The apples were eaten by the boy.”
-
-~~~ conllu
-# text = Jablko bylo snědeno chlapcem.
-# text_en = The apple was eaten by the boy.
-1	Jablko	jablko	NOUN	_	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	3	nsubj:pass	_	Gloss=apple
-2	bylo	být	AUX	_	Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	3	aux:pass	_	Gloss=was
-3	snědeno	snědený	ADJ	_	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	Gloss=eaten
-4	chlapcem	chlapec	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	3	obl:agent	_	Gloss=by-boy|SpaceAfter=No
-5	.	.	PUNCT	_	_	3	punct	_	Gloss=.
-
-~~~
-
-There are a few verbs with accusative objects that cannot passivize, for
-instance:
-
-* _Chlapec dostal čokoládu._ “The boy got chocolate.” _(*Čokoláda byla dostána chlapcem.)_
-* _Chlapec má čokoládu._  “The boy has chocolate.” _(*Čokoláda je mána chlapcem.)_
+* _Snědl jablko chlapec._ “It was a boy who ate an apple.”
 
 It is not guaranteed that a bare accusative nominal is a core argument. It can
-also be a durational temporal adjunct, as in:
+also be a temporal adjunct, as in:
 
 * _Pracuje celý týden._ “He works the whole week.”
+* _Přichází každou středu._ “She comes every Wednesday.”
 
 ~~~ conllu
 # text = Pracuje celý týden.
@@ -452,189 +431,35 @@ also be a durational temporal adjunct, as in:
 
 The nominal _celý týden_ cannot be promoted to subject via passivization, which
 supports the claim that it is not an object; however, this test is not sufficient
-because of the exceptional verbs like _dostat_ “to get” and _mít_ “to have”.
+because of some transitive verbs that cannot passivize (_dostat_ “to get”, _mít_ “to have”).
 Therefore, durational temporal adjuncts have to be stated as an exception and
 the argument/adjunct distinction cannot be avoided in this case.
 
 Many two-argument verbs in Czech specify the second argument as a bare noun
-phrase in a case other than accusative. Whether these arguments are core
+phrase in a case other than accusative (namely in the dative, genitive or
+instrumental). Whether these arguments are core
 arguments is a point of disagreement among different authors.
 The current (UD 2.1) approach in UD for Czech and several similar Indo-European
-languages is to analyze them as core.
-
-Some of the verbs resemble prototypical transitive verbs in that their
-arguments have the roles of agent and patient. For instance, the verb
-_pomoci_ “to help” takes a dative argument:
+languages is to analyze them as core; however, it is less easy to find examples
+that could qualify as primary transitive verbs, and there are more confusions
+with dependents that would be better described as oblique arguments or adjuncts.
+Also, the treatment of these arguments by the grammatical rules such as
+passivization is different from the treatment that accusatives receive.
+Thus it might be better to say that only bare nominative and accusative
+arguments are core, while all the rest is oblique.
 
 * _Zuzka pomohla Martinovi s domácím úkolem._ “Zuzka helped Martin with his homework.”
-
-The clause can be passivized. However, the dative argument is not promoted
-by the passivization to the subject relation. It stays in dative and the
-verb does not cross-reference its person, number or gender. Instead, verbal
-morphology switches to the default singular neuter agreement with unexpressed subject.
-This suggests that the dative argument is less core-like (if at all) than a
-standard accusative object.
-
-* _Martinovi bylo pomoženo s domácím úkolem._ “Martin was helped with his homework.” _(*Martin byl pomožen s domácím úkolem.)_
 
 ~~~ conllu
 # text = Zuzka pomohla Martinovi s domácím úkolem.
 # text_en = Zuzka helped Martin with his homework.
 1	Zuzka	Zuzka	PROPN	_	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	2	nsubj	_	Gloss=Zuzka
 2	pomohla	pomoci	VERB	_	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	Gloss=helped
-3	Martinovi	Martin	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	2	obj	_	Gloss=Martin
+3	Martinovi	Martin	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	2	obl:arg	_	Gloss=Martin
 4	s	s	ADP	_	_	6	case	_	Gloss=with
 5	domácím	domácí	ADJ	_	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	6	amod	_	Gloss=home
 6	úkolem	úkol	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	2	obl:arg	_	Gloss=work|SpaceAfter=No
 7	.	.	PUNCT	_	_	2	punct	_	Gloss=.
-
-~~~
-
-~~~ conllu
-# text = Martinovi bylo pomoženo s domácím úkolem.
-# text_en = Martin was helped with his homework.
-1	Martinovi	Martin	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|Polarity=Pos	3	obj	_	Gloss=Martin
-2	bylo	být	AUX	_	Gender=Neut|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	3	aux:pass	_	Gloss=was
-3	pomoženo	pomožený	ADJ	_	Gender=Neut|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	Gloss=helped
-4	s	s	ADP	_	_	6	case	_	Gloss=with
-5	domácím	domácí	ADJ	_	Animacy=Inan|Case=Ins|Degree=Pos|Gender=Masc|Number=Sing|Polarity=Pos	6	amod	_	Gloss=home
-6	úkolem	úkol	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	3	obl:arg	_	Gloss=work|SpaceAfter=No
-7	.	.	PUNCT	_	_	3	punct	_	Gloss=.
-
-~~~
-
-If dative arguments are core objects, then we may want to distinguish them from
-benefactive adjuncts that are also encoded as bare nominals in the dative
-(that is, if we acknowledge that benefactives should be adjuncts):
-
-* _Zuzka Martinovi udělala večeři._ “Zuzka prepared a dinner for Martin.”
-* _Zuzka Martinovi koupila večeři._ “Zuzka bought a dinner for Martin.”
-* _Zuzka Martinovi objednala večeři._ “Zuzka ordered a dinner for Martin.”
-* _Zuzka Martinovi snědla večeři._ “Zuzka ate Martin's dinner.”
-
-<span style="color: blue"><b>Joakim:</b> If benefactives and datives have the same encoding, perhaps
-they should both be regarded as oblique (to facilitate annotation).</span>
-
-Similarly, there are objects realized as bare genitives and even instrumentals,
-with the same passivization pattern as datives. Instrumental objects have to
-be distinguished from demoted oblique agents in passive constructions, and
-from instrumental adjuncts.
-
-* _Novináři musí dbát zásad objektivity._ “Journalists must observe principles of objectivity.” (genitive)
-* _Musí být dbáno zásad objektivity._ “Principles of objectivity must be observed.”
-* _Karel hýbal nábytkem._ “Karel moved furniture.” (instrumental)
-* _Nábytkem bylo hýbáno._ “The furniture has been moved.”
-
-The Czech grammar also recognizes prepositional objects but we do not consider
-them core (which means they are not objects in UD). In fact, the definition
-of object in the Czech grammar is identical with argument and leads to the
-argument/adjunct distinction, disfavored in UD. Most adjuncts are prepositional
-phrases, thus the bulk of the decisions would have to be done for prepositional phrases;
-that is the
-main reason why bare datives are analyzed as core objects while prepositional
-phrases are not. It is worth noting that the neuter singular passivization
-that is described above for bare datives, genitives and instrumentals is also available
-for prepositional phrases and even for some intransitive verbs, although
-such constructions are rare:
-
-* _Spoléhali na ředitelovo rozhodnutí._ “They relied on the director's decision.”
-* _Na ředitelovo rozhodnutí bylo spoléháno._ “It was relied on the director's decision.”
-* _Ředitel rozhodl v pátek._ “The director decided on Friday.”
-* _V pátek bylo rozhodnuto._ “It was decided on Friday.”
-
-Some Czech verbs allow two objects. Typically, one object is accusative and
-the other is dative; nevertheless, some other combinations are possible, too.
-
-* _Petr dal Katce knihu._ “Petr gave Katka a book.” (dative + accusative)
-* _Tomáš mě učí matematiku._ “Tomáš teaches me mathematics.” (accusative + accusative)
-* _Muž vyhrožoval sousedovi smrtí._ “A man threatened his neighbor with death.” (dative + instrumental)
-
-The dative-accusative construction can be passivized so that the accusative
-object is promoted to subject, the dative object stays as it is, and the
-former subject disappears (or, rarely, is transformed to instrumental).
-It is thus confirmed that the dative object is less core than the accusative,
-hence the dative should be labeled as indirect.
-
-* _Kniha byla dána Katce (Petrem)._ “The book was given to Katka (by Petr).”
-
-The verb _učit_ “to teach” is special in that it allows two accusatives: one
-representing the theme (mathematics) and the other the recipient (me). Either
-one can be omitted and then we have a normal transitive clause with an accusative
-object that can be promoted via passivization. However, if both arguments are
-present in the active clause, it is not possible to promote one of them and
-leave the other untouched; the grammar does not tolerate a bare accusative
-argument in a passive clause.
-Also note that there is a slightly archaic alternative where the theme (not
-the recipient!) takes the dative form. Here the passive might in theory be
-available but it still sounds clumsy.
-
-* _Tomáš učí matematiku._ “Tomáš teaches mathematics.”
-* _Matematika je učena Tomášem._ “Mathematics is taught by Tomáš.”
-* _Tomáš mě učí._ “Tomáš teaches me.”
-* _(Já) jsem učen Tomášem._ “I am taught by Tomáš.”
-* _Tomáš mě učí matematiku._ “Tomáš teaches me mathematics.”
-* _(*Jsem učen matematiku Tomášem. *Matematika je učena mě Tomášem.)_
-* _Tomáš mě učí matematice._ “Tomáš teaches me mathematics.” (mathematics in dative)
-* _(?Jsem učen matematice (Tomášem).)_ “I am taught mathematics (by Tomáš).”
-
-There thus does not seem to be any evidence that one of the accusatives is
-more core than the other. We have an example of a clause with two objects,
-neither of which is indirect.
-
-Finally, in the dative-instrumental construction, the passivization follows
-rules similar to clauses with one non-accusative object: former subject
-disappears but the objects stay untouched. Moreover, if the subject is
-not removed but transformed to an instrumental argument, it is likely that
-the original instrumental argument will be removed instead.
-Yet it is not completely ungrammatical to keep them both (see the example below; but it is
-highly preferred that the two instrumental arguments are not adjacent).
-
-* _Muž vyhrožoval sousedovi smrtí._ “A man threatened his neighbor with death.”
-* _Sousedovi bylo vyhrožováno smrtí._ “The neighbor was threatened with death.”
-* _Sousedovi bylo vyhrožováno mužem._ “The neighbor was threatened by the man.”
-* _Mužem bylo sousedovi vyhrožováno smrtí._ “The neighbor was threatened by the man with death.”
-
-The dative-instrumental construction is one where both objects are clearly
-less core than accusative objects, but none of the two is more or less core
-than the other. Therefore, none of them can be labeled as indirect.
-
-* _Petr dal Katce knihu._ “Petr gave Katka a book.”
-
-~~~ conllu
-# text = Petr dal Katce knihu.
-# text_en = Petr gave Katka a book.
-1	Petr	Petr	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	2	nsubj	_	Gloss=Petr
-2	dal	dát	VERB	_	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	Gloss=gave
-3	Katce	Katka	PROPN	_	Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos	2	iobj	_	Gloss=to-Katka
-4	knihu	kniha	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	2	obj	_	Gloss=book|SpaceAfter=No
-5	.	.	PUNCT	_	_	2	punct	_	Gloss=.
-
-~~~
-
-* _Kniha byla dána Katce Petrem._ “The book was given to Katka by Petr.”
-
-~~~ conllu
-# text = Kniha byla dána Katce Petrem.
-# text_en = The book was given to Katka by Petr.
-1	Kniha	kniha	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	3	nsubj:pass	_	Gloss=book
-2	byla	být	AUX	_	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	3	aux:pass	_	Gloss=was
-3	dána	daný	ADJ	_	Gender=Fem|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	Gloss=given
-4	Katce	Katka	PROPN	_	Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos	3	iobj	_	Gloss=to-Katka
-5	Petrem	Petr	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	3	obl:agent	_	Gloss=by-Petr|SpaceAfter=No
-6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
-
-~~~
-
-* _Tomáš mě učí matematiku._ “Tomáš teaches me mathematics.”
-
-~~~ conllu
-# text = Tomáš mě učí matematiku.
-# text_en = Tomáš teaches me mathematics.
-1	Tomáš	Tomáš	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	3	nsubj	_	Gloss=Tomáš
-2	mě	já	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs|Variant=Short	3	obj	_	Gloss=me
-3	učí	učit	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin	0	root	_	Gloss=teaches
-4	matematiku	matematika	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	3	obj	_	Gloss=mathematics|SpaceAfter=No
-5	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 ~~~
 
