@@ -109,6 +109,45 @@ argument-adjunct distinction. See, for example:
 * Avery D. Andrews. 2007. The Major Functions of the Noun Phrase. In Timothy Shopen (ed.) Language Typology and Syntactic Description: Clause Structure (2nd ed), Cambridge University Press, Cambridge, United Kingdom, pp. 132-223. (1st edition, 1985.)
 * Sandra A. Thompson. 1997. Discourse Motivations for the Core-Oblique Distinction as a Language Universal. In Akio Kamio (ed.) Directions in Functional Linguistics. Benjamins, Amsterdam, the Netherlands, pp. 59-82.
 
+### Determining the Language-Specific Criteria for Core Arguments
+
+A useful approach is to start with _primary transitive clauses,_ i.e. clauses
+with predicates that license the semantic roles of agent (actor) and patient
+(undergoer) in the prototypical sense. Verbs describing violent actions are
+often good examples:
+
+* _George killed the dragon._
+
+Such verbs have two core arguments. The more active argument (the agent) is
+said to have the grammatical function **A.** The other argument (the patient)
+is said to have the grammatical function **P.** Then we note the coding
+strategies and grammatical rules that, within the language, are typical
+for arguments with the functions A and P, and we generalize to clauses
+with other predicates that receive the same treatment, regardless of their
+semantic roles. Such predicates will be called transitive and their arguments
+will also have the functions A and P, respectively. For instance,
+
+* _John loves Mary._
+
+is a transitive clause, _John_ has the function A because it behaves the same
+way as _George_ in the dragon killing example, and _Mary_ has the function P
+because the grammar treats her the same way as the dragon in the first example.
+Semantic roles are no longer important: John is an experiencer rather than
+actor, and Mary may not be affected by his love; she may not even be aware of
+it.
+
+Now we can recognize that a predicate has two core arguments, and,
+consequently, we can also recognize predicates that have only one (regardless
+whether they have an additional _oblique_ argument). Clauses headed by such
+predicates are intransitive and their single core argument is said to have
+the grammatical function **S.**
+
+Finally, we define that nominal arguments with functions S and A should be
+called subjects and labeled [nsubj](), and arguments with functions P should
+be called objects and labeled [obj](). We also say that the subject is the
+“more core-like” argument of the two; nevertheless, it depends on language-particular
+criteria whether there is a scale of “coreness”, and how it can be measured.
+
 
 
 ## Coding Strategies
