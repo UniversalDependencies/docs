@@ -15,13 +15,14 @@ The `nmod:poss` relation is used between a nominal phrase and its possessive det
 # visual-style 7	fgColor:white
 1	mògò	mɔ̀gɔ	NOUN	_	_	4	nsubj	_	_
 2	si	sí	DET	_	_	1	det	_	_
-3	ma	ma	AUX	_	Polarity=Neg|Aspect=Perf	4	aux	_	_
+3	ma	ma	AUX	_	_	4	aux	_	_
 4	se	sé	VERB	_	_	0	root	_	_
 5	ka	kà	AUX	_	_	8	aux	_	_
 6	den	dén	NOUN	_	_	7	nmod:poss	_	_
 7	tògò	tɔ́gɔ	NOUN	_	_	8	obj	_	_
 8	fò	fɔ́	VERB	_	_	4	xcomp	_	_
 9	.	.	PUNCT	_	_	8	punct	_	_
+
 ~~~
 
 'No one could say the child's name'.
@@ -42,6 +43,7 @@ Alienable possession is marked by a postposition _ká_ which follows a dependen
 5	du	dú	NOUN	_	_	2	obl	_	_
 6	kònò	kɔ́nɔ	ADP	_	_	5	case	_	_
 7	.	.	PUNCT	_	_	2	punct	_	_
+
 ~~~
 
 'They came to their house'.

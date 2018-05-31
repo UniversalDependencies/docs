@@ -23,5 +23,6 @@ udver: '2'
 8	Tara	_	PROPN	_	_	7	flat	_	_
 9	ye	_	ADP	_	_	7	case	_	_
 10	.	_	PUNCT	_	_	6	punct	_	_
+
 ~~~
 'All these sons of Amadu were... they were Amadu Tara' (This a tale about a men whose all children were named after him).

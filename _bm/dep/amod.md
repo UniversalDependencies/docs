@@ -18,5 +18,6 @@ The relation `amod` is used for adjectival modifiers of noun phrases. In Bamana,
 4	nyuman	_	ADJ	_	_	3	amod	_	_
 5	ye	_	ADP	_	_	3	case	_	_
 6	.	_	PUNCT	_	_	2	punct	_	_
+
 ~~~
 'He is a good man'.

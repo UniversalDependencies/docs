@@ -1,3 +1,4 @@
+
 ---
 layout: relation
 title: 'xcomp'
@@ -20,6 +21,7 @@ The `xcomp` relation is used for clausal complements, but unlike [ccomp]() lack 
 5	o	_	PRON	_	_	6	obj	_	_
 6	kè	_	VERB	_	_	3	xcomp	_	_
 7	.	_	PUNCT	_	_	3	punct	_	_
+
 ~~~
 'I can do it'.
 
@@ -31,11 +33,12 @@ The infinitival construction can also express sequential or  purpose meaning, wh
 # visual-style 5	fgColor:white
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-1	syèdennin	syɛdennin	NOUN	_	_	2	nsubj	_ _
+1	syèdennin	syɛdennin	NOUN	_	_	2	nsubj	_	_
 2	yèlènna	yɛlɛnna	VERB	_	_	0	root	_	_
 3	ka	kà	AUX	_	_	5	aux	_	_
 4	lenburusun	lenburusun	NOUN	_	_	5	obj	_	_
 5	yuguyugu	yúguyugu	VERB	_	_	2	xcomp	_	_
 6	.	.	PUNCT	_	_	2	punct	_	_
+
 ~~~
 'A chicken climbed a lemon tree and shook it'.

@@ -19,6 +19,7 @@ The `vocative` relation is used when someone is being addressed directly in a di
 4	taga	tága	VERB	_	_	0	root	_	_
 5	min	mîn	PRON	_	_	4	obl	_	_
 6	?	?	PUNCT	_	_	4	punct	_	_
+
 ~~~
 
 'Man, where do you go?'

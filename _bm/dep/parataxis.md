@@ -24,6 +24,7 @@ The relation `parataxis` is used for a pair of what could have been standalone s
 7	a	à	PRON	_	_	6	obl	_	_
 8	rò	rɔ́	ADP	_	_	7	case	_	_
 9	.	.	PUNCT	_	_	3	punct	_	_
+
 ~~~
 'There is a king, he has a boat'.
 
@@ -40,5 +41,6 @@ The relation [parataxis:obj]() link is used for a direct speech.
 3	baasi	báasi	NOUN	_	_	4	nsubj	_	_
 4	tè	tɛ́	VERB	_	_	2	parataxis:obj	_	_
 5	.	.	PUNCT	_	_	2	punct	_	_
+
 ~~~
 'He said: "There is no problem"'.
