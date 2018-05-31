@@ -20,5 +20,6 @@ The `csubj` relation is used when the subject of a clause is a clause in itself.
 5	ka	ká	AUX	pm	_	6	aux	_	_
 6	balo	bálo	VERB	v	_	3	csubj	_	_
 7	.	.	PUNCT	_	_	3	punct	_	_
+
 ~~~
 'It is difficult to feed him'.

@@ -19,6 +19,7 @@ The `nummod` relation is used between a nominal phrase and its numeric modifier,
 4	kelen	kélen	NUM	_	_	3	nummod	_	_
 5	sòrò	sɔ̀rɔ	VERB	_	_	0	root	_	_
 6	.	.	PUNCT	_	_	5	punct	_	_.
+
 ~~~
 
 'She has one child'.

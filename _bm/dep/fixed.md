@@ -20,5 +20,6 @@ The `fixed` relation is one of the relations used for multiword expressions (MWE
 4	ko	kó	NOUN	_	_	6	obj	_	_
 5	wèrè	wɛ́rɛ	DET	_	_	4	det	_	_
 6	daminè	dámìnɛ	VERB	_	_	0	root	_	_
+
 ~~~
 'We will began a new story'.

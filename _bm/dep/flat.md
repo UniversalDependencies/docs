@@ -19,5 +19,6 @@ The `flat` relation is one of the relations used for multiword expressions multi
 4	Mamadu	Mamadu	PROPN	_	_	2	parataxis:obj	_	_
 5	Tarawele	Tàrawéle	PROPN	_	_	4	flat	_	_
 6	.	.	PUNCT	_	_	4	punct	_	_
+
 ~~~
 'He says: "Mamadu Tarawele"'.

@@ -19,5 +19,6 @@ In the example below, a copula _yé_ and a postposition are elided. This senten
 2	bèè	bɛ́ɛ	DET	_	_	1	det	_	_
 3	fèn	fɛ́n	NOUN	_	_	1	orphan	_	_
 4	kelen	kélen	NUM	_	_	3	nummod	_	_
+
 ~~~
 'They all are the same'.

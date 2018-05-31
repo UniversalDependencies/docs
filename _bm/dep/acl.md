@@ -21,7 +21,7 @@ The `acl` relation is used for relative clauses. We annotate a modified noun phr
 6	bè	bɛ	AUX	_	_	7	aux	_	_
 7	se	sé	VERB	_	_	3	acl	_	_
 8	ka	kà	AUX	_	_	11	_	_	_
-9	kurun	kùrun	NOUN	_	_	11	obj	_ 	_
+9	kurun	kùrun	NOUN	_	_	11	obj	_	_
 10	nin	nìn	DET	_	_	9	det	_	_
 11	ci	cì	VERB	_	_	7	xcomp	_	_
 12	.	.	PUNCT	_	_	4	punct	_	_
@@ -45,7 +45,7 @@ It is possible that noun modified by a relative clause is not expressed in the m
 6	min	mín	DET	_	_	5	det:rel	_	_
 7	,	,	PUNCT	_	_	4	punct	_	_
 8	a	à	PRON	_	_	11	nsubj	_	_
-9       ye      yé      AUX     _	_	11	aux	_	_
+9	ye	yé	AUX	_	_	11	aux	_	_
 10	bere	bére	NOUN	_	_	11	obj	_	_
 11	siri	sìri	VERB	_	_	0	root	_	_
 12	kòrr	kɔ́rr	INTJ	_	_	11	discourse	_	_

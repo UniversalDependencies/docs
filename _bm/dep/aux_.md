@@ -24,6 +24,7 @@ The relation `aux` is  used between a predicative marker and a predicate. Auxili
 5	a	à	PRON	_	_	4	obl	_	_
 6	la	lá	ADP	_	_	5	case	_	_
 7	.	.	PUNCT	_	_	4	punct	_	_
+
 ~~~
 'He made a water of this'.
 
@@ -35,7 +36,7 @@ Moreover, the relation `aux` is used with a marker of retrospective _tùn_, whi
 # visual-style 3        fgColor:white
 # visual-style 2        bgColor:blue
 # visual-style 2        fgColor:white
-1	ne	nê	PRON	_       _	6	nsubj	_	_
+1	ne	nê	PRON	_	_	6	nsubj	_	_
 2	tun	tùn	PART	_	_	3	aux	_	_
 3	ye	ye	AUX	_	_	6	aux	_	_
 4	kegunya	kègun.ya	NOUN	_	_	6	obj	_	_
@@ -43,6 +44,7 @@ Moreover, the relation `aux` is used with a marker of retrospective _tùn_, whi
 6	di	dí	VERB	_	_	0	root	_	_
 7	i	í	PRON	_	_	6	obl	_	_
 8	ma	mà	ADP	_	_	7	case	_	_
+
 ~~~
 
 'I gave another cunning to you'.
