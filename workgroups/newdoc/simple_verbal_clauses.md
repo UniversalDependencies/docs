@@ -11,8 +11,8 @@ especially on the distinction between core and oblique dependents.
 <span style="color:red">TO DO: Provide links to extended topics related to simple clauses.</span>
 Later chapters will extend the discussion in various directions:
 
-* <span style="color:red">TO DECIDE: Do we want to present ditransitives directly in
-  this chapter, or devote them their own chapter?</span>
+* Ditransitive (trivalent) clauses and secondary objects.
+* Expletive, dislocated and vocative “arguments”.
 * Various transformed clauses, either by valency-changing operations (e.g. passive),
   or negation, questions, commands etc.
 * Clauses where the predicate consists of multiple verbal nodes, or is a complex of
