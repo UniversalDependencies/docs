@@ -99,8 +99,8 @@ or sources. We take the distinction to be sufficiently subtle (and its
 existence as a categorical distinction sufficiently questionable) that the
 best practical solution is to eliminate it. Nevertheless, if the distinction
 is available in a treebank that is being converted to UD, it can be preserved
-using subtypes of dependency relations: `obl:arg` is used for oblique
-arguments, and bare `obl` then denotes adjuncts.
+using subtypes of dependency relations: [obl:arg]() is used for oblique
+arguments, and bare [obl]() then denotes adjuncts.
 
 The core-oblique distinction is generally accepted in language typology as
 being both more relevant and easier to apply cross-linguistically than the
