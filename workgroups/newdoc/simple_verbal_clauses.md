@@ -148,28 +148,6 @@ If the arguments are realized as personal pronouns, the subject is in the
 nominative form _(I, he, she, we, they)_ and the object is in the accusative
 _(me, him, her, us, them)._ Nouns do not inflect for case in English.
 
-Transitive clauses (those that have an object) can be passivized, which means:
-
-1. Active verb form is replaced by passive (finite auxiliary + participle).
-2. Former object becomes subject.
-3. Former subject either disappears or becomes an oblique argument.
-
-* _One apple is eaten (by the boy(s))._
-* _Many apples are eaten (by the boy(s))._
-
-~~~ conllu
-# text = One apple is eaten by the boy.
-1	One	one	NUM	_	_	2	nummod	_	_
-2	apple	apple	NOUN	_	Number=Sing	4	nsubj:pass	_	_
-3	is	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
-4	eaten	eat	VERB	_	Tense=Past|VerbForm=Part	0	root	_	_
-5	by	by	ADP	_	_	7	case	_	_
-6	the	the	DET	_	Definite=Def|PronType=Art	7	det	_	_
-7	boy	boy	NOUN	_	Number=Sing	4	obl:agent	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	4	punct	_	_
-
-~~~
-
 The inability to passivize of _He works the whole week_ is an argument in
 support of the claim that the clause is intransitive and _the whole week_
 is an adjunct rather than an object.
@@ -222,81 +200,6 @@ be used to distinguish these two cases (instead of appealing to the arg/adj dist
 </span>
 
 <span style="color: green"><b>Dan:</b> In English, yes. But the same adjunct appears in Spanish and Czech too.</span>
-
-Some English verbs allow two objects (i.e., two core arguments following
-the verb):
-
-* _Peter gave Kate a book._
-* _Tom teaches me mathematics._
-
-The traditional approach outside UD is to call the first object _indirect_
-and the second object _direct;_ it is often defined in terms of semantic
-roles, saying that the recipient is the indirect object. UD avoids referring
-to semantic roles and says instead that [indirect object](/u/dep/iobj.html)
-is a core argument of the verb that is not its subject or direct [object](/u/dep/obj.html);
-the (direct) object is then defined as “the second most core argument of a verb after the subject.”
-In the above examples, the recipient _(Kate, me)_ is arguably more core than
-the theme _(book, mathematics)_ because the recipient can be promoted in
-passivization while the theme cannot:
-
-* _Kate was given a book by Peter. (*A book was given Kate by Peter.)_ <span style="color: orange"><b>Nathan:</b> "A book was given Kate" sounds unusual or archaic but not completely ungrammatical to me. You can find examples on the web of "advice was given him/her", for example. Some COCA examples: "how do you feel about John Poindexter and the sentence that was given him today?" (1990 spoken), "But when the rooms had been shown and the paper was given him to sign, Frisch hesitated, clutching the pen." (1990 fiction). Not many COCA examples with by-phrases—only found this one from a 2012 interview with Sarah Palin, who is known for her colorful use of English: "And he got a standing ovation at the end of the speech, and that was given him by those who paid attention and stayed to the end, if you will, and heard what he had to say." No examples in EWT of a passive verb with `iobj`, though.</span>
-* _I am taught mathematics by Tom. (*Mathematics is taught me by Tom.)_
-
-The second object can be promoted only if both the subject and the first object
-are recoded as oblique arguments (in the case of _to give_) or the first object
-is removed (in the case of _to teach_):
-
-* _A book was given by Peter to Kate._
-* _Mathematics is taught by Tom. (*Mathematics is taught by Tom to me.)_
-
-Therefore, the UD v2 guidelines actually require that the second object
-is labeled `iobj`. Yet in the current English data (UD 2.1), it is still
-the first object that is labeled `iobj`, and the second object is `obj`.
-This has to be resolved by either modifying the guidelines, or the data
-(diverging from what people traditionally understand under indirect object).
-
-~~~ conllu
-# text = Peter gave Kate a book.
-1	Peter	Peter	PROPN	_	Number=Sing	2	nsubj	_	_
-2	gave	give	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-3	Kate	Kate	PROPN	_	Number=Sing	2	obj	_	_
-4	a	a	DET	_	Definite=Ind|PronType=Art	5	det	_	_
-5	book	book	NOUN	_	Number=Sing	2	iobj	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	2	punct	_	_
-
-~~~
-
-~~~ conllu
-# text = Kate was given a book by Peter.
-1	Kate	Kate	PROPN	_	Number=Sing	3	nsubj:pass	_	_
-2	was	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
-3	given	give	VERB	_	Tense=Past|VerbForm=Part	0	root	_	_
-4	a	a	DET	_	Definite=Ind|PronType=Art	5	det	_	_
-5	book	book	NOUN	_	Number=Sing	3	iobj	_	_
-6	by	by	ADP	_	_	7	case	_	_
-7	Peter	Peter	PROPN	_	Number=Sing	3	obl:agent	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	3	punct	_	_
-
-~~~
-
-<span style="color: blue"><b>Joakim:</b> I don't think this is specified by the v2 guidelines.
-I tried to argue for it on GitHub, based on syntactic criteria, but people pushed back saying that
-it is convenient for NLP applications to have the same relation for the recipient role in both cases.
-This needs to be resolved.</span>
-
-<span style="color:red">TO DO: How do we explain that an oblique nominal is
-annotated as subject in subordinate infinitival clause, as in
-_It was impossible <b>for him</b> to attend the meeting._
-Some authors (I do not remember where exactly I saw it) say that it is quite
-common that core arguments are coded differently in subordinate clauses.
-But can we prove that the _for_-phrase is indeed a subject?
-It is not sufficient to say that it has the same semantic role as the corresponding
-bare nominal in a main finite clause. If it was sufficient, then the _by_-phrases
-in passive clauses would be subjects too!</span>
-
-<span style="color:blue"><b>Joakim:</b> We definitely need to allow different coding
-in subordinate clauses. That is the rule in languages like Latin and Turkish. But I
-think we should save this for the section on subordinate clauses.</span>
 
 
 ### Spanish
