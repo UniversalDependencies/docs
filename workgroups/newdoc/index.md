@@ -6,8 +6,8 @@ udver: '2'
 
 # Construction-Oriented Documentation
 
-* [Simple verbal clauses](simple_verbal_clause.html) (intransitive, transitive, ditransitive?; core vs. oblique arguments)
-* [Simple noun phrases](simple_noun_phrase.html)
+* [Simple verbal clauses](simple_verbal_clauses.html) (intransitive, transitive, ditransitive?; core vs. oblique arguments)
+* [Simple noun phrases](simple_noun_phrases.html)
 * Modifiers (obliques and adverbials; adjectives; adverbs modifying nouns; modifiers modifying other modifiers)
 * Coordination (of simple noun phrases or simple clauses; difference from parataxis?)
 * More about simple clauses

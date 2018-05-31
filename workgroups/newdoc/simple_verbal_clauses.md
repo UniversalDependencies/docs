@@ -1,13 +1,31 @@
 ---
 layout: base
-title:  'Simple Verbal Clause'
+title:  'Simple Verbal Clauses'
 udver: '2'
 ---
 
-# Simple Verbal Clause
+# Simple Verbal Clauses
 
-This chapter focuses on dependents of [verbs](/u/pos/VERB.html).
+This chapter focuses on nominal dependents of [verbs](/u/pos/VERB.html) in declarative clauses,
+especially on the distinction between core and oblique dependents.
 <span style="color:red">TO DO: Provide links to extended topics related to simple clauses.</span>
+Later chapters will extend the discussion in various directions:
+
+* <span style="color:red">TO DECIDE: Do we want to present ditransitives directly in
+  this chapter, or devote them their own chapter?</span>
+* Various transformed clauses, either by valency-changing operations (e.g. passive),
+  or negation, questions, commands etc.
+* Clauses where the predicate consists of multiple verbal nodes, or is a complex of
+  verbal and nonverbal elements, or is not verbal at all. Also fragments that lack
+  a predicate.
+* Complex clauses containing one or more subordinate clauses, or consisting of one
+  or more coordinate clauses.
+
+Most examples in this chapter show finite clauses, although the guidelines can be
+extended to non-finite clauses where appropriate. Non-finite verb forms are often
+associated with subordinated clauses, hence more examples will be given in chapters
+ Some languages allow or even prefer
+non-finite verb forms in main clauses
 
 Most of this chapter assumes that the dependents are [nominal](/u/pos/NOUN.html) phrases.
 Dependents realized as clauses are discussed [at the end of the chapter](#clausal-complements).
