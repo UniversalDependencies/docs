@@ -137,7 +137,7 @@ actor, and Mary may not be affected by his love; she may not even be aware of
 it.
 
 Now we can recognize that a predicate has two core arguments, and,
-consequently, we can also recognize predicates that have only one (regardless
+consequently, we can also recognize predicates that have at most one (regardless
 whether they have an additional _oblique_ argument). Clauses headed by such
 predicates are intransitive and their single core argument is said to have
 the grammatical function **S.**
