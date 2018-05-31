@@ -6,7 +6,7 @@ udver: '2'
 
 # Simple Verbal Clauses
 
-This chapter focuses on nominal dependents of [verbs](/u/pos/VERB.html) in declarative clauses,
+This chapter focuses on [nominal](simple_noun_phrases.html) dependents of [verbs](/u/pos/VERB.html) in declarative clauses,
 especially on the distinction between core and oblique dependents.
 <span style="color:red">TO DO: Provide links to extended topics related to simple clauses.</span>
 Later chapters will extend the discussion in various directions:
@@ -24,11 +24,12 @@ Later chapters will extend the discussion in various directions:
 Most examples in this chapter show finite clauses, although the guidelines can be
 extended to non-finite clauses where appropriate. Non-finite verb forms are often
 associated with subordinated clauses, hence more examples will be given in chapters
- Some languages allow or even prefer
-non-finite verb forms in main clauses
-
-Most of this chapter assumes that the dependents are [nominal](/u/pos/NOUN.html) phrases.
-Dependents realized as clauses are discussed [at the end of the chapter](#clausal-complements).
+on subordination. In principle, any phrase whose head is tagged `VERB` is a clause
+in UD (while the opposite implication does not hold, a clause may be headed by a
+non-verb). This becomes important when a class of words such as participles or
+gerunds has a mixture of verbal and non-verbal features, and language-specific
+guidelines decide whether a word is still considered a verb, or rather a derived
+non-verb ([NOUN](), [ADJ]() or [ADV]()).
 
 * [Core vs. oblique](#core-arguments-vs-oblique-modifiers)
   * [The definition of core arguments](#the-definition-of-core-arguments)
