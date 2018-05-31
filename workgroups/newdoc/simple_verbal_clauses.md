@@ -213,7 +213,7 @@ passivize, and prepositional verbs that can.
 The behavior of Spanish core arguments is somewhat similar to English but there
 are differences. Like in English, it is typical for a core argument to be
 a bare nominal without preposition. However, prepositions are not completely
-excluded. If the object is a person, it is marked by the preposition _a_:
+excluded. If the object is [animate](Animacy), it is marked by the preposition _a_:
 
 * _Vimos a alguien._ “We saw somebody.”
 
@@ -327,74 +327,9 @@ directional and temporal adjuncts.
 ~~~
 
 Neither _toda la semana_ nor _al tren_ or _a las cinco_ can be promoted via passivization.
+Furthermore, they are inanimate, and only animate direct objects take the preposition.
 
-Some Spanish verbs allow two objects:
 
-* _Pedro dio un libro a Isabel._ “Pedro gave Isabel a book.”
-* _Pedro le dio un libro a Isabel._ “Pedro gave Isabel a book.”
-* _Pedro le dio un libro._ “Pedro gave her a book.”
-* _Santiago me enseña las matemáticas._ “Santiago teaches me mathematics.”
-
-One of the objects typically corresponds to the recipient semantic role and
-it most likely refers to a person, therefore it will be marked by the
-preposition _a_ (if it is realized as a full noun phrase). If it is represented
-by a pronominal clitic, it will be in the dative form (identical with the
-accusative except for the third person, which is _le, les,_ and does not
-distinguish gender). It is not uncommon that both the noun phrase and the
-clitic are present, as in _Pedro <b>le</b> dio un libro <b>a Isabel</b>._
-(this is known as “clitic doubling”).
-
-~~~ conllu
-# text = Pedro le dio un libro a Isabel.
-# text_en = Pedro gave Isabel a book.
-1	Pedro	Pedro	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	_	Gloss=Pedro
-2	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	expl	_	Gloss=her
-3	dio	dar	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=gave
-4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=a
-5	libro	libro	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	Gloss=book
-6	a	a	ADP	_	_	7	case	_	Gloss=to
-7	Isabel	Isabel	PROPN	_	Gender=Fem|Number=Sing	3	iobj	_	Gloss=Isabel|SpaceAfter=No
-8	.	.	PUNCT	_	_	3	punct	_	Gloss=.
-
-~~~
-
-~~~ conllu
-# text = Pedro le dio un libro.
-# text_en = Pedro gave her a book.
-1	Pedro	Pedro	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	_	Gloss=Pedro
-2	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	iobj	_	Gloss=her
-3	dio	dar	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=gave
-4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=a
-5	libro	libro	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	Gloss=book|SpaceAfter=No
-6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
-
-~~~
-
-The object that is marked by the preposition _a_ or by the dative case of the
-pronoun (i.e., the one with the recipient role) is labeled as an indirect
-object; the unmarked/accusative object is direct. This is in line with the
-UD v2 guidelines: if the clause is passivized, the direct object is promoted
-to the subject relation, while the indirect object stays untouched.
-Hence the indirect object is less core than the direct object.
-
-* _Un libro fue dado a Isabel por Pedro._ “A book was given to Isabel by Pedro.”
-
-~~~ conllu
-# text = Un libro fue dado a Isabel por Pedro.
-# text_en = A book was given to Isabel by Pedro.
-1	Un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Gloss=a
-2	libro	libro	NOUN	_	Gender=Masc|Number=Sing	4	nsubj:pass	_	Gloss=book
-3	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	Gloss=was
-4	dado	dar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Gloss=given
-5	a	a	ADP	_	_	6	case	_	Gloss=to
-6	Isabel	Isabel	PROPN	_	Gender=Fem|Number=Sing	4	iobj	_	Gloss=Isabel
-7	por	por	ADP	_	_	8	case	_	Gloss=by
-8	Pedro	Pedro	PROPN	_	Gender=Masc|Number=Sing	4	obl:agent	_	Gloss=Pedro|SpaceAfter=No
-9	.	.	PUNCT	_	_	4	punct	_	Gloss=.
-
-~~~
-
-<span style="color: blue"><b>Joakim:</b> Why do we treat the recipient as core in Spanish but not in English when they both have prepositions? Is this because prepositions are found with direct objects in Spanish but not in English? And what would we then do in French, where the recipient takes a prepositions but where prepositions are never used with prepositions? Same as English? It would also be possible (at least in French) to argue for a mixed system, where full noun phrases are oblique (because they take a preposition) but pronouns are core (because they have dative case).</span>
 
 ### Czech
 
