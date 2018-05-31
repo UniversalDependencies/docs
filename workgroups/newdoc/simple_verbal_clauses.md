@@ -157,18 +157,27 @@ _(me, him, her, us, them)._ Nouns do not inflect for case in English.
 
 ~~~
 
-The inability to passivize of _He works the whole week_ is an argument in
-support of the claim that the clause is intransitive and _the whole week_
-is an adjunct rather than an object.
-However, this test is not sufficient because there is a small set of verbs
-that have objects but do not passivize:
+The reasons why _the whole week_ is not a core argument in _He works the whole week_
+are complex. One possibility would be to exceptionally appeal to the argument-adjunct
+distinction, which is otherwise avoided. Temporal adjuncts are an uncontroversial
+subset of adjuncts, they can occur with virtually any predicate, they are optional and their
+semantics is independent of the predicate. However, there seem to be also word
+order-based tests that allow to reject them as core arguments at least in English
+(see later in this chapter for similar adjuncts in languages with more flexible word order).
+In the following examples, _work_ is an intransitive verb and if it is
+accompanied by _the whole week,_ then _the whole week_ is a temporal adjunct;
+as such, it can swap positions with a locational adjunct and the sentence stays
+grammatical. On the other hand, _spend_ is a transitive verb which requires a
+direct object, _the whole week_ functions as the object and cannot swap
+positions with an adjunct; the object stays close to the verb.
 
-* _John has a new car. (*A new car is had by John.)_
-* _Friday does not suit me. (*I am not suited by Friday.)_
+* _John worked the whole week in Paris. John worked in Paris the whole week._
+* _John spent the whole week in Paris. *John spent in Paris the whole week._
 
-Therefore, durational temporal adjuncts have to be stated as an exception,
-and this is the one case where the argument/adjunct distinction cannot be
-avoided in UD.
+Another observation is that the first example cannot passivize _(*The whole
+week was worked by John),_ but passivization is in general not very reliable
+diagnostic test in English, as there are transitive verbs that cannot
+passivize, and prepositional verbs that can.
 
 * _He works the whole week._
 
@@ -182,9 +191,6 @@ avoided in UD.
 6	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
-
-On the other hand, even temporal noun phrases can be objects if the verb
-requires an object:
 
 * _He spent the whole week in Oslo._
 
@@ -200,15 +206,6 @@ requires an object:
 8	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
-
-<span style="color: blue"><b>Joakim:</b> I think word order tests can
-be used to distinguish these two cases (instead of appealing to the arg/adj distinction):
-
-* _John worked the whole week in Paris. John worked in Paris the whole week._
-* _John spent the whole week in Paris. *John spent in Paris the whole week._
-</span>
-
-<span style="color: green"><b>Dan:</b> In English, yes. But the same adjunct appears in Spanish and Czech too.</span>
 
 
 ### Spanish
