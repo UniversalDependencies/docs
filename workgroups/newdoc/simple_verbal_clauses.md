@@ -119,10 +119,10 @@ argument-adjunct distinction. See, for example:
 
 In English, nominal core arguments are bare noun phrases (that is, without preposition).
 Oblique arguments and nominal adjuncts are prepositional phrases.
-There is one exception: a bare nominal may be used as a temporal adjunct expressing
-duration:
+There is one exception: a bare nominal may be used as a temporal adjunct:
 
 * _He works the whole week._
+* _She comes every Friday._
 
 In an unmarked declarative sentence, the core argument preceding the verb is
 the subject, and if there is another core argument following the verb, it is
@@ -147,6 +147,15 @@ the object. A finite verb agrees in person and number with its subject:
 If the arguments are realized as personal pronouns, the subject is in the
 nominative form _(I, he, she, we, they)_ and the object is in the accusative
 _(me, him, her, us, them)._ Nouns do not inflect for case in English.
+
+~~~ conllu
+# text = We help them.
+1	We	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
+2	help	help	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	them	they	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	obj	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	_
+
+~~~
 
 The inability to passivize of _He works the whole week_ is an argument in
 support of the claim that the clause is intransitive and _the whole week_
