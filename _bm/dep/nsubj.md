@@ -16,5 +16,6 @@ The `nsubj` relation is used between a clause and its nominal subject.
 1	lenburu	lènburu	NOUN	_	_	2	nsubj	_	_
 2	binna	binna	VERB	_	_	0	root	_	_
 3	.	.	PUNCT	_	_	2	punct	_	_
+
 ~~~
 'A lemon fell'.

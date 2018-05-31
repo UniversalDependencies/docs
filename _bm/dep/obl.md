@@ -18,10 +18,11 @@ In Bamana, `obl` is used for all verbal arguments except direct objects. Note th
 2	ni	ni	CCONJ	_	_	3	cc	_	_
 3	musokòrònin	mùsokɔrɔnin	NOUN	_	_	1	conj	_	_
 4	dò	dɔ́	DET	_	_	3	det	_	_
-5	bènna	bɛnna	VERB	_	_ 0	root	_	_
+5	bènna	bɛnna	VERB	_	_	0	root	_	_
 6	sira	síra	NOUN	_	_	5	obl	_	_
 7	rò	rɔ́	ADP	_	_	6	case	_	_
 8	.	.	PUNCT	_	_	5	punct	_	_
+
 ~~~
 'He met an old woman on the root'. 
 
@@ -48,6 +49,18 @@ The relation `obl` is used for adverbs as well, as boundaries between nouns in o
 12      to      tó      VERB    _       _       0       root    _       _
 13      yen     yèn     ADV     _       _       12      obl     _       _
 14      .       .       PUNCT   _       _       12      punct   _       _
-~~~
 
-'If I can not break it, I leave it here'.
+# visual-style 4 5 obl	color:blue
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+1	Ne	_	PRON	_	_	4	nsubj	_	_
+2	bè	_	AUX	_	_	4	aux	_	_
+3	a	_	PRON	_	_	4	obj	_	_
+4	to	_	VERB	_	_	0	root	_	_
+5	yen	_	ADV	_	_	4	obl	_	_
+6	.	_	PUNCT	_	_	4	punct	_	_
+
+~~~
+'I leave it here'.

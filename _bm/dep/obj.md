@@ -23,5 +23,6 @@ The `obj` is a link used for a direct object.
 6	nin	nìn	DET	_	_	5	det	_	_
 7	na	ná	ADP	_	_	5	case	_	_
 8	.	.	PUNCT	_	_	4	punct	_	_
+
 ~~~
 'He made a water of this dust'.
