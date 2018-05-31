@@ -292,7 +292,7 @@ Transitive clauses (those that have an object) can be passivized.
 ~~~
 
 Both coding strategies that are used for core arguments can also appear with
-adjuncts. Bare nominal adjuncts are rare, the exception being durational
+adjuncts. Bare nominal adjuncts are rare, the exception being
 temporal adjuncts. In contrast, the preposition _a_ can be used with various
 directional and temporal adjuncts.
 
