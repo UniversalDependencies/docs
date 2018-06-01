@@ -155,6 +155,8 @@ criteria whether there is a scale of “coreness”, and how it can be measured.
 
 
 
+<!---------------------------------------------------------------------------->
+
 ### English
 
 In English, nominal core arguments are bare noun phrases (that is, without preposition).
@@ -247,6 +249,9 @@ passivize, and prepositional verbs that can.
 
 ~~~
 
+
+
+<!---------------------------------------------------------------------------->
 
 ### Spanish
 
@@ -353,6 +358,8 @@ None of the adjuncts can be replaced by an accusative pre-verbal clitic:
 _*Él la trabaja._
 
 
+
+<!---------------------------------------------------------------------------->
 
 ### Czech
 
@@ -462,7 +469,14 @@ Consequently, such two-argument clauses are intransitive.
 
 ~~~
 
+Note that this is a shift away from the recommendation published in
+Daniel Zeman (2017): [Core Arguments in Universal Dependencies](http://www.aclweb.org/anthology/W17-6532),
+Proceedings of the Fourth International Conference on Dependency Linguistics
+(Depling 2017), pp. 287–296, Pisa, Italy.
 
+
+
+<!---------------------------------------------------------------------------->
 
 ### Basque
 
