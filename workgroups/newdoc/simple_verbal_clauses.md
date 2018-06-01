@@ -689,8 +689,8 @@ for futher details.
 The arguments in Tagalog are marked by function words that could be analyzed as either
 prepositions, or case-bearing determiners. Although adpositions are often
 associated with oblique arguments and adjuncts, we have seen that it is not
-a universal rule. Spanish marks a human direct object with the preposition _a_;
-Slavic and other languages have prepositional object that, despite not being
+a universal rule. Spanish marks an animate direct object with the preposition _a_;
+Slavic and other languages have prepositional objects that, despite not being
 considered core in UD, seem to work the same way as other non-accusative
 (but prepositionless) arguments; and in Japanese, all
 arguments are marked by postpositions, including the subject and the direct
@@ -852,7 +852,7 @@ we actually have a [ditransitive clause](ditransitive_clauses.html) with three c
 arguments. In contrast, the verbs of giving, which are typical representatives
 of ditransitive predicates in other languages, form a standard transitive
 clause in the agent and patient voices, as the recipient is coded as a
-directioal (locative) oblique dependent.
+directional (locative) oblique dependent.
 
 * _Nagbigay ang lalaki ng libro sa babae._ “The man gave a book to the woman.” (agent voice)
 
