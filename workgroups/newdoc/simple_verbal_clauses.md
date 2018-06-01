@@ -556,6 +556,12 @@ In the current data (UD 2.1), the dative argument seems to be labeled `iobj`
 even in dative-absolutive constructions. However, Zúñiga and Fernández (2014)
 write that the dative encodes the A function in such constructions; that
 would mean that it should be `nsubj`.
+Some supporting evidence is also provided by causativization, a
+[valency-changing operation](valency_changing_operations.html) that takes a
+transitive clause, adds a third, ergative argument, and switches the original
+subject to the dative (unless it already was in dative). The fact that
+causativization is available for dative-absolutive clauses supports our
+treatment of the dative argument as the subject.
 
 Some two-argument verbs take ergative+dative, instead of ergative+absolutive:
 
@@ -578,128 +584,9 @@ even in ergative-dative constructions. However, Zúñiga and Fernández (2014)
 write that the dative encodes the P function in such constructions; that
 would mean that it should be `obj`.
 
-There are verbs that take all three core arguments. In such constructions,
-the ergative encodes the A function, absolutive the P function (also T function = theme-like),
-and dative the G function (goal). In terms of dependency relations, it seems
-reasonable to label the ergative as `nsubj`, absolutive as `obj` and dative
-as `iobj` just to distinguish them and to acknowledge that absolutives and
-ergatives are more frequent than datives; though the grammar does not seem to
-target the absolutive argument in specific rules, which would make it
-more core-like than the dative.
-
-* _(Nik) (zuri) liburua eman dizut._ “I have given you a book.”
-
-~~~ conllu
-# text = Nik zuri liburua eman dizut.
-# text_en = I have given you a book.
-1	Nik	ni	PRON	_	Case=Erg|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=I
-2	zuri	zu	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	4	iobj	_	Gloss=you
-3	liburua	liburu	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	4	obj	_	Gloss=book
-4	eman	eman	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	Gloss=given
-5	dizut	*edun	AUX	_	Mood=Ind|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=1|VerbForm=Fin	4	aux	_	Gloss=have|SpaceAfter=No
-6	.	.	PUNCT	_	_	4	punct	_	Gloss=.
-
-~~~
-
-* _Zezenak saihetsa pitzatu zidan._ “The bull cracked my rib.”
-  (ergative argument: 3 singular; absolutive argument: 3 singular; dative argument: 1 singular)
-
-~~~ conllu
-# sent_id = test-s452
-# text = Zezenak saihetsa pitzatu zidan.
-# text_en = The bull cracked my rib.
-1	Zezenak	zezen	NOUN	_	Animacy=Anim|Case=Erg|Definite=Def|Number=Sing	3	nsubj	_	Gloss=bull
-2	saihetsa	saihets	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	3	obj	_	Gloss=rib
-3	pitzatu	pitzatu	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	Gloss=cracked
-4	zidan	*edun	AUX	_	Mood=Ind|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=3|VerbForm=Fin	3	aux	_	Gloss=has-to-me|SpaceAfter=No
-5	.	.	PUNCT	_	_	3	punct	_	Gloss=.
-
-~~~
-
-Basque does not have a canonical passive construction, although there are
-constructions that have been called passive by some authors in the past.
-
-While the passive, if it existed, would decrease the valency of the verb,
-there is another operation that increases the valency: the causative:
-
-1. Active verb form is replaced by causative.
-2. Former subject becomes dative object and denotes the causee.
-3. A new ergative subject appears and denotes the causer.
-
-Analogically to the passive, it is recommended that the relations with modified
-interpretation (if overtly present) are labeled as subtypes:
-the causer as [nsubj:caus](/fr/dep/nsubj-caus.html)
-and the true agent as [iobj:agent](/fr/dep/iobj-agent.html).
-
-* _(Guk) arazo hau ikusi genuen._ “We have seen this problem.” (active)
-* _(Horiek) (guri) arazo hau ikuserazi digute._ “They have made us see this problem.” (causative)
-
-~~~ conllu
-# text = Guk arazo hau ikusi genuen.
-# text_en = We have seen this problem.
-1	Guk	gu	PRON	_	Case=Erg|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	Gloss=we
-2	arazo	arazo	NOUN	_	Animacy=Inan|Case=Abs|Definite=Ind|Number=Sing	4	obj	_	Gloss=problem
-3	hau	hau	DET	_	Case=Abs|Definite=Def|Number=Sing|PronType=Dem	2	det	_	Gloss=this
-4	ikusi	ikusi	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	Gloss=seen
-5	genuen	*edun	AUX	_	Mood=Ind|Number[abs]=Sing|Number[erg]=Plur|Person[abs]=3|Person[erg]=1|VerbForm=Fin	4	aux	_	Gloss=have|SpaceAfter=No
-6	.	.	PUNCT	_	_	4	punct	_	Gloss=.
-
-~~~
-
-~~~ conllu
-# text = Horiek guri arazo hau ikuserazi digute.
-# text_en = They have made us see this problem.
-1	Horiek	horiek	DET	_	Case=Erg|Definite=Def|Number=Plur|PronType=Dem	5	nsubj:caus	_	Gloss=they
-2	guri	gu	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	5	iobj:agent	_	Gloss=us
-3	arazo	arazo	NOUN	_	Animacy=Inan|Case=Abs|Definite=Ind|Number=Sing	5	obj	_	Gloss=problem
-4	hau	hau	DET	_	Case=Abs|Definite=Def|Number=Sing|PronType=Dem	3	det	_	Gloss=this
-5	ikuserazi	ikusi	VERB	_	Aspect=Perf|VerbForm=Part|Voice=Cau	0	root	_	Gloss=made-to-see
-6	digute	*edun	AUX	_	Mood=Ind|Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Plur|Person[abs]=3|Person[dat]=1|Person[erg]=3|VerbForm=Fin	5	aux	_	Gloss=have|SpaceAfter=No
-7	.	.	PUNCT	_	_	5	punct	_	Gloss=.
-
-~~~
-
-<span style="color: blue"><b>Joakim:</b> I think it might be better to use "nsubj:caus" and "iobj:caus", indicating that these are arguments of a causative and therefore do not have the expected role but without specifying the role (cause and agent). This is more parallel with "nsubj:pass", where we just indicate that it is the subject of a passive and therefore has an unexpected role but without specifying what the role is. </span>
-
-The fact that the causative
-[is available](https://books.google.cz/books?id=nIaPL4kLt6cC&pg=PA599&lpg=PA599&dq=gustatzen+causative&source=bl&ots=LcI8u2JhcB&sig=LrbPxId629ESf0v70hw2EY73J70&hl=cs&sa=X&ved=2ahUKEwjFluOAwu_aAhWFDiwKHVbXCYkQ6AEwAXoECAAQMA#v=onepage&q=gustatzen%20causative&f=false)
-for dative-absolutive verbs supports the
-claim that the dative argument indeed is the subject in active voice of those
-verbs.
-
-* _Zopa izugarri gustatzen zaio mutilari._ “The boy likes the soup a lot.”
-* _Goseak zopa hori izugarri gustatuerazi zion mutilari._ “Hunger made the boy like that soup a lot.”
-
-~~~ conllu
-# text = Zopa izugarri gustatzen zaio mutilari.
-# text_en = The boy likes the soup a lot.
-1	Zopa	zopa	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	3	obj	_	Gloss=soup
-2	izugarri	izugarri	ADV	_	_	3	advmod	_	Gloss=greatly
-3	gustatzen	gustatzen	VERB	_	Aspect=Imp|VerbForm=Part	0	root	_	Gloss=pleasing
-4	zaio	izan	AUX	_	Mood=Ind|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=3|VerbForm=Fin	3	aux	_	Gloss=is
-5	mutilari	mutil	NOUN	_	Animacy=Anim|Case=Dat|Definite=Def|Number=Sing	3	nsubj	_	Gloss=to-the-boy|SpaceAfter=No
-6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
-
-~~~
-
-~~~ conllu
-# text = Goseak zopa hori izugarri gustatuerazi zion mutilari.
-# text_en = Hunger made the boy like that soup a lot.
-1	Goseak	gose	NOUN	_	Animacy=Inan|Case=Erg|Definite=Def|Number=Sing	5	nsubj:caus	_	Gloss=hunger
-2	zopa	zopa	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	5	obj	_	Gloss=soup
-3	hori	hori	DET	_	Case=Abs|Definite=Def|Number=Sing|PronType=Dem	2	det	_	Gloss=that
-4	izugarri	izugarri	ADV	_	_	5	advmod	_	Gloss=greatly
-5	gustatuerazi	gustatzen	VERB	_	Aspect=Imp|VerbForm=Part|Voice=Cau	0	root	_	Gloss=made-pleasing
-6	zion	*edun	AUX	_	Mood=Ind|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3|VerbForm=Fin	5	aux	_	Gloss=has
-7	mutilari	mutil	NOUN	_	Animacy=Anim|Case=Dat|Definite=Def|Number=Sing	5	iobj:agent	_	Gloss=the-boy|SpaceAfter=No
-8	.	.	PUNCT	_	_	5	punct	_	Gloss=.
-
-~~~
-
-Causative is only marginally accepted with ditransitive verbs, apparently due
-to the marginal acceptance of two dative-marked arguments in the same clause.
 
 
+<!---------------------------------------------------------------------------->
 
 ### Yidiɲ
 
