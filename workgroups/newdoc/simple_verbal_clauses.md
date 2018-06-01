@@ -471,7 +471,7 @@ Consequently, such two-argument clauses are intransitive.
 
 Note that this is a shift away from the recommendation published in
 Daniel Zeman (2017): [Core Arguments in Universal Dependencies](http://www.aclweb.org/anthology/W17-6532),
-Proceedings of the Fourth International Conference on Dependency Linguistics
+in Proceedings of the Fourth International Conference on Dependency Linguistics
 (Depling 2017), pp. 287–296, Pisa, Italy.
 
 
@@ -672,174 +672,17 @@ Czech). The former pair is typical for nouns, the latter for pronouns.
 
 ~~~
 
-There is a type of subordinate clause that is called dative subordinate (datsub)
-because its head verb takes a subjunctive suffix similar to the dative suffix
-of nouns. The clause may be analyzed as a relative clause dependent on a noun
-phrase in the main clause. The coreferential noun phrase in the subordinate
-clause may be elided.
-There is a near requirement (with some exceptions) that the coreferential
-nominal has S/P function in both clauses, i.e., it is the subject of an
-intransitive predicate or the object of a transitive predicate:
+None of the core arguments is cross-referenced by verbal morphology.
 
-* _Ŋayu maŋga:ɲ (ŋaɲaɲ) buɲa:n wuɹa:ɲunda._ “I, (who) was slapped by the woman, laughed.”
-* _Ŋaɲaɲ buɲa:ŋ wuɹa:ɲ (ŋayu) maŋga:ɲunda._ “I, (who) was lauging, was slapped by the woman.”
-
-~~~ conllu
-# sent_id = 3.99aa/yii
-# Yidiɲ (Pama-Nyungan, Australia)
-# source = Dixon, 1977
-# text = Ŋayu maŋga:ɲ ŋaɲaɲ buɲa:n wuɹa:ɲunda.
-# gloss = I(NOM) laugh-PAST I-ACC woman-ERG slap-DATSUB
-# text_en = I, who was slapped by the woman, laughed.
-1	Ŋayu	ŋayu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|MGloss=I(NOM)
-2	maŋga:ɲ	maŋgan	VERB	_	Tense=Past	0	root	_	Gloss=laughed|MSeg=maŋga:-ɲ|MGloss=laugh-PAST
-3	ŋaɲaɲ	ŋayu	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	5	obj	_	Gloss=me|MGloss=I(ACC)
-4	buɲa:ŋ	buɲa	NOUN	_	Case=Erg|Number=Sing	5	nsubj	_	Gloss=woman|MSeg=buɲa:-n|MGloss=woman-ERG
-5	wuɹa:ɲunda	wuɹan	VERB	_	Mood=Sub	1	acl:datsub	_	Gloss=slapping|MSeg=wuɹa:-ɲunda|MGloss=slap-DATSUB|SpaceAfter=No
-6	.	.	PUNCT	_	_	2	punct	_	Gloss=.
-
-~~~
-~~~ conllu
-# sent_id = 3.99ba/yii
-# Yidiɲ (Pama-Nyungan, Australia)
-# source = Dixon, 1977
-# text = Ŋaɲaɲ buɲa:ŋ wuɹa:ɲ ŋayu maŋga:ɲunda.
-# gloss = I-ACC woman-ERG slap-PAST I(NOM) laugh-DATSUB
-# text_en = I, who was laughing, was slapped by the woman.
-1	Ŋaɲaɲ	ŋayu	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	3	obj	_	Gloss=me|MGloss=I(ACC)
-2	buɲa:ŋ	buɲa	NOUN	_	Case=Erg|Number=Sing	3	nsubj	_	Gloss=woman|MSeg=buɲa:-ŋ|MGloss=woman-ERG
-3	wuɹa:ɲ	wuɹan	VERB	_	Tense=Past	0	root	_	Gloss=slapped|MSeg=wuɹa-ɲ|MGloss=slap-PAST
-4	ŋayu	ŋayu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=I|MGloss=I(NOM)
-5	maŋga:ɲunda	maŋgan	VERB	_	Mood=Sub	1	acl:datsub	_	Gloss=laughing|MSeg=maŋga-ɲunda|MGloss=laugh-DATSUB|SpaceAfter=No
-6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
-
-~~~
-
-If we want to use this construction for a nominal with A function (i.e., the
-subject of a transitive predicate) in either of the two clauses, we must first
-transform the clause to antipassive, which means:
-
-1. Active verb form is replaced by antipassive.
-2. Former object is transformed to the dative or locative case and becomes oblique argument.
-3. The subject is still subject, but now of an intransitive predicate. Its function changed from A to S.
-
-Analogically to the passive, we may want to use a relation subtype for the
-demoted object: [obl:patient]().
-
-* _Waguɖaŋgu guda:ga wawa:l._ “The man saw the dog.” (active)
-* _Wagu:ɖa gudaganda wawa:ɖiɲu._ “The man saw the dog.” (antipassive)
-
-~~~ conllu
-# sent_id = 3.100aa/yii
-# Yidiɲ (Pama-Nyungan, Australia)
-# source = Dixon, 1977
-# text = Wagu:ɖa gudaganda wawa:ɖiɲu.
-# gloss = man(ABS) dog-DAT see-ANTIPASS-PAST
-# text_en = The man saw the dog.
-1	Wagu:ɖa	wagu:ɖa	NOUN	_	Case=Abs|Number=Sing	3	nsubj	_	Gloss=man|MGloss=man(ABS)
-2	gudaganda	guda:ga	NOUN	_	Case=Dat|Number=Sing	3	obl:patient	_	Gloss=dog|MSeg=gudaga-nda|MGloss=dog-DAT
-3	wawa:ɖiɲu	wawal	VERB	_	Tense=Past|Voice=Antip	0	root	_	Gloss=saw|MSeg=wawa:-ɖi-ɲu|MGloss=see-ANTIPASS-PAST|SpaceAfter=No
-4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
-
-~~~
-
-* _Ŋayu buɲa wuɹa:ɲ._ “I slapped the woman.” (active)
-* _Ŋayu buɲa:nda wuɹa:ɖiɲu._ “I slapped the woman.” (antipassive)
-
-~~~ conllu
-# sent_id = 3.100b/yii
-# Yidiɲ (Pama-Nyungan, Australia)
-# source = Dixon, 1977
-# text = Ŋayu buɲa:nda wuɹa:ɖiɲu.
-# gloss = I(NOM) woman-DAT slap-ANTIPASS-PAST
-# text_en = I slapped the woman.
-1	Ŋayu	ŋayu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=I(NOM)
-2	buɲa:nda	buɲa	NOUN	_	Case=Dat|Number=Sing	3	obl:patient	_	Gloss=woman|MSeg=buɲa:-nda|MGloss=woman-DAT
-3	wuɹa:ɖiɲu	wuɹan	VERB	_	Tense=Past|Voice=Antip	0	root	_	Gloss=slapped|MSeg=wuɹa:-ɖi-ɲu|MGloss=slap-ANTIPASS-PAST|SpaceAfter=No
-4	.	.	PUNCT	_	_	3	punct	_	Gloss=.
-
-~~~
-
-It is now possible to combine clauses so that the subject of an originally
-transitive (now intransitive) predicate is coreferential:
-
-* _Ŋayu maŋga:ɲ (ŋayu) buɲa:nda wuɹa:ɖiɲunda._ “I, (who) was slapping the woman, laughed.”
-
-~~~ conllu
-# sent_id = 3.101aa/yii
-# Yidiɲ (Pama-Nyungan, Australia)
-# source = Dixon, 1977
-# text = Ŋayu maŋga:ɲ ŋayu buɲa:nda wuɹa:ɖiɲunda.
-# gloss = I(NOM) laugh-PAST I(NOM) woman-DAT slap-ANTIPASS-DATSUB
-# text_en = I, who was slapping the woman, laughed; I laughed while slapping the woman.
-1	Ŋayu	ŋayu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|MGloss=I(NOM)
-2	maŋga:ɲ	maŋgan	VERB	_	Tense=Past	0	root	_	Gloss=laughed|MSeg=maŋga:-ɲ|MGloss=laugh-PAST
-3	ŋayu	ŋayu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=I|MGloss=I(NOM)
-4	buɲa:nda	buɲa	NOUN	_	Case=Dat|Number=Sing	5	obl:patient	_	Gloss=woman|MSeg=buɲa:-nda|MGloss=woman-DAT
-5	wuɹa:ɖiɲunda	wuɹan	VERB	_	Mood=Sub|Voice=Antip	1	acl:datsub	_	Gloss=slapped|MSeg=wuɹa:-ɖi-ɲunda|MGloss=slap-ANTIPASS-DATSUB|SpaceAfter=No
-6	.	.	PUNCT	_	_	2	punct	_	Gloss=.
-
-~~~
-
-* _Ŋayu buɲa:nda wuɹa:ɖiɲu (ŋayu) maŋgaɲunda._ “I, (who) was laughing, slapped the woman.”
-
-~~~ conllu
-# sent_id = 3.101ba/yii
-# Yidiɲ (Pama-Nyungan, Australia)
-# source = Dixon, 1977
-# text = Ŋayu buɲa:nda wuɹa:ɖiɲu ŋayu maŋgaɲunda.
-# gloss = I(NOM) woman-DAT slap-ANTIPASS-PAST I(NOM) laugh-DATSUB
-# text_en = I, who was laughing, slapped the woman; I slapped the woman while laughing.
-1	Ŋayu	ŋayu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=I(NOM)
-2	buɲa:nda	buɲa	NOUN	_	Case=Dat|Number=Sing	3	obl:patient	_	Gloss=woman|MSeg=buɲa:-nda|MGloss=woman-DAT
-3	wuɹa:ɖiɲu	wuɹan	VERB	_	Tense=Past|Voice=Antip	0	root	_	Gloss=slapped|MSeg=wuɹa:-ɖi-ɲu|MGloss=slap-ANTIPASS-PAST
-4	ŋayu	ŋayu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=I|MGloss=I(NOM)
-5	maŋgaɲunda	maŋgan	VERB	_	Mood=Sub	1	acl:datsub	_	Gloss=laughed|MSeg=maŋga-ɲunda|MGloss=laugh-DATSUB|SpaceAfter=No
-6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
-
-~~~
-
-Andrews notes that besides the relative clause analysis, these sentences can
-be also interpreted adverbially. The core-oblique distinction and the antipassive
-stay the same but the UD trees change:
-
-* _Ŋayu maŋga:ɲ (ŋayu) buɲa:nda wuɹa:ɖiɲunda._ “I laughed while slapping the woman.”
-
-~~~ conllu
-# sent_id = 3.101aa/yii
-# Yidiɲ (Pama-Nyungan, Australia)
-# source = Dixon, 1977
-# text = Ŋayu maŋga:ɲ ŋayu buɲa:nda wuɹa:ɖiɲunda.
-# gloss = I(NOM) laugh-PAST I(NOM) woman-DAT slap-ANTIPASS-DATSUB
-# text_en = I, who was slapping the woman, laughed; I laughed while slapping the woman.
-1	Ŋayu	ŋayu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	Gloss=I|MGloss=I(NOM)
-2	maŋga:ɲ	maŋgan	VERB	_	Tense=Past	0	root	_	Gloss=laughed|MSeg=maŋga:-ɲ|MGloss=laugh-PAST
-3	ŋayu	ŋayu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=I|MGloss=I(NOM)
-4	buɲa:nda	buɲa	NOUN	_	Case=Dat|Number=Sing	5	obl:patient	_	Gloss=woman|MSeg=buɲa:-nda|MGloss=woman-DAT
-5	wuɹa:ɖiɲunda	wuɹan	VERB	_	Mood=Sub|Voice=Antip	2	advcl:datsub	_	Gloss=slapped|MSeg=wuɹa:-ɖi-ɲunda|MGloss=slap-ANTIPASS-DATSUB|SpaceAfter=No
-6	.	.	PUNCT	_	_	2	punct	_	Gloss=.
-
-~~~
-
-* _Ŋayu buɲa:nda wuɹa:ɖiɲu (ŋayu) maŋgaɲunda._ “I slapped the woman while laughing.”
-
-~~~ conllu
-# sent_id = 3.101ba/yii
-# Yidiɲ (Pama-Nyungan, Australia)
-# source = Dixon, 1977
-# text = Ŋayu buɲa:nda wuɹa:ɖiɲu ŋayu maŋgaɲunda.
-# gloss = I(NOM) woman-DAT slap-ANTIPASS-PAST I(NOM) laugh-DATSUB
-# text_en = I, who was laughing, slapped the woman; I slapped the woman while laughing.
-1	Ŋayu	ŋayu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=I|MGloss=I(NOM)
-2	buɲa:nda	buɲa	NOUN	_	Case=Dat|Number=Sing	3	obl:patient	_	Gloss=woman|MSeg=buɲa:-nda|MGloss=woman-DAT
-3	wuɹa:ɖiɲu	wuɹan	VERB	_	Tense=Past|Voice=Antip	0	root	_	Gloss=slapped|MSeg=wuɹa:-ɖi-ɲu|MGloss=slap-ANTIPASS-PAST
-4	ŋayu	ŋayu	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Gloss=I|MGloss=I(NOM)
-5	maŋgaɲunda	maŋgan	VERB	_	Mood=Sub	3	advcl:datsub	_	Gloss=laughed|MSeg=maŋga-ɲunda|MGloss=laugh-DATSUB|SpaceAfter=No
-6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
-
-~~~
+Yidiɲ is interesting because some of its grammatical rules target the S and P
+arguments (i.e., subjects of intransitive clauses and objects of transitive
+clauses) but exclude A arguments (subjects of transitive clauses) (Andrews,
+2007). See the discussion of the antipassive in [Valency-Changing Operations](valency_changing_operations.html)
+for futher details.
 
 
+
+<!---------------------------------------------------------------------------->
 
 ### Tagalog
 
