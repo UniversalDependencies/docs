@@ -686,30 +686,13 @@ for futher details.
 
 ### Tagalog
 
-Tagalog is a representative of a subset of Austronesian languages that have
-been described as symmetric-voice languages. There is an agent voice, where
-the most core argument corresponds to the agent role, and a patient voice,
-where the most core argument corresponds to the patient. It is tempting to
-reuse our labels of active and passive for these voices. There are at least
-two important differences from what these terms mean in Indo-European
-languages, though. First, the two voices in Tagalog are more symmetric and it is
-hard to say that the active is default, unmarked, and the passive is marked.
-The passive is not morphologically more complex than the passive. Both the
-agent and the patient regularly appear in both voices. They are coded
-differently, but both are coded as core, not oblique arguments. Both
-“active” and “passive” clauses thus can be transitive.
-
-The second difference is that there are more voices than the agent-oriented and
-the patient-oriented one. There is also a voice that fronts a locational
-argument, for example.
-
-The arguments are marked by function words that could be analyzed as either
+The arguments in Tagalog are marked by function words that could be analyzed as either
 prepositions, or case-bearing determiners. Although adpositions are often
 associated with oblique arguments and adjuncts, we have seen that it is not
 a universal rule. Spanish marks a human direct object with the preposition _a_;
 Slavic and other languages have prepositional object that, despite not being
 considered core in UD, seem to work the same way as other non-accusative
-(but preposition-less, and currently core) arguments; and in Japanese, all
+(but prepositionless) arguments; and in Japanese, all
 arguments are marked by postpositions, including the subject and the direct
 object. On the other hand, if the nominal markers in Tagalog are determiners,
 then Tagalog somewhat resembles modern German, where nominal inflection has
@@ -724,15 +707,15 @@ No determiners are used with personal pronouns, but the pronouns themselves
 inflect for case.
 
 There have been disputes about whether the pivot is subject and whether
-Tagalog has a subject at all. Nevertheless, there does not seem to be any
-better solution than to simply identify it with the subject in UD.
-<span style="color:red">EDIT: Further discussion is needed. Andrews cites
-others and says (below examples 124) that both _ang_ and _ng_ arguments are
-core, but the actor is more subject-like regardless of whether it is pivot or
-not. That would mean that we should use the `nsubj` relation for the _ang_
-argument of agent-voice verbs, the _ng_ argument of patient-voice verbs,
-and we would have to select one of two _ng_ arguments in other voices,
-depending on which argument semantically fits the agent role.</span>
+Tagalog has a subject at all. Andrews (pp. 210–211) distinguishes two
+grammatical relations, the a-subject and the p-subject, each having some
+properties that are often associated with subjects in the more familiar
+languages. He also says that the actor “has subject-like properties regardless
+of whether or not it is the pivot.”
+Nevertheless, for the purpose of easier and consistent annotation of Universal
+Dependencies it seems advantageous to simplify the matter and always reserve
+the [nsubj]() relation for the _ang_-phrase (the pivot).
+
 It seems appropriate to mark the determiners and the personal pronouns with
 the [Case]() feature: the pivot with nominative, and the other core argument
 with accusative.
@@ -799,13 +782,9 @@ Tagalog personal pronouns
 3 Plur		sila		nila		kanila		they
 -->
 Transitive (two-argument) sentences have two core arguments, one in the
-nominative (pronoun or determiner) and the other in the accusative. We may
-want to use relation subtypes for the arguments in the patient voice (similarly
-to what we do in the English passive): [nsubj:pass]() for the subject and
-[obj:agent]() (not `obl:agent`!) for the object. However, the subtypes should
-not be taken to suggest that the agent voice is default and unmarked.
+nominative (pronoun or determiner) and the other in the accusative.
 
-* _Naglilinis siya ng bahay._ “She cleans the house.” (agent voice)
+* _Naglilinis siya ng bahay._ “She cleans the house.”
 
 ~~~ conllu
 # text = Naglilinis siya ng bahay.
@@ -818,30 +797,15 @@ not be taken to suggest that the agent voice is default and unmarked.
 
 ~~~
 
-* _Nililinis niya ang bahay._ “She cleans the house. / The house is cleaned by her.” (patient voice)
-
-~~~ conllu
-# text = Nililinis niya ang bahay.
-# text_en = She cleans the house. / The house is cleaned by her.
-1	Nililinis	linis	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=cleans
-2	niya	siya	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	1	obj:agent	_	Gloss=he/she
-3	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	4	det	_	Gloss=the
-4	bahay	bahay	NOUN	_	_	1	nsubj:pass	_	Gloss=house|SpaceAfter=No
-5	.	.	PUNCT	_	_	1	punct	_	Gloss=punct
-
-~~~
-
 Locative, directional and benefactive arguments are normally coded as oblique.
 However, there are additional voices where these arguments become subjects.
 One of the reasons why an argument is fronted as the subject is that the
 subject is understood as the topic of the sentence. The _ang_ determiner
 implies definiteness (while _ng_-marked arguments can be definite or
-indefinite). Here is an example of a sentence in four different voices:
+indefinite).
 
 * _Magaalis ang babae ng bigas sa sako para sa bata._ “The woman will take some rice out of a/the sack for a/the child.” (agent voice)
-* _Aalisin ng babae ang bigas sa sako para sa bata._ “A/the woman will take the rice out of a/the sack for a/the child.” (patient voice)
 * _Aalisan ng babae ng bigas ang sako para sa bata._ “A/the woman will take some rice out of the sack for a/the child.” (locative voice)
-* _Ipagaalis ng babae ng bigas sa sako ang bata._ “A/the woman will take some rice out of a/the sack for the child.” (benefactive voice)
 
 ~~~ conllu
 # sent_id = 3.111a/tl
@@ -855,25 +819,6 @@ indefinite). Here is an example of a sentence in four different voices:
 3	babae	babae	NOUN	_	_	1	nsubj	_	Gloss=woman
 4	ng	ng	DET	_	Case=Acc|PronType=Art	5	det	_	Gloss=DET
 5	bigas	bigas	NOUN	_	_	1	obj	_	Gloss=rice
-6	sa	sa	DET	_	Case=Loc|PronType=Art	7	det	_	Gloss=DIR
-7	sako	sako	NOUN	_	_	1	obl	_	Gloss=sack
-8	para	para	ADP	_	_	10	case	_	Gloss=for
-9	sa	sa	DET	_	Case=Loc|PronType=Art	10	det	_	Gloss=BEN
-10	bata	bata	NOUN	_	_	1	obl	_	Gloss=child|SpaceAfter=No
-11	.	.	PUNCT	_	_	1	punct	_	Gloss=.
-
-~~~
-~~~ conllu
-# sent_id = 3.111b/tl
-# text = Aalisin ng babae ang bigas sa sako para sa bata.
-# gloss = FUT-take.out-OP ACT woman PIV rice DIR sack for BEN child
-# text_en = A/the woman will take the rice out of a/the sack for a/the child.
-# OP = object pivot; PIV = pivot marker
-1	Aalisin	alis	VERB	_	Aspect=Prog|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=will-take-out|MSeg=a-alis-in|MGloss=FUT-take.out-OP
-2	ng	ng	DET	_	Case=Acc|PronType=Art	3	det	_	Gloss=DET
-3	babae	babae	NOUN	_	_	1	obj:agent	_	Gloss=woman
-4	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	5	det	_	Gloss=the
-5	bigas	bigas	NOUN	_	_	1	nsubj:pass	_	Gloss=rice
 6	sa	sa	DET	_	Case=Loc|PronType=Art	7	det	_	Gloss=DIR
 7	sako	sako	NOUN	_	_	1	obl	_	Gloss=sack
 8	para	para	ADP	_	_	10	case	_	Gloss=for
@@ -901,27 +846,9 @@ indefinite). Here is an example of a sentence in four different voices:
 11	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 ~~~
-~~~ conllu
-# sent_id = 3.111d/tl
-# text = Ipagaalis ng babae ng bigas sa sako ang bata.
-# gloss = BP-FUT-take.out ACT woman OBJ rice DIR sack PIV child
-# text_en = A/the woman will take some rice out of a/the sack for the child.
-# BP = benefactive pivot; PIV = pivot marker
-1	Ipagaalis	alis	VERB	_	Aspect=Prog|Mood=Ind|VerbForm=Fin|Voice=Benf	0	root	_	Gloss=will-take-out|MSeg=Ipag-a-alis|MGloss=BP-FUT-take.out
-2	ng	ng	DET	_	Case=Acc|PronType=Art	3	det	_	Gloss=DET
-3	babae	babae	NOUN	_	_	1	obj:agent	_	Gloss=woman
-4	ng	ng	DET	_	Case=Acc|PronType=Art	5	det	_	Gloss=DET
-5	bigas	bigas	NOUN	_	_	1	obj:patient	_	Gloss=rice
-6	sa	sa	DET	_	Case=Loc|PronType=Art	7	det	_	Gloss=DIR
-7	sako	sako	NOUN	_	_	1	obl	_	Gloss=sack
-8	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	9	det	_	Gloss=the
-9	bata	bata	NOUN	_	_	1	nsubj:ben	_	Gloss=child|SpaceAfter=No
-10	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
-~~~
-
-Since the agent and patient stay core arguments even in the locative and
-benefactive voices, we actually have a ditransitive clause with three core
+Since the agent and patient stay core arguments even in the locative voice,
+we actually have a [ditransitive clause](ditransitive_clauses.html) with three core
 arguments. In contrast, the verbs of giving, which are typical representatives
 of ditransitive predicates in other languages, form a standard transitive
 clause in the agent and patient voices, as the recipient is coded as a
@@ -943,9 +870,9 @@ directioal (locative) oblique dependent.
 
 ~~~
 
-<!-- Locative voice? Binigyan ng lalaki ng libro ang babae. -->
 
 
+<!---------------------------------------------------------------------------->
 
 ### Plains Cree
 
