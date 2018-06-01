@@ -921,26 +921,18 @@ In the second example, the argument-marking morphemes have not changed but the
 verb is in the inverse voice where the argument lower in the hierarchy (“they”)
 is the agent and the higher argument (“we”) is the patient.
 
-In a parallel to the active-passive voice system of English, we can postulate
-that the argument higher in the hierarchy is the subject (i.e., the most core
-argument), and the lower argument is the object.
-And like with English passives, the voice has to be considered when one wants
-to map the grammatical relations to semantic roles.
-In the two previous examples, the arguments are not overtly present and the
-dependency relations are not visible. However, if there are overt arguments
-in an inverse voice clause, we may again want to use relation subtypes to
-signal that the default interpretation does not apply.
-<span style="color:red">TBD: Should we use [nsubj:pass]() and [obj:agent]()
-as in symmetric-voice languages? Or something else? Or should we even replace
-`nsubj:pass` in other languages by something more neutral?
-Alternatively, we could make the direct-inverse voice system special in that
-we resolve the roles already in the relation labeling, i.e., higher-ranking
-argument will be labeled `nsubj` in direct voice and `obj` in inverse voice,
-and lower-ranking argument will be `obj` in direct voice and `nsubj` in
-inverse voice. That is, if there are not some typical subject tests known
-from other languages that will contradict our proposal.
-At present I do not know anything about subjecthood tests applied to Plains
-Cree.</span>
+It is undoubted that the two arguments that are cross-referenced by the verb
+are core arguments. It is less clear how to label the two arguments, as Plains
+Cree does not seem to have a subject in the Indo-European sense. Nevertheless,
+it seems quite natural to postulate that the argument higher in the hierarchy
+is more core-like and thus it gets the label [nsubj]() in UD; the other core
+argument then gets [obj](). Such a distinction can be annotated easily and
+consistently. The subject will be more agent-like in the direct voice, and
+more patient-like in the inverse voice, which will be somewhat parallel to
+the active and passive voices in other languages.
+
+In the following two examples, the verb forms differ because the first verb
+cross-references a singular object, the second a plural.
 
 * _Nikī-wīcihāw Cān._ “I helped John.”
 
