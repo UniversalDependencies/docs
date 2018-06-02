@@ -35,6 +35,10 @@ For more details on the distinction between core and oblique arguments, see
   * [Plains Cree](#plains-cree)
 * [Summary of relations](#summary-of-relations)
 
+<span style="color:red">TO DO: The text about coding strategies is just a
+placeholder (copied from simple verbal clauses). Replace it with real text
+about ditransitives that I have written for the core-oblique working group.</span>
+
 
 
 ## Coding Strategies
