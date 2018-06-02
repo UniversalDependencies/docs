@@ -969,8 +969,9 @@ proximate but not for obviative third person arguments.
 
 Current UD data (as of UD 2.1) does not include languages with direct-inverse
 voice systems and proximate-obviative division of third-person arguments.
-<span style="color: blue"><b>Joakim:</b> But I think similar cases are discussed
-with reference to UD in [this paper on Arapaho](http://www.aclweb.org/anthology/W16-1719).</span>
+(Though there has been a [paper](http://www.aclweb.org/anthology/W16-1719)
+that discusses possible application of the old UD v1 guidelines to the related
+language of Arapaho.)
 The guidelines define a special value for the “fourth person”, which could be
 used for obviative arguments (see [Person]()). This value is inspired by the
 [Unimorph](https://unimorph.github.io/doc/unimorph-schema.pdf#page=41) project.
@@ -1048,38 +1049,6 @@ separate from `Case`, is probably a better and less confusing solution.
 
 ~~~
 
-Ditransitive verbs (that is, verbs with three arguments) still cross-reference
-only two arguments on the verb. It is always the recipient-like argument that
-is cross-referenced, while the theme stays outside. Hence the recipient (goal)
-is more core than the theme, and deserves to be labeled [obj](). The question
-is whether the theme is still a core argument (and thus labeled [iobj]()) or
-it is already oblique. Allowing it the core status seems to be at a similar
-level of tolerance as with the non-accusative objects in languages like Czech.
-The themes in Plains Cree are not indexed on the verb, though their own surface
-form (bare nominal) is not different from the core arguments.
-
-<!-- page 95 section 2.2.3.2 -->
-
-* _Nikī-miyāw anima masinahikan._ “I gave him/her that book.” (direct voice)
-* _Nikī-miyik anima masinahikan._ “He/she gave me that book.” (inverse voice)
-* _Nikī-kiskinwahamawāw nēhiyawēwin._ “I taught him/her Cree.” (direct voice)
-* _Nikī-kiskinwahamāk nēhiyawēwin._ “He/she taught me Cree.” (inverse voice)
-
-~~~ conllu
-# text = Nikī-miyāw anima masinahikan.
-# text_en = I gave him/her that book.
-1	Nikī-miyāw	miy	VERB	_	Animacy=Anim|Mood=Ind|Number[high]=Sing|Number[low]=Sing|Person[high]=1|Person[low]=3|Tense=Past|Voice=Dir	0	root	_	Gloss=I-gave-him/her|MSeg=ni-kī-miy-ā-w|MGloss=1-PAST-give.to-DIR-3SG
-2	anima	anima	DET	_	Animacy=Inan|Number=Sing|PronType=Dem	3	det	_	Gloss=that|MGloss=DEM.0's
-3	masinahikan	masinahikan	NOUN	_	Animacy=Inan|Number=Sing	1	iobj	_	Gloss=book|SpaceAfter=No
-4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
-
-~~~
-
-In the above example, the verb stem used is for animate objects, while
-_masinahikan_ “book” is inanimate. That is a proof that the 3rd person singular
-cross-reference on the verb does not refer to the book but to an animate
-recipient that is not overtly represented in the sentence.
-
 Even though Plains Cree does not use morphological cases to distinguish agents
 from patients, there is a form of nouns that can be classified as the locative
 case (`Case=Loc`). It clearly marks the noun as oblique and unable to be
@@ -1114,6 +1083,8 @@ Adpositions may accompany the locative, too:
 ~~~
 
 
+
+## Further Discussion
 
 <!---------------------------------------------------------------------------->
 <span style="color:red">TO DO: Discuss somewhere the layered features that are
