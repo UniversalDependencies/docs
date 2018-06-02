@@ -43,7 +43,9 @@ non-verb ([NOUN](), [ADJ]() or [ADV]()).
   * [Yidiɲ](#yidiɲ)
   * [Tagalog](#tagalog)
   * [Plains Cree](#plains-cree)
-* [Summary of relations](#summary-of-relations)
+* Annotation means
+  * [Morphological features](#morphological-features)
+  * [Summary of relations](#summary-of-relations)
 
 ## Core Arguments vs. Oblique Modifiers
 
@@ -1084,7 +1086,7 @@ Adpositions may accompany the locative, too:
 
 
 
-## Morphological Features Relevant to this Chapter
+## Morphological Features
 
 This chapter is primarily about relations between a [VERB]() (possibly
 accompanied by an [AUX]()), and its [nominal](simple_noun_phrases.html)
