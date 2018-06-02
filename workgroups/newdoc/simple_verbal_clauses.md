@@ -1084,28 +1084,77 @@ Adpositions may accompany the locative, too:
 
 
 
-## Further Discussion
+## Morphological Features Relevant to this Chapter
 
-<!---------------------------------------------------------------------------->
-<span style="color:red">TO DO: Discuss somewhere the layered features that are
-needed when multiple arguments are cross-referenced by verbal morphology. Try
-to standardize the layer names.</span>
+This chapter is primarily about relations between a [VERB]() (possibly
+accompanied by an [AUX]()), and its [nominal](simple_noun_phrases.html)
+dependents (typically headed by a [NOUN](), [PROPN]() or [PRON]()).
+
+If the language uses morphological case to mark the relation between the
+predicate and its arguments, the [Case]() feature should be used to annotate
+the form of the nominal. If nouns are unmarked and only personal pronouns
+inflect for case, then nouns omit the feature. However, if one form of a lemma
+has a non-empty `Case` feature, then preferably all other forms should also
+receive that feature (that is, morphologically “unmarked” forms should get
+nominative or absolutive rather than an empty value). If the noun itself does
+not inflect but its case is determined by a function word that modifies it
+(such as a [DET]()), then the function word will bear the `Case` feature.
+The UD guidelines currently do not specify whether the same approach should be
+taken when the case is determined by an adposition ([ADP]()), i.e., whether
+the adposition should bear the `Case` feature. (Some languages can combine
+morphological case of nouns with prepositions. The noun paradigm defines the
+repertory of case values in the language, while the preposition would typically
+add meaning corresponding to cases that are not known in the language, although
+they are known in other languages. Hence it would look unnatural to add the
+new case values to the description of the language, and to use them only with
+adpositions.)
+
+In languages like Plains Cree, nominals will also have the feature
+[Obviation]() with values `Prx` and `Obv`. Depending on language, some other
+nominal features may be relevant because they are cross-referenced by the
+verb ([Number](), [Gender](), [Animacy]() etc.) but marking the verb-noun
+relation is usually not their only purpose. Personal pronouns also bear the
+[Person]() feature, often cross-referenced by verbs, but nouns do not.
+A noun almost always denotes a third-person participant.
+For more details on nominal features see [Simple Noun Phrases](simple_noun_phrases.html).
+
+If the verb cross-references one core argument in its own morphology, the
+verb should be annotated with the same features ([Person](), [Number](),
+[Gender](), [Animacy](), [Polite](), [Obviation]()). In some languages these
+features are not marked directly on the main verb but rather on an auxiliary
+verb that accompanies it; the annotation should appear on the word that
+really bears the morphology.
+
+If the verb cross-references two or more arguments, [layered features](/u-overview/feat-layers.html)
+must be used. Language-specific guidelines must specify whether all layers
+will have identifiers in square brackets, or whether one of the layers
+(typically the one cross-referencing the subject) can be treated as default.
+Identifiers of non-default layers consist of lowercase English letters and
+typically refer to either grammatical relations ([subj] and [obj]) or case
+of the argument ([erg], [abs], [dat], [nom], [acc]), whichever suits the
+situation in the concrete language better. For example, auxiliary verbs in
+Basque cross-reference one, two or three arguments, and their cases are
+ergative, absolutive or dative. So the auxiliary _die_ will have features
+`Number[erg]=Sing`, `Person[erg]=3`, `Number[dat]=Plur`, `Person[dat]=3`,
+`Number[abs]=Sing`, and `Person[abs]=3`. None of the three layers is treated
+as default in Basque UD, all features have explicit layer identifiers.
+
+Of course, there are many other verbal features but they are not relevant to
+the topic of this chapter and they are described elsewhere.
 
 
 
 ## Summary of Relations
 
+The features discussed in this chapter are [nsubj](), [obj]() (core arguments), [obl]() and [obl:arg]() (oblique dependents).
+
 * [nsubj]() — nominal subject, corresponding to the S function in intransitive clauses and to the A function in transitive clauses.
-  If some of the `nsubj` subtypes are used in the language, then the bare `nsubj` denotes the remaining situations not covered by the subtypes.
-  * [nsubj:pass]() — nominal subject in a passive clause
-  * [nsubj:caus]() — nominal subject in a causative clause
 * [obj]() — nominal object, corresponding to the P function in transitive clauses.
-* [iobj]() — nominal indirect object, one of two objects in ditransitive clauses, the one that is “less core-like” of the two.
-  If the two objects are equal in there core-likelihood, none of them is `iobj`.
-  If some of the `iobj` subtypes are used in the language, then the bare `iobj` denotes the remaining situations not covered by the subtypes.
-  * [iobj:agent]() — true agent in a causative clause, if encoded as an indirect object.
 * [obl]() — nominal oblique argument or adjunct.
   If some of the `obl` subtypes are used in the language, then the bare `obl` denotes the remaining situations not covered by the subtypes.
-  * [obl:agent]() — true agent in a passive clause, demoted from active subject
-  * [obl:arg]() — oblique argument other than `obl:agent`
-  * [obl:tmod]() — temporal adjunct
+  * [obl:arg]() — oblique argument (if the data provider decides to distinguish it from adjuncts)
+
+There are other optional subtypes of these relations defined elsewhere in
+this documentation or in language-specific guidelines. If such subtypes exist,
+then quite naturally the label without subtype denotes only the remaining
+cases, not covered by subtypes.
