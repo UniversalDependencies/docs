@@ -23,7 +23,7 @@ _I gave John a book_ is ditransitive, while
 _I gave a book to John_ is monotransitive.
 
 For more details on the distinction between core and oblique arguments, see
-[Simple Verbal Clauses](simple_verbal_clauses).
+[Simple Verbal Clauses](simple_verbal_clauses.html).
 
 * [Coding strategies](#coding-strategies)
   * [English](#english)
