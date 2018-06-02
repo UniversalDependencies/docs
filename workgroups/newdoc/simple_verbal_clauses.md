@@ -1127,7 +1127,7 @@ features are not marked directly on the main verb but rather on an auxiliary
 verb that accompanies it; the annotation should appear on the word that
 really bears the morphology.
 
-If the verb cross-references two or more arguments, [layered features](/u-overview/feat-layers.html)
+If the verb cross-references two or more arguments, [layered features](/u/overview/feat-layers.html)
 must be used. Language-specific guidelines must specify whether all layers
 will have identifiers in square brackets, or whether one of the layers
 (typically the one cross-referencing the subject) can be treated as default.
