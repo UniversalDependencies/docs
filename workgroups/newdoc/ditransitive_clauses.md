@@ -142,6 +142,13 @@ I tried to argue for it on GitHub, based on syntactic criteria, but people pushe
 it is convenient for NLP applications to have the same relation for the recipient role in both cases.
 This needs to be resolved.</span>
 
+<span style="color:green"><b>Chris</b> had some comments on `iobj` at the end
+of [this section](http://universaldependencies.org/v2_prelim/core_dependents.html#what-are-core-arguments)
+of our discussion before UD v2. There are references (LFG, Huddleston and Pullum 2002)
+that we may want to consult before making a final judgment; nevertheless, the
+summary there still sounds to me like “UD does not do semantic role labeling,
+except for cases where it does.”</span>
+
 
 
 <!---------------------------------------------------------------------------->
