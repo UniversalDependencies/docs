@@ -37,10 +37,10 @@ The current definitions of the three relations are problematic or not applied co
 
 All syntactically regular constructions should receive a normal compositional analysis. Their idiomatic status can be annotated on a different level of (semantic) annotation. This includes semantically compositional (_the dog slept_), semi-compositional (_[wide] awake, [heavy] smoker, rain [cats and dogs]_), and semantically non-compositional constructions (_kick the bucket, green card, cats and dogs, in the light (of), Fr. pomme de terre &#39;potato&#39;_). See the article Kahane, Courtin, Gerdes "[Multi-word annotation in syntactic treebanks](http://www.anthology.aclweb.org/W/W17/W17-7622.pdf)", TLT 2018 for a detailed definition of the terms.
 <span style="color:green">**Agata**: I like the idea of the 2-dimensional typology in this paper (along the syntactic axis, and along the semantic one). But I have serious problems with their interactions. Most importantly, the notion of semantic non-compositionality is unclear or even inconsistent. For me:
-	* For me a structure is semantically compositional if its meaning can be derived (i) in a way deemed regular (ii) from its component words and (iii) from its syntactic structure (e.g. the semantics of "horse race" must be different from the one of "race horse")
-	* Thus semantic non-compositionality occurs when at least one of (i)-(iii) fail
-	* This implies that syntactically irregular constructions cannot be semantically compositional because (i) fails
-	* Also, it is unclear for me what is meant by the semantics of named entities; why would "Miss Smith" and not "Ludwid van Beethoven" or "Mount Rushmore" be semantically compositional? what is meant to be the regular the semantic derivation process for named entities?
+* An expression is semantically compositional if its meaning can be derived (i) in a way deemed regular (ii) from its component words and (iii) from its syntactic structure (e.g. the semantics of "horse race" must be different from the one of "race horse").
+* Thus semantic non-compositionality occurs when at least one of (i)-(iii) fails.
+* This implies that syntactically irregular constructions cannot be semantically compositional because (i) fails.
+* Also, it is unclear for me what is meant by the semantics of named entities; why would "Miss Smith" and not "Ludwid van Beethoven" or "Mount Rushmore" be semantically compositional? what is meant to be the regular the semantic derivation process for named entities?
 </span>
  
  
