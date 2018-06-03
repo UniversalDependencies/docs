@@ -49,95 +49,98 @@ about ditransitives that I have written for the core-oblique working group.</spa
 
 ### English
 
-In English, nominal core arguments are bare noun phrases (that is, without preposition).
-Oblique arguments and nominal adjuncts are prepositional phrases.
-There is one exception: a bare nominal may be used as a temporal adjunct:
+Some English verbs allow two objects (i.e., two core arguments following
+the verb):
 
-* _He works the whole week._
-* _She comes every Friday._
+* _Peter gave Kate a book._
+* _Tom teaches me mathematics._
 
-In an unmarked declarative sentence, the core argument preceding the verb is
-the subject, and if there is another core argument following the verb, it is
-the object. A finite verb agrees in person and number with its subject:
+The traditional approach outside UD is to call the first object _indirect_
+and the second object _direct;_ it is often defined in terms of semantic
+roles, saying that the recipient is the indirect object. UD avoids referring
+to semantic roles and says instead that [indirect object](/u/dep/iobj.html)
+is a core argument of the verb that is not its subject or direct
+[object](/u/dep/obj.html); the (direct) object is then defined as
+“the second most core argument of a verb after the subject.”
+In the above examples, the recipient _(Kate, me)_ is arguably more core than
+the theme _(book, mathematics)_ because the recipient can be promoted in
+passivization more readily than the theme (promotion of the theme is not
+completely ungrammatical though; some speakers of some dialects of English
+accept it):
 
-* _The boy eats one apple._
-* _The boy eats many apples._
-* _The boys eat one apple._
-* _The boys eat many apples._
+* _Kate was given a book by Peter. (?A book was given Kate by Peter.)_ <!--
+   <span style="color: orange"><b>Nathan:</b> "A book was given Kate"
+   sounds unusual or archaic but not completely ungrammatical to me.
+   You can find examples on the web of "advice was given him/her",
+   for example. Some COCA examples: "how do you feel about John Poindexter
+   and the sentence that was given him today?" (1990 spoken),
+   "But when the rooms had been shown and the paper was given him to sign,
+   Frisch hesitated, clutching the pen." (1990 fiction).
+   Not many COCA examples with by-phrases—only found this one from a 2012
+   interview with Sarah Palin, who is known for her colorful use of English:
+   "And he got a standing ovation at the end of the speech, and that was
+   given him by those who paid attention and stayed to the end, if you will,
+   and heard what he had to say." No examples in EWT of a passive verb with
+   `iobj`, though.</span> -->
+* _I am taught mathematics by Tom. (*Mathematics is taught me by Tom.)_
 
-~~~ conllu
-# text = The boy eats one apple.
-1	The	the	DET	_	Definite=Def|PronType=Art	2	det	_	_
-2	boy	boy	NOUN	_	Number=Sing	3	nsubj	_	_
-3	eats	eat	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	one	one	NUM	_	_	5	nummod	_	_
-5	apple	apple	NOUN	_	Number=Sing	3	obj	_	SpaceAfter=No
-6	.	.	PUNCT	_	_	3	punct	_	_
+The second object can be promoted more smoothly if both the subject and the first object
+are recoded as oblique arguments (in the case of _to give_) or the first object
+is removed (in the case of _to teach_):
 
-~~~
+* _A book was given by Peter to Kate._
+* _Mathematics is taught by Tom. (*Mathematics is taught by Tom to me.)_
 
-If the arguments are realized as personal pronouns, the subject is in the
-nominative form _(I, he, she, we, they)_ and the object is in the accusative
-_(me, him, her, us, them)._ Nouns do not inflect for case in English.
-
-~~~ conllu
-# text = We help them.
-1	We	we	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	_
-2	help	help	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	them	they	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	obj	_	SpaceAfter=No
-4	.	.	PUNCT	_	_	2	punct	_	_
-
-~~~
-
-The reasons why _the whole week_ is not a core argument in _He works the whole week_
-are complex. One possibility would be to exceptionally appeal to the argument-adjunct
-distinction, which is otherwise avoided. Temporal adjuncts are an uncontroversial
-subset of adjuncts, they can occur with virtually any predicate, they are optional and their
-semantics is independent of the predicate. However, there seem to be also word
-order-based tests that allow to reject them as core arguments at least in English
-(see later in this chapter for similar adjuncts in languages with more flexible word order).
-In the following examples, _work_ is an intransitive verb and if it is
-accompanied by _the whole week,_ then _the whole week_ is a temporal adjunct;
-as such, it can swap positions with a locational adjunct and the sentence stays
-grammatical. On the other hand, _spend_ is a transitive verb which requires a
-direct object, _the whole week_ functions as the object and cannot swap
-positions with an adjunct; the object stays close to the verb.
-
-* _John worked the whole week in Paris. John worked in Paris the whole week._
-* _John spent the whole week in Paris. *John spent in Paris the whole week._
-
-Another observation is that the first example cannot passivize _(*The whole
-week was worked by John),_ but passivization is in general not very reliable
-diagnostic test in English, as there are transitive verbs that cannot
-passivize, and prepositional verbs that can.
-
-* _He works the whole week._
+Therefore, we have identified one property of core objects that works better
+with the first object (the recipient) than with the second object (the theme);
+thus the UD v2 guidelines actually require that the second object
+is labeled `iobj`. Yet in the current English data (UD 2.1), it is still
+the first object that is labeled `iobj`, and the second object is `obj`.
+This has to be resolved by either modifying the guidelines, or the data
+(diverging from what people traditionally understand under indirect object).
 
 ~~~ conllu
-# text = He works the whole week.
-1	He	he	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	works	work	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	the	the	DET	_	Definite=Def|PronType=Art	5	det	_	_
-4	whole	whole	ADJ	_	_	5	amod	_	_
-5	week	week	NOUN	_	Number=Sing	2	obl:tmod	_	SpaceAfter=No
+# text = Peter gave Kate a book.
+1	Peter	Peter	PROPN	_	Number=Sing	2	nsubj	_	_
+2	gave	give	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+3	Kate	Kate	PROPN	_	Number=Sing	2	obj	_	_
+4	a	a	DET	_	Definite=Ind|PronType=Art	5	det	_	_
+5	book	book	NOUN	_	Number=Sing	2	iobj	_	SpaceAfter=No
 6	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~
 
-* _He spent the whole week in Oslo._
-
 ~~~ conllu
-# text = He spent the whole week in Oslo.
-1	He	he	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	spent	spend	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
-3	the	the	DET	_	Definite=Def|PronType=Art	5	det	_	_
-4	whole	whole	ADJ	_	_	5	amod	_	_
-5	week	week	NOUN	_	Number=Sing	2	obj	_	_
-6	in	in	ADP	_	_	7	case	_	_
-7	Oslo	Oslo	PROPN	_	Number=Sing	2	obl	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	2	punct	_	_
+# text = Kate was given a book by Peter.
+1	Kate	Kate	PROPN	_	Number=Sing	3	nsubj:pass	_	_
+2	was	be	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
+3	given	give	VERB	_	Tense=Past|VerbForm=Part	0	root	_	_
+4	a	a	DET	_	Definite=Ind|PronType=Art	5	det	_	_
+5	book	book	NOUN	_	Number=Sing	3	iobj	_	_
+6	by	by	ADP	_	_	7	case	_	_
+7	Peter	Peter	PROPN	_	Number=Sing	3	obl:agent	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	_
 
 ~~~
+
+<span style="color:green"><b>Dan:</b> If we do not accept that the less
+accepted passivization of the theme is enough to say that the second object
+is inferior to the first one, then we will have to label both objects as `obj`.
+There is no way of saying that the first object should be `iobj` without
+resorting to semantic role labeling. Admittedly it would be advantageous for
+some downstream tasks to be able to always identify the recipient; however,
+it is not a goal of the basic UD representation to resolve such
+syntax-semantic clashes. There are several other options how downstream tasks
+are helped with these: 1. relation subtypes within basic UD (for example,
+we could use `obj:rcpt` here); 2. same as 1, but only done in the enhanced
+representation, where labels of oblique dependents are extended too, for the
+same reason; 3. full-fledged semantic-role labeling, done as a stand-off
+extension on top of UD.</span>
+
+<span style="color: blue"><b>Joakim:</b> I don't think this is specified by the v2 guidelines.
+I tried to argue for it on GitHub, based on syntactic criteria, but people pushed back saying that
+it is convenient for NLP applications to have the same relation for the recipient role in both cases.
+This needs to be resolved.</span>
 
 
 
