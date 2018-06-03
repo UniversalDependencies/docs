@@ -6,7 +6,7 @@ udver: '2'
 
 # Working Group on Multiword Expressions
 
-**This page was created by Kim Gerdes. Comments have so far been added by <span style="color:blue">Joakim Nivre</span> and <span style="color:red">Nathan Schneider</span>.**
+**This page was created by Kim Gerdes. Comments have so far been added by <span style="color:blue">Joakim Nivre</span>, <span style="color:red">Nathan Schneider</span> and <span style="color:green">Agata Savary</span>.**
 
 ## MWE in UD
 
