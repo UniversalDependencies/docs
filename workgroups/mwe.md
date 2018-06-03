@@ -55,11 +55,14 @@ If, however, AB can be replaced only by A, A is the head; if AB can be replaced 
 
 He reads El Païs. \*He reads El. \*He reads Païs.
 
+<span style="color:green">**Agata**: This would mean the any Det+N construction is headless (if the noun requires a determiner)! For instance, _I see the girl._ \*_I see the._ \*_I see girl._ Where do I go wrong?</span>
+
 Idem for "ad hoc" and "parce que"
 
 We will determine below which relation, `flat` or `fixed`, should be used in these cases.
 
 This case should be considered as default also if the annotator just does not know whether this substitution is possible because the text is in a foreign language, for example.
+
 
 ### Case B: both A and B can replace AB:
 
