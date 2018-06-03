@@ -94,7 +94,7 @@ is removed (in the case of _to teach_):
 Therefore, we have identified one property of core objects that works better
 with the first object (the recipient) than with the second object (the theme);
 thus the UD v2 guidelines actually require that the second object
-is labeled `iobj`. Yet in the current English data (UD 2.1), it is still
+be labeled `iobj`. Yet in the current English data (UD 2.1), it is still
 the first object that is labeled `iobj`, and the second object is `obj`.
 This has to be resolved by either modifying the guidelines, or the data
 (diverging from what people traditionally understand under indirect object).
