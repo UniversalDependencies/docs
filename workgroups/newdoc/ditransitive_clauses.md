@@ -138,7 +138,9 @@ same reason; 3. full-fledged semantic-role labeling, done as a stand-off
 extension on top of UD.</span>
 
 <span style="color: blue"><b>Joakim:</b> I don't think this is specified by the v2 guidelines.
-I tried to argue for it on GitHub, based on syntactic criteria, but people pushed back saying that
+I tried to
+[argue for it on GitHub](https://github.com/UniversalDependencies/UD_English-EWT/issues/55#issuecomment-361508801),
+based on syntactic criteria, but people pushed back saying that
 it is convenient for NLP applications to have the same relation for the recipient role in both cases.
 This needs to be resolved.</span>
 
