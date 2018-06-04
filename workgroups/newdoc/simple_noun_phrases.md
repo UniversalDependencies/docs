@@ -12,7 +12,9 @@ Noun phrases are a fundamental type of linguistic structure that we expect to fi
 * Apposition and flat structures in noun phrases (names, titles)
 * Elliptical noun phrases 
 
-<span style="color: blue">**TO DO:** Decide on groupings and provide links to later chapters.</span>
+<span style="color: blue">**TO DO:** Decide on groupings and provide links to later chapters (above).</span>
+
+This chapter is structured as follows:
 
 * [Nominal Heads](#nominal-heads)
 * [Case Markers](#case-markers)
@@ -45,9 +47,9 @@ obj(såg, den)
 
 In all of the Swedish examples above, the subject is the pronoun "hon" (she), while the object is respectively the noun "filmen" (the-movie), the proper noun "Batman", and the pronoun "den" (it). 
 
-### Morphological Analysis of Nominal Heads
+### Morphological Annotation of Nominal Heads
 
-Nominal head words should be tagged [NOUN](), [PROPN](), or [PRON](). 
+Nominal head words should normally be tagged [NOUN](), [PROPN](), or [PRON](). 
 
 Depending on the language, nominal head words may in addition carry a number of morphological features, of which the most common are: 
 
@@ -62,7 +64,7 @@ For example, in the Swedish examples above, we find the following morphological 
 
 ## Case Markers
 
-Case marking is one of the strategies that languages use to encode the grammatical function of a noun phrase. Case marking can be realized through morphological inflection (captured by the feature [Case]() mentioned above) or by various kinds of clitics or adpositions (prepositions and postpositions). In the interest of cross-linguistic parallelism, UD takes a radical approach and treats all adpositions as case markers, attaching them to the nominal head with the [case]() relation.
+Case marking is one of the strategies that languages use to encode the grammatical function of a noun phrase. Case marking can be realized through morphological inflection (captured by the feature [Case]() mentioned above) or by clitics or adpositions (prepositions and postpositions). In the interest of cross-linguistic parallelism, UD takes a radical approach and treats all adpositions as case markers, attaching them to the nominal head with the [case]() relation.
 This allows us to analyze the following examples as both having a direct dependency relations from the predicate to the noun phrase filling the (oblique) agent role of a passive, despite the fact that Czech uses a noun in the instrumental case ("kočkou") while Swedish adds a preposition ("av"):
 
 ~~~ sdparse
@@ -82,6 +84,18 @@ obl(jagades, katten)
 This means that prepositional (and postpositional) phrases are treated in UD as extended noun phrases, where the nominal head is the referential core while the adposition is a functional marker. This can be seen as an instantiation of Tesnière's notion of a dissociated nucleus (Tesnière, 1959) and does not entail that the adposition is seen as a syntactic dependent of the noun in the narrow sense.
 
 <span style="color: blue">**TO DO:** Provide links to a central bibliography?</span>
+
+### Morphological Analysis of Case Markers
+
+While adpositions are normally tagged [ADP](), the tag [PART]() may be more appropriate for case markers that differ from morphological case markers only by being clitics instead of inflectional morphemes. For example, in Ungarinjin (an Australian language), locative case is marked by a phrase-final clitic (Rumsey, 1978; cited in Velupillai, 2012):
+
+~~~ sdparse
+dambun nininga ra \n camp my LOC
+nmod:poss(dambun, nininga)
+case(dambun, ra)
+~~~
+
+The clitic "ra" will be tagged [PART]() and carry the feature <span style="color: blue">Case=Loc</span> feature, whereas ordinary adpositions do not have a [Case]() features.
 
 ## Determiners
 
