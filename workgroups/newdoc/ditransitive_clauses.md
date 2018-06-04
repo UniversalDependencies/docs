@@ -512,15 +512,18 @@ See also:
   [Semantic and pragmatic functions in Plains Cree syntax](https://dare.uva.nl/search?identifier=153f3405-f029-4046-8d95-9f2a087b4123)
   (PhD thesis). Utrecht: LOT. ISBN 978-94-6093-051-5.
 
-Ditransitive verbs (that is, verbs with three arguments) still cross-reference
-only two arguments on the verb. It is always the recipient-like argument that
-is cross-referenced, while the theme stays outside. Hence the recipient (goal)
-is more core than the theme, and deserves to be labeled [obj](). The question
-is whether the theme is still a core argument (and thus labeled [iobj]()) or
-it is already oblique. Allowing it the core status seems to be at a similar
-level of tolerance as with the non-accusative objects in languages like Czech.
-The themes in Plains Cree are not indexed on the verb, though their own surface
-form (bare nominal) is not different from the core arguments.
+Plains Cree cross-references at most two core arguments on the verb.
+It also has a locative case affix that marks a noun phrase as oblique.
+If there is a verb which takes three arguments, the third argument is neither
+cross-referenced, nor marked by the locative case. It is therefore less core
+than the first two arguments, but more core than ordinary adjuncts.
+If we accept it as core, it will be labeled [iobj](), the least core-like
+argument.
+
+Unlike in some European languages, in Plains Cree it is always the
+recipient-like argument that is more important and cross-referenced, while the
+theme stays outside. Hence the recipient (goal)
+is more core than the theme, and deserves to be labeled [obj]().
 
 <!-- page 95 section 2.2.3.2 -->
 
