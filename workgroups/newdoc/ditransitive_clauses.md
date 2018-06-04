@@ -147,6 +147,21 @@ that we may want to consult before making a final judgment; nevertheless, the
 summary there still sounds to me like “UD does not do semantic role labeling,
 except for cases where it does.”</span>
 
+<span style="color:green"><b>Dan:</b> A tentative solution for UD v2 (where we
+can neither ban `iobj` nor rename it): Allow more flexibility for language-specific
+documentation to decide whether there is an indirect object. Require though
+that the language-specific rules are supported by solid argumentation that
+does not clash with the spirit of UD. Rephrase the definition of [iobj]() so
+that it does not automatically entail the least core-like argument that is
+still not oblique (even now the guidelines do not say this explicitly, but it
+follows from the definitions of [obj]() and [iobj](). That way English can
+keep its `iobj` for recipients in UD v2, and users will not be confused by
+the label appearing at the opposite of what has been traditionally understood
+as indirect object. In other languages, different criteria may apply, or it
+may be even possible to have two `obj` under one verb. And for UD v3, we may
+decide that the English-like `iobj` becomes language-specific subtype,
+referring directly to the semantic role, i.e., `obj:rcpt`.</span>
+
 
 
 <!---------------------------------------------------------------------------->
