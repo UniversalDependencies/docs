@@ -162,6 +162,8 @@ A `nummod` is a numeral modifying the head of a nominal phrase.
 
 ## Classifiers
 
+A `clf` (classifier) is a word which accompanies a noun in certain grammatical contexts.
+
 ## Nominal Modifiers
 
 An `nmod` is a nominal phrase modifying the head of another nominal phrase, with or without a special case marker. Treebanks may optionally use `nmod:poss` to distinguish non-adpositional possessives.
@@ -177,6 +179,8 @@ nmod:poss(office-4, Chair-2)
 ~~~
 
 ### Possessives
+
+Special case of `nmod` with subtype `nmod:poss`.
 
 ## Adjectival Modifiers
 
