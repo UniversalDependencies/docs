@@ -401,105 +401,51 @@ See also:
 Fernando Zúñiga, Beatriz Fernández (draft 26.6.2014):
 [Grammatical relations in Basque](http://basdisyn.net/pdf/Zuniga%20&%20Fernandez%202014%20Basque%20GRs%20270614.pdf)
 
-In Basque, like in Czech, nominal case morphology is essential for recognition
-of core argument relations. However, instead of nominative-accusative, the
-core pair of cases in Basque is ergative-absolutive.
-Most two-argument verbs have one argument in the ergative and the other in
-the absolutive case (but see below for other possibilities).
-The ergative argument is labeled as subject, the absolutive argument is object.
-With primary transitive verbs, the ergative argument corresponds to the agent
-and the absolutive argument to the patient.
+There are verbs that take all three cases that count as core in Basque:
+the ergative, the absolutive and the dative. In such constructions,
+the ergative encodes the A function, absolutive the P function (also T function = theme-like),
+and dative the G function (goal). In terms of dependency relations, it seems
+reasonable to label the ergative as `nsubj`, absolutive as `obj` and dative
+as `iobj` just to distinguish them and to acknowledge that absolutives and
+ergatives are more frequent than datives; though the grammar does not seem to
+target the absolutive argument in specific rules, which would make it
+more core-like than the dative.
 
-* _Ekaitzak itsasontzia hondoratu du._ “The storm has sunk the ship.”
+* _(Nik) (zuri) liburua eman dizut._ “I have given you a book.”
 
 ~~~ conllu
-# text = Ekaitzak itsasontzia hondoratu du.
-# text_en = The storm has sunk the ship.
-1	Ekaitzak	ekaitz	NOUN	_	Animacy=Inan|Case=Erg|Definite=Def|Number=Sing	3	nsubj	_	Gloss=storm
-2	itsasontzia	itsasontzi	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	3	obj	_	Gloss=ship
-3	hondoratu	hondoratu	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	Gloss=sunk
-4	du	*edun	AUX	_	Mood=Ind|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin	3	aux	_	Gloss=has|SpaceAfter=No
+# text = Nik zuri liburua eman dizut.
+# text_en = I have given you a book.
+1	Nik	ni	PRON	_	Case=Erg|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Gloss=I
+2	zuri	zu	PRON	_	Case=Dat|Number=Sing|Person=2|PronType=Prs	4	iobj	_	Gloss=you
+3	liburua	liburu	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	4	obj	_	Gloss=book
+4	eman	eman	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	Gloss=given
+5	dizut	*edun	AUX	_	Mood=Ind|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=2|Person[erg]=1|VerbForm=Fin	4	aux	_	Gloss=have|SpaceAfter=No
+6	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+~~~
+
+* _Zezenak saihetsa pitzatu zidan._ “The bull cracked my rib.”
+  (ergative argument: 3 singular; absolutive argument: 3 singular; dative argument: 1 singular)
+
+~~~ conllu
+# sent_id = test-s452
+# text = Zezenak saihetsa pitzatu zidan.
+# text_en = The bull cracked my rib.
+1	Zezenak	zezen	NOUN	_	Animacy=Anim|Case=Erg|Definite=Def|Number=Sing	3	nsubj	_	Gloss=bull
+2	saihetsa	saihets	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	3	obj	_	Gloss=rib
+3	pitzatu	pitzatu	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	Gloss=cracked
+4	zidan	*edun	AUX	_	Mood=Ind|Number[abs]=Sing|Number[dat]=Sing|Number[erg]=Sing|Person[abs]=3|Person[dat]=1|Person[erg]=3|VerbForm=Fin	3	aux	_	Gloss=has-to-me|SpaceAfter=No
 5	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 ~~~
 
-The single argument of intransitive verbs takes mostly the absolutive
-but sometimes the ergative form. It is labeled as subject in both cases.
-
-* _Gizona hil da._ “The man has died.” (absolutive)
-
-~~~ conllu
-# text = Gizona hil da.
-# text_en = The man has died.
-1	Gizona	gizon	NOUN	_	Animacy=Anim|Case=Abs|Definite=Def|Number=Sing	2	nsubj	_	Gloss=the-man
-2	hil	hil	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	Gloss=died
-3	da	izan	AUX	_	Aspect=Prog|Mood=Ind|Number[abs]=Sing|Person[abs]=3|VerbForm=Fin	2	aux	_	Gloss=has|SpaceAfter=No
-4	.	.	PUNCT	_	_	2	punct	_	Gloss=.
-
-~~~
-
-* _Urak irakin du._ “The water has boiled.” (ergative)
-
-~~~ conllu
-# text = Urak irakin du.
-# text_en = The water has boiled.
-1	Urak	ura	NOUN	_	Animacy=Inan|Case=Erg|Definite=Ind|Number=Sing	2	nsubj	_	Gloss=water
-2	irakin	irakin	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	Gloss=boiled
-3	du	*edun	AUX	_	Mood=Ind|Number[abs]=Sing|Number[erg]=Sing|Person[abs]=3|Person[erg]=3|VerbForm=Fin	2	aux	_	Gloss=has|SpaceAfter=No
-4	.	.	PUNCT	_	_	2	punct	_	Gloss=.
-
-~~~
-
-The third core case is the dative. Arguments in all three core cases are
-cross-referenced on finite verbs. Thanks to cross-referencing, the arguments
-can be omitted if they are just personal pronouns.
-
-Some two-argument verbs take dative+absolutive, instead of ergative+absolutive:
-
-* _(Niri) ardoa gustatzen zait._ “I like wine.” (lit. “To-me the-wine pleasing is.”)
-
-~~~ conllu
-# text = Niri ardoa gustatzen zait.
-# text_en = I like wine.
-1	Niri	ni	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	Gloss=to-me
-2	ardoa	ardo	NOUN	_	Animacy=Inan|Case=Abs|Definite=Def|Number=Sing	3	obj	_	Gloss=wine
-3	gustatzen	gustatzen	VERB	_	Aspect=Imp|VerbForm=Part	0	root	_	Gloss=pleasing
-4	zait	izan	AUX	_	Mood=Ind|Number[abs]=Sing|Number[dat]=Sing|Person[abs]=3|Person[dat]=1|VerbForm=Fin	3	aux	_	Gloss=is|SpaceAfter=No
-5	.	.	PUNCT	_	_	3	punct	_	Gloss=.
-
-~~~
-
-In the current data (UD 2.1), the dative argument seems to be labeled `iobj`
-even in dative-absolutive constructions. However, Zúñiga and Fernández (2014)
-write that the dative encodes the A function in such constructions; that
-would mean that it should be `nsubj`.
-Some supporting evidence is also provided by causativization, a
-[valency-changing operation](valency_changing_operations.html) that takes a
-transitive clause, adds a third, ergative argument, and switches the original
-subject to the dative (unless it already was in dative). The fact that
-causativization is available for dative-absolutive clauses supports our
-treatment of the dative argument as the subject.
-
-Some two-argument verbs take ergative+dative, instead of ergative+absolutive:
-
-* _Irakasleak haserre begiratu die ikasleei._ “The teacher has looked angrily at the students.”
-
-~~~ conllu
-# text = Irakasleak haserre begiratu die ikasleei
-# text_en = The teacher has looked angrily at the students.
-1	Irakasleak	irakasle	NOUN	_	Animacy=Anim|Case=Erg|Definite=Def|Number=Sing	3	nsubj	_	Gloss=the-teacher
-2	haserre	haserre	ADV	_	_	3	advmod	_	Gloss=angrily
-3	begiratu	begiratu	VERB	_	Aspect=Perf|VerbForm=Part	0	root	_	Gloss=looked
-4	die	*edun	AUX	_	Mood=Ind|Number[abs]=Sing|Number[dat]=Plur|Number[erg]=Sing|Person[abs]=3|Person[dat]=3|Person[erg]=3|VerbForm=Fin	3	aux	_	Gloss=has
-5	ikasleei	ikasle	NOUN	_	Animacy=Anim|Case=Dat|Definite=Def|Number=Plur	3	obj	_	Gloss=to-students|SpaceAfter=No
-6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
-
-~~~
-
-In the current data (UD 2.1), the dative argument seems to be labeled `iobj`
-even in ergative-dative constructions. However, Zúñiga and Fernández (2014)
-write that the dative encodes the P function in such constructions; that
-would mean that it should be `obj`.
+Note that with some predicates the dative argument can be interpreted as having
+the beneficiary role. Some authors may argue that this role is already behind
+the dividing line between arguments and adjuncts, and if a nominal is an
+adjunct, it cannot be a core argument. However, in Basque the dative argument
+is cross-referenced by verbal inflection, hence it is clearly a core argument
+despite its semantic role.
 
 
 
