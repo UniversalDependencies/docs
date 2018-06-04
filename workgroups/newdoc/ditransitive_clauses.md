@@ -191,6 +191,19 @@ a preposition will be used):
 
 ~~~
 
+~~~ conllu
+# text = Pierre a donné un livre à Isabelle.
+# text_en = Pierre gave a book to Isabelle.
+1	Pierre	Pierre	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	_	Gloss=Pierre
+2	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	Gloss=has
+3	donné	donner	VERB	_	Tense=Past|VerbForm=Part	0	root	_	Gloss=given
+4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=a
+5	livre	livre	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	Gloss=book
+6	à	à	ADP	_	_	7	case	_	Gloss=to
+7	Isabelle	Isabelle	PROPN	_	Gender=Fem|Number=Sing	3	obl	_	Gloss=Isabelle|SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	Gloss=.
+
+~~~
 
 
 
