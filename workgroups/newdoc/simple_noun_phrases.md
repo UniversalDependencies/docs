@@ -6,14 +6,14 @@ udver: '2'
 
 # Simple Noun Phrases
 
-Noun phrases are syntactic constituents built around a noun or pronoun. They occur as core arguments of predicates and typically refer to objects, although they have a range of other functions as well (including predicative uses). 
+Noun phrases are syntactic constituents headed by a noun or pronoun. They occur as core arguments of predicates and typically refer to objects (in a wide sense), but they have a range of other functions as well (including predicative uses). 
 
 ## Nominal Heads
 
 In the simplest case, a noun phrase consists of a single head word, which is typically a noun, proper noun or pronoun.
 
 ~~~ sdparse
-hon såg filmen . \n she saw the-film
+hon såg **filmen** . \n she saw the-film
 obj(såg, filmen)
 ~~~
 ~~~ sdparse
