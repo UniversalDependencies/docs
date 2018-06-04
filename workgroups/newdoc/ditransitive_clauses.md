@@ -510,205 +510,37 @@ See also:
   [Semantic and pragmatic functions in Plains Cree syntax](https://dare.uva.nl/search?identifier=153f3405-f029-4046-8d95-9f2a087b4123)
   (PhD thesis). Utrecht: LOT. ISBN 978-94-6093-051-5.
 
-The Algonquian (North American) language Plains Cree is similar to Basque in
-its cross-referencing of both the subject and the object by verbal inflection.
-It is also very dissimilar to Basque due to its almost complete lack of case
-marking on the nouns. Yet the marking of the argument on the verbal head is
-sufficient to allow for a relatively free word order (unlike English).
+Ditransitive verbs (that is, verbs with three arguments) still cross-reference
+only two arguments on the verb. It is always the recipient-like argument that
+is cross-referenced, while the theme stays outside. Hence the recipient (goal)
+is more core than the theme, and deserves to be labeled [obj](). The question
+is whether the theme is still a core argument (and thus labeled [iobj]()) or
+it is already oblique. Allowing it the core status seems to be at a similar
+level of tolerance as with the non-accusative objects in languages like Czech.
+The themes in Plains Cree are not indexed on the verb, though their own surface
+form (bare nominal) is not different from the core arguments.
 
-Like in many other languages where person and number of an argument is cross-referenced
-by the verb, the argument does not need to appear as a separate word if it
-would be just a pronoun.
+<!-- page 95 section 2.2.3.2 -->
 
-* _Niwīcihānānak._ “We help them.”
-* _Niwīcihikonānak._ “They help us.”
-
-~~~ conllu
-# text = Niwīcihānānak.
-# text_en = We help them.
-1	Niwīcihānānak	wīcih	VERB	_	Animacy=Anim|Clusivity[high]=Ex|Mood=Ind|Number[high]=Plur|Number[low]=Plur|Person[high]=1|Person[low]=3|Tense=Pres|Voice=Dir	0	root	_	Gloss=we-help-them|MSeg=ni-wīcih-ā-nān-ak|MGloss=1-help-DIR-1PL-3PL|SpaceAfter=No
-2	.	.	PUNCT	_	_	1	punct	_	Gloss=.
-
-~~~
+* _Nikī-miyāw anima masinahikan._ “I gave him/her that book.” (direct voice)
+* _Nikī-miyik anima masinahikan._ “He/she gave me that book.” (inverse voice)
+* _Nikī-kiskinwahamawāw nēhiyawēwin._ “I taught him/her Cree.” (direct voice)
+* _Nikī-kiskinwahamāk nēhiyawēwin._ “He/she taught me Cree.” (inverse voice)
 
 ~~~ conllu
-# text = Niwīcihikonānak.
-# text_en = They help us.
-1	Niwīcihikonānak	wīcih	VERB	_	Animacy=Anim|Clusivity[high]=Ex|Mood=Ind|Number[high]=Plur|Number[low]=Plur|Person[high]=1|Person[low]=3|Tense=Pres|Voice=Inv	0	root	_	Gloss=they-help-us|MSeg=ni-wīcih-iko-nān-ak|MGloss=1-help-INV-1PL-3PL|SpaceAfter=No
-2	.	.	PUNCT	_	_	1	punct	_	Gloss=.
-
-~~~
-
-The two verb forms in the two previous examples differ in [Voice](). The first
-example is in the direct voice, where the argument higher in a language-specific
-obliqueness hierarchy is more agent-like and the other argument is more patient-like.
-First person arguments are higher than third person arguments, therefore the
-agent is “we” and the patient is “they”.
-
-In the second example, the argument-marking morphemes have not changed but the
-verb is in the inverse voice where the argument lower in the hierarchy (“they”)
-is the agent and the higher argument (“we”) is the patient.
-
-It is undoubted that the two arguments that are cross-referenced by the verb
-are core arguments. It is less clear how to label the two arguments, as Plains
-Cree does not seem to have a subject in the Indo-European sense. Nevertheless,
-it seems quite natural to postulate that the argument higher in the hierarchy
-is more core-like and thus it gets the label [nsubj]() in UD; the other core
-argument then gets [obj](). Such a distinction can be annotated easily and
-consistently. The subject will be more agent-like in the direct voice, and
-more patient-like in the inverse voice, which will be somewhat parallel to
-the active and passive voices in other languages.
-
-In the following two examples, the verb forms differ because the first verb
-cross-references a singular object, the second a plural.
-
-* _Nikī-wīcihāw Cān._ “I helped John.”
-
-~~~ conllu
-# text = Nikī-wīcihāw Cān.
-# text_en = I helped John.
-1	Nikī-wīcihāw	wīcih	VERB	_	Animacy=Anim|Mood=Ind|Number[high]=Sing|Number[low]=Sing|Person[high]=1|Person[low]=3|Tense=Past|Voice=Dir	0	root	_	Gloss=I-helped-him|MSeg=ni-kī-wīcih-ā-w|MGloss=1-PAST-help-DIR-3SG
-2	Cān	Cān	PROPN	_	Animacy=Anim|Number=Sing|Obviation=Prx	1	obj	_	Gloss=John|SpaceAfter=No
-3	.	.	PUNCT	_	_	1	punct	_	Gloss=.
-
-~~~
-
-* _Nikī-wīcihāwak Cān ēkwa Mēriy._ “I helped John and Mary.”
-
-~~~ conllu
-# text = Nikī-wīcihāwak Cān ēkwa Mēriy.
-# text_en = I helped John and Mary.
-1	Nikī-wīcihāwak	wīcih	VERB	_	Animacy=Anim|Mood=Ind|Number[high]=Sing|Number[low]=Plur|Person[high]=1|Person[low]=3|Tense=Past|Voice=Dir	0	root	_	Gloss=I-helped-them|MSeg=ni-kī-wīcih-ā-w-ak|MGloss=1-PAST-help-DIR-3-3PL
-2	Cān	Cān	PROPN	_	Animacy=Anim|Number=Sing|Obviation=Prx	1	obj	_	Gloss=John
-3	ēkwa	ēkwa	CCONJ	_	_	4	cc	_	Gloss=and
-4	Mēriy	Mēriy	PROPN	_	Animacy=Anim|Number=Sing|Obviation=Prx	2	conj	_	Gloss=Mary|SpaceAfter=No
-5	.	.	PUNCT	_	_	1	punct	_	Gloss=.
-
-~~~
-
-<!-- page 100 section 2.2.2.2 -->
-
-If two third-person arguments are involved, one of them is considered
-_proximate_ (more topical, higher in the obliqueness hierarchy) and the other
-is considered _obviative_ (less topical, lower in the obliqueness hierarchy).
-The obviative noun is marked morphologically by the suffix _-a_.
-Note that Plains Cree distinguishes singular and plural [Number]() for
-proximate but not for obviative third person arguments.
-
-Current UD data (as of UD 2.1) does not include languages with direct-inverse
-voice systems and proximate-obviative division of third-person arguments.
-(Though there has been a [paper](http://www.aclweb.org/anthology/W16-1719)
-that discusses possible application of the old UD v1 guidelines to the related
-language of Arapaho.)
-The guidelines define a special value for the “fourth person”, which could be
-used for obviative arguments (see [Person]()). This value is inspired by the
-[Unimorph](https://unimorph.github.io/doc/unimorph-schema.pdf#page=41) project.
-However, the Unimorph specification seems to favor using `Person=3` with an
-additional subfeature for proximate and obviative status:
-“In some languages, a fourth person category is used to describe an otherwise
-third-person referent that is differentiated from other third-person referents
-by a switch-reference-like distinction … or, more commonly, by a distinction in
-obviation status… For the purposes of morphological distinctions, these fourth
-person categories may call for dedicated verbal morphology. While in some
-cases their meaning can be captured by third person (3) plus switch-reference
-features or features marking pragmatic voice distinctions (such as the
-proximate (PRX) and obviative (OBV)), we include a fourth person category with
-the feature 4 to allow for identification of a fourth person category when the
-semantic distinctions are complicated or not strictly inflectional in nature.”
-
-A possible alternative would be to revoke the “fourth person” and define
-a separate feature `Obviation` with the values `Prx` and `Obv`. There are two
-places where the feature could be used: as a verbal feature (cross-referencing
-the argument) and as a nominal feature (marking the argument). Especially in
-nominal inflection it seems preferable to use a new feature rather than assert
-that the noun inflects for person (with values `3` and `4` only).
-
-Yet another option would be to include the nominal inflection under [Case]()
-marking, i.e., a noun with the obviative morpheme would be `Case=Acc` and
-the unmarked nouns would be `Case=Nom`. However, such an extension could be
-perceived as stretching the usual definition of case too far. The main oddity
-would be that it only applies to third-person referents and only if two such
-referents compete as arguments of the same verb. If one argument of the verb
-is first-person and the other third-person, both will stay in the “nominative”
-regardless of their semantic roles. Therefore, defining a new feature,
-separate from `Case`, is probably a better and less confusing solution.
-
-<!-- page 199 section 3.1 -->
-
-* _Cāniy kī-wīcihēw Mērīwa._ “Johnny helped Mary.” (direct voice)
-* _Cānīwa kī-wīcihēw Mēriy._ “Mary helped Johnny.” (direct voice)
-* _Cāniy kī-wīcihik Mērīwa._ “Mary helped Johnny. / Johnny was helped by Mary.” (inverse voice)
-* _Cānīwa kī-wīcihik Mēriy._ “Johnny helped Mary. / Mary was helped by Johnny.” (inverse voice)
-
-~~~ conllu
-# text = Cāniy kī-wīcihēw Mērīwa.
-# text_en = Johnny helped Mary.
-1	Cāniy	Cāniy	PROPN	_	Animacy=Anim|Number=Sing|Obviation=Prx	2	nsubj	_	Gloss=Johnny
-2	kī-wīcihēw	wīcih	VERB	_	Animacy=Anim|Mood=Ind|Number[high]=Sing|Number[low]=Sing|Person[high]=3|Person[low]=3|Tense=Past|Voice=Dir	0	root	_	Gloss=helped|MSeg=kī-wīcih-ē-w|MGloss=PAST-help-DIR-3SG
-3	Mērīwa	Mēriy	PROPN	_	Animacy=Anim|Number=Sing|Obviation=Obv	2	obj	_	Gloss=Mary|MSeg=Mēriy-wa|MGloss=Mary-OBV|SpaceAfter=No
-4	.	.	PUNCT	_	_	2	punct	_	Gloss=.
-
-~~~
-~~~ conllu
-# text = Cānīwa kī-wīcihēw Mēriy.
-# text_en = Mary helped Johnny.
-1	Cānīwa	Cāniy	PROPN	_	Animacy=Anim|Number=Sing|Obviation=Obv	2	obj	_	Gloss=Johnny|MSeg=Cāniy-wa|MGloss=Johnny-OBV
-2	kī-wīcihēw	wīcih	VERB	_	Animacy=Anim|Mood=Ind|Number[high]=Sing|Number[low]=Sing|Person[high]=3|Person[low]=3|Tense=Past|Voice=Dir	0	root	_	Gloss=helped|MSeg=kī-wīcih-ē-w|MGloss=PAST-help-DIR-3SG
-3	Mēriy	Mēriy	PROPN	_	Animacy=Anim|Number=Sing|Obviation=Prx	2	nsubj	_	Gloss=Mary|SpaceAfter=No
-4	.	.	PUNCT	_	_	2	punct	_	Gloss=.
-
-~~~
-~~~ conllu
-# text = Cāniy kī-wīcihik Mērīwa.
-# text_en = Mary helped Johnny. / Johnny was helped by Mary.
-1	Cāniy	Cāniy	PROPN	_	Animacy=Anim|Number=Sing|Obviation=Prx	2	nsubj:pass	_	Gloss=Johnny
-2	kī-wīcihik	wīcih	VERB	_	Animacy=Anim|Mood=Ind|Number[high]=Sing|Number[low]=Sing|Person[high]=3|Person[low]=3|Tense=Past|Voice=Inv	0	root	_	Gloss=helped|MSeg=kī-wīcih-ikw-w|MGloss=PAST-help-INV-3SG
-3	Mērīwa	Mēriy	PROPN	_	Animacy=Anim|Number=Sing|Obviation=Obv	2	obj:agent	_	Gloss=Mary|MSeg=Mēriy-wa|MGloss=Mary-OBV|SpaceAfter=No
-4	.	.	PUNCT	_	_	2	punct	_	Gloss=.
-
-~~~
-~~~ conllu
-# text = Cānīwa kī-wīcihik Mēriy.
-# text_en = Johnny helped Mary. / Mary was helped by Johnny.
-1	Cānīwa	Cāniy	PROPN	_	Animacy=Anim|Number=Sing|Obviation=Obv	2	obj:agent	_	Gloss=Johnny|MSeg=Cāniy-wa|MGloss=Johnny-OBV
-2	kī-wīcihik	wīcih	VERB	_	Animacy=Anim|Mood=Ind|Number[high]=Sing|Number[low]=Sing|Person[high]=3|Person[low]=3|Tense=Past|Voice=Inv	0	root	_	Gloss=helped|MSeg=kī-wīcih-ikw-w|MGloss=PAST-help-INV-3SG
-3	Mēriy	Mēriy	PROPN	_	Animacy=Anim|Number=Sing|Obviation=Prx	2	nsubj:pass	_	Gloss=Mary|SpaceAfter=No
-4	.	.	PUNCT	_	_	2	punct	_	Gloss=.
-
-~~~
-
-Even though Plains Cree does not use morphological cases to distinguish agents
-from patients, there is a form of nouns that can be classified as the locative
-case (`Case=Loc`). It clearly marks the noun as oblique and unable to be
-cross-referenced by verbal inflection. The other, bare nominal forms, could
-then be tagged as nominative (`Case=Nom`), or, optionally, left with the [Case]()
-feature empty.
-
-* _Akocikanihk nikī-ahāwak nitastisak._ “I put my mitts on the shelf.” (mitts are grammatically animate, despite the semantics)
-
-~~~ conllu
-# text = Akocikanihk nikī-ahāwak nitastisak.
-# text_en = I put my mitts on the shelf.
-1	Akocikanihk	akocikan	NOUN	_	Animacy=Inan|Case=Loc	2	obl	_	Gloss=shelf|MSeg=akocikan-ihk|MGloss=shelf-LOC
-2	nikī-ahāwak	ah	VERB	_	Animacy=Anim|Mood=Ind|Number[high]=Sing|Number[low]=Plur|Person[high]=1|Person[low]=3|Tense=Past|Voice=Dir	0	root	_	Gloss=I-put|MSeg=ni-kī-ah-ā-wak|MGloss=1-PAST-put-DIR-3PL
-3	nitastisak	astis	NOUN	_	Animacy=Anim|Number=Plur|Person[psor]=1	2	obj	_	Gloss=my-mitts|MSeg=nit-astis-ak|MGloss=1-mitt-PL|SpaceAfter=No
-4	.	.	PUNCT	_	_	2	punct	_	Gloss=.
-
-~~~
-
-Adpositions may accompany the locative, too:
-
-* _Nikī-nīhtināw akocikanihk ohci._ “I took him/her/it down from the shelf.”
-
-~~~ conllu
-# text = Nikī-nīhtināw akocikanihk ohci.
-# text_en = I took him/her/it down from the shelf.
-1	Nikī-nīhtināw	nīhtin	VERB	_	Animacy=Anim|Mood=Ind|Number[high]=Sing|Number[low]=Sing|Person[high]=1|Person[low]=3|Tense=Past|Voice=Dir	0	root	_	Gloss=I-took-it-down|MSeg=ni-kī-nīhtin-ā-w|MGloss=1-PAST-take.down-DIR-3SG
-2	akocikanihk	akocikan	NOUN	_	Animacy=Inan|Case=Loc	1	obl	_	Gloss=shelf|MSeg=akocikan-ihk|MGloss=shelf-LOC
-3	ohci	ohci	ADP	_	_	2	case	_	Gloss=from|SpaceAfter=No
+# text = Nikī-miyāw anima masinahikan.
+# text_en = I gave him/her that book.
+1	Nikī-miyāw	miy	VERB	_	Animacy=Anim|Mood=Ind|Number[high]=Sing|Number[low]=Sing|Person[high]=1|Person[low]=3|Tense=Past|Voice=Dir	0	root	_	Gloss=I-gave-him/her|MSeg=ni-kī-miy-ā-w|MGloss=1-PAST-give.to-DIR-3SG
+2	anima	anima	DET	_	Animacy=Inan|Number=Sing|PronType=Dem	3	det	_	Gloss=that|MGloss=DEM.0's
+3	masinahikan	masinahikan	NOUN	_	Animacy=Inan|Number=Sing	1	iobj	_	Gloss=book|SpaceAfter=No
 4	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 ~~~
+
+In the above example, the verb stem used is for animate objects, while
+_masinahikan_ “book” is inanimate. That is a proof that the 3rd person singular
+cross-reference on the verb does not refer to the book but to an animate
+recipient that is not overtly represented in the sentence.
 
 
 
