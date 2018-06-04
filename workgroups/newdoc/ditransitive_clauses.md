@@ -206,6 +206,15 @@ a passive construction:
 
 <span style="color:red">Joakim, please check that the above is correct.</span>
 
+<span style="color:red">TO DECIDE: French seems to be using the term
+_indirect object_ also in clauses that are not ditransitive because there
+is no other object: _Je lui parle. (Je parle à Pierre.)_
+However, this seems to be the same problem as the dative in Czech and German
+(the difference is that French does not have other cases and even the dative
+is limited to pronouns).
+In French the dative can also be used for benefactives, as in Czech and German:
+_Il leur achète des livres._ “He buys books for them.”</span>
+
 
 
 <!---------------------------------------------------------------------------->
