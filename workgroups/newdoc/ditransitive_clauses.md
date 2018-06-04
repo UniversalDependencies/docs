@@ -450,6 +450,36 @@ despite its semantic role.
 
 ### Tagalog
 
+In Tagalog, the verbs of giving form a standard transitive clause in the agent
+and patient voices, as the recipient is coded as a directional (locative)
+oblique dependent.
+
+* _Nagbigay ang lalaki ng libro sa babae._ “The man gave a book to the woman.” (agent voice)
+
+~~~ conllu
+# text = Nagbigay ang lalaki ng libro sa babae.
+# text_en = The man gave a book to the woman.
+1	Nagbigay	bigay	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=gave
+2	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	3	det	_	Gloss=the
+3	lalaki	lalaki	NOUN	_	_	1	nsubj	_	Gloss=man
+4	ng	ng	DET	_	Case=Acc|PronType=Art	5	det	_	Gloss=DET
+5	libro	libro	NOUN	_	_	1	obj	_	Gloss=libro
+6	sa	sa	DET	_	Case=Loc|PronType=Art	7	det	_	Gloss=DIR
+7	babae	babae	NOUN	_	_	1	obl	_	Gloss=woman|SpaceAfter=No
+8	.	.	PUNCT	_	_	1	punct	_	Gloss=.
+
+~~~
+
+<!-- Locative voice? Binigyan ng lalaki ng libro ang babae. -->
+
+However, locative dependents can be topicalized if the verb morphology signals
+the “locative voice”. Then the locative noun phrase switches to nominative,
+it becomes a core argument, while the original two core arguments keep core
+coding, too. Therefore we have a ditransitive clause with three core arguments,
+even for verbs that are not associated with ditransitives in other languages:
+
+* _Aalisan ng babae ng bigas ang sako para sa bata._ “A/the woman will take some rice out of the sack for a/the child.” (locative voice)
+
 ~~~ conllu
 # sent_id = 3.111c/tl
 # text = Aalisan ng babae ng bigas ang sako para sa bata.
@@ -469,31 +499,6 @@ despite its semantic role.
 11	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 ~~~
-
-Since the agent and patient stay core arguments even in the locative voice,
-we actually have a [ditransitive clause](ditransitive_clauses.html) with three core
-arguments. In contrast, the verbs of giving, which are typical representatives
-of ditransitive predicates in other languages, form a standard transitive
-clause in the agent and patient voices, as the recipient is coded as a
-directional (locative) oblique dependent.
-
-* _Nagbigay ang lalaki ng libro sa babae._ “The man gave a book to the woman.” (agent voice)
-
-~~~ conllu
-# text = Nagbigay ang lalaki ng libro sa babae.
-# text_en = The man gave a book to the woman.
-1	Nagbigay	bigay	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=gave
-2	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	3	det	_	Gloss=the
-3	lalaki	lalaki	NOUN	_	_	1	nsubj	_	Gloss=man
-4	ng	ng	DET	_	Case=Acc|PronType=Art	5	det	_	Gloss=DET
-5	libro	libro	NOUN	_	_	1	obj	_	Gloss=libro
-6	sa	sa	DET	_	Case=Loc|PronType=Art	7	det	_	Gloss=DIR
-7	babae	babae	NOUN	_	_	1	obl	_	Gloss=woman|SpaceAfter=No
-8	.	.	PUNCT	_	_	1	punct	_	Gloss=.
-
-~~~
-
-<!-- Locative voice? Binigyan ng lalaki ng libro ang babae. -->
 
 
 
