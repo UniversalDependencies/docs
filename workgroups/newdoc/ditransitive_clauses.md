@@ -453,147 +453,6 @@ despite its semantic role.
 
 ### Tagalog
 
-The arguments in Tagalog are marked by function words that could be analyzed as either
-prepositions, or case-bearing determiners. Although adpositions are often
-associated with oblique arguments and adjuncts, we have seen that it is not
-a universal rule. Spanish marks an animate direct object with the preposition _a_;
-Slavic and other languages have prepositional objects that, despite not being
-considered core in UD, seem to work the same way as other non-accusative
-(but prepositionless) arguments; and in Japanese, all
-arguments are marked by postpositions, including the subject and the direct
-object. On the other hand, if the nominal markers in Tagalog are determiners,
-then Tagalog somewhat resembles modern German, where nominal inflection has
-been greatly reduced and the varying forms of determiners are often the only
-clue about the case of a noun phrase. Categorizing the Tagalog markers as
-determiners seems to be more favored in the literature.
-
-The most core-like argument (also called _pivot_) is marked by the determiner
-_ang_. The other core argument (if any) is marked by the determiner _ng_
-(pronounced _nang_). A different set of determiners is used with proper nouns.
-No determiners are used with personal pronouns, but the pronouns themselves
-inflect for case.
-
-There have been disputes about whether the pivot is subject and whether
-Tagalog has a subject at all. Andrews (pp. 210–211) distinguishes two
-grammatical relations, the a-subject and the p-subject, each having some
-properties that are often associated with subjects in the more familiar
-languages. He also says that the actor “has subject-like properties regardless
-of whether or not it is the pivot.”
-Nevertheless, for the purpose of easier and consistent annotation of Universal
-Dependencies it seems advantageous to simplify the matter and always reserve
-the [nsubj]() relation for the _ang_-phrase (the pivot).
-
-It seems appropriate to mark the determiners and the personal pronouns with
-the [Case]() feature: the pivot with nominative, and the other core argument
-with accusative.
-
-* _Nagsalita ka._ “You spoke.”
-
-~~~ conllu
-# sent_id = 1.98d/tl
-# text = Nagsalita ka.
-# gloss = (PERF.ACTIVE)speak you
-# text_en = You spoke.
-1	Nagsalita	salita	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=spoke|MSeg=nag-salita|MGloss=PERF+ACTIVE-speak
-2	ka	ikaw	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you|SpaceAfter=No
-3	.	.	PUNCT	_	_	1	punct	_	Gloss=punct
-
-~~~
-
-* _Natalisod ka._ “You tripped.”
-
-~~~ conllu
-# sent_id = 1.98f/tl
-# text = Natalisod ka.
-# gloss = (PERF.INVOL)trip you
-# text_en = You tripped.
-1	Natalisod	tisod	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=tripped|MSeg=na-talisod|MGloss=PERF+INVOL-trip
-2	ka	ikaw	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	1	nsubj	_	Gloss=you|SpaceAfter=No
-3	.	.	PUNCT	_	_	1	punct	_	Gloss=punct
-
-~~~
-
-* _Natalisod ang babae._ “The woman tripped.”
-
-~~~ conllu
-# text = Natalisod ang babae.
-# text_en = The woman tripped.
-1	Natalisod	tisod	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=tripped|MSeg=na-talisod|MGloss=PERF+INVOL-trip
-2	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	3	det	_	Gloss=the|MGloss=PIV
-3	babae	babae	NOUN	_	_	1	nsubj	_	Gloss=woman|SpaceAfter=No
-4	.	.	PUNCT	_	_	1	punct	_	Gloss=punct
-
-~~~
-
-* _Natalisod si Pedro._ “Pedro tripped.”
-
-~~~ conllu
-# text = Natalisod si Pedro.
-# text_en = Pedro tripped.
-1	Natalisod	tisod	VERB	_	Aspect=Perf|Mood=Ind|VerbForm=Fin|Voice=Paf	0	root	_	Gloss=tripped|MSeg=na-talisod|MGloss=PERF+INVOL-trip
-2	si	si	DET	_	Case=Nom|Definite=Def|PronType=Art	3	det	_	Gloss=the
-3	Pedro	Pedro	PROPN	_	_	1	nsubj	_	Gloss=Pedro|SpaceAfter=No
-4	.	.	PUNCT	_	_	1	punct	_	Gloss=punct
-
-~~~
-
-<!--
-Tagalog personal pronouns
-		Nom (ang)	Acc (ng)	Loc (sa)
-1 Sing		ako		ko		akin		I
-2 Sing		ikaw/ka		mo		iyo		you
-3 Sing		siya		niya		kanya		he/she/it
-1 Plur Ex	kami		namin		amin		we
-1 Plur In	tayo		natin		atin		we
-2 Plur		kayo		ninyo		inyo		you
-3 Plur		sila		nila		kanila		they
--->
-Transitive (two-argument) sentences have two core arguments, one in the
-nominative (pronoun or determiner) and the other in the accusative.
-
-* _Naglilinis siya ng bahay._ “She cleans the house.”
-
-~~~ conllu
-# text = Naglilinis siya ng bahay.
-# text_en = She cleans the house.
-1	Naglilinis	linis	VERB	_	Aspect=Imp|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=cleans
-2	siya	siya	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	nsubj	_	Gloss=he/she
-3	ng	ng	DET	_	Case=Acc|PronType=Art	4	det	_	Gloss=DET
-4	bahay	bahay	NOUN	_	_	1	obj	_	Gloss=house|SpaceAfter=No
-5	.	.	PUNCT	_	_	1	punct	_	Gloss=punct
-
-~~~
-
-Locative, directional and benefactive arguments are normally coded as oblique.
-However, there are additional voices where these arguments become subjects.
-One of the reasons why an argument is fronted as the subject is that the
-subject is understood as the topic of the sentence. The _ang_ determiner
-implies definiteness (while _ng_-marked arguments can be definite or
-indefinite).
-
-* _Magaalis ang babae ng bigas sa sako para sa bata._ “The woman will take some rice out of a/the sack for a/the child.” (agent voice)
-* _Aalisan ng babae ng bigas ang sako para sa bata._ “A/the woman will take some rice out of the sack for a/the child.” (locative voice)
-
-~~~ conllu
-# sent_id = 3.111a/tl
-# text = Magaalis ang babae ng bigas sa sako para sa bata.
-# gloss = AP-FUT-take.out PIV woman OBJ rice DIR sack for BEN child
-# text_en = The woman will take some rice out of a/the sack for a/the child.
-# AP = actor pivot; PIV = pivot marker
-# http://www.seasite.niu.edu/Tagalog/tagalog_verbs.htm
-1	Magaalis	alis	VERB	_	Aspect=Prog|Mood=Ind|VerbForm=Fin|Voice=Agf	0	root	_	Gloss=will-take-out|MSeg=mag-a-alis|MGloss=AP-FUT-take.out
-2	ang	ang	DET	_	Case=Nom|Definite=Def|PronType=Art	3	det	_	Gloss=the
-3	babae	babae	NOUN	_	_	1	nsubj	_	Gloss=woman
-4	ng	ng	DET	_	Case=Acc|PronType=Art	5	det	_	Gloss=DET
-5	bigas	bigas	NOUN	_	_	1	obj	_	Gloss=rice
-6	sa	sa	DET	_	Case=Loc|PronType=Art	7	det	_	Gloss=DIR
-7	sako	sako	NOUN	_	_	1	obl	_	Gloss=sack
-8	para	para	ADP	_	_	10	case	_	Gloss=for
-9	sa	sa	DET	_	Case=Loc|PronType=Art	10	det	_	Gloss=BEN
-10	bata	bata	NOUN	_	_	1	obl	_	Gloss=child|SpaceAfter=No
-11	.	.	PUNCT	_	_	1	punct	_	Gloss=.
-
-~~~
 ~~~ conllu
 # sent_id = 3.111c/tl
 # text = Aalisan ng babae ng bigas ang sako para sa bata.
@@ -636,6 +495,8 @@ directional (locative) oblique dependent.
 8	.	.	PUNCT	_	_	1	punct	_	Gloss=.
 
 ~~~
+
+<!-- Locative voice? Binigyan ng lalaki ng libro ang babae. -->
 
 
 
