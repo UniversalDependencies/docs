@@ -6,28 +6,52 @@ udver: '2'
 
 # Simple Noun Phrases
 
-Noun phrases are syntactic constituents headed by a noun or pronoun. They occur as core arguments of predicates and typically refer to objects (in a wide sense), but they have a range of other functions as well (including predicative uses). 
+Noun phrases are a fundamental type of linguistic structure that we expect to find in all languages. Noun phrases occur as core arguments of predicates and typically refer to objects (in a wide sense), but they have a range of other functions as well (including predicative uses). This chapter focuses on noun phrases headed by a noun or pronoun, possibly accompanied by grammatical markers and modifier phrases. Later chapters will cover more complex and atypical types of noun phrases:
+
+* Noun phrases with clausal modifiers
+* Apposition and flat structures in noun phrases (names, titles)
+* Elliptical noun phrases 
+<span font="color red">TO DO: Decide on groupings and provide links to later chapters.</span>
 
 ## Nominal Heads
 
 In the simplest case, a noun phrase consists of a single head word, which is typically a noun, proper noun or pronoun.
 
 ~~~ sdparse
-hon såg **filmen** . \n she saw the-film
+hon/PRON såg filmen/NOUN . \n she saw the-film
+nsubj(såg, hon)
 obj(såg, filmen)
 ~~~
 ~~~ sdparse
-hon såg Batman \n she saw Batman
+hon/PRON såg Batman/PROPN \n she saw Batman
+nsubj(såg, hon)
 obj(såg, Batman)
 ~~~
 ~~~ sdparse
-hon såg den \n she saw it
+hon/PRON såg den/PRON \n she saw it
+nsubj(såg, hon)
 obj(såg, den)
 ~~~
 
-Nominal head words are tagged as [NOUN]() ("filmen"), [PROPN]() ("Batman") or [PRON]() ("den"), respectively. Depending on the language, nominal head words may in addition carry a number of morphological features. For example, the noun "filmen" is a singular, definite common gender noun ([Definite]()=Yes, [Gender]()=Common, [Number]()=Sing), and "den" is a third-person, singular, definite, common gender personal pronoun ([Definite]()=Yes[Gender]()=Common, [Number]()=Sing, [Person]()=3,[PronType]=Prs). An important feature of nouns in many languages is [Case](), which normally gives information about the relation of the noun phrase to its syntactic head. The following examples illustrate different case forms of the Czech noun "?":
+In all of the Swedish examples above, the subject is the pronoun "hon" (she), while the object is respectively the noun "filmen" (the-movie), the proper noun "Batman", and the pronoun "den" (it). 
 
-<span style="color: blue">**TODO:** Add relevant examples from Czech here (perhaps a nominative subject, an accusative objects, and a genitive nmod). </span>
+### Morphological Analysis
+
+Nominal head words should be tagged [NOUN](), [PROPN](), or [PRON](). 
+
+Depending on the language, nominal head words may in addition carry a number of morphological features, of which the most common are: 
+
+* For NOUN: [Case](), [Definite](), [Gender](), [Number]()
+* For PRON: [Case](), [Definite](), [Gender](), [Number](), [Person](), [Poss](), [PronType](), [Reflex]()
+
+For example, in the Swedish examples above, we find the following morphological features:
+
+* For "filmen" (the-movie): NOUN + Case=Nom|Definite=Yes|Gender=Com|Number=Sing
+* For "den": PRON + Definite=Yes|Gender=Com|Number=Sing|Person=3|PronType=Prs
+
+## Case Marking 
+
+Treats adpositions as case markers to achieve parallelism with structures involving morphological and syntactic case markers.
 
 ## Determiners
 
