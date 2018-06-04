@@ -14,6 +14,15 @@ Noun phrases are a fundamental type of linguistic structure that we expect to fi
 
 <span style="color: blue">**TO DO:** Decide on groupings and provide links to later chapters.</span>
 
+* [Nominal Heads](#nominal-heads)
+* [Case Markers](#case-markers)
+* [Determiners](#determiners)
+* [Numerals](#numerals)
+* [Classifiers](#classifiers)
+* [Nominal Modifiers](#nominal-modifiers)
+* [Adjectival Modifiers](#adjectival-modifiers)
+
+
 ## Nominal Heads
 
 In the simplest case, a noun phrase consists of a single head word, which is typically a noun, proper noun or pronoun.
@@ -51,7 +60,7 @@ For example, in the Swedish examples above, we find the following morphological 
 * For "Batman" (the-movie): <span style="color: blue">NOUN + Case=Nom</span>
 * For "den": <span style="color: blue">PRON + Definite=Yes\|Gender=Com\|Number=Sing\|Person=3\|PronType=Prs</span>
 
-## Case Marking 
+## Case Markers
 
 Case marking is one of the strategies that languages use to encode the grammatical function of a noun phrase. Case marking can be realized through morphological inflection (captured by the feature [Case]() mentioned above) or by various kinds of clitics or adpositions (prepositions and postpositions). In the interest of cross-linguistic parallelism, UD takes a radical approach and treats all adpositions as case markers, attaching them to the nominal head with the [case]() relation.
 This allows us to analyze the following examples as both having a direct dependency relations from the predicate to the noun phrase filling the (oblique) agent role of a passive, despite the fact that Czech uses a noun in the instrumental case ("kočkou") while Swedish adds a preposition ("av"):
@@ -76,15 +85,29 @@ This means that prepositional (and postpositional) phrases are treated in UD as 
 
 ## Determiners
 
-<span style="color: blue">**CONTINUE HERE!** </span>
+Nominal heads may be further specified by determiners, which can be roughly divided into three classes:
 
-A nominal head does not take any core arguments but may be associated with different types of modifiers:
+* Articles
+* Demonstratives
+* Quantifiers
 
-1. An `nmod` is a nominal phrase modifying the head of another nominal phrase, with or without a special case marker. Treebanks may optionally use `nmod:poss` to distinguish non-adpositional possessives.
-2. An `appos` is a nominal phrase that follows the head of another nominal phrase and stands in a co-reference or other equivalence relation to it.
-3. An `amod` is an adjective modifying the head of a nominal phrase.
-4. A `nummod` is a numeral modifying the head of a nominal phrase.
-5. An `acl` is a clause modifying the head of a nominal phrase, with the relative clause `acl:relcl` as an important subtype.
+The determiner ([det]()) relation is used 
+
+Examples 
+
+Not for numerals and possessives (see below).
+
+### Morphological Analysis of Determiners
+
+## Numerals
+
+A `nummod` is a numeral modifying the head of a nominal phrase.
+
+## Classifiers
+
+## Nominal Modifiers
+
+An `nmod` is a nominal phrase modifying the head of another nominal phrase, with or without a special case marker. Treebanks may optionally use `nmod:poss` to distinguish non-adpositional possessives.
 
 ~~~ sdparse
 the office of the Chair
@@ -95,6 +118,12 @@ nmod(office-2, Chair-5)
 the Chair 's office
 nmod:poss(office-4, Chair-2)
 ~~~
+
+### Possessives
+
+## Adjectival Modifiers
+
+An `amod` is an adjective modifying the head of a nominal phrase.
 
 ~~~ sdparse
 Sam , the manager
