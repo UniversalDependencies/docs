@@ -186,7 +186,7 @@ pronoun, thus forming a ditransitive clause:
 ~~~ conllu
 # text = Pierre lui a donné un livre.
 # text_en = Pierre gave her a book.
-1	Pierre	Pierre	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	_	Gloss=Pierre
+1	Pierre	Pierre	PROPN	_	Gender=Masc|Number=Sing	4	nsubj	_	Gloss=Pierre
 2	lui	lui	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	iobj	_	Gloss=him/her
 3	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	Gloss=has
 4	donné	donner	VERB	_	Tense=Past|VerbForm=Part	0	root	_	Gloss=given
