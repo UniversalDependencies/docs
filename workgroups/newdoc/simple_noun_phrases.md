@@ -30,17 +30,17 @@ This chapter is structured as follows:
 In the simplest case, a noun phrase consists of a single head word, which is typically a noun, proper noun or pronoun.
 
 ~~~ sdparse
-hon/PRON såg filmen/NOUN \n she saw the-film
+hon/PRON såg/VERB filmen/NOUN \n she saw the-film
 nsubj(såg, hon)
 obj(såg, filmen)
 ~~~
 ~~~ sdparse
-hon/PRON såg Batman/PROPN \n she saw Batman
+hon/PRON såg/VERB Batman/PROPN \n she saw Batman
 nsubj(såg, hon)
 obj(såg, Batman)
 ~~~
 ~~~ sdparse
-hon/PRON såg den/PRON \n she saw it
+hon/PRON såg/VERB den/PRON \n she saw it
 nsubj(såg, hon)
 obj(såg, den)
 ~~~
@@ -68,14 +68,14 @@ Case marking is one of the strategies that languages use to encode the grammatic
 This allows us to analyze the following examples as both having a direct dependency relations from the predicate to the noun phrase filling the (oblique) agent role of a passive, despite the fact that Czech uses a noun in the instrumental case ("kočkou") while Swedish adds a preposition ("av"):
 
 ~~~ sdparse
-pes byl honěn kočkou \n (a/the) cat was chased by (a/the) dog
+pes/NOUN byl/AUX honěn/VERB kočkou/NOUN \n cat was chased by dog
 nsubj:pass(honěn, pes)
 obl(honěn, kočkou)
 aux:pass(honěn, byl)
 ~~~
 
 ~~~ sdparse
-hunden jagades av katten \n the-dog was-chased by the-cat
+hunden/NOUN jagades/NOUN av/ADP katten/NOUN \n the-dog was-chased by the-cat
 nsubj:pass(jagades, hunden)
 case(katten, av)
 obl(jagades, katten)
@@ -90,12 +90,12 @@ This means that prepositional (and postpositional) phrases are treated in UD as 
 While adpositions are normally tagged [ADP](), the tag [PART]() may be more appropriate for case markers that differ from morphological case markers only by being clitics instead of inflectional morphemes. For example, in Ungarinjin (an Australian language), locative case is marked by a phrase-final clitic (Rumsey, 1978; cited in Velupillai, 2012):
 
 ~~~ sdparse
-dambun nininga ra \n camp my LOC
+dambun/NOUN nininga/PRON ra/PART:Case=Loc \n camp my LOC
 nmod:poss(dambun, nininga)
 case(dambun, ra)
 ~~~
 
-The clitic "ra" will be tagged [PART]() and carry the feature <span style="color: blue">Case=Loc</span> feature, whereas ordinary adpositions do not have a [Case]() features.
+The clitic "ra" will be tagged [PART]() and carry the feature <span style="color: blue">Case=Loc</span> feature, whereas ordinary adpositions do not have a [Case]() feature.
 
 ## Determiners
 
