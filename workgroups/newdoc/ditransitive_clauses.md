@@ -303,23 +303,45 @@ similar to French, having `iobj` only for pronouns but not for nouns.</span>
 
 ### Czech
 
-Some Czech verbs allow two objects. Typically, one object is accusative and
-the other is dative; nevertheless, some other combinations are possible, too.
+In Czech (as well as in other Slavic languages and also in German), the giving
+verb takes two arguments, one in the accusative (corresponding to the patient
+or theme), and one in the dative (corresponding to the recipient). Both are
+considered objects in the traditional grammar; however, since the dative is
+not a core case in these languages, it must be labeled [obl]() or [obl:arg](),
+and the clause is not ditransitive.
 
-* _Petr dal Katce knihu._ “Petr gave Katka a book.” (dative + accusative)
-* _Tomáš mě učí matematiku._ “Tomáš teaches me mathematics.” (accusative + accusative)
-* _Muž vyhrožoval sousedovi smrtí._ “A man threatened his neighbor with death.” (dative + instrumental)
+(There are also three-argument verbs where none of the two non-subject
+arguments is accusative. For example, in
+_Muž vyhrožoval sousedovi smrtí._ “A man threatened his neighbor with death.”
+one of the arguments is dative and the other is instrumental.
+Neither dative nor instrumental is a core case, hence the clause is
+intransitive with two oblique arguments.)
 
-The dative-accusative construction can be passivized so that the accusative
-object is promoted to subject, the dative object stays as it is, and the
-former subject disappears (or, rarely, is transformed to instrumental).
-It is thus confirmed that the dative object is less core than the accusative,
-hence the dative should be labeled as indirect.
+There is no difference between nouns and
+pronouns (except for word order, which is restricted for pronouns that are
+clitics, but does not play a role in core argument coding).
 
-* _Kniha byla dána Katce (Petrem)._ “The book was given to Katka (by Petr).”
+* _Petr dal Katce knihu._ “Petr gave Katka a book.”
+* _Petr jí dal knihu._ “Petr gave her a book.”
 
-The verb _učit_ “to teach” is special in that it allows two accusatives: one
-representing the theme (mathematics) and the other the recipient (me). Either
+~~~ conllu
+# text = Petr dal Katce knihu.
+# text_en = Petr gave Katka a book.
+1	Petr	Petr	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	2	nsubj	_	Gloss=Petr
+2	dal	dát	VERB	_	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	Gloss=gave
+3	Katce	Katka	PROPN	_	Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos	2	obl:arg	_	Gloss=to-Katka
+4	knihu	kniha	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	2	obj	_	Gloss=book|SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+~~~
+
+The only Czech verb that is capable of forming ditransitive clauses under the
+UD definition is _učit_ “to teach”, which takes two accusative objects.
+
+* _Tomáš mě učí matematiku._ “Tomáš teaches me mathematics.”
+
+One object
+represents the theme (mathematics) and the other the recipient (me). Either
 one can be omitted and then we have a normal transitive clause with an accusative
 object that can be promoted via passivization. However, if both arguments are
 present in the active clause, it is not possible to promote one of them and
@@ -341,50 +363,6 @@ available but it still sounds clumsy.
 There thus does not seem to be any evidence that one of the accusatives is
 more core than the other. We have an example of a clause with two objects,
 neither of which is indirect.
-
-Finally, in the dative-instrumental construction, the passivization follows
-rules similar to clauses with one non-accusative object: former subject
-disappears but the objects stay untouched. Moreover, if the subject is
-not removed but transformed to an instrumental argument, it is likely that
-the original instrumental argument will be removed instead.
-Yet it is not completely ungrammatical to keep them both (see the example below; but it is
-highly preferred that the two instrumental arguments are not adjacent).
-
-* _Muž vyhrožoval sousedovi smrtí._ “A man threatened his neighbor with death.”
-* _Sousedovi bylo vyhrožováno smrtí._ “The neighbor was threatened with death.”
-* _Sousedovi bylo vyhrožováno mužem._ “The neighbor was threatened by the man.”
-* _Mužem bylo sousedovi vyhrožováno smrtí._ “The neighbor was threatened by the man with death.”
-
-The dative-instrumental construction is one where both objects are clearly
-less core than accusative objects, but none of the two is more or less core
-than the other. Therefore, none of them can be labeled as indirect.
-
-* _Petr dal Katce knihu._ “Petr gave Katka a book.”
-
-~~~ conllu
-# text = Petr dal Katce knihu.
-# text_en = Petr gave Katka a book.
-1	Petr	Petr	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing|Polarity=Pos	2	nsubj	_	Gloss=Petr
-2	dal	dát	VERB	_	Animacy=Anim|Gender=Masc|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	0	root	_	Gloss=gave
-3	Katce	Katka	PROPN	_	Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos	2	iobj	_	Gloss=to-Katka
-4	knihu	kniha	NOUN	_	Case=Acc|Gender=Fem|Number=Sing|Polarity=Pos	2	obj	_	Gloss=book|SpaceAfter=No
-5	.	.	PUNCT	_	_	2	punct	_	Gloss=.
-
-~~~
-
-* _Kniha byla dána Katce Petrem._ “The book was given to Katka by Petr.”
-
-~~~ conllu
-# text = Kniha byla dána Katce Petrem.
-# text_en = The book was given to Katka by Petr.
-1	Kniha	kniha	NOUN	_	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	3	nsubj:pass	_	Gloss=book
-2	byla	být	AUX	_	Gender=Fem|Number=Sing|Polarity=Pos|Tense=Past|VerbForm=Part	3	aux:pass	_	Gloss=was
-3	dána	daný	ADJ	_	Gender=Fem|Number=Sing|Polarity=Pos|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	Gloss=given
-4	Katce	Katka	PROPN	_	Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos	3	iobj	_	Gloss=to-Katka
-5	Petrem	Petr	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing|Polarity=Pos	3	obl:agent	_	Gloss=by-Petr|SpaceAfter=No
-6	.	.	PUNCT	_	_	3	punct	_	Gloss=.
-
-~~~
 
 * _Tomáš mě učí matematiku._ “Tomáš teaches me mathematics.”
 
