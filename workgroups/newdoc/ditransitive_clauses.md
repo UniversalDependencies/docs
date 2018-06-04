@@ -162,34 +162,7 @@ recipient is realized as a pronominal clitic. If it is a full noun phrase,
 its coding will be always oblique (which means, in French as in English, that
 a preposition will be used):
 
-* _céder la place a un semblant d'organisation_ “cede the place to something like an organisation”
-
-~~~ conllu
-# sent_id = fr-ud-train_00963
-# text = L'invraisemblable amateurisme des premiers jours commence tout juste à céder la place a un semblant d'organisation.
-1	L'	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
-2	invraisemblable	invraisemblable	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
-3	amateurisme	amateurisme	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
-4-5	des	_	_	_	_	_	_	_	_
-4	de	de	ADP	_	_	7	case	_	_
-5	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
-6	premiers	premiers	NUM	_	_	7	nummod	_	_
-7	jours	jour	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	_
-8	commence	commencer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-9	tout	tout	ADV	_	_	8	advmod	_	_
-10	juste	juste	ADV	_	_	9	fixed	_	_
-11	à	à	ADP	_	_	12	mark	_	_
-12	céder	céder	VERB	_	VerbForm=Inf	8	xcomp	_	_
-13	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
-14	place	place	NOUN	_	Gender=Fem|Number=Sing	12	obj	_	_
-15	a	à	ADP	_	_	17	case	_	_
-16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
-17	semblant	semblant	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	_
-18	d'	de	ADP	_	_	19	case	_	SpaceAfter=No
-19	organisation	organisation	NOUN	_	Gender=Fem|Number=Sing	17	nmod	_	SpaceAfter=No
-20	.	.	PUNCT	_	_	8	punct	_	_
-
-~~~
+* _Pierre a donné un livre à Isabelle._ “Pierre gave a book to Isabelle.”
 
 ~~~ conllu
 # text = Pierre a donné un livre à Isabelle.
