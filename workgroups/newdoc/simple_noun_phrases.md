@@ -99,19 +99,55 @@ The clitic "ra" will be tagged [PART]() and carry the feature <span style="color
 
 ## Determiners
 
-Nominal heads may be further specified by determiners, which can be roughly divided into three classes:
+Noun phrases headed by nouns often contain determiners, which can be roughly divided into three classes:
 
 * Articles
 * Demonstratives
 * Quantifiers
 
-The determiner ([det]()) relation is used 
+Articles, like English "a(n)" and "the", specify definiteness or related properties. They are obligatory in some languages (at least with some types of nouns), and completely absent in others. Demonstratives, like Latin "hic", "ille" and "ist", anchors the noun phrase deictically and seem to be available in all languages. Quantifiers, like French "tout", "quelque", and "aucun", specify quantity or existence of the referent. 
 
-Examples 
+~~~ sdparse
+the book 
+det(book, the)
+~~~
 
-Not for numerals and possessives (see below).
+~~~ sdparse
+this book 
+det(book, this)
+~~~
+
+~~~ sdparse
+every book
+det(book, every)
+~~~
+
+~~~ sdparse
+all books 
+det(books, all)
+~~~
+
+~~~ sdparse
+all the books 
+det(books, all)
+det(books, the)
+~~~
+
+~~~ sdparse
+all these books 
+det(books, all)
+det(books, these)
+~~~
+
+In many languages, different determiners are in complementary distribution or have special constraints on their cooccurrence and possible order. Regardless of whether a noun phrase contains one or more determiners, the syntactic [det]() relation is used to connect them all directly to the nominal head, as illustrated in the examples above. However, in languages where this is relevant, the subtype [det:predet]() may be used to distinguish determiners that have to precede other determiners (such as "all" in the last two examples above).
+
+**NB:** The [det]() relation is not used for numerals ("three books") nor for possessives ("my books"); see below.
 
 ### Morphological Analysis of Determiners
+
+POSTAG
+
+FEATURE (including agreement)
 
 ## Numerals
 
