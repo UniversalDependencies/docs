@@ -68,7 +68,7 @@ Case marking is one of the strategies that languages use to encode the grammatic
 This allows us to analyze the following examples as both having a direct dependency relations from the predicate to the noun phrase filling the (oblique) agent role of a passive, despite the fact that Czech uses a noun in the instrumental case ("kočkou") while Swedish adds a preposition ("av"):
 
 ~~~ sdparse
-pes/NOUN byl/AUX honěn/VERB kočkou/NOUN \n cat was chased by dog
+pes/NOUN byl/AUX honěn/VERB kočkou/NOUN:Case=Ins \n cat was chased by dog
 nsubj:pass(honěn, pes)
 obl(honěn, kočkou)
 aux:pass(honěn, byl)
