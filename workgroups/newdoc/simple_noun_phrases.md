@@ -103,38 +103,44 @@ Noun phrases headed by nouns often contain determiners, which can be roughly div
 
 * Articles
 * Demonstratives
+* Interrogatives
 * Quantifiers
 
-Articles, like English "a(n)" and "the", specify definiteness or related properties. They are obligatory in some languages (at least with some types of nouns), and completely absent in others. Demonstratives, like Latin "hic", "ille" and "ist", anchors the noun phrase deictically and seem to be available in all languages. Quantifiers, like French "tout", "quelque", and "aucun", specify quantity or existence of the referent. 
+Articles, like English "a(n)" and "the", specify definiteness or related properties. They are obligatory in some languages (at least with some types of nouns), and completely absent in others. Demonstratives, like Latin "hic", "ille" and "ist", anchors the noun phrase deictically and seem to be available in all languages. Interrogatives, like English "which", are used to form noun phrases that can be used in interrogative (and sometimes relative) clauses. Quantifiers, like French "tout", "quelque", and "aucun", specify quantity or existence of the referent. 
 
 ~~~ sdparse
-the book 
+the/DET:PronType=Art book/NOUN
 det(book, the)
 ~~~
 
 ~~~ sdparse
-this book 
+this/DET:PronType=Dem book/NOUN
 det(book, this)
 ~~~
 
 ~~~ sdparse
-every book
+which/DET:PronType=Int book/NOUN
+det(book, which)
+~~~
+
+~~~ sdparse
+every/DET:PronType=Tot book/NOUN
 det(book, every)
 ~~~
 
 ~~~ sdparse
-all books 
+all/DET:PronType=Tot books/NOUN
 det(books, all)
 ~~~
 
 ~~~ sdparse
-all the books 
+all/DET:PronType=Tot the/DET:PronType=Art books/NOUN
 det(books, all)
 det(books, the)
 ~~~
 
 ~~~ sdparse
-all these books 
+all/DET:PronType=Tot these/DET:PronType=Dem books/NOUN 
 det(books, all)
 det(books, these)
 ~~~
@@ -145,10 +151,11 @@ In many languages, different determiners are in complementary distribution or ha
 
 ### Morphological Analysis of Determiners
 
-POSTAG
+Determiners will typically be tagged [DET](), but the tag [PRON]() is also possible for words that are used both as determiners and as full (pronominal) noun phrases and where the pronominal use is predominant. <span style="color: blue">**QUESTION:** Is this the right recommendation?</span>
 
-FEATURE (including agreement)
-
+Regardless of whether determiners are tagged [DET]() or [PRON](), they should normally carry a [PronType]() feature indicating the type of determiner (`Art` for articles, `Dem` for demonstratives, `Int`for interrogatives, and so on). Depending on the language, determiners may also carry additional features that indicate agreement with the head noun,
+such as [Gender](), [Number](), and [Case]().
+ 
 ## Numerals
 
 A `nummod` is a numeral modifying the head of a nominal phrase.
