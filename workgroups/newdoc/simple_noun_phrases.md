@@ -36,7 +36,7 @@ obj(såg, den)
 
 In all of the Swedish examples above, the subject is the pronoun "hon" (she), while the object is respectively the noun "filmen" (the-movie), the proper noun "Batman", and the pronoun "den" (it). 
 
-### Morphological Analysis
+### Morphological Analysis of Nominal Heads
 
 Nominal head words should be tagged [NOUN](), [PROPN](), or [PRON](). 
 
@@ -45,14 +45,34 @@ Depending on the language, nominal head words may in addition carry a number of 
 * For NOUN: [Case](), [Definite](), [Gender](), [Number]()
 * For PRON: [Case](), [Definite](), [Gender](), [Number](), [Person](), [Poss](), [PronType](), [Reflex]()
 
-For example, in the Swedish examples above, we find the following morphological features:
+For example, in the Swedish examples above, we find the following morphological analyses:
 
 * For "filmen" (the-movie): <span style="color: blue">NOUN + Case=Nom\|Definite=Yes\|Gender=Com\|Number=Sing</span>
+* For "Batman" (the-movie): <span style="color: blue">NOUN + Case=Nom</span>
 * For "den": <span style="color: blue">PRON + Definite=Yes\|Gender=Com\|Number=Sing\|Person=3\|PronType=Prs</span>
 
 ## Case Marking 
 
-Treats adpositions as case markers to achieve parallelism with structures involving morphological and syntactic case markers.
+Case marking is one of the strategies that languages use to encode the grammatical function of a noun phrase. Case marking can be realized through morphological inflection (captured by the feature [Case]() mentioned above) or by various kinds of clitics or adpositions (prepositions and postpositions). In the interest of cross-linguistic parallelism, UD takes a radical approach and treats all adpositions as case markers, attaching them to the nominal head with the [case]() relation.
+This allows us to analyze the three following examples as all having direct dependency relations from the predicate to the noun phrase filling the (oblique) agent role in a passivized sentence:
+
+~~~ sdparse
+pes/Case=Nom byl honěn kočkou/Case=Ins \n (a/the) cat was chased by (a/the) dog
+nsubj:pass(3, 1)
+obl(3, 4)
+aux:pass(3, 2)
+~~~
+
+~~~ sdparse
+hunden jagades av katten \n the-dog was-chased by the-cat
+nsubj:pass(2, 1)
+case(4, 3)
+obl(2, 4)
+~~~
+
+This means that prepositional (and postpositional) phrases are treated in UD as extended noun phrases, where the nominal head is the referential core while the adposition is a functional marker. This can be seen as an instantiation of Tesnière's notion of a dissociated nucleus (Tesnière, 1959), and does not entail that the adposition is a syntactic dependent of the noun in the narrow sense.
+
+<span style="color: blue">**TO DO:** Provide links to a central bibliography?</span>
 
 ## Determiners
 
