@@ -58,16 +58,16 @@ This allows us to analyze the following examples as both having a direct depende
 
 ~~~ sdparse
 pes byl honěn kočkou \n (a/the) cat was chased by (a/the) dog
-nsubj:pass(3, 1)
-obl(3, 4)
-aux:pass(3, 2)
+nsubj:pass(honěn, pes)
+obl(honěn, kočkou)
+aux:pass(honěn, byl)
 ~~~
 
 ~~~ sdparse
 hunden jagades av katten \n the-dog was-chased by the-cat
-nsubj:pass(2, 1)
-case(4, 3)
-obl(2, 4)
+nsubj:pass(jagades, hunden)
+case(katten, av)
+obl(jagades, katten)
 ~~~
 
 This means that prepositional (and postpositional) phrases are treated in UD as extended noun phrases, where the nominal head is the referential core while the adposition is a functional marker. This can be seen as an instantiation of Tesnière's notion of a dissociated nucleus (Tesnière, 1959) and does not entail that the adposition is seen as a syntactic dependent of the noun in the narrow sense.
