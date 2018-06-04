@@ -197,7 +197,14 @@ pronoun, thus forming a ditransitive clause:
 ~~~
 
 We have two different constructions depending on whether the recipient is a
-pronoun or a noun.
+pronoun or a noun. This alone could be an argument for saying that _lui_ is
+the indirect object ([iobj]()) and _un livre_ is the direct object ([obj]()).
+Another argument is that only the direct object can be promoted to subject in
+a passive construction:
+
+* _Un livre lui a été donné._ “A book was given to her.” _(*Elle a été donnée un livre.)_
+
+<span style="color:red">Joakim, please check that the above is correct.</span>
 
 
 
