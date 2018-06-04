@@ -11,14 +11,15 @@ Noun phrases are a fundamental type of linguistic structure that we expect to fi
 * Noun phrases with clausal modifiers
 * Apposition and flat structures in noun phrases (names, titles)
 * Elliptical noun phrases 
-<span font="color red">TO DO: Decide on groupings and provide links to later chapters.</span>
+
+<span style="color: blue">**TO DO:** Decide on groupings and provide links to later chapters.</span>
 
 ## Nominal Heads
 
 In the simplest case, a noun phrase consists of a single head word, which is typically a noun, proper noun or pronoun.
 
 ~~~ sdparse
-hon/PRON såg filmen/NOUN . \n she saw the-film
+hon/PRON såg filmen/NOUN \n she saw the-film
 nsubj(såg, hon)
 obj(såg, filmen)
 ~~~
@@ -46,8 +47,8 @@ Depending on the language, nominal head words may in addition carry a number of 
 
 For example, in the Swedish examples above, we find the following morphological features:
 
-* For "filmen" (the-movie): NOUN + Case=Nom|Definite=Yes|Gender=Com|Number=Sing
-* For "den": PRON + Definite=Yes|Gender=Com|Number=Sing|Person=3|PronType=Prs
+* For "filmen" (the-movie): <span style="color: blue">NOUN + Case=Nom\|Definite=Yes\|Gender=Com\|Number=Sing</span>
+* For "den": <span style="color: blue">PRON + Definite=Yes\|Gender=Com\|Number=Sing\|Person=3\|PronType=Prs</span>
 
 ## Case Marking 
 
