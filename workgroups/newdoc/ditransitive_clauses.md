@@ -178,6 +178,27 @@ a preposition will be used):
 
 ~~~
 
+However, the third argument will be coded as core argument if it is a personal
+pronoun, thus forming a ditransitive clause:
+
+* _Pierre lui a donné un livre._ “Pierre gave her a book.”
+
+~~~ conllu
+# text = Pierre lui a donné un livre.
+# text_en = Pierre gave her a book.
+1	Pierre	Pierre	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	_	Gloss=Pierre
+2	lui	lui	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	4	iobj	_	Gloss=him/her
+3	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	Gloss=has
+4	donné	donner	VERB	_	Tense=Past|VerbForm=Part	0	root	_	Gloss=given
+5	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	Gloss=a
+6	livre	livre	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	Gloss=book|SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+
+~~~
+
+We have two different constructions depending on whether the recipient is a
+pronoun or a noun.
+
 
 
 <!---------------------------------------------------------------------------->
