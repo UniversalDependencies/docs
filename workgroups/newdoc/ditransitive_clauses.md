@@ -27,10 +27,10 @@ For more details on the distinction between core and oblique arguments, see
 
 * [Coding strategies](#coding-strategies)
   * [English](#english)
+  * [French](#french)
   * [Spanish](#spanish)
   * [Czech](#czech)
   * [Basque](#basque)
-  * [Yidiɲ](#yidiɲ)
   * [Tagalog](#tagalog)
   * [Plains Cree](#plains-cree)
 * [Summary of relations](#summary-of-relations)
