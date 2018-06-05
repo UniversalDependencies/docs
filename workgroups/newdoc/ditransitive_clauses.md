@@ -277,8 +277,11 @@ preposition _(a)_ but it can be substituted by a dative pronoun (_le, les,_
 both genders), which appears without the preposition.
 However, the situation in Spanish is different in two aspects:
 
-* _a_ is core coding of direct object
-* clitic doubling - if clitic is core and noun is noncore, then clitic should be iobj?
+* Since the preposition _a_ is used to encode animate direct objects, one could
+  argue that it is one of the core coding methods, and thus the recipient
+  should not be considered oblique if it appears with this preposition.
+* Clitic doubling – both the pronoun and the prepositional phrase can occur in
+  the same clause.
 
 Some Spanish verbs allow two objects:
 
