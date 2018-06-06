@@ -277,7 +277,7 @@ preposition _(a)_ but it can be substituted by a dative pronoun (_le, les,_
 both genders), which appears without the preposition.
 However, the situation in Spanish is different in two aspects:
 
-* Since the preposition _a_ is used to encode animate direct objects, one could
+* Since the preposition _a_ is also used to encode animate direct objects, one could
   argue that it is one of the core coding methods, and thus the recipient
   should not be considered oblique if it appears with this preposition.
 * Clitic doubling – both the pronoun and the prepositional phrase can occur in
@@ -370,6 +370,22 @@ Hence the indirect object is less core than the direct object.
 8	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
 ~~~
+
+Similarly to French, the dative pronoun can occur with verbs that only license
+one argument, such as _hablar_ “to speak”.
+<span style="color:red">We could rule that the dative pronoun be labeled
+`iobj` even in these cases, as we did in French. However, the corresponding
+noun phrase in French would be oblique. In Spanish, it is a normal direct
+object (provided that it is animate) because the preposition _a_ is allowed
+with animate direct objects in Spanish:</span>
+
+* [fr] _Je lui parle. (Je parle à Pierre.)_ “I speak to him. (I speak to Pierre.)”
+* [es] _Le hablo. (Hablo a Pedro.)_ “I speak to him. (I speak to Pedro.)”
+
+<span style="color:red">Either this is fine with us, but then we perhaps also
+want to treat these datives as direct objects if they are pronouns or if the
+language is French. Or we say that if the _a_-phrase alternates with a dative
+pronoun, it is oblique.</span>
 
 
 
