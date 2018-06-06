@@ -385,7 +385,10 @@ with animate direct objects in Spanish:</span>
 <span style="color:red">Either this is fine with us, but then we perhaps also
 want to treat these datives as direct objects if they are pronouns or if the
 language is French. Or we say that if the _a_-phrase alternates with a dative
-pronoun, it is oblique.</span>
+pronoun, it is oblique.
+Or maybe we want to say that dative arguments are core arguments neither in
+Spanish, nor in French. This would also save us the necessity to explain why
+they are not core in German and Czech.</span>
 
 
 
