@@ -283,21 +283,43 @@ However, the situation in Spanish is different in two aspects:
 * Clitic doubling – both the pronoun and the prepositional phrase can occur in
   the same clause.
 
-Some Spanish verbs allow two objects:
+In fact, the appearance of the preposition _a_ in direct objects is rather
+exceptional both in Spanish and in the broader context of Romance languages.
+The preposition is not used with inanimate direct objects, and it is used
+frequently with various types of adjuncts. Therefore we do not infer that
+prepositional phrases denoting recipients are core arguments. We treat them
+as oblique arguments, as in French and other related languages. Also in
+parallel with these languages, we reserve the [iobj]() label for the dative
+pronouns _le, les._
+
+<span style="color:red">TBD: Now we have a new problem with clitic doubling.
+Previously, if there were both the pronoun and the _a_-phrase, we would make
+the _a_-phrase `iobj` and the pronoun [expl](). But now the pronoun is core
+and the _a_-phrase is oblique. Shouldn't then the pronoun have higher priority
+and receive `iobj`? If so, what should be the _a_-phrase then?
+`Dislocated`?</span>
 
 * _Pedro dio un libro a Isabel._ “Pedro gave Isabel a book.”
 * _Pedro le dio un libro a Isabel._ “Pedro gave Isabel a book.”
 * _Pedro le dio un libro._ “Pedro gave her a book.”
 * _Santiago me enseña las matemáticas._ “Santiago teaches me mathematics.”
 
-One of the objects typically corresponds to the recipient semantic role and
-it most likely refers to a person, therefore it will be marked by the
-preposition _a_ (if it is realized as a full noun phrase). If it is represented
-by a pronominal clitic, it will be in the dative form (identical with the
-accusative except for the third person, which is _le, les,_ and does not
-distinguish gender). It is not uncommon that both the noun phrase and the
+It is not uncommon that both the noun phrase and the
 clitic are present, as in _Pedro <b>le</b> dio un libro <b>a Isabel</b>._
 (this is known as “clitic doubling”).
+
+~~~ conllu
+# text = Pedro dio un libro a Isabel.
+# text_en = Pedro gave Isabel a book.
+1	Pedro	Pedro	PROPN	_	Gender=Masc|Number=Sing	2	nsubj	_	Gloss=Pedro
+2	dio	dar	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Gloss=gave
+3	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	Gloss=a
+4	libro	libro	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	Gloss=book
+5	a	a	ADP	_	_	6	case	_	Gloss=to
+6	Isabel	Isabel	PROPN	_	Gender=Fem|Number=Sing	2	obl:arg	_	Gloss=Isabel|SpaceAfter=No
+7	.	.	PUNCT	_	_	2	punct	_	Gloss=.
+
+~~~
 
 ~~~ conllu
 # text = Pedro le dio un libro a Isabel.
@@ -308,7 +330,7 @@ clitic are present, as in _Pedro <b>le</b> dio un libro <b>a Isabel</b>._
 4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Gloss=a
 5	libro	libro	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	Gloss=book
 6	a	a	ADP	_	_	7	case	_	Gloss=to
-7	Isabel	Isabel	PROPN	_	Gender=Fem|Number=Sing	3	iobj	_	Gloss=Isabel|SpaceAfter=No
+7	Isabel	Isabel	PROPN	_	Gender=Fem|Number=Sing	3	obl:arg	_	Gloss=Isabel|SpaceAfter=No
 8	.	.	PUNCT	_	_	3	punct	_	Gloss=.
 
 ~~~
@@ -325,46 +347,29 @@ clitic are present, as in _Pedro <b>le</b> dio un libro <b>a Isabel</b>._
 
 ~~~
 
-The object that is marked by the preposition _a_ or by the dative case of the
-pronoun (i.e., the one with the recipient role) is labeled as an indirect
-object; the unmarked/accusative object is direct. This is in line with the
-UD v2 guidelines: if the clause is passivized, the direct object is promoted
+There is no doubt that the dative argument is the one that should be labeled
+as indirect. First, it is optional because it can be substituted by a
+prepositional phrase and the clause then becomes monotransitive. Second,
+if the clause is passivized, the direct object is promoted
 to the subject relation, while the indirect object stays untouched.
 Hence the indirect object is less core than the direct object.
 
 * _Un libro fue dado a Isabel por Pedro._ “A book was given to Isabel by Pedro.”
+* _Un libro le fue dado por Pedro._ “A book was given her by Pedro.”
 
 ~~~ conllu
-# text = Un libro fue dado a Isabel por Pedro.
-# text_en = A book was given to Isabel by Pedro.
+# text = Un libro le fue dado por Pedro.
+# text_en = A book was given her by Pedro.
 1	Un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	Gloss=a
-2	libro	libro	NOUN	_	Gender=Masc|Number=Sing	4	nsubj:pass	_	Gloss=book
-3	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	Gloss=was
-4	dado	dar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Gloss=given
-5	a	a	ADP	_	_	6	case	_	Gloss=to
-6	Isabel	Isabel	PROPN	_	Gender=Fem|Number=Sing	4	iobj	_	Gloss=Isabel
-7	por	por	ADP	_	_	8	case	_	Gloss=by
-8	Pedro	Pedro	PROPN	_	Gender=Masc|Number=Sing	4	obl:agent	_	Gloss=Pedro|SpaceAfter=No
-9	.	.	PUNCT	_	_	4	punct	_	Gloss=.
+2	libro	libro	NOUN	_	Gender=Masc|Number=Sing	5	nsubj:pass	_	Gloss=book
+3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	5	iobj	_	Gloss=her
+4	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	Gloss=was
+5	dado	dar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	Gloss=given
+6	por	por	ADP	_	_	7	case	_	Gloss=by
+7	Pedro	Pedro	PROPN	_	Gender=Masc|Number=Sing	5	obl:agent	_	Gloss=Pedro|SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	Gloss=.
 
 ~~~
-
-<span style="color: blue"><b>Joakim:</b> Why do we treat the recipient as core
-in Spanish but not in English when they both have prepositions? Is this because
-prepositions are found with direct objects in Spanish but not in English? And
-what would we then do in French, where the recipient takes a prepositions but
-where prepositions are never used with prepositions? Same as English? It would
-also be possible (at least in French) to argue for a mixed system, where full
-noun phrases are oblique (because they take a preposition) but pronouns are
-core (because they have dative case).</span>
-
-<span style="color:green"><b>Dan:</b> One option is to say that the preposition
-_a_ together with an animate noun phrase counts as core coding in Spanish,
-therefore the recipient can be considered core (unlike phrases with _to_ in
-English). Another option is to say that the marking of full-noun animate direct
-objects is rather exceptional in the wider context of Romance languages, and
-that we do not extend it to indirect objects. Spanish will then become more
-similar to French, having `iobj` only for pronouns but not for nouns.</span>
 
 
 
