@@ -21,6 +21,7 @@ udver: '2'
 * Documentation of tags, features and relations
   * [POS tags](u/pos/index.html) ([single document](u/pos/all.html))
   * [Features](u/feat/index.html) ([single document](u/feat/all.html))
+    * [Layered features](u/overview/feat-layers.html)
     * [Language-specific features](ext-feat-index.html)
   * [Syntactic relations](u/dep/index.html) ([single document](u/dep/all.html))
     * [Relation subtypes](ext-dep-index.html)
