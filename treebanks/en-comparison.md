@@ -48,7 +48,7 @@ udver: '2'
   <tr>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 4624 sentences and 88090 tokens.</li>
+      <li>This corpus contains 5124 sentences and 97681 tokens.</li>
       </ul>
     </td>
     <td width="16%" valign="top">
@@ -3413,9 +3413,9 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (1220)</li>
+            <li>VERB--NOUN (1349)</li>
             <li>VERB--NOUN-ADP(_) (4)</li>
-            <li>VERB--PRON (5298)</li>
+            <li>VERB--PRON (5889)</li>
             <li>VERB--PRON-ADP(_) (2)</li>
           </ul>
         </li>
@@ -3693,8 +3693,8 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB--NOUN (13)</li>
-            <li>VERB--PRON (164)</li>
+            <li>VERB--NOUN (14)</li>
+            <li>VERB--PRON (190)</li>
           </ul>
         </li>
       </ul>

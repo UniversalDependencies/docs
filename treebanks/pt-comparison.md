@@ -131,8 +131,8 @@ udver: '2'
       <h3>Tags</h3>
       
       <ul>
-      <li>This corpus uses 14 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>VERB</a>, <a>X</a></li>
-      <li>This corpus does not use the following tags: SCONJ, INTJ, SYM</li>
+      <li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
+      <li>This corpus does not use the following tags: SCONJ, INTJ</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -221,7 +221,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): _</li>
+      <li>This corpus contains 62 lemmas tagged as auxiliaries (AUX): _, acabar, andar, apelidar, arar, botar, cansar, chamar, chegar, começar, configurar, conseguir, considerar, constituir, continuar, costumar, deixar, demonstrar, denominar, designar, dever, dizer, eleger, encontrar, entrar, estar, fazer, ficar, haver, iniciar, instituir, intitular, ir, morrer, mostrar, nascer, nomear, ordenar, parar, parecer, passar, permanecer, persistir, poder, precisar, pretender, proclamar, representar, sagrar, seguir, sentir, ser, significar, tentar, ter, terminar, tocar, tornar, vencer, vir, virar, voltar</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -238,7 +238,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: _</li>
+      <li>Out of the above, 58 lemmas occurred sometimes as AUX and sometimes as VERB: _, acabar, andar, apelidar, botar, chamar, chegar, começar, configurar, conseguir, considerar, constituir, continuar, costumar, deixar, demonstrar, denominar, designar, dever, dizer, eleger, encontrar, entrar, estar, fazer, ficar, haver, iniciar, instituir, ir, morrer, mostrar, nascer, nomear, ordenar, parar, parecer, passar, permanecer, persistir, poder, precisar, pretender, proclamar, representar, seguir, sentir, ser, significar, tentar, ter, terminar, tocar, tornar, vencer, vir, virar, voltar</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -1885,7 +1885,7 @@ udver: '2'
       <h3>Auxiliary Verbs and Copula</h3>
       
       <ul>
-      <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
+      <li>This corpus uses 36 lemmas as copulas (<a>cop</a>). Examples: ser, _, tornar, considerar, chamar, virar, denominar, eleger, estar, intitular, nomear, designar, representar, sagrar, dizer, fazer, morrer, ordenar, parecer, significar, apelidar, configurar, constituir, demonstrar, encontrar, entrar, ferido, instituir, menino, mostrar, motivo, nascer, permanecer, proclamar, sentir, vencer.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -1907,8 +1907,8 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
-      <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: _.</li>
+      <li>This corpus uses 33 lemmas as auxiliaries (<a>aux</a>). Examples: _, ter, ir, estar, dever, poder, haver, vir, acabar, passar, começar, continuar, voltar, chegar, deixar, costumar, ficar, ser, seguir, parar, precisar, cansar, conseguir, tentar, terminar, andar, botar, encontrar, iniciar, parecer, persistir, tocar, tornar.</li>
+      <li>This corpus uses 6 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: ser, _, ficar, arar, poder, ter.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -1957,7 +1957,7 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (6627)</li>
+            <li>VERB--NOUN (6583)</li>
             <li>VERB--NOUN-ADP(_) (20)</li>
             <li>VERB--NOUN-ADP(de) (3)</li>
             <li>VERB--PRON (3594)</li>
@@ -2020,11 +2020,12 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (8895)</li>
-            <li>VERB--NOUN-ADP(_) (42)</li>
+            <li>VERB--NOUN (8839)</li>
+            <li>VERB--NOUN-ADP(_) (41)</li>
             <li>VERB--NOUN-ADP(_)-ADP(_) (1)</li>
             <li>VERB--NOUN-ADP(a) (1)</li>
             <li>VERB--NOUN-ADP(de) (2)</li>
+            <li>VERB--NOUN-ADP(rede) (1)</li>
             <li>VERB--PRON (1307)</li>
             <li>VERB--PRON-ADP(_) (3)</li>
           </ul>
@@ -2093,7 +2094,7 @@ udver: '2'
       <h3>Reflexive Verbs</h3>
       
       <ul>
-        <li>This corpus contains 11 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: _ se, _ me, _ 's, _ back, _ cá, _ in, _ nos, _ se á, _ se ão, _ up, _ água</li>
+        <li>This corpus contains 304 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: _ se, tornar se, encontrar se, estender se, referir se, tratar se, destacar se, localizar se, manter se, fazer se, dizer se, passar se, recusar se, ver se, dar se, comunicar se, dever se, realizar se, situar se, ter se, aplicar se, dedicar se, desenvolver se, espalhar se, esperar se, mudar se, saber se, transformar se, aproveitar se, arrepender se, classificar se, formar se, lembrar se, manifestar se, mostrar se, recuperar se, repetir se, sentir se, apropriar se, assemelhar se, campeão se, comportar se, concentrar se, conhecer se, converter se, deparar se, distinguir se, instalar se, limitar se, negar se</li>
       </ul>
     </td>
     <td width="33%" valign="top">

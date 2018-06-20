@@ -40,7 +40,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 1000 sentences and 22957 tokens.</li>
+      <li>This corpus contains 1000 sentences and 16584 tokens.</li>
       </ul>
     </td>
   </tr>
@@ -57,7 +57,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>All tokens in this corpus are followed by a space.</li>
+      <li>This corpus contains 4238 tokens (26%) that are not followed by a space.</li>
       </ul>
     </td>
   </tr>
@@ -91,7 +91,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 8 types of words that contain both letters and punctuation. Examples: B.C., 's, G.D.P., Thought', Z., Zettel’s, n't, 이다.</li>
+      <li>This corpus contains 13 types of words that contain both letters and punctuation. Examples: %를, %가, B.C., %에, %의, 's, '수, G.D.P., Thought', Z., Zettel’s, n't, 이다.</li>
       </ul>
     </td>
   </tr>
@@ -135,8 +135,8 @@ udver: '2'
       <h3>Tags</h3>
       
       <ul>
-      <li>This corpus uses 12 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADV</a>, <a>AFFIX</a>, <a>CONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PRT</a>, <a>PUNCT</a>, <a>VERB</a>, <a>X</a></li>
-      <li>This corpus does not use the following tags: PROPN, AUX, ADP, SCONJ, CCONJ, PART, INTJ, SYM</li>
+      <li>This corpus uses 13 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>VERB</a>, <a>X</a></li>
+      <li>This corpus does not use the following tags: ADP, SCONJ, INTJ, SYM</li>
       </ul>
     </td>
   </tr>
@@ -153,6 +153,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
+      <li>This corpus contains 101 word types tagged as particles (PART): 가, 가르치기보다, 거둠으로써, 고, 과, 까지, 나뉘어졌는가를, 나는군요, 나왔나요, 내리겠다고, 높아진다고, 는, 다녔다고, 달라고, 대해서는, 도, 돌지만, 돕는다고, 되기를, 되기에, 된다고, 됨으로써, 됨은, 들, 떠나겠다고, 띤다고, 라고, 로, 를, 마다, 만, 만든다고, 만들었다고, 만들지는, 말고를, 말라고, 물었다고, 믿지는, 바라요, 밖에, 벌어졌다고, 보기로, 보냄으로써, 보다, 보였다고, 보지도, 뿐, 사라지지는, 세움으로써, 솟구침이, 쉰다고, 싸웠다고, 쓰기도, 쓰기로, 쓰라고, 아는지와, 않겠다고, 않기로, 않는다고, 않았어요, 알면서도, 애먹지도, 얻었다고, 없앤다고, 에, 에게, 에서, 열기로, 와, 요, 위해서는, 으로, 은, 을, 의, 이, 이라고, 일어나지는, 임하면서도, 입는데도, 있는지에, 있다고, 있음을, 좋겠어요, 좋아하지, 좋아했어요, 주기를, 주어서는, 즐겼다고, 찾아갔어요, 처럼, 친다고, 커졌다고, 통해서도, 틀렸다고, 한다고, 할지에, 했는지도, 했다고, 했을지도, 화도</li>
       </ul>
     </td>
   </tr>
@@ -169,7 +170,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 1 lemmas tagged as pronouns (PRON): _</li>
+      <li>This corpus contains 28 lemmas tagged as pronouns (PRON): _, 거기, 그, 그것, 그곳, 그녀, 그들, 나, 내, 누구, 당신, 무엇, 어디, 언제, 여기, 여러분, 우리, 이, 이것, 이것들, 이곳, 이곳들, 이들, 자기, 자신, 자신들, 저, 제</li>
       </ul>
     </td>
   </tr>
@@ -186,7 +187,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 1 lemmas tagged as determiners (DET): _</li>
+      <li>This corpus contains 3 lemmas tagged as determiners (DET): _, 있는가, 총</li>
       </ul>
     </td>
   </tr>
@@ -220,7 +221,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 0 lemmas tagged as auxiliaries (AUX): </li>
+      <li>This corpus contains 1 lemmas tagged as auxiliaries (AUX): _</li>
       </ul>
     </td>
   </tr>
@@ -237,6 +238,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
+      <li>Out of the above, 1 lemmas occurred sometimes as AUX and sometimes as VERB: _</li>
       </ul>
     </td>
   </tr>
@@ -253,7 +255,48 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus does not use the VerbForm feature.</li>
+      <li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Fin
+        <ul>
+          <li>ADJ: 있다, 있었다, 아니다, 있다고, 없었다, 없다, 같다, 않다, 상관, 아니었다</li>
+          <li>AUX: 이다, 이었다, 이라, 였다, 라, 가, 인지, 인가, 일지, 였는지</li>
+          <li>DET: 있는가, 아닌가, 어떠한가, 어떤가, 있겠는가, 있는가를</li>
+          <li>PART: 있다고, 달라고, 된다고, 한다고, 말라고, 않는다고, 않았어요, 나뉘어졌는가를, 나는군요, 나왔나요</li>
+          <li>VERB: 있다, 되었다, 한다, 했다, 않았다, 못했다, 받았다, 된다, 밝혔다, 일어났다</li>
+        </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Ger
+        <ul>
+          <li>ADJ: 그렇기, 높기, 그럼에, 아니기, 엄청나기, 없기, 없었기, 있기, 놀랍기는, 심각함은</li>
+          <li>AUX: 이기, 였음, 였기, 이었기, 이었음</li>
+          <li>PART: 있음을, 쓰기도, 않기로, 가르치기보다, 거둠으로써, 되기를, 되기에, 됨으로써, 됨은, 보기로</li>
+          <li>VERB: 만들기, 있기, 있었기, 벗어나기, 하기, 가기, 가하기, 갖기, 거두기, 그리기</li>
+        </ul>
+        </li>
       </ul>
     </td>
   </tr>
@@ -298,7 +341,9 @@ udver: '2'
 
     </td>
     <td width="33%" valign="top">
-
+      <ul>
+        <li><a>Number</a></li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -309,7 +354,143 @@ udver: '2'
 
     </td>
     <td width="33%" valign="top">
+      <ul>
+        <li>Plur
+          <ul>
+            <li>NOUN: 사람들이, 사람들에게, 사람들의, 투자자들이, 사람들은, 원주민들이, 의원들에게, 강대국들은, 개입들, 건물들</li>
+            <li>PRON: 그들은, 그들의, 그들이, 이들, 이들은, 이들의, 이들이, 자신들의, 그들과, 너희들</li>
+            <li>PROPN: 로마인들은, 아메리카인들, 가나안인들의, 그리스인들은, 멕시코인들에게, 미국인들의, 세파르디인들을, 유대인들의, 유럽인들은, 유럽인들이</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
 
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Case</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Acc
+          <ul>
+            <li>ADJ-Fin: 쌀쌀한지를</li>
+            <li>ADJ-Ger: 있기를</li>
+            <li>DET-Fin: 있는가를</li>
+            <li>NOUN: 것을, 영향을, 모습을, 일을, 걸, 역할을, %를, 강을, 승리를, 시간을</li>
+            <li>NUM: 하나를</li>
+            <li>PART: 를, 을, 있음을, 나뉘어졌는가를, 되기를, 말고를, 주기를</li>
+            <li>PART-Fin: 나뉘어졌는가를, 말고를</li>
+            <li>PART-Ger: 있음을, 되기를, 주기를</li>
+            <li>PRON: 이를, 그것을, 그를, 우리를, 그녀를, 그곳을, 나를, 이들을</li>
+            <li>PROPN: 남극을, 모라비아를, 영국을, 지중해를, 테르모필레를, Medal를, 광저우를, 그리스를, 대서양을, 독일을</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Advb
+          <ul>
+            <li>ADJ-Ger: 그럼에, 아름다움에</li>
+            <li>DET: 총으로</li>
+            <li>NOUN: 때문에, 것으로, 월에, 년에, 사이에, 방식으로, 정도로, 지역에서, 사람들에게, 처음으로</li>
+            <li>NUM: 50에, 만에, 백만에서, 하나에는, 하나와</li>
+            <li>PART: 에, 에서, 와, 로, 과, 처럼, 보다, 않기로, 에게, 으로</li>
+            <li>PART-Fin: 있는지에, 할지에</li>
+            <li>PART-Ger: 않기로, 가르치기보다, 거둠으로써, 되기에, 됨으로써, 보기로, 보냄으로써, 세움으로써, 쓰기로, 열기로</li>
+            <li>PRON: 그곳에서, 그녀에게, 여기에서, 이것으로, 이로, 그것에, 그로써, 그에게, 우리에게, 이와</li>
+            <li>PROPN: 미국에, 영국에서, 글래스고에서, 스위스에서, 아프리카에서, 알래스카에, 알프스에, BBC에게, BBC에서, CNN에</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Comp
+          <ul>
+            <li>NOUN: 게, 대통령이, 도움이, 것이, 대상이, 도구가, 계획이, 곳은, 공간이, 공급원이</li>
+            <li>PART: 이</li>
+            <li>PRON: 누가</li>
+            <li>PROPN: 라스티슬라프가, 총무가</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Gen
+          <ul>
+            <li>NOUN: 지역의, 명의, 개의, 다수의, 사이의, 시대의, 최고의, 최초의, 국가의, 사람들의</li>
+            <li>PART: 의</li>
+            <li>PRON: 자신의, 그의, 그녀의, 그들의, 이들의, 내, 자신들의, 나의, 여러분의, 우리의</li>
+            <li>PROPN: 중국의, 영국의, 마케도니아의, 유럽의, 태국의, 히치콕의, 더피의, 도스의, 러시아의, 로마의</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Nom
+          <ul>
+            <li>ADJ-Fin: 있을지는</li>
+            <li>ADJ-Ger: 놀랍기는, 심각함은</li>
+            <li>NOUN: 것이, 것은, 정부는, 명이, 사람들이, 사람이, 경찰은, 이유는, 가능성이, 게</li>
+            <li>NUM: 하나는, 1은</li>
+            <li>PART: 는, 가, 은, 이, 됨은, 솟구침이</li>
+            <li>PART-Ger: 됨은, 솟구침이</li>
+            <li>PRON: 그는, 그녀는, 나는, 그것은, 그들은, 이는, 그녀가, 자신이, 그가, 이것은</li>
+            <li>PROPN: 미시마는, 블런트는, 스탈린은, 심괄은, 윈스턴은, 프랑스는, 가이어는, 그리스는, 디즈니는, 라이트는</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -364,7 +545,26 @@ udver: '2'
 
     </td>
     <td width="33%" valign="top">
+      <ul>
+        <li><a>Polarity</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
 
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Neg
+          <ul>
+            <li>ADV: 안, 못</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -408,7 +608,9 @@ udver: '2'
 
     </td>
     <td width="33%" valign="top">
-
+      <ul>
+        <li><a>Mood</a></li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -419,7 +621,14 @@ udver: '2'
 
     </td>
     <td width="33%" valign="top">
-
+      <ul>
+        <li>Imp
+          <ul>
+            <li>PART-Fin: 달라고, 말라고, 쓰라고</li>
+            <li>VERB-Fin: 떨어뜨려라, 합시다</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -430,7 +639,127 @@ udver: '2'
 
     </td>
     <td width="33%" valign="top">
+      <ul>
+        <li>Ind
+          <ul>
+            <li>ADJ-Fin: 있다, 있었다, 아니다, 있다고, 없었다, 없다, 같다, 않다, 아니었다, 있습니다</li>
+            <li>AUX-Fin: 이다, 이었다, 이라, 였다, 라, 이다.</li>
+            <li>PART-Fin: 있다고, 된다고, 한다고, 않는다고, 내리겠다고, 높아진다고, 다녔다고, 돕는다고, 떠나겠다고, 띤다고</li>
+            <li>VERB-Fin: 있다, 되었다, 한다, 했다, 않았다, 못했다, 받았다, 된다, 밝혔다, 일어났다</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
 
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Tense</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Fut
+          <ul>
+            <li>ADJ: 있을</li>
+            <li>PART-Fin: 내리겠다고, 떠나겠다고, 않겠다고</li>
+            <li>VERB: 될, 일어날, 나갈, 날, 내릴, 늦추어질, 다가올, 돌아올, 드러낼, 만들</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Past
+          <ul>
+            <li>ADJ: 있었다, 없었다, 아니었다, 없었던, 있던, 있었던, 있었으며, 갑갑했던, 같았다, 많았다</li>
+            <li>ADJ-Fin: 있었다, 없었다, 아니었다, 같았다, 많았다, 분분했다, 비슷했다, 않았다, 없었다고, 있었다고</li>
+            <li>ADJ-Ger: 있었기</li>
+            <li>AUX: 이었다, 였다, 이었던, 였고, 였던, 였으며, 이었고, 이었는데, 이었으며, 였기</li>
+            <li>AUX-Fin: 이었다, 였다, 였는지, 였어</li>
+            <li>AUX-Ger: 였기, 이었기, 이었음</li>
+            <li>PART: 않았어요, 나뉘어졌는가를, 나는군요, 나왔나요, 만들었다고, 물었다고, 벌어졌다고, 보였다고, 싸웠다고, 얻었다고</li>
+            <li>PART-Fin: 않았어요, 나뉘어졌는가를, 나는군요, 나왔나요, 만들었다고, 물었다고, 벌어졌다고, 보였다고, 싸웠다고, 얻었다고</li>
+            <li>VERB: 되었다, 했다, 된, 않았다, 못했다, 받았다, 한, 밝혔다, 있던, 않은</li>
+            <li>VERB-Fin: 되었다, 했다, 않았다, 못했다, 받았다, 밝혔다, 일어났다, 냈다, 밝혀졌다, 보냈다</li>
+            <li>VERB-Ger: 거뒀기, 있었기</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Voice</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Cau
+          <ul>
+            <li>PART-Fin: 보였다고, 없앤다고</li>
+            <li>VERB: 남겨, 남긴, 덧붙였다, 보였다, 세웠다, 태우고, 끝냈으며, 날리게, 낮추거나, 낮추는</li>
+            <li>VERB-Fin: 덧붙였다, 보였다, 세웠다, 보인다, 세워졌다</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Pass
+          <ul>
+            <li>PART-Fin: 나뉘어졌는가를</li>
+            <li>VERB: 열린, 보인다, 낮아지게, 놓여, 되었고, 만들어졌다, 보였던, 걸러졌고, 걸린, 꾸며져</li>
+            <li>VERB-Fin: 보인다, 만들어졌다, 담겼다, 던져졌다, 됐다, 바뀌었다, 실렸다, 쓰였다, 어려워진다, 여겨진다</li>
+            <li>VERB-Ger: 되기</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -463,7 +792,29 @@ udver: '2'
 
     </td>
     <td width="33%" valign="top">
+      <ul>
+        <li><a>PronType</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
 
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Int
+          <ul>
+            <li>AUX-Fin: 가, 인가, 일까</li>
+            <li>DET-Fin: 있는가, 아닌가, 어떠한가, 어떤가, 있겠는가, 있는가를</li>
+            <li>PART-Fin: 나뉘어졌는가를, 나왔나요</li>
+            <li>VERB-Fin: 되었나</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -476,7 +827,9 @@ udver: '2'
 
     </td>
     <td width="33%" valign="top">
-
+      <ul>
+        <li><a>NumType</a></li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -495,7 +848,13 @@ udver: '2'
 
     </td>
     <td width="33%" valign="top">
-
+      <ul>
+        <li>Card
+          <ul>
+            <li>NUM: 1, 10, 3, 2, 4, 6, 20, 8, 5, 9</li>
+          </ul>
+        </li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -518,61 +877,6 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
 
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Other Features</h3>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Other Features</h3>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Other Features</h3>
     </td>
   </tr>
   <tr>
@@ -584,39 +888,22 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-        <li><a>ko/case</a>
+        <li><a>Person</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>1
           <ul>
-            <li>acc
-              <ul>
-                <li>NOUN: 걸, 날</li>
-                <li>PRT: 을, 를</li>
-              </ul>
-            </li>
-            <li>advb
-              <ul>
-                <li>PRT: 에, 에서, 으로, 로, 에게, 과, 와, 에는, 보다, 로서</li>
-              </ul>
-            </li>
-            <li>comp
-              <ul>
-                <li>NOUN: 게</li>
-                <li>PRON: 누가</li>
-                <li>PRT: 이, 가, 은</li>
-              </ul>
-            </li>
-            <li>gen
-              <ul>
-                <li>PRON: 내</li>
-                <li>PRT: 의</li>
-              </ul>
-            </li>
-            <li>nom
-              <ul>
-                <li>NOUN: 게, 건, 아버진</li>
-                <li>PRON: 누가</li>
-                <li>PRT: 이, 는, 은, 가</li>
-              </ul>
-            </li>
+            <li>PRON: 나는, 내가, 우리는, 우리, 우리가, 우리를, 나도, 내, 우리에게, 저는</li>
           </ul>
         </li>
       </ul>
@@ -631,278 +918,140 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-        <li><a>ko/form</a>
+        <li>2
           <ul>
-            <li>adn
+            <li>PRON: 여러분, 너희들, 당신이, 여러분의</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>3
+          <ul>
+            <li>PRON: 그는, 그의, 그녀는, 그들은, 그녀가, 그녀의, 그가, 그들의, 그들이, 그녀에게</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Polite</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li>Form
+          <ul>
+            <li>ADJ-Fin: 같아요, 쌀쌀한지를, 있을지는</li>
+            <li>ADJ-Ger: 그럼에, 놀랍기는, 심각함은, 아름다움에, 있기를</li>
+            <li>ADV: 불과했어요</li>
+            <li>AUX-Fin: 이세요</li>
+            <li>DET: 있는가를, 총으로</li>
+            <li>DET-Fin: 있는가를</li>
+            <li>NOUN: 때문에, 것으로, 것을, 것이, 것은, 지역의, 명의, 영향을, 정부는, 개의</li>
+            <li>NUM: 하나는, 하나와, 1은, 50에, 만에, 백만에서, 하나를, 하나에는</li>
+            <li>PART: 의, 는, 에, 와, 가, 에서, 이, 은, 과, 를</li>
+            <li>PART-Fin: 않았어요, 나뉘어졌는가를, 나는군요, 나왔나요, 말고를, 바라요, 아는지와, 있는지에, 좋겠어요, 좋아했어요</li>
+            <li>PART-Ger: 있음을, 않기로, 가르치기보다, 거둠으로써, 되기를, 되기에, 됨으로써, 됨은, 보기로, 보냄으로써</li>
+            <li>PRON: 그는, 자신의, 그의, 그녀는, 나는, 그것은, 그들은, 이는, 그녀가, 그녀의</li>
+            <li>PROPN: 중국의, 영국의, 마케도니아의, 독일과, 미국에, 유럽의, 태국의, 히치콕의, 남극을, 미시마는</li>
+            <li>VERB: 눈</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Other Features</h3>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Other Features</h3>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Other Features</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+
+    </td>
+    <td width="33%" valign="top">
+      <ul>
+        <li><a>Form</a>
+          <ul>
+            <li>Adn
               <ul>
                 <li>ADJ: 있는, 같은, 새로운, 큰, 많은, 이러한, 없는, 높은, 작은, 다른</li>
-                <li>AFFIX: 한, 할, 하는, 된, 될, 되는, 하던, 시킨, 시킬, 하려는</li>
-                <li>VERB: 인, 대한, 있는, 라는, 위한, 된, 될, 일, 한, 볼</li>
+                <li>AUX: 인, 일, 이라는, 이란, 라는, 이었던, 이던, 였던, 이었을</li>
+                <li>VERB: 대한, 있는, 위한, 라는, 될, 된, 볼, 할, 한, 주는</li>
               </ul>
             </li>
-            <li>aux
+            <li>Aux
               <ul>
                 <li>ADJ: 그렇지, 싶어, 같지, 기쁘게, 달갑지, 독실하지, 따스하게, 싶지, 있어야, 흔치</li>
-                <li>AFFIX: 하고, 하지, 해, 해야, 되지, 되고, 되어, 받지, 좋아하지, 하려</li>
-                <li>VERB: 하지, 되어, 만들어, 하고, 갖고, 남겨, 남아, 받고, 알려져, 이지</li>
+                <li>AUX: 이지, 이어야, 이진</li>
+                <li>NOUN: 결혼하고</li>
+                <li>PART: 돌지만, 만들지는, 믿지는, 보지도, 사라지지는, 애먹지도, 일어나지는, 좋아하지</li>
+                <li>VERB: 하지, 되어, 만들어, 하고, 갖고, 남아, 받고, 알려져, 기울이지, 나와야</li>
               </ul>
             </li>
-            <li>compl
+            <li>Compl
               <ul>
                 <li>ADJ: 아니라, 있게, 있도록, 있으며, 그렇다면, 다르게, 어떻게, 크게, 빠르게, 아니면</li>
-                <li>AFFIX: 해, 하고, 했으며, 하게, 하면서, 했고, 했는데, 했지만, 해서, 하여</li>
-                <li>VERB: 대해, 위해, 통해, 따르면, 이며, 이고, 되면, 따라, 있으며, 불구하고</li>
-              </ul>
-            </li>
-            <li>fin
-              <ul>
-                <li>ADJ: 있다, 있었다, 아니다, 없었다, 없다, 같다, 않다, 있는가, 아니었다, 있습니다</li>
-                <li>AFFIX: 했다, 하였다, 되었다, 한다, 된다, 하다, 시켰다, 됐다, 하겠다, 당했다</li>
-                <li>VERB: 이다, 있다, 이었다, 되었다, 한다, 이라, 였다, 했다, 않았다, 된다</li>
-              </ul>
-            </li>
-            <li>ger
-              <ul>
-                <li>ADJ: 그럼, 그렇기, 높기, 있기, 놀랍기, 심각함, 아니기, 아름다움, 엄청나기, 없기</li>
-                <li>AFFIX: 하기, 함, 했기, 시키기, 됐기, 되기, 되었기, 롭기, 하긴, 하길</li>
-                <li>VERB: 되기, 만들기, 않기, 이기, 있기, 있었기, 있음, 됨, 벗어나기, 쓰기</li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-      <ul>
-        <li><a>ko/formality</a>
-          <ul>
-            <li>fml
-              <ul>
-                <li>PRT: 의, 을, 에, 이, 는, 를, 은, 가, 에서, 으로</li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-      <ul>
-        <li><a>ko/honorific</a>
-          <ul>
-            <li>hon
-              <ul>
-                <li>PRON: 저, 제</li>
-                <li>PRT: 요</li>
-                <li>VERB: 눈여겨보셔야, 이세요</li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-      <ul>
-        <li><a>ko/mood</a>
-          <ul>
-            <li>imp
-              <ul>
-                <li>VERB: 달라, 말라, 떨어뜨려라, 쓰라, 합시다</li>
-              </ul>
-            </li>
-            <li>ind
-              <ul>
-                <li>ADJ: 있다, 있었다, 아니다, 없었다, 없다, 같다, 않다, 아니었다, 있습니다, 좋다</li>
-                <li>AFFIX: 했다, 하였다, 되었다, 한다, 된다, 하다, 시켰다, 됐다, 하겠다, 당했다</li>
-                <li>VERB: 이다, 있다, 이었다, 되었다, 한다, 이라, 였다, 했다, 않았다, 된다</li>
-              </ul>
-            </li>
-            <li>inter
-              <ul>
-                <li>ADJ: 있는가, 아닌가, 어떠한가, 어떤가, 있겠는가</li>
-                <li>AFFIX: 하느냐, 했느냐</li>
-                <li>VERB: 가, 인가, 나뉘어졌는가, 나왔나, 되었나, 일까</li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-      <ul>
-        <li><a>ko/number</a>
-          <ul>
-            <li>plur
-              <ul>
-                <li>NOUN: 사람들, 투자자들, 학생들, 국민들, 원주민들, 회사들, 의원들, 일들, 전문가들, 주민들</li>
-                <li>PRON: 그들, 이들, 자신들, 너희들, 이것들, 이곳들</li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-      <ul>
-        <li><a>ko/person</a>
-          <ul>
-            <li>1
-              <ul>
-                <li>PRON: 우리, 나, 내, 저, 제</li>
-              </ul>
-            </li>
-            <li>2
-              <ul>
-                <li>PRON: 여러분, 너희들, 당신</li>
-              </ul>
-            </li>
-            <li>3
-              <ul>
-                <li>PRON: 그, 그녀, 그들, 이들</li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-      <ul>
-        <li><a>ko/proper</a>
-          <ul>
-            <li>false
-              <ul>
-                <li>ADJ: 있다, 있는, 같은, 새로운, 큰, 많은, 있었다, 이러한, 없는, 높은</li>
-                <li>ADV: 더, 또한, 가장, 거의, 함께, 다시, 특히, 이미, 결국, 바로</li>
-                <li>AFFIX: 적, 했다, 한, 하였다, 할, 하는, 해, 하고, 된, 되었다</li>
-                <li>CONJ: 및, 그러나, 그리고, 또는, 하지만, 그래서, 그런데</li>
-                <li>DET: 그, 이, 두, 한, 다른, 여러, 모든, 만, 몇, 세</li>
-                <li>NOUN: 것, 년, 수, 지역, 월, 말, 일, 중, 후, 때문</li>
-                <li>NUM: 1, 10, 3, 2, 4, 6, 8, 하나, 20, 11</li>
-                <li>PRON: 그, 자신, 그것, 이, 그녀, 이것, 그들, 우리, 나, 그곳</li>
-                <li>PRT: 의, 을, 는, 에, 이, 를, 은, 가, 에서, 고</li>
-                <li>PUNCT: ., ,, ", (, ), “, ”, ', -, ?</li>
-                <li>VERB: 인, 이다, 대한, 있다, 이었다, 되었다, 한다, 대해, 이라, 있는</li>
-                <li>X: 이봐, 있</li>
-              </ul>
-            </li>
-            <li>true
-              <ul>
-                <li>ADJ: 그렇다면, 기묘한, 아니었다</li>
-                <li>ADV: 정말</li>
-                <li>AFFIX: 대, 전, 제, 파, 좋아하지, 하는, 한데, 해</li>
-                <li>DET: 그</li>
-                <li>NOUN: 영국, 미국, 중국, 세, 프랑스, 유럽, 트럼프, 독일, 그리스, 로마</li>
-                <li>NUM: 1, I, 2, III, 3, 30, IV, 20, 200, 2008</li>
-                <li>PRON: 그녀, 나</li>
-                <li>PRT: 의, 를, 와, 에서</li>
-                <li>PUNCT: -, ", /</li>
-                <li>VERB: 않아, 위한, 흔들리는</li>
-                <li>X: of</li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-      <ul>
-        <li><a>ko/tense</a>
-          <ul>
-            <li>fut
-              <ul>
-                <li>ADJ: 있을</li>
-                <li>AFFIX: 할, 될, 하겠다, 시킬, 하겠다는, 해질</li>
-                <li>VERB: 될, 일어날, 나갈, 날, 내리겠다, 내릴, 늦추어질, 다가올, 돌아올, 드러낼</li>
-              </ul>
-            </li>
-            <li>past
-              <ul>
-                <li>ADJ: 있었다, 없었다, 아니었다, 없었던, 있던, 있었던, 있었으며, 갑갑했던, 같았다, 많았다</li>
-                <li>AFFIX: 했다, 한, 하였다, 된, 되었다, 했으며, 했고, 했는데, 했지만, 하던</li>
-                <li>VERB: 이었다, 되었다, 였다, 했다, 된, 않았다, 못했다, 받았다, 한, 밝혔다</li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-
-    </td>
-    <td width="33%" valign="top">
-      <ul>
-        <li><a>ko/voice</a>
-          <ul>
-            <li>cau
-              <ul>
-                <li>AFFIX: 시켰다, 시킨, 시킬, 시키기, 시켜서, 시키고, 시키는, 시키는데, 시키려는, 시킨다</li>
-                <li>VERB: 남겨, 보였다, 남긴, 덧붙였다, 세웠다, 태우고, 끝냈으며, 날리게, 낮추거나, 낮추는</li>
-              </ul>
-            </li>
-            <li>pass
-              <ul>
-                <li>AFFIX: 된, 되었다, 된다, 될, 되는, 되지, 되고, 되어, 되었으며, 되었고</li>
-                <li>VERB: 열린, 보인다, 낮아지게, 놓여, 되었고, 만들어졌다, 보였던, 걸러졌고, 걸린, 꾸며져</li>
+                <li>AUX: 이며, 이고, 이지만, 인데, 인지, 고, 니, 라면, 여서, 였고</li>
+                <li>PART: 대해서는, 알면서도, 위해서는, 임하면서도, 입는데도, 주어서는, 통해서도, 했을지도</li>
+                <li>VERB: 대해, 위해, 통해, 따르면, 따라, 되면, 있으며, 불구하고, 보면, 않고</li>
               </ul>
             </li>
           </ul>
@@ -935,7 +1084,7 @@ udver: '2'
       <h3>Auxiliary Verbs and Copula</h3>
       
       <ul>
-      <li>This corpus does not contain copulas.</li>
+      <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
       </ul>
     </td>
   </tr>
@@ -952,7 +1101,7 @@ udver: '2'
     </td>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
+      <li>This corpus uses 16 lemmas as auxiliaries (<a>aux</a>). Examples: _, 결혼, 돌지, 만들지, 믿지, 보지, 사라지지, 생각하지, 쓰기, 애먹지, 의미하기, 일어나지, 존재하기, 좋아하지, 참여해야, 초래하기.</li>
       </ul>
     </td>
   </tr>
@@ -1008,8 +1157,17 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (623)</li>
-            <li>VERB--PRON (118)</li>
+            <li>VERB--NOUN (24)</li>
+            <li>VERB--NOUN-Nom (164)</li>
+            <li>VERB--PRON (1)</li>
+            <li>VERB--PRON-Nom (32)</li>
+            <li>VERB-Fin--NOUN (17)</li>
+            <li>VERB-Fin--NOUN-Nom (132)</li>
+            <li>VERB-Fin--PRON (2)</li>
+            <li>VERB-Fin--PRON-Nom (39)</li>
+            <li>VERB-Ger--NOUN (1)</li>
+            <li>VERB-Ger--NOUN-Nom (9)</li>
+            <li>VERB-Ger--PRON-Nom (1)</li>
           </ul>
         </li>
       </ul>
@@ -1057,6 +1215,16 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
+            <li>VERB--NOUN (30)</li>
+            <li>VERB--NOUN-Acc (333)</li>
+            <li>VERB--PRON (1)</li>
+            <li>VERB--PRON-Acc (10)</li>
+            <li>VERB-Fin--NOUN (19)</li>
+            <li>VERB-Fin--NOUN-Acc (108)</li>
+            <li>VERB-Fin--PRON (1)</li>
+            <li>VERB-Fin--PRON-Acc (2)</li>
+            <li>VERB-Ger--NOUN (2)</li>
+            <li>VERB-Ger--NOUN-Acc (20)</li>
           </ul>
         </li>
       </ul>
@@ -1088,8 +1256,10 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB--NOUN (10)</li>
-            <li>VERB--PRON (2)</li>
+            <li>VERB--NOUN (1)</li>
+            <li>VERB--NOUN-Advb (2)</li>
+            <li>VERB-Fin--NOUN-Advb (2)</li>
+            <li>VERB-Fin--PRON-Advb (2)</li>
           </ul>
         </li>
       </ul>
@@ -1149,8 +1319,9 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus does not use relation subtypes.</li>
-      <li>The following 22 relation types are not used in this corpus at all: <a>obj</a>, <a>xcomp</a>, <a>obl</a>, <a>expl</a>, <a>dislocated</a>, <a>cop</a>, <a>mark</a>, <a>nmod</a>, <a>nummod</a>, <a>acl</a>, <a>clf</a>, <a>case</a>, <a>fixed</a>, <a>flat</a>, <a>compound</a>, <a>list</a>, <a>parataxis</a>, <a>orphan</a>, <a>goeswith</a>, <a>reparandum</a>, <a>punct</a>, <a>root</a></li>
+      <li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>compound:lvc</a>, <a>csubj:pass</a>, <a>dep:prt</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:tmod</a></li>
+      <li>The following 2 main types are not used alone, they are always subtyped: <a>acl</a>, <a>nmod</a></li>
+      <li>The following 9 relation types are not used in this corpus at all: <a>xcomp</a>, <a>expl</a>, <a>dislocated</a>, <a>mark</a>, <a>clf</a>, <a>case</a>, <a>list</a>, <a>parataxis</a>, <a>reparandum</a></li>
       </ul>
     </td>
   </tr>

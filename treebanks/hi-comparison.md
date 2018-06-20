@@ -1320,6 +1320,20 @@ udver: '2'
   </tr>
   <tr>
     <td width="50%" valign="top">
+
+    </td>
+    <td width="50%" valign="top">
+      <ul>
+        <li>Rel
+          <ul>
+            <li>PRON: जो</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <ul>
         <li><a>NumType</a></li>
       </ul>
@@ -1914,7 +1928,7 @@ udver: '2'
             <li>VERB--NOUN (6)</li>
             <li>VERB--NOUN-ADP(_) (1)</li>
             <li>VERB--NOUN-Acc (7)</li>
-            <li>VERB--NOUN-Acc-ADP(_) (105)</li>
+            <li>VERB--NOUN-Acc-ADP(_) (106)</li>
             <li>VERB--NOUN-Nom (183)</li>
             <li>VERB--NOUN-Nom-ADP(_) (11)</li>
             <li>VERB--PRON (50)</li>
@@ -2078,8 +2092,8 @@ udver: '2'
             <li>VERB--NOUN (20)</li>
             <li>VERB--NOUN-Acc (32)</li>
             <li>VERB--NOUN-Acc-ADP(_) (86)</li>
-            <li>VERB--NOUN-Nom (759)</li>
-            <li>VERB--NOUN-Nom-ADP(_) (3)</li>
+            <li>VERB--NOUN-Nom (757)</li>
+            <li>VERB--NOUN-Nom-ADP(_) (4)</li>
             <li>VERB--PRON (27)</li>
             <li>VERB--PRON-Acc (29)</li>
             <li>VERB--PRON-Acc-ADP(_) (2)</li>

@@ -53,7 +53,7 @@ udver: '2'
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 16448 sentences, 391358 tokens and 402426 syntactic words.</li>
+      <li>This corpus contains 16448 sentences, 391365 tokens and 402434 syntactic words.</li>
       </ul>
     </td>
     <td width="16%" valign="top">
@@ -85,7 +85,7 @@ udver: '2'
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 58565 tokens (15%) that are not followed by a space.</li>
+      <li>This corpus contains 58569 tokens (15%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="16%" valign="top">
@@ -182,7 +182,7 @@ udver: '2'
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 11068 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+      <li>This corpus contains 11069 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 9 types of multi-word tokens. Examples: du, des, au, aux, auquel, duquel, auxquels, desquelles, auxquelles.</li>
       </ul>
     </td>
@@ -3294,6 +3294,68 @@ udver: '2'
   </tr>
   <tr>
     <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
+      <ul>
+        <li><a>mwepos</a>
+          <ul>
+            <li>ADP
+              <ul>
+                <li>ADP: en, autour, à, avant, de, hors</li>
+                <li>ADV: bien, parce, afin, lors, tandis, ainsi, alors, près</li>
+                <li>NOUN: face, grâce, suite</li>
+              </ul>
+            </li>
+            <li>ADV
+              <ul>
+                <li>ADP: de, en, Par, à, d', pour, entre</li>
+                <li>ADV: plus, moins, bien</li>
+                <li>CCONJ: Et</li>
+                <li>DET: un</li>
+                <li>PRON: tout</li>
+              </ul>
+            </li>
+            <li>CCONJ
+              <ul>
+                <li>ADV: ainsi</li>
+              </ul>
+            </li>
+            <li>DET
+              <ul>
+                <li>ADV: beaucoup</li>
+                <li>DET: un</li>
+              </ul>
+            </li>
+            <li>PRON
+              <ul>
+                <li>ADV: pas</li>
+              </ul>
+            </li>
+            <li>SCONJ
+              <ul>
+                <li>ADV: tant</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
+
+    </td>
+    <td width="16%" valign="top">
+
+    </td>
+  </tr>
+  <tr>
+    <td width="16%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -3424,9 +3486,9 @@ udver: '2'
             <li>VERB-Fin--NOUN (4477)</li>
             <li>VERB-Fin--NOUN-ADP(de) (2)</li>
             <li>VERB-Fin--NOUN-ADP(jusque)-ADP(à) (1)</li>
-            <li>VERB-Fin--PRON (6489)</li>
+            <li>VERB-Fin--PRON (6488)</li>
             <li>VERB-Fin--PRON-ADP(à) (1)</li>
-            <li>VERB-Inf--NOUN (2)</li>
+            <li>VERB-Inf--NOUN (3)</li>
             <li>VERB-Inf--PRON (4)</li>
             <li>VERB-Part--NOUN (1470)</li>
             <li>VERB-Part--NOUN-ADP(de) (1)</li>
@@ -3527,15 +3589,16 @@ udver: '2'
           <ul>
             <li>VERB--NOUN (25)</li>
             <li>VERB--PRON (13)</li>
-            <li>VERB-Fin--NOUN (5335)</li>
+            <li>VERB-Fin--NOUN (5332)</li>
             <li>VERB-Fin--NOUN-ADP(de) (5)</li>
             <li>VERB-Fin--NOUN-ADP(en) (1)</li>
+            <li>VERB-Fin--NOUN-ADP(pour) (1)</li>
             <li>VERB-Fin--PRON (1124)</li>
-            <li>VERB-Inf--NOUN (2750)</li>
+            <li>VERB-Inf--NOUN (2751)</li>
             <li>VERB-Inf--NOUN-ADP(un) (1)</li>
             <li>VERB-Inf--PRON (634)</li>
             <li>VERB-Part--NOUN (2182)</li>
-            <li>VERB-Part--PRON (370)</li>
+            <li>VERB-Part--PRON (369)</li>
           </ul>
         </li>
       </ul>
@@ -3763,7 +3826,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 16 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>expl:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>iobj:agent</a>, <a>nmod:range</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obj:agent</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a></li>
+      <li>This corpus uses 17 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>ccomp:cleft</a>, <a>csubj:pass</a>, <a>expl:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>iobj:agent</a>, <a>nmod:range</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obj:agent</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a></li>
       <li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a></li>
       </ul>
     </td>

@@ -52,7 +52,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 7158 sentences and 189943 tokens.</li>
+      <li>This corpus contains 9995 sentences and 267631 tokens.</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -259,7 +259,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 22 lemmas tagged as pronouns (PRON): _, 何, 何れ, 何処, 何方, 何時, 余-代名詞, 僕, 其れ, 其処, 彼れ, 彼方此方, 御前, 我, 我々, 此の方, 此れ, 此処, 此方, 私-代名詞, 誰, 貴方</li>
+      <li>This corpus contains 23 lemmas tagged as pronouns (PRON): _, 何, 何れ, 何処, 何方, 何時, 余-代名詞, 僕, 其れ, 其処, 其方, 彼れ, 彼方此方, 御前, 我, 我々, 此の方, 此れ, 此処, 此方, 私-代名詞, 誰, 貴方</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -337,7 +337,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 73 lemmas tagged as auxiliaries (AUX): _, うう, うー, がらる, けり, ごとし, させる, ず, せる, そう-伝聞, そう-様態, た, たい, たり-断定, だ, てる, です, とく, ない, なり-断定, べし, ます, む, や, らしい, られる, り, れる, ウ, 上がる, 上げる, 下さる, 仕舞う, 兼ねる, 出す, 出来る, 切る, 去る, 参る, 取る, 合う, 呉れる, 始める, 尽くす, 居る, 得る, 御座る, 成る, 捲る, 掛ける, 有る, 来る, 果てる, 様, 欲しい, 為さる, 為る, 無い, 直す, 続ける, 置く, 致す, 良い, 行く, 見せる, 見る, 貰う, 込む, 遅れる, 過ぎ-時間, 過ぎる, 遣る, 頂く</li>
+      <li>This corpus contains 79 lemmas tagged as auxiliaries (AUX): _, うう, うー, がらる, がる, けり, ごとし, させる, ず, せる, そう-伝聞, そう-様態, た, たい, たり-断定, だ, てる, です, とく, ない, なり-断定, べし, まじ, ます, む, や, よる, らしい, られる, り, れる, ウ, 上がる, 上げる, 下さる, 仕舞う, 兼ねる, 出す, 出来る, 切る, 去る, 参る, 取る, 合う, 呉れる, 始める, 尽くす, 居る, 得る, 御座る, 慣れる, 成る, 或る, 捲る, 掛かる, 掛ける, 有る, 来る, 果てる, 様, 欲しい, 為さる, 為る, 無い, 直す, 続ける, 置く, 致す, 良い, 行く, 見せる, 見る, 貰う, 込む, 遅れる, 過ぎ-時間, 過ぎる, 遣る, 頂く</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -364,7 +364,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>Out of the above, 34 lemmas occurred sometimes as AUX and sometimes as VERB: _, なり-断定, や, 上がる, 上げる, 兼ねる, 出す, 出来る, 切る, 去る, 取る, 合う, 呉れる, 始める, 尽くす, 居る, 得る, 成る, 掛ける, 有る, 来る, 為る, 続ける, 置く, 良い, 行く, 見せる, 見る, 貰う, 込む, 遅れる, 過ぎる, 遣る, 頂く</li>
+      <li>Out of the above, 39 lemmas occurred sometimes as AUX and sometimes as VERB: _, なり-断定, や, 上がる, 上げる, 兼ねる, 出す, 出来る, 切る, 去る, 取る, 合う, 呉れる, 始める, 尽くす, 居る, 得る, 慣れる, 成る, 或る, 掛かる, 掛ける, 有る, 来る, 為る, 直す, 続ける, 置く, 致す, 良い, 行く, 見せる, 見る, 貰う, 込む, 遅れる, 過ぎる, 遣る, 頂く</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -1392,7 +1392,7 @@ udver: '2'
       <h3>Auxiliary Verbs and Copula</h3>
       
       <ul>
-      <li>This corpus uses 10 lemmas as copulas (<a>cop</a>). Examples: だ, _, 無い, です, とく, たり-断定, なり-断定, らしい, 成る, 有る.</li>
+      <li>This corpus uses 10 lemmas as copulas (<a>cop</a>). Examples: だ, _, 無い, です, とく, なり-断定, たり-断定, 有る, らしい, 成る.</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -1427,7 +1427,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus uses 68 lemmas as auxiliaries (<a>aux</a>). Examples: _, 為る, 居る, だ, 有る, 来る, 様, うう, うー, べし, 出来る, た, 成る, せる, 行く, ず, 欲しい, そう-様態, ます, 仕舞う, 貰う, 良い, れる, 始める, られる, 続ける, 置く, 見る, 過ぎる, 呉れる, 切る, 兼ねる, たい, ウ, です, 出す, させる, 合う, 得る, 下さる, 直す, 遣る, とく, 頂く, てる, なり-断定, 去る, そう-伝聞, む, り.</li>
+      <li>This corpus uses 74 lemmas as auxiliaries (<a>aux</a>). Examples: _, 為る, 居る, だ, 有る, 来る, 様, うう, うー, べし, 成る, 出来る, た, せる, 行く, ず, 欲しい, そう-様態, ます, 仕舞う, 良い, 貰う, れる, 置く, 始める, られる, 呉れる, 続ける, 見る, 過ぎる, 兼ねる, 切る, たい, ウ, させる, 出す, です, 得る, 下さる, 合う, てる, とく, 直す, 遣る, 頂く, そう-伝聞, なり-断定, 去る, 込む, がる.</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -1522,12 +1522,12 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (17)</li>
-            <li>VERB--NOUN-ADP(_) (5078)</li>
-            <li>VERB--NOUN-ADP(_)-ADP(_) (64)</li>
-            <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_) (3)</li>
-            <li>VERB--PRON-ADP(_) (99)</li>
-            <li>VERB--PRON-ADP(_)-ADP(_) (10)</li>
+            <li>VERB--NOUN (29)</li>
+            <li>VERB--NOUN-ADP(_) (7149)</li>
+            <li>VERB--NOUN-ADP(_)-ADP(_) (105)</li>
+            <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_) (4)</li>
+            <li>VERB--PRON-ADP(_) (140)</li>
+            <li>VERB--PRON-ADP(_)-ADP(_) (12)</li>
           </ul>
         </li>
       </ul>
@@ -1730,12 +1730,15 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB--NOUN (85)</li>
-            <li>VERB--NOUN-ADP(_) (3384)</li>
-            <li>VERB--NOUN-ADP(_)-ADP(_) (408)</li>
-            <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_) (5)</li>
-            <li>VERB--PRON-ADP(_) (59)</li>
-            <li>VERB--PRON-ADP(_)-ADP(_) (8)</li>
+            <li>VERB--NOUN (128)</li>
+            <li>VERB--NOUN-ADP(_) (4762)</li>
+            <li>VERB--NOUN-ADP(_)-ADP(_) (581)</li>
+            <li>VERB--NOUN-ADP(_)-ADP(_)-ADP(_) (8)</li>
+            <li>VERB--NOUN-ADP(くらい)-ADP(_) (1)</li>
+            <li>VERB--NOUN-ADP(オウシュウ-外国)-ADP(_) (1)</li>
+            <li>VERB--PRON-ADP(_) (81)</li>
+            <li>VERB--PRON-ADP(_)-ADP(_) (12)</li>
+            <li>VERB--PRON-ADP(きり)-ADP(_) (1)</li>
           </ul>
         </li>
       </ul>
