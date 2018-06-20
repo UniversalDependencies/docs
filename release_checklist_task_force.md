@@ -17,6 +17,8 @@ See [here](release_checklist.html) for the checklist for data contributors.
   Save the list as `shared_task_treebanks.txt`.
   * Freeze the list of treebanks that are not in the shared task but will be released.
     Save the list as `non_shared_task_treebanks.txt`.
+    <span style="color:blue">Then for all commands down in this checklist that say `for i in $(cat shared_task_treebanks.txt)`,
+    do the same also for `non_shared_task_treebanks.txt`.</span>
 * Make sure that you have local clones of all UD_* repositories that should be released.
   This step cannot be automated (unless you write a script that queries Github about all repositories belonging to the UniversalDependencies organization).
 * Make sure you have the most current content of all the repositories (note that this command assumes you have not modified your local copy of the data without pushing it back; if this is the case, you will see lists of modified files in the output and you will have to resolve it). Also make sure that you are working with the `dev` branch:<br />
