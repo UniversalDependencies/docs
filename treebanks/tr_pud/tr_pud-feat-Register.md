@@ -11,7 +11,7 @@ It occurs with 1 different values: `Form`.
 
 11 tokens (0%) have a non-empty value of `Register`.
 11 types (0%) occur at least once with a non-empty value of `Register`.
-1 lemmas (0) occur at least once with a non-empty value of `Register`.
+9 lemmas (0%) occur at least once with a non-empty value of `Register`.
 The feature is used with 2 part-of-speech tags: <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (10; 0% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `VERB`

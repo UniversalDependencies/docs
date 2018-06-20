@@ -23,15 +23,15 @@ The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 cc	color:blue
-1	Program	_	NOUN	NN	Case=Nom|Number=Sing	8	nsubj	_	SpaceAfter=No
-2	,	_	PUNCT	,	_	1	punct	_	_
-3	sponsorluk	_	NOUN	NN	Number=Sing	6	compound	_	_
-4	ve	_	CCONJ	CCONJ	_	5	cc	_	_
-5	reklam	_	NOUN	NN	Number=Sing	3	conj	_	_
-6	yoluyla	_	NOUN	NN	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	advmod	_	_
-7	para	_	NOUN	NN	Number=Sing	8	obj	_	_
-8	kazanıyor	_	VERB	VB	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
-9	.	_	PUNCT	.	_	8	punct	_	_
+1	Program	program	NOUN	NN	Case=Nom|Number=Sing	8	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	,	_	1	punct	_	_
+3	sponsorluk	sponsorluk	NOUN	NN	Number=Sing	6	compound	_	_
+4	ve	ve	CCONJ	CCONJ	_	5	cc	_	_
+5	reklam	reklam	NOUN	NN	Number=Sing	3	conj	_	_
+6	yoluyla	yol	NOUN	NN	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	advmod	_	_
+7	para	para	NOUN	NN	Number=Sing	8	obj	_	_
+8	kazanıyor	kazan	VERB	VB	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	.	_	8	punct	_	_
 
 ~~~
 
@@ -42,13 +42,13 @@ The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 6	bgColor:blue
 # visual-style 6	fgColor:white
 # visual-style 6 4 cc	color:blue
-1	Geçit	_	NOUN	NN	Number=Sing	2	compound	_	_
-2	töreni	_	NOUN	NN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	nsubj	_	_
-3	yok	_	ADJ	JJ	Polarity=Neg	0	root	_	_
-4	ve	_	CCONJ	CCONJ	_	6	cc	_	_
-5	hiç	_	ADV	RB	_	6	advmod	_	_
-6	olmadı	_	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	3	conj	_	SpaceAfter=No
-7	.	_	PUNCT	.	_	6	punct	_	_
+1	Geçit	Geçit	NOUN	NN	Number=Sing	2	compound	_	_
+2	töreni	tören	NOUN	NN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	nsubj	_	_
+3	yok	yok	ADJ	JJ	Polarity=Neg	0	root	_	_
+4	ve	ve	CCONJ	CCONJ	_	6	cc	_	_
+5	hiç	hiç	ADV	RB	_	6	advmod	_	_
+6	olmadı	ol	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past	3	conj	_	SpaceAfter=No
+7	.	.	PUNCT	.	_	6	punct	_	_
 
 ~~~
 
@@ -59,18 +59,18 @@ The following 14 pairs of parts of speech are connected with `cc`: <tt><a href="
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 4 cc	color:blue
-1	Weiss	_	PROPN	PROPN	Case=Nom|Number=Sing	11	nsubj	_	Proper=True|SpaceAfter=No
-2	,	_	PUNCT	,	_	1	punct	_	_
-3	Köln	_	PROPN	PROPN	Number=Sing	6	compound	_	Proper=True
-4	ve	_	CCONJ	CCONJ	_	5	cc	_	_
-5	Bremen	_	PROPN	PROPN	Number=Sing	3	conj	_	Proper=True
-6	şehirlerinden	_	NOUN	NN	Case=Abl|Number=Plur|Number[psor]=Sing|Person[psor]=3	7	advmod	_	_
-7	gelen	_	ADJ	VJ	Number=Sing|Polarity=Pos	9	acl:relcl	_	_
-8	edebiyat	_	NOUN	NN	Number=Sing	9	compound	_	_
-9	ödülleri	_	NOUN	NN	Number=Plur|Number[psor]=Sing|Person[psor]=3	11	obl	_	_
-10	ile	_	ADP	IN	_	9	case	_	_
-11	onurlandırıldı	_	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=CauPass	0	root	_	SpaceAfter=No
-12	.	_	PUNCT	.	_	11	punct	_	_
+1	Weiss	Weiss	PROPN	PROPN	Case=Nom|Number=Sing	11	nsubj	_	Proper=True|SpaceAfter=No
+2	,	,	PUNCT	,	_	1	punct	_	_
+3	Köln	Köln	PROPN	PROPN	Number=Sing	6	compound	_	Proper=True
+4	ve	ve	CCONJ	CCONJ	_	5	cc	_	_
+5	Bremen	Bremen	PROPN	PROPN	Number=Sing	3	conj	_	Proper=True
+6	şehirlerinden	şehir	NOUN	NN	Case=Abl|Number=Plur|Number[psor]=Sing|Person[psor]=3	7	advmod	_	_
+7	gelen	gel	ADJ	VJ	Number=Sing|Polarity=Pos	9	acl:relcl	_	_
+8	edebiyat	edebiyat	NOUN	NN	Number=Sing	9	compound	_	_
+9	ödülleri	ödül	NOUN	NN	Number=Plur|Number[psor]=Sing|Person[psor]=3	11	obl	_	_
+10	ile	ile	ADP	IN	_	9	case	_	_
+11	onurlandırıldı	onurlandır	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=CauPass	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	.	_	11	punct	_	_
 
 ~~~
 

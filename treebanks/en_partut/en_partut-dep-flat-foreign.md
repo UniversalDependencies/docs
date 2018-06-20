@@ -7,7 +7,6 @@ udver: '2'
 ## Treebank Statistics: UD_English-ParTUT: Relations: `flat:foreign`
 
 This relation is a language-specific subtype of <tt><a href="en_partut-dep-flat.html">flat</a></tt>.
-There are also 1 other language-specific subtypes of `flat`: <tt><a href="en_partut-dep-flat-name.html">flat:name</a></tt>.
 
 69 nodes (0%) are attached to their parents as `flat:foreign`.
 

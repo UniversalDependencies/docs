@@ -31,7 +31,7 @@ The following 5 pairs of parts of speech are connected with `dislocated`: <tt><a
 7	the	the	DET	RD	Definite=Def|PronType=Art	8	det	_	_
 8	essayist	essayist	NOUN	S	Number=Sing	11	nsubj	_	_
 9	Thomas	Thomas	PROPN	SP	_	8	nmod	_	_
-10	Carlyle	Carlyle	PROPN	SP	_	9	flat:name	_	_
+10	Carlyle	Carlyle	PROPN	SP	_	9	flat	_	_
 11	wrote	write	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	19	parataxis	_	_
 12	in	in	ADP	E	_	13	case	_	_
 13	1840	1840	NUM	N	NumType=Card	11	obl	_	SpaceAfter=No

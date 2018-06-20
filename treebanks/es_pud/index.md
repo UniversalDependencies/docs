@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Hector Fernandez Alcalde, Laura Moreno Romero, Martin Popel, Daniel Zeman, Héctor Martínez Alonso.
 
-Repository: [UD_Spanish-PUD](https://github.com/UniversalDependencies/UD_Spanish-PUD)
+Repository: [UD_Spanish-PUD](https://github.com/UniversalDependencies/UD_Spanish-PUD)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udes_pud)
 
 License: CC BY-SA 3.0
 
@@ -74,7 +75,6 @@ shared task). If it is used for training in future research, the users should
 employ ten-fold cross-validation.
 
 
-
 ## Acknowledgments
 
 # Statistics of UD Spanish PUD
@@ -93,11 +93,24 @@ employ ten-fold cross-validation.
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 1000 sentences, 22822 tokens and 23287 syntactic words.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 2318 tokens (10%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 8 types of words with spaces. Examples: 10 000, 15 000, 168 000, 25 000, 330 000, 35 000, 5 000, 6 000</li>
+</ul>
+
+<ul>
 <li>This corpus contains 11 types of words that contain both letters and punctuation. Examples: a., C., d., n.°, B-29, E.E.UU, EE., EE.UU., Z., ca., p.m.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 465 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
 <li>There are 61 types of multi-word tokens. Examples: del, al, verlo, beneficiarse, convirtiéndose, hacerlo, recuperarlo, adminiéndolo, alejarse, aplicándolo, centrarse, centrándose, comprometerse, concentrase, convertirse, convirtiéndola, darle, dedicarme, dedicarse, deduciéndolo, deslizándose, desplazarse, desplegarse, detenerse, enfrentarse, enfriarse, esperarnos, estarse, examinarlo, formarse, gastarse, haberse, iluminarse, impidiéndole, irritándote, llevarlo, movilizarse, pidiéndole, ponerse, poniéndole, poniéndose, presionarles, protegerse, quedarse, referirse, registrarse, relajarse, reunirse, reuniéndose, salirse.</li>
 </ul>
@@ -109,6 +122,9 @@ employ ten-fold cross-validation.
 <ul>
 <li>This corpus uses 14 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: SCONJ, PART, INTJ</li>
+</ul>
+
+<ul>
 </ul>
 
 <ul>
@@ -137,185 +153,237 @@ employ ten-fold cross-validation.
 
 <h3>Nominal Features</h3>
 
-<li><a>Gender</a>
-  <ul>
-    <li>Fem
-      <ul>
-        <li>ADJ: primera, nueva, británica, gran, mayor, segunda, nuevas, americana, nacional, propia</li>
-        <li>AUX: llamada, consideradas, declarada</li>
-        <li>DET: la, las, una, esta, el, muchas, todas, otra, cada, varias</li>
-        <li>NOUN: guerra, parte, ciudad, vez, personas, historia, región, mayoría, vida, veces</li>
-        <li>NUM: dos, tres, 10, 760, cuatro, diez, ocho, 10.000, 12.000, 125</li>
-        <li>PRON: su, que, sus, ella, le, cual, cuales, la, nuestra, mi</li>
-        <li>PROPN: Clinton, BBC, Kesha, Rona, luna, Blunt, Guinea, Jasmine, UE, Anaya</li>
-        <li>VERB: dirigida, coprotagonizada, derrotada, destruida, dividida, formada, localizadas, perdidas, realizada, relacionada</li>
-      </ul>
-    </li>
-    <li>Masc
-      <ul>
-        <li>ADJ: gran, primer, últimos, nuevos, Unidos, grandes, mayor, nacional, Unido, mismo</li>
-        <li>AUX: llamados, declarado, elegido, escrito, nombrado, proclamado</li>
-        <li>DET: el, los, un, lo, este, esto, ese, cada, muchos, eso</li>
-        <li>NOUN: años, año, lugar, gobierno, estado, millones, día, embargo, mar, mundo</li>
-        <li>NUM: dos, 1, 10, 3, mil, tres, seis, 70, cuatro, 100</li>
-        <li>PRON: que, su, lo, sus, ellos, le, él, el, cual, les</li>
-        <li>PROPN: Trump, mediterráneo, EUA, Donald, Caribe, Joseph, Rafferty, Andes, Antonio, Bogd</li>
-        <li>VERB: involucrados, seguido, acusado, construido, destruido, enviado, escrito, establecido, expuestos, firmado</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+
+<ul>
+  <li><a>Gender</a></li>
+</ul>
+
+<ul>
+  <li>Fem
+    <ul>
+      <li>ADJ: primera, nueva, británica, gran, mayor, segunda, nuevas, americana, nacional, propia</li>
+      <li>AUX: llamada, consideradas, declarada</li>
+      <li>DET: la, las, una, esta, el, muchas, todas, otra, cada, varias</li>
+      <li>NOUN: guerra, parte, ciudad, vez, personas, historia, región, mayoría, vida, veces</li>
+      <li>NUM: dos, tres, 10, 760, cuatro, diez, ocho, 10.000, 12.000, 125</li>
+      <li>PRON: su, que, sus, ella, le, cual, cuales, la, nuestra, mi</li>
+      <li>PROPN: Clinton, BBC, Kesha, Rona, luna, Blunt, Guinea, Jasmine, UE, Anaya</li>
+      <li>VERB: dirigida, coprotagonizada, derrotada, destruida, dividida, formada, localizadas, perdidas, realizada, relacionada</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Masc
+    <ul>
+      <li>ADJ: gran, primer, últimos, nuevos, Unidos, grandes, mayor, nacional, Unido, mismo</li>
+      <li>AUX: llamados, declarado, elegido, escrito, nombrado, proclamado</li>
+      <li>DET: el, los, un, lo, este, esto, ese, cada, muchos, eso</li>
+      <li>NOUN: años, año, lugar, gobierno, estado, millones, día, embargo, mar, mundo</li>
+      <li>NUM: dos, 1, 10, 3, mil, tres, seis, 70, cuatro, 100</li>
+      <li>PRON: que, su, lo, sus, ellos, le, él, el, cual, les</li>
+      <li>PROPN: Trump, mediterráneo, EUA, Donald, Caribe, Joseph, Rafferty, Andes, Antonio, Bogd</li>
+      <li>VERB: involucrados, seguido, acusado, construido, destruido, enviado, escrito, establecido, expuestos, firmado</li>
+    </ul>
+  </li>
+</ul>
 
 
-<li><a>Number</a>
-  <ul>
-    <li>Plur
-      <ul>
-        <li>ADJ: grandes, últimos, nuevos, Unidos, diferentes, nuevas, primeros, importantes, mejores, Olímpicos</li>
-        <li>AUX: son, eran, fueron, llamados, sean, serían, aparecen, consideradas, consideran, contendrán</li>
-        <li>DET: los, las, muchos, estos, muchas, otros, todas, varios, esos, unos</li>
-        <li>NOUN: años, millones, personas, estados, veces, ciudades, datos, elecciones, inversores, meses</li>
-        <li>PRON: que, se, sus, ellos, les, cuales, nos, quienes, Cuáles, Quiénes</li>
-        <li>PROPN: EUA, Andes, Balcanes, Alpes, B-29, CBS, Caribs, Indias, Loving, Maldivas</li>
-        <li>VERB: han, fueron, están, habían, tienen, estaban, pueden, son, incluyen, llegaron</li>
-      </ul>
-    </li>
-    <li>Sing
-      <ul>
-        <li>ADJ: gran, primera, mayor, nueva, nacional, primer, británica, segunda, Unido, mismo</li>
-        <li>AUX: es, era, fue, está, sea, sería, estaba, mantuvo, será, fuese</li>
-        <li>DET: el, la, un, una, lo, este, esta, esto, cada, ese</li>
-        <li>NOUN: año, guerra, lugar, parte, gobierno, mar, ciudad, estado, vez, día</li>
-        <li>PRON: se, su, que, lo, le, cual, me, él, quien, el</li>
-        <li>PROPN: China, Europa, Italia, Australia, Pekín, Albania, Francia, Trump, Bretaña, España</li>
-        <li>VERB: ha, fue, había, está, dijo, es, puede, tiene, estaba, hay</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Number</a></li>
+</ul>
 
-<li><a>Case</a>
-  <ul>
-    <li>Acc
-      <ul>
-        <li>PRON: lo, la, le, les, nos, los, me, You, las</li>
-      </ul>
-    </li>
-    <li>Dat
-      <ul>
-        <li>PRON: le, les, me, nos, lo, te</li>
-      </ul>
-    </li>
-    <li>Nom
-      <ul>
-        <li>PRON: el, ella, ellos, yo, él, lo, Ya, You, usted</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li>Plur
+    <ul>
+      <li>ADJ: grandes, últimos, nuevos, Unidos, diferentes, nuevas, primeros, importantes, mejores, Olímpicos</li>
+      <li>AUX: son, eran, fueron, llamados, sean, serían, aparecen, consideradas, consideran, contendrán</li>
+      <li>DET: los, las, muchos, estos, muchas, otros, todas, varios, esos, unos</li>
+      <li>NOUN: años, millones, personas, estados, veces, ciudades, datos, elecciones, inversores, meses</li>
+      <li>PRON: que, se, sus, ellos, les, cuales, nos, quienes, Cuáles, Quiénes</li>
+      <li>PROPN: EUA, Andes, Balcanes, Alpes, B-29, CBS, Caribs, Indias, Loving, Maldivas</li>
+      <li>VERB: han, fueron, están, habían, tienen, estaban, pueden, son, incluyen, llegaron</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sing
+    <ul>
+      <li>ADJ: gran, primera, mayor, nueva, nacional, primer, británica, segunda, Unido, mismo</li>
+      <li>AUX: es, era, fue, está, sea, sería, estaba, mantuvo, será, fuese</li>
+      <li>DET: el, la, un, una, lo, este, esta, esto, cada, ese</li>
+      <li>NOUN: año, guerra, lugar, parte, gobierno, mar, ciudad, estado, vez, día</li>
+      <li>PRON: se, su, que, lo, le, cual, me, él, quien, el</li>
+      <li>PROPN: China, Europa, Italia, Australia, Pekín, Albania, Francia, Trump, Bretaña, España</li>
+      <li>VERB: ha, fue, había, está, dijo, es, puede, tiene, estaba, hay</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Case</a></li>
+</ul>
+
+<ul>
+  <li>Acc
+    <ul>
+      <li>PRON: lo, la, le, les, nos, los, me, You, las</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Dat
+    <ul>
+      <li>PRON: le, les, me, nos, lo, te</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Nom
+    <ul>
+      <li>PRON: el, ella, ellos, yo, él, lo, Ya, You, usted</li>
+    </ul>
+  </li>
+</ul>
 
 
 
 <h3>Degree and Polarity</h3>
 
 
-<li><a>Polarity</a>
-  <ul>
-    <li>Neg
-      <ul>
-        <li>ADV: no, nunca, t, tampoco</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
+
+<ul>
+  <li>Neg
+    <ul>
+      <li>ADV: no, nunca, t, tampoco</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Verbal Features</h3>
 
-<li><a>Aspect</a>
-  <ul>
-    <li>Imp
-      <ul>
-        <li>AUX: es, era, son, ser, está, siendo, sea, eran, sería, estaba</li>
-        <li>VERB: está, es, puede, tiene, hacer, tener, estaba, ser, hay, están</li>
-      </ul>
-    </li>
-    <li>Perf
-      <ul>
-        <li>AUX: fue, fueron, mantuvo, apareció, consideró, declaró, estuvieron, mostraron, nombró, salió</li>
-        <li>VERB: ha, fue, había, dijo, han, fueron, habían, afirmó, convirtió, empezó</li>
-      </ul>
-    </li>
-  </ul>
-</li>
 
-<li><a>Mood</a>
-  <ul>
-    <li>Cnd
-      <ul>
-        <li>AUX: sería, serían, moriría, resultaría</li>
-        <li>VERB: podría, debería, podrían, aplicaría, estaría, asistiría, ayudaría, conocerían, convertiría, echaría</li>
-      </ul>
-    </li>
-    <li>Imp
-      <ul>
-        <li>VERB: Don, Knuck</li>
-      </ul>
-    </li>
-    <li>Ind
-      <ul>
-        <li>AUX: es, era, fue, son, está, eran, fueron, estaba, mantuvo, será</li>
-        <li>VERB: ha, fue, había, está, dijo, es, puede, tiene, han, estaba</li>
-      </ul>
-    </li>
-    <li>Sub
-      <ul>
-        <li>AUX: sea, fuese, sean, declarase, fueran, parezca, seamos</li>
-        <li>VERB: hayan, hubiera, escogiera, fueran, haya, hubiese, produzcan, tuviese, utilice, vaya</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Aspect</a></li>
+</ul>
 
-<li><a>Tense</a>
-  <ul>
-    <li>Fut
-      <ul>
-        <li>AUX: será, contendrán</li>
-        <li>VERB: habrá, será, tendrá, hará, reducirá, Evaluaremos, Jugarán, asistirán, cambiará, continuará</li>
-      </ul>
-    </li>
-    <li>Past
-      <ul>
-        <li>AUX: era, fue, eran, fueron, estaba, mantuvo, fuese, apareció, consideró, declaraba</li>
-        <li>VERB: ha, fue, había, dijo, han, estaba, fueron, habían, era, estaban</li>
-      </ul>
-    </li>
-    <li>Pres
-      <ul>
-        <li>AUX: es, son, está, sea, sean, Declaro, aparece, aparecen, considera, consideran</li>
-        <li>VERB: está, es, puede, tiene, hay, están, hace, tienen, pueden, dice</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li>Imp
+    <ul>
+      <li>AUX: es, era, son, ser, está, siendo, sea, eran, sería, estaba</li>
+      <li>VERB: está, es, puede, tiene, hacer, tener, estaba, ser, hay, están</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Voice</a>
-  <ul>
-    <li>Act
-      <ul>
-        <li>AUX: es, era, fue, son, está, sea, eran, fueron, ser, sería</li>
-        <li>VERB: ha, había, está, dijo, es, tiene, puede, han, estaba, hay</li>
-      </ul>
-    </li>
-    <li>Pass
-      <ul>
-        <li>AUX: considera, consideran, declaró</li>
-        <li>VERB: fue, fueron, ha, había, ser, puede, son, habían, pueden, conoce</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li>Perf
+    <ul>
+      <li>AUX: fue, fueron, mantuvo, apareció, consideró, declaró, estuvieron, mostraron, nombró, salió</li>
+      <li>VERB: ha, fue, había, dijo, han, fueron, habían, afirmó, convirtió, empezó</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Mood</a></li>
+</ul>
+
+<ul>
+  <li>Cnd
+    <ul>
+      <li>AUX: sería, serían, moriría, resultaría</li>
+      <li>VERB: podría, debería, podrían, aplicaría, estaría, asistiría, ayudaría, conocerían, convertiría, echaría</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Imp
+    <ul>
+      <li>VERB: Don, Knuck</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>AUX: es, era, fue, son, está, eran, fueron, estaba, mantuvo, será</li>
+      <li>VERB: ha, fue, había, está, dijo, es, puede, tiene, han, estaba</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sub
+    <ul>
+      <li>AUX: sea, fuese, sean, declarase, fueran, parezca, seamos</li>
+      <li>VERB: hayan, hubiera, escogiera, fueran, haya, hubiese, produzcan, tuviese, utilice, vaya</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Tense</a></li>
+</ul>
+
+<ul>
+  <li>Fut
+    <ul>
+      <li>AUX: será, contendrán</li>
+      <li>VERB: habrá, será, tendrá, hará, reducirá, Evaluaremos, Jugarán, asistirán, cambiará, continuará</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Past
+    <ul>
+      <li>AUX: era, fue, eran, fueron, estaba, mantuvo, fuese, apareció, consideró, declaraba</li>
+      <li>VERB: ha, fue, había, dijo, han, estaba, fueron, habían, era, estaban</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Pres
+    <ul>
+      <li>AUX: es, son, está, sea, sean, Declaro, aparece, aparecen, considera, consideran</li>
+      <li>VERB: está, es, puede, tiene, hay, están, hace, tienen, pueden, dice</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Voice</a></li>
+</ul>
+
+<ul>
+  <li>Act
+    <ul>
+      <li>AUX: es, era, fue, son, está, sea, eran, fueron, ser, sería</li>
+      <li>VERB: ha, había, está, dijo, es, tiene, puede, han, estaba, hay</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Pass
+    <ul>
+      <li>AUX: considera, consideran, declaró</li>
+      <li>VERB: fue, fueron, ha, había, ser, puede, son, habían, pueden, conoce</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
@@ -324,45 +392,57 @@ employ ten-fold cross-validation.
 
 
 
-<li><a>Person</a>
-  <ul>
-    <li>1
-      <ul>
-        <li>AUX: Declaro, era, estamos, seamos, siento, somos</li>
-        <li>PRON: me, nos, yo, nuestro, mi, nuestra, My, nuestras, nuestros, mis</li>
-        <li>VERB: debemos, estamos, he, creo, hemos, podemos, creemos, espero, estoy, quería</li>
-      </ul>
-    </li>
-    <li>2
-      <ul>
-        <li>PRON: You, te, Ya, os, tu, tú</li>
-        <li>VERB: tienes, Buck, Don, Knew, Knuck, Terminas, habéis, has, oyes, puedes</li>
-      </ul>
-    </li>
-    <li>3
-      <ul>
-        <li>AUX: es, era, fue, son, está, sea, eran, fueron, sería, estaba</li>
-        <li>PRON: se, su, sus, lo, le, ellos, él, les, el, ella</li>
-        <li>VERB: ha, fue, había, está, dijo, es, puede, tiene, han, estaba</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+
+<ul>
+  <li><a>Person</a></li>
+</ul>
+
+<ul>
+  <li>1
+    <ul>
+      <li>AUX: Declaro, era, estamos, seamos, siento, somos</li>
+      <li>PRON: me, nos, yo, nuestro, mi, nuestra, My, nuestras, nuestros, mis</li>
+      <li>VERB: debemos, estamos, he, creo, hemos, podemos, creemos, espero, estoy, quería</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>2
+    <ul>
+      <li>PRON: You, te, Ya, os, tu, tú</li>
+      <li>VERB: tienes, Buck, Don, Knew, Knuck, Terminas, habéis, has, oyes, puedes</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>3
+    <ul>
+      <li>AUX: es, era, fue, son, está, sea, eran, fueron, sería, estaba</li>
+      <li>PRON: se, su, sus, lo, le, ellos, él, les, el, ella</li>
+      <li>VERB: ha, fue, había, está, dijo, es, puede, tiene, han, estaba</li>
+    </ul>
+  </li>
+</ul>
 
 
 
 
 <h3>Other Features</h3>
 
-<li><a>Foreign</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>X: maiorum</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>X: maiorum</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 
@@ -370,6 +450,9 @@ employ ten-fold cross-validation.
 
 <ul>
 <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
 <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: _.</li>
 </ul>

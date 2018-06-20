@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ro_nonstandard-dep-expl.html">expl</a></tt>.
 There are also 3 other language-specific subtypes of `expl`: <tt><a href="ro_nonstandard-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="ro_nonstandard-dep-expl-poss.html">expl:poss</a></tt>, <tt><a href="ro_nonstandard-dep-expl-pv.html">expl:pv</a></tt>.
 
-15 nodes (0%) are attached to their parents as `expl:impers`.
+110 nodes (0%) are attached to their parents as `expl:impers`.
 
-13 instances of `expl:impers` (87%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.06666666666667.
+96 instances of `expl:impers` (87%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.19090909090909.
 
-The following 1 pairs of parts of speech are connected with `expl:impers`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (15; 100% instances).
+The following 2 pairs of parts of speech are connected with `expl:impers`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (108; 98% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> (2; 2% instances).
 
 
 ~~~ conllu
@@ -23,21 +23,38 @@ The following 1 pairs of parts of speech are connected with `expl:impers`: <tt><
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 3 expl:impers	color:blue
-1	(	(	PUNCT	LPAR	_	4	punct	_	ref=MATT4.4.comment|SpaceAfter=No
-2	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	nsubj	_	ref=MATT4.4.comment
-3	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	4	expl:impers	_	ref=MATT4.4.comment
-4	zice	zice	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT4.4.comment|SpaceAfter=No
-5	:	:	PUNCT	COLON	_	9	punct	_	ref=MATT4.4.comment
-6	săva	savai	INTJ	I	_	9	discourse	_	ref=MATT4.4.comment
-7	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	ref=MATT4.4.comment
-8	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	9	obl	_	ref=MATT4.4.comment
-9	voiaște	voi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	ref=MATT4.4.comment
-10	Dumnedzeu	Dumnezeu	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	9	nsubj	_	ref=MATT4.4.comment
-11	să	să	PART	Qs	PartType=Sub	13	mark	_	ref=MATT4.4.comment|SpaceAfter=No
-12	-L	el	PRON	Pp3msa--------w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak	13	obj	_	ref=MATT4.4.comment
-13	hrănească	hrăni	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	9	ccomp	_	ref=MATT4.4.comment|SpaceAfter=No
-14	.	.	PUNCT	PERIOD	_	4	punct	_	ref=MATT4.4.comment|SpaceAfter=No
-15	)	)	PUNCT	RPAR	_	4	punct	_	ref=MATT4.4.comment
+1	Dară	dar	CCONJ	Ccssp	Polarity=Pos	4	cc	_	ref=MATT18.12
+2	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	nsubj	_	ref=MATT18.12
+3	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	4	expl:impers	_	ref=MATT18.12
+4	pare	părea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT18.12
+5	voao	tu	PRON	Pp2-pd--------s	Case=Dat|Number=Plur|Person=2|PronType=Prs|Strength=Strong	4	iobj	_	ref=MATT18.12|SpaceAfter=No
+6	?	?	PUNCT	QUEST	_	4	punct	_	ref=MATT18.12
+
+~~~
+
+
+~~~ conllu
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 expl:impers	color:blue
+1	Nu	nu	ADV	Qz	Polarity=Neg	3	advmod	_	ref=IOAN3.7
+2	te	tu	PRON	Pp2-sa--------w	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	3	expl:pv	_	ref=IOAN3.7
+3	mira	mira	VERB	Vmm-2s--z	Mood=Imp|Number=Sing|Person=2|Polarity=Neg|VerbForm=Fin	0	root	_	ref=IOAN3.7
+4	căce	căci	SCONJ	Cscsp	Compound=Yes|Polarity=Pos	5	mark	_	ref=IOAN3.7
+5	ziș	zice	VERB	Vmis1s	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	advcl	_	ref=IOAN3.7
+6	ție	tu	PRON	Pp2-sd--------s	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Strong	5	iobj	_	ref=IOAN3.7|SpaceAfter=No
+7	,	,	PUNCT	COMMA	_	8	punct	_	ref=IOAN3.7
+8	cade-	cădea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	_	ref=IOAN3.7|SpaceAfter=No
+9	să	să	PART	Qs	PartType=Sub	8	expl:impers	_	ref=IOAN3.7
+10	voao	tu	PRON	Pp2-pd--------s	Case=Dat|Number=Plur|Person=2|PronType=Prs|Strength=Strong	8	iobj	_	ref=IOAN3.7
+11	a	a	PART	Qn	PartType=Inf	13	mark	_	ref=IOAN3.7
+12	vă	tu	PRON	Pp2-pa--------w	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak	13	expl:pv	_	ref=IOAN3.7
+13	naște	naște	VERB	Vmn	VerbForm=Inf	8	csubj	_	ref=IOAN3.7
+14	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	15	mark	_	ref=IOAN3.7
+15	nou	nou	ADV	Rg	_	13	advmod	_	ref=IOAN3.7|SpaceAfter=No
+16	.	.	PUNCT	PERIOD	_	3	punct	_	ref=IOAN3.7
 
 ~~~
 

@@ -8,61 +8,77 @@ udver: '2'
 
 This relation is universal.
 
-3148 nodes (15%) are attached to their parents as `punct`.
+21445 nodes (16%) are attached to their parents as `punct`.
 
-1733 instances of `punct` (55%) are left-to-right (parent precedes child).
-Average distance between parent and child is 6.59942820838628.
+10993 instances of `punct` (51%) are left-to-right (parent precedes child).
+Average distance between parent and child is 6.68258335276288.
 
-The following 12 pairs of parts of speech are connected with `punct`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (2199; 70% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (627; 20% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (79; 3% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (73; 2% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (67; 2% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (54; 2% instances), <tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (28; 1% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (5; 0% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (3; 0% instances), <tt><a href="ro_nonstandard-pos-X.html">X</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances).
+The following 27 pairs of parts of speech are connected with `punct`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (14961; 70% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (3945; 18% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (602; 3% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (597; 3% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (464; 2% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (443; 2% instances), <tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (152; 1% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (94; 0% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (77; 0% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (22; 0% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (17; 0% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (15; 0% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (14; 0% instances), <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (12; 0% instances), <tt><a href="ro_nonstandard-pos-X.html">X</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (8; 0% instances), <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (4; 0% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt>-<tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
+# visual-style 15	bgColor:blue
+# visual-style 15	fgColor:white
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 5 punct	color:blue
-1	Ezechiia	Ezechiia	PROPN	Npmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	2	nsubj	_	ref=MATT1.10
-2	născu	naște	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT1.10
-3	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=MATT1.10
-4	Manasia	Manasia	PROPN	Npmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	2	nmod:pmod	_	ref=MATT1.10|SpaceAfter=No
-5	,	,	PUNCT	COMMA	_	8	punct	_	ref=MATT1.10
-6	iară	iar	CCONJ	Ccssp	Polarity=Pos	8	cc	_	ref=MATT1.10
-7	Manasiia	Manasiia	PROPN	Npmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	8	nsubj	_	ref=MATT1.10
-8	născu	naște	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	ref=MATT1.10
-9	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	ref=MATT1.10
-10	Amon	Amon	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	8	nmod:pmod	_	ref=MATT1.10|SpaceAfter=No
-11	.	.	PUNCT	PERIOD	_	2	punct	_	ref=MATT1.10
+# visual-style 5 15 punct	color:blue
+1	Că	că	SCONJ	Csssp	Polarity=Pos	5	mark	_	ref=MATT17.15
+2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=MATT17.15
+3	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	4	det	_	ref=MATT17.15
+4	ori	oară	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	5	nmod:tmod	_	ref=MATT17.15
+5	cade	cădea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT17.15
+6	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	ref=MATT17.15
+7	foc	foc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	5	obl	_	ref=MATT17.15
+8	și	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	ref=MATT17.15
+9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	ref=MATT17.15
+10	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	11	det	_	ref=MATT17.15
+11	ori	oară	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	5	conj	_	ref=MATT17.15|SpaceAfter=No
+12	,	,	PUNCT	COMMA	_	11	punct	_	ref=MATT17.15
+13	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	ref=MATT17.15
+14	apă	apă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	orphan	_	ref=MATT17.15|SpaceAfter=No
+15	.	.	PUNCT	PERIOD	_	5	punct	_	ref=MATT17.15
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 6 punct	color:blue
-1	DE	de	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	ref=MATT.title
-2	LA	la	ADP	Spsa	AdpType=Prep|Case=Acc	1	fixed	_	ref=MATT.title
-3	MATTEIU	MATEI	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	5	nmod	_	ref=MATT.title
-4	SFÎNTA	sfânt	ADJ	Afpfsry	Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Fem	5	amod	_	ref=MATT.title
-5	EVANGHELIE	evanghelie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	ref=MATT.title|SpaceAfter=No
-6	.	.	PUNCT	PERIOD	_	5	punct	_	ref=MATT.title
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 11 12 punct	color:blue
+1	Că	că	SCONJ	Csssp	Polarity=Pos	5	mark	_	ref=MATT17.15
+2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=MATT17.15
+3	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	4	det	_	ref=MATT17.15
+4	ori	oară	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	5	nmod:tmod	_	ref=MATT17.15
+5	cade	cădea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT17.15
+6	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	ref=MATT17.15
+7	foc	foc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	5	obl	_	ref=MATT17.15
+8	și	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	ref=MATT17.15
+9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	ref=MATT17.15
+10	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	11	det	_	ref=MATT17.15
+11	ori	oară	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	5	conj	_	ref=MATT17.15|SpaceAfter=No
+12	,	,	PUNCT	COMMA	_	11	punct	_	ref=MATT17.15
+13	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	ref=MATT17.15
+14	apă	apă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	orphan	_	ref=MATT17.15|SpaceAfter=No
+15	.	.	PUNCT	PERIOD	_	5	punct	_	ref=MATT17.15
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 4 punct	color:blue
-1	Carii	care	PRON	Pw3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Int,Rel	3	nsubj	_	ref=MATT5.1.content|SpaceAfter=No
-2	-s	fi	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	ref=MATT5.1.content
-3	fericiți	fericit	ADJ	Afpmprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	0	root	_	ref=MATT5.1.content|SpaceAfter=No
-4	.	.	PUNCT	PERIOD	_	3	punct	_	ref=MATT5.1.content
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 1 5 punct	color:blue
+1	Cela	acela	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	nsubj	_	ref=MATT19.12
+2	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	nsubj	_	ref=MATT19.12
+3	poate	putea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	ref=MATT19.12
+4	cuprinde	cuprinde	VERB	Vmn	VerbForm=Inf	1	acl	_	ref=MATT19.12|SpaceAfter=No
+5	,	,	PUNCT	COMMA	_	1	punct	_	ref=MATT19.12
+6	cuprinză	cuprinde	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT19.12|SpaceAfter=No
+7	.	.	PUNCT	PERIOD	_	6	punct	_	ref=MATT19.12
 
 ~~~
 

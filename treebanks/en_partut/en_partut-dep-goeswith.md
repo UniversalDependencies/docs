@@ -86,7 +86,7 @@ The following 13 pairs of parts of speech are connected with `goeswith`: <tt><a 
 6	s	s	X	X	_	5	goeswith	_	_
 7	in	in	ADP	E	_	8	case	_	_
 8	Saudi	Saudi	PROPN	SP	_	4	obl	_	_
-9	Arabia	Arabia	PROPN	SP	_	8	flat:name	_	SpaceAfter=No
+9	Arabia	Arabia	PROPN	SP	_	8	flat	_	SpaceAfter=No
 10	.	.	PUNCT	FS	_	4	punct	_	_
 
 ~~~

@@ -22,17 +22,17 @@ The following 7 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 6 obl:tmod	color:blue
-1	Başarılı	_	ADJ	JJ	Number=Sing	3	amod	_	_
-2	bir	_	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	3	det	_	_
-3	gitarcı	_	NOUN	NN	Number=Sing	10	advcl	_	_
-4	olarak	_	AUX	CRB	Polarity=Pos	3	cop	_	_
-5	aynı	_	ADJ	JJ	Number=Sing	6	amod	_	_
-6	yıl	_	NOUN	NN	Number=Sing	10	obl:tmod	_	_
-7	orada	_	PRON	PRD	Case=Loc|Number=Sing|Polarity=Pos	10	advmod	_	_
-8	bir	_	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	9	det	_	_
-9	konser	_	NOUN	NN	Number=Sing	10	obj	_	_
-10	verdi	_	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
-11	.	_	PUNCT	.	_	10	punct	_	_
+1	Başarılı	başarılı	ADJ	JJ	Number=Sing	3	amod	_	_
+2	bir	bir	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	3	det	_	_
+3	gitarcı	gitarcı	NOUN	NN	Number=Sing	10	advcl	_	_
+4	olarak	olarak	AUX	CRB	Polarity=Pos	3	cop	_	_
+5	aynı	aynı	ADJ	JJ	Number=Sing	6	amod	_	_
+6	yıl	yıl	NOUN	NN	Number=Sing	10	obl:tmod	_	_
+7	orada	ora	PRON	PRD	Case=Loc|Number=Sing|Polarity=Pos	10	advmod	_	_
+8	bir	bir	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	9	det	_	_
+9	konser	konser	NOUN	NN	Number=Sing	10	obj	_	_
+10	verdi	ver	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	10	punct	_	_
 
 ~~~
 
@@ -43,14 +43,14 @@ The following 7 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 2 obl:tmod	color:blue
-1	1975	_	NUM	CD	Number=Sing	2	compound	_	_
-2	yılında	_	NOUN	NN	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	obl:tmod	_	_
-3	yaban	_	NOUN	NN	Number=Sing	4	compound	_	_
-4	hayat	_	NOUN	NN	Number=Sing	5	compound	_	_
-5	tapınağı	_	NOUN	NN	Number=Sing|Number[psor]=Sing|Person[psor]=3	0	root	_	_
-6	ilan	_	NOUN	NN	Number=Sing	5	fixed	_	_
-7	edilmiştir	_	AUX	VB	Aspect=Perf|Evident=Nfh|Mood=Gen|Number=Sing|Person=3|Tense=Past|Voice=Pass	5	cop	_	SpaceAfter=No
-8	.	_	PUNCT	.	_	5	punct	_	_
+1	1975	1975	NUM	CD	Number=Sing	2	compound	_	_
+2	yılında	yıl	NOUN	NN	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3	5	obl:tmod	_	_
+3	yaban	yaban	NOUN	NN	Number=Sing	4	compound	_	_
+4	hayat	hayat	NOUN	NN	Number=Sing	5	compound	_	_
+5	tapınağı	tapınağ	NOUN	NN	Number=Sing|Number[psor]=Sing|Person[psor]=3	0	root	_	_
+6	ilan	ilan	NOUN	NN	Number=Sing	5	fixed	_	_
+7	edilmiştir	et	AUX	VB	Aspect=Perf|Evident=Nfh|Mood=Gen|Number=Sing|Person=3|Tense=Past|Voice=Pass	5	cop	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	5	punct	_	_
 
 ~~~
 
@@ -61,16 +61,16 @@ The following 7 pairs of parts of speech are connected with `obl:tmod`: <tt><a h
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 4 obl:tmod	color:blue
-1	Çin	_	PROPN	PROPN	Case=Nom|Number=Sing	8	nsubj	_	Proper=True
-2	yenildi	_	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	_
-3	ve	_	CCONJ	CCONJ	_	8	cc	_	_
-4	1842'de	_	NOUN	NN	Case=Loc|Number=Sing	8	obl:tmod	_	_
-5	Nanking	_	PROPN	PROPN	Number=Sing	6	compound	_	Proper=True
-6	Antlaşması	_	NOUN	VN	Number=Sing|Number[psor]=Sing|Person[psor]=3	7	compound	_	Proper=True
-7	hükümlerine	_	NOUN	NN	Case=Dat|Number=Plur|Number[psor]=Sing|Person[psor]=3	8	nmod:arg	_	_
-8	razı	_	ADJ	JJ	Number=Sing	2	conj	_	_
-9	oldu	_	AUX	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	8	cop	_	SpaceAfter=No
-10	.	_	PUNCT	.	_	8	punct	_	_
+1	Çin	Çin	PROPN	PROPN	Case=Nom|Number=Sing	8	nsubj	_	Proper=True
+2	yenildi	yenil	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	_
+3	ve	ve	CCONJ	CCONJ	_	8	cc	_	_
+4	1842'de	1842	NOUN	NN	Case=Loc|Number=Sing	8	obl:tmod	_	_
+5	Nanking	Nanking	PROPN	PROPN	Number=Sing	6	compound	_	Proper=True
+6	Antlaşması	Antlaş	NOUN	VN	Number=Sing|Number[psor]=Sing|Person[psor]=3	7	compound	_	Proper=True
+7	hükümlerine	hüküm	NOUN	NN	Case=Dat|Number=Plur|Number[psor]=Sing|Person[psor]=3	8	nmod:arg	_	_
+8	razı	razı	ADJ	JJ	Number=Sing	2	conj	_	_
+9	oldu	ol	AUX	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	8	cop	_	SpaceAfter=No
+10	.	.	PUNCT	.	_	8	punct	_	_
 
 ~~~
 

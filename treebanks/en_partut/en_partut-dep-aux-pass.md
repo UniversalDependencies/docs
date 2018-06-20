@@ -43,8 +43,8 @@ The following 2 pairs of parts of speech are connected with `aux:pass`: <tt><a h
 2	1613	1613	NUM	N	NumType=Card	7	obl	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	2	punct	_	_
 4	Sir	Sir	PROPN	SP	_	7	nsubj	_	_
-5	Henry	Henry	PROPN	SP	_	4	flat:name	_	_
-6	Wotton	Wotton	PROPN	SP	_	4	flat:name	_	_
+5	Henry	Henry	PROPN	SP	_	4	flat	_	_
+6	Wotton	Wotton	PROPN	SP	_	4	flat	_	_
 7	recorded	record	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	that	that	SCONJ	CS	_	13	mark	_	_
 9	Henry	Henry	PROPN	SP	_	13	nsubj:pass	_	_

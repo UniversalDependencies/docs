@@ -7,14 +7,36 @@ udver: '2'
 ## Treebank Statistics: UD_French-ParTUT: Relations: `dislocated`
 
 This relation is universal.
-There are 1 language-specific subtypes of `dislocated`: <tt><a href="fr_partut-dep-dislocated-cleft.html">dislocated:cleft</a></tt>.
 
-8 nodes (0%) are attached to their parents as `dislocated`.
+11 nodes (0%) are attached to their parents as `dislocated`.
 
-6 instances of `dislocated` (75%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.75.
+9 instances of `dislocated` (82%) are right-to-left (child precedes parent).
+Average distance between parent and child is 6.18181818181818.
 
-The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (2; 25% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (2; 25% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (1; 13% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1; 13% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1; 13% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (1; 13% instances).
+The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (4; 36% instances), <tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (2; 18% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (2; 18% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (1; 9% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1; 9% instances), <tt><a href="fr_partut-pos-VERB.html">VERB</a></tt>-<tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt> (1; 9% instances).
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 1 dislocated	color:blue
+1	Moi	moi	PRON	PE	Number=Sing|Person=1|PronType=Prs	10	dislocated	_	_
+2	non	non	ADV	BN	PronType=Neg	1	advmod	_	_
+3	plus	plus	ADV	B	_	2	fixed	_	SpaceAfter=No
+4	,	,	PUNCT	FF	_	1	punct	_	_
+5	vous	vous	PRON	PE	Number=Plur|Person=2|PronType=Prs	10	nsubj	_	_
+6	ne	ne	PART	PART	Polarity=Neg	10	advmod	_	_
+7	m'	me	PRON	P	Person=1|PronType=Prs	10	iobj	_	SpaceAfter=No
+8	avez	avoir	AUX	VA	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	10	aux	_	_
+9	pas	pas	ADV	BN	Polarity=Neg	10	advmod	_	_
+10	donné	donner	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+11	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	parole	parole	NOUN	S	Gender=Fem|Number=Sing	10	obj	_	SpaceAfter=No
+13	.	.	PUNCT	FS	_	10	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -52,27 +74,6 @@ The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a
 8	pour	pour	ADP	E	_	9	case	_	_
 9	rien	rien	PRON	PI	PronType=Ind	7	obl	_	SpaceAfter=No
 10	.	.	PUNCT	FS	_	7	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 8 3 dislocated	color:blue
-1	Et	et	CCONJ	CC	_	8	cc	_	_
-2	ce	ce	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
-3	prédateur	prédateur	NOUN	S	Gender=Masc|Number=Sing	8	dislocated	_	_
-4	suprême	suprême	ADJ	A	Number=Sing	3	amod	_	SpaceAfter=No
-5	,	,	PUNCT	FF	_	3	punct	_	_
-6	c'	ce	PRON	PD	PronType=Dem	8	nsubj	_	SpaceAfter=No
-7	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
-8	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	0	root	_	_
-9	bien	bien	ADV	B	_	10	advmod	_	_
-10	sûr	sûr	ADV	B	_	8	advmod	_	SpaceAfter=No
-11	.	.	PUNCT	FS	_	8	punct	_	_
 
 ~~~
 

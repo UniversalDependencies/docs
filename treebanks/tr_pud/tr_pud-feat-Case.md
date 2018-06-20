@@ -11,7 +11,7 @@ It occurs with 7 different values: `Abl`, `Acc`, `Dat`, `Gen`, `Ins`, `Loc`, `No
 
 4867 tokens (29%) have a non-empty value of `Case`.
 3627 types (49%) occur at least once with a non-empty value of `Case`.
-1 lemmas (0) occur at least once with a non-empty value of `Case`.
+2334 lemmas (52%) occur at least once with a non-empty value of `Case`.
 The feature is used with 10 part-of-speech tags: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (3826; 23% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (697; 4% instances), <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (247; 1% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (69; 0% instances), <tt><a href="tr_pud-pos-X.html">X</a></tt> (14; 0% instances), <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> (5; 0% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (4; 0% instances), <tt><a href="tr_pud-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `NOUN`
@@ -65,6 +65,14 @@ The most frequent other feature values with which `PRON` and `Case` co-occurred:
 * `Nom` (74; 30% of non-empty `Case`): <em>bu, bunlar, o, ben, biri, şey, bazıları, birçoğu, herkes, burası</em>
 * `EMPTY` (60): <em>kendi, biri, ne, bu, kendisi, kim, o, ben, diğeri, hepsi</em>
 
+<table>
+  <tr><th>Paradigm <i>bu</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th><th><tt>Abl</tt></th></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Definite.html">Definite</a></tt><tt>=Def</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td><em>bu</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td></td><td></td><td></td><td><em>Bunun</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>bunu</em></td><td><em>buna</em></td><td><em>bunun</em></td><td><em>bunda</em></td><td><em>Bununla</em></td><td><em>bundan</em></td></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td><em>bunlar</em></td><td><em>bunları</em></td><td><em>bunlara</em></td><td><em>bunların</em></td><td></td><td></td><td><em>bunlardan</em></td></tr>
+</table>
+
 ### `AUX`
 
 69 <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> tokens (13% of all `AUX` tokens) have a non-empty value of `Case`.
@@ -82,6 +90,17 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 * `Nom` (14; 20% of non-empty `Case`): <em>olduğu, olma, olmak, kalmak, olması, getirmek</em>
 * `EMPTY` (456): <em>olarak, olan, dır, dir, değil, oldu, tir, ydı, ydi, dı</em>
 
+<table>
+  <tr><th>Paradigm <i>ol</i></th><th><tt>Nom</tt></th><th><tt>Acc</tt></th><th><tt>Dat</tt></th><th><tt>Gen</tt></th><th><tt>Loc</tt></th><th><tt>Ins</tt></th><th><tt>Abl</tt></th></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Fut</tt></tt></td><td><em>olmak</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="tr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt></tt></td><td><em>olması</em></td><td></td><td><em>olmasına</em></td><td><em>olmasının</em></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="tr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt></tt></td><td><em>olma, olmak</em></td><td><em>olmayı</em></td><td><em>olmaya</em></td><td><em>olmanın</em></td><td></td><td><em>olmakla</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Pres</tt>|<tt><a href="tr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Ger</tt>|<tt><a href="tr_pud-feat-Voice.html">Voice</a></tt><tt>=Cau</tt></tt></td><td></td><td></td><td></td><td></td><td></td><td></td><td><em>olmaktan</em></td></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt>|<tt><a href="tr_pud-feat-Tense.html">Tense</a></tt><tt>=Past</tt></tt></td><td><em>olduğu</em></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Polarity.html">Polarity</a></tt><tt>=Neg</tt></tt></td><td></td><td><em>olmadığını, olmayacağını</em></td><td></td><td></td><td></td><td></td><td><em>olmadığından</em></td></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Polarity.html">Polarity</a></tt><tt>=Pos</tt></tt></td><td><em>olduğu</em></td><td><em>olduğunu, olabileceğini</em></td><td><em>olduğuna</em></td><td></td><td><em>olduğunda</em></td><td></td><td><em>olduğundan</em></td></tr>
+</table>
+
 ### `X`
 
 14 <tt><a href="tr_pud-pos-X.html">X</a></tt> tokens (13% of all `X` tokens) have a non-empty value of `Case`.
@@ -97,6 +116,8 @@ The most frequent other feature values with which `X` and `Case` co-occurred: <t
 * `Loc` (2; 14% of non-empty `Case`): <em>Street'te, 'da</em>
 * `Nom` (6; 43% of non-empty `Case`): <em>Dead, Knew, News, Prayer, Uber, You</em>
 * `EMPTY` (92): <em>the, of, North, Association, My, Really, America, Associated, Breaking, Buck</em>
+
+`Case` seems to be **lexical feature** of `X`. 91% lemmas (10) occur only with one value of `Case`.
 
 ### `ADP`
 
@@ -161,7 +182,6 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="tr_pud-dep-appos.html">appos</a></tt>]--> PRON</tt> (1; 100%),
 <tt>PRON --[<tt><a href="tr_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (1; 100%),
 <tt>PRON --[<tt><a href="tr_pud-dep-conj.html">conj</a></tt>]--> PROPN</tt> (1; 100%),
-<tt>PRON --[<tt><a href="tr_pud-dep-dep-ig.html">dep:ig</a></tt>]--> PROPN</tt> (1; 100%),
 <tt>PRON --[<tt><a href="tr_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (1; 100%),
 <tt>PRON --[<tt><a href="tr_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> X</tt> (1; 100%),
 <tt>PROPN --[<tt><a href="tr_pud-dep-advmod.html">advmod</a></tt>]--> PROPN</tt> (1; 100%).

@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Turkish-PUD: POS Tags: `DET`
 
-There are 1 `DET` lemmas (6%), 19 `DET` types (0%) and 685 `DET` tokens (4%).
-Out of 16 observed tags, the rank of `DET` is: 6 in number of lemmas, 11 in number of types and 8 in number of tokens.
+There are 20 `DET` lemmas (0%), 19 `DET` types (0%) and 685 `DET` tokens (4%).
+Out of 16 observed tags, the rank of `DET` is: 11 in number of lemmas, 11 in number of types and 8 in number of tokens.
 
-The 10 most frequent `DET` lemmas: <em>_</em>
+The 10 most frequent `DET` lemmas: <em>bir, bu, her, diğer, birçok, bazı, tüm, o, birkaç, şu</em>
 
 The 10 most frequent `DET` types:  <em>bir, bu, her, diğer, birçok, bazı, tüm, o, birkaç, şu</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 6385, <tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> 2149, <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> 1744, <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> 1526, <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> 1019, <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 851, <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 699, <tt><a href="tr_pud-pos-DET.html">DET</a></tt> 685, <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> 525, <tt><a href="tr_pud-pos-CCONJ.html">CCONJ</a></tt> 493, <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> 376, <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> 307, <tt><a href="tr_pud-pos-X.html">X</a></tt> 106, <tt><a href="tr_pud-pos-SCONJ.html">SCONJ</a></tt> 13, <tt><a href="tr_pud-pos-SYM.html">SYM</a></tt> 6, <tt><a href="tr_pud-pos-INTJ.html">INTJ</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>bir</em> (<tt><a href="tr_pud-pos-DET.html">DET</a></tt> 417, <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> 12, <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> 5, <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>bu</em> (<tt><a href="tr_pud-pos-DET.html">DET</a></tt> 126, <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> 99), <em>her</em> (<tt><a href="tr_pud-pos-DET.html">DET</a></tt> 31, <tt><a href="tr_pud-pos-X.html">X</a></tt> 1), <em>diğer</em> (<tt><a href="tr_pud-pos-DET.html">DET</a></tt> 20, <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> 3), <em>bazı</em> (<tt><a href="tr_pud-pos-DET.html">DET</a></tt> 16, <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> 4), <em>o</em> (<tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> 38, <tt><a href="tr_pud-pos-DET.html">DET</a></tt> 11, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 2), <em>şu</em> (<tt><a href="tr_pud-pos-DET.html">DET</a></tt> 7, <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> 2), <em>hangi</em> (<tt><a href="tr_pud-pos-DET.html">DET</a></tt> 2, <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> 1), <em>hemen</em> (<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 6, <tt><a href="tr_pud-pos-DET.html">DET</a></tt> 1), <em>kaç</em> (<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 1, <tt><a href="tr_pud-pos-DET.html">DET</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>bir</em> (<tt><a href="tr_pud-pos-DET.html">DET</a></tt> 403, <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> 10, <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 2), <em>bu</em> (<tt><a href="tr_pud-pos-DET.html">DET</a></tt> 73, <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> 17), <em>o</em> (<tt><a href="tr_pud-pos-DET.html">DET</a></tt> 7, <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> 6), <em>çoğu</em> (<tt><a href="tr_pud-pos-DET.html">DET</a></tt> 3, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 3, <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> 1), <em>hemen</em> (<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 6, <tt><a href="tr_pud-pos-DET.html">DET</a></tt> 1), <em>ne</em> (<tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> 7, <tt><a href="tr_pud-pos-DET.html">DET</a></tt> 1), <em>Öte</em> (<tt><a href="tr_pud-pos-DET.html">DET</a></tt> 1, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 1)
 
@@ -44,9 +44,13 @@ The 10 most frequent ambiguous types:  <em>bir</em> (<tt><a href="tr_pud-pos-DET
 
 ## Morphology
 
-The form / lemma ratio of `DET` is 19.000000 (the average of all parts of speech is 471.125000).
+The form / lemma ratio of `DET` is 0.950000 (the average of all parts of speech is 1.493265).
 
-The 1st highest number of forms (19) was observed with the lemma “_”: <em>Birtakım, bazı, bir, birkaç, birçok, bu, diğer, hangi, hemen, her, herhangi, hiçbir, kaç, ne, o, tüm, Öte, çoğu, şu</em>.
+The 1st highest number of forms (1) was observed with the lemma “bazı”: <em>bazı</em>.
+
+The 2nd highest number of forms (1) was observed with the lemma “bir”: <em>bir</em>.
+
+The 3rd highest number of forms (1) was observed with the lemma “birkaç”: <em>birkaç</em>.
 
 `DET` occurs with 8 features: <tt><a href="tr_pud-feat-Number.html">Number</a></tt> (684; 100% instances), <tt><a href="tr_pud-feat-Definite.html">Definite</a></tt> (679; 99% instances), <tt><a href="tr_pud-feat-Polarity.html">Polarity</a></tt> (675; 99% instances), <tt><a href="tr_pud-feat-PronType.html">PronType</a></tt> (4; 1% instances), <tt><a href="tr_pud-feat-Case.html">Case</a></tt> (2; 0% instances), <tt><a href="tr_pud-feat-NumType.html">NumType</a></tt> (1; 0% instances), <tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt> (1; 0% instances), <tt><a href="tr_pud-feat-Person-psor.html">Person[psor]</a></tt> (1; 0% instances)
 

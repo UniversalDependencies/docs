@@ -13,7 +13,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 2547 tokens (15%) have a non-empty value of `Person[psor]`.
 1793 types (24%) occur at least once with a non-empty value of `Person[psor]`.
-1 lemmas (0) occur at least once with a non-empty value of `Person[psor]`.
+1257 lemmas (28%) occur at least once with a non-empty value of `Person[psor]`.
 The feature is used with 9 part-of-speech tags: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (2309; 14% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (109; 1% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (56; 0% instances), <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (29; 0% instances), <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> (24; 0% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (15; 0% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="tr_pud-pos-DET.html">DET</a></tt> (1; 0% instances).
 
 ### `NOUN`
@@ -25,6 +25,8 @@ The most frequent other feature values with which `NOUN` and `Person[psor]` co-o
 `NOUN` tokens may have the following values of `Person[psor]`:
 
 
+`Person[psor]` seems to be **lexical feature** of `NOUN`. 99% lemmas (1168) occur only with one value of `Person[psor]`.
+
 ### `ADJ`
 
 109 <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> tokens (6% of all `ADJ` tokens) have a non-empty value of `Person[psor]`.
@@ -33,6 +35,8 @@ The most frequent other feature values with which `ADJ` and `Person[psor]` co-oc
 
 `ADJ` tokens may have the following values of `Person[psor]`:
 
+
+`Person[psor]` seems to be **lexical feature** of `ADJ`. 100% lemmas (70) occur only with one value of `Person[psor]`.
 
 ### `AUX`
 
@@ -43,6 +47,8 @@ The most frequent other feature values with which `AUX` and `Person[psor]` co-oc
 `AUX` tokens may have the following values of `Person[psor]`:
 
 
+`Person[psor]` seems to be **lexical feature** of `AUX`. 100% lemmas (11) occur only with one value of `Person[psor]`.
+
 ### `PRON`
 
 29 <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> tokens (9% of all `PRON` tokens) have a non-empty value of `Person[psor]`.
@@ -51,6 +57,8 @@ The most frequent other feature values with which `PRON` and `Person[psor]` co-o
 
 `PRON` tokens may have the following values of `Person[psor]`:
 
+
+`Person[psor]` seems to be **lexical feature** of `PRON`. 100% lemmas (14) occur only with one value of `Person[psor]`.
 
 ### `ADP`
 
@@ -67,6 +75,8 @@ The most frequent other feature values with which `PROPN` and `Person[psor]` co-
 
 `PROPN` tokens may have the following values of `Person[psor]`:
 
+
+`Person[psor]` seems to be **lexical feature** of `PROPN`. 100% lemmas (15) occur only with one value of `Person[psor]`.
 
 ### `ADV`
 

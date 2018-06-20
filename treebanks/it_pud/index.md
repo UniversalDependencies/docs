@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Antonio Stella, Davide Rovati, Martin Popel, Daniel Zeman, Maria Simi, Manuela Sanguinetti.
 
-Repository: [UD_Italian-PUD](https://github.com/UniversalDependencies/UD_Italian-PUD)
+Repository: [UD_Italian-PUD](https://github.com/UniversalDependencies/UD_Italian-PUD)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udit_pud)
 
 License: CC BY-SA 3.0
 
@@ -74,7 +75,6 @@ shared task). If it is used for training in future research, the users should
 employ ten-fold cross-validation.
 
 
-
 ## Acknowledgments
 
 # Statistics of UD Italian PUD
@@ -93,11 +93,24 @@ employ ten-fold cross-validation.
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 1000 sentences, 22182 tokens and 23729 syntactic words.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 2886 tokens (13%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 38 types of words that contain both letters and punctuation. Examples: l', un', d', c', a.C., quest', dell', e-mail, all', d.C., Trent', a.C, nord-occidentale, p.e.v., quell', 's, B-29, Didn', Don', Fa', N., Sant', St., Z., austro-prussiano, co-protagonisti, dall', dopo-show, franco-monegasco, indo-australiana, nord-orientale, nord-ovest, po', post-classico, s', storico-culturale, sud-occidentale, thai-cinesi</li>
+</ul>
+
+<ul>
 <li>This corpus contains 1545 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
 <li>There are 99 types of multi-word tokens. Examples: del, della, nel, dell', al, dei, alla, delle, all', nella, degli, nell', dal, nei, nelle, dalla, sul, ai, dai, dall', negli, alle, sulla, dalle, sull', agli, sui, dello, sulle, dagli, nello, dallo, essersi, allo, col, sullo, dandogli, farlo, Formatasi, Rivolgendosi, abrogandola, accentratesi, accusandolo, allontanandosi, allontanarsi, amarla, andarsene, aspettarsi, assumersi, averlo.</li>
 </ul>
@@ -109,6 +122,9 @@ employ ten-fold cross-validation.
 <ul>
 <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: INTJ</li>
+</ul>
+
+<ul>
 <li>This corpus contains 5 word types tagged as particles (PART): 's, avanti, ci, fuori, via</li>
 </ul>
 
@@ -138,303 +154,386 @@ employ ten-fold cross-validation.
 
 <h3>Nominal Features</h3>
 
-<li><a>Gender</a>
-  <ul>
-    <li>Fem
-      <ul>
-        <li>ADJ: prima, maggior, gran, grande, alta, maggiore, meridionale, americana, nuova, seconda</li>
-        <li>ADP: alla, della, alle, dalla, dell', nella</li>
-        <li>AUX: stata, state</li>
-        <li>DET: la, le, l', una, un', questa, altre, molte, queste, diverse</li>
-        <li>NOUN: parte, città, persone, volta, guerra, vita, popolazione, regione, storia, crescita</li>
-        <li>NUM: una</li>
-        <li>PRON: che, sua, loro, sue, cui, quella, propria, le, la, lei</li>
-        <li>PROPN: Cina, Francia, guerra, Europa, Gran, Hong, Italia, Kong, Russia, Albania</li>
-        <li>VERB: stata, state, considerate, diventata, usata, basata, cresciute, lasciata, pubblicate, riguardanti</li>
-      </ul>
-    </li>
-    <li>Masc
-      <ul>
-        <li>ADJ: ultimi, nuovi, nuovo, stesso, primo, tutti, tutto, grande, scorso, ultimo</li>
-        <li>ADP: al, del, dell', all', Sulla, ai, allo, dagli, dai, dal</li>
-        <li>ADV: più</li>
-        <li>AUX: stato, stati</li>
-        <li>DET: il, i, un, l', gli, lo, questo, ciò, molti, altri</li>
-        <li>NOUN: anni, anno, governo, secolo, stato, tempo, giorno, mondo, numero, periodo</li>
-        <li>NUM: uno, un</li>
-        <li>PRON: che, suo, lo, loro, questo, cui, suoi, gli, lui, quali</li>
-        <li>PROPN: Mar, Stati, Uniti, Trump, Mediterraneo, Nord, Regno, Caraibi, Donald, Joseph</li>
-        <li>VERB: stato, fatto, stati, utilizzato, inclusi, accusato, detto, diretto, fondato, pubblicato</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+
+<ul>
+  <li><a>Gender</a></li>
+</ul>
+
+<ul>
+  <li>Fem
+    <ul>
+      <li>ADJ: prima, maggior, gran, grande, alta, maggiore, meridionale, americana, nuova, seconda</li>
+      <li>ADP: alla, della, alle, dalla, dell', nella</li>
+      <li>AUX: stata, state</li>
+      <li>DET: la, le, l', una, un', questa, altre, molte, queste, diverse</li>
+      <li>NOUN: parte, città, persone, volta, guerra, vita, popolazione, regione, storia, crescita</li>
+      <li>NUM: una</li>
+      <li>PRON: che, sua, loro, sue, cui, quella, propria, le, la, lei</li>
+      <li>PROPN: Cina, Francia, guerra, Europa, Gran, Hong, Italia, Kong, Russia, Albania</li>
+      <li>VERB: stata, state, considerate, diventata, usata, basata, cresciute, lasciata, pubblicate, riguardanti</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Masc
+    <ul>
+      <li>ADJ: ultimi, nuovi, nuovo, stesso, primo, tutti, tutto, grande, scorso, ultimo</li>
+      <li>ADP: al, del, dell', all', Sulla, ai, allo, dagli, dai, dal</li>
+      <li>ADV: più</li>
+      <li>AUX: stato, stati</li>
+      <li>DET: il, i, un, l', gli, lo, questo, ciò, molti, altri</li>
+      <li>NOUN: anni, anno, governo, secolo, stato, tempo, giorno, mondo, numero, periodo</li>
+      <li>NUM: uno, un</li>
+      <li>PRON: che, suo, lo, loro, questo, cui, suoi, gli, lui, quali</li>
+      <li>PROPN: Mar, Stati, Uniti, Trump, Mediterraneo, Nord, Regno, Caraibi, Donald, Joseph</li>
+      <li>VERB: stato, fatto, stati, utilizzato, inclusi, accusato, detto, diretto, fondato, pubblicato</li>
+    </ul>
+  </li>
+</ul>
 
 
-<li><a>Number</a>
-  <ul>
-    <li>Plur
-      <ul>
-        <li>ADJ: ultimi, nuovi, grandi, tutti, nuove, primi, americani, entrambi, nazionali, olimpici</li>
-        <li>ADP: ai, alle, dagli, dai</li>
-        <li>AUX: sono, hanno, erano, possono, avevano, fossero, furono, potrebbero, stanno, abbiano</li>
-        <li>DET: i, le, gli, molti, alcuni, altri, altre, molte, queste, questi</li>
-        <li>NOUN: anni, persone, dati, dollari, mesi, agenti, città, giorni, membri, effetti</li>
-        <li>PRON: che, si, sue, suoi, loro, quali, cui, propri, quelli, ci</li>
-        <li>PROPN: Stati, Uniti, Caraibi, Alpi, Giochi, Ande, Balcani, Bassi, Ottomani, Paesi</li>
-        <li>VERB: sono, vennero, furono, hanno, vengono, avevano, state, stati, considerate, erano</li>
-      </ul>
-    </li>
-    <li>Sing
-      <ul>
-        <li>ADJ: prima, grande, maggior, nuovo, stesso, maggiore, gran, nazionale, primo, meridionale</li>
-        <li>ADP: al, alla, dell', del, all', della, Sulla, allo, dal, dall'</li>
-        <li>ADV: più</li>
-        <li>AUX: è, ha, era, fu, può, aveva, stato, potrebbe, sarebbe, sta</li>
-        <li>DET: il, la, l', un, una, lo, un', questo, questa, ciò</li>
-        <li>NOUN: parte, anno, governo, volta, guerra, città, stato, tempo, giorno, mondo</li>
-        <li>PRON: si, che, sua, suo, loro, lo, cui, questo, quella, gli</li>
-        <li>PROPN: Cina, Mar, Trump, America, Francia, Mediterraneo, Nord, guerra, Europa, Gran</li>
-        <li>VERB: venne, fu, è, stato, ha, afferma, aveva, iniziò, stata, era</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Number</a></li>
+</ul>
 
-<li><a>Case</a>
-  <ul>
-    <li>Acc
-      <ul>
-        <li>PRON: lo, gli, ne, lui, l', le, mi, la, ci, lei</li>
-      </ul>
-    </li>
-    <li>Nom
-      <ul>
-        <li>PRON: lei, egli, essi, io, lui</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li>Plur
+    <ul>
+      <li>ADJ: ultimi, nuovi, grandi, tutti, nuove, primi, americani, entrambi, nazionali, olimpici</li>
+      <li>ADP: ai, alle, dagli, dai</li>
+      <li>AUX: sono, hanno, erano, possono, avevano, fossero, furono, potrebbero, stanno, abbiano</li>
+      <li>DET: i, le, gli, molti, alcuni, altri, altre, molte, queste, questi</li>
+      <li>NOUN: anni, persone, dati, dollari, mesi, agenti, città, giorni, membri, effetti</li>
+      <li>PRON: che, si, sue, suoi, loro, quali, cui, propri, quelli, ci</li>
+      <li>PROPN: Stati, Uniti, Caraibi, Alpi, Giochi, Ande, Balcani, Bassi, Ottomani, Paesi</li>
+      <li>VERB: sono, vennero, furono, hanno, vengono, avevano, state, stati, considerate, erano</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sing
+    <ul>
+      <li>ADJ: prima, grande, maggior, nuovo, stesso, maggiore, gran, nazionale, primo, meridionale</li>
+      <li>ADP: al, alla, dell', del, all', della, Sulla, allo, dal, dall'</li>
+      <li>ADV: più</li>
+      <li>AUX: è, ha, era, fu, può, aveva, stato, potrebbe, sarebbe, sta</li>
+      <li>DET: il, la, l', un, una, lo, un', questo, questa, ciò</li>
+      <li>NOUN: parte, anno, governo, volta, guerra, città, stato, tempo, giorno, mondo</li>
+      <li>PRON: si, che, sua, suo, loro, lo, cui, questo, quella, gli</li>
+      <li>PROPN: Cina, Mar, Trump, America, Francia, Mediterraneo, Nord, guerra, Europa, Gran</li>
+      <li>VERB: venne, fu, è, stato, ha, afferma, aveva, iniziò, stata, era</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Case</a></li>
+</ul>
+
+<ul>
+  <li>Acc
+    <ul>
+      <li>PRON: lo, gli, ne, lui, l', le, mi, la, ci, lei</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Nom
+    <ul>
+      <li>PRON: lei, egli, essi, io, lui</li>
+    </ul>
+  </li>
+</ul>
 
 
-<li><a>Definite</a>
-  <ul>
-    <li>Def
-      <ul>
-        <li>DET: il, la, l', i, le, gli, lo</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Definite</a></li>
+</ul>
+
+<ul>
+  <li>Def
+    <ul>
+      <li>DET: il, la, l', i, le, gli, lo</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Degree and Polarity</h3>
 
-<li><a>Degree</a>
-  <ul>
-    <li>Abs
-      <ul>
-        <li>ADJ: massima, Suprema, massime, miglior, migliori, minime, moltissime, moltissimi, piccolissima, piccolissimi</li>
-      </ul>
-    </li>
-    <li>Sup
-      <ul>
-        <li>ADJ: maggior, maggiore, migliori, maggiori, miglior, migliore, peggior, peggiori</li>
-      </ul>
-    </li>
-  </ul>
-</li>
 
-<li><a>Polarity</a>
-  <ul>
-    <li>Neg
-      <ul>
-        <li>ADV: non, no</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Degree</a></li>
+</ul>
+
+<ul>
+  <li>Abs
+    <ul>
+      <li>ADJ: massima, Suprema, massime, miglior, migliori, minime, moltissime, moltissimi, piccolissima, piccolissimi</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sup
+    <ul>
+      <li>ADJ: maggior, maggiore, migliori, maggiori, miglior, migliore, peggior, peggiori</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
+
+<ul>
+  <li>Neg
+    <ul>
+      <li>ADV: non, no</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Verbal Features</h3>
 
-<li><a>Aspect</a>
-  <ul>
-    <li>Imp
-      <ul>
-        <li>AUX: era, aveva, erano, avevano, stavano, stava, ero, poteva, avevo, dovevano</li>
-        <li>VERB: aveva, era, avevano, veniva, erano, venivano, considerava, trovavano, includeva, riguardava</li>
-      </ul>
-    </li>
-    <li>Perf
-      <ul>
-        <li>AUX: fu, furono, dovettero</li>
-        <li>VERB: venne, fu, vennero, furono, iniziò, ebbe, dichiarò, diventò, portò, divenne</li>
-      </ul>
-    </li>
-  </ul>
-</li>
 
-<li><a>Mood</a>
-  <ul>
-    <li>Cnd
-      <ul>
-        <li>AUX: potrebbe, sarebbe, avrebbe, potrebbero, dovrebbe, avrebbero, dovrebbero, Avrei, Sarei, potrei</li>
-        <li>VERB: verrebbe, Vorrebbe, aggirerebbe, andrebbero, mitigherebbe, pagherebbero, renderebbe, ridurrebbe, scagionerebbe</li>
-      </ul>
-    </li>
-    <li>Imp
-      <ul>
-        <li>AUX: Devi</li>
-        <li>VERB: Fa', Metti</li>
-      </ul>
-    </li>
-    <li>Ind
-      <ul>
-        <li>AUX: è, ha, sono, era, hanno, fu, può, aveva, erano, possono</li>
-        <li>VERB: venne, fu, è, sono, ha, vennero, afferma, aveva, furono, iniziò</li>
-      </ul>
-    </li>
-    <li>Sub
-      <ul>
-        <li>AUX: fosse, abbia, fossero, abbiano, possa, avesse, sia, potesse, avessero, debba</li>
-        <li>VERB: fosse, fossero, sia, venissero, aspetti, siano, abbia, affluissero, agissero, avessero</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Aspect</a></li>
+</ul>
 
-<li><a>Tense</a>
-  <ul>
-    <li>Fut
-      <ul>
-        <li>AUX: sarà, dovrà, potranno</li>
-        <li>VERB: saranno, sarà, terrà, Passerà, Suoneranno, Valuteremo, aiuterà, aumenteranno, avrà, causeranno</li>
-      </ul>
-    </li>
-    <li>Past
-      <ul>
-        <li>AUX: era, fu, aveva, erano, stato, avevano, fosse, potuto, stata, fossero</li>
-        <li>VERB: affermato, venne, fu, detto, stato, fatto, vennero, avuto, portato, aveva</li>
-      </ul>
-    </li>
-    <li>Pres
-      <ul>
-        <li>AUX: è, ha, sono, hanno, può, possono, potrebbe, sarebbe, sta, ho</li>
-        <li>VERB: è, sono, ha, afferma, hanno, vengono, sembra, viene, riguarda, legge</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li>Imp
+    <ul>
+      <li>AUX: era, aveva, erano, avevano, stavano, stava, ero, poteva, avevo, dovevano</li>
+      <li>VERB: aveva, era, avevano, veniva, erano, venivano, considerava, trovavano, includeva, riguardava</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Voice</a>
-  <ul>
-    <li>Act
-      <ul>
-        <li>AUX: è, ha, sono, era, hanno, essere, aver, fu, può, aveva</li>
-        <li>VERB: avere, far, ha, fare, afferma, partire, portare, aveva, iniziò, sono</li>
-      </ul>
-    </li>
-    <li>Pass
-      <ul>
-        <li>AUX: è, essere, era, erano, fosse, fossero, Furono, sono</li>
-        <li>VERB: essere, venne, fu, è, vennero, sono, furono, vengono, veniva, viene</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li>Perf
+    <ul>
+      <li>AUX: fu, furono, dovettero</li>
+      <li>VERB: venne, fu, vennero, furono, iniziò, ebbe, dichiarò, diventò, portò, divenne</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Mood</a></li>
+</ul>
+
+<ul>
+  <li>Cnd
+    <ul>
+      <li>AUX: potrebbe, sarebbe, avrebbe, potrebbero, dovrebbe, avrebbero, dovrebbero, Avrei, Sarei, potrei</li>
+      <li>VERB: verrebbe, Vorrebbe, aggirerebbe, andrebbero, mitigherebbe, pagherebbero, renderebbe, ridurrebbe, scagionerebbe</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Imp
+    <ul>
+      <li>AUX: Devi</li>
+      <li>VERB: Fa', Metti</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>AUX: è, ha, sono, era, hanno, fu, può, aveva, erano, possono</li>
+      <li>VERB: venne, fu, è, sono, ha, vennero, afferma, aveva, furono, iniziò</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sub
+    <ul>
+      <li>AUX: fosse, abbia, fossero, abbiano, possa, avesse, sia, potesse, avessero, debba</li>
+      <li>VERB: fosse, fossero, sia, venissero, aspetti, siano, abbia, affluissero, agissero, avessero</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Tense</a></li>
+</ul>
+
+<ul>
+  <li>Fut
+    <ul>
+      <li>AUX: sarà, dovrà, potranno</li>
+      <li>VERB: saranno, sarà, terrà, Passerà, Suoneranno, Valuteremo, aiuterà, aumenteranno, avrà, causeranno</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Past
+    <ul>
+      <li>AUX: era, fu, aveva, erano, stato, avevano, fosse, potuto, stata, fossero</li>
+      <li>VERB: affermato, venne, fu, detto, stato, fatto, vennero, avuto, portato, aveva</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Pres
+    <ul>
+      <li>AUX: è, ha, sono, hanno, può, possono, potrebbe, sarebbe, sta, ho</li>
+      <li>VERB: è, sono, ha, afferma, hanno, vengono, sembra, viene, riguarda, legge</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Voice</a></li>
+</ul>
+
+<ul>
+  <li>Act
+    <ul>
+      <li>AUX: è, ha, sono, era, hanno, essere, aver, fu, può, aveva</li>
+      <li>VERB: avere, far, ha, fare, afferma, partire, portare, aveva, iniziò, sono</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Pass
+    <ul>
+      <li>AUX: è, essere, era, erano, fosse, fossero, Furono, sono</li>
+      <li>VERB: essere, venne, fu, è, vennero, sono, furono, vengono, veniva, viene</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
-<li><a>PronType</a>
-  <ul>
-    <li>Art
-      <ul>
-        <li>DET: il, la, l', i, le, gli, lo</li>
-      </ul>
-    </li>
-    <li>Dem
-      <ul>
-        <li>PRON: quella, quello, quelli</li>
-      </ul>
-    </li>
-    <li>Prs
-      <ul>
-        <li>DET: sua</li>
-        <li>PRON: sua, suo, loro, sue, suoi, propria, propri, nostra, nostro, mia</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+
+<ul>
+  <li><a>PronType</a></li>
+</ul>
+
+<ul>
+  <li>Art
+    <ul>
+      <li>DET: il, la, l', i, le, gli, lo</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Dem
+    <ul>
+      <li>PRON: quella, quello, quelli</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Prs
+    <ul>
+      <li>DET: sua</li>
+      <li>PRON: sua, suo, loro, sue, suoi, propria, propri, nostra, nostro, mia</li>
+    </ul>
+  </li>
+</ul>
 
 
 
-<li><a>Reflex</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>PRON: sé, se</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Reflex</a></li>
+</ul>
 
-<li><a>Person</a>
-  <ul>
-    <li>1
-      <ul>
-        <li>AUX: ho, sono, dobbiamo, abbiamo, possiamo, ero, stiamo, Avrei, Devo, Sarei</li>
-        <li>PRON: mi, ci, nostra, nostro, me, mia, mio, noi, nostri, io</li>
-        <li>VERB: penso, so, Amavo, Amo, Dichiaro, Diciamo, Ho, Odio, Rivolsi, Superiamo</li>
-      </ul>
-    </li>
-    <li>2
-      <ul>
-        <li>AUX: Devi, avete</li>
-        <li>PRON: te, vi, voi</li>
-        <li>VERB: Fa', Litighi, Metti, hai</li>
-      </ul>
-    </li>
-    <li>3
-      <ul>
-        <li>AUX: è, ha, sono, era, hanno, fu, può, aveva, erano, possono</li>
-        <li>DET: sua</li>
-        <li>PRON: si, sua, loro, suo, lo, sue, suoi, gli, ne, lui</li>
-        <li>VERB: venne, fu, è, sono, ha, vennero, afferma, aveva, furono, iniziò</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li>Yes
+    <ul>
+      <li>PRON: sé, se</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Person</a></li>
+</ul>
+
+<ul>
+  <li>1
+    <ul>
+      <li>AUX: ho, sono, dobbiamo, abbiamo, possiamo, ero, stiamo, Avrei, Devo, Sarei</li>
+      <li>PRON: mi, ci, nostra, nostro, me, mia, mio, noi, nostri, io</li>
+      <li>VERB: penso, so, Amavo, Amo, Dichiaro, Diciamo, Ho, Odio, Rivolsi, Superiamo</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>2
+    <ul>
+      <li>AUX: Devi, avete</li>
+      <li>PRON: te, vi, voi</li>
+      <li>VERB: Fa', Litighi, Metti, hai</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>3
+    <ul>
+      <li>AUX: è, ha, sono, era, hanno, fu, può, aveva, erano, possono</li>
+      <li>DET: sua</li>
+      <li>PRON: si, sua, loro, suo, lo, sue, suoi, gli, ne, lui</li>
+      <li>VERB: venne, fu, è, sono, ha, vennero, afferma, aveva, furono, iniziò</li>
+    </ul>
+  </li>
+</ul>
 
 
 
-<li><a>Number[psor]</a>
-  <ul>
-    <li>Plur
-      <ul>
-        <li>PRON: loro, nostra, nostro, nostri, proprio, nostre, propri, propria</li>
-      </ul>
-    </li>
-    <li>Sing
-      <ul>
-        <li>DET: sua</li>
-        <li>PRON: sua, suo, sue, suoi, propria, propri, mia, mio, miei, proprie</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Number[psor]</a></li>
+</ul>
+
+<ul>
+  <li>Plur
+    <ul>
+      <li>PRON: loro, nostra, nostro, nostri, proprio, nostre, propri, propria</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sing
+    <ul>
+      <li>DET: sua</li>
+      <li>PRON: sua, suo, sue, suoi, propria, propri, mia, mio, miei, proprie</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Other Features</h3>
 
-<li><a>Foreign</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>X: Nostrum</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>X: Nostrum</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 
@@ -442,6 +541,9 @@ employ ten-fold cross-validation.
 
 <ul>
 <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: essere, Sarei.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 13 lemmas as auxiliaries (<a>aux</a>). Examples: avere, essere, potere, dovere, stare, stanno, sta, stavano, volere, essere|sonare, restare, sapere, stava.</li>
 <li>This corpus uses 4 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: essere, venire, avere, stato.</li>
 </ul>

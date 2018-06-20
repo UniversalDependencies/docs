@@ -11,7 +11,7 @@ It occurs with 3 different values: `Conv`, `Ger`, `Part`.
 
 503 tokens (3%) have a non-empty value of `VerbForm`.
 403 types (5%) occur at least once with a non-empty value of `VerbForm`.
-1 lemmas (0) occur at least once with a non-empty value of `VerbForm`.
+266 lemmas (6%) occur at least once with a non-empty value of `VerbForm`.
 The feature is used with 5 part-of-speech tags: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (445; 3% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (31; 0% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (13; 0% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (9; 0% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (5; 0% instances).
 
 ### `NOUN`
@@ -24,8 +24,10 @@ The most frequent other feature values with which `NOUN` and `VerbForm` co-occur
 
 * `Conv` (4; 1% of non-empty `VerbForm`): <em>etmeden, olmadan, oluşmadan, yapılmadan</em>
 * `Ger` (436; 98% of non-empty `VerbForm`): <em>büyüme, savunma, edilmesi, soruşturma, çalışma, etmeye, olmasına, çıkmaya, alma, etmesi</em>
-* `Part` (5; 1% of non-empty `VerbForm`): <em>bayağılaştırdıklarını, edilen, gerçekleştiği, gerçekleştiğinde, ölümsüzleşeceği</em>
+* `Part` (5; 1% of non-empty `VerbForm`): <em>b​a​y​a​ğ​ı​l​a​ş​t​ı​r​d​ı​k​l​a​r​ı​n​ı, edilen, gerçekleştiği, gerçekleştiğinde, ölümsüzleşeceği</em>
 * `EMPTY` (5940): <em>arasında, tarafından, yıl, şekilde, kuzey, yılında, ortaya, güney, yer, konusunda</em>
+
+`VerbForm` seems to be **lexical feature** of `NOUN`. 98% lemmas (251) occur only with one value of `VerbForm`.
 
 ### `AUX`
 
@@ -38,6 +40,12 @@ The most frequent other feature values with which `AUX` and `VerbForm` co-occurr
 * `Conv` (6; 19% of non-empty `VerbForm`): <em>yken, ken</em>
 * `Ger` (25; 81% of non-empty `VerbForm`): <em>olma, olmakla, olması, olmasının, olmaya, olmak, olmasına, etmesine, itmeye, olmaktan</em>
 * `EMPTY` (494): <em>olarak, olan, dır, dir, değil, oldu, olduğunu, tir, ydı, ydi</em>
+
+<table>
+  <tr><th>Paradigm <i>i</i></th><th><tt>Ger</tt></th><th><tt>Conv</tt></th></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt></tt></td><td><em>itmeye</em></td><td></td></tr>
+  <tr><td><tt></tt></td><td></td><td><em>yken, ken</em></td></tr>
+</table>
 
 ### `ADV`
 
@@ -59,7 +67,7 @@ The most frequent other feature values with which `ADJ` and `VerbForm` co-occurr
 `ADJ` tokens may have the following values of `VerbForm`:
 
 * `Ger` (1; 11% of non-empty `VerbForm`): <em>kalma</em>
-* `Part` (8; 89% of non-empty `VerbForm`): <em>gerçekleştirilen, evcilleştirilenleştirilen, gerçekleşen, gerçekleştiren, sertleşen, sorgulayacakları, zorlaştıran</em>
+* `Part` (8; 89% of non-empty `VerbForm`): <em>gerçekleştirilen, e​v​c​i​l​l​e​ş​t​i​r​i​l​e​n​l​e​ş​t​i​r​i​l​e​n, gerçekleşen, gerçekleştiren, sertleşen, sorgulayacakları, zorlaştıran</em>
 * `EMPTY` (1735): <em>büyük, yeni, son, sahip, fazla, ilk, aynı, eden, iyi, olan</em>
 
 ### `VERB`

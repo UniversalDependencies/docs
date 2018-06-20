@@ -11,7 +11,7 @@ It occurs with 2 different values: `Def`, `Ind`.
 
 734 tokens (4%) have a non-empty value of `Definite`.
 26 types (0%) occur at least once with a non-empty value of `Definite`.
-1 lemmas (0) occur at least once with a non-empty value of `Definite`.
+15 lemmas (0%) occur at least once with a non-empty value of `Definite`.
 The feature is used with 5 part-of-speech tags: <tt><a href="tr_pud-pos-DET.html">DET</a></tt> (679; 4% instances), <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (40; 0% instances), <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (12; 0% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="tr_pud-pos-X.html">X</a></tt> (1; 0% instances).
 
 ### `DET`
@@ -25,6 +25,8 @@ The most frequent other feature values with which `DET` and `Definite` co-occurr
 * `Def` (210; 31% of non-empty `Definite`): <em>bu, her, diğer, tüm, o, şu, hangi</em>
 * `Ind` (469; 69% of non-empty `Definite`): <em>bir, birçok, bazı, birkaç, herhangi, hiçbir, Birtakım, çoğu</em>
 * `EMPTY` (6): <em>çoğu, hemen, kaç, ne, Öte</em>
+
+`Definite` seems to be **lexical feature** of `DET`. 100% lemmas (15) occur only with one value of `Definite`.
 
 ### `PRON`
 

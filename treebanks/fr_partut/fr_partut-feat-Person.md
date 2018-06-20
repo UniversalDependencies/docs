@@ -109,6 +109,5 @@ The 10 most frequent relations where parent and child node agree in `Person`:
 <tt>PRON --[<tt><a href="fr_partut-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (35; 63%),
 <tt>AUX --[<tt><a href="fr_partut-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (2; 67%),
 <tt>AUX --[<tt><a href="fr_partut-dep-conj.html">conj</a></tt>]--> AUX</tt> (1; 100%),
-<tt>PRON --[<tt><a href="fr_partut-dep-acl-cleft.html">acl:cleft</a></tt>]--> VERB</tt> (1; 100%),
 <tt>PRON --[<tt><a href="fr_partut-dep-conj.html">conj</a></tt>]--> PRON</tt> (1; 100%).
 

@@ -71,9 +71,9 @@ The following 16 pairs of parts of speech are connected with `acl:relcl`: <tt><a
 4	was	be	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
 5	noted	note	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_
 6	by	by	ADP	E	_	7	case	_	_
-7	playwright	playwright	NOUN	S	Number=Sing	5	obl:agent	_	_
+7	playwright	playwright	NOUN	S	Number=Sing	5	obl	_	_
 8	Oscar	Oscar	PROPN	SP	_	7	nmod	_	_
-9	Wilde	Wilde	PROPN	SP	_	8	flat:name	_	SpaceAfter=No
+9	Wilde	Wilde	PROPN	SP	_	8	flat	_	SpaceAfter=No
 10	,	,	PUNCT	FF	_	8	punct	_	_
 11	who	who	PRON	PR	PronType=Rel	12	nsubj	_	_
 12	said	say	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	8	acl:relcl	_	SpaceAfter=No

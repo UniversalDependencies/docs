@@ -10,7 +10,7 @@ This relation is a language-specific subtype of <tt><a href="de_pud-dep-flat.htm
 
 164 nodes (1%) are attached to their parents as `flat:name`.
 
-154 instances of `flat:name` (94%) are left-to-right (parent precedes child).
+164 instances of `flat:name` (100%) are left-to-right (parent precedes child).
 Average distance between parent and child is 1.0609756097561.
 
 The following 1 pairs of parts of speech are connected with `flat:name`: <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (164; 100% instances).

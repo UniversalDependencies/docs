@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  'UD_Telugu'
+title:  'UD_Telugu-MTG'
 udver: '2'
 ---
 
@@ -9,7 +9,7 @@ udver: '2'
 
      Please do not edit this page directly. -->
 
-# UD Telugu
+# UD Telugu MTG
 
 Language: [Telugu](../te/overview/te-hub.html) (code: `te`)<br/>
 Family: Dravidian, South Central
@@ -18,8 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
 The following people have contributed to making this treebank part of UD: Taraka Rama, Sowmya Vajjala.
 
-Repository: [UD_Telugu](https://github.com/UniversalDependencies/UD_Telugu)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udte)
+Repository: [UD_Telugu-MTG](https://github.com/UniversalDependencies/UD_Telugu-MTG)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udte_mtg)
 
 License: CC BY-SA 4.0
 
@@ -27,15 +27,16 @@ Genre: grammar-examples
 
 Questions, comments?
 General annotation questions (either Telugu-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
-You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Telugu/issues).
+You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Telugu-MTG/issues).
 If you want to collaborate, please contact [tarakark&nbsp;(æt)&nbsp;ifi&nbsp;•&nbsp;uio&nbsp;•&nbsp;no, sowmya&nbsp;(æt)&nbsp;iastate&nbsp;•&nbsp;edu].
+Development of the treebank happens directly in the UD repository, so you may submit bug fixes as pull requests against the dev branch.
 
 | Annotation | Source |
 |------------|--------|
 | Lemmas | annotated manually, natively in UD style |
 | UPOS | annotated manually, natively in UD style |
-| XPOS | (unrecognized value: "none") |
-| Features | (unrecognized value: "none") |
+| XPOS | not available |
+| Features | not available |
 | Relations | annotated manually, natively in UD style |
 
 ## Description
@@ -54,27 +55,40 @@ Taraka Rama (University of Oslo, Norway) and Sowmya Vajjala (Iowa State Universi
 * Bhadriraju Krishnamurti and J. P. L. Gwynn. 1985. A Grammar of Modern Telugu. Oxford: Oxford University Press. xxii+459pp.
 
 
-# Statistics of UD Telugu
+# Statistics of UD Telugu MTG
 
 ## POS Tags
 
-[ADJ](te-pos-ADJ.html) – [ADP](te-pos-ADP.html) – [ADV](te-pos-ADV.html) – [CCONJ](te-pos-CCONJ.html) – [DET](te-pos-DET.html) – [INTJ](te-pos-INTJ.html) – [NOUN](te-pos-NOUN.html) – [NUM](te-pos-NUM.html) – [PART](te-pos-PART.html) – [PRON](te-pos-PRON.html) – [PROPN](te-pos-PROPN.html) – [PUNCT](te-pos-PUNCT.html) – [SCONJ](te-pos-SCONJ.html) – [VERB](te-pos-VERB.html)
+[ADJ](te_mtg-pos-ADJ.html) – [ADP](te_mtg-pos-ADP.html) – [ADV](te_mtg-pos-ADV.html) – [CCONJ](te_mtg-pos-CCONJ.html) – [DET](te_mtg-pos-DET.html) – [INTJ](te_mtg-pos-INTJ.html) – [NOUN](te_mtg-pos-NOUN.html) – [NUM](te_mtg-pos-NUM.html) – [PART](te_mtg-pos-PART.html) – [PRON](te_mtg-pos-PRON.html) – [PROPN](te_mtg-pos-PROPN.html) – [PUNCT](te_mtg-pos-PUNCT.html) – [SCONJ](te_mtg-pos-SCONJ.html) – [VERB](te_mtg-pos-VERB.html)
 
 ## Features
 
-[NumType](te-feat-NumType.html)
+[NumType](te_mtg-feat-NumType.html)
 
 ## Relations
 
-[acl](te-dep-acl.html) – [acl:relcl](te-dep-acl-relcl.html) – [advcl](te-dep-advcl.html) – [advcl:cond](te-dep-advcl-cond.html) – [advmod](te-dep-advmod.html) – [amod](te-dep-amod.html) – [appos](te-dep-appos.html) – [case](te-dep-case.html) – [cc](te-dep-cc.html) – [ccomp](te-dep-ccomp.html) – [clf](te-dep-clf.html) – [compound](te-dep-compound.html) – [compound:lvc](te-dep-compound-lvc.html) – [compound:redup](te-dep-compound-redup.html) – [compound:svc](te-dep-compound-svc.html) – [conj](te-dep-conj.html) – [csubj](te-dep-csubj.html) – [dep](te-dep-dep.html) – [det](te-dep-det.html) – [discourse](te-dep-discourse.html) – [dislocated](te-dep-dislocated.html) – [flat](te-dep-flat.html) – [iobj](te-dep-iobj.html) – [list](te-dep-list.html) – [mark](te-dep-mark.html) – [nmod](te-dep-nmod.html) – [nmod:cmp](te-dep-nmod-cmp.html) – [nmod:poss](te-dep-nmod-poss.html) – [nmod:tmod](te-dep-nmod-tmod.html) – [nsubj](te-dep-nsubj.html) – [nsubj:nc](te-dep-nsubj-nc.html) – [nummod](te-dep-nummod.html) – [obj](te-dep-obj.html) – [obl](te-dep-obl.html) – [obl:cau](te-dep-obl-cau.html) – [obl:tmod](te-dep-obl-tmod.html) – [orphan](te-dep-orphan.html) – [parataxis](te-dep-parataxis.html) – [punct](te-dep-punct.html) – [root](te-dep-root.html) – [vocative](te-dep-vocative.html) – [xcomp](te-dep-xcomp.html)
+[acl](te_mtg-dep-acl.html) – [acl:relcl](te_mtg-dep-acl-relcl.html) – [advcl](te_mtg-dep-advcl.html) – [advcl:cond](te_mtg-dep-advcl-cond.html) – [advmod](te_mtg-dep-advmod.html) – [amod](te_mtg-dep-amod.html) – [appos](te_mtg-dep-appos.html) – [case](te_mtg-dep-case.html) – [cc](te_mtg-dep-cc.html) – [ccomp](te_mtg-dep-ccomp.html) – [clf](te_mtg-dep-clf.html) – [compound](te_mtg-dep-compound.html) – [compound:lvc](te_mtg-dep-compound-lvc.html) – [compound:redup](te_mtg-dep-compound-redup.html) – [compound:svc](te_mtg-dep-compound-svc.html) – [conj](te_mtg-dep-conj.html) – [csubj](te_mtg-dep-csubj.html) – [dep](te_mtg-dep-dep.html) – [det](te_mtg-dep-det.html) – [discourse](te_mtg-dep-discourse.html) – [dislocated](te_mtg-dep-dislocated.html) – [flat](te_mtg-dep-flat.html) – [iobj](te_mtg-dep-iobj.html) – [list](te_mtg-dep-list.html) – [mark](te_mtg-dep-mark.html) – [nmod](te_mtg-dep-nmod.html) – [nmod:cmp](te_mtg-dep-nmod-cmp.html) – [nmod:poss](te_mtg-dep-nmod-poss.html) – [nmod:tmod](te_mtg-dep-nmod-tmod.html) – [nsubj](te_mtg-dep-nsubj.html) – [nsubj:nc](te_mtg-dep-nsubj-nc.html) – [nummod](te_mtg-dep-nummod.html) – [obj](te_mtg-dep-obj.html) – [obl](te_mtg-dep-obl.html) – [obl:cau](te_mtg-dep-obl-cau.html) – [obl:tmod](te_mtg-dep-obl-tmod.html) – [orphan](te_mtg-dep-orphan.html) – [parataxis](te_mtg-dep-parataxis.html) – [punct](te_mtg-dep-punct.html) – [root](te_mtg-dep-root.html) – [vocative](te_mtg-dep-vocative.html) – [xcomp](te_mtg-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 1328 sentences and 6465 tokens.</li>
+</ul>
+
+<ul>
 <li>All tokens in this corpus are followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 7 types of words that contain both letters and punctuation. Examples: (ఇద్దరూ), కమల-చేత, ఆవల-ఎల్లుండి, ఎ., కురవ(ని), మూడు-నెలల, రాముడి-చేత</li>
+</ul>
+
+<ul>
 </ul>
 
 <h2>Morphology</h2>
@@ -84,6 +98,9 @@ Taraka Rama (University of Oslo, Norway) and Sowmya Vajjala (Iowa State Universi
 <ul>
 <li>This corpus uses 14 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a></li>
 <li>This corpus does not use the following tags: AUX, SYM, X</li>
+</ul>
+
+<ul>
 <li>This corpus contains 13 word types tagged as particles (PART): అండి, అండీ, ఏమిటో, ఏమో, గదా, గదూ, గా, గారు, రా, లెండి, లే, సరే, సుమండి</li>
 </ul>
 
@@ -118,7 +135,9 @@ Taraka Rama (University of Oslo, Norway) and Sowmya Vajjala (Iowa State Universi
 
 
 
+
 <h3>Degree and Polarity</h3>
+
 
 
 
@@ -130,18 +149,22 @@ Taraka Rama (University of Oslo, Norway) and Sowmya Vajjala (Iowa State Universi
 
 
 
+
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
-<li><a>NumType</a>
-  <ul>
-    <li>Card
-      <ul>
-        <li>NUM: ఒక, రెండు, మూడు, సగం, ఐదు, పది, నాలుగు, నూరు, యాభై, అర</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+
+<ul>
+  <li><a>NumType</a></li>
+</ul>
+
+<ul>
+  <li>Card
+    <ul>
+      <li>NUM: ఒక, రెండు, మూడు, సగం, ఐదు, పది, నాలుగు, నూరు, యాభై, అర</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -158,6 +181,9 @@ Taraka Rama (University of Oslo, Norway) and Sowmya Vajjala (Iowa State Universi
 
 <ul>
 <li>This corpus does not contain copulas.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain auxiliaries.</li>
 </ul>
 

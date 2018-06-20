@@ -8,30 +8,80 @@ udver: '2'
 
 This relation is universal.
 
-18 nodes (1%) are attached to their parents as `dislocated`.
+4 nodes (0%) are attached to their parents as `dislocated`.
 
-18 instances of `dislocated` (100%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.55555555555556.
+4 instances of `dislocated` (100%) are right-to-left (child precedes parent).
+Average distance between parent and child is 9.75.
 
-The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (8; 44% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> (5; 28% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (2; 11% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt> (1; 6% instances), <tt><a href="zh_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt> (1; 6% instances).
+The following 3 pairs of parts of speech are connected with `dislocated`: <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (2; 50% instances), <tt><a href="zh_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> (1; 25% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt> (1; 25% instances).
 
 
 ~~~ conllu
-# visual-style 4	bgColor:blue
-# visual-style 4	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 4 dislocated	color:blue
-1	姐姐	_	NOUN	_	_	8	vocative	_	SpaceAfter=No
-2	，	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
-3	這些	_	DET	_	_	4	det	_	SpaceAfter=No
-4	錢	_	NOUN	_	_	5	dislocated	_	SpaceAfter=No
-5	給	_	VERB	_	_	8	advcl	_	SpaceAfter=No
-6	我	_	PRON	_	_	5	iobj	_	SpaceAfter=No
-7	便	_	ADV	_	_	8	advmod	_	SpaceAfter=No
-8	行	_	VERB	_	_	0	root	_	SpaceAfter=No
-9	了	_	PART	_	_	8	discourse:sp	_	SpaceAfter=No
-10	！	_	PUNCT	_	_	8	punct	_	SpaceAfter=No
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 29	bgColor:blue
+# visual-style 29	fgColor:white
+# visual-style 29 3 dislocated	color:blue
+1	另	_	DET	_	_	3	det	_	SpaceAfter=No
+2	一	_	NUM	_	_	1	nummod	_	SpaceAfter=No
+3	點	_	NOUN	_	NounType=Clf	29	dislocated	_	SpaceAfter=No
+4	，	_	PUNCT	_	_	3	punct	_	SpaceAfter=No
+5	剛才	_	ADV	_	_	7	advmod	_	SpaceAfter=No
+6	也	_	ADV	_	_	7	advmod	_	SpaceAfter=No
+7	有	_	VERB	_	_	25	acl	_	SpaceAfter=No
+8	同事	_	NOUN	_	_	7	obj	_	SpaceAfter=No
+9	提	_	VERB	_	_	8	acl	_	SpaceAfter=No
+10	到	_	VERB	_	_	9	compound:vv	_	SpaceAfter=No
+11	，	_	PUNCT	_	_	25	punct	_	SpaceAfter=No
+12	就	_	ADP	_	_	25	case	_	SpaceAfter=No
+13	《	_	PUNCT	_	_	15	punct	_	SpaceAfter=No
+14	英國	_	PROPN	_	_	15	compound	_	SpaceAfter=No
+15	國籍法	_	NOUN	_	_	18	nsubj	_	SpaceAfter=No
+16	》	_	PUNCT	_	_	15	punct	_	SpaceAfter=No
+17	所	_	SCONJ	_	_	18	mark	_	SpaceAfter=No
+18	訂	_	VERB	_	_	20	advcl	_	SpaceAfter=No
+19	有關	_	ADP	_	_	20	mark	_	SpaceAfter=No
+20	取消	_	VERB	_	_	25	acl	_	SpaceAfter=No
+21	國籍	_	NOUN	_	_	20	obj	_	SpaceAfter=No
+22	和	_	CCONJ	_	_	23	cc	_	SpaceAfter=No
+23	居留權	_	NOUN	_	_	21	conj	_	SpaceAfter=No
+24	的	_	PART	_	_	20	mark:rel	_	SpaceAfter=No
+25	問題	_	NOUN	_	_	29	obl	_	SpaceAfter=No
+26	上	_	ADP	_	_	25	case:loc	_	SpaceAfter=No
+27	，	_	PUNCT	_	_	29	punct	_	SpaceAfter=No
+28	我	_	PRON	_	_	29	nsubj	_	SpaceAfter=No
+29	認為	_	VERB	_	_	0	root	_	SpaceAfter=No
+30	當中	_	NOUN	_	_	32	obl	_	SpaceAfter=No
+31	仍	_	ADV	_	_	32	advmod	_	SpaceAfter=No
+32	有	_	VERB	_	_	29	ccomp	_	SpaceAfter=No
+33	爭議	_	NOUN	_	_	32	obj	_	SpaceAfter=No
+34	。	_	PUNCT	_	_	29	punct	_	SpaceAfter=No
+
+~~~
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 6 dislocated	color:blue
+1	對	_	VERB	_	_	0	root	_	SpaceAfter=No
+2	了	_	PART	_	_	1	discourse:sp	_	SpaceAfter=No
+3	，	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	那	_	DET	_	_	5	det	_	SpaceAfter=No
+5	時候	_	NOUN	_	_	9	obl:tmod	_	SpaceAfter=No
+6	你們	_	PRON	_	_	9	dislocated	_	SpaceAfter=No
+7	一	_	NUM	_	_	8	nummod	_	SpaceAfter=No
+8	個	_	NOUN	_	NounType=Clf	9	nsubj	_	SpaceAfter=No
+9	喜歡	_	AUX	_	_	1	parataxis	_	SpaceAfter=No
+10	陳奕迅	_	PROPN	_	_	9	obj	_	SpaceAfter=No
+11	，	_	PUNCT	_	_	14	punct	_	SpaceAfter=No
+12	一	_	NUM	_	_	13	nummod	_	SpaceAfter=No
+13	個	_	NOUN	_	NounType=Clf	14	nsubj	_	SpaceAfter=No
+14	喜歡	_	VERB	_	_	9	conj	_	SpaceAfter=No
+15	黎明	_	PROPN	_	_	14	obj	_	SpaceAfter=No
+16	。	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -42,34 +92,10 @@ The following 6 pairs of parts of speech are connected with `dislocated`: <tt><a
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 1 dislocated	color:blue
-1	我	我	PRON	_	_	3	dislocated	_	SpaceAfter=No
-2	都	都	ADV	_	_	3	advmod	_	SpaceAfter=No
-3	是	是	VERB	_	_	0	root	_	SpaceAfter=No
-4	這樣	這樣	ADV	_	_	5	advmod	_	SpaceAfter=No
-5	教	教	VERB	_	_	3	ccomp	_	SpaceAfter=No
-6	我	我	PRON	_	_	7	nmod	_	SpaceAfter=No
-7	女兒	女兒	NOUN	_	_	5	obj	_	SpaceAfter=No
-8	的	的	PART	_	_	5	discourse:sp	_	SpaceAfter=No
-9	。	。	PUNCT	_	_	3	punct	_	SpaceAfter=No
-
-~~~
-
-
-~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 2 dislocated	color:blue
-1	該	_	AUX	_	_	2	aux	_	SpaceAfter=No
-2	取	_	VERB	_	_	6	dislocated	_	SpaceAfter=No
-3	走	_	VERB	_	_	2	compound:vv	_	SpaceAfter=No
-4	的	_	PART	_	_	2	mark:rel	_	SpaceAfter=No
-5	都	_	ADV	_	_	6	advmod	_	SpaceAfter=No
-6	取	_	VERB	_	_	0	root	_	SpaceAfter=No
-7	走	_	VERB	_	_	6	compound:vv	_	SpaceAfter=No
-8	了	_	PART	_	_	6	discourse:sp	_	SpaceAfter=No
-9	！	_	PUNCT	_	_	6	punct	_	SpaceAfter=No
+1	金剛郵輪	_	PROPN	_	_	3	dislocated	_	SpaceAfter=No
+2	九	_	NUM	_	_	3	nummod	_	SpaceAfter=No
+3	折	_	NOUN	_	NounType=Clf	0	root	_	SpaceAfter=No
+4	！	_	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 ~~~
 

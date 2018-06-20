@@ -45,17 +45,15 @@ The 1st highest number of forms (7) was observed with the lemma “_”: एं�
 
 `CCONJ` nodes are attached to their parents using 1 different relations: <tt><a href="hi_pud-dep-cc.html">cc</a></tt> (545; 100% instances)
 
-Parents of `CCONJ` nodes belong to 6 different parts of speech: <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (209; 38% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (188; 34% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (73; 13% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (68; 12% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances)
+Parents of `CCONJ` nodes belong to 6 different parts of speech: <tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (209; 38% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (190; 35% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (72; 13% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (67; 12% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (1; 0% instances)
 
-527 (97%) `CCONJ` nodes are leaves.
+529 (97%) `CCONJ` nodes are leaves.
 
-17 (3%) `CCONJ` nodes have one child.
+16 (3%) `CCONJ` nodes have one child.
 
-1 (0%) `CCONJ` nodes have two children.
+The highest child degree of a `CCONJ` node is 1.
 
-The highest child degree of a `CCONJ` node is 2.
+Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="hi_pud-dep-punct.html">punct</a></tt> (14; 88% instances), <tt><a href="hi_pud-dep-case.html">case</a></tt> (2; 13% instances)
 
-Children of `CCONJ` nodes are attached using 2 different relations: <tt><a href="hi_pud-dep-punct.html">punct</a></tt> (15; 79% instances), <tt><a href="hi_pud-dep-case.html">case</a></tt> (4; 21% instances)
-
-Children of `CCONJ` nodes belong to 2 different parts of speech: <tt><a href="hi_pud-pos-PUNCT.html">PUNCT</a></tt> (15; 79% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (4; 21% instances)
+Children of `CCONJ` nodes belong to 2 different parts of speech: <tt><a href="hi_pud-pos-PUNCT.html">PUNCT</a></tt> (14; 88% instances), <tt><a href="hi_pud-pos-ADP.html">ADP</a></tt> (2; 13% instances)
 

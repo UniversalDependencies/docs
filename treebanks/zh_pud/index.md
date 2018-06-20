@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Josie Li, Cheuk Ying Li, Martin Popel, Daniel Zeman, Herman Leung.
 
-Repository: [UD_Chinese-PUD](https://github.com/UniversalDependencies/UD_Chinese-PUD)
+Repository: [UD_Chinese-PUD](https://github.com/UniversalDependencies/UD_Chinese-PUD)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_pud)
 
 License: CC BY-SA 3.0
 
@@ -75,7 +76,6 @@ shared task). If it is used for training in future research, the users should
 employ ten-fold cross-validation.
 
 
-
 ## Acknowledgments
 
 # Statistics of UD Chinese PUD
@@ -94,11 +94,24 @@ employ ten-fold cross-validation.
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 1000 sentences and 21415 tokens.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 20322 tokens (95%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 10 types of words that contain both letters and punctuation. Examples: B.C., G.D.P, Jr., King,, St., Traum，, Wi-Fi, Z., Zettel's, al-Jadaan</li>
+</ul>
+
+<ul>
 </ul>
 
 <h2>Morphology</h2>
@@ -108,6 +121,9 @@ employ ten-fold cross-validation.
 <ul>
 <li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: INTJ, SYM</li>
+</ul>
+
+<ul>
 <li>This corpus contains 29 word types tagged as particles (PART): 之, 了, 人, 區, 呢, 嗎, 地, 家, 得, 河, 法, 的, 瞭, 緣, 罪, 者, 肺, 舟, 著, 處, 號, 街, 賽, 過, 配, 鎊, 體, 點, 黨</li>
 </ul>
 
@@ -139,135 +155,171 @@ employ ten-fold cross-validation.
 
 
 
-<li><a>Number</a>
-  <ul>
-    <li>Plur
-      <ul>
-        <li>NOUN: 人們</li>
-        <li>PRON: 他們, 我們, 它們, 你們, 她們, 牠們</li>
-      </ul>
-    </li>
-  </ul>
-</li>
 
-<li><a>Case</a>
-  <ul>
-    <li>Gen
-      <ul>
-        <li>PART: 的, 之</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Number</a></li>
+</ul>
+
+<ul>
+  <li>Plur
+    <ul>
+      <li>NOUN: 人們</li>
+      <li>PRON: 他們, 我們, 它們, 你們, 她們, 牠們</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Case</a></li>
+</ul>
+
+<ul>
+  <li>Gen
+    <ul>
+      <li>PART: 的, 之</li>
+    </ul>
+  </li>
+</ul>
 
 
 
 <h3>Degree and Polarity</h3>
 
 
-<li><a>Polarity</a>
-  <ul>
-    <li>Neg
-      <ul>
-        <li>ADV: 不, 未, 勿</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
+
+<ul>
+  <li>Neg
+    <ul>
+      <li>ADV: 不, 未, 勿</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Verbal Features</h3>
 
-<li><a>Aspect</a>
-  <ul>
-    <li>Perf
-      <ul>
-        <li>PART: 了, 過, 瞭</li>
-      </ul>
-    </li>
-    <li>Prog
-      <ul>
-        <li>PART: 著</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+
+<ul>
+  <li><a>Aspect</a></li>
+</ul>
+
+<ul>
+  <li>Perf
+    <ul>
+      <li>PART: 了, 過, 瞭</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Prog
+    <ul>
+      <li>PART: 著</li>
+    </ul>
+  </li>
+</ul>
 
 
 
-<li><a>Voice</a>
-  <ul>
-    <li>Cau
-      <ul>
-        <li>ADP: 把, 將</li>
-        <li>AUX: 將, 把</li>
-        <li>VERB: 讓, 使, 令, 導致, 以, 以至, 使得, 任命, 帶領, 敦促</li>
-      </ul>
-    </li>
-    <li>Pass
-      <ul>
-        <li>ADP: 被</li>
-        <li>AUX: 被</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Voice</a></li>
+</ul>
+
+<ul>
+  <li>Cau
+    <ul>
+      <li>ADP: 把, 將</li>
+      <li>AUX: 將, 把</li>
+      <li>VERB: 讓, 使, 令, 導致, 以, 以至, 使得, 任命, 帶領, 敦促</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Pass
+    <ul>
+      <li>ADP: 被</li>
+      <li>AUX: 被</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
-<li><a>NumType</a>
-  <ul>
-    <li>Card
-      <ul>
-        <li>NUM: 一, 兩, 很多, 三, 許多, 六, 多, 20, 10, 十</li>
-      </ul>
-    </li>
-    <li>Ord
-      <ul>
-        <li>ADJ: 第一, 第二, 第三, 第31, 第45, 第96, 第四</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+
+<ul>
+  <li><a>NumType</a></li>
+</ul>
+
+<ul>
+  <li>Card
+    <ul>
+      <li>NUM: 一, 兩, 很多, 三, 許多, 六, 多, 20, 10, 十</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ord
+    <ul>
+      <li>ADJ: 第一, 第二, 第三, 第31, 第45, 第96, 第四</li>
+    </ul>
+  </li>
+</ul>
 
 
 
-<li><a>Person</a>
-  <ul>
-    <li>1
-      <ul>
-        <li>PRON: 我, 我們</li>
-      </ul>
-    </li>
-    <li>2
-      <ul>
-        <li>PRON: 你, 您, 你們</li>
-      </ul>
-    </li>
-    <li>3
-      <ul>
-        <li>PRON: 他, 她, 其, 他們, 它, 它們, 她們, 牠們</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Person</a></li>
+</ul>
+
+<ul>
+  <li>1
+    <ul>
+      <li>PRON: 我, 我們</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>2
+    <ul>
+      <li>PRON: 你, 您, 你們</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>3
+    <ul>
+      <li>PRON: 他, 她, 其, 他們, 它, 它們, 她們, 牠們</li>
+    </ul>
+  </li>
+</ul>
 
 
 
 
 <h3>Other Features</h3>
 
-<li><a>Foreign</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>X: Anaya, Film, de, the, Amin, Antilles, Atkinson, Avery, Aviva, Bass</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>X: Anaya, Film, de, the, Amin, Antilles, Atkinson, Avery, Aviva, Bass</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 
@@ -275,6 +327,9 @@ employ ten-fold cross-validation.
 
 <ul>
 <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
 <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: _.</li>
 </ul>

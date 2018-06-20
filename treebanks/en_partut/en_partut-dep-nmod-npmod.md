@@ -47,7 +47,7 @@ The following 5 pairs of parts of speech are connected with `nmod:npmod`: <tt><a
 # visual-style 44	fgColor:white
 # visual-style 44 41 nmod:npmod	color:blue
 1	Rolf	Rolf	PROPN	SP	_	18	nsubj	_	_
-2	Bolin	Bolin	PROPN	SP	_	1	flat:name	_	SpaceAfter=No
+2	Bolin	Bolin	PROPN	SP	_	1	flat	_	SpaceAfter=No
 3	,	,	PUNCT	FF	_	1	punct	_	_
 4	who	who	PRON	PR	PronType=Rel	7	nsubj	_	_
 5	was	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_

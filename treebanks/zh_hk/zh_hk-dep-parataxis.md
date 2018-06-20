@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-41 nodes (2%) are attached to their parents as `parataxis`.
+89 nodes (1%) are attached to their parents as `parataxis`.
 
-40 instances of `parataxis` (98%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.53658536585366.
+89 instances of `parataxis` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.51685393258427.
 
-The following 11 pairs of parts of speech are connected with `parataxis`: <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (19; 46% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (4; 10% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (3; 7% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (3; 7% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (3; 7% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (2; 5% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (2; 5% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-SYM.html">SYM</a></tt> (2; 5% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="zh_hk-pos-SYM.html">SYM</a></tt>-<tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (1; 2% instances).
+The following 17 pairs of parts of speech are connected with `parataxis`: <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (43; 48% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (9; 10% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (8; 9% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (5; 6% instances), <tt><a href="zh_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (4; 4% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="zh_hk-pos-AUX.html">AUX</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (2; 2% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-AUX.html">AUX</a></tt> (2; 2% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-INTJ.html">INTJ</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -43,16 +43,19 @@ The following 11 pairs of parts of speech are connected with `parataxis`: <tt><a
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 parataxis	color:blue
-1	小心	_	ADJ	_	_	0	root	_	SpaceAfter=No
-2	別	_	AUX	_	_	3	aux	_	SpaceAfter=No
-3	跌	_	VERB	_	_	1	parataxis	_	SpaceAfter=No
-4	出來	_	VERB	_	_	3	compound:dir	_	SpaceAfter=No
-5	！	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 7 parataxis	color:blue
+1	第七	_	ADJ	_	_	2	amod	_	SpaceAfter=No
+2	題	_	NOUN	_	NounType=Clf	4	obj:periph	_	SpaceAfter=No
+3	我	_	PRON	_	_	4	nsubj	_	SpaceAfter=No
+4	完成	_	VERB	_	_	0	root	_	SpaceAfter=No
+5	了	_	PART	_	_	4	aux	_	SpaceAfter=No
+6	，	_	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	直方圖	_	NOUN	_	_	4	parataxis	_	SpaceAfter=No
+8	。	_	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -63,23 +66,23 @@ The following 11 pairs of parts of speech are connected with `parataxis`: <tt><a
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 16 parataxis	color:blue
-1	但	但	CCONJ	_	_	7	cc	_	SpaceAfter=No
-2	我	我	PRON	_	_	7	nsubj	_	SpaceAfter=No
-3	不	不	ADV	_	_	7	advmod	_	SpaceAfter=No
-4	是	是	VERB	_	_	7	cop	_	SpaceAfter=No
-5	那	那	DET	_	_	7	det	_	SpaceAfter=No
-6	種	種	NOUN	_	_	5	clf	_	SpaceAfter=No
-7	人	人	NOUN	_	_	0	root	_	SpaceAfter=No
-8	，	，	PUNCT	_	_	16	punct	_	SpaceAfter=No
-9	我	我	PRON	_	_	16	nsubj	_	SpaceAfter=No
-10	就	就	ADV	_	_	16	advmod	_	SpaceAfter=No
-11	是	是	VERB	_	_	16	cop	_	SpaceAfter=No
-12	愛	愛	AUX	_	_	13	aux	_	SpaceAfter=No
-13	出去	出去	VERB	_	_	16	acl	_	SpaceAfter=No
-14	玩	玩	VERB	_	_	13	conj	_	SpaceAfter=No
-15	的	的	PART	_	_	13	mark:rel	_	SpaceAfter=No
-16	性格	性格	NOUN	_	_	7	parataxis	_	SpaceAfter=No
-17	。	。	PUNCT	_	_	7	punct	_	SpaceAfter=No
+1	但	_	CCONJ	_	_	7	cc	_	SpaceAfter=No
+2	我	_	PRON	_	_	7	nsubj	_	SpaceAfter=No
+3	不	_	ADV	_	_	4	advmod	_	SpaceAfter=No
+4	是	_	AUX	_	_	7	cop	_	SpaceAfter=No
+5	那	_	DET	_	_	7	det	_	SpaceAfter=No
+6	種	_	NOUN	_	NounType=Clf	5	clf	_	SpaceAfter=No
+7	人	_	NOUN	_	_	0	root	_	SpaceAfter=No
+8	，	_	PUNCT	_	_	16	punct	_	SpaceAfter=No
+9	我	_	PRON	_	_	16	nsubj	_	SpaceAfter=No
+10	就	_	ADV	_	_	11	advmod	_	SpaceAfter=No
+11	是	_	AUX	_	_	16	cop	_	SpaceAfter=No
+12	愛	_	AUX	_	_	13	aux	_	SpaceAfter=No
+13	出去	_	VERB	_	_	16	acl	_	SpaceAfter=No
+14	玩	_	VERB	_	_	13	conj	_	SpaceAfter=No
+15	的	_	PART	_	_	13	mark:rel	_	SpaceAfter=No
+16	性格	_	NOUN	_	_	7	parataxis	_	SpaceAfter=No
+17	。	_	PUNCT	_	_	7	punct	_	SpaceAfter=No
 
 ~~~
 

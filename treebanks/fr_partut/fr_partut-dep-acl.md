@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_French-ParTUT: Relations: `acl`
 
 This relation is universal.
-There are 2 language-specific subtypes of `acl`: <tt><a href="fr_partut-dep-acl-cleft.html">acl:cleft</a></tt>, <tt><a href="fr_partut-dep-acl-relcl.html">acl:relcl</a></tt>.
+There are 1 language-specific subtypes of `acl`: <tt><a href="fr_partut-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-485 nodes (2%) are attached to their parents as `acl`.
+487 nodes (2%) are attached to their parents as `acl`.
 
-465 instances of `acl` (96%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.41443298969072.
+467 instances of `acl` (96%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.41273100616016.
 
-The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (453; 93% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (15; 3% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (8; 2% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1; 0% instances).
+The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (454; 93% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (16; 3% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-ADJ.html">ADJ</a></tt> (8; 2% instances), <tt><a href="fr_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="fr_partut-pos-VERB.html">VERB</a></tt> (4; 1% instances), <tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="fr_partut-pos-PRON.html">PRON</a></tt>-<tt><a href="fr_partut-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -35,28 +35,21 @@ The following 7 pairs of parts of speech are connected with `acl`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 7 acl	color:blue
-1	Il	il	PRON	PE	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
-2	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	3	iobj	_	_
-3	reste	rester	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	encore	encore	ADV	B	_	5	advmod	_	_
-5	beaucoup	beaucoup	PRON	PI	PronType=Ind	3	nsubj	_	_
-6	à	à	ADP	E	_	7	mark	_	_
-7	faire	faire	VERB	V	VerbForm=Inf	5	acl	_	_
-8	en	en	ADP	E	_	10	case	_	_
-9	la	le	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-10	matière	matière	NOUN	S	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
-11	,	,	PUNCT	FF	_	7	punct	_	_
-12	comme	comme	SCONJ	CS	_	14	mark	_	_
-13	le	le	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	_
-14	montre	montrer	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
-15	l'	le	DET	RD	Definite=Def|Number=Sing|PronType=Art	16	det	_	SpaceAfter=No
-16	actualité	actualité	NOUN	S	Gender=Fem|Number=Sing	14	nsubj	_	SpaceAfter=No
-17	.	.	PUNCT	FS	_	3	punct	_	_
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 6 acl	color:blue
+1	C'	ce	PRON	PD	PronType=Dem	3	nsubj	_	SpaceAfter=No
+2	est	être	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	ceci	ceci	PRON	PD	Number=Sing|Person=3|PronType=Dem	0	root	_	_
+4	qui	qui	PRON	PR	PronType=Rel	6	nsubj	_	_
+5	nous	nous	PRON	PE	Number=Plur|Person=1|PronType=Prs	6	obj	_	_
+6	conduira	conduire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	acl	_	_
+7	à	à	ADP	E	_	9	mark	_	_
+8	le	le	PRON	P	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+9	voter	voter	VERB	V	VerbForm=Inf	6	xcomp	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	3	punct	_	_
 
 ~~~
 

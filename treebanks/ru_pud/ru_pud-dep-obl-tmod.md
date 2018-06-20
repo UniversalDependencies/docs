@@ -7,7 +7,6 @@ udver: '2'
 ## Treebank Statistics: UD_Russian-PUD: Relations: `obl:tmod`
 
 This relation is a language-specific subtype of <tt><a href="ru_pud-dep-obl.html">obl</a></tt>.
-There are also 1 other language-specific subtypes of `obl`: <tt><a href="ru_pud-dep-obl-gmod.html">obl:gmod</a></tt>.
 
 81 nodes (0%) are attached to their parents as `obl:tmod`.
 

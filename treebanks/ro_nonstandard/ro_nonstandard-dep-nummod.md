@@ -8,25 +8,33 @@ udver: '2'
 
 This relation is universal.
 
-85 nodes (0%) are attached to their parents as `nummod`.
+742 nodes (1%) are attached to their parents as `nummod`.
 
-78 instances of `nummod` (92%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.18823529411765.
+600 instances of `nummod` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.24932614555256.
 
-The following 4 pairs of parts of speech are connected with `nummod`: <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (79; 93% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (3; 4% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (2; 2% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 9 pairs of parts of speech are connected with `nummod`: <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (663; 89% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (25; 3% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (19; 3% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (14; 2% instances), <tt><a href="ro_nonstandard-pos-X.html">X</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (9; 1% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (6; 1% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (4; 1% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 1 nummod	color:blue
-1	Doi	doi	NUM	Mcmp-l	Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	2	nummod	_	ref=MATT8.28.content
-2	îndrăciți	îndrăcit	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	4	nsubj	_	ref=MATT8.28.content
-3	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	4	expl:pv	_	ref=MATT8.28.content
-4	vindecă	vindeca	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT8.28.content|SpaceAfter=No
-5	.	.	PUNCT	PERIOD	_	4	punct	_	ref=MATT8.28.content
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 10 9 nummod	color:blue
+1	Şi	și	CCONJ	Ccssp	Polarity=Pos	4	cc:preconj	_	ref=MATT17.23|SpaceAfter=No
+2	-l	el	PRON	Pp3mpa--------w	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Weak	4	obj	_	ref=MATT17.23
+3	vor	vrea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	4	aux	_	ref=MATT17.23
+4	omorî	omorî	VERB	Vmn	VerbForm=Inf	0	root	_	ref=MATT17.23
+5	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	ref=MATT17.23
+6	El	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	4	nmod:pmod	_	ref=MATT17.23
+7	și	și	CCONJ	Ccssp	Polarity=Pos	12	cc	_	ref=MATT17.23
+8	a	al	DET	Tsfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Art	9	det	_	ref=MATT17.23
+9	treia	trei	NUM	Mofs-ly	Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	10	nummod	_	ref=MATT17.23
+10	zi	zi	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	12	nmod:tmod	_	ref=MATT17.23
+11	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	12	aux	_	ref=MATT17.23
+12	învie	învia	VERB	Vmn	VerbForm=Inf	4	conj	_	ref=MATT17.23|SpaceAfter=No
+13	.	.	PUNCT	PERIOD	_	4	punct	_	ref=MATT17.23
 
 ~~~
 
@@ -49,40 +57,26 @@ The following 4 pairs of parts of speech are connected with `nummod`: <tt><a hre
 
 
 ~~~ conllu
-# visual-style 25	bgColor:blue
-# visual-style 25	fgColor:white
-# visual-style 24	bgColor:blue
-# visual-style 24	fgColor:white
-# visual-style 24 25 nummod	color:blue
-1	Și	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	ref=MATT18.13
-2	de	de	SCONJ	Csssp	Polarity=Pos	5	mark	_	ref=MATT18.13
-3	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	5	expl:impers	_	ref=MATT18.13
-4	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	aux	_	ref=MATT18.13
-5	tămpla	întămpla	VERB	Vmn	VerbForm=Inf	11	advcl	_	ref=MATT18.13
-6	să	să	PART	Qs	PartType=Sub	8	mark	_	ref=MATT18.13
-7	o	ea	PRON	Pp3fsa--------w	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	8	obj	_	ref=MATT18.13
-8	afle	afla	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	5	csubj	_	ref=MATT18.13|SpaceAfter=No
-9	,	,	PUNCT	COMMA	_	5	punct	_	ref=MATT18.13
-10	adevărat	adevărat	ADV	Rg	_	11	advmod	_	ref=MATT18.13
-11	grăesc	grăi	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT18.13
-12	voao	tu	PRON	Pp2-pd--------s	Case=Dat|Number=Plur|Person=2|PronType=Prs|Strength=Strong	11	iobj	_	ref=MATT18.13|SpaceAfter=No
-13	,	,	PUNCT	COMMA	_	17	punct	_	ref=MATT18.13
-14	că	că	SCONJ	Csssp	Polarity=Pos	17	mark	_	ref=MATT18.13
-15	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	17	expl:pv	_	ref=MATT18.13
-16	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	17	aux	_	ref=MATT18.13
-17	bucura	bucura	VERB	Vmn	VerbForm=Inf	11	ccomp	_	ref=MATT18.13
-18	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	19	case	_	ref=MATT18.13
-19	aceia	acela	PRON	Pd3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	17	nmod:pmod	_	ref=MATT18.13
-20	mai	mai	ADV	Rg	_	21	advmod	_	ref=MATT18.13
-21	vîrtos	vârtos	ADV	Rg	_	17	advmod	_	ref=MATT18.13
-22	decît	decât	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	24	case	_	ref=MATT18.13
-23	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	24	case	_	ref=MATT18.13
-24	ceale	acela	PRON	Pd3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	21	obl	_	ref=MATT18.13
-25	noaozeci	nouăzeci	NUM	Mcfp-l	Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	24	nummod	_	ref=MATT18.13
-26	și	și	CCONJ	Ccssp	Polarity=Pos	25	compound	_	ref=MATT18.13
-27	noao	nouă	NUM	Mcfp-l	Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	26	compound	_	ref=MATT18.13
-28	nerătăcite	rătăci	VERB	Vmp--pf-z	Gender=Fem|Number=Plur|Polarity=Neg|VerbForm=Part	24	amod	_	ref=MATT18.13|SpaceAfter=No
-29	.	.	PUNCT	PERIOD	_	11	punct	_	ref=MATT18.13
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 nummod	color:blue
+1	Că	că	SCONJ	Csssp	Polarity=Pos	7	mark	_	ref=MARC10.31
+2	mulți	mult	PRON	Pi3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind	5	nmod	_	ref=MARC10.31
+3	vor	vrea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	4	aux	_	ref=MARC10.31
+4	fi	fi	VERB	Vmn	VerbForm=Inf	7	cop	_	ref=MARC10.31
+5	cei	acela	PRON	Pd3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	7	nsubj	_	ref=MARC10.31
+6	dentîiu	dentîiu	NUM	Moms-ln	Definite=Ind|Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	5	nummod	_	ref=MARC10.31
+7	apoi	apoi	ADV	Rg	_	0	root	_	ref=MARC10.31|SpaceAfter=No
+8	,	,	PUNCT	COMMA	_	14	punct	_	ref=MARC10.31
+9	și	și	CCONJ	Ccssp	Polarity=Pos	14	cc	_	ref=MARC10.31
+10	cei	acela	DET	Dd3mpo	Case=Dat,Gen|Gender=Masc|Number=Plur|Person=3|PronType=Dem	14	nsubj	_	ref=MARC10.31
+11	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	12	mark	_	ref=MARC10.31
+12	apoi	apoi	ADV	Rg	_	10	advmod	_	ref=MARC10.31|SpaceAfter=No
+13	,	,	PUNCT	COMMA	_	10	punct	_	ref=MARC10.31
+14	întîiu	întîiu	NUM	Moms-ln	Definite=Ind|Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	7	conj	_	ref=MARC10.31|SpaceAfter=No
+15	.	.	PUNCT	PERIOD	_	7	punct	_	ref=MARC10.31
 
 ~~~
 

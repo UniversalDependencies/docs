@@ -61,7 +61,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
   <tr><th>Paradigm <i>tout</i></th><th><tt>Prs</tt></th><th><tt>Tot</tt></th><th><tt>Ind</tt></th></tr>
   <tr><td><tt><tt><a href="fr_partut-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Sing</tt></tt></td><td></td><td></td><td><em>tout</em></td></tr>
   <tr><td><tt><tt><a href="fr_partut-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td><em>tous</em></td><td><em>tous</em></td></tr>
-  <tr><td><tt><tt><a href="fr_partut-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_partut-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>tout, tous</em></td><td></td><td></td></tr>
+  <tr><td><tt><tt><a href="fr_partut-feat-Gender.html">Gender</a></tt><tt>=Masc</tt>|<tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="fr_partut-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td><em>tous, tout</em></td><td></td><td></td></tr>
   <tr><td><tt><tt><a href="fr_partut-feat-Gender.html">Gender</a></tt><tt>=Fem</tt>|<tt><a href="fr_partut-feat-Number.html">Number</a></tt><tt>=Plur</tt></tt></td><td></td><td></td><td><em>toute</em></td></tr>
 </table>
 
@@ -104,6 +104,5 @@ The 10 most frequent relations where parent and child node agree in `PronType`:
 <tt>DET --[<tt><a href="fr_partut-dep-det.html">det</a></tt>]--> DET</tt> (3; 60%),
 <tt>PRON --[<tt><a href="fr_partut-dep-conj.html">conj</a></tt>]--> PRON</tt> (2; 100%),
 <tt>DET --[<tt><a href="fr_partut-dep-conj.html">conj</a></tt>]--> DET</tt> (1; 100%),
-<tt>PRON --[<tt><a href="fr_partut-dep-advmod.html">advmod</a></tt>]--> PRON</tt> (1; 100%),
-<tt>PRON --[<tt><a href="fr_partut-dep-nsubj-expl.html">nsubj:expl</a></tt>]--> PRON</tt> (1; 100%).
+<tt>PRON --[<tt><a href="fr_partut-dep-advmod.html">advmod</a></tt>]--> PRON</tt> (1; 100%).
 

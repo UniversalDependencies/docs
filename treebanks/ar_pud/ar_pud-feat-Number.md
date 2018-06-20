@@ -180,11 +180,10 @@ The most frequent other feature values with which `NUM` and `Number` co-occurred
 * `EMPTY` (283): 1، 10، 3، 2014، 2015، 100، 1492، 2010، 2012، 2013
 
 <table>
-  <tr><th>Paradigm <i>miloyuwn_1</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
-  <tr><td><tt><tt><a href="ar_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt></tt></td><td></td><td>مليون</td></tr>
-  <tr><td><tt><tt><a href="ar_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td>مليون</td></tr>
-  <tr><td><tt><tt><a href="ar_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt></tt></td><td></td><td>ملايين, مليون</td></tr>
-  <tr><td><tt><tt><a href="ar_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td>مليون</td><td>مليون, الملايين</td></tr>
+  <tr><th>Paradigm <i>Ea$ar_1</i></th><th><tt>Sing</tt></th><th><tt>Plur</tt></th></tr>
+  <tr><td><tt><tt><a href="ar_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="ar_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td></td><td>عشر</td></tr>
+  <tr><td><tt><tt><a href="ar_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar_pud-feat-Gender.html">Gender</a></tt><tt>=Masc</tt></tt></td><td>عشر</td><td>عشر</td></tr>
+  <tr><td><tt><tt><a href="ar_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="ar_pud-feat-Gender.html">Gender</a></tt><tt>=Fem</tt></tt></td><td></td><td>عشرة</td></tr>
 </table>
 
 ## Relations with Agreement in `Number`

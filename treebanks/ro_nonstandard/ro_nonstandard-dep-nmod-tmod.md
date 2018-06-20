@@ -9,86 +9,78 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>.
 There are also 2 other language-specific subtypes of `nmod`: <tt><a href="ro_nonstandard-dep-nmod-agent.html">nmod:agent</a></tt>, <tt><a href="ro_nonstandard-dep-nmod-pmod.html">nmod:pmod</a></tt>.
 
-80 nodes (0%) are attached to their parents as `nmod:tmod`.
+823 nodes (1%) are attached to their parents as `nmod:tmod`.
 
-57 instances of `nmod:tmod` (71%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.5.
+434 instances of `nmod:tmod` (53%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.94410692588092.
 
-The following 9 pairs of parts of speech are connected with `nmod:tmod`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (57; 71% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (8; 10% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (4; 5% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (4; 5% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
+The following 22 pairs of parts of speech are connected with `nmod:tmod`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (555; 67% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (122; 15% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (46; 6% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (31; 4% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (17; 2% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (9; 1% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (7; 1% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (6; 1% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (5; 1% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (4; 0% instances), <tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (3; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (3; 0% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 7 nmod:tmod	color:blue
-1	Și	și	CCONJ	Ccssp	Polarity=Pos	3	cc	_	ref=MATT9.22
-2	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	3	expl:pv	_	ref=MATT9.22
-3	vindecă	vindeca	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT9.22
-4	muiarea	muiere	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	3	nsubj	_	ref=MATT9.22
-5	într-	întru	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	7	case	_	ref=MATT9.22
-6	acela	acela	DET	Dd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	det	_	ref=MATT9.22
-7	ceas	ceas	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	nmod:tmod	_	ref=MATT9.22|SpaceAfter=No
-8	.	.	PUNCT	PERIOD	_	3	punct	_	ref=MATT9.22
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 nmod:tmod	color:blue
+1	Că	că	SCONJ	Csssp	Polarity=Pos	5	mark	_	ref=MATT17.15
+2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=MATT17.15
+3	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	4	det	_	ref=MATT17.15
+4	ori	oară	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	5	nmod:tmod	_	ref=MATT17.15
+5	cade	cădea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT17.15
+6	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	ref=MATT17.15
+7	foc	foc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	5	obl	_	ref=MATT17.15
+8	și	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	ref=MATT17.15
+9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	ref=MATT17.15
+10	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	11	det	_	ref=MATT17.15
+11	ori	oară	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	5	conj	_	ref=MATT17.15|SpaceAfter=No
+12	,	,	PUNCT	COMMA	_	11	punct	_	ref=MATT17.15
+13	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	ref=MATT17.15
+14	apă	apă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	11	orphan	_	ref=MATT17.15|SpaceAfter=No
+15	.	.	PUNCT	PERIOD	_	5	punct	_	ref=MATT17.15
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 nmod:tmod	color:blue
-1	Aseară	aseară	ADV	Rg	_	13	advmod:tmod	_	_
-2	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	_
-3	vremea	vreme	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	1	nmod:tmod	_	_
-4	cinii	cină	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	3	nmod	_	Rhyme=ID10,18|SpaceAfter=No|Type=Mono
-5	,	,	PUNCT	COMMA	_	7	punct	_	_
-6	Când	când	ADV	Rw	PronType=Int,Rel	7	advmod:tmod	_	_
-7	treceam	trece	VERB	Vmii1p	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	1	advcl:tcl	_	_
-8	gardul	gard	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	7	obj	_	_
-9	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	10	case	_	_
-10	spinii	spin	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	7	nmod	_	Rhyme=ID4,18|SpaceAfter=No|Type=Mono
-11	,	,	PUNCT	COMMA	_	7	punct	_	_
-12	M-	eu	PRON	Pp1-sa--------w	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	13	obj	_	SpaceAfter=No
-13	amuțai	amuța	VERB	Vmii2s	Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No
-14	,	,	PUNCT	COMMA	_	15	punct	_	_
-15	mândră	mândră	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	13	vocative	_	SpaceAfter=No
-16	,	,	PUNCT	COMMA	_	15	punct	_	_
-17	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	_
-18	cânii	câine	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	13	obl	_	Rhyme=ID4,10|SpaceAfter=No|Type=Mono
-19	.	.	PUNCT	PERIOD	_	13	punct	_	_
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 4 nmod:tmod	color:blue
+1	Și	și	CCONJ	Ccssp	Polarity=Pos	2	cc	_	ref=MATT17.16
+2	aduș	aduce	VERB	Vmis1s	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT17.16
+3	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=MATT17.16
+4	el	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	2	nmod:tmod	_	ref=MATT17.16
+5	ucenicilor	ucenic	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	2	nmod:pmod	_	ref=MATT17.16
+6	Tăi	tău	DET	Ds2mp-s	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	5	det	_	ref=MATT17.16
+7	și	și	CCONJ	Ccssp	Polarity=Pos	11	cc	_	ref=MATT17.16
+8	nu	nu	ADV	Qz	Polarity=Neg	11	advmod	_	ref=MATT17.16|SpaceAfter=No
+9	-l	el	PRON	Pp3msa--------w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak	11	obj	_	ref=MATT17.16
+10	putură	putea	AUX	Vais3p	Mood=Ind|Number=Plur|Person=3|Tense=Past	11	aux	_	ref=MATT17.16
+11	vindeca	vindeca	VERB	Vmn	VerbForm=Inf	2	conj	_	ref=MATT17.16|SpaceAfter=No
+12	.	.	PUNCT	PERIOD	_	2	punct	_	ref=MATT17.16
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 15	bgColor:blue
-# visual-style 15	fgColor:white
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 14 15 nmod:tmod	color:blue
-1	El	el	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	ref=MATT19.4
-2	răspunzînd	răspunde	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	4	advcl	_	ref=MATT19.4|SpaceAfter=No
-3	,	,	PUNCT	COMMA	_	2	punct	_	ref=MATT19.4
-4	zisă	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT19.4
-5	lor	el	PRON	Pp3-pd--------s	Case=Dat|Number=Plur|Person=3|PronType=Prs|Strength=Strong	4	nmod	_	ref=MATT19.4|SpaceAfter=No
-6	:	:	PUNCT	COLON	_	10	punct	_	ref=MATT19.4
-7	Au	au	INTJ	I	_	10	discourse	_	ref=MATT19.4
-8	n-	nu	ADV	Qz	Polarity=Neg	10	advmod	_	ref=MATT19.4|SpaceAfter=No
-9	ați	avea	AUX	Vaip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres	10	aux	_	ref=MATT19.4
-10	cetit	citi	VERB	Vmp	VerbForm=Part	4	parataxis	_	ref=MATT19.4
-11	că	că	SCONJ	Csssp	Polarity=Pos	14	mark	_	ref=MATT19.4
-12	Făcătoriul	făcător	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	14	nsubj	_	ref=MATT19.4
-13	au	avea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	14	aux	_	ref=MATT19.4
-14	făcut	face	VERB	Vmp	VerbForm=Part	10	ccomp	_	ref=MATT19.4
-15	dintîi	dintâi	NUM	Mo-s-r	Number=Sing|NumForm=Roman|NumType=Ord	14	nmod:tmod	_	ref=MATT19.4
-16	bărbatu	bărbat	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	14	obj	_	ref=MATT19.4
-17	și	și	CCONJ	Ccssp	Polarity=Pos	18	cc	_	ref=MATT19.4
-18	muiarea	muiere	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	16	conj	_	ref=MATT19.4|SpaceAfter=No
-19	?	?	PUNCT	QUEST	_	10	punct	_	ref=MATT19.4
+# visual-style 10	bgColor:blue
+# visual-style 10	fgColor:white
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 10 nmod:tmod	color:blue
+1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	ref=MATT.pred.21
+2	ce	ce	DET	Dw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	3	det	_	ref=MATT.pred.21
+3	vreame	vreme	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	5	nmod:tmod	_	ref=MATT.pred.21
+4	au	oare	DET	Di3msr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	5	aux	_	ref=MATT.pred.21
+5	scris	scrie	VERB	Vmp	VerbForm=Part	0	root	_	ref=MATT.pred.21|SpaceAfter=No
+6	;	;	PUNCT	SCOLON	_	9	punct	_	ref=MATT.pred.21
+7	el	el	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	nsubj	_	ref=MATT.pred.21
+8	a	avea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	aux	_	ref=MATT.pred.21
+9	scris	scrie	VERB	Vmp	VerbForm=Part	5	conj	_	ref=MATT.pred.21
+10	întîi	întâi	NUM	Momp-ln	Definite=Ind|Gender=Masc|Number=Plur|NumForm=Word|NumType=Ord	9	nmod:tmod	_	ref=MATT.pred.21|SpaceAfter=No
+11	?	?	PUNCT	QUEST	_	5	punct	_	ref=MATT.pred.21
 
 ~~~
 

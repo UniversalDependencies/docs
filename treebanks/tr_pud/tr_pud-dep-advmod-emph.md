@@ -22,19 +22,19 @@ The following 13 pairs of parts of speech are connected with `advmod:emph`: <tt>
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 11 advmod:emph	color:blue
-1	Oyun	_	NOUN	NN	Number=Sing	2	compound	_	_
-2	tarzında	_	NOUN	NN	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	advmod	_	_
-3	sert	_	ADJ	JJ	Number=Sing	5	amod	_	_
-4	bir	_	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	5	det	_	_
-5	yan	_	NOUN	NN	Case=Nom|Number=Sing	6	nsubj	_	_
-6	olsa	_	VERB	VB	Mood=Cnd|Number=Sing|Person=3|Tense=Pres	12	advcl	_	_
-7	da	_	ADV	RB	_	6	advmod:emph	_	_
-8	yumuşak	_	ADJ	JJ	Number=Sing	10	amod	_	_
-9	bir	_	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	10	det	_	_
-10	tutuşu	_	NOUN	VN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3|Polarity=Pos	12	csubj	_	_
-11	da	_	ADV	RB	_	10	advmod:emph	_	_
-12	var	_	ADJ	JJ	Polarity=Pos	0	root	_	SpaceAfter=No
-13	.	_	PUNCT	.	_	12	punct	_	_
+1	Oyun	oyun	NOUN	NN	Number=Sing	2	compound	_	_
+2	tarzında	tarz	NOUN	NN	Case=Loc|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	advmod	_	_
+3	sert	sert	ADJ	JJ	Number=Sing	5	amod	_	_
+4	bir	bir	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	5	det	_	_
+5	yan	yan	NOUN	NN	Case=Nom|Number=Sing	6	nsubj	_	_
+6	olsa	ol	VERB	VB	Mood=Cnd|Number=Sing|Person=3|Tense=Pres	12	advcl	_	_
+7	da	da	ADV	RB	_	6	advmod:emph	_	_
+8	yumuşak	yumuşak	ADJ	JJ	Number=Sing	10	amod	_	_
+9	bir	bir	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	10	det	_	_
+10	tutuşu	tutuş	NOUN	VN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3|Polarity=Pos	12	csubj	_	_
+11	da	da	ADV	RB	_	10	advmod:emph	_	_
+12	var	var	ADJ	JJ	Polarity=Pos	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	.	_	12	punct	_	_
 
 ~~~
 
@@ -45,14 +45,14 @@ The following 13 pairs of parts of speech are connected with `advmod:emph`: <tt>
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
 # visual-style 1 2 advmod:emph	color:blue
-1	Belki	_	ADV	RB	_	6	advmod	_	_
-2	de	_	ADV	RB	_	1	advmod:emph	_	_
-3	kıyafet	_	NOUN	NN	Number=Sing	4	compound	_	_
-4	yönetmeliği	_	NOUN	VN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	csubj	_	_
-5	çok	_	ADV	RB	_	6	advmod	_	_
-6	sıkıcı	_	NOUN	VN	Number=Sing	0	root	_	_
-7	ydı	_	AUX	AUX	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	6	cop	_	_
-8	.	_	PUNCT	.	_	6	punct	_	_
+1	Belki	belki	ADV	RB	_	6	advmod	_	_
+2	de	de	ADV	RB	_	1	advmod:emph	_	_
+3	kıyafet	kıyafet	NOUN	NN	Number=Sing	4	compound	_	_
+4	yönetmeliği	yönetmelik	NOUN	VN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	6	csubj	_	_
+5	çok	çok	ADV	RB	_	6	advmod	_	_
+6	sıkıcı	sıkıcı	NOUN	VN	Number=Sing	0	root	_	_
+7	ydı	i	AUX	AUX	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	6	cop	_	_
+8	.	.	PUNCT	.	_	6	punct	_	_
 
 ~~~
 
@@ -63,20 +63,20 @@ The following 13 pairs of parts of speech are connected with `advmod:emph`: <tt>
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 4 advmod:emph	color:blue
-1	Ancak	_	ADV	RB	_	12	advmod	_	_
-2	onda	_	PRON	PRP	Case=Loc|Number=Sing	12	advmod	_	_
-3	ya	_	CCONJ	CCONJ	_	7	cc	_	_
-4	da	_	ADV	RB	_	3	advmod:emph	_	_
-5	başkalarına	_	NOUN	NN	Case=Dat|Number=Plur	7	nmod	_	_
-6	karşı	_	ADP	IN	_	5	case	_	_
-7	davranışlarında	_	NOUN	NN	Case=Loc|Number=Plur|Number[psor]=Sing|Person[psor]=3	2	conj	_	_
-8	sanatsal	_	ADJ	JJ	Number=Sing	11	amod	_	_
-9	başka	_	ADJ	JJ	Number=Sing	11	amod	_	_
-10	hiçbir	_	DET	DT	Definite=Ind|Number=Sing|Polarity=Neg	11	det	_	_
-11	şey	_	PRON	PRI	Case=Nom|Number=Sing	12	nsubj	_	_
-12	yok	_	ADJ	JJ	Polarity=Neg	0	root	_	_
-13	tu	_	AUX	AUX	Aspect=Perf|Mood=Gen|Number=Sing|Person=3|Tense=Pres	12	cop	_	_
-14	.	_	PUNCT	.	_	12	punct	_	_
+1	Ancak	ancak	ADV	RB	_	12	advmod	_	_
+2	onda	o	PRON	PRP	Case=Loc|Number=Sing	12	advmod	_	_
+3	ya	ya	CCONJ	CCONJ	_	7	cc	_	_
+4	da	da	ADV	RB	_	3	advmod:emph	_	_
+5	başkalarına	başka	NOUN	NN	Case=Dat|Number=Plur	7	nmod	_	_
+6	karşı	karşı	ADP	IN	_	5	case	_	_
+7	davranışlarında	davranış	NOUN	NN	Case=Loc|Number=Plur|Number[psor]=Sing|Person[psor]=3	2	conj	_	_
+8	sanatsal	sanatsal	ADJ	JJ	Number=Sing	11	amod	_	_
+9	başka	başka	ADJ	JJ	Number=Sing	11	amod	_	_
+10	hiçbir	hiçbir	DET	DT	Definite=Ind|Number=Sing|Polarity=Neg	11	det	_	_
+11	şey	şey	PRON	PRI	Case=Nom|Number=Sing	12	nsubj	_	_
+12	yok	yok	ADJ	JJ	Polarity=Neg	0	root	_	_
+13	tu	i	AUX	AUX	Aspect=Perf|Mood=Gen|Number=Sing|Person=3|Tense=Pres	12	cop	_	_
+14	.	.	PUNCT	.	_	12	punct	_	_
 
 ~~~
 

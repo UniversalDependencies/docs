@@ -8,31 +8,31 @@ udver: '2'
 
 This relation is universal.
 
-112 nodes (1%) are attached to their parents as `xcomp`.
+830 nodes (1%) are attached to their parents as `xcomp`.
 
-90 instances of `xcomp` (80%) are left-to-right (parent precedes child).
-Average distance between parent and child is 3.69642857142857.
+708 instances of `xcomp` (85%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.49277108433735.
 
-The following 9 pairs of parts of speech are connected with `xcomp`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (51; 46% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (24; 21% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (19; 17% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (9; 8% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (4; 4% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (2; 2% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (1; 1% instances).
+The following 30 pairs of parts of speech are connected with `xcomp`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (352; 42% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (198; 24% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (124; 15% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (82; 10% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (14; 2% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (10; 1% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (6; 1% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (4; 0% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (4; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (4; 0% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 10	bgColor:blue
-# visual-style 10	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 10 xcomp	color:blue
-1	Când	când	ADV	Rw	PronType=Int,Rel	4	advmod:tmod	_	_
-2	Anița	Anița	PROPN	Npfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	4	nsubj	_	_
-3	bani	ban	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	4	obj	_	_
-4	cerea	cere	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	advcl:tcl	_	Rhyme=ID10|SpaceAfter=No|Type=Paired
-5	,	,	PUNCT	COMMA	_	4	punct	_	_
-6	Se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	7	expl:pv	_	_
-7	făcea	face	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-8	că	că	SCONJ	Csssp	Polarity=Pos	10	mark	_	_
-9	n-	nu	ADV	Qz	Polarity=Neg	10	advmod	_	SpaceAfter=No
-10	auzea	auzi	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	xcomp	_	Rhyme=ID4|SpaceAfter=No|Type=Paired
-11	.	.	PUNCT	PERIOD	_	7	punct	_	_
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 5 xcomp	color:blue
+1	Și	și	CCONJ	Ccssp	Polarity=Pos	10	cc	_	ref=MATT19.9
+2	cine	cine	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	nsubj	_	ref=MATT19.9
+3	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	ref=MATT19.9
+4	lua	lua	VERB	Vmn	VerbForm=Inf	10	csubj	_	ref=MATT19.9
+5	lăsată	lăsa	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	4	xcomp	_	ref=MATT19.9
+6	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	ref=MATT19.9
+7	altul	altul	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	nmod:agent	_	ref=MATT19.9|SpaceAfter=No
+8	,	,	PUNCT	COMMA	_	4	punct	_	ref=MATT19.9
+9	curvie	curvie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	10	obj	_	ref=MATT19.9
+10	face	face	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT19.9|SpaceAfter=No
+11	.	.	PUNCT	PERIOD	_	10	punct	_	ref=MATT19.9
 
 ~~~
 
@@ -40,46 +40,43 @@ The following 9 pairs of parts of speech are connected with `xcomp`: <tt><a href
 ~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 7 xcomp	color:blue
-1	Ferice	ferice	ADV	Rg	_	0	root	_	ref=MATT5.9
-2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	ref=MATT5.9
-3	împăcătorii	împăcător	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	1	nmod:pmod	_	ref=MATT5.9|SpaceAfter=No
-4	,	,	PUNCT	COMMA	_	12	punct	_	ref=MATT5.9
-5	că	că	SCONJ	Csssp	Polarity=Pos	12	mark	_	ref=MATT5.9
-6	aceia	acela	PRON	Pd3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Dem	12	nsubj:pass	_	ref=MATT5.9
-7	fii	fiu	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	12	xcomp	_	ref=MATT5.9
-8	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	9	det	_	ref=MATT5.9
-9	Dumnedzeu	Dumnezeu	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	7	nmod	_	ref=MATT5.9
-10	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	12	expl:pass	_	ref=MATT5.9
-11	vor	vrea	AUX	Vaip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres	12	aux	_	ref=MATT5.9
-12	chema	chema	VERB	Vmn	VerbForm=Inf	1	advcl	_	ref=MATT5.9|SpaceAfter=No
-13	.	.	PUNCT	PERIOD	_	1	punct	_	ref=MATT5.9
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 7 xcomp	color:blue
+1	Dar	dar	CCONJ	Ccssp	Polarity=Pos	13	cc	_	ref=MATT22.45
+2	deaca	dacă	SCONJ	Cscsp	Compound=Yes|Polarity=Pos	3	mark	_	ref=MATT22.45
+3	chiamă	chema	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	ref=MATT22.45
+4	David	David	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	nsubj	_	ref=MATT22.45
+5	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	ref=MATT22.45
+6	el	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	3	nmod:pmod	_	ref=MATT22.45
+7	Domnu	domn	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	xcomp	_	ref=MATT22.45|SpaceAfter=No
+8	,	,	PUNCT	COMMA	_	3	punct	_	ref=MATT22.45
+9	cum	cum	ADV	Rw	PronType=Int,Rel	13	advmod	_	ref=MATT22.45
+10	iaste	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	ref=MATT22.45
+11	al	al	DET	Tsmsr	Case=Acc,Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Art	12	det	_	ref=MATT22.45
+12	lui	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nmod	_	ref=MATT22.45
+13	fiiu	fiu	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	ref=MATT22.45|SpaceAfter=No
+14	?	?	PUNCT	QUEST	_	13	punct	_	ref=MATT22.45
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 13	bgColor:blue
-# visual-style 13	fgColor:white
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
-# visual-style 12 13 xcomp	color:blue
-1	A	avea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	2	aux	_	_
-2	început	începe	VERB	Vmp	VerbForm=Part	0	root	_	_
-3	a	a	PART	Qn	PartType=Inf	5	mark	_	_
-4	te	tu	PRON	Pp2-sa--------w	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	5	obj	_	_
-5	lua	lua	VERB	Vmn	VerbForm=Inf	2	ccomp	_	_
-6	lumea	lume	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	5	nsubj	_	_
-7	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	_
-8	ochi	ochi	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	5	obl	_	_
-9	și	și	CCONJ	Ccssp	Polarity=Pos	12	cc	_	_
-10	a	a	PART	Qn	PartType=Inf	12	mark	_	_
-11	te	tu	PRON	Pp2-sa--------w	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	12	obj	_	_
-12	face	face	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
-13	prost	prost	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	12	xcomp	_	SpaceAfter=No
-14	.	.	PUNCT	PERIOD	_	2	punct	_	_
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 9 xcomp	color:blue
+1	Dară	dar	CCONJ	Cccsp	Compound=Yes|Polarity=Pos	3	cc	_	ref=MATT19.17
+2	El	el	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	ref=MATT19.17
+3	zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT19.17
+4	lui	el	PRON	Pp3msd--------s	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	3	iobj	_	ref=MATT19.17|SpaceAfter=No
+5	:	:	PUNCT	COLON	_	8	punct	_	ref=MATT19.17
+6	Ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	8	obl	_	ref=MATT19.17
+7	Mă	eu	PRON	Pp1-sa--------w	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	8	obj	_	ref=MATT19.17
+8	grăești	grăi	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	parataxis	_	ref=MATT19.17
+9	bun	bun	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	8	xcomp	_	ref=MATT19.17|SpaceAfter=No
+10	?	?	PUNCT	QUEST	_	8	punct	_	ref=MATT19.17
 
 ~~~
 

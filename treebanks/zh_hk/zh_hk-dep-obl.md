@@ -7,14 +7,14 @@ udver: '2'
 ## Treebank Statistics: UD_Chinese-HK: Relations: `obl`
 
 This relation is universal.
-There are 2 language-specific subtypes of `obl`: <tt><a href="zh_hk-dep-obl-patient.html">obl:patient</a></tt>, <tt><a href="zh_hk-dep-obl-tmod.html">obl:tmod</a></tt>.
+There are 3 language-specific subtypes of `obl`: <tt><a href="zh_hk-dep-obl-agent.html">obl:agent</a></tt>, <tt><a href="zh_hk-dep-obl-patient.html">obl:patient</a></tt>, <tt><a href="zh_hk-dep-obl-tmod.html">obl:tmod</a></tt>.
 
-42 nodes (2%) are attached to their parents as `obl`.
+199 nodes (2%) are attached to their parents as `obl`.
 
-33 instances of `obl` (79%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.80952380952381.
+161 instances of `obl` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.74874371859296.
 
-The following 6 pairs of parts of speech are connected with `obl`: <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (22; 52% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> (16; 38% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (1; 2% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 2% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> (1; 2% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt> (1; 2% instances).
+The following 12 pairs of parts of speech are connected with `obl`: <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (118; 59% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> (53; 27% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt> (13; 7% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (4; 2% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -50,11 +50,11 @@ The following 6 pairs of parts of speech are connected with `obl`: <tt><a href="
 2	你	_	PRON	_	_	3	nmod	_	SpaceAfter=No
 3	媽媽	_	NOUN	_	_	1	obj	_	SpaceAfter=No
 4	放工	_	VERB	_	_	1	xcomp	_	SpaceAfter=No
-5	回來	_	VERB	_	_	4	compound:dir	_	SpaceAfter=No
+5	回來	_	VERB	_	_	4	conj	_	SpaceAfter=No
 6	，	_	PUNCT	_	_	9	punct	_	SpaceAfter=No
 7	跟	_	ADP	_	_	8	case	_	SpaceAfter=No
 8	你	_	PRON	_	_	9	obl	_	SpaceAfter=No
-9	對	_	VERB	_	_	1	conj	_	SpaceAfter=No
+9	對	_	VERB	_	_	4	conj	_	SpaceAfter=No
 10	好	_	ADJ	_	_	9	compound:vv	_	SpaceAfter=No
 11	功課	_	NOUN	_	_	9	obj	_	SpaceAfter=No
 12	才	_	ADV	_	_	13	advmod	_	SpaceAfter=No
@@ -68,17 +68,19 @@ The following 6 pairs of parts of speech are connected with `obl`: <tt><a href="
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 2 obl	color:blue
-1	從	從	ADP	_	_	2	case	_	SpaceAfter=No
-2	小	小	ADJ	_	_	7	obl	_	SpaceAfter=No
-3	到	到	ADP	_	_	4	case	_	SpaceAfter=No
-4	大	大	ADJ	_	_	2	conj	_	SpaceAfter=No
-5	都	都	ADV	_	_	7	advmod	_	SpaceAfter=No
-6	是	是	VERB	_	_	7	cop	_	SpaceAfter=No
-7	興趣	興趣	NOUN	_	_	0	root	_	SpaceAfter=No
-8	。	。	PUNCT	_	_	7	punct	_	SpaceAfter=No
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 2 obl	color:blue
+1	在	_	ADP	_	_	2	case	_	SpaceAfter=No
+2	九零三	_	PROPN	_	_	6	obl	_	SpaceAfter=No
+3	與	_	CCONJ	_	_	4	cc	_	SpaceAfter=No
+4	新城電台	_	PROPN	_	_	2	conj	_	SpaceAfter=No
+5	間	_	NOUN	_	_	2	case:loc	_	SpaceAfter=No
+6	轉	_	VERB	_	_	0	root	_	SpaceAfter=No
+7	來	_	VERB	_	_	6	compound:vv	_	SpaceAfter=No
+8	轉	_	VERB	_	_	6	conj	_	SpaceAfter=No
+9	去	_	VERB	_	_	8	compound:vv	_	SpaceAfter=No
+10	。	_	PUNCT	_	_	6	punct	_	SpaceAfter=No
 
 ~~~
 

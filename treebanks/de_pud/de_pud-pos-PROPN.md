@@ -70,13 +70,13 @@ Examples: <em>Trump, Donald, Joseph, John, Mishima, Paul, Rafferty, Seagal, Shen
 
 Parents of `PROPN` nodes belong to 10 different parts of speech: <tt><a href="de_pud-pos-NOUN.html">NOUN</a></tt> (488; 40% instances), <tt><a href="de_pud-pos-VERB.html">VERB</a></tt> (410; 34% instances), <tt><a href="de_pud-pos-PROPN.html">PROPN</a></tt> (263; 22% instances), <tt><a href="de_pud-pos-ADJ.html">ADJ</a></tt> (29; 2% instances), <tt><a href="de_pud-pos-NUM.html">NUM</a></tt> (8; 1% instances), <tt><a href="de_pud-pos-AUX.html">AUX</a></tt> (7; 1% instances), <tt><a href="de_pud-pos-DET.html">DET</a></tt> (5; 0% instances),  (5; 0% instances), <tt><a href="de_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="de_pud-pos-PRON.html">PRON</a></tt> (2; 0% instances)
 
-479 (39%) `PROPN` nodes are leaves.
+481 (39%) `PROPN` nodes are leaves.
 
-452 (37%) `PROPN` nodes have one child.
+443 (36%) `PROPN` nodes have one child.
 
-195 (16%) `PROPN` nodes have two children.
+207 (17%) `PROPN` nodes have two children.
 
-93 (8%) `PROPN` nodes have three or more children.
+88 (7%) `PROPN` nodes have three or more children.
 
 The highest child degree of a `PROPN` node is 7.
 

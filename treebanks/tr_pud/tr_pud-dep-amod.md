@@ -22,14 +22,14 @@ The following 21 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 1 amod	color:blue
-1	Yeni	_	ADJ	JJ	Number=Sing	2	amod	_	_
-2	bütçe	_	NOUN	NN	Case=Nom|Number=Sing	7	nsubj	_	_
-3	Clinton'un	_	PROPN	PROPN	Case=Gen|Number=Sing	6	nmod:poss	_	Proper=True
-4	kabarık	_	ADJ	JJ	Number=Sing	6	amod	_	_
-5	banka	_	NOUN	NN	Number=Sing	6	compound	_	_
-6	hesabından	_	NOUN	NN	Case=Abl|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	advmod	_	_
-7	sağlanıyor	_	VERB	VB	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	SpaceAfter=No
-8	.	_	PUNCT	.	_	7	punct	_	_
+1	Yeni	yeni	ADJ	JJ	Number=Sing	2	amod	_	_
+2	bütçe	bütçe	NOUN	NN	Case=Nom|Number=Sing	7	nsubj	_	_
+3	Clinton'un	Clinton	PROPN	PROPN	Case=Gen|Number=Sing	6	nmod:poss	_	Proper=True
+4	kabarık	kabarık	ADJ	JJ	Number=Sing	6	amod	_	_
+5	banka	banka	NOUN	NN	Number=Sing	6	compound	_	_
+6	hesabından	hesab	NOUN	NN	Case=Abl|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	advmod	_	_
+7	sağlanıyor	sağla	VERB	VB	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	7	punct	_	_
 
 ~~~
 
@@ -40,14 +40,14 @@ The following 21 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 5 amod	color:blue
-1	Peki	_	ADV	RB	_	7	cc	_	_
-2	ya	_	ADV	RB	_	7	discourse	_	_
-3	Avustralya'nın	_	PROPN	PROPN	Case=Gen|Number=Sing	7	nmod:poss	_	Proper=True
-4	bu	_	DET	DT	Definite=Def|Number=Sing|Polarity=Pos	5	det	_	_
-5	konuda	_	NOUN	NN	Case=Loc|Number=Sing	7	amod	_	_
-6	ki	_	ADP	JJ	_	5	case	_	_
-7	duruşu	_	NOUN	NN	Number=Sing|Number[psor]=Sing|Person[psor]=3|Polarity=Pos	0	root	_	SpaceAfter=No
-8	?	_	PUNCT	.	_	7	punct	_	_
+1	Peki	peki	ADV	RB	_	7	cc	_	_
+2	ya	ya	ADV	RB	_	7	discourse	_	_
+3	Avustralya'nın	Avustralya	PROPN	PROPN	Case=Gen|Number=Sing	7	nmod:poss	_	Proper=True
+4	bu	bu	DET	DT	Definite=Def|Number=Sing|Polarity=Pos	5	det	_	_
+5	konuda	konu	NOUN	NN	Case=Loc|Number=Sing	7	amod	_	_
+6	ki	ki	ADP	JJ	_	5	case	_	_
+7	duruşu	duruş	NOUN	NN	Number=Sing|Number[psor]=Sing|Person[psor]=3|Polarity=Pos	0	root	_	SpaceAfter=No
+8	?	?	PUNCT	.	_	7	punct	_	_
 
 ~~~
 
@@ -58,14 +58,14 @@ The following 21 pairs of parts of speech are connected with `amod`: <tt><a href
 # visual-style 4	bgColor:blue
 # visual-style 4	fgColor:white
 # visual-style 4 2 amod	color:blue
-1	Ordu	_	NOUN	NN	Case=Nom|Number=Sing	7	nsubj	_	_
-2	Küba'da	_	PROPN	PROPN	Case=Loc|Number=Sing	4	amod	_	Proper=True
-3	ki	_	ADP	JJ	_	2	case	_	_
-4	savaşta	_	NOUN	NN	Case=Loc|Number=Sing	7	advmod	_	_
-5	iyi	_	ADJ	JJ	Number=Sing	6	amod	_	_
-6	performans	_	NOUN	NN	Number=Sing	7	obj	_	_
-7	gösterdi	_	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
-8	.	_	PUNCT	.	_	7	punct	_	_
+1	Ordu	ordu	NOUN	NN	Case=Nom|Number=Sing	7	nsubj	_	_
+2	Küba'da	Küba	PROPN	PROPN	Case=Loc|Number=Sing	4	amod	_	Proper=True
+3	ki	ki	ADP	JJ	_	2	case	_	_
+4	savaşta	savaş	NOUN	NN	Case=Loc|Number=Sing	7	advmod	_	_
+5	iyi	iyi	ADJ	JJ	Number=Sing	6	amod	_	_
+6	performans	performans	NOUN	NN	Number=Sing	7	obj	_	_
+7	gösterdi	göster	VERB	VB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	7	punct	_	_
 
 ~~~
 

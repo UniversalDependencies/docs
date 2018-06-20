@@ -56,9 +56,9 @@ The following 17 pairs of parts of speech are connected with `appos`: <tt><a hre
 7	President	president	NOUN	S	Number=Sing	3	obj	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	7	punct	_	_
 9	Park	Park	PROPN	SP	_	7	appos	_	_
-10	Geun	Geun	PROPN	SP	_	9	flat:name	_	SpaceAfter=No
+10	Geun	Geun	PROPN	SP	_	9	flat	_	SpaceAfter=No
 11	-	-	PUNCT	FF	_	9	punct	_	SpaceAfter=No
-12	hye	hye	NOUN	S	Gender=Fem|Number=Sing	9	flat:name	_	SpaceAfter=No
+12	hye	hye	NOUN	S	Gender=Fem|Number=Sing	9	flat	_	SpaceAfter=No
 13	,	,	PUNCT	FF	_	9	punct	_	_
 14	in	in	ADP	E	_	15	case	_	_
 15	2012	2012	NUM	N	NumType=Card	3	obl	_	SpaceAfter=No
@@ -79,7 +79,7 @@ The following 17 pairs of parts of speech are connected with `appos`: <tt><a hre
 4	Balzac	Balzac	PROPN	SP	_	5	nsubj	_	_
 5	released	release	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	Eugénie	Eugénie	PROPN	SP	_	5	obj	_	_
-7	Grandet	Grandet	PROPN	SP	_	6	flat:name	_	SpaceAfter=No
+7	Grandet	Grandet	PROPN	SP	_	6	flat	_	SpaceAfter=No
 8	,	,	PUNCT	FF	_	6	punct	_	_
 9	his	his	DET	AP	Poss=Yes|PronType=Prs	12	nmod:poss	_	_
 10	first	first	ADJ	NO	Degree=Pos|NumType=Ord	12	amod	_	_

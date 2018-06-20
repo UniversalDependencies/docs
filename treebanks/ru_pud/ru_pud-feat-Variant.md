@@ -82,7 +82,7 @@ The 10 most frequent relations where parent and child node agree in `Variant`:
 <tt>ADJ --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> ADJ</tt> (46; 100%),
 <tt>ADJ --[<tt><a href="ru_pud-dep-amod.html">amod</a></tt>]--> ADJ</tt> (14; 100%),
 <tt>ADJ --[<tt><a href="ru_pud-dep-advmod.html">advmod</a></tt>]--> ADJ</tt> (3; 100%),
-<tt>NUM --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> NUM</tt> (2; 100%),
+<tt>NUM --[<tt><a href="ru_pud-dep-conj.html">conj</a></tt>]--> NUM</tt> (3; 100%),
 <tt>NUM --[<tt><a href="ru_pud-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (2; 100%),
 <tt>ADJ --[<tt><a href="ru_pud-dep-obl.html">obl</a></tt>]--> ADJ</tt> (1; 100%).
 

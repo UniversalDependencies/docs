@@ -9,30 +9,30 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `nmod`: <tt><a href="hi_pud-dep-nmod-poss.html">nmod:poss</a></tt>.
 
-134 nodes (1%) are attached to their parents as `nmod`.
+139 nodes (1%) are attached to their parents as `nmod`.
 
-105 instances of `nmod` (78%) are right-to-left (child precedes parent).
-Average distance between parent and child is 4.29850746268657.
+111 instances of `nmod` (80%) are right-to-left (child precedes parent).
+Average distance between parent and child is 4.2158273381295.
 
-The following 16 pairs of parts of speech are connected with `nmod`: <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (72; 54% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (27; 20% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (10; 7% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> (7; 5% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (2; 1% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt>-<tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt>-<tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 17 pairs of parts of speech are connected with `nmod`: <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (74; 53% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (27; 19% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (10; 7% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> (7; 5% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (4; 3% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt>-<tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (3; 2% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt>-<tt><a href="hi_pud-pos-DET.html">DET</a></tt> (2; 1% instances), <tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt>-<tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt>-<tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances), <tt><a href="hi_pud-pos-DET.html">DET</a></tt>-<tt><a href="hi_pud-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-ADJ.html">ADJ</a></tt> (1; 1% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-PRON.html">PRON</a></tt> (1; 1% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-SYM.html">SYM</a></tt> (1; 1% instances), <tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt>-<tt><a href="hi_pud-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_pud-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="hi_pud-pos-NUM.html">NUM</a></tt>-<tt><a href="hi_pud-pos-NUM.html">NUM</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 3 nmod	color:blue
-1	साहेल	_	PROPN	NNP	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	obl	_	Translit=sāhela
-2	में	_	ADP	IN	Case=Loc	1	case	_	Translit=meṁ
-3	जून	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	nmod	_	Translit=jūna
-4	से	_	ADP	IN	Case=Acc	3	case	_	Translit=se
-5	अगस्त	_	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	9	obl:tmod	_	Translit=agasta
-6	2010	_	NUM	CD	NumType=Card	5	nummod	_	Translit=2010
-7	तक	_	ADP	IN	Case=Acc	5	case	_	Translit=taka
-8	अकाल	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	obj	_	Translit=akāla
-9	पड़ा	_	VERB	VBI	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	SpaceAfter=No|Translit=paṛā
-10	।	_	PUNCT	.	_	9	punct	_	Translit=.
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 7 nmod	color:blue
+1	या	_	CCONJ	CC	_	9	cc	_	Translit=yā
+2	यह	_	PRON	PDEM	Number=Sing	9	nsubj	_	Translit=yaha
+3	महंगा	_	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	4	amod	_	Translit=mahaṁgā
+4	मानक	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	obj	_	Translit=mānaka
+5	या	_	CCONJ	CC	_	8	cc	_	Translit=yā
+6	पूर्व	_	ADJ	JJ	_	8	amod	_	Translit=pūrva
+7	भुगतान	_	NOUN	NN	Animacy=Inan|Gender=Masc|Number=Sing	8	nmod	_	Translit=bhugatāna
+8	शुल्क	_	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	4	conj	_	Translit=śulka
+9	है	_	VERB	VBI	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No|Translit=hai
+10	?	_	PUNCT	.	_	9	punct	_	Translit=?
 
 ~~~
 

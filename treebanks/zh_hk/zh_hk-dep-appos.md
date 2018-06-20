@@ -8,42 +8,27 @@ udver: '2'
 
 This relation is universal.
 
-7 nodes (0%) are attached to their parents as `appos`.
+16 nodes (0%) are attached to their parents as `appos`.
 
-7 instances of `appos` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.57142857142857.
+16 instances of `appos` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.
 
-The following 7 pairs of parts of speech are connected with `appos`: <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 14% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> (1; 14% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt> (1; 14% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-SYM.html">SYM</a></tt> (1; 14% instances), <tt><a href="zh_hk-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 14% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (1; 14% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 14% instances).
+The following 8 pairs of parts of speech are connected with `appos`: <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (4; 25% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> (3; 19% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt> (3; 19% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (2; 13% instances), <tt><a href="zh_hk-pos-NUM.html">NUM</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 6% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (1; 6% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_hk-pos-PRON.html">PRON</a></tt> (1; 6% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (1; 6% instances).
 
 
 ~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 appos	color:blue
-1	那	那	DET	_	_	2	det	_	SpaceAfter=No
-2	時候	時候	NOUN	_	_	12	obl:tmod	_	SpaceAfter=No
-3	70	70	NOUN	_	_	2	appos	_	SpaceAfter=No
-4	、	、	PUNCT	_	_	5	punct	_	SpaceAfter=No
-5	80	80	NOUN	_	_	6	goeswith	_	SpaceAfter=No
-6	年代	年代	NOUN	_	_	3	conj	_	SpaceAfter=No
-7	，	，	PUNCT	_	_	2	punct	_	SpaceAfter=No
-8	用	用	ADP	_	_	11	case	_	SpaceAfter=No
-9	五百	五百	NUM	_	_	10	nummod	_	SpaceAfter=No
-10	元	元	NOUN	_	_	11	compound	_	SpaceAfter=No
-11	鈔票	鈔票	NOUN	_	_	12	obl	_	SpaceAfter=No
-12	摺	摺	VERB	_	_	0	root	_	SpaceAfter=No
-13	成	成	VERB	_	_	12	compound:vv	_	SpaceAfter=No
-14	紙飛機	紙飛機	NOUN	_	_	12	obj	_	SpaceAfter=No
-15	飛	飛	VERB	_	_	12	conj	_	SpaceAfter=No
-16	過來	過來	VERB	_	_	15	compound:dir	_	SpaceAfter=No
-17	的	的	PART	_	_	12	discourse:sp	_	SpaceAfter=No
-18	，	，	PUNCT	_	_	21	punct	_	SpaceAfter=No
-19	很	很	ADV	_	_	20	advmod	_	SpaceAfter=No
-20	樂意	樂意	AUX	_	_	21	aux	_	SpaceAfter=No
-21	消費	消費	VERB	_	_	12	parataxis	_	SpaceAfter=No
-22	！	！	PUNCT	_	_	12	punct	_	SpaceAfter=No
+# visual-style 3 5 appos	color:blue
+1	最	_	ADV	_	_	2	advmod	_	SpaceAfter=No
+2	高	_	ADJ	_	_	3	amod	_	SpaceAfter=No
+3	頻率	_	NOUN	_	_	0	root	_	SpaceAfter=No
+4	那	_	DET	_	_	5	det	_	SpaceAfter=No
+5	組	_	NOUN	_	NounType=Clf	3	appos	_	SpaceAfter=No
+6	嗎	_	PART	_	_	3	discourse:sp	_	SpaceAfter=No
+7	？	_	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -54,39 +39,43 @@ The following 7 pairs of parts of speech are connected with `appos`: <tt><a href
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 8 appos	color:blue
-1	以前	以前	NOUN	_	_	4	obl:tmod	_	SpaceAfter=No
-2	不	不	ADV	_	_	4	advmod	_	SpaceAfter=No
-3	是	是	VERB	_	_	4	cop	_	SpaceAfter=No
-4	這樣	這樣	PRON	_	_	0	root	_	SpaceAfter=No
-5	的	的	PART	_	_	4	discourse:sp	_	SpaceAfter=No
-6	，	，	PUNCT	_	_	9	punct	_	SpaceAfter=No
-7	欄杆	欄杆	NOUN	_	_	9	obl	_	SpaceAfter=No
-8	那邊	那邊	PRON	_	_	7	appos	_	SpaceAfter=No
-9	圍	圍	VERB	_	_	4	parataxis	_	SpaceAfter=No
-10	滿	滿	ADJ	_	_	9	compound:vv	_	SpaceAfter=No
-11	人	人	NOUN	_	_	9	obj	_	SpaceAfter=No
-12	。	。	PUNCT	_	_	4	punct	_	SpaceAfter=No
+1	以前	_	NOUN	_	_	4	obl:tmod	_	SpaceAfter=No
+2	不	_	ADV	_	_	3	advmod	_	SpaceAfter=No
+3	是	_	AUX	_	_	4	cop	_	SpaceAfter=No
+4	這樣	_	PRON	_	_	0	root	_	SpaceAfter=No
+5	的	_	PART	_	_	4	discourse:sp	_	SpaceAfter=No
+6	，	_	PUNCT	_	_	9	punct	_	SpaceAfter=No
+7	欄杆	_	NOUN	_	_	9	obl	_	SpaceAfter=No
+8	那邊	_	PRON	_	_	7	appos	_	SpaceAfter=No
+9	圍	_	VERB	_	_	4	parataxis	_	SpaceAfter=No
+10	滿	_	ADJ	_	_	9	compound:vv	_	SpaceAfter=No
+11	人	_	NOUN	_	_	9	obj	_	SpaceAfter=No
+12	。	_	PUNCT	_	_	4	punct	_	SpaceAfter=No
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 6 appos	color:blue
-1	唱	唱	VERB	_	_	9	csubj	_	SpaceAfter=No
-2	那	那	DET	_	_	3	det	_	SpaceAfter=No
-3	個	個	NOUN	_	_	1	obj	_	SpaceAfter=No
-4	⋯⋯	⋯⋯	PUNCT	_	_	6	punct	_	SpaceAfter=No
-5	《	《	PUNCT	_	_	6	punct	_	SpaceAfter=No
-6	從不喜歡孤單一個	從不喜歡孤單一個	PROPN	_	_	3	appos	_	SpaceAfter=No
-7	》	》	PUNCT	_	_	6	punct	_	SpaceAfter=No
-8	都	都	ADV	_	_	9	advmod	_	SpaceAfter=No
-9	有	有	VERB	_	_	0	root	_	SpaceAfter=No
-10	呢	呢	PART	_	_	9	discourse:sp	_	SpaceAfter=No
-11	！	！	PUNCT	_	_	9	punct	_	SpaceAfter=No
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 8 appos	color:blue
+1	記	_	VERB	_	_	0	root	_	SpaceAfter=No
+2	下	_	ADV	_	_	1	advmod	_	SpaceAfter=No
+3	，	_	PUNCT	_	_	5	punct	_	SpaceAfter=No
+4	第一	_	ADJ	_	_	5	amod	_	SpaceAfter=No
+5	首	_	NOUN	_	NounType=Clf	1	conj	_	SpaceAfter=No
+6	，	_	PUNCT	_	_	8	punct	_	SpaceAfter=No
+7	《	_	PUNCT	_	_	8	punct	_	SpaceAfter=No
+8	抬起我的頭來	_	PROPN	_	_	5	appos	_	SpaceAfter=No
+9	》	_	PUNCT	_	_	8	punct	_	SpaceAfter=No
+10	，	_	PUNCT	_	_	8	punct	_	SpaceAfter=No
+11	三	_	NUM	_	_	12	nummod	_	SpaceAfter=No
+12	分	_	NOUN	_	NounType=Clf	5	conj	_	SpaceAfter=No
+13	二十一	_	NUM	_	_	14	nummod	_	SpaceAfter=No
+14	秒	_	NOUN	_	NounType=Clf	12	conj	_	SpaceAfter=No
+15	。	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 ~~~
 

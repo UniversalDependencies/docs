@@ -33,7 +33,7 @@ The 1st highest number of forms (6) was observed with the lemma “_”: <em>and
 
 ## Relations
 
-`CCONJ` nodes are attached to their parents using 4 different relations: <tt><a href="fr_pud-dep-cc.html">cc</a></tt> (536; 95% instances), <tt><a href="fr_pud-dep-discourse.html">discourse</a></tt> (24; 4% instances), <tt><a href="fr_pud-dep-conj.html">conj</a></tt> (1; 0% instances), <tt><a href="fr_pud-dep-fixed.html">fixed</a></tt> (1; 0% instances)
+`CCONJ` nodes are attached to their parents using 3 different relations: <tt><a href="fr_pud-dep-cc.html">cc</a></tt> (537; 96% instances), <tt><a href="fr_pud-dep-discourse.html">discourse</a></tt> (24; 4% instances), <tt><a href="fr_pud-dep-fixed.html">fixed</a></tt> (1; 0% instances)
 
 Parents of `CCONJ` nodes belong to 11 different parts of speech: <tt><a href="fr_pud-pos-NOUN.html">NOUN</a></tt> (223; 40% instances), <tt><a href="fr_pud-pos-VERB.html">VERB</a></tt> (217; 39% instances), <tt><a href="fr_pud-pos-PROPN.html">PROPN</a></tt> (50; 9% instances), <tt><a href="fr_pud-pos-ADJ.html">ADJ</a></tt> (47; 8% instances), <tt><a href="fr_pud-pos-NUM.html">NUM</a></tt> (10; 2% instances), <tt><a href="fr_pud-pos-AUX.html">AUX</a></tt> (5; 1% instances), <tt><a href="fr_pud-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="fr_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="fr_pud-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-SYM.html">SYM</a></tt> (1; 0% instances), <tt><a href="fr_pud-pos-X.html">X</a></tt> (1; 0% instances)
 

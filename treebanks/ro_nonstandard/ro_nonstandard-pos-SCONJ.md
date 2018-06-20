@@ -6,84 +6,97 @@ udver: '2'
 
 ## Treebank Statistics: UD_Romanian-Nonstandard: POS Tags: `SCONJ`
 
-There are 10 `SCONJ` lemmas (0%), 18 `SCONJ` types (0%) and 418 `SCONJ` tokens (2%).
-Out of 16 observed tags, the rank of `SCONJ` is: 13 in number of lemmas, 13 in number of types and 11 in number of tokens.
+There are 21 `SCONJ` lemmas (0%), 36 `SCONJ` types (0%) and 2338 `SCONJ` tokens (2%).
+Out of 16 observed tags, the rank of `SCONJ` is: 12 in number of lemmas, 12 in number of types and 12 in number of tokens.
 
-The 10 most frequent `SCONJ` lemmas: <em>că, de, dacă, să, căci, până, cu, dară, iar, sau</em>
+The 10 most frequent `SCONJ` lemmas: <em>că, de, dacă, să, căci, până, pentru, ca, și, Ccssp</em>
 
-The 10 most frequent `SCONJ` types:  <em>că, de, deaca, să, dacă, Căci, pînă, C, C-, deacă</em>
+The 10 most frequent `SCONJ` types:  <em>că, de, deaca, să, căce, c-, dacă, de-, căci, pentru</em>
 
-The 10 most frequent ambiguous lemmas: <em>că</em> (<tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 274, <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> 1), <em>de</em> (<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> 426, <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 81, <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> 1), <em>dacă</em> (<tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 43, <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> 2, <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> 1), <em>să</em> (<tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> 331, <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 6), <em>până</em> (<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> 39, <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 5, <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> 1), <em>cu</em> (<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> 170, <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 1), <em>dară</em> (<tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 1), <em>iar</em> (<tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> 167, <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> 5, <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 1), <em>sau</em> (<tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> 39, <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous lemmas: <em>că</em> (<tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 1676, <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> 2), <em>de</em> (<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> 2700, <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 303, <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> 9, <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> 2, <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> 1), <em>dacă</em> (<tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 141, <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> 2), <em>să</em> (<tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> 2003, <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 115, <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> 1), <em>căci</em> (<tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 59, <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> 1), <em>până</em> (<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> 195, <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 13, <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> 12), <em>pentru</em> (<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> 298, <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> 1), <em>ca</em> (<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> 495, <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> 97, <tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> 14, <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> 1), <em>și</em> (<tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> 6676, <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> 441, <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 3, <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> 1), <em>chiar</em> (<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> 4, <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 1)
 
-The 10 most frequent ambiguous types:  <em>că</em> (<tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 172, <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> 1), <em>de</em> (<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> 390, <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 67), <em>deaca</em> (<tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 35, <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> 1), <em>să</em> (<tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> 269, <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> 229, <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 1), <em>pînă</em> (<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> 27, <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> 1), <em>C-</em> (<tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 2, <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> 1), <em>Dară</em> (<tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> 55, <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 1), <em>au</em> (<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> 50, <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> 9, <tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt> 9, <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> 3, <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> 1, <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> 1, <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 1), <em>cu</em> (<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> 145, <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 1), <em>iară</em> (<tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> 48, <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> 2, <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 1)
+The 10 most frequent ambiguous types:  <em>că</em> (<tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 1178, <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> 1), <em>de</em> (<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> 2475, <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 243, <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> 7, <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> 2, <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> 1), <em>deaca</em> (<tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 103, <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> 2, <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> 1), <em>să</em> (<tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> 1777, <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> 1390, <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 66, <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> 1), <em>c-</em> (<tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 23, <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> 2), <em>de-</em> (<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> 64, <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 10), <em>pentru</em> (<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> 242, <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 10, <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> 1, <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> 1), <em>pînă</em> (<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> 129, <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 11, <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> 6), <em>c</em> (<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> 1, <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 1), <em>ca</em> (<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> 417, <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> 80, <tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> 12, <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 4, <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> 1)
 
 
 * <em>că</em>
-  * <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 172: <em>Și zicînd : Pocăiți- vă , <b>că</b> să apropie Împărățiia ceriurelor .</em>
-  * <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> 1: <em>La câmpul curat , La mărul rotat Drumul <b>că</b> le- au dat : Murgul pre pământ , Șoimul sus la vânt .</em>
+  * <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 1178: <em>Zisără lui : <b>că</b> nime pre noi n- au tocmit .</em>
+  * <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> 1: <em>Ce vai de voi sătuilor , <b>că</b> veți flămânzi , vai de voi carii râdeți acum , că veți suspina și veți plânge .</em>
 * <em>de</em>
-  * <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> 390: <em>Cartea <b>de</b> neamul lui Iisus Hristos , fiiul lui David , fiiul lui Avraam .</em>
-  * <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 67: <em>Că <b>de</b> veți iubi pre cei ce vă iubesc pre voi , ce plată veți avea ?</em>
+  * <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> 2475: <em>Că <b>de</b> multe ori cade în foc și <b>de</b> multe ori , în apă .</em>
+  * <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 243: <em>Iară <b>de</b> nu va asculta nece săborul , fie ție ca un păgîn și publican .</em>
+  * <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> 7: <em>Şi aceasta fu <b>de</b> trei ori , şi iarăşi să luo sus vasul , în ceriu .</em>
+  * <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> 2: <em>Zise Iisus lor : Adevăr , adevăr grăescu voao , mainte <b>de</b> ce n- au fost Avraam , Eu sânt .</em>
+  * <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Şi acum zic voao : Feriţi- vă de oamenii aceştea şi -i lăsaţi pre ei , că <b>de</b> va fi den oameni sfatul şi lucrul acesta , sparge -să -va .</em>
 * <em>deaca</em>
-  * <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 35: <em>Iara <b>deaca</b> văzură steaoa , să bucurară cu bucurie mare foarte .</em>
-  * <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Și <b>deaca</b> slobozi mulțimea , Să sui în munte , sîngur , să Să roage .</em>
+  * <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 103: <em>Iară <b>deaca</b> -i luară , răpștiră spre domnul casei .</em>
+  * <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> 2: <em>Și <b>deaca</b> slobozi mulțimea , Să sui în munte , sîngur , să Să roage .</em>
   * <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> 1: <em>Și <b>deaca</b> posti patruzeci de zile și patruzeci de nopți , apoi flămînzi .</em>
 * <em>să</em>
-  * <tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> 269: <em>Aceasta tot fu ca <b>să</b> să împle ce zice Domnul pre prorocul zicînd :</em>
-  * <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> 229: <em>Aceasta tot fu ca să <b>să</b> împle ce zice Domnul pre prorocul zicînd :</em>
-  * <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Că <b>să</b> veți erta oamenilor greșalele lor , erta -va și voao Tatăl vostru cel din ceriu .</em>
+  * <tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> 1777: <em>Și ochiul tău , <b>să</b> te va sminti , scoate -l și -l leapădă de la tine .</em>
+  * <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> 1390: <em>Și <b>să</b> întristară foarte .</em>
+  * <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 66: <em>Atunci mearseră fariseii făcînd sfat ca <b>să</b> prinză pre El în cuvînt .</em>
+  * <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> 1: <em>Că aşa ne- au poruncit noao Domnul : Puş pre tine lumînare păgînilor , ca <b>să</b> le fii tu spăseniie , pînă la marginea pămîntului .</em>
+* <em>c-</em>
+  * <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 23: <em>Şi batgiocuriia pre El , știind <b>c-</b> au murit .</em>
+  * <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> 2: <em>Tu <b>c-</b> un țăran nu te pune , Că țăranul ți -i dușman , Că țăranul când te- a bate , Zaci un an și jumătate .</em>
+* <em>de-</em>
+  * <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> 64: <em>Și va pune oile <b>de-</b> a dereapta lui , iară caprele de -a stînga .</em>
+  * <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 10: <em>Şerpi vor lua , și <b>de-</b> are și bea ceva de moarte , nu va strica lor .</em>
+* <em>pentru</em>
+  * <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> 242: <em>Iară Iisus zise lui : Soațe , <b>pentru</b> ce ai venit ?</em>
+  * <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 10: <em>De păcat , <b>pentru</b> că nu cred întru Mine .</em>
+  * <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Îi zicea Dealul Galben <b>pentru</b> că pe vremea turcilor , când au fost turcii în Moldova , apoi au îngropat bani acolo , galbeni .</em>
+  * <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> 1: <em>Iară alta căzu pre pietriș , unde nu avea pămînt mult : și numaidecât răsări și <b>pentru</b> ce nu avea pământ într- adîncu .</em>
 * <em>pînă</em>
-  * <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> 27: <em>Veți fi urîți , răbdarea <b>pînă</b> la svîrșit .</em>
-  * <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 4: <em>Și să mînie domnul lui și -l deade pre el muncitorilor , <b>pînă</b> nu va plăti toată deatoriia .</em>
-  * <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> 1: <em>Adevăr grăesc ție , nu vei eși de acolo pînă nu vei da <b>pînă</b> întru filearul cel de apoi .</em>
-* <em>C-</em>
-  * <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 2: <em>Ce- am iubit nu se mai vede , <b>C-</b> a pus fața la pământ La biserică -n mormânt .</em>
-  * <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> 1: <em>Nu ți -am făcut ca să mori , Ți -am făcut ca să te ’nsori ; Nu ți -am făcut să -ți desfac , Ți -am făcut că mi -ai fost drag , Și -am gând ca să mai fac <b>C-</b> o pană de liliac , Să umbli din sat în sat Pân- ce vei da peste leac .</em>
-* <em>Dară</em>
-  * <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> 55: <em><b>Dară</b> ei numaidecît lăsară mrejile și mearsără după El .</em>
-  * <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 1: <em><b>Dară</b> grecul , al dracului „ Hoțomane ! “ îl făcea , Și peste fălci îl izbea .</em>
-* <em>au</em>
-  * <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> 50: <em>Zicînd : Unde iaste cel craiu jidovesc carele <b>au</b> născut ?</em>
-  * <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> 9: <em>Zise lui : Tu ești Cela ce va să vie , <b>au</b> pre altul vom aștepta ?</em>
-  * <tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt> 9: <em>Și de are ceare peaște , <b>au</b> șearpe -i va da lui ?</em>
-  * <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> 3: <em>Iară deaca văzu năroadele , I să feace milă de iale , că era răsfirați și rătăciți ca nește oi ce n- <b>au</b> păstoriu .</em>
-  * <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> 1: <em>Și <b>au</b> cine ară priimi pre un poroboc ca acesta , în numele Mieu , pre Mine mă priimeaște .</em>
-  * <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> 1: <em>Iară zic voao , că <b>au</b> cine -și va lăsa muiarea lui , fără de vină dе curvie și va luа alta , curveaște .</em>
-  * <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Iară voi ziceți : Cela ce ară zice tătîni -său sau mîni -sa daru -i , <b>au</b> cu ce te agiutorești dela mine , și nevinovat va fi , și nececum nu cinstescu pre tată -său sau pre mumă -sa .</em>
-* <em>cu</em>
-  * <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> 145: <em>Iară auzind aceasta Irod craiu să turbură și tot Erosalimul <b>cu</b> el .</em>
-  * <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Că <b>cu</b> ce giudecată veți giudeca , giudeca -te va ; și cu ce măsură veți măsura , să va măsura voao .</em>
-* <em>iară</em>
-  * <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> 48: <em>Ezechiia născu pre Manasia , <b>iară</b> Manasiia născu pre Amon .</em>
-  * <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> 2: <em>Dar câte mă iubesc <b>iară</b> , Să le strângi , ai face -o țară !</em>
-  * <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Dacă iarba cîmpului carea iaste astăzi , <b>iară</b> mîine să în coptoriu aruncă , Dumnedzău așia o îmbracă : au nu cu mai mult pre voi , o puțin credincioși !</em>
+  * <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> 129: <em>Așijderea și al doile și al treile , <b>pînă</b> al șaptele .</em>
+  * <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 11: <em>Și venind den tîrg , <b>pînă</b> nu să spăla , nu mînca .</em>
+  * <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> 6: <em>Și zicea lor : Vareunde veți întra în casă , acolea rămîneți <b>pînă</b> veți eși de acolo .</em>
+* <em>c</em>
+  * <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> 1: <em>De multe ori așa -mi vine Să dau <b>c</b> -un cuțit în mine !</em>
+  * <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 1: <em>Șarpele <b>c</b> -așa îmi zice : Voi , drumeți , drumul țineți , Pe- aici nu vă apropieți , Că eu pe dânsu l -oi lăsa Și pe voi voi apuca .</em>
+* <em>ca</em>
+  * <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> 417: <em>Ia -ți al tău și pasă , că voiu să dau cestui de apoi <b>ca</b> și ție .</em>
+  * <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> 80: <em>Să fie ție <b>ca</b> un păgîn .</em>
+  * <tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> 12: <em>Iară ochii lor să ținea <b>ca</b> să nu -L cunoască pre El .</em>
+  * <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> 4: <em>Meargeți , iată Eu trimeț pre voi <b>ca</b> mieii în mijlocul lupilor .</em>
+  * <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> 1: <em>Nece gîndiți că mai bine iaste <b>ca</b> să moară un om pentru oameni și să nu piiară toată ruda .</em>
 
 ## Morphology
 
-The form / lemma ratio of `SCONJ` is 1.800000 (the average of all parts of speech is 1.961348).
+The form / lemma ratio of `SCONJ` is 1.714286 (the average of all parts of speech is 2.317451).
 
-The 1st highest number of forms (4) was observed with the lemma “dacă”: <em>dacî, dacă, deaca, deacă</em>.
+The 1st highest number of forms (6) was observed with the lemma “dacă”: <em>daca, dacî, dacă, deaca, deacă, deca</em>.
 
-The 2nd highest number of forms (3) was observed with the lemma “că”: <em>C, C-, că</em>.
+The 2nd highest number of forms (4) was observed with the lemma “că”: <em>Că-, c, c-, că</em>.
 
-The 3rd highest number of forms (2) was observed with the lemma “căci”: <em>Căci, căce</em>.
+The 3rd highest number of forms (4) was observed with the lemma “de”: <em>de, de-, dă, dе</em>.
 
-`SCONJ` occurs with 2 features: <tt><a href="ro_nonstandard-feat-Polarity.html">Polarity</a></tt> (418; 100% instances), <tt><a href="ro_nonstandard-feat-Compound.html">Compound</a></tt> (48; 11% instances)
+`SCONJ` occurs with 2 features: <tt><a href="ro_nonstandard-feat-Polarity.html">Polarity</a></tt> (2338; 100% instances), <tt><a href="ro_nonstandard-feat-Compound.html">Compound</a></tt> (222; 9% instances)
 
 `SCONJ` occurs with 2 feature-value pairs: `Compound=Yes`, `Polarity=Pos`
 
 `SCONJ` occurs with 2 feature combinations.
-The most frequent feature combination is `Polarity=Pos` (370 tokens).
-Examples: <em>că, de, deaca, să, pînă, C, dacă, C-, Căci, De-</em>
+The most frequent feature combination is `Polarity=Pos` (2116 tokens).
+Examples: <em>că, de, să, deaca, c-, căce, de-, dacă, pînă, căci</em>
 
 
 ## Relations
 
-`SCONJ` nodes are attached to their parents using 6 different relations: <tt><a href="ro_nonstandard-dep-mark.html">mark</a></tt> (408; 98% instances), <tt><a href="ro_nonstandard-dep-case.html">case</a></tt> (5; 1% instances), <tt><a href="ro_nonstandard-dep-cc.html">cc</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-dep-advmod.html">advmod</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-dep-fixed.html">fixed</a></tt> (1; 0% instances)
+`SCONJ` nodes are attached to their parents using 13 different relations: <tt><a href="ro_nonstandard-dep-mark.html">mark</a></tt> (2271; 97% instances), <tt><a href="ro_nonstandard-dep-fixed.html">fixed</a></tt> (37; 2% instances), <tt><a href="ro_nonstandard-dep-case.html">case</a></tt> (11; 0% instances), <tt><a href="ro_nonstandard-dep-cc.html">cc</a></tt> (9; 0% instances), <tt><a href="ro_nonstandard-dep-advmod.html">advmod</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-dep-acl.html">acl</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-dep-advcl.html">advcl</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-dep-ccomp.html">ccomp</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-dep-compound.html">compound</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-dep-obj.html">obj</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-dep-obl.html">obl</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-dep-parataxis.html">parataxis</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-dep-xcomp.html">xcomp</a></tt> (1; 0% instances)
 
-Parents of `SCONJ` nodes belong to 10 different parts of speech: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (356; 85% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (21; 5% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (19; 5% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (10; 2% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (6; 1% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
+Parents of `SCONJ` nodes belong to 13 different parts of speech: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (1917; 82% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (160; 7% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (98; 4% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (39; 2% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (38; 2% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (29; 1% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (23; 1% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (12; 1% instances), <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> (12; 1% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (5; 0% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt> (1; 0% instances)
 
-418 (100%) `SCONJ` nodes are leaves.
+2307 (99%) `SCONJ` nodes are leaves.
 
-The highest child degree of a `SCONJ` node is 0.
+26 (1%) `SCONJ` nodes have one child.
+
+3 (0%) `SCONJ` nodes have two children.
+
+2 (0%) `SCONJ` nodes have three or more children.
+
+The highest child degree of a `SCONJ` node is 6.
+
+Children of `SCONJ` nodes are attached using 8 different relations: <tt><a href="ro_nonstandard-dep-fixed.html">fixed</a></tt> (23; 56% instances), <tt><a href="ro_nonstandard-dep-punct.html">punct</a></tt> (12; 29% instances), <tt><a href="ro_nonstandard-dep-conj.html">conj</a></tt> (1; 2% instances), <tt><a href="ro_nonstandard-dep-iobj.html">iobj</a></tt> (1; 2% instances), <tt><a href="ro_nonstandard-dep-mark.html">mark</a></tt> (1; 2% instances), <tt><a href="ro_nonstandard-dep-nmod-pmod.html">nmod:pmod</a></tt> (1; 2% instances), <tt><a href="ro_nonstandard-dep-nsubj.html">nsubj</a></tt> (1; 2% instances), <tt><a href="ro_nonstandard-dep-vocative.html">vocative</a></tt> (1; 2% instances)
+
+Children of `SCONJ` nodes belong to 8 different parts of speech: <tt><a href="ro_nonstandard-pos-PUNCT.html">PUNCT</a></tt> (12; 29% instances), <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> (12; 29% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (10; 24% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (2; 5% instances), <tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> (2; 5% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (1; 2% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (1; 2% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (1; 2% instances)
 

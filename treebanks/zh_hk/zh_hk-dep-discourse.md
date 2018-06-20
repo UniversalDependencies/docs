@@ -9,12 +9,29 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `discourse`: <tt><a href="zh_hk-dep-discourse-sp.html">discourse:sp</a></tt>.
 
-7 nodes (0%) are attached to their parents as `discourse`.
+27 nodes (0%) are attached to their parents as `discourse`.
 
-6 instances of `discourse` (86%) are right-to-left (child precedes parent).
-Average distance between parent and child is 3.71428571428571.
+22 instances of `discourse` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 3.59259259259259.
 
-The following 4 pairs of parts of speech are connected with `discourse`: <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> (3; 43% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-INTJ.html">INTJ</a></tt> (2; 29% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_hk-pos-INTJ.html">INTJ</a></tt> (1; 14% instances), <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_hk-pos-PART.html">PART</a></tt> (1; 14% instances).
+The following 10 pairs of parts of speech are connected with `discourse`: <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-INTJ.html">INTJ</a></tt> (10; 37% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> (7; 26% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_hk-pos-INTJ.html">INTJ</a></tt> (2; 7% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-INTJ.html">INTJ</a></tt> (2; 7% instances), <tt><a href="zh_hk-pos-ADV.html">ADV</a></tt>-<tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> (1; 4% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_hk-pos-INTJ.html">INTJ</a></tt> (1; 4% instances), <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_hk-pos-INTJ.html">INTJ</a></tt> (1; 4% instances), <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_hk-pos-PART.html">PART</a></tt> (1; 4% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-DET.html">DET</a></tt> (1; 4% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-SCONJ.html">SCONJ</a></tt> (1; 4% instances).
+
+
+~~~ conllu
+# visual-style 1	bgColor:blue
+# visual-style 1	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 1 discourse	color:blue
+1	唉	_	INTJ	_	_	6	discourse	_	SpaceAfter=No
+2	！	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	跟	_	ADP	_	_	4	case	_	SpaceAfter=No
+4	做	_	VERB	_	_	6	obl	_	SpaceAfter=No
+5	賊	_	NOUN	_	_	4	obj	_	SpaceAfter=No
+6	差不多	_	VERB	_	_	0	root	_	SpaceAfter=No
+7	。	_	PUNCT	_	_	6	punct	_	SpaceAfter=No
+
+~~~
 
 
 ~~~ conllu
@@ -35,48 +52,16 @@ The following 4 pairs of parts of speech are connected with `discourse`: <tt><a 
 
 
 ~~~ conllu
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
 # visual-style 1	bgColor:blue
 # visual-style 1	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 1 discourse	color:blue
-1	唉呀	唉呀	INTJ	_	_	5	discourse	_	SpaceAfter=No
-2	！	！	PUNCT	_	_	1	punct	_	SpaceAfter=No
-3	這	這	DET	_	_	4	det	_	SpaceAfter=No
-4	個	個	NOUN	_	_	5	dislocated	_	SpaceAfter=No
-5	沒有	沒有	VERB	_	_	0	root	_	SpaceAfter=No
-6	人	人	NOUN	_	_	5	obj	_	SpaceAfter=No
-7	贊成	贊成	VERB	_	_	6	acl	_	SpaceAfter=No
-8	的	的	PART	_	_	5	discourse:sp	_	SpaceAfter=No
-9	！	！	PUNCT	_	_	5	punct	_	SpaceAfter=No
-
-~~~
-
-
-~~~ conllu
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 5 discourse	color:blue
-1	突然	突然	ADV	_	_	2	advmod	_	SpaceAfter=No
-2	覺得	覺得	VERB	_	_	0	root	_	SpaceAfter=No
-3	香港	香港	PROPN	_	_	9	dislocated	_	SpaceAfter=No
-4	⋯⋯	⋯⋯	PUNCT	_	_	3	punct	_	SpaceAfter=No
-5	哇	哇	INTJ	_	_	9	discourse	_	SpaceAfter=No
-6	！	！	PUNCT	_	_	5	punct	_	SpaceAfter=No
-7	租	租	NOUN	_	_	9	nsubj	_	SpaceAfter=No
-8	又	又	ADV	_	_	9	advmod	_	SpaceAfter=No
-9	貴	貴	ADJ	_	_	2	ccomp	_	SpaceAfter=No
-10	，	，	PUNCT	_	_	13	punct	_	SpaceAfter=No
-11	這	這	PRON	_	_	13	nsubj	_	SpaceAfter=No
-12	又	又	ADV	_	_	13	advmod	_	SpaceAfter=No
-13	貴	貴	ADJ	_	_	9	conj	_	SpaceAfter=No
-14	，	，	PUNCT	_	_	17	punct	_	SpaceAfter=No
-15	那	那	PRON	_	_	17	nsubj	_	SpaceAfter=No
-16	又	又	ADV	_	_	17	advmod	_	SpaceAfter=No
-17	貴	貴	ADJ	_	_	9	conj	_	SpaceAfter=No
-18	。	。	PUNCT	_	_	2	punct	_	SpaceAfter=No
+# visual-style 1 4 discourse	color:blue
+1	好	_	ADJ	_	_	0	root	_	SpaceAfter=No
+2	的	_	PART	_	_	1	mark:rel	_	SpaceAfter=No
+3	，	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	再見	_	INTJ	_	_	1	discourse	_	SpaceAfter=No
+5	！	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
 
 ~~~
 

@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ro_nonstandard-dep-nmod.html">nmod</a></tt>.
 There are also 2 other language-specific subtypes of `nmod`: <tt><a href="ro_nonstandard-dep-nmod-pmod.html">nmod:pmod</a></tt>, <tt><a href="ro_nonstandard-dep-nmod-tmod.html">nmod:tmod</a></tt>.
 
-16 nodes (0%) are attached to their parents as `nmod:agent`.
+128 nodes (0%) are attached to their parents as `nmod:agent`.
 
-13 instances of `nmod:agent` (81%) are left-to-right (parent precedes child).
-Average distance between parent and child is 2.125.
+105 instances of `nmod:agent` (82%) are left-to-right (parent precedes child).
+Average distance between parent and child is 2.53125.
 
-The following 3 pairs of parts of speech are connected with `nmod:agent`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (12; 75% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (2; 13% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (2; 13% instances).
+The following 7 pairs of parts of speech are connected with `nmod:agent`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (80; 63% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (27; 21% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (16; 13% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (2; 2% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt> (1; 1% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -23,32 +23,11 @@ The following 3 pairs of parts of speech are connected with `nmod:agent`: <tt><a
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
 # visual-style 2 4 nmod:agent	color:blue
-1	Apostolii	apostol	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	2	nsubj:pass	_	ref=MATT14.24.content
-2	învăluiți	învălui	VERB	Vmp--pm-p	Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part	0	root	_	ref=MATT14.24.content
-3	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=MATT14.24.content
-4	unde	undă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	2	nmod:agent	_	ref=MATT14.24.content|SpaceAfter=No
-5	.	.	PUNCT	PERIOD	_	2	punct	_	ref=MATT14.24.content
-
-~~~
-
-
-~~~ conllu
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 7 nmod:agent	color:blue
-1	Și	și	CCONJ	Ccssp	Polarity=Pos	10	cc	_	ref=MATT19.9
-2	cine	cine	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	nsubj	_	ref=MATT19.9
-3	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	ref=MATT19.9
-4	lua	lua	VERB	Vmn	VerbForm=Inf	10	csubj	_	ref=MATT19.9
-5	lăsată	lăsa	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	4	xcomp	_	ref=MATT19.9
-6	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	ref=MATT19.9
-7	altul	altul	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	nmod:agent	_	ref=MATT19.9|SpaceAfter=No
-8	,	,	PUNCT	COMMA	_	4	punct	_	ref=MATT19.9
-9	curvie	curvie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	10	obj	_	ref=MATT19.9
-10	face	face	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT19.9|SpaceAfter=No
-11	.	.	PUNCT	PERIOD	_	10	punct	_	ref=MATT19.9
+1	Să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	2	expl:pass	_	ref=MARC1.12.content
+2	ispiteaște	ispiti	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MARC1.12.content
+3	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=MARC1.12.content
+4	diiavolul	diavol	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	2	nmod:agent	_	ref=MARC1.12.content|SpaceAfter=No
+5	.	.	PUNCT	PERIOD	_	2	punct	_	ref=MARC1.12.content
 
 ~~~
 
@@ -71,6 +50,27 @@ The following 3 pairs of parts of speech are connected with `nmod:agent`: <tt><a
 10	prorocul	proroc	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	9	appos	_	ref=MATT4.14
 11	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	advcl	_	ref=MATT4.14|SpaceAfter=No
 12	:	:	PUNCT	COLON	_	11	punct	_	ref=MATT4.14
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 nmod:agent	color:blue
+1	Și	și	CCONJ	Ccssp	Polarity=Pos	10	cc	_	ref=MATT19.9
+2	cine	cine	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	nsubj	_	ref=MATT19.9
+3	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	4	aux	_	ref=MATT19.9
+4	lua	lua	VERB	Vmn	VerbForm=Inf	10	csubj	_	ref=MATT19.9
+5	lăsată	lăsa	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	4	xcomp	_	ref=MATT19.9
+6	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	ref=MATT19.9
+7	altul	altul	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	nmod:agent	_	ref=MATT19.9|SpaceAfter=No
+8	,	,	PUNCT	COMMA	_	4	punct	_	ref=MATT19.9
+9	curvie	curvie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	10	obj	_	ref=MATT19.9
+10	face	face	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT19.9|SpaceAfter=No
+11	.	.	PUNCT	PERIOD	_	10	punct	_	ref=MATT19.9
 
 ~~~
 

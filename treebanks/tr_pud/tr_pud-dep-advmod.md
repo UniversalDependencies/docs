@@ -23,14 +23,14 @@ The following 33 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
 # visual-style 7 6 advmod	color:blue
-1	Yeni	_	ADJ	JJ	Number=Sing	2	amod	_	_
-2	bütçe	_	NOUN	NN	Case=Nom|Number=Sing	7	nsubj	_	_
-3	Clinton'un	_	PROPN	PROPN	Case=Gen|Number=Sing	6	nmod:poss	_	Proper=True
-4	kabarık	_	ADJ	JJ	Number=Sing	6	amod	_	_
-5	banka	_	NOUN	NN	Number=Sing	6	compound	_	_
-6	hesabından	_	NOUN	NN	Case=Abl|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	advmod	_	_
-7	sağlanıyor	_	VERB	VB	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	SpaceAfter=No
-8	.	_	PUNCT	.	_	7	punct	_	_
+1	Yeni	yeni	ADJ	JJ	Number=Sing	2	amod	_	_
+2	bütçe	bütçe	NOUN	NN	Case=Nom|Number=Sing	7	nsubj	_	_
+3	Clinton'un	Clinton	PROPN	PROPN	Case=Gen|Number=Sing	6	nmod:poss	_	Proper=True
+4	kabarık	kabarık	ADJ	JJ	Number=Sing	6	amod	_	_
+5	banka	banka	NOUN	NN	Number=Sing	6	compound	_	_
+6	hesabından	hesab	NOUN	NN	Case=Abl|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	advmod	_	_
+7	sağlanıyor	sağla	VERB	VB	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	.	_	7	punct	_	_
 
 ~~~
 
@@ -41,17 +41,17 @@ The following 33 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
 # visual-style 10 1 advmod	color:blue
-1	Sonuçta	_	NOUN	NN	Case=Loc|Number=Sing	10	advmod	_	SpaceAfter=No
-2	,	_	PUNCT	,	_	1	punct	_	_
-3	internet	_	NOUN	NN	Case=Nom|Number=Sing	10	nsubj	_	_
-4	bir	_	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	5	det	_	_
-5	lüks	_	NOUN	NN	Number=Sing	0	root	_	_
-6	değil	_	AUX	NOMP	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	5	cop	_	SpaceAfter=No
-7	;	_	PUNCT	,	_	10	punct	_	_
-8	hayati	_	ADJ	JJ	Number=Sing	10	amod	_	_
-9	bir	_	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	10	det	_	_
-10	araç	_	NOUN	NN	Number=Sing	5	conj	_	SpaceAfter=No
-11	.	_	PUNCT	.	_	10	punct	_	_
+1	Sonuçta	Sonuçta	NOUN	NN	Case=Loc|Number=Sing	10	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	,	_	1	punct	_	_
+3	internet	internet	NOUN	NN	Case=Nom|Number=Sing	10	nsubj	_	_
+4	bir	bir	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	5	det	_	_
+5	lüks	lüks	NOUN	NN	Number=Sing	0	root	_	_
+6	değil	değil	AUX	NOMP	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres	5	cop	_	SpaceAfter=No
+7	;	;	PUNCT	,	_	10	punct	_	_
+8	hayati	hayati	ADJ	JJ	Number=Sing	10	amod	_	_
+9	bir	bir	DET	DT	Definite=Ind|Number=Sing|Polarity=Pos	10	det	_	_
+10	araç	araç	NOUN	NN	Number=Sing	5	conj	_	SpaceAfter=No
+11	.	.	PUNCT	.	_	10	punct	_	_
 
 ~~~
 
@@ -62,12 +62,12 @@ The following 33 pairs of parts of speech are connected with `advmod`: <tt><a hr
 # visual-style 5	bgColor:blue
 # visual-style 5	fgColor:white
 # visual-style 5 1 advmod	color:blue
-1	Gemide	_	NOUN	NN	Case=Loc|Number=Sing	5	advmod	_	_
-2	330'dan	_	NOUN	NN	Case=Abl|Number=Sing	3	advmod	_	_
-3	fazla	_	ADJ	JJ	Number=Sing	4	amod	_	_
-4	mürettebat	_	NOUN	NN	Case=Nom|Number=Sing	5	nsubj	_	_
-5	var	_	ADJ	JJ	Polarity=Pos	0	root	_	SpaceAfter=No
-6	.	_	PUNCT	.	_	5	punct	_	_
+1	Gemide	Gemide	NOUN	NN	Case=Loc|Number=Sing	5	advmod	_	_
+2	330'dan	330	NOUN	NN	Case=Abl|Number=Sing	3	advmod	_	_
+3	fazla	fazla	ADJ	JJ	Number=Sing	4	amod	_	_
+4	mürettebat	mürettebat	NOUN	NN	Case=Nom|Number=Sing	5	nsubj	_	_
+5	var	var	ADJ	JJ	Polarity=Pos	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	.	_	5	punct	_	_
 
 ~~~
 

@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_Hindi-PUD: Features: `PronType`
 
 This feature is universal.
-It occurs with 1 different values: `Prs`.
+It occurs with 2 different values: `Prs`, `Rel`.
 
 293 tokens (1%) have a non-empty value of `PronType`.
 36 types (1%) occur at least once with a non-empty value of `PronType`.
@@ -22,6 +22,7 @@ The most frequent other feature values with which `PRON` and `PronType` co-occur
 
 `PRON` tokens may have the following values of `PronType`:
 
-* `Prs` (293; 100% of non-empty `PronType`): जो, उसके, जिसमें, उसकी, उनकी, उसका, जिसे, जिसका, जिनमें, जहां
+* `Prs` (292; 100% of non-empty `PronType`): जो, उसके, जिसमें, उसकी, उनकी, उसका, जिसे, जिसका, जिनमें, जहां
+* `Rel` (1; 0% of non-empty `PronType`): जो
 * `EMPTY` (834): यह, अपने, वह, उसने, उसे, अपनी, इसके, उसके, वे, उन्हें
 

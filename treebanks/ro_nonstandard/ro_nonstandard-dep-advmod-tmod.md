@@ -8,31 +8,27 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ro_nonstandard-dep-advmod.html">advmod</a></tt>.
 
-167 nodes (1%) are attached to their parents as `advmod:tmod`.
+1140 nodes (1%) are attached to their parents as `advmod:tmod`.
 
-129 instances of `advmod:tmod` (77%) are right-to-left (child precedes parent).
-Average distance between parent and child is 2.25149700598802.
+922 instances of `advmod:tmod` (81%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.46666666666667.
 
-The following 9 pairs of parts of speech are connected with `advmod:tmod`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (150; 90% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (7; 4% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (2; 1% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (1; 1% instances).
+The following 12 pairs of parts of speech are connected with `advmod:tmod`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (1068; 94% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (16; 1% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (15; 1% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (14; 1% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (10; 1% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="ro_nonstandard-pos-INTJ.html">INTJ</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (4; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (3; 0% instances), <tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 1 advmod:tmod	color:blue
-1	Atuncea	atunci	ADV	Rg	_	3	advmod:tmod	_	ref=MATT2.17
-2	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	3	expl:pv	_	ref=MATT2.17
-3	împlu	umple	VERB	Vmsp1s	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT2.17
-4	carea	care	PRON	Pw3fsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing|Person=3|PronType=Int,Rel	6	nsubj:pass	_	ref=MATT2.17
-5	e	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	ref=MATT2.17
-6	zisă	zice	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	3	nsubj	_	ref=MATT2.17
-7	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	ref=MATT2.17
-8	Eremia	Ieremia	PROPN	Npmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	6	obl	_	ref=MATT2.17
-9	prorocul	proroc	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	8	appos	_	ref=MATT2.17
-10	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	6	advcl	_	ref=MATT2.17|SpaceAfter=No
-11	:	:	PUNCT	COLON	_	10	punct	_	ref=MATT2.17
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 4 2 advmod:tmod	color:blue
+1	Pînă	până	ADP	Spsa	AdpType=Prep|Case=Acc	2	mark	_	ref=MATT17.17
+2	când	când	ADV	Rw	PronType=Int,Rel	4	advmod:tmod	_	ref=MATT17.17
+3	voiu	vrea	AUX	Vaip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres	4	aux	_	ref=MATT17.17
+4	răbda	răbda	VERB	Vmn	VerbForm=Inf	0	root	_	ref=MATT17.17
+5	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	6	case	_	ref=MATT17.17
+6	voi	tu	PRON	Pp2-pa--------s	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Strong	4	nmod:pmod	_	ref=MATT17.17|SpaceAfter=No
+7	?	?	PUNCT	QUEST	_	4	punct	_	ref=MATT17.17
 
 ~~~
 
@@ -40,23 +36,15 @@ The following 9 pairs of parts of speech are connected with `advmod:tmod`: <tt><
 ~~~ conllu
 # visual-style 2	bgColor:blue
 # visual-style 2	fgColor:white
-# visual-style 5	bgColor:blue
-# visual-style 5	fgColor:white
-# visual-style 5 2 advmod:tmod	color:blue
-1	Că	că	SCONJ	Csssp	Polarity=Pos	12	mark	_	_
-2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	5	advmod:tmod	_	_
-3	când	când	ADV	Rw	PronType=Int,Rel	2	fixed	_	_
-4	te	tu	PRON	Pp2-sa--------w	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	5	obj	_	_
-5	știu	ști	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	advcl:tcl	_	_
-6	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
-7	tine	tu	PRON	Pp2-sa--------s	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Strong	5	obj	_	Rhyme=ID13|SpaceAfter=No|Type=Paired
-8	,	,	PUNCT	COMMA	_	5	punct	_	_
-9	Nu	nu	ADV	Qz	Polarity=Neg	12	advmod	_	SpaceAfter=No
-10	-mi	eu	PRON	Pp1-sd--------w	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak	12	iobj	_	_
-11	mai	mai	ADV	Rg	_	12	advmod	_	_
-12	trebuiește	trebui	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-13	nime	nimeni	PRON	Pz3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Neg	12	nsubj	_	Rhyme=ID7|SpaceAfter=No|Type=Imperf
-14	.	.	PUNCT	PERIOD	_	12	punct	_	_
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 advmod:tmod	color:blue
+1	Şi	și	CCONJ	Ccssp	Polarity=Pos	3	cc	_	ref=ACTS_10.33
+2	numaidecît	numaidecât	ADV	Rg	_	3	advmod:tmod	_	ref=ACTS_10.33
+3	trimeş	trimeş	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	ref=ACTS_10.33
+4	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	ref=ACTS_10.33
+5	tine	tu	PRON	Pp2-sa--------s	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Strong	3	obl	_	ref=ACTS_10.33|SpaceAfter=No
+6	.	.	PUNCT	PERIOD	_	3	punct	_	ref=ACTS_10.33
 
 ~~~
 
@@ -64,28 +52,22 @@ The following 9 pairs of parts of speech are connected with `advmod:tmod`: <tt><
 ~~~ conllu
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 8 advmod:tmod	color:blue
-1	Nu	nu	ADV	Qz	Polarity=Neg	3	advmod	_	ref=MATT5.13|SpaceAfter=No
-2	-i	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	ref=MATT5.13
-3	bună	bun	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	ref=MATT5.13
-4	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	ref=MATT5.13
-5	nemică	nimic	PRON	Pz3-sr	Case=Acc,Nom|Number=Sing|Person=3|PronType=Neg	3	nmod:pmod	_	ref=MATT5.13
-6	de-	de	ADP	Spsa	AdpType=Prep|Case=Acc	7	mark	_	ref=MATT5.13|SpaceAfter=No
-7	aciia	aici	ADV	Rg	_	3	advmod:tmod	_	ref=MATT5.13
-8	înainte	înainte	ADV	Rg	_	3	advmod:tmod	_	ref=MATT5.13|SpaceAfter=No
-9	,	,	PUNCT	COMMA	_	13	punct	_	ref=MATT5.13
-10	numai	numai	ADV	Rg	_	13	advmod	_	ref=MATT5.13
-11	să	să	PART	Qs	PartType=Sub	13	mark	_	ref=MATT5.13
-12	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres	13	aux:pass	_	ref=MATT5.13
-13	lepădată	lepăda	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	3	advcl	_	ref=MATT5.13
-14	afară	afară	ADV	Rg	_	13	advmod	_	ref=MATT5.13
-15	și	și	CCONJ	Ccssp	Polarity=Pos	16	cc	_	ref=MATT5.13
-16	călcată	călca	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	13	conj	_	ref=MATT5.13
-17	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	ref=MATT5.13
-18	oameni	om	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	16	nmod:agent	_	ref=MATT5.13|SpaceAfter=No
-19	.	.	PUNCT	PERIOD	_	3	punct	_	ref=MATT5.13
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 advmod:tmod	color:blue
+1	Au	au	INTJ	I	_	11	discourse	_	ref=MATT5.46
+2	nu	nu	ADV	Qz	Polarity=Neg	11	advmod	_	ref=MATT5.46
+3	și	și	ADV	Rg	_	4	advmod	_	ref=MATT5.46
+4	publicanii	publican	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	11	nsubj	_	ref=MATT5.46
+5	(	(	PUNCT	LPAR	_	9	punct	_	ref=MATT5.46|SpaceAfter=No
+6	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	9	nsubj	_	ref=MATT5.46
+7	era	fi	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	ref=MATT5.46
+8	atuncii	atunci	ADV	Rg	_	9	advmod:tmod	_	ref=MATT5.46
+9	vameși	vameș	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	4	acl	_	ref=MATT5.46|SpaceAfter=No
+10	)	)	PUNCT	RPAR	_	9	punct	_	ref=MATT5.46
+11	fac	face	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT5.46
+12	aceaia	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	11	obj	_	ref=MATT5.46|SpaceAfter=No
+13	?	?	PUNCT	QUEST	_	11	punct	_	ref=MATT5.46
 
 ~~~
 

@@ -9,63 +9,72 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="ro_nonstandard-dep-expl.html">expl</a></tt>.
 There are also 3 other language-specific subtypes of `expl`: <tt><a href="ro_nonstandard-dep-expl-impers.html">expl:impers</a></tt>, <tt><a href="ro_nonstandard-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="ro_nonstandard-dep-expl-poss.html">expl:poss</a></tt>.
 
-395 nodes (2%) are attached to their parents as `expl:pv`.
+2491 nodes (2%) are attached to their parents as `expl:pv`.
 
-347 instances of `expl:pv` (88%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.19240506329114.
+2038 instances of `expl:pv` (82%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.20634283420313.
 
-The following 2 pairs of parts of speech are connected with `expl:pv`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (394; 100% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> (1; 0% instances).
+The following 8 pairs of parts of speech are connected with `expl:pv`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (2427; 97% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> (50; 2% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (6; 0% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 expl:pv	color:blue
-1	Iara	iar	CCONJ	Ccssp	Polarity=Pos	7	cc	_	ref=MATT2.10
-2	deaca	dacă	SCONJ	Cscsp	Compound=Yes|Polarity=Pos	3	mark	_	ref=MATT2.10
-3	văzură	vedea	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	advcl	_	ref=MATT2.10
-4	steaoa	stea	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	3	obj	_	ref=MATT2.10|SpaceAfter=No
-5	,	,	PUNCT	COMMA	_	3	punct	_	ref=MATT2.10
-6	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	7	expl:pv	_	ref=MATT2.10
-7	bucurară	bucura	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT2.10
-8	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	9	case	_	ref=MATT2.10
-9	bucurie	bucurie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	7	obl	_	ref=MATT2.10
-10	mare	mare	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	ref=MATT2.10
-11	foarte	foarte	ADV	Rg	_	10	advmod	_	ref=MATT2.10|SpaceAfter=No
-12	.	.	PUNCT	PERIOD	_	7	punct	_	ref=MATT2.10
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 3	bgColor:blue
+# visual-style 3	fgColor:white
+# visual-style 3 2 expl:pv	color:blue
+1	Și	și	CCONJ	Ccssp	Polarity=Pos	3	cc	_	ref=MATT17.23
+2	să	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Reflex=Yes|Strength=Weak	3	expl:pv	_	ref=MATT17.23
+3	întristară	întrista	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT17.23
+4	foarte	foarte	ADV	Rg	_	3	advmod	_	ref=MATT17.23|SpaceAfter=No
+5	.	.	PUNCT	PERIOD	_	3	punct	_	ref=MATT17.23
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 7	bgColor:blue
-# visual-style 7	fgColor:white
-# visual-style 7 6 expl:pv	color:blue
-1	Și	și	CCONJ	Ccssp	Polarity=Pos	7	cc	_	ref=MATT8.2
-2	iaca	iaca	INTJ	I	_	7	discourse	_	ref=MATT8.2
-3	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	4	det	_	ref=MATT8.2
-4	bubos	bubos	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	7	nsubj	_	ref=MATT8.2
-5	venind	veni	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	advcl	_	ref=MATT8.2
-6	să	să	PART	Qs	PartType=Sub	7	expl:pv	_	ref=MATT8.2
-7	închină	închina	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT8.2
-8	lui	el	PRON	Pp3msd--------s	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	7	iobj	_	ref=MATT8.2|SpaceAfter=No
-9	,	,	PUNCT	COMMA	_	10	punct	_	ref=MATT8.2
-10	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	7	advcl	_	ref=MATT8.2|SpaceAfter=No
-11	:	:	PUNCT	COLON	_	12	punct	_	ref=MATT8.2
-12	Doamne	domn	NOUN	Ncmsvn	Case=Voc|Definite=Ind|Gender=Masc|Number=Sing	20	vocative	_	ref=MATT8.2|SpaceAfter=No
-13	,	,	PUNCT	COMMA	_	12	punct	_	ref=MATT8.2
-14	de	de	SCONJ	Csssp	Polarity=Pos	16	mark	_	ref=MATT8.2
-15	vei	vrea	AUX	Vaip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres	16	aux	_	ref=MATT8.2
-16	vrea	vrea	VERB	Vmn	VerbForm=Inf	20	advcl	_	ref=MATT8.2|SpaceAfter=No
-17	,	,	PUNCT	COMMA	_	16	punct	_	ref=MATT8.2
-18	poți	putea	AUX	Vaip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres	20	aux	_	ref=MATT8.2
-19	mă	eu	PRON	Pp1-pa--------w	Case=Acc|Number=Plur|Person=1|PronType=Prs|Strength=Weak	20	obj	_	ref=MATT8.2
-20	curăți	curăți	VERB	Vmn	VerbForm=Inf	10	parataxis	_	ref=MATT8.2|SpaceAfter=No
-21	.	.	PUNCT	PERIOD	_	7	punct	_	ref=MATT8.2
+# visual-style 4	bgColor:blue
+# visual-style 4	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 4 expl:pv	color:blue
+1	Și	și	CCONJ	Ccssp	Polarity=Pos	2	cc	_	ref=MARC3.5
+2	tinse	întinde	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MARC3.5
+3	și	și	CCONJ	Ccssp	Polarity=Pos	5	cc	_	ref=MARC3.5
+4	să	să	PART	Qs	PartType=Sub	5	expl:pv	_	ref=MARC3.5
+5	întregi	întregi	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	ref=MARC3.5
+6	mîna	mână	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	5	nsubj	_	ref=MARC3.5
+7	lui	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	nmod	_	ref=MARC3.5|SpaceAfter=No
+8	,	,	PUNCT	COMMA	_	11	punct	_	ref=MARC3.5
+9	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	ref=MARC3.5
+10	și	și	CCONJ	Ccssp	Polarity=Pos	9	fixed	_	ref=MARC3.5
+11	ceaialaltă	celălalt	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	5	obl	_	ref=MARC3.5|SpaceAfter=No
+12	.	.	PUNCT	PERIOD	_	2	punct	_	ref=MARC3.5
+
+~~~
+
+
+~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 14	bgColor:blue
+# visual-style 14	fgColor:white
+# visual-style 14 11 expl:pv	color:blue
+1	Că	că	SCONJ	Csssp	Polarity=Pos	2	mark	_	ref=IOAN10.20
+2	zicea	zice	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	ref=IOAN10.20
+3	mulți	mult	PRON	Pi3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind	2	nsubj	_	ref=IOAN10.20
+4	dentr-	dintre	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	5	case	_	ref=IOAN10.20|SpaceAfter=No
+5	înși	însul	PRON	Pp3mpr	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nmod	_	ref=IOAN10.20|SpaceAfter=No
+6	:	:	PUNCT	COLON	_	8	punct	_	ref=IOAN10.20
+7	Drac	drac	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	8	obj	_	ref=IOAN10.20
+8	arе	avea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	ref=IOAN10.20
+9	și	și	CCONJ	Ccssp	Polarity=Pos	14	cc	_	ref=IOAN10.20
+10	nu	nu	ADV	Qz	Polarity=Neg	14	advmod	_	ref=IOAN10.20|SpaceAfter=No
+11	-Şi	sine	PRON	Px3--d--------w	Case=Dat|Person=3|PronType=Prs|Strength=Weak	14	expl:pv	_	ref=IOAN10.20
+12	e	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	ref=IOAN10.20
+13	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	14	case	_	ref=IOAN10.20
+14	fire	fire	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	8	conj	_	ref=IOAN10.20|SpaceAfter=No
+15	.	.	PUNCT	PERIOD	_	2	punct	_	ref=IOAN10.20
 
 ~~~
 

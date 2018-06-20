@@ -144,7 +144,7 @@ The most frequent other feature values with which `AUX` and `Gender` co-occurred
 
 The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>NOUN --[<tt><a href="it_partut-dep-det.html">det</a></tt>]--> DET</tt> (6716; 84%),
-<tt>NOUN --[<tt><a href="it_partut-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2045; 60%),
+<tt>NOUN --[<tt><a href="it_partut-dep-amod.html">amod</a></tt>]--> ADJ</tt> (2044; 60%),
 <tt>NOUN --[<tt><a href="it_partut-dep-conj.html">conj</a></tt>]--> NOUN</tt> (486; 55%),
 <tt>NOUN --[<tt><a href="it_partut-dep-det-poss.html">det:poss</a></tt>]--> DET</tt> (471; 85%),
 <tt>NOUN --[<tt><a href="it_partut-dep-acl.html">acl</a></tt>]--> VERB</tt> (421; 57%),

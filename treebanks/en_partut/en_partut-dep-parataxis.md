@@ -57,7 +57,7 @@ The following 8 pairs of parts of speech are connected with `parataxis`: <tt><a 
 10	notes	note	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
 11	critic	critic	NOUN	S	Number=Sing	10	nsubj	_	_
 12	Peter	Peter	PROPN	SP	_	11	nmod	_	_
-13	Brooks	Brooks	PROPN	SP	_	12	flat:name	_	SpaceAfter=No
+13	Brooks	Brooks	PROPN	SP	_	12	flat	_	SpaceAfter=No
 14	;	;	PUNCT	FC	_	4	punct	_	_
 
 ~~~

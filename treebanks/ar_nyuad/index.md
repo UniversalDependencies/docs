@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 
 The following people have contributed to making this treebank part of UD: Nizar Habash, Dima Taji.
 
-Repository: [UD_Arabic-NYUAD](https://github.com/UniversalDependencies/UD_Arabic-NYUAD)
+Repository: [UD_Arabic-NYUAD](https://github.com/UniversalDependencies/UD_Arabic-NYUAD)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udar_nyuad)
 
 License: CC BY-SA 4.0. The underlying text is not included; the user must obtain it separately and then merge with the UD annotation using a script distributed with UD
 
@@ -74,11 +75,24 @@ We would like to thank the Linguistic Data Consortium's Arabic language group, a
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 19738 sentences, 629295 tokens and 738889 syntactic words.</li>
+</ul>
+
+<ul>
 <li>All tokens in this corpus are followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words that contain both letters and punctuation.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 102571 multi-word tokens. On average, one multi-word token consists of 2.07 syntactic words.</li>
 <li>There are 0 types of multi-word tokens. Examples: .</li>
 </ul>
@@ -90,6 +104,9 @@ We would like to thank the Linguistic Data Consortium's Arabic language group, a
 <ul>
 <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: SYM</li>
+</ul>
+
+<ul>
 <li>This corpus contains 1 word types tagged as particles (PART): _</li>
 </ul>
 
@@ -119,496 +136,571 @@ We would like to thank the Linguistic Data Consortium's Arabic language group, a
 
 <h3>Nominal Features</h3>
 
-<li><a>Gender</a>
-  <ul>
-    <li>Fem
-      <ul>
-        <li>ADJ: _</li>
-        <li>ADP: _</li>
-        <li>ADV: _</li>
-        <li>AUX: _</li>
-        <li>CCONJ: _</li>
-        <li>DET: _</li>
-        <li>NOUN: _</li>
-        <li>NUM: _</li>
-        <li>PART: _</li>
-        <li>PRON: _</li>
-        <li>PROPN: _</li>
-        <li>PUNCT: _</li>
-        <li>SCONJ: _</li>
-        <li>VERB: _</li>
-        <li>X: _</li>
-      </ul>
-    </li>
-    <li>Masc
-      <ul>
-        <li>ADJ: _</li>
-        <li>ADP: _</li>
-        <li>ADV: _</li>
-        <li>AUX: _</li>
-        <li>CCONJ: _</li>
-        <li>DET: _</li>
-        <li>INTJ: _</li>
-        <li>NOUN: _</li>
-        <li>NUM: _</li>
-        <li>PART: _</li>
-        <li>PRON: _</li>
-        <li>PROPN: _</li>
-        <li>PUNCT: _</li>
-        <li>SCONJ: _</li>
-        <li>VERB: _</li>
-        <li>X: _</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+
+<ul>
+  <li><a>Gender</a></li>
+</ul>
+
+<ul>
+  <li>Fem
+    <ul>
+      <li>ADJ: _</li>
+      <li>ADP: _</li>
+      <li>ADV: _</li>
+      <li>AUX: _</li>
+      <li>CCONJ: _</li>
+      <li>DET: _</li>
+      <li>NOUN: _</li>
+      <li>NUM: _</li>
+      <li>PART: _</li>
+      <li>PRON: _</li>
+      <li>PROPN: _</li>
+      <li>PUNCT: _</li>
+      <li>SCONJ: _</li>
+      <li>VERB: _</li>
+      <li>X: _</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Masc
+    <ul>
+      <li>ADJ: _</li>
+      <li>ADP: _</li>
+      <li>ADV: _</li>
+      <li>AUX: _</li>
+      <li>CCONJ: _</li>
+      <li>DET: _</li>
+      <li>INTJ: _</li>
+      <li>NOUN: _</li>
+      <li>NUM: _</li>
+      <li>PART: _</li>
+      <li>PRON: _</li>
+      <li>PROPN: _</li>
+      <li>PUNCT: _</li>
+      <li>SCONJ: _</li>
+      <li>VERB: _</li>
+      <li>X: _</li>
+    </ul>
+  </li>
+</ul>
 
 
-<li><a>Number</a>
-  <ul>
-    <li>Dual
-      <ul>
-        <li>ADJ: _</li>
-        <li>ADP: _</li>
-        <li>ADV: _</li>
-        <li>AUX: _</li>
-        <li>CCONJ: _</li>
-        <li>DET: _</li>
-        <li>NOUN: _</li>
-        <li>NUM: _</li>
-        <li>PART: _</li>
-        <li>PRON: _</li>
-        <li>PROPN: _</li>
-        <li>PUNCT: _</li>
-        <li>SCONJ: _</li>
-        <li>VERB: _</li>
-        <li>X: _</li>
-      </ul>
-    </li>
-    <li>Plur
-      <ul>
-        <li>ADJ: _</li>
-        <li>ADP: _</li>
-        <li>ADV: _</li>
-        <li>AUX: _</li>
-        <li>CCONJ: _</li>
-        <li>DET: _</li>
-        <li>NOUN: _</li>
-        <li>NUM: _</li>
-        <li>PART: _</li>
-        <li>PRON: _</li>
-        <li>PROPN: _</li>
-        <li>PUNCT: _</li>
-        <li>SCONJ: _</li>
-        <li>VERB: _</li>
-        <li>X: _</li>
-      </ul>
-    </li>
-    <li>Sing
-      <ul>
-        <li>ADJ: _</li>
-        <li>ADP: _</li>
-        <li>ADV: _</li>
-        <li>AUX: _</li>
-        <li>CCONJ: _</li>
-        <li>DET: _</li>
-        <li>INTJ: _</li>
-        <li>NOUN: _</li>
-        <li>NUM: _</li>
-        <li>PART: _</li>
-        <li>PRON: _</li>
-        <li>PROPN: _</li>
-        <li>PUNCT: _</li>
-        <li>SCONJ: _</li>
-        <li>VERB: _</li>
-        <li>X: _</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Number</a></li>
+</ul>
 
-<li><a>Case</a>
-  <ul>
-    <li>Acc
-      <ul>
-        <li>ADJ: _</li>
-        <li>ADP: _</li>
-        <li>ADV: _</li>
-        <li>AUX: _</li>
-        <li>CCONJ: _</li>
-        <li>DET: _</li>
-        <li>NOUN: _</li>
-        <li>NUM: _</li>
-        <li>PART: _</li>
-        <li>PRON: _</li>
-        <li>PROPN: _</li>
-        <li>PUNCT: _</li>
-        <li>SCONJ: _</li>
-        <li>VERB: _</li>
-        <li>X: _</li>
-      </ul>
-    </li>
-    <li>Gen
-      <ul>
-        <li>ADJ: _</li>
-        <li>ADP: _</li>
-        <li>ADV: _</li>
-        <li>AUX: _</li>
-        <li>CCONJ: _</li>
-        <li>DET: _</li>
-        <li>INTJ: _</li>
-        <li>NOUN: _</li>
-        <li>NUM: _</li>
-        <li>PART: _</li>
-        <li>PRON: _</li>
-        <li>PROPN: _</li>
-        <li>PUNCT: _</li>
-        <li>SCONJ: _</li>
-        <li>VERB: _</li>
-        <li>X: _</li>
-      </ul>
-    </li>
-    <li>Nom
-      <ul>
-        <li>ADJ: _</li>
-        <li>ADP: _</li>
-        <li>ADV: _</li>
-        <li>AUX: _</li>
-        <li>CCONJ: _</li>
-        <li>DET: _</li>
-        <li>NOUN: _</li>
-        <li>NUM: _</li>
-        <li>PART: _</li>
-        <li>PRON: _</li>
-        <li>PROPN: _</li>
-        <li>PUNCT: _</li>
-        <li>SCONJ: _</li>
-        <li>VERB: _</li>
-        <li>X: _</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li>Dual
+    <ul>
+      <li>ADJ: _</li>
+      <li>ADP: _</li>
+      <li>ADV: _</li>
+      <li>AUX: _</li>
+      <li>CCONJ: _</li>
+      <li>DET: _</li>
+      <li>NOUN: _</li>
+      <li>NUM: _</li>
+      <li>PART: _</li>
+      <li>PRON: _</li>
+      <li>PROPN: _</li>
+      <li>PUNCT: _</li>
+      <li>SCONJ: _</li>
+      <li>VERB: _</li>
+      <li>X: _</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Plur
+    <ul>
+      <li>ADJ: _</li>
+      <li>ADP: _</li>
+      <li>ADV: _</li>
+      <li>AUX: _</li>
+      <li>CCONJ: _</li>
+      <li>DET: _</li>
+      <li>NOUN: _</li>
+      <li>NUM: _</li>
+      <li>PART: _</li>
+      <li>PRON: _</li>
+      <li>PROPN: _</li>
+      <li>PUNCT: _</li>
+      <li>SCONJ: _</li>
+      <li>VERB: _</li>
+      <li>X: _</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sing
+    <ul>
+      <li>ADJ: _</li>
+      <li>ADP: _</li>
+      <li>ADV: _</li>
+      <li>AUX: _</li>
+      <li>CCONJ: _</li>
+      <li>DET: _</li>
+      <li>INTJ: _</li>
+      <li>NOUN: _</li>
+      <li>NUM: _</li>
+      <li>PART: _</li>
+      <li>PRON: _</li>
+      <li>PROPN: _</li>
+      <li>PUNCT: _</li>
+      <li>SCONJ: _</li>
+      <li>VERB: _</li>
+      <li>X: _</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Case</a></li>
+</ul>
+
+<ul>
+  <li>Acc
+    <ul>
+      <li>ADJ: _</li>
+      <li>ADP: _</li>
+      <li>ADV: _</li>
+      <li>AUX: _</li>
+      <li>CCONJ: _</li>
+      <li>DET: _</li>
+      <li>NOUN: _</li>
+      <li>NUM: _</li>
+      <li>PART: _</li>
+      <li>PRON: _</li>
+      <li>PROPN: _</li>
+      <li>PUNCT: _</li>
+      <li>SCONJ: _</li>
+      <li>VERB: _</li>
+      <li>X: _</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Gen
+    <ul>
+      <li>ADJ: _</li>
+      <li>ADP: _</li>
+      <li>ADV: _</li>
+      <li>AUX: _</li>
+      <li>CCONJ: _</li>
+      <li>DET: _</li>
+      <li>INTJ: _</li>
+      <li>NOUN: _</li>
+      <li>NUM: _</li>
+      <li>PART: _</li>
+      <li>PRON: _</li>
+      <li>PROPN: _</li>
+      <li>PUNCT: _</li>
+      <li>SCONJ: _</li>
+      <li>VERB: _</li>
+      <li>X: _</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Nom
+    <ul>
+      <li>ADJ: _</li>
+      <li>ADP: _</li>
+      <li>ADV: _</li>
+      <li>AUX: _</li>
+      <li>CCONJ: _</li>
+      <li>DET: _</li>
+      <li>NOUN: _</li>
+      <li>NUM: _</li>
+      <li>PART: _</li>
+      <li>PRON: _</li>
+      <li>PROPN: _</li>
+      <li>PUNCT: _</li>
+      <li>SCONJ: _</li>
+      <li>VERB: _</li>
+      <li>X: _</li>
+    </ul>
+  </li>
+</ul>
 
 
-<li><a>Definite</a>
-  <ul>
-    <li>Com
-      <ul>
-        <li>ADJ: _</li>
-        <li>ADP: _</li>
-        <li>ADV: _</li>
-        <li>AUX: _</li>
-        <li>CCONJ: _</li>
-        <li>DET: _</li>
-        <li>NOUN: _</li>
-        <li>NUM: _</li>
-        <li>PART: _</li>
-        <li>PRON: _</li>
-        <li>PROPN: _</li>
-        <li>PUNCT: _</li>
-        <li>SCONJ: _</li>
-        <li>VERB: _</li>
-        <li>X: _</li>
-      </ul>
-    </li>
-    <li>Def
-      <ul>
-        <li>ADJ: _</li>
-        <li>ADP: _</li>
-        <li>ADV: _</li>
-        <li>AUX: _</li>
-        <li>CCONJ: _</li>
-        <li>DET: _</li>
-        <li>NOUN: _</li>
-        <li>NUM: _</li>
-        <li>PART: _</li>
-        <li>PRON: _</li>
-        <li>PROPN: _</li>
-        <li>PUNCT: _</li>
-        <li>SCONJ: _</li>
-        <li>VERB: _</li>
-        <li>X: _</li>
-      </ul>
-    </li>
-    <li>Ind
-      <ul>
-        <li>ADJ: _</li>
-        <li>ADP: _</li>
-        <li>ADV: _</li>
-        <li>AUX: _</li>
-        <li>CCONJ: _</li>
-        <li>DET: _</li>
-        <li>INTJ: _</li>
-        <li>NOUN: _</li>
-        <li>NUM: _</li>
-        <li>PART: _</li>
-        <li>PRON: _</li>
-        <li>PROPN: _</li>
-        <li>PUNCT: _</li>
-        <li>SCONJ: _</li>
-        <li>VERB: _</li>
-        <li>X: _</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Definite</a></li>
+</ul>
+
+<ul>
+  <li>Com
+    <ul>
+      <li>ADJ: _</li>
+      <li>ADP: _</li>
+      <li>ADV: _</li>
+      <li>AUX: _</li>
+      <li>CCONJ: _</li>
+      <li>DET: _</li>
+      <li>NOUN: _</li>
+      <li>NUM: _</li>
+      <li>PART: _</li>
+      <li>PRON: _</li>
+      <li>PROPN: _</li>
+      <li>PUNCT: _</li>
+      <li>SCONJ: _</li>
+      <li>VERB: _</li>
+      <li>X: _</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Def
+    <ul>
+      <li>ADJ: _</li>
+      <li>ADP: _</li>
+      <li>ADV: _</li>
+      <li>AUX: _</li>
+      <li>CCONJ: _</li>
+      <li>DET: _</li>
+      <li>NOUN: _</li>
+      <li>NUM: _</li>
+      <li>PART: _</li>
+      <li>PRON: _</li>
+      <li>PROPN: _</li>
+      <li>PUNCT: _</li>
+      <li>SCONJ: _</li>
+      <li>VERB: _</li>
+      <li>X: _</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>ADJ: _</li>
+      <li>ADP: _</li>
+      <li>ADV: _</li>
+      <li>AUX: _</li>
+      <li>CCONJ: _</li>
+      <li>DET: _</li>
+      <li>INTJ: _</li>
+      <li>NOUN: _</li>
+      <li>NUM: _</li>
+      <li>PART: _</li>
+      <li>PRON: _</li>
+      <li>PROPN: _</li>
+      <li>PUNCT: _</li>
+      <li>SCONJ: _</li>
+      <li>VERB: _</li>
+      <li>X: _</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Degree and Polarity</h3>
 
 
-<li><a>Polarity</a>
-  <ul>
-    <li>Neg
-      <ul>
-        <li>ADJ: _</li>
-        <li>ADP: _</li>
-        <li>ADV: _</li>
-        <li>CCONJ: _</li>
-        <li>DET: _</li>
-        <li>NOUN: _</li>
-        <li>PART: _</li>
-        <li>PRON: _</li>
-        <li>PROPN: _</li>
-        <li>PUNCT: _</li>
-        <li>SCONJ: _</li>
-        <li>VERB: _</li>
-        <li>X: _</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
+
+<ul>
+  <li>Neg
+    <ul>
+      <li>ADJ: _</li>
+      <li>ADP: _</li>
+      <li>ADV: _</li>
+      <li>CCONJ: _</li>
+      <li>DET: _</li>
+      <li>NOUN: _</li>
+      <li>PART: _</li>
+      <li>PRON: _</li>
+      <li>PROPN: _</li>
+      <li>PUNCT: _</li>
+      <li>SCONJ: _</li>
+      <li>VERB: _</li>
+      <li>X: _</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Verbal Features</h3>
 
-<li><a>Aspect</a>
-  <ul>
-    <li>Imp
-      <ul>
-        <li>ADP: _</li>
-        <li>VERB: _</li>
-      </ul>
-    </li>
-    <li>Perf
-      <ul>
-        <li>ADP: _</li>
-        <li>VERB: _</li>
-      </ul>
-    </li>
-  </ul>
-</li>
 
-<li><a>Mood</a>
-  <ul>
-    <li>Ind
-      <ul>
-        <li>ADJ: _</li>
-        <li>ADP: _</li>
-        <li>ADV: _</li>
-        <li>AUX: _</li>
-        <li>CCONJ: _</li>
-        <li>DET: _</li>
-        <li>NOUN: _</li>
-        <li>NUM: _</li>
-        <li>PART: _</li>
-        <li>PRON: _</li>
-        <li>PROPN: _</li>
-        <li>PUNCT: _</li>
-        <li>SCONJ: _</li>
-        <li>VERB: _</li>
-        <li>X: _</li>
-      </ul>
-    </li>
-    <li>Jus
-      <ul>
-        <li>ADJ: _</li>
-        <li>ADP: _</li>
-        <li>ADV: _</li>
-        <li>AUX: _</li>
-        <li>CCONJ: _</li>
-        <li>DET: _</li>
-        <li>NOUN: _</li>
-        <li>PART: _</li>
-        <li>PROPN: _</li>
-        <li>PUNCT: _</li>
-        <li>SCONJ: _</li>
-        <li>VERB: _</li>
-        <li>X: _</li>
-      </ul>
-    </li>
-    <li>Sub
-      <ul>
-        <li>ADJ: _</li>
-        <li>ADP: _</li>
-        <li>ADV: _</li>
-        <li>AUX: _</li>
-        <li>CCONJ: _</li>
-        <li>NOUN: _</li>
-        <li>NUM: _</li>
-        <li>PRON: _</li>
-        <li>PROPN: _</li>
-        <li>PUNCT: _</li>
-        <li>SCONJ: _</li>
-        <li>VERB: _</li>
-        <li>X: _</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Aspect</a></li>
+</ul>
+
+<ul>
+  <li>Imp
+    <ul>
+      <li>ADP: _</li>
+      <li>VERB: _</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Perf
+    <ul>
+      <li>ADP: _</li>
+      <li>VERB: _</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Mood</a></li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>ADJ: _</li>
+      <li>ADP: _</li>
+      <li>ADV: _</li>
+      <li>AUX: _</li>
+      <li>CCONJ: _</li>
+      <li>DET: _</li>
+      <li>NOUN: _</li>
+      <li>NUM: _</li>
+      <li>PART: _</li>
+      <li>PRON: _</li>
+      <li>PROPN: _</li>
+      <li>PUNCT: _</li>
+      <li>SCONJ: _</li>
+      <li>VERB: _</li>
+      <li>X: _</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Jus
+    <ul>
+      <li>ADJ: _</li>
+      <li>ADP: _</li>
+      <li>ADV: _</li>
+      <li>AUX: _</li>
+      <li>CCONJ: _</li>
+      <li>DET: _</li>
+      <li>NOUN: _</li>
+      <li>PART: _</li>
+      <li>PROPN: _</li>
+      <li>PUNCT: _</li>
+      <li>SCONJ: _</li>
+      <li>VERB: _</li>
+      <li>X: _</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sub
+    <ul>
+      <li>ADJ: _</li>
+      <li>ADP: _</li>
+      <li>ADV: _</li>
+      <li>AUX: _</li>
+      <li>CCONJ: _</li>
+      <li>NOUN: _</li>
+      <li>NUM: _</li>
+      <li>PRON: _</li>
+      <li>PROPN: _</li>
+      <li>PUNCT: _</li>
+      <li>SCONJ: _</li>
+      <li>VERB: _</li>
+      <li>X: _</li>
+    </ul>
+  </li>
+</ul>
 
 
-<li><a>Voice</a>
-  <ul>
-    <li>Act
-      <ul>
-        <li>ADJ: _</li>
-        <li>ADP: _</li>
-        <li>ADV: _</li>
-        <li>AUX: _</li>
-        <li>CCONJ: _</li>
-        <li>DET: _</li>
-        <li>NOUN: _</li>
-        <li>NUM: _</li>
-        <li>PART: _</li>
-        <li>PRON: _</li>
-        <li>PROPN: _</li>
-        <li>PUNCT: _</li>
-        <li>SCONJ: _</li>
-        <li>VERB: _</li>
-        <li>X: _</li>
-      </ul>
-    </li>
-    <li>Pass
-      <ul>
-        <li>ADP: _</li>
-        <li>ADV: _</li>
-        <li>CCONJ: _</li>
-        <li>NOUN: _</li>
-        <li>PART: _</li>
-        <li>PRON: _</li>
-        <li>PROPN: _</li>
-        <li>PUNCT: _</li>
-        <li>SCONJ: _</li>
-        <li>VERB: _</li>
-        <li>X: _</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Voice</a></li>
+</ul>
+
+<ul>
+  <li>Act
+    <ul>
+      <li>ADJ: _</li>
+      <li>ADP: _</li>
+      <li>ADV: _</li>
+      <li>AUX: _</li>
+      <li>CCONJ: _</li>
+      <li>DET: _</li>
+      <li>NOUN: _</li>
+      <li>NUM: _</li>
+      <li>PART: _</li>
+      <li>PRON: _</li>
+      <li>PROPN: _</li>
+      <li>PUNCT: _</li>
+      <li>SCONJ: _</li>
+      <li>VERB: _</li>
+      <li>X: _</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Pass
+    <ul>
+      <li>ADP: _</li>
+      <li>ADV: _</li>
+      <li>CCONJ: _</li>
+      <li>NOUN: _</li>
+      <li>PART: _</li>
+      <li>PRON: _</li>
+      <li>PROPN: _</li>
+      <li>PUNCT: _</li>
+      <li>SCONJ: _</li>
+      <li>VERB: _</li>
+      <li>X: _</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
-<li><a>PronType</a>
-  <ul>
-    <li>Dem
-      <ul>
-        <li>PRON: _</li>
-      </ul>
-    </li>
-    <li>Prs
-      <ul>
-        <li>PRON: _</li>
-      </ul>
-    </li>
-    <li>Rel
-      <ul>
-        <li>PRON: _</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+
+<ul>
+  <li><a>PronType</a></li>
+</ul>
+
+<ul>
+  <li>Dem
+    <ul>
+      <li>PRON: _</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Prs
+    <ul>
+      <li>PRON: _</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Rel
+    <ul>
+      <li>PRON: _</li>
+    </ul>
+  </li>
+</ul>
 
 
 
 
-<li><a>Person</a>
-  <ul>
-    <li>1
-      <ul>
-        <li>ADJ: _</li>
-        <li>ADP: _</li>
-        <li>ADV: _</li>
-        <li>AUX: _</li>
-        <li>CCONJ: _</li>
-        <li>DET: _</li>
-        <li>NOUN: _</li>
-        <li>PART: _</li>
-        <li>PRON: _</li>
-        <li>PROPN: _</li>
-        <li>PUNCT: _</li>
-        <li>SCONJ: _</li>
-        <li>VERB: _</li>
-        <li>X: _</li>
-      </ul>
-    </li>
-    <li>2
-      <ul>
-        <li>ADJ: _</li>
-        <li>ADP: _</li>
-        <li>ADV: _</li>
-        <li>AUX: _</li>
-        <li>CCONJ: _</li>
-        <li>NOUN: _</li>
-        <li>PRON: _</li>
-        <li>PROPN: _</li>
-        <li>PUNCT: _</li>
-        <li>SCONJ: _</li>
-        <li>VERB: _</li>
-        <li>X: _</li>
-      </ul>
-    </li>
-    <li>3
-      <ul>
-        <li>ADJ: _</li>
-        <li>ADP: _</li>
-        <li>ADV: _</li>
-        <li>AUX: _</li>
-        <li>CCONJ: _</li>
-        <li>DET: _</li>
-        <li>NOUN: _</li>
-        <li>NUM: _</li>
-        <li>PART: _</li>
-        <li>PRON: _</li>
-        <li>PROPN: _</li>
-        <li>PUNCT: _</li>
-        <li>SCONJ: _</li>
-        <li>VERB: _</li>
-        <li>X: _</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Person</a></li>
+</ul>
+
+<ul>
+  <li>1
+    <ul>
+      <li>ADJ: _</li>
+      <li>ADP: _</li>
+      <li>ADV: _</li>
+      <li>AUX: _</li>
+      <li>CCONJ: _</li>
+      <li>DET: _</li>
+      <li>NOUN: _</li>
+      <li>PART: _</li>
+      <li>PRON: _</li>
+      <li>PROPN: _</li>
+      <li>PUNCT: _</li>
+      <li>SCONJ: _</li>
+      <li>VERB: _</li>
+      <li>X: _</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>2
+    <ul>
+      <li>ADJ: _</li>
+      <li>ADP: _</li>
+      <li>ADV: _</li>
+      <li>AUX: _</li>
+      <li>CCONJ: _</li>
+      <li>NOUN: _</li>
+      <li>PRON: _</li>
+      <li>PROPN: _</li>
+      <li>PUNCT: _</li>
+      <li>SCONJ: _</li>
+      <li>VERB: _</li>
+      <li>X: _</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>3
+    <ul>
+      <li>ADJ: _</li>
+      <li>ADP: _</li>
+      <li>ADV: _</li>
+      <li>AUX: _</li>
+      <li>CCONJ: _</li>
+      <li>DET: _</li>
+      <li>NOUN: _</li>
+      <li>NUM: _</li>
+      <li>PART: _</li>
+      <li>PRON: _</li>
+      <li>PROPN: _</li>
+      <li>PUNCT: _</li>
+      <li>SCONJ: _</li>
+      <li>VERB: _</li>
+      <li>X: _</li>
+    </ul>
+  </li>
+</ul>
 
 
 
 
 <h3>Other Features</h3>
 
-<li><a>AdpType</a>
-  <ul>
-    <li>Prep
-      <ul>
-        <li>ADP: _</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-<li><a>NumForm</a>
-  <ul>
-    <li>Digit
-      <ul>
-        <li>NUM: _</li>
-      </ul>
-    </li>
-    <li>Word
-      <ul>
-        <li>NUM: _</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+
+<ul>
+  <li><a>AdpType</a>
+    <ul>
+      <li>Prep
+        <ul>
+          <li>ADP: _</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>NumForm</a>
+    <ul>
+      <li>Digit
+        <ul>
+          <li>NUM: _</li>
+        </ul>
+      </li>
+      <li>Word
+        <ul>
+          <li>NUM: _</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 
@@ -616,6 +708,9 @@ We would like to thank the Linguistic Data Consortium's Arabic language group, a
 
 <ul>
 <li>This corpus uses 14 lemmas as copulas (<a>cop</a>). Examples: _، l، f، ,، hm، nA، w، "، None، b، h، Alhwrn، hA، y.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 20 lemmas as auxiliaries (<a>aux</a>). Examples: _، s، lA، l، w، None، >، h، ,، hA، mA، f، hm، .، "، (، -، km، m، nA.</li>
 </ul>
 

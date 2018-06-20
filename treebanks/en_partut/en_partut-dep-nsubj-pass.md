@@ -30,7 +30,7 @@ The following 9 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 6	s	s	X	X	_	5	goeswith	_	_
 7	in	in	ADP	E	_	8	case	_	_
 8	Saudi	Saudi	PROPN	SP	_	4	obl	_	_
-9	Arabia	Arabia	PROPN	SP	_	8	flat:name	_	SpaceAfter=No
+9	Arabia	Arabia	PROPN	SP	_	8	flat	_	SpaceAfter=No
 10	.	.	PUNCT	FS	_	4	punct	_	_
 
 ~~~
@@ -60,7 +60,7 @@ The following 9 pairs of parts of speech are connected with `nsubj:pass`: <tt><a
 # visual-style 5	fgColor:white
 # visual-style 5 1 nsubj:pass	color:blue
 1	Creative	Creative	PROPN	SP	_	5	nsubj:pass	_	_
-2	Commons	Commons	PROPN	SP	_	1	flat:name	_	_
+2	Commons	Commons	PROPN	SP	_	1	flat	_	_
 3	may	may	AUX	VM	Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 4	be	be	AUX	VA	VerbForm=Inf	5	aux:pass	_	_
 5	contacted	contact	VERB	V	Tense=Past|VerbForm=Part	0	root	_	_

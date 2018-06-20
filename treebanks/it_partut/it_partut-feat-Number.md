@@ -165,9 +165,9 @@ The most frequent other feature values with which `PRON` and `Number` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="it_partut-dep-det.html">det</a></tt>]--> DET</tt> (7394; 93%),
-<tt>NOUN --[<tt><a href="it_partut-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3153; 92%),
+<tt>NOUN --[<tt><a href="it_partut-dep-amod.html">amod</a></tt>]--> ADJ</tt> (3152; 92%),
 <tt>NOUN --[<tt><a href="it_partut-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (1826; 50%),
-<tt>VERB --[<tt><a href="it_partut-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (718; 78%),
+<tt>VERB --[<tt><a href="it_partut-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (719; 78%),
 <tt>NOUN --[<tt><a href="it_partut-dep-conj.html">conj</a></tt>]--> NOUN</tt> (596; 68%),
 <tt>NOUN --[<tt><a href="it_partut-dep-acl.html">acl</a></tt>]--> VERB</tt> (529; 73%),
 <tt>NOUN --[<tt><a href="it_partut-dep-det-poss.html">det:poss</a></tt>]--> DET</tt> (442; 80%),

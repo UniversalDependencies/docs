@@ -7,14 +7,34 @@ udver: '2'
 ## Treebank Statistics: UD_English-ParTUT: Relations: `flat`
 
 This relation is universal.
-There are 2 language-specific subtypes of `flat`: <tt><a href="en_partut-dep-flat-foreign.html">flat:foreign</a></tt>, <tt><a href="en_partut-dep-flat-name.html">flat:name</a></tt>.
+There are 1 language-specific subtypes of `flat`: <tt><a href="en_partut-dep-flat-foreign.html">flat:foreign</a></tt>.
 
-251 nodes (1%) are attached to their parents as `flat`.
+609 nodes (1%) are attached to their parents as `flat`.
 
-250 instances of `flat` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.38645418326693.
+609 instances of `flat` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.36453201970443.
 
-The following 9 pairs of parts of speech are connected with `flat`: <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (73; 29% instances), <tt><a href="en_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (63; 25% instances), <tt><a href="en_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="en_partut-pos-NUM.html">NUM</a></tt> (56; 22% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_partut-pos-NUM.html">NUM</a></tt> (25; 10% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (13; 5% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> (12; 5% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-NUM.html">NUM</a></tt> (5; 2% instances), <tt><a href="en_partut-pos-X.html">X</a></tt>-<tt><a href="en_partut-pos-X.html">X</a></tt> (3; 1% instances), <tt><a href="en_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="en_partut-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances).
+The following 11 pairs of parts of speech are connected with `flat`: <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (366; 60% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (74; 12% instances), <tt><a href="en_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt> (63; 10% instances), <tt><a href="en_partut-pos-NUM.html">NUM</a></tt>-<tt><a href="en_partut-pos-NUM.html">NUM</a></tt> (56; 9% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_partut-pos-NUM.html">NUM</a></tt> (25; 4% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt> (12; 2% instances), <tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt>-<tt><a href="en_partut-pos-NUM.html">NUM</a></tt> (5; 1% instances), <tt><a href="en_partut-pos-X.html">X</a></tt>-<tt><a href="en_partut-pos-X.html">X</a></tt> (3; 0% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_partut-pos-ADP.html">ADP</a></tt> (2; 0% instances), <tt><a href="en_partut-pos-PROPN.html">PROPN</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (2; 0% instances), <tt><a href="en_partut-pos-ADJ.html">ADJ</a></tt>-<tt><a href="en_partut-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 flat	color:blue
+1	This	this	PRON	PD	Number=Sing|PronType=Dem	3	nsubj	_	_
+2	is	be	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	photomicrographs	photomicrographs	ADJ	A	Degree=Pos	0	root	_	_
+4	from	from	ADP	E	_	5	case	_	_
+5	Nick	Nick	PROPN	SP	_	3	obl	_	_
+6	Read	Read	PROPN	SP	_	5	flat	_	_
+7	and	and	CCONJ	CC	_	8	cc	_	_
+8	Patrick	Patrick	PROPN	SP	_	5	conj	_	_
+9	Hickey	Hickey	PROPN	SP	_	8	flat	_	SpaceAfter=No
+10	.	.	PUNCT	FS	_	3	punct	_	_
+
+~~~
 
 
 ~~~ conllu
@@ -56,28 +76,6 @@ The following 9 pairs of parts of speech are connected with `flat`: <tt><a href=
 11	Balzac	Balzac	PROPN	SP	_	12	nsubj	_	_
 12	died	die	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 13	.	.	PUNCT	FS	_	12	punct	_	_
-
-~~~
-
-
-~~~ conllu
-# visual-style 11	bgColor:blue
-# visual-style 11	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 11 flat	color:blue
-1	Shakespeare	Shakespeare	PROPN	SP	_	2	nsubj	_	_
-2	signed	sign	VERB	V	Mood=Ind|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	his	his	DET	AP	Poss=Yes|PronType=Prs	5	nmod:poss	_	_
-4	last	last	ADJ	NO	Degree=Pos|NumType=Ord	5	amod	_	_
-5	will	will	NOUN	S	Number=Sing	2	obj	_	_
-6	and	and	CCONJ	CC	_	7	cc	_	_
-7	testament	testament	NOUN	S	Number=Sing	5	conj	_	_
-8	on	on	ADP	E	_	9	case	_	_
-9	25	25	NUM	N	NumType=Card	2	obl	_	_
-10	March	March	PROPN	SP	_	9	flat	_	_
-11	1616	1616	NUM	N	NumType=Card	9	flat	_	SpaceAfter=No
-12	;	;	PUNCT	FC	_	2	punct	_	_
 
 ~~~
 

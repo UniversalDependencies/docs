@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v2.0 release.
 
 The following people have contributed to making this treebank part of UD: Cristina Bosco, Manuela Sanguinetti.
 
-Repository: [UD_French-ParTUT](https://github.com/UniversalDependencies/UD_French-ParTUT)
+Repository: [UD_French-ParTUT](https://github.com/UniversalDependencies/UD_French-ParTUT)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udfr_partut)
 
 License: CC BY-NC-SA 4.0
 
@@ -34,11 +35,11 @@ Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
-| Lemmas | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
-| UPOS | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
-| XPOS | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
-| Features | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
-| Relations | annotated manually in non-UD style, automatically converted to UD, with some manual corrections of the conversion |
+| Lemmas | annotated manually in non-UD style, automatically converted to UD |
+| UPOS | annotated manually in non-UD style, automatically converted to UD |
+| XPOS | annotated manually in non-UD style, automatically converted to UD |
+| Features | annotated manually in non-UD style, automatically converted to UD |
+| Relations | annotated manually in non-UD style, automatically converted to UD |
 
 ## Description
 
@@ -72,17 +73,6 @@ ParTUT data can be downloaded [here](http://www.di.unito.it/~tutreeb/treebanks.h
 ## Acknowledgments
 We are deeply grateful to Project Syndicate© for letting us download and exploit their articles as text material, under the terms of educational use.
 
-## References
-
-* Manuela Sanguinetti, Cristina Bosco. 2014. PartTUT: The Turin University Parallel Treebank.
-In Basili, Bosco, Delmonte, Moschitti, Simi (editors) Harmonization and development of resources and tools for Italian Natural Language Processing within the PARLI project, LNCS, Springer Verlag
-
-* Manuela Sanguinetti, Cristina Bosco. 2014. Converting the parallel treebank ParTUT in Universal Stanford Dependencies.
-In Proceedings of the 1rst Conference for Italian Computational Linguistics (CLiC-it 2014), Pisa (Italy)
-
-* Cristina Bosco, Manuela Sanguinetti. 2014. Towards a Universal Stanford Dependencies parallel treebank.
-In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13), Tubingen (Germany)
-
 
 
 # Statistics of UD French ParTUT
@@ -97,15 +87,28 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 
 ## Relations
 
-[acl](fr_partut-dep-acl.html) – [acl:cleft](fr_partut-dep-acl-cleft.html) – [acl:relcl](fr_partut-dep-acl-relcl.html) – [advcl](fr_partut-dep-advcl.html) – [advmod](fr_partut-dep-advmod.html) – [amod](fr_partut-dep-amod.html) – [appos](fr_partut-dep-appos.html) – [aux](fr_partut-dep-aux.html) – [aux:caus](fr_partut-dep-aux-caus.html) – [aux:pass](fr_partut-dep-aux-pass.html) – [case](fr_partut-dep-case.html) – [cc](fr_partut-dep-cc.html) – [ccomp](fr_partut-dep-ccomp.html) – [compound](fr_partut-dep-compound.html) – [conj](fr_partut-dep-conj.html) – [cop](fr_partut-dep-cop.html) – [csubj](fr_partut-dep-csubj.html) – [csubj:pass](fr_partut-dep-csubj-pass.html) – [dep](fr_partut-dep-dep.html) – [det](fr_partut-dep-det.html) – [discourse](fr_partut-dep-discourse.html) – [dislocated](fr_partut-dep-dislocated.html) – [dislocated:cleft](fr_partut-dep-dislocated-cleft.html) – [expl](fr_partut-dep-expl.html) – [fixed](fr_partut-dep-fixed.html) – [flat](fr_partut-dep-flat.html) – [flat:foreign](fr_partut-dep-flat-foreign.html) – [flat:name](fr_partut-dep-flat-name.html) – [goeswith](fr_partut-dep-goeswith.html) – [iobj](fr_partut-dep-iobj.html) – [iobj:agent](fr_partut-dep-iobj-agent.html) – [mark](fr_partut-dep-mark.html) – [nmod](fr_partut-dep-nmod.html) – [nsubj](fr_partut-dep-nsubj.html) – [nsubj:caus](fr_partut-dep-nsubj-caus.html) – [nsubj:expl](fr_partut-dep-nsubj-expl.html) – [nsubj:pass](fr_partut-dep-nsubj-pass.html) – [nummod](fr_partut-dep-nummod.html) – [obj](fr_partut-dep-obj.html) – [obj:agent](fr_partut-dep-obj-agent.html) – [obl](fr_partut-dep-obl.html) – [obl:agent](fr_partut-dep-obl-agent.html) – [orphan](fr_partut-dep-orphan.html) – [parataxis](fr_partut-dep-parataxis.html) – [punct](fr_partut-dep-punct.html) – [root](fr_partut-dep-root.html) – [vocative](fr_partut-dep-vocative.html) – [xcomp](fr_partut-dep-xcomp.html)
+[acl](fr_partut-dep-acl.html) – [acl:relcl](fr_partut-dep-acl-relcl.html) – [advcl](fr_partut-dep-advcl.html) – [advmod](fr_partut-dep-advmod.html) – [amod](fr_partut-dep-amod.html) – [appos](fr_partut-dep-appos.html) – [aux](fr_partut-dep-aux.html) – [aux:caus](fr_partut-dep-aux-caus.html) – [aux:pass](fr_partut-dep-aux-pass.html) – [case](fr_partut-dep-case.html) – [cc](fr_partut-dep-cc.html) – [ccomp](fr_partut-dep-ccomp.html) – [compound](fr_partut-dep-compound.html) – [conj](fr_partut-dep-conj.html) – [cop](fr_partut-dep-cop.html) – [csubj](fr_partut-dep-csubj.html) – [csubj:pass](fr_partut-dep-csubj-pass.html) – [dep](fr_partut-dep-dep.html) – [det](fr_partut-dep-det.html) – [discourse](fr_partut-dep-discourse.html) – [dislocated](fr_partut-dep-dislocated.html) – [expl](fr_partut-dep-expl.html) – [fixed](fr_partut-dep-fixed.html) – [flat](fr_partut-dep-flat.html) – [flat:foreign](fr_partut-dep-flat-foreign.html) – [flat:name](fr_partut-dep-flat-name.html) – [goeswith](fr_partut-dep-goeswith.html) – [iobj](fr_partut-dep-iobj.html) – [iobj:agent](fr_partut-dep-iobj-agent.html) – [mark](fr_partut-dep-mark.html) – [nmod](fr_partut-dep-nmod.html) – [nsubj](fr_partut-dep-nsubj.html) – [nsubj:caus](fr_partut-dep-nsubj-caus.html) – [nsubj:pass](fr_partut-dep-nsubj-pass.html) – [nummod](fr_partut-dep-nummod.html) – [obj](fr_partut-dep-obj.html) – [obj:agent](fr_partut-dep-obj-agent.html) – [obl](fr_partut-dep-obl.html) – [obl:agent](fr_partut-dep-obl-agent.html) – [orphan](fr_partut-dep-orphan.html) – [parataxis](fr_partut-dep-parataxis.html) – [punct](fr_partut-dep-punct.html) – [root](fr_partut-dep-root.html) – [vocative](fr_partut-dep-vocative.html) – [xcomp](fr_partut-dep-xcomp.html)
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 1020 sentences, 27661 tokens and 28597 syntactic words.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 4164 tokens (15%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 48 types of words that contain both letters and punctuation. Examples: l', d', qu', n', s', c', j', M., aujourd'hui, jusqu', -il, -ce, celui-ci, ci-dessus, m', ceux-ci, au-delà, celle-ci, vis-à-vis, -vous, ci-après, -on, bien-être, c'est-à-dire, elle-même, moi-même, p., peut-être, puisqu', -là, -moi, -nous, IV-438, Royaume-uni, Wulf-Mathies, bien-fondé, ci-dessous, eux-mêmes, garde-meubles, lorsqu', là-dessus, mm., outre-mer, quelqu', savoir-faire, sous-sol, sud-est, États-Unis</li>
+</ul>
+
+<ul>
 <li>This corpus contains 936 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
 <li>There are 4 types of multi-word tokens. Examples: des, du, au, aux.</li>
 </ul>
@@ -116,6 +119,9 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 
 <ul>
 <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
+</ul>
+
+<ul>
 <li>This corpus contains 2 word types tagged as particles (PART): n', ne</li>
 </ul>
 
@@ -140,7 +146,9 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 </ul>
 
 <ul>
-<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 4 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Fin
   <ul>
@@ -148,18 +156,27 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
     <li>VERB: a, est, convient, fait, ont, concerne, pense, font, faut, agit</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Ger
   <ul>
     <li>AUX: étant, ayant</li>
     <li>VERB: Considérant, concernant, établissant, attendant, faisant, sachant, tenant, utilisant, affirmant, agissant</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Inf
   <ul>
     <li>AUX: être, avoir, pouvoir, aller</li>
     <li>VERB: faire, améliorer, dire, abonner, assurer, savoir, avoir, compter, utiliser, communiquer</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>AUX: été, pu, ayant, dû, étant</li>
@@ -167,281 +184,363 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
-<li><a>Gender</a>
-  <ul>
-    <li>Fem
-      <ul>
-        <li>ADJ: présente, grande, dangereuses, telle, sociale, dérivée, première, nouvelle, collective, publiques</li>
-        <li>DET: la, une, cette, des, toute, sa, leur, aucune, toutes, votre</li>
-        <li>NOUN: commission, oeuvre, sécurité, directive, mesures, protection, exigences, décision, madame, matière</li>
-        <li>PRON: elle, elles, laquelle, celle, une, auxquelles, celle-ci, la, aucune, celles</li>
-        <li>VERB-Part: dite, dites, accordée, adoptées, harmonisées, prise, prévues, rendues, établie, appliquées</li>
-      </ul>
-    </li>
-    <li>Masc
-      <ul>
-        <li>ADJ: présent, européen, structurels, faux, important, premier, public, seul, nouveau, divers</li>
-        <li>AUX-Part: été, pu, dû</li>
-        <li>DET: le, un, ce, des, son, tous, tout, votre, cet, mon</li>
-        <li>NOUN: pays, parlement, programme, membres, droit, états, contrat, rapport, cas, conseil</li>
-        <li>PRON: il, on, ils, le, ceux, tous, chacun, -il, Nul, celui</li>
-        <li>VERB-Fin: fait</li>
-        <li>VERB-Part: fait, tenu, compris, donné, mis, soumis, dit, nommés, demandé, proposé</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+
+<ul>
+  <li><a>Gender</a></li>
+</ul>
+
+<ul>
+  <li>Fem
+    <ul>
+      <li>ADJ: présente, grande, dangereuses, telle, sociale, dérivée, première, nouvelle, collective, publiques</li>
+      <li>DET: la, une, cette, des, toute, sa, leur, aucune, toutes, votre</li>
+      <li>NOUN: commission, oeuvre, sécurité, directive, mesures, protection, exigences, décision, madame, matière</li>
+      <li>PRON: elle, elles, laquelle, celle, une, auxquelles, celle-ci, la, aucune, celles</li>
+      <li>VERB-Part: dite, dites, accordée, adoptées, harmonisées, prise, prévues, rendues, établie, appliquées</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Masc
+    <ul>
+      <li>ADJ: présent, européen, structurels, faux, important, premier, public, seul, nouveau, divers</li>
+      <li>AUX-Part: été, pu, dû</li>
+      <li>DET: le, un, ce, des, son, tous, tout, votre, cet, mon</li>
+      <li>NOUN: pays, parlement, programme, membres, droit, états, contrat, rapport, cas, conseil</li>
+      <li>PRON: il, on, ils, le, ceux, tous, chacun, -il, Nul, celui</li>
+      <li>VERB-Fin: fait</li>
+      <li>VERB-Part: fait, tenu, compris, donné, mis, soumis, dit, nommés, demandé, proposé</li>
+    </ul>
+  </li>
+</ul>
 
 
-<li><a>Number</a>
-  <ul>
-    <li>Plur
-      <ul>
-        <li>ADJ: autres, nécessaires, applicables, structurels, dangereuses, mêmes, communautaires, techniques, disponibles, publicitaires</li>
-        <li>AUX-Fin: sont, ont, peuvent, soient, pouvez, étaient, devons, doivent, sommes, devraient</li>
-        <li>DET: les, des, ces, tous, ses, leurs, certains, nos, toutes, de</li>
-        <li>NOUN: membres, états, droits, fonds, mesures, exigences, produits, termes, transports, conditions</li>
-        <li>PRON: nous, vous, ils, elles, ceux, tous, autres, ceux-ci, leur, auxquelles</li>
-        <li>VERB-Fin: ont, font, espérons, choisissez, cliquez, utilisez, accumulent, appliquent, avons, demandons</li>
-        <li>VERB-Part: dites, utilisés, adoptées, harmonisées, prévues, rendues, accordés, appliquées, concernées, existants</li>
-      </ul>
-    </li>
-    <li>Sing
-      <ul>
-        <li>ADJ: présent, technique, européen, possible, communautaire, nécessaire, présente, économique, autre, applicable</li>
-        <li>AUX: est, a, été, peut, voudrais, doit, devrait, sera, soit, suis</li>
-        <li>AUX-Fin: est, a, peut, voudrais, doit, devrait, sera, soit, suis, était</li>
-        <li>AUX-Part: été, pu, ayant, dû, étant</li>
-        <li>DET: le, la, l', une, un, ce, cette, toute, son, votre</li>
-        <li>NOUN: commission, parlement, oeuvre, programme, droit, sécurité, contrat, rapport, directive, conseil</li>
-        <li>PRON: il, je, ce, on, j', l', le, elle, cela, chacun</li>
-        <li>VERB-Fin: a, est, convient, fait, concerne, pense, faut, agit, demande, tiens</li>
-        <li>VERB-Part: dite, fait, tenu, compris, concernant, donné, visant, dit, demandé, proposé</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Number</a></li>
+</ul>
+
+<ul>
+  <li>Plur
+    <ul>
+      <li>ADJ: autres, nécessaires, applicables, structurels, dangereuses, mêmes, communautaires, techniques, disponibles, publicitaires</li>
+      <li>AUX-Fin: sont, ont, peuvent, soient, pouvez, étaient, devons, doivent, sommes, devraient</li>
+      <li>DET: les, des, ces, tous, ses, leurs, certains, nos, toutes, de</li>
+      <li>NOUN: membres, états, droits, fonds, mesures, exigences, produits, termes, transports, conditions</li>
+      <li>PRON: nous, vous, ils, elles, ceux, tous, autres, ceux-ci, leur, auxquelles</li>
+      <li>VERB-Fin: ont, font, espérons, choisissez, cliquez, utilisez, accumulent, appliquent, avons, demandons</li>
+      <li>VERB-Part: dites, utilisés, adoptées, harmonisées, prévues, rendues, accordés, appliquées, concernées, existants</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sing
+    <ul>
+      <li>ADJ: présent, technique, européen, possible, communautaire, nécessaire, présente, économique, autre, applicable</li>
+      <li>AUX: est, a, été, peut, voudrais, doit, devrait, sera, soit, suis</li>
+      <li>AUX-Fin: est, a, peut, voudrais, doit, devrait, sera, soit, suis, était</li>
+      <li>AUX-Part: été, pu, ayant, dû, étant</li>
+      <li>DET: le, la, l', une, un, ce, cette, toute, son, votre</li>
+      <li>NOUN: commission, parlement, oeuvre, programme, droit, sécurité, contrat, rapport, directive, conseil</li>
+      <li>PRON: il, je, ce, on, j', l', le, elle, cela, chacun</li>
+      <li>VERB-Fin: a, est, convient, fait, concerne, pense, faut, agit, demande, tiens</li>
+      <li>VERB-Part: dite, fait, tenu, compris, concernant, donné, visant, dit, demandé, proposé</li>
+    </ul>
+  </li>
+</ul>
 
 
 
-<li><a>Definite</a>
-  <ul>
-    <li>Def
-      <ul>
-        <li>DET: le, les, la, l', des, d', de</li>
-      </ul>
-    </li>
-    <li>Ind
-      <ul>
-        <li>DET: une, un, des, de, d', Aucune, du</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Definite</a></li>
+</ul>
+
+<ul>
+  <li>Def
+    <ul>
+      <li>DET: le, les, la, l', des, d', de</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: une, un, des, de, d', Aucune, du</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Degree and Polarity</h3>
 
 
-<li><a>Polarity</a>
-  <ul>
-    <li>Neg
-      <ul>
-        <li>ADV: pas</li>
-        <li>PART: ne, n'</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
+
+<ul>
+  <li>Neg
+    <ul>
+      <li>ADV: pas</li>
+      <li>PART: ne, n'</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Verbal Features</h3>
 
 
-<li><a>Mood</a>
-  <ul>
-    <li>Cnd
-      <ul>
-        <li>AUX-Fin: voudrais, devrait, devraient, serait, devrions, pourrait, aurait, aurions, pourraient, aurais</li>
-        <li>VERB-Fin: conviendrait, souhaiterais, aimeraient, altérerait, apparaîtra, augmenterait, aurait, entraîneraient, entraînerait, ferait</li>
-      </ul>
-    </li>
-    <li>Imp
-      <ul>
-        <li>VERB-Fin: cliquez, utilisez, Choisissez, Permettez, saisissez, Ajustez, Approfondissez, Assurez, Atteignez, Bâtissez</li>
-      </ul>
-    </li>
-    <li>Ind
-      <ul>
-        <li>AUX-Fin: est, a, sont, ont, peut, doit, sera, peuvent, pouvez, suis</li>
-        <li>VERB-Fin: a, est, convient, fait, ont, concerne, pense, font, faut, agit</li>
-      </ul>
-    </li>
-    <li>Sub
-      <ul>
-        <li>AUX-Fin: soient, soit, ait, aient, puissions, ayons, puisse, puissent, soyons</li>
-        <li>VERB-Fin: ait, permettent, prenne, soit, fonctionne, accélèrent, agisse, atteigne, clarifie, examine</li>
-      </ul>
-    </li>
-  </ul>
-</li>
 
-<li><a>Tense</a>
-  <ul>
-    <li>Fut
-      <ul>
-        <li>AUX-Fin: sera, devra, pourront, seront, pourra, aurai, aurons, auront, devrons, devront</li>
-        <li>VERB-Fin: aura, auront, dirai, ferai, soutiendra, acceptera, adhéreront, adopterons, adopteront, affichera</li>
-      </ul>
-    </li>
-    <li>Imp
-      <ul>
-        <li>AUX-Fin: était, avait, avaient, avions, étaient, avais, devait, devions, pouvait, voulions</li>
-        <li>VERB-Fin: avait, provenaient, recommandait, arrivait, attendait, avaient, constituaient, contenaient, contenait, couvrait</li>
-      </ul>
-    </li>
-    <li>Past
-      <ul>
-        <li>AUX-Part: été, pu, dû</li>
-        <li>VERB-Fin: agit, fournit, mis, pris, accélèrent, adhèrent, altèrent, génèrent, inclut, remplit</li>
-        <li>VERB-Part: dite, fait, tenu, compris, donné, mis, soumis, dit, nommés, demandé</li>
-      </ul>
-    </li>
-    <li>Pres
-      <ul>
-        <li>AUX: est, a, sont, ont, peut, voudrais, doit, devrait, soit, peuvent</li>
-        <li>AUX-Fin: est, a, sont, ont, peut, voudrais, doit, devrait, peuvent, soient</li>
-        <li>AUX-Part: ayant, étant</li>
-        <li>VERB-Fin: a, est, convient, fait, ont, concerne, pense, font, faut, demande</li>
-        <li>VERB-Inf: retirer</li>
-        <li>VERB-Part: concernant, visant, modifiant, existants, comprenant, participants, établissant, assurant, découlant, existante</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Mood</a></li>
+</ul>
+
+<ul>
+  <li>Cnd
+    <ul>
+      <li>AUX-Fin: voudrais, devrait, devraient, serait, devrions, pourrait, aurait, aurions, pourraient, aurais</li>
+      <li>VERB-Fin: conviendrait, souhaiterais, aimeraient, altérerait, apparaîtra, augmenterait, aurait, entraîneraient, entraînerait, ferait</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Imp
+    <ul>
+      <li>VERB-Fin: cliquez, utilisez, Choisissez, Permettez, saisissez, Ajustez, Approfondissez, Assurez, Atteignez, Bâtissez</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>AUX-Fin: est, a, sont, ont, peut, doit, sera, peuvent, pouvez, suis</li>
+      <li>VERB-Fin: a, est, convient, fait, ont, concerne, pense, font, faut, agit</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sub
+    <ul>
+      <li>AUX-Fin: soient, soit, ait, aient, puissions, ayons, puisse, puissent, soyons</li>
+      <li>VERB-Fin: ait, permettent, prenne, soit, fonctionne, accélèrent, agisse, atteigne, clarifie, examine</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Tense</a></li>
+</ul>
+
+<ul>
+  <li>Fut
+    <ul>
+      <li>AUX-Fin: sera, devra, pourront, seront, pourra, aurai, aurons, auront, devrons, devront</li>
+      <li>VERB-Fin: aura, auront, dirai, ferai, soutiendra, acceptera, adhéreront, adopterons, adopteront, affichera</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Imp
+    <ul>
+      <li>AUX-Fin: était, avait, avaient, avions, étaient, avais, devait, devions, pouvait, voulions</li>
+      <li>VERB-Fin: avait, provenaient, recommandait, arrivait, attendait, avaient, constituaient, contenaient, contenait, couvrait</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Past
+    <ul>
+      <li>AUX-Part: été, pu, dû</li>
+      <li>VERB-Fin: agit, fournit, mis, pris, accélèrent, adhèrent, altèrent, génèrent, inclut, remplit</li>
+      <li>VERB-Part: dite, fait, tenu, compris, donné, mis, soumis, dit, nommés, demandé</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Pres
+    <ul>
+      <li>AUX: est, a, sont, ont, peut, voudrais, doit, devrait, soit, peuvent</li>
+      <li>AUX-Fin: est, a, sont, ont, peut, voudrais, doit, devrait, peuvent, soient</li>
+      <li>AUX-Part: ayant, étant</li>
+      <li>VERB-Fin: a, est, convient, fait, ont, concerne, pense, font, faut, demande</li>
+      <li>VERB-Inf: retirer</li>
+      <li>VERB-Part: concernant, visant, modifiant, existants, comprenant, participants, établissant, assurant, découlant, existante</li>
+    </ul>
+  </li>
+</ul>
 
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
-<li><a>PronType</a>
-  <ul>
-    <li>Art
-      <ul>
-        <li>DET: le, les, la, l', une, un, des, d', de</li>
-      </ul>
-    </li>
-    <li>Dem
-      <ul>
-        <li>ADJ: tel</li>
-        <li>DET: des, ce, cette, ces, cet, de, d', telles, du</li>
-        <li>PRON: c', ce, cela, ceux, ça, ceci, celui, -ce, celle, celui-ci</li>
-      </ul>
-    </li>
-    <li>Exc
-      <ul>
-        <li>DET: quel</li>
-      </ul>
-    </li>
-    <li>Ind
-      <ul>
-        <li>DET: toute, certains, tout, aucune, chaque, quelques, aucun, autres, certaines, plusieurs</li>
-        <li>PRON: chacun, tous, Nul, autres, beaucoup, un, Quiconque, aucune, autre, autrui</li>
-      </ul>
-    </li>
-    <li>Int
-      <ul>
-        <li>DET: quel, quelle</li>
-        <li>PRON: quelle, Quel, Quels, quelles</li>
-      </ul>
-    </li>
-    <li>Neg
-      <ul>
-        <li>ADV: non</li>
-      </ul>
-    </li>
-    <li>Prs
-      <ul>
-        <li>ADP: En</li>
-        <li>DET: son, votre, sa, leur, ses, notre, leurs, mon, nos, vos</li>
-        <li>PRON: nous, il, je, vous, s', y, se, on, en, ils</li>
-      </ul>
-    </li>
-    <li>Rel
-      <ul>
-        <li>PRON: qui, que, qu', dont, où, laquelle, quoi, lequel, auxquelles, lesquels</li>
-      </ul>
-    </li>
-    <li>Tot
-      <ul>
-        <li>DET: tous, toutes, toute, tout</li>
-        <li>PRON: tous</li>
-      </ul>
-    </li>
-  </ul>
-</li>
 
-<li><a>NumType</a>
-  <ul>
-    <li>Card
-      <ul>
-        <li>NUM: 1, 2, deux, 3, 6, 2000, 2002, 1999, 2001, 2005</li>
-      </ul>
-    </li>
-    <li>Ord
-      <ul>
-        <li>ADJ: premier, première, dernier, dernière, sixième, 1er, troisième, derniers, I, III</li>
-        <li>PRON: derniers, premier, premiers</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>PronType</a></li>
+</ul>
 
-<li><a>Poss</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>PRON: sien</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li>Art
+    <ul>
+      <li>DET: le, les, la, l', une, un, des, d', de</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Dem
+    <ul>
+      <li>ADJ: tel</li>
+      <li>DET: des, ce, cette, ces, cet, de, d', telles, du</li>
+      <li>PRON: c', ce, cela, ceux, ça, ceci, celui, -ce, celle, celui-ci</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Exc
+    <ul>
+      <li>DET: quel</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: toute, certains, tout, aucune, chaque, quelques, aucun, autres, certaines, plusieurs</li>
+      <li>PRON: chacun, tous, Nul, autres, beaucoup, un, Quiconque, aucune, autre, autrui</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Int
+    <ul>
+      <li>DET: quel, quelle</li>
+      <li>PRON: quelle, Quel, Quels, quelles</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Neg
+    <ul>
+      <li>ADV: non</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Prs
+    <ul>
+      <li>ADP: En</li>
+      <li>DET: son, votre, sa, leur, ses, notre, leurs, mon, nos, vos</li>
+      <li>PRON: nous, il, je, vous, s', y, se, on, en, ils</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Rel
+    <ul>
+      <li>PRON: qui, que, qu', dont, où, laquelle, quoi, lequel, auxquelles, lesquels</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Tot
+    <ul>
+      <li>DET: tous, toutes, toute, tout</li>
+      <li>PRON: tous</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>NumType</a></li>
+</ul>
+
+<ul>
+  <li>Card
+    <ul>
+      <li>NUM: 1, 2, deux, 3, 6, 2000, 2002, 1999, 2001, 2005</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ord
+    <ul>
+      <li>ADJ: premier, première, dernier, dernière, sixième, 1er, troisième, derniers, I, III</li>
+      <li>PRON: derniers, premier, premiers</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Poss</a></li>
+</ul>
+
+<ul>
+  <li>Yes
+    <ul>
+      <li>PRON: sien</li>
+    </ul>
+  </li>
+</ul>
 
 
-<li><a>Person</a>
-  <ul>
-    <li>1
-      <ul>
-        <li>AUX-Fin: voudrais, suis, devons, sommes, ai, avons, devrions, allons, pouvons, vais</li>
-        <li>PRON: nous, je, j', me, m', moi, moi-même, -moi, -nous</li>
-        <li>VERB-Fin: pense, espérons, tiens, crois, avons, demandons, pensons, voyons, ai, espère</li>
-      </ul>
-    </li>
-    <li>2
-      <ul>
-        <li>AUX: pouvez, avez, êtes, devez, pourrez, va, voulez</li>
-        <li>AUX-Fin: pouvez, avez, êtes, devez, pourrez, voulez</li>
-        <li>PRON: vous, -vous</li>
-        <li>VERB-Fin: choisissez, cliquez, utilisez, avez, permettez, souhaitez, connaissez, publiez, saisissez, voyez</li>
-        <li>VERB-Part: dites</li>
-      </ul>
-    </li>
-    <li>3
-      <ul>
-        <li>ADP: En</li>
-        <li>AUX: est, a, sont, ont, peut, doit, devrait, sera, soit, peuvent</li>
-        <li>AUX-Fin: est, a, sont, ont, peut, doit, devrait, sera, peuvent, soient</li>
-        <li>DET: une</li>
-        <li>PRON: il, ce, s', se, on, ils, l', le, elle, elles</li>
-        <li>VERB-Fin: a, est, convient, ont, fait, concerne, font, faut, agit, apporte</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Person</a></li>
+</ul>
+
+<ul>
+  <li>1
+    <ul>
+      <li>AUX-Fin: voudrais, suis, devons, sommes, ai, avons, devrions, allons, pouvons, vais</li>
+      <li>PRON: nous, je, j', me, m', moi, moi-même, -moi, -nous</li>
+      <li>VERB-Fin: pense, espérons, tiens, crois, avons, demandons, pensons, voyons, ai, espère</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>2
+    <ul>
+      <li>AUX: pouvez, avez, êtes, devez, pourrez, va, voulez</li>
+      <li>AUX-Fin: pouvez, avez, êtes, devez, pourrez, voulez</li>
+      <li>PRON: vous, -vous</li>
+      <li>VERB-Fin: choisissez, cliquez, utilisez, avez, permettez, souhaitez, connaissez, publiez, saisissez, voyez</li>
+      <li>VERB-Part: dites</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>3
+    <ul>
+      <li>ADP: En</li>
+      <li>AUX: est, a, sont, ont, peut, doit, devrait, sera, soit, peuvent</li>
+      <li>AUX-Fin: est, a, sont, ont, peut, doit, devrait, sera, peuvent, soient</li>
+      <li>DET: une</li>
+      <li>PRON: il, ce, s', se, on, ils, l', le, elle, elles</li>
+      <li>VERB-Fin: a, est, convient, ont, fait, concerne, font, faut, agit, apporte</li>
+    </ul>
+  </li>
+</ul>
 
 
 
@@ -455,6 +554,9 @@ In Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT-13
 
 <ul>
 <li>This corpus uses 5 lemmas as copulas (<a>cop</a>). Examples: être, suivre, étayer, etre, est.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 7 lemmas as auxiliaries (<a>aux</a>). Examples: avoir, pouvoir, devoir, être, vouloir, aller, savoir.</li>
 <li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: être, avoir, étayer.</li>
 </ul>
@@ -514,6 +616,6 @@ Here we consider only relations between verbs (parent) and nouns or pronouns (ch
 <h3>Relations Overview</h3>
 
 <ul>
-<li>This corpus uses 14 relation subtypes: <a>acl:cleft</a>, <a>acl:relcl</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>dislocated:cleft</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>iobj:agent</a>, <a>nsubj:caus</a>, <a>nsubj:expl</a>, <a>nsubj:pass</a>, <a>obj:agent</a>, <a>obl:agent</a></li>
+<li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>iobj:agent</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obj:agent</a>, <a>obl:agent</a></li>
 <li>The following 3 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a>, <a>reparandum</a></li>
 </ul>

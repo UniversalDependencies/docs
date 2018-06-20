@@ -11,7 +11,7 @@ It occurs with 1 different values: `Nfh`.
 
 219 tokens (1%) have a non-empty value of `Evident`.
 156 types (2%) occur at least once with a non-empty value of `Evident`.
-1 lemmas (0) occur at least once with a non-empty value of `Evident`.
+119 lemmas (3%) occur at least once with a non-empty value of `Evident`.
 The feature is used with 3 part-of-speech tags: <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (170; 1% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (26; 0% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (23; 0% instances).
 
 ### `VERB`
@@ -25,6 +25,8 @@ The most frequent other feature values with which `VERB` and `Evident` co-occurr
 * `Nfh` (170; 100% of non-empty `Evident`): <em>etmiştir, başlamıştır, edilmiştir, almıştır, edilmiş, gelmiştir, etmiş, vermiştir, yapmıştır, bölünmüştür</em>
 * `EMPTY` (849): <em>dedi, etti, ise, başladı, söyledi, çıktı, verdi, ediyor, geldi, aldı</em>
 
+`Evident` seems to be **lexical feature** of `VERB`. 100% lemmas (98) occur only with one value of `Evident`.
+
 ### `ADJ`
 
 26 <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> tokens (1% of all `ADJ` tokens) have a non-empty value of `Evident`.
@@ -35,6 +37,8 @@ The most frequent other feature values with which `ADJ` and `Evident` co-occurre
 
 * `Nfh` (26; 100% of non-empty `Evident`): <em>Birleşmiş, adanmış, alışılmamış, biçilmiş, cevaplanamamış, donatılmış, donmuş, doğmamış, edilmiş, esnemiş</em>
 * `EMPTY` (1718): <em>büyük, yeni, son, sahip, fazla, ilk, aynı, eden, iyi, olan</em>
+
+`Evident` seems to be **lexical feature** of `ADJ`. 100% lemmas (23) occur only with one value of `Evident`.
 
 ### `AUX`
 

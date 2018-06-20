@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is universal.
 
-20 nodes (1%) are attached to their parents as `acl`.
+149 nodes (2%) are attached to their parents as `acl`.
 
-12 instances of `acl` (60%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.6.
+96 instances of `acl` (64%) are right-to-left (child precedes parent).
+Average distance between parent and child is 2.79865771812081.
 
-The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (18; 90% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (1; 5% instances), <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (1; 5% instances).
+The following 13 pairs of parts of speech are connected with `acl`: <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (128; 86% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (3; 2% instances), <tt><a href="zh_hk-pos-DET.html">DET</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-AUX.html">AUX</a></tt> (2; 1% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt> (2; 1% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (2; 1% instances), <tt><a href="zh_hk-pos-PRON.html">PRON</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (2; 1% instances), <tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-ADV.html">ADV</a></tt> (1; 1% instances), <tt><a href="zh_hk-pos-NOUN.html">NOUN</a></tt>-<tt><a href="zh_hk-pos-PROPN.html">PROPN</a></tt> (1; 1% instances).
 
 
 ~~~ conllu
@@ -34,25 +34,22 @@ The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="
 
 
 ~~~ conllu
-# visual-style 12	bgColor:blue
-# visual-style 12	fgColor:white
 # visual-style 10	bgColor:blue
 # visual-style 10	fgColor:white
-# visual-style 10 12 acl	color:blue
-1	因為	因為	ADV	_	_	9	advmod	_	SpaceAfter=No
-2	我們	我們	PRON	_	_	9	nsubj	_	SpaceAfter=No
-3	退休	退休	VERB	_	_	5	acl	_	SpaceAfter=No
-4	之	之	PART	_	_	3	mark:rel	_	SpaceAfter=No
-5	年	年	NOUN	_	_	9	obl:tmod	_	SpaceAfter=No
-6	，	，	PUNCT	_	_	5	punct	_	SpaceAfter=No
-7	和	和	ADP	_	_	8	case	_	SpaceAfter=No
-8	子女	子女	NOUN	_	_	9	obl	_	SpaceAfter=No
-9	有	有	VERB	_	_	0	root	_	SpaceAfter=No
-10	什麼	什麼	PRON	_	_	9	obj	_	SpaceAfter=No
-11	好	好	AUX	_	_	12	aux	_	SpaceAfter=No
-12	談	談	VERB	_	_	10	acl	_	SpaceAfter=No
-13	呢	呢	PART	_	_	9	discourse:sp	_	SpaceAfter=No
-14	？	？	PUNCT	_	_	9	punct	_	SpaceAfter=No
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 7 10 acl	color:blue
+1	喂	_	INTJ	_	_	3	discourse	_	SpaceAfter=No
+2	，	_	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	關係	_	VERB	_	_	0	root	_	SpaceAfter=No
+4	到	_	ADP	_	_	7	mark:rel	_	SpaceAfter=No
+5	將來	_	NOUN	_	_	7	obl:tmod	_	SpaceAfter=No
+6	你	_	PRON	_	_	7	nsubj	_	SpaceAfter=No
+7	有	_	VERB	_	_	3	ccomp	_	SpaceAfter=No
+8	沒有	_	VERB	_	_	7	conj	_	SpaceAfter=No
+9	利是錢	_	NOUN	_	_	7	obj	_	SpaceAfter=No
+10	收	_	VERB	_	_	7	acl	_	SpaceAfter=No
+11	。	_	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 ~~~
 
@@ -60,20 +57,17 @@ The following 3 pairs of parts of speech are connected with `acl`: <tt><a href="
 ~~~ conllu
 # visual-style 7	bgColor:blue
 # visual-style 7	fgColor:white
-# visual-style 9	bgColor:blue
-# visual-style 9	fgColor:white
-# visual-style 9 7 acl	color:blue
-1	這	_	PRON	_	_	9	nsubj	_	SpaceAfter=No
-2	不	_	ADV	_	_	9	advmod	_	SpaceAfter=No
-3	就	_	ADV	_	_	9	advmod	_	SpaceAfter=No
-4	是	_	VERB	_	_	9	cop	_	SpaceAfter=No
-5	你	_	PRON	_	_	7	nsubj	_	SpaceAfter=No
-6	很	_	ADV	_	_	7	advmod	_	SpaceAfter=No
-7	喜歡	_	VERB	_	_	9	acl	_	SpaceAfter=No
-8	的	_	PART	_	_	7	mark:rel	_	SpaceAfter=No
-9	悟空	_	PROPN	_	_	0	root	_	SpaceAfter=No
-10	嗎	_	PART	_	_	9	discourse:sp	_	SpaceAfter=No
-11	？	_	PUNCT	_	_	9	punct	_	SpaceAfter=No
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 7 acl	color:blue
+1	都	_	ADV	_	_	3	advmod	_	SpaceAfter=No
+2	不	_	ADV	_	_	3	advmod	_	SpaceAfter=No
+3	知	_	VERB	_	_	0	root	_	SpaceAfter=No
+4	有	_	VERB	_	_	3	ccomp	_	SpaceAfter=No
+5	什麼	_	DET	_	_	4	obj	_	SpaceAfter=No
+6	好	_	AUX	_	_	7	aux	_	SpaceAfter=No
+7	聽	_	VERB	_	_	5	acl	_	SpaceAfter=No
+8	。	_	PUNCT	_	_	3	punct	_	SpaceAfter=No
 
 ~~~
 

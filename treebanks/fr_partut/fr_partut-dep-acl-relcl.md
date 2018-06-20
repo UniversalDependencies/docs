@@ -7,7 +7,6 @@ udver: '2'
 ## Treebank Statistics: UD_French-ParTUT: Relations: `acl:relcl`
 
 This relation is a language-specific subtype of <tt><a href="fr_partut-dep-acl.html">acl</a></tt>.
-There are also 1 other language-specific subtypes of `acl`: <tt><a href="fr_partut-dep-acl-cleft.html">acl:cleft</a></tt>.
 
 301 nodes (1%) are attached to their parents as `acl:relcl`.
 

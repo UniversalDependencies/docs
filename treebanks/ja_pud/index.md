@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Atsuko Shimada, Anna Trukhina, Martin Popel, Daniel Zeman, Hiroshi Kanayama.
 
-Repository: [UD_Japanese-PUD](https://github.com/UniversalDependencies/UD_Japanese-PUD)
+Repository: [UD_Japanese-PUD](https://github.com/UniversalDependencies/UD_Japanese-PUD)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udja_pud)
 
 License: CC BY-SA 3.0
 
@@ -74,7 +75,6 @@ shared task). If it is used for training in future research, the users should
 employ ten-fold cross-validation.
 
 
-
 ## Acknowledgments
 
 # Statistics of UD Japanese PUD
@@ -93,11 +93,24 @@ employ ten-fold cross-validation.
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 1000 sentences and 26818 tokens.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 25817 tokens (96%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
-<li>This corpus contains 38 types of words that contain both letters and punctuation. Examples: 、と, ドナルド・トランプ, B.C, 、という, 、を, G.D.P, HerFatherDidn'tLikeMeAnyway, Thought'YaKnew, Z.A, Zettel’sTraum, 、の, 」な, ウォルト・ディズニー, エル・グレコ, オート・ガロンヌ, オードリー・ヘプバーン, カサ・サンタ・マルタ, カステルフランコ・ヴェネト, サン・ゴーダン, シガー・ロス, シー・オブ・ジ・アンティレス, ジョン・ディ・ドメニコ, スティーラーズ・ホイール, ストレンジャー・シングズ, トーキング・デッド, ド・ゴール, ハーバード・ビジネス・スクール, バハ・カリフォルニヤ, ヒラリー・クリントン, フェデリコ・フェリーニ, フランツ・ヨーゼフ, プンタ・デル・エステ, プンタ・ラサ, マラー/サド, メラニア・トランプ, ラッセ・ハルストレム, ル・コント, ルーカス・クラナッハ</li>
+</ul>
+
+<ul>
+<li>This corpus contains 38 types of words that contain both letters and punctuation. Examples: 、と, ドナルド・トランプ, B.C, 、という, 、を, G.D.P, H​e​r​F​a​t​h​e​r​D​i​d​n​'​t​L​i​k​e​M​e​A​n​y​w​a​y, Thought'YaKnew, Z.A, Zettel’sTraum, 、の, 」な, ウォルト・ディズニー, エル・グレコ, オート・ガロンヌ, オードリー・ヘプバーン, カサ・サンタ・マルタ, カステルフランコ・ヴェネト, サン・ゴーダン, シガー・ロス, シー・オブ・ジ・アンティレス, ジョン・ディ・ドメニコ, スティーラーズ・ホイール, ストレンジャー・シングズ, トーキング・デッド, ド・ゴール, ハーバード・ビジネス・スクール, バハ・カリフォルニヤ, ヒラリー・クリントン, フェデリコ・フェリーニ, フランツ・ヨーゼフ, プンタ・デル・エステ, プンタ・ラサ, マラー/サド, メラニア・トランプ, ラッセ・ハルストレム, ル・コント, ルーカス・クラナッハ</li>
+</ul>
+
+<ul>
 </ul>
 
 <h2>Morphology</h2>
@@ -107,6 +120,9 @@ employ ten-fold cross-validation.
 <ul>
 <li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a></li>
 <li>This corpus does not use the following tags: INTJ, X</li>
+</ul>
+
+<ul>
 <li>This corpus contains 19 word types tagged as particles (PART): 、の, か, かい, かどうか, さ, とともに, と共に, に, において, における, にとって, の, ん, 最大, 最高, 第, 紀元前, 約, 翌</li>
 </ul>
 
@@ -130,7 +146,9 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Fin
   <ul>
@@ -140,6 +158,9 @@ employ ten-fold cross-validation.
     <li>VERB: ある, なる, いる, 思う, 言う, いう, 始まる, いえる, かかる, する</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Ger
   <ul>
     <li>ADJ: なく, なかっ, 上手く, 大きく, うまく, 余儀なく, 少なく, 広く, 著しく, 間違いなく</li>
@@ -151,113 +172,139 @@ employ ten-fold cross-validation.
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
 
 
-<li><a>Number</a>
-  <ul>
-    <li>Plur
-      <ul>
-        <li>NOUN: 自身</li>
-        <li>PRON: 彼ら, これら, 私たち, それら, 私達, 我々, かれら, みなさん, 君たち, 皆</li>
-      </ul>
-    </li>
-  </ul>
-</li>
 
-<li><a>Case</a>
-  <ul>
-    <li>Acc
-      <ul>
-        <li>ADP: を</li>
-      </ul>
-    </li>
-    <li>Advb
-      <ul>
-        <li>ADP: に, で, から, と, へ, について, により, に対する, より, によって</li>
-        <li>AUX: に, で</li>
-        <li>PART: において, における, にとって, と共に, とともに, に</li>
-        <li>SCONJ: と</li>
-      </ul>
-    </li>
-    <li>Comp
-      <ul>
-        <li>ADP: と, に, という</li>
-        <li>AUX: に</li>
-        <li>SCONJ: と</li>
-      </ul>
-    </li>
-    <li>Gen
-      <ul>
-        <li>ADP: の</li>
-        <li>AUX: の</li>
-        <li>PART: の</li>
-      </ul>
-    </li>
-    <li>Nom
-      <ul>
-        <li>ADP: が</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Number</a></li>
+</ul>
+
+<ul>
+  <li>Plur
+    <ul>
+      <li>NOUN: 自身</li>
+      <li>PRON: 彼ら, これら, 私たち, それら, 私達, 我々, かれら, みなさん, 君たち, 皆</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Case</a></li>
+</ul>
+
+<ul>
+  <li>Acc
+    <ul>
+      <li>ADP: を</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Advb
+    <ul>
+      <li>ADP: に, で, から, と, へ, について, により, に対する, より, によって</li>
+      <li>AUX: に, で</li>
+      <li>PART: において, における, にとって, と共に, とともに, に</li>
+      <li>SCONJ: と</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Comp
+    <ul>
+      <li>ADP: と, に, という</li>
+      <li>AUX: に</li>
+      <li>SCONJ: と</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Gen
+    <ul>
+      <li>ADP: の</li>
+      <li>AUX: の</li>
+      <li>PART: の</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Nom
+    <ul>
+      <li>ADP: が</li>
+    </ul>
+  </li>
+</ul>
 
 
 
 <h3>Degree and Polarity</h3>
 
 
-<li><a>Polarity</a>
-  <ul>
-    <li>Neg
-      <ul>
-        <li>AUX: ない, なかっ, ず, ん, なく, あり</li>
-        <li>AUX-Fin: ない, ん, ず</li>
-        <li>AUX-Ger: なかっ, ず, なく, あり</li>
-        <li>NOUN: こと</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
+
+<ul>
+  <li>Neg
+    <ul>
+      <li>AUX: ない, なかっ, ず, ん, なく, あり</li>
+      <li>AUX-Fin: ない, ん, ず</li>
+      <li>AUX-Ger: なかっ, ず, なく, あり</li>
+      <li>NOUN: こと</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Verbal Features</h3>
 
 
 
-<li><a>Tense</a>
-  <ul>
-    <li>Past
-      <ul>
-        <li>AUX: た, だ, たら</li>
-        <li>AUX-Fin: た, だ</li>
-      </ul>
-    </li>
-  </ul>
-</li>
 
-<li><a>Voice</a>
-  <ul>
-    <li>Cau
-      <ul>
-        <li>AUX: せ, せる, させ, させる, しめ</li>
-        <li>AUX-Fin: せる</li>
-        <li>AUX-Ger: せ, させ, しめ</li>
-      </ul>
-    </li>
-    <li>Pass
-      <ul>
-        <li>AUX: れ, れる, られ, られる, れれ</li>
-        <li>AUX-Fin: れる, られる</li>
-        <li>AUX-Ger: れ, られ</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Tense</a></li>
+</ul>
+
+<ul>
+  <li>Past
+    <ul>
+      <li>AUX: た, だ, たら</li>
+      <li>AUX-Fin: た, だ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Voice</a></li>
+</ul>
+
+<ul>
+  <li>Cau
+    <ul>
+      <li>AUX: せ, せる, させ, させる, しめ</li>
+      <li>AUX-Fin: せる</li>
+      <li>AUX-Ger: せ, させ, しめ</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Pass
+    <ul>
+      <li>AUX: れ, れる, られ, られる, れれ</li>
+      <li>AUX-Fin: れる, られる</li>
+      <li>AUX-Ger: れ, られ</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
@@ -266,65 +313,77 @@ employ ten-fold cross-validation.
 
 
 
-<li><a>Person</a>
-  <ul>
-    <li>1
-      <ul>
-        <li>NOUN: うち, 自分</li>
-        <li>PRON: 私, 私たち, 我々, 私達</li>
-      </ul>
-    </li>
-    <li>2
-      <ul>
-        <li>PRON: あなた, 君たち</li>
-      </ul>
-    </li>
-    <li>3
-      <ul>
-        <li>NOUN: 自身, 自分, 自ら, やつ, 本人</li>
-        <li>PRON: 彼, それ, 彼女, これ, 彼ら, そこ, これら, ここ, それら, かれら</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+
+<ul>
+  <li><a>Person</a></li>
+</ul>
+
+<ul>
+  <li>1
+    <ul>
+      <li>NOUN: うち, 自分</li>
+      <li>PRON: 私, 私たち, 我々, 私達</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>2
+    <ul>
+      <li>PRON: あなた, 君たち</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>3
+    <ul>
+      <li>NOUN: 自身, 自分, 自ら, やつ, 本人</li>
+      <li>PRON: 彼, それ, 彼女, これ, 彼ら, そこ, これら, ここ, それら, かれら</li>
+    </ul>
+  </li>
+</ul>
 
 
 
 
 <h3>Other Features</h3>
 
-<li><a>Form</a>
-  <ul>
-    <li>Adn
-      <ul>
-        <li>ADJ: 新しい, 高い, ない, 素晴らしい, 厳しい, 古い, 若い, 深い, いい, 低い</li>
-        <li>AUX: な, た, する, いる, である, ない, れる, せる, だ, できる</li>
-        <li>VERB: ある, なる, する, 使う, 含む, 得る, 持つ, 続く, 見る, いう</li>
-      </ul>
-    </li>
-    <li>Irr
-      <ul>
-        <li>AUX: さ, い, だろ, し, ませ, であろ, でき, られ, おら, れ</li>
-        <li>VERB: 知ら, 考え, 行わ, 信じ, 思わ, 使わ, し, でき, 呼ば, い</li>
-      </ul>
-    </li>
-    <li>Real
-      <ul>
-        <li>ADJ: なけれ</li>
-        <li>AUX: いれ, たら, であれ, なら, れれ</li>
-        <li>VERB: なれ, やめれ, 見れ</li>
-      </ul>
-    </li>
-    <li>Spcf
-      <ul>
-        <li>ADJ: 堅苦し</li>
-        <li>AUX: べき</li>
-        <li>NOUN: 高さ, 美しさ, 長さ</li>
-        <li>VERB: 明るみ</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+
+<ul>
+  <li><a>Form</a>
+    <ul>
+      <li>Adn
+        <ul>
+          <li>ADJ: 新しい, 高い, ない, 素晴らしい, 厳しい, 古い, 若い, 深い, いい, 低い</li>
+          <li>AUX: な, た, する, いる, である, ない, れる, せる, だ, できる</li>
+          <li>VERB: ある, なる, する, 使う, 含む, 得る, 持つ, 続く, 見る, いう</li>
+        </ul>
+      </li>
+      <li>Irr
+        <ul>
+          <li>AUX: さ, い, だろ, し, ませ, であろ, でき, られ, おら, れ</li>
+          <li>VERB: 知ら, 考え, 行わ, 信じ, 思わ, 使わ, し, でき, 呼ば, い</li>
+        </ul>
+      </li>
+      <li>Real
+        <ul>
+          <li>ADJ: なけれ</li>
+          <li>AUX: いれ, たら, であれ, なら, れれ</li>
+          <li>VERB: なれ, やめれ, 見れ</li>
+        </ul>
+      </li>
+      <li>Spcf
+        <ul>
+          <li>ADJ: 堅苦し</li>
+          <li>AUX: べき</li>
+          <li>NOUN: 高さ, 美しさ, 長さ</li>
+          <li>VERB: 明るみ</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 
@@ -332,6 +391,9 @@ employ ten-fold cross-validation.
 
 <ul>
 <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: だ.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 47 lemmas as auxiliaries (<a>aux</a>). Examples: た, する, だ, いる, れる, こと, ない, ます, ようだ, う, られる, せる, なる, おる, 来る, できる, たい, べし, 始める, かもしれる, さ, *可能*, しまう, なければ, 続ける, すぎる, たら, 化, いく, かける, くれる, させる, そうだ, でした, 出す, *使役*, うる, しめる, たろ, なさる, なら, やすい, ゆく, らしい, 終える, 良い, 行く.</li>
 </ul>
 

@@ -8,12 +8,12 @@ udver: '2'
 
 This relation is a language-specific subtype of <tt><a href="ro_nonstandard-dep-csubj.html">csubj</a></tt>.
 
-10 nodes (0%) are attached to their parents as `csubj:pass`.
+26 nodes (0%) are attached to their parents as `csubj:pass`.
 
-7 instances of `csubj:pass` (70%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.9.
+17 instances of `csubj:pass` (65%) are left-to-right (parent precedes child).
+Average distance between parent and child is 5.53846153846154.
 
-The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (10; 100% instances).
+The following 2 pairs of parts of speech are connected with `csubj:pass`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt> (24; 92% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt> (2; 8% instances).
 
 
 ~~~ conllu
@@ -41,6 +41,31 @@ The following 1 pairs of parts of speech are connected with `csubj:pass`: <tt><a
 17	-n	în	ADP	Spsa	AdpType=Prep|Case=Acc	18	case	_	_
 18	mormânt	mormânt	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	11	obl	_	Rhyme=ID14|SpaceAfter=No|Type=Paired
 19	.	.	PUNCT	PERIOD	_	7	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 13	bgColor:blue
+# visual-style 13	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 13 csubj:pass	color:blue
+1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	6	cc	_	ref=IOAN8.17
+2	și	și	ADV	Rg	_	4	advmod	_	ref=IOAN8.17
+3	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	4	case	_	ref=IOAN8.17
+4	leagea	lege	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	6	obl	_	ref=IOAN8.17
+5	voastră	tău	DET	Ds2fsrp	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|PronType=Prs	4	det	_	ref=IOAN8.17
+6	scrisu	scrie	VERB	Vmp	VerbForm=Part	0	root	_	ref=IOAN8.17|SpaceAfter=No
+7	-i	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	6	aux:pass	_	ref=IOAN8.17
+8	că	că	SCONJ	Csssp	Polarity=Pos	13	mark	_	ref=IOAN8.17
+9	a	al	ADP	Spsa	AdpType=Prep|Case=Acc	11	case	_	ref=IOAN8.17
+10	doi	doi	NUM	Mcmp-l	Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	11	nummod	_	ref=IOAN8.17
+11	oameni	om	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	12	nmod	_	ref=IOAN8.17
+12	mărturiia	mărturie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	13	nsubj	_	ref=IOAN8.17
+13	adevărată	adevărat	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	6	csubj:pass	_	ref=IOAN8.17
+14	iaste	fi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	ref=IOAN8.17|SpaceAfter=No
+15	.	.	PUNCT	PERIOD	_	6	punct	_	ref=IOAN8.17
 
 ~~~
 

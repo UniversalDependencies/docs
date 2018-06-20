@@ -151,7 +151,7 @@ The 10 most frequent relations where parent and child node agree in `Number`:
 <tt>NOUN --[<tt><a href="fr_partut-dep-conj.html">conj</a></tt>]--> NOUN</tt> (397; 79%),
 <tt>VERB --[<tt><a href="fr_partut-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (370; 56%),
 <tt>VERB --[<tt><a href="fr_partut-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (324; 75%),
-<tt>NOUN --[<tt><a href="fr_partut-dep-acl.html">acl</a></tt>]--> VERB</tt> (297; 66%),
+<tt>NOUN --[<tt><a href="fr_partut-dep-acl.html">acl</a></tt>]--> VERB</tt> (298; 66%),
 <tt>VERB --[<tt><a href="fr_partut-dep-aux-pass.html">aux:pass</a></tt>]--> AUX</tt> (150; 63%),
 <tt>VERB --[<tt><a href="fr_partut-dep-nsubj-pass.html">nsubj:pass</a></tt>]--> NOUN</tt> (142; 91%),
 <tt>NOUN --[<tt><a href="fr_partut-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (125; 66%).

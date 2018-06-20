@@ -9,12 +9,12 @@ udver: '2'
 This relation is a language-specific subtype of <tt><a href="zh_hk-dep-compound.html">compound</a></tt>.
 There are also 3 other language-specific subtypes of `compound`: <tt><a href="zh_hk-dep-compound-dir.html">compound:dir</a></tt>, <tt><a href="zh_hk-dep-compound-ext.html">compound:ext</a></tt>, <tt><a href="zh_hk-dep-compound-vo.html">compound:vo</a></tt>.
 
-23 nodes (1%) are attached to their parents as `compound:vv`.
+72 nodes (1%) are attached to their parents as `compound:vv`.
 
-23 instances of `compound:vv` (100%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.17391304347826.
+72 instances of `compound:vv` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.16666666666667.
 
-The following 2 pairs of parts of speech are connected with `compound:vv`: <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (15; 65% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (8; 35% instances).
+The following 2 pairs of parts of speech are connected with `compound:vv`: <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-VERB.html">VERB</a></tt> (46; 64% instances), <tt><a href="zh_hk-pos-VERB.html">VERB</a></tt>-<tt><a href="zh_hk-pos-ADJ.html">ADJ</a></tt> (26; 36% instances).
 
 
 ~~~ conllu
@@ -24,7 +24,7 @@ The following 2 pairs of parts of speech are connected with `compound:vv`: <tt><
 # visual-style 2	fgColor:white
 # visual-style 2 3 compound:vv	color:blue
 1	該	_	AUX	_	_	2	aux	_	SpaceAfter=No
-2	取	_	VERB	_	_	6	dislocated	_	SpaceAfter=No
+2	取	_	VERB	_	_	6	obj:periph	_	SpaceAfter=No
 3	走	_	VERB	_	_	2	compound:vv	_	SpaceAfter=No
 4	的	_	PART	_	_	2	mark:rel	_	SpaceAfter=No
 5	都	_	ADV	_	_	6	advmod	_	SpaceAfter=No

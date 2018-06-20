@@ -75,7 +75,7 @@ The following 8 pairs of parts of speech are connected with `orphan`: <tt><a hre
 21	sweep	sweep	NOUN	S	Number=Sing	17	orphan	_	_
 22	exhibited	exhibit	VERB	V	Tense=Past|VerbForm=Part	21	acl	_	_
 23	by	by	ADP	E	_	24	case	_	_
-24	Balzac	Balzac	PROPN	SP	_	22	obl:agent	_	_
+24	Balzac	Balzac	PROPN	SP	_	22	obl	_	_
 25	-	-	PUNCT	FF	_	7	punct	_	_
 26	a	a	DET	RI	Definite=Ind|Number=Sing|PronType=Art	29	det	_	_
 27	conscious	conscious	ADJ	A	Degree=Pos	29	amod	_	_

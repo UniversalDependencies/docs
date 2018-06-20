@@ -65,7 +65,7 @@ The following 8 pairs of parts of speech are connected with `expl`: <tt><a href=
 # visual-style 3	fgColor:white
 # visual-style 3 4 expl	color:blue
 1	Facebook	Facebook	PROPN	SP	_	3	nsubj	_	_
-2	Adverts	Adverts	PROPN	SP	_	1	flat:name	_	_
+2	Adverts	Adverts	PROPN	SP	_	1	flat	_	_
 3	makes	make	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	it	it	PRON	PE	Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 5	easy	easy	ADJ	A	Degree=Pos	3	xcomp	_	_

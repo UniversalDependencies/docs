@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
 The following people have contributed to making this treebank part of UD: John Lee, Herman Leung, Keying Li.
 
-Repository: [UD_Chinese-CFL](https://github.com/UniversalDependencies/UD_Chinese-CFL)
+Repository: [UD_Chinese-CFL](https://github.com/UniversalDependencies/UD_Chinese-CFL)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udzh_cfl)
 
 License: CC BY-SA 4.0
 
@@ -28,6 +29,9 @@ Questions, comments?
 General annotation questions (either Chinese-specific or cross-linguistic) can be raised in the [main UD issue tracker](https://github.com/UniversalDependencies/docs/issues).
 You can report bugs in this treebank in the [treebank-specific issue tracker on Github](https://github.com/UniversalDependencies/UD_Chinese-CFL/issues).
 If you want to collaborate, please contact [keyingli3-c&nbsp;(æt)&nbsp;my&nbsp;•&nbsp;cityu&nbsp;•&nbsp;edu&nbsp;•&nbsp;hk, tswong-c&nbsp;(æt)&nbsp;my&nbsp;•&nbsp;cityu&nbsp;•&nbsp;edu&nbsp;•&nbsp;hk, jsylee&nbsp;(æt)&nbsp;cityu&nbsp;•&nbsp;edu&nbsp;•&nbsp;hk].
+Development of the treebank happens outside the UD repository.
+If there are bugs, either the original data source or the conversion procedure must be fixed.
+Do not submit pull requests against the UD repository.
 
 | Annotation | Source |
 |------------|--------|
@@ -135,11 +139,24 @@ This work is partially supported by a Strategic Research Grant (Project no. 7004
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 451 sentences and 7256 tokens.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 7256 tokens (100%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words that contain both letters and punctuation.</li>
+</ul>
+
+<ul>
 </ul>
 
 <h2>Morphology</h2>
@@ -149,6 +166,9 @@ This work is partially supported by a Strategic Research Grant (Project no. 7004
 <ul>
 <li>This corpus uses 15 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>VERB</a></li>
 <li>This corpus does not use the following tags: SYM, X</li>
+</ul>
+
+<ul>
 <li>This corpus contains 11 word types tagged as particles (PART): 。, 了, 吗, 吧, 呢, 和, 啊, 嗬, 地, 得, 的</li>
 </ul>
 
@@ -184,7 +204,9 @@ This work is partially supported by a Strategic Research Grant (Project no. 7004
 
 
 
+
 <h3>Degree and Polarity</h3>
+
 
 
 
@@ -196,7 +218,9 @@ This work is partially supported by a Strategic Research Grant (Project no. 7004
 
 
 
+
 <h3>Pronouns, Determiners, Quantifiers</h3>
+
 
 
 
@@ -215,6 +239,9 @@ This work is partially supported by a Strategic Research Grant (Project no. 7004
 
 <ul>
 <li>This corpus uses 2 lemmas as copulas (<a>cop</a>). Examples: 是、 就是.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 30 lemmas as auxiliaries (<a>aux</a>). Examples: 了、 着、 要、 会、 能、 想、 过、 可以、 没、 应该、 爱、 得、 敢、 需要、 可能、 没有、 不得、 似乎、 似的、 喜欢、 回、 好像、 宁愿、 就、 希望、 必须、 愿意、 懒得、 起来、 这.</li>
 </ul>
 

@@ -8,26 +8,49 @@ udver: '2'
 
 This relation is universal.
 
-197 nodes (1%) are attached to their parents as `fixed`.
+920 nodes (1%) are attached to their parents as `fixed`.
 
-177 instances of `fixed` (90%) are left-to-right (parent precedes child).
-Average distance between parent and child is 1.04568527918782.
+920 instances of `fixed` (100%) are left-to-right (parent precedes child).
+Average distance between parent and child is 1.00652173913043.
 
-The following 19 pairs of parts of speech are connected with `fixed`: <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (75; 38% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> (44; 22% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (18; 9% instances), <tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt>-<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (14; 7% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (13; 7% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (7; 4% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> (4; 2% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (3; 2% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (3; 2% instances), <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (3; 2% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (3; 2% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (2; 1% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt>-<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (2; 1% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (1; 1% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> (1; 1% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> (1; 1% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (1; 1% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (1; 1% instances), <tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt>-<tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> (1; 1% instances).
+The following 29 pairs of parts of speech are connected with `fixed`: <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (502; 55% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> (205; 22% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> (44; 5% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (34; 4% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> (23; 3% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (17; 2% instances), <tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt>-<tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> (14; 2% instances), <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> (12; 1% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (11; 1% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (9; 1% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt> (9; 1% instances), <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (8; 1% instances), <tt><a href="ro_nonstandard-pos-AUX.html">AUX</a></tt>-<tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> (5; 1% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (4; 0% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (3; 0% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> (2; 0% instances), <tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt>-<tt><a href="ro_nonstandard-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ro_nonstandard-pos-PART.html">PART</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-CCONJ.html">CCONJ</a></tt>-<tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt>-<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="ro_nonstandard-pos-ADP.html">ADP</a></tt> (1; 0% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 2 fixed	color:blue
-1	DE	de	ADP	Spsa	AdpType=Prep|Case=Acc	3	case	_	ref=MATT.title
-2	LA	la	ADP	Spsa	AdpType=Prep|Case=Acc	1	fixed	_	ref=MATT.title
-3	MATTEIU	MATEI	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	5	nmod	_	ref=MATT.title
-4	SFÎNTA	sfânt	ADJ	Afpfsry	Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Fem	5	amod	_	ref=MATT.title
-5	EVANGHELIE	evanghelie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	ref=MATT.title|SpaceAfter=No
-6	.	.	PUNCT	PERIOD	_	5	punct	_	ref=MATT.title
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 5 6 fixed	color:blue
+1	Zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT17.26
+2	Pătru	Petru	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	1	nsubj	_	ref=MATT17.26
+3	lui	el	PRON	Pp3msd--------s	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	1	iobj	_	ref=MATT17.26|SpaceAfter=No
+4	:	:	PUNCT	COLON	_	7	punct	_	ref=MATT17.26
+5	De	de	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	ref=MATT17.26
+6	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	5	fixed	_	ref=MATT17.26
+7	streini	străin	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	1	parataxis	_	ref=MATT17.26|SpaceAfter=No
+8	.	.	PUNCT	PERIOD	_	1	punct	_	ref=MATT17.26
+
+~~~
+
+
+~~~ conllu
+# visual-style 7	bgColor:blue
+# visual-style 7	fgColor:white
+# visual-style 6	bgColor:blue
+# visual-style 6	fgColor:white
+# visual-style 6 7 fixed	color:blue
+1	Zisără	zice	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT20.33
+2	Lui	el	PRON	Pp3msd--------s	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	1	iobj	_	ref=MATT20.33|SpaceAfter=No
+3	:	:	PUNCT	COLON	_	8	punct	_	ref=MATT20.33
+4	Doamne	domn	NOUN	Ncmsvn	Case=Voc|Definite=Ind|Gender=Masc|Number=Sing	8	vocative	_	ref=MATT20.33|SpaceAfter=No
+5	,	,	PUNCT	COMMA	_	4	punct	_	ref=MATT20.33
+6	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	8	mark	_	ref=MATT20.33
+7	să	să	PART	Qs	PartType=Sub	6	fixed	_	ref=MATT20.33
+8	deșchizi	deschide	VERB	Vmsp2s	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	parataxis	_	ref=MATT20.33
+9	ochii	ochi	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	8	obj	_	ref=MATT20.33
+10	noștri	meu	DET	Ds1mp-p	Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|PronType=Prs	9	det	_	ref=MATT20.33|SpaceAfter=No
+11	.	.	PUNCT	PERIOD	_	1	punct	_	ref=MATT20.33
 
 ~~~
 
@@ -52,30 +75,6 @@ The following 19 pairs of parts of speech are connected with `fixed`: <tt><a hre
 12	prorocul	proroc	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	9	obl	_	ref=MATT1.22
 13	zicînd	zice	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	9	advcl	_	ref=MATT1.22|SpaceAfter=No
 14	:	:	PUNCT	COLON	_	3	punct	_	ref=MATT1.22
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 2	bgColor:blue
-# visual-style 2	fgColor:white
-# visual-style 2 3 fixed	color:blue
-1	Că	că	SCONJ	Csssp	Polarity=Pos	12	mark	_	_
-2	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	5	advmod:tmod	_	_
-3	când	când	ADV	Rw	PronType=Int,Rel	2	fixed	_	_
-4	te	tu	PRON	Pp2-sa--------w	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	5	obj	_	_
-5	știu	ști	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	advcl:tcl	_	_
-6	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	_
-7	tine	tu	PRON	Pp2-sa--------s	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Strong	5	obj	_	Rhyme=ID13|SpaceAfter=No|Type=Paired
-8	,	,	PUNCT	COMMA	_	5	punct	_	_
-9	Nu	nu	ADV	Qz	Polarity=Neg	12	advmod	_	SpaceAfter=No
-10	-mi	eu	PRON	Pp1-sd--------w	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak	12	iobj	_	_
-11	mai	mai	ADV	Rg	_	12	advmod	_	_
-12	trebuiește	trebui	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-13	nime	nimeni	PRON	Pz3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Neg	12	nsubj	_	Rhyme=ID7|SpaceAfter=No|Type=Imperf
-14	.	.	PUNCT	PERIOD	_	12	punct	_	_
 
 ~~~
 

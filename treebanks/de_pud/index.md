@@ -18,7 +18,8 @@ This treebank has been part of Universal Dependencies since the UD v2.1 release.
 
 The following people have contributed to making this treebank part of UD: Hans Uszkoreit, Vivien Macketanz, Aljoscha Burchardt, Georg Rehm, Kim Harris, Katrin Marheinecke, Slav Petrov, Tolga Kayadelen, Mohammed Attia, Ali Elkahky, Zhuoran Yu, Emily Pitler, Saran Lertpradit, Michael Mandl, Sebastian Bank, Martin Popel, Daniel Zeman.
 
-Repository: [UD_German-PUD](https://github.com/UniversalDependencies/UD_German-PUD)
+Repository: [UD_German-PUD](https://github.com/UniversalDependencies/UD_German-PUD)<br />
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udde_pud)
 
 License: CC BY-SA 3.0
 
@@ -74,7 +75,6 @@ shared task). If it is used for training in future research, the users should
 employ ten-fold cross-validation.
 
 
-
 ## Acknowledgments
 
 # Statistics of UD German PUD
@@ -93,11 +93,24 @@ employ ten-fold cross-validation.
 
 <h2>Tokenization and Word Segmentation</h2>
 
+
 <ul>
 <li>This corpus contains 1000 sentences, 20997 tokens and 21325 syntactic words.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 2885 tokens (14%) that are not followed by a space.</li>
+</ul>
+
+<ul>
 <li>This corpus does not contain words with spaces.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 38 types of words that contain both letters and punctuation. Examples: Chr., v., I., bzw., B., St., ca., n., z., IV., Mrd., Nr., bleiben., Addenbrooke's, Darius', Don', Dr., Hl., III., M.A., Mio., Männer., Pompeius', Smith', Thutmosis', VI., X., Zettel's, didn', du., führen., hat., ist., tritt., u.a., werden., will., würden.</li>
+</ul>
+
+<ul>
 <li>This corpus contains 328 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
 <li>There are 8 types of multi-word tokens. Examples: im, am, zum, zur, vom, beim, ins, ans.</li>
 </ul>
@@ -109,6 +122,9 @@ employ ten-fold cross-validation.
 <ul>
 <li>This corpus uses 16 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
 <li>This corpus does not use the following tags: INTJ</li>
+</ul>
+
+<ul>
 <li>This corpus contains 2 word types tagged as particles (PART): wohl, zu</li>
 </ul>
 
@@ -133,7 +149,9 @@ employ ten-fold cross-validation.
 </ul>
 
 <ul>
-<li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a>
+<li>There are 2 <a href="../feat/VerbForm.html">(de)verbal forms:</a></li>
+</ul>
+
 <ul>
   <li>Inf
   <ul>
@@ -141,6 +159,9 @@ employ ten-fold cross-validation.
     <li>VERB: abzuschreiben, aufrechtzuerhalten, begrenzen, behandeln, bekommen, beschäftigen, besuchen, bewegen, durchzuführen, einzunehmen</li>
   </ul>
   </li>
+</ul>
+
+<ul>
   <li>Part
   <ul>
     <li>AUX: bekannt, genannt, geschrieben</li>
@@ -148,351 +169,442 @@ employ ten-fold cross-validation.
   </ul>
   </li>
 </ul>
-</li>
-</ul>
 
 <h3>Nominal Features</h3>
 
-<li><a>Gender</a>
-  <ul>
-    <li>Fem
-      <ul>
-        <li>ADJ: neue, eigene, ersten, große, öffentliche, amerikanischen, guten, kleine, neuen, verschiedenen</li>
-        <li>AUX: Zeit</li>
-        <li>DET: die, der, eine, einer, diese, den, dieser, keine, viele, alle</li>
-        <li>NOUN: Zeit, Regierung, Stadt, Geschichte, Welt, Armee, Frau, Millionen, Region, Reihe</li>
-        <li>PRON: die, sie, sich, seine, ihre, seiner, ihrer, der, ihr, denen</li>
-        <li>PROPN: Qing, US, BBC, Clinton, Kesha, Mongolei, Alpen, Blunt, Erde, Jasmine</li>
-      </ul>
-    </li>
-    <li>Masc
-      <ul>
-        <li>ADJ: ersten, Vereinigten, letzten, neue, besten, gesamten, große, großer, neuen, verschiedene</li>
-        <li>DET: dem, der, den, die, des, ein, einen, einem, dieser, diesem</li>
-        <li>NOUN: Menschen, Oktober, Teil, Film, Kaiser, April, Fall, Krieg, Präsident, Tag</li>
-        <li>PRON: er, sich, der, die, sie, ihm, ihn, seinen, ihren, sein</li>
-        <li>PROPN: Chr., Trump, Joseph, USA, Donald, Martin, Richard, Bogd, Christopher, Columbus</li>
-      </ul>
-    </li>
-    <li>Neut
-      <ul>
-        <li>ADJ: letzten, ersten, Olympischen, eigenen, 8., drittes, karibische, neuen, 13., 1960er</li>
-        <li>ADP: z., z</li>
-        <li>DET: das, dem, ein, des, die, den, der, einem, dies, dieses</li>
-        <li>NOUN: Jahr, Jahre, Jahren, Jahrhundert, Mal, Land, Leben, Meer, Ende, Reich</li>
-        <li>PRON: es, sich, das, die, ihr, was, sein, seines, sie, ihres</li>
-        <li>PROPN: China, Frankreich, Hong, Paris, Russland, Asien, Danewerk, Deutschland, England, Griechenland</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+
+<ul>
+  <li><a>Gender</a></li>
+</ul>
+
+<ul>
+  <li>Fem
+    <ul>
+      <li>ADJ: neue, eigene, ersten, große, öffentliche, amerikanischen, guten, kleine, neuen, verschiedenen</li>
+      <li>AUX: Zeit</li>
+      <li>DET: die, der, eine, einer, diese, den, dieser, keine, viele, alle</li>
+      <li>NOUN: Zeit, Regierung, Stadt, Geschichte, Welt, Armee, Frau, Millionen, Region, Reihe</li>
+      <li>PRON: die, sie, sich, seine, ihre, seiner, ihrer, der, ihr, denen</li>
+      <li>PROPN: Qing, US, BBC, Clinton, Kesha, Mongolei, Alpen, Blunt, Erde, Jasmine</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Masc
+    <ul>
+      <li>ADJ: ersten, Vereinigten, letzten, neue, besten, gesamten, große, großer, neuen, verschiedene</li>
+      <li>DET: dem, der, den, die, des, ein, einen, einem, dieser, diesem</li>
+      <li>NOUN: Menschen, Oktober, Teil, Film, Kaiser, April, Fall, Krieg, Präsident, Tag</li>
+      <li>PRON: er, sich, der, die, sie, ihm, ihn, seinen, ihren, sein</li>
+      <li>PROPN: Chr., Trump, Joseph, USA, Donald, Martin, Richard, Bogd, Christopher, Columbus</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Neut
+    <ul>
+      <li>ADJ: letzten, ersten, Olympischen, eigenen, 8., drittes, karibische, neuen, 13., 1960er</li>
+      <li>ADP: z., z</li>
+      <li>DET: das, dem, ein, des, die, den, der, einem, dies, dieses</li>
+      <li>NOUN: Jahr, Jahre, Jahren, Jahrhundert, Mal, Land, Leben, Meer, Ende, Reich</li>
+      <li>PRON: es, sich, das, die, ihr, was, sein, seines, sie, ihres</li>
+      <li>PROPN: China, Frankreich, Hong, Paris, Russland, Asien, Danewerk, Deutschland, England, Griechenland</li>
+    </ul>
+  </li>
+</ul>
 
 
-<li><a>Number</a>
-  <ul>
-    <li>Plur
-      <ul>
-        <li>ADJ: letzten, neue, ersten, verschiedene, Vereinigten, neuen, Olympischen, kleine, verschiedenen, alten</li>
-        <li>AUX: wurden, sind, waren, werden, haben, hatten, können, müssen, konnten, könnten</li>
-        <li>DET: die, den, der, viele, diese, einige, beiden, alle, vielen, dieser</li>
-        <li>NOUN: Jahre, Jahren, Menschen, Millionen, Auswirkungen, Teile, Inseln, Leute, Länder, Männer</li>
-        <li>PRON: die, sie, sich, wir, seine, ihre, denen, uns, ihren, ihnen</li>
-        <li>PROPN: USA, Alpen, Anden, Maya, Niederlanden, Osmanen, Andes, Armana, Avro, Bantu</li>
-        <li>VERB: haben, sind, hatten, nahmen, waren, zählen, enthalten, entschieden, eroberten, finden</li>
-      </ul>
-    </li>
-    <li>Sing
-      <ul>
-        <li>ADJ: ersten, neue, eigene, große, britischen, erste, gemeinsamen, letzten, neuen, zweiten</li>
-        <li>ADP: z., z</li>
-        <li>AUX: ist, wurde, war, wird, hatte, hat, kann, würde, muss, könnte</li>
-        <li>DET: der, dem, die, das, des, eine, ein, den, einer, einem</li>
-        <li>NOUN: Jahr, Zeit, Regierung, Stadt, Geschichte, Jahrhundert, Oktober, Teil, Film, Mal</li>
-        <li>PRON: es, er, sich, der, sie, die, ich, ihr, seine, seiner</li>
-        <li>PROPN: Chr., China, Trump, Frankreich, Joseph, Hong, Paris, Qing, Russland, US</li>
-        <li>VERB: sagte, ist, hat, gibt, sagt, war, begann, hatte, führte, gab</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Number</a></li>
+</ul>
 
-<li><a>Case</a>
-  <ul>
-    <li>Acc
-      <ul>
-        <li>ADJ: neue, letzten, eigene, große, kleine, neuen, öffentliche, Olympischen, achämenidische, beträchtliche</li>
-        <li>DET: die, den, eine, das, einen, ein, keine, diese, viele, dieses</li>
-        <li>NOUN: Jahre, Dollar, Auswirkungen, Rolle, Armee, GBP, Land, Mal, Milliarden, Monate</li>
-        <li>PRON: sich, seine, es, ihre, die, ihn, sie, mich, uns, seinen</li>
-        <li>PROPN: Italien, Trump, Antarktis, Deutschland, Kuba, Martin, Richard, Twitter, Abakumow, Adria</li>
-      </ul>
-    </li>
-    <li>Dat
-      <ul>
-        <li>ADJ: ersten, letzten, neuen, selben, zweiten, Vereinigten, besten, deutschen, gemeinsamen, hohem</li>
-        <li>ADP: z., z</li>
-        <li>AUX: Zeit</li>
-        <li>DET: dem, der, den, einem, einer, dieser, diesem, anderen, vielen, beiden</li>
-        <li>NOUN: Jahr, Jahren, Jahrhundert, Zeit, Bezug, Fall, Krieg, Leben, Region, Tag</li>
-        <li>PRON: ihrer, ihm, denen, sich, seiner, der, ihren, ihr, dem, ihnen</li>
-        <li>PROPN: Chr., Paris, Asien, London, Ontario, USA, England, Frankreich, Großbritannien, Hong</li>
-      </ul>
-    </li>
-    <li>Gen
-      <ul>
-        <li>ADJ: ersten, Römischen, britischen, eigenen, gemeinsamen, alten, amerikanischen, ehemaligen, europäischer, gesamten</li>
-        <li>DET: der, des, eines, einer, dieser, anderer, dessen, deren, dieses, zweier</li>
-        <li>NOUN: Jahre, Stadt, Zeit, Jahres, Jahrhunderts, Krieges, Lebens, Dynastie, Frau, Landes</li>
-        <li>PRON: seiner, ihrer, seines, ihres, deren, dessen, Meines</li>
-        <li>PROPN: Qing, Albaniens, Chinas, Clintons, Dänemarks, Europas, USA, AKP, Afrikas, Alpen</li>
-      </ul>
-    </li>
-    <li>Nom
-      <ul>
-        <li>ADJ: britische, erste, neue, verschiedene, große, letzte, australischen, großer, kleine, mazedonische</li>
-        <li>DET: die, der, das, ein, eine, diese, viele, dies, einige, kein</li>
-        <li>NOUN: Film, Menschen, Präsident, Regierung, einer, König, Leute, Polizei, System, alles</li>
-        <li>PRON: er, es, die, sie, der, ich, wir, seine, das, ihr</li>
-        <li>PROPN: China, Trump, Donald, Joseph, Kesha, Blunt, Clinton, Frankreich, John, Mishima</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li>Plur
+    <ul>
+      <li>ADJ: letzten, neue, ersten, verschiedene, Vereinigten, neuen, Olympischen, kleine, verschiedenen, alten</li>
+      <li>AUX: wurden, sind, waren, werden, haben, hatten, können, müssen, konnten, könnten</li>
+      <li>DET: die, den, der, viele, diese, einige, beiden, alle, vielen, dieser</li>
+      <li>NOUN: Jahre, Jahren, Menschen, Millionen, Auswirkungen, Teile, Inseln, Leute, Länder, Männer</li>
+      <li>PRON: die, sie, sich, wir, seine, ihre, denen, uns, ihren, ihnen</li>
+      <li>PROPN: USA, Alpen, Anden, Maya, Niederlanden, Osmanen, Andes, Armana, Avro, Bantu</li>
+      <li>VERB: haben, sind, hatten, nahmen, waren, zählen, enthalten, entschieden, eroberten, finden</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sing
+    <ul>
+      <li>ADJ: ersten, neue, eigene, große, britischen, erste, gemeinsamen, letzten, neuen, zweiten</li>
+      <li>ADP: z., z</li>
+      <li>AUX: ist, wurde, war, wird, hatte, hat, kann, würde, muss, könnte</li>
+      <li>DET: der, dem, die, das, des, eine, ein, den, einer, einem</li>
+      <li>NOUN: Jahr, Zeit, Regierung, Stadt, Geschichte, Jahrhundert, Oktober, Teil, Film, Mal</li>
+      <li>PRON: es, er, sich, der, sie, die, ich, ihr, seine, seiner</li>
+      <li>PROPN: Chr., China, Trump, Frankreich, Joseph, Hong, Paris, Qing, Russland, US</li>
+      <li>VERB: sagte, ist, hat, gibt, sagt, war, begann, hatte, führte, gab</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Case</a></li>
+</ul>
+
+<ul>
+  <li>Acc
+    <ul>
+      <li>ADJ: neue, letzten, eigene, große, kleine, neuen, öffentliche, Olympischen, achämenidische, beträchtliche</li>
+      <li>DET: die, den, eine, das, einen, ein, keine, diese, viele, dieses</li>
+      <li>NOUN: Jahre, Dollar, Auswirkungen, Rolle, Armee, GBP, Land, Mal, Milliarden, Monate</li>
+      <li>PRON: sich, seine, es, ihre, die, ihn, sie, mich, uns, seinen</li>
+      <li>PROPN: Italien, Trump, Antarktis, Deutschland, Kuba, Martin, Richard, Twitter, Abakumow, Adria</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Dat
+    <ul>
+      <li>ADJ: ersten, letzten, neuen, selben, zweiten, Vereinigten, besten, deutschen, gemeinsamen, hohem</li>
+      <li>ADP: z., z</li>
+      <li>AUX: Zeit</li>
+      <li>DET: dem, der, den, einem, einer, dieser, diesem, anderen, vielen, beiden</li>
+      <li>NOUN: Jahr, Jahren, Jahrhundert, Zeit, Bezug, Fall, Krieg, Leben, Region, Tag</li>
+      <li>PRON: ihrer, ihm, denen, sich, seiner, der, ihren, ihr, dem, ihnen</li>
+      <li>PROPN: Chr., Paris, Asien, London, Ontario, USA, England, Frankreich, Großbritannien, Hong</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Gen
+    <ul>
+      <li>ADJ: ersten, Römischen, britischen, eigenen, gemeinsamen, alten, amerikanischen, ehemaligen, europäischer, gesamten</li>
+      <li>DET: der, des, eines, einer, dieser, anderer, dessen, deren, dieses, zweier</li>
+      <li>NOUN: Jahre, Stadt, Zeit, Jahres, Jahrhunderts, Krieges, Lebens, Dynastie, Frau, Landes</li>
+      <li>PRON: seiner, ihrer, seines, ihres, deren, dessen, Meines</li>
+      <li>PROPN: Qing, Albaniens, Chinas, Clintons, Dänemarks, Europas, USA, AKP, Afrikas, Alpen</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Nom
+    <ul>
+      <li>ADJ: britische, erste, neue, verschiedene, große, letzte, australischen, großer, kleine, mazedonische</li>
+      <li>DET: die, der, das, ein, eine, diese, viele, dies, einige, kein</li>
+      <li>NOUN: Film, Menschen, Präsident, Regierung, einer, König, Leute, Polizei, System, alles</li>
+      <li>PRON: er, es, die, sie, der, ich, wir, seine, das, ihr</li>
+      <li>PROPN: China, Trump, Donald, Joseph, Kesha, Blunt, Clinton, Frankreich, John, Mishima</li>
+    </ul>
+  </li>
+</ul>
 
 
-<li><a>Definite</a>
-  <ul>
-    <li>Def
-      <ul>
-        <li>ADP: z., z</li>
-        <li>DET: der, die, dem, den, das, des, diese, dieser, dies, dieses</li>
-      </ul>
-    </li>
-    <li>Ind
-      <ul>
-        <li>DET: eine, ein, einer, einem, einen, viele, eines, keine, einige, beiden</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Definite</a></li>
+</ul>
+
+<ul>
+  <li>Def
+    <ul>
+      <li>ADP: z., z</li>
+      <li>DET: der, die, dem, den, das, des, diese, dieser, dies, dieses</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>DET: eine, ein, einer, einem, einen, viele, eines, keine, einige, beiden</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Degree and Polarity</h3>
 
-<li><a>Degree</a>
-  <ul>
-    <li>Cmp
-      <ul>
-        <li>ADJ: afrikanischer, besser, beunruhigender, größer, größere, höher, höherer, kürzer, lieber, nützlicher</li>
-        <li>ADV: mehr, später, besser, genauer, weniger, attraktiver, eher, früher, häufiger, lieber</li>
-      </ul>
-    </li>
-    <li>Pos
-      <ul>
-        <li>ADJ: ersten, neue, letzten, bekannt, möglich, neuen, groß, große, politischen, Vereinigten</li>
-        <li>ADV: auch, nicht, so, noch, nur, sehr, jedoch, mehr, davon, immer</li>
-      </ul>
-    </li>
-    <li>Sup
-      <ul>
-        <li>ADJ: besten, größten, schlimmsten, höchsten, Oberste, Obersten, bekannteste, beknackteste, erfoglreichste, erfolgreichste</li>
-      </ul>
-    </li>
-  </ul>
-</li>
 
-<li><a>Polarity</a>
-  <ul>
-    <li>Neg
-      <ul>
-        <li>ADV: nicht</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Degree</a></li>
+</ul>
+
+<ul>
+  <li>Cmp
+    <ul>
+      <li>ADJ: afrikanischer, besser, beunruhigender, größer, größere, höher, höherer, kürzer, lieber, nützlicher</li>
+      <li>ADV: mehr, später, besser, genauer, weniger, attraktiver, eher, früher, häufiger, lieber</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Pos
+    <ul>
+      <li>ADJ: ersten, neue, letzten, bekannt, möglich, neuen, groß, große, politischen, Vereinigten</li>
+      <li>ADV: auch, nicht, so, noch, nur, sehr, jedoch, mehr, davon, immer</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sup
+    <ul>
+      <li>ADJ: besten, größten, schlimmsten, höchsten, Oberste, Obersten, bekannteste, beknackteste, erfoglreichste, erfolgreichste</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
+
+<ul>
+  <li>Neg
+    <ul>
+      <li>ADV: nicht</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Verbal Features</h3>
 
 
-<li><a>Mood</a>
-  <ul>
-    <li>Imp
-      <ul>
-        <li>AUX: Don', Lass</li>
-        <li>VERB: Knuck, Metti, Schauen</li>
-      </ul>
-    </li>
-    <li>Ind
-      <ul>
-        <li>AUX: ist, wurde, war, wird, wurden, sind, hatte, waren, hat, kann</li>
-        <li>VERB: sagte, ist, hat, gibt, sagt, war, begann, hatte, führte, gab</li>
-      </ul>
-    </li>
-    <li>Sub
-      <ul>
-        <li>AUX: würde, könnte, sei, sollte, könnten, würden, seien, wäre, hätten, müssten</li>
-        <li>VERB: Knew, ausschlösse, beeinflusse, habe, handelten, kämen, laste, leisteten, liege, täten</li>
-      </ul>
-    </li>
-  </ul>
-</li>
 
-<li><a>Tense</a>
-  <ul>
-    <li>Past
-      <ul>
-        <li>AUX: wurde, war, worden, wurden, hatte, waren, würde, hatten, könnte, sollte</li>
-        <li>AUX-Part: bekannt, genannt, geschrieben</li>
-        <li>VERB: sagte, verwendet, war, begann, genutzt, veröffentlicht, errichtet, gegeben, gewählt, hatte</li>
-        <li>VERB-Part: abgesehen, gefolgt, gesagt, Geformt, abgehärtet, angeklagt, begründet, geeignet, gefasst, gekommen</li>
-      </ul>
-    </li>
-    <li>Pres
-      <ul>
-        <li>AUX: ist, wird, sind, hat, kann, werden, haben, können, muss, sei</li>
-        <li>VERB: ist, hat, gibt, sagt, haben, sind, liegt, steht, hilft, beträgt</li>
-        <li>VERB-Inf: interviewt</li>
-        <li>VERB-Part: basierend, Breaking</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Mood</a></li>
+</ul>
+
+<ul>
+  <li>Imp
+    <ul>
+      <li>AUX: Don', Lass</li>
+      <li>VERB: Knuck, Metti, Schauen</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ind
+    <ul>
+      <li>AUX: ist, wurde, war, wird, wurden, sind, hatte, waren, hat, kann</li>
+      <li>VERB: sagte, ist, hat, gibt, sagt, war, begann, hatte, führte, gab</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sub
+    <ul>
+      <li>AUX: würde, könnte, sei, sollte, könnten, würden, seien, wäre, hätten, müssten</li>
+      <li>VERB: Knew, ausschlösse, beeinflusse, habe, handelten, kämen, laste, leisteten, liege, täten</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Tense</a></li>
+</ul>
+
+<ul>
+  <li>Past
+    <ul>
+      <li>AUX: wurde, war, worden, wurden, hatte, waren, würde, hatten, könnte, sollte</li>
+      <li>AUX-Part: bekannt, genannt, geschrieben</li>
+      <li>VERB: sagte, verwendet, war, begann, genutzt, veröffentlicht, errichtet, gegeben, gewählt, hatte</li>
+      <li>VERB-Part: abgesehen, gefolgt, gesagt, Geformt, abgehärtet, angeklagt, begründet, geeignet, gefasst, gekommen</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Pres
+    <ul>
+      <li>AUX: ist, wird, sind, hat, kann, werden, haben, können, muss, sei</li>
+      <li>VERB: ist, hat, gibt, sagt, haben, sind, liegt, steht, hilft, beträgt</li>
+      <li>VERB-Inf: interviewt</li>
+      <li>VERB-Part: basierend, Breaking</li>
+    </ul>
+  </li>
+</ul>
 
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
-<li><a>PronType</a>
-  <ul>
-    <li>Prs
-      <ul>
-        <li>PRON: seine, ihre, ihrer, seiner, ihr, sein, ihren, seinen, seines, ihrem</li>
-      </ul>
-    </li>
-    <li>Rcp
-      <ul>
-        <li>PRON: sich, mich, uns, dich, mir</li>
-      </ul>
-    </li>
-  </ul>
-</li>
 
-<li><a>NumType</a>
-  <ul>
-    <li>Card
-      <ul>
-        <li>NUM: zwei, drei, vier, 3, sechs, zehn, 1, 10, 50, 100</li>
-      </ul>
-    </li>
-    <li>Ord
-      <ul>
-        <li>ADJ: 45.</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>PronType</a></li>
+</ul>
 
+<ul>
+  <li>Prs
+    <ul>
+      <li>PRON: seine, ihre, ihrer, seiner, ihr, sein, ihren, seinen, seines, ihrem</li>
+    </ul>
+  </li>
+</ul>
 
+<ul>
+  <li>Rcp
+    <ul>
+      <li>PRON: sich, mich, uns, dich, mir</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Person</a>
-  <ul>
-    <li>1
-      <ul>
-        <li>AUX: habe, müssen, bin, sind, haben, hatte, können, werde, erkläre, hätten</li>
-        <li>PRON: ich, wir, mich, uns, mir, me</li>
-        <li>VERB: kenne, weiß, Nehmen, Thought, beiseitelegen, besuche, bewegen, bin, brauchen, denke</li>
-      </ul>
-    </li>
-    <li>2
-      <ul>
-        <li>AUX: Don', Lass, habt, musst</li>
-        <li>PRON: you, Du, Ya, dich, du., euch, ihr</li>
-        <li>VERB: Knew, Knuck, Metti</li>
-      </ul>
-    </li>
-    <li>3
-      <ul>
-        <li>ADJ: ersten, neue, letzten, neuen, große, politischen, Vereinigten, britische, britischen, eigene</li>
-        <li>ADP: z., z</li>
-        <li>AUX: ist, wurde, war, wird, wurden, sind, hat, waren, hatte, kann</li>
-        <li>DET: der, die, dem, den, das, des, eine, ein, einer, einem</li>
-        <li>NOUN: Jahr, Jahre, Zeit, Jahren, Menschen, Regierung, Stadt, Geschichte, Jahrhundert, Oktober</li>
-        <li>PRON: es, sich, die, er, sie, der, seine, ihre, ihr, seiner</li>
-        <li>PROPN: Chr., China, Trump, USA, Frankreich, Joseph, US, Hong, Paris, Qing</li>
-        <li>VERB: sagte, ist, hat, gibt, sagt, begann, war, hatte, führte, gab</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>NumType</a></li>
+</ul>
+
+<ul>
+  <li>Card
+    <ul>
+      <li>NUM: zwei, drei, vier, 3, sechs, zehn, 1, 10, 50, 100</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Ord
+    <ul>
+      <li>ADJ: 45.</li>
+    </ul>
+  </li>
+</ul>
 
 
-<li><a>Gender[psor]</a>
-  <ul>
-    <li>Fem
-      <ul>
-        <li>PRON: ihre, ihrer, ihr, ihren, ihres, Her, ihrem</li>
-      </ul>
-    </li>
-    <li>Masc
-      <ul>
-        <li>PRON: seine, seiner, sein, ihre, seinen, ihrer, seines, ihren, seinem, ihr</li>
-      </ul>
-    </li>
-    <li>Neut
-      <ul>
-        <li>PRON: seine, ihren, sein, seiner, seines</li>
-      </ul>
-    </li>
-  </ul>
-</li>
 
-<li><a>Number[psor]</a>
-  <ul>
-    <li>Plur
-      <ul>
-        <li>PRON: ihre, ihrer, ihren, ihrem, unsere, ihr, ihres, unserem, unserer, Nostrum</li>
-      </ul>
-    </li>
-    <li>Sing
-      <ul>
-        <li>PRON: seine, seiner, sein, seinen, ihre, ihrer, seines, ihr, ihren, seinem</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Person</a></li>
+</ul>
+
+<ul>
+  <li>1
+    <ul>
+      <li>AUX: habe, müssen, bin, sind, haben, hatte, können, werde, erkläre, hätten</li>
+      <li>PRON: ich, wir, mich, uns, mir, me</li>
+      <li>VERB: kenne, weiß, Nehmen, Thought, beiseitelegen, besuche, bewegen, bin, brauchen, denke</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>2
+    <ul>
+      <li>AUX: Don', Lass, habt, musst</li>
+      <li>PRON: you, Du, Ya, dich, du., euch, ihr</li>
+      <li>VERB: Knew, Knuck, Metti</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>3
+    <ul>
+      <li>ADJ: ersten, neue, letzten, neuen, große, politischen, Vereinigten, britische, britischen, eigene</li>
+      <li>ADP: z., z</li>
+      <li>AUX: ist, wurde, war, wird, wurden, sind, hat, waren, hatte, kann</li>
+      <li>DET: der, die, dem, den, das, des, eine, ein, einer, einem</li>
+      <li>NOUN: Jahr, Jahre, Zeit, Jahren, Menschen, Regierung, Stadt, Geschichte, Jahrhundert, Oktober</li>
+      <li>PRON: es, sich, die, er, sie, der, seine, ihre, ihr, seiner</li>
+      <li>PROPN: Chr., China, Trump, USA, Frankreich, Joseph, US, Hong, Paris, Qing</li>
+      <li>VERB: sagte, ist, hat, gibt, sagt, begann, war, hatte, führte, gab</li>
+    </ul>
+  </li>
+</ul>
+
+
+<ul>
+  <li><a>Gender[psor]</a></li>
+</ul>
+
+<ul>
+  <li>Fem
+    <ul>
+      <li>PRON: ihre, ihrer, ihr, ihren, ihres, Her, ihrem</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Masc
+    <ul>
+      <li>PRON: seine, seiner, sein, ihre, seinen, ihrer, seines, ihren, seinem, ihr</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Neut
+    <ul>
+      <li>PRON: seine, ihren, sein, seiner, seines</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Number[psor]</a></li>
+</ul>
+
+<ul>
+  <li>Plur
+    <ul>
+      <li>PRON: ihre, ihrer, ihren, ihrem, unsere, ihr, ihres, unserem, unserer, Nostrum</li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>Sing
+    <ul>
+      <li>PRON: seine, seiner, sein, seinen, ihre, ihrer, seines, ihr, ihren, seinem</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Other Features</h3>
 
-<li><a>Foreign</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>ADP: de</li>
-        <li>NOUN: tipo</li>
-        <li>X: mojorum</li>
-      </ul>
-    </li>
-  </ul>
-</li>
-<li><a>Person[psor]</a>
-  <ul>
-    <li>1
-      <ul>
-        <li>PRON: unsere, My, mein, meinem, unserem, unserer, Meines, Nostrum, Unser, meine</li>
-      </ul>
-    </li>
-    <li>2
-      <ul>
-        <li>PRON: euren</li>
-      </ul>
-    </li>
-    <li>3
-      <ul>
-        <li>PRON: seine, ihre, ihrer, seiner, ihr, sein, ihren, seinen, seines, ihrem</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+
+<ul>
+  <li><a>Foreign</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADP: de</li>
+          <li>NOUN: tipo</li>
+          <li>X: mojorum</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li><a>Person[psor]</a>
+    <ul>
+      <li>1
+        <ul>
+          <li>PRON: unsere, My, mein, meinem, unserem, unserer, Meines, Nostrum, Unser, meine</li>
+        </ul>
+      </li>
+      <li>2
+        <ul>
+          <li>PRON: euren</li>
+        </ul>
+      </li>
+      <li>3
+        <ul>
+          <li>PRON: seine, ihre, ihrer, seiner, ihr, sein, ihren, seinen, seines, ihrem</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 
@@ -500,6 +612,9 @@ employ ten-fold cross-validation.
 
 <ul>
 <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: _.</li>
+</ul>
+
+<ul>
 <li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
 <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: _.</li>
 </ul>

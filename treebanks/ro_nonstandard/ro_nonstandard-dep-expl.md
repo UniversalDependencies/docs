@@ -9,80 +9,86 @@ udver: '2'
 This relation is universal.
 There are 4 language-specific subtypes of `expl`: <tt><a href="ro_nonstandard-dep-expl-impers.html">expl:impers</a></tt>, <tt><a href="ro_nonstandard-dep-expl-pass.html">expl:pass</a></tt>, <tt><a href="ro_nonstandard-dep-expl-poss.html">expl:poss</a></tt>, <tt><a href="ro_nonstandard-dep-expl-pv.html">expl:pv</a></tt>.
 
-67 nodes (0%) are attached to their parents as `expl`.
+546 nodes (0%) are attached to their parents as `expl`.
 
-39 instances of `expl` (58%) are right-to-left (child precedes parent).
-Average distance between parent and child is 1.46268656716418.
+458 instances of `expl` (84%) are right-to-left (child precedes parent).
+Average distance between parent and child is 1.65201465201465.
 
-The following 4 pairs of parts of speech are connected with `expl`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (62; 93% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (2; 3% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (2; 3% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (1; 1% instances).
+The following 7 pairs of parts of speech are connected with `expl`: <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (516; 95% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (14; 3% instances), <tt><a href="ro_nonstandard-pos-PROPN.html">PROPN</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (5; 1% instances), <tt><a href="ro_nonstandard-pos-ADJ.html">ADJ</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (4; 1% instances), <tt><a href="ro_nonstandard-pos-ADV.html">ADV</a></tt>-<tt><a href="ro_nonstandard-pos-PRON.html">PRON</a></tt> (3; 1% instances), <tt><a href="ro_nonstandard-pos-VERB.html">VERB</a></tt>-<tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt> (3; 1% instances), <tt><a href="ro_nonstandard-pos-NOUN.html">NOUN</a></tt>-<tt><a href="ro_nonstandard-pos-DET.html">DET</a></tt> (1; 0% instances).
+
+
+~~~ conllu
+# visual-style 11	bgColor:blue
+# visual-style 11	fgColor:white
+# visual-style 12	bgColor:blue
+# visual-style 12	fgColor:white
+# visual-style 12 11 expl	color:blue
+1	Și	și	CCONJ	Ccssp	Polarity=Pos	2	cc	_	ref=MATT20.32
+2	stătu	sta	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT20.32
+3	Iisus	Iisus	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	2	nsubj	_	ref=MATT20.32|SpaceAfter=No
+4	,	,	PUNCT	COMMA	_	5	punct	_	ref=MATT20.32
+5	chemă	chema	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	ref=MATT20.32
+6	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	7	case	_	ref=MATT20.32
+7	ei	el	PRON	Pp3mpa--------s	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Prs|Strength=Strong	5	nmod:pmod	_	ref=MATT20.32
+8	și	și	CCONJ	Ccssp	Polarity=Pos	9	cc	_	ref=MATT20.32
+9	zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	conj	_	ref=MATT20.32|SpaceAfter=No
+10	:	:	PUNCT	COLON	_	12	punct	_	ref=MATT20.32
+11	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	12	expl	_	ref=MATT20.32
+12	vreți	vrea	VERB	Vmip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	9	parataxis	_	ref=MATT20.32
+13	să	să	PART	Qs	PartType=Sub	14	mark	_	ref=MATT20.32
+14	fac	face	VERB	Vmsp1s	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	ccomp	_	ref=MATT20.32
+15	voao	tu	PRON	Pp2-pd--------s	Case=Dat|Number=Plur|Person=2|PronType=Prs|Strength=Strong	14	iobj	_	ref=MATT20.32|SpaceAfter=No
+16	?	?	PUNCT	QUEST	_	12	punct	_	ref=MATT20.32
+
+~~~
 
 
 ~~~ conllu
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
-# visual-style 6	bgColor:blue
-# visual-style 6	fgColor:white
-# visual-style 6 8 expl	color:blue
-1	Pîinea	pâine	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	6	obj	_	ref=MATT6.11
-2	noastră	meu	DET	Ds1fsrp	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	1	det	_	ref=MATT6.11
-3	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	5	case	_	ref=MATT6.11
-4	toate	tot	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	5	det	_	ref=MATT6.11
-5	zilele	zi	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	1	nmod	_	ref=MATT6.11
-6	dă	da	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	0	root	_	ref=MATT6.11|SpaceAfter=No
-7	-ne	eu	PRON	Pp1-pd--------w	Case=Dat|Number=Plur|Person=1|PronType=Prs|Strength=Weak	6	iobj	_	ref=MATT6.11|SpaceAfter=No
-8	-o	el	PRON	Pp3fsa--------w	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	6	expl	_	ref=MATT6.11
-9	noao	eu	PRON	Pp1-pd--------s	Case=Dat|Number=Plur|Person=1|PronType=Prs|Strength=Strong	6	expl	_	ref=MATT6.11
-10	astăzi	astăzi	ADV	Rg	_	6	advmod:tmod	_	ref=MATT6.11|SpaceAfter=No
-11	.	.	PUNCT	PERIOD	_	6	punct	_	ref=MATT6.11
+# visual-style 9	bgColor:blue
+# visual-style 9	fgColor:white
+# visual-style 9 8 expl	color:blue
+1	Iară	iar	CCONJ	Ccssp	Polarity=Pos	9	cc	_	ref=MARC13.37
+2	cealea	acela	PRON	Pd3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	9	obj	_	ref=MARC13.37
+3	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	4	obj	_	ref=MARC13.37
+4	zic	zice	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl	_	ref=MARC13.37
+5	voao	tu	PRON	Pp2-pd--------s	Case=Dat|Number=Plur|Person=2|PronType=Prs|Strength=Strong	4	iobj	_	ref=MARC13.37|SpaceAfter=No
+6	,	,	PUNCT	COMMA	_	2	punct	_	ref=MARC13.37
+7	tuturor	tot	PRON	Pi3-po	Case=Dat,Gen|Number=Plur|Person=3|PronType=Ind	9	iobj	_	ref=MARC13.37
+8	vă	tu	PRON	Pp2-pa--------w	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak	9	expl	_	ref=MARC13.37
+9	zic	zic	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	0	root	_	ref=MARC13.37|SpaceAfter=No
+10	,	,	PUNCT	COMMA	_	11	punct	_	ref=MARC13.37
+11	prevegheați	priveghea	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	9	parataxis	_	ref=MARC13.37|SpaceAfter=No
+12	-vă	tu	PRON	Pp2-pa--------w	Case=Acc|Number=Plur|Person=2|PronType=Prs|Strength=Weak	11	expl:pv	_	ref=MARC13.37|SpaceAfter=No
+13	.	.	PUNCT	PERIOD	_	9	punct	_	ref=MARC13.37
 
 ~~~
 
 
 ~~~ conllu
-# visual-style 14	bgColor:blue
-# visual-style 14	fgColor:white
-# visual-style 17	bgColor:blue
-# visual-style 17	fgColor:white
-# visual-style 17 14 expl	color:blue
-1	Dară	dar	CCONJ	Ccssp	Polarity=Pos	6	cc	_	ref=MATT18.28
-2	eșind	când	ADV	Rw	PronType=Int,Rel	6	advmod:tmod	_	ref=MATT18.28
-3	sluga	slugă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	6	nsubj	_	ref=MATT18.28
-4	aceaia	acela	DET	Dd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	3	det	_	ref=MATT18.28|SpaceAfter=No
-5	,	,	PUNCT	COMMA	_	3	punct	_	ref=MATT18.28
-6	află	afla	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	ref=MATT18.28
-7	pre	pe	ADP	Spsa	AdpType=Prep|Case=Acc	8	case	_	ref=MATT18.28
-8	unul	unul	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	6	obj	_	ref=MATT18.28
-9	din	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	10	case	_	ref=MATT18.28
-10	soții	soț	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	8	nmod	_	ref=MATT18.28
-11	săi	său	DET	Ds3mp-s	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	ref=MATT18.28|SpaceAfter=No
-12	,	,	PUNCT	COMMA	_	17	punct	_	ref=MATT18.28
-13	carele	care	PRON	Pw3msry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	17	nsubj	_	ref=MATT18.28|SpaceAfter=No
-14	-i	el	PRON	Pp3-sd--------w	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak	17	expl	_	ref=MATT18.28
-15	era	fi	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	cop	_	ref=MATT18.28
-16	lui	el	PRON	Pp3msd--------s	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	17	iobj	_	ref=MATT18.28
-17	deatoriu	dator	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	8	acl	_	ref=MATT18.28
-18	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	22	case	_	ref=MATT18.28
-19	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	20	compound	_	ref=MATT18.28
-20	sută	sută	NUM	Mcfsrln	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	22	nummod	_	ref=MATT18.28
-21	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	20	case	_	ref=MATT18.28
-22	bani	ban	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	17	obl	_	ref=MATT18.28|SpaceAfter=No
-23	.	.	PUNCT	PERIOD	_	6	punct	_	ref=MATT18.28
-
-~~~
-
-
-~~~ conllu
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 1	bgColor:blue
-# visual-style 1	fgColor:white
-# visual-style 1 3 expl	color:blue
-1	Agiunge	Agiunge	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	ref=MATT6.34|SpaceAfter=No
-2	-i	el	PRON	Pp3-sd--------w	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak	1	iobj	_	ref=MATT6.34
-3	zilei	zi	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	1	expl	_	ref=MATT6.34
-4	grijea	grijă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	1	nsubj	_	ref=MATT6.34
-5	ei	el	PRON	Pp3fso	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nmod	_	ref=MATT6.34|SpaceAfter=No
-6	.	.	PUNCT	PERIOD	_	1	punct	_	ref=MATT6.34
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 8	bgColor:blue
+# visual-style 8	fgColor:white
+# visual-style 8 5 expl	color:blue
+1	Şi	și	CCONJ	Ccssp	Polarity=Pos	3	cc	_	ref=LUCA16.20
+2	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	3	det	_	ref=LUCA16.20
+3	cerșitoriu	cerșetor	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	0	root	_	ref=LUCA16.20
+4	căruia	care	PRON	Pw3mso	Case=Dat,Gen|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	8	iobj	_	ref=LUCA16.20|SpaceAfter=No
+5	-i	el	PRON	Pp3-sd--------w	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak	8	expl	_	ref=LUCA16.20
+6	era	fi	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	ref=LUCA16.20
+7	numele	nume	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	8	nsubj	_	ref=LUCA16.20
+8	Lazăr	Lazăr	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	3	acl	_	ref=LUCA16.20|SpaceAfter=No
+9	,	,	PUNCT	COMMA	_	11	punct	_	ref=LUCA16.20
+10	carele	care	PRON	Pw3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Int,Rel	11	nsubj	_	ref=LUCA16.20
+11	zăcea	zăcea	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	conj	_	ref=LUCA16.20
+12	înaintea	înaintea	ADP	Spsg	AdpType=Prep|Case=Gen	13	case	_	ref=LUCA16.20
+13	ușăi	ușii	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	11	obl	_	ref=LUCA16.20
+14	lui	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nmod	_	ref=LUCA16.20|SpaceAfter=No
+15	,	,	PUNCT	COMMA	_	16	punct	_	ref=LUCA16.20
+16	zgăibos	zgăibos	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	11	xcomp	_	ref=LUCA16.20|SpaceAfter=No
+17	.	.	PUNCT	PERIOD	_	3	punct	_	ref=LUCA16.20
 
 ~~~
 

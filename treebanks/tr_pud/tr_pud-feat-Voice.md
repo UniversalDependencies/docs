@@ -11,7 +11,7 @@ It occurs with 3 different values: `Cau`, `CauPass`, `Pass`.
 
 362 tokens (2%) have a non-empty value of `Voice`.
 289 types (4%) occur at least once with a non-empty value of `Voice`.
-1 lemmas (0) occur at least once with a non-empty value of `Voice`.
+220 lemmas (5%) occur at least once with a non-empty value of `Voice`.
 The feature is used with 5 part-of-speech tags: <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (228; 1% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (79; 0% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (41; 0% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (13; 0% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (1; 0% instances).
 
 ### `VERB`
@@ -23,9 +23,16 @@ The most frequent other feature values with which `VERB` and `Voice` co-occurred
 `VERB` tokens may have the following values of `Voice`:
 
 * `Cau` (66; 29% of non-empty `Voice`): <em>geçirdi, anlatır, belirtti, çıkardı, başlattı, değiştirdi, geliştirdi, adlandırdı, adlandırmışlardır, anlatıyor</em>
-* `CauPass` (20; 9% of non-empty `Voice`): <em>adlandırılır, başlatıldı, bildirildi, bitirildi, değerlendirilmektedir, değiştirildi, durdurulamazdı, durduruldu, etkinleştirilecek, evcilleştirildi</em>
+* `CauPass` (20; 9% of non-empty `Voice`): <em>adlandırılır, başlatıldı, bildirildi, bitirildi, d​e​ğ​e​r​l​e​n​d​i​r​i​l​m​e​k​t​e​d​i​r, değiştirildi, durdurulamazdı, durduruldu, etkinleştirilecek, evcilleştirildi</em>
 * `Pass` (142; 62% of non-empty `Voice`): <em>edildi, edilmiştir, yapıldı, edilmiş, görülür, bölünmüştür, etkilenmişlerdir, getirildi, görülebilir, katılacak</em>
 * `EMPTY` (791): <em>dedi, etti, ise, başladı, söyledi, çıktı, verdi, ediyor, geldi, aldı</em>
+
+<table>
+  <tr><th>Paradigm <i>başla</i></th><th><tt>Cau</tt></th><th><tt>CauPass</tt></th></tr>
+  <tr><td><tt></tt></td><td><em>başlattı</em></td><td><em>başlatıldı</em></td></tr>
+</table>
+
+`Voice` seems to be **lexical feature** of `VERB`. 94% lemmas (137) occur only with one value of `Voice`.
 
 ### `NOUN`
 
@@ -35,10 +42,19 @@ The most frequent other feature values with which `NOUN` and `Voice` co-occurred
 
 `NOUN` tokens may have the following values of `Voice`:
 
-* `Cau` (16; 20% of non-empty `Voice`): <em>azaltılmasında, bayağılaştırdıklarını, gerçekleştirmekten, geçirmekten, gönderebilmekten, görmekten, kolaylaştırmamız, oluşturmak, oynamaktan, sömürgeleştirme</em>
-* `CauPass` (3; 4% of non-empty `Voice`): <em>federalleştirilmesini, nitelendirmesiyle, oluşturulması</em>
+* `Cau` (16; 20% of non-empty `Voice`): <em>azaltılmasında, b​a​y​a​ğ​ı​l​a​ş​t​ı​r​d​ı​k​l​a​r​ı​n​ı, gerçekleştirmekten, geçirmekten, gönderebilmekten, görmekten, kolaylaştırmamız, oluşturmak, oynamaktan, sömürgeleştirme</em>
+* `CauPass` (3; 4% of non-empty `Voice`): <em>f​e​d​e​r​a​l​l​e​ş​t​i​r​i​l​m​e​s​i​n​i, nitelendirmesiyle, oluşturulması</em>
 * `Pass` (60; 76% of non-empty `Voice`): <em>edilmesi, alınmasının, kullanılması, verilmesi, yapılması, atanmasını, atılmasının, avlanmasında, ayrıştırılması, bozulması</em>
 * `EMPTY` (6306): <em>arasında, tarafından, yıl, şekilde, kuzey, yılında, ortaya, güney, yer, konusunda</em>
+
+<table>
+  <tr><th>Paradigm <i>ver</i></th><th><tt>Pass</tt></th><th><tt>Cau</tt></th></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Case.html">Case</a></tt><tt>=Abl</tt></tt></td><td></td><td><em>vermekten</em></td></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>verilmesini</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt></tt></td><td><em>verilmesi</em></td><td></td></tr>
+</table>
+
+`Voice` seems to be **lexical feature** of `NOUN`. 95% lemmas (62) occur only with one value of `Voice`.
 
 ### `ADJ`
 
@@ -49,9 +65,18 @@ The most frequent other feature values with which `ADJ` and `Voice` co-occurred:
 `ADJ` tokens may have the following values of `Voice`:
 
 * `Cau` (3; 7% of non-empty `Voice`): <em>gerçekleştiren, zorlaştıran, çıkaracak</em>
-* `CauPass` (6; 15% of non-empty `Voice`): <em>gerçekleştirilen, evcilleştirilenleştirilen, geliştirilmiş, küçültülmüş</em>
+* `CauPass` (6; 15% of non-empty `Voice`): <em>gerçekleştirilen, e​v​c​i​l​l​e​ş​t​i​r​i​l​e​n​l​e​ş​t​i​r​i​l​e​n, geliştirilmiş, küçültülmüş</em>
 * `Pass` (32; 78% of non-empty `Voice`): <em>inanılmaz, edilemez, uygulanabilir, Yenilenebilir, adanmış, alışılmamış, beklenmedik, biçilmiş, cevaplanamamış, donatılmış</em>
 * `EMPTY` (1703): <em>büyük, yeni, son, sahip, fazla, ilk, aynı, eden, iyi, olan</em>
+
+<table>
+  <tr><th>Paradigm <i>gerçekleş</i></th><th><tt>Cau</tt></th><th><tt>CauPass</tt></th></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Hab</tt>|<tt><a href="tr_pud-feat-Mood.html">Mood</a></tt><tt>=Gen</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt></tt></td><td></td><td><em>gerçekleştirilen</em></td></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_pud-feat-Case.html">Case</a></tt><tt>=Nom</tt>|<tt><a href="tr_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person-psor.html">Person[psor]</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td><em>gerçekleştiren</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Aspect.html">Aspect</a></tt><tt>=Perf</tt>|<tt><a href="tr_pud-feat-Mood.html">Mood</a></tt><tt>=Ind</tt>|<tt><a href="tr_pud-feat-VerbForm.html">VerbForm</a></tt><tt>=Part</tt></tt></td><td></td><td><em>gerçekleştirilen</em></td></tr>
+</table>
+
+`Voice` seems to be **lexical feature** of `ADJ`. 97% lemmas (29) occur only with one value of `Voice`.
 
 ### `AUX`
 

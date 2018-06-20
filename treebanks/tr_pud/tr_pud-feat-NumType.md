@@ -11,7 +11,7 @@ It occurs with 1 different values: `Ord`.
 
 123 tokens (1%) have a non-empty value of `NumType`.
 81 types (1%) occur at least once with a non-empty value of `NumType`.
-1 lemmas (0) occur at least once with a non-empty value of `NumType`.
+62 lemmas (1%) occur at least once with a non-empty value of `NumType`.
 The feature is used with 5 part-of-speech tags: <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (116; 1% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (3; 0% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (2; 0% instances), <tt><a href="tr_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 ### `NUM`
@@ -24,6 +24,8 @@ The most frequent other feature values with which `NUM` and `NumType` co-occurre
 
 * `Ord` (116; 100% of non-empty `NumType`): <em>iki, ikinci, üçüncü, Birinci, İkinci, 5., 8., on, yedi, üç</em>
 * `EMPTY` (260): <em>iki, üç, bir, on, 10, altı, milyar, milyon, dört, 1</em>
+
+`NumType` seems to be **lexical feature** of `NUM`. 100% lemmas (60) occur only with one value of `NumType`.
 
 ### `AUX`
 

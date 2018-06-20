@@ -108,13 +108,13 @@ The most frequent other feature values with which `AUX` and `Case` co-occurred: 
 
 The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="hi_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (205; 64%),
-<tt>NOUN --[<tt><a href="hi_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (159; 72%),
-<tt>PROPN --[<tt><a href="hi_pud-dep-conj.html">conj</a></tt>]--> PROPN</tt> (43; 72%),
-<tt>NOUN --[<tt><a href="hi_pud-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (37; 51%),
+<tt>NOUN --[<tt><a href="hi_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (160; 72%),
+<tt>PROPN --[<tt><a href="hi_pud-dep-conj.html">conj</a></tt>]--> PROPN</tt> (44; 72%),
+<tt>NOUN --[<tt><a href="hi_pud-dep-nmod.html">nmod</a></tt>]--> PROPN</tt> (14; 52%),
 <tt>NOUN --[<tt><a href="hi_pud-dep-obj.html">obj</a></tt>]--> NOUN</tt> (12; 86%),
 <tt>NOUN --[<tt><a href="hi_pud-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (11; 79%),
 <tt>NOUN --[<tt><a href="hi_pud-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (11; 79%),
 <tt>NOUN --[<tt><a href="hi_pud-dep-nsubj.html">nsubj</a></tt>]--> PROPN</tt> (9; 64%),
-<tt>PROPN --[<tt><a href="hi_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (8; 62%),
-<tt>PROPN --[<tt><a href="hi_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (7; 58%).
+<tt>PROPN --[<tt><a href="hi_pud-dep-conj.html">conj</a></tt>]--> NOUN</tt> (8; 62%),
+<tt>PROPN --[<tt><a href="hi_pud-dep-nmod-poss.html">nmod:poss</a></tt>]--> PROPN</tt> (8; 62%).
 

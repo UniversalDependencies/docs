@@ -13,7 +13,7 @@ This is a <a href="../../u/overview/feat-layers.html">layered feature</a> with t
 
 2539 tokens (15%) have a non-empty value of `Number[psor]`.
 1789 types (24%) occur at least once with a non-empty value of `Number[psor]`.
-1 lemmas (0) occur at least once with a non-empty value of `Number[psor]`.
+1254 lemmas (28%) occur at least once with a non-empty value of `Number[psor]`.
 The feature is used with 9 part-of-speech tags: <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (2309; 14% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (109; 1% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (56; 0% instances), <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> (24; 0% instances), <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> (22; 0% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (15; 0% instances), <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="tr_pud-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> (1; 0% instances).
 
 ### `NOUN`
@@ -25,6 +25,17 @@ The most frequent other feature values with which `NOUN` and `Number[psor]` co-o
 `NOUN` tokens may have the following values of `Number[psor]`:
 
 
+<table>
+  <tr><th>Paradigm <i>ara</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Case.html">Case</a></tt><tt>=Dat</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>arasına</em></td></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>arasında</em></td></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td><em>Aralarında</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Case.html">Case</a></tt><tt>=Loc</tt>|<tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Plur</tt>|<tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>aralarında</em></td></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Number.html">Number</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>arası</em></td></tr>
+</table>
+
+`Number[psor]` seems to be **lexical feature** of `NOUN`. 96% lemmas (1140) occur only with one value of `Number[psor]`.
+
 ### `ADJ`
 
 109 <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> tokens (6% of all `ADJ` tokens) have a non-empty value of `Number[psor]`.
@@ -34,6 +45,14 @@ The most frequent other feature values with which `ADJ` and `Number[psor]` co-oc
 `ADJ` tokens may have the following values of `Number[psor]`:
 
 
+<table>
+  <tr><th>Paradigm <i>duy</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt></tt></td><td></td><td><em>duyduğu</em></td></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td><em>duydukları</em></td><td></td></tr>
+</table>
+
+`Number[psor]` seems to be **lexical feature** of `ADJ`. 99% lemmas (69) occur only with one value of `Number[psor]`.
+
 ### `AUX`
 
 56 <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> tokens (11% of all `AUX` tokens) have a non-empty value of `Number[psor]`.
@@ -42,6 +61,8 @@ The most frequent other feature values with which `AUX` and `Number[psor]` co-oc
 
 `AUX` tokens may have the following values of `Number[psor]`:
 
+
+`Number[psor]` seems to be **lexical feature** of `AUX`. 100% lemmas (11) occur only with one value of `Number[psor]`.
 
 ### `ADP`
 
@@ -59,6 +80,14 @@ The most frequent other feature values with which `PRON` and `Number[psor]` co-o
 `PRON` tokens may have the following values of `Number[psor]`:
 
 
+<table>
+  <tr><th>Paradigm <i>kendi</i></th><th><tt>Plur</tt></th><th><tt>Sing</tt></th></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>kendisini</em></td></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Case.html">Case</a></tt><tt>=Acc</tt>|<tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Plur</tt></tt></td><td><em>kendilerini</em></td><td></td></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Case.html">Case</a></tt><tt>=Gen</tt>|<tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>kendisinin</em></td></tr>
+  <tr><td><tt><tt><a href="tr_pud-feat-Number-psor.html">Number[psor]</a></tt><tt>=Sing</tt>|<tt><a href="tr_pud-feat-Person.html">Person</a></tt><tt>=3</tt>|<tt><a href="tr_pud-feat-Reflex.html">Reflex</a></tt><tt>=Yes</tt></tt></td><td></td><td><em>kendisi</em></td></tr>
+</table>
+
 ### `PROPN`
 
 15 <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> tokens (1% of all `PROPN` tokens) have a non-empty value of `Number[psor]`.
@@ -67,6 +96,8 @@ The most frequent other feature values with which `PROPN` and `Number[psor]` co-
 
 `PROPN` tokens may have the following values of `Number[psor]`:
 
+
+`Number[psor]` seems to be **lexical feature** of `PROPN`. 100% lemmas (15) occur only with one value of `Number[psor]`.
 
 ### `ADV`
 

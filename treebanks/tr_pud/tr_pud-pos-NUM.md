@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Turkish-PUD: POS Tags: `NUM`
 
-There are 1 `NUM` lemmas (6%), 189 `NUM` types (3%) and 376 `NUM` tokens (2%).
-Out of 16 observed tags, the rank of `NUM` is: 9 in number of lemmas, 6 in number of types and 11 in number of tokens.
+There are 158 `NUM` lemmas (3%), 189 `NUM` types (3%) and 376 `NUM` tokens (2%).
+Out of 16 observed tags, the rank of `NUM` is: 6 in number of lemmas, 6 in number of types and 11 in number of tokens.
 
-The 10 most frequent `NUM` lemmas: <em>_</em>
+The 10 most frequent `NUM` lemmas: <em>iki, _, üç, bir, on, ikinci, milyon, 10, altı, dört</em>
 
 The 10 most frequent `NUM` types:  <em>iki, üç, bir, on, milyon, altı, dört, 10, milyar, 1</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 6385, <tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> 2149, <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> 1744, <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> 1526, <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> 1019, <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 851, <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 699, <tt><a href="tr_pud-pos-DET.html">DET</a></tt> 685, <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> 525, <tt><a href="tr_pud-pos-CCONJ.html">CCONJ</a></tt> 493, <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> 376, <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> 307, <tt><a href="tr_pud-pos-X.html">X</a></tt> 106, <tt><a href="tr_pud-pos-SCONJ.html">SCONJ</a></tt> 13, <tt><a href="tr_pud-pos-SYM.html">SYM</a></tt> 6, <tt><a href="tr_pud-pos-INTJ.html">INTJ</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>iki</em> (<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> 36, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 8), <em>_</em> (<tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> 135, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 87, <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> 70, <tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> 63, <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> 29, <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> 26, <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 16, <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> 12, <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 7, <tt><a href="tr_pud-pos-X.html">X</a></tt> 6, <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> 5, <tt><a href="tr_pud-pos-SYM.html">SYM</a></tt> 5), <em>bir</em> (<tt><a href="tr_pud-pos-DET.html">DET</a></tt> 417, <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> 12, <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> 5, <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 2, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>on</em> (<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> 12, <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> 1, <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>ikinci</em> (<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> 9, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 2), <em>milyon</em> (<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> 8, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 4), <em>altı</em> (<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> 7, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 4), <em>milyar</em> (<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> 6, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>20</em> (<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> 5, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 1), <em>2013</em> (<tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> 3, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>bir</em> (<tt><a href="tr_pud-pos-DET.html">DET</a></tt> 403, <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> 10, <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 2)
 
@@ -25,9 +25,13 @@ The 10 most frequent ambiguous types:  <em>bir</em> (<tt><a href="tr_pud-pos-DET
 
 ## Morphology
 
-The form / lemma ratio of `NUM` is 189.000000 (the average of all parts of speech is 471.125000).
+The form / lemma ratio of `NUM` is 1.196203 (the average of all parts of speech is 1.493265).
 
-The 1st highest number of forms (189) was observed with the lemma “_”: <em>%1, %10, %100, 1, 1,165, 1,335, 1,365, 1,4, 1,5, 1., 1.4, 10, 10,000, 10., 10.000, 100, 100.000, 1000, 103,7, 1075, 11, 12, 12.000, 120, 1200, 125, 13., 1340, 137, 14, 14., 1415, 1492, 15, 15., 15.000, 15.001, 15.5, 1563, 16, 16., 16.500, 168.000, 17, 1770, 18, 1832, 1858, 1860, 1882, 1886, 1887, 19, 19.999, 1900, 1904, 1914, 1917, 1918, 1926, 1947, 1948, 1954, 1955, 1960, 1962, 1975, 1980, 1987, 1991, 1992, 1994, 1997, 2, 2., 20, 20., 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2008, 2009, 2010, 2011, 2013, 2014, 2015, 2016, 2017, 2019, 2020, 2035, 2050, 21, 221, 23, 24, 25, 25.000, 27, 28, 2900, 3, 3., 3.000, 30, 3000, 31, 31., 328, 330, 330,000, 3300, 34, 35.000, 352, 36, 360, 363, 4, 4., 400, 42, 45, 45., 5, 5,7, 5., 5.000, 50, 500, 511, 512, 53, 550, 6, 6., 6.30-10.00, 600.000, 7, 7.5, 700, 71, 760, 8., 80, 830, 833, 84, 846, 9, 9., 90, 96., Birinci, I, III, III., IV, VI., altmışıncı, altı, beş, bin, bir, dokuz, dördüncü, dört, elli, iki, ikinci, kırk, milyar, milyon, on, onüçüncü, otuz, sekiz, sekizinci, yedi, yirmi, üç, üçüncü, İki, İkinci</em>.
+The 1st highest number of forms (25) was observed with the lemma “_”: <em>%100, 15.001, 16., 1770, 1860, 1960, 1980, 2900, 330, 360, 45., 5,7, 5., 5.000, 550, 6., 6.30-10.00, 760, 8., 830, 9., 90, 96., III., VI.</em>.
+
+The 2nd highest number of forms (2) was observed with the lemma “1”: <em>1, 1.</em>.
+
+The 3rd highest number of forms (2) was observed with the lemma “10”: <em>10, 10.</em>.
 
 `NUM` occurs with 4 features: <tt><a href="tr_pud-feat-Number.html">Number</a></tt> (374; 99% instances), <tt><a href="tr_pud-feat-NumType.html">NumType</a></tt> (116; 31% instances), <tt><a href="tr_pud-feat-Definite.html">Definite</a></tt> (12; 3% instances), <tt><a href="tr_pud-feat-Polarity.html">Polarity</a></tt> (12; 3% instances)
 

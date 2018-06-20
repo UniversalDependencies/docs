@@ -22,22 +22,22 @@ The following 14 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
 # visual-style 3 8 advcl	color:blue
-1	Informace	informace	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	3	nsubj:pass	_	_
-2	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	3	expl:pass	_	_
-3	považuje	považovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-4	za	za	ADP	RR--4----------	AdpType=Prep|Case=Acc	5	case	_	LId=za-1
-5	spolehlivou	spolehlivý	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	3	obl:arg	_	SpaceAfter=No
-6	,	,	PUNCT	Z:-------------	_	8	punct	_	_
-7	jestliže	jestliže	SCONJ	J,-------------	_	8	mark	_	_
-8	splňuje	splňovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	_
-9	požadavek	požadavek	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	8	obj	_	_
-10	§_7_odst._1	§_7_odst._1	X	X@-------------	_	9	nmod	_	_
-11	a	a	CCONJ	J^-------------	_	13	cc	_	LId=a-1
-12	je-li	je-li	X	X@-------------	_	13	cop	_	_
-13	úplná	úplný	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	8	conj	_	_
-14	a	a	CCONJ	J^-------------	_	15	cc	_	LId=a-1
-15	včasná	včasný	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	13	conj	_	SpaceAfter=No
-16	.	.	PUNCT	Z:-------------	_	3	punct	_	_
+1	Informace	informace	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	3	nsubj:pass	3:nsubj:pass	_
+2	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	3	expl:pass	3:expl:pass	_
+3	považuje	považovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+4	za	za	ADP	RR--4----------	AdpType=Prep|Case=Acc	5	case	5:case	LId=za-1
+5	spolehlivou	spolehlivý	ADJ	AAFS4----1A----	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	3	obl:arg	3:obl:arg	SpaceAfter=No
+6	,	,	PUNCT	Z:-------------	_	8	punct	8:punct|13:punct|15:punct	_
+7	jestliže	jestliže	SCONJ	J,-------------	_	8	mark	8:mark	_
+8	splňuje	splňovat	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	3:advcl	_
+9	požadavek	požadavek	NOUN	NNIS4-----A----	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Polarity=Pos	8	obj	8:obj	_
+10	§_7_odst._1	§_7_odst._1	X	X@-------------	_	9	nmod	9:nmod	_
+11	a	a	CCONJ	J^-------------	_	13	cc	13:cc	LId=a-1
+12	je-li	je-li	X	X@-------------	_	13	cop	13:cop	_
+13	úplná	úplný	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	8	conj	3:advcl|8:conj	_
+14	a	a	CCONJ	J^-------------	_	15	cc	15:cc	LId=a-1
+15	včasná	včasný	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	13	conj	3:advcl|13:conj	SpaceAfter=No
+16	.	.	PUNCT	Z:-------------	_	3	punct	3:punct	_
 
 ~~~
 
@@ -48,24 +48,24 @@ The following 14 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 15	bgColor:blue
 # visual-style 15	fgColor:white
 # visual-style 15 17 advcl	color:blue
-1	Účetní	účetní	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	2	amod	_	LId=účetní-1
-2	období	období	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	8	nsubj	_	_
-3	bezprostředně	bezprostředně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	4	advmod	_	_
-4	předcházející	předcházející	ADJ	AGFS3-----A----	Aspect=Imp|Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	2	amod	_	_
-5	změně	změna	NOUN	NNFS3-----A----	Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos	4	obj	_	_
-6	účetního	účetní	ADJ	AANS2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	7	amod	_	LId=účetní-1
-7	období	období	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	5	nmod	_	_
-8	může	moci	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-9	být	být	AUX	Vf--------A----	Polarity=Pos|VerbForm=Inf	10	cop	_	_
-10	kratší	krátký	ADJ	AAIS1----2A----	Animacy=Inan|Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing|Polarity=Pos	8	xcomp	_	_
-11	nebo	nebo	CCONJ	J^-------------	_	13	cc	_	_
-12	i	i	CCONJ	J^-------------	_	13	advmod:emph	_	LId=i-1
-13	delší	dlouhý	ADJ	AAIS1----2A----	Animacy=Inan|Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing|Polarity=Pos	10	conj	_	LId=dlouhý-2
-14	než	než	SCONJ	J,-------------	_	15	mark	_	LId=než-2
-15	uvedených	uvedený	ADJ	AAIP2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	13	advcl	_	_
-16	dvanáct	dvanáct	NUM	Cn-S4----------	Case=Acc|Number=Sing|NumForm=Word|NumType=Card	17	nummod:gov	_	_
-17	měsíců	měsíc	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	15	advcl	_	SpaceAfter=No
-18	.	.	PUNCT	Z:-------------	_	8	punct	_	_
+1	Účetní	účetní	ADJ	AANS1----1A----	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	2	amod	2:amod	LId=účetní-1
+2	období	období	NOUN	NNNS1-----A----	Case=Nom|Gender=Neut|Number=Sing|Polarity=Pos	8	nsubj	8:nsubj	_
+3	bezprostředně	bezprostředně	ADV	Dg-------1A----	Degree=Pos|Polarity=Pos	4	advmod	4:advmod	_
+4	předcházející	předcházející	ADJ	AGFS3-----A----	Aspect=Imp|Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos|Tense=Pres|VerbForm=Part|Voice=Act	2	amod	2:amod	_
+5	změně	změna	NOUN	NNFS3-----A----	Case=Dat|Gender=Fem|Number=Sing|Polarity=Pos	4	obj	4:obj	_
+6	účetního	účetní	ADJ	AANS2----1A----	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	7	amod	7:amod	LId=účetní-1
+7	období	období	NOUN	NNNS2-----A----	Case=Gen|Gender=Neut|Number=Sing|Polarity=Pos	5	nmod	5:nmod	_
+8	může	moci	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+9	být	být	AUX	Vf--------A----	Polarity=Pos|VerbForm=Inf	10	cop	10:cop	_
+10	kratší	krátký	ADJ	AAIS1----2A----	Animacy=Inan|Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing|Polarity=Pos	8	xcomp	8:xcomp	_
+11	nebo	nebo	CCONJ	J^-------------	_	13	cc	13:cc	_
+12	i	i	CCONJ	J^-------------	_	13	advmod:emph	13:advmod:emph	LId=i-1
+13	delší	dlouhý	ADJ	AAIS1----2A----	Animacy=Inan|Case=Nom|Degree=Cmp|Gender=Masc|Number=Sing|Polarity=Pos	10	conj	8:xcomp|10:conj	LId=dlouhý-2
+14	než	než	SCONJ	J,-------------	_	15	mark	15:mark	LId=než-2
+15	uvedených	uvedený	ADJ	AAIP2----1A----	Animacy=Inan|Case=Gen|Degree=Pos|Gender=Masc|Number=Plur|Polarity=Pos	13	advcl	13:advcl	_
+16	dvanáct	dvanáct	NUM	Cn-S4----------	Case=Acc|Number=Sing|NumForm=Word|NumType=Card	17	nummod:gov	17:nummod:gov	_
+17	měsíců	měsíc	NOUN	NNIP2-----A----	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur|Polarity=Pos	15	advcl	15:advcl	SpaceAfter=No
+18	.	.	PUNCT	Z:-------------	_	8	punct	8:punct	_
 
 ~~~
 
@@ -76,22 +76,22 @@ The following 14 pairs of parts of speech are connected with `advcl`: <tt><a hre
 # visual-style 8	bgColor:blue
 # visual-style 8	fgColor:white
 # visual-style 8 5 advcl	color:blue
-1	Pokud	pokud	SCONJ	J,-------------	_	5	mark	_	_
-2	tato	tento	DET	PDFS1----------	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
-3	sazba	sazba	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	5	nsubj	_	_
-4	daně	daň	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	3	nmod	_	_
-5	známa	známý	ADJ	ACQW------A----	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short	8	advcl	_	LId=známý-2
-6	není	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	SpaceAfter=No
-7	,	,	PUNCT	Z:-------------	_	5	punct	_	_
-8	použije	použít	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-9	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	8	expl:pass	_	_
-10	sazba	sazba	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	8	nsubj:pass	_	_
-11	platná	platný	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	10	amod	_	_
-12	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	15	case	_	LId=v-1
-13	příštím	příští	ADJ	AANS6----1A----	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	15	amod	_	_
-14	účetním	účetní	ADJ	AANS6----1A----	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	15	amod	_	LId=účetní-1
-15	období	období	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	11	obl	_	SpaceAfter=No
-16	.	.	PUNCT	Z:-------------	_	8	punct	_	_
+1	Pokud	pokud	SCONJ	J,-------------	_	5	mark	5:mark	_
+2	tato	tento	DET	PDFS1----------	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	3	det	3:det	_
+3	sazba	sazba	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	5	nsubj	5:nsubj	_
+4	daně	daň	NOUN	NNFS2-----A----	Case=Gen|Gender=Fem|Number=Sing|Polarity=Pos	3	nmod	3:nmod	_
+5	známa	známý	ADJ	ACQW------A----	Gender=Fem,Neut|Number=Plur,Sing|Polarity=Pos|Variant=Short	8	advcl	8:advcl	LId=známý-2
+6	není	být	AUX	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	5:cop	SpaceAfter=No
+7	,	,	PUNCT	Z:-------------	_	5	punct	5:punct	_
+8	použije	použít	VERB	VB-S---3P-AA---	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
+9	se	se	PRON	P7-X4----------	Case=Acc|PronType=Prs|Reflex=Yes|Variant=Short	8	expl:pass	8:expl:pass	_
+10	sazba	sazba	NOUN	NNFS1-----A----	Case=Nom|Gender=Fem|Number=Sing|Polarity=Pos	8	nsubj:pass	8:nsubj:pass	_
+11	platná	platný	ADJ	AAFS1----1A----	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing|Polarity=Pos	10	amod	10:amod	_
+12	v	v	ADP	RR--6----------	AdpType=Prep|Case=Loc	15	case	15:case	LId=v-1
+13	příštím	příští	ADJ	AANS6----1A----	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	15	amod	15:amod	_
+14	účetním	účetní	ADJ	AANS6----1A----	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing|Polarity=Pos	15	amod	15:amod	LId=účetní-1
+15	období	období	NOUN	NNNS6-----A----	Case=Loc|Gender=Neut|Number=Sing|Polarity=Pos	11	obl	11:obl	SpaceAfter=No
+16	.	.	PUNCT	Z:-------------	_	8	punct	8:punct	_
 
 ~~~
 

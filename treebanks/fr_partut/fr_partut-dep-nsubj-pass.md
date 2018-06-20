@@ -7,7 +7,7 @@ udver: '2'
 ## Treebank Statistics: UD_French-ParTUT: Relations: `nsubj:pass`
 
 This relation is a language-specific subtype of <tt><a href="fr_partut-dep-nsubj.html">nsubj</a></tt>.
-There are also 2 other language-specific subtypes of `nsubj`: <tt><a href="fr_partut-dep-nsubj-caus.html">nsubj:caus</a></tt>, <tt><a href="fr_partut-dep-nsubj-expl.html">nsubj:expl</a></tt>.
+There are also 1 other language-specific subtypes of `nsubj`: <tt><a href="fr_partut-dep-nsubj-caus.html">nsubj:caus</a></tt>.
 
 224 nodes (1%) are attached to their parents as `nsubj:pass`.
 

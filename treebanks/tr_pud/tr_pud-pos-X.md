@@ -6,14 +6,14 @@ udver: '2'
 
 ## Treebank Statistics: UD_Turkish-PUD: POS Tags: `X`
 
-There are 1 `X` lemmas (6%), 83 `X` types (1%) and 106 `X` tokens (1%).
-Out of 16 observed tags, the rank of `X` is: 16 in number of lemmas, 9 in number of types and 13 in number of tokens.
+There are 77 `X` lemmas (2%), 83 `X` types (1%) and 106 `X` tokens (1%).
+Out of 16 observed tags, the rank of `X` is: 7 in number of lemmas, 9 in number of types and 13 in number of tokens.
 
-The 10 most frequent `X` lemmas: <em>_</em>
+The 10 most frequent `X` lemmas: <em>the, _, of, North, Association, Mps, My, News, Really, Street</em>
 
 The 10 most frequent `X` types:  <em>the, of, North, Association, My, News, Really, Uber, You, lerin</em>
 
-The 10 most frequent ambiguous lemmas: <em>_</em> (<tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 6385, <tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> 2149, <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> 1744, <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> 1526, <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> 1019, <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 851, <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 699, <tt><a href="tr_pud-pos-DET.html">DET</a></tt> 685, <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> 525, <tt><a href="tr_pud-pos-CCONJ.html">CCONJ</a></tt> 493, <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> 376, <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> 307, <tt><a href="tr_pud-pos-X.html">X</a></tt> 106, <tt><a href="tr_pud-pos-SCONJ.html">SCONJ</a></tt> 13, <tt><a href="tr_pud-pos-SYM.html">SYM</a></tt> 6, <tt><a href="tr_pud-pos-INTJ.html">INTJ</a></tt> 2)
+The 10 most frequent ambiguous lemmas: <em>the</em> (<tt><a href="tr_pud-pos-X.html">X</a></tt> 5, <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>_</em> (<tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> 135, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 87, <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> 70, <tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> 63, <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> 29, <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> 26, <tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 16, <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> 12, <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> 7, <tt><a href="tr_pud-pos-X.html">X</a></tt> 6, <tt><a href="tr_pud-pos-PRON.html">PRON</a></tt> 5, <tt><a href="tr_pud-pos-SYM.html">SYM</a></tt> 5), <em>Uber</em> (<tt><a href="tr_pud-pos-X.html">X</a></tt> 2, <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>America</em> (<tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="tr_pud-pos-X.html">X</a></tt> 1), <em>de</em> (<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 61, <tt><a href="tr_pud-pos-VERB.html">VERB</a></tt> 28, <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> 5, <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> 1, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 1, <tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> 1, <tt><a href="tr_pud-pos-X.html">X</a></tt> 1), <em>her</em> (<tt><a href="tr_pud-pos-DET.html">DET</a></tt> 31, <tt><a href="tr_pud-pos-X.html">X</a></tt> 1), <em>son</em> (<tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> 28, <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> 8, <tt><a href="tr_pud-pos-X.html">X</a></tt> 1)
 
 The 10 most frequent ambiguous types:  <em>the</em> (<tt><a href="tr_pud-pos-X.html">X</a></tt> 4, <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>Uber</em> (<tt><a href="tr_pud-pos-X.html">X</a></tt> 2, <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> 1), <em>America</em> (<tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> 1, <tt><a href="tr_pud-pos-X.html">X</a></tt> 1), <em>Her</em> (<tt><a href="tr_pud-pos-DET.html">DET</a></tt> 5, <tt><a href="tr_pud-pos-X.html">X</a></tt> 1), <em>Son</em> (<tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> 6, <tt><a href="tr_pud-pos-X.html">X</a></tt> 1), <em>de</em> (<tt><a href="tr_pud-pos-ADV.html">ADV</a></tt> 61, <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> 4, <tt><a href="tr_pud-pos-X.html">X</a></tt> 1)
 
@@ -40,9 +40,13 @@ The 10 most frequent ambiguous types:  <em>the</em> (<tt><a href="tr_pud-pos-X.h
 
 ## Morphology
 
-The form / lemma ratio of `X` is 83.000000 (the average of all parts of speech is 471.125000).
+The form / lemma ratio of `X` is 1.077922 (the average of all parts of speech is 1.493265).
 
-The 1st highest number of forms (83) was observed with the lemma “_”: <em>'da, America, Anyway"in, Associated, Association, Breaking, Buck, Casa, Circuit, Cis, Consumer, Dead, Don't, Energy, Engagement, Evening, Father, Fishing, Five, Fjögur, Forums'ın, Gate, Go, Golden, Guide, H, Hack, Head, Heart"ı, Her, Hitchhiker's, House'da, Humblebums, If, Knew, Knuck, Like, Motion, Mps, Mps'ye, Muppets, My, News, North, Now, Open'daki, Over, Picture, Power, Prayer, Píanó, Really, Record, Rocket, Shaky, Son, South, Stranger, Street, Street'te, Style, Talking, Team, Technology, That, Things, Uber, Universiade, Vantage, Wall, Wheel, Year, You, andino, de, feet, in, lerin, mos, of, the, tipo, to</em>.
+The 1st highest number of forms (5) was observed with the lemma “_”: <em>Anyway"in, Heart"ı, Open'daki, in, lerin</em>.
+
+The 2nd highest number of forms (2) was observed with the lemma “Mps”: <em>Mps, Mps'ye</em>.
+
+The 3rd highest number of forms (2) was observed with the lemma “Street”: <em>Street, Street'te</em>.
 
 `X` occurs with 6 features: <tt><a href="tr_pud-feat-Case.html">Case</a></tt> (14; 13% instances), <tt><a href="tr_pud-feat-Number.html">Number</a></tt> (12; 11% instances), <tt><a href="tr_pud-feat-Foreign.html">Foreign</a></tt> (4; 4% instances), <tt><a href="tr_pud-feat-Person.html">Person</a></tt> (2; 2% instances), <tt><a href="tr_pud-feat-Definite.html">Definite</a></tt> (1; 1% instances), <tt><a href="tr_pud-feat-Polarity.html">Polarity</a></tt> (1; 1% instances)
 
@@ -69,7 +73,7 @@ Parents of `X` nodes belong to 6 different parts of speech: <tt><a href="tr_pud-
 
 The highest child degree of a `X` node is 7.
 
-Children of `X` nodes are attached using 11 different relations: <tt><a href="tr_pud-dep-compound.html">compound</a></tt> (61; 63% instances), <tt><a href="tr_pud-dep-punct.html">punct</a></tt> (18; 19% instances), <tt><a href="tr_pud-dep-flat.html">flat</a></tt> (4; 4% instances), <tt><a href="tr_pud-dep-acl-relcl.html">acl:relcl</a></tt> (3; 3% instances), <tt><a href="tr_pud-dep-conj.html">conj</a></tt> (3; 3% instances), <tt><a href="tr_pud-dep-appos.html">appos</a></tt> (2; 2% instances), <tt><a href="tr_pud-dep-case.html">case</a></tt> (2; 2% instances), <tt><a href="tr_pud-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="tr_pud-dep-cop.html">cop</a></tt> (1; 1% instances), <tt><a href="tr_pud-dep-dep-ig.html">dep:ig</a></tt> (1; 1% instances), <tt><a href="tr_pud-dep-nummod.html">nummod</a></tt> (1; 1% instances)
+Children of `X` nodes are attached using 10 different relations: <tt><a href="tr_pud-dep-compound.html">compound</a></tt> (62; 64% instances), <tt><a href="tr_pud-dep-punct.html">punct</a></tt> (18; 19% instances), <tt><a href="tr_pud-dep-flat.html">flat</a></tt> (4; 4% instances), <tt><a href="tr_pud-dep-acl-relcl.html">acl:relcl</a></tt> (3; 3% instances), <tt><a href="tr_pud-dep-conj.html">conj</a></tt> (3; 3% instances), <tt><a href="tr_pud-dep-appos.html">appos</a></tt> (2; 2% instances), <tt><a href="tr_pud-dep-case.html">case</a></tt> (2; 2% instances), <tt><a href="tr_pud-dep-amod.html">amod</a></tt> (1; 1% instances), <tt><a href="tr_pud-dep-cop.html">cop</a></tt> (1; 1% instances), <tt><a href="tr_pud-dep-nummod.html">nummod</a></tt> (1; 1% instances)
 
 Children of `X` nodes belong to 8 different parts of speech: <tt><a href="tr_pud-pos-X.html">X</a></tt> (37; 38% instances), <tt><a href="tr_pud-pos-PROPN.html">PROPN</a></tt> (19; 20% instances), <tt><a href="tr_pud-pos-PUNCT.html">PUNCT</a></tt> (18; 19% instances), <tt><a href="tr_pud-pos-NOUN.html">NOUN</a></tt> (14; 14% instances), <tt><a href="tr_pud-pos-NUM.html">NUM</a></tt> (4; 4% instances), <tt><a href="tr_pud-pos-ADJ.html">ADJ</a></tt> (2; 2% instances), <tt><a href="tr_pud-pos-ADP.html">ADP</a></tt> (2; 2% instances), <tt><a href="tr_pud-pos-AUX.html">AUX</a></tt> (1; 1% instances)
 
