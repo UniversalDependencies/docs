@@ -145,10 +145,10 @@ Až to bude v masteru:
 <small><code style='color:lightgrey'>
 path=$(pwd) ;
 cd /net/data ;
-tar xzf $path/release-2.1/ud-treebanks-v2.1.tgz ;
-mv ud-treebanks-v2.1 universal-dependencies-2.1 ;
+tar xzf $path/release-2.2/ud-treebanks-v2.2.tgz ;
+mv ud-treebanks-v2.2 universal-dependencies-2.2 ;
 cd $HAMLEDT ;
-perl ./populate_ud21.pl ;
+perl ./populate_ud22.pl ;
 \# copy metadata to biblio
 \# add list of treebanks to $HAMLEDT/normalize/Makefile
 make qpmltq ;
