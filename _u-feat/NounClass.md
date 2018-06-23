@@ -70,7 +70,7 @@ The corresponding plural class is `Bantu2`.
 
 ## List of noun classes in Swahili
 
-(from https://en.wikipedia.org/wiki/Noun_class#Bantu_languages)
+(from [https://en.wikipedia.org/wiki/Noun_class](https://en.wikipedia.org/wiki/Noun_class#Bantu_languages))
 
 <table class="wikitable">
 <tbody><tr>
