@@ -7,7 +7,7 @@ udver: '2'
 
 <table class="typeindex" border="1">
 <tr>
-  <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
+  <td rowspan="2" style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Bantu1">Bantu1</a></td>
   <td><a href="#Bantu2">Bantu2</a></td>
   <td><a href="#Bantu3">Bantu3</a></td>
@@ -18,6 +18,8 @@ udver: '2'
   <td><a href="#Bantu8">Bantu8</a></td>
   <td><a href="#Bantu9">Bantu9</a></td>
   <td><a href="#Bantu10">Bantu10</a></td>
+</tr>
+<tr>
   <td><a href="#Bantu11">Bantu11</a></td>
   <td><a href="#Bantu12">Bantu12</a></td>
   <td><a href="#Bantu13">Bantu13</a></td>
@@ -52,7 +54,7 @@ noun should be its singular form.
 The set of values of this feature is specific for a language family or group.
 Within the group, it is possible to identify classes that have similar meaning
 across languages (although some classes may have merged or disappeared in
-some languages of the group). The value of the `NounClass` feature consists
+some languages in the group). The value of the `NounClass` feature consists
 of a short identifier of the language group (e.g., `Bantu`), and the number
 of the class (there is a standardized class numbering system accepted by
 scholars of the various Bantu languages; similar numbering systems should be
