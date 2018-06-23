@@ -25,11 +25,9 @@ English tagsets.
 
 See also the related feature of [Animacy]().
 
-African languages have an analogous feature of noun classes: there
+African languages have an analogous feature of [noun classes](NounClass): there
 might be separate grammatical categories for flat objects, long thin
-objects etc. African noun classes are not covered in the current
-guidelines because none of the languages covered by UD so far has such classes.
-They might be added in future.
+objects etc.
 
 ### <a name="Masc">`Masc`</a>: masculine gender
 
