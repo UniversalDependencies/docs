@@ -64,7 +64,7 @@ The following 21 pairs of parts of speech are connected with `iobj`: <tt><a href
 1	_	w	CCONJ	CONJ	_	6	cc	_	_
 2	_	_	ADP	PREP	AdpType=Prep	4	case	_	_
 3	_	_	NUM	NOUN_NUM	NumForm=Digit	4	nummod	_	_
-4	_	_	PROPN	NOUN_PROP+CASE_INDEF_GEN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	6	flat	_	_
+4	_	_	PROPN	NOUN_PROP+CASE_INDEF_GEN	Case=Gen|Definite=Ind|Gender=Masc|Number=Sing	6	dep	_	_
 5	_	_	PUNCT	PUNC	_	6	punct	_	_
 6	_	_	VERB	PV+PVSUFF_SUBJ:3FS	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Person=3|Voice=Act	0	root	_	_
 7	_	_	NOUN	NOUN+NSUFF_FEM_SG+CASE_DEF_NOM	Case=Nom|Definite=Com|Gender=Fem|Number=Sing	6	nsubj	_	_

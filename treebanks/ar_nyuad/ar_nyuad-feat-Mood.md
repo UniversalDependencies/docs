@@ -220,9 +220,10 @@ The most frequent other feature values with which `DET` and `Mood` co-occurred: 
 ## Relations with Agreement in `Mood`
 
 The 10 most frequent relations where parent and child node agree in `Mood`:
-<tt>VERB --[<tt><a href="ar_nyuad-dep-conj.html">conj</a></tt>]--> VERB</tt> (5294; 90%),
+<tt>VERB --[<tt><a href="ar_nyuad-dep-conj.html">conj</a></tt>]--> VERB</tt> (5292; 90%),
 <tt>VERB --[<tt><a href="ar_nyuad-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (3592; 80%),
 <tt>VERB --[<tt><a href="ar_nyuad-dep-cop.html">cop</a></tt>]--> AUX</tt> (1460; 62%),
 <tt>VERB --[<tt><a href="ar_nyuad-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (1431; 94%),
-<tt>VERB --[<tt><a href="ar_nyuad-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (1380; 59%).
+<tt>VERB --[<tt><a href="ar_nyuad-dep-xcomp.html">xcomp</a></tt>]--> VERB</tt> (1380; 59%),
+<tt>VERB --[<tt><a href="ar_nyuad-dep-dep.html">dep</a></tt>]--> VERB</tt> (1; 100%).
 

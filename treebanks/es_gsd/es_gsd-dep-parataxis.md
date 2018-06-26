@@ -29,7 +29,7 @@ The following 45 pairs of parts of speech are connected with `parataxis`: <tt><a
 5	,	,	PUNCT	_	_	2	punct	_	_
 6	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	iobj	_	_
 7	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
-8	Lolita	lolita	PROPN	_	_	7	acl	_	SpaceAfter=No
+8	Lolita	lolita	PROPN	_	_	7	advcl	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	2	punct	_	_
 
 ~~~

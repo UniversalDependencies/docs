@@ -252,7 +252,7 @@ The 10 most frequent relations where parent and child node agree in `Gender`:
 <tt>VERB --[<tt><a href="ar_nyuad-dep-nsubj.html">nsubj</a></tt>]--> NOUN</tt> (16017; 88%),
 <tt>PROPN --[<tt><a href="ar_nyuad-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (12836; 92%),
 <tt>VERB --[<tt><a href="ar_nyuad-dep-obj.html">obj</a></tt>]--> NOUN</tt> (9967; 55%),
-<tt>NOUN --[<tt><a href="ar_nyuad-dep-conj.html">conj</a></tt>]--> NOUN</tt> (9293; 65%),
+<tt>NOUN --[<tt><a href="ar_nyuad-dep-conj.html">conj</a></tt>]--> NOUN</tt> (9289; 65%),
 <tt>NOUN --[<tt><a href="ar_nyuad-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (8542; 57%),
 <tt>ADV --[<tt><a href="ar_nyuad-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (8039; 70%).
 

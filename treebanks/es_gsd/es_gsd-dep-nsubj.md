@@ -30,7 +30,7 @@ The following 72 pairs of parts of speech are connected with `nsubj`: <tt><a hre
 5	en	en	ADP	_	_	6	case	_	_
 6	verano	verano	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
 7	para	para	ADP	_	_	8	mark	_	_
-8	comer	comer	VERB	_	VerbForm=Inf	3	acl	_	_
+8	comer	comer	VERB	_	VerbForm=Inf	3	advcl	_	_
 9	o	o	CCONJ	_	_	10	cc	_	_
 10	cenar	cenar	VERB	_	VerbForm=Inf	8	conj	_	_
 11	fuera	fuera	ADV	_	_	10	advmod	_	SpaceAfter=No

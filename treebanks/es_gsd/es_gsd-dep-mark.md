@@ -28,7 +28,7 @@ The following 55 pairs of parts of speech are connected with `mark`: <tt><a href
 4	que	que	SCONJ	_	_	5	mark	_	_
 5	necesitas	necesita	VERB	_	Gender=Fem|Number=Plur|VerbForm=Fin	3	acl:relcl	_	_
 6	para	para	ADP	_	_	7	mark	_	_
-7	relajar	relajar	VERB	_	VerbForm=Inf	5	acl	_	_
+7	relajar	relajar	VERB	_	VerbForm=Inf	5	advcl	_	_
 8	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	7	iobj	_	_
 9	y	y	CCONJ	_	_	10	cc	_	_
 10	pasar	pasar	VERB	_	VerbForm=Inf	7	conj	_	_
@@ -53,7 +53,7 @@ The following 55 pairs of parts of speech are connected with `mark`: <tt><a href
 5	en	en	ADP	_	_	6	case	_	_
 6	verano	verano	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
 7	para	para	ADP	_	_	8	mark	_	_
-8	comer	comer	VERB	_	VerbForm=Inf	3	acl	_	_
+8	comer	comer	VERB	_	VerbForm=Inf	3	advcl	_	_
 9	o	o	CCONJ	_	_	10	cc	_	_
 10	cenar	cenar	VERB	_	VerbForm=Inf	8	conj	_	_
 11	fuera	fuera	ADV	_	_	10	advmod	_	SpaceAfter=No

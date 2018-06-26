@@ -235,7 +235,7 @@ The 10 most frequent relations where parent and child node agree in `Case`:
 <tt>NOUN --[<tt><a href="ar_nyuad-dep-amod.html">amod</a></tt>]--> ADJ</tt> (48200; 88%),
 <tt>NOUN --[<tt><a href="ar_nyuad-dep-nmod-poss.html">nmod:poss</a></tt>]--> NOUN</tt> (36026; 66%),
 <tt>NOUN --[<tt><a href="ar_nyuad-dep-nmod.html">nmod</a></tt>]--> NOUN</tt> (22628; 56%),
-<tt>NOUN --[<tt><a href="ar_nyuad-dep-conj.html">conj</a></tt>]--> NOUN</tt> (12324; 87%),
+<tt>NOUN --[<tt><a href="ar_nyuad-dep-conj.html">conj</a></tt>]--> NOUN</tt> (12322; 87%),
 <tt>NOUN --[<tt><a href="ar_nyuad-dep-nmod-poss.html">nmod:poss</a></tt>]--> PRON</tt> (9312; 62%),
 <tt>ADJ --[<tt><a href="ar_nyuad-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1714; 95%),
 <tt>ADJ --[<tt><a href="ar_nyuad-dep-amod.html">amod</a></tt>]--> ADJ</tt> (980; 78%),

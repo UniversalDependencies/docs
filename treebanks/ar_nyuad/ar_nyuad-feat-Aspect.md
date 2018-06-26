@@ -41,8 +41,9 @@ The most frequent other feature values with which `ADP` and `Aspect` co-occurred
 ## Relations with Agreement in `Aspect`
 
 The 10 most frequent relations where parent and child node agree in `Aspect`:
-<tt>VERB --[<tt><a href="ar_nyuad-dep-conj.html">conj</a></tt>]--> VERB</tt> (4783; 81%),
+<tt>VERB --[<tt><a href="ar_nyuad-dep-conj.html">conj</a></tt>]--> VERB</tt> (4781; 81%),
 <tt>VERB --[<tt><a href="ar_nyuad-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (2512; 56%),
 <tt>VERB --[<tt><a href="ar_nyuad-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (1085; 71%),
-<tt>VERB --[<tt><a href="ar_nyuad-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (578; 88%).
+<tt>VERB --[<tt><a href="ar_nyuad-dep-csubj.html">csubj</a></tt>]--> VERB</tt> (578; 88%),
+<tt>VERB --[<tt><a href="ar_nyuad-dep-dep.html">dep</a></tt>]--> VERB</tt> (1; 100%).
 

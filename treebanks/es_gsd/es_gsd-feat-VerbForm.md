@@ -173,10 +173,10 @@ The 10 most frequent relations where parent and child node agree in `VerbForm`:
 <tt>VERB --[<tt><a href="es_gsd-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (688; 58%),
 <tt>VERB --[<tt><a href="es_gsd-dep-parataxis.html">parataxis</a></tt>]--> VERB</tt> (501; 61%),
 <tt>VERB --[<tt><a href="es_gsd-dep-mark.html">mark</a></tt>]--> VERB</tt> (25; 52%),
-<tt>VERB --[<tt><a href="es_gsd-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (23; 64%),
 <tt>VERB --[<tt><a href="es_gsd-dep-cc.html">cc</a></tt>]--> VERB</tt> (18; 75%),
 <tt>VERB --[<tt><a href="es_gsd-dep-dep.html">dep</a></tt>]--> VERB</tt> (4; 80%),
 <tt>VERB --[<tt><a href="es_gsd-dep-nsubj.html">nsubj</a></tt>]--> VERB</tt> (3; 75%),
-<tt>AUX --[<tt><a href="es_gsd-dep-acl-relcl.html">acl:relcl</a></tt>]--> VERB</tt> (2; 100%),
-<tt>AUX --[<tt><a href="es_gsd-dep-advcl.html">advcl</a></tt>]--> VERB</tt> (2; 67%).
+<tt>AUX --[<tt><a href="es_gsd-dep-conj.html">conj</a></tt>]--> AUX</tt> (2; 100%),
+<tt>VERB --[<tt><a href="es_gsd-dep-advcl.html">advcl</a></tt>]--> AUX</tt> (2; 67%),
+<tt>VERB --[<tt><a href="es_gsd-dep-parataxis.html">parataxis</a></tt>]--> AUX</tt> (2; 67%).
 

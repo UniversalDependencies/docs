@@ -244,12 +244,12 @@ The most frequent other feature values with which `PART` and `Definite` co-occur
 The 10 most frequent relations where parent and child node agree in `Definite`:
 <tt>NOUN --[<tt><a href="ar_nyuad-dep-amod.html">amod</a></tt>]--> ADJ</tt> (46371; 84%),
 <tt>PROPN --[<tt><a href="ar_nyuad-dep-flat-name.html">flat:name</a></tt>]--> PROPN</tt> (10684; 76%),
-<tt>NOUN --[<tt><a href="ar_nyuad-dep-conj.html">conj</a></tt>]--> NOUN</tt> (10465; 73%),
-<tt>PROPN --[<tt><a href="ar_nyuad-dep-conj.html">conj</a></tt>]--> PROPN</tt> (1799; 71%),
-<tt>ADJ --[<tt><a href="ar_nyuad-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1771; 98%),
+<tt>NOUN --[<tt><a href="ar_nyuad-dep-conj.html">conj</a></tt>]--> NOUN</tt> (10461; 73%),
+<tt>PROPN --[<tt><a href="ar_nyuad-dep-conj.html">conj</a></tt>]--> PROPN</tt> (1798; 71%),
+<tt>ADJ --[<tt><a href="ar_nyuad-dep-conj.html">conj</a></tt>]--> ADJ</tt> (1772; 98%),
 <tt>ADJ --[<tt><a href="ar_nyuad-dep-amod.html">amod</a></tt>]--> ADJ</tt> (1041; 83%),
 <tt>PROPN --[<tt><a href="ar_nyuad-dep-appos.html">appos</a></tt>]--> PROPN</tt> (314; 100%),
 <tt>ADJ --[<tt><a href="ar_nyuad-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (233; 70%),
 <tt>ADJ --[<tt><a href="ar_nyuad-dep-nsubj.html">nsubj</a></tt>]--> PRON</tt> (193; 56%),
-<tt>ADJ --[<tt><a href="ar_nyuad-dep-conj.html">conj</a></tt>]--> NOUN</tt> (190; 71%).
+<tt>ADJ --[<tt><a href="ar_nyuad-dep-conj.html">conj</a></tt>]--> NOUN</tt> (189; 72%).
 

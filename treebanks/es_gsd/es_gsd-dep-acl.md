@@ -9,34 +9,12 @@ udver: '2'
 This relation is universal.
 There are 1 language-specific subtypes of `acl`: <tt><a href="es_gsd-dep-acl-relcl.html">acl:relcl</a></tt>.
 
-5608 nodes (1%) are attached to their parents as `acl`.
+2856 nodes (1%) are attached to their parents as `acl`.
 
-5111 instances of `acl` (91%) are left-to-right (parent precedes child).
-Average distance between parent and child is 5.34522111269615.
+2768 instances of `acl` (97%) are left-to-right (parent precedes child).
+Average distance between parent and child is 3.81512605042017.
 
-The following 43 pairs of parts of speech are connected with `acl`: <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (2649; 47% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (2290; 41% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (207; 4% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (73; 1% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (73; 1% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (66; 1% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (55; 1% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (35; 1% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (20; 0% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (18; 0% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (13; 0% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (11; 0% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (10; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (10; 0% instances), <tt><a href="es_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (9; 0% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (9; 0% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="es_gsd-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="es_gsd-pos-AUX.html">AUX</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="es_gsd-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="es_gsd-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-VERB.html">VERB</a></tt>-<tt><a href="es_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
-
-
-~~~ conllu
-# visual-style 8	bgColor:blue
-# visual-style 8	fgColor:white
-# visual-style 3	bgColor:blue
-# visual-style 3	fgColor:white
-# visual-style 3 8 acl	color:blue
-1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	sitio	sitio	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
-3	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	terraza	terraza	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
-5	en	en	ADP	_	_	6	case	_	_
-6	verano	verano	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
-7	para	para	ADP	_	_	8	mark	_	_
-8	comer	comer	VERB	_	VerbForm=Inf	3	acl	_	_
-9	o	o	CCONJ	_	_	10	cc	_	_
-10	cenar	cenar	VERB	_	VerbForm=Inf	8	conj	_	_
-11	fuera	fuera	ADV	_	_	10	advmod	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	3	punct	_	_
-
-~~~
+The following 34 pairs of parts of speech are connected with `acl`: <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (2290; 80% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (207; 7% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (73; 3% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (73; 3% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (66; 2% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (35; 1% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (20; 1% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (11; 0% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (10; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (10; 0% instances), <tt><a href="es_gsd-pos-ADP.html">ADP</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (9; 0% instances), <tt><a href="es_gsd-pos-DET.html">DET</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (8; 0% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (5; 0% instances), <tt><a href="es_gsd-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (4; 0% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt> (3; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (3; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (3; 0% instances), <tt><a href="es_gsd-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (3; 0% instances), <tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt>-<tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-ADV.html">ADV</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-PROPN.html">PROPN</a></tt>-<tt><a href="es_gsd-pos-X.html">X</a></tt> (2; 0% instances), <tt><a href="es_gsd-pos-ADV.html">ADV</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-DET.html">DET</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-NUM.html">NUM</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt>-<tt><a href="es_gsd-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-NUM.html">NUM</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-PRON.html">PRON</a></tt>-<tt><a href="es_gsd-pos-ADJ.html">ADJ</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="es_gsd-pos-PRON.html">PRON</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-SCONJ.html">SCONJ</a></tt>-<tt><a href="es_gsd-pos-X.html">X</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-SYM.html">SYM</a></tt>-<tt><a href="es_gsd-pos-VERB.html">VERB</a></tt> (1; 0% instances), <tt><a href="es_gsd-pos-X.html">X</a></tt>-<tt><a href="es_gsd-pos-NOUN.html">NOUN</a></tt> (1; 0% instances).
 
 
 ~~~ conllu
@@ -74,6 +52,30 @@ The following 43 pairs of parts of speech are connected with `acl`: <tt><a href=
 8	Gen.	gen.	X	_	_	9	compound	_	_
 9	Fl	fl	X	_	_	7	appos	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	1	punct	_	_
+
+~~~
+
+
+~~~ conllu
+# visual-style 5	bgColor:blue
+# visual-style 5	fgColor:white
+# visual-style 2	bgColor:blue
+# visual-style 2	fgColor:white
+# visual-style 2 5 acl	color:blue
+1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
+2	tienda	tienda	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+3	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	iobj	_	_
+4	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	MOTOR	motor	PROPN	_	Gender=Masc|Number=Sing	2	acl	_	_
+6	PLAZA	plaza	PROPN	_	_	5	appos	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	esta	este	VERB	_	Gender=Fem|Number=Sing|VerbForm=Fin	4	conj	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	MALL	mall	X	_	_	8	obl	_	_
+12	AVENTURA	aventura	PROPN	_	_	11	appos	_	_
+13	PLAZA	plaza	PROPN	_	_	12	appos	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	4	punct	_	_
 
 ~~~
 

@@ -229,7 +229,7 @@ The most frequent other feature values with which `DET` and `Person` co-occurred
 ## Relations with Agreement in `Person`
 
 The 10 most frequent relations where parent and child node agree in `Person`:
-<tt>VERB --[<tt><a href="ar_nyuad-dep-conj.html">conj</a></tt>]--> VERB</tt> (5413; 91%),
+<tt>VERB --[<tt><a href="ar_nyuad-dep-conj.html">conj</a></tt>]--> VERB</tt> (5412; 91%),
 <tt>VERB --[<tt><a href="ar_nyuad-dep-obj.html">obj</a></tt>]--> PRON</tt> (4399; 84%),
 <tt>VERB --[<tt><a href="ar_nyuad-dep-ccomp.html">ccomp</a></tt>]--> VERB</tt> (3973; 88%),
 <tt>VERB --[<tt><a href="ar_nyuad-dep-nmod.html">nmod</a></tt>]--> PRON</tt> (3047; 86%),

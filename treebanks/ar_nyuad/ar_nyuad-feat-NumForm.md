@@ -29,5 +29,5 @@ The most frequent other feature values with which `NUM` and `NumForm` co-occurre
 
 The 10 most frequent relations where parent and child node agree in `NumForm`:
 <tt>NUM --[<tt><a href="ar_nyuad-dep-nummod.html">nummod</a></tt>]--> NUM</tt> (811; 68%),
-<tt>NUM --[<tt><a href="ar_nyuad-dep-conj.html">conj</a></tt>]--> NUM</tt> (348; 98%).
+<tt>NUM --[<tt><a href="ar_nyuad-dep-conj.html">conj</a></tt>]--> NUM</tt> (376; 98%).
 
