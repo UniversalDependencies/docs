@@ -63,10 +63,6 @@ See [here](release_checklist.html) for the checklist for data contributors.
 * Generate side-by-side comparison whenever there are multiple treebanks of one language:<br />
   <code>perl tools/generate_comparison_of_treebanks.pl ; cd docs ; git add treebanks/*-comparison.md ; git commit -m 'Updated comparison of treebanks.' ; git push ; cd ..</code>
 
-Až to bude v masteru:
-* Upload data to TIRA.
-* Announce it to the shared task participants.
-
 ## Full checklist
 
 * Make sure that you have local clones of all UD_* repositories that should be released.
