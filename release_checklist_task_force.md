@@ -63,7 +63,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
 ## Updating automatically generated parts of documentation
 
 * Run the script that refreshes the title page of Universal Dependencies (list of languages, treebanks and their properties).<br />
-  <code>cd docs-automation ; make all<br />(and git commit ; git push)</code>
+  <code>cd docs-automation ; make all ; cd ../docs ; git pull --no-edit ; git commit -a -m 'Updated title page.' ; git push</code>
 * Run the script <tt>tools/package_ud_release.sh</tt>, which must find the release number in the environment,
   and its arguments are names of folders to be released.<br />
   <code>RELEASE=2.2 tools/package_ud_release.sh $(cat released_treebanks.txt)</code>
