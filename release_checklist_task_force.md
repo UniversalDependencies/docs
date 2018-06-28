@@ -78,7 +78,7 @@ See [here](release_checklist.html) for the checklist for data contributors.
   the script to a copy of the UD folder where only approved treebank versions are visible.
   (But that would mean that we must prepare the release package first; see below how to do it.)
   Once the two files are updated, we must commit and push them to Github of course.<br />
-  <code>perl tools/survey_features.pl > docs/ext-feat-index.md<br />
+  <code>perl tools/survey_features.pl --tbklist released_treebanks.txt > docs/ext-feat-index.md<br />
   perl tools/survey_deprel_subtypes.pl<br />
   cd docs ; git pull --no-edit ; git status ; git commit -a -m 'Updated list of features and relations.' ; git push</code>
 
