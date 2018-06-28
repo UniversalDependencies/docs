@@ -64,17 +64,29 @@ See [here](release_checklist.html) for the checklist for data contributors.
 
 * Run the script that refreshes the title page of Universal Dependencies (list of languages, treebanks and their properties).<br />
   <code>cd docs-automation ; make all ; cd ../docs ; git pull --no-edit ; git commit -a -m 'Updated title page.' ; git push</code>
-* Run the script <tt>tools/package_ud_release.sh</tt>, which must find the release number in the environment,
-  and its arguments are names of folders to be released.<br />
-  <code>RELEASE=2.2 tools/package_ud_release.sh $(cat released_treebanks.txt)</code>
-* Tell Anša Vernerová that she can start importing the data to Kontext (ideally the announcement about the release would include links to PML-TQ, Kontext and SETS).
-* Run the same script again (but with different settings) and generate the long statistics that are displayed in the docs:<br />
+* Run the `conllu-stats.pl` script again (but with different settings) and generate the long statistics that are displayed in the docs:<br />
   <code>cd docs ; git pull --no-edit ; cd .. ; for i in $(cat released_treebanks.txt) ; do echo $i ; tools/conllu-stats.pl --oformat newdetailed --treebank $i --docs docs ; echo ; done ; cd docs ; git add treebanks/*/*.md ; git commit -m 'Updated statistics.' ; git push ; cd ..</code>
 * Generate side-by-side comparison whenever there are multiple treebanks of one language:<br />
   <code>perl tools/generate_comparison_of_treebanks.pl ; cd docs ; git add treebanks/*-comparison.md ; git commit -m 'Updated comparison of treebanks.' ; git push ; cd ..</code>
-* Run two other scripts that generate the lists of language-specific features and dependency relation subtypes for the docs repository. Note that the first script does not directly rewrite the page in the docs repository, we must redirect its STDOUT there. The second script, <code>survey_deprel_subtypes.pl</code>, accesses directly <code>docs/ext-dep-index.md</code>. Also note: these two scripts currently collect labels from all treebanks in their sight. However, we probably want to list only the labels found in the data to be released! The first script now has the option <code>--datapath</code>, which can be used to redirect the script to a copy of the UD folder where only approved treebank versions are visible. Once the two files are updated, we must commit and push them to Github of course.<br />
+* Run two other scripts that generate the lists of language-specific features and dependency
+  relation subtypes for the docs repository. Note that the first script does not directly
+  rewrite the page in the docs repository, we must redirect its STDOUT there. The second script,
+  <code>survey_deprel_subtypes.pl</code>, accesses directly <code>docs/ext-dep-index.md</code>.
+  Also note: these two scripts currently collect labels from all treebanks in their sight.
+  However, we probably want to list only the labels found in the data to be released!
+  The first script now has the option <code>--datapath</code>, which can be used to redirect
+  the script to a copy of the UD folder where only approved treebank versions are visible.
+  (But that would mean that we must prepare the release package first; see below how to do it.)
+  Once the two files are updated, we must commit and push them to Github of course.<br />
   <code>perl tools/survey_features.pl > docs/ext-feat-index.md ; perl tools/survey_deprel_subtypes.pl ; cd docs ; ...</code>
+* Run the script <tt>tools/package_ud_release.sh</tt>, which must find the release number in the environment,
+  and its arguments are names of folders to be released.<br />
+  <code>RELEASE=2.2 tools/package_ud_release.sh $(cat released_treebanks.txt)</code>
+
+## Releasing the data
+
 * Make the release packages temporarily available for download somewhere and ask the treebank providers to check them before we archive them in Lindat.
+* Tell Anša Vernerová that she can start importing the data to Kontext (ideally the announcement about the release would include links to PML-TQ, Kontext and SETS).
 * Update the list of licenses for Lindat. See the [LICENSE repository](https://github.com/UniversalDependencies/LICENSE).
   Send the new list to Lindat so they add it to their menu (they like to get it as a diff file against the previous license;
   they can be reached at lindat-help@ufal.mff.cuni.cz).
