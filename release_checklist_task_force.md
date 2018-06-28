@@ -72,14 +72,9 @@ See [here](release_checklist.html) for the checklist for data contributors.
   relation subtypes for the docs repository. Note that the first script does not directly
   rewrite the page in the docs repository, we must redirect its STDOUT there. The second script,
   <code>survey_deprel_subtypes.pl</code>, accesses directly <code>docs/ext-dep-index.md</code>.
-  Also note: these two scripts currently collect labels from all treebanks in their sight.
-  However, we probably want to list only the labels found in the data to be released!
-  The first script now has the option <code>--datapath</code>, which can be used to redirect
-  the script to a copy of the UD folder where only approved treebank versions are visible.
-  (But that would mean that we must prepare the release package first; see below how to do it.)
   Once the two files are updated, we must commit and push them to Github of course.<br />
   <code>perl tools/survey_features.pl --tbklist released_treebanks.txt > docs/ext-feat-index.md<br />
-  perl tools/survey_deprel_subtypes.pl<br />
+  perl tools/survey_deprel_subtypes.pl --tbklist released_treebanks.txt<br />
   cd docs ; git pull --no-edit ; git status ; git commit -a -m 'Updated list of features and relations.' ; git push</code>
 
 ## Releasing the data
