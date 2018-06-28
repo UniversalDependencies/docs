@@ -10,8 +10,6 @@ This checklist describes the steps needed in order to release a new version of t
 It is meant for the maintenance task force rather than individual treebank teams.
 See [here](release_checklist.html) for the checklist for data contributors.
 
-## Partial checklist for the shared task treebanks in UD 2.2 (April 2018) and for additional treebanks (June 2018)
-
 * Freeze the list of treebanks that will be used in the shared task. There are two sources from
   which the list can be derived: the online validation report, and output of `tools/check_files.pl`.
   Save the list as `shared_task_treebanks.txt`.
