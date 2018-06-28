@@ -8,17 +8,20 @@ udver:  '2'
 
 In addition to the universal dependency taxonomy, it is desirable to recognize grammatical relations that are particular to one language or a small group of related languages. Such language-specific relations are necessary to accurately capture the genius of a particular language but will not involve concepts that generalize broadly. These language-specific relations should always be regarded as a subtype of an existing UD relation.
 
-Labels of relation subtypes explictly encode the core UD relation that the language-specific relation is a subtype of, following the format *universal:extension*.
+Labels of language-specific relations explictly encode the core UD relation that the language-specific relation is a subtype of, following the format *universal:extension*.
 
 
 
 ## acl
-- [acl:assoccoll]():
-Erzya
+- [acl:appos]():
+Latin
 - [acl:cleft]():
-French
-- [acl:ger]():
-Erzya
+Faroese,
+Naija,
+Norwegian,
+Swedish
+- [acl:focus]():
+Breton
 - [acl:inf]():
 Hebrew,
 Portuguese
@@ -26,35 +29,37 @@ Portuguese
 Portuguese
 - [acl:poss]():
 Kazakh
-- [acl:prc]():
-Erzya
-- [acl:rel]():
-Erzya
 - [acl:relcl]():
 Arabic,
+Armenian,
 Belarusian,
+Breton,
 Chinese,
 Danish,
 Dutch,
 English,
-Erzya,
 Estonian,
+Faroese,
 Finnish,
 French,
 German,
 Greek,
 Hebrew,
 Hindi,
+Indonesian,
 Irish,
 Italian,
 Kazakh,
 Korean,
+Latin,
 Lithuanian,
-Maltese,
 Marathi,
+Naija,
 North Sami,
 Norwegian,
+Old French,
 Persian,
+Polish,
 Portuguese,
 Russian,
 Sanskrit,
@@ -62,19 +67,25 @@ Spanish,
 Swedish,
 Swedish Sign Language,
 Telugu,
+Thai,
 Turkish,
 Urdu
-- [acl:subj]():
-Erzya
 
 
 
 ## advcl
+- [advcl:appos]():
+Latin
+- [advcl:cleft]():
+French
 - [advcl:cond]():
 Telugu,
 Uyghur
 - [advcl:coverb]():
 Cantonese
+- [advcl:periph]():
+French,
+Naija
 - [advcl:sp]():
 Ukrainian
 - [advcl:svc]():
@@ -85,63 +96,58 @@ Romanian
 
 
 ## advmod
-- [advmod:cmp]():
-Erzya
-- [advmod:cmpstandard]():
-Erzya
+- [advmod:appos]():
+Latin
+- [advmod:cc]():
+Latin
 - [advmod:df]():
+Cantonese,
 Chinese
 - [advmod:discourse]():
 Belarusian
 - [advmod:emph]():
 Arabic,
+Armenian,
 Catalan,
 Croatian,
 Czech,
 Latin,
 Lithuanian,
+Naija,
 Sanskrit,
 Slovak,
 Tamil,
 Turkish,
 Upper Sorbian,
 Uyghur
-- [advmod:epist]():
-Erzya
-- [advmod:evid]():
-Erzya
 - [advmod:inf]():
 Hebrew
 - [advmod:locy]():
 Hungarian
 - [advmod:mode]():
 Hungarian
-- [advmod:multprf]():
-Erzya
 - [advmod:neg]():
+Breton,
 Buryat,
-Erzya,
 Kurmanji
 - [advmod:obl]():
-Hungarian
+Hungarian,
+Old French
+- [advmod:periph]():
+French
 - [advmod:phrase]():
 Hebrew
-- [advmod:q]():
-Erzya
-- [advmod:qnt]():
-Erzya
 - [advmod:quant]():
 Estonian
 - [advmod:que]():
 Hungarian
-- [advmod:sup]():
-Erzya
 - [advmod:tfrom]():
 Hungarian
 - [advmod:tlocy]():
 Hungarian
 - [advmod:tmod]():
-Romanian
+Romanian,
+Uyghur
 - [advmod:to]():
 Hungarian
 - [advmod:tto]():
@@ -161,22 +167,30 @@ Hungarian
 
 
 
+## appos
+- [appos:conj]():
+French
+- [appos:nmod]():
+French
+
+
+
 ## aux
+- [aux:aglt]():
+Polish
 - [aux:caus]():
 Chinese,
 French
-- [aux:cop]():
-Erzya
+- [aux:mood]():
+Polish
 - [aux:neg]():
-Erzya,
 North Sami
-- [aux:obj]():
-Erzya
 - [aux:pass]():
 Afrikaans,
 Ancient Greek,
 Arabic,
 Belarusian,
+Breton,
 Bulgarian,
 Buryat,
 Chinese,
@@ -184,6 +198,7 @@ Croatian,
 Czech,
 Dutch,
 English,
+Faroese,
 Finnish,
 French,
 Galician,
@@ -192,10 +207,12 @@ Gothic,
 Hindi,
 Italian,
 Latin,
+Latvian,
 Lithuanian,
-Maltese,
 Marathi,
+Naija,
 Norwegian,
+Old French,
 Persian,
 Polish,
 Portuguese,
@@ -204,14 +221,13 @@ Russian,
 Slovak,
 Spanish,
 Swedish,
+Thai,
 Upper Sorbian,
 Vietnamese
 - [aux:q]():
 Hebrew,
 Turkish,
 Uyghur
-- [aux:subj]():
-Erzya
 
 
 
@@ -224,9 +240,12 @@ Chinese
 Kurmanji
 - [case:dec]():
 Chinese
+- [case:det]():
+Old French
 - [case:gen]():
 Hebrew
 - [case:loc]():
+Armenian,
 Cantonese,
 Chinese
 - [case:pref]():
@@ -239,27 +258,36 @@ Irish
 
 
 ## cc
+- [cc:nc]():
+Old French
 - [cc:preconj]():
 Arabic,
 English,
-Erzya,
 Estonian,
+Faroese,
 Finnish,
 German,
+Indonesian,
 North Sami,
 Persian,
+Polish,
 Portuguese,
 Romanian,
 Russian,
 Slovenian,
 Spanish,
+Thai,
 Turkish
 
 
 
 ## ccomp
+- [ccomp:cleft]():
+French,
+Naija
 - [ccomp:obj]():
-Hungarian
+Hungarian,
+Polish
 - [ccomp:obl]():
 Hungarian
 - [ccomp:pmod]():
@@ -270,23 +298,28 @@ Hungarian
 
 
 ## compound
-- [compound:abs]():
-Erzya
+- [compound:a]():
+Indonesian
 - [compound:conjv]():
 Hindi
 - [compound:dir]():
 Cantonese,
 Chinese
 - [compound:ext]():
+Cantonese,
 Chinese
 - [compound:lvc]():
+Armenian,
 Kazakh,
+Korean,
 Kurmanji,
 Marathi,
 Persian,
 Telugu,
 Turkish,
 Uyghur
+- [compound:n]():
+Indonesian
 - [compound:nn]():
 Finnish,
 Kurmanji,
@@ -305,28 +338,43 @@ Estonian,
 Finnish,
 German,
 Irish,
+Naija,
 Norwegian,
 Persian,
 Portuguese,
 Spanish,
 Swedish,
 Swedish Sign Language,
-Tamil
+Tamil,
+Thai,
+Yoruba
+- [compound:quant]():
+Cantonese
 - [compound:redup]():
+Armenian,
 Hindi,
 Kurmanji,
 Marathi,
+Naija,
+Tagalog,
 Telugu,
 Turkish,
 Uyghur
 - [compound:smixut]():
 Hebrew
 - [compound:svc]():
+Amharic,
+Armenian,
 Marathi,
+Naija,
 Swedish Sign Language,
 Telugu,
-Ukrainian
+Ukrainian,
+Yoruba
+- [compound:v]():
+Indonesian
 - [compound:vo]():
+Cantonese,
 Chinese
 - [compound:vv]():
 Cantonese,
@@ -335,6 +383,14 @@ Chinese
 
 
 ## conj
+- [conj:appos]():
+Naija
+- [conj:coord]():
+French,
+Naija
+- [conj:dicto]():
+French,
+Naija
 - [conj:discourse]():
 Hebrew
 - [conj:extend]():
@@ -345,12 +401,9 @@ Ukrainian
 
 
 ## cop
-- [cop:belong]():
-Erzya
-- [cop:exist]():
-Erzya
+- [cop:locat]():
+Polish
 - [cop:own]():
-Erzya,
 Finnish
 
 
@@ -363,8 +416,10 @@ Estonian,
 Finnish,
 Irish
 - [csubj:pass]():
+Amharic,
 Ancient Greek,
 Arabic,
+Armenian,
 Bulgarian,
 Catalan,
 Chinese,
@@ -376,6 +431,7 @@ German,
 Gothic,
 Indonesian,
 Italian,
+Korean,
 Latin,
 Latvian,
 Norwegian,
@@ -387,12 +443,21 @@ Sanskrit,
 Slovak,
 Spanish,
 Swedish
+- [csubj:quasi]():
+Naija
 
 
 
 ## dep
-- [dep:ig]():
-Turkish
+- [dep:iobj]():
+French
+- [dep:nr]():
+Latin
+- [dep:obj]():
+French
+- [dep:prt]():
+Indonesian,
+Korean
 
 
 
@@ -411,10 +476,10 @@ Czech,
 Polish,
 Ukrainian
 - [det:poss]():
+Armenian,
 German,
 Italian,
 Korean,
-Maltese,
 Portuguese
 - [det:predet]():
 Arabic,
@@ -423,9 +488,11 @@ French,
 German,
 Hindi,
 Italian,
+Naija,
 Persian,
 Portuguese,
 Spanish,
+Thai,
 Turkish
 - [det:quant]():
 Hebrew
@@ -444,19 +511,15 @@ Chinese
 
 
 
-## dislocated
-- [dislocated:cleft]():
-French
-
-
-
 ## expl
 - [expl:impers]():
 Italian,
+Polish,
 Romanian
 - [expl:pass]():
 Catalan,
 Czech,
+French,
 Italian,
 Latin,
 Romanian,
@@ -468,12 +531,19 @@ Romanian
 - [expl:pv]():
 Croatian,
 Czech,
+Dutch,
 German,
 Polish,
 Portuguese,
 Romanian,
 Slovak,
 Upper Sorbian
+
+
+
+## fixed
+- [fixed:name]():
+Breton
 
 
 
@@ -503,12 +573,10 @@ Upper Sorbian
 - [flat:name]():
 Ancient Greek,
 Arabic,
-Bambara,
 Belarusian,
+Breton,
 Chinese,
 Dutch,
-English,
-Erzya,
 Finnish,
 French,
 Galician,
@@ -517,12 +585,14 @@ Gothic,
 Hebrew,
 Hindi,
 Hungarian,
+Indonesian,
 Irish,
 Italian,
 Kazakh,
+Komi Zyrian,
+Korean,
 Latin,
 Latvian,
-Maltese,
 Norwegian,
 Old Church Slavonic,
 Portuguese,
@@ -530,6 +600,7 @@ Russian,
 Slovenian,
 Spanish,
 Swedish,
+Thai,
 Turkish,
 Ukrainian
 - [flat:repeat]():
@@ -547,6 +618,7 @@ Upper Sorbian
 
 ## iobj
 - [iobj:agent]():
+Armenian,
 French
 - [iobj:caus]():
 Kazakh
@@ -558,8 +630,14 @@ Kazakh
 Chinese
 - [mark:advb]():
 Chinese
+- [mark:advmod]():
+Old French
 - [mark:comp]():
 Chinese
+- [mark:obj]():
+Old French
+- [mark:obl]():
+Old French
 - [mark:prt]():
 Chinese,
 Irish
@@ -574,97 +652,88 @@ Chinese
 ## nmod
 - [nmod:abl]():
 Uyghur
-- [nmod:abs]():
-Erzya
 - [nmod:agent]():
 Romanian
 - [nmod:appos]():
-Erzya
+Latin
 - [nmod:arg]():
 Turkish
 - [nmod:att]():
 Hungarian
 - [nmod:attlvc]():
 Hungarian
-- [nmod:bahuv]():
-Erzya
 - [nmod:cau]():
 Uyghur
 - [nmod:clas]():
 Uyghur
 - [nmod:cmp]():
 Telugu
-- [nmod:cmpstandard]():
-Erzya
 - [nmod:comp]():
 Uyghur
 - [nmod:dat]():
 Kurmanji
-- [nmod:det]():
-Erzya
-- [nmod:dsubj]():
-Erzya
-- [nmod:exist]():
-Erzya
 - [nmod:gen]():
-Erzya
+Breton
 - [nmod:gmod]():
 Arabic,
 German,
 Russian
 - [nmod:gobj]():
-Erzya,
 Finnish
 - [nmod:gsubj]():
-Erzya,
 Finnish
-- [nmod:instr]():
-Erzya
-- [nmod:name]():
-Erzya
+- [nmod:ins]():
+Uyghur
 - [nmod:npmod]():
+Armenian,
 English,
+Naija,
 Portuguese
 - [nmod:obl]():
 Hungarian
 - [nmod:obllvc]():
 Hungarian
 - [nmod:own]():
-Buryat,
-Erzya,
-Finnish
+Buryat
 - [nmod:part]():
 Uyghur
 - [nmod:pmod]():
 Romanian
-- [nmod:pos]():
-Erzya
 - [nmod:poss]():
 Arabic,
-Bambara,
+Armenian,
+Breton,
 Danish,
 Dutch,
 English,
-Erzya,
-Estonian,
+Faroese,
 Finnish,
 French,
 German,
 Hebrew,
 Hindi,
+Indonesian,
 Irish,
 Kazakh,
+Korean,
 Kurmanji,
 Marathi,
+Naija,
 North Sami,
 Persian,
+Polish,
 Russian,
 Sanskrit,
 Swedish,
 Swedish Sign Language,
+Tagalog,
 Telugu,
+Thai,
 Turkish,
-Uyghur
+Uyghur,
+Warlpiri
+- [nmod:range]():
+French
 - [nmod:ref]():
 Uyghur
 - [nmod:tmod]():
@@ -678,38 +747,37 @@ Uyghur
 
 
 ## nsubj
-- [nsubj:ascriptive]():
-Erzya
-- [nsubj:belong]():
-Erzya
+- [nsubj:advmod]():
+Old French
+- [nsubj:appos]():
+Breton
 - [nsubj:caus]():
+Armenian,
 French
 - [nsubj:cop]():
-Erzya,
+Breton,
 Estonian,
 Finnish,
 Hebrew,
 Sanskrit
-- [nsubj:exist]():
-Erzya
-- [nsubj:exit]():
-Erzya
 - [nsubj:expl]():
-French
-- [nsubj:forpurpose]():
-Erzya
+French,
+Naija
 - [nsubj:lvc]():
 Hungarian
 - [nsubj:nc]():
 Persian,
 Telugu
+- [nsubj:obj]():
+Old French
 - [nsubj:own]():
-Erzya,
 Marathi
 - [nsubj:pass]():
 Afrikaans,
+Amharic,
 Ancient Greek,
 Arabic,
+Armenian,
 Belarusian,
 Bulgarian,
 Buryat,
@@ -719,6 +787,7 @@ Croatian,
 Czech,
 Dutch,
 English,
+Faroese,
 French,
 Galician,
 German,
@@ -729,8 +798,8 @@ Italian,
 Korean,
 Latin,
 Latvian,
-Maltese,
 Marathi,
+Naija,
 Norwegian,
 Old Church Slavonic,
 Persian,
@@ -743,12 +812,12 @@ Slovak,
 Spanish,
 Swedish,
 Tamil,
-Ukrainian,
+Thai,
 Upper Sorbian
-- [nsubj:prspron]():
-Erzya
-- [nsubj:qnt]():
-Erzya
+- [nsubj:periph]():
+Cantonese
+- [nsubj:quasi]():
+Naija
 
 
 
@@ -768,31 +837,36 @@ Upper Sorbian
 
 
 ## obj
+- [obj:advmod]():
+Old French
+- [obj:advneg]():
+Old French
 - [obj:agent]():
 French
 - [obj:cau]():
 Uyghur
-- [obj:dir]():
-Ancient Greek,
-Gothic,
-Latin,
-Old Church Slavonic
-- [obj:emph]():
-Erzya
 - [obj:lvc]():
 Hungarian
-- [obj:prspron]():
-Erzya
+- [obj:obl]():
+Old French
+- [obj:periph]():
+Cantonese,
+Chinese
 
 
 
 ## obl
+- [obl:advmod]():
+Old French
 - [obl:agent]():
 Ancient Greek,
+Armenian,
 Belarusian,
+Breton,
+Cantonese,
 Chinese,
 Czech,
-English,
+Dutch,
 French,
 Gothic,
 Hindi,
@@ -807,23 +881,37 @@ Sanskrit,
 Slovak,
 Swedish
 - [obl:arg]():
+Arabic,
 Czech,
-Greek,
+French,
+Latin,
+Naija,
 Polish,
 Sanskrit,
-Slovak
+Slovak,
+Tamil
 - [obl:cau]():
 Telugu
-- [obl:gmod]():
-Russian
+- [obl:comp]():
+French
 - [obl:loc]():
 Danish
+- [obl:mod]():
+French,
+Naija
 - [obl:npmod]():
 English
 - [obl:own]():
 Kazakh
 - [obl:patient]():
+Cantonese,
 Chinese
+- [obl:periph]():
+French,
+Naija
+- [obl:poss]():
+Indonesian,
+Thai
 - [obl:prep]():
 Irish
 - [obl:tmod]():
@@ -836,42 +924,53 @@ French,
 German,
 Hebrew,
 Hindi,
+Indonesian,
 Irish,
 Italian,
+Korean,
 Portuguese,
 Russian,
 Spanish,
 Telugu,
-Turkish
-
-
-
-## orphan
-- [orphan:obj]():
-Erzya
-- [orphan:obl]():
-Erzya
-- [orphan:subjassoccoll]():
-Erzya
+Thai,
+Turkish,
+Warlpiri
+- [obl:x]():
+Breton
 
 
 
 ## parataxis
+- [parataxis:appos]():
+Italian
+- [parataxis:conj]():
+Naija
 - [parataxis:deletion]():
 Norwegian
 - [parataxis:discourse]():
+French,
+Italian,
+Naija,
 Slovenian,
 Ukrainian
+- [parataxis:dislocated]():
+Naija
 - [parataxis:hashtag]():
 Italian
 - [parataxis:insert]():
+French,
 Italian
 - [parataxis:newsent]():
 Ukrainian
 - [parataxis:nsubj]():
 Italian
 - [parataxis:obj]():
-Italian
+French,
+Italian,
+Naija
+- [parataxis:parenth]():
+French,
+Naija
 - [parataxis:restart]():
 Slovenian
 
@@ -888,10 +987,9 @@ Italian
 Portuguese
 - [xcomp:ds]():
 Finnish
-- [xcomp:exist]():
-Erzya
 - [xcomp:obj]():
-North Sami
+North Sami,
+Polish
 - [xcomp:pred]():
 Irish,
 North Sami
