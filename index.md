@@ -6,7 +6,7 @@ udver: '2'
 
 # Universal Dependencies
 
-Universal Dependencies (UD) is a framework for cross-linguistically consistent grammatical annotation and 
+Universal Dependencies (UD) is a framework for cross-linguistically consistent grammatical annotation and
 an open community effort with over 200 contributors producing more than 100 treebanks in over 60 languages.
 
 * [Short introduction to UD](introduction.html)
@@ -27,7 +27,7 @@ If you want to receive news about Universal Dependencies, you can subscribe to t
 
 ## Current UD Languages
 
-<small>Information about language families (and genera for families with multiple branches) is mostly taken from 
+<small>Information about language families (and genera for families with multiple branches) is mostly taken from
 [WALS Online](http://wals.info) (IE = Indo-European).</small>
 
 <div id="accordion" class="jquery-ui-accordion">
@@ -48,8 +48,8 @@ If you want to receive news about Universal Dependencies, you can subscribe to t
 
 The data is released through LINDAT/CLARIN.
 
-* Version 2.2 treebanks: the training and development data of the [CoNLL 2018 Shared Task](http://universaldependencies.org/conll18/) are [available here](http://ufal.mff.cuni.cz/~zeman/soubory/release-2.2-st-train-dev-data.zip). The full release 2.2 will happen after the shared task and is scheduled for July 1.
-* Version 2.1 treebanks are available at <a href="http://hdl.handle.net/11234/1-2515">http://hdl.handle.net/11234/1-2515</a>. 102 treebanks, 60 languages, released November 15, 2017.
+* Version 2.2 treebanks are available at <a href="http://hdl.handle.net/11234/1-2837">http://hdl.handle.net/11234/1-2837</a>. 122 treebanks, 71 languages, released July 1, 2018.
+* Version 2.1 treebanks are archived at http://hdl.handle.net/11234/1-2515. 102 treebanks, 60 languages, released November 15, 2017.
 * Version 2.0 treebanks are archived at http://hdl.handle.net/11234/1-1983. 70 treebanks, 50 languages, released March 1, 2017.
   * Test data 2.0 are archived at http://hdl.handle.net/11234/1-2184. 81 treebanks, 49 languages, released May 18, 2017.
 * Version 1.4 treebanks are archived at http://hdl.handle.net/11234/1-1827. 64 treebanks, 47 languages, released November 15, 2016.
