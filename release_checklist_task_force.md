@@ -106,9 +106,9 @@ See [here](release_checklist.html) for the checklist for data contributors.
   (changes to metadata are possible if necessary, but this is done on demand only).
   The item will get a persistent URL (handle.net); that is the URL that we want to publish on the UD website.
   Note that you can now see the persistent URL in the record even before it has been approved. It will not
-  change on approval and you can save it; however, it will not be operational as an URL until the item is archived.
+  change on approval and you can save it; however, it will not be operational as a URL until the item is archived.
 * Update the title page of Universal Dependencies. Send out announcement to ud@stp.lingfil.uu.se, corpora@uib.no, ACL list etc.
-* Upload the data to the search engines (SETS, PML-TQ, Kontext etc.)
+* Upload the data to the search engines (PML-TQ, Kontext, SETS etc.)
 
 <small><code style='color:lightgrey'>
 path=$(pwd) ;
