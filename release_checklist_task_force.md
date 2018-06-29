@@ -87,17 +87,26 @@ See [here](release_checklist.html) for the checklist for data contributors.
 * Update the list of licenses for Lindat. See the [LICENSE repository](https://github.com/UniversalDependencies/LICENSE).
   Send the new list to Lindat so they add it to their menu (they like to get it as a diff file against the previous license;
   they can be reached at lindat-help@ufal.mff.cuni.cz).
-* Once the Lindat staff make the new license list available in their system, we can
-  [create a new Lindat item](https://lindat.mff.cuni.cz/repository/xmlui/submit) for the new version of UD.
-  (The server starts by asking you to “select a community”. Choose LINDAT / CLARIN.
-  In the note for the editors (last page of the form), ask them to mark the previous UD release as obsolete and to add a link
-  pointing from the previous release to the new one.)
+* Once the Lindat staff make the new license list available in their system, we can create
+  a new Lindat item for the new version of UD. The preferable way: Create the new item as
+  a new version of the item representing the previous release of Universal Dependencies.
+  When signed in, go to the
+  [list of your previous contributions](https://lindat.mff.cuni.cz/repository/xmlui/submissions),
+  check the box next to the line with the most recent release of UD, then go down and press the
+  button that says “Add new version”. If this is not possible because you are not the user who
+  created the item for the previous version, you can
+  [create a new Lindat item from scratch](https://lindat.mff.cuni.cz/repository/xmlui/submit).
+  Then the server starts by asking you to “select a community”. Choose LINDAT / CLARIN.
+  In the note for the editors (last page of the form), ask them to mark the previous UD release
+  as obsolete and to add a link pointing from the previous release to the new one.
   Note that the Lindat staff may help to automate other tasks as well.
   For example, we have an extraordinarily long list of authors. Instead of typing them on the Lindat website one-by-one,
-  they can batch-upload the list we send them. Once everything is ready and we submit the item, they will review it and assign
-  the persistent URL (handle.net) to the item; that is the URL that we want to publish on the UD website. At that moment the
-  release is officially out and no changes to the data files are permitted (changes to metadata are possible if necessary,
-  but this is done on demand only).
+  they can batch-upload the list we send them. Once everything is ready and we submit the item, they will review it
+  and archive it. At that moment the release is officially out and no changes to the data files are permitted
+  (changes to metadata are possible if necessary, but this is done on demand only).
+  The item will get a persistent URL (handle.net); that is the URL that we want to publish on the UD website.
+  Note that you can now see the persistent URL in the record even before it has been approved. It will not
+  change on approval and you can save it; however, it will not be operational as an URL until the item is archived.
 * Update the title page of Universal Dependencies. Send out announcement to ud@stp.lingfil.uu.se, corpora@uib.no, ACL list etc.
 * Upload the data to the search engines (SETS, PML-TQ, Kontext etc.)
 
