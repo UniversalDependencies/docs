@@ -111,13 +111,13 @@ See [here](release_checklist.html) for the checklist for data contributors.
 * Upload the data to the search engines (PML-TQ, Kontext, SETS etc.)
 
 <small><code style='color:lightgrey'>
+\# copy metadata to biblio ;
 path=$(pwd) ;
 cd /net/data ;
 tar xzf $path/release-2.2/ud-treebanks-v2.2.tgz ;
 mv ud-treebanks-v2.2 universal-dependencies-2.2 ;
 cd $HAMLEDT ;
 perl ./populate_ud22.pl ;
-\# copy metadata to biblio
-\# add list of treebanks to $HAMLEDT/normalize/Makefile
-make qpmltq ;
+cd normalize ; make qpmltq ;
+\# follow instructions in ud-to-pmltq manual ;
 </code></small>
