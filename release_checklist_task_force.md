@@ -119,5 +119,5 @@ mv ud-treebanks-v2.2 universal-dependencies-2.2 ;
 cd $HAMLEDT ;
 perl ./populate_ud22.pl ;
 cd normalize ; make qpmltq ;
-\# follow instructions in ud-to-pmltq manual ;
+\# follow instructions in ud-to-pmltq manual ($HAMLEDT/pmltq/navod_na_export_ud_do_pmltq.odt) ;
 </code></small>
