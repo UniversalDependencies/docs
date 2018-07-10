@@ -18,7 +18,11 @@ i.e. refers to the subject of its clause.
 
 While many tagsets would have "reflexive" as one of the various
 pronoun types, this feature is intentionally separate from
-[PronType](), as it is orthogonal to pronominal types.
+[PronType]().
+When used with pronouns and determiners, it should be combined
+with `PronType=Prs`, regardless whether they really distinguish
+the [Person]() feature (in some languages they do, in others they
+do not).
 
 Note that while some languages also have reflexive verbs, these are in
 fact fused verbs with reflexive pronouns, as in Spanish _despertarse_
