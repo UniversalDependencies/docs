@@ -185,7 +185,7 @@ as well as Armenian-specific examples scattered across the documentation of cons
   * [nsubj:pass]() for nominal subjects of passive verbs
   * [obl:agent]() for agents of passive verbs
 * The following relation types are not used in Armenian at all:
-  [clf](), [dislocated](), [expl](), [reparandum]()
+  [clf](), [dislocated](), [expl]()
 
 ## Treebanks
 
