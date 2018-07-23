@@ -6,9 +6,9 @@ udver: '2'
 
 # UD Events
 
-## Upcoming events
+## 2018
 
-  * 2nd Workshop on Universal Dependencies (UDW) (more soon)
+  * [2nd Workshop on Universal Dependencies (UDW)](http://universaldependencies.org/udw18/)
   * [2nd ConLL shared task on UD parsing](http://universaldependencies.org/conll18/)
 
 ## 2017
