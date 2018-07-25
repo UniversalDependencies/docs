@@ -5,7 +5,7 @@ shortdef: 'noun phrase as nominal modifier'
 udver: '2'
 ---
 
-This relation is a subtype of the [nmod]() relation, which captures the cases where something syntactically a noun phrase is used as an nominal modifier in a sentence.
+This relation is a subtype of the [nmod]() relation, which captures the cases where something syntactically a noun phrase is used as a nominal modifier in a sentence.
 
 ~~~ sdparse
 Նրա վերադարձը/NOUN[Case=Nom] հայրենիք/NOUN[Case=Nom] հետաձգվում էր ։ \n His return to-matherland was-beeing postponed .
