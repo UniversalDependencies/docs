@@ -143,9 +143,22 @@ In more complicated cases where a predicate is elided but no `aux` or `cop` is p
 7 .      .      _ .   _ 2 punct _ _
 </div>
 
-In such cases, we promote dependents in the following order: `nsubj` > `obj` > `iobj` > `obl` > `advmod` > `csubj` > `xcomp` > `ccomp` > `advcl`
-and for the non-promoted dependents, we use the special relation `orphan` to signal a non-standard dependency.
-If it is necessary to select among several orphans of the same type (e.g. there are just two orphans and both are `advmod`),
+Of course, one may decide to promote _you_ instead of _coffee,_ but suggesting that _coffee_ is a direct object of _you_ is no better:
+
+<div class="conllu-parse" tabs="yes">
+# visual-style 5 6 obj color:red
+1 I      I      _ PRP _ 2 nsubj _ _
+2 like   like   _ VBP _ 0 root  _ _
+3 tee    tee    _ NN  _ 2 obj   _ _
+4 and    and    _ CC  _ 5 cc    _ _
+5 you    you    _ PRP _ 2 conj _ _
+6 coffee coffee _ VBP _ 5 obj  _ SpaceAfter=No
+7 .      .      _ .   _ 2 punct _ _
+</div>
+
+To avoid confusion and signal that the dependency structure is incomplete, we use the special relation `orphan` to connect the non-promoted dependents with the promoted dependent. Orphaned dependents are considered for promotion in the following order:
+`nsubj` > `obj` > `iobj` > `obl` > `advmod` > `csubj` > `xcomp` > `ccomp` > `advcl`.
+If it is necessary to select among several orphans of the same type (e.g., there are just two orphans and both are `advmod`),
 the orphan occurring first (closer to the sentence start) is promoted.
 
 ~~~ sdparse
