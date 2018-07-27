@@ -136,7 +136,7 @@ In more complicated cases where a predicate is elided but no `aux` or `cop` is p
 # visual-style 6 5 nsubj color:red
 1 I      I      _ PRP _ 2 nsubj _ _
 2 like   like   _ VBP _ 0 root  _ _
-3 tee    tee    _ NN  _ 2 obj   _ _
+3 tea    tea    _ NN  _ 2 obj   _ _
 4 and    and    _ CC  _ 6 cc    _ _
 5 you    you    _ PRP _ 6 nsubj _ _
 6 coffee coffee _ VBP _ 2 conj  _ SpaceAfter=No
@@ -149,7 +149,7 @@ Of course, one may decide to promote _you_ instead of _coffee,_ but suggesting t
 # visual-style 5 6 obj color:red
 1 I      I      _ PRP _ 2 nsubj _ _
 2 like   like   _ VBP _ 0 root  _ _
-3 tee    tee    _ NN  _ 2 obj   _ _
+3 tea    tea    _ NN  _ 2 obj   _ _
 4 and    and    _ CC  _ 5 cc    _ _
 5 you    you    _ PRP _ 2 conj _ _
 6 coffee coffee _ VBP _ 5 obj  _ SpaceAfter=No
