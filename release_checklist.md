@@ -26,7 +26,7 @@ Contents:
 # New language or treebank
 
 If you want to write UD guidelines and/or provide annotated data for a language that is currently not listed on the UD website,
-make sure you have a github account and contact a member of our release and documentation task force:
+make sure you have a [github account](https://github.com/) and contact a member of our release and documentation task force:
 Dan Zeman (zeman@ufal.mff.cuni.cz), Filip Ginter (ginter@cs.utu.fi).
 They will get you going.
 Similarly, if you want to contribute a new treebank of a language that is already listed on the UD website,
