@@ -35,7 +35,7 @@ contact the release task force and they will create a new treebank repository.
 In both cases, think of an acronym or short word that will be used as the treebank identifier in the name of the repository
 (for example, UD_English-LinES and UD_English-ParTUT are two different English UD treebanks
 and their identifiers are LinES and ParTUT).
-It can be an acronym of your annotation project, or your institution, or even your own initials, but preferably it should be short. It can contain uppercase and lowercase English letters (the first letter uppercase) but it cannot contain additional underscores, hyphens or other special characters.
+It can be an acronym of your annotation project (such as XTB, where X is the initial of the language name), or your institution, or even your own initials, but preferably it should be short. It can contain uppercase and lowercase English letters (the first letter uppercase) but it cannot contain additional underscores, hyphens or other special characters.
 Tell your preferred treebank acronym to the release task force when you ask for the repository.
 
 While you are waiting for your repository, read the instructions below. They explain what you need to do
