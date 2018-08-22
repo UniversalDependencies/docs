@@ -11,7 +11,7 @@ udver: '2'
 
 # UD Polish LFG
 
-Language: [Polish](../pl/overview/pl-hub.html) (code: `pl`)<br/>
+Language: [Polish](/pl/index.html) (code: `pl`)<br/>
 Family: Indo-European, Slavic
 
 This treebank has been part of Universal Dependencies since the UD v2.2 release.
@@ -19,7 +19,7 @@ This treebank has been part of Universal Dependencies since the UD v2.2 release.
 The following people have contributed to making this treebank part of UD: Agnieszka Patejuk, Adam Przepiórkowski.
 
 Repository: [UD_Polish-LFG](https://github.com/UniversalDependencies/UD_Polish-LFG)<br />
-Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpl_lfg)
+Search this treebank on-line: [PML-TQ](https://lindat.mff.cuni.cz/services/pmltq/#!/treebank/udpl_lfg22)
 
 License: GNU GPL 3.0
 
@@ -190,858 +190,836 @@ A citable description of this treebank is in progress. Below are references to t
 <h3>Nominal Features</h3>
 
 
-<li><a>Gender</a>
+<ul>
+  <li><a>Gender</a></li>
+</ul>
 
-  <ul>
-    <li>Fem
-      <ul>
-        <li>ADJ: sama, całą, jedna, jednej, drugiej, pierwszej, cała, druga, całej, jedną</li>
-        <li>ADJ-Part: przyjęta, opanowana, leżącą, idącej, kierująca, oblodzonej, oczekiwana, odtworzona, oparta, opartą</li>
-        <li>AUX-Fin: była, została, były, zostały, bywała, bywały</li>
-        <li>DET: tej, ta, tę, swoją, taka, te, moja, takie, kilka, tą</li>
-        <li>NOUN: pani, chwili, chwilę, głową, pracy, ręce, osób, głowę, kobieta, sprawa</li>
-        <li>NUM: dwie, trzy, cztery, obie, obu, pięć, dwóch, 15, trzech, 200</li>
-        <li>PRON: jej, ją, ja, mnie, mi, niej, ona, ci, nią, ich</li>
-        <li>PROPN: Polsce, Polski, Warszawie, Warszawy, Marta, Polska, AWS, Elizabeth, Ewa, Francji</li>
-        <li>VERB-Fin: miała, chciała, mogła, zaczęła, widziała, musiała, powinna, mówiła, spojrzała, stała</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Fem
+    <ul>
+      <li>ADJ: sama, całą, jedna, jednej, drugiej, pierwszej, cała, druga, całej, jedną</li>
+      <li>ADJ-Part: przyjęta, opanowana, leżącą, idącej, kierująca, oblodzonej, oczekiwana, odtworzona, oparta, opartą</li>
+      <li>AUX-Fin: była, została, były, zostały, bywała, bywały</li>
+      <li>DET: tej, ta, tę, swoją, taka, te, moja, takie, kilka, tą</li>
+      <li>NOUN: pani, chwili, chwilę, głową, pracy, ręce, osób, głowę, kobieta, sprawa</li>
+      <li>NUM: dwie, trzy, cztery, obie, obu, pięć, dwóch, 15, trzech, 200</li>
+      <li>PRON: jej, ją, ja, mnie, mi, niej, ona, ci, nią, ich</li>
+      <li>PROPN: Polsce, Polski, Warszawie, Warszawy, Marta, Polska, AWS, Elizabeth, Ewa, Francji</li>
+      <li>VERB-Fin: miała, chciała, mogła, zaczęła, widziała, musiała, powinna, mówiła, spojrzała, stała</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Masc
-      <ul>
-        <li>ADJ: sam, pierwszy, cały, jeden, sami, kolejny, drugi, inni, inny, dobry</li>
-        <li>ADJ-Part: leżącego, oszołomiony, pracujących, protestujących, prowadzący, zaskoczony, zniszczony, czytającego, działające, jadący</li>
-        <li>AUX-Fin: był, został, byli, były, zostali, zostały, bywał</li>
-        <li>DET: ten, tym, tego, te, jakiś, każdy, kilka, mój, taki, wielu</li>
-        <li>NOUN: pan, lat, domu, roku, pana, raz, czas, panie, ludzi, ludzie</li>
-        <li>NUM: dwa, dwóch, trzy, trzech, cztery, czterech, dwadzieścia, obu, sto, pięciu</li>
-        <li>PRON: go, mnie, jego, mu, ja, ich, mi, on, nas, kto</li>
-        <li>PROPN: Polacy, Jerzy, Andrzej, SLD, Adam, Bóg, Michał, Krzysztof, Kwaśniewski, Niemcy</li>
-        <li>VERB-Fin: miał, chciał, mógł, widział, zaczął, musiał, mieli, powiedział, stał, był</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Masc
+    <ul>
+      <li>ADJ: sam, pierwszy, cały, jeden, sami, kolejny, drugi, inni, inny, dobry</li>
+      <li>ADJ-Part: leżącego, oszołomiony, pracujących, protestujących, prowadzący, zaskoczony, zniszczony, czytającego, działające, jadący</li>
+      <li>AUX-Fin: był, został, byli, były, zostali, zostały, bywał</li>
+      <li>DET: ten, tym, tego, te, jakiś, każdy, kilka, mój, taki, wielu</li>
+      <li>NOUN: pan, lat, domu, roku, pana, raz, czas, panie, ludzi, ludzie</li>
+      <li>NUM: dwa, dwóch, trzy, trzech, cztery, czterech, dwadzieścia, obu, sto, pięciu</li>
+      <li>PRON: go, mnie, jego, mu, ja, ich, mi, on, nas, kto</li>
+      <li>PROPN: Polacy, Jerzy, Andrzej, SLD, Adam, Bóg, Michał, Krzysztof, Kwaśniewski, Niemcy</li>
+      <li>VERB-Fin: miał, chciał, mógł, widział, zaczął, musiał, mieli, powiedział, stał, był</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Neut
-      <ul>
-        <li>ADJ: całe, jedno, inne, pierwsze, samo, dobre, duże, innego, nowe, drugie</li>
-        <li>ADJ-Part: wykonane, przygotowane, otwarte, przekazane, przestraszone, ukryte, umówione, wyposażone, wyznaczone, zamknięte</li>
-        <li>AUX-Fin: było, były, zostało, zostały</li>
-        <li>DET: to, swoje, tym, moje, takie, tego, takiego, jakieś, te, tych</li>
-        <li>NOUN: drzwi, oczy, dzieci, życie, dziecko, miejscu, miejsce, słowa, pytanie, życia</li>
-        <li>NOUN-Vnoun: głosowania, otwarcia, przyjęcie, czytanie, odrzucenie, odwołania, okradania, zakończeniu, jedzeniu, liczenie</li>
-        <li>NUM: dwa, trzy, oba, 160, cztery, 100, 150, 200, 2000, 24</li>
-        <li>PRON: to, co, tym, coś, tego, wszystko, nic, czym, je, czego</li>
-        <li>PROPN: USA, Niemczech, Niemiec, PSL, Zakopanego, PiS, Stanach, Włoszech, Betlejem, Kielc</li>
-        <li>VERB-Fin: było, udało, stało, doszło, okazało, zaczęło, głosowało, zrobiło, należało, powinno</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Neut
+    <ul>
+      <li>ADJ: całe, jedno, inne, pierwsze, samo, dobre, duże, innego, nowe, drugie</li>
+      <li>ADJ-Part: wykonane, przygotowane, otwarte, przekazane, przestraszone, ukryte, umówione, wyposażone, wyznaczone, zamknięte</li>
+      <li>AUX-Fin: było, były, zostało, zostały</li>
+      <li>DET: to, swoje, tym, moje, takie, tego, takiego, jakieś, te, tych</li>
+      <li>NOUN: drzwi, oczy, dzieci, życie, dziecko, miejscu, miejsce, słowa, pytanie, życia</li>
+      <li>NOUN-Vnoun: głosowania, otwarcia, przyjęcie, czytanie, odrzucenie, odwołania, okradania, zakończeniu, jedzeniu, liczenie</li>
+      <li>NUM: dwa, trzy, oba, 160, cztery, 100, 150, 200, 2000, 24</li>
+      <li>PRON: to, co, tym, coś, tego, wszystko, nic, czym, je, czego</li>
+      <li>PROPN: USA, Niemczech, Niemiec, PSL, Zakopanego, PiS, Stanach, Włoszech, Betlejem, Kielc</li>
+      <li>VERB-Fin: było, udało, stało, doszło, okazało, zaczęło, głosowało, zrobiło, należało, powinno</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Number</a></li>
+</ul>
 
-<li><a>Number</a>
+<ul>
+  <li>Plur
+    <ul>
+      <li>ADJ: inne, sami, innych, inni, różnych, ostatnie, kolejne, dobre, nowych, pierwsze</li>
+      <li>ADJ-Part: przygotowane, protestujących, działające, pozamykane, pracujących, ukryte, wyznaczone, zamknięte, nazywane, oparte</li>
+      <li>AUX: śmy, są, były, będą, byli, ście, będziemy, jesteśmy, zostały, zostali</li>
+      <li>AUX-Fin: są, były, będą, byli, będziemy, jesteśmy, zostały, zostali, zostaną, bądźcie</li>
+      <li>DET: te, kilka, tych, wszystkie, takie, wielu, wiele, swoje, kilku, wszystkich</li>
+      <li>NOUN: lat, drzwi, oczy, dzieci, ludzi, ludzie, dni, osób, ręce, policjanci</li>
+      <li>NOUN-Vnoun: przeszukiwania, stuknięcia</li>
+      <li>NUM: dwa, dwóch, dwie, trzy, cztery, trzech, obu, pięć, czterech, dwadzieścia</li>
+      <li>PRON: ich, nas, nich, je, im, oni, nam, my, wszyscy, nimi</li>
+      <li>PROPN: Polacy, Niemcy, USA, Niemczech, Polaków, Niemiec, Niemców, Amerykanie, Rosjanie, Stanach</li>
+      <li>VERB-Fin: mają, mogą, są, mieli, mamy, chcą, mogli, możemy, musimy, muszą</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Plur
-      <ul>
-        <li>ADJ: inne, sami, innych, inni, różnych, ostatnie, kolejne, dobre, nowych, pierwsze</li>
-        <li>ADJ-Part: przygotowane, protestujących, działające, pozamykane, pracujących, ukryte, wyznaczone, zamknięte, nazywane, oparte</li>
-        <li>AUX: śmy, są, były, będą, byli, ście, będziemy, jesteśmy, zostały, zostali</li>
-        <li>AUX-Fin: są, były, będą, byli, będziemy, jesteśmy, zostały, zostali, zostaną, bądźcie</li>
-        <li>DET: te, kilka, tych, wszystkie, takie, wielu, wiele, swoje, kilku, wszystkich</li>
-        <li>NOUN: lat, drzwi, oczy, dzieci, ludzi, ludzie, dni, osób, ręce, policjanci</li>
-        <li>NOUN-Vnoun: przeszukiwania, stuknięcia</li>
-        <li>NUM: dwa, dwóch, dwie, trzy, cztery, trzech, obu, pięć, czterech, dwadzieścia</li>
-        <li>PRON: ich, nas, nich, je, im, oni, nam, my, wszyscy, nimi</li>
-        <li>PROPN: Polacy, Niemcy, USA, Niemczech, Polaków, Niemiec, Niemców, Amerykanie, Rosjanie, Stanach</li>
-        <li>VERB-Fin: mają, mogą, są, mieli, mamy, chcą, mogli, możemy, musimy, muszą</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sing
+    <ul>
+      <li>ADJ: sam, pierwszy, cały, jeden, sama, całą, całe, jedna, jednej, kolejny</li>
+      <li>ADJ-Part: przyjęta, opanowana, leżącego, leżącą, oszołomiony, wykonane, zaskoczony, zniszczony, czytającego, idącej</li>
+      <li>AUX: em, jest, m, był, będzie, było, była, eś, ś, jestem</li>
+      <li>AUX-Fin: jest, był, będzie, było, była, jestem, został, będę, jesteś, została</li>
+      <li>DET: ten, tym, tej, tego, ta, to, tę, jakiś, każdy, mój</li>
+      <li>NOUN: pan, pani, domu, roku, pana, raz, chwili, czas, życie, chwilę</li>
+      <li>NOUN-Vnoun: głosowania, otwarcia, przyjęcie, czytanie, odrzucenie, odwołania, okradania, zakończeniu, jedzeniu, liczenie</li>
+      <li>PRON: to, co, mnie, go, ja, jej, mi, jego, mu, tym</li>
+      <li>PROPN: Polsce, Polski, Warszawie, Jerzy, Warszawy, Andrzej, SLD, Adam, Bóg, Marta</li>
+      <li>VERB-Fin: ma, miał, mam, jest, było, chciał, może, wiem, proszę, miała</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sing
-      <ul>
-        <li>ADJ: sam, pierwszy, cały, jeden, sama, całą, całe, jedna, jednej, kolejny</li>
-        <li>ADJ-Part: przyjęta, opanowana, leżącego, leżącą, oszołomiony, wykonane, zaskoczony, zniszczony, czytającego, idącej</li>
-        <li>AUX: em, jest, m, był, będzie, było, była, eś, ś, jestem</li>
-        <li>AUX-Fin: jest, był, będzie, było, była, jestem, został, będę, jesteś, została</li>
-        <li>DET: ten, tym, tej, tego, ta, to, tę, jakiś, każdy, mój</li>
-        <li>NOUN: pan, pani, domu, roku, pana, raz, chwili, czas, życie, chwilę</li>
-        <li>NOUN-Vnoun: głosowania, otwarcia, przyjęcie, czytanie, odrzucenie, odwołania, okradania, zakończeniu, jedzeniu, liczenie</li>
-        <li>PRON: to, co, mnie, go, ja, jej, mi, jego, mu, tym</li>
-        <li>PROPN: Polsce, Polski, Warszawie, Jerzy, Warszawy, Andrzej, SLD, Adam, Bóg, Marta</li>
-        <li>VERB-Fin: ma, miał, mam, jest, było, chciał, może, wiem, proszę, miała</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Case</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Acc
+    <ul>
+      <li>ADJ: cały, całe, pierwszy, całą, dobre, inne, duże, kolejny, jedną, nowe</li>
+      <li>ADJ-Part: leżącą, leżącego, otwartą, pokrojone, przygotowane, płonący, uwolnione, wzburzone, Aresztowanego, Ostudzone</li>
+      <li>DET: kilka, ten, swoje, te, tę, wiele, takie, to, swoją, swój</li>
+      <li>NOUN: raz, chwilę, oczy, pana, głowę, życie, drzwi, sposób, czas, ręce</li>
+      <li>NOUN-Vnoun: odrzucenie, przyjęcie, czytanie, opuszczenie, zabranie, finansowanie, nadawanie, pogorszenie, pojawienie, rozpoczęcie</li>
+      <li>NUM: dwa, trzy, dwie, dwóch, cztery, pięć, trzech, dwadzieścia, sto, 15</li>
+      <li>PRON: to, go, co, mnie, ją, je, coś, nas, cię, ich</li>
+      <li>PROPN: Polskę, Jerzego, Andrzeja, Boga, Kraków, Martę, Cygana, Elizabeth, Europę, Francję</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Case</a>
+<ul>
+  <li>Dat
+    <ul>
+      <li>ADJ: innym, nowemu, różnym, samej, własnym, 16-letniej, 22-letniej, Dziwnej, Okręgowej, Polskiej</li>
+      <li>ADJ-Part: Przygwożdżonemu, Płaczącym, dotkniętym, jadącym, leżącym, mijanym, niosącym, obalonym, protestującej, przymuszanym</li>
+      <li>DET: każdemu, swoim, tym, naszym, wszystkim, naszej, wielu, kilku, swemu, swojej</li>
+      <li>NOUN: panu, pani, ludziom, ministrowi, życiu, dziennikarzom, osobom, dzieciom, posłowi, przyjaciołom</li>
+      <li>NOUN-Vnoun: Poparzeniu, Zmumifikowaniu, afirmowaniu, istnieniu, lekceważeniu, ocieraniu, oddawaniu, podświetleniu, płaceniu, rozszerzaniu</li>
+      <li>NUM: obu, 400, Sześciu</li>
+      <li>PRON: mi, mu, sobie, ci, jej, im, nam, wam, temu, tobie</li>
+      <li>PROPN: Bogu, Anglikom, Barbarze, Dżabie, Jezusowi, Kaliszowi, Michałowi, Adrianowi, Agnieszce, Ance</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Acc
-      <ul>
-        <li>ADJ: cały, całe, pierwszy, całą, dobre, inne, duże, kolejny, jedną, nowe</li>
-        <li>ADJ-Part: leżącą, leżącego, otwartą, pokrojone, przygotowane, płonący, uwolnione, wzburzone, Aresztowanego, Ostudzone</li>
-        <li>DET: kilka, ten, swoje, te, tę, wiele, takie, to, swoją, swój</li>
-        <li>NOUN: raz, chwilę, oczy, pana, głowę, życie, drzwi, sposób, czas, ręce</li>
-        <li>NOUN-Vnoun: odrzucenie, przyjęcie, czytanie, opuszczenie, zabranie, finansowanie, nadawanie, pogorszenie, pojawienie, rozpoczęcie</li>
-        <li>NUM: dwa, trzy, dwie, dwóch, cztery, pięć, trzech, dwadzieścia, sto, 15</li>
-        <li>PRON: to, go, co, mnie, ją, je, coś, nas, cię, ich</li>
-        <li>PROPN: Polskę, Jerzego, Andrzeja, Boga, Kraków, Martę, Cygana, Elizabeth, Europę, Francję</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Gen
+    <ul>
+      <li>ADJ: innego, innych, całego, jednego, jednej, samego, drugiej, nowego, nowych, różnych</li>
+      <li>ADJ-Part: pracujących, protestujących, czytającego, idącej, podchodzącego, połączonych, proponowanych, zachowanych, zamkniętych, aresztowanych</li>
+      <li>DET: tego, tej, takiego, tych, żadnych, takich, swoich, swojego, kilku, wszystkich</li>
+      <li>NOUN: lat, domu, osób, szpitala, czasu, ludzi, pracy, dni, roku, pana</li>
+      <li>NOUN-Vnoun: głosowania, otwarcia, odwołania, okradania, przeprowadzenia, zadania, gotowania, inwestowania, istnienia, korzystania</li>
+      <li>NUM: dwóch, obu, trzech, czterech, 300, sześciu, 13, 15, 180, 200</li>
+      <li>PRON: jego, jej, ich, tego, nic, mnie, nich, niego, nas, siebie</li>
+      <li>PROPN: Polski, Warszawy, SLD, Europy, Niemiec, Polaków, Jana, AWS, Andrzeja, Boga</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Dat
-      <ul>
-        <li>ADJ: innym, nowemu, różnym, samej, własnym, 16-letniej, 22-letniej, Dziwnej, Okręgowej, Polskiej</li>
-        <li>ADJ-Part: Przygwożdżonemu, Płaczącym, dotkniętym, jadącym, leżącym, mijanym, niosącym, obalonym, protestującej, przymuszanym</li>
-        <li>DET: każdemu, swoim, tym, naszym, wszystkim, naszej, wielu, kilku, swemu, swojej</li>
-        <li>NOUN: panu, pani, ludziom, ministrowi, życiu, dziennikarzom, osobom, dzieciom, posłowi, przyjaciołom</li>
-        <li>NOUN-Vnoun: Poparzeniu, Zmumifikowaniu, afirmowaniu, istnieniu, lekceważeniu, ocieraniu, oddawaniu, podświetleniu, płaceniu, rozszerzaniu</li>
-        <li>NUM: obu, 400, Sześciu</li>
-        <li>PRON: mi, mu, sobie, ci, jej, im, nam, wam, temu, tobie</li>
-        <li>PROPN: Bogu, Anglikom, Barbarze, Dżabie, Jezusowi, Kaliszowi, Michałowi, Adrianowi, Agnieszce, Ance</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ins
+    <ul>
+      <li>ADJ: całą, następnym, dużym, wielką, jednym, pierwszym, lekkim, prawdziwym, różnymi, samym</li>
+      <li>ADJ-Part: połamanymi, dominującym, dopitą, doprowadzonym, doznaną, interesującymi, kochaną, naciągniętą, naznaczonymi, nieposiadającą</li>
+      <li>DET: tym, tą, moim, swoim, takim, każdym, tymi, jakimś, swoją, jakimiś</li>
+      <li>NOUN: głową, czasem, razem, zdaniem, ręką, wieczorem, ramionami, głowami, plecami, trudem</li>
+      <li>NOUN-Vnoun: przyjęciem, wejściem, zamknięciem, zawaleniem, czytaniem, doświadczeniem, drukowaniem, drżeniem, działaniem, manipulowaniem</li>
+      <li>NUM: dwoma, czterema, trzema, 3, czterdziestu, dwiema, oboma, osiemdziesięcioma, stu, sześciu</li>
+      <li>PRON: nim, tym, czym, nimi, sobą, mną, nami, nią, kim, tobą</li>
+      <li>PROPN: Polską, Niemcami, Polakami, Warszawą, Bośnią, Jurkiem, Karolem, Odrą, Piotrem, Wandą</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Gen
-      <ul>
-        <li>ADJ: innego, innych, całego, jednego, jednej, samego, drugiej, nowego, nowych, różnych</li>
-        <li>ADJ-Part: pracujących, protestujących, czytającego, idącej, podchodzącego, połączonych, proponowanych, zachowanych, zamkniętych, aresztowanych</li>
-        <li>DET: tego, tej, takiego, tych, żadnych, takich, swoich, swojego, kilku, wszystkich</li>
-        <li>NOUN: lat, domu, osób, szpitala, czasu, ludzi, pracy, dni, roku, pana</li>
-        <li>NOUN-Vnoun: głosowania, otwarcia, odwołania, okradania, przeprowadzenia, zadania, gotowania, inwestowania, istnienia, korzystania</li>
-        <li>NUM: dwóch, obu, trzech, czterech, 300, sześciu, 13, 15, 180, 200</li>
-        <li>PRON: jego, jej, ich, tego, nic, mnie, nich, niego, nas, siebie</li>
-        <li>PROPN: Polski, Warszawy, SLD, Europy, Niemiec, Polaków, Jana, AWS, Andrzeja, Boga</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Loc
+    <ul>
+      <li>ADJ: całym, ostatnich, jednej, pierwszej, ubiegłym, najbliższym, ostatnim, drugiej, jednym, ostatniej</li>
+      <li>ADJ-Part: oblodzonej, przygotowanej, bodącym, cuchnącym, czekającym, gasnącym, kierowanym, migoczącym, należącym, nieheblowanych</li>
+      <li>DET: tym, tej, tych, swoim, naszym, każdym, wszystkich, kilku, takim, wielu</li>
+      <li>NOUN: chwili, roku, miejscu, domu, czasie, drodze, stanie, nocy, ulicy, razie</li>
+      <li>NOUN-Vnoun: zakończeniu, jedzeniu, oczekiwaniu, wyjściu, poszukiwaniu, przybyciu, ukazaniu, ukończeniu, wyjęciu, złożeniu</li>
+      <li>NUM: dwóch, obu, trzech, 100, 30, 40, czterech, dziesięciu, pięciu, pięćdziesięciu</li>
+      <li>PRON: tym, nim, sobie, czym, nich, niej, mnie, tobie, wszystkim, niczym</li>
+      <li>PROPN: Polsce, Warszawie, Niemczech, Europie, Ameryce, Paryżu, Poznaniu, USA, Łodzi, Afganistanie</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ins
-      <ul>
-        <li>ADJ: całą, następnym, dużym, wielką, jednym, pierwszym, lekkim, prawdziwym, różnymi, samym</li>
-        <li>ADJ-Part: połamanymi, dominującym, dopitą, doprowadzonym, doznaną, interesującymi, kochaną, naciągniętą, naznaczonymi, nieposiadającą</li>
-        <li>DET: tym, tą, moim, swoim, takim, każdym, tymi, jakimś, swoją, jakimiś</li>
-        <li>NOUN: głową, czasem, razem, zdaniem, ręką, wieczorem, ramionami, głowami, plecami, trudem</li>
-        <li>NOUN-Vnoun: przyjęciem, wejściem, zamknięciem, zawaleniem, czytaniem, doświadczeniem, drukowaniem, drżeniem, działaniem, manipulowaniem</li>
-        <li>NUM: dwoma, czterema, trzema, 3, czterdziestu, dwiema, oboma, osiemdziesięcioma, stu, sześciu</li>
-        <li>PRON: nim, tym, czym, nimi, sobą, mną, nami, nią, kim, tobą</li>
-        <li>PROPN: Polską, Niemcami, Polakami, Warszawą, Bośnią, Jurkiem, Karolem, Odrą, Piotrem, Wandą</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Nom
+    <ul>
+      <li>ADJ: sam, jeden, sama, sami, pierwszy, inne, jedna, inni, cały, dobry</li>
+      <li>ADJ-Part: przygotowane, przyjęta, wykonane, opanowana, przekazane, działające, oszołomiony, pozamykane, zaskoczony, zniszczony</li>
+      <li>DET: ten, ta, te, takie, taka, to, każdy, taki, wszystkie, moja</li>
+      <li>NOUN: pan, pani, ludzie, poseł, kobieta, mężczyzna, sprawa, policjanci, człowiek, dzieci</li>
+      <li>NOUN-Vnoun: liczenie, Obcowanie, Otwarcie, Wprowadzenie, Wykluczenie, uprawianie, uznanie, Czytanie, Dopuszczenie, Mordowanie</li>
+      <li>NUM: dwie, dwa, cztery, trzy, dwaj, obaj, oba, obie, trzej, 33</li>
+      <li>PRON: to, ja, on, co, kto, ty, nikt, wszystko, ktoś, ona</li>
+      <li>PROPN: Polacy, Jerzy, Andrzej, Adam, Bóg, Marta, Michał, Polska, Krzysztof, Niemcy</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Loc
-      <ul>
-        <li>ADJ: całym, ostatnich, jednej, pierwszej, ubiegłym, najbliższym, ostatnim, drugiej, jednym, ostatniej</li>
-        <li>ADJ-Part: oblodzonej, przygotowanej, bodącym, cuchnącym, czekającym, gasnącym, kierowanym, migoczącym, należącym, nieheblowanych</li>
-        <li>DET: tym, tej, tych, swoim, naszym, każdym, wszystkich, kilku, takim, wielu</li>
-        <li>NOUN: chwili, roku, miejscu, domu, czasie, drodze, stanie, nocy, ulicy, razie</li>
-        <li>NOUN-Vnoun: zakończeniu, jedzeniu, oczekiwaniu, wyjściu, poszukiwaniu, przybyciu, ukazaniu, ukończeniu, wyjęciu, złożeniu</li>
-        <li>NUM: dwóch, obu, trzech, 100, 30, 40, czterech, dziesięciu, pięciu, pięćdziesięciu</li>
-        <li>PRON: tym, nim, sobie, czym, nich, niej, mnie, tobie, wszystkim, niczym</li>
-        <li>PROPN: Polsce, Warszawie, Niemczech, Europie, Ameryce, Paryżu, Poznaniu, USA, Łodzi, Afganistanie</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Voc
+    <ul>
+      <li>ADJ: drogi, Najświętsza, droga, jeden</li>
+      <li>DET: mój, nasz, moja</li>
+      <li>NOUN: panie, pośle, marszałku, Senatorze, bracie, ministrze, tato, Prezesie, kapralu, kolego</li>
+      <li>PROPN: Panie, Boże, Arielu, Mario, Teresko, Agnieszko, Aleksandrze, Aniu, Brunonie, Bukowiński</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Nom
-      <ul>
-        <li>ADJ: sam, jeden, sama, sami, pierwszy, inne, jedna, inni, cały, dobry</li>
-        <li>ADJ-Part: przygotowane, przyjęta, wykonane, opanowana, przekazane, działające, oszołomiony, pozamykane, zaskoczony, zniszczony</li>
-        <li>DET: ten, ta, te, takie, taka, to, każdy, taki, wszystkie, moja</li>
-        <li>NOUN: pan, pani, ludzie, poseł, kobieta, mężczyzna, sprawa, policjanci, człowiek, dzieci</li>
-        <li>NOUN-Vnoun: liczenie, Obcowanie, Otwarcie, Wprowadzenie, Wykluczenie, uprawianie, uznanie, Czytanie, Dopuszczenie, Mordowanie</li>
-        <li>NUM: dwie, dwa, cztery, trzy, dwaj, obaj, oba, obie, trzej, 33</li>
-        <li>PRON: to, ja, on, co, kto, ty, nikt, wszystko, ktoś, ona</li>
-        <li>PROPN: Polacy, Jerzy, Andrzej, Adam, Bóg, Marta, Michał, Polska, Krzysztof, Niemcy</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>PrepCase</a></li>
+</ul>
 
-  <ul>
-    <li>Voc
-      <ul>
-        <li>ADJ: drogi, Najświętsza, droga, jeden</li>
-        <li>DET: mój, nasz, moja</li>
-        <li>NOUN: panie, pośle, marszałku, Senatorze, bracie, ministrze, tato, Prezesie, kapralu, kolego</li>
-        <li>PROPN: Panie, Boże, Arielu, Mario, Teresko, Agnieszko, Aleksandrze, Aniu, Brunonie, Bukowiński</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Npr
+    <ul>
+      <li>PRON: go, jej, jego, ich, mu, ją, on, je, ona, im</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
-
-<li><a>PrepCase</a>
-
-  <ul>
-    <li>Npr
-      <ul>
-        <li>PRON: go, jej, jego, ich, mu, ją, on, je, ona, im</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Pre
-      <ul>
-        <li>ADJ: dawna, daleka, prostu, swojemu, wolna, Niemiecku, amatorsku, arabsku, bliska, chrześcijańsku</li>
-        <li>PRON: nich, niego, nim, niej, nią, nimi, nie, ń, niemu</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Pre
+    <ul>
+      <li>ADJ: dawna, daleka, prostu, swojemu, wolna, Niemiecku, amatorsku, arabsku, bliska, chrześcijańsku</li>
+      <li>PRON: nich, niego, nim, niej, nią, nimi, nie, ń, niemu</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Degree and Polarity</h3>
 
 
-<li><a>Degree</a>
+<ul>
+  <li><a>Degree</a></li>
+</ul>
 
-  <ul>
-    <li>Cmp
-      <ul>
-        <li>ADJ: lepsze, starsza, starszy, dłuższego, lepszego, dalsze, dłuższą, lepszy, większa, większą</li>
-        <li>ADV: dalej, bardziej, lepiej, później, wcześniej, więcej, mniej, częściej, gorzej, dłużej</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Cmp
+    <ul>
+      <li>ADJ: lepsze, starsza, starszy, dłuższego, lepszego, dalsze, dłuższą, lepszy, większa, większą</li>
+      <li>ADV: dalej, bardziej, lepiej, później, wcześniej, więcej, mniej, częściej, gorzej, dłużej</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Pos
-      <ul>
-        <li>ADJ: sam, pierwszy, cały, jeden, inne, sama, całe, sami, innych, całą</li>
-        <li>ADV: bardzo, tak, jak, dobrze, szybko, nagle, długo, często, ciągle, obecnie</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Pos
+    <ul>
+      <li>ADJ: sam, pierwszy, cały, jeden, inne, sama, całe, sami, innych, całą</li>
+      <li>ADV: bardzo, tak, jak, dobrze, szybko, nagle, długo, często, ciągle, obecnie</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Sup
-      <ul>
-        <li>ADJ: najbliższym, największe, najlepszych, najważniejsze, najlepsze, najlepszy, największy, najbliższe, najbliższych, najgorsze</li>
-        <li>ADV: najbardziej, najlepiej, najczęściej, najwyraźniej, najszybciej, Najchętniej, najmniej, najmocniej, najwięcej, Najciekawiej</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Sup
+    <ul>
+      <li>ADJ: najbliższym, największe, najlepszych, najważniejsze, najlepsze, najlepszy, największy, najbliższe, najbliższych, najgorsze</li>
+      <li>ADV: najbardziej, najlepiej, najczęściej, najwyraźniej, najszybciej, Najchętniej, najmniej, najmocniej, najwięcej, Najciekawiej</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Polarity</a></li>
+</ul>
 
-<li><a>Polarity</a>
+<ul>
+  <li>Neg
+    <ul>
+      <li>ADJ-Part: Nieleczona, niedokończona, niedopitej, nieheblowanych, niepokazywanych, nieposiadającą, nieprzestrzegających, nieprzewidzianych, niespełnionym, niespotykane</li>
+      <li>NOUN-Vnoun: niestosowanie, nieuprawianie</li>
+      <li>PART: nie</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Neg
-      <ul>
-        <li>ADJ-Part: Nieleczona, niedokończona, niedopitej, nieheblowanych, niepokazywanych, nieposiadającą, nieprzestrzegających, nieprzewidzianych, niespełnionym, niespotykane</li>
-        <li>NOUN-Vnoun: niestosowanie, nieuprawianie</li>
-        <li>PART: nie</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Pos
+    <ul>
+      <li>ADJ-Part: przygotowane, przyjęta, wykonane, opanowana, protestujących, przekazane, działające, leżącego, leżącą, oszołomiony</li>
+      <li>NOUN-Vnoun: głosowania, otwarcia, przyjęcie, czytanie, odrzucenie, odwołania, okradania, zakończeniu, jedzeniu, liczenie</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Pos
-      <ul>
-        <li>ADJ-Part: przygotowane, przyjęta, wykonane, opanowana, protestujących, przekazane, działające, leżącego, leżącą, oszołomiony</li>
-        <li>NOUN-Vnoun: głosowania, otwarcia, przyjęcie, czytanie, odrzucenie, odwołania, okradania, zakończeniu, jedzeniu, liczenie</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Variant</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Long
+    <ul>
+      <li>ADP: ze, we, przede, ode, beze, Nade, przeze, spode</li>
+      <li>AUX: em, eś</li>
+      <li>PART: ze</li>
+      <li>PRON: mnie, jej, jego, ich, ją, on, je, nich, niego, nim</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Variant</a>
-
-  <ul>
-    <li>Long
-      <ul>
-        <li>ADP: ze, we, przede, ode, beze, Nade, przeze, spode</li>
-        <li>AUX: em, eś</li>
-        <li>PART: ze</li>
-        <li>PRON: mnie, jej, jego, ich, ją, on, je, nich, niego, nim</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Short
-      <ul>
-        <li>ADJ: ciekaw</li>
-        <li>ADP: w, z, od, przez, przed, pod, nad, bez, spod, ponad</li>
-        <li>AUX: m, śmy, ś, ście</li>
-        <li>PART: z</li>
-        <li>PRON: go, mi, mu, ci, cię, ń, mię</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Short
+    <ul>
+      <li>ADJ: ciekaw</li>
+      <li>ADP: w, z, od, przez, przed, pod, nad, bez, spod, ponad</li>
+      <li>AUX: m, śmy, ś, ście</li>
+      <li>PART: z</li>
+      <li>PRON: go, mi, mu, ci, cię, ń, mię</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Verbal Features</h3>
 
 
-<li><a>Aspect</a>
+<ul>
+  <li><a>Aspect</a></li>
+</ul>
 
-  <ul>
-    <li>Imp
-      <ul>
-        <li>ADJ-Part: protestujących, działające, leżącego, leżącą, pracujących, prowadzący, czytającego, idącej, jadący, kierująca</li>
-        <li>AUX: em, jest, m, śmy, był, są, będzie, było, była, eś</li>
-        <li>AUX-Fin: jest, był, są, będzie, było, była, jestem, były, będą, byli</li>
-        <li>AUX-Inf: być</li>
-        <li>NOUN-Vnoun: głosowania, czytanie, okradania, jedzeniu, liczenie, oczekiwaniu, Obcowanie, działanie, finansowanie, gotowania</li>
-        <li>VERB-Conv: mówiąc, patrząc, mając, szukając, trzymając, Idąc, czekając, licząc, bawiąc, chcąc</li>
-        <li>VERB-Fin: ma, miał, mam, jest, było, chciał, może, wiem, proszę, miała</li>
-        <li>VERB-Inf: mieć, być, mówić, robić, iść, rozmawiać, żyć, spać, jechać, mieszkać</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Imp
+    <ul>
+      <li>ADJ-Part: protestujących, działające, leżącego, leżącą, pracujących, prowadzący, czytającego, idącej, jadący, kierująca</li>
+      <li>AUX: em, jest, m, śmy, był, są, będzie, było, była, eś</li>
+      <li>AUX-Fin: jest, był, są, będzie, było, była, jestem, były, będą, byli</li>
+      <li>AUX-Inf: być</li>
+      <li>NOUN-Vnoun: głosowania, czytanie, okradania, jedzeniu, liczenie, oczekiwaniu, Obcowanie, działanie, finansowanie, gotowania</li>
+      <li>VERB-Conv: mówiąc, patrząc, mając, szukając, trzymając, Idąc, czekając, licząc, bawiąc, chcąc</li>
+      <li>VERB-Fin: ma, miał, mam, jest, było, chciał, może, wiem, proszę, miała</li>
+      <li>VERB-Inf: mieć, być, mówić, robić, iść, rozmawiać, żyć, spać, jechać, mieszkać</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Perf
-      <ul>
-        <li>ADJ-Part: przygotowane, przyjęta, wykonane, opanowana, przekazane, oszołomiony, pozamykane, ukryte, wyposażone, wyznaczone</li>
-        <li>AUX-Fin: został, została, zostanie, zostały, zostało, zostali, zostaną, zostanę</li>
-        <li>AUX-Inf: zostać</li>
-        <li>NOUN-Vnoun: otwarcia, przyjęcie, odrzucenie, odwołania, zakończeniu, opuszczenie, otwarcie, przeprowadzenia, wprowadzenie, wyjściu</li>
-        <li>VERB-Conv: spojrzawszy, Odwróciwszy, Otwarłszy, Poprzewracawszy, Powiedziawszy, Przyjechawszy, Straciwszy, Ubrawszy, Ustawiwszy, Wsunąwszy</li>
-        <li>VERB-Fin: zaczął, powiedział, udało, zrobił, spojrzał, zaczęła, stało, wyszedł, wszedł, usiadł</li>
-        <li>VERB-Inf: zrobić, powiedzieć, pomóc, zobaczyć, sprawdzić, kupić, zabrać, zmienić, znaleźć, wyjść</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Perf
+    <ul>
+      <li>ADJ-Part: przygotowane, przyjęta, wykonane, opanowana, przekazane, oszołomiony, pozamykane, ukryte, wyposażone, wyznaczone</li>
+      <li>AUX-Fin: został, została, zostanie, zostały, zostało, zostali, zostaną, zostanę</li>
+      <li>AUX-Inf: zostać</li>
+      <li>NOUN-Vnoun: otwarcia, przyjęcie, odrzucenie, odwołania, zakończeniu, opuszczenie, otwarcie, przeprowadzenia, wprowadzenie, wyjściu</li>
+      <li>VERB-Conv: spojrzawszy, Odwróciwszy, Otwarłszy, Poprzewracawszy, Powiedziawszy, Przyjechawszy, Straciwszy, Ubrawszy, Ustawiwszy, Wsunąwszy</li>
+      <li>VERB-Fin: zaczął, powiedział, udało, zrobił, spojrzał, zaczęła, stało, wyszedł, wszedł, usiadł</li>
+      <li>VERB-Inf: zrobić, powiedzieć, pomóc, zobaczyć, sprawdzić, kupić, zabrać, zmienić, znaleźć, wyjść</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Mood</a></li>
+</ul>
 
-<li><a>Mood</a>
+<ul>
+  <li>Cnd
+    <ul>
+      <li>AUX: by</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Cnd
-      <ul>
-        <li>AUX: by</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Imp
+    <ul>
+      <li>AUX: niech, bądź, bądźcie, Niechaj</li>
+      <li>AUX-Fin: bądź, bądźcie</li>
+      <li>VERB-Fin: chodź, powiedz, idź, słuchaj, daj, mów, bój, weź, chodźmy, czekaj</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Imp
-      <ul>
-        <li>AUX: niech, bądź, bądźcie, Niechaj</li>
-        <li>AUX-Fin: bądź, bądźcie</li>
-        <li>VERB-Fin: chodź, powiedz, idź, słuchaj, daj, mów, bój, weź, chodźmy, czekaj</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ind
+    <ul>
+      <li>AUX-Fin: jest, był, są, będzie, było, była, jestem, to, były, będą</li>
+      <li>VERB-Fin: to, ma, miał, mam, jest, było, można, chciał, może, wiem</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>AUX-Fin: jest, był, są, będzie, było, była, jestem, to, były, będą</li>
-        <li>VERB-Fin: to, ma, miał, mam, jest, było, można, chciał, może, wiem</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Tense</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Fut
+    <ul>
+      <li>AUX-Fin: będzie, będą, będę, będziemy, będziesz, zostanie, zostaną, będziecie, zostanę</li>
+      <li>VERB-Fin: będzie, wystarczy, da, powiem, przyjdzie, powie, pójdę, wróci, znajdzie, wyjdzie</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Tense</a>
+<ul>
+  <li>Past
+    <ul>
+      <li>AUX-Fin: był, było, była, były, został, byli, została, zostały, zostało, zostali</li>
+      <li>VERB-Conv: spojrzawszy, Odwróciwszy, Otwarłszy, Poprzewracawszy, Powiedziawszy, Przyjechawszy, Straciwszy, Ubrawszy, Ustawiwszy, Wsunąwszy</li>
+      <li>VERB-Fin: miał, było, chciał, miała, mógł, widział, chciała, zaczął, musiał, mieli</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Fut
-      <ul>
-        <li>AUX-Fin: będzie, będą, będę, będziemy, będziesz, zostanie, zostaną, będziecie, zostanę</li>
-        <li>VERB-Fin: będzie, wystarczy, da, powiem, przyjdzie, powie, pójdę, wróci, znajdzie, wyjdzie</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Pres
+    <ul>
+      <li>AUX-Fin: jest, są, jestem, to, jesteś, jesteśmy, bywa, jesteście, zostaje, bywają</li>
+      <li>VERB-Conv: mówiąc, patrząc, mając, szukając, trzymając, Idąc, czekając, licząc, bawiąc, chcąc</li>
+      <li>VERB-Fin: to, ma, mam, jest, można, może, wiem, trzeba, proszę, dziękuję</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Past
-      <ul>
-        <li>AUX-Fin: był, było, była, były, został, byli, została, zostały, zostało, zostali</li>
-        <li>VERB-Conv: spojrzawszy, Odwróciwszy, Otwarłszy, Poprzewracawszy, Powiedziawszy, Przyjechawszy, Straciwszy, Ubrawszy, Ustawiwszy, Wsunąwszy</li>
-        <li>VERB-Fin: miał, było, chciał, miała, mógł, widział, chciała, zaczął, musiał, mieli</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Voice</a></li>
+</ul>
 
-  <ul>
-    <li>Pres
-      <ul>
-        <li>AUX-Fin: jest, są, jestem, to, jesteś, jesteśmy, bywa, jesteście, zostaje, bywają</li>
-        <li>VERB-Conv: mówiąc, patrząc, mając, szukając, trzymając, Idąc, czekając, licząc, bawiąc, chcąc</li>
-        <li>VERB-Fin: to, ma, mam, jest, można, może, wiem, trzeba, proszę, dziękuję</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Act
+    <ul>
+      <li>ADJ-Part: protestujących, działające, leżącego, leżącą, pracujących, prowadzący, czytającego, idącej, jadący, kierująca</li>
+      <li>AUX-Fin: jest, był, są, była, jestem, było, został, były, byli, jesteś</li>
+      <li>AUX-Inf: być, zostać</li>
+      <li>VERB-Conv: mówiąc, patrząc, mając, szukając, trzymając, Idąc, czekając, licząc, bawiąc, chcąc</li>
+      <li>VERB-Fin: ma, miał, mam, jest, było, chciał, może, wiem, proszę, miała</li>
+      <li>VERB-Inf: zrobić, mieć, powiedzieć, być, mówić, robić, iść, pomóc, zobaczyć, rozmawiać</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
-
-<li><a>Voice</a>
-
-  <ul>
-    <li>Act
-      <ul>
-        <li>ADJ-Part: protestujących, działające, leżącego, leżącą, pracujących, prowadzący, czytającego, idącej, jadący, kierująca</li>
-        <li>AUX-Fin: jest, był, są, była, jestem, było, został, były, byli, jesteś</li>
-        <li>AUX-Inf: być, zostać</li>
-        <li>VERB-Conv: mówiąc, patrząc, mając, szukając, trzymając, Idąc, czekając, licząc, bawiąc, chcąc</li>
-        <li>VERB-Fin: ma, miał, mam, jest, było, chciał, może, wiem, proszę, miała</li>
-        <li>VERB-Inf: zrobić, mieć, powiedzieć, być, mówić, robić, iść, pomóc, zobaczyć, rozmawiać</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Pass
-      <ul>
-        <li>ADJ-Part: przygotowane, przyjęta, wykonane, opanowana, przekazane, oszołomiony, pozamykane, ukryte, wyposażone, wyznaczone</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
+<ul>
+  <li>Pass
+    <ul>
+      <li>ADJ-Part: przygotowane, przyjęta, wykonane, opanowana, przekazane, oszołomiony, pozamykane, ukryte, wyposażone, wyznaczone</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h3>Pronouns, Determiners, Quantifiers</h3>
 
 
-<li><a>PronType</a>
+<ul>
+  <li><a>PronType</a></li>
+</ul>
 
-  <ul>
-    <li>Dem
-      <ul>
-        <li>ADV: tu, tak, tam, wtedy, tutaj, dlatego, wówczas, stąd, stamtąd, dotąd</li>
-        <li>DET: ten, tym, tej, tego, te, ta, takie, to, tych, tę</li>
-        <li>PRON: to, tym, tego, temu, tamto</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Dem
+    <ul>
+      <li>ADV: tu, tak, tam, wtedy, tutaj, dlatego, wówczas, stąd, stamtąd, dotąd</li>
+      <li>DET: ten, tym, tej, tego, te, ta, takie, to, tych, tę</li>
+      <li>PRON: to, tym, tego, temu, tamto</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Ind
-      <ul>
-        <li>ADV: kiedyś, gdzieś, jakoś, kiedykolwiek, niekiedy, skądś, gdzieniegdzie</li>
-        <li>DET: kilka, wielu, jakieś, wiele, kilku, jakiś, więcej, jakąś, parę, jakimś</li>
-        <li>PRON: coś, ktoś, czegoś, kogoś, czymś, komuś, cokolwiek, kimś, kogokolwiek, Ktokolwiek</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Ind
+    <ul>
+      <li>ADV: kiedyś, gdzieś, jakoś, kiedykolwiek, niekiedy, skądś, gdzieniegdzie</li>
+      <li>DET: kilka, wielu, jakieś, wiele, kilku, jakiś, więcej, jakąś, parę, jakimś</li>
+      <li>PRON: coś, ktoś, czegoś, kogoś, czymś, komuś, cokolwiek, kimś, kogokolwiek, Ktokolwiek</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Int
-      <ul>
-        <li>ADV: jak, dlaczego, gdzie, kiedy, skąd, czemu, dokąd, odkąd, Jakże, Gdzież</li>
-        <li>DET: ile, jakie, jaki, jaka, który, jakim, jakich, jaką, jakiego, która</li>
-        <li>PRON: co, kto, czym, czego, kim, kogo, cóż, komu, któż, Kimże</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Int
+    <ul>
+      <li>ADV: jak, dlaczego, gdzie, kiedy, skąd, czemu, dokąd, odkąd, Jakże, Gdzież</li>
+      <li>DET: ile, jakie, jaki, jaka, który, jakim, jakich, jaką, jakiego, która</li>
+      <li>PRON: co, kto, czym, czego, kim, kogo, cóż, komu, któż, Kimże</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Neg
-      <ul>
-        <li>ADV: nigdy, nigdzie</li>
-        <li>DET: żadnych, żaden, żadnego, żadnej, żadna, żadne, żadnym, żadną</li>
-        <li>PRON: nic, nikt, niczego, nikogo, nikomu, niczym, niczemu, nikim</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Neg
+    <ul>
+      <li>ADV: nigdy, nigdzie</li>
+      <li>DET: żadnych, żaden, żadnego, żadnej, żadna, żadne, żadnym, żadną</li>
+      <li>PRON: nic, nikt, niczego, nikogo, nikomu, niczym, niczemu, nikim</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Prs
-      <ul>
-        <li>DET: swoje, mój, swoją, moje, swoich, swoim, swój, moja, nasze, swojego</li>
-        <li>PRON: się, mnie, go, ja, jej, mi, jego, ich, sobie, mu</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Prs
+    <ul>
+      <li>DET: swoje, mój, swoją, moje, swoich, swoim, swój, moja, nasze, swojego</li>
+      <li>PRON: się, mnie, go, ja, jej, mi, jego, ich, sobie, mu</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Rel
-      <ul>
-        <li>ADV: kiedy, gdzie</li>
-        <li>DET: który, które, którzy, która, których, którym, którego, której, którą, którymi</li>
-        <li>PRON: co, czym, czego, kto</li>
-        <li>SCONJ: co</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Rel
+    <ul>
+      <li>ADV: kiedy, gdzie</li>
+      <li>DET: który, które, którzy, która, których, którym, którego, której, którą, którymi</li>
+      <li>PRON: co, czym, czego, kto</li>
+      <li>SCONJ: co</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Tot
-      <ul>
-        <li>ADV: zawsze, wszędzie</li>
-        <li>DET: wszystkie, każdy, wszystkich, wszyscy, każdym, każde, każdego, każda, każdej, każdą</li>
-        <li>PRON: wszystko, wszyscy, wszystkim, wszystkiego, wszystkich, wszystkiemu</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Tot
+    <ul>
+      <li>ADV: zawsze, wszędzie</li>
+      <li>DET: wszystkie, każdy, wszystkich, wszyscy, każdym, każde, każdego, każda, każdej, każdą</li>
+      <li>PRON: wszystko, wszyscy, wszystkim, wszystkiego, wszystkich, wszystkiemu</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>NumType</a></li>
+</ul>
 
-<li><a>NumType</a>
+<ul>
+  <li>Card
+    <ul>
+      <li>DET: kilka, wielu, wiele, kilku, więcej, ile, parę, tyle, dużo, sporo</li>
+      <li>NUM: dwa, dwóch, dwie, trzy, cztery, trzech, obu, pięć, czterech, dwadzieścia</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Card
-      <ul>
-        <li>DET: kilka, wielu, wiele, kilku, więcej, ile, parę, tyle, dużo, sporo</li>
-        <li>NUM: dwa, dwóch, dwie, trzy, cztery, trzech, obu, pięć, czterech, dwadzieścia</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Frac
+    <ul>
+      <li>NUM: pół</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Frac
-      <ul>
-        <li>NUM: pół</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Poss</a></li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Yes
+    <ul>
+      <li>DET: swoje, mój, swoją, moje, swoich, swoim, swój, moja, nasze, swojego</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Poss</a>
+<ul>
+  <li><a>Reflex</a></li>
+</ul>
 
-  <ul>
-    <li>Yes
-      <ul>
-        <li>DET: swoje, mój, swoją, moje, swoich, swoim, swój, moja, nasze, swojego</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Yes
+    <ul>
+      <li>DET: swoje, swoją, swoich, swoim, swój, swojego, swej, swojej, swego, swą</li>
+      <li>PRON: się, sobie, siebie, sobą, sie, se, sia</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li><a>Person</a></li>
+</ul>
 
-<li><a>Reflex</a>
+<ul>
+  <li>0
+    <ul>
+      <li>VERB-Fin: znaleziono, zatrzymano, rozegrano, stwierdzono, zrobiono, aresztowano, podano, powiadomiono, przyjęto, zaczęto</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Yes
-      <ul>
-        <li>DET: swoje, swoją, swoich, swoim, swój, swojego, swej, swojej, swego, swą</li>
-        <li>PRON: się, sobie, siebie, sobą, sie, se, sia</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>1
+    <ul>
+      <li>AUX: em, m, śmy, jestem, będę, będziemy, jesteśmy, bywam, zostanę</li>
+      <li>AUX-Fin: jestem, będę, będziemy, jesteśmy, bywam, zostanę</li>
+      <li>DET: mój, moje, moja, nasze, moim, mojego, nasz, naszym, naszych, naszego</li>
+      <li>PRON: mnie, ja, mi, nas, nam, my, mną, nami, Jak, mię</li>
+      <li>VERB-Fin: mam, wiem, proszę, dziękuję, mogę, muszę, mamy, chcę, znam, widzę</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>2
+    <ul>
+      <li>AUX: eś, ś, ście, jesteś, będziesz, bądź, bądźcie, będziecie, jesteście, bywasz</li>
+      <li>AUX-Fin: jesteś, będziesz, bądź, bądźcie, będziecie, jesteście, bywasz</li>
+      <li>DET: twoje, twój, twoja, twoją, twoim, wasza, waszym, Waszą, twojej, wasz</li>
+      <li>PRON: ci, ty, cię, ciebie, wam, was, tobie, tobą, wy, wami</li>
+      <li>VERB-Fin: masz, wiesz, chcesz, możesz, widzisz, chodź, powiedz, musisz, idź, macie</li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Person</a>
+<ul>
+  <li>3
+    <ul>
+      <li>AUX-Fin: jest, są, będzie, będą, zostanie, zostaną, bywa, zostaje, bywają, som</li>
+      <li>PRON: go, jej, jego, ich, mu, ją, on, je, nich, niego</li>
+      <li>VERB-Fin: ma, jest, może, mają, musi, chce, chodzi, wie, mogą, są</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>0
-      <ul>
-        <li>VERB-Fin: znaleziono, zatrzymano, rozegrano, stwierdzono, zrobiono, aresztowano, podano, powiadomiono, przyjęto, zaczęto</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a>Polite</a></li>
+</ul>
 
-  <ul>
-    <li>1
-      <ul>
-        <li>AUX: em, m, śmy, jestem, będę, będziemy, jesteśmy, bywam, zostanę</li>
-        <li>AUX-Fin: jestem, będę, będziemy, jesteśmy, bywam, zostanę</li>
-        <li>DET: mój, moje, moja, nasze, moim, mojego, nasz, naszym, naszych, naszego</li>
-        <li>PRON: mnie, ja, mi, nas, nam, my, mną, nami, Jak, mię</li>
-        <li>VERB-Fin: mam, wiem, proszę, dziękuję, mogę, muszę, mamy, chcę, znam, widzę</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>2
-      <ul>
-        <li>AUX: eś, ś, ście, jesteś, będziesz, bądź, bądźcie, będziecie, jesteście, bywasz</li>
-        <li>AUX-Fin: jesteś, będziesz, bądź, bądźcie, będziecie, jesteście, bywasz</li>
-        <li>DET: twoje, twój, twoja, twoją, twoim, wasza, waszym, Waszą, twojej, wasz</li>
-        <li>PRON: ci, ty, cię, ciebie, wam, was, tobie, tobą, wy, wami</li>
-        <li>VERB-Fin: masz, wiesz, chcesz, możesz, widzisz, chodź, powiedz, musisz, idź, macie</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>3
-      <ul>
-        <li>AUX-Fin: jest, są, będzie, będą, zostanie, zostaną, bywa, zostaje, bywają, som</li>
-        <li>PRON: go, jej, jego, ich, mu, ją, on, je, nich, niego</li>
-        <li>VERB-Fin: ma, jest, może, mają, musi, chce, chodzi, wie, mogą, są</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
-
-<li><a>Polite</a>
-
-  <ul>
-    <li>Depr
-      <ul>
-        <li>NOUN: chłopaki, eseldziaki, VIP-y, Wykształciuchy, bliźniaki, klechy, ruskie, skurwysyny, wnuki, łajzy</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Depr
+    <ul>
+      <li>NOUN: chłopaki, eseldziaki, VIP-y, Wykształciuchy, bliźniaki, klechy, ruskie, skurwysyny, wnuki, łajzy</li>
+    </ul>
+  </li>
+</ul>
 
 
+<ul>
+  <li><a>Number[psor]</a></li>
+</ul>
 
-<li><a>Number[psor]</a>
+<ul>
+  <li>Plur
+    <ul>
+      <li>DET: nasze, nasz, naszym, naszych, naszego, naszej, nasza, nasi, naszą, wasza</li>
+    </ul>
+  </li>
+</ul>
 
-  <ul>
-    <li>Plur
-      <ul>
-        <li>DET: nasze, nasz, naszym, naszych, naszego, naszej, nasza, nasi, naszą, wasza</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-    <li>Sing
-      <ul>
-        <li>DET: mój, moje, moja, twoje, moim, mojego, twój, moją, mojej, twoja</li>
-      </ul>
-    </li>
-  </ul>
-
-  <ul>
-  </ul>
-</li>
+<ul>
+  <li>Sing
+    <ul>
+      <li>DET: mój, moje, moja, twoje, moim, mojego, twój, moją, mojej, twoja</li>
+    </ul>
+  </li>
+</ul>
 
 <h3>Other Features</h3>
 
 
-<li><a>AdpType</a>
-  <ul>
-    <li>Post
-      <ul>
-        <li>ADP: temu</li>
-      </ul>
-    </li>
-    <li>Prep
-      <ul>
-        <li>ADP: na, w, do, z, o, po, za, od, dla, przy</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>AdpType</a>
+    <ul>
+      <li>Post
+        <ul>
+          <li>ADP: temu</li>
+        </ul>
+      </li>
+      <li>Prep
+        <ul>
+          <li>ADP: na, w, do, z, o, po, za, od, dla, przy</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Agglutination</a>
-  <ul>
-    <li>Agl
-      <ul>
-        <li>VERB-Fin: mogł, podniosł, Pomogł, rozwiodł, wiozł, wrosł</li>
-      </ul>
-    </li>
-    <li>Nagl
-      <ul>
-        <li>VERB-Fin: mógł, podniósł, przyniósł, uniósł, odniósł, pomógł, poniósł, przeniósł, zawiódł, przywiózł</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Agglutination</a>
+    <ul>
+      <li>Agl
+        <ul>
+          <li>VERB-Fin: mogł, podniosł, Pomogł, rozwiodł, wiozł, wrosł</li>
+        </ul>
+      </li>
+      <li>Nagl
+        <ul>
+          <li>VERB-Fin: mógł, podniósł, przyniósł, uniósł, odniósł, pomógł, poniósł, przeniósł, zawiódł, przywiózł</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Emphatic</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>ADV: Jakże, Gdzież</li>
-        <li>DET: Jakiż, ileż, iluż, takąż</li>
-        <li>PART: Czyż</li>
-        <li>PRON: cóż, któż, Kimże, Kogóż, czymże, kogoż</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Emphatic</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADV: Jakże, Gdzież</li>
+          <li>DET: Jakiż, ileż, iluż, takąż</li>
+          <li>PART: Czyż</li>
+          <li>PRON: cóż, któż, Kimże, Kogóż, czymże, kogoż</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>Hyph</a>
-  <ul>
-    <li>Yes
-      <ul>
-        <li>ADJ: biało, polsko, rosyjsko, Sanitarno, angielsko, autostradowo, białorusko, czarno, parlamentarno, pensjonatowo</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>Hyph</a>
+    <ul>
+      <li>Yes
+        <ul>
+          <li>ADJ: biało, polsko, rosyjsko, Sanitarno, angielsko, autostradowo, białorusko, czarno, parlamentarno, pensjonatowo</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>PartType</a>
-  <ul>
-    <li>Int
-      <ul>
-        <li>PART: czy, czyżby, Azaliż, Czyż</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>PartType</a>
+    <ul>
+      <li>Int
+        <ul>
+          <li>PART: czy, czyżby, Azaliż, Czyż</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>PunctSide</a>
-  <ul>
-    <li>Fin
-      <ul>
-        <li>PUNCT: ", ), ”</li>
-      </ul>
-    </li>
-    <li>Ini
-      <ul>
-        <li>PUNCT: ", (, „, “</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>PunctSide</a>
+    <ul>
+      <li>Fin
+        <ul>
+          <li>PUNCT: ", ), ”</li>
+        </ul>
+      </li>
+      <li>Ini
+        <ul>
+          <li>PUNCT: ", (, „, “</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>PunctType</a>
-  <ul>
-    <li>Brck
-      <ul>
-        <li>PUNCT: (, )</li>
-      </ul>
-    </li>
-    <li>Comm
-      <ul>
-        <li>PUNCT: ,, ;</li>
-      </ul>
-    </li>
-    <li>Dash
-      <ul>
-        <li>PUNCT: -, –, —</li>
-      </ul>
-    </li>
-    <li>Excl
-      <ul>
-        <li>PUNCT: !</li>
-      </ul>
-    </li>
-    <li>Peri
-      <ul>
-        <li>PUNCT: .</li>
-      </ul>
-    </li>
-    <li>Qest
-      <ul>
-        <li>PUNCT: ?</li>
-      </ul>
-    </li>
-    <li>Quot
-      <ul>
-        <li>PUNCT: ", ”, „, “</li>
-      </ul>
-    </li>
-    <li>Semi
-      <ul>
-        <li>PUNCT: ;</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>PunctType</a>
+    <ul>
+      <li>Brck
+        <ul>
+          <li>PUNCT: (, )</li>
+        </ul>
+      </li>
+      <li>Comm
+        <ul>
+          <li>PUNCT: ,, ;</li>
+        </ul>
+      </li>
+      <li>Dash
+        <ul>
+          <li>PUNCT: -, –, —</li>
+        </ul>
+      </li>
+      <li>Excl
+        <ul>
+          <li>PUNCT: !</li>
+        </ul>
+      </li>
+      <li>Peri
+        <ul>
+          <li>PUNCT: .</li>
+        </ul>
+      </li>
+      <li>Qest
+        <ul>
+          <li>PUNCT: ?</li>
+        </ul>
+      </li>
+      <li>Quot
+        <ul>
+          <li>PUNCT: ", ”, „, “</li>
+        </ul>
+      </li>
+      <li>Semi
+        <ul>
+          <li>PUNCT: ;</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>SubGender</a>
-  <ul>
-    <li>Masc1
-      <ul>
-        <li>ADJ: sam, sami, inni, jeden, pierwszy, innych, stary, dobry, starszy, jednego</li>
-        <li>ADJ-Part: leżącego, oszołomiony, pracujących, protestujących, zaskoczony, czytającego, pobity, podchodzącego, prowadzący, ubrany</li>
-        <li>AUX-Fin: był, byli, został, zostali, bywał</li>
-        <li>DET: ten, wielu, wszyscy, każdy, mój, ci, wszystkich, tego, który, niektórzy</li>
-        <li>NOUN: pan, pana, panie, ludzi, ludzie, poseł, mężczyzna, panu, policjanci, człowiek</li>
-        <li>NUM: dwóch, trzech, czterech, dwaj, obaj, pięciu, trzej, obu, sześciu, stu</li>
-        <li>PRON: go, mnie, jego, mu, ja, mi, ich, nas, on, kto</li>
-        <li>PROPN: Polacy, Jerzy, Andrzej, Adam, Bóg, Michał, Krzysztof, Kwaśniewski, Niemcy, Aleksander</li>
-        <li>VERB-Fin: miał, chciał, mógł, widział, musiał, mieli, powiedział, zaczął, spojrzał, wiedział</li>
-      </ul>
-    </li>
-    <li>Masc2
-      <ul>
-        <li>ADJ: jeden, małe, dzikie, jednego, pokrojone, Białego, Biały, Biedny, Inne, Luksusowego</li>
-        <li>ADJ-Part: pokrojone, Wychłodzony, atakowany, dokarmiane, nienawidzącego, obrażony, odwrócony, osączone, pojone, pokruszone</li>
-        <li>AUX-Fin: był, został, były</li>
-        <li>DET: ten, te, który, nasze, takiego, tego, Twój, Wszystkie, ile, któryś</li>
-        <li>NOUN: złotych, zł, ptaki, koty, konie, kot, papierosy, psy, papierosa, psa</li>
-        <li>NUM: 1500, 20, 4, 600, dwa, pięć, siedem, sto, trzy, 1.000</li>
-        <li>PRON: go, ich, mu, jego, nim, je, on, ci, mnie, niego</li>
-        <li>PROPN: Dior, Duduś, Puzon, stara, Bosmana, Bronek, Czerwonym, DigiPath, Dunaja, Dusiołku</li>
-        <li>VERB-Fin: kantowały, miał, był, stał, chciał, grał, krążyły, miały, pojawiły, rozumiał</li>
-      </ul>
-    </li>
-    <li>Masc3
-      <ul>
-        <li>ADJ: cały, pierwszy, kolejny, jeden, drugi, inny, inne, wielki, nowy, ostatnie</li>
-        <li>ADJ-Part: zniszczony, działające, mający, odbudowany, przedstawiony, przerwany, przygotowane, przygotowany, publikowane, płonący</li>
-        <li>AUX-Fin: był, został, były, zostały</li>
-        <li>DET: ten, tym, tego, kilka, te, swój, jakiś, taki, takie, tych</li>
-        <li>NOUN: lat, domu, roku, raz, czas, dni, szpitala, dzień, pokoju, czasem</li>
-        <li>NUM: dwa, trzy, cztery, dwóch, dwadzieścia, sto, trzech, 10, 4, 80</li>
-        <li>PRON: go, je, nim, on, niego, one, ich, jego, nich, mu</li>
-        <li>PROPN: SLD, Izrael, Krakowa, Paryżu, Poznaniu, Wrocławia, Afganistanie, Gdańska, Izraelu, Kraków</li>
-        <li>VERB-Fin: mógł, zaczął, był, stał, były, miał, minął, nadszedł, panował, powstał</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>SubGender</a>
+    <ul>
+      <li>Masc1
+        <ul>
+          <li>ADJ: sam, sami, inni, jeden, pierwszy, innych, stary, dobry, starszy, jednego</li>
+          <li>ADJ-Part: leżącego, oszołomiony, pracujących, protestujących, zaskoczony, czytającego, pobity, podchodzącego, prowadzący, ubrany</li>
+          <li>AUX-Fin: był, byli, został, zostali, bywał</li>
+          <li>DET: ten, wielu, wszyscy, każdy, mój, ci, wszystkich, tego, który, niektórzy</li>
+          <li>NOUN: pan, pana, panie, ludzi, ludzie, poseł, mężczyzna, panu, policjanci, człowiek</li>
+          <li>NUM: dwóch, trzech, czterech, dwaj, obaj, pięciu, trzej, obu, sześciu, stu</li>
+          <li>PRON: go, mnie, jego, mu, ja, mi, ich, nas, on, kto</li>
+          <li>PROPN: Polacy, Jerzy, Andrzej, Adam, Bóg, Michał, Krzysztof, Kwaśniewski, Niemcy, Aleksander</li>
+          <li>VERB-Fin: miał, chciał, mógł, widział, musiał, mieli, powiedział, zaczął, spojrzał, wiedział</li>
+        </ul>
+      </li>
+      <li>Masc2
+        <ul>
+          <li>ADJ: jeden, małe, dzikie, jednego, pokrojone, Białego, Biały, Biedny, Inne, Luksusowego</li>
+          <li>ADJ-Part: pokrojone, Wychłodzony, atakowany, dokarmiane, nienawidzącego, obrażony, odwrócony, osączone, pojone, pokruszone</li>
+          <li>AUX-Fin: był, został, były</li>
+          <li>DET: ten, te, który, nasze, takiego, tego, Twój, Wszystkie, ile, któryś</li>
+          <li>NOUN: złotych, zł, ptaki, koty, konie, kot, papierosy, psy, papierosa, psa</li>
+          <li>NUM: 1500, 20, 4, 600, dwa, pięć, siedem, sto, trzy, 1.000</li>
+          <li>PRON: go, ich, mu, jego, nim, je, on, ci, mnie, niego</li>
+          <li>PROPN: Dior, Duduś, Puzon, stara, Bosmana, Bronek, Czerwonym, DigiPath, Dunaja, Dusiołku</li>
+          <li>VERB-Fin: kantowały, miał, był, stał, chciał, grał, krążyły, miały, pojawiły, rozumiał</li>
+        </ul>
+      </li>
+      <li>Masc3
+        <ul>
+          <li>ADJ: cały, pierwszy, kolejny, jeden, drugi, inny, inne, wielki, nowy, ostatnie</li>
+          <li>ADJ-Part: zniszczony, działające, mający, odbudowany, przedstawiony, przerwany, przygotowane, przygotowany, publikowane, płonący</li>
+          <li>AUX-Fin: był, został, były, zostały</li>
+          <li>DET: ten, tym, tego, kilka, te, swój, jakiś, taki, takie, tych</li>
+          <li>NOUN: lat, domu, roku, raz, czas, dni, szpitala, dzień, pokoju, czasem</li>
+          <li>NUM: dwa, trzy, cztery, dwóch, dwadzieścia, sto, trzech, 10, 4, 80</li>
+          <li>PRON: go, je, nim, on, niego, one, ich, jego, nich, mu</li>
+          <li>PROPN: SLD, Izrael, Krakowa, Paryżu, Poznaniu, Wrocławia, Afganistanie, Gdańska, Izraelu, Kraków</li>
+          <li>VERB-Fin: mógł, zaczął, był, stał, były, miał, minął, nadszedł, panował, powstał</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<li><a>VerbType</a>
-  <ul>
-    <li>Quasi
-      <ul>
-        <li>AUX-Fin: to</li>
-        <li>VERB-Fin: to, można, trzeba, widać, warto, wiadomo, szkoda, wolno, brak, słychać</li>
-      </ul>
-    </li>
-  </ul>
-</li>
+<ul>
+  <li><a>VerbType</a>
+    <ul>
+      <li>Quasi
+        <ul>
+          <li>AUX-Fin: to</li>
+          <li>VERB-Fin: to, można, trzeba, widać, warto, wiadomo, szkoda, wolno, brak, słychać</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 <h2>Syntax</h2>
 
