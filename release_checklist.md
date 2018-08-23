@@ -127,6 +127,14 @@ reasonably human-readable).
 The last part of the `README` file contains machine-readable metadata (described below) where selected vital information
 must be provided in a fixed pre-defined way.
 
+Similarly to the data files, the `README` file can be only modified in the `dev` branch of the repository, and changes are
+propagated to the master branch and to other places twice a year at release time
+(see the [Repository Branches](#repository-branches) section below for details).
+Therefore, the `README` file should be in shape by the data freeze deadline; do not postpone it until after the release!
+The most visible places of the website are based on the contents of the master branch and you will not be able to edit them
+between releases (think of the website as of a journal with two numbers per year: you can publish information about your
+treebank in the next issue, but you cannot publish corrections before the next issue is out).
+
 MarkDown source files usually have the `.md` extension (`README.md`); but for historical reasons,
 it is also possible to name the file `README.txt`.
 Only one of these files must be present, it is not permitted to have both `README.md` and `README.txt`!
