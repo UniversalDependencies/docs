@@ -64,14 +64,21 @@ The annotation differs from (the release 2.1 of) the SZ UD treebank of Polish al
 
 The original LFG corpus has been developed under the supervision of Agnieszka Patejuk (many thanks to the annotators!) and has been converted to UD by Adam Przepiórkowski, in collaboration with Agnieszka Patejuk. Both the creation of the original LFG corpus and the conversion into UD have been partially supported by the Polish Ministry of Science and Higher Education within the CLARIN ERIC programme 2015–2018 (http://clarin.eu/). The data, lemmata and original morphosyntactic tags come from the manually annotated subcorpus of the National Corpus of Polish (led by Adam Przepiórkowski; http://nkjp.pl/), whose development was financed by the Polish Ministry of Science and Higher Education in 2007–2011, and – to a lesser extent – from the corpus Polish language of the 1960s (http://clip.ipipan.waw.pl/PL196x). Many thanks to Joakim Nivre and Dan Zeman for their infinite patience in answering a myriad of diverse UD-related questions during the development of this treebank.
 
-
 ## References
 
-A citable description of this treebank is in progress. Below are references to tools and resources that were used in the creation of the LFG Enhanced UD treebank of Polish. For the time being, you may want to cite the 2015 publication “Parallel development of linguistic resources: Towards a structure bank of Polish”.
+If you use this treebank, you are encouraged to cite this book:
 
-* Agnieszka Patejuk and Adam Przepiórkowski. “POLFIE: współczesna gramatyka formalna języka polskiego”. _Język Polski_, __XCVII__(1):48–64, 2017.
-* Agnieszka Patejuk and Adam Przepiórkowski. “Parallel development of linguistic resources: Towards a structure bank of Polish”. _Prace Filologiczne_, __LXV__:255–270, 2015.
-* Adam Przepiórkowski, Mirosław Bańko, Rafał L. Górski, Barbara Lewandowska-Tomaszczyk, Marek Łaziński, and Piotr Pęzik. “National Corpus of Polish”. In Zygmunt Vetulani, editor, *Proceedings of the 5th Language & Technology Conference: Human Language Technologies as a Challenge for Computer Science and Linguistics*, pages 259–263, Poznań, Poland, 2011.
+Agnieszka Patejuk and Adam Przepiórkowski. “From Lexical Functional Grammar to Enhanced Universal Dependencies: Linguistically informed treebanks of Polish.” Institute of Computer Science, Polish Academy of Sciences, Warsaw, 2018. Downoadable from http://nlp.ipipan.waw.pl/Bib/pat:prz:18:book.pdf.
+
+@Book{pat:prz:18:book,
+author = {Agnieszka Patejuk and Adam Przepiórkowski},
+title = {From {L}exical {F}unctional {G}rammar to Enhanced {U}niversal {D}ependencies: Linguistically informed treebanks of {P}olish},
+publisher = {Institute of Computer Science, Polish Academy of Sciences},
+year = 2018,
+address = {Warsaw},
+url = {http://nlp.ipipan.waw.pl/Bib/pat:prz:18:book.pdf}}
+
+
 
 # Statistics of UD Polish LFG
 
