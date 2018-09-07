@@ -62,10 +62,10 @@ intentionally do not make the comment mandatory in basic CoNLL-U files.
 We want to be able to simply split a basic CoNLL-U file on a sentence boundary
 and get two valid CoNLL-U files—something that is not possible with CoNLL-U Plus.
 
-Any column names other than the original ten are considered project-specific.
-It is advisable though that each project uses a namespace identifier to distinguish
-its own columns from columns defined by other initiatives, should they eventually
-end up in the same file. A column name may consist of uppercase English letters
+Any column names other than the original ten are considered project-specific and
+must use a namespace identifier that distinguishes the columns of the given project
+from columns defined by other initiatives, should they eventually
+end up in the same file. A column name consists of uppercase English letters
 and of a colon as the namespace delimiter:
 
     # global.columns = ID FORM PARSEME:MWE
