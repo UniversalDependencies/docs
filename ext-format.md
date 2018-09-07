@@ -5,6 +5,13 @@ udver: '2'
 ---
 
 
+<strong style='color:red'>DISCLAIMER:</strong> As of 2018-09-07,
+this page is work in progress and the contents may change in the near future.
+
+<!-- This specification was drafted in collaboration between the UD core group (Joakim Nivre, Dan Zeman, Filip Ginter) and the PARSEME initiative (Agata Savary, Carlos Ramisch, Silvio Cordeiro). -->
+<!-- Minutes from the Skype talk 2018-01-17 https://docs.google.com/document/d/108tEbDZyngpc-zqfy7phnSxRVaEzmiHDTzzRLINVgUM/edit?usp=sharing -->
+<!-- UD-to-Any format interface (CoNLL-U Plus first specification) https://docs.google.com/document/d/1_P5FK9yTRcTPEXU_iQ4SNvgUHKIWoUG9J5hk5B45584/edit#heading=h.kpu17fj0h6x7 -->
+
 # CoNLL-U Plus Format
 
 In theory, the [basic CoNLL-U format](format.html) can encode any kind of annotation
@@ -15,6 +22,10 @@ it becomes impractical to pack everything into these two places.
 We define a general technique of extending the CoNLL-U format, with the hope that
 various extensions will remain as compatible with each other as possible. We call
 this generic format “CoNLL-U Plus,” with the filename extension `.conllup`.
+
+Note that this page is not about the [enhanced UD representation](/u/overview/enhanced-syntax.html),
+which, despite being arguably an extension in its own right, is part of the standard
+CoNLL-U format.
 
 ## New columns
 
@@ -31,7 +42,7 @@ A valid CoNLL-U file thus becomes valid CoNLL-U Plus file when the comment listi
 its columns is inserted as the first line (here the column names are separated by
 a simple space character instead of a TAB):
 
-    # ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+    # global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
     # newdoc id = mf920901-001
     # newpar id = mf920901-001-p1
     # sent_id = mf920901-001-p1s1A
@@ -60,14 +71,29 @@ and of a colon as the namespace delimiter:
     # ID FORM PARSEME:MWE
 
 The internal requirements and semantics of the new column must be documented by
-the initiative that defined the column. The only global requirement specified by
+the initiative that defined the column. The only global limitation specified by
 CoNLL-U Plus is that the column does not contain a TAB, CR or LF character (but it may
 contain other whitespace characters if allowed by the column specification).
+In addition:
+
+* The underscore `_`, when it occurs alone in the field, is reserved for underspecified
+  annotations. It can be used in incomplete annotations or in blind versions of the
+  annotated files. (Note that in the FORM and LEMMA fields of the basic CoNLL-U file,
+  the underscore may also mean a literal underscore appearing in the underlying text.)
+* The asterisk `*`, when it occurs alone in a field, is reserved for empty annotations,
+  which are different from underspecified. This concerns sporadic annotations (where
+  not necessarily all tokens receive annotation).
+* The use of the underscore `_` and of the asterisk `*` is unconstrained when they
+  occur with other characters (e.g. in feature names or values, as in `spec_char=*`).
+
+If the file is an extension of an existing UD treebank, it is assumed that sentence-level
+metadata defined in UD (in particular, the `text` attribute), as well as the contents of
+the core UD columns, is identical to the source treebank.
 
 ## Cross-reference to a UD treebank
 
 In case of stand-off annotation, it becomes crucial to be able to identify the underlying UD file.
-Any official UD release is permanently identified by its permanent URI in the LINDAT/CLARIN repository,
+Any official UD release is identified by its permanent URI in the LINDAT/CLARIN repository,
 e.g.,
 
 * `http://hdl.handle.net/11234/1-1983` for UD 2.0.
@@ -87,3 +113,42 @@ Within a file, each sentence has a unique sentence id
 but for easier processing we keep the filename in the identification string).
 Within a sentence, the token/word id from the `ID` column unambiguously
 points to a tree node or a multi-word token.
+
+In the CoNLL-U Plus file, the reference appears in a sentence-level attribute
+called `source_sent_id`, where the id string contains three parts discussed above:
+release id, file path and sentence id. These three parts are separated by spaces,
+not slashes, because the release id itself contains slashes.
+
+### Cross-reference to another source
+
+Other cross-references are in principle similar to referring to UD treebanks.
+Instead of UD release handle, another URI identifying the download site can be
+used; however, it must permanently refer to the same version of the corpus, i.e.,
+the corpus must be immutable. Using [LINDAT/CLARIN](https://lindat.mff.cuni.cz/repository/xmlui/)
+handles is highly recommended.
+
+If the source treebank is local or if there is no source treebank, the release id
+is a single period (`.`).
+
+If the release id identifies just one file, the file path is also a single period (`.`).
+
+The sentence id must be identical to the `sent_id` in the corresponding source CoNLL-U file.
+If there is no source, the sentence id must be unique corpus-wide, just like in
+Universal Dependencies.
+
+# Known extensions of UD
+
+A few projects ran before this specification was created; their data probably do not
+comply with this specification.
+
+* Universal Semantic Roles (IBM Research, Alan Akbik et al.)
+
+New extensions:
+
+* PARSEME annotation of [multi-word expressions](http://multiword.sourceforge.net/PHITE.php?sitesig=CONF&page=CONF_04_LAW-MWE-CxG_2018___lb__COLING__rb__&subpage=CONF_45_Format_specification)
+
+Planned extensions:
+
+* Unimorph annotation of morphology
+* Several projects on named-entity annotation
+* Various semantic extensions
