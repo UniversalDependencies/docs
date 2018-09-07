@@ -22,13 +22,14 @@ The extension is actually very simple. While a CoNLL-U file has always precisely
 columns separated by TAB characters, a CoNLL-U Plus file can have any non-zero number
 of columns. In addition, the first line must be a sentence-level comment (i.e., starting
 with a `#` character) that lists the names of the columns used in this file.
-There ten predefined column names that identify the original columns of the core
+There are ten predefined column names that identify the original columns of the core
 CoNLL-U files ([see specification](format.html)). A CoNLL-U file may contain any
 subset of them (or none of them, making the file a completely stand-off annotation
 layer).
 
 A valid CoNLL-U file thus becomes valid CoNLL-U Plus file when the comment listing
-its columns is inserted as the first line:
+its columns is inserted as the first line (here the column names are separated by
+a simple space character instead of a TAB):
 
     # ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
     # newdoc id = mf920901-001
@@ -47,7 +48,7 @@ its columns is inserted as the first line:
 Note that the comment can safely reside in a CoNLL-U file and it stays a valid
 CoNLL-U file as long as no columns are added, reordered or removed. However, we
 intentionally do not make the comment mandatory in basic CoNLL-U files.
-We want to be able to simply split a basic CoNLL-U file on sentence boundary
+We want to be able to simply split a basic CoNLL-U file on a sentence boundary
 and get two valid CoNLL-U files—something that is not possible with CoNLL-U Plus.
 
 Any column names other than the original ten are considered project-specific.
@@ -57,6 +58,11 @@ end up in the same file. A column name may consist of uppercase English letters
 and of a colon as the namespace delimiter:
 
     # ID FORM PARSEME:MWE
+
+The internal requirements and semantics of the new column must be documented by
+the initiative that defined the column. The only global requirement specified by
+CoNLL-U Plus is that the column does not contain a TAB, CR or LF character (but it may
+contain other whitespace characters if allowed by the column specification).
 
 ## Cross-reference to a UD treebank
 
@@ -79,5 +85,5 @@ regardless of operating system:
 Within a file, each sentence has a unique sentence id
 (UD actually requires that the sentence id be unique treebank-wide,
 but for easier processing we keep the filename in the identification string).
-Within a sentence, the token/word id from the `ID` column uniquely
+Within a sentence, the token/word id from the `ID` column unambiguously
 points to a tree node or a multi-word token.
