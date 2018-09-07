@@ -11,7 +11,7 @@ udver: '2'
   * [Morphology](u/overview/morphology.html)
   * [Syntax](u/overview/syntax.html)
   * [Enhanced dependencies](u/overview/enhanced-syntax.html)
-  * [CoNLL-U format](format.html)
+  * [CoNLL-U format](format.html) and its [extensions](ext-format.html)
 * Annotation guidelines
   * [Nominals](u/overview/nominal-syntax.html)
   * [Simple clauses](u/overview/simple-syntax.html)

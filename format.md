@@ -12,6 +12,7 @@ Quick links:
 [[Morphology](#morphological-annotation)]
 [[Syntax](#syntactic-annotation)]
 [[Miscellaneous](#miscellaneous)]
+[[Extensions](#extensions)]
 
 We use a revised version of [the CoNLL-X format](http://anthology.aclweb.org/W/W06/W06-2920.pdf) called CoNLL-U.
 Annotations are encoded in plain text files (UTF-8, using only the LF character as line break, including an LF character at the end of file) with three types of lines:
@@ -296,3 +297,8 @@ Example:
     5   i           i           CCONJ   J^------------- _          6       cc      _       LId=i-1
     6   proti       proti       ADP     RR--3---------- Case=Dat   4       conj    _       LId=proti-1
 
+
+
+# Extensions
+
+See [here](ext-format.html) for CoNLL-U Plus, a general template for extensions of the basic CoNLL-U format.
