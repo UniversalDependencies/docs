@@ -68,7 +68,7 @@ its own columns from columns defined by other initiatives, should they eventuall
 end up in the same file. A column name may consist of uppercase English letters
 and of a colon as the namespace delimiter:
 
-    # ID FORM PARSEME:MWE
+    # global.columns = ID FORM PARSEME:MWE
 
 The internal requirements and semantics of the new column must be documented by
 the initiative that defined the column. The only global limitation specified by
