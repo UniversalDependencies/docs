@@ -189,12 +189,16 @@ Dependencies Representation](http://www.aclweb.org/anthology/E14-4028). In *Proc
 
 * Joakim Nivre, Marie-Catherine de Marneffe, Filip Ginter, Yoav Goldberg, Jan Hajič, Christopher D. Manning, Ryan McDonald, Slav Petrov, Sampo Pyysalo, Natalia Silveira, Reut Tsarfaty, Daniel Zeman. 2016. [Universal Dependencies v1: A Multilingual Treebank Collection](http://www.lrec-conf.org/proceedings/lrec2016/pdf/348_Paper.pdf). In *Proceedings of LREC*.
 
-* Petya Osenova and Kiril Simov. 2015. Universalizing BulTreeBank: a Linguistic Tale about Glocalization.(http://www.aclweb.org/anthology/W/W15/W15-5313.pdf). In: *Proceedings of BSNLP* 2015, Hissar, Bulgaria, pp. 81–89.
+* Petya Osenova and Kiril Simov. 2015. [Universalizing BulTreeBank: a Linguistic Tale about Glocalization](http://www.aclweb.org/anthology/W/W15/W15-5313.pdf). In: *Proceedings of BSNLP* 2015, Hissar, Bulgaria, pp. 81–89.
+
+* Agnieszka Patejuk and Adam Przepiórkowski. [*From Lexical Functional Grammar to Enhanced Universal Dependencies: Linguistically informed treebanks of Polish*](http://nlp.ipipan.waw.pl/Bib/pat:prz:18:book.pdf). Institute of Computer Science, Polish Academy of Sciences, Warsaw, 2018. (263 pages)
 
 * Slav Petrov, Dipanjan Das, and Ryan McDonald. 2012. [A universal
   part-of-speech tagset](http://www.petrovi.de/data/universal.pdf).
   In *Proceedings of LREC*.
   ([home page](https://code.google.com/p/universal-pos-tags/))
+  
+* Adam Przepiórkowski and Agnieszka Patejuk. [Arguments and adjuncts in Universal Dependencies](http://aclweb.org/anthology/C18-1324). In *Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018)*, pages 3837–3852, Santa Fe, NM, 2018.
 
 * Sampo Pyysalo, Jenna Kanerva, Anna Missilä, Veronika Laippala, and Filip Ginter. 2015. [Universal Dependencies for Finnish](http://www.aclweb.org/anthology/W/W15/W15-1821.pdf). In *Proceedings of Nodalida 2015*.
 
