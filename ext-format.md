@@ -142,7 +142,7 @@ Universal Dependencies.
 A few projects ran before this specification was created; their data probably do not
 comply with this specification.
 
-* Universal Semantic Roles (IBM Research, Alan Akbik et al.)
+* [Universal Proposition Banks](https://github.com/System-T/UniversalPropositions) (IBM Research; see also [issue #344](https://github.com/UniversalDependencies/docs/issues/344))
 
 New extensions:
 
@@ -150,6 +150,6 @@ New extensions:
 
 Planned extensions:
 
-* Unimorph annotation of morphology
-* Several projects on named-entity annotation
+* [Unimorph-style](https://unimorph.github.io/) annotation of morphology in the UD treebanks
+* Several projects on named-entity annotation (see also [issue #562](https://github.com/UniversalDependencies/docs/issues/562))
 * Various semantic extensions
