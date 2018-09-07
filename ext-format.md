@@ -82,7 +82,8 @@ In addition:
   the underscore may also mean a literal underscore appearing in the underlying text.)
 * The asterisk `*`, when it occurs alone in a field, is reserved for empty annotations,
   which are different from underspecified. This concerns sporadic annotations (where
-  not necessarily all tokens receive annotation).
+  not necessarily all tokens receive annotation). (Note that in the FORM and LEMMA fields of the basic CoNLL-U file,
+  the asterisk may also mean a literal asterisk appearing in the underlying text.)
 * The use of the underscore `_` and of the asterisk `*` is unconstrained when they
   occur with other characters (e.g. in feature names or values, as in `spec_char=*`).
 
