@@ -124,7 +124,7 @@ not slashes, because the release id itself contains slashes.
 
 <pre>
 # global.columns = ID FORM UPOS HEAD DEPREL MISC PARSEME:MWE
-# source_sent_id = http://hdl.handle.net/11234/1-2837 UD_German-GSD/de_gsd-ud-train.conllu train-s1678
+# source_sent_id = http://hdl.handle.net/11234/1-2837 UD_German-GSD/de_gsd-ud-train.conllu train-s1682
 # text = Der CDU-Politiker strebt einen einheitlichen Wohnungsmarkt an, auf dem sich die Preise an der ortsüblichen Vergleichsmiete orientieren.
 1	Der	DET	2	det	_	*
 2	CDU	PROPN	4	compound	SpaceAfter=No	*
