@@ -34,7 +34,7 @@ columns separated by TAB characters, a CoNLL-U Plus file can have any non-zero n
 of columns. In addition, the first line must be a sentence-level comment (i.e., starting
 with a `#` character) that lists the names of the columns used in this file.
 There are ten predefined column names that identify the original columns of the core
-CoNLL-U files ([see specification](format.html)). A CoNLL-U file may contain any
+CoNLL-U files ([see specification](format.html)). A CoNLL-U Plus file may contain any
 subset of them (or none of them, making the file a completely stand-off annotation
 layer).
 
@@ -165,7 +165,9 @@ If the release id identifies just one file, the file path is also a single perio
 
 The sentence id must be identical to the `sent_id` in the corresponding source CoNLL-U file.
 If there is no source, the sentence id must be unique corpus-wide, just like in
-Universal Dependencies.
+Universal Dependencies. Other [requirements](format.html#sentence-boundaries-and-comments)
+of the basic CoNLL-U format also apply (e.g., the sentence id cannot contain whitespace
+characters).
 
 # Known extensions of UD
 
