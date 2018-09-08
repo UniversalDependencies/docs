@@ -122,6 +122,34 @@ called `source_sent_id`, where the id string contains three parts discussed abov
 release id, file path and sentence id. These three parts are separated by spaces,
 not slashes, because the release id itself contains slashes.
 
+<pre>
+# global.columns = ID FORM UPOS HEAD DEPREL MISC PARSEME:MWE
+# source_sent_id = http://hdl.handle.net/11234/1-2837 UD_German-GSD/de_gsd-ud-train.conllu train-s1678
+# text = Der CDU-Politiker strebt einen einheitlichen Wohnungsmarkt an, auf dem sich die Preise an der ortsüblichen Vergleichsmiete orientieren.
+1	Der	DET	2	det	_	*
+2	CDU	PROPN	4	compound	SpaceAfter=No	*
+3	-	PUNCT	2	punct	SpaceAfter=No	*
+4	Politiker	NOUN	5	nsubj	_	*
+5	strebt	VERB	0	root	_	2:VPC.full
+6	einen	DET	8	det	_	*
+7	einheitlichen	ADJ	8	amod	_	*
+8	Wohnungsmarkt	NOUN	5	obj	_	*
+9	an	ADP	5	compound:prt	SpaceAfter=No	*
+10	,	PUNCT	5	punct	_	*
+11	auf	ADP	12	case	_	*
+12	dem	PRON	20	obl	_	*
+13	sich	PRON	20	obj	_	1:IRV
+14	die	DET	15	det	_	*
+15	Preise	NOUN	20	nsubj	_	*
+16	an	ADP	19	case	_	*
+17	der	DET	19	det	_	*
+18	ortsüblichen	ADJ	19	amod	_	*
+19	Vergleichsmiete	NOUN	20	obl	_	*
+20	orientieren	VERB	8	acl	SpaceAfter=No	*
+21	.	PUNCT	5	punct	_	*
+
+</pre>
+
 ### Cross-reference to another source
 
 Other cross-references are in principle similar to referring to UD treebanks.
