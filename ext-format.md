@@ -134,7 +134,7 @@ not slashes, because the release id itself contains slashes.
 6	einen	DET	8	det	_	*
 7	einheitlichen	ADJ	8	amod	_	*
 8	Wohnungsmarkt	NOUN	5	obj	_	*
-9	an	ADP	5	compound:prt	SpaceAfter=No	*
+9	an	ADP	5	compound:prt	SpaceAfter=No	2
 10	,	PUNCT	5	punct	_	*
 11	auf	ADP	12	case	_	*
 12	dem	PRON	20	obl	_	*
@@ -145,7 +145,7 @@ not slashes, because the release id itself contains slashes.
 17	der	DET	19	det	_	*
 18	ortsüblichen	ADJ	19	amod	_	*
 19	Vergleichsmiete	NOUN	20	obl	_	*
-20	orientieren	VERB	8	acl	SpaceAfter=No	*
+20	orientieren	VERB	8	acl	SpaceAfter=No	1
 21	.	PUNCT	5	punct	_	*
 
 </pre>
@@ -176,7 +176,7 @@ comply with this specification.
 
 * [Universal Proposition Banks](https://github.com/System-T/UniversalPropositions) (IBM Research; see also [issue #344](https://github.com/UniversalDependencies/docs/issues/344))
 
-New extensions:
+New extensions should comply with the specification:
 
 * PARSEME annotation of [multi-word expressions](http://multiword.sourceforge.net/PHITE.php?sitesig=CONF&page=CONF_04_LAW-MWE-CxG_2018___lb__COLING__rb__&subpage=CONF_45_Format_specification)
 
