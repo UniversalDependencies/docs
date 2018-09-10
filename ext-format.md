@@ -198,3 +198,13 @@ Planned extensions:
 * [Unimorph-style](https://unimorph.github.io/) annotation of morphology in the UD treebanks
 * Several projects on named-entity annotation (see also [issue #562](https://github.com/UniversalDependencies/docs/issues/562))
 * Various semantic extensions
+
+----------
+
+<b>Related work:</b> The CoNLL-* file formats date back to the 2006 task (CoNLL-X conference,
+hence the format was sometimes called CoNLL-X and sometimes CoNLL-ST (for _shared task_) or
+simply CoNLL. Before CoNLL-U (universal dependencies) and CoNLL-U Plus, some extensions of the
+format were proposed by Straňák and Štěpánek (2010) [Pavel Straňák and Jan Štěpánek. 2010.
+[Representing Layered and Structured Data in the CoNLL-ST Format](http://ufal.mff.cuni.cz/biblio/servlet/File?field=File&id=1081727559264548387).
+In: _Proceedings of the Second International Conference on Global Interoperability for Language Resources,_
+pp. 143–152, Hong Kong, China, ISBN 978-962-442-323-5.]
