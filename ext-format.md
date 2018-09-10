@@ -82,11 +82,14 @@ In addition:
   annotations. It can be used in incomplete annotations or in blind versions of the
   annotated files. (Note that in the FORM and LEMMA fields of the basic CoNLL-U file,
   the underscore may also mean a literal underscore appearing in the underlying text.)
-* The asterisk `*`, when it occurs alone in a field, is reserved for empty annotations,
-  which are different from underspecified. This concerns sporadic annotations (where
-  not necessarily all tokens receive annotation). (Note that in the FORM and LEMMA fields of the basic CoNLL-U file,
-  the asterisk may also mean a literal asterisk appearing in the underlying text.)
-* The use of the underscore `_` and of the asterisk `*` is unconstrained when they
+* If an extension needs to distinguish unknown values from known but empty values, it is
+  recommended that the asterisk `*` is used for the empty value. For example, the
+  `PARSEME:MWE` column uses the asterisk to indicate that a token does not belong to
+  any multi-word expression, while the underscore is used in blind files where multi-word
+  expression annotation is not provided, that is, one does not know whether the token
+  belongs to a MWE or not. Note that the core UD columns use the underscore in both
+  situations.
+* The use of the underscore `_` (and of the asterisk `*`) is unconstrained when they
   occur with other characters (e.g. in feature names or values, as in `spec_char=*`).
 
 If the file is an extension of an existing UD treebank, it is assumed that sentence-level
