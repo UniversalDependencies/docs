@@ -125,9 +125,19 @@ called `source_sent_id`, where the id string contains three parts discussed abov
 release id, file path and sentence id. These three parts are separated by spaces,
 not slashes, because the release id itself contains slashes.
 
+The `source_sent_id` attribute is optional and may be omitted if the file belongs
+to a standalone corpus rather than a stand-off annotation layer. On the other hand,
+the `sent_id` attribute is required even if there is a `source_sent_id` attribute
+in the same sentence. It is not even required that the value of `sent_id` is identical
+to the last part of `source_sent_id`, although it often makes sense and may be
+required by individual annotation projects. The only requirement is that the value
+of `sent_id` is unique—at least within the file in which it appears, but a project
+may require that it is unique across a set of files that constitute a corpus.
+
 <pre>
 # global.columns = ID FORM UPOS HEAD DEPREL MISC PARSEME:MWE
 # source_sent_id = http://hdl.handle.net/11234/1-2837 UD_German-GSD/de_gsd-ud-train.conllu train-s1682
+# sent_id = train-s1682
 # text = Der CDU-Politiker strebt einen einheitlichen Wohnungsmarkt an, auf dem sich die Preise an der ortsüblichen Vergleichsmiete orientieren.
 1	Der	DET	2	det	_	*
 2	CDU	PROPN	4	compound	SpaceAfter=No	*
