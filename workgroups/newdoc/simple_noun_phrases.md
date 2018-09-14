@@ -199,9 +199,11 @@ det(bāshì, zhè)
 clf(zhè, liàng)
 ~~~
 
+<span style="color: blue">**TO DO:** Add Chinese characters to examples.</span>
+
 ### Morphological Analysis of Classifiers
 
-The morphological analysis of classifiers is debated. Etymologically, classifiers are normally nouns, and UD generally recommends using the [NOUN]() tag. It has been suggested that a special feature should be added to distinguish the classifier use, since the words can normally also be used as regular nouns.
+The morphological analysis of classifiers is debated. Etymologically, classifiers are normally nouns, and UD generally recommends using the [NOUN]() tag. It has been suggested that a special feature should be added to distinguish the classifier use, since the words can normally also be used as regular nouns, but there is currently no such feature.
 
 ## Adjectival Modifiers
 
