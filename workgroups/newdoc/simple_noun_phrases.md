@@ -157,7 +157,31 @@ such as [Gender](), [Number](), and [Case]().
  
 ## Numerals
 
-A `nummod` is a numeral modifying the head of a nominal phrase.
+Noun phrases headed by nouns may also contain numerals, which express exact numerical quantities (1, 2, 3, ...). Numerals resemble determiners and can often replace them ("one book" vs. "a book" or "this book") but have special properties in many languages, in particular in relation to classifiers (see below). UD uses the [nummod]() relation to connect a numeral to the head noun. 
+
+**NB:** The [num]() relation is only used for cardinal numerals ("one", "two", "three"). Ordinal numerals ("first", "second", "third") are instead treated as adjectives both morphologically and syntactically. 
+
+~~~ sdparse
+ three/NUM  books/NOUN
+nummod(books, three)
+~~~
+
+~~~ sdparse
+these/DET three/NUM  books/NOUN
+nummod(books, three)
+det(books, these)
+~~~
+
+~~~ sdparse
+all/DET these/DET three/NUM books/NOUN 
+nummod(books, three)
+det(books, these)
+det(books, all)
+~~~
+
+### Morphological Analysis of Numerals
+
+Cardinal numerals will be tagged [NUM]() and may carry features like [Number](), [NumType](), [NumForm]() and [NumValue](). <span style="color: blue">**QUESTIONS:** Should Number be obligatory? Are other features relevant?</span> 
 
 ## Classifiers
 
@@ -168,6 +192,8 @@ sān gè xuéshēng \n three clf student
 nummod(xuéshēng, sān)
 clf(sān, gè)
 ~~~
+
+### Morphological Analysis of Classifiers
 
 ## Adjectival Modifiers
 
@@ -198,6 +224,8 @@ Sam spent everything that he had
 acl:relcl(everything, had)
 obj(had, that)
 ~~~
+
+### Morphological Analysis of Adjectival Modifiers
 
 ## Nominal Modifiers
 
@@ -232,3 +260,4 @@ case(Chair-5, of-3)
 det(Chair-5, the-4)
 ~~~
 
+### Morphological Analysis of Nominal Modifiers
