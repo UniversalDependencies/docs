@@ -58,9 +58,9 @@ Depending on the language, nominal head words may in addition carry a number of 
 
 For example, in the Swedish examples above, we find the following morphological analyses:
 
-* For "filmen" (the-movie): <span style="color: blue">NOUN + Case=Nom\|Definite=Yes\|Gender=Com\|Number=Sing</span>
-* For "Batman" (the-movie): <span style="color: blue">NOUN + Case=Nom</span>
-* For "den": <span style="color: blue">PRON + Definite=Yes\|Gender=Com\|Number=Sing\|Person=3\|PronType=Prs</span>
+* For "filmen" (the-movie): <span style="color: blue">NOUN:Case=Nom\|Definite=Yes\|Gender=Com\|Number=Sing</span>
+* For "Batman" (the-movie): <span style="color: blue">NOUN:Case=Nom</span>
+* For "den": <span style="color: blue">PRON:Definite=Yes\|Gender=Com\|Number=Sing\|Person=3\|PronType=Prs</span>
 
 ## Case Markers
 
@@ -106,7 +106,7 @@ Noun phrases headed by nouns often contain determiners, which can be roughly div
 * Interrogatives
 * Quantifiers
 
-Articles, like English "a(n)" and "the", specify definiteness or related properties. They are obligatory in some languages (at least with some types of nouns), and completely absent in others. Demonstratives, like Latin "hic", "ille" and "ist", anchors the noun phrase deictically and seem to be available in all languages. Interrogatives, like English "which", are used to form noun phrases that can be used in interrogative (and sometimes relative) clauses. Quantifiers, like French "tout", "quelque", and "aucun", specify quantity or existence of the referent. 
+Articles, like English "a(n)" and "the", specify definiteness or related properties. They are obligatory in some languages (at least with some types of nouns), and completely absent in others. Demonstratives, like Latin "hic", "ille" and "ist", anchors the noun phrase deictically and seem to be available in all languages. Interrogatives, like English "which", are used to form noun phrases that can be used in interrogative (and sometimes relative) clauses. Quantifiers, like French "tout", "quelque", and "aucun", specify quantity or existence of the referent.  
 
 ~~~ sdparse
 the/DET:PronType=Art book/NOUN
@@ -145,7 +145,7 @@ det(books, all)
 det(books, these)
 ~~~
 
-In many languages, different determiners are in complementary distribution or have special constraints on their cooccurrence and possible order. Regardless of whether a noun phrase contains one or more determiners, the syntactic [det]() relation is used to connect them all directly to the nominal head, as illustrated in the examples above. However, in languages where this is relevant, the subtype [det:predet]() may be used to distinguish determiners that have to precede other determiners (such as "all" in the last two examples above).
+In many languages, different determiners are in complementary distribution or have special constraints on their cooccurrence and possible order. Regardless of whether a noun phrase contains one or more determiners, the syntactic [det]() relation is used to connect them all directly to the nominal head, as illustrated in the examples above. However, in languages where this is relevant, the subtype [det:predet]() may be used to distinguish determiners that have to precede other determiners (such as "all" in the last two examples above). 
 
 **NB:** The [det]() relation is not used for numerals ("three books") nor for possessives ("my books"); see below.
 
