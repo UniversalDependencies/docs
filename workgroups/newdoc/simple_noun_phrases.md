@@ -159,8 +159,6 @@ such as [Gender](), [Number](), and [Case]().
 
 Noun phrases headed by nouns may also contain numerals, which express exact numerical quantities (1, 2, 3, ...). Numerals resemble determiners and can often replace them ("one book" vs. "a book" or "this book") but have special properties in many languages, in particular in relation to classifiers (see below). UD uses the [nummod]() relation to connect a numeral to the head noun. 
 
-**NB:** The [num]() relation is only used for cardinal numerals ("one", "two", "three"). Ordinal numerals ("first", "second", "third") are instead treated as adjectives both morphologically and syntactically. 
-
 ~~~ sdparse
  three/NUM  books/NOUN
 nummod(books, three)
@@ -179,21 +177,31 @@ det(books, these)
 det(books, all)
 ~~~
 
+**NB:** The [nummod]() relation is only used for cardinal numerals ("one", "two", "three"). Ordinal numerals ("first", "second", "third") are instead treated as adjectives both morphologically and syntactically. 
+
 ### Morphological Analysis of Numerals
 
 Cardinal numerals will be tagged [NUM]() and may carry features like [Number](), [NumType](), [NumForm]() and [NumValue](). <span style="color: blue">**QUESTIONS:** Should Number be obligatory? Are other features relevant?</span> 
 
 ## Classifiers
 
-A `clf` (classifier) is a word which accompanies a noun in certain grammatical contexts.
+A classifier is a word which accompanies a noun in certain grammatical contexts. The prototypical case is that of numeral classifiers, where the word is used with a numeral for counting objects and where the numeral normally cannot occur without the classifier. A classifier generally reflects some kind of conceptual classification of nouns, based principally on features of their referents. UD uses the [clf]() relation to connect the classifier to the numeral (or determiner) together with which it modifies the noun. Examples below are from Chinese.
 
 ~~~sdparse
-sān gè xuéshēng \n three clf student
+sān gè xuéshēng \n three CLF student
 nummod(xuéshēng, sān)
 clf(sān, gè)
 ~~~
 
+~~~sdparse
+zhè liàng bāshì \n this CLF bus
+det(bāshì, zhè)
+clf(zhè, liàng)
+~~~
+
 ### Morphological Analysis of Classifiers
+
+The morphological analysis of classifiers is debated. Etymologically, classifiers are normally nouns, and UD generally recommends using the [NOUN]() tag. It has been suggested that a special feature should be added to distinguish the classifier use, since the words can normally also be used as regular nouns.
 
 ## Adjectival Modifiers
 
