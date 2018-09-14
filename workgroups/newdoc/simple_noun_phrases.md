@@ -227,7 +227,7 @@ amod(problem, hard)
 advmod(hard, very)
 ~~~
 ~~~ sdparse
-a much harder problem [than I expected]
+a much harder problem [ than I expected ]
 det(problem, a)
 amod(problem, harder)
 advmod(harder, much)
@@ -238,7 +238,7 @@ advcl(harder, expected)
 
 A special case of adjectival modifiers are ordinal numerals, which are generally analyzed as adjectives in UD.
 
-~~~
+~~~ sdparse
 the third man
 det(man, the)
 amod(man, third)
