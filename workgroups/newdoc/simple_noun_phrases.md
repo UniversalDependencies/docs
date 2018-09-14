@@ -21,9 +21,8 @@ This chapter is structured as follows:
 * [Determiners](#determiners)
 * [Numerals](#numerals)
 * [Classifiers](#classifiers)
-* [Nominal Modifiers](#nominal-modifiers)
 * [Adjectival Modifiers](#adjectival-modifiers)
-
+* [Nominal Modifiers](#nominal-modifiers)
 
 ## Nominal Heads
 
@@ -164,23 +163,11 @@ A `nummod` is a numeral modifying the head of a nominal phrase.
 
 A `clf` (classifier) is a word which accompanies a noun in certain grammatical contexts.
 
-## Nominal Modifiers
-
-An `nmod` is a nominal phrase modifying the head of another nominal phrase, with or without a special case marker. Treebanks may optionally use `nmod:poss` to distinguish non-adpositional possessives.
-
-~~~ sdparse
-the office of the Chair
-nmod(office-2, Chair-5)
+~~~sdparse
+sān gè xuéshēng \n three clf student
+nummod(xuéshēng, sān)
+clf(sān, gè)
 ~~~
-
-~~~ sdparse
-the Chair 's office
-nmod:poss(office-4, Chair-2)
-~~~
-
-### Possessives
-
-Special case of `nmod` with subtype `nmod:poss`.
 
 ## Adjectival Modifiers
 
@@ -212,13 +199,23 @@ acl:relcl(everything, had)
 obj(had, that)
 ~~~
 
-## Function Word Dependents
+## Nominal Modifiers
 
-Nominals may also contain the following typical function word dependents:
+An `nmod` is a nominal phrase modifying the head of another nominal phrase, with or without a special case marker. Treebanks may optionally use `nmod:poss` to distinguish non-adpositional possessives.
 
-* Determiners attach to the head of the nominal with the `det` relation.
-* Adpositions attach to the head of the nominal with the `case` relation.
-* Classifiers attach to a numeral or possessive with the `clf` relation.
+~~~ sdparse
+the office of the Chair
+nmod(office-2, Chair-5)
+~~~
+
+~~~ sdparse
+the Chair 's office
+nmod:poss(office-4, Chair-2)
+~~~
+
+### Possessives
+
+Special case of `nmod` with subtype `nmod:poss`.
 
 ~~~ sdparse
 the Chair 's office
@@ -235,8 +232,3 @@ case(Chair-5, of-3)
 det(Chair-5, the-4)
 ~~~
 
-~~~sdparse
-sān gè xuéshēng \n three clf student
-nummod(xuéshēng, sān)
-clf(sān, gè)
-~~~
