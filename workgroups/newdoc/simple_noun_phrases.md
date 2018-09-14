@@ -65,7 +65,7 @@ For example, in the Swedish examples above, we find the following morphological 
 ## Case Markers
 
 Case marking is one of the strategies that languages use to encode the grammatical function of a noun phrase. Case marking can be realized through morphological inflection (captured by the feature [Case]() mentioned above) or by clitics or adpositions (prepositions and postpositions). In the interest of cross-linguistic parallelism, UD takes a radical approach and treats all adpositions as case markers, attaching them to the nominal head with the [case]() relation.
-This allows us to analyze the following examples as both having a direct dependency relations from the predicate to the noun phrase filling the (oblique) agent role of a passive, despite the fact that Czech uses a noun in the instrumental case ("kočkou") while Swedish adds a preposition ("av"):
+This allows us to analyze the following examples as both having a direct dependency relation from the predicate to the noun phrase filling the (oblique) agent role of a passive, despite the fact that Czech uses a noun in the instrumental case ("kočkou") while Swedish adds a preposition ("av"):
 
 ~~~ sdparse
 pes/NOUN byl/AUX honěn/VERB kočkou/NOUN:Case=Ins \n dog was chased by cat
