@@ -207,35 +207,44 @@ The morphological analysis of classifiers is debated. Etymologically, classifier
 
 ## Adjectival Modifiers
 
-An `amod` is an adjective modifying the head of a nominal phrase.
+Adjectives modifying the head of a noun phrase are linked to the head noun with the [amod]() relation. Unlike case markers, determiners, numerals and classifiers, adjectives can be multiplies and can themselves be the head of complex phrases involving modifiers of various kinds, as illustrated in the examples below. 
 
 ~~~ sdparse
-Sam , the manager
-appos(Sam, manager)
+det(problem, a)
+a hard problem
+amod(problem, hard)
 ~~~
-
 ~~~ sdparse
-Sam eats red meat
-amod(meat, red)
+det(problem, a)
+a new hard problem
+amod(problem, hard)
+amod(problem, new)
 ~~~
-
 ~~~ sdparse
-Sam spent forty dollars
-nummod(dollars, forty)
+a very hard problem
+det(problem, a)
+amod(problem, hard)
+advmod(hard, very)
 ~~~
-
 ~~~ sdparse
-Sam spent everything he had
-acl:relcl(everything, had)
+a much harder problem [than I expected]
+det(problem, a)
+amod(problem, harder)
+advmod(harder, much)
+advcl(harder, expected)
 ~~~
 
-~~~ sdparse
-Sam spent everything that he had
-acl:relcl(everything, had)
-obj(had, that)
+### Ordinals
+
+A special case of adjectival modifiers are ordinal numerals, which are generally analyzed as adjectives in UD.
+
+~~~
+the third man
+det(man, the)
+amod(man, third)
 ~~~
 
-### Morphological Analysis of Adjectival Modifiers
+<span style="color: blue">**TO DO:** Add link to chapter describing the structure of adjective phrases (including morphological analysis, which does not have to be duplicated here).</span>
 
 ## Nominal Modifiers
 
@@ -269,5 +278,3 @@ nmod(office-2, Chair-5)
 case(Chair-5, of-3)
 det(Chair-5, the-4)
 ~~~
-
-### Morphological Analysis of Nominal Modifiers
