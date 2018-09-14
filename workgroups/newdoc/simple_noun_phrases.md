@@ -99,7 +99,7 @@ The clitic "ra" will be tagged [PART]() and carry the feature <span style="color
 
 ## Determiners
 
-Noun phrases headed by nouns often contain determiners, which can be roughly divided into three classes:
+Noun phrases headed by nouns often contain determiners, which can be roughly divided into four classes:
 
 * Articles
 * Demonstratives
