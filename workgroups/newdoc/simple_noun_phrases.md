@@ -160,7 +160,7 @@ such as [Gender](), [Number](), and [Case]().
 Noun phrases headed by nouns may also contain numerals, which express exact numerical quantities (1, 2, 3, ...). Numerals resemble determiners and can often replace them ("one book" vs. "a book" or "this book") but have special properties in many languages, in particular in relation to classifiers (see below). UD uses the [nummod]() relation to connect a numeral to the head noun. 
 
 ~~~ sdparse
- three/NUM  books/NOUN
+three/NUM  books/NOUN
 nummod(books, three)
 ~~~
 
@@ -210,13 +210,13 @@ The morphological analysis of classifiers is debated. Etymologically, classifier
 Adjectives modifying the head of a noun phrase are linked to the head noun with the [amod]() relation. Unlike case markers, determiners, numerals and classifiers, adjectives can be multiplies and can themselves be the head of complex phrases involving modifiers of various kinds, as illustrated in the examples below. 
 
 ~~~ sdparse
-det(problem, a)
 a hard problem
+det(problem, a)
 amod(problem, hard)
 ~~~
 ~~~ sdparse
-det(problem, a)
 a new hard problem
+det(problem, a)
 amod(problem, hard)
 amod(problem, new)
 ~~~
@@ -248,33 +248,38 @@ amod(man, third)
 
 ## Nominal Modifiers
 
-An `nmod` is a nominal phrase modifying the head of another nominal phrase, with or without a special case marker. Treebanks may optionally use `nmod:poss` to distinguish non-adpositional possessives.
-
-~~~ sdparse
-the office of the Chair
-nmod(office-2, Chair-5)
-~~~
-
-~~~ sdparse
-the Chair 's office
-nmod:poss(office-4, Chair-2)
-~~~
-
-### Possessives
-
-Special case of `nmod` with subtype `nmod:poss`.
-
-~~~ sdparse
-the Chair 's office
-det(Chair-2, the-1)
-nmod(office-4, Chair-2)
-case(Chair-2, 's-3)
-~~~
+The head of a noun phrase may be modified by another noun phrase. The head of the modifying noun phrase is then linked to the higher noun with the [nmod]() relation. A typical case is the genitive construction, which may occur with or without overt case markers. 
 
 ~~~ sdparse
 the office of the Chair
 det(office-2, the-1)
 nmod(office-2, Chair-5)
-case(Chair-5, of-3)
 det(Chair-5, the-4)
+case(Chair-5, of-3)
 ~~~
+
+~~~ sdparse
+the Chair 's office
+det(office-4, the-1)
+nmod(office-4, Chair-2)
+case(Chair-2, 's-3)
+~~~
+
+### Possessives
+
+Possessive pronouns, when used to modify nouns, are treated as a special case of nominal modifiers (and not as determiners), given that they are noun phrases and alternate with full noun phrases in the genitive construction. In many treebanks, the subtype [nmod:poss]() is used both for possessive pronouns and full genitive noun phrases.
+
+~~~ sdparse
+her office
+nmod:poss(office-2, her-1)
+~~~
+
+~~~ sdparse
+the Chair 's office
+det(office-4, the-1)
+nmod:poss(office-4, Chair-2)
+case(Chair-2, 's-3)
+~~~
+
+<span style="color: blue">**TO DO:** Add partitive constructions (and other tricky nmod cases).</span>
+
