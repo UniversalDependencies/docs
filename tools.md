@@ -26,6 +26,7 @@ If you would like to have your tool added to this page, please write the
     * [UD Annotatrix](#ud-annotatrix)
     * [Tred](#tred)
     * [Arborator](#arborator)
+    * [LightTag](#lighttag)
   * Editor modes
     * [Emacs](#emacs)
     * [Atom](#atom)
@@ -171,6 +172,10 @@ WebAnno 3.0.0 does not support the CoNLL-U 2.0 format at this time.
 * License: AGPL-3.0 (open source)
 * Homepage: <https://arborator.ilpga.fr/>
 * References: Gerdes, Kim (2013), Collaborative Dependency Annotation. In: Proceedings of the Second International Conference on Dependency Linguistics (DepLing 2013). Prague, 88–97.
+
+
+#### LightTag
+<img style="float:right" src="https://lighttag.io/assets/img/udep.gif"/>
 
 
 
