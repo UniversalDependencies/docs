@@ -175,8 +175,13 @@ WebAnno 3.0.0 does not support the CoNLL-U 2.0 format at this time.
 
 
 #### LightTag
-<img style="float:right" src="https://lighttag.io/assets/img/udep.gif"/>
 
+<img style="width: 40%; float:right" src="https://lighttag.io/assets/img/udep.gif"/>
+
+* Category: manual annotation tool
+* Platform: Any
+* License: ? (open)
+* Homepage: <https://lighttag.io/>
 
 
 
