@@ -178,10 +178,16 @@ WebAnno 3.0.0 does not support the CoNLL-U 2.0 format at this time.
 
 <img style="width: 50%; float:right" src="https://lighttag.io/assets/img/udep.gif"/>
 
+**LightTag** is a gneral purpuse text annotation tool which supports span annotations, classification as well as phrase based and dependency based relations. LightTag allows a drag and drop interface allowing annotators to easily drag individual tokens or sub-trees to construct their parse. 
+
+[LightTag's Universal Dependency Tool](https://lighttag.io/udep/) allows the user to paste an existing CONLLU file, visualize and correct the annotations. LightTag's full featured [text annotation tool](https://lighttag.io) supports managing teams of annotators, is fully hosted and availble free for academic use. 
+
 * Category: manual annotation tool
-* Platform: Any
-* License: ? (open)
+* Platform: Web
+* Implementation: Python, JavaScript
+* License: See [terms of use](https://lighttag.io/legal/tos/)
 * Homepage: <https://lighttag.io/>
+* Contact: udep@lighttag.io
 
 
 
