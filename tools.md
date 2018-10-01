@@ -293,6 +293,8 @@ The latest CoNLL-U 2.0 format is not yet supported.
 
 #### Deptreeviz
 
+Deptreeviz is a SVG visualization and editing component.  It can be used as a swing component or to create SVGs from the command line.  It supports drag-and-drop modifications of trees, including dependency label and selecting the correct lexical items.  For the editing facilities, a matching backend needs to be programmed.  Deptreeviz is used to convert the Hamburg Dependency Treebank to UD.
+
 * Category: tree visualization (SVG graphics)
 * Platform: Any
 * Implementation: Java
