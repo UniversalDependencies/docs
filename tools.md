@@ -27,6 +27,7 @@ If you would like to have your tool added to this page, please write the
     * [Tred](#tred)
     * [Arborator](#arborator)
     * [LightTag](#lighttag)
+    * [TrUDucer](#truducer)
   * Editor modes
     * [Emacs](#emacs)
     * [Atom](#atom)
@@ -189,6 +190,21 @@ WebAnno 3.0.0 does not support the CoNLL-U 2.0 format at this time.
 * Homepage: <https://lighttag.io/>
 * Contact: udep@lighttag.io
 
+
+#### TrUDucer
+
+(TrUDucer)[http://nats.gitlab.io/truducer/] is a tree rewriting system based on tree transducers.  It transforms dependency trees in a top-down fashion, making sure that each resulting structure will still be a valid tree.  Rules are written in a domain-specific language; for cases where the DSL is not powerfui enough, rules can be augmented by writing special-case predicates in (groovy)[http://groovy-lang.org].
+It contains an interactive transformation viewer to debug rule applications and a search tool to find trees where a specific rule could be applicable.  As of 2018, TrUDucer is under active development at Hamburg University.
+
+An example rule file converting (large parts of) the Hamburg Dependency Treebank to UD is provided with TrUDucer. The Univerity of Zurich provides a [rule file to convert the TIGER treebank to UD using TrUDucer](https://gitlab.cl.uzh.ch/siclemat/tigerdep2ud).
+
+* Category: automatic conversion tool
+* Platform: Any
+* Implementation: Java
+* License: GPLv3 (open source)
+* Homepage: http://nats.gitlab.io/truducer/
+* References:  Hennig, Felix and Köhn, Arne (2017), Dependency Tree Transformation with Tree Transducers. In: Proceedings of the NoDaLiDa 2017 Workshop on Universal Dependencies (UDW 2017). Gothenburg, 58–66.
+* Contact: arne@chark.eu
 
 
 ### Editor modes
