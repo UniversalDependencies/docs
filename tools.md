@@ -34,6 +34,7 @@ If you would like to have your tool added to this page, please write the
     * [Sublime Text](#sublime-text)
   * Processing tools
     * [CL-CONLLU](#cl-conllu)
+    * [DepEdit](#depedit)
     * [DKPro Core CoNLL-U reader/writer support](#dkpro-core-conll-u-readerwriter)
     * [Treex](#treex)
     * [UDPipe](#udpipe)
@@ -254,6 +255,26 @@ A Common Lisp library for various CoNLL-U-related operations. We have already fu
 * License: Apache License
 * Homepage: <https://github.com/own-pt/cl-conllu/>
 * References: http://arademaker.github.io/bibliography/tilic-stil-2017.html
+
+
+#### DepEdit
+
+DepEdit is a simple, open source, configurable tool for manipulating dependency trees, written in Python (2/3). It can be run standalone from the commandline or imported as a module, and it is available on PyPI (`pip install depedit`). Main features:
+
+  * Identify target subtrees based on regex matching of token attributes, distance between tokens, and subgraph edges
+  * Change token attributes (incl. text, pos, morph, etc.)
+  * Use regex capturing groups in find/replace values (e.g. allows for collapsing captured prepositions into the deprel of the governing token)
+  * Connect different tokens in the tree by setting their head feature to one of the match objects
+  * Use external configuration files for different scenarios or define rules programmatically when used as a module
+  * No language or schema specific details are hardwired into the system - everything is defined in the configuration file
+  * Can be used as a very rudimentary rule-based parser to pre-process data with easy dependencies before manual annotation (e.g. attach all articles to following nouns as `det`)
+  
+* Category: library
+* Platform: Windows, Linux, OSX
+* Implementation: Python 2/3
+* License: Apache License 2.0 (open source)
+* Homepage: <https://corpling.uis.georgetown.edu/depedit/>
+* References: [see website](https://corpling.uis.georgetown.edu/depedit/)
 
 
 #### DKPro Core CoNLL-U reader/writer
