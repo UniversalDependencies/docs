@@ -36,6 +36,7 @@ If you would like to have your tool added to this page, please write the
     * [CL-CONLLU](#cl-conllu)
     * [DepEdit](#depedit)
     * [DKPro Core CoNLL-U reader/writer support](#dkpro-core-conll-u-readerwriter)
+    * [pyconll](#pyconll)
     * [Treex](#treex)
     * [UDPipe](#udpipe)
     * [UDAPI](#udapi)
@@ -291,6 +292,19 @@ The latest CoNLL-U 2.0 format is not yet supported.
 * License: Apache License 2.0 (open source)
 * Homepage: <https://dkpro.github.io/dkpro-core/>
 * References: [see DKPro Core website](https://dkpro.github.io/dkpro-core/)
+
+
+#### pyconll
+
+**pyconll** is a minimal, entirely python, library for parsing and writing CoNLL-U files. pyconll allows users to easily parse out info from CoNLL-U corpora, or to perform and write corpus transformations. pyconll aims to provide a low-level interface over the CoNLL-U annotation scheme that is easy to understand and works with the current standard. Further, since it is written in python, there is no need to learn a new DSL or tool.
+
+* Category: library
+* Platform: Any OS with Python 3 implementation
+* Implementation: Python 3
+* License: MIT License
+* Homepage: <https://pyconll.github.io/>
+* Documentation: <https://pyconll.readthedocs.io/en/latest/>
+
 
 #### Treex
 
