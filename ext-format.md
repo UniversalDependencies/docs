@@ -35,8 +35,8 @@ of columns. In addition, the first line must be a sentence-level comment (i.e., 
 with a `#` character) that lists the names of the columns used in this file.
 There are ten predefined column names that identify the original columns of the core
 CoNLL-U files ([see specification](format.html)). A CoNLL-U Plus file may contain any
-subset of them (or none of them, making the file a completely stand-off annotation
-layer).
+subset of them (or none of them, although for stand-off annotation of UD files,
+at least the ID column is typically needed).
 
 A valid CoNLL-U file thus becomes valid CoNLL-U Plus file when the comment listing
 its columns is inserted as the first line (here the column names are separated by
@@ -133,6 +133,9 @@ to the last part of `source_sent_id`, although it often makes sense and may be
 required by individual annotation projects. The only requirement is that the value
 of `sent_id` is unique—at least within the file in which it appears, but a project
 may require that it is unique across a set of files that constitute a corpus.
+Furthermore, the general [requirements](format.html#sentence-boundaries-and-comments)
+of the basic CoNLL-U format also apply (e.g., the sentence id cannot contain whitespace
+characters).
 
 <pre>
 # global.columns = ID FORM UPOS HEAD DEPREL MISC PARSEME:MWE
@@ -176,11 +179,8 @@ is a single period (`.`).
 
 If the release id identifies just one file, the file path is also a single period (`.`).
 
-The sentence id must be identical to the `sent_id` in the corresponding source CoNLL-U file.
-If there is no source, the sentence id must be unique corpus-wide, just like in
-Universal Dependencies. Other [requirements](format.html#sentence-boundaries-and-comments)
-of the basic CoNLL-U format also apply (e.g., the sentence id cannot contain whitespace
-characters).
+The sentence id part of the reference string must be identical to the `sent_id` in the
+CoNLL-U file we are referring to.
 
 # Known extensions of UD
 
