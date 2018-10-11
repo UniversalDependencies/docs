@@ -197,7 +197,8 @@ comply with this specification.
 
 * [Universal Proposition Banks](https://github.com/System-T/UniversalPropositions) (IBM Research; see also [issue #344](https://github.com/UniversalDependencies/docs/issues/344))
 
-New extensions should comply with the specification:
+One extension was based on an early draft of this specification.
+It is not 100% compliant with the final version but it is close:
 
 * PARSEME annotation of [multi-word expressions](http://multiword.sourceforge.net/PHITE.php?sitesig=CONF&page=CONF_04_LAW-MWE-CxG_2018___lb__COLING__rb__&subpage=CONF_45_Format_specification)
 
