@@ -121,8 +121,16 @@ Within a sentence, the token/word id from the `ID` column unambiguously
 points to a tree node or a multi-word token.
 
 In the CoNLL-U Plus file, the reference appears in a sentence-level attribute
-called `source_sent_id`, where the id string contains three parts discussed above:
-release id, file path and sentence id. These three parts are separated by spaces,
+called `source_sent_id`, where the id string contains a source format specifier,
+followed by three of the reference parts discussed above:
+release id, file path and sentence id.
+The format specifier is a single word consisting of lowercase English letters.
+As long as we are referring to a CoNLL-U file, the format specifier is always
+“conllu”. This allows us to distinguish references to source corpora that are
+not saved in CoNLL-U; nevertheless, we do not define the other formats here
+and whoever uses them must also document them.
+
+These four parts are separated by spaces,
 not slashes, because the release id itself contains slashes.
 
 The `source_sent_id` attribute is optional and may be omitted if the file belongs
@@ -139,7 +147,7 @@ characters).
 
 <pre>
 # global.columns = ID FORM UPOS HEAD DEPREL MISC PARSEME:MWE
-# source_sent_id = http://hdl.handle.net/11234/1-2837 UD_German-GSD/de_gsd-ud-train.conllu train-s1682
+# source_sent_id = conllu http://hdl.handle.net/11234/1-2837 UD_German-GSD/de_gsd-ud-train.conllu train-s1682
 # sent_id = train-s1682
 # text = Der CDU-Politiker strebt einen einheitlichen Wohnungsmarkt an, auf dem sich die Preise an der ortsüblichen Vergleichsmiete orientieren.
 1	Der	DET	2	det	_	*
