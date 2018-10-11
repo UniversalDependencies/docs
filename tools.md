@@ -26,13 +26,17 @@ If you would like to have your tool added to this page, please write the
     * [UD Annotatrix](#ud-annotatrix)
     * [Tred](#tred)
     * [Arborator](#arborator)
+    * [LightTag](#lighttag)
+    * [TrUDucer](#truducer)
   * Editor modes
     * [Emacs](#emacs)
     * [Atom](#atom)
     * [Sublime Text](#sublime-text)
   * Processing tools
     * [CL-CONLLU](#cl-conllu)
+    * [DepEdit](#depedit)
     * [DKPro Core CoNLL-U reader/writer support](#dkpro-core-conll-u-readerwriter)
+    * [pyconll](#pyconll)
     * [Treex](#treex)
     * [UDPipe](#udpipe)
     * [UDAPI](#udapi)
@@ -173,6 +177,36 @@ WebAnno 3.0.0 does not support the CoNLL-U 2.0 format at this time.
 * References: Gerdes, Kim (2013), Collaborative Dependency Annotation. In: Proceedings of the Second International Conference on Dependency Linguistics (DepLing 2013). Prague, 88–97.
 
 
+#### LightTag
+
+<img style="width: 50%; float:right" src="https://lighttag.io/assets/img/udep.gif"/>
+
+**LightTag** is a general purpose text annotation tool which supports span annotations, classification as well as phrase-based and dependency-based relations. LightTag allows a drag-and-drop interface allowing annotators to easily drag individual tokens or sub-trees to construct their parse.
+
+[LightTag's Universal Dependency Tool](https://lighttag.io/udep/) allows the user to paste an existing CoNLL-U file, visualize and correct the annotations. LightTag's full featured [text annotation tool](https://lighttag.io) supports managing teams of annotators, is fully hosted and availble free for academic use.
+
+* Category: manual annotation tool
+* Platform: Web
+* Implementation: Python, JavaScript
+* License: See [terms of use](https://lighttag.io/legal/tos/)
+* Homepage: <https://lighttag.io/>
+* Contact: udep@lighttag.io
+
+
+#### TrUDucer
+
+(TrUDucer)[http://nats.gitlab.io/truducer/] is a tree rewriting system based on tree transducers.  It transforms dependency trees in a top-down fashion, making sure that each resulting structure will still be a valid tree.  Rules are written in a domain-specific language; for cases where the DSL is not powerfui enough, rules can be augmented by writing special-case predicates in (groovy)[http://groovy-lang.org].
+It contains an interactive transformation viewer to debug rule applications and a search tool to find trees where a specific rule could be applicable.  As of 2018, TrUDucer is under active development at Hamburg University.
+
+An example rule file converting (large parts of) the Hamburg Dependency Treebank to UD is provided with TrUDucer. The Univerity of Zurich provides a [rule file to convert the TIGER treebank to UD using TrUDucer](https://gitlab.cl.uzh.ch/siclemat/tigerdep2ud).
+
+* Category: automatic conversion tool
+* Platform: Any
+* Implementation: Java
+* License: GPLv3 (open source)
+* Homepage: http://nats.gitlab.io/truducer/
+* References:  Hennig, Felix and Köhn, Arne (2017), Dependency Tree Transformation with Tree Transducers. In: Proceedings of the NoDaLiDa 2017 Workshop on Universal Dependencies (UDW 2017). Gothenburg, 58–66.
+* Contact: arne@chark.eu
 
 
 ### Editor modes
@@ -224,6 +258,26 @@ A Common Lisp library for various CoNLL-U-related operations. We have already fu
 * References: http://arademaker.github.io/bibliography/tilic-stil-2017.html
 
 
+#### DepEdit
+
+DepEdit is a simple, open source, configurable tool for manipulating dependency trees, written in Python (2/3). It can be run standalone from the commandline or imported as a module, and it is available on PyPI (`pip install depedit`). Main features:
+
+  * Identify target subtrees based on regex matching of token attributes, distance between tokens, and subgraph edges
+  * Change token attributes (incl. text, pos, morph, etc.)
+  * Use regex capturing groups in find/replace values (e.g. allows for collapsing captured prepositions into the deprel of the governing token)
+  * Connect different tokens in the tree by setting their head feature to one of the match objects
+  * Use external configuration files for different scenarios or define rules programmatically when used as a module
+  * No language or schema specific details are hardwired into the system - everything is defined in the configuration file
+  * Can be used as a very rudimentary rule-based parser to pre-process data with easy dependencies before manual annotation (e.g. attach all articles to following nouns as `det`)
+  
+* Category: library
+* Platform: Windows, Linux, OSX
+* Implementation: Python 2/3
+* License: Apache License 2.0 (open source)
+* Homepage: <https://corpling.uis.georgetown.edu/depedit/>
+* References: [see website](https://corpling.uis.georgetown.edu/depedit/)
+
+
 #### DKPro Core CoNLL-U reader/writer
 
 DKPro Core is collection of software components for natural language processing (NLP) based on the Apache UIMA framework. DKPro Core can be used to build workflows that automatically process text using a wide range of NLP tools from third parties that are all interoperable (Stanford CoreNLP, Apache OpenNLP, ClearNLP, mate-tools, etc etc.). It also supports a range of different data formats and can be used to convert between the different supported formats.
@@ -238,6 +292,19 @@ The latest CoNLL-U 2.0 format is not yet supported.
 * License: Apache License 2.0 (open source)
 * Homepage: <https://dkpro.github.io/dkpro-core/>
 * References: [see DKPro Core website](https://dkpro.github.io/dkpro-core/)
+
+
+#### pyconll
+
+**pyconll** is a minimal, entirely python, library for parsing and writing CoNLL-U files. pyconll allows users to easily parse out info from CoNLL-U corpora, or to perform and write corpus transformations. pyconll aims to provide a low-level interface over the CoNLL-U annotation scheme that is easy to understand and works with the current standard. Further, since it is written in python, there is no need to learn a new DSL or tool.
+
+* Category: library
+* Platform: Any OS with Python 3 implementation
+* Implementation: Python 3
+* License: MIT License
+* Homepage: <https://pyconll.github.io/>
+* Documentation: <https://pyconll.readthedocs.io/en/latest/>
+
 
 #### Treex
 
@@ -276,6 +343,8 @@ The latest CoNLL-U 2.0 format is not yet supported.
 ### Visualization tools
 
 #### Deptreeviz
+
+Deptreeviz is a SVG visualization and editing component.  It can be used as a swing component or to create SVGs from the command line.  It supports drag-and-drop modifications of trees, including dependency label and selecting the correct lexical items.  For the editing facilities, a matching backend needs to be programmed.  Deptreeviz is used to convert the Hamburg Dependency Treebank to UD.
 
 * Category: tree visualization (SVG graphics)
 * Platform: Any

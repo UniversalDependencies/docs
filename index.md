@@ -25,6 +25,8 @@ an open community effort with over 200 contributors producing more than 100 tree
 
 If you want to receive news about Universal Dependencies, you can subscribe to the
 [UD mailing list](http://stp.lingfil.uu.se/mailman/listinfo/ud).
+If you want to discuss individual annotation questions, use the
+[Github issue tracker](https://github.com/universaldependencies/docs/issues).
 
 ## Current UD Languages
 

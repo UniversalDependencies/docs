@@ -6,8 +6,12 @@ udver: '2'
 
 # UD Discussion
 
-This page collects links to pages where UD guidelines (and other issues) are discussed.
+This page collects links to pages where UD guidelines (and other issues) are discussed or were discussed in the past.
 These pages do **not** have the status of guidelines, so proposals contained therein may conflict with current guidelines.
+These pages are an archive of working group materials, not a broad discussion forum.
+If you want to discuss individual annotation questions, use the
+[Github issue tracker](https://github.com/universaldependencies/docs/issues).
+
 
 ## 2015
 

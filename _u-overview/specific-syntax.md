@@ -200,6 +200,23 @@ root(ROOT, Jenny)
 orphan(Jenny, CD)
 ~~~
 
+~~~ sdparse
+She gave the dog a bone , and the man a flower .
+
+nsubj(gave, She)
+iobj(gave, dog)
+det(dog, the-3)
+obj(gave, bone)
+det(bone, a-5)
+conj(gave, flower)
+punct(flower, ,)
+cc(flower, and)
+orphan(flower, man)
+det(man, the-9)
+det(flower, a-11)
+punct(gave, .)
+~~~
+
 Note that the `orphan` relation is only used when an ordinary relation would be misleading (for example, when attaching an object to a subject). In particular, the ordinary `cc` relation should be used for the coordinating conjunction, which attaches to the pseudo-constituent formed through the `orphan` dependency.
 
 In German the grammar requires that non-finite verbs are at the end of the clause, which may mean that they are far away from
