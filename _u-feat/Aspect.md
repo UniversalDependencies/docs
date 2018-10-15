@@ -110,7 +110,8 @@ English simple present has this aspect.
 ### <a name="Iter">`Iter`</a>: iterative / frequentative aspect
 
 Denotes repeated action. Attested e.g. in Hungarian.
-Iteratives also exist in Czech with this name and meaning but they can be formed
+Iteratives also exist in Czech with this name but their meaning is rather habitual.
+They can be formed
 only from imperfective verbs and they are usually not classified as a separate
 aspect; they are just `Aspect=Imp.`
 
