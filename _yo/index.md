@@ -51,7 +51,7 @@ udver: '2'
 ### Objects
 
 * Objects follow the main verb.
-* When a verb has two objects, the second one is preceded by a preposition.
+* When a verb has two objects, the second one is preceded by a preposition and therefore labeled as oblique (`obl`).
 
 * Verb phrases and prepositional phrases are also head initial.
 
