@@ -92,6 +92,8 @@ collections:
     output: true
   grc:
     output: true
+  he:
+    output: true
   hsb:
     output: true
   hu:
