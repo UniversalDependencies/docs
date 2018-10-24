@@ -13,10 +13,10 @@ The relation `obl:patient` is used for the Mandarin "BA construction" (also know
 # visual-style 2	fgColor:white
 # visual-style 3	bgColor:blue
 # visual-style 3	fgColor:white
-1	把	_	ADP	_	_	2	case	_	BA
-2	它	_	PRON	_	_	3	obl:patient	_	3SG.N
-3	印	_	VERB	_	_	0	root	_	print
-4	出來	_	VERB	_	_	3	compound:dir	_	come-out
+1	把	_	ADP	_	_	2	case	_	Translit=bǎ|Gloss=BA
+2	它	_	PRON	_	_	3	obl:patient	_	Translit=tā|Gloss=3SG.N
+3	印	_	VERB	_	_	0	root	_	Translit=yìn|Gloss=print
+4	出來	_	VERB	_	_	3	compound:dir	_	Translit=chūlái|Gloss=come-out
 
 1	"print	_	_	_	_	0	_	_	_
 2	it	_	_	_	_	0	_	_	_
