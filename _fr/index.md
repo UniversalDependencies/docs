@@ -1,6 +1,6 @@
 ---
 layout: base
-title:  '<LanguageName> UD'
+title:  'French UD'
 udver: '2'
 ---
 
@@ -14,7 +14,7 @@ udver: '2'
 For instance, `au` -> `à` + `le`, `auquel` -> `de` + `lequel`.
 Note that `du` and `des` are ambiguous and can be split or not depending of their usage.
 
-For more details, see [tokenization](tokenisation.md).
+For more details, see [tokenization](tokenization.html).
 
 ## Morphology
 
