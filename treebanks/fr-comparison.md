@@ -830,7 +830,7 @@ udver: '2'
       <ul>
         <li>Masc
           <ul>
-            <li>ADJ: premier, français, autres, grand, nouveau, même, dernier, nombreux, seul, ancien</li>
+            <li>ADJ: premier, français, grand, autres, nouveau, même, dernier, nombreux, seul, ancien</li>
             <li>AUX-Part: été, fait</li>
             <li>DET: le, les, un, l', son, des, ce, ses, ces, de</li>
             <li>NOUN: ans, pays, nom, monde, temps, groupe, siècle, état, cours, lieu</li>
@@ -997,7 +997,7 @@ udver: '2'
       <ul>
         <li>Plur
           <ul>
-            <li>ADJ: autres, nombreux, nombreuses, grands, premières, premiers, différents, grandes, français, nouveaux</li>
+            <li>ADJ: autres, nombreux, nombreuses, grands, premières, premiers, grandes, différents, nouveaux, français</li>
             <li>AUX-Fin: sont, ont, étaient, avons, furent, avaient, seront, sommes, soient, auraient</li>
             <li>DET: les, des, ses, ces, de, plusieurs, leurs, tous, quelques, d'</li>
             <li>NOUN: ans, années, pays, enfants, habitants, personnes, jours, droits, points, hommes</li>
@@ -1089,7 +1089,7 @@ udver: '2'
       <ul>
         <li>Sing
           <ul>
-            <li>ADJ: première, premier, même, français, française, grande, grand, nouveau, autre, politique</li>
+            <li>ADJ: premier, première, même, français, française, grand, grande, nouveau, autre, politique</li>
             <li>AUX-Fin: est, a, était, fut, avait, ai, sera, soit, aurait, suis</li>
             <li>AUX-Part: été, fait, faite</li>
             <li>DET: le, la, l', un, une, son, sa, cette, ce, leur</li>
@@ -1847,7 +1847,7 @@ udver: '2'
         <li>Sub
           <ul>
             <li>AUX-Fin: soit, ait, soient, aient, fût, eût, fasse, aie, ayez, fassent</li>
-            <li>VERB-Fin: puisse, soit, puissent, agisse, fasse, aient, ait, arrive, prenne, change</li>
+            <li>VERB-Fin: puisse, puissent, agisse, fasse, soit, aient, ait, arrive, prenne, change</li>
           </ul>
         </li>
       </ul>
@@ -2045,7 +2045,7 @@ udver: '2'
           <ul>
             <li>AUX-Fin: fut, furent, fit, eut, firent</li>
             <li>AUX-Part: été, fait, faite</li>
-            <li>NOUN: Fermée, aéroportée, séquestrés</li>
+            <li>NOUN: aéroportée, séquestrés</li>
             <li>VERB-Fin: prit, devint, fit, eut, donna, reçut, décida, participa, écrivit, demanda</li>
             <li>VERB-Part: né, située, situé, eu, fait, mort, connu, nommé, née, réalisé</li>
           </ul>
@@ -3294,68 +3294,6 @@ udver: '2'
   </tr>
   <tr>
     <td width="16%" valign="top">
-
-    </td>
-    <td width="16%" valign="top">
-      <ul>
-        <li><a>mwepos</a>
-          <ul>
-            <li>ADP
-              <ul>
-                <li>ADP: en, autour, à, avant, de, hors</li>
-                <li>ADV: bien, parce, afin, lors, tandis, ainsi, alors, près</li>
-                <li>NOUN: face, grâce, suite</li>
-              </ul>
-            </li>
-            <li>ADV
-              <ul>
-                <li>ADP: de, en, Par, à, d', pour, entre</li>
-                <li>ADV: plus, moins, bien</li>
-                <li>CCONJ: Et</li>
-                <li>DET: un</li>
-                <li>PRON: tout</li>
-              </ul>
-            </li>
-            <li>CCONJ
-              <ul>
-                <li>ADV: ainsi</li>
-              </ul>
-            </li>
-            <li>DET
-              <ul>
-                <li>ADV: beaucoup</li>
-                <li>DET: un</li>
-              </ul>
-            </li>
-            <li>PRON
-              <ul>
-                <li>ADV: pas</li>
-              </ul>
-            </li>
-            <li>SCONJ
-              <ul>
-                <li>ADV: tant</li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-    <td width="16%" valign="top">
-
-    </td>
-    <td width="16%" valign="top">
-
-    </td>
-    <td width="16%" valign="top">
-
-    </td>
-    <td width="16%" valign="top">
-
-    </td>
-  </tr>
-  <tr>
-    <td width="16%" valign="top">
       <h2>Syntax</h2>
       
       <h3>Auxiliary Verbs and Copula</h3>
@@ -3370,7 +3308,7 @@ udver: '2'
       <h3>Auxiliary Verbs and Copula</h3>
       
       <ul>
-      <li>This corpus uses 3 lemmas as copulas (<a>cop</a>). Examples: être, be, fue.</li>
+      <li>This corpus uses 4 lemmas as copulas (<a>cop</a>). Examples: être, be, fue, qui.</li>
       </ul>
     </td>
     <td width="16%" valign="top">
@@ -3486,7 +3424,7 @@ udver: '2'
             <li>VERB-Fin--NOUN (4477)</li>
             <li>VERB-Fin--NOUN-ADP(de) (2)</li>
             <li>VERB-Fin--NOUN-ADP(jusque)-ADP(à) (1)</li>
-            <li>VERB-Fin--PRON (6488)</li>
+            <li>VERB-Fin--PRON (6489)</li>
             <li>VERB-Fin--PRON-ADP(à) (1)</li>
             <li>VERB-Inf--NOUN (3)</li>
             <li>VERB-Inf--PRON (4)</li>
@@ -3826,7 +3764,7 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 17 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>ccomp:cleft</a>, <a>csubj:pass</a>, <a>expl:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>iobj:agent</a>, <a>nmod:range</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obj:agent</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a></li>
+      <li>This corpus uses 16 relation subtypes: <a>acl:relcl</a>, <a>advcl:cleft</a>, <a>aux:caus</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>expl:pass</a>, <a>flat:foreign</a>, <a>flat:name</a>, <a>iobj:agent</a>, <a>nmod:range</a>, <a>nsubj:caus</a>, <a>nsubj:pass</a>, <a>obj:agent</a>, <a>obl:agent</a>, <a>obl:arg</a>, <a>obl:mod</a></li>
       <li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a></li>
       </ul>
     </td>

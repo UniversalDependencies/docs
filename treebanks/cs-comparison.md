@@ -42,7 +42,7 @@ udver: '2'
   <tr>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 24709 sentences, 493306 tokens and 494382 syntactic words.</li>
+      <li>This corpus contains 24709 sentences, 493306 tokens and 494383 syntactic words.</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -52,7 +52,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 12760 sentences, 166432 tokens and 167010 syntactic words.</li>
+      <li>This corpus contains 12760 sentences, 166432 tokens and 167056 syntactic words.</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -150,8 +150,8 @@ udver: '2'
   <tr>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 1076 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-      <li>There are 13 types of multi-word tokens. Examples: aby, abychom, kdyby, abyste, kdybychom, abych, oč, kdybych, zač, Abys, Kdybyste, kdybys, nač.</li>
+      <li>This corpus contains 1077 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+      <li>There are 14 types of multi-word tokens. Examples: aby, abychom, kdyby, abyste, kdybychom, abych, oč, kdybych, zač, Abys, Kdybyste, kdybys, nač, sis.</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -162,8 +162,8 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 578 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
-      <li>There are 13 types of multi-word tokens. Examples: aby, abych, kdyby, kdybych, abys, abychom, abyste, kdybyste, kdybys, kdybychom, oč, Nač, zač.</li>
+      <li>This corpus contains 624 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+      <li>There are 22 types of multi-word tokens. Examples: aby, abych, kdyby, kdybych, abys, abychom, ses, sis, abyste, kdybyste, kdybys, Tys, kdybychom, cos, oč, Dostalas, Nač, Slyšelas, Vždyťs, dovolils, pustils, zač.</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -270,7 +270,7 @@ udver: '2'
     </td>
     <td width="20%" valign="top">
       <ul>
-      <li>This corpus contains 33 lemmas tagged as pronouns (PRON): být, bůhvíco, co, cokoli, copak, cos, cosi, což, cože, jenž, já, kdeco, kdekdo, kdo, kdokoli, kdopak, kdosi, leccos, ledaco, my, málokdo, nic, nikdo, něco, někdo, on, samy, samý, se, ty, veškerý, von, všecek</li>
+      <li>This corpus contains 32 lemmas tagged as pronouns (PRON): být, bůhvíco, co, cokoli, copak, cosi, což, cože, jenž, já, kdeco, kdekdo, kdo, kdokoli, kdopak, kdosi, leccos, ledaco, my, málokdo, nic, nikdo, něco, někdo, on, samy, samý, se, ty, veškerý, von, všecek</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -495,7 +495,7 @@ udver: '2'
         <li>Fin
         <ul>
           <li>AUX: jsem, by, je, bych, jsme, bude, jsou, jste, jsi, není</li>
-          <li>VERB: je, má, mám, může, nevím, musí, není, mají, musím, vím</li>
+          <li>VERB: je, má, mám, může, nevím, jsi, musí, není, mají, musím</li>
         </ul>
         </li>
       </ul>
@@ -1589,7 +1589,7 @@ udver: '2'
             <li>PRON: mi, mě, ho, já, mu, ji, jí, ní, ti, mně</li>
             <li>PROPN: Láďa, Leoš, Valentýna, Eduard, Havel, Alžběta, Flajšman, Veronika, Havlena, Filip</li>
             <li>VERB-Conv: chtěje, hledajíc, netuše, Divě, Jda, Nechtíc, Opíraje, Pronášejíc, Třesouc, domnívajíc</li>
-            <li>VERB-Fin: je, má, mám, může, nevím, není, musí, musím, vím, nemám</li>
+            <li>VERB-Fin: je, má, mám, může, nevím, jsi, není, musí, musím, vím</li>
             <li>VERB-Part: řekl, měl, bylo, měla, řekla, mohl, chtěl, byl, byla, chtěla</li>
           </ul>
         </li>
@@ -2111,7 +2111,7 @@ udver: '2'
             <li>DET: to, který, která, ten, jeho, které, ta, sám, moje, všechno</li>
             <li>NOUN: člověk, plod, dívka, profesor, mistr, dítě, muž, Kůra, lidé, mladík</li>
             <li>NUM: jeden, dva, jedna, oba, dvě, pár, jedno, tři, čtyři, deset</li>
-            <li>PRON: já, co, kdo, on, nikdo, někdo, ty, nic, ona, vy</li>
+            <li>PRON: já, co, kdo, on, nikdo, ty, někdo, nic, ona, vy</li>
             <li>PROPN: Láďa, Leoš, Valentýna, Eduard, Havel, Alžběta, Flajšman, Veronika, Havlena, Filip</li>
           </ul>
         </li>
@@ -2721,10 +2721,9 @@ udver: '2'
             <li>AUX-Part: byl, byla, bylo, byly, byli, býval, bývala, bývali, bývalo, šlo</li>
             <li>DET: každý, každou, každé, každá, každým, každého, každém, každému</li>
             <li>NOUN: chvíli, život, oči, dítě, den, člověk, plod, dívka, profesor, ruce</li>
-            <li>PRON: Tys</li>
             <li>PROPN: Láďa, Leoš, Valentýna, Eduard, Havel, Alžběta, Flajšman, Veronika, Havlena, Filip</li>
             <li>VERB-Conv: chtěje, hledajíc, Divě, Jda, Opíraje, Pronášejíc, Třesouc, domnívajíc, doufajíce, drže</li>
-            <li>VERB-Fin: je, má, mám, může, musí, mají, musím, vím, stojí, jde</li>
+            <li>VERB-Fin: je, má, mám, může, jsi, musí, mají, musím, vím, stojí</li>
             <li>VERB-Inf: dělat, mít, říct, vidět, být, jít, udělat, žít, stát, dát</li>
             <li>VERB-Part: řekl, měl, bylo, měla, řekla, mohl, chtěl, byl, byla, chtěla</li>
           </ul>
@@ -2809,7 +2808,7 @@ udver: '2'
           <ul>
             <li>ADJ: možno, nutno, povinen, řečeno, dosaženo, známo, rád, rádi, věnována, dána</li>
             <li>ADJ-Part: řečeno, dosaženo, věnována, dána, provedena, uvedeny, určena, určeny, splněny, zahájena</li>
-            <li>PRON: se, si, mu, ho, mi, mě, ti, tě, mně, sis</li>
+            <li>PRON: se, si, mu, ho, mi, mě, ti, tě, mně</li>
           </ul>
         </li>
       </ul>
@@ -2831,7 +2830,7 @@ udver: '2'
           <ul>
             <li>ADJ: rád, ráda, rádi, přesvědčen, jist, možno, nerad, vinen, řečeno, oblečena</li>
             <li>ADJ-Part: přesvědčen, řečeno, oblečena, uspořádány, napsáno, obklopen, poslán, pozván, zakázáno, ztraceno</li>
-            <li>PRON: se, si, mi, mě, ho, mu, ti, tě, ses, sis</li>
+            <li>PRON: se, si, mi, mě, ho, mu, ti, tě</li>
           </ul>
         </li>
       </ul>
@@ -3180,7 +3179,7 @@ udver: '2'
         <li>Ind
           <ul>
             <li>AUX-Fin: jsem, je, jsme, bude, jsou, jste, jsi, není, budu, budeš</li>
-            <li>VERB-Fin: je, má, mám, může, nevím, musí, není, mají, musím, vím</li>
+            <li>VERB-Fin: je, má, mám, může, nevím, jsi, musí, není, mají, musím</li>
           </ul>
         </li>
       </ul>
@@ -3377,9 +3376,8 @@ udver: '2'
             <li>ADJ-Part: následující, rozhodující, třesoucí, nastávající, povznášející, stojící, vynikající, zbývající, blížícího, bušícím</li>
             <li>AUX-Conv: jsouc</li>
             <li>AUX-Fin: jsem, je, jsme, jsou, jste, jsi, není, nejsem, nejsou, bývá</li>
-            <li>PRON: Tys</li>
             <li>VERB-Conv: chtěje, hledajíc, netuše, Divě, Jda, Nechtíc, Opíraje, Pronášejíc, Třesouc, domnívajíc</li>
-            <li>VERB-Fin: je, má, mám, může, nevím, musí, není, mají, musím, vím</li>
+            <li>VERB-Fin: je, má, mám, může, nevím, jsi, musí, není, mají, musím</li>
           </ul>
         </li>
       </ul>
@@ -3475,9 +3473,8 @@ udver: '2'
             <li>AUX-Conv: jsouc</li>
             <li>AUX-Fin: jsem, je, jsme, bude, jsou, jste, jsi, není, budu, budeš</li>
             <li>AUX-Part: byl, byla, bylo, byly, byli, nebyl, nebylo, nebyla, býval, bývala</li>
-            <li>PRON: Tys</li>
             <li>VERB-Conv: chtěje, hledajíc, netuše, Divě, Jda, Nechtíc, Opíraje, Pronášejíc, Třesouc, domnívajíc</li>
-            <li>VERB-Fin: je, má, mám, může, nevím, musí, není, mají, musím, vím</li>
+            <li>VERB-Fin: je, má, mám, může, nevím, jsi, musí, není, mají, musím</li>
             <li>VERB-Part: řekl, měl, bylo, měla, řekla, mohl, chtěl, byl, byla, chtěla</li>
           </ul>
         </li>
@@ -4475,7 +4472,7 @@ udver: '2'
         <li>Yes
           <ul>
             <li>DET: své, svou, svých, svého, svým, svůj, svém, svými, svému, svoje</li>
-            <li>PRON: se, si, sebe, sobě, sebou, sis</li>
+            <li>PRON: se, si, sebe, sobě, sebou</li>
           </ul>
         </li>
       </ul>
@@ -4495,7 +4492,7 @@ udver: '2'
         <li>Yes
           <ul>
             <li>DET: své, svou, svého, svým, svůj, svých, svém, svoji, svoje, svému</li>
-            <li>PRON: se, si, sebe, sobě, sebou, ses, sis</li>
+            <li>PRON: se, si, sebe, sobě, sebou</li>
           </ul>
         </li>
       </ul>
@@ -4608,7 +4605,7 @@ udver: '2'
           <ul>
             <li>AUX-Fin: jste, byste, budete, jsi, buď, nebudete, bys, budeš, buďte, Nebuď</li>
             <li>DET: vaše, vaší, vašeho, vaši, váš, vašich, vašem, vašemu, Vašimi, tvoje</li>
-            <li>PRON: vám, vás, vy, ti, tě, ty, vámi, tebe, tebou, sis</li>
+            <li>PRON: vám, vás, vy, ti, tě, ty, vámi, tebe, tebou</li>
             <li>VERB-Fin: viz, můžete, máte, víte, najdete, překonej, nechte, nemáte, znáte, chcete</li>
           </ul>
         </li>
@@ -4622,10 +4619,9 @@ udver: '2'
         <li>2
           <ul>
             <li>AUX-Fin: jste, jsi, byste, bys, budeš, budete, nebudeš, si, buď, buďte</li>
-            <li>CCONJ: Vždyťs</li>
             <li>DET: vaše, tvůj, tvoje, tvé, váš, vaší, tvou, tvá, tvojí, tvého</li>
-            <li>PRON: ti, ty, tě, vás, vám, vy, tebe, ses, tebou, tobě</li>
-            <li>VERB-Fin: víš, máš, víte, chceš, můžeš, máte, řekni, myslíš, musíš, dej</li>
+            <li>PRON: ti, ty, tě, vás, vám, vy, tebe, tebou, tobě, vámi</li>
+            <li>VERB-Fin: jsi, víš, máš, víte, chceš, můžeš, máte, řekni, myslíš, musíš</li>
           </ul>
         </li>
       </ul>
@@ -5589,7 +5585,37 @@ udver: '2'
 
     </td>
     <td width="20%" valign="top">
-
+      <ul>
+        <li><a>NameType</a>
+          <ul>
+            <li>Com
+              <ul>
+                <li>PROPN: Rut, Slavia, Vikárky, Pribina, RUT, Sparta, Vikárka, Vitana</li>
+              </ul>
+            </li>
+            <li>Geo
+              <ul>
+                <li>PROPN: Praze, Prahy, Čáslavi, Čáslav, Krásné, Kanada, Moravy, Čechách, Bystrice, Evropu</li>
+              </ul>
+            </li>
+            <li>Giv
+              <ul>
+                <li>PROPN: Láďa, Leoš, Valentýna, Eduard, Alžběta, Veronika, Filip, Alice, Honza, Janičku</li>
+              </ul>
+            </li>
+            <li>Nat
+              <ul>
+                <li>PROPN: Němci, Němec, Žid, Američani, Francouz, Japonci, Němců, Němcům, Římané, Američané</li>
+              </ul>
+            </li>
+            <li>Sur
+              <ul>
+                <li>PROPN: Havel, Flajšman, Havlena, Havla, Havlovi, Mourková, Flajšmana, Jahoda, Frejka, Krista</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="20%" valign="top">
       <ul>
@@ -6369,7 +6395,7 @@ udver: '2'
             <li>VERB-Fin--NOUN-Gen-ADP(kolem) (3)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(na) (3)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(přes) (3)</li>
-            <li>VERB-Fin--NOUN-Nom (8376)</li>
+            <li>VERB-Fin--NOUN-Nom (8429)</li>
             <li>VERB-Fin--PRON (28)</li>
             <li>VERB-Fin--PRON-Acc (4)</li>
             <li>VERB-Fin--PRON-Dat (1)</li>
@@ -6380,7 +6406,7 @@ udver: '2'
             <li>VERB-Inf--NOUN (2)</li>
             <li>VERB-Inf--NOUN-Acc (3)</li>
             <li>VERB-Inf--NOUN-Gen (7)</li>
-            <li>VERB-Inf--NOUN-Nom (184)</li>
+            <li>VERB-Inf--NOUN-Nom (185)</li>
             <li>VERB-Inf--PRON-Nom (15)</li>
             <li>VERB-Part--NOUN (32)</li>
             <li>VERB-Part--NOUN-Acc (5)</li>
@@ -6389,7 +6415,7 @@ udver: '2'
             <li>VERB-Part--NOUN-Gen-ADP(na) (2)</li>
             <li>VERB-Part--NOUN-Gen-ADP(přes) (2)</li>
             <li>VERB-Part--NOUN-Ins (1)</li>
-            <li>VERB-Part--NOUN-Nom (3726)</li>
+            <li>VERB-Part--NOUN-Nom (3978)</li>
             <li>VERB-Part--PRON (15)</li>
             <li>VERB-Part--PRON-Acc (1)</li>
             <li>VERB-Part--PRON-Gen (6)</li>
@@ -6427,7 +6453,7 @@ udver: '2'
           <ul>
             <li>VERB-Fin--NOUN-Acc-ADP(přes) (1)</li>
             <li>VERB-Fin--NOUN-Gen (41)</li>
-            <li>VERB-Fin--NOUN-Nom (1261)</li>
+            <li>VERB-Fin--NOUN-Nom (1289)</li>
             <li>VERB-Fin--PRON (7)</li>
             <li>VERB-Fin--PRON-Acc (1)</li>
             <li>VERB-Fin--PRON-Gen (4)</li>
@@ -6436,7 +6462,7 @@ udver: '2'
             <li>VERB-Inf--PRON-Gen (2)</li>
             <li>VERB-Inf--PRON-Nom (26)</li>
             <li>VERB-Part--NOUN-Gen (65)</li>
-            <li>VERB-Part--NOUN-Nom (3151)</li>
+            <li>VERB-Part--NOUN-Nom (3213)</li>
             <li>VERB-Part--PRON (10)</li>
             <li>VERB-Part--PRON-Gen (9)</li>
             <li>VERB-Part--PRON-Nom (708)</li>
@@ -6451,7 +6477,7 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB-Fin--NOUN (129)</li>
+            <li>VERB-Fin--NOUN (131)</li>
             <li>VERB-Fin--NOUN-Acc (10)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(na) (4)</li>
             <li>VERB-Fin--NOUN-Acc-ADP(přes) (1)</li>
@@ -6461,7 +6487,7 @@ udver: '2'
             <li>VERB-Fin--NOUN-Gen-ADP(na) (22)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(okolo) (2)</li>
             <li>VERB-Fin--NOUN-Gen-ADP(přes) (19)</li>
-            <li>VERB-Fin--NOUN-Nom (23381)</li>
+            <li>VERB-Fin--NOUN-Nom (24210)</li>
             <li>VERB-Fin--PRON (18)</li>
             <li>VERB-Fin--PRON-Gen (30)</li>
             <li>VERB-Fin--PRON-Gen-ADP(na) (1)</li>
@@ -6474,10 +6500,10 @@ udver: '2'
             <li>VERB-Inf--NOUN-Gen-ADP(na) (3)</li>
             <li>VERB-Inf--NOUN-Gen-ADP(okolo) (1)</li>
             <li>VERB-Inf--NOUN-Loc-ADP(po) (1)</li>
-            <li>VERB-Inf--NOUN-Nom (1103)</li>
+            <li>VERB-Inf--NOUN-Nom (1125)</li>
             <li>VERB-Inf--PRON-Acc (1)</li>
             <li>VERB-Inf--PRON-Nom (78)</li>
-            <li>VERB-Part--NOUN (69)</li>
+            <li>VERB-Part--NOUN (75)</li>
             <li>VERB-Part--NOUN-Acc (14)</li>
             <li>VERB-Part--NOUN-Acc-ADP(na) (5)</li>
             <li>VERB-Part--NOUN-Acc-ADP(přes) (5)</li>
@@ -6488,7 +6514,8 @@ udver: '2'
             <li>VERB-Part--NOUN-Gen-ADP(přes) (8)</li>
             <li>VERB-Part--NOUN-Ins (1)</li>
             <li>VERB-Part--NOUN-Loc-ADP(po) (3)</li>
-            <li>VERB-Part--NOUN-Nom (17728)</li>
+            <li>VERB-Part--NOUN-Nom (20361)</li>
+            <li>VERB-Part--NOUN-Nom-ADP(de) (1)</li>
             <li>VERB-Part--PRON (10)</li>
             <li>VERB-Part--PRON-Acc (3)</li>
             <li>VERB-Part--PRON-Dat (1)</li>
@@ -6535,8 +6562,8 @@ udver: '2'
             <li>VERB-Conv--NOUN-Ins (1)</li>
             <li>VERB-Conv--PRON-Acc (1)</li>
             <li>VERB-Fin--NOUN (3)</li>
-            <li>VERB-Fin--NOUN-Acc (5611)</li>
-            <li>VERB-Fin--NOUN-Dat (341)</li>
+            <li>VERB-Fin--NOUN-Acc (5612)</li>
+            <li>VERB-Fin--NOUN-Dat (342)</li>
             <li>VERB-Fin--NOUN-Gen (445)</li>
             <li>VERB-Fin--NOUN-Ins (234)</li>
             <li>VERB-Fin--NOUN-Nom (99)</li>
@@ -6551,7 +6578,7 @@ udver: '2'
             <li>VERB-Fin--PRON-Nom (7)</li>
             <li>VERB-Inf--NOUN (5)</li>
             <li>VERB-Inf--NOUN-Acc (3542)</li>
-            <li>VERB-Inf--NOUN-Dat (133)</li>
+            <li>VERB-Inf--NOUN-Dat (134)</li>
             <li>VERB-Inf--NOUN-Gen (219)</li>
             <li>VERB-Inf--NOUN-Ins (62)</li>
             <li>VERB-Inf--NOUN-Loc (2)</li>
@@ -6563,11 +6590,11 @@ udver: '2'
             <li>VERB-Inf--PRON-Ins (3)</li>
             <li>VERB-Inf--PRON-Nom (1)</li>
             <li>VERB-Part--NOUN (20)</li>
-            <li>VERB-Part--NOUN-Acc (2780)</li>
-            <li>VERB-Part--NOUN-Dat (167)</li>
+            <li>VERB-Part--NOUN-Acc (2792)</li>
+            <li>VERB-Part--NOUN-Dat (168)</li>
             <li>VERB-Part--NOUN-Gen (344)</li>
             <li>VERB-Part--NOUN-Ins (191)</li>
-            <li>VERB-Part--NOUN-Nom (16)</li>
+            <li>VERB-Part--NOUN-Nom (17)</li>
             <li>VERB-Part--PRON (14)</li>
             <li>VERB-Part--PRON-Acc (372)</li>
             <li>VERB-Part--PRON-Acc-ADP(o) (3)</li>
@@ -6631,7 +6658,7 @@ udver: '2'
             <li>VERB-Fin--PRON-Gen (27)</li>
             <li>VERB-Fin--PRON-Ins (2)</li>
             <li>VERB-Fin--PRON-Nom (2)</li>
-            <li>VERB-Inf--NOUN-Acc (677)</li>
+            <li>VERB-Inf--NOUN-Acc (678)</li>
             <li>VERB-Inf--NOUN-Dat (34)</li>
             <li>VERB-Inf--NOUN-Gen (45)</li>
             <li>VERB-Inf--NOUN-Ins (20)</li>
@@ -6642,7 +6669,7 @@ udver: '2'
             <li>VERB-Inf--PRON-Gen (13)</li>
             <li>VERB-Inf--PRON-Ins (3)</li>
             <li>VERB-Inf--PRON-Nom (1)</li>
-            <li>VERB-Part--NOUN-Acc (2695)</li>
+            <li>VERB-Part--NOUN-Acc (2700)</li>
             <li>VERB-Part--NOUN-Dat (123)</li>
             <li>VERB-Part--NOUN-Gen (157)</li>
             <li>VERB-Part--NOUN-Ins (128)</li>
@@ -6669,9 +6696,9 @@ udver: '2'
             <li>VERB-Conv--PRON-Acc (2)</li>
             <li>VERB-Conv--PRON-Dat (1)</li>
             <li>VERB-Fin--NOUN (89)</li>
-            <li>VERB-Fin--NOUN-Acc (14677)</li>
-            <li>VERB-Fin--NOUN-Dat (931)</li>
-            <li>VERB-Fin--NOUN-Gen (1334)</li>
+            <li>VERB-Fin--NOUN-Acc (14709)</li>
+            <li>VERB-Fin--NOUN-Dat (952)</li>
+            <li>VERB-Fin--NOUN-Gen (1335)</li>
             <li>VERB-Fin--NOUN-Ins (535)</li>
             <li>VERB-Fin--NOUN-Nom (43)</li>
             <li>VERB-Fin--NOUN-Voc (1)</li>
@@ -6681,10 +6708,10 @@ udver: '2'
             <li>VERB-Fin--PRON-Ins (25)</li>
             <li>VERB-Fin--PRON-Nom (1)</li>
             <li>VERB-Inf--NOUN (31)</li>
-            <li>VERB-Inf--NOUN-Acc (9871)</li>
-            <li>VERB-Inf--NOUN-Dat (499)</li>
-            <li>VERB-Inf--NOUN-Gen (689)</li>
-            <li>VERB-Inf--NOUN-Ins (255)</li>
+            <li>VERB-Inf--NOUN-Acc (9904)</li>
+            <li>VERB-Inf--NOUN-Dat (507)</li>
+            <li>VERB-Inf--NOUN-Gen (692)</li>
+            <li>VERB-Inf--NOUN-Ins (254)</li>
             <li>VERB-Inf--NOUN-Nom (19)</li>
             <li>VERB-Inf--PRON (1)</li>
             <li>VERB-Inf--PRON-Acc (1438)</li>
@@ -6693,10 +6720,10 @@ udver: '2'
             <li>VERB-Inf--PRON-Ins (20)</li>
             <li>VERB-Inf--PRON-Nom (6)</li>
             <li>VERB-Part--NOUN (61)</li>
-            <li>VERB-Part--NOUN-Acc (13249)</li>
-            <li>VERB-Part--NOUN-Dat (718)</li>
-            <li>VERB-Part--NOUN-Gen (1404)</li>
-            <li>VERB-Part--NOUN-Ins (602)</li>
+            <li>VERB-Part--NOUN-Acc (13382)</li>
+            <li>VERB-Part--NOUN-Dat (752)</li>
+            <li>VERB-Part--NOUN-Gen (1409)</li>
+            <li>VERB-Part--NOUN-Ins (600)</li>
             <li>VERB-Part--NOUN-Nom (22)</li>
             <li>VERB-Part--PRON (2)</li>
             <li>VERB-Part--PRON-Acc (1869)</li>
@@ -6785,7 +6812,7 @@ udver: '2'
           <ul>
             <li>VERB-Fin--NOUN (3)</li>
             <li>VERB-Fin--NOUN-Acc (45)</li>
-            <li>VERB-Fin--NOUN-Dat (173)</li>
+            <li>VERB-Fin--NOUN-Dat (174)</li>
             <li>VERB-Fin--NOUN-Gen (10)</li>
             <li>VERB-Fin--NOUN-Ins (53)</li>
             <li>VERB-Fin--NOUN-Nom (12)</li>
@@ -6796,16 +6823,16 @@ udver: '2'
             <li>VERB-Fin--PRON-Nom (2)</li>
             <li>VERB-Inf--NOUN (2)</li>
             <li>VERB-Inf--NOUN-Acc (19)</li>
-            <li>VERB-Inf--NOUN-Dat (160)</li>
+            <li>VERB-Inf--NOUN-Dat (162)</li>
             <li>VERB-Inf--NOUN-Gen (7)</li>
             <li>VERB-Inf--NOUN-Ins (36)</li>
             <li>VERB-Inf--NOUN-Nom (3)</li>
             <li>VERB-Inf--PRON-Acc (6)</li>
             <li>VERB-Inf--PRON-Dat (67)</li>
             <li>VERB-Part--NOUN (1)</li>
-            <li>VERB-Part--NOUN-Acc (42)</li>
-            <li>VERB-Part--NOUN-Dat (130)</li>
-            <li>VERB-Part--NOUN-Gen (10)</li>
+            <li>VERB-Part--NOUN-Acc (44)</li>
+            <li>VERB-Part--NOUN-Dat (136)</li>
+            <li>VERB-Part--NOUN-Gen (11)</li>
             <li>VERB-Part--NOUN-Ins (23)</li>
             <li>VERB-Part--NOUN-Nom (5)</li>
             <li>VERB-Part--PRON (2)</li>
@@ -6840,7 +6867,7 @@ udver: '2'
             <li>VERB-Conv--PRON-Dat (1)</li>
             <li>VERB-Fin--NOUN-Acc (21)</li>
             <li>VERB-Fin--NOUN-Dat (34)</li>
-            <li>VERB-Fin--NOUN-Gen (4)</li>
+            <li>VERB-Fin--NOUN-Gen (5)</li>
             <li>VERB-Fin--NOUN-Ins (8)</li>
             <li>VERB-Fin--PRON-Acc (46)</li>
             <li>VERB-Fin--PRON-Dat (208)</li>
@@ -6855,7 +6882,7 @@ udver: '2'
             <li>VERB-Inf--PRON-Gen (3)</li>
             <li>VERB-Inf--PRON-Ins (2)</li>
             <li>VERB-Part--NOUN-Acc (57)</li>
-            <li>VERB-Part--NOUN-Dat (97)</li>
+            <li>VERB-Part--NOUN-Dat (103)</li>
             <li>VERB-Part--NOUN-Gen (20)</li>
             <li>VERB-Part--NOUN-Ins (20)</li>
             <li>VERB-Part--PRON-Acc (79)</li>
@@ -6871,8 +6898,8 @@ udver: '2'
           <ul>
             <li>VERB-Conv--PRON-Dat (1)</li>
             <li>VERB-Fin--NOUN (3)</li>
-            <li>VERB-Fin--NOUN-Acc (145)</li>
-            <li>VERB-Fin--NOUN-Dat (551)</li>
+            <li>VERB-Fin--NOUN-Acc (149)</li>
+            <li>VERB-Fin--NOUN-Dat (560)</li>
             <li>VERB-Fin--NOUN-Gen (22)</li>
             <li>VERB-Fin--NOUN-Ins (62)</li>
             <li>VERB-Fin--NOUN-Nom (4)</li>
@@ -6882,20 +6909,20 @@ udver: '2'
             <li>VERB-Fin--PRON-Ins (5)</li>
             <li>VERB-Fin--PRON-Nom (1)</li>
             <li>VERB-Inf--NOUN (2)</li>
-            <li>VERB-Inf--NOUN-Acc (59)</li>
-            <li>VERB-Inf--NOUN-Dat (433)</li>
-            <li>VERB-Inf--NOUN-Gen (18)</li>
-            <li>VERB-Inf--NOUN-Ins (69)</li>
+            <li>VERB-Inf--NOUN-Acc (61)</li>
+            <li>VERB-Inf--NOUN-Dat (442)</li>
+            <li>VERB-Inf--NOUN-Gen (19)</li>
+            <li>VERB-Inf--NOUN-Ins (70)</li>
             <li>VERB-Inf--NOUN-Nom (2)</li>
             <li>VERB-Inf--PRON-Acc (28)</li>
             <li>VERB-Inf--PRON-Dat (354)</li>
             <li>VERB-Inf--PRON-Gen (1)</li>
             <li>VERB-Inf--PRON-Ins (7)</li>
             <li>VERB-Part--NOUN (4)</li>
-            <li>VERB-Part--NOUN-Acc (194)</li>
-            <li>VERB-Part--NOUN-Dat (711)</li>
-            <li>VERB-Part--NOUN-Gen (30)</li>
-            <li>VERB-Part--NOUN-Ins (92)</li>
+            <li>VERB-Part--NOUN-Acc (200)</li>
+            <li>VERB-Part--NOUN-Dat (757)</li>
+            <li>VERB-Part--NOUN-Gen (38)</li>
+            <li>VERB-Part--NOUN-Ins (94)</li>
             <li>VERB-Part--NOUN-Nom (9)</li>
             <li>VERB-Part--PRON-Acc (113)</li>
             <li>VERB-Part--PRON-Dat (822)</li>
@@ -6967,7 +6994,7 @@ udver: '2'
       <h3>Reflexive Verbs</h3>
       
       <ul>
-        <li>This corpus contains 1026 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: stát se, dívat se, zeptat se, zdát se, snažit se, ptát se, vrátit se, podívat se, myslet si, všimnout si, usmát se, bát se, rozhodnout se, dát se, zastavit se, chovat se, smát se, uvědomit si, dostat se, dotknout se, objevit se, vydat se, představit si, starat se, vzpomenout si, cítit se, ozvat se, posadit se, podařit se, uvědomovat si, vracet se, líbit se, divit se, narodit se, obrátit se, prohlížet si, představovat si, dít se, otočit se, těšit se, jmenovat se, otázat se, stěžovat si, bránit se, pustit se, přát si, stávat se, blížit se, dozvědět se, probudit se</li>
+        <li>This corpus contains 1009 lemmas that occur at least once with an <a>expl:pv</a> child. Examples: stát se, dívat se, zeptat se, zdát se, snažit se, ptát se, vrátit se, podívat se, všimnout si, myslet si, usmát se, bát se, rozhodnout se, dát se, zastavit se, chovat se, smát se, uvědomit si, dostat se, dotknout se, objevit se, starat se, vydat se, představit si, vzpomenout si, cítit se, ozvat se, posadit se, podařit se, uvědomovat si, vracet se, líbit se, divit se, narodit se, obrátit se, prohlížet si, představovat si, těšit se, dít se, otočit se, jmenovat se, otázat se, stěžovat si, přát si, vzít si, bránit se, pustit se, stávat se, blížit se, dozvědět se</li>
       </ul>
     </td>
     <td width="20%" valign="top">
@@ -7027,7 +7054,7 @@ udver: '2'
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
-        <li>This corpus contains 120 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: překonat sebe, připomenout si, říci si, klást si, položit si, přečíst si, vzdělávat se, dát si, obohacovat se, podobný si, ukázat si, vyprávět si, dát se, krýt se, odradit se, osvobodit se, ovlivňovat se, prohlašovat se, připomínat si, připoutat se, připravovat se, rozumět si, ukrýt se, uživit se, vidět sebe, zaplnit se, znát se, řeknout si, říkat si, adaptovat se, adekvátní sobě, blízký sobě, bránit se, charakterizovat sui, chránit se, definovat sebe, demaskovat se, doléčovat se, dovolit si, hledat sebe, hlídat se, hostit sebe, klamat sebe, kompenzovat se, koupat se, koupit si, koupit sis, kupovat si, křížit se, léčit se</li>
+        <li>This corpus contains 119 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: překonat sebe, připomenout si, říci si, klást si, položit si, přečíst si, vzdělávat se, dát si, obohacovat se, podobný si, ukázat si, vyprávět si, dát se, koupit si, krýt se, odradit se, osvobodit se, ovlivňovat se, prohlašovat se, připomínat si, připoutat se, připravovat se, rozumět si, ukrýt se, uživit se, vidět sebe, zaplnit se, znát se, řeknout si, říkat si, adaptovat se, adekvátní sobě, blízký sobě, bránit se, charakterizovat sui, chránit se, definovat sebe, demaskovat se, doléčovat se, dovolit si, hledat sebe, hlídat se, hostit sebe, klamat sebe, kompenzovat se, koupat se, kupovat si, křížit se, léčit se, mít se</li>
           <ul>
             <li>Out of those, 2 lemmas occurred more than once, but never without a reflexive dependent. Examples: ukrýt, uživit</li>
           </ul>
@@ -7044,7 +7071,7 @@ udver: '2'
       <h3>Verbs with Reflexive Core Objects</h3>
       
       <ul>
-        <li>This corpus contains 263 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: říkat si, koupit si, říci si, svlékat se, svléknout se, mít se, schovat se, nalít si, převléknout se, přečíst si, slyšet se, vidět se, nabídnout se, vyčítat si, znát se, nasadit si, nechat si, odpovědět si, opakovat si, prostřít se, zabít se, navonět se, odpustit si, pomoci si, ponechat si, potkat se, psát si, přesvědčit se, převlékat se, připomenout si, přiznat si, schovávat se, udržet se, ujistit se, chytnout se, držet se, dělat si, kupovat si, milující se, namlouvat si, nazvat se, obléknout se, obout se, odradit se, odvést se, odvézt se, ohlásit se, omlouvat se, omluvit se, osvobozovat se</li>
+        <li>This corpus contains 259 lemmas that occur at least once with a reflexive core object (<a>obj</a> or <a>iobj</a>). Examples: říkat si, koupit si, říci si, svlékat se, svléknout se, mít se, schovat se, nalít si, převléknout se, přečíst si, slyšet se, vidět se, nabídnout se, vyčítat si, zabít se, znát se, nasadit si, nechat si, odpovědět si, opakovat si, prostřít se, namlouvat si, navonět se, odpustit si, pomoci si, ponechat si, potkat se, psát si, přesvědčit se, převlékat se, připomenout si, přiznat si, schovávat se, udržet se, ujistit se, chytnout se, držet se, dělat si, kupovat si, milující se, nazvat se, obléknout se, obout se, odradit se, odvést se, odvézt se, ohlásit se, omlouvat se, omluvit se, osvobozovat se</li>
           <ul>
             <li>Out of those, 12 lemmas occurred more than once, but never without a reflexive dependent. Examples: převléknout, prostřít, navonět, obout, převlékat, milující, omlouvat, omluvit, ptát, sprchovat, ubránit, zakoupit</li>
           </ul>
