@@ -9,12 +9,12 @@ udver: '2'
 The French tokenization follows the universal guidelines: contractions are undone (e.g., *au* becomes two tokens *à* + *le*).
 Otherwise the tokenization is based on white spaces and punctuations (except for multiword expressions with hyphens which are not split, e.g., *Etats-Unis* "United States", *sous-marin* "submarine" stay one token).
 
-In the table below, the numbers indicates the number of words used to represent the example given in the first column.
+In the table below, numbers indicate how many words are used to represent the example given in the first column.
 
 | | GSD | FTB | PUD | ParTUT | Sequoia | Spoken |
 |----|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 | Proper names (`Saint-Denis`) | **1** | **3** | **1** | **1** | **1** |  **3** |
-| Common nouns (`procès-verbal`) | **1** | **3** | **1** | **3** / **1** <sup>A</sup> | **1** |  **3** |
+| Common nouns (`procès-verbal`) | **1** | **3** | **1** | **3** / **1**<sup>A</sup> | **1** |  **3** |
 | Common nouns (`vice-président`) | **1** | **3** | **1** | **3** | **1** |  **3** |
 | Pronoun (`celui-ci`, `elle-même`) | **1** | **3** | **1** | **1**  | **1** |  **3** |
 | Adverb (`peut-être`; `ci-dessous`) | **1** | **3** | **1** | **1** | **1** |  **3** |

@@ -5,9 +5,10 @@ shortdef: 'quasi nominal subject'
 udver: '2'
 ---
 
+Among French corpora, only **UD_French-Spoken** uses the [nsubj:quasi]() relation.
 
-FrenchSpoken does not use the usual [expl]() relation. There is instead a subrelation used only for impersonal constructions: [nsubj:expl]().
-To annotate the other dependent of the predicate (i.e. not the dependent annotated with the `nsubj:expl` relation), the `nsubj:quasi` relation is used. 
+**UD_French-Spoken** does not use the usual [expl]() relation. There is instead a subrelation used only for impersonal constructions: [nsubj:expl]().
+To annotate the other dependent of the predicate (i.e. not the dependent annotated with the `nsubj:expl` relation), the `nsubj:quasi` relation is used.
 
 ~~~ sdparse
 il est arrivé un malheur \n something bad happened

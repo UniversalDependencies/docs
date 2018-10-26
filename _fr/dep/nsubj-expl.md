@@ -5,7 +5,9 @@ shortdef: 'expletive nominal subject'
 udver: '2'
 ---
 
-FrenchSpoken does not use the [expl]() relation. Instead there is subrelation used only for impersonal constructions:
+Among French corpora, only **UD_French-Spoken** uses the [nsubj:expl]() relation.
+
+**UD_French-Spoken** does not use the [expl]() relation. Instead there is subrelation used only for impersonal constructions:
 
 ~~~ sdparse
 il est arrivé un malheur \n something bad happened
@@ -21,7 +23,7 @@ csubj:quasi(faudra, acheter)
 
 N.B.: The [nsubj:quasi]() relation is used for the other dependent of the predicate when it is a nominal and the [csubj:quasi]() when it is a clause.
 
-`nsubj:expl` also enables us to differenciate between cleft and presentative constructions, in the case where they both use  _c'est_ (or _c'était_, _ce sont_ etc.):
+`nsubj:expl` also enables us to differentiate between cleft and presentative constructions, in the case where they both use  _c'est_ (or _c'était_, _ce sont_ etc.):
 
 In the following example, _c'_ has an obvious antecedent (_Pierre_) so the second sentence (_C'est un ami qui habite ici._) is a presentative construction (and not a cleft sentence).
 In this case, we use the usual `nsubj` relation.
@@ -40,5 +42,5 @@ nsubj:expl(ami, C')
 acl:cleft(ami, habite)
 ~~~
 
-N.B.: Note that two different subrelations are used for relative clauses ([acl:relcl]()) and for cleft sentences ([acl:cleft]()) in FrenchSpoken. Also see the [specific-syntax](http://universaldependencies.org/fr/overview/specific-syntax.html) page.
+N.B.: Note that two different subrelations are used for relative clauses ([acl:relcl]()) and for cleft sentences ([acl:cleft]()) in **UD_French-Spoken**. Also see the [specific-syntax](http://universaldependencies.org/fr/specific-syntax.html) page.
 

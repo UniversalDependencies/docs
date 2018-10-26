@@ -2,6 +2,7 @@
 layout: feature
 title: 'Poss'
 shortdef: 'possessive'
+udver: '2'
 ---
 
-`Poss` is not yet annotated for French.
+In the three corpora **UD_French-ParTUT**, **UD_French-Sequoia** and **UD_French-GSD**, the feature `Poss=Yes` is used on possessive determiners.

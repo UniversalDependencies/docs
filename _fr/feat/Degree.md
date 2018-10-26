@@ -2,6 +2,7 @@
 layout: feature
 title: 'Degree'
 shortdef: 'degree of comparison'
+udver: '2'
 ---
 
-French does not have the  `Degree` feature. It appears rarely on foreign words, such as English.
+French does not have the  `Degree` feature.

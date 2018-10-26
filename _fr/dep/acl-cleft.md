@@ -21,13 +21,13 @@ nsubj(a,Il)
 advmod(a,y)
 obj(a,Marie)
 acl:cleft(Marie,danse)
-~~~ 
+~~~
 
 ~~~ sdparse
 J' ai le mari de ma voisine qui est réparateur de voiture. \n I've got a neighbour whose husband is a car repairer.
 nsubj(ai,J')
 obj(ai,mari)
 acl:cleft(mari,réparateur)
-~~~ 
+~~~
 
-N.B.: `acl:cleft` is only used for clefted nominal subjects or objects. All other cases are annotated with the [ccomp:cleft]() relation (for example when the clefted element is a verb or an adverb). Also see the [specific-syntax](http://universaldependencies.org/fr/overview/specific-syntax.html) page.
+N.B.: `acl:cleft` is only used for clefted nominal subjects or objects. All other cases are annotated with the [ccomp:cleft]() relation (for example when the clefted element is a verb or an adverb). Also see the [specific-syntax](http://universaldependencies.org/fr/specific-syntax.html) page.

@@ -6,7 +6,8 @@ shortdef: 'pronoun'
 
 ### Definition
 
-Pronouns are words that substitute for nouns or noun phrases. Their meaning is recoverable from the linguistic or extralinguistic context.
+Pronouns are words that substitute for nouns or noun phrases.
+Their meaning is recoverable from the linguistic or extralinguistic context.
 
 ### Examples
 - personal pronouns: _je_, _tu_, _il_

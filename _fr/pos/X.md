@@ -2,6 +2,7 @@
 layout: postag
 title: 'X'
 shortdef: 'other'
+udver: '2'
 ---
 
 ### Definition
@@ -13,4 +14,4 @@ The tag X is used for words that for some reason cannot be assigned a real part-
 
 ### Examples
 
-- _etc_ 
+- _etc_
