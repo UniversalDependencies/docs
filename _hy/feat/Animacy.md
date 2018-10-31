@@ -9,12 +9,11 @@ udver: '2'
 <tr>
   <td style="background-color:cornflowerblue;color:white"><strong>Values:</strong> </td>
   <td><a href="#Hum">Hum</a></td>
-  <td><a href="#Inan">Inan</a></td>
   <td><a href="#Nhum">Nhum</a></td>
 </tr>
 </table>
 
-In Armenian animacy is a lexical feature of [nouns](NOUN) and some [pronouns](PRON). Note that in release 2.2 we distinguish three values, human vs. non-human animate vs. inanimate.
+In Armenian animacy is a lexical feature of [nouns](NOUN) and some [pronouns](PRON). Note that since release 2.3 we distinguish two values, human vs. non-human.
 
 See also the related feature of [Definite]().
 
@@ -22,18 +21,14 @@ Note also that some school grammars of Armenian distinguish between lexical `Hum
 
 ### <a name="Hum">`Hum`</a>: human
 
-Human beings, fictional characters, names of professions etc. (but not animals) are all humans.
+A subset of animates that only includes human beings (fictional characters, names of professions and personified characters)
+but not animals.
 
 - _մարդ_ “man”, _երեխա_ “child”, _աղջիկ_ “girl”, _ամուսին_ “husband”, _ուսուցիչ_ “teacher”, _նախագահ_ “president”, _տնօրեն_ “director”
 
 ### <a name="Nhum">`Nhum`</a>: non-human
 
-This value is used for non-human animates (only animals).
-
-- _ձի_ “horse”, _կով_ “cow”, _առյուծ_ “lion”, _արագիլ_ “stork”, _ձուկ_ “fish”
-
-### <a name="Inan">`Inan`</a>: inanimate
-
-Nouns that are not animate are inanimate. Even nouns that are normally inanimate can be inflected as animate if they are personified. For instance, consider a children's story about cars where cars live and talk as people; then the cars may become and be inflected as animates.
+This value in Armenian is used for non-human animates (incl. animals) and inanimates .
 
 - _տարի_ “year”, _օրենք_ “law”, _պետություն_ “state”, _լեռ_ “mountain”, _ծառ_ “tree”
+- _ձի_ “horse”, _կով_ “cow”, _առյուծ_ “lion”, _արագիլ_ “stork”, _ձուկ_ “fish”
