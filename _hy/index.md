@@ -48,7 +48,7 @@ and [Armenian features](feat/index.html).
 
 ### Nominal Features
 
-* Nominal words ([NOUN](), [PROPN]() and some of [PRON]()) have an inherent [Animacy]() feature with one of three values: `Hum`, `Inan` or `Nhum`. Note that this may be changed in future. Nominal words could be treated as having inherent `Hum`, `Nhum` and further would be subclassified by the layered `Animacy[gram]` values `Anim` vs. `Inan`.
+* Nominal words ([NOUN](), [PROPN]() and some of [PRON]()) have an inherent [Animacy]() feature with one of three values: `Hum`, `Nhum`. Note that this may be changed in future. Nominal words could be treated as having inherent `Hum`, `Nhum` and further would be subclassified by the layered `Animacy[gram]` values `Anim` vs. `Inan`.
 * The two main values of the [Number]() feature are `Sing` and `Plur`. The following parts of speech inflect for number:
   [NOUN](), [PROPN](), [PRON](), [VERB](), [AUX]() (finite).
   * Selected nouns are plurale tantum (`Ptan`) or singulare tantum (`Coll`). These two values are lexical, and cannot be used with
@@ -185,7 +185,7 @@ as well as Armenian-specific examples scattered across the documentation of cons
   * [nsubj:pass]() for nominal subjects of passive verbs
   * [obl:agent]() for agents of passive verbs
 * The following relation types are not used in Armenian at all:
-  [clf](), [dislocated](), [expl]()
+  [clf](), [dislocated]()
 
 ## Treebanks
 
