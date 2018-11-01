@@ -29,7 +29,7 @@ vocative(you-should-stop-it, President)
 
 1 Make-yourself _ _ _ _ 0 root _ _
 2 , _ _ _ _ 0 root _ _
-3 friend _ _ _ _ 0 root _ _
+3 mate _ _ _ _ 0 root _ _
 4 , _ _ _ _ 0 root _ _
 5 like _ _ _ _ 0 root _ _
 6 at-home _ _ _ _ 0 root _ _

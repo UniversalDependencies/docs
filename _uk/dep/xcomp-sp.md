@@ -5,12 +5,13 @@ shortdef: 'open clausal complement for secondary predication'
 udver: '2'
 ---
 
-Ukrainian uses the `xcomp:sp` relation to distinguish the cases where `xcomp` is used for [secondary predication](http://universaldependencies.org/u/dep/xcomp.html#secondary-predicates) which is encoded at the Enhanced level as [`nsubj:sp`](nsubj-sp)
+Ukrainian uses the `xcomp:sp` relation to distinguish the cases where `xcomp` is used for [secondary predication](http://universaldependencies.org/u/dep/xcomp.html#secondary-predicates). The secondary predication is encoded at the Enhanced level as [`nsubj:sp`](nsubj-sp).
 
 ~~~ conllu
 # visual-style 6 2 nsubj:sp color:blue
+# visual-style 3 6 xcomp:sp color:green
 1 Ці                   _ _ _ _ 0 root _ _
-2 землі                _ _ _ _ 0 root 6:nsubj:sp _
+2 землі                _ _ _ _ 3 obj 6:nsubj:sp _
 3 вважали              _ _ _ _ 0 root _ _
 4 останнім             _ _ _ _ 0 root _ _
 5 нехристиянізованим   _ _ _ _ 0 root _ _

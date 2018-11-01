@@ -14,7 +14,7 @@ nsubj(written, Shevchenko)
 ~~~
 
 ~~~ sdparse
-Машина -- червона . \n Car is red .
+Машина — червона . \n Car is red .
 nsubj(червона, Машина)
 nsubj(red, Car)
 ~~~
