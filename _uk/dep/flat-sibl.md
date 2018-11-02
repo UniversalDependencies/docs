@@ -5,9 +5,9 @@ shortdef: 'siblings'
 udver: '2'
 ---
 
-Whenever two or more tokens are to be connected to the same head, but cannot be connected in parallel, `flat:sibl` is used.
+Whenever two or more tokens are supposed to be connected to the same head but cannot be connected in parallel, `flat:sibl` is used.
 
-In the following example, the predicate consists of two uncoordinated adjectives. However, there can only be one [`root`](root.html) in the sentence.
+In the following example, the predicate consists of two uncoordinated adjectives. However, there can only be one [`root`](root.html) per sentence, so we threrefore connect the second adjective as `flat:sibl` to the first one to treat both of them as a single unit.
 
 ~~~ conllu
 # visual-style 2 3 flat:sibl color:green
@@ -26,7 +26,7 @@ In the following example, the predicate consists of two uncoordinated adjectives
 ~~~
 (_Entire_ and _linear_ are the terms for the form of leaf’s edge and body respectively and do not depend on each other.)
 
-In the second example `flat:sibl` is used to pack uncoordinated modifiers into a single conjunct, that is, conjoined here are oil ‘specifications’.
+In the second example, `flat:sibl` is used to pack uncoordinated modifiers into a single conjunct, that is, conjoined here are oil ‘specifications’.
 
 ~~~ conllu
 # visual-style 4 5 flat:sibl color:green
@@ -49,7 +49,7 @@ In the second example `flat:sibl` is used to pack uncoordinated modifiers into a
 
 ~~~
 
-(In Ukrainian, ‘oil’ is considered to be sunflower by default.)
+(In Ukrainian, ‘oil’ is sunflower by default.)
 
 Mention that the following analysis is incorrect:
 ~~~ conllu
@@ -61,15 +61,17 @@ Mention that the following analysis is incorrect:
 5	organic	_	_	_	_	6	amod_(wrong)	_	_
 6	oil	_	_	_	_	0	root	_	_
 7	.	_	_	_	_	0	root	_	_
+
 ~~~
 
-It’s incorrect because if you unroll the coordination, you will get (wrong):
-- _I like olive organic oil._
+It’s incorrect because if you unroll the coordination, you will get:
+- _I like olive organic oil._ — wrong
 - _I like real organic oil._
 
-instead of (correct):
-- _I like olive oil._
+instead of:
+- _I like olive oil._ — correct
 - _I like real organic oil._
 
+Do not confuse `flat:sibl` with [`flat:abs`](flat-abs.html) used for absolutive constructions.
 
 For the discussion on `flat:sibl`, see issue [#556](https://github.com/UniversalDependencies/docs/issues/556).
