@@ -5,11 +5,9 @@ shortdef: 'relative clause for clauses'
 udver: '2'
 ---
 
-`parataxis:rel` is for clauses relative to the whole upper clause, that is, the relativizer refers to the predication in a higher clause and not to a particular noun.
+`parataxis:rel` stands for clauses relative to the whole upper clause, that is, the relativizer refers to the predication in a higher clause and not to a particular noun.
 
 ~~~ conllu
-# sent_id = 25r4
-# translit = Imja Voltera Vajta nahaduě poeta Volta Vitmena, ščo vidihralo važlyvu roľ u śužeti, až do seredyny finaľnoho pjatoho sezonu.
 # visual-style 4 10 parataxis:rel color:green
 1	Ім'я	ім’я	NOUN	Ncnsnn	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	Id=25r5|LTranslit=imja|Translit=Imja
 2	Волтера	Волтер	PROPN	Npmsgy	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	1	nmod	_	Id=25r6|LTranslit=Volter|Translit=Voltera
@@ -27,7 +25,8 @@ udver: '2'
 14	сюжеті	сюжет	NOUN	Ncmsln	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	nmod	_	Id=25ri|LTranslit=śužet|SpaceAfter=No|Translit=śužeti
 15	.	.	PUNCT	U	_	4	punct	_	Id=25rq|LTranslit=.|Translit=.
 
-1	The-name	_	_	_	_	0	root	_	_
+# visual-style 4 10 parataxis:rel color:green
+1	[The]-name	_	_	_	_	0	root	_	_
 2	of-Walter	_	_	_	_	0	root	_	_
 3	White	_	_	_	_	0	root	_	_
 4	reminds	_	_	_	_	0	root	_	_
@@ -36,11 +35,11 @@ udver: '2'
 7	Whitman	_	_	_	_	0	root	_	_
 8	,	_	_	_	_	0	root	_	_
 9	which	_	_	_	_	0	root	_	_
-10	played	_	_	_	_	0	root	_	_
-11	an-important	_	_	_	_	0	root	_	_
+10	played	_	Gender=Neut	_	_	4	parataxis:rel	_	_
+11	[an]-important	_	_	_	_	0	root	_	_
 12	role	_	_	_	_	0	root	_	_
 13	in	_	_	_	_	0	root	_	_
-14	the-plot	_	_	_	_	0	root	_	_
+14	[the]-plot	_	_	_	_	0	root	_	_
 15	.	_	_	_	_	0	root	_	_
 
 ~~~

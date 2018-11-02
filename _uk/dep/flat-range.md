@@ -5,7 +5,7 @@ shortdef: 'range'
 udver: '2'
 ---
 
-Ukrainian uses `flat:range` for numerical, spacial and time ranges. Ranges are not [`conj`es](../../u/dep/conj.html).
+Ukrainian uses `flat:range` for numerical, spacial and time ranges. Ranges are **not** [`conj`es](../../u/dep/conj.html).
 
 ~~~ conllu
 # visual-style 4 6 flat:range color:green
