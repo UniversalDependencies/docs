@@ -8,11 +8,7 @@ udver: '2'
 `parataxis:rel` is for clauses relative to the whole upper clause, that is, the relativizer refers to the predication in a higher clause and not to a particular noun.
 
 ~~~ conllu
-# doc_title = Пуститися берега
-# newdoc id = 25r2
-# newpar id = 25r3
 # sent_id = 25r4
-# text = Ім'я Волтера Вайта нагадує поета Волта Вітмена, що відіграло важливу роль у сюжеті, аж до середини фінального п'ятого сезону.
 # translit = Imja Voltera Vajta nahaduě poeta Volta Vitmena, ščo vidihralo važlyvu roľ u śužeti, až do seredyny finaľnoho pjatoho sezonu.
 # visual-style 4 10 parataxis:rel color:green
 1	Ім'я	ім’я	NOUN	Ncnsnn	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	Id=25r5|LTranslit=imja|Translit=Imja
@@ -46,4 +42,5 @@ udver: '2'
 13	in	_	_	_	_	0	root	_	_
 14	the-plot	_	_	_	_	0	root	_	_
 15	.	_	_	_	_	0	root	_	_
+
 ~~~
