@@ -5,8 +5,7 @@ shortdef: 'controlling subject (enhanced dependency)'
 udver: '2'
 ---
 
-`nsubj:x` is an Enhanced dependency which distinguishes subjects of controlled verbs
-as described in _Controlled/raised subjects_ section of Enhanced Dependencies [documentation](http://universaldependencies.org/u/overview/enhanced-syntax.html) and in [`xcomp`](../../u/dep/xcomp.html).
+`nsubj:x` is an Enhanced dependency which distinguishes subjects of controlled verbs as described in _Controlled/raised subjects_ section of the Enhanced Dependencies [documentation](http://universaldependencies.org/u/overview/enhanced-syntax.html) and in [`xcomp`](../../u/dep/xcomp.html). This does not cover cases when `xcomp` is used for secondary predication, for which there is a separate [`xcomp:sp`](xcomp-sp.html) accompanied by [`nsubj:sp`](nsubj-sp.html).
 
 ~~~ conllu
 # visual-style 4 1 nsubj:x color:blue
@@ -42,8 +41,12 @@ as described in _Controlled/raised subjects_ section of Enhanced Dependencies [d
 
 ~~~
 
-`nsubj:x` is used when the controlling subject is overt.
+### Naming
 
-For related discussions, see issues [#567](https://github.com/UniversalDependencies/docs/issues/567) and [#568](https://github.com/UniversalDependencies/docs/issues/568).
+This relation is sometimes called `nsubj:xsubj` (like in [Schuster and Manning, 2016](https://nlp.stanford.edu/pubs/schuster2016enhanced.pdf)) as a legacy from times when `xsubj` was a separate relation.
+
+<!-- `nsubj:x` is used when the controlling subject is overt. -->
+
+<!-- For related discussions, see issues [#567](https://github.com/UniversalDependencies/docs/issues/567) and [#568](https://github.com/UniversalDependencies/docs/issues/568). -->
 
  <!-- If the subject is not overt but is deducible from the form of the verb, there is no `nsubj:x`. -->
