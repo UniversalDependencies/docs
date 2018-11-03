@@ -5,7 +5,7 @@ shortdef: 'optional depictive'
 udver: '2'
 ---
 
-Ukrainian uses the `advcl:sp` relation for optional depictives. See issue [#476](https://github.com/UniversalDependencies/docs/issues/476) for full explanation. The secondary predication is encoded at the Enhanced level with [`nsubj:sp`](nsubj-sp.html). See also [`xcomp:sp`](xcomp-sp.html).
+Ukrainian uses the `advcl:sp` relation for optional depictives. See issue [#476](https://github.com/UniversalDependencies/docs/issues/476) for full explanation. The secondary predication is encoded at the Enhanced level with [`nsubj:sp`](nsubj-sp.html)/[`csubj:sp`](csubj-sp.html). See also [`xcomp:sp`](xcomp-sp.html).
 
 ~~~ conllu
 # visual-style 2 3 advcl:sp color:green
