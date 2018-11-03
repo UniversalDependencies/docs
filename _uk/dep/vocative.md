@@ -7,7 +7,7 @@ udver: '2'
 
 The `vocative` relation is used to mark dialogue participant addressed in text.
 The relation links the addressee’s name to its host sentence.
-In Ukrainian, the addressee's name must also appear in the vocative [uk-feat/Case]() form. For clausal vocatives, there is [`vocative:cl`](vocative-cl.html).
+In Ukrainian, the addressee's name usually appears in the vocative [uk-feat/Case](). For clausal vocatives, there is [`vocative:cl`](vocative-cl.html).
 
 ~~~ sdparse
 Пане Президенте , скільки можна ? \n Mister President , you-should-stop-it !

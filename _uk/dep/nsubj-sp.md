@@ -1,12 +1,12 @@
 ---
 layout: relation
 title: 'nsubj:sp'
-shortdef: 'enhanced subject of a secondary predicate'
+shortdef: 'subject of a secondary predicate (enhanced dependency)'
 udver: '2'
 ---
 
 
-`nsubj:sp` denotes a subject in a secondary predication and is always headed by either [`xcomp:sp`](xcomp-sp.html) or [`advcl:sp`](advcl-sp.html).
+`nsubj:sp` denotes a subject in a secondary predication and is always headed by either [`xcomp:sp`](xcomp-sp.html) or [`advcl:sp`](advcl-sp.html). `nsubj:sp` is an [**Enhanced**](http://universaldependencies.org/u/overview/enhanced-syntax.html) dependency. It is not a part of basic syntax tree.
 
 ~~~ conllu
 #	visual-style 6 2 nsubj:sp color:blue
@@ -32,14 +32,12 @@ udver: '2'
 ~~~
 
 ~~~ conllu
-# visual-style 2 3 advcl:sp color:green
 # visual-style 3 1 nsubj:sp color:blue
 1	Я	я	PRON	Pp-1-ysnn	Animacy=Anim|Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	3:nsubj:sp	LTranslit=ja|Translit=ja
 2	пробудився	пробудитися	VERB	Vmeis-sm	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin	0	root	_	LTranslit=probudytyśа|Translit=Probudyvśа
 3	голодний	голодний	ADJ	Afpmsnf	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	advcl:sp	_	LTranslit=holodnyj|SpaceAfter=No|Translit=holodnyj
 4	.	.	PUNCT	U	_	2	punct	_	LTranslit=.|Translit=.
 
-# visual-style 2 3 advcl:sp color:green
 # visual-style 3 1 nsubj:sp color:blue
 1	I	_	_	_	_	2	nsubj	3:nsubj:sp	_
 2	woke-up	_	_	_	_	0	root	_	_
@@ -48,6 +46,4 @@ udver: '2'
 
 ~~~
 
-`nsubj:sp` is an **Enhanced** dependency. It is not a part of basic syntax tree.
-
-For clausal cases, there is [`csubj:sp`](csubj-sp.html). The basic subject is [`nsubj`]().
+For clausal cases, there is [`csubj:sp`](csubj-sp.html). The basic subject is [`nsubj`](../../u/dep/nsubj.html).
