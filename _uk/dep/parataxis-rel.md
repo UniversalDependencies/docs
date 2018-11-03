@@ -5,7 +5,7 @@ shortdef: 'relative clause for clauses'
 udver: '2'
 ---
 
-`parataxis:rel` stands for clauses relative to the whole upper clause, that is, the relativizer refers to the predication in a higher clause and not to a particular noun.
+`parataxis:rel` stands for clauses relative to the whole upper clause, that is, instead of referring to a particular noun, the relativizer refers to the **predication** in a higher clause.
 
 ~~~ conllu
 # visual-style 4 10 parataxis:rel color:green

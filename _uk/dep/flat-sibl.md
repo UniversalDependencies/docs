@@ -64,11 +64,11 @@ Mention that the following analysis is incorrect:
 
 ~~~
 
-It’s incorrect because if you unroll the coordination, you will get:
+It’s incorrect because if you unroll the coordination, you will get
 - _I like olive organic oil._ — wrong
 - _I like real organic oil._
 
-instead of:
+instead of
 - _I like olive oil._ — correct
 - _I like real organic oil._
 

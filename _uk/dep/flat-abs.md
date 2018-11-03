@@ -24,9 +24,9 @@ Consider the following example.
 6	.	_	_	_	_	0	root	_	_
 
 ~~~
-Here, _одне одному_ “one another” is acting as a single unit — an indirect object of the main predicate (compare to German _einander_) while having a predication on its own (_one told another_ — notice that _one_ is nominative). A basic tree is unable to capture such secondary structure, therefore we use `flat:abs` here.
+Here, _одне одному_ “one another” is acting as a single unit — an indirect object of the main predicate (like German _einander_) while having a predication on its own (_one told another_ — notice that _one_ even has a nominative case signifying a subject). A basic tree is unable to capture such secondary structure, therefore we use `flat:abs` here.
 
-This phenomena is not limited to pure reciprocals:
+This phenomenon is not limited to pure reciprocals:
 ~~~ conllu
 # visual-style 6 8 flat:abs color:green
 1	Величезна	величезний	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	_

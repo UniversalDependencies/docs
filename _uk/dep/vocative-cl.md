@@ -8,8 +8,6 @@ udver: '2'
 `vocative:cl` is [`vocative`]() for clauses.
 
 ~~~ conllu
-# text = — Ой хто в лісі, хто за лісом, ідіть до мене вечеряти!
-# translit = — Oj chto v lisi, chto za lisom, idiť do mene večeŕаty!
 # visual-style 11 5 vocative:cl color:green
 1 — — PUNCT U PunctType=Dash 11 punct _ Id=0ayw|LTranslit=—|Translit=—
 2 Ой ой INTJ I _ 11 discourse _ Id=0ayx|LTranslit=oj|Translit=Oj
@@ -34,12 +32,12 @@ udver: '2'
 4 who   _ _ _ _ 0 root _ _
 5 [is]   _ _ _ _ 0 root _ _
 6 in   _ _ _ _ 0 root _ _
-7 the-woods   _ _ _ _ 14 vocative:cl _ _
+7 [the]-woods   _ _ _ _ 14 vocative:cl _ _
 8 ,   _ _ _ _ 0 root _ _
 9 who   _ _ _ _ 0 root _ _
 10 [is]   _ _ _ _ 0 root _ _
 11 beyond   _ _ _ _ 0 root _ _
-12 the-woods   _ _ _ _ 0 root _ _
+12 [the]-woods   _ _ _ _ 0 root _ _
 13 ,   _ _ _ _ 0 root _ _
 14 come   _ _ _ _ 0 root _ _
 15 to   _ _ _ _ 0 root _ _
