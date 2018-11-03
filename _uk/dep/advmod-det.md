@@ -19,16 +19,16 @@ Ukrainian determiners (pronominal adjectives) _такий_ ‘such’ and _як�
 # visual-style 4 3 advmod color:green
 1	She	_	_	_	_	0	root	_	_
 2	[is]	_	_	_	_	0	root	_	_
-3	so	ADV	_	_	_	4	advmod	_	_
-4	tall	_	_	_	_	0	root	_	_
+3	so	_	ADV	_	_	4	advmod	_	_
+4	tall	_	ADJ	_	_	0	root	_	_
 5	!	_	_	_	_	0	root	_	_
 
 # sentence-label pl
 # visual-style 4 3 advmod color:green
 1	Ona	_	_	_	_	0	root	_	_
 2	[jest]	_	_	_	_	0	root	_	_
-3	tak	ADV	_	_	_	4	advmod	_	_
-4	wysoka	_	_	_	_	0	root	_	_
+3	tak	_	ADV	_	_	4	advmod	_	_
+4	wysoka	_	ADJ	_	_	0	root	_	_
 5	!	_	_	_	_	0	root	_	_
 
 ~~~
