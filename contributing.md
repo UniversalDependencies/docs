@@ -1,6 +1,7 @@
 ---
 layout: base
 title:  'Contributing'
+udver: '2'
 ---
 
 # How to contribute
@@ -77,8 +78,10 @@ sense to hyperlink again, but it does not make sense to highlight several
 occurrences in the same paragraph)
 * Examples in a foreign language should be followed by an English translation, which is not italicized but it is enclosed in quotes, e.g. _der Mann_ “the man”.
   * Note that Markdown processing converts straight ASCII quotes (\") to typographic (directional) quotation marks (“”), which should be used for all quotes.
-* Examples given in a foreign script are only italicized if it is Cyrillic or Greek. (In some scripts Italics don't look nice and the foreign script highlights the word anyway.) They should be immediately followed by a Latin-based transliteration, which is in italics. The transliteration is separated from the original script by a slash, which is not italics.
+* Examples given in a foreign script are only italicized if it is Cyrillic, Greek or Armenian. (In some scripts Italics don't look nice and the foreign script highlights the word anyway.) They should be immediately followed by a Latin-based transliteration, which is in italics. The transliteration is separated from the original script by a slash, which is not italics.
   * _Иван лучший танцор_ / _Ivan lučšij tancor_ “Ivan is the best dancer”
+  * _Ο Νίκος είναι πάνω_ / _O Nikos einai panô_ “Nikos is up”
+  * _Արամը ազնիվ մարդ է_ / _Aramă azniv mard é_ “Aram is an honest man”
   * राम इवान से भी बेहतर है / _rāma ivāna se bhī behatara hai_ “Ram is even better than Ivan”
 * To emphasize part of an example, use the `<b>` tag. For example, `_<b>Which</b> car_` renders as follows: _<b>Which</b> car_.
   * To emphasize text that is not part of an example, use `_light emphasis_` (rendering as _light emphasis_) or `**heavy emphasis**` (**heavy emphasis**), but _not_ the `<b>` tag.
