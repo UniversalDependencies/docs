@@ -11,7 +11,7 @@ An interjection is a word that is used most often as an exclamation or part of a
 
 Note that words primarily belonging to another part of speech retains their original category when used in exclamations. For example, _God_ in _Աստծո սիրույն&nbsp;_ “for God's sake” is a [NOUN]() even in exclamatory uses.
 
-As a special case of interjections, we recognize feedback particles such as _այո՛_, _ո՛չ_, _անշո՛ւշտ_, etc.
+As a special case of interjections, we recognize feedback particles such as _այո՛_, _ո՛չ_, _անշո՛ւշտ_, _չէ՛_, etc.
 
 ### Examples
 
