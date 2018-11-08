@@ -5,7 +5,8 @@ shortdef: 'marker'
 udver: '2'
 ---
 
-A marker is the word introducing a clause subordinate to another clause. The marker is a dependent of the subordinate clause head. 
+A marker is the word introducing a clause subordinate to another clause.
+The marker is a dependent of the subordinate clause head.
 
 ~~~ sdparse
 Il dit que tu aimes nager \n He says that you like to swim
@@ -36,7 +37,10 @@ on n' arrive plus à maintenir des clientèles \n we can't manage to keep the cu
 mark(maintenir,à)
 ~~~
 
-Note that in the phrase _dès que_, _que_ is considered as a marker by **UD_French-Spoken** (and not analyzed with [fixed]() as it may be done in other corpora of the French treebank). _dès_ is thus analyzed as a preposition, dependent of the finite verb of the clause. The fact that the clause following the _dès_ can commute with a simple nominal phrase justifies this analysis. For instance, in the following example, _que son mari est arrivé_ (in _dès que son mari est arrivé_) can commute with _son arrivée_ (_dès son arrivée_).
+Note that in the phrase _dès que_, _que_ is considered as a marker by **UD_French-Spoken** (and not analyzed with [fixed]() as it may be done in other corpora of the French treebank).
+_dès_ is thus analyzed as a preposition, dependent of the finite verb of the clause.
+The fact that the clause following the _dès_ can commute with a simple nominal phrase justifies this analysis.
+For instance, in the following example, _que son mari est arrivé_ (in _dès que son mari est arrivé_) can commute with _son arrivée_ (_dès son arrivée_).
 
 ~~~ sdparse
 Muriel a quitté la pièce dès que son mari est arrivé . \n Muriel left the room as soon as her husband arrived.

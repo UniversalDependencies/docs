@@ -5,7 +5,7 @@ shortdef: 'direct object'
 udver: '2'
 ---
 
-A direct object is a nominal which is the (accusative) object of the verbal predicate. 
+A direct object is a nominal which is the (accusative) object of the verbal predicate.
 
 ~~~ sdparse
 Il mange un sandwich . \n He eats a sandwich .
@@ -31,7 +31,7 @@ se souvenir \n to remember
 obj(souvenir, se)
 ~~~
 
-**UD_French-Spoken** also uses the `obj` relation :
+**UD_French-Spoken** also uses the `obj` relation:
 
 ~~~ sdparse
 on voit une jeune fille habillée en noir \n we see a young girl dressed in black

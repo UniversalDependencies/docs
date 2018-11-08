@@ -5,7 +5,7 @@ shortdef: 'parataxis insert'
 udver: '2'
 ---
 
-In **UD_French-Spoken**, the `parataxis:insert` relation is used for parenthetical clauses which could not be considered as independent sentences, since they are not saturated. 
+In **UD_French-Spoken**, the `parataxis:insert` relation is used for parenthetical clauses which could not be considered as independent sentences, since they are not saturated.
 In French such clauses can usually be found in formal writings (news, tales etc.). They are also typically caracterized by an inversion of the subject.
 
 N.B.: When the parenthetical clause is saturated, the [parataxis:parenth]() relation is more appropriate.
@@ -13,7 +13,7 @@ N.B.: When the parenthetical clause is saturated, the [parataxis:parenth]() rela
 ~~~ sdparse
 Demain, déclara gravement Mathilde, il faudra partir dès l'aube. \n Tommorow, Mathilde declared gravely, we must leave at dawn.
 parataxis:insert(faudra, déclara)
-~~~ 
+~~~
 
 Here is an example from **UD_French-Spoken**:
 

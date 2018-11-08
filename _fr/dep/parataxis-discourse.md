@@ -12,7 +12,7 @@ For other discourse elements such as interjections we use the standard [discours
 ~~~ sdparse
 Il aurait fallu tourner à droite, tu penses pas ? \n We should have turned left, don't you think?
 parataxis:discourse(fallu, penses)
-~~~ 
+~~~
 
 Here is an example from **UD_French-Spoken**:
 

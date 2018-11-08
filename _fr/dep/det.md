@@ -5,7 +5,7 @@ shortdef: 'determiner'
 udver: '2'
 ---
 
-A determiner is the relation between the head of a nominal phrase and its determiner. 
+A determiner is the relation between the head of a nominal phrase and its determiner.
 
 ~~~ sdparse
 Les fleurs sont magnifiques \n The flowers are beautiful
@@ -32,12 +32,10 @@ Mon ami  \n My friend
 nmod:poss(ami, Mon)
 ~~~
 
-However **UD_French-Spoken** annotates possessive determiners with a `det` relation and does not use the `nmod:poss` relation.
+All French corpora annotates possessive determiners with a `det` relation and does not use the `nmod:poss` relation, exept **UD_French-PUD**.
 
 ~~~ sdparse
 nous allons vous prouver l' efficacité de notre boule magique \n we will show you the efficiency of our magic ball
 det(boule,notre)
 det(efficacité,l')
 ~~~
-
-N.B.: The [det:complex]() relation is used to analyze complex determiners.

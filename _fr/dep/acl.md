@@ -53,4 +53,4 @@ acl(chance,avoir)
 mark(avoir,d')
 ~~~
 
-N.B.: For cleft sentences FrenchSpoken uses a subrelation of `acl` : the `acl:cleft` relation.
+N.B.: For cleft sentences **UD_French-Spoken** uses a subrelation of `acl`: the `acl:cleft` relation.

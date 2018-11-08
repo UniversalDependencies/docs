@@ -5,8 +5,8 @@ shortdef : 'goes with'
 udver: '2'
 ---
 
-This relation links two parts of a word that are separated in text
-that is not well edited, or due to tokenization errors. The head is in some sense the *main* part.
+This relation links two parts of a word that are separated in text that is not well edited, or due to tokenization errors.
+The head is in some sense the *main* part.
 
 This relation is rarely used in the French treebank.
 

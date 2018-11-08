@@ -12,7 +12,7 @@ Il m' envoie une lettre . \n He sends me a letter .
 iobj(envoie, m')
 ~~~
 
-The `iobj`relation is also used for pronouns in prononimal verbs which are indirect objects:
+The `iobj` relation is also used for pronouns in prononimal verbs which are indirect objects:
 
 ~~~ sdparse
 Il se parle tout haut. \n He speaks to himself out loud .

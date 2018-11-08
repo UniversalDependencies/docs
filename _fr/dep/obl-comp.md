@@ -7,7 +7,7 @@ udver: '2'
 
 **UD_French-Spoken** uses the `obl:comp` relation for core dependents of a verb (or an adjective), which are introduced by a preposition.
 
-Here is an example from **UD_French-Spoken** :
+Here is an example from **UD_French-Spoken**:
 
 ~~~ sdparse
 vous sortez euh de la euh commune de Pontamafrey \n you go out uh of the uh municipality of Pontamafrey
