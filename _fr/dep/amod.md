@@ -12,9 +12,9 @@ Marc boit du vin rouge \n Marc drinks red wine
 amod(vin, rouge)
 ~~~
 
-Here are a few examples from FrenchSpoken:
+Here are a few examples from **UD_French-Spoken**:
 
-~~~ sdparse 
+~~~ sdparse
 ah moi je suis une fille extrêmement pudique \n well I'm an extremely modest girl
 amod(fille, pudique)
 ~~~
@@ -22,4 +22,4 @@ amod(fille, pudique)
 ~~~ sdparse
 on vit vraiment dans un petit microcosme \n we truly live in a small microcosm
 amod(microcosme, petit)
-~~~ 
+~~~

@@ -15,7 +15,7 @@ Ils sont partis aujourd' hui  \n They left today
 goeswith(aujourd', hui)
 ~~~
 
-For some constructions using hyphens, FrenchSpoken uses the `goeswith` relation:
+For some constructions using hyphens, **UD_French-Spoken** uses the `goeswith` relation:
 
 ~~~ sdparse
 A - t - il mangé la dernière part de gâteau ? \n Did he eat the last slice of cake?
@@ -24,4 +24,4 @@ goeswith(--2,--4)
 goeswith(--2,il-5)
 ~~~
 
-For more details see the [tokenization page](http://universaldependencies.org/fr/overview/tokenization.html).
+For more details see the [tokenization page](http://universaldependencies.org/fr/tokenization.html).

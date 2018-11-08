@@ -5,9 +5,9 @@ shortdef: 'adverbial clause modifier'
 udver: '2'
 ---
 
-An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.),
-as a modifier not as a core complement. This includes things such as a temporal clause, consequence, conditional clause, purpose
-clause, etc. The dependent must be clausal (or else it is an [advmod]()) and the dependent is the main predicate of the clause.
+An adverbial clause modifier is a clause which modifies a verb or other predicate (adjective, etc.), as a modifier not as a core complement.
+This includes things such as a temporal clause, consequence, conditional clause, purpose clause, etc.
+The dependent must be clausal (or else it is an [advmod]()) and the dependent is the main predicate of the clause.
 
 ~~~ sdparse
 L'accident s'est produit quand il faisait noir \n The accident happened when it was dark
@@ -19,7 +19,7 @@ Il faut venir tôt pour avoir de la place \n One needs to get there early to hav
 advcl(venir, avoir)
 ~~~
 
-FrenchSpoken also uses the `advcl`relation. Here are some examples:
+**UD_French-Spoken** also uses the `advcl`relation. Here are some examples:
 
 ~~~ sdparse
 ils ont fait médecine parce que euh ça va être un métier stable \n they studied medecine because uh it's gonna be a steady job
@@ -27,8 +27,8 @@ advcl(fait, va)
 ~~~
 
 ~~~ sdparse
-ça donne un aspect plus moderne quand même si tu mets le tissu tout autour \n it gives a more modern look if you put the fabric all around 
+ça donne un aspect plus moderne quand même si tu mets le tissu tout autour \n it gives a more modern look if you put the fabric all around
 advcl(donne, mets)
 ~~~
 
-However FrenchSpoken uses another subrelation [advcl:periph]() for averbial clause modifiers that cannot be clefted. 
+However **UD_French-Spoken** uses another subrelation [advcl:periph]() for averbial clause modifiers that cannot be clefted.

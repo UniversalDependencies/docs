@@ -5,9 +5,9 @@ shortdef: 'oblique modifier'
 udver: '2'
 ---
 
-FrenchSpoken uses  the `obl:mod` relation for nominal adjuncts. They can be (but are not always) introduced by a preposition.
+**UD_French-Spoken** uses  the `obl:mod` relation for nominal adjuncts. They can be (but are not always) introduced by a preposition.
 
-Here is an example from FrenchSpoken :
+Here is an example from **UD_French-Spoken** :
 
 ~~~ sdparse
 oui oui je prends le métro le matin à huit heures et demie \n yes i take the underground in the morning at eight thirty

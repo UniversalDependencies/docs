@@ -18,6 +18,6 @@ punct(pleut, ,)
 punct(mouillé, .)
 ~~~
 
-Since the FrenchSpoken corpus is an oral corpus, there are no punctuation signs (apart from hyphens in certain words or constructions).
+Since the **UD_French-Spoken** corpus is an oral corpus, there are no punctuation signs (apart from hyphens in certain words or constructions).
 
-N.B.: In FrenchSpoken some constructions containing hyphens are annotated with the [goeswith]() relation. See the [tokenization](http://universaldependencies.org/fr/overview/tokenization.html) page.
+N.B.: In **UD_French-Spoken** some constructions containing hyphens are annotated with the [goeswith]() relation. See the [tokenization](http://universaldependencies.org/fr/tokenization.html) page.

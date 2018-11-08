@@ -15,11 +15,11 @@ parataxis:obj(dit, dois)
 In the previous example, we can see that _Ma mère m'a dit_ cannot constitute a core sentence without the phrase _tu dois ranger ta chambre_. 
 This clearly shows that _tu dois ranger ta chambre_ is an object of _dit_, that is why the `parataxis:obj` relation is used.
 
-Here is an example from FrenchSpoken:
+Here is an example from **UD_French-Spoken**:
 
 ~~~ sdparse
 on m'a dit tu as l'antenne un mois \n they told me you have the antenna for one month
 parataxis:obj(dit, as)
 ~~~
 
-There are five more subrelations that FrenchSpoken uses: [parataxis:discourse](), [parataxis:dislocated](), [parataxis:insert](), [parataxis:parenth]() and [parataxis:conj]().
+There are five more subrelations that **UD_French-Spoken** uses: [parataxis:discourse](), [parataxis:dislocated](), [parataxis:insert](), [parataxis:parenth]() and [parataxis:conj]().

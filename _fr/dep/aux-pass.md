@@ -20,5 +20,3 @@ Kennedy a été assassiné \n Kennedy has been murdered
 aux:pass(assassiné, été)
 aux(assassiné, a)
 ~~~
-
-Currently FrenchSpoken does not use the `aux:pass` relation.

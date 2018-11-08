@@ -5,7 +5,8 @@ shortdef: 'nominal subject'
 udver: '2'
 ---
 
-The dependency type `nsubj` marks nominal subjects of a clause. Subjects are direct dependents of the main predicate of the clause, which may be a verb, noun or adjective.
+The dependency type `nsubj` marks nominal subjects of a clause.
+Subjects are direct dependents of the main predicate of the clause, which may be a verb, noun or adjective.
 
 ~~~ sdparse
 Le plus jeune participant a gagné la course . \n The youngest participant won the race .
@@ -22,7 +23,7 @@ Maman est une bonne cuisinière . \n Mom is a good cook .
 nsubj(cuisinière, Maman)
 ~~~
 
-Here are some examples from FrenchSpoken with the `nsubj` relation :
+Here are some examples from **UD_French-Spoken** with the `nsubj` relation:
 
 ~~~ sdparse
 je peux pas vous dire \n I can't tell you

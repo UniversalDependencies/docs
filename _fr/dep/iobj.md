@@ -19,7 +19,7 @@ Il se parle tout haut. \n He speaks to himself out loud .
 iobj(parle, se)
 ~~~
 
-FrenchSpoken also uses the `iobj` relation for a nominal which corresponds to a dative objects i.e. a nominal that is a core argument of the verb but is not its subject or (direct) object.
+**UD_French-Spoken** also uses the `iobj` relation for a nominal which corresponds to a dative objects i.e. a nominal that is a core argument of the verb but is not its subject or (direct) object.
 
 ~~~ sdparse
 Nous vous conseillons ce charmant petit restaurant. \n We recommend you this lovely restaurant.
@@ -34,7 +34,7 @@ obl(envoie, présidente)
 case(présidente, à)
 ~~~
 
-However FrenchSpoken does not and uses an [obl:comp]() relation instead:
+However **UD_French-Spoken** does not and uses an [obl:comp]() relation instead:
 
 ~~~ sdparse
 Il envoie la lettre à la présidente . \n He sends the letter to the president .

@@ -5,8 +5,7 @@ shortdef: 'adverbial modifier'
 udver: '2'
 ---
 
-An adverbial modifier of a word is a (non-clausal) adverb or adverbial
-phrase that serves to modify the meaning of the word.
+An adverbial modifier of a word is a (non-clausal) adverb or adverbial phrase that serves to modify the meaning of the word.
 
 ~~~ sdparse
 Ca devrait être fortement souligné \n It should be strongly emphasised
@@ -23,7 +22,7 @@ le jour le plus long \n the longest day
 advmod(long, plus)
 ~~~
 
-FrenchSpoken uses the `advmod` relation, here are a few examples:
+**UD_French-Spoken** uses the `advmod` relation, here are a few examples:
 
 ~~~ sdparse
 je connaissais très bien Marc Allégret \n I knew Marc Allégret very well
@@ -37,4 +36,4 @@ advmod(agréable, très)
 advmod(agréable, vraiment)
 ~~~
 
-For adverbial modifiers which are not governed by their heads, FrenchSpoken uses the [advmod:periph]() relation.
+For adverbial modifiers which are not governed by their heads, **UD_French-Spoken** uses the [advmod:periph]() relation.

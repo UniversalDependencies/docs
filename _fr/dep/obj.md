@@ -31,7 +31,7 @@ se souvenir \n to remember
 obj(souvenir, se)
 ~~~
 
-FrenchSpoken also uses the `obj` relation :
+**UD_French-Spoken** also uses the `obj` relation :
 
 ~~~ sdparse
 on voit une jeune fille habillée en noir \n we see a young girl dressed in black

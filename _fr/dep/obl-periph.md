@@ -5,7 +5,7 @@ shortdef: 'peripheral oblique nominal'
 udver: '2'
 ---
 
-FrenchSpoken uses  the `obl:periph` relation for nominals which are not required by the verb. 
+**UD_French-Spoken** uses  the `obl:periph` relation for nominals which are not required by the verb. 
 The specificity of an `obl:periph`, compared to an [obl:mod](), is that the `obl:periph` nominal cannot be clefted. In addition, the `obl:periph` nominal cannot be moved inside the core of the sentence, unless it is put in parenthesis.
 
 ~~~ sdparse
@@ -13,7 +13,7 @@ A mon avis , Pierre devrait rester là. \n In my opinion, Pierre should stay the
 obl:periph(devrait, avis)
 ~~~
 
-Example from FrenchSpoken :
+Example from **UD_French-Spoken** :
 
 ~~~ sdparse
 pour l' Indépendant du midi c'est la gifle \n

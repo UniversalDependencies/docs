@@ -5,8 +5,8 @@ shortdef: 'overridden disfluency'
 udver: '2'
 ---
 
-The `reparandum` relation is used to indicate disfluencies overridden in a speech
-repair. The disfluency is the dependent of the repair.
+The `reparandum` relation is used to indicate disfluencies overridden in a speech repair.
+The disfluency is the dependent of the repair.
 
 Currently this construction is not annotated in the French treebank (but there are probably no attested uses).
 
@@ -17,4 +17,4 @@ reparandum(gauche, droi-)
 case(droi-, à-2)
 ~~~
 
-For disfluences and reformulations FrenchSpoken uses the [conj:dicto]() relation instead of the `reparandum` relation.
+For disfluences and reformulations **UD_French-Spoken** uses the [conj:dicto]() relation instead of the `reparandum` relation.

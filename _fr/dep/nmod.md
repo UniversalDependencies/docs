@@ -19,7 +19,7 @@ nmod(soin, enfants)
 case(enfants, de)
 ~~~
 
-Here are some examples from FrenchSpoken:
+Here are some examples from **UD_French-Spoken**:
 
 ~~~ sdparse
 il est à l' opéra de Vienne \n he is at the opera of Vienna
@@ -33,4 +33,4 @@ nmod(tour,monde)
 case(monde,du)
 ~~~ 
 
-N.B.: Apart from the usual `nmod` relation, FrenchSpoken also uses the [nmod:appos]() relation for nominal modifiers which are not introduced by a preposition.
+N.B.: Apart from the usual `nmod` relation, **UD_French-Spoken** also uses the [appos:nmod]() relation for nominal modifiers which are not introduced by a preposition.

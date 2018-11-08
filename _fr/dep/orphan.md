@@ -6,7 +6,8 @@ shortdef: 'remnant in ellipsis'
 udver: '2'
 ---
 
-The `orphan` relation is used to analyze cases of ellipsis where there is no function word that can be promoted to take the place of the elided content word. For a full discussion of its use, see the universal dependency description ([u-dep/orphan]()).
+The `orphan` relation is used to analyze cases of ellipsis where there is no function word that can be promoted to take the place of the elided content word.
+For a full discussion of its use, see the universal dependency description ([u-dep/orphan]()).
 
 Currently this construction is not correctly annotated in the French treebank.
 
@@ -20,5 +21,3 @@ orphan(Marie-1, Miriam-7)
 case(Prague-9, à-8)
 orphan(Paris-5, Prague-9)
 ~~~
-
-Currently the `orphan` relation is not used in FrenchSpoken.

@@ -5,8 +5,10 @@ shortdef: 'copula'
 udver: '2'
 ---
 
-A copula is the relation between the complement of a copular verb and
-the copular verb. Copular heads are avoided when possible. For more on the `cop` relation, see the universal dependency description ([u-dep/cop]())
+A copula is the relation between the complement of a copular verb and the copular verb.
+Copular heads are avoided when possible.
+In French, only the verb _être_ appears as a copula.
+For more on the `cop` relation, see the universal dependency description ([u-dep/cop]())
 
 ~~~ sdparse
 Bill est un homme honnête \n Bill is an honest man
@@ -16,19 +18,10 @@ amod(homme, honnête)
 det(homme, un)
 ~~~
 
-The `cop` relation can be found in FrenchSpoken:
+The `cop` relation can be found in **UD_French-Spoken**:
 
 ~~~ sdparse
 c' est une jeune fille pauvre \n it's a poor girl
 cop(fille,est)
 nsubj(fille,c')
-~~~ 
-
-In some corpora of the current French treebank, the following verbs are treated as copular ones: _être_, _devenir_, _rester_, _demeurer_, as well as in some constructions _appeler_, _intituler_, _nommer_, _réputer_, _élir_
-However note that not all corpora of the French treebank treat the same verbs as copulas. For example, FrenchSpoken annotates _devenir_ like a regular verb.
-
-~~~ sdparse
-il devient le sherpa du président \n he becomes the president's sherpa
-nsubj(devient,il)
-obj(devient,sherpa)
 ~~~

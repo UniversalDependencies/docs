@@ -6,24 +6,15 @@ shortdef: 'name'
 udver: '2'
 ---
 
-The `flat` relation is one of the three relations for MWE in UD (together
-with [compound]() and [fixed]()).
-It is used for proper nouns constituted of multiple nominal
-elements. For example, `flat` would be used between the words of
-_Hillary Rodham Clinton, New York,_ or _Carl XVI Gustaf_ but not to
-replace the usual relations in a phrasal or clausal name like _The
-king of Belgium_ or the novels _The Lord of the Rings_ and _Captured By
-Aliens._
+The `flat` relation is one of the three relations for MWE in UD (together with [compound]() and [fixed]()).
+It is used for proper nouns constituted of multiple nominal elements.
+For example, `flat` would be used between the words of _Hillary Rodham Clinton, New York,_ or _Carl XVI Gustaf_ but not to replace the usual relations in a phrasal or clausal name like _The king of Belgium_ or the novels _The Lord of the Rings_ and _Captured By Aliens_.
 
 Words joined by `flat` should all be part of a minimal noun phrase;
-otherwise regular syntactic relations should be used.  This is
-basically similar to the treatment of noun compounds with
-[compound](), except that in many cases parts of the name may be
-another nominal element such as an adjective _(United Airlines)._
+otherwise regular syntactic relations should be used.
+This is basically similar to the treatment of noun compounds with [compound](), except that in many cases parts of the name may be another nominal element such as an adjective _(United Airlines)_.
 
-In general, names are annotated in a flat, head-initial structure, in
-which all words in the name modify the head using the `flat`
-label.
+In general, names are annotated in a flat, head-initial structure, in which all words in the name modify the head using the `flat` label.
 
 ~~~ sdparse
 Cervélo Test Team
@@ -41,4 +32,4 @@ det(Belle, La)
 det(Bête, la)
 ~~~
 
-FrenchSpoken uses [nmod:appos]() instead of `flat`.
+**UD_French-Spoken** uses [appos:nmod]() instead of `flat`.

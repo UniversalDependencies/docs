@@ -5,7 +5,8 @@ shortdef: 'compound'
 udver: '2'
 ---
 
-The `compound` relation is one of three relations for multiword expressions (MWEs) (the other two being [fixed]() and [flat]()). It is used for noun compounds like the following:
+The `compound` relation is one of three relations for multiword expressions (MWEs) (the other two being [fixed]() and [flat]()).
+It is rarely used in French corpora and not used at all in **UD_French-FTB** and in **UD_French-Sequoia**.
 
 ~~~ sdparse
 ambiance chalet \n
@@ -17,7 +18,7 @@ début décembre  \n beginning (of) December
 compound(début, décembre)
 ~~~
 
-Here are some examples from FrenchSpoken:
+Here are some examples from **UD_French-Spoken**:
 
 ~~~ sdparse
 alors vote sanction ou pas \n so sanction vote or not
@@ -34,5 +35,5 @@ elle voit le garçon pâtissier \n she can see the young pastry chef
 compound(garçon,pâtissier)
 ~~~
 
-N.B.: noun compounds must not be confused with apposed nominal modifiers, which are annotated with the [nmod:appos]() relation in the FrenchSpoken corpus.
+N.B.: noun compounds must not be confused with apposed nominal modifiers, which are annotated with the [appos:nmod]() relation in the **UD_French-Spoken** corpus.
 

@@ -5,7 +5,8 @@ shortdef: 'cleft adverbial clause modifier'
 udver: '2'
 ---
 
-FrenchSpoken uses the `advcl:cleft` relation to link the clefted element and the clause of the cleft sentence.
+The `advcl:cleft` relation is used in two corpora (**UD_French-Spoken** and **UD_French-GSD**).
+It is used to link the clefted element and the clause of the cleft sentence.
 This link is used for every type of cleft element (nominal phrase, prepositional phrase etc.).
 
 ~~~ sdparse
@@ -15,14 +16,13 @@ advcl:cleft(vigneron, dit)
 nsubj(dit, qui)
 ~~~
 
-
 ~~~ sdparse
 Il y a Marie qui danse dans la pièce. \n Marie dances in the room.
 nsubj(a,Il)
 advmod(a,y)
 obj(a,Marie)
 advcl:cleft(Marie,danse)
-~~~ 
+~~~
 
 
 ~~~ sdparse
@@ -30,13 +30,13 @@ J' ai le mari de ma voisine qui est réparateur de voiture. \n I've got a neighb
 nsubj(ai,J')
 obj(ai,mari)
 advcl:cleft(mari,réparateur)
-~~~ 
+~~~
 
 ~~~ sdparse
 Juliette n'est pas ma confidente. C' est à Camille que je raconte tout. \n Juliette isn't my confidante. I tell everything to Camille.
 advcl:cleft(Camille,raconte)
 nsubj:expl(Camille,C')
-~~~ 
+~~~
 
 ~~~ sdparse
 Il y a longtemps que j' habite ici. \n I've lived here for a long time.
@@ -50,4 +50,4 @@ obj(a,longtemps)
 Nager avec les dauphins ne me fait pas rêver. C' est explorer la forêt tropicale qui m' intéresse. \n Swimming with the dolphins isn't my dream. It's exploring the rainforest that interests me.
 advcl:cleft(explorer, intéresse.)
 nsubj:expl(explorer,C')
-~~~ 
+~~~

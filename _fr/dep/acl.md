@@ -5,14 +5,15 @@ shortdef: 'clausal modifier of noun'
 udver: '2'
 ---
 
-`acl` is used for finite and non-finite clauses that modify a noun, including cases of secondary predication. 
+`acl` is used for finite and non-finite clauses that modify a noun, including cases of secondary predication.
 Note that in French relative clauses get assigned a specific relation [acl:relcl](), a subtype of `acl`.
 
-Non-relative clausal dependents of nouns are limited to complement clauses with a subset of nouns like *fait (fact)*.  We analyze them as `acl` (parallel to the analysis of this class as "content clauses" in Huddleston and Pullum 2002).
+Non-relative clausal dependents of nouns are limited to complement clauses with a subset of nouns like *fait (fact)*.
+We analyze them as `acl` (parallel to the analysis of this class as "content clauses" in Huddleston and Pullum 2002).
 
 ~~~ sdparse
 Comment est-ce que cela peut être réconcilié avec le fait que beaucoup de mariages cassent ? \n How can that be reconciled with the fact that many marriages break up?
-acl(fait, cassent) 
+acl(fait, cassent)
 ~~~
 
 ~~~ sdparse
@@ -33,12 +34,12 @@ Il quitta la pièce pleurant . \n He left the room crying .
 acl(Il, pleurant)
 ~~~
 
-FrenchSpoken also uses the `acl` relation: 
+Some examples od the the `acl` relation in **UD_French-Spoken**:
 
 ~~~ sdparse
 on va donc avoir nos regards braqués sur l'hémisphère sud \n so we will be focused on the southern hemisphere
 acl(regards, braqués)
-~~~ 
+~~~
 
 ~~~ sdparse
 la difficulté à vivre \n a difficulty to live with

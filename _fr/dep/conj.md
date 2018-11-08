@@ -20,6 +20,6 @@ conj(hésitation, inattention)
 conj(hésitation, retard)
 ~~~
 
-FrenchSpoken does not use the simple `conj` relation. Three different subrelations are used instead: [conj:appos](), [conj:coord]() and [conj:dicto]().
+**UD_French-Spoken** does not use the simple `conj` relation. Three different subrelations are used instead: [appos:conj](), [conj:coord]() and [conj:dicto]().
 
 

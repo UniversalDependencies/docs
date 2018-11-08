@@ -18,7 +18,7 @@ Bref , une occasion à ne pas laisser passer \n In short, an opportunity that sh
 discourse(occasion, Bref)
 ~~~
 
-FrenchSpoken also uses the `discourse` relation. Here are some examples:
+**UD_French-Spoken** also uses the `discourse` relation. Here are some examples:
 
 ~~~ sdparse
 je traverse euh face à la euh MDE \n I cross the road uh in front of the uh MDE
@@ -31,4 +31,4 @@ bah ça parait normal \n well it looks ok
 discourse(parait,bah)
 ~~~
 
-N.B.: FrenchSpoken uses the [parataxis:discourse]() relation for sentential discourse markers.
+N.B.: **UD_French-Spoken** uses the [parataxis:discourse]() relation for sentential discourse markers.

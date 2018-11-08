@@ -5,7 +5,7 @@ shortdef: 'relative clause modifier'
 udver: '2'
 ---
 
-The `acl:relcl` relation is used for relative clauses modifying
+The `acl:relcl` relation is used in all French corpora for relative clauses modifying
 a nominal. The relation points from the head of the nominal to the
 head of the relative clause.
 
@@ -16,10 +16,10 @@ nsubj(aime, qui)
 dobj(aime, t')
 ~~~
 
-FrenchSpoken also uses the `acl:relcl` relation:
+Some examples from **UD_French-Spoken**:
 
 ~~~ sdparse
-j'ai eu envie d' être un intellectuel qui marque son temps \n I wanted to be an intellectual who marks his time 
+j'ai eu envie d' être un intellectuel qui marque son temps \n I wanted to be an intellectual who marks his time
 acl:relcl(intellectuel, marque)
 nsubj(marque, qui)
 ~~~
@@ -30,4 +30,4 @@ acl:relcl(enseignants,souvenez)
 obl:comp(souvenez,dont)
 ~~~
 
-N.B.: For cleft sentences, FrenchSpoken uses the [advcl:cleft]() subrelation.
+N.B.: For cleft sentences, two corpora use the [advcl:cleft]() subrelation.

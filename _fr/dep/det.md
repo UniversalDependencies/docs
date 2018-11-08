@@ -17,7 +17,7 @@ Quel livre préfères-tu ? \n Which book do you prefer ?
 det(livre, Quel)
 ~~~
 
-The `det` relation is also used by FrenchSpoken:
+The `det` relation is also used by **UD_French-Spoken**:
 
 ~~~ sdparse
 donc la vigilance sera accrue à ce moment -là \n so there will be increased vigilance at that time
@@ -32,7 +32,7 @@ Mon ami  \n My friend
 nmod:poss(ami, Mon)
 ~~~
 
-However FrenchSpoken annotates possessive determiners with a `det` relation and does not use the `nmod:poss` relation.
+However **UD_French-Spoken** annotates possessive determiners with a `det` relation and does not use the `nmod:poss` relation.
 
 ~~~ sdparse
 nous allons vous prouver l' efficacité de notre boule magique \n we will show you the efficiency of our magic ball
