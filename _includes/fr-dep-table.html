@@ -41,7 +41,7 @@
 	    <td>↳<a>nsubj:caus</a></td>
 	  </tr>
 	  <tr>
-	    <td>↳<a>nsubj:expl</a></td>
+	    <td>↳<a>nsubj:expl</a> [Spo]</td>
 	  </tr>
 	  <tr>
 	    <td>↳<a>nsubj:pass</a></td>
@@ -49,11 +49,14 @@
 	  <tr>
 	    <td>↳<a>nsubj:quasi</a></td>
 	  </tr>
-          <tr>
+    <tr>
 	    <td><a>obj</a></td>
 	  </tr>
-   	  <tr>
+    <tr>
 	    <td>↳<a>obj:agent</a></td>
+	  </tr>
+    <tr>
+	    <td>↳<a>obj:lvc</a> [GSD]</td>
 	  </tr>
 	  <tr>
 	    <td><a>iobj</a></td>
@@ -61,10 +64,7 @@
  	  <tr>
 	    <td>↳<a>iobj:agent</a></td>
 	  </tr>
-	  <tr>
-		<td><a>obl:comp</a></td>
-	  </tr>
-        </table>
+  </table>
       </td>
       <td>
 	<table class="category">
@@ -101,20 +101,32 @@
 	  <tr>
 	    <td><a>obl</a></td>
 	  </tr>
-   	  <tr>
+   	<tr>
 	    <td>↳<a>obl:agent</a></td>
 	  </tr>
-	  <tr>
-	  <td>↳<a>obl:mod</a></td>
+   	<tr>
+	    <td>↳<a>obl:arg</a></td>
 	  </tr>
 	  <tr>
-	  <td>↳<a>obl:periph</a></td>
+		  <td>↳<a>obl:comp</a> [Spo]</td>
+	  </tr>
+	  <tr>
+	    <td>↳<a>obl:mod</a></td>
+	  </tr>
+	  <tr>
+	    <td>↳<a>obl:periph</a> [Spo]</td>
+	  </tr>
+	  <tr>
+	    <td>↳<a>obl:tmod</a> [PUD]</td>
 	  </tr>
 	  <tr>
 	    <td><a>vocative</a></td>
 	  </tr>
 	  <tr>
 	    <td><a>expl</a></td>
+	  </tr>
+	  <tr>
+	    <td>↳<a>expl:pass</a> [GSD]</td>
 	  </tr>
 	  <tr>
 	    <td><a>dislocated</a></td>
@@ -133,7 +145,7 @@
 	    <td>↳<a>advcl:cleft</a></td>
 	  </tr>
 	  <tr>
-	    <td>↳<a>advcl:periph</a></td>
+	    <td>↳<a>advcl:periph</a> [Spo]</td>
 	  </tr>
         </table>
       </td>
@@ -143,7 +155,7 @@
 	    <td><a>advmod</a></td>
 	  </tr>
 	  <tr>
-	    <td>↳<a>advmod:periph</a></td>
+	    <td>↳<a>advmod:periph</a> [Spo]</td>
 	  </tr>
 	  <tr>
 	    <td><a>discourse</a></td>
@@ -182,10 +194,16 @@
 	    <td><a>nmod</a></td>
 	  </tr>
 	  <tr>
-	  <td>↳<a>nmod:appos</a></td>
+	  <td>↳<a>nmod:poss</a> [PUD]</td>
 	  </tr>
 	  <tr>
 	    <td><a>appos</a></td>
+	  </tr>
+	  <tr>
+	    <td>↳<a>appos:conj</a> [Spo]</td>
+	  </tr>
+	  <tr>
+	    <td>↳<a>appos:nmod</a> [Spo]</td>
 	  </tr>
 	  <tr>
 	    <td><a>nummod</a></td>
@@ -215,15 +233,12 @@
 	    <td><a>det</a></td>
 	  </tr>
  	  <tr>
-	    <td>↳<a>det:complex</a></td>
+	    <td>↳<a>det:predet</a> [PUD]</td>
 	  </tr>
 	  <tr>
 	    <td><a>case</a></td>
 	  </tr>
- 	  <tr>
-	    <td>↳<a>case:complex</a></td>
-	  </tr>
-        </table>
+  </table>
       </td>
   </tr>
   <tr style="background-color:cornflowerblue">
@@ -260,13 +275,10 @@
 	    <td><a>conj</a></td>
 	  </tr>
 	  <tr>
-	  <td>↳<a>conj:appos</a></td>
+	  <td>↳<a>conj:coord</a> [Spo]</td>
 	  </tr>
 	  <tr>
-	  <td>↳<a>conj:coord</a></td>
-	  </tr>
-	  <tr>
-	  <td>↳<a>conj:dicto</a></td>
+	  <td>↳<a>conj:dicto</a> [Spo]</td>
 	  </tr>
 	  <tr>
 	    <td><a>cc</a></td>
@@ -282,6 +294,12 @@
 	  <td><a>flat</a></td>
 	</tr>
 	<tr>
+	  <td>↳<a>flat:foreign</a></td>
+	</tr>
+	<tr>
+	  <td>↳<a>flat:name</a></td>
+	</tr>
+	<tr>
 	  <td><a>compound</a></td>
 	</tr>
       </table>
@@ -289,28 +307,28 @@
     <td>
       <table class="category">
 	<tr>
-	  <td><a>list</a></td>
+	  <td><a>list</a> [&#8709;]</td>
 	</tr>
 	<tr>
 	  <td><a>parataxis</a></td>
 	</tr>
 	<tr>
-	    <td>↳<a>parataxis:conj</a></td>
+	    <td>↳<a>parataxis:conj</a> [&#8709;]</td>
 	</tr>
   	<tr>
-	    <td>↳<a>parataxis:discourse</a></td>
+	    <td>↳<a>parataxis:discourse</a> [Spo]</td>
 	</tr>
   	<tr>
-	    <td>↳<a>parataxis:dislocated</a></td>
+	    <td>↳<a>parataxis:dislocated</a> [&#8709;]</td>
 	</tr>
   	<tr>
-	    <td>↳<a>parataxis:insert</a></td>
+	    <td>↳<a>parataxis:insert</a> [Spo]</td>
 	</tr>
   	<tr>
-	    <td>↳<a>parataxis:obj</a></td>
+	    <td>↳<a>parataxis:obj</a> [Spo]</td>
 	</tr>
 	<tr>
-	    <td>↳<a>parataxis:parenth</a></td>
+	    <td>↳<a>parataxis:parenth</a> [Spo]</td>
 	</tr>
       </table>
     </td>
@@ -337,6 +355,12 @@
 	</tr>
 	<tr>
 	  <td><a>dep</a></td>
+	<tr>
+	  <td>↳<a>dep:obj</a> [Spo]</td>
+	</tr>
+	<tr>
+	  <td>↳<a>dep:iobj</a> [Spo]</td>
+	</tr>
 	</tr>
       </table>
 

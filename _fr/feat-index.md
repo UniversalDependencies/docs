@@ -3,7 +3,7 @@ layout: base
 title:  'Features'
 generated: 'true'
 permalink: fr/feat/index.html
-udver: 2
+udver: '2'
 ---
 
 # Features

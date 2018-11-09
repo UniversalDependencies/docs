@@ -32,7 +32,7 @@ and [French features](feat/index.html).
 
 ### Features
 
-* TODO
+* TODO (see [French features](feat/index.html)).
 
 ---
 **Instruction**: Describe inherent and inflectional features for major word classes (at least NOUN and VERB). Describe other noteworthy features. Include links to language-specific feature definitions if any.
@@ -41,7 +41,7 @@ and [French features](feat/index.html).
 
 ## Syntax
 
-* TODO
+* TODO (see [French relations](dep/index.html)).
 
 ---
 **Instruction**: Give criteria for identifying core arguments (subjects and objects), and describe the range of copula constructions in nonverbal clauses. List all subtype relations used. Include links to language-specific relations definitions if any.

@@ -8,15 +8,18 @@ udver: '2'
 
 # Dependencies for French corpora
 
-One of the French corpora (French-Spoken) uses a large number of new relations which are not present in other corpora.
+The six French corpora do not use exactly the same set of relations.
 
-We present first the [common list](#common-list) of relations used in most Treebanks and at the end of the page, the [full list](#full-list) (including French-Spoken specific Dependencies)
+In the table below, we give the full set of French relations with an additional annotation:
 
-## Common list
+ * [∅] not used in the 2.3 versions of French corpora (3 relations)
+ * [GSD] used only in **UD_French-GSD**
+ * [PUD] used only in **UD_French-PUD**
+ * [Spo] used only in **UD_French-Spoken**
 
-{% include fr-dep-table-common.html %}
+{% include fr-dep-table.html %}
 
-## Comparison of relations in French corpora (version 2.3)
+# Stats of relations usage in the six French corpora (version 2.3)
 <!-- Table automatically generated, do not edit-->
 
 |                      |        UD_French-GSD |        UD_French-FTB |        UD_French-PUD |     UD_French-ParTUT |    UD_French-Sequoia |     UD_French-Spoken |
@@ -91,8 +94,3 @@ We present first the [common list](#common-list) of relations used in most Treeb
 |                 root |        16342 [4.08%] |        18535 [3.23%] |         1000 [4.04%] |         1020 [3.57%] |         3099 [4.39%] |         2786 [7.97%] |
 |             vocative |            8 [0.00%] |            1 [0.00%] |            1 [0.00%] |           71 [0.25%] |           53 [0.08%] |            5 [0.01%] |
 |                xcomp |         4277 [1.07%] |         8306 [1.45%] |          408 [1.65%] |          198 [0.69%] |         1060 [1.50%] |          365 [1.04%] |
-
-
-## Full list
-
-{% include fr-dep-table.html %}
