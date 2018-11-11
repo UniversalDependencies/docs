@@ -30,7 +30,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 9366 sentences, 210962 tokens and 227791 syntactic words.</li>
+      <li>This corpus contains 9365 sentences, 210960 tokens and 227794 syntactic words.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -47,7 +47,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 29567 tokens (14%) that are not followed by a space.</li>
+      <li>This corpus contains 29566 tokens (14%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -98,7 +98,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 16829 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
+      <li>This corpus contains 16834 multi-word tokens. On average, one multi-word token consists of 2.00 syntactic words.</li>
       <li>There are 743 types of multi-word tokens. Examples: do, da, no, na, dos, ao, à, das, pelo, pela, nos, às, aos, nas, num, numa, pelos, deste, pelas, desta, neste, nesta, nesse, disso, trata-se, desse, deles, destes, dele, daí, dessa, encontra-se, nessa, dela, daquela, delas, nestes, desses, nela, nestas, daqueles, dessas, destas, deve-se, naquele, recorde-se, daquele, encontram-se, naquela, nele.</li>
       </ul>
     </td>
@@ -330,7 +330,7 @@ udver: '2'
           <li>ADJ: eleito, Animado, achado, acirrada, animada, apropriados, atacados, coloridas, cotados, definidas</li>
           <li>AUX: sido, vindo, estado, acabado, agredido, ido, permitido, Acabadinho, acabados, aceite</li>
           <li>NOUN: feridos, arguido, chibatadas, classificado, colocado, colocados, culpados, envolvidos, esperado, ocorrido</li>
-          <li>PROPN: visto, dado</li>
+          <li>PROPN: visto, Dado</li>
           <li>VERB: feito, feita, feitas, dito, tido, eleito, passado, visto, aberto, considerado</li>
         </ul>
         </li>
@@ -383,8 +383,8 @@ udver: '2'
             <li>AUX-Part: convertidas, discutidas, feridas, rejeitada</li>
             <li>DET: a, as, uma, sua, esta, suas, essa, toda, outras, algumas</li>
             <li>INTJ: Obrigada, rua</li>
-            <li>NOUN: pessoas, parte, semana, empresa, empresas, forma, cidade, casa, vida, vez</li>
-            <li>NOUN-Part: chibatadas, verificada, advogada, apresentada, cochilada, compostas, destinadas, enterradas, largada, organizadas</li>
+            <li>NOUN: pessoas, parte, semana, empresa, empresas, forma, cidade, casa, vida, vezes</li>
+            <li>NOUN-Part: chibatadas, verificada, apresentada, cochilada, compostas, destinadas, enterradas, largada, organizadas, participada</li>
             <li>NUM: meia</li>
             <li>PRON: que, se, ela, a, as, elas, lhe, esta, eu, qual</li>
             <li>PROPN: Lisboa, Folha, Alemanha, França, Comissão, Espanha, Europa, Câmara, Rússia, Associação</li>
@@ -443,7 +443,7 @@ udver: '2'
             <li>PART: pós</li>
             <li>PRON: que, se, o, ele, isso, tudo, eles, lhe, os, isto</li>
             <li>PROPN: São, Portugal, Brasil, José, Governo, EUA, Rio, Estados, João, PÚBLICO</li>
-            <li>PROPN-Part: visto, dado</li>
+            <li>PROPN-Part: visto, Dado</li>
             <li>SCONJ: que, como</li>
             <li>SYM: %, US$, R$, CR$</li>
             <li>VERB: feito, eleito, aberto, considerado, ligados, realizado, acusado, divulgado, entregue, condenado</li>
@@ -604,13 +604,13 @@ udver: '2'
             <li>NOUN: presidente, ano, dia, país, tempo, grupo, governo, estado, parte, acordo</li>
             <li>NOUN-Fin: garante</li>
             <li>NOUN-Inf: Olhar, distender, fumar</li>
-            <li>NOUN-Part: arguido, classificado, colocado, esperado, ocorrido, previsto, verificada, acumulado, advogada, agredido</li>
+            <li>NOUN-Part: arguido, classificado, colocado, esperado, ocorrido, previsto, verificada, acumulado, amassado, apresentada</li>
             <li>NUM: cento, meia, 3, dúzia, 14, 2, 4, 94, um, 185/60</li>
             <li>PART: pós</li>
             <li>PRON: que, se, o, ele, isso, lhe, quem, tudo, eu, ela</li>
             <li>PRON-Ger: se</li>
             <li>PROPN: Paulo, Nacional, São, Portugal, Porto, Unidos, Brasil, José, Lisboa, Silva</li>
-            <li>PROPN-Part: visto, dado</li>
+            <li>PROPN-Part: visto, Dado</li>
             <li>PUNCT: ?</li>
             <li>SCONJ: que, como, se</li>
             <li>SYM: R$, US$</li>
@@ -1319,7 +1319,7 @@ udver: '2'
       <ul>
         <li>Dem
           <ul>
-            <li>DET: este, esta, esse, essa, estes, estas, esses, essas, aquele, o</li>
+            <li>DET: este, esta, esse, essa, estes, estas, esses, aquele, essas, o</li>
             <li>NOUN: aquele</li>
             <li>PRON: o, isso, isto, os, a, este, esta, as, mesmo, aquilo</li>
           </ul>
@@ -1928,7 +1928,7 @@ udver: '2'
           <ul>
             <li>VERB--NOUN (1)</li>
             <li>VERB--PRON (1)</li>
-            <li>VERB-Fin--NOUN (3468)</li>
+            <li>VERB-Fin--NOUN (3469)</li>
             <li>VERB-Fin--NOUN-ADP(a) (1)</li>
             <li>VERB-Fin--PRON (1702)</li>
             <li>VERB-Fin--PRON-ADP(de) (1)</li>
@@ -1994,7 +1994,7 @@ udver: '2'
             <li>VERB-Fin--NOUN-ADP(de) (3)</li>
             <li>VERB-Fin--PRON (445)</li>
             <li>VERB-Fin--PRON-Acc (335)</li>
-            <li>VERB-Fin--PRON-Dat (2)</li>
+            <li>VERB-Fin--PRON-Dat (3)</li>
             <li>VERB-Fin--PRON-Nom (3)</li>
             <li>VERB-Ger--NOUN (386)</li>
             <li>VERB-Ger--NOUN-ADP(com) (1)</li>
@@ -2055,7 +2055,7 @@ udver: '2'
             <li>VERB-Fin--NOUN-ADP(em) (1)</li>
             <li>VERB-Fin--NOUN-ADP(para) (1)</li>
             <li>VERB-Fin--PRON-Acc (7)</li>
-            <li>VERB-Fin--PRON-Dat (158)</li>
+            <li>VERB-Fin--PRON-Dat (157)</li>
             <li>VERB-Ger--PRON-Dat (8)</li>
             <li>VERB-Inf--PRON-Dat (39)</li>
             <li>VERB-Part--PRON-Dat (14)</li>

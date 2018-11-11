@@ -30,7 +30,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 4564 sentences and 79816 tokens.</li>
+      <li>This corpus contains 4564 sentences and 79811 tokens.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -47,7 +47,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 8403 tokens (11%) that are not followed by a space.</li>
+      <li>This corpus contains 8405 tokens (11%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -81,7 +81,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 234 types of words that contain both letters and punctuation. Examples: XML-dokument, ANSI-92, SQL-frågeläge, ANSI-89, kl., t.ex, rad-, EU:s, XML-data, null-värden, Access-databas, Access-projekt, Access-projektet, SQL-frågelägen, XML-fil, XP-licens, Gai-Hinnom, Server-databasen, XML-informationen, radio-, start-, 2000-filformat, Ben-Gurion, Server-databas, kategori-, pivottabell-, .xsl-fil, 2002-filformat, 72:a, Access-databaser, Access-fil, Arkiv-menyn, Bruce-Briggs, Dar-es-Salaam, Jo-Ann, RefLibPaths-nyckel, SQL-uttryck, Sha'ananim, Verktyg-menyn, Wentz', XML-baserade, XML-datadokument, XML-filer, XML-märken, XML-schemafil, XML-scheman, XML-schemastandarden, XML-syntaxen, XP-program, XSL-formatmall</li>
+      <li>This corpus contains 237 types of words that contain both letters and punctuation. Examples: XML-dokument, ANSI-92, SQL-frågeläge, ANSI-89, kl., t.ex, rad-, EU:s, XML-data, null-värden, Access-databas, Access-projekt, Access-projektet, SQL-frågelägen, XML-fil, XP-licens, Gai-Hinnom, Server-databasen, XML-informationen, radio-, start-, 2000-filformat, Ben-Gurion, Server-databas, kategori-, pivottabell-, .xsl-fil, 2002-filformat, 72:a, Access-databaser, Access-fil, Arkiv-menyn, Bruce-Briggs, Dar-es-Salaam, Jo-Ann, RefLibPaths-nyckel, SQL-uttryck, Sha'ananim, Verktyg-menyn, Wentz', XML-baserade, XML-datadokument, XML-filer, XML-märken, XML-schemafil, XML-scheman, XML-schemastandarden, XML-syntaxen, XP-program, XSL-formatmall</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -787,9 +787,10 @@ udver: '2'
             <li>AUX: höll, haft, råkar, skola</li>
             <li>DET: båda, denne, du, vad, La, de, samtliga</li>
             <li>NOUN: fält, sätt, gång, år, sidan, data, man, mr, fråga, del</li>
+            <li>NUM: U</li>
             <li>PRON: han, jag, du, de, vi, man, hon, ni, enda, lite</li>
             <li>PROPN: Harry, Quinn, Stillman, Bray, Auster, Access, Microsoft, Ron, Weasley, Mweta</li>
-            <li>VERB: beroende, närvarande, taget, förfogande, följande, gillande, gående, betydande, fantasieggande, flytande</li>
+            <li>VERB: närvarande, taget, förfogande, följande, gillande, gående, Beroende, betydande, fantasieggande, flytande</li>
           </ul>
         </li>
       </ul>
@@ -2051,15 +2052,15 @@ udver: '2'
             <li>VERB--PRON (1)</li>
             <li>VERB-Fin--NOUN (8)</li>
             <li>VERB-Fin--NOUN-Gen (1)</li>
-            <li>VERB-Fin--NOUN-Nom (1024)</li>
+            <li>VERB-Fin--NOUN-Nom (1022)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(efter) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(i) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(med) (2)</li>
-            <li>VERB-Fin--PRON (762)</li>
+            <li>VERB-Fin--PRON (761)</li>
             <li>VERB-Fin--PRON-Nom (2138)</li>
             <li>VERB-Inf--NOUN (1)</li>
-            <li>VERB-Inf--NOUN-Nom (178)</li>
-            <li>VERB-Inf--PRON (94)</li>
+            <li>VERB-Inf--NOUN-Nom (176)</li>
+            <li>VERB-Inf--PRON (93)</li>
             <li>VERB-Inf--PRON-Nom (670)</li>
             <li>VERB-Part--NOUN-Nom (8)</li>
             <li>VERB-Part--PRON (9)</li>
@@ -2106,7 +2107,7 @@ udver: '2'
             <li>VERB-Fin--NOUN (13)</li>
             <li>VERB-Fin--NOUN-Nom (2075)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(till) (1)</li>
-            <li>VERB-Fin--PRON (1024)</li>
+            <li>VERB-Fin--PRON (1023)</li>
             <li>VERB-Fin--PRON-Nom (1021)</li>
             <li>VERB-Inf--NOUN (1)</li>
             <li>VERB-Inf--NOUN-Nom (498)</li>
@@ -2127,9 +2128,9 @@ udver: '2'
         <li><a>obj</a>
           <ul>
             <li>VERB--PRON (2)</li>
-            <li>VERB-Fin--NOUN (10)</li>
+            <li>VERB-Fin--NOUN (9)</li>
             <li>VERB-Fin--NOUN-Gen (3)</li>
-            <li>VERB-Fin--NOUN-Nom (1357)</li>
+            <li>VERB-Fin--NOUN-Nom (1355)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(emot) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(om) (1)</li>
             <li>VERB-Fin--NOUN-Nom-ADP(till) (1)</li>

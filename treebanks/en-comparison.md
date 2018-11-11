@@ -58,12 +58,12 @@ udver: '2'
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 4390 sentences and 80041 tokens.</li>
+      <li>This corpus contains 4399 sentences and 80176 tokens.</li>
       </ul>
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 4564 sentences and 82821 tokens.</li>
+      <li>This corpus contains 4564 sentences and 82816 tokens.</li>
       </ul>
     </td>
     <td width="16%" valign="top">
@@ -90,7 +90,7 @@ udver: '2'
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 10524 tokens (13%) that are not followed by a space.</li>
+      <li>This corpus contains 10536 tokens (13%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="16%" valign="top">
@@ -154,12 +154,12 @@ udver: '2'
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 537 types of words that contain both letters and punctuation. Examples: 's, n't, ’s, n’t, 're, 'll, 've, U.S., L'Enfant, ’re, e.g., 'd, ’ve, pro-Beijing, ’ll, 'm, al., i.e., Naqsh-e, how-to, pan-democracy, ’d, St., etc., eye-tracking, north-south, t-shirt, Vava'u, adult-like, anti-establishment, c., e-mail, pan-democrat, re-elected, upside-down, #istandwithahmed, F-E, I-44, Mr., U.S, co-founder, east-west, eco-tourism, follow-up, s/he, to-do, well-known, ’m, Cheuk-yan, Chi-wai</li>
+      <li>This corpus contains 539 types of words that contain both letters and punctuation. Examples: 's, n't, ’s, n’t, 're, 'll, 've, U.S., L'Enfant, ’re, e.g., 'd, ’ve, pro-Beijing, ’ll, 'm, al., i.e., Naqsh-e, how-to, pan-democracy, ’d, St., etc., eye-tracking, north-south, t-shirt, Vava'u, adult-like, anti-establishment, c., e-mail, pan-democrat, re-elected, upside-down, #istandwithahmed, F-E, I-44, Mr., U.S, co-founder, east-west, eco-tourism, follow-up, s/he, to-do, well-known, ’m, Cheuk-yan, Chi-wai</li>
       </ul>
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus contains 444 types of words that contain both letters and punctuation. Examples: 's, n't, 've, 'll, 'm, 'd, 're, ANSI-92, Mr., ANSI-89, Mrs., 31-Dec-1999, 01-Jul-1999, o'clock, Gai-Hinnom, drop-down, middle-aged, well-formed, &amp;, Ben-Gurion, Hong-Kong, XML-based, by-and-by, cat-flap, custom-house, d', good-by, p.m, second-class, second-hand, .xsl, Dar-es-Salaam, Jo-Ann, No-6, Sha'ananim, St., Vice-President, a.m., anti-Semitic, case-sensitive, coup-d'etat, crew-cut, dark-green, eat-e, eight-inch, first-class, forty-eight, higher-level, house-elf, ice-creams</li>
+      <li>This corpus contains 447 types of words that contain both letters and punctuation. Examples: 's, n't, 've, 'll, 'm, 'd, 're, ANSI-92, Mr., ANSI-89, Mrs., 31-Dec-1999, 01-Jul-1999, o'clock, Gai-Hinnom, drop-down, middle-aged, well-formed, &amp;, Ben-Gurion, Hong-Kong, XML-based, by-and-by, cat-flap, custom-house, d', good-by, p.m, second-class, second-hand, .xsl, Dar-es-Salaam, Jo-Ann, No-6, Sha'ananim, St., Vice-President, a.m., anti-Semitic, case-sensitive, coup-d'etat, crew-cut, dark-green, eat-e, eight-inch, first-class, forty-eight, higher-level, house-elf, ice-creams</li>
       </ul>
     </td>
     <td width="16%" valign="top">
@@ -208,7 +208,7 @@ udver: '2'
       <h3>Tags</h3>
       
       <ul>
-      <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
+      <li>This corpus uses 17 UPOS tags out of 17 possible: <a>ADJ</a>, <a>ADP</a>, <a>ADV</a>, <a>AUX</a>, <a>CCONJ</a>, <a>DET</a>, <a>INTJ</a>, <a>NOUN</a>, <a>NUM</a>, <a>PART</a>, <a>PRON</a>, <a>PROPN</a>, <a>PUNCT</a>, <a>SCONJ</a>, <a>SYM</a>, <a>VERB</a>, <a>X</a></li>
       </ul>
     </td>
     <td width="16%" valign="top">
@@ -500,7 +500,7 @@ udver: '2'
         <li>Fin
         <ul>
           <li>AUX: is, can, was, will, are, would, should, may, were, do</li>
-          <li>VERB: have, said, are, is, has, want, think, had, was, says</li>
+          <li>VERB: have, are, said, is, has, want, think, had, was, says</li>
         </ul>
         </li>
       </ul>
@@ -671,7 +671,7 @@ udver: '2'
         <li>Part
         <ul>
           <li>AUX: been, being, having</li>
-          <li>VERB: going, using, done, come, trying, looking, made, moving, taken, used</li>
+          <li>VERB: going, using, done, come, moving, trying, looking, made, taken, used</li>
         </ul>
         </li>
       </ul>
@@ -968,7 +968,7 @@ udver: '2'
         <li>Plur
           <ul>
             <li>DET: these, those</li>
-            <li>NOUN: people, years, things, days, ants, minutes, hours, children, mice, friends</li>
+            <li>NOUN: people, years, things, days, minutes, ants, hours, children, mice, friends</li>
             <li>PRON: they, we, their, them, our, us, those, themselves, these</li>
             <li>PROPN: States, skittles, Chathams, Mets, Paralympics, Thais, Americans, Games, Netherlands, Thrones</li>
             <li>SCONJ: points</li>
@@ -1209,7 +1209,7 @@ udver: '2'
       <ul>
         <li>Nom
           <ul>
-            <li>ADJ: following, moving, loud, pale, existing, trading, calculated, Arabic, defined, dining</li>
+            <li>ADJ: following, loud, moving, pale, existing, trading, calculated, Arabic, defined, dining</li>
             <li>ADP: ago, opposite, according, in, regardless, Thanks, all, instead, prior, underneath</li>
             <li>ADV: n't, for, last, nearest, and, besides, left, p.m, within, a.m.</li>
             <li>AUX: used, want</li>
@@ -1223,7 +1223,7 @@ udver: '2'
             <li>PROPN: Access, Windows, Internet, NT, Other, Drive, Orders, Salesperson, Help, Fixed</li>
             <li>SCONJ: when, whenever, even, ever</li>
             <li>VERB: filter, group, burst, shut, edit, pleased, 'm, crossing, copying, laid</li>
-            <li>X: DB, OLE</li>
+            <li>X: DB</li>
           </ul>
         </li>
       </ul>
@@ -1618,7 +1618,9 @@ udver: '2'
   </tr>
   <tr>
     <td width="16%" valign="top">
-
+      <ul>
+        <li><a>Polarity</a></li>
+      </ul>
     </td>
     <td width="16%" valign="top">
 
@@ -1644,7 +1646,15 @@ udver: '2'
   </tr>
   <tr>
     <td width="16%" valign="top">
-
+      <ul>
+        <li>Neg
+          <ul>
+            <li>ADV: _</li>
+            <li>DET: _</li>
+            <li>PART: _</li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="16%" valign="top">
 
@@ -1835,7 +1845,7 @@ udver: '2'
         <li>Ind
           <ul>
             <li>AUX-Fin: is, was, are, were, do, has, 's, have, had, did</li>
-            <li>VERB-Fin: have, said, are, is, has, want, think, had, was, says</li>
+            <li>VERB-Fin: have, are, said, is, has, want, think, had, was, says</li>
           </ul>
         </li>
       </ul>
@@ -2037,7 +2047,7 @@ udver: '2'
             <li>AUX-Fin: is, are, have, 's, has, 've, do, 'm, 're, am</li>
             <li>AUX-Part: being, having</li>
             <li>VERB-Fin: is, do, know, are, have, 's, has, want, says, does</li>
-            <li>VERB-Part: going, using, trying, looking, moving, making, coming, talking, taking, waiting</li>
+            <li>VERB-Part: going, using, moving, trying, looking, making, coming, talking, taking, waiting</li>
           </ul>
         </li>
       </ul>
@@ -3191,7 +3201,7 @@ udver: '2'
                 <li>CCONJ: n, 'n, VS</li>
                 <li>DET: da, dat, sm</li>
                 <li>INTJ: wel</li>
-                <li>NOUN: b, c, r., syd, yrs</li>
+                <li>NOUN: luv, b, c, r., syd, yrs</li>
                 <li>PART: na, ta, 2, a</li>
                 <li>PRON: ur, any1, wht</li>
                 <li>SCONJ: b/c, 4, bc, cos, coz, cus, ig, w/out</li>
@@ -3220,7 +3230,18 @@ udver: '2'
   </tr>
   <tr>
     <td width="16%" valign="top">
-
+      <ul>
+        <li><a>Foreign</a>
+          <ul>
+            <li>Yes
+              <ul>
+                <li>NOUN: _</li>
+                <li>X: _</li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
     </td>
     <td width="16%" valign="top">
       <ul>
@@ -3280,7 +3301,7 @@ udver: '2'
               <ul>
                 <li>ADJ: accomdating, hid, particlular, wierd</li>
                 <li>ADP: then, a, and, of, aboout, abou, admidst, aground, amoung, becuse</li>
-                <li>ADV: to, a, that, their</li>
+                <li>ADV: to, a, it, that, their</li>
                 <li>AUX-Fin: woud, a, ar, as, cold, hav, hvae, made, most, my</li>
                 <li>CCONJ: an, adn, a, ad=nd, amd, ans, at, of</li>
                 <li>DET: and, teh, aa, dthat, he, ssome, te, then, ther, whhich</li>
@@ -3372,6 +3393,7 @@ udver: '2'
     <td width="16%" valign="top">
       <ul>
       <li>This corpus uses 1 lemmas as auxiliaries (<a>aux</a>). Examples: _.</li>
+      <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: _.</li>
       </ul>
     </td>
     <td width="16%" valign="top">
@@ -3388,8 +3410,8 @@ udver: '2'
     </td>
     <td width="16%" valign="top">
       <ul>
-      <li>This corpus uses 22 lemmas as auxiliaries (<a>aux</a>). Examples: be, have, do, can, will, would, could, must, should, might, may, go, get, shall, ought, use, need, Been, keep, start, suppose, want.</li>
-      <li>This corpus uses 1 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: be.</li>
+      <li>This corpus uses 22 lemmas as auxiliaries (<a>aux</a>). Examples: have, be, do, can, will, would, could, must, should, might, may, go, shall, use, get, ought, need, Been, keep, start, suppose, want.</li>
+      <li>This corpus uses 11 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: be, have, will, can, get, could, must, should, may, ought, would.</li>
       </ul>
     </td>
     <td width="16%" valign="top">
@@ -3413,9 +3435,9 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB--NOUN (1349)</li>
+            <li>VERB--NOUN (1345)</li>
             <li>VERB--NOUN-ADP(_) (4)</li>
-            <li>VERB--PRON (5889)</li>
+            <li>VERB--PRON (5886)</li>
             <li>VERB--PRON-ADP(_) (2)</li>
           </ul>
         </li>
@@ -3455,8 +3477,8 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB-Fin--NOUN (873)</li>
-            <li>VERB-Fin--PRON (267)</li>
+            <li>VERB-Fin--NOUN (876)</li>
+            <li>VERB-Fin--PRON (269)</li>
             <li>VERB-Fin--PRON-Acc (1)</li>
             <li>VERB-Fin--PRON-Nom (1095)</li>
             <li>VERB-Ger--NOUN (24)</li>
@@ -3491,14 +3513,14 @@ udver: '2'
             <li>VERB-Fin--NOUN-Nom (38)</li>
             <li>VERB-Fin--PRON (730)</li>
             <li>VERB-Fin--PRON-Nom (1491)</li>
-            <li>VERB-Inf--NOUN (175)</li>
+            <li>VERB-Inf--NOUN (173)</li>
             <li>VERB-Inf--NOUN-Nom (5)</li>
-            <li>VERB-Inf--PRON (332)</li>
+            <li>VERB-Inf--PRON (331)</li>
             <li>VERB-Inf--PRON-ADP(for) (1)</li>
             <li>VERB-Inf--PRON-Acc (10)</li>
             <li>VERB-Inf--PRON-Nom (448)</li>
             <li>VERB-Inf--PRON-Nom-ADP(for) (1)</li>
-            <li>VERB-Part--NOUN (192)</li>
+            <li>VERB-Part--NOUN (191)</li>
             <li>VERB-Part--NOUN-Nom (12)</li>
             <li>VERB-Part--PRON (125)</li>
             <li>VERB-Part--PRON-Acc (3)</li>
@@ -3558,6 +3580,10 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
+            <li>VERB--NOUN (3746)</li>
+            <li>VERB--NOUN-ADP(_) (21)</li>
+            <li>VERB--PRON (1248)</li>
+            <li>VERB--PRON-ADP(_) (6)</li>
           </ul>
         </li>
       </ul>
@@ -3593,17 +3619,17 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB-Fin--NOUN (1004)</li>
+            <li>VERB-Fin--NOUN (1007)</li>
             <li>VERB-Fin--PRON (55)</li>
-            <li>VERB-Fin--PRON-Acc (131)</li>
+            <li>VERB-Fin--PRON-Acc (130)</li>
             <li>VERB-Fin--PRON-Nom (2)</li>
             <li>VERB-Ger--NOUN (430)</li>
             <li>VERB-Ger--PRON (10)</li>
             <li>VERB-Ger--PRON-Acc (35)</li>
             <li>VERB-Ger--PRON-Nom (1)</li>
-            <li>VERB-Inf--NOUN (1259)</li>
+            <li>VERB-Inf--NOUN (1262)</li>
             <li>VERB-Inf--PRON (62)</li>
-            <li>VERB-Inf--PRON-Acc (177)</li>
+            <li>VERB-Inf--PRON-Acc (178)</li>
             <li>VERB-Inf--PRON-Nom (2)</li>
             <li>VERB-Part--NOUN (181)</li>
             <li>VERB-Part--PRON (18)</li>
@@ -3617,15 +3643,15 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB--NOUN (96)</li>
+            <li>VERB--NOUN (97)</li>
             <li>VERB--PRON (8)</li>
             <li>VERB--PRON-Acc (20)</li>
             <li>VERB--PRON-Nom (2)</li>
-            <li>VERB-Fin--NOUN (1071)</li>
+            <li>VERB-Fin--NOUN (1078)</li>
             <li>VERB-Fin--NOUN-ADP(for) (2)</li>
             <li>VERB-Fin--NOUN-ADP(in) (1)</li>
             <li>VERB-Fin--NOUN-ADP(out) (1)</li>
-            <li>VERB-Fin--NOUN-ADP(to) (3)</li>
+            <li>VERB-Fin--NOUN-ADP(to) (4)</li>
             <li>VERB-Fin--NOUN-ADP(up) (1)</li>
             <li>VERB-Fin--NOUN-ADP(with) (1)</li>
             <li>VERB-Fin--NOUN-Nom (28)</li>
@@ -3633,13 +3659,13 @@ udver: '2'
             <li>VERB-Fin--PRON-Acc (172)</li>
             <li>VERB-Fin--PRON-Acc-ADP(with) (1)</li>
             <li>VERB-Fin--PRON-Nom (11)</li>
-            <li>VERB-Inf--NOUN (774)</li>
+            <li>VERB-Inf--NOUN (778)</li>
             <li>VERB-Inf--NOUN-Nom (17)</li>
-            <li>VERB-Inf--PRON (188)</li>
+            <li>VERB-Inf--PRON (189)</li>
             <li>VERB-Inf--PRON-ADP(as) (1)</li>
             <li>VERB-Inf--PRON-Acc (111)</li>
             <li>VERB-Inf--PRON-Nom (10)</li>
-            <li>VERB-Part--NOUN (580)</li>
+            <li>VERB-Part--NOUN (586)</li>
             <li>VERB-Part--NOUN-ADP(to) (1)</li>
             <li>VERB-Part--NOUN-Nom (13)</li>
             <li>VERB-Part--PRON (83)</li>
@@ -3724,7 +3750,7 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB-Fin--NOUN (11)</li>
+            <li>VERB-Fin--NOUN (9)</li>
             <li>VERB-Fin--PRON-Acc (19)</li>
             <li>VERB-Ger--NOUN (6)</li>
             <li>VERB-Ger--PRON-Acc (5)</li>
@@ -3741,7 +3767,7 @@ udver: '2'
         <li><a>iobj</a>
           <ul>
             <li>VERB--PRON-Acc (1)</li>
-            <li>VERB-Fin--NOUN (9)</li>
+            <li>VERB-Fin--NOUN (8)</li>
             <li>VERB-Fin--PRON (5)</li>
             <li>VERB-Fin--PRON-Acc (26)</li>
             <li>VERB-Inf--NOUN (3)</li>
@@ -3872,8 +3898,8 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 7 relation subtypes: <a>acl:relcl</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>det:predet</a>, <a>nmod:npmod</a>, <a>nmod:poss</a>, <a>nmod:tmod</a></li>
-      <li>The following 7 relation types are not used in this corpus at all: <a>obj</a>, <a>obl</a>, <a>clf</a>, <a>fixed</a>, <a>flat</a>, <a>orphan</a>, <a>dep</a></li>
+      <li>This corpus uses 11 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>nmod:npmod</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:npmod</a>, <a>obl:tmod</a></li>
+      <li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>dep</a></li>
       </ul>
     </td>
     <td width="16%" valign="top">
@@ -3889,7 +3915,7 @@ udver: '2'
       
       <ul>
       <li>This corpus uses 12 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>cc:preconj</a>, <a>compound:prt</a>, <a>csubj:pass</a>, <a>det:predet</a>, <a>nmod:npmod</a>, <a>nmod:poss</a>, <a>nmod:tmod</a>, <a>nsubj:pass</a>, <a>obl:npmod</a>, <a>obl:tmod</a></li>
-      <li>The following 3 relation types are not used in this corpus at all: <a>dislocated</a>, <a>clf</a>, <a>list</a></li>
+      <li>The following 2 relation types are not used in this corpus at all: <a>clf</a>, <a>list</a></li>
       </ul>
     </td>
     <td width="16%" valign="top">

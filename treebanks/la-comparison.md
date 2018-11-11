@@ -30,7 +30,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 21014 sentences and 353034 tokens.</li>
+      <li>This corpus contains 21011 sentences and 353036 tokens.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -47,7 +47,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 48507 tokens (14%) that are not followed by a space.</li>
+      <li>This corpus contains 48509 tokens (14%) that are not followed by a space.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -144,7 +144,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 82 word types tagged as particles (PART): adhuc, alibi, alioquin, aliquando, amen, autem, bene, dehinc, deinde, demum, deorsum, ecce, enim, ergo, et, etiam, forsitan, hic, huiusmodi, hujusmodi, iam, ibi, ideo, idest, igitur, immo, inde, insuper, interdum, invicem, ita, itaque, item, itemque, iterum, magis, nam, ne, nec, necnon, nequaquam, neque, non, nondum, nunc, nunquam, omnino, postea, postmodum, praesertim, praeterea, pridie, quandoque, quantum, quare, quia, quidem, quinimmo, quodammodo, quomodo, rursus, scilicet, semper, seorsum, sic, simul, sive, solummodo, sursum, tamen, tandem, tantum, tum, tunc, ubi, ubique, unde, utique, utpote, utrum, vae, videlicet</li>
+      <li>This corpus contains 83 word types tagged as particles (PART): adhuc, alibi, alioquin, aliquando, amen, autem, bene, dehinc, deinde, demum, deorsum, ecce, enim, ergo, et, etiam, forsitan, hic, huiusmodi, hujusmodi, iam, ibi, ideo, idest, igitur, immo, inde, insuper, interdum, invicem, ita, itaque, item, itemque, iterum, magis, nam, ne, nec, necnon, nequaquam, neque, non, nondum, nunc, nunquam, omnino, postea, postmodum, praesertim, praeterea, pridie, quandoque, quantum, quare, quia, quidem, quinimmo, quodammodo, quomodo, rursus, scilicet, sed, semper, seorsum, sic, simul, sive, solummodo, sursum, tamen, tandem, tantum, tum, tunc, ubi, ubique, unde, utique, utpote, utrum, vae, videlicet</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -208,7 +208,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>This corpus contains 33 lemmas tagged as auxiliaries (AUX): accipio, ago, apprehendo, cognosco, computo, confiteor, considero, conspicio, convenio, denomino, dico, efficio, exsisto, fabulor, facio, fero, instituo, intellego, invenio, lego, maneo, oportet, ostendo, pono, possum, reddo, remaneo, sentio, significo, subsisto, sum, suppono, video</li>
+      <li>This corpus contains 31 lemmas tagged as auxiliaries (AUX): accipio, ago, apprehendo, cognosco, considero, conspicio, convenio, denomino, dico, efficio, exsisto, fabulor, facio, fero, instituo, intellego, invenio, lego, maneo, oportet, ostendo, pono, possum, reddo, remaneo, sentio, significo, subsisto, sum, suppono, video</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -225,7 +225,7 @@ udver: '2'
   <tr>
     <td width="33%" valign="top">
       <ul>
-      <li>Out of the above, 32 lemmas occurred sometimes as AUX and sometimes as VERB: accipio, ago, apprehendo, cognosco, computo, confiteor, considero, conspicio, convenio, denomino, dico, efficio, exsisto, facio, fero, instituo, intellego, invenio, lego, maneo, oportet, ostendo, pono, possum, reddo, remaneo, sentio, significo, subsisto, sum, suppono, video</li>
+      <li>Out of the above, 30 lemmas occurred sometimes as AUX and sometimes as VERB: accipio, ago, apprehendo, cognosco, considero, conspicio, convenio, denomino, dico, efficio, exsisto, facio, fero, instituo, intellego, invenio, lego, maneo, oportet, ostendo, pono, possum, reddo, remaneo, sentio, significo, subsisto, sum, suppono, video</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -350,7 +350,7 @@ udver: '2'
       <ul>
         <li>Inf
         <ul>
-          <li>AUX: esse, fuisse, dici, fieri, fore, confiteri, existere</li>
+          <li>AUX: esse, fuisse, dici, fore, existere</li>
           <li>VERB: esse, intelligere, fieri, habere, dici, facere, velle, dicere, agere, moveri</li>
         </ul>
         </li>
@@ -382,7 +382,7 @@ udver: '2'
       <ul>
         <li>Part
         <ul>
-          <li>AUX: facta, factae, cognitum, factas, factus, institutus</li>
+          <li>AUX: facta, factae, cognitum, factas, institutus</li>
           <li>VERB: ostensum, dictum, movens, separatae, agens, probatum, separata, dictis, consequens, separatas</li>
         </ul>
         </li>
@@ -554,7 +554,7 @@ udver: '2'
         <li>Masc
           <ul>
             <li>ADJ: possibilis, ultimum, primo, ultimus, universi, noster, suum, divinus, possibili, christi</li>
-            <li>AUX-Part: factus, institutus</li>
+            <li>AUX-Part: institutus</li>
             <li>DET: ly</li>
             <li>NOUN: intellectus, actu, finem, homo, modo, actus, finis, effectus, motus, modum</li>
             <li>NUM: unus, uno, unum, unius, duo, duobus, uni, duos, tres, duorum</li>
@@ -634,7 +634,7 @@ udver: '2'
             <li>ADJ: impossibile, primum, suum, possibile, infinitum, proprium, necessarium, manifestum, intelligibilia, multa</li>
             <li>AUX-Part: facta, cognitum</li>
             <li>CCONJ: obiectum</li>
-            <li>DET: plerumque, pleraque</li>
+            <li>DET: plerumque, ly, pleraque</li>
             <li>NOUN: esse, bonum, corpus, principium, corporis, malum, agens, accidens, corpore, ens</li>
             <li>NUM: unum, duo, uno, unius, duobus, tria, duorum, quatuor, uni, tribus</li>
             <li>PRON: quod, hoc, quae, aliquid, omnia, se, nihil, ea, quo, illud</li>
@@ -778,9 +778,9 @@ udver: '2'
         <li>Sing
           <ul>
             <li>ADJ: divina, suam, sua, impossibile, divinae, suum, primum, divinam, possibilis, prima</li>
-            <li>AUX-Fin: est, sit, esset, erit, fuit, fuerit, dicitur, erat, fit, videtur</li>
+            <li>AUX-Fin: est, sit, esset, erit, fuit, fuerit, dicitur, erat, videtur, fit</li>
             <li>AUX-Ger: essendi</li>
-            <li>AUX-Part: cognitum, factus, institutus</li>
+            <li>AUX-Part: cognitum, institutus</li>
             <li>CCONJ: obiectum</li>
             <li>DET: plerumque</li>
             <li>NOUN: forma, esse, intellectus, formam, materia, anima, potentia, actu, bonum, formae</li>
@@ -1097,7 +1097,7 @@ udver: '2'
         <li>Nom
           <ul>
             <li>ADJ: impossibile, divina, sua, possibilis, prima, possibile, primum, manifestum, intellectualis, suum</li>
-            <li>AUX-Part: facta, factae, factus, institutus</li>
+            <li>AUX-Part: facta, factae, institutus</li>
             <li>CCONJ: obiectum</li>
             <li>DET: plerumque, pleraque</li>
             <li>NOUN: forma, intellectus, anima, causa, homo, esse, materia, bonum, substantia, formae</li>
@@ -1262,7 +1262,7 @@ udver: '2'
             <li>ADJ: plures, prius, inferioribus, plura, pluribus, superioribus, inferiora, maius, superior, melius</li>
             <li>ADV: prius, minus, ulterius, perfectius, exterius, amplius, superius, melius, plus, potius</li>
             <li>NOUN: amplius, prius, minus, pluribus, paucioribus, ulterius, plura, inferior, inferiora, inferiores</li>
-            <li>VERB-Part: convenientior, eminentior, perfectiorem, excelsior, expressior, intensior, perfectior, perfectiores, remotiora, completius</li>
+            <li>VERB-Part: convenientior, eminentior, perfectiorem, excelsior, expressior, intensior, perfectior, perfectiores, potentior, remotiora</li>
             <li>X: ephes.</li>
           </ul>
         </li>
@@ -1298,7 +1298,7 @@ udver: '2'
             <li>ADJ: divina, suam, sua, impossibile, divinae, suum, prima, primum, divinam, possibilis</li>
             <li>ADV: solum, vero, naturaliter, simpliciter, similiter, primo, hinc, perfecte, proprie, immediate</li>
             <li>AUX-Ger: essendi</li>
-            <li>AUX-Part: facta, factae, cognitum, factas, factus, institutus</li>
+            <li>AUX-Part: facta, factae, cognitum, factas, institutus</li>
             <li>CCONJ: obiectum</li>
             <li>DET: plerumque, pleraque</li>
             <li>NOUN: forma, intellectus, formam, formae, materia, anima, potentia, actu, bonum, causa</li>
@@ -1478,7 +1478,7 @@ udver: '2'
           <ul>
             <li>AUX-Fin: fuit, fuerit, fuisset, fuerunt, fuerint, fuerat, fuissent, fuerant, fuerimus</li>
             <li>AUX-Inf: fuisse</li>
-            <li>AUX-Part: facta, factae, cognitum, factas, factus, institutus</li>
+            <li>AUX-Part: facta, factae, cognitum, factas, institutus</li>
             <li>VERB-Fin: posuerunt, posuit, fuit, dixerunt, dixit, fuerunt, fuerit, oportuit, dedit, ostendi</li>
             <li>VERB-Inf: fuisse, creasse, processisse, apparuisse, fecisse, posuisse, praefuisse, descendisse, extitisse, habuisse</li>
             <li>VERB-Part: ostensum, dictum, separatae, probatum, separata, dictis, separatas, praemissis, praedicta, intellecta</li>
@@ -1567,7 +1567,7 @@ udver: '2'
       <ul>
         <li>Ind
           <ul>
-            <li>AUX-Fin: est, sunt, erit, fuit, fuerit, dicitur, erat, fit, videtur, erunt</li>
+            <li>AUX-Fin: est, sunt, erit, fuit, fuerit, dicitur, erat, videtur, erunt, fit</li>
             <li>VERB-Fin: est, potest, oportet, habet, dicitur, sunt, patet, dicit, videtur, fit</li>
           </ul>
         </li>
@@ -1706,7 +1706,7 @@ udver: '2'
           <ul>
             <li>AUX-Fin: fuit, fuerit, fuerunt, fuerint</li>
             <li>AUX-Inf: fuisse</li>
-            <li>AUX-Part: facta, factae, cognitum, factas, factus, institutus</li>
+            <li>AUX-Part: facta, factae, cognitum, factas, institutus</li>
             <li>VERB-Fin: posuerunt, posuit, fuit, dixerunt, dixit, fuerunt, oportuit, dedit, fuerit, ostendi</li>
             <li>VERB-Inf: fuisse, creasse, processisse, apparuisse, fecisse, posuisse, praefuisse, descendisse, extitisse, habuisse</li>
             <li>VERB-Part: ostensum, dictum, separatae, probatum, separata, dictis, separatas, praemissis, praedicta, intellecta</li>
@@ -1779,8 +1779,8 @@ udver: '2'
       <ul>
         <li>Pres
           <ul>
-            <li>AUX-Fin: est, sit, sunt, sint, dicitur, fit, videtur, sum, sumus, es</li>
-            <li>AUX-Inf: esse, dici, fieri, confiteri, existere</li>
+            <li>AUX-Fin: est, sit, sunt, sint, dicitur, videtur, fit, sum, sumus, es</li>
+            <li>AUX-Inf: esse, dici, existere</li>
             <li>NUM: duo</li>
             <li>VERB-Fin: est, potest, oportet, habet, dicitur, sunt, patet, sit, dicit, videtur</li>
             <li>VERB-Inf: esse, intelligere, fieri, habere, dici, facere, velle, dicere, agere, moveri</li>
@@ -1887,9 +1887,9 @@ udver: '2'
       <ul>
         <li>Pass
           <ul>
-            <li>AUX-Fin: dicitur, fit, videtur, fiunt, invenitur, efficitur, fiat, inveniuntur, videntur, conspiciuntur</li>
-            <li>AUX-Inf: dici, fieri, confiteri</li>
-            <li>AUX-Part: facta, factae, cognitum, factas, factus, institutus</li>
+            <li>AUX-Fin: dicitur, videtur, fit, fiunt, invenitur, fiat, inveniuntur, videntur, conspiciuntur, dicatur</li>
+            <li>AUX-Inf: dici</li>
+            <li>AUX-Part: facta, factae, cognitum, factas, institutus</li>
             <li>VERB-Fin: dicitur, videtur, fit, sequitur, invenitur, movetur, dicuntur, relinquitur, consequitur, fiat</li>
             <li>VERB-Gdv: dicendum, considerandum, sciendum, ostendendum, intelligendum, consideranda, ponenda, intelligendas, inquirendum, exhibendus</li>
             <li>VERB-Ger: loquendo, operandum, operando, consequendum, operandi, ratiocinando, loquendi, consequendo, consiliandi, fiendi</li>
@@ -2602,7 +2602,7 @@ udver: '2'
       <h3>Auxiliary Verbs and Copula</h3>
       
       <ul>
-      <li>This corpus uses 51 lemmas as copulas (<a>cop</a>). Examples: sum, dico, facio, video, invenio, pono, remaneo, intellego, efficio, conspicio, esse, et, scilicet, cognosco, considero, exsisto, lego, ostendo, subsisto, ;, ab, accipio, ago, apprehendo, beatitudo, computo, confiteor, convenio, denomino, differentia, fabulor, fames, fero, generatio, instituo, maneo, materia, modus, neque, oportet, possum, praeparatio, providentia, quidam, reddo, sentio, significo, subjectum, suppono, unus.</li>
+      <li>This corpus uses 47 lemmas as copulas (<a>cop</a>). Examples: sum, dico, facio, video, invenio, pono, remaneo, intellego, conspicio, efficio, esse, cognosco, considero, et, exsisto, lego, ostendo, subsisto, ;, ab, accipio, ago, apprehendo, beatitudo, convenio, denomino, differentia, fabulor, fames, fero, generatio, instituo, maneo, modus, neque, oportet, possum, praeparatio, providentia, quidam, reddo, sentio, significo, subjectum, suppono, unus, vel.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -2651,26 +2651,25 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB-Fin--NOUN (3)</li>
-            <li>VERB-Fin--NOUN-Acc (36)</li>
-            <li>VERB-Fin--NOUN-Nom (8156)</li>
+            <li>VERB-Fin--NOUN-Acc (40)</li>
+            <li>VERB-Fin--NOUN-Nom (8172)</li>
             <li>VERB-Fin--PRON (2)</li>
             <li>VERB-Fin--PRON-Acc (45)</li>
-            <li>VERB-Fin--PRON-Nom (5083)</li>
+            <li>VERB-Fin--PRON-Nom (5084)</li>
             <li>VERB-Gdv--NOUN-Abl (2)</li>
             <li>VERB-Gdv--NOUN-Acc (10)</li>
+            <li>VERB-Gdv--NOUN-Nom (1)</li>
             <li>VERB-Gdv--PRON-Acc (1)</li>
             <li>VERB-Ger--NOUN-Abl (4)</li>
             <li>VERB-Ger--NOUN-Acc (1)</li>
             <li>VERB-Ger--PRON-Acc (2)</li>
-            <li>VERB-Inf--NOUN-Acc (455)</li>
+            <li>VERB-Inf--NOUN-Acc (452)</li>
             <li>VERB-Inf--NOUN-Nom (10)</li>
-            <li>VERB-Inf--NOUN-Nom-ADP(secundum) (1)</li>
             <li>VERB-Inf--PRON-Acc (234)</li>
             <li>VERB-Part--NOUN-Abl (155)</li>
             <li>VERB-Part--NOUN-Acc (51)</li>
             <li>VERB-Part--NOUN-Nom (324)</li>
-            <li>VERB-Part--PRON-Abl (43)</li>
+            <li>VERB-Part--PRON-Abl (44)</li>
             <li>VERB-Part--PRON-Acc (46)</li>
             <li>VERB-Part--PRON-Nom (227)</li>
           </ul>
@@ -2777,15 +2776,15 @@ udver: '2'
         <li><a>obj</a>
           <ul>
             <li>VERB--PRON-Dat (1)</li>
-            <li>VERB-Fin--NOUN-Abl (206)</li>
-            <li>VERB-Fin--NOUN-Acc (4426)</li>
-            <li>VERB-Fin--NOUN-Dat (905)</li>
+            <li>VERB-Fin--NOUN-Abl (209)</li>
+            <li>VERB-Fin--NOUN-Acc (4418)</li>
+            <li>VERB-Fin--NOUN-Dat (906)</li>
             <li>VERB-Fin--NOUN-Gen (6)</li>
-            <li>VERB-Fin--NOUN-Nom (23)</li>
+            <li>VERB-Fin--NOUN-Nom (37)</li>
             <li>VERB-Fin--PRON (2)</li>
             <li>VERB-Fin--PRON-Abl (79)</li>
             <li>VERB-Fin--PRON-Acc (2020)</li>
-            <li>VERB-Fin--PRON-Dat (616)</li>
+            <li>VERB-Fin--PRON-Dat (618)</li>
             <li>VERB-Fin--PRON-Gen (4)</li>
             <li>VERB-Fin--PRON-Nom (11)</li>
             <li>VERB-Gdv--NOUN-Abl (2)</li>
@@ -2793,23 +2792,24 @@ udver: '2'
             <li>VERB-Gdv--NOUN-Dat (14)</li>
             <li>VERB-Gdv--PRON-Dat (5)</li>
             <li>VERB-Ger--NOUN-Abl (6)</li>
-            <li>VERB-Ger--NOUN-Acc (243)</li>
+            <li>VERB-Ger--NOUN-Acc (242)</li>
             <li>VERB-Ger--NOUN-Dat (11)</li>
+            <li>VERB-Ger--NOUN-Nom (1)</li>
             <li>VERB-Ger--PRON-Acc (121)</li>
             <li>VERB-Ger--PRON-Dat (12)</li>
-            <li>VERB-Inf--NOUN-Abl (36)</li>
-            <li>VERB-Inf--NOUN-Acc (862)</li>
-            <li>VERB-Inf--NOUN-Dat (162)</li>
-            <li>VERB-Inf--NOUN-Nom (5)</li>
+            <li>VERB-Inf--NOUN-Abl (38)</li>
+            <li>VERB-Inf--NOUN-Acc (858)</li>
+            <li>VERB-Inf--NOUN-Dat (160)</li>
+            <li>VERB-Inf--NOUN-Nom (11)</li>
             <li>VERB-Inf--PRON-Abl (5)</li>
             <li>VERB-Inf--PRON-Acc (385)</li>
             <li>VERB-Inf--PRON-Dat (103)</li>
             <li>VERB-Inf--PRON-Nom (1)</li>
-            <li>VERB-Part--NOUN-Abl (42)</li>
-            <li>VERB-Part--NOUN-Acc (549)</li>
-            <li>VERB-Part--NOUN-Dat (275)</li>
+            <li>VERB-Part--NOUN-Abl (43)</li>
+            <li>VERB-Part--NOUN-Acc (544)</li>
+            <li>VERB-Part--NOUN-Dat (277)</li>
             <li>VERB-Part--NOUN-Gen (3)</li>
-            <li>VERB-Part--NOUN-Nom (1)</li>
+            <li>VERB-Part--NOUN-Nom (6)</li>
             <li>VERB-Part--PRON-Abl (5)</li>
             <li>VERB-Part--PRON-Acc (184)</li>
             <li>VERB-Part--PRON-Dat (145)</li>
@@ -2914,14 +2914,14 @@ udver: '2'
         <li><a>iobj</a>
           <ul>
             <li>VERB-Fin--NOUN-Abl (1)</li>
-            <li>VERB-Fin--NOUN-Dat (186)</li>
-            <li>VERB-Fin--NOUN-Nom (3)</li>
+            <li>VERB-Fin--NOUN-Dat (183)</li>
+            <li>VERB-Fin--NOUN-Nom (6)</li>
             <li>VERB-Fin--PRON-Abl (3)</li>
-            <li>VERB-Fin--PRON-Dat (207)</li>
+            <li>VERB-Fin--PRON-Dat (205)</li>
             <li>VERB-Fin--PRON-Nom (2)</li>
             <li>VERB-Ger--NOUN-Dat (5)</li>
             <li>VERB-Ger--PRON-Dat (7)</li>
-            <li>VERB-Inf--NOUN-Abl (2)</li>
+            <li>VERB-Inf--NOUN-Abl (1)</li>
             <li>VERB-Inf--NOUN-Dat (25)</li>
             <li>VERB-Inf--PRON-Dat (37)</li>
             <li>VERB-Part--NOUN-Dat (22)</li>
@@ -3037,9 +3037,9 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 13 relation subtypes: <a>acl:appos</a>, <a>acl:relcl</a>, <a>advcl:appos</a>, <a>advmod:appos</a>, <a>advmod:cc</a>, <a>advmod:emph</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>dep:nr</a>, <a>expl:pass</a>, <a>nmod:appos</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
-      <li>The following 2 main types are not used alone, they are always subtyped: <a>dep</a>, <a>expl</a></li>
-      <li>The following 7 relation types are not used in this corpus at all: <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>flat</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a></li>
+      <li>This corpus uses 15 relation subtypes: <a>acl:appos</a>, <a>acl:relcl</a>, <a>advcl:appos</a>, <a>advcl:arg</a>, <a>advmod:appos</a>, <a>advmod:cc</a>, <a>advmod:emph</a>, <a>amod:advmod</a>, <a>aux:pass</a>, <a>csubj:pass</a>, <a>expl:pass</a>, <a>nmod:advmod</a>, <a>nmod:appos</a>, <a>nsubj:pass</a>, <a>obl:arg</a></li>
+      <li>The following 1 main types are not used alone, they are always subtyped: <a>expl</a></li>
+      <li>The following 7 relation types are not used in this corpus at all: <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
     </td>
     <td width="33%" valign="top">

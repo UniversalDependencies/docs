@@ -458,7 +458,7 @@ udver: '2'
       <ul>
         <li>Gen
           <ul>
-            <li>PRON: beider, uwer, zijner</li>
+            <li>PRON: uwer, zijner</li>
           </ul>
         </li>
       </ul>
@@ -1153,7 +1153,7 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
-            <li>VERB-Fin--NOUN (1314)</li>
+            <li>VERB-Fin--NOUN (1316)</li>
             <li>VERB-Fin--PRON (624)</li>
             <li>VERB-Fin--PRON-Nom (397)</li>
             <li>VERB-Inf--NOUN (98)</li>
@@ -1240,7 +1240,7 @@ udver: '2'
       <ul>
         <li><a>iobj</a>
           <ul>
-            <li>VERB-Fin--NOUN (12)</li>
+            <li>VERB-Fin--NOUN (11)</li>
             <li>VERB-Fin--PRON (2)</li>
             <li>VERB-Fin--PRON-Acc (10)</li>
             <li>VERB-Inf--NOUN (10)</li>
@@ -1304,8 +1304,8 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>expl:pv</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
-      <li>The following 2 main types are not used alone, they are always subtyped: <a>compound</a>, <a>flat</a></li>
+      <li>This corpus uses 7 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>expl:pv</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
+      <li>The following 1 main types are not used alone, they are always subtyped: <a>compound</a></li>
       <li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
     </td>
@@ -1313,8 +1313,8 @@ udver: '2'
       <h3>Relations Overview</h3>
       
       <ul>
-      <li>This corpus uses 8 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>expl:pv</a>, <a>flat:name</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
-      <li>The following 2 main types are not used alone, they are always subtyped: <a>compound</a>, <a>flat</a></li>
+      <li>This corpus uses 7 relation subtypes: <a>acl:relcl</a>, <a>aux:pass</a>, <a>compound:prt</a>, <a>expl:pv</a>, <a>nmod:poss</a>, <a>nsubj:pass</a>, <a>obl:agent</a></li>
+      <li>The following 1 main types are not used alone, they are always subtyped: <a>compound</a></li>
       <li>The following 8 relation types are not used in this corpus at all: <a>vocative</a>, <a>dislocated</a>, <a>discourse</a>, <a>clf</a>, <a>list</a>, <a>goeswith</a>, <a>reparandum</a>, <a>dep</a></li>
       </ul>
     </td>

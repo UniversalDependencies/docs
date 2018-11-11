@@ -115,7 +115,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 90 lemmas tagged as pronouns (PRON): -te, -ul, L, acel, acela, același, acesta, alt, altceva, altcineva, altul, atâta, care, ce, cel, celui, celălalt, cesta, ceva, cine, cineva, cineși, cât, câtva, destul, dumneata, dânsul, ei, el, ell, eluși, eu, fi, fiecare, fiecine, fiește, fieștecare, fieștecine, fieștedecare, fiștecare, fiștecine, lui, meu, mie, mineși, mult, măria, neștine, niciunul, nimeni, nimic, nimicuța, noiși, nostru, nou, oare, oarecare, oarece, oarecince, oarecine, oarecât, oricât, puțin, sfinția, sine, sineși, său, tot, tu, tău, un, una, unul, varecât, voao, voi, voiși, vostru, vrea, vreun, vreunul, îns, însul, însumi, însuși, însuți, ălalalt, ălălalt, ăsta, și</li>
+      <li>This corpus contains 66 lemmas tagged as pronouns (PRON): acela, același, acesta, altceva, altcineva, altul, atâta, care, ce, cel, celălalt, ceva, cine, cineva, cineși, cât, câtva, destul, dumneata, dânsul, ei, el, eluși, eu, fiecare, fiecine, fiește, fieștecare, fieștecine, fiștecine, meu, mineși, mult, măria, neștine, niciunul, nimeni, nimic, nimicuța, noiși, nostru, oare, oarecare, oarece, oarecine, oarecât, oricât, puțin, sfinția, sine, sineși, său, tot, tu, tău, unul, voi, voiși, vostru, vreunul, însul, însumi, însuși, însuți, ălalalt, ăsta</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -127,7 +127,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 55 lemmas tagged as determiners (DET): -ul, a, acel, acela, același, acesta, acstea, acătare, al, alt, altul, atât, avea, care, ce, cel, celălalt, ceva, cât, câtva, destul, el, fiecare, fietecare, fiește, fieștecare, mea, meu, mult, mut, niciun, nostru, oare, oare-, ori, orice, plin, puțin, puțintel, său, tot, tău, un, unul, vostru, vreun, vreunul, vrun, însumi, însuși, însuți, ăla, ălalalt, ălălalt, ăsta</li>
+      <li>This corpus contains 43 lemmas tagged as determiners (DET): -ul, acela, același, acesta, acătare, al, altul, atât, care, ce, cel, celălalt, ceva, cât, câtva, destul, fiecare, fiește, fieștecare, meu, mult, niciun, nostru, oare, ori, orice, plin, puțin, puțintel, său, tot, tău, un, unul, vostru, vreun, vreunul, însumi, însuși, însuți, ăla, ălalalt, ăsta</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -139,7 +139,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>Out of the above, 38 lemmas occurred sometimes as PRON and sometimes as DET: -ul, acel, acela, același, acesta, alt, altul, care, ce, cel, celălalt, ceva, cât, câtva, destul, el, fiecare, fiește, fieștecare, meu, mult, nostru, oare, puțin, său, tot, tău, un, unul, vostru, vreun, vreunul, însumi, însuși, însuți, ălalalt, ălălalt, ăsta</li>
+      <li>Out of the above, 31 lemmas occurred sometimes as PRON and sometimes as DET: acela, același, acesta, altul, care, ce, cel, celălalt, ceva, cât, câtva, destul, fiecare, fiește, fieștecare, meu, mult, nostru, oare, puțin, său, tot, tău, unul, vostru, vreunul, însumi, însuși, însuți, ălalalt, ăsta</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -151,7 +151,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus contains 13 lemmas tagged as auxiliaries (AUX): a, au, avea, el, fi, gândi, ori, putea, sobor, striga, trebui, vrea, ști</li>
+      <li>This corpus contains 6 lemmas tagged as auxiliaries (AUX): avea, fi, putea, trebui, vrea, ști</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -163,7 +163,7 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>Out of the above, 9 lemmas occurred sometimes as AUX and sometimes as VERB: avea, el, fi, gândi, putea, striga, trebui, vrea, ști</li>
+      <li>Out of the above, 6 lemmas occurred sometimes as AUX and sometimes as VERB: avea, fi, putea, trebui, vrea, ști</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -1490,6 +1490,7 @@ udver: '2'
             <li>AUX-Fin: am, pociu, Oi, poci, pot, voiu, îs</li>
             <li>DET: mieu, mea, voastră, nostru, meale, noastră, miei, noastre, noștri, meu</li>
             <li>PRON: eu, mine, noi, mă, voi, tu, ne, m-, -mi, noao</li>
+            <li>VERB: zic, am, sînt, știm, sîntem, știu, fac, sânt, grăescu, avem</li>
             <li>VERB-Fin: zic, am, sînt, știm, sîntem, știu, fac, sânt, grăescu, avem</li>
           </ul>
         </li>
@@ -1892,7 +1893,7 @@ udver: '2'
             </li>
             <li>Weak
               <ul>
-                <li>PRON: să, -l, -i, vă, mă, te, o, -să, le, ne</li>
+                <li>PRON: să, -l, -i, vă, mă, te, o, le, -să, ne</li>
               </ul>
             </li>
           </ul>
@@ -1941,8 +1942,8 @@ udver: '2'
   <tr>
     <td width="50%" valign="top">
       <ul>
-      <li>This corpus uses 20 lemmas as auxiliaries (<a>aux</a>). Examples: avea, vrea, putea, fi, a, sine, ști, trebui, al, tu, Pavel, apostol, el, mai, nu, oare, ori, răcni, voi, vor.</li>
-      <li>This corpus uses 3 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: fi, el, avea.</li>
+      <li>This corpus uses 19 lemmas as auxiliaries (<a>aux</a>). Examples: avea, vrea, putea, fi, sine, a, ști, trebui, al, tu, Pavel, apostol, el, mai, nu, oare, răcni, voi, vor.</li>
+      <li>This corpus uses 2 lemmas as passive auxiliaries (<a>aux:pass</a>). Examples: fi, avea.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -1960,6 +1961,7 @@ udver: '2'
       <ul>
         <li><a>nsubj</a>
           <ul>
+            <li>VERB--PRON-Nom (1)</li>
             <li>VERB-Fin--NOUN-Acc,Nom (2728)</li>
             <li>VERB-Fin--NOUN-Acc,Nom-ADP(ca) (1)</li>
             <li>VERB-Fin--NOUN-Acc,Nom-ADP(ca)-ADP(la) (1)</li>
@@ -2008,7 +2010,7 @@ udver: '2'
             <li>VERB-Part--NOUN-Acc,Nom-ADP(nostru) (1)</li>
             <li>VERB-Part--PRON (1)</li>
             <li>VERB-Part--PRON-Acc (5)</li>
-            <li>VERB-Part--PRON-Acc,Nom (479)</li>
+            <li>VERB-Part--PRON-Acc,Nom (480)</li>
             <li>VERB-Part--PRON-Dat,Gen (1)</li>
             <li>VERB-Part--PRON-Nom (99)</li>
           </ul>
@@ -2085,7 +2087,7 @@ udver: '2'
             <li>VERB-Fin--NOUN-Dat,Gen-ADP(înaintea) (1)</li>
             <li>VERB-Fin--NOUN-Voc (4)</li>
             <li>VERB-Fin--PRON (3)</li>
-            <li>VERB-Fin--PRON-Acc (1588)</li>
+            <li>VERB-Fin--PRON-Acc (1593)</li>
             <li>VERB-Fin--PRON-Acc,Nom (611)</li>
             <li>VERB-Fin--PRON-Acc,Nom-ADP(de) (2)</li>
             <li>VERB-Fin--PRON-Acc,Nom-ADP(pe) (1)</li>
@@ -2095,7 +2097,7 @@ udver: '2'
             <li>VERB-Fin--PRON-Dat (28)</li>
             <li>VERB-Fin--PRON-Dat,Gen (6)</li>
             <li>VERB-Fin--PRON-Gen (7)</li>
-            <li>VERB-Fin--PRON-Nom (16)</li>
+            <li>VERB-Fin--PRON-Nom (11)</li>
             <li>VERB-Ger--NOUN-Acc,Nom (473)</li>
             <li>VERB-Ger--NOUN-Acc,Nom-ADP(pe) (1)</li>
             <li>VERB-Ger--NOUN-Acc,Nom-ADP(spre) (1)</li>

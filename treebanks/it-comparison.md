@@ -117,7 +117,7 @@ udver: '2'
     </td>
     <td width="25%" valign="top">
       <ul>
-      <li>This corpus contains 6217 types of words that contain both letters and punctuation. Examples: l', #grillo, #monti, #governo, e', c', #serviziopubblico, #piazzapulita, #m5s, d', un', #manovra, #berlusconi, @youtube, #mario, #politica, #lega, #ministri, #pd, #italia, :D, #Napolitano, po', #oramonti, #sapevatelo, @addthis, @beppe_grillo, #bersani, #rimontiamo, #pdl, B., #fullmonti, #bossi, @fattoquotidiano, c:, #rt, #crisi, #m5stour, #news, #roma, @skytg24, #fatepresto, #liberalizzazioni, @repubblicait, #ballarò, #cinemaInChiesa, #movimento5stelle, #antipolitica, #opencamera, #postofisso</li>
+      <li>This corpus contains 4133 types of words that contain both letters and punctuation. Examples: @user, l', #grillo, #monti, @user1, @user2, #governo, e', c', #serviziopubblico, @user3, #piazzapulita, #m5s, d', un', #manovra, #berlusconi, #mario, #politica, @user4, #lega, #ministri, #pd, #italia, :D, #Napolitano, po', #oramonti, #sapevatelo, #bersani, #rimontiamo, #pdl, @user5, B., #fullmonti, #bossi, c:, #rt, #crisi, #m5stour, #news, #roma, #fatepresto, #liberalizzazioni, #ballarò, #cinemaInChiesa, #movimento5stelle, #antipolitica, #opencamera, #postofisso</li>
       </ul>
     </td>
   </tr>
@@ -226,7 +226,7 @@ udver: '2'
     </td>
     <td width="25%" valign="top">
       <ul>
-      <li>This corpus contains 69 lemmas tagged as pronouns (PRON): alcuno, altro, ce, che, chi, chiunque, ché, ci, ciò, coloro, cosa, costui, cui, c’, dove, egli, entrambi, esso, gli, il, io, la, le, li, lo, loro, me, mi, mio, molto, ne, nessuno, niente, noi, nostro, nulla, ognuno, parecchio, poco, qual, qualche, qualcosa, qualcosaltro, qualcuno, quale, quando, quanto, quello, questo, se, si, stesso, suo, sé, tanto, te, terzo, ti, tu, tuo, tutto, una, uni, uno, ve, vi, voi, voialtri, vostro</li>
+      <li>This corpus contains 68 lemmas tagged as pronouns (PRON): alcuno, altro, ce, che, chi, chiunque, ché, ci, ciò, coloro, cosa, costui, cui, c’, egli, entrambi, esso, gli, il, io, la, le, li, lo, loro, me, mi, mio, molto, ne, nessuno, niente, noi, nostro, nulla, ognuno, parecchio, poco, qual, qualche, qualcosa, qualcosaltro, qualcuno, quale, quando, quanto, quello, questo, se, si, stesso, suo, sé, tanto, te, terzo, ti, tu, tuo, tutto, una, uni, uno, ve, vi, voi, voialtri, vostro</li>
       </ul>
     </td>
   </tr>
@@ -528,6 +528,7 @@ udver: '2'
             <li>NOUN: città, parte, persone, legge, società, proprietà, attività, vita, servitù, commissione</li>
             <li>PRON: la, le, quella, quelle, una, questa, essa, esse, altra, lei</li>
             <li>PROPN: hye</li>
+            <li>VERB-Fin: prese</li>
             <li>VERB-Part: fatta, stabilite, fatte, vista, dovuta, considerata, costituita, fondata, nata, chiamata</li>
           </ul>
         </li>
@@ -692,7 +693,7 @@ udver: '2'
         <li>Plur
           <ul>
             <li>ADJ: altri, grandi, seguenti, nazionali, importanti, locali, altre, speciali, internazionali, italiani</li>
-            <li>AUX-Fin: sono, hanno, possono, erano, siano, devono, abbiamo, possiamo, siamo, avevano</li>
+            <li>AUX-Fin: sono, hanno, possono, erano, siano, devono, abbiamo, possiamo, siamo, vengono</li>
             <li>AUX-Part: stati, state, potuti</li>
             <li>DET: i, le, gli, tutti, suoi, alcuni, quanti, sue, questi, queste</li>
             <li>NOUN: anni, persone, paesi, opere, cittadini, diritti, giorni, membri, donne, condizioni</li>
@@ -1529,7 +1530,7 @@ udver: '2'
         <li>Imp
           <ul>
             <li>AUX-Fin: era, erano, aveva, avevano, fosse, avesse, poteva, potevano, fossero, avevo</li>
-            <li>VERB-Fin: era, aveva, chiamava, erano, faceva, avevano, facevano, diceva, lavorava, lavoravano</li>
+            <li>VERB-Fin: era, aveva, chiamava, erano, avevano, faceva, facevano, diceva, lavorava, lavoravano</li>
           </ul>
         </li>
       </ul>
@@ -2043,7 +2044,7 @@ udver: '2'
         <li>Rel
           <ul>
             <li>CCONJ: che</li>
-            <li>PRON: che, chi, cui, quanto, dove, ke, quale, chiunque, cha, k</li>
+            <li>PRON: che, chi, cui, quanto, ke, quale, chiunque, cha, k, quanta</li>
           </ul>
         </li>
       </ul>
@@ -2650,7 +2651,7 @@ udver: '2'
       <h3>Auxiliary Verbs and Copula</h3>
       
       <ul>
-      <li>This corpus uses 1 lemmas as copulas (<a>cop</a>). Examples: essere.</li>
+      <li>This corpus uses 3 lemmas as copulas (<a>cop</a>). Examples: essere, sono, stare.</li>
       </ul>
     </td>
     <td width="25%" valign="top">
@@ -2716,12 +2717,12 @@ udver: '2'
         <li><a>nsubj</a>
           <ul>
             <li>VERB-Fin--NOUN (3774)</li>
-            <li>VERB-Fin--PRON (1883)</li>
+            <li>VERB-Fin--PRON (1881)</li>
             <li>VERB-Ger--NOUN (46)</li>
             <li>VERB-Ger--PRON (21)</li>
-            <li>VERB-Inf--NOUN (609)</li>
+            <li>VERB-Inf--NOUN (610)</li>
             <li>VERB-Inf--PRON (187)</li>
-            <li>VERB-Part--NOUN (1298)</li>
+            <li>VERB-Part--NOUN (1300)</li>
             <li>VERB-Part--NOUN-ADP(di) (2)</li>
             <li>VERB-Part--PRON (560)</li>
           </ul>
@@ -2792,15 +2793,15 @@ udver: '2'
       <ul>
         <li><a>obj</a>
           <ul>
-            <li>VERB-Fin--NOUN (3535)</li>
-            <li>VERB-Fin--PRON (766)</li>
+            <li>VERB-Fin--NOUN (3541)</li>
+            <li>VERB-Fin--PRON (767)</li>
             <li>VERB-Ger--NOUN (360)</li>
             <li>VERB-Ger--PRON (53)</li>
-            <li>VERB-Inf--NOUN (2882)</li>
+            <li>VERB-Inf--NOUN (2883)</li>
             <li>VERB-Inf--NOUN-ADP(in) (1)</li>
             <li>VERB-Inf--PRON (447)</li>
-            <li>VERB-Part--NOUN (1335)</li>
-            <li>VERB-Part--PRON (317)</li>
+            <li>VERB-Part--NOUN (1334)</li>
+            <li>VERB-Part--PRON (316)</li>
           </ul>
         </li>
       </ul>
@@ -2899,7 +2900,7 @@ udver: '2'
             <li>VERB-Fin--PRON-ADP(a) (3)</li>
             <li>VERB-Ger--PRON (12)</li>
             <li>VERB-Inf--NOUN-ADP(a) (1)</li>
-            <li>VERB-Inf--PRON (95)</li>
+            <li>VERB-Inf--PRON (94)</li>
             <li>VERB-Part--PRON (130)</li>
           </ul>
         </li>
