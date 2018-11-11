@@ -30,6 +30,7 @@ See also the relatived feature [Number[psor]]().
 * _տներ<b>ս</b>_ “<b>my</b> houses” `Person[psor]=1|Number[psor]=Sing|Number=Plur`
 * _գալ<b>ս</b>_ “<b>my</b> coming” `Person[psor]=1|Number[psor]=Sing|Number=Coll`
 * _քաղաք<b>ս</b>_ “<b>this</b> town” `Person[psor]=1|Number=Sing`
+* _օրեր<b>ս</b>_ “<b>in this</b> days” `Person[psor]=1|Number=Plur`
 * _(ես) ուսուցիչ<b>ս</b>_ “<b>I</b> the teacher” or “<b>my</b> teacher” `Person[psor]=1|Number=Sing` or `Person[psor]=1|Number[psor]=Sing|Number=Sing`
 * _ինք<b>ս</b>_ “<b>I myself</b>” `Person[psor]=1|Number[psor]=Sing|Number=Sing`
 * _հետ<b>ս</b>_ “with <b>me</b>” `Person[psor]=1|Number[psor]=Sing`
