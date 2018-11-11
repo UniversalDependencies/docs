@@ -13,6 +13,8 @@ Labels of language-specific relations explictly encode the core UD relation that
 
 
 ## acl
+- [acl:adv]():
+Ukrainian
 - [acl:appos]():
 Latin
 - [acl:cleft]():
@@ -23,7 +25,6 @@ Swedish
 - [acl:focus]():
 Breton
 - [acl:inf]():
-Hebrew,
 Portuguese
 - [acl:part]():
 Portuguese
@@ -34,10 +35,12 @@ Arabic,
 Armenian,
 Belarusian,
 Breton,
+Bulgarian,
 Chinese,
 Danish,
 Dutch,
 English,
+Erzya,
 Estonian,
 Faroese,
 Finnish,
@@ -46,6 +49,7 @@ German,
 Greek,
 Hebrew,
 Hindi,
+Hindi English,
 Indonesian,
 Irish,
 Italian,
@@ -69,12 +73,15 @@ Swedish Sign Language,
 Telugu,
 Thai,
 Turkish,
+Ukrainian,
 Urdu
 
 
 
 ## advcl
 - [advcl:appos]():
+Latin
+- [advcl:arg]():
 Latin
 - [advcl:cleft]():
 French
@@ -100,6 +107,8 @@ Romanian
 Latin
 - [advmod:cc]():
 Latin
+- [advmod:det]():
+Ukrainian
 - [advmod:df]():
 Cantonese,
 Chinese
@@ -120,8 +129,6 @@ Tamil,
 Turkish,
 Upper Sorbian,
 Uyghur
-- [advmod:inf]():
-Hebrew
 - [advmod:locy]():
 Hungarian
 - [advmod:mode]():
@@ -135,10 +142,6 @@ Hungarian,
 Old French
 - [advmod:periph]():
 French
-- [advmod:phrase]():
-Hebrew
-- [advmod:quant]():
-Estonian
 - [advmod:que]():
 Hungarian
 - [advmod:tfrom]():
@@ -146,6 +149,7 @@ Hungarian
 - [advmod:tlocy]():
 Hungarian
 - [advmod:tmod]():
+Erzya,
 Romanian,
 Uyghur
 - [advmod:to]():
@@ -156,6 +160,8 @@ Hungarian
 
 
 ## amod
+- [amod:advmod]():
+Latin
 - [amod:att]():
 Hungarian
 - [amod:attlvc]():
@@ -179,12 +185,17 @@ French
 - [aux:aglt]():
 Polish
 - [aux:caus]():
+Armenian,
 Chinese,
 French
 - [aux:mood]():
 Polish
 - [aux:neg]():
+Erzya,
+Maltese,
 North Sami
+- [aux:part]():
+Maltese
 - [aux:pass]():
 Afrikaans,
 Ancient Greek,
@@ -209,6 +220,7 @@ Italian,
 Latin,
 Latvian,
 Lithuanian,
+Maltese,
 Marathi,
 Naija,
 Norwegian,
@@ -225,7 +237,7 @@ Thai,
 Upper Sorbian,
 Vietnamese
 - [aux:q]():
-Hebrew,
+Erzya,
 Turkish,
 Uyghur
 
@@ -241,6 +253,7 @@ Kurmanji
 - [case:dec]():
 Chinese
 - [case:det]():
+Maltese,
 Old French
 - [case:gen]():
 Hebrew
@@ -263,6 +276,7 @@ Old French
 - [cc:preconj]():
 Arabic,
 English,
+Erzya,
 Estonian,
 Faroese,
 Finnish,
@@ -273,7 +287,6 @@ Persian,
 Polish,
 Portuguese,
 Romanian,
-Russian,
 Slovenian,
 Spanish,
 Thai,
@@ -283,7 +296,6 @@ Turkish
 
 ## ccomp
 - [ccomp:cleft]():
-French,
 Naija
 - [ccomp:obj]():
 Hungarian,
@@ -300,6 +312,10 @@ Hungarian
 ## compound
 - [compound:a]():
 Indonesian
+- [compound:affix]():
+Hebrew
+- [compound:coll]():
+Erzya
 - [compound:conjv]():
 Hindi
 - [compound:dir]():
@@ -352,6 +368,8 @@ Yoruba
 Cantonese
 - [compound:redup]():
 Armenian,
+Bambara,
+Erzya,
 Hindi,
 Kurmanji,
 Marathi,
@@ -365,6 +383,7 @@ Hebrew
 - [compound:svc]():
 Amharic,
 Armenian,
+Erzya,
 Marathi,
 Naija,
 Swedish Sign Language,
@@ -391,8 +410,6 @@ Naija
 - [conj:dicto]():
 French,
 Naija
-- [conj:discourse]():
-Hebrew
 - [conj:extend]():
 Slovenian
 - [conj:svc]():
@@ -429,6 +446,7 @@ English,
 French,
 German,
 Gothic,
+Greek,
 Indonesian,
 Italian,
 Korean,
@@ -451,8 +469,6 @@ Naija
 ## dep
 - [dep:iobj]():
 French
-- [dep:nr]():
-Latin
 - [dep:obj]():
 French
 - [dep:prt]():
@@ -494,8 +510,8 @@ Portuguese,
 Spanish,
 Thai,
 Turkish
-- [det:quant]():
-Hebrew
+- [det:rel]():
+Bambara
 
 
 
@@ -548,6 +564,8 @@ Breton
 
 
 ## flat
+- [flat:abs]():
+Ukrainian
 - [flat:foreign]():
 Arabic,
 Buryat,
@@ -576,7 +594,7 @@ Arabic,
 Belarusian,
 Breton,
 Chinese,
-Dutch,
+Erzya,
 Finnish,
 French,
 Galician,
@@ -593,6 +611,7 @@ Komi Zyrian,
 Korean,
 Latin,
 Latvian,
+Maltese,
 Norwegian,
 Old Church Slavonic,
 Portuguese,
@@ -603,7 +622,11 @@ Swedish,
 Thai,
 Turkish,
 Ukrainian
+- [flat:range]():
+Ukrainian
 - [flat:repeat]():
+Ukrainian
+- [flat:sibl]():
 Ukrainian
 - [flat:title]():
 Ukrainian
@@ -641,6 +664,8 @@ Old French
 - [mark:prt]():
 Chinese,
 Irish
+- [mark:q]():
+Hebrew
 - [mark:rel]():
 Cantonese,
 Chinese
@@ -652,6 +677,8 @@ Chinese
 ## nmod
 - [nmod:abl]():
 Uyghur
+- [nmod:advmod]():
+Latin
 - [nmod:agent]():
 Romanian
 - [nmod:appos]():
@@ -669,6 +696,7 @@ Uyghur
 - [nmod:cmp]():
 Telugu
 - [nmod:comp]():
+Erzya,
 Uyghur
 - [nmod:dat]():
 Kurmanji
@@ -676,11 +704,12 @@ Kurmanji
 Breton
 - [nmod:gmod]():
 Arabic,
-German,
-Russian
+German
 - [nmod:gobj]():
+Erzya,
 Finnish
 - [nmod:gsubj]():
+Erzya,
 Finnish
 - [nmod:ins]():
 Uyghur
@@ -702,6 +731,7 @@ Romanian
 - [nmod:poss]():
 Arabic,
 Armenian,
+Bambara,
 Breton,
 Danish,
 Dutch,
@@ -717,12 +747,12 @@ Irish,
 Kazakh,
 Korean,
 Kurmanji,
+Maltese,
 Marathi,
 Naija,
 North Sami,
 Persian,
 Polish,
-Russian,
 Sanskrit,
 Swedish,
 Swedish Sign Language,
@@ -732,8 +762,6 @@ Thai,
 Turkish,
 Uyghur,
 Warlpiri
-- [nmod:range]():
-French
 - [nmod:ref]():
 Uyghur
 - [nmod:tmod]():
@@ -792,12 +820,14 @@ French,
 Galician,
 German,
 Gothic,
+Greek,
 Hindi,
 Indonesian,
 Italian,
 Korean,
 Latin,
 Latvian,
+Maltese,
 Marathi,
 Naija,
 Norwegian,
@@ -846,6 +876,7 @@ French
 - [obj:cau]():
 Uyghur
 - [obj:lvc]():
+French,
 Hungarian
 - [obj:obl]():
 Old French
@@ -867,12 +898,15 @@ Cantonese,
 Chinese,
 Czech,
 Dutch,
+Erzya,
 French,
 Gothic,
+Greek,
 Hindi,
 Italian,
 Latin,
 Lithuanian,
+Maltese,
 Old Church Slavonic,
 Polish,
 Portuguese,
@@ -885,6 +919,7 @@ Arabic,
 Czech,
 French,
 Latin,
+Maltese,
 Naija,
 Polish,
 Sanskrit,
@@ -920,16 +955,15 @@ Cantonese,
 Chinese,
 Danish,
 English,
+Erzya,
 French,
 German,
-Hebrew,
 Hindi,
 Indonesian,
 Irish,
 Italian,
 Korean,
 Portuguese,
-Russian,
 Spanish,
 Telugu,
 Thai,
@@ -965,18 +999,23 @@ Ukrainian
 - [parataxis:nsubj]():
 Italian
 - [parataxis:obj]():
+Bambara,
 French,
 Italian,
 Naija
 - [parataxis:parenth]():
 French,
 Naija
+- [parataxis:rel]():
+Ukrainian
 - [parataxis:restart]():
 Slovenian
 
 
 
 ## vocative
+- [vocative:cl]():
+Ukrainian
 - [vocative:mention]():
 Italian
 
@@ -986,6 +1025,7 @@ Italian
 - [xcomp:adj]():
 Portuguese
 - [xcomp:ds]():
+Erzya,
 Finnish
 - [xcomp:obj]():
 North Sami,
